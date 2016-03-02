@@ -2,6 +2,11 @@
  * Alexa Skills list generator
  *
  * Author: Dale Higgs
+ *
+ * Use the Alexa web UI and Chrome console Network tab to get JSON list of skills.
+ * Place this in a file called `entitlements.js` in this format:
+ *
+ *   module.exports = <JSON data>;
  */
 'use strict';
 
