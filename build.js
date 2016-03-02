@@ -19,7 +19,7 @@ for (var key in entitlements.apps) {
 		continue;
 	}
 
-	appString  = '**' + app.name + '**\n\n';
+	appString  = '## ' + app.name + '\n\n';
 	appString += '*' + app.exampleInteractions[0] + '*\n\n';
 	appString += (app.shortDescription ? app.shortDescription : app.description);
 
