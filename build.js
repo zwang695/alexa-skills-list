@@ -19,15 +19,15 @@ for (var key in entitlements.apps) {
 		continue;
 	}
 
-	appString  = '**' + app.name + '**\n';
-	appString += '*' + app.exampleInteractions[0] + '*\n';
+	appString  = '**' + app.name + '**\n\n';
+	appString += '*' + app.exampleInteractions[0] + '*\n\n';
 	appString += (app.shortDescription ? app.shortDescription : app.description);
 
 	appList.push(appString);
 }
 
 contents  = '# Alexa Skills List\n';
-contents += 'A complete list of all available Alexa Skills\n';
+contents += 'A complete list of all available Alexa Skills\n\n';
 contents += '**Last Updated:** ' + new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '') + '\n\n';
 contents += '***\n\n';
 
