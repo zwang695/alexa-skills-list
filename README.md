@@ -5,7 +5,7 @@ A complete list of all available Alexa Skills
 
 ***
 
-## 1-2-3 Math
+## [1-2-3 Math](1-2-3-math/about.md)
 
 *Alexa, Open one two three*
 
@@ -13,7 +13,7 @@ A complete list of all available Alexa Skills
 
 ***
 
-## 1-Minute Mindfulness
+## [1-Minute Mindfulness](1-minute-mindfulness/about.md)
 
 *Alexa, Ask Mindfulness for a minute meditation.*
 
@@ -21,7 +21,7 @@ A complete list of all available Alexa Skills
 
 ***
 
-## 15-122 Queue Times
+## [15-122 Queue Times](15-122-queue-times/about.md)
 
 *Alexa, ask the queue, what is the average wait time?*
 
