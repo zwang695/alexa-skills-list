@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Last Updated:** 2016-03-02 20:54:43
+**Last Updated:** 2016-03-03 19:09:04
 
 ***
 
@@ -2293,6 +2293,14 @@ Let Alexa control your Nest Learning Thermostat
 *Alexa open Thirteen*
 
 Thirteen is a fun number game where Alexa and you need to form number 13.
+
+***
+
+## Tic Tac Toe
+
+*Alexa, ask Tic Tac Toe for a game*
+
+Take on Alexa in a classic game of Tic TacToe.
 
 ***
 
