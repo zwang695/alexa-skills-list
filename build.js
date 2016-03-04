@@ -7,6 +7,8 @@
  * Place this in a file called `entitlements.js` in this format:
  *
  *   module.exports = <JSON data>
+ *
+ * @todo Make everything asyncronous
  */
 'use strict';
 
@@ -16,14 +18,17 @@ var fs = require('fs'),
 var appString = '',
 	appList   = [];
 
+// Slug function for ease of use
 String.prototype.slug = function() {
 	return this.toLowerCase().replace(/ /g, '-').replace(/[^a-z0-9\-]/g, '').replace(/\-+/g, '-').replace(/^-/, '');
 }
 
+// Timestamp function for ease of use
 Date.getTimestamp = function() {
 	return new this().toISOString().replace(/T/, ' ').replace(/\..+/, '');
 }
 
+// Barebones template object
 var Template = {
 	readme: function(appList) {
 		var contents = '';
@@ -69,12 +74,14 @@ var Template = {
 	}
 }
 
+// Create skills directory
 try {
 	fs.mkdirSync('skills');
 } catch (e) {
 	// Directory already exists
 }
 
+// Iterate skills and build list
 for (var key in entitlements.apps) {
 	var app = entitlements.apps[key];
 
@@ -98,7 +105,9 @@ for (var key in entitlements.apps) {
 	appList.push(Template.skill.section(app));
 }
 
+// Write README.md file
 fs.writeFileSync('README.md', Template.readme(appList));
 
+// Output number of skills on completion
 console.log('Generated a list of ' + appList.length + ' skills.');
 console.log('Last Updated: ' + Date.getTimestamp());

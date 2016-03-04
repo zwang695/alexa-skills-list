@@ -3,4 +3,4 @@
 
 Provides sighting information for the next time the International Space Station  is visible from certain locations in the United States.
 
-**Last Updated:** 2016-03-03 20:28:23
+**Last Updated:** 2016-03-04 15:55:59

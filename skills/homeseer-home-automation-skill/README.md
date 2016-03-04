@@ -3,4 +3,4 @@
 
 This app allows HomeSeer home automation system users to control and monitor status of their devices and to launch their automation events using the Amazon Echo
 
-**Last Updated:** 2016-03-03 20:28:23
+**Last Updated:** 2016-03-04 15:55:59

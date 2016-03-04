@@ -3,4 +3,4 @@
 
 Hanker is your go to local event guide for all that's happening in your city. From the arts, to parties, to date night and more, Hanker has everything you need.
 
-**Last Updated:** 2016-03-03 20:28:23
+**Last Updated:** 2016-03-04 15:55:59

@@ -3,4 +3,4 @@
 
 Welcome to my inn! You can talk to your favorite Hearthstone heroes, and they'll emote back!
 
-**Last Updated:** 2016-03-03 20:28:23
+**Last Updated:** 2016-03-04 15:55:59

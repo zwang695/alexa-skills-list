@@ -3,4 +3,4 @@
 
 Everything you need to know about the Battery Boot which is the best and only battery Boot for your  Echo.
 
-**Last Updated:** 2016-03-03 20:28:23
+**Last Updated:** 2016-03-04 15:55:59

@@ -3,4 +3,4 @@
 
 Alexa is able to calculate your perfect bra size, according to your bust and band measure. Ask Alexa some advices to choice your perfect bra.
 
-**Last Updated:** 2016-03-03 20:28:24
+**Last Updated:** 2016-03-04 15:55:59

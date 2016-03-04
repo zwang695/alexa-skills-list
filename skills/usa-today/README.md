@@ -4,4 +4,4 @@
 The USA Today skill for the Amazon Echo 
 keeps you informed 24/7 with the latest USA TODAY headlines. Staying informed has never been this quick, easy, or enjoy
 
-**Last Updated:** 2016-03-03 20:28:24
+**Last Updated:** 2016-03-04 15:55:59

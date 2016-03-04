@@ -1,6 +1,6 @@
 # Reflect Connect
 *Alexa, talk to Reflect*
 
-Reflect Connect allows you to control your Nest thermostat with your Amazon Echo!
+Reflect Connect gives you voice control of your Nest Learning Thermostat through your Amazon Echo!!
 
-**Last Updated:** 2016-03-03 20:28:23
+**Last Updated:** 2016-03-04 15:55:59

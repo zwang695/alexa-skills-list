@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Last Updated:** 2016-03-03 20:28:24
+**Last Updated:** 2016-03-04 15:55:59
 
 ***
 
@@ -284,6 +284,14 @@ Aviation Weather METAR's & Flight Rules
 *Alexa, open Baby Names.*
 
 Ask about the popularity of names in the US going back to 1880!
+
+***
+
+## [Baby Stats](skills/baby-stats)
+
+*Alexa ask baby stats to add poo*
+
+Baby stats is a skill that allows Alexa to count stats for your babies diapers (wet and stool), and meals. You can then ask Alexa to get the stats for a day .
 
 ***
 
@@ -1312,6 +1320,14 @@ LIFX, the world’s brightest color Wi-Fi smart lights. Ask Alexa to switch on t
 
 ***
 
+## [Long Island Train Information](skills/long-island-train-information)
+
+*Alexa, ask choo choo, when is the next train from Penn Station to Mineola*
+
+This skill returns the next few trains that run from one station to another along the Long Island Railroad.  Currently direct connections only.
+
+***
+
 ## [Long Weekend Info](skills/long-weekend-info)
 
 *Alexa, open Long Weekend*
@@ -1852,7 +1868,7 @@ This is just random value picker e.g. Alexa, ask Randomizer for any random numbe
 
 *Alexa, talk to Reflect*
 
-Reflect Connect allows you to control your Nest thermostat with your Amazon Echo!
+Reflect Connect gives you voice control of your Nest Learning Thermostat through your Amazon Echo!!
 
 ***
 
@@ -1973,6 +1989,14 @@ Get step-by-step transit directions between neighborhoods in Seattle.
 *Alexa, open Shower Thoughts.*
 
 Shower Thoughts are itty-bitty witty bite-sized clever thoughts. This skill will automatically fetch the Internet's most popular Shower Thought each day.
+
+***
+
+## [Silly Winnie](skills/silly-winnie)
+
+*Alexa, ask Silly Winnie for a joke*
+
+Winnie the silly mastiff puppy loves to tell kid friendly jokes!
 
 ***
 
@@ -2277,6 +2301,14 @@ In this Batman-themed choose-your-own-adventure mystery game, you play a detecti
 *Alexa, open the wizard*
 
 Meet the wizard. He's about to do some pretty wild magic...
+
+***
+
+## [Thermostat Controller](skills/thermostat-controller)
+
+*Alexa tell the thermostat that it is a bit cold*
+
+Control your Nest® thermostat using only your voice.
 
 ***
 

@@ -3,4 +3,4 @@
 
 Manage a family or group rewards system, keeps track of points like a virtual "bean jar" for motivation.  See beanjar.net
 
-**Last Updated:** 2016-03-03 20:28:23
+**Last Updated:** 2016-03-04 15:55:59

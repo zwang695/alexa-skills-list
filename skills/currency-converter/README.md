@@ -3,4 +3,4 @@
 
 Alexa is able to convert 10 kind of currencies from the world and tell you the current currency exchange too. Ask Alexa to convert from one currency to another.
 
-**Last Updated:** 2016-03-03 20:28:23
+**Last Updated:** 2016-03-04 15:55:59

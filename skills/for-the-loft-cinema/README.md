@@ -3,4 +3,4 @@
 
 The Loft Cinema Skill allows users to inquire about movies playing at the Loft Cinema (in Tucson, Arizona) for today or the upcoming days.
 
-**Last Updated:** 2016-03-03 20:28:23
+**Last Updated:** 2016-03-04 15:55:59
