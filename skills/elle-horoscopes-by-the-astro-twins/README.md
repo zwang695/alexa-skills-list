@@ -3,4 +3,4 @@
 
 The Astro Twins forecast every sign's horoscope for today. Find out if the moon's position presents any new opportunities!
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

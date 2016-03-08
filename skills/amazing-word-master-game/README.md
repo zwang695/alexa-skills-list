@@ -3,4 +3,4 @@
 
 Word Master is an interactive way to learn and challenge yourself with words, while having fun with competing scores. Score higher to win!
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

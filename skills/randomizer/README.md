@@ -3,4 +3,4 @@
 
 This is just random value picker e.g. Alexa, ask Randomizer for any random number. Alexa ask Randomizer for number greater than ten. like this.
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

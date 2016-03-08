@@ -3,4 +3,4 @@
 
 Get the time until the next bus arrives at a specified bus stop in the Iowa City area.
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

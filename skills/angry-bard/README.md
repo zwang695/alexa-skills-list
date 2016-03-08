@@ -3,4 +3,4 @@
 
 Have at you, knave! The Angry Bard skill is ready to throw barbs from the Bard anytime you like. Each insult is a quote selected from among the works of William Shakespeare, given together with the name of the piece from which it's taken. A text copy of the quote and its source are also sent to the Alexa app.
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

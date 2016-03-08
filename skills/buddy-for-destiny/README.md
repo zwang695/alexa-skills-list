@@ -3,4 +3,4 @@
 
 Buddy for Destiny provides useful information like Xur inventory and weekly activities to destiny players.
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

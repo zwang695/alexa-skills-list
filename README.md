@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:42
 
 ***
 
@@ -836,7 +836,7 @@ The Astro Twins forecast every sign's horoscope for today. Find out if the moon'
 
 *Alexa, open Email Assistant*
 
-Alexa + Email = the only assistant you can ask about upcoming travel from mail. Coming soon ask where your Amazon package is and much more is on the way!
+Alexa + Email = the only assistant you can ask about upcoming travel info from mail. Flights, Hotels and Rental Car info is all available!
 
 ***
 
@@ -885,6 +885,14 @@ Retrieve fantasy football news and player updates on the Top 300 players directl
 *Alexa, Ask Fidelity to get a quote for Amazon*
 
 Ask Fidelity Quote Lookup and Market Update
+
+***
+
+## [FirstaidEgghead](skills/firstaidegghead)
+
+*Alexa, ask first aid egghead what's the treatment for a cut*
+
+First Aid Egghead is an Alexa Skill designed to be your in-house First Responder for minor medical emergencies.
 
 ***
 
@@ -968,6 +976,14 @@ Get freedom-themed quotes
 
 ***
 
+## [Frontend Quiz](skills/frontend-quiz)
+
+*Alexa, open frontend quiz.*
+
+Frontend Quiz is an educational skill for Amazon Echo. It will ask 10 questions about HTML, CSS and Javascript.
+
+***
+
 ## [Game Dice](skills/game-dice)
 
 *Alexa, ask Game Dice to roll three ten siders*
@@ -1029,6 +1045,14 @@ Get the latest closing day prices for gold, silver and oil with Gold Bug!
 *Alexa, open Good Sam*
 
 Focused on love, living The Good Samaritan Society Way
+
+***
+
+## [Greatest Common Divisor (GCD)](skills/greatest-common-divisor-gcd)
+
+*Alexa, open G. C. D.*
+
+G. C. D.  The greatest common divisor of 2 numbers
 
 ***
 
@@ -1432,6 +1456,14 @@ Meteor showers tonight
 
 ***
 
+## [Milo](skills/milo)
+
+*Alexa, ask Milo to find Back to the Future Part Three*
+
+Find where you can view your favorite movie on free, paid and subscription services like Amazon Prime or Crackle.
+
+***
+
 ## [Mirror Mirror](skills/mirror-mirror)
 
 *Alexa, tell mirror mirror*
@@ -1485,6 +1517,14 @@ Talk to your car with the Amazon Echo skill by Mojio. Connect your Alexa and Moj
 *Alexa, ask Mosaic for good morning*
 
 Connecting the Internet of Things to your voice.
+
+***
+
+## [Mother Goose for Nest](skills/mother-goose-for-nest)
+
+*Alexa, ask nest for status*
+
+Mother Goose for Nest Control
 
 ***
 
@@ -1560,6 +1600,14 @@ Ask Lyrics to get lyrics for a song and to read it.
 
 ***
 
+## [Muzzley](skills/muzzley)
+
+*Alexa, open Muzzley*
+
+Interact with your connected devices with Muzzley and Echo. Try to say to "Alexa, ask Muzzley to turn on the living room lights" or "Alexa, open Muzzley".
+
+***
+
 ## [My BMI](skills/my-bmi)
 
 *Alexa, open bmi teller and check my bmi*
@@ -1613,6 +1661,14 @@ NBC News 2016 United States presidential elections information.
 *Alexa, ask Linkboard to search news about [a topic].*
 
 News By Linkboard enables you to search the news and have articles read to you. Say, "Alexa, start Linkboard" to try.
+
+***
+
+## [Nexia Home](skills/nexia-home)
+
+*Alexa, tell Nexia Home to change the living room light to on*
+
+Nexia is a smart home system that allows you to choose from hundreds of smart home options and connect and control them all through a single app.
 
 ***
 
@@ -1748,7 +1804,7 @@ If you know someone named Chris on Facebook that's running for president, this s
 
 *Alexa, start Presidential Trivia*
 
-A trivia game about United States Presidents
+A trivia game about United States Presidents.  Wrong choices will be corrected with some extra historical context which will explain the answer.
 
 ***
 
@@ -1880,6 +1936,14 @@ Reindeer Games is a Trivia Game built as a template for developers to use in cre
 
 ***
 
+## [Relationary](skills/relationary)
+
+*Alexa, open relationary*
+
+Relationary is a fun, fast-paced multiplayer word association game that keeps your brain sharp as the rounds get harder.
+
+***
+
 ## [Resistor Decoder](skills/resistor-decoder)
 
 *Alexa, open Resistor Decoder.*
@@ -1984,6 +2048,14 @@ Get step-by-step transit directions between neighborhoods in Seattle.
 
 ***
 
+## [Sheep Count](skills/sheep-count)
+
+*Alexa, start Sheep Count*
+
+Count sheep before bed! Guaranteed to give you a laugh.
+
+***
+
 ## [Shower Thoughts](skills/shower-thoughts)
 
 *Alexa, open Shower Thoughts.*
@@ -2032,6 +2104,14 @@ Do you like Outer Space? Space Trivia will test your knowledge with general ques
 
 ***
 
+## [Space Trivia Questions](skills/space-trivia-questions)
+
+*Alexa, launch Space Trivia*
+
+Space Trivia Questions
+
+***
+
 ## [Space Weather](skills/space-weather)
 
 *Alexa, open Space Weather*
@@ -2045,6 +2125,14 @@ The Space Weather skill for Alexa will tell you the current conditions in space.
 *Alexa, launch 'Spammy'*
 
 Can’t get enough pink piggy deliciousness in your life? The SPAMMY skill will make sure you always have new ways to bring more porky goodness into your life.
+
+***
+
+## [Spanish](skills/spanish)
+
+*Alexa, Launch Spanish*
+
+Top 20 Spanish Words: Game to teach you twenty of most popular Spanish words.
 
 ***
 
@@ -2165,6 +2253,14 @@ Generates a technology statement with the latest in technology buzzwords.
 *Alexa, use keeper and start a singles match with red team's serve*
 
 Get the tennis experience of pros - coordinated match play and scoring, all your data stored, & statistics and analysis on every point you play from now on.
+
+***
+
+## [The Art of War](skills/the-art-of-war)
+
+*Alexa, ask Sun Tzu*
+
+Glean strategic insight and actionable intelligence from Sun Tzu's ancient Chinese military treatise, The Art of War.
 
 ***
 
@@ -2348,7 +2444,7 @@ Use Tide Pooler to get tide information for major coastal cities.
 
 *Alexa, ask tide guide for the tides in Santa Barbara, California*
 
-This skill will give the tide report for most locations with a NOAA station.
+This skill will give the tide report for most locations (city and state) with a NOAA station.
 
 ***
 
@@ -2397,6 +2493,22 @@ Start your day with a laugh and in awe of one of the greatest action movie heroe
 *Alexa, ask ToughGuy to tell me a joke*
 
 The ToughGuy tells you nerdy Chuck Norris jokes.
+
+***
+
+## [Tournament Trivia](skills/tournament-trivia)
+
+*Alexa, tell tournament trivia to start a new game*
+
+Test your knowledge of the college basketball tournament.
+
+***
+
+## [Tracker's Election Odds](skills/trackers-election-odds)
+
+*Alexa, ask Tracker for an overview.*
+
+Tracker's Election Odds is the premier way to get the inside scoop on who is likely to win the presidential primary nominations, and the presidency itself.
 
 ***
 
@@ -2453,6 +2565,14 @@ A simple trivia game featuring questions from the TV show "The Simpsons".
 *Alexa, ask the Doctor*
 
 This is a Doctor Who Trivia Game
+
+***
+
+## [Trivia for Formula One](skills/trivia-for-formula-one)
+
+*Alexa, launch formula one trivia*
+
+A challenging Formula 1 trivia game, to test your knowledge of the sport.
 
 ***
 
@@ -2544,11 +2664,27 @@ Official Uber skill for Amazon Alexa.
 
 ***
 
+## [Ubi Portal Voice Prototyping Tool](skills/ubi-portal-voice-prototyping-tool)
+
+*Alexa, tell portal to give me some tips*
+
+Ubi Portal Voice Prototyping Tool allows for very quickly showcasing interaction between an Amazon Echo or AVS enabled device and a service.
+
+***
+
 ## [UncleShakespeare](skills/uncleshakespeare)
 
 *Alexa, Tell Uncle Shakespeare to insult me!*
 
 Let Uncle Shakespeare insult you. These jibes are randomly composed from adjectives and nouns taken from Shakespeare's works.
+
+***
+
+## [United States Naturalization Practice Quiz](skills/united-states-naturalization-practice-quiz)
+
+*Alexa, launch Immigration Quiz*
+
+This is a quiz game that tests users on their knowledge of general U.S. civics questions.
 
 ***
 

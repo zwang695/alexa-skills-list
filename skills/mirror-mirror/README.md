@@ -3,4 +3,4 @@
 
 Mirror Mirror is the best app anyone can have. Research shows getting a sincere compliment gives us the same positive boost as receiving cash.
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

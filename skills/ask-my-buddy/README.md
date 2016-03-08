@@ -3,4 +3,4 @@
 
 Ask My Buddy provides an easy and immediate way to send a text message, Voice call, and an email alert message to any or all of your contacts.
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

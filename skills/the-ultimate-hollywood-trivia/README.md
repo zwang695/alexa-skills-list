@@ -3,4 +3,4 @@
 
 The Ultimate Hollywood Trivia game. It is a fun game to play as well as helps you amp up your trivia facts about movies, actors and more!
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

@@ -3,4 +3,4 @@
 
 Ask Alexa when the next train is coming to your NYC MTA L train stop, and listen to the current L train status.
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

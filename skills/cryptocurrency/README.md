@@ -3,4 +3,4 @@
 
 Get the current price of bitcoin right now! All you have to do is ask and the current exchange rate is announced.
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

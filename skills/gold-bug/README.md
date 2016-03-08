@@ -3,4 +3,4 @@
 
 Get the latest closing day prices for gold, silver and oil with Gold Bug!
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

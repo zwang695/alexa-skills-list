@@ -3,4 +3,4 @@
 
 Run connected experiences that include things like Fitbit, SmartThings, Nest, Hue, Dropbox, Twitter and many more.  This skill requires the free Stringify app.
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:41

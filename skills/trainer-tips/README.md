@@ -3,4 +3,4 @@
 
 The Trainer Tips skill gives you hands-free reference for those difficult battles where quick thinking is required.
 
-**Last Updated:** 2016-03-04 15:55:59
+**Last Updated:** 2016-03-08 15:32:42
