@@ -147,8 +147,12 @@ for (var key in entitlements.apps) {
 	appList.push(Template.skill.section(app));
 }
 
-// Write README.md file
-fs.writeFileSync('README.md', Template.readme(appList), 'utf8');
+// Only update master README if skills were added or updated
+if (addCount || updateCount) {
+	// Write master README
+	fs.writeFileSync('README.md', Template.readme(appList), 'utf8');
+	console.log('Updated README.md');
+}
 
 // Output number of skills on completion
 console.log('Processed a total of %d skill%s.', appList.length, (appList.length != 1 ? 's' : ''));
