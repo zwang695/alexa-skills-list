@@ -3,4 +3,4 @@
 
 1-Minute Mindfulness from Walking Affirmations is a skill that allows you to take a break from the world around you & enter into a one minute sound meditation.
 
-**Last Updated:** 2016-03-08 15:32:41
+**Last Updated:** 2016-03-12 16:38:25

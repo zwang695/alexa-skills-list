@@ -3,4 +3,4 @@
 
 The Bible App for Alexa can read Bible verses and chapters to you in your favorite Bible version.
 
-**Last Updated:** 2016-03-08 15:32:41
+**Last Updated:** 2016-03-12 16:38:25

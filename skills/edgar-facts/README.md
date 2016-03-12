@@ -3,4 +3,4 @@
 
 Edgar Facts is for anyone who loves Edgar the dog and can't get enough of that adorable bugg. Brighten your day with fun facts about Edgar!
 
-**Last Updated:** 2016-03-08 15:32:41
+**Last Updated:** 2016-03-12 16:38:25

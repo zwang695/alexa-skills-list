@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Last Updated:** 2016-03-08 15:32:42
+**Last Updated:** 2016-03-12 16:38:26
 
 ***
 
@@ -191,6 +191,14 @@ Apollo, the god of music, will share music related facts and let you know who ar
 
 ***
 
+## [Applause](skills/applause)
+
+*Alexa open applause*
+
+Get a round of applause in any situation with the Alexa Applause Skill.
+
+***
+
 ## [APRS](skills/aprs)
 
 *Alexa, use APRS and locate kilo victor six mike dash seven*
@@ -276,6 +284,14 @@ Find out where your car is parked, how much gas you have left, or how far you've
 *Alexa, ask Aviation Weather what is the metar for KSMO*
 
 Aviation Weather METAR's & Flight Rules
+
+***
+
+## [Baby Lexi](skills/baby-lexi)
+
+*Alexa, ask baby to talk*
+
+Do your kids love to talk like a baby? Baby Lexi will answer any question in baby talk.  The kids will love it!
 
 ***
 
@@ -447,6 +463,14 @@ Ask Alexa to help you show off your crafting skills by answering over 30 differe
 
 ***
 
+## [Boo](skills/boo)
+
+*Alexa ask boo*
+
+Someone told a bad joke? Let them know with the Alexa boo Skill.
+
+***
+
 ## [Booze Trivia](skills/booze-trivia)
 
 *Alexa, launch Booze Trivia*
@@ -509,6 +533,14 @@ Look up Amateur (HAM) radio call sign information from the call sign database.
 *Alexa, ask Campbell's Kitchen what's for dinner*
 
 Your kitchen just got a whole lot smarter. Make dinnertime easy with a daily Top-5 list of triple-tested recipes, selected for your tastes and time preferences.
+
+***
+
+## [Capital One](skills/capital-one)
+
+*Alexa, Open Capital One*
+
+Hands-free banking never sounded so good. Just ask Alexa how much money you have, make credit card payments, and stay on top of recent charges.
 
 ***
 
@@ -589,6 +621,14 @@ The Combat skill will allow you to engage in any sort of conflict with entertain
 *"Alexa, open CompliBot"*
 
 CompliBot is your best bud.  It wants nothing more than to make your day a little bit better.
+
+***
+
+## [Computer Science](skills/computer-science)
+
+*Alexa, launch computer science*
+
+Computer Science is a quiz about computers and many more
 
 ***
 
@@ -928,6 +968,14 @@ Trivia game asking questions that pertain to professional American Football.
 
 ***
 
+## [For a Knock Knock Joke](skills/for-a-knock-knock-joke)
+
+*Alexa, ask for a knock knock joke!*
+
+Tell Alexa your own knock knock jokes!
+
+***
+
 ## [For The Loft Cinema](skills/for-the-loft-cinema)
 
 *Alexa, Ask Loft Cinema What is playing now*
@@ -1224,6 +1272,14 @@ InsultiBot is so tired of talking to you.  All it wants is for you to leave it a
 
 ***
 
+## [Insults](skills/insults)
+
+*Alexa, launch Insults.*
+
+This skill will teach Alexa to hurl terrible insults at you.
+
+***
+
 ## [Iris](skills/iris)
 
 *Alexa, ask Iris to holler at John*
@@ -1234,9 +1290,9 @@ Say the command, “Alexa, ask Iris to holler at [name of recipient]” and Iris
 
 ## [ISS Sighter](skills/iss-sighter)
 
-*Alexa, ask the space station when it is visible from Gaithersburg Maryland*
+*Alexa, ask the space station to give me visibility for Gaithersburg Maryland*
 
-Provides sighting information for the next time the International Space Station  is visible from certain locations in the United States.
+Provides sighting information for the next time the International Space Station is visible from certain locations around the world.
 
 ***
 
@@ -1540,7 +1596,7 @@ Get your daily motivational quote from Alexa.
 
 *alexa, ask movie info about the magnificent seven*
 
-Gets movie release years and descriptions by searching theMovieDB.org based on title
+Gets movie details by searching theMovieDB.org based on title
 
 ***
 
@@ -1664,19 +1720,19 @@ News By Linkboard enables you to search the news and have articles read to you. 
 
 ***
 
-## [Nexia Home](skills/nexia-home)
-
-*Alexa, tell Nexia Home to change the living room light to on*
-
-Nexia is a smart home system that allows you to choose from hundreds of smart home options and connect and control them all through a single app.
-
-***
-
 ## [Nikola Tesla Trivia](skills/nikola-tesla-trivia)
 
 *Alexa, ask Nikola Tesla*
 
 Nikola Tesla Trivia
+
+***
+
+## [North Carolina Trivia](skills/north-carolina-trivia)
+
+*Alexa, launch North Carolina Trivia*
+
+Do you know NC?
 
 ***
 
@@ -1725,6 +1781,22 @@ Plays a musical note for you to identify.
 *Alexa, open Phone Finder*
 
 Tired of missing your phone in your home? Use Echo to find your phone. Say "Open phone finder". This app requires a companion app from android app store.
+
+***
+
+## [Physics Quiz](skills/physics-quiz)
+
+*Alexa, launch Physics Quiz*
+
+A quiz to test you knowledge in Physics
+
+***
+
+## [Pi Day](skills/pi-day)
+
+*Alexa, Play Pi Day*
+
+How many digits of pi can you recite before time runs out?
 
 ***
 
@@ -1837,6 +1909,14 @@ Learn how to pronounce a word by giving Alexa its spelling.
 *Alexa, ask Pug Bomb for three pugs*
 
 Cute pugs shoved straight into your ears.
+
+***
+
+## [Puget Sound](skills/puget-sound)
+
+*Alexa ask puget sound what is the ferry status in Clinton*
+
+A way to find local information in the Washington State Puget Sound area.
 
 ***
 
@@ -2136,6 +2216,14 @@ Top 20 Spanish Words: Game to teach you twenty of most popular Spanish words.
 
 ***
 
+## [Spelling Bee](skills/spelling-bee)
+
+*Alexa, launch Spelling Bee*
+
+Welcome to spelling bee, the very first spelling game on Alexa.
+
+***
+
 ## [Star Wars Quiz](skills/star-wars-quiz)
 
 *“Alexa, Start Star Wars Quiz"*
@@ -2202,7 +2290,7 @@ With Superpower, you can get an interesting conversation topic to start an engag
 
 ## [Surfable](skills/surfable)
 
-*Alexa, ask Surfable about Ocean Beach Pier.*
+*Alexa, ask Surfable about Huntington Pier.*
 
 Get the surf reports for popular surfing spots in California.
 
@@ -2472,6 +2560,14 @@ An Alexa Skill for interacting with Product Hunt.
 
 ***
 
+## [Toon Goggles](skills/toon-goggles)
+
+*Alexa, ask Toon Goggles to open Bernard*
+
+Enjoy Toon Goggles with your voice! Open shows, play videos, listen to music, and control playback.
+
+***
+
 ## [Toronto Transit](skills/toronto-transit)
 
 *Alexa, ask Toronto Transit when is the next streetcar 504*
@@ -2573,6 +2669,14 @@ This is a Doctor Who Trivia Game
 *Alexa, launch formula one trivia*
 
 A challenging Formula 1 trivia game, to test your knowledge of the sport.
+
+***
+
+## [Trivia For Trump](skills/trivia-for-trump)
+
+*Alexa, open trump me*
+
+A Donald Trump Trivia Quiz.   If you like Donald Trump please rate this skill.
 
 ***
 
@@ -2718,6 +2822,14 @@ A family friendly trivia quiz about the human body.
 *Alexa, tell Vivint to lock my doors*
 
 Control your Vivint smart home (for Vivint Sky consumers only) with easy-to-use voice commands
+
+***
+
+## [Wake Up Call](skills/wake-up-call)
+
+*Alexa, open wake up call*
+
+Daily Wake Up Call by Sean Bauer
 
 ***
 

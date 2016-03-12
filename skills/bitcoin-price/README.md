@@ -3,4 +3,4 @@
 
 This app returns the current price of a Bitcoin in US dollars from coindesk.com.
 
-**Last Updated:** 2016-03-08 15:32:41
+**Last Updated:** 2016-03-12 16:38:25

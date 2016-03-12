@@ -3,4 +3,4 @@
 
 A competitive game in which you answer questions using a word or phrase that begins with a random generated letter. Play solo as a brain teaser or with a group!
 
-**Last Updated:** 2016-03-08 15:32:41
+**Last Updated:** 2016-03-12 16:38:26

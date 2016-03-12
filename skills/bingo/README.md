@@ -3,4 +3,4 @@
 
 With the Bingo skill, Alexa will call the numbers for you. Each number is repeated and sent to the Alexa app as well. Get a free Bingo card at lovemyecho.com.
 
-**Last Updated:** 2016-03-08 15:32:41
+**Last Updated:** 2016-03-12 16:38:25

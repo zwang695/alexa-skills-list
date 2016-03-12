@@ -3,4 +3,4 @@
 
 Garageio is the simple and secure way to control and monitor your garage door from anywhere in the world, all without needing to replace your existing opener.
 
-**Last Updated:** 2016-03-08 15:32:41
+**Last Updated:** 2016-03-12 16:38:25

@@ -3,4 +3,4 @@
 
 See how many tries it takes you to guess a random number between 1 and 100. Alexa will tell you to guess higher or lower until you get it.
 
-**Last Updated:** 2016-03-08 15:32:41
+**Last Updated:** 2016-03-12 16:38:25

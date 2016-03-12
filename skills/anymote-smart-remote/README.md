@@ -3,4 +3,4 @@
 
 Turn your voice into a real universal remote! Alexa, tell AnyMote to power on my TV.
 
-**Last Updated:** 2016-03-08 15:32:41
+**Last Updated:** 2016-03-12 16:38:25
