@@ -9,6 +9,8 @@
  *   module.exports = <JSON data>
  *
  * @todo Make everything asyncronous
+ * @todo Update skill page to include more information
+ * @todo Export JSON data to skill directory
  */
 'use strict';
 
@@ -36,6 +38,8 @@ var Template = {
 		contents  = '# Alexa Skills List\n';
 		contents += 'A complete list of all available Alexa Skills\n';
 		contents += '\n';
+		contents += '**Total Skills Available:** ' + appList.length + '\n';
+		contents += '\n';
 		contents += '**Last Updated:** ' + Date.getTimestamp() + '\n';
 		contents += '\n';
 		contents += '***\n';
@@ -50,7 +54,7 @@ var Template = {
 		section: function(app) {
 			var contents = '';
 
-			contents  = '## [' + app.name + '](skills/' + app.name.slug() + ')\n';
+			contents  = '## [' + app.name + '](skills/' + app.name.slug() + '/' + app.asin + ')\n';
 			contents += '\n';
 			contents += '*' + app.exampleInteractions[0] + '*\n';
 			contents += '\n';
@@ -81,33 +85,71 @@ try {
 	// Directory already exists
 }
 
+// Keep track of how many skills get added and updated this time around
+var addCount    = 0;
+var updateCount = 0;
+
 // Iterate skills and build list
 for (var key in entitlements.apps) {
+	// Skill object
 	var app = entitlements.apps[key];
 
+	// Remove enablement data
 	app.enablement = null;
 
+	// Do not include development skills
 	if (!app.canDisable) {
 		continue;
 	}
 
+	// Create skill directory
 	try {
 		fs.mkdirSync('skills/' + app.name.slug());
 	} catch (e) {
-		// Directory already exists
+		// Directory already exists, or another error occurred
 	}
 
-	fs.writeFileSync('skills/' + app.name.slug() + '/README.md', Template.skill.readme(app));
+	// Create skill ASIN sub-directory
+	try {
+		fs.mkdirSync('skills/' + app.name.slug() + '/' + app.asin);
+	} catch (e) {
+		// Directory already exists, or another error occurred
+	}
+
+	var skillFile   = 'skills/' + app.name.slug() + '/' + app.asin + '/README.md';
+	var timeRegex   = /[0-9]{4}[\-\/][0-9]{2}[\-\/][0-9]{2} [0-9]{2}\:[0-9]{2}\:[0-9]{2}/i;
+	var skillOutput = Template.skill.readme(app);
+	var skillInput  = '';
+
+	try {
+		skillInput = fs.readFileSync(skillFile, 'utf8');
+	} catch (e) {
+		// File does not exist, or another error occurred
+	}
+
+	// Check to see if we need to update the skill's README file
+	if (!skillInput || skillInput.replace(timeRegex, '') != skillOutput.replace(timeRegex, '')) {
+		// Output the skill's README file
+		fs.writeFileSync(skillFile, skillOutput, 'utf8');
+
+		// Increment counts respectively
+		if (!skillInput) {
+			addCount++;
+		} else {
+			updateCount++;
+		}
+	}
 
 	// The JSON output is currently disabled until I have time to review it for sensitive data
-	//fs.writeFileSync('skills/' + app.name.slug() + '/app.json', JSON.stringify(app));
+	// @todo once this is implemented, make sure to check for changes
+	//fs.writeFileSync('skills/' + app.name.slug() + '/' + app.asin + '/app.json', JSON.stringify(app), 'utf8');
 
 	appList.push(Template.skill.section(app));
 }
 
 // Write README.md file
-fs.writeFileSync('README.md', Template.readme(appList));
+fs.writeFileSync('README.md', Template.readme(appList), 'utf8');
 
 // Output number of skills on completion
-console.log('Generated a list of ' + appList.length + ' skills.');
-console.log('Last Updated: ' + Date.getTimestamp());
+console.log('Processed a total of %d skill%s.', appList.length, (appList.length != 1 ? 's' : ''));
+console.log('Added %d skill%s, and updated %d skill%s.', addCount, (addCount != 1 ? 's' : ''), updateCount, (updateCount != 1 ? 's' : ''));
