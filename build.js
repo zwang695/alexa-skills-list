@@ -11,6 +11,7 @@
  * @todo Make everything asyncronous
  * @todo Update skill page to include more information
  * @todo Export JSON data to skill directory
+ * @todo Add sorted lists: Alphabetical, Categories, Top Rated, Top Reviewed, Newest, Oldest
  */
 'use strict';
 

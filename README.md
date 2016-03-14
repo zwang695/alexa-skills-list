@@ -1,9 +1,9 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 360
+**Total Skills Available:** 363
 
-**Last Updated:** 2016-03-14 05:40:44
+**Last Updated:** 2016-03-14 18:01:34
 
 ***
 
@@ -618,6 +618,14 @@ Generate a code phrase for your next top secret project!
 
 ***
 
+## [College Basketball Tournament Trivia](skills/college-basketball-tournament-trivia/B01CYEOI0C)
+
+*Alexa, launch College Hoops*
+
+Test your knowledge of the men's college basketball tournament!
+
+***
+
 ## [Combat](skills/combat/B01AKFXFYC)
 
 *Alexa, open combat and hit the dragon with my sword*
@@ -1071,6 +1079,14 @@ Geek games is trivia skill to test your knowledge of random geeky facts of the E
 *Alexa, ask a geek*
 
 Alexa will ask you 5 trivia questions per game.  It’s a fun way to test your geek knowledge of a famous movie or TV show.
+
+***
+
+## [Giant Spoon](skills/giant-spoon/B01CY5R5LA)
+
+*Alexa, ask Giant Spoon for an idea*
+
+The world class Giant Spoon app allows you to ask for world class marketing ideas from world class marketing agency Giant Spoon.
 
 ***
 
@@ -2711,6 +2727,14 @@ Trivia about the United States Air Force
 *Alexa, launch Michigan Football Trivia*
 
 The Trivia Game for Michigan Football will let you test your knowledge and see how much of a wolverine you truly are!
+
+***
+
+## [Trivia on Harry Potter](skills/trivia-on-harry-potter/B01CY9TW9Y)
+
+*Alexa, launch Trivia on Harry Potter.*
+
+Test your knowledge of the magical world of Harry Potter!
 
 ***
 
