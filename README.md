@@ -1,9 +1,9 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 358
+**Total Skills Available:** 360
 
-**Last Updated:** 2016-03-12 17:58:02
+**Last Updated:** 2016-03-14 05:40:44
 
 ***
 
@@ -214,6 +214,14 @@ Locate APRS stations
 *Alexa, ask Area Code where is eight six zero*
 
 Area Code Lookup
+
+***
+
+## [Ask Cloud Ninja](skills/ask-cloud-ninja/B01CXTNFUC)
+
+*Alexa, ask Cloud Ninja What's New*
+
+The Cloud Ninja is your guide to Amazon Web Services, including helping you keep up to date with recent AWS news.
 
 ***
 
@@ -2239,6 +2247,14 @@ How well do you know the Star Wars Galaxy? Test your knowledge against trivia qu
 *Alexa, open Starlanes*
 
 The Echo's first and best MMORPG. Join a faction and compete with other players to keep your faction on the top.
+
+***
+
+## [Steely Dan Trivia Quiz](skills/steely-dan-trivia-quiz/B01CXU7F4S)
+
+*Alexa, launch Steely Dan trivia*
+
+Steely Dan Trivia Quiz
 
 ***
 
