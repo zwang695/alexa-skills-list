@@ -1,6 +1,26 @@
 # Teacher for Alexa
-*Alexa, open Teacher.*
+![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
-Teacher for Alexa is a fun and interactive way to learn basic math through a series of simple addition, subtraction, and multiplication problems.
+To use the Teacher for Alexa skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, open Teacher.*
+
+* *Alexa, ask Teacher to teach me addition.*
+
+* *Alexa, tell Teacher to help me with multiplication.*
+
+Teacher for Alexa is a fun and interactive way to learn basic math through a series of simple addition, subtraction, and multiplication problems. Example level:  What is 7 times 2?
+
+***
+
+### Skill Details
+
+* **Invocation Name:** teacher
+* **Category:** Education
+* **ID:** amzn1.echo-sdk-ams.app.a6c137e7-ef09-4a5d-a8b6-131d428bc0d8
+* **ASIN:** B017OBLLXW
+* **Author:** Haxio
+* **First Release Date:** 2015-11-06 20:10:53
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

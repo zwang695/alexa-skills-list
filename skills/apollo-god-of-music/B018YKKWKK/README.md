@@ -1,6 +1,26 @@
 # Apollo - God of Music
-*Alexa, ask Apollo to tell me a fact*
+![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
+
+To use the Apollo - God of Music skill, try saying...
+
+* *Alexa, ask Apollo to tell me a fact*
+
+* *Alexa, ask Apollo tell me top ten artists*
+
+* *Alexa, ask Apollo what do you do*
 
 Apollo, the god of music, will share music related facts and let you know who are the hottest artists of the week.
 
-**Last Updated:** 2016-03-12 17:45:05
+***
+
+### Skill Details
+
+* **Invocation Name:** apollo
+* **Category:** Music
+* **ID:** amzn1.echo-sdk-ams.app.6d0a12d6-8770-4f92-baee-7232bdfe1962
+* **ASIN:** B018YKKWKK
+* **Author:** BEL Coding
+* **First Release Date:** 2015-12-10 00:03:30
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:05*

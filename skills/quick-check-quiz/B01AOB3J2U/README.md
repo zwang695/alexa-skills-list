@@ -1,6 +1,26 @@
 # Quick Check Quiz
-*Alexa launch Quick Check Quiz*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-Chemistry quiz to start the second semester for simon tech students
+To use the Quick Check Quiz skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa launch Quick Check Quiz*
+
+* *Repeat*
+
+* *Help*
+
+I'm using the reindeer games quiz template to create a refresher quiz when my high school students comes back to school next week.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** quick check quiz
+* **Category:** Education
+* **ID:** amzn1.echo-sdk-ams.app.c52c7e96-6d7d-4f9f-8134-8b37286a3a26
+* **ASIN:** B01AOB3J2U
+* **Author:** ChargED
+* **First Release Date:** 2016-01-15 20:36:44
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

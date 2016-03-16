@@ -27,8 +27,16 @@ String.prototype.slug = function() {
 }
 
 // Timestamp function for ease of use
-Date.getTimestamp = function() {
-	return new this().toISOString().replace(/T/, ' ').replace(/\..+/, '');
+Date.getDateString = function(timestamp) {
+	var date;
+
+	if (timestamp) {
+		date = new this(timestamp * 1000);
+	} else {
+		date = new this();
+	}
+
+	return date.toISOString().replace(/T/, ' ').replace(/\..+/, '');
 }
 
 // Barebones template object
@@ -41,7 +49,7 @@ var Template = {
 		contents += '\n';
 		contents += '**Total Skills Available:** ' + appList.length + '\n';
 		contents += '\n';
-		contents += '**Last Updated:** ' + Date.getTimestamp() + '\n';
+		contents += '**Last Updated:** ' + Date.getDateString() + '\n';
 		contents += '\n';
 		contents += '***\n';
 		contents += '\n';
@@ -67,12 +75,90 @@ var Template = {
 		readme: function(app) {
 			var contents = '';
 
+			// Skill name
 			contents  = '# ' + app.name + '\n';
-			contents += '*' + app.exampleInteractions[0] + '*\n';
+
+			// Skill rating and reviews
+			var starImage = '';
+
+			for (var i=0; i<5; i++) {
+				if (i < app.averageRating) {
+					if (i + 1 <= app.averageRating) {
+						starImage = 'ic_star_black_18dp_1x.png';
+					} else {
+						starImage = 'ic_star_half_black_18dp_1x.png';
+					}
+				} else {
+					starImage = 'ic_star_border_black_18dp_1x.png';
+				}
+
+				contents += '![' + app.averageRating + ' stars](../../../images/' + starImage + ')';
+			}
+
+			contents += ' ' + app.numberOfReviews + '\n';
 			contents += '\n';
-			contents += (app.shortDescription ? app.shortDescription : app.description) + '\n';
+
+			// Example interactions
+			contents += 'To use the ' + app.name + ' skill, try saying...' + '\n';
 			contents += '\n';
-			contents += '**Last Updated:** ' + Date.getTimestamp();
+
+			for (var key in app.exampleInteractions) {
+				if (app.exampleInteractions[key]) {
+					contents += '* *' + app.exampleInteractions[key] + '*\n';
+					contents += '\n';
+				}
+			}
+
+			// Description
+			contents += app.description + '\n';
+			contents += '\n';
+
+			contents += '***\n';
+			contents += '\n';
+
+			// Skill details
+			contents += '### Skill Details' + '\n';
+			contents += '\n';
+
+			contents += '* **Invocation Name:** ' + app.launchPhrase + '\n';
+			contents += '* **Category:** ' + app.category + '\n';
+			contents += '* **ID:** ' + app.id + '\n';
+			contents += '* **ASIN:** ' + app.asin + '\n';
+			contents += '* **Author:** ' + app.vendorName + '\n';
+			contents += '* **First Release Date:** ' + Date.getDateString(app.firstReleaseDate) + '\n';
+
+			// Homepage
+			if (app.homepageLinkUrl) {
+				contents += '* **Homepage:** [' + (app.homepageLinkText ? app.homepageLinkText : app.homepageLinkUrl) + '](' + app.homepageLinkUrl + ')' + '\n';
+			}
+
+			// Privacy policy
+			if (app.privacyPolicyUrl) {
+				contents += '* **Privacy Policy:** ' + app.privacyPolicyUrl + '\n';
+			}
+
+			// Terms of use
+			if (app.termsOfUseUrl) {
+				contents += '* **Terms of Use:** ' + app.termsOfUseUrl + '\n';
+			}
+
+			// Account linking domains
+			if (app.accountLinkingWhitelistedDomains) {
+				contents += '* **Account Linking Domains:** ' + app.accountLinkingWhitelistedDomains.join(', ') + '\n';
+			}
+
+			// In app purchasing
+			contents += '* **In-App Purchasing:** ' + (app.inAppPurchasingSupported ? 'Yes' : 'No') + '\n';
+
+			// Permissions
+			if (app.permissions) {
+				contents += '* **Permissions:** ' + app.permissions.join(', ') + '\n';
+			}
+
+			contents += '\n';
+
+			// Show when the info on this page was last updated
+			contents += '*This page was last updated ' + Date.getDateString() + '*' + '\n';
 
 			return contents;
 		}

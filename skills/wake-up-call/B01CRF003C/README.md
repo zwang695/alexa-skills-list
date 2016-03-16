@@ -1,6 +1,28 @@
 # Wake Up Call
-*Alexa, open wake up call*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-Daily Wake Up Call by Sean Bauer
+To use the Wake Up Call skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, open wake up call*
+
+* *Alexa, play wake up call*
+
+* *Alexa, start Wake Up Call*
+
+The Daily Wake Up Call provides a daily recorded quotation, message, or anecdote to inspire or entertain you while including thoughtful and practical advice on how to improve your work, love, health, and finances.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** wake up call
+* **Category:** Communications
+* **ID:** amzn1.echo-sdk-ams.app.b6f2b8e5-7159-42a7-9e1a-b56e242aa658
+* **ASIN:** B01CRF003C
+* **Author:** Coeus Mobile LLC
+* **First Release Date:** 2016-03-09 20:06:17
+* **Privacy Policy:** http://www.wakeupdial.com
+* **Terms of Use:** http://www.wakeupdial.com
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

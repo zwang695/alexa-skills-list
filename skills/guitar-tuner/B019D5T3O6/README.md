@@ -1,6 +1,28 @@
 # Guitar Tuner
-*Alexa, ask Guitar Tuner to tune my guitar.*
+![3.4 stars](../../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
-Use Guitar Tuner to tune your guitar.
+To use the Guitar Tuner skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, ask Guitar Tuner to tune my guitar.*
+
+* *Alexa, tell Guitar Tuner to tune this guitar.*
+
+* *Alexa, ask Guitar Tuner to tune.*
+
+Are you tired of digging around for a tuner every time you want to tune your guitar? Now you can use Guitar Tuner for pitch pipe style guitar tuning. As Guitar Tuner plays through each guitar string, you play and tune the same guitar string on your guitar. Whenever the pitch of each string on your guitar matches the pitch of each string played by Guitar Tuner, your guitar is in tune. This also has the added benefit of helping to train your ears.
+
+Guitar Tuner uses standard, A440 tuning. Tuning starts on the low E string, followed by A, D, G, B, and finishes on the high e string.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** guitar tuner
+* **Category:** Music
+* **ID:** amzn1.echo-sdk-ams.app.10955337-0da2-4ae8-b746-8a03abd91fb1
+* **ASIN:** B019D5T3O6
+* **Author:** Jared Williams
+* **First Release Date:** 2015-12-14 22:53:35
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

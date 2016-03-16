@@ -1,6 +1,26 @@
 # Use The Force Trivia
-*Alexa, start Force Trivia.*
+![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
-Star Wars trivia game.
+To use the Use The Force Trivia skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, start Force Trivia.*
+
+* *Repeat*
+
+* *Help*
+
+Test your Star Wars knowledge with this fun trivia game.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** force trivia
+* **Category:** Entertainment
+* **ID:** amzn1.echo-sdk-ams.app.2c6f452f-1584-4241-b944-b0744252a3af
+* **ASIN:** B01BN11S7S
+* **Author:** Echoz
+* **First Release Date:** 2016-02-10 23:21:54
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

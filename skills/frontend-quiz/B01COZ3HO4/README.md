@@ -1,6 +1,26 @@
 # Frontend Quiz
-*Alexa, open frontend quiz.*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-Frontend Quiz is an educational skill for Amazon Echo. It will ask 10 questions about HTML, CSS and Javascript.
+To use the Frontend Quiz skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, open frontend quiz.*
+
+* *My answer is two.*
+
+* *I don't know this question.*
+
+With the help of Frontend Quiz you can test your HTML, CSS and Javascript knowledge. The level of the questions varies from beginner to intermediate. Play it multiple times and try to achieve maximum score!
+
+***
+
+### Skill Details
+
+* **Invocation Name:** frontend quiz
+* **Category:** Education
+* **ID:** amzn1.echo-sdk-ams.app.e6e494b6-6a39-48e1-a10d-292430a1cc63
+* **ASIN:** B01COZ3HO4
+* **Author:** POSSIBLE
+* **First Release Date:** 2016-03-08 09:20:51
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

@@ -1,6 +1,36 @@
 # TDV (Teen Dating Violence) Quiz
-*Alexa, ask Teen Dating Violence*
+![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_half_black_18dp_1x.png) 3
 
-Teen Dating Violence Quiz is brought to you by Jennifer Ann's Group, a nonprofit charity  using technology in cool ways to prevent teen dating violence!
+To use the TDV (Teen Dating Violence) Quiz skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, ask Teen Dating Violence*
+
+* *Repeat*
+
+* *Help*
+
+Do you know the answer to these questions about Teen Dating Violence?
+"Which of these are a warning sign of an abusive relationship?"
+"How many high school students experience physical abuse every year in the U.S.?"
+"What percent of teens have talked about dating violence with their parents?"
+
+This important info will be helpful for teachers, parents, and students who want to test how much they know about this important issue! 
+
+Teachers: Have the students compete for the best score!
+Parents: Start a dialogue about healthy relationships with your teen!
+Teens: Learn to help yourself and your friends!
+
+***
+
+### Skill Details
+
+* **Invocation Name:** teen dating violence
+* **Category:** Education
+* **ID:** amzn1.echo-sdk-ams.app.e689c20a-b058-4c2e-9d78-3fe91956fd38
+* **ASIN:** B01AU0U74S
+* **Author:** Jennifer Ann's Group
+* **First Release Date:** 2016-01-20 00:00:40
+* **Privacy Policy:** http://JenniferAnn.org/privacy
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

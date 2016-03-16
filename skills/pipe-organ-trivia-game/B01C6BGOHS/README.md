@@ -1,6 +1,30 @@
 # Pipe Organ Trivia Game
-*Alexa, open the pipe organ game*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-A trivia game about the use, the history, the music and the building of pipe organs, the King of Music Instruments.
+To use the Pipe Organ Trivia Game skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, open the pipe organ game*
+
+* *Start new game*
+
+* *Help*
+
+In this trivia game, Alexa with ask questions such as.... 
+
+Which classic movie featured the organ great: Toccata and Fugue in D minor by Bach??  And Alexa will score your responses.
+
+This skill is a fun game the tests your knowledge of the many aspects the Pipe organ.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** the pipe organ game
+* **Category:** Entertainment
+* **ID:** amzn1.echo-sdk-ams.app.39c8773b-2051-46b3-93d8-df982bdd70dd
+* **ASIN:** B01C6BGOHS
+* **Author:** Don Holmberg
+* **First Release Date:** 2016-02-24 21:26:00
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

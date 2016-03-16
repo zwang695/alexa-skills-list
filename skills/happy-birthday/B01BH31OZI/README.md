@@ -1,6 +1,30 @@
 # Happy Birthday
-*Alexa, launch Happy Birthday*
+![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
-Alexa sings (raps?) Happy Birthday! Tell your Echo the name of the lucky birthday girl or boy and Alexa does the rest.  A variety of surprising song variations.
+To use the Happy Birthday skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, launch Happy Birthday*
+
+* *Alexa, ask Happy Birthday to sing to Julie.*
+
+* *Alexa, tell Happy Birthday to sing Happy Birthday to Tim.*
+
+Is someone you know having a birthday?  Surprise them with this silly skill that sings (er, raps?) the Happy Birthday song.  Just tell your Echo the name of the lucky birthday girl or boy and Alexa does the rest.
+
+Song can vary between uses to delight kids with crazy, surprising fun variations, including one that glitches and scratches ("Ha-ha-happy Birthday to Yo-yo-yooooou!").
+
+Though it might not win any singing contest, it's infectiously clever fun.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** happy birthday
+* **Category:** Entertainment
+* **ID:** amzn1.echo-sdk-ams.app.32e8aa28-7591-4ad2-8f2b-83dd673464c5
+* **ASIN:** B01BH31OZI
+* **Author:** Thomp
+* **First Release Date:** 2016-02-04 18:36:31
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

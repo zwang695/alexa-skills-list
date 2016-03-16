@@ -1,6 +1,26 @@
 # Audio Goal
-*Alexa, ask Audio Goal for a goal*
+![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 13
 
-Celebrate a goal - or anything else - with a classic audio "GOOOOOL" sound.
+To use the Audio Goal skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, ask Audio Goal for a goal*
+
+* *Alexa, ask Audio Goal for a French Goal*
+
+* *Alexa, ask Audio Goal for supported languages*
+
+Celebrate a goal - or anything else - with a classic audio "GOOOOOL" sound.  Try different languages too (Currently supports French and Spanish)
+
+***
+
+### Skill Details
+
+* **Invocation Name:** audio goal
+* **Category:** Other
+* **ID:** amzn1.echo-sdk-ams.app.bfca5696-4914-4d3f-ac01-d882e72f329a
+* **ASIN:** B019DAF4D0
+* **Author:** RJ Duckburgh
+* **First Release Date:** 2015-12-15 01:30:04
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:05*

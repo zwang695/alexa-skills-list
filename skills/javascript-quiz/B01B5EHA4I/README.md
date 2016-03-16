@@ -1,6 +1,27 @@
 # JavaScript Quiz
-*Alexa, Launch JavaScript Quiz*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-JavaScript Quiz tests you knowledge of the most popular development language.
+To use the JavaScript Quiz skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, Launch JavaScript Quiz*
+
+* *Repeat*
+
+* *Help*
+
+Are you a javascript master? Or just learning and practicing? 
+Test your skills with JavaScript Quiz!
+
+***
+
+### Skill Details
+
+* **Invocation Name:** javascript quiz
+* **Category:** Education
+* **ID:** amzn1.echo-sdk-ams.app.05b22e33-4166-4735-a790-7c65bff2275a
+* **ASIN:** B01B5EHA4I
+* **Author:** Coops
+* **First Release Date:** 2016-01-28 01:06:37
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

@@ -1,6 +1,29 @@
 # 7Sigma
-*Alexa, ask 7 Sigma for my update.*
+![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
-Get concise updates on all elements of your operation and infrastructure based on combined data from multiple sources.
+To use the 7Sigma skill, try saying...
 
-**Last Updated:** 2016-03-12 17:55:56
+* *Alexa, ask 7 Sigma for my update.*
+
+* *Alexa, ask 7 Sigma what's my update for yesterday?*
+
+* *Alexa, ask 7 Sigma to give me my update for last Thursday.*
+
+The Ask 7Sigma skill combines data from multiple sources to provide you with a customized operational update. The opportunities are endless and will give you insight into aspects of your organization that were not previously possible. For extended help and to sign up, please visit https://ask.7sigma.com
+
+***
+
+### Skill Details
+
+* **Invocation Name:** seven sigma
+* **Category:** Productivity
+* **ID:** amzn1.echo-sdk-ams.app.fb62f530-c247-4bc8-a89d-b0d7367baca4
+* **ASIN:** B01996D2XW
+* **Author:** 7Sigma Systems Dev
+* **First Release Date:** 2015-12-11 22:56:05
+* **Privacy Policy:** https://ask.7sigma.com/7SigmaInternetPrivacyPolicy.pdf
+* **Terms of Use:** https://ask.7sigma.com/7SigmaTermsOfService.pdf
+* **Account Linking Domains:** ask.7sigma.com, www.google-analytics.com
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:05*

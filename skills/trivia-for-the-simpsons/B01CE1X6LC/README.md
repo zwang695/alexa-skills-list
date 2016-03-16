@@ -1,6 +1,26 @@
 # Trivia for "The Simpsons"
-*Alexa, play Simpsons Trivia*
+![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
-A simple trivia game featuring questions from the TV show "The Simpsons".
+To use the Trivia for "The Simpsons" skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, play Simpsons Trivia*
+
+* *My answer is one*
+
+* *Repeat the question*
+
+My first attempt at an Alexa skill, this simple trivia game will ask players five questions about "The Simpsons" TV show.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** simpsons trivia
+* **Category:** Entertainment
+* **ID:** amzn1.echo-sdk-ams.app.5770b522-c411-44d8-95a0-4346bce7ddd3
+* **ASIN:** B01CE1X6LC
+* **Author:** dmlov3ly
+* **First Release Date:** 2016-03-01 06:38:59
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

@@ -1,9 +1,9 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 363
+**Total Skills Available:** 370
 
-**Last Updated:** 2016-03-14 18:01:34
+**Last Updated:** 2016-03-16 04:53:06
 
 ***
 
@@ -137,6 +137,14 @@ Listen to Tweets
 
 ***
 
+## [All Knowing Eight Ball](skills/all-knowing-eight-ball/B01D0JI7CA)
+
+*Alexa, ask the 8 ball whether the Cubs will ever win the World Series*
+
+The All Knowing 8 Ball can answer life's vexing questions for you, without all that shaking and blue dye getting everywhere.
+
+***
+
 ## [Amazing Word Master Game](skills/amazing-word-master-game/B017OBSCOS)
 
 *Alexa, ask Word Master to play a game*
@@ -174,6 +182,14 @@ Alexa is learning a few new languages, animal languages that is. Ask Alexa to ma
 *Alexa, ask AnyMote to pause my Sonos.*
 
 Turn your voice into a real universal remote! Alexa, tell AnyMote to power on my TV.
+
+***
+
+## [Anythings](skills/anythings/B01CZ3JZ7I)
+
+*Alexa, ask anythings what are the best new smart devices*
+
+Anythings lists the best new smart devices and their compatibilities. Discover the most popular products curated by IoT Lovers.
 
 ***
 
@@ -698,11 +714,27 @@ Can't remember exactly how to craft an enchantment table or a dropper in Minecra
 
 ***
 
+## [Cricket Quiz](skills/cricket-quiz/B01D0ISSL6)
+
+*Alexa, start Cricket Quiz*
+
+How well do you know your cricket? Take this to find out.
+
+***
+
 ## [Cricket Quiz](skills/cricket-quiz/B01BFV8EIM)
 
 *Alexa, launch cricket quiz*
 
 This is a trivia game for cricket game lovers.
+
+***
+
+## [Crocodile Finder](skills/crocodile-finder/B01CZWI6OM)
+
+*Alexa, ask Crocodile Finder to find the crocodiles*
+
+Afraid of crocodiles? Find out where they are!
 
 ***
 
@@ -1260,7 +1292,7 @@ House Band allows you to access your JRiver Media Center music server. You can p
 
 ## [HuffPost](skills/huffpost/B018WNJQ74)
 
-*"Alexa, ask HuffPost for headlines"*
+*"Alexa, open HuffPost” (To hear latest news headlines for today)*
 
 The Huffington Post is a Pulitzer Prize-winning source of news, features, and entertainment, as well as a highly engaged community for opinion and conversation.
 
@@ -1642,6 +1674,14 @@ Daily recommendations from Mr Junky Food for chocolate and candy lovers.
 
 ***
 
+## [Multiplication Challenge](skills/multiplication-challenge/B01CZM0U5U)
+
+*Alexa, ask Multiplication Challenge to start game*
+
+Quizzes  the times tables from 1x1 to 12x12 at random.
+
+***
+
 ## [Music Jokes](skills/music-jokes/B01CFXBVQ6)
 
 *Alexa, ask Music Jokes for a joke*
@@ -1911,6 +1951,14 @@ A trivia game about United States Presidents.  Wrong choices will be corrected w
 *Alexa, open Presidential Trivia*
 
 This is a multiple-choice trivia game to challenge what you know and help you learn about the US presidents.
+
+***
+
+## [Prime Numbers](skills/prime-numbers/B01D0HZVZS)
+
+*Alexa, ask prime numbers*
+
+Quiz questions about prime numbers
 
 ***
 
@@ -2247,6 +2295,14 @@ Top 20 Spanish Words: Game to teach you twenty of most popular Spanish words.
 *Alexa, launch Spelling Bee*
 
 Welcome to spelling bee, the very first spelling game on Alexa.
+
+***
+
+## [Star fish UK](skills/star-fish-uk/B01CZYUPCQ)
+
+*Alexa, ask starfish for tube status*
+
+London Tube and National rail service status skill. Working to integrate with other british providers like BBC etc
 
 ***
 

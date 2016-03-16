@@ -1,6 +1,26 @@
 # convrge
-*Alexa, ask Convrge, who's online*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-Find out who's online at in Convrge
+To use the convrge skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, ask Convrge, who's online*
+
+* *Alexa, ask Convrge, if anyone's online*
+
+* *Alexa, ask Convrge, how many people are online*
+
+Check to see who's online within Convrge. For more information regarding converge, please checkout: http://www.convrge.co/
+
+***
+
+### Skill Details
+
+* **Invocation Name:** converge
+* **Category:** Social
+* **ID:** amzn1.echo-sdk-ams.app.e0b16c48-459a-46ec-b85a-7cb31a760e75
+* **ASIN:** B01AYLDILW
+* **Author:** Jay Wallace
+* **First Release Date:** 2016-01-22 21:28:47
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

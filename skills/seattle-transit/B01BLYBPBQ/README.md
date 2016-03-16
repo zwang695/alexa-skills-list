@@ -1,6 +1,26 @@
 # Seattle Transit
-*Alexa, ask Seattle Transit for directions from Ballard to Capitol Hill*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-Get step-by-step transit directions between neighborhoods in Seattle.
+To use the Seattle Transit skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, ask Seattle Transit for directions from Ballard to Capitol Hill*
+
+* *Alexa, ask Seattle Transit for directions from Ballard*
+
+* *Alexa, open Seattle Transit*
+
+Seattle Transit provides step-by-step transit directions for getting from one neighborhood to another in Seattle. The handy card in the Alexa app helps one take the directions with them while on the go. More features to come.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** seattle transit
+* **Category:** Travel
+* **ID:** amzn1.echo-sdk-ams.app.17952b33-3e63-4b70-9594-45ca63ee86dc
+* **ASIN:** B01BLYBPBQ
+* **Author:** Anton Babadjanov
+* **First Release Date:** 2016-02-10 00:54:51
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

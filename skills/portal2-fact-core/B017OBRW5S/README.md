@@ -1,6 +1,26 @@
 # Portal2 Fact Core
-*Alexa, open Fact Core.*
+![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
-Well, so you want to learn something.  The Fact Core can assist, but it's up to you to decide if it's true or if we have experienced some data corruption.
+To use the Portal2 Fact Core skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, open Fact Core.*
+
+* *Alexa, tell Fact Core to give me a fact.*
+
+* *Alexa, ask Fact Core what does it know.*
+
+The Fact Core contains information, but it's up to you to decide if it's true or if we just have a few bad sectors on our drives.  Generally speaking, trusting the Fact Core is about like trusting nothing bad will happen when you pull your uncle's finger.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** fact core
+* **Category:** Games
+* **ID:** amzn1.echo-sdk-ams.app.5d931280-41ee-4269-a29c-91889094e8b6
+* **ASIN:** B017OBRW5S
+* **Author:** Magical Jester Creations
+* **First Release Date:** 2015-11-06 20:15:51
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

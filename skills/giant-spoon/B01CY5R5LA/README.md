@@ -1,6 +1,26 @@
 # Giant Spoon
-*Alexa, ask Giant Spoon for an idea*
+![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
-The world class Giant Spoon app allows you to ask for world class marketing ideas from world class marketing agency Giant Spoon.
+To use the Giant Spoon skill, try saying...
 
-**Last Updated:** 2016-03-14 18:01:34
+* *Alexa, ask Giant Spoon for an idea*
+
+* *Alexa, ask Giant Spoon for help brainstorming*
+
+* *Alexa, ask Giant Spoon for advice*
+
+Simply ask Alexa for an idea from Giant Spoon and then sit back and get ready to become an elite marketing guru. Giant Spoon is a marketing strategy, communications planning, and innovation company that has more ideas than you can shake a stick at. That said, we appreciate you not shaking sticks at our ideas.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** giant spoon
+* **Category:** Productivity
+* **ID:** amzn1.echo-sdk-ams.app.2723be85-364e-442d-ad18-14932a4c0681
+* **ASIN:** B01CY5R5LA
+* **Author:** Giant Spoon
+* **First Release Date:** 2016-03-14 08:41:29
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

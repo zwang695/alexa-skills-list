@@ -1,6 +1,26 @@
 # Insults
-*Alexa, launch Insults.*
+![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
-This skill will teach Alexa to hurl terrible insults at you.
+To use the Insults skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, launch Insults.*
+
+* *Alexa, open Insults.*
+
+* *Alexa, begin Insults.*
+
+Ever had one of those days where you feel like a terrible person and you just need someone to tell you that?
+
+***
+
+### Skill Details
+
+* **Invocation Name:** insults
+* **Category:** Other
+* **ID:** amzn1.echo-sdk-ams.app.52bbd3ed-9533-4eda-ab19-3d5ad8840e6d
+* **ASIN:** B01CSJ4FTM
+* **Author:** Adam Housman
+* **First Release Date:** 2016-03-10 11:40:42
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

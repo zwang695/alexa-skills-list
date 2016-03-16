@@ -1,6 +1,32 @@
 # The Rabbi
-*Alexa, ask The Rabbi what time is Shabbos in New York?*
+![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
-Gives you the start and end times for Shabbos by city, the Hebrew (Jewish) date for any day this week or next, and the Torah portion of this week.
+To use the The Rabbi skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, ask The Rabbi what time is Shabbos in New York?*
+
+* *Alexa, ask The Rabbi what's the Hebrew (or Jewish) date today?*
+
+* *Alexa, ask The Rabbi what's the Parsha this week?*
+
+Gives you the start and end times for Shabbos by city, the Hebrew (Jewish) date for today, tomorrow, any day this week or next (ie:a week from today), and the Torah portion of this week.
+
+Version 1.1.0 adds the Hebrew/Jewish date feature and all cities now function. 
+More features to come, we'd appreciate your suggestions: torah4elli@gmail.com
+
+Now in partnership with www.Chabad.org 
+Thanks to www.HebCal.com for the Parsha API!
+
+***
+
+### Skill Details
+
+* **Invocation Name:** the rabbi
+* **Category:** Other
+* **ID:** amzn1.echo-sdk-ams.app.ec9cc97e-8eb3-4583-b8b0-9ef589d58775
+* **ASIN:** B018TEBWH8
+* **Author:** KingPup Ent
+* **First Release Date:** 2015-12-02 01:12:36
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

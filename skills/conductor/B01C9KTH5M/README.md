@@ -1,6 +1,27 @@
 # Conductor
-*Alexa, ask conductor to get status for the 7 train*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-Get information on your commute. So far supports NYC subway/LIRR/MetroNorth status (NYC bus coming soon). 'Get status for 7 train'
+To use the Conductor skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, ask conductor to get status for the 7 train*
+
+* *Alexa, ask conductor to get status for the port jefferson*
+
+* *Alexa, ask conductor for Babylon status*
+
+This service will give you information about NYC transit (so far only subway/LIRR/MetroNorth service status)
+'Alexa, ask conductor to get status for the 7 train'
+
+***
+
+### Skill Details
+
+* **Invocation Name:** conductor
+* **Category:** Travel
+* **ID:** amzn1.echo-sdk-ams.app.5bf0893d-81e3-4477-9941-f5901359e740
+* **ASIN:** B01C9KTH5M
+* **Author:** Gotham Web Artisans
+* **First Release Date:** 2016-02-27 00:31:02
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

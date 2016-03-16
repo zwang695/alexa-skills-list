@@ -1,6 +1,26 @@
 # Hacking History Trivia
-*Alexa, start Hacking History*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-Hacking History Trivia challenges you with fun and interesting questions about the history of computing and hacking!
+To use the Hacking History Trivia skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, start Hacking History*
+
+* *the answer is one*
+
+* *my answer is one*
+
+Think you know about the history of computing, hacking, and programming? Add this skill and test your knowledge about the people, places and events related to computer technology, internet history, and hacker culture. Challenge your computer geek friends and see who really knows more!
+
+***
+
+### Skill Details
+
+* **Invocation Name:** hacking history
+* **Category:** Entertainment
+* **ID:** amzn1.echo-sdk-ams.app.3988e924-353f-47f4-b986-a84584a7bd6c
+* **ASIN:** B01AU0OEY2
+* **Author:** Chris Bryant
+* **First Release Date:** 2016-01-19 23:55:57
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

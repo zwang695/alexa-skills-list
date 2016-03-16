@@ -1,6 +1,26 @@
 # Toughguy
-*Alexa, ask ToughGuy to tell me a joke*
+![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_half_black_18dp_1x.png) 9
 
-The ToughGuy tells you nerdy Chuck Norris jokes.
+To use the Toughguy skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, ask ToughGuy to tell me a joke*
+
+* *Alexa, ask ToughGuy to say a joke*
+
+* *Alexa, ask ToughGuy to make a joke*
+
+The ToughGuy is will tell you a variety, of nerd-related Chuck Norris jokes. If you're a nerd, you're going to love it!
+
+***
+
+### Skill Details
+
+* **Invocation Name:** tough guy
+* **Category:** Entertainment
+* **ID:** amzn1.echo-sdk-ams.app.187cc01b-2b3f-48b2-9019-dcf1cd09513e
+* **ASIN:** B019JEMB86
+* **Author:** Cornerstone Software Creations LLC
+* **First Release Date:** 2015-12-18 22:49:08
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

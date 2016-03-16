@@ -1,6 +1,31 @@
 # Project+ Quiz
-*Alexa, open Project Plus Quiz.*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-Sharpen your Project+ knowledge or supplement your certification preparation with the assistance of this practice quiz.
+To use the Project+ Quiz skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, open Project Plus Quiz.*
+
+* *Alexa, start Project Plus Quiz.*
+
+* *Alexa, launch Project Plus Quiz.*
+
+The Project+ quiz asks random questions from a pool of questions based on the popular IT Project Management Certification.
+
+During the quiz, simply say the number of the answer you believe to be correct to submit that answer.  To repeat a question, say "repeat."  For help, say "help."  To start a new quiz, say "start a new quiz."
+
+Be sure to take try the quiz often as new questions will be added routinely!
+
+***
+
+### Skill Details
+
+* **Invocation Name:** project plus quiz
+* **Category:** Education
+* **ID:** amzn1.echo-sdk-ams.app.cb15f4ac-28e6-46da-bd92-a20dfee6e441
+* **ASIN:** B01C6DTKDG
+* **Author:** Tony Moreira
+* **First Release Date:** 2016-02-24 22:31:32
+* **Terms of Use:** http://tonymoreira.com/amazon-echo-project-quiz
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

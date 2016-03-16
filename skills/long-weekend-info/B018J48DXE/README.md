@@ -1,6 +1,26 @@
 # Long Weekend Info
-*Alexa, open Long Weekend*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-What's the next long weekend?
+To use the Long Weekend Info skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, open Long Weekend*
+
+* *Alexa, ask Long Weekend for details*
+
+* *Alexa, tell Long Weekend to describe the next*
+
+Get information about the upcoming long weekend. Useful for planning ahead your vacation around long weekends.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** long weekend
+* **Category:** Other
+* **ID:** amzn1.echo-sdk-ams.app.5c54487b-0481-4e61-bbf9-391c349139b9
+* **ASIN:** B018J48DXE
+* **Author:** TapsUnlimited
+* **First Release Date:** 2015-11-25 23:17:56
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

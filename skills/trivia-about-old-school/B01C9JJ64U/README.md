@@ -1,6 +1,26 @@
 # Trivia About Old School
-*Alexa, Launch Old School Trivia*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-This is a multiple-choice trivia game to challenge what you know about the movie Old School.  Content may not be suitable for all ages.
+To use the Trivia About Old School skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, Launch Old School Trivia*
+
+* *Repeat*
+
+* *Help*
+
+This multiple-choice game is a fun way to challenge what you know about the movie Old School.  Think you have what it takes to get a perfect score?  Think you can score more points than your know-it-all friend?  ...then put your knowledge to the test.  Please note this game contains material that may not be suitable for young children; parental discretion is advised.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** old school trivia
+* **Category:** Games
+* **ID:** amzn1.echo-sdk-ams.app.8bbc51de-0770-47a7-8bc5-a7f0df5208c1
+* **ASIN:** B01C9JJ64U
+* **Author:** onetwentyseven inc
+* **First Release Date:** 2016-02-26 23:42:43
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

@@ -1,6 +1,26 @@
 # Conversation Starter
-*Alexa, open Conversation Starter*
+![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_half_black_18dp_1x.png) 4
 
-Conversation Starter is a great way to get suggested conversation topics for you and your friends.
+To use the Conversation Starter skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, open Conversation Starter*
+
+* *Alexa, ask Conversation Starter for a topic*
+
+* *"next" (can be stated after Alexa provides a conversation topic)*
+
+Conversation Starter is a great way to get suggested conversation topics for you and your friends. For example, asking Conversation Starter for a topic might suggest talking about your greatest fear, the best day of your life, or something you would change if given the chance.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** conversation starter
+* **Category:** Games
+* **ID:** amzn1.echo-sdk-ams.app.82ece337-c1c5-400e-8a95-34b58c3d79b8
+* **ASIN:** B019WZ4572
+* **Author:** Ian Suttle
+* **First Release Date:** 2015-12-28 21:50:52
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

@@ -1,6 +1,26 @@
 # Gold Bug
-*Alexa, ask Gold Bug what's the price of (gold/silver/oil)*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-Get the latest closing day prices for gold, silver and oil with Gold Bug!
+To use the Gold Bug skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, ask Gold Bug what's the price of (gold/silver/oil)*
+
+* *Alexa, ask Gold Bug what is the price of (gold/silver/oil)*
+
+* *Alexa, ask Gold Bug for the (gold/silver/oil) price*
+
+The skill will pull the latest closing day price and date for gold, silver or oil and speak the price and date in response.  No special requirements are needed.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** gold bug
+* **Category:** Finance
+* **ID:** amzn1.echo-sdk-ams.app.91bb0483-247c-4317-92bf-30b86bbb9099
+* **ASIN:** B01BPSVFD6
+* **Author:** MCorto
+* **First Release Date:** 2016-02-13 00:58:18
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

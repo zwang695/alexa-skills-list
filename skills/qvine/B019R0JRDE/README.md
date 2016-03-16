@@ -1,6 +1,26 @@
 # QVine
-*Alexa, ask QVine, when is the next quarterly meeting?*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-This app allows QVine employees to ask about upcoming events on the QVine calendar.
+To use the QVine skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, ask QVine, when is the next quarterly meeting?*
+
+* *Alexa, ask QVine, when is the next holiday?*
+
+* *Alexa, ask QVine, when is the next corporate activity?*
+
+The QVine app allows you to ask about upcoming events on the QVine calendar.  You can ask about the quarterly meetings, picnic, holiday party, other corporate activities and holidays.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** q vine
+* **Category:** Other
+* **ID:** amzn1.echo-sdk-ams.app.cff2ad4c-5345-44ec-9446-ec077c46e6e7
+* **ASIN:** B019R0JRDE
+* **Author:** QVine
+* **First Release Date:** 2015-12-23 22:18:59
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*

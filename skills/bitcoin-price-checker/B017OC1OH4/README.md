@@ -1,6 +1,24 @@
 # Bitcoin Price Checker
-*Alexa, open Bitcoin Price Checker.*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-Ever wanted to check the Bitcoin exchange rate on your Amazon Echo? Now you can!
+To use the Bitcoin Price Checker skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa, open Bitcoin Price Checker.*
+
+This extremely simple app tells you the current BTE-e Bitcoin to US Dollar exchange rate. All you have to do is open the app, there are no commands.
+
+The only thing you have to say is "Alexa, open Bitcoin Price Checker."
+
+***
+
+### Skill Details
+
+* **Invocation Name:** bitcoin price checker
+* **Category:** Other
+* **ID:** amzn1.echo-sdk-ams.app.11eee174-e7ab-4ca8-98f0-6931bae5db0b
+* **ASIN:** B017OC1OH4
+* **Author:** Andrew Austin
+* **First Release Date:** 2015-11-06 20:21:16
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:05*

@@ -1,6 +1,28 @@
 # Powerball Numbers
-*Alexa ask Powerball for the winning numbers*
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
-Ask Powerball for the Latest Winning Powerball Numbers!
+To use the Powerball Numbers skill, try saying...
 
-**Last Updated:** 2016-03-12 17:45:05
+* *Alexa ask Powerball for the winning numbers*
+
+* *Alexa ask Powerball for the lottery winner*
+
+Get your Powerball numbers straight from Alexa! You'll get the numbers from the latest Powerball drawing.
+
+Visit http://www.powerball.com/ for more information
+
+This skill may not be suitable for all ages.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** powerball
+* **Category:** Reference
+* **ID:** amzn1.echo-sdk-ams.app.42c328ee-e617-4138-a366-0eb5b5f3aab8
+* **ASIN:** B01BL1CAVI
+* **Author:** Sterian Associates
+* **First Release Date:** 2016-02-09 01:12:30
+* **In-App Purchasing:** No
+
+*This page was last updated 2016-03-16 04:53:06*
