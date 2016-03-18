@@ -23,4 +23,4 @@ Seattle Transit provides step-by-step transit directions for getting from one ne
 * **First Release Date:** 2016-02-10 00:54:51
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

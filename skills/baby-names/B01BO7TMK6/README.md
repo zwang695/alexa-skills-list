@@ -25,4 +25,4 @@ UPDATE 2/21/2016: Now if you launch the skill, it will stay open after you ask i
 * **First Release Date:** 2016-02-11 23:28:26
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

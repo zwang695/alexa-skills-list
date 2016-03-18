@@ -1,5 +1,5 @@
 # Insults
-![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
+![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Insults skill, try saying...
 
@@ -23,4 +23,4 @@ Ever had one of those days where you feel like a terrible person and you just ne
 * **First Release Date:** 2016-03-10 11:40:42
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

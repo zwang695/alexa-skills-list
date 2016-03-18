@@ -25,4 +25,4 @@ Math Puzzles is a fun and easy way to challenge yourself and your friends. You'r
 * **First Release Date:** 2015-12-14 21:33:09
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

@@ -23,4 +23,4 @@ Teacher for Alexa is a fun and interactive way to learn basic math through a ser
 * **First Release Date:** 2015-11-06 20:10:53
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

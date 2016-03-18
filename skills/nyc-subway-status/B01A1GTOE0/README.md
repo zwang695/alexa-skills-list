@@ -23,4 +23,4 @@ This is a simple skill which allows the user to query the status of the New York
 * **Terms of Use:** https://raw.githubusercontent.com/maxx/alexa-nyc-mta/master/terms_of_service.txt
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

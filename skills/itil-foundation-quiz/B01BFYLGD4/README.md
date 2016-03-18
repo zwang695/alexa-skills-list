@@ -28,4 +28,4 @@ Be sure to take try the quiz often as new questions will be added routinely!
 * **Terms of Use:** http://tonymoreira.com/alexa-itil-foundation-quiz/
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

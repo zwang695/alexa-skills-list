@@ -32,4 +32,4 @@ keeps you informed 24/7 with the latest USA TODAY headlines. Staying informed ha
 * **Terms of Use:** http://www.usatoday.com/legal/tos.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

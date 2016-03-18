@@ -23,4 +23,4 @@ Use HawkBus to get the next time until the next bus arrives at a specified stop 
 * **First Release Date:** 2016-01-14 23:18:35
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

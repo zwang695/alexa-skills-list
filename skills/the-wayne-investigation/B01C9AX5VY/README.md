@@ -1,5 +1,5 @@
 # The Wayne Investigation
-![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_half_black_18dp_1x.png) 26
+![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_half_black_18dp_1x.png) 27
 
 To use the The Wayne Investigation skill, try saying...
 
@@ -27,4 +27,4 @@ Parental guidance suggested. The Wayne Investigation contains content that may n
 * **First Release Date:** 2016-02-26 20:30:20
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

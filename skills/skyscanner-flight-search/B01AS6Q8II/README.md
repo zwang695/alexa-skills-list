@@ -1,5 +1,5 @@
 # Skyscanner Flight Search
-![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
+![1.7 stars](../../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Skyscanner Flight Search skill, try saying...
 
@@ -29,4 +29,4 @@ All prices come with the lowest recent price found for the route and dates, the 
 * **Terms of Use:** http://www.skyscanner.net/termsofservice.aspx
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

@@ -29,4 +29,4 @@ Plus one bonus hero: the lord, also known as Jaraxxus, Eredar Lord of the Burnin
 * **First Release Date:** 2015-11-23 21:08:42
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

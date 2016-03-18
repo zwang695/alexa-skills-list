@@ -23,4 +23,4 @@ Ask Alexa for the latest powerball numbers and have them instantly returned alon
 * **First Release Date:** 2016-01-25 17:25:58
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

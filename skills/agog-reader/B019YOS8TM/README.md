@@ -27,4 +27,4 @@ For updates sign up for the email list at http://agog.com/email/AgogReader
 * **First Release Date:** 2015-12-29 23:48:57
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

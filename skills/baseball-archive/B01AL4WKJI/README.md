@@ -1,5 +1,5 @@
 # Baseball Archive
-![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
+![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Baseball Archive skill, try saying...
 
@@ -23,4 +23,4 @@ Baseball Archive provides information and statistics for any of the 18000+ playe
 * **First Release Date:** 2016-01-14 03:28:47
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

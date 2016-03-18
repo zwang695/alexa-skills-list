@@ -27,4 +27,4 @@ Play a game now, and see if you can beat the dealer.
 * **First Release Date:** 2015-11-06 20:20:59
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

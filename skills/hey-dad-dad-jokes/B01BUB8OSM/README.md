@@ -23,4 +23,4 @@ A quick and easy way to hear some of the corniest jokes in existence.
 * **First Release Date:** 2016-02-16 19:09:55
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

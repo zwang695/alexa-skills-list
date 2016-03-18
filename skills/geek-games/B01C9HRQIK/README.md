@@ -25,4 +25,4 @@ Which console was launched first the SNES or the Sega Genesis?
 * **First Release Date:** 2016-02-26 23:08:38
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

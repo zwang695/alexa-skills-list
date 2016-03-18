@@ -28,4 +28,4 @@ Planning dinner has never been easier. Just ask Alexa to open Campbell’s Kitch
 * **Account Linking Domains:** account.askcampbellskitchen.com, www.campbellsoupcompany.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

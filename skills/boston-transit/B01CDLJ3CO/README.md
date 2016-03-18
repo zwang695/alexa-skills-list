@@ -1,15 +1,15 @@
 # Boston Transit
-![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 2
+![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Boston Transit skill, try saying...
 
-* *Alexa, ask Boston Transit how the Red line is doing.*
+* *Alexa, ask Boston Transit when the next train to South Station gets in to Kendall*
 
-* *the status of the Needham line.*
+* *when the next Wonderland bound train leaves from Aquarium*
 
-* *the Silver line.*
+* *how is the Red Line doing*
 
-Currently, you can find out the alert status on subway or commuter rail lines, as well as the Silver Line. In the future, it will be possible to ask about specific trains or specific stations, or for information on bus lines.
+Currently, you can find out the alert status on subway or commuter rail lines, as well as the Silver Line. You can also find out the realtime status of individual trains. Bus information will be in a future update.
 
 ***
 
@@ -23,4 +23,4 @@ Currently, you can find out the alert status on subway or commuter rail lines, a
 * **First Release Date:** 2016-02-29 23:14:52
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

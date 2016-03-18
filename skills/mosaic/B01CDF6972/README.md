@@ -33,4 +33,4 @@ To get started, please link your MOSAIC account to use this skill. Also, please 
 * **Account Linking Domains:** images-na.ssl-images-amazon.com, api-cdn.amazon.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

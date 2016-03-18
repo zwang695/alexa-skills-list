@@ -31,8 +31,8 @@ Have fun and do leave a feedback!
 * **Category:** Games
 * **ID:** amzn1.echo-sdk-ams.app.a606fd3d-294d-4c8f-9d5c-d77081dee2e1
 * **ASIN:** B01CHMTJSW
-* **Author:** -
+* **Author:** TC Leu
 * **First Release Date:** 2016-03-03 06:06:15
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

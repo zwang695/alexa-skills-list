@@ -23,4 +23,4 @@ A guide for the early access game, ARK: Survival Evolved.  Ask the guide what's 
 * **First Release Date:** 2015-11-23 21:30:06
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

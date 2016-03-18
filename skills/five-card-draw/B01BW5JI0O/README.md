@@ -29,4 +29,4 @@ Play now and see if you can beat Alexa!
 * **First Release Date:** 2016-02-17 23:59:53
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

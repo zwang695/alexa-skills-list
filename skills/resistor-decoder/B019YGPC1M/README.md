@@ -25,4 +25,4 @@ Resistor Decoder supports 3-, 4-, and 5-band resistors.  It also warns you if a 
 * **First Release Date:** 2015-12-29 19:18:48
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

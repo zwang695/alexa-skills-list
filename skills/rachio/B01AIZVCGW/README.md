@@ -26,4 +26,4 @@ The Rachio skill allows you to control your Rachio IRO Smart Wifi Enabled Irriga
 * **Account Linking Domains:** rach.io, rachio.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

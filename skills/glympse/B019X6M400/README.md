@@ -28,4 +28,4 @@ To get started, you can add friends or family members to the Glympse skill by sa
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

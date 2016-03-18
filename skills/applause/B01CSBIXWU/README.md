@@ -19,4 +19,4 @@ Get a round of applause in any situation with the Alexa Applause Skill. Ask for 
 * **First Release Date:** 2016-03-10 09:02:39
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

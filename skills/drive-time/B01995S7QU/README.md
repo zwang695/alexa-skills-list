@@ -40,4 +40,4 @@ UPDATE: Locations are now saved! No need to start over if you want to edit your 
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

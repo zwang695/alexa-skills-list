@@ -23,4 +23,4 @@ This skill will return a description of the area represented by an area code.
 * **First Release Date:** 2016-02-11 20:04:44
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

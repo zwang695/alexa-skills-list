@@ -23,4 +23,4 @@ Gives Washington DC Metro light rail train arrival and departure times, as well 
 * **First Release Date:** 2015-11-17 20:13:40
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

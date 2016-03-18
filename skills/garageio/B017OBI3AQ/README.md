@@ -25,4 +25,4 @@ Garageio is the simple and secure way to control and monitor your garage door fr
 * **Terms of Use:** https://garageio.com/terms
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

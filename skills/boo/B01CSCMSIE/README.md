@@ -19,4 +19,4 @@ Someone told a bad joke? Let them know with the Alexa boo Skill.
 * **First Release Date:** 2016-03-10 09:27:10
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

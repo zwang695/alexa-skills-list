@@ -25,4 +25,4 @@ Two factions dominate the Starlanes, the transit pathways of the known universe.
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/sl_terms.htm
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

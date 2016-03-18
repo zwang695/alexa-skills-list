@@ -51,4 +51,4 @@ To learn more about what you can do with QuickEvents, go to: http://sarkonovich-
 * **Account Linking Domains:** 
 * **In-App Purchasing:** Yes
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

@@ -23,4 +23,4 @@ To use the 21 Dayz skill, try saying...
 * **First Release Date:** 2016-01-29 05:17:36
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

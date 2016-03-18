@@ -26,4 +26,4 @@ Ask Alexa to to get lyrics for a song and to read it.  You can get lyrics quotes
 * **Terms of Use:** https://about.musixmatch.com/eula
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

@@ -29,4 +29,4 @@ Celebrate over 30 seasons of America’s Favorite Quiz Show®—install the skil
 * **Terms of Use:** http://www.sonypictures.com/corp/tos.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

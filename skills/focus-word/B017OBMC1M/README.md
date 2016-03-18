@@ -23,4 +23,4 @@ Focus Word provides an inspirational word or phrase along with a brief statement
 * **First Release Date:** 2015-11-06 20:11:30
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

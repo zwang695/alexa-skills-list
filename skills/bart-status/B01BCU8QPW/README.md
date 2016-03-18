@@ -19,4 +19,4 @@ BART Status gets current service advisories from the official BART website.
 * **First Release Date:** 2016-02-01 23:36:41
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

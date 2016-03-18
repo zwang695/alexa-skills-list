@@ -25,4 +25,4 @@ The game continues until someone fails to respond to the next word or you say Ex
 * **First Release Date:** 2015-11-06 20:16:09
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

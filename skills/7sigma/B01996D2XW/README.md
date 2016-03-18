@@ -26,4 +26,4 @@ The Ask 7Sigma skill combines data from multiple sources to provide you with a c
 * **Account Linking Domains:** ask.7sigma.com, www.google-analytics.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

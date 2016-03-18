@@ -29,4 +29,4 @@ Thanks to www.HebCal.com for the Parsha API!
 * **First Release Date:** 2015-12-02 01:12:36
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

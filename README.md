@@ -1,9 +1,9 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 370
+**Total Skills Available:** 389
 
-**Last Updated:** 2016-03-16 04:53:06
+**Last Updated:** 2016-03-18 16:02:01
 
 ***
 
@@ -361,6 +361,22 @@ Get information and statistics for any player in the history of Major League Bas
 
 ***
 
+## [Baseball Trivia](skills/baseball-trivia/B01D1IC35C)
+
+*Alexa play Baseball Trivia*
+
+Baseball Trivia about the history of baseball in Boston.
+
+***
+
+## [Baseball Trivia App](skills/baseball-trivia-app/B01D1II83S)
+
+*Alexa, open baseball trivia*
+
+Test your knowledge  of Baseball.
+
+***
+
 ## [Basket Savings](skills/basket-savings/B01BPT2U2U)
 
 *Alexa, ask Basket if whole milk is on sale near Arlington, VA.*
@@ -489,6 +505,22 @@ Ask Alexa to help you show off your crafting skills by answering over 30 differe
 
 ***
 
+## [Board Gamer](skills/board-gamer/B01D39I76I)
+
+*Alexa, tell Board Gamer that my username is boardgamer*
+
+Get a random board game from your BoardGameGeek.com board game collection
+
+***
+
+## [Boat War](skills/boat-war/B01D4O5CO2)
+
+*Alexa, launch Boat War*
+
+Measure yourself to Alexa in Boat War!
+
+***
+
 ## [Boo](skills/boo/B01CSCMSIE)
 
 *Alexa ask boo*
@@ -507,9 +539,9 @@ Fun trivia about alcohol to impress your friends
 
 ## [Boston Transit](skills/boston-transit/B01CDLJ3CO)
 
-*Alexa, ask Boston Transit how the Red line is doing.*
+*Alexa, ask Boston Transit when the next train to South Station gets in to Kendall*
 
-Find out the status of MBTA public transit (subway, Silver, and commuter line status so far, but more information coming soon).
+Find out the status of MBTA public transit (subway, Silver, and commuter line status, as well as real time predictions for trains).
 
 ***
 
@@ -591,6 +623,14 @@ Cat Facts is the premier skill for feline fun.
 *Alexa, ask cat raiser how is my cat*
 
 Raise your e-cat living in Alexa!
+
+***
+
+## [CatFactsTrivia](skills/catfactstrivia/B01D4CM27O)
+
+*Alexa, ask cat facts to start game*
+
+Cat Facts Trivia - test your knowledge of cat facts!
 
 ***
 
@@ -714,6 +754,14 @@ Can't remember exactly how to craft an enchantment table or a dropper in Minecra
 
 ***
 
+## [Cricket Quiz](skills/cricket-quiz/B01D4EF2VU)
+
+*Alexa, ask Cricket Quiz*
+
+Cricket quiz to have fun with all cricket lovers and to test their knowledge about cricket!!
+
+***
+
 ## [Cricket Quiz](skills/cricket-quiz/B01D0ISSL6)
 
 *Alexa, start Cricket Quiz*
@@ -775,6 +823,14 @@ Read the latest news and events from the Washington DC tech scene.
 *"Alexa, open Daily Affirmation."*
 
 The Walking Affirmations Daily Affirmation skill provides a daily uplifting, positive thought for you to take throughout the day.
+
+***
+
+## [Daily Bootcamping Thought](skills/daily-bootcamping-thought/B01D2XLNX4)
+
+*"Alexa, open Daily Bootcamping"*
+
+Get a thought to improve your bootcamp experience.
 
 ***
 
@@ -852,7 +908,7 @@ Place your Domino's Easy Order or your most recent order. You can also ask for D
 
 ## [DrinkBoy](skills/drinkboy/B01C9JQFFI)
 
-*Alexa, ask Drink Boy what is the recipe for a sidecar*
+*Alexa, ask Drink Boy what is the recipe for a Sidecar*
 
 DrinkBoy provides recipes for over 200 popular cocktails.
 
@@ -983,6 +1039,14 @@ Ask Fidelity Quote Lookup and Market Update
 *Alexa, ask first aid egghead what's the treatment for a cut*
 
 First Aid Egghead is an Alexa Skill designed to be your in-house First Responder for minor medical emergencies.
+
+***
+
+## [Fitbit](skills/fitbit/B01CH4BP28)
+
+*Alexa, ask Fitbit how I'm doing today.*
+
+Keep up with your fitness goals by checking Fitbit with Alexa. Stay in touch with your progress and get motivated as you go about your day.
 
 ***
 
@@ -1130,6 +1194,14 @@ Alexa quotes GLaDOS from Valve's Portal.
 
 ***
 
+## [Globetrotter Trivia](skills/globetrotter-trivia/B01D4PVFXS)
+
+*alexa ask globetrotter trivia*
+
+Find out how much you know about the cities of the USA
+
+***
+
 ## [Glympse](skills/glympse/B019X6M400)
 
 *Alexa, ask Glympse where is Sylvia?*
@@ -1239,6 +1311,14 @@ Hanker is your go to local event guide for all that's happening in your city. Fr
 *Alexa, launch Happy Birthday*
 
 Alexa sings (raps?) Happy Birthday! Tell your Echo the name of the lucky birthday girl or boy and Alexa does the rest.  A variety of surprising song variations.
+
+***
+
+## [Haunted House](skills/haunted-house/B01D37YLXI)
+
+*Alexa open, Haunted House*
+
+Haunted House provides a random scary sound to fill any moment with suspense.
 
 ***
 
@@ -1390,7 +1470,15 @@ Test your knowledge of jazz music!
 
 *Alexa, Play Jeopardy!*
 
-Every Jeopardy! category has an “extra” clue written. Play these clues in the J6 game on Echo! Shout out your answers each day to have the true show experience.
+Play 6 new Jeopardy! clues each weekday from categories that will appear in that day's broadcast. Shout your answers for an authentic Jeopardy! experience.
+
+***
+
+## [Jim Rockford's Answering Machine](skills/jim-rockfords-answering-machine/B01D26NANC)
+
+*Alexa, Ask Jim Rockford's Answering Machine to read a message*
+
+Jim Rockford's Answering Machine
 
 ***
 
@@ -1458,6 +1546,14 @@ LIFX, the world’s brightest color Wi-Fi smart lights. Ask Alexa to switch on t
 
 ***
 
+## [Lizard Spock](skills/lizard-spock/B01D304GY4)
+
+*Alexa, open Lizard Spock.*
+
+Rock Paper Scissors Lizard Spock
+
+***
+
 ## [Long Island Train Information](skills/long-island-train-information/B01CJPJRDE)
 
 *Alexa, ask choo choo, when is the next train from Penn Station to Mineola*
@@ -1506,6 +1602,15 @@ A fun Magic Eight Ball prediction skill.
 
 ***
 
+## [Malayala Manorama](skills/malayala-manorama/B01D28TLRY)
+
+*Alexa, ask manorama for kerala news*
+
+Manoramaonline provides you the latest news from Kerala and India along with entertainment and informative content.
+Alexa, ask manorama for the latest news
+
+***
+
 ## [Market News](skills/market-news/B01BMRJUU0)
 
 *Alexa, ask Market for news*
@@ -1546,6 +1651,14 @@ Math Tutor can read out the multiplication tables between 1 and 10.
 
 ***
 
+## [MBTA Alerts](skills/mbta-alerts/B01D30TK7W)
+
+*Alexa, ask Boston Transit if there are any alerts on the green line*
+
+Checks the MTBA system for any alerts on the subway or commuter rail lines
+
+***
+
 ## [Memory Master](skills/memory-master/B01B5BXC52)
 
 *Alexa, open Memory Master.*
@@ -1567,6 +1680,14 @@ Come and check how good your memory is!
 *Alexa, Ask meteor showers what is happening tonight*
 
 Meteor showers tonight
+
+***
+
+## [Mid Century Designer Trivia](skills/mid-century-designer-trivia/B01D31TJ2C)
+
+*Alexa, play mid century trivia*
+
+A trivia game about iconic mid century designers.
 
 ***
 
@@ -1770,6 +1891,14 @@ Explore a mysterious castle, collecting items and solving puzzles.
 
 ***
 
+## [Name Nerd](skills/name-nerd/B01D1NNBFS)
+
+*Alexa, ask Name Nerd about the name Allison*
+
+What's in a name? Everything! The Name Nerd tells you every name's popularity. Every day it will suggest a different unique, unusual and creative name.
+
+***
+
 ## [NBC News](skills/nbc-news/B01C7SGG3M)
 
 *Alexa, ask NBC News how Donald Trump is doing?*
@@ -1831,6 +1960,14 @@ Ask me New York City subway status.
 *Alexa, use Ooma to call 650-555-1234*
 
 Dial your phone from Alexa.  Listen to your Ooma voicemail.  NOTE:  This does not make Echo into a speakerphone.
+
+***
+
+## [OurGroceries](skills/ourgroceries/B01D4F1J0M)
+
+*Alexa, ask OurGroceries to add milk to shopping list.*
+
+OurGroceries is the simplest way to keep your grocery lists instantly synchronized on all the smartphones in your household—and it’s free!
 
 ***
 
@@ -1914,19 +2051,19 @@ Ask Alexa to generate your Powerball numbers, and get the latest results.
 
 ***
 
-## [Powerball Numbers](skills/powerball-numbers/B01BL1CAVI)
-
-*Alexa ask Powerball for the winning numbers*
-
-Ask Powerball for the Latest Winning Powerball Numbers!
-
-***
-
 ## [Powerball Numbers](skills/powerball-numbers/B01C7URPZS)
 
 *Alexa, open power ball numbers*
 
 Tells you what the most recent winning Powerball lottery numbers were.  May not be suitable for all ages.
+
+***
+
+## [Powerball Numbers](skills/powerball-numbers/B01BL1CAVI)
+
+*Alexa ask Powerball for the winning numbers*
+
+Ask Powerball for the Latest Winning Powerball Numbers!
 
 ***
 
@@ -2606,7 +2743,7 @@ Thirteen is a fun number game where Alexa and you need to form number 13.
 
 *Alexa, ask Tic Tac Toe for a game*
 
-Take on Alexa in a classic game of Tic TacToe.
+Take on Alexa in a classic game of Tic Tac Toe.
 
 ***
 
@@ -2754,6 +2891,14 @@ This is a Doctor Who Trivia Game
 
 ***
 
+## [Trivia for Fans of Superman](skills/trivia-for-fans-of-superman/B01D289Y9Y)
+
+*Alexa, Launch Superman Trivia*
+
+A fun trivia for fans of Superman. Alexa, launch Superman Trivia
+
+***
+
 ## [Trivia for Formula One](skills/trivia-for-formula-one/B01COQN8Z6)
 
 *Alexa, launch formula one trivia*
@@ -2783,6 +2928,14 @@ Trivia about the United States Air Force
 *Alexa, launch Michigan Football Trivia*
 
 The Trivia Game for Michigan Football will let you test your knowledge and see how much of a wolverine you truly are!
+
+***
+
+## [Trivia Japan](skills/trivia-japan/B01D3LZVIS)
+
+*Alexa, Launch Japan Trivia*
+
+This is a fun little trivia game featuring interesting questions on Japan and Japanese Culture.
 
 ***
 

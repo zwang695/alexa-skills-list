@@ -25,4 +25,4 @@ The first step is enabling the skill. Then, this skill works by allowing you to 
 * **First Release Date:** 2015-12-29 23:43:30
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

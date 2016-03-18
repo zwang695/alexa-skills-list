@@ -23,4 +23,4 @@ This skill simply tells the user a "yo momma" joke. The user can simply ask Mom 
 * **First Release Date:** 2015-12-24 22:11:30
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

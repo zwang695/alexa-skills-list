@@ -37,4 +37,4 @@ During the time that Alexa is reading back the movies and showtimes, the user ca
 * **First Release Date:** 2016-02-04 19:48:59
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

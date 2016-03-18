@@ -23,4 +23,4 @@ This simple messaging service is used to send and receive messages using your Am
 * **First Release Date:** 2016-01-22 17:44:17
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

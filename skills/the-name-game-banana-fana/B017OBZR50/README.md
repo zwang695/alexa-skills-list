@@ -23,4 +23,4 @@ Kids love playing The Name Game with Alexa. For example, just say “Alexa, open
 * **First Release Date:** 2015-11-11 20:00:32
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

@@ -23,4 +23,4 @@ Ask Daddy provides nurturing responses to things asked of him. Due to request, A
 * **First Release Date:** 2015-11-23 22:54:35
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

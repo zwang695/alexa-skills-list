@@ -23,4 +23,4 @@ Say: "Alexa ask D.C. Tech for news" or "Alexa, ask D.C. Tech for events"
 * **First Release Date:** 2016-02-27 01:04:29
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

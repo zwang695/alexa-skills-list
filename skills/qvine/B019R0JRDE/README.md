@@ -23,4 +23,4 @@ The QVine app allows you to ask about upcoming events on the QVine calendar.  Yo
 * **First Release Date:** 2015-12-23 22:18:59
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

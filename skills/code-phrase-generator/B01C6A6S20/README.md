@@ -27,4 +27,4 @@ I'm open to feature requests! If you think alternative patterns like "<color> <a
 * **First Release Date:** 2016-02-24 20:49:17
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

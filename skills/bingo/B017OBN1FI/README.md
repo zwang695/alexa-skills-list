@@ -23,4 +23,4 @@ Enjoy a game of Bingo anytime you like! With the Bingo skill, Alexa will call th
 * **First Release Date:** 2015-11-06 20:12:06
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

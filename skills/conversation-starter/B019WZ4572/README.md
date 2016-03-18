@@ -1,5 +1,5 @@
 # Conversation Starter
-![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_half_black_18dp_1x.png) 4
+![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Conversation Starter skill, try saying...
 
@@ -23,4 +23,4 @@ Conversation Starter is a great way to get suggested conversation topics for you
 * **First Release Date:** 2015-12-28 21:50:52
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

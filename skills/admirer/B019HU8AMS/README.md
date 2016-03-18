@@ -23,4 +23,4 @@ Have you ever just wanted a little compliment? The Admirer application does just
 * **First Release Date:** 2015-12-18 00:11:34
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

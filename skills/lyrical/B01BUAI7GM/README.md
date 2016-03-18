@@ -58,4 +58,4 @@ Within the skill you can say "help" at any time for more information on how to u
 * **First Release Date:** 2016-02-16 18:43:41
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

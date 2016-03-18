@@ -33,4 +33,4 @@ Learn more about Echo ordering and all the newest ways to order Domino’s at ht
 * **Account Linking Domains:** dominos.com, cache.dominos.com, order.dominos.com
 * **In-App Purchasing:** Yes
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

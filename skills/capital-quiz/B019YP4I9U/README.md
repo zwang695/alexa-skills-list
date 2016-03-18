@@ -25,4 +25,4 @@ Now you can take your time learning a few capitals a day, because the latest ver
 * **First Release Date:** 2015-12-30 00:02:24
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

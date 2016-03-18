@@ -19,4 +19,4 @@ To use the 1-2-3 Math skill, try saying...
 * **First Release Date:** 2016-01-21 01:36:15
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

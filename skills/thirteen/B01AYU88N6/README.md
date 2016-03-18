@@ -24,4 +24,4 @@ Try completing the game in less than 45 seconds.
 * **First Release Date:** 2016-01-23 02:48:32
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

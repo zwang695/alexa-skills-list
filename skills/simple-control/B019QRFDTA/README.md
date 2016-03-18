@@ -26,4 +26,4 @@ Take charge of your Simple Control automated home using nothing more than your v
 * **Account Linking Domains:** simplecontrol.com, roomieremote.com, google.com, googleapis.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

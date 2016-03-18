@@ -25,4 +25,4 @@ We heard you!  Ask Fidelity will now get you a market update along with quote in
 * **Terms of Use:** https://www.fidelity.com/mobile/mobile-terms-of-use
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

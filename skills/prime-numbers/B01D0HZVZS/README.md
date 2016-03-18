@@ -19,4 +19,4 @@ Test your math skills, answer questions about prime numbers.
 * **First Release Date:** 2016-03-15 18:58:26
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

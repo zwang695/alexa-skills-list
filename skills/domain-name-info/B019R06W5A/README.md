@@ -25,4 +25,4 @@ Simply start by saying "Alexa, launch Domain Name Info" and Alexa will guide you
 * **First Release Date:** 2015-12-23 22:04:32
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

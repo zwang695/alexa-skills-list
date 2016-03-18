@@ -27,4 +27,4 @@ DISCLAIMER:  This trivia skill deals with knowledge of alcoholic beverages and m
 * **First Release Date:** 2016-02-19 23:52:54
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

@@ -23,4 +23,4 @@ Ask Alexa to open Missouri football and see if you can correctly answer five que
 * **First Release Date:** 2016-02-04 19:10:14
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

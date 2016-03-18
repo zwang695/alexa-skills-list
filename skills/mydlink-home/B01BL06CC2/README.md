@@ -31,4 +31,4 @@ Just say “Alexa, ask mydlink to turn on living room light.” and Alexa will c
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

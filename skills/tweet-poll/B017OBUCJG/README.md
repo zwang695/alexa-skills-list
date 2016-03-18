@@ -25,4 +25,4 @@ Tweet Poll lets you put your finger on the pulse of the nation, as measured by t
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/tp_terms.htm
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

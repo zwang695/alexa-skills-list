@@ -19,4 +19,4 @@ Think of an animal and Alexa will play with you to guess it by asking questions.
 * **First Release Date:** 2015-11-06 20:19:49
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

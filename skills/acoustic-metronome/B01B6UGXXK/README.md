@@ -25,4 +25,4 @@ This is an acoustical metronome that plays a regular drumbeat. You can use it to
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/am_terms.htm
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

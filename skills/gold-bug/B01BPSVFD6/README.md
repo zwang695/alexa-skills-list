@@ -23,4 +23,4 @@ The skill will pull the latest closing day price and date for gold, silver or oi
 * **First Release Date:** 2016-02-13 00:58:18
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

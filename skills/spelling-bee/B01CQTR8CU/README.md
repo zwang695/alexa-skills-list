@@ -1,5 +1,5 @@
 # Spelling Bee
-![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../../images/ic_star_half_black_18dp_1x.png) 5
+![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Spelling Bee skill, try saying...
 
@@ -23,4 +23,4 @@ Welcome to spelling bee, the very first spelling game on Alexa. There are severa
 * **First Release Date:** 2016-03-09 10:35:13
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

@@ -25,4 +25,4 @@ To learn more about DogeCoin, please visit http://dogecoin.com/
 * **First Release Date:** 2016-01-22 01:35:39
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

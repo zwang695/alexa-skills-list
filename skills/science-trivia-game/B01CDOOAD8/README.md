@@ -23,4 +23,4 @@ Simple science trivia game
 * **First Release Date:** 2016-03-01 01:02:42
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

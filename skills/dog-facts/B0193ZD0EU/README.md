@@ -19,4 +19,4 @@ This skill tells you a dog fact
 * **First Release Date:** 2015-12-08 19:57:13
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

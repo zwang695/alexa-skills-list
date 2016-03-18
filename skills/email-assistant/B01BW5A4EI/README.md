@@ -31,4 +31,4 @@ Works with all mail providers—Gmail, Yahoo, Exchange, iCloud, IMAP and others.
 * **Account Linking Domains:** login.easilydo.com, www.facebook.com, m.facebook.com, accounts.google.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

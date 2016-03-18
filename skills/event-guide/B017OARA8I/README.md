@@ -23,4 +23,4 @@ Get event listings from Bandsintown.com. Use Event Guide to find what concerts a
 * **First Release Date:** 2015-11-06 19:47:54
 * **In-App Purchasing:** Yes
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:00*

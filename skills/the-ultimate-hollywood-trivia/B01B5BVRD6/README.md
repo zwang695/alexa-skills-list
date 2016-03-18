@@ -25,4 +25,4 @@ This game is fun to play individually or compete with  family and friends to be 
 * **First Release Date:** 2016-01-27 22:55:57
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

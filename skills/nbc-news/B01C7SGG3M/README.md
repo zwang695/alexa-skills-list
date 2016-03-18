@@ -25,4 +25,4 @@ Stay up to date with NBC News for the 2016 United States presidential elections.
 * **Terms of Use:** http://www.nbcnews.com/pages/terms-of-service
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

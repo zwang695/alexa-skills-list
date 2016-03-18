@@ -23,4 +23,4 @@ This skill quizzes you on the history of football's biggest game, including team
 * **First Release Date:** 2016-02-03 20:57:23
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*

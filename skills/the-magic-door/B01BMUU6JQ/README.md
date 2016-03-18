@@ -19,4 +19,4 @@ The Magic Door is an Alexa-powered choose your own adventure with original stori
 * **First Release Date:** 2016-02-10 19:11:10
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:06*
+*This page was last updated 2016-03-18 16:02:01*

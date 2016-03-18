@@ -25,4 +25,4 @@ Earthquakes will tell you all of the recent earthquakes around the world. Ask ea
 * **Terms of Use:** http://www.hdrider.net/terms.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-16 04:53:05*
+*This page was last updated 2016-03-18 16:02:00*
