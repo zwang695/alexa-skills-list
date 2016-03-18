@@ -204,7 +204,7 @@ for (var key in entitlements.apps) {
 	}
 
 	var skillFile   = 'skills/' + app.name.slug() + '/' + app.asin + '/README.md';
-	var timeRegex   = /[0-9]{4}[\-\/][0-9]{2}[\-\/][0-9]{2} [0-9]{2}\:[0-9]{2}\:[0-9]{2}/i;
+	var timeRegex   = /[0-9]{4}[\-\/][0-9]{2}[\-\/][0-9]{2} [0-9]{2}\:[0-9]{2}\:[0-9]{2}/g;
 	var skillOutput = Template.skill.readme(app);
 	var skillInput  = '';
 
