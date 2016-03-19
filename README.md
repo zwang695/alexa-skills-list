@@ -1,9 +1,9 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 389
+**Total Skills Available:** 391
 
-**Last Updated:** 2016-03-18 16:02:01
+**Last Updated:** 2016-03-19 14:53:22
 
 ***
 
@@ -1034,6 +1034,16 @@ Ask Fidelity Quote Lookup and Market Update
 
 ***
 
+## [Fin](skills/fin/B01D5B7R7Y)
+
+*Alexa, ask Fin to remind me to pick up milk*
+
+Fin for Alexa.
+
+www.fin.com
+
+***
+
 ## [FirstaidEgghead](skills/firstaidegghead/B01COSUL7C)
 
 *Alexa, ask first aid egghead what's the treatment for a cut*
@@ -2019,6 +2029,14 @@ A trivia game about the use, the history, the music and the building of pipe org
 
 ***
 
+## [PizzaFacts](skills/pizzafacts/B01D58K4WC)
+
+*Alexa, Launch Pizza Facts*
+
+Facts about the humankind's greatest achievement: pizza
+
+***
+
 ## [Portal2 Fact Core](skills/portal2-fact-core/B017OBRW5S)
 
 *Alexa, open Fact Core.*
@@ -2439,7 +2457,7 @@ Welcome to spelling bee, the very first spelling game on Alexa.
 
 *Alexa, ask starfish for tube status*
 
-London Tube and National rail service status skill. Working to integrate with other british providers like BBC etc
+Status and information from all things British.
 
 ***
 

@@ -1,5 +1,5 @@
 # Board Gamer
-![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png) 2
+![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Board Gamer skill, try saying...
 
@@ -44,4 +44,4 @@ Ask Board Gamer to tell you the size of your BGG game collection by saying:
 * **First Release Date:** 2016-03-17 13:26:16
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 14:53:22*

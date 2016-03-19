@@ -1,5 +1,5 @@
 # Mystery Castle
-![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
+![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Mystery Castle skill, try saying...
 
@@ -23,4 +23,4 @@ Mystery Castle is an interactive story where players explore the castle with Ale
 * **First Release Date:** 2016-02-16 22:39:26
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 14:53:22*

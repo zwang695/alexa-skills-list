@@ -1,5 +1,5 @@
 # Fitbit
-![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_half_black_18dp_1x.png) 8
+![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_half_black_18dp_1x.png) 23
 
 To use the Fitbit skill, try saying...
 
@@ -29,4 +29,4 @@ Note: Alexa and Amazon, Inc. do not store or retain your Fitbit data, but voice 
 * **Account Linking Domains:** www.fitbit.com, api.fitbit.com, fitbit.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 14:53:22*

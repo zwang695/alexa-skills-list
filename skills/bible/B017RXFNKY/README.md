@@ -1,5 +1,5 @@
 # Bible
-![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 43
+![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 44
 
 To use the Bible skill, try saying...
 
@@ -39,4 +39,4 @@ Email us at support@youversion.com.
 * **Terms of Use:** https://bible.com/terms
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 14:53:22*

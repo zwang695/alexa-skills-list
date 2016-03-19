@@ -1,5 +1,5 @@
 # Twenty Questions
-![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
+![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Twenty Questions skill, try saying...
 
@@ -29,4 +29,4 @@ Try to outwit Twenty Questions in this classic game!
 * **Terms of Use:** https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 14:53:22*

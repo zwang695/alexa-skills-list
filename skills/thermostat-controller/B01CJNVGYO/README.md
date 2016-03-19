@@ -19,13 +19,23 @@ Additional sample phrases are:
 • Alexa ask the thermostat about the humidity
 • Alexa ask the thermostat about the settings
 • Alexa ask the thermostat to keep the temperature between 72 and 80 degrees
+• Alexa tell the thermostat to change mode to heat
+• Alexa tell the thermostat to run the fan
 
 If you are running in heat-cool mode and don't specify which temperature to set, the one that is closest to the current temperature is the one that will be changed.
-If you have multiple Nests you will get to pick which Nest you wish to control through your Amazon echo when you connect your skill. You can change this at any time by saying.
+
+If you have multiple Nests you will get to pick which Nest you wish to control through your Amazon Echo by default when you connect your skill. You can change this at any time by saying.
 
 • Alexa ask the thermostat to change device
 
-You are able to also tie this skill to a Nest location that does not have a thermostat, but in that case you are only able to control the away state.
+You can also control any other thermostat in the same location by specifying its name for example.
+
+• Alexa tell the thermostat that it is a bit cold in the hallway
+• Alexa tell the thermostat to keep the temperature between 70 and 80 degrees in the den
+• Alexa tell the thermostat to change attic to heat and cool
+• Alexa tell the thermostat to run the bedroom fan
+
+If you have multiple locations in your Nest account you will only be able to access the thermostats in the same location. You are able to also tie this skill to a Nest location that does not have a thermostat, but in that case you are only able to control the away state.
 
 To use this skill simply enable it and log into your Nest account to link your Nest accounts with your Amazon Echo account.
 
@@ -47,4 +57,4 @@ Nest® is a registered trademark of Nest Labs, Inc. and its parent company.
 * **Account Linking Domains:** home.nest.com, api.home.nest.com, underscoreresearch.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 14:53:22*

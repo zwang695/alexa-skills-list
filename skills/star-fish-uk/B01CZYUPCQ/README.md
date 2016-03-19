@@ -1,5 +1,5 @@
 # Star fish UK
-![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Star fish UK skill, try saying...
 
@@ -7,9 +7,9 @@ To use the Star fish UK skill, try saying...
 
 * *Alexa, ask starfish for rail status*
 
-* *Alexa, ask starfish for rail status at Chelmsford*
+* *Alexa, ask starfish for sports news*
 
-A simple skill to get you started before you make that tube or national rail journey to work for your usual day. You can quickly get tube status for the whole London underground or National Rail status for any specific station. You can start by saying "Alexa open star fish" and it presents you with a welcome speech. You can then ask tube status or rail status. Say "Tube Status" and it will tell if there are any delays on any of the London underground Lines. Say "Rail Status" and it will ask you a station name. Say "London Liverpool Street" and it will get you status of London Liverpool Street national rail service
+A simple skill to get you started before you make that tube or national rail journey to work for your usual day. You can quickly get tube status for the whole London underground or National Rail status for any specific station. You can also get it to read out news from BBC website on your choice of topics. Supported topics are Health, Politics, Technology, UK, Headlines. You can also get next three days weather forecast for London.
 
 ***
 
@@ -23,4 +23,4 @@ A simple skill to get you started before you make that tube or national rail jou
 * **First Release Date:** 2016-03-15 11:42:09
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 14:53:22*

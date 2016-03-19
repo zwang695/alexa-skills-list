@@ -1,5 +1,5 @@
 # Kasa
-![1.6 stars](../../../images/ic_star_black_18dp_1x.png)![1.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 15
+![1.8 stars](../../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 16
 
 To use the Kasa skill, try saying...
 
@@ -25,4 +25,4 @@ Kasa is a simple way to manage your home from anywhere.You can link Kasa with Am
 * **Terms of Use:** https://www.tplinkcloud.com/TermsofUse.php
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 14:53:22*

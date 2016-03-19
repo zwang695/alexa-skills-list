@@ -1,5 +1,5 @@
 # Rock Paper Scissors Lizard Spock
-![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 9
+![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Rock Paper Scissors Lizard Spock skill, try saying...
 
@@ -23,4 +23,4 @@ Do you accept the challenge of playing with Alexa? Alexa is the best player in t
 * **First Release Date:** 2016-02-05 19:52:43
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 14:53:22*
