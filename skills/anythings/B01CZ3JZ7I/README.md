@@ -1,4 +1,4 @@
-# Anythings
+# &nbsp;<img src="app_icon" alt="Anythings icon" width="36"> Anythings
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Anythings skill, try saying...
@@ -26,4 +26,4 @@ You can list your smart devices, see how they are working together and find new 
 * **First Release Date:** 2016-03-14 22:45:54
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# North Carolina Trivia
+# &nbsp;<img src="app_icon" alt="North Carolina Trivia icon" width="36"> North Carolina Trivia
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the North Carolina Trivia skill, try saying...
@@ -23,4 +23,4 @@ You think you know NC? See if you can answer a few trivia questions about the Ta
 * **First Release Date:** 2016-03-08 23:52:47
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

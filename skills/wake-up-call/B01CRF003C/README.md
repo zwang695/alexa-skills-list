@@ -1,4 +1,4 @@
-# Wake Up Call
+# &nbsp;<img src="app_icon" alt="Wake Up Call icon" width="36"> Wake Up Call
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Wake Up Call skill, try saying...
@@ -25,4 +25,4 @@ The Daily Wake Up Call provides a daily recorded quotation, message, or anecdote
 * **Terms of Use:** http://www.wakeupdial.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

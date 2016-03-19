@@ -1,4 +1,4 @@
-# Fortune
+# &nbsp;<img src="app_icon" alt="Fortune icon" width="36"> Fortune
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Fortune skill, try saying...
@@ -38,4 +38,4 @@ For reporting bugs or suggestions, please email m@moogs.io
 * **Terms of Use:** https://github.com/miguelmota/ASK-fortune/wiki/Terms-of-Use
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

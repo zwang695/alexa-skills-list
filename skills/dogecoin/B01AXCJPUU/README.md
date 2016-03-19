@@ -1,4 +1,4 @@
-# DogeCoin
+# &nbsp;<img src="app_icon" alt="DogeCoin icon" width="36"> DogeCoin
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the DogeCoin skill, try saying...
@@ -25,4 +25,4 @@ To learn more about DogeCoin, please visit http://dogecoin.com/
 * **First Release Date:** 2016-01-22 01:35:39
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

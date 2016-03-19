@@ -1,4 +1,4 @@
-# The Ultimate Hollywood Trivia
+# &nbsp;<img src="app_icon" alt="The Ultimate Hollywood Trivia icon" width="36"> The Ultimate Hollywood Trivia
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the The Ultimate Hollywood Trivia skill, try saying...
@@ -25,4 +25,4 @@ This game is fun to play individually or compete with  family and friends to be 
 * **First Release Date:** 2016-01-27 22:55:57
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

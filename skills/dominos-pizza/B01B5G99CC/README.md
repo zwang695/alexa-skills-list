@@ -1,4 +1,4 @@
-# Domino's Pizza
+# &nbsp;<img src="app_icon" alt="Domino&#39;s Pizza icon" width="36"> Domino's Pizza
 ![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the Domino's Pizza skill, try saying...
@@ -33,4 +33,4 @@ Learn more about Echo ordering and all the newest ways to order Domino’s at ht
 * **Account Linking Domains:** dominos.com, cache.dominos.com, order.dominos.com
 * **In-App Purchasing:** Yes
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

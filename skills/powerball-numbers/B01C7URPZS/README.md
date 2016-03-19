@@ -1,4 +1,4 @@
-# Powerball Numbers
+# &nbsp;<img src="app_icon" alt="Powerball Numbers icon" width="36"> Powerball Numbers
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Powerball Numbers skill, try saying...
@@ -20,4 +20,4 @@ Disclaimer: Powerball Numbers may not be suitable for all ages.
 * **First Release Date:** 2016-02-25 22:33:43
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

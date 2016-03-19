@@ -1,4 +1,4 @@
-# Bulls and Cows game
+# &nbsp;<img src="app_icon" alt="Bulls and Cows game icon" width="36"> Bulls and Cows game
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bulls and Cows game skill, try saying...
@@ -42,4 +42,4 @@ Your moves and the corresponding results will be also shown in the Echo companio
 * **First Release Date:** 2016-01-12 00:19:18
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

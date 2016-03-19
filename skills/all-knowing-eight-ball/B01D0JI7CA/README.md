@@ -1,4 +1,4 @@
-# All Knowing Eight Ball
+# &nbsp;<img src="app_icon" alt="All Knowing Eight Ball icon" width="36"> All Knowing Eight Ball
 ![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png) 1
 
 To use the All Knowing Eight Ball skill, try saying...
@@ -25,4 +25,4 @@ The Alexa app will track your questions and their answers, so if you ever need t
 * **First Release Date:** 2016-03-15 19:47:03
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# Gold Bug
+# &nbsp;<img src="app_icon" alt="Gold Bug icon" width="36"> Gold Bug
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Gold Bug skill, try saying...
@@ -23,4 +23,4 @@ The skill will pull the latest closing day price and date for gold, silver or oi
 * **First Release Date:** 2016-02-13 00:58:18
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

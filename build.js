@@ -29,7 +29,23 @@ var appString = '',
 // Slug function for ease of use
 String.prototype.slug = function() {
 	return this.toLowerCase().replace(/ /g, '-').replace(/[^a-z0-9\-]/g, '').replace(/\-+/g, '-').replace(/^-/, '');
-}
+};
+
+// HTML escaping function
+String.prototype.escape = function() {
+	var entityMap = {
+		"&": "&amp;",
+		"<": "&lt;",
+		">": "&gt;",
+		'"': '&quot;',
+		"'": '&#39;',
+		"/": '&#x2F;'
+	};
+
+	return this.replace(/[&<>"'\/]/g, function (s) {
+		return entityMap[s];
+	});
+};
 
 // Timestamp function for ease of use
 Date.getDateString = function(timestamp) {
@@ -42,7 +58,7 @@ Date.getDateString = function(timestamp) {
 	}
 
 	return date.toISOString().replace(/T/, ' ').replace(/\..+/, '');
-}
+};
 
 // Barebones template object
 var Template = {
@@ -81,7 +97,7 @@ var Template = {
 			var contents = '';
 
 			// Skill name
-			contents  = '# ' + app.name + '\n';
+			contents  = '# &nbsp;<img src="app_icon" alt="' + app.name.escape() + ' icon" width="36"> ' + app.name + '\n';
 
 			// Skill rating and reviews
 			var starImage = '';
@@ -176,7 +192,7 @@ var Template = {
 			return contents;
 		}
 	}
-}
+};
 
 var download = function(url, dest, callback) {
 	var file = fs.createWriteStream(dest);

@@ -1,4 +1,4 @@
-# Milo
+# &nbsp;<img src="app_icon" alt="Milo icon" width="36"> Milo
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Milo skill, try saying...
@@ -23,4 +23,4 @@ Milo is the movie lover's friend.  He helps Amazon Echo find where movies are av
 * **First Release Date:** 2016-03-08 11:50:19
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

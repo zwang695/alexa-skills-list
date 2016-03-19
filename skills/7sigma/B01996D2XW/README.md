@@ -1,4 +1,4 @@
-# 7Sigma
+# &nbsp;<img src="app_icon" alt="7Sigma icon" width="36"> 7Sigma
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the 7Sigma skill, try saying...
@@ -26,4 +26,4 @@ The Ask 7Sigma skill combines data from multiple sources to provide you with a c
 * **Account Linking Domains:** ask.7sigma.com, www.google-analytics.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

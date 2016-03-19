@@ -1,4 +1,4 @@
-# Mr Junky Food
+# &nbsp;<img src="app_icon" alt="Mr Junky Food icon" width="36"> Mr Junky Food
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Mr Junky Food skill, try saying...
@@ -27,4 +27,4 @@ Get your daily recommendations by asking Alexa and hear the response from Mr Jun
 * **Terms of Use:** http://mrjunkyfood.com/termsofuse.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

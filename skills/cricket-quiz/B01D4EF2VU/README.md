@@ -1,4 +1,4 @@
-# Cricket Quiz
+# &nbsp;<img src="app_icon" alt="Cricket Quiz icon" width="36"> Cricket Quiz
 ![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Cricket Quiz skill, try saying...
@@ -28,4 +28,4 @@ Say the number of answer you think is correct.
 * **First Release Date:** 2016-03-18 06:30:28
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

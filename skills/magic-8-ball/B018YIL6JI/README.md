@@ -1,4 +1,4 @@
-# Magic 8-Ball
+# &nbsp;<img src="app_icon" alt="Magic 8-Ball icon" width="36"> Magic 8-Ball
 ![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_half_black_18dp_1x.png) 11
 
 To use the Magic 8-Ball skill, try saying...
@@ -23,4 +23,4 @@ This is meant to be a fun skill, where you can ask The Magic 8-Ball any yes/no q
 * **First Release Date:** 2015-12-04 22:46:16
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

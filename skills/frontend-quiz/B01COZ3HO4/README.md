@@ -1,4 +1,4 @@
-# Frontend Quiz
+# &nbsp;<img src="app_icon" alt="Frontend Quiz icon" width="36"> Frontend Quiz
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Frontend Quiz skill, try saying...
@@ -23,4 +23,4 @@ With the help of Frontend Quiz you can test your HTML, CSS and Javascript knowle
 * **First Release Date:** 2016-03-08 09:20:51
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

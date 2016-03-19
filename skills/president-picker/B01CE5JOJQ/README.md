@@ -1,4 +1,4 @@
-# President Picker
+# &nbsp;<img src="app_icon" alt="President Picker icon" width="36"> President Picker
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the President Picker skill, try saying...
@@ -27,4 +27,4 @@ But, I think we all know that Chris should be president and this skill will help
 * **First Release Date:** 2016-03-01 07:58:52
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

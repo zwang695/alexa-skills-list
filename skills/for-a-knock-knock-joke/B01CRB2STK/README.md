@@ -1,4 +1,4 @@
-# For a Knock Knock Joke
+# &nbsp;<img src="app_icon" alt="For a Knock Knock Joke icon" width="36"> For a Knock Knock Joke
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the For a Knock Knock Joke skill, try saying...
@@ -27,4 +27,4 @@ Even works with the good old "Banana / Orange" joke, but for "Interrupting Cow" 
 * **First Release Date:** 2016-03-09 18:07:06
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

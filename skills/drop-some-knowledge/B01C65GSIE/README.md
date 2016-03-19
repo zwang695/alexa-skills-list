@@ -1,4 +1,4 @@
-# Drop Some Knowledge
+# &nbsp;<img src="app_icon" alt="Drop Some Knowledge icon" width="36"> Drop Some Knowledge
 ![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Drop Some Knowledge skill, try saying...
@@ -25,4 +25,4 @@ You can also launch the skill using "Alexa, launch <drop some knowledge>", and i
 * **First Release Date:** 2016-02-24 18:03:20
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

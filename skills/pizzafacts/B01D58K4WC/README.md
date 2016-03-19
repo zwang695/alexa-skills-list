@@ -1,4 +1,4 @@
-# PizzaFacts
+# &nbsp;<img src="app_icon" alt="PizzaFacts icon" width="36"> PizzaFacts
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the PizzaFacts skill, try saying...
@@ -23,4 +23,4 @@ Pizza is really the only thing worth knowing anything about. Test your pizza kno
 * **First Release Date:** 2016-03-18 19:06:27
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 14:53:22*
+*This page was last updated 2016-03-19 17:54:47*

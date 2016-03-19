@@ -1,4 +1,4 @@
-# Tea Trivia
+# &nbsp;<img src="app_icon" alt="Tea Trivia icon" width="36"> Tea Trivia
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Tea Trivia skill, try saying...
@@ -26,4 +26,4 @@ Icon made by Freepik from http://www.flaticon.com.  Flaticon is licensed under C
 * **First Release Date:** 2016-02-24 21:31:47
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

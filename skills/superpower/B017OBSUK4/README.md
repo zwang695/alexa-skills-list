@@ -1,4 +1,4 @@
-# Superpower!
+# &nbsp;<img src="app_icon" alt="Superpower! icon" width="36"> Superpower!
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Superpower! skill, try saying...
@@ -21,4 +21,4 @@ With Superpower, you can get an interesting conversation topic to start an engag
 * **Terms of Use:** http://superpower.me/terms-of-service
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

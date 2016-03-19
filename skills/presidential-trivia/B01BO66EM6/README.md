@@ -1,4 +1,4 @@
-# Presidential Trivia
+# &nbsp;<img src="app_icon" alt="Presidential Trivia icon" width="36"> Presidential Trivia
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Presidential Trivia skill, try saying...
@@ -23,4 +23,4 @@ It's finally safe to talk about politics! This fun (non-partisan) game will teac
 * **First Release Date:** 2016-02-11 22:05:59
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

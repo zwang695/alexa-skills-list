@@ -1,4 +1,4 @@
-# Magic Eight Ball
+# &nbsp;<img src="app_icon" alt="Magic Eight Ball icon" width="36"> Magic Eight Ball
 ![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Magic Eight Ball skill, try saying...
@@ -23,4 +23,4 @@ Have fun asking yes or no questions to the magic eight ball and listening to it'
 * **First Release Date:** 2016-01-21 20:13:16
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

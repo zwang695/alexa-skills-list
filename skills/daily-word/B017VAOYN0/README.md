@@ -1,4 +1,4 @@
-# Daily Word
+# &nbsp;<img src="app_icon" alt="Daily Word icon" width="36"> Daily Word
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the Daily Word skill, try saying...
@@ -22,4 +22,4 @@ Now spelling out your daily word.
 * **First Release Date:** 2015-11-12 01:12:14
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

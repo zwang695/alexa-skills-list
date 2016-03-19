@@ -1,4 +1,4 @@
-# Quoter
+# &nbsp;<img src="app_icon" alt="Quoter icon" width="36"> Quoter
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Quoter skill, try saying...
@@ -23,4 +23,4 @@ Announces a random quote from the forismatic.com API.
 * **First Release Date:** 2015-12-09 23:51:48
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

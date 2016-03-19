@@ -1,4 +1,4 @@
-# Toronto Transit
+# &nbsp;<img src="app_icon" alt="Toronto Transit icon" width="36"> Toronto Transit
 ![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Toronto Transit skill, try saying...
@@ -32,4 +32,4 @@ https://www.ttc.ca/Routes/index.jsp
 * **Terms of Use:** http://crhuber.github.io/ttc/
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

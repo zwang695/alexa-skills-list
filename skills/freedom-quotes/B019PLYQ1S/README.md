@@ -1,4 +1,4 @@
-# Freedom Quotes
+# &nbsp;<img src="app_icon" alt="Freedom Quotes icon" width="36"> Freedom Quotes
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Freedom Quotes skill, try saying...
@@ -23,4 +23,4 @@ Start your day inspired with a collection of over 200 freedom-themed quotes from
 * **First Release Date:** 2015-12-23 01:16:40
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

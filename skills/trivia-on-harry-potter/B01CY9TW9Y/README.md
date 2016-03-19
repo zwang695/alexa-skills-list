@@ -1,4 +1,4 @@
-# Trivia on Harry Potter
+# &nbsp;<img src="app_icon" alt="Trivia on Harry Potter icon" width="36"> Trivia on Harry Potter
 ![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Trivia on Harry Potter skill, try saying...
@@ -29,4 +29,4 @@ Feedback and reviews welcome! Thank you for playing.
 * **First Release Date:** 2016-03-14 10:10:57
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

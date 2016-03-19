@@ -1,4 +1,4 @@
-# Dice Bag
+# &nbsp;<img src="app_icon" alt="Dice Bag icon" width="36"> Dice Bag
 ![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Dice Bag skill, try saying...
@@ -41,4 +41,4 @@ To get basic instructions, say "Alexa, open Dice Bag."
 * **First Release Date:** 2016-01-05 18:41:25
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

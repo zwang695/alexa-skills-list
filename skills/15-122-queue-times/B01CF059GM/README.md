@@ -1,4 +1,4 @@
-# 15-122 Queue Times
+# &nbsp;<img src="app_icon" alt="15-122 Queue Times icon" width="36"> 15-122 Queue Times
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the 15-122 Queue Times skill, try saying...
@@ -24,4 +24,4 @@ This skill is designed to be used by students and TAs of the course "15-122: Pri
 * **Terms of Use:** http://jbio.co/alexa-cmuq.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# ISS Sighter
+# &nbsp;<img src="app_icon" alt="ISS Sighter icon" width="36"> ISS Sighter
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the ISS Sighter skill, try saying...
@@ -45,4 +45,4 @@ Example: Alexa ask the space station to list countries beginning with P
 * **First Release Date:** 2016-02-29 06:29:31
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 14:53:22*
+*This page was last updated 2016-03-19 17:54:47*

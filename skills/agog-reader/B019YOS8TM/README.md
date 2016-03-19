@@ -1,4 +1,4 @@
-# Agog Reader
+# &nbsp;<img src="app_icon" alt="Agog Reader icon" width="36"> Agog Reader
 ![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Agog Reader skill, try saying...
@@ -27,4 +27,4 @@ For updates sign up for the email list at http://agog.com/email/AgogReader
 * **First Release Date:** 2015-12-29 23:48:57
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

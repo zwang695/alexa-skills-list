@@ -1,4 +1,4 @@
-# Bitcoin Price
+# &nbsp;<img src="app_icon" alt="Bitcoin Price icon" width="36"> Bitcoin Price
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Bitcoin Price skill, try saying...
@@ -19,4 +19,4 @@ Are you curious about what the current price of the world's leading crypto-curre
 * **First Release Date:** 2015-11-06 20:17:47
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

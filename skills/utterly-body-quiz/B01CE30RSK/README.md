@@ -1,4 +1,4 @@
-# Utterly Body Quiz
+# &nbsp;<img src="app_icon" alt="Utterly Body Quiz icon" width="36"> Utterly Body Quiz
 ![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Utterly Body Quiz skill, try saying...
@@ -26,4 +26,4 @@ Go to http://koncipi.com to keep up to date on this and other voice apps with th
 * **First Release Date:** 2016-03-01 07:08:26
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

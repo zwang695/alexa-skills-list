@@ -1,4 +1,4 @@
-# Craft Helper
+# &nbsp;<img src="app_icon" alt="Craft Helper icon" width="36"> Craft Helper
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Craft Helper skill, try saying...
@@ -25,4 +25,4 @@ Note:Craft helper is not affiliated with Mojang AB or Minecraft.
 * **First Release Date:** 2015-11-06 20:17:02
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

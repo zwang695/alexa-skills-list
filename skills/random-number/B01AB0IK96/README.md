@@ -1,4 +1,4 @@
-# Random Number
+# &nbsp;<img src="app_icon" alt="Random Number icon" width="36"> Random Number
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Random Number skill, try saying...
@@ -25,4 +25,4 @@ A simple skill, Alexa will give you a random number between 1 and 100. Useful fo
 * **Terms of Use:** http://www.amazon.com/gp/help/customer/display.html?nodeId=468496
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

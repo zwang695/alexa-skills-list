@@ -1,4 +1,4 @@
-# Women's Underwear
+# &nbsp;<img src="app_icon" alt="Women&#39;s Underwear icon" width="36"> Women's Underwear
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Women's Underwear skill, try saying...
@@ -23,4 +23,4 @@ Ask Alexa to calculate your bra size. She will ask your band and bust size. If y
 * **First Release Date:** 2016-02-12 19:56:02
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

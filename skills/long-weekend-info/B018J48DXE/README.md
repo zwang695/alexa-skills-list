@@ -1,4 +1,4 @@
-# Long Weekend Info
+# &nbsp;<img src="app_icon" alt="Long Weekend Info icon" width="36"> Long Weekend Info
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Long Weekend Info skill, try saying...
@@ -23,4 +23,4 @@ Get information about the upcoming long weekend. Useful for planning ahead your 
 * **First Release Date:** 2015-11-25 23:17:56
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

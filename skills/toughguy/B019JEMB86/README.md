@@ -1,4 +1,4 @@
-# Toughguy
+# &nbsp;<img src="app_icon" alt="Toughguy icon" width="36"> Toughguy
 ![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the Toughguy skill, try saying...
@@ -23,4 +23,4 @@ The ToughGuy is will tell you a variety, of nerd-related Chuck Norris jokes. If 
 * **First Release Date:** 2015-12-18 22:49:08
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

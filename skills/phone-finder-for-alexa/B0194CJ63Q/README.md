@@ -1,4 +1,4 @@
-# Phone Finder for Alexa
+# &nbsp;<img src="app_icon" alt="Phone Finder for Alexa icon" width="36"> Phone Finder for Alexa
 ![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 24
 
 To use the Phone Finder for Alexa skill, try saying...
@@ -26,4 +26,4 @@ Visit: http://bit.ly/alexaphonefinder to install the android app
 * **Privacy Policy:** https://caricaturers.us/
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

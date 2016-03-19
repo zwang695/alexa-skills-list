@@ -1,4 +1,4 @@
-# LIFX
+# &nbsp;<img src="app_icon" alt="LIFX icon" width="36"> LIFX
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 43
 
 To use the LIFX skill, try saying...
@@ -32,4 +32,4 @@ To get started, just say "Hey Alexa, ask LIFX what can I do with my lights?". Al
 * **Account Linking Domains:** cloud.lifx.com, fonts.googleapis.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

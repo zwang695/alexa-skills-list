@@ -1,4 +1,4 @@
-# Good Samaritan
+# &nbsp;<img src="app_icon" alt="Good Samaritan icon" width="36"> Good Samaritan
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Good Samaritan skill, try saying...
@@ -23,4 +23,4 @@ Recently, we’ve begun to challenge ourselves to go the extra mile in finding n
 * **First Release Date:** 2016-03-02 18:47:27
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

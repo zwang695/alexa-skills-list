@@ -1,4 +1,4 @@
-# NYC Subway Status
+# &nbsp;<img src="app_icon" alt="NYC Subway Status icon" width="36"> NYC Subway Status
 ![3.9 stars](../../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the NYC Subway Status skill, try saying...
@@ -23,4 +23,4 @@ This is a simple skill which allows the user to query the status of the New York
 * **Terms of Use:** https://raw.githubusercontent.com/maxx/alexa-nyc-mta/master/terms_of_service.txt
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

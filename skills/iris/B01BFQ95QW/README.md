@@ -1,4 +1,4 @@
-# Iris
+# &nbsp;<img src="app_icon" alt="Iris icon" width="36"> Iris
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Iris skill, try saying...
@@ -25,4 +25,4 @@ In Greek mythology, Iris is the messenger of the Gods. In today’s reality, Iri
 * **Account Linking Domains:** www.googleapis.com, accounts.google.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

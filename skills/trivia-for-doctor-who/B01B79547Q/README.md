@@ -1,4 +1,4 @@
-# Trivia for Doctor Who
+# &nbsp;<img src="app_icon" alt="Trivia for Doctor Who icon" width="36"> Trivia for Doctor Who
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Trivia for Doctor Who skill, try saying...
@@ -19,4 +19,4 @@ How well do you know The Doctor?  What about the Daleks?  Test your Doctor Who k
 * **First Release Date:** 2016-01-29 04:58:41
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

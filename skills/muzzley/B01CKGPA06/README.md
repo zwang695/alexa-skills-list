@@ -1,4 +1,4 @@
-# Muzzley
+# &nbsp;<img src="app_icon" alt="Muzzley icon" width="36"> Muzzley
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Muzzley skill, try saying...
@@ -37,4 +37,4 @@ Learn more at http://www.muzzley.com or shoot us an email to support@muzzley.com
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

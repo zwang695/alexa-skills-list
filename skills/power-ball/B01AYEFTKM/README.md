@@ -1,4 +1,4 @@
-# Power Ball
+# &nbsp;<img src="app_icon" alt="Power Ball icon" width="36"> Power Ball
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Power Ball skill, try saying...
@@ -26,4 +26,4 @@ Disclaimer - this skill is for entertainment purposes only and may not be suitab
 * **Terms of Use:** http://www.hdrider.net/terms.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# Woot
+# &nbsp;<img src="app_icon" alt="Woot icon" width="36"> Woot
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Woot skill, try saying...
@@ -23,4 +23,4 @@ This skill allows you to quickly and easily learn about Woot's daily deals on an
 * **First Release Date:** 2015-12-09 01:00:25
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

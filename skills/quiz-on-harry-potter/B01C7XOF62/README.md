@@ -1,4 +1,4 @@
-# Quiz on Harry Potter
+# &nbsp;<img src="app_icon" alt="Quiz on Harry Potter icon" width="36"> Quiz on Harry Potter
 ![1.7 stars](../../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Quiz on Harry Potter skill, try saying...
@@ -25,4 +25,4 @@ Have fun!!!! New questions will be added.
 * **First Release Date:** 2016-02-26 00:17:26
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# DC Metro
+# &nbsp;<img src="app_icon" alt="DC Metro icon" width="36"> DC Metro
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the DC Metro skill, try saying...
@@ -23,4 +23,4 @@ Gives Washington DC Metro light rail train arrival and departure times, as well 
 * **First Release Date:** 2015-11-17 20:13:40
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

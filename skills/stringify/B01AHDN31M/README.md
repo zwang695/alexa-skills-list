@@ -1,4 +1,4 @@
-# Stringify
+# &nbsp;<img src="app_icon" alt="Stringify icon" width="36"> Stringify
 ![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Stringify skill, try saying...
@@ -27,4 +27,4 @@ Stringify also works well with: SmartThings, Fitbit, Nest, Jawbone Up, Phillips 
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

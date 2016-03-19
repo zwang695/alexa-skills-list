@@ -1,4 +1,4 @@
-# mydlink Home
+# &nbsp;<img src="app_icon" alt="mydlink Home icon" width="36"> mydlink Home
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the mydlink Home skill, try saying...
@@ -31,4 +31,4 @@ Just say “Alexa, ask mydlink to turn on living room light.” and Alexa will c
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

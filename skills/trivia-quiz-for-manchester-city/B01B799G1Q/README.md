@@ -1,4 +1,4 @@
-# Trivia Quiz for Manchester City
+# &nbsp;<img src="app_icon" alt="Trivia Quiz for Manchester City icon" width="36"> Trivia Quiz for Manchester City
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Trivia Quiz for Manchester City skill, try saying...
@@ -25,4 +25,4 @@ To get started, just say "Alexa, Play Manchester City Trivia". The game will ask
 * **First Release Date:** 2016-01-29 05:03:21
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

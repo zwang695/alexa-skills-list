@@ -1,4 +1,4 @@
-# Relationary
+# &nbsp;<img src="app_icon" alt="Relationary icon" width="36"> Relationary
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Relationary skill, try saying...
@@ -29,4 +29,4 @@ If you fail to respond in time, that's ok. Just re-open Relationary and it picks
 * **First Release Date:** 2016-03-04 21:04:35
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# AskAboutTrump
+# &nbsp;<img src="app_icon" alt="AskAboutTrump icon" width="36"> AskAboutTrump
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the AskAboutTrump skill, try saying...
@@ -23,4 +23,4 @@ Ask Donald Trump a question, about his policies, or how he will make america gre
 * **First Release Date:** 2016-02-16 23:20:45
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

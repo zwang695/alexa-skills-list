@@ -1,4 +1,4 @@
-# Use The Force Trivia
+# &nbsp;<img src="app_icon" alt="Use The Force Trivia icon" width="36"> Use The Force Trivia
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Use The Force Trivia skill, try saying...
@@ -23,4 +23,4 @@ Test your Star Wars knowledge with this fun trivia game.
 * **First Release Date:** 2016-02-10 23:21:54
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

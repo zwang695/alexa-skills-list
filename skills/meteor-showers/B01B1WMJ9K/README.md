@@ -1,4 +1,4 @@
-# Meteor Showers
+# &nbsp;<img src="app_icon" alt="Meteor Showers icon" width="36"> Meteor Showers
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Meteor Showers skill, try saying...
@@ -25,4 +25,4 @@ Meteor Shower responds with any visible meteor showers for the night.
 * **Terms of Use:** http://www.hdrider.net/terms.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

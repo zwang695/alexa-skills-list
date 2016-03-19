@@ -1,4 +1,4 @@
-# Missouri Football Trivia
+# &nbsp;<img src="app_icon" alt="Missouri Football Trivia icon" width="36"> Missouri Football Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Missouri Football Trivia skill, try saying...
@@ -23,4 +23,4 @@ Ask Alexa to open Missouri football and see if you can correctly answer five que
 * **First Release Date:** 2016-02-04 19:10:14
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

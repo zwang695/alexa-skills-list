@@ -1,4 +1,4 @@
-# Beer Trivia
+# &nbsp;<img src="app_icon" alt="Beer Trivia icon" width="36"> Beer Trivia
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Beer Trivia skill, try saying...
@@ -27,4 +27,4 @@ DISCLAIMER:  This trivia skill deals with knowledge of alcoholic beverages and m
 * **First Release Date:** 2016-02-19 23:52:54
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

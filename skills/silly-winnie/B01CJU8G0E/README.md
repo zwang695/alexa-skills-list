@@ -1,4 +1,4 @@
-# Silly Winnie
+# &nbsp;<img src="app_icon" alt="Silly Winnie icon" width="36"> Silly Winnie
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Silly Winnie skill, try saying...
@@ -23,4 +23,4 @@ A simple joke telling app, intended to delight younger children.  Ask "Silly Win
 * **First Release Date:** 2016-03-04 11:39:15
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

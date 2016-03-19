@@ -1,4 +1,4 @@
-# Admirer
+# &nbsp;<img src="app_icon" alt="Admirer icon" width="36"> Admirer
 ![1.9 stars](../../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 15
 
 To use the Admirer skill, try saying...
@@ -23,4 +23,4 @@ Have you ever just wanted a little compliment? The Admirer application does just
 * **First Release Date:** 2015-12-18 00:11:34
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

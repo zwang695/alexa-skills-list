@@ -1,4 +1,4 @@
-# Pronunciations
+# &nbsp;<img src="app_icon" alt="Pronunciations icon" width="36"> Pronunciations
 ![1.8 stars](../../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Pronunciations skill, try saying...
@@ -24,4 +24,4 @@ It helps to enunciate the letters clearly (for example, it is easy for Alexa to 
 * **First Release Date:** 2015-12-11 00:06:31
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

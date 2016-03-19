@@ -1,4 +1,4 @@
-# Guide for ARK
+# &nbsp;<img src="app_icon" alt="Guide for ARK icon" width="36"> Guide for ARK
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Guide for ARK skill, try saying...
@@ -23,4 +23,4 @@ A guide for the early access game, ARK: Survival Evolved.  Ask the guide what's 
 * **First Release Date:** 2015-11-23 21:30:06
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

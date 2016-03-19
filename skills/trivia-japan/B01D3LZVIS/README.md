@@ -1,4 +1,4 @@
-# Trivia Japan
+# &nbsp;<img src="app_icon" alt="Trivia Japan icon" width="36"> Trivia Japan
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia Japan skill, try saying...
@@ -23,4 +23,4 @@ This skill will help people learn some fun new facts about Japan. Just say "Alex
 * **First Release Date:** 2016-03-17 18:06:18
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

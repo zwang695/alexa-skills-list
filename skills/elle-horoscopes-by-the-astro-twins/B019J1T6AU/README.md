@@ -1,4 +1,4 @@
-# ELLE Horoscopes by The Astro Twins
+# &nbsp;<img src="app_icon" alt="ELLE Horoscopes by The Astro Twins icon" width="36"> ELLE Horoscopes by The Astro Twins
 ![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 22
 
 To use the ELLE Horoscopes by The Astro Twins skill, try saying...
@@ -25,4 +25,4 @@ Get your daily horoscopes from ELLE + The Astro Twins. Dubbed "astrologists for 
 * **Terms of Use:** http://www.elle.com/about/terms-of-use
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

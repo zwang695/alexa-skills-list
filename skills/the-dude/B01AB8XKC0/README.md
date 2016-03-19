@@ -1,4 +1,4 @@
-# The Dude
+# &nbsp;<img src="app_icon" alt="The Dude icon" width="36"> The Dude
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the The Dude skill, try saying...
@@ -25,4 +25,4 @@ When launched this skill will greet you as The Dude. From there you can begin on
 * **First Release Date:** 2016-01-08 01:55:41
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

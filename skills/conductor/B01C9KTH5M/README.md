@@ -1,4 +1,4 @@
-# Conductor
+# &nbsp;<img src="app_icon" alt="Conductor icon" width="36"> Conductor
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Conductor skill, try saying...
@@ -24,4 +24,4 @@ This service will give you information about NYC transit (so far only subway/LIR
 * **First Release Date:** 2016-02-27 00:31:02
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

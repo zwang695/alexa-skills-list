@@ -1,4 +1,4 @@
-# Sage of Elements
+# &nbsp;<img src="app_icon" alt="Sage of Elements icon" width="36"> Sage of Elements
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Sage of Elements skill, try saying...
@@ -23,4 +23,4 @@ Ask Alexa to tell you the element name and its atomic number, symbol, atomic wei
 * **First Release Date:** 2016-02-12 20:40:00
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

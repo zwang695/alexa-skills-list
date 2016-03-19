@@ -1,4 +1,4 @@
-# Mixpo Executive App
+# &nbsp;<img src="app_icon" alt="Mixpo Executive App icon" width="36"> Mixpo Executive App
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mixpo Executive App skill, try saying...
@@ -23,4 +23,4 @@ This skill is for Mixpo executives and employees to learn more about Mixpo's bus
 * **First Release Date:** 2016-02-04 18:02:18
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# Aviation Weather Brief
+# &nbsp;<img src="app_icon" alt="Aviation Weather Brief icon" width="36"> Aviation Weather Brief
 ![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Aviation Weather Brief skill, try saying...
@@ -23,4 +23,4 @@ Want to know the current weather information or flight rules for a particular ai
 * **First Release Date:** 2016-02-24 19:27:38
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

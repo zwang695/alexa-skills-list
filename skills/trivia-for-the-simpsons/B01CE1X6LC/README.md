@@ -1,4 +1,4 @@
-# Trivia for "The Simpsons"
+# &nbsp;<img src="app_icon" alt="Trivia for &quot;The Simpsons&quot; icon" width="36"> Trivia for "The Simpsons"
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Trivia for "The Simpsons" skill, try saying...
@@ -23,4 +23,4 @@ My first attempt at an Alexa skill, this simple trivia game will ask players fiv
 * **First Release Date:** 2016-03-01 06:38:59
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

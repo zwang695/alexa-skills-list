@@ -1,4 +1,4 @@
-# The Listeners
+# &nbsp;<img src="app_icon" alt="The Listeners icon" width="36"> The Listeners
 ![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_half_black_18dp_1x.png) 14
 
 To use the The Listeners skill, try saying...
@@ -25,4 +25,4 @@ The Listeners is an experiment in learning and language art that provides, if yo
 * **First Release Date:** 2015-12-23 23:47:25
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

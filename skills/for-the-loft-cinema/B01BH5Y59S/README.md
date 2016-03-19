@@ -1,4 +1,4 @@
-# For The Loft Cinema
+# &nbsp;<img src="app_icon" alt="For The Loft Cinema icon" width="36"> For The Loft Cinema
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the For The Loft Cinema skill, try saying...
@@ -37,4 +37,4 @@ During the time that Alexa is reading back the movies and showtimes, the user ca
 * **First Release Date:** 2016-02-04 19:48:59
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

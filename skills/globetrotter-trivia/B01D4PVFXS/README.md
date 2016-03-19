@@ -1,4 +1,4 @@
-# Globetrotter Trivia
+# &nbsp;<img src="app_icon" alt="Globetrotter Trivia icon" width="36"> Globetrotter Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Globetrotter Trivia skill, try saying...
@@ -24,4 +24,4 @@ Globetrotter Trivia is a fun trivia game about the cities of USA.
 * **Privacy Policy:** http://udaantech.com/privacy/
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# Adventure
+# &nbsp;<img src="app_icon" alt="Adventure icon" width="36"> Adventure
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Adventure skill, try saying...
@@ -29,4 +29,4 @@ New adventures will be added over time. If you'd like to suggest stories or corr
 * **Terms of Use:** http://www.joiney.com/terms.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# Teacher for Alexa
+# &nbsp;<img src="app_icon" alt="Teacher for Alexa icon" width="36"> Teacher for Alexa
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Teacher for Alexa skill, try saying...
@@ -23,4 +23,4 @@ Teacher for Alexa is a fun and interactive way to learn basic math through a ser
 * **First Release Date:** 2015-11-06 20:10:53
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

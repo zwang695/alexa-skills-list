@@ -1,4 +1,4 @@
-# Trivia Alex
+# &nbsp;<img src="app_icon" alt="Trivia Alex icon" width="36"> Trivia Alex
 ![1.5 stars](../../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the Trivia Alex skill, try saying...
@@ -25,4 +25,4 @@ To start, say “Alexa, Open Trivia Alex” and you’ll be walked through setti
 * **First Release Date:** 2015-11-06 20:09:45
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

@@ -1,4 +1,4 @@
-# Today's Featured on Product Hunt
+# &nbsp;<img src="app_icon" alt="Today&#39;s Featured on Product Hunt icon" width="36"> Today's Featured on Product Hunt
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Today's Featured on Product Hunt skill, try saying...
@@ -23,4 +23,4 @@ An Alexa Skill for interacting with Product Hunt using their API. This skill all
 * **First Release Date:** 2016-01-04 22:54:42
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

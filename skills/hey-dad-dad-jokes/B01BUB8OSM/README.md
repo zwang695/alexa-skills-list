@@ -1,4 +1,4 @@
-# Hey Dad - Dad Jokes
+# &nbsp;<img src="app_icon" alt="Hey Dad - Dad Jokes icon" width="36"> Hey Dad - Dad Jokes
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Hey Dad - Dad Jokes skill, try saying...
@@ -23,4 +23,4 @@ A quick and easy way to hear some of the corniest jokes in existence.
 * **First Release Date:** 2016-02-16 19:09:55
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

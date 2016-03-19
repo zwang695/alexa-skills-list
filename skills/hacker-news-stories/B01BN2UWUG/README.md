@@ -1,4 +1,4 @@
-# Hacker News Stories
+# &nbsp;<img src="app_icon" alt="Hacker News Stories icon" width="36"> Hacker News Stories
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Hacker News Stories skill, try saying...
@@ -25,4 +25,4 @@ You can ask Alexa for Hacker News stories from the following categories: top, sh
 * **First Release Date:** 2016-02-11 00:33:26
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

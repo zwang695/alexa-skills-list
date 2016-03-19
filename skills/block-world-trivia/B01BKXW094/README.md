@@ -1,4 +1,4 @@
-# Block World Trivia
+# &nbsp;<img src="app_icon" alt="Block World Trivia icon" width="36"> Block World Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Block World Trivia skill, try saying...
@@ -25,4 +25,4 @@ Topics covered include, crafting, villagers, edibles, enchanting, achievements a
 * **First Release Date:** 2016-02-08 22:27:45
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# Email Assistant
+# &nbsp;<img src="app_icon" alt="Email Assistant icon" width="36"> Email Assistant
 ![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Email Assistant skill, try saying...
@@ -31,4 +31,4 @@ Works with all mail providers—Gmail, Yahoo, Exchange, iCloud, IMAP and others.
 * **Account Linking Domains:** login.easilydo.com, www.facebook.com, m.facebook.com, accounts.google.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

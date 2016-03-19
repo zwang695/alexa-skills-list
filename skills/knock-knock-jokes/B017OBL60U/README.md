@@ -1,4 +1,4 @@
-# Knock Knock Jokes
+# &nbsp;<img src="app_icon" alt="Knock Knock Jokes icon" width="36"> Knock Knock Jokes
 ![1.4 stars](../../../images/ic_star_black_18dp_1x.png)![1.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 33
 
 To use the Knock Knock Jokes skill, try saying...
@@ -25,4 +25,4 @@ Knock, knock! Who's there? Only the best collection of knock-knock jokes for the
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/kk_terms.htm
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

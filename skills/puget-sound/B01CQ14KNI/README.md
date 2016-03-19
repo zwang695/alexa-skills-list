@@ -1,4 +1,4 @@
-# Puget Sound
+# &nbsp;<img src="app_icon" alt="Puget Sound icon" width="36"> Puget Sound
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Puget Sound skill, try saying...
@@ -23,4 +23,4 @@ A way to find local information in the Washington State Puget Sound area.  Will 
 * **First Release Date:** 2016-03-08 23:21:02
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

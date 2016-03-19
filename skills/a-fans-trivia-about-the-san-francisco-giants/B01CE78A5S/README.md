@@ -1,4 +1,4 @@
-# A fan's trivia about the San Francisco Giants
+# &nbsp;<img src="app_icon" alt="A fan&#39;s trivia about the San Francisco Giants icon" width="36"> A fan's trivia about the San Francisco Giants
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the A fan's trivia about the San Francisco Giants skill, try saying...
@@ -29,4 +29,4 @@ You can play multiple times to see how well you know the Giants.
 * **First Release Date:** 2016-03-01 08:33:59
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

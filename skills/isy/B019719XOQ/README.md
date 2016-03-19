@@ -1,4 +1,4 @@
-# ISY
+# &nbsp;<img src="app_icon" alt="ISY icon" width="36"> ISY
 ![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 12
 
 To use the ISY skill, try saying...
@@ -50,4 +50,4 @@ Get program status
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

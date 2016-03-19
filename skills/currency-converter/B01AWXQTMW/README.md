@@ -1,4 +1,4 @@
-# Currency Converter
+# &nbsp;<img src="app_icon" alt="Currency Converter icon" width="36"> Currency Converter
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Currency Converter skill, try saying...
@@ -23,4 +23,4 @@ Ask Alexa to convert money from your country to other country. She will look for
 * **First Release Date:** 2016-01-21 18:12:33
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

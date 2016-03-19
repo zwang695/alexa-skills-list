@@ -1,4 +1,4 @@
-# InsultiBot
+# &nbsp;<img src="app_icon" alt="InsultiBot icon" width="36"> InsultiBot
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the InsultiBot skill, try saying...
@@ -29,4 +29,4 @@ InsultiBot may not be willing to be the bot you want, but it's designed to be th
 * **First Release Date:** 2016-01-20 22:45:01
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

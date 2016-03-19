@@ -1,4 +1,4 @@
-# Rick's School Tools State Capitals
+# &nbsp;<img src="app_icon" alt="Rick&#39;s School Tools State Capitals icon" width="36"> Rick's School Tools State Capitals
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Rick's School Tools State Capitals skill, try saying...
@@ -23,4 +23,4 @@ This helps you or your students practice giving the capital city for each state.
 * **First Release Date:** 2016-02-26 00:26:51
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

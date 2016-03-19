@@ -1,4 +1,4 @@
-# Pi Day
+# &nbsp;<img src="app_icon" alt="Pi Day icon" width="36"> Pi Day
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pi Day skill, try saying...
@@ -23,4 +23,4 @@ Happy Pi Day! Recite as many digits of pi as you can before time runs out.
 * **First Release Date:** 2016-03-10 11:32:30
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

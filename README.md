@@ -3,7 +3,7 @@ A complete list of all available Alexa Skills
 
 **Total Skills Available:** 391
 
-**Last Updated:** 2016-03-19 17:07:01
+**Last Updated:** 2016-03-19 17:54:48
 
 ***
 

@@ -1,4 +1,4 @@
-# The Dog Feeder
+# &nbsp;<img src="app_icon" alt="The Dog Feeder icon" width="36"> The Dog Feeder
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the The Dog Feeder skill, try saying...
@@ -25,4 +25,4 @@ Usage is very simple, every time you ask Echo if you fed the dog it will tell yo
 * **First Release Date:** 2016-01-13 22:59:08
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

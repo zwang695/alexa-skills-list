@@ -1,4 +1,4 @@
-# Techcrunch News
+# &nbsp;<img src="app_icon" alt="Techcrunch News icon" width="36"> Techcrunch News
 ![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Techcrunch News skill, try saying...
@@ -25,4 +25,4 @@ The latest technology news and information on startups.
 * **Terms of Use:** http://privacy.aol.com/
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

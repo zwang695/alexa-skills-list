@@ -1,4 +1,4 @@
-# Haunted House
+# &nbsp;<img src="app_icon" alt="Haunted House icon" width="36"> Haunted House
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Haunted House skill, try saying...
@@ -19,4 +19,4 @@ Haunted House provides a random scary sound to fill any moment with suspense. As
 * **First Release Date:** 2016-03-17 13:04:41
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

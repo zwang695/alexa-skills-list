@@ -1,4 +1,4 @@
-# Santa's Helper
+# &nbsp;<img src="app_icon" alt="Santa&#39;s Helper icon" width="36"> Santa's Helper
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 27
 
 To use the Santa's Helper skill, try saying...
@@ -32,4 +32,4 @@ Happy Holidays!
 * **First Release Date:** 2015-12-18 00:27:33
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

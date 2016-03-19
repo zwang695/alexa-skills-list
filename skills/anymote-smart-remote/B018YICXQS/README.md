@@ -1,4 +1,4 @@
-# AnyMote Smart Remote
+# &nbsp;<img src="app_icon" alt="AnyMote Smart Remote icon" width="36"> AnyMote Smart Remote
 ![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 25
 
 To use the AnyMote Smart Remote skill, try saying...
@@ -27,4 +27,4 @@ Once you’re all set up and have your remotes added in the Smart IR Remote - An
 * **Terms of Use:** http://colortiger.com/remote/terms/
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

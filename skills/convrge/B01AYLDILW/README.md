@@ -1,4 +1,4 @@
-# convrge
+# &nbsp;<img src="app_icon" alt="convrge icon" width="36"> convrge
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the convrge skill, try saying...
@@ -23,4 +23,4 @@ Check to see who's online within Convrge. For more information regarding converg
 * **First Release Date:** 2016-01-22 21:28:47
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# Hacking History Trivia
+# &nbsp;<img src="app_icon" alt="Hacking History Trivia icon" width="36"> Hacking History Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hacking History Trivia skill, try saying...
@@ -23,4 +23,4 @@ Think you know about the history of computing, hacking, and programming? Add thi
 * **First Release Date:** 2016-01-19 23:55:57
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

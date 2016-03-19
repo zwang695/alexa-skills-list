@@ -1,4 +1,4 @@
-# Focus Word
+# &nbsp;<img src="app_icon" alt="Focus Word icon" width="36"> Focus Word
 ![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the Focus Word skill, try saying...
@@ -23,4 +23,4 @@ Focus Word provides an inspirational word or phrase along with a brief statement
 * **First Release Date:** 2015-11-06 20:11:30
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

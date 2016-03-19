@@ -1,4 +1,4 @@
-# Fantasy Football
+# &nbsp;<img src="app_icon" alt="Fantasy Football icon" width="36"> Fantasy Football
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Fantasy Football skill, try saying...
@@ -25,4 +25,4 @@ Retrieve fantasy football news and player updates on the Top 300 players directl
 * **Terms of Use:** http://www.fantasyfootballnerd.com/terms
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# The Bible
+# &nbsp;<img src="app_icon" alt="The Bible icon" width="36"> The Bible
 ![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the The Bible skill, try saying...
@@ -25,4 +25,4 @@ The Bible app will read Bible passages of your choosing, or else select a random
 * **Terms of Use:** http://spriton.com/w/terms/
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

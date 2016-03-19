@@ -1,4 +1,4 @@
-# BART Status
+# &nbsp;<img src="app_icon" alt="BART Status icon" width="36"> BART Status
 ![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the BART Status skill, try saying...
@@ -19,4 +19,4 @@ BART Status gets current service advisories from the official BART website.
 * **First Release Date:** 2016-02-01 23:36:41
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

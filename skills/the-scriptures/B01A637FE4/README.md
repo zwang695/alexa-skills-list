@@ -1,4 +1,4 @@
-# The Scriptures
+# &nbsp;<img src="app_icon" alt="The Scriptures icon" width="36"> The Scriptures
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the The Scriptures skill, try saying...
@@ -25,4 +25,4 @@ The Scriptures app will read Christian scripture passages from the Bible, Book o
 * **Terms of Use:** http://spriton.com/w/terms/
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

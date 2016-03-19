@@ -1,4 +1,4 @@
-# Bitcoin Price Checker
+# &nbsp;<img src="app_icon" alt="Bitcoin Price Checker icon" width="36"> Bitcoin Price Checker
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bitcoin Price Checker skill, try saying...
@@ -21,4 +21,4 @@ The only thing you have to say is "Alexa, open Bitcoin Price Checker."
 * **First Release Date:** 2015-11-06 20:21:16
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

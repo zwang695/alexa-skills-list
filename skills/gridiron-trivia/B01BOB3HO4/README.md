@@ -1,4 +1,4 @@
-# Gridiron Trivia
+# &nbsp;<img src="app_icon" alt="Gridiron Trivia icon" width="36"> Gridiron Trivia
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Gridiron Trivia skill, try saying...
@@ -24,4 +24,4 @@ Well, now you can play the Gridiron Trivia game on your Amazon Echo.
 * **First Release Date:** 2016-02-12 01:04:43
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

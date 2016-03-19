@@ -1,4 +1,4 @@
-# Yo Momma Jokes
+# &nbsp;<img src="app_icon" alt="Yo Momma Jokes icon" width="36"> Yo Momma Jokes
 ![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_half_black_18dp_1x.png) 24
 
 To use the Yo Momma Jokes skill, try saying...
@@ -23,4 +23,4 @@ This skill simply tells the user a "yo momma" joke. The user can simply ask Mom 
 * **First Release Date:** 2015-12-24 22:11:30
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

@@ -1,4 +1,4 @@
-# Children's Bible Quiz
+# &nbsp;<img src="app_icon" alt="Children&#39;s Bible Quiz icon" width="36"> Children's Bible Quiz
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Children's Bible Quiz skill, try saying...
@@ -23,4 +23,4 @@ Children's Bible Quiz where a question is ask with four possible answers.
 * **First Release Date:** 2016-02-26 00:12:35
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# Spanish
+# &nbsp;<img src="app_icon" alt="Spanish icon" width="36"> Spanish
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Spanish skill, try saying...
@@ -28,4 +28,4 @@ If You Like It Please Show Your Love and Rate This Skill.
 * **Terms of Use:** http://commpublishing.com/terms-of-use
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

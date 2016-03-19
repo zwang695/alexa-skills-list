@@ -1,4 +1,4 @@
-# EGR Lunch Bot
+# &nbsp;<img src="app_icon" alt="EGR Lunch Bot icon" width="36"> EGR Lunch Bot
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the EGR Lunch Bot skill, try saying...
@@ -23,4 +23,4 @@ Ask Alexa whats for lunch today, or at some day in the future at East Grand Rapi
 * **First Release Date:** 2016-01-26 23:23:40
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

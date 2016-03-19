@@ -1,4 +1,4 @@
-# Trivia About Old School
+# &nbsp;<img src="app_icon" alt="Trivia About Old School icon" width="36"> Trivia About Old School
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia About Old School skill, try saying...
@@ -23,4 +23,4 @@ This multiple-choice game is a fun way to challenge what you know about the movi
 * **First Release Date:** 2016-02-26 23:42:43
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

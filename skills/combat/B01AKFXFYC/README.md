@@ -1,4 +1,4 @@
-# Combat
+# &nbsp;<img src="app_icon" alt="Combat icon" width="36"> Combat
 ![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Combat skill, try saying...
@@ -29,4 +29,4 @@ To discuss this skill, contact @VoiceGameDev on Twitter.
 * **Terms of Use:** http://www.joiney.com/terms.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# Tide Pooler
+# &nbsp;<img src="app_icon" alt="Tide Pooler icon" width="36"> Tide Pooler
 ![1.2 stars](../../../images/ic_star_black_18dp_1x.png)![1.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 16
 
 To use the Tide Pooler skill, try saying...
@@ -23,4 +23,4 @@ Do you live in a coastal city and spend time by the water? Rely on Tide Pooler f
 * **First Release Date:** 2015-11-06 20:20:05
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

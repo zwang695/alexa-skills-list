@@ -1,4 +1,4 @@
-# Animal Sounds
+# &nbsp;<img src="app_icon" alt="Animal Sounds icon" width="36"> Animal Sounds
 ![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 13
 
 To use the Animal Sounds skill, try saying...
@@ -23,4 +23,4 @@ Ask Alexa to make the sounds of your favorite animals. She learns new animal sou
 * **First Release Date:** 2016-01-12 02:23:23
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

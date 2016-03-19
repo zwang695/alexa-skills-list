@@ -1,4 +1,4 @@
-# The Law
+# &nbsp;<img src="app_icon" alt="The Law icon" width="36"> The Law
 ![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the The Law skill, try saying...
@@ -27,4 +27,4 @@ Simply say: "Alexa, open The Law!"
 * **First Release Date:** 2016-01-29 05:36:13
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

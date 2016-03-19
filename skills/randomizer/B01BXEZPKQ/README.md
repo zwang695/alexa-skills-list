@@ -1,4 +1,4 @@
-# Randomizer
+# &nbsp;<img src="app_icon" alt="Randomizer icon" width="36"> Randomizer
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Randomizer skill, try saying...
@@ -24,4 +24,4 @@ Going further we have plan to make it for any random day, date, fruit, flowers, 
 * **First Release Date:** 2016-02-18 23:43:13
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

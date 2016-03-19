@@ -1,4 +1,4 @@
-# 7-Minute Workout
+# &nbsp;<img src="app_icon" alt="7-Minute Workout icon" width="36"> 7-Minute Workout
 ![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_border_black_18dp_1x.png) 79
 
 To use the 7-Minute Workout skill, try saying...
@@ -37,4 +37,4 @@ Thanks for all the great feedback! Please continue to share your thoughts, and w
 * **First Release Date:** 2015-12-14 22:27:48
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# Animal Game
+# &nbsp;<img src="app_icon" alt="Animal Game icon" width="36"> Animal Game
 ![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 51
 
 To use the Animal Game skill, try saying...
@@ -19,4 +19,4 @@ Think of an animal and Alexa will play with you to guess it by asking questions.
 * **First Release Date:** 2015-11-06 20:19:49
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

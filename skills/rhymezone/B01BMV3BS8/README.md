@@ -1,4 +1,4 @@
-# RhymeZone
+# &nbsp;<img src="app_icon" alt="RhymeZone icon" width="36"> RhymeZone
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the RhymeZone skill, try saying...
@@ -24,4 +24,4 @@ Find exactly the right words for your poems, song lyrics, and other writing ende
 * **Privacy Policy:** http://www.rhymezone.com/help#privacy
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

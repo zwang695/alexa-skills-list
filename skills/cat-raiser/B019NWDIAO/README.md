@@ -1,4 +1,4 @@
-# Cat Raiser
+# &nbsp;<img src="app_icon" alt="Cat Raiser icon" width="36"> Cat Raiser
 ![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Cat Raiser skill, try saying...
@@ -24,4 +24,4 @@ You raise your e-cat living in Alexa with 'Cat Raiser'. You can feed it, pet it 
 * **Terms of Use:** https://s3.amazonaws.com/cat-raiser/Terms_Of_Use.txt
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

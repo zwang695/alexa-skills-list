@@ -1,4 +1,4 @@
-# Booze Trivia
+# &nbsp;<img src="app_icon" alt="Booze Trivia icon" width="36"> Booze Trivia
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Booze Trivia skill, try saying...
@@ -29,4 +29,4 @@ This skill contains references to alcohol and may not be suitable to everyone.
 * **First Release Date:** 2015-12-28 23:35:22
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

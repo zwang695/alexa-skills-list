@@ -1,4 +1,4 @@
-# Essential Trivia
+# &nbsp;<img src="app_icon" alt="Essential Trivia icon" width="36"> Essential Trivia
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Essential Trivia skill, try saying...
@@ -23,4 +23,4 @@ Essential Trivia provides the opportunity to enjoy all the fun of trivia, withou
 * **First Release Date:** 2016-01-25 16:56:44
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

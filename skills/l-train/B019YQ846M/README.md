@@ -1,4 +1,4 @@
-# L Train
+# &nbsp;<img src="app_icon" alt="L Train icon" width="36"> L Train
 ![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the L Train skill, try saying...
@@ -32,4 +32,4 @@ This skill works for every L train stop in New York City, including Brooklyn and
 * **Privacy Policy:** http://nmercer.github.io/TheLTrainPrivacyPolicy/
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

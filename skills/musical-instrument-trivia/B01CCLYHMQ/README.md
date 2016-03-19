@@ -1,4 +1,4 @@
-# Musical Instrument Trivia
+# &nbsp;<img src="app_icon" alt="Musical Instrument Trivia icon" width="36"> Musical Instrument Trivia
 ![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Musical Instrument Trivia skill, try saying...
@@ -23,4 +23,4 @@ If you play musical instruments, or have an appreciation for them, you will enjo
 * **First Release Date:** 2016-02-29 08:21:28
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

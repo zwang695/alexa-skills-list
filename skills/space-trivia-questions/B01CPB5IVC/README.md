@@ -1,4 +1,4 @@
-# Space Trivia Questions
+# &nbsp;<img src="app_icon" alt="Space Trivia Questions icon" width="36"> Space Trivia Questions
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Space Trivia Questions skill, try saying...
@@ -23,4 +23,4 @@ Trivia questions about our solar system
 * **First Release Date:** 2016-03-08 13:00:41
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

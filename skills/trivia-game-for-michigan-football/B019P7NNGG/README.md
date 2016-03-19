@@ -1,4 +1,4 @@
-# Trivia Game for Michigan Football
+# &nbsp;<img src="app_icon" alt="Trivia Game for Michigan Football icon" width="36"> Trivia Game for Michigan Football
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Trivia Game for Michigan Football skill, try saying...
@@ -27,4 +27,4 @@ This skill is fun to play alone, or compete with your family and friends to see 
 * **First Release Date:** 2015-12-22 18:45:34
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

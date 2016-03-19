@@ -1,4 +1,4 @@
-# Mosaic
+# &nbsp;<img src="app_icon" alt="Mosaic icon" width="36"> Mosaic
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mosaic skill, try saying...
@@ -33,4 +33,4 @@ To get started, please link your MOSAIC account to use this skill. Also, please 
 * **Account Linking Domains:** images-na.ssl-images-amazon.com, api-cdn.amazon.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

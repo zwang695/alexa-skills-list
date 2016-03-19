@@ -1,4 +1,4 @@
-# Acoustic Metronome
+# &nbsp;<img src="app_icon" alt="Acoustic Metronome icon" width="36"> Acoustic Metronome
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Acoustic Metronome skill, try saying...
@@ -25,4 +25,4 @@ This is an acoustical metronome that plays a regular drumbeat. You can use it to
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/am_terms.htm
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

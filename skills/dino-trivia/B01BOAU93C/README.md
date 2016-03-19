@@ -1,4 +1,4 @@
-# Dino Trivia
+# &nbsp;<img src="app_icon" alt="Dino Trivia icon" width="36"> Dino Trivia
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Dino Trivia skill, try saying...
@@ -29,4 +29,4 @@ After hearing the correct answer, you have the option to interrupt Alexa prior t
 * **First Release Date:** 2016-02-12 00:56:37
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

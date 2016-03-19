@@ -1,4 +1,4 @@
-# CheerLights
+# &nbsp;<img src="app_icon" alt="CheerLights icon" width="36"> CheerLights
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the CheerLights skill, try saying...
@@ -27,4 +27,4 @@ http://cheerlights.com/
 * **First Release Date:** 2016-02-03 23:08:23
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

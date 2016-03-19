@@ -1,4 +1,4 @@
-# Cricket Quiz
+# &nbsp;<img src="app_icon" alt="Cricket Quiz icon" width="36"> Cricket Quiz
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cricket Quiz skill, try saying...
@@ -23,4 +23,4 @@ Cricket is one of the most popular sport in the world, with an estimated viewers
 * **First Release Date:** 2016-03-15 19:24:01
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

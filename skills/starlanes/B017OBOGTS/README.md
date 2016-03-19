@@ -1,4 +1,4 @@
-# Starlanes
+# &nbsp;<img src="app_icon" alt="Starlanes icon" width="36"> Starlanes
 ![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Starlanes skill, try saying...
@@ -25,4 +25,4 @@ Two factions dominate the Starlanes, the transit pathways of the known universe.
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/sl_terms.htm
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

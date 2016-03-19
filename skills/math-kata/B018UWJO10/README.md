@@ -1,4 +1,4 @@
-# Math Kata
+# &nbsp;<img src="app_icon" alt="Math Kata icon" width="36"> Math Kata
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Math Kata skill, try saying...
@@ -23,4 +23,4 @@ Interactive game to improve math skills by executing a kata to become a math jed
 * **First Release Date:** 2015-12-02 22:43:48
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

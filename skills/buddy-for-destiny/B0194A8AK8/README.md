@@ -1,4 +1,4 @@
-# Buddy for Destiny
+# &nbsp;<img src="app_icon" alt="Buddy for Destiny icon" width="36"> Buddy for Destiny
 ![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_half_black_18dp_1x.png) 16
 
 To use the Buddy for Destiny skill, try saying...
@@ -34,4 +34,4 @@ For help just say, Alexa, ask my ghost for help
 * **First Release Date:** 2015-12-09 01:24:10
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

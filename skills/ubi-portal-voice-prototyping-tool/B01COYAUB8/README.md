@@ -1,4 +1,4 @@
-# Ubi Portal Voice Prototyping Tool
+# &nbsp;<img src="app_icon" alt="Ubi Portal Voice Prototyping Tool icon" width="36"> Ubi Portal Voice Prototyping Tool
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Ubi Portal Voice Prototyping Tool skill, try saying...
@@ -25,4 +25,4 @@ This tool allows one to quickly test voice interaction with services and devices
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 14:53:22*
+*This page was last updated 2016-03-19 17:54:48*

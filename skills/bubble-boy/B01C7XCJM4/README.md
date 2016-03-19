@@ -1,4 +1,4 @@
-# Bubble Boy
+# &nbsp;<img src="app_icon" alt="Bubble Boy icon" width="36"> Bubble Boy
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bubble Boy skill, try saying...
@@ -25,4 +25,4 @@ Quotes from Seinfeld characters like Jerry, George, Elaine & of course Kramer.
 * **First Release Date:** 2016-02-26 00:07:56
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

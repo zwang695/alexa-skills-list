@@ -1,4 +1,4 @@
-# Bean Jar - family rewards system
+# &nbsp;<img src="app_icon" alt="Bean Jar - family rewards system icon" width="36"> Bean Jar - family rewards system
 ![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Bean Jar - family rewards system skill, try saying...
@@ -26,4 +26,4 @@ Once you link the skill to a Bean Jar account, then you can start tracking rewar
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 14:53:22*
+*This page was last updated 2016-03-19 17:54:47*

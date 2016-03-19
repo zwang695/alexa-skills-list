@@ -1,4 +1,4 @@
-# CompliBot
+# &nbsp;<img src="app_icon" alt="CompliBot icon" width="36"> CompliBot
 ![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_half_black_18dp_1x.png) 11
 
 To use the CompliBot skill, try saying...
@@ -25,4 +25,4 @@ You know how, sometimes, a nice word in the morning is all it takes to set your 
 * **First Release Date:** 2016-01-20 22:50:46
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

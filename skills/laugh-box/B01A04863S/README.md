@@ -1,4 +1,4 @@
-# Laugh Box
+# &nbsp;<img src="app_icon" alt="Laugh Box icon" width="36"> Laugh Box
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Laugh Box skill, try saying...
@@ -27,4 +27,4 @@ All you need to do to get started is to ask Alexa to "Open Laugh Box." When it s
 * **Terms of Use:** http://www.joiney.com/terms.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

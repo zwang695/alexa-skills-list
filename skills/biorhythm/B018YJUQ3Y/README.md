@@ -1,4 +1,4 @@
-# BioRhythm
+# &nbsp;<img src="app_icon" alt="BioRhythm icon" width="36"> BioRhythm
 ![3.9 stars](../../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 12
 
 To use the BioRhythm skill, try saying...
@@ -28,4 +28,4 @@ Mathematical consulting by Bonnie Peterson.
 * **First Release Date:** 2015-12-04 23:41:41
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

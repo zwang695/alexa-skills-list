@@ -1,4 +1,4 @@
-# The Phish Trivia Game
+# &nbsp;<img src="app_icon" alt="The Phish Trivia Game icon" width="36"> The Phish Trivia Game
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Phish Trivia Game skill, try saying...
@@ -23,4 +23,4 @@ This is a Phish trivia game, made by phans for phans - we will be adding new que
 * **First Release Date:** 2016-02-26 00:02:33
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

@@ -1,4 +1,4 @@
-# Mid Century Designer Trivia
+# &nbsp;<img src="app_icon" alt="Mid Century Designer Trivia icon" width="36"> Mid Century Designer Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mid Century Designer Trivia skill, try saying...
@@ -23,4 +23,4 @@ Mid Century Design Trivia poses multiple-choice questions about iconic designers
 * **First Release Date:** 2016-03-17 10:43:29
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

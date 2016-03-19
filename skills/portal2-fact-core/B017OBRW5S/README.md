@@ -1,4 +1,4 @@
-# Portal2 Fact Core
+# &nbsp;<img src="app_icon" alt="Portal2 Fact Core icon" width="36"> Portal2 Fact Core
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Portal2 Fact Core skill, try saying...
@@ -23,4 +23,4 @@ The Fact Core contains information, but it's up to you to decide if it's true or
 * **First Release Date:** 2015-11-06 20:15:51
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

@@ -1,4 +1,4 @@
-# Capital One
+# &nbsp;<img src="app_icon" alt="Capital One icon" width="36"> Capital One
 ![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_half_black_18dp_1x.png) 22
 
 To use the Capital One skill, try saying...
@@ -38,4 +38,4 @@ And if you want more from us, that's great! Because we're building new features 
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

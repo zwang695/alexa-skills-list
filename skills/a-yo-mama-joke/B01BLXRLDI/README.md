@@ -1,4 +1,4 @@
-# A Yo Mama Joke
+# &nbsp;<img src="app_icon" alt="A Yo Mama Joke icon" width="36"> A Yo Mama Joke
 ![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the A Yo Mama Joke skill, try saying...
@@ -25,4 +25,4 @@ Please note, this skill contains crude humor.  As such, the skill may not be sui
 * **First Release Date:** 2016-02-10 00:24:27
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

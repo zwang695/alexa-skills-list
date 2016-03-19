@@ -1,4 +1,4 @@
-# Pug Bomb
+# &nbsp;<img src="app_icon" alt="Pug Bomb icon" width="36"> Pug Bomb
 ![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the Pug Bomb skill, try saying...
@@ -23,4 +23,4 @@ The Pug Bomb is a cuteness attack typically reserved for the domain of chat bots
 * **First Release Date:** 2015-12-21 23:32:39
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

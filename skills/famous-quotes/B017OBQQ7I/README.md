@@ -1,4 +1,4 @@
-# Famous Quotes
+# &nbsp;<img src="app_icon" alt="Famous Quotes icon" width="36"> Famous Quotes
 ![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Famous Quotes skill, try saying...
@@ -23,4 +23,4 @@ Simple skill that reads you famous quotes from history and movies.  Just say "Al
 * **First Release Date:** 2015-11-06 20:15:07
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

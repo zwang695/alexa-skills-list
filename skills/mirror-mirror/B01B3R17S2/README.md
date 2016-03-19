@@ -1,4 +1,4 @@
-# Mirror Mirror
+# &nbsp;<img src="app_icon" alt="Mirror Mirror icon" width="36"> Mirror Mirror
 ![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Mirror Mirror skill, try saying...
@@ -23,4 +23,4 @@ All you have to do is say mirror mirror and Alexa will give you a compliment. No
 * **First Release Date:** 2016-01-26 23:58:10
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*

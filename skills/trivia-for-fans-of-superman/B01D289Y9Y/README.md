@@ -1,4 +1,4 @@
-# Trivia for Fans of Superman
+# &nbsp;<img src="app_icon" alt="Trivia for Fans of Superman icon" width="36"> Trivia for Fans of Superman
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia for Fans of Superman skill, try saying...
@@ -23,4 +23,4 @@ Think you know all things Superman ? Take this challenge that tests your Superma
 * **First Release Date:** 2016-03-16 23:12:46
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:48*

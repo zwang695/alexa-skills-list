@@ -1,4 +1,4 @@
-# Beat The Dealer
+# &nbsp;<img src="app_icon" alt="Beat The Dealer icon" width="36"> Beat The Dealer
 ![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Beat The Dealer skill, try saying...
@@ -27,4 +27,4 @@ Play a game now, and see if you can beat the dealer.
 * **First Release Date:** 2015-11-06 20:20:59
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:00*
+*This page was last updated 2016-03-19 17:54:47*

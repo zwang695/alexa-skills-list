@@ -1,4 +1,4 @@
-# Northern Lights Forecast
+# &nbsp;<img src="app_icon" alt="Northern Lights Forecast icon" width="36"> Northern Lights Forecast
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Northern Lights Forecast skill, try saying...
@@ -23,4 +23,4 @@ Aurora skill will provide detailed information about the auroral activity over N
 * **First Release Date:** 2016-01-05 21:32:22
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-18 16:02:01*
+*This page was last updated 2016-03-19 17:54:47*
