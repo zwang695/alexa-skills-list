@@ -3,7 +3,7 @@ A complete list of all available Alexa Skills
 
 **Total Skills Available:** 391
 
-**Last Updated:** 2016-03-19 14:53:22
+**Last Updated:** 2016-03-19 17:07:01
 
 ***
 
@@ -3139,3 +3139,4 @@ Tells a "yo momma" joke. Have Alexa start it, or ask it for a joke by saying "Al
 *Alexa, Ask Zip Code What city is Zip Code 20120*
 
 ZipCode
+
