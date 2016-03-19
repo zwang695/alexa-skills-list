@@ -9,15 +9,20 @@
  *   module.exports = <JSON data>
  *
  * @todo Make everything asyncronous
- * @todo Update skill page to include more information
  * @todo Export JSON data to skill directory
  * @todo Add sorted lists: Alphabetical, Categories, Top Rated, Top Reviewed, Newest, Oldest
  */
 'use strict';
 
-var fs = require('fs'),
+// Included modules
+var fs    = require('fs'),
+	https = require('https'),
 	entitlements = require('./entitlements');
 
+// Skills directory
+var SKILLS_DIR = 'skills';
+
+// Variables to hold skill data
 var appString = '',
 	appList   = [];
 
@@ -54,7 +59,7 @@ var Template = {
 		contents += '***\n';
 		contents += '\n';
 
-		contents += appList.join('\n\n***\n\n');
+		contents += appList.join('\n***\n\n') + '\n';
 
 		return contents;
 	},
@@ -63,11 +68,11 @@ var Template = {
 		section: function(app) {
 			var contents = '';
 
-			contents  = '## [' + app.name + '](skills/' + app.name.slug() + '/' + app.asin + ')\n';
+			contents  = '## [' + app.name + '](' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + ')\n';
 			contents += '\n';
 			contents += '*' + app.exampleInteractions[0] + '*\n';
 			contents += '\n';
-			contents += (app.shortDescription ? app.shortDescription : app.description);
+			contents += (app.shortDescription ? app.shortDescription : app.description) + '\n';
 
 			return contents;
 		},
@@ -161,13 +166,39 @@ var Template = {
 			contents += '*This page was last updated ' + Date.getDateString() + '*' + '\n';
 
 			return contents;
+		},
+
+		json: function(app) {
+			var contents = '';
+
+			contents = JSON.stringify(app) + '\n';
+
+			return contents;
 		}
 	}
 }
 
+var download = function(url, dest, callback) {
+	var file = fs.createWriteStream(dest);
+
+	var request = https.get(url, function(response) {
+		response.pipe(file);
+
+		file.on('finish', function() {
+			file.close(callback);
+		});
+	}).on('error', function(err) {
+		fs.unlink(dest);
+
+		if (callback) {
+			callback(err.message);
+		}
+	});
+};
+
 // Create skills directory
 try {
-	fs.mkdirSync('skills');
+	fs.mkdirSync(SKILLS_DIR);
 } catch (e) {
 	// Directory already exists
 }
@@ -181,57 +212,84 @@ for (var key in entitlements.apps) {
 	// Skill object
 	var app = entitlements.apps[key];
 
-	// Remove enablement data
-	app.enablement = null;
-
 	// Do not include development skills
 	if (!app.canDisable) {
 		continue;
 	}
 
-	// Create skill directory
-	try {
-		fs.mkdirSync('skills/' + app.name.slug());
-	} catch (e) {
-		// Directory already exists, or another error occurred
-	}
+	// Remove enablement data
+	app.enablement = null;
 
-	// Create skill ASIN sub-directory
-	try {
-		fs.mkdirSync('skills/' + app.name.slug() + '/' + app.asin);
-	} catch (e) {
-		// Directory already exists, or another error occurred
-	}
-
-	var skillFile   = 'skills/' + app.name.slug() + '/' + app.asin + '/README.md';
-	var timeRegex   = /[0-9]{4}[\-\/][0-9]{2}[\-\/][0-9]{2} [0-9]{2}\:[0-9]{2}\:[0-9]{2}/g;
-	var skillOutput = Template.skill.readme(app);
-	var skillInput  = '';
-
-	try {
-		skillInput = fs.readFileSync(skillFile, 'utf8');
-	} catch (e) {
-		// File does not exist, or another error occurred
-	}
-
-	// Check to see if we need to update the skill's README file
-	if (!skillInput || skillInput.replace(timeRegex, '') != skillOutput.replace(timeRegex, '')) {
-		// Output the skill's README file
-		fs.writeFileSync(skillFile, skillOutput, 'utf8');
-
-		// Increment counts respectively
-		if (!skillInput) {
-			addCount++;
-		} else {
-			updateCount++;
-		}
-	}
-
-	// The JSON output is currently disabled until I have time to review it for sensitive data
-	// @todo once this is implemented, make sure to check for changes
-	//fs.writeFileSync('skills/' + app.name.slug() + '/' + app.asin + '/app.json', JSON.stringify(app), 'utf8');
-
+	// Add app to list array
 	appList.push(Template.skill.section(app));
+
+	// Closure to create scope for variables
+	(function(app) {
+		// Set our skill root directory
+		var skillRoot = SKILLS_DIR + '/' + app.name.slug();
+		var skillDir  = skillRoot + '/' + app.asin;
+
+		// Create skill directory
+		try {
+			fs.mkdirSync(skillRoot);
+		} catch (e) {
+			// Directory already exists, or another error occurred
+		}
+
+		// Create skill ASIN sub-directory
+		try {
+			fs.mkdirSync(skillDir);
+		} catch (e) {
+			// Directory already exists, or another error occurred
+		}
+
+		var skillFile   = skillDir + '/README.md';
+		var timeRegex   = /[0-9]{4}[\-\/][0-9]{2}[\-\/][0-9]{2} [0-9]{2}\:[0-9]{2}\:[0-9]{2}/g;
+		var skillOutput = Template.skill.readme(app);
+		var skillInput  = '';
+
+		try {
+			skillInput = fs.readFileSync(skillFile, 'utf8');
+		} catch (e) {
+			// File does not exist, or another error occurred
+		}
+
+		// Check to see if we need to update the skill's README file
+		if (!skillInput || skillInput.replace(timeRegex, '') != skillOutput.replace(timeRegex, '')) {
+			// Output the skill's README file
+			fs.writeFileSync(skillFile, skillOutput, 'utf8');
+
+			// Increment counts respectively
+			if (!skillInput) {
+				addCount++;
+			} else {
+				updateCount++;
+			}
+		}
+
+		// Download skill image
+		(function(app, skillDir) {
+			var imageFile = skillDir + '/app_icon';
+
+			// Check to see if the image exists
+			fs.lstat(imageFile, function(err, stats) {
+				// Check for an error (file does not exist)
+				if (err) {
+					// Download the image
+					download(app.imageUrl, err.path, function(err) {
+						// Output any errors to the console
+						if (err) {
+							console.log('[ERROR] Failed to download image for "%"', app.name);
+						}
+					});
+				}
+			});
+		})(app, skillDir);
+
+		// Export skill JSON data
+		// @todo once this is implemented, make sure to check for changes
+		fs.writeFileSync(skillDir + '/app.json', Template.skill.json(app), 'utf8');
+	})(app);
 }
 
 // Only update master README if skills were added or updated
