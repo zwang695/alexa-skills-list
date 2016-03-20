@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Football Trivia icon" width="36"> Football Trivia
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/football-trivia/B01B5BPOI0/app_icon" alt="Football Trivia icon" width="36"> Football Trivia
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Football Trivia skill, try saying...
@@ -21,4 +21,4 @@ A trivia game in which the player will be asked five questions about professiona
 * **First Release Date:** 2016-01-27 22:36:51
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

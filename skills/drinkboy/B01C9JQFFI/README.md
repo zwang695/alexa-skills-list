@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="DrinkBoy icon" width="36"> DrinkBoy
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/drinkboy/B01C9JQFFI/app_icon" alt="DrinkBoy icon" width="36"> DrinkBoy
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the DrinkBoy skill, try saying...
@@ -27,4 +27,4 @@ NOTE: This skill provides details on how to make alcoholic drinks, and is not in
 * **First Release Date:** 2016-02-26 23:50:07
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

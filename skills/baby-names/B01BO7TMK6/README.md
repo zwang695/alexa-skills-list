@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Baby Names icon" width="36"> Baby Names
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/baby-names/B01BO7TMK6/app_icon" alt="Baby Names icon" width="36"> Baby Names
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Baby Names skill, try saying...
@@ -25,4 +25,4 @@ UPDATE 2/21/2016: Now if you launch the skill, it will stay open after you ask i
 * **First Release Date:** 2016-02-11 23:28:26
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

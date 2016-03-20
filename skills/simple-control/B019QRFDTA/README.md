@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Simple Control icon" width="36"> Simple Control
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/simple-control/B019QRFDTA/app_icon" alt="Simple Control icon" width="36"> Simple Control
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 17
 
 To use the Simple Control skill, try saying...
@@ -26,4 +26,4 @@ Take charge of your Simple Control automated home using nothing more than your v
 * **Account Linking Domains:** simplecontrol.com, roomieremote.com, google.com, googleapis.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="AccuWeather icon" width="36"> AccuWeather
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/accuweather/B01A06BU8E/app_icon" alt="AccuWeather icon" width="36"> AccuWeather
 ![1.3 stars](../../../images/ic_star_black_18dp_1x.png)![1.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 44
 
 To use the AccuWeather skill, try saying...
@@ -29,4 +29,4 @@ If you have any suggestions, feel free to send feedback!
 * **Terms of Use:** http://www.accuweather.com/en/legal
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:56:01*
+*This page was last updated 2016-03-20 21:59:44*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Guitar Tuner icon" width="36"> Guitar Tuner
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/guitar-tuner/B019D5T3O6/app_icon" alt="Guitar Tuner icon" width="36"> Guitar Tuner
 ![3.4 stars](../../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Guitar Tuner skill, try saying...
@@ -25,4 +25,4 @@ Guitar Tuner uses standard, A440 tuning. Tuning starts on the low E string, foll
 * **First Release Date:** 2015-12-14 22:53:35
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

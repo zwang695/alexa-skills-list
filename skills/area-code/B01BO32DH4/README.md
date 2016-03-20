@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Area Code icon" width="36"> Area Code
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/area-code/B01BO32DH4/app_icon" alt="Area Code icon" width="36"> Area Code
 ![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Area Code skill, try saying...
@@ -23,4 +23,4 @@ This skill will return a description of the area represented by an area code.
 * **First Release Date:** 2016-02-11 20:04:44
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

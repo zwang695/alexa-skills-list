@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Movie Quotes Trivia Game icon" width="36"> Movie Quotes Trivia Game
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/movie-quotes-trivia-game/B017OBWZU0/app_icon" alt="Movie Quotes Trivia Game icon" width="36"> Movie Quotes Trivia Game
 ![1.8 stars](../../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 26
 
 To use the Movie Quotes Trivia Game skill, try saying...
@@ -25,4 +25,4 @@ Test your knowledge of Hollywood's great movies by matching five famous movies q
 * **First Release Date:** 2015-11-25 23:09:06
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

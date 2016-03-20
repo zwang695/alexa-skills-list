@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Athan icon" width="36"> Athan
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/athan/B01BLWYA74/app_icon" alt="Athan icon" width="36"> Athan
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Athan skill, try saying...
@@ -23,4 +23,4 @@ Athan provides the Islamic Prayer Times in a given city. You can ask Athan for t
 * **First Release Date:** 2016-02-09 23:45:07
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Baseball Archive icon" width="36"> Baseball Archive
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/baseball-archive/B01AL4WKJI/app_icon" alt="Baseball Archive icon" width="36"> Baseball Archive
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Baseball Archive skill, try saying...
@@ -23,4 +23,4 @@ Baseball Archive provides information and statistics for any of the 18000+ playe
 * **First Release Date:** 2016-01-14 03:28:47
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Powerball Number Generator icon" width="36"> Powerball Number Generator
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/powerball-number-generator/B01BW6HHJC/app_icon" alt="Powerball Number Generator icon" width="36"> Powerball Number Generator
 ![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Powerball Number Generator skill, try saying...
@@ -27,4 +27,4 @@ As this skill is used to generate lottery numbers, this skill may not be suitabl
 * **First Release Date:** 2016-02-18 00:30:59
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

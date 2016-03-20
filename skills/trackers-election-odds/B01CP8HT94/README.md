@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Tracker&#39;s Election Odds icon" width="36"> Tracker's Election Odds
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trackers-election-odds/B01CP8HT94/app_icon" alt="Tracker&#39;s Election Odds icon" width="36"> Tracker's Election Odds
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tracker's Election Odds skill, try saying...
@@ -33,4 +33,4 @@ Note: that being said, we're not perfect! Sometimes Tracker might not give you e
 * **First Release Date:** 2016-03-08 12:17:23
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

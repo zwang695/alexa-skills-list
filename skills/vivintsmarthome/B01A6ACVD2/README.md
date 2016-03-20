@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Vivint.SmartHome icon" width="36"> Vivint.SmartHome
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/vivintsmarthome/B01A6ACVD2/app_icon" alt="Vivint.SmartHome icon" width="36"> Vivint.SmartHome
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 31
 
 To use the Vivint.SmartHome skill, try saying...
@@ -46,4 +46,4 @@ Security is job #1 at vivint and to make sure we keep that promise Alexa will NO
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

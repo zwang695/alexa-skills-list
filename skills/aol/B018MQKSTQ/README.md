@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="AOL icon" width="36"> AOL
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/aol/B018MQKSTQ/app_icon" alt="AOL icon" width="36"> AOL
 ![2.1 stars](../../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the AOL skill, try saying...
@@ -30,4 +30,4 @@ You can ask for help at any time by simply saying “help me” and cancel your 
 * **Terms of Use:** http://legal.aol.com/TOS/
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

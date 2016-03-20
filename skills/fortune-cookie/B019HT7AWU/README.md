@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Fortune Cookie icon" width="36"> Fortune Cookie
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/fortune-cookie/B019HT7AWU/app_icon" alt="Fortune Cookie icon" width="36"> Fortune Cookie
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Fortune Cookie skill, try saying...
@@ -23,4 +23,4 @@ Get a fortune cookie, read to you and receive your own Mega Millions or Powerbal
 * **First Release Date:** 2015-12-17 23:35:40
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

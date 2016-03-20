@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Trainer Tips icon" width="36"> Trainer Tips
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trainer-tips/B01BFQ0M1Y/app_icon" alt="Trainer Tips icon" width="36"> Trainer Tips
 ![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Trainer Tips skill, try saying...
@@ -25,4 +25,4 @@ You can also ask for a random Trainer Tip - to submit ideas, Tweet with the hash
 * **First Release Date:** 2016-02-03 20:26:02
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

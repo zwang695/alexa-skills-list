@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Frontend Quiz icon" width="36"> Frontend Quiz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/frontend-quiz/B01COZ3HO4/app_icon" alt="Frontend Quiz icon" width="36"> Frontend Quiz
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Frontend Quiz skill, try saying...
@@ -23,4 +23,4 @@ With the help of Frontend Quiz you can test your HTML, CSS and Javascript knowle
 * **First Release Date:** 2016-03-08 09:20:51
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

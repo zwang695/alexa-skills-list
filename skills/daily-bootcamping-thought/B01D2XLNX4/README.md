@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Daily Bootcamping Thought icon" width="36"> Daily Bootcamping Thought
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/daily-bootcamping-thought/B01D2XLNX4/app_icon" alt="Daily Bootcamping Thought icon" width="36"> Daily Bootcamping Thought
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Daily Bootcamping Thought skill, try saying...
@@ -27,4 +27,4 @@ Sign up for our weekly newsletter with more tips and insights at http://my.curat
 * **First Release Date:** 2016-03-17 09:18:24
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

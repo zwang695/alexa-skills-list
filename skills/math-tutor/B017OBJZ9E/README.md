@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Math Tutor icon" width="36"> Math Tutor
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/math-tutor/B017OBJZ9E/app_icon" alt="Math Tutor icon" width="36"> Math Tutor
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Math Tutor skill, try saying...
@@ -23,4 +23,4 @@ Math Tutor can read out the multiplication tables between 1 and 10. For example,
 * **First Release Date:** 2015-11-06 20:09:26
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

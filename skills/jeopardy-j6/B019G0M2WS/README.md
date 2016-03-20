@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Jeopardy! J6 icon" width="36"> Jeopardy! J6
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/jeopardy-j6/B019G0M2WS/app_icon" alt="Jeopardy! J6 icon" width="36"> Jeopardy! J6
 ![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 104
 
 To use the Jeopardy! J6 skill, try saying...
@@ -29,4 +29,4 @@ Celebrate over 30 seasons of America’s Favorite Quiz Show®—install the skil
 * **Terms of Use:** http://www.sonypictures.com/corp/tos.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

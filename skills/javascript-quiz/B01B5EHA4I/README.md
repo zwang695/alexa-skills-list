@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="JavaScript Quiz icon" width="36"> JavaScript Quiz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/javascript-quiz/B01B5EHA4I/app_icon" alt="JavaScript Quiz icon" width="36"> JavaScript Quiz
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the JavaScript Quiz skill, try saying...
@@ -24,4 +24,4 @@ Test your skills with JavaScript Quiz!
 * **First Release Date:** 2016-01-28 01:06:37
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

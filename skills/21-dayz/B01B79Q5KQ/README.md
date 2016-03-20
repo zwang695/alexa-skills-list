@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="21 Dayz icon" width="36"> 21 Dayz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/21-dayz/B01B79Q5KQ/app_icon" alt="21 Dayz icon" width="36"> 21 Dayz
 ![1.5 stars](../../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the 21 Dayz skill, try saying...
@@ -23,4 +23,4 @@ To use the 21 Dayz skill, try saying...
 * **First Release Date:** 2016-01-29 05:17:36
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-20 21:19:25*
+*This page was last updated 2016-03-20 21:59:44*

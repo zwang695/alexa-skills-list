@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Game Dice icon" width="36"> Game Dice
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/game-dice/B019JLD4MG/app_icon" alt="Game Dice icon" width="36"> Game Dice
 ![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Game Dice skill, try saying...
@@ -23,4 +23,4 @@ The Game Dice skill allows Alexa to roll a number of multi-sided dice and announ
 * **First Release Date:** 2015-12-19 01:49:10
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

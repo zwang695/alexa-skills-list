@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Innkeeper Emotes for Hearthstone icon" width="36"> Innkeeper Emotes for Hearthstone
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/innkeeper-emotes-for-hearthstone/B018F2ARR0/app_icon" alt="Innkeeper Emotes for Hearthstone icon" width="36"> Innkeeper Emotes for Hearthstone
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Innkeeper Emotes for Hearthstone skill, try saying...
@@ -29,4 +29,4 @@ Plus one bonus hero: the lord, also known as Jaraxxus, Eredar Lord of the Burnin
 * **First Release Date:** 2015-11-23 21:08:42
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

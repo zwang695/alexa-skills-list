@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Dog Facts icon" width="36"> Dog Facts
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/dog-facts/B0193ZD0EU/app_icon" alt="Dog Facts icon" width="36"> Dog Facts
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the Dog Facts skill, try saying...
@@ -19,4 +19,4 @@ This skill tells you a dog fact
 * **First Release Date:** 2015-12-08 19:57:13
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

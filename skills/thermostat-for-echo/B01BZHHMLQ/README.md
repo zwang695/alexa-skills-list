@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Thermostat for Echo icon" width="36"> Thermostat for Echo
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/thermostat-for-echo/B01BZHHMLQ/app_icon" alt="Thermostat for Echo icon" width="36"> Thermostat for Echo
 ![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 20
 
 To use the Thermostat for Echo skill, try saying...
@@ -40,4 +40,4 @@ www.thermostatforecho.com/privacyPolicy.php
 * **Account Linking Domains:** thermostatforecho.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

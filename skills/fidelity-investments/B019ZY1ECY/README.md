@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Fidelity Investments icon" width="36"> Fidelity Investments
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/fidelity-investments/B019ZY1ECY/app_icon" alt="Fidelity Investments icon" width="36"> Fidelity Investments
 ![1.8 stars](../../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 13
 
 To use the Fidelity Investments skill, try saying...
@@ -25,4 +25,4 @@ We heard you!  Ask Fidelity will now get you a market update along with quote in
 * **Terms of Use:** https://www.fidelity.com/mobile/mobile-terms-of-use
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

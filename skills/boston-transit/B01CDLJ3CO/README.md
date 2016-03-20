@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Boston Transit icon" width="36"> Boston Transit
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/boston-transit/B01CDLJ3CO/app_icon" alt="Boston Transit icon" width="36"> Boston Transit
 ![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Boston Transit skill, try saying...
@@ -23,4 +23,4 @@ Currently, you can find out the alert status on subway or commuter rail lines, a
 * **First Release Date:** 2016-02-29 23:14:52
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

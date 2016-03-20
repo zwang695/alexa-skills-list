@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="HawkBus icon" width="36"> HawkBus
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/hawkbus/B01AMRXDYA/app_icon" alt="HawkBus icon" width="36"> HawkBus
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the HawkBus skill, try saying...
@@ -23,4 +23,4 @@ Use HawkBus to get the next time until the next bus arrives at a specified stop 
 * **First Release Date:** 2016-01-14 23:18:35
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

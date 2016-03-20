@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Stock Exchange icon" width="36"> Stock Exchange
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/stock-exchange/B0186BC0LQ/app_icon" alt="Stock Exchange icon" width="36"> Stock Exchange
 ![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 33
 
 To use the Stock Exchange skill, try saying...
@@ -36,4 +36,4 @@ For extended help and examples of using this skill, please visit http://gobbyapp
 * **Terms of Use:** http://gobbyapps.com/tos
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

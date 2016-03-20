@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Malayala Manorama icon" width="36"> Malayala Manorama
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/malayala-manorama/B01D28TLRY/app_icon" alt="Malayala Manorama icon" width="36"> Malayala Manorama
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Malayala Manorama skill, try saying...
@@ -27,4 +27,4 @@ Latest updates, comprehensive coverage and equal focus on Current Affairs, Polit
 * **Terms of Use:** http://www.manoramaonline.com/content/mm/ml/terms-of-use.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

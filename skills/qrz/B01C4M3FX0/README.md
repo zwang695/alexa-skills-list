@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="QRZ icon" width="36"> QRZ
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/qrz/B01C4M3FX0/app_icon" alt="QRZ icon" width="36"> QRZ
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the QRZ skill, try saying...
@@ -25,4 +25,4 @@ Currently the Alexa QRZ skill only works on American FCC callsigns.
 * **First Release Date:** 2016-02-23 18:08:51
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:56:01*
+*This page was last updated 2016-03-20 21:59:45*

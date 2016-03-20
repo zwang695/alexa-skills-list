@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Lotto Now icon" width="36"> Lotto Now
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/lotto-now/B01A69DP2Y/app_icon" alt="Lotto Now icon" width="36"> Lotto Now
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Lotto Now skill, try saying...
@@ -25,4 +25,4 @@ There is no guarantee of the validity of the numbers generated.  Use of this ski
 * **First Release Date:** 2016-01-05 00:42:27
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

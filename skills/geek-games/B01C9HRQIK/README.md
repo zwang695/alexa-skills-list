@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Geek Games icon" width="36"> Geek Games
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/geek-games/B01C9HRQIK/app_icon" alt="Geek Games icon" width="36"> Geek Games
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Geek Games skill, try saying...
@@ -25,4 +25,4 @@ Which console was launched first the SNES or the Sega Genesis?
 * **First Release Date:** 2016-02-26 23:08:38
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

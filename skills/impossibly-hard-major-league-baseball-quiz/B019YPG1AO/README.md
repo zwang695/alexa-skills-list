@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Impossibly Hard Major League Baseball Quiz icon" width="36"> Impossibly Hard Major League Baseball Quiz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/impossibly-hard-major-league-baseball-quiz/B019YPG1AO/app_icon" alt="Impossibly Hard Major League Baseball Quiz icon" width="36"> Impossibly Hard Major League Baseball Quiz
 ![1.5 stars](../../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Impossibly Hard Major League Baseball Quiz skill, try saying...
@@ -25,4 +25,4 @@ It's not meant to be beaten. It's meant to beat YOU down! I will constantly be a
 * **First Release Date:** 2015-12-30 00:14:59
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

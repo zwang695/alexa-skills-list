@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Music Jokes icon" width="36"> Music Jokes
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/music-jokes/B01CFXBVQ6/app_icon" alt="Music Jokes icon" width="36"> Music Jokes
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Music Jokes skill, try saying...
@@ -25,4 +25,4 @@ Unless you're a trombonist, guitar player, drummer, bass player, saxophone playe
 * **First Release Date:** 2016-03-02 07:17:39
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

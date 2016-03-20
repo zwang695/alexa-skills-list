@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Uber icon" width="36"> Uber
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/uber/B01AYJQ9QK/app_icon" alt="Uber icon" width="36"> Uber
 ![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 25
 
 To use the Uber skill, try saying...
@@ -35,4 +35,4 @@ You can also ask for a ride status, or cancel your ride.
 * **In-App Purchasing:** No
 * **Permissions:** ACCESS_DEVICE_ADDRESS
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

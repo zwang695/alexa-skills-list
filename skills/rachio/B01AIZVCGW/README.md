@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Rachio icon" width="36"> Rachio
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/rachio/B01AIZVCGW/app_icon" alt="Rachio icon" width="36"> Rachio
 ![2.1 stars](../../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Rachio skill, try saying...
@@ -26,4 +26,4 @@ The Rachio skill allows you to control your Rachio IRO Smart Wifi Enabled Irriga
 * **Account Linking Domains:** rach.io, rachio.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

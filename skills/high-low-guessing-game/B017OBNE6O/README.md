@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="High Low Guessing Game icon" width="36"> High Low Guessing Game
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/high-low-guessing-game/B017OBNE6O/app_icon" alt="High Low Guessing Game icon" width="36"> High Low Guessing Game
 ![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the High Low Guessing Game skill, try saying...
@@ -23,4 +23,4 @@ This is the number guessing game of “higher or lower.” In this game, Alexa c
 * **First Release Date:** 2015-11-06 20:12:24
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

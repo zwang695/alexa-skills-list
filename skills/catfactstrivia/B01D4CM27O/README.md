@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="CatFactsTrivia icon" width="36"> CatFactsTrivia
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/catfactstrivia/B01D4CM27O/app_icon" alt="CatFactsTrivia icon" width="36"> CatFactsTrivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CatFactsTrivia skill, try saying...
@@ -23,4 +23,4 @@ Cat Facts Trivia is a fun new trivia game to test your knowledge of cats.
 * **First Release Date:** 2016-03-18 05:52:35
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

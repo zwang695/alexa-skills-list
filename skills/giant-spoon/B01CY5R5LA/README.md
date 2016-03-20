@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Giant Spoon icon" width="36"> Giant Spoon
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/giant-spoon/B01CY5R5LA/app_icon" alt="Giant Spoon icon" width="36"> Giant Spoon
 ![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Giant Spoon skill, try saying...
@@ -23,4 +23,4 @@ Simply ask Alexa for an idea from Giant Spoon and then sit back and get ready to
 * **First Release Date:** 2016-03-14 08:41:29
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

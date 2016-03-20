@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Craft Helper icon" width="36"> Craft Helper
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/craft-helper/B017OBTQAC/app_icon" alt="Craft Helper icon" width="36"> Craft Helper
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Craft Helper skill, try saying...
@@ -25,4 +25,4 @@ Note:Craft helper is not affiliated with Mojang AB or Minecraft.
 * **First Release Date:** 2015-11-06 20:17:02
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-20 21:19:25*
+*This page was last updated 2016-03-20 21:59:44*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Project+ Quiz icon" width="36"> Project+ Quiz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/project-quiz/B01C6DTKDG/app_icon" alt="Project+ Quiz icon" width="36"> Project+ Quiz
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Project+ Quiz skill, try saying...
@@ -28,4 +28,4 @@ Be sure to take try the quiz often as new questions will be added routinely!
 * **Terms of Use:** http://tonymoreira.com/amazon-echo-project-quiz
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

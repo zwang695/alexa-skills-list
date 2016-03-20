@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Guess The Number icon" width="36"> Guess The Number
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/guess-the-number/B017OBP6O2/app_icon" alt="Guess The Number icon" width="36"> Guess The Number
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Guess The Number skill, try saying...
@@ -23,4 +23,4 @@ With Guess The Number, you must successfully guess a number picked by Alexa.  Af
 * **First Release Date:** 2015-11-06 20:13:57
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

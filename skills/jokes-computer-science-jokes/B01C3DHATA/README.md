@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Jokes++: Computer Science Jokes icon" width="36"> Jokes++: Computer Science Jokes
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/jokes-computer-science-jokes/B01C3DHATA/app_icon" alt="Jokes++: Computer Science Jokes icon" width="36"> Jokes++: Computer Science Jokes
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Jokes++: Computer Science Jokes skill, try saying...
@@ -23,4 +23,4 @@ This skill is meant to add computer science-related jokes to Alexa's nerdbank. T
 * **First Release Date:** 2016-02-22 21:02:21
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

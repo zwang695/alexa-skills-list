@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Quote Me icon" width="36"> Quote Me
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/quote-me/B017OBY36E/app_icon" alt="Quote Me icon" width="36"> Quote Me
 ![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Quote Me skill, try saying...
@@ -25,4 +25,4 @@ We have over 75,000 quotes covering a range of over 100 different topics from ov
 * **First Release Date:** 2015-11-06 20:19:32
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

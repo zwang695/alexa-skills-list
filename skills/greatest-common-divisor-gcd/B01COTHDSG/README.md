@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Greatest Common Divisor (GCD) icon" width="36"> Greatest Common Divisor (GCD)
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/greatest-common-divisor-gcd/B01COTHDSG/app_icon" alt="Greatest Common Divisor (GCD) icon" width="36"> Greatest Common Divisor (GCD)
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Greatest Common Divisor (GCD) skill, try saying...
@@ -29,4 +29,4 @@ You can also respond with 'yes' or 'no'.  On 'no', Alexa with close the session,
 * **First Release Date:** 2016-03-08 07:17:18
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

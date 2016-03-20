@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="House Band icon" width="36"> House Band
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/house-band/B01ATZM6N4/app_icon" alt="House Band icon" width="36"> House Band
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the House Band skill, try saying...
@@ -90,4 +90,4 @@ https://www.sarkonovich-2.elasticbeanstalk.com/house_band
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

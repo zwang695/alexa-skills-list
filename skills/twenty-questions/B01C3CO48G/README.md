@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Twenty Questions icon" width="36"> Twenty Questions
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/twenty-questions/B01C3CO48G/app_icon" alt="Twenty Questions icon" width="36"> Twenty Questions
 ![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Twenty Questions skill, try saying...
@@ -29,4 +29,4 @@ Try to outwit Twenty Questions in this classic game!
 * **Terms of Use:** https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

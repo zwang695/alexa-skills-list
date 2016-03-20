@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Covisint Trivia icon" width="36"> Covisint Trivia
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/covisint-trivia/B01AOEPC0O/app_icon" alt="Covisint Trivia icon" width="36"> Covisint Trivia
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Covisint Trivia skill, try saying...
@@ -29,4 +29,4 @@ Send suggested trivia questions to James Foster.
 * **Terms of Use:** http://www.covisint.com/enable/privacy
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

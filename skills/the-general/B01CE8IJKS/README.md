@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="The General icon" width="36"> The General
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-general/B01CE8IJKS/app_icon" alt="The General icon" width="36"> The General
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The General skill, try saying...
@@ -23,4 +23,4 @@ This skill allows the user to spell out a word or a list of words in either Mors
 * **First Release Date:** 2016-03-01 09:04:49
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

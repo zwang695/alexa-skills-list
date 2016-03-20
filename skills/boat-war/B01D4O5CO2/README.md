@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Boat War icon" width="36"> Boat War
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/boat-war/B01D4O5CO2/app_icon" alt="Boat War icon" width="36"> Boat War
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Boat War skill, try saying...
@@ -45,4 +45,4 @@ If you choose to use an advanced game with a grid of a size 5 of bigger (then fr
 * **First Release Date:** 2016-03-18 09:50:39
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

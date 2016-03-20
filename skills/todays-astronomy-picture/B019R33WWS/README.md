@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Today&#39;s Astronomy Picture icon" width="36"> Today's Astronomy Picture
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/todays-astronomy-picture/B019R33WWS/app_icon" alt="Today&#39;s Astronomy Picture icon" width="36"> Today's Astronomy Picture
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Today's Astronomy Picture skill, try saying...
@@ -21,4 +21,4 @@ Ask Alexa to Load Today's Astronomy Picture and hear all about the wonders of sp
 * **First Release Date:** 2015-12-23 23:52:47
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

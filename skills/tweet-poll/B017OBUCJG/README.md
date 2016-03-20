@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Tweet Poll icon" width="36"> Tweet Poll
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/tweet-poll/B017OBUCJG/app_icon" alt="Tweet Poll icon" width="36"> Tweet Poll
 ![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Tweet Poll skill, try saying...
@@ -25,4 +25,4 @@ Tweet Poll lets you put your finger on the pulse of the nation, as measured by t
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/tp_terms.htm
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

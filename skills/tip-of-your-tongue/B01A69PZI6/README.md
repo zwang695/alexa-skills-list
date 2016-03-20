@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Tip of Your Tongue! icon" width="36"> Tip of Your Tongue!
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/tip-of-your-tongue/B01A69PZI6/app_icon" alt="Tip of Your Tongue! icon" width="36"> Tip of Your Tongue!
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Tip of Your Tongue! skill, try saying...
@@ -37,4 +37,4 @@ There is no limit to the amount of players.
 * **First Release Date:** 2016-01-05 00:55:38
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

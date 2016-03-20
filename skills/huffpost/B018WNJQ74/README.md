@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="HuffPost icon" width="36"> HuffPost
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/huffpost/B018WNJQ74/app_icon" alt="HuffPost icon" width="36"> HuffPost
 ![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the HuffPost skill, try saying...
@@ -25,4 +25,4 @@ The Huffington Post is a Pulitzer Prize-winning source of breaking news, feature
 * **Terms of Use:** http://www.huffingtonpost.com/terms.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

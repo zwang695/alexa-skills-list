@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Esports Ticker icon" width="36"> Esports Ticker
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/esports-ticker/B01BCIXI1Q/app_icon" alt="Esports Ticker icon" width="36"> Esports Ticker
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Esports Ticker skill, try saying...
@@ -24,4 +24,4 @@ Current games supported are DOTA 2, League of Legends, StarCraft 2, Heroes of Ne
 * **First Release Date:** 2016-02-01 17:38:07
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

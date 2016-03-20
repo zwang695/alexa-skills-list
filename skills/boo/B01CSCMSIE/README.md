@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Boo icon" width="36"> Boo
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/boo/B01CSCMSIE/app_icon" alt="Boo icon" width="36"> Boo
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Boo skill, try saying...
@@ -19,4 +19,4 @@ Someone told a bad joke? Let them know with the Alexa boo Skill.
 * **First Release Date:** 2016-03-10 09:27:10
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

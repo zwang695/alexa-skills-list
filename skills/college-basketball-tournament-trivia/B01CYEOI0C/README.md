@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="College Basketball Tournament Trivia icon" width="36"> College Basketball Tournament Trivia
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/college-basketball-tournament-trivia/B01CYEOI0C/app_icon" alt="College Basketball Tournament Trivia icon" width="36"> College Basketball Tournament Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the College Basketball Tournament Trivia skill, try saying...
@@ -23,4 +23,4 @@ Test your knowledge of the men's college basketball tournament!  Think you are s
 * **First Release Date:** 2016-03-14 11:55:15
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

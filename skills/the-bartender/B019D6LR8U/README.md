@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="The Bartender icon" width="36"> The Bartender
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-bartender/B019D6LR8U/app_icon" alt="The Bartender icon" width="36"> The Bartender
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 23
 
 To use the The Bartender skill, try saying...
@@ -26,4 +26,4 @@ This skill may not be suitable for all ages. This skill provides instructions fo
 * **First Release Date:** 2015-12-14 23:24:54
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

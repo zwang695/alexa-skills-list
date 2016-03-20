@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Steely Dan Trivia Quiz icon" width="36"> Steely Dan Trivia Quiz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/steely-dan-trivia-quiz/B01CXU7F4S/app_icon" alt="Steely Dan Trivia Quiz icon" width="36"> Steely Dan Trivia Quiz
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Steely Dan Trivia Quiz skill, try saying...
@@ -23,4 +23,4 @@ A moderately difficult 10 question Steely Dan trivia quiz for fans - questions a
 * **First Release Date:** 2016-03-14 05:05:18
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

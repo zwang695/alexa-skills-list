@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Computer Science icon" width="36"> Computer Science
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/computer-science/B01CQU57JU/app_icon" alt="Computer Science icon" width="36"> Computer Science
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Computer Science skill, try saying...
@@ -29,4 +29,4 @@ Play alone or together with your family. The more the merrier.
 * **First Release Date:** 2016-03-09 10:47:09
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

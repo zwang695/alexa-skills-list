@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="FirstaidEgghead icon" width="36"> FirstaidEgghead
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/firstaidegghead/B01COSUL7C/app_icon" alt="FirstaidEgghead icon" width="36"> FirstaidEgghead
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the FirstaidEgghead skill, try saying...
@@ -26,4 +26,4 @@ you need to deal with minor emergencies such as cuts, scrapes, nosebleeds, and m
 * **Terms of Use:** http://myEggheads.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

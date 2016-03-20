@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Fitbit icon" width="36"> Fitbit
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/fitbit/B01CH4BP28/app_icon" alt="Fitbit icon" width="36"> Fitbit
 ![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 29
 
 To use the Fitbit skill, try saying...
@@ -29,4 +29,4 @@ Note: Alexa and Amazon, Inc. do not store or retain your Fitbit data, but voice 
 * **Account Linking Domains:** www.fitbit.com, api.fitbit.com, fitbit.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-20 21:19:25*
+*This page was last updated 2016-03-20 21:59:44*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="NBC News icon" width="36"> NBC News
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/nbc-news/B01C7SGG3M/app_icon" alt="NBC News icon" width="36"> NBC News
 ![2.9 stars](../../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the NBC News skill, try saying...
@@ -25,4 +25,4 @@ Stay up to date with NBC News for the 2016 United States presidential elections.
 * **Terms of Use:** http://www.nbcnews.com/pages/terms-of-service
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

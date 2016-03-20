@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Edgar Facts icon" width="36"> Edgar Facts
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/edgar-facts/B017OB648E/app_icon" alt="Edgar Facts icon" width="36"> Edgar Facts
 ![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Edgar Facts skill, try saying...
@@ -23,4 +23,4 @@ Edgar facts will teach you about Edgar the dog, even if you can't interact with 
 * **First Release Date:** 2015-11-06 20:02:16
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

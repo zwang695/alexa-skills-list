@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="1-2-3 Math icon" width="36"> 1-2-3 Math
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/1-2-3-math/B01AVQLZQ0/app_icon" alt="1-2-3 Math icon" width="36"> 1-2-3 Math
 ![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the 1-2-3 Math skill, try saying...
@@ -19,4 +19,4 @@ To use the 1-2-3 Math skill, try saying...
 * **First Release Date:** 2016-01-21 01:36:15
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

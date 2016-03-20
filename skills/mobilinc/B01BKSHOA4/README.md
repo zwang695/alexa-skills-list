@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="MobiLinc icon" width="36"> MobiLinc
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/mobilinc/B01BKSHOA4/app_icon" alt="MobiLinc icon" width="36"> MobiLinc
 ![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the MobiLinc skill, try saying...
@@ -51,4 +51,4 @@ Run/Stop/Status program.
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

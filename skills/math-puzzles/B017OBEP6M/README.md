@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Math Puzzles icon" width="36"> Math Puzzles
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/math-puzzles/B017OBEP6M/app_icon" alt="Math Puzzles icon" width="36"> Math Puzzles
 ![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Math Puzzles skill, try saying...
@@ -25,4 +25,4 @@ Math Puzzles is a fun and easy way to challenge yourself and your friends. You'r
 * **First Release Date:** 2015-12-14 21:33:09
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

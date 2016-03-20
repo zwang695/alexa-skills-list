@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="RhymeZone icon" width="36"> RhymeZone
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/rhymezone/B01BMV3BS8/app_icon" alt="RhymeZone icon" width="36"> RhymeZone
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the RhymeZone skill, try saying...
@@ -24,4 +24,4 @@ Find exactly the right words for your poems, song lyrics, and other writing ende
 * **Privacy Policy:** http://www.rhymezone.com/help#privacy
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

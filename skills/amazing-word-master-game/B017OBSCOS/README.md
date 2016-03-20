@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Amazing Word Master Game icon" width="36"> Amazing Word Master Game
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/amazing-word-master-game/B017OBSCOS/app_icon" alt="Amazing Word Master Game icon" width="36"> Amazing Word Master Game
 ![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 99
 
 To use the Amazing Word Master Game skill, try saying...
@@ -25,4 +25,4 @@ The game continues until someone fails to respond to the next word or you say Ex
 * **First Release Date:** 2015-11-06 20:16:09
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-20 21:19:25*
+*This page was last updated 2016-03-20 21:59:44*

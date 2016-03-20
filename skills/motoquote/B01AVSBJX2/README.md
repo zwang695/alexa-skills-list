@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="MotoQuote icon" width="36"> MotoQuote
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/motoquote/B01AVSBJX2/app_icon" alt="MotoQuote icon" width="36"> MotoQuote
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the MotoQuote skill, try saying...
@@ -27,4 +27,4 @@ You'll get an insightful, often inspiring quote from icons such as Michael Jorda
 * **First Release Date:** 2016-01-21 02:14:18
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Hanker icon" width="36"> Hanker
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/hanker/B01A9FDQL0/app_icon" alt="Hanker icon" width="36"> Hanker
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Hanker skill, try saying...
@@ -41,4 +41,4 @@ Special thanks to Eventful (www.eventful.com) for the wonderful event informatio
 * **First Release Date:** 2016-01-06 22:08:20
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

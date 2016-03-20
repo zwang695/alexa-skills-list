@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="FreeBusy Scheduling Buddy icon" width="36"> FreeBusy Scheduling Buddy
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/freebusy-scheduling-buddy/B017OBE2NI/app_icon" alt="FreeBusy Scheduling Buddy icon" width="36"> FreeBusy Scheduling Buddy
 ![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the FreeBusy Scheduling Buddy skill, try saying...
@@ -28,4 +28,4 @@ FreeBusy works with all calendar providers (Google, Office 365, Outlook and corp
 * **Account Linking Domains:** freebusy.io, az805145.vo.msecnd.net, login.live.com, account.live.com, auth.gfx.ms, login.windows.net, login.microsoftonline.com, secure.aadcdn.microsoftonline-p.com, accounts.google.com, accounts.youtube.com, www.google.com, www.gstatic.com, ssl.gstatic.com, clients1.google.com, clients2.google.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

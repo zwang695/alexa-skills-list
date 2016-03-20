@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Science Trivia Game icon" width="36"> Science Trivia Game
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/science-trivia-game/B01CDOOAD8/app_icon" alt="Science Trivia Game icon" width="36"> Science Trivia Game
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Science Trivia Game skill, try saying...
@@ -23,4 +23,4 @@ Simple science trivia game
 * **First Release Date:** 2016-03-01 01:02:42
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

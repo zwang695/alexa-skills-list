@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="TV Shows icon" width="36"> TV Shows
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/tv-shows/B018EWAOOW/app_icon" alt="TV Shows icon" width="36"> TV Shows
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the TV Shows skill, try saying...
@@ -33,4 +33,4 @@ Show episode data provided by the awesome http://tvmaze.com.
 * **Terms of Use:** http://gobbyapps.com/tos
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-20 21:19:25*
+*This page was last updated 2016-03-20 21:59:45*

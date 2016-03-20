@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Easter Trivia icon" width="36"> Easter Trivia
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/easter-trivia/B01CFWWCEC/app_icon" alt="Easter Trivia icon" width="36"> Easter Trivia
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Easter Trivia skill, try saying...
@@ -21,4 +21,4 @@ Expand or test your knowledge of the Easter holiday with this Alexa Skill.
 * **First Release Date:** 2016-03-02 07:10:14
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-20 21:19:25*
+*This page was last updated 2016-03-20 21:59:44*

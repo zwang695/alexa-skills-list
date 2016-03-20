@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="The Rabbi icon" width="36"> The Rabbi
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-rabbi/B018TEBWH8/app_icon" alt="The Rabbi icon" width="36"> The Rabbi
 ![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the The Rabbi skill, try saying...
@@ -29,4 +29,4 @@ Thanks to www.HebCal.com for the Parsha API!
 * **First Release Date:** 2015-12-02 01:12:36
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

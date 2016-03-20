@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="D.C. Tech Cal icon" width="36"> D.C. Tech Cal
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/dc-tech-cal/B01C9LRW76/app_icon" alt="D.C. Tech Cal icon" width="36"> D.C. Tech Cal
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the D.C. Tech Cal skill, try saying...
@@ -23,4 +23,4 @@ Say: "Alexa ask D.C. Tech for news" or "Alexa, ask D.C. Tech for events"
 * **First Release Date:** 2016-02-27 01:04:29
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="HomeSeer Home Automation Skill icon" width="36"> HomeSeer Home Automation Skill
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/homeseer-home-automation-skill/B018YLP9HK/app_icon" alt="HomeSeer Home Automation Skill icon" width="36"> HomeSeer Home Automation Skill
 ![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the HomeSeer Home Automation Skill skill, try saying...
@@ -61,4 +61,4 @@ Homeseer events can be triggered through the Echo as well:
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

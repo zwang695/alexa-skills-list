@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Toon Goggles icon" width="36"> Toon Goggles
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/toon-goggles/B01CQ39TIC/app_icon" alt="Toon Goggles icon" width="36"> Toon Goggles
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Toon Goggles skill, try saying...
@@ -28,4 +28,4 @@ To control any Toon Goggles remote enabled application, start by creating a free
 * **Account Linking Domains:** oauth.toongoggles.com, api.toongoggles.com, fonts.googleapis.com, www.toongoggles.com, pitangui.amazon.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

@@ -83,7 +83,7 @@ var Template = {
 		section: function(app) {
 			var contents = '';
 
-			contents  = '## [' + app.name + '](' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + ')\n';
+			contents  = '## ' + Template.skill.icon(app) + ' [' + app.name + '](' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + ')\n';
 			contents += '\n';
 			contents += '*' + app.exampleInteractions[0] + '*\n';
 			contents += '\n';
@@ -96,7 +96,7 @@ var Template = {
 			var contents = '';
 
 			// Skill name
-			contents  = '# &nbsp;<img src="app_icon" alt="' + app.imageAltText.escape() + '" width="36"> ' + app.name + '\n';
+			contents  = '# ' + Template.skill.icon(app) + ' ' + app.name + '\n';
 
 			// Skill rating and reviews
 			var starImage = '';
@@ -179,6 +179,14 @@ var Template = {
 
 			// Show when the info on this page was last updated
 			contents += '*This page was last updated ' + Date.getDateString() + '*' + '\n';
+
+			return contents;
+		},
+
+		icon: function(app, width) {
+			var contents = '';
+
+			contents = '&nbsp;<img src="' + app.imageUrl + '" alt="' + app.imageAltText.escape() + '" width="' + (width ? width : '36') + '">';
 
 			return contents;
 		},

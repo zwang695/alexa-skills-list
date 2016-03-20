@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Presidential Trivia icon" width="36"> Presidential Trivia
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/presidential-trivia/B01BFQCEDS/app_icon" alt="Presidential Trivia icon" width="36"> Presidential Trivia
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Presidential Trivia skill, try saying...
@@ -23,4 +23,4 @@ Presidential Trivia will ask five random questions about Presidents of the Unite
 * **First Release Date:** 2016-02-03 20:34:43
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

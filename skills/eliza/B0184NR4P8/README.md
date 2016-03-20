@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Eliza icon" width="36"> Eliza
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/eliza/B0184NR4P8/app_icon" alt="Eliza icon" width="36"> Eliza
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 17
 
 To use the Eliza skill, try saying...
@@ -27,4 +27,4 @@ Install this skill to let Alexa bring you back to the early days of artificial i
 * **First Release Date:** 2015-11-17 21:51:47
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

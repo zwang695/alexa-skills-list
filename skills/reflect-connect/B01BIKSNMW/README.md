@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Reflect Connect icon" width="36"> Reflect Connect
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/reflect-connect/B01BIKSNMW/app_icon" alt="Reflect Connect icon" width="36"> Reflect Connect
 ![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_half_black_18dp_1x.png) 17
 
 To use the Reflect Connect skill, try saying...
@@ -40,4 +40,4 @@ For more information regarding the use of this skill as well as troubleshooting 
 * **Account Linking Domains:** dev.reflectconnectapp.com, home.nest.com, api.home.nest.com, www.reflectconnectapp.com, reflectconnectapp.com
 * **In-App Purchasing:** Yes
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Lyrical icon" width="36"> Lyrical
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/lyrical/B01BUAI7GM/app_icon" alt="Lyrical icon" width="36"> Lyrical
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Lyrical skill, try saying...
@@ -58,4 +58,4 @@ Within the skill you can say "help" at any time for more information on how to u
 * **First Release Date:** 2016-02-16 18:43:41
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

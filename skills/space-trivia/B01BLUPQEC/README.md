@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Space Trivia icon" width="36"> Space Trivia
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/space-trivia/B01BLUPQEC/app_icon" alt="Space Trivia icon" width="36"> Space Trivia
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Space Trivia skill, try saying...
@@ -33,4 +33,4 @@ More questions being added routinely!
 * **First Release Date:** 2016-02-09 21:34:08
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-20 21:19:25*
+*This page was last updated 2016-03-20 21:59:45*

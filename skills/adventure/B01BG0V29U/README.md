@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Adventure icon" width="36"> Adventure
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/adventure/B01BG0V29U/app_icon" alt="Adventure icon" width="36"> Adventure
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Adventure skill, try saying...
@@ -29,4 +29,4 @@ New adventures will be added over time. If you'd like to suggest stories or corr
 * **Terms of Use:** http://www.joiney.com/terms.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

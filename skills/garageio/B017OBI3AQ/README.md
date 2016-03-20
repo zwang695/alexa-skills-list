@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Garageio icon" width="36"> Garageio
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/garageio/B017OBI3AQ/app_icon" alt="Garageio icon" width="36"> Garageio
 ![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Garageio skill, try saying...
@@ -25,4 +25,4 @@ Garageio is the simple and secure way to control and monitor your garage door fr
 * **Terms of Use:** https://garageio.com/terms
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

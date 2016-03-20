@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Ask Grandmom icon" width="36"> Ask Grandmom
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/ask-grandmom/B018F5OQ2Y/app_icon" alt="Ask Grandmom icon" width="36"> Ask Grandmom
 ![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Ask Grandmom skill, try saying...
@@ -23,4 +23,4 @@ Ask Grandmom provides comic relief by responding with an answer of yes for most 
 * **First Release Date:** 2015-11-23 22:52:25
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

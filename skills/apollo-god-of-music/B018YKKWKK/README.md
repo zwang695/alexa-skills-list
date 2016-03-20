@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Apollo - God of Music icon" width="36"> Apollo - God of Music
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/apollo-god-of-music/B018YKKWKK/app_icon" alt="Apollo - God of Music icon" width="36"> Apollo - God of Music
 ![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Apollo - God of Music skill, try saying...
@@ -23,4 +23,4 @@ Apollo, the god of music, will share music related facts and let you know who ar
 * **First Release Date:** 2015-12-10 00:03:30
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Jim Rockford&#39;s Answering Machine icon" width="36"> Jim Rockford's Answering Machine
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/jim-rockfords-answering-machine/B01D26NANC/app_icon" alt="Jim Rockford&#39;s Answering Machine icon" width="36"> Jim Rockford's Answering Machine
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Jim Rockford's Answering Machine skill, try saying...
@@ -31,4 +31,4 @@ To use, just say, "Ask Jim Rockford's Answering Machine to read a message."
 * **First Release Date:** 2016-03-16 22:18:58
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

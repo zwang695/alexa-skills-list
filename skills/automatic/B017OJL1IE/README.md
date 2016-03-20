@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Automatic icon" width="36"> Automatic
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/automatic/B017OJL1IE/app_icon" alt="Automatic icon" width="36"> Automatic
 ![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_half_black_18dp_1x.png) 16
 
 To use the Automatic skill, try saying...
@@ -25,4 +25,4 @@ Alexa can finally talk to your car with the Amazon Echo skill from Automatic.Lin
 * **Account Linking Domains:** alexa-oauth.herokuapp.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

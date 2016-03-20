@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Cricket Quiz icon" width="36"> Cricket Quiz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/cricket-quiz/B01D4EF2VU/app_icon" alt="Cricket Quiz icon" width="36"> Cricket Quiz
 ![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Cricket Quiz skill, try saying...
@@ -28,4 +28,4 @@ Say the number of answer you think is correct.
 * **First Release Date:** 2016-03-18 06:30:28
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

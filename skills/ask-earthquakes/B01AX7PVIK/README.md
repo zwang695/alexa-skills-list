@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Ask Earthquakes icon" width="36"> Ask Earthquakes
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/ask-earthquakes/B01AX7PVIK/app_icon" alt="Ask Earthquakes icon" width="36"> Ask Earthquakes
 ![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the Ask Earthquakes skill, try saying...
@@ -25,4 +25,4 @@ Earthquakes will tell you all of the recent earthquakes around the world. Ask ea
 * **Terms of Use:** http://www.hdrider.net/terms.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-20 21:19:25*
+*This page was last updated 2016-03-20 21:59:44*

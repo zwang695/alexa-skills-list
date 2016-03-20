@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Capital Quiz icon" width="36"> Capital Quiz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/capital-quiz/B019YP4I9U/app_icon" alt="Capital Quiz icon" width="36"> Capital Quiz
 ![1.9 stars](../../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 17
 
 To use the Capital Quiz skill, try saying...
@@ -25,4 +25,4 @@ Now you can take your time learning a few capitals a day, because the latest ver
 * **First Release Date:** 2015-12-30 00:02:24
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

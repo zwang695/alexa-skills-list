@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="United States Naturalization Practice Quiz icon" width="36"> United States Naturalization Practice Quiz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/united-states-naturalization-practice-quiz/B01CKCK4TW/app_icon" alt="United States Naturalization Practice Quiz icon" width="36"> United States Naturalization Practice Quiz
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the United States Naturalization Practice Quiz skill, try saying...
@@ -28,4 +28,4 @@ Think you can answer...
 * **First Release Date:** 2016-03-04 18:20:57
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

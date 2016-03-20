@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Hacker News icon" width="36"> Hacker News
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/hacker-news/B01BKVO2II/app_icon" alt="Hacker News icon" width="36"> Hacker News
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hacker News skill, try saying...
@@ -77,4 +77,4 @@ For reporting bugs or suggestions, please email m@moogs.io
 * **Terms of Use:** https://github.com/miguelmota/ASK-HackerNews/wiki/Terms-of-Use
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

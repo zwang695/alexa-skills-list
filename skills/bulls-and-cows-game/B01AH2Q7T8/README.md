@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Bulls and Cows game icon" width="36"> Bulls and Cows game
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/bulls-and-cows-game/B01AH2Q7T8/app_icon" alt="Bulls and Cows game icon" width="36"> Bulls and Cows game
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bulls and Cows game skill, try saying...
@@ -42,4 +42,4 @@ Your moves and the corresponding results will be also shown in the Echo companio
 * **First Release Date:** 2016-01-12 00:19:18
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

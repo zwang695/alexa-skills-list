@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Five Card Draw icon" width="36"> Five Card Draw
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/five-card-draw/B01BW5JI0O/app_icon" alt="Five Card Draw icon" width="36"> Five Card Draw
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Five Card Draw skill, try saying...
@@ -29,4 +29,4 @@ Play now and see if you can beat Alexa!
 * **First Release Date:** 2016-02-17 23:59:53
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

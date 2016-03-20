@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Quick Check Quiz icon" width="36"> Quick Check Quiz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/quick-check-quiz/B01AOB3J2U/app_icon" alt="Quick Check Quiz icon" width="36"> Quick Check Quiz
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Quick Check Quiz skill, try saying...
@@ -23,4 +23,4 @@ I'm using the reindeer games quiz template to create a refresher quiz when my hi
 * **First Release Date:** 2016-01-15 20:36:44
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

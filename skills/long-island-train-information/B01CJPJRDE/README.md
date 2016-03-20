@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Long Island Train Information icon" width="36"> Long Island Train Information
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/long-island-train-information/B01CJPJRDE/app_icon" alt="Long Island Train Information icon" width="36"> Long Island Train Information
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Long Island Train Information skill, try saying...
@@ -23,4 +23,4 @@ This skill returns the next few trains that run from one station to another alon
 * **First Release Date:** 2016-03-04 10:13:02
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

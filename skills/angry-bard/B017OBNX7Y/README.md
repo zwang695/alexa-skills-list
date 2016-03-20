@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Angry Bard icon" width="36"> Angry Bard
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/angry-bard/B017OBNX7Y/app_icon" alt="Angry Bard icon" width="36"> Angry Bard
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 31
 
 To use the Angry Bard skill, try saying...
@@ -23,4 +23,4 @@ Have at you, knave! The Angry Bard skill is ready to throw barbs from the Bard a
 * **First Release Date:** 2015-11-06 20:12:49
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:56:01*
+*This page was last updated 2016-03-20 21:59:44*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Lizard Spock icon" width="36"> Lizard Spock
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/lizard-spock/B01D304GY4/app_icon" alt="Lizard Spock icon" width="36"> Lizard Spock
 ![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Lizard Spock skill, try saying...
@@ -23,4 +23,4 @@ To use the Lizard Spock skill, try saying...
 * **First Release Date:** 2016-03-17 09:56:27
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-20 21:19:25*
+*This page was last updated 2016-03-20 21:59:45*

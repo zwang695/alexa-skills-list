@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="The Name Game (banana-fana) icon" width="36"> The Name Game (banana-fana)
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-name-game-banana-fana/B017OBZR50/app_icon" alt="The Name Game (banana-fana) icon" width="36"> The Name Game (banana-fana)
 ![3.9 stars](../../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the The Name Game (banana-fana) skill, try saying...
@@ -23,4 +23,4 @@ Kids love playing The Name Game with Alexa. For example, just say “Alexa, open
 * **First Release Date:** 2015-11-11 20:00:32
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

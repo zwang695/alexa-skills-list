@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="SciGuy icon" width="36"> SciGuy
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/sciguy/B01B290WVY/app_icon" alt="SciGuy icon" width="36"> SciGuy
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the SciGuy skill, try saying...
@@ -27,4 +27,4 @@ Over 100 crazy facts! New facts added weekly!
 * **First Release Date:** 2016-01-26 00:55:23
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

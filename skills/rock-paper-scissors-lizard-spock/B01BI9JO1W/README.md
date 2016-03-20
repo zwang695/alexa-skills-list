@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Rock Paper Scissors Lizard Spock icon" width="36"> Rock Paper Scissors Lizard Spock
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/rock-paper-scissors-lizard-spock/B01BI9JO1W/app_icon" alt="Rock Paper Scissors Lizard Spock icon" width="36"> Rock Paper Scissors Lizard Spock
 ![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Rock Paper Scissors Lizard Spock skill, try saying...
@@ -23,4 +23,4 @@ Do you accept the challenge of playing with Alexa? Alexa is the best player in t
 * **First Release Date:** 2016-02-05 19:52:43
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

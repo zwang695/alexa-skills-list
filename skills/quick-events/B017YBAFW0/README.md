@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Quick Events icon" width="36"> Quick Events
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/quick-events/B017YBAFW0/app_icon" alt="Quick Events icon" width="36"> Quick Events
 ![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_half_black_18dp_1x.png) 31
 
 To use the Quick Events skill, try saying...
@@ -51,4 +51,4 @@ To learn more about what you can do with QuickEvents, go to: http://sarkonovich-
 * **Account Linking Domains:** 
 * **In-App Purchasing:** Yes
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

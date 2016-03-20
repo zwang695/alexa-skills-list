@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Crystal Ball icon" width="36"> Crystal Ball
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/crystal-ball/B017OBKT2Q/app_icon" alt="Crystal Ball icon" width="36"> Crystal Ball
 ![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Crystal Ball skill, try saying...
@@ -23,4 +23,4 @@ Crystal Ball is a fortune teller skill. Alexa prompts you to first focus on a ye
 * **First Release Date:** 2015-11-06 20:10:11
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="IndianFacts icon" width="36"> IndianFacts
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/indianfacts/B01B5ALQ24/app_icon" alt="IndianFacts icon" width="36"> IndianFacts
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the IndianFacts skill, try saying...
@@ -23,4 +23,4 @@ This skill tell you interesting facts about India which most people don't know.
 * **First Release Date:** 2016-01-27 20:50:47
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

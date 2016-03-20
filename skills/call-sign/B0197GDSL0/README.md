@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Call Sign icon" width="36"> Call Sign
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/call-sign/B0197GDSL0/app_icon" alt="Call Sign icon" width="36"> Call Sign
 ![1.8 stars](../../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 22
 
 To use the Call Sign skill, try saying...
@@ -23,4 +23,4 @@ A user can look up Amateur (HAM) radio call sign information from the FCC public
 * **First Release Date:** 2015-12-11 00:43:32
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Music quiz icon" width="36"> Music quiz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/music-quiz/B01BFPCXGW/app_icon" alt="Music quiz icon" width="36"> Music quiz
 ![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Music quiz skill, try saying...
@@ -23,4 +23,4 @@ Music quiz is a fun game that you can play to test your music knowledge. Music q
 * **First Release Date:** 2016-02-03 20:14:28
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

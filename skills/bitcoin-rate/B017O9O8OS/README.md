@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Bitcoin Rate icon" width="36"> Bitcoin Rate
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/bitcoin-rate/B017O9O8OS/app_icon" alt="Bitcoin Rate icon" width="36"> Bitcoin Rate
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Bitcoin Rate skill, try saying...
@@ -31,4 +31,4 @@ For extended help and examples of using this skill, please visit http://gobbyapp
 * **Terms of Use:** http://gobbyapps.com/tos
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

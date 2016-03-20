@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Resistor Decoder icon" width="36"> Resistor Decoder
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/resistor-decoder/B019YGPC1M/app_icon" alt="Resistor Decoder icon" width="36"> Resistor Decoder
 ![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Resistor Decoder skill, try saying...
@@ -25,4 +25,4 @@ Resistor Decoder supports 3-, 4-, and 5-band resistors.  It also warns you if a 
 * **First Release Date:** 2015-12-29 19:18:48
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

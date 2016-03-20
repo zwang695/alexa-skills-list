@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="7-Minute Workout icon" width="36"> 7-Minute Workout
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/7-minute-workout/B018WUNBE6/app_icon" alt="7-Minute Workout icon" width="36"> 7-Minute Workout
 ![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_border_black_18dp_1x.png) 81
 
 To use the 7-Minute Workout skill, try saying...
@@ -37,4 +37,4 @@ Thanks for all the great feedback! Please continue to share your thoughts, and w
 * **First Release Date:** 2015-12-14 22:27:48
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-20 21:19:25*
+*This page was last updated 2016-03-20 21:59:44*

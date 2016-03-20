@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Baseball Trivia icon" width="36"> Baseball Trivia
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/baseball-trivia/B01D1IC35C/app_icon" alt="Baseball Trivia icon" width="36"> Baseball Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Baseball Trivia skill, try saying...
@@ -23,4 +23,4 @@ This is a trivia game that quizzes your knowledge about the Boston Baseball hist
 * **First Release Date:** 2016-03-16 11:04:28
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Nikola Tesla Trivia icon" width="36"> Nikola Tesla Trivia
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/nikola-tesla-trivia/B01C9GR7YY/app_icon" alt="Nikola Tesla Trivia icon" width="36"> Nikola Tesla Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Nikola Tesla Trivia skill, try saying...
@@ -19,4 +19,4 @@ Educate yourself about Inventor Nikola Tesla. Some of his accomplishments, and h
 * **First Release Date:** 2016-02-26 22:50:24
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:45*

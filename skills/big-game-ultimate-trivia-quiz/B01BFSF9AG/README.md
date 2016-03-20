@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Big Game Ultimate Trivia Quiz icon" width="36"> Big Game Ultimate Trivia Quiz
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/big-game-ultimate-trivia-quiz/B01BFSF9AG/app_icon" alt="Big Game Ultimate Trivia Quiz icon" width="36"> Big Game Ultimate Trivia Quiz
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Big Game Ultimate Trivia Quiz skill, try saying...
@@ -23,4 +23,4 @@ This skill quizzes you on the history of football's biggest game, including team
 * **First Release Date:** 2016-02-03 20:57:23
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

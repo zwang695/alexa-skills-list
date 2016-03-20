@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Satoshi&#39;s Bitcoin Quote icon" width="36"> Satoshi's Bitcoin Quote
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/satoshis-bitcoin-quote/B017OBVZ74/app_icon" alt="Satoshi&#39;s Bitcoin Quote icon" width="36"> Satoshi's Bitcoin Quote
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Satoshi's Bitcoin Quote skill, try saying...
@@ -23,4 +23,4 @@ Satoshi's Bitcoin Quote is the first, fastest, and funnest way to keep up to dat
 * **First Release Date:** 2015-11-06 20:18:24
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

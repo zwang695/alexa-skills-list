@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Daily Affirmation icon" width="36"> Daily Affirmation
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/daily-affirmation/B019YOO6R0/app_icon" alt="Daily Affirmation icon" width="36"> Daily Affirmation
 ![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Daily Affirmation skill, try saying...
@@ -25,4 +25,4 @@ The first step is enabling the skill. Then, this skill works by allowing you to 
 * **First Release Date:** 2015-12-29 23:43:30
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:59:44*

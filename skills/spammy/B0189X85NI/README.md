@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="SPAMMY! icon" width="36"> SPAMMY!
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/spammy/B0189X85NI/app_icon" alt="SPAMMY! icon" width="36"> SPAMMY!
 ![1.5 stars](../../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the SPAMMY! skill, try saying...
@@ -23,4 +23,4 @@ Pink, versatile deliciousness.  It’s perfect fried with eggs and wrapped like 
 * **First Release Date:** 2015-11-20 23:57:19
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

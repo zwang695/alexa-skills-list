@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Tough Guy icon" width="36"> Tough Guy
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/tough-guy/B01A9GPHNE/app_icon" alt="Tough Guy icon" width="36"> Tough Guy
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Tough Guy skill, try saying...
@@ -25,4 +25,4 @@ Some content may not be suitable for all ages or audiences.
 * **First Release Date:** 2016-01-06 23:03:21
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Trivia With Friends icon" width="36"> Trivia With Friends
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trivia-with-friends/B01BO591EK/app_icon" alt="Trivia With Friends icon" width="36"> Trivia With Friends
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia With Friends skill, try saying...
@@ -21,4 +21,4 @@ If you play America's Pub Quiz trivia in Madison, WI... you always want to get t
 * **First Release Date:** 2016-02-11 21:25:05
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

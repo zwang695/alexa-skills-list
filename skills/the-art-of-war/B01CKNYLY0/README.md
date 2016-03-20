@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="The Art of War icon" width="36"> The Art of War
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-art-of-war/B01CKNYLY0/app_icon" alt="The Art of War icon" width="36"> The Art of War
 ![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the The Art of War skill, try saying...
@@ -25,4 +25,4 @@ Start your day with an insightful quote from general Sun Tzu's, The Art of War, 
 * **First Release Date:** 2016-03-05 00:24:10
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*

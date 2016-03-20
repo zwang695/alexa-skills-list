@@ -1,4 +1,4 @@
-# &nbsp;<img src="app_icon" alt="Shower Thoughts icon" width="36"> Shower Thoughts
+# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/shower-thoughts/B017OBXIEC/app_icon" alt="Shower Thoughts icon" width="36"> Shower Thoughts
 ![2.9 stars](../../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Shower Thoughts skill, try saying...
@@ -19,4 +19,4 @@ Shower Thoughts are itty-bitty witty bite-sized clever thoughts. This is a skill
 * **First Release Date:** 2015-11-06 20:19:14
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:59:45*
