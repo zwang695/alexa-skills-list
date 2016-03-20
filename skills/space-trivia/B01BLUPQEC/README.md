@@ -1,5 +1,5 @@
 # &nbsp;<img src="app_icon" alt="Space Trivia icon" width="36"> Space Trivia
-![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
+![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Space Trivia skill, try saying...
 
@@ -33,4 +33,4 @@ More questions being added routinely!
 * **First Release Date:** 2016-02-09 21:34:08
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:19:25*

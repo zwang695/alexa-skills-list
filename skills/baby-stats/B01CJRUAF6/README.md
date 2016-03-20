@@ -1,5 +1,5 @@
 # &nbsp;<img src="app_icon" alt="Baby Stats icon" width="36"> Baby Stats
-![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
+![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Baby Stats skill, try saying...
 
@@ -43,4 +43,4 @@ Happy baby tracking!
 * **First Release Date:** 2016-03-04 10:59:25
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:19:25*

@@ -1,5 +1,5 @@
 # &nbsp;<img src="app_icon" alt="Trivia Challenge: U.S History icon" width="36"> Trivia Challenge: U.S History
-![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
+![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Trivia Challenge: U.S History skill, try saying...
 
@@ -23,4 +23,4 @@ Practice your knowledge of U.S  History from the colonial times to current day w
 * **First Release Date:** 2016-01-25 22:50:14
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:19:25*

@@ -1,5 +1,5 @@
 # &nbsp;<img src="app_icon" alt="OurGroceries icon" width="36"> OurGroceries
-![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png) 1
+![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the OurGroceries skill, try saying...
 
@@ -27,4 +27,4 @@ Just install the app on your phone, enter your email address in the "List sharin
 * **Account Linking Domains:** ourgroceries.com
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:19:25*

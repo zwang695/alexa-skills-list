@@ -1,5 +1,5 @@
 # &nbsp;<img src="app_icon" alt="PIckup Lines icon" width="36"> PIckup Lines
-![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 32
+![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 33
 
 To use the PIckup Lines skill, try saying...
 
@@ -34,4 +34,4 @@ This skill may not be suitable for all ages.
 * **First Release Date:** 2016-02-16 22:09:10
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:19:25*

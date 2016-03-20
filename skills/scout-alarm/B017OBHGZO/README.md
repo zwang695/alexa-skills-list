@@ -1,5 +1,5 @@
 # &nbsp;<img src="app_icon" alt="Scout Alarm icon" width="36"> Scout Alarm
-![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_half_black_18dp_1x.png) 5
+![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Scout Alarm skill, try saying...
 
@@ -28,4 +28,4 @@ To link your account, login to your account on Scout (dashboard.scoutalarm.com) 
 * **Terms of Use:** https://www.scoutalarm.com/terms-of-use
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:19:25*

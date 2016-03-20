@@ -1,5 +1,5 @@
 # &nbsp;<img src="app_icon" alt="Twister Spinner icon" width="36"> Twister Spinner
-![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
+![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Twister Spinner skill, try saying...
 
@@ -24,4 +24,4 @@ Make the game more enjoyable to play with this hand-free spinner!
 * **First Release Date:** 2016-02-22 19:38:27
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:48*
+*This page was last updated 2016-03-20 21:19:25*

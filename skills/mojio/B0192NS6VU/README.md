@@ -1,5 +1,5 @@
 # &nbsp;<img src="app_icon" alt="Mojio icon" width="36"> Mojio
-![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
+![2.9 stars](../../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Mojio skill, try saying...
 
@@ -26,4 +26,4 @@ If your car could talk, what would it say? Mojio and Echo make it possible to co
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:19:25*

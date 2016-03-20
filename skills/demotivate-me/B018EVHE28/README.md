@@ -1,5 +1,5 @@
 # &nbsp;<img src="app_icon" alt="Demotivate Me icon" width="36"> Demotivate Me
-![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 9
+![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Demotivate Me skill, try saying...
 
@@ -25,4 +25,4 @@ With Demotivate Me you can access your subconcious's deepest and darkest thought
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/dm_terms.htm
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:19:25*

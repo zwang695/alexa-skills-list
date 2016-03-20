@@ -1,5 +1,5 @@
 # &nbsp;<img src="app_icon" alt="Ask Earthquakes icon" width="36"> Ask Earthquakes
-![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_half_black_18dp_1x.png) 8
+![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the Ask Earthquakes skill, try saying...
 
@@ -25,4 +25,4 @@ Earthquakes will tell you all of the recent earthquakes around the world. Ask ea
 * **Terms of Use:** http://www.hdrider.net/terms.html
 * **In-App Purchasing:** No
 
-*This page was last updated 2016-03-19 17:54:47*
+*This page was last updated 2016-03-20 21:19:25*
