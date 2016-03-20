@@ -9,7 +9,6 @@
  *   module.exports = <JSON data>
  *
  * @todo Make everything asyncronous
- * @todo Export JSON data to skill directory
  * @todo Add sorted lists: Alphabetical, Categories, Top Rated, Top Reviewed, Newest, Oldest
  */
 'use strict';
@@ -97,7 +96,7 @@ var Template = {
 			var contents = '';
 
 			// Skill name
-			contents  = '# &nbsp;<img src="app_icon" alt="' + app.name.escape() + ' icon" width="36"> ' + app.name + '\n';
+			contents  = '# &nbsp;<img src="app_icon" alt="' + app.imageAltText.escape() + '" width="36"> ' + app.name + '\n';
 
 			// Skill rating and reviews
 			var starImage = '';
@@ -236,6 +235,9 @@ for (var key in entitlements.apps) {
 	// Remove enablement data
 	app.enablement = null;
 
+	// Update image URL to point to GitHub
+	app.imageUrl = 'https://github.com/dale3h/alexa-skills-list/raw/master/' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + '/app_icon';
+
 	// Add app to list array
 	appList.push(Template.skill.section(app));
 
@@ -303,7 +305,6 @@ for (var key in entitlements.apps) {
 		})(app, skillDir);
 
 		// Export skill JSON data
-		// @todo once this is implemented, make sure to check for changes
 		fs.writeFileSync(skillDir + '/app.json', Template.skill.json(app), 'utf8');
 	})(app);
 }
