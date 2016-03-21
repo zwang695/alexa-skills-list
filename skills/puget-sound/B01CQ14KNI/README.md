@@ -3,13 +3,15 @@
 
 To use the Puget Sound skill, try saying...
 
-* *Alexa ask puget sound what is the ferry status in Clinton*
+* *Alexa ask Puget Sound what is the ferry status in Clinton*
 
-* *Alexa ask puget sound to tell me the Clinton ferry status*
+* *Alexa, ask puget sound to tell me the pass conditions at Snoqualmie.*
 
-* *Alexa ask puget sound to read what the ferry cities are*
+* *Alexa, ask puget sound to read me the border wait times for Blaine.*
 
-A way to find local information in the Washington State Puget Sound area.  Will communicate Ferry status.  To be added soon are tides for cities and pass conditions.
+A way to find local information in the Washington State Puget Sound area.  Will communicate Ferry status, Canada border crossing wait times, and Pass conditions.  To be added soon are Ferry Schedule times, State events and Festivals, Seafair events.
+
+For suggestions or to contact please send email to:  brothersgrimmsoftware@gmail.com.
 
 ***
 

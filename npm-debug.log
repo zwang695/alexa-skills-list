@@ -1,0 +1,926 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'D:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'D:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'version',
+1 verbose cli   'patch' ]
+2 info using npm@2.5.1
+3 info using node@v0.12.0
+4 verbose node symlink D:\Program Files\nodejs\\node.exe
+5 info git [ 'status', '--porcelain' ]
+6 verbose stack Error: Git working directory not clean.
+6 verbose stack M README.md
+6 verbose stack M build.js
+6 verbose stack M skills.csv
+6 verbose stack M skills/1-2-3-math/B01AVQLZQ0/app.json
+6 verbose stack M skills/1-minute-mindfulness/B01BN1DYBQ/app.json
+6 verbose stack M skills/15-122-queue-times/B01CF059GM/app.json
+6 verbose stack M skills/21-dayz/B01B79Q5KQ/app.json
+6 verbose stack M skills/4afart/B019NU7L5O/app.json
+6 verbose stack M skills/7-minute-workout/B018WUNBE6/README.md
+6 verbose stack M skills/7-minute-workout/B018WUNBE6/app.json
+6 verbose stack M skills/7sigma/B01996D2XW/app.json
+6 verbose stack M skills/a-fans-trivia-about-the-san-francisco-giants/B01CE78A5S/app.json
+6 verbose stack M skills/a-yo-mama-joke/B01BLXRLDI/app.json
+6 verbose stack M skills/abra/B01AH90EAO/app.json
+6 verbose stack M skills/accuweather/B01A06BU8E/README.md
+6 verbose stack M skills/accuweather/B01A06BU8E/app.json
+6 verbose stack M skills/acoustic-metronome/B01B6UGXXK/app.json
+6 verbose stack M skills/admirer/B019HU8AMS/app.json
+6 verbose stack M skills/adventure/B01BG0V29U/app.json
+6 verbose stack M skills/age-calculator/B0189WBV3U/app.json
+6 verbose stack M skills/agog-reader/B019YOS8TM/app.json
+6 verbose stack M skills/all-knowing-eight-ball/B01D0JI7CA/app.json
+6 verbose stack M skills/amazing-word-master-game/B017OBSCOS/README.md
+6 verbose stack M skills/amazing-word-master-game/B017OBSCOS/app.json
+6 verbose stack M skills/angry-bard/B017OBNX7Y/app.json
+6 verbose stack M skills/animal-game/B017OBYNZU/app.json
+6 verbose stack M skills/animal-sounds/B01AHGU3M6/app.json
+6 verbose stack M skills/anymote-smart-remote/B018YICXQS/README.md
+6 verbose stack M skills/anymote-smart-remote/B018YICXQS/app.json
+6 verbose stack M skills/anythings/B01CZ3JZ7I/app.json
+6 verbose stack M skills/aol/B018MQKSTQ/README.md
+6 verbose stack M skills/aol/B018MQKSTQ/app.json
+6 verbose stack M skills/apollo-god-of-music/B018YKKWKK/app.json
+6 verbose stack M skills/applause/B01CSBIXWU/app.json
+6 verbose stack M skills/aprs/B01AVCIIQY/app.json
+6 verbose stack M skills/area-code/B01BO32DH4/app.json
+6 verbose stack M skills/ask-cloud-ninja/B01CXTNFUC/app.json
+6 verbose stack M skills/ask-daddy/B018F5RD8I/app.json
+6 verbose stack M skills/ask-earthquakes/B01AX7PVIK/app.json
+6 verbose stack M skills/ask-grandmom/B018F5OQ2Y/app.json
+6 verbose stack M skills/ask-my-buddy/B017YAF22Y/README.md
+6 verbose stack M skills/ask-my-buddy/B017YAF22Y/app.json
+6 verbose stack M skills/askabouttrump/B01BUKMHKY/README.md
+6 verbose stack M skills/askabouttrump/B01BUKMHKY/app.json
+6 verbose stack M skills/athan/B01BLWYA74/app.json
+6 verbose stack M skills/audio-goal/B019DAF4D0/app.json
+6 verbose stack M skills/automatic/B017OJL1IE/app.json
+6 verbose stack M skills/aviation-weather-brief/B01C67LF58/app.json
+6 verbose stack M skills/baby-lexi/B01CSJVGJE/app.json
+6 verbose stack M skills/baby-names/B01BO7TMK6/app.json
+6 verbose stack M skills/baby-stats/B01CJRUAF6/app.json
+6 verbose stack M skills/bart-status/B01BCU8QPW/app.json
+6 verbose stack M skills/bart-times/B017OBFKEI/app.json
+6 verbose stack M skills/baseball-archive/B01AL4WKJI/app.json
+6 verbose stack M skills/baseball-trivia-app/B01D1II83S/app.json
+6 verbose stack M skills/baseball-trivia/B01D1IC35C/app.json
+6 verbose stack M skills/basket-savings/B01BPT2U2U/app.json
+6 verbose stack M skills/batteryboot/B01BKYR0WK/app.json
+6 verbose stack M skills/bean-jar-family-rewards-system/B01AKXKPME/app.json
+6 verbose stack M skills/beat-cylinder/B01BUI8610/app.json
+6 verbose stack M skills/beat-the-dealer/B017OC122Q/app.json
+6 verbose stack M skills/beer-trivia/B01BZGJEOK/app.json
+6 verbose stack M skills/best-picture-oscars-the-last-30-years/B01C9E2H2I/app.json
+6 verbose stack M skills/bf-helper/B01BFUIPCS/app.json
+6 verbose stack M skills/bible/B017RXFNKY/README.md
+6 verbose stack M skills/bible/B017RXFNKY/app.json
+6 verbose stack M skills/big-game-ultimate-trivia-quiz/B01BFSF9AG/app.json
+6 verbose stack M skills/bingo/B017OBN1FI/app.json
+6 verbose stack M skills/biorhythm/B018YJUQ3Y/app.json
+6 verbose stack M skills/bitcoin-price-checker/B017OC1OH4/app.json
+6 verbose stack M skills/bitcoin-price/B017OBUWP0/app.json
+6 verbose stack M skills/bitcoin-rate/B017O9O8OS/app.json
+6 verbose stack M skills/block-world-trivia/B01BKXW094/app.json
+6 verbose stack M skills/board-gamer/B01D39I76I/app.json
+6 verbose stack M skills/boat-war/B01D4O5CO2/app.json
+6 verbose stack M skills/boo/B01CSCMSIE/app.json
+6 verbose stack M skills/booze-trivia/B019X2TMOA/app.json
+6 verbose stack M skills/boston-transit/B01CDLJ3CO/README.md
+6 verbose stack M skills/boston-transit/B01CDLJ3CO/app.json
+6 verbose stack M skills/bubble-boy/B01C7XCJM4/README.md
+6 verbose stack M skills/bubble-boy/B01C7XCJM4/app.json
+6 verbose stack M skills/buddy-for-destiny/B0194A8AK8/README.md
+6 verbose stack M skills/buddy-for-destiny/B0194A8AK8/app.json
+6 verbose stack M skills/bulls-and-cows-game/B01AH2Q7T8/app.json
+6 verbose stack M skills/calculator/B01ASDX8QG/app.json
+6 verbose stack M skills/call-sign/B0197GDSL0/app.json
+6 verbose stack M skills/campbells-kitchen/B017OBWHCQ/README.md
+6 verbose stack M skills/campbells-kitchen/B017OBWHCQ/app.json
+6 verbose stack M skills/capital-one/B01CTJ1XY6/README.md
+6 verbose stack M skills/capital-one/B01CTJ1XY6/app.json
+6 verbose stack M skills/capital-quiz/B019YP4I9U/app.json
+6 verbose stack M skills/cat-facts/B017OBJI46/app.json
+6 verbose stack M skills/cat-raiser/B019NWDIAO/app.json
+6 verbose stack M skills/catfactstrivia/B01D4CM27O/app.json
+6 verbose stack M skills/cheerlights/B01BFXE0RO/README.md
+6 verbose stack M skills/cheerlights/B01BFXE0RO/app.json
+6 verbose stack M skills/childrens-bible-quiz/B01C7XIJ82/app.json
+6 verbose stack M skills/christmas-caroler/B019YJIY4G/app.json
+6 verbose stack M skills/christophers-airplane-trivia/B01CE4JDSE/app.json
+6 verbose stack M skills/code-phrase-generator/B01C6A6S20/app.json
+6 verbose stack M skills/college-basketball-tournament-trivia/B01CYEOI0C/app.json
+6 verbose stack M skills/combat/B01AKFXFYC/app.json
+6 verbose stack M skills/complibot/B01AVKM8NU/app.json
+6 verbose stack M skills/computer-science/B01CQU57JU/app.json
+6 verbose stack M skills/conductor/B01C9KTH5M/app.json
+6 verbose stack M skills/conversation-starter/B019WZ4572/app.json
+6 verbose stack M skills/convrge/B01AYLDILW/app.json
+6 verbose stack M skills/cookbook/B01BZ7TO5S/app.json
+6 verbose stack M skills/covisint-trivia/B01AOEPC0O/app.json
+6 verbose stack M skills/craft-helper/B017OBTQAC/app.json
+6 verbose stack M skills/cricket-quiz/B01BFV8EIM/app.json
+6 verbose stack M skills/cricket-quiz/B01D0ISSL6/app.json
+6 verbose stack M skills/cricket-quiz/B01D4EF2VU/app.json
+6 verbose stack M skills/crocodile-finder/B01CZWI6OM/app.json
+6 verbose stack M skills/cryptocurrency/B01BPSQ860/app.json
+6 verbose stack M skills/crystal-ball/B017OBKT2Q/app.json
+6 verbose stack M skills/currency-converter/B01AWXQTMW/app.json
+6 verbose stack M skills/daily-affirmation/B019YOO6R0/app.json
+6 verbose stack M skills/daily-bootcamping-thought/B01D2XLNX4/app.json
+6 verbose stack M skills/daily-word/B017VAOYN0/README.md
+6 verbose stack M skills/daily-word/B017VAOYN0/app.json
+6 verbose stack M skills/dc-metro/B0184JBP4I/app.json
+6 verbose stack M skills/dc-tech-cal/B01C9LRW76/app.json
+6 verbose stack M skills/demotivate-me/B018EVHE28/app.json
+6 verbose stack M skills/dice-bag/B01A7GLAUU/app.json
+6 verbose stack M skills/dino-trivia/B01BOAU93C/app.json
+6 verbose stack M skills/dog-facts/B0193ZD0EU/app.json
+6 verbose stack M skills/dogecoin/B01AXCJPUU/app.json
+6 verbose stack M skills/domain-name-info/B019R06W5A/app.json
+6 verbose stack M skills/dominos-pizza/B01B5G99CC/README.md
+6 verbose stack M skills/dominos-pizza/B01B5G99CC/app.json
+6 verbose stack M skills/drinkboy/B01C9JQFFI/app.json
+6 verbose stack M skills/drive-time/B01995S7QU/app.json
+6 verbose stack M skills/drop-some-knowledge/B01C65GSIE/app.json
+6 verbose stack M skills/easter-trivia/B01CFWWCEC/app.json
+6 verbose stack M skills/edgar-facts/B017OB648E/app.json
+6 verbose stack M skills/egr-lunch-bot/B01B3PU7UI/app.json
+6 verbose stack M skills/elf-trivia/B019NZJQUM/app.json
+6 verbose stack M skills/eliza/B0184NR4P8/README.md
+6 verbose stack M skills/eliza/B0184NR4P8/app.json
+6 verbose stack M skills/elle-horoscopes-by-the-astro-twins/B019J1T6AU/README.md
+6 verbose stack M skills/elle-horoscopes-by-the-astro-twins/B019J1T6AU/app.json
+6 verbose stack M skills/email-assistant/B01BW5A4EI/README.md
+6 verbose stack M skills/email-assistant/B01BW5A4EI/app.json
+6 verbose stack M skills/esports-ticker/B01BCIXI1Q/app.json
+6 verbose stack M skills/essential-trivia/B01B1U8ZLS/app.json
+6 verbose stack M skills/event-guide/B017OARA8I/app.json
+6 verbose stack M skills/famous-quotes/B017OBQQ7I/app.json
+6 verbose stack M skills/fantasy-football/B017OBGRKY/app.json
+6 verbose stack M skills/fidelity-investments/B019ZY1ECY/app.json
+6 verbose stack M skills/fin/B01D5B7R7Y/app.json
+6 verbose stack M skills/firstaidegghead/B01COSUL7C/app.json
+6 verbose stack M skills/fitbit/B01CH4BP28/README.md
+6 verbose stack M skills/fitbit/B01CH4BP28/app.json
+6 verbose stack M skills/five-card-draw/B01BW5JI0O/app.json
+6 verbose stack M skills/flightsearch/B01C64OJXQ/app.json
+6 verbose stack M skills/focus-word/B017OBMC1M/app.json
+6 verbose stack M skills/football-trivia/B01B5BPOI0/app.json
+6 verbose stack M skills/for-a-knock-knock-joke/B01CRB2STK/app.json
+6 verbose stack M skills/for-the-loft-cinema/B01BH5Y59S/app.json
+6 verbose stack M skills/fortune-cookie/B019HT7AWU/app.json
+6 verbose stack M skills/fortune/B01A1HZKM4/app.json
+6 verbose stack M skills/founding-father-quotes/B019R3AETW/app.json
+6 verbose stack M skills/freebusy-scheduling-buddy/B017OBE2NI/app.json
+6 verbose stack M skills/freedom-quotes/B019PLYQ1S/app.json
+6 verbose stack M skills/frontend-quiz/B01COZ3HO4/app.json
+6 verbose stack M skills/game-dice/B019JLD4MG/app.json
+6 verbose stack M skills/garageio/B017OBI3AQ/app.json
+6 verbose stack M skills/geek-games/B01C9HRQIK/app.json
+6 verbose stack M skills/geek-trivia/B01C9K7JBG/README.md
+6 verbose stack M skills/geek-trivia/B01C9K7JBG/app.json
+6 verbose stack M skills/giant-spoon/B01CY5R5LA/app.json
+6 verbose stack M skills/glados-quotes/B018YKD1T4/app.json
+6 verbose stack M skills/globetrotter-trivia/B01D4PVFXS/app.json
+6 verbose stack M skills/glympse/B019X6M400/README.md
+6 verbose stack M skills/glympse/B019X6M400/app.json
+6 verbose stack M skills/gold-bug/B01BPSVFD6/app.json
+6 verbose stack M skills/good-samaritan/B01CGUZNA8/README.md
+6 verbose stack M skills/good-samaritan/B01CGUZNA8/app.json
+6 verbose stack M skills/greatest-common-divisor-gcd/B01COTHDSG/app.json
+6 verbose stack M skills/gridiron-trivia/B01BOB3HO4/app.json
+6 verbose stack M skills/guess-the-number/B017OBP6O2/app.json
+6 verbose stack M skills/guide-for-ark/B018F2YPL4/app.json
+6 verbose stack M skills/guitar-tuner/B019D5T3O6/app.json
+6 verbose stack M skills/hacker-news-stories/B01BN2UWUG/app.json
+6 verbose stack M skills/hacker-news/B01BKVO2II/app.json
+6 verbose stack M skills/hacking-history-trivia/B01AU0OEY2/app.json
+6 verbose stack M skills/haiku/B018J5EYFE/app.json
+6 verbose stack M skills/hanker/B01A9FDQL0/app.json
+6 verbose stack M skills/happy-birthday/B01BH31OZI/app.json
+6 verbose stack M skills/haunted-house/B01D37YLXI/app.json
+6 verbose stack M skills/hawkbus/B01AMRXDYA/app.json
+6 verbose stack M skills/hebcal/B01BMWLJ2W/app.json
+6 verbose stack M skills/hey-dad-dad-jokes/B01BUB8OSM/app.json
+6 verbose stack M skills/high-low-guessing-game/B017OBNE6O/README.md
+6 verbose stack M skills/high-low-guessing-game/B017OBNE6O/app.json
+6 verbose stack M skills/homeseer-home-automation-skill/B018YLP9HK/README.md
+6 verbose stack M skills/homeseer-home-automation-skill/B018YLP9HK/app.json
+6 verbose stack M skills/house-band/B01ATZM6N4/app.json
+6 verbose stack M skills/huffpost/B018WNJQ74/README.md
+6 verbose stack M skills/huffpost/B018WNJQ74/app.json
+6 verbose stack M skills/impossibly-hard-major-league-baseball-quiz/B019YPG1AO/app.json
+6 verbose stack M skills/indianfacts/B01B5ALQ24/app.json
+6 verbose stack M skills/innkeeper-emotes-for-hearthstone/B018F2ARR0/app.json
+6 verbose stack M skills/insultibot/B01AVKAZ94/app.json
+6 verbose stack M skills/insults/B01CSJ4FTM/app.json
+6 verbose stack M skills/iris/B01BFQ95QW/README.md
+6 verbose stack M skills/iris/B01BFQ95QW/app.json
+6 verbose stack M skills/iss-sighter/B01CCHJXC4/app.json
+6 verbose stack M skills/isy/B019719XOQ/app.json
+6 verbose stack M skills/itil-foundation-quiz/B01BFYLGD4/app.json
+6 verbose stack M skills/javascript-quiz/B01B5EHA4I/app.json
+6 verbose stack M skills/jazz-trivia/B01C7XTYR2/app.json
+6 verbose stack M skills/jeopardy-j6/B019G0M2WS/README.md
+6 verbose stack M skills/jeopardy-j6/B019G0M2WS/app.json
+6 verbose stack M skills/jim-rockfords-answering-machine/B01D26NANC/README.md
+6 verbose stack M skills/jim-rockfords-answering-machine/B01D26NANC/app.json
+6 verbose stack M skills/jokes-computer-science-jokes/B01C3DHATA/app.json
+6 verbose stack M skills/kasa/B017OBNR1G/README.md
+6 verbose stack M skills/kasa/B017OBNR1G/app.json
+6 verbose stack M skills/kcrw-on-air/B01AYL0KUY/app.json
+6 verbose stack M skills/knock-knock-jokes/B017OBL60U/app.json
+6 verbose stack M skills/l-train/B019YQ846M/app.json
+6 verbose stack M skills/laugh-box/B01A04863S/app.json
+6 verbose stack M skills/lets-multiply/B01BXAMWN8/app.json
+6 verbose stack M skills/lifx/B017O9P72A/app.json
+6 verbose stack M skills/lizard-spock/B01D304GY4/README.md
+6 verbose stack M skills/lizard-spock/B01D304GY4/app.json
+6 verbose stack M skills/long-island-train-information/B01CJPJRDE/app.json
+6 verbose stack M skills/long-weekend-info/B018J48DXE/app.json
+6 verbose stack M skills/lotto-now/B01A69DP2Y/app.json
+6 verbose stack M skills/lyrical/B01BUAI7GM/app.json
+6 verbose stack M skills/magic-8-ball/B018YIL6JI/app.json
+6 verbose stack M skills/magic-eight-ball/B01AX28W7M/app.json
+6 verbose stack M skills/malayala-manorama/B01D28TLRY/app.json
+6 verbose stack M skills/market-news/B01BMRJUU0/app.json
+6 verbose stack M skills/math-kata/B018UWJO10/app.json
+6 verbose stack M skills/math-mania/B019DA09YE/app.json
+6 verbose stack M skills/math-puzzles/B017OBEP6M/app.json
+6 verbose stack M skills/math-tutor/B017OBJZ9E/app.json
+6 verbose stack M skills/mbta-alerts/B01D30TK7W/app.json
+6 verbose stack M skills/memory-master/B01B5BXC52/app.json
+6 verbose stack M skills/memorychallenge/B01BH1URE4/README.md
+6 verbose stack M skills/memorychallenge/B01BH1URE4/app.json
+6 verbose stack M skills/meteor-showers/B01B1WMJ9K/app.json
+6 verbose stack M skills/mid-century-designer-trivia/B01D31TJ2C/app.json
+6 verbose stack M skills/milo/B01CP6PFLK/app.json
+6 verbose stack M skills/mirror-mirror-on-the-wall/B017OBQBIC/app.json
+6 verbose stack M skills/mirror-mirror/B01B3R17S2/app.json
+6 verbose stack M skills/missouri-football-trivia/B01BH4QK60/app.json
+6 verbose stack M skills/mixpo-executive-app/B01BH1QJL4/app.json
+6 verbose stack M skills/mobilinc/B01BKSHOA4/app.json
+6 verbose stack M skills/mojio/B0192NS6VU/app.json
+6 verbose stack M skills/mosaic/B01CDF6972/app.json
+6 verbose stack M skills/mother-goose-for-nest/B01CO7QRZS/app.json
+6 verbose stack M skills/motoquote/B01AVSBJX2/app.json
+6 verbose stack M skills/movie-info/B01BKVNMM0/app.json
+6 verbose stack M skills/movie-quotes-trivia-game/B017OBWZU0/app.json
+6 verbose stack M skills/mr-junky-food/B01BKT64QI/app.json
+6 verbose stack M skills/multiplication-challenge/B01CZM0U5U/app.json
+6 verbose stack M skills/music-jokes/B01CFXBVQ6/app.json
+6 verbose stack M skills/music-quiz/B01BFPCXGW/app.json
+6 verbose stack M skills/music-trivia/B01CEA1VHO/app.json
+6 verbose stack M skills/musical-instrument-trivia/B01CCLYHMQ/app.json
+6 verbose stack M skills/musixmatch-lyrics/B01C8PIQH8/app.json
+6 verbose stack M skills/muzzley/B01CKGPA06/README.md
+6 verbose stack M skills/muzzley/B01CKGPA06/app.json
+6 verbose stack M skills/my-bmi/B01CH04AGK/app.json
+6 verbose stack M skills/my-dermatologist/B01AX1WQC0/app.json
+6 verbose stack M skills/mydlink-home/B01BL06CC2/README.md
+6 verbose stack M skills/mydlink-home/B01BL06CC2/app.json
+6 verbose stack M skills/mymessages/B01AYD7R4E/app.json
+6 verbose stack M skills/mystery-castle/B01BUJ7R9G/app.json
+6 verbose stack M skills/name-nerd/B01D1NNBFS/app.json
+6 verbose stack M skills/nbc-news/B01C7SGG3M/app.json
+6 verbose stack M skills/news-by-linkboard/B018FCGE18/app.json
+6 verbose stack M skills/nikola-tesla-trivia/B01C9GR7YY/app.json
+6 verbose stack M skills/north-carolina-trivia/B01CQ255T0/app.json
+6 verbose stack M skills/northern-lights-forecast/B01A7OE2BG/app.json
+6 verbose stack M skills/nyc-subway-status/B01A1GTOE0/app.json
+6 verbose stack M skills/nyc-transit/B01AOC5FIA/app.json
+6 verbose stack M skills/ooma-calling/B019YJAFPM/app.json
+6 verbose stack M skills/ourgroceries/B01D4F1J0M/README.md
+6 verbose stack M skills/ourgroceries/B01D4F1J0M/app.json
+6 verbose stack M skills/perfect-pitch/B019HTWWW8/app.json
+6 verbose stack M skills/phone-finder-for-alexa/B0194CJ63Q/app.json
+6 verbose stack M skills/physics-quiz/B01CRMMSJ4/app.json
+6 verbose stack M skills/pi-day/B01CSIVR62/app.json
+6 verbose stack M skills/pickup-lines/B01BUIBT8M/README.md
+6 verbose stack M skills/pickup-lines/B01BUIBT8M/app.json
+6 verbose stack M skills/pipe-organ-trivia-game/B01C6BGOHS/app.json
+6 verbose stack M skills/pizzafacts/B01D58K4WC/app.json
+6 verbose stack M skills/portal2-fact-core/B017OBRW5S/app.json
+6 verbose stack M skills/power-ball/B01AYEFTKM/app.json
+6 verbose stack M skills/powerball-number-generator/B01BW6HHJC/app.json
+6 verbose stack M skills/powerball-numbers/B01BL1CAVI/app.json
+6 verbose stack M skills/powerball-numbers/B01C7URPZS/app.json
+6 verbose stack M skills/powerball/B01B1VD98G/app.json
+6 verbose stack M skills/president-picker/B01CE5JOJQ/app.json
+6 verbose stack M skills/presidential-trivia/B01BFQCEDS/app.json
+6 verbose stack M skills/presidential-trivia/B01BO66EM6/app.json
+6 verbose stack M skills/prime-numbers/B01D0HZVZS/app.json
+6 verbose stack M skills/project-quiz/B01C6DTKDG/app.json
+6 verbose stack M skills/pronunciations/B0197E9NX4/app.json
+6 verbose stack M skills/pug-bomb/B019NTLQM4/app.json
+6 verbose stack M skills/puget-sound/B01CQ14KNI/README.md
+6 verbose stack M skills/puget-sound/B01CQ14KNI/app.json
+6 verbose stack M skills/qrz/B01C4M3FX0/app.json
+6 verbose stack M skills/quick-check-quiz/B01AOB3J2U/app.json
+6 verbose stack M skills/quick-events/B017YBAFW0/app.json
+6 verbose stack M skills/quiz-on-harry-potter/B01C7XOF62/app.json
+6 verbose stack M skills/quote-me/B017OBY36E/app.json
+6 verbose stack M skills/quoter/B0195QP20M/app.json
+6 verbose stack M skills/qvine/B019R0JRDE/app.json
+6 verbose stack M skills/rachio/B01AIZVCGW/README.md
+6 verbose stack M skills/rachio/B01AIZVCGW/app.json
+6 verbose stack M skills/random-number/B01AB0IK96/app.json
+6 verbose stack M skills/randomizer/B01BXEZPKQ/app.json
+6 verbose stack M skills/reflect-connect/B01BIKSNMW/README.md
+6 verbose stack M skills/reflect-connect/B01BIKSNMW/app.json
+6 verbose stack M skills/reindeer-games/B019ERI2PE/app.json
+6 verbose stack M skills/relationary/B01CKI96DG/README.md
+6 verbose stack M skills/relationary/B01CKI96DG/app.json
+6 verbose stack M skills/resistor-decoder/B019YGPC1M/app.json
+6 verbose stack M skills/rhymezone/B01BMV3BS8/app.json
+6 verbose stack M skills/ricks-school-tools-state-capitals/B01C7XXGBW/app.json
+6 verbose stack M skills/rock-paper-scissors-lizard-spock/B01BI9JO1W/app.json
+6 verbose stack M skills/roddenberrys-trek-quotes/B01C3DUMYA/app.json
+6 verbose stack M skills/sage-of-elements/B01BPK2NBW/app.json
+6 verbose stack M skills/santas-helper/B019HUS30M/README.md
+6 verbose stack M skills/santas-helper/B019HUS30M/app.json
+6 verbose stack M skills/sassy-persona/B018MVOE4G/app.json
+6 verbose stack M skills/satoshis-bitcoin-quote/B017OBVZ74/app.json
+6 verbose stack M skills/science-trivia-game/B01CDOOAD8/app.json
+6 verbose stack M skills/sciguy/B01B290WVY/app.json
+6 verbose stack M skills/scout-alarm/B017OBHGZO/app.json
+6 verbose stack M skills/seattle-transit/B01BLYBPBQ/app.json
+6 verbose stack M skills/sheep-count/B01COCCKW2/app.json
+6 verbose stack M skills/shower-thoughts/B017OBXIEC/app.json
+6 verbose stack M skills/silly-winnie/B01CJU8G0E/app.json
+6 verbose stack M skills/simple-control/B019QRFDTA/app.json
+6 verbose stack M skills/skybell/B01BLWJ1Q4/README.md
+6 verbose stack M skills/skybell/B01BLWJ1Q4/app.json
+6 verbose stack M skills/skyscanner-flight-search/B01AS6Q8II/app.json
+6 verbose stack M skills/space-trivia-questions/B01CPB5IVC/app.json
+6 verbose stack M skills/space-trivia/B01BLUPQEC/app.json
+6 verbose stack M skills/space-weather/B018YJ6TIK/app.json
+6 verbose stack M skills/spammy/B0189X85NI/README.md
+6 verbose stack M skills/spammy/B0189X85NI/app.json
+6 verbose stack M skills/spanish/B01CPBFDH6/app.json
+6 verbose stack M skills/spelling-bee/B01CQTR8CU/app.json
+6 verbose stack M skills/star-fish-uk/B01CZYUPCQ/app.json
+6 verbose stack M skills/star-wars-quiz/B019G0TI52/README.md
+6 verbose stack M skills/star-wars-quiz/B019G0TI52/app.json
+6 verbose stack M skills/starlanes/B017OBOGTS/app.json
+6 verbose stack M skills/steely-dan-trivia-quiz/B01CXU7F4S/app.json
+6 verbose stack M skills/stock-exchange/B0186BC0LQ/app.json
+6 verbose stack M skills/stoneridgefood/B01AS5F902/app.json
+6 verbose stack M skills/stopwatch/B019DB6YNI/app.json
+6 verbose stack M skills/stringify/B01AHDN31M/app.json
+6 verbose stack M skills/stubhub/B017OBIKIG/README.md
+6 verbose stack M skills/stubhub/B017OBIKIG/app.json
+6 verbose stack M skills/superpower/B017OBSUK4/app.json
+6 verbose stack M skills/surfable/B01BO4QZCM/app.json
+6 verbose stack M skills/tdv-teen-dating-violence-quiz/B01AU0U74S/app.json
+6 verbose stack M skills/tea-trivia/B01C6BNM14/app.json
+6 verbose stack M skills/teacher-for-alexa/B017OBLLXW/app.json
+6 verbose stack M skills/techcrunch-news/B017OBRFDC/app.json
+6 verbose stack M skills/technology-buzzword-generator/B01BN1LYDG/app.json
+6 verbose stack M skills/tennis-matchmanager/B01BXCJA7C/README.md
+6 verbose stack M skills/tennis-matchmanager/B01BXCJA7C/app.json
+6 verbose stack M skills/the-art-of-war/B01CKNYLY0/app.json
+6 verbose stack M skills/the-bartender/B019D6LR8U/app.json
+6 verbose stack M skills/the-bible/B019S6O3LS/app.json
+6 verbose stack M skills/the-dog-feeder/B01AKT2H5G/app.json
+6 verbose stack M skills/the-dude/B01AB8XKC0/app.json
+6 verbose stack M skills/the-general/B01CE8IJKS/app.json
+6 verbose stack M skills/the-law/B01B7AHS8I/app.json
+6 verbose stack M skills/the-listeners/B019R2YB7Y/app.json
+6 verbose stack M skills/the-magic-door/B01BMUU6JQ/app.json
+6 verbose stack M skills/the-name-game-banana-fana/B017OBZR50/README.md
+6 verbose stack M skills/the-name-game-banana-fana/B017OBZR50/app.json
+6 verbose stack M skills/the-phish-trivia-game/B01C7X6SQW/app.json
+6 verbose stack M skills/the-rabbi/B018TEBWH8/app.json
+6 verbose stack M skills/the-scriptures/B01A637FE4/app.json
+6 verbose stack M skills/the-tube/B01BFQVO1G/app.json
+6 verbose stack M skills/the-tube/B01BLYQTV2/app.json
+6 verbose stack M skills/the-ultimate-hollywood-trivia/B01B5BVRD6/app.json
+6 verbose stack M skills/the-wayne-investigation/B01C9AX5VY/README.md
+6 verbose stack M skills/the-wayne-investigation/B01C9AX5VY/app.json
+6 verbose stack M skills/the-wizard/B018EX6O54/app.json
+6 verbose stack M skills/thermostat-controller/B01CJNVGYO/README.md
+6 verbose stack M skills/thermostat-controller/B01CJNVGYO/app.json
+6 verbose stack M skills/thermostat-for-echo/B01BZHHMLQ/app.json
+6 verbose stack M skills/thirteen/B01AYU88N6/app.json
+6 verbose stack M skills/tic-tac-toe/B01CHMTJSW/app.json
+6 verbose stack M skills/tide-pooler/B017OBZ7FU/app.json
+6 verbose stack M skills/tideguide/B01C3BJBJE/app.json
+6 verbose stack M skills/tip-of-your-tongue/B01A69PZI6/app.json
+6 verbose stack M skills/todays-astronomy-picture/B019R33WWS/app.json
+6 verbose stack M skills/todays-featured-on-product-hunt/B01A65ASNM/app.json
+6 verbose stack M skills/toon-goggles/B01CQ39TIC/app.json
+6 verbose stack M skills/toronto-transit/B01BCKSFR6/README.md
+6 verbose stack M skills/toronto-transit/B01BCKSFR6/app.json
+6 verbose stack M skills/tough-guy/B01A9GPHNE/app.json
+6 verbose stack M skills/toughguy/B019JEMB86/app.json
+6 verbose stack M skills/tournament-trivia/B01CKP79R4/app.json
+6 verbose stack M skills/trackers-election-odds/B01CP8HT94/app.json
+6 verbose stack M skills/trainer-tips/B01BFQ0M1Y/README.md
+6 verbose stack M skills/trainer-tips/B01BFQ0M1Y/app.json
+6 verbose stack M skills/translator-for-alexa/B017OC0DX0/app.json
+6 verbose stack M skills/trivia-about-old-school/B01C9JJ64U/app.json
+6 verbose stack M skills/trivia-alex/B017OBKC2I/README.md
+6 verbose stack M skills/trivia-alex/B017OBKC2I/app.json
+6 verbose stack M skills/trivia-challenge-us-history/B01B25D1CA/app.json
+6 verbose stack M skills/trivia-for-doctor-who/B01B79547Q/app.json
+6 verbose stack M skills/trivia-for-fans-of-superman/B01D289Y9Y/app.json
+6 verbose stack M skills/trivia-for-formula-one/B01COQN8Z6/app.json
+6 verbose stack M skills/trivia-for-the-simpsons/B01CE1X6LC/app.json
+6 verbose stack M skills/trivia-for-trump/B01CRGMF02/README.md
+6 verbose stack M skills/trivia-for-trump/B01CRGMF02/app.json
+6 verbose stack M skills/trivia-for-usaf/B01BKTYYVK/app.json
+6 verbose stack M skills/trivia-game-for-michigan-football/B019P7NNGG/app.json
+6 verbose stack M skills/trivia-japan/B01D3LZVIS/app.json
+6 verbose stack M skills/trivia-on-harry-potter/B01CY9TW9Y/app.json
+6 verbose stack M skills/trivia-quiz-for-manchester-city/B01B799G1Q/app.json
+6 verbose stack M skills/trivia-talk/B017OBVI7Q/app.json
+6 verbose stack M skills/trivia-with-friends/B01BO591EK/app.json
+6 verbose stack M skills/tube-status/B01BPRK6DC/app.json
+6 verbose stack M skills/tv-shows/B018EWAOOW/app.json
+6 verbose stack M skills/tweet-poll/B017OBUCJG/app.json
+6 verbose stack M skills/twenty-questions/B01C3CO48G/app.json
+6 verbose stack M skills/twister-spinner/B01C3A9MOO/README.md
+6 verbose stack M skills/twister-spinner/B01C3A9MOO/app.json
+6 verbose stack M skills/uber/B01AYJQ9QK/README.md
+6 verbose stack M skills/uber/B01AYJQ9QK/app.json
+6 verbose stack M skills/ubi-portal-voice-prototyping-tool/B01COYAUB8/app.json
+6 verbose stack M skills/uncleshakespeare/B01ABABWF0/app.json
+6 verbose stack M skills/united-states-naturalization-practice-quiz/B01CKCK4TW/app.json
+6 verbose stack M skills/usa-today/B01BZBJ5B2/app.json
+6 verbose stack M skills/use-the-force-trivia/B01BN11S7S/app.json
+6 verbose stack M skills/utterly-body-quiz/B01CE30RSK/app.json
+6 verbose stack M skills/vivintsmarthome/B01A6ACVD2/README.md
+6 verbose stack M skills/vivintsmarthome/B01A6ACVD2/app.json
+6 verbose stack M skills/wake-up-call/B01CRF003C/app.json
+6 verbose stack M skills/womens-underwear/B01BPIG5I6/app.json
+6 verbose stack M skills/woot/B01949MQ4U/app.json
+6 verbose stack M skills/yo-mama-jokes/B01BO41DLU/app.json
+6 verbose stack M skills/yo-momma-jokes/B019SDNNC6/app.json
+6 verbose stack M skills/zipcode/B01B1SGQFC/app.json
+6 verbose stack     at D:\Program Files\nodejs\node_modules\npm\lib\version.js:138:37
+6 verbose stack     at ChildProcess.exithandler (child_process.js:735:7)
+6 verbose stack     at ChildProcess.emit (events.js:110:17)
+6 verbose stack     at maybeClose (child_process.js:1008:16)
+6 verbose stack     at Socket.<anonymous> (child_process.js:1176:11)
+6 verbose stack     at Socket.emit (events.js:107:17)
+6 verbose stack     at Pipe.close (net.js:476:12)
+7 verbose cwd D:\Users\Dale\Dropbox\Projects\GitHub\alexa-skills-list
+8 error Windows_NT 6.1.7601
+9 error argv "D:\\Program Files\\nodejs\\\\node.exe" "D:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "version" "patch"
+10 error node v0.12.0
+11 error npm  v2.5.1
+12 error Git working directory not clean.
+12 error M README.md
+12 error M build.js
+12 error M skills.csv
+12 error M skills/1-2-3-math/B01AVQLZQ0/app.json
+12 error M skills/1-minute-mindfulness/B01BN1DYBQ/app.json
+12 error M skills/15-122-queue-times/B01CF059GM/app.json
+12 error M skills/21-dayz/B01B79Q5KQ/app.json
+12 error M skills/4afart/B019NU7L5O/app.json
+12 error M skills/7-minute-workout/B018WUNBE6/README.md
+12 error M skills/7-minute-workout/B018WUNBE6/app.json
+12 error M skills/7sigma/B01996D2XW/app.json
+12 error M skills/a-fans-trivia-about-the-san-francisco-giants/B01CE78A5S/app.json
+12 error M skills/a-yo-mama-joke/B01BLXRLDI/app.json
+12 error M skills/abra/B01AH90EAO/app.json
+12 error M skills/accuweather/B01A06BU8E/README.md
+12 error M skills/accuweather/B01A06BU8E/app.json
+12 error M skills/acoustic-metronome/B01B6UGXXK/app.json
+12 error M skills/admirer/B019HU8AMS/app.json
+12 error M skills/adventure/B01BG0V29U/app.json
+12 error M skills/age-calculator/B0189WBV3U/app.json
+12 error M skills/agog-reader/B019YOS8TM/app.json
+12 error M skills/all-knowing-eight-ball/B01D0JI7CA/app.json
+12 error M skills/amazing-word-master-game/B017OBSCOS/README.md
+12 error M skills/amazing-word-master-game/B017OBSCOS/app.json
+12 error M skills/angry-bard/B017OBNX7Y/app.json
+12 error M skills/animal-game/B017OBYNZU/app.json
+12 error M skills/animal-sounds/B01AHGU3M6/app.json
+12 error M skills/anymote-smart-remote/B018YICXQS/README.md
+12 error M skills/anymote-smart-remote/B018YICXQS/app.json
+12 error M skills/anythings/B01CZ3JZ7I/app.json
+12 error M skills/aol/B018MQKSTQ/README.md
+12 error M skills/aol/B018MQKSTQ/app.json
+12 error M skills/apollo-god-of-music/B018YKKWKK/app.json
+12 error M skills/applause/B01CSBIXWU/app.json
+12 error M skills/aprs/B01AVCIIQY/app.json
+12 error M skills/area-code/B01BO32DH4/app.json
+12 error M skills/ask-cloud-ninja/B01CXTNFUC/app.json
+12 error M skills/ask-daddy/B018F5RD8I/app.json
+12 error M skills/ask-earthquakes/B01AX7PVIK/app.json
+12 error M skills/ask-grandmom/B018F5OQ2Y/app.json
+12 error M skills/ask-my-buddy/B017YAF22Y/README.md
+12 error M skills/ask-my-buddy/B017YAF22Y/app.json
+12 error M skills/askabouttrump/B01BUKMHKY/README.md
+12 error M skills/askabouttrump/B01BUKMHKY/app.json
+12 error M skills/athan/B01BLWYA74/app.json
+12 error M skills/audio-goal/B019DAF4D0/app.json
+12 error M skills/automatic/B017OJL1IE/app.json
+12 error M skills/aviation-weather-brief/B01C67LF58/app.json
+12 error M skills/baby-lexi/B01CSJVGJE/app.json
+12 error M skills/baby-names/B01BO7TMK6/app.json
+12 error M skills/baby-stats/B01CJRUAF6/app.json
+12 error M skills/bart-status/B01BCU8QPW/app.json
+12 error M skills/bart-times/B017OBFKEI/app.json
+12 error M skills/baseball-archive/B01AL4WKJI/app.json
+12 error M skills/baseball-trivia-app/B01D1II83S/app.json
+12 error M skills/baseball-trivia/B01D1IC35C/app.json
+12 error M skills/basket-savings/B01BPT2U2U/app.json
+12 error M skills/batteryboot/B01BKYR0WK/app.json
+12 error M skills/bean-jar-family-rewards-system/B01AKXKPME/app.json
+12 error M skills/beat-cylinder/B01BUI8610/app.json
+12 error M skills/beat-the-dealer/B017OC122Q/app.json
+12 error M skills/beer-trivia/B01BZGJEOK/app.json
+12 error M skills/best-picture-oscars-the-last-30-years/B01C9E2H2I/app.json
+12 error M skills/bf-helper/B01BFUIPCS/app.json
+12 error M skills/bible/B017RXFNKY/README.md
+12 error M skills/bible/B017RXFNKY/app.json
+12 error M skills/big-game-ultimate-trivia-quiz/B01BFSF9AG/app.json
+12 error M skills/bingo/B017OBN1FI/app.json
+12 error M skills/biorhythm/B018YJUQ3Y/app.json
+12 error M skills/bitcoin-price-checker/B017OC1OH4/app.json
+12 error M skills/bitcoin-price/B017OBUWP0/app.json
+12 error M skills/bitcoin-rate/B017O9O8OS/app.json
+12 error M skills/block-world-trivia/B01BKXW094/app.json
+12 error M skills/board-gamer/B01D39I76I/app.json
+12 error M skills/boat-war/B01D4O5CO2/app.json
+12 error M skills/boo/B01CSCMSIE/app.json
+12 error M skills/booze-trivia/B019X2TMOA/app.json
+12 error M skills/boston-transit/B01CDLJ3CO/README.md
+12 error M skills/boston-transit/B01CDLJ3CO/app.json
+12 error M skills/bubble-boy/B01C7XCJM4/README.md
+12 error M skills/bubble-boy/B01C7XCJM4/app.json
+12 error M skills/buddy-for-destiny/B0194A8AK8/README.md
+12 error M skills/buddy-for-destiny/B0194A8AK8/app.json
+12 error M skills/bulls-and-cows-game/B01AH2Q7T8/app.json
+12 error M skills/calculator/B01ASDX8QG/app.json
+12 error M skills/call-sign/B0197GDSL0/app.json
+12 error M skills/campbells-kitchen/B017OBWHCQ/README.md
+12 error M skills/campbells-kitchen/B017OBWHCQ/app.json
+12 error M skills/capital-one/B01CTJ1XY6/README.md
+12 error M skills/capital-one/B01CTJ1XY6/app.json
+12 error M skills/capital-quiz/B019YP4I9U/app.json
+12 error M skills/cat-facts/B017OBJI46/app.json
+12 error M skills/cat-raiser/B019NWDIAO/app.json
+12 error M skills/catfactstrivia/B01D4CM27O/app.json
+12 error M skills/cheerlights/B01BFXE0RO/README.md
+12 error M skills/cheerlights/B01BFXE0RO/app.json
+12 error M skills/childrens-bible-quiz/B01C7XIJ82/app.json
+12 error M skills/christmas-caroler/B019YJIY4G/app.json
+12 error M skills/christophers-airplane-trivia/B01CE4JDSE/app.json
+12 error M skills/code-phrase-generator/B01C6A6S20/app.json
+12 error M skills/college-basketball-tournament-trivia/B01CYEOI0C/app.json
+12 error M skills/combat/B01AKFXFYC/app.json
+12 error M skills/complibot/B01AVKM8NU/app.json
+12 error M skills/computer-science/B01CQU57JU/app.json
+12 error M skills/conductor/B01C9KTH5M/app.json
+12 error M skills/conversation-starter/B019WZ4572/app.json
+12 error M skills/convrge/B01AYLDILW/app.json
+12 error M skills/cookbook/B01BZ7TO5S/app.json
+12 error M skills/covisint-trivia/B01AOEPC0O/app.json
+12 error M skills/craft-helper/B017OBTQAC/app.json
+12 error M skills/cricket-quiz/B01BFV8EIM/app.json
+12 error M skills/cricket-quiz/B01D0ISSL6/app.json
+12 error M skills/cricket-quiz/B01D4EF2VU/app.json
+12 error M skills/crocodile-finder/B01CZWI6OM/app.json
+12 error M skills/cryptocurrency/B01BPSQ860/app.json
+12 error M skills/crystal-ball/B017OBKT2Q/app.json
+12 error M skills/currency-converter/B01AWXQTMW/app.json
+12 error M skills/daily-affirmation/B019YOO6R0/app.json
+12 error M skills/daily-bootcamping-thought/B01D2XLNX4/app.json
+12 error M skills/daily-word/B017VAOYN0/README.md
+12 error M skills/daily-word/B017VAOYN0/app.json
+12 error M skills/dc-metro/B0184JBP4I/app.json
+12 error M skills/dc-tech-cal/B01C9LRW76/app.json
+12 error M skills/demotivate-me/B018EVHE28/app.json
+12 error M skills/dice-bag/B01A7GLAUU/app.json
+12 error M skills/dino-trivia/B01BOAU93C/app.json
+12 error M skills/dog-facts/B0193ZD0EU/app.json
+12 error M skills/dogecoin/B01AXCJPUU/app.json
+12 error M skills/domain-name-info/B019R06W5A/app.json
+12 error M skills/dominos-pizza/B01B5G99CC/README.md
+12 error M skills/dominos-pizza/B01B5G99CC/app.json
+12 error M skills/drinkboy/B01C9JQFFI/app.json
+12 error M skills/drive-time/B01995S7QU/app.json
+12 error M skills/drop-some-knowledge/B01C65GSIE/app.json
+12 error M skills/easter-trivia/B01CFWWCEC/app.json
+12 error M skills/edgar-facts/B017OB648E/app.json
+12 error M skills/egr-lunch-bot/B01B3PU7UI/app.json
+12 error M skills/elf-trivia/B019NZJQUM/app.json
+12 error M skills/eliza/B0184NR4P8/README.md
+12 error M skills/eliza/B0184NR4P8/app.json
+12 error M skills/elle-horoscopes-by-the-astro-twins/B019J1T6AU/README.md
+12 error M skills/elle-horoscopes-by-the-astro-twins/B019J1T6AU/app.json
+12 error M skills/email-assistant/B01BW5A4EI/README.md
+12 error M skills/email-assistant/B01BW5A4EI/app.json
+12 error M skills/esports-ticker/B01BCIXI1Q/app.json
+12 error M skills/essential-trivia/B01B1U8ZLS/app.json
+12 error M skills/event-guide/B017OARA8I/app.json
+12 error M skills/famous-quotes/B017OBQQ7I/app.json
+12 error M skills/fantasy-football/B017OBGRKY/app.json
+12 error M skills/fidelity-investments/B019ZY1ECY/app.json
+12 error M skills/fin/B01D5B7R7Y/app.json
+12 error M skills/firstaidegghead/B01COSUL7C/app.json
+12 error M skills/fitbit/B01CH4BP28/README.md
+12 error M skills/fitbit/B01CH4BP28/app.json
+12 error M skills/five-card-draw/B01BW5JI0O/app.json
+12 error M skills/flightsearch/B01C64OJXQ/app.json
+12 error M skills/focus-word/B017OBMC1M/app.json
+12 error M skills/football-trivia/B01B5BPOI0/app.json
+12 error M skills/for-a-knock-knock-joke/B01CRB2STK/app.json
+12 error M skills/for-the-loft-cinema/B01BH5Y59S/app.json
+12 error M skills/fortune-cookie/B019HT7AWU/app.json
+12 error M skills/fortune/B01A1HZKM4/app.json
+12 error M skills/founding-father-quotes/B019R3AETW/app.json
+12 error M skills/freebusy-scheduling-buddy/B017OBE2NI/app.json
+12 error M skills/freedom-quotes/B019PLYQ1S/app.json
+12 error M skills/frontend-quiz/B01COZ3HO4/app.json
+12 error M skills/game-dice/B019JLD4MG/app.json
+12 error M skills/garageio/B017OBI3AQ/app.json
+12 error M skills/geek-games/B01C9HRQIK/app.json
+12 error M skills/geek-trivia/B01C9K7JBG/README.md
+12 error M skills/geek-trivia/B01C9K7JBG/app.json
+12 error M skills/giant-spoon/B01CY5R5LA/app.json
+12 error M skills/glados-quotes/B018YKD1T4/app.json
+12 error M skills/globetrotter-trivia/B01D4PVFXS/app.json
+12 error M skills/glympse/B019X6M400/README.md
+12 error M skills/glympse/B019X6M400/app.json
+12 error M skills/gold-bug/B01BPSVFD6/app.json
+12 error M skills/good-samaritan/B01CGUZNA8/README.md
+12 error M skills/good-samaritan/B01CGUZNA8/app.json
+12 error M skills/greatest-common-divisor-gcd/B01COTHDSG/app.json
+12 error M skills/gridiron-trivia/B01BOB3HO4/app.json
+12 error M skills/guess-the-number/B017OBP6O2/app.json
+12 error M skills/guide-for-ark/B018F2YPL4/app.json
+12 error M skills/guitar-tuner/B019D5T3O6/app.json
+12 error M skills/hacker-news-stories/B01BN2UWUG/app.json
+12 error M skills/hacker-news/B01BKVO2II/app.json
+12 error M skills/hacking-history-trivia/B01AU0OEY2/app.json
+12 error M skills/haiku/B018J5EYFE/app.json
+12 error M skills/hanker/B01A9FDQL0/app.json
+12 error M skills/happy-birthday/B01BH31OZI/app.json
+12 error M skills/haunted-house/B01D37YLXI/app.json
+12 error M skills/hawkbus/B01AMRXDYA/app.json
+12 error M skills/hebcal/B01BMWLJ2W/app.json
+12 error M skills/hey-dad-dad-jokes/B01BUB8OSM/app.json
+12 error M skills/high-low-guessing-game/B017OBNE6O/README.md
+12 error M skills/high-low-guessing-game/B017OBNE6O/app.json
+12 error M skills/homeseer-home-automation-skill/B018YLP9HK/README.md
+12 error M skills/homeseer-home-automation-skill/B018YLP9HK/app.json
+12 error M skills/house-band/B01ATZM6N4/app.json
+12 error M skills/huffpost/B018WNJQ74/README.md
+12 error M skills/huffpost/B018WNJQ74/app.json
+12 error M skills/impossibly-hard-major-league-baseball-quiz/B019YPG1AO/app.json
+12 error M skills/indianfacts/B01B5ALQ24/app.json
+12 error M skills/innkeeper-emotes-for-hearthstone/B018F2ARR0/app.json
+12 error M skills/insultibot/B01AVKAZ94/app.json
+12 error M skills/insults/B01CSJ4FTM/app.json
+12 error M skills/iris/B01BFQ95QW/README.md
+12 error M skills/iris/B01BFQ95QW/app.json
+12 error M skills/iss-sighter/B01CCHJXC4/app.json
+12 error M skills/isy/B019719XOQ/app.json
+12 error M skills/itil-foundation-quiz/B01BFYLGD4/app.json
+12 error M skills/javascript-quiz/B01B5EHA4I/app.json
+12 error M skills/jazz-trivia/B01C7XTYR2/app.json
+12 error M skills/jeopardy-j6/B019G0M2WS/README.md
+12 error M skills/jeopardy-j6/B019G0M2WS/app.json
+12 error M skills/jim-rockfords-answering-machine/B01D26NANC/README.md
+12 error M skills/jim-rockfords-answering-machine/B01D26NANC/app.json
+12 error M skills/jokes-computer-science-jokes/B01C3DHATA/app.json
+12 error M skills/kasa/B017OBNR1G/README.md
+12 error M skills/kasa/B017OBNR1G/app.json
+12 error M skills/kcrw-on-air/B01AYL0KUY/app.json
+12 error M skills/knock-knock-jokes/B017OBL60U/app.json
+12 error M skills/l-train/B019YQ846M/app.json
+12 error M skills/laugh-box/B01A04863S/app.json
+12 error M skills/lets-multiply/B01BXAMWN8/app.json
+12 error M skills/lifx/B017O9P72A/app.json
+12 error M skills/lizard-spock/B01D304GY4/README.md
+12 error M skills/lizard-spock/B01D304GY4/app.json
+12 error M skills/long-island-train-information/B01CJPJRDE/app.json
+12 error M skills/long-weekend-info/B018J48DXE/app.json
+12 error M skills/lotto-now/B01A69DP2Y/app.json
+12 error M skills/lyrical/B01BUAI7GM/app.json
+12 error M skills/magic-8-ball/B018YIL6JI/app.json
+12 error M skills/magic-eight-ball/B01AX28W7M/app.json
+12 error M skills/malayala-manorama/B01D28TLRY/app.json
+12 error M skills/market-news/B01BMRJUU0/app.json
+12 error M skills/math-kata/B018UWJO10/app.json
+12 error M skills/math-mania/B019DA09YE/app.json
+12 error M skills/math-puzzles/B017OBEP6M/app.json
+12 error M skills/math-tutor/B017OBJZ9E/app.json
+12 error M skills/mbta-alerts/B01D30TK7W/app.json
+12 error M skills/memory-master/B01B5BXC52/app.json
+12 error M skills/memorychallenge/B01BH1URE4/README.md
+12 error M skills/memorychallenge/B01BH1URE4/app.json
+12 error M skills/meteor-showers/B01B1WMJ9K/app.json
+12 error M skills/mid-century-designer-trivia/B01D31TJ2C/app.json
+12 error M skills/milo/B01CP6PFLK/app.json
+12 error M skills/mirror-mirror-on-the-wall/B017OBQBIC/app.json
+12 error M skills/mirror-mirror/B01B3R17S2/app.json
+12 error M skills/missouri-football-trivia/B01BH4QK60/app.json
+12 error M skills/mixpo-executive-app/B01BH1QJL4/app.json
+12 error M skills/mobilinc/B01BKSHOA4/app.json
+12 error M skills/mojio/B0192NS6VU/app.json
+12 error M skills/mosaic/B01CDF6972/app.json
+12 error M skills/mother-goose-for-nest/B01CO7QRZS/app.json
+12 error M skills/motoquote/B01AVSBJX2/app.json
+12 error M skills/movie-info/B01BKVNMM0/app.json
+12 error M skills/movie-quotes-trivia-game/B017OBWZU0/app.json
+12 error M skills/mr-junky-food/B01BKT64QI/app.json
+12 error M skills/multiplication-challenge/B01CZM0U5U/app.json
+12 error M skills/music-jokes/B01CFXBVQ6/app.json
+12 error M skills/music-quiz/B01BFPCXGW/app.json
+12 error M skills/music-trivia/B01CEA1VHO/app.json
+12 error M skills/musical-instrument-trivia/B01CCLYHMQ/app.json
+12 error M skills/musixmatch-lyrics/B01C8PIQH8/app.json
+12 error M skills/muzzley/B01CKGPA06/README.md
+12 error M skills/muzzley/B01CKGPA06/app.json
+12 error M skills/my-bmi/B01CH04AGK/app.json
+12 error M skills/my-dermatologist/B01AX1WQC0/app.json
+12 error M skills/mydlink-home/B01BL06CC2/README.md
+12 error M skills/mydlink-home/B01BL06CC2/app.json
+12 error M skills/mymessages/B01AYD7R4E/app.json
+12 error M skills/mystery-castle/B01BUJ7R9G/app.json
+12 error M skills/name-nerd/B01D1NNBFS/app.json
+12 error M skills/nbc-news/B01C7SGG3M/app.json
+12 error M skills/news-by-linkboard/B018FCGE18/app.json
+12 error M skills/nikola-tesla-trivia/B01C9GR7YY/app.json
+12 error M skills/north-carolina-trivia/B01CQ255T0/app.json
+12 error M skills/northern-lights-forecast/B01A7OE2BG/app.json
+12 error M skills/nyc-subway-status/B01A1GTOE0/app.json
+12 error M skills/nyc-transit/B01AOC5FIA/app.json
+12 error M skills/ooma-calling/B019YJAFPM/app.json
+12 error M skills/ourgroceries/B01D4F1J0M/README.md
+12 error M skills/ourgroceries/B01D4F1J0M/app.json
+12 error M skills/perfect-pitch/B019HTWWW8/app.json
+12 error M skills/phone-finder-for-alexa/B0194CJ63Q/app.json
+12 error M skills/physics-quiz/B01CRMMSJ4/app.json
+12 error M skills/pi-day/B01CSIVR62/app.json
+12 error M skills/pickup-lines/B01BUIBT8M/README.md
+12 error M skills/pickup-lines/B01BUIBT8M/app.json
+12 error M skills/pipe-organ-trivia-game/B01C6BGOHS/app.json
+12 error M skills/pizzafacts/B01D58K4WC/app.json
+12 error M skills/portal2-fact-core/B017OBRW5S/app.json
+12 error M skills/power-ball/B01AYEFTKM/app.json
+12 error M skills/powerball-number-generator/B01BW6HHJC/app.json
+12 error M skills/powerball-numbers/B01BL1CAVI/app.json
+12 error M skills/powerball-numbers/B01C7URPZS/app.json
+12 error M skills/powerball/B01B1VD98G/app.json
+12 error M skills/president-picker/B01CE5JOJQ/app.json
+12 error M skills/presidential-trivia/B01BFQCEDS/app.json
+12 error M skills/presidential-trivia/B01BO66EM6/app.json
+12 error M skills/prime-numbers/B01D0HZVZS/app.json
+12 error M skills/project-quiz/B01C6DTKDG/app.json
+12 error M skills/pronunciations/B0197E9NX4/app.json
+12 error M skills/pug-bomb/B019NTLQM4/app.json
+12 error M skills/puget-sound/B01CQ14KNI/README.md
+12 error M skills/puget-sound/B01CQ14KNI/app.json
+12 error M skills/qrz/B01C4M3FX0/app.json
+12 error M skills/quick-check-quiz/B01AOB3J2U/app.json
+12 error M skills/quick-events/B017YBAFW0/app.json
+12 error M skills/quiz-on-harry-potter/B01C7XOF62/app.json
+12 error M skills/quote-me/B017OBY36E/app.json
+12 error M skills/quoter/B0195QP20M/app.json
+12 error M skills/qvine/B019R0JRDE/app.json
+12 error M skills/rachio/B01AIZVCGW/README.md
+12 error M skills/rachio/B01AIZVCGW/app.json
+12 error M skills/random-number/B01AB0IK96/app.json
+12 error M skills/randomizer/B01BXEZPKQ/app.json
+12 error M skills/reflect-connect/B01BIKSNMW/README.md
+12 error M skills/reflect-connect/B01BIKSNMW/app.json
+12 error M skills/reindeer-games/B019ERI2PE/app.json
+12 error M skills/relationary/B01CKI96DG/README.md
+12 error M skills/relationary/B01CKI96DG/app.json
+12 error M skills/resistor-decoder/B019YGPC1M/app.json
+12 error M skills/rhymezone/B01BMV3BS8/app.json
+12 error M skills/ricks-school-tools-state-capitals/B01C7XXGBW/app.json
+12 error M skills/rock-paper-scissors-lizard-spock/B01BI9JO1W/app.json
+12 error M skills/roddenberrys-trek-quotes/B01C3DUMYA/app.json
+12 error M skills/sage-of-elements/B01BPK2NBW/app.json
+12 error M skills/santas-helper/B019HUS30M/README.md
+12 error M skills/santas-helper/B019HUS30M/app.json
+12 error M skills/sassy-persona/B018MVOE4G/app.json
+12 error M skills/satoshis-bitcoin-quote/B017OBVZ74/app.json
+12 error M skills/science-trivia-game/B01CDOOAD8/app.json
+12 error M skills/sciguy/B01B290WVY/app.json
+12 error M skills/scout-alarm/B017OBHGZO/app.json
+12 error M skills/seattle-transit/B01BLYBPBQ/app.json
+12 error M skills/sheep-count/B01COCCKW2/app.json
+12 error M skills/shower-thoughts/B017OBXIEC/app.json
+12 error M skills/silly-winnie/B01CJU8G0E/app.json
+12 error M skills/simple-control/B019QRFDTA/app.json
+12 error M skills/skybell/B01BLWJ1Q4/README.md
+12 error M skills/skybell/B01BLWJ1Q4/app.json
+12 error M skills/skyscanner-flight-search/B01AS6Q8II/app.json
+12 error M skills/space-trivia-questions/B01CPB5IVC/app.json
+12 error M skills/space-trivia/B01BLUPQEC/app.json
+12 error M skills/space-weather/B018YJ6TIK/app.json
+12 error M skills/spammy/B0189X85NI/README.md
+12 error M skills/spammy/B0189X85NI/app.json
+12 error M skills/spanish/B01CPBFDH6/app.json
+12 error M skills/spelling-bee/B01CQTR8CU/app.json
+12 error M skills/star-fish-uk/B01CZYUPCQ/app.json
+12 error M skills/star-wars-quiz/B019G0TI52/README.md
+12 error M skills/star-wars-quiz/B019G0TI52/app.json
+12 error M skills/starlanes/B017OBOGTS/app.json
+12 error M skills/steely-dan-trivia-quiz/B01CXU7F4S/app.json
+12 error M skills/stock-exchange/B0186BC0LQ/app.json
+12 error M skills/stoneridgefood/B01AS5F902/app.json
+12 error M skills/stopwatch/B019DB6YNI/app.json
+12 error M skills/stringify/B01AHDN31M/app.json
+12 error M skills/stubhub/B017OBIKIG/README.md
+12 error M skills/stubhub/B017OBIKIG/app.json
+12 error M skills/superpower/B017OBSUK4/app.json
+12 error M skills/surfable/B01BO4QZCM/app.json
+12 error M skills/tdv-teen-dating-violence-quiz/B01AU0U74S/app.json
+12 error M skills/tea-trivia/B01C6BNM14/app.json
+12 error M skills/teacher-for-alexa/B017OBLLXW/app.json
+12 error M skills/techcrunch-news/B017OBRFDC/app.json
+12 error M skills/technology-buzzword-generator/B01BN1LYDG/app.json
+12 error M skills/tennis-matchmanager/B01BXCJA7C/README.md
+12 error M skills/tennis-matchmanager/B01BXCJA7C/app.json
+12 error M skills/the-art-of-war/B01CKNYLY0/app.json
+12 error M skills/the-bartender/B019D6LR8U/app.json
+12 error M skills/the-bible/B019S6O3LS/app.json
+12 error M skills/the-dog-feeder/B01AKT2H5G/app.json
+12 error M skills/the-dude/B01AB8XKC0/app.json
+12 error M skills/the-general/B01CE8IJKS/app.json
+12 error M skills/the-law/B01B7AHS8I/app.json
+12 error M skills/the-listeners/B019R2YB7Y/app.json
+12 error M skills/the-magic-door/B01BMUU6JQ/app.json
+12 error M skills/the-name-game-banana-fana/B017OBZR50/README.md
+12 error M skills/the-name-game-banana-fana/B017OBZR50/app.json
+12 error M skills/the-phish-trivia-game/B01C7X6SQW/app.json
+12 error M skills/the-rabbi/B018TEBWH8/app.json
+12 error M skills/the-scriptures/B01A637FE4/app.json
+12 error M skills/the-tube/B01BFQVO1G/app.json
+12 error M skills/the-tube/B01BLYQTV2/app.json
+12 error M skills/the-ultimate-hollywood-trivia/B01B5BVRD6/app.json
+12 error M skills/the-wayne-investigation/B01C9AX5VY/README.md
+12 error M skills/the-wayne-investigation/B01C9AX5VY/app.json
+12 error M skills/the-wizard/B018EX6O54/app.json
+12 error M skills/thermostat-controller/B01CJNVGYO/README.md
+12 error M skills/thermostat-controller/B01CJNVGYO/app.json
+12 error M skills/thermostat-for-echo/B01BZHHMLQ/app.json
+12 error M skills/thirteen/B01AYU88N6/app.json
+12 error M skills/tic-tac-toe/B01CHMTJSW/app.json
+12 error M skills/tide-pooler/B017OBZ7FU/app.json
+12 error M skills/tideguide/B01C3BJBJE/app.json
+12 error M skills/tip-of-your-tongue/B01A69PZI6/app.json
+12 error M skills/todays-astronomy-picture/B019R33WWS/app.json
+12 error M skills/todays-featured-on-product-hunt/B01A65ASNM/app.json
+12 error M skills/toon-goggles/B01CQ39TIC/app.json
+12 error M skills/toronto-transit/B01BCKSFR6/README.md
+12 error M skills/toronto-transit/B01BCKSFR6/app.json
+12 error M skills/tough-guy/B01A9GPHNE/app.json
+12 error M skills/toughguy/B019JEMB86/app.json
+12 error M skills/tournament-trivia/B01CKP79R4/app.json
+12 error M skills/trackers-election-odds/B01CP8HT94/app.json
+12 error M skills/trainer-tips/B01BFQ0M1Y/README.md
+12 error M skills/trainer-tips/B01BFQ0M1Y/app.json
+12 error M skills/translator-for-alexa/B017OC0DX0/app.json
+12 error M skills/trivia-about-old-school/B01C9JJ64U/app.json
+12 error M skills/trivia-alex/B017OBKC2I/README.md
+12 error M skills/trivia-alex/B017OBKC2I/app.json
+12 error M skills/trivia-challenge-us-history/B01B25D1CA/app.json
+12 error M skills/trivia-for-doctor-who/B01B79547Q/app.json
+12 error M skills/trivia-for-fans-of-superman/B01D289Y9Y/app.json
+12 error M skills/trivia-for-formula-one/B01COQN8Z6/app.json
+12 error M skills/trivia-for-the-simpsons/B01CE1X6LC/app.json
+12 error M skills/trivia-for-trump/B01CRGMF02/README.md
+12 error M skills/trivia-for-trump/B01CRGMF02/app.json
+12 error M skills/trivia-for-usaf/B01BKTYYVK/app.json
+12 error M skills/trivia-game-for-michigan-football/B019P7NNGG/app.json
+12 error M skills/trivia-japan/B01D3LZVIS/app.json
+12 error M skills/trivia-on-harry-potter/B01CY9TW9Y/app.json
+12 error M skills/trivia-quiz-for-manchester-city/B01B799G1Q/app.json
+12 error M skills/trivia-talk/B017OBVI7Q/app.json
+12 error M skills/trivia-with-friends/B01BO591EK/app.json
+12 error M skills/tube-status/B01BPRK6DC/app.json
+12 error M skills/tv-shows/B018EWAOOW/app.json
+12 error M skills/tweet-poll/B017OBUCJG/app.json
+12 error M skills/twenty-questions/B01C3CO48G/app.json
+12 error M skills/twister-spinner/B01C3A9MOO/README.md
+12 error M skills/twister-spinner/B01C3A9MOO/app.json
+12 error M skills/uber/B01AYJQ9QK/README.md
+12 error M skills/uber/B01AYJQ9QK/app.json
+12 error M skills/ubi-portal-voice-prototyping-tool/B01COYAUB8/app.json
+12 error M skills/uncleshakespeare/B01ABABWF0/app.json
+12 error M skills/united-states-naturalization-practice-quiz/B01CKCK4TW/app.json
+12 error M skills/usa-today/B01BZBJ5B2/app.json
+12 error M skills/use-the-force-trivia/B01BN11S7S/app.json
+12 error M skills/utterly-body-quiz/B01CE30RSK/app.json
+12 error M skills/vivintsmarthome/B01A6ACVD2/README.md
+12 error M skills/vivintsmarthome/B01A6ACVD2/app.json
+12 error M skills/wake-up-call/B01CRF003C/app.json
+12 error M skills/womens-underwear/B01BPIG5I6/app.json
+12 error M skills/woot/B01949MQ4U/app.json
+12 error M skills/yo-mama-jokes/B01BO41DLU/app.json
+12 error M skills/yo-momma-jokes/B019SDNNC6/app.json
+12 error M skills/zipcode/B01B1SGQFC/app.json
+13 error If you need help, you may report this error at:
+13 error     <http://github.com/npm/npm/issues>
+14 verbose exit [ 1, true ]
