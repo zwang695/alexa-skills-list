@@ -22,5 +22,3 @@ The ToughGuy is will tell you a variety, of nerd-related Chuck Norris jokes. If 
 * **Author:** Cornerstone Software Creations LLC
 * **First Release Date:** 2015-12-18 22:49:08
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

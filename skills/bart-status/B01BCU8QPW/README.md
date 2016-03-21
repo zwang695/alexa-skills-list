@@ -18,5 +18,3 @@ BART Status gets current service advisories from the official BART website.
 * **Author:** Tapgods
 * **First Release Date:** 2016-02-01 23:36:41
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

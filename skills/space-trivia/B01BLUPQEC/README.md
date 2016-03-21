@@ -32,5 +32,3 @@ More questions being added routinely!
 * **Author:** Tiny Starship
 * **First Release Date:** 2016-02-09 21:34:08
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

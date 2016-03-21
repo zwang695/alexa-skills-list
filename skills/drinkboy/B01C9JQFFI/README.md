@@ -26,5 +26,3 @@ NOTE: This skill provides details on how to make alcoholic drinks, and is not in
 * **Author:** Ravenwood
 * **First Release Date:** 2016-02-26 23:50:07
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

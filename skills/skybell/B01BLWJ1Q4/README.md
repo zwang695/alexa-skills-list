@@ -25,5 +25,3 @@ Now you can control your SkyBell HD video doorbell with Alexa and the Amazon Ech
 * **Terms of Use:** http://www.skybell.com/pages/legal
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

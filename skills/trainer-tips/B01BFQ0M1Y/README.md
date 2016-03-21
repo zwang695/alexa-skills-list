@@ -24,5 +24,3 @@ You can also ask for a random Trainer Tip - to submit ideas, Tweet with the hash
 * **Author:** Programplatz
 * **First Release Date:** 2016-02-03 20:26:02
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

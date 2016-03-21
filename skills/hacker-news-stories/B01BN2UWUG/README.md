@@ -24,5 +24,3 @@ You can ask Alexa for Hacker News stories from the following categories: top, sh
 * **Author:** Same Difference Games
 * **First Release Date:** 2016-02-11 00:33:26
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -31,5 +31,3 @@ This skill works for every L train stop in New York City, including Brooklyn and
 * **First Release Date:** 2015-12-30 00:40:51
 * **Privacy Policy:** http://nmercer.github.io/TheLTrainPrivacyPolicy/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

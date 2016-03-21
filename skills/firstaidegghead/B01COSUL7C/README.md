@@ -25,5 +25,3 @@ you need to deal with minor emergencies such as cuts, scrapes, nosebleeds, and m
 * **Privacy Policy:** http://myEggheads.com
 * **Terms of Use:** http://myEggheads.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

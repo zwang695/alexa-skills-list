@@ -22,5 +22,3 @@ To use the Lizard Spock skill, try saying...
 * **Author:** Mobiquity Inc.
 * **First Release Date:** 2016-03-17 09:56:27
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

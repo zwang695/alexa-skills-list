@@ -22,5 +22,3 @@ Ask Alexa whats for lunch today, or at some day in the future at East Grand Rapi
 * **Author:** Brian Miller Web Design LLC
 * **First Release Date:** 2016-01-26 23:23:40
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

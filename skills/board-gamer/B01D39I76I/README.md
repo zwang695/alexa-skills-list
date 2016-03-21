@@ -43,5 +43,3 @@ Ask Board Gamer to tell you the size of your BGG game collection by saying:
 * **Author:** CHH
 * **First Release Date:** 2016-03-17 13:26:16
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

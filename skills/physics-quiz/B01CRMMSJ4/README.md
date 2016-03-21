@@ -22,5 +22,3 @@ Test basic understanding of everyday physics. The things you touch, see or perce
 * **Author:** Kids game area
 * **First Release Date:** 2016-03-10 00:58:26
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

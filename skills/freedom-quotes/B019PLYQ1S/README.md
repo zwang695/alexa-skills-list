@@ -22,5 +22,3 @@ Start your day inspired with a collection of over 200 freedom-themed quotes from
 * **Author:** Liberty Crate
 * **First Release Date:** 2015-12-23 01:16:40
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

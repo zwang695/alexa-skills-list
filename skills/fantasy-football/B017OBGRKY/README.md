@@ -24,5 +24,3 @@ Retrieve fantasy football news and player updates on the Top 300 players directl
 * **Privacy Policy:** http://www.fantasyfootballnerd.com/privacy
 * **Terms of Use:** http://www.fantasyfootballnerd.com/terms
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

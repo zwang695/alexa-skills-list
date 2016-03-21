@@ -36,5 +36,3 @@ There is no limit to the amount of players.
 * **Author:** Matthew Okamoto
 * **First Release Date:** 2016-01-05 00:55:38
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

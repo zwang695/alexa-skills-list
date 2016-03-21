@@ -39,5 +39,3 @@ For more information regarding the use of this skill as well as troubleshooting 
 * **Terms of Use:** https://www.reflectconnectapp.com/termsofservice
 * **Account Linking Domains:** dev.reflectconnectapp.com, home.nest.com, api.home.nest.com, www.reflectconnectapp.com, reflectconnectapp.com
 * **In-App Purchasing:** Yes
-
-*This page was last updated 2016-03-20 21:59:45*

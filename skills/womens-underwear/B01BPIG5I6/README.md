@@ -22,5 +22,3 @@ Ask Alexa to calculate your bra size. She will ask your band and bust size. If y
 * **Author:** Menocal Apps
 * **First Release Date:** 2016-02-12 19:56:02
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

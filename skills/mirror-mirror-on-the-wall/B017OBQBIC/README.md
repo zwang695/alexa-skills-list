@@ -26,5 +26,3 @@ If you ever feel like you need a little pick me up then you need your own magic 
 * **Author:** Possibility Outpost
 * **First Release Date:** 2015-11-06 20:14:50
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -24,5 +24,3 @@ Math Puzzles is a fun and easy way to challenge yourself and your friends. You'r
 * **Author:** Speech-Ninja
 * **First Release Date:** 2015-12-14 21:33:09
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

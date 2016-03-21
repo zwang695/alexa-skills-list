@@ -26,5 +26,3 @@ Battery Boot Base for Amazon Echo
 * **Author:** Koozie LLC
 * **First Release Date:** 2016-02-08 22:58:41
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

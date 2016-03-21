@@ -22,5 +22,3 @@ This skill will help people learn some fun new facts about Japan. Just say "Alex
 * **Author:** Kyle Crombie
 * **First Release Date:** 2016-03-17 18:06:18
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

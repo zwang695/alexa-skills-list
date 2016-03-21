@@ -18,5 +18,3 @@ Shower Thoughts are itty-bitty witty bite-sized clever thoughts. This is a skill
 * **Author:** BugBen.com
 * **First Release Date:** 2015-11-06 20:19:14
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

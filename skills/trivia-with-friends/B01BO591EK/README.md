@@ -20,5 +20,3 @@ If you play America's Pub Quiz trivia in Madison, WI... you always want to get t
 * **Author:** Bachelor Pad Development
 * **First Release Date:** 2016-02-11 21:25:05
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

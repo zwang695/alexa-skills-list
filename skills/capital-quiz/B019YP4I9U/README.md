@@ -24,5 +24,3 @@ Now you can take your time learning a few capitals a day, because the latest ver
 * **Author:** Futurose LLC
 * **First Release Date:** 2015-12-30 00:02:24
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

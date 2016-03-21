@@ -22,5 +22,3 @@ Test your knowledge of the men's college basketball tournament!  Think you are s
 * **Author:** GYoungApps
 * **First Release Date:** 2016-03-14 11:55:15
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

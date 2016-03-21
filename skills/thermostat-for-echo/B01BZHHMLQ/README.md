@@ -39,5 +39,3 @@ www.thermostatforecho.com/privacyPolicy.php
 * **Privacy Policy:** https://www.thermostatforecho.com/privacyPolicy.php
 * **Account Linking Domains:** thermostatforecho.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

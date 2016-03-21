@@ -27,5 +27,3 @@ Be sure to take try the quiz often as new questions will be added routinely!
 * **First Release Date:** 2016-02-03 23:29:12
 * **Terms of Use:** http://tonymoreira.com/alexa-itil-foundation-quiz/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

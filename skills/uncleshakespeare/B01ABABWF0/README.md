@@ -29,5 +29,3 @@ Thanks for trying the skill.
 * **Author:** IzzoWorks
 * **First Release Date:** 2016-01-08 02:15:40
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

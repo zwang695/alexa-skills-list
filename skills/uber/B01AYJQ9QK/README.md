@@ -34,5 +34,3 @@ You can also ask for a ride status, or cancel your ride.
 * **Account Linking Domains:** facebook.com, uber.com, get.uber.com, m.facebook.com, connect.facebook.net, d1a3f4spazzrp4.cloudfront.net
 * **In-App Purchasing:** No
 * **Permissions:** ACCESS_DEVICE_ADDRESS
-
-*This page was last updated 2016-03-20 21:59:45*

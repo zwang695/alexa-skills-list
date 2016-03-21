@@ -34,5 +34,3 @@ Denver
 * **Privacy Policy:** http://stockup.co/terms-and-conditions/
 * **Terms of Use:** http://stockup.co/terms-and-conditions/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

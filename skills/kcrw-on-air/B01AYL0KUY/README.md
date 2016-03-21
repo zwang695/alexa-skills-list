@@ -18,5 +18,3 @@ This skill retrieves some information on KCRW.com to give you the current progra
 * **Author:** MTVG
 * **First Release Date:** 2016-01-22 21:15:22
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

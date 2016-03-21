@@ -23,5 +23,3 @@ Make the game more enjoyable to play with this hand-free spinner!
 * **Author:** 洪织雨
 * **First Release Date:** 2016-02-22 19:38:27
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

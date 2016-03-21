@@ -23,5 +23,3 @@ Well, now you can play the Gridiron Trivia game on your Amazon Echo.
 * **Author:** Cloud Skies
 * **First Release Date:** 2016-02-12 01:04:43
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

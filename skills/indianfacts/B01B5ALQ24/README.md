@@ -22,5 +22,3 @@ This skill tell you interesting facts about India which most people don't know.
 * **Author:** Anand Kumar
 * **First Release Date:** 2016-01-27 20:50:47
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

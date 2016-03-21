@@ -24,5 +24,3 @@ Some content may not be suitable for all ages or audiences.
 * **Author:** Bonafide
 * **First Release Date:** 2016-01-06 23:03:21
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

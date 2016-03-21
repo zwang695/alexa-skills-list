@@ -37,5 +37,3 @@ And if you want more from us, that's great! Because we're building new features 
 * **Privacy Policy:** https://www.capitalone.com/identity-protection/privacy
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

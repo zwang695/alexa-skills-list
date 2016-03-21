@@ -28,5 +28,3 @@ Try to outwit Twenty Questions in this classic game!
 * **Privacy Policy:** https://www.amazon.com/gp/help/customer/display.html/
 * **Terms of Use:** https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

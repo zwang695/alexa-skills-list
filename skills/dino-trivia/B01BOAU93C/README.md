@@ -28,5 +28,3 @@ After hearing the correct answer, you have the option to interrupt Alexa prior t
 * **Author:** Sweet Technology
 * **First Release Date:** 2016-02-12 00:56:37
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

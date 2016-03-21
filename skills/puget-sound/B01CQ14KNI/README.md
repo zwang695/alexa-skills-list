@@ -22,5 +22,3 @@ A way to find local information in the Washington State Puget Sound area.  Will 
 * **Author:** Brothers Grimm Software
 * **First Release Date:** 2016-03-08 23:21:02
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

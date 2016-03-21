@@ -30,5 +30,3 @@ BMI is applicable for adults only and its just a indicative number and does not 
 * **Author:** Wiliams Solutions
 * **First Release Date:** 2016-03-02 20:48:37
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

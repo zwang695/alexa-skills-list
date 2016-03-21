@@ -22,5 +22,3 @@ Simply launch the skill and Alexa will choose a random Christmas carol to recite
 * **Author:** Brian Ross
 * **First Release Date:** 2015-12-29 20:38:15
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

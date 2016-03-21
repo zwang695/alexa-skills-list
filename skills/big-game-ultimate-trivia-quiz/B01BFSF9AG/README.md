@@ -22,5 +22,3 @@ This skill quizzes you on the history of football's biggest game, including team
 * **Author:** Trivial Tinkering
 * **First Release Date:** 2016-02-03 20:57:23
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

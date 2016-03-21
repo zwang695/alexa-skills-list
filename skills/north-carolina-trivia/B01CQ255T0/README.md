@@ -22,5 +22,3 @@ You think you know NC? See if you can answer a few trivia questions about the Ta
 * **Author:** Kate Cox
 * **First Release Date:** 2016-03-08 23:52:47
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

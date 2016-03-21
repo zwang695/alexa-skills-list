@@ -22,5 +22,3 @@ A guide for the early access game, ARK: Survival Evolved.  Ask the guide what's 
 * **Author:** Eamun Rahimi Consulting
 * **First Release Date:** 2015-11-23 21:30:06
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

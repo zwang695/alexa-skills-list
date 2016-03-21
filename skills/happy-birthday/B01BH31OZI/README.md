@@ -26,5 +26,3 @@ Though it might not win any singing contest, it's infectiously clever fun.
 * **Author:** Thomp
 * **First Release Date:** 2016-02-04 18:36:31
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -22,5 +22,3 @@ Recently, we’ve begun to challenge ourselves to go the extra mile in finding n
 * **Author:** Good Samaritan Society
 * **First Release Date:** 2016-03-02 18:47:27
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

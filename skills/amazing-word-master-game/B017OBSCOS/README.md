@@ -24,5 +24,3 @@ The game continues until someone fails to respond to the next word or you say Ex
 * **Author:** SAKET AGARWAL
 * **First Release Date:** 2015-11-06 20:16:09
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

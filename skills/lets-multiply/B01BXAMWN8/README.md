@@ -42,5 +42,3 @@ Version 1.1.0
 * **Author:** Wobble Mouth
 * **First Release Date:** 2016-02-18 21:34:07
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -25,5 +25,3 @@ Visit: http://bit.ly/alexaphonefinder to install the android app
 * **First Release Date:** 2015-12-09 02:25:55
 * **Privacy Policy:** https://caricaturers.us/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

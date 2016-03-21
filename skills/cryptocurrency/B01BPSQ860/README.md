@@ -28,5 +28,3 @@ It will also tell you how much the price has changed over the last 24 hours so y
 * **Privacy Policy:** http://www.dynasolve.com/cryptonow/privacy
 * **Terms of Use:** http://www.dynasolve.com/cryptonow/termsofuse
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -55,5 +55,3 @@ Thank you!
 * **Author:** Speedy Llama, LLC
 * **First Release Date:** 2016-01-15 20:55:21
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

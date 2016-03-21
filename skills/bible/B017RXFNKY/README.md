@@ -38,5 +38,3 @@ Email us at support@youversion.com.
 * **Privacy Policy:** https://bible.com/privacy
 * **Terms of Use:** https://bible.com/terms
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

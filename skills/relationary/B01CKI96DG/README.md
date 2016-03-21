@@ -28,5 +28,3 @@ If you fail to respond in time, that's ok. Just re-open Relationary and it picks
 * **Author:** Mark Einhorn
 * **First Release Date:** 2016-03-04 21:04:35
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

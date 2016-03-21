@@ -22,5 +22,3 @@ Celebrate a goal - or anything else - with a classic audio "GOOOOOL" sound.  Try
 * **Author:** RJ Duckburgh
 * **First Release Date:** 2015-12-15 01:30:04
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

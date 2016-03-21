@@ -23,5 +23,3 @@ It helps to enunciate the letters clearly (for example, it is easy for Alexa to 
 * **Author:** Mahesh
 * **First Release Date:** 2015-12-11 00:06:31
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

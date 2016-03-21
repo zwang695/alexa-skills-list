@@ -23,5 +23,3 @@ Going further we have plan to make it for any random day, date, fruit, flowers, 
 * **Author:** Extentia Information Technology
 * **First Release Date:** 2016-02-18 23:43:13
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

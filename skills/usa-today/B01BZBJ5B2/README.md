@@ -31,5 +31,3 @@ keeps you informed 24/7 with the latest USA TODAY headlines. Staying informed ha
 * **Privacy Policy:** http://www.usatoday.com/legal/privacynotice.html
 * **Terms of Use:** http://www.usatoday.com/legal/tos.html
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

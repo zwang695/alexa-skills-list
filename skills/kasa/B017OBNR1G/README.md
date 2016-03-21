@@ -24,5 +24,3 @@ Kasa is a simple way to manage your home from anywhere.You can link Kasa with Am
 * **Privacy Policy:** https://www.tplinkcloud.com/PrivacyPolicy.php
 * **Terms of Use:** https://www.tplinkcloud.com/TermsofUse.php
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

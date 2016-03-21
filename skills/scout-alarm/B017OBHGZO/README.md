@@ -27,5 +27,3 @@ To link your account, login to your account on Scout (dashboard.scoutalarm.com) 
 * **Privacy Policy:** https://www.scoutalarm.com/privacy-policy
 * **Terms of Use:** https://www.scoutalarm.com/terms-of-use
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

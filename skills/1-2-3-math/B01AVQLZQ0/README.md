@@ -18,5 +18,3 @@ To use the 1-2-3 Math skill, try saying...
 * **Author:** Shanthan Kesharaju
 * **First Release Date:** 2016-01-21 01:36:15
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

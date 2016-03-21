@@ -33,5 +33,3 @@ This skill may not be suitable for all ages.
 * **Author:** Sweet Technology
 * **First Release Date:** 2016-02-16 22:09:10
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

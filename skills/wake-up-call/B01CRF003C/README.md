@@ -24,5 +24,3 @@ The Daily Wake Up Call provides a daily recorded quotation, message, or anecdote
 * **Privacy Policy:** http://www.wakeupdial.com
 * **Terms of Use:** http://www.wakeupdial.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

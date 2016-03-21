@@ -44,5 +44,3 @@ Example: Alexa ask the space station to list countries beginning with P
 * **Author:** Chris Bowerman
 * **First Release Date:** 2016-02-29 06:29:31
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

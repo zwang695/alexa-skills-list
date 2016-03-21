@@ -26,5 +26,3 @@ Sign up for our weekly newsletter with more tips and insights at http://my.curat
 * **Author:** Six Voices
 * **First Release Date:** 2016-03-17 09:18:24
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

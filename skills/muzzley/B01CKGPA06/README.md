@@ -36,5 +36,3 @@ Learn more at http://www.muzzley.com or shoot us an email to support@muzzley.com
 * **Terms of Use:** https://www.muzzley.com/terms
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

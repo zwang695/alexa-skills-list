@@ -40,5 +40,3 @@ To get basic instructions, say "Alexa, open Dice Bag."
 * **Author:** Game Construct
 * **First Release Date:** 2016-01-05 18:41:25
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

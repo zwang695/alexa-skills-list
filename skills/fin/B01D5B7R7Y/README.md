@@ -33,5 +33,3 @@ Then, you can do things like:
 * **Terms of Use:** https://www.fin.com/external/user-terms-of-service
 * **Account Linking Domains:** www.fin.com, 9414f895.ngrok.io
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -26,5 +26,3 @@ This skill is a fun game the tests your knowledge of the many aspects the Pipe o
 * **Author:** Don Holmberg
 * **First Release Date:** 2016-02-24 21:26:00
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

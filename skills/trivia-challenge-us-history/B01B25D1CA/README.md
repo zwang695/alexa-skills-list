@@ -22,5 +22,3 @@ Practice your knowledge of U.S  History from the colonial times to current day w
 * **Author:** Innate.io
 * **First Release Date:** 2016-01-25 22:50:14
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

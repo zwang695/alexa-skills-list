@@ -22,5 +22,3 @@ Interactive game to improve math skills by executing a kata to become a math jed
 * **Author:** Rick Wargo
 * **First Release Date:** 2015-12-02 22:43:48
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

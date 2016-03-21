@@ -22,5 +22,3 @@ Test your Formula 1 history knowledge with this fun trivia game. Do you think yo
 * **Author:** NortonDev
 * **First Release Date:** 2016-03-08 06:05:51
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

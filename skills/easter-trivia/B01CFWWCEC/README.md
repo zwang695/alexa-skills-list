@@ -20,5 +20,3 @@ Expand or test your knowledge of the Easter holiday with this Alexa Skill.
 * **Author:** Six Voices
 * **First Release Date:** 2016-03-02 07:10:14
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

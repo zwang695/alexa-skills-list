@@ -25,5 +25,3 @@ You can list your smart devices, see how they are working together and find new 
 * **Author:** Anythings
 * **First Release Date:** 2016-03-14 22:45:54
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

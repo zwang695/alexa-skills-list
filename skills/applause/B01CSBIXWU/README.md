@@ -18,5 +18,3 @@ Get a round of applause in any situation with the Alexa Applause Skill. Ask for 
 * **Author:** Matchbox mobile
 * **First Release Date:** 2016-03-10 09:02:39
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

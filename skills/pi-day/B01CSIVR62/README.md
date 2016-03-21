@@ -22,5 +22,3 @@ Happy Pi Day! Recite as many digits of pi as you can before time runs out.
 * **Author:** Sanyu Kiruluta
 * **First Release Date:** 2016-03-10 11:32:30
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

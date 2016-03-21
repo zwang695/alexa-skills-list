@@ -40,5 +40,3 @@ Special thanks to Eventful (www.eventful.com) for the wonderful event informatio
 * **Author:** Webframeworks, LLC.
 * **First Release Date:** 2016-01-06 22:08:20
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

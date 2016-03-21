@@ -32,5 +32,3 @@ To get started, please link your MOSAIC account to use this skill. Also, please 
 * **Privacy Policy:** https://saymosaic.com/privacy
 * **Account Linking Domains:** images-na.ssl-images-amazon.com, api-cdn.amazon.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

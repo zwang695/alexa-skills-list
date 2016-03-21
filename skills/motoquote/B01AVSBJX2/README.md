@@ -26,5 +26,3 @@ You'll get an insightful, often inspiring quote from icons such as Michael Jorda
 * **Author:** Sterian Associates
 * **First Release Date:** 2016-01-21 02:14:18
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -28,5 +28,3 @@ Note: Alexa and Amazon, Inc. do not store or retain your Fitbit data, but voice 
 * **Terms of Use:** https://www.fitbit.com/legal
 * **Account Linking Domains:** www.fitbit.com, api.fitbit.com, fitbit.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

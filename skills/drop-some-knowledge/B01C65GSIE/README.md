@@ -24,5 +24,3 @@ You can also launch the skill using "Alexa, launch <drop some knowledge>", and i
 * **Author:** Rahul Ravikumar
 * **First Release Date:** 2016-02-24 18:03:20
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

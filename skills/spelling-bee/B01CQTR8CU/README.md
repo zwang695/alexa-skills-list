@@ -22,5 +22,3 @@ Welcome to spelling bee, the very first spelling game on Alexa. There are severa
 * **Author:** Brian King
 * **First Release Date:** 2016-03-09 10:35:13
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

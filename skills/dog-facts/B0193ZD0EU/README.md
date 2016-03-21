@@ -18,5 +18,3 @@ This skill tells you a dog fact
 * **Author:** Randomvoids
 * **First Release Date:** 2015-12-08 19:57:13
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -22,5 +22,3 @@ Edgar facts will teach you about Edgar the dog, even if you can't interact with 
 * **Author:** apechimp
 * **First Release Date:** 2015-11-06 20:02:16
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

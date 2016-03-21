@@ -36,5 +36,3 @@ Thanks for all the great feedback! Please continue to share your thoughts, and w
 * **Author:** Pargee
 * **First Release Date:** 2015-12-14 22:27:48
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

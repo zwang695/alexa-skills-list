@@ -22,5 +22,3 @@ It's finally safe to talk about politics! This fun (non-partisan) game will teac
 * **Author:** onetwentyseven inc
 * **First Release Date:** 2016-02-11 22:05:59
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

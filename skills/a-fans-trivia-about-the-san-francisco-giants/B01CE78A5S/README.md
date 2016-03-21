@@ -28,5 +28,3 @@ You can play multiple times to see how well you know the Giants.
 * **Author:** mine
 * **First Release Date:** 2016-03-01 08:33:59
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

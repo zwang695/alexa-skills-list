@@ -32,5 +32,3 @@ Show episode data provided by the awesome http://tvmaze.com.
 * **Privacy Policy:** http://gobbyapps.com/privacy
 * **Terms of Use:** http://gobbyapps.com/tos
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

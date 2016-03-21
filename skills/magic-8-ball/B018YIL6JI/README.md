@@ -22,5 +22,3 @@ This is meant to be a fun skill, where you can ask The Magic 8-Ball any yes/no q
 * **Author:** BinaryShrub
 * **First Release Date:** 2015-12-04 22:46:16
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

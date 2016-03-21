@@ -22,5 +22,3 @@ This helps you or your students practice giving the capital city for each state.
 * **Author:** Rick's School Tools
 * **First Release Date:** 2016-02-26 00:26:51
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

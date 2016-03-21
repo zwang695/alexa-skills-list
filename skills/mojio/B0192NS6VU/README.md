@@ -25,5 +25,3 @@ If your car could talk, what would it say? Mojio and Echo make it possible to co
 * **Terms of Use:** http://moj.io/terms
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

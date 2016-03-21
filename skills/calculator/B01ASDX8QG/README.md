@@ -24,5 +24,3 @@ Currently, it only support plus, minus, times and divided operations, advanced f
 * **Privacy Policy:** http://hankjohn.net/calculator/policy
 * **Terms of Use:** http://hankjohn.net/calculator/terms
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

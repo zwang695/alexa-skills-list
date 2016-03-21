@@ -22,5 +22,3 @@ This skill will call out to the MBTA system and check if there are any alerts on
 * **Author:** Kevin Kazmierczak
 * **First Release Date:** 2016-03-17 10:16:36
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

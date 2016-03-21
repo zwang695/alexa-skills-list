@@ -22,5 +22,3 @@ Aurora skill will provide detailed information about the auroral activity over N
 * **Author:** BEL Coding
 * **First Release Date:** 2016-01-05 21:32:22
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

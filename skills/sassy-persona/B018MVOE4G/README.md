@@ -24,5 +24,3 @@ If you tell Alexa's sassy persona to stick around, it will respond to several qu
 * **Author:** Jason Wang
 * **First Release Date:** 2015-11-27 20:59:40
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

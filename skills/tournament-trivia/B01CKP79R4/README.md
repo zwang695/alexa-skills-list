@@ -22,5 +22,3 @@ Test your knowledge of the division one college basketball tournament with this 
 * **Author:** Six Voices
 * **First Release Date:** 2016-03-05 00:59:10
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

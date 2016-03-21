@@ -31,5 +31,3 @@ To get started, just say "Hey Alexa, ask LIFX what can I do with my lights?". Al
 * **Terms of Use:** http://www.lifx.com/pages/legals
 * **Account Linking Domains:** cloud.lifx.com, fonts.googleapis.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

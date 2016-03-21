@@ -25,5 +25,3 @@ This skill may not be suitable for all ages. This skill provides instructions fo
 * **Author:** Midnight Signal
 * **First Release Date:** 2015-12-14 23:24:54
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

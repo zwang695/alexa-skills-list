@@ -31,5 +31,3 @@ Happy Holidays!
 * **Author:** Pargee
 * **First Release Date:** 2015-12-18 00:27:33
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

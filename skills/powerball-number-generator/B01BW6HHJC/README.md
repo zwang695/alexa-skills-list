@@ -26,5 +26,3 @@ As this skill is used to generate lottery numbers, this skill may not be suitabl
 * **Author:** Matchbox mobile
 * **First Release Date:** 2016-02-18 00:30:59
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

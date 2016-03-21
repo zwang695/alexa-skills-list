@@ -24,5 +24,3 @@ To learn more about DogeCoin, please visit http://dogecoin.com/
 * **Author:** Sterian Associates
 * **First Release Date:** 2016-01-22 01:35:39
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -18,5 +18,3 @@ Test your math skills, answer questions about prime numbers.
 * **Author:** TeaTime
 * **First Release Date:** 2016-03-15 18:58:26
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -22,5 +22,3 @@ Think you know all things Superman ? Take this challenge that tests your Superma
 * **Author:** James Co
 * **First Release Date:** 2016-03-16 23:12:46
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

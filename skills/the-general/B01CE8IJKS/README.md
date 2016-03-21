@@ -22,5 +22,3 @@ This skill allows the user to spell out a word or a list of words in either Mors
 * **Author:** BassmanCorp
 * **First Release Date:** 2016-03-01 09:04:49
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

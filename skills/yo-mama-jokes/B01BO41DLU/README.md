@@ -22,5 +22,3 @@ A group of clean, but politically incorrect 'Yo Mama' Jokes.  This skill may not
 * **Author:** Per4mnce Software
 * **First Release Date:** 2016-02-11 20:35:08
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

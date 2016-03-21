@@ -26,5 +26,3 @@ Think you can answer?
 * **Author:** Jovial
 * **First Release Date:** 2016-02-03 21:54:24
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

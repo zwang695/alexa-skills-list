@@ -41,5 +41,3 @@ Your moves and the corresponding results will be also shown in the Echo companio
 * **Author:** Weikatec GmbH
 * **First Release Date:** 2016-01-12 00:19:18
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

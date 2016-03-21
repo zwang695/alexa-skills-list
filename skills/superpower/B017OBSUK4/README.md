@@ -20,5 +20,3 @@ With Superpower, you can get an interesting conversation topic to start an engag
 * **Privacy Policy:** http://superpower.me/privacy-policy
 * **Terms of Use:** http://superpower.me/terms-of-service
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

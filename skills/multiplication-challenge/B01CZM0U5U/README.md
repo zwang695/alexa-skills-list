@@ -22,5 +22,3 @@ Multiplication Challenge will ask you 5 random multiplication questions from 1x1
 * **Author:** unwired solutions
 * **First Release Date:** 2016-03-15 06:38:38
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

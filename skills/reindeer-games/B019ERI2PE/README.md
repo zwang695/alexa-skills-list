@@ -28,5 +28,3 @@ This skill is fun to play alone, or compete with your family and friends to see 
 * **Privacy Policy:** http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496
 * **Terms of Use:** http://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&nodeId=508088
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

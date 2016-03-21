@@ -26,5 +26,3 @@ DISCLAIMER:  This trivia skill deals with knowledge of alcoholic beverages and m
 * **Author:** Red Sun Software
 * **First Release Date:** 2016-02-19 23:52:54
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -18,5 +18,3 @@ Educate yourself about Inventor Nikola Tesla. Some of his accomplishments, and h
 * **Author:** JJLINK.NET
 * **First Release Date:** 2016-02-26 22:50:24
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

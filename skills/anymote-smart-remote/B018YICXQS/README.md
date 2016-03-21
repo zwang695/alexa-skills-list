@@ -26,5 +26,3 @@ Once you’re all set up and have your remotes added in the Smart IR Remote - An
 * **Privacy Policy:** http://colortiger.com/remote/terms/
 * **Terms of Use:** http://colortiger.com/remote/terms/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -22,5 +22,3 @@ Ask Donald Trump a question, about his policies, or how he will make america gre
 * **Author:** Chris Moyer
 * **First Release Date:** 2016-02-16 23:20:45
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

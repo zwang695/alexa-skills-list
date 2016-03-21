@@ -76,5 +76,3 @@ For reporting bugs or suggestions, please email m@moogs.io
 * **Privacy Policy:** https://github.com/miguelmota/ASK-HackerNews/wiki/Privacy-Policy
 * **Terms of Use:** https://github.com/miguelmota/ASK-HackerNews/wiki/Terms-of-Use
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

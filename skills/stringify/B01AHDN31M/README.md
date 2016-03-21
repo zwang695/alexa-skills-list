@@ -26,5 +26,3 @@ Stringify also works well with: SmartThings, Fitbit, Nest, Jawbone Up, Phillips 
 * **Privacy Policy:** https://www.stringify.com/privacy
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -27,5 +27,3 @@ Mathematical consulting by Bonnie Peterson.
 * **Author:** Pete Peterson
 * **First Release Date:** 2015-12-04 23:41:41
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -22,5 +22,3 @@ Want to know the current weather information or flight rules for a particular ai
 * **Author:** F2M2, Inc.
 * **First Release Date:** 2016-02-24 19:27:38
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

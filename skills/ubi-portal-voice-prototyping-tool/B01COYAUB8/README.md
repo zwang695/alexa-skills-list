@@ -24,5 +24,3 @@ This tool allows one to quickly test voice interaction with services and devices
 * **Privacy Policy:** https://www.freeprivacypolicy.com/free-privacy-policy.html
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

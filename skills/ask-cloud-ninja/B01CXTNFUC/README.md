@@ -22,5 +22,3 @@ The Cloud Ninja skill is your guide to Amazon Web Services.  It will keep you up
 * **Author:** Franklin Lobb
 * **First Release Date:** 2016-03-14 04:48:34
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

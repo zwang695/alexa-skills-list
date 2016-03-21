@@ -28,5 +28,3 @@ You can also respond with 'yes' or 'no'.  On 'no', Alexa with close the session,
 * **Author:** Don Holmberg
 * **First Release Date:** 2016-03-08 07:17:18
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

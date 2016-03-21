@@ -22,5 +22,3 @@ A simple joke telling app, intended to delight younger children.  Ask "Silly Win
 * **Author:** Marc Smith
 * **First Release Date:** 2016-03-04 11:39:15
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

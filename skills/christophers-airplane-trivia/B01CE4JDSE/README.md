@@ -20,5 +20,3 @@ When you have Alexa ask Christopher for an airplane fact Alexa will randomly cho
 * **Author:** Steve Wagner
 * **First Release Date:** 2016-03-01 07:34:24
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

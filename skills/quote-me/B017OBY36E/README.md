@@ -24,5 +24,3 @@ We have over 75,000 quotes covering a range of over 100 different topics from ov
 * **Author:** Mike Waldrop
 * **First Release Date:** 2015-11-06 20:19:32
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

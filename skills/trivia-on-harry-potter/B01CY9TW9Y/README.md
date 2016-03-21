@@ -28,5 +28,3 @@ Feedback and reviews welcome! Thank you for playing.
 * **Author:** Bobby
 * **First Release Date:** 2016-03-14 10:10:57
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

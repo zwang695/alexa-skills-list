@@ -22,5 +22,3 @@ Simply ask Alexa for an idea from Giant Spoon and then sit back and get ready to
 * **Author:** Giant Spoon
 * **First Release Date:** 2016-03-14 08:41:29
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -22,5 +22,3 @@ Ask Alexa to open Missouri football and see if you can correctly answer five que
 * **Author:** Warren Mills
 * **First Release Date:** 2016-02-04 19:10:14
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

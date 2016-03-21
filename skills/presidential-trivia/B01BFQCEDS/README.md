@@ -22,5 +22,3 @@ Presidential Trivia will ask five random questions about Presidents of the Unite
 * **Author:** TorgCon
 * **First Release Date:** 2016-02-03 20:34:43
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

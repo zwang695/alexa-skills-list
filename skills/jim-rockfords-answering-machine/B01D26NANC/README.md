@@ -30,5 +30,3 @@ To use, just say, "Ask Jim Rockford's Answering Machine to read a message."
 * **Author:** TexasGovernor.org
 * **First Release Date:** 2016-03-16 22:18:58
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -27,5 +27,3 @@ If You Like It Please Show Your Love and Rate This Skill.
 * **Privacy Policy:** http://commpublishing.com/privacy-policy
 * **Terms of Use:** http://commpublishing.com/terms-of-use
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

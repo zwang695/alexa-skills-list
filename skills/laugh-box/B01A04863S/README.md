@@ -26,5 +26,3 @@ All you need to do to get started is to ask Alexa to "Open Laugh Box." When it s
 * **Privacy Policy:** http://www.joiney.com/privacy.html
 * **Terms of Use:** http://www.joiney.com/terms.html
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

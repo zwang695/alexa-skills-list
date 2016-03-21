@@ -22,5 +22,3 @@ This skill allows you to quickly and easily learn about Woot's daily deals on an
 * **Author:** Sam Harris
 * **First Release Date:** 2015-12-09 01:00:25
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

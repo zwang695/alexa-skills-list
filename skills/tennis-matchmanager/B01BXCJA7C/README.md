@@ -64,5 +64,3 @@ You can always say “stop”, “cancel” or “exit”.
 * **First Release Date:** 2016-02-18 22:24:05
 * **Privacy Policy:** http://tennismatchmanager.com/privacy.html
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

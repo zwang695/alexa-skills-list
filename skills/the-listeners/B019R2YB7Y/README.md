@@ -24,5 +24,3 @@ The Listeners is an experiment in learning and language art that provides, if yo
 * **Author:** Digital Language Arts
 * **First Release Date:** 2015-12-23 23:47:25
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

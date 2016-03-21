@@ -22,5 +22,3 @@ Ask Alexa to convert money from your country to other country. She will look for
 * **Author:** Rain Labs
 * **First Release Date:** 2016-01-21 18:12:33
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

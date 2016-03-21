@@ -26,5 +26,3 @@ Powered by TfL Open Data.
 * **Privacy Policy:** http://www.tfl.gov.uk/corporate/terms-and-conditions/transport-data-service
 * **Terms of Use:** http://www.tfl.gov.uk/corporate/terms-and-conditions/transport-data-service
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

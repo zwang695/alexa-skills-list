@@ -22,5 +22,3 @@ Have you ever just wanted a little compliment? The Admirer application does just
 * **Author:** Edmonds LLP
 * **First Release Date:** 2015-12-18 00:11:34
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

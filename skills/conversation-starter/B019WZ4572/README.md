@@ -22,5 +22,3 @@ Conversation Starter is a great way to get suggested conversation topics for you
 * **Author:** Ian Suttle
 * **First Release Date:** 2015-12-28 21:50:52
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -28,5 +28,3 @@ Plus one bonus hero: the lord, also known as Jaraxxus, Eredar Lord of the Burnin
 * **Author:** Naomi Bancroft
 * **First Release Date:** 2015-11-23 21:08:42
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

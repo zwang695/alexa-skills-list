@@ -22,5 +22,3 @@ Do you live in a coastal city and spend time by the water? Rely on Tide Pooler f
 * **Author:** Amazon
 * **First Release Date:** 2015-11-06 20:20:05
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

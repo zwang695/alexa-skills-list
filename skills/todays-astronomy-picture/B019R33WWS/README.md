@@ -20,5 +20,3 @@ Ask Alexa to Load Today's Astronomy Picture and hear all about the wonders of sp
 * **Author:** Rasmi
 * **First Release Date:** 2015-12-23 23:52:47
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

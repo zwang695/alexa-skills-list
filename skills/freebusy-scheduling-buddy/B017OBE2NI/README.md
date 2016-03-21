@@ -27,5 +27,3 @@ FreeBusy works with all calendar providers (Google, Office 365, Outlook and corp
 * **Terms of Use:** https://freebusy.io/terms
 * **Account Linking Domains:** freebusy.io, az805145.vo.msecnd.net, login.live.com, account.live.com, auth.gfx.ms, login.windows.net, login.microsoftonline.com, secure.aadcdn.microsoftonline-p.com, accounts.google.com, accounts.youtube.com, www.google.com, www.gstatic.com, ssl.gstatic.com, clients1.google.com, clients2.google.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

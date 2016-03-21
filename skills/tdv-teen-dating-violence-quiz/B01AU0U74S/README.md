@@ -32,5 +32,3 @@ Teens: Learn to help yourself and your friends!
 * **First Release Date:** 2016-01-20 00:00:40
 * **Privacy Policy:** http://JenniferAnn.org/privacy
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

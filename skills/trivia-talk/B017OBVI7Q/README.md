@@ -24,5 +24,3 @@ Trivia Talk is a multiple choice trivia game you can play by yourself or with yo
 * **Privacy Policy:** https://s3.amazonaws.com/alexaskilltrivia/index.html
 * **Terms of Use:** https://s3.amazonaws.com/alexaskilltrivia/index.html
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

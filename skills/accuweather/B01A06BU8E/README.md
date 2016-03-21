@@ -28,5 +28,3 @@ If you have any suggestions, feel free to send feedback!
 * **Privacy Policy:** http://www.accuweather.com/en/privacy
 * **Terms of Use:** http://www.accuweather.com/en/legal
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

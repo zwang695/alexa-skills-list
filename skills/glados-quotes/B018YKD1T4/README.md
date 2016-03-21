@@ -22,5 +22,3 @@ Alexa gives you GLaDOS's (pronounced GLA-dis) opinion of random things, Aperture
 * **Author:** Mewsikat
 * **First Release Date:** 2015-12-04 23:58:29
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

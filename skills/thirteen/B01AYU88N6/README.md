@@ -23,5 +23,3 @@ Try completing the game in less than 45 seconds.
 * **Author:** VIVEK YADAV
 * **First Release Date:** 2016-01-23 02:48:32
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

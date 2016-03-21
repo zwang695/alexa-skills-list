@@ -22,5 +22,3 @@ Math Tutor can read out the multiplication tables between 1 and 10. For example,
 * **Author:** Echosoft
 * **First Release Date:** 2015-11-06 20:09:26
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

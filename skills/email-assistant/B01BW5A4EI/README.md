@@ -30,5 +30,3 @@ Works with all mail providers—Gmail, Yahoo, Exchange, iCloud, IMAP and others.
 * **Terms of Use:** https://www.easilydo.com/termsofservice?page=termsofservice
 * **Account Linking Domains:** login.easilydo.com, www.facebook.com, m.facebook.com, accounts.google.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

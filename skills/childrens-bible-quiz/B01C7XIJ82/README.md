@@ -22,5 +22,3 @@ Children's Bible Quiz where a question is ask with four possible answers.
 * **Author:** M Squared 
 * **First Release Date:** 2016-02-26 00:12:35
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

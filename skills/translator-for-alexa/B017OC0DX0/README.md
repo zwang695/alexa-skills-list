@@ -32,5 +32,3 @@ After you launch the skill, you can say 'help' to get more information, includin
 * **Privacy Policy:** http://sarkonovich-2.elasticbeanstalk.com/privacy
 * **Terms of Use:** http://sarkonovich-2.elasticbeanstalk.com/terms-of-service
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

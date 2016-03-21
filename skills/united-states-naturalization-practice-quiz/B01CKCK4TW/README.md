@@ -27,5 +27,3 @@ Think you can answer...
 * **Author:** LearnedH
 * **First Release Date:** 2016-03-04 18:20:57
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

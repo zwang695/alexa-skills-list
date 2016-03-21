@@ -37,5 +37,3 @@ You can also use the example phrases below as your guide. For more information a
 * **First Release Date:** 2016-02-10 23:37:51
 * **Privacy Policy:** https://www.iubenda.com/privacy-policy/7758923
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

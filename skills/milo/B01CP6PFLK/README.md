@@ -22,5 +22,3 @@ Milo is the movie lover's friend.  He helps Amazon Echo find where movies are av
 * **Author:** techdad24.com
 * **First Release Date:** 2016-03-08 11:50:19
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

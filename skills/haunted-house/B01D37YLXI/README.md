@@ -18,5 +18,3 @@ Haunted House provides a random scary sound to fill any moment with suspense. As
 * **Author:** Matchbox mobile
 * **First Release Date:** 2016-03-17 13:04:41
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

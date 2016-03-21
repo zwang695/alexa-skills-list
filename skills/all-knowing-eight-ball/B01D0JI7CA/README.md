@@ -24,5 +24,3 @@ The Alexa app will track your questions and their answers, so if you ever need t
 * **Author:** Kovacich Overengineering
 * **First Release Date:** 2016-03-15 19:47:03
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

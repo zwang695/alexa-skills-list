@@ -22,5 +22,3 @@ Cat Facts Trivia is a fun new trivia game to test your knowledge of cats.
 * **Author:** Workshop512
 * **First Release Date:** 2016-03-18 05:52:35
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

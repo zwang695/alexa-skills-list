@@ -20,5 +20,3 @@ The only thing you have to say is "Alexa, open Bitcoin Price Checker."
 * **Author:** Andrew Austin
 * **First Release Date:** 2015-11-06 20:21:16
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

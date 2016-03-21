@@ -24,5 +24,3 @@ Math Mania provides a variety of game modes including addition only, subtraction
 * **Author:** Falicon Programming Inc.
 * **First Release Date:** 2015-12-15 01:17:16
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

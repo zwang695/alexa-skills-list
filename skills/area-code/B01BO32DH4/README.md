@@ -22,5 +22,3 @@ This skill will return a description of the area represented by an area code.
 * **Author:** Per4mnce Software
 * **First Release Date:** 2016-02-11 20:04:44
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

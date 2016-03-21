@@ -24,5 +24,3 @@ Start your day with an insightful quote from general Sun Tzu's, The Art of War, 
 * **Author:** zipIQ
 * **First Release Date:** 2016-03-05 00:24:10
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

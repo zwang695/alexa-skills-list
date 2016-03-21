@@ -18,5 +18,3 @@ Someone told a bad joke? Let them know with the Alexa boo Skill.
 * **Author:** Matchbox mobile
 * **First Release Date:** 2016-03-10 09:27:10
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

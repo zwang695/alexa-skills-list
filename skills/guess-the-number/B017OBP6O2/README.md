@@ -22,5 +22,3 @@ With Guess The Number, you must successfully guess a number picked by Alexa.  Af
 * **Author:** Matt Kruse
 * **First Release Date:** 2015-11-06 20:13:57
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

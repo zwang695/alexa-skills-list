@@ -26,5 +26,3 @@ Get your daily recommendations by asking Alexa and hear the response from Mr Jun
 * **Privacy Policy:** http://mrjunkyfood.com/privacypolicy.html
 * **Terms of Use:** http://mrjunkyfood.com/termsofuse.html
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

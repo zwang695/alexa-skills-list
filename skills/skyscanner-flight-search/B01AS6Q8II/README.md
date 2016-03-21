@@ -28,5 +28,3 @@ All prices come with the lowest recent price found for the route and dates, the 
 * **Privacy Policy:** http://www.skyscanner.net/privacypolicy.aspx
 * **Terms of Use:** http://www.skyscanner.net/termsofservice.aspx
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

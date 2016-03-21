@@ -22,5 +22,3 @@ This is a trivia game that quizzes your knowledge about the Boston Baseball hist
 * **Author:** martivic
 * **First Release Date:** 2016-03-16 11:04:28
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

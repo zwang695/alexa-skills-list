@@ -137,5 +137,3 @@ Powered by spitcast.com
 * **Privacy Policy:** http://www.surfable.surf/privacy.html
 * **Terms of Use:** http://www.surfable.surf/tos.html
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

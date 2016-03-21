@@ -22,5 +22,3 @@ This skill is meant to add computer science-related jokes to Alexa's nerdbank. T
 * **Author:** Patrick Mollohan
 * **First Release Date:** 2016-02-22 21:02:21
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

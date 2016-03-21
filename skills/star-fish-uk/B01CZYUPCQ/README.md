@@ -22,5 +22,3 @@ A simple skill to get you started before you make that tube or national rail jou
 * **Author:** Rain Integration
 * **First Release Date:** 2016-03-15 11:42:09
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

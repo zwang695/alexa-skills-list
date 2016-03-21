@@ -22,5 +22,3 @@ Ask Alexa to tell you the element name and its atomic number, symbol, atomic wei
 * **Author:** Rain Labs
 * **First Release Date:** 2016-02-12 20:40:00
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

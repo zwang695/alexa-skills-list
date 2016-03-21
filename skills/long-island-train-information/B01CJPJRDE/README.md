@@ -22,5 +22,3 @@ This skill returns the next few trains that run from one station to another alon
 * **Author:** mookiefdr
 * **First Release Date:** 2016-03-04 10:13:02
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

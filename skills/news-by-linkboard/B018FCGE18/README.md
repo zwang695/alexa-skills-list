@@ -24,5 +24,3 @@ News By Linkboard enables you to search the news and have articles read to you. 
 * **Privacy Policy:** http://www.linkboard.com/terms
 * **Terms of Use:** http://www.linkboard.com/terms
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

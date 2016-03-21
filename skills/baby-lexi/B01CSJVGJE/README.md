@@ -22,5 +22,3 @@ Do your kids love to talk like a baby? Baby Lexi will answer any question in bab
 * **Author:** Hand Labs
 * **First Release Date:** 2016-03-10 11:57:08
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

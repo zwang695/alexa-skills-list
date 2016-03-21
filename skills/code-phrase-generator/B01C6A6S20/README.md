@@ -26,5 +26,3 @@ I'm open to feature requests! If you think alternative patterns like "<color> <a
 * **Author:** Asim Ihsan
 * **First Release Date:** 2016-02-24 20:49:17
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

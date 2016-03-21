@@ -24,5 +24,3 @@ When launched this skill will greet you as The Dude. From there you can begin on
 * **Author:** TonyAngelo
 * **First Release Date:** 2016-01-08 01:55:41
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

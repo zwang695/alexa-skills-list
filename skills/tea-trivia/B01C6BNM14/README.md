@@ -25,5 +25,3 @@ Icon made by Freepik from http://www.flaticon.com.  Flaticon is licensed under C
 * **Author:** Rutavega LLC
 * **First Release Date:** 2016-02-24 21:31:47
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

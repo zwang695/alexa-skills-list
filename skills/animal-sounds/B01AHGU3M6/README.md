@@ -22,5 +22,3 @@ Ask Alexa to make the sounds of your favorite animals. She learns new animal sou
 * **Author:** Rain Labs
 * **First Release Date:** 2016-01-12 02:23:23
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

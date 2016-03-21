@@ -24,5 +24,3 @@ Name Nerd is a quick lookup version of the ever popular namenerds.com site. You 
 * **Privacy Policy:** http://ocean-of-storms.com/tsatsatzu/legal/nn_privacy.htm
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/nn_terms.htm
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -31,5 +31,3 @@ https://www.ttc.ca/Routes/index.jsp
 * **Privacy Policy:** http://crhuber.github.io/ttc/
 * **Terms of Use:** http://crhuber.github.io/ttc/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

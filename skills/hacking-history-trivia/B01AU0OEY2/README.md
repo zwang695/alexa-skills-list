@@ -22,5 +22,3 @@ Think you know about the history of computing, hacking, and programming? Add thi
 * **Author:** Chris Bryant
 * **First Release Date:** 2016-01-19 23:55:57
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

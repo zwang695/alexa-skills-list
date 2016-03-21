@@ -27,5 +27,3 @@ To control any Toon Goggles remote enabled application, start by creating a free
 * **Terms of Use:** http://www.toongoggles.com/terms-use
 * **Account Linking Domains:** oauth.toongoggles.com, api.toongoggles.com, fonts.googleapis.com, www.toongoggles.com, pitangui.amazon.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

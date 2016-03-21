@@ -26,5 +26,3 @@ Latest updates, comprehensive coverage and equal focus on Current Affairs, Polit
 * **Privacy Policy:** http://www.manoramaonline.com/content/mm/ml/privacy.html
 * **Terms of Use:** http://www.manoramaonline.com/content/mm/ml/terms-of-use.html
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

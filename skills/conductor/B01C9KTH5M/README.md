@@ -23,5 +23,3 @@ This service will give you information about NYC transit (so far only subway/LIR
 * **Author:** Gotham Web Artisans
 * **First Release Date:** 2016-02-27 00:31:02
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

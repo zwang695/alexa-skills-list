@@ -26,5 +26,3 @@ Powered by TfL Open Data
 * **Privacy Policy:** https://tfl.gov.uk/corporate/privacy-and-cookies/
 * **Terms of Use:** https://tfl.gov.uk/corporate/terms-and-conditions/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

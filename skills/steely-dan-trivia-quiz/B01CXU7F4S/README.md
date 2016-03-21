@@ -22,5 +22,3 @@ A moderately difficult 10 question Steely Dan trivia quiz for fans - questions a
 * **Author:** Cognable
 * **First Release Date:** 2016-03-14 05:05:18
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

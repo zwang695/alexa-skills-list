@@ -24,5 +24,3 @@ A simple skill, Alexa will give you a random number between 1 and 100. Useful fo
 * **Privacy Policy:** http://www.amazon.com/gp/help/customer/display.html?nodeId=468496
 * **Terms of Use:** http://www.amazon.com/gp/help/customer/display.html?nodeId=468496
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

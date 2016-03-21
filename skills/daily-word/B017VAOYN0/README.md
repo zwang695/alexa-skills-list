@@ -21,5 +21,3 @@ Now spelling out your daily word.
 * **Author:** Matchbox mobile
 * **First Release Date:** 2015-11-12 01:12:14
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

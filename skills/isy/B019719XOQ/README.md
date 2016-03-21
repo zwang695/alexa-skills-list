@@ -49,5 +49,3 @@ Get program status
 * **Privacy Policy:** http://www.universal-devices.com/privacy/
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

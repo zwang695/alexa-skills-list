@@ -22,5 +22,3 @@ Alexa shows off her beat-boxing skills. Get a list of available beats by saying,
 * **Author:** Pat Cousins
 * **First Release Date:** 2016-02-16 22:04:27
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

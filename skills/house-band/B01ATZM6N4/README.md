@@ -89,5 +89,3 @@ https://www.sarkonovich-2.elasticbeanstalk.com/house_band
 * **Terms of Use:** http://sarkonovich-2.elasticbeanstalk.com/terms-of-service
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

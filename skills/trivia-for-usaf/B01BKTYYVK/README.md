@@ -32,5 +32,3 @@ Try to get all five answers right!
 * **Author:** Johnny Foxx
 * **First Release Date:** 2016-02-08 19:19:25
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

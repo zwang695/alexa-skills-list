@@ -24,5 +24,3 @@ What’s going on this weekend? Just set your home city, and then you can ask wh
 * **Privacy Policy:** http://www.stubhub.com/legal/?section=pp
 * **Terms of Use:** http://www.stubhub.com/legal/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

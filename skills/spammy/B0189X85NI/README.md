@@ -22,5 +22,3 @@ Pink, versatile deliciousness.  It’s perfect fried with eggs and wrapped like 
 * **Author:** Support
 * **First Release Date:** 2015-11-20 23:57:19
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

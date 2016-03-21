@@ -24,5 +24,3 @@ The Huffington Post is a Pulitzer Prize-winning source of breaking news, feature
 * **Privacy Policy:** http://privacy.aol.com/
 * **Terms of Use:** http://www.huffingtonpost.com/terms.html
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -22,5 +22,3 @@ Check to see who's online within Convrge. For more information regarding converg
 * **Author:** Jay Wallace
 * **First Release Date:** 2016-01-22 21:28:47
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

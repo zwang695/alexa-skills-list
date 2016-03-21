@@ -22,5 +22,3 @@ Counting sheep has been hailed for centuries as the quickest way to get to sleep
 * **Author:** Schlemmer Consulting
 * **First Release Date:** 2016-03-08 00:19:48
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

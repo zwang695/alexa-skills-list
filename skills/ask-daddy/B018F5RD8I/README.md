@@ -22,5 +22,3 @@ Ask Daddy provides nurturing responses to things asked of him. Due to request, A
 * **Author:** Rick Wargo
 * **First Release Date:** 2015-11-23 22:54:35
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

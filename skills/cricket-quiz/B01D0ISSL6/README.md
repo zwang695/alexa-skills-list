@@ -22,5 +22,3 @@ Cricket is one of the most popular sport in the world, with an estimated viewers
 * **Author:** Shankar Rao
 * **First Release Date:** 2016-03-15 19:24:01
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

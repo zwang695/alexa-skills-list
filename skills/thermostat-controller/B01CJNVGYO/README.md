@@ -56,5 +56,3 @@ Nest® is a registered trademark of Nest Labs, Inc. and its parent company.
 * **Privacy Policy:** https://www.underscoreresearch.com/nest/privacy
 * **Account Linking Domains:** home.nest.com, api.home.nest.com, underscoreresearch.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

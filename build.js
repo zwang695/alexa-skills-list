@@ -14,16 +14,102 @@
 'use strict';
 
 // Included modules
-var fs    = require('fs'),
-	https = require('https'),
+var fs       = require('fs'),
+	https    = require('https'),
+	json2csv = require('json2csv'),
 	entitlements = require('./entitlements');
 
 // Skills directory
-var SKILLS_DIR = 'skills';
+var SKILLS_DIR  = 'skills',
+	README_FILE = 'README.md',
+	ICON_FILE   = 'app_icon',
+	CSV_FILE    = 'skills.csv',
+	FORCE_WRITE = false;
 
-// Variables to hold skill data
-var appString = '',
-	appList   = [];
+// Variable to hold skill data
+var apps = [];
+
+// CSV fields definition
+var csvFields = [
+	{
+		label: 'Name',
+		value: 'name'
+	},
+	{
+		label: 'Category',
+		value: 'category'
+	},
+	{
+		label: 'Author',
+		value: 'vendorName'
+	},
+	{
+		label: 'Description',
+		value: 'description'
+	},
+	{
+		label: 'Rating',
+		value: 'averageRating'
+	},
+	{
+		label: 'Num of Reviews',
+		value: 'numberOfReviews'
+	},
+	{
+		label: 'ASIN',
+		value: 'asin'
+	},
+	{
+		label: 'Application ID',
+		value: 'id'
+	},
+	{
+		label: 'Release Date',
+		value: function(row) {
+			return Date.getDateString(row.firstReleaseDate);
+		}
+	},
+	{
+		label: 'Invocation Name',
+		value: 'launchPhrase'
+	},
+	{
+		label: 'Example Interaction 1',
+		value: function(row) {
+			return row.exampleInteractions[0] ? row.exampleInteractions[0] : '';
+		}
+	},
+	{
+		label: 'Example Interaction 2',
+		value: function(row) {
+			return row.exampleInteractions[1] ? row.exampleInteractions[1] : '';
+		}
+	},
+	{
+		label: 'Example Interaction 3',
+		value: function(row) {
+			return row.exampleInteractions[2] ? row.exampleInteractions[2] : '';
+		}
+	},
+	{
+		label: 'Privacy Policy',
+		value: function(row) {
+			return row.privacyPolicyUrl ? row.privacyPolicyUrl : '';
+		}
+	},
+	{
+		label: 'Terms of Use',
+		value: function(row) {
+			return row.termsOfUseUrl ? row.termsOfUseUrl : '';
+		}
+	},
+	{
+		label: 'In-App Purchasing',
+		value: function(row) {
+			return row.inAppPurchasingSupported ? 'Yes' : 'No';
+		}
+	}
+];
 
 // Slug function for ease of use
 String.prototype.slug = function() {
@@ -61,20 +147,17 @@ Date.getDateString = function(timestamp) {
 
 // Barebones template object
 var Template = {
-	readme: function(appList) {
+	readme: function(apps) {
 		var contents = '';
 
 		contents  = '# Alexa Skills List\n';
 		contents += 'A complete list of all available Alexa Skills\n';
 		contents += '\n';
-		contents += '**Total Skills Available:** ' + appList.length + '\n';
-		contents += '\n';
-		contents += '**Last Updated:** ' + Date.getDateString() + '\n';
-		contents += '\n';
-		contents += '***\n';
-		contents += '\n';
+		contents += '**Total Skills Available:** ' + apps.length + '\n';
 
-		contents += appList.join('\n***\n\n') + '\n';
+		for (var key in apps) {
+			contents += Template.skill.section(apps[key]);
+		}
 
 		return contents;
 	},
@@ -83,7 +166,10 @@ var Template = {
 		section: function(app) {
 			var contents = '';
 
-			contents  = '## ' + Template.skill.icon(app) + ' [' + app.name + '](' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + ')\n';
+			contents  = '\n';
+			contents += '***\n';
+			contents += '\n';
+			contents += '## ' + Template.skill.icon(app) + ' [' + app.name + '](' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + ')\n';
 			contents += '\n';
 			contents += '*' + app.exampleInteractions[0] + '*\n';
 			contents += '\n';
@@ -175,11 +261,6 @@ var Template = {
 				contents += '* **Permissions:** ' + app.permissions.join(', ') + '\n';
 			}
 
-			contents += '\n';
-
-			// Show when the info on this page was last updated
-			contents += '*This page was last updated ' + Date.getDateString() + '*' + '\n';
-
 			return contents;
 		},
 
@@ -201,6 +282,7 @@ var Template = {
 	}
 };
 
+// Download file using HTTPS module
 var download = function(url, dest, callback) {
 	var file = fs.createWriteStream(dest);
 
@@ -244,10 +326,10 @@ for (var key in entitlements.apps) {
 	app.enablement = null;
 
 	// Update image URL to point to GitHub
-	app.imageUrl = 'https://github.com/dale3h/alexa-skills-list/raw/master/' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + '/app_icon';
+	app.imageUrl = 'https://github.com/dale3h/alexa-skills-list/raw/master/' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + '/' + ICON_FILE;
 
 	// Add app to list array
-	appList.push(Template.skill.section(app));
+	apps.push(app);
 
 	// Closure to create scope for variables
 	(function(app) {
@@ -269,7 +351,7 @@ for (var key in entitlements.apps) {
 			// Directory already exists, or another error occurred
 		}
 
-		var skillFile   = skillDir + '/README.md';
+		var skillFile   = skillDir + '/' + README_FILE;
 		var timeRegex   = /[0-9]{4}[\-\/][0-9]{2}[\-\/][0-9]{2} [0-9]{2}\:[0-9]{2}\:[0-9]{2}/g;
 		var skillOutput = Template.skill.readme(app);
 		var skillInput  = '';
@@ -294,36 +376,64 @@ for (var key in entitlements.apps) {
 		}
 
 		// Download skill image
-		(function(app, skillDir) {
-			var imageFile = skillDir + '/app_icon';
+		var imageFile = skillDir + '/' + ICON_FILE;
 
-			// Check to see if the image exists
-			fs.lstat(imageFile, function(err, stats) {
-				// Check for an error (file does not exist)
-				if (err) {
-					// Download the image
-					download(app.imageUrl, err.path, function(err) {
-						// Output any errors to the console
-						if (err) {
-							console.log('[ERROR] Failed to download image for "%"', app.name);
-						}
-					});
-				}
-			});
-		})(app, skillDir);
+		// Check to see if the image exists
+		fs.lstat(imageFile, function(err, stats) {
+			// Check for an error (file does not exist)
+			if (err) {
+				// Download the image
+				download(app.imageUrl, err.path, function(err) {
+					// Output any errors to the console
+					if (err) {
+						console.log('[ERROR] Failed to download image for "%"', app.name);
+					}
+				});
+			}
+		});
 
-		// Export skill JSON data
+		// Write skill JSON data
 		fs.writeFileSync(skillDir + '/app.json', Template.skill.json(app), 'utf8');
 	})(app);
 }
 
 // Only update master README if skills were added or updated
-if (addCount || updateCount) {
+if (addCount || updateCount || FORCE_WRITE) {
 	// Write master README
-	fs.writeFileSync('README.md', Template.readme(appList), 'utf8');
-	console.log('Updated README.md');
+	fs.writeFile(README_FILE, Template.readme(apps), 'utf8', function(err) {
+		if (err) {
+			console.log('[ERROR] Failed to write %s: %s', README_FILE, err.message);
+			return;
+		}
+
+		console.log('[LOG] Updated %s', README_FILE);
+	});
+
+	// Write CSV file
+	json2csv({data: apps, fields: csvFields}, function(err, csv) {
+		if (err) {
+			console.log('[ERROR] Failed to write %s: %s', CSV_FILE, err.message);
+			return;
+		}
+
+		fs.writeFile(CSV_FILE, csv, 'utf8', function(err) {
+			if (err) {
+				console.log('[ERROR] Failed to write %s: %s', CSV_FILE, err.message);
+				return;
+			}
+
+			console.log('[LOG] Updated %s', CSV_FILE);
+		});
+	});
 }
 
 // Output number of skills on completion
-console.log('Processed a total of %d skill%s.', appList.length, (appList.length != 1 ? 's' : ''));
-console.log('Added %d skill%s, and updated %d skill%s.', addCount, (addCount != 1 ? 's' : ''), updateCount, (updateCount != 1 ? 's' : ''));
+console.log('[LOG] Processed a total of %d skill%s', apps.length, (apps.length != 1 ? 's' : ''));
+
+if (addCount) {
+	console.log('[LOG] Added %d skill%s', addCount, (addCount != 1 ? 's' : ''));
+}
+
+if (updateCount) {
+	console.log('[LOG] Updated %d skill%s', updateCount, (updateCount != 1 ? 's' : ''));
+}

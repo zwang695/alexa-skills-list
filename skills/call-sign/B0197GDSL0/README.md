@@ -22,5 +22,3 @@ A user can look up Amateur (HAM) radio call sign information from the FCC public
 * **Author:** Humblebeeapps
 * **First Release Date:** 2015-12-11 00:43:32
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

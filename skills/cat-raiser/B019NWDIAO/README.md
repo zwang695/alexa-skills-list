@@ -23,5 +23,3 @@ You raise your e-cat living in Alexa with 'Cat Raiser'. You can feed it, pet it 
 * **First Release Date:** 2015-12-22 00:50:38
 * **Terms of Use:** https://s3.amazonaws.com/cat-raiser/Terms_Of_Use.txt
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

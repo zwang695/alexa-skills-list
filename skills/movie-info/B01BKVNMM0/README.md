@@ -22,5 +22,3 @@ User starts with "open movie info" after which Alexa prompts for a movie title. 
 * **Author:** David Flannery
 * **First Release Date:** 2016-02-08 20:41:18
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

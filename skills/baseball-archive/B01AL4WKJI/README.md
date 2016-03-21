@@ -22,5 +22,3 @@ Baseball Archive provides information and statistics for any of the 18000+ playe
 * **Author:** Zim44
 * **First Release Date:** 2016-01-14 03:28:47
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

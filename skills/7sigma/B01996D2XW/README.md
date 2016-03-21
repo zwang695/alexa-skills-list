@@ -25,5 +25,3 @@ The Ask 7Sigma skill combines data from multiple sources to provide you with a c
 * **Terms of Use:** https://ask.7sigma.com/7SigmaTermsOfService.pdf
 * **Account Linking Domains:** ask.7sigma.com, www.google-analytics.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

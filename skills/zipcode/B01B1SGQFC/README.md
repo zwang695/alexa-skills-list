@@ -23,5 +23,3 @@ It will give the city and state info for any U.S. city.
 * **Author:** Adnan Riaz
 * **First Release Date:** 2016-01-25 16:06:01
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

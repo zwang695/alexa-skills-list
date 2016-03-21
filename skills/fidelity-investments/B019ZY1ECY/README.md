@@ -24,5 +24,3 @@ We heard you!  Ask Fidelity will now get you a market update along with quote in
 * **Privacy Policy:** https://www.fidelity.com/privacy-policy
 * **Terms of Use:** https://www.fidelity.com/mobile/mobile-terms-of-use
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

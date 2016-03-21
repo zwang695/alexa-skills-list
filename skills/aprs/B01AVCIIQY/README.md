@@ -24,5 +24,3 @@ Locate APRS stations using the APSR Internet System, and reverse-geocode the loc
 * **Privacy Policy:** http://kv6m.org/alexa-aprs/#privacy
 * **Terms of Use:** http://kv6m.org/alexa-aprs/#terms
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

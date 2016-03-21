@@ -32,5 +32,3 @@ Note: that being said, we're not perfect! If Alexa starts her response with "A q
 * **Author:** Majel Tech
 * **First Release Date:** 2016-02-22 21:13:33
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

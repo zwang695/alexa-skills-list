@@ -22,5 +22,3 @@ The Pug Bomb is a cuteness attack typically reserved for the domain of chat bots
 * **Author:** The Brick Matt
 * **First Release Date:** 2015-12-21 23:32:39
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

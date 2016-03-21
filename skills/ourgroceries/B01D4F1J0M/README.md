@@ -26,5 +26,3 @@ Just install the app on your phone, enter your email address in the "List sharin
 * **Privacy Policy:** https://www.ourgroceries.com/privacy
 * **Account Linking Domains:** ourgroceries.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

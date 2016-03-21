@@ -24,5 +24,3 @@ The Scriptures app will read Christian scripture passages from the Bible, Book o
 * **Privacy Policy:** http://spriton.com/w/privacy/
 * **Terms of Use:** http://spriton.com/w/terms/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

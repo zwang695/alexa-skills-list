@@ -20,5 +20,3 @@ A trivia game in which the player will be asked five questions about professiona
 * **Author:** Jared Haren
 * **First Release Date:** 2016-01-27 22:36:51
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

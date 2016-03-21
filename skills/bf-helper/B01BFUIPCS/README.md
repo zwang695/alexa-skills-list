@@ -22,5 +22,3 @@ BF Helper lets you roll new characters and lookup spell and rule descriptions. D
 * **Author:** Rain Labs
 * **First Release Date:** 2016-02-03 21:33:58
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

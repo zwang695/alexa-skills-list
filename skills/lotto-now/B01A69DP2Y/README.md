@@ -24,5 +24,3 @@ There is no guarantee of the validity of the numbers generated.  Use of this ski
 * **Author:** No Flying Logos
 * **First Release Date:** 2016-01-05 00:42:27
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

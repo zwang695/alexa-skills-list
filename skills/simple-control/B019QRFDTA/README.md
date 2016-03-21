@@ -25,5 +25,3 @@ Take charge of your Simple Control automated home using nothing more than your v
 * **Terms of Use:** http://www.simplecontrol.com/terms-conditions/
 * **Account Linking Domains:** simplecontrol.com, roomieremote.com, google.com, googleapis.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -22,5 +22,3 @@ Enjoy a game of Bingo anytime you like! With the Bingo skill, Alexa will call th
 * **Author:** LME Skills
 * **First Release Date:** 2015-11-06 20:12:06
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -24,5 +24,3 @@ It's not meant to be beaten. It's meant to beat YOU down! I will constantly be a
 * **Author:** RP
 * **First Release Date:** 2015-12-30 00:14:59
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

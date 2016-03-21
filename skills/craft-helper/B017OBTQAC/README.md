@@ -24,5 +24,3 @@ Note:Craft helper is not affiliated with Mojang AB or Minecraft.
 * **Author:** Mike Solomon
 * **First Release Date:** 2015-11-06 20:17:02
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

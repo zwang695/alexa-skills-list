@@ -22,5 +22,3 @@ The Game Dice skill allows Alexa to roll a number of multi-sided dice and announ
 * **Author:** Amazon
 * **First Release Date:** 2015-12-19 01:49:10
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

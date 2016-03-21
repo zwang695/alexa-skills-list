@@ -22,5 +22,3 @@ Start your day inspired with a collection of over 200 inspirational quotes from 
 * **Author:** Liberty Crate
 * **First Release Date:** 2015-12-24 00:00:05
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

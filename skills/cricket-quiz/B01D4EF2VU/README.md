@@ -27,5 +27,3 @@ Say the number of answer you think is correct.
 * **Author:** apjneeraj
 * **First Release Date:** 2016-03-18 06:30:28
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -22,5 +22,3 @@ With the help of Frontend Quiz you can test your HTML, CSS and Javascript knowle
 * **Author:** POSSIBLE
 * **First Release Date:** 2016-03-08 09:20:51
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

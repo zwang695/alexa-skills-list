@@ -32,5 +32,3 @@ Note: that being said, we're not perfect! Sometimes Tracker might not give you e
 * **Author:** Majel Tech
 * **First Release Date:** 2016-03-08 12:17:23
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

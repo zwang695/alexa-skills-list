@@ -26,5 +26,3 @@ But, I think we all know that Chris should be president and this skill will help
 * **Author:** casual5
 * **First Release Date:** 2016-03-01 07:58:52
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

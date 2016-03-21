@@ -24,5 +24,3 @@ Please note: Abra can guess ANY character, and some questions may not be suitabl
 * **Author:** Recursive Records
 * **First Release Date:** 2016-01-12 00:17:10
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

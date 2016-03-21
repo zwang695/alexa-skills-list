@@ -24,5 +24,3 @@ Stay up to date with NBC News for the 2016 United States presidential elections.
 * **Privacy Policy:** http://www.nbcuniversal.com/privacy/full-privacy-policy/
 * **Terms of Use:** http://www.nbcnews.com/pages/terms-of-service
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

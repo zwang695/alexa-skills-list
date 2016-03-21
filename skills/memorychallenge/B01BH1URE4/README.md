@@ -22,5 +22,3 @@ New features are being added, so please stay tuned.
 * **Author:** 王超
 * **First Release Date:** 2016-02-04 18:06:43
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

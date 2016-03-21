@@ -45,5 +45,3 @@ Security is job #1 at vivint and to make sure we keep that promise Alexa will NO
 * **Terms of Use:** http://www.vivint.com/company/policies/terms-of-use
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

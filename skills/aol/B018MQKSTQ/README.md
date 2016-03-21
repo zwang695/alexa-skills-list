@@ -29,5 +29,3 @@ You can ask for help at any time by simply saying “help me” and cancel your 
 * **Privacy Policy:** http://privacy.aol.com/
 * **Terms of Use:** http://legal.aol.com/TOS/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

@@ -25,5 +25,3 @@ Once you link the skill to a Bean Jar account, then you can start tracking rewar
 * **Terms of Use:** https://historylines.com/terms.jsp
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

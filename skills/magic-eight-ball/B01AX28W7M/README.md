@@ -22,5 +22,3 @@ Have fun asking yes or no questions to the magic eight ball and listening to it'
 * **Author:** Rain Labs
 * **First Release Date:** 2016-01-21 20:13:16
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

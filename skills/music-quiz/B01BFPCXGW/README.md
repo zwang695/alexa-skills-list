@@ -22,5 +22,3 @@ Music quiz is a fun game that you can play to test your music knowledge. Music q
 * **Author:** Vocal Apps
 * **First Release Date:** 2016-02-03 20:14:28
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

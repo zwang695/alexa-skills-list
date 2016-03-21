@@ -22,5 +22,3 @@ This skill is for Mixpo executives and employees to learn more about Mixpo's bus
 * **Author:** Salim Hemdani
 * **First Release Date:** 2016-02-04 18:02:18
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

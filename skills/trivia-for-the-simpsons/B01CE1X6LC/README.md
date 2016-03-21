@@ -22,5 +22,3 @@ My first attempt at an Alexa skill, this simple trivia game will ask players fiv
 * **Author:** dmlov3ly
 * **First Release Date:** 2016-03-01 06:38:59
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

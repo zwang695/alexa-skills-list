@@ -50,5 +50,3 @@ To learn more about what you can do with QuickEvents, go to: http://sarkonovich-
 * **Terms of Use:** http://sarkonovich-2.elasticbeanstalk.com/terms-of-service
 * **Account Linking Domains:** 
 * **In-App Purchasing:** Yes
-
-*This page was last updated 2016-03-20 21:59:45*

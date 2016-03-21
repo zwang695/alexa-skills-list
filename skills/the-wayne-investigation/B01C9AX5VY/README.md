@@ -26,5 +26,3 @@ Parental guidance suggested. The Wayne Investigation contains content that may n
 * **Author:** Warner Bros
 * **First Release Date:** 2016-02-26 20:30:20
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

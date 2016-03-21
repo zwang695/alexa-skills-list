@@ -22,5 +22,3 @@ Simple science trivia game
 * **Author:** JPV Consulting
 * **First Release Date:** 2016-03-01 01:02:42
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

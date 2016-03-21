@@ -23,5 +23,3 @@ Find exactly the right words for your poems, song lyrics, and other writing ende
 * **First Release Date:** 2016-02-10 19:21:12
 * **Privacy Policy:** http://www.rhymezone.com/help#privacy
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

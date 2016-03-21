@@ -25,5 +25,3 @@ Go to http://koncipi.com to keep up to date on this and other voice apps with th
 * **Author:** Mitch Buchman
 * **First Release Date:** 2016-03-01 07:08:26
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

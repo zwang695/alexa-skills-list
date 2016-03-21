@@ -28,5 +28,3 @@ InsultiBot may not be willing to be the bot you want, but it's designed to be th
 * **Author:** DERP Group
 * **First Release Date:** 2016-01-20 22:45:01
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

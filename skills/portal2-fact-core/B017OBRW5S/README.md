@@ -22,5 +22,3 @@ The Fact Core contains information, but it's up to you to decide if it's true or
 * **Author:** Magical Jester Creations
 * **First Release Date:** 2015-11-06 20:15:51
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

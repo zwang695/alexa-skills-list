@@ -22,5 +22,3 @@ I'm using the reindeer games quiz template to create a refresher quiz when my hi
 * **Author:** ChargED
 * **First Release Date:** 2016-01-15 20:36:44
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

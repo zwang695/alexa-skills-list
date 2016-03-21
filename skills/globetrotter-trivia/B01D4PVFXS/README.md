@@ -23,5 +23,3 @@ Globetrotter Trivia is a fun trivia game about the cities of USA.
 * **First Release Date:** 2016-03-18 10:27:02
 * **Privacy Policy:** http://udaantech.com/privacy/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

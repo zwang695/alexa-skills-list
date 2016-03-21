@@ -22,5 +22,3 @@ This simple messaging service is used to send and receive messages using your Am
 * **Author:** Rain Labs
 * **First Release Date:** 2016-01-22 17:44:17
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -22,5 +22,3 @@ This skill generates a new Haiku poem every time you use it.
 * **Author:** Navzilla
 * **First Release Date:** 2015-11-25 23:37:33
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

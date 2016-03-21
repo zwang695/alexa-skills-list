@@ -24,5 +24,3 @@ Contact us or suggest new facts: catfacts@deegles.co
 * **Author:** deegles.co
 * **First Release Date:** 2015-11-17 21:59:56
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

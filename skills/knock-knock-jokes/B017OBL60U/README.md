@@ -24,5 +24,3 @@ Knock, knock! Who's there? Only the best collection of knock-knock jokes for the
 * **Privacy Policy:** http://ocean-of-storms.com/tsatsatzu/legal/kk_privacy.htm
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/kk_terms.htm
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

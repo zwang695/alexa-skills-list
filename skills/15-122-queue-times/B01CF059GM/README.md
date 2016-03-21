@@ -23,5 +23,3 @@ This skill is designed to be used by students and TAs of the course "15-122: Pri
 * **First Release Date:** 2016-03-01 19:13:30
 * **Terms of Use:** http://jbio.co/alexa-cmuq.html
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

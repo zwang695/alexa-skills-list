@@ -25,5 +25,3 @@ Disclaimer - this skill is for entertainment purposes only and may not be suitab
 * **Privacy Policy:** http://www.hdrider.net/policy.html
 * **Terms of Use:** http://www.hdrider.net/terms.html
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

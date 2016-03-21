@@ -27,5 +27,3 @@ If you are an Ooma customer, please be sure to tap the "Login with existing acco
 * **Terms of Use:** http://www.ooma.com/terms-and-conditions-alexa/
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -22,5 +22,3 @@ Mid Century Design Trivia poses multiple-choice questions about iconic designers
 * **Author:** Civilizr
 * **First Release Date:** 2016-03-17 10:43:29
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

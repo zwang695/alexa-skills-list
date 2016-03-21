@@ -24,5 +24,3 @@ Have fun!!!! New questions will be added.
 * **Author:** Keep It simple
 * **First Release Date:** 2016-02-26 00:17:26
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

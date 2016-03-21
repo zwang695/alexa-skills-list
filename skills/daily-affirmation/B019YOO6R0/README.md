@@ -24,5 +24,3 @@ The first step is enabling the skill. Then, this skill works by allowing you to 
 * **Author:** GeekGirl Marketing and App Development
 * **First Release Date:** 2015-12-29 23:43:30
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

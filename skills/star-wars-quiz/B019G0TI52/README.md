@@ -24,5 +24,3 @@ Guests have the ability to answer trivia questions from the Star Wars universe b
 * **Privacy Policy:** https://disneyprivacycenter.com/
 * **Terms of Use:** https://disneytermsofuse.com/
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

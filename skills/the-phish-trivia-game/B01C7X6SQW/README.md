@@ -22,5 +22,3 @@ This is a Phish trivia game, made by phans for phans - we will be adding new que
 * **Author:** EP
 * **First Release Date:** 2016-02-26 00:02:33
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

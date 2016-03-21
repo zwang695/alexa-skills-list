@@ -30,5 +30,3 @@ This skill is fun to play alone, or compete against your friends and family. You
 * **Author:** KevinTMay.com
 * **First Release Date:** 2016-03-01 09:27:48
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

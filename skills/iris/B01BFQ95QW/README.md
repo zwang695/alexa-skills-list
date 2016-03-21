@@ -24,5 +24,3 @@ In Greek mythology, Iris is the messenger of the Gods. In today’s reality, Iri
 * **Privacy Policy:** http://n-echo-poke.herokuapp.com/privacypolicy.html
 * **Account Linking Domains:** www.googleapis.com, accounts.google.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

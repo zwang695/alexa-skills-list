@@ -33,5 +33,3 @@ For help just say, Alexa, ask my ghost for help
 * **Author:** Puzzles Interactive.
 * **First Release Date:** 2015-12-09 01:24:10
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

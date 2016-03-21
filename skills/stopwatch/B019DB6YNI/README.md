@@ -26,5 +26,3 @@ In addition to the explicit commands (start, status, reset, stop), launching the
 * **Author:** blandflakes
 * **First Release Date:** 2015-12-15 01:58:37
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

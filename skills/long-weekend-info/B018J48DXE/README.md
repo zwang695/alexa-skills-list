@@ -22,5 +22,3 @@ Get information about the upcoming long weekend. Useful for planning ahead your 
 * **Author:** TapsUnlimited
 * **First Release Date:** 2015-11-25 23:17:56
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

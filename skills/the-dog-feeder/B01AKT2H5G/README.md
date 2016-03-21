@@ -24,5 +24,3 @@ Usage is very simple, every time you ask Echo if you fed the dog it will tell yo
 * **Author:** Underscore Research LLC
 * **First Release Date:** 2016-01-13 22:59:08
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

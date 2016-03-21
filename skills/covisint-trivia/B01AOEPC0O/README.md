@@ -28,5 +28,3 @@ Send suggested trivia questions to James Foster.
 * **Privacy Policy:** http://www.covisint.com/enable/privacy
 * **Terms of Use:** http://www.covisint.com/enable/privacy
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

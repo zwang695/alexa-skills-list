@@ -24,5 +24,3 @@ Alexa can finally talk to your car with the Amazon Echo skill from Automatic.Lin
 * **Privacy Policy:** https://www.automatic.com/legal/
 * **Account Linking Domains:** alexa-oauth.herokuapp.com
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

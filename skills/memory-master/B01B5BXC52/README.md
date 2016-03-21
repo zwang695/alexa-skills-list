@@ -22,5 +22,3 @@ Memory Master is the quintessential Alexa game for challenging your powers of re
 * **Author:** Brian Ross
 * **First Release Date:** 2016-01-27 23:07:04
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

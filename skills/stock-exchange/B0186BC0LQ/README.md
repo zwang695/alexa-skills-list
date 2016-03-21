@@ -35,5 +35,3 @@ For extended help and examples of using this skill, please visit http://gobbyapp
 * **Privacy Policy:** http://gobbyapps.com/privacy
 * **Terms of Use:** http://gobbyapps.com/tos
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

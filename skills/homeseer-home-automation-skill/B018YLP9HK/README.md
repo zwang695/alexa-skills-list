@@ -60,5 +60,3 @@ Homeseer events can be triggered through the Echo as well:
 * **Privacy Policy:** http://www.homeseer.com/privacy-policy.html
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

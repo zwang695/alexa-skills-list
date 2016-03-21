@@ -22,5 +22,3 @@ This multiple-choice game is a fun way to challenge what you know about the movi
 * **Author:** onetwentyseven inc
 * **First Release Date:** 2016-02-26 23:42:43
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

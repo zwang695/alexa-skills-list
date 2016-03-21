@@ -28,5 +28,3 @@ This skill contains references to alcohol and may not be suitable to everyone.
 * **Author:** Fun Loving Skills
 * **First Release Date:** 2015-12-28 23:35:22
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

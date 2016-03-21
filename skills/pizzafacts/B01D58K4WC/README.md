@@ -22,5 +22,3 @@ Pizza is really the only thing worth knowing anything about. Test your pizza kno
 * **Author:** Big Fish Games
 * **First Release Date:** 2016-03-18 19:06:27
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

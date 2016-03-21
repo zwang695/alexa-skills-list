@@ -22,5 +22,3 @@ Perfect Pitch plays a major scale musical note for you to identify. The scale st
 * **Author:** Navzilla
 * **First Release Date:** 2015-12-17 23:59:41
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -24,5 +24,3 @@ Test your knowledge of Hollywood's great movies by matching five famous movies q
 * **Author:** Michael E Strupp
 * **First Release Date:** 2015-11-25 23:09:06
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

@@ -22,5 +22,3 @@ An Alexa Skill for interacting with Product Hunt using their API. This skill all
 * **Author:** John Carmichael
 * **First Release Date:** 2016-01-04 22:54:42
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

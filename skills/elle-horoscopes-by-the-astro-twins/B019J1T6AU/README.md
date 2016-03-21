@@ -24,5 +24,3 @@ Get your daily horoscopes from ELLE + The Astro Twins. Dubbed "astrologists for 
 * **Privacy Policy:** http://www.elle.com/about/privacy-policy
 * **Terms of Use:** http://www.elle.com/about/terms-of-use
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*

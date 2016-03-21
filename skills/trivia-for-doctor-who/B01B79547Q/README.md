@@ -18,5 +18,3 @@ How well do you know The Doctor?  What about the Daleks?  Test your Doctor Who k
 * **Author:** esher
 * **First Release Date:** 2016-01-29 04:58:41
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

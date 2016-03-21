@@ -50,5 +50,3 @@ Run/Stop/Status program.
 * **Privacy Policy:** http://mobilinc.com/features/mobilincconnect/
 * **Account Linking Domains:** 
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

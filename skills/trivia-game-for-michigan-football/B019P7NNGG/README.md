@@ -26,5 +26,3 @@ This skill is fun to play alone, or compete with your family and friends to see 
 * **Author:** Matt Case
 * **First Release Date:** 2015-12-22 18:45:34
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:45*

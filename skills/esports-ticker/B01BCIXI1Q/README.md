@@ -23,5 +23,3 @@ Current games supported are DOTA 2, League of Legends, StarCraft 2, Heroes of Ne
 * **Author:** abiosgaming.com
 * **First Release Date:** 2016-02-01 17:38:07
 * **In-App Purchasing:** No
-
-*This page was last updated 2016-03-20 21:59:44*
