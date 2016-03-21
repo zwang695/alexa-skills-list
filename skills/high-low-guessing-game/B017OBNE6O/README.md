@@ -1,5 +1,5 @@
 # &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/high-low-guessing-game/B017OBNE6O/app_icon" alt="High Low Guessing Game icon" width="36"> High Low Guessing Game
-![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
+![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the High Low Guessing Game skill, try saying...
 

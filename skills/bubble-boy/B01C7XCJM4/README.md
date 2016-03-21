@@ -1,5 +1,5 @@
 # &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/bubble-boy/B01C7XCJM4/app_icon" alt="Bubble Boy icon" width="36"> Bubble Boy
-![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Bubble Boy skill, try saying...
 
