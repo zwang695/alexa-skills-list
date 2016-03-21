@@ -1,5 +1,5 @@
 # &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trivia-for-trump/B01CRGMF02/app_icon" alt="Trivia For Trump icon" width="36"> Trivia For Trump
-![1.8 stars](../../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
+![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Trivia For Trump skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/jim-rockfords-answering-machine/B01D26NANC/app_icon" alt="Jim Rockford&#39;s Answering Machine icon" width="36"> Jim Rockford's Answering Machine
-![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
+![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Jim Rockford's Answering Machine skill, try saying...
 

@@ -22,7 +22,6 @@ var fs       = require('fs'),
 // Skills directory
 var SKILLS_DIR  = 'skills',
 	README_FILE = 'README.md',
-	JSON_FILE   = 'app.json',
 	ICON_FILE   = 'app_icon',
 	CSV_FILE    = 'skills.csv',
 	FORCE_WRITE = false;
@@ -268,7 +267,7 @@ var Template = {
 		icon: function(app, width) {
 			var contents = '';
 
-			contents = '&nbsp;<img src="' + getImageUrl(app) + '" alt="' + app.imageAltText.escape() + '" width="' + (width ? width : '36') + '">';
+			contents = '&nbsp;<img src="' + app.imageUrl + '" alt="' + app.imageAltText.escape() + '" width="' + (width ? width : '36') + '">';
 
 			return contents;
 		},
@@ -276,14 +275,7 @@ var Template = {
 		json: function(app) {
 			var contents = '';
 
-			// Update image URL to point to GitHub
-			var tmpImageUrl = app.imageUrl;
-			app.imageUrl = getImageUrl(app);
-
 			contents = JSON.stringify(app) + '\n';
-
-			// Set image URL back to original (fix for downloading images)
-			app.imageUrl = tmpImageUrl;
 
 			return contents;
 		}
@@ -309,11 +301,6 @@ var download = function(url, dest, callback) {
 	});
 };
 
-// Generate GitHub image URL
-var getImageUrl = function(app) {
-	return 'https://github.com/dale3h/alexa-skills-list/raw/master/' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + '/' + ICON_FILE;
-}
-
 // Create skills directory
 try {
 	fs.mkdirSync(SKILLS_DIR);
@@ -322,21 +309,8 @@ try {
 }
 
 // Keep track of how many skills get added and updated this time around
-var addCount        = 0,
-	updateCount     = 0,
-	addCountJSON    = 0,
-	updateCountJSON = 0;
-
-// Sort by alphabetical order
-entitlements.apps.sort(function(a, b) {
-	var sortValue = a.name.localeCompare(b.name);
-
-	if (sortValue == 0) {
-		sortValue = a.asin.localeCompare(b.asin);
-	}
-
-	return sortValue;
-});
+var addCount    = 0;
+var updateCount = 0;
 
 // Iterate skills and build list
 for (var key in entitlements.apps) {
@@ -350,6 +324,9 @@ for (var key in entitlements.apps) {
 
 	// Remove enablement data
 	app.enablement = null;
+
+	// Update image URL to point to GitHub
+	app.imageUrl = 'https://github.com/dale3h/alexa-skills-list/raw/master/' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + '/' + ICON_FILE;
 
 	// Add app to list array
 	apps.push(app);
@@ -374,20 +351,21 @@ for (var key in entitlements.apps) {
 			// Directory already exists, or another error occurred
 		}
 
-		// Detect to see if skill README needs to be updated
+		var skillFile   = skillDir + '/' + README_FILE;
+		var timeRegex   = /[0-9]{4}[\-\/][0-9]{2}[\-\/][0-9]{2} [0-9]{2}\:[0-9]{2}\:[0-9]{2}/g;
 		var skillOutput = Template.skill.readme(app);
 		var skillInput  = '';
 
 		try {
-			skillInput = fs.readFileSync(skillDir + '/' + README_FILE, 'utf8');
+			skillInput = fs.readFileSync(skillFile, 'utf8');
 		} catch (e) {
 			// File does not exist, or another error occurred
 		}
 
 		// Check to see if we need to update the skill's README file
-		if (!skillInput || skillInput.localeCompare(skillOutput) != 0) {
+		if (!skillInput || skillInput.replace(timeRegex, '') != skillOutput.replace(timeRegex, '')) {
 			// Output the skill's README file
-			fs.writeFileSync(skillDir + '/' + README_FILE, skillOutput, 'utf8');
+			fs.writeFileSync(skillFile, skillOutput, 'utf8');
 
 			// Increment counts respectively
 			if (!skillInput) {
@@ -408,36 +386,14 @@ for (var key in entitlements.apps) {
 				download(app.imageUrl, err.path, function(err) {
 					// Output any errors to the console
 					if (err) {
-						console.log('[ERROR] Failed to download image for "%s"', app.name);
-					} else {
-						console.log('[LOG] Downloaded image for "%s"', app.name);
+						console.log('[ERROR] Failed to download image for "%"', app.name);
 					}
 				});
 			}
 		});
 
-		// Detect to see if skill app.json needs to be updated
-		var jsonOutput = Template.skill.json(app);
-		var jsonInput  = '';
-
-		try {
-			jsonInput = fs.readFileSync(skillDir + '/' + JSON_FILE, 'utf8');
-		} catch (e) {
-			// File does not exist, or another error occurred
-		}
-
-		// Check to see if we need to update the skill's app.json file
-		if (!jsonInput || jsonInput.localeCompare(jsonOutput) != 0) {
-			// Output the skill's app.json file
-			fs.writeFileSync(skillDir + '/' + JSON_FILE, jsonOutput, 'utf8');
-
-			// Increment counts respectively
-			if (!jsonInput) {
-				addCountJSON++;
-			} else {
-				updateCountJSON++;
-			}
-		}
+		// Write skill JSON data
+		fs.writeFileSync(skillDir + '/app.json', Template.skill.json(app), 'utf8');
 	})(app);
 }
 
@@ -475,17 +431,9 @@ if (addCount || updateCount || FORCE_WRITE) {
 console.log('[LOG] Processed a total of %d skill%s', apps.length, (apps.length != 1 ? 's' : ''));
 
 if (addCount) {
-	console.log('[LOG] Added %d skill %s', addCount, (addCount != 1 ? 's' : ''));
+	console.log('[LOG] Added %d skill%s', addCount, (addCount != 1 ? 's' : ''));
 }
 
 if (updateCount) {
 	console.log('[LOG] Updated %d skill%s', updateCount, (updateCount != 1 ? 's' : ''));
-}
-
-if (addCountJSON) {
-	console.log('[LOG] Added %d %s file%s', addCountJSON, JSON_FILE, (addCountJSON != 1 ? 's' : ''));
-}
-
-if (updateCountJSON) {
-	console.log('[LOG] Updated %d %s file%s', updateCountJSON, JSON_FILE, (updateCountJSON != 1 ? 's' : ''));
 }

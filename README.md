@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 398
+**Total Skills Available:** 391
 
 ***
 
@@ -332,14 +332,6 @@ Ask about the popularity of names in the US going back to 1880!
 *Alexa ask baby stats to add poo*
 
 Baby stats is a skill that allows Alexa to count stats for your babies diapers (wet and stool), and meals. You can then ask Alexa to get the stats for a day .
-
-***
-
-## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/bargain-buddy/B01D8GGZEC/app_icon" alt="Bargain Buddy icon" width="36"> [Bargain Buddy](skills/bargain-buddy/B01D8GGZEC)
-
-*Alexa, ask Bargain Buddy for the Woot.*
-
-Find out the daily deal from merchants like Woot and Meh by asking Alexa.
 
 ***
 
@@ -704,14 +696,6 @@ CompliBot is your best bud.  It wants nothing more than to make your day a littl
 
 ***
 
-## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/computer-quiz/B01D8NYT7K/app_icon" alt="Computer Quiz icon" width="36"> [Computer Quiz](skills/computer-quiz/B01D8NYT7K)
-
-*Alexa ask computer quiz*
-
-Quiz on Computers. Say "Alexa, Ask Computer Quiz to start.
-
-***
-
 ## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/computer-science/B01CQU57JU/app_icon" alt="Computer Science icon" width="36"> [Computer Science](skills/computer-science/B01CQU57JU)
 
 *Alexa, launch computer science*
@@ -768,11 +752,11 @@ Can't remember exactly how to craft an enchantment table or a dropper in Minecra
 
 ***
 
-## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/cricket-quiz/B01BFV8EIM/app_icon" alt="Cricket Quiz icon" width="36"> [Cricket Quiz](skills/cricket-quiz/B01BFV8EIM)
+## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/cricket-quiz/B01D4EF2VU/app_icon" alt="Cricket Quiz icon" width="36"> [Cricket Quiz](skills/cricket-quiz/B01D4EF2VU)
 
-*Alexa, launch cricket quiz*
+*Alexa, ask Cricket Quiz*
 
-This is a trivia game for cricket game lovers.
+Cricket quiz to have fun with all cricket lovers and to test their knowledge about cricket!!
 
 ***
 
@@ -784,11 +768,11 @@ How well do you know your cricket? Take this to find out.
 
 ***
 
-## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/cricket-quiz/B01D4EF2VU/app_icon" alt="Cricket Quiz icon" width="36"> [Cricket Quiz](skills/cricket-quiz/B01D4EF2VU)
+## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/cricket-quiz/B01BFV8EIM/app_icon" alt="Cricket Quiz icon" width="36"> [Cricket Quiz](skills/cricket-quiz/B01BFV8EIM)
 
-*Alexa, ask Cricket Quiz*
+*Alexa, launch cricket quiz*
 
-Cricket quiz to have fun with all cricket lovers and to test their knowledge about cricket!!
+This is a trivia game for cricket game lovers.
 
 ***
 
@@ -1167,14 +1151,6 @@ Get freedom-themed quotes
 *Alexa, open frontend quiz.*
 
 Frontend Quiz is an educational skill for Amazon Echo. It will ask 10 questions about HTML, CSS and Javascript.
-
-***
-
-## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/funny-quoter/B01D8ESCDG/app_icon" alt="Funny Quoter icon" width="36"> [Funny Quoter](skills/funny-quoter/B01D8ESCDG)
-
-*Alexa, ask Funny Quoter to tell me a quote.*
-
-Funny Quoter is here to make you smile and chuckle with dozens of funny quotes. All you need to do is ask Alexa!
 
 ***
 
@@ -1923,14 +1899,6 @@ Explore a mysterious castle, collecting items and solving puzzles.
 
 ***
 
-## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/mythoughts/B01D8GQC90/app_icon" alt="MyThoughts icon" width="36"> [MyThoughts](skills/mythoughts/B01D8GQC90)
-
-*Alexa, ask MyThoughts for an Affirmation.*
-
-MyThoughts brings positive affirmations to your life.  MyThoughts will say a positive affirmation, and you can repeat it.  You will then get you another.
-
-***
-
 ## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/name-nerd/B01D1NNBFS/app_icon" alt="Name Nerd icon" width="36"> [Name Nerd](skills/name-nerd/B01D1NNBFS)
 
 *Alexa, ask Name Nerd about the name Allison*
@@ -2099,19 +2067,19 @@ Ask Alexa to generate your Powerball numbers, and get the latest results.
 
 ***
 
-## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/powerball-numbers/B01BL1CAVI/app_icon" alt="Powerball Numbers icon" width="36"> [Powerball Numbers](skills/powerball-numbers/B01BL1CAVI)
-
-*Alexa ask Powerball for the winning numbers*
-
-Ask Powerball for the Latest Winning Powerball Numbers!
-
-***
-
 ## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/powerball-numbers/B01C7URPZS/app_icon" alt="Powerball Numbers icon" width="36"> [Powerball Numbers](skills/powerball-numbers/B01C7URPZS)
 
 *Alexa, open power ball numbers*
 
 Tells you what the most recent winning Powerball lottery numbers were.  May not be suitable for all ages.
+
+***
+
+## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/powerball-numbers/B01BL1CAVI/app_icon" alt="Powerball Numbers icon" width="36"> [Powerball Numbers](skills/powerball-numbers/B01BL1CAVI)
+
+*Alexa ask Powerball for the winning numbers*
+
+Ask Powerball for the Latest Winning Powerball Numbers!
 
 ***
 
@@ -2173,7 +2141,7 @@ Cute pugs shoved straight into your ears.
 
 ## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/puget-sound/B01CQ14KNI/app_icon" alt="Puget Sound icon" width="36"> [Puget Sound](skills/puget-sound/B01CQ14KNI)
 
-*Alexa ask Puget Sound what is the ferry status in Clinton*
+*Alexa ask puget sound what is the ferry status in Clinton*
 
 A way to find local information in the Washington State Puget Sound area.
 
@@ -2184,14 +2152,6 @@ A way to find local information in the Washington State Puget Sound area.
 *Alexa, ask QRZ who AA7BQ is*
 
 Provides easy lookup of FCC licenses by callsign.
-
-***
-
-## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/queen-of-pop-trivia/B01D8JH8XQ/app_icon" alt="Queen Of Pop Trivia icon" width="36"> [Queen Of Pop Trivia](skills/queen-of-pop-trivia/B01D8JH8XQ)
-
-*Alexa, Launch Madonna Trivia*
-
-A fun trivia for fans of Madonna, the Queen of Pop. Alexa, launch Madonna Trivia
 
 ***
 
@@ -2440,14 +2400,6 @@ Control your SkyBell HD video doorbell, including live video recordings!
 *Alexa, ask Skyscanner for a flight*
 
 Search for flight prices anywhere in the world, by conversing with Alexa.
-
-***
-
-## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/south-american-capitals-quiz/B01D8IE5BU/app_icon" alt="South American Capitals Quiz icon" width="36"> [South American Capitals Quiz](skills/south-american-capitals-quiz/B01D8IE5BU)
-
-*Alexa start South American Capitals*
-
-A short and simple quiz of South America's capital cities.
 
 ***
 
@@ -2776,14 +2728,6 @@ In this Batman-themed choose-your-own-adventure mystery game, you play a detecti
 *Alexa, open the wizard*
 
 Meet the wizard. He's about to do some pretty wild magic...
-
-***
-
-## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/therapist/B01D8C095W/app_icon" alt="Therapist icon" width="36"> [Therapist](skills/therapist/B01D8C095W)
-
-*Alexa, tell Eliza that I am sad*
-
-A fun program that pretends to be a psycho therapist. Not to be taken seriously, this is just for fun!
 
 ***
 
