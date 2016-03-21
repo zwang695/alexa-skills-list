@@ -1,0 +1,28 @@
+{
+  "name": "alexa-skills-list",
+  "version": "0.3.0",
+  "description": "Alexa Skills list generator",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dale3h/alexa-skills-list.git"
+  },
+  "keywords": [
+    "amazon",
+    "echo",
+    "alexa",
+    "skills"
+  ],
+  "author": "Dale Higgs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dale3h/alexa-skills-list/issues"
+  },
+  "homepage": "https://github.com/dale3h/alexa-skills-list",
+  "dependencies": {
+    "json2csv": "^3.2.0"
+  }
+}
