@@ -4,9 +4,7 @@
  * Author: Dale Higgs
  *
  * Use the Alexa web UI and Chrome console Network tab to get JSON list of skills.
- * Place this in a file called `entitlements.js` in this format:
- *
- *   module.exports = <JSON data>
+ * Place this data in a file named `skills.json`
  *
  * @todo Make everything asyncronous
  * @todo Add sorted lists: Alphabetical, Categories, Top Rated, Top Reviewed, Newest, Oldest
@@ -17,7 +15,7 @@
 var fs       = require('fs'),
 	https    = require('https'),
 	json2csv = require('json2csv'),
-	entitlements = require('./entitlements');
+	skills   = require('./skills.json').apps;
 
 // Skills directory
 var SKILLS_DIR  = 'skills',
@@ -334,7 +332,7 @@ var addCount        = 0,
 	updateCountJSON = 0;
 
 // Sort by alphabetical order
-entitlements.apps.sort(function(a, b) {
+skills.sort(function(a, b) {
 	var sortValue = a.name.localeCompare(b.name);
 
 	if (sortValue == 0) {
@@ -345,9 +343,9 @@ entitlements.apps.sort(function(a, b) {
 });
 
 // Iterate skills and build list
-for (var key in entitlements.apps) {
+for (var key in skills) {
 	// Skill object
-	var app = entitlements.apps[key];
+	var app = skills[key];
 
 	// Do not include development skills
 	if (!app.canDisable) {

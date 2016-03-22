@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 400
+**Total Skills Available:** 401
 
 ***
 
@@ -548,6 +548,14 @@ Fun trivia about alcohol to impress your friends
 *Alexa, ask Boston Transit when the next train to South Station gets in to Kendall*
 
 Find out the status of MBTA public transit (subway, Silver, and commuter line status, as well as real time predictions for trains).
+
+***
+
+## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/brain-of-things-control/B01DAH9TSS/app_icon" alt="Brain of Things Control icon" width="36"> [Brain of Things Control](skills/brain-of-things-control/B01DAH9TSS)
+
+*Alexa, tell brain of things to open the curtains*
+
+Control your Brain of Things enabled home.
 
 ***
 
