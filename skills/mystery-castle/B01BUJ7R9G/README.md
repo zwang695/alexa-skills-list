@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/mystery-castle/B01BUJ7R9G/app_icon" alt="Mystery Castle icon" width="36"> Mystery Castle
+# &nbsp;<img src="app_icon" alt="Mystery Castle icon" width="36"> Mystery Castle
 ![1.6 stars](../../../images/ic_star_black_18dp_1x.png)![1.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Mystery Castle skill, try saying...

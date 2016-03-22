@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/utterly-body-quiz/B01CE30RSK/app_icon" alt="Utterly Body Quiz icon" width="36"> Utterly Body Quiz
+# &nbsp;<img src="app_icon" alt="Utterly Body Quiz icon" width="36"> Utterly Body Quiz
 ![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Utterly Body Quiz skill, try saying...

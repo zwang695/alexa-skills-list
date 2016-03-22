@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/satoshis-bitcoin-quote/B017OBVZ74/app_icon" alt="Satoshi&#39;s Bitcoin Quote icon" width="36"> Satoshi's Bitcoin Quote
+# &nbsp;<img src="app_icon" alt="Satoshi&#39;s Bitcoin Quote icon" width="36"> Satoshi's Bitcoin Quote
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Satoshi's Bitcoin Quote skill, try saying...

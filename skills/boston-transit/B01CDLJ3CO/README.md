@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/boston-transit/B01CDLJ3CO/app_icon" alt="Boston Transit icon" width="36"> Boston Transit
+# &nbsp;<img src="app_icon" alt="Boston Transit icon" width="36"> Boston Transit
 ![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Boston Transit skill, try saying...

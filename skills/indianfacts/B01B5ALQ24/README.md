@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/indianfacts/B01B5ALQ24/app_icon" alt="IndianFacts icon" width="36"> IndianFacts
+# &nbsp;<img src="app_icon" alt="IndianFacts icon" width="36"> IndianFacts
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the IndianFacts skill, try saying...

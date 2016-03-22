@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/star-wars-quiz/B019G0TI52/app_icon" alt="Star Wars Quiz icon" width="36"> Star Wars Quiz
+# &nbsp;<img src="app_icon" alt="Star Wars Quiz icon" width="36"> Star Wars Quiz
 ![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 13
 
 To use the Star Wars Quiz skill, try saying...

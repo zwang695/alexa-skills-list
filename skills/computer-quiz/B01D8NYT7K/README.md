@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/computer-quiz/B01D8NYT7K/app_icon" alt="Computer Quiz icon" width="36"> Computer Quiz
+# &nbsp;<img src="app_icon" alt="Computer Quiz icon" width="36"> Computer Quiz
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Computer Quiz skill, try saying...

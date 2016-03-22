@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/all-knowing-eight-ball/B01D0JI7CA/app_icon" alt="All Knowing Eight Ball icon" width="36"> All Knowing Eight Ball
+# &nbsp;<img src="app_icon" alt="All Knowing Eight Ball icon" width="36"> All Knowing Eight Ball
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the All Knowing Eight Ball skill, try saying...

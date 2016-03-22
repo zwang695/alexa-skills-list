@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/ask-cloud-ninja/B01CXTNFUC/app_icon" alt="Ask Cloud Ninja icon" width="36"> Ask Cloud Ninja
+# &nbsp;<img src="app_icon" alt="Ask Cloud Ninja icon" width="36"> Ask Cloud Ninja
 ![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Ask Cloud Ninja skill, try saying...

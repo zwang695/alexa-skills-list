@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/sassy-persona/B018MVOE4G/app_icon" alt="Sassy Persona icon" width="36"> Sassy Persona
+# &nbsp;<img src="app_icon" alt="Sassy Persona icon" width="36"> Sassy Persona
 ![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the Sassy Persona skill, try saying...

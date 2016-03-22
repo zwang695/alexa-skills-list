@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/bart-times/B017OBFKEI/app_icon" alt="BART Times icon" width="36"> BART Times
+# &nbsp;<img src="app_icon" alt="BART Times icon" width="36"> BART Times
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the BART Times skill, try saying...

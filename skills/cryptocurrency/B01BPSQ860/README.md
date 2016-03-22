@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/cryptocurrency/B01BPSQ860/app_icon" alt="CryptoCurrency icon" width="36"> CryptoCurrency
+# &nbsp;<img src="app_icon" alt="CryptoCurrency icon" width="36"> CryptoCurrency
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the CryptoCurrency skill, try saying...

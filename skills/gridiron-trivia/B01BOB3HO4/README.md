@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/gridiron-trivia/B01BOB3HO4/app_icon" alt="Gridiron Trivia icon" width="36"> Gridiron Trivia
+# &nbsp;<img src="app_icon" alt="Gridiron Trivia icon" width="36"> Gridiron Trivia
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Gridiron Trivia skill, try saying...

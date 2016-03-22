@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-phish-trivia-game/B01C7X6SQW/app_icon" alt="The Phish Trivia Game icon" width="36"> The Phish Trivia Game
+# &nbsp;<img src="app_icon" alt="The Phish Trivia Game icon" width="36"> The Phish Trivia Game
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Phish Trivia Game skill, try saying...

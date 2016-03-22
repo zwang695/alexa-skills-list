@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/a-fans-trivia-about-the-san-francisco-giants/B01CE78A5S/app_icon" alt="A fan&#39;s trivia about the San Francisco Giants icon" width="36"> A fan's trivia about the San Francisco Giants
+# &nbsp;<img src="app_icon" alt="A fan&#39;s trivia about the San Francisco Giants icon" width="36"> A fan's trivia about the San Francisco Giants
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the A fan's trivia about the San Francisco Giants skill, try saying...

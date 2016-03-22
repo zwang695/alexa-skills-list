@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/phone-finder-for-alexa/B0194CJ63Q/app_icon" alt="Phone Finder for Alexa icon" width="36"> Phone Finder for Alexa
+# &nbsp;<img src="app_icon" alt="Phone Finder for Alexa icon" width="36"> Phone Finder for Alexa
 ![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 24
 
 To use the Phone Finder for Alexa skill, try saying...

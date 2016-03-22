@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/bitcoin-price/B017OBUWP0/app_icon" alt="Bitcoin Price icon" width="36"> Bitcoin Price
+# &nbsp;<img src="app_icon" alt="Bitcoin Price icon" width="36"> Bitcoin Price
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Bitcoin Price skill, try saying...

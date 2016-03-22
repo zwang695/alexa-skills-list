@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/lifx/B017O9P72A/app_icon" alt="LIFX icon" width="36"> LIFX
+# &nbsp;<img src="app_icon" alt="LIFX icon" width="36"> LIFX
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 44
 
 To use the LIFX skill, try saying...

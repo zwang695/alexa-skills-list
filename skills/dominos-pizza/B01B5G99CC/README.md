@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/dominos-pizza/B01B5G99CC/app_icon" alt="Domino&#39;s Pizza icon" width="36"> Domino's Pizza
+# &nbsp;<img src="app_icon" alt="Domino&#39;s Pizza icon" width="36"> Domino's Pizza
 ![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the Domino's Pizza skill, try saying...

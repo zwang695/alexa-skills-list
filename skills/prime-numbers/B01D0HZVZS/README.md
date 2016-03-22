@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/prime-numbers/B01D0HZVZS/app_icon" alt="Prime Numbers icon" width="36"> Prime Numbers
+# &nbsp;<img src="app_icon" alt="Prime Numbers icon" width="36"> Prime Numbers
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Prime Numbers skill, try saying...

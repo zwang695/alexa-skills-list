@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/egr-lunch-bot/B01B3PU7UI/app_icon" alt="EGR Lunch Bot icon" width="36"> EGR Lunch Bot
+# &nbsp;<img src="app_icon" alt="EGR Lunch Bot icon" width="36"> EGR Lunch Bot
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the EGR Lunch Bot skill, try saying...

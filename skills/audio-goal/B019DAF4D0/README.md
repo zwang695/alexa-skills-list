@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/audio-goal/B019DAF4D0/app_icon" alt="Audio Goal icon" width="36"> Audio Goal
+# &nbsp;<img src="app_icon" alt="Audio Goal icon" width="36"> Audio Goal
 ![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 13
 
 To use the Audio Goal skill, try saying...

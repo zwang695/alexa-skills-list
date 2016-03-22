@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/mother-goose-for-nest/B01CO7QRZS/app_icon" alt="Mother Goose for Nest icon" width="36"> Mother Goose for Nest
+# &nbsp;<img src="app_icon" alt="Mother Goose for Nest icon" width="36"> Mother Goose for Nest
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Mother Goose for Nest skill, try saying...

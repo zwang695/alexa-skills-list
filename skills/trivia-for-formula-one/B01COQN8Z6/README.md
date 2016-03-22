@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trivia-for-formula-one/B01COQN8Z6/app_icon" alt="Trivia for Formula One icon" width="36"> Trivia for Formula One
+# &nbsp;<img src="app_icon" alt="Trivia for Formula One icon" width="36"> Trivia for Formula One
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia for Formula One skill, try saying...

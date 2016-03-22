@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/ask-grandmom/B018F5OQ2Y/app_icon" alt="Ask Grandmom icon" width="36"> Ask Grandmom
+# &nbsp;<img src="app_icon" alt="Ask Grandmom icon" width="36"> Ask Grandmom
 ![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Ask Grandmom skill, try saying...

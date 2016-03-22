@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/pronunciations/B0197E9NX4/app_icon" alt="Pronunciations icon" width="36"> Pronunciations
+# &nbsp;<img src="app_icon" alt="Pronunciations icon" width="36"> Pronunciations
 ![1.8 stars](../../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Pronunciations skill, try saying...

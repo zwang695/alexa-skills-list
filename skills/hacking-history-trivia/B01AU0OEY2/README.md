@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/hacking-history-trivia/B01AU0OEY2/app_icon" alt="Hacking History Trivia icon" width="36"> Hacking History Trivia
+# &nbsp;<img src="app_icon" alt="Hacking History Trivia icon" width="36"> Hacking History Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hacking History Trivia skill, try saying...

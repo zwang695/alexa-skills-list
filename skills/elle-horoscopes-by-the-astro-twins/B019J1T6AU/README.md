@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/elle-horoscopes-by-the-astro-twins/B019J1T6AU/app_icon" alt="ELLE Horoscopes by The Astro Twins icon" width="36"> ELLE Horoscopes by The Astro Twins
+# &nbsp;<img src="app_icon" alt="ELLE Horoscopes by The Astro Twins icon" width="36"> ELLE Horoscopes by The Astro Twins
 ![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 22
 
 To use the ELLE Horoscopes by The Astro Twins skill, try saying...

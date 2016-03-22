@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/agog-reader/B019YOS8TM/app_icon" alt="Agog Reader icon" width="36"> Agog Reader
+# &nbsp;<img src="app_icon" alt="Agog Reader icon" width="36"> Agog Reader
 ![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Agog Reader skill, try saying...

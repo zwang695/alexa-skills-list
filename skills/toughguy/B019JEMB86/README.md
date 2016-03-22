@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/toughguy/B019JEMB86/app_icon" alt="Toughguy icon" width="36"> Toughguy
+# &nbsp;<img src="app_icon" alt="Toughguy icon" width="36"> Toughguy
 ![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the Toughguy skill, try saying...

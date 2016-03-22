@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/cookbook/B01BZ7TO5S/app_icon" alt="CookBook icon" width="36"> CookBook
+# &nbsp;<img src="app_icon" alt="CookBook icon" width="36"> CookBook
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the CookBook skill, try saying...

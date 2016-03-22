@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/perfect-pitch/B019HTWWW8/app_icon" alt="Perfect Pitch icon" width="36"> Perfect Pitch
+# &nbsp;<img src="app_icon" alt="Perfect Pitch icon" width="36"> Perfect Pitch
 ![2.1 stars](../../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the Perfect Pitch skill, try saying...

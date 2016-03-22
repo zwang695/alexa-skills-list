@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/tic-tac-toe/B01CHMTJSW/app_icon" alt="Tic Tac Toe icon" width="36"> Tic Tac Toe
+# &nbsp;<img src="app_icon" alt="Tic Tac Toe icon" width="36"> Tic Tac Toe
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Tic Tac Toe skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trivia-for-fans-of-superman/B01D289Y9Y/app_icon" alt="Trivia for Fans of Superman icon" width="36"> Trivia for Fans of Superman
+# &nbsp;<img src="app_icon" alt="Trivia for Fans of Superman icon" width="36"> Trivia for Fans of Superman
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia for Fans of Superman skill, try saying...

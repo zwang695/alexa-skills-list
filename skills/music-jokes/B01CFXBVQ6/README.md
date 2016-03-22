@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/music-jokes/B01CFXBVQ6/app_icon" alt="Music Jokes icon" width="36"> Music Jokes
+# &nbsp;<img src="app_icon" alt="Music Jokes icon" width="36"> Music Jokes
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Music Jokes skill, try saying...

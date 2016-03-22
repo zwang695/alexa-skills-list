@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/automatic/B017OJL1IE/app_icon" alt="Automatic icon" width="36"> Automatic
+# &nbsp;<img src="app_icon" alt="Automatic icon" width="36"> Automatic
 ![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_half_black_18dp_1x.png) 16
 
 To use the Automatic skill, try saying...

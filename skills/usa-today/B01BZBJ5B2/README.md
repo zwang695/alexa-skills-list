@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/usa-today/B01BZBJ5B2/app_icon" alt="USA Today icon" width="36"> USA Today
+# &nbsp;<img src="app_icon" alt="USA Today icon" width="36"> USA Today
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the USA Today skill, try saying...

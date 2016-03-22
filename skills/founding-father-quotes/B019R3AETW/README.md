@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/founding-father-quotes/B019R3AETW/app_icon" alt="Founding Father Quotes icon" width="36"> Founding Father Quotes
+# &nbsp;<img src="app_icon" alt="Founding Father Quotes icon" width="36"> Founding Father Quotes
 ![3.4 stars](../../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Founding Father Quotes skill, try saying...

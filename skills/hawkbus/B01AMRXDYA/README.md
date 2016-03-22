@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/hawkbus/B01AMRXDYA/app_icon" alt="HawkBus icon" width="36"> HawkBus
+# &nbsp;<img src="app_icon" alt="HawkBus icon" width="36"> HawkBus
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the HawkBus skill, try saying...

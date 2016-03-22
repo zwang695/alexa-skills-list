@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/quick-check-quiz/B01AOB3J2U/app_icon" alt="Quick Check Quiz icon" width="36"> Quick Check Quiz
+# &nbsp;<img src="app_icon" alt="Quick Check Quiz icon" width="36"> Quick Check Quiz
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Quick Check Quiz skill, try saying...

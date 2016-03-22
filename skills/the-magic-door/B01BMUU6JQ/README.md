@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-magic-door/B01BMUU6JQ/app_icon" alt="The Magic Door icon" width="36"> The Magic Door
+# &nbsp;<img src="app_icon" alt="The Magic Door icon" width="36"> The Magic Door
 ![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../../images/ic_star_half_black_18dp_1x.png) 26
 
 To use the The Magic Door skill, try saying...

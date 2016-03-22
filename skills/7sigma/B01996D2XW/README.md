@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/7sigma/B01996D2XW/app_icon" alt="7Sigma icon" width="36"> 7Sigma
+# &nbsp;<img src="app_icon" alt="7Sigma icon" width="36"> 7Sigma
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the 7Sigma skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/beat-cylinder/B01BUI8610/app_icon" alt="Beat Cylinder icon" width="36"> Beat Cylinder
+# &nbsp;<img src="app_icon" alt="Beat Cylinder icon" width="36"> Beat Cylinder
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Beat Cylinder skill, try saying...

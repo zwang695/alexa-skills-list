@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-law/B01B7AHS8I/app_icon" alt="The Law icon" width="36"> The Law
+# &nbsp;<img src="app_icon" alt="The Law icon" width="36"> The Law
 ![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the The Law skill, try saying...

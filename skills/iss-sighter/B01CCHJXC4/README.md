@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/iss-sighter/B01CCHJXC4/app_icon" alt="ISS Sighter icon" width="36"> ISS Sighter
+# &nbsp;<img src="app_icon" alt="ISS Sighter icon" width="36"> ISS Sighter
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the ISS Sighter skill, try saying...

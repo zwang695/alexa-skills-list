@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/accuweather/B01A06BU8E/app_icon" alt="AccuWeather icon" width="36"> AccuWeather
+# &nbsp;<img src="app_icon" alt="AccuWeather icon" width="36"> AccuWeather
 ![1.3 stars](../../../images/ic_star_black_18dp_1x.png)![1.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 44
 
 To use the AccuWeather skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/dc-tech-cal/B01C9LRW76/app_icon" alt="D.C. Tech Cal icon" width="36"> D.C. Tech Cal
+# &nbsp;<img src="app_icon" alt="D.C. Tech Cal icon" width="36"> D.C. Tech Cal
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the D.C. Tech Cal skill, try saying...

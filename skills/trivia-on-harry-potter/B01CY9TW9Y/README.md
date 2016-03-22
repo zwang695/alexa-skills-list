@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trivia-on-harry-potter/B01CY9TW9Y/app_icon" alt="Trivia on Harry Potter icon" width="36"> Trivia on Harry Potter
+# &nbsp;<img src="app_icon" alt="Trivia on Harry Potter icon" width="36"> Trivia on Harry Potter
 ![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Trivia on Harry Potter skill, try saying...

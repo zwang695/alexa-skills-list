@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/freebusy-scheduling-buddy/B017OBE2NI/app_icon" alt="FreeBusy Scheduling Buddy icon" width="36"> FreeBusy Scheduling Buddy
+# &nbsp;<img src="app_icon" alt="FreeBusy Scheduling Buddy icon" width="36"> FreeBusy Scheduling Buddy
 ![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the FreeBusy Scheduling Buddy skill, try saying...

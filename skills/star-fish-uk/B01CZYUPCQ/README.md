@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/star-fish-uk/B01CZYUPCQ/app_icon" alt="Star fish UK icon" width="36"> Star fish UK
+# &nbsp;<img src="app_icon" alt="Star fish UK icon" width="36"> Star fish UK
 ![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Star fish UK skill, try saying...

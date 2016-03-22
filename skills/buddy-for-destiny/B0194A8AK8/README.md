@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/buddy-for-destiny/B0194A8AK8/app_icon" alt="Buddy for Destiny icon" width="36"> Buddy for Destiny
+# &nbsp;<img src="app_icon" alt="Buddy for Destiny icon" width="36"> Buddy for Destiny
 ![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_half_black_18dp_1x.png) 16
 
 To use the Buddy for Destiny skill, try saying...

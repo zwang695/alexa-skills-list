@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/huffpost/B018WNJQ74/app_icon" alt="HuffPost icon" width="36"> HuffPost
+# &nbsp;<img src="app_icon" alt="HuffPost icon" width="36"> HuffPost
 ![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the HuffPost skill, try saying...

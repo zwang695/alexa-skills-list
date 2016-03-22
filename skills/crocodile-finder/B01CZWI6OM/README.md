@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/crocodile-finder/B01CZWI6OM/app_icon" alt="Crocodile Finder icon" width="36"> Crocodile Finder
+# &nbsp;<img src="app_icon" alt="Crocodile Finder icon" width="36"> Crocodile Finder
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Crocodile Finder skill, try saying...

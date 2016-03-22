@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/baby-lexi/B01CSJVGJE/app_icon" alt="Baby Lexi icon" width="36"> Baby Lexi
+# &nbsp;<img src="app_icon" alt="Baby Lexi icon" width="36"> Baby Lexi
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Baby Lexi skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/christophers-airplane-trivia/B01CE4JDSE/app_icon" alt="Christopher&#39;s Airplane Trivia icon" width="36"> Christopher's Airplane Trivia
+# &nbsp;<img src="app_icon" alt="Christopher&#39;s Airplane Trivia icon" width="36"> Christopher's Airplane Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Christopher's Airplane Trivia skill, try saying...

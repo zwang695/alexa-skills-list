@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/my-bmi/B01CH04AGK/app_icon" alt="My BMI icon" width="36"> My BMI
+# &nbsp;<img src="app_icon" alt="My BMI icon" width="36"> My BMI
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the My BMI skill, try saying...

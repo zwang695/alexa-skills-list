@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/homeseer-home-automation-skill/B018YLP9HK/app_icon" alt="HomeSeer Home Automation Skill icon" width="36"> HomeSeer Home Automation Skill
+# &nbsp;<img src="app_icon" alt="HomeSeer Home Automation Skill icon" width="36"> HomeSeer Home Automation Skill
 ![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the HomeSeer Home Automation Skill skill, try saying...

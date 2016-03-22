@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/rock-paper-scissors-lizard-spock/B01BI9JO1W/app_icon" alt="Rock Paper Scissors Lizard Spock icon" width="36"> Rock Paper Scissors Lizard Spock
+# &nbsp;<img src="app_icon" alt="Rock Paper Scissors Lizard Spock icon" width="36"> Rock Paper Scissors Lizard Spock
 ![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Rock Paper Scissors Lizard Spock skill, try saying...

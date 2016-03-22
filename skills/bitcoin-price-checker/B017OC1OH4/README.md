@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/bitcoin-price-checker/B017OC1OH4/app_icon" alt="Bitcoin Price Checker icon" width="36"> Bitcoin Price Checker
+# &nbsp;<img src="app_icon" alt="Bitcoin Price Checker icon" width="36"> Bitcoin Price Checker
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bitcoin Price Checker skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/wake-up-call/B01CRF003C/app_icon" alt="Wake Up Call icon" width="36"> Wake Up Call
+# &nbsp;<img src="app_icon" alt="Wake Up Call icon" width="36"> Wake Up Call
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Wake Up Call skill, try saying...

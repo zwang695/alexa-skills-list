@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/mbta-alerts/B01D30TK7W/app_icon" alt="MBTA Alerts icon" width="36"> MBTA Alerts
+# &nbsp;<img src="app_icon" alt="MBTA Alerts icon" width="36"> MBTA Alerts
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the MBTA Alerts skill, try saying...

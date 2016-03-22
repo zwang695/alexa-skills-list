@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-wayne-investigation/B01C9AX5VY/app_icon" alt="The Wayne Investigation icon" width="36"> The Wayne Investigation
+# &nbsp;<img src="app_icon" alt="The Wayne Investigation icon" width="36"> The Wayne Investigation
 ![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_half_black_18dp_1x.png) 30
 
 To use the The Wayne Investigation skill, try saying...

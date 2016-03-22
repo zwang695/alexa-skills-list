@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/call-sign/B0197GDSL0/app_icon" alt="Call Sign icon" width="36"> Call Sign
+# &nbsp;<img src="app_icon" alt="Call Sign icon" width="36"> Call Sign
 ![1.8 stars](../../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../../images/ic_star_border_black_18dp_1x.png) 22
 
 To use the Call Sign skill, try saying...

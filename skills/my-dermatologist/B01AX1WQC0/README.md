@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/my-dermatologist/B01AX1WQC0/app_icon" alt="My Dermatologist icon" width="36"> My Dermatologist
+# &nbsp;<img src="app_icon" alt="My Dermatologist icon" width="36"> My Dermatologist
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the My Dermatologist skill, try saying...

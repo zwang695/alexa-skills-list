@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/domain-name-info/B019R06W5A/app_icon" alt="Domain Name Info icon" width="36"> Domain Name Info
+# &nbsp;<img src="app_icon" alt="Domain Name Info icon" width="36"> Domain Name Info
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Domain Name Info skill, try saying...

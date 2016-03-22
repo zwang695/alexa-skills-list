@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/askabouttrump/B01BUKMHKY/app_icon" alt="AskAboutTrump icon" width="36"> AskAboutTrump
+# &nbsp;<img src="app_icon" alt="AskAboutTrump icon" width="36"> AskAboutTrump
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the AskAboutTrump skill, try saying...

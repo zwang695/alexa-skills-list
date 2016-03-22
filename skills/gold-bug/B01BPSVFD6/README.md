@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/gold-bug/B01BPSVFD6/app_icon" alt="Gold Bug icon" width="36"> Gold Bug
+# &nbsp;<img src="app_icon" alt="Gold Bug icon" width="36"> Gold Bug
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Gold Bug skill, try saying...

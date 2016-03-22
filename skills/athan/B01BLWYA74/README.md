@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/athan/B01BLWYA74/app_icon" alt="Athan icon" width="36"> Athan
+# &nbsp;<img src="app_icon" alt="Athan icon" width="36"> Athan
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Athan skill, try saying...

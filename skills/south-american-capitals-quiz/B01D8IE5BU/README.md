@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/south-american-capitals-quiz/B01D8IE5BU/app_icon" alt="South American Capitals Quiz icon" width="36"> South American Capitals Quiz
+# &nbsp;<img src="app_icon" alt="South American Capitals Quiz icon" width="36"> South American Capitals Quiz
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the South American Capitals Quiz skill, try saying...

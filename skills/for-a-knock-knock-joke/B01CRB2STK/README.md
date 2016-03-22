@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/for-a-knock-knock-joke/B01CRB2STK/app_icon" alt="For a Knock Knock Joke icon" width="36"> For a Knock Knock Joke
+# &nbsp;<img src="app_icon" alt="For a Knock Knock Joke icon" width="36"> For a Knock Knock Joke
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the For a Knock Knock Joke skill, try saying...

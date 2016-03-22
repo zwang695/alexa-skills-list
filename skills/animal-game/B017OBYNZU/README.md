@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/animal-game/B017OBYNZU/app_icon" alt="Animal Game icon" width="36"> Animal Game
+# &nbsp;<img src="app_icon" alt="Animal Game icon" width="36"> Animal Game
 ![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 51
 
 To use the Animal Game skill, try saying...

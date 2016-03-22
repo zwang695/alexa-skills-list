@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-dude/B01AB8XKC0/app_icon" alt="The Dude icon" width="36"> The Dude
+# &nbsp;<img src="app_icon" alt="The Dude icon" width="36"> The Dude
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the The Dude skill, try saying...

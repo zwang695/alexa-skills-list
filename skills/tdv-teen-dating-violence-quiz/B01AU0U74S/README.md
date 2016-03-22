@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/tdv-teen-dating-violence-quiz/B01AU0U74S/app_icon" alt="TDV (Teen Dating Violence) Quiz icon" width="36"> TDV (Teen Dating Violence) Quiz
+# &nbsp;<img src="app_icon" alt="TDV (Teen Dating Violence) Quiz icon" width="36"> TDV (Teen Dating Violence) Quiz
 ![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the TDV (Teen Dating Violence) Quiz skill, try saying...

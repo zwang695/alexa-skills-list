@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/glympse/B019X6M400/app_icon" alt="Glympse icon" width="36"> Glympse
+# &nbsp;<img src="app_icon" alt="Glympse icon" width="36"> Glympse
 ![2.9 stars](../../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 12
 
 To use the Glympse skill, try saying...

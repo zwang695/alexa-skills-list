@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-ultimate-hollywood-trivia/B01B5BVRD6/app_icon" alt="The Ultimate Hollywood Trivia icon" width="36"> The Ultimate Hollywood Trivia
+# &nbsp;<img src="app_icon" alt="The Ultimate Hollywood Trivia icon" width="36"> The Ultimate Hollywood Trivia
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the The Ultimate Hollywood Trivia skill, try saying...

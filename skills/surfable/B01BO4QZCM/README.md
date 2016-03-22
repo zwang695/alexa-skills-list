@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/surfable/B01BO4QZCM/app_icon" alt="Surfable icon" width="36"> Surfable
+# &nbsp;<img src="app_icon" alt="Surfable icon" width="36"> Surfable
 ![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Surfable skill, try saying...

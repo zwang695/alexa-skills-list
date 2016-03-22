@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/mydlink-home/B01BL06CC2/app_icon" alt="mydlink Home icon" width="36"> mydlink Home
+# &nbsp;<img src="app_icon" alt="mydlink Home icon" width="36"> mydlink Home
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the mydlink Home skill, try saying...

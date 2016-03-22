@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-wizard/B018EX6O54/app_icon" alt="the wizard icon" width="36"> the wizard
+# &nbsp;<img src="app_icon" alt="the wizard icon" width="36"> the wizard
 ![1.9 stars](../../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the the wizard skill, try saying...

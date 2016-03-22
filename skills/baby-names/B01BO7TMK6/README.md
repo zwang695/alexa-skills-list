@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/baby-names/B01BO7TMK6/app_icon" alt="Baby Names icon" width="36"> Baby Names
+# &nbsp;<img src="app_icon" alt="Baby Names icon" width="36"> Baby Names
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Baby Names skill, try saying...

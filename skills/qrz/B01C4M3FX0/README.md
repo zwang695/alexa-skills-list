@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/qrz/B01C4M3FX0/app_icon" alt="QRZ icon" width="36"> QRZ
+# &nbsp;<img src="app_icon" alt="QRZ icon" width="36"> QRZ
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the QRZ skill, try saying...

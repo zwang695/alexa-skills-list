@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trivia-challenge-us-history/B01B25D1CA/app_icon" alt="Trivia Challenge: U.S History icon" width="36"> Trivia Challenge: U.S History
+# &nbsp;<img src="app_icon" alt="Trivia Challenge: U.S History icon" width="36"> Trivia Challenge: U.S History
 ![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Trivia Challenge: U.S History skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/pickup-lines/B01BUIBT8M/app_icon" alt="PIckup Lines icon" width="36"> PIckup Lines
+# &nbsp;<img src="app_icon" alt="PIckup Lines icon" width="36"> PIckup Lines
 ![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_half_black_18dp_1x.png) 34
 
 To use the PIckup Lines skill, try saying...

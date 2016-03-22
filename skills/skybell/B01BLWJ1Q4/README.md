@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/skybell/B01BLWJ1Q4/app_icon" alt="SkyBell icon" width="36"> SkyBell
+# &nbsp;<img src="app_icon" alt="SkyBell icon" width="36"> SkyBell
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the SkyBell skill, try saying...

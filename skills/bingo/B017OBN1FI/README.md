@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/bingo/B017OBN1FI/app_icon" alt="Bingo icon" width="36"> Bingo
+# &nbsp;<img src="app_icon" alt="Bingo icon" width="36"> Bingo
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the Bingo skill, try saying...

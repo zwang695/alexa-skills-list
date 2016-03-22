@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/anymote-smart-remote/B018YICXQS/app_icon" alt="AnyMote Smart Remote icon" width="36"> AnyMote Smart Remote
+# &nbsp;<img src="app_icon" alt="AnyMote Smart Remote icon" width="36"> AnyMote Smart Remote
 ![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 25
 
 To use the AnyMote Smart Remote skill, try saying...

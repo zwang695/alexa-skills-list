@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/mid-century-designer-trivia/B01D31TJ2C/app_icon" alt="Mid Century Designer Trivia icon" width="36"> Mid Century Designer Trivia
+# &nbsp;<img src="app_icon" alt="Mid Century Designer Trivia icon" width="36"> Mid Century Designer Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mid Century Designer Trivia skill, try saying...

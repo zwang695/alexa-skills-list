@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/basket-savings/B01BPT2U2U/app_icon" alt="Basket Savings icon" width="36"> Basket Savings
+# &nbsp;<img src="app_icon" alt="Basket Savings icon" width="36"> Basket Savings
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Basket Savings skill, try saying...

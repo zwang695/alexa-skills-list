@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/giant-spoon/B01CY5R5LA/app_icon" alt="Giant Spoon icon" width="36"> Giant Spoon
+# &nbsp;<img src="app_icon" alt="Giant Spoon icon" width="36"> Giant Spoon
 ![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Giant Spoon skill, try saying...

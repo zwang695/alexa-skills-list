@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trainer-tips/B01BFQ0M1Y/app_icon" alt="Trainer Tips icon" width="36"> Trainer Tips
+# &nbsp;<img src="app_icon" alt="Trainer Tips icon" width="36"> Trainer Tips
 ![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png)![5 stars](../../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Trainer Tips skill, try saying...

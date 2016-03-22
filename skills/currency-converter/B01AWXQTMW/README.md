@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/currency-converter/B01AWXQTMW/app_icon" alt="Currency Converter icon" width="36"> Currency Converter
+# &nbsp;<img src="app_icon" alt="Currency Converter icon" width="36"> Currency Converter
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Currency Converter skill, try saying...

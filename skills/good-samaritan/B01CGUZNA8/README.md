@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/good-samaritan/B01CGUZNA8/app_icon" alt="Good Samaritan icon" width="36"> Good Samaritan
+# &nbsp;<img src="app_icon" alt="Good Samaritan icon" width="36"> Good Samaritan
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Good Samaritan skill, try saying...

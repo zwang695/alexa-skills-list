@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/kcrw-on-air/B01AYL0KUY/app_icon" alt="KCRW On Air icon" width="36"> KCRW On Air
+# &nbsp;<img src="app_icon" alt="KCRW On Air icon" width="36"> KCRW On Air
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the KCRW On Air skill, try saying...

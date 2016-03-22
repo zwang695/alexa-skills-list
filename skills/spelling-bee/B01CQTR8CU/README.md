@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/spelling-bee/B01CQTR8CU/app_icon" alt="Spelling Bee icon" width="36"> Spelling Bee
+# &nbsp;<img src="app_icon" alt="Spelling Bee icon" width="36"> Spelling Bee
 ![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the Spelling Bee skill, try saying...

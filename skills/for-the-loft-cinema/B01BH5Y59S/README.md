@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/for-the-loft-cinema/B01BH5Y59S/app_icon" alt="For The Loft Cinema icon" width="36"> For The Loft Cinema
+# &nbsp;<img src="app_icon" alt="For The Loft Cinema icon" width="36"> For The Loft Cinema
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the For The Loft Cinema skill, try saying...

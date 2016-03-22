@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/drive-time/B01995S7QU/app_icon" alt="Drive Time icon" width="36"> Drive Time
+# &nbsp;<img src="app_icon" alt="Drive Time icon" width="36"> Drive Time
 ![1.9 stars](../../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 17
 
 To use the Drive Time skill, try saying...

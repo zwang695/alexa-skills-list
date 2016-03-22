@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/beat-the-dealer/B017OC122Q/app_icon" alt="Beat The Dealer icon" width="36"> Beat The Dealer
+# &nbsp;<img src="app_icon" alt="Beat The Dealer icon" width="36"> Beat The Dealer
 ![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Beat The Dealer skill, try saying...

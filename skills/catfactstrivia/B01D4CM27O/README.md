@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/catfactstrivia/B01D4CM27O/app_icon" alt="CatFactsTrivia icon" width="36"> CatFactsTrivia
+# &nbsp;<img src="app_icon" alt="CatFactsTrivia icon" width="36"> CatFactsTrivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CatFactsTrivia skill, try saying...

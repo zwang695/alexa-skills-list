@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/zipcode/B01B1SGQFC/app_icon" alt="ZipCode icon" width="36"> ZipCode
+# &nbsp;<img src="app_icon" alt="ZipCode icon" width="36"> ZipCode
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the ZipCode skill, try saying...

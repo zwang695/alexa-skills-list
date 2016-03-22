@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/resistor-decoder/B019YGPC1M/app_icon" alt="Resistor Decoder icon" width="36"> Resistor Decoder
+# &nbsp;<img src="app_icon" alt="Resistor Decoder icon" width="36"> Resistor Decoder
 ![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Resistor Decoder skill, try saying...

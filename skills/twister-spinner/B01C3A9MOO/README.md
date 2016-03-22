@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/twister-spinner/B01C3A9MOO/app_icon" alt="Twister Spinner icon" width="36"> Twister Spinner
+# &nbsp;<img src="app_icon" alt="Twister Spinner icon" width="36"> Twister Spinner
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Twister Spinner skill, try saying...

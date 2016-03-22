@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/insults/B01CSJ4FTM/app_icon" alt="Insults icon" width="36"> Insults
+# &nbsp;<img src="app_icon" alt="Insults icon" width="36"> Insults
 ![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Insults skill, try saying...

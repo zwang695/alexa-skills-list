@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/email-assistant/B01BW5A4EI/app_icon" alt="Email Assistant icon" width="36"> Email Assistant
+# &nbsp;<img src="app_icon" alt="Email Assistant icon" width="36"> Email Assistant
 ![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Email Assistant skill, try saying...

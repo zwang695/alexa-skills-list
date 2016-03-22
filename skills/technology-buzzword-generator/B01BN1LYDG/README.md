@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/technology-buzzword-generator/B01BN1LYDG/app_icon" alt="Technology Buzzword Generator icon" width="36"> Technology Buzzword Generator
+# &nbsp;<img src="app_icon" alt="Technology Buzzword Generator icon" width="36"> Technology Buzzword Generator
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Technology Buzzword Generator skill, try saying...

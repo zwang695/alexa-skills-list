@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/garageio/B017OBI3AQ/app_icon" alt="Garageio icon" width="36"> Garageio
+# &nbsp;<img src="app_icon" alt="Garageio icon" width="36"> Garageio
 ![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Garageio skill, try saying...

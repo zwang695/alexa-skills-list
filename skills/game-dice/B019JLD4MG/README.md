@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/game-dice/B019JLD4MG/app_icon" alt="Game Dice icon" width="36"> Game Dice
+# &nbsp;<img src="app_icon" alt="Game Dice icon" width="36"> Game Dice
 ![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Game Dice skill, try saying...

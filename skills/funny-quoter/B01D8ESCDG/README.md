@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/funny-quoter/B01D8ESCDG/app_icon" alt="Funny Quoter icon" width="36"> Funny Quoter
+# &nbsp;<img src="app_icon" alt="Funny Quoter icon" width="36"> Funny Quoter
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Funny Quoter skill, try saying...

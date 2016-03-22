@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/portal2-fact-core/B017OBRW5S/app_icon" alt="Portal2 Fact Core icon" width="36"> Portal2 Fact Core
+# &nbsp;<img src="app_icon" alt="Portal2 Fact Core icon" width="36"> Portal2 Fact Core
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Portal2 Fact Core skill, try saying...

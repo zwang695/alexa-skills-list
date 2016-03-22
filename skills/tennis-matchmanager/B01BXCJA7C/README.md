@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/tennis-matchmanager/B01BXCJA7C/app_icon" alt="Tennis MatchManager icon" width="36"> Tennis MatchManager
+# &nbsp;<img src="app_icon" alt="Tennis MatchManager icon" width="36"> Tennis MatchManager
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Tennis MatchManager skill, try saying...

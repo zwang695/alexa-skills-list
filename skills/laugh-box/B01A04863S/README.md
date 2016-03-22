@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/laugh-box/B01A04863S/app_icon" alt="Laugh Box icon" width="36"> Laugh Box
+# &nbsp;<img src="app_icon" alt="Laugh Box icon" width="36"> Laugh Box
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Laugh Box skill, try saying...

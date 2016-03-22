@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/globetrotter-trivia/B01D4PVFXS/app_icon" alt="Globetrotter Trivia icon" width="36"> Globetrotter Trivia
+# &nbsp;<img src="app_icon" alt="Globetrotter Trivia icon" width="36"> Globetrotter Trivia
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Globetrotter Trivia skill, try saying...

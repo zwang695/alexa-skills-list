@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/drop-some-knowledge/B01C65GSIE/app_icon" alt="Drop Some Knowledge icon" width="36"> Drop Some Knowledge
+# &nbsp;<img src="app_icon" alt="Drop Some Knowledge icon" width="36"> Drop Some Knowledge
 ![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Drop Some Knowledge skill, try saying...

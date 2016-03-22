@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/capital-quiz/B019YP4I9U/app_icon" alt="Capital Quiz icon" width="36"> Capital Quiz
+# &nbsp;<img src="app_icon" alt="Capital Quiz icon" width="36"> Capital Quiz
 ![1.9 stars](../../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 17
 
 To use the Capital Quiz skill, try saying...

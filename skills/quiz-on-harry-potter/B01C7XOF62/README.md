@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/quiz-on-harry-potter/B01C7XOF62/app_icon" alt="Quiz on Harry Potter icon" width="36"> Quiz on Harry Potter
+# &nbsp;<img src="app_icon" alt="Quiz on Harry Potter icon" width="36"> Quiz on Harry Potter
 ![1.7 stars](../../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Quiz on Harry Potter skill, try saying...

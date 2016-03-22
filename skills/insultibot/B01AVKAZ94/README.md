@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/insultibot/B01AVKAZ94/app_icon" alt="InsultiBot icon" width="36"> InsultiBot
+# &nbsp;<img src="app_icon" alt="InsultiBot icon" width="36"> InsultiBot
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the InsultiBot skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/long-island-train-information/B01CJPJRDE/app_icon" alt="Long Island Train Information icon" width="36"> Long Island Train Information
+# &nbsp;<img src="app_icon" alt="Long Island Train Information icon" width="36"> Long Island Train Information
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Long Island Train Information skill, try saying...

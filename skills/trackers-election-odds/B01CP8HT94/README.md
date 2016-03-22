@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trackers-election-odds/B01CP8HT94/app_icon" alt="Tracker&#39;s Election Odds icon" width="36"> Tracker's Election Odds
+# &nbsp;<img src="app_icon" alt="Tracker&#39;s Election Odds icon" width="36"> Tracker's Election Odds
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tracker's Election Odds skill, try saying...

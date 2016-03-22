@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/greatest-common-divisor-gcd/B01COTHDSG/app_icon" alt="Greatest Common Divisor (GCD) icon" width="36"> Greatest Common Divisor (GCD)
+# &nbsp;<img src="app_icon" alt="Greatest Common Divisor (GCD) icon" width="36"> Greatest Common Divisor (GCD)
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Greatest Common Divisor (GCD) skill, try saying...

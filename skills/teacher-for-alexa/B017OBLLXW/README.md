@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/teacher-for-alexa/B017OBLLXW/app_icon" alt="Teacher for Alexa icon" width="36"> Teacher for Alexa
+# &nbsp;<img src="app_icon" alt="Teacher for Alexa icon" width="36"> Teacher for Alexa
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Teacher for Alexa skill, try saying...

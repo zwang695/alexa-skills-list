@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/a-yo-mama-joke/B01BLXRLDI/app_icon" alt="A Yo Mama Joke icon" width="36"> A Yo Mama Joke
+# &nbsp;<img src="app_icon" alt="A Yo Mama Joke icon" width="36"> A Yo Mama Joke
 ![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the A Yo Mama Joke skill, try saying...

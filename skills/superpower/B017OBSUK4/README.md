@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/superpower/B017OBSUK4/app_icon" alt="Superpower! icon" width="36"> Superpower!
+# &nbsp;<img src="app_icon" alt="Superpower! icon" width="36"> Superpower!
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Superpower! skill, try saying...

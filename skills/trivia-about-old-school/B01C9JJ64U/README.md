@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trivia-about-old-school/B01C9JJ64U/app_icon" alt="Trivia About Old School icon" width="36"> Trivia About Old School
+# &nbsp;<img src="app_icon" alt="Trivia About Old School icon" width="36"> Trivia About Old School
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia About Old School skill, try saying...

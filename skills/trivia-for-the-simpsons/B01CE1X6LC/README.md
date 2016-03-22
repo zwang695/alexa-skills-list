@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trivia-for-the-simpsons/B01CE1X6LC/app_icon" alt="Trivia for &quot;The Simpsons&quot; icon" width="36"> Trivia for "The Simpsons"
+# &nbsp;<img src="app_icon" alt="Trivia for &quot;The Simpsons&quot; icon" width="36"> Trivia for "The Simpsons"
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Trivia for "The Simpsons" skill, try saying...

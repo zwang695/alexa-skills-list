@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/pizzafacts/B01D58K4WC/app_icon" alt="PizzaFacts icon" width="36"> PizzaFacts
+# &nbsp;<img src="app_icon" alt="PizzaFacts icon" width="36"> PizzaFacts
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the PizzaFacts skill, try saying...

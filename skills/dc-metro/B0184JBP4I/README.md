@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/dc-metro/B0184JBP4I/app_icon" alt="DC Metro icon" width="36"> DC Metro
+# &nbsp;<img src="app_icon" alt="DC Metro icon" width="36"> DC Metro
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the DC Metro skill, try saying...

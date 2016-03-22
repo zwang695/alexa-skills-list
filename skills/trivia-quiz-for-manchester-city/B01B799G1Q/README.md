@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trivia-quiz-for-manchester-city/B01B799G1Q/app_icon" alt="Trivia Quiz for Manchester City icon" width="36"> Trivia Quiz for Manchester City
+# &nbsp;<img src="app_icon" alt="Trivia Quiz for Manchester City icon" width="36"> Trivia Quiz for Manchester City
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Trivia Quiz for Manchester City skill, try saying...

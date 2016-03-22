@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/womens-underwear/B01BPIG5I6/app_icon" alt="Women&#39;s Underwear icon" width="36"> Women's Underwear
+# &nbsp;<img src="app_icon" alt="Women&#39;s Underwear icon" width="36"> Women's Underwear
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Women's Underwear skill, try saying...

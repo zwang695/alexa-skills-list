@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/eliza/B0184NR4P8/app_icon" alt="Eliza icon" width="36"> Eliza
+# &nbsp;<img src="app_icon" alt="Eliza icon" width="36"> Eliza
 ![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../../images/ic_star_border_black_18dp_1x.png) 17
 
 To use the Eliza skill, try saying...

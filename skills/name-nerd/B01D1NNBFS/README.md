@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/name-nerd/B01D1NNBFS/app_icon" alt="Name Nerd icon" width="36"> Name Nerd
+# &nbsp;<img src="app_icon" alt="Name Nerd icon" width="36"> Name Nerd
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Name Nerd skill, try saying...

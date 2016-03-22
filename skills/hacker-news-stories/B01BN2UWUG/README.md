@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/hacker-news-stories/B01BN2UWUG/app_icon" alt="Hacker News Stories icon" width="36"> Hacker News Stories
+# &nbsp;<img src="app_icon" alt="Hacker News Stories icon" width="36"> Hacker News Stories
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Hacker News Stories skill, try saying...

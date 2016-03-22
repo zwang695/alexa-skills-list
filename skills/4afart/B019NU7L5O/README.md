@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/4afart/B019NU7L5O/app_icon" alt="4AFart icon" width="36"> 4AFart
+# &nbsp;<img src="app_icon" alt="4AFart icon" width="36"> 4AFart
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 105
 
 To use the 4AFart skill, try saying...

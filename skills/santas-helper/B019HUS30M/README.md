@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/santas-helper/B019HUS30M/app_icon" alt="Santa&#39;s Helper icon" width="36"> Santa's Helper
+# &nbsp;<img src="app_icon" alt="Santa&#39;s Helper icon" width="36"> Santa's Helper
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 28
 
 To use the Santa's Helper skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/the-scriptures/B01A637FE4/app_icon" alt="The Scriptures icon" width="36"> The Scriptures
+# &nbsp;<img src="app_icon" alt="The Scriptures icon" width="36"> The Scriptures
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the The Scriptures skill, try saying...

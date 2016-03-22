@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/dino-trivia/B01BOAU93C/app_icon" alt="Dino Trivia icon" width="36"> Dino Trivia
+# &nbsp;<img src="app_icon" alt="Dino Trivia icon" width="36"> Dino Trivia
 ![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Dino Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/ourgroceries/B01D4F1J0M/app_icon" alt="OurGroceries icon" width="36"> OurGroceries
+# &nbsp;<img src="app_icon" alt="OurGroceries icon" width="36"> OurGroceries
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the OurGroceries skill, try saying...

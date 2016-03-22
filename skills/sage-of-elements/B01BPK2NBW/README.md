@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/sage-of-elements/B01BPK2NBW/app_icon" alt="Sage of Elements icon" width="36"> Sage of Elements
+# &nbsp;<img src="app_icon" alt="Sage of Elements icon" width="36"> Sage of Elements
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Sage of Elements skill, try saying...

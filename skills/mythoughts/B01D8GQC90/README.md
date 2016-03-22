@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/mythoughts/B01D8GQC90/app_icon" alt="MyThoughts icon" width="36"> MyThoughts
+# &nbsp;<img src="app_icon" alt="MyThoughts icon" width="36"> MyThoughts
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the MyThoughts skill, try saying...

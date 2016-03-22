@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/sheep-count/B01COCCKW2/app_icon" alt="Sheep Count icon" width="36"> Sheep Count
+# &nbsp;<img src="app_icon" alt="Sheep Count icon" width="36"> Sheep Count
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Sheep Count skill, try saying...

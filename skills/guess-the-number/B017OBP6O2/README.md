@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/guess-the-number/B017OBP6O2/app_icon" alt="Guess The Number icon" width="36"> Guess The Number
+# &nbsp;<img src="app_icon" alt="Guess The Number icon" width="36"> Guess The Number
 ![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Guess The Number skill, try saying...

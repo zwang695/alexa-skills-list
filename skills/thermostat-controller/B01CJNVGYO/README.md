@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/thermostat-controller/B01CJNVGYO/app_icon" alt="Thermostat Controller icon" width="36"> Thermostat Controller
+# &nbsp;<img src="app_icon" alt="Thermostat Controller icon" width="36"> Thermostat Controller
 ![3.2 stars](../../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 13
 
 To use the Thermostat Controller skill, try saying...

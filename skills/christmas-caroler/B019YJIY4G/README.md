@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/christmas-caroler/B019YJIY4G/app_icon" alt="Christmas Caroler icon" width="36"> Christmas Caroler
+# &nbsp;<img src="app_icon" alt="Christmas Caroler icon" width="36"> Christmas Caroler
 ![1 stars](../../../images/ic_star_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Christmas Caroler skill, try saying...

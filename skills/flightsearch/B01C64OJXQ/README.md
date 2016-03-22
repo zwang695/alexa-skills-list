@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/flightsearch/B01C64OJXQ/app_icon" alt="FlightSearch icon" width="36"> FlightSearch
+# &nbsp;<img src="app_icon" alt="FlightSearch icon" width="36"> FlightSearch
 ![1.4 stars](../../../images/ic_star_black_18dp_1x.png)![1.4 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the FlightSearch skill, try saying...

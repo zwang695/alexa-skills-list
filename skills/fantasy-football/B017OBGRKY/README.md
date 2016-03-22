@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/fantasy-football/B017OBGRKY/app_icon" alt="Fantasy Football icon" width="36"> Fantasy Football
+# &nbsp;<img src="app_icon" alt="Fantasy Football icon" width="36"> Fantasy Football
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Fantasy Football skill, try saying...

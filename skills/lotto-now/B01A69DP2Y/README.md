@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/lotto-now/B01A69DP2Y/app_icon" alt="Lotto Now icon" width="36"> Lotto Now
+# &nbsp;<img src="app_icon" alt="Lotto Now icon" width="36"> Lotto Now
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Lotto Now skill, try saying...

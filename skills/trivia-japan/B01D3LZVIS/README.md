@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/trivia-japan/B01D3LZVIS/app_icon" alt="Trivia Japan icon" width="36"> Trivia Japan
+# &nbsp;<img src="app_icon" alt="Trivia Japan icon" width="36"> Trivia Japan
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia Japan skill, try saying...

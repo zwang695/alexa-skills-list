@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/board-gamer/B01D39I76I/app_icon" alt="Board Gamer icon" width="36"> Board Gamer
+# &nbsp;<img src="app_icon" alt="Board Gamer icon" width="36"> Board Gamer
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Board Gamer skill, try saying...

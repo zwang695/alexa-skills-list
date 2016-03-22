@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/northern-lights-forecast/B01A7OE2BG/app_icon" alt="Northern Lights Forecast icon" width="36"> Northern Lights Forecast
+# &nbsp;<img src="app_icon" alt="Northern Lights Forecast icon" width="36"> Northern Lights Forecast
 ![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Northern Lights Forecast skill, try saying...

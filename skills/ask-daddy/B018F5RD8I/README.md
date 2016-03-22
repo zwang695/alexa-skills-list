@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/ask-daddy/B018F5RD8I/app_icon" alt="Ask Daddy icon" width="36"> Ask Daddy
+# &nbsp;<img src="app_icon" alt="Ask Daddy icon" width="36"> Ask Daddy
 ![1.7 stars](../../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../../images/ic_star_border_black_18dp_1x.png) 19
 
 To use the Ask Daddy skill, try saying...

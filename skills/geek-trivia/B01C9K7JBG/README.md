@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/geek-trivia/B01C9K7JBG/app_icon" alt="Geek Trivia icon" width="36"> Geek Trivia
+# &nbsp;<img src="app_icon" alt="Geek Trivia icon" width="36"> Geek Trivia
 ![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_black_18dp_1x.png)![4 stars](../../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Geek Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/geek-games/B01C9HRQIK/app_icon" alt="Geek Games icon" width="36"> Geek Games
+# &nbsp;<img src="app_icon" alt="Geek Games icon" width="36"> Geek Games
 ![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Geek Games skill, try saying...

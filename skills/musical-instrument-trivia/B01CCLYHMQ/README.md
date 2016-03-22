@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/musical-instrument-trivia/B01CCLYHMQ/app_icon" alt="Musical Instrument Trivia icon" width="36"> Musical Instrument Trivia
+# &nbsp;<img src="app_icon" alt="Musical Instrument Trivia icon" width="36"> Musical Instrument Trivia
 ![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Musical Instrument Trivia skill, try saying...

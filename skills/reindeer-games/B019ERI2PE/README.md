@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/reindeer-games/B019ERI2PE/app_icon" alt="Reindeer Games icon" width="36"> Reindeer Games
+# &nbsp;<img src="app_icon" alt="Reindeer Games icon" width="36"> Reindeer Games
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Reindeer Games skill, try saying...

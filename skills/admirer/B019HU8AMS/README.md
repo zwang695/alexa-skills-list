@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/admirer/B019HU8AMS/app_icon" alt="Admirer icon" width="36"> Admirer
+# &nbsp;<img src="app_icon" alt="Admirer icon" width="36"> Admirer
 ![1.9 stars](../../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../../images/ic_star_border_black_18dp_1x.png) 15
 
 To use the Admirer skill, try saying...

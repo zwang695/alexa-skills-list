@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/baseball-trivia-app/B01D1II83S/app_icon" alt="Baseball Trivia App icon" width="36"> Baseball Trivia App
+# &nbsp;<img src="app_icon" alt="Baseball Trivia App icon" width="36"> Baseball Trivia App
 ![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Baseball Trivia App skill, try saying...

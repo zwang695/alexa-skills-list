@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/angry-bard/B017OBNX7Y/app_icon" alt="Angry Bard icon" width="36"> Angry Bard
+# &nbsp;<img src="app_icon" alt="Angry Bard icon" width="36"> Angry Bard
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 31
 
 To use the Angry Bard skill, try saying...

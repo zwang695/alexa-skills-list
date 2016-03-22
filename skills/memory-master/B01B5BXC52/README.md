@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/memory-master/B01B5BXC52/app_icon" alt="Memory Master icon" width="36"> Memory Master
+# &nbsp;<img src="app_icon" alt="Memory Master icon" width="36"> Memory Master
 ![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Memory Master skill, try saying...

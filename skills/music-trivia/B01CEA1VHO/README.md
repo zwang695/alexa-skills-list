@@ -1,4 +1,4 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/music-trivia/B01CEA1VHO/app_icon" alt="Music Trivia icon" width="36"> Music Trivia
+# &nbsp;<img src="app_icon" alt="Music Trivia icon" width="36"> Music Trivia
 ![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Music Trivia skill, try saying...
