@@ -37,5 +37,4 @@ UPDATE: Locations are now saved! No need to start over if you want to edit your 
 * **First Release Date:** 2015-12-11 22:31:12
 * **Privacy Policy:** http://sarkonovich-2.elasticbeanstalk.com/privacy
 * **Terms of Use:** http://sarkonovich-2.elasticbeanstalk.com/terms-of-service
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

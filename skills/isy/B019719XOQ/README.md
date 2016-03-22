@@ -47,5 +47,4 @@ Get program status
 * **Author:** Universal Devices, Inc.
 * **First Release Date:** 2015-12-10 19:16:47
 * **Privacy Policy:** http://www.universal-devices.com/privacy/
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

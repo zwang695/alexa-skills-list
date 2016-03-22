@@ -48,5 +48,4 @@ To learn more about what you can do with QuickEvents, go to: http://sarkonovich-
 * **First Release Date:** 2015-12-01 19:01:11
 * **Privacy Policy:** http://sarkonovich-2.elasticbeanstalk.com/privacy
 * **Terms of Use:** http://sarkonovich-2.elasticbeanstalk.com/terms-of-service
-* **Account Linking Domains:** 
 * **In-App Purchasing:** Yes

@@ -34,5 +34,4 @@ Learn more at http://www.muzzley.com or shoot us an email to support@muzzley.com
 * **First Release Date:** 2016-03-04 20:18:52
 * **Privacy Policy:** https://www.muzzley.com/privacy
 * **Terms of Use:** https://www.muzzley.com/terms
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

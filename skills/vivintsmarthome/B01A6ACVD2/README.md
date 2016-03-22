@@ -43,5 +43,4 @@ Security is job #1 at vivint and to make sure we keep that promise Alexa will NO
 * **First Release Date:** 2016-01-05 01:31:42
 * **Privacy Policy:** http://www.vivint.com/company/policies/privacy
 * **Terms of Use:** http://www.vivint.com/company/policies/terms-of-use
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

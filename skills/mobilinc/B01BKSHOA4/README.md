@@ -48,5 +48,4 @@ Run/Stop/Status program.
 * **Author:** Mobile Integrated Solutions, LLC
 * **First Release Date:** 2016-02-08 18:02:41
 * **Privacy Policy:** http://mobilinc.com/features/mobilincconnect/
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

@@ -23,5 +23,4 @@ Once you link the skill to a Bean Jar account, then you can start tracking rewar
 * **First Release Date:** 2016-01-14 01:25:52
 * **Privacy Policy:** https://historylines.com/privacy.jsp
 * **Terms of Use:** https://historylines.com/terms.jsp
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

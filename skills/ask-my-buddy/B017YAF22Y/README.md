@@ -25,5 +25,4 @@ Adding friends and family to your contacts is easy.  Once you link Alexa with t
 * **First Release Date:** 2015-11-13 23:22:45
 * **Privacy Policy:** http://www.askmybuddy.net/privacy.html
 * **Terms of Use:** http://www.askmybuddy.net/tos.html
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

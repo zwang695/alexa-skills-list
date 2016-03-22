@@ -87,5 +87,4 @@ https://www.sarkonovich-2.elasticbeanstalk.com/house_band
 * **First Release Date:** 2016-01-19 23:27:34
 * **Privacy Policy:** http://sarkonovich-2.elasticbeanstalk.com/privacy
 * **Terms of Use:** http://sarkonovich-2.elasticbeanstalk.com/terms-of-service
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

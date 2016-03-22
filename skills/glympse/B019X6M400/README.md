@@ -25,5 +25,4 @@ To get started, you can add friends or family members to the Glympse skill by sa
 * **First Release Date:** 2015-12-29 01:25:54
 * **Privacy Policy:** http://glympse.com/privacy
 * **Terms of Use:** http://glympse.com/terms
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

@@ -22,5 +22,4 @@ This tool allows one to quickly test voice interaction with services and devices
 * **Author:** Unified Computer Intelligence Corporation
 * **First Release Date:** 2016-03-08 09:02:56
 * **Privacy Policy:** https://www.freeprivacypolicy.com/free-privacy-policy.html
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

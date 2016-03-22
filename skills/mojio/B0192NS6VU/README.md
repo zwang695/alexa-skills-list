@@ -23,5 +23,4 @@ If your car could talk, what would it say? Mojio and Echo make it possible to co
 * **First Release Date:** 2015-12-08 03:20:13
 * **Privacy Policy:** http://moj.io/privacy
 * **Terms of Use:** http://moj.io/terms
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

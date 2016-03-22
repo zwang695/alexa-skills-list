@@ -58,5 +58,4 @@ Homeseer events can be triggered through the Echo as well:
 * **Author:** HomeSeer Technologies LLC
 * **First Release Date:** 2015-12-05 00:43:11
 * **Privacy Policy:** http://www.homeseer.com/privacy-policy.html
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No

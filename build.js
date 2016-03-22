@@ -248,7 +248,7 @@ var Template = {
 			}
 
 			// Account linking domains
-			if (app.accountLinkingWhitelistedDomains) {
+			if (app.accountLinkingWhitelistedDomains && app.accountLinkingWhitelistedDomains.length) {
 				contents += '* **Account Linking Domains:** ' + app.accountLinkingWhitelistedDomains.join(', ') + '\n';
 			}
 

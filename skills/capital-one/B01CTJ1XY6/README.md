@@ -35,5 +35,4 @@ And if you want more from us, that's great! Because we're building new features 
 * **Author:** Capital One Services, LLC
 * **First Release Date:** 2016-03-11 01:19:16
 * **Privacy Policy:** https://www.capitalone.com/identity-protection/privacy
-* **Account Linking Domains:** 
 * **In-App Purchasing:** No
