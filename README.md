@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 398
+**Total Skills Available:** 400
 
 ***
 
@@ -1567,6 +1567,14 @@ Laugh box will play and describe different laughs. You should be laughing as a r
 *Alexa, open let's multiply*
 
 Let's Multiply is a skill that quizzes you on your multiplication table.  You can specify how high you want the questions to go, up to twelve times twelve.
+
+***
+
+## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/life-counter-for-mtg/B01DA1T6TQ/app_icon" alt="Life Counter for MTG icon" width="36"> [Life Counter for MTG](skills/life-counter-for-mtg/B01DA1T6TQ)
+
+*Alexa, tell life counter to add Brandon*
+
+Keeps count of life totals in Magic: The Gathering
 
 ***
 
@@ -3185,6 +3193,14 @@ Yo Mama Jokes
 *Alexa, ask Mom Jokes to tell me a joke.*
 
 Tells a "yo momma" joke. Have Alexa start it, or ask it for a joke by saying "Alexa, ask Mom Jokes to tell me a joke." May not be appropriate for all ages.
+
+***
+
+## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/your-daily-friend/B01DA0IEFY/app_icon" alt="Your Daily Friend icon" width="36"> [Your Daily Friend](skills/your-daily-friend/B01DA0IEFY)
+
+*Alexa, start for me*
+
+I am your daily friend and can do many things for you.  Such as play fun games and later much more!
 
 ***
 
