@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 401
+**Total Skills Available:** 402
 
 ***
 
@@ -1167,6 +1167,14 @@ Easiest way to share availability across calendars and coordinate meetings (for 
 *Alexa, ask Freedom Quotes for a quote*
 
 Get freedom-themed quotes
+
+***
+
+## &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/frenchness-trivia-game/B01DAJXBGM/app_icon" alt="Frenchness Trivia Game icon" width="36"> [Frenchness Trivia Game](skills/frenchness-trivia-game/B01DAJXBGM)
+
+*Alexa, start Frenchness Game*
+
+Evaluate your level of Frenchness with this très simple trivia quiz. How well do you know France, its culture, its geography, and its cuisine?
 
 ***
 

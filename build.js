@@ -8,6 +8,7 @@
  *
  * @todo Make everything asyncronous
  * @todo Add sorted lists: Alphabetical, Categories, Top Rated, Top Reviewed, Newest, Oldest
+ * @todo Testing branches
  */
 'use strict';
 
@@ -24,9 +25,6 @@ var SKILLS_DIR  = 'skills',
 	ICON_FILE   = 'app_icon',
 	CSV_FILE    = 'skills.csv',
 	FORCE_WRITE = false;
-
-// Variable to hold skill data
-var apps = [];
 
 // CSV fields definition
 var csvFields = [
@@ -146,49 +144,49 @@ Date.getDateString = function(timestamp) {
 
 // Barebones template object
 var Template = {
-	readme: function(apps) {
+	readme: function(skills) {
 		var contents = '';
 
 		contents  = '# Alexa Skills List\n';
 		contents += 'A complete list of all available Alexa Skills\n';
 		contents += '\n';
-		contents += '**Total Skills Available:** ' + apps.length + '\n';
+		contents += '**Total Skills Available:** ' + skills.length + '\n';
 
-		for (var key in apps) {
-			contents += Template.skill.section(apps[key]);
+		for (var key in skills) {
+			contents += Template.skill.section(skills[key]);
 		}
 
 		return contents;
 	},
 
 	skill: {
-		section: function(app) {
+		section: function(skill) {
 			var contents = '';
 
 			contents  = '\n';
 			contents += '***\n';
 			contents += '\n';
-			contents += '## ' + Template.skill.icon(app) + ' [' + app.name + '](' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + ')\n';
+			contents += '## ' + Template.skill.icon(skill) + ' [' + skill.name + '](' + SKILLS_DIR + '/' + skill.name.slug() + '/' + skill.asin + ')\n';
 			contents += '\n';
-			contents += '*' + app.exampleInteractions[0] + '*\n';
+			contents += '*' + skill.exampleInteractions[0] + '*\n';
 			contents += '\n';
-			contents += (app.shortDescription ? app.shortDescription : app.description) + '\n';
+			contents += (skill.shortDescription ? skill.shortDescription : skill.description) + '\n';
 
 			return contents;
 		},
 
-		readme: function(app) {
+		readme: function(skill) {
 			var contents = '';
 
 			// Skill name
-			contents  = '# ' + Template.skill.icon(app, true) + ' ' + app.name + '\n';
+			contents  = '# ' + Template.skill.icon(skill, true) + ' ' + skill.name + '\n';
 
 			// Skill rating and reviews
 			var starImage = '';
 
 			for (var i=0; i<5; i++) {
-				if (i < app.averageRating) {
-					if (i + 1 <= app.averageRating) {
+				if (i < skill.averageRating) {
+					if (i + 1 <= skill.averageRating) {
 						starImage = 'ic_star_black_18dp_1x.png';
 					} else {
 						starImage = 'ic_star_half_black_18dp_1x.png';
@@ -197,25 +195,25 @@ var Template = {
 					starImage = 'ic_star_border_black_18dp_1x.png';
 				}
 
-				contents += '![' + app.averageRating + ' stars](../../../images/' + starImage + ')';
+				contents += '![' + skill.averageRating + ' stars](../../../images/' + starImage + ')';
 			}
 
-			contents += ' ' + app.numberOfReviews + '\n';
+			contents += ' ' + skill.numberOfReviews + '\n';
 			contents += '\n';
 
 			// Example interactions
-			contents += 'To use the ' + app.name + ' skill, try saying...' + '\n';
+			contents += 'To use the ' + skill.name + ' skill, try saying...' + '\n';
 			contents += '\n';
 
-			for (var key in app.exampleInteractions) {
-				if (app.exampleInteractions[key]) {
-					contents += '* *' + app.exampleInteractions[key] + '*\n';
+			for (var key in skill.exampleInteractions) {
+				if (skill.exampleInteractions[key]) {
+					contents += '* *' + skill.exampleInteractions[key] + '*\n';
 					contents += '\n';
 				}
 			}
 
 			// Description
-			contents += app.description + '\n';
+			contents += skill.description + '\n';
 			contents += '\n';
 
 			contents += '***\n';
@@ -225,63 +223,63 @@ var Template = {
 			contents += '### Skill Details' + '\n';
 			contents += '\n';
 
-			contents += '* **Invocation Name:** ' + app.launchPhrase + '\n';
-			contents += '* **Category:** ' + app.category + '\n';
-			contents += '* **ID:** ' + app.id + '\n';
-			contents += '* **ASIN:** ' + app.asin + '\n';
-			contents += '* **Author:** ' + app.vendorName + '\n';
-			contents += '* **First Release Date:** ' + Date.getDateString(app.firstReleaseDate) + '\n';
+			contents += '* **Invocation Name:** ' + skill.launchPhrase + '\n';
+			contents += '* **Category:** ' + skill.category + '\n';
+			contents += '* **ID:** ' + skill.id + '\n';
+			contents += '* **ASIN:** ' + skill.asin + '\n';
+			contents += '* **Author:** ' + skill.vendorName + '\n';
+			contents += '* **First Release Date:** ' + Date.getDateString(skill.firstReleaseDate) + '\n';
 
 			// Homepage
-			if (app.homepageLinkUrl) {
-				contents += '* **Homepage:** [' + (app.homepageLinkText ? app.homepageLinkText : app.homepageLinkUrl) + '](' + app.homepageLinkUrl + ')' + '\n';
+			if (skill.homepageLinkUrl) {
+				contents += '* **Homepage:** [' + (skill.homepageLinkText ? skill.homepageLinkText : skill.homepageLinkUrl) + '](' + skill.homepageLinkUrl + ')' + '\n';
 			}
 
 			// Privacy policy
-			if (app.privacyPolicyUrl) {
-				contents += '* **Privacy Policy:** ' + app.privacyPolicyUrl + '\n';
+			if (skill.privacyPolicyUrl) {
+				contents += '* **Privacy Policy:** ' + skill.privacyPolicyUrl + '\n';
 			}
 
 			// Terms of use
-			if (app.termsOfUseUrl) {
-				contents += '* **Terms of Use:** ' + app.termsOfUseUrl + '\n';
+			if (skill.termsOfUseUrl) {
+				contents += '* **Terms of Use:** ' + skill.termsOfUseUrl + '\n';
 			}
 
 			// Account linking domains
-			if (app.accountLinkingWhitelistedDomains && app.accountLinkingWhitelistedDomains.length) {
-				contents += '* **Account Linking Domains:** ' + app.accountLinkingWhitelistedDomains.join(', ') + '\n';
+			if (skill.accountLinkingWhitelistedDomains && skill.accountLinkingWhitelistedDomains.length) {
+				contents += '* **Account Linking Domains:** ' + skill.accountLinkingWhitelistedDomains.join(', ') + '\n';
 			}
 
 			// In app purchasing
-			contents += '* **In-App Purchasing:** ' + (app.inAppPurchasingSupported ? 'Yes' : 'No') + '\n';
+			contents += '* **In-App Purchasing:** ' + (skill.inAppPurchasingSupported ? 'Yes' : 'No') + '\n';
 
 			// Permissions
-			if (app.permissions) {
-				contents += '* **Permissions:** ' + app.permissions.join(', ') + '\n';
+			if (skill.permissions) {
+				contents += '* **Permissions:** ' + skill.permissions.join(', ') + '\n';
 			}
 
 			return contents;
 		},
 
-		icon: function(app, basename, width) {
+		icon: function(skill, basename, width) {
 			var contents = '';
 
-			contents = '&nbsp;<img src="' + getImageUrl(app, basename) + '" alt="' + app.imageAltText.escape() + '" width="' + (width ? width : '36') + '">';
+			contents = '&nbsp;<img src="' + getImageUrl(skill, basename) + '" alt="' + skill.imageAltText.escape() + '" width="' + (width ? width : '36') + '">';
 
 			return contents;
 		},
 
-		json: function(app) {
+		json: function(skill) {
 			var contents = '';
 
 			// Update image URL to point to GitHub
-			var tmpImageUrl = app.imageUrl;
-			app.imageUrl = getImageUrl(app);
+			var tmpImageUrl = skill.imageUrl;
+			skill.imageUrl = getImageUrl(skill);
 
-			contents = JSON.stringify(app) + '\n';
+			contents = JSON.stringify(skill) + '\n';
 
 			// Set image URL back to original (fix for downloading images)
-			app.imageUrl = tmpImageUrl;
+			skill.imageUrl = tmpImageUrl;
 
 			return contents;
 		}
@@ -308,14 +306,14 @@ var download = function(url, dest, callback) {
 };
 
 // Generate GitHub image URL
-var getImageUrl = function(app, basename) {
+var getImageUrl = function(skill, basename) {
 	basename = basename || false;
 
 	if (basename) {
 		return ICON_FILE;
 	}
 
-	return 'https://github.com/dale3h/alexa-skills-list/raw/master/' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + '/' + ICON_FILE;
+	return 'https://github.com/dale3h/alexa-skills-list/raw/master/' + SKILLS_DIR + '/' + skill.name.slug() + '/' + skill.asin + '/' + ICON_FILE;
 }
 
 // Create skills directory
@@ -345,24 +343,22 @@ skills.sort(function(a, b) {
 // Iterate skills and build list
 for (var key in skills) {
 	// Skill object
-	var app = skills[key];
+	var skill = skills[key];
 
 	// Do not include development skills
-	if (!app.canDisable) {
+	if (!skill.canDisable) {
+		skills.splice(key, 1);
 		continue;
 	}
 
 	// Remove enablement data
-	app.enablement = null;
-
-	// Add app to list array
-	apps.push(app);
+	skill.enablement = null;
 
 	// Closure to create scope for variables
-	(function(app) {
+	(function(skill) {
 		// Set our skill root directory
-		var skillRoot = SKILLS_DIR + '/' + app.name.slug();
-		var skillDir  = skillRoot + '/' + app.asin;
+		var skillRoot = SKILLS_DIR + '/' + skill.name.slug();
+		var skillDir  = skillRoot + '/' + skill.asin;
 
 		// Create skill directory
 		try {
@@ -379,7 +375,7 @@ for (var key in skills) {
 		}
 
 		// Detect to see if skill README needs to be updated
-		var skillOutput = Template.skill.readme(app);
+		var skillOutput = Template.skill.readme(skill);
 		var skillInput  = '';
 
 		try {
@@ -409,19 +405,19 @@ for (var key in skills) {
 			// Check for an error (file does not exist)
 			if (err) {
 				// Download the image
-				download(app.imageUrl, err.path, function(err) {
+				download(skill.imageUrl, err.path, function(err) {
 					// Output any errors to the console
 					if (err) {
-						console.log('[ERROR] Failed to download image for "%s"', app.name);
+						console.log('[ERROR] Failed to download image for "%s"', skill.name);
 					} else {
-						console.log('[LOG] Downloaded image for "%s"', app.name);
+						console.log('[LOG] Downloaded image for "%s"', skill.name);
 					}
 				});
 			}
 		});
 
-		// Detect to see if skill app.json needs to be updated
-		var jsonOutput = Template.skill.json(app);
+		// Detect to see if skill skill.json needs to be updated
+		var jsonOutput = Template.skill.json(skill);
 		var jsonInput  = '';
 
 		try {
@@ -442,13 +438,13 @@ for (var key in skills) {
 				updateCountJSON++;
 			}
 		}
-	})(app);
+	})(skill);
 }
 
 // Only update master README if skills were added or updated
 if (addCount || updateCount || FORCE_WRITE) {
 	// Write master README
-	fs.writeFile(README_FILE, Template.readme(apps), 'utf8', function(err) {
+	fs.writeFile(README_FILE, Template.readme(skills), 'utf8', function(err) {
 		if (err) {
 			console.log('[ERROR] Failed to write %s: %s', README_FILE, err.message);
 			return;
@@ -458,7 +454,7 @@ if (addCount || updateCount || FORCE_WRITE) {
 	});
 
 	// Write CSV file
-	json2csv({data: apps, fields: csvFields}, function(err, csv) {
+	json2csv({data: skills, fields: csvFields}, function(err, csv) {
 		if (err) {
 			console.log('[ERROR] Failed to write %s: %s', CSV_FILE, err.message);
 			return;
@@ -476,7 +472,7 @@ if (addCount || updateCount || FORCE_WRITE) {
 }
 
 // Output number of skills on completion
-console.log('[LOG] Processed a total of %d skill%s', apps.length, (apps.length != 1 ? 's' : ''));
+console.log('[LOG] Processed a total of %d skill%s', skills.length, (skills.length != 1 ? 's' : ''));
 
 if (addCount) {
 	console.log('[LOG] Added %d skill%s', addCount, (addCount != 1 ? 's' : ''));
