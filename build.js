@@ -183,7 +183,7 @@ var Template = {
 			var contents = '';
 
 			// Skill name
-			contents  = '# ' + Template.skill.icon(app) + ' ' + app.name + '\n';
+			contents  = '# ' + Template.skill.icon(app, true) + ' ' + app.name + '\n';
 
 			// Skill rating and reviews
 			var starImage = '';
@@ -265,10 +265,10 @@ var Template = {
 			return contents;
 		},
 
-		icon: function(app, width) {
+		icon: function(app, basename, width) {
 			var contents = '';
 
-			contents = '&nbsp;<img src="' + getImageUrl(app) + '" alt="' + app.imageAltText.escape() + '" width="' + (width ? width : '36') + '">';
+			contents = '&nbsp;<img src="' + getImageUrl(app, basename) + '" alt="' + app.imageAltText.escape() + '" width="' + (width ? width : '36') + '">';
 
 			return contents;
 		},
@@ -310,7 +310,13 @@ var download = function(url, dest, callback) {
 };
 
 // Generate GitHub image URL
-var getImageUrl = function(app) {
+var getImageUrl = function(app, basename) {
+	basename = basename || false;
+
+	if (basename) {
+		return ICON_FILE;
+	}
+
 	return 'https://github.com/dale3h/alexa-skills-list/raw/master/' + SKILLS_DIR + '/' + app.name.slug() + '/' + app.asin + '/' + ICON_FILE;
 }
 
