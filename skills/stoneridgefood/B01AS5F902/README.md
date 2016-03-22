@@ -1,5 +1,5 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/stoneridgefood/B01AS5F902/app_icon" alt="StoneRidgeFood icon" width="36"> StoneRidgeFood
-![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../../images/ic_star_half_black_18dp_1x.png) 4
+# &nbsp;<img src="app_icon" alt="StoneRidgeFood icon" width="36"> StoneRidgeFood
+![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the StoneRidgeFood skill, try saying...
 

@@ -1,5 +1,5 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/stock-exchange/B0186BC0LQ/app_icon" alt="Stock Exchange icon" width="36"> Stock Exchange
-![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../../images/ic_star_border_black_18dp_1x.png) 33
+# &nbsp;<img src="app_icon" alt="Stock Exchange icon" width="36"> Stock Exchange
+![2.1 stars](../../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../../images/ic_star_border_black_18dp_1x.png) 34
 
 To use the Stock Exchange skill, try saying...
 

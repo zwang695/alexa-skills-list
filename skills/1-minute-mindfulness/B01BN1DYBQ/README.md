@@ -1,5 +1,5 @@
-# &nbsp;<img src="https://github.com/dale3h/alexa-skills-list/raw/master/skills/1-minute-mindfulness/B01BN1DYBQ/app_icon" alt="1-Minute Mindfulness icon" width="36"> 1-Minute Mindfulness
-![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../../images/ic_star_half_black_18dp_1x.png) 14
+# &nbsp;<img src="app_icon" alt="1-Minute Mindfulness icon" width="36"> 1-Minute Mindfulness
+![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../../images/ic_star_half_black_18dp_1x.png) 15
 
 To use the 1-Minute Mindfulness skill, try saying...
 
