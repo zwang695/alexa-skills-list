@@ -8,7 +8,7 @@
  *
  * @todo Make everything asyncronous
  * @todo Add sorted lists: Alphabetical, Categories, Top Rated, Top Reviewed, Newest, Oldest
- * @todo Testing branches
+ * @todo *** BEFORE ANYTHING ELSE, RENAME app.json TO skill.json, AND app_icon TO skill_icon ***
  */
 'use strict';
 
@@ -21,8 +21,8 @@ var fs       = require('fs'),
 // Skills directory
 var SKILLS_DIR  = 'skills',
 	README_FILE = 'README.md',
-	JSON_FILE   = 'app.json',
-	ICON_FILE   = 'app_icon',
+	JSON_FILE   = 'skill.json',
+	ICON_FILE   = 'skill_icon',
 	CSV_FILE    = 'skills.csv',
 	FORCE_WRITE = false;
 
@@ -219,7 +219,7 @@ var Template = {
 			contents += '***\n';
 			contents += '\n';
 
-			// Skill details
+			// Skill Details
 			contents += '### Skill Details' + '\n';
 			contents += '\n';
 
@@ -235,22 +235,22 @@ var Template = {
 				contents += '* **Homepage:** [' + (skill.homepageLinkText ? skill.homepageLinkText : skill.homepageLinkUrl) + '](' + skill.homepageLinkUrl + ')' + '\n';
 			}
 
-			// Privacy policy
+			// Privacy Policy
 			if (skill.privacyPolicyUrl) {
 				contents += '* **Privacy Policy:** ' + skill.privacyPolicyUrl + '\n';
 			}
 
-			// Terms of use
+			// Terms of Use
 			if (skill.termsOfUseUrl) {
 				contents += '* **Terms of Use:** ' + skill.termsOfUseUrl + '\n';
 			}
 
-			// Account linking domains
+			// Account Linking Domains
 			if (skill.accountLinkingWhitelistedDomains && skill.accountLinkingWhitelistedDomains.length) {
 				contents += '* **Account Linking Domains:** ' + skill.accountLinkingWhitelistedDomains.join(', ') + '\n';
 			}
 
-			// In app purchasing
+			// In-App Purchasing
 			contents += '* **In-App Purchasing:** ' + (skill.inAppPurchasingSupported ? 'Yes' : 'No') + '\n';
 
 			// Permissions
@@ -426,9 +426,9 @@ for (var key in skills) {
 			// File does not exist, or another error occurred
 		}
 
-		// Check to see if we need to update the skill's app.json file
+		// Check to see if we need to update the skill's skill.json file
 		if (!jsonInput || jsonInput.localeCompare(jsonOutput) != 0) {
-			// Output the skill's app.json file
+			// Output the skill's skill.json file
 			fs.writeFileSync(skillDir + '/' + JSON_FILE, jsonOutput, 'utf8');
 
 			// Increment counts respectively
