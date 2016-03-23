@@ -1,0 +1,6 @@
+* text=auto
+*.js text eol=crlf
+*.md text eol=crlf
+*.json text eol=crlf
+*.csv text eol=crlf
+skill_icon binary
