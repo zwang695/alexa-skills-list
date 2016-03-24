@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 421
+**Total Skills Available:** 431
 
 ***
 
@@ -463,6 +463,14 @@ It's the 50th anniversary of football's biggest game. Test your Big Game knowled
 
 ***
 
+## &nbsp;<img src="skills/B01DD9OXDO/skill_icon" alt="Biking Wizard icon" width="36"> [Biking Wizard](skills/B01DD9OXDO)
+
+*Alexa, ask The Biking Wizard if I should go biking in Whistler today*
+
+Biking Wizard can tell you if the weather is right for a bike ride!
+
+***
+
 ## &nbsp;<img src="skills/B017OBN1FI/skill_icon" alt="Bingo icon" width="36"> [Bingo](skills/B017OBN1FI)
 
 *Alexa, open Bingo.*
@@ -613,6 +621,14 @@ Look up Amateur (HAM) radio call sign information from the call sign database.
 *Alexa, ask Campbell's Kitchen what's for dinner*
 
 Your kitchen just got a whole lot smarter. Make dinnertime easy with a daily Top-5 list of triple-tested recipes, selected for your tastes and time preferences.
+
+***
+
+## &nbsp;<img src="skills/B01DDAQCLE/skill_icon" alt="Candidate Quote Quiz icon" width="36"> [Candidate Quote Quiz](skills/B01DDAQCLE)
+
+*Alexa, open Candidate Quiz*
+
+A quote-identifying trivia game starring the current and past candidates for the US Presidential Election 2016.
 
 ***
 
@@ -840,6 +856,14 @@ Crystal Ball is a fortune teller skill. Alexa prompts you to first focus on a ye
 
 ***
 
+## &nbsp;<img src="skills/B01DDIK52I/skill_icon" alt="CTA Tracker icon" width="36"> [CTA Tracker](skills/B01DDIK52I)
+
+*Alexa, ask CTA Tracker when is the next northbound train*
+
+Track trains on the CTA
+
+***
+
 ## &nbsp;<img src="skills/B01AWXQTMW/skill_icon" alt="Currency Converter icon" width="36"> [Currency Converter](skills/B01AWXQTMW)
 
 *Alexa, ask Currency Converter to convert twenty dollars to euros*
@@ -933,6 +957,14 @@ Doctor Bones is a medical based trivia game that will challenge you with 5 quest
 *Alexa, tell me a dog fact.*
 
 Dog Facts
+
+***
+
+## &nbsp;<img src="skills/B01DDL3Z04/skill_icon" alt="Dog-Cat Trivia icon" width="36"> [Dog-Cat Trivia](skills/B01DDL3Z04)
+
+*Alexa, launch Dog Cat Trivia*
+
+See how much you know about cats and dogs. Questions will be both general and specific. Dog Cat Trivia is a game built from a template.
 
 ***
 
@@ -1554,6 +1586,14 @@ Say the command, “Alexa, ask Iris to holler at [name of recipient]” and Iris
 
 ***
 
+## &nbsp;<img src="skills/B01DDBB1HS/skill_icon" alt="Is The Lake Full Yet? icon" width="36"> [Is The Lake Full Yet?](skills/B01DDBB1HS)
+
+*Alexa, ask Lake Travis if it's full yet*
+
+Is The Lake Full Yet?. Ask Lake Travis if the lake is full yet.
+
+***
+
 ## &nbsp;<img src="skills/B01CCHJXC4/skill_icon" alt="ISS Sighter icon" width="36"> [ISS Sighter](skills/B01CCHJXC4)
 
 *Alexa, ask the space station to give me visibility for Gaithersburg Maryland*
@@ -1647,6 +1687,14 @@ Knock, knock! Who's there? The best collection of knock-knock jokes for the Amaz
 *Alexa, ask the L Train when it's coming?*
 
 Ask Alexa when the next train is coming to your NYC MTA L train stop, and listen to the current L train status.
+
+***
+
+## &nbsp;<img src="skills/B01DD95W98/skill_icon" alt="Language Fun icon" width="36"> [Language Fun](skills/B01DD95W98)
+
+*Alexa, ask Language Fun about the edit distance between words dog and frog.*
+
+Natural language processing fun - computes "distance" between words in terms of character insertions and deletions required to change one into the other
 
 ***
 
@@ -2160,6 +2208,15 @@ OurGroceries is the simplest way to keep your grocery lists instantly synchroniz
 *Alexa, Open Perfect Pitch.*
 
 Plays a musical note for you to identify.
+
+***
+
+## &nbsp;<img src="skills/B01DDKHCZE/skill_icon" alt="Period Tracker icon" width="36"> [Period Tracker](skills/B01DDKHCZE)
+
+*Alexa, open Period Tracker*
+
+Helps women keep track of their mentrual cycle for a better family planning.
+Based on the Standard Days Method by Georgetown University.
 
 ***
 
@@ -3179,6 +3236,14 @@ The Trivia Game for Michigan Football will let you test your knowledge and see h
 
 ***
 
+## &nbsp;<img src="skills/B01DDK8BZE/skill_icon" alt="Trivia Game for Sofia The First icon" width="36"> [Trivia Game for Sofia The First](skills/B01DDK8BZE)
+
+*Alexa, start Sofia trivia game*
+
+See how well do you know about Sofia the First.
+
+***
+
 ## &nbsp;<img src="skills/B01D3LZVIS/skill_icon" alt="Trivia Japan icon" width="36"> [Trivia Japan](skills/B01D3LZVIS)
 
 *Alexa, Launch Japan Trivia*
@@ -3256,6 +3321,14 @@ Twenty Questions will guess what you're thinking!
 *Alexa, run Twister Spinner*
 
 Twister spinner with voice
+
+***
+
+## &nbsp;<img src="skills/B01DDJ1HCE/skill_icon" alt="U.S. History Factoids icon" width="36"> [U.S. History Factoids](skills/B01DDJ1HCE)
+
+*Alexa, open U. S. history*
+
+Fun and education facts about US History
 
 ***
 
@@ -3377,3 +3450,11 @@ I am your daily friend and can do many things for you.  Such as play fun games a
 *Alexa, Ask Zip Code What city is Zip Code 20120*
 
 ZipCode
+
+***
+
+## &nbsp;<img src="skills/B01DDA9PAE/skill_icon" alt="ZooTrivia icon" width="36"> [ZooTrivia](skills/B01DDA9PAE)
+
+*Alexa, start Zoo Trivia*
+
+Animals are so weird, you guys. Do you know just how weird? Play this fun trivia challenge and test your knowledge.
