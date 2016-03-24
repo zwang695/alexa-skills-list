@@ -5,3 +5,4 @@ npm-debug.log
 *.backup
 build.dev.js
 skills.json
+fetch.sh
