@@ -657,7 +657,7 @@ for (var key in skills) {
 }
 
 // Only update master README if skills were added or updated
-if (WRITE_MODE && (addCount || updateCount || FORCE_WRITE == 2)) {
+if (WRITE_MODE && (addCount || updateCount || WRITE_MODE == 2)) {
 	// Write master README
 	fs.writeFile(README_FILE, Template.readme(skills), 'utf8', function(err) {
 		if (err) {
