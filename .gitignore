@@ -3,7 +3,7 @@ node_modules
 npm-debug.log
 *.tmp
 *.backup
-build.dev.js
+*.dev.*
 skills.json
 fetch.sh
 fetch.bat
