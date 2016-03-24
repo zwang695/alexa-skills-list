@@ -5,9 +5,9 @@ To use the Boston Transit skill, try saying...
 
 * *Alexa, ask Boston Transit when the next train to South Station gets in to Kendall*
 
-* *when the next Wonderland bound train leaves from Aquarium*
-
 * *how is the Red Line doing*
+
+* *when the next Wonderland bound train leaves from Aquarium*
 
 Currently, you can find out the alert status on subway or commuter rail lines, as well as the Silver Line. You can also find out the realtime status of individual trains. Bus information will be in a future update.
 

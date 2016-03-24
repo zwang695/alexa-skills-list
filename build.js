@@ -22,8 +22,13 @@ var SKILLS_DIR  = 'skills',
 	README_FILE = 'README.md',
 	JSON_FILE   = 'skill.json',
 	ICON_FILE   = 'skill_icon',
-	CSV_FILE    = 'skills.csv',
-	FORCE_WRITE = false;
+	CSV_FILE    = 'skills.csv';
+
+// Write mode
+//   0 = do not write
+//   1 = write if changes detected
+//   2 = force write
+var WRITE_MODE = 1;
 
 // CSV fields definition
 var csvFields = [
@@ -589,7 +594,9 @@ for (var key in skills) {
 		// Check to see if we need to update the skill's README file
 		if (!skillInput || skillInput.localeCompare(skillOutput) != 0) {
 			// Output the skill's README file
-			fs.writeFileSync(skillDir + '/' + README_FILE, skillOutput, 'utf8');
+			if (WRITE_MODE) {
+				fs.writeFileSync(skillDir + '/' + README_FILE, skillOutput, 'utf8');
+			}
 
 			// Increment counts respectively
 			if (!skillInput) {
@@ -635,7 +642,9 @@ for (var key in skills) {
 		// Check to see if we need to update the skill's skill.json file
 		if (!jsonInput || jsonInput.localeCompare(jsonOutput) != 0) {
 			// Output the skill's skill.json file
-			fs.writeFileSync(skillDir + '/' + JSON_FILE, jsonOutput, 'utf8');
+			if (WRITE_MODE) {
+				fs.writeFileSync(skillDir + '/' + JSON_FILE, jsonOutput, 'utf8');
+			}
 
 			// Increment counts respectively
 			if (!jsonInput) {
@@ -648,7 +657,7 @@ for (var key in skills) {
 }
 
 // Only update master README if skills were added or updated
-if (addCount || updateCount || FORCE_WRITE) {
+if (WRITE_MODE && (addCount || updateCount || FORCE_WRITE == 2)) {
 	// Write master README
 	fs.writeFile(README_FILE, Template.readme(skills), 'utf8', function(err) {
 		if (err) {

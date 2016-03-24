@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Fidelity Investments icon" width="36"> Fidelity Investments
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 14
+![1.8 stars](../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the Fidelity Investments skill, try saying...
 

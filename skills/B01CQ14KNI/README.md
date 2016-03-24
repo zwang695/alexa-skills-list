@@ -9,7 +9,7 @@ To use the Puget Sound skill, try saying...
 
 * *Alexa, ask puget sound to read me the border wait times for Blaine.*
 
-A way to find local information in the Washington State Puget Sound area.  Will communicate Ferry status, Canada border crossing wait times, and Pass conditions.  To be added soon are Ferry Schedule times, State events and Festivals, Seafair events.
+A way to find local information in the Washington State Puget Sound area.  Will communicate Ferry status, Canada border crossing wait times, Pass conditions, State, Concert, Food, and Sporting events.  To be added soon are Ferry Schedule times, and Seafair events.
 
 For suggestions or to contact please send email to:  brothersgrimmsoftware@gmail.com.
 

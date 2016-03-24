@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 418
+**Total Skills Available:** 421
 
 ***
 
@@ -1072,6 +1072,14 @@ Get event listings from Bandsintown.com.
 
 ***
 
+## &nbsp;<img src="skills/B01DCLSLHC/skill_icon" alt="Eventseeker icon" width="36"> [Eventseeker](skills/B01DCLSLHC)
+
+*Alexa launch event seeker*
+
+eventseeker is your personalized event service with a focus on minimizing search and maximizing discovery.
+
+***
+
 ## &nbsp;<img src="skills/B01DC0VZZI/skill_icon" alt="Expense Tracker icon" width="36"> [Expense Tracker](skills/B01DC0VZZI)
 
 *Alexa, tell Expense Tracker that I paid 10 dollars for food.*
@@ -1687,6 +1695,14 @@ LIFX, the world’s brightest color Wi-Fi smart lights. Ask Alexa to switch on t
 *Alexa, open Lizard Spock.*
 
 Rock Paper Scissors Lizard Spock
+
+***
+
+## &nbsp;<img src="skills/B01DCQIVDQ/skill_icon" alt="London Scholar icon" width="36"> [London Scholar](skills/B01DCQIVDQ)
+
+*Alexa, ask London Scholar to tell me a fact*
+
+Learn facts about the great city of London from the London Scholar.
 
 ***
 
@@ -3072,6 +3088,14 @@ The Trainer Tips skill gives you hands-free reference for those difficult battle
 *"Alexa, ask Translator to say  'it's raining' in Italian"*
 
 Use Translator for Alexa to translate English words and phrases into over 50 languages.
+
+***
+
+## &nbsp;<img src="skills/B01DCRJVQG/skill_icon" alt="Trash Pickup 2016 Schedule - Anne Arundel Co MD icon" width="36"> [Trash Pickup 2016 Schedule - Anne Arundel Co MD](skills/B01DCRJVQG)
+
+*Alexa, ask Trash Pickup if trash is picked up this week*
+
+Provides information regarding curbside collection holidays for Anne Arundel Co. Maryland. Just say "Alexa, ask Trash Pickup if trash is picked up this week."
 
 ***
 
