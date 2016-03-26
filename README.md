@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 431
+**Total Skills Available:** 442
 
 ***
 
@@ -58,6 +58,14 @@ Are you ready to lead a happier, healthier life?  Get your heart moving and redu
 *Alexa, ask 7 Sigma for my update.*
 
 Get concise updates on all elements of your operation and infrastructure based on combined data from multiple sources.
+
+***
+
+## &nbsp;<img src="skills/B01DE3FBN0/skill_icon" alt="80's Movie Trivia icon" width="36"> [80's Movie Trivia](skills/B01DE3FBN0)
+
+*Alexa, open eighties movie trivia*
+
+If you say "Alexa play 80's Movie Trivia" you will be presented with 5 questions, each with a choice of 5 answers.  Answer using the corresponding number.
 
 ***
 
@@ -140,6 +148,14 @@ Listen to Tweets
 *Alexa, ask the 8 ball whether the Cubs will ever win the World Series*
 
 The All Knowing 8 Ball can answer life's vexing questions for you, without all that shaking and blue dye getting everywhere.
+
+***
+
+## &nbsp;<img src="skills/B01DFJNRHU/skill_icon" alt="Always Sunny Trivia icon" width="36"> [Always Sunny Trivia](skills/B01DFJNRHU)
+
+*Ask Always Sunny trivia*
+
+Always Sunny in Philadelphia Trivia Game!
 
 ***
 
@@ -613,6 +629,14 @@ Let your echo help you do the calculation, it is cool and you won't make mistake
 *Alexa load Call Sign and find november zero uniform sierra mike*
 
 Look up Amateur (HAM) radio call sign information from the call sign database.
+
+***
+
+## &nbsp;<img src="skills/B01DEA97CE/skill_icon" alt="Calling the Hogs icon" width="36"> [Calling the Hogs](skills/B01DEA97CE)
+
+*Alexa  START calling the hogs*
+
+Have Alexa call the hogs by saying:   "Alexa, Start Calling the Hogs".  Alexa will then call the hogs: "woo pig sooie"
 
 ***
 
@@ -1674,11 +1698,27 @@ Gives you the current program or track playing on KCRW radio.
 
 ***
 
+## &nbsp;<img src="skills/B01DEFZQUG/skill_icon" alt="King Of Pop Trivia icon" width="36"> [King Of Pop Trivia](skills/B01DEFZQUG)
+
+*Alexa, Launch King Of Pop*
+
+A fun trivia for fans of Michael Jackson - King of Pop. Alexa, launch King Of Pop Trivia
+
+***
+
 ## &nbsp;<img src="skills/B017OBL60U/skill_icon" alt="Knock Knock Jokes icon" width="36"> [Knock Knock Jokes](skills/B017OBL60U)
 
 *Alexa, ask knock knock.*
 
 Knock, knock! Who's there? The best collection of knock-knock jokes for the Amazon Echo you could imagine!
+
+***
+
+## &nbsp;<img src="skills/B01DE6TMSC/skill_icon" alt="Korean Facts icon" width="36"> [Korean Facts](skills/B01DE6TMSC)
+
+*Alexa, ask Korean Facts for a fact*
+
+Korean Facts allows you to learn facts about Korea.
 
 ***
 
@@ -1855,7 +1895,7 @@ Math Tutor can read out the multiplication tables between 1 and 10.
 
 *Alexa, ask Boston Transit if there are any alerts on the green line*
 
-Checks the MTBA system for any alerts on the subway or commuter rail lines
+Checks the MBTA system for any alerts on the subway or commuter rail lines
 
 ***
 
@@ -1904,6 +1944,14 @@ A trivia game about iconic mid century designers.
 *Alexa, ask Milo to find Back to the Future Part Three*
 
 Find where you can view your favorite movie on free, paid and subscription services like Amazon Prime or Crackle.
+
+***
+
+## &nbsp;<img src="skills/B01DF6X1YW/skill_icon" alt="Minnesota Trivia icon" width="36"> [Minnesota Trivia](skills/B01DF6X1YW)
+
+*Alexa, open Minnesota Trivia*
+
+State of Minnesota Trivia
 
 ***
 
@@ -2144,6 +2192,14 @@ News By Linkboard enables you to search the news and have articles read to you. 
 *Alexa, ask Nikola Tesla*
 
 Nikola Tesla Trivia
+
+***
+
+## &nbsp;<img src="skills/B01DE6PG9Q/skill_icon" alt="NJ Transit Train Schedule icon" width="36"> [NJ Transit Train Schedule](skills/B01DE6PG9Q)
+
+*Alexa ask NJ Transit train when is the next train from New York to Newark Airport*
+
+Get information on your NJ Transit Train. Current version will give information about next train from one station to another Station.
 
 ***
 
@@ -2548,6 +2604,14 @@ Roddenberry's Trek Quotes is a fun, fast, and fabulous way to reminisce about yo
 
 ***
 
+## &nbsp;<img src="skills/B01DF3DT8I/skill_icon" alt="S.L.P. Praxis Review icon" width="36"> [S.L.P. Praxis Review](skills/B01DF3DT8I)
+
+*Alexa, start S.L.P. Review*
+
+The S.L.P. Praxis Review is an interactive voice activated flashcard skill for the Speech-Language Pathology Certification Exam. Study w/ ease... hands-free!
+
+***
+
 ## &nbsp;<img src="skills/B01BPK2NBW/skill_icon" alt="Sage of Elements icon" width="36"> [Sage of Elements](skills/B01BPK2NBW)
 
 *Alexa, ask sage of elements to tell me about calcium.*
@@ -2729,6 +2793,14 @@ What's in a name? Discover fun facts about celebrities, actors and singers you d
 *Alexa, ask starfish for tube status*
 
 Status and information from all things British.
+
+***
+
+## &nbsp;<img src="skills/B01DE9SBR2/skill_icon" alt="Star Trivia icon" width="36"> [Star Trivia](skills/B01DE9SBR2)
+
+*Alexa, open Star Trivia*
+
+Star Trivia is an out of this world experience for the whole family. It's both fun and educational.
 
 ***
 
@@ -2928,7 +3000,7 @@ The Listeners is a poetic performance offering a simple interaction with Alexa: 
 
 *Alexa, open the magic door*
 
-Choose your own adventure beyond the magic door. Fairies, gnomes, gods, and treasure await you as you explore the various lands.
+Choose your own adventure beyond the magic door. Fairies, gnomes, gods, and treasure await you as you explore the various lands. Easter Special: Easter Egg Hunt
 
 ***
 
@@ -3364,6 +3436,14 @@ This is a quiz game that tests users on their knowledge of general U.S. civics q
 
 ***
 
+## &nbsp;<img src="skills/B01DE55A3Y/skill_icon" alt="US National Parks Game icon" width="36"> [US National Parks Game](skills/B01DE55A3Y)
+
+*Alexa, tell National Parks game to start new game*
+
+US National Parks quiz game
+
+***
+
 ## &nbsp;<img src="skills/B01BZBJ5B2/skill_icon" alt="USA Today icon" width="36"> [USA Today](skills/B01BZBJ5B2)
 
 *Alexa, ask USA Today to give me the news*
@@ -3402,6 +3482,14 @@ Control your Vivint smart home (for Vivint Sky consumers only) with easy-to-use 
 *Alexa, open wake up call*
 
 Daily Wake Up Call by Sean Bauer
+
+***
+
+## &nbsp;<img src="skills/B01DEYA56M/skill_icon" alt="Who Played Bond - 007 Trivia icon" width="36"> [Who Played Bond - 007 Trivia](skills/B01DEYA56M)
+
+*Alexa, open Who Played Bond*
+
+Test your knowledge of the 007 films by matching which actor played bond in each movie.
 
 ***
 

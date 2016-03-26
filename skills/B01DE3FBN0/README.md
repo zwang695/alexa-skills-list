@@ -1,0 +1,24 @@
+# &nbsp;<img src="skill_icon" alt="80's Movie Trivia icon" width="36"> 80's Movie Trivia
+![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+
+To use the 80's Movie Trivia skill, try saying...
+
+* *Alexa, open eighties movie trivia*
+
+* *i don't know*
+
+* *skip*
+
+If you say "Alexa play 80's Movie Trivia" you will be presented with 5 questions each with a choice of 5 answers.  Alexa with read your choices of answers along with a corresponding number.  Answer using the number that is associated with the correct answer.  At the end of the 5 questions Alexa will tell you how many you answered correctly.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** eighties movie trivia
+* **Category:** Entertainment
+* **ID:** amzn1.echo-sdk-ams.app.17a1a310-8f50-4133-99ed-8a1a2ff693df
+* **ASIN:** B01DE3FBN0
+* **Author:** Don Savner
+* **Release Date:** March 24, 2016 @ 13:03:44
+* **In-App Purchasing:** No

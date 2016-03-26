@@ -10,6 +10,7 @@ To use the Uber skill, try saying...
 * *Alexa, ask Uber to get me a car.*
 
 NOTE: In order to use this skill, you will need to link your Uber account to Alexa and add your Alexa device’s location in the Alexa app. To add your device’s location, go to the “Settings” menu in the Alexa app, choose the device (for example, John’s Echo) you want the Uber to arrive at, and then add your address in the “Device Location” section.
+Switch between your Amazon Household profiles to request a ride from different Uber accounts.
 
 Supported Uber Services: UberX, UberBlack, UberSUV, UberXL, UberSelect
 
