@@ -1,0 +1,86 @@
+{
+	"api": {
+		"url":  "https://pitangui.amazon.com",
+		"auth": "at-main=<TAKE FROM COOKIE>; ubid-main=<TAKE FROM COOKIE>"
+	},
+
+	"skillsDir":  "skills",
+	"readmeFile": "README.md",
+	"jsonFile":   "skill.json",
+	"iconFile":   "skill_icon",
+	"csvFile":    "skills.csv",
+
+	"writeModes": {
+		"none":  0,
+		"auto":  1,
+		"force": 2
+	},
+	"writeMode": 1,
+
+	"csvFields": [
+		{
+			"label": "Name",
+			"value": "name"
+		},
+		{
+			"label": "Category",
+			"value": "category"
+		},
+		{
+			"label": "Author",
+			"value": "vendorName"
+		},
+		{
+			"label": "Description",
+			"value": "description"
+		},
+		{
+			"label": "Rating",
+			"value": "averageRating"
+		},
+		{
+			"label": "Num of Reviews",
+			"value": "numberOfReviews"
+		},
+		{
+			"label": "ASIN",
+			"value": "asin"
+		},
+		{
+			"label": "Application ID",
+			"value": "id"
+		},
+		{
+			"label": "Release Date",
+			"value": "firstReleaseDate"
+		},
+		{
+			"label": "Invocation Name",
+			"value": "launchPhrase"
+		},
+		{
+			"label": "Example Interaction 1",
+			"value": "exampleInteractions[0]"
+		},
+		{
+			"label": "Example Interaction 2",
+			"value": "exampleInteractions[1]"
+		},
+		{
+			"label": "Example Interaction 3",
+			"value": "exampleInteractions[2]"
+		},
+		{
+			"label": "Privacy Policy",
+			"value": "privacyPolicyUrl"
+		},
+		{
+			"label": "Terms of Use",
+			"value": "termsOfUseUrl"
+		},
+		{
+			"label": "In-App Purchasing",
+			"value": "inAppPurchasingSupported"
+		}
+	]
+}

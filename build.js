@@ -15,102 +15,8 @@
 var fs       = require('fs'),
 	https    = require('https'),
 	json2csv = require('json2csv'),
+	config   = require('./config.json'),
 	skills   = require('./skills.json').apps;
-
-// Skills directory
-var SKILLS_DIR  = 'skills',
-	README_FILE = 'README.md',
-	JSON_FILE   = 'skill.json',
-	ICON_FILE   = 'skill_icon',
-	CSV_FILE    = 'skills.csv';
-
-// Write mode
-//   0 = do not write
-//   1 = write if changes detected
-//   2 = force write
-var WRITE_MODE = 1;
-
-// CSV fields definition
-var csvFields = [
-	{
-		label: 'Name',
-		value: 'name'
-	},
-	{
-		label: 'Category',
-		value: 'category'
-	},
-	{
-		label: 'Author',
-		value: 'vendorName'
-	},
-	{
-		label: 'Description',
-		value: 'description'
-	},
-	{
-		label: 'Rating',
-		value: 'averageRating'
-	},
-	{
-		label: 'Num of Reviews',
-		value: 'numberOfReviews'
-	},
-	{
-		label: 'ASIN',
-		value: 'asin'
-	},
-	{
-		label: 'Application ID',
-		value: 'id'
-	},
-	{
-		label: 'Release Date',
-		value: function(row) {
-			return Date.format('Y-m-d H:i:s', row.firstReleaseDate);
-		}
-	},
-	{
-		label: 'Invocation Name',
-		value: 'launchPhrase'
-	},
-	{
-		label: 'Example Interaction 1',
-		value: function(row) {
-			return row.exampleInteractions[0] ? row.exampleInteractions[0] : '';
-		}
-	},
-	{
-		label: 'Example Interaction 2',
-		value: function(row) {
-			return row.exampleInteractions[1] ? row.exampleInteractions[1] : '';
-		}
-	},
-	{
-		label: 'Example Interaction 3',
-		value: function(row) {
-			return row.exampleInteractions[2] ? row.exampleInteractions[2] : '';
-		}
-	},
-	{
-		label: 'Privacy Policy',
-		value: function(row) {
-			return row.privacyPolicyUrl ? row.privacyPolicyUrl : '';
-		}
-	},
-	{
-		label: 'Terms of Use',
-		value: function(row) {
-			return row.termsOfUseUrl ? row.termsOfUseUrl : '';
-		}
-	},
-	{
-		label: 'In-App Purchasing',
-		value: function(row) {
-			return row.inAppPurchasingSupported ? 'Yes' : 'No';
-		}
-	}
-];
 
 // php.js implementation of date()
 Date.format = function(format, timestamp) {
@@ -370,7 +276,7 @@ var Template = {
 			contents  = '\n';
 			contents += '***\n';
 			contents += '\n';
-			contents += '## ' + Template.skill.icon(skill) + ' [' + skill.name + '](' + SKILLS_DIR + '/' + skill.asin + ')\n';
+			contents += '## ' + Template.skill.icon(skill) + ' [' + skill.name + '](' + config.skillsDir + '/' + skill.asin + ')\n';
 			contents += '\n';
 			contents += '*' + skill.exampleInteractions[0] + '*\n';
 			contents += '\n';
@@ -470,7 +376,7 @@ var Template = {
 
 			var contents = '';
 
-			contents = '&nbsp;<img src="' + (basename ? ICON_FILE : getImageUrl(skill)) + '" alt="' + skill.imageAltText + '" width="' + (width ? width : '36') + '">';
+			contents = '&nbsp;<img src="' + (basename ? config.iconFile : getImageUrl(skill)) + '" alt="' + skill.imageAltText + '" width="' + (width ? width : '36') + '">';
 
 			return contents;
 		},
@@ -523,12 +429,12 @@ var download = function(url, dest, callback) {
 var getImageUrl = function(skill, absolute) {
 	absolute = absolute || false;
 
-	return (absolute ? 'https://github.com/dale3h/alexa-skills-list/raw/master/' : '') + SKILLS_DIR + '/' + skill.asin + '/' + ICON_FILE;
+	return (absolute ? 'https://github.com/dale3h/alexa-skills-list/raw/master/' : '') + config.skillsDir + '/' + skill.asin + '/' + config.iconFile;
 }
 
 // Create skills directory
 try {
-	fs.mkdirSync(SKILLS_DIR);
+	fs.mkdirSync(config.skillsDir);
 } catch (e) {
 	// Directory already exists
 }
@@ -572,7 +478,7 @@ for (var key in skills) {
 	// Closure to create scope for variables
 	(function(skill) {
 		// Set our skill directory
-		var skillDir = SKILLS_DIR + '/' + skill.asin;
+		var skillDir = config.skillsDir + '/' + skill.asin;
 
 		// Create skill directory
 		try {
@@ -586,7 +492,7 @@ for (var key in skills) {
 		var skillInput  = '';
 
 		try {
-			skillInput = fs.readFileSync(skillDir + '/' + README_FILE, 'utf8');
+			skillInput = fs.readFileSync(skillDir + '/' + config.readmeFile, 'utf8');
 		} catch (e) {
 			// File does not exist, or another error occurred
 		}
@@ -594,8 +500,8 @@ for (var key in skills) {
 		// Check to see if we need to update the skill's README file
 		if (!skillInput || skillInput.localeCompare(skillOutput) != 0) {
 			// Output the skill's README file
-			if (WRITE_MODE) {
-				fs.writeFileSync(skillDir + '/' + README_FILE, skillOutput, 'utf8');
+			if (config.writeMode) {
+				fs.writeFileSync(skillDir + '/' + config.readmeFile, skillOutput, 'utf8');
 			}
 
 			// Increment counts respectively
@@ -611,7 +517,7 @@ for (var key in skills) {
 		}
 
 		// Download skill image
-		var imageFile = skillDir + '/' + ICON_FILE;
+		var imageFile = skillDir + '/' + config.iconFile;
 
 		// Check to see if the image exists
 		fs.lstat(imageFile, function(err, stats) {
@@ -634,7 +540,7 @@ for (var key in skills) {
 		var jsonInput  = '';
 
 		try {
-			jsonInput = fs.readFileSync(skillDir + '/' + JSON_FILE, 'utf8');
+			jsonInput = fs.readFileSync(skillDir + '/' + config.jsonFile, 'utf8');
 		} catch (e) {
 			// File does not exist, or another error occurred
 		}
@@ -642,8 +548,8 @@ for (var key in skills) {
 		// Check to see if we need to update the skill's skill.json file
 		if (!jsonInput || jsonInput.localeCompare(jsonOutput) != 0) {
 			// Output the skill's skill.json file
-			if (WRITE_MODE) {
-				fs.writeFileSync(skillDir + '/' + JSON_FILE, jsonOutput, 'utf8');
+			if (config.writeMode) {
+				fs.writeFileSync(skillDir + '/' + config.jsonFile, jsonOutput, 'utf8');
 			}
 
 			// Increment counts respectively
@@ -657,31 +563,47 @@ for (var key in skills) {
 }
 
 // Only update master README if skills were added or updated
-if (WRITE_MODE && (addCount || updateCount || WRITE_MODE == 2)) {
+if (config.writeMode && (addCount || updateCount || config.writeMode == 2)) {
 	// Write master README
-	fs.writeFile(README_FILE, Template.readme(skills), 'utf8', function(err) {
+	fs.writeFile(config.readmeFile, Template.readme(skills), 'utf8', function(err) {
 		if (err) {
-			console.log('[ERROR] Failed to write %s: %s', README_FILE, err.message);
+			console.log('[ERROR] Failed to write %s: %s', config.readmeFile, err.message);
 			return;
 		}
 
-		console.log('[LOG] Updated %s', README_FILE);
+		console.log('[LOG] Updated %s', config.readmeFile);
 	});
 
+	var csvSkills = [];
+
+	for (var key in skills) {
+		var skill = JSON.parse(JSON.stringify(skills[key]));
+
+		skill.firstReleaseDate =         Date.format('Y-m-d H:i:s', skill.firstReleaseDate);
+		skill.exampleInteractions[0] =   skill.exampleInteractions[0] || '';
+		skill.exampleInteractions[1] =   skill.exampleInteractions[1] || '';
+		skill.exampleInteractions[2] =   skill.exampleInteractions[2] || '';
+		skill.privacyPolicyUrl =         skill.privacyPolicyUrl || '';
+		skill.termsOfUseUrl =            skill.termsOfUseUrl || '';
+		skill.inAppPurchasingSupported = skill.inAppPurchasingSupported ? 'Yes' : 'No';
+
+		csvSkills.push(skill);
+	}
+
 	// Write CSV file
-	json2csv({data: skills, fields: csvFields}, function(err, csv) {
+	json2csv({data: csvSkills, fields: config.csvFields}, function(err, csv) {
 		if (err) {
-			console.log('[ERROR] Failed to write %s: %s', CSV_FILE, err.message);
+			console.log('[ERROR] Failed to write %s: %s', config.csvFile, err.message);
 			return;
 		}
 
-		fs.writeFile(CSV_FILE, csv, 'utf8', function(err) {
+		fs.writeFile(config.csvFile, csv, 'utf8', function(err) {
 			if (err) {
-				console.log('[ERROR] Failed to write %s: %s', CSV_FILE, err.message);
+				console.log('[ERROR] Failed to write %s: %s', config.csvFile, err.message);
 				return;
 			}
 
-			console.log('[LOG] Updated %s', CSV_FILE);
+			console.log('[LOG] Updated %s', config.csvFile);
 		});
 	});
 }
@@ -698,9 +620,9 @@ if (updateCount) {
 }
 
 if (addCountJSON) {
-	console.log('[LOG] Added %d %s file%s', addCountJSON, JSON_FILE, (addCountJSON != 1 ? 's' : ''));
+	console.log('[LOG] Added %d %s file%s', addCountJSON, config.jsonFile, (addCountJSON != 1 ? 's' : ''));
 }
 
 if (updateCountJSON) {
-	console.log('[LOG] Updated %d %s file%s', updateCountJSON, JSON_FILE, (updateCountJSON != 1 ? 's' : ''));
+	console.log('[LOG] Updated %d %s file%s', updateCountJSON, config.jsonFile, (updateCountJSON != 1 ? 's' : ''));
 }

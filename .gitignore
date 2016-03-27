@@ -1,9 +1,12 @@
 .DS_Store
+cache
+lib
 node_modules
 npm-debug.log
 *.tmp
 *.backup
 *.dev.*
+config.json
 skills.json
 fetch.sh
 fetch.bat
