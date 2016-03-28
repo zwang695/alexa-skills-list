@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 450
+**Total Skills Available:** 451
 
 ***
 
@@ -3055,6 +3055,14 @@ Choose your own adventure beyond the magic door. Fairies, gnomes, gods, and trea
 *Alexa, open The Name Game and use Alexa.*
 
 Alexa alexa bo-balexa, banana-fana fo-falexa, fee fi fo-malexa, Alexa!
+
+***
+
+## &nbsp;<img src="skills/B01DJIC8WM/skill_icon" alt="The Name Game Song icon" width="36"> [The Name Game Song](skills/B01DJIC8WM)
+
+*Alexa, ask Name Game for Gary.*
+
+Play the Name Game song
 
 ***
 
