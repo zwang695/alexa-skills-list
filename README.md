@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 442
+**Total Skills Available:** 450
 
 ***
 
@@ -1136,6 +1136,14 @@ eventseeker is your personalized event service with a focus on minimizing search
 
 ***
 
+## &nbsp;<img src="skills/B01DJ7Z29Y/skill_icon" alt="Exchange Rate Service icon" width="36"> [Exchange Rate Service](skills/B01DJ7Z29Y)
+
+*Alexa, open exchange rates*
+
+Get the latest, up to the minute, currency exchange rates
+
+***
+
 ## &nbsp;<img src="skills/B01DC0VZZI/skill_icon" alt="Expense Tracker icon" width="36"> [Expense Tracker](skills/B01DC0VZZI)
 
 *Alexa, tell Expense Tracker that I paid 10 dollars for food.*
@@ -1165,16 +1173,6 @@ Retrieve fantasy football news and player updates on the Top 300 players directl
 *Alexa, Ask Fidelity to get a quote for Amazon*
 
 Ask Fidelity Quote Lookup and Market Update
-
-***
-
-## &nbsp;<img src="skills/B01D5B7R7Y/skill_icon" alt="Fin icon" width="36"> [Fin](skills/B01D5B7R7Y)
-
-*Alexa, ask Fin to remind me to pick up milk*
-
-Fin for Alexa.
-
-www.fin.com
 
 ***
 
@@ -1402,6 +1400,14 @@ Focused on love, living The Good Samaritan Society Way
 
 ***
 
+## &nbsp;<img src="skills/B01DJ4ARKG/skill_icon" alt="GoSpursTrivia icon" width="36"> [GoSpursTrivia](skills/B01DJ4ARKG)
+
+*Alexa, open go spurs trivia*
+
+Just a fun little trivia app for Spurs fans. We are not officially related in any way - we just like the Spurs. Go Spurs Go!
+
+***
+
 ## &nbsp;<img src="skills/B01COTHDSG/skill_icon" alt="Greatest Common Divisor (GCD) icon" width="36"> [Greatest Common Divisor (GCD)](skills/B01COTHDSG)
 
 *Alexa, open G. C. D.*
@@ -1415,6 +1421,14 @@ G. C. D.  The greatest common divisor of 2 numbers
 *Alexa, launch Gridiron Trivia*
 
 Test your knowledge of the Gridiron's winners and MVPs.
+
+***
+
+## &nbsp;<img src="skills/B01DJ8GTS6/skill_icon" alt="Guess the Number icon" width="36"> [Guess the Number](skills/B01DJ8GTS6)
+
+*Alexa, play guess the number*
+
+Guess the number between 1-100.  Alexa will let you know if your guess is greater than or less than the number. Start by saying, "Alexa, play guess the number!"
 
 ***
 
@@ -1639,6 +1653,14 @@ ISY skill allows you to control your home using an ISY home-automation controlle
 *Alexa, open I till Foundation Quiz.*
 
 Sharpen your ITIL Foundation knowledge or supplement your certification preparation with the assistance of this practice quiz.
+
+***
+
+## &nbsp;<img src="skills/B01DJC8RZA/skill_icon" alt="Jack's Trivia icon" width="36"> [Jack's Trivia](skills/B01DJC8RZA)
+
+*Alexa, open jack's trivia*
+
+Jack's Trivia
 
 ***
 
@@ -2259,6 +2281,14 @@ OurGroceries is the simplest way to keep your grocery lists instantly synchroniz
 
 ***
 
+## &nbsp;<img src="skills/B01DJD37I6/skill_icon" alt="Package Tracker icon" width="36"> [Package Tracker](skills/B01DJD37I6)
+
+*Alexa, open Package Tracker*
+
+With this skill you will never have to guess when your package is arriving. You can ask Package Tracker about all upcoming package shipments
+
+***
+
 ## &nbsp;<img src="skills/B019HTWWW8/skill_icon" alt="Perfect Pitch icon" width="36"> [Perfect Pitch](skills/B019HTWWW8)
 
 *Alexa, Open Perfect Pitch.*
@@ -2540,6 +2570,14 @@ This is just random value picker e.g. Alexa, ask Randomizer for any random numbe
 
 ***
 
+## &nbsp;<img src="skills/B01DJD8Z3S/skill_icon" alt="Redbird Games icon" width="36"> [Redbird Games](skills/B01DJD8Z3S)
+
+*Alexa, launch Redbird Games*
+
+A St. Louis Cardinals Baseball trivia game.
+
+***
+
 ## &nbsp;<img src="skills/B01BIKSNMW/skill_icon" alt="Reflect Connect icon" width="36"> [Reflect Connect](skills/B01BIKSNMW)
 
 *Alexa, talk to Reflect*
@@ -2673,6 +2711,14 @@ Controlling your Scout security system has never been easier. Ask Alexa to arm a
 *Alexa, ask Seattle Transit for directions from Ballard to Capitol Hill*
 
 Get step-by-step transit directions between neighborhoods in Seattle.
+
+***
+
+## &nbsp;<img src="skills/B01DJ5C3FC/skill_icon" alt="Security Quiz icon" width="36"> [Security Quiz](skills/B01DJ5C3FC)
+
+*Alexa, ask Security Quiz*
+
+Take a Cyber Security Quiz
 
 ***
 
@@ -3401,6 +3447,22 @@ Twister spinner with voice
 *Alexa, open U. S. history*
 
 Fun and education facts about US History
+
+***
+
+## &nbsp;<img src="skills/B01DJ6SYWM/skill_icon" alt="UAT4 SKILL5 Prod Sanity icon" width="36"> [UAT4 SKILL5 Prod Sanity](skills/B01DJ6SYWM)
+
+*A quick introductory description, which will be shown in the Alexa App i*
+
+A quick introductory description, which will be shown in the Alexa App i
+
+***
+
+## &nbsp;<img src="skills/B01DJADS9W/skill_icon" alt="UAT4 SKILL6 prod Sanity icon" width="36"> [UAT4 SKILL6 prod Sanity](skills/B01DJADS9W)
+
+*Many developers fail c*
+
+A quick introductory description, which will be shown in the Alexa App in the main list of skills, along with the
 
 ***
 

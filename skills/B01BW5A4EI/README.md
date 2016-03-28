@@ -9,12 +9,13 @@ To use the Email Assistant skill, try saying...
 
 * *Alexa, ask Email Assistant for my hotel reservation details?*
 
-Alexa can finally talk to your mailbox! Link your mail account and you can ask Alexa about travel information. 
-Starting with hotels, car rentals and flights. You get complete details when you ask Alexa about your flight or hotel reservation details or the time your flight boards or the checkout time from your hotel.
-
-​Coming soon you will be able to ask about hotel bookings, event information, where are your packages and more!
+Alexa can finally talk to your mailbox! Enable the 'Email Assistant' skill and link your mail account and you can ask Alexa about travel information. Starting with hotels, car rentals and flights. You get complete details when you ask Alexa about your flight or hotel reservation details or the time your flight boards or the checkout time from your hotel.
 
 Works with all mail providers—Gmail, Yahoo, Exchange, iCloud, IMAP and others.
+
+PLEASE NOTE: Email Assistant can only inform you about the travel reservations if the skill finds any reservations in the email you have connected to EasilyDo. To connect multiple Gmails or email accounts other than Gmail, please log in to your EasilyDo account at www.easilydo.com and then add the other email accounts including multiple Gmail accounts.
+
+SUPPORT: Please send us an email at support@easilydo.com if you have any questions or suggestions. We are standing by to help you!
 
 ***
 
