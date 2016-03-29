@@ -20,7 +20,7 @@ Remember the Name Game song from 1964 by Shirley Ellis? Well, maybe not but you 
 * **ID:** amzn1.echo-sdk-ams.app.96f2e939-0afd-4615-afe4-439773cb335f
 * **ASIN:** B01DJIC8WM
 * **Author:** Webguild
-* **Release Date:** December 31, 1969 @ 18:00:00
+* **Release Date:** March 28, 2016 @ 13:20:12
 * **Privacy Policy:** http://alexa.webguild.com/Home/PrivacyPolicy
 * **Terms of Use:** http://alexa.webguild.com/Home/TermsOfUse
 * **In-App Purchasing:** No

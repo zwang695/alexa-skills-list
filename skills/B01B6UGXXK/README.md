@@ -9,7 +9,7 @@ To use the Acoustic Metronome skill, try saying...
 
 * *Alexa, ask metronome to play 120*
 
-This is an acoustical metronome that plays a regular drumbeat. You can use it to time things, or to help you keep the beat while practicing music. You can pick any rate between 40 and 199 beats per minute. It will play the beats for up to 90 seconds. If you want more, you can ask it to repeat, or switch to a new rate. When you are done, you can say "Alexa stop" to terminate it.
+This skill is an acoustical metronome that plays a regular drumbeat. You can use it to time yourself or to help you keep the beat while practicing music. You can pick any rate between 40 and 199 beats per minute. It will play the beats for up to 90 seconds. If you want more, you can ask it to repeat, or switch to a new rate. When you are done, you can say "Alexa stop" to terminate it.
 
 ***
 

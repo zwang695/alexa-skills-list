@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 451
+**Total Skills Available:** 456
 
 ***
 
@@ -105,7 +105,7 @@ Stay connected to the latest in weather forecasting with AccuWeather – Weather
 
 *Alexa, open metronome*
 
-Having trouble keeping the beat? TsaTsaTzu can help you keep your groove with a nice acoustical drum beat to help you keep time.
+TsaTsaTzu presents a handsfree metronome for the Alexa. For the tempo-minded soul within.
 
 ***
 
@@ -1416,6 +1416,14 @@ G. C. D.  The greatest common divisor of 2 numbers
 
 ***
 
+## &nbsp;<img src="skills/B01DJJ286M/skill_icon" alt="Greenwich Time icon" width="36"> [Greenwich Time](skills/B01DJJ286M)
+
+*Alexa ask Greenwich Time what is GMT*
+
+Tells GMT or Greenwich Mean Time
+
+***
+
 ## &nbsp;<img src="skills/B01BOB3HO4/skill_icon" alt="Gridiron Trivia icon" width="36"> [Gridiron Trivia](skills/B01BOB3HO4)
 
 *Alexa, launch Gridiron Trivia*
@@ -1704,14 +1712,6 @@ An expansion of Alexa's cheesy jokes for all you CS majors out there.
 
 ***
 
-## &nbsp;<img src="skills/B017OBNR1G/skill_icon" alt="Kasa icon" width="36"> [Kasa](skills/B017OBNR1G)
-
-*Alexa, ask Kasa to turn the lights on.*
-
-Kasa is a simple way to manage your home from anywhere.
-
-***
-
 ## &nbsp;<img src="skills/B01AYL0KUY/skill_icon" alt="KCRW On Air icon" width="36"> [KCRW On Air](skills/B01AYL0KUY)
 
 *Alexa, ask KCRW what's playing*
@@ -1873,6 +1873,14 @@ Alexa, ask manorama for the latest news
 
 ***
 
+## &nbsp;<img src="skills/B01DJKKVLA/skill_icon" alt="March Madness Trivia icon" width="36"> [March Madness Trivia](skills/B01DJKKVLA)
+
+*Alexa, open/play March madness trivia*
+
+Trivia game asking questions about historical March basketball tournaments.
+
+***
+
 ## &nbsp;<img src="skills/B01BMRJUU0/skill_icon" alt="Market News icon" width="36"> [Market News](skills/B01BMRJUU0)
 
 *Alexa, ask Market for news*
@@ -1926,6 +1934,14 @@ Checks the MBTA system for any alerts on the subway or commuter rail lines
 *Alexa, ask m. b. t. a. helper when is the next park street train arriving at brookline village*
 
 Boston MBTA helper
+
+***
+
+## &nbsp;<img src="skills/B01DJNFHWK/skill_icon" alt="Medusa Myth icon" width="36"> [Medusa Myth](skills/B01DJNFHWK)
+
+*Alexa, ask The Gorgons*
+
+Medusa Myth tells you many interesting facts about Medusa.
 
 ***
 
@@ -2626,6 +2642,14 @@ This is a quiz on the state capitals for the United States of America.
 
 ***
 
+## &nbsp;<img src="skills/B01DJJWY9I/skill_icon" alt="Rivers of Europe Trivia icon" width="36"> [Rivers of Europe Trivia](skills/B01DJJWY9I)
+
+*Alexa play European River Trivia*
+
+Trivia contest for European rivers.  Test your knowledge of European rivers.  It may inspire you to take a river cruise!
+
+***
+
 ## &nbsp;<img src="skills/B01BI9JO1W/skill_icon" alt="Rock Paper Scissors Lizard Spock icon" width="36"> [Rock Paper Scissors Lizard Spock](skills/B01BI9JO1W)
 
 *Alexa, open lizard spock*
@@ -3194,6 +3218,14 @@ A competitive game in which you answer questions using a word or phrase that beg
 
 ***
 
+## &nbsp;<img src="skills/B01DJJ7C0O/skill_icon" alt="Today in History icon" width="36"> [Today in History](skills/B01DJJ7C0O)
+
+*Alexa, ask Today in History about historic events.*
+
+Today in History
+
+***
+
 ## &nbsp;<img src="skills/B019R33WWS/skill_icon" alt="Today's Astronomy Picture icon" width="36"> [Today's Astronomy Picture](skills/B019R33WWS)
 
 *Alexa, load Today's Astronomy Picture*
@@ -3415,6 +3447,14 @@ Get the free answer of the day for America's Pub Quiz trivia.
 *Alexa, ask Tube Status about the Victoria line.*
 
 Access the current London tube status from your Amazon Echo. Ask about all lines, or one line in particular
+
+***
+
+## &nbsp;<img src="skills/B01DJKRG5Y/skill_icon" alt="Turtle Trivia icon" width="36"> [Turtle Trivia](skills/B01DJKRG5Y)
+
+*Alexa play turtle trivia*
+
+A short trivia skill about turtles and teenage mutant ninja turtles
 
 ***
 
