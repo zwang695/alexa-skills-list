@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 456
+**Total Skills Available:** 462
 
 ***
 
@@ -752,6 +752,14 @@ Test your knowledge of the men's college basketball tournament!
 
 ***
 
+## &nbsp;<img src="skills/B01DKME59G/skill_icon" alt="College Basketball Trivia icon" width="36"> [College Basketball Trivia](skills/B01DKME59G)
+
+*Alexa, Open College Basketball Trivia*
+
+Test your College Basketball knowledge with a series of trivia questions surrounding the history of the Men's College Basketball Tournament.
+
+***
+
 ## &nbsp;<img src="skills/B01AKFXFYC/skill_icon" alt="Combat icon" width="36"> [Combat](skills/B01AKFXFYC)
 
 *Alexa, open combat and hit the dragon with my sword*
@@ -941,6 +949,14 @@ Gives Washington DC Metro light rail train arrival and departure times, as well 
 *Alexa, open demotivate*
 
 Tired of everyone lying to you? This skill will tell you the truth.
+
+***
+
+## &nbsp;<img src="skills/B01DKRR77I/skill_icon" alt="DEVITO FACTS icon" width="36"> [DEVITO FACTS](skills/B01DKRR77I)
+
+*Alexa, ask Devito for a fact*
+
+Get a fact about IPRO
 
 ***
 
@@ -1152,6 +1168,14 @@ Expense Tracker can help you keep track of your costs. Just add all your spendin
 
 ***
 
+## &nbsp;<img src="skills/B01DKLV0CM/skill_icon" alt="Famous Births icon" width="36"> [Famous Births](skills/B01DKLV0CM)
+
+*Alexa, open Famous Births.*
+
+Are you interested in the birthdays of famous people? Rely on Famous Births for the birthdays of hundreds of famous people for every day of the year.
+
+***
+
 ## &nbsp;<img src="skills/B017OBQQ7I/skill_icon" alt="Famous Quotes icon" width="36"> [Famous Quotes](skills/B017OBQQ7I)
 
 *Alexa, ask Famous Quotes to tell me quote.*
@@ -1349,6 +1373,14 @@ Geek games is trivia skill to test your knowledge of random geeky facts of the E
 *Alexa, ask a geek*
 
 Alexa will ask you 5 trivia questions per game.  It’s a fun way to test your geek knowledge of a famous movie or TV show.
+
+***
+
+## &nbsp;<img src="skills/B01DKN053A/skill_icon" alt="Geography Trivia icon" width="36"> [Geography Trivia](skills/B01DKN053A)
+
+*Alexa, open Geography Trivia*
+
+Geography Trivia is a challenging quiz game in which you have to prove your knowledge about the various cities of the world.
 
 ***
 
@@ -1915,7 +1947,7 @@ Math Puzzles is a fun way to challenge yourself and your friends. You’ll hear 
 
 ## &nbsp;<img src="skills/B017OBJZ9E/skill_icon" alt="Math Tutor icon" width="36"> [Math Tutor](skills/B017OBJZ9E)
 
-*Alexa, ask Math Tutor for 3.*
+*Alexa, ask Math Tutor for 3 times table.*
 
 Math Tutor can read out the multiplication tables between 1 and 10.
 
@@ -2153,6 +2185,14 @@ This skill enables you to find your body mass index. You can input your height i
 
 ***
 
+## &nbsp;<img src="skills/B01DKF311G/skill_icon" alt="My Copilot icon" width="36"> [My Copilot](skills/B01DKF311G)
+
+*Alexa, ask My Copilot, what are the clouds at P-A-E*
+
+Aviation weather in an air traffic controller's vocabulary
+
+***
+
 ## &nbsp;<img src="skills/B01AX1WQC0/skill_icon" alt="My Dermatologist icon" width="36"> [My Dermatologist](skills/B01AX1WQC0)
 
 *Alexa, ask My Dermatologist what's the u. v. index*
@@ -2370,11 +2410,27 @@ Facts about the humankind's greatest achievement: pizza
 
 ***
 
+## &nbsp;<img src="skills/B01DKKUR54/skill_icon" alt="Pope Francis Trivia icon" width="36"> [Pope Francis Trivia](skills/B01DKKUR54)
+
+*Alexa, launch Pope Francis Trivia*
+
+See how well you know Pope Francis with this quick game!
+
+***
+
 ## &nbsp;<img src="skills/B017OBRW5S/skill_icon" alt="Portal2 Fact Core icon" width="36"> [Portal2 Fact Core](skills/B017OBRW5S)
 
 *Alexa, open Fact Core.*
 
 Well, so you want to learn something.  The Fact Core can assist, but it's up to you to decide if it's true or if we have experienced some data corruption.
+
+***
+
+## &nbsp;<img src="skills/B01DKL42S6/skill_icon" alt="Potter Trivia icon" width="36"> [Potter Trivia](skills/B01DKL42S6)
+
+*Alexa, launch Potter Trivia*
+
+Test your knowledge of the Wizarding world with this Harry Potter Trivia Skill.
 
 ***
 
@@ -2671,6 +2727,14 @@ Roddenberry's Trek Quotes is a fun, fast, and fabulous way to reminisce about yo
 *Alexa, start S.L.P. Review*
 
 The S.L.P. Praxis Review is an interactive voice activated flashcard skill for the Speech-Language Pathology Certification Exam. Study w/ ease... hands-free!
+
+***
+
+## &nbsp;<img src="skills/B01DKPAC5Y/skill_icon" alt="Safety Tips Games icon" width="36"> [Safety Tips Games](skills/B01DKPAC5Y)
+
+*Alexa, ask Safety Guy*
+
+This skill is a game. It will hone your knowledge on safety.
 
 ***
 
@@ -3495,22 +3559,6 @@ Twister spinner with voice
 *Alexa, open U. S. history*
 
 Fun and education facts about US History
-
-***
-
-## &nbsp;<img src="skills/B01DJ6SYWM/skill_icon" alt="UAT4 SKILL5 Prod Sanity icon" width="36"> [UAT4 SKILL5 Prod Sanity](skills/B01DJ6SYWM)
-
-*A quick introductory description, which will be shown in the Alexa App i*
-
-A quick introductory description, which will be shown in the Alexa App i
-
-***
-
-## &nbsp;<img src="skills/B01DJADS9W/skill_icon" alt="UAT4 SKILL6 prod Sanity icon" width="36"> [UAT4 SKILL6 prod Sanity](skills/B01DJADS9W)
-
-*Many developers fail c*
-
-A quick introductory description, which will be shown in the Alexa App in the main list of skills, along with the
 
 ***
 

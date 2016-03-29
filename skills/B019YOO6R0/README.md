@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Daily Affirmation icon" width="36"> Daily Affirmation
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 6
+![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_half_black_18dp_1x.png) 8
 
 To use the Daily Affirmation skill, try saying...
 

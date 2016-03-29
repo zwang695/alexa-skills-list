@@ -3,11 +3,11 @@
 
 To use the Math Tutor skill, try saying...
 
-* *Alexa, ask Math Tutor for 3.*
+* *Alexa, ask Math Tutor for 3 times table.*
 
-* *Alexa, ask Math Tutor for 6 times table.*
+* *Alexa, ask Math Tutor for table 7.*
 
-* *Alexa, ask Math Tutor for table 9.*
+* *Alexa, ask Math Tutor for 4.*
 
 Math Tutor can read out the multiplication tables between 1 and 10. For example, you could say "Alexa, ask Math Tutor for 6 times table." Alexa will then read the answer, which is also available to view on the Home page of the Echo App.
 
