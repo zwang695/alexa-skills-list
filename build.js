@@ -389,7 +389,7 @@ var Template = {
 			var tmpImageUrl = skill.imageUrl;
 			skill.imageUrl = getImageUrl(skill, true);
 
-			contents = JSON.stringify(skill) + '\n';
+			contents = JSON.stringify(skill, null, 2) + '\n';
 
 			// Set image URL back to original (fix for downloading images)
 			skill.imageUrl = tmpImageUrl;
