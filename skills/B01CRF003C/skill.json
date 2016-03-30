@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01CRF003C","averageRating":1,"canDisable":true,"capabilities":null,"category":"Communications","description":"The Daily Wake Up Call provides a daily recorded quotation, message, or anecdote to inspire or entertain you while including thoughtful and practical advice on how to improve your work, love, health, and finances.","enablement":null,"exampleInteractions":["Alexa, open wake up call","Alexa, play wake up call","Alexa, start Wake Up Call"],"firstReleaseDate":1457553977.708,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.b6f2b8e5-7159-42a7-9e1a-b56e242aa658","imageAltText":"Wake Up Call icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01CRF003C/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"wake up call","name":"Wake Up Call","numberOfReviews":1,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":"http://www.wakeupdial.com","shortDescription":"Daily Wake Up Call by Sean Bauer","skillTypes":null,"stage":"live","termsOfUseUrl":"http://www.wakeupdial.com","vendorId":"M3LKJYTQ0FEG04","vendorName":"Coeus Mobile LLC"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01CRF003C",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Communications",
+  "description": "The Daily Wake Up Call provides a daily recorded quotation, message, or anecdote to inspire or entertain you while including thoughtful and practical advice on how to improve your work, love, health, and finances.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open wake up call",
+    "Alexa, play wake up call",
+    "Alexa, start Wake Up Call"
+  ],
+  "firstReleaseDate": 1457553977.708,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.b6f2b8e5-7159-42a7-9e1a-b56e242aa658",
+  "imageAltText": "Wake Up Call icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01CRF003C/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "wake up call",
+  "name": "Wake Up Call",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.wakeupdial.com",
+  "shortDescription": "Daily Wake Up Call by Sean Bauer",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://www.wakeupdial.com",
+  "vendorId": "M3LKJYTQ0FEG04",
+  "vendorName": "Coeus Mobile LLC"
+}

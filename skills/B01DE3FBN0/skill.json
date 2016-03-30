@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DE3FBN0","averageRating":0,"canDisable":true,"capabilities":null,"category":"Entertainment","description":"If you say \"Alexa play 80's Movie Trivia\" you will be presented with 5 questions each with a choice of 5 answers.  Alexa with read your choices of answers along with a corresponding number.  Answer using the number that is associated with the correct answer.  At the end of the 5 questions Alexa will tell you how many you answered correctly.","enablement":null,"exampleInteractions":["Alexa, open eighties movie trivia","i don't know","skip"],"firstReleaseDate":1458842624.719,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.17a1a310-8f50-4133-99ed-8a1a2ff693df","imageAltText":"80's Movie Trivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DE3FBN0/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"eighties movie trivia","name":"80's Movie Trivia","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"If you say \"Alexa play 80's Movie Trivia\" you will be presented with 5 questions, each with a choice of 5 answers.  Answer using the corresponding number.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MZN2RQCMS19WU","vendorName":"Don Savner"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DE3FBN0",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "If you say \"Alexa play 80's Movie Trivia\" you will be presented with 5 questions each with a choice of 5 answers.  Alexa with read your choices of answers along with a corresponding number.  Answer using the number that is associated with the correct answer.  At the end of the 5 questions Alexa will tell you how many you answered correctly.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open eighties movie trivia",
+    "i don't know",
+    "skip"
+  ],
+  "firstReleaseDate": 1458842624.719,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.17a1a310-8f50-4133-99ed-8a1a2ff693df",
+  "imageAltText": "80's Movie Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DE3FBN0/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "eighties movie trivia",
+  "name": "80's Movie Trivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "If you say \"Alexa play 80's Movie Trivia\" you will be presented with 5 questions, each with a choice of 5 answers.  Answer using the corresponding number.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MZN2RQCMS19WU",
+  "vendorName": "Don Savner"
+}

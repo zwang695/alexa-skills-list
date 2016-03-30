@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B017OBUCJG","averageRating":2.4,"canDisable":true,"capabilities":null,"category":"News","description":"Tweet Poll lets you put your finger on the pulse of the nation, as measured by tweets. Using IBM Insights for Twitter (available on BlueMix), to surveys twitter activity for a one day, one week or one month time period. You can listen to rankings by party, candidate, state, gender or sentiment. If you are interested in more specific information, you can narrow the selection by the same criteria.","enablement":null,"exampleInteractions":["Alexa, open Tweet Poll","Donald Trump","By state"],"firstReleaseDate":1446841045.068,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.93afa260-e936-4235-adf9-92328db1dd10","imageAltText":"Tweet Poll icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OBUCJG/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"tweet poll","name":"Tweet Poll","numberOfReviews":4,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":"http://ocean-of-storms.com/tsatsatzu/legal/tp_privacy.htm","shortDescription":"Tweet Poll lets you put your finger on the pulse of the nation, as measured by tweets. Construct your own polls and find out the information you want.","skillTypes":null,"stage":"live","termsOfUseUrl":"http://ocean-of-storms.com/tsatsatzu/legal/tp_terms.htm","vendorId":"M2Z4MGCPHV6VHU","vendorName":"TsaTsaTzu"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B017OBUCJG",
+  "averageRating": 2.4,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "News",
+  "description": "Tweet Poll lets you put your finger on the pulse of the nation, as measured by tweets. Using IBM Insights for Twitter (available on BlueMix), to surveys twitter activity for a one day, one week or one month time period. You can listen to rankings by party, candidate, state, gender or sentiment. If you are interested in more specific information, you can narrow the selection by the same criteria.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Tweet Poll",
+    "Donald Trump",
+    "By state"
+  ],
+  "firstReleaseDate": 1446841045.068,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.93afa260-e936-4235-adf9-92328db1dd10",
+  "imageAltText": "Tweet Poll icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OBUCJG/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "tweet poll",
+  "name": "Tweet Poll",
+  "numberOfReviews": 4,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "http://ocean-of-storms.com/tsatsatzu/legal/tp_privacy.htm",
+  "shortDescription": "Tweet Poll lets you put your finger on the pulse of the nation, as measured by tweets. Construct your own polls and find out the information you want.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://ocean-of-storms.com/tsatsatzu/legal/tp_terms.htm",
+  "vendorId": "M2Z4MGCPHV6VHU",
+  "vendorName": "TsaTsaTzu"
+}

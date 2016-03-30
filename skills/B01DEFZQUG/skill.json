@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DEFZQUG","averageRating":0,"canDisable":true,"capabilities":null,"category":"Games","description":"Think you know all things Michael Jackson ? Take this challenge that tests your Michael Jackson knowledge from realm of film, music and TV.","enablement":null,"exampleInteractions":["Alexa, Launch King Of Pop","Help","Repeat"],"firstReleaseDate":1458865815.879,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.172102eb-8a64-4961-b736-31d9cb691bce","imageAltText":"King Of Pop Trivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DEFZQUG/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"king of pop","name":"King Of Pop Trivia","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"A fun trivia for fans of Michael Jackson - King of Pop. Alexa, launch King Of Pop Trivia","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2PGY1NVHD8RVD","vendorName":"James Co"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DEFZQUG",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "Think you know all things Michael Jackson ? Take this challenge that tests your Michael Jackson knowledge from realm of film, music and TV.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Launch King Of Pop",
+    "Help",
+    "Repeat"
+  ],
+  "firstReleaseDate": 1458865815.879,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.172102eb-8a64-4961-b736-31d9cb691bce",
+  "imageAltText": "King Of Pop Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DEFZQUG/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "king of pop",
+  "name": "King Of Pop Trivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "A fun trivia for fans of Michael Jackson - King of Pop. Alexa, launch King Of Pop Trivia",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2PGY1NVHD8RVD",
+  "vendorName": "James Co"
+}

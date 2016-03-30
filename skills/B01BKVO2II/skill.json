@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01BKVO2II","averageRating":0,"canDisable":true,"capabilities":null,"category":"News","description":"Read Hacker News headlines. Retrieves story headlines from news.ycombinator.com.\n\nExample phrases to open app:\n\nAlexa, open Hacker News.\nAlexa, launch Hacker News.\nAlexa, start Hacker News.\n\nExample phrases to read stories:\n\nAlexa, ask Hacker News for [type] stories.\nAlexa, ask Hacker News for [type] [count] stories.\n\nAlexa, tell Hacker News to read [type] headlines.\nAlexa, tell Hacker News to read [type] [count] headlines.\n\nAlexa, tell Hacker News [type] stories.\nAlexa, tell Hacker News [type] headlines.\n\nStory types available are \n- Top\n- New\n- Show\n- Ask\n- Job\n- Best\n- Active\n- Noob\n\nCount can be a number from range from 5 - 30.\n\nExamples:\n\nAlexa, ask Hacker News for top stories.\nAlexa, ask Hacker News for top 15 stories.\nAlexa, ask Hacker News what's the top stories.\nAlexa, ask Hacker News to fetch top stories.\nAlexa, ask Hacker News to get top stories.\nAlexa, ask Hacker News to read ask stories.\nAlexa, launch Hacker News and get top stories.\n\nExample phrases for help:\nAlexa, ask Hacker News for help.\n\nExample phrases to quit:\n\nAlexa, quit.\nAlexa, exit.\nAlexa, stop.\n\nSupport:\n\nFor reporting bugs or suggestions, please email m@moogs.io","enablement":null,"exampleInteractions":["Alexa, open Hacker News,","Alexa, ask Hacker News for top stories.","Alexa, tell Hacker News to read new headlines."],"firstReleaseDate":1454964097.12,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.8ac72bd2-31ba-4cab-af66-57166bf609b6","imageAltText":"Hacker News icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BKVO2II/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"hacker news","name":"Hacker News","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":"https://github.com/miguelmota/ASK-HackerNews/wiki/Privacy-Policy","shortDescription":"Read Hacker News headlines.","skillTypes":null,"stage":"live","termsOfUseUrl":"https://github.com/miguelmota/ASK-HackerNews/wiki/Terms-of-Use","vendorId":"MD69M670D4UJA","vendorName":"Moogs"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01BKVO2II",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "News",
+  "description": "Read Hacker News headlines. Retrieves story headlines from news.ycombinator.com.\n\nExample phrases to open app:\n\nAlexa, open Hacker News.\nAlexa, launch Hacker News.\nAlexa, start Hacker News.\n\nExample phrases to read stories:\n\nAlexa, ask Hacker News for [type] stories.\nAlexa, ask Hacker News for [type] [count] stories.\n\nAlexa, tell Hacker News to read [type] headlines.\nAlexa, tell Hacker News to read [type] [count] headlines.\n\nAlexa, tell Hacker News [type] stories.\nAlexa, tell Hacker News [type] headlines.\n\nStory types available are \n- Top\n- New\n- Show\n- Ask\n- Job\n- Best\n- Active\n- Noob\n\nCount can be a number from range from 5 - 30.\n\nExamples:\n\nAlexa, ask Hacker News for top stories.\nAlexa, ask Hacker News for top 15 stories.\nAlexa, ask Hacker News what's the top stories.\nAlexa, ask Hacker News to fetch top stories.\nAlexa, ask Hacker News to get top stories.\nAlexa, ask Hacker News to read ask stories.\nAlexa, launch Hacker News and get top stories.\n\nExample phrases for help:\nAlexa, ask Hacker News for help.\n\nExample phrases to quit:\n\nAlexa, quit.\nAlexa, exit.\nAlexa, stop.\n\nSupport:\n\nFor reporting bugs or suggestions, please email m@moogs.io",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Hacker News,",
+    "Alexa, ask Hacker News for top stories.",
+    "Alexa, tell Hacker News to read new headlines."
+  ],
+  "firstReleaseDate": 1454964097.12,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.8ac72bd2-31ba-4cab-af66-57166bf609b6",
+  "imageAltText": "Hacker News icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BKVO2II/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "hacker news",
+  "name": "Hacker News",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "https://github.com/miguelmota/ASK-HackerNews/wiki/Privacy-Policy",
+  "shortDescription": "Read Hacker News headlines.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://github.com/miguelmota/ASK-HackerNews/wiki/Terms-of-Use",
+  "vendorId": "MD69M670D4UJA",
+  "vendorName": "Moogs"
+}

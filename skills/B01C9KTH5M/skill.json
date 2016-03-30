@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01C9KTH5M","averageRating":0,"canDisable":true,"capabilities":null,"category":"Travel","description":"This service will give you information about NYC transit (so far only subway/LIRR/MetroNorth service status)\n'Alexa, ask conductor to get status for the 7 train'","enablement":null,"exampleInteractions":["Alexa, ask conductor to get status for the 7 train","Alexa, ask conductor to get status for the port jefferson","Alexa, ask conductor for Babylon status"],"firstReleaseDate":1456533062.746,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.5bf0893d-81e3-4477-9941-f5901359e740","imageAltText":"Conductor icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01C9KTH5M/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"conductor","name":"Conductor","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Get information on your commute. So far supports NYC subway/LIRR/MetroNorth status (NYC bus coming soon). 'Get status for 7 train'","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M12HNP4CSROU4E","vendorName":"Gotham Web Artisans"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01C9KTH5M",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Travel",
+  "description": "This service will give you information about NYC transit (so far only subway/LIRR/MetroNorth service status)\n'Alexa, ask conductor to get status for the 7 train'",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask conductor to get status for the 7 train",
+    "Alexa, ask conductor to get status for the port jefferson",
+    "Alexa, ask conductor for Babylon status"
+  ],
+  "firstReleaseDate": 1456533062.746,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.5bf0893d-81e3-4477-9941-f5901359e740",
+  "imageAltText": "Conductor icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01C9KTH5M/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "conductor",
+  "name": "Conductor",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Get information on your commute. So far supports NYC subway/LIRR/MetroNorth status (NYC bus coming soon). 'Get status for 7 train'",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M12HNP4CSROU4E",
+  "vendorName": "Gotham Web Artisans"
+}

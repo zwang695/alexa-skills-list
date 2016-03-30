@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B019YGPC1M","averageRating":4.3,"canDisable":true,"capabilities":null,"category":"Utilities","description":"Resistor Decoder tells you the value of one or more resistors when you read the resistors' color bands aloud. You can read through as many resistors as you like without re-launching the Skill or having to say \"tell me the value of...\" for each subsequent resistor. This provides a quick, hands-free way to sort through a pile of resistors.  \n\nResistor Decoder supports 3-, 4-, and 5-band resistors.  It also warns you if a resistor value isn't one of the Standard EIA Decade values.  (A non-standard value usually means you read the colors wrong.)","enablement":null,"exampleInteractions":["Alexa, open Resistor Decoder.","Alexa, ask Resistor Decoder for the value of a blue gray yellow silver resistor.","Alexa, ask Resistor Decoder to tell me the value of a brown black yellow gold resistor."],"firstReleaseDate":1451416728.324,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.d72c6461-71be-468a-8bbe-d238aec9d240","imageAltText":"Resistor Decoder icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B019YGPC1M/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"resistor decoder","name":"Resistor Decoder","numberOfReviews":3,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Read the color bands off a resistor and Resistor Decoder will tell you its value. Great for when you have a lot of resistors to organize (doesn't everyone?).","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2YSY2V8FIOD0C","vendorName":"Thomp"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B019YGPC1M",
+  "averageRating": 4.3,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Utilities",
+  "description": "Resistor Decoder tells you the value of one or more resistors when you read the resistors' color bands aloud. You can read through as many resistors as you like without re-launching the Skill or having to say \"tell me the value of...\" for each subsequent resistor. This provides a quick, hands-free way to sort through a pile of resistors.  \n\nResistor Decoder supports 3-, 4-, and 5-band resistors.  It also warns you if a resistor value isn't one of the Standard EIA Decade values.  (A non-standard value usually means you read the colors wrong.)",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Resistor Decoder.",
+    "Alexa, ask Resistor Decoder for the value of a blue gray yellow silver resistor.",
+    "Alexa, ask Resistor Decoder to tell me the value of a brown black yellow gold resistor."
+  ],
+  "firstReleaseDate": 1451416728.324,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.d72c6461-71be-468a-8bbe-d238aec9d240",
+  "imageAltText": "Resistor Decoder icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B019YGPC1M/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "resistor decoder",
+  "name": "Resistor Decoder",
+  "numberOfReviews": 3,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Read the color bands off a resistor and Resistor Decoder will tell you its value. Great for when you have a lot of resistors to organize (doesn't everyone?).",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2YSY2V8FIOD0C",
+  "vendorName": "Thomp"
+}

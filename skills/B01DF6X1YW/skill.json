@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DF6X1YW","averageRating":0,"canDisable":true,"capabilities":null,"category":"Education","description":"Learn more about Minnesota with Minnesota trivia facts.  Even the governor will be surprised by some of these facts!  Just open the Minnesota Trivia application, and it will tell you a fact.","enablement":null,"exampleInteractions":["Alexa, open Minnesota Trivia","Yes","No"],"firstReleaseDate":1458906184.494,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.2e28c46a-08e0-4192-9d14-cabf6e614cbd","imageAltText":"Minnesota Trivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DF6X1YW/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"minnesota trivia","name":"Minnesota Trivia","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":"http://www.luppes.com/Alexa/Privacy","shortDescription":"State of Minnesota Trivia","skillTypes":null,"stage":"live","termsOfUseUrl":"http://www.luppes.com/Alexa/TermsOfUse","vendorId":"M18OD70KDA1FDA","vendorName":"Luppes Consulting, Inc."}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DF6X1YW",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "Learn more about Minnesota with Minnesota trivia facts.  Even the governor will be surprised by some of these facts!  Just open the Minnesota Trivia application, and it will tell you a fact.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Minnesota Trivia",
+    "Yes",
+    "No"
+  ],
+  "firstReleaseDate": 1458906184.494,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.2e28c46a-08e0-4192-9d14-cabf6e614cbd",
+  "imageAltText": "Minnesota Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DF6X1YW/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "minnesota trivia",
+  "name": "Minnesota Trivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.luppes.com/Alexa/Privacy",
+  "shortDescription": "State of Minnesota Trivia",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://www.luppes.com/Alexa/TermsOfUse",
+  "vendorId": "M18OD70KDA1FDA",
+  "vendorName": "Luppes Consulting, Inc."
+}

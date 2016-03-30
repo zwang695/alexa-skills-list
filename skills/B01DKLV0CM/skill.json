@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DKLV0CM","averageRating":0,"canDisable":true,"capabilities":null,"category":"Entertainment","description":"Are you interested in the birthdays of famous people? Rely on Famous Births for the birthdays of hundreds of famous people for every day of the year. Information source: Wikipedia.org.","enablement":null,"exampleInteractions":["Alexa, open Famous Births.","Alexa, ask Famous Births to get birthdays for today.","Alexa, ask Famous Births to get birthdays for August seventeenth."],"firstReleaseDate":1459250931.179,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.0c3e9650-4ab5-44db-abda-f9ba316b5587","imageAltText":"Famous Births icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DKLV0CM/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"famous births","name":"Famous Births","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Are you interested in the birthdays of famous people? Rely on Famous Births for the birthdays of hundreds of famous people for every day of the year.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3CHVOYEMQINUG","vendorName":"Appbly.com"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DKLV0CM",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "Are you interested in the birthdays of famous people? Rely on Famous Births for the birthdays of hundreds of famous people for every day of the year. Information source: Wikipedia.org.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Famous Births.",
+    "Alexa, ask Famous Births to get birthdays for today.",
+    "Alexa, ask Famous Births to get birthdays for August seventeenth."
+  ],
+  "firstReleaseDate": 1459250931.179,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.0c3e9650-4ab5-44db-abda-f9ba316b5587",
+  "imageAltText": "Famous Births icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DKLV0CM/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "famous births",
+  "name": "Famous Births",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Are you interested in the birthdays of famous people? Rely on Famous Births for the birthdays of hundreds of famous people for every day of the year.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3CHVOYEMQINUG",
+  "vendorName": "Appbly.com"
+}

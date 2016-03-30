@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01B25D1CA","averageRating":3.7,"canDisable":true,"capabilities":null,"category":"Games","description":"Practice your knowledge of U.S  History from the colonial times to current day with Trivia Challenge.  You'll be given 5 multiple choice questions to answer per round.  You will be given 4 possible answers. Respond with the number of your answer. Ask Alexa to repeat the question if you need to.","enablement":null,"exampleInteractions":["Alexa, start trivia challenge","Alexa, open trivia challenge","Alexa, ask trivia challenge"],"firstReleaseDate":1453762214.395,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.1d4ead35-21f8-42bb-ab3b-f14e2a5c98d4","imageAltText":"Trivia Challenge: U.S History icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01B25D1CA/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"trivia challenge","name":"Trivia Challenge: U.S History","numberOfReviews":5,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Practice your knowledge of U.S  History from the colonial times to current day with Trivia Challenge.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M24M4O08GUH1KK","vendorName":"Innate.io"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01B25D1CA",
+  "averageRating": 3.7,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "Practice your knowledge of U.S  History from the colonial times to current day with Trivia Challenge.  You'll be given 5 multiple choice questions to answer per round.  You will be given 4 possible answers. Respond with the number of your answer. Ask Alexa to repeat the question if you need to.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, start trivia challenge",
+    "Alexa, open trivia challenge",
+    "Alexa, ask trivia challenge"
+  ],
+  "firstReleaseDate": 1453762214.395,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.1d4ead35-21f8-42bb-ab3b-f14e2a5c98d4",
+  "imageAltText": "Trivia Challenge: U.S History icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01B25D1CA/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "trivia challenge",
+  "name": "Trivia Challenge: U.S History",
+  "numberOfReviews": 5,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Practice your knowledge of U.S  History from the colonial times to current day with Trivia Challenge.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M24M4O08GUH1KK",
+  "vendorName": "Innate.io"
+}

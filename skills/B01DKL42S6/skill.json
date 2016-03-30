@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DKL42S6","averageRating":0,"canDisable":true,"capabilities":null,"category":"Games","description":"This skill will test your knowledge of the Harry Potter novels. In order to begin, just say \"Potter Trivia\" and Alex will begin the game. After she asks a question, you will just need to say the number of the answer that you think is correct, or with a phrase such as \"the answer is four\".\n\nThe game will last for a total of 5 questions.","enablement":null,"exampleInteractions":["Alexa, launch Potter Trivia","The answer is three","I don't know this question"],"firstReleaseDate":1459249673.012,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.4a4131d1-ea4b-43ab-b905-9b4eb14cff92","imageAltText":"Potter Trivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DKL42S6/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"potter trivia","name":"Potter Trivia","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Test your knowledge of the Wizarding world with this Harry Potter Trivia Skill.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3OMF8Z7863NJP","vendorName":"jkepps"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DKL42S6",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "This skill will test your knowledge of the Harry Potter novels. In order to begin, just say \"Potter Trivia\" and Alex will begin the game. After she asks a question, you will just need to say the number of the answer that you think is correct, or with a phrase such as \"the answer is four\".\n\nThe game will last for a total of 5 questions.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, launch Potter Trivia",
+    "The answer is three",
+    "I don't know this question"
+  ],
+  "firstReleaseDate": 1459249673.012,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.4a4131d1-ea4b-43ab-b905-9b4eb14cff92",
+  "imageAltText": "Potter Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DKL42S6/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "potter trivia",
+  "name": "Potter Trivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Test your knowledge of the Wizarding world with this Harry Potter Trivia Skill.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3OMF8Z7863NJP",
+  "vendorName": "jkepps"
+}

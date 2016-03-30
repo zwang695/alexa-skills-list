@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B018WUNBE6","averageRating":3.1,"canDisable":true,"capabilities":null,"category":"Health-and-Fitness","description":"The 7-Minute Workout is a scientifically proven set of exercises designed to increase metabolism, improve energy, lower stress, and best of all, remove fat! It's a small daily commitment for such enormous benefits.\n\nTo get started, you simply need to say 'Start 7-Minute Workout,' and you will be guided through the entire routine. Take breaks as you need them, and let Alexa know when you are ready to begin the next exercise, but don't forget to push yourself!\n\nFuture releases will offer additional features based on community feedback such as:\n-Resuming your exercise between sessions.\n-Tracking and statistics.\n-Advanced mode containing more difficult exercises.\n\nPlease share your thoughts and we'll do our best to make the 7-Minute Workout the perfect workout companion for your busy life!\n\nUpdate 1.1 - \n-Improved error handling for ready intents to accept addition words and phrases\n\nThanks for all the great feedback! Please continue to share your thoughts, and we'll do our best to provide the best possible experience!","enablement":null,"exampleInteractions":["Alexa, start seven minute workout.","Start workout","Ready"],"firstReleaseDate":1450132068.592,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.0e4a4011-a854-4aea-b719-40472fc4a8c5","imageAltText":"7-Minute Workout icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B018WUNBE6/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"seven minute workout","name":"7-Minute Workout","numberOfReviews":82,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Are you ready to lead a happier, healthier life?  Get your heart moving and reduce stress in only seven minutes a day!  To start, say 'Start 7-Minute Workout.'","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3C02TF8LZZFA","vendorName":"Pargee"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B018WUNBE6",
+  "averageRating": 3.1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Health-and-Fitness",
+  "description": "The 7-Minute Workout is a scientifically proven set of exercises designed to increase metabolism, improve energy, lower stress, and best of all, remove fat! It's a small daily commitment for such enormous benefits.\n\nTo get started, you simply need to say 'Start 7-Minute Workout,' and you will be guided through the entire routine. Take breaks as you need them, and let Alexa know when you are ready to begin the next exercise, but don't forget to push yourself!\n\nFuture releases will offer additional features based on community feedback such as:\n-Resuming your exercise between sessions.\n-Tracking and statistics.\n-Advanced mode containing more difficult exercises.\n\nPlease share your thoughts and we'll do our best to make the 7-Minute Workout the perfect workout companion for your busy life!\n\nUpdate 1.1 - \n-Improved error handling for ready intents to accept addition words and phrases\n\nThanks for all the great feedback! Please continue to share your thoughts, and we'll do our best to provide the best possible experience!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, start seven minute workout.",
+    "Start workout",
+    "Ready"
+  ],
+  "firstReleaseDate": 1450132068.592,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.0e4a4011-a854-4aea-b719-40472fc4a8c5",
+  "imageAltText": "7-Minute Workout icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B018WUNBE6/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "seven minute workout",
+  "name": "7-Minute Workout",
+  "numberOfReviews": 82,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Are you ready to lead a happier, healthier life?  Get your heart moving and reduce stress in only seven minutes a day!  To start, say 'Start 7-Minute Workout.'",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3C02TF8LZZFA",
+  "vendorName": "Pargee"
+}

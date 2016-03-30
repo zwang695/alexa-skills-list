@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DEYA56M","averageRating":0,"canDisable":true,"capabilities":null,"category":"Games","description":"Think you know the James Bond films? Put your knowledge to the test with this Alexa Trivia Skill.\n\nAlexa will ask you \"Who Played Bond\" in 5 different 007 movies. Your job is to match up the correct actors with each movie. \n\nEnjoy!","enablement":null,"exampleInteractions":["Alexa, open Who Played Bond",null,null],"firstReleaseDate":1458893269.532,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.052b92cd-025f-4b4e-92cf-fef35214b7de","imageAltText":"Who Played Bond - 007 Trivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DEYA56M/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"who played bond","name":"Who Played Bond - 007 Trivia","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Test your knowledge of the 007 films by matching which actor played bond in each movie.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MOXRUG7RZOMYH","vendorName":"JGDev"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DEYA56M",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "Think you know the James Bond films? Put your knowledge to the test with this Alexa Trivia Skill.\n\nAlexa will ask you \"Who Played Bond\" in 5 different 007 movies. Your job is to match up the correct actors with each movie. \n\nEnjoy!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Who Played Bond",
+    null,
+    null
+  ],
+  "firstReleaseDate": 1458893269.532,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.052b92cd-025f-4b4e-92cf-fef35214b7de",
+  "imageAltText": "Who Played Bond - 007 Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DEYA56M/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "who played bond",
+  "name": "Who Played Bond - 007 Trivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Test your knowledge of the 007 films by matching which actor played bond in each movie.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MOXRUG7RZOMYH",
+  "vendorName": "JGDev"
+}

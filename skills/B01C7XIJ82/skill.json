@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01C7XIJ82","averageRating":2.7,"canDisable":true,"capabilities":null,"category":"Education","description":"Children's Bible Quiz where children can test their Bible knowledge. Five questions are asked with four possible answers each. How well will you do?","enablement":null,"exampleInteractions":["Alexa open Children's Bible Quiz","Repeat","Help"],"firstReleaseDate":1456445555.287,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.c4e73397-2f52-44e6-b986-48a503df140b","imageAltText":"Children's Bible Quiz icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01C7XIJ82/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"children's bible quiz","name":"Children's Bible Quiz","numberOfReviews":3,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Simple Children's Bible Quiz","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MMWKDMHX7SWJX","vendorName":"M Squared "}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01C7XIJ82",
+  "averageRating": 2.7,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "Children's Bible Quiz where children can test their Bible knowledge. Five questions are asked with four possible answers each. How well will you do?",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa open Children's Bible Quiz",
+    "Repeat",
+    "Help"
+  ],
+  "firstReleaseDate": 1456445555.287,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.c4e73397-2f52-44e6-b986-48a503df140b",
+  "imageAltText": "Children's Bible Quiz icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01C7XIJ82/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "children's bible quiz",
+  "name": "Children's Bible Quiz",
+  "numberOfReviews": 3,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Simple Children's Bible Quiz",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MMWKDMHX7SWJX",
+  "vendorName": "M Squared "
+}

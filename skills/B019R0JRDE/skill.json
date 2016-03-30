@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B019R0JRDE","averageRating":0,"canDisable":true,"capabilities":null,"category":"Other","description":"The QVine app allows you to ask about upcoming events on the QVine calendar.  You can ask about the quarterly meetings, picnic, holiday party, other corporate activities and holidays.","enablement":null,"exampleInteractions":["Alexa, ask QVine, when is the next quarterly meeting?","Alexa, ask QVine, when is the next holiday?","Alexa, ask QVine, when is the next corporate activity?"],"firstReleaseDate":1450909139.66,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.cff2ad4c-5345-44ec-9446-ec077c46e6e7","imageAltText":"QVine icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B019R0JRDE/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"q vine","name":"QVine","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"This app allows QVine employees to ask about upcoming events on the QVine calendar.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2466YSA9JEJ35","vendorName":"QVine"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B019R0JRDE",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Other",
+  "description": "The QVine app allows you to ask about upcoming events on the QVine calendar.  You can ask about the quarterly meetings, picnic, holiday party, other corporate activities and holidays.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask QVine, when is the next quarterly meeting?",
+    "Alexa, ask QVine, when is the next holiday?",
+    "Alexa, ask QVine, when is the next corporate activity?"
+  ],
+  "firstReleaseDate": 1450909139.66,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.cff2ad4c-5345-44ec-9446-ec077c46e6e7",
+  "imageAltText": "QVine icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B019R0JRDE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "q vine",
+  "name": "QVine",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "This app allows QVine employees to ask about upcoming events on the QVine calendar.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2466YSA9JEJ35",
+  "vendorName": "QVine"
+}

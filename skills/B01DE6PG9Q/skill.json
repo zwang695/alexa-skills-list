@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DE6PG9Q","averageRating":3,"canDisable":true,"capabilities":null,"category":"Travel","description":"This skill returns the next NJ Transit train that runs from one station to another station.\nCurrent version returns information for next single train.\nfor example you can say, \"Alexa ask NJ Transit train when is the next train from New York to Newark Airport\" Current version only supports direct connections.","enablement":null,"exampleInteractions":["Alexa ask NJ Transit train when is the next train from New York to Newark Airport","Alexa ask NJ Transit train next train from New York to Newark Airport","Alexa ask NJ Transit train from New York to Newark Airport"],"firstReleaseDate":1458847557.839,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.6ae6a7fc-edd1-4706-8d2a-de6d6e7ca94c","imageAltText":"NJ Transit Train Schedule icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DE6PG9Q/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"n. j. transit train","name":"NJ Transit Train Schedule","numberOfReviews":1,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Get information on your NJ Transit Train. Current version will give information about next train from one station to another Station.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3TLSHPQ96QMZ0","vendorName":"Mangesh Paranjape"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DE6PG9Q",
+  "averageRating": 3,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Travel",
+  "description": "This skill returns the next NJ Transit train that runs from one station to another station.\nCurrent version returns information for next single train.\nfor example you can say, \"Alexa ask NJ Transit train when is the next train from New York to Newark Airport\" Current version only supports direct connections.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask NJ Transit train when is the next train from New York to Newark Airport",
+    "Alexa ask NJ Transit train next train from New York to Newark Airport",
+    "Alexa ask NJ Transit train from New York to Newark Airport"
+  ],
+  "firstReleaseDate": 1458847557.839,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.6ae6a7fc-edd1-4706-8d2a-de6d6e7ca94c",
+  "imageAltText": "NJ Transit Train Schedule icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DE6PG9Q/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "n. j. transit train",
+  "name": "NJ Transit Train Schedule",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Get information on your NJ Transit Train. Current version will give information about next train from one station to another Station.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3TLSHPQ96QMZ0",
+  "vendorName": "Mangesh Paranjape"
+}

@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":[],"asin":"B01BL06CC2","averageRating":2,"canDisable":true,"capabilities":null,"category":"Home-Automation","description":"When your home reacts to you, it’s not magic – but it’s pretty darn close. With a D-Link Wi-Fi Smart Plug, you can control & schedule your devices from virtually anywhere. Left the iron on? No problem! Did you turn your bedroom fan off? Let’s find out! No hub or complicated setup required – just a simple device that turns any home into a smart home.\n \nWith the mydlink home skill, Alexa can turn your appliances on and off, set schedules and even monitor your energy usage. Enjoy your personal barista by asking Alexa to start brewing your coffee when you wake up or make sure to turn the lights off when you leave – it’s easy!\n \nTo get your smart home started, you’ll need a mydlink Wi-Fi Smart Plug (DSP-W110 and DSP-W215, available from Amazon and most retailers) setup on your Wi-Fi network and connected to your free mydlink account.\n \nJust say “Alexa, ask mydlink to turn on living room light.” and Alexa will connect to your mydlink account and help you create a truly automated home.","enablement":null,"exampleInteractions":["Alexa, ask my dee link to turn off bedroom light.","Alexa, launch my dee link.","Alexa, ask my dee link to turn on kitchen light."],"firstReleaseDate":1454976988.45,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.e8ea2440-fac2-429f-8b6d-fb01669a652e","imageAltText":"mydlink Home icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BL06CC2/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"my dee link","name":"mydlink Home","numberOfReviews":1,"pamsPartnerId":"DpelqqEDW4Y3NOCDGCQtiIgZ3","permissions":null,"privacyPolicyUrl":"https://www.mydlink.com/privacyPolicy","shortDescription":"D-Link’s Wi-Fi Smart Plugs make your home brighter, safer and more in tune with you. Control your devices with the sound of your voice and make any home smart.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2C6QXRDTH7401","vendorName":"Dlink"}
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01BL06CC2",
+  "averageRating": 2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Home-Automation",
+  "description": "When your home reacts to you, it’s not magic – but it’s pretty darn close. With a D-Link Wi-Fi Smart Plug, you can control & schedule your devices from virtually anywhere. Left the iron on? No problem! Did you turn your bedroom fan off? Let’s find out! No hub or complicated setup required – just a simple device that turns any home into a smart home.\n \nWith the mydlink home skill, Alexa can turn your appliances on and off, set schedules and even monitor your energy usage. Enjoy your personal barista by asking Alexa to start brewing your coffee when you wake up or make sure to turn the lights off when you leave – it’s easy!\n \nTo get your smart home started, you’ll need a mydlink Wi-Fi Smart Plug (DSP-W110 and DSP-W215, available from Amazon and most retailers) setup on your Wi-Fi network and connected to your free mydlink account.\n \nJust say “Alexa, ask mydlink to turn on living room light.” and Alexa will connect to your mydlink account and help you create a truly automated home.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask my dee link to turn off bedroom light.",
+    "Alexa, launch my dee link.",
+    "Alexa, ask my dee link to turn on kitchen light."
+  ],
+  "firstReleaseDate": 1454976988.45,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.e8ea2440-fac2-429f-8b6d-fb01669a652e",
+  "imageAltText": "mydlink Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BL06CC2/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "my dee link",
+  "name": "mydlink Home",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "DpelqqEDW4Y3NOCDGCQtiIgZ3",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.mydlink.com/privacyPolicy",
+  "shortDescription": "D-Link’s Wi-Fi Smart Plugs make your home brighter, safer and more in tune with you. Control your devices with the sound of your voice and make any home smart.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2C6QXRDTH7401",
+  "vendorName": "Dlink"
+}

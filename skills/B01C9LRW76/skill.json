@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01C9LRW76","averageRating":0,"canDisable":true,"capabilities":null,"category":"Social","description":"Read the latest Washington DC tech news and events from www.dctechcal.com.\nSay: \"Alexa ask D.C. Tech for news\" or \"Alexa, ask D.C. Tech for events\"\n#dctech","enablement":null,"exampleInteractions":["Alexa ask D.C. Tech for news","Alexa ask D.C. Tech for events",null],"firstReleaseDate":1456535069.807,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.9920a638-5e86-4ee4-9802-cbe14d60d969","imageAltText":"D.C. Tech Cal icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01C9LRW76/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"d. c. tech","name":"D.C. Tech Cal","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Read the latest news and events from the Washington DC tech scene.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M1Y135HJO0Z69S","vendorName":"Troy Crosby"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01C9LRW76",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Social",
+  "description": "Read the latest Washington DC tech news and events from www.dctechcal.com.\nSay: \"Alexa ask D.C. Tech for news\" or \"Alexa, ask D.C. Tech for events\"\n#dctech",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask D.C. Tech for news",
+    "Alexa ask D.C. Tech for events",
+    null
+  ],
+  "firstReleaseDate": 1456535069.807,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.9920a638-5e86-4ee4-9802-cbe14d60d969",
+  "imageAltText": "D.C. Tech Cal icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01C9LRW76/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "d. c. tech",
+  "name": "D.C. Tech Cal",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Read the latest news and events from the Washington DC tech scene.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1Y135HJO0Z69S",
+  "vendorName": "Troy Crosby"
+}

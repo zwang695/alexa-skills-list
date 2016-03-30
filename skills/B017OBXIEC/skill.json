@@ -1,1 +1,32 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B017OBXIEC","averageRating":2.9,"canDisable":true,"capabilities":null,"category":"Social","description":"Shower Thoughts are itty-bitty witty bite-sized clever thoughts. This is a skill which will automatically fetch the Internet's most popular Shower Thought each day.","enablement":null,"exampleInteractions":["Alexa, open Shower Thoughts."],"firstReleaseDate":1446841154.713,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.901a3f73-22df-4ad2-aa7c-ed49c3a07a6f","imageAltText":"Shower Thoughts icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OBXIEC/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"shower thoughts","name":"Shower Thoughts","numberOfReviews":7,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Shower Thoughts are itty-bitty witty bite-sized clever thoughts. This skill will automatically fetch the Internet's most popular Shower Thought each day.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MXU66S8CN1LUH","vendorName":"BugBen.com"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B017OBXIEC",
+  "averageRating": 2.9,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Social",
+  "description": "Shower Thoughts are itty-bitty witty bite-sized clever thoughts. This is a skill which will automatically fetch the Internet's most popular Shower Thought each day.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Shower Thoughts."
+  ],
+  "firstReleaseDate": 1446841154.713,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.901a3f73-22df-4ad2-aa7c-ed49c3a07a6f",
+  "imageAltText": "Shower Thoughts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OBXIEC/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "shower thoughts",
+  "name": "Shower Thoughts",
+  "numberOfReviews": 7,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Shower Thoughts are itty-bitty witty bite-sized clever thoughts. This skill will automatically fetch the Internet's most popular Shower Thought each day.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MXU66S8CN1LUH",
+  "vendorName": "BugBen.com"
+}

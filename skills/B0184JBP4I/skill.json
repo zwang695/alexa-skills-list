@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B0184JBP4I","averageRating":4,"canDisable":true,"capabilities":null,"category":"Travel","description":"Gives Washington DC Metro light rail train arrival and departure times, as well as maintenance or incident reports. It will remember the last station you requested times for and save it, setting it as default if a station is not specified next time.","enablement":null,"exampleInteractions":["Alexa, ask DC Metro for the next train arriving at Columbia Heights","Alexa, ask DC Metro is there weekend work","Alexa, ask DC Metro for the next train from metro center"],"firstReleaseDate":1447791220.393,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.4fa44b35-dc28-456a-8f8d-7690ed1c284e","imageAltText":"DC Metro icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B0184JBP4I/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"dc metro","name":"DC Metro","numberOfReviews":3,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Gives Washington DC Metro light rail train arrival and departure times, as well as maintenance or incident reports.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MGHW9XDBILJYE","vendorName":"Jimmy Cartrette"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B0184JBP4I",
+  "averageRating": 4,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Travel",
+  "description": "Gives Washington DC Metro light rail train arrival and departure times, as well as maintenance or incident reports. It will remember the last station you requested times for and save it, setting it as default if a station is not specified next time.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask DC Metro for the next train arriving at Columbia Heights",
+    "Alexa, ask DC Metro is there weekend work",
+    "Alexa, ask DC Metro for the next train from metro center"
+  ],
+  "firstReleaseDate": 1447791220.393,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.4fa44b35-dc28-456a-8f8d-7690ed1c284e",
+  "imageAltText": "DC Metro icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B0184JBP4I/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "dc metro",
+  "name": "DC Metro",
+  "numberOfReviews": 3,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Gives Washington DC Metro light rail train arrival and departure times, as well as maintenance or incident reports.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MGHW9XDBILJYE",
+  "vendorName": "Jimmy Cartrette"
+}

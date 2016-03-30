@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DBH506C","averageRating":0,"canDisable":true,"capabilities":null,"category":"Games","description":"A games to test the knowledge of potential and existing visitors to the island of Providenciales in the Turks and Caicos islands of facts about the island.","enablement":null,"exampleInteractions":["Alexa, ask Provo Trivia","Repeat","Help"],"firstReleaseDate":1458713775.545,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.a7327066-e809-45fa-b01a-55f89d227762","imageAltText":"Providenciales Trivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DBH506C/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"provo trivia","name":"Providenciales Trivia","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Providenciales Trivia Game","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2ZZ6DNNHTWAWF","vendorName":"Kelly Justice"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DBH506C",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "A games to test the knowledge of potential and existing visitors to the island of Providenciales in the Turks and Caicos islands of facts about the island.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Provo Trivia",
+    "Repeat",
+    "Help"
+  ],
+  "firstReleaseDate": 1458713775.545,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.a7327066-e809-45fa-b01a-55f89d227762",
+  "imageAltText": "Providenciales Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DBH506C/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "provo trivia",
+  "name": "Providenciales Trivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Providenciales Trivia Game",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2ZZ6DNNHTWAWF",
+  "vendorName": "Kelly Justice"
+}

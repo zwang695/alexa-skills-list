@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DCRJVQG","averageRating":0,"canDisable":true,"capabilities":null,"category":"Utilities","description":"This is a tiny app that tells you whether there is a holiday affecting trash pickup schedule this week.  You can also ask when the next time the trash schedule is affected.  It does not have information regarding emergency changes to the schedule. Only valid for 2016.","enablement":null,"exampleInteractions":["Alexa, ask Trash Pickup if trash is picked up this week","Alexa, ask Trash Pickup for this week's schedule","Alexa, ask Trash Pickup when is the next holiday"],"firstReleaseDate":1458775638.811,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.07a60904-1bbe-4da0-b02f-fc19f7921447","imageAltText":"Trash Pickup 2016 Schedule - Anne Arundel Co MD icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DCRJVQG/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"trash pick up","name":"Trash Pickup 2016 Schedule - Anne Arundel Co MD","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Provides information regarding curbside collection holidays for Anne Arundel Co. Maryland. Just say \"Alexa, ask Trash Pickup if trash is picked up this week.\"","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3TXA8VJL6LERM","vendorName":"Peter Roca"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DCRJVQG",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Utilities",
+  "description": "This is a tiny app that tells you whether there is a holiday affecting trash pickup schedule this week.  You can also ask when the next time the trash schedule is affected.  It does not have information regarding emergency changes to the schedule. Only valid for 2016.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Trash Pickup if trash is picked up this week",
+    "Alexa, ask Trash Pickup for this week's schedule",
+    "Alexa, ask Trash Pickup when is the next holiday"
+  ],
+  "firstReleaseDate": 1458775638.811,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.07a60904-1bbe-4da0-b02f-fc19f7921447",
+  "imageAltText": "Trash Pickup 2016 Schedule - Anne Arundel Co MD icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DCRJVQG/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "trash pick up",
+  "name": "Trash Pickup 2016 Schedule - Anne Arundel Co MD",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Provides information regarding curbside collection holidays for Anne Arundel Co. Maryland. Just say \"Alexa, ask Trash Pickup if trash is picked up this week.\"",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3TXA8VJL6LERM",
+  "vendorName": "Peter Roca"
+}

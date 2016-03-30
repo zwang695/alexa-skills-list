@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DL1S65A","averageRating":0,"canDisable":true,"capabilities":null,"category":"Games","description":"Are you NASCAR's #1 Fan? Then prove it! \n\nThis fun trivia game will highlight some of NASCAR's historic drivers, tracks, and moments. Challenge yourself by playing alone, or take on your friends and family. \n\nGet ready. Get set. Go!","enablement":null,"exampleInteractions":["Alexa, open NASCAR Trivia","Repeat","Help"],"firstReleaseDate":1459276200.222,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.d483e0fb-bdcd-493d-8bb5-815ed4115d1f","imageAltText":"Trivia for NASCAR icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DL1S65A/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"nascar trivia","name":"Trivia for NASCAR","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Test your knowledge of NASCAR's past and present in this multiple-choice trivia game!","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M22NM793LIURT0","vendorName":"AdamPreston.me"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DL1S65A",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "Are you NASCAR's #1 Fan? Then prove it! \n\nThis fun trivia game will highlight some of NASCAR's historic drivers, tracks, and moments. Challenge yourself by playing alone, or take on your friends and family. \n\nGet ready. Get set. Go!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open NASCAR Trivia",
+    "Repeat",
+    "Help"
+  ],
+  "firstReleaseDate": 1459276200.222,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.d483e0fb-bdcd-493d-8bb5-815ed4115d1f",
+  "imageAltText": "Trivia for NASCAR icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DL1S65A/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "nascar trivia",
+  "name": "Trivia for NASCAR",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Test your knowledge of NASCAR's past and present in this multiple-choice trivia game!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M22NM793LIURT0",
+  "vendorName": "AdamPreston.me"
+}

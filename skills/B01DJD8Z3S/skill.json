@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DJD8Z3S","averageRating":0,"canDisable":true,"capabilities":null,"category":"Games","description":"Prove you're really part of Cardinal Nation and take the quiz!\n\n\"What odd occurrence ended rookie outfielder Vince Coleman’s season in 1985 before Game 4 of the National League Championship Series?\"\n\"Which Cardinal was known to have launched a foul ball out of the stadium?\"","enablement":null,"exampleInteractions":["Alexa, launch Redbird Games","Repeat","Help"],"firstReleaseDate":1459178504.886,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.e5aeb71e-628b-4fd3-808a-ede87a762364","imageAltText":"Redbird Games icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJD8Z3S/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"redbird games","name":"Redbird Games","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"A St. Louis Cardinals Baseball trivia game.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3PX7I1QZO0DAY","vendorName":"gitbnw"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DJD8Z3S",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "Prove you're really part of Cardinal Nation and take the quiz!\n\n\"What odd occurrence ended rookie outfielder Vince Coleman’s season in 1985 before Game 4 of the National League Championship Series?\"\n\"Which Cardinal was known to have launched a foul ball out of the stadium?\"",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, launch Redbird Games",
+    "Repeat",
+    "Help"
+  ],
+  "firstReleaseDate": 1459178504.886,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.e5aeb71e-628b-4fd3-808a-ede87a762364",
+  "imageAltText": "Redbird Games icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJD8Z3S/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "redbird games",
+  "name": "Redbird Games",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "A St. Louis Cardinals Baseball trivia game.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3PX7I1QZO0DAY",
+  "vendorName": "gitbnw"
+}

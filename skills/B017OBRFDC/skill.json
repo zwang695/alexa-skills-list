@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B017OBRFDC","averageRating":2.6,"canDisable":true,"capabilities":null,"category":"News","description":"The latest technology news and information on startups.","enablement":null,"exampleInteractions":["\"Alexa, ask Techcrunch news for headlines\"","\"Alexa, open TechCrunch News\" (To hear latest tech headlines for today)","\"Stop, End or Cancel\" (To end the session)"],"firstReleaseDate":1446840934.102,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.10b9a3c7-aec3-40b9-87e5-4fe445849799","imageAltText":"Techcrunch News icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OBRFDC/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"techcrunch news","name":"Techcrunch News","numberOfReviews":8,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":"http://legal.aol.com/TOS/","shortDescription":"The latest technology news and information on startups.","skillTypes":null,"stage":"live","termsOfUseUrl":"http://privacy.aol.com/","vendorId":"MV5646FZ0B171","vendorName":"AOL Inc."}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B017OBRFDC",
+  "averageRating": 2.6,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "News",
+  "description": "The latest technology news and information on startups.",
+  "enablement": null,
+  "exampleInteractions": [
+    "\"Alexa, ask Techcrunch news for headlines\"",
+    "\"Alexa, open TechCrunch News\" (To hear latest tech headlines for today)",
+    "\"Stop, End or Cancel\" (To end the session)"
+  ],
+  "firstReleaseDate": 1446840934.102,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.10b9a3c7-aec3-40b9-87e5-4fe445849799",
+  "imageAltText": "Techcrunch News icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OBRFDC/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "techcrunch news",
+  "name": "Techcrunch News",
+  "numberOfReviews": 8,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "http://legal.aol.com/TOS/",
+  "shortDescription": "The latest technology news and information on startups.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://privacy.aol.com/",
+  "vendorId": "MV5646FZ0B171",
+  "vendorName": "AOL Inc."
+}

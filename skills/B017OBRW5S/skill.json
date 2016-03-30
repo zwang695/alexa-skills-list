@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B017OBRW5S","averageRating":3,"canDisable":true,"capabilities":null,"category":"Games","description":"The Fact Core contains information, but it's up to you to decide if it's true or if we just have a few bad sectors on our drives.  Generally speaking, trusting the Fact Core is about like trusting nothing bad will happen when you pull your uncle's finger.","enablement":null,"exampleInteractions":["Alexa, open Fact Core.","Alexa, tell Fact Core to give me a fact.","Alexa, ask Fact Core what does it know."],"firstReleaseDate":1446840951.752,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.5d931280-41ee-4269-a29c-91889094e8b6","imageAltText":"Portal2 Fact Core icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OBRW5S/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"fact core","name":"Portal2 Fact Core","numberOfReviews":5,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Well, so you want to learn something.  The Fact Core can assist, but it's up to you to decide if it's true or if we have experienced some data corruption.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3FP6NHFA9AQXO","vendorName":"Magical Jester Creations"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B017OBRW5S",
+  "averageRating": 3,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "The Fact Core contains information, but it's up to you to decide if it's true or if we just have a few bad sectors on our drives.  Generally speaking, trusting the Fact Core is about like trusting nothing bad will happen when you pull your uncle's finger.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Fact Core.",
+    "Alexa, tell Fact Core to give me a fact.",
+    "Alexa, ask Fact Core what does it know."
+  ],
+  "firstReleaseDate": 1446840951.752,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.5d931280-41ee-4269-a29c-91889094e8b6",
+  "imageAltText": "Portal2 Fact Core icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OBRW5S/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "fact core",
+  "name": "Portal2 Fact Core",
+  "numberOfReviews": 5,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Well, so you want to learn something.  The Fact Core can assist, but it's up to you to decide if it's true or if we have experienced some data corruption.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3FP6NHFA9AQXO",
+  "vendorName": "Magical Jester Creations"
+}

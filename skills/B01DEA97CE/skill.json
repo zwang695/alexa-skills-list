@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DEA97CE","averageRating":0,"canDisable":true,"capabilities":null,"category":"Sports","description":"Have Alexa call the razorbacks hogs by saying\n\n\"Alexa, start calling the hogs\"\n\nOptionally \"and let's beat the {mascot}\" or \"and let's beat {college}\"  can be included at the end of the launch command.\n\n\"Alexa, Start calling the hogs and beat the bulldogs\"\n\"Alexa, Start calling the hogs and beat Alabama\"","enablement":null,"exampleInteractions":["Alexa  START calling the hogs","Alexa BEGIN calling the hogs and let's beat the aggies","Alexa START calling the hogs and let's beat TCU"],"firstReleaseDate":1458853692.116,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.a6146902-585f-43ee-bc01-06aadaeca282","imageAltText":"Calling the Hogs icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DEA97CE/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"calling the hogs","name":"Calling the Hogs","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Have Alexa call the hogs by saying:   \"Alexa, Start Calling the Hogs\".  Alexa will then call the hogs: \"woo pig sooie\"","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MQPSQJ164BIQK","vendorName":"hogfanboy"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DEA97CE",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Sports",
+  "description": "Have Alexa call the razorbacks hogs by saying\n\n\"Alexa, start calling the hogs\"\n\nOptionally \"and let's beat the {mascot}\" or \"and let's beat {college}\"  can be included at the end of the launch command.\n\n\"Alexa, Start calling the hogs and beat the bulldogs\"\n\"Alexa, Start calling the hogs and beat Alabama\"",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa  START calling the hogs",
+    "Alexa BEGIN calling the hogs and let's beat the aggies",
+    "Alexa START calling the hogs and let's beat TCU"
+  ],
+  "firstReleaseDate": 1458853692.116,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.a6146902-585f-43ee-bc01-06aadaeca282",
+  "imageAltText": "Calling the Hogs icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DEA97CE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "calling the hogs",
+  "name": "Calling the Hogs",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Have Alexa call the hogs by saying:   \"Alexa, Start Calling the Hogs\".  Alexa will then call the hogs: \"woo pig sooie\"",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MQPSQJ164BIQK",
+  "vendorName": "hogfanboy"
+}

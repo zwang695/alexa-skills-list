@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01B3R17S2","averageRating":2.7,"canDisable":true,"capabilities":null,"category":"Entertainment","description":"All you have to do is say mirror mirror and Alexa will give you a compliment. No matter how you feel when you ask she will make you smile. Its like always having your best friend right there with you. May not be suitable for all ages","enablement":null,"exampleInteractions":["Alexa, tell mirror mirror","Alexa, ask mirror mirror","Alexa, play mirror mirror"],"firstReleaseDate":1453852690.332,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.b4702c6a-b566-4bb9-8aac-18612e8678e2","imageAltText":"Mirror Mirror icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01B3R17S2/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"mirror mirror","name":"Mirror Mirror","numberOfReviews":7,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Mirror Mirror is the best app anyone can have. Research shows getting a sincere compliment gives us the same positive boost as receiving cash.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MR4G5LZDBTZF2","vendorName":"bryant schuck"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01B3R17S2",
+  "averageRating": 2.7,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "All you have to do is say mirror mirror and Alexa will give you a compliment. No matter how you feel when you ask she will make you smile. Its like always having your best friend right there with you. May not be suitable for all ages",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell mirror mirror",
+    "Alexa, ask mirror mirror",
+    "Alexa, play mirror mirror"
+  ],
+  "firstReleaseDate": 1453852690.332,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.b4702c6a-b566-4bb9-8aac-18612e8678e2",
+  "imageAltText": "Mirror Mirror icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01B3R17S2/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "mirror mirror",
+  "name": "Mirror Mirror",
+  "numberOfReviews": 7,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Mirror Mirror is the best app anyone can have. Research shows getting a sincere compliment gives us the same positive boost as receiving cash.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MR4G5LZDBTZF2",
+  "vendorName": "bryant schuck"
+}

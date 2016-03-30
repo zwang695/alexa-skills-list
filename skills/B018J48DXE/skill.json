@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B018J48DXE","averageRating":0,"canDisable":true,"capabilities":null,"category":"Other","description":"Get information about the upcoming long weekend. Useful for planning ahead your vacation around long weekends.","enablement":null,"exampleInteractions":["Alexa, open Long Weekend","Alexa, ask Long Weekend for details","Alexa, tell Long Weekend to describe the next"],"firstReleaseDate":1448493476.041,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.5c54487b-0481-4e61-bbf9-391c349139b9","imageAltText":"Long Weekend Info icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B018J48DXE/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"long weekend","name":"Long Weekend Info","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"What's the next long weekend?","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3L4ATKLU2ANXB","vendorName":"TapsUnlimited"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B018J48DXE",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Other",
+  "description": "Get information about the upcoming long weekend. Useful for planning ahead your vacation around long weekends.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Long Weekend",
+    "Alexa, ask Long Weekend for details",
+    "Alexa, tell Long Weekend to describe the next"
+  ],
+  "firstReleaseDate": 1448493476.041,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.5c54487b-0481-4e61-bbf9-391c349139b9",
+  "imageAltText": "Long Weekend Info icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B018J48DXE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "long weekend",
+  "name": "Long Weekend Info",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "What's the next long weekend?",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3L4ATKLU2ANXB",
+  "vendorName": "TapsUnlimited"
+}

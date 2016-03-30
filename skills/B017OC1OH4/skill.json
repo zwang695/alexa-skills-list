@@ -1,1 +1,32 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B017OC1OH4","averageRating":0,"canDisable":true,"capabilities":null,"category":"Other","description":"This extremely simple app tells you the current BTE-e Bitcoin to US Dollar exchange rate. All you have to do is open the app, there are no commands.\n\nThe only thing you have to say is \"Alexa, open Bitcoin Price Checker.\"","enablement":null,"exampleInteractions":["Alexa, open Bitcoin Price Checker."],"firstReleaseDate":1446841276.004,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.11eee174-e7ab-4ca8-98f0-6931bae5db0b","imageAltText":"Bitcoin Price Checker icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OC1OH4/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"bitcoin price checker","name":"Bitcoin Price Checker","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Ever wanted to check the Bitcoin exchange rate on your Amazon Echo? Now you can!","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M35OFQPZU2LOA4","vendorName":"Andrew Austin"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B017OC1OH4",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Other",
+  "description": "This extremely simple app tells you the current BTE-e Bitcoin to US Dollar exchange rate. All you have to do is open the app, there are no commands.\n\nThe only thing you have to say is \"Alexa, open Bitcoin Price Checker.\"",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Bitcoin Price Checker."
+  ],
+  "firstReleaseDate": 1446841276.004,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.11eee174-e7ab-4ca8-98f0-6931bae5db0b",
+  "imageAltText": "Bitcoin Price Checker icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OC1OH4/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "bitcoin price checker",
+  "name": "Bitcoin Price Checker",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Ever wanted to check the Bitcoin exchange rate on your Amazon Echo? Now you can!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M35OFQPZU2LOA4",
+  "vendorName": "Andrew Austin"
+}

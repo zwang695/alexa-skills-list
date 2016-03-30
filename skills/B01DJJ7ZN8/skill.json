@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DJJ7ZN8","averageRating":0,"canDisable":true,"capabilities":null,"category":"Education","description":"This is a quiz application for use by angular developers or those looking to improve their general knowledge about the AngularJS architecture. There are over 20 multiple choice questions with topics ranging from best practices, core module components, directive functionalities to historical information.","enablement":null,"exampleInteractions":["Alexa, start angular trivia","repeat the question","help"],"firstReleaseDate":1459324956.574,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.913faff0-7bb4-426a-860d-6b0f78784410","imageAltText":"Angular Trivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJJ7ZN8/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"angular trivia","name":"Angular Trivia","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"A quiz for angular developers about the architecture.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3W5990EK9K9NO","vendorName":"Pedro Urbina"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DJJ7ZN8",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "This is a quiz application for use by angular developers or those looking to improve their general knowledge about the AngularJS architecture. There are over 20 multiple choice questions with topics ranging from best practices, core module components, directive functionalities to historical information.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, start angular trivia",
+    "repeat the question",
+    "help"
+  ],
+  "firstReleaseDate": 1459324956.574,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.913faff0-7bb4-426a-860d-6b0f78784410",
+  "imageAltText": "Angular Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJJ7ZN8/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "angular trivia",
+  "name": "Angular Trivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "A quiz for angular developers about the architecture.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3W5990EK9K9NO",
+  "vendorName": "Pedro Urbina"
+}

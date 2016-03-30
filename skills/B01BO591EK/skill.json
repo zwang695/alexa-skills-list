@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01BO591EK","averageRating":0,"canDisable":true,"capabilities":null,"category":"Social","description":"If you play America's Pub Quiz trivia in Madison, WI... you always want to get the free answer from the website before the game starts.  Why not ask Alexa to look it up for you?  :)","enablement":null,"exampleInteractions":["Alexa, ask trivia with friends for the free answer","Alexa, open trivia with friends",null],"firstReleaseDate":1455225905.072,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.cbca4dd5-4743-4895-9283-d45c644702b9","imageAltText":"Trivia With Friends icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BO591EK/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"trivia with friends","name":"Trivia With Friends","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Get the free answer of the day for America's Pub Quiz trivia.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M36UFM044U2ZEJ","vendorName":"Bachelor Pad Development"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01BO591EK",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Social",
+  "description": "If you play America's Pub Quiz trivia in Madison, WI... you always want to get the free answer from the website before the game starts.  Why not ask Alexa to look it up for you?  :)",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask trivia with friends for the free answer",
+    "Alexa, open trivia with friends",
+    null
+  ],
+  "firstReleaseDate": 1455225905.072,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.cbca4dd5-4743-4895-9283-d45c644702b9",
+  "imageAltText": "Trivia With Friends icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BO591EK/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "trivia with friends",
+  "name": "Trivia With Friends",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Get the free answer of the day for America's Pub Quiz trivia.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M36UFM044U2ZEJ",
+  "vendorName": "Bachelor Pad Development"
+}

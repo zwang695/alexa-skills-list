@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DJJ7C0O","averageRating":4.5,"canDisable":true,"capabilities":null,"category":"Education","description":"Welcome to Today in History. Just ask Alexa for today in history and she will respond with notable events, birthdays, and more!","enablement":null,"exampleInteractions":["Alexa, ask Today in History about historic events.","Alexa, ask Today in History about a famous birthday today.","Alexa, ask Today in History to tell me a random fact about today."],"firstReleaseDate":1459190610.578,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.877602b7-46d9-4add-94d5-fe215dfd73a7","imageAltText":"Today in History icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJJ7C0O/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"today in history","name":"Today in History","numberOfReviews":2,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Today in History","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3KRN4PTLLAM5J","vendorName":"MemCheck"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DJJ7C0O",
+  "averageRating": 4.5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "Welcome to Today in History. Just ask Alexa for today in history and she will respond with notable events, birthdays, and more!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Today in History about historic events.",
+    "Alexa, ask Today in History about a famous birthday today.",
+    "Alexa, ask Today in History to tell me a random fact about today."
+  ],
+  "firstReleaseDate": 1459190610.578,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.877602b7-46d9-4add-94d5-fe215dfd73a7",
+  "imageAltText": "Today in History icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJJ7C0O/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "today in history",
+  "name": "Today in History",
+  "numberOfReviews": 2,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Today in History",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3KRN4PTLLAM5J",
+  "vendorName": "MemCheck"
+}

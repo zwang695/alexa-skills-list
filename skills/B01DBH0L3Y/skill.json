@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DBH0L3Y","averageRating":0,"canDisable":true,"capabilities":null,"category":"Reference","description":"Cat Genius will tell you so many interesting bits of information about your family friend.  Great way to pass the time, prepare for your next dinner party small talk, or stun your friends with the vastness of your feline intellect.","enablement":null,"exampleInteractions":["Alexa, open Cat Genius!","Alexa, ask Cat Genius to tell me a fact.","Alexa, ask Cat Genius for a fact."],"firstReleaseDate":1458713651.565,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.2b5a7dd7-fd8c-4623-a076-456b6d1c5b0b","imageAltText":"Cat Genius icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DBH0L3Y/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"cat genius","name":"Cat Genius","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Cat Genius knows so many things about your family friend!","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2VZYA7JPB6XX5","vendorName":"BrownDog Tech"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DBH0L3Y",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Reference",
+  "description": "Cat Genius will tell you so many interesting bits of information about your family friend.  Great way to pass the time, prepare for your next dinner party small talk, or stun your friends with the vastness of your feline intellect.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Cat Genius!",
+    "Alexa, ask Cat Genius to tell me a fact.",
+    "Alexa, ask Cat Genius for a fact."
+  ],
+  "firstReleaseDate": 1458713651.565,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.2b5a7dd7-fd8c-4623-a076-456b6d1c5b0b",
+  "imageAltText": "Cat Genius icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DBH0L3Y/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "cat genius",
+  "name": "Cat Genius",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Cat Genius knows so many things about your family friend!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2VZYA7JPB6XX5",
+  "vendorName": "BrownDog Tech"
+}

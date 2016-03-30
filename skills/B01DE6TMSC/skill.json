@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DE6TMSC","averageRating":0,"canDisable":true,"capabilities":null,"category":"Reference","description":"Korean Facts is useful to those who want to learn about Korea.  Whether you're studying or working abroad, interested in the culture, or preparing for upcoming travel, Korean Facts helps give you some facts that can help prepare you or amaze your friends with how knowledgeable you are!\n\nThanks to the Korean Wiki Project for the logo!  Visit them at koreanwikiproject.com","enablement":null,"exampleInteractions":["Alexa, ask Korean Facts for a fact","Alexa, ask Korean Facts how old am I in Korea","Alexa, start Korean Facts"],"firstReleaseDate":1458847782.988,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.24aa372a-77a2-40e4-8286-4d555b747a9b","imageAltText":"Korean Facts icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DE6TMSC/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"korean facts","name":"Korean Facts","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Korean Facts allows you to learn facts about Korea.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2HBS9R69WAWH3","vendorName":"Strum Studios"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DE6TMSC",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Reference",
+  "description": "Korean Facts is useful to those who want to learn about Korea.  Whether you're studying or working abroad, interested in the culture, or preparing for upcoming travel, Korean Facts helps give you some facts that can help prepare you or amaze your friends with how knowledgeable you are!\n\nThanks to the Korean Wiki Project for the logo!  Visit them at koreanwikiproject.com",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Korean Facts for a fact",
+    "Alexa, ask Korean Facts how old am I in Korea",
+    "Alexa, start Korean Facts"
+  ],
+  "firstReleaseDate": 1458847782.988,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.24aa372a-77a2-40e4-8286-4d555b747a9b",
+  "imageAltText": "Korean Facts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DE6TMSC/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "korean facts",
+  "name": "Korean Facts",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Korean Facts allows you to learn facts about Korea.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2HBS9R69WAWH3",
+  "vendorName": "Strum Studios"
+}

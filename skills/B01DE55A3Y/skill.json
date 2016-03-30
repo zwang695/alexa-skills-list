@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DE55A3Y","averageRating":0,"canDisable":true,"capabilities":null,"category":"Education","description":"Test your knowledge of the US National Parks. Answer questions about  the location, size, history, and wild life of the US National Parks.","enablement":null,"exampleInteractions":["Alexa, tell National Parks game to start new game","the answer is two","quit game"],"firstReleaseDate":1458844650.676,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.0d1811fe-2e57-4dc8-a500-144af30b19d6","imageAltText":"US National Parks Game icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DE55A3Y/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"national parks game","name":"US National Parks Game","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"US National Parks quiz game","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M1R4LFFVC8RCWS","vendorName":"Ron Lisle"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DE55A3Y",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "Test your knowledge of the US National Parks. Answer questions about  the location, size, history, and wild life of the US National Parks.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell National Parks game to start new game",
+    "the answer is two",
+    "quit game"
+  ],
+  "firstReleaseDate": 1458844650.676,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.0d1811fe-2e57-4dc8-a500-144af30b19d6",
+  "imageAltText": "US National Parks Game icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DE55A3Y/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "national parks game",
+  "name": "US National Parks Game",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "US National Parks quiz game",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1R4LFFVC8RCWS",
+  "vendorName": "Ron Lisle"
+}

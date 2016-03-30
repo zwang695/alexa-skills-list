@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01BKXW094","averageRating":0,"canDisable":true,"capabilities":null,"category":"Entertainment","description":"Block World Trivia is based on the popular game Minecraft. Players are asked 8 different multiple choice questions each session and are asked to choose the number for each question that they think is correct. If you answer correctly you get one point, if you answer incorrectly Alexa will share with you the correct answer before moving on to the next question. \n\nTopics covered include, crafting, villagers, edibles, enchanting, achievements and much more!!!","enablement":null,"exampleInteractions":["\"Alexa ask Block World Trivia.\"","\"Help.\"","\"Cancel\""],"firstReleaseDate":1454970465.07,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.85d1d7aa-4080-46d2-873d-eb7397406fb7","imageAltText":"Block World Trivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BKXW094/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"block world trivia","name":"Block World Trivia","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Ask Alexa to help you show off your crafting skills by answering over 30 different multiple choice questions.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MSZ2UTJPIZHHZ","vendorName":"Something From Nothing"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01BKXW094",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "Block World Trivia is based on the popular game Minecraft. Players are asked 8 different multiple choice questions each session and are asked to choose the number for each question that they think is correct. If you answer correctly you get one point, if you answer incorrectly Alexa will share with you the correct answer before moving on to the next question. \n\nTopics covered include, crafting, villagers, edibles, enchanting, achievements and much more!!!",
+  "enablement": null,
+  "exampleInteractions": [
+    "\"Alexa ask Block World Trivia.\"",
+    "\"Help.\"",
+    "\"Cancel\""
+  ],
+  "firstReleaseDate": 1454970465.07,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.85d1d7aa-4080-46d2-873d-eb7397406fb7",
+  "imageAltText": "Block World Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BKXW094/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "block world trivia",
+  "name": "Block World Trivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Ask Alexa to help you show off your crafting skills by answering over 30 different multiple choice questions.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MSZ2UTJPIZHHZ",
+  "vendorName": "Something From Nothing"
+}

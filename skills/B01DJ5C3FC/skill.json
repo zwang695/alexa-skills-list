@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DJ5C3FC","averageRating":0,"canDisable":true,"capabilities":null,"category":"Education","description":"Test your knowledge of cyber security, while learning best security practices to keep yourselves and your dear ones safe from phishing, cyber threats etc","enablement":null,"exampleInteractions":["Alexa, ask Security Quiz","Repeat","My answer is one"],"firstReleaseDate":1459163190.183,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.2e4d5e34-b1b3-4c0e-bb61-2a4367971107","imageAltText":"Security Quiz icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJ5C3FC/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"security quiz","name":"Security Quiz","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Take a Cyber Security Quiz","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M1TOY14L15E5QH","vendorName":"vamc"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DJ5C3FC",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "Test your knowledge of cyber security, while learning best security practices to keep yourselves and your dear ones safe from phishing, cyber threats etc",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Security Quiz",
+    "Repeat",
+    "My answer is one"
+  ],
+  "firstReleaseDate": 1459163190.183,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.2e4d5e34-b1b3-4c0e-bb61-2a4367971107",
+  "imageAltText": "Security Quiz icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJ5C3FC/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "security quiz",
+  "name": "Security Quiz",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Take a Cyber Security Quiz",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1TOY14L15E5QH",
+  "vendorName": "vamc"
+}

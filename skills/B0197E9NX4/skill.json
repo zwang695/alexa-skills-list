@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B0197E9NX4","averageRating":1.8,"canDisable":true,"capabilities":null,"category":"Education","description":"You can get Alexa to pronounce a word given its spelling. Works for all English words but even if the given spelling is not a known English word, Alexa would try it pronounce it anyways.\nIt helps to enunciate the letters clearly (for example, it is easy for Alexa to read an 'H' as an 'edge'). In case, Alexa is not able to understand what you said, she will write what she heard in the companion app.","enablement":null,"exampleInteractions":["Alexa, ask pronunciations how to pronounce B. I. T. S.","Alexa, open pronunciations","Alexa, ask pronunciations to pronounce P. I. L. A. N. I."],"firstReleaseDate":1449792391.1,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.22799827-aae1-4115-9b48-e2b74e33ee03","imageAltText":"Pronunciations icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B0197E9NX4/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"pronunciations","name":"Pronunciations","numberOfReviews":3,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Learn how to pronounce a word by giving Alexa its spelling.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2ZRIW68APM8IR","vendorName":"Mahesh"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B0197E9NX4",
+  "averageRating": 1.8,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "You can get Alexa to pronounce a word given its spelling. Works for all English words but even if the given spelling is not a known English word, Alexa would try it pronounce it anyways.\nIt helps to enunciate the letters clearly (for example, it is easy for Alexa to read an 'H' as an 'edge'). In case, Alexa is not able to understand what you said, she will write what she heard in the companion app.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask pronunciations how to pronounce B. I. T. S.",
+    "Alexa, open pronunciations",
+    "Alexa, ask pronunciations to pronounce P. I. L. A. N. I."
+  ],
+  "firstReleaseDate": 1449792391.1,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.22799827-aae1-4115-9b48-e2b74e33ee03",
+  "imageAltText": "Pronunciations icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B0197E9NX4/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "pronunciations",
+  "name": "Pronunciations",
+  "numberOfReviews": 3,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Learn how to pronounce a word by giving Alexa its spelling.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2ZRIW68APM8IR",
+  "vendorName": "Mahesh"
+}

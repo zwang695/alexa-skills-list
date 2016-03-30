@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DC0BB4I","averageRating":0,"canDisable":true,"capabilities":null,"category":"Travel","description":"You can use the MBTA helper to get arrival predictions for the subway. For e.g. you can ask your echo - \"Alexa, ask m b t a  helper when is the next park street train arriving at Brookline HIlls?\" Another example would be \"Alexa, ask m. b. t. a.  helper when is the next riverside train arriving at copley?\". Right now only two directions are supported, namely \"Park Street\" and \"Riverside\", which D line goers would recognize as the two ends of the D line. Your question will be a combination of the direction (Park street or Riverside) and the T stop where you like to get on. So for .e.g if you are going inbound from Brookline Hills, you would ask \"Alexa, ask m. b. t. a. helper when is the next park street train arriving at brookline hills?\"\nRight now only the D line is supported, but soon other lines will be added","enablement":null,"exampleInteractions":["Alexa, ask m. b. t. a. helper when is the next park street train arriving at brookline village","Alexa, ask m. b. t. a. helper when is the next riverside train arriving at brookline hills","Alexa, ask m. b. t. a. helper when is the next riverside train arriving at copley"],"firstReleaseDate":1458735054.382,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.25a6d781-e4b6-4829-9071-f81d912e8631","imageAltText":"MBTA Helper icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DC0BB4I/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"m. b. t. a. helper","name":"MBTA Helper","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Boston MBTA helper","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M1O134BJJXM4RD","vendorName":"Mahesh Guruswamy"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DC0BB4I",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Travel",
+  "description": "You can use the MBTA helper to get arrival predictions for the subway. For e.g. you can ask your echo - \"Alexa, ask m b t a  helper when is the next park street train arriving at Brookline HIlls?\" Another example would be \"Alexa, ask m. b. t. a.  helper when is the next riverside train arriving at copley?\". Right now only two directions are supported, namely \"Park Street\" and \"Riverside\", which D line goers would recognize as the two ends of the D line. Your question will be a combination of the direction (Park street or Riverside) and the T stop where you like to get on. So for .e.g if you are going inbound from Brookline Hills, you would ask \"Alexa, ask m. b. t. a. helper when is the next park street train arriving at brookline hills?\"\nRight now only the D line is supported, but soon other lines will be added",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask m. b. t. a. helper when is the next park street train arriving at brookline village",
+    "Alexa, ask m. b. t. a. helper when is the next riverside train arriving at brookline hills",
+    "Alexa, ask m. b. t. a. helper when is the next riverside train arriving at copley"
+  ],
+  "firstReleaseDate": 1458735054.382,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.25a6d781-e4b6-4829-9071-f81d912e8631",
+  "imageAltText": "MBTA Helper icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DC0BB4I/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "m. b. t. a. helper",
+  "name": "MBTA Helper",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Boston MBTA helper",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1O134BJJXM4RD",
+  "vendorName": "Mahesh Guruswamy"
+}

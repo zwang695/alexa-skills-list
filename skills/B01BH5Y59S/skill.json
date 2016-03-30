@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01BH5Y59S","averageRating":0,"canDisable":true,"capabilities":null,"category":"Entertainment","description":"To get information about current or upcoming movies playing at The Loft Cinema in Tucson Arizona you can say:\n\nAlexa, ask Loft Cinema what's playing today. \nor \nAlexa, ask Loft Cinema get movies for tomorrow\n\nEcho will list the movies and times for movies playing the requested day.  Showtimes that have passed for the current day will not be given.  Only movies with available showtimes on the requested day will be given\n\nThe skill accepts the days of the week Monday through Friday and the terms \"today\", \"tomorrow\", and \"now\"\n\nThe skill gives you a list of movies and showtimes.  The skill also sends a card to the Alexa app with the web address of The Loft Cinema along with the movies and showtimes for the requested day.  The Alexa app does not currently allow HTML links or images to be displayed. in the cards by the ordinary developer. \n\nIf you would like to hear the list again you can ask Alexa to \"repeat\"  or say another day.\n\nDuring the time that Alexa is reading back the movies and showtimes, the user can request information for another day.","enablement":null,"exampleInteractions":["Alexa, Ask Loft Cinema What is playing now","Alexa, Ask Loft Cinema  to get  movies on friday","Alexa, Ask Loft Cinema to give me movies for tomorrow"],"firstReleaseDate":1454615339.811,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.bdfed8d0-1018-4d3b-83f7-5b8bc208f9fb","imageAltText":"For The Loft Cinema icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BH5Y59S/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"loft cinema","name":"For The Loft Cinema","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"The Loft Cinema Skill allows users to inquire about movies playing at the Loft Cinema (in Tucson, Arizona) for today or the upcoming days.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2AQ0NX7HSLGD4","vendorName":"SMD Solutions"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01BH5Y59S",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "To get information about current or upcoming movies playing at The Loft Cinema in Tucson Arizona you can say:\n\nAlexa, ask Loft Cinema what's playing today. \nor \nAlexa, ask Loft Cinema get movies for tomorrow\n\nEcho will list the movies and times for movies playing the requested day.  Showtimes that have passed for the current day will not be given.  Only movies with available showtimes on the requested day will be given\n\nThe skill accepts the days of the week Monday through Friday and the terms \"today\", \"tomorrow\", and \"now\"\n\nThe skill gives you a list of movies and showtimes.  The skill also sends a card to the Alexa app with the web address of The Loft Cinema along with the movies and showtimes for the requested day.  The Alexa app does not currently allow HTML links or images to be displayed. in the cards by the ordinary developer. \n\nIf you would like to hear the list again you can ask Alexa to \"repeat\"  or say another day.\n\nDuring the time that Alexa is reading back the movies and showtimes, the user can request information for another day.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Ask Loft Cinema What is playing now",
+    "Alexa, Ask Loft Cinema  to get  movies on friday",
+    "Alexa, Ask Loft Cinema to give me movies for tomorrow"
+  ],
+  "firstReleaseDate": 1454615339.811,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.bdfed8d0-1018-4d3b-83f7-5b8bc208f9fb",
+  "imageAltText": "For The Loft Cinema icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BH5Y59S/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "loft cinema",
+  "name": "For The Loft Cinema",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "The Loft Cinema Skill allows users to inquire about movies playing at the Loft Cinema (in Tucson, Arizona) for today or the upcoming days.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2AQ0NX7HSLGD4",
+  "vendorName": "SMD Solutions"
+}

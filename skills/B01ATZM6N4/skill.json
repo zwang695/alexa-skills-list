@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":[],"asin":"B01ATZM6N4","averageRating":4,"canDisable":true,"capabilities":null,"category":"Music","description":"House Band allows you to control JRiver Media Center music collection with your voice!  Play music, search your collection, create Play Doctor playlists, and more. \n\nTo use House Band, you'll need a copy of JRiver Media Center running on your home network (that same network that Alexa is connected to.)\nYou must have JRiver set up as a media server, and have it be accessible from outside your home network (Note: this might require you to enable port forwarding.)\n\nPLAY MUSIC  (Music commands work best when you start with the word \"play\")\n\"Play the album [album name]\"\n\"Play the song [song name]\"\n\"Play the song [song name] by [artist name]\"\n\"Play the album [album name] by [artist name]\"\n\"Play songs by [artist name]\"\n\"Play [anything]\" - queue up everything with that string.\n\n\nMany of the above commands will produce a list of matching results. For example, after asking\n\"Play the album Kind of Blue.\"\n\nAlexa might say:\n\"I found two matching items. Heres what you have. Miles Davis, Kind of Blue. Miles Davis, Kind of Blue (SACD). What should I play?\"\n\nYou can the select from the list:\n\"Play the SACD\"\nor,\n\"Play all\"\n\n\nPLAYLISTS:\n\"Play my/the [playlist name] playlist\"\n\"Play the/my playlist [playlist name]\"\n\"Add the [song name/album name/search string] to the playlist\n\"Create a [artist name or genre] playlist\" - creates a PlayDoctor playlist\n\n\nCONTROLS:\n\"Pause\" / \"Stop the music\"\n\"Resume\" - continues playback.\n\"Next song/next track/skip this/next/thumbs down”\n\"Previous\"/ \"Go back\"\n\"Change the / set the volume to [1-10]\"\n\"Volume up / down / louder / quieter”\n\n\nQUERIES:\n\"Whats playing?\"\n\"What do I have by [artist name]?\"\n\n\nZONES:\n\"What are my zones?\" / What zones do I have?\" - will give you a list of zones\n\"Change the zone to [zone name]\" - changes the current zone. (Note: it doesn't transfer the currently playing music to new zone.)","enablement":null,"exampleInteractions":["\"Alexa, launch house band.\"","\"Alexa, ask house band to play the album Blood on the Tracks by Bob Dylan.\"","\"Alexa, ask house band what's playing?\""],"firstReleaseDate":1453246054.923,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.746d3120-de6b-47ca-a132-746f5b57e609","imageAltText":"House Band icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01ATZM6N4/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"house band","name":"House Band","numberOfReviews":3,"pamsPartnerId":"DV29gZ7L4MKExRFWzF5wCGsqB","permissions":null,"privacyPolicyUrl":"http://sarkonovich-2.elasticbeanstalk.com/privacy","shortDescription":"House Band allows you to access your JRiver Media Center music server. You can play your music, search your library, and create Play Doctor playlists!","skillTypes":null,"stage":"live","termsOfUseUrl":"http://sarkonovich-2.elasticbeanstalk.com/terms-of-service","vendorId":"M40WAPAMJX5CO","vendorName":"Philosophical Creations"}
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01ATZM6N4",
+  "averageRating": 4,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Music",
+  "description": "House Band allows you to control JRiver Media Center music collection with your voice!  Play music, search your collection, create Play Doctor playlists, and more. \n\nTo use House Band, you'll need a copy of JRiver Media Center running on your home network (that same network that Alexa is connected to.)\nYou must have JRiver set up as a media server, and have it be accessible from outside your home network (Note: this might require you to enable port forwarding.)\n\nPLAY MUSIC  (Music commands work best when you start with the word \"play\")\n\"Play the album [album name]\"\n\"Play the song [song name]\"\n\"Play the song [song name] by [artist name]\"\n\"Play the album [album name] by [artist name]\"\n\"Play songs by [artist name]\"\n\"Play [anything]\" - queue up everything with that string.\n\n\nMany of the above commands will produce a list of matching results. For example, after asking\n\"Play the album Kind of Blue.\"\n\nAlexa might say:\n\"I found two matching items. Heres what you have. Miles Davis, Kind of Blue. Miles Davis, Kind of Blue (SACD). What should I play?\"\n\nYou can the select from the list:\n\"Play the SACD\"\nor,\n\"Play all\"\n\n\nPLAYLISTS:\n\"Play my/the [playlist name] playlist\"\n\"Play the/my playlist [playlist name]\"\n\"Add the [song name/album name/search string] to the playlist\n\"Create a [artist name or genre] playlist\" - creates a PlayDoctor playlist\n\n\nCONTROLS:\n\"Pause\" / \"Stop the music\"\n\"Resume\" - continues playback.\n\"Next song/next track/skip this/next/thumbs down”\n\"Previous\"/ \"Go back\"\n\"Change the / set the volume to [1-10]\"\n\"Volume up / down / louder / quieter”\n\n\nQUERIES:\n\"Whats playing?\"\n\"What do I have by [artist name]?\"\n\n\nZONES:\n\"What are my zones?\" / What zones do I have?\" - will give you a list of zones\n\"Change the zone to [zone name]\" - changes the current zone. (Note: it doesn't transfer the currently playing music to new zone.)",
+  "enablement": null,
+  "exampleInteractions": [
+    "\"Alexa, launch house band.\"",
+    "\"Alexa, ask house band to play the album Blood on the Tracks by Bob Dylan.\"",
+    "\"Alexa, ask house band what's playing?\""
+  ],
+  "firstReleaseDate": 1453246054.923,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.746d3120-de6b-47ca-a132-746f5b57e609",
+  "imageAltText": "House Band icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01ATZM6N4/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "house band",
+  "name": "House Band",
+  "numberOfReviews": 3,
+  "pamsPartnerId": "DV29gZ7L4MKExRFWzF5wCGsqB",
+  "permissions": null,
+  "privacyPolicyUrl": "http://sarkonovich-2.elasticbeanstalk.com/privacy",
+  "shortDescription": "House Band allows you to access your JRiver Media Center music server. You can play your music, search your library, and create Play Doctor playlists!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://sarkonovich-2.elasticbeanstalk.com/terms-of-service",
+  "vendorId": "M40WAPAMJX5CO",
+  "vendorName": "Philosophical Creations"
+}

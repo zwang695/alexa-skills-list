@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DDAQCLE","averageRating":0,"canDisable":true,"capabilities":null,"category":"Games","description":"This quiz will give seven quotes from candidates for the 2016 presidential election, including some from those who have already dropped out. Some are about policy while others are a bit random, but the ultimate goal of this game is to have some fun in a troubled political climate.","enablement":null,"exampleInteractions":["Alexa, open Candidate Quiz","Repeat","Help"],"firstReleaseDate":1458802223.734,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.28f96e5b-271e-4334-9c88-510e25a2500e","imageAltText":"Candidate Quote Quiz icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DDAQCLE/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"candidate quiz","name":"Candidate Quote Quiz","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"A quote-identifying trivia game starring the current and past candidates for the US Presidential Election 2016.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MVXAARJU17YI4","vendorName":"Paul Zander"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DDAQCLE",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "This quiz will give seven quotes from candidates for the 2016 presidential election, including some from those who have already dropped out. Some are about policy while others are a bit random, but the ultimate goal of this game is to have some fun in a troubled political climate.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Candidate Quiz",
+    "Repeat",
+    "Help"
+  ],
+  "firstReleaseDate": 1458802223.734,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.28f96e5b-271e-4334-9c88-510e25a2500e",
+  "imageAltText": "Candidate Quote Quiz icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DDAQCLE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "candidate quiz",
+  "name": "Candidate Quote Quiz",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "A quote-identifying trivia game starring the current and past candidates for the US Presidential Election 2016.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MVXAARJU17YI4",
+  "vendorName": "Paul Zander"
+}

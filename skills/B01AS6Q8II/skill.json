@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01AS6Q8II","averageRating":1.7,"canDisable":true,"capabilities":null,"category":"Travel","description":"Skyscanner offers global flight search.  This service is a way to get an early idea of estimated prices between two airports, before you begin a formal booking process.  \n\nStarting with the destination, you are then asked further questions until Alexa has enough information to supply the cheapest available fare for that trip.\n\nAll prices come with the lowest recent price found for the route and dates, the carriers which serve the route and a card in the Alexa app as a reminder of these.","enablement":null,"exampleInteractions":["Alexa, ask Skyscanner for a flight","Alexa, ask Skyscanner for a flight to Seattle","Alexa, ask Skyscanner for a flight to Seattle tomorrow"],"firstReleaseDate":1453145714.12,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.3275d681-0844-4a3e-9758-64935140e1da","imageAltText":"Skyscanner Flight Search icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01AS6Q8II/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"sky scanner","name":"Skyscanner Flight Search","numberOfReviews":4,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":"http://www.skyscanner.net/privacypolicy.aspx","shortDescription":"Search for flight prices anywhere in the world, by conversing with Alexa.","skillTypes":null,"stage":"live","termsOfUseUrl":"http://www.skyscanner.net/termsofservice.aspx","vendorId":"M11MSHD1URKTJL","vendorName":"Skyscanner.net"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01AS6Q8II",
+  "averageRating": 1.7,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Travel",
+  "description": "Skyscanner offers global flight search.  This service is a way to get an early idea of estimated prices between two airports, before you begin a formal booking process.  \n\nStarting with the destination, you are then asked further questions until Alexa has enough information to supply the cheapest available fare for that trip.\n\nAll prices come with the lowest recent price found for the route and dates, the carriers which serve the route and a card in the Alexa app as a reminder of these.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Skyscanner for a flight",
+    "Alexa, ask Skyscanner for a flight to Seattle",
+    "Alexa, ask Skyscanner for a flight to Seattle tomorrow"
+  ],
+  "firstReleaseDate": 1453145714.12,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.3275d681-0844-4a3e-9758-64935140e1da",
+  "imageAltText": "Skyscanner Flight Search icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01AS6Q8II/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "sky scanner",
+  "name": "Skyscanner Flight Search",
+  "numberOfReviews": 4,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.skyscanner.net/privacypolicy.aspx",
+  "shortDescription": "Search for flight prices anywhere in the world, by conversing with Alexa.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://www.skyscanner.net/termsofservice.aspx",
+  "vendorId": "M11MSHD1URKTJL",
+  "vendorName": "Skyscanner.net"
+}

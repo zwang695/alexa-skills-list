@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DJD0EYQ","averageRating":0,"canDisable":true,"capabilities":null,"category":"Travel","description":"Save your commute by learning about Metro delays before you leave the house.  Know when single tracking could disrupt your plans.  Metro Alerts can provide you with heads up you need before you find yourself waiting on a crowded platform.","enablement":null,"exampleInteractions":["Alexa, open Metro Alerts","Alexa, ask Metro Alerts are there any delays","Alexa, ask Metro Alerts for alerts for the Red Line"],"firstReleaseDate":1459298026.169,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.14b27f1c-ca7b-4932-8f62-064c34261a6f","imageAltText":"Metro Alerts icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJD0EYQ/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"metro alerts","name":"Metro Alerts","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Want to know if there are delays on the Red Line?  Could weekend construction derail your plans?  Ask Metro Alerts and find out!","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3KVGQGWQR9E65","vendorName":"Home"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DJD0EYQ",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Travel",
+  "description": "Save your commute by learning about Metro delays before you leave the house.  Know when single tracking could disrupt your plans.  Metro Alerts can provide you with heads up you need before you find yourself waiting on a crowded platform.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Metro Alerts",
+    "Alexa, ask Metro Alerts are there any delays",
+    "Alexa, ask Metro Alerts for alerts for the Red Line"
+  ],
+  "firstReleaseDate": 1459298026.169,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.14b27f1c-ca7b-4932-8f62-064c34261a6f",
+  "imageAltText": "Metro Alerts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJD0EYQ/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "metro alerts",
+  "name": "Metro Alerts",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Want to know if there are delays on the Red Line?  Could weekend construction derail your plans?  Ask Metro Alerts and find out!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3KVGQGWQR9E65",
+  "vendorName": "Home"
+}

@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DBHDBQS","averageRating":0,"canDisable":true,"capabilities":null,"category":"Entertainment","description":"Celebs often switch out their monikers and choose to go by stage names before hitting stardom. Did you know Marilyn Monroe was born Norma Jeane Mortenson? Launch Stage Names to learn more celebrity trivia. This Alexa skill is the ultimate app to become an expert at stage names and impress your friends at dinner parties!\nHave fun with this simple Alexa skill and suggest new facts in the reviews.","enablement":null,"exampleInteractions":["Alexa, open Stage Names","Alexa, launch Stage Names and give me a fact","Alexa, start Stage Names and tell me a stage name trivia"],"firstReleaseDate":1458714056.043,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.008bc190-0917-4f70-89cd-b1281afb233c","imageAltText":"Stage Names icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DBHDBQS/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"stage names","name":"Stage Names","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"What's in a name? Discover fun facts about celebrities, actors and singers you didn't know were using a stage name. Become an expert at stage names with Alexa!","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M20IWWF6ZYE1FJ","vendorName":"Macaron Apps"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DBHDBQS",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "Celebs often switch out their monikers and choose to go by stage names before hitting stardom. Did you know Marilyn Monroe was born Norma Jeane Mortenson? Launch Stage Names to learn more celebrity trivia. This Alexa skill is the ultimate app to become an expert at stage names and impress your friends at dinner parties!\nHave fun with this simple Alexa skill and suggest new facts in the reviews.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Stage Names",
+    "Alexa, launch Stage Names and give me a fact",
+    "Alexa, start Stage Names and tell me a stage name trivia"
+  ],
+  "firstReleaseDate": 1458714056.043,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.008bc190-0917-4f70-89cd-b1281afb233c",
+  "imageAltText": "Stage Names icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DBHDBQS/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "stage names",
+  "name": "Stage Names",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "What's in a name? Discover fun facts about celebrities, actors and singers you didn't know were using a stage name. Become an expert at stage names with Alexa!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M20IWWF6ZYE1FJ",
+  "vendorName": "Macaron Apps"
+}

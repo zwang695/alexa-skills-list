@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DD95W98","averageRating":0,"canDisable":true,"capabilities":null,"category":"Education","description":"Natural language processing fun - as for now, computes \"distance\" between words in terms of character insertions and deletions required to change one into the other.\nNo prerequisites to set up, just ask about the distance from one word to another.","enablement":null,"exampleInteractions":["Alexa, ask Language Fun about the edit distance between words dog and frog.","What is the distance between spoon and fork?","Are tower and flower alike?"],"firstReleaseDate":1458799656.453,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.85dede7b-62f5-4f60-bb39-58ad5715ce3c","imageAltText":"Language Fun icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DD95W98/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"language fun","name":"Language Fun","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Natural language processing fun - computes \"distance\" between words in terms of character insertions and deletions required to change one into the other","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MGX395BR6PSJE","vendorName":"ziembla"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DD95W98",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "Natural language processing fun - as for now, computes \"distance\" between words in terms of character insertions and deletions required to change one into the other.\nNo prerequisites to set up, just ask about the distance from one word to another.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Language Fun about the edit distance between words dog and frog.",
+    "What is the distance between spoon and fork?",
+    "Are tower and flower alike?"
+  ],
+  "firstReleaseDate": 1458799656.453,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.85dede7b-62f5-4f60-bb39-58ad5715ce3c",
+  "imageAltText": "Language Fun icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DD95W98/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "language fun",
+  "name": "Language Fun",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Natural language processing fun - computes \"distance\" between words in terms of character insertions and deletions required to change one into the other",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MGX395BR6PSJE",
+  "vendorName": "ziembla"
+}

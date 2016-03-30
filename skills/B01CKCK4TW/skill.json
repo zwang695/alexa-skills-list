@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01CKCK4TW","averageRating":1,"canDisable":true,"capabilities":null,"category":"Education","description":"This skill is useful for people taking the US Naturalization Exam administered by the USCIS or those who simply want to test their civics knowledge.  \n\nThink you can answer...\n\n\"The House of Representatives has how many voting members?\"\n\"What is one promise you make when you become a United States citizen?\"","enablement":null,"exampleInteractions":["Alexa, launch Immigration Quiz","Repeat","Help"],"firstReleaseDate":1457115657.718,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.df565000-c460-42df-87ec-046540860b41","imageAltText":"United States Naturalization Practice Quiz icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01CKCK4TW/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"immigration quiz","name":"United States Naturalization Practice Quiz","numberOfReviews":1,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"This is a quiz game that tests users on their knowledge of general U.S. civics questions.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M17MCFNFJZEOO2","vendorName":"LearnedH"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01CKCK4TW",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "This skill is useful for people taking the US Naturalization Exam administered by the USCIS or those who simply want to test their civics knowledge.  \n\nThink you can answer...\n\n\"The House of Representatives has how many voting members?\"\n\"What is one promise you make when you become a United States citizen?\"",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, launch Immigration Quiz",
+    "Repeat",
+    "Help"
+  ],
+  "firstReleaseDate": 1457115657.718,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.df565000-c460-42df-87ec-046540860b41",
+  "imageAltText": "United States Naturalization Practice Quiz icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01CKCK4TW/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "immigration quiz",
+  "name": "United States Naturalization Practice Quiz",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "This is a quiz game that tests users on their knowledge of general U.S. civics questions.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M17MCFNFJZEOO2",
+  "vendorName": "LearnedH"
+}

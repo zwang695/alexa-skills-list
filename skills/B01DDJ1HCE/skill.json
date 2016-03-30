@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DDJ1HCE","averageRating":0,"canDisable":true,"capabilities":null,"category":"Education","description":"Whether reinforcing one's knowledge or to learn more about US history, use this app to further educate yourself on American history.","enablement":null,"exampleInteractions":["Alexa, open U. S. history","Alexa, launch U. S. history","Alexa, tell U. S. history to give me a fact"],"firstReleaseDate":1458813273.681,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.4531e2d0-d49b-48e0-8748-05f817475945","imageAltText":"U.S. History Factoids icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DDJ1HCE/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"u. s. history","name":"U.S. History Factoids","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Fun and education facts about US History","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2PGY1NVHD8RVD","vendorName":"James Co"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DDJ1HCE",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "Whether reinforcing one's knowledge or to learn more about US history, use this app to further educate yourself on American history.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open U. S. history",
+    "Alexa, launch U. S. history",
+    "Alexa, tell U. S. history to give me a fact"
+  ],
+  "firstReleaseDate": 1458813273.681,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.4531e2d0-d49b-48e0-8748-05f817475945",
+  "imageAltText": "U.S. History Factoids icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DDJ1HCE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "u. s. history",
+  "name": "U.S. History Factoids",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Fun and education facts about US History",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2PGY1NVHD8RVD",
+  "vendorName": "James Co"
+}

@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DDKHCZE","averageRating":0,"canDisable":true,"capabilities":null,"category":"Health-and-Fitness","description":"Period Tracker will help you keep track of your menstrual cycle's phases for a better family planning.\nIt is loosely based on the Standard Days Method by Georgetown University, and may only be used by women whose cycles are usually between 26 and 32 days in length.\n\nYou should start by indicating the date of your last period (Day 1 of your menstrual cycle), and remember to continue to do so each period, for the calculations to work.\nThe skill will average your cycles duration and estimate phases accordingly.\n\nExample uses:\n\n- Alexa, launch Period Tracker\n   -  I got my period today\n   - when is my fertile window?\n\n- Alexa, ask Period Tracker when do i get my period?\n\nMaybe you forget to keep your data up-to-date, so it's likely the averages and calculations are not perfect, so you can clean up everything and start over:\n\n- Alexa, open Period Tracker\n   - reset database\n   - i got my period on March 17th","enablement":null,"exampleInteractions":["Alexa, open Period Tracker","Alexa, tell Period Tracker I got my period { today | last friday | on March 17th }","Alexa, ask Period Tracker when does my fertile window start"],"firstReleaseDate":1458815227.328,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.91c7c481-f58f-4d3a-b565-a58aa14b4306","imageAltText":"Period Tracker icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DDKHCZE/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"period tracker","name":"Period Tracker","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Helps women keep track of their mentrual cycle for a better family planning.\nBased on the Standard Days Method by Georgetown University.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3FZEFPQMCHXGR","vendorName":"Mariano Mendez"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DDKHCZE",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Health-and-Fitness",
+  "description": "Period Tracker will help you keep track of your menstrual cycle's phases for a better family planning.\nIt is loosely based on the Standard Days Method by Georgetown University, and may only be used by women whose cycles are usually between 26 and 32 days in length.\n\nYou should start by indicating the date of your last period (Day 1 of your menstrual cycle), and remember to continue to do so each period, for the calculations to work.\nThe skill will average your cycles duration and estimate phases accordingly.\n\nExample uses:\n\n- Alexa, launch Period Tracker\n   -  I got my period today\n   - when is my fertile window?\n\n- Alexa, ask Period Tracker when do i get my period?\n\nMaybe you forget to keep your data up-to-date, so it's likely the averages and calculations are not perfect, so you can clean up everything and start over:\n\n- Alexa, open Period Tracker\n   - reset database\n   - i got my period on March 17th",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Period Tracker",
+    "Alexa, tell Period Tracker I got my period { today | last friday | on March 17th }",
+    "Alexa, ask Period Tracker when does my fertile window start"
+  ],
+  "firstReleaseDate": 1458815227.328,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.91c7c481-f58f-4d3a-b565-a58aa14b4306",
+  "imageAltText": "Period Tracker icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DDKHCZE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "period tracker",
+  "name": "Period Tracker",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Helps women keep track of their mentrual cycle for a better family planning.\nBased on the Standard Days Method by Georgetown University.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3FZEFPQMCHXGR",
+  "vendorName": "Mariano Mendez"
+}

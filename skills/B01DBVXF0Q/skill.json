@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DBVXF0Q","averageRating":0,"canDisable":true,"capabilities":null,"category":"Entertainment","description":"Doctor Bones is a medical based trivia game that will challenge you with 5 questions.  The focus of the questions are towards EMS personnel, however many are not above the layperson, nor necessarily below those in more advanced medical professions.\n\nThis skill is for fun and informal education purposes only, always verify what you learn before to trust it to be true.  In the event of a real medical emergency always seek qualified and definitive medical care, and/or call 911.  The author expressly disclaims responsibility, and shall have no liability, for any damages, loss, injury, or liability whatsoever suffered as a result of your reliance on the information you may learn by using this app.","enablement":null,"exampleInteractions":["Alexa, open Doctor Bones","Help","Repeat"],"firstReleaseDate":1458730091.745,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.2939ff81-102b-4be7-8c98-73681856663b","imageAltText":"DoctorBones icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DBVXF0Q/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"doctor bones","name":"DoctorBones","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Doctor Bones is a medical based trivia game that will challenge you with 5 questions.  It's primary focus is towards EMS personnel.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3JUEB6VX6HB6J","vendorName":"kcrowe"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DBVXF0Q",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "Doctor Bones is a medical based trivia game that will challenge you with 5 questions.  The focus of the questions are towards EMS personnel, however many are not above the layperson, nor necessarily below those in more advanced medical professions.\n\nThis skill is for fun and informal education purposes only, always verify what you learn before to trust it to be true.  In the event of a real medical emergency always seek qualified and definitive medical care, and/or call 911.  The author expressly disclaims responsibility, and shall have no liability, for any damages, loss, injury, or liability whatsoever suffered as a result of your reliance on the information you may learn by using this app.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Doctor Bones",
+    "Help",
+    "Repeat"
+  ],
+  "firstReleaseDate": 1458730091.745,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.2939ff81-102b-4be7-8c98-73681856663b",
+  "imageAltText": "DoctorBones icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DBVXF0Q/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "doctor bones",
+  "name": "DoctorBones",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Doctor Bones is a medical based trivia game that will challenge you with 5 questions.  It's primary focus is towards EMS personnel.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3JUEB6VX6HB6J",
+  "vendorName": "kcrowe"
+}

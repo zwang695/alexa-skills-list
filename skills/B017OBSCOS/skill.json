@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B017OBSCOS","averageRating":3.8,"canDisable":true,"capabilities":null,"category":"Games","description":"Word Master is an interactive way to learn and challenge yourself with words. Alexa starts by saying a word. You then have to respond back with a word that begins with the letter in which Alexa’s word ended. Alexa then does the same in response to your word. As you say words, you earn scores with each word. The longer your word, the higher your score. Compete with Alexa and folks at home to make a higher score. Playing with words was never so much fun!\n\nThe game continues until someone fails to respond to the next word or you say Exit.","enablement":null,"exampleInteractions":["Alexa, ask Word Master to play a game","Alexa, ask Word Master to start with \"Apple\"","Alexa, open Word Master"],"firstReleaseDate":1446840969.81,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.d6b53286-5fec-4e66-84c4-07ff80e7c58b","imageAltText":"Amazing Word Master Game icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OBSCOS/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"word master","name":"Amazing Word Master Game","numberOfReviews":102,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Word Master is an interactive way to learn and challenge yourself with words, while having fun with competing scores. Score higher to win!","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3MPWLON96INOW","vendorName":"SAKET AGARWAL"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B017OBSCOS",
+  "averageRating": 3.8,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "Word Master is an interactive way to learn and challenge yourself with words. Alexa starts by saying a word. You then have to respond back with a word that begins with the letter in which Alexa’s word ended. Alexa then does the same in response to your word. As you say words, you earn scores with each word. The longer your word, the higher your score. Compete with Alexa and folks at home to make a higher score. Playing with words was never so much fun!\n\nThe game continues until someone fails to respond to the next word or you say Exit.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Word Master to play a game",
+    "Alexa, ask Word Master to start with \"Apple\"",
+    "Alexa, open Word Master"
+  ],
+  "firstReleaseDate": 1446840969.81,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.d6b53286-5fec-4e66-84c4-07ff80e7c58b",
+  "imageAltText": "Amazing Word Master Game icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OBSCOS/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "word master",
+  "name": "Amazing Word Master Game",
+  "numberOfReviews": 102,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Word Master is an interactive way to learn and challenge yourself with words, while having fun with competing scores. Score higher to win!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3MPWLON96INOW",
+  "vendorName": "SAKET AGARWAL"
+}

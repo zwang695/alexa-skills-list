@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01BCKSFR6","averageRating":4.3,"canDisable":true,"capabilities":null,"category":"Travel","description":"Toronto Transit provides live predictions for the arrival time of Toronto buses and streetcars so you never have to wait outside too long (especially during the winter). Under the covers we use GPS locations to receive real-time route data as to when the next buses/streetcar will arrive at any specific bus stop.\n\nJust tell Alexa a streetcar/bus number and stop number to receive live arrival times.  You can save your nearest stop number and your usual bus or streetcar as defaults so next time you can simply ask “Alexa, ask Toronto Transit when should I leave ?”\n\nTo reset your saved settings say: \"Alexa, ask Toronto Transit to clear my settings\"\n\nYou can find stop numbers here:\nhttps://www.ttc.ca/Routes/index.jsp","enablement":null,"exampleInteractions":["Alexa, ask Toronto Transit when is the next streetcar 504","Alexa, ask Toronto Transit to save my bus as number 63","Alexa, ask Toronto Transit when should I leave"],"firstReleaseDate":1454349724.188,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.95b1c9dc-6638-4144-9ffe-41a70bdce249","imageAltText":"Toronto Transit icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BCKSFR6/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"toronto transit","name":"Toronto Transit","numberOfReviews":3,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":"http://crhuber.github.io/ttc/","shortDescription":"Toronto Transit provides live predictions for the arrival time of Toronto buses and streetcars","skillTypes":null,"stage":"live","termsOfUseUrl":"http://crhuber.github.io/ttc/","vendorId":"MGYYV9PBJGUJD","vendorName":"Handlebar Creative"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01BCKSFR6",
+  "averageRating": 4.3,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Travel",
+  "description": "Toronto Transit provides live predictions for the arrival time of Toronto buses and streetcars so you never have to wait outside too long (especially during the winter). Under the covers we use GPS locations to receive real-time route data as to when the next buses/streetcar will arrive at any specific bus stop.\n\nJust tell Alexa a streetcar/bus number and stop number to receive live arrival times.  You can save your nearest stop number and your usual bus or streetcar as defaults so next time you can simply ask “Alexa, ask Toronto Transit when should I leave ?”\n\nTo reset your saved settings say: \"Alexa, ask Toronto Transit to clear my settings\"\n\nYou can find stop numbers here:\nhttps://www.ttc.ca/Routes/index.jsp",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Toronto Transit when is the next streetcar 504",
+    "Alexa, ask Toronto Transit to save my bus as number 63",
+    "Alexa, ask Toronto Transit when should I leave"
+  ],
+  "firstReleaseDate": 1454349724.188,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.95b1c9dc-6638-4144-9ffe-41a70bdce249",
+  "imageAltText": "Toronto Transit icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BCKSFR6/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "toronto transit",
+  "name": "Toronto Transit",
+  "numberOfReviews": 3,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "http://crhuber.github.io/ttc/",
+  "shortDescription": "Toronto Transit provides live predictions for the arrival time of Toronto buses and streetcars",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://crhuber.github.io/ttc/",
+  "vendorId": "MGYYV9PBJGUJD",
+  "vendorName": "Handlebar Creative"
+}

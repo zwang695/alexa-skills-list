@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DANIWI0","averageRating":0,"canDisable":true,"capabilities":null,"category":"Home-Automation","description":"This release of the skill is for iOS Beta testing only.  If you have a Blumoo HomeBase or purchase one and would like to Beta test then please email support@blumoo.com and request access.  \n\nControl your Blumoo HomeBase using nothing more than your voice!  Requires Blumoo HomeBase and the Blumoo iOS app (Android coming later).  Turn on voice control in the settings on your Blumoo app; we will then walk you through setup and how to use the skill.\n\nQ: How do you say Blumoo (blue-moo)?\nA: blue (color), moo (cow).\n\nThe Blumoo skill lets you:\n\nPress Buttons (Universal Remote) - Setup your voice remote in the Blumoo app.  You can then press any button by saying \"Alexa, tell Blue moo to press ________ (ex. Watch TV)\".  Use it for your macros, volume control and any other buttons.  \n\nChange Channels (TV guide) - Change to any channel in the TV guide by saying \"Alexa, tell Blue moo to go to channel ________ (ex. six hundred fifty)\".  \n\nHear Show Descriptions (TV guide) - Have Alexa read the show description for any channel by saying \"Alexa, ask Blue moo what's on channel ________ (ex. thirty three)\".\n\nBlumoo voice gives you a truly hands free viewing experience.  Take back control of your entertainment today!\n\nYou can ask Alexa for help by saying \"Alexa, tell Blue moo to help\"\n\nThere are videos on our website for more information and examples.   http://support.blumoo.com/support/home","enablement":null,"exampleInteractions":["Alexa, tell Blue moo to press Watch TV","Alexa, tell Blue moo to go to channel six hundred fifty","Alexa, ask Blue moo what's on channel thirty three"],"firstReleaseDate":1458671883.217,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.025a7013-264d-49af-a249-1239c904fcac","imageAltText":"Blumoo icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DANIWI0/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"blue moo","name":"Blumoo","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":"http://www.blumoo.com/statement-of-privacy/","shortDescription":"Make your voice a simple and powerful universal remote control.  Change channels, hear show descriptions and press any remote button.  **iOS Beta Testing Only**","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M231O95IWJAJWP","vendorName":"Flyover Innovations"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DANIWI0",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Home-Automation",
+  "description": "This release of the skill is for iOS Beta testing only.  If you have a Blumoo HomeBase or purchase one and would like to Beta test then please email support@blumoo.com and request access.  \n\nControl your Blumoo HomeBase using nothing more than your voice!  Requires Blumoo HomeBase and the Blumoo iOS app (Android coming later).  Turn on voice control in the settings on your Blumoo app; we will then walk you through setup and how to use the skill.\n\nQ: How do you say Blumoo (blue-moo)?\nA: blue (color), moo (cow).\n\nThe Blumoo skill lets you:\n\nPress Buttons (Universal Remote) - Setup your voice remote in the Blumoo app.  You can then press any button by saying \"Alexa, tell Blue moo to press ________ (ex. Watch TV)\".  Use it for your macros, volume control and any other buttons.  \n\nChange Channels (TV guide) - Change to any channel in the TV guide by saying \"Alexa, tell Blue moo to go to channel ________ (ex. six hundred fifty)\".  \n\nHear Show Descriptions (TV guide) - Have Alexa read the show description for any channel by saying \"Alexa, ask Blue moo what's on channel ________ (ex. thirty three)\".\n\nBlumoo voice gives you a truly hands free viewing experience.  Take back control of your entertainment today!\n\nYou can ask Alexa for help by saying \"Alexa, tell Blue moo to help\"\n\nThere are videos on our website for more information and examples.   http://support.blumoo.com/support/home",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell Blue moo to press Watch TV",
+    "Alexa, tell Blue moo to go to channel six hundred fifty",
+    "Alexa, ask Blue moo what's on channel thirty three"
+  ],
+  "firstReleaseDate": 1458671883.217,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.025a7013-264d-49af-a249-1239c904fcac",
+  "imageAltText": "Blumoo icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DANIWI0/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "blue moo",
+  "name": "Blumoo",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.blumoo.com/statement-of-privacy/",
+  "shortDescription": "Make your voice a simple and powerful universal remote control.  Change channels, hear show descriptions and press any remote button.  **iOS Beta Testing Only**",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M231O95IWJAJWP",
+  "vendorName": "Flyover Innovations"
+}

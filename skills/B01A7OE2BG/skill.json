@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01A7OE2BG","averageRating":3.5,"canDisable":true,"capabilities":null,"category":"Education","description":"Aurora skill will provide detailed information about the auroral activity over North America and the location where it will be visible. You can ask the forecast for today or any day in the future.","enablement":null,"exampleInteractions":["Alexa, ask Aurora","Alexa, ask Aurora what's the forecast for today","Alexa, ask Aurora what's the forecast for December 31st"],"firstReleaseDate":1452029542.613,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.15177d50-1347-443a-88fc-359246d6e59a","imageAltText":"Northern Lights Forecast icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01A7OE2BG/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"aurora","name":"Northern Lights Forecast","numberOfReviews":2,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Aurora skill will provide detailed information about the auroral activity over North America and the location where it will be visible.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2BV44LVNWQ0BT","vendorName":"BEL Coding"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01A7OE2BG",
+  "averageRating": 3.5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "Aurora skill will provide detailed information about the auroral activity over North America and the location where it will be visible. You can ask the forecast for today or any day in the future.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Aurora",
+    "Alexa, ask Aurora what's the forecast for today",
+    "Alexa, ask Aurora what's the forecast for December 31st"
+  ],
+  "firstReleaseDate": 1452029542.613,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.15177d50-1347-443a-88fc-359246d6e59a",
+  "imageAltText": "Northern Lights Forecast icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01A7OE2BG/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "aurora",
+  "name": "Northern Lights Forecast",
+  "numberOfReviews": 2,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Aurora skill will provide detailed information about the auroral activity over North America and the location where it will be visible.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2BV44LVNWQ0BT",
+  "vendorName": "BEL Coding"
+}

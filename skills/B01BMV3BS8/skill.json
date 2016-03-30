@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01BMV3BS8","averageRating":4,"canDisable":true,"capabilities":null,"category":"Reference","description":"Find exactly the right words for your poems, song lyrics, and other writing endeavors!   This skill consults RhymeZone to help you find rhymes, synonyms, adjectives, and related words for any English word.  Just say, \"What are X for Y?\", where X can be \"rhymes\", \"synonyms\", \"related words\", or \"adjectives\", and Y is any English word.  You can also say, \"What are X for Y that start with L\", where L is any letter, or \"What's an N-letter word for Y\", where N is any number.","enablement":null,"exampleInteractions":["Alexa, ask RhymeZone what rhymes with banana?","What are related words for snow that start with b?","Find adjectives for candle"],"firstReleaseDate":1455132072.332,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.5b3f6f4f-ae24-425f-9b51-d9021856bd3a","imageAltText":"RhymeZone icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BMV3BS8/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"rhyme zone","name":"RhymeZone","numberOfReviews":4,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":"http://www.rhymezone.com/help#privacy","shortDescription":"Find rhymes, synonyms, related words, and adjectives for any word, and get help with crossword puzzle clues.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M1Q7TYMD4VHSQG","vendorName":"Datamuse"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01BMV3BS8",
+  "averageRating": 4,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Reference",
+  "description": "Find exactly the right words for your poems, song lyrics, and other writing endeavors!   This skill consults RhymeZone to help you find rhymes, synonyms, adjectives, and related words for any English word.  Just say, \"What are X for Y?\", where X can be \"rhymes\", \"synonyms\", \"related words\", or \"adjectives\", and Y is any English word.  You can also say, \"What are X for Y that start with L\", where L is any letter, or \"What's an N-letter word for Y\", where N is any number.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask RhymeZone what rhymes with banana?",
+    "What are related words for snow that start with b?",
+    "Find adjectives for candle"
+  ],
+  "firstReleaseDate": 1455132072.332,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.5b3f6f4f-ae24-425f-9b51-d9021856bd3a",
+  "imageAltText": "RhymeZone icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BMV3BS8/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "rhyme zone",
+  "name": "RhymeZone",
+  "numberOfReviews": 4,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.rhymezone.com/help#privacy",
+  "shortDescription": "Find rhymes, synonyms, related words, and adjectives for any word, and get help with crossword puzzle clues.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1Q7TYMD4VHSQG",
+  "vendorName": "Datamuse"
+}

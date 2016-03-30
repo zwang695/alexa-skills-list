@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DE9SBR2","averageRating":0,"canDisable":true,"capabilities":null,"category":"Games","description":"The user will be asked a series of 5 random questions, all pertaining to Space.","enablement":null,"exampleInteractions":["Alexa, open Star Trivia","Start new game","My answer is 1"],"firstReleaseDate":1458852790.824,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.8425453a-b45d-4df9-9198-c8f0212f3d0b","imageAltText":"Star Trivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DE9SBR2/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"star trivia","name":"Star Trivia","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Star Trivia is an out of this world experience for the whole family. It's both fun and educational.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MLE2X64UWVNBP","vendorName":"playdumbo.nyc"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DE9SBR2",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "The user will be asked a series of 5 random questions, all pertaining to Space.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Star Trivia",
+    "Start new game",
+    "My answer is 1"
+  ],
+  "firstReleaseDate": 1458852790.824,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.8425453a-b45d-4df9-9198-c8f0212f3d0b",
+  "imageAltText": "Star Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DE9SBR2/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "star trivia",
+  "name": "Star Trivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Star Trivia is an out of this world experience for the whole family. It's both fun and educational.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MLE2X64UWVNBP",
+  "vendorName": "playdumbo.nyc"
+}

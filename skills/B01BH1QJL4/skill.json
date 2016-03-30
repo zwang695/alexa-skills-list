@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01BH1QJL4","averageRating":0,"canDisable":true,"capabilities":null,"category":"Utilities","description":"This skill is for Mixpo executives and employees to learn more about Mixpo's business health on a given day.","enablement":null,"exampleInteractions":["Alexa, open Mixpo.","What's the business status today?","How many impressions did Mixpo serve yesterday?"],"firstReleaseDate":1454608938.917,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.9234a905-e670-4304-b8ac-86557507cc87","imageAltText":"Mixpo Executive App icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BH1QJL4/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"mixpo","name":"Mixpo Executive App","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Skill to learn more about Mixpo's business health.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3ICT1MZ9JJGVS","vendorName":"Salim Hemdani"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01BH1QJL4",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Utilities",
+  "description": "This skill is for Mixpo executives and employees to learn more about Mixpo's business health on a given day.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Mixpo.",
+    "What's the business status today?",
+    "How many impressions did Mixpo serve yesterday?"
+  ],
+  "firstReleaseDate": 1454608938.917,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.9234a905-e670-4304-b8ac-86557507cc87",
+  "imageAltText": "Mixpo Executive App icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BH1QJL4/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "mixpo",
+  "name": "Mixpo Executive App",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Skill to learn more about Mixpo's business health.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3ICT1MZ9JJGVS",
+  "vendorName": "Salim Hemdani"
+}

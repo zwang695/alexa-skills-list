@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DJ4ARKG","averageRating":0,"canDisable":true,"capabilities":null,"category":"Sports","description":"Just a fun little trivia app for Spurs fans. We are not officially related in any way - we just like the Spurs.\n\nMuch thanks to Wikipedia for awesome information and the Spurs for awesome character (and basketball)! Go Spurs Go!","enablement":null,"exampleInteractions":["Alexa, open go spurs trivia","new game","go spurs go"],"firstReleaseDate":1459161259.315,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.19903226-a572-4dc8-b785-4cc181292713","imageAltText":"GoSpursTrivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJ4ARKG/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"go spurs trivia","name":"GoSpursTrivia","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Just a fun little trivia app for Spurs fans. We are not officially related in any way - we just like the Spurs. Go Spurs Go!","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M6OMGQ6J07Q9U","vendorName":"Ibgib LLC"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DJ4ARKG",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Sports",
+  "description": "Just a fun little trivia app for Spurs fans. We are not officially related in any way - we just like the Spurs.\n\nMuch thanks to Wikipedia for awesome information and the Spurs for awesome character (and basketball)! Go Spurs Go!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open go spurs trivia",
+    "new game",
+    "go spurs go"
+  ],
+  "firstReleaseDate": 1459161259.315,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.19903226-a572-4dc8-b785-4cc181292713",
+  "imageAltText": "GoSpursTrivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJ4ARKG/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "go spurs trivia",
+  "name": "GoSpursTrivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Just a fun little trivia app for Spurs fans. We are not officially related in any way - we just like the Spurs. Go Spurs Go!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M6OMGQ6J07Q9U",
+  "vendorName": "Ibgib LLC"
+}

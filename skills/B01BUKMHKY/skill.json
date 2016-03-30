@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01BUKMHKY","averageRating":1,"canDisable":true,"capabilities":null,"category":"Entertainment","description":"Ask Donald Trump a question, about his policies, or how he will make america great again","enablement":null,"exampleInteractions":["Alexa, ask Trump how do you feel about china","how are you doing in the polls","for a quote"],"firstReleaseDate":1455664845.665,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.4c357994-13f3-42bb-8ef3-215199918139","imageAltText":"AskAboutTrump icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BUKMHKY/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"trump","name":"AskAboutTrump","numberOfReviews":5,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Ask Donald Trump a question","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MCQYKURJAEZB5","vendorName":"Chris Moyer"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01BUKMHKY",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "Ask Donald Trump a question, about his policies, or how he will make america great again",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Trump how do you feel about china",
+    "how are you doing in the polls",
+    "for a quote"
+  ],
+  "firstReleaseDate": 1455664845.665,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.4c357994-13f3-42bb-8ef3-215199918139",
+  "imageAltText": "AskAboutTrump icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BUKMHKY/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "trump",
+  "name": "AskAboutTrump",
+  "numberOfReviews": 5,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Ask Donald Trump a question",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MCQYKURJAEZB5",
+  "vendorName": "Chris Moyer"
+}

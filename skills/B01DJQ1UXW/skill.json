@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DJQ1UXW","averageRating":0,"canDisable":true,"capabilities":null,"category":"Entertainment","description":"These actual quotes from \"the Donald\" can provide very real life advice for anyone living in a state of mental insecurity.","enablement":null,"exampleInteractions":["Alexa, open Trump Thoughts.","Alexa, ask Trump Thoughts what do you think of Hillary Clinton?","Alexa, ask Trump Thoughts why should I trust you?"],"firstReleaseDate":1459292824.247,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.aaf53f67-10f4-4cb1-b909-a88e33c90f7f","imageAltText":"Trump Thoughts icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJQ1UXW/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"trump thoughts","name":"Trump Thoughts","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Trump answers your most burning questions.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3LRASIFYWKQPH","vendorName":"xgess"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DJQ1UXW",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "These actual quotes from \"the Donald\" can provide very real life advice for anyone living in a state of mental insecurity.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Trump Thoughts.",
+    "Alexa, ask Trump Thoughts what do you think of Hillary Clinton?",
+    "Alexa, ask Trump Thoughts why should I trust you?"
+  ],
+  "firstReleaseDate": 1459292824.247,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.aaf53f67-10f4-4cb1-b909-a88e33c90f7f",
+  "imageAltText": "Trump Thoughts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJQ1UXW/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "trump thoughts",
+  "name": "Trump Thoughts",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Trump answers your most burning questions.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3LRASIFYWKQPH",
+  "vendorName": "xgess"
+}

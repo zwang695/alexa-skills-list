@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01D4EF2VU","averageRating":4.5,"canDisable":true,"capabilities":null,"category":"Games","description":"Cricket Quiz!!\nGive a shout to Alexa and say \"Alexa, ask cricket quiz\".\nWhich famous ground hosted the historic tied test between India and Australia in 1986?\n             1. MA Chidambaram Stadium (Chepauk), Chennai\"\n             2. M Chinnaswamy Stadium, Bangalore\n             3. Eden Gardens, Kolkata\n             4. Feroz Shah Kotla Grounds, Delhi\nSay the number of answer you think is correct.","enablement":null,"exampleInteractions":["Alexa, ask Cricket Quiz","Repeat",null],"firstReleaseDate":1458282628.749,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.752b92c6-eeeb-49de-b6b6-a6e21979f53d","imageAltText":"Cricket Quiz icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01D4EF2VU/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"cricket quiz","name":"Cricket Quiz","numberOfReviews":2,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Cricket quiz to have fun with all cricket lovers and to test their knowledge about cricket!!","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M1B5XZOQNK10NB","vendorName":"apjneeraj"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01D4EF2VU",
+  "averageRating": 4.5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "Cricket Quiz!!\nGive a shout to Alexa and say \"Alexa, ask cricket quiz\".\nWhich famous ground hosted the historic tied test between India and Australia in 1986?\n             1. MA Chidambaram Stadium (Chepauk), Chennai\"\n             2. M Chinnaswamy Stadium, Bangalore\n             3. Eden Gardens, Kolkata\n             4. Feroz Shah Kotla Grounds, Delhi\nSay the number of answer you think is correct.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Cricket Quiz",
+    "Repeat",
+    null
+  ],
+  "firstReleaseDate": 1458282628.749,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.752b92c6-eeeb-49de-b6b6-a6e21979f53d",
+  "imageAltText": "Cricket Quiz icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01D4EF2VU/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "cricket quiz",
+  "name": "Cricket Quiz",
+  "numberOfReviews": 2,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Cricket quiz to have fun with all cricket lovers and to test their knowledge about cricket!!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1B5XZOQNK10NB",
+  "vendorName": "apjneeraj"
+}

@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DDA9PAE","averageRating":0,"canDisable":true,"capabilities":null,"category":"Games","description":"Animals are so weird, you guys. Do you know just how weird? Play this fun, multiple-choice trivia challenge and test your knowledge. \n\nAlexa will read you a questions and give you four answers to choose from. You can just say the number of the answer, but you should be able to prevaricate a little (\"uhhh....\") before you give the number. If you get it right, you get points! If you get it wrong, Alexa will sass you.\n\nYou can skip questions, but they will count as wrong, and Alexa will still sass you. You can repeat without penalty","enablement":null,"exampleInteractions":["Alexa, start Zoo Trivia","My answer is 4","Start over"],"firstReleaseDate":1458801536.912,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.0722a9d4-39c3-4b6f-bbae-bd4a9041e0f0","imageAltText":"ZooTrivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DDA9PAE/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"zoo trivia","name":"ZooTrivia","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Animals are so weird, you guys. Do you know just how weird? Play this fun trivia challenge and test your knowledge.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M1812YK2RNPUUV","vendorName":"Veronica Guzzardi"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DDA9PAE",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "Animals are so weird, you guys. Do you know just how weird? Play this fun, multiple-choice trivia challenge and test your knowledge. \n\nAlexa will read you a questions and give you four answers to choose from. You can just say the number of the answer, but you should be able to prevaricate a little (\"uhhh....\") before you give the number. If you get it right, you get points! If you get it wrong, Alexa will sass you.\n\nYou can skip questions, but they will count as wrong, and Alexa will still sass you. You can repeat without penalty",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, start Zoo Trivia",
+    "My answer is 4",
+    "Start over"
+  ],
+  "firstReleaseDate": 1458801536.912,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.0722a9d4-39c3-4b6f-bbae-bd4a9041e0f0",
+  "imageAltText": "ZooTrivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DDA9PAE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "zoo trivia",
+  "name": "ZooTrivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Animals are so weird, you guys. Do you know just how weird? Play this fun trivia challenge and test your knowledge.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1812YK2RNPUUV",
+  "vendorName": "Veronica Guzzardi"
+}

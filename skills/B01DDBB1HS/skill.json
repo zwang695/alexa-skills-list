@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DDBB1HS","averageRating":4.5,"canDisable":true,"capabilities":null,"category":"Reference","description":"Tells you if Lake Travis is full yet.","enablement":null,"exampleInteractions":["Alexa, ask Lake Travis if it's full yet","Alexa, ask Lake Travis if the lake is full","Alexa, ask Lake Travis is the lake full"],"firstReleaseDate":1458803223.129,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.1f8a0486-62b3-4388-af9f-917ef663196c","imageAltText":"Is The Lake Full Yet? icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DDBB1HS/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"lake travis","name":"Is The Lake Full Yet?","numberOfReviews":2,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Is The Lake Full Yet?. Ask Lake Travis if the lake is full yet.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M2P5POQAM42XIO","vendorName":"TOMCorp"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DDBB1HS",
+  "averageRating": 4.5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Reference",
+  "description": "Tells you if Lake Travis is full yet.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Lake Travis if it's full yet",
+    "Alexa, ask Lake Travis if the lake is full",
+    "Alexa, ask Lake Travis is the lake full"
+  ],
+  "firstReleaseDate": 1458803223.129,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.1f8a0486-62b3-4388-af9f-917ef663196c",
+  "imageAltText": "Is The Lake Full Yet? icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DDBB1HS/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "lake travis",
+  "name": "Is The Lake Full Yet?",
+  "numberOfReviews": 2,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Is The Lake Full Yet?. Ask Lake Travis if the lake is full yet.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2P5POQAM42XIO",
+  "vendorName": "TOMCorp"
+}

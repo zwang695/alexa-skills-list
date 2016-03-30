@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DJXQBNO","averageRating":0,"canDisable":true,"capabilities":null,"category":"Education","description":"The Elements quiz contains 25 of the most common elements. It is a multiple choice quiz that will present either the name of the element or the element's chemical symbol. Once the question has been asked, it will give four answers (#1, #2, #3, or #4). Once you are sure of your answer, just say the number to check your answer. The quiz has a total of 15 questions per game.","enablement":null,"exampleInteractions":["Alexa, start Element Quiz","New Game","The answer is four"],"firstReleaseDate":1459321350.898,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.73fd00b5-7e6c-4e3a-8484-edd3b06448a3","imageAltText":"Elements Quiz icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJXQBNO/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"element quiz","name":"Elements Quiz","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Elements Quiz is a basic quiz that will test you knowledge of 25 of the most common elements in the periodic table.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M1TOCK43RFA572","vendorName":"Luis Gaytan"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DJXQBNO",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Education",
+  "description": "The Elements quiz contains 25 of the most common elements. It is a multiple choice quiz that will present either the name of the element or the element's chemical symbol. Once the question has been asked, it will give four answers (#1, #2, #3, or #4). Once you are sure of your answer, just say the number to check your answer. The quiz has a total of 15 questions per game.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, start Element Quiz",
+    "New Game",
+    "The answer is four"
+  ],
+  "firstReleaseDate": 1459321350.898,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.73fd00b5-7e6c-4e3a-8484-edd3b06448a3",
+  "imageAltText": "Elements Quiz icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJXQBNO/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "element quiz",
+  "name": "Elements Quiz",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Elements Quiz is a basic quiz that will test you knowledge of 25 of the most common elements in the periodic table.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1TOCK43RFA572",
+  "vendorName": "Luis Gaytan"
+}

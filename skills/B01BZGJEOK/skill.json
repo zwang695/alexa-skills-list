@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01BZGJEOK","averageRating":1,"canDisable":true,"capabilities":null,"category":"Entertainment","description":"Test your knowledge of beer trivia and impress your friends!\nTo get started, just say \"Alexa, open beer trivia\"!\nAlexa will ask you 10 beer trivia questions and you answer the number of the correct multiple choice question.\nBeer trivia is fun to play by yourself or with a group, see who can get the highest score!\nDISCLAIMER:  This trivia skill deals with knowledge of alcoholic beverages and may not be suitable for all ages","enablement":null,"exampleInteractions":["Alexa, launch Beer Trivia","Repeat","Help"],"firstReleaseDate":1455925974.949,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.9f3f9dfb-dc7d-46ab-926d-023990a0e8bf","imageAltText":"Beer Trivia icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BZGJEOK/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"beer trivia","name":"Beer Trivia","numberOfReviews":2,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Think you know beer? Crack open a cold one and test your beer and brewing knowledge with Beer Trivia! DISCLAIMER:  Beer trivia may not be suitable for all ages.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MHUFDED3DM9H8","vendorName":"Red Sun Software"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01BZGJEOK",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "Test your knowledge of beer trivia and impress your friends!\nTo get started, just say \"Alexa, open beer trivia\"!\nAlexa will ask you 10 beer trivia questions and you answer the number of the correct multiple choice question.\nBeer trivia is fun to play by yourself or with a group, see who can get the highest score!\nDISCLAIMER:  This trivia skill deals with knowledge of alcoholic beverages and may not be suitable for all ages",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, launch Beer Trivia",
+    "Repeat",
+    "Help"
+  ],
+  "firstReleaseDate": 1455925974.949,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.9f3f9dfb-dc7d-46ab-926d-023990a0e8bf",
+  "imageAltText": "Beer Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BZGJEOK/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "beer trivia",
+  "name": "Beer Trivia",
+  "numberOfReviews": 2,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Think you know beer? Crack open a cold one and test your beer and brewing knowledge with Beer Trivia! DISCLAIMER:  Beer trivia may not be suitable for all ages.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MHUFDED3DM9H8",
+  "vendorName": "Red Sun Software"
+}

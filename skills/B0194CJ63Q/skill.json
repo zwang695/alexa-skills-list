@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B0194CJ63Q","averageRating":2.8,"canDisable":true,"capabilities":null,"category":"Productivity","description":"Tired of missing your phone in your home? Use Echo to find your phone. Say \"Open phone finder\". This app requires a companion app from Android Google Play Store or Amazon App Store\n\nVisit: http://bit.ly/alexaphonefinder to install the android app","enablement":null,"exampleInteractions":["Alexa, open Phone Finder","Alexa, ask Phone Finder for help","Alexa, tell Phone Finder to unpair my phone"],"firstReleaseDate":1449627955.629,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.206a0caf-4f91-44b4-bb42-96bde64c7214","imageAltText":"Phone Finder for Alexa icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B0194CJ63Q/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"phone finder","name":"Phone Finder for Alexa","numberOfReviews":25,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":"https://caricaturers.us/","shortDescription":"Tired of missing your phone in your home? Use Echo to find your phone. Say \"Open phone finder\". This app requires a companion app from android app store.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M3D6YSX6KD8WYK","vendorName":"Caricaturers"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B0194CJ63Q",
+  "averageRating": 2.8,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Productivity",
+  "description": "Tired of missing your phone in your home? Use Echo to find your phone. Say \"Open phone finder\". This app requires a companion app from Android Google Play Store or Amazon App Store\n\nVisit: http://bit.ly/alexaphonefinder to install the android app",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Phone Finder",
+    "Alexa, ask Phone Finder for help",
+    "Alexa, tell Phone Finder to unpair my phone"
+  ],
+  "firstReleaseDate": 1449627955.629,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.206a0caf-4f91-44b4-bb42-96bde64c7214",
+  "imageAltText": "Phone Finder for Alexa icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B0194CJ63Q/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "phone finder",
+  "name": "Phone Finder for Alexa",
+  "numberOfReviews": 25,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "https://caricaturers.us/",
+  "shortDescription": "Tired of missing your phone in your home? Use Echo to find your phone. Say \"Open phone finder\". This app requires a companion app from android app store.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3D6YSX6KD8WYK",
+  "vendorName": "Caricaturers"
+}

@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01BLXRLDI","averageRating":4.2,"canDisable":true,"capabilities":null,"category":"Entertainment","description":"This skill will randomly pick from over 2,000 Yo Mama Jokes.  The types of Yo Mama Jokes we have are \"dumb\", \"fat\", \"small house\", \"old\", \"poor\", \"short\", \"skinny\", \"stupid\", \"ugly\" and \"body part\".\n\nPlease note, this skill contains crude humor.  As such, the skill may not be suitable for all ages.","enablement":null,"exampleInteractions":["Alexa, open Yo Mama Joke","Alexa, ask Yo Mama Joke for a Yo Mama So Fat Joke","Alexa, ask Yo Mama Joke for a Yo Mama So Dumb Joke."],"firstReleaseDate":1455063867.241,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.0ed51810-d3ed-4b51-aa77-4f7c6573703b","imageAltText":"A Yo Mama Joke icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BLXRLDI/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"yo mama joke","name":"A Yo Mama Joke","numberOfReviews":6,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"This skill will randomly pick from over 2,000 Yo Mama Jokes.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"MHFG4C7N54LVU","vendorName":"Mark-It, Inc."}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01BLXRLDI",
+  "averageRating": 4.2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "This skill will randomly pick from over 2,000 Yo Mama Jokes.  The types of Yo Mama Jokes we have are \"dumb\", \"fat\", \"small house\", \"old\", \"poor\", \"short\", \"skinny\", \"stupid\", \"ugly\" and \"body part\".\n\nPlease note, this skill contains crude humor.  As such, the skill may not be suitable for all ages.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Yo Mama Joke",
+    "Alexa, ask Yo Mama Joke for a Yo Mama So Fat Joke",
+    "Alexa, ask Yo Mama Joke for a Yo Mama So Dumb Joke."
+  ],
+  "firstReleaseDate": 1455063867.241,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.0ed51810-d3ed-4b51-aa77-4f7c6573703b",
+  "imageAltText": "A Yo Mama Joke icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BLXRLDI/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "yo mama joke",
+  "name": "A Yo Mama Joke",
+  "numberOfReviews": 6,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "This skill will randomly pick from over 2,000 Yo Mama Jokes.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MHFG4C7N54LVU",
+  "vendorName": "Mark-It, Inc."
+}

@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DJ8GTS6","averageRating":0,"canDisable":true,"capabilities":null,"category":"Games","description":"Alexa will pick a number between 1-100.  It is up to you to guess what the number is.  Don't worry Alexa will let you know if your guess is greater than or less than the number.","enablement":null,"exampleInteractions":["Alexa, play guess the number","Is the number 75?","42?"],"firstReleaseDate":1459168452.727,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.7dfa8626-b19c-4c6f-8045-6f1673654188","imageAltText":"Guess the Number icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJ8GTS6/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"guess the number","name":"Guess the Number","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Guess the number between 1-100.  Alexa will let you know if your guess is greater than or less than the number. Start by saying, \"Alexa, play guess the number!\"","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M314ZQWU4TE3E1","vendorName":"Laynr"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DJ8GTS6",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "Alexa will pick a number between 1-100.  It is up to you to guess what the number is.  Don't worry Alexa will let you know if your guess is greater than or less than the number.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, play guess the number",
+    "Is the number 75?",
+    "42?"
+  ],
+  "firstReleaseDate": 1459168452.727,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.7dfa8626-b19c-4c6f-8045-6f1673654188",
+  "imageAltText": "Guess the Number icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DJ8GTS6/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "guess the number",
+  "name": "Guess the Number",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Guess the number between 1-100.  Alexa will let you know if your guess is greater than or less than the number. Start by saying, \"Alexa, play guess the number!\"",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M314ZQWU4TE3E1",
+  "vendorName": "Laynr"
+}

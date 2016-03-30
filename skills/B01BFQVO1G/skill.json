@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01BFQVO1G","averageRating":3,"canDisable":true,"capabilities":null,"category":"Travel","description":"The Tube connects with the London Underground to provide the current service status of a line.  Ask the Tube what's happening on the Northern line or if you can't remember the line name ask The Tube about the pink line.\n\nPowered by TfL Open Data","enablement":null,"exampleInteractions":["Alexa ask The Tube what's happening on the District","Alexa ask The Tube for the green line","Alexa ask The Tube what's the status for the Jubilee"],"firstReleaseDate":1454532029.433,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.763d4b64-43ff-4959-915d-d850abce1fed","imageAltText":"The Tube icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BFQVO1G/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"the tube","name":"The Tube","numberOfReviews":1,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":"https://tfl.gov.uk/corporate/privacy-and-cookies/","shortDescription":"Get the current service status for a line on the London Underground, aka The Tube.","skillTypes":null,"stage":"live","termsOfUseUrl":"https://tfl.gov.uk/corporate/terms-and-conditions/","vendorId":"M2Q7GPCCF5N2U1","vendorName":"etsnet"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01BFQVO1G",
+  "averageRating": 3,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Travel",
+  "description": "The Tube connects with the London Underground to provide the current service status of a line.  Ask the Tube what's happening on the Northern line or if you can't remember the line name ask The Tube about the pink line.\n\nPowered by TfL Open Data",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask The Tube what's happening on the District",
+    "Alexa ask The Tube for the green line",
+    "Alexa ask The Tube what's the status for the Jubilee"
+  ],
+  "firstReleaseDate": 1454532029.433,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.763d4b64-43ff-4959-915d-d850abce1fed",
+  "imageAltText": "The Tube icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01BFQVO1G/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "the tube",
+  "name": "The Tube",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "https://tfl.gov.uk/corporate/privacy-and-cookies/",
+  "shortDescription": "Get the current service status for a line on the London Underground, aka The Tube.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://tfl.gov.uk/corporate/terms-and-conditions/",
+  "vendorId": "M2Q7GPCCF5N2U1",
+  "vendorName": "etsnet"
+}

@@ -1,1 +1,34 @@
-{"accountLinkingWhitelistedDomains":null,"asin":"B01DK3K7C4","averageRating":0,"canDisable":true,"capabilities":null,"category":"Games","description":"This Fractals Skill will give you the Guild Wars 2 Fractal name, and recommended Agony Resistance value.  \nJust ask about a level number.","enablement":null,"exampleInteractions":["Alexa, ask Fractals about Level 19.","Alexa, ask Fractals what is Level 19.","Alexa, ask Fractals for help."],"firstReleaseDate":1459324960.988,"homepageLinkText":null,"homepageLinkUrl":null,"id":"amzn1.echo-sdk-ams.app.de56dd7c-b2f1-4195-8ac5-7853b03bdc4a","imageAltText":"Fractals Info icon","imageUrl":"https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DK3K7C4/skill_icon","inAppPurchasingSupported":false,"launchPhrase":"fractals","name":"Fractals Info","numberOfReviews":0,"pamsPartnerId":null,"permissions":null,"privacyPolicyUrl":null,"shortDescription":"Which Fractal is Level 47?  This is a quick reference to Guild Wars 2 Fractals by level, and includes the recommended agony resistance.","skillTypes":null,"stage":"live","termsOfUseUrl":null,"vendorId":"M216M2LWQ431K6","vendorName":"Don Hoellein"}
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01DK3K7C4",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Games",
+  "description": "This Fractals Skill will give you the Guild Wars 2 Fractal name, and recommended Agony Resistance value.  \nJust ask about a level number.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Fractals about Level 19.",
+    "Alexa, ask Fractals what is Level 19.",
+    "Alexa, ask Fractals for help."
+  ],
+  "firstReleaseDate": 1459324960.988,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.de56dd7c-b2f1-4195-8ac5-7853b03bdc4a",
+  "imageAltText": "Fractals Info icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DK3K7C4/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "fractals",
+  "name": "Fractals Info",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Which Fractal is Level 47?  This is a quick reference to Guild Wars 2 Fractals by level, and includes the recommended agony resistance.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M216M2LWQ431K6",
+  "vendorName": "Don Hoellein"
+}
