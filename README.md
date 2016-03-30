@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 472
+**Total Skills Available:** 474
 
 ***
 
@@ -677,6 +677,14 @@ Hands-free banking never sounded so good. Just ask Alexa how much money you have
 *Alexa, tell Capital Quiz to start practicing*
 
 Capital Quiz helps you practice and then quizzes you on the names of the capital cities of all 50 US states.
+
+***
+
+## &nbsp;<img src="skills/B01DJWJKMO/skill_icon" alt="Capital Triva icon" width="36"> [Capital Triva](skills/B01DJWJKMO)
+
+*Alexa, ask capital trivia*
+
+World Capital Trivia
 
 ***
 
@@ -2256,6 +2264,14 @@ Aviation weather in an air traffic controller's vocabulary
 *Alexa, ask My Dermatologist what's the u. v. index*
 
 My Dermatologist is designed for your skin health. At My Dermatologist we will provide you with localized facts to assist you in protecting your skin.
+
+***
+
+## &nbsp;<img src="skills/B01DMMQZ2O/skill_icon" alt="My Memory icon" width="36"> [My Memory](skills/B01DMMQZ2O)
+
+*Alexa, tell My Memory that on Tuesday I water the plants.*
+
+A simple scratchpad of things you want to remember, and what day you did them.
 
 ***
 
