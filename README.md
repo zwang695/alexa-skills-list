@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 462
+**Total Skills Available:** 472
 
 ***
 
@@ -172,6 +172,14 @@ Word Master is an interactive way to learn and challenge yourself with words, wh
 *Alexa, ask Angry Bard for a burn.*
 
 Have at you, knave! The Angry Bard skill is ready to throw barbs from the Bard anytime you like. Each insult is a quote selected from among the works of William Shakespeare, given together with the name of the piece from which it's taken. A text copy of the quote and its source are also sent to the Alexa app.
+
+***
+
+## &nbsp;<img src="skills/B01DJJ7ZN8/skill_icon" alt="Angular Trivia icon" width="36"> [Angular Trivia](skills/B01DJJ7ZN8)
+
+*Alexa, start angular trivia*
+
+A quiz for angular developers about the architecture.
 
 ***
 
@@ -896,6 +904,14 @@ Track trains on the CTA
 
 ***
 
+## &nbsp;<img src="skills/B01DL0N8X6/skill_icon" alt="CueFit icon" width="36"> [CueFit](skills/B01DL0N8X6)
+
+*Alexa, ask cue fit for my daily summary*
+
+Keep track of your daily step count and calories burned by accessing your Google Fit data via Alexa!
+
+***
+
 ## &nbsp;<img src="skills/B01AWXQTMW/skill_icon" alt="Currency Converter icon" width="36"> [Currency Converter](skills/B01AWXQTMW)
 
 *Alexa, ask Currency Converter to convert twenty dollars to euros*
@@ -1085,6 +1101,14 @@ Edgar Facts is for anyone who loves Edgar the dog and can't get enough of that a
 *Alexa, ask lunch bot what's for lunch today*
 
 Hot lunch for East Grand Rapids Public Schools (all elementary schools).
+
+***
+
+## &nbsp;<img src="skills/B01DJXQBNO/skill_icon" alt="Elements Quiz icon" width="36"> [Elements Quiz](skills/B01DJXQBNO)
+
+*Alexa, start Element Quiz*
+
+Elements Quiz is a basic quiz that will test you knowledge of 25 of the most common elements in the periodic table.
 
 ***
 
@@ -1296,6 +1320,24 @@ Get quotes from our Founding Fathers, the political philosophers who inspired th
 
 ***
 
+## &nbsp;<img src="skills/B01DK3K7C4/skill_icon" alt="Fractals Info icon" width="36"> [Fractals Info](skills/B01DK3K7C4)
+
+*Alexa, ask Fractals about Level 19.*
+
+Which Fractal is Level 47?  This is a quick reference to Guild Wars 2 Fractals by level, and includes the recommended agony resistance.
+
+***
+
+## &nbsp;<img src="skills/B01DM4C8VY/skill_icon" alt="Fraction Calculator icon" width="36"> [Fraction Calculator](skills/B01DM4C8VY)
+
+*Alexa, open fraction calculator*
+
+Fraction Calculator
+
+Welcome to the Fraction Calculator.  The calculator will add, subtract,  multiply and divide any fraction.
+
+***
+
 ## &nbsp;<img src="skills/B017OBE2NI/skill_icon" alt="FreeBusy Scheduling Buddy icon" width="36"> [FreeBusy Scheduling Buddy](skills/B017OBE2NI)
 
 *Alexa, ask FreeBusy to see if Paula is free Tuesday*
@@ -1373,6 +1415,14 @@ Geek games is trivia skill to test your knowledge of random geeky facts of the E
 *Alexa, ask a geek*
 
 Alexa will ask you 5 trivia questions per game.  It’s a fun way to test your geek knowledge of a famous movie or TV show.
+
+***
+
+## &nbsp;<img src="skills/B01DJSDT6Q/skill_icon" alt="Geographic Adventure icon" width="36"> [Geographic Adventure](skills/B01DJSDT6Q)
+
+*Alexa, launch Geographic  Adventure*
+
+Listen carefully and  answer to  the questions about the world's geography,
 
 ***
 
@@ -1998,6 +2048,14 @@ Come and check how good your memory is!
 *Alexa, Ask meteor showers what is happening tonight*
 
 Meteor showers tonight
+
+***
+
+## &nbsp;<img src="skills/B01DJD0EYQ/skill_icon" alt="Metro Alerts icon" width="36"> [Metro Alerts](skills/B01DJD0EYQ)
+
+*Alexa, open Metro Alerts*
+
+Want to know if there are delays on the Red Line?  Could weekend construction derail your plans?  Ask Metro Alerts and find out!
 
 ***
 
@@ -3282,6 +3340,14 @@ A competitive game in which you answer questions using a word or phrase that beg
 
 ***
 
+## &nbsp;<img src="skills/B01DJT93IS/skill_icon" alt="Titus icon" width="36"> [Titus](skills/B01DJT93IS)
+
+*Alexa, ask Titus to find Seinfeld*
+
+Find where you can view your favorite TV shows on free, paid and subscription services like Amazon Prime, CBS or Crackle.
+
+***
+
 ## &nbsp;<img src="skills/B01DJJ7C0O/skill_icon" alt="Today in History icon" width="36"> [Today in History](skills/B01DJJ7C0O)
 
 *Alexa, ask Today in History about historic events.*
@@ -3434,6 +3500,14 @@ A challenging Formula 1 trivia game, to test your knowledge of the sport.
 
 ***
 
+## &nbsp;<img src="skills/B01DL1S65A/skill_icon" alt="Trivia for NASCAR icon" width="36"> [Trivia for NASCAR](skills/B01DL1S65A)
+
+*Alexa, open NASCAR Trivia*
+
+Test your knowledge of NASCAR's past and present in this multiple-choice trivia game!
+
+***
+
 ## &nbsp;<img src="skills/B01CRGMF02/skill_icon" alt="Trivia For Trump icon" width="36"> [Trivia For Trump](skills/B01CRGMF02)
 
 *Alexa, open trump me*
@@ -3503,6 +3577,14 @@ Trivia Talk is a multiple choice trivia game you can play by yourself or with yo
 *Alexa, ask trivia with friends for the free answer*
 
 Get the free answer of the day for America's Pub Quiz trivia.
+
+***
+
+## &nbsp;<img src="skills/B01DJQ1UXW/skill_icon" alt="Trump Thoughts icon" width="36"> [Trump Thoughts](skills/B01DJQ1UXW)
+
+*Alexa, open Trump Thoughts.*
+
+Trump answers your most burning questions.
 
 ***
 
