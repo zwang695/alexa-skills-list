@@ -9,5 +9,3 @@ npm-debug.log
 *.dev.*
 config.json
 skills.json
-fetch.sh
-fetch.bat
