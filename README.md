@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 474
+**Total Skills Available:** 476
 
 ***
 
@@ -2748,6 +2748,14 @@ Relationary is a fun, fast-paced multiplayer word association game that keeps yo
 
 ***
 
+## &nbsp;<img src="skills/B01DJJ9STM/skill_icon" alt="Repeat After Me icon" width="36"> [Repeat After Me](skills/B01DJJ9STM)
+
+*Alexa, ask repeat after me to say Hello it's me*
+
+Use this skill to repeat anything you say to Alexa
+
+***
+
 ## &nbsp;<img src="skills/B019YGPC1M/skill_icon" alt="Resistor Decoder icon" width="36"> [Resistor Decoder](skills/B019YGPC1M)
 
 *Alexa, open Resistor Decoder.*
@@ -3161,6 +3169,14 @@ Gives Alexa access to over 12,000 cocktail recipes and instructions on how to ma
 *Alexa, open The Bible.*
 
 Listen to Alexa read inspirational scriptures to you from the Bible.
+
+***
+
+## &nbsp;<img src="skills/B01DJKW7HQ/skill_icon" alt="The Color Game icon" width="36"> [The Color Game](skills/B01DJKW7HQ)
+
+*Alexa, open the color game*
+
+See if you can remember and repeat back to Alexa the colors she tells you. Repeat all ten and you win the game.
 
 ***
 
