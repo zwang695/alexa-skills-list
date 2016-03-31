@@ -2,14 +2,15 @@
   "accountLinkingWhitelistedDomains": [
     "www.fitbit.com",
     "api.fitbit.com",
-    "fitbit.com"
+    "fitbit.com",
+    "google.com"
   ],
   "asin": "B01CH4BP28",
   "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Health-and-Fitness",
-  "description": "Keep up with your fitness goals by checking Fitbit with Alexa. Stay in touch with your progress and get motivated as you go about your day.\nCheck in on your daily Fitbit progress with Alexa. Ask Alexa if you hit your sleep goal, how you did yesterday, or just get a quick update on the stats you care about the most.\nIf you’d like to learn more about what Alexa can do with Fitbit, you can find more information here: (https://help.fitbit.com/articles/en_US/Help_article/Can-Alexa-tell-me-my-Fitbit-stats).\nNote: Alexa and Amazon, Inc. do not store or retain your Fitbit data, but voice interactions associated with your Amazon account may contain your Fitbit data.",
+  "description": "Keep up with your fitness goals by checking Fitbit with Alexa. Stay in touch with your progress and get motivated as you go about your day.\nCheck in on your daily Fitbit progress with Alexa. Ask Alexa if you hit your sleep goal, how you did yesterday, or just get a quick update on the stats you care about the most.\nSwitch between your Amazon Household profiles to access data from multiple Fitbit accounts.\nIf you’d like to learn more about what Alexa can do with Fitbit, you can find more information here: (https://help.fitbit.com/articles/en_US/Help_article/Can-Alexa-tell-me-my-Fitbit-stats).\nNote: Alexa and Amazon, Inc. do not store or retain your Fitbit data, but voice interactions associated with your Amazon account may contain your Fitbit data.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Fitbit how I'm doing today.",
@@ -26,7 +27,7 @@
   "launchPhrase": "fitbit",
   "name": "Fitbit",
   "numberOfReviews": 37,
-  "pamsPartnerId": "ci1a9gDQf1FBH6GNbUdq1JHE2",
+  "pamsPartnerId": "4I2Hsat7yxgmQwKcU7pkeKEXz",
   "permissions": null,
   "privacyPolicyUrl": "https://www.fitbit.com/legal/privacy",
   "shortDescription": "Keep up with your fitness goals by checking Fitbit with Alexa. Stay in touch with your progress and get motivated as you go about your day.",

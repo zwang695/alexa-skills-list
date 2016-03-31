@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BO4QZCM",
-  "averageRating": 4.5,
+  "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
   "category": "Sports",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "surfable",
   "name": "Surfable",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.surfable.surf/privacy.html",

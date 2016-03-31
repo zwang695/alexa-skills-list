@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 476
+**Total Skills Available:** 484
 
 ***
 
@@ -1120,6 +1120,14 @@ Elements Quiz is a basic quiz that will test you knowledge of 25 of the most com
 
 ***
 
+## &nbsp;<img src="skills/B01DJS8YUC/skill_icon" alt="Elephant Number Rememberer icon" width="36"> [Elephant Number Rememberer](skills/B01DJS8YUC)
+
+*Alexa, ask Elephant Number Rememberer to remember this number for me 508-111-2323*
+
+Have elephant remember numbers for you rather than write them down.
+
+***
+
 ## &nbsp;<img src="skills/B019NZJQUM/skill_icon" alt="Elf Trivia icon" width="36"> [Elf Trivia](skills/B019NZJQUM)
 
 *Alexa, open 'Elf Trivia'.*
@@ -1205,6 +1213,14 @@ Expense Tracker can help you keep track of your costs. Just add all your spendin
 *Alexa, open Famous Births.*
 
 Are you interested in the birthdays of famous people? Rely on Famous Births for the birthdays of hundreds of famous people for every day of the year.
+
+***
+
+## &nbsp;<img src="skills/B01DLEMOVE/skill_icon" alt="Famous Deaths icon" width="36"> [Famous Deaths](skills/B01DLEMOVE)
+
+*Alexa, open Famous Deaths.*
+
+Are you interested in the deaths of famous people? Rely on Famous Deaths for the deaths of hundreds of famous people for every day of the year.
 
 ***
 
@@ -1826,6 +1842,14 @@ Knock, knock! Who's there? The best collection of knock-knock jokes for the Amaz
 
 ***
 
+## &nbsp;<img src="skills/B01DL8L3EY/skill_icon" alt="Know Your Country icon" width="36"> [Know Your Country](skills/B01DL8L3EY)
+
+*Alexa ask k.y.c*
+
+As the name suggest this game consists of quiz about how well you know your country.
+
+***
+
 ## &nbsp;<img src="skills/B01DE6TMSC/skill_icon" alt="Korean Facts icon" width="36"> [Korean Facts](skills/B01DE6TMSC)
 
 *Alexa, ask Korean Facts for a fact*
@@ -2371,6 +2395,14 @@ Aurora skill will provide detailed information about the auroral activity over N
 
 ***
 
+## &nbsp;<img src="skills/B01DL10338/skill_icon" alt="Noteworthy Quotes icon" width="36"> [Noteworthy Quotes](skills/B01DL10338)
+
+*Alexa, ask Noteworthy Quotes to read me a quote*
+
+A simple skill that reads you a noteworthy quote
+
+***
+
 ## &nbsp;<img src="skills/B01A1GTOE0/skill_icon" alt="NYC Subway Status icon" width="36"> [NYC Subway Status](skills/B01A1GTOE0)
 
 *Alexa, open subway*
@@ -2416,6 +2448,14 @@ OurGroceries is the simplest way to keep your grocery lists instantly synchroniz
 *Alexa, open Package Tracker*
 
 With this skill you will never have to guess when your package is arriving. You can ask Package Tracker about all upcoming package shipments
+
+***
+
+## &nbsp;<img src="skills/B01DNZK616/skill_icon" alt="PebbleSpot Family Practice Board Review icon" width="36"> [PebbleSpot Family Practice Board Review](skills/B01DNZK616)
+
+*Alexa, ask board review questions.*
+
+Family Practice Board Review Quiz
 
 ***
 
@@ -2808,7 +2848,7 @@ Roddenberry's Trek Quotes is a fun, fast, and fabulous way to reminisce about yo
 
 *Alexa, start S.L.P. Review*
 
-The S.L.P. Praxis Review is an interactive voice activated flashcard skill for the Speech-Language Pathology Certification Exam. Study w/ ease... hands-free!
+S.L.P. Praxis Review is an interactive voice activated flashcard skill for the Speech-Language Pathology (SLP) Certification Exam. Study w/ ease... hands-free!
 
 ***
 
@@ -2889,6 +2929,14 @@ Get step-by-step transit directions between neighborhoods in Seattle.
 *Alexa, ask Security Quiz*
 
 Take a Cyber Security Quiz
+
+***
+
+## &nbsp;<img src="skills/B01DL8NNUQ/skill_icon" alt="Seinfeld Fan Trivia icon" width="36"> [Seinfeld Fan Trivia](skills/B01DL8NNUQ)
+
+*Alexa, open Seinfeld Trivia*
+
+Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 
 ***
 
@@ -3765,6 +3813,14 @@ Test your knowledge of the 007 films by matching which actor played bond in each
 
 ***
 
+## &nbsp;<img src="skills/B01DKRLLLG/skill_icon" alt="Wiki Brains icon" width="36"> [Wiki Brains](skills/B01DKRLLLG)
+
+*Alexa, Ask Wiki Brains to tell me about Kate Middleton*
+
+Wiki Brains can read you many of the 5000 most accessed articles on the English Wikipedia  'Alexa, Ask Wiki Brains to tell me about Kate Middleton'
+
+***
+
 ## &nbsp;<img src="skills/B01BPIG5I6/skill_icon" alt="Women's Underwear icon" width="36"> [Women's Underwear](skills/B01BPIG5I6)
 
 *Alexa, open women's underwear*
@@ -3810,6 +3866,14 @@ I am your daily friend and can do many things for you.  Such as play fun games a
 *Alexa, Ask Zip Code What city is Zip Code 20120*
 
 ZipCode
+
+***
+
+## &nbsp;<img src="skills/B01DLNA69W/skill_icon" alt="Zodiac icon" width="36"> [Zodiac](skills/B01DLNA69W)
+
+*Alexa, ask Zodiac the sign of someone born on October fifth*
+
+Find out the Zodiac sign for any date
 
 ***
 

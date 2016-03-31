@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B019YJAFPM",
-  "averageRating": 1.4,
+  "averageRating": 1.5,
   "canDisable": true,
   "capabilities": null,
   "category": "Communications",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "ooma",
   "name": "Ooma Calling",
-  "numberOfReviews": 64,
+  "numberOfReviews": 65,
   "pamsPartnerId": "dHWpN9gGjGYeu9GWnErfrHD4H",
   "permissions": null,
   "privacyPolicyUrl": "http://www.ooma.com/privacy-policy",
