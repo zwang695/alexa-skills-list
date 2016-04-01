@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 484
+**Total Skills Available:** 500
 
 ***
 
@@ -140,6 +140,14 @@ The Age Calculator helps calculate age between a given date and now.
 *Alexa, ask Agog Reader for Barack Obama.*
 
 Listen to Tweets
+
+***
+
+## &nbsp;<img src="skills/B01DOP9H2O/skill_icon" alt="Alarm.com icon" width="36"> [Alarm.com](skills/B01DOP9H2O)
+
+*Alexa, tell Alarm Dot Com to turn on the lights.*
+
+Control your Alarm.com system with your voice.
 
 ***
 
@@ -607,6 +615,14 @@ The Bubble Boy skill tells a funny quote from the popular sitcom - Seinfeld.
 
 ***
 
+## &nbsp;<img src="skills/B01DJHGK7W/skill_icon" alt="Buddha Says icon" width="36"> [Buddha Says](skills/B01DJHGK7W)
+
+*Alexa open Buddha Says*
+
+Get wise Buddha quotes now on your Alexa device
+
+***
+
 ## &nbsp;<img src="skills/B0194A8AK8/skill_icon" alt="Buddy for Destiny icon" width="36"> [Buddy for Destiny](skills/B0194A8AK8)
 
 *Alexa, ask my ghost what's Xur selling*
@@ -733,6 +749,14 @@ Find out what color the World feels like right now.
 *Alexa open Children's Bible Quiz*
 
 Simple Children's Bible Quiz
+
+***
+
+## &nbsp;<img src="skills/B01DMFK7H0/skill_icon" alt="Chili Pepper Nut icon" width="36"> [Chili Pepper Nut](skills/B01DMFK7H0)
+
+*Alexa, ask chili pepper nut a pepper fact*
+
+Chili Pepper Nut is fun trivia about chili peppers.
 
 ***
 
@@ -980,7 +1004,7 @@ Tired of everyone lying to you? This skill will tell you the truth.
 
 *Alexa, ask Devito for a fact*
 
-Get a fact about IPRO
+Get a fact about DeVito and his surroundings at his workplace.
 
 ***
 
@@ -1157,6 +1181,14 @@ The Astro Twins forecast every sign's horoscope for today. Find out if the moon'
 *Alexa, open Email Assistant*
 
 Alexa + Email = the only assistant you can ask about upcoming travel info from mail. Flights, Hotels and Rental Car info is all available!
+
+***
+
+## &nbsp;<img src="skills/B01DKT3766/skill_icon" alt="Empire State Building Colors icon" width="36"> [Empire State Building Colors](skills/B01DKT3766)
+
+*Alexa, Ask Empire State Colors 'What's the colors?'*
+
+Hear what colors the Empire State Building is displaying tonight.
 
 ***
 
@@ -1954,6 +1986,14 @@ This enables Alexa to tell you randomly generated lottery numbers.
 
 ***
 
+## &nbsp;<img src="skills/B01DMS44XA/skill_icon" alt="Lunch Menu for Gonzaga High School icon" width="36"> [Lunch Menu for Gonzaga High School](skills/B01DMS44XA)
+
+*Alexa, ask Sage for Gonzaga what is being served tomorrow?*
+
+Responds with the Gonzaga High School menu items for a given day
+
+***
+
 ## &nbsp;<img src="skills/B01BUAI7GM/skill_icon" alt="Lyrical icon" width="36"> [Lyrical](skills/B01BUAI7GM)
 
 *Alexa, open Lyrical.*
@@ -2000,6 +2040,14 @@ Trivia game asking questions about historical March basketball tournaments.
 *Alexa, ask Market for news*
 
 Latest news headlines from Reuters, Market Watch, Wall Street Journal, CNBC, etc.
+
+***
+
+## &nbsp;<img src="skills/B01DMZUFQS/skill_icon" alt="Martial Art Trivia icon" width="36"> [Martial Art Trivia](skills/B01DMZUFQS)
+
+*Alexa, launch martial art trivia!*
+
+Various, family friendly martial art trivia
 
 ***
 
@@ -2056,6 +2104,14 @@ Boston MBTA helper
 *Alexa, ask The Gorgons*
 
 Medusa Myth tells you many interesting facts about Medusa.
+
+***
+
+## &nbsp;<img src="skills/B01DKXAZV2/skill_icon" alt="Meh Voice icon" width="36"> [Meh Voice](skills/B01DKXAZV2)
+
+*Alexa, ask meh voice what the deal is*
+
+Ask Alexa to tell you the deal today on meh.com's website
 
 ***
 
@@ -2136,6 +2192,14 @@ Do you remember the Queen in Snow White and her awesome magic mirror? Now you ca
 *Alexa, open Missouri football*
 
 Test your knowledge of University of Missouri football. Find out if you're a true football Tiger.
+
+***
+
+## &nbsp;<img src="skills/B01DJOK2DI/skill_icon" alt="Mixologist icon" width="36"> [Mixologist](skills/B01DJOK2DI)
+
+*Alexa, ask Mixologist "How do I make an Old Fashioned?"*
+
+Search among thousands of curated cocktail recipes and get full instructions for how to make these delicious libations.
 
 ***
 
@@ -2344,6 +2408,14 @@ What's in a name? Everything! The Name Nerd tells you every name's popularity. E
 *Alexa, Launch Name That Tune*
 
 A fun trivia to name the title of a song based on a given lyric. Alexa, launch Name That Tune.
+
+***
+
+## &nbsp;<img src="skills/B01DKTNECI/skill_icon" alt="NBA stats by iknow.io icon" width="36"> [NBA stats by iknow.io](skills/B01DKTNECI)
+
+*Alexa, ask I Know NBA for Kevin Durant stats*
+
+NBA statistics, powered by iknow.io
 
 ***
 
@@ -2988,6 +3060,22 @@ Search for flight prices anywhere in the world, by conversing with Alexa.
 
 ***
 
+## &nbsp;<img src="skills/B01DLK21W0/skill_icon" alt="Snowday icon" width="36"> [Snowday](skills/B01DLK21W0)
+
+*Alexa, ask Snowday is the federal government open today?*
+
+Snowday provides information on closures/delays for various government offices, services, and schools in the Baltimore/Washington area
+
+***
+
+## &nbsp;<img src="skills/B01DKKPHL8/skill_icon" alt="Sounds icon" width="36"> [Sounds](skills/B01DKKPHL8)
+
+*Alexa ask sound effects, to play the world's smallest violin*
+
+Sound Effects is the perfect way to fill an awkward silence, spice up a boring moment, or add comedic value to a situation.
+
+***
+
 ## &nbsp;<img src="skills/B01D8IE5BU/skill_icon" alt="South American Capitals Quiz icon" width="36"> [South American Capitals Quiz](skills/B01D8IE5BU)
 
 *Alexa start South American Capitals*
@@ -3084,6 +3172,14 @@ The Echo's first and best MMORPG. Join a faction and compete with other players 
 
 ***
 
+## &nbsp;<img src="skills/B01DLDYGLQ/skill_icon" alt="Stats for FRC icon" width="36"> [Stats for FRC](skills/B01DLDYGLQ)
+
+*Alexa, ask Robot Scout how team 1902 did in their last match*
+
+Get information and stats about FIRST Robotics Compeititon Teams
+
+***
+
 ## &nbsp;<img src="skills/B01CXU7F4S/skill_icon" alt="Steely Dan Trivia Quiz icon" width="36"> [Steely Dan Trivia Quiz](skills/B01CXU7F4S)
 
 *Alexa, launch Steely Dan trivia*
@@ -3148,6 +3244,14 @@ Get the surf reports for popular surfing spots in California.
 
 ***
 
+## &nbsp;<img src="skills/B01DJCMFPI/skill_icon" alt="SwampTrivia icon" width="36"> [SwampTrivia](skills/B01DJCMFPI)
+
+*Alexa, play Swamp Trivia.*
+
+Do you think you've mastered the Swamp audio game? Test your knowledge of all things Swamp with this trivia skill.
+
+***
+
 ## &nbsp;<img src="skills/B01AU0U74S/skill_icon" alt="TDV (Teen Dating Violence) Quiz icon" width="36"> [TDV (Teen Dating Violence) Quiz](skills/B01AU0U74S)
 
 *Alexa, ask Teen Dating Violence*
@@ -3193,6 +3297,14 @@ Generates a technology statement with the latest in technology buzzwords.
 *Alexa, use keeper and start a singles match with red team's serve*
 
 Get the tennis experience of pros - coordinated match play and scoring, all your data stored, & statistics and analysis on every point you play from now on.
+
+***
+
+## &nbsp;<img src="skills/B01DL9G9NS/skill_icon" alt="Terrell Trivia icon" width="36"> [Terrell Trivia](skills/B01DL9G9NS)
+
+*Alexa, ask terrell Trivia to Start game*
+
+This is a spinoff of the trivia Skill.
 
 ***
 
@@ -3781,6 +3893,14 @@ Star Wars trivia game.
 
 ***
 
+## &nbsp;<img src="skills/B01DLQI45M/skill_icon" alt="Useless Trivia icon" width="36"> [Useless Trivia](skills/B01DLQI45M)
+
+*Alexa, open Useless Trivia*
+
+Test your trivia knowledge with this fun skill!
+
+***
+
 ## &nbsp;<img src="skills/B01CE30RSK/skill_icon" alt="Utterly Body Quiz icon" width="36"> [Utterly Body Quiz](skills/B01CE30RSK)
 
 *Alexa, Start Utterly Body Quiz.*
@@ -3818,6 +3938,14 @@ Test your knowledge of the 007 films by matching which actor played bond in each
 *Alexa, Ask Wiki Brains to tell me about Kate Middleton*
 
 Wiki Brains can read you many of the 5000 most accessed articles on the English Wikipedia  'Alexa, Ask Wiki Brains to tell me about Kate Middleton'
+
+***
+
+## &nbsp;<img src="skills/B01DL3G90M/skill_icon" alt="Wine Trivia icon" width="36"> [Wine Trivia](skills/B01DL3G90M)
+
+*Alexa, play Wine Trivia*
+
+Random wine trivia fact game
 
 ***
 

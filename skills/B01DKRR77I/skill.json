@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Reference",
-  "description": "This is a basic app that will give you some facts about IPRO and what the company does.  Soon you will be able to query the Pellucid database, and know for example which hospital has the highest Sepsis mortality rate.",
+  "description": "This is a basic app that will give you some facts about DeVito and what he does at IPRO.  Experimental app which will evolve to allow Alexa to get information from IPRO's Pellucid database. Alexa will be able to tell you, for example, which hospital has the highest Sepsis mortality rate.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Devito for a fact",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Get a fact about IPRO",
+  "shortDescription": "Get a fact about DeVito and his surroundings at his workplace.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

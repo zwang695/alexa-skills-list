@@ -5,7 +5,7 @@ To use the DEVITO FACTS skill, try saying...
 
 * *Alexa, ask Devito for a fact*
 
-This is a basic app that will give you some facts about IPRO and what the company does.  Soon you will be able to query the Pellucid database, and know for example which hospital has the highest Sepsis mortality rate.
+This is a basic app that will give you some facts about DeVito and what he does at IPRO.  Experimental app which will evolve to allow Alexa to get information from IPRO's Pellucid database. Alexa will be able to tell you, for example, which hospital has the highest Sepsis mortality rate.
 
 ***
 
