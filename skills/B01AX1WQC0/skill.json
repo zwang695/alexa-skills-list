@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01AX1WQC0",
-  "averageRating": 3,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
   "category": "Health-and-Fitness",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my dermatologist",
   "name": "My Dermatologist",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

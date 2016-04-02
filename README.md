@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 500
+**Total Skills Available:** 504
 
 ***
 
@@ -2916,6 +2916,14 @@ Roddenberry's Trek Quotes is a fun, fast, and fabulous way to reminisce about yo
 
 ***
 
+## &nbsp;<img src="skills/B01DL1OKSM/skill_icon" alt="Runtime Helper icon" width="36"> [Runtime Helper](skills/B01DL1OKSM)
+
+*Alexa, ask Runtime Helper what is the run time of an array?*
+
+Know thy complexities!
+
+***
+
 ## &nbsp;<img src="skills/B01DF3DT8I/skill_icon" alt="S.L.P. Praxis Review icon" width="36"> [S.L.P. Praxis Review](skills/B01DF3DT8I)
 
 *Alexa, start S.L.P. Review*
@@ -2945,6 +2953,14 @@ Alexa knows all about elements of the periodic table. Ask Alexa to share her kno
 *Alexa, ask Santa where is he?*
 
 Keep track of Santa on Christmas eve, find out if you’re on the nice list, and hear fun facts with Santa’s Helper. Just ask “Alexa, ask Santa, where are you?"
+
+***
+
+## &nbsp;<img src="skills/B01DNN4EI4/skill_icon" alt="Sary's Trivia Game icon" width="36"> [Sary's Trivia Game](skills/B01DNN4EI4)
+
+*Alexa ask Trivia about Sary*
+
+Alexa Trivia game about Sary
 
 ***
 
@@ -3060,6 +3076,14 @@ Search for flight prices anywhere in the world, by conversing with Alexa.
 
 ***
 
+## &nbsp;<img src="skills/B01DO6OLW4/skill_icon" alt="SMS With Molly icon" width="36"> [SMS With Molly](skills/B01DO6OLW4)
+
+*Alexa, ask SMS With Molly to text John "I'm back"*
+
+Send Free Text Messages With Amazon Echo.
+
+***
+
 ## &nbsp;<img src="skills/B01DLK21W0/skill_icon" alt="Snowday icon" width="36"> [Snowday](skills/B01DLK21W0)
 
 *Alexa, ask Snowday is the federal government open today?*
@@ -3161,6 +3185,14 @@ Star Trivia is an out of this world experience for the whole family. It's both f
 *“Alexa, Start Star Wars Quiz"*
 
 How well do you know the Star Wars Galaxy? Test your knowledge against trivia questions from Classic Star Wars films as well as The Force Awakens
+
+***
+
+## &nbsp;<img src="skills/B01DKP0BT6/skill_icon" alt="Starfish Fit icon" width="36"> [Starfish Fit](skills/B01DKP0BT6)
+
+*Alexa, ask starfish fit for calories used today*
+
+This skill links up with your google fit account and then you can play all your activities data for the day. It relies on user having google fit account.
 
 ***
 
