@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 504
+**Total Skills Available:** 505
 
 ***
 
@@ -188,6 +188,14 @@ Have at you, knave! The Angry Bard skill is ready to throw barbs from the Bard a
 *Alexa, start angular trivia*
 
 A quiz for angular developers about the architecture.
+
+***
+
+## &nbsp;<img src="skills/B01DN0KHM4/skill_icon" alt="Animal Alphabet icon" width="36"> [Animal Alphabet](skills/B01DN0KHM4)
+
+*Alexa, play Animal Alphabet.*
+
+The Animal Alphabet game.
 
 ***
 

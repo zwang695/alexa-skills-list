@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DJKKVLA",
-  "averageRating": 0,
+  "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
   "category": "Sports",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "march madness trivia",
   "name": "March Madness Trivia",
-  "numberOfReviews": 0,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
