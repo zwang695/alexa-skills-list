@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 518
+**Total Skills Available:** 524
 
 ***
 
@@ -156,6 +156,14 @@ Control your Alarm.com system with your voice.
 *Alexa, ask the 8 ball whether the Cubs will ever win the World Series*
 
 The All Knowing 8 Ball can answer life's vexing questions for you, without all that shaking and blue dye getting everywhere.
+
+***
+
+## &nbsp;<img src="skills/B01DKH76EC/skill_icon" alt="ALOP-Pilates-Class-Skill icon" width="36"> [ALOP-Pilates-Class-Skill](skills/B01DKH76EC)
+
+*Alexa, start pilates class*
+
+Take a pilates class from ALotOfPilates.com. Get ready to feel great!
 
 ***
 
@@ -784,6 +792,14 @@ Chili Pepper Nut is fun trivia about chili peppers.
 
 ***
 
+## &nbsp;<img src="skills/B01DKZSOKO/skill_icon" alt="Chimani icon" width="36"> [Chimani](skills/B01DKZSOKO)
+
+*Alexa, ask Chimani what are the ranger events today.*
+
+This skill allows Alexa to tell you the ranger events happening the Chimani parks on a given date.
+
+***
+
 ## &nbsp;<img src="skills/B019YJIY4G/skill_icon" alt="Christmas Caroler icon" width="36"> [Christmas Caroler](skills/B019YJIY4G)
 
 *Alexa, tell Christmas Caroler to spread holiday cheer.*
@@ -901,6 +917,14 @@ Covisint Trivia is a game that will test your knowledge about the Covisint compa
 *Alexa, ask Craft Helper what's the recipe for a saddle.*
 
 Can't remember exactly how to craft an enchantment table or a dropper in Minecraft? Craft helper can give you the recipe fast, and all you need is your voice.
+
+***
+
+## &nbsp;<img src="skills/B01DRWRFLO/skill_icon" alt="Cricket Fact Skill icon" width="36"> [Cricket Fact Skill](skills/B01DRWRFLO)
+
+*Alexa Open Cricket Geek*
+
+Amazing Facts about cricket which you will be astonished to know and a great learning experience about cricket facts.
 
 ***
 
@@ -1962,6 +1986,14 @@ Get an inspirational message from the LDS Daily Message Alexa App
 
 ***
 
+## &nbsp;<img src="skills/B01DR9XVQK/skill_icon" alt="Lets Add icon" width="36"> [Lets Add](skills/B01DR9XVQK)
+
+*Alexa, open let's add*
+
+Let's Add is a skill that quizzes you on addition problems.  You can specify how high you want the questions to go, up to twenty plus twenty.
+
+***
+
 ## &nbsp;<img src="skills/B01BXAMWN8/skill_icon" alt="Lets Multiply icon" width="36"> [Lets Multiply](skills/B01BXAMWN8)
 
 *Alexa, open let's multiply*
@@ -2612,6 +2644,14 @@ Based on the Standard Days Method by Georgetown University.
 
 ***
 
+## &nbsp;<img src="skills/B01DQG4F0A/skill_icon" alt="Phish Geek icon" width="36"> [Phish Geek](skills/B01DQG4F0A)
+
+*Alexa, open Phish Geek*
+
+Phish Geek Phish Facts
+
+***
+
 ## &nbsp;<img src="skills/B0194CJ63Q/skill_icon" alt="Phone Finder for Alexa icon" width="36"> [Phone Finder for Alexa](skills/B0194CJ63Q)
 
 *Alexa, open Phone Finder*
@@ -2769,6 +2809,14 @@ Quiz questions about prime numbers
 *Alexa, open Project Plus Quiz.*
 
 Sharpen your Project+ knowledge or supplement your certification preparation with the assistance of this practice quiz.
+
+***
+
+## &nbsp;<img src="skills/B01DPVOR9K/skill_icon" alt="Promptly icon" width="36"> [Promptly](skills/B01DPVOR9K)
+
+*Alexa, ask Promptly for the current prompt*
+
+Jump start your creativity with weekly writing prompts
 
 ***
 
