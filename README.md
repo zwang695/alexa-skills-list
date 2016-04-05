@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 505
+**Total Skills Available:** 518
 
 ***
 
@@ -672,6 +672,14 @@ Have Alexa call the hogs by saying:   "Alexa, Start Calling the Hogs".  Alexa wi
 
 ***
 
+## &nbsp;<img src="skills/B01DNY0L0I/skill_icon" alt="Caltrain icon" width="36"> [Caltrain](skills/B01DNY0L0I)
+
+*Alexa, Ask Caltrain when is the next train from Palo Alto to San Francisco*
+
+Caltrain - Realtime Schedule
+
+***
+
 ## &nbsp;<img src="skills/B017OBWHCQ/skill_icon" alt="Campbell's Kitchen icon" width="36"> [Campbell's Kitchen](skills/B017OBWHCQ)
 
 *Alexa, ask Campbell's Kitchen what's for dinner*
@@ -709,6 +717,14 @@ Capital Quiz helps you practice and then quizzes you on the names of the capital
 *Alexa, ask capital trivia*
 
 World Capital Trivia
+
+***
+
+## &nbsp;<img src="skills/B01DJLSOO0/skill_icon" alt="Car Facts icon" width="36"> [Car Facts](skills/B01DJLSOO0)
+
+*Alexa, Open Car Facts*
+
+Fun and interesting fact about an everyday tool, your car!
 
 ***
 
@@ -1240,6 +1256,14 @@ Get the latest, up to the minute, currency exchange rates
 
 ***
 
+## &nbsp;<img src="skills/B01DK38RPI/skill_icon" alt="Existential Despair icon" width="36"> [Existential Despair](skills/B01DK38RPI)
+
+*Alexa, tell me some despair*
+
+Listen to Alexa speak famous quotes of utter despair. And then cry along with her.
+
+***
+
 ## &nbsp;<img src="skills/B01DC0VZZI/skill_icon" alt="Expense Tracker icon" width="36"> [Expense Tracker](skills/B01DC0VZZI)
 
 *Alexa, tell Expense Tracker that I paid 10 dollars for food.*
@@ -1714,6 +1738,14 @@ House Band allows you to access your JRiver Media Center music server. You can p
 
 ***
 
+## &nbsp;<img src="skills/B01DLC6YLM/skill_icon" alt="Howzzat! T20 Cricket Trivia icon" width="36"> [Howzzat! T20 Cricket Trivia](skills/B01DLC6YLM)
+
+*Alexa, launch Cricket Trivia*
+
+Howzzat! T20 Cricket Trivia is a fun way to test your T20 Cricket knowledge
+
+***
+
 ## &nbsp;<img src="skills/B018WNJQ74/skill_icon" alt="HuffPost icon" width="36"> [HuffPost](skills/B018WNJQ74)
 
 *"Alexa, open HuffPost” (To hear latest news headlines for today)*
@@ -2026,6 +2058,14 @@ A fun Magic Eight Ball prediction skill.
 
 ***
 
+## &nbsp;<img src="skills/B01DOHAN1Q/skill_icon" alt="Magic Mirror icon" width="36"> [Magic Mirror](skills/B01DOHAN1Q)
+
+*Alexa, ask Magic Mirror on the wall, who is the fairest one of all?*
+
+Wake up every morning and find out who the fairest one in all the land is! Simple say, "Alexa, ask Magic Mirror on the wall, who is the fairest one of all?"
+
+***
+
 ## &nbsp;<img src="skills/B01D28TLRY/skill_icon" alt="Malayala Manorama icon" width="36"> [Malayala Manorama](skills/B01D28TLRY)
 
 *Alexa, ask manorama for kerala news*
@@ -2107,6 +2147,14 @@ Boston MBTA helper
 
 ***
 
+## &nbsp;<img src="skills/B01DN2JN9U/skill_icon" alt="MeatButler icon" width="36"> [MeatButler](skills/B01DN2JN9U)
+
+*Alexa, ask Meat Butler to help me prepare steak?*
+
+This butler tells the perfect internal temperature to achieve when cooking based on your meat and doneness preferences.
+
+***
+
 ## &nbsp;<img src="skills/B01DJNFHWK/skill_icon" alt="Medusa Myth icon" width="36"> [Medusa Myth](skills/B01DJNFHWK)
 
 *Alexa, ask The Gorgons*
@@ -2160,6 +2208,14 @@ Want to know if there are delays on the Red Line?  Could weekend construction de
 *Alexa, play mid century trivia*
 
 A trivia game about iconic mid century designers.
+
+***
+
+## &nbsp;<img src="skills/B01DONMT6W/skill_icon" alt="Middle Earth Trivia icon" width="36"> [Middle Earth Trivia](skills/B01DONMT6W)
+
+*Alexa open Trivia on Middle Earth*
+
+A multiple-choice trivia game to challenging everything you think you know about Middle Earth.
 
 ***
 
@@ -2692,6 +2748,14 @@ This is a multiple-choice trivia game to challenge what you know and help you le
 
 ***
 
+## &nbsp;<img src="skills/B01DOX4U4Q/skill_icon" alt="Presidents Trivia icon" width="36"> [Presidents Trivia](skills/B01DOX4U4Q)
+
+*Alexa, launch Presidents*
+
+Hail to the Chief! Test your knowledge in this trivia game about US presidents past and present.
+
+***
+
 ## &nbsp;<img src="skills/B01D0HZVZS/skill_icon" alt="Prime Numbers icon" width="36"> [Prime Numbers](skills/B01D0HZVZS)
 
 *Alexa, ask prime numbers*
@@ -2884,6 +2948,14 @@ Read the color bands off a resistor and Resistor Decoder will tell you its value
 
 ***
 
+## &nbsp;<img src="skills/B01DLAUR3K/skill_icon" alt="Restaurant Recommendations icon" width="36"> [Restaurant Recommendations](skills/B01DLAUR3K)
+
+*Alexa, ask Restaurant Recommendations: recommend a Thai place in Seattle*
+
+Don't know where to go for dinner tonight? Let Alexa help by providing local, highly rated restaurant suggestions!
+
+***
+
 ## &nbsp;<img src="skills/B01BMV3BS8/skill_icon" alt="RhymeZone icon" width="36"> [RhymeZone](skills/B01BMV3BS8)
 
 *Alexa, ask RhymeZone what rhymes with banana?*
@@ -2913,6 +2985,14 @@ Trivia contest for European rivers.  Test your knowledge of European rivers.  It
 *Alexa, open lizard spock*
 
 Alexa can play the Rock Paper Scissors Lizard Spock game. Ask Alexa to play a game with you and you will see how good are you in this game.
+
+***
+
+## &nbsp;<img src="skills/B01DOED528/skill_icon" alt="RockBot icon" width="36"> [RockBot](skills/B01DOED528)
+
+*Alexa, ask The Rock to motivate me.*
+
+Motivation, Reflection, and Insults from the world's greatest action hero Dwayne "The Rock" Johnson.
 
 ***
 
@@ -3009,6 +3089,14 @@ Ask Alexa for a Science Fact!
 *Alexa, ask Scout to arm home mode.*
 
 Controlling your Scout security system has never been easier. Ask Alexa to arm and disarm, retrieve recent activities, or check in on the status of a sensor.
+
+***
+
+## &nbsp;<img src="skills/B01DN47ITU/skill_icon" alt="SCUBA Diving Trivia icon" width="36"> [SCUBA Diving Trivia](skills/B01DN47ITU)
+
+*Alexa, ask Space Geek for a scuba fact*
+
+SCUBA trivia list based on the Space Geek Fact Skill
 
 ***
 
@@ -3425,6 +3513,14 @@ The Listeners is a poetic performance offering a simple interaction with Alexa: 
 *Alexa, open the magic door*
 
 Choose your own adventure beyond the magic door. Fairies, gnomes, gods, and treasure await you as you explore the various lands. Easter Special: Easter Egg Hunt
+
+***
+
+## &nbsp;<img src="skills/B01DOVQID4/skill_icon" alt="The Masters Trivia icon" width="36"> [The Masters Trivia](skills/B01DOVQID4)
+
+*Alexa, play The Masters Trivia*
+
+Test your knowledge of the Masters tournament.
 
 ***
 
@@ -3962,6 +4058,14 @@ Control your Vivint smart home (for Vivint Sky consumers only) with easy-to-use 
 *Alexa, open wake up call*
 
 Daily Wake Up Call by Sean Bauer
+
+***
+
+## &nbsp;<img src="skills/B01DOQ1ZMS/skill_icon" alt="Walking Horse Fact Skill icon" width="36"> [Walking Horse Fact Skill](skills/B01DOQ1ZMS)
+
+*Alexa, Open Horse Geek*
+
+Tennessee Walking Horse Facts
 
 ***
 

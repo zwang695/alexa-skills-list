@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DM4C8VY",
-  "averageRating": 0,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": "Education",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "fraction calculator",
   "name": "Fraction Calculator",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="NBC News icon" width="36"> NBC News
-![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the NBC News skill, try saying...
 
