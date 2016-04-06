@@ -8,8 +8,8 @@
   "description": "Alexa trivia game quizzes you on personal and intimate questions about Sary's life. Only those who really know Sary will get 5/5 correct.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa ask Trivia about Sary",
-    "Repeat",
+    "Alexa, ask Trivia about Sary",
+    "Alexa, start Trivia about Sary",
     "Help"
   ],
   "firstReleaseDate": 1459558959.025,

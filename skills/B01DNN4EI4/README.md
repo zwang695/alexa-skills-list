@@ -3,9 +3,9 @@
 
 To use the Sary's Trivia Game skill, try saying...
 
-* *Alexa ask Trivia about Sary*
+* *Alexa, ask Trivia about Sary*
 
-* *Repeat*
+* *Alexa, start Trivia about Sary*
 
 * *Help*
 

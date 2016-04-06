@@ -9,7 +9,7 @@ To use the NBC News skill, try saying...
 
 * *Alexa, ask NBC News when is the next debate?*
 
-Stay up to date with NBC News for the 2016 United States presidential elections. Keep informed with all things elections including primary and caucus results as they become available, candidate bios, top headlines, how your favorite candidate is doing, when the primary or caucus is in a given state, when the next debate is, who has dropped out, and on-going updates.
+Stay up to date with NBC News for the 2016 United States presidential elections. Keep informed with all things elections including primary and caucus results as they become available, the latest news recap, candidate bios, top headlines, how your favorite candidate is doing, when the primary or caucus is in a given state, when the next debate is, who has dropped out, and on-going updates.
 
 ***
 

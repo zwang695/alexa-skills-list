@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 524
+**Total Skills Available:** 544
 
 ***
 
@@ -343,6 +343,14 @@ Celebrate a goal - or anything else - with a classic audio "GOOOOOL" sound.
 
 ***
 
+## &nbsp;<img src="skills/B01DSMSY7C/skill_icon" alt="Aussie Facts icon" width="36"> [Aussie Facts](skills/B01DSMSY7C)
+
+*Alexa, Open Aussie Fact*
+
+Learn about the exciting continent in the south called Australia.
+
+***
+
 ## &nbsp;<img src="skills/B017OJL1IE/skill_icon" alt="Automatic icon" width="36"> [Automatic](skills/B017OJL1IE)
 
 *Alexa, ask Automatic where my car is.*
@@ -468,6 +476,14 @@ Alexa shows off her beat-boxing skills.  Ask for a beat by name ("phat", "old sc
 *Alexa, ask the dealer to deal the cards.*
 
 Beat the dealer in this game of Blackjack.
+
+***
+
+## &nbsp;<img src="skills/B01DJI0RY8/skill_icon" alt="Beer Geek icon" width="36"> [Beer Geek](skills/B01DJI0RY8)
+
+*Alexa, ask beer geek to tell me a beer fact!*
+
+Ask beer geek for a beer fact!
 
 ***
 
@@ -725,6 +741,14 @@ Capital Quiz helps you practice and then quizzes you on the names of the capital
 *Alexa, ask capital trivia*
 
 World Capital Trivia
+
+***
+
+## &nbsp;<img src="skills/B01DTY10TI/skill_icon" alt="Capitals and Countries icon" width="36"> [Capitals and Countries](skills/B01DTY10TI)
+
+*Alexa launch capitals and countries*
+
+This trivia game tests your knowledge of capitals and countries of the world.
 
 ***
 
@@ -997,6 +1021,14 @@ Keep track of your daily step count and calories burned by accessing your Google
 *Alexa, ask Currency Converter to convert twenty dollars to euros*
 
 Alexa is able to convert 10 kind of currencies from the world and tell you the current currency exchange too. Ask Alexa to convert from one currency to another.
+
+***
+
+## &nbsp;<img src="skills/B01DO8TXSO/skill_icon" alt="CurrencyGuy icon" width="36"> [CurrencyGuy](skills/B01DO8TXSO)
+
+*Alexa, ask Currency Guy what is the rate of USD to CNY*
+
+Currency Guy can get you the exchange rate between two specified currencies based on today's date.
 
 ***
 
@@ -1384,6 +1416,14 @@ Focus Word provides an inspirational word and statement about the word to serve 
 
 ***
 
+## &nbsp;<img src="skills/B01DTGEX7C/skill_icon" alt="Foodie Trivia icon" width="36"> [Foodie Trivia](skills/B01DTGEX7C)
+
+*Alexa, start foodie trivia*
+
+A trivia game for foodies
+
+***
+
 ## &nbsp;<img src="skills/B01B5BPOI0/skill_icon" alt="Football Trivia icon" width="36"> [Football Trivia](skills/B01B5BPOI0)
 
 *Alexa, open Football Trivia*
@@ -1543,6 +1583,14 @@ Listen carefully and  answer to  the questions about the world's geography,
 *Alexa, open Geography Trivia*
 
 Geography Trivia is a challenging quiz game in which you have to prove your knowledge about the various cities of the world.
+
+***
+
+## &nbsp;<img src="skills/B01DLKCICI/skill_icon" alt="Georgia Trivia icon" width="36"> [Georgia Trivia](skills/B01DLKCICI)
+
+*Alexa, launch Georgia Trivia*
+
+Learn more about Georgia by playing this trivia game.
 
 ***
 
@@ -2131,6 +2179,14 @@ Various, family friendly martial art trivia
 
 ***
 
+## &nbsp;<img src="skills/B01DR1AJNG/skill_icon" alt="Math Fun icon" width="36"> [Math Fun](skills/B01DR1AJNG)
+
+*Alexa, start math fun.*
+
+Fun math learning app for First Graders.
+
+***
+
 ## &nbsp;<img src="skills/B018UWJO10/skill_icon" alt="Math Kata icon" width="36"> [Math Kata](skills/B018UWJO10)
 
 *Alexa, tell Math Kata to start an easy addition game.*
@@ -2459,6 +2515,14 @@ A simple scratchpad of things you want to remember, and what day you did them.
 
 ***
 
+## &nbsp;<img src="skills/B01DR9DH2S/skill_icon" alt="myBibleFactSkill icon" width="36"> [myBibleFactSkill](skills/B01DR9DH2S)
+
+*Alexa open Bible geek*
+
+Select this skill for interesting Bible facts.
+
+***
+
 ## &nbsp;<img src="skills/B01BL06CC2/skill_icon" alt="mydlink Home icon" width="36"> [mydlink Home](skills/B01BL06CC2)
 
 *Alexa, ask my dee link to turn off bedroom light.*
@@ -2587,6 +2651,22 @@ Ask me New York City subway status.
 
 ***
 
+## &nbsp;<img src="skills/B01DLMFW06/skill_icon" alt="OC Transpo icon" width="36"> [OC Transpo](skills/B01DLMFW06)
+
+*Alexa, ask Oh See Transpo when is the next route 95 at halt 3047*
+
+OC Transpo
+
+***
+
+## &nbsp;<img src="skills/B01DJHFHNU/skill_icon" alt="Odd Facts icon" width="36"> [Odd Facts](skills/B01DJHFHNU)
+
+*Alexa, launch Odd Facts*
+
+Odd Facts is a fact list created from the Space Geek template.
+
+***
+
 ## &nbsp;<img src="skills/B01DC4OET8/skill_icon" alt="OEIS-Skill icon" width="36"> [OEIS-Skill](skills/B01DC4OET8)
 
 *Alexa, ask o. e. i. s. for a nice sequence*
@@ -2619,11 +2699,19 @@ With this skill you will never have to guess when your package is arriving. You 
 
 ***
 
+## &nbsp;<img src="skills/B01DQ12PQ6/skill_icon" alt="PCMag Product and News Assistant icon" width="36"> [PCMag Product and News Assistant](skills/B01DQ12PQ6)
+
+*Alexa, ask PCMag which printer should I buy.*
+
+Product recommendations and reviews for thousands of popular products.
+
+***
+
 ## &nbsp;<img src="skills/B01DNZK616/skill_icon" alt="PebbleSpot Family Practice Board Review icon" width="36"> [PebbleSpot Family Practice Board Review](skills/B01DNZK616)
 
 *Alexa, ask board review questions.*
 
-Family Practice Board Review Quiz
+Pass your Family Medicine boards!  Have Alexa ask you board review questions so you can ace the test.
 
 ***
 
@@ -2673,6 +2761,14 @@ A quiz to test you knowledge in Physics
 *Alexa, Play Pi Day*
 
 How many digits of pi can you recite before time runs out?
+
+***
+
+## &nbsp;<img src="skills/B01DPWUOAK/skill_icon" alt="Pi Reader icon" width="36"> [Pi Reader](skills/B01DPWUOAK)
+
+*Alexa, ask Pi Reader  to read digits of pi*
+
+Alexa well read the first thousand digits of pi.To start say"Alexa ask Pi reader to read digits of pi"
 
 ***
 
@@ -3094,7 +3190,7 @@ Keep track of Santa on Christmas eve, find out if you’re on the nice list, and
 
 ## &nbsp;<img src="skills/B01DNN4EI4/skill_icon" alt="Sary's Trivia Game icon" width="36"> [Sary's Trivia Game](skills/B01DNN4EI4)
 
-*Alexa ask Trivia about Sary*
+*Alexa, ask Trivia about Sary*
 
 Alexa Trivia game about Sary
 
@@ -3180,6 +3276,14 @@ Count sheep before bed! Guaranteed to give you a laugh.
 
 ***
 
+## &nbsp;<img src="skills/B01DJCJTZ2/skill_icon" alt="Short Bedtime Story icon" width="36"> [Short Bedtime Story](skills/B01DJCJTZ2)
+
+*Alexa, tell Bed Time Story to Debbie*
+
+Have Alexa tell a short bedtime story.
+
+***
+
 ## &nbsp;<img src="skills/B017OBXIEC/skill_icon" alt="Shower Thoughts icon" width="36"> [Shower Thoughts](skills/B017OBXIEC)
 
 *Alexa, open Shower Thoughts.*
@@ -3233,6 +3337,14 @@ Send Free Text Messages With Amazon Echo.
 *Alexa, ask Snowday is the federal government open today?*
 
 Snowday provides information on closures/delays for various government offices, services, and schools in the Baltimore/Washington area
+
+***
+
+## &nbsp;<img src="skills/B01DL0XYVW/skill_icon" alt="Sorting Game for Harry Potter icon" width="36"> [Sorting Game for Harry Potter](skills/B01DL0XYVW)
+
+*Alexa, open Sorting Game*
+
+Answer questions to find out which of the four Hogwarts houses you belong!
 
 ***
 
@@ -3372,6 +3484,14 @@ Real-time stock quotes from NASDAQ and NYSE, market summaries from S&P 500, DJIA
 
 ***
 
+## &nbsp;<img src="skills/B01DKO07TQ/skill_icon" alt="Stock Market Sensei icon" width="36"> [Stock Market Sensei](skills/B01DKO07TQ)
+
+*Alexa, ask Stock Market Sensei how does AMZN look today.*
+
+Stock Market Sensei is the #1 Daily Stock Prediction Platform. Get any stock's likely low,high,opening & closing prices - daily.
+
+***
+
 ## &nbsp;<img src="skills/B01AS5F902/skill_icon" alt="StoneRidgeFood icon" width="36"> [StoneRidgeFood](skills/B01AS5F902)
 
 *Alexa, Ask Stone Ridge Food what are they serving today*
@@ -3425,6 +3545,14 @@ Get the surf reports for popular surfing spots in California.
 *Alexa, play Swamp Trivia.*
 
 Do you think you've mastered the Swamp audio game? Test your knowledge of all things Swamp with this trivia skill.
+
+***
+
+## &nbsp;<img src="skills/B01DMTR72Y/skill_icon" alt="SwedenFactSkill icon" width="36"> [SwedenFactSkill](skills/B01DMTR72Y)
+
+*Alexa, ask Safety Swede to tell me a Sweden fact*
+
+Learn quick facts about Sweden.
 
 ***
 
@@ -3585,6 +3713,14 @@ Alexa alexa bo-balexa, banana-fana fo-falexa, fee fi fo-malexa, Alexa!
 *Alexa, ask Name Game for Gary.*
 
 Play the Name Game song
+
+***
+
+## &nbsp;<img src="skills/B01DR1A9I6/skill_icon" alt="The Norwegian Quiz icon" width="36"> [The Norwegian Quiz](skills/B01DR1A9I6)
+
+*Alexa, ask Norse Talk*
+
+'Norse Talk' is a Quiz about Norway and Norwegians.
 
 ***
 
@@ -4093,11 +4229,27 @@ A family friendly trivia quiz about the human body.
 
 ***
 
+## &nbsp;<img src="skills/B01DPVVCLG/skill_icon" alt="Verbivore icon" width="36"> [Verbivore](skills/B01DPVVCLG)
+
+*Alexa, ask Verbivore for the word of the day*
+
+Broaden your vocabulary with Verbivore. This skill, perfect for scholars, educators and logophiles alike, allows Alexa to teach you a cool, new word every day.
+
+***
+
 ## &nbsp;<img src="skills/B01A6ACVD2/skill_icon" alt="Vivint.SmartHome icon" width="36"> [Vivint.SmartHome](skills/B01A6ACVD2)
 
 *Alexa, tell Vivint to lock my doors*
 
 Control your Vivint smart home (for Vivint Sky consumers only) with easy-to-use voice commands
+
+***
+
+## &nbsp;<img src="skills/B01DOKTTOU/skill_icon" alt="VoicePod icon" width="36"> [VoicePod](skills/B01DOKTTOU)
+
+*Alexa, ask voice pod to turn on the overhead lights*
+
+The VoicePod skill lets you control and interact with the Control4 home automation system. Control lights, shades, AV, scenes and more!
 
 ***
 
@@ -4114,6 +4266,14 @@ Daily Wake Up Call by Sean Bauer
 *Alexa, Open Horse Geek*
 
 Tennessee Walking Horse Facts
+
+***
+
+## &nbsp;<img src="skills/B01DL568EM/skill_icon" alt="Whale Trivia icon" width="36"> [Whale Trivia](skills/B01DL568EM)
+
+*Alexa, ask whale trivia for a new game.*
+
+Trivia game about whales
 
 ***
 

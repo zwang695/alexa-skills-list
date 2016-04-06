@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DKME59G",
-  "averageRating": 5,
+  "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
   "category": "Sports",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "college basketball trivia",
   "name": "College Basketball Trivia",
-  "numberOfReviews": 1,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

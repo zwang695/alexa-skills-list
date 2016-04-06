@@ -5,11 +5,7 @@ To use the PebbleSpot Family Practice Board Review skill, try saying...
 
 * *Alexa, ask board review questions.*
 
-* *Explanation*
-
-* *Next*
-
-Quiz yourself and prepare for the Family Practice Board Exam!  This app uses the questions you have available from the American Board of Family Medicine (ABMF) 2015 In-Service Training Exam (ITE).  It will quiz you on random questions, keep track of your score, and explain the answers to the questions you don't understand.
+Quiz yourself and prepare for the Family Medicine Board Exam!  This app uses the questions from the American Board of Family Medicine (ABFM) 2015 In-Service Training Exam (ITE).  It will quiz you on random questions, keep track of your score, and explain the answers to the questions you don't understand.
 
 ***
 

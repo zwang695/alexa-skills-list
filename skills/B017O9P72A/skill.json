@@ -4,7 +4,7 @@
     "fonts.googleapis.com"
   ],
   "asin": "B017O9P72A",
-  "averageRating": 2.1,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
   "category": "Home-Automation",
@@ -24,7 +24,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "life x",
   "name": "LIFX",
-  "numberOfReviews": 48,
+  "numberOfReviews": 49,
   "pamsPartnerId": "Sn4BIlykQrmBuTwaNxBSLKx35",
   "permissions": null,
   "privacyPolicyUrl": "http://www.lifx.com/pages/legals",
