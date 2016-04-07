@@ -5,11 +5,11 @@ To use the Flavor Text for Hearthstone skill, try saying...
 
 * *Alexa, open Flavor Text*
 
-* *Read me some flavor text*
+* *Read me something*
 
-* *Read me some legendary flavor text*
+* *Read me something legendary*
 
-Love to play Hearthstone? But don't have the time to browse your huge collection of cards? No problem! Hearthstone Flavor Text will read the flavor text from a random Hearthstone card to you.
+Love to play Hearthstone? But don't have the time to browse your huge collection of cards? No problem! Flavor Text for Hearthstone will read the flavor text from a random Hearthstone card to you.
 
 ***
 

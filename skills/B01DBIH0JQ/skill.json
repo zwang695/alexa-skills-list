@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Entertainment",
-  "description": "Love to play Hearthstone? But don't have the time to browse your huge collection of cards? No problem! Hearthstone Flavor Text will read the flavor text from a random Hearthstone card to you.",
+  "description": "Love to play Hearthstone? But don't have the time to browse your huge collection of cards? No problem! Flavor Text for Hearthstone will read the flavor text from a random Hearthstone card to you.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open Flavor Text",
-    "Read me some flavor text",
-    "Read me some legendary flavor text"
+    "Read me something",
+    "Read me something legendary"
   ],
   "firstReleaseDate": 1458715701.417,
   "homepageLinkText": null,

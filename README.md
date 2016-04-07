@@ -631,6 +631,14 @@ Find out the status of MBTA public transit (subway, Silver, and commuter line st
 
 ***
 
+## &nbsp;<img src="skills/B01DJXEA14/skill_icon" alt="BoxOffice icon" width="36"> [BoxOffice](skills/B01DJXEA14)
+
+*Alexa, ask Box Office what's the rating of Titanic*
+
+This skill helps to find movie ratings. It tells you rating on a scale of 10. Where 10 is the highest and 0 is the lowest score ratings can have.
+
+***
+
 ## &nbsp;<img src="skills/B01DAH9TSS/skill_icon" alt="Brain of Things Control icon" width="36"> [Brain of Things Control](skills/B01DAH9TSS)
 
 *Alexa, tell brain of things to open the curtains*
@@ -2384,14 +2392,6 @@ Talk to your car with the Amazon Echo skill by Mojio. Connect your Alexa and Moj
 *Alexa, ask Mosaic for good morning*
 
 Connecting the Internet of Things to your voice.
-
-***
-
-## &nbsp;<img src="skills/B01CO7QRZS/skill_icon" alt="Mother Goose for Nest icon" width="36"> [Mother Goose for Nest](skills/B01CO7QRZS)
-
-*Alexa, ask nest for status*
-
-Mother Goose for Nest Control
 
 ***
 
