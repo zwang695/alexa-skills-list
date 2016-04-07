@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 544
+**Total Skills Available:** 554
 
 ***
 
@@ -180,6 +180,14 @@ Always Sunny in Philadelphia Trivia Game!
 *Alexa, ask Word Master to play a game*
 
 Word Master is an interactive way to learn and challenge yourself with words, while having fun with competing scores. Score higher to win!
+
+***
+
+## &nbsp;<img src="skills/B01DQ7QONU/skill_icon" alt="Ancient China Facts icon" width="36"> [Ancient China Facts](skills/B01DQ7QONU)
+
+*Alexa, launch ancient china facts*
+
+some facts on ancient China
 
 ***
 
@@ -387,7 +395,7 @@ Ask about the popularity of names in the US going back to 1880!
 
 *Alexa ask baby stats to add poo*
 
-Baby stats is a skill that allows Alexa to count stats for your babies diapers (wet and stool), and meals. You can then ask Alexa to get the stats for a day .
+Baby stats is a skill that counts stats for your babies diapers (wet and stool), and meals. You can then ask Alexa to get stats or ask when the last diaper was.
 
 ***
 
@@ -776,6 +784,14 @@ Cat Facts is the premier skill for feline fun.
 
 ***
 
+## &nbsp;<img src="skills/B01DQ7ZNBY/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01DQ7ZNBY)
+
+*Alexa, open cat facts.*
+
+Hundreds of purrfect cat facts for any occasion.
+
+***
+
 ## &nbsp;<img src="skills/B01DBH0L3Y/skill_icon" alt="Cat Genius icon" width="36"> [Cat Genius](skills/B01DBH0L3Y)
 
 *Alexa, open Cat Genius!*
@@ -805,6 +821,14 @@ Cat Facts Trivia - test your knowledge of cat facts!
 *Alexa open cheer lights*
 
 Find out what color the World feels like right now.
+
+***
+
+## &nbsp;<img src="skills/B01DOQ5LTG/skill_icon" alt="Chemistry Genie icon" width="36"> [Chemistry Genie](skills/B01DOQ5LTG)
+
+*Alexa, ask the chemistry genie to start game*
+
+Chemistry Genie helps students to revise their knowledge of the elements in the periodic table.
 
 ***
 
@@ -877,6 +901,14 @@ Test your College Basketball knowledge with a series of trivia questions surroun
 *Alexa, open combat and hit the dragon with my sword*
 
 The Combat skill will allow you to engage in any sort of conflict with entertaining results!
+
+***
+
+## &nbsp;<img src="skills/B01DQCN5HI/skill_icon" alt="Comedy Dog icon" width="36"> [Comedy Dog](skills/B01DQCN5HI)
+
+*Alexa, open Comedy Dog.*
+
+Comedy Dog is here to entertain you with a series of excellent jokes.
 
 ***
 
@@ -981,6 +1013,14 @@ How well do you know your cricket? Take this to find out.
 *Alexa, ask Cricket Quiz*
 
 Cricket quiz to have fun with all cricket lovers and to test their knowledge about cricket!!
+
+***
+
+## &nbsp;<img src="skills/B01DM6BDCC/skill_icon" alt="Cricket Quizzer icon" width="36"> [Cricket Quizzer](skills/B01DM6BDCC)
+
+*Alexa, launch cricket quizzer*
+
+Cricket is build to test the knowledge in Cricket. It is a great fun knowing about the Cricket.
 
 ***
 
@@ -2587,6 +2627,14 @@ NBC News 2016 United States presidential elections information.
 
 ***
 
+## &nbsp;<img src="skills/B01DT4HAQK/skill_icon" alt="Nerd Quiz icon" width="36"> [Nerd Quiz](skills/B01DT4HAQK)
+
+*Alexa, ask Nerd Quiz to start a new game.*
+
+Test your video game knowledge with this fun video game quiz!
+
+***
+
 ## &nbsp;<img src="skills/B018FCGE18/skill_icon" alt="News By Linkboard icon" width="36"> [News By Linkboard](skills/B018FCGE18)
 
 *Alexa, ask Linkboard to search news about [a topic].*
@@ -2769,6 +2817,16 @@ How many digits of pi can you recite before time runs out?
 *Alexa, ask Pi Reader  to read digits of pi*
 
 Alexa well read the first thousand digits of pi.To start say"Alexa ask Pi reader to read digits of pi"
+
+***
+
+## &nbsp;<img src="skills/B01DRDVTNS/skill_icon" alt="Piano Virtuoso icon" width="36"> [Piano Virtuoso](skills/B01DRDVTNS)
+
+*Alexa, ask piano facts for a fun fact*
+
+Piano Virtuoso
+
+Get fun facts about all things Piano!  This skill is loaded with many surprising facts about the King of Musical Instruments!
 
 ***
 
@@ -3524,6 +3582,14 @@ What's going on this weekend? Ask Alexa to find out from StubHub!
 
 ***
 
+## &nbsp;<img src="skills/B01DSDXNNQ/skill_icon" alt="Superheroes icon" width="36"> [Superheroes](skills/B01DSDXNNQ)
+
+*Alexa, ask Super Heroes who Spiderman is*
+
+Reveal the identity of the person behind a superhero's mask
+
+***
+
 ## &nbsp;<img src="skills/B017OBSUK4/skill_icon" alt="Superpower! icon" width="36"> [Superpower!](skills/B017OBSUK4)
 
 *Alexa, ask Superpower for a conversation topic.*
@@ -3865,6 +3931,14 @@ Find where you can view your favorite TV shows on free, paid and subscription se
 *Alexa, ask Today in History about historic events.*
 
 Today in History
+
+***
+
+## &nbsp;<img src="skills/B01DL5E2PE/skill_icon" alt="Today In History icon" width="36"> [Today In History](skills/B01DL5E2PE)
+
+*Alexa, ask today in history what happened on this date in history.*
+
+Curious about historical events that happened today?
 
 ***
 
@@ -4314,6 +4388,14 @@ Alexa is able to calculate your perfect bra size, according to your bust and ban
 *Alexa, ask Woot what is the deal on electronics?*
 
 Get Woot's daily deals straight from Alexa, just ask Woot "What is today's deal?"
+
+***
+
+## &nbsp;<img src="skills/B01DRPR82M/skill_icon" alt="World Cup Soccer Trivia icon" width="36"> [World Cup Soccer Trivia](skills/B01DRPR82M)
+
+*Alexa, start soccer trivia*
+
+Test your  knowledge of soccer with a series of questions around the world cup and soccer players
 
 ***
 
