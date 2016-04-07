@@ -9,6 +9,7 @@
  * @todo Make everything asyncronous
  * @todo Add sorted lists: Alphabetical, Categories, Top Rated, Top Reviewed, Newest, Oldest
  * @todo Add support for marking skills that are no longer available (ie: Fin/B01D5B7R7Y)
+ * @todo Add CHANGELOG.md to keep a list of adds/updates/deletes to list of skills
  */
 'use strict';
 
