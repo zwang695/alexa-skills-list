@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 554
+**Total Skills Available:** 559
 
 ***
 
@@ -1336,6 +1336,22 @@ Essential Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01DWOH7HY/skill_icon" alt="Ethereum Ticker icon" width="36"> [Ethereum Ticker](skills/B01DWOH7HY)
+
+*Alexa, Ask Ethereum Ticker for the price*
+
+Ethereum price ticker for Amazon Echo
+
+***
+
+## &nbsp;<img src="skills/B01DSAJXXS/skill_icon" alt="europe knowledge icon" width="36"> [europe knowledge](skills/B01DSAJXXS)
+
+*Alexa, launch europe knowledge*
+
+Simple Europe knowledge trivialgame
+
+***
+
 ## &nbsp;<img src="skills/B017OARA8I/skill_icon" alt="Event Guide icon" width="36"> [Event Guide](skills/B017OARA8I)
 
 *Alexa, ask Event Guide what's going on today in Boston.*
@@ -1509,6 +1525,14 @@ Read a random, hopefully interesting, adage.
 *Alexa, open Fortune Cookie*
 
 Get a fortune cookie, read to you and receive your own Mega Millions or Powerball numbers.
+
+***
+
+## &nbsp;<img src="skills/B01DTFN65S/skill_icon" alt="Fortune Cookie icon" width="36"> [Fortune Cookie](skills/B01DTFN65S)
+
+*Alexa, ask fortune cookie to tell me a fortune*
+
+"Fortune Cookie" will select and read an actual fortune cookie message for you.
 
 ***
 
@@ -3546,7 +3570,7 @@ Real-time stock quotes from NASDAQ and NYSE, market summaries from S&P 500, DJIA
 
 *Alexa, ask Stock Market Sensei how does AMZN look today.*
 
-Stock Market Sensei is the #1 Daily Stock Prediction Platform. Get any stock's likely low,high,opening & closing prices - daily.
+Stock Market Sensei is the #1 Stock Trading & Investment Finance Prediction Platform. Get likely low,high,opening & closing prices - daily for stocks.
 
 ***
 
@@ -3811,6 +3835,14 @@ Gives you the start and end times for Shabbos by city, the Hebrew (Jewish) date 
 *Alexa, open The Scriptures.*
 
 Listen to Alexa read inspirational scriptures to you.
+
+***
+
+## &nbsp;<img src="skills/B01DVPSVJM/skill_icon" alt="The Telephone Game icon" width="36"> [The Telephone Game](skills/B01DVPSVJM)
+
+*Alexa, play the telephone game*
+
+The Telephone Game is a game about Echoing messages. Hear a message, and try to repeat it verbatim. Simple, right?
 
 ***
 
@@ -4340,6 +4372,14 @@ Daily Wake Up Call by Sean Bauer
 *Alexa, Open Horse Geek*
 
 Tennessee Walking Horse Facts
+
+***
+
+## &nbsp;<img src="skills/B01DPM0ERI/skill_icon" alt="Wedding Countdown icon" width="36"> [Wedding Countdown](skills/B01DPM0ERI)
+
+*Alexa, ask Wedding Countdown how many days until my wedding?*
+
+Countdown the number of days until your wedding.
 
 ***
 
