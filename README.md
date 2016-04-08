@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 559
+**Total Skills Available:** 562
 
 ***
 
@@ -1626,6 +1626,14 @@ Get's the latest price of gas by US state from AAA.
 
 ***
 
+## &nbsp;<img src="skills/B01DVOLVFY/skill_icon" alt="GBR icon" width="36"> [GBR](skills/B01DVOLVFY)
+
+*Alexa, ask Go Big Red for Fight Song*
+
+Play Husker fight songs and audio clips
+
+***
+
 ## &nbsp;<img src="skills/B01C9HRQIK/skill_icon" alt="Geek Games icon" width="36"> [Geek Games](skills/B01C9HRQIK)
 
 *Alexa launch geek games*
@@ -1903,6 +1911,14 @@ The Huffington Post is a Pulitzer Prize-winning source of news, features, and en
 *Alexa, launch Impossible Baseball Quiz*
 
 You should not take this baseball quiz. It  may be the hardest baseball quiz in history. If it's not, it's still really, really hard!
+
+***
+
+## &nbsp;<img src="skills/B01DW7TVQ6/skill_icon" alt="InControlHA icon" width="36"> [InControlHA](skills/B01DW7TVQ6)
+
+*Alexa, ask InControl to activate the scene leaving home.*
+
+Control your home automation devices, including z-wave, Philips Hue, Nest and Sonos. Lights, devices and scenes can be activated using voice control.
 
 ***
 
@@ -4484,3 +4500,11 @@ Find out the Zodiac sign for any date
 *Alexa, start Zoo Trivia*
 
 Animals are so weird, you guys. Do you know just how weird? Play this fun trivia challenge and test your knowledge.
+
+***
+
+## &nbsp;<img src="skills/B01DL9DP1M/skill_icon" alt="Zubie icon" width="36"> [Zubie](skills/B01DL9DP1M)
+
+*Alexa, ask Zubie, where is my car?*
+
+Zubie makes driving safer, easier and less expensive by connecting you with your cars.  You can ask Alexa about its location, activity, fuel status and more.

@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "zubiecar.com"
+  ],
+  "asin": "B01DL9DP1M",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Other",
+  "description": "Alexa can now help you stay informed about the location,  activity,  fuel status and other details about your Zubie-equipped cars.  You can ask Alexa where your car (or any car in your family) is at that moment.  Or if your car is low on fuel or how much is left.  You can also ask about recent activity or events that occurred  such as the last trip completed, or the last speeding incident.   This skill requires an active Zubie device and subscription, which can be purchased at Amazon, Best Buy or at http://Zubie.com.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Zubie, where is my car?",
+    "Alexa, ask Zubie, when did the Truck depart?",
+    "Alexa, ask Zubie, how much gas does the Honda have?"
+  ],
+  "firstReleaseDate": 1460118759.492,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.ee8ad9c5-ae0a-4a94-8d14-570528d10f82",
+  "imageAltText": "Zubie icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DL9DP1M/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "zubie",
+  "name": "Zubie",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "5NRd17S3kKGYVehWX3GLp16jP",
+  "permissions": null,
+  "privacyPolicyUrl": "http://zubie.com/privacy/",
+  "shortDescription": "Zubie makes driving safer, easier and less expensive by connecting you with your cars.  You can ask Alexa about its location, activity, fuel status and more.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://zubie.com/tou/",
+  "vendorId": "M2DSQI2VT7VZBF",
+  "vendorName": "Zubie, Inc."
+}
