@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Stock Exchange icon" width="36"> Stock Exchange
-![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 34
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 36
 
 To use the Stock Exchange skill, try saying...
 

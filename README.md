@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 562
+**Total Skills Available:** 564
 
 ***
 
@@ -933,6 +933,14 @@ Quiz on Computers. Say "Alexa, Ask Computer Quiz to start.
 *Alexa, launch computer science*
 
 Computer Science is a quiz about computers and many more
+
+***
+
+## &nbsp;<img src="skills/B01DR4ZFPK/skill_icon" alt="Computers Storified in Viking History by Floki icon" width="36"> [Computers Storified in Viking History by Floki](skills/B01DR4ZFPK)
+
+*Alexa, ask Floki to tell me something*
+
+Computer concepts illustrated through the Viking history.
 
 ***
 
@@ -2680,6 +2688,14 @@ Test your video game knowledge with this fun video game quiz!
 *Alexa, ask Linkboard to search news about [a topic].*
 
 News By Linkboard enables you to search the news and have articles read to you. Say, "Alexa, start Linkboard" to try.
+
+***
+
+## &nbsp;<img src="skills/B01DVRYVYE/skill_icon" alt="Next Train for Caltrain icon" width="36"> [Next Train for Caltrain](skills/B01DVRYVYE)
+
+*Alexa, Ask The Next Train from Palo Alto to San Francisco*
+
+Real-time info on the next Caltrain
 
 ***
 

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B0186BC0LQ",
-  "averageRating": 2.1,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
   "category": "Finance",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "stock exchange",
   "name": "Stock Exchange",
-  "numberOfReviews": 34,
+  "numberOfReviews": 36,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://gobbyapps.com/privacy",

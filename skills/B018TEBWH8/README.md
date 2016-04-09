@@ -25,6 +25,6 @@ Thanks to www.HebCal.com for the Parsha API!
 * **Category:** Other
 * **ID:** amzn1.echo-sdk-ams.app.ec9cc97e-8eb3-4583-b8b0-9ef589d58775
 * **ASIN:** B018TEBWH8
-* **Author:** KingPup Ent
+* **Author:** Chabad.org
 * **Release Date:** December 1, 2015 @ 19:12:36
 * **In-App Purchasing:** No

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01DW7TVQ6",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": "Home-Automation",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "in control",
   "name": "InControlHA",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "Ykx6udlEfCD7sqQgAyexKIErT",
   "permissions": null,
   "privacyPolicyUrl": "http://www.incontrolha.com/Home/Privacy",
