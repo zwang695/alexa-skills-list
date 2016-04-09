@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Trivia For Trump icon" width="36"> Trivia For Trump
-![1.6 stars](../../images/ic_star_black_18dp_1x.png)![1.6 stars](../../images/ic_star_half_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png) 9
+![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Trivia For Trump skill, try saying...
 
