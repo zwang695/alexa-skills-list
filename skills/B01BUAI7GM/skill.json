@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BUAI7GM",
-  "averageRating": 3,
+  "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
   "category": "Music",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "lyrical",
   "name": "Lyrical",
-  "numberOfReviews": 7,
+  "numberOfReviews": 8,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

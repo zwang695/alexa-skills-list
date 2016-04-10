@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Surfable icon" width="36"> Surfable
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 5
+![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Surfable skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Yo Momma Jokes icon" width="36"> Yo Momma Jokes
-![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 26
+![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 27
 
 To use the Yo Momma Jokes skill, try saying...
 

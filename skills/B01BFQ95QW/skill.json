@@ -4,7 +4,7 @@
     "accounts.google.com"
   ],
   "asin": "B01BFQ95QW",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": "Social",
@@ -24,7 +24,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "iris",
   "name": "Iris",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "Yb3yGRDPzZZ2PTU1ajolcBWoF",
   "permissions": null,
   "privacyPolicyUrl": "http://n-echo-poke.herokuapp.com/privacypolicy.html",

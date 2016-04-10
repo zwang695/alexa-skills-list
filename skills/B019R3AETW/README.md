@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Founding Father Quotes icon" width="36"> Founding Father Quotes
-![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Founding Father Quotes skill, try saying...
 

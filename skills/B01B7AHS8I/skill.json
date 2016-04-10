@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01B7AHS8I",
-  "averageRating": 3.7,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Entertainment",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the law",
   "name": "The Law",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

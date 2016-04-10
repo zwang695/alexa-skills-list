@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B0184JBP4I",
-  "averageRating": 4,
+  "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
   "category": "Travel",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "dc metro",
   "name": "DC Metro",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

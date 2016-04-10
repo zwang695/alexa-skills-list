@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="ISS Sighter icon" width="36"> ISS Sighter
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![1.7 stars](../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the ISS Sighter skill, try saying...
 

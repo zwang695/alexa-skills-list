@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B0194CJ63Q",
-  "averageRating": 2.8,
+  "averageRating": 2.9,
   "canDisable": true,
   "capabilities": null,
   "category": "Productivity",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "phone finder",
   "name": "Phone Finder for Alexa",
-  "numberOfReviews": 25,
+  "numberOfReviews": 26,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://caricaturers.us/",
