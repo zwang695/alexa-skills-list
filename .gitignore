@@ -5,6 +5,7 @@ views
 node_modules
 npm-debug.log
 *.tmp
+*.bat
 *.backup
 *.dev.*
 config.json
