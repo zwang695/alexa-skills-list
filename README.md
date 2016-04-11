@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 564
+**Total Skills Available:** 574
 
 ***
 
@@ -527,6 +527,14 @@ The Bible App for Alexa can read Bible verses and chapters to you in your favori
 
 ***
 
+## &nbsp;<img src="skills/B01DQ65KFY/skill_icon" alt="Bible Seeds and Such icon" width="36"> [Bible Seeds and Such](skills/B01DQ65KFY)
+
+*Alexa, ask Bible Seeds for seeds*
+
+Learn a few selected Bible passages (about 20). I have memorized these, and they act as seeds, allowing the messages to grow within.
+
+***
+
 ## &nbsp;<img src="skills/B01BFSF9AG/skill_icon" alt="Big Game Ultimate Trivia Quiz icon" width="36"> [Big Game Ultimate Trivia Quiz](skills/B01BFSF9AG)
 
 *Alexa, start Big Game*
@@ -832,6 +840,14 @@ Chemistry Genie helps students to revise their knowledge of the elements in the 
 
 ***
 
+## &nbsp;<img src="skills/B01DLD360I/skill_icon" alt="Chicago Trains icon" width="36"> [Chicago Trains](skills/B01DLD360I)
+
+*Alexa ask Chicago Trains when is the next train from Crystal Lake to Chicago OTC*
+
+Find out when the next Chicago Metra train is about to leave or what the schedule for a particular train route.
+
+***
+
 ## &nbsp;<img src="skills/B01C7XIJ82/skill_icon" alt="Children's Bible Quiz icon" width="36"> [Children's Bible Quiz](skills/B01C7XIJ82)
 
 *Alexa open Children's Bible Quiz*
@@ -869,6 +885,14 @@ Listen to Alexa and learn the lyrics to some yuletide favorites!
 *Alexa, ask Christopher for an airplane fact*
 
 Christopher's Airplane Trivia. Learn facts and trivia about a wide variety of aircraft, aerospace, and aviation!
+
+***
+
+## &nbsp;<img src="skills/B01DQFWAEE/skill_icon" alt="Code Finder icon" width="36"> [Code Finder](skills/B01DQFWAEE)
+
+*Alexa, ask code finder where zip code 13212 is.*
+
+Find information based on area code, postal code, or US city using Alexa.
 
 ***
 
@@ -1256,6 +1280,14 @@ Test your knowledge of the Easter holiday with this fun skill.
 
 ***
 
+## &nbsp;<img src="skills/B01DQCC1R8/skill_icon" alt="Eclipse Phase Mesh Link icon" width="36"> [Eclipse Phase Mesh Link](skills/B01DQCC1R8)
+
+*Alexa, ask Eclipse Phase for facts*
+
+Ask Eclipse Phase Geek to tell you a fact about the the bleak future of Transhumanity after the Fall of Earth to renegade AI!
+
+***
+
 ## &nbsp;<img src="skills/B017OB648E/skill_icon" alt="Edgar Facts icon" width="36"> [Edgar Facts](skills/B017OB648E)
 
 *Alexa, tell me an Edgar fact.*
@@ -1599,6 +1631,14 @@ Evaluate your level of Frenchness with this très simple trivia quiz. How well d
 *Alexa, open frontend quiz.*
 
 Frontend Quiz is an educational skill for Amazon Echo. It will ask 10 questions about HTML, CSS and Javascript.
+
+***
+
+## &nbsp;<img src="skills/B01DZHDMDG/skill_icon" alt="funBulldogFacts icon" width="36"> [funBulldogFacts](skills/B01DZHDMDG)
+
+*Alexa, launch Fun Bulldog Facts*
+
+Interesting and fun facts about the amazing dog breed known as the Bulldog!
 
 ***
 
@@ -2066,6 +2106,14 @@ Gives you the current program or track playing on KCRW radio.
 
 ***
 
+## &nbsp;<img src="skills/B01E3F0AUC/skill_icon" alt="KidsMD icon" width="36"> [KidsMD](skills/B01E3F0AUC)
+
+*Alexa, ask Kids M.D.*
+
+Seek general health information for common ailments and medication dosing from Boston Children's Hospital. Does not provide individual medical advice.
+
+***
+
 ## &nbsp;<img src="skills/B01DEFZQUG/skill_icon" alt="King Of Pop Trivia icon" width="36"> [King Of Pop Trivia](skills/B01DEFZQUG)
 
 *Alexa, Launch King Of Pop*
@@ -2159,6 +2207,14 @@ Keeps count of life totals in Magic: The Gathering
 *Alexa, tell LIFX to turn my bedroom lights off*
 
 LIFX, the world’s brightest color Wi-Fi smart lights. Ask Alexa to switch on the lights when your hands are full and fill your home with your favourite colors.
+
+***
+
+## &nbsp;<img src="skills/B01DMTSN6S/skill_icon" alt="Littera Report icon" width="36"> [Littera Report](skills/B01DMTSN6S)
+
+*Alexa, ask Lit Report what is the top story today?*
+
+Littera Report hosts the best independent journalism in the world!
 
 ***
 
@@ -2803,6 +2859,14 @@ With this skill you will never have to guess when your package is arriving. You 
 
 ***
 
+## &nbsp;<img src="skills/B01DQF8X4K/skill_icon" alt="Palindromes icon" width="36"> [Palindromes](skills/B01DQF8X4K)
+
+*Alexa, ask palindromes to say a palindrome*
+
+Says random palindromes
+
+***
+
 ## &nbsp;<img src="skills/B01DQ12PQ6/skill_icon" alt="PCMag Product and News Assistant icon" width="36"> [PCMag Product and News Assistant](skills/B01DQ12PQ6)
 
 *Alexa, ask PCMag which printer should I buy.*
@@ -2849,6 +2913,14 @@ Phish Geek Phish Facts
 *Alexa, open Phone Finder*
 
 Tired of missing your phone in your home? Use Echo to find your phone. Say "Open phone finder". This app requires a companion app from android app store.
+
+***
+
+## &nbsp;<img src="skills/B01E08BW8Q/skill_icon" alt="Physics Bowl icon" width="36"> [Physics Bowl](skills/B01E08BW8Q)
+
+*Alexa, open physics bowl.*
+
+A quiz game that will test your physics might!
 
 ***
 
@@ -3602,7 +3674,7 @@ Real-time stock quotes from NASDAQ and NYSE, market summaries from S&P 500, DJIA
 
 *Alexa, ask Stock Market Sensei how does AMZN look today.*
 
-Stock Market Sensei is the #1 Stock Trading & Investment Finance Prediction Platform. Get likely low,high,opening & closing prices - daily for stocks.
+Stock Market Sensei,the #1 Stock Trading & Investment Finance Prediction Platform. Get current stock prices and likely low,high,opening & closing prices - daily
 
 ***
 
@@ -4187,6 +4259,14 @@ The Trivia Game for Michigan Football will let you test your knowledge and see h
 *Alexa, start Sofia trivia game*
 
 See how well do you know about Sofia the First.
+
+***
+
+## &nbsp;<img src="skills/B01DZW9HPI/skill_icon" alt="Trivia Geek icon" width="36"> [Trivia Geek](skills/B01DZW9HPI)
+
+*Alexa, launch Trivia Geek*
+
+Trivia Geek is a game to challenge yourself in trivia questions. Have fun!
 
 ***
 

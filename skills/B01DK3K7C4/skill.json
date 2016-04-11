@@ -5,11 +5,11 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Games",
-  "description": "This Fractals Skill will give you the Guild Wars 2 Fractal name, and recommended Agony Resistance value.  \nJust ask about a level number.",
+  "description": "This Fractals Skill will give you the Guild Wars 2 Fractal name, and its recommended Agony Resistance value.  \nJust ask about a level number.  \"Alexa, ask Fractals about Level 40.\"\n\nIf your character has Agony Resistance, you can ask for the highest level recommended for its AR value.\nJust ask about an agony value. \"Alexa, ask Fractals about Agony 56\".\n\nYou can also find out the materials to craft an Agony Infusion.  \"Alexa, ask Fractals how do I make a +10 infusion?\"",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Fractals about Level 19.",
-    "Alexa, ask Fractals what is Level 19.",
+    "Alexa, ask Fractals about Agony 68.",
     "Alexa, ask Fractals for help."
   ],
   "firstReleaseDate": 1459324960.988,

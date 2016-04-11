@@ -5,12 +5,17 @@ To use the Fractals Info skill, try saying...
 
 * *Alexa, ask Fractals about Level 19.*
 
-* *Alexa, ask Fractals what is Level 19.*
+* *Alexa, ask Fractals about Agony 68.*
 
 * *Alexa, ask Fractals for help.*
 
-This Fractals Skill will give you the Guild Wars 2 Fractal name, and recommended Agony Resistance value.  
-Just ask about a level number.
+This Fractals Skill will give you the Guild Wars 2 Fractal name, and its recommended Agony Resistance value.  
+Just ask about a level number.  "Alexa, ask Fractals about Level 40."
+
+If your character has Agony Resistance, you can ask for the highest level recommended for its AR value.
+Just ask about an agony value. "Alexa, ask Fractals about Agony 56".
+
+You can also find out the materials to craft an Agony Infusion.  "Alexa, ask Fractals how do I make a +10 infusion?"
 
 ***
 
