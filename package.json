@@ -1,6 +1,6 @@
 {
   "name": "alexa-skills-list",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "Alexa Skills list generator",
   "main": "build.js",
   "scripts": {
