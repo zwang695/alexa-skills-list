@@ -13,12 +13,19 @@
  */
 'use strict';
 
-// Included modules
+// Required modules
 var fs       = require('fs'),
 	https    = require('https'),
 	json2csv = require('json2csv'),
 	config   = require('./config.json'),
 	skills   = require('./skills.json').apps;
+
+// Setup debug
+var debug   = require('debug');
+var error   = debug('build:error\t');
+var log     = debug('build:log\t');
+var added   = debug('build:added\t');
+var updated = debug('build:updated\t');
 
 // php.js implementation of date()
 Date.format = function(format, timestamp) {
@@ -264,7 +271,7 @@ var Template = {
 		var i = skills.length;
 
 		for (var key in skills) {
-			//console.log('[LOG] Generating section for "%s"', skills[key].name);
+			//log('Generating section for "%s"', skills[key].name);
 			contents += Template.skill.section(skills[key]);
 		}
 
@@ -463,7 +470,7 @@ var i = skills.length;
 
 while (i--) {
 	if (!skills[i].canDisable) {
-		//console.log('[SKIP] Skipping development skill "%s"', skills[i].name);
+		//log('Skipping development skill "%s"', skills[i].name);
 		skills.splice(i, 1);
 		continue;
 	}
@@ -508,14 +515,14 @@ for (var key in skills) {
 
 			// Increment counts respectively
 			if (!skillInput) {
-				console.log('[ADD] Adding skill "%s"', skill.name);
+				added('Adding skill "%s"', skill.name);
 				addCount++;
 			} else {
-				console.log('[UPDATE] Updating skill "%s"', skill.name);
+				updated('Updating skill "%s"', skill.name);
 				updateCount++;
 			}
 		} else {
-			//console.log('[SAME] Not changing skill "%s"', skill.name);
+			//log('Not changing skill "%s"', skill.name);
 		}
 
 		// Download skill image
@@ -529,9 +536,9 @@ for (var key in skills) {
 				download(skill.imageUrl, err.path, function(err) {
 					// Output any errors to the console
 					if (err) {
-						console.log('[ERROR] Failed to download image for "%s": %s', skill.name, err);
+						error('Failed to download image for "%s": %s', skill.name, err);
 					} else {
-						console.log('[LOG] Downloaded image for "%s"', skill.name);
+						log('Downloaded image for "%s"', skill.name);
 					}
 				});
 			}
@@ -569,11 +576,11 @@ if (config.writeMode && (addCount || updateCount || config.writeMode == 2)) {
 	// Write master README
 	fs.writeFile(config.readmeFile, Template.readme(skills), 'utf8', function(err) {
 		if (err) {
-			console.log('[ERROR] Failed to write %s: %s', config.readmeFile, err.message);
+			error('Failed to write %o: %s', config.readmeFile, err.message);
 			return;
 		}
 
-		console.log('[LOG] Updated %s', config.readmeFile);
+		log('Updated %o', config.readmeFile);
 	});
 
 	var csvSkills = [];
@@ -595,36 +602,36 @@ if (config.writeMode && (addCount || updateCount || config.writeMode == 2)) {
 	// Write CSV file
 	json2csv({data: csvSkills, fields: config.csvFields}, function(err, csv) {
 		if (err) {
-			console.log('[ERROR] Failed to write %s: %s', config.csvFile, err.message);
+			error('Failed to write %o: %s', config.csvFile, err.message);
 			return;
 		}
 
 		fs.writeFile(config.csvFile, csv, 'utf8', function(err) {
 			if (err) {
-				console.log('[ERROR] Failed to write %s: %s', config.csvFile, err.message);
+				error('Failed to write %o: %s', config.csvFile, err.message);
 				return;
 			}
 
-			console.log('[LOG] Updated %s', config.csvFile);
+			log('Updated %o', config.csvFile);
 		});
 	});
 }
 
 // Output number of skills on completion
-console.log('[LOG] Processed a total of %d skill%s', skills.length, (skills.length != 1 ? 's' : ''));
+log('Processed a total of %d skill%s', skills.length, (skills.length != 1 ? 's' : ''));
 
 if (addCount) {
-	console.log('[LOG] Added %d skill%s', addCount, (addCount != 1 ? 's' : ''));
+	log('Added %d skill%s', addCount, (addCount != 1 ? 's' : ''));
 }
 
 if (updateCount) {
-	console.log('[LOG] Updated %d skill%s', updateCount, (updateCount != 1 ? 's' : ''));
+	log('Updated %d skill%s', updateCount, (updateCount != 1 ? 's' : ''));
 }
 
 if (addCountJSON) {
-	console.log('[LOG] Added %d %s file%s', addCountJSON, config.jsonFile, (addCountJSON != 1 ? 's' : ''));
+	log('Added %d %s file%s', addCountJSON, config.jsonFile, (addCountJSON != 1 ? 's' : ''));
 }
 
 if (updateCountJSON) {
-	console.log('[LOG] Updated %d %s file%s', updateCountJSON, config.jsonFile, (updateCountJSON != 1 ? 's' : ''));
+	log('Updated %d %s file%s', updateCountJSON, config.jsonFile, (updateCountJSON != 1 ? 's' : ''));
 }
