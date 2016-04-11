@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/dale3h/alexa-skills-list",
   "dependencies": {
+    "debug": "^2.2.0",
     "json2csv": "^3.2.0"
   }
 }
