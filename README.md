@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 574
+**Total Skills Available:** 576
 
 ***
 
@@ -2739,6 +2739,14 @@ Test your video game knowledge with this fun video game quiz!
 
 ***
 
+## &nbsp;<img src="skills/B01E1EDICM/skill_icon" alt="Nerdy Pickup Lines icon" width="36"> [Nerdy Pickup Lines](skills/B01E1EDICM)
+
+*Alexa, ask nerdy valentine for a pickup line.*
+
+This skill gives a nerdy pickup line when asked.
+
+***
+
 ## &nbsp;<img src="skills/B018FCGE18/skill_icon" alt="News By Linkboard icon" width="36"> [News By Linkboard](skills/B018FCGE18)
 
 *Alexa, ask Linkboard to search news about [a topic].*
@@ -3923,6 +3931,14 @@ Play the Name Game song
 *Alexa, open phish trivia*
 
 A Phish Trivia Game
+
+***
+
+## &nbsp;<img src="skills/B01DNNK25I/skill_icon" alt="The Pianist icon" width="36"> [The Pianist](skills/B01DNNK25I)
+
+*Alexa, ask The Pianist for an a.*
+
+The Pianist - your personal musical assistant
 
 ***
 
