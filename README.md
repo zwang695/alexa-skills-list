@@ -1,7 +1,23 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 576
+**Total Skills Available:** 583
+
+***
+
+## &nbsp;<img src="skills/B01E5IBRMC/skill_icon" alt="[DoNotTouch] Hard Suppress skill automation icon" width="36"> [[DoNotTouch] Hard Suppress skill automation](skills/B01E5IBRMC)
+
+*Alexa, ajsd*
+
+A quick introductory description, which will be shown in the Alexa App in the main list of skills, along with the first example phras
+
+***
+
+## &nbsp;<img src="skills/B01E5I8WAC/skill_icon" alt="[DoNotTouch] Publishing Soft Suppress Automation icon" width="36"> [[DoNotTouch] Publishing Soft Suppress Automation](skills/B01E5I8WAC)
+
+*Alexa, ajsd*
+
+A quick introductory description, which will be shown in the Alexa App in the main list of skills, along with the first example phrase you enter below. Maximum
 
 ***
 
@@ -684,6 +700,14 @@ Get wise Buddha quotes now on your Alexa device
 *Alexa, ask my ghost what's Xur selling*
 
 Buddy for Destiny provides useful information like Xur inventory and weekly activities to destiny players.
+
+***
+
+## &nbsp;<img src="skills/B01E24GB9I/skill_icon" alt="Buegton Trivia icon" width="36"> [Buegton Trivia](skills/B01E24GB9I)
+
+*Alexa, start Jen and Ian Trivia*
+
+Trivia about the world's most amazing couple! You cannot live without this skill!
 
 ***
 
@@ -2635,6 +2659,14 @@ This skill enables you to find your body mass index. You can input your height i
 
 ***
 
+## &nbsp;<img src="skills/B01E27CWVQ/skill_icon" alt="My Chess Facts icon" width="36"> [My Chess Facts](skills/B01E27CWVQ)
+
+*Alexa, launch Chess Facts*
+
+Chess facts to impress your friends, or just to learn!
+
+***
+
 ## &nbsp;<img src="skills/B01DKF311G/skill_icon" alt="My Copilot icon" width="36"> [My Copilot](skills/B01DKF311G)
 
 *Alexa, ask My Copilot, what are the clouds at P-A-E*
@@ -4058,7 +4090,15 @@ Use Tide Pooler to get tide information for major coastal cities.
 
 *Alexa, ask tide guide for the tides in Santa Barbara, California*
 
-This skill will give the tide report for most locations (city and state) with a NOAA station.
+This skill will give the tide report for most locations (city and state/country) with a NOAA station.
+
+***
+
+## &nbsp;<img src="skills/B01DTV4QKQ/skill_icon" alt="Times for MARTA icon" width="36"> [Times for MARTA](skills/B01DTV4QKQ)
+
+*Alexa ask Times for Marta what are the times for the airport?*
+
+Times for MARTA will tell you how soon the next train will arrive at different stations within the MARTA subway system in Atlanta.
 
 ***
 
@@ -4235,6 +4275,14 @@ A fun trivia for fans of Superman. Alexa, launch Superman Trivia
 *Alexa, launch formula one trivia*
 
 A challenging Formula 1 trivia game, to test your knowledge of the sport.
+
+***
+
+## &nbsp;<img src="skills/B01DR8ZJ34/skill_icon" alt="Trivia for Monopoly icon" width="36"> [Trivia for Monopoly](skills/B01DR8ZJ34)
+
+*Alexa, ask Trivia for Monopoly to give me a fact*
+
+Trivia for Monopoly
 
 ***
 
@@ -4427,6 +4475,14 @@ This is a quiz game that tests users on their knowledge of general U.S. civics q
 *Alexa, tell National Parks game to start new game*
 
 US National Parks quiz game
+
+***
+
+## &nbsp;<img src="skills/B01DJLBPAA/skill_icon" alt="US State Capitals icon" width="36"> [US State Capitals](skills/B01DJLBPAA)
+
+*Alexa, launch state capitals*
+
+Trivia Game for US Captitals
 
 ***
 

@@ -19,6 +19,6 @@ Practice your knowledge of U.S  History from the colonial times to current day w
 * **Category:** Games
 * **ID:** amzn1.echo-sdk-ams.app.1d4ead35-21f8-42bb-ab3b-f14e2a5c98d4
 * **ASIN:** B01B25D1CA
-* **Author:** Innate.io
+* **Author:** Innate Tech
 * **Release Date:** January 25, 2016 @ 16:50:14
 * **In-App Purchasing:** No
