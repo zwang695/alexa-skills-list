@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 583
+**Total Skills Available:** 584
 
 ***
 
@@ -3667,6 +3667,14 @@ Star Trivia is an out of this world experience for the whole family. It's both f
 *“Alexa, Start Star Wars Quiz"*
 
 How well do you know the Star Wars Galaxy? Test your knowledge against trivia questions from Classic Star Wars films as well as The Force Awakens
+
+***
+
+## &nbsp;<img src="skills/B01DKI6KAC/skill_icon" alt="Starfish Band icon" width="36"> [Starfish Band](skills/B01DKI6KAC)
+
+*Alexa, ask starfish band for calories used today*
+
+This skill links up with your microsoft health account and then you can play all your activities data for the day. It relies on user having microsoft health acc
 
 ***
 
