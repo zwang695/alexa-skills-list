@@ -414,7 +414,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01E3XNCKE",
-      "averageRating": 1,
+      "averageRating": 3,
       "canDisable": true,
       "capabilities": null,
       "category": "Music",
@@ -434,7 +434,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "acoustic chord",
       "name": "Acoustic Chord",
-      "numberOfReviews": 1,
+      "numberOfReviews": 2,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": "http://ocean-of-storms.com/tsatsatzu/legal/at_policy.htm",
@@ -6581,7 +6581,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01DV7E6XA",
-      "averageRating": 0,
+      "averageRating": 5,
       "canDisable": true,
       "capabilities": null,
       "category": "Health-and-Fitness",
@@ -6601,7 +6601,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "fit assist",
       "name": "Fit Assist",
-      "numberOfReviews": 0,
+      "numberOfReviews": 1,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -7416,7 +7416,11 @@
       "vendorName": "Amazon"
     },
     {
-      "accountLinkingWhitelistedDomains": null,
+      "accountLinkingWhitelistedDomains": [
+        "dev.garageio.com",
+        "www.garageio.com",
+        "garageio.com"
+      ],
       "asin": "B017OBI3AQ",
       "averageRating": 3.4,
       "canDisable": true,
@@ -7439,7 +7443,7 @@
       "launchPhrase": "garageio",
       "name": "Garageio",
       "numberOfReviews": 6,
-      "pamsPartnerId": null,
+      "pamsPartnerId": "2bPaPzODpvpVwoAnEvpYXxESM",
       "permissions": null,
       "privacyPolicyUrl": "https://garageio.com/privacy",
       "shortDescription": "Garageio is the simple and secure way to control and monitor your garage door from anywhere in the world, all without needing to replace your existing opener.",
@@ -8570,6 +8574,40 @@
       "termsOfUseUrl": null,
       "vendorId": "M1T78GIP8CMV4K",
       "vendorName": "JWP Software"
+    },
+    {
+      "accountLinkingWhitelistedDomains": null,
+      "asin": "B01DEC893A",
+      "averageRating": 0,
+      "canDisable": true,
+      "capabilities": null,
+      "category": "Lifestyle",
+      "description": "The HomeAdvisor Alexa Skill instantly connects you with pre-screened home service pros for hundreds of home projects. When you use the HomeAdvisor Skill, we will have a pro call you on the phone in minutes. HomeAdvisor has a nationwide network of more than 100,000 background-checked pros specializing in 500 projects.\n\nHow it Works:\nAsk Alexa to launch HomeAdvisor using a phrase like the examples below:\nAlexa, launch HomeAdvisor.\nAlexa, ask HomeAdvisor to find me a painter. \nAlexa, launch HomeAdvisor and find me a landscaper.\n\nYou can search for any type of home service pro. Just replace the examples above with your unique need.\n\nNext, we just need to collect your zip code and phone number. We will have a pre-screened pro call you in minutes.",
+      "enablement": null,
+      "exampleInteractions": [
+        "Alexa, ask home advisor to find me a plumber.",
+        "Alexa, ask home advisor to find me a handyman.",
+        "Alexa, launch home advisor and find me an electrician."
+      ],
+      "firstReleaseDate": 1458857736.713,
+      "homepageLinkText": null,
+      "homepageLinkUrl": null,
+      "id": "amzn1.echo-sdk-ams.app.9f139432-da2c-4433-8823-be1d21c17287",
+      "imageAltText": "HomeAdvisor icon",
+      "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DEC893A/skill_icon",
+      "inAppPurchasingSupported": false,
+      "launchPhrase": "home advisor",
+      "name": "HomeAdvisor",
+      "numberOfReviews": 0,
+      "pamsPartnerId": null,
+      "permissions": null,
+      "privacyPolicyUrl": "http://www.homeadvisor.com/mobile/legal/consumerMobilePrivacyPolicy.jsp",
+      "shortDescription": "Instantly connect with pre-screened home service professionals for hundreds of home projects.",
+      "skillTypes": null,
+      "stage": "live",
+      "termsOfUseUrl": "http://www.homeadvisor.com/mobile/legal/consumerMobileTandC.jsp",
+      "vendorId": "M1KR1RCBSBLLJ",
+      "vendorName": "HomeAdvisor Inc"
     },
     {
       "accountLinkingWhitelistedDomains": [],

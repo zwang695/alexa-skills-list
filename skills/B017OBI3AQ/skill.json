@@ -1,5 +1,9 @@
 {
-  "accountLinkingWhitelistedDomains": null,
+  "accountLinkingWhitelistedDomains": [
+    "dev.garageio.com",
+    "www.garageio.com",
+    "garageio.com"
+  ],
   "asin": "B017OBI3AQ",
   "averageRating": 3.4,
   "canDisable": true,
@@ -22,7 +26,7 @@
   "launchPhrase": "garageio",
   "name": "Garageio",
   "numberOfReviews": 6,
-  "pamsPartnerId": null,
+  "pamsPartnerId": "2bPaPzODpvpVwoAnEvpYXxESM",
   "permissions": null,
   "privacyPolicyUrl": "https://garageio.com/privacy",
   "shortDescription": "Garageio is the simple and secure way to control and monitor your garage door from anywhere in the world, all without needing to replace your existing opener.",

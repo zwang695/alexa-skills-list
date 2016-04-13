@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 599
+**Total Skills Available:** 600
 
 ***
 
@@ -2015,6 +2015,14 @@ Tell me a dad joke!
 *Alexa, open High Low.*
 
 This is the number guessing game of “higher or lower.” In this game, Alexa chooses a number and you try to guess it or you can play the other way around.
+
+***
+
+## &nbsp;<img src="skills/B01DEC893A/skill_icon" alt="HomeAdvisor icon" width="36"> [HomeAdvisor](skills/B01DEC893A)
+
+*Alexa, ask home advisor to find me a plumber.*
+
+Instantly connect with pre-screened home service professionals for hundreds of home projects.
 
 ***
 
