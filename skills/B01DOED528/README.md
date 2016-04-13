@@ -21,6 +21,6 @@ But if taunting is more your style, ask for an insult and hear one of the classi
 * **Category:** Entertainment
 * **ID:** amzn1.echo-sdk-ams.app.ad7383c5-6e03-45d8-8a63-c4bedead2196
 * **ASIN:** B01DOED528
-* **Author:** Shipyard NYC
+* **Author:** Sayspring
 * **Release Date:** April 4, 2016 @ 06:03:14
 * **In-App Purchasing:** No

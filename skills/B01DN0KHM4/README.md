@@ -7,6 +7,16 @@ To use the Animal Alphabet skill, try saying...
 
 You play the Animal Alphabet game by taking turns with Alexa saying the names of animals for each letter in the alphabet.
 
+HOW TO PLAY:
+
+Your game is automatically saved, so if you leave or run out of time, just say "Alexa, play Animal Alphabet" again to resume your session.
+
+During the game, you can:
+* say "wait" to get more time
+* say "skip" to go on to the next letter
+* say "reset" to start the game over.
+
+----
 Logo by Pixel77 (http://www.pixel77.com/) by CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 ***

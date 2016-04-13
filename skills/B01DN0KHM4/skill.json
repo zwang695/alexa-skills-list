@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Games",
-  "description": "You play the Animal Alphabet game by taking turns with Alexa saying the names of animals for each letter in the alphabet.\n\nLogo by Pixel77 (http://www.pixel77.com/) by CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)",
+  "description": "You play the Animal Alphabet game by taking turns with Alexa saying the names of animals for each letter in the alphabet.\n\nHOW TO PLAY:\n\nYour game is automatically saved, so if you leave or run out of time, just say \"Alexa, play Animal Alphabet\" again to resume your session.\n\nDuring the game, you can:\n* say \"wait\" to get more time\n* say \"skip\" to go on to the next letter\n* say \"reset\" to start the game over.\n\n----\nLogo by Pixel77 (http://www.pixel77.com/) by CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, play Animal Alphabet.",

@@ -3,13 +3,13 @@
 
 To use the The Pianist skill, try saying...
 
-* *Alexa, ask The Pianist for an a.*
+* *Alexa, ask The Pianist for an A.*
 
 * *Alexa, ask The Pianist to help me warm up.*
 
-* *Alexa, tell the Pianist to give me just an a.*
+* *Alexa, tell the Pianist to give me a B flat.*
 
-The Pianist helps you practice. Do you need to tune your instrument? Just ask for an "A"!
+The Pianist helps you practice. Do you need to tune your instrument? Just ask for an "A"! You can also warm up your vocals by saying, "Alexa, ask The Pianist to help me warm up".
 
 ***
 

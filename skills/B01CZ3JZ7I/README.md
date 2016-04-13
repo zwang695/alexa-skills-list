@@ -22,6 +22,6 @@ You can list your smart devices, see how they are working together and find new 
 * **Category:** Connected-Home
 * **ID:** amzn1.echo-sdk-ams.app.459aa08f-5c0a-43cf-9f18-0f8dedf034ae
 * **ASIN:** B01CZ3JZ7I
-* **Author:** Anythings
+* **Author:** Molly
 * **Release Date:** March 14, 2016 @ 17:45:54
 * **In-App Purchasing:** No

@@ -1,23 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 584
-
-***
-
-## &nbsp;<img src="skills/B01E5IBRMC/skill_icon" alt="[DoNotTouch] Hard Suppress skill automation icon" width="36"> [[DoNotTouch] Hard Suppress skill automation](skills/B01E5IBRMC)
-
-*Alexa, ajsd*
-
-A quick introductory description, which will be shown in the Alexa App in the main list of skills, along with the first example phras
-
-***
-
-## &nbsp;<img src="skills/B01E5I8WAC/skill_icon" alt="[DoNotTouch] Publishing Soft Suppress Automation icon" width="36"> [[DoNotTouch] Publishing Soft Suppress Automation](skills/B01E5I8WAC)
-
-*Alexa, ajsd*
-
-A quick introductory description, which will be shown in the Alexa App in the main list of skills, along with the first example phrase you enter below. Maximum
+**Total Skills Available:** 599
 
 ***
 
@@ -117,6 +101,14 @@ Stay connected to the latest in weather forecasting with AccuWeather – Weather
 
 ***
 
+## &nbsp;<img src="skills/B01E3XNCKE/skill_icon" alt="Acoustic Chord icon" width="36"> [Acoustic Chord](skills/B01E3XNCKE)
+
+*Alexa, ask Acoustic Chord to play D seventh*
+
+TsaTsaTzu's presents Acoustic Chord, for handsfree help playing chords. Keeping your hands on your instrument you can check your chords and all variant tabs.
+
+***
+
 ## &nbsp;<img src="skills/B01B6UGXXK/skill_icon" alt="Acoustic Metronome icon" width="36"> [Acoustic Metronome](skills/B01B6UGXXK)
 
 *Alexa, open metronome*
@@ -196,6 +188,14 @@ Always Sunny in Philadelphia Trivia Game!
 *Alexa, ask Word Master to play a game*
 
 Word Master is an interactive way to learn and challenge yourself with words, while having fun with competing scores. Score higher to win!
+
+***
+
+## &nbsp;<img src="skills/B01E4C70XO/skill_icon" alt="American History Quiz icon" width="36"> [American History Quiz](skills/B01E4C70XO)
+
+*Alexa ask american history quiz*
+
+This test asks basic facts about the United States of America.
 
 ***
 
@@ -415,6 +415,14 @@ Baby stats is a skill that counts stats for your babies diapers (wet and stool),
 
 ***
 
+## &nbsp;<img src="skills/B01E5T1IRU/skill_icon" alt="Barcelona Quiz icon" width="36"> [Barcelona Quiz](skills/B01E5T1IRU)
+
+*Alexa, ask Barcelona Quiz to start*
+
+Barcelona Quiz. A fun way to prepare for your holidays!
+
+***
+
 ## &nbsp;<img src="skills/B01D8GGZEC/skill_icon" alt="Bargain Buddy icon" width="36"> [Bargain Buddy](skills/B01D8GGZEC)
 
 *Alexa, ask Bargain Buddy for the Woot.*
@@ -564,6 +572,14 @@ It's the 50th anniversary of football's biggest game. Test your Big Game knowled
 *Alexa, ask The Biking Wizard if I should go biking in Whistler today*
 
 Biking Wizard can tell you if the weather is right for a bike ride!
+
+***
+
+## &nbsp;<img src="skills/B01DYBRM0M/skill_icon" alt="Billy the Random Number Goat icon" width="36"> [Billy the Random Number Goat](skills/B01DYBRM0M)
+
+*Alexa ask Billy Goat for a number.*
+
+Billy the Random Number Goat will provide you with a random number. If you don't provide a range, Billy Goat will choose a number between one and one hundred.
 
 ***
 
@@ -848,6 +864,14 @@ Cat Facts Trivia - test your knowledge of cat facts!
 
 ***
 
+## &nbsp;<img src="skills/B01E106YAE/skill_icon" alt="Ceaseless icon" width="36"> [Ceaseless](skills/B01E106YAE)
+
+*Alexa, ask Ceaseless for today's proverb*
+
+Ask and receive wisdom from the Bible each day with Ceaseless
+
+***
+
 ## &nbsp;<img src="skills/B01BFXE0RO/skill_icon" alt="CheerLights icon" width="36"> [CheerLights](skills/B01BFXE0RO)
 
 *Alexa open cheer lights*
@@ -1021,6 +1045,14 @@ Find out who's online at in Convrge
 *Alexa, ask cook book how to make a burger*
 
 This skills allow users to find recipes - ingredients, cook steps, health info etc
+
+***
+
+## &nbsp;<img src="skills/B01DVOX6MU/skill_icon" alt="CouchPotato icon" width="36"> [CouchPotato](skills/B01DVOX6MU)
+
+*Alexa, ask Couch Potato if I should go outside in Hollywood?*
+
+Couch Potato knows when you should really just stay inside, like, really.
 
 ***
 
@@ -1488,6 +1520,22 @@ Retrieve fantasy football news and player updates on the Top 300 players directl
 
 ***
 
+## &nbsp;<img src="skills/B01DJKY2ZG/skill_icon" alt="Fantasy Scoreboards icon" width="36"> [Fantasy Scoreboards](skills/B01DJKY2ZG)
+
+*Alexa, ask Fantasy Scoreboard to show the Sens game*
+
+Control your Fantasy Scoreboard
+
+***
+
+## &nbsp;<img src="skills/B01E2UV19W/skill_icon" alt="Fencing Geek icon" width="36"> [Fencing Geek](skills/B01E2UV19W)
+
+*Alexa, ask fencing geek for a fencing fact*
+
+Some facts about the noble sport of Fencing that might pique your interest.
+
+***
+
 ## &nbsp;<img src="skills/B019ZY1ECY/skill_icon" alt="Fidelity Investments icon" width="36"> [Fidelity Investments](skills/B019ZY1ECY)
 
 *Alexa, Ask Fidelity to get a quote for Amazon*
@@ -1501,6 +1549,14 @@ Ask Fidelity Quote Lookup and Market Update
 *Alexa, ask first aid egghead what's the treatment for a cut*
 
 First Aid Egghead is an Alexa Skill designed to be your in-house First Responder for minor medical emergencies.
+
+***
+
+## &nbsp;<img src="skills/B01DV7E6XA/skill_icon" alt="Fit Assist icon" width="36"> [Fit Assist](skills/B01DV7E6XA)
+
+*Alexa, tell fit assist to give me some health advice*
+
+This is a simple skill to allow you to ask Alexa to tell you some interesting fitness facts.
 
 ***
 
@@ -1541,6 +1597,14 @@ Search DOMESTIC U.S. flights for lowest price, one way or round trip. Say "Ask F
 *Alexa, open Focus Word.*
 
 Focus Word provides an inspirational word and statement about the word to serve as a point of focus for meditation or for the day.
+
+***
+
+## &nbsp;<img src="skills/B01E31BCQC/skill_icon" alt="Food Finder icon" width="36"> [Food Finder](skills/B01E31BCQC)
+
+*Alexa, ask food finder what I should eat*
+
+Not sure what kind of food to eat for lunch or dinner?  Ask Food Finder to suggest something. For example, say "Alexa, ask Food Finder what I should eat."
 
 ***
 
@@ -1807,6 +1871,14 @@ Just a fun little trivia app for Spurs fans. We are not officially related in an
 *Alexa, open G. C. D.*
 
 G. C. D.  The greatest common divisor of 2 numbers
+
+***
+
+## &nbsp;<img src="skills/B01DWFB1DE/skill_icon" alt="GreenIQ icon" width="36"> [GreenIQ](skills/B01DWFB1DE)
+
+*Alexa, ask green i. q. to turn off all zones*
+
+Control your GreenIQ Smart Garden Hub.
 
 ***
 
@@ -2331,6 +2403,14 @@ Alexa, ask manorama for the latest news
 
 ***
 
+## &nbsp;<img src="skills/B01E4B6AM2/skill_icon" alt="MARA Running Assistant icon" width="36"> [MARA Running Assistant](skills/B01E4B6AM2)
+
+*Alexa, ask Mara for my fastest mile.*
+
+The MARA skill allows you to ask Alexa about the runs you've done with the MARA Running Assistant iPhone app.
+
+***
+
 ## &nbsp;<img src="skills/B01DJKKVLA/skill_icon" alt="March Madness Trivia icon" width="36"> [March Madness Trivia](skills/B01DJKKVLA)
 
 *Alexa, open/play March madness trivia*
@@ -2352,6 +2432,14 @@ Latest news headlines from Reuters, Market Watch, Wall Street Journal, CNBC, etc
 *Alexa, launch martial art trivia!*
 
 Various, family friendly martial art trivia
+
+***
+
+## &nbsp;<img src="skills/B01DSJ968Q/skill_icon" alt="Math Challenge icon" width="36"> [Math Challenge](skills/B01DSJ968Q)
+
+*Alexa, ask Math Challenge to give me an addition problem with two digits*
+
+Practice your math arithmetic with this skill
 
 ***
 
@@ -2688,6 +2776,14 @@ My Dermatologist is designed for your skin health. At My Dermatologist we will p
 *Alexa, tell My Memory that on Tuesday I water the plants.*
 
 A simple scratchpad of things you want to remember, and what day you did them.
+
+***
+
+## &nbsp;<img src="skills/B01E0EUP9W/skill_icon" alt="My Spirit Animal Skill icon" width="36"> [My Spirit Animal Skill](skills/B01E0EUP9W)
+
+*Alexa open oh wise one*
+
+Find out what your spirit animal is at that time. This will help guide decisions you make for the day and bring a new perspective to life.
 
 ***
 
@@ -3976,7 +4072,7 @@ A Phish Trivia Game
 
 ## &nbsp;<img src="skills/B01DNNK25I/skill_icon" alt="The Pianist icon" width="36"> [The Pianist](skills/B01DNNK25I)
 
-*Alexa, ask The Pianist for an a.*
+*Alexa, ask The Pianist for an A.*
 
 The Pianist - your personal musical assistant
 
@@ -4535,6 +4631,14 @@ Broaden your vocabulary with Verbivore. This skill, perfect for scholars, educat
 
 ***
 
+## &nbsp;<img src="skills/B01E3USJ1O/skill_icon" alt="Virtual Academy icon" width="36"> [Virtual Academy](skills/B01E3USJ1O)
+
+*Alexa, ask virtual academy what are the events in may*
+
+Ask Virtual Academy about upcoming events, courses and holidays.
+
+***
+
 ## &nbsp;<img src="skills/B01A6ACVD2/skill_icon" alt="Vivint.SmartHome icon" width="36"> [Vivint.SmartHome](skills/B01A6ACVD2)
 
 *Alexa, tell Vivint to lock my doors*
@@ -4567,6 +4671,14 @@ Tennessee Walking Horse Facts
 
 ***
 
+## &nbsp;<img src="skills/B01DSB0RGE/skill_icon" alt="Warden icon" width="36"> [Warden](skills/B01DSB0RGE)
+
+*Alexa, ask the warden if DMX is in jail*
+
+Ask the warden if DMX is in jail
+
+***
+
 ## &nbsp;<img src="skills/B01DPM0ERI/skill_icon" alt="Wedding Countdown icon" width="36"> [Wedding Countdown](skills/B01DPM0ERI)
 
 *Alexa, ask Wedding Countdown how many days until my wedding?*
@@ -4588,6 +4700,14 @@ Trivia game about whales
 *Alexa, open Who Played Bond*
 
 Test your knowledge of the 007 films by matching which actor played bond in each movie.
+
+***
+
+## &nbsp;<img src="skills/B01E0GJQFO/skill_icon" alt="Who's On First? Baseball Skit icon" width="36"> [Who's On First? Baseball Skit](skills/B01E0GJQFO)
+
+*Alexa, ask Baseball Skit for instructions*
+
+Abbott and Costello's classic baseball skit: Who's On First?
 
 ***
 
