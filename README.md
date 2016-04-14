@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 608
+**Total Skills Available:** 609
 
 ***
 
@@ -1261,6 +1261,14 @@ Board game missing dice?  Random encounter?  Dice Bag will roll for you, complet
 *Alexa, open dino trivia*
 
 A humorous dinosaur trivia game.   Echo asks questions and you answer by choosing 1,2,3,4.  Dinosaur questions include real and silly answers.
+
+***
+
+## &nbsp;<img src="skills/B01E6072QE/skill_icon" alt="Dinosaur Facts icon" width="36"> [Dinosaur Facts](skills/B01E6072QE)
+
+*Alexa, Open Dinosaur Facts*
+
+Do you like Dinosaurs? Of course you down. Enable this skill to learn even MORE about dinosaurs!
 
 ***
 
@@ -3019,11 +3027,11 @@ OEIS: The On-Line Encyclopedia of Integer Sequences
 
 ***
 
-## &nbsp;<img src="skills/B019YJAFPM/skill_icon" alt="Ooma Calling icon" width="36"> [Ooma Calling](skills/B019YJAFPM)
+## &nbsp;<img src="skills/B019YJAFPM/skill_icon" alt="Ooma icon" width="36"> [Ooma](skills/B019YJAFPM)
 
-*Alexa, use Ooma to call 650-555-1234*
+*Alexa, ask Ooma to play my voicemail*
 
-Dial your phone from Alexa.  Listen to your Ooma voicemail.  NOTE:  This does not make Echo into a speakerphone.
+Listen to your Ooma voicemail.  Dial your phone with voice commands.  NOTE:  This does not make Echo into a speakerphone.
 
 ***
 

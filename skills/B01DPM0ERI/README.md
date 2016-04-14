@@ -9,7 +9,11 @@ To use the Wedding Countdown skill, try saying...
 
 * *Alexa, ask Wedding Countdown to save my wedding date as May, 14, 2016.*
 
-Countdown the number of days until your wedding. Simply share your wedding date during the skill setup by using the default "ask Wedding Countdown" command. After you set your wedding date, you can ask, "how many days until my wedding?" and the skill will tell you the remaining number of days until your big date. If you need to change the date, just say, "ask Wedding Countdown to change my wedding date to..." and the updated date will be saved. To stop or cancel at any time using the skill, just answer "stop" or "cancel" to any questions. For help, say the default command for available options or "ask Wedding Countdown for help".
+Countdown the number of days until your wedding. Simply share your wedding date during the skill setup by using the default "ask Wedding Countdown" command. Your zipcode is needed to ensure the date calculation is correct for your local timezone.
+
+After you set your wedding date, you can ask, "how many days until my wedding?" and the skill will tell you the remaining number of days until your big date. If you need to change the date, just say, "ask Wedding Countdown to change my wedding date to..." and the updated date will be saved. 
+
+To stop or cancel at any time using the skill, just answer "stop" or "cancel" to any questions. For help, ask anytime.
 
 ***
 
