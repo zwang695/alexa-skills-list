@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019NTLQM4",
-  "averageRating": 4,
+  "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Other",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "pug bomb",
   "name": "Pug Bomb",
-  "numberOfReviews": 10,
+  "numberOfReviews": 11,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

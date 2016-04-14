@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DQFWAEE",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": "Reference",
   "description": "Wondering where the phone number that just called you was located in the US? Looking for the city name for a US zip code? Need to know the area code in the city where you'll soon be traveling?\n\nCode finder is here to help!\n\nSearch by area code, zip code, or city and state to hear more information about that location.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask code finder where zip code 13212 is.",
+    "Alexa, ask code finder where area code 253 is.",
     "Alexa, ask code finder what the area code is for Ventura, California.",
-    "Alexa, ask code finder where area code 253 is."
+    "Alexa, ask code finder where zip code 13212 is."
   ],
   "firstReleaseDate": 1460397749.545,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "code finder",
   "name": "Code Finder",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

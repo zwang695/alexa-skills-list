@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 600
+**Total Skills Available:** 608
 
 ***
 
@@ -82,6 +82,14 @@ A fan's trivia app covering the San Francisco Giants since the mid 80's.
 *Alexa, open Yo Mama Joke*
 
 This skill will randomly pick from over 2,000 Yo Mama Jokes.
+
+***
+
+## &nbsp;<img src="skills/B01DMKNHXG/skill_icon" alt="abode icon" width="36"> [abode](skills/B01DMKNHXG)
+
+*Alexa Tell abode that I am leaving*
+
+Control your abode home security system with Alexa voice commands.  Ask Alexa to arm your system, get the status of your doors, or determine your system status.
 
 ***
 
@@ -180,6 +188,14 @@ Take a pilates class from ALotOfPilates.com. Get ready to feel great!
 *Ask Always Sunny trivia*
 
 Always Sunny in Philadelphia Trivia Game!
+
+***
+
+## &nbsp;<img src="skills/B01DOTXR1C/skill_icon" alt="Amazing India icon" width="36"> [Amazing India](skills/B01DOTXR1C)
+
+*Alexa ask Namaste*
+
+To Know about India and India's History and amazing facts about India.
 
 ***
 
@@ -356,6 +372,14 @@ Ask Donald Trump a question
 *Alexa, ask Daily Prayers for prayer times in Seattle*
 
 Athan provides the Islamic Prayer Times in a given city.
+
+***
+
+## &nbsp;<img src="skills/B01DKT5O7G/skill_icon" alt="Atlas icon" width="36"> [Atlas](skills/B01DKT5O7G)
+
+*Alexa, ask Atlas to find Boston, Massachusetts*
+
+Finds the latitude and longitude of US cities.
 
 ***
 
@@ -938,7 +962,7 @@ Christopher's Airplane Trivia. Learn facts and trivia about a wide variety of ai
 
 ## &nbsp;<img src="skills/B01DQFWAEE/skill_icon" alt="Code Finder icon" width="36"> [Code Finder](skills/B01DQFWAEE)
 
-*Alexa, ask code finder where zip code 13212 is.*
+*Alexa, ask code finder where area code 253 is.*
 
 Find information based on area code, postal code, or US city using Alexa.
 
@@ -2507,6 +2531,14 @@ Boston MBTA helper
 
 ***
 
+## &nbsp;<img src="skills/B01E1ZSQ5U/skill_icon" alt="Meal Idea icon" width="36"> [Meal Idea](skills/B01E1ZSQ5U)
+
+*Alexa, ask meal idea to tell me a meal idea*
+
+Hear meal ideas that use basic, every day ingredients that you already have in your pantry or fridge.
+
+***
+
 ## &nbsp;<img src="skills/B01DN2JN9U/skill_icon" alt="MeatButler icon" width="36"> [MeatButler](skills/B01DN2JN9U)
 
 *Alexa, ask Meat Butler to help me prepare steak?*
@@ -2648,6 +2680,14 @@ Allows you to control your home using an ISY home-automation controller with Mob
 *Alexa, ask Mojio where is my car*
 
 Talk to your car with the Amazon Echo skill by Mojio. Connect your Alexa and Mojio accounts  to get real-time information about your car, no matter where it is.
+
+***
+
+## &nbsp;<img src="skills/B01E69Q158/skill_icon" alt="Mormon Trivia icon" width="36"> [Mormon Trivia](skills/B01E69Q158)
+
+*Alexa, launch Mormon Trivia*
+
+Mormon trivia from the Book of Mormon and The Church of Jesus Christ of Latter-day Saints history.
 
 ***
 
@@ -3598,6 +3638,14 @@ Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 
 ***
 
+## &nbsp;<img src="skills/B01DV5OZR4/skill_icon" alt="Shakespeare Quotes icon" width="36"> [Shakespeare Quotes](skills/B01DV5OZR4)
+
+*Alexa ask a quote from shakespeare*
+
+Hear a shakespeare quote and be delighted and enriched.
+
+***
+
 ## &nbsp;<img src="skills/B01COCCKW2/skill_icon" alt="Sheep Count icon" width="36"> [Sheep Count](skills/B01COCCKW2)
 
 *Alexa, start Sheep Count*
@@ -4262,6 +4310,14 @@ An Alexa Skill for interacting with Product Hunt.
 
 ***
 
+## &nbsp;<img src="skills/B01E6C55XO/skill_icon" alt="Today's Historical Facts icon" width="36"> [Today's Historical Facts](skills/B01E6C55XO)
+
+*Alexa, ask for today's facts*
+
+Historical Facts picked for today!
+
+***
+
 ## &nbsp;<img src="skills/B01CQ39TIC/skill_icon" alt="Toon Goggles icon" width="36"> [Toon Goggles](skills/B01CQ39TIC)
 
 *Alexa, ask Toon Goggles to open Bernard*
@@ -4571,6 +4627,14 @@ Ubi Portal Voice Prototyping Tool allows for very quickly showcasing interaction
 *Alexa, Tell Uncle Shakespeare to insult me!*
 
 Let Uncle Shakespeare insult you. These jibes are randomly composed from adjectives and nouns taken from Shakespeare's works.
+
+***
+
+## &nbsp;<img src="skills/B01E6DLPT6/skill_icon" alt="Unicorn Trivia icon" width="36"> [Unicorn Trivia](skills/B01E6DLPT6)
+
+*Alexa, launch Unicorn Trivia*
+
+Unicorns are more than mythical creatures! Test your knowledge of $1 billion companies, or use this skill simply to learn more about them.
 
 ***
 
