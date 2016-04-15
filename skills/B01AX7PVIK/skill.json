@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01AX7PVIK",
-  "averageRating": 4.7,
+  "averageRating": 4.6,
   "canDisable": true,
   "capabilities": null,
   "category": "Reference",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "earthquakes",
   "name": "Ask Earthquakes",
-  "numberOfReviews": 9,
+  "numberOfReviews": 10,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.hrdirder.net/policy.html",

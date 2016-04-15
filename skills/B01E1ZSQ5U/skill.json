@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01E1ZSQ5U",
-  "averageRating": 5,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Food/Cooking",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "meal idea",
   "name": "Meal Idea",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://tocarmedia.squarespace.com/mealidea",

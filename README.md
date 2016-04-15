@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 613
+**Total Skills Available:** 614
 
 ***
 
@@ -122,6 +122,14 @@ TsaTsaTzu's presents Acoustic Chord, for handsfree help playing chords. Keeping 
 *Alexa, open metronome*
 
 TsaTsaTzu presents a handsfree metronome for the Alexa. For the tempo-minded soul within.
+
+***
+
+## &nbsp;<img src="skills/B01E3XNLNW/skill_icon" alt="Acoustic Tuner icon" width="36"> [Acoustic Tuner](skills/B01E3XNLNW)
+
+*Alexa, open acoustic tuner*
+
+TsaTsaTzu's presents Acoustic Tuner for hands free, accurate, instrument  or vocal tuning. For help tuning your instrument mid-song.
 
 ***
 
@@ -4179,6 +4187,7 @@ The Pianist - your personal musical assistant
 *Alexa, ask The Rabbi what time is Shabbos in New York?*
 
 Gives you the start and end times for Shabbos by city, the Hebrew (Jewish) date for any day this week or next, and the Torah portion of this week.
+Chabad.org
 
 ***
 
