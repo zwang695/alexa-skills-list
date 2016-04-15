@@ -1,0 +1,24 @@
+# &nbsp;<img src="skill_icon" alt="Quiz for League of Legends (Fan-made) icon" width="36"> Quiz for League of Legends (Fan-made)
+![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+
+To use the Quiz for League of Legends (Fan-made) skill, try saying...
+
+* *Alexa, open League Quiz*
+
+* *new game*
+
+* *my answer is 1*
+
+This quiz will test your knowledge of Riot's League of Legends. Play against a friend and see how much you really know about the most played online game in the world! You will be given five random questions concerning various aspects of the game; champion lore, League of Legends Championship Series, and the company Riot Games.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** league quiz
+* **Category:** Entertainment
+* **ID:** amzn1.echo-sdk-ams.app.7e911982-b311-4864-aed6-8314bdd57a48
+* **ASIN:** B01E4YSV5S
+* **Author:** Christian Baez
+* **Release Date:** April 15, 2016 @ 03:02:30
+* **In-App Purchasing:** No

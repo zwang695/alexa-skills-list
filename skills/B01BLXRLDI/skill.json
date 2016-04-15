@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BLXRLDI",
-  "averageRating": 4.2,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": "Entertainment",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "yo mama joke",
   "name": "A Yo Mama Joke",
-  "numberOfReviews": 6,
+  "numberOfReviews": 7,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

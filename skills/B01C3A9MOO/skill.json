@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01C3A9MOO",
-  "averageRating": 3,
+  "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
   "category": "Utilities",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "twister spinner",
   "name": "Twister Spinner",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

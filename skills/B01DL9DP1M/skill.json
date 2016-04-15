@@ -3,7 +3,7 @@
     "zubiecar.com"
   ],
   "asin": "B01DL9DP1M",
-  "averageRating": 5,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Other",
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "zubie",
   "name": "Zubie",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": "5NRd17S3kKGYVehWX3GLp16jP",
   "permissions": null,
   "privacyPolicyUrl": "http://zubie.com/privacy/",

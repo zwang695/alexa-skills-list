@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01DKI6KAC",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": "Health-and-Fitness",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "starfish band",
   "name": "Starfish Band",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "cVeI1bJUaWDLDQTgsvnGO2NOv",
   "permissions": null,
   "privacyPolicyUrl": "http://starfishmint.com/policy/privacy-band.html",

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 609
+**Total Skills Available:** 613
 
 ***
 
@@ -1762,6 +1762,14 @@ Interesting and fun facts about the amazing dog breed known as the Bulldog!
 
 ***
 
+## &nbsp;<img src="skills/B01E81WBHG/skill_icon" alt="Funny Batman Trivia icon" width="36"> [Funny Batman Trivia](skills/B01E81WBHG)
+
+*Alexa, open Funny Batman Trivia*
+
+Test your knowledge with this funny Batman based trivia game!
+
+***
+
 ## &nbsp;<img src="skills/B01D8ESCDG/skill_icon" alt="Funny Quoter icon" width="36"> [Funny Quoter](skills/B01D8ESCDG)
 
 *Alexa, ask Funny Quoter to tell me a quote.*
@@ -2963,6 +2971,14 @@ Get information on your NJ Transit Train. Current version will give information 
 
 ***
 
+## &nbsp;<img src="skills/B01E7NCYS6/skill_icon" alt="Noodle It Out icon" width="36"> [Noodle It Out](skills/B01E7NCYS6)
+
+*Alexa launch Noodle It Out*
+
+Noodle It Out is a trivia game for all foodies!
+
+***
+
 ## &nbsp;<img src="skills/B01CQ255T0/skill_icon" alt="North Carolina Trivia icon" width="36"> [North Carolina Trivia](skills/B01CQ255T0)
 
 *Alexa, launch North Carolina Trivia*
@@ -3358,6 +3374,14 @@ Quickly add events to your primary Google Calendar. Quick Events will notify you
 
 ***
 
+## &nbsp;<img src="skills/B01E4YSV5S/skill_icon" alt="Quiz for League of Legends (Fan-made) icon" width="36"> [Quiz for League of Legends (Fan-made)](skills/B01E4YSV5S)
+
+*Alexa, open League Quiz*
+
+Fun fan-made League of Legends Quiz. You will be asked five questions that deal with champion lore, League of Legends Championship Series, and about Riot Games.
+
+***
+
 ## &nbsp;<img src="skills/B01C7XOF62/skill_icon" alt="Quiz on Harry Potter icon" width="36"> [Quiz on Harry Potter](skills/B01C7XOF62)
 
 *Alexa, Open wizard*
@@ -3419,6 +3443,14 @@ Ask for a random number between 1 and 100
 *Alexa, ask Randomizer for a random number.*
 
 This is just random value picker e.g. Alexa, ask Randomizer for any random number. Alexa ask Randomizer for number greater than ten. like this.
+
+***
+
+## &nbsp;<img src="skills/B01E1JMRII/skill_icon" alt="Red Stick Transit icon" width="36"> [Red Stick Transit](skills/B01E1JMRII)
+
+*Alexa, Ask Red Stick about stop 1344.*
+
+Get predicted bus arrivals at bus stops on the CATS transit system in Baton Rouge, Louisiana
 
 ***
 
