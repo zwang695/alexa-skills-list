@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Tube icon" width="36"> The Tube
+# &nbsp;<img src="skill_icon" alt="The Tube icon" width="36"> [The Tube](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c7690e0c-1719-4c21-97ee-ee62e36c7fd0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Tube skill, try saying...

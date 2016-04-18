@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Life Counter for MTG icon" width="36"> Life Counter for MTG
+# &nbsp;<img src="skill_icon" alt="Life Counter for MTG icon" width="36"> [Life Counter for MTG](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c92b8a78-da3c-4b70-84c3-afbc65333da7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Life Counter for MTG skill, try saying...

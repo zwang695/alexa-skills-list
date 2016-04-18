@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="King Of Pop Trivia icon" width="36"> King Of Pop Trivia
+# &nbsp;<img src="skill_icon" alt="King Of Pop Trivia icon" width="36"> [King Of Pop Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.172102eb-8a64-4961-b736-31d9cb691bce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the King Of Pop Trivia skill, try saying...

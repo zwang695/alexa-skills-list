@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Big Game Ultimate Trivia Quiz icon" width="36"> Big Game Ultimate Trivia Quiz
+# &nbsp;<img src="skill_icon" alt="Big Game Ultimate Trivia Quiz icon" width="36"> [Big Game Ultimate Trivia Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e53313d6-65a1-46f2-b3f9-2d91a1baf7c0)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Big Game Ultimate Trivia Quiz skill, try saying...

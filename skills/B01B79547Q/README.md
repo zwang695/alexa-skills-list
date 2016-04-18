@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia for Doctor Who icon" width="36"> Trivia for Doctor Who
+# &nbsp;<img src="skill_icon" alt="Trivia for Doctor Who icon" width="36"> [Trivia for Doctor Who](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9c607402-8cfb-46fb-8f45-afb89ae9067a)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Trivia for Doctor Who skill, try saying...

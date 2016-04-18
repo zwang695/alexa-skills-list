@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Warden icon" width="36"> Warden
+# &nbsp;<img src="skill_icon" alt="Warden icon" width="36"> [Warden](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d0b1bf1d-3cd1-4677-bd7e-78e9b62d93e1)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Warden skill, try saying...

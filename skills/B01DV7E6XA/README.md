@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fit Assist icon" width="36"> Fit Assist
+# &nbsp;<img src="skill_icon" alt="Fit Assist icon" width="36"> [Fit Assist](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.385d2d97-5d82-44a0-b75f-3adb1d02655e)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Fit Assist skill, try saying...

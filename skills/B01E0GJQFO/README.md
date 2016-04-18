@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Who's On First? Baseball Skit icon" width="36"> Who's On First? Baseball Skit
+# &nbsp;<img src="skill_icon" alt="Who's On First? Baseball Skit icon" width="36"> [Who's On First? Baseball Skit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a541d062-bdb1-4395-b1e2-5d1106ff4ff1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Who's On First? Baseball Skit skill, try saying...

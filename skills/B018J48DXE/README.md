@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Long Weekend Info icon" width="36"> Long Weekend Info
+# &nbsp;<img src="skill_icon" alt="Long Weekend Info icon" width="36"> [Long Weekend Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5c54487b-0481-4e61-bbf9-391c349139b9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Long Weekend Info skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Jokes++: Computer Science Jokes icon" width="36"> Jokes++: Computer Science Jokes
+# &nbsp;<img src="skill_icon" alt="Jokes++: Computer Science Jokes icon" width="36"> [Jokes++: Computer Science Jokes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9a9b2ebd-b4ef-496b-a42e-01c2e4079cfd)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Jokes++: Computer Science Jokes skill, try saying...

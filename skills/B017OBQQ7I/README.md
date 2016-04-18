@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Famous Quotes icon" width="36"> Famous Quotes
+# &nbsp;<img src="skill_icon" alt="Famous Quotes icon" width="36"> [Famous Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.90c6f0e0-6bfe-4106-94c2-2283abd75a5d)
 ![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Famous Quotes skill, try saying...

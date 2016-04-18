@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bubble Boy icon" width="36"> Bubble Boy
+# &nbsp;<img src="skill_icon" alt="Bubble Boy icon" width="36"> [Bubble Boy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b9043837-26de-47ce-9fc0-da97d37d52f6)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Bubble Boy skill, try saying...

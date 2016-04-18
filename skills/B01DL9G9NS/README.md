@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Terrell Trivia icon" width="36"> Terrell Trivia
+# &nbsp;<img src="skill_icon" alt="Terrell Trivia icon" width="36"> [Terrell Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.16f71366-1ffe-4874-a64f-148ae17cd23d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Terrell Trivia skill, try saying...

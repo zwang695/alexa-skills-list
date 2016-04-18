@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="For The Loft Cinema icon" width="36"> For The Loft Cinema
+# &nbsp;<img src="skill_icon" alt="For The Loft Cinema icon" width="36"> [For The Loft Cinema](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bdfed8d0-1018-4d3b-83f7-5b8bc208f9fb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the For The Loft Cinema skill, try saying...

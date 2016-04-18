@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Art of War icon" width="36"> The Art of War
+# &nbsp;<img src="skill_icon" alt="The Art of War icon" width="36"> [The Art of War](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.054628f9-f004-4efa-8894-80b00f018718)
 ![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the The Art of War skill, try saying...

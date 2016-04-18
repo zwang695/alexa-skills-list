@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="US National Parks Game icon" width="36"> US National Parks Game
+# &nbsp;<img src="skill_icon" alt="US National Parks Game icon" width="36"> [US National Parks Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0d1811fe-2e57-4dc8-a500-144af30b19d6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the US National Parks Game skill, try saying...

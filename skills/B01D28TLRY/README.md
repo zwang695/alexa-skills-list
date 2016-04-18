@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Malayala Manorama icon" width="36"> Malayala Manorama
+# &nbsp;<img src="skill_icon" alt="Malayala Manorama icon" width="36"> [Malayala Manorama](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3aaaa53c-6fa5-497c-8e2d-bba4a502e69a)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Malayala Manorama skill, try saying...

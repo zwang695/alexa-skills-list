@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="KCRW On Air icon" width="36"> KCRW On Air
+# &nbsp;<img src="skill_icon" alt="KCRW On Air icon" width="36"> [KCRW On Air](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6be6e402-a417-42d6-aa4b-6efba32d31a6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the KCRW On Air skill, try saying...

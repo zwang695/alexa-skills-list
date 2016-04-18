@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Exchange Rate Service icon" width="36"> Exchange Rate Service
+# &nbsp;<img src="skill_icon" alt="Exchange Rate Service icon" width="36"> [Exchange Rate Service](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f3d0442f-568e-4790-a431-1b48e70546af)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Exchange Rate Service skill, try saying...

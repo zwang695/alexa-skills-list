@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Twenty Questions icon" width="36"> Twenty Questions
+# &nbsp;<img src="skill_icon" alt="Twenty Questions icon" width="36"> [Twenty Questions](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.981b5af5-089f-4112-9913-4588bc5beb2a)
 ![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Twenty Questions skill, try saying...

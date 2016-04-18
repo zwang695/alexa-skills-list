@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Restaurant Recommendations icon" width="36"> Restaurant Recommendations
+# &nbsp;<img src="skill_icon" alt="Restaurant Recommendations icon" width="36"> [Restaurant Recommendations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3f454bab-9969-40e4-ac0d-50112cc55132)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Restaurant Recommendations skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fortune Cookie icon" width="36"> Fortune Cookie
+# &nbsp;<img src="skill_icon" alt="Fortune Cookie icon" width="36"> [Fortune Cookie](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c94e45c9-91d8-4ef2-aa3b-586c87f5f1ba)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Fortune Cookie skill, try saying...

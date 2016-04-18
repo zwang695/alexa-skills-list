@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Rabbi icon" width="36"> The Rabbi
+# &nbsp;<img src="skill_icon" alt="The Rabbi icon" width="36"> [The Rabbi](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec9cc97e-8eb3-4583-b8b0-9ef589d58775)
 ![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the The Rabbi skill, try saying...

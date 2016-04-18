@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pug Bomb icon" width="36"> Pug Bomb
+# &nbsp;<img src="skill_icon" alt="Pug Bomb icon" width="36"> [Pug Bomb](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.28cc84df-138f-42b5-9dc3-8bae42ad8398)
 ![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 12
 
 To use the Pug Bomb skill, try saying...

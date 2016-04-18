@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Reflect Connect icon" width="36"> Reflect Connect
+# &nbsp;<img src="skill_icon" alt="Reflect Connect icon" width="36"> [Reflect Connect](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2db07970-b5b3-44d5-bc6e-131de088bfb8)
 ![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 17
 
 To use the Reflect Connect skill, try saying...

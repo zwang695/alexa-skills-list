@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Math Kata icon" width="36"> Math Kata
+# &nbsp;<img src="skill_icon" alt="Math Kata icon" width="36"> [Math Kata](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.52d79118-779f-4144-806f-84dd6421b332)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Math Kata skill, try saying...

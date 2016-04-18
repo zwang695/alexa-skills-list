@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Power Ball icon" width="36"> Power Ball
+# &nbsp;<img src="skill_icon" alt="Power Ball icon" width="36"> [Power Ball](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1d825868-1cbe-4ba0-a8e9-2fb9a5b196de)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Power Ball skill, try saying...

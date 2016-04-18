@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Listeners icon" width="36"> The Listeners
+# &nbsp;<img src="skill_icon" alt="The Listeners icon" width="36"> [The Listeners](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.586aa4c5-12ca-496b-b7f1-3e93880f35de)
 ![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 14
 
 To use the The Listeners skill, try saying...

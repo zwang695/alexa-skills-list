@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="American History Quiz icon" width="36"> American History Quiz
+# &nbsp;<img src="skill_icon" alt="American History Quiz icon" width="36"> [American History Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8d3d135-d78c-40ff-bbcc-43c18a9a5bd5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the American History Quiz skill, try saying...

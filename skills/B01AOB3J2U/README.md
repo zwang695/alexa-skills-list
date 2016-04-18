@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Quick Check Quiz icon" width="36"> Quick Check Quiz
+# &nbsp;<img src="skill_icon" alt="Quick Check Quiz icon" width="36"> [Quick Check Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c52c7e96-6d7d-4f9f-8134-8b37286a3a26)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Quick Check Quiz skill, try saying...

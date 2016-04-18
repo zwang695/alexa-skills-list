@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bird Trivia icon" width="36"> Bird Trivia
+# &nbsp;<img src="skill_icon" alt="Bird Trivia icon" width="36"> [Bird Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e7e520f5-e480-4351-aae8-d235748f0ef3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bird Trivia skill, try saying...

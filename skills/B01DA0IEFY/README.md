@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Your Daily Friend icon" width="36"> Your Daily Friend
+# &nbsp;<img src="skill_icon" alt="Your Daily Friend icon" width="36"> [Your Daily Friend](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d6f2cc48-6018-4b62-82c8-79220013cfb7)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Your Daily Friend skill, try saying...

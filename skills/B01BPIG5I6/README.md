@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Women's Underwear icon" width="36"> Women's Underwear
+# &nbsp;<img src="skill_icon" alt="Women's Underwear icon" width="36"> [Women's Underwear](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.239facdb-e5f0-4f45-baf8-7693b564ce4d)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Women's Underwear skill, try saying...

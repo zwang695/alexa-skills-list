@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Simple Control icon" width="36"> Simple Control
+# &nbsp;<img src="skill_icon" alt="Simple Control icon" width="36"> [Simple Control](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0a6396ed-b380-4d46-8794-8036e3c5b589)
 ![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 19
 
 To use the Simple Control skill, try saying...

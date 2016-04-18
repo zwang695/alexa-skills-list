@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Challenge: U.S History icon" width="36"> Trivia Challenge: U.S History
+# &nbsp;<img src="skill_icon" alt="Trivia Challenge: U.S History icon" width="36"> [Trivia Challenge: U.S History](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1d4ead35-21f8-42bb-ab3b-f14e2a5c98d4)
 ![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Trivia Challenge: U.S History skill, try saying...

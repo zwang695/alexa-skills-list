@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Powerball Numbers icon" width="36"> Powerball Numbers
+# &nbsp;<img src="skill_icon" alt="Powerball Numbers icon" width="36"> [Powerball Numbers](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.42c328ee-e617-4138-a366-0eb5b5f3aab8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Powerball Numbers skill, try saying...

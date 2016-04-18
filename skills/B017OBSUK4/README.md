@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Superpower! icon" width="36"> Superpower!
+# &nbsp;<img src="skill_icon" alt="Superpower! icon" width="36"> [Superpower!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.44b7b9da-ae74-42ae-8a4f-0acdc834c737)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Superpower! skill, try saying...

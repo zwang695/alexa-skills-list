@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Essential Trivia icon" width="36"> Essential Trivia
+# &nbsp;<img src="skill_icon" alt="Essential Trivia icon" width="36"> [Essential Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d099af1c-ad73-43e2-a32c-3f604b6839c0)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Essential Trivia skill, try saying...

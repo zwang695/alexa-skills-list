@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia for Monopoly icon" width="36"> Trivia for Monopoly
+# &nbsp;<img src="skill_icon" alt="Trivia for Monopoly icon" width="36"> [Trivia for Monopoly](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4e314c31-e60b-4aef-81b0-4dee558570b7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia for Monopoly skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Puget Sound icon" width="36"> Puget Sound
+# &nbsp;<img src="skill_icon" alt="Puget Sound icon" width="36"> [Puget Sound](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.84b78272-1cd7-4abc-9b7a-cdcf0ed1d5dc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Puget Sound skill, try saying...

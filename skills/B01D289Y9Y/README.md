@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia for Fans of Superman icon" width="36"> Trivia for Fans of Superman
+# &nbsp;<img src="skill_icon" alt="Trivia for Fans of Superman icon" width="36"> [Trivia for Fans of Superman](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dd5f668b-0576-49b0-9d5c-d3ed764e5b02)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Trivia for Fans of Superman skill, try saying...

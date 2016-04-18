@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CTA Tracker icon" width="36"> CTA Tracker
+# &nbsp;<img src="skill_icon" alt="CTA Tracker icon" width="36"> [CTA Tracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d9c48e07-6b2f-4337-af5b-529847cf1dc6)
 ![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the CTA Tracker skill, try saying...

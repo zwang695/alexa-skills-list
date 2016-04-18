@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cricket Fact Skill icon" width="36"> Cricket Fact Skill
+# &nbsp;<img src="skill_icon" alt="Cricket Fact Skill icon" width="36"> [Cricket Fact Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0fcbd76f-8054-491f-b56d-276a6e72c30e)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Cricket Fact Skill skill, try saying...

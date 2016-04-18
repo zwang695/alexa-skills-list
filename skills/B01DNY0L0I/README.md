@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Caltrain icon" width="36"> Caltrain
+# &nbsp;<img src="skill_icon" alt="Caltrain icon" width="36"> [Caltrain](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d58d0ca5-8528-4d39-b98b-ffb18d4feb68)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Caltrain skill, try saying...

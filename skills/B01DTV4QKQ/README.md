@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Times for MARTA icon" width="36"> Times for MARTA
+# &nbsp;<img src="skill_icon" alt="Times for MARTA icon" width="36"> [Times for MARTA](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.655fae42-075f-4425-827b-8999daeb188a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Times for MARTA skill, try saying...

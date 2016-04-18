@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Gas Price icon" width="36"> Gas Price
+# &nbsp;<img src="skill_icon" alt="Gas Price icon" width="36"> [Gas Price](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.72fcd229-ff7a-444e-9445-5504b54575d7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Gas Price skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baby Names icon" width="36"> Baby Names
+# &nbsp;<img src="skill_icon" alt="Baby Names icon" width="36"> [Baby Names](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a3e0b34d-955a-44bb-b70a-a6e98e006aa5)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Baby Names skill, try saying...

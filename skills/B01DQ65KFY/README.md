@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bible Seeds and Such icon" width="36"> Bible Seeds and Such
+# &nbsp;<img src="skill_icon" alt="Bible Seeds and Such icon" width="36"> [Bible Seeds and Such](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d5098a09-ef02-4c85-96ee-fa5e2e72b20a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bible Seeds and Such skill, try saying...

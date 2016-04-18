@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chimani icon" width="36"> Chimani
+# &nbsp;<img src="skill_icon" alt="Chimani icon" width="36"> [Chimani](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.edee5350-12dd-416a-a5ef-0dbea6f55648)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chimani skill, try saying...

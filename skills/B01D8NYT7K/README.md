@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computer Quiz icon" width="36"> Computer Quiz
+# &nbsp;<img src="skill_icon" alt="Computer Quiz icon" width="36"> [Computer Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3e75e876-109d-4e8e-8fd2-d715c707bc1b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Computer Quiz skill, try saying...

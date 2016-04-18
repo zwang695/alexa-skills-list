@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Game for Sofia The First icon" width="36"> Trivia Game for Sofia The First
+# &nbsp;<img src="skill_icon" alt="Trivia Game for Sofia The First icon" width="36"> [Trivia Game for Sofia The First](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.76fbf3ab-c157-48a4-ab5b-32db430f7574)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia Game for Sofia The First skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Bible icon" width="36"> The Bible
+# &nbsp;<img src="skill_icon" alt="The Bible icon" width="36"> [The Bible](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f23d180f-6f53-4f5f-86ea-0e400992e7a2)
 ![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the The Bible skill, try saying...

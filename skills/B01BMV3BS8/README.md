@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="RhymeZone icon" width="36"> RhymeZone
+# &nbsp;<img src="skill_icon" alt="RhymeZone icon" width="36"> [RhymeZone](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5b3f6f4f-ae24-425f-9b51-d9021856bd3a)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the RhymeZone skill, try saying...

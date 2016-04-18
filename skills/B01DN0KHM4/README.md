@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Animal Alphabet icon" width="36"> Animal Alphabet
+# &nbsp;<img src="skill_icon" alt="Animal Alphabet icon" width="36"> [Animal Alphabet](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bddf39d8-87aa-4400-81b8-3707d0b6b07a)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Animal Alphabet skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Space Weather icon" width="36"> Space Weather
+# &nbsp;<img src="skill_icon" alt="Space Weather icon" width="36"> [Space Weather](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6f831d81-32a7-49cd-a784-a6d5e81abf33)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Space Weather skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Capital Triva icon" width="36"> Capital Triva
+# &nbsp;<img src="skill_icon" alt="Capital Triva icon" width="36"> [Capital Triva](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4d7a0f0e-5f9b-40a1-a346-7464ec33e4f4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Capital Triva skill, try saying...

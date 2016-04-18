@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Noteworthy Quotes icon" width="36"> Noteworthy Quotes
+# &nbsp;<img src="skill_icon" alt="Noteworthy Quotes icon" width="36"> [Noteworthy Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9386938b-64cd-4aa8-b273-b29d571d7686)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Noteworthy Quotes skill, try saying...

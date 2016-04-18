@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Bootcamping Thought icon" width="36"> Daily Bootcamping Thought
+# &nbsp;<img src="skill_icon" alt="Daily Bootcamping Thought icon" width="36"> [Daily Bootcamping Thought](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bcbe62c4-8015-445c-a93e-ca0cb2547015)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Daily Bootcamping Thought skill, try saying...

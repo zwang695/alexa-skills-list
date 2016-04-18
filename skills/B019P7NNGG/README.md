@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Game for Michigan Football icon" width="36"> Trivia Game for Michigan Football
+# &nbsp;<img src="skill_icon" alt="Trivia Game for Michigan Football icon" width="36"> [Trivia Game for Michigan Football](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.930650cc-2fe8-4b38-a536-7a5d09832fe2)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Trivia Game for Michigan Football skill, try saying...

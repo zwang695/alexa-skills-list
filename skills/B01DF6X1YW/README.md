@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Minnesota Trivia icon" width="36"> Minnesota Trivia
+# &nbsp;<img src="skill_icon" alt="Minnesota Trivia icon" width="36"> [Minnesota Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2e28c46a-08e0-4192-9d14-cabf6e614cbd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Minnesota Trivia skill, try saying...

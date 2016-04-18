@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="S.L.P. Praxis Review icon" width="36"> S.L.P. Praxis Review
+# &nbsp;<img src="skill_icon" alt="S.L.P. Praxis Review icon" width="36"> [S.L.P. Praxis Review](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ff1bc677-ddff-4174-af0f-d8b10edc293d)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the S.L.P. Praxis Review skill, try saying...

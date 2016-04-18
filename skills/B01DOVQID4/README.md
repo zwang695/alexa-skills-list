@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Masters Trivia icon" width="36"> The Masters Trivia
+# &nbsp;<img src="skill_icon" alt="The Masters Trivia icon" width="36"> [The Masters Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fffe5f45-4424-4c01-851c-420159ac305e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Masters Trivia skill, try saying...

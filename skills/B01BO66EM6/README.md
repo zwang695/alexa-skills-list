@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Presidential Trivia icon" width="36"> Presidential Trivia
+# &nbsp;<img src="skill_icon" alt="Presidential Trivia icon" width="36"> [Presidential Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eaddcd26-5588-4a34-a435-ec9106a0b908)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Presidential Trivia skill, try saying...

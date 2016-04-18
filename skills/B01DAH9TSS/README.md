@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Brain of Things Control icon" width="36"> Brain of Things Control
+# &nbsp;<img src="skill_icon" alt="Brain of Things Control icon" width="36"> [Brain of Things Control](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9ddd02be-76e7-43e1-8480-6ad0c683897c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Brain of Things Control skill, try saying...

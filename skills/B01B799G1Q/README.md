@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Quiz for Manchester City icon" width="36"> Trivia Quiz for Manchester City
+# &nbsp;<img src="skill_icon" alt="Trivia Quiz for Manchester City icon" width="36"> [Trivia Quiz for Manchester City](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cf213818-16e1-4950-9b5c-df29d9295fc4)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Trivia Quiz for Manchester City skill, try saying...

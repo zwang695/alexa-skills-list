@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Meteor Showers icon" width="36"> Meteor Showers
+# &nbsp;<img src="skill_icon" alt="Meteor Showers icon" width="36"> [Meteor Showers](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.41ca8790-9637-45bc-b8a5-5a7e0fe2bf7e)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Meteor Showers skill, try saying...

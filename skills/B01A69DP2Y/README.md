@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lotto Now icon" width="36"> Lotto Now
+# &nbsp;<img src="skill_icon" alt="Lotto Now icon" width="36"> [Lotto Now](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.69250fc4-44f3-4ee6-b312-b72db9e8b381)
 ![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Lotto Now skill, try saying...

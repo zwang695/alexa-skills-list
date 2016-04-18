@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Phish Geek icon" width="36"> Phish Geek
+# &nbsp;<img src="skill_icon" alt="Phish Geek icon" width="36"> [Phish Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cf89e079-ee2d-4984-82c9-a062544a0bbb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Phish Geek skill, try saying...

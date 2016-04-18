@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BatteryBoot icon" width="36"> BatteryBoot
+# &nbsp;<img src="skill_icon" alt="BatteryBoot icon" width="36"> [BatteryBoot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ecbcdf2c-c4b3-47eb-bdc4-4c6d7c02f826)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the BatteryBoot skill, try saying...

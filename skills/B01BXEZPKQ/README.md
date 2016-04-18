@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Randomizer icon" width="36"> Randomizer
+# &nbsp;<img src="skill_icon" alt="Randomizer icon" width="36"> [Randomizer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bdee35b2-f6a6-4f10-836e-4d92a4ef4595)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Randomizer skill, try saying...

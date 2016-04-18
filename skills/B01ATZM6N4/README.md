@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="House Band icon" width="36"> House Band
+# &nbsp;<img src="skill_icon" alt="House Band icon" width="36"> [House Band](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.746d3120-de6b-47ca-a132-746f5b57e609)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the House Band skill, try saying...

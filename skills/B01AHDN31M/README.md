@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stringify icon" width="36"> Stringify
+# &nbsp;<img src="skill_icon" alt="Stringify icon" width="36"> [Stringify](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d9bae870-d8dd-44ca-a628-d82953d5a20e)
 ![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Stringify skill, try saying...

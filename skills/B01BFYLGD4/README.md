@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ITIL Foundation Quiz icon" width="36"> ITIL Foundation Quiz
+# &nbsp;<img src="skill_icon" alt="ITIL Foundation Quiz icon" width="36"> [ITIL Foundation Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2afe5e3d-f93d-4fc7-83f1-a48e5cbb029e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ITIL Foundation Quiz skill, try saying...

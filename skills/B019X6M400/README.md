@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Glympse icon" width="36"> Glympse
+# &nbsp;<img src="skill_icon" alt="Glympse icon" width="36"> [Glympse](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ecadc151-7d18-40e0-b307-54b691622461)
 ![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 13
 
 To use the Glympse skill, try saying...

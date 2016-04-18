@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CookBook icon" width="36"> CookBook
+# &nbsp;<img src="skill_icon" alt="CookBook icon" width="36"> [CookBook](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2c33e7d5-71b6-4d5c-9fc4-c936b1e75e1c)
 ![1.4 stars](../../images/ic_star_black_18dp_1x.png)![1.4 stars](../../images/ic_star_half_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the CookBook skill, try saying...

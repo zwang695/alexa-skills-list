@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="President Picker icon" width="36"> President Picker
+# &nbsp;<img src="skill_icon" alt="President Picker icon" width="36"> [President Picker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f0a119bc-1205-48ea-85f9-ff3bcac7e128)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the President Picker skill, try saying...

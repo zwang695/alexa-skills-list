@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Toronto Transit icon" width="36"> Toronto Transit
+# &nbsp;<img src="skill_icon" alt="Toronto Transit icon" width="36"> [Toronto Transit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.95b1c9dc-6638-4144-9ffe-41a70bdce249)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Toronto Transit skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SPAMMY! icon" width="36"> SPAMMY!
+# &nbsp;<img src="skill_icon" alt="SPAMMY! icon" width="36"> [SPAMMY!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c6d03cb2-9a8d-40ec-b9e0-77402ff1b906)
 ![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the SPAMMY! skill, try saying...

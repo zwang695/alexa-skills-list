@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Chess Facts icon" width="36"> My Chess Facts
+# &nbsp;<img src="skill_icon" alt="My Chess Facts icon" width="36"> [My Chess Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ef76fa47-c9c9-4e43-b50e-d42d499be820)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My Chess Facts skill, try saying...

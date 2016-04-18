@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Virtual Academy icon" width="36"> Virtual Academy
+# &nbsp;<img src="skill_icon" alt="Virtual Academy icon" width="36"> [Virtual Academy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.17b45288-2a41-4f3b-83bb-a4fc1136fc26)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Virtual Academy skill, try saying...

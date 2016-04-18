@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Metro Alerts icon" width="36"> Metro Alerts
+# &nbsp;<img src="skill_icon" alt="Metro Alerts icon" width="36"> [Metro Alerts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.14b27f1c-ca7b-4932-8f62-064c34261a6f)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Metro Alerts skill, try saying...

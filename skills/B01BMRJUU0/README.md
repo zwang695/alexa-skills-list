@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Market News icon" width="36"> Market News
+# &nbsp;<img src="skill_icon" alt="Market News icon" width="36"> [Market News](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5125475f-24f4-4132-a898-06423d663020)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Market News skill, try saying...

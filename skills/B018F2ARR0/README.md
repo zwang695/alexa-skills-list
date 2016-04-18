@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Innkeeper Emotes for Hearthstone icon" width="36"> Innkeeper Emotes for Hearthstone
+# &nbsp;<img src="skill_icon" alt="Innkeeper Emotes for Hearthstone icon" width="36"> [Innkeeper Emotes for Hearthstone](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ce963c75-a409-4011-8bf6-d3885cf9402e)
 ![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Innkeeper Emotes for Hearthstone skill, try saying...

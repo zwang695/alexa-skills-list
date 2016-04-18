@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="News By Linkboard icon" width="36"> News By Linkboard
+# &nbsp;<img src="skill_icon" alt="News By Linkboard icon" width="36"> [News By Linkboard](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.00568bf4-91f8-44b7-8ade-5638e59110b9)
 ![1.3 stars](../../images/ic_star_black_18dp_1x.png)![1.3 stars](../../images/ic_star_half_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the News By Linkboard skill, try saying...

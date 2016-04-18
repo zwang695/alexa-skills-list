@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Word icon" width="36"> Daily Word
+# &nbsp;<img src="skill_icon" alt="Daily Word icon" width="36"> [Daily Word](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d853b85f-1a7d-4f1d-bb7f-d10b29429090)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the Daily Word skill, try saying...

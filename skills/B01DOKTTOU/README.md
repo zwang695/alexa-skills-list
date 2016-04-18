@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="VoicePod icon" width="36"> VoicePod
+# &nbsp;<img src="skill_icon" alt="VoicePod icon" width="36"> [VoicePod](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.faf41c77-a300-4a76-b4c6-2be8351ef330)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the VoicePod skill, try saying...

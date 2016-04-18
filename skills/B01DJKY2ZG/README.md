@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fantasy Scoreboards icon" width="36"> Fantasy Scoreboards
+# &nbsp;<img src="skill_icon" alt="Fantasy Scoreboards icon" width="36"> [Fantasy Scoreboards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1c56616c-2094-4d6c-a928-50a10c7e12f9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fantasy Scoreboards skill, try saying...

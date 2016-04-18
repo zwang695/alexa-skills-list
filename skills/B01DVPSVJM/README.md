@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Telephone Game icon" width="36"> The Telephone Game
+# &nbsp;<img src="skill_icon" alt="The Telephone Game icon" width="36"> [The Telephone Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.60e098e0-ce21-4e64-a707-48dff1126eee)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Telephone Game skill, try saying...

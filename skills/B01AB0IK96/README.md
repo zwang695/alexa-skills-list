@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Number icon" width="36"> Random Number
+# &nbsp;<img src="skill_icon" alt="Random Number icon" width="36"> [Random Number](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.318f7156-90e8-44c6-bd06-064a79848db9)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Random Number skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Founding Father Quotes icon" width="36"> Founding Father Quotes
+# &nbsp;<img src="skill_icon" alt="Founding Father Quotes icon" width="36"> [Founding Father Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c4fd9e06-19cc-4d39-878a-48af439c9e48)
 ![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Founding Father Quotes skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="AOL icon" width="36"> AOL
+# &nbsp;<img src="skill_icon" alt="AOL icon" width="36"> [AOL](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f0914d6-c863-4388-8794-4a7cb000b134)
 ![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the AOL skill, try saying...

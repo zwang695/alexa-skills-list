@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Red Stick Transit icon" width="36"> Red Stick Transit
+# &nbsp;<img src="skill_icon" alt="Red Stick Transit icon" width="36"> [Red Stick Transit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a6071d25-ab4d-498e-8fe0-5b5505e4c142)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Red Stick Transit skill, try saying...

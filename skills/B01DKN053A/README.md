@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Geography Trivia icon" width="36"> Geography Trivia
+# &nbsp;<img src="skill_icon" alt="Geography Trivia icon" width="36"> [Geography Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c571027f-7086-486f-8bee-04018010ec3c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Geography Trivia skill, try saying...

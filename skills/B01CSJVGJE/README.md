@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baby Lexi icon" width="36"> Baby Lexi
+# &nbsp;<img src="skill_icon" alt="Baby Lexi icon" width="36"> [Baby Lexi](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3769faed-180d-4529-be58-405aad460869)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Baby Lexi skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The General icon" width="36"> The General
+# &nbsp;<img src="skill_icon" alt="The General icon" width="36"> [The General](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4ed1f11a-8e86-4581-b906-ba8546bfc19d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The General skill, try saying...

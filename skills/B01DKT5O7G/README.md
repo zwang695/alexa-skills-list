@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Atlas icon" width="36"> Atlas
+# &nbsp;<img src="skill_icon" alt="Atlas icon" width="36"> [Atlas](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.608aa413-ba97-41e2-8ffb-13a716fba91c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Atlas skill, try saying...

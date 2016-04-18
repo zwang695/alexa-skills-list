@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CatFactsTrivia icon" width="36"> CatFactsTrivia
+# &nbsp;<img src="skill_icon" alt="CatFactsTrivia icon" width="36"> [CatFactsTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f25d48d-b5b5-42f6-9edc-d59a2be13415)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CatFactsTrivia skill, try saying...

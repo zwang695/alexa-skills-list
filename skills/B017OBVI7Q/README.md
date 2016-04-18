@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Talk icon" width="36"> Trivia Talk
+# &nbsp;<img src="skill_icon" alt="Trivia Talk icon" width="36"> [Trivia Talk](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a5120771-d1d8-4d89-ae35-eec3b3f3410c)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Trivia Talk skill, try saying...

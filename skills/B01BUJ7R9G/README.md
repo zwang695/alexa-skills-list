@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mystery Castle icon" width="36"> Mystery Castle
+# &nbsp;<img src="skill_icon" alt="Mystery Castle icon" width="36"> [Mystery Castle](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.aafcf5bd-86be-4057-b691-833c439b1c6f)
 ![1.6 stars](../../images/ic_star_black_18dp_1x.png)![1.6 stars](../../images/ic_star_half_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Mystery Castle skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CueFit icon" width="36"> CueFit
+# &nbsp;<img src="skill_icon" alt="CueFit icon" width="36"> [CueFit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.72c46dfe-c398-418a-95f9-7ed4d0b8633b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CueFit skill, try saying...

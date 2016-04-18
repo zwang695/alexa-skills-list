@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="7-Minute Workout icon" width="36"> 7-Minute Workout
+# &nbsp;<img src="skill_icon" alt="7-Minute Workout icon" width="36"> [7-Minute Workout](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0e4a4011-a854-4aea-b719-40472fc4a8c5)
 ![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 83
 
 To use the 7-Minute Workout skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Candidate Quote Quiz icon" width="36"> Candidate Quote Quiz
+# &nbsp;<img src="skill_icon" alt="Candidate Quote Quiz icon" width="36"> [Candidate Quote Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.28f96e5b-271e-4334-9c88-510e25a2500e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Candidate Quote Quiz skill, try saying...

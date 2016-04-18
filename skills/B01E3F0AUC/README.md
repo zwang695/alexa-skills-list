@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="KidsMD icon" width="36"> KidsMD
+# &nbsp;<img src="skill_icon" alt="KidsMD icon" width="36"> [KidsMD](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3f5f7bd8-5b9d-40e7-8463-eef44329e29d)
 ![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the KidsMD skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Demotivate Me icon" width="36"> Demotivate Me
+# &nbsp;<img src="skill_icon" alt="Demotivate Me icon" width="36"> [Demotivate Me](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f43b51a-4251-4d85-8a78-f6f437937624)
 ![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Demotivate Me skill, try saying...

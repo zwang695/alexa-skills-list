@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Roddenberry's Trek Quotes icon" width="36"> Roddenberry's Trek Quotes
+# &nbsp;<img src="skill_icon" alt="Roddenberry's Trek Quotes icon" width="36"> [Roddenberry's Trek Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.634fa4bb-d862-4f55-8667-42c098c7239f)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Roddenberry's Trek Quotes skill, try saying...

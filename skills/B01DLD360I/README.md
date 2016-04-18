@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chicago Trains icon" width="36"> Chicago Trains
+# &nbsp;<img src="skill_icon" alt="Chicago Trains icon" width="36"> [Chicago Trains](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2d65d56d-0dbc-4fdd-ad48-8c8652595765)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Chicago Trains skill, try saying...

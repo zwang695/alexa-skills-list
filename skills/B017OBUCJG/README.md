@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tweet Poll icon" width="36"> Tweet Poll
+# &nbsp;<img src="skill_icon" alt="Tweet Poll icon" width="36"> [Tweet Poll](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.93afa260-e936-4235-adf9-92328db1dd10)
 ![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Tweet Poll skill, try saying...

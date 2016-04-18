@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Package Tracker icon" width="36"> Package Tracker
+# &nbsp;<img src="skill_icon" alt="Package Tracker icon" width="36"> [Package Tracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a5c49634-df77-4df8-ab77-140b015aef7d)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Package Tracker skill, try saying...

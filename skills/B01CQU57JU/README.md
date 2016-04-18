@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computer Science icon" width="36"> Computer Science
+# &nbsp;<img src="skill_icon" alt="Computer Science icon" width="36"> [Computer Science](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7ef44934-d5d7-409d-a64c-fa6a4f1eac1c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Computer Science skill, try saying...

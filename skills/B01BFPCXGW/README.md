@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Music quiz icon" width="36"> Music quiz
+# &nbsp;<img src="skill_icon" alt="Music quiz icon" width="36"> [Music quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bda9cce9-709b-47b7-a623-19989bd1722b)
 ![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Music quiz skill, try saying...

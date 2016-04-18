@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Pianist icon" width="36"> The Pianist
+# &nbsp;<img src="skill_icon" alt="The Pianist icon" width="36"> [The Pianist](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ed2f84b9-00a9-4a66-9809-90ac7bec491b)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the The Pianist skill, try saying...

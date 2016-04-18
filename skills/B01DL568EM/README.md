@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Whale Trivia icon" width="36"> Whale Trivia
+# &nbsp;<img src="skill_icon" alt="Whale Trivia icon" width="36"> [Whale Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7aa469fc-63f2-458e-a073-828c2ecbd0ca)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Whale Trivia skill, try saying...

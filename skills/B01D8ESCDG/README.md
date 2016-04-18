@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Funny Quoter icon" width="36"> Funny Quoter
+# &nbsp;<img src="skill_icon" alt="Funny Quoter icon" width="36"> [Funny Quoter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6fdc7487-57d4-48a0-84a5-3796552565c5)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Funny Quoter skill, try saying...

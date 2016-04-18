@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Existential Despair icon" width="36"> Existential Despair
+# &nbsp;<img src="skill_icon" alt="Existential Despair icon" width="36"> [Existential Despair](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b16623ac-3c78-4af5-a2c6-52982bde47c1)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Existential Despair skill, try saying...

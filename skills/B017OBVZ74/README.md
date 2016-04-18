@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Satoshi's Bitcoin Quote icon" width="36"> Satoshi's Bitcoin Quote
+# &nbsp;<img src="skill_icon" alt="Satoshi's Bitcoin Quote icon" width="36"> [Satoshi's Bitcoin Quote](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d1c6d11c-f58d-4370-b0da-4bccda2a3470)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Satoshi's Bitcoin Quote skill, try saying...

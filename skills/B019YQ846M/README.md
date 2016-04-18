@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="L Train icon" width="36"> L Train
+# &nbsp;<img src="skill_icon" alt="L Train icon" width="36"> [L Train](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.90c30b6a-6ff7-499c-be12-86a8516cea8b)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the L Train skill, try saying...

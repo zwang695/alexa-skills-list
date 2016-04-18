@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Missouri Football Trivia icon" width="36"> Missouri Football Trivia
+# &nbsp;<img src="skill_icon" alt="Missouri Football Trivia icon" width="36"> [Missouri Football Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.802cf571-fab7-433d-a29d-3d635085ec2e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Missouri Football Trivia skill, try saying...

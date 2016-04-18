@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Anythings icon" width="36"> Anythings
+# &nbsp;<img src="skill_icon" alt="Anythings icon" width="36"> [Anythings](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.459aa08f-5c0a-43cf-9f18-0f8dedf034ae)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Anythings skill, try saying...

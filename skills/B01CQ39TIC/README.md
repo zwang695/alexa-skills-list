@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Toon Goggles icon" width="36"> Toon Goggles
+# &nbsp;<img src="skill_icon" alt="Toon Goggles icon" width="36"> [Toon Goggles](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dc9d4510-7d6c-476d-9e5e-651fdb3c8964)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Toon Goggles skill, try saying...

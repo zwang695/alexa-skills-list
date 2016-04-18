@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nerdy Pickup Lines icon" width="36"> Nerdy Pickup Lines
+# &nbsp;<img src="skill_icon" alt="Nerdy Pickup Lines icon" width="36"> [Nerdy Pickup Lines](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.23b99e6f-f559-4422-9ca3-6bac178e6eba)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Nerdy Pickup Lines skill, try saying...

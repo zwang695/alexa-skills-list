@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Providenciales Trivia icon" width="36"> Providenciales Trivia
+# &nbsp;<img src="skill_icon" alt="Providenciales Trivia icon" width="36"> [Providenciales Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a7327066-e809-45fa-b01a-55f89d227762)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Providenciales Trivia skill, try saying...

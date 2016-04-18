@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snowday icon" width="36"> Snowday
+# &nbsp;<img src="skill_icon" alt="Snowday icon" width="36"> [Snowday](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0a69c441-3249-41b3-9bd5-37575ccde54d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snowday skill, try saying...

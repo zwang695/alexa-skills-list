@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hanker icon" width="36"> Hanker
+# &nbsp;<img src="skill_icon" alt="Hanker icon" width="36"> [Hanker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c9f0a6d8-08bc-4d30-8f03-33999d6b9257)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Hanker skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Meal Idea icon" width="36"> Meal Idea
+# &nbsp;<img src="skill_icon" alt="Meal Idea icon" width="36"> [Meal Idea](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.42fd3d15-9c6b-4d80-98ae-6622ab5481f9)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Meal Idea skill, try saying...

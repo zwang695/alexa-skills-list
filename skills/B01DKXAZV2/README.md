@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Meh Voice icon" width="36"> Meh Voice
+# &nbsp;<img src="skill_icon" alt="Meh Voice icon" width="36"> [Meh Voice](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a4ce8fde-8da8-4861-93b6-7e2a406025c1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Meh Voice skill, try saying...

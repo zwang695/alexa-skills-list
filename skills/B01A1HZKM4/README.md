@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fortune icon" width="36"> Fortune
+# &nbsp;<img src="skill_icon" alt="Fortune icon" width="36"> [Fortune](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4bd5c867-3d98-4afd-924b-b756d0eb9440)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Fortune skill, try saying...

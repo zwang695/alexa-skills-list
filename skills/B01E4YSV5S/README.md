@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Quiz for League of Legends (Fan-made) icon" width="36"> Quiz for League of Legends (Fan-made)
+# &nbsp;<img src="skill_icon" alt="Quiz for League of Legends (Fan-made) icon" width="36"> [Quiz for League of Legends (Fan-made)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7e911982-b311-4864-aed6-8314bdd57a48)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Quiz for League of Legends (Fan-made) skill, try saying...

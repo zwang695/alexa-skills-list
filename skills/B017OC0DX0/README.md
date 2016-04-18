@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Translator for Alexa icon" width="36"> Translator for Alexa
+# &nbsp;<img src="skill_icon" alt="Translator for Alexa icon" width="36"> [Translator for Alexa](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.414bc21e-8a3f-4295-8ab6-17ed845d8ca3)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 22
 
 To use the Translator for Alexa skill, try saying...

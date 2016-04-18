@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Multiplication Challenge icon" width="36"> Multiplication Challenge
+# &nbsp;<img src="skill_icon" alt="Multiplication Challenge icon" width="36"> [Multiplication Challenge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9f257164-4c89-4eb9-8ab2-af4a5b10f6bb)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Multiplication Challenge skill, try saying...

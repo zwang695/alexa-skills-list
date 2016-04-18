@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Beat The Dealer icon" width="36"> Beat The Dealer
+# &nbsp;<img src="skill_icon" alt="Beat The Dealer icon" width="36"> [Beat The Dealer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0a5ac48c-a7ff-4e30-a63f-f6392dba7abc)
 ![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the Beat The Dealer skill, try saying...

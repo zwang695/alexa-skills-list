@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Physics Bowl icon" width="36"> Physics Bowl
+# &nbsp;<img src="skill_icon" alt="Physics Bowl icon" width="36"> [Physics Bowl](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.03c49457-aaca-4174-842f-b2154c62e36d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Physics Bowl skill, try saying...

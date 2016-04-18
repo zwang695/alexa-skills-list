@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Magic Eight Ball icon" width="36"> Magic Eight Ball
+# &nbsp;<img src="skill_icon" alt="Magic Eight Ball icon" width="36"> [Magic Eight Ball](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.84e0c4d2-5480-4327-bc2c-a024555e2e24)
 ![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Magic Eight Ball skill, try saying...

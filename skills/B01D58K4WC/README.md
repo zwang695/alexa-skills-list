@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="PizzaFacts icon" width="36"> PizzaFacts
+# &nbsp;<img src="skill_icon" alt="PizzaFacts icon" width="36"> [PizzaFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d5aed248-dcc1-4628-89d4-5b24332f2a98)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the PizzaFacts skill, try saying...

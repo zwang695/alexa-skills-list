@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Starfish Band icon" width="36"> Starfish Band
+# &nbsp;<img src="skill_icon" alt="Starfish Band icon" width="36"> [Starfish Band](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.78b707a3-afb8-47bf-95b1-832eb6c59c60)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Starfish Band skill, try saying...

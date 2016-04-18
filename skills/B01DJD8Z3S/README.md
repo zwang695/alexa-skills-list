@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Redbird Games icon" width="36"> Redbird Games
+# &nbsp;<img src="skill_icon" alt="Redbird Games icon" width="36"> [Redbird Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e5aeb71e-628b-4fd3-808a-ede87a762364)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Redbird Games skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Buegton Trivia icon" width="36"> Buegton Trivia
+# &nbsp;<img src="skill_icon" alt="Buegton Trivia icon" width="36"> [Buegton Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dfbdabb0-7c16-4872-85de-b6e287cc4745)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Buegton Trivia skill, try saying...

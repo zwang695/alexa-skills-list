@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mirror Mirror On the Wall icon" width="36"> Mirror Mirror On the Wall
+# &nbsp;<img src="skill_icon" alt="Mirror Mirror On the Wall icon" width="36"> [Mirror Mirror On the Wall](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec71c2fe-23c0-43c5-a8f5-ef0264cc91f7)
 ![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Mirror Mirror On the Wall skill, try saying...

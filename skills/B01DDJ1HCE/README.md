@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="U.S. History Factoids icon" width="36"> U.S. History Factoids
+# &nbsp;<img src="skill_icon" alt="U.S. History Factoids icon" width="36"> [U.S. History Factoids](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4531e2d0-d49b-48e0-8748-05f817475945)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the U.S. History Factoids skill, try saying...

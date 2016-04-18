@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Famous Deaths icon" width="36"> Famous Deaths
+# &nbsp;<img src="skill_icon" alt="Famous Deaths icon" width="36"> [Famous Deaths](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1d75d6fb-7851-4fc2-86f7-6d6a9d83ea24)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Famous Deaths skill, try saying...

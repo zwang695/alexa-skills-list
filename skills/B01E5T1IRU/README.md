@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Barcelona Quiz icon" width="36"> Barcelona Quiz
+# &nbsp;<img src="skill_icon" alt="Barcelona Quiz icon" width="36"> [Barcelona Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4371677d-93b1-4192-a0c8-dd7a60e7e27b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Barcelona Quiz skill, try saying...

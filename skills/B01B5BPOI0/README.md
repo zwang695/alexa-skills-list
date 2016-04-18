@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Football Trivia icon" width="36"> Football Trivia
+# &nbsp;<img src="skill_icon" alt="Football Trivia icon" width="36"> [Football Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5392bd84-4493-45b9-854e-0c4c2ba19d80)
 ![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Football Trivia skill, try saying...

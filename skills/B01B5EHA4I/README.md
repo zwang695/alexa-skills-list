@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="JavaScript Quiz icon" width="36"> JavaScript Quiz
+# &nbsp;<img src="skill_icon" alt="JavaScript Quiz icon" width="36"> [JavaScript Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.05b22e33-4166-4735-a790-7c65bff2275a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the JavaScript Quiz skill, try saying...

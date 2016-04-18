@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chili Pepper Nut icon" width="36"> Chili Pepper Nut
+# &nbsp;<img src="skill_icon" alt="Chili Pepper Nut icon" width="36"> [Chili Pepper Nut](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.94a84b02-8501-4736-ad6a-6cdbe739e76a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chili Pepper Nut skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lizard Spock icon" width="36"> Lizard Spock
+# &nbsp;<img src="skill_icon" alt="Lizard Spock icon" width="36"> [Lizard Spock](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4d9cbb9e-e428-478b-8f31-111a8fda0464)
 ![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Lizard Spock skill, try saying...

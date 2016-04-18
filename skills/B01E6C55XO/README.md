@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Today's Historical Facts icon" width="36"> Today's Historical Facts
+# &nbsp;<img src="skill_icon" alt="Today's Historical Facts icon" width="36"> [Today's Historical Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9239ff0a-524c-4c7b-be03-90b5b432e076)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Today's Historical Facts skill, try saying...

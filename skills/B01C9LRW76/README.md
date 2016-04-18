@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="D.C. Tech Cal icon" width="36"> D.C. Tech Cal
+# &nbsp;<img src="skill_icon" alt="D.C. Tech Cal icon" width="36"> [D.C. Tech Cal](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9920a638-5e86-4ee4-9802-cbe14d60d969)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the D.C. Tech Cal skill, try saying...

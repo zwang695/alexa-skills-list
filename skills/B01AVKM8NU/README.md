@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CompliBot icon" width="36"> CompliBot
+# &nbsp;<img src="skill_icon" alt="CompliBot icon" width="36"> [CompliBot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cb3e2030-f6a7-43f3-83da-164cccd07896)
 ![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 12
 
 To use the CompliBot skill, try saying...

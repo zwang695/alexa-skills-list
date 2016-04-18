@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Today's Featured on Product Hunt icon" width="36"> Today's Featured on Product Hunt
+# &nbsp;<img src="skill_icon" alt="Today's Featured on Product Hunt icon" width="36"> [Today's Featured on Product Hunt](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a5c00e5b-91c4-4b8d-a720-79e1cce84b53)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Today's Featured on Product Hunt skill, try saying...

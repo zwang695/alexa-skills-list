@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Dermatologist icon" width="36"> My Dermatologist
+# &nbsp;<img src="skill_icon" alt="My Dermatologist icon" width="36"> [My Dermatologist](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.af88d11e-47fe-4da7-b125-ed85bbfaefb5)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the My Dermatologist skill, try saying...

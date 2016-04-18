@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stock Exchange icon" width="36"> Stock Exchange
+# &nbsp;<img src="skill_icon" alt="Stock Exchange icon" width="36"> [Stock Exchange](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e34957a2-abd8-4d5e-a2ab-fca4c4a9562b)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 36
 
 To use the Stock Exchange skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Elements Quiz icon" width="36"> Elements Quiz
+# &nbsp;<img src="skill_icon" alt="Elements Quiz icon" width="36"> [Elements Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.73fd00b5-7e6c-4e3a-8484-edd3b06448a3)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Elements Quiz skill, try saying...

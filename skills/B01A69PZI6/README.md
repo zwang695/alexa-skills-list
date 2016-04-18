@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tip of Your Tongue! icon" width="36"> Tip of Your Tongue!
+# &nbsp;<img src="skill_icon" alt="Tip of Your Tongue! icon" width="36"> [Tip of Your Tongue!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cacdc3ec-c2fc-4d06-8ce6-b8d16b7a434d)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Tip of Your Tongue! skill, try saying...

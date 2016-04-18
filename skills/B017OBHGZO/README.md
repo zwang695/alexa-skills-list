@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Scout Alarm icon" width="36"> Scout Alarm
+# &nbsp;<img src="skill_icon" alt="Scout Alarm icon" width="36"> [Scout Alarm](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.26dd66e5-bdda-4df6-95da-a1d9020230a3)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the Scout Alarm skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Norwegian Quiz icon" width="36"> The Norwegian Quiz
+# &nbsp;<img src="skill_icon" alt="The Norwegian Quiz icon" width="36"> [The Norwegian Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.097ac4b5-93d6-4efd-b745-79e4b0d3c539)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Norwegian Quiz skill, try saying...

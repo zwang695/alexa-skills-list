@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MotoQuote icon" width="36"> MotoQuote
+# &nbsp;<img src="skill_icon" alt="MotoQuote icon" width="36"> [MotoQuote](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6188a929-42eb-4c32-8405-25a4c82b023e)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the MotoQuote skill, try saying...

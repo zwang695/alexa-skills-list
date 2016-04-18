@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Yo Mama Jokes icon" width="36"> Yo Mama Jokes
+# &nbsp;<img src="skill_icon" alt="Yo Mama Jokes icon" width="36"> [Yo Mama Jokes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2abbf8ec-05e3-49d1-b097-144663b180f7)
 ![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Yo Mama Jokes skill, try saying...

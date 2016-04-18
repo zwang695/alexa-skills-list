@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baseball Archive icon" width="36"> Baseball Archive
+# &nbsp;<img src="skill_icon" alt="Baseball Archive icon" width="36"> [Baseball Archive](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.518bd63f-f0cc-484d-9a0f-bf458a30f61e)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Baseball Archive skill, try saying...

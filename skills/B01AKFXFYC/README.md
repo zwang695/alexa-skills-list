@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Combat icon" width="36"> Combat
+# &nbsp;<img src="skill_icon" alt="Combat icon" width="36"> [Combat](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.adbaf36b-2ad0-445f-88f9-d1fe1c0e019b)
 ![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Combat skill, try saying...

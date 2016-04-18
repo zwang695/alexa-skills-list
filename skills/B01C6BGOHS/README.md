@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pipe Organ Trivia Game icon" width="36"> Pipe Organ Trivia Game
+# &nbsp;<img src="skill_icon" alt="Pipe Organ Trivia Game icon" width="36"> [Pipe Organ Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.39c8773b-2051-46b3-93d8-df982bdd70dd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pipe Organ Trivia Game skill, try saying...

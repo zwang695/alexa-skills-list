@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Alex icon" width="36"> Trivia Alex
+# &nbsp;<img src="skill_icon" alt="Trivia Alex icon" width="36"> [Trivia Alex](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c46a7aa5-f974-48cb-8c23-71ffa3177b42)
 ![1.9 stars](../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png) 15
 
 To use the Trivia Alex skill, try saying...

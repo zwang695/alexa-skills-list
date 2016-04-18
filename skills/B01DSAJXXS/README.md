@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="europe knowledge icon" width="36"> europe knowledge
+# &nbsp;<img src="skill_icon" alt="europe knowledge icon" width="36"> [europe knowledge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ef5bb6f6-f4a9-4a60-be41-0b8e615cb572)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the europe knowledge skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Event Guide icon" width="36"> Event Guide
+# &nbsp;<img src="skill_icon" alt="Event Guide icon" width="36"> [Event Guide](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ddc590db-0ba9-4898-b798-76af982b6bfa)
 ![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Event Guide skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wedding Countdown icon" width="36"> Wedding Countdown
+# &nbsp;<img src="skill_icon" alt="Wedding Countdown icon" width="36"> [Wedding Countdown](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4c2c039e-2d1e-4790-9c0f-2f9f07e19f58)
 ![1.7 stars](../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Wedding Countdown skill, try saying...

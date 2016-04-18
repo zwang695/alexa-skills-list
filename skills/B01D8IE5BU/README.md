@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="South American Capitals Quiz icon" width="36"> South American Capitals Quiz
+# &nbsp;<img src="skill_icon" alt="South American Capitals Quiz icon" width="36"> [South American Capitals Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.72854b18-ff61-4bd5-b911-2ed8f7fb6e7b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the South American Capitals Quiz skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Adventure icon" width="36"> Adventure
+# &nbsp;<img src="skill_icon" alt="Adventure icon" width="36"> [Adventure](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.55c3b569-814d-4af1-b25a-d0809130b2b7)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Adventure skill, try saying...

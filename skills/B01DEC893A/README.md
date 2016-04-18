@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HomeAdvisor icon" width="36"> HomeAdvisor
+# &nbsp;<img src="skill_icon" alt="HomeAdvisor icon" width="36"> [HomeAdvisor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9f139432-da2c-4433-8823-be1d21c17287)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the HomeAdvisor skill, try saying...

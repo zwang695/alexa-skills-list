@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Calculator icon" width="36"> Calculator
+# &nbsp;<img src="skill_icon" alt="Calculator icon" width="36"> [Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.afacd926-a874-4881-a31c-b34741c3e640)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Calculator skill, try saying...

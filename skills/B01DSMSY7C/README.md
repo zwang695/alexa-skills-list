@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Aussie Facts icon" width="36"> Aussie Facts
+# &nbsp;<img src="skill_icon" alt="Aussie Facts icon" width="36"> [Aussie Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7f9f1b10-4482-42ed-b4f4-d3cb5163d675)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Aussie Facts skill, try saying...

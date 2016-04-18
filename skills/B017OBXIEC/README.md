@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Shower Thoughts icon" width="36"> Shower Thoughts
+# &nbsp;<img src="skill_icon" alt="Shower Thoughts icon" width="36"> [Shower Thoughts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.901a3f73-22df-4ad2-aa7c-ed49c3a07a6f)
 ![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Shower Thoughts skill, try saying...

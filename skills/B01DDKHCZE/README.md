@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Period Tracker icon" width="36"> Period Tracker
+# &nbsp;<img src="skill_icon" alt="Period Tracker icon" width="36"> [Period Tracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.91c7c481-f58f-4d3a-b565-a58aa14b4306)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Period Tracker skill, try saying...

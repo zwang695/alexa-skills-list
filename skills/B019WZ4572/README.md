@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Conversation Starter icon" width="36"> Conversation Starter
+# &nbsp;<img src="skill_icon" alt="Conversation Starter icon" width="36"> [Conversation Starter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.82ece337-c1c5-400e-8a95-34b58c3d79b8)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Conversation Starter skill, try saying...

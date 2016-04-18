@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Silly Winnie icon" width="36"> Silly Winnie
+# &nbsp;<img src="skill_icon" alt="Silly Winnie icon" width="36"> [Silly Winnie](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5e0429c8-5259-4a6a-9a56-f51553ec657e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Silly Winnie skill, try saying...

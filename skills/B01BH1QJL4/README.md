@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mixpo Executive App icon" width="36"> Mixpo Executive App
+# &nbsp;<img src="skill_icon" alt="Mixpo Executive App icon" width="36"> [Mixpo Executive App](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9234a905-e670-4304-b8ac-86557507cc87)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mixpo Executive App skill, try saying...

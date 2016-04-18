@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Musical Instrument Trivia icon" width="36"> Musical Instrument Trivia
+# &nbsp;<img src="skill_icon" alt="Musical Instrument Trivia icon" width="36"> [Musical Instrument Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eadd50c9-3cf0-4b38-9d65-f23b3d304a1f)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Musical Instrument Trivia skill, try saying...

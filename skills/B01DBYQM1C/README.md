@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DrinkMaster icon" width="36"> DrinkMaster
+# &nbsp;<img src="skill_icon" alt="DrinkMaster icon" width="36"> [DrinkMaster](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1dbf1144-e80f-40c5-ac08-d81540319603)
 ![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the DrinkMaster skill, try saying...

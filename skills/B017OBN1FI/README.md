@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bingo icon" width="36"> Bingo
+# &nbsp;<img src="skill_icon" alt="Bingo icon" width="36"> [Bingo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5f6ca563-0ee7-4f65-8586-028bc6e127d6)
 ![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Bingo skill, try saying...
