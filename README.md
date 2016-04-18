@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 614
+**Total Skills Available:** 616
 
 ***
 
@@ -164,6 +164,14 @@ The Age Calculator helps calculate age between a given date and now.
 *Alexa, ask Agog Reader for Barack Obama.*
 
 Listen to Tweets
+
+***
+
+## &nbsp;<img src="skills/B01DOFHDWA/skill_icon" alt="Air Quality Meter icon" width="36"> [Air Quality Meter](skills/B01DOFHDWA)
+
+*Alexa, launch Air Quality Meter*
+
+Real time air quality rating for major U.S. cities. Alexa, launch Air Quality Meter
 
 ***
 
@@ -628,6 +636,14 @@ With the Bingo skill, Alexa will call the numbers for you. Each number is repeat
 *Alexa, open BioRhythm.*
 
 The BioRhythm skill will calculate your natural biorhythm for today for entertainment purposes. Alexa, ask BioRhythm for a reading for birthday November 2, 1993
+
+***
+
+## &nbsp;<img src="skills/B01E9C72J6/skill_icon" alt="Bird Trivia icon" width="36"> [Bird Trivia](skills/B01E9C72J6)
+
+*Alexa, open Bird Trivia*
+
+Simple, fun bird trivia game.
 
 ***
 
