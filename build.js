@@ -14,11 +14,11 @@
 'use strict';
 
 // Required modules
-var fs       = require('fs'),
-	https    = require('https'),
-	json2csv = require('json2csv'),
-	config   = require('./config.json'),
-	skills   = require('./skills.json').apps;
+var fs       = require('fs');
+var https    = require('https');
+var json2csv = require('json2csv');
+var config   = require('./config.json');
+var skills   = require('./skills.json').apps;
 
 // Setup debug
 var debug   = require('debug');
@@ -298,7 +298,7 @@ var Template = {
 			var contents = '';
 
 			// Skill name
-			contents  = '# ' + Template.skill.icon(skill, true) + ' ' + skill.name + '\n';
+			contents  = '# ' + Template.skill.icon(skill, true) + ' [' + skill.name + '](http://alexa.amazon.com/#skills/' + skill.id + ')\n';
 
 			// Skill rating and reviews
 			var starImage = '';
@@ -449,10 +449,10 @@ try {
 }
 
 // Keep track of how many skills get added and updated this time around
-var addCount        = 0,
-	updateCount     = 0,
-	addCountJSON    = 0,
-	updateCountJSON = 0;
+var addCount        = 0;
+var updateCount     = 0;
+var addCountJSON    = 0;
+var updateCountJSON = 0;
 
 // Sort by alphabetical order
 skills.sort(function(a, b) {
