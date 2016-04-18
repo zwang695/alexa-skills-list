@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 616
+**Total Skills Available:** 624
 
 ***
 
@@ -864,11 +864,27 @@ This trivia game tests your knowledge of capitals and countries of the world.
 
 ***
 
+## &nbsp;<img src="skills/B01E1M6VWS/skill_icon" alt="Capitals Test icon" width="36"> [Capitals Test](skills/B01E1M6VWS)
+
+*Alexa, launch capital test*
+
+A nice trivia about US Capitals of the state. Enjoy doing this game with your family or with friends.
+
+***
+
 ## &nbsp;<img src="skills/B01DJLSOO0/skill_icon" alt="Car Facts icon" width="36"> [Car Facts](skills/B01DJLSOO0)
 
 *Alexa, Open Car Facts*
 
 Fun and interesting fact about an everyday tool, your car!
+
+***
+
+## &nbsp;<img src="skills/B01DX5N37U/skill_icon" alt="Carly icon" width="36"> [Carly](skills/B01DX5N37U)
+
+*Alexa, tell Carly I feel happy*
+
+Carly is a voice-activated coach for Amazon Echo that helps users understand their moods and thoughts
 
 ***
 
@@ -936,6 +952,14 @@ Chemistry Genie helps students to revise their knowledge of the elements in the 
 
 ***
 
+## &nbsp;<img src="skills/B01DV7GLI8/skill_icon" alt="ChessTriviaGame icon" width="36"> [ChessTriviaGame](skills/B01DV7GLI8)
+
+*Alexa, Open chess trivia*
+
+Basic chess trivia, with some current player questions.
+
+***
+
 ## &nbsp;<img src="skills/B01DLD360I/skill_icon" alt="Chicago Trains icon" width="36"> [Chicago Trains](skills/B01DLD360I)
 
 *Alexa ask Chicago Trains when is the next train from Crystal Lake to Chicago OTC*
@@ -981,6 +1005,14 @@ Listen to Alexa and learn the lyrics to some yuletide favorites!
 *Alexa, ask Christopher for an airplane fact*
 
 Christopher's Airplane Trivia. Learn facts and trivia about a wide variety of aircraft, aerospace, and aviation!
+
+***
+
+## &nbsp;<img src="skills/B01E6HYGHK/skill_icon" alt="CivicMinding icon" width="36"> [CivicMinding](skills/B01E6HYGHK)
+
+*Alexa, ask CivicMinding for the Democrat delegate count?*
+
+stay informed. get involved.
 
 ***
 
@@ -1906,6 +1938,14 @@ Glympse allows family and friends to temporarily share their live location and E
 
 ***
 
+## &nbsp;<img src="skills/B01E7S1UEA/skill_icon" alt="Go Fish! icon" width="36"> [Go Fish!](skills/B01E7S1UEA)
+
+*Alexa, ask Go Fish to tell me a fish fact*
+
+A fun and interesting fact skill for learning about fish.
+
+***
+
 ## &nbsp;<img src="skills/B01BPSVFD6/skill_icon" alt="Gold Bug icon" width="36"> [Gold Bug](skills/B01BPSVFD6)
 
 *Alexa, ask Gold Bug what's the price of (gold/silver/oil)*
@@ -2271,6 +2311,16 @@ An expansion of Alexa's cheesy jokes for all you CS majors out there.
 *Alexa, ask KCRW what's playing*
 
 Gives you the current program or track playing on KCRW radio.
+
+***
+
+## &nbsp;<img src="skills/B01E31EICW/skill_icon" alt="Key Finder icon" width="36"> [Key Finder](skills/B01E31EICW)
+
+*Alexa, launch Key Finder*
+
+Having trouble remembering where you last placed your key?
+
+Key Finder will assist you in remembering the last location of your key.
 
 ***
 
@@ -2821,7 +2871,7 @@ Ask Lyrics to get lyrics for a song and to read it.
 
 ## &nbsp;<img src="skills/B01CKGPA06/skill_icon" alt="Muzzley icon" width="36"> [Muzzley](skills/B01CKGPA06)
 
-*Alexa, open Muzzley*
+*Alexa, start Muzzley.*
 
 Interact with your connected devices with Muzzley and Echo. Try to say to "Alexa, ask Muzzley to turn on the living room lights" or "Alexa, open Muzzley".
 
@@ -3766,6 +3816,14 @@ Search for flight prices anywhere in the world, by conversing with Alexa.
 
 ***
 
+## &nbsp;<img src="skills/B01E2UQ0V6/skill_icon" alt="Slow Carb Checker icon" width="36"> [Slow Carb Checker](skills/B01E2UQ0V6)
+
+*Alexa, ask Slow Carb Checker, can I eat apples?*
+
+Allows users to find if if a certain food or drink can be consumed on the Slow Carb Diet
+
+***
+
 ## &nbsp;<img src="skills/B01DO6OLW4/skill_icon" alt="SMS With Molly icon" width="36"> [SMS With Molly](skills/B01DO6OLW4)
 
 *Alexa, ask SMS With Molly to text John "I'm back"*
@@ -4380,6 +4438,14 @@ An Alexa Skill for interacting with Product Hunt.
 *Alexa, ask for today's facts*
 
 Historical Facts picked for today!
+
+***
+
+## &nbsp;<img src="skills/B01DQ382TI/skill_icon" alt="Tone Row Matrix Calculator icon" width="36"> [Tone Row Matrix Calculator](skills/B01DQ382TI)
+
+*Alexa, start Matrix Calculator*
+
+A skill that calculates the tone row matrix for an inputted twelve tone row.
 
 ***
 

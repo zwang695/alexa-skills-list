@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01CJPJRDE",
-  "averageRating": 1,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Travel",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "choo choo",
   "name": "Long Island Train Information",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

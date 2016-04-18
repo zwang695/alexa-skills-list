@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DQCN5HI",
-  "averageRating": 1,
+  "averageRating": 1.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Entertainment",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "comedy dog",
   "name": "Comedy Dog",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

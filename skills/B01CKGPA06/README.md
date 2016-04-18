@@ -3,24 +3,58 @@
 
 To use the Muzzley skill, try saying...
 
-* *Alexa, open Muzzley*
+* *Alexa, start Muzzley.*
 
-* *Alexa, ask Muzzley to set the hallway lights to red.*
+* *Alexa, ask Muzzley to turn on the Bedroom light.*
 
-* *Alexa, ask Muzzley to turn on the living room lights.*
+* *Alexa, ask Muzzley to change the Bedroom light blue.*
 
-The Muzzley skill allows you to control all your smart devices by accessing your Muzzley account with a voice command.
+Muzzley is an app that helps you create and enjoy your smart home. Connect your smart devices in the Muzzley app, and use Alexa to control them with your voice. Just make sure you say: “Alexa, ask Muzzley to” followed by the request.
 
-You can check the status of your devices, execute actions like turning on the lights or locking the door, & all of this with just a simple “ask Muzzley” command!
+To get started, download Muzzley on your iOS or Android smartphone/tablet and create a Muzzley account. Then, add all your devices to it. Say "Alexa, start Muzzley", and you're ready to go.
 
-To hear all possible interactions "Ask Muzzley for help".
+- Compatible products -
+Right now, Alexa is able to run Agents and control Muzzley-compatible lights.  We will be adding more Alexa controls for Muzzley-compatible device soon.
 
-To use this skill, you will first have to download Muzzley onto your smartphone or tablet & create a Muzzley account. Then, add your connected devices through Muzzley and you are ready to go!
+- Interact with Alexa -
 
-Start by saying "Alexa, open Muzzley".
+Basics:
+To turn on or ask Muzzley for help say
 
+"Alexa, start Muzzley"
+"Alexa, ask Muzzley for help."
 
-Learn more at http://www.muzzley.com or shoot us an email to support@muzzley.com
+Agents:
+
+To trigger an Agent say, "Alexa, ask Muzzley to turn on <Agent name>."  
+
+For example, here in the Muzzley office we have an Agent named Party Time.  Party Time turns on colored light bulbs, sets the thermostat down a couple degrees and switches on a smart plug connected to a lava lamp.  To trigger it you would say "Alexa, ask Muzzley to turn on Party Time."  
+
+Lights - On/Off:
+
+To turn lights on/off say, "Alexa, ask Muzzley to turn on/off the <name> light."
+
+For example if you want to turn on a light named Bedroom you would say, "Alexa, ask Muzzley to turn on the Bedroom light."
+
+Lights - Brightness:
+
+To change the brightness for lights say, "Alexa, ask Muzzley to change the <name> light to XX%"
+
+For example, if you want to change the Bedroom light to 50% say, "Alexa, ask Muzzley to change the Bedroom light to 50%."
+
+Lights - Color:
+
+To change the color of lights say, "Alexa, ask Muzzley to change the <name> light <color>.
+
+For example, if you want to change the Bedroom light blue say, "Alexa, ask Muzzley to change the Bedroom light blue."
+
+- Additional Tips -
+
+To get the best experience with the Muzzley for Amazon Echo, try one word names for your lights and Agents.
+
+If Alexa has a hard time recognizing Agent or device names, asking Alexa to start Muzzley again can help.  You may also want to try using one word names for your lights and Agents.  
+
+If you still have trouble, contact support@muzzley.com and we can work with you to increase responsiveness to your Agent and device names. We also welcome your comments and suggestions as we further develop Muzzley on Amazon Echo.
 
 ***
 

@@ -11,6 +11,8 @@ To use the Barcelona Quiz skill, try saying...
 
 Barcelona Quiz is a trivia game full of quirky details about this Spanish popular destination. Impress your friends with your knowledge and become the unofficial guide to your travel party!
 
+Just ask Alexa to start  Barcelona Quiz. New questions are being added all the time!
+
 ***
 
 ### Skill Details
