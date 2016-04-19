@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Shakespeare Quotes icon" width="36"> [Shakespeare Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2294775d-dbe6-4b77-b521-d36fd71bd7e5)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Shakespeare Quotes skill, try saying...
 

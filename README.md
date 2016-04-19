@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 624
+**Total Skills Available:** 635
 
 ***
 
@@ -703,6 +703,14 @@ Measure yourself to Alexa in Boat War!
 
 ***
 
+## &nbsp;<img src="skills/B01EB0V9Y0/skill_icon" alt="Bollywood Trivia icon" width="36"> [Bollywood Trivia](skills/B01EB0V9Y0)
+
+*Alexa, launch Bollywood Trivia*
+
+Trivia about Bollywood
+
+***
+
 ## &nbsp;<img src="skills/B01CSCMSIE/skill_icon" alt="Boo icon" width="36"> [Boo](skills/B01CSCMSIE)
 
 *Alexa ask boo*
@@ -941,6 +949,14 @@ Ask and receive wisdom from the Bible each day with Ceaseless
 *Alexa open cheer lights*
 
 Find out what color the World feels like right now.
+
+***
+
+## &nbsp;<img src="skills/B01ECNC6FM/skill_icon" alt="Chef icon" width="36"> [Chef](skills/B01ECNC6FM)
+
+*Alexa, ask Chef what I can use instead of two tablespoons of baking powder*
+
+Chef helps you in the kitchen! Find weights of various volumes of ingredients (useful for baking), as well as substitutions for all kinds of ingredients.
 
 ***
 
@@ -1272,6 +1288,14 @@ Get a thought to improve your bootcamp experience.
 
 ***
 
+## &nbsp;<img src="skills/B01DYQ5BLE/skill_icon" alt="Daily Cutiemals icon" width="36"> [Daily Cutiemals](skills/B01DYQ5BLE)
+
+*Alexa, ask Daily Cutiemals to send me a cute cat picture*
+
+Daily Cutiemals will send cute animal pictures to your email!
+
+***
+
 ## &nbsp;<img src="skills/B017VAOYN0/skill_icon" alt="Daily Word icon" width="36"> [Daily Word](skills/B017VAOYN0)
 
 *Alexa open Daily Word*
@@ -1573,6 +1597,14 @@ Listen to Alexa speak famous quotes of utter despair. And then cry along with he
 *Alexa, tell Expense Tracker that I paid 10 dollars for food.*
 
 Expense Tracker can help you keep track of your costs. Just add all your spendings to certain categories and ask Expense Tracker to create your report.
+
+***
+
+## &nbsp;<img src="skills/B01EBRMUTG/skill_icon" alt="Fake Fact Game icon" width="36"> [Fake Fact Game](skills/B01EBRMUTG)
+
+*Alexa, Open Fake Fact*
+
+You clearly found this just browsing around so its not like you have something better to do...
 
 ***
 
@@ -2162,6 +2194,14 @@ The Huffington Post is a Pulitzer Prize-winning source of news, features, and en
 
 ***
 
+## &nbsp;<img src="skills/B01EBCY2HO/skill_icon" alt="HumanHeart icon" width="36"> [HumanHeart](skills/B01EBCY2HO)
+
+*Alexa launch Human Heart*
+
+Basic information about human heart
+
+***
+
 ## &nbsp;<img src="skills/B019YPG1AO/skill_icon" alt="Impossibly Hard Major League Baseball Quiz icon" width="36"> [Impossibly Hard Major League Baseball Quiz](skills/B019YPG1AO)
 
 *Alexa, launch Impossible Baseball Quiz*
@@ -2191,6 +2231,14 @@ This alexa skill gives the india news on saying to Alexa , " ask india news " af
 *Alexa, ask Indian Guy to tell me an Indian fact*
 
 This skill tell you interesting facts about India which most people don't know.
+
+***
+
+## &nbsp;<img src="skills/B01DQJVQ54/skill_icon" alt="Indonesian Facts icon" width="36"> [Indonesian Facts](skills/B01DQJVQ54)
+
+*Alexa, ask Indonesian facts to tell me a fact*
+
+Indonesian Facts: All fun, cool, interesting, and educative information about Indonesia
 
 ***
 
@@ -2813,6 +2861,15 @@ Match the famous movie quote with the movie it came from.
 
 ***
 
+## &nbsp;<img src="skills/B01DOQ70BI/skill_icon" alt="Mr Brown icon" width="36"> [Mr Brown](skills/B01DOQ70BI)
+
+*Alexa, ask Mr Brown a tarantino quote*
+
+if you are a fan of Tarantino's movie, you can enjoy this skill!
+The skill may not be suitable for all ages.
+
+***
+
 ## &nbsp;<img src="skills/B01BKT64QI/skill_icon" alt="Mr Junky Food icon" width="36"> [Mr Junky Food](skills/B01BKT64QI)
 
 *Alexa, ask Mr. Junky Food what to eat today.*
@@ -3264,6 +3321,14 @@ Facts about the humankind's greatest achievement: pizza
 
 ***
 
+## &nbsp;<img src="skills/B01DKESOCI/skill_icon" alt="PokeyFinder icon" width="36"> [PokeyFinder](skills/B01DKESOCI)
+
+*alexa, ask pokey finder to find charizard*
+
+Now Alexa can tell you about information of 721 pokemon. Introducing you the brand new PokeFinder, the skill that provide you all the information about pokemon.
+
+***
+
 ## &nbsp;<img src="skills/B01DKKUR54/skill_icon" alt="Pope Francis Trivia icon" width="36"> [Pope Francis Trivia](skills/B01DKKUR54)
 
 *Alexa, launch Pope Francis Trivia*
@@ -3472,6 +3537,14 @@ Just a simple app that give you access to over 75,000 random quotes.
 
 ***
 
+## &nbsp;<img src="skills/B01EBJ021C/skill_icon" alt="QuoteMachine icon" width="36"> [QuoteMachine](skills/B01EBJ021C)
+
+*Alexa, ask Quote Machine to give me a quote*
+
+Get a quote to help inspire you!
+
+***
+
 ## &nbsp;<img src="skills/B0195QP20M/skill_icon" alt="Quoter icon" width="36"> [Quoter](skills/B0195QP20M)
 
 *Alexa, tell Quoter to tell me a quote*
@@ -3557,6 +3630,14 @@ Reindeer Games is a Trivia Game built as a template for developers to use in cre
 *Alexa, open relationary*
 
 Relationary is a fun, fast-paced multiplayer word association game that keeps your brain sharp as the rounds get harder.
+
+***
+
+## &nbsp;<img src="skills/B01DXS1JVE/skill_icon" alt="Remember Your Keys icon" width="36"> [Remember Your Keys](skills/B01DXS1JVE)
+
+*Alexa, ask Remember Your Keys if I am ready to go*
+
+Quick checklist to make sure that you have everything you need before you leave home.
 
 ***
 
@@ -4005,14 +4086,6 @@ Stock Market Sensei,the #1 Stock Trading & Investment Finance Prediction Platfor
 *Alexa, Ask Stone Ridge Food what are they serving today*
 
 Tells users the Stone Ridge School's entree menu for a given day
-
-***
-
-## &nbsp;<img src="skills/B019DB6YNI/skill_icon" alt="stopwatch icon" width="36"> [stopwatch](skills/B019DB6YNI)
-
-*Alexa, open stopwatch and start*
-
-A stopwatch for timing the duration of things.
 
 ***
 
@@ -4593,6 +4666,14 @@ Test your knowledge of NASCAR's past and present in this multiple-choice trivia 
 
 ***
 
+## &nbsp;<img src="skills/B01E0VAEV4/skill_icon" alt="Trivia for the Star Wars Universe icon" width="36"> [Trivia for the Star Wars Universe](skills/B01E0VAEV4)
+
+*Alexa, Open trivia for star wars*
+
+Jar-Jar Binks Presents: Trivia for the Star Wars Universe
+
+***
+
 ## &nbsp;<img src="skills/B01CRGMF02/skill_icon" alt="Trivia For Trump icon" width="36"> [Trivia For Trump](skills/B01CRGMF02)
 
 *Alexa, open trump me*
@@ -4790,6 +4871,14 @@ US National Parks quiz game
 *Alexa, launch state capitals*
 
 Trivia Game for US Captitals
+
+***
+
+## &nbsp;<img src="skills/B01EAUINW2/skill_icon" alt="USA Immigration Test icon" width="36"> [USA Immigration Test](skills/B01EAUINW2)
+
+*Alexa start immigration test*
+
+Studying for the citizenship test or just want to test your USA knowledge? This multiple-choice Alexa Skill can help.
 
 ***
 

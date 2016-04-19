@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OBL60U",
-  "averageRating": 1.4,
+  "averageRating": 1.5,
   "canDisable": true,
   "capabilities": null,
   "category": "Games",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "knock knock",
   "name": "Knock Knock Jokes",
-  "numberOfReviews": 33,
+  "numberOfReviews": 35,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://ocean-of-storms.com/tsatsatzu/legal/kk_privacy.htm",

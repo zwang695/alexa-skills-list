@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Drop Some Knowledge icon" width="36"> [Drop Some Knowledge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3df540db-1f81-4b22-9184-d0e1015cd783)
-![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Drop Some Knowledge skill, try saying...
 
