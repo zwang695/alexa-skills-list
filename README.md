@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 643
+**Total Skills Available:** 650
 
 ***
 
@@ -1152,6 +1152,14 @@ This skills allow users to find recipes - ingredients, cook steps, health info e
 
 ***
 
+## &nbsp;<img src="skills/B01E54UK88/skill_icon" alt="Corgi Quiz icon" width="36"> [Corgi Quiz](skills/B01E54UK88)
+
+*Alexa Corgi Quiz*
+
+This is a quiz about corgis, some of the answers may surprise you.
+
+***
+
 ## &nbsp;<img src="skills/B01DVOX6MU/skill_icon" alt="CouchPotato icon" width="36"> [CouchPotato](skills/B01DVOX6MU)
 
 *Alexa, ask Couch Potato if I should go outside in Hollywood?*
@@ -1621,6 +1629,14 @@ Expense Tracker can help you keep track of your costs. Just add all your spendin
 *Alexa, ask Facts for Elder Scrolls to tell me a Elder Scrolls fact.*
 
 Test your Elder Scrolls knowledge with this Alexa Skill application.
+
+***
+
+## &nbsp;<img src="skills/B01E5LR64M/skill_icon" alt="Facts for The White House icon" width="36"> [Facts for The White House](skills/B01E5LR64M)
+
+*Alexa, Ask White house facts to tell me a fact*
+
+Facts about the White House in Washington, DC
 
 ***
 
@@ -2223,6 +2239,14 @@ The Huffington Post is a Pulitzer Prize-winning source of news, features, and en
 *Alexa launch Human Heart*
 
 Basic information about human heart
+
+***
+
+## &nbsp;<img src="skills/B01DS71H8A/skill_icon" alt="Hunter Pence Facts icon" width="36"> [Hunter Pence Facts](skills/B01DS71H8A)
+
+*Alexa, open Hunter Pence facts*
+
+Hear your Echo list off little-known facts about Hunter Pence
 
 ***
 
@@ -2998,6 +3022,14 @@ My Dermatologist is designed for your skin health. At My Dermatologist we will p
 
 ***
 
+## &nbsp;<img src="skills/B01EIMI8LI/skill_icon" alt="My First Omaha Trivia Game icon" width="36"> [My First Omaha Trivia Game](skills/B01EIMI8LI)
+
+*Alexa, launch Omaha Trivia*
+
+Omaha Trivia Game. Alexa, launch Omaha Trivia
+
+***
+
 ## &nbsp;<img src="skills/B01DMMQZ2O/skill_icon" alt="My Memory icon" width="36"> [My Memory](skills/B01DMMQZ2O)
 
 *Alexa, tell My Memory that on Tuesday I water the plants.*
@@ -3268,6 +3300,14 @@ Plays a musical note for you to identify.
 
 Helps women keep track of their mentrual cycle for a better family planning.
 Based on the Standard Days Method by Georgetown University.
+
+***
+
+## &nbsp;<img src="skills/B01EIPQP56/skill_icon" alt="Persian History Quiz icon" width="36"> [Persian History Quiz](skills/B01EIPQP56)
+
+*Alexa, ask Persian History*
+
+A simple trivia game about ancient Persian history
 
 ***
 
@@ -3750,6 +3790,14 @@ Motivation, Reflection, and Insults from the world's greatest action hero Dwayne
 *Alexa, talk to Roddenberry.*
 
 Roddenberry's Trek Quotes is a fun, fast, and fabulous way to reminisce about your favorite Trek moments.
+
+***
+
+## &nbsp;<img src="skills/B01EGPJCJ4/skill_icon" alt="Roman History Facts icon" width="36"> [Roman History Facts](skills/B01EGPJCJ4)
+
+*Alexa, ask Roman History for a fact*
+
+Random fun facts about Roman history
 
 ***
 
@@ -5024,6 +5072,14 @@ Ask the warden if DMX is in jail
 *Alexa, ask Wedding Countdown how many days until my wedding?*
 
 Countdown the number of days until your wedding.
+
+***
+
+## &nbsp;<img src="skills/B01EC6F74G/skill_icon" alt="West Virginia Facts icon" width="36"> [West Virginia Facts](skills/B01EC6F74G)
+
+*Alexa open West Virginia Facts*
+
+Fun Facts about the State of West Virginia
 
 ***
 

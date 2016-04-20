@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019NZJQUM",
-  "averageRating": 1,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Games",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "elf trivia",
   "name": "Elf Trivia",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

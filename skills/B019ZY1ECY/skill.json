@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019ZY1ECY",
-  "averageRating": 1.8,
+  "averageRating": 1.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Finance",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "fidelity",
   "name": "Fidelity Investments",
-  "numberOfReviews": 15,
+  "numberOfReviews": 16,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.fidelity.com/privacy-policy",

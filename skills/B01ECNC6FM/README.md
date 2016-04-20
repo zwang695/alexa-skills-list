@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Chef icon" width="36"> [Chef](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0885a9ef-bf62-4d57-be09-ebe66718fd43)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Chef skill, try saying...
 
