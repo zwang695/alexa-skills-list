@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Next Train for Caltrain icon" width="36"> [Next Train for Caltrain](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec4aac28-45df-47a1-bfaa-d4f224b64fac)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Next Train for Caltrain skill, try saying...
 

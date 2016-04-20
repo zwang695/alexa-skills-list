@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="StubHub icon" width="36"> [StubHub](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.69da691e-4802-437a-8265-16fa277d167b)
-![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the StubHub skill, try saying...
 

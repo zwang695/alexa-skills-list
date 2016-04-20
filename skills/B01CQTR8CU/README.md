@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Spelling Bee icon" width="36"> [Spelling Bee](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ed4e8815-c350-4d56-bfd2-e5f3667c9573)
-![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 12
+![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 13
 
 To use the Spelling Bee skill, try saying...
 

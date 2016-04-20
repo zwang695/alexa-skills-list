@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 635
+**Total Skills Available:** 643
 
 ***
 
@@ -332,6 +332,14 @@ Locate APRS stations
 *Alexa, ask Area Code where is eight six zero*
 
 Area Code Lookup
+
+***
+
+## &nbsp;<img src="skills/B01E2DTXVC/skill_icon" alt="Artie icon" width="36"> [Artie](skills/B01E2DTXVC)
+
+*Alexa, talk to Artie*
+
+Meet our new intern! He's so excited to be working at imperson that he can't stop talking about it...
 
 ***
 
@@ -1320,6 +1328,14 @@ Tired of everyone lying to you? This skill will tell you the truth.
 
 ***
 
+## &nbsp;<img src="skills/B01DO6II5K/skill_icon" alt="Developer Games icon" width="36"> [Developer Games](skills/B01DO6II5K)
+
+*Alexa, start developer games*
+
+A quick developer quiz to test your skills.
+
+***
+
 ## &nbsp;<img src="skills/B01DKRR77I/skill_icon" alt="DEVITO FACTS icon" width="36"> [DEVITO FACTS](skills/B01DKRR77I)
 
 *Alexa, ask Devito for a fact*
@@ -1597,6 +1613,14 @@ Listen to Alexa speak famous quotes of utter despair. And then cry along with he
 *Alexa, tell Expense Tracker that I paid 10 dollars for food.*
 
 Expense Tracker can help you keep track of your costs. Just add all your spendings to certain categories and ask Expense Tracker to create your report.
+
+***
+
+## &nbsp;<img src="skills/B01EGSGQMC/skill_icon" alt="Facts For Elder Scrolls icon" width="36"> [Facts For Elder Scrolls](skills/B01EGSGQMC)
+
+*Alexa, ask Facts for Elder Scrolls to tell me a Elder Scrolls fact.*
+
+Test your Elder Scrolls knowledge with this Alexa Skill application.
 
 ***
 
@@ -2420,6 +2444,14 @@ Ask Alexa when the next train is coming to your NYC MTA L train stop, and listen
 
 ***
 
+## &nbsp;<img src="skills/B01DOW1MAC/skill_icon" alt="Langone Retreat icon" width="36"> [Langone Retreat](skills/B01DOW1MAC)
+
+*Alexa, Ask Langone Retreat what should I bring?*
+
+The Langone Retreat Information Skill by Longboard 8
+
+***
+
 ## &nbsp;<img src="skills/B01DD95W98/skill_icon" alt="Language Fun icon" width="36"> [Language Fun](skills/B01DD95W98)
 
 *Alexa, ask Language Fun about the edit distance between words dog and frog.*
@@ -3236,6 +3268,14 @@ Plays a musical note for you to identify.
 
 Helps women keep track of their mentrual cycle for a better family planning.
 Based on the Standard Days Method by Georgetown University.
+
+***
+
+## &nbsp;<img src="skills/B01EEUXG7U/skill_icon" alt="Phage Trivia icon" width="36"> [Phage Trivia](skills/B01EEUXG7U)
+
+*Alexa, open Phage Trivia*
+
+a trivia app for members of The Phage and The Institute village.
 
 ***
 
@@ -4666,6 +4706,14 @@ Test your knowledge of NASCAR's past and present in this multiple-choice trivia 
 
 ***
 
+## &nbsp;<img src="skills/B01E2MCUIG/skill_icon" alt="Trivia for The George Washington University icon" width="36"> [Trivia for The George Washington University](skills/B01E2MCUIG)
+
+*Alexa, play trivia for g.w.u*
+
+Trivia for The George Washington University
+
+***
+
 ## &nbsp;<img src="skills/B01E0VAEV4/skill_icon" alt="Trivia for the Star Wars Universe icon" width="36"> [Trivia for the Star Wars Universe](skills/B01E0VAEV4)
 
 *Alexa, Open trivia for star wars*
@@ -5011,6 +5059,14 @@ Wiki Brains can read you many of the 5000 most accessed articles on the English 
 
 ***
 
+## &nbsp;<img src="skills/B01E9LZZ3M/skill_icon" alt="Wine Facts icon" width="36"> [Wine Facts](skills/B01E9LZZ3M)
+
+*Alexa, open Wine Facts.*
+
+This skill will tell you some interesting, obscure and fascinating facts about wine.
+
+***
+
 ## &nbsp;<img src="skills/B01DL3G90M/skill_icon" alt="Wine Trivia icon" width="36"> [Wine Trivia](skills/B01DL3G90M)
 
 *Alexa, play Wine Trivia*
@@ -5080,6 +5136,14 @@ ZipCode
 *Alexa, ask Zodiac the sign of someone born on October fifth*
 
 Find out the Zodiac sign for any date
+
+***
+
+## &nbsp;<img src="skills/B01EAPCGTS/skill_icon" alt="Zoo Walk icon" width="36"> [Zoo Walk](skills/B01EAPCGTS)
+
+*Alexa, start zoo walk*
+
+A walk in the zoo: Guess animal names by their sounds. Great fun for young and old! Roar!
 
 ***
 

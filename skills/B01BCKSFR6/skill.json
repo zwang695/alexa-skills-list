@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BCKSFR6",
-  "averageRating": 4.3,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": "Travel",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "toronto transit",
   "name": "Toronto Transit",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://crhuber.github.io/ttc/",

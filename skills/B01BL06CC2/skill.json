@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01BL06CC2",
-  "averageRating": 1.6,
+  "averageRating": 1.5,
   "canDisable": true,
   "capabilities": null,
   "category": "Home-Automation",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my dee link",
   "name": "mydlink Home",
-  "numberOfReviews": 5,
+  "numberOfReviews": 6,
   "pamsPartnerId": "DpelqqEDW4Y3NOCDGCQtiIgZ3",
   "permissions": null,
   "privacyPolicyUrl": "https://www.mydlink.com/privacyPolicy",
