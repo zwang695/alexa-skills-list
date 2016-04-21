@@ -24,11 +24,11 @@
   "numberOfReviews": 0,
   "pamsPartnerId": null,
   "permissions": null,
-  "privacyPolicyUrl": null,
+  "privacyPolicyUrl": "http://www.logisome.com/terms-of-use",
   "shortDescription": "Carly is a voice-activated coach for Amazon Echo that helps users understand their moods and thoughts",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "http://www.logisome.com/terms-of-use",
   "vendorId": "M3VX8S3JBR57Q0",
   "vendorName": "Logisome Inc"
 }

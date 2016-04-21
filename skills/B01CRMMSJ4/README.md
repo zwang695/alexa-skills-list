@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Physics Quiz icon" width="36"> [Physics Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.38976c65-4b2f-4d4b-b956-40b22e180982)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Physics Quiz skill, try saying...
 

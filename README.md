@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 650
+**Total Skills Available:** 656
 
 ***
 
@@ -920,6 +920,14 @@ Hundreds of purrfect cat facts for any occasion.
 
 ***
 
+## &nbsp;<img src="skills/B01EEGU816/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01EEGU816)
+
+*Alexa ask cat facts*
+
+This skill gives you fun facts about cats when you ask it!
+
+***
+
 ## &nbsp;<img src="skills/B01DBH0L3Y/skill_icon" alt="Cat Genius icon" width="36"> [Cat Genius](skills/B01DBH0L3Y)
 
 *Alexa, open Cat Genius!*
@@ -1029,6 +1037,14 @@ Listen to Alexa and learn the lyrics to some yuletide favorites!
 *Alexa, ask Christopher for an airplane fact*
 
 Christopher's Airplane Trivia. Learn facts and trivia about a wide variety of aircraft, aerospace, and aviation!
+
+***
+
+## &nbsp;<img src="skills/B01EBEMOYK/skill_icon" alt="Circulator icon" width="36"> [Circulator](skills/B01EBEMOYK)
+
+*Alexa ask Circulator when the next bus is arriving on the Purple line at Fort Avenue.*
+
+Find the arrival times for upcoming buses on Baltimore's Charm City Circulator
 
 ***
 
@@ -1685,6 +1701,14 @@ Retrieve fantasy football news and player updates on the Top 300 players directl
 *Alexa, ask Fantasy Scoreboard to show the Sens game*
 
 Control your Fantasy Scoreboard
+
+***
+
+## &nbsp;<img src="skills/B01DJV1K0A/skill_icon" alt="FAST Bible icon" width="36"> [FAST Bible](skills/B01DJV1K0A)
+
+*Alexa, ask FAST Bible for John 3 verse 16*
+
+Request a verse, passage, or chapter. You can also ask for the verse of the day, a random verse, or search for verses with key words.
 
 ***
 
@@ -3246,6 +3270,14 @@ Listen to your Ooma voicemail.  Dial your phone with voice commands.  NOTE:  Thi
 
 ***
 
+## &nbsp;<img src="skills/B01E9Z3UVC/skill_icon" alt="Opening Bell icon" width="36"> [Opening Bell](skills/B01E9Z3UVC)
+
+*Alexa, ask Opening Bell for Tesla.*
+
+Retrieve the current performance of a publicly trading stock (NASDAQ, NYSE) using the company name.
+
+***
+
 ## &nbsp;<img src="skills/B01D4F1J0M/skill_icon" alt="OurGroceries icon" width="36"> [OurGroceries](skills/B01D4F1J0M)
 
 *Alexa, ask OurGroceries to add milk to shopping list.*
@@ -3558,6 +3590,14 @@ Cute pugs shoved straight into your ears.
 *Alexa ask Puget Sound what is the ferry status in Clinton*
 
 A way to find local information in the Washington State Puget Sound area.
+
+***
+
+## &nbsp;<img src="skills/B01E36U47K/skill_icon" alt="Puzzled Pint icon" width="36"> [Puzzled Pint](skills/B01E36U47K)
+
+*Alexa, ask Puzzled Pint.*
+
+Ask Alexa when the next Puzzled Pint event is.
 
 ***
 
@@ -5069,9 +5109,9 @@ Ask the warden if DMX is in jail
 
 ## &nbsp;<img src="skills/B01DPM0ERI/skill_icon" alt="Wedding Countdown icon" width="36"> [Wedding Countdown](skills/B01DPM0ERI)
 
-*Alexa, ask Wedding Countdown how many days until my wedding?*
+*Alexa, ask Wedding Countdown to set my wedding date as May 14th, 2016.*
 
-Countdown the number of days until your wedding.
+Countdown the number of days until your wedding date.
 
 ***
 
@@ -5088,6 +5128,14 @@ Fun Facts about the State of West Virginia
 *Alexa, ask whale trivia for a new game.*
 
 Trivia game about whales
+
+***
+
+## &nbsp;<img src="skills/B01DRKF6VW/skill_icon" alt="WhereToPark icon" width="36"> [WhereToPark](skills/B01DRKF6VW)
+
+*Alexa, Ask Parking Near Me 'Good parking in New York city?'*
+
+Where To Park
 
 ***
 

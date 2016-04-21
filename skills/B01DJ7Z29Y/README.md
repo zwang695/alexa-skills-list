@@ -7,7 +7,7 @@ To use the Exchange Rate Service skill, try saying...
 
 Exchange Rate Service provides the latest, up to the minute, currency exchange rates.
 
-Users can change the default base rate, if required. Help is provided, that describes the available commands. The first version of the skill will present a list of 5 popular exchange rates.
+Users can change the default base rate, if required. Help is provided, that describes the available commands. The 2nd version of the skill will present a paginated list of 5 popular exchange rates.
 
 eg . 1.00 USD = [ 1.31 AUD, 1.30 CAD, 0.97 CHF, 0.69 GBP, 66.28 INR ]
 
