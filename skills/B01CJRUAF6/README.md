@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Baby Stats icon" width="36"> [Baby Stats](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f24fc1b4-b5f2-4be7-afc7-c833d6c739d6)
-![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Baby Stats skill, try saying...
 

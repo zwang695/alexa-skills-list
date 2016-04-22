@@ -3,21 +3,19 @@
 
 To use the Ceaseless skill, try saying...
 
-* *Alexa, ask Ceaseless who should I pray for today*
+* *Alexa, ask Ceaseless for today's proverb*
 
 * *Alexa, ask Ceaseless to tell me a proverb*
 
 * *Alexa, ask Ceaseless what I can do*
 
-The Ceaseless skill for Alexa provides a prayer topic and a Scripture verse from the book of Proverbs each day, all you have to do is ask!
+The Ceaseless skill for Alexa provides a Scripture verse from the book of Proverbs each day, all you have to do is ask!
 
 To start the skill, just say,
 
 "Alexa, ask Ceaseless for today's proverb."
 
-Or say,
-
-"Alexa, ask Ceaseless who I should pray for today."
+Alexa will read a different proverb from the Bible each day.
 
 ***
 
