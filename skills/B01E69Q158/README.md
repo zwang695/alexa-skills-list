@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Mormon Trivia icon" width="36"> [Mormon Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ef820f93-c9ad-4b94-907f-7bd7ff837015)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Mormon Trivia skill, try saying...
 

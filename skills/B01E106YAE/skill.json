@@ -5,10 +5,10 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Reference",
-  "description": "The Ceaseless skill for Alexa provides a Scripture verse from the book of Proverbs each day, all you have to do is ask!\n\nTo start the skill, just say,\n\n\"Alexa, ask Ceaseless for today's proverb.\"\n\nAlexa will read a different proverb from the Bible each day.",
+  "description": "The Ceaseless skill for Alexa provides a prayer topic and a Scripture verse from the book of Proverbs each day, all you have to do is ask!\n\nTo start the skill, just say,\n\n\"Alexa, ask Ceaseless for today's proverb.\"\n\nOr say,\n\n\"Alexa, ask Ceaseless who I should pray for today.\"",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask Ceaseless for today's proverb",
+    "Alexa, ask Ceaseless who should I pray for today",
     "Alexa, ask Ceaseless to tell me a proverb",
     "Alexa, ask Ceaseless what I can do"
   ],
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.ceaselessprayer.com/privacy.html",
-  "shortDescription": "Ask and receive wisdom from the Bible each day with Ceaseless",
+  "shortDescription": "Find out who to pray for each day and receive wisdom from the Bible each day with Ceaseless",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": "http://www.ceaselessprayer.com/tou.html",

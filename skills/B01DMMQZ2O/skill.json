@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DMMQZ2O",
-  "averageRating": 2.7,
+  "averageRating": 2.9,
   "canDisable": true,
   "capabilities": null,
   "category": "Lifestyle",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my memory",
   "name": "My Memory",
-  "numberOfReviews": 3,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
