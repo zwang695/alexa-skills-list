@@ -840,14 +840,6 @@ Have Alexa call the hogs by saying:   "Alexa, Start Calling the Hogs".  Alexa wi
 
 ***
 
-## &nbsp;<img src="skills/B01DNY0L0I/skill_icon" alt="Caltrain icon" width="36"> [Caltrain](skills/B01DNY0L0I)
-
-*Alexa, Ask Caltrain when is the next train from Palo Alto to San Francisco*
-
-Caltrain - Realtime Schedule
-
-***
-
 ## &nbsp;<img src="skills/B017OBWHCQ/skill_icon" alt="Campbell's Kitchen icon" width="36"> [Campbell's Kitchen](skills/B017OBWHCQ)
 
 *Alexa, ask Campbell's Kitchen what's for dinner*
@@ -3696,6 +3688,14 @@ Ask Alexa when the next Puzzled Pint event is.
 *Alexa, ask QRZ who AA7BQ is*
 
 Provides easy lookup of FCC licenses by callsign.
+
+***
+
+## &nbsp;<img src="skills/B01ELPK6OY/skill_icon" alt="Quadrivia Vocabulary Quiz icon" width="36"> [Quadrivia Vocabulary Quiz](skills/B01ELPK6OY)
+
+*Alexa, launch Quadrivia*
+
+Quadrivia is like trivia, only more serious and harder. Quadrivia Vocabulary Quiz will challenge your vocabulary skills.
 
 ***
 
