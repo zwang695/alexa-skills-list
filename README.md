@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 680
+**Total Skills Available:** 679
 
 ***
 
@@ -3405,14 +3405,6 @@ Says random palindromes
 *Alexa, ask PCMag which printer should I buy.*
 
 Product recommendations and reviews for thousands of popular products.
-
-***
-
-## &nbsp;<img src="skills/B01DNZK616/skill_icon" alt="PebbleSpot Family Practice Board Review icon" width="36"> [PebbleSpot Family Practice Board Review](skills/B01DNZK616)
-
-*Alexa, ask board review questions.*
-
-Pass your Family Medicine boards!  Have Alexa ask you board review questions so you can ace the test.
 
 ***
 
