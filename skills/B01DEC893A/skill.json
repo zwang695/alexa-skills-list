@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DEC893A",
-  "averageRating": 4.3,
+  "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
   "category": "Lifestyle",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "home advisor",
   "name": "HomeAdvisor",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.homeadvisor.com/mobile/legal/consumerMobilePrivacyPolicy.jsp",

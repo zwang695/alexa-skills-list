@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Opening Bell icon" width="36"> [Opening Bell](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e46fdef7-3ce7-4374-9135-05eac31a70cb)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Opening Bell skill, try saying...
 

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BW6HHJC",
-  "averageRating": 4.6,
+  "averageRating": 4.2,
   "canDisable": true,
   "capabilities": null,
   "category": "Other",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "powerball helper",
   "name": "Powerball Number Generator",
-  "numberOfReviews": 5,
+  "numberOfReviews": 6,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 679
+**Total Skills Available:** 692
 
 ***
 
@@ -231,6 +231,14 @@ Word Master is an interactive way to learn and challenge yourself with words, wh
 
 ***
 
+## &nbsp;<img src="skills/B01EHEI6Z0/skill_icon" alt="American Basketball Trivia icon" width="36"> [American Basketball Trivia](skills/B01EHEI6Z0)
+
+*Alexa, ask american basketball trivia*
+
+Alexa added skill to ask American Basketball Trivia
+
+***
+
 ## &nbsp;<img src="skills/B01E4C70XO/skill_icon" alt="American History Quiz icon" width="36"> [American History Quiz](skills/B01E4C70XO)
 
 *Alexa ask american history quiz*
@@ -444,6 +452,14 @@ Find out where your car is parked, how much gas you have left, or how far you've
 *Alexa, ask Aviation Weather what is the metar for KSMO*
 
 Aviation Weather METAR's & Flight Rules
+
+***
+
+## &nbsp;<img src="skills/B01EIFGQEG/skill_icon" alt="Baby Animals icon" width="36"> [Baby Animals](skills/B01EIFGQEG)
+
+*Alexa, open Baby Animals*
+
+Test your knowledge of the names of baby animals in our fun quiz. Ask your Amazon device: "Alexa, open Baby Animals" to play a quick, kid-friendly game.
 
 ***
 
@@ -735,6 +751,14 @@ Trivia about Bollywood
 
 ***
 
+## &nbsp;<img src="skills/B01EIX0CFW/skill_icon" alt="Bollywood Trivia Game icon" width="36"> [Bollywood Trivia Game](skills/B01EIX0CFW)
+
+*Alexa, ask bollywood trivia to start game*
+
+This is the Bollywood Trivia Game. Want to test your knowledge about bollywood movies, stars etc. or want to have just fun, this skill is for you.
+
+***
+
 ## &nbsp;<img src="skills/B01CSCMSIE/skill_icon" alt="Boo icon" width="36"> [Boo](skills/B01CSCMSIE)
 
 *Alexa ask boo*
@@ -968,6 +992,14 @@ Find out who to pray for each day and receive wisdom from the Bible each day wit
 
 ***
 
+## &nbsp;<img src="skills/B01EILC5YA/skill_icon" alt="Celebration Bar Review icon" width="36"> [Celebration Bar Review](skills/B01EILC5YA)
+
+*Alexa, ask Celebration Bar Review for a tip*
+
+Get a study tip for the MBE.
+
+***
+
 ## &nbsp;<img src="skills/B01BFXE0RO/skill_icon" alt="CheerLights icon" width="36"> [CheerLights](skills/B01BFXE0RO)
 
 *Alexa open cheer lights*
@@ -1056,6 +1088,14 @@ Christopher's Airplane Trivia. Learn facts and trivia about a wide variety of ai
 
 ***
 
+## &nbsp;<img src="skills/B01EO3189K/skill_icon" alt="CHS Quiz Bowl Challenge icon" width="36"> [CHS Quiz Bowl Challenge](skills/B01EO3189K)
+
+*'Alexa play Quiz Bowl'*
+
+Play through a set of fun and moderately challenging general trivia.
+
+***
+
 ## &nbsp;<img src="skills/B01EBEMOYK/skill_icon" alt="Circulator icon" width="36"> [Circulator](skills/B01EBEMOYK)
 
 *Alexa ask Circulator when the next bus is arriving on the Purple line at Fort Avenue.*
@@ -1093,6 +1133,14 @@ Find information based on area code, postal code, or US city using Alexa.
 *Alexa, ask for a code phrase.*
 
 Generate a code phrase for your next top secret project!
+
+***
+
+## &nbsp;<img src="skills/B01E7SRZUS/skill_icon" alt="Coin Flip icon" width="36"> [Coin Flip](skills/B01E7SRZUS)
+
+*Alexa, ask Coin Flip to flip it*
+
+Need to resolve a dispute or help making a big decision? Call "heads" or "tails" and ask Coin Flip to flip it – Problem solved!
 
 ***
 
@@ -2124,6 +2172,14 @@ Just a fun little trivia app for Spurs fans. We are not officially related in an
 
 ***
 
+## &nbsp;<img src="skills/B01ENR8GD8/skill_icon" alt="Gratitude Power for Runners and Walkers icon" width="36"> [Gratitude Power for Runners and Walkers](skills/B01ENR8GD8)
+
+*Alexa, ask Gratitude Power for a gratitude statement.*
+
+Get a random statement of gratitude related to running or walking from a bank of more than 900 statements, and improve your happiness and performance!
+
+***
+
 ## &nbsp;<img src="skills/B01COTHDSG/skill_icon" alt="Greatest Common Divisor (GCD) icon" width="36"> [Greatest Common Divisor (GCD)](skills/B01COTHDSG)
 
 *Alexa, open G. C. D.*
@@ -2590,6 +2646,14 @@ Get an inspirational message from the LDS Daily Message Alexa App
 
 ***
 
+## &nbsp;<img src="skills/B01E2CMDVU/skill_icon" alt="LeagueCounter icon" width="36"> [LeagueCounter](skills/B01E2CMDVU)
+
+*Alexa ask league counter*
+
+Need to find out a counter for a Champion? Let us help!
+
+***
+
 ## &nbsp;<img src="skills/B01DR9XVQK/skill_icon" alt="Lets Add icon" width="36"> [Lets Add](skills/B01DR9XVQK)
 
 *Alexa, open let's add*
@@ -2699,6 +2763,14 @@ Responds with the Gonzaga High School menu items for a given day
 *Alexa, open Lyrical.*
 
 Lyrical helps you remember a song name when you provide it with lyrics. All song information is being pulled from genius.com.
+
+***
+
+## &nbsp;<img src="skills/B01EH8QK4U/skill_icon" alt="Macbeth Comprehension Questions icon" width="36"> [Macbeth Comprehension Questions](skills/B01EH8QK4U)
+
+*Alexa ask macbeth comprehension questions*
+
+This is a short seven question quiz on Shakespeare's play Macbeth. User will be able to choose from four answer choices that best answer the question.
 
 ***
 
@@ -3400,6 +3472,14 @@ Product recommendations and reviews for thousands of popular products.
 
 ***
 
+## &nbsp;<img src="skills/B01EINIFA6/skill_icon" alt="Penalty Box icon" width="36"> [Penalty Box](skills/B01EINIFA6)
+
+*Alexa, ask the Penalty Box to tell me a hockey fact.*
+
+Get a fun hockey fact from a grab-bag of trivia about the sport that uses a stick and a puck!
+
+***
+
 ## &nbsp;<img src="skills/B019HTWWW8/skill_icon" alt="Perfect Pitch icon" width="36"> [Perfect Pitch](skills/B019HTWWW8)
 
 *Alexa, Open Perfect Pitch.*
@@ -3512,6 +3592,14 @@ A trivia game about the use, the history, the music and the building of pipe org
 *Alexa, Launch Pizza Facts*
 
 Facts about the humankind's greatest achievement: pizza
+
+***
+
+## &nbsp;<img src="skills/B01E3Q5CH2/skill_icon" alt="Pocket Assistant icon" width="36"> [Pocket Assistant](skills/B01E3Q5CH2)
+
+*Alexa, ask Pocket Helper to have pocket fix my computer*
+
+A user of the Pocket app can use this skill. The main purpose of this skill is to help user in case of a problem by calling on the mobile number provided by him
 
 ***
 
@@ -3795,11 +3883,27 @@ Raj's trivia pursuit tests your knowledge of how well you know him.
 
 ***
 
+## &nbsp;<img src="skills/B01EKJ16HM/skill_icon" alt="Random Muse icon" width="36"> [Random Muse](skills/B01EKJ16HM)
+
+*Alexa, ask Random Muse to give me an idea*
+
+Randomized ideas for writers, artists, and anyone else who needs a place to start.
+
+***
+
 ## &nbsp;<img src="skills/B01AB0IK96/skill_icon" alt="Random Number icon" width="36"> [Random Number](skills/B01AB0IK96)
 
 *Alexa ask Random Number for a number*
 
 Ask for a random number between 1 and 100
+
+***
+
+## &nbsp;<img src="skills/B01ENL5T20/skill_icon" alt="Random Thoughts icon" width="36"> [Random Thoughts](skills/B01ENL5T20)
+
+*Alexa, open Random Thoughts*
+
+Have Alexa tell you a random thought, the kind you would come up with in the shower!  Try "Alexa, open Random Thoughts".
 
 ***
 
