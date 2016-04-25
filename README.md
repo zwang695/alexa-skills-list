@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 692
+**Total Skills Available:** 696
 
 ***
 
@@ -2356,6 +2356,14 @@ This app allows HomeSeer home automation system users to control and monitor sta
 
 ***
 
+## &nbsp;<img src="skills/B01EF8S6L2/skill_icon" alt="Horror Movie Taglines icon" width="36"> [Horror Movie Taglines](skills/B01EF8S6L2)
+
+*Alexa, start Horror Movie Taglines*
+
+Are you a horror movie fan?  Test your knowledge of horror movie taglines.
+
+***
+
 ## &nbsp;<img src="skills/B01ATZM6N4/skill_icon" alt="House Band icon" width="36"> [House Band](skills/B01ATZM6N4)
 
 *"Alexa, launch house band."*
@@ -3092,6 +3100,14 @@ Gets movie details by searching theMovieDB.org based on title
 *Alexa, start Movie Quotes*
 
 Match the famous movie quote with the movie it came from.
+
+***
+
+## &nbsp;<img src="skills/B01EEK7QGC/skill_icon" alt="Movies for redbox icon" width="36"> [Movies for redbox](skills/B01EEK7QGC)
+
+*Alexa, ask Movies for redbox for latest movies*
+
+Movies for redbox tells you the latest and popular movies you can rent from redbox.
 
 ***
 
@@ -4144,6 +4160,14 @@ Ask Alexa for a Science Fact!
 *Alexa, ask Scout to arm home mode.*
 
 Controlling your Scout security system has never been easier. Ask Alexa to arm and disarm, retrieve recent activities, or check in on the status of a sensor.
+
+***
+
+## &nbsp;<img src="skills/B01DOJT1JY/skill_icon" alt="Scryb icon" width="36"> [Scryb](skills/B01DOJT1JY)
+
+*Alexa, tell Scryb that I'm home*
+
+Scryb makes it easy for anyone to send a text message hands-free from home, or when you don't have access to a smartphone.
 
 ***
 
@@ -5490,6 +5514,14 @@ Get Woot's daily deals straight from Alexa, just ask Woot "What is today's deal?
 *Alexa, start soccer trivia*
 
 Test your  knowledge of soccer with a series of questions around the world cup and soccer players
+
+***
+
+## &nbsp;<img src="skills/B01EM8UAEG/skill_icon" alt="World History icon" width="36"> [World History](skills/B01EM8UAEG)
+
+*Alexa, open World History.*
+
+Are you interested in world history. Rely on World History for hundreds of events in world history for every day of the year.
 
 ***
 
