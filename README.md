@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 700
+**Total Skills Available:** 706
 
 ***
 
@@ -944,6 +944,14 @@ Carly is a voice-activated coach for Amazon Echo that helps users understand the
 
 ***
 
+## &nbsp;<img src="skills/B01EJANOA4/skill_icon" alt="Cat Fact icon" width="36"> [Cat Fact](skills/B01EJANOA4)
+
+*Alexa, open Cat Fact.*
+
+Learn about cats with the Cat Fact skill
+
+***
+
 ## &nbsp;<img src="skills/B017OBJI46/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B017OBJI46)
 
 *Alexa, open Cat Facts.*
@@ -989,6 +997,14 @@ Raise your e-cat living in Alexa!
 *Alexa, ask cat facts to start game*
 
 Cat Facts Trivia - test your knowledge of cat facts!
+
+***
+
+## &nbsp;<img src="skills/B01EH4LA7Q/skill_icon" alt="Caves Under Thornhill icon" width="36"> [Caves Under Thornhill](skills/B01EH4LA7Q)
+
+*Alexa, ask Caves Under Thornhill to start a game.*
+
+Caves Under Thornhill is a classic maze and monster game.
 
 ***
 
@@ -1914,6 +1930,14 @@ Not sure what kind of food to eat for lunch or dinner?  Ask Food Finder to sugge
 
 ***
 
+## &nbsp;<img src="skills/B01EGR77W6/skill_icon" alt="Food Holiday icon" width="36"> [Food Holiday](skills/B01EGR77W6)
+
+*Alexa, ask Food Holiday for the food holiday today.*
+
+Retrieve today's Food Holiday
+
+***
+
 ## &nbsp;<img src="skills/B01DTGEX7C/skill_icon" alt="Foodie Trivia icon" width="36"> [Foodie Trivia](skills/B01DTGEX7C)
 
 *Alexa, start foodie trivia*
@@ -2057,6 +2081,14 @@ Funny Quoter is here to make you smile and chuckle with dozens of funny quotes. 
 *Alexa, ask Game Dice to roll three ten siders*
 
 Use Game Dice to have Alexa roll dice of various sizes for you.
+
+***
+
+## &nbsp;<img src="skills/B01EFHVED0/skill_icon" alt="Game Show icon" width="36"> [Game Show](skills/B01EFHVED0)
+
+*Alexa, play Game Show*
+
+Play a game show with your Echo!
 
 ***
 
@@ -3124,6 +3156,14 @@ Gets movie details by searching theMovieDB.org based on title
 *Alexa, start Movie Quotes*
 
 Match the famous movie quote with the movie it came from.
+
+***
+
+## &nbsp;<img src="skills/B01EDLQW6M/skill_icon" alt="Movie Trivia icon" width="36"> [Movie Trivia](skills/B01EDLQW6M)
+
+*"Alexa, open The Movie Trivia"*
+
+Test your knowledge about the Academy Awards
 
 ***
 
@@ -5329,6 +5369,14 @@ US National Parks quiz game
 *Alexa, launch state capitals*
 
 Trivia Game for US Captitals
+
+***
+
+## &nbsp;<img src="skills/B01DVP19FU/skill_icon" alt="US States Quiz icon" width="36"> [US States Quiz](skills/B01DVP19FU)
+
+*Alexa, ask states quiz*
+
+US States Quiz
 
 ***
 
