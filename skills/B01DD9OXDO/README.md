@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Biking Wizard icon" width="36"> [Biking Wizard](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.375fa265-94fa-4201-8621-d67cc548dd9d)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Biking Wizard skill, try saying...
 

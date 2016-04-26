@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 696
+**Total Skills Available:** 698
 
 ***
 
@@ -10,6 +10,14 @@ A complete list of all available Alexa Skills
 *Alexa, Open one two three*
 
 1-2-3 Math, tests your elementary mathematics topics like after, before, between; greater or lesser, more or less, addition, subtraction etc.
+
+***
+
+## &nbsp;<img src="skills/B01E7TSGIW/skill_icon" alt="1-800-Flowers icon" width="36"> [1-800-Flowers](skills/B01E7TSGIW)
+
+*Alexa ask 1-800-Flowers to order Becky flowers*
+
+Quickly order flowers for contacts in your 1-800-Flowers account.
 
 ***
 
@@ -4857,6 +4865,14 @@ This skill will give the tide report for most locations (city and state/country)
 *Alexa ask Times for Marta what are the times for the airport?*
 
 Times for MARTA will tell you how soon the next train will arrive at different stations within the MARTA subway system in Atlanta.
+
+***
+
+## &nbsp;<img src="skills/B01DURZV76/skill_icon" alt="Times Tutor icon" width="36"> [Times Tutor](skills/B01DURZV76)
+
+*Alexa, ask Times Tutor to practice nine*
+
+Practice your multiplication with the Times Tutor!
 
 ***
 

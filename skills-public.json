@@ -35,6 +35,44 @@
       "vendorName": "Shanthan Kesharaju"
     },
     {
+      "accountLinkingWhitelistedDomains": [
+        "flowers-staging.rain.agency",
+        "www.google-analytics.com",
+        "itunes.apple.com"
+      ],
+      "asin": "B01E7TSGIW",
+      "averageRating": 0,
+      "canDisable": true,
+      "capabilities": null,
+      "category": "Other",
+      "description": "With a streamlined ordering process, you can quickly send flowers to your loved ones using this 1-800-Flowers skill. Simply connect your 1-800-Flowers account and you can send your contacts beautiful arrangements. You can choose the floral arrangement style, arrangement size, and delivery date. The flowers will be delivered to your contact's address in your 1-800-Flowers account. Your existing payment credentials in your account are used to pay for the delivery, so there is no need to enter additional payment information. It has never been simpler to show those you love that you care.",
+      "enablement": null,
+      "exampleInteractions": [
+        "Alexa ask 1-800-Flowers to order Becky flowers",
+        "Alexa tell 1-800-Flowers I want to send flowers to Lindsey on May 28th.",
+        "Alexa tell 1-800-Flowers I need a large Mother's Day arrangement for Christine."
+      ],
+      "firstReleaseDate": 1461172168.568,
+      "homepageLinkText": null,
+      "homepageLinkUrl": null,
+      "id": "amzn1.echo-sdk-ams.app.6b600e79-2603-40ad-a959-81a74feefd4c",
+      "imageAltText": "1-800-Flowers icon",
+      "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01E7TSGIW/skill_icon",
+      "inAppPurchasingSupported": true,
+      "launchPhrase": "one eight hundred flowers",
+      "name": "1-800-Flowers",
+      "numberOfReviews": 0,
+      "pamsPartnerId": "oX25q6BhkiWAfIyxQ9fxISM9O",
+      "permissions": null,
+      "privacyPolicyUrl": "http://www.1800flowers.com/About-Us-Privacy-Policy",
+      "shortDescription": "Quickly order flowers for contacts in your 1-800-Flowers account.",
+      "skillTypes": null,
+      "stage": "live",
+      "termsOfUseUrl": null,
+      "vendorId": "M1124AJW6N8RI5",
+      "vendorName": "www.1800flowers.com"
+    },
+    {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01BN1DYBQ",
       "averageRating": 4.3,
@@ -414,7 +452,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01AH90EAO",
-      "averageRating": 3.8,
+      "averageRating": 3.7,
       "canDisable": true,
       "capabilities": null,
       "category": "Games",
@@ -434,7 +472,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "akinator",
       "name": "Abra",
-      "numberOfReviews": 59,
+      "numberOfReviews": 60,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -2041,7 +2079,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M22PHN2LU7I78F",
-      "vendorName": "Cory Wixom"
+      "vendorName": "cWix"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -2610,7 +2648,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "the bible app",
       "name": "Bible",
-      "numberOfReviews": 48,
+      "numberOfReviews": 49,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": "https://bible.com/privacy",
@@ -2726,7 +2764,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01DD9OXDO",
-      "averageRating": 4.5,
+      "averageRating": 3.7,
       "canDisable": true,
       "capabilities": null,
       "category": "Sports",
@@ -2746,7 +2784,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "the biking wizard",
       "name": "Biking Wizard",
-      "numberOfReviews": 2,
+      "numberOfReviews": 3,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -20614,7 +20652,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01DTV4QKQ",
-      "averageRating": 4,
+      "averageRating": 4.5,
       "canDisable": true,
       "capabilities": null,
       "category": "Travel",
@@ -20634,7 +20672,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "times for marta",
       "name": "Times for MARTA",
-      "numberOfReviews": 1,
+      "numberOfReviews": 2,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -20644,6 +20682,40 @@
       "termsOfUseUrl": null,
       "vendorId": "M2UV4DPRZHZ9ZL",
       "vendorName": "Kirksey"
+    },
+    {
+      "accountLinkingWhitelistedDomains": null,
+      "asin": "B01DURZV76",
+      "averageRating": 0,
+      "canDisable": true,
+      "capabilities": null,
+      "category": "Education",
+      "description": "Times Tutor helps children practice their basic multiplication. It will give you a multiplication problem, then reply with the answer! If you're correct, it will move onto another problem. If not, you get to keep trying.\n\nSimply \"ask Times Tutor\" to get started with multiplication problems between one and twelve. If you'd like to practice a series of numbers, such as all of the multiples of seven--one through twelve--then \"ask Times Tutor to practice seven\". You can also change the maximum by asking times tutor to \"practice seven up to twenty\". Or, for all numbers lower than twenty, ask Times Tutor to \"practice up to twenty\".",
+      "enablement": null,
+      "exampleInteractions": [
+        "Alexa, ask Times Tutor to practice nine",
+        "Alexa, ask Times Tutor to practice up to twenty",
+        "Alexa, ask Times Tutor let's practice nine up to eleven"
+      ],
+      "firstReleaseDate": 1461625714.21,
+      "homepageLinkText": null,
+      "homepageLinkUrl": null,
+      "id": "amzn1.echo-sdk-ams.app.0a3c027d-dfe7-41aa-961e-9517da31e5bc",
+      "imageAltText": "Times Tutor icon",
+      "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01DURZV76/skill_icon",
+      "inAppPurchasingSupported": false,
+      "launchPhrase": "times tutor",
+      "name": "Times Tutor",
+      "numberOfReviews": 0,
+      "pamsPartnerId": null,
+      "permissions": null,
+      "privacyPolicyUrl": null,
+      "shortDescription": "Practice your multiplication with the Times Tutor!",
+      "skillTypes": null,
+      "stage": "live",
+      "termsOfUseUrl": null,
+      "vendorId": "M15AS442VGSSY1",
+      "vendorName": "Trimbo Ltd."
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -22259,7 +22331,7 @@
         "d1a3f4spazzrp4.cloudfront.net"
       ],
       "asin": "B01AYJQ9QK",
-      "averageRating": 2.7,
+      "averageRating": 2.6,
       "canDisable": true,
       "capabilities": null,
       "category": "Travel",
@@ -22279,7 +22351,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "uber",
       "name": "Uber",
-      "numberOfReviews": 33,
+      "numberOfReviews": 35,
       "pamsPartnerId": "RKFYaRwbXsZIMeVkCxw33HXWI",
       "permissions": [
         "ACCESS_DEVICE_ADDRESS"

@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "flowers-staging.rain.agency",
+    "www.google-analytics.com",
+    "itunes.apple.com"
+  ],
+  "asin": "B01E7TSGIW",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Other",
+  "description": "With a streamlined ordering process, you can quickly send flowers to your loved ones using this 1-800-Flowers skill. Simply connect your 1-800-Flowers account and you can send your contacts beautiful arrangements. You can choose the floral arrangement style, arrangement size, and delivery date. The flowers will be delivered to your contact's address in your 1-800-Flowers account. Your existing payment credentials in your account are used to pay for the delivery, so there is no need to enter additional payment information. It has never been simpler to show those you love that you care.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask 1-800-Flowers to order Becky flowers",
+    "Alexa tell 1-800-Flowers I want to send flowers to Lindsey on May 28th.",
+    "Alexa tell 1-800-Flowers I need a large Mother's Day arrangement for Christine."
+  ],
+  "firstReleaseDate": 1461172168.568,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.6b600e79-2603-40ad-a959-81a74feefd4c",
+  "imageAltText": "1-800-Flowers icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01E7TSGIW/skill_icon",
+  "inAppPurchasingSupported": true,
+  "launchPhrase": "one eight hundred flowers",
+  "name": "1-800-Flowers",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "oX25q6BhkiWAfIyxQ9fxISM9O",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.1800flowers.com/About-Us-Privacy-Policy",
+  "shortDescription": "Quickly order flowers for contacts in your 1-800-Flowers account.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1124AJW6N8RI5",
+  "vendorName": "www.1800flowers.com"
+}

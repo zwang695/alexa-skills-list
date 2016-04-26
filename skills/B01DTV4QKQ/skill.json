@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DTV4QKQ",
-  "averageRating": 4,
+  "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
   "category": "Travel",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "times for marta",
   "name": "Times for MARTA",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
