@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Trivia for "The Simpsons" icon" width="36"> [Trivia for "The Simpsons"](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5770b522-c411-44d8-95a0-4346bce7ddd3)
-![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Trivia for "The Simpsons" skill, try saying...
 

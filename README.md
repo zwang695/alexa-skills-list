@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 706
+**Total Skills Available:** 708
 
 ***
 
@@ -1431,6 +1431,14 @@ The Walking Affirmations Daily Affirmation skill provides a daily uplifting, pos
 *"Alexa, open Daily Bootcamping"*
 
 Get a thought to improve your bootcamp experience.
+
+***
+
+## &nbsp;<img src="skills/B01ED2RZ58/skill_icon" alt="Daily Buzzword icon" width="36"> [Daily Buzzword](skills/B01ED2RZ58)
+
+*Alexa, open daily buzzword.*
+
+Reads the definition of the Merriam-Webster daily Buzzword from their website.
 
 ***
 
@@ -4680,6 +4688,14 @@ Gives Alexa access to over 12,000 cocktail recipes and instructions on how to ma
 *Alexa, open The Bible.*
 
 Listen to Alexa read inspirational scriptures to you from the Bible.
+
+***
+
+## &nbsp;<img src="skills/B01EM86DL0/skill_icon" alt="The Bus Honolulu icon" width="36"> [The Bus Honolulu](skills/B01EM86DL0)
+
+*Alexa, launch The Bus Honolulu*
+
+The Bus Honolulu Arrival interface
 
 ***
 

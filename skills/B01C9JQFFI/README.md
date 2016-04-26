@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="DrinkBoy icon" width="36"> [DrinkBoy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.abbc19ff-8c21-4765-bc2f-82f0f0228d2e)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the DrinkBoy skill, try saying...
 
