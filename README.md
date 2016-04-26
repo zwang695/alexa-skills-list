@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 698
+**Total Skills Available:** 700
 
 ***
 
@@ -1224,6 +1224,14 @@ Get information on your commute. So far supports NYC subway/LIRR/MetroNorth stat
 
 ***
 
+## &nbsp;<img src="skills/B01EQDJZOI/skill_icon" alt="Connecticut Trivia icon" width="36"> [Connecticut Trivia](skills/B01EQDJZOI)
+
+*Alexa Open Connecticut Trivia*
+
+Connecticut Trivia Questions
+
+***
+
 ## &nbsp;<img src="skills/B019WZ4572/skill_icon" alt="Conversation Starter icon" width="36"> [Conversation Starter](skills/B019WZ4572)
 
 *Alexa, open Conversation Starter*
@@ -2345,6 +2353,14 @@ Tell me a dad joke!
 *Alexa, open High Low.*
 
 This is the number guessing game of “higher or lower.” In this game, Alexa chooses a number and you try to guess it or you can play the other way around.
+
+***
+
+## &nbsp;<img src="skills/B01ELE3KZM/skill_icon" alt="Hipster Jokes icon" width="36"> [Hipster Jokes](skills/B01ELE3KZM)
+
+*Alexa, open Hipster Jokes.*
+
+The most hilarious skill you've probably never heard of.
 
 ***
 
