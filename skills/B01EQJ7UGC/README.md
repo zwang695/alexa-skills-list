@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Aether Air Quality Reporter icon" width="36"> [Aether Air Quality Reporter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cf3fe37a-7ba8-4c68-a091-832b8dec0f58)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Aether Air Quality Reporter skill, try saying...
 

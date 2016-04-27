@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="OurGroceries icon" width="36"> [OurGroceries](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6f432311-2f1d-4722-b692-2a9f75108e96)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 14
+![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 15
 
 To use the OurGroceries skill, try saying...
 

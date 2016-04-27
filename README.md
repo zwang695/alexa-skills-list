@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 722
+**Total Skills Available:** 725
 
 ***
 
@@ -1515,6 +1515,14 @@ Board game missing dice?  Random encounter?  Dice Bag will roll for you, complet
 
 ***
 
+## &nbsp;<img src="skills/B01EUNE3W8/skill_icon" alt="DiceBot icon" width="36"> [DiceBot](skills/B01EUNE3W8)
+
+*Alexa, launch DiceBot*
+
+DiceBot is your sleazy friend on the inside. Just say the word, and the dice will be in your favor.
+
+***
+
 ## &nbsp;<img src="skills/B01BOAU93C/skill_icon" alt="Dino Trivia icon" width="36"> [Dino Trivia](skills/B01BOAU93C)
 
 *Alexa, open dino trivia*
@@ -1936,6 +1944,14 @@ Get to know your favorite Hearthstone cards better by having their flavor text r
 *Alexa, Ask Flight Search*
 
 Search DOMESTIC U.S. flights for lowest price, one way or round trip. Say "Ask Flight Search". Top 5 flights sent to your Alexa app.
+
+***
+
+## &nbsp;<img src="skills/B01EQDD7W4/skill_icon" alt="Florida Trivia game icon" width="36"> [Florida Trivia game](skills/B01EQDD7W4)
+
+*Alexa, launch Florida Trivia*
+
+Florida Trivia
 
 ***
 
@@ -2391,9 +2407,9 @@ Get the time until the next bus arrives at a specified bus stop in the Iowa City
 
 ## &nbsp;<img src="skills/B01BMWLJ2W/skill_icon" alt="Hebcal icon" width="36"> [Hebcal](skills/B01BMWLJ2W)
 
-*Alexa, ask Hebcal when is Passover?*
+*Alexa, ask Hebcal for Shabbat times.*
 
-Jewish holidays, Hebrew date converter, Shabbat candle-lighting times, weekly Torah portion, and Omer counter.
+Jewish holidays, Hebrew date converter, Shabbat candle-lighting times, weekly Torah portion, Omer counter, and Daf Yomi.
 
 ***
 
@@ -2772,6 +2788,14 @@ Ask Alexa for fun and interesting facts about the Church of Jesus Christ of Latt
 *Alexa ask league counter*
 
 Need to find out a counter for a Champion? Let us help!
+
+***
+
+## &nbsp;<img src="skills/B01ETU80T4/skill_icon" alt="Learn International Geography icon" width="36"> [Learn International Geography](skills/B01ETU80T4)
+
+*Alexa, open Learn Geography.*
+
+A quick trivia game to help you learn international countries, cities, famous rivers, and more! Useful information for teens and adults.
 
 ***
 

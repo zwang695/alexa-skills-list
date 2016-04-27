@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Lifestyle",
-  "description": "Hebcal will tell you the dates of Jewish holidays, convert dates to the Hebrew calendar, and can tell you about this week's Torah portion. We can help you count the days of the Omer (7 weeks between Pesach and Shavuot).\n\nNEW! Ask Hebcal for Shabbat candle lighting times in the USA by City or ZIP code.\n\nHere are some more examples of what you can say:\n\n- \"Alexa, ask Hebcal for candle lighting times in 02906.\"\n- \"Alexa, ask Hebcal when Shabbat starts in Brooklyn.\"\n- \"Alexa, ask Hebcal when is Chanukah in 2018?\"\n- \"Alexa, ask Hebcal for the weekly Torah portion.\"\n- \"Alexa, ask Hebcal for today's Hebrew date.\"\n- \"Alexa, ask Hebcal for the Omer count.\"\n- \"Alexa, ask Hebcal for Daf Yomi.\"\n- \"Alexa, ask Hebcal to convert October 20th, 1994.\"\n- \"Alexa, ask Hebcal when is Rosh Chodesh?\"\n- \"Alexa, open Hebcal.\"\n\nHebcal is pronounced HEEB-kal, as in HEBrew CALendar.",
+  "description": "Hebcal will tell you the dates of Jewish holidays and Shabbat candle lighting times. Convert dates to the Hebrew calendar, learn about this week's Torah portion, and count the days of the Omer, and study the Daf Yomi.\n\nHere are some more examples of what you can say:\n\n\"Alexa, ask Hebcal for today's Hebrew date.\"\n\"Alexa, ask Hebcal for candle lighting times in 02906.\"\n\"Alexa, ask Hebcal when Shabbat begins in Brooklyn.\"\n\"Alexa, ask Hebcal for the Torah portion.\"\n\"Alexa, ask Hebcal when is Chanukah in 2018?\"\n\"Alexa, ask Hebcal to count the Omer.\"\n\"Alexa, ask Hebcal for Daf Yomi.\"\n\"Alexa, ask Hebcal to convert October 20th.\"\n\"Alexa, ask Hebcal when is Rosh Chodesh?\"\n\"Alexa, open Hebcal.\"\n\nHebcal is pronounced HEEB-kal, as in HEBrew CALendar.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask Hebcal when is Passover?",
-    "Alexa, ask Hebcal to convert November 13th.",
-    "Alexa, ask Hebcal for this week's Torah portion."
+    "Alexa, ask Hebcal for Shabbat times.",
+    "Alexa, ask Hebcal for this week's Torah portion.",
+    "Alexa, ask Hebcal when is Passover."
   ],
   "firstReleaseDate": 1455135218.653,
   "homepageLinkText": null,
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.hebcal.com/home/about/privacy-policy",
-  "shortDescription": "Jewish holidays, Hebrew date converter, Shabbat candle-lighting times, weekly Torah portion, and Omer counter.",
+  "shortDescription": "Jewish holidays, Hebrew date converter, Shabbat candle-lighting times, weekly Torah portion, Omer counter, and Daf Yomi.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,
