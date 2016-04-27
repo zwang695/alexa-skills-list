@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Travel",
-  "description": "This skill returns the next few trains that run from one station to another along the Long Island Railroad.  For example, you can say \"Alexa, ask Choo Choo when is the next train from Penn Station to Mineola?\" and Alexa will return the next trains that depart within the next 2 hours.  Currently direct connections only.",
+  "description": "This skill returns the next few trains that run from one station to another along the Long Island Railroad.  For example, you can say \"Alexa, ask Choo Choo when is the next train from Penn Station to Mineola?\" and Alexa will return the next 3 trains that depart within the next 3 hours.  Now supporting direct station-to-station trips, as well as trips that include a transfer along the way.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask choo choo, when is the next train from Penn Station to Mineola",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "This skill returns the next few trains that run from one station to another along the Long Island Railroad.  Currently direct connections only.",
+  "shortDescription": "This skill returns the next few trains that run from one station to another along the Long Island Railroad.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

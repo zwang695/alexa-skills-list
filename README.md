@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 708
+**Total Skills Available:** 722
 
 ***
 
@@ -167,6 +167,15 @@ The Adventure skill enables you to interact with stories and change their ending
 
 ***
 
+## &nbsp;<img src="skills/B01EQJ7UGC/skill_icon" alt="Aether Air Quality Reporter icon" width="36"> [Aether Air Quality Reporter](skills/B01EQJ7UGC)
+
+*Alexa, ask Aether about Minneapolis.*
+
+Tells you the current air quality in most major U.S. cities.
+Alexa, ask Aeather about Minneapolis.
+
+***
+
 ## &nbsp;<img src="skills/B0189WBV3U/skill_icon" alt="Age Calculator icon" width="36"> [Age Calculator](skills/B0189WBV3U)
 
 *Alexa, ask Age Calculator, how old is someone born on June 12, 2015?*
@@ -300,6 +309,14 @@ Play guess-an-animal game with Alexa. Think of an animal and Alexa will guess it
 *Alexa, ask Animal Sounds what noise a lion says.*
 
 Alexa is learning a few new languages, animal languages that is. Ask Alexa to make the sounds your favorite animal makes.
+
+***
+
+## &nbsp;<img src="skills/B01ET2YNKM/skill_icon" alt="Anime Trivia icon" width="36"> [Anime Trivia](skills/B01ET2YNKM)
+
+*Alexa, launch Anime Trivia*
+
+Anime Trivia is a game for anime fans to test their knowledge of both popular and less known series.
 
 ***
 
@@ -2212,6 +2229,14 @@ Get the latest closing day prices for gold, silver and oil with Gold Bug!
 
 ***
 
+## &nbsp;<img src="skills/B01EJL2DVE/skill_icon" alt="Good Luck Guru icon" width="36"> [Good Luck Guru](skills/B01EJL2DVE)
+
+*Alexa, ask Good Luck Guru*
+
+Good Luck Guru tells about daily horoscope of your choice.
+
+***
+
 ## &nbsp;<img src="skills/B01CGUZNA8/skill_icon" alt="Good Samaritan icon" width="36"> [Good Samaritan](skills/B01CGUZNA8)
 
 *Alexa, open Good Sam*
@@ -2396,6 +2421,14 @@ This is the number guessing game of “higher or lower.” In this game, Alexa c
 
 ***
 
+## &nbsp;<img src="skills/B01EAZN6MO/skill_icon" alt="Hillary's campaign icon" width="36"> [Hillary's campaign](skills/B01EAZN6MO)
+
+*Alexa, ask hillary's campaign for health issues*
+
+Skill for the presidential campaign for Hillary Diane Rodham Clinton. Developed by Menocal Apps
+
+***
+
 ## &nbsp;<img src="skills/B01ELE3KZM/skill_icon" alt="Hipster Jokes icon" width="36"> [Hipster Jokes](skills/B01ELE3KZM)
 
 *Alexa, open Hipster Jokes.*
@@ -2553,6 +2586,14 @@ Is The Lake Full Yet?. Ask Lake Travis if the lake is full yet.
 *Alexa, ask the space station to give me visibility for Gaithersburg Maryland*
 
 Provides sighting information for the next time the International Space Station is visible from certain locations around the world.
+
+***
+
+## &nbsp;<img src="skills/B01DN3K9KQ/skill_icon" alt="Issac for The Division icon" width="36"> [Issac for The Division](skills/B01DN3K9KQ)
+
+*Alexa, ask Issac for the Daily Missions*
+
+Issac provides useful information for The Division video game.
 
 ***
 
@@ -2718,6 +2759,14 @@ Get an inspirational message from the LDS Daily Message Alexa App
 
 ***
 
+## &nbsp;<img src="skills/B01EMPJZE0/skill_icon" alt="LDS Fun Facts icon" width="36"> [LDS Fun Facts](skills/B01EMPJZE0)
+
+*Alexa, ask church facts for a fact*
+
+Ask Alexa for fun and interesting facts about the Church of Jesus Christ of Latter-day Saints (aka LDS or Mormon Church).
+
+***
+
 ## &nbsp;<img src="skills/B01E2CMDVU/skill_icon" alt="LeagueCounter icon" width="36"> [LeagueCounter](skills/B01E2CMDVU)
 
 *Alexa ask league counter*
@@ -2802,7 +2851,7 @@ Learn facts about the great city of London from the London Scholar.
 
 *Alexa, ask choo choo, when is the next train from Penn Station to Mineola*
 
-This skill returns the next few trains that run from one station to another along the Long Island Railroad.  Currently direct connections only.
+This skill returns the next few trains that run from one station to another along the Long Island Railroad.
 
 ***
 
@@ -3256,6 +3305,14 @@ Interact with your connected devices with Muzzley and Echo. Try to say to "Alexa
 
 ***
 
+## &nbsp;<img src="skills/B01EQKULFI/skill_icon" alt="My Biggest Fan icon" width="36"> [My Biggest Fan](skills/B01EQKULFI)
+
+*Alexa, ask My Biggest Fan for a compliment*
+
+I'm your biggest fan. Ask me for a compliment and you'll come to realize how amazing you truly are.
+
+***
+
 ## &nbsp;<img src="skills/B01CH04AGK/skill_icon" alt="My BMI icon" width="36"> [My BMI](skills/B01CH04AGK)
 
 *Alexa, open bmi teller and check my bmi*
@@ -3309,6 +3366,14 @@ A simple scratchpad of things you want to remember, and what day you did them.
 *Alexa open oh wise one*
 
 Find out what your spirit animal is at that time. This will help guide decisions you make for the day and bring a new perspective to life.
+
+***
+
+## &nbsp;<img src="skills/B01EBP9KOQ/skill_icon" alt="My Translator by Vonage icon" width="36"> [My Translator by Vonage](skills/B01EBP9KOQ)
+
+*Alexa, ask My Translator to translate water into Spanish*
+
+Use your Echo to translate words and phrases.
 
 ***
 
@@ -3373,6 +3438,14 @@ What's in a name? Everything! The Name Nerd tells you every name's popularity. E
 *Alexa, Launch Name That Tune*
 
 A fun trivia to name the title of a song based on a given lyric. Alexa, launch Name That Tune.
+
+***
+
+## &nbsp;<img src="skills/B01EKKF81Q/skill_icon" alt="Nanny State icon" width="36"> [Nanny State](skills/B01EKKF81Q)
+
+*Alexa ask nanny state if I can have screentime*
+
+Kids can ask Alexa whether or not they can have screen time instead of pestering a parent.
 
 ***
 
@@ -4571,6 +4644,14 @@ What's going on this weekend? Ask Alexa to find out from StubHub!
 
 ***
 
+## &nbsp;<img src="skills/B01ES5QN76/skill_icon" alt="Super Hero Trivia icon" width="36"> [Super Hero Trivia](skills/B01ES5QN76)
+
+*Alexa, play Super Hero Trivia*
+
+Test your knowledge of comic superheroes!
+
+***
+
 ## &nbsp;<img src="skills/B01DSDXNNQ/skill_icon" alt="Superheroes icon" width="36"> [Superheroes](skills/B01DSDXNNQ)
 
 *Alexa, ask Super Heroes who Spiderman is*
@@ -4696,6 +4777,14 @@ Listen to Alexa read inspirational scriptures to you from the Bible.
 *Alexa, launch The Bus Honolulu*
 
 The Bus Honolulu Arrival interface
+
+***
+
+## &nbsp;<img src="skills/B01ERV4VCU/skill_icon" alt="The Cat Feeder icon" width="36"> [The Cat Feeder](skills/B01ERV4VCU)
+
+*Alexa, ask the cat feeder if we fed her?*
+
+Keep track of the last time you fed your cat.
 
 ***
 
@@ -4921,6 +5010,14 @@ Take on Alexa in a classic game of Tic Tac Toe.
 *Alexa, ask Tide Pooler when is high tide in Seattle*
 
 Use Tide Pooler to get tide information for major coastal cities.
+
+***
+
+## &nbsp;<img src="skills/B01EKOWSV0/skill_icon" alt="Tide Pooler icon" width="36"> [Tide Pooler](skills/B01EKOWSV0)
+
+*Alexa, ask Tide Pooler when is the high tide in Seattle on Saturday*
+
+Returns tide information for a given city or state
 
 ***
 
@@ -5161,6 +5258,14 @@ Trivia for Monopoly
 *Alexa, open NASCAR Trivia*
 
 Test your knowledge of NASCAR's past and present in this multiple-choice trivia game!
+
+***
+
+## &nbsp;<img src="skills/B01EOCTG8Q/skill_icon" alt="Trivia for Taylor Swift icon" width="36"> [Trivia for Taylor Swift](skills/B01EOCTG8Q)
+
+*Alexa, launch trivia for taylor swift*
+
+Trivia for Taylor Swift is a trivia game dedicated to testing how much of a swiftie you really are.
 
 ***
 
@@ -5530,6 +5635,14 @@ Fun Facts about the State of West Virginia
 *Alexa, ask whale trivia for a new game.*
 
 Trivia game about whales
+
+***
+
+## &nbsp;<img src="skills/B01EJ1IL5Q/skill_icon" alt="Wheel of the Year icon" width="36"> [Wheel of the Year](skills/B01EJ1IL5Q)
+
+*Alexa, open Wheel of the Year and ask for information on Samhain.*
+
+The Wheel of the Year is an annual cycle of seasonal festivals, observed by many modern Pagans.
 
 ***
 
