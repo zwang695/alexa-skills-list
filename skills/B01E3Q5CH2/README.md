@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Pocket Assistant icon" width="36"> [Pocket Assistant](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.478dde7e-9ea6-48d8-b202-c84fe11dbbe6)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Pocket Assistant skill, try saying...
 
