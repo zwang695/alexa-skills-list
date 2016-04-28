@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 736
+**Total Skills Available:** 738
 
 ***
 
@@ -461,6 +461,14 @@ Celebrate a goal - or anything else - with a classic audio "GOOOOOL" sound.
 *Alexa, Open Aussie Fact*
 
 Learn about the exciting continent in the south called Australia.
+
+***
+
+## &nbsp;<img src="skills/B01EUC1NGS/skill_icon" alt="Austin Trivia icon" width="36"> [Austin Trivia](skills/B01EUC1NGS)
+
+*Alexa, open Austin Trivia*
+
+Test your Austin, Texas, knowledge with this simple trivia game.
 
 ***
 
@@ -2138,6 +2146,14 @@ Evaluate your level of Frenchness with this très simple trivia quiz. How well d
 *Alexa, open frontend quiz.*
 
 Frontend Quiz is an educational skill for Amazon Echo. It will ask 10 questions about HTML, CSS and Javascript.
+
+***
+
+## &nbsp;<img src="skills/B01ENXQVDE/skill_icon" alt="Fun Sports Facts icon" width="36"> [Fun Sports Facts](skills/B01ENXQVDE)
+
+*Alexa, launch sports facts.*
+
+Get your daily dose of interesting sports trivia from Alexa!
 
 ***
 

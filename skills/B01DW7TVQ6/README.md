@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="InControlHA icon" width="36"> [InControlHA](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.84e55b57-2c47-438d-a4de-9b0a033f7164)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the InControlHA skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Ancient China Facts icon" width="36"> [Ancient China Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.623d49d5-658a-4501-80ac-f6737f373060)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Ancient China Facts skill, try saying...
 
