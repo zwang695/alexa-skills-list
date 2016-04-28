@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 732
+**Total Skills Available:** 736
 
 ***
 
@@ -1209,6 +1209,14 @@ Test your College Basketball knowledge with a series of trivia questions surroun
 
 ***
 
+## &nbsp;<img src="skills/B01ENNBNCI/skill_icon" alt="ColorHex icon" width="36"> [ColorHex](skills/B01ENNBNCI)
+
+*alexa ask colorhex to convert red*
+
+A tool for converting between color names and hex values.
+
+***
+
 ## &nbsp;<img src="skills/B01AKFXFYC/skill_icon" alt="Combat icon" width="36"> [Combat](skills/B01AKFXFYC)
 
 *Alexa, open combat and hit the dragon with my sword*
@@ -1336,6 +1344,14 @@ Couch Potato knows when you should really just stay inside, like, really.
 *Alexa, launch Cove Trivia*
 
 Covisint Trivia is a game that will test your knowledge about the Covisint company.  Good luck.
+
+***
+
+## &nbsp;<img src="skills/B01ECXTBPK/skill_icon" alt="Cow Says Moo icon" width="36"> [Cow Says Moo](skills/B01ECXTBPK)
+
+*Alexa ask Cow Says Moo what does the cow say*
+
+An interactive version of the old classic, Cow Says Moo.  What does the cow say?
 
 ***
 
@@ -1504,6 +1520,14 @@ Selects a new word for every day of the year.
 *Alexa, ask DC Metro for the next train arriving at Columbia Heights*
 
 Gives Washington DC Metro light rail train arrival and departure times, as well as maintenance or incident reports.
+
+***
+
+## &nbsp;<img src="skills/B01DTWAPPA/skill_icon" alt="Deck of Cards icon" width="36"> [Deck of Cards](skills/B01DTWAPPA)
+
+*Alexa, open deck of cards.*
+
+Draw a random card from a standard deck of 52 playing cards.
 
 ***
 
@@ -5747,6 +5771,14 @@ Test your knowledge of the 007 films by matching which actor played bond in each
 *Alexa, ask Baseball Skit for instructions*
 
 Abbott and Costello's classic baseball skit: Who's On First?
+
+***
+
+## &nbsp;<img src="skills/B01E4LSLX8/skill_icon" alt="Wiggly Words icon" width="36"> [Wiggly Words](skills/B01E4LSLX8)
+
+*Alexa, ask Wiggly Words to tell me a funny word*
+
+This skill gives you a random funny word with the definition.
 
 ***
 

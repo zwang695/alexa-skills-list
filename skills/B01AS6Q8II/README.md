@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Skyscanner Flight Search icon" width="36"> [Skyscanner Flight Search](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3275d681-0844-4a3e-9758-64935140e1da)
-![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 8
+![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the Skyscanner Flight Search skill, try saying...
 
