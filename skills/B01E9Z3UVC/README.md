@@ -9,7 +9,11 @@ To use the Opening Bell skill, try saying...
 
 * *Alexa, ask Opening Bell for the price of Microsoft stock.*
 
-Opening Bell allows you to speak a company's natural name to get their stock price and daily change. No more trying to remember a company's ticker symbol or telling Alexa to "stop" during a lengthy response!
+Opening Bell allows you to speak a company's natural name to get their stock price and daily change. You'll get a short, yet informative response without the hassle of trying to remember a company's ticker symbol.
+
+Bring the stock market to your Echo device with Opening Bell!
+
+ --
 
 Opening Bell retrieves stock data from Markit On Demand and is not guaranteed to have real-time stock price information and is therefore only recommended to be used as a general reference and not for making stock trading decisions.
 

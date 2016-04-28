@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 724
+**Total Skills Available:** 732
 
 ***
 
@@ -1137,6 +1137,14 @@ Play through a set of fun and moderately challenging general trivia.
 
 ***
 
+## &nbsp;<img src="skills/B01EM7BIWU/skill_icon" alt="Churchill Quotations icon" width="36"> [Churchill Quotations](skills/B01EM7BIWU)
+
+*Alexa ask Churchill Quotes for his thoughts*
+
+Produces random quotations from Winston Churchill
+
+***
+
 ## &nbsp;<img src="skills/B01EBEMOYK/skill_icon" alt="Circulator icon" width="36"> [Circulator](skills/B01EBEMOYK)
 
 *Alexa ask Circulator when the next bus is arriving on the Purple line at Fort Avenue.*
@@ -1262,6 +1270,14 @@ Get information on your commute. So far supports NYC subway/LIRR/MetroNorth stat
 *Alexa Open Connecticut Trivia*
 
 Connecticut Trivia Questions
+
+***
+
+## &nbsp;<img src="skills/B01DTZ5PSY/skill_icon" alt="Constitutional Law Game icon" width="36"> [Constitutional Law Game](skills/B01DTZ5PSY)
+
+*Alexa, start constitutional law game*
+
+A constitutional law quiz game
 
 ***
 
@@ -1416,6 +1432,14 @@ Keep track of your daily step count and calories burned by accessing your Google
 *Alexa, ask Currency Converter to convert twenty dollars to euros*
 
 Alexa is able to convert 10 kind of currencies from the world and tell you the current currency exchange too. Ask Alexa to convert from one currency to another.
+
+***
+
+## &nbsp;<img src="skills/B01DRLPHQK/skill_icon" alt="Currency Monitor icon" width="36"> [Currency Monitor](skills/B01DRLPHQK)
+
+*Alexa ask currency monitor for dollar rate*
+
+Currency Monitor that provides today's dollar conversion rate to Indian Rupee.
 
 ***
 
@@ -2333,6 +2357,14 @@ Guide for ARK
 
 ***
 
+## &nbsp;<img src="skills/B01E9DQ83G/skill_icon" alt="Guide for the GVSU Technology Showcase icon" width="36"> [Guide for the GVSU Technology Showcase](skills/B01E9DQ83G)
+
+*Alexa, ask GV Tech Showcase to tell me something*
+
+Take a guided tour of the GVSU Technology Showcase or ask for a description of a particular exhibit.
+
+***
+
 ## &nbsp;<img src="skills/B019D5T3O6/skill_icon" alt="Guitar Tuner icon" width="36"> [Guitar Tuner](skills/B019D5T3O6)
 
 *Alexa, ask Guitar Tuner to tune my guitar.*
@@ -2362,6 +2394,14 @@ Stay up to date with the latest stories about technology, business, and entrepre
 *Alexa, start Hacking History*
 
 Hacking History Trivia challenges you with fun and interesting questions about the history of computing and hacking!
+
+***
+
+## &nbsp;<img src="skills/B01EA6WJ2G/skill_icon" alt="Hackster Fan Page Likes Counter icon" width="36"> [Hackster Fan Page Likes Counter](skills/B01EA6WJ2G)
+
+*Alexa, Launch Hackster Likes*
+
+Hackster Fanpage Likes Counter
 
 ***
 
@@ -2434,6 +2474,14 @@ Tell me a dad joke!
 *Alexa, open High Low.*
 
 This is the number guessing game of “higher or lower.” In this game, Alexa chooses a number and you try to guess it or you can play the other way around.
+
+***
+
+## &nbsp;<img src="skills/B01E1N58EE/skill_icon" alt="Hilma Spark icon" width="36"> [Hilma Spark](skills/B01E1N58EE)
+
+*'Alexa, open teacher zero seven'*
+
+This is an app called Teacher Zero Seven. It's a small trivia game that tests your skill about your knowledge of Bulawayo Polytechnic
 
 ***
 
@@ -2570,6 +2618,14 @@ InsultiBot is so tired of talking to you.  All it wants is for you to leave it a
 *Alexa, launch Insults.*
 
 This skill will teach Alexa to hurl terrible insults at you.
+
+***
+
+## &nbsp;<img src="skills/B01EMAVSP4/skill_icon" alt="IntervalTrainer icon" width="36"> [IntervalTrainer](skills/B01EMAVSP4)
+
+*Alexa ask Interval Trainer*
+
+Interval Ear Trainer
 
 ***
 
@@ -3857,6 +3913,14 @@ Tells you what the most recent winning Powerball lottery numbers were.  May not 
 *Alexa open president picker*
 
 If you know someone named Chris on Facebook that's running for president, this skill is for you.
+
+***
+
+## &nbsp;<img src="skills/B01EPQQGSY/skill_icon" alt="Presidential Race 2016 Trivia icon" width="36"> [Presidential Race 2016 Trivia](skills/B01EPQQGSY)
+
+*Alexa, begin presidential trivia*
+
+Learn More About the 2016 Presidential Candidates
 
 ***
 
