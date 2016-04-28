@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 725
+**Total Skills Available:** 724
 
 ***
 
@@ -2434,14 +2434,6 @@ Tell me a dad joke!
 *Alexa, open High Low.*
 
 This is the number guessing game of “higher or lower.” In this game, Alexa chooses a number and you try to guess it or you can play the other way around.
-
-***
-
-## &nbsp;<img src="skills/B01EAZN6MO/skill_icon" alt="Hillary's campaign icon" width="36"> [Hillary's campaign](skills/B01EAZN6MO)
-
-*Alexa, ask hillary's campaign for health issues*
-
-Skill for the presidential campaign for Hillary Diane Rodham Clinton. Developed by Menocal Apps
 
 ***
 
