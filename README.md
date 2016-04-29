@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 753
+**Total Skills Available:** 757
 
 ***
 
@@ -533,6 +533,14 @@ Ask about the popularity of names in the US going back to 1880!
 *Alexa ask baby stats to add poo*
 
 Baby stats is a skill that counts stats for your babies diapers (wet and stool), and meals. You can then ask Alexa to get stats or ask when the last diaper was.
+
+***
+
+## &nbsp;<img src="skills/B01EUB4V54/skill_icon" alt="Baby Trivia icon" width="36"> [Baby Trivia](skills/B01EUB4V54)
+
+*Alexa, start baby trivia*
+
+Baby trivia!
 
 ***
 
@@ -1118,6 +1126,14 @@ Chemistry Genie helps students to revise their knowledge of the elements in the 
 *Alexa, Open chess trivia*
 
 Basic chess trivia, with some current player questions.
+
+***
+
+## &nbsp;<img src="skills/B01EF6VRBU/skill_icon" alt="Chicago Java icon" width="36"> [Chicago Java](skills/B01EF6VRBU)
+
+*Alexa, ask Chicago Java when is my next Meetup.*
+
+Get information about the next Java events in Chicago!
 
 ***
 
@@ -2370,6 +2386,14 @@ A fun and interesting fact skill for learning about fish.
 *Alexa, ask Gold Bug what's the price of (gold/silver/oil)*
 
 Get the latest closing day prices for gold, silver and oil with Gold Bug!
+
+***
+
+## &nbsp;<img src="skills/B01EVTB5PY/skill_icon" alt="Golf Facts icon" width="36"> [Golf Facts](skills/B01EVTB5PY)
+
+*Alexa, Open Golf Fact*
+
+Golf Fact is an Alexa skill about, what else, GOLF!
 
 ***
 
@@ -4201,6 +4225,14 @@ Think you know all there is to know about Apple Inc? Alexa will be the judge tha
 *Alexa, open League Quiz*
 
 Fun fan-made League of Legends Quiz. You will be asked five questions that deal with champion lore, League of Legends Championship Series, and about Riot Games.
+
+***
+
+## &nbsp;<img src="skills/B01ED6V82A/skill_icon" alt="Quiz For Thomas The Tank Engine Fans icon" width="36"> [Quiz For Thomas The Tank Engine Fans](skills/B01ED6V82A)
+
+*Alexa, open Thomas Fan Quiz*
+
+A trivia quiz for Thomas the Tank Engine fans.
 
 ***
 
