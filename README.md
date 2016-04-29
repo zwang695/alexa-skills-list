@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 746
+**Total Skills Available:** 753
 
 ***
 
@@ -42,6 +42,14 @@ Ask Alexa about the average wait time on the CMU 15-122 Office Hours Queue.
 *Alexa, start 21 Dayz*
 
 As the saying goes, it takes at least 21 days to build a habit. Use 21 Dayz to help guide you in your journey to developing new business or personal habits.
+
+***
+
+## &nbsp;<img src="skills/B01DZRLWFQ/skill_icon" alt="30Sec icon" width="36"> [30Sec](skills/B01DZRLWFQ)
+
+*Alexa, ask thirty sec to play Jerry Rice*
+
+ThirtySec provides real voices of people.
 
 ***
 
@@ -504,6 +512,14 @@ Do your kids love to talk like a baby? Baby Lexi will answer any question in bab
 
 ***
 
+## &nbsp;<img src="skills/B01DK0LSUM/skill_icon" alt="Baby Namer icon" width="36"> [Baby Namer](skills/B01DK0LSUM)
+
+*Alexa, ask Baby Namer for a baby name*
+
+Provides random names from a list of over 33,000 names given to children in the United States.
+
+***
+
 ## &nbsp;<img src="skills/B01BO7TMK6/skill_icon" alt="Baby Names icon" width="36"> [Baby Names](skills/B01BO7TMK6)
 
 *Alexa, open Baby Names.*
@@ -573,6 +589,14 @@ Baseball Trivia about the history of baseball in Boston.
 *Alexa, open baseball trivia*
 
 Test your knowledge  of Baseball.
+
+***
+
+## &nbsp;<img src="skills/B01EECXVUA/skill_icon" alt="Basic Fortune Cookie Generator icon" width="36"> [Basic Fortune Cookie Generator](skills/B01EECXVUA)
+
+*Alexa, ask fortune cookie to tell me a quote*
+
+Quote Generator version 0.1
 
 ***
 
@@ -3593,6 +3617,14 @@ MyThoughts brings positive affirmations to your life.  MyThoughts will say a pos
 
 ***
 
+## &nbsp;<img src="skills/B01DX5RWU4/skill_icon" alt="N.Y.C. Status icon" width="36"> [N.Y.C. Status](skills/B01DX5RWU4)
+
+*Alexa, ask N. Y. C. Status if alternate side is in effect.*
+
+NYC Status give info about parking rules, school closings and garbage collection in New York City. Example: 'Alexa, ask NYC Status about parking tomorrow.'
+
+***
+
 ## &nbsp;<img src="skills/B01D1NNBFS/skill_icon" alt="Name Nerd icon" width="36"> [Name Nerd](skills/B01D1NNBFS)
 
 *Alexa, ask Name Nerd about the name Allison*
@@ -3913,6 +3945,14 @@ This skill simply tells the user a random  pickup line. The user can simply ask 
 *Alexa, open the pipe organ game*
 
 A trivia game about the use, the history, the music and the building of pipe organs, the King of Music Instruments.
+
+***
+
+## &nbsp;<img src="skills/B01DOG8U08/skill_icon" alt="Pitch Pipe icon" width="36"> [Pitch Pipe](skills/B01DOG8U08)
+
+*Alexa, ask Pitch Pipe to play C sharp*
+
+Use Pitch Pipe to play any of the thirteen pitches in an octave. Use it as a digital tuner for acapella or to tune an instrument.
 
 ***
 
@@ -5429,6 +5469,14 @@ A challenging Formula 1 trivia game, to test your knowledge of the sport.
 
 ***
 
+## &nbsp;<img src="skills/B01EPG2J44/skill_icon" alt="Trivia for Mobile Suit Gundam (tm) icon" width="36"> [Trivia for Mobile Suit Gundam (tm)](skills/B01EPG2J44)
+
+*Alexa, play Trivia for Gundam*
+
+Test your knowledge of the Gundam universe!
+
+***
+
 ## &nbsp;<img src="skills/B01DR8ZJ34/skill_icon" alt="Trivia for Monopoly icon" width="36"> [Trivia for Monopoly](skills/B01DR8ZJ34)
 
 *Alexa, ask Trivia for Monopoly to give me a fact*
@@ -5546,6 +5594,14 @@ Trivia Talk is a multiple choice trivia game you can play by yourself or with yo
 *Alexa, ask trivia with friends for the free answer*
 
 Get the free answer of the day for America's Pub Quiz trivia.
+
+***
+
+## &nbsp;<img src="skills/B01EVRTUBW/skill_icon" alt="Trivial Trivia Game icon" width="36"> [Trivial Trivia Game](skills/B01EVRTUBW)
+
+*Alexa launch trivial trivia*
+
+Trivial Trivia is a trivia game to test your knowledge of computing history.
 
 ***
 
