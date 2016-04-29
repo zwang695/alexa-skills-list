@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Always Sunny Trivia icon" width="36"> [Always Sunny Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f8afbe93-2921-4a38-b12a-f34d3c0e651f)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
+![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Always Sunny Trivia skill, try saying...
 

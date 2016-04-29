@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 738
+**Total Skills Available:** 746
 
 ***
 
@@ -632,6 +632,14 @@ Think you know beer? Crack open a cold one and test your beer and brewing knowle
 
 ***
 
+## &nbsp;<img src="skills/B01EUH7XIK/skill_icon" alt="Bernie Geek icon" width="36"> [Bernie Geek](skills/B01EUH7XIK)
+
+*Alexa, start bernie geek*
+
+Fun and quick facts about Bernie Sanders
+
+***
+
 ## &nbsp;<img src="skills/B01C9E2H2I/skill_icon" alt="Best Picture Oscars The Last 30 Years icon" width="36"> [Best Picture Oscars The Last 30 Years](skills/B01C9E2H2I)
 
 *Alexa, start Best Picture Oscars.*
@@ -1001,6 +1009,14 @@ This skill gives you fun facts about cats when you ask it!
 
 ***
 
+## &nbsp;<img src="skills/B01EL5O3SE/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01EL5O3SE)
+
+*Alexa, ask Cat Fact to tell me a cat fact*
+
+True facts about cats.
+
+***
+
 ## &nbsp;<img src="skills/B01DBH0L3Y/skill_icon" alt="Cat Genius icon" width="36"> [Cat Genius](skills/B01DBH0L3Y)
 
 *Alexa, open Cat Genius!*
@@ -1118,6 +1134,14 @@ Chili Pepper Nut is fun trivia about chili peppers.
 *Alexa, ask Chimani what are the ranger events today.*
 
 This skill allows Alexa to tell you the ranger events happening the Chimani parks on a given date.
+
+***
+
+## &nbsp;<img src="skills/B01EIWXRXM/skill_icon" alt="Chocolate Trivia icon" width="36"> [Chocolate Trivia](skills/B01EIWXRXM)
+
+*Alexa, launch chocolate trivia*
+
+A fun trivia to test your knowledge in chocolate.
 
 ***
 
@@ -1531,6 +1555,14 @@ Gives Washington DC Metro light rail train arrival and departure times, as well 
 
 ***
 
+## &nbsp;<img src="skills/B01EQSP3GM/skill_icon" alt="Death Info for Westeros icon" width="36"> [Death Info for Westeros](skills/B01EQSP3GM)
+
+*Alexa, ask Westeros if Eddard Stark is dead*
+
+Check if a character is still alive in the book series A Song of Ice and Fire
+
+***
+
 ## &nbsp;<img src="skills/B01DTWAPPA/skill_icon" alt="Deck of Cards icon" width="36"> [Deck of Cards](skills/B01DTWAPPA)
 
 *Alexa, open deck of cards.*
@@ -1856,6 +1888,14 @@ Listen to Alexa speak famous quotes of utter despair. And then cry along with he
 *Alexa, tell Expense Tracker that I paid 10 dollars for food.*
 
 Expense Tracker can help you keep track of your costs. Just add all your spendings to certain categories and ask Expense Tracker to create your report.
+
+***
+
+## &nbsp;<img src="skills/B01EVUKLBM/skill_icon" alt="Facts about Donald icon" width="36"> [Facts about Donald](skills/B01EVUKLBM)
+
+*Alexa play facts about donald*
+
+Donald Trivia Game
 
 ***
 
@@ -2557,6 +2597,14 @@ Are you a horror movie fan?  Test your knowledge of horror movie taglines.
 
 ***
 
+## &nbsp;<img src="skills/B01EUIQR90/skill_icon" alt="Horror Trivia icon" width="36"> [Horror Trivia](skills/B01EUIQR90)
+
+*Alexa, open Horror Trivia*
+
+Tells you interesting horror movie trivia.
+
+***
+
 ## &nbsp;<img src="skills/B01ATZM6N4/skill_icon" alt="House Band icon" width="36"> [House Band](skills/B01ATZM6N4)
 
 *"Alexa, launch house band."*
@@ -3037,6 +3085,14 @@ Wake up every morning and find out who the fairest one in all the land is! Simpl
 
 Manoramaonline provides you the latest news from Kerala and India along with entertainment and informative content.
 Alexa, ask manorama for the latest news
+
+***
+
+## &nbsp;<img src="skills/B01EI88ULK/skill_icon" alt="Manly Quotes icon" width="36"> [Manly Quotes](skills/B01EI88ULK)
+
+*Alexa, ask Manly Quotes for a quote.*
+
+Hear a random, manly quote!
 
 ***
 
@@ -4809,6 +4865,14 @@ Do you think you've mastered the Swamp audio game? Test your knowledge of all th
 *Alexa, ask Safety Swede to tell me a Sweden fact*
 
 Learn quick facts about Sweden.
+
+***
+
+## &nbsp;<img src="skills/B01E62RRTE/skill_icon" alt="Syfy icon" width="36"> [Syfy](skills/B01E62RRTE)
+
+*Alexa, start Syfy.*
+
+Syfy lets you connect to your favorite Syfy shows with the power of your voice. Get recaps, previews, and schedule information. What happens next on 12 Monkeys?
 
 ***
 
