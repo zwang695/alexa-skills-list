@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Hipster Jokes icon" width="36"> [Hipster Jokes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c3ec6c23-b9d7-4190-b7d0-d58cf372366b)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Hipster Jokes skill, try saying...
 

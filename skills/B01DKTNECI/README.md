@@ -3,13 +3,15 @@
 
 To use the NBA stats by iknow.io skill, try saying...
 
-* *Alexa, ask I Know NBA for Kevin Durant stats*
+* *Alexa, ask I Know NBA for the Cavs stats in the last 5 games*
 
-* *Ask I Know NBA for the three points percent of Stephen Curry in his last ten games*
+* *Three points percent of Stephen Curry in his last ten games*
 
-* *Ask I Know NBA for rebounds of Lebron James on march fourth*
+* *Rebounds of Lebron James on march fourth*
 
-Alexa just became an NBA superfan! You can ask her for the statistics of any active NBA player. You can get the averages throughout the season, statistics for a specific game, or the last X games.
+Alexa just became an NBA superfan! You can ask her for the statistics of any active NBA player or team. You can get the averages throughout the season, statistics for a specific game, or the last X games.
+
+This skill supports continuous stats and filters. You can just ask Alexa to "open I know NBA", and just state player name, team name or filter (e.g., last 5 games, offensive rebounds) to change your query each time.
 
 ***
 

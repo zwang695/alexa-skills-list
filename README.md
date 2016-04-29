@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 757
+**Total Skills Available:** 761
 
 ***
 
@@ -2349,6 +2349,14 @@ The world class Giant Spoon app allows you to ask for world class marketing idea
 
 ***
 
+## &nbsp;<img src="skills/B01EQIE8KY/skill_icon" alt="Gipper Games icon" width="36"> [Gipper Games](skills/B01EQIE8KY)
+
+*Alexa, launch Gipper Game*
+
+Ronald Reagan Trivia Game
+
+***
+
 ## &nbsp;<img src="skills/B018YKD1T4/skill_icon" alt="GLaDOS Quotes icon" width="36"> [GLaDOS Quotes](skills/B018YKD1T4)
 
 *Alexa, ask Glados to tell me something*
@@ -2538,6 +2546,14 @@ Hackster Fanpage Likes Counter
 *Alexa, ask Haiku for a poem.*
 
 Haiku poem generator.
+
+***
+
+## &nbsp;<img src="skills/B01ED658W6/skill_icon" alt="Hangman icon" width="36"> [Hangman](skills/B01ED658W6)
+
+*Alexa, Open Hangman*
+
+The classic game gone hands-free and paperless.  With over 60,000 words to choose from, Alexa will do her best to stump you.
 
 ***
 
@@ -3675,7 +3691,7 @@ Kids can ask Alexa whether or not they can have screen time instead of pestering
 
 ## &nbsp;<img src="skills/B01DKTNECI/skill_icon" alt="NBA stats by iknow.io icon" width="36"> [NBA stats by iknow.io](skills/B01DKTNECI)
 
-*Alexa, ask I Know NBA for Kevin Durant stats*
+*Alexa, ask I Know NBA for the Cavs stats in the last 5 games*
 
 NBA statistics, powered by iknow.io
 
@@ -3702,6 +3718,14 @@ Test your video game knowledge with this fun video game quiz!
 *Alexa, ask nerdy valentine for a pickup line.*
 
 This skill gives a nerdy pickup line when asked.
+
+***
+
+## &nbsp;<img src="skills/B01EVI7LWQ/skill_icon" alt="New York Running Calendar icon" width="36"> [New York Running Calendar](skills/B01EVI7LWQ)
+
+*Alexa, ask New York Running Calendar: When is the next race?*
+
+The New York Running Calendar app helps you find the next organized running race in New York City.
 
 ***
 
@@ -4753,6 +4777,14 @@ Can’t get enough pink piggy deliciousness in your life? The SPAMMY skill will 
 *Alexa, Launch Spanish*
 
 Top 20 Spanish Words: Game to teach you twenty of most popular Spanish words.
+
+***
+
+## &nbsp;<img src="skills/B01ES1KWX6/skill_icon" alt="Spell Book for Dungeons and Dragons icon" width="36"> [Spell Book for Dungeons and Dragons](skills/B01ES1KWX6)
+
+*Alexa, ask Spell Book to lookup Fire Bolt*
+
+Lookup spells from Dungeons and Dragons
 
 ***
 

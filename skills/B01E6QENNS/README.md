@@ -19,6 +19,6 @@ This skill gives you a quote by Steve Jobs.  This skill is a tribute to Steve Jo
 * **Category:** Entertainment
 * **ID:** amzn1.echo-sdk-ams.app.e5319c52-e413-497b-b6e1-737c8c161376
 * **ASIN:** B01E6QENNS
-* **Author:** Developer
+* **Author:** Brian Tsai
 * **Release Date:** April 22, 2016 @ 06:08:28
 * **In-App Purchasing:** No
