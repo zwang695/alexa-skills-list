@@ -3,21 +3,39 @@
 
 To use the Chicago Trains skill, try saying...
 
-* *Alexa ask Chicago Trains when is the next train from Crystal Lake to Chicago OTC*
+* *Alexa ask Chicago Trains when is the next train from Crystal Lake to Downtown*
 
-* *Alexa ask Chicago Trains when the next train from Glencoe gets to Ravenswood*
+* *Alexa ask Chicago Trains for the next train from Chicago to Naperville express only*
 
 * *Alexa ask Chicago Trains for the train schedule for Joliet to New Lenox*
 
 Never miss your train again.
 
-Chicago Trains lets you find the next train leaving a particular station that stops at your desired destination.  It will also let you hear the train schedule for the rest of the day for a particular starting station and destination station.
+Chicago Trains lets you find the next train leaving a particular station that stops at your desired destination.  It will also let you hear the train schedule for the rest of the day for a particular starting station and destination station.    For example, 
 
-For example, ask Chicago Trains when is the next train from Crystal Lake to Chicago OTC
+Next Train:
+Alexa, ask Chicago Trains when is the next train from Crystal Lake to Downtown
 
-or
+Train Schedule:
+Alex, ask Chicago Trains for the train schedule from Naperville to Union Station
 
-ask Chicago Trains for the train schedule for Crystal Lake to Chicago OTC
+Express Train:
+Alexa, ask Chicago Trains for the next train from Downtown to Northbrook express only
+
+New Version:
+* added express train.  Add the phrase 'express only' when asking for the next train.  This will provide the next train that is in the fastest 20% of the remaining days schedule.
+* the issue described by the 1 star review has been addressed.
+** The Chicago stations can be referenced as:
+Chicago
+Downtown
+Chicago Union Station
+Union Station
+Union
+Chicago OTC
+Olgilvie
+The skill will figure out which one is right.
+
+If you find an issue, before leaving a bad review, or if you have a suggestion on how to improve the skill, please send me a note to alexachicagotrains@gmail.com.
 
 ***
 

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B0192NS6VU",
-  "averageRating": 2.8,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Productivity",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "mojio",
   "name": "Mojio",
-  "numberOfReviews": 6,
+  "numberOfReviews": 7,
   "pamsPartnerId": "qAK13LQjmXiDlFy6uf5aVglDP",
   "permissions": null,
   "privacyPolicyUrl": "http://moj.io/privacy",

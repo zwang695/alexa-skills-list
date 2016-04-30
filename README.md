@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 761
+**Total Skills Available:** 762
 
 ***
 
@@ -1139,7 +1139,7 @@ Get information about the next Java events in Chicago!
 
 ## &nbsp;<img src="skills/B01DLD360I/skill_icon" alt="Chicago Trains icon" width="36"> [Chicago Trains](skills/B01DLD360I)
 
-*Alexa ask Chicago Trains when is the next train from Crystal Lake to Chicago OTC*
+*Alexa ask Chicago Trains when is the next train from Crystal Lake to Downtown*
 
 Find out when the next Chicago Metra train is about to leave or what todays schedule is for a particular train route.
 
@@ -4425,6 +4425,14 @@ Don't know where to go for dinner tonight? Let Alexa help by providing local, hi
 *Alexa, ask RhymeZone what rhymes with banana?*
 
 Find rhymes, synonyms, related words, and adjectives for any word, and get help with crossword puzzle clues.
+
+***
+
+## &nbsp;<img src="skills/B01EW9VZBC/skill_icon" alt="Richmond Trivia Game icon" width="36"> [Richmond Trivia Game](skills/B01EW9VZBC)
+
+*Alexa, launch Richmond Game*
+
+A fun trivia game focused Richmond, Virginia in the US.
 
 ***
 

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019D6LR8U",
-  "averageRating": 3.3,
+  "averageRating": 3.4,
   "canDisable": true,
   "capabilities": null,
   "category": "Food/Cooking",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the bartender",
   "name": "The Bartender",
-  "numberOfReviews": 24,
+  "numberOfReviews": 25,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
