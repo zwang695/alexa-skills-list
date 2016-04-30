@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Nerd Quiz icon" width="36"> [Nerd Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.39dde298-0ae6-4ec1-9526-47450c2d9220)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Nerd Quiz skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Issac for The Division icon" width="36"> [Issac for The Division](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.033d18de-33cd-4478-ae35-98fddfda4510)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Issac for The Division skill, try saying...
 
