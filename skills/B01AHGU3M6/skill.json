@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01AHGU3M6",
-  "averageRating": 2.2,
+  "averageRating": 2.3,
   "canDisable": true,
   "capabilities": null,
   "category": "Education",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "animal sounds",
   "name": "Animal Sounds",
-  "numberOfReviews": 18,
+  "numberOfReviews": 19,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
