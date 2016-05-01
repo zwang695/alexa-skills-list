@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Zodiac icon" width="36"> [Zodiac](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b7dc876f-93cd-4c8d-8369-89078546d708)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Zodiac skill, try saying...
 
