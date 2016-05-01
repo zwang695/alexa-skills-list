@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="LIFX icon" width="36"> [LIFX](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.33ffca3b-1148-43e9-bfec-da056cb0f0d2)
-![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 54
+![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 55
 
 To use the LIFX skill, try saying...
 
