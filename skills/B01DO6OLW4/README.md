@@ -11,7 +11,7 @@ To use the SMS With Molly skill, try saying...
 
 Text your friends and family members with your voice from your couch.
 
-1) Register on https://smswithmolly.com
+1) Enable the skill & register on https://smswithmolly.com
 
 2) Add your favorite contacts
 
@@ -19,12 +19,6 @@ Text your friends and family members with your voice from your couch.
 
 SMS With Molly will recognize US first names from your contact list and send them your message.
 
-SMS With Molly works better with texts of 5 words or less.
-
-Here are some example of what you can send:
-I'm back - Love you - How are you - I'll be late - Good night 
-
-Discover a full list of the messages you can send on https://smswithmolly.com/help
 If your message hasn't be heard by Echo, please shoot an email at molly@smswithmolly.com so that we can improve the skill.
 
 You can send 30 messages per month for free using SMS With Molly.
