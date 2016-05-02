@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 762
+**Total Skills Available:** 767
 
 ***
 
@@ -2059,6 +2059,14 @@ Keep up with your fitness goals by checking Fitbit with Alexa. Stay in touch wit
 
 ***
 
+## &nbsp;<img src="skills/B01ERC58NA/skill_icon" alt="FitnessLogger icon" width="36"> [FitnessLogger](skills/B01ERC58NA)
+
+*Alexa, ask Fitness Logger to add ten pull downs with twenty pounds*
+
+FitnessLogger is an Alexa skill to keep track of your daily exercises. You can store your daily workouts by saying, "Twenty Pull Downs with fifty pounds.
+
+***
+
 ## &nbsp;<img src="skills/B01BW5JI0O/skill_icon" alt="Five Card Draw icon" width="36"> [Five Card Draw](skills/B01BW5JI0O)
 
 *Alexa, start Five Card Draw*
@@ -2709,6 +2717,14 @@ Hear your Echo list off little-known facts about Hunter Pence
 
 ***
 
+## &nbsp;<img src="skills/B01EFCJ0OU/skill_icon" alt="Hurricane Center icon" width="36"> [Hurricane Center](skills/B01EFCJ0OU)
+
+*Alexa, open/play Hurricane Center*
+
+Current and historical information about Tropical Storms and Hurricanes.
+
+***
+
 ## &nbsp;<img src="skills/B019YPG1AO/skill_icon" alt="Impossibly Hard Major League Baseball Quiz icon" width="36"> [Impossibly Hard Major League Baseball Quiz](skills/B019YPG1AO)
 
 *Alexa, launch Impossible Baseball Quiz*
@@ -3015,6 +3031,14 @@ Let's Multiply is a skill that quizzes you on your multiplication table.  You ca
 
 ***
 
+## &nbsp;<img src="skills/B01EMTFKEU/skill_icon" alt="letters to word icon" width="36"> [letters to word](skills/B01EMTFKEU)
+
+*Alexa, start Letters to Word*
+
+It's your turn to be a cheerleader.  Tell Alexa what letters to say and when you are done spelling out a word, she will say what you spelled!
+
+***
+
 ## &nbsp;<img src="skills/B01E3B7OQE/skill_icon" alt="LGBT Trivia icon" width="36"> [LGBT Trivia](skills/B01E3B7OQE)
 
 *Alexa, start LGBT trivia*
@@ -3052,6 +3076,14 @@ Learn interesting facts about languages from around the world!
 *Alexa, ask Lit Report what is the top story today?*
 
 Littera Report hosts the best independent journalism in the world!
+
+***
+
+## &nbsp;<img src="skills/B01EWECCWS/skill_icon" alt="Livy icon" width="36"> [Livy](skills/B01EWECCWS)
+
+*Alexa, ask Livy what happened today in history*
+
+Learn what happened today in history, including major events and notable birthdays.
 
 ***
 
@@ -4905,6 +4937,14 @@ Real-time stock quotes from NASDAQ and NYSE, market summaries from S&P 500, DJIA
 *Alexa, ask Stock Market Sensei how does AMZN look today.*
 
 Stock Market Sensei,the #1 Stock Trading & Investment Finance Prediction Platform. Get current stock prices and likely low,high,opening & closing prices - daily
+
+***
+
+## &nbsp;<img src="skills/B01DYSEKSC/skill_icon" alt="Stock Quote icon" width="36"> [Stock Quote](skills/B01DYSEKSC)
+
+*Alexa, ask Stock Quote to get quote for MSFT*
+
+Have Alexa fetch stock quotes for you....
 
 ***
 
