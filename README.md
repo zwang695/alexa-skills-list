@@ -5415,7 +5415,7 @@ Today in History
 
 ## &nbsp;<img src="skills/B01DL5E2PE/skill_icon" alt="Today In History icon" width="36"> [Today In History](skills/B01DL5E2PE)
 
-*Alexa, ask today in history what happened on this date in history.*
+*Alexa, ask Today In History what happened on this date in history.*
 
 Curious about historical events that happened today?
 

@@ -3,11 +3,11 @@
 
 To use the Today In History skill, try saying...
 
-* *Alexa, ask today in history what happened on this date in history.*
+* *Alexa, ask Today In History what happened on this date in history.*
 
-* *What happened on this date in history?*
+* *Alexa, ask Today In History what happened on this date*
 
-* *Tell me something that happened on this day in history.*
+* *Alexa, ask Today In History to generate a fact*
 
 Use This Day In History to ask what happened today in history to get a brief description about a historical event that occurred on today's date.
 
