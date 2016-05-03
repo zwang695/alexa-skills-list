@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 768
+**Total Skills Available:** 769
 
 ***
 
@@ -2346,6 +2346,14 @@ Geography Trivia is a challenging quiz game in which you have to prove your know
 *Alexa, launch Georgia Trivia*
 
 Learn more about Georgia by playing this trivia game.
+
+***
+
+## &nbsp;<img src="skills/B01EYBJ19Q/skill_icon" alt="Ghost Detector icon" width="36"> [Ghost Detector](skills/B01EYBJ19Q)
+
+*Alexa, launch Ghost Detector*
+
+Detect and capture astral beings with the power of Ghost Detector!
 
 ***
 

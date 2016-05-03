@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Hangman icon" width="36"> [Hangman](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9fa9f794-7477-4f10-b1fa-f0fb62fa31bb)
-![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Hangman skill, try saying...
 

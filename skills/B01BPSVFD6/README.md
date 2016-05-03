@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Gold Bug icon" width="36"> [Gold Bug](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.91bb0483-247c-4317-92bf-30b86bbb9099)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Gold Bug skill, try saying...
 
