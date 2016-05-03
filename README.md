@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 769
+**Total Skills Available:** 770
 
 ***
 
@@ -197,6 +197,14 @@ The Age Calculator helps calculate age between a given date and now.
 *Alexa, ask Agog Reader for Barack Obama.*
 
 Listen to Tweets
+
+***
+
+## &nbsp;<img src="skills/B01EEHSP0Q/skill_icon" alt="Air Quality icon" width="36"> [Air Quality](skills/B01EEHSP0Q)
+
+*Alexa, ask air quality to get me the report for 07753*
+
+This skill reports the air quality index for US zip codes
 
 ***
 
