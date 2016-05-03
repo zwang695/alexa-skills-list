@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="KidsMD icon" width="36"> [KidsMD](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3f5f7bd8-5b9d-40e7-8463-eef44329e29d)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 8
+![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the KidsMD skill, try saying...
 

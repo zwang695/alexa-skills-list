@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 770
+**Total Skills Available:** 776
 
 ***
 
@@ -589,6 +589,14 @@ BART Times provides the times of the next trains between your home and destinati
 *Alexa, ask Baseball Archive about Willie Mays*
 
 Get information and statistics for any player in the history of Major League Baseball. A sample request: "ask Baseball Archive about Willie Mays."
+
+***
+
+## &nbsp;<img src="skills/B01EYXQRI2/skill_icon" alt="Baseball Facts icon" width="36"> [Baseball Facts](skills/B01EYXQRI2)
+
+*Alexa, ask Baseball Nerd for a fact*
+
+Baseball Facts is a simple skill to generate baseball facts.
 
 ***
 
@@ -1443,6 +1451,14 @@ Can't remember exactly how to craft an enchantment table or a dropper in Minecra
 
 ***
 
+## &nbsp;<img src="skills/B01EP953VM/skill_icon" alt="Creative Strategies icon" width="36"> [Creative Strategies](skills/B01EP953VM)
+
+*Alexa, ask creative strategies for an idea*
+
+Retrieves a phrase or cryptic remark which can be used as a catalyst to generate ideas,  to solve a creative block, or to approach an issue fr
+
+***
+
 ## &nbsp;<img src="skills/B01DRWRFLO/skill_icon" alt="Cricket Fact Skill icon" width="36"> [Cricket Fact Skill](skills/B01DRWRFLO)
 
 *Alexa Open Cricket Geek*
@@ -1664,6 +1680,14 @@ DiceBot is your sleazy friend on the inside. Just say the word, and the dice wil
 *Alexa, open dino trivia*
 
 A humorous dinosaur trivia game.   Echo asks questions and you answer by choosing 1,2,3,4.  Dinosaur questions include real and silly answers.
+
+***
+
+## &nbsp;<img src="skills/B01DQ3GEFW/skill_icon" alt="Dinosaur Facts icon" width="36"> [Dinosaur Facts](skills/B01DQ3GEFW)
+
+*Alexa, ask Dinosaur Facts to give me a dinosaur fact*
+
+Super Dino Facts is your source for awesome and random dinosaur information.
 
 ***
 
@@ -2629,6 +2653,14 @@ Complete breakfast and lunch menus for Henrico County Public Schools.
 
 ***
 
+## &nbsp;<img src="skills/B01EXOD1X6/skill_icon" alt="Hero Trivia icon" width="36"> [Hero Trivia](skills/B01EXOD1X6)
+
+*Alexa open Hero Trivia*
+
+Hero Trivia is a game designed to increase your super hero knowledge because knowledge is power!
+
+***
+
 ## &nbsp;<img src="skills/B01BUB8OSM/skill_icon" alt="Hey Dad - Dad Jokes icon" width="36"> [Hey Dad - Dad Jokes](skills/B01BUB8OSM)
 
 *Alexa, open Hey Dad and tell me a joke*
@@ -3349,6 +3381,14 @@ Put your powers of recollection to the test with Memory Master!
 *alexa, start challenge memory*
 
 Come and check how good your memory is!
+
+***
+
+## &nbsp;<img src="skills/B01EYWNYLG/skill_icon" alt="Mental Math icon" width="36"> [Mental Math](skills/B01EYWNYLG)
+
+*Alexa, start Mental Math*
+
+Test your mental math
 
 ***
 
@@ -5346,6 +5386,14 @@ Let Alexa control your Nest Learning Thermostat
 *Alexa open Thirteen*
 
 Thirteen is a fun number game where Alexa and you need to form number 13.
+
+***
+
+## &nbsp;<img src="skills/B01EXUGAME/skill_icon" alt="This Day in History icon" width="36"> [This Day in History](skills/B01EXUGAME)
+
+*Alexa ask This Day In History*
+
+This Day in History tells you events that happened today -or any day- in the past.
 
 ***
 
