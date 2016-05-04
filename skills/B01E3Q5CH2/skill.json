@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Communications",
-  "description": "A user of the pocket app can fire up this skill by saying 'have pocket fix my computer'\nUser:  \"Alexa, ask Pocket Helper to have pocket fix my computer\"\nAlexa: \"Please provide your mobile number, excluding the area code.\"\nUser:  \"My mobile number is xxxxxxx\"\nAlexa: \"Your mobile number is xxxxxxxxxx.  Please provide us your area code also.\"\nUser: \"My area code is xxx\"\nAlexa: \"Your mobile number with area code is xxxxxxxxxxxxx.  We have sent the email to our representative. Someone will contact you soon. Thank you.'",
+  "description": "A user of the pocket app can fire up this skill by saying 'have pocket fix my computer'\nUser:  \"Alexa, ask Pocket Helper to have pocket fix my computer\"\nAlexa: \"Someone from Digital Pocket will call you , please provide your ten digit mobile number.\"\nUser:  \"My mobile number is xxxxxxxxxx\"\nAlexa: \"Your mobile number is xxxxxxxxxx.  Please provide us your  name also.\"\nUser: \"My name is XYZ\"\nAlexa: \"XYZ, your mobile number is xxxxxxxx.  We have sent the email to our representative. Someone will contact you soon. Thank you.'",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Pocket Helper to have pocket fix my computer",
     "My mobile number is xxxxxxxxxx",
-    "My area code is xxx"
+    "My name is XYZ"
   ],
   "firstReleaseDate": 1461607712.897,
   "homepageLinkText": null,

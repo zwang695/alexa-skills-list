@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 788
+**Total Skills Available:** 790
 
 ***
 
@@ -237,6 +237,14 @@ Control your Alarm.com system with your voice.
 *Alexa, ask the 8 ball whether the Cubs will ever win the World Series*
 
 The All Knowing 8 Ball can answer life's vexing questions for you, without all that shaking and blue dye getting everywhere.
+
+***
+
+## &nbsp;<img src="skills/B01BLPITFK/skill_icon" alt="Almond - Router and Home Automation icon" width="36"> [Almond - Router and Home Automation](skills/B01BLPITFK)
+
+*Alexa, start Almond and Activate Dinner Scene*
+
+Almond and Alexa work together to make your home smarter and secure. Just ask Alexa to activate a scene or mode on your Almond.
 
 ***
 
@@ -5009,6 +5017,14 @@ This skill links up with your google fit account and then you can play all your 
 *Alexa, open Starlanes*
 
 The Echo's first and best MMORPG. Join a faction and compete with other players to keep your faction on the top.
+
+***
+
+## &nbsp;<img src="skills/B01DKTI612/skill_icon" alt="StartupInfo icon" width="36"> [StartupInfo](skills/B01DKTI612)
+
+*Alexa, ask Startup Info about Slack*
+
+Find information about companies and startups
 
 ***
 

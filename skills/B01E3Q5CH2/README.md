@@ -7,15 +7,15 @@ To use the Pocket Assistant skill, try saying...
 
 * *My mobile number is xxxxxxxxxx*
 
-* *My area code is xxx*
+* *My name is XYZ*
 
 A user of the pocket app can fire up this skill by saying 'have pocket fix my computer'
 User:  "Alexa, ask Pocket Helper to have pocket fix my computer"
-Alexa: "Please provide your mobile number, excluding the area code."
-User:  "My mobile number is xxxxxxx"
-Alexa: "Your mobile number is xxxxxxxxxx.  Please provide us your area code also."
-User: "My area code is xxx"
-Alexa: "Your mobile number with area code is xxxxxxxxxxxxx.  We have sent the email to our representative. Someone will contact you soon. Thank you.'
+Alexa: "Someone from Digital Pocket will call you , please provide your ten digit mobile number."
+User:  "My mobile number is xxxxxxxxxx"
+Alexa: "Your mobile number is xxxxxxxxxx.  Please provide us your  name also."
+User: "My name is XYZ"
+Alexa: "XYZ, your mobile number is xxxxxxxx.  We have sent the email to our representative. Someone will contact you soon. Thank you.'
 
 ***
 

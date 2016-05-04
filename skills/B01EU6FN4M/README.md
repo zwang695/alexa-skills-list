@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Push Up Century Club icon" width="36"> [Push Up Century Club](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.01b4f980-d02a-499d-a907-6596c7c76921)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Push Up Century Club skill, try saying...
 
