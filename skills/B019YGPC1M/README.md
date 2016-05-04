@@ -21,6 +21,6 @@ Resistor Decoder supports 3-, 4-, and 5-band resistors.  It also warns you if a 
 * **Category:** Utilities
 * **ID:** amzn1.echo-sdk-ams.app.d72c6461-71be-468a-8bbe-d238aec9d240
 * **ASIN:** B019YGPC1M
-* **Author:** Thomp
+* **Author:** Thomptronics
 * **Release Date:** December 29, 2015 @ 13:18:48
 * **In-App Purchasing:** No

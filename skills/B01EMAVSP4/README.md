@@ -3,13 +3,13 @@
 
 To use the IntervalTrainer skill, try saying...
 
-* *Alexa ask Interval Trainer*
-
 * *Alexa ask Interval Trainer to give me an interval*
 
-* *Alexa ask Interval Trainer for an interval*
+* *Alexa ask Interval Trainer for a descending interval*
 
-Ear training within the octave with correct answer feedback and score keeper. Practice ascending ear training while you have a few minutes simply by asking "giving me an interval", after that, Alexa will keep score for you. Be sure to use the correct music interval terms: unison, minor second, major second, minor third, major third, perfect fourth, perfect fifth, minor sixth, major sixth, minor seventh, major seventh, and octave.
+* *Alexa ask Interval Trainer*
+
+Ear training within the octave with correct answer feedback and score keeper. Practice ascending and descending interval ear training while you have a few minutes simply by asking "giving me an interval", after that, Alexa will keep score for you. Be sure to use the correct music interval terms: unison, minor second, major second, minor third, major third, perfect fourth, perfect fifth, minor sixth, major sixth, minor seventh, major seventh, and octave. To switch interval directions, simply say "switch interval direction to (direction)."
 
 ***
 

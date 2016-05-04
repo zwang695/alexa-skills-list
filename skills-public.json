@@ -2138,7 +2138,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "baby animals",
       "name": "Baby Animals",
-      "numberOfReviews": 1,
+      "numberOfReviews": 2,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -12054,12 +12054,12 @@
       "canDisable": true,
       "capabilities": null,
       "category": "Music",
-      "description": "Ear training within the octave with correct answer feedback and score keeper. Practice ascending ear training while you have a few minutes simply by asking \"giving me an interval\", after that, Alexa will keep score for you. Be sure to use the correct music interval terms: unison, minor second, major second, minor third, major third, perfect fourth, perfect fifth, minor sixth, major sixth, minor seventh, major seventh, and octave.",
+      "description": "Ear training within the octave with correct answer feedback and score keeper. Practice ascending and descending interval ear training while you have a few minutes simply by asking \"giving me an interval\", after that, Alexa will keep score for you. Be sure to use the correct music interval terms: unison, minor second, major second, minor third, major third, perfect fourth, perfect fifth, minor sixth, major sixth, minor seventh, major seventh, and octave. To switch interval directions, simply say \"switch interval direction to (direction).\"",
       "enablement": null,
       "exampleInteractions": [
-        "Alexa ask Interval Trainer",
         "Alexa ask Interval Trainer to give me an interval",
-        "Alexa ask Interval Trainer for an interval"
+        "Alexa ask Interval Trainer for a descending interval",
+        "Alexa ask Interval Trainer"
       ],
       "firstReleaseDate": 1461825512.994,
       "homepageLinkText": null,
@@ -12074,7 +12074,7 @@
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
-      "shortDescription": "Interval Ear Trainer",
+      "shortDescription": "Ascending and descending interval ear trainer within the octave.",
       "skillTypes": null,
       "stage": "live",
       "termsOfUseUrl": null,
@@ -16647,6 +16647,40 @@
       "vendorName": "Fibonacci Products"
     },
     {
+      "accountLinkingWhitelistedDomains": null,
+      "asin": "B01EID7KVQ",
+      "averageRating": 0,
+      "canDisable": true,
+      "capabilities": null,
+      "category": "Communications",
+      "description": "Office Assistant Skill offers mobile number of pre-stored clients.",
+      "enablement": null,
+      "exampleInteractions": [
+        "Alexa ask office assistant",
+        "what is the number of Poojan",
+        "give me the number of Poojan"
+      ],
+      "firstReleaseDate": 1462356530.28,
+      "homepageLinkText": null,
+      "homepageLinkUrl": null,
+      "id": "amzn1.echo-sdk-ams.app.d480979a-026f-4d0f-ae4d-20d10237ee81",
+      "imageAltText": "Office Assistant icon",
+      "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01EID7KVQ/skill_icon",
+      "inAppPurchasingSupported": false,
+      "launchPhrase": "office assistant",
+      "name": "Office Assistant",
+      "numberOfReviews": 0,
+      "pamsPartnerId": null,
+      "permissions": null,
+      "privacyPolicyUrl": "http://www.skett.org/Alexa_Office_Assistant_Privacy_Policy.html",
+      "shortDescription": "Office Assistant Skill:-This aims at providing facility to find Mobile Number of Client",
+      "skillTypes": null,
+      "stage": "live",
+      "termsOfUseUrl": null,
+      "vendorId": "M1NZYG34T8A45V",
+      "vendorName": "Self employed"
+    },
+    {
       "accountLinkingWhitelistedDomains": [],
       "asin": "B019YJAFPM",
       "averageRating": 1.4,
@@ -19108,7 +19142,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M2YSY2V8FIOD0C",
-      "vendorName": "Thomp"
+      "vendorName": "Thomptronics"
     },
     {
       "accountLinkingWhitelistedDomains": null,

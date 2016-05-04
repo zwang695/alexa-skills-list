@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 776
+**Total Skills Available:** 777
 
 ***
 
@@ -2839,9 +2839,9 @@ This skill will teach Alexa to hurl terrible insults at you.
 
 ## &nbsp;<img src="skills/B01EMAVSP4/skill_icon" alt="IntervalTrainer icon" width="36"> [IntervalTrainer](skills/B01EMAVSP4)
 
-*Alexa ask Interval Trainer*
+*Alexa ask Interval Trainer to give me an interval*
 
-Interval Ear Trainer
+Ascending and descending interval ear trainer within the octave.
 
 ***
 
@@ -3918,6 +3918,14 @@ Odd Facts is a fact list created from the Space Geek template.
 *Alexa, ask o. e. i. s. for a nice sequence*
 
 OEIS: The On-Line Encyclopedia of Integer Sequences
+
+***
+
+## &nbsp;<img src="skills/B01EID7KVQ/skill_icon" alt="Office Assistant icon" width="36"> [Office Assistant](skills/B01EID7KVQ)
+
+*Alexa ask office assistant*
+
+Office Assistant Skill:-This aims at providing facility to find Mobile Number of Client
 
 ***
 
