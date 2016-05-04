@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OBWZU0",
-  "averageRating": 1.9,
+  "averageRating": 1.8,
   "canDisable": true,
   "capabilities": null,
   "category": "Games",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "movie quotes",
   "name": "Movie Quotes Trivia Game",
-  "numberOfReviews": 27,
+  "numberOfReviews": 28,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

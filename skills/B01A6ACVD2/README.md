@@ -14,22 +14,49 @@ To use the Vivint.SmartHome skill, try saying...
 Vivint offers the most comprehensive voice controlled smart home on the planet. Have your hands full making dinner and want to turn on the AC?  No problem.  Just say it.    
 Here are some of the amazing voice commands Vivint has:
  
+Lights:
 * Turn on my lights
+* Turn on my living room light
 * Dim my lights
-* Lock my front door
-* Arm my security system "stay"
-* Arm my security system "away"
-* Set my heat to 70 degrees
-* Turn my AC down to 72 degrees
-* Turn on the AC
-* I am cold
-* Close my garage door
-* Are my doors locked?
-* Is my front door locked?
+* Set the bedroom light to 20 percent
 * Are my lights on?
 * Is my kitchen light on?
- 
+
+Security:
+* Arm my security system "stay"
+* Arm my home "away"
+* what is the state of my security system?
+
+Thermostats:
+* Set my heat to 70 degrees
+* Turn the AC down to 72 degrees
+* Turn up the heat
+* Turn the heat setpoint up two degrees
+* Turn on the AC
+* I am cold
+* What's the temperature?
+
+Garage:
+* Close my garage door
+* Is my garage open?
+
+Locks:
+* Lock my front door
+* Are my doors locked?
+* Is my front door locked?
+
+Cameras:
+* Show me the doorbell camera
+
+Home States:
+* I am home
+* I am leaving
+* I am going to sleep
+* I am going on vacation
+
 Security is job #1 at vivint and to make sure we keep that promise Alexa will NOT disarm your system, unlock your doors, or open your garage door.  To do that, continue to use your Vivint Sky mobile app, SkyControl panel, or vivintsky.com.
+
+If you experience troubles with the skill recognizing your device try using a more common device name. For further assistance with phrases and skill behavior please call Vivint Customer support.
 
 ***
 

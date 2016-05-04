@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="For a Knock Knock Joke icon" width="36"> [For a Knock Knock Joke](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3bc40772-5298-454f-b461-b3c6364e1c3e)
-![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the For a Knock Knock Joke skill, try saying...
 

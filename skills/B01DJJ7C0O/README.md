@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Today in History icon" width="36"> [Today in History](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.877602b7-46d9-4add-94d5-fe215dfd73a7)
-![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 4
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Today in History skill, try saying...
 
