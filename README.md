@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 777
+**Total Skills Available:** 788
 
 ***
 
@@ -213,6 +213,14 @@ This skill reports the air quality index for US zip codes
 *Alexa, launch Air Quality Meter*
 
 Real time air quality rating for major U.S. cities. Alexa, launch Air Quality Meter
+
+***
+
+## &nbsp;<img src="skills/B01EOFCHMA/skill_icon" alt="Air Quality Report icon" width="36"> [Air Quality Report](skills/B01EOFCHMA)
+
+*Alexa, ask air quality report for zip code nine eight one zero nine*
+
+Get air quality report for 5-digit US ZIP codes
 
 ***
 
@@ -2749,6 +2757,14 @@ The Huffington Post is a Pulitzer Prize-winning source of news, features, and en
 
 ***
 
+## &nbsp;<img src="skills/B01EXOGWSM/skill_icon" alt="Human Body Quiz icon" width="36"> [Human Body Quiz](skills/B01EXOGWSM)
+
+*Alexa, start Human Body Quiz*
+
+A trivia game that tests your knowledge of facts related to the human body.
+
+***
+
 ## &nbsp;<img src="skills/B01EBCY2HO/skill_icon" alt="HumanHeart icon" width="36"> [HumanHeart](skills/B01EBCY2HO)
 
 *Alexa launch Human Heart*
@@ -2842,6 +2858,14 @@ This skill will teach Alexa to hurl terrible insults at you.
 *Alexa ask Interval Trainer to give me an interval*
 
 Ascending and descending interval ear trainer within the octave.
+
+***
+
+## &nbsp;<img src="skills/B01F0FDL00/skill_icon" alt="IoT Trivia Game icon" width="36"> [IoT Trivia Game](skills/B01F0FDL00)
+
+*Alexa, start Internet of Things trivia*
+
+Think you know your IoT's? Challenge yourself with fun and educational questions from the Internet of Things field.
 
 ***
 
@@ -2996,6 +3020,14 @@ As the name suggest this game consists of quiz about how well you know your coun
 *Alexa, ask Korean Facts for a fact*
 
 Korean Facts allows you to learn facts about Korea.
+
+***
+
+## &nbsp;<img src="skills/B01DP23CEU/skill_icon" alt="Korean Weather icon" width="36"> [Korean Weather](skills/B01DP23CEU)
+
+*Alexa, ask Korean Weather for Seoul*
+
+Getting Korean Local Weather Information
 
 ***
 
@@ -4108,6 +4140,14 @@ Facts about the humankind's greatest achievement: pizza
 
 ***
 
+## &nbsp;<img src="skills/B01F199E4C/skill_icon" alt="Platypus Geek icon" width="36"> [Platypus Geek](skills/B01F199E4C)
+
+*Alexa, ask platypus geek for a platypus fact*
+
+This is will give you a platypus fact when invoked.
+
+***
+
 ## &nbsp;<img src="skills/B01E3Q5CH2/skill_icon" alt="Pocket Assistant icon" width="36"> [Pocket Assistant](skills/B01E3Q5CH2)
 
 *Alexa, ask Pocket Helper to have pocket fix my computer*
@@ -4284,6 +4324,14 @@ A way to find local information in the Washington State Puget Sound area.
 
 ***
 
+## &nbsp;<img src="skills/B01EU6FN4M/skill_icon" alt="Push Up Century Club icon" width="36"> [Push Up Century Club](skills/B01EU6FN4M)
+
+*Alexa, start push ups*
+
+Join the elite fitness century club. Many people can do push ups, few can do 100! Are you up for the challenge?
+
+***
+
 ## &nbsp;<img src="skills/B01E36U47K/skill_icon" alt="Puzzled Pint icon" width="36"> [Puzzled Pint](skills/B01E36U47K)
 
 *Alexa, ask Puzzled Pint.*
@@ -4433,6 +4481,14 @@ Ask for a random number between 1 and 100
 *Alexa, open Random Thoughts*
 
 Have Alexa tell you a random thought, the kind you would come up with in the shower!  Try "Alexa, open Random Thoughts".
+
+***
+
+## &nbsp;<img src="skills/B01F4TRG9E/skill_icon" alt="Random World Facts icon" width="36"> [Random World Facts](skills/B01F4TRG9E)
+
+*Alexa, Open world geek*
+
+Are you ready to learn some random facts that you can talk about at a party? Well, say no more and try out this skill! Simply say "Alexa, Open world geek"
 
 ***
 
@@ -5573,6 +5629,14 @@ Tracker's Election Odds is the premier way to get the inside scoop on who is lik
 
 ***
 
+## &nbsp;<img src="skills/B01DOSV7XI/skill_icon" alt="Train Times for LIRR icon" width="36"> [Train Times for LIRR](skills/B01DOSV7XI)
+
+*Alexa ask train times for the next train*
+
+LIRR train schedules & status updates
+
+***
+
 ## &nbsp;<img src="skills/B01BFQ0M1Y/skill_icon" alt="Trainer Tips icon" width="36"> [Trainer Tips](skills/B01BFQ0M1Y)
 
 *Alexa, ask Trainer Tips what's weak against Fire.*
@@ -5917,6 +5981,14 @@ US National Parks quiz game
 
 ***
 
+## &nbsp;<img src="skills/B01ETVDGEC/skill_icon" alt="US Park Facts icon" width="36"> [US Park Facts](skills/B01ETVDGEC)
+
+*Alexa, ask US Parks to tell me a park fact*
+
+US Park Facts will share a random fact about the US National Park Service (NPS)
+
+***
+
 ## &nbsp;<img src="skills/B01DJLBPAA/skill_icon" alt="US State Capitals icon" width="36"> [US State Capitals](skills/B01DJLBPAA)
 
 *Alexa, launch state capitals*
@@ -5979,6 +6051,14 @@ Learn fun facts about the State of Utah or take a practice quiz to test your kno
 *Alexa, Start Utterly Body Quiz.*
 
 A family friendly trivia quiz about the human body.
+
+***
+
+## &nbsp;<img src="skills/B01EVRB37G/skill_icon" alt="UV Meter icon" width="36"> [UV Meter](skills/B01EVRB37G)
+
+*Alexa, ask UV Meter what is the UV index in Phoenix*
+
+Use UV Meter to get strength of sun’s UV rays in your city
 
 ***
 
@@ -6195,6 +6275,14 @@ Tells a "yo momma" joke. Have Alexa start it, or ask it for a joke by saying "Al
 *Alexa, start for me*
 
 I am your daily friend and can do many things for you.  Such as play fun games and later much more!
+
+***
+
+## &nbsp;<img src="skills/B01EXKMP7I/skill_icon" alt="ZenMaster icon" width="36"> [ZenMaster](skills/B01EXKMP7I)
+
+*Alexa, ask ZenMaster for a koan*
+
+ZenMaster tells you a koan that will help you practice meditation.
 
 ***
 

@@ -10,7 +10,7 @@
   "exampleInteractions": [
     "Alexa, ask tide guide for the tides in Santa Barbara, California",
     "Alexa, ask tide guide for the tides for Seattle for Sunday",
-    "Alexa, ask tide guide for the next high tides in Newport Beach for today"
+    "Alexa, ask tide guide for the next high tides in Newport Beach"
   ],
   "firstReleaseDate": 1456172237.987,
   "homepageLinkText": null,

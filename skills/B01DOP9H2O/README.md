@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Alarm.com icon" width="36"> [Alarm.com](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.177a1019-e465-44f1-b4fd-cdf3d76bfb40)
-![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 11
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 12
 
 To use the Alarm.com skill, try saying...
 
