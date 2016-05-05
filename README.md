@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 795
+**Total Skills Available:** 799
 
 ***
 
@@ -493,6 +493,14 @@ Celebrate a goal - or anything else - with a classic audio "GOOOOOL" sound.
 *Alexa, Open Aussie Fact*
 
 Learn about the exciting continent in the south called Australia.
+
+***
+
+## &nbsp;<img src="skills/B01EZ6691S/skill_icon" alt="Austin School Lunches icon" width="36"> [Austin School Lunches](skills/B01EZ6691S)
+
+*Alexa open school lunch*
+
+Elementary school lunch menu for the Austin Independent School District.
 
 ***
 
@@ -3464,6 +3472,14 @@ Want to know if there are delays on the Red Line?  Could weekend construction de
 
 ***
 
+## &nbsp;<img src="skills/B01EML7BA4/skill_icon" alt="Metro North Track icon" width="36"> [Metro North Track](skills/B01EML7BA4)
+
+*Alexa, ask metro north track i am going from Stamford to Grand Central*
+
+Gets the train time and track number for Metro North
+
+***
+
 ## &nbsp;<img src="skills/B01D31TJ2C/skill_icon" alt="Mid Century Designer Trivia icon" width="36"> [Mid Century Designer Trivia](skills/B01D31TJ2C)
 
 *Alexa, play mid century trivia*
@@ -5052,6 +5068,14 @@ Multiple choice state capitals quiz
 
 ***
 
+## &nbsp;<img src="skills/B01F2TPJQI/skill_icon" alt="State Sales Tax Finder icon" width="36"> [State Sales Tax Finder](skills/B01F2TPJQI)
+
+*Alexa, open the Tax Finder*
+
+Ever wanted to know what your state sales tax is? Well, you have come to the right place!
+
+***
+
 ## &nbsp;<img src="skills/B01EJVXUAW/skill_icon" alt="State Trees Quiz icon" width="36"> [State Trees Quiz](skills/B01EJVXUAW)
 
 *Alexa ask state trees*
@@ -6283,6 +6307,14 @@ Alexa is able to calculate your perfect bra size, according to your bust and ban
 *Alexa, ask Woot what is the deal on electronics?*
 
 Get Woot's daily deals straight from Alexa, just ask Woot "What is today's deal?"
+
+***
+
+## &nbsp;<img src="skills/B01EWC8MOW/skill_icon" alt="Workout Buddy icon" width="36"> [Workout Buddy](skills/B01EWC8MOW)
+
+*Alexa, ask Workout Buddy for a workout*
+
+This skill gives you a random exercise to do.
 
 ***
 
