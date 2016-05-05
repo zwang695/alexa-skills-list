@@ -34,6 +34,8 @@ Also, please remember that:
 - Only 10 digit North America phone numbers can be used
 - All messages are sent from (613) 909-8893
 
+You can reach us at m21lab@macadamian.com
+
 ***
 
 ### Skill Details

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 790
+**Total Skills Available:** 791
 
 ***
 
@@ -6147,6 +6147,14 @@ Ask the warden if DMX is in jail
 *Alexa, ask Wedding Countdown to set my wedding date as May 14th, 2016.*
 
 Countdown the number of days until your wedding date.
+
+***
+
+## &nbsp;<img src="skills/B01ED4CPGA/skill_icon" alt="Weight Tracker icon" width="36"> [Weight Tracker](skills/B01ED4CPGA)
+
+*Alexa ask weight tracker to store one hundred sixty four pounds*
+
+Helps you to keep track of your weight. Just stand on a scale and tell Alexa to store your weight. You can also set a target and get reports.
 
 ***
 

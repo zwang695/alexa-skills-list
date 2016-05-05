@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01DMKNHXG",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": "Home-Automation",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "abode",
   "name": "abode",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "uKnwEeS475bHhBecnZncByDhU",
   "permissions": null,
   "privacyPolicyUrl": "http://support.goabode.com/customer/en/portal/articles/2232128-privacy-policy",
