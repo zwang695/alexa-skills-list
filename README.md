@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 799
+**Total Skills Available:** 802
 
 ***
 
@@ -877,6 +877,14 @@ This is the Bollywood Trivia Game. Want to test your knowledge about bollywood m
 *Alexa ask boo*
 
 Someone told a bad joke? Let them know with the Alexa boo Skill.
+
+***
+
+## &nbsp;<img src="skills/B01F1C6FTQ/skill_icon" alt="Boo Boo Statistics icon" width="36"> [Boo Boo Statistics](skills/B01F1C6FTQ)
+
+*Alexa launch boo boo statistics*
+
+A Toy Science Fiction Trivia Quiz.
 
 ***
 
@@ -3801,6 +3809,14 @@ A messaging service used to send short messages to others (or yourself) using yo
 
 ***
 
+## &nbsp;<img src="skills/B01EZA6O8W/skill_icon" alt="MySomm icon" width="36"> [MySomm](skills/B01EZA6O8W)
+
+*Alexa, ask Wine Gal to recommend a wine for prime rib*
+
+MySomm turns Alexa into Wine Gal, your personal wine sommelier that can give you wine recommendations for your meals!
+
+***
+
 ## &nbsp;<img src="skills/B01BUJ7R9G/skill_icon" alt="Mystery Castle icon" width="36"> [Mystery Castle](skills/B01BUJ7R9G)
 
 *Alexa, launch Mystery Castle*
@@ -4913,6 +4929,14 @@ Send Free Text Messages With Amazon Echo.
 *Alexa, ask Snowday is the federal government open today?*
 
 Snowday provides information on closures/delays for various government offices, services, and schools in the Baltimore/Washington area
+
+***
+
+## &nbsp;<img src="skills/B01F1L3WFM/skill_icon" alt="Soccer Facts icon" width="36"> [Soccer Facts](skills/B01F1L3WFM)
+
+*Alexa, Launch Soccer Facts*
+
+Some interesting facts about the most popular sport in the world.
 
 ***
 

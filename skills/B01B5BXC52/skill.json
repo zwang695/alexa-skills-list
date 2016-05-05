@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01B5BXC52",
-  "averageRating": 1.7,
+  "averageRating": 1.5,
   "canDisable": true,
   "capabilities": null,
   "category": "Games",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "memory master",
   "name": "Memory Master",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
