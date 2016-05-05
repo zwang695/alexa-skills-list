@@ -7,23 +7,28 @@ To use the Chicago Trains skill, try saying...
 
 * *Alexa ask Chicago Trains for the next train from Chicago to Naperville express only*
 
-* *Alexa ask Chicago Trains for the train schedule for Joliet to New Lenox*
+* *Alex, ask Chicago Trains for the train schedule from Naperville to Union Station*
 
 Never miss your train again.
 
 Chicago Trains lets you find the next train leaving a particular station that stops at your desired destination.  It will also let you hear the train schedule for the rest of the day for a particular starting station and destination station.    For example, 
 
 Next Train:
-Alexa, ask Chicago Trains when is the next train from Crystal Lake to Downtown
+When is the next train from Crystal Lake to Downtown
 
 Train Schedule:
-Alex, ask Chicago Trains for the train schedule from Naperville to Union Station
+For the train schedule from Naperville to Union Station
 
 Express Train:
-Alexa, ask Chicago Trains for the next train from Downtown to Northbrook express only
+For the next train from Downtown to Northbrook express only
+
+Express Train Schedule:
+For the train schedule from Downtown to Arlington Heights express only
 
 New Version:
 * added express train.  Add the phrase 'express only' when asking for the next train.  This will provide the next train that is in the fastest 20% of the remaining days schedule.
+* added express schedule.  Add the phrase 'express only' when asking for the train schedule.  This will provide the all of the trains that are in the fastest 20% of the remaining days schedule.
+
 * the issue described by the 1 star review has been addressed.
 ** The Chicago stations can be referenced as:
 Chicago

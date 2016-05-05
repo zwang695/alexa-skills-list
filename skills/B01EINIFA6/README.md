@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Penalty Box icon" width="36"> [Penalty Box](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6eb1413c-b874-4e4c-83dc-8dd1f6ec69d7)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Penalty Box skill, try saying...
 

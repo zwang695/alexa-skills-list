@@ -5,7 +5,7 @@ To use the letters to word skill, try saying...
 
 * *Alexa, start Letters to Word*
 
-* *Give me a M*
+* *Give me a S*
 
 * *What does that spell*
 

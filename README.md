@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 791
+**Total Skills Available:** 795
 
 ***
 
@@ -2533,6 +2533,14 @@ Test your knowledge of the Gridiron's winners and MVPs.
 
 ***
 
+## &nbsp;<img src="skills/B01ERYBWLU/skill_icon" alt="Growler Info icon" width="36"> [Growler Info](skills/B01ERYBWLU)
+
+*Alexa, ask Growler for info*
+
+Beer growler facts and info
+
+***
+
 ## &nbsp;<img src="skills/B01DJ8GTS6/skill_icon" alt="Guess the Number icon" width="36"> [Guess the Number](skills/B01DJ8GTS6)
 
 *Alexa, play guess the number*
@@ -3296,6 +3304,14 @@ Trivia game asking questions about historical March basketball tournaments.
 
 ***
 
+## &nbsp;<img src="skills/B01EX83SD0/skill_icon" alt="Marine Life icon" width="36"> [Marine Life](skills/B01EX83SD0)
+
+*Alexa, open Marine Life.*
+
+Marine Life provides interesting information about whales, dolphins, sharks, sea turtles, octopus, jellyfish, deep sea creatures, and more!
+
+***
+
 ## &nbsp;<img src="skills/B01BMRJUU0/skill_icon" alt="Market News icon" width="36"> [Market News](skills/B01BMRJUU0)
 
 *Alexa, ask Market for news*
@@ -3981,7 +3997,7 @@ Listen to your Ooma voicemail.  Dial your phone with voice commands.  NOTE:  Thi
 
 *Alexa, ask Opening Bell for Tesla.*
 
-Retrieve the current performance of a publicly trading stock (NASDAQ, NYSE) using the company name.
+Retrieve stock quotes of publicly traded companies (on NASDAQ & NYSE exchanges) using the company name, not the ticker symbol.
 
 ***
 
@@ -5276,6 +5292,14 @@ A dictionary of cyberpunk words and phrases.  Alexa ask The Cyberpunk Dictionary
 
 ***
 
+## &nbsp;<img src="skills/B01EIZC71M/skill_icon" alt="The Dishwasher icon" width="36"> [The Dishwasher](skills/B01EIZC71M)
+
+*Alexa, ask the dishwasher if the dishes are dirty*
+
+Ask Alexa about the dishes in your dishwasher.
+
+***
+
 ## &nbsp;<img src="skills/B01AKT2H5G/skill_icon" alt="The Dog Feeder icon" width="36"> [The Dog Feeder](skills/B01AKT2H5G)
 
 *Alexa, ask the dog if we fed her?*
@@ -6275,6 +6299,14 @@ Test your  knowledge of soccer with a series of questions around the world cup a
 *Alexa, open World History.*
 
 Are you interested in world history. Rely on World History for hundreds of events in world history for every day of the year.
+
+***
+
+## &nbsp;<img src="skills/B01F21E4M6/skill_icon" alt="Would You Rather icon" width="36"> [Would You Rather](skills/B01F21E4M6)
+
+*Alexa, play would you rather*
+
+Would you rather eat a hundred chillies or never eat again? Let Alexa ask you silly questions.
 
 ***
 

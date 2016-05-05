@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Weight Tracker icon" width="36"> [Weight Tracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4e3c1be0-f7df-43f1-93d5-2cab2e09d0e4)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Weight Tracker skill, try saying...
 
