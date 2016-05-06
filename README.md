@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 804
+**Total Skills Available:** 809
 
 ***
 
@@ -122,6 +122,14 @@ Control your abode home security system with Alexa voice commands.  Ask Alexa to
 *Alexa start Akinator*
 
 Abra is a character-guessing game. Think of a character, real or fictional, and Abra will ask you questions and figure out who it is.
+
+***
+
+## &nbsp;<img src="skills/B01EWIJNHQ/skill_icon" alt="According to Bob icon" width="36"> [According to Bob](skills/B01EWIJNHQ)
+
+*Alexa, play According to Bob*
+
+"According to Bob" is a fun trivia game that tests your knowledge of Bob Dylan's prose.
 
 ***
 
@@ -405,6 +413,14 @@ Locate APRS stations
 *Alexa, ask Area Code where is eight six zero*
 
 Area Code Lookup
+
+***
+
+## &nbsp;<img src="skills/B01EKX7WKS/skill_icon" alt="Aromatherapy icon" width="36"> [Aromatherapy](skills/B01EKX7WKS)
+
+*Alexa, Ask Aromatherapy for a recipe for focus.*
+
+Aromatherapy is a skill that can help you with some common diffuser recipes for use with your essential oils collection.
 
 ***
 
@@ -1699,6 +1715,14 @@ Get a fact about DeVito and his surroundings at his workplace.
 
 ***
 
+## &nbsp;<img src="skills/B01EGB0FNU/skill_icon" alt="Dex Trivia icon" width="36"> [Dex Trivia](skills/B01EGB0FNU)
+
+*Alexa, start dex trivia*
+
+Are you a Pokemon Master?  Find out in the toughest Pokemon trivia game yet!
+
+***
+
 ## &nbsp;<img src="skills/B01A7GLAUU/skill_icon" alt="Dice Bag icon" width="36"> [Dice Bag](skills/B01A7GLAUU)
 
 *Alexa, tell Dice Bag to roll for me*
@@ -2135,7 +2159,7 @@ Keep up with your fitness goals by checking Fitbit with Alexa. Stay in touch wit
 
 *Alexa, ask Fitness Logger to add ten pull downs with twenty pounds*
 
-FitnessLogger is an Alexa skill to keep track of your daily exercises. You can store your daily workouts by saying, "Twenty Pull Downs with fifty pounds.
+FitnessLogger is an Alexa skill to keep track of your daily exercises. You can store your daily exercises and compare against your previous workouts.
 
 ***
 
@@ -3694,6 +3718,14 @@ Music Trivia is a Trivia Game about, what else, MUSIC!
 *Alexa, launch musical instrument trivia*
 
 A fun trivia game including fun facts about musical instruments.
+
+***
+
+## &nbsp;<img src="skills/B01F39KL06/skill_icon" alt="Musical Trivia icon" width="36"> [Musical Trivia](skills/B01F39KL06)
+
+*Alexa open musical trivia*
+
+This is a trivia game about theater and movie musicals.
 
 ***
 
@@ -5962,6 +5994,14 @@ Trivial Trivia is a trivia game to test your knowledge of computing history.
 *Alexa, open Trump Thoughts.*
 
 Trump answers your most burning questions.
+
+***
+
+## &nbsp;<img src="skills/B01F8J7LXG/skill_icon" alt="Truth or Dare icon" width="36"> [Truth or Dare](skills/B01F8J7LXG)
+
+*Alexa open Truth or Dare*
+
+Truth or Dare Party Game (PG-13)
 
 ***
 

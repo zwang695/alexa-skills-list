@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "FitnessLogger is an Alexa skill to keep track of your daily exercises. You can store your daily workouts by saying, \"Twenty Pull Downs with fifty pounds.",
+  "shortDescription": "FitnessLogger is an Alexa skill to keep track of your daily exercises. You can store your daily exercises and compare against your previous workouts.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,
