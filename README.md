@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 821
+**Total Skills Available:** 822
 
 ***
 
@@ -5588,6 +5588,14 @@ Listen to Alexa read inspirational scriptures to you.
 *Alexa, play the telephone game*
 
 The Telephone Game is a game about Echoing messages. Hear a message, and try to repeat it verbatim. Simple, right?
+
+***
+
+## &nbsp;<img src="skills/B01ER4X8YO/skill_icon" alt="The Tickle Monster Game! icon" width="36"> [The Tickle Monster Game!](skills/B01ER4X8YO)
+
+*Alexa, Ask Tickle Monster "Who's Next?"*
+
+Family fun (or maybe terror)! Setup participants and let Tickle Monster choose who's next!
 
 ***
 

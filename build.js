@@ -6,6 +6,7 @@
  * Use the Alexa web UI and Chrome console Network tab to get JSON list of skills.
  * Place this data in a file named `skills.json`
  *
+ * @todo Remove "null" text on Smart Home skill entries
  * @todo Make everything asyncronous
  * @todo Add sorted lists: Alphabetical, Categories, Top Rated, Top Reviewed, Newest, Oldest
  * @todo Add support for marking skills that are no longer available (ie: Fin/B01D5B7R7Y)

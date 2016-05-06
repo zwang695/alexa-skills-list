@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="This Day in History icon" width="36"> [This Day in History](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d226fcb0-9f35-4a5f-98d8-ef3323ffcceb)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the This Day in History skill, try saying...
 
