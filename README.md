@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 802
+**Total Skills Available:** 804
 
 ***
 
@@ -1640,6 +1640,14 @@ Daily Cutiemals will send cute animal pictures to your email!
 *Alexa open Daily Word*
 
 Selects a new word for every day of the year.
+
+***
+
+## &nbsp;<img src="skills/B01EVIEA5C/skill_icon" alt="Date Ninja icon" width="36"> [Date Ninja](skills/B01EVIEA5C)
+
+*Alexa, ask Date Ninja what day of the week is December 25, 2016?*
+
+Performs day, week, month, and year calculations.
 
 ***
 
@@ -4537,6 +4545,14 @@ Ask for a random number between 1 and 100
 *Alexa, open Random Thoughts*
 
 Have Alexa tell you a random thought, the kind you would come up with in the shower!  Try "Alexa, open Random Thoughts".
+
+***
+
+## &nbsp;<img src="skills/B01F6ZLS90/skill_icon" alt="Random Trivia icon" width="36"> [Random Trivia](skills/B01F6ZLS90)
+
+*Alexa, open Random Trivia*
+
+A trivia game with random questions!
 
 ***
 
