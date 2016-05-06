@@ -469,7 +469,7 @@ skills.sort(function(a, b) {
 var i = skills.length;
 
 while (i--) {
-	if (!skills[i].canDisable) {
+	if ('development' === skills[i].stage) {
 		//log('Skipping development skill "%s"', skills[i].name);
 		skills.splice(i, 1);
 		continue;

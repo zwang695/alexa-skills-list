@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "device-login.lutron.com"
+  ],
+  "asin": "B01EIQVFFA",
+  "averageRating": 5,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "Caséta Wireless brings the convenience of smart lighting control to your home while working seamlessly with Alexa to get the lights for you.\n\nYou — or anyone in your family—can tell Alexa to turn lights on, off, or dim them to your favorite light level. Need to be quiet? Use your Lutron Pico remote for those moments when silence is golden.\n\nTo add smart lighting control to your home, you’ll need a Smart Bridge and at least one dimmer.  To learn more, go to www.casetawireless.com/alexa",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1461105763.741,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.9580dbe1-649a-4d30-bff6-9e790c26d4fe",
+  "imageAltText": "Caséta Wireless icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01EIQVFFA/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Caséta Wireless",
+  "numberOfReviews": 3,
+  "pamsPartnerId": "L7bT7Y6OSwic7SRHdJkHe8AkS",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.lutron.com/en-US/Pages/PrivacyPolicy.aspx",
+  "shortDescription": "Control your Lutron Caséta Wireless lights from anywhere!",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "http://www.casetawireless.com/Pages/legal.aspx",
+  "vendorId": "M33O0UBGA7JXNA",
+  "vendorName": "Lutron Electronics, Co."
+}

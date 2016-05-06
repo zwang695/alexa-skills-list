@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 809
+**Total Skills Available:** 821
 
 ***
 
@@ -1073,6 +1073,14 @@ Carly is a voice-activated coach for Amazon Echo that helps users understand the
 
 ***
 
+## &nbsp;<img src="skills/B01EIQVFFA/skill_icon" alt="Caséta Wireless icon" width="36"> [Caséta Wireless](skills/B01EIQVFFA)
+
+*null*
+
+Control your Lutron Caséta Wireless lights from anywhere!
+
+***
+
 ## &nbsp;<img src="skills/B01EJANOA4/skill_icon" alt="Cat Fact icon" width="36"> [Cat Fact](skills/B01EJANOA4)
 
 *Alexa, open Cat Fact.*
@@ -1883,6 +1891,14 @@ Ask Eclipse Phase Geek to tell you a fact about the the bleak future of Transhum
 
 ***
 
+## &nbsp;<img src="skills/B01EIQ3P08/skill_icon" alt="ecobee icon" width="36"> [ecobee](skills/B01EIQ3P08)
+
+*null*
+
+Control your ecobee thermostat using your Amazon Alexa.
+
+***
+
 ## &nbsp;<img src="skills/B017OB648E/skill_icon" alt="Edgar Facts icon" width="36"> [Edgar Facts](skills/B017OB648E)
 
 *Alexa, tell me an Edgar fact.*
@@ -2669,6 +2685,14 @@ Haiku poem generator.
 
 ***
 
+## &nbsp;<img src="skills/B01F6D3ZHU/skill_icon" alt="Haiku Home icon" width="36"> [Haiku Home](skills/B01F6D3ZHU)
+
+*null*
+
+Control your Haiku fans and lights
+
+***
+
 ## &nbsp;<img src="skills/B01ED658W6/skill_icon" alt="Hangman icon" width="36"> [Hangman](skills/B01ED658W6)
 
 *Alexa, Open Hangman*
@@ -2901,6 +2925,14 @@ Welcome to my inn! You can talk to your favorite Hearthstone heroes, and they'll
 
 ***
 
+## &nbsp;<img src="skills/B01EIQOOUS/skill_icon" alt="Insteon icon" width="36"> [Insteon](skills/B01EIQOOUS)
+
+*null*
+
+The most affordable, complete, connected home solution
+
+***
+
 ## &nbsp;<img src="skills/B01AVKAZ94/skill_icon" alt="InsultiBot icon" width="36"> [InsultiBot](skills/B01AVKAZ94)
 
 *"Alexa, open InsultiBot"*
@@ -2970,6 +3002,14 @@ Issac provides useful information for The Division video game.
 *Alexa, open izzy*
 
 ISY skill allows you to control your home using an ISY home-automation controller.
+
+***
+
+## &nbsp;<img src="skills/B01EIUD7LQ/skill_icon" alt="ISY Optimized for Smart Home icon" width="36"> [ISY Optimized for Smart Home](skills/B01EIUD7LQ)
+
+*null*
+
+Voice control your ISY devices, scenes, and even programs!
 
 ***
 
@@ -3204,6 +3244,14 @@ Keeps count of life totals in Magic: The Gathering
 *Alexa, tell LIFX to turn my bedroom lights off*
 
 LIFX, the world’s brightest color Wi-Fi smart lights. Ask Alexa to switch on the lights when your hands are full and fill your home with your favourite colors.
+
+***
+
+## &nbsp;<img src="skills/B01EIQSPOY/skill_icon" alt="LIFX Optimized for Smart Home icon" width="36"> [LIFX Optimized for Smart Home](skills/B01EIQSPOY)
+
+*null*
+
+The world's brightest Wi-Fi LED smart lights, no cables or hub needed! Light your home in millions of colors, now with full control via Alexa.
 
 ***
 
@@ -3934,6 +3982,14 @@ Test your video game knowledge with this fun video game quiz!
 *Alexa, ask nerdy valentine for a pickup line.*
 
 This skill gives a nerdy pickup line when asked.
+
+***
+
+## &nbsp;<img src="skills/B01EIQW9LY/skill_icon" alt="Nest icon" width="36"> [Nest](skills/B01EIQW9LY)
+
+*null*
+
+Alexa and Nest work together to help you set the perfect temperature - without having to lift a finger.
 
 ***
 
@@ -4884,6 +4940,14 @@ Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 
 ***
 
+## &nbsp;<img src="skills/B01EIQLWUS/skill_icon" alt="Sensi icon" width="36"> [Sensi](skills/B01EIQLWUS)
+
+*null*
+
+This skill allows you to control the Sensi thermostat.
+
+***
+
 ## &nbsp;<img src="skills/B01DV5OZR4/skill_icon" alt="Shakespeare Quotes icon" width="36"> [Shakespeare Quotes](skills/B01DV5OZR4)
 
 *Alexa ask a quote from shakespeare*
@@ -4961,6 +5025,16 @@ Search for flight prices anywhere in the world, by conversing with Alexa.
 *Alexa, ask Slow Carb Checker, can I eat apples?*
 
 Allows users to find if if a certain food or drink can be consumed on the Slow Carb Diet
+
+***
+
+## &nbsp;<img src="skills/B01ETW5Q9O/skill_icon" alt="SmartThings icon" width="36"> [SmartThings](skills/B01ETW5Q9O)
+
+*null*
+
+Alexa, turn on the table lamp.
+
+Use SmartThings to control your smart home. Switch on lights, change the temperature, or manage appliances with smart outlets.
 
 ***
 
@@ -5757,6 +5831,14 @@ Test your knowledge of the college basketball tournament.
 
 ***
 
+## &nbsp;<img src="skills/B01EIQX6Y8/skill_icon" alt="TP-LINK Kasa icon" width="36"> [TP-LINK Kasa](skills/B01EIQX6Y8)
+
+*null*
+
+Kasa is a simple way to manage your home from anywhere.
+
+***
+
 ## &nbsp;<img src="skills/B01CP8HT94/skill_icon" alt="Tracker's Election Odds icon" width="36"> [Tracker's Election Odds](skills/B01CP8HT94)
 
 *Alexa, ask Tracker for an overview.*
@@ -6374,6 +6456,14 @@ Random wine trivia fact game
 
 ***
 
+## &nbsp;<img src="skills/B01EIQYF3E/skill_icon" alt="Wink icon" width="36"> [Wink](skills/B01EIQYF3E)
+
+*null*
+
+With Amazon Alexa, Wink smart home users can use simple voice commands to control their Wink-compatible lighting products and Wink-enabled Nest Thermostats.
+
+***
+
 ## &nbsp;<img src="skills/B01BPIG5I6/skill_icon" alt="Women's Underwear icon" width="36"> [Women's Underwear](skills/B01BPIG5I6)
 
 *Alexa, open women's underwear*
@@ -6435,6 +6525,14 @@ Yo Mama Jokes
 *Alexa, ask Mom Jokes to tell me a joke.*
 
 Tells a "yo momma" joke. Have Alexa start it, or ask it for a joke by saying "Alexa, ask Mom Jokes to tell me a joke." May not be appropriate for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01E7TYGFO/skill_icon" alt="Yonomi icon" width="36"> [Yonomi](skills/B01E7TYGFO)
+
+*null*
+
+Yonomi connects all of your devices under one roof for free – including Sonos, Logitech Harmony, Hue and more. Control all of your devices with just your voice!
 
 ***
 

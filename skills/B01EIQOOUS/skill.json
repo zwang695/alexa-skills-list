@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01EIQOOUS",
+  "averageRating": 5,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "Control Insteon lighting, appliances, and thermostats",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1461884112.411,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.dcf48e47-5e5f-4325-a755-b3f6d67eb8b4",
+  "imageAltText": "Insteon icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01EIQOOUS/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Insteon",
+  "numberOfReviews": 3,
+  "pamsPartnerId": "INSTEON",
+  "permissions": null,
+  "privacyPolicyUrl": "http://insteon.com/support",
+  "shortDescription": "The most affordable, complete, connected home solution",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "http://insteon.com/support",
+  "vendorId": "MEE2VVVJW4K9F",
+  "vendorName": "INSTEON"
+}

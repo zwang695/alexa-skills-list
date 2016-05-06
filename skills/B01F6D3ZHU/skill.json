@@ -1,0 +1,39 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "bigassfans.com",
+    "sensemecloud.com"
+  ],
+  "asin": "B01F6D3ZHU",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "Control your Haiku fans and lights",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1462467592.967,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.a5572454-202a-4198-9231-4d2856e7cb08",
+  "imageAltText": "Haiku Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01F6D3ZHU/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Haiku Home",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "v46eDUqAsjToZtIWfl6xk1fsG",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.haikuhome.com/privacy-policy",
+  "shortDescription": "Control your Haiku fans and lights",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "https://www.haikuhome.com/terms-of-service",
+  "vendorId": "M3ZOFRLY2L1I8",
+  "vendorName": "Haiku Home by Big Ass Solutions"
+}

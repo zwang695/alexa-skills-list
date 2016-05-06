@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01EIQX6Y8",
+  "averageRating": 3.7,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "Kasa is a simple way to manage your home from anywhere.You can link Kasa with Amazon Echo to control devices like smart plugs and smart lights with simple voice commands. Just say “turn on the Christmas tree lights” and watch your kids’ faces light up. Connecting your Echo to Kasa is easy, just follow the instructions in the Kasa app.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1461105908.805,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.b4bf2b4d-5f4e-458b-a3b4-5e900cea5fd9",
+  "imageAltText": "TP-LINK Kasa icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01EIQX6Y8/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "TP-LINK Kasa",
+  "numberOfReviews": 7,
+  "pamsPartnerId": "1AWOTGygt3uODfuUtXadRTTVC",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.tplinkcloud.com/PrivacyPolicy.php",
+  "shortDescription": "Kasa is a simple way to manage your home from anywhere.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M321CC8SZQHT8O",
+  "vendorName": "TP-LINK"
+}

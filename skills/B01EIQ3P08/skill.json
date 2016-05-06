@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "www.ecobee.com",
+    "www.myhome.carrier.com",
+    "www.myhome.bryant.com"
+  ],
+  "asin": "B01EIQ3P08",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "Through Alexa, you can now control your ecobee thermostat using your voice. All you have to do is ask. As long as you have a registered ecobee thermostat, you can link your ecobee account to Alexa for full control. Alexa is compatible with all ecobee thermostat models.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1461103843.37,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.5c94a669-85c5-4438-ad40-4737260703e5",
+  "imageAltText": "ecobee icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01EIQ3P08/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "ecobee",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "z69BC5NMj24hf7VGggT8Wvq6W",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.ecobee.com/legal/use/",
+  "shortDescription": "Control your ecobee thermostat using your Amazon Alexa.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "https://www.ecobee.com/legal/use/",
+  "vendorId": "MOL65TEQKZNH3",
+  "vendorName": "ecobee Inc"
+}

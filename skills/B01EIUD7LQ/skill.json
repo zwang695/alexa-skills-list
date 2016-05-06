@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01EIUD7LQ",
+  "averageRating": 4.5,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "The ISY skill allows you to control your ISY home-automation controller from Universal Devices. This enables you to control your devices, scenes and even programs from your Echo. \n\nTo use this skill, you need to have an account on ISY Portal the full instructions for which can be found  <a href=\"http://wiki.universal-devices.com/index.php?title=Main_Page#ISY_Portal.2FAmazon_Echo.2FIFTTT\">here</a>.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1461701764.857,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.63cc55e8-786e-4179-8065-5ef45befda83",
+  "imageAltText": "ISY Optimized for Smart Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01EIUD7LQ/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "ISY Optimized for Smart Home",
+  "numberOfReviews": 4,
+  "pamsPartnerId": "Lg6UxwcNheb9gQrMG8GbeI8V3",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.universal-devices.com/privacy/",
+  "shortDescription": "Voice control your ISY devices, scenes, and even programs!",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3K4FN8GEAZQVJ",
+  "vendorName": "Universal Devices, Inc."
+}

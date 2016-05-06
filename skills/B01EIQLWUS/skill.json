@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01EIQLWUS",
+  "averageRating": 4,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "This skill allows you to control the Sensi thermostat.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1461105128.546,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.e54b56d8-b02b-4e4f-83bc-5333450e3227",
+  "imageAltText": "Sensi icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01EIQLWUS/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Sensi",
+  "numberOfReviews": 3,
+  "pamsPartnerId": "ht6kwBPtrv6o4NIGyDi1RwiYl",
+  "permissions": null,
+  "privacyPolicyUrl": "https://sensicomfort.com/privacy-policies/",
+  "shortDescription": "This skill allows you to control the Sensi thermostat.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "http://www.emerson.com/en-us/Pages/terms-of-use.aspx",
+  "vendorId": "M3EMN6SAF2IB6W",
+  "vendorName": "Sensi WiFi Thermostat"
+}

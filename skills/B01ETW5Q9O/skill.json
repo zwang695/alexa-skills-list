@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01ETW5Q9O",
+  "averageRating": 5,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "To use the SmartThings Skill, try saying...\nAlexa, turn on the fan.\nAlexa, set the thermostat to 72.\nAlexa, dim bedroom light to 60%.\n\nUse the SmartThings Skill to control your smart devices with just the sound of your voice. It's as easy as asking Alexa to have SmartThings turn smart outlets and lights on or off, adjust dimmers, and set connected thermostats. \n\nSmartThings account and Hub required.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1461701443.974,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.2bdbc74f-ce4d-4e2d-b741-326c7ba358f0",
+  "imageAltText": "SmartThings icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01ETW5Q9O/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "SmartThings",
+  "numberOfReviews": 11,
+  "pamsPartnerId": "8oNrqJsxPRiXoU7lsBu1bbI7j",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.smartthings.com/privacy",
+  "shortDescription": "Alexa, turn on the table lamp.\n\nUse SmartThings to control your smart home. Switch on lights, change the temperature, or manage appliances with smart outlets.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "https://www.smartthings.com/terms",
+  "vendorId": "M25XHJDAAO8RHQ",
+  "vendorName": "SmartThings"
+}
