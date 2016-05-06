@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Ask My Buddy icon" width="36"> [Ask My Buddy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6cc3bc17-3a82-4353-b6e4-011774974ad0)
-![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 17
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 18
 
 To use the Ask My Buddy skill, try saying...
 
