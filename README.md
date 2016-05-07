@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 822
+**Total Skills Available:** 827
 
 ***
 
@@ -1401,6 +1401,14 @@ Computer Science is a quiz about computers and many more
 
 ***
 
+## &nbsp;<img src="skills/B01F6W1C8U/skill_icon" alt="Computer Trivia icon" width="36"> [Computer Trivia](skills/B01F6W1C8U)
+
+*Alexa launch fizz buzz*
+
+Are you are a developer looking to hone your software trivia skills to impress your coworkers?
+
+***
+
 ## &nbsp;<img src="skills/B01DR4ZFPK/skill_icon" alt="Computers Storified in Viking History by Floki icon" width="36"> [Computers Storified in Viking History by Floki](skills/B01DR4ZFPK)
 
 *Alexa, ask Floki to tell me something*
@@ -1680,6 +1688,14 @@ Performs day, week, month, and year calculations.
 *Alexa, ask DC Metro for the next train arriving at Columbia Heights*
 
 Gives Washington DC Metro light rail train arrival and departure times, as well as maintenance or incident reports.
+
+***
+
+## &nbsp;<img src="skills/B01EYZBO38/skill_icon" alt="DC Metro Tracker icon" width="36"> [DC Metro Tracker](skills/B01EYZBO38)
+
+*Alexa, ask Metro Tracker for the next orange line to Vienna from Metro Center*
+
+Get the most recent arrival times, estimated travel time, filter trains by line and direction, and more! Set a home station to make things even easier.
 
 ***
 
@@ -2725,6 +2741,14 @@ Haunted House provides a random scary sound to fill any moment with suspense.
 
 ***
 
+## &nbsp;<img src="skills/B01F6844R0/skill_icon" alt="Hawaiian Time icon" width="36"> [Hawaiian Time](skills/B01F6844R0)
+
+*Alexa, ask hawaiian time to tell me something*
+
+Going on vacation, missing Hawaii, or a long-term resident looking for more information about your beautiful state? Ask for Hawaii facts here.
+
+***
+
 ## &nbsp;<img src="skills/B01AMRXDYA/skill_icon" alt="HawkBus icon" width="36"> [HawkBus](skills/B01AMRXDYA)
 
 *Alexa, ask Hawk Bus about 7252*
@@ -3501,6 +3525,14 @@ Hear meal ideas that use basic, every day ingredients that you already have in y
 *Alexa, ask Meat Butler to help me prepare steak?*
 
 This butler tells the perfect internal temperature to achieve when cooking based on your meat and doneness preferences.
+
+***
+
+## &nbsp;<img src="skills/B01ENLLKK0/skill_icon" alt="MeditationFacts icon" width="36"> [MeditationFacts](skills/B01ENLLKK0)
+
+*Alexa launch Meditation Facts.*
+
+Facts about Meditation, Benefits of meditation for our health and wellness.
 
 ***
 
@@ -5708,6 +5740,14 @@ Returns tide information for a given city or state
 *Alexa, ask tide guide for the tides in Santa Barbara, California*
 
 This skill will give the tide report for most locations (city and state/country) with a NOAA station.
+
+***
+
+## &nbsp;<img src="skills/B01EXUZRSW/skill_icon" alt="Times for Caltrain icon" width="36"> [Times for Caltrain](skills/B01EXUZRSW)
+
+*Alexa, ask Times for Caltrain, when is the next train from Sunnyvale to Palo Alto?*
+
+An app for Bay Area commuters for getting Caltrain information regarding fare and next train between two stations.
 
 ***
 

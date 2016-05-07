@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Horror Trivia icon" width="36"> [Horror Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.54250ca1-05c7-4bcf-9374-08c4203a1585)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Horror Trivia skill, try saying...
 
