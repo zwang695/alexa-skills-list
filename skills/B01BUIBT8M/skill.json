@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BUIBT8M",
-  "averageRating": 4.5,
+  "averageRating": 4.4,
   "canDisable": true,
   "capabilities": null,
   "category": "Entertainment",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "pickup lines",
   "name": "PIckup Lines",
-  "numberOfReviews": 62,
+  "numberOfReviews": 63,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

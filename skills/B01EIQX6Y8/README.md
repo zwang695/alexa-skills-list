@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="TP-LINK Kasa icon" width="36"> [TP-LINK Kasa](http://alexa.amazon.com/#skills/amzn1.ask.skill.b4bf2b4d-5f4e-458b-a3b4-5e900cea5fd9)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 9
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the TP-LINK Kasa skill, try saying...
 
