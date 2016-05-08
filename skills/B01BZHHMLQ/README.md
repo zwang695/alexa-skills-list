@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Thermostat for Echo icon" width="36"> [Thermostat for Echo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.205961d2-4461-4407-9263-d9ab4fce6216)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 21
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 22
 
 To use the Thermostat for Echo skill, try saying...
 

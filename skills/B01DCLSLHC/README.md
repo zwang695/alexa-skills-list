@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Eventseeker icon" width="36"> [Eventseeker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b4f92e2d-0bb7-4eec-acaf-ce71268c4b02)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Eventseeker skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="MySomm icon" width="36"> [MySomm](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d7df4a7c-3f91-43e5-bf41-2e3851875429)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the MySomm skill, try saying...
 
