@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01EIQOOUS",
-  "averageRating": 5,
+  "averageRating": 4.8,
   "canDisable": false,
   "capabilities": null,
   "category": "CONNECTED_HOME",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Insteon",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": "INSTEON",
   "permissions": null,
   "privacyPolicyUrl": "http://insteon.com/support",
