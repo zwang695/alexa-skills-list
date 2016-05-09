@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 830
+**Total Skills Available:** 834
 
 ***
 
@@ -1663,7 +1663,7 @@ Get a thought to improve your bootcamp experience.
 
 *Alexa, open daily buzzword.*
 
-Reads the definition of the Merriam-Webster daily Buzzword from their website.
+Reads the definition of the Merriam-Webster daily Buzzword from their website with an optional example usage and quiz,
 
 ***
 
@@ -2096,6 +2096,14 @@ Facts about the White House in Washington, DC
 *Alexa, Open Fake Fact*
 
 You clearly found this just browsing around so its not like you have something better to do...
+
+***
+
+## &nbsp;<img src="skills/B01F6A6G7O/skill_icon" alt="Family History icon" width="36"> [Family History](skills/B01F6A6G7O)
+
+*Alexa, tell family history for me*
+
+Start with, 'Alexa, tell family history for me.' then drill back into your family history by saying, 'Father', 'Mother', or 'Spouse'.
 
 ***
 
@@ -3279,6 +3287,14 @@ Keeps count of life totals in Magic: The Gathering
 
 ***
 
+## &nbsp;<img src="skills/B01FC2IQ24/skill_icon" alt="Life Pro Tips for Reddit icon" width="36"> [Life Pro Tips for Reddit](skills/B01FC2IQ24)
+
+*Alexa ask life pro tips for the top post*
+
+The top submission from the last 24 hours from r/LifeProTips from Reddit.
+
+***
+
 ## &nbsp;<img src="skills/B017O9P72A/skill_icon" alt="LIFX icon" width="36"> [LIFX](skills/B017O9P72A)
 
 *Alexa, tell LIFX to turn my bedroom lights off*
@@ -4313,6 +4329,14 @@ Get fun facts about all things Piano!  This skill is loaded with many surprising
 *Alexa, open pickup lines*
 
 This skill simply tells the user a random  pickup line. The user can simply ask pickup line for a line, or start pickup lines.
+
+***
+
+## &nbsp;<img src="skills/B01F4XQ5NS/skill_icon" alt="Pico Fermi Bagel icon" width="36"> [Pico Fermi Bagel](skills/B01F4XQ5NS)
+
+*Alexa, Open Pico*
+
+Pico, short for Pico, Fermi, Bagel, is the secret number game that tests your logic skills. Alexa will pick a number that you must guess in order to win.
 
 ***
 
@@ -5948,6 +5972,14 @@ Use Translator for Alexa to translate English words and phrases into over 50 lan
 *Alexa, ask Trash Pickup if trash is picked up this week*
 
 Provides information regarding curbside collection holidays for Anne Arundel Co. Maryland. Just say "Alexa, ask Trash Pickup if trash is picked up this week."
+
+***
+
+## &nbsp;<img src="skills/B01EQXQVSQ/skill_icon" alt="Tricities Karaoke icon" width="36"> [Tricities Karaoke](skills/B01EQXQVSQ)
+
+*Alexa, ask Tricities Karaoke where can I sing tonight*
+
+Find local karaoke in the Tricities Washington.
 
 ***
 

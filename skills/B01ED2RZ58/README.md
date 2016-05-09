@@ -9,7 +9,8 @@ To use the Daily Buzzword skill, try saying...
 
 * *Alexa, start daily buzzword.*
 
-This skill reads out the definition of the Merriam-Webster Buzzword of the day from their wordcentral.com website. Optionally it reads out an example usage of the word.
+This skill reads out the definition of the Merriam-Webster Buzzword of the day from their wordcentral.com website. Optionally it reads out an example usage of the word and a quiz related to the word.
+In the quiz saying "The answer is B" for example, helps Alexa to hear better than just saying "B" on its own.
 This buzzword is more suitable for younger humanoids or those learning English.
 This skill is not written by Merriam-Webster so errors or omissions are probably my own.
 

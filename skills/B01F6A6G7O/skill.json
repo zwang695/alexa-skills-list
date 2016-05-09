@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "familysearch.org",
+    "lds.org",
+    "fsglobal.net"
+  ],
+  "asin": "B01F6A6G7O",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Social",
+  "description": "Start with, 'Alexa, tell family history for me.' then drill back into your family history by saying, 'Father', 'Mother', or 'Spouse'.  Requires a FamilySearch account available free at FamilySearch.org.  All data is retrieved from FamilySearch if something doesn't sound correct please correct the data at FamilySearch.org.\n\nSample Utterances:\n\nTo repeat the last persons you can say:\n repeat\n again\n say that again\n\nTo start or return to you, you can say:\n me\n for me\n start over\n\nTo hear about the persons father you cay say:\n father\n for father\n dad\n for dad\n pa\n for pa\n\nTo hear about the persons mother you cay say:\n mother\n for mother\n mom\n for mom\n ma\n for ma\n mum\n for mum\n\nTo hear about the persons spouse you cay say:\n spouse\n for spouse\n wife\n for wife\n husband\n for husband",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell family history for me",
+    "Mother",
+    "Father"
+  ],
+  "firstReleaseDate": 1462802917.079,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.e907ef35-93e3-4a73-99ef-b3d89d09f20b",
+  "imageAltText": "Family History icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01F6A6G7O/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "family history",
+  "name": "Family History",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "MWoUJoQDJIE8cOEuxoauTJ5Ht",
+  "permissions": null,
+  "privacyPolicyUrl": "https://familysearch.org/privacy",
+  "shortDescription": "Start with, 'Alexa, tell family history for me.' then drill back into your family history by saying, 'Father', 'Mother', or 'Spouse'.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M314ZQWU4TE3E1",
+  "vendorName": "Laynr"
+}
