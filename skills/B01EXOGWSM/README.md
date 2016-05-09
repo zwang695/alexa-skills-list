@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Human Body Quiz icon" width="36"> [Human Body Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3076d8ab-c84b-4391-9045-23908727e314)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Human Body Quiz skill, try saying...
 

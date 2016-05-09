@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 827
+**Total Skills Available:** 830
 
 ***
 
@@ -677,6 +677,14 @@ With Basket, it's easier than ever to find local sale prices for your favorite g
 *Alexa, ask battery boot  where to buy it?*
 
 Everything you need to know about the Battery Boot which is the best and only battery Boot for your  Echo.
+
+***
+
+## &nbsp;<img src="skills/B01F47C2WM/skill_icon" alt="BBN info icon" width="36"> [BBN info](skills/B01F47C2WM)
+
+*Alexa, ask BBN for some info*
+
+BBN info will give you some information about the Gospel. BBN is a Christian Broadcasting International Ministry. For more details visit us: www.bbnradio.org
 
 ***
 
@@ -2410,6 +2418,14 @@ Use Game Dice to have Alexa roll dice of various sizes for you.
 *Alexa, play Game Show*
 
 Play a game show with your Echo!
+
+***
+
+## &nbsp;<img src="skills/B01F28L3X2/skill_icon" alt="Gamer Quiz for Metal Gear Solid icon" width="36"> [Gamer Quiz for Metal Gear Solid](skills/B01F28L3X2)
+
+*Alexa, open metal gear quiz*
+
+Test your knowledge of Metal Gear Solid trivia.
 
 ***
 
@@ -5355,6 +5371,14 @@ With Superpower, you can get an interesting conversation topic to start an engag
 *Alexa, ask Surfable about Huntington Pier.*
 
 Get the surf reports for popular surfing spots in California.
+
+***
+
+## &nbsp;<img src="skills/B01F2QDKC6/skill_icon" alt="Sutter Health icon" width="36"> [Sutter Health](skills/B01F2QDKC6)
+
+*Alexa, open Sutter*
+
+Learn about different ways to improve your overall health via our new health tips skill, brought to you by Sutter Health. Say, "Open Sutter"
 
 ***
 

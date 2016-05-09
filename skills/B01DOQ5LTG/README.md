@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Chemistry Genie icon" width="36"> [Chemistry Genie](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9e7221db-ca2d-4dcc-a33b-392c74dc2f3a)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Chemistry Genie skill, try saying...
 
