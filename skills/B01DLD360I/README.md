@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Chicago Trains icon" width="36"> [Chicago Trains](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2d65d56d-0dbc-4fdd-ad48-8c8652595765)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Chicago Trains skill, try saying...
 

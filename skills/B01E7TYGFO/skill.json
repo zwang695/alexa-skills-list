@@ -5,7 +5,7 @@
     "auth.yonomi.co"
   ],
   "asin": "B01E7TYGFO",
-  "averageRating": 4.4,
+  "averageRating": 4,
   "canDisable": false,
   "capabilities": null,
   "category": "CONNECTED_HOME",
@@ -25,7 +25,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Yonomi",
-  "numberOfReviews": 6,
+  "numberOfReviews": 8,
   "pamsPartnerId": "QZVXyMF1NW8vSIVIRkbvq2NGG",
   "permissions": null,
   "privacyPolicyUrl": "http://www.yonomi.co/privacy.html",
