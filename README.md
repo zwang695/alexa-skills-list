@@ -440,6 +440,14 @@ Meet our new intern! He's so excited to be working at imperson that he can't sto
 
 ***
 
+## &nbsp;<img src="skills/B01F9QJ54G/skill_icon" alt="Artist Quotes icon" width="36"> [Artist Quotes](skills/B01F9QJ54G)
+
+*Alexa, open artist quote*
+
+Artist Way Quotes is a collection of inspirational quotes about rediscovering your creativity - quotes are from the book The Artist's Way by Julia Cameron.
+
+***
+
 ## &nbsp;<img src="skills/B01CXTNFUC/skill_icon" alt="Ask Cloud Ninja icon" width="36"> [Ask Cloud Ninja](skills/B01CXTNFUC)
 
 *Alexa, ask Cloud Ninja What's New*
@@ -5233,14 +5241,6 @@ Single Quote is an app for retrieving quote information on most widely traded eq
 *Alexa, begin site information*
 
 Ask Alexa to describe a website.
-
-***
-
-## &nbsp;<img src="skills/B01FG0CR54/skill_icon" alt="SKILL CIC testing livemetadata icon" width="36"> [SKILL CIC testing livemetadata](skills/B01FG0CR54)
-
-*Alexa, asdsad*
-
-A quick introductory description, which will be shown in the Alexa App in the main list of skills, along with the first exampl
 
 ***
 
