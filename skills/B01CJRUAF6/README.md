@@ -9,13 +9,9 @@ To use the Baby Stats skill, try saying...
 
 * *Alexa ask baby stats to get stats for today*
 
-Update: 4/28: You now have BabyStats on the GO!
-I've added the ability to view all of the stats that you have calculated. In order to do so you need to 2 things:
-1. Alexa, ask baby stats to get id. This will tell you your unique ID that is used to store the data.
-2. Navigate to https://babystatsapi.azurewebsites.net/viewer.html in any browser and enter the ID and click "Load".
-When you perform step 1, your Alexa mobile app will be provided a link to use as well and you could skip step 2.
+You now have BabyStats on the GO! You can use our mobile app in the Google Play or Amazon App store, or our Online Viewer from any browser.
 
-NOTE: There will be A LOT more enhancements coming out related to this in the coming months (Android, iOS apps, as well as a much, much better website), I just wanted to get something out there for everyone that has been patiently using the app for these couple months while I've been counting diapers. 
+Go to our website https://www.baby-stats.com/ and follow the links on the bottom of the page to navigate to the app store of your choosing or the Online Viewer.
 
 Our first baby boy is now born! No I don't mean this skill, I mean an actual baby! In our pre-natal classes we were told that doctors required you to track certain statistics for your baby for each day when it's an infant, and throughout the newborn phase every doctor asked "How many stools/wet diaper/feedings happened in that last 24 hours." We talked about putting a pen and paper by the changing station, but realized that it would be really easy if there was a Alexa skill that could do this. This skill is designed to do just what it says. Track stats for your baby, and be able to repeat them back to you. 
 
@@ -39,14 +35,13 @@ Alexa, ask baby stats when was the last poop
 Alexa, ask baby stats when was the last pee
 Alexa, ask baby stats what time was the last feeding
 Alexa, ask baby stats to get stats for February 27
-Alexa, ask baby stats to get stats for last Monday.
 Alexa, ask baby stats to get stats for this week
 
 Lastly, don't forget to say "Alexa, ask baby stats to set timezone" {pacific, eastern, or central} so that it counts the whole day. It currently defaults to pacific time, so otherwise it may switch over to a new day 3 hours late.
 
 If you want to view everything that you've tracked:
 1. Alexa, ask baby stats to get id. This will tell you your unique ID that is used to store the data.
-2. Navigate to http://babystatsapi.azurewebsites.net/viewer.html in any browser and enter the ID and click "Load" 
+2. Navigate to http://www.baby-stats.com/viewer.html in any browser and enter the ID and click "Load" 
 
 Happy baby tracking!
 
@@ -80,5 +75,5 @@ Alexa, ask baby stats to get id
 * **ASIN:** B01CJRUAF6
 * **Author:** cWix
 * **Release Date:** March 4, 2016 @ 04:59:25
-* **Privacy Policy:** http://babystatsapi.azurewebsites.net/privacy.html
+* **Privacy Policy:** https://www.baby-stats.com/privacy.html
 * **In-App Purchasing:** No

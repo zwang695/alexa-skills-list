@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 847
+**Total Skills Available:** 858
 
 ***
 
@@ -864,6 +864,14 @@ Bitcoin Rate provides the current value of 1BTC in your preferred base currency,
 
 ***
 
+## &nbsp;<img src="skills/B01FCNAMSE/skill_icon" alt="Bites & Snacks icon" width="36"> [Bites & Snacks](skills/B01FCNAMSE)
+
+*Alexa, ask bites and snacks for a snack*
+
+An Amazon Alexa skill to get a healthy snack idea to complement your daily nutrition plan.
+
+***
+
 ## &nbsp;<img src="skills/B01BKXW094/skill_icon" alt="Block World Trivia icon" width="36"> [Block World Trivia](skills/B01BKXW094)
 
 *"Alexa ask Block World Trivia."*
@@ -1563,6 +1571,14 @@ Retrieves a phrase or cryptic remark which can be used as a catalyst to generate
 
 ***
 
+## &nbsp;<img src="skills/B01F6Q1N4Y/skill_icon" alt="Cribbage Hand Counter icon" width="36"> [Cribbage Hand Counter](skills/B01F6Q1N4Y)
+
+*Alexa, open cribbage counter*
+
+Need to count up a cribbage hand?  Just tell Alexa your hand and she can add it up for you.
+
+***
+
 ## &nbsp;<img src="skills/B01DRWRFLO/skill_icon" alt="Cricket Fact Skill icon" width="36"> [Cricket Fact Skill](skills/B01DRWRFLO)
 
 *Alexa Open Cricket Geek*
@@ -2259,6 +2275,14 @@ Get to know your favorite Hearthstone cards better by having their flavor text r
 
 ***
 
+## &nbsp;<img src="skills/B01DJFM4FQ/skill_icon" alt="Flight Awards icon" width="36"> [Flight Awards](skills/B01DJFM4FQ)
+
+*Alexa, ask Flight Awards for Chicago to London*
+
+Ever wondered how many award miles you need to travel using miles in certain airline ?  Flight Awards can answer this for you quickly.
+
+***
+
 ## &nbsp;<img src="skills/B01C64OJXQ/skill_icon" alt="FlightSearch icon" width="36"> [FlightSearch](skills/B01C64OJXQ)
 
 *Alexa, Ask Flight Search*
@@ -2866,6 +2890,14 @@ This is an app called Teacher Zero Seven. It's a small trivia game that tests yo
 *Alexa, open Hipster Jokes.*
 
 The most hilarious skill you've probably never heard of.
+
+***
+
+## &nbsp;<img src="skills/B01EXZJXV4/skill_icon" alt="Hockey Master icon" width="36"> [Hockey Master](skills/B01EXZJXV4)
+
+*Alexa ask hockey master*
+
+To Know about Ice Hockey and Ice hockey history.
 
 ***
 
@@ -3857,6 +3889,14 @@ Get connected with the Official Website of the State of Mississippi, ms.gov. Jus
 
 ***
 
+## &nbsp;<img src="skills/B01F8BSE8U/skill_icon" alt="Multiples icon" width="36"> [Multiples](skills/B01F8BSE8U)
+
+*Alexa open multiples*
+
+Multiples is a multiplication quiz game. You are asked 5 multiplication questions. The levels range from 1x1 up to 100x100 depending on the level you set.
+
+***
+
 ## &nbsp;<img src="skills/B01CZM0U5U/skill_icon" alt="Multiplication Challenge icon" width="36"> [Multiplication Challenge](skills/B01CZM0U5U)
 
 *Alexa, ask Multiplication Challenge to start game*
@@ -4118,6 +4158,14 @@ This skill gives a nerdy pickup line when asked.
 *null*
 
 Alexa and Nest work together to help you set the perfect temperature - without having to lift a finger.
+
+***
+
+## &nbsp;<img src="skills/B01F9RSW4O/skill_icon" alt="New Musician icon" width="36"> [New Musician](skills/B01F9RSW4O)
+
+*Alexa, Launch New Musician*
+
+New Musician is a trivia skill that helps reinforce and teach basic music concepts and music reading to new music learners.
 
 ***
 
@@ -4756,6 +4804,14 @@ Raj's trivia pursuit tests your knowledge of how well you know him.
 
 ***
 
+## &nbsp;<img src="skills/B01FCN3EX4/skill_icon" alt="Random Facts icon" width="36"> [Random Facts](skills/B01FCN3EX4)
+
+*Alexa, open Random Facts*
+
+Just some random facts.
+
+***
+
 ## &nbsp;<img src="skills/B01EKJ16HM/skill_icon" alt="Random Muse icon" width="36"> [Random Muse](skills/B01EKJ16HM)
 
 *Alexa, ask Random Muse to give me an idea*
@@ -4881,6 +4937,14 @@ Don't know where to go for dinner tonight? Let Alexa help by providing local, hi
 *Alexa, ask RhymeZone what rhymes with banana?*
 
 Find rhymes, synonyms, related words, and adjectives for any word, and get help with crossword puzzle clues.
+
+***
+
+## &nbsp;<img src="skills/B01DOLY4LC/skill_icon" alt="Richard's One Piece Trivia icon" width="36"> [Richard's One Piece Trivia](skills/B01DOLY4LC)
+
+*Alexa, start One Piece Trivia*
+
+Richard's One Piece Trivia
 
 ***
 
@@ -5169,6 +5233,14 @@ Single Quote is an app for retrieving quote information on most widely traded eq
 *Alexa, begin site information*
 
 Ask Alexa to describe a website.
+
+***
+
+## &nbsp;<img src="skills/B01FG0CR54/skill_icon" alt="SKILL CIC testing livemetadata icon" width="36"> [SKILL CIC testing livemetadata](skills/B01FG0CR54)
+
+*Alexa, asdsad*
+
+A quick introductory description, which will be shown in the Alexa App in the main list of skills, along with the first exampl
 
 ***
 
@@ -6592,6 +6664,14 @@ Trivia game about whales
 
 ***
 
+## &nbsp;<img src="skills/B01E372OSQ/skill_icon" alt="What's My Sign icon" width="36"> [What's My Sign](skills/B01E372OSQ)
+
+*Alexa, ask what's my sign for Sagittarius*
+
+A daily horoscope.
+
+***
+
 ## &nbsp;<img src="skills/B01EJ1IL5Q/skill_icon" alt="Wheel of the Year icon" width="36"> [Wheel of the Year](skills/B01EJ1IL5Q)
 
 *Alexa, open Wheel of the Year and ask for information on Samhain.*
@@ -6661,6 +6741,14 @@ This skill will tell you some interesting, obscure and fascinating facts about w
 *Alexa, play Wine Trivia*
 
 Random wine trivia fact game
+
+***
+
+## &nbsp;<img src="skills/B01EBUEN0M/skill_icon" alt="wineMate icon" width="36"> [wineMate](skills/B01EBUEN0M)
+
+*Alexa, ask wine mate what wine goes with bacon?*
+
+Find the perfect wine for a type of food, or vice versa.
 
 ***
 
