@@ -9,7 +9,7 @@ To use the Trivia for the Star Wars Universe skill, try saying...
 
 * *repeat.*
 
-Trivia questions for the Star Wars Universe!
+C-3PO Presents: Trivia questions for the Star Wars Universe!
 
 ***
 

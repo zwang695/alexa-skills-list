@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Games",
-  "description": "Trivia questions for the Star Wars Universe!",
+  "description": "C-3PO Presents: Trivia questions for the Star Wars Universe!",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, Open trivia for star wars",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Jar-Jar Binks Presents: Trivia for the Star Wars Universe",
+  "shortDescription": "C-3PO Presents: Trivia for the Star Wars Universe",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Domain Name Info icon" width="36"> [Domain Name Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.286182e3-a8f3-4af9-b98a-f7b4cae8c6de)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Domain Name Info skill, try saying...
 

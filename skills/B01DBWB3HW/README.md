@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Name That Song Trivia icon" width="36"> [Name That Song Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.55436111-f886-4f48-aa7a-4fb8833edc57)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Name That Song Trivia skill, try saying...
 

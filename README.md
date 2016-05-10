@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 835
+**Total Skills Available:** 847
 
 ***
 
@@ -301,6 +301,14 @@ Alexa added skill to ask American Basketball Trivia
 *Alexa ask american history quiz*
 
 This test asks basic facts about the United States of America.
+
+***
+
+## &nbsp;<img src="skills/B01F601P7A/skill_icon" alt="American History Quiz icon" width="36"> [American History Quiz](skills/B01F601P7A)
+
+*Alexa, launch American History Quiz*
+
+History Quiz
 
 ***
 
@@ -693,6 +701,14 @@ BBN info will give you some information about the Gospel. BBN is a Christian Bro
 *Alexa, tell Bean Jar to add ten points to Gryffindor*
 
 Manage a family or group rewards system, keeps track of points like a virtual "bean jar" for motivation.  See beanjar.net
+
+***
+
+## &nbsp;<img src="skills/B01EXNU2EI/skill_icon" alt="beans5 icon" width="36"> [beans5](skills/B01EXNU2EI)
+
+*Alexa, ask how many beans make five*
+
+This skill is an absolute must have for anybody who is unsure how many beans make five. An old English phrase past down through generations of cultured Brits.
 
 ***
 
@@ -1409,6 +1425,14 @@ Computer Science is a quiz about computers and many more
 
 ***
 
+## &nbsp;<img src="skills/B01EX7A1TA/skill_icon" alt="Computer Trivia icon" width="36"> [Computer Trivia](skills/B01EX7A1TA)
+
+*Alexa, launch computer trivia*
+
+A game of trivia with questions on the topic of computers
+
+***
+
 ## &nbsp;<img src="skills/B01F6W1C8U/skill_icon" alt="Computer Trivia icon" width="36"> [Computer Trivia](skills/B01F6W1C8U)
 
 *Alexa launch fizz buzz*
@@ -1454,6 +1478,14 @@ A constitutional law quiz game
 *Alexa, open Conversation Starter*
 
 Conversation Starter is a great way to get suggested conversation topics for you and your friends.
+
+***
+
+## &nbsp;<img src="skills/B01ETUQYIS/skill_icon" alt="ConvertCurrency icon" width="36"> [ConvertCurrency](skills/B01ETUQYIS)
+
+*Alexa, ask currency converter to convert ten united states dollar to indian rupee*
+
+Convert world currency.
 
 ***
 
@@ -2981,6 +3013,14 @@ The most affordable, complete, connected home solution
 
 ***
 
+## &nbsp;<img src="skills/B01F4D86US/skill_icon" alt="Insult Skill icon" width="36"> [Insult Skill](skills/B01F4D86US)
+
+*Alexa, open insults*
+
+Alexa insults you!
+
+***
+
 ## &nbsp;<img src="skills/B01AVKAZ94/skill_icon" alt="InsultiBot icon" width="36"> [InsultiBot](skills/B01AVKAZ94)
 
 *"Alexa, open InsultiBot"*
@@ -3114,6 +3154,14 @@ Jim Rockford's Answering Machine
 *Alexa, ask Jokes Plus Plus for a computer science joke.*
 
 An expansion of Alexa's cheesy jokes for all you CS majors out there.
+
+***
+
+## &nbsp;<img src="skills/B01EGDRMWU/skill_icon" alt="Just Energy icon" width="36"> [Just Energy](skills/B01EGDRMWU)
+
+*Alexa, ask Just Energy for my bill details*
+
+Allows Just Energy customers to get bill details and ask for random energy fact
 
 ***
 
@@ -3798,6 +3846,14 @@ The skill may not be suitable for all ages.
 *Alexa, ask Mr. Junky Food what to eat today.*
 
 Daily recommendations from Mr Junky Food for chocolate and candy lovers.
+
+***
+
+## &nbsp;<img src="skills/B01E62XCZC/skill_icon" alt="ms.gov icon" width="36"> [ms.gov](skills/B01E62XCZC)
+
+*Alexa, ask Mississippi for a random fact*
+
+Get connected with the Official Website of the State of Mississippi, ms.gov. Just "Ask Mississippi" and let Alexa lead the way.
 
 ***
 
@@ -4668,6 +4724,14 @@ Hear a random quote
 
 ***
 
+## &nbsp;<img src="skills/B01FA2IPHC/skill_icon" alt="Quotes from Charles Fillmore icon" width="36"> [Quotes from Charles Fillmore](skills/B01FA2IPHC)
+
+*Alexa, Ask Papa Charlie*
+
+This is a skill that allows you to ask Alexa for quotes from Charles Fillmore. Simply enable the skill and ask Papa Charlie for a quote.
+
+***
+
 ## &nbsp;<img src="skills/B019R0JRDE/skill_icon" alt="QVine icon" width="36"> [QVine](skills/B019R0JRDE)
 
 *Alexa, ask QVine, when is the next quarterly meeting?*
@@ -5060,11 +5124,27 @@ Shower Thoughts are itty-bitty witty bite-sized clever thoughts. This skill will
 
 ***
 
+## &nbsp;<img src="skills/B01F5K9BZ4/skill_icon" alt="Shower Thoughts for Reddit icon" width="36"> [Shower Thoughts for Reddit](skills/B01F5K9BZ4)
+
+*Alexa ask shower thoughts for the top post*
+
+Shower Thoughts from the subreddit r/ShowerThoughts
+
+***
+
 ## &nbsp;<img src="skills/B01CJU8G0E/skill_icon" alt="Silly Winnie icon" width="36"> [Silly Winnie](skills/B01CJU8G0E)
 
 *Alexa, ask Silly Winnie for a joke*
 
 Winnie the silly mastiff puppy loves to tell kid friendly jokes!
+
+***
+
+## &nbsp;<img src="skills/B01EQGWHK4/skill_icon" alt="SilverBug icon" width="36"> [SilverBug](skills/B01EQGWHK4)
+
+*Alexa, ask silverbug what's the price of Silver?*
+
+This application can be used to lookup the price of Silver, Gold, and Bitcoin.
 
 ***
 
@@ -5081,6 +5161,14 @@ Take charge of your Simple Control automated home using nothing more than your v
 *Alexa, ask Single Quote for the price of AMZN*
 
 Single Quote is an app for retrieving quote information on most widely traded equities.
+
+***
+
+## &nbsp;<img src="skills/B01F2L0IBM/skill_icon" alt="Site Information icon" width="36"> [Site Information](skills/B01F2L0IBM)
+
+*Alexa, begin site information*
+
+Ask Alexa to describe a website.
 
 ***
 
@@ -6091,7 +6179,7 @@ Trivia for The George Washington University
 
 *Alexa, Open trivia for star wars*
 
-Jar-Jar Binks Presents: Trivia for the Star Wars Universe
+C-3PO Presents: Trivia for the Star Wars Universe
 
 ***
 
@@ -6300,6 +6388,14 @@ Unicorns are more than mythical creatures! Test your knowledge of $1 billion com
 *Alexa, launch Immigration Quiz*
 
 This is a quiz game that tests users on their knowledge of general U.S. civics questions.
+
+***
+
+## &nbsp;<img src="skills/B01FCGJMF0/skill_icon" alt="Unstuck icon" width="36"> [Unstuck](skills/B01FCGJMF0)
+
+*Alexa ask Unstuck for a question*
+
+Get a random brainstorming prompt
 
 ***
 

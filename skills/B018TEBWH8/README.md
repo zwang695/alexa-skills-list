@@ -11,9 +11,16 @@ To use the The Rabbi skill, try saying...
 
 Gives you the start and end times for Shabbos by city, the Hebrew (Jewish) date for today, tomorrow, any day this week or next (ie:a week from today), and the Torah portion of this week.
 
-The Rabbi v1.2.0 release notes
+The Rabbi v1.3.0 release notes
 
-NEW! 
+NEW! SEFIRAT HAOMER - The Counting of the Omer
+"Alexa, ask the Rabbi for the Omer" will give you last night's count and display tonight's count on the card in the Alexa app.
+
+Switched to Chabad.org API for Torah readings and added weekday Holiday readings and Haftarot.
+
+Now when you "Ask the Rabbi for the KRIAH" you will get the next Holiday reading and when you "Ask the Rabbi for the Parshah" you will get the Torah and Haftarah readings for the coming Shabbat.
+
+Ver 1.2.0
 Added features:
 You can now
 	Ask The Rabbi for Shabbos times in 2 weeks (or any future date ie: in 3 weeks or 2 months from now, etc)
@@ -22,7 +29,7 @@ You can now
 	Ask The Rabbi for the Yom ("Hayom Yom" The Lubavitcher Rebbe’s Daily Calendar Thoughts)
 
 NEW FOR THIS PESACH!
-	Ask The Rabbi to sell my Chometz.
+	"Alexa, ask The Rabbi to sell my Chometz"
 
 Improvements:
 When asking for Shabbos Candle Lighting time there is now a URL on the Card in the Alexa App/WebApp with a link to our site that gives a step by step guide for lighting Shabbos Candles with Video.
@@ -36,9 +43,7 @@ More features to come, we'd appreciate your suggestions: torah4elli@gmail.com
 
 Credits:
 Created by and developed in partnership with Elli Meyer and Brad Napoliello 
-Powered by Chabad.org 
-
-Thanks to www.HebCal.com for use of the Parsha API!
+Powered by Chabad.org
 
 ***
 
