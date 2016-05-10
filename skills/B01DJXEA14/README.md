@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="BoxOffice icon" width="36"> [BoxOffice](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b61ea984-cb40-451b-bfaf-62ec8e9f8209)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the BoxOffice skill, try saying...
 

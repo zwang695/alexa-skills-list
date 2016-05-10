@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Costa Rica News icon" width="36"> [Costa Rica News](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2b198ff5-0024-40b7-9d43-3cd494a11a2e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Costa Rica News skill, try saying...
 

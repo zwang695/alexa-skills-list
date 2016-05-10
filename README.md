@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 834
+**Total Skills Available:** 835
 
 ***
 
@@ -3114,6 +3114,14 @@ Jim Rockford's Answering Machine
 *Alexa, ask Jokes Plus Plus for a computer science joke.*
 
 An expansion of Alexa's cheesy jokes for all you CS majors out there.
+
+***
+
+## &nbsp;<img src="skills/B01EILLOXI/skill_icon" alt="KAYAK icon" width="36"> [KAYAK](skills/B01EILLOXI)
+
+*Alexa, ask KAYAK how much it costs to fly from New York to Boston*
+
+Alexa + KAYAK = hands-free travel planning. Get information on flights, hotels & rental cars. Hear flight status updates, destination suggestions & more.
 
 ***
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="BBN info icon" width="36"> [BBN info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.881c2d8b-baa2-4f26-80f1-a476a8287fce)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the BBN info skill, try saying...
 
