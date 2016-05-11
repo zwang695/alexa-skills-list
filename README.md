@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 862
+**Total Skills Available:** 864
 
 ***
 
@@ -1017,6 +1017,14 @@ https://en.wikipedia.org/wiki/Bulls_and_Cows
 
 ***
 
+## &nbsp;<img src="skills/B01E4FC2P2/skill_icon" alt="Butterfleye icon" width="36"> [Butterfleye](skills/B01E4FC2P2)
+
+*Alexa, ask Butterfly Demo for events from today.*
+
+Gives you the events Butterfleye demo camera has on a particular day. For example you can ask: "Alexa, ask Butterfly Demo for events from today".
+
+***
+
 ## &nbsp;<img src="skills/B01ASDX8QG/skill_icon" alt="Calculator icon" width="36"> [Calculator](skills/B01ASDX8QG)
 
 *Alexa, ask calculator for nine plus five.*
@@ -1422,6 +1430,14 @@ Comedy Dog is here to entertain you with a series of excellent jokes.
 *"Alexa, open CompliBot"*
 
 CompliBot is your best bud.  It wants nothing more than to make your day a little bit better.
+
+***
+
+## &nbsp;<img src="skills/B01EZ58MDM/skill_icon" alt="Computer Facts icon" width="36"> [Computer Facts](skills/B01EZ58MDM)
+
+*Alexa, open computer facts*
+
+Computer facts told to you by a computer who could ask for more
 
 ***
 
