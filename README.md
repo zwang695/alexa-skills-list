@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 860
+**Total Skills Available:** 862
 
 ***
 
@@ -4361,6 +4361,14 @@ Get a fun hockey fact from a grab-bag of trivia about the sport that uses a stic
 
 ***
 
+## &nbsp;<img src="skills/B01FE8DEEG/skill_icon" alt="Pep Trivia icon" width="36"> [Pep Trivia](skills/B01FE8DEEG)
+
+*Alexa, launch Pep Trivia*
+
+Pep Trivia is  a Trivia Game that is fun to play
+
+***
+
 ## &nbsp;<img src="skills/B019HTWWW8/skill_icon" alt="Perfect Pitch icon" width="36"> [Perfect Pitch](skills/B019HTWWW8)
 
 *Alexa, Open Perfect Pitch.*
@@ -5531,6 +5539,14 @@ Have Alexa fetch stock quotes for you....
 *Alexa, Ask Stone Ridge Food what are they serving today*
 
 Tells users the Stone Ridge School's entree menu for a given day
+
+***
+
+## &nbsp;<img src="skills/B01EMNHT1S/skill_icon" alt="StreamBot for Twitch icon" width="36"> [StreamBot for Twitch](skills/B01EMNHT1S)
+
+*Alexa, ask Streambot what's featured on Twitch*
+
+Ask Alexa for some featured streams or top streams for a game on Twitch.tv
 
 ***
 
