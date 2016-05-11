@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Home Control Assistant icon" width="36"> [Home Control Assistant](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef3e0047-0258-44ad-a2c6-4b8792813b35)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Home Control Assistant skill, try saying...
 
