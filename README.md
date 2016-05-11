@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 858
+**Total Skills Available:** 860
 
 ***
 
@@ -2909,6 +2909,14 @@ To Know about Ice Hockey and Ice hockey history.
 
 ***
 
+## &nbsp;<img src="skills/B01EKJX3M8/skill_icon" alt="Home Control Assistant icon" width="36"> [Home Control Assistant](skills/B01EKJX3M8)
+
+*null*
+
+The HCA Skill lets you control devices, programs, and groups in your home using the HCA server
+
+***
+
 ## &nbsp;<img src="skills/B01DEC893A/skill_icon" alt="HomeAdvisor icon" width="36"> [HomeAdvisor](skills/B01DEC893A)
 
 *Alexa, ask home advisor to find me a plumber.*
@@ -5315,6 +5323,14 @@ Answer questions to find out which of the four Hogwarts houses you belong!
 *Alexa ask sound effects, to play the world's smallest violin*
 
 Sound Effects is the perfect way to fill an awkward silence, spice up a boring moment, or add comedic value to a situation.
+
+***
+
+## &nbsp;<img src="skills/B01FEN0VY2/skill_icon" alt="Sour Dough icon" width="36"> [Sour Dough](skills/B01FEN0VY2)
+
+*Alexa ask sour dough how do i make bread*
+
+A list of sour dough recipes
 
 ***
 

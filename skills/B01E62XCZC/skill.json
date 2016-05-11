@@ -4,7 +4,7 @@
     "uat.msi.ms.gov"
   ],
   "asin": "B01E62XCZC",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": "Reference",
@@ -24,7 +24,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "mississippi",
   "name": "ms.gov",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "F7nTDI1uTPGODJAMsuaZVOBit",
   "permissions": null,
   "privacyPolicyUrl": "https://www.ms.gov/content/Pages/Privacy.aspx",

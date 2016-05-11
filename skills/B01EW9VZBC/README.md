@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Richmond Trivia Game icon" width="36"> [Richmond Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3192747d-c299-4fde-948c-b592baedc629)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Richmond Trivia Game skill, try saying...
 

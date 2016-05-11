@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01EKJX3M8",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "The Home Control Assistant is a full featured Home Automation application. This skill is the voice interface to the HCA Server running in your home. Using HCA you can control, program, and schedule lights and appliances using many popular automation protocols. \n\nUnlike other home control systems, HCA is designed not to just control your home but also to program it. You don't need to accept the simple \"control a device\" using voice offered by some automation solutions. Using HCA you can create an automation solution that responds to your needs by combining multiple device in complex scenarios involving events, time, location, state of the home, etc. into one program. These programs express your intent of how your installation should work.\n\nIn addition to voice control, HCA offers clients for the iPad, iPhone, Android devices, and WIndows. With these client applications you are not locked into an application that displays as it wants to. You can create the page structure you see when interacting with the HCA client on your mobile device.  This can be configured on a device-by-device basis and on a user-by-user basis.  For some users, the display can show a complete set of pages for each room. For other users it can display a smaller set of only selected devices. For least technical users you can create a simple keypad like interface that offers only those actions you want to make available for them.\n\nIn one inclusive package HCA provides for creation and operation of simple to complex automation designs. \n\nThe top 20 feature list:\n\n1. Integrates Insteon, UPB, and other power line technologies\n2. Supports IP addressed IR interfaces\n3. Supports whole-house wireless\n4. Can be used in a client-server mode with multiple simultaneous read-write clients for complete local and remote access to design\n5. Amazon Alexa interaction\n6. Clients for Windows, Android, and iOS\n7. Visual tools for scheduling and programming\n8. Unlimited number of programs to respond to events. Constructed in a graphical manner from over 60 different actions\n9. Supports text based scripts in any scripting language that can utilize the extensive HCA object model\n10. Control interface creates a simplified control oriented user interface\n11. Integrate into the HCA user Interface views of other applications: security, power management, and cameras using HTML views\n12. Send email and SMS messages as part of a program action\n13. Create and view Insteon scenes in a graphical manner and remotely program those scenes into Insteon devices\n14. Bridge power line technologies by using multiple power line interfaces simultaneously. Create bridge maps to automatically translate between different technology commands\n15. Integrates weather data from a variety of sources\n16. Powerful \"whole house modes\" for quick power saving programming\n17. Background design checker quickly locate design problems\n18. Configurable Alert Mechanism for handling exceptional conditions\n19. Many tools for creating, viewing, modifying, and documenting the design\n20. HCA is well documented in extensive User Guide and Video series.\n\nDownload a no-cost 30 day evaluation from www.HCATech.com",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1462921692.751,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.ef3e0047-0258-44ad-a2c6-4b8792813b35",
+  "imageAltText": "Home Control Assistant icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01EKJX3M8/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Home Control Assistant",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "hH89TWGvzhNnqx5mGGoxeu8YT",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.hcatech.com/privacy.php",
+  "shortDescription": "The HCA Skill lets you control devices, programs, and groups in your home using the HCA server",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1GEXYFX81VEGO",
+  "vendorName": "Advanced Quonset Technology, Inc"
+}

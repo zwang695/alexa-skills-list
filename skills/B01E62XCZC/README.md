@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="ms.gov icon" width="36"> [ms.gov](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f437420d-8cd9-406d-9dce-e3333800baac)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the ms.gov skill, try saying...
 
