@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 874
+**Total Skills Available:** 877
 
 ***
 
@@ -952,6 +952,14 @@ Fun trivia about alcohol to impress your friends
 
 ***
 
+## &nbsp;<img src="skills/B01DMUFDOW/skill_icon" alt="Boston T-time icon" width="36"> [Boston T-time](skills/B01DMUFDOW)
+
+*Alexa, Ask Boston T-time when the next sixty nine bus will arrive at stop one four one nine*
+
+Use Alexa to find then next MBTA bus at your stop. Stop ID can found on the Bus-stop road sign.
+
+***
+
 ## &nbsp;<img src="skills/B01CDLJ3CO/skill_icon" alt="Boston Transit icon" width="36"> [Boston Transit](skills/B01CDLJ3CO)
 
 *Alexa, ask Boston Transit when the next train to South Station gets in to Kendall*
@@ -1891,6 +1899,14 @@ Do you like Dinosaurs? Of course you down. Enable this skill to learn even MORE 
 
 ***
 
+## &nbsp;<img src="skills/B01FCLLKNW/skill_icon" alt="Discover Artist icon" width="36"> [Discover Artist](skills/B01FCLLKNW)
+
+*Alexa, ask Discover Artist to find me a new artist*
+
+Discover a new artist every day
+
+***
+
 ## &nbsp;<img src="skills/B01DAKTXMM/skill_icon" alt="Doc Rogers icon" width="36"> [Doc Rogers](skills/B01DAKTXMM)
 
 *Alexa, ask Doc Rogers why I'm happy today.*
@@ -2773,9 +2789,9 @@ Guide for ARK
 
 ***
 
-## &nbsp;<img src="skills/B01E9DQ83G/skill_icon" alt="Guide for the GVSU Technology Showcase icon" width="36"> [Guide for the GVSU Technology Showcase](skills/B01E9DQ83G)
+## &nbsp;<img src="skills/B01F23S8HG/skill_icon" alt="Guide for the GVSU Technology Showcase icon" width="36"> [Guide for the GVSU Technology Showcase](skills/B01F23S8HG)
 
-*Alexa, ask GV Tech Showcase to tell me something*
+*Alexa, ask Tech Showcase to tell me something*
 
 Take a guided tour of the GVSU Technology Showcase or ask for a description of a particular exhibit.
 
@@ -4246,6 +4262,14 @@ Alexa and Nest work together to help you set the perfect temperature - without h
 *Alexa, Launch New Musician*
 
 New Musician is a trivia skill that helps reinforce and teach basic music concepts and music reading to new music learners.
+
+***
+
+## &nbsp;<img src="skills/B01FEOD3DW/skill_icon" alt="New Parent Quiz icon" width="36"> [New Parent Quiz](skills/B01FEOD3DW)
+
+*Alexa launch New Parent Quiz*
+
+This skill is a quiz to encourage new parents and provide tips on parenting around some not so well known facts
 
 ***
 

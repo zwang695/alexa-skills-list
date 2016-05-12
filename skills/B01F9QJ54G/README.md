@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Artist Quotes icon" width="36"> [Artist Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.af8615c0-07a4-4153-a325-7ef0f5e35d59)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Artist Quotes skill, try saying...
 
