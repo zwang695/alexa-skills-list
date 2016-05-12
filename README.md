@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 864
+**Total Skills Available:** 870
 
 ***
 
@@ -1008,6 +1008,14 @@ Trivia about the world's most amazing couple! You cannot live without this skill
 
 ***
 
+## &nbsp;<img src="skills/B01EPE8HCE/skill_icon" alt="Bug Tracker icon" width="36"> [Bug Tracker](skills/B01EPE8HCE)
+
+*Alexa, ask Bug Tracker what is the status for ticket CAMEL 1099?*
+
+An integration between Alexa and the Atlassian Jira tracking system. Using Jira restful API,  gets the most up to date information of a Jira ticket.
+
+***
+
 ## &nbsp;<img src="skills/B01AH2Q7T8/skill_icon" alt="Bulls and Cows game icon" width="36"> [Bulls and Cows game](skills/B01AH2Q7T8)
 
 *Alexa, tell Bulls Cows to start a game*
@@ -1358,6 +1366,14 @@ Play this trivia game to test how well you know U.S. cities.
 *Alexa, ask CivicMinding for the Democrat delegate count?*
 
 stay informed. get involved.
+
+***
+
+## &nbsp;<img src="skills/B01FGG0ONU/skill_icon" alt="Civil War Buff icon" width="36"> [Civil War Buff](skills/B01FGG0ONU)
+
+*Alexa, Open Civil War Buff*
+
+Learn more about the Civil War with Alexa!
 
 ***
 
@@ -3840,6 +3856,14 @@ Talk to your car with the Amazon Echo skill by Mojio. Connect your Alexa and Moj
 
 ***
 
+## &nbsp;<img src="skills/B01FGYHZTS/skill_icon" alt="Mormon Facts icon" width="36"> [Mormon Facts](skills/B01FGYHZTS)
+
+*Alexa, Open Mormon Facts*
+
+Have Alexa tell you basic Mormon facts and beliefs.
+
+***
+
 ## &nbsp;<img src="skills/B01E69Q158/skill_icon" alt="Mormon Trivia icon" width="36"> [Mormon Trivia](skills/B01E69Q158)
 
 *Alexa, launch Mormon Trivia*
@@ -4697,6 +4721,14 @@ Cute pugs shoved straight into your ears.
 *Alexa ask Puget Sound what is the ferry status in Clinton*
 
 A way to find local information in the Washington State Puget Sound area.
+
+***
+
+## &nbsp;<img src="skills/B01EW0F2WE/skill_icon" alt="purple trivia icon" width="36"> [purple trivia](skills/B01EW0F2WE)
+
+*Alexa, start purple trivia*
+
+This is the purple one's Trivia game built with the help of Reindeer Games template.
 
 ***
 
@@ -6087,6 +6119,14 @@ Historical Facts picked for today!
 
 ***
 
+## &nbsp;<img src="skills/B01F9VJXL6/skill_icon" alt="Today's Ten icon" width="36"> [Today's Ten](skills/B01F9VJXL6)
+
+*Alexa, open Today's Ten*
+
+Have Alexa read you Business Insider's daily lists of tech and world events
+
+***
+
 ## &nbsp;<img src="skills/B01EETC1J0/skill_icon" alt="Token Price for WoW icon" width="36"> [Token Price for WoW](skills/B01EETC1J0)
 
 *Alexa, ask cue token for the price*
@@ -6316,6 +6356,14 @@ A Donald Trump Trivia Quiz.   If you like Donald Trump please rate this skill.
 *"Alexa, Launch Air Force Trivia"*
 
 Trivia about the United States Air Force
+
+***
+
+## &nbsp;<img src="skills/B01FA1KB4S/skill_icon" alt="Trivia Game for Disney icon" width="36"> [Trivia Game for Disney](skills/B01FA1KB4S)
+
+*Alexa, start trivia for disney*
+
+This is a Trivia Game for Disney. Are you a disney fan? Want to test your knowledge about disney, or just want to have some fun, this skill is for you.
 
 ***
 
