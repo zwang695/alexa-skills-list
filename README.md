@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 870
+**Total Skills Available:** 874
 
 ***
 
@@ -1246,6 +1246,14 @@ Chef helps you in the kitchen! Find weights of various volumes of ingredients (u
 *Alexa, ask the chemistry genie to start game*
 
 Chemistry Genie helps students to revise their knowledge of the elements in the periodic table.
+
+***
+
+## &nbsp;<img src="skills/B01EO2Y05A/skill_icon" alt="ChessOpeningHelper icon" width="36"> [ChessOpeningHelper](skills/B01EO2Y05A)
+
+*Alexa, open Chess Opening Helper*
+
+Help with remember chess openings.
 
 ***
 
@@ -2853,6 +2861,14 @@ Alexa sings (raps?) Happy Birthday! Tell your Echo the name of the lucky birthda
 
 ***
 
+## &nbsp;<img src="skills/B01FFZPXE2/skill_icon" alt="Happy Marriage Helper icon" width="36"> [Happy Marriage Helper](skills/B01FFZPXE2)
+
+*Alexa, ask happy marriage helper do I need patience?*
+
+Do you know some of the ingredients to a Happy Marriage?  See if Alexa can help!
+
+***
+
 ## &nbsp;<img src="skills/B01D37YLXI/skill_icon" alt="Haunted House icon" width="36"> [Haunted House](skills/B01D37YLXI)
 
 *Alexa open, Haunted House*
@@ -3685,6 +3701,14 @@ Boston MBTA helper
 *Alexa, ask meal idea to tell me a meal idea*
 
 Hear meal ideas that use basic, every day ingredients that you already have in your pantry or fridge.
+
+***
+
+## &nbsp;<img src="skills/B01FJOYG06/skill_icon" alt="Meal Recommendations icon" width="36"> [Meal Recommendations](skills/B01FJOYG06)
+
+*Alexa, ask Meal Recommendations what I should eat*
+
+Suggests random meals, food or dishes.
 
 ***
 
@@ -6757,6 +6781,14 @@ Fun Facts about the State of West Virginia
 *Alexa, ask whale trivia for a new game.*
 
 Trivia game about whales
+
+***
+
+## &nbsp;<img src="skills/B01FG36DF6/skill_icon" alt="What does your startup do? icon" width="36"> [What does your startup do?](skills/B01FG36DF6)
+
+*Alexa ask startup generator to What does your startup do*
+
+Wait, what does your startup do?
 
 ***
 
