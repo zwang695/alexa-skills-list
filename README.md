@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 877
+**Total Skills Available:** 880
 
 ***
 
@@ -2040,6 +2040,14 @@ Control your ecobee thermostat using your Amazon Alexa.
 *Alexa, tell me an Edgar fact.*
 
 Edgar Facts is for anyone who loves Edgar the dog and can't get enough of that adorable bugg. Brighten your day with fun facts about Edgar!
+
+***
+
+## &nbsp;<img src="skills/B01FBGJY04/skill_icon" alt="Egg Master icon" width="36"> [Egg Master](skills/B01FBGJY04)
+
+*Alexa, ask Egg Master how to cook a poached egg*
+
+Learn different cooking styles for eggs with this simple Alexa skill. Impress your friends and family at brunch! Egg-cellent!
 
 ***
 
@@ -5140,6 +5148,14 @@ S.L.P. Praxis Review is an interactive voice activated flashcard skill for the S
 
 ***
 
+## &nbsp;<img src="skills/B01FGZQYRG/skill_icon" alt="Safe to Eat Cooking Temperatures icon" width="36"> [Safe to Eat Cooking Temperatures](skills/B01FGZQYRG)
+
+*Alexa, ask safe to eat what temperature should I cook fish to?*
+
+Check what is the minimal internal temperature to cook your food to according to foodsafety.gov.
+
+***
+
 ## &nbsp;<img src="skills/B01DKPAC5Y/skill_icon" alt="Safety Tips Games icon" width="36"> [Safety Tips Games](skills/B01DKPAC5Y)
 
 *Alexa, ask Safety Guy*
@@ -5723,6 +5739,14 @@ Learn quick facts about Sweden.
 *Alexa, start Syfy.*
 
 Syfy lets you connect to your favorite Syfy shows with the power of your voice. Get recaps, previews, and schedule information. What happens next on 12 Monkeys?
+
+***
+
+## &nbsp;<img src="skills/B01FIT0UZM/skill_icon" alt="TDV (Teen Dating Violence) Info icon" width="36"> [TDV (Teen Dating Violence) Info](skills/B01FIT0UZM)
+
+*Alexa, ask teen dating violence info for the fact of the day*
+
+Get a fact of the day about teen dating violence. Brought to you by Jennifer Ann's Group, the nonprofit charity who also made TDV Quiz for Alexa!
 
 ***
 
