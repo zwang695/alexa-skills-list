@@ -137,7 +137,7 @@ Abra is a character-guessing game. Think of a character, real or fictional, and 
 
 *Alexa, start AccuWeather.*
 
-Stay connected to the latest in weather forecasting with AccuWeather – Weather for Life. Ask for weather alerts, sunrise, sunset, moonset, moonrise & moon ph...
+Stay connected to the latest in weather forecasting with AccuWeather. Ask for weather forecasts up to 15 days, for global locations, to better plan your life.
 
 ***
 

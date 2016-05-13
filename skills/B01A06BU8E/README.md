@@ -5,15 +5,11 @@ To use the AccuWeather skill, try saying...
 
 * *Alexa, start AccuWeather.*
 
-* *Alexa, ask AccuWeather if there are any weather alerts.*
+* *Alexa, ask AccuWeather what is the weather like today?*
 
-* *Alexa, ask AccuWeather what time the sun will rise.*
+* *Alexa, ask AccuWeather what is the weather for next weekend?*
 
-Stay connected to the latest in weather forecasting with AccuWeather – Weather for Life. Ask for weather alerts, sunrise, sunset, moonset, moonrise & moon phase. 
-
-Only supports United States cities. New features to come!
-
-If you have any suggestions, feel free to send feedback!
+Need to know the weather forecast up to 15 days from now? Just ask AccuWeather – Weather for Life. Our updated skill includes great new features to keep you connected to the Superior Accuracy more people trust than any other weather source. Simply ask for weather forecasts including RealFeel temperature up to 15 days out for any global location. Plus, get severe weather alerts, local summaries, weekend forecasts, sunrise/sunset to help you plan with confidence.
 
 ***
 

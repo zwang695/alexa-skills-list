@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Other",
-  "description": "Stay connected to the latest in weather forecasting with AccuWeather – Weather for Life. Ask for weather alerts, sunrise, sunset, moonset, moonrise & moon phase. \n\nOnly supports United States cities. New features to come!\n\nIf you have any suggestions, feel free to send feedback!",
+  "description": "Need to know the weather forecast up to 15 days from now? Just ask AccuWeather – Weather for Life. Our updated skill includes great new features to keep you connected to the Superior Accuracy more people trust than any other weather source. Simply ask for weather forecasts including RealFeel temperature up to 15 days out for any global location. Plus, get severe weather alerts, local summaries, weekend forecasts, sunrise/sunset to help you plan with confidence.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, start AccuWeather.",
-    "Alexa, ask AccuWeather if there are any weather alerts.",
-    "Alexa, ask AccuWeather what time the sun will rise."
+    "Alexa, ask AccuWeather what is the weather like today?",
+    "Alexa, ask AccuWeather what is the weather for next weekend?"
   ],
   "firstReleaseDate": 1451521194.687,
   "homepageLinkText": null,
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.accuweather.com/en/privacy",
-  "shortDescription": "Stay connected to the latest in weather forecasting with AccuWeather – Weather for Life. Ask for weather alerts, sunrise, sunset, moonset, moonrise & moon ph...",
+  "shortDescription": "Stay connected to the latest in weather forecasting with AccuWeather. Ask for weather forecasts up to 15 days, for global locations, to better plan your life.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": "http://www.accuweather.com/en/legal",
