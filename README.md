@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 880
+**Total Skills Available:** 891
 
 ***
 
@@ -757,6 +757,14 @@ Think you know beer? Crack open a cold one and test your beer and brewing knowle
 *Alexa, start bernie geek*
 
 Fun and quick facts about Bernie Sanders
+
+***
+
+## &nbsp;<img src="skills/B01DP4OH2E/skill_icon" alt="Best Movies icon" width="36"> [Best Movies](skills/B01DP4OH2E)
+
+*Alexa, ask best movies to search movies in nineteen eighty five*
+
+Best Movies ever
 
 ***
 
@@ -1995,6 +2003,14 @@ Uses the Google Knowledge Graph API to drop some knowledge about anyone / anythi
 
 ***
 
+## &nbsp;<img src="skills/B01FIHQY5E/skill_icon" alt="Ducks Football Trivia icon" width="36"> [Ducks Football Trivia](skills/B01FIHQY5E)
+
+*Alexa, open Ducks Football Trivia*
+
+Ducks Football Trivia
+
+***
+
 ## &nbsp;<img src="skills/B01EK2OZSG/skill_icon" alt="Dungeon Dice icon" width="36"> [Dungeon Dice](skills/B01EK2OZSG)
 
 *Alexa, ask dungeon dice to roll a d20.*
@@ -2501,6 +2517,14 @@ Evaluate your level of Frenchness with this très simple trivia quiz. How well d
 
 ***
 
+## &nbsp;<img src="skills/B01EIWC7AG/skill_icon" alt="Fresh Music icon" width="36"> [Fresh Music](skills/B01EIWC7AG)
+
+*Alexa play Fresh Music*
+
+Discover Fresh Music from around the world
+
+***
+
 ## &nbsp;<img src="skills/B01COZ3HO4/skill_icon" alt="Frontend Quiz icon" width="36"> [Frontend Quiz](skills/B01COZ3HO4)
 
 *Alexa, open frontend quiz.*
@@ -2537,7 +2561,7 @@ Test your knowledge with this funny Batman based trivia game!
 
 *Alexa, ask Funny Quoter to tell me a quote.*
 
-Funny Quoter is here to make you smile and chuckle with dozens of funny quotes. All you need to do is ask Alexa!
+Funny Quoter is here to make you smile with dozens of funny quotes. Just ask Alexa, and laugh aloud while real people spout hilarious one-liners! Try it out!
 
 ***
 
@@ -3237,6 +3261,14 @@ Jack's Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01FL8JHL8/skill_icon" alt="Java Trivia icon" width="36"> [Java Trivia](skills/B01FL8JHL8)
+
+*Alexa, launch java trivia*
+
+Are you learning how to use programming language Java? Now you can test the fundamentals by playing this fun trivia! It is a great way to see how much you know.
+
+***
+
 ## &nbsp;<img src="skills/B01B5EHA4I/skill_icon" alt="JavaScript Quiz icon" width="36"> [JavaScript Quiz](skills/B01B5EHA4I)
 
 *Alexa, Launch JavaScript Quiz*
@@ -3428,6 +3460,14 @@ A quick trivia game to help you learn international countries, cities, famous ri
 *Alexa, open let's add*
 
 Let's Add is a skill that quizzes you on addition problems.  You can specify how high you want the questions to go, up to twenty plus twenty.
+
+***
+
+## &nbsp;<img src="skills/B01FJDB8P8/skill_icon" alt="Lets Divide icon" width="36"> [Lets Divide](skills/B01FJDB8P8)
+
+*Alexa, open let's divide*
+
+Let's Divide is a skill that quizzes you on division problems.  You can specify how high you want the division problems to go, up to 100 divided by 100.
 
 ***
 
@@ -3741,6 +3781,14 @@ Suggests random meals, food or dishes.
 *Alexa, ask Meat Butler to help me prepare steak?*
 
 This butler tells the perfect internal temperature to achieve when cooking based on your meat and doneness preferences.
+
+***
+
+## &nbsp;<img src="skills/B01FD1UYXI/skill_icon" alt="Medical Marijuana Trivia icon" width="36"> [Medical Marijuana Trivia](skills/B01FD1UYXI)
+
+*Alexa, launch medical marijuana trivia*
+
+Are you an expert in medical marijuana? Play this trivia to find out how much you know about the laws, possible effects, strain names, and current news!
 
 ***
 
@@ -4233,6 +4281,14 @@ NBA statistics, powered by iknow.io
 
 ***
 
+## &nbsp;<img src="skills/B01FGSGIHO/skill_icon" alt="NBC icon" width="36"> [NBC](skills/B01FGSGIHO)
+
+*Alexa, start NBC.*
+
+NBC lets you connect to your favorite NBC shows with the power of your voice. Find out what's on and get all the show information you're looking for.
+
+***
+
 ## &nbsp;<img src="skills/B01C7SGG3M/skill_icon" alt="NBC News icon" width="36"> [NBC News](skills/B01C7SGG3M)
 
 *Alexa, ask NBC News for Ohio Democratic primary results*
@@ -4721,6 +4777,14 @@ This is a multiple-choice trivia game to challenge what you know and help you le
 *Alexa, launch Presidents*
 
 Hail to the Chief! Test your knowledge in this trivia game about US presidents past and present.
+
+***
+
+## &nbsp;<img src="skills/B01FH1ZII0/skill_icon" alt="Prezpoll icon" width="36"> [Prezpoll](skills/B01FH1ZII0)
+
+*Alexa, ask Prez Poll to get me the current poll results*
+
+Get the current data from the Huff Post daily poll for the 2016 General Election: Trump vs. Clinton
 
 ***
 
@@ -6079,6 +6143,14 @@ This Day in History tells you events that happened today -or any day- in the pas
 
 ***
 
+## &nbsp;<img src="skills/B01FG5FPF8/skill_icon" alt="This Day in US Naval History icon" width="36"> [This Day in US Naval History](skills/B01FG5FPF8)
+
+*Alexa, Navy History*
+
+In keeping with the heritage of the Navy this skill will let you know the significant events from US Naval history that occurred today.
+
+***
+
 ## &nbsp;<img src="skills/B01CHMTJSW/skill_icon" alt="Tic Tac Toe icon" width="36"> [Tic Tac Toe](skills/B01CHMTJSW)
 
 *Alexa, ask Tic Tac Toe for a game*
@@ -6220,6 +6292,14 @@ A skill that calculates the tone row matrix for an inputted twelve tone row.
 *Alexa, ask Toon Goggles to open Bernard*
 
 Enjoy Toon Goggles with your voice! Open shows, play videos, listen to music, and control playback.
+
+***
+
+## &nbsp;<img src="skills/B01F5EP4AQ/skill_icon" alt="Top r/News Post for Reddit icon" width="36"> [Top r/News Post for Reddit](skills/B01F5EP4AQ)
+
+*Alexa ask subreddit news for the news*
+
+Get the top Reddit post from r/News from the last 24 hours.
 
 ***
 
@@ -6997,6 +7077,14 @@ Yo Mama Jokes
 *Alexa, ask Mom Jokes to tell me a joke.*
 
 Tells a "yo momma" joke. Have Alexa start it, or ask it for a joke by saying "Alexa, ask Mom Jokes to tell me a joke." May not be appropriate for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01FJFTLAA/skill_icon" alt="Yoga Guru icon" width="36"> [Yoga Guru](skills/B01FJFTLAA)
+
+*Alexa, Ask Yoga Guru how do I pose a cobra*
+
+Yoga Guru is a skill which will tell you how to do a yoga pose.
 
 ***
 
