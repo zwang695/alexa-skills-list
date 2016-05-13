@@ -19,6 +19,6 @@ Even the most creative people get stuck sometimes! If you need some random inspi
 * **Category:** Productivity
 * **ID:** amzn1.echo-sdk-ams.app.c0baad8a-94b8-42a0-b5d0-0bd7e11a8bbd
 * **ASIN:** B01FCGJMF0
-* **Author:** Phrasing, Inc. 
+* **Author:** Phrasing!
 * **Release Date:** May 10, 2016 @ 03:12:53
 * **In-App Purchasing:** No

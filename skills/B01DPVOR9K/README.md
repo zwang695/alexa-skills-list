@@ -19,6 +19,6 @@ Turn Alexa into a veritable muse with the Promptly skill. Just ask for the curre
 * **Category:** Reference
 * **ID:** amzn1.echo-sdk-ams.app.be7fd8db-c74b-4daf-94ba-34ef03977529
 * **ASIN:** B01DPVOR9K
-* **Author:** Parker McDade
+* **Author:** CaptainQuirk
 * **Release Date:** April 5, 2016 @ 04:32:26
 * **In-App Purchasing:** No

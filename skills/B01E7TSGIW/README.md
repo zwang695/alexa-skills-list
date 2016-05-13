@@ -7,7 +7,7 @@ To use the 1-800-Flowers skill, try saying...
 
 * *Alexa tell 1-800-Flowers I want to send flowers to Lindsey on May 28th.*
 
-* *Alexa tell 1-800-Flowers I need a large Mother's Day arrangement for Christine.*
+* *Alexa tell 1-800-Flowers I need a large Love and Romance arrangement for Christine.*
 
 With a streamlined ordering process, you can quickly send flowers to your loved ones using this 1-800-Flowers skill. Simply connect your 1-800-Flowers account and you can send your contacts beautiful arrangements. You can choose the floral arrangement style, arrangement size, and delivery date. The flowers will be delivered to your contact's address in your 1-800-Flowers account. Your existing payment credentials in your account are used to pay for the delivery, so there is no need to enter additional payment information. It has never been simpler to show those you love that you care.
 
@@ -22,5 +22,5 @@ With a streamlined ordering process, you can quickly send flowers to your loved 
 * **Author:** www.1800flowers.com
 * **Release Date:** April 20, 2016 @ 12:09:28
 * **Privacy Policy:** http://www.1800flowers.com/About-Us-Privacy-Policy
-* **Account Linking Domains:** flowers-staging.rain.agency, www.google-analytics.com, itunes.apple.com
+* **Account Linking Domains:** flowerskill.com, www.google-analytics.com, itunes.apple.com
 * **In-App Purchasing:** Yes

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="KAYAK icon" width="36"> [KAYAK](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0087c89b-eeca-4c44-836d-bda79568d1d9)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the KAYAK skill, try saying...
 

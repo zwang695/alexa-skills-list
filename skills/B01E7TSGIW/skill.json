@@ -1,6 +1,6 @@
 {
   "accountLinkingWhitelistedDomains": [
-    "flowers-staging.rain.agency",
+    "flowerskill.com",
     "www.google-analytics.com",
     "itunes.apple.com"
   ],
@@ -14,7 +14,7 @@
   "exampleInteractions": [
     "Alexa ask 1-800-Flowers to order Becky flowers",
     "Alexa tell 1-800-Flowers I want to send flowers to Lindsey on May 28th.",
-    "Alexa tell 1-800-Flowers I need a large Mother's Day arrangement for Christine."
+    "Alexa tell 1-800-Flowers I need a large Love and Romance arrangement for Christine."
   ],
   "firstReleaseDate": 1461172168.568,
   "homepageLinkText": null,
@@ -26,7 +26,7 @@
   "launchPhrase": "one eight hundred flowers",
   "name": "1-800-Flowers",
   "numberOfReviews": 5,
-  "pamsPartnerId": "oX25q6BhkiWAfIyxQ9fxISM9O",
+  "pamsPartnerId": "AKeK6BdQHlh8C447PghJlJEaZ",
   "permissions": null,
   "privacyPolicyUrl": "http://www.1800flowers.com/About-Us-Privacy-Policy",
   "shortDescription": "Quickly order flowers for contacts in your 1-800-Flowers account.",

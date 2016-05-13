@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 891
+**Total Skills Available:** 890
 
 ***
 
@@ -6396,14 +6396,6 @@ Find local karaoke in the Tricities Washington.
 *Alexa, Launch Old School Trivia*
 
 This is a multiple-choice trivia game to challenge what you know about the movie Old School.  Content may not be suitable for all ages.
-
-***
-
-## &nbsp;<img src="skills/B017OBKC2I/skill_icon" alt="Trivia Alex icon" width="36"> [Trivia Alex](skills/B017OBKC2I)
-
-*Alexa, open Trivia Alex.*
-
-Trivia Alex is a fun multiple-choice trivia game to play at home with up to 4 people and your host Alex. It includes over 300 questions in various categories.
 
 ***
 

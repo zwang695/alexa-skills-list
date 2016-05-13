@@ -36,7 +36,7 @@
     },
     {
       "accountLinkingWhitelistedDomains": [
-        "flowers-staging.rain.agency",
+        "flowerskill.com",
         "www.google-analytics.com",
         "itunes.apple.com"
       ],
@@ -50,7 +50,7 @@
       "exampleInteractions": [
         "Alexa ask 1-800-Flowers to order Becky flowers",
         "Alexa tell 1-800-Flowers I want to send flowers to Lindsey on May 28th.",
-        "Alexa tell 1-800-Flowers I need a large Mother's Day arrangement for Christine."
+        "Alexa tell 1-800-Flowers I need a large Love and Romance arrangement for Christine."
       ],
       "firstReleaseDate": 1461172168.568,
       "homepageLinkText": null,
@@ -62,7 +62,7 @@
       "launchPhrase": "one eight hundred flowers",
       "name": "1-800-Flowers",
       "numberOfReviews": 5,
-      "pamsPartnerId": "oX25q6BhkiWAfIyxQ9fxISM9O",
+      "pamsPartnerId": "AKeK6BdQHlh8C447PghJlJEaZ",
       "permissions": null,
       "privacyPolicyUrl": "http://www.1800flowers.com/About-Us-Privacy-Policy",
       "shortDescription": "Quickly order flowers for contacts in your 1-800-Flowers account.",
@@ -95,7 +95,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "mindfulness",
       "name": "1-Minute Mindfulness",
-      "numberOfReviews": 17,
+      "numberOfReviews": 18,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": "https://www.iubenda.com/privacy-policy/7758923",
@@ -14123,7 +14123,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01EILLOXI",
-      "averageRating": 4.8,
+      "averageRating": 2.9,
       "canDisable": true,
       "capabilities": null,
       "category": "Travel",
@@ -14143,7 +14143,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "kayak",
       "name": "KAYAK",
-      "numberOfReviews": 3,
+      "numberOfReviews": 9,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": "https://www.kayak.com/privacy",
@@ -20464,7 +20464,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M3KF7XZ82WC2W8",
-      "vendorName": "Parker McDade"
+      "vendorName": "CaptainQuirk"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -24016,7 +24016,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M26GBOVXP6TD47",
-      "vendorName": "3scale"
+      "vendorName": "Nicolas Grenié"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -26855,7 +26855,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01A9GPHNE",
-      "averageRating": 4.3,
+      "averageRating": 3.5,
       "canDisable": true,
       "capabilities": null,
       "category": "Entertainment",
@@ -26875,7 +26875,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "tough guy",
       "name": "Tough Guy",
-      "numberOfReviews": 4,
+      "numberOfReviews": 5,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -27227,40 +27227,6 @@
       "termsOfUseUrl": null,
       "vendorId": "MBPK444BH1ZB8",
       "vendorName": "onetwentyseven inc"
-    },
-    {
-      "accountLinkingWhitelistedDomains": null,
-      "asin": "B017OBKC2I",
-      "averageRating": 1.9,
-      "canDisable": true,
-      "capabilities": null,
-      "category": "Games",
-      "description": "Trivia Alex is a fun multiple-choice trivia game to play at home with up to 4 people and your host Alex. It includes over 300 questions from the world of pop culture, history, sports, literature, and more. \n\nTo start, say “Alexa, Open Trivia Alex” and you’ll be walked through setting up a new game. Then Trivia Alex will start asking multiple-choice questions of the players. To answer, say the corresponding number of the answer. If you didn't hear the question, say \"Repeat question.” The first person to correctly answer 5 questions is the winner. New questions are being added all the time!",
-      "enablement": null,
-      "exampleInteractions": [
-        "Alexa, open Trivia Alex.",
-        "Repeat question.",
-        "Answer one."
-      ],
-      "firstReleaseDate": 1446840585.16,
-      "homepageLinkText": null,
-      "homepageLinkUrl": null,
-      "id": "amzn1.echo-sdk-ams.app.c46a7aa5-f974-48cb-8c23-71ffa3177b42",
-      "imageAltText": "Trivia Alex icon",
-      "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B017OBKC2I/skill_icon",
-      "inAppPurchasingSupported": false,
-      "launchPhrase": "trivia alex",
-      "name": "Trivia Alex",
-      "numberOfReviews": 15,
-      "pamsPartnerId": null,
-      "permissions": null,
-      "privacyPolicyUrl": null,
-      "shortDescription": "Trivia Alex is a fun multiple-choice trivia game to play at home with up to 4 people and your host Alex. It includes over 300 questions in various categories.",
-      "skillTypes": null,
-      "stage": "live",
-      "termsOfUseUrl": null,
-      "vendorId": "MYZQ0CS025Z4D",
-      "vendorName": "FatmaN Development"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -28595,7 +28561,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M30D728RDTNW4F",
-      "vendorName": "Phrasing, Inc. "
+      "vendorName": "Phrasing!"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -29071,7 +29037,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M3KF7XZ82WC2W8",
-      "vendorName": "Parker McDade"
+      "vendorName": "CaptainQuirk"
     },
     {
       "accountLinkingWhitelistedDomains": null,
