@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017RXFNKY",
-  "averageRating": 2.6,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Reference",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the bible app",
   "name": "Bible",
-  "numberOfReviews": 51,
+  "numberOfReviews": 52,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://bible.com/privacy",
