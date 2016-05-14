@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 890
+**Total Skills Available:** 891
 
 ***
 
@@ -3837,6 +3837,14 @@ Come and check how good your memory is!
 *Alexa, start Mental Math*
 
 Test your mental math
+
+***
+
+## &nbsp;<img src="skills/B01E4ITHI4/skill_icon" alt="Meta icon" width="36"> [Meta](skills/B01E4ITHI4)
+
+*Alexa ask Meta for messages from Mike*
+
+Skill for use with Metaswitch Accession business communications services
 
 ***
 
