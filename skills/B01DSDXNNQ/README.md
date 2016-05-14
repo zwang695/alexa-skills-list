@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Superheroes icon" width="36"> [Superheroes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.59b2b446-e3ef-4b72-9827-32ccb6bc2836)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Superheroes skill, try saying...
 
