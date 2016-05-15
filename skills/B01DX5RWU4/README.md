@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="N.Y.C. Status icon" width="36"> [N.Y.C. Status](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2ad69e8-e3ba-459a-8464-7e939fa3f189)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the N.Y.C. Status skill, try saying...
 
