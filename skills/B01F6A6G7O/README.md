@@ -9,7 +9,7 @@ To use the Family History skill, try saying...
 
 * *Father*
 
-Start with, 'Alexa, tell family history for me.' then drill back into your family history by saying, 'Father', 'Mother', or 'Spouse'.  Requires a FamilySearch account available free at FamilySearch.org.  All data is retrieved from FamilySearch if something doesn't sound correct please correct the data at FamilySearch.org.
+Start with, 'Alexa, tell family history for me.' then drill back into your family history by saying, 'Father', 'Mother', 'Spouse', or 'Child'.  Requires a FamilySearch account available free at FamilySearch.org.  All data is retrieved from FamilySearch if something doesn't sound correct please correct the data at FamilySearch.org.
 
 Sample Utterances:
 
@@ -26,28 +26,18 @@ To start or return to you, you can say:
 To hear about the persons father you cay say:
  father
  for father
- dad
- for dad
- pa
- for pa
 
 To hear about the persons mother you cay say:
  mother
  for mother
- mom
- for mom
- ma
- for ma
- mum
- for mum
 
 To hear about the persons spouse you cay say:
  spouse
  for spouse
- wife
- for wife
- husband
- for husband
+
+To hear about the persons child you cay say:
+ child
+ for child
 
 ***
 

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 895
+**Total Skills Available:** 903
 
 ***
 
@@ -237,6 +237,14 @@ Get air quality report for 5-digit US ZIP codes
 *Alexa, tell Alarm Dot Com to turn on the lights.*
 
 Control your Alarm.com system with your voice.
+
+***
+
+## &nbsp;<img src="skills/B01FJV7BO2/skill_icon" alt="Albert Einstein Facts icon" width="36"> [Albert Einstein Facts](skills/B01FJV7BO2)
+
+*Alexa, Ask Albert Einstein Facts to tell me a fact*
+
+Albert Einstein Facts is a skill that tells a fact about Albert Einstein.
 
 ***
 
@@ -837,6 +845,14 @@ Biking Wizard can tell you if the weather is right for a bike ride!
 *Alexa ask Billy Goat for a number.*
 
 Billy the Random Number Goat will provide you with a random number. If you don't provide a range, Billy Goat will choose a number between one and one hundred.
+
+***
+
+## &nbsp;<img src="skills/B01FG7NHQU/skill_icon" alt="Binary Clock icon" width="36"> [Binary Clock](skills/B01FG7NHQU)
+
+*Alexa, ask Binary Clock what time it is*
+
+Alexa knows the time in binary!
 
 ***
 
@@ -2247,7 +2263,7 @@ You clearly found this just browsing around so its not like you have something b
 
 *Alexa, tell family history for me*
 
-Start with, 'Alexa, tell family history for me.' then drill back into your family history by saying, 'Father', 'Mother', or 'Spouse'.
+Start with, 'Alexa, tell family history for me.' then drill back into your family history by saying, 'Father', 'Mother',  'Spouse', or 'Child'.
 
 ***
 
@@ -4668,6 +4684,14 @@ A trivia game about the use, the history, the music and the building of pipe org
 
 ***
 
+## &nbsp;<img src="skills/B01FG6QLMS/skill_icon" alt="Pirate Talk Translator icon" width="36"> [Pirate Talk Translator](skills/B01FG6QLMS)
+
+*Alexa tell pirate talk to translate How are you*
+
+Alexa speaks like a pirate
+
+***
+
 ## &nbsp;<img src="skills/B01DOG8U08/skill_icon" alt="Pitch Pipe icon" width="36"> [Pitch Pipe](skills/B01DOG8U08)
 
 *Alexa, ask Pitch Pipe to play C sharp*
@@ -5606,6 +5630,22 @@ Top 20 Spanish Words: Game to teach you twenty of most popular Spanish words.
 
 ***
 
+## &nbsp;<img src="skills/B01FCQXEV8/skill_icon" alt="Speak Jamaican icon" width="36"> [Speak Jamaican](skills/B01FCQXEV8)
+
+*Alexa, ask Speak Jamaican about the music*
+
+A skill that tells you many interesting and fun facts about Jamaica. You can even use this skill to learn to speak Jamaican! Give it a try!
+
+***
+
+## &nbsp;<img src="skills/B01FOLXF9M/skill_icon" alt="Species  Trivia icon" width="36"> [Species  Trivia](skills/B01FOLXF9M)
+
+*Alexa open species trivia*
+
+Plays a game of trivia.
+
+***
+
 ## &nbsp;<img src="skills/B01ES1KWX6/skill_icon" alt="Spell Book for Dungeons and Dragons icon" width="36"> [Spell Book for Dungeons and Dragons](skills/B01ES1KWX6)
 
 *Alexa, ask Spell Book to lookup Fire Bolt*
@@ -5843,6 +5883,14 @@ Learn quick facts about Sweden.
 *Alexa, start Syfy.*
 
 Syfy lets you connect to your favorite Syfy shows with the power of your voice. Get recaps, previews, and schedule information. What happens next on 12 Monkeys?
+
+***
+
+## &nbsp;<img src="skills/B01ET0I22Y/skill_icon" alt="Tabletop Trivia icon" width="36"> [Tabletop Trivia](skills/B01ET0I22Y)
+
+*alexa launch tabletop trivia*
+
+Tabletop Trivia is a short trivia game about D20 Tabletop RPGs
 
 ***
 
@@ -6679,6 +6727,14 @@ Twenty Questions will guess what you're thinking!
 
 ***
 
+## &nbsp;<img src="skills/B01EFDFPDO/skill_icon" alt="TwentyFour icon" width="36"> [TwentyFour](skills/B01EFDFPDO)
+
+*Alexa, ask Twentyfour master to give me four numbers*
+
+Get four numbers that can be used to calculate 24.
+
+***
+
 ## &nbsp;<img src="skills/B01C3A9MOO/skill_icon" alt="Twister Spinner icon" width="36"> [Twister Spinner](skills/B01C3A9MOO)
 
 *Alexa, run Twister Spinner*
@@ -6981,6 +7037,14 @@ Where To Park
 *Alexa, open Who Played Bond*
 
 Test your knowledge of the 007 films by matching which actor played bond in each movie.
+
+***
+
+## &nbsp;<img src="skills/B01F616740/skill_icon" alt="Who represents me in my government? icon" width="36"> [Who represents me in my government?](skills/B01F616740)
+
+*Alexa, ask government official finder who is the representative for 90210*
+
+Who represents me?
 
 ***
 

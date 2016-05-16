@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="DC Metro icon" width="36"> [DC Metro](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4fa44b35-dc28-456a-8f8d-7690ed1c284e)
-![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the DC Metro skill, try saying...
 
