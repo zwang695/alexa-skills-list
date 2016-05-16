@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 891
+**Total Skills Available:** 892
 
 ***
 
@@ -3002,6 +3002,14 @@ The most hilarious skill you've probably never heard of.
 *Alexa ask hockey master*
 
 To Know about Ice Hockey and Ice hockey history.
+
+***
+
+## &nbsp;<img src="skills/B01FF33U4O/skill_icon" alt="Hollywood Dogs icon" width="36"> [Hollywood Dogs](skills/B01FF33U4O)
+
+*Alexa, ask Hollywood Dogs for some pooch gossip*
+
+Learn facts about the canine stars of film and stage
 
 ***
 
