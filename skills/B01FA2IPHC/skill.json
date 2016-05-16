@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Education",
-  "description": "This is a skill that allows you to ask Alexa for quotes from Charles Fillmore. The Unity movement was founded by Charles and Myrtle Fillmore in the late 1880s. They were down and almost out when they conceived the idea that became Unity. Many students of Unity knew Charles Fillmore endearingly as Papa Charlie. This skill allows you to get random quotes from Charles Fillmore as documented in his many writings. To use this skill, simply enable it and then say one of the example phrases below.",
+  "description": "This is a skill that allows you to ask Alexa for quotes from Charles Fillmore. The Unity movement was founded by Charles and Myrtle Fillmore in the late 1880s. They were down and almost out when they conceived the idea that became Unity. Many students of Unity knew Charles Fillmore endearingly as Papa Charlie. This skill allows you to get random quotes from Charles Fillmore as documented in his many writings. To use this skill, simply enable it and then say one of the example phrases listed.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, Ask Papa Charlie",

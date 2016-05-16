@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 892
+**Total Skills Available:** 895
 
 ***
 
@@ -557,6 +557,14 @@ Find out where your car is parked, how much gas you have left, or how far you've
 *Alexa, ask Aviation Weather what is the metar for KSMO*
 
 Aviation Weather METAR's & Flight Rules
+
+***
+
+## &nbsp;<img src="skills/B01ER39MZY/skill_icon" alt="Awair icon" width="36"> [Awair](skills/B01ER39MZY)
+
+*Alexa, ask Awair about air quality*
+
+Awair tells you about your indoor air quality
 
 ***
 
@@ -3061,6 +3069,14 @@ House Band allows you to access your JRiver Media Center music server. You can p
 
 ***
 
+## &nbsp;<img src="skills/B01FG1HKAU/skill_icon" alt="How To Destiny icon" width="36"> [How To Destiny](skills/B01FG1HKAU)
+
+*Alexa, Ask How To Destiny where do I find spinmetal?*
+
+How To Destiny is a spoof app that helps kinder-guardians find their way around Destiny.
+
+***
+
 ## &nbsp;<img src="skills/B01DLC6YLM/skill_icon" alt="Howzzat! T20 Cricket Trivia icon" width="36"> [Howzzat! T20 Cricket Trivia](skills/B01DLC6YLM)
 
 *Alexa, launch Cricket Trivia*
@@ -5009,6 +5025,14 @@ Rachio
 *Alexa, open Raj Trivia Pursuit*
 
 Raj's trivia pursuit tests your knowledge of how well you know him.
+
+***
+
+## &nbsp;<img src="skills/B01FEC1KY8/skill_icon" alt="Random Cat Facts icon" width="36"> [Random Cat Facts](skills/B01FEC1KY8)
+
+*Alexa ask random cat to tell me a fact*
+
+Random Cat Facts
 
 ***
 
