@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Blumoo icon" width="36"> [Blumoo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.025a7013-264d-49af-a249-1239c904fcac)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Blumoo skill, try saying...
 
@@ -7,18 +7,18 @@ To use the Blumoo skill, try saying...
 
 * *Alexa, tell Blue moo to go to channel six hundred fifty*
 
-* *Alexa, ask Blue moo what's on channel thirty three*
+* *Alexa, ask Blue moo to describe what's on channel thirty three*
 
-This release of the skill is for iOS Beta testing only.  If you have a Blumoo HomeBase or purchase one and would like to Beta test then please email support@blumoo.com and request access.  
+This release of the skill is for the Blumoo iOS app only right now.  You will need the Blumoo HomeBase for this skill, which can be purchased from Amazon, Best Buy and other retailers.  The HomeBase pairs to your phone over Bluetooth and blasts out the IR codes using our mobile app and voice commands given to the Echo.
 
-Control your Blumoo HomeBase using nothing more than your voice!  Requires Blumoo HomeBase and the Blumoo iOS app (Android coming later).  Turn on voice control in the settings on your Blumoo app; we will then walk you through setup and how to use the skill.
+Once you have the Blumoo HomeBase setup, turn on voice control in the settings on your Blumoo app.  The app will then walk you through setting up Blumoo Voice.  Email support@blumoo.com with any questions.
 
 Q: How do you say Blumoo (blue-moo)?
 A: blue (color), moo (cow).
 
 The Blumoo skill lets you:
 
-Press Buttons (Universal Remote) - Setup your voice remote in the Blumoo app.  You can then press any button by saying "Alexa, tell Blue moo to press ________ (ex. Watch TV)".  Use it for your macros, volume control and any other buttons.  
+Press Buttons (Universal Remote) - You can then press any button by saying "Alexa, tell Blue moo to press ________ (ex. Watch TV)".  Use it for your macros, volume control and any other buttons.  
 
 Change Channels (TV guide) - Change to any channel in the TV guide by saying "Alexa, tell Blue moo to go to channel ________ (ex. six hundred fifty)".  
 
@@ -28,7 +28,8 @@ Blumoo voice gives you a truly hands free viewing experience.  Take back control
 
 You can ask Alexa for help by saying "Alexa, tell Blue moo to help"
 
-There are videos on our website for more information and examples.   http://support.blumoo.com/support/home
+For more information, help and tips you can visit our support page:
+http://support.blumoo.com/support/solutions/folders/11000001043
 
 ***
 

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 903
+**Total Skills Available:** 917
 
 ***
 
@@ -165,6 +165,14 @@ TsaTsaTzu's presents Acoustic Tuner for hands free, accurate, instrument  or voc
 
 ***
 
+## &nbsp;<img src="skills/B01EW1OHSI/skill_icon" alt="Adjudicator DiceBot icon" width="36"> [Adjudicator DiceBot](skills/B01EW1OHSI)
+
+*Alexa ask DiceBot to roll 2 d 6*
+
+Roll any number of dice of any type
+
+***
+
 ## &nbsp;<img src="skills/B019HU8AMS/skill_icon" alt="Admirer icon" width="36"> [Admirer](skills/B019HU8AMS)
 
 *"Alexa, tell my admirer to make me smile."*
@@ -229,6 +237,14 @@ Real time air quality rating for major U.S. cities. Alexa, launch Air Quality Me
 *Alexa, ask air quality report for zip code nine eight one zero nine*
 
 Get air quality report for 5-digit US ZIP codes
+
+***
+
+## &nbsp;<img src="skills/B01FL7PGKK/skill_icon" alt="Alan Drinks icon" width="36"> [Alan Drinks](skills/B01FL7PGKK)
+
+*Alexa, ask Alan Drinks how can I make a Margarita*
+
+Alan Drinks is a skill that gives you the ingredients for a few popular cocktails
 
 ***
 
@@ -924,7 +940,7 @@ Ask Alexa to help you show off your crafting skills by answering over 30 differe
 
 *Alexa, tell Blue moo to press Watch TV*
 
-Make your voice a simple and powerful universal remote control.  Change channels, hear show descriptions and press any remote button.  **iOS Beta Testing Only**
+Make your voice a simple and powerful universal remote control.  Change channels, hear show descriptions and press any remote button.  **iOS Only**
 
 ***
 
@@ -1598,6 +1614,14 @@ Find out who's online at in Convrge
 *Alexa, ask cook book how to make a burger*
 
 This skills allow users to find recipes - ingredients, cook steps, health info etc
+
+***
+
+## &nbsp;<img src="skills/B01FGYTG5O/skill_icon" alt="Cool HumanBody Facts icon" width="36"> [Cool HumanBody Facts](skills/B01FGYTG5O)
+
+*Alexa ask cool human body facts to tell me a fact*
+
+550+ Cool Human Body Facts
 
 ***
 
@@ -2328,6 +2352,14 @@ Request a verse, passage, or chapter. You can also ask for the verse of the day,
 *Alexa, ask fencing geek for a fencing fact*
 
 Some facts about the noble sport of Fencing that might pique your interest.
+
+***
+
+## &nbsp;<img src="skills/B01FOHEBLM/skill_icon" alt="Ferret Trivia icon" width="36"> [Ferret Trivia](skills/B01FOHEBLM)
+
+*Alexa, open ferret trivia*
+
+This is a trivia game about ferrets.
 
 ***
 
@@ -3599,6 +3631,14 @@ Rock Paper Scissors Lizard Spock
 
 ***
 
+## &nbsp;<img src="skills/B01FC41JRQ/skill_icon" alt="Lobste.rs Headlines icon" width="36"> [Lobste.rs Headlines](skills/B01FC41JRQ)
+
+*Alexa, ask Lobsters for the top headlines.*
+
+Hear the top headlines from the technology news aggregation website http://lobste.rs.
+
+***
+
 ## &nbsp;<img src="skills/B01DCQIVDQ/skill_icon" alt="London Scholar icon" width="36"> [London Scholar](skills/B01DCQIVDQ)
 
 *Alexa, ask London Scholar to tell me a fact*
@@ -4265,6 +4305,14 @@ A messaging service used to send short messages to others (or yourself) using yo
 
 ***
 
+## &nbsp;<img src="skills/B01FBHXPGM/skill_icon" alt="Myrtle Fillmore's Daily Thoughts on Truth icon" width="36"> [Myrtle Fillmore's Daily Thoughts on Truth](skills/B01FBHXPGM)
+
+*Alexa, Open Myrtle Fillmore*
+
+This skill allows you to get a daily thought from the writings of Myrtle Fillmore, the co-founder of Unity. To hear a thought, start by enabling the skill.
+
+***
+
 ## &nbsp;<img src="skills/B01EZA6O8W/skill_icon" alt="MySomm icon" width="36"> [MySomm](skills/B01EZA6O8W)
 
 *Alexa, ask Wine Gal to recommend a wine for prime rib*
@@ -4369,6 +4417,14 @@ Alexa and Nest work together to help you set the perfect temperature - without h
 
 ***
 
+## &nbsp;<img src="skills/B01FOQYH62/skill_icon" alt="Netherlands Trivia icon" width="36"> [Netherlands Trivia](skills/B01FOQYH62)
+
+*Alexa, Open Netherlands Trivia*
+
+A trivia game about the Netherlands.
+
+***
+
 ## &nbsp;<img src="skills/B01F9RSW4O/skill_icon" alt="New Musician icon" width="36"> [New Musician](skills/B01F9RSW4O)
 
 *Alexa, Launch New Musician*
@@ -4398,6 +4454,14 @@ The New York Running Calendar app helps you find the next organized running race
 *Alexa, ask Linkboard to search news about [a topic].*
 
 News By Linkboard enables you to search the news and have articles read to you. Say, "Alexa, start Linkboard" to try.
+
+***
+
+## &nbsp;<img src="skills/B01EPE8CRE/skill_icon" alt="NewsCom icon" width="36"> [NewsCom](skills/B01EPE8CRE)
+
+*Alexa, Open NewsCom*
+
+NewsCom Skill for Alexa.
 
 ***
 
@@ -4542,6 +4606,14 @@ With this skill you will never have to guess when your package is arriving. You 
 *Alexa, ask palindromes to say a palindrome*
 
 Says random palindromes
+
+***
+
+## &nbsp;<img src="skills/B01F996PDM/skill_icon" alt="Paul's Science Time icon" width="36"> [Paul's Science Time](skills/B01F996PDM)
+
+*Alexa, launch Science Time*
+
+This is a project for wildwood 7-7 science class. Test your knowledge of the human body.
 
 ***
 
@@ -4729,6 +4801,14 @@ A user of the Pocket app can use this skill. The main purpose of this skill is t
 *alexa, ask pokey finder to find charizard*
 
 Now Alexa can tell you about information of 721 pokemon. Introducing you the brand new PokeFinder, the skill that provide you all the information about pokemon.
+
+***
+
+## &nbsp;<img src="skills/B01FNX1E44/skill_icon" alt="Pool Trivia Game icon" width="36"> [Pool Trivia Game](skills/B01FNX1E44)
+
+*Alexa, open pool trivia*
+
+Plays a game of pool trivia
 
 ***
 
@@ -5257,6 +5337,14 @@ Roddenberry's Trek Quotes is a fun, fast, and fabulous way to reminisce about yo
 *Alexa, ask Roman History for a fact*
 
 Random fun facts about Roman history
+
+***
+
+## &nbsp;<img src="skills/B01EW3BOZK/skill_icon" alt="RoundTuit To-Do List icon" width="36"> [RoundTuit To-Do List](skills/B01EW3BOZK)
+
+*Alexa, tell Round To It to create task pickup dry cleaning due on december fourth at three thirty pm*
+
+Simple task reminder service
 
 ***
 
@@ -5819,6 +5907,14 @@ Run connected experiences that include things like Fitbit, SmartThings, Nest, Hu
 *Alexa, ask StubHub what’s happening this weekend.*
 
 What's going on this weekend? Ask Alexa to find out from StubHub!
+
+***
+
+## &nbsp;<img src="skills/B01FGDUM30/skill_icon" alt="Sub War icon" width="36"> [Sub War](skills/B01FGDUM30)
+
+*Alexa, open Sub War*
+
+You're the commander of your own naval attack class submarine, tasked with facing off against other players. Navigate, echo locate and destroy other ships.
 
 ***
 
@@ -6743,6 +6839,14 @@ Twister spinner with voice
 
 ***
 
+## &nbsp;<img src="skills/B01FOL6A8K/skill_icon" alt="Typography History Trivia icon" width="36"> [Typography History Trivia](skills/B01FOL6A8K)
+
+*Alexa launch typography history trivia*
+
+Twenty-one questions about the history of writing and basic typography.
+
+***
+
 ## &nbsp;<img src="skills/B01DDJ1HCE/skill_icon" alt="U.S. History Factoids icon" width="36"> [U.S. History Factoids](skills/B01DDJ1HCE)
 
 *Alexa, open U. S. history*
@@ -6909,6 +7013,14 @@ Use UV Meter to get strength of sun’s UV rays in your city
 *Alexa, ask Vectrex Wiki to tell me about the game Bedlam*
 
 The Vectrex Wiki skill allows you to get information about the original Vectrex GCE games.
+
+***
+
+## &nbsp;<img src="skills/B01FRIJRJY/skill_icon" alt="Venstar icon" width="36"> [Venstar](skills/B01FRIJRJY)
+
+*null*
+
+Monitor and control your Skyport compatible thermostat. Alexa, set my living room to 74 degrees.
 
 ***
 

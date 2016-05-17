@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "seglabs.com"
+  ],
+  "asin": "B01EPE8CRE",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Other",
+  "description": "The NewsCom skill for Amazon Alexa is for users of Quipp System's NewsCom® Inserter Control system. This skill allows Alexa to report the current state of your factory NewsCom® systems.  You may request your login credentials from the NewsCom® Software Support Team. \n\nNot all NewsCom® systems have been configured to use this service.  Contact your NewsCom® Software Support Team for more information.\n\nNewsCom® is a registered trademark currently owned by the Signode Industrial Group LLC. and is not associated with the newscom.com website or related company.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Open NewsCom",
+    null,
+    null
+  ],
+  "firstReleaseDate": 1463467113.404,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.eb48b688-718e-4afd-ae45-74554aa920a6",
+  "imageAltText": "NewsCom icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01EPE8CRE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "news com",
+  "name": "NewsCom",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "8G1PUzTwYfNRnoO4r8cBjEt5E",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.seglabs.com/NCIS/Privacy.html",
+  "shortDescription": "NewsCom Skill for Alexa.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MXDAHY0AS721G",
+  "vendorName": "SEG Labs"
+}

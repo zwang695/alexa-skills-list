@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Starfish Fit icon" width="36"> [Starfish Fit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c6b7b457-58bd-4a8c-9a5f-45e966f97717)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Starfish Fit skill, try saying...
 

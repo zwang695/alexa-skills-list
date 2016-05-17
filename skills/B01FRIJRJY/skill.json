@@ -1,0 +1,39 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "skyportcloud.com",
+    "skyport.io"
+  ],
+  "asin": "B01FRIJRJY",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "Amazon Alexa can now talk to your Venstar Voyager® thermostats. Link your Skyport Cloud account and you can control your thermostats using your voice through Alexa.\n\nYou must have a Skyport account along with a Skyport compatible thermostat to use this skill.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1463440086.628,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.cd97c00b-5248-4b0b-ade9-4cfda4143773",
+  "imageAltText": "Venstar icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01FRIJRJY/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Venstar",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "M648e7m7myeJOiUpNVQds2jU1",
+  "permissions": null,
+  "privacyPolicyUrl": "https://venstar.skyportcloud.com/page/terms",
+  "shortDescription": "Monitor and control your Skyport compatible thermostat. Alexa, set my living room to 74 degrees.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2X9WA7G9UPD8D",
+  "vendorName": "Venstar Inc."
+}

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="TwentyFour icon" width="36"> [TwentyFour](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1265a11a-faad-4aec-8590-897f6f7452fb)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the TwentyFour skill, try saying...
 
