@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B018YIL6JI",
-  "averageRating": 4.7,
+  "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
   "category": "Other",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "magic eight ball",
   "name": "Magic 8-Ball",
-  "numberOfReviews": 12,
+  "numberOfReviews": 14,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

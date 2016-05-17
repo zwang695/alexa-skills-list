@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="The Name Game (banana-fana) icon" width="36"> [The Name Game (banana-fana)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b7d21a1d-3166-41de-9841-7f495960b6e9)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 14
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 15
 
 To use the The Name Game (banana-fana) skill, try saying...
 

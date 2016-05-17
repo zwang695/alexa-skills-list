@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 917
+**Total Skills Available:** 920
 
 ***
 
@@ -3125,6 +3125,14 @@ How To Destiny is a spoof app that helps kinder-guardians find their way around 
 
 ***
 
+## &nbsp;<img src="skills/B01FOLLANK/skill_icon" alt="How to make ramen icon" width="36"> [How to make ramen](skills/B01FOLLANK)
+
+*Alexa, open make ramen*
+
+This teaches you how to make ramen
+
+***
+
 ## &nbsp;<img src="skills/B01DLC6YLM/skill_icon" alt="Howzzat! T20 Cricket Trivia icon" width="36"> [Howzzat! T20 Cricket Trivia](skills/B01DLC6YLM)
 
 *Alexa, launch Cricket Trivia*
@@ -5548,6 +5556,14 @@ Shower Thoughts from the subreddit r/ShowerThoughts
 
 ***
 
+## &nbsp;<img src="skills/B01FJ1PVX0/skill_icon" alt="Shut Up Quotes icon" width="36"> [Shut Up Quotes](skills/B01FJ1PVX0)
+
+*Alexa, ask a cyclist for a quote*
+
+Hear a wide variety of entertaining recorded quotes from Jens Voigt (the most feared rider in the world!) and other professional bicycle racers.
+
+***
+
 ## &nbsp;<img src="skills/B01CJU8G0E/skill_icon" alt="Silly Winnie icon" width="36"> [Silly Winnie](skills/B01CJU8G0E)
 
 *Alexa, ask Silly Winnie for a joke*
@@ -7133,6 +7149,14 @@ A daily horoscope.
 *Alexa, open Wheel of the Year and ask for information on Samhain.*
 
 The Wheel of the Year is an annual cycle of seasonal festivals, observed by many modern Pagans.
+
+***
+
+## &nbsp;<img src="skills/B01F2TR8EO/skill_icon" alt="Where is the Lansing River Trail Flooded icon" width="36"> [Where is the Lansing River Trail Flooded](skills/B01F2TR8EO)
+
+*Alexa, ask Lansing River Trail Where is the trail flooded?*
+
+Finds out where the Lansing River Trail is flooded.
 
 ***
 
