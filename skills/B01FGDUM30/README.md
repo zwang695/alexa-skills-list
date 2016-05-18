@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Sub War icon" width="36"> [Sub War](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0b6700db-7632-4b84-9c3e-d6d9b9e87aeb)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Sub War skill, try saying...
 
