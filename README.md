@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 923
+**Total Skills Available:** 924
 
 ***
 
@@ -725,6 +725,14 @@ Quote Generator version 0.1
 *Alexa, ask Basket if whole milk is on sale near Arlington, VA.*
 
 With Basket, it's easier than ever to find local sale prices for your favorite grocery items.
+
+***
+
+## &nbsp;<img src="skills/B01FNW6OSG/skill_icon" alt="Basketball Trivia icon" width="36"> [Basketball Trivia](skills/B01FNW6OSG)
+
+*Alexa, start basketball trivia*
+
+Basketball trivia game
 
 ***
 
@@ -4193,6 +4201,14 @@ Music Trivia is a Trivia Game about, what else, MUSIC!
 
 ***
 
+## &nbsp;<img src="skills/B01FORV4QW/skill_icon" alt="Music Trivia icon" width="36"> [Music Trivia](skills/B01FORV4QW)
+
+*"Alexa, open music Trivia"*
+
+This is a music trivia game
+
+***
+
 ## &nbsp;<img src="skills/B01CCLYHMQ/skill_icon" alt="Musical Instrument Trivia icon" width="36"> [Musical Instrument Trivia](skills/B01CCLYHMQ)
 
 *Alexa, launch musical instrument trivia*
@@ -4703,14 +4719,6 @@ a trivia app for members of The Phage and The Institute village.
 *Alexa, open Phish Geek*
 
 Phish Geek Phish Facts
-
-***
-
-## &nbsp;<img src="skills/B0194CJ63Q/skill_icon" alt="Phone Finder for Alexa icon" width="36"> [Phone Finder for Alexa](skills/B0194CJ63Q)
-
-*Alexa, open Phone Finder*
-
-Tired of missing your phone in your home? Use Echo to find your phone. Say "Open phone finder". This app requires a companion app from android app store.
 
 ***
 
