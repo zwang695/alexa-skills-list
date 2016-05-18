@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Education",
-  "description": "This skill reads out the definition of the Merriam-Webster Buzzword of the day from their wordcentral.com website. Optionally it reads out an example usage of the word and a quiz related to the word.\nIn the quiz saying \"The answer is B\" for example, helps Alexa to hear better than just saying \"B\" on its own.\nThis buzzword is more suitable for younger humanoids or those learning English.\nThis skill is not written by Merriam-Webster so errors or omissions are probably my own.",
+  "description": "This skill reads out the definition of the Merriam-Webster Buzzword of the day from their wordcentral.com website. Optionally it reads out an example usage of the word and a quiz related to the word.\nIn the quiz, saying \"The answer is B\" for example, helps Alexa to hear better than just saying \"B\" on its own. You can say \"pass\" if you do not know the answer, or just have a guess for fun.\nYou can say \"repeat\" at most stages to hear a section again.\nThis buzzword is more suitable for younger humanoids or those learning English.\nThis skill is not written by Merriam-Webster so errors or omissions are probably my own.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open daily buzzword.",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Reads the definition of the Merriam-Webster daily Buzzword from their website with an optional example usage and quiz,",
+  "shortDescription": "Reads the definition of the Merriam-Webster Daily Buzzword from their website with an optional example usage and quiz.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

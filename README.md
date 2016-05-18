@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 922
+**Total Skills Available:** 923
 
 ***
 
@@ -205,6 +205,14 @@ Alexa, ask Aeather about Minneapolis.
 *Alexa, ask Age Calculator, how old is someone born on June 12, 2015?*
 
 The Age Calculator helps calculate age between a given date and now.
+
+***
+
+## &nbsp;<img src="skills/B01ER0EA9U/skill_icon" alt="Aggie Facts icon" width="36"> [Aggie Facts](skills/B01ER0EA9U)
+
+*Alexa, ask Aggie Facts for a fact*
+
+Ask Alexa for facts about Texas A&M University and anything Aggie related.
 
 ***
 
@@ -1831,7 +1839,7 @@ Get a thought to improve your bootcamp experience.
 
 *Alexa, open daily buzzword.*
 
-Reads the definition of the Merriam-Webster daily Buzzword from their website with an optional example usage and quiz,
+Reads the definition of the Merriam-Webster Daily Buzzword from their website with an optional example usage and quiz.
 
 ***
 
