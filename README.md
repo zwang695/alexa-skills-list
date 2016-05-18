@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 920
+**Total Skills Available:** 922
 
 ***
 
@@ -781,6 +781,14 @@ Ask beer geek for a beer fact!
 *Alexa, launch Beer Trivia*
 
 Think you know beer? Crack open a cold one and test your beer and brewing knowledge with Beer Trivia! DISCLAIMER:  Beer trivia may not be suitable for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01FOULPX6/skill_icon" alt="Bellingham Activities icon" width="36"> [Bellingham Activities](skills/B01FOULPX6)
+
+*Alexa, launch bellingham activities*
+
+Get suggestions or tips on great locations for common activities in Bellingham, WA.
 
 ***
 
@@ -6604,6 +6612,14 @@ This is a multiple-choice trivia game to challenge what you know about the movie
 *Alexa, start trivia challenge*
 
 Practice your knowledge of U.S  History from the colonial times to current day with Trivia Challenge.
+
+***
+
+## &nbsp;<img src="skills/B01FOXWMQW/skill_icon" alt="Trivia Facts icon" width="36"> [Trivia Facts](skills/B01FOXWMQW)
+
+*Alexa, Open Trivia Facts*
+
+Trivia Facts
 
 ***
 
