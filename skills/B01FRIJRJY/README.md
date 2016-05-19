@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Venstar icon" width="36"> [Venstar](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd97c00b-5248-4b0b-ade9-4cfda4143773)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
 
 To use the Venstar skill, try saying...
 

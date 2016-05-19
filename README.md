@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 924
+**Total Skills Available:** 926
 
 ***
 
@@ -2845,6 +2845,14 @@ G. C. D.  The greatest common divisor of 2 numbers
 
 ***
 
+## &nbsp;<img src="skills/B01FPR5DLS/skill_icon" alt="Greek Gods quiz icon" width="36"> [Greek Gods quiz](skills/B01FPR5DLS)
+
+*Alexa, open greek gods quiz*
+
+Test your knowledge of the Greek Gods with these 20 questions.
+
+***
+
 ## &nbsp;<img src="skills/B01DWFB1DE/skill_icon" alt="GreenIQ icon" width="36"> [GreenIQ](skills/B01DWFB1DE)
 
 *Alexa, ask green i. q. to turn off all zones*
@@ -4703,6 +4711,14 @@ Based on the Standard Days Method by Georgetown University.
 *Alexa, ask Persian History*
 
 A simple trivia game about ancient Persian history
+
+***
+
+## &nbsp;<img src="skills/B01FT3SKD6/skill_icon" alt="PGA TOUR icon" width="36"> [PGA TOUR](skills/B01FT3SKD6)
+
+*Alexa, ask PGA TOUR for the leaderboard.*
+
+Get up to the minute scores and player standings from every PGA TOUR event
 
 ***
 
