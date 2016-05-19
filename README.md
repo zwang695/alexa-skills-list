@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 926
+**Total Skills Available:** 932
 
 ***
 
@@ -1121,6 +1121,14 @@ Let your echo help you do the calculation, it is cool and you won't make mistake
 
 ***
 
+## &nbsp;<img src="skills/B01FLJYG5E/skill_icon" alt="California fun facts icon" width="36"> [California fun facts](skills/B01FLJYG5E)
+
+*Alexa, ask cali fact for a california fact*
+
+Get the facts about California state.
+
+***
+
 ## &nbsp;<img src="skills/B0197GDSL0/skill_icon" alt="Call Sign icon" width="36"> [Call Sign](skills/B0197GDSL0)
 
 *Alexa load Call Sign and find november zero uniform sierra mike*
@@ -1465,6 +1473,14 @@ Learn more about the Civil War with Alexa!
 
 ***
 
+## &nbsp;<img src="skills/B01FQZRYHU/skill_icon" alt="COBOL Facts icon" width="36"> [COBOL Facts](skills/B01FQZRYHU)
+
+*Alexa, open COBOL Facts*
+
+Get a quick fact regarding the COBOL computer language.
+
+***
+
 ## &nbsp;<img src="skills/B01DQFWAEE/skill_icon" alt="Code Finder icon" width="36"> [Code Finder](skills/B01DQFWAEE)
 
 *Alexa, ask code finder where area code 253 is.*
@@ -1478,6 +1494,14 @@ Find information based on area code, postal code, or US city using Alexa.
 *Alexa, ask for a code phrase.*
 
 Generate a code phrase for your next top secret project!
+
+***
+
+## &nbsp;<img src="skills/B01FGY6GDE/skill_icon" alt="CodeCracker icon" width="36"> [CodeCracker](skills/B01FGY6GDE)
+
+*Alexa, ask Code Cracker for an easy code*
+
+Puzzle game based on Mastermind.
 
 ***
 
@@ -1960,6 +1984,14 @@ DiceBot is your sleazy friend on the inside. Just say the word, and the dice wil
 *Alexa, open dino trivia*
 
 A humorous dinosaur trivia game.   Echo asks questions and you answer by choosing 1,2,3,4.  Dinosaur questions include real and silly answers.
+
+***
+
+## &nbsp;<img src="skills/B01EXVZLAU/skill_icon" alt="Dinosaur Discovery icon" width="36"> [Dinosaur Discovery](skills/B01EXVZLAU)
+
+*Alexa, open dinosaur discovery*
+
+Dinosaur Discovery gives you the facts about our ancient lizard friends.
 
 ***
 
@@ -5974,6 +6006,14 @@ You're the commander of your own naval attack class submarine, tasked with facin
 
 ***
 
+## &nbsp;<img src="skills/B01F9KJ1E6/skill_icon" alt="SunKiss icon" width="36"> [SunKiss](skills/B01F9KJ1E6)
+
+*"Alexa, ask Sun Kiss to give me a kiss fact"*
+
+Sun Kiss will give you kissing facts. "Alexa, ask Sun Kiss for a fact". You will hear a fact about kissing. Sun Kiss may not be suitable for all ages.
+
+***
+
 ## &nbsp;<img src="skills/B01ES5QN76/skill_icon" alt="Super Hero Trivia icon" width="36"> [Super Hero Trivia](skills/B01ES5QN76)
 
 *Alexa, play Super Hero Trivia*
@@ -6195,6 +6235,14 @@ Converse with The Dude! Engage in conversations with The Dude from the movie The
 *Alexa, ask The General to say Hello in Morse Code*
 
 Spell Words in telephony or Morse Code
+
+***
+
+## &nbsp;<img src="skills/B01FONCOHO/skill_icon" alt="The Impossible Quiz icon" width="36"> [The Impossible Quiz](skills/B01FONCOHO)
+
+*alexa, start impossible quiz*
+
+The Impossible Quiz for Alexa
 
 ***
 
