@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 932
+**Total Skills Available:** 946
 
 ***
 
@@ -397,6 +397,14 @@ Alexa is learning a few new languages, animal languages that is. Ask Alexa to ma
 *Alexa, launch Anime Trivia*
 
 Anime Trivia is a game for anime fans to test their knowledge of both popular and less known series.
+
+***
+
+## &nbsp;<img src="skills/B01FJ4B0YG/skill_icon" alt="Antonym Scalia icon" width="36"> [Antonym Scalia](skills/B01FJ4B0YG)
+
+*Alexa ask antonym finder what is the opposite of fast*
+
+A Antonym lookup for Alexa providing antonyms when ever you need them. Look wicked smart without breaking your stride.
 
 ***
 
@@ -1891,6 +1899,22 @@ Selects a new word for every day of the year.
 
 ***
 
+## &nbsp;<img src="skills/B01FORC8IA/skill_icon" alt="Dance Moves icon" width="36"> [Dance Moves](skills/B01FORC8IA)
+
+*Alexa, ask dance moves how can I do the moonwalk*
+
+A skill that describes dance moves.
+
+***
+
+## &nbsp;<img src="skills/B01FLMSIBE/skill_icon" alt="Date Fact icon" width="36"> [Date Fact](skills/B01FLMSIBE)
+
+*Alexa ask amazing date fact what happened in history today*
+
+Get interesting facts about what happened in history on this day and month.
+
+***
+
 ## &nbsp;<img src="skills/B01EVIEA5C/skill_icon" alt="Date Ninja icon" width="36"> [Date Ninja](skills/B01EVIEA5C)
 
 *Alexa, ask Date Ninja what day of the week is December 25, 2016?*
@@ -2528,6 +2552,14 @@ Retrieve today's Food Holiday
 *Alexa, start foodie trivia*
 
 A trivia game for foodies
+
+***
+
+## &nbsp;<img src="skills/B01FNMN6T6/skill_icon" alt="Football Buddy icon" width="36"> [Football Buddy](skills/B01FNMN6T6)
+
+*Alexa, ask football buddy about the touchdown*
+
+Learn the football terms to talk and understand about the game, when talking to your football fan friends and colleagues
 
 ***
 
@@ -3389,6 +3421,14 @@ Voice control your ISY devices, scenes, and even programs!
 
 ***
 
+## &nbsp;<img src="skills/B01FMD7Q38/skill_icon" alt="It's Five O'Clock Now! icon" width="36"> [It's Five O'Clock Now!](skills/B01FMD7Q38)
+
+*Alexa, open It's Five Now*
+
+A wise man once said, "It's Five O'Clock Somewhere." Well, now you can find out where in the world it's five o'clock right now!
+
+***
+
 ## &nbsp;<img src="skills/B01BFYLGD4/skill_icon" alt="ITIL Foundation Quiz icon" width="36"> [ITIL Foundation Quiz](skills/B01BFYLGD4)
 
 *Alexa, open I till Foundation Quiz.*
@@ -3856,6 +3896,14 @@ Practice your math arithmetic with this skill
 
 ***
 
+## &nbsp;<img src="skills/B01FQ8LP40/skill_icon" alt="Math Dog icon" width="36"> [Math Dog](skills/B01FQ8LP40)
+
+*Alexa, open Math Dog.*
+
+A quiz style math game to help users master basic math facts.  Fun for kindergarten to adults.
+
+***
+
 ## &nbsp;<img src="skills/B01DR1AJNG/skill_icon" alt="Math Fun icon" width="36"> [Math Fun](skills/B01DR1AJNG)
 
 *Alexa, start math fun.*
@@ -3885,6 +3933,14 @@ A simple math based game
 *Alexa, open Math Puzzles.*
 
 Math Puzzles is a fun way to challenge yourself and your friends. You’ll hear a series of numbers and you must guess the next logical number in the sequence.
+
+***
+
+## &nbsp;<img src="skills/B01FNR507W/skill_icon" alt="Math Trivia icon" width="36"> [Math Trivia](skills/B01FNR507W)
+
+*Alexa, open math trivia*
+
+The Math History Trivia skill will ask you questions about math that require NO math skills!
 
 ***
 
@@ -4601,6 +4657,14 @@ A simple skill that reads you a noteworthy quote
 
 ***
 
+## &nbsp;<img src="skills/B01FNHEJ8I/skill_icon" alt="Number Trivia icon" width="36"> [Number Trivia](skills/B01FNHEJ8I)
+
+*Alexa ask number trivia 31*
+
+Number trivia tells you interesting trivia about numbers.
+
+***
+
 ## &nbsp;<img src="skills/B01A1GTOE0/skill_icon" alt="NYC Subway Status icon" width="36"> [NYC Subway Status](skills/B01A1GTOE0)
 
 *Alexa, open subway*
@@ -4857,6 +4921,14 @@ Use Pitch Pipe to play any of the thirteen pitches in an octave. Use it as a dig
 *Alexa, Launch Pizza Facts*
 
 Facts about the humankind's greatest achievement: pizza
+
+***
+
+## &nbsp;<img src="skills/B01FLGHBN6/skill_icon" alt="Planting Time icon" width="36"> [Planting Time](skills/B01FLGHBN6)
+
+*Alexa, ask planting time when to plant tomatoes?*
+
+Find out when to plant common garden vegetables, Zone 5-6.
 
 ***
 
@@ -5468,6 +5540,14 @@ Alexa knows all about elements of the periodic table. Ask Alexa to share her kno
 
 ***
 
+## &nbsp;<img src="skills/B01FLGTUNA/skill_icon" alt="Salad Bar icon" width="36"> [Salad Bar](skills/B01FLGTUNA)
+
+*Alexa, ask salad bar what is the recipe of Caesar salad*
+
+Salad Bar provides you the recipes of over 50 different salads. Like "Caesar Salad", "Hearty Tuna Salad", "Southwestern Cobb" and many more.
+
+***
+
 ## &nbsp;<img src="skills/B01E8NGW60/skill_icon" alt="Samsung ARTIK Cloud icon" width="36"> [Samsung ARTIK Cloud](skills/B01E8NGW60)
 
 *Alexa, start ARTIK*
@@ -5521,6 +5601,14 @@ A Science Trivia app for those who love science! Just say"Alexa, tell Science Tr
 *Alexa start science trivia game*
 
 Simple science trivia game
+
+***
+
+## &nbsp;<img src="skills/B01FMXYIRK/skill_icon" alt="SciFi Trivia icon" width="36"> [SciFi Trivia](skills/B01FMXYIRK)
+
+*Alexa open scifi trivia*
+
+SciFi Trivia
 
 ***
 
@@ -6823,6 +6911,14 @@ See how well do you know about Sofia the First.
 
 ***
 
+## &nbsp;<img src="skills/B01F99FYKC/skill_icon" alt="Trivia Game for Star Wars icon" width="36"> [Trivia Game for Star Wars](skills/B01F99FYKC)
+
+*Alexa, play Trivia Game for Star Wars*
+
+"[This] ain't like dustin' crops, boy." Not the first Star Wars Trivia game you will have played, but likely the last.
+
+***
+
 ## &nbsp;<img src="skills/B01DZW9HPI/skill_icon" alt="Trivia Geek icon" width="36"> [Trivia Geek](skills/B01DZW9HPI)
 
 *Alexa, launch Trivia Geek*
@@ -7312,6 +7408,14 @@ Want to be able to ask Alexa what the wind conditions are like for your city?
 
 ***
 
+## &nbsp;<img src="skills/B01EBCRJVA/skill_icon" alt="Wine Buddy icon" width="36"> [Wine Buddy](skills/B01EBCRJVA)
+
+*Alexa, ask wine buddy what should I pair with chicken?*
+
+Wine Buddy provides pairing tips and temperature recommendations.
+
+***
+
 ## &nbsp;<img src="skills/B01E9LZZ3M/skill_icon" alt="Wine Facts icon" width="36"> [Wine Facts](skills/B01E9LZZ3M)
 
 *Alexa, open Wine Facts.*
@@ -7389,6 +7493,14 @@ Are you interested in world history. Rely on World History for hundreds of event
 *Alexa, play would you rather*
 
 Would you rather eat a hundred chillies or never eat again? Let Alexa ask you silly questions.
+
+***
+
+## &nbsp;<img src="skills/B01FH2MW42/skill_icon" alt="Wrestling Facts icon" width="36"> [Wrestling Facts](skills/B01FH2MW42)
+
+*Alexa, ask Wrestling Facts to tell me a fact about wrestling.*
+
+Learn fun and exciting facts about the history of the sport of Wrestling.
 
 ***
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Dinosaur Facts icon" width="36"> [Dinosaur Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.552b00cc-b450-4565-b290-6a76b7569f8f)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Dinosaur Facts skill, try saying...
 

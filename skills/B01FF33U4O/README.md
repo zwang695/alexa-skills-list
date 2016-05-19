@@ -9,7 +9,7 @@ To use the Hollywood Dogs skill, try saying...
 
 * *Alexa, open Hollywood Dogs*
 
-This skill provides trivia about the famous dogs that have starred and film and television.
+This skill provides trivia facts about the famous dogs of film and television.
 
 ***
 

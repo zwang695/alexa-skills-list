@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Entertainment",
-  "description": "This skill provides trivia about the famous dogs that have starred and film and television.",
+  "description": "This skill provides trivia facts about the famous dogs of film and television.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Hollywood Dogs for some pooch gossip",

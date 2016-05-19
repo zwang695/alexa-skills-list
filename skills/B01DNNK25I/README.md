@@ -7,11 +7,11 @@ To use the The Pianist skill, try saying...
 
 * *Alexa, ask The Pianist to help me warm up.*
 
-* *Alexa, tell the Pianist to give me a B flat.*
+* *Alexa, tell The Pianist to give me a B flat.*
 
 The Pianist helps you practice. Do you need to tune your instrument? Just ask for an "A"! You can also warm up your vocals by saying, "Alexa, ask The Pianist to help me warm up".
 
-Update: You can now extend your warmup by going back down, going higher than C5, and lower than C4.
+Update: You can now extend your warmup by going back down, going higher than C5, and lower than C4. Response time has also been improved.
 
 ***
 
