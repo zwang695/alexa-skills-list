@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 958
+**Total Skills Available:** 962
 
 ***
 
@@ -114,6 +114,14 @@ Do you know ultimate abilities as well as the pros do? Perfect for shoutcaster t
 *Alexa Tell abode that I am leaving*
 
 Control your abode home security system with Alexa voice commands.  Ask Alexa to arm your system, get the status of your doors, or determine your system status.
+
+***
+
+## &nbsp;<img src="skills/B01EB2UM8M/skill_icon" alt="AboutAudacyCorp icon" width="36"> [AboutAudacyCorp](skills/B01EB2UM8M)
+
+*alexa ask audacy tell me some facts*
+
+Little fun facts about Audacy Corp (http://audacy.space) from vision, products and technology inside.
 
 ***
 
@@ -2536,6 +2544,14 @@ Search DOMESTIC U.S. flights for lowest price, one way or round trip. Say "Ask F
 *Alexa, launch Florida Trivia*
 
 Florida Trivia
+
+***
+
+## &nbsp;<img src="skills/B01FL68TBY/skill_icon" alt="Focus Sceener icon" width="36"> [Focus Sceener](skills/B01FL68TBY)
+
+*Alexa start  Focus screener*
+
+This app will ask 18  questions from DSM-IV-TR criteria symptom checklist.
 
 ***
 
@@ -5468,6 +5484,14 @@ Use this skill to repeat anything you say to Alexa
 
 ***
 
+## &nbsp;<img src="skills/B01F9XBS26/skill_icon" alt="Reporter for The Drudge Report icon" width="36"> [Reporter for The Drudge Report](skills/B01F9XBS26)
+
+*Alexa, ask Reporter Dee for the latest headlines.*
+
+Reads the latest headlines from The Drudge Report to you.
+
+***
+
 ## &nbsp;<img src="skills/B019YGPC1M/skill_icon" alt="Resistor Decoder icon" width="36"> [Resistor Decoder](skills/B019YGPC1M)
 
 *Alexa, open Resistor Decoder.*
@@ -6788,6 +6812,14 @@ Test your knowledge of the college basketball tournament.
 *null*
 
 Kasa is a simple way to manage your home from anywhere.
+
+***
+
+## &nbsp;<img src="skills/B01F9467IK/skill_icon" alt="Track by Nutritionix icon" width="36"> [Track by Nutritionix](skills/B01F9467IK)
+
+*Alexa, tell food tracker to log a glass of milk*
+
+Use Track by Nutritionix to get nutritional information on all your favorite foods and track the foods you eat.
 
 ***
 
