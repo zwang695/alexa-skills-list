@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 946
+**Total Skills Available:** 948
 
 ***
 
@@ -245,6 +245,14 @@ Real time air quality rating for major U.S. cities. Alexa, launch Air Quality Me
 *Alexa, ask air quality report for zip code nine eight one zero nine*
 
 Get air quality report for 5-digit US ZIP codes
+
+***
+
+## &nbsp;<img src="skills/B01F9KW5G2/skill_icon" alt="Airport METAR Reader icon" width="36"> [Airport METAR Reader](skills/B01F9KW5G2)
+
+*Alexa, ask airport weather to get Cincinnati*
+
+Reads aloud succinct weather reports (METARS) from airport weather stations, formatted to sound like ATIS.
 
 ***
 
@@ -6572,6 +6580,14 @@ An app for Bay Area commuters for getting Caltrain information regarding fare an
 *Alexa ask Times for Marta what are the times for the airport?*
 
 Times for MARTA will tell you how soon the next train will arrive at different stations within the MARTA subway system in Atlanta.
+
+***
+
+## &nbsp;<img src="skills/B01FHIBJPE/skill_icon" alt="Times Table icon" width="36"> [Times Table](skills/B01FHIBJPE)
+
+*Alexa, open times table*
+
+Times Table is an easy, fun educational game to learn the basic times table.
 
 ***
 
