@@ -8,9 +8,9 @@
   "description": "This skill tells today's currency conversion rate of Dollar to Indian Rupee. \n\nIn future, this skill also shows rates provided by various remittance service providers, and provides comparison of those. In our next version, we will providing the support for averages and monitoring/reminders based on user set thresholds. Hope you like this simple skill on Alexa and I am looking forward for your input on how this can be made better for your use.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa ask currency monitor for dollar rate",
-    "Alexa ask currency monitor how is dollar doing today",
-    "Alexa ask currency monitor for dollar conversion rate"
+    "Alexa, open currency monitor",
+    "Alexa, ask currency monitor for dollar rate",
+    "Alexa, ask currency monitor for dollar conversion rate"
   ],
   "firstReleaseDate": 1461839915.347,
   "homepageLinkText": null,

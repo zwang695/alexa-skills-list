@@ -3,11 +3,11 @@
 
 To use the Currency Monitor skill, try saying...
 
-* *Alexa ask currency monitor for dollar rate*
+* *Alexa, open currency monitor*
 
-* *Alexa ask currency monitor how is dollar doing today*
+* *Alexa, ask currency monitor for dollar rate*
 
-* *Alexa ask currency monitor for dollar conversion rate*
+* *Alexa, ask currency monitor for dollar conversion rate*
 
 This skill tells today's currency conversion rate of Dollar to Indian Rupee. 
 

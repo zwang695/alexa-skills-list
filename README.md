@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 948
+**Total Skills Available:** 958
 
 ***
 
@@ -1845,7 +1845,7 @@ Alexa is able to convert 10 kind of currencies from the world and tell you the c
 
 ## &nbsp;<img src="skills/B01DRLPHQK/skill_icon" alt="Currency Monitor icon" width="36"> [Currency Monitor](skills/B01DRLPHQK)
 
-*Alexa ask currency monitor for dollar rate*
+*Alexa, open currency monitor*
 
 Currency Monitor that provides today's dollar conversion rate to Indian Rupee.
 
@@ -1896,6 +1896,14 @@ Reads the definition of the Merriam-Webster Daily Buzzword from their website wi
 *Alexa, ask Daily Cutiemals to send me a cute cat picture*
 
 Daily Cutiemals will send cute animal pictures to your email!
+
+***
+
+## &nbsp;<img src="skills/B01FOLSBH8/skill_icon" alt="Daily Journal Prompts icon" width="36"> [Daily Journal Prompts](skills/B01FOLSBH8)
+
+*Alexa, Open Journal Prompt.*
+
+Daily Journal Prompt will provide you daily writing ideas to help you find unique things to journal about and help you maintain a daily practice of writing.
 
 ***
 
@@ -3333,6 +3341,14 @@ Welcome to my inn! You can talk to your favorite Hearthstone heroes, and they'll
 
 ***
 
+## &nbsp;<img src="skills/B01FLLD6DU/skill_icon" alt="Instant Inspiration icon" width="36"> [Instant Inspiration](skills/B01FLLD6DU)
+
+*Alexa ask inspiration station to feed my imagination*
+
+Get inspirational quotes from famous folk and the movies.
+
+***
+
 ## &nbsp;<img src="skills/B01EIQOOUS/skill_icon" alt="Insteon icon" width="36"> [Insteon](skills/B01EIQOOUS)
 
 *null*
@@ -3548,6 +3564,14 @@ Seek general health information for common ailments and medication dosing from B
 *Alexa, Launch King Of Pop*
 
 A fun trivia for fans of Michael Jackson - King of Pop. Alexa, launch King Of Pop Trivia
+
+***
+
+## &nbsp;<img src="skills/B01FTTXQ4S/skill_icon" alt="Kirkland Middle School STEM Night icon" width="36"> [Kirkland Middle School STEM Night](skills/B01FTTXQ4S)
+
+*Alexa, Open stem night*
+
+This skill was built for Kirkland Middle School for the STEM event. If you want to see the facts we collected, simply say "Alexa, Open stem night".
 
 ***
 
@@ -3973,6 +3997,14 @@ Checks the MBTA system for any alerts on the subway or commuter rail lines
 *Alexa, ask m. b. t. a. helper when is the next park street train arriving at brookline village*
 
 Boston MBTA helper
+
+***
+
+## &nbsp;<img src="skills/B01FTD1VQ4/skill_icon" alt="Meal Dictator icon" width="36"> [Meal Dictator](skills/B01FTD1VQ4)
+
+*Alexa, ask Meal Dictator to find me a place to eat in Cincinnati*
+
+Meal Dictator is a skill that will remove the hassle of selecting a place to eat by randomly finding a restaurant near you.
 
 ***
 
@@ -4665,6 +4697,14 @@ A simple skill that reads you a noteworthy quote
 
 ***
 
+## &nbsp;<img src="skills/B01FNFK5Z6/skill_icon" alt="Number Fact icon" width="36"> [Number Fact](skills/B01FNFK5Z6)
+
+*Alexa ask number fact 317*
+
+A service to tell you interesting facts about numbers.
+
+***
+
 ## &nbsp;<img src="skills/B01FNHEJ8I/skill_icon" alt="Number Trivia icon" width="36"> [Number Trivia](skills/B01FNHEJ8I)
 
 *Alexa ask number trivia 31*
@@ -4940,6 +4980,14 @@ Find out when to plant common garden vegetables, Zone 5-6.
 
 ***
 
+## &nbsp;<img src="skills/B01FNLZ45Q/skill_icon" alt="Planting Time Zone 1 icon" width="36"> [Planting Time Zone 1](skills/B01FNLZ45Q)
+
+*Alexa, ask Planting Time when to plant carrots.*
+
+Planting times for zone 1.
+
+***
+
 ## &nbsp;<img src="skills/B01F199E4C/skill_icon" alt="Platypus Geek icon" width="36"> [Platypus Geek](skills/B01F199E4C)
 
 *Alexa, ask platypus geek for a platypus fact*
@@ -5033,6 +5081,14 @@ Ask Powerball for the Latest Winning Powerball Numbers!
 *Alexa, open power ball numbers*
 
 Tells you what the most recent winning Powerball lottery numbers were.  May not be suitable for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01FOP3I0Y/skill_icon" alt="Pregnancy Facts icon" width="36"> [Pregnancy Facts](skills/B01FOP3I0Y)
+
+*Alexa, Ask Pregnancy Facts for a Fact*
+
+Ever wanted to know random facts about a developing baby in the womb? Go ahead and ask.
 
 ***
 
@@ -6775,6 +6831,14 @@ Provides information regarding curbside collection holidays for Anne Arundel Co.
 
 ***
 
+## &nbsp;<img src="skills/B01FRG1JSS/skill_icon" alt="Trekkie Trivia icon" width="36"> [Trekkie Trivia](skills/B01FRG1JSS)
+
+*Alexa Start Trekkie Trivia*
+
+Trivia for Trekkie's Test your knowledge with the Star Trek Series Trivia game!
+
+***
+
 ## &nbsp;<img src="skills/B01EQXQVSQ/skill_icon" alt="Tricities Karaoke icon" width="36"> [Tricities Karaoke](skills/B01EQXQVSQ)
 
 *Alexa, ask Tricities Karaoke where can I sing tonight*
@@ -7520,6 +7584,14 @@ Learn fun and exciting facts about the history of the sport of Wrestling.
 
 ***
 
+## &nbsp;<img src="skills/B01FNI61TW/skill_icon" alt="Year-o-matic icon" width="36"> [Year-o-matic](skills/B01FNI61TW)
+
+*Alexa ask year facts about 1971*
+
+Year facts, say a year, get a fact.
+
+***
+
 ## &nbsp;<img src="skills/B01BO41DLU/skill_icon" alt="Yo Mama Jokes icon" width="36"> [Yo Mama Jokes](skills/B01BO41DLU)
 
 *Alexa, ask Yo Mama to make a joke*
@@ -7541,6 +7613,14 @@ Tells a "yo momma" joke. Have Alexa start it, or ask it for a joke by saying "Al
 *Alexa, Ask Yoga Guru how do I pose a cobra*
 
 Yoga Guru is a skill which will tell you how to do a yoga pose.
+
+***
+
+## &nbsp;<img src="skills/B01FNEWM8K/skill_icon" alt="yoga trainer icon" width="36"> [yoga trainer](skills/B01FNEWM8K)
+
+*Alexa, ask Yoga Trainer for the next pose*
+
+Yoga Trainer
 
 ***
 
