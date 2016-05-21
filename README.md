@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 981
+**Total Skills Available:** 982
 
 ***
 
@@ -4341,6 +4341,14 @@ Get your daily motivational quote from Alexa.
 *alexa, ask movie info about the magnificent seven*
 
 Gets movie details by searching theMovieDB.org based on title
+
+***
+
+## &nbsp;<img src="skills/B01EY1CNK0/skill_icon" alt="Movie Quiz icon" width="36"> [Movie Quiz](skills/B01EY1CNK0)
+
+*Alexa, ask Movie Quiz to start new game.*
+
+Test your movie knowledge with this fun quiz.
 
 ***
 

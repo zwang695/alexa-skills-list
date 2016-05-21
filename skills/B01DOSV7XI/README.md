@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Train Times for LIRR icon" width="36"> [Train Times for LIRR](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f574223b-6c2d-446f-a5e0-1f52d900b50a)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Train Times for LIRR skill, try saying...
 
