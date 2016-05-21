@@ -5,7 +5,7 @@
     "www.myhome.bryant.com"
   ],
   "asin": "B01EIQ3P08",
-  "averageRating": 3.8,
+  "averageRating": 3.5,
   "canDisable": false,
   "capabilities": null,
   "category": "CONNECTED_HOME",
@@ -25,7 +25,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "ecobee",
-  "numberOfReviews": 8,
+  "numberOfReviews": 9,
   "pamsPartnerId": "z69BC5NMj24hf7VGggT8Wvq6W",
   "permissions": null,
   "privacyPolicyUrl": "https://www.ecobee.com/legal/use/",

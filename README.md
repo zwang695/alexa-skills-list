@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 962
+**Total Skills Available:** 964
 
 ***
 
@@ -2922,6 +2922,14 @@ Focused on love, living The Good Samaritan Society Way
 *Alexa, open go spurs trivia*
 
 Just a fun little trivia app for Spurs fans. We are not officially related in any way - we just like the Spurs. Go Spurs Go!
+
+***
+
+## &nbsp;<img src="skills/B01FOR4068/skill_icon" alt="Grace: Table Blessings for the Family icon" width="36"> [Grace: Table Blessings for the Family](skills/B01FOR4068)
+
+*Alexa, begin table blessings*
+
+Grace allows you to hear some table blessings and graces for the entire family. Enable the skill, learn a few table blessings, or have Alexa lead grace tonight.
 
 ***
 
@@ -7661,6 +7669,14 @@ Yoga Trainer
 *null*
 
 Yonomi connects all of your devices under one roof for free – including Sonos, Logitech Harmony, Hue and more. Control all of your devices with just your voice!
+
+***
+
+## &nbsp;<img src="skills/B01FN3BEF8/skill_icon" alt="Young Poet: Poems Every Child Should Know icon" width="36"> [Young Poet: Poems Every Child Should Know](skills/B01FN3BEF8)
+
+*Alexa, Launch Young Poet.*
+
+The Young Poet is a random collection of poems for children of all ages. Enable the skill to ask for today's poem or the daily rhyme.
 
 ***
 
