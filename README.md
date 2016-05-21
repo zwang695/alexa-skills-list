@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 964
+**Total Skills Available:** 981
 
 ***
 
@@ -784,6 +784,14 @@ Manage a family or group rewards system, keeps track of points like a virtual "b
 
 ***
 
+## &nbsp;<img src="skills/B01FPK32FY/skill_icon" alt="Beanie Boos Birthdays icon" width="36"> [Beanie Boos Birthdays](skills/B01FPK32FY)
+
+*Alexa, ask Beanie Boos when is Pippie's birthday?*
+
+Want to know when a Beanie Boo's birthday is?  Ask Alexa!
+
+***
+
 ## &nbsp;<img src="skills/B01EXNU2EI/skill_icon" alt="beans5 icon" width="36"> [beans5](skills/B01EXNU2EI)
 
 *Alexa, ask how many beans make five*
@@ -877,6 +885,14 @@ The Bible App for Alexa can read Bible verses and chapters to you in your favori
 *Alexa, ask Bible Seeds for seeds*
 
 Learn a few selected Bible passages (about 20). I have memorized these, and they act as seeds, allowing the messages to grow within.
+
+***
+
+## &nbsp;<img src="skills/B01FOJ3TWC/skill_icon" alt="Bible Trivia icon" width="36"> [Bible Trivia](skills/B01FOJ3TWC)
+
+*Alexa play Bible Trivia*
+
+Bible Trivia
 
 ***
 
@@ -1747,6 +1763,14 @@ Can't remember exactly how to craft an enchantment table or a dropper in Minecra
 
 ***
 
+## &nbsp;<img src="skills/B01EXOH8ZI/skill_icon" alt="Crater Moon Trivia icon" width="36"> [Crater Moon Trivia](skills/B01EXOH8ZI)
+
+*Alexa open crater moon*
+
+Crater of the Moon is a trivia game based on facts about the Crater of the Moon National Monument and Preserve located in the State of Idaho
+
+***
+
 ## &nbsp;<img src="skills/B01EP953VM/skill_icon" alt="Creative Strategies icon" width="36"> [Creative Strategies](skills/B01EP953VM)
 
 *Alexa, ask creative strategies for an idea*
@@ -2475,6 +2499,14 @@ Ask Fidelity Quote Lookup and Market Update
 
 ***
 
+## &nbsp;<img src="skills/B01FY5S8D6/skill_icon" alt="Fire Trivia Game icon" width="36"> [Fire Trivia Game](skills/B01FY5S8D6)
+
+*Alexa, open fire trivia.*
+
+Firefighter Trivia Game is a trivia game based on basic knowledge for firefighters.
+
+***
+
 ## &nbsp;<img src="skills/B01COSUL7C/skill_icon" alt="FirstaidEgghead icon" width="36"> [FirstaidEgghead](skills/B01COSUL7C)
 
 *Alexa, ask first aid egghead what's the treatment for a cut*
@@ -2709,6 +2741,14 @@ Frontend Quiz is an educational skill for Amazon Echo. It will ask 10 questions 
 
 ***
 
+## &nbsp;<img src="skills/B01FON5LUG/skill_icon" alt="Fruit Facts icon" width="36"> [Fruit Facts](skills/B01FON5LUG)
+
+*Alexa, open fruit facts*
+
+Facts about fruit.
+
+***
+
 ## &nbsp;<img src="skills/B01ENXQVDE/skill_icon" alt="Fun Sports Facts icon" width="36"> [Fun Sports Facts](skills/B01ENXQVDE)
 
 *Alexa, launch sports facts.*
@@ -2746,6 +2786,14 @@ Funny Quoter is here to make you smile with dozens of funny quotes. Just ask Ale
 *Alexa, ask Game Dice to roll three ten siders*
 
 Use Game Dice to have Alexa roll dice of various sizes for you.
+
+***
+
+## &nbsp;<img src="skills/B01FOJ4ZWU/skill_icon" alt="Game Geek icon" width="36"> [Game Geek](skills/B01FOJ4ZWU)
+
+*Alexa, Game Geek*
+
+Game Geek is a fact skill by Ethan Falck that gives off random interesting video game facts
 
 ***
 
@@ -3493,6 +3541,14 @@ Jack's Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01FNPFJOI/skill_icon" alt="Java Quiz Game icon" width="36"> [Java Quiz Game](skills/B01FNPFJOI)
+
+*Alexa, open java quiz*
+
+Java multiple choice questions
+
+***
+
 ## &nbsp;<img src="skills/B01FL8JHL8/skill_icon" alt="Java Trivia icon" width="36"> [Java Trivia](skills/B01FL8JHL8)
 
 *Alexa, launch java trivia*
@@ -4008,6 +4064,14 @@ Math Tutor can read out the multiplication tables between 1 and 10.
 
 ***
 
+## &nbsp;<img src="skills/B01FX9B2UY/skill_icon" alt="Max Trivia icon" width="36"> [Max Trivia](skills/B01FX9B2UY)
+
+*Alexa open max trivia*
+
+Trivia game about Max
+
+***
+
 ## &nbsp;<img src="skills/B01D30TK7W/skill_icon" alt="MBTA Alerts icon" width="36"> [MBTA Alerts](skills/B01D30TK7W)
 
 *Alexa, ask Boston Transit if there are any alerts on the green line*
@@ -4229,6 +4293,14 @@ Allows you to control your home using an ISY home-automation controller with Mob
 *Alexa, ask Mojio where is my car*
 
 Talk to your car with the Amazon Echo skill by Mojio. Connect your Alexa and Mojio accounts  to get real-time information about your car, no matter where it is.
+
+***
+
+## &nbsp;<img src="skills/B01FMPWMP8/skill_icon" alt="Money Converter icon" width="36"> [Money Converter](skills/B01FMPWMP8)
+
+*Alexa ask money converter how much is 100 euros in dollars*
+
+Money Converter
 
 ***
 
@@ -4529,6 +4601,14 @@ Explore a mysterious castle, collecting items and solving puzzles.
 
 ***
 
+## &nbsp;<img src="skills/B01FOPC2G0/skill_icon" alt="Mythical Unicorn Trivia icon" width="36"> [Mythical Unicorn Trivia](skills/B01FOPC2G0)
+
+*Alexa, Start Mythical Unicorn Trivia*
+
+Unicorn Trivia is a fun way to test your knowledge of the legends and folklore around unicorns. Take the quiz and see if you are a Unicorn expert.
+
+***
+
 ## &nbsp;<img src="skills/B01D8GQC90/skill_icon" alt="MyThoughts icon" width="36"> [MyThoughts](skills/B01D8GQC90)
 
 *Alexa, ask MyThoughts for an Affirmation.*
@@ -4782,6 +4862,14 @@ OEIS: The On-Line Encyclopedia of Integer Sequences
 *Alexa ask office assistant*
 
 Office Assistant Skill:-This aims at providing facility to find Mobile Number of Client
+
+***
+
+## &nbsp;<img src="skills/B01FGSRI4Q/skill_icon" alt="Oklahoma Sports Trivia icon" width="36"> [Oklahoma Sports Trivia](skills/B01FGSRI4Q)
+
+*Alexa, open Oklahoma Sports trivia*
+
+Sports Trivia
 
 ***
 
@@ -6110,6 +6198,14 @@ State Trees is a trivia game that will test your knowledge on state trees. How m
 
 ***
 
+## &nbsp;<img src="skills/B01FIGMN6O/skill_icon" alt="States Trivia icon" width="36"> [States Trivia](skills/B01FIGMN6O)
+
+*Alexa, Open states trivia*
+
+Fun Facts about U.S. States
+
+***
+
 ## &nbsp;<img src="skills/B01DLDYGLQ/skill_icon" alt="Stats for FRC icon" width="36"> [Stats for FRC](skills/B01DLDYGLQ)
 
 *Alexa, ask Robot Scout how team 1902 did in their last match*
@@ -6331,6 +6427,14 @@ Get the tennis experience of pros - coordinated match play and scoring, all your
 *Alexa, ask terrell Trivia to Start game*
 
 This is a spinoff of the trivia Skill.
+
+***
+
+## &nbsp;<img src="skills/B01FOX6Y4I/skill_icon" alt="The Answer is Bacon icon" width="36"> [The Answer is Bacon](skills/B01FOX6Y4I)
+
+*Alexa ask tough questions what goes well with chicken*
+
+Ask the tough questions, get the right answer...every time.
 
 ***
 
@@ -6599,6 +6703,14 @@ Let Alexa control your Nest Learning Thermostat
 
 ***
 
+## &nbsp;<img src="skills/B01EDTE3G0/skill_icon" alt="Thesaurus Rex icon" width="36"> [Thesaurus Rex](skills/B01EDTE3G0)
+
+*Alexa ask synonym finder a word for cow*
+
+A Thesaurus for Alexa providing synonyms when ever you need them. Look wicked smart without breaking your stride.
+
+***
+
 ## &nbsp;<img src="skills/B01AYU88N6/skill_icon" alt="Thirteen icon" width="36"> [Thirteen](skills/B01AYU88N6)
 
 *Alexa open Thirteen*
@@ -6764,6 +6876,14 @@ Ask for the most current game token price in gold for World of Warcraft!
 *Alexa, start Matrix Calculator*
 
 A skill that calculates the tone row matrix for an inputted twelve tone row.
+
+***
+
+## &nbsp;<img src="skills/B01FPW5CNM/skill_icon" alt="Tonight on a Very Special Episode: Trivia for Fans icon" width="36"> [Tonight on a Very Special Episode: Trivia for Fans](skills/B01FPW5CNM)
+
+*Alexa, open Tonight's Special Episode*
+
+Test your knowledge of "very special episodes" of the 80s and 90s
 
 ***
 
@@ -7312,6 +7432,14 @@ Test your trivia knowledge with this fun skill!
 
 ***
 
+## &nbsp;<img src="skills/B01FWM463M/skill_icon" alt="Useless Trivia icon" width="36"> [Useless Trivia](skills/B01FWM463M)
+
+*Alexa, Open Useless Trivia*
+
+I am FULL of absolutely useless information. Astound your friends with useless facts.
+
+***
+
 ## &nbsp;<img src="skills/B01DWXGIR0/skill_icon" alt="Utah.Gov icon" width="36"> [Utah.Gov](skills/B01DWXGIR0)
 
 *Alexa, open Utah.gov*
@@ -7669,6 +7797,14 @@ Yoga Trainer
 *null*
 
 Yonomi connects all of your devices under one roof for free – including Sonos, Logitech Harmony, Hue and more. Control all of your devices with just your voice!
+
+***
+
+## &nbsp;<img src="skills/B01FO63PMY/skill_icon" alt="You Don't Say icon" width="36"> [You Don't Say](skills/B01FO63PMY)
+
+*Alexa, launch you don't say*
+
+Getting know facts is FUN
 
 ***
 
