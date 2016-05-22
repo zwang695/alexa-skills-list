@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Haiku Home icon" width="36"> [Haiku Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.a5572454-202a-4198-9231-4d2856e7cb08)
-![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 8
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the Haiku Home skill, try saying...
 

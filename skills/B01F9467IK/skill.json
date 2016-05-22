@@ -13,7 +13,7 @@
     "www.facebook.com"
   ],
   "asin": "B01F9467IK",
-  "averageRating": 0,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Health-and-Fitness",
@@ -33,7 +33,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "food tracker",
   "name": "Track by Nutritionix",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "mtHxlAr4mzpQoDgfVkNUPCQpE",
   "permissions": null,
   "privacyPolicyUrl": "http://www.nutritionix.com/privacy",

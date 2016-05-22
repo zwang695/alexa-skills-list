@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DZRLWFQ",
-  "averageRating": 4,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Social",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "thirty sec",
   "name": "30Sec",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
