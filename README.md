@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 986
+**Total Skills Available:** 992
 
 ***
 
@@ -1177,6 +1177,14 @@ Let your echo help you do the calculation, it is cool and you won't make mistake
 
 ***
 
+## &nbsp;<img src="skills/B01FTOAHRC/skill_icon" alt="Calendar for Hillbrook School icon" width="36"> [Calendar for Hillbrook School](skills/B01FTOAHRC)
+
+*Alexa, ask Hillbrook bear about today*
+
+Hear what's happening on the published Hillbrook School calendar: A-F days, free dress, early dismissal, and other events.
+
+***
+
 ## &nbsp;<img src="skills/B01FLJYG5E/skill_icon" alt="California fun facts icon" width="36"> [California fun facts](skills/B01FLJYG5E)
 
 *Alexa, ask cali fact for a california fact*
@@ -2211,6 +2219,14 @@ Ask Alexa to roll some dungeon dice for you. Supports 4-sided, 6-sided, 8-sided,
 
 ***
 
+## &nbsp;<img src="skills/B01FL2XV2A/skill_icon" alt="Dylan Punster icon" width="36"> [Dylan Punster](skills/B01FL2XV2A)
+
+*Alexa, ask Dylan Punster to tell me a pun about bamboo pizza cats.*
+
+Dylan Punster will tell you a pun based on what you ask him.
+
+***
+
 ## &nbsp;<img src="skills/B01DOS1J18/skill_icon" alt="Ear Trainer icon" width="36"> [Ear Trainer](skills/B01DOS1J18)
 
 *Alexa ask Ear Trainer to play a major third*
@@ -3194,6 +3210,14 @@ Going on vacation, missing Hawaii, or a long-term resident looking for more info
 *Alexa, ask Hawk Bus about 7252*
 
 Get the time until the next bus arrives at a specified bus stop in the Iowa City area.
+
+***
+
+## &nbsp;<img src="skills/B01FOLG814/skill_icon" alt="Health Check for PowerChord API icon" width="36"> [Health Check for PowerChord API](skills/B01FOLG814)
+
+*Alexa, ask server status to perform a health check*
+
+A voice-triggered status check for the PowerChord PC6 API.
 
 ***
 
@@ -5124,6 +5148,14 @@ Planting times for zone 1.
 
 ***
 
+## &nbsp;<img src="skills/B01FOUUHVC/skill_icon" alt="Planting Time Zones 7 and 8 icon" width="36"> [Planting Time Zones 7 and 8](skills/B01FOUUHVC)
+
+*Alexa, ask planting calendar when to plant cabbage?*
+
+Planting calendar for Zones 7 and 8
+
+***
+
 ## &nbsp;<img src="skills/B01F199E4C/skill_icon" alt="Platypus Geek icon" width="36"> [Platypus Geek](skills/B01F199E4C)
 
 *Alexa, ask platypus geek for a platypus fact*
@@ -7023,6 +7055,14 @@ Provides information regarding curbside collection holidays for Anne Arundel Co.
 
 ***
 
+## &nbsp;<img src="skills/B01FYBIN94/skill_icon" alt="Trekkie Facts icon" width="36"> [Trekkie Facts](skills/B01FYBIN94)
+
+*Alexa, Open Trekkie Facts.*
+
+Star Trek Facts for Trekkies
+
+***
+
 ## &nbsp;<img src="skills/B01FRG1JSS/skill_icon" alt="Trekkie Trivia icon" width="36"> [Trekkie Trivia](skills/B01FRG1JSS)
 
 *Alexa Start Trekkie Trivia*
@@ -7412,6 +7452,14 @@ US National Parks quiz game
 *Alexa, ask US Parks to tell me a park fact*
 
 US Park Facts will share a random fact about the US National Park Service (NPS)
+
+***
+
+## &nbsp;<img src="skills/B01FP08AHO/skill_icon" alt="US President Information icon" width="36"> [US President Information](skills/B01FP08AHO)
+
+*Alexa, ask US Presidents who was Bill Clinton*
+
+Learn about the United States Presidents.
 
 ***
 

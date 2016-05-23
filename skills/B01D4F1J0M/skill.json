@@ -11,7 +11,7 @@
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask OurGroceries to add milk to shopping list.",
-    "Alexa, tell OurGroceries to add olive oil to Walmart.",
+    "Alexa, tell OurGroceries to remove olive oil from Walmart.",
     "Alexa, ask OurGroceries what are my lists."
   ],
   "firstReleaseDate": 1458283691.646,
@@ -24,7 +24,7 @@
   "launchPhrase": "our groceries",
   "name": "OurGroceries",
   "numberOfReviews": 15,
-  "pamsPartnerId": "DNUFy7Zdab4oZXb6KFLoiUix9",
+  "pamsPartnerId": "2R7F3wZkZoDjMOXbHBO4k8Nfa",
   "permissions": null,
   "privacyPolicyUrl": "https://www.ourgroceries.com/privacy",
   "shortDescription": "OurGroceries is the simplest way to keep your grocery lists instantly synchronized on all the smartphones in your household—and it’s free!",

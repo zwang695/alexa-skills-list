@@ -5,7 +5,7 @@ To use the OurGroceries skill, try saying...
 
 * *Alexa, ask OurGroceries to add milk to shopping list.*
 
-* *Alexa, tell OurGroceries to add olive oil to Walmart.*
+* *Alexa, tell OurGroceries to remove olive oil from Walmart.*
 
 * *Alexa, ask OurGroceries what are my lists.*
 
