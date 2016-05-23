@@ -11,23 +11,39 @@ To use the Chicago Trains skill, try saying...
 
 Never miss your train again.
 
-Chicago Trains lets you find the next train leaving a particular station that stops at your desired destination.  It will also let you hear the train schedule for the rest of the day for a particular starting station and destination station.    For example, 
+Chicago Trains lets you find the next train leaving a particular station that stops at your desired destination.  It will also let you hear the train schedule for the rest of the day for a particular starting station and destination station.    Here are some example phrases:
 
-Next Train:
+Next Train Example:
 When is the next train from Crystal Lake to Downtown
 
-Train Schedule:
+Train Schedule Example:
 For the train schedule from Naperville to Union Station
 
-Express Train:
+Train Schedule around a time:
+For the train schedule from Naperville to Union Station around 9 am
+
+or
+
+For the train schedule from Naperville to Union Station leaving around 9 am
+
+For the train schedule from Naperville to Union Station arriving around 9 am
+
+
+Express Train Example:
 For the next train from Downtown to Northbrook express only
 
-Express Train Schedule:
+Express Train around a time Example:
+For the next train from Downtown to Northbrook express only arriving around 6 pm
+
+Express Train Schedule Example:
 For the train schedule from Downtown to Arlington Heights express only
 
-New Version:
-* added express train.  Add the phrase 'express only' when asking for the next train.  This will provide the next train that is in the fastest 20% of the remaining days schedule.
-* added express schedule.  Add the phrase 'express only' when asking for the train schedule.  This will provide the all of the trains that are in the fastest 20% of the remaining days schedule.
+New in this Version:
+* added 'around time'.   Now you can add the phrase, 'leaving around 5 pm' or 'arriving around 5 pm' to get either express trains or schedules around the specified time.  The skill is designed to look for schedules a little before the specified time and a little after the specified time.
+
+Previous Versions:
+* added express train.  Add the phrase 'express only' when asking for the next train.  This will provide the next train that is in the top fastest 20% of the remaining days schedule.
+* added express schedule.  Add the phrase 'express only' when asking for the train schedule.  This will provide the all of the trains that are in the top fastest 20% of the remaining days schedule.
 
 * the issue described by the 1 star review has been addressed.
 ** The Chicago stations can be referenced as:

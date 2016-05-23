@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 982
+**Total Skills Available:** 986
 
 ***
 
@@ -658,7 +658,7 @@ Ask about the popularity of names in the US going back to 1880!
 
 ## &nbsp;<img src="skills/B01CJRUAF6/skill_icon" alt="Baby Stats icon" width="36"> [Baby Stats](skills/B01CJRUAF6)
 
-*Alexa ask baby stats to add poo*
+*Alexa ask baby stats to add poop and pee*
 
 Baby stats is a skill that counts stats for your babies diapers (wet and stool), and meals. You can then ask Alexa to get stats or ask when the last diaper was.
 
@@ -813,6 +813,14 @@ Alexa shows off her beat-boxing skills.  Ask for a beat by name ("phat", "old sc
 *Alexa, ask the dealer to deal the cards.*
 
 Beat the dealer in this game of Blackjack.
+
+***
+
+## &nbsp;<img src="skills/B01FOSJ8PK/skill_icon" alt="Beer Facts icon" width="36"> [Beer Facts](skills/B01FOSJ8PK)
+
+*Alexa ask beer facts*
+
+Random beer facts!
 
 ***
 
@@ -1133,6 +1141,14 @@ Trivia about the world's most amazing couple! You cannot live without this skill
 *Alexa, ask Bug Tracker what is the status for ticket CAMEL 1099?*
 
 An integration between Alexa and the Atlassian Jira tracking system. Using Jira restful API,  gets the most up to date information of a Jira ticket.
+
+***
+
+## &nbsp;<img src="skills/B01FFW0BBK/skill_icon" alt="BUILTR Daily by BUILTR Labs icon" width="36"> [BUILTR Daily by BUILTR Labs](skills/B01FFW0BBK)
+
+*Alexa ask BUILTER LABS for the daily news*
+
+BUILTR Daily news updates from AEC industry, by BUILTR Labs
 
 ***
 
@@ -6358,6 +6374,14 @@ Learn quick facts about Sweden.
 
 ***
 
+## &nbsp;<img src="skills/B01FS0DPEY/skill_icon" alt="Sweedish Locator icon" width="36"> [Sweedish Locator](skills/B01FS0DPEY)
+
+*Alexa, Open Sweedish Locator.*
+
+Built for finding out where the heck that Sweedish designer is at all the time...
+
+***
+
 ## &nbsp;<img src="skills/B01E62RRTE/skill_icon" alt="Syfy icon" width="36"> [Syfy](skills/B01E62RRTE)
 
 *Alexa, start Syfy.*
@@ -7757,6 +7781,14 @@ Would you rather eat a hundred chillies or never eat again? Let Alexa ask you si
 *Alexa, ask Wrestling Facts to tell me a fact about wrestling.*
 
 Learn fun and exciting facts about the history of the sport of Wrestling.
+
+***
+
+## &nbsp;<img src="skills/B01EBDD8TG/skill_icon" alt="Yarn Over icon" width="36"> [Yarn Over](skills/B01EBDD8TG)
+
+*Alexa, ask Yarn Over how do I single crochet*
+
+A skill that teaches knit and crochet stitches
 
 ***
 

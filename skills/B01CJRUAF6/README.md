@@ -3,13 +3,21 @@
 
 To use the Baby Stats skill, try saying...
 
-* *Alexa ask baby stats to add poo*
+* *Alexa ask baby stats to add poop and pee*
 
 * *Alexa ask baby stats when was the last poo*
 
-* *Alexa ask baby stats to get stats for today*
+* *Alexa ask baby stats to add poop*
 
-You now have BabyStats on the GO! You can use our mobile app in the Google Play or Amazon App store, or our Online Viewer from any browser.
+Update: 05/17
+You can now add 2 counts at the same time, just use the word AND in between the 2 counts.
+
+Examples: 
+Alexa, ask baby stats to add wet and stool
+Alexa, ask baby stats to add stool and wet
+Alexa, ask baby stats to add poop and pee
+
+Don't forget about BabyStats on the GO! You can use our mobile app in the Google Play or Amazon App store, or our Online Viewer from any browser.
 
 Go to our website https://www.baby-stats.com/ and follow the links on the bottom of the page to navigate to the app store of your choosing or the Online Viewer.
 
@@ -18,7 +26,8 @@ Our first baby boy is now born! No I don't mean this skill, I mean an actual bab
 Just say:
 Alexa, ask baby stats to add stool
 Alexa, ask baby stats to add wet,
-Alexa, ask baby stats to add meal.
+Alexa, ask baby stats to add meal
+Alexa, ask baby stats to add poop and pee
 Alexa, ask baby stats when was the last poop
 Alexa, ask baby stats when was the last pee
 Alexa, ask baby stats what time was the last feeding
@@ -31,6 +40,7 @@ Example:
 Alexa, ask baby stats to remove meal.
 
 As you tally up the stats each day you can go back and ask Alexa to "get" those stats and repeat them back to you.
+Alexa, ask baby stats to add wet and stool
 Alexa, ask baby stats when was the last poop
 Alexa, ask baby stats when was the last pee
 Alexa, ask baby stats what time was the last feeding
@@ -64,6 +74,9 @@ Alexa, ask baby stats to get stats for this week
 Alexa ask baby stats when was the last {stool, wet, feeding,poop,pee etc..}
 Alexa ask baby stats for the last diaper
 Alexa, ask baby stats to get id
+Alexa, ask baby stats to add wet and stool
+Alexa, ask baby stats to add stool and wet
+Alexa, ask baby stats to add poop and pee
 
 ***
 
