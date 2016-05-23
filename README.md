@@ -1393,6 +1393,14 @@ Chef helps you in the kitchen! Find weights of various volumes of ingredients (u
 
 ***
 
+## &nbsp;<img src="skills/B01E9HYFIC/skill_icon" alt="Chef Sheffey icon" width="36"> [Chef Sheffey](skills/B01E9HYFIC)
+
+*Alexa, open Chef Sheffey.*
+
+Chef Sheffey helps you find and try one of 350,000 recipes.
+
+***
+
 ## &nbsp;<img src="skills/B01DOQ5LTG/skill_icon" alt="Chemistry Genie icon" width="36"> [Chemistry Genie](skills/B01DOQ5LTG)
 
 *Alexa, ask the chemistry genie to start game*
@@ -3650,14 +3658,6 @@ Allows Just Energy customers to get bill details and ask for random energy fact
 *Alexa, ask KAYAK how much it costs to fly from New York to Boston*
 
 Alexa + KAYAK = hands-free travel planning. Get information on flights, hotels & rental cars. Hear flight status updates, destination suggestions & more.
-
-***
-
-## &nbsp;<img src="skills/B01AYL0KUY/skill_icon" alt="KCRW On Air icon" width="36"> [KCRW On Air](skills/B01AYL0KUY)
-
-*Alexa, ask KCRW what's playing*
-
-Gives you the current program or track playing on KCRW radio.
 
 ***
 
