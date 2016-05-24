@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01CKNYLY0",
-  "averageRating": 3.9,
+  "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Education",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "sun tzu",
   "name": "The Art of War",
-  "numberOfReviews": 10,
+  "numberOfReviews": 9,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

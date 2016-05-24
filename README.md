@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1015
+**Total Skills Available:** 1014
 
 ***
 
@@ -7735,14 +7735,6 @@ The Vectrex Wiki skill allows you to get information about the original Vectrex 
 *null*
 
 Monitor and control your Skyport compatible thermostat. Alexa, set my living room to 74 degrees.
-
-***
-
-## &nbsp;<img src="skills/B01FP2XGWQ/skill_icon" alt="veraIntegrationSkillPrototypev1 icon" width="36"> [veraIntegrationSkillPrototypev1](skills/B01FP2XGWQ)
-
-*alexa  open vera skill*
-
-this is a very funny game of questions and answers
 
 ***
 
