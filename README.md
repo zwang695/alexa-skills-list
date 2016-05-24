@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 992
+**Total Skills Available:** 994
 
 ***
 
@@ -2395,6 +2395,16 @@ eventseeker is your personalized event service with a focus on minimizing search
 
 ***
 
+## &nbsp;<img src="skills/B01FB6A31I/skill_icon" alt="Examining the Scriptures Daily for 2016 icon" width="36"> [Examining the Scriptures Daily for 2016](skills/B01FB6A31I)
+
+*Alexa, open my daily text for today*
+
+Welcome to Examining the Scriptures Daily for 2016
+
+You can say "Alexa, open my daily text "
+
+***
+
 ## &nbsp;<img src="skills/B01DJ7Z29Y/skill_icon" alt="Exchange Rate Service icon" width="36"> [Exchange Rate Service](skills/B01DJ7Z29Y)
 
 *Alexa, open exchange rates*
@@ -2664,6 +2674,14 @@ A trivia game for foodies
 *Alexa, ask football buddy about the touchdown*
 
 Learn the football terms to talk and understand about the game, when talking to your football fan friends and colleagues
+
+***
+
+## &nbsp;<img src="skills/B01FONT9RC/skill_icon" alt="Football Crime icon" width="36"> [Football Crime](skills/B01FONT9RC)
+
+*Alexa, ask Football Crime for a random crime.*
+
+Get the scoop on what crimes NFL players have been charged with and arrested for.
 
 ***
 
