@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Binary Clock icon" width="36"> [Binary Clock](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.66ee3340-6334-4ded-804f-23b41f97e4c5)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Binary Clock skill, try saying...
 

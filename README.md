@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 994
+**Total Skills Available:** 999
 
 ***
 
@@ -1753,6 +1753,14 @@ This is a quiz about corgis, some of the answers may surprise you.
 
 ***
 
+## &nbsp;<img src="skills/B01FPOF91U/skill_icon" alt="Cork Ornaments icon" width="36"> [Cork Ornaments](skills/B01FPOF91U)
+
+*Alexa, Ask Cork Ornaments What is the deal of the day*
+
+Find out the daily deals from CorkOrnaments.com
+
+***
+
 ## &nbsp;<img src="skills/B01E8P5QUQ/skill_icon" alt="Costa Rica News icon" width="36"> [Costa Rica News](skills/B01E8P5QUQ)
 
 *Alexa open Costa Rica News*
@@ -2016,6 +2024,14 @@ Gives Washington DC Metro light rail train arrival and departure times, as well 
 *Alexa, ask Metro Tracker for the next orange line to Vienna from Metro Center*
 
 Get the most recent arrival times, estimated travel time, filter trains by line and direction, and more! Set a home station to make things even easier.
+
+***
+
+## &nbsp;<img src="skills/B01FZWQLEG/skill_icon" alt="Deadhead Facts icon" width="36"> [Deadhead Facts](skills/B01FZWQLEG)
+
+*Alexa, Open Deadhead Facts*
+
+Trivia facts for DeadHeads
 
 ***
 
@@ -3479,6 +3495,14 @@ Welcome to my inn! You can talk to your favorite Hearthstone heroes, and they'll
 
 ***
 
+## &nbsp;<img src="skills/B01FOC3LCM/skill_icon" alt="Inspire Me icon" width="36"> [Inspire Me](skills/B01FOC3LCM)
+
+*'Alexa, inspire me.'*
+
+Start your day with inspirational audio from Alexa!
+
+***
+
 ## &nbsp;<img src="skills/B01FLLD6DU/skill_icon" alt="Instant Inspiration icon" width="36"> [Instant Inspiration](skills/B01FLLD6DU)
 
 *Alexa ask inspiration station to feed my imagination*
@@ -3750,6 +3774,14 @@ Getting Korean Local Weather Information
 *Alexa, ask the L Train when it's coming?*
 
 Ask Alexa when the next train is coming to your NYC MTA L train stop, and listen to the current L train status.
+
+***
+
+## &nbsp;<img src="skills/B01FZJCA6M/skill_icon" alt="Lambda calculus quiz icon" width="36"> [Lambda calculus quiz](skills/B01FZJCA6M)
+
+*Alexa lambda games*
+
+A brief quiz on the history and modern naming of lambda calculus, a formalized language for effective computability.
 
 ***
 
@@ -5539,6 +5571,14 @@ Raj's trivia pursuit tests your knowledge of how well you know him.
 *Alexa ask random cat to tell me a fact*
 
 Random Cat Facts
+
+***
+
+## &nbsp;<img src="skills/B01FOUPBF4/skill_icon" alt="Random Computer Facts icon" width="36"> [Random Computer Facts](skills/B01FOUPBF4)
+
+*Alexa, open computer facts.*
+
+Computer facts
 
 ***
 
