@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 999
+**Total Skills Available:** 1015
 
 ***
 
@@ -288,6 +288,14 @@ Albert Einstein Facts is a skill that tells a fact about Albert Einstein.
 
 ***
 
+## &nbsp;<img src="skills/B01FYMWWQS/skill_icon" alt="Alfa Bravo Charlie icon" width="36"> [Alfa Bravo Charlie](skills/B01FYMWWQS)
+
+*Alexa ask Alfa Bravo Charlie to start a game*
+
+A fun quiz game to test your knowledge of the phonetic alphabet used by NATO and aviation professionals around the world. Can you get a perfect score?
+
+***
+
 ## &nbsp;<img src="skills/B01D0JI7CA/skill_icon" alt="All Knowing Eight Ball icon" width="36"> [All Knowing Eight Ball](skills/B01D0JI7CA)
 
 *Alexa, ask the 8 ball whether the Cubs will ever win the World Series*
@@ -565,6 +573,14 @@ Athan provides the Islamic Prayer Times in a given city.
 *Alexa, ask Atlas to find Boston, Massachusetts*
 
 Finds the latitude and longitude of US cities.
+
+***
+
+## &nbsp;<img src="skills/B01FT8TRV0/skill_icon" alt="ATX Dillo icon" width="36"> [ATX Dillo](skills/B01FT8TRV0)
+
+*Alexa, ask Dillo to dig me up a happy hour.*
+
+The Dillo will dig you up a happy hour or event around Austin, either tonight or a day within the next week.
 
 ***
 
@@ -1112,6 +1128,14 @@ The Bubble Boy skill tells a funny quote from the popular sitcom - Seinfeld.
 
 ***
 
+## &nbsp;<img src="skills/B01G06N9KK/skill_icon" alt="Bucket List icon" width="36"> [Bucket List](skills/B01G06N9KK)
+
+*Alexa ask bucket list to give me a good idea*
+
+Bucket list will suggest a bucket list item for you today.
+
+***
+
 ## &nbsp;<img src="skills/B01DJHGK7W/skill_icon" alt="Buddha Says icon" width="36"> [Buddha Says](skills/B01DJHGK7W)
 
 *Alexa open Buddha Says*
@@ -1598,6 +1622,14 @@ Test your knowledge of the men's college basketball tournament!
 *Alexa, Open College Basketball Trivia*
 
 Test your College Basketball knowledge with a series of trivia questions surrounding the history of the Men's College Basketball Tournament.
+
+***
+
+## &nbsp;<img src="skills/B01F1GYZUS/skill_icon" alt="Color Game icon" width="36"> [Color Game](skills/B01F1GYZUS)
+
+*alexa open color game*
+
+Memorize the color order
 
 ***
 
@@ -2088,6 +2120,14 @@ Are you a Pokemon Master?  Find out in the toughest Pokemon trivia game yet!
 *Alexa, tell Dice Bag to roll for me*
 
 Board game missing dice?  Random encounter?  Dice Bag will roll for you, complete with dice rolling sounds.
+
+***
+
+## &nbsp;<img src="skills/B01G2M7RB4/skill_icon" alt="Dice Roller icon" width="36"> [Dice Roller](skills/B01G2M7RB4)
+
+*Alexa, tell Dice Roller to roll a dice*
+
+Return a random number for 1 to 6.
 
 ***
 
@@ -2749,6 +2789,14 @@ Get a fortune cookie, read to you and receive your own Mega Millions or Powerbal
 
 ***
 
+## &nbsp;<img src="skills/B01FS5NG7K/skill_icon" alt="Fortune Cookie icon" width="36"> [Fortune Cookie](skills/B01FS5NG7K)
+
+*Alexa, open Fortune Cookie.*
+
+Get Your Fortune
+
+***
+
 ## &nbsp;<img src="skills/B019R3AETW/skill_icon" alt="Founding Father Quotes icon" width="36"> [Founding Father Quotes](skills/B019R3AETW)
 
 *Alexa, ask Founding Fathers for a quote*
@@ -2868,6 +2916,14 @@ Use Game Dice to have Alexa roll dice of various sizes for you.
 *Alexa, Game Geek*
 
 Game Geek is a fact skill by Ethan Falck that gives off random interesting video game facts
+
+***
+
+## &nbsp;<img src="skills/B01FQ2HVBM/skill_icon" alt="Game Helper for Clash Royale icon" width="36"> [Game Helper for Clash Royale](skills/B01FQ2HVBM)
+
+*Alexa, ask game helper for clash royale can you tell me something about a knight*
+
+ClashRoyaleHelper responds to user's query about the description to the card of Clash Royale.
 
 ***
 
@@ -3295,6 +3351,14 @@ Tell me a dad joke!
 
 ***
 
+## &nbsp;<img src="skills/B01G25WCZW/skill_icon" alt="Hide and Seek icon" width="36"> [Hide and Seek](skills/B01G25WCZW)
+
+*Alexa, ask Hide and Seek to countdown*
+
+Hide and Seek Timer
+
+***
+
 ## &nbsp;<img src="skills/B017OBNE6O/skill_icon" alt="High Low Guessing Game icon" width="36"> [High Low Guessing Game](skills/B017OBNE6O)
 
 *Alexa, open High Low.*
@@ -3476,6 +3540,14 @@ This alexa skill gives the india news on saying to Alexa , " ask india news " af
 *Alexa, ask Indian Guy to tell me an Indian fact*
 
 This skill tell you interesting facts about India which most people don't know.
+
+***
+
+## &nbsp;<img src="skills/B01FRNVN4G/skill_icon" alt="IndieCred icon" width="36"> [IndieCred](skills/B01FRNVN4G)
+
+*Alexa, tell Indie Cred to give me my fact*
+
+Random facts about indie music.
 
 ***
 
@@ -4931,6 +5003,14 @@ Ask me New York City subway status.
 
 ***
 
+## &nbsp;<img src="skills/B01FR8XLP0/skill_icon" alt="object oriented programming trivia icon" width="36"> [object oriented programming trivia](skills/B01FR8XLP0)
+
+*Alexa, Start Object Oriented trivia*
+
+Interesting fact of Object Oriented Programing
+
+***
+
 ## &nbsp;<img src="skills/B01DLMFW06/skill_icon" alt="OC Transpo icon" width="36"> [OC Transpo](skills/B01DLMFW06)
 
 *Alexa, ask Oh See Transpo when is the next route 95 at halt 3047*
@@ -5622,6 +5702,14 @@ A trivia game with random questions!
 
 ***
 
+## &nbsp;<img src="skills/B01G043JR0/skill_icon" alt="Random Trivia Game icon" width="36"> [Random Trivia Game](skills/B01G043JR0)
+
+*Alexa, open random trivia game.*
+
+Random Trivia Game is a skill that allows you to play a random trivia game!
+
+***
+
 ## &nbsp;<img src="skills/B01F4TRG9E/skill_icon" alt="Random World Facts icon" width="36"> [Random World Facts](skills/B01F4TRG9E)
 
 *Alexa, Open world geek*
@@ -5795,6 +5883,14 @@ Random fun facts about Roman history
 *Alexa, tell Round To It to create task pickup dry cleaning due on december fourth at three thirty pm*
 
 Simple task reminder service
+
+***
+
+## &nbsp;<img src="skills/B01FZX50B0/skill_icon" alt="Rugby World Cup Quiz icon" width="36"> [Rugby World Cup Quiz](skills/B01FZX50B0)
+
+*"Alexa, open Rugby World Cup Quiz"*
+
+Test your knowledge of the rugby world cups with this fun quiz
 
 ***
 
@@ -7113,6 +7209,14 @@ Provides information regarding curbside collection holidays for Anne Arundel Co.
 
 ***
 
+## &nbsp;<img src="skills/B01G09UMIY/skill_icon" alt="Travel Tips icon" width="36"> [Travel Tips](skills/B01G09UMIY)
+
+*Alexa, open Travel Tips*
+
+Get a useful travel tip.
+
+***
+
 ## &nbsp;<img src="skills/B01FYBIN94/skill_icon" alt="Trekkie Facts icon" width="36"> [Trekkie Facts](skills/B01FYBIN94)
 
 *Alexa, Open Trekkie Facts.*
@@ -7142,6 +7246,14 @@ Find local karaoke in the Tricities Washington.
 *Alexa, Launch Old School Trivia*
 
 This is a multiple-choice trivia game to challenge what you know about the movie Old School.  Content may not be suitable for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01FV0KBNE/skill_icon" alt="Trivia Challenge for fans of the Band (Unofficial) icon" width="36"> [Trivia Challenge for fans of the Band (Unofficial)](skills/B01FV0KBNE)
+
+*alexa, start band trivia*
+
+A Fun Trivia (unsponsored) Challenge about the Classic Rock group "The Band"
 
 ***
 
@@ -7529,6 +7641,14 @@ Trivia Game for US Captitals
 
 ***
 
+## &nbsp;<img src="skills/B01FS5HO1Y/skill_icon" alt="US State Capitals Trivia icon" width="36"> [US State Capitals Trivia](skills/B01FS5HO1Y)
+
+*Alexa, start US Capitals Trivia*
+
+A simple game of name that US State Capital.
+
+***
+
 ## &nbsp;<img src="skills/B01DVP19FU/skill_icon" alt="US States Quiz icon" width="36"> [US States Quiz](skills/B01DVP19FU)
 
 *Alexa, ask states quiz*
@@ -7615,6 +7735,14 @@ The Vectrex Wiki skill allows you to get information about the original Vectrex 
 *null*
 
 Monitor and control your Skyport compatible thermostat. Alexa, set my living room to 74 degrees.
+
+***
+
+## &nbsp;<img src="skills/B01FP2XGWQ/skill_icon" alt="veraIntegrationSkillPrototypev1 icon" width="36"> [veraIntegrationSkillPrototypev1](skills/B01FP2XGWQ)
+
+*alexa  open vera skill*
+
+this is a very funny game of questions and answers
 
 ***
 
