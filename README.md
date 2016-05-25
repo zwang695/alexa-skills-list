@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1014
+**Total Skills Available:** 1021
 
 ***
 
@@ -261,6 +261,14 @@ Get air quality report for 5-digit US ZIP codes
 *Alexa, ask airport weather to get Cincinnati*
 
 Reads aloud succinct weather reports (METARS) from airport weather stations, formatted to sound like ATIS.
+
+***
+
+## &nbsp;<img src="skills/B01FS5OW64/skill_icon" alt="Airport Security Wait Times icon" width="36"> [Airport Security Wait Times](skills/B01FS5OW64)
+
+*Alexa, ask airport security for the wait at SFO*
+
+Check security wait times at major US airports.
 
 ***
 
@@ -1832,6 +1840,14 @@ An interactive version of the old classic, Cow Says Moo.  What does the cow say?
 *Alexa, ask Craft Helper what's the recipe for a saddle.*
 
 Can't remember exactly how to craft an enchantment table or a dropper in Minecraft? Craft helper can give you the recipe fast, and all you need is your voice.
+
+***
+
+## &nbsp;<img src="skills/B01FLWRFHM/skill_icon" alt="Crafting Helper for Starbound icon" width="36"> [Crafting Helper for Starbound](skills/B01FLWRFHM)
+
+*Alexa open craft bound*
+
+Unofficial Basic Crafting Helper for the Starbound PC Game.
 
 ***
 
@@ -4691,6 +4707,14 @@ Omaha Trivia Game. Alexa, launch Omaha Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01G13SXY4/skill_icon" alt="My Lawn icon" width="36"> [My Lawn](skills/B01G13SXY4)
+
+*Alexa, ask my lawn how much water it needs.*
+
+Provide water and mowing advice based on your local weather.
+
+***
+
 ## &nbsp;<img src="skills/B01DMMQZ2O/skill_icon" alt="My Memory icon" width="36"> [My Memory](skills/B01DMMQZ2O)
 
 *Alexa, tell My Memory that on Tuesday I water the plants.*
@@ -4896,6 +4920,15 @@ This skill is a quiz to encourage new parents and provide tips on parenting arou
 *Alexa, ask New York Running Calendar: When is the next race?*
 
 The New York Running Calendar app helps you find the next organized running race in New York City.
+
+***
+
+## &nbsp;<img src="skills/B01F5ZT2SA/skill_icon" alt="News Anchor icon" width="36"> [News Anchor](skills/B01F5ZT2SA)
+
+*Alexa, ask News Anchor for news*
+
+You can listen to personalized news about topics you choose from around the web. 
+For example: Alexa, ask Outbrain about the latest sports news
 
 ***
 
@@ -5169,6 +5202,14 @@ a trivia app for members of The Phage and The Institute village.
 *Alexa, open Phish Geek*
 
 Phish Geek Phish Facts
+
+***
+
+## &nbsp;<img src="skills/B01FTTQ9E2/skill_icon" alt="Phonetic Alphabet Trainer icon" width="36"> [Phonetic Alphabet Trainer](skills/B01FTTQ9E2)
+
+*Alexa, open phonetic alphabet trainer*
+
+Phonetic Alphabet Trainer
 
 ***
 
@@ -6067,6 +6108,14 @@ Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 *null*
 
 This skill allows you to control the Sensi thermostat.
+
+***
+
+## &nbsp;<img src="skills/B01G13QWMY/skill_icon" alt="Shakespeare Geek icon" width="36"> [Shakespeare Geek](skills/B01G13QWMY)
+
+*Alexa, ask Shakespeare Geek for trivia*
+
+Make learning about Shakespeare fun and interesting with Shakespeare Geek's trivia, jokes, insults and quotes!
 
 ***
 
@@ -7831,6 +7880,14 @@ Trivia game about whales
 *Alexa ask startup generator to What does your startup do*
 
 Wait, what does your startup do?
+
+***
+
+## &nbsp;<img src="skills/B01G0UV4GM/skill_icon" alt="What is Lorem Ipsum? icon" width="36"> [What is Lorem Ipsum?](skills/B01G0UV4GM)
+
+*Alexa, Open Lorem Ipsum*
+
+This app give you random facts about the commonly used placeholder text, Lorem Ipsum.
 
 ***
 

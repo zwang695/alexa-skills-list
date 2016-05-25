@@ -9,13 +9,17 @@ To use the DC Metro Tracker skill, try saying...
 
 * *Alexa, ask Metro Tracker for the current travel time between Metro Center and the airport*
 
-Get the most up to date Metro Rail information to stay on top of your DC commute! Optionally set a default home station to make retrieving Metro info even easier.
+Get the most up to date Metro Rail information to stay on top of your Washington, DC commute! Optionally set a default home station to make retrieving Metro info even easier.
 
+============
+**NEW**
+============
+Integration with www.ismetroonfire.com: Ask Alexa whether the metro is currently on fire! See below for details.
+
+============
 FEATURES:
-
-* HOME STATION ~ Set a default home station simply by saying something like "Alexa, ask Metro Tracker to set Metro Center as my home station." 
-Once you have set a home station, Metro Tracker will assume your departure station is your home station unless another departure station is specified.  
-Change your home station at any time simply by re-using the "set home station" command. 
+============
+* HOME STATION ~ Set a default home station simply by saying something like "Alexa, ask Metro Tracker to set Metro Center as my home station." Once you have set a home station, Metro Tracker will assume your departure station is your home station unless another departure station is specified. Change your home station at any time simply by re-using the "set home station" command. 
 
 * LIST TRAINS ~ list all trains scheduled to arrive at a particular station. Try saying "Alexa, ask Metro Tracker to list all trains arriving at Farragut West"
 
@@ -27,8 +31,18 @@ Change your home station at any time simply by re-using the "set home station" c
 
 * COMMUTE TIMES ~ Get an estimate of how long it is currently taking to travel between station A and station B. For example, try saying: "Alexa, ask Metro Tracker for a commute estimate between L'Enfant Plaza and Columbia Heights," or "Alexa, ask Metro Tracker how long it would take to get to Clarendon from Metro Center."
 
+*ON FIRE? ~ Find out whether the metro is currently on fire! Just say something like "Alexa, ask Metro Tracker if the metro is on fire," and Alexa will query www.ismetroonfire.com to give you the latest report. Hopefully most of the time the answer is no, but if smoke or fire has been reported on any metro lines, Alexa will let you know and tell you which lines are affected. 
+Shout out to Nick Stocchero, creator of ismetroonfire.com, for approving integration and making this feature possible. Be sure to follow @ismetroonfire on Twitter to get tweet updates from his website!
+
+============
+BUGS:
+============
+If you notice any bugs of problems with the app that should be fixed, or if there is a feature you would like to see added to Metro Tracker in the future, please send an email to dcmetrotracker@gmail.com
+
+============
 NOTES:
-* If at any time the app responds with "there is a ghost train to a ghost station..." this means that there is a train scheduled to arrive, but the WMATA database has no information on what line it belongs to, or where it is going. These are the trains that show up as "--- --- TRAIN" on the train arrival boards of metro platforms. Ghost trains sometimes have arrival times associated with them, and sometimes not.
+============
+If at any time the app responds with "there is a ghost train to a ghost station..." this means that there is a train scheduled to arrive, but the WMATA database has no information on what line it belongs to, or where it is going. These are the trains that show up as "--- --- TRAIN" on the train arrival boards of metro platforms. Ghost trains sometimes have arrival times associated with them, and sometimes not.
 
 ***
 
