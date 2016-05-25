@@ -5,13 +5,19 @@ To use the FlightSearch skill, try saying...
 
 * *Alexa, Ask Flight Search*
 
+* *Alexa, Ask Flight Search for a Flight to Houston*
+
+* *Alexa, Ask Flight Search for a Round Trip to Houston*
+
+IMPROVED VERSION, SEVERAL FIXES. 
+
 Search DOMESTIC U.S. flights for lowest price, one way or roundtrip.
 
-Start by saying "Alexa, Ask Flight Search". 
+Start by saying "Alexa, Ask Flight Search" or "Alexa, Ask Flight Search for a Flight to Houston". 
 
 Top 5 flights sent to your Alexa app. 
 
-More options coming soon...
+And look forward to your feedback.
 
 ***
 

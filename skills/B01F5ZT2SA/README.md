@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="News Anchor icon" width="36"> [News Anchor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.57142556-b72c-4d90-b6a2-ce2380d5b21e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the News Anchor skill, try saying...
 

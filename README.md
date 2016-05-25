@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1021
+**Total Skills Available:** 1035
 
 ***
 
@@ -496,6 +496,14 @@ Area Code Lookup
 
 ***
 
+## &nbsp;<img src="skills/B01G07HFZ4/skill_icon" alt="Arizona Facts icon" width="36"> [Arizona Facts](skills/B01G07HFZ4)
+
+*Alexa start Dry Heat*
+
+Arizona Facts: Learn some new facts about the State of Arizona.
+
+***
+
 ## &nbsp;<img src="skills/B01EKX7WKS/skill_icon" alt="Aromatherapy icon" width="36"> [Aromatherapy](skills/B01EKX7WKS)
 
 *Alexa, Ask Aromatherapy for a recipe for focus.*
@@ -589,6 +597,14 @@ Finds the latitude and longitude of US cities.
 *Alexa, ask Dillo to dig me up a happy hour.*
 
 The Dillo will dig you up a happy hour or event around Austin, either tonight or a day within the next week.
+
+***
+
+## &nbsp;<img src="skills/B01FROPJ4K/skill_icon" alt="Audio Chef icon" width="36"> [Audio Chef](skills/B01FROPJ4K)
+
+*Alexa, open Audio Chef*
+
+Audio Chef is your virtual cooking assistant that helps free your hands for cooking while guiding you through the steps of recipes.
 
 ***
 
@@ -944,6 +960,14 @@ It's the 50th anniversary of football's biggest game. Test your Big Game knowled
 
 ***
 
+## &nbsp;<img src="skills/B01DOI0PKE/skill_icon" alt="Bike Share icon" width="36"> [Bike Share](skills/B01DOI0PKE)
+
+*Alexa, ask Bike Share to add an address*
+
+Quickly find the closest bike share station with available bikes. Currently supports Citibike in NYC.
+
+***
+
 ## &nbsp;<img src="skills/B01DD9OXDO/skill_icon" alt="Biking Wizard icon" width="36"> [Biking Wizard](skills/B01DD9OXDO)
 
 *Alexa, ask The Biking Wizard if I should go biking in Whistler today*
@@ -1222,6 +1246,14 @@ Hear what's happening on the published Hillbrook School calendar: A-F days, free
 *Alexa, ask cali fact for a california fact*
 
 Get the facts about California state.
+
+***
+
+## &nbsp;<img src="skills/B01G4UX380/skill_icon" alt="California Trivia Game icon" width="36"> [California Trivia Game](skills/B01G4UX380)
+
+*Alexa, launch California Trivia*
+
+California Trivia is a fun and educational multiple choice trivia game covering facts about the state of California.
 
 ***
 
@@ -1553,6 +1585,14 @@ Find the arrival times for upcoming buses on Baltimore's Charm City Circulator
 
 ***
 
+## &nbsp;<img src="skills/B01F0M1KD8/skill_icon" alt="Citizen Pass icon" width="36"> [Citizen Pass](skills/B01F0M1KD8)
+
+*Alexa, open citizen pass*
+
+Citizen Pass is a game that helps US residents to prepare for the citizenship exam or anyone who is interested in learning more about American history.
+
+***
+
 ## &nbsp;<img src="skills/B01EKQ2G7O/skill_icon" alt="City Trivia icon" width="36"> [City Trivia](skills/B01EKQ2G7O)
 
 *Alexa, play City Trivia*
@@ -1574,6 +1614,14 @@ stay informed. get involved.
 *Alexa, Open Civil War Buff*
 
 Learn more about the Civil War with Alexa!
+
+***
+
+## &nbsp;<img src="skills/B01FXLJSG2/skill_icon" alt="Classic Rock Trivia icon" width="36"> [Classic Rock Trivia](skills/B01FXLJSG2)
+
+*Alexa, start Classic Rock Trivia*
+
+A trivia game featuring the greatest rock band in the world, Metallica.
 
 ***
 
@@ -2040,6 +2088,14 @@ Selects a new word for every day of the year.
 *Alexa, ask dance moves how can I do the moonwalk*
 
 A skill that describes dance moves.
+
+***
+
+## &nbsp;<img src="skills/B01FRBTO6M/skill_icon" alt="Date & Zodiac trivia icon" width="36"> [Date & Zodiac trivia](skills/B01FRBTO6M)
+
+*Alexa, Start Zodiac Trivia*
+
+Zodiac Trivia
 
 ***
 
@@ -2689,7 +2745,7 @@ Ever wondered how many award miles you need to travel using miles in certain air
 
 *Alexa, Ask Flight Search*
 
-Search DOMESTIC U.S. flights for lowest price, one way or round trip. Say "Ask Flight Search". Top 5 flights sent to your Alexa app.
+IMPROVED VERSION, SEVERAL FIXES. Search DOMESTIC U.S. flights for lowest price. Say "Ask Flight Search". Top 5 flights sent to your Alexa app.
 
 ***
 
@@ -3628,6 +3684,14 @@ InsultiBot is so tired of talking to you.  All it wants is for you to leave it a
 *Alexa, launch Insults.*
 
 This skill will teach Alexa to hurl terrible insults at you.
+
+***
+
+## &nbsp;<img src="skills/B01FWT3GRM/skill_icon" alt="International Calling Codes Directory icon" width="36"> [International Calling Codes Directory](skills/B01FWT3GRM)
+
+*Alexa, ask Calling Codes, what's the code for Spain?*
+
+Need to dial internationally? Or you received a call and want to know the location? This directory provides quick answers for your calling code questions!
 
 ***
 
@@ -4843,6 +4907,14 @@ Kids can ask Alexa whether or not they can have screen time instead of pestering
 
 ***
 
+## &nbsp;<img src="skills/B01EWF3K3W/skill_icon" alt="National Day Tracker icon" width="36"> [National Day Tracker](skills/B01EWF3K3W)
+
+*Alexa, ask National Day Tracker what's being celebrated today*
+
+National Day Tracker is a comprehensive database of national observances. Discover and celebrate fun-usual holidays!
+
+***
+
 ## &nbsp;<img src="skills/B01DKTNECI/skill_icon" alt="NBA stats by iknow.io icon" width="36"> [NBA stats by iknow.io](skills/B01DKTNECI)
 
 *Alexa, ask I Know NBA for the Cavs stats in the last 5 games*
@@ -5084,6 +5156,14 @@ Sports Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01FWNGB7U/skill_icon" alt="One Ferry Away icon" width="36"> [One Ferry Away](skills/B01FWNGB7U)
+
+*Alexa, ask one ferry for what cities*
+
+This app gives the next departure and arrival times for Washington State Ferries
+
+***
+
 ## &nbsp;<img src="skills/B019YJAFPM/skill_icon" alt="Ooma icon" width="36"> [Ooma](skills/B019YJAFPM)
 
 *Alexa, ask Ooma to play my voicemail*
@@ -5252,6 +5332,14 @@ Alexa well read the first thousand digits of pi.To start say"Alexa ask Pi reader
 Piano Virtuoso
 
 Get fun facts about all things Piano!  This skill is loaded with many surprising facts about the King of Musical Instruments!
+
+***
+
+## &nbsp;<img src="skills/B01FCMY3DU/skill_icon" alt="Pick Someone icon" width="36"> [Pick Someone](skills/B01FCMY3DU)
+
+*Alexa, ask pick someone to add John*
+
+Randomly choose someone in your list
 
 ***
 
@@ -5695,6 +5783,14 @@ Random Cat Facts
 
 ***
 
+## &nbsp;<img src="skills/B01G4IURGI/skill_icon" alt="Random Chemistry icon" width="36"> [Random Chemistry](skills/B01G4IURGI)
+
+*Alexa, open Random Chemistry*
+
+Test your Chemistry knowledge with random questions!
+
+***
+
 ## &nbsp;<img src="skills/B01FOUPBF4/skill_icon" alt="Random Computer Facts icon" width="36"> [Random Computer Facts](skills/B01FOUPBF4)
 
 *Alexa, open computer facts.*
@@ -5724,6 +5820,14 @@ Randomized ideas for writers, artists, and anyone else who needs a place to star
 *Alexa ask Random Number for a number*
 
 Ask for a random number between 1 and 100
+
+***
+
+## &nbsp;<img src="skills/B01G2SL9QM/skill_icon" alt="Random Pop Music Trivia Game icon" width="36"> [Random Pop Music Trivia Game](skills/B01G2SL9QM)
+
+*Alexa, open Pop Music Trivia*
+
+This trivia quiz asks fun questions about modern pop stars.
 
 ***
 
@@ -8048,6 +8152,14 @@ Test your  knowledge of soccer with a series of questions around the world cup a
 *Alexa, open World History.*
 
 Are you interested in world history. Rely on World History for hundreds of events in world history for every day of the year.
+
+***
+
+## &nbsp;<img src="skills/B01G106OF2/skill_icon" alt="World Holidays icon" width="36"> [World Holidays](skills/B01G106OF2)
+
+*Alexa, open World Holidays.*
+
+Are you interested in world holidays. Rely on World Holidays for dozens of world holidays for every day of the year.
 
 ***
 
