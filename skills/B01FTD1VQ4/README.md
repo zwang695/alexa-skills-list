@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Meal Dictator icon" width="36"> [Meal Dictator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8a005cf4-58ff-4dd6-845e-f6237b260736)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Meal Dictator skill, try saying...
 

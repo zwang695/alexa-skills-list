@@ -3,11 +3,11 @@
 
 To use the Rachio skill, try saying...
 
-* *Alexa, tell Rachio to start zone one for six minutes*
+* *Alexa, ask Rachio to start zone one for six minutes*
 
-* *Alexa, tell Rachio that it's raining*
+* *Alexa, ask Rachio to turn on rain delay*
 
-* *Alexa, tell Rachio to stop watering*
+* *Alexa, ask Rachio to stop watering*
 
 The Rachio skill allows you to control your Rachio Smart Wifi Enabled Irrigation Controller from your Echo. You can use the Rachio skill to start watering one of your zones, stop watering, start and stop a rain delay, and enable or disable standby mode.
 

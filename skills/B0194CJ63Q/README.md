@@ -23,5 +23,4 @@ Visit: http://bit.ly/alexaphonefinder to install the android app
 * **ASIN:** B0194CJ63Q
 * **Author:** Caricaturers
 * **Release Date:** December 8, 2015 @ 20:25:55
-* **Privacy Policy:** https://caricaturers.us/
 * **In-App Purchasing:** No

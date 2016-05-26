@@ -19,6 +19,6 @@ Trivia for Trekkie's.  Test your Knowledge of the Star Trek universe!  The trivi
 * **Category:** Entertainment
 * **ID:** amzn1.echo-sdk-ams.app.bd7be3da-ed27-453f-aa24-9f3b7bedec2e
 * **ASIN:** B01FRG1JSS
-* **Author:** Joe Reese
+* **Author:** TLE Creations
 * **Release Date:** May 20, 2016 @ 04:08:40
 * **In-App Purchasing:** No

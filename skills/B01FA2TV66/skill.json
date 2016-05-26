@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "dev-simpleplus.simplehuman.com",
+    "stage-simpleplus.simplehuman.com",
+    "simpleplus.simplehuman.com"
+  ],
+  "asin": "B01FA2TV66",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Connected-Home",
+  "description": "You can ask Alexa to control several of the sensor mirror pro’s features such as mirror brightness, lighting presets, changing color temperature or setting a timer. To get started, you must have a sensor mirror pro and a simplehuman app account.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask sensor mirror to brighten",
+    "Alexa, ask sensor mirror to use the office setting",
+    "Alexa, ask sensor mirror to set the timer to 5 minutes"
+  ],
+  "firstReleaseDate": 1464300522.338,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.ae7ba57f-87ec-448f-834a-64fba306957f",
+  "imageAltText": "simplehuman sensor mirror pro icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01FA2TV66/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "sensor mirror",
+  "name": "simplehuman sensor mirror pro",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "ImD4Bj2nweNC9PTr9gDKnSrNm",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.simplehuman.com/privacy-policy/",
+  "shortDescription": "To use the sensor mirror pro skill, try saying: \nAlexa, ask sensor mirror to set brightness to 50 percent.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MYZYUZ260P96Y",
+  "vendorName": "simplehuman"
+}

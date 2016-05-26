@@ -9,7 +9,7 @@ To use the Tonight on a Very Special Episode: Trivia for Fans skill, try saying.
 
 * *the answer is 3*
 
-Sometimes they confused us and often they made us uncomfortable,  but everyone agrees, the "very special episode" of your favorite sitcom is the most memorable.  Test your knowledge of the special episodes that defined the 80s and 90s.  We recommend parents play it along with their children to start a conversation about the temptation to join a cult or hide in a fridge.
+Sometimes they confused us and often they made us uncomfortable,  but everyone agrees, the "very special episode" of your favorite sitcom is the most memorable.  Test your knowledge of the special episodes that defined the 80's and 90's.  We recommend parents play it along with their children to start a conversation about the temptation to join a cult or hide in a fridge.
 
 ***
 

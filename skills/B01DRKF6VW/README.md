@@ -19,6 +19,6 @@ Do you tired of checking different website to find the available parking slots ?
 * **Category:** Other
 * **ID:** amzn1.echo-sdk-ams.app.ab43dc0c-4c95-49c1-8104-0011c7c539e0
 * **ASIN:** B01DRKF6VW
-* **Author:** snappyjob
+* **Author:** Tuyen Le
 * **Release Date:** April 20, 2016 @ 18:02:25
 * **In-App Purchasing:** No

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1035
+**Total Skills Available:** 1054
 
 ***
 
@@ -34,6 +34,22 @@ Quickly order flowers for contacts in your 1-800-Flowers account.
 *Alexa, ask the queue, what is the average wait time?*
 
 Ask Alexa about the average wait time on the CMU 15-122 Office Hours Queue.
+
+***
+
+## &nbsp;<img src="skills/B01FV1IVY4/skill_icon" alt="2016 Presidential Race icon" width="36"> [2016 Presidential Race](skills/B01FV1IVY4)
+
+*Alexa ask Presidential Race who is winning*
+
+Presidential Race give you up to date results on the current status of the 2016 US presidential election polls between Hillary Clinton and Donald Trump.
+
+***
+
+## &nbsp;<img src="skills/B01FGXT5A6/skill_icon" alt="21 Blackjack icon" width="36"> [21 Blackjack](skills/B01FGXT5A6)
+
+*Alexa, open black jack*
+
+Compete with the dealer to score 21 points in this classic card game
 
 ***
 
@@ -1441,6 +1457,14 @@ Get a study tip for the MBE.
 
 ***
 
+## &nbsp;<img src="skills/B01FT3GF4C/skill_icon" alt="Channel Finder icon" width="36"> [Channel Finder](skills/B01FT3GF4C)
+
+*Alexa, ask channel finder what is the channel number for comedy central?*
+
+Channel number finder for Sacramento region Dish Network
+
+***
+
 ## &nbsp;<img src="skills/B01BFXE0RO/skill_icon" alt="CheerLights icon" width="36"> [CheerLights](skills/B01BFXE0RO)
 
 *Alexa open cheer lights*
@@ -1454,6 +1478,14 @@ Find out what color the World feels like right now.
 *Alexa, ask Chef what I can use instead of two tablespoons of baking powder*
 
 Chef helps you in the kitchen! Find weights of various volumes of ingredients (useful for baking), as well as substitutions for all kinds of ingredients.
+
+***
+
+## &nbsp;<img src="skills/B01FPZD966/skill_icon" alt="Chef Basil icon" width="36"> [Chef Basil](skills/B01FPZD966)
+
+*Alexa, open Chef Basil*
+
+Cook your favorite recipes hands-free with the Amazon Alexa.
 
 ***
 
@@ -1867,6 +1899,14 @@ Couch Potato knows when you should really just stay inside, like, really.
 
 ***
 
+## &nbsp;<img src="skills/B01FNKN08K/skill_icon" alt="Course Catalog for Miami Dade College icon" width="36"> [Course Catalog for Miami Dade College](skills/B01FNKN08K)
+
+*Alexa, ask My Course Catalog what is CHM 1025*
+
+Course Catalog for Miami Dade College provides information on  courses, descriptions, pre/co-requisites, and credit counts of offerings at Miami Dade College
+
+***
+
 ## &nbsp;<img src="skills/B01AOEPC0O/skill_icon" alt="Covisint Trivia icon" width="36"> [Covisint Trivia](skills/B01AOEPC0O)
 
 *Alexa, launch Cove Trivia*
@@ -2147,6 +2187,14 @@ Check if a character is still alive in the book series A Song of Ice and Fire
 
 ***
 
+## &nbsp;<img src="skills/B01G1155OM/skill_icon" alt="DebateTopic icon" width="36"> [DebateTopic](skills/B01G1155OM)
+
+*Alexa, open debate topic.*
+
+Randomly generates a phrase out of a couple words so you can practice impromptu speeches.
+
+***
+
 ## &nbsp;<img src="skills/B01DTWAPPA/skill_icon" alt="Deck of Cards icon" width="36"> [Deck of Cards](skills/B01DTWAPPA)
 
 *Alexa, open deck of cards.*
@@ -2211,6 +2259,14 @@ DiceBot is your sleazy friend on the inside. Just say the word, and the dice wil
 
 ***
 
+## &nbsp;<img src="skills/B01FO6QP3A/skill_icon" alt="Dinner Maker icon" width="36"> [Dinner Maker](skills/B01FO6QP3A)
+
+*Alexa ask Dinner Maker how to make an italian meatball sub.*
+
+Dinner Maker is a skill that tells you the ingredients of specific dinner recipes.
+
+***
+
 ## &nbsp;<img src="skills/B01BOAU93C/skill_icon" alt="Dino Trivia icon" width="36"> [Dino Trivia](skills/B01BOAU93C)
 
 *Alexa, open dino trivia*
@@ -2248,6 +2304,14 @@ Do you like Dinosaurs? Of course you down. Enable this skill to learn even MORE 
 *Alexa, ask Discover Artist to find me a new artist*
 
 Discover a new artist every day
+
+***
+
+## &nbsp;<img src="skills/B01FPAWKXY/skill_icon" alt="District Commuter icon" width="36"> [District Commuter](skills/B01FPAWKXY)
+
+*Alexa, ask District Commuter for orange line trains at L'Enfant Plaza*
+
+Get the current arrival times for trains on the DC metro system on the line you want to travel. Simple and easy.
 
 ***
 
@@ -2328,6 +2392,15 @@ Mature Audiences: Let Alexa curate your next party with a series of drinking gam
 *"Alexa, launch Drive Time."*
 
 Drive Time gets you the travel time to your destinations.
+
+***
+
+## &nbsp;<img src="skills/B01FPDROPU/skill_icon" alt="Driver Helper for NASCAR icon" width="36"> [Driver Helper for NASCAR](skills/B01FPDROPU)
+
+*Alexa, ask driver helper who drives the number nineteen car?*
+
+Do you ever forget who drives which car?
+This skill returns the NASCAR driver name for a given number or the number for a given driver.
 
 ***
 
@@ -3383,6 +3456,14 @@ Get the time until the next bus arrives at a specified bus stop in the Iowa City
 
 ***
 
+## &nbsp;<img src="skills/B01FVB3ASG/skill_icon" alt="Headlines From TsaTsaTzu icon" width="36"> [Headlines From TsaTsaTzu](skills/B01FVB3ASG)
+
+*Alexa, open headlines from TsaTsaTzu*
+
+Listen to the headlines from TsaTsaTzu's RSS Feed
+
+***
+
 ## &nbsp;<img src="skills/B01FOLG814/skill_icon" alt="Health Check for PowerChord API icon" width="36"> [Health Check for PowerChord API](skills/B01FOLG814)
 
 *Alexa, ask server status to perform a health check*
@@ -3511,6 +3592,14 @@ Tells you interesting horror movie trivia.
 
 ***
 
+## &nbsp;<img src="skills/B01FZW2OH4/skill_icon" alt="Hourglass icon" width="36"> [Hourglass](skills/B01FZW2OH4)
+
+*Alexa tell my hourglass my birthday is March Seventeenth Nineteen Seventy One*
+
+Hourglass will tell you based on your birthday and averages based on your gender, what percentage you have lived and how long you have left.
+
+***
+
 ## &nbsp;<img src="skills/B01ATZM6N4/skill_icon" alt="House Band icon" width="36"> [House Band](skills/B01ATZM6N4)
 
 *"Alexa, launch house band."*
@@ -3572,6 +3661,14 @@ Basic information about human heart
 *Alexa, open Hunter Pence facts*
 
 Hear your Echo list off little-known facts about Hunter Pence
+
+***
+
+## &nbsp;<img src="skills/B01G4IIL7U/skill_icon" alt="hunter_helper icon" width="36"> [hunter_helper](skills/B01G4IIL7U)
+
+*Alexa, ask hunter helper where does the purple gypceros sleep in the sunken hollow*
+
+Hunter Helper tells you where monsters go to sleep.
 
 ***
 
@@ -4014,6 +4111,14 @@ Let's Divide is a skill that quizzes you on division problems.  You can specify 
 *Alexa, open let's multiply*
 
 Let's Multiply is a skill that quizzes you on your multiplication table.  You can specify how high you want the questions to go, up to twelve times twelve.
+
+***
+
+## &nbsp;<img src="skills/B01EWVRGY0/skill_icon" alt="Letter Counter icon" width="36"> [Letter Counter](skills/B01EWVRGY0)
+
+*Alexa, open Letter Counter*
+
+A simple skill for counting the total number of letters in a word
 
 ***
 
@@ -4559,6 +4664,14 @@ Have Alexa tell you basic Mormon facts and beliefs.
 *Alexa, launch Mormon Trivia*
 
 Mormon trivia from the Book of Mormon and The Church of Jesus Christ of Latter-day Saints history.
+
+***
+
+## &nbsp;<img src="skills/B01G4F0B4O/skill_icon" alt="Morse Coder icon" width="36"> [Morse Coder](skills/B01G4F0B4O)
+
+*Alexa, tell morse coder to teach me*
+
+This skill makes you an expert for Morse codes. It can encode any name of your choice and chooses out of more than 2500 Morse codes to coach you.
 
 ***
 
@@ -5285,6 +5398,14 @@ Phish Geek Phish Facts
 
 ***
 
+## &nbsp;<img src="skills/B0194CJ63Q/skill_icon" alt="Phone Finder for Alexa icon" width="36"> [Phone Finder for Alexa](skills/B0194CJ63Q)
+
+*Alexa, open Phone Finder*
+
+Tired of missing your phone in your home? Use Echo to find your phone. Say "Open phone finder". This app requires a companion app from android app store.
+
+***
+
 ## &nbsp;<img src="skills/B01FTTQ9E2/skill_icon" alt="Phonetic Alphabet Trainer icon" width="36"> [Phonetic Alphabet Trainer](skills/B01FTTQ9E2)
 
 *Alexa, open phonetic alphabet trainer*
@@ -5420,14 +5541,6 @@ Planting calendar for Zones 7 and 8
 *Alexa, ask platypus geek for a platypus fact*
 
 This is will give you a platypus fact when invoked.
-
-***
-
-## &nbsp;<img src="skills/B01E3Q5CH2/skill_icon" alt="Pocket Assistant icon" width="36"> [Pocket Assistant](skills/B01E3Q5CH2)
-
-*Alexa, ask Pocket Helper to have pocket fix my computer*
-
-A user of the Pocket app can use this skill. The main purpose of this skill is to help user in case of a problem by calling on the mobile number provided by him
 
 ***
 
@@ -5761,7 +5874,7 @@ This app allows QVine employees to ask about upcoming events on the QVine calend
 
 ## &nbsp;<img src="skills/B01AIZVCGW/skill_icon" alt="Rachio icon" width="36"> [Rachio](skills/B01AIZVCGW)
 
-*Alexa, tell Rachio to start zone one for six minutes*
+*Alexa, ask Rachio to start zone one for six minutes*
 
 Rachio
 
@@ -5868,6 +5981,22 @@ Are you ready to learn some random facts that you can talk about at a party? Wel
 *Alexa, ask Randomizer for a random number.*
 
 This is just random value picker e.g. Alexa, ask Randomizer for any random number. Alexa ask Randomizer for number greater than ten. like this.
+
+***
+
+## &nbsp;<img src="skills/B01FY12Y9O/skill_icon" alt="Read essays from The Macro icon" width="36"> [Read essays from The Macro](skills/B01FY12Y9O)
+
+*Alexa, ask The Macro to read an essay*
+
+A skill to read startup essays from YCombinator's The Macro (www.themacro.com)
+
+***
+
+## &nbsp;<img src="skills/B01G6BGGBI/skill_icon" alt="Record of the Year icon" width="36"> [Record of the Year](skills/B01G6BGGBI)
+
+*Alexa, ask record of the year what was the record of the year in 1988*
+
+Flashback to the greatest hits of today and the past decades with Record of the Year! This skill will tell you who won the Grammy for record of the year.
 
 ***
 
@@ -6292,6 +6421,15 @@ This application can be used to lookup the price of Silver, Gold, and Bitcoin.
 *Alexa, tell simple control to watch TV*
 
 Take charge of your Simple Control automated home using nothing more than your voice. Control Activities, volume, and other aspects of Simple Control.
+
+***
+
+## &nbsp;<img src="skills/B01FA2TV66/skill_icon" alt="simplehuman sensor mirror pro icon" width="36"> [simplehuman sensor mirror pro](skills/B01FA2TV66)
+
+*Alexa, ask sensor mirror to brighten*
+
+To use the sensor mirror pro skill, try saying: 
+Alexa, ask sensor mirror to set brightness to 50 percent.
 
 ***
 
@@ -7055,6 +7193,14 @@ Meet the wizard. He's about to do some pretty wild magic...
 *Alexa, tell Eliza that I am sad*
 
 A fun program that pretends to be a psycho therapist. Not to be taken seriously, this is just for fun!
+
+***
+
+## &nbsp;<img src="skills/B01FX9ZOAI/skill_icon" alt="Therapy icon" width="36"> [Therapy](skills/B01FX9ZOAI)
+
+*Alexa, tell My Therapist I am excited.*
+
+Therapy is a therapist for Alexa.  Tell therapist how you are feeling and she will give you words of encouragements.  Alexa, tell my therapist I am excited.
 
 ***
 
@@ -7944,6 +8090,14 @@ Tennessee Walking Horse Facts
 *Alexa, ask the warden if DMX is in jail*
 
 Ask the warden if DMX is in jail
+
+***
+
+## &nbsp;<img src="skills/B01FROAWB0/skill_icon" alt="Washington State Ferry icon" width="36"> [Washington State Ferry](skills/B01FROAWB0)
+
+*Alexa, ask washington State ferry when is the next ferry from Seattle to Bainbridge.*
+
+Use Washington State Ferry to get departure information for the Washington State Ferries.
 
 ***
 
