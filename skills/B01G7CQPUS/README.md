@@ -1,0 +1,26 @@
+# &nbsp;<img src="skill_icon" alt="Tech Hunt icon" width="36"> [Tech Hunt](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d012cc18-478b-44e3-9f9d-992c47282e55)
+![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+
+To use the Tech Hunt skill, try saying...
+
+* *Alexa, ask Tech Hunt for top products*
+
+* *Top products*
+
+* *Top posts*
+
+Tech Hunt skill will tell you what is trending on Product Hunt today. It makes you aware of the top three posts.
+
+So what are you waiting for? Just say, "Alexa, ask Tech Hunt for top products" and discover your next favorite thing.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** tech hunt
+* **Category:** News
+* **ID:** amzn1.echo-sdk-ams.app.d012cc18-478b-44e3-9f9d-992c47282e55
+* **ASIN:** B01G7CQPUS
+* **Author:** Abhishek Warokar
+* **Release Date:** May 27, 2016 @ 17:38:28
+* **In-App Purchasing:** No

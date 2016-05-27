@@ -31,6 +31,4 @@ Be sure to rate the game if you enjoy it!
 * **ASIN:** B01C3CO48G
 * **Author:** Amazon
 * **Release Date:** February 22, 2016 @ 14:39:55
-* **Privacy Policy:** https://www.amazon.com/gp/help/customer/display.html/?nodeId=468496
-* **Terms of Use:** https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740
 * **In-App Purchasing:** No

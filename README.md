@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1068
+**Total Skills Available:** 1078
 
 ***
 
@@ -3456,6 +3456,14 @@ Haiku poem generator.
 
 ***
 
+## &nbsp;<img src="skills/B01F6D3ZHU/skill_icon" alt="Haiku Home icon" width="36"> [Haiku Home](skills/B01F6D3ZHU)
+
+*null*
+
+Control your Haiku fans and lights
+
+***
+
 ## &nbsp;<img src="skills/B01ED658W6/skill_icon" alt="Hangman icon" width="36"> [Hangman](skills/B01ED658W6)
 
 *Alexa, Open Hangman*
@@ -3608,6 +3616,14 @@ Learn facts about the canine stars of film and stage
 
 ***
 
+## &nbsp;<img src="skills/B01EKJX3M8/skill_icon" alt="Home Control Assistant icon" width="36"> [Home Control Assistant](skills/B01EKJX3M8)
+
+*null*
+
+The HCA Skill lets you control devices, programs, and groups in your home using the HCA server
+
+***
+
 ## &nbsp;<img src="skills/B01DEC893A/skill_icon" alt="HomeAdvisor icon" width="36"> [HomeAdvisor](skills/B01DEC893A)
 
 *Alexa, ask home advisor to find me a plumber.*
@@ -3637,6 +3653,14 @@ Are you a horror movie fan?  Test your knowledge of horror movie taglines.
 *Alexa, open Horror Trivia*
 
 Tells you interesting horror movie trivia.
+
+***
+
+## &nbsp;<img src="skills/B01FTCHTHA/skill_icon" alt="HotBeer icon" width="36"> [HotBeer](skills/B01FTCHTHA)
+
+*Alexa, ask Hot Beer, What is the Hot Beer?*
+
+Find out about the top trending micro brew.
 
 ***
 
@@ -3845,6 +3869,14 @@ InsultiBot is so tired of talking to you.  All it wants is for you to leave it a
 *Alexa, launch Insults.*
 
 This skill will teach Alexa to hurl terrible insults at you.
+
+***
+
+## &nbsp;<img src="skills/B01FZVZQV6/skill_icon" alt="Interesting Space Facts icon" width="36"> [Interesting Space Facts](skills/B01FZVZQV6)
+
+*Alexa, start Interesting Space Facts.*
+
+Interesting Space Facts is a skill that tells you a random fact about space.
 
 ***
 
@@ -4656,6 +4688,14 @@ A multiple-choice trivia game to challenging everything you think you know about
 *Alexa, ask Milo to find Back to the Future Part Three*
 
 Find where you can view your favorite movie on free, paid and subscription services like Amazon Prime or Crackle.
+
+***
+
+## &nbsp;<img src="skills/B01G7WVZCQ/skill_icon" alt="Mind Gap icon" width="36"> [Mind Gap](skills/B01G7WVZCQ)
+
+*Alexa, open Mind Gap*
+
+Feed your mind. You know you want it.
 
 ***
 
@@ -7027,6 +7067,15 @@ Teacher for Alexa is a fun and interactive way to learn basic math through a ser
 
 ***
 
+## &nbsp;<img src="skills/B01G7CQPUS/skill_icon" alt="Tech Hunt icon" width="36"> [Tech Hunt](skills/B01G7CQPUS)
+
+*Alexa, ask Tech Hunt for top products*
+
+Discover your next favorite thing with Daily Hunt.
+Just say, "Alexa, ask Tech Hunt for top products"
+
+***
+
 ## &nbsp;<img src="skills/B017OBRFDC/skill_icon" alt="Techcrunch News icon" width="36"> [Techcrunch News](skills/B017OBRFDC)
 
 *"Alexa, ask Techcrunch news for headlines"*
@@ -7585,6 +7634,14 @@ The ToughGuy tells you nerdy Chuck Norris jokes.
 *Alexa, tell tournament trivia to start a new game*
 
 Test your knowledge of the college basketball tournament.
+
+***
+
+## &nbsp;<img src="skills/B01EIQX6Y8/skill_icon" alt="TP-LINK Kasa icon" width="36"> [TP-LINK Kasa](skills/B01EIQX6Y8)
+
+*null*
+
+Kasa is a simple way to manage your home from anywhere.
 
 ***
 
@@ -8165,6 +8222,14 @@ The Vectrex Wiki skill allows you to get information about the original Vectrex 
 
 ***
 
+## &nbsp;<img src="skills/B01FRIJRJY/skill_icon" alt="Venstar icon" width="36"> [Venstar](skills/B01FRIJRJY)
+
+*null*
+
+Monitor and control your Skyport compatible thermostat. Alexa, set my living room to 74 degrees.
+
+***
+
 ## &nbsp;<img src="skills/B01DPVVCLG/skill_icon" alt="Verbivore icon" width="36"> [Verbivore](skills/B01DPVVCLG)
 
 *Alexa, ask Verbivore for the word of the day*
@@ -8389,6 +8454,14 @@ Find the perfect wine for a type of food, or vice versa.
 
 ***
 
+## &nbsp;<img src="skills/B01EIQYF3E/skill_icon" alt="Wink icon" width="36"> [Wink](skills/B01EIQYF3E)
+
+*null*
+
+With Amazon Alexa, Wink smart home users can use simple voice commands to control their Wink-compatible lighting products and Wink-enabled Nest Thermostats.
+
+***
+
 ## &nbsp;<img src="skills/B01BPIG5I6/skill_icon" alt="Women's Underwear icon" width="36"> [Women's Underwear](skills/B01BPIG5I6)
 
 *Alexa, open women's underwear*
@@ -8498,6 +8571,14 @@ Yoga Guru is a skill which will tell you how to do a yoga pose.
 *Alexa, ask Yoga Trainer for the next pose*
 
 Yoga Trainer
+
+***
+
+## &nbsp;<img src="skills/B01E7TYGFO/skill_icon" alt="Yonomi icon" width="36"> [Yonomi](skills/B01E7TYGFO)
+
+*null*
+
+Yonomi connects all of your devices under one roof for free – including Sonos, Logitech Harmony, Hue and more. Control all of your devices with just your voice!
 
 ***
 

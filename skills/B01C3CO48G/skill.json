@@ -24,11 +24,11 @@
   "numberOfReviews": 11,
   "pamsPartnerId": null,
   "permissions": null,
-  "privacyPolicyUrl": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=468496",
+  "privacyPolicyUrl": null,
   "shortDescription": "Twenty Questions will guess what you're thinking!",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740",
+  "termsOfUseUrl": null,
   "vendorId": "M3C85BOAP9SLYI",
   "vendorName": "Amazon"
 }

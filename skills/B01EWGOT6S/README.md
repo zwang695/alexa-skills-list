@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Pronto.ai icon" width="36"> [Pronto.ai](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.04654d8f-d6cb-44d4-a3fe-c53732eac1b2)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Pronto.ai skill, try saying...
 
