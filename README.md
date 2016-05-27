@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1054
+**Total Skills Available:** 1056
 
 ***
 
@@ -5496,6 +5496,14 @@ Alexa speaks like a pirate
 
 ***
 
+## &nbsp;<img src="skills/B01G1CXCDM/skill_icon" alt="Pitch Class Set Calculator icon" width="36"> [Pitch Class Set Calculator](skills/B01G1CXCDM)
+
+*Alexa, start PC set calculator*
+
+Pitch Class Set Calculator
+
+***
+
 ## &nbsp;<img src="skills/B01DOG8U08/skill_icon" alt="Pitch Pipe icon" width="36"> [Pitch Pipe](skills/B01DOG8U08)
 
 *Alexa, ask Pitch Pipe to play C sharp*
@@ -7825,6 +7833,14 @@ Get four numbers that can be used to calculate 24.
 *Alexa, run Twister Spinner*
 
 Twister spinner with voice
+
+***
+
+## &nbsp;<img src="skills/B01G499YGQ/skill_icon" alt="Type Master for Pokemon icon" width="36"> [Type Master for Pokemon](skills/B01G499YGQ)
+
+*Alexa, ask Type Master to breakdown fire types.*
+
+Quickly get strength and weakness information for all Pokemon types.
 
 ***
 
