@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Dr Speech icon" width="36"> [Dr Speech](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8ee14a43-e9f7-4f00-a8fb-2254d8008587)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Dr Speech skill, try saying...
 

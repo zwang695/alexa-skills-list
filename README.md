@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1060
+**Total Skills Available:** 1068
 
 ***
 
@@ -1040,6 +1040,14 @@ Simple, fun bird trivia game.
 
 ***
 
+## &nbsp;<img src="skills/B01FZY5K7I/skill_icon" alt="Birthday Register icon" width="36"> [Birthday Register](skills/B01FZY5K7I)
+
+*Alexa, ask birthday finder to get the names of famous people born on January twelfth*
+
+Find the names of famous people born on any given date
+
+***
+
 ## &nbsp;<img src="skills/B017OBUWP0/skill_icon" alt="Bitcoin Price icon" width="36"> [Bitcoin Price](skills/B017OBUWP0)
 
 *Alexa, tell me the current Bitcoin price*
@@ -1085,6 +1093,14 @@ Ask Alexa to help you show off your crafting skills by answering over 30 differe
 *Alexa, tell Blue moo to press Watch TV*
 
 Make your voice a simple and powerful universal remote control.  Change channels, hear show descriptions and press any remote button.  **iOS Only**
+
+***
+
+## &nbsp;<img src="skills/B01FRGDQN4/skill_icon" alt="Bo's Resume icon" width="36"> [Bo's Resume](skills/B01FRGDQN4)
+
+*Alexa launch candidate Bo*
+
+Bo's Resume
 
 ***
 
@@ -2481,6 +2497,14 @@ Play any musical interval in an octave to improve your ear training
 *Alexa, start Easter trivia.*
 
 Test your knowledge of the Easter holiday with this fun skill.
+
+***
+
+## &nbsp;<img src="skills/B01EEC51XA/skill_icon" alt="Eat Pray Get Well icon" width="36"> [Eat Pray Get Well](skills/B01EEC51XA)
+
+*Alexa ask Eat Pray Get Well for the latest dessert recipe*
+
+Get the latest information from the premier healthy eating blog Eat, Pray, Get Well.
 
 ***
 
@@ -4282,6 +4306,14 @@ This enables Alexa to tell you randomly generated lottery numbers.
 
 ***
 
+## &nbsp;<img src="skills/B01FZUBC42/skill_icon" alt="Love Predictor icon" width="36"> [Love Predictor](skills/B01FZUBC42)
+
+*Alexa ask love predictor what are the chances of Adam and Eve*
+
+Love predictor will give you a percentage score of two people making it together. You say the 2 name, Alexa will give you the score.
+
+***
+
 ## &nbsp;<img src="skills/B01DMS44XA/skill_icon" alt="Lunch Menu for Gonzaga High School icon" width="36"> [Lunch Menu for Gonzaga High School](skills/B01DMS44XA)
 
 *Alexa, ask Sage for Gonzaga what is being served tomorrow?*
@@ -4592,6 +4624,14 @@ Want to know if there are delays on the Red Line?  Could weekend construction de
 *Alexa, ask metro north track i am going from Stamford to Grand Central*
 
 Gets the train time and track number for Metro North
+
+***
+
+## &nbsp;<img src="skills/B01FVJ70AW/skill_icon" alt="Microcontroller Assist icon" width="36"> [Microcontroller Assist](skills/B01FVJ70AW)
+
+*Alexa, ask Microcontroller Assist to start the step*
+
+Listen to a list of "10 steps to choose perfect microcontroller" which every designer should perform before making the choice.
 
 ***
 
@@ -5760,6 +5800,14 @@ Jump start your creativity with weekly writing prompts
 
 ***
 
+## &nbsp;<img src="skills/B01EWGOT6S/skill_icon" alt="Pronto.ai icon" width="36"> [Pronto.ai](skills/B01EWGOT6S)
+
+*Alexa, ask Pronto to call 510.378.6712*
+
+Pronto makes phone calls for you. Your phone assistant bot!
+
+***
+
 ## &nbsp;<img src="skills/B0197E9NX4/skill_icon" alt="Pronunciations icon" width="36"> [Pronunciations](skills/B0197E9NX4)
 
 *Alexa, ask pronunciations how to pronounce B. I. T. S.*
@@ -6117,6 +6165,14 @@ Use this skill to repeat anything you say to Alexa
 *Alexa, ask Reporter Dee for the latest headlines.*
 
 Reads the latest headlines from The Drudge Report to you.
+
+***
+
+## &nbsp;<img src="skills/B01G7RX3DU/skill_icon" alt="Reporter for the U.S Federal Government Debt icon" width="36"> [Reporter for the U.S Federal Government Debt](skills/B01G7RX3DU)
+
+*Alexa, open Debt Clock.*
+
+Reads the current figure for the U.S federal debt to you.
 
 ***
 
@@ -7457,6 +7513,14 @@ Have Alexa read you Business Insider's daily lists of tech and world events
 *Alexa, ask cue token for the price*
 
 Ask for the most current game token price in gold for World of Warcraft!
+
+***
+
+## &nbsp;<img src="skills/B01G2JXQ62/skill_icon" alt="Tomatonator Trivia icon" width="36"> [Tomatonator Trivia](skills/B01G2JXQ62)
+
+*Alexa, open tomatonator trivia*
+
+Tomatonator is a trivia game about tomatoes!
 
 ***
 
