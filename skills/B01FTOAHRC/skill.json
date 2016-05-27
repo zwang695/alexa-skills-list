@@ -8,8 +8,8 @@
   "description": "Hear what's happening at Hillbrook School today, tomorrow or later in the week. No need to find your phone, navigate to the portal, or search your calendar -- just ask Alexa.\n\nAlexa can also tell you about grade-specific events, such as library.\n\n\"Alexa, ask Hillbrook bear about second grade\"\n\nOnce you request a grade, it'll be saved until you remove it.\n\n\"Alexa, tell Hillbrook bear to drop second grade\"",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask Hillbrook bear about today",
-    "Alexa, tell me about Friday with Hillbrook bear",
+    "Alexa, run Hillbrook bear",
+    "Alexa, ask Hillbrook bear about Friday",
     "Alexa, ask Hillbrook bear about second grade"
   ],
   "firstReleaseDate": 1464007111.647,

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1056
+**Total Skills Available:** 1060
 
 ***
 
@@ -106,6 +106,14 @@ If you say "Alexa play 80's Movie Trivia" you will be presented with 5 questions
 *Alexa, ask giants trivia*
 
 A fan's trivia app covering the San Francisco Giants since the mid 80's.
+
+***
+
+## &nbsp;<img src="skills/B01FOY5OJ8/skill_icon" alt="A Magic Trick icon" width="36"> [A Magic Trick](skills/B01FOY5OJ8)
+
+*Alexa, magic trick*
+
+Have Alexa play an amazing guess-the-number trick.
 
 ***
 
@@ -1088,6 +1096,14 @@ Get a random board game from your BoardGameGeek.com board game collection
 
 ***
 
+## &nbsp;<img src="skills/B01FNXM6SW/skill_icon" alt="Board Games Answers icon" width="36"> [Board Games Answers](skills/B01FNXM6SW)
+
+*Alexa, ask board games how many people can play Ticket to Ride*
+
+Get answers to common board game rule questions.
+
+***
+
 ## &nbsp;<img src="skills/B01D4O5CO2/skill_icon" alt="Boat War icon" width="36"> [Boat War](skills/B01D4O5CO2)
 
 *Alexa, launch Boat War*
@@ -1251,7 +1267,7 @@ Let your echo help you do the calculation, it is cool and you won't make mistake
 
 ## &nbsp;<img src="skills/B01FTOAHRC/skill_icon" alt="Calendar for Hillbrook School icon" width="36"> [Calendar for Hillbrook School](skills/B01FTOAHRC)
 
-*Alexa, ask Hillbrook bear about today*
+*Alexa, run Hillbrook bear*
 
 Hear what's happening on the published Hillbrook School calendar: A-F days, free dress, early dismissal, and other events.
 
@@ -1686,6 +1702,14 @@ Generate a code phrase for your next top secret project!
 *Alexa, ask Code Cracker for an easy code*
 
 Puzzle game based on Mastermind.
+
+***
+
+## &nbsp;<img src="skills/B01FY6MQDI/skill_icon" alt="Coffee Local icon" width="36"> [Coffee Local](skills/B01FY6MQDI)
+
+*Alexa, ask coffee local what is the list of best midwest coffee shops*
+
+Coffee Local is a guide to the 50 best coffee shops in America;
 
 ***
 
@@ -2371,6 +2395,14 @@ Place your Domino's Easy Order or your most recent order. You can also ask for D
 
 ***
 
+## &nbsp;<img src="skills/B01FPWIUN6/skill_icon" alt="Dr Speech icon" width="36"> [Dr Speech](skills/B01FPWIUN6)
+
+*Alexa, Doctor Speech*
+
+Dr Speech is designed to help people who speak English as a second language to improve the accuracy of their pronunciation.
+
+***
+
 ## &nbsp;<img src="skills/B01C9JQFFI/skill_icon" alt="DrinkBoy icon" width="36"> [DrinkBoy](skills/B01C9JQFFI)
 
 *Alexa, ask Drink Boy what is the recipe for a Sidecar*
@@ -2859,6 +2891,14 @@ Not sure what kind of food to eat for lunch or dinner?  Ask Food Finder to sugge
 *Alexa, ask Food Holiday for the food holiday today.*
 
 Retrieve today's Food Holiday
+
+***
+
+## &nbsp;<img src="skills/B01FLY1KF8/skill_icon" alt="Food Nutrition Lookup icon" width="36"> [Food Nutrition Lookup](skills/B01FLY1KF8)
+
+*Alexa, ask Nutri Lookup about apples raw*
+
+This skill provides Calories information for food items.
 
 ***
 
@@ -3392,14 +3432,6 @@ Haiku poem generator.
 
 ***
 
-## &nbsp;<img src="skills/B01F6D3ZHU/skill_icon" alt="Haiku Home icon" width="36"> [Haiku Home](skills/B01F6D3ZHU)
-
-*null*
-
-Control your Haiku fans and lights
-
-***
-
 ## &nbsp;<img src="skills/B01ED658W6/skill_icon" alt="Hangman icon" width="36"> [Hangman](skills/B01ED658W6)
 
 *Alexa, Open Hangman*
@@ -3549,14 +3581,6 @@ To Know about Ice Hockey and Ice hockey history.
 *Alexa, ask Hollywood Dogs for some pooch gossip*
 
 Learn facts about the canine stars of film and stage
-
-***
-
-## &nbsp;<img src="skills/B01EKJX3M8/skill_icon" alt="Home Control Assistant icon" width="36"> [Home Control Assistant](skills/B01EKJX3M8)
-
-*null*
-
-The HCA Skill lets you control devices, programs, and groups in your home using the HCA server
 
 ***
 
@@ -3712,6 +3736,14 @@ This skill tell you interesting facts about India which most people don't know.
 
 ***
 
+## &nbsp;<img src="skills/B01FUNSD32/skill_icon" alt="Indicators icon" width="36"> [Indicators](skills/B01FUNSD32)
+
+*Alexa, ask Economic Indicators what is the value of Gross Domestic Product*
+
+Comprehensive information about global economic activity.
+
+***
+
 ## &nbsp;<img src="skills/B01FRNVN4G/skill_icon" alt="IndieCred icon" width="36"> [IndieCred](skills/B01FRNVN4G)
 
 *Alexa, tell Indie Cred to give me my fact*
@@ -3733,6 +3765,14 @@ Indonesian Facts: All fun, cool, interesting, and educative information about In
 *Alexa, ask the innkeeper to say hello to the mage.*
 
 Welcome to my inn! You can talk to your favorite Hearthstone heroes, and they'll emote back!
+
+***
+
+## &nbsp;<img src="skills/B01FN331S6/skill_icon" alt="Inspire icon" width="36"> [Inspire](skills/B01FN331S6)
+
+*Alexa, tell Inspiring Quote  to inspire me*
+
+Use Inspire with your Alexa App to INSPIRE ME yourself! It'll give you the little extra push that you need to keep going or simply to start a new project.
 
 ***
 
@@ -5162,6 +5202,14 @@ Get information on your NJ Transit Train. Current version will give information 
 *Alexa launch Noodle It Out*
 
 Noodle It Out is a trivia game for all foodies!
+
+***
+
+## &nbsp;<img src="skills/B01FZE0WYE/skill_icon" alt="Nordic Runes icon" width="36"> [Nordic Runes](skills/B01FZE0WYE)
+
+*Alexa ask Nordic Runes for a rune*
+
+Pick a Nordic Rune
 
 ***
 
@@ -6787,6 +6835,14 @@ What's going on this weekend? Ask Alexa to find out from StubHub!
 
 ***
 
+## &nbsp;<img src="skills/B01G6PJQRA/skill_icon" alt="Stupid Cat Jokes icon" width="36"> [Stupid Cat Jokes](skills/B01G6PJQRA)
+
+*Alexa, open cat jokes*
+
+If you like completely stupid CAT JOKES, than do we have the skill for you! Hear dumb cat joke, one after another. You will be in idiotic cat joke bliss!!!!
+
+***
+
 ## &nbsp;<img src="skills/B01FGDUM30/skill_icon" alt="Sub War icon" width="36"> [Sub War](skills/B01FGDUM30)
 
 *Alexa, open Sub War*
@@ -7260,6 +7316,14 @@ In keeping with the heritage of the Navy this skill will let you know the signif
 
 ***
 
+## &nbsp;<img src="skills/B01G37FVRU/skill_icon" alt="ThreeEyedRaven icon" width="36"> [ThreeEyedRaven](skills/B01G37FVRU)
+
+*Alexa, ask Three Eyed Raven what the words of House Stark are.*
+
+Consult the Three Eyed Raven about the Seven Kingdoms and their history.
+
+***
+
 ## &nbsp;<img src="skills/B01CHMTJSW/skill_icon" alt="Tic Tac Toe icon" width="36"> [Tic Tac Toe](skills/B01CHMTJSW)
 
 *Alexa, ask Tic Tac Toe for a game*
@@ -7457,14 +7521,6 @@ The ToughGuy tells you nerdy Chuck Norris jokes.
 *Alexa, tell tournament trivia to start a new game*
 
 Test your knowledge of the college basketball tournament.
-
-***
-
-## &nbsp;<img src="skills/B01EIQX6Y8/skill_icon" alt="TP-LINK Kasa icon" width="36"> [TP-LINK Kasa](skills/B01EIQX6Y8)
-
-*null*
-
-Kasa is a simple way to manage your home from anywhere.
 
 ***
 
@@ -8045,14 +8101,6 @@ The Vectrex Wiki skill allows you to get information about the original Vectrex 
 
 ***
 
-## &nbsp;<img src="skills/B01FRIJRJY/skill_icon" alt="Venstar icon" width="36"> [Venstar](skills/B01FRIJRJY)
-
-*null*
-
-Monitor and control your Skyport compatible thermostat. Alexa, set my living room to 74 degrees.
-
-***
-
 ## &nbsp;<img src="skills/B01DPVVCLG/skill_icon" alt="Verbivore icon" width="36"> [Verbivore](skills/B01DPVVCLG)
 
 *Alexa, ask Verbivore for the word of the day*
@@ -8277,14 +8325,6 @@ Find the perfect wine for a type of food, or vice versa.
 
 ***
 
-## &nbsp;<img src="skills/B01EIQYF3E/skill_icon" alt="Wink icon" width="36"> [Wink](skills/B01EIQYF3E)
-
-*null*
-
-With Amazon Alexa, Wink smart home users can use simple voice commands to control their Wink-compatible lighting products and Wink-enabled Nest Thermostats.
-
-***
-
 ## &nbsp;<img src="skills/B01BPIG5I6/skill_icon" alt="Women's Underwear icon" width="36"> [Women's Underwear](skills/B01BPIG5I6)
 
 *Alexa, open women's underwear*
@@ -8394,14 +8434,6 @@ Yoga Guru is a skill which will tell you how to do a yoga pose.
 *Alexa, ask Yoga Trainer for the next pose*
 
 Yoga Trainer
-
-***
-
-## &nbsp;<img src="skills/B01E7TYGFO/skill_icon" alt="Yonomi icon" width="36"> [Yonomi](skills/B01E7TYGFO)
-
-*null*
-
-Yonomi connects all of your devices under one roof for free – including Sonos, Logitech Harmony, Hue and more. Control all of your devices with just your voice!
 
 ***
 

@@ -3,9 +3,9 @@
 
 To use the Calendar for Hillbrook School skill, try saying...
 
-* *Alexa, ask Hillbrook bear about today*
+* *Alexa, run Hillbrook bear*
 
-* *Alexa, tell me about Friday with Hillbrook bear*
+* *Alexa, ask Hillbrook bear about Friday*
 
 * *Alexa, ask Hillbrook bear about second grade*
 

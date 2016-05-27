@@ -20,7 +20,7 @@
   "id": "amzn1.echo-sdk-ams.app.6afc0e51-460f-4cb8-97df-3f1eeaddb502",
   "imageAltText": "Chef Sheffey icon",
   "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01E9HYFIC/skill_icon",
-  "inAppPurchasingSupported": true,
+  "inAppPurchasingSupported": false,
   "launchPhrase": "chef sheffey",
   "name": "Chef Sheffey",
   "numberOfReviews": 0,

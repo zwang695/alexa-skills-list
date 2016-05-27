@@ -124,4 +124,4 @@ Say Quit to instantly stop the skill.
 * **Privacy Policy:** https://www.chefsheffey.com/page/privacy-policy
 * **Terms of Use:** https://www.chefsheffey.com/page/terms-of-service
 * **Account Linking Domains:** chefsheffey.com
-* **In-App Purchasing:** Yes
+* **In-App Purchasing:** No
