@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Chef Sheffey icon" width="36"> [Chef Sheffey](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6afc0e51-460f-4cb8-97df-3f1eeaddb502)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Chef Sheffey skill, try saying...
 

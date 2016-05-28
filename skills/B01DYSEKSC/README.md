@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Stock Quote icon" width="36"> [Stock Quote](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.35677929-49af-489d-b7b2-159fa590cb2f)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Stock Quote skill, try saying...
 

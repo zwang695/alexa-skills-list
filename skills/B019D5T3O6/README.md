@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Guitar Tuner icon" width="36"> [Guitar Tuner](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.10955337-0da2-4ae8-b746-8a03abd91fb1)
-![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 8
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the Guitar Tuner skill, try saying...
 
