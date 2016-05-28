@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1078
+**Total Skills Available:** 1080
 
 ***
 
@@ -2171,6 +2171,14 @@ A skill that describes dance moves.
 
 ***
 
+## &nbsp;<img src="skills/B01FZAICPY/skill_icon" alt="DankJoke icon" width="36"> [DankJoke](skills/B01FZAICPY)
+
+*Alexa ask Dank Joke to tell me a dank joke*
+
+Dank Joke will generate a dank joke for you at your leisure.
+
+***
+
 ## &nbsp;<img src="skills/B01FRBTO6M/skill_icon" alt="Date & Zodiac trivia icon" width="36"> [Date & Zodiac trivia](skills/B01FRBTO6M)
 
 *Alexa, Start Zodiac Trivia*
@@ -2875,6 +2883,14 @@ Ever wondered how many award miles you need to travel using miles in certain air
 *Alexa, Ask Flight Search*
 
 IMPROVED VERSION, SEVERAL FIXES. Search DOMESTIC U.S. flights for lowest price. Say "Ask Flight Search". Top 5 flights sent to your Alexa app.
+
+***
+
+## &nbsp;<img src="skills/B01FON5V56/skill_icon" alt="Flipper icon" width="36"> [Flipper](skills/B01FON5V56)
+
+*Alexa Ask Multiple Flip to flip two thousand coins*
+
+Flip Multiple Coins
 
 ***
 
