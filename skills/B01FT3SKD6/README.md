@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="PGA TOUR icon" width="36"> [PGA TOUR](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5b902dbe-ef94-4a47-83be-5b6b1c470fa5)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the PGA TOUR skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Sensi icon" width="36"> [Sensi](http://alexa.amazon.com/#skills/amzn1.ask.skill.e54b56d8-b02b-4e4f-83bc-5333450e3227)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 6
+![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the Sensi skill, try saying...
 
