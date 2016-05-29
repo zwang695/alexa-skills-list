@@ -1849,7 +1849,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01AHGU3M6",
-      "averageRating": 2.3,
+      "averageRating": 2.4,
       "canDisable": true,
       "capabilities": null,
       "category": "Education",
@@ -1869,7 +1869,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "animal sounds",
       "name": "Animal Sounds",
-      "numberOfReviews": 19,
+      "numberOfReviews": 18,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -14009,7 +14009,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01EVTB5PY",
-      "averageRating": 0,
+      "averageRating": 4,
       "canDisable": true,
       "capabilities": null,
       "category": "Education",
@@ -14029,7 +14029,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "golf fact",
       "name": "Golf Facts",
-      "numberOfReviews": 0,
+      "numberOfReviews": 1,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -34262,7 +34262,7 @@
         "d1a3f4spazzrp4.cloudfront.net"
       ],
       "asin": "B01AYJQ9QK",
-      "averageRating": 2.6,
+      "averageRating": 2.5,
       "canDisable": true,
       "capabilities": null,
       "category": "Travel",
@@ -34282,7 +34282,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "uber",
       "name": "Uber",
-      "numberOfReviews": 37,
+      "numberOfReviews": 38,
       "pamsPartnerId": "RKFYaRwbXsZIMeVkCxw33HXWI",
       "permissions": [
         "ACCESS_DEVICE_ADDRESS"
