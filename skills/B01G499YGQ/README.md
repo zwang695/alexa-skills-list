@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Type Master for Pokemon icon" width="36"> [Type Master for Pokemon](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d9e73c0b-2418-4b25-8789-599ab5fa5bfe)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Type Master for Pokemon skill, try saying...
 
