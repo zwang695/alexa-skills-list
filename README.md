@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1080
+**Total Skills Available:** 1083
 
 ***
 
@@ -533,6 +533,14 @@ Arizona Facts: Learn some new facts about the State of Arizona.
 *Alexa, Ask Aromatherapy for a recipe for focus.*
 
 Aromatherapy is a skill that can help you with some common diffuser recipes for use with your essential oils collection.
+
+***
+
+## &nbsp;<img src="skills/B01G7SZPYY/skill_icon" alt="Aromatherapy icon" width="36"> [Aromatherapy](skills/B01G7SZPYY)
+
+*Alexa, Ask aromatherapy for a recipe for focus.*
+
+Aromatherapy is a skill that can help you with some common diffuser recipes for use with your essentials oils collection.
 
 ***
 
@@ -6651,6 +6659,14 @@ Use SmartThings to control your smart home. Switch on lights, change the tempera
 
 ***
 
+## &nbsp;<img src="skills/B01G8IKKA2/skill_icon" alt="Smoothie Recipes icon" width="36"> [Smoothie Recipes](skills/B01G8IKKA2)
+
+*Alexa, start Smoothie Recipes*
+
+This skill will list out ingredients needed for some top smoothie recipes on NutriLiving
+
+***
+
 ## &nbsp;<img src="skills/B01DO6OLW4/skill_icon" alt="SMS With Molly icon" width="36"> [SMS With Molly](skills/B01DO6OLW4)
 
 *Alexa, ask SMS With Molly to text John "I'm back"*
@@ -6951,7 +6967,7 @@ What's going on this weekend? Ask Alexa to find out from StubHub!
 
 *Alexa, open cat jokes*
 
-If you like completely stupid CAT JOKES, than do we have the skill for you! Hear dumb cat joke, one after another. You will be in idiotic cat joke bliss!!!!
+If you like completely stupid CAT JOKES, than do we have the skill for you! Hear dumb cat joke, one after another. Who doesn't love stupid jokes about cats?
 
 ***
 
@@ -7778,6 +7794,14 @@ Trivia Facts
 *Alexa, play Simpsons Trivia*
 
 A simple trivia game featuring questions from the TV show "The Simpsons".
+
+***
+
+## &nbsp;<img src="skills/B01F2JHAW4/skill_icon" alt="Trivia for 30 Rock Fans icon" width="36"> [Trivia for 30 Rock Fans](skills/B01F2JHAW4)
+
+*Alexa, ask thirty Rockefeller trivia for a fact*
+
+This skill will output a random fact about the NBC Universal show 30 Rock created by Tina Fey.
 
 ***
 
