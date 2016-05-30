@@ -5,7 +5,7 @@ To use the 1-2-3 Math skill, try saying...
 
 * *Alexa, Open one two three*
 
-1-2-3 Math, tests your elementary mathematics topics like after, before, between; greater or lesser, more or less, addition, subtraction etc.
+1-2-3 Math, is a math challenge which tests your elementary compute skills, including addition, subtraction, multiplication, division, comparison etc
 
 ***
 

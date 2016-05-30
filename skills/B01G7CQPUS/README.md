@@ -9,9 +9,9 @@ To use the Tech Hunt skill, try saying...
 
 * *Top posts*
 
-Tech Hunt skill will tell you what is trending on Product Hunt today. It makes you aware of the top three posts.
+Tech Hunt can help you know today's top tech products/apps on Product Hunt. Upon invoking, Alexa will tell you the product's name along with a short description of it. 
 
-So what are you waiting for? Just say, "Alexa, ask Tech Hunt for top products" and discover your next favorite thing.
+Say, "Alexa, ask Tech Hunt for top products" and discover your next favorite thing.
 
 ***
 

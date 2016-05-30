@@ -5,11 +5,11 @@ To use the Daily Cutiemals skill, try saying...
 
 * *Alexa, ask Daily Cutiemals to send me a cute cat picture*
 
-* *Alexa, ask Daily Cutiemals to delete my email*
+* *my email is daily cutiemals at drassiner dot com*
 
-* *Help*
+* *my token is a b c d e f*
 
-Daily Cutiemals will send cute animal pictures to your email. You will be asked to register an email so I know where to send the animal pictures to. You will be guided through this step for setting up your email. Once you have set up your email you may use a wide variety of adjectives (instead of cute), and a wide variety of animals (instead of cat). You are also not required to use an adjective and just have it send you an animal picture.
+Daily Cutiemals will send cute animal pictures to your email. You will need to register an email through Alexa, and also verify that you are the actual email owner. Once you have set up your email and been verified you may use a wide variety of adjectives (instead of cute), and a wide variety of animals (instead of cat). You are also not required to use an adjective and just have it send you an animal picture.
 
 ***
 
@@ -21,5 +21,5 @@ Daily Cutiemals will send cute animal pictures to your email. You will be asked 
 * **ASIN:** B01DYQ5BLE
 * **Author:** Drassiner
 * **Release Date:** April 19, 2016 @ 07:32:38
-* **Privacy Policy:** https://github.com/toyhammered/alexa-skills/blob/master/cuteAnimals/PRIVACY_POLICY.md
+* **Privacy Policy:** https://github.com/toyhammered/DailyCutiemals/blob/master/PRIVACY_POLICY.md
 * **In-App Purchasing:** No

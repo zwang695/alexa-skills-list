@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1083
+**Total Skills Available:** 1088
 
 ***
 
@@ -9,7 +9,7 @@ A complete list of all available Alexa Skills
 
 *Alexa, Open one two three*
 
-1-2-3 Math, tests your elementary mathematics topics like after, before, between; greater or lesser, more or less, addition, subtraction etc.
+1-2-3 Math, is a math challenge which tests your elementary compute skills, including addition, subtraction, multiplication, division, comparison etc
 
 ***
 
@@ -1205,6 +1205,14 @@ This skill helps to find movie ratings. It tells you rating on a scale of 10. Wh
 *Alexa, tell brain of things to open the curtains*
 
 Control your Brain of Things enabled home.
+
+***
+
+## &nbsp;<img src="skills/B01FWETQUI/skill_icon" alt="BrickBot icon" width="36"> [BrickBot](skills/B01FWETQUI)
+
+*Alexa, ask brick bot to get available sets in 2015*
+
+Crazy about collecting LEGO® sets? Get the latest updates on available sets, set details, themes, and sub-theme from Brick Bot. Try it out now!
 
 ***
 
@@ -2718,6 +2726,14 @@ Test your Elder Scrolls knowledge with this Alexa Skill application.
 
 ***
 
+## &nbsp;<img src="skills/B01FWYWS1M/skill_icon" alt="Facts For Northeastern icon" width="36"> [Facts For Northeastern](skills/B01FWYWS1M)
+
+*Alexa, ask Husky Nation to tell me a fact*
+
+The Northeastern Fact skill will share interesting fact about Northeastern University located in the heart of Boston, MA.
+
+***
+
 ## &nbsp;<img src="skills/B01E5LR64M/skill_icon" alt="Facts for The White House icon" width="36"> [Facts for The White House](skills/B01E5LR64M)
 
 *Alexa, Ask White house facts to tell me a fact*
@@ -3621,6 +3637,14 @@ This is an app called Teacher Zero Seven. It's a small trivia game that tests yo
 *Alexa, open Hipster Jokes.*
 
 The most hilarious skill you've probably never heard of.
+
+***
+
+## &nbsp;<img src="skills/B01FOR95WC/skill_icon" alt="History icon" width="36"> [History](skills/B01FOR95WC)
+
+*Alexa, ask History Bot what happened today*
+
+Receive history facts for any provided date.
 
 ***
 
@@ -5172,6 +5196,14 @@ National Day Tracker is a comprehensive database of national observances. Discov
 
 ***
 
+## &nbsp;<img src="skills/B01G9RXHJI/skill_icon" alt="Naturalization Test icon" width="36"> [Naturalization Test](skills/B01G9RXHJI)
+
+*Alexa, start naturalization test*
+
+Practice your knowledge of U.S. history and government for the United States Civics Naturalization Interview
+
+***
+
 ## &nbsp;<img src="skills/B01DKTNECI/skill_icon" alt="NBA stats by iknow.io icon" width="36"> [NBA stats by iknow.io](skills/B01DKTNECI)
 
 *Alexa, ask I Know NBA for the Cavs stats in the last 5 games*
@@ -6157,6 +6189,14 @@ This is just random value picker e.g. Alexa, ask Randomizer for any random numbe
 *Alexa, ask The Macro to read an essay*
 
 A skill to read startup essays from YCombinator's The Macro (www.themacro.com)
+
+***
+
+## &nbsp;<img src="skills/B01G84HZKY/skill_icon" alt="Recipe Buddy icon" width="36"> [Recipe Buddy](skills/B01G84HZKY)
+
+*Alexa, ask Recipe Buddy how to make chicken marsala.*
+
+Find recipes and ingredients for thousands of dishes.
 
 ***
 
