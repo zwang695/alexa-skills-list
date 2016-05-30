@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Guide for ARK icon" width="36"> [Guide for ARK](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7c278a2d-dd4b-49af-977e-1d56eabff3e3)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Guide for ARK skill, try saying...
 
