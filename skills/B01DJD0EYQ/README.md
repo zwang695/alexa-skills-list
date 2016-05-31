@@ -19,6 +19,6 @@ Save your commute by learning about Metro delays before you leave the house.  Kn
 * **Category:** Travel
 * **ID:** amzn1.echo-sdk-ams.app.14b27f1c-ca7b-4932-8f62-064c34261a6f
 * **ASIN:** B01DJD0EYQ
-* **Author:** Home
+* **Author:** Nat Burgwyn
 * **Release Date:** March 29, 2016 @ 19:33:46
 * **In-App Purchasing:** No

@@ -758,7 +758,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01B6UGXXK",
-      "averageRating": 3,
+      "averageRating": 2.8,
       "canDisable": true,
       "capabilities": null,
       "category": "Music",
@@ -778,7 +778,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "metronome",
       "name": "Acoustic Metronome",
-      "numberOfReviews": 6,
+      "numberOfReviews": 7,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": "http://ocean-of-storms.com/tsatsatzu/legal/am_privacy.htm",
@@ -1409,7 +1409,7 @@
         "connect.securifi.com"
       ],
       "asin": "B01BLPITFK",
-      "averageRating": 4.3,
+      "averageRating": 3.5,
       "canDisable": true,
       "capabilities": null,
       "category": "Home-Automation",
@@ -1429,7 +1429,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "almond",
       "name": "Almond - Router and Home Automation",
-      "numberOfReviews": 3,
+      "numberOfReviews": 4,
       "pamsPartnerId": "4MvG4iEV44ArPEaWRjAmg5RuE",
       "permissions": null,
       "privacyPolicyUrl": "https://connect.securifi.com/prpo",
@@ -1574,7 +1574,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M3MPWLON96INOW",
-      "vendorName": "SAKET AGARWAL"
+      "vendorName": "Bhokaal Labs"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -4705,7 +4705,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01FRGDQN4",
-      "averageRating": 2.5,
+      "averageRating": 3.3,
       "canDisable": true,
       "capabilities": null,
       "category": "Reference",
@@ -4725,7 +4725,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "candidate bo",
       "name": "Bo's Resume",
-      "numberOfReviews": 2,
+      "numberOfReviews": 3,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -5007,6 +5007,40 @@
       "termsOfUseUrl": null,
       "vendorId": "M2L6LZWRZT0X5H",
       "vendorName": "Fun Loving Skills"
+    },
+    {
+      "accountLinkingWhitelistedDomains": null,
+      "asin": "B01FRO14C6",
+      "averageRating": 0,
+      "canDisable": true,
+      "capabilities": null,
+      "category": "Reference",
+      "description": "Boston Facts is to help everyone learn more about the city of Boston in Massachusetts in the United States. For diehard Bostonians to future visitors, learn more about the great city of Boston! Get started by asking Boston Facts for a Boston fact and you'll get a random fact about the city of Boston. No accounts are needed to get started.",
+      "enablement": null,
+      "exampleInteractions": [
+        "Alexa, ask Boston Facts for a Boston fact",
+        "Alexa, ask boston facts to tell me a boston trivia",
+        "Alexa, ask boston facts to give me some boston information"
+      ],
+      "firstReleaseDate": 1464727111.772,
+      "homepageLinkText": null,
+      "homepageLinkUrl": null,
+      "id": "amzn1.echo-sdk-ams.app.a22864d2-a78a-449e-9887-a3e5fac4d22a",
+      "imageAltText": "Boston Facts icon",
+      "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01FRO14C6/skill_icon",
+      "inAppPurchasingSupported": false,
+      "launchPhrase": "boston facts",
+      "name": "Boston Facts",
+      "numberOfReviews": 0,
+      "pamsPartnerId": null,
+      "permissions": null,
+      "privacyPolicyUrl": null,
+      "shortDescription": "Boston Facts will tell you wondrous, glorious facts about the City of Boston! Use \"Alexa, ask Boston Facts for a Boston Fact\".",
+      "skillTypes": null,
+      "stage": "live",
+      "termsOfUseUrl": null,
+      "vendorId": "MC4V6DU16BAH4",
+      "vendorName": "Michael Bonnell"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -5966,7 +6000,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01DX5N37U",
-      "averageRating": 0,
+      "averageRating": 5,
       "canDisable": true,
       "capabilities": null,
       "category": "Health-and-Fitness",
@@ -5986,7 +6020,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "carley",
       "name": "Carly",
-      "numberOfReviews": 0,
+      "numberOfReviews": 1,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": "http://www.logisome.com/terms-of-use",
@@ -8041,7 +8075,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "MPJNWN7XLCQCP",
-      "vendorName": "Ian Suttle"
+      "vendorName": "Haxio"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -10220,7 +10254,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M3JUEB6VX6HB6J",
-      "vendorName": "kcrowe"
+      "vendorName": "Kevin Crowe"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -15131,7 +15165,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M2YSY2V8FIOD0C",
-      "vendorName": "Thomp"
+      "vendorName": "Thomptronics"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -15920,7 +15954,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01FZW2OH4",
-      "averageRating": 1,
+      "averageRating": 2.5,
       "canDisable": true,
       "capabilities": null,
       "category": "Entertainment",
@@ -15940,7 +15974,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "my hourglass",
       "name": "Hourglass",
-      "numberOfReviews": 1,
+      "numberOfReviews": 2,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -17047,7 +17081,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01DN3K9KQ",
-      "averageRating": 3,
+      "averageRating": 2.7,
       "canDisable": true,
       "capabilities": null,
       "category": "Games",
@@ -17067,7 +17101,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "issac",
       "name": "Issac for The Division",
-      "numberOfReviews": 2,
+      "numberOfReviews": 3,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": "http://apps.kissell.net/privacy-policy.html",
@@ -20145,7 +20179,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M3KVGQGWQR9E65",
-      "vendorName": "Home"
+      "vendorName": "Nat Burgwyn"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -27486,7 +27520,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01DF3DT8I",
-      "averageRating": 3,
+      "averageRating": 4,
       "canDisable": true,
       "capabilities": null,
       "category": "Education",
@@ -27506,7 +27540,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "s. l. p. review",
       "name": "S.L.P. Praxis Review",
-      "numberOfReviews": 2,
+      "numberOfReviews": 3,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -28857,7 +28891,7 @@
     {
       "accountLinkingWhitelistedDomains": [],
       "asin": "B01DO6OLW4",
-      "averageRating": 2.6,
+      "averageRating": 2.4,
       "canDisable": true,
       "capabilities": null,
       "category": "Communications",
@@ -28877,7 +28911,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "s. m. s. with molly",
       "name": "SMS With Molly",
-      "numberOfReviews": 12,
+      "numberOfReviews": 13,
       "pamsPartnerId": "F2xadcLdm4dtfGfjQjl6NuJ5v",
       "permissions": null,
       "privacyPolicyUrl": "https://smswithmolly.com/privacy",
@@ -29464,7 +29498,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M2XGOZ7WO0MD3W",
-      "vendorName": "Rain Integration"
+      "vendorName": "Rai Integration Ltd"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -30169,7 +30203,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "cat jokes",
       "name": "Stupid Cat Jokes",
-      "numberOfReviews": 1,
+      "numberOfReviews": 3,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -31189,7 +31223,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "the dishwasher",
       "name": "The Dishwasher",
-      "numberOfReviews": 1,
+      "numberOfReviews": 3,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -31203,7 +31237,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01AKT2H5G",
-      "averageRating": 3.6,
+      "averageRating": 3.7,
       "canDisable": true,
       "capabilities": null,
       "category": "Lifestyle",
@@ -31223,7 +31257,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "the dog",
       "name": "The Dog Feeder",
-      "numberOfReviews": 15,
+      "numberOfReviews": 16,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -32093,7 +32127,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01EDTE3G0",
-      "averageRating": 1,
+      "averageRating": 2.5,
       "canDisable": true,
       "capabilities": null,
       "category": "Productivity",
@@ -32113,7 +32147,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "synonym finder",
       "name": "Thesaurus Rex",
-      "numberOfReviews": 1,
+      "numberOfReviews": 2,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -34828,7 +34862,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M2F6SIAYO8PHC1",
-      "vendorName": "洪织雨"
+      "vendorName": "Zhiyu Hong"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -35729,7 +35763,7 @@
         "skyport.io"
       ],
       "asin": "B01FRIJRJY",
-      "averageRating": 5,
+      "averageRating": 4.2,
       "canDisable": false,
       "capabilities": null,
       "category": "CONNECTED_HOME",
@@ -35749,7 +35783,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": null,
       "name": "Venstar",
-      "numberOfReviews": 4,
+      "numberOfReviews": 5,
       "pamsPartnerId": "M648e7m7myeJOiUpNVQds2jU1",
       "permissions": null,
       "privacyPolicyUrl": "https://venstar.skyportcloud.com/page/terms",
@@ -36408,7 +36442,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "MOXRUG7RZOMYH",
-      "vendorName": "JGDev"
+      "vendorName": "JGDev!"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -37199,7 +37233,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01FNEWM8K",
-      "averageRating": 0,
+      "averageRating": 5,
       "canDisable": true,
       "capabilities": null,
       "category": "Health-and-Fitness",
@@ -37219,7 +37253,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "yoga trainer",
       "name": "yoga trainer",
-      "numberOfReviews": 0,
+      "numberOfReviews": 1,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": "http://www.logisome.com/yoga-tos",
@@ -37370,7 +37404,7 @@
       "stage": "live",
       "termsOfUseUrl": "http://echo.ttinet.com/ydf_tandc.html",
       "vendorId": "M2846UFLSHBP2N",
-      "vendorName": "SafetyFirst Inc"
+      "vendorName": "Touch Technologies, Inc"
     },
     {
       "accountLinkingWhitelistedDomains": null,

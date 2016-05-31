@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1100
+**Total Skills Available:** 1101
 
 ***
 
@@ -1181,6 +1181,14 @@ A Toy Science Fiction Trivia Quiz.
 *Alexa, launch Booze Trivia*
 
 Fun trivia about alcohol to impress your friends
+
+***
+
+## &nbsp;<img src="skills/B01FRO14C6/skill_icon" alt="Boston Facts icon" width="36"> [Boston Facts](skills/B01FRO14C6)
+
+*Alexa, ask Boston Facts for a Boston fact*
+
+Boston Facts will tell you wondrous, glorious facts about the City of Boston! Use "Alexa, ask Boston Facts for a Boston Fact".
 
 ***
 

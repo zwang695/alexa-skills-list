@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01DO6OLW4",
-  "averageRating": 2.6,
+  "averageRating": 2.4,
   "canDisable": true,
   "capabilities": null,
   "category": "Communications",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "s. m. s. with molly",
   "name": "SMS With Molly",
-  "numberOfReviews": 12,
+  "numberOfReviews": 13,
   "pamsPartnerId": "F2xadcLdm4dtfGfjQjl6NuJ5v",
   "permissions": null,
   "privacyPolicyUrl": "https://smswithmolly.com/privacy",

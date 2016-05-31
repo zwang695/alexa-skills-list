@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01B6UGXXK",
-  "averageRating": 3,
+  "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
   "category": "Music",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "metronome",
   "name": "Acoustic Metronome",
-  "numberOfReviews": 6,
+  "numberOfReviews": 7,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://ocean-of-storms.com/tsatsatzu/legal/am_privacy.htm",

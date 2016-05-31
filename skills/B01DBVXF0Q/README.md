@@ -21,6 +21,6 @@ This skill is for fun and informal education purposes only, always verify what y
 * **Category:** Entertainment
 * **ID:** amzn1.echo-sdk-ams.app.2939ff81-102b-4be7-8c98-73681856663b
 * **ASIN:** B01DBVXF0Q
-* **Author:** kcrowe
+* **Author:** Kevin Crowe
 * **Release Date:** March 23, 2016 @ 05:48:11
 * **In-App Purchasing:** No

@@ -20,6 +20,6 @@ New in 1.1 - Now you can ask about your next departure for any from and to netwo
 * **Category:** Social
 * **ID:** amzn1.echo-sdk-ams.app.24aac441-d9c7-41a9-bbe8-31d2b327d863
 * **ASIN:** B01CZYUPCQ
-* **Author:** Rain Integration
+* **Author:** Rai Integration Ltd
 * **Release Date:** March 15, 2016 @ 06:42:09
 * **In-App Purchasing:** No

@@ -23,6 +23,6 @@ Though it might not win any singing contest, it's infectiously clever fun.
 * **Category:** Entertainment
 * **ID:** amzn1.echo-sdk-ams.app.32e8aa28-7591-4ad2-8f2b-83dd673464c5
 * **ASIN:** B01BH31OZI
-* **Author:** Thomp
+* **Author:** Thomptronics
 * **Release Date:** February 4, 2016 @ 12:36:31
 * **In-App Purchasing:** No
