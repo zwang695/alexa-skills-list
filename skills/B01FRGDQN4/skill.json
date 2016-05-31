@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FRGDQN4",
-  "averageRating": 4,
+  "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
   "category": "Reference",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "candidate bo",
   "name": "Bo's Resume",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

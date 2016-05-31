@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1094
+**Total Skills Available:** 1100
 
 ***
 
@@ -1104,6 +1104,14 @@ Make your voice a simple and powerful universal remote control.  Change channels
 
 ***
 
+## &nbsp;<img src="skills/B01EYVRFJY/skill_icon" alt="Bluplayer icon" width="36"> [Bluplayer](skills/B01EYVRFJY)
+
+*Alexa, ask blue player to skip this song*
+
+The skill allows you control your Bluesound HiFi system with your voice.
+
+***
+
 ## &nbsp;<img src="skills/B01FRGDQN4/skill_icon" alt="Bo's Resume icon" width="36"> [Bo's Resume](skills/B01FRGDQN4)
 
 *Alexa launch candidate Bo*
@@ -2008,6 +2016,14 @@ Crater of the Moon is a trivia game based on facts about the Crater of the Moon 
 *Alexa, ask creative strategies for an idea*
 
 Retrieves a phrase or cryptic remark which can be used as a catalyst to generate ideas,  to solve a creative block, or to approach an issue fr
+
+***
+
+## &nbsp;<img src="skills/B01GAOD718/skill_icon" alt="creditcard cashback icon" width="36"> [creditcard cashback](skills/B01GAOD718)
+
+*Alexa, open cash back.*
+
+Cashback for Credit Cards
 
 ***
 
@@ -2939,6 +2955,14 @@ This app will ask 18  questions from DSM-IV-TR criteria symptom checklist.
 *Alexa, open Focus Word.*
 
 Focus Word provides an inspirational word and statement about the word to serve as a point of focus for meditation or for the day.
+
+***
+
+## &nbsp;<img src="skills/B01G788GNG/skill_icon" alt="Food Bot icon" width="36"> [Food Bot](skills/B01G788GNG)
+
+*Alexa ask food bot what is the protein content of peanut butter*
+
+Food bot gives you the nutrient value of many common food items. Information is provided by the USDA Nutritional Database.
 
 ***
 
@@ -4835,6 +4859,14 @@ Money Converter
 
 ***
 
+## &nbsp;<img src="skills/B01GBD1AUI/skill_icon" alt="Moon Age icon" width="36"> [Moon Age](skills/B01GBD1AUI)
+
+*Alexa, Ask Moon Age*
+
+You can ask moon age.
+
+***
+
 ## &nbsp;<img src="skills/B01FGYHZTS/skill_icon" alt="Mormon Facts icon" width="36"> [Mormon Facts](skills/B01FGYHZTS)
 
 *Alexa, Open Mormon Facts*
@@ -4896,6 +4928,14 @@ Test your movie knowledge with this fun quiz.
 *Alexa, start Movie Quotes*
 
 Match the famous movie quote with the movie it came from.
+
+***
+
+## &nbsp;<img src="skills/B01GAJ2S0E/skill_icon" alt="Movie Score icon" width="36"> [Movie Score](skills/B01GAJ2S0E)
+
+*Alexa, open Movie Score*
+
+Tomatometer, Metascore, and IMDB ratings for current movies and DVDs.
 
 ***
 
@@ -5410,6 +5450,14 @@ A service to tell you interesting facts about numbers.
 *Alexa ask number trivia 31*
 
 Number trivia tells you interesting trivia about numbers.
+
+***
+
+## &nbsp;<img src="skills/B01FZV978Y/skill_icon" alt="NYC Eats icon" width="36"> [NYC Eats](skills/B01FZV978Y)
+
+*Alexa, ask N. Y. C. Eats for a suggestion*
+
+Not sure where to eat in NYC? This skill has all the best curated answers. Just ask NYC eats for a suggestion.
 
 ***
 
