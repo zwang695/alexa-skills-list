@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1088
+**Total Skills Available:** 1094
 
 ***
 
@@ -3504,6 +3504,14 @@ Control your Haiku fans and lights
 
 ***
 
+## &nbsp;<img src="skills/B01GC18MRI/skill_icon" alt="Hampshire geek icon" width="36"> [Hampshire geek](skills/B01GC18MRI)
+
+*Alexa, open Hampshire geek*
+
+Interesting facts about Hampshire in the UK
+
+***
+
 ## &nbsp;<img src="skills/B01ED658W6/skill_icon" alt="Hangman icon" width="36"> [Hangman](skills/B01ED658W6)
 
 *Alexa, Open Hangman*
@@ -4346,6 +4354,14 @@ Rock Paper Scissors Lizard Spock
 
 ***
 
+## &nbsp;<img src="skills/B01GBSWHG4/skill_icon" alt="Llama Facts icon" width="36"> [Llama Facts](skills/B01GBSWHG4)
+
+*Alexa, ask Llama Facts to tell me a llama fact*
+
+Gives a random llama fact.
+
+***
+
 ## &nbsp;<img src="skills/B01FC41JRQ/skill_icon" alt="Lobste.rs Headlines icon" width="36"> [Lobste.rs Headlines](skills/B01FC41JRQ)
 
 *Alexa, ask Lobsters for the top headlines.*
@@ -5161,6 +5177,14 @@ MyThoughts brings positive affirmations to your life.  MyThoughts will say a pos
 *Alexa, ask N. Y. C. Status if alternate side is in effect.*
 
 NYC Status give info about parking rules, school closings and garbage collection in New York City. Example: 'Alexa, ask NYC Status about parking tomorrow.'
+
+***
+
+## &nbsp;<img src="skills/B01EW3KUXC/skill_icon" alt="Name My Grandkids icon" width="36"> [Name My Grandkids](skills/B01EW3KUXC)
+
+*Alexa, let's play grandchildren*
+
+Alexa quizzes the player on the names of the player's grandchildren.
 
 ***
 
@@ -6640,6 +6664,14 @@ Take charge of your Simple Control automated home using nothing more than your v
 
 ***
 
+## &nbsp;<img src="skills/B01G0ZFMYW/skill_icon" alt="Simple Fibonacci icon" width="36"> [Simple Fibonacci](skills/B01G0ZFMYW)
+
+*Alexa, ask fibonacci numbers within 10*
+
+get fibonacci numbers starting from 1 up to number specified
+
+***
+
 ## &nbsp;<img src="skills/B01FA2TV66/skill_icon" alt="simplehuman sensor mirror pro icon" width="36"> [simplehuman sensor mirror pro](skills/B01FA2TV66)
 
 *Alexa, ask sensor mirror to brighten*
@@ -6896,6 +6928,14 @@ The Echo's first and best MMORPG. Join a faction and compete with other players 
 *Alexa, ask Startup Info about Slack*
 
 Find information about companies and startups
+
+***
+
+## &nbsp;<img src="skills/B01GDCG9B2/skill_icon" alt="State Birds Trivia icon" width="36"> [State Birds Trivia](skills/B01GDCG9B2)
+
+*Alexa launch state birds trivia*
+
+State Birds trivia game
 
 ***
 
@@ -8066,6 +8106,14 @@ TV Shows provides the time and network for the next episode of any TV show. Epis
 *Alexa, open Tweet Poll*
 
 Tweet Poll lets you put your finger on the pulse of the nation, as measured by tweets. Construct your own polls and find out the information you want.
+
+***
+
+## &nbsp;<img src="skills/B01F4VVKIA/skill_icon" alt="Tweets From The Donald icon" width="36"> [Tweets From The Donald](skills/B01F4VVKIA)
+
+*Alexa, open Mister Trump.*
+
+Donald Trump's latest and best tweets as read by Alexa.
 
 ***
 
