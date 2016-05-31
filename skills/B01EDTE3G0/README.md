@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Thesaurus Rex icon" width="36"> [Thesaurus Rex](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.21945954-2a91-4f28-8090-60df94f62be4)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Thesaurus Rex skill, try saying...
 
