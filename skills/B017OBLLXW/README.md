@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Teacher for Alexa icon" width="36"> [Teacher for Alexa](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a6c137e7-ef09-4a5d-a8b6-131d428bc0d8)
-![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Teacher for Alexa skill, try saying...
 

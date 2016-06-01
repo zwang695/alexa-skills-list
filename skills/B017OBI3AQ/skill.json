@@ -5,7 +5,7 @@
     "garageio.com"
   ],
   "asin": "B017OBI3AQ",
-  "averageRating": 3.5,
+  "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Home-Automation",
@@ -25,7 +25,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "garageio",
   "name": "Garageio",
-  "numberOfReviews": 8,
+  "numberOfReviews": 9,
   "pamsPartnerId": "qTMZ4b8nmNvBwxJLKQHIhPa7K",
   "permissions": null,
   "privacyPolicyUrl": "https://garageio.com/privacy",
