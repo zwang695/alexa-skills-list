@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1106
+**Total Skills Available:** 1115
 
 ***
 
@@ -936,6 +936,14 @@ Fun and quick facts about Bernie Sanders
 
 ***
 
+## &nbsp;<img src="skills/B01GCA3IZU/skill_icon" alt="Best Friend icon" width="36"> [Best Friend](skills/B01GCA3IZU)
+
+*Alexa ask Best Friend to tell me a fact.*
+
+Best Friend - Reasons Not to Underage Drink
+
+***
+
 ## &nbsp;<img src="skills/B01DP4OH2E/skill_icon" alt="Best Movies icon" width="36"> [Best Movies](skills/B01DP4OH2E)
 
 *Alexa, ask best movies to search movies in nineteen eighty five*
@@ -989,6 +997,14 @@ Bible Trivia
 *Alexa, open Bible Verse*
 
 Get a random bible verse
+
+***
+
+## &nbsp;<img src="skills/B01G9UJYFQ/skill_icon" alt="Bible Verse icon" width="36"> [Bible Verse](skills/B01G9UJYFQ)
+
+*Alexa, start bible verse*
+
+Recite a bible verse
 
 ***
 
@@ -2307,6 +2323,14 @@ Randomly generates a phrase out of a couple words so you can practice impromptu 
 
 ***
 
+## &nbsp;<img src="skills/B01G4ABITQ/skill_icon" alt="Debby Onsite icon" width="36"> [Debby Onsite](skills/B01G4ABITQ)
+
+*Alexa, tell Debby onsite to say hello to Frank.*
+
+Debby Onsite helps you remember where things were placed. You can start by telling Debby Onsite where something is and later ask for a reminder.
+
+***
+
 ## &nbsp;<img src="skills/B01DTWAPPA/skill_icon" alt="Deck of Cards icon" width="36"> [Deck of Cards](skills/B01DTWAPPA)
 
 *Alexa, open deck of cards.*
@@ -3051,6 +3075,14 @@ Get the scoop on what crimes NFL players have been charged with and arrested for
 *Alexa, open Football Trivia*
 
 Trivia game asking questions that pertain to professional American Football.
+
+***
+
+## &nbsp;<img src="skills/B01GDU6K36/skill_icon" alt="Football Winning Trivia icon" width="36"> [Football Winning Trivia](skills/B01GDU6K36)
+
+*Alexa Ask Football Winning Trivia*
+
+Test your football knowledge!
 
 ***
 
@@ -4539,6 +4571,14 @@ Alexa, ask manorama for the latest news
 
 ***
 
+## &nbsp;<img src="skills/B01G2UYBN8/skill_icon" alt="Malayalam Jokes icon" width="36"> [Malayalam Jokes](skills/B01G2UYBN8)
+
+*Alexa, play malayalam jokes*
+
+Random Malayalam (Indian Regional Language) movie jokes
+
+***
+
 ## &nbsp;<img src="skills/B01EI88ULK/skill_icon" alt="Manly Quotes icon" width="36"> [Manly Quotes](skills/B01EI88ULK)
 
 *Alexa, ask Manly Quotes for a quote.*
@@ -5670,6 +5710,14 @@ Based on the Standard Days Method by Georgetown University.
 
 ***
 
+## &nbsp;<img src="skills/B01GBVSCA6/skill_icon" alt="Periodic Table Games icon" width="36"> [Periodic Table Games](skills/B01GBVSCA6)
+
+*Alexa, launch Periodic Table Games*
+
+Periodic Table Games is a fun skill to help students master basic trivia about periodic tables.
+
+***
+
 ## &nbsp;<img src="skills/B01EIPQP56/skill_icon" alt="Persian History Quiz icon" width="36"> [Persian History Quiz](skills/B01EIPQP56)
 
 *Alexa, ask Persian History*
@@ -6560,6 +6608,14 @@ Command by voice all your devices connected on Samsung ARTIK Cloud!
 
 ***
 
+## &nbsp;<img src="skills/B01GEW3J5A/skill_icon" alt="San Francisco Facts icon" width="36"> [San Francisco Facts](skills/B01GEW3J5A)
+
+*Alexa, ask San Francisco to tell me something.*
+
+San Francisco Facts: Things You Didn't Know About San Francisco
+
+***
+
 ## &nbsp;<img src="skills/B019HUS30M/skill_icon" alt="Santa's Helper icon" width="36"> [Santa's Helper](skills/B019HUS30M)
 
 *Alexa, ask Santa where is he?*
@@ -6856,6 +6912,14 @@ Snowday provides information on closures/delays for various government offices, 
 *Alexa, Launch Soccer Facts*
 
 Some interesting facts about the most popular sport in the world.
+
+***
+
+## &nbsp;<img src="skills/B01GDUUB0E/skill_icon" alt="Sorg Opera House Trivia icon" width="36"> [Sorg Opera House Trivia](skills/B01GDUUB0E)
+
+*Alexa, Start Sorg Opera House Trivia*
+
+Middletown, Ohio's Sorg Opera House and History Trivia
 
 ***
 
@@ -7433,6 +7497,14 @@ Ask Alexa for a strange law!
 *"Alexa, tell The Listeners that I am filled with happiness."*
 
 The Listeners is a poetic performance offering a simple interaction with Alexa: speaking for the Listeners and trying to understand something of our feelings.
+
+***
+
+## &nbsp;<img src="skills/B01GCORQLS/skill_icon" alt="The Lord's Prayer icon" width="36"> [The Lord's Prayer](skills/B01GCORQLS)
+
+*Alexa start The Lord's Prayer*
+
+Recite The Lord's Prayer along with Alexa
 
 ***
 
