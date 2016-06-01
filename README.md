@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1100
+**Total Skills Available:** 1106
 
 ***
 
@@ -509,6 +509,14 @@ Get a round of applause in any situation with the Alexa Applause Skill.
 *Alexa, use APRS and locate kilo victor six mike dash seven*
 
 Locate APRS stations
+
+***
+
+## &nbsp;<img src="skills/B01G1D4JKG/skill_icon" alt="Arabic Phrases icon" width="36"> [Arabic Phrases](skills/B01G1D4JKG)
+
+*Alexa, ask Arabic Phrases to translate "Hello"*
+
+Practice common Arabic phrases.
 
 ***
 
@@ -1369,6 +1377,14 @@ A quote-identifying trivia game starring the current and past candidates for the
 
 ***
 
+## &nbsp;<img src="skills/B01GDE1FZK/skill_icon" alt="Capital City Games icon" width="36"> [Capital City Games](skills/B01GDE1FZK)
+
+*Alexa, open capital city games*
+
+Capital City Games is a game that will help you remember capital cities of the world.
+
+***
+
 ## &nbsp;<img src="skills/B01CTJ1XY6/skill_icon" alt="Capital One icon" width="36"> [Capital One](skills/B01CTJ1XY6)
 
 *Alexa, Open Capital One*
@@ -1566,6 +1582,14 @@ Chef Sheffey helps you find and try one of 350,000 recipes.
 *Alexa, ask the chemistry genie to start game*
 
 Chemistry Genie helps students to revise their knowledge of the elements in the periodic table.
+
+***
+
+## &nbsp;<img src="skills/B01FTO7YIM/skill_icon" alt="Chemistry Professor icon" width="36"> [Chemistry Professor](skills/B01FTO7YIM)
+
+*Alexa, ask Chemistry Professor what Na is*
+
+Quickly get information about elements on the periodic table. Can't remember which element Na is? Just ask the Chemistry Professor.
 
 ***
 
@@ -3728,6 +3752,14 @@ This app allows HomeSeer home automation system users to control and monitor sta
 
 ***
 
+## &nbsp;<img src="skills/B01G1AJ5JE/skill_icon" alt="Hopstand icon" width="36"> [Hopstand](skills/B01G1AJ5JE)
+
+*Alexa, ask hop stand to convert 14 point 6 brix*
+
+Homebrewer's Refractometer Calculator
+
+***
+
 ## &nbsp;<img src="skills/B01EF8S6L2/skill_icon" alt="Horror Movie Taglines icon" width="36"> [Horror Movie Taglines](skills/B01EF8S6L2)
 
 *Alexa, start Horror Movie Taglines*
@@ -4487,6 +4519,14 @@ A fun Magic Eight Ball prediction skill.
 *Alexa, ask Magic Mirror on the wall, who is the fairest one of all?*
 
 Wake up every morning and find out who the fairest one in all the land is! Simple say, "Alexa, ask Magic Mirror on the wall, who is the fairest one of all?"
+
+***
+
+## &nbsp;<img src="skills/B01F1A1CUA/skill_icon" alt="Make me an Omelette icon" width="36"> [Make me an Omelette](skills/B01F1A1CUA)
+
+*Alexa, open omelette game*
+
+A short speechaventure game.
 
 ***
 
@@ -6389,6 +6429,14 @@ Richard's One Piece Trivia
 *Alexa, launch Richmond Game*
 
 A fun trivia game focused Richmond, Virginia in the US.
+
+***
+
+## &nbsp;<img src="skills/B01GAJQKF8/skill_icon" alt="Richmond Virginia Facts icon" width="36"> [Richmond Virginia Facts](skills/B01GAJQKF8)
+
+*Alexa, ask RVA Facts for a fact about Richmond*
+
+Facts about the City of Richmond, Virginia
 
 ***
 
