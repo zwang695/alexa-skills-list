@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Metro North Track icon" width="36"> [Metro North Track](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.962346b4-ee55-4739-bb3d-cb75644ba144)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Metro North Track skill, try saying...
 

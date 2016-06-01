@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1101
+**Total Skills Available:** 1100
 
 ***
 
@@ -6301,14 +6301,6 @@ Get predicted bus arrivals at bus stops on the CATS transit system in Baton Roug
 *Alexa, launch Redbird Games*
 
 A St. Louis Cardinals Baseball trivia game.
-
-***
-
-## &nbsp;<img src="skills/B01BIKSNMW/skill_icon" alt="Reflect Connect icon" width="36"> [Reflect Connect](skills/B01BIKSNMW)
-
-*Alexa, talk to Reflect*
-
-Reflect Connect gives you voice control of your Nest Learning Thermostat through your Amazon Echo!!
 
 ***
 
