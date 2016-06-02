@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1124
+**Total Skills Available:** 1125
 
 ***
 
@@ -6749,6 +6749,14 @@ Scryb makes it easy for anyone to send a text message hands-free from home, or w
 *Alexa, ask Space Geek for a scuba fact*
 
 SCUBA trivia list based on the Space Geek Fact Skill
+
+***
+
+## &nbsp;<img src="skills/B01G06P4VM/skill_icon" alt="Seattle Bike Share icon" width="36"> [Seattle Bike Share](skills/B01G06P4VM)
+
+*Alexa, ask Seattle Bike Share to tell me how many bikes are left at station UW-10.*
+
+Get real time information for Pronto Cycle Share stations in Seattle.
 
 ***
 
