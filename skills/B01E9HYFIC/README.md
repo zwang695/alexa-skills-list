@@ -9,14 +9,15 @@ To use the Chef Sheffey skill, try saying...
 
 * *What's my current recipe?*
 
-Find and try over 350,000 recipes by talking to the Chef Sheffey skill and browsing the Chef Sheffey companion app. Powered by BigOven.com.
+Find and try over 350,000 recipes by talking to the Chef Sheffey skill and browsing the Chef Sheffey companion app, https://www.ChefSheffey.com.
+
+Reading the Chef Sheffey voice commands below is the most important task for using this skill successfully.
 
 LINK APP (Required)
 
-New Account: Click the Enable Skill button. You will be connected to https://www.ChefSheffey.com.
-Create a new free Chef Sheffey app account. Subscription to the Pantry service is NOT required to use the app for this skill.
+New Account: Click the Enable Skill button. You will be connected to https://www.ChefSheffey.com. Create a new free Chef Sheffey app account. Subscription to the Pantry service is NOT required to use the app for this skill.
 
-Current Account : To link an existing Chef Sheffey app account, first logout of the app, then from the Alexa app, click Enable Skill button or "Sign into your account" link. Logging into the app with an existing account will link the app to the skill.
+Current Account : To link an existing Chef Sheffey app account, first logout of the Chef Sheffey app, then from the Alexa app, click Enable Skill button or "Sign into your account" link. Logging into the app with an existing account will link the app to the skill.
 
 OVERVIEW
 
@@ -110,6 +111,19 @@ Say Quit to instantly stop the skill.
 - Leave.
 - Good bye.
 - Bye.
+
+
+--------------------------------------
+DEVELOPER RESPONSES
+ 
+Customer reviews will be copied here with a developer response:
+https://www.chefsheffey.com/page/chef-sheffey-feedback
+
+Contact the developer here:
+https://www.chefsheffey.com/page/contact-us
+
+Get daily updates on the App Announcement page:
+https://www.chefsheffey.com/page/chef-sheffey-announcements
 
 ***
 

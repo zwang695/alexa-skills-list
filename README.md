@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1115
+**Total Skills Available:** 1124
 
 ***
 
@@ -1096,6 +1096,14 @@ Ever wanted to check the Bitcoin exchange rate on your Amazon Echo? Now you can!
 
 ***
 
+## &nbsp;<img src="skills/B01FTQV0M6/skill_icon" alt="Bitcoin Price Finder icon" width="36"> [Bitcoin Price Finder](skills/B01FTQV0M6)
+
+*Alexa, ask Bitcoin Price what is the price of a bitcoin*
+
+BTC Price Finder
+
+***
+
 ## &nbsp;<img src="skills/B017O9O8OS/skill_icon" alt="Bitcoin Rate icon" width="36"> [Bitcoin Rate](skills/B017O9O8OS)
 
 *Alexa, open Bitcoin Rate*
@@ -1729,6 +1737,14 @@ Citizen Pass is a game that helps US residents to prepare for the citizenship ex
 
 ***
 
+## &nbsp;<img src="skills/B01GDT2P0O/skill_icon" alt="Citizenship Game icon" width="36"> [Citizenship Game](skills/B01GDT2P0O)
+
+*Alexa, open citizenship game*
+
+Need to study for the Citizenship test? Let Alexa help you. She will ask you 10 questions directly from the U.S. Immigration and Neutralization civic test. The
+
+***
+
 ## &nbsp;<img src="skills/B01EKQ2G7O/skill_icon" alt="City Trivia icon" width="36"> [City Trivia](skills/B01EKQ2G7O)
 
 *Alexa, play City Trivia*
@@ -1795,7 +1811,7 @@ Puzzle game based on Mastermind.
 
 ## &nbsp;<img src="skills/B01FY6MQDI/skill_icon" alt="Coffee Local icon" width="36"> [Coffee Local](skills/B01FY6MQDI)
 
-*Alexa, ask coffee local what is the list of best midwest coffee shops*
+*Alexa, ask coffee local what is the list of all coffee shops*
 
 Coffee Local is a guide to the 50 best coffee shops in America;
 
@@ -2232,6 +2248,22 @@ Daily Cutiemals will send cute animal pictures to your email!
 *Alexa, Open Journal Prompt.*
 
 Daily Journal Prompt will provide you daily writing ideas to help you find unique things to journal about and help you maintain a daily practice of writing.
+
+***
+
+## &nbsp;<img src="skills/B01GCVJSR6/skill_icon" alt="Daily Meditations icon" width="36"> [Daily Meditations](skills/B01GCVJSR6)
+
+*Alexa launch Daily Meditations*
+
+Random quotes from Marcus Aurelius' Meditations.
+
+***
+
+## &nbsp;<img src="skills/B01F4J0C9K/skill_icon" alt="Daily Pledge icon" width="36"> [Daily Pledge](skills/B01F4J0C9K)
+
+*Alexa, ask daily pledge what's my daily pledge?*
+
+Take a daily pledge to better health. Every day get tips and a clear goal for improving your health
 
 ***
 
@@ -3240,6 +3272,14 @@ Funny Quoter is here to make you smile with dozens of funny quotes. Just ask Ale
 
 ***
 
+## &nbsp;<img src="skills/B01GDFY7RW/skill_icon" alt="Funny Quotes icon" width="36"> [Funny Quotes](skills/B01GDFY7RW)
+
+*Alexa, ask funny quotes to tell me a funny quote.*
+
+Funny Quotes
+
+***
+
 ## &nbsp;<img src="skills/B019JLD4MG/skill_icon" alt="Game Dice icon" width="36"> [Game Dice](skills/B019JLD4MG)
 
 *Alexa, ask Game Dice to roll three ten siders*
@@ -3637,6 +3677,14 @@ Do you know some of the ingredients to a Happy Marriage?  See if Alexa can help!
 *Alexa open, Haunted House*
 
 Haunted House provides a random scary sound to fill any moment with suspense.
+
+***
+
+## &nbsp;<img src="skills/B01FVMIY2C/skill_icon" alt="Have I been pwned? for Alexa icon" width="36"> [Have I been pwned? for Alexa](skills/B01FVMIY2C)
+
+*Alexa, open have I been poned.*
+
+Check if you have an account that has been compromised in a data breach via the Have I been pwned? API.
 
 ***
 
@@ -8005,6 +8053,14 @@ Find local karaoke in the Tricities Washington.
 
 ***
 
+## &nbsp;<img src="skills/B01GDSJ4L8/skill_icon" alt="Trigonometric Identities icon" width="36"> [Trigonometric Identities](skills/B01GDSJ4L8)
+
+*Alexa, tell Trig Identities to tell me an identity*
+
+Get a random trig identity
+
+***
+
 ## &nbsp;<img src="skills/B01C9JJ64U/skill_icon" alt="Trivia About Old School icon" width="36"> [Trivia About Old School](skills/B01C9JJ64U)
 
 *Alexa, Launch Old School Trivia*
@@ -8346,6 +8402,14 @@ Official Uber skill for Amazon Alexa.
 *Alexa, tell portal to give me some tips*
 
 Ubi Portal Voice Prototyping Tool allows for very quickly showcasing interaction between an Amazon Echo or AVS enabled device and a service.
+
+***
+
+## &nbsp;<img src="skills/B01GC3OSS8/skill_icon" alt="UK games icon" width="36"> [UK games](skills/B01GC3OSS8)
+
+*Alexa, open uk games*
+
+UK games is a trivia game on the United Kingdom
 
 ***
 
@@ -8755,6 +8819,14 @@ Find the perfect wine for a type of food, or vice versa.
 *null*
 
 With Amazon Alexa, Wink smart home users can use simple voice commands to control their Wink-compatible lighting products and Wink-enabled Nest Thermostats.
+
+***
+
+## &nbsp;<img src="skills/B01G6DSNEO/skill_icon" alt="Witlingo icon" width="36"> [Witlingo](skills/B01G6DSNEO)
+
+*Alexa, ask witlingo for proverbs*
+
+Recites Shakespeare quotes and various famous proverbs, spoken by a pleasant male British voice artist.
 
 ***
 

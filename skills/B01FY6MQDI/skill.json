@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Lifestyle",
-  "description": "Coffee Local is a guide to the 50 best coffee shops in America; regions are midwest, south atlantic, west coast, east coast; the process of working with Coffee Local is as follows: Alexa, open Coffee Local; Alexa, what is the list of best midwest (or south atlantic, west coast, midwest) coffee shops; Alexa, what is the list of top midwest (or south atlantic, west coast, midwest) coffee shops; Alexa, what is the list of best midwest (or south atlantic, west coast, midwest) coffee shops;",
+  "description": "Coffee Local is a guide to the 50 best coffee shops in America; regions are midwest, south atlantic, west coast, east coast; the process of working with Coffee Local is as follows: Alexa, open Coffee Local; Alexa, ask Coffee Local what is the list of best midwest (or south atlantic, west coast, midwest) coffee shops; Alexa, ask Coffee Local what is the list of top midwest (or south atlantic, west coast, midwest) coffee shops; Alexa, ask Coffee Local what is the list of best midwest (or south atlantic, west coast, midwest) coffee shops",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask coffee local what is the list of best midwest coffee shops",
+    "Alexa, ask coffee local what is the list of all coffee shops",
     "Alexa, ask coffee local what is the list of top west coast coffee shops",
-    "Alexa, ask coffee local what is the list for south atlantic coffee shops"
+    "Alexa, ask coffee local what is the list of best south atlantic coffee shops"
   ],
   "firstReleaseDate": 1464334716.404,
   "homepageLinkText": null,
