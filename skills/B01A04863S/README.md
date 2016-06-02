@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Laugh Box icon" width="36"> [Laugh Box](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.119e6e72-2935-4f25-9a2d-95c087537126)
-![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Laugh Box skill, try saying...
 
