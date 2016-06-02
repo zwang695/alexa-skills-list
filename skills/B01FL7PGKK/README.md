@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Alan Drinks icon" width="36"> [Alan Drinks](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4eb4f2b9-30ee-415e-96e1-385d927e3764)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Alan Drinks skill, try saying...
 
