@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B018WNJQ74",
-  "averageRating": 2.8,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "News",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "huffpost",
   "name": "HuffPost",
-  "numberOfReviews": 11,
+  "numberOfReviews": 12,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://privacy.aol.com/",

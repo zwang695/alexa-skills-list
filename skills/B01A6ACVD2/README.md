@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Vivint.SmartHome icon" width="36"> [Vivint.SmartHome](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.60786130-18f6-476f-b716-d0a109fe6b1c)
-![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 36
+![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 38
 
 To use the Vivint.SmartHome skill, try saying...
 
