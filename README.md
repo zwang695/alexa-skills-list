@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1133
+**Total Skills Available:** 1146
 
 ***
 
@@ -1176,6 +1176,14 @@ Measure yourself to Alexa in Boat War!
 
 ***
 
+## &nbsp;<img src="skills/B01GDD9W92/skill_icon" alt="BodyGeek icon" width="36"> [BodyGeek](skills/B01GDD9W92)
+
+*Alexa, open Body Geek*
+
+Body Geek is a collection of fun and unusual facts about the human body.
+
+***
+
 ## &nbsp;<img src="skills/B01EB0V9Y0/skill_icon" alt="Bollywood Trivia icon" width="36"> [Bollywood Trivia](skills/B01EB0V9Y0)
 
 *Alexa, launch Bollywood Trivia*
@@ -1390,6 +1398,14 @@ Have Alexa call the hogs by saying:   "Alexa, Start Calling the Hogs".  Alexa wi
 *Alexa, ask Campbell's Kitchen what's for dinner*
 
 Your kitchen just got a whole lot smarter. Make dinnertime easy with a daily Top-5 list of triple-tested recipes, selected for your tastes and time preferences.
+
+***
+
+## &nbsp;<img src="skills/B01FKSYRK0/skill_icon" alt="Can I Use Skill icon" width="36"> [Can I Use Skill](skills/B01FKSYRK0)
+
+*Alexa, ask browser features can I use video?*
+
+Ask Alexa about browser support for HTML, CSS and JavaScript features.
 
 ***
 
@@ -2291,6 +2307,14 @@ Dank Joke will generate a dank joke for you at your leisure.
 
 ***
 
+## &nbsp;<img src="skills/B01GD7UQ1Q/skill_icon" alt="Dark Brotherhood Trivia for Elder Scrolls icon" width="36"> [Dark Brotherhood Trivia for Elder Scrolls](skills/B01GD7UQ1Q)
+
+*Alexa, launch dark brotherhood trivia.*
+
+Test your knowledge on the Dark Brotherhood from the Elder Scrolls games.
+
+***
+
 ## &nbsp;<img src="skills/B01FRBTO6M/skill_icon" alt="Date & Zodiac trivia icon" width="36"> [Date & Zodiac trivia](skills/B01FRBTO6M)
 
 *Alexa, Start Zodiac Trivia*
@@ -2472,6 +2496,14 @@ Do you like Dinosaurs? Of course you down. Enable this skill to learn even MORE 
 *Alexa, ask Discover Artist to find me a new artist*
 
 Discover a new artist every day
+
+***
+
+## &nbsp;<img src="skills/B01F1G80H2/skill_icon" alt="Distance Between icon" width="36"> [Distance Between](skills/B01F1G80H2)
+
+*Alexa, ask distance between Santa Barbara, California and Chicago, Illinois if I drive.*
+
+Distance Between will tell you the distance between two cities that can be traveled to via a car, bike or by walking.  It works best if you include the country.
 
 ***
 
@@ -3245,6 +3277,16 @@ Frontend Quiz is an educational skill for Amazon Echo. It will ask 10 questions 
 *Alexa, open fruit facts*
 
 Facts about fruit.
+
+***
+
+## &nbsp;<img src="skills/B01GIYAUQA/skill_icon" alt="Fun Noises for Kids icon" width="36"> [Fun Noises for Kids](skills/B01GIYAUQA)
+
+*Alexa ask Fun Noises to start*
+
+This voice skill gives a response from a list of fun noises and uses Alexa's voice for the sound effect.
+
+Just say "Alexa ask Fun Noises to begin"
 
 ***
 
@@ -4495,6 +4537,14 @@ The world's brightest Wi-Fi LED smart lights, no cables or hub needed! Light you
 *Alexa, launch Lingo Info*
 
 Learn interesting facts about languages from around the world!
+
+***
+
+## &nbsp;<img src="skills/B01E6FWOS0/skill_icon" alt="Listening Comprehension Practice icon" width="36"> [Listening Comprehension Practice](skills/B01E6FWOS0)
+
+*Alexa, ask Hutch to tell me a story.*
+
+The Listening Comprehension Practice skill allows listeners to sharpen their comprehension of audio narrative content.
 
 ***
 
@@ -6128,6 +6178,14 @@ Quiz questions about prime numbers
 
 ***
 
+## &nbsp;<img src="skills/B01GDRZYCW/skill_icon" alt="Programming Language Summaries icon" width="36"> [Programming Language Summaries](skills/B01GDRZYCW)
+
+*Alexa, ask Programming Languages about javascript*
+
+Get summaries of popular programming languages
+
+***
+
 ## &nbsp;<img src="skills/B01C6DTKDG/skill_icon" alt="Project+ Quiz icon" width="36"> [Project+ Quiz](skills/B01C6DTKDG)
 
 *Alexa, open Project Plus Quiz.*
@@ -6245,6 +6303,14 @@ Chemistry quiz to start the second semester for simon tech students
 *"Alexa, open Quick Events."*
 
 Quickly add events to your primary Google Calendar. Quick Events will notify you of conflicts and ask for confirmation before adding your event.
+
+***
+
+## &nbsp;<img src="skills/B01FP45N4I/skill_icon" alt="Quipster icon" width="36"> [Quipster](skills/B01FP45N4I)
+
+*Alexa, Start Quip Master*
+
+Provides short quips or one liner jokes.
 
 ***
 
@@ -6864,6 +6930,14 @@ Have Alexa tell a short bedtime story.
 
 ***
 
+## &nbsp;<img src="skills/B01GDJF1Q4/skill_icon" alt="Shortcut Genie for the Mac icon" width="36"> [Shortcut Genie for the Mac](skills/B01GDJF1Q4)
+
+*Alexa, ask the Shortcut Genie how do I print my document?*
+
+The Shortcut Genie for the Mac can tell you the most common keyboard shortcuts for the Mac.
+
+***
+
 ## &nbsp;<img src="skills/B017OBXIEC/skill_icon" alt="Shower Thoughts icon" width="36"> [Shower Thoughts](skills/B017OBXIEC)
 
 *Alexa, open Shower Thoughts.*
@@ -6966,6 +7040,16 @@ Control your SkyBell HD video doorbell, including live video recordings!
 *Alexa, ask Skyscanner for a flight*
 
 Search for flight prices anywhere in the world, by conversing with Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01G9I53US/skill_icon" alt="SlaterBug icon" width="36"> [SlaterBug](skills/B01G9I53US)
+
+*Alexa ask slater bug what he likes*
+
+This voice skill gives a response from a list of things that Slater loves with Alexa speaking it's sound.
+
+Just say "Alexa ask slater bug what slater likes"
 
 ***
 
@@ -7598,9 +7682,9 @@ Ask Alexa for a strange law!
 
 ## &nbsp;<img src="skills/B019R2YB7Y/skill_icon" alt="The Listeners icon" width="36"> [The Listeners](skills/B019R2YB7Y)
 
-*"Alexa, tell The Listeners that I am filled with happiness."*
+*"Alexa, ask The Listeners."*
 
-The Listeners is a poetic performance offering a simple interaction with Alexa: speaking for the Listeners and trying to understand something of our feelings.
+The Listeners is a poetic performance offering a simple interaction with Alexa, who speaks for The Listeners while trying to understand us and our feelings.
 
 ***
 
@@ -8034,6 +8118,14 @@ Kasa is a simple way to manage your home from anywhere.
 *Alexa, tell food tracker to log a glass of milk*
 
 Use Track by Nutritionix to get nutritional information on all your favorite foods and track the foods you eat.
+
+***
+
+## &nbsp;<img src="skills/B01G27FV58/skill_icon" alt="Tracker for ISS icon" width="36"> [Tracker for ISS](skills/B01G27FV58)
+
+*Alexa, launch Tracker for ISS*
+
+Track the International Space Station (ISS) with Tracker for ISS.
 
 ***
 
@@ -8670,6 +8762,14 @@ Control your Vivint smart home (for Vivint Sky consumers only) with easy-to-use 
 
 ***
 
+## &nbsp;<img src="skills/B01GDUKRZI/skill_icon" alt="Vocab Helper for the SAT icon" width="36"> [Vocab Helper for the SAT](skills/B01GDUKRZI)
+
+*Alexa, ask Vocab Helper can you tell me what blithe means.*
+
+Vocab Helper for the SAT is a vocabulary aid that contains the most common SAT words used.
+
+***
+
 ## &nbsp;<img src="skills/B01DOKTTOU/skill_icon" alt="VoicePod icon" width="36"> [VoicePod](skills/B01DOKTTOU)
 
 *Alexa, ask voice pod to turn on the overhead lights*
@@ -8747,6 +8847,14 @@ Trivia game about whales
 *Alexa ask startup generator to What does your startup do*
 
 Wait, what does your startup do?
+
+***
+
+## &nbsp;<img src="skills/B01GAW00J2/skill_icon" alt="What Is Cloud Computing icon" width="36"> [What Is Cloud Computing](skills/B01GAW00J2)
+
+*Alexa, ask Cloud Helper what is the definition of cloud computing?*
+
+Learn the definitions of cloud computing terms
 
 ***
 

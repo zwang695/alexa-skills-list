@@ -3,15 +3,15 @@
 
 To use the The Listeners skill, try saying...
 
-* *"Alexa, tell The Listeners that I am filled with happiness."*
+* *"Alexa, ask The Listeners."*
 
-* *"Alexa, the The Listeners that winter is coming."*
+* *"Alexa, tell The Listeners that I am filled with wonder."*
 
-* *"Alexa, ask The Listeners, How do you feel?"*
+* *"Alexa, ask The Listeners to let the other voices speak."*
 
-The Listeners is an experiment in learning and language art that provides, if you simply keep asking to 'continue', about eight minutes of composed speech, although you will never hear exactly the same thing twice.
+The Listeners is an experiment in language art that provides, if you simply keep asking to 'continue', many fragments of composed speech in an intriguing, emergent narrative. You will never hear The Listeners say exactly the same thing twice, but The Listeners is not a chatbot or an AI; they are more of a drama or a simple game.
   Get started with, "Alexa, ask the Listeners," and then "Continue," "Go on," or try something like, "I am filled with joy," or "What are you feeling?" The Listeners will suggest ways to transact with them.
-  The Listeners are an experiment at present, and they will be developed over time.
+  This is the second version of The Listeners, launched May 2016. They will continue to be developed over time.
 
 ***
 
