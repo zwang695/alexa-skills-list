@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1125
+**Total Skills Available:** 1133
 
 ***
 
@@ -2732,6 +2732,14 @@ Hear what colors the Empire State Building is displaying tonight.
 
 ***
 
+## &nbsp;<img src="skills/B01FPV0WDS/skill_icon" alt="ESP8266_Control icon" width="36"> [ESP8266_Control](skills/B01FPV0WDS)
+
+*Alexa, Start Relay Flip*
+
+Flips a relay on an ESP8266
+
+***
+
 ## &nbsp;<img src="skills/B01BCIXI1Q/skill_icon" alt="Esports Ticker icon" width="36"> [Esports Ticker](skills/B01BCIXI1Q)
 
 *Alexa, ask Esports Ticker for live matches*
@@ -3325,6 +3333,14 @@ Test your knowledge of Metal Gear Solid trivia.
 *Alexa, tell Garageio to close my door.*
 
 Garageio is the simple and secure way to control and monitor your garage door from anywhere in the world, all without needing to replace your existing opener.
+
+***
+
+## &nbsp;<img src="skills/B01G2ML594/skill_icon" alt="Garden Facts icon" width="36"> [Garden Facts](skills/B01G2ML594)
+
+*Alexa, open Garden Facts*
+
+Garden Facts is a fact providing skill that's all about garden produce facts.
 
 ***
 
@@ -4013,6 +4029,14 @@ Indonesian Facts: All fun, cool, interesting, and educative information about In
 *Alexa, ask the innkeeper to say hello to the mage.*
 
 Welcome to my inn! You can talk to your favorite Hearthstone heroes, and they'll emote back!
+
+***
+
+## &nbsp;<img src="skills/B01GDQ4JSS/skill_icon" alt="Inspirational Quotes icon" width="36"> [Inspirational Quotes](skills/B01GDQ4JSS)
+
+*Alexa, inspire me*
+
+Inspirational Quotes
 
 ***
 
@@ -5685,6 +5709,14 @@ Retrieve stock quotes of publicly traded companies (on NASDAQ & NYSE exchanges) 
 
 ***
 
+## &nbsp;<img src="skills/B01GC86SRW/skill_icon" alt="orderdisplay icon" width="36"> [orderdisplay](skills/B01GC86SRW)
+
+*Alexa, ask Order Display to go to queue*
+
+Skill used to control custom made application for order display
+
+***
+
 ## &nbsp;<img src="skills/B01D4F1J0M/skill_icon" alt="OurGroceries icon" width="36"> [OurGroceries](skills/B01D4F1J0M)
 
 *Alexa, ask OurGroceries to add milk to shopping list.*
@@ -6336,6 +6368,14 @@ Just some random facts.
 
 ***
 
+## &nbsp;<img src="skills/B01G4T8TQW/skill_icon" alt="random jokes icon" width="36"> [random jokes](skills/B01G4T8TQW)
+
+*Alexa, launch random jokes*
+
+The skill is used to tell random jokes
+
+***
+
 ## &nbsp;<img src="skills/B01EKJ16HM/skill_icon" alt="Random Muse icon" width="36"> [Random Muse](skills/B01EKJ16HM)
 
 *Alexa, ask Random Muse to give me an idea*
@@ -6902,6 +6942,14 @@ Single Quote is an app for retrieving quote information on most widely traded eq
 *Alexa, begin site information*
 
 Ask Alexa to describe a website.
+
+***
+
+## &nbsp;<img src="skills/B01GGW79U4/skill_icon" alt="Skill Finder icon" width="36"> [Skill Finder](skills/B01GGW79U4)
+
+*Alexa, Open Skill Finder*
+
+Amazon’s Skill Finder is a new way to discover Alexa skills. Open Skill Finder and learn about the skill of the day, the newest skills, and the top skills.
 
 ***
 
@@ -8982,6 +9030,14 @@ I am your daily friend and can do many things for you.  Such as play fun games a
 
 ***
 
+## &nbsp;<img src="skills/B01G9PR7AU/skill_icon" alt="Your personal fitness trainer icon" width="36"> [Your personal fitness trainer](skills/B01G9PR7AU)
+
+*Alexa ask my fitness trainer, how to perform push ups*
+
+"My fitness trainer" - Your personal fitness instructor which helps you perform basic body weight exercises.
+
+***
+
 ## &nbsp;<img src="skills/B01EXKMP7I/skill_icon" alt="ZenMaster icon" width="36"> [ZenMaster](skills/B01EXKMP7I)
 
 *Alexa, ask ZenMaster for a koan*
@@ -9003,6 +9059,14 @@ ZipCode
 *Alexa, ask Zodiac the sign of someone born on October fifth*
 
 Find out the Zodiac sign for any date
+
+***
+
+## &nbsp;<img src="skills/B01GB28COG/skill_icon" alt="Zoo Keeper icon" width="36"> [Zoo Keeper](skills/B01GB28COG)
+
+*Alexa, ask Zookeeper, what does a zebra say?*
+
+Zookeeper: Listen to the Animals
 
 ***
 
