@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Witlingo icon" width="36"> [Witlingo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2628c7d2-d5f8-4464-9c5b-dc623e63ae98)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Witlingo skill, try saying...
 

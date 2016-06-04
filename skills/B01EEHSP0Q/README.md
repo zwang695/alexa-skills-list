@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Air Quality icon" width="36"> [Air Quality](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c4153cc2-b53d-4994-b498-ce64fd62b0f6)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Air Quality skill, try saying...
 

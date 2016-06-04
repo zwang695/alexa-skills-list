@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Quipster icon" width="36"> [Quipster](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bf143349-78bb-468c-b1d6-0ee72afad7d3)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Quipster skill, try saying...
 
