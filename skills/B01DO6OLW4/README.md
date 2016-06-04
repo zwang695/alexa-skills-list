@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="SMS With Molly icon" width="36"> [SMS With Molly](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f7afb5b1-26f3-48d4-b62b-66e7cbba7a47)
-![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 13
+![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the SMS With Molly skill, try saying...
 

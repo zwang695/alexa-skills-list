@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Ask Earthquakes icon" width="36"> [Ask Earthquakes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fadc6792-08ac-4834-bc31-d178eb0cf4fa)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 14
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 15
 
 To use the Ask Earthquakes skill, try saying...
 

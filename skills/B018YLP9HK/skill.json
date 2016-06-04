@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B018YLP9HK",
-  "averageRating": 3.1,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Home-Automation",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "homeseer",
   "name": "HomeSeer Home Automation Skill",
-  "numberOfReviews": 16,
+  "numberOfReviews": 17,
   "pamsPartnerId": "DxnWZr4Q2SSKkHt7CIZASkRXu",
   "permissions": null,
   "privacyPolicyUrl": "http://www.homeseer.com/privacy-policy.html",
