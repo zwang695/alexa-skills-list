@@ -4,8 +4,8 @@
   "averageRating": 4.2,
   "canDisable": false,
   "capabilities": null,
-  "category": "CONNECTED_HOME",
-  "description": "This skill allows you to control the Sensi thermostat.",
+  "category": null,
+  "description": "Smart home, meet smart comfort.\n\nNow you can easily connect your Sensi™ Wi-Fi Programmable Thermostat to Amazon Alexa and use simple voice commands to set, lower, or raise your home temperature without lifting a finger. To use the Sensi thermostat skill, try saying…\n\n\"Alexa, set living room thermostat temperature to 68 degrees.\"\n\"Alexa, lower first floor thermostat by 2 degrees.\"\n\"Alexa, raise first floor thermostat by 2 degrees.\"",
   "enablement": null,
   "exampleInteractions": [
     null,
@@ -25,7 +25,7 @@
   "pamsPartnerId": "ht6kwBPtrv6o4NIGyDi1RwiYl",
   "permissions": null,
   "privacyPolicyUrl": "https://sensicomfort.com/privacy-policies/",
-  "shortDescription": "This skill allows you to control the Sensi thermostat.",
+  "shortDescription": "\"Alexa, set my thermostat to 72 degrees.\"\n\nControl your Sensi™ Wi-Fi Programmable Thermostat without lifting a finger using Alexa and simple voice commands.",
   "skillTypes": [
     "SMART_HOME"
   ],

@@ -6894,7 +6894,9 @@ Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 
 *null*
 
-This skill allows you to control the Sensi thermostat.
+"Alexa, set my thermostat to 72 degrees."
+
+Control your Sensi™ Wi-Fi Programmable Thermostat without lifting a finger using Alexa and simple voice commands.
 
 ***
 
