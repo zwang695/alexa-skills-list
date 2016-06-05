@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01EWGOT6S",
-  "averageRating": 3,
+  "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
   "category": "Communications",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "pronto",
   "name": "Pronto.ai",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.pronto.ai/privacy.html",

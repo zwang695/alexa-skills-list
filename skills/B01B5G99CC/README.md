@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Domino's Pizza icon" width="36"> [Domino's Pizza](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d9b83ae6-a16d-472d-a925-83c91fad878a)
-![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 22
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 23
 
 To use the Domino's Pizza skill, try saying...
 

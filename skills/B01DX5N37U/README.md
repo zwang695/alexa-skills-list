@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Carly icon" width="36"> [Carly](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7cedcafc-0757-49d2-a0b5-362d917b2eac)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Carly skill, try saying...
 
