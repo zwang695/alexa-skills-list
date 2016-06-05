@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Examining the Scriptures Daily for 2016 icon" width="36"> [Examining the Scriptures Daily for 2016](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6e280a28-a384-46a0-aa00-d7c3e1649183)
-![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 8
+![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the Examining the Scriptures Daily for 2016 skill, try saying...
 

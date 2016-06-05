@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Mental Math icon" width="36"> [Mental Math](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.745bb29f-70c2-4366-8c76-c3c04b454717)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Mental Math skill, try saying...
 

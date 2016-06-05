@@ -3,7 +3,7 @@
     "lifx.com"
   ],
   "asin": "B01EIQSPOY",
-  "averageRating": 4.2,
+  "averageRating": 4,
   "canDisable": false,
   "capabilities": null,
   "category": "CONNECTED_HOME",
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "LIFX Optimized for Smart Home",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": "FE2JAJu4kCBibYeZIloDnhyRD",
   "permissions": null,
   "privacyPolicyUrl": "http://www.lifx.com/pages/legals#privacy",
