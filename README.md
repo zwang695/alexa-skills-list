@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1151
+**Total Skills Available:** 1155
 
 ***
 
@@ -912,6 +912,14 @@ Ask beer geek for a beer fact!
 
 ***
 
+## &nbsp;<img src="skills/B01GAYLD4Q/skill_icon" alt="Beer Lover icon" width="36"> [Beer Lover](skills/B01GAYLD4Q)
+
+*Alexa, ask beer maid for a beer*
+
+Beer inspiration, quotes, and facts for lovers of brew.
+
+***
+
 ## &nbsp;<img src="skills/B01BZGJEOK/skill_icon" alt="Beer Trivia icon" width="36"> [Beer Trivia](skills/B01BZGJEOK)
 
 *Alexa, launch Beer Trivia*
@@ -1510,6 +1518,14 @@ Control your Lutron Caséta Wireless lights from anywhere!
 *Alexa, open Cat Fact.*
 
 Learn about cats with the Cat Fact skill
+
+***
+
+## &nbsp;<img src="skills/B01GM0MSSI/skill_icon" alt="cat facts icon" width="36"> [cat facts](skills/B01GM0MSSI)
+
+*Alexa, ask cat facts for a cat fact*
+
+cat facts
 
 ***
 
@@ -2579,6 +2595,14 @@ Get the spot price of DogeCoin, one of the top crypto-currencies worldwide!
 
 ***
 
+## &nbsp;<img src="skills/B01GM5LCEE/skill_icon" alt="DogTrivia icon" width="36"> [DogTrivia](skills/B01GM5LCEE)
+
+*Alexa start Dog Trivia*
+
+A trivia game about dogs
+
+***
+
 ## &nbsp;<img src="skills/B019R06W5A/skill_icon" alt="Domain Name Info icon" width="36"> [Domain Name Info](skills/B019R06W5A)
 
 *Alexa, launch Domain Name Info*
@@ -2848,7 +2872,7 @@ eventseeker is your personalized event service with a focus on minimizing search
 
 *Alexa, open my daily text for today*
 
-Welcome to Examining the Scriptures Daily for 2016
+Welcome to Examining the Scriptures Daily for 2016.
 
 You can say "Alexa, open my daily text "
 
@@ -5138,6 +5162,14 @@ This skill makes you an expert for Morse codes. It can encode any name of your c
 *Alexa, ask Mosaic for good morning*
 
 Connecting the Internet of Things to your voice.
+
+***
+
+## &nbsp;<img src="skills/B01G6LOP9S/skill_icon" alt="Motivate Me - By SexyHackers.com icon" width="36"> [Motivate Me - By SexyHackers.com](skills/B01G6LOP9S)
+
+*Alexa, motivate me*
+
+Start your day by saying.. “Alexa, motivate me” and she will tell you an inspirational quote from a tech industry leader and send details to the companion app.
 
 ***
 

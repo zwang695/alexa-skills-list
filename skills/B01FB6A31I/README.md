@@ -25,5 +25,5 @@ The source of this daily read can be found online at http://wol.jw.org/en/wol/h/
 * **Author:** Synapse Research Systems
 * **Release Date:** May 23, 2016 @ 19:08:35
 * **Privacy Policy:** https://www.jwdailytext.com/PrivacyPolicy.txt
-* **Terms of Use:** https://www.jwdailytext.comTermsConditions.txt
+* **Terms of Use:** https://www.jwdailytext.com/TermsConditions.txt
 * **In-App Purchasing:** No
