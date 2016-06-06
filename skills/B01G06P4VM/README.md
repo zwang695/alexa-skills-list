@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Seattle Bike Share icon" width="36"> [Seattle Bike Share](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.85889bc3-97ba-4200-8bc4-3706c6272974)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Seattle Bike Share skill, try saying...
 

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1146
+**Total Skills Available:** 1151
 
 ***
 
@@ -1016,6 +1016,14 @@ It's the 50th anniversary of football's biggest game. Test your Big Game knowled
 
 ***
 
+## &nbsp;<img src="skills/B01GH9PHKU/skill_icon" alt="Big O Buddy icon" width="36"> [Big O Buddy](skills/B01GH9PHKU)
+
+*Alexa, ask Big O Buddy what is the complexity for the heapsort algorithm*
+
+Big O Buddy tells you the time and space complexity of some of the most popular data structures and algorithms.
+
+***
+
 ## &nbsp;<img src="skills/B01DOI0PKE/skill_icon" alt="Bike Share icon" width="36"> [Bike Share](skills/B01DOI0PKE)
 
 *Alexa, ask Bike Share to add an address*
@@ -1045,6 +1053,14 @@ Billy the Random Number Goat will provide you with a random number. If you don't
 *Alexa, ask Binary Clock what time it is*
 
 Alexa knows the time in binary!
+
+***
+
+## &nbsp;<img src="skills/B01GG9F6SE/skill_icon" alt="Binary Converter icon" width="36"> [Binary Converter](skills/B01GG9F6SE)
+
+*Alexa, ask Binary Converter to convert thirty one.*
+
+Quickly convert numbers into binary.
 
 ***
 
@@ -1266,7 +1282,7 @@ Control your Brain of Things enabled home.
 
 ## &nbsp;<img src="skills/B01FWETQUI/skill_icon" alt="BrickBot icon" width="36"> [BrickBot](skills/B01FWETQUI)
 
-*Alexa, ask brick bot to get available sets in 2015*
+*Alexa, ask Brick Bot to get available sets in twenty sixteen*
 
 Crazy about collecting LEGO® sets? Get the latest updates on available sets, set details, themes, and sub-theme from Brick Bot. Try it out now!
 
@@ -1862,6 +1878,14 @@ Test your College Basketball knowledge with a series of trivia questions surroun
 *alexa open color game*
 
 Memorize the color order
+
+***
+
+## &nbsp;<img src="skills/B01EGRLSVC/skill_icon" alt="Colorado Geek icon" width="36"> [Colorado Geek](skills/B01EGRLSVC)
+
+*Alexa, ask colorado geek to tell me a fact.*
+
+Hey Colorado Locals! Colorado Geek is packed with fun facts about Colorado. Learn and have fun with Colorado Geek.
 
 ***
 
@@ -3511,6 +3535,14 @@ Get the latest closing day prices for gold, silver and oil with Gold Bug!
 *Alexa, Open Golf Fact*
 
 Golf Fact is an Alexa skill about, what else, GOLF!
+
+***
+
+## &nbsp;<img src="skills/B01GEZVNKK/skill_icon" alt="Golf Shot Live icon" width="36"> [Golf Shot Live](skills/B01GEZVNKK)
+
+*Alexa, ask Golf Shot Live who is leading the tournament*
+
+A skill to get information about the current PGA Tour tournament.
 
 ***
 
@@ -9017,6 +9049,14 @@ Get Woot's daily deals straight from Alexa, just ask Woot "What is today's deal?
 *Alexa, ask Workout Buddy for a workout*
 
 This skill gives you a random exercise to do.
+
+***
+
+## &nbsp;<img src="skills/B01GDC881Q/skill_icon" alt="WorkoutHelper icon" width="36"> [WorkoutHelper](skills/B01GDC881Q)
+
+*Alexa, ask Workout Helper what workout is suitable when I am happy*
+
+WorkoutHelper is a skill that can help you with workout recipes for your current mood.
 
 ***
 

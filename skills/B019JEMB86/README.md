@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Toughguy icon" width="36"> [Toughguy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.187cc01b-2b3f-48b2-9019-dcf1cd09513e)
-![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 10
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Toughguy skill, try saying...
 
