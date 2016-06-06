@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1155
+**Total Skills Available:** 1156
 
 ***
 
@@ -2536,6 +2536,14 @@ Do you like Dinosaurs? Of course you down. Enable this skill to learn even MORE 
 *Alexa, ask Discover Artist to find me a new artist*
 
 Discover a new artist every day
+
+***
+
+## &nbsp;<img src="skills/B01G5VHY2O/skill_icon" alt="Discovery Channel's Shark Week icon" width="36"> [Discovery Channel's Shark Week](skills/B01G5VHY2O)
+
+*Alexa, ask shark week for a fact.*
+
+#SharkWeek returns early this year, Sunday June 26th at 8/7c! Ask Alexa for shark facts, a countdown for when shark week begins, and more!
 
 ***
 

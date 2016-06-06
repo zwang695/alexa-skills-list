@@ -19,6 +19,6 @@ This is a list of funny quotes provided upon request. Simply ask Alexa to give y
 * **Category:** Entertainment
 * **ID:** amzn1.echo-sdk-ams.app.11022c26-8725-4c14-a8f8-b6f1e1b6107b
 * **ASIN:** B01GDFY7RW
-* **Author:** ENABLED
+* **Author:** ALPHABETO
 * **Release Date:** June 2, 2016 @ 02:08:34
 * **In-App Purchasing:** No
