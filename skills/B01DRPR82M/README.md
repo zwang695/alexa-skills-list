@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="World Cup Soccer Trivia icon" width="36"> [World Cup Soccer Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9ce57a8a-b22b-4340-a489-9b42b6d0c9c1)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the World Cup Soccer Trivia skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="TideGuide icon" width="36"> [TideGuide](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3cb0b160-14dd-4659-bd8f-ba1a6d957665)
-![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 10
+![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 11
 
 To use the TideGuide skill, try saying...
 

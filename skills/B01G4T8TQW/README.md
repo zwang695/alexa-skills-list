@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="random jokes icon" width="36"> [random jokes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d0fb5aeb-e266-4dee-9bf2-4ce315b01fdd)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the random jokes skill, try saying...
 
