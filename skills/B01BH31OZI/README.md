@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Happy Birthday icon" width="36"> [Happy Birthday](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.32e8aa28-7591-4ad2-8f2b-83dd673464c5)
-![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 9
+![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Happy Birthday skill, try saying...
 

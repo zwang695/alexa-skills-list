@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="US National Parks Game icon" width="36"> [US National Parks Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0d1811fe-2e57-4dc8-a500-144af30b19d6)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the US National Parks Game skill, try saying...
 
