@@ -9,7 +9,9 @@ To use the Zoo Keeper skill, try saying...
 
 * *Alexa, tell Zookeeper: penguin*
 
-Ask Zookeeper to play the sound of an animal. If she knows it, she will. If not, she's learning all the time, so try again soon. Find out once and for all: what does the fox say?
+Ask Zoo Keeper to play the sound of an animal. If she knows it, she will. If not, she's learning all the time, so try again soon. Find out once and for all: what does the fox say?
+
+Update 2016-06-03: Zoo Keeper recently learned how to sound like a dolphin and now knows 36 animals.
 
 Icon: "Zebra" by corpus delicti, used under CC BY
 

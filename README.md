@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1156
+**Total Skills Available:** 1161
 
 ***
 
@@ -1758,6 +1758,14 @@ Christopher's Airplane Trivia. Learn facts and trivia about a wide variety of ai
 *'Alexa play Quiz Bowl'*
 
 Play through a set of fun and moderately challenging general trivia.
+
+***
+
+## &nbsp;<img src="skills/B01GM2XC04/skill_icon" alt="chuckFacts icon" width="36"> [chuckFacts](skills/B01GM2XC04)
+
+*Alexa, ask ChuckFacts to tell me something about Chuck Norris*
+
+Hear some Chuck Norris Facts.
 
 ***
 
@@ -3863,6 +3871,14 @@ Complete breakfast and lunch menus for Henrico County Public Schools.
 *Alexa open Hero Trivia*
 
 Hero Trivia is a game designed to increase your super hero knowledge because knowledge is power!
+
+***
+
+## &nbsp;<img src="skills/B01GOHVY66/skill_icon" alt="Hex Converter icon" width="36"> [Hex Converter](skills/B01GOHVY66)
+
+*Alexa, ask Hex Converter to convert thirty one.*
+
+Quickly convert numbers into hexadecimal.
 
 ***
 
@@ -6138,6 +6154,14 @@ Well, so you want to learn something.  The Fact Core can assist, but it's up to 
 
 ***
 
+## &nbsp;<img src="skills/B01GM0Z96Q/skill_icon" alt="Portland Trivia icon" width="36"> [Portland Trivia](skills/B01GM0Z96Q)
+
+*Alexa, ask Portland Trivia to give me a Portland fact*
+
+Ask Alexa for facts about Portland, OR - interesting, weird, and everything in between!
+
+***
+
 ## &nbsp;<img src="skills/B01DKL42S6/skill_icon" alt="Potter Trivia icon" width="36"> [Potter Trivia](skills/B01DKL42S6)
 
 *Alexa, launch Potter Trivia*
@@ -6586,6 +6610,14 @@ A skill to read startup essays from YCombinator's The Macro (www.themacro.com)
 
 ***
 
+## &nbsp;<img src="skills/B01GDRPWO2/skill_icon" alt="Read Fred Wilson's blog icon" width="36"> [Read Fred Wilson's blog](skills/B01GDRPWO2)
+
+*Alexa, ask a. v. c. blog to read a post*
+
+A skill to read posts from Fred Wilson's blog (www.avc.com)
+
+***
+
 ## &nbsp;<img src="skills/B01G84HZKY/skill_icon" alt="Recipe Buddy icon" width="36"> [Recipe Buddy](skills/B01G84HZKY)
 
 *Alexa, ask Recipe Buddy how to make chicken marsala.*
@@ -7001,6 +7033,14 @@ Count sheep before bed! Guaranteed to give you a laugh.
 *Alexa, tell Bed Time Story to Debbie*
 
 Have Alexa tell a short bedtime story.
+
+***
+
+## &nbsp;<img src="skills/B01GGDI07Y/skill_icon" alt="Short Tales icon" width="36"> [Short Tales](skills/B01GGDI07Y)
+
+*Alexa, ask short tales and tell me a story*
+
+Don't have time to read? Listen to these 6 word stories instead.
 
 ***
 
@@ -9256,7 +9296,7 @@ Find out the Zodiac sign for any date
 
 *Alexa, ask Zookeeper, what does a zebra say?*
 
-Zookeeper: Listen to the Animals
+Zoo Keeper: Talk to the Animals
 
 ***
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bible Verse icon" width="36"> [Bible Verse](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ee4a68fc-b428-49a7-ae16-7e95280bc1a6)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Bible Verse skill, try saying...
 
