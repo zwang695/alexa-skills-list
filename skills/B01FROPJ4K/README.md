@@ -5,11 +5,13 @@ To use the Audio Chef skill, try saying...
 
 * *Alexa, open Audio Chef*
 
-* *Alexa, ask Audio Chef to load recipe pancakes*
+* *Alexa, ask Audio Chef to load recipe beef tacos*
 
 * *Alexa, ask Audio Chef for the next step*
 
-Audio Chef will be your new guide in the kitchen. Are you tired of going back to the recipe text to find where you left off? Despair no more! Using audio prompts, Audio Chef can guide you through a recipe while your hands do the cooking. To get started, say "Alexa, open Audio Chef." Additional instructions will be provided in the Alexa app when you open the Audio Chef service.
+Audio Chef will be your new guide in the kitchen. Are you tired of going back to the recipe text to find where you left off? Despair no more! 
+
+Using audio prompts, Audio Chef can guide you through a recipe while your hands do the cooking. To get started, say "Alexa, open Audio Chef." For additional information, visit audiochef.org.
 
 ***
 

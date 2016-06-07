@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1161
+**Total Skills Available:** 1174
 
 ***
 
@@ -1029,6 +1029,14 @@ It's the 50th anniversary of football's biggest game. Test your Big Game knowled
 *Alexa, ask Big O Buddy what is the complexity for the heapsort algorithm*
 
 Big O Buddy tells you the time and space complexity of some of the most popular data structures and algorithms.
+
+***
+
+## &nbsp;<img src="skills/B01GNXDZT0/skill_icon" alt="BigBandTrivia icon" width="36"> [BigBandTrivia](skills/B01GNXDZT0)
+
+*Alexa ask Big band trivia to start*
+
+Trivia about big bands.
 
 ***
 
@@ -2243,6 +2251,14 @@ Keep track of your daily step count and calories burned by accessing your Google
 
 ***
 
+## &nbsp;<img src="skills/B01GNU5ZI2/skill_icon" alt="Curious Cat icon" width="36"> [Curious Cat](skills/B01GNU5ZI2)
+
+*Alexa, ask curious cat to tell me a fact*
+
+Curious Cat increases your knowledge and appreciation of cats by telling you a random fact about cats when asked.
+
+***
+
 ## &nbsp;<img src="skills/B01AWXQTMW/skill_icon" alt="Currency Converter icon" width="36"> [Currency Converter](skills/B01AWXQTMW)
 
 *Alexa, ask Currency Converter to convert twenty dollars to euros*
@@ -2915,6 +2931,14 @@ Listen to Alexa speak famous quotes of utter despair. And then cry along with he
 *Alexa, tell Expense Tracker that I paid 10 dollars for food.*
 
 Expense Tracker can help you keep track of your costs. Just add all your spendings to certain categories and ask Expense Tracker to create your report.
+
+***
+
+## &nbsp;<img src="skills/B01GLTHX8U/skill_icon" alt="Extended Selenium Two icon" width="36"> [Extended Selenium Two](skills/B01GLTHX8U)
+
+*Alexa, Ask Extended Selenium Two for add cookie documentation.*
+
+Extended Selenium Two is a skill that can help you with keyword documentation for ExtendedSelenium2Library open source project.
 
 ***
 
@@ -4556,6 +4580,14 @@ Let's Multiply is a skill that quizzes you on your multiplication table.  You ca
 
 ***
 
+## &nbsp;<img src="skills/B01GNHWXP8/skill_icon" alt="Lets Subtract icon" width="36"> [Lets Subtract](skills/B01GNHWXP8)
+
+*Alexa, open let's subtract*
+
+Let's Subtract is a skill that quizzes you on subtraction problems.  You can specify how high you want the subtraction problems to go, up to 50 minus 50.
+
+***
+
 ## &nbsp;<img src="skills/B01EWVRGY0/skill_icon" alt="Letter Counter icon" width="36"> [Letter Counter](skills/B01EWVRGY0)
 
 *Alexa, open Letter Counter*
@@ -5566,6 +5598,14 @@ Practice your knowledge of U.S. history and government for the United States Civ
 
 ***
 
+## &nbsp;<img src="skills/B01GFGQ4TI/skill_icon" alt="Navy Wars icon" width="36"> [Navy Wars](skills/B01GFGQ4TI)
+
+*Alexa open Navy Wars*
+
+Play a game of Navy Wars with your Alexa! Inspired by Hasbro's game of Battleship.
+
+***
+
 ## &nbsp;<img src="skills/B01DKTNECI/skill_icon" alt="NBA stats by iknow.io icon" width="36"> [NBA stats by iknow.io](skills/B01DKTNECI)
 
 *Alexa, ask I Know NBA for the Cavs stats in the last 5 games*
@@ -5619,6 +5659,14 @@ Alexa and Nest work together to help you set the perfect temperature - without h
 *Alexa, Open Netherlands Trivia*
 
 A trivia game about the Netherlands.
+
+***
+
+## &nbsp;<img src="skills/B01GNELNCK/skill_icon" alt="Network Quiz icon" width="36"> [Network Quiz](skills/B01GNELNCK)
+
+*Alexa, launch network quiz*
+
+Quiz on basic network concepts.
 
 ***
 
@@ -7117,6 +7165,14 @@ Alexa, ask sensor mirror to set brightness to 50 percent.
 
 ***
 
+## &nbsp;<img src="skills/B01FVKXFI2/skill_icon" alt="SineadTriviaGame icon" width="36"> [SineadTriviaGame](skills/B01FVKXFI2)
+
+*Alexa launch my biography*
+
+Sinead's Trivia Game is built as a template for trivia games for developers to use and for team members an opportunity to get to know each other.
+
+***
+
 ## &nbsp;<img src="skills/B01E7KNQF4/skill_icon" alt="Single Quote icon" width="36"> [Single Quote](skills/B01E7KNQF4)
 
 *Alexa, ask Single Quote for the price of AMZN*
@@ -7278,6 +7334,14 @@ Space Trivia Questions
 *Alexa, open Space Weather*
 
 The Space Weather skill for Alexa will tell you the current conditions in space.
+
+***
+
+## &nbsp;<img src="skills/B01GM1UR4O/skill_icon" alt="Spacegeek02 icon" width="36"> [Spacegeek02](skills/B01GM1UR4O)
+
+*Alexa ask space geek four to tell me a fact.*
+
+Facts for life
 
 ***
 
@@ -7481,6 +7545,14 @@ Tells users the Stone Ridge School's entree menu for a given day
 
 ***
 
+## &nbsp;<img src="skills/B01FKNPL2I/skill_icon" alt="Stream Guide for Twitch icon" width="36"> [Stream Guide for Twitch](skills/B01FKNPL2I)
+
+*Alexa, ask Stream Guide what are the top games*
+
+This skill can find the top games and channels being streamed on Twitch.tv
+
+***
+
 ## &nbsp;<img src="skills/B01EMNHT1S/skill_icon" alt="StreamBot for Twitch icon" width="36"> [StreamBot for Twitch](skills/B01EMNHT1S)
 
 *Alexa, ask Streambot what's featured on Twitch*
@@ -7505,11 +7577,27 @@ What's going on this weekend? Ask Alexa to find out from StubHub!
 
 ***
 
+## &nbsp;<img src="skills/B01GIYB3DY/skill_icon" alt="Stump the Chump icon" width="36"> [Stump the Chump](skills/B01GIYB3DY)
+
+*Alexa, open Stump the Chump*
+
+Are you a sports trivia buff? Prove it by competing against Alexa in 'Stump the Chump'!
+
+***
+
 ## &nbsp;<img src="skills/B01G6PJQRA/skill_icon" alt="Stupid Cat Jokes icon" width="36"> [Stupid Cat Jokes](skills/B01G6PJQRA)
 
 *Alexa, open cat jokes*
 
 If you like completely stupid CAT JOKES, than do we have the skill for you! Hear dumb cat joke, one after another. Who doesn't love stupid jokes about cats?
+
+***
+
+## &nbsp;<img src="skills/B01GJPXAJC/skill_icon" alt="Stupid Musician Jokes icon" width="36"> [Stupid Musician Jokes](skills/B01GJPXAJC)
+
+*Alexa, open musician jokes*
+
+If you enjoy completely STUPID MUSICIAN JOKES, than do we have the skill for you! We're your dumb musician joke source! Who doesn't love stupid music jokes?
 
 ***
 
@@ -8040,6 +8128,14 @@ Returns tide information for a given city or state
 *Alexa, ask tide guide for the tides in Santa Barbara, California*
 
 This skill will give the tide report for most locations (city and state/country) with a NOAA station.
+
+***
+
+## &nbsp;<img src="skills/B01GM2ZY64/skill_icon" alt="Timbers Facts icon" width="36"> [Timbers Facts](skills/B01GM2ZY64)
+
+*Alexa, open Timbers Facts*
+
+Facts about the Portland Timbers
 
 ***
 
@@ -8937,6 +9033,14 @@ Countdown the number of days until your wedding date.
 *Alexa ask weight tracker to store one hundred sixty four pounds*
 
 Helps you to keep track of your weight. Just stand on a scale and tell Alexa to store your weight. You can also set a target and get reports.
+
+***
+
+## &nbsp;<img src="skills/B01GM0SWWY/skill_icon" alt="WeirdFacter icon" width="36"> [WeirdFacter](skills/B01GM0SWWY)
+
+*Alexa, ask weird fact for a weird fact.*
+
+WeirdFacter tells you a weird fact.
 
 ***
 
