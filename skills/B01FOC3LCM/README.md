@@ -5,11 +5,26 @@ To use the Inspire Me skill, try saying...
 
 * *'Alexa, inspire me.'*
 
+* *'Alexa, open inspire me, and play Steve Jobs."*
+
+* *'Alexa, open inspire me, and play Jim Carey."*
+
 Start your day with inspirational audio from Alexa!
 
-Ask Alexa to inspire you, and hear some inspirational audio from famous speakers.
+Ask Alexa to inspire you, and hear some inspirational audio from famous speakers, including:
 
-New audio added every week!
+Arnold Schwarzenegger
+Steve Jobs
+Jim Carey
+Alan Watts
+Charles Bukowski
+Will Smith
+Tony Robbins
+Eric Thomas
+Michael Jordan
+Peyton Manning
+Gary Vaynerchuk
+Kevin Spacey
 
 Know of some great speeches / speakers? get in touch and I'll add them in!
 

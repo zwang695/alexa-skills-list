@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Can I Use Skill icon" width="36"> [Can I Use Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1e091677-5897-452d-9625-21f2bb5b9572)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Can I Use Skill skill, try saying...
 

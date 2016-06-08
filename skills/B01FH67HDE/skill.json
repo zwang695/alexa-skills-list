@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "www.rememberthemilk.com"
+  ],
+  "asin": "B01FH67HDE",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Productivity",
+  "description": "Alexa, meet Remember The Milk!\n\nThis skill brings the power of Remember The Milk to your Alexa-enabled device. It allows you to:\n\n* Hear what's due on the date of your choosing (what's due today, what's due next Tuesday).\n\n* Add tasks to your Remember The Milk account (remind me to pick up the milk, remind me to pay the Amex bill on Tuesday, remind me to take out the trash at 7pm on Friday).\n\n* Give tasks to your Remember The Milk contacts (remind Alice to book the flights to New York on Friday).\n\nYou'll need a free Remember The Milk account to use this skill. For more information on the skill, please visit:\n\nhttps://www.rememberthemilk.com/services/alexa/\n\nFor more information on Remember The Milk, please visit:\n\nhttps://www.rememberthemilk.com/",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Remember The Milk what's due today.",
+    "Alexa, tell Remember The Milk to remind me to pick up the milk at 6pm.",
+    "Alexa, tell Remember The Milk to remind Jeff to return the library books on Thursday."
+  ],
+  "firstReleaseDate": 1465389673.075,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.cd197c8f-316d-45e0-b51a-243e00f01588",
+  "imageAltText": "Remember The Milk icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01FH67HDE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "remember the milk",
+  "name": "Remember The Milk",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "Phqi4g2l75FFTczMAD5KvSzaF",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.rememberthemilk.com/help/privacy.rtm",
+  "shortDescription": "Add tasks and hear what's due with Remember The Milk, the smart to-do app for busy people.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.rememberthemilk.com/help/terms.rtm",
+  "vendorId": "M1Y2TNHFFTJBW7",
+  "vendorName": "Remember The Milk"
+}

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1175
+**Total Skills Available:** 1194
 
 ***
 
@@ -752,6 +752,14 @@ Baby trivia!
 
 ***
 
+## &nbsp;<img src="skills/B01GQZF1BK/skill_icon" alt="Banana Anna icon" width="36"> [Banana Anna](skills/B01GQZF1BK)
+
+*Alexa, ask Banana Anna to tell me a fact*
+
+Banana Anna increases your knowledge and appreciation of bananas by telling you a random fact about bananas when asked.
+
+***
+
 ## &nbsp;<img src="skills/B01E5T1IRU/skill_icon" alt="Barcelona Quiz icon" width="36"> [Barcelona Quiz](skills/B01E5T1IRU)
 
 *Alexa, ask Barcelona Quiz to start*
@@ -1016,6 +1024,14 @@ Recite a bible verse
 
 ***
 
+## &nbsp;<img src="skills/B01GMGJKV0/skill_icon" alt="BibleVerses icon" width="36"> [BibleVerses](skills/B01GMGJKV0)
+
+*Alexa, ask bible verse to tell me a bible verse.*
+
+Listen to bible verses!
+
+***
+
 ## &nbsp;<img src="skills/B01BFSF9AG/skill_icon" alt="Big Game Ultimate Trivia Quiz icon" width="36"> [Big Game Ultimate Trivia Quiz](skills/B01BFSF9AG)
 
 *Alexa, start Big Game*
@@ -1096,6 +1112,22 @@ The BioRhythm skill will calculate your natural biorhythm for today for entertai
 
 ***
 
+## &nbsp;<img src="skills/B01GQGW6P8/skill_icon" alt="Bird Song icon" width="36"> [Bird Song](skills/B01GQGW6P8)
+
+*Alexa, ask Bird Song for a bluebird*
+
+Plays a variety of beautiful bird songs and calls -- over 125 and growing!  Includes a Name That Bird game plus a few hidden "Easter Eggs" to keep things fun.
+
+***
+
+## &nbsp;<img src="skills/B01GDUNN1I/skill_icon" alt="Bird Songs icon" width="36"> [Bird Songs](skills/B01GDUNN1I)
+
+*Alexa, ask Bird Songs*
+
+Bird Songs plays the songs of the most common North American bird species.
+
+***
+
 ## &nbsp;<img src="skills/B01E9C72J6/skill_icon" alt="Bird Trivia icon" width="36"> [Bird Trivia](skills/B01E9C72J6)
 
 *Alexa, open Bird Trivia*
@@ -1157,6 +1189,14 @@ An Amazon Alexa skill to get a healthy snack idea to complement your daily nutri
 *"Alexa ask Block World Trivia."*
 
 Ask Alexa to help you show off your crafting skills by answering over 30 different multiple choice questions.
+
+***
+
+## &nbsp;<img src="skills/B01GM221CE/skill_icon" alt="bloregeek icon" width="36"> [bloregeek](skills/B01GM221CE)
+
+*Alexa ask city geek to tell me about bangalore*
+
+Some Facts about Bangalore
 
 ***
 
@@ -1478,6 +1518,14 @@ Hands-free banking never sounded so good. Just ask Alexa how much money you have
 *Alexa, tell Capital Quiz to start practicing*
 
 Capital Quiz helps you practice and then quizzes you on the names of the capital cities of all 50 US states.
+
+***
+
+## &nbsp;<img src="skills/B01G4UNKHY/skill_icon" alt="Capital Transit icon" width="36"> [Capital Transit](skills/B01G4UNKHY)
+
+*Alexa, ask Capital Transit when the next train arrives at Metro Center*
+
+Need to know when the next train is arriving at your station? Just ask! Get station arrival times and service advisories for the DC Metro.
 
 ***
 
@@ -2371,6 +2419,14 @@ A skill that describes dance moves.
 
 ***
 
+## &nbsp;<img src="skills/B01GM2L8AU/skill_icon" alt="Dangerous Field icon" width="36"> [Dangerous Field](skills/B01GM2L8AU)
+
+*Alexa, start Dangerous Field*
+
+In Dangerous Field you try to escape from a field filled with danger.
+
+***
+
 ## &nbsp;<img src="skills/B01FZAICPY/skill_icon" alt="DankJoke icon" width="36"> [DankJoke](skills/B01FZAICPY)
 
 *Alexa ask Dank Joke to tell me a dank joke*
@@ -2632,6 +2688,14 @@ See how much you know about cats and dogs. Questions will be both general and sp
 *Alexa Start Dogecoin*
 
 Get the spot price of DogeCoin, one of the top crypto-currencies worldwide!
+
+***
+
+## &nbsp;<img src="skills/B01GNB6NBE/skill_icon" alt="DogFacts icon" width="36"> [DogFacts](skills/B01GNB6NBE)
+
+*Alexa, launch dog facts*
+
+A skill for dog facts
 
 ***
 
@@ -3970,6 +4034,14 @@ To Know about Ice Hockey and Ice hockey history.
 
 ***
 
+## &nbsp;<img src="skills/B01GLRZRLM/skill_icon" alt="Holiday Freak icon" width="36"> [Holiday Freak](skills/B01GLRZRLM)
+
+*Alexa, ask Holiday Freak to give me today's holidays*
+
+Every day there is a reason to celebrate!
+
+***
+
 ## &nbsp;<img src="skills/B01FF33U4O/skill_icon" alt="Hollywood Dogs icon" width="36"> [Hollywood Dogs](skills/B01FF33U4O)
 
 *Alexa, ask Hollywood Dogs for some pooch gossip*
@@ -4047,6 +4119,14 @@ Hourglass will tell you based on your birthday and averages based on your gender
 *"Alexa, launch house band."*
 
 House Band allows you to access your JRiver Media Center music server. You can play your music, search your library, and create Play Doctor playlists!
+
+***
+
+## &nbsp;<img src="skills/B01FPXUMJK/skill_icon" alt="House Rules icon" width="36"> [House Rules](skills/B01FPXUMJK)
+
+*Alexa tell house rules to set rule, no TV on weekdays*
+
+House Rules!  Set your rules and Alexa will remember.  Any time a rule is in question, just ask Alexa.
 
 ***
 
@@ -4287,6 +4367,14 @@ Think you know your IoT's? Challenge yourself with fun and educational questions
 *Alexa, ask Iris to holler at John*
 
 Say the command, “Alexa, ask Iris to holler at [name of recipient]” and Iris will send a pre-composed e-mail, asking the recipient to holler back.
+
+***
+
+## &nbsp;<img src="skills/B01GM0L1T0/skill_icon" alt="Irish Triad icon" width="36"> [Irish Triad](skills/B01GM0L1T0)
+
+*Alexa, ask Irish triad to tell me a triad*
+
+Sample request for irish triads
 
 ***
 
@@ -5042,6 +5130,14 @@ Come and check how good your memory is!
 *Alexa, start Mental Math*
 
 Test your mental math
+
+***
+
+## &nbsp;<img src="skills/B01GOSN706/skill_icon" alt="Meow! icon" width="36"> [Meow!](skills/B01GOSN706)
+
+*Alexa, meow meow*
+
+Meow to Alexa
 
 ***
 
@@ -6218,6 +6314,14 @@ Ask Alexa for facts about Portland, OR - interesting, weird, and everything in b
 
 ***
 
+## &nbsp;<img src="skills/B01GAXLPJ0/skill_icon" alt="Posh Trivia icon" width="36"> [Posh Trivia](skills/B01GAXLPJ0)
+
+*Alexa, ask Posh Trivia to start new game.*
+
+Fun Posh Trivia Game!
+
+***
+
 ## &nbsp;<img src="skills/B01DKL42S6/skill_icon" alt="Potter Trivia icon" width="36"> [Potter Trivia](skills/B01DKL42S6)
 
 *Alexa, launch Potter Trivia*
@@ -6722,6 +6826,14 @@ Relationary is a fun, fast-paced multiplayer word association game that keeps yo
 
 ***
 
+## &nbsp;<img src="skills/B01FH67HDE/skill_icon" alt="Remember The Milk icon" width="36"> [Remember The Milk](skills/B01FH67HDE)
+
+*Alexa, ask Remember The Milk what's due today.*
+
+Add tasks and hear what's due with Remember The Milk, the smart to-do app for busy people.
+
+***
+
 ## &nbsp;<img src="skills/B01DXS1JVE/skill_icon" alt="Remember Your Keys icon" width="36"> [Remember Your Keys](skills/B01DXS1JVE)
 
 *Alexa, ask Remember Your Keys if I am ready to go*
@@ -7137,6 +7249,14 @@ Hear a wide variety of entertaining recorded quotes from Jens Voigt (the most fe
 *Alexa, ask Silly Winnie for a joke*
 
 Winnie the silly mastiff puppy loves to tell kid friendly jokes!
+
+***
+
+## &nbsp;<img src="skills/B01GM9CPLY/skill_icon" alt="SillyJoke icon" width="36"> [SillyJoke](skills/B01GM9CPLY)
+
+*Alexa, ask silly joke to tell me a joke.*
+
+Get some silly jokes.
 
 ***
 
@@ -7976,6 +8096,14 @@ Chabad.org
 *Alexa, open The Scriptures.*
 
 Listen to Alexa read inspirational scriptures to you.
+
+***
+
+## &nbsp;<img src="skills/B01GGKYJQ8/skill_icon" alt="The Seven Kingdoms icon" width="36"> [The Seven Kingdoms](skills/B01GGKYJQ8)
+
+*Alexa, open the seven kingdoms*
+
+The Seven Kingdoms is a trivia game based on the television series, Game of Thrones, which ensures to test even the most loyal fans.
 
 ***
 
@@ -8996,6 +9124,14 @@ The VoicePod skill lets you control and interact with the Control4 home automati
 
 ***
 
+## &nbsp;<img src="skills/B01GIYBPQE/skill_icon" alt="Wahoowa! icon" width="36"> [Wahoowa!](skills/B01GIYBPQE)
+
+*Alexa, ask wahoo wa for a fact*
+
+University of Virginia fans can get their daily dose of Wahoo pride by asking wahoo wa!
+
+***
+
 ## &nbsp;<img src="skills/B01CRF003C/skill_icon" alt="Wake Up Call icon" width="36"> [Wake Up Call](skills/B01CRF003C)
 
 *Alexa, open wake up call*
@@ -9180,6 +9316,15 @@ Wine Buddy provides pairing tips and temperature recommendations.
 
 ***
 
+## &nbsp;<img src="skills/B01GOHJMDI/skill_icon" alt="Wine Expert icon" width="36"> [Wine Expert](skills/B01GOHJMDI)
+
+*Alexa start wine expert*
+
+Not sure what wine to buy? Ask Wine Expert. Wine and food pairing made super easy!
+DISCLAIMER: You must be over 21 years old to use this skill.
+
+***
+
 ## &nbsp;<img src="skills/B01E9LZZ3M/skill_icon" alt="Wine Facts icon" width="36"> [Wine Facts](skills/B01E9LZZ3M)
 
 *Alexa, open Wine Facts.*
@@ -9273,6 +9418,14 @@ Are you interested in world history. Rely on World History for hundreds of event
 *Alexa, open World Holidays.*
 
 Are you interested in world holidays. Rely on World Holidays for dozens of world holidays for every day of the year.
+
+***
+
+## &nbsp;<img src="skills/B01GN6SV2S/skill_icon" alt="WorldTrivia icon" width="36"> [WorldTrivia](skills/B01GN6SV2S)
+
+*Alexa ask world trivia to start new game*
+
+This game presents five questions about world.
 
 ***
 

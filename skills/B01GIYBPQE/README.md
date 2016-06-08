@@ -1,0 +1,24 @@
+# &nbsp;<img src="skill_icon" alt="Wahoowa! icon" width="36"> [Wahoowa!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.45ab957b-e478-480c-a8d8-9c5e847bd388)
+![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+
+To use the Wahoowa! skill, try saying...
+
+* *Alexa, ask wahoo wa for a fact*
+
+* *Alexa, ask wahoo wa to tell me trivia*
+
+* *Alexa, open wahoo wa and give me a fact*
+
+Wahoos is the unofficial nickname for the University of Virginia sports teams. The "wah -hoo-wa" yell is part of The Good Old Song, the alma mater of the University of Virginia. The song is sung by the spectators at UVA football games after a score.  Ask Alexa, wahoo wa  to get ready for tailgating.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** wahoo wa
+* **Category:** null
+* **ID:** amzn1.echo-sdk-ams.app.45ab957b-e478-480c-a8d8-9c5e847bd388
+* **ASIN:** B01GIYBPQE
+* **Author:** Winston Frick
+* **Release Date:** June 8, 2016 @ 08:39:47
+* **In-App Purchasing:** No
