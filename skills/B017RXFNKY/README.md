@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bible icon" width="36"> [Bible](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.352b3321-ec68-4e88-be0e-94b6bb6d5b5c)
-![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 55
+![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 56
 
 To use the Bible skill, try saying...
 

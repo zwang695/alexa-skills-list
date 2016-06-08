@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="The Magic Door icon" width="36"> [The Magic Door](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.58ebc8c0-2d8a-43e2-a820-dac67db1d3f0)
-![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 34
+![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 36
 
 To use the The Magic Door skill, try saying...
 
