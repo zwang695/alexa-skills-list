@@ -3,13 +3,13 @@
 
 To use the StubHub skill, try saying...
 
-* *Alexa, ask StubHub what’s happening this weekend.*
+* *Alexa, ask StubHub what?s happening this weekend.*
 
-* *Alexa, ask StubHub what’s going on tonight.*
+* *Alexa, ask StubHub what?s going on tonight.*
 
-* *Alexa, ask StubHub what’s happening in San Francisco.*
+* *Alexa, ask StubHub what?s happening in San Francisco.*
 
-What’s going on this weekend? Just set your home city, and then you can ask what’s going on tonight, this weekend, or on a specific date. You can also ask what’s happening in another city. It’s your direct access to StubHub – just by asking Alexa.
+What?s going on this weekend? Just set your home city, and then you can ask what?s going on tonight, this weekend, or on a specific date. You can also ask what?s happening in another city. It?s your direct access to StubHub ? just by asking Alexa.
 
 ***
 

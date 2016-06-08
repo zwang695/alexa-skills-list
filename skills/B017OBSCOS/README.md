@@ -9,7 +9,7 @@ To use the Amazing Word Master Game skill, try saying...
 
 * *Alexa, open Word Master*
 
-Word Master is an interactive way to learn and challenge yourself with words. Alexa starts by saying a word. You then have to respond back with a word that begins with the letter in which Alexa’s word ended. Alexa then does the same in response to your word. As you say words, you earn scores with each word. The longer your word, the higher your score. Compete with Alexa and folks at home to make a higher score. Playing with words was never so much fun!
+Word Master is an interactive way to learn and challenge yourself with words. Alexa starts by saying a word. You then have to respond back with a word that begins with the letter in which Alexa?s word ended. Alexa then does the same in response to your word. As you say words, you earn scores with each word. The longer your word, the higher your score. Compete with Alexa and folks at home to make a higher score. Playing with words was never so much fun!
 
 The game continues until someone fails to respond to the next word or you say Exit.
 

@@ -9,7 +9,7 @@ To use the Vivint.SmartHome skill, try saying...
 
 * *Alexa, ask Vivint if my security system is armed*
 
-*Please Note – Voice control is accessible for Vivint SkyControl consumers only. 
+*Please Note ? Voice control is accessible for Vivint SkyControl consumers only. 
  
 Vivint offers the most comprehensive voice controlled smart home on the planet. Have your hands full making dinner and want to turn on the AC?  No problem.  Just say it.    
 Here are some of the amazing voice commands Vivint has:

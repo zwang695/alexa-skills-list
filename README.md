@@ -1340,7 +1340,7 @@ Control your Brain of Things enabled home.
 
 *Alexa, ask Brick Bot to get available sets in twenty sixteen*
 
-Crazy about collecting LEGO® sets? Get the latest updates on available sets, set details, themes, and sub-theme from Brick Bot. Try it out now!
+Crazy about collecting LEGO? sets? Get the latest updates on available sets, set details, themes, and sub-theme from Brick Bot. Try it out now!
 
 ***
 
@@ -1569,11 +1569,11 @@ Carly is a voice-activated coach for Amazon Echo that helps users understand the
 
 ***
 
-## &nbsp;<img src="skills/B01EIQVFFA/skill_icon" alt="Caséta Wireless icon" width="36"> [Caséta Wireless](skills/B01EIQVFFA)
+## &nbsp;<img src="skills/null/skill_icon" alt="Cas?ta Wireless icon" width="36"> [Cas?ta Wireless](skills/null)
 
 *null*
 
-Control your Lutron Caséta Wireless lights from anywhere!
+Control your Lutron Cas?ta Wireless lights from anywhere!
 
 ***
 
@@ -1941,7 +1941,7 @@ Coffee Local is a guide to the 50 best coffee shops in America;
 
 *Alexa, ask Coin Flip to flip it*
 
-Need to resolve a dispute or help making a big decision? Call "heads" or "tails" and ask Coin Flip to flip it – Problem solved!
+Need to resolve a dispute or help making a big decision? Call "heads" or "tails" and ask Coin Flip to flip it ? Problem solved!
 
 ***
 
@@ -2717,9 +2717,9 @@ Domain Name Info will locate different DNS record information for a given domain
 
 ## &nbsp;<img src="skills/B01B5G99CC/skill_icon" alt="Domino's Pizza icon" width="36"> [Domino's Pizza](skills/B01B5G99CC)
 
-*Alexa, open Domino’s*
+*Alexa, open Domino?s*
 
-Place your Domino's Easy Order or your most recent order. You can also ask for Domino’s Tracker® updates to find out the current status of your order.
+Place your Domino's Easy Order or your most recent order. You can also ask for Domino?s Tracker? updates to find out the current status of your order.
 
 ***
 
@@ -2828,7 +2828,7 @@ Ask Eclipse Phase Geek to tell you a fact about the the bleak future of Transhum
 
 ***
 
-## &nbsp;<img src="skills/B01EIQ3P08/skill_icon" alt="ecobee icon" width="36"> [ecobee](skills/B01EIQ3P08)
+## &nbsp;<img src="skills/null/skill_icon" alt="ecobee icon" width="36"> [ecobee](skills/null)
 
 *null*
 
@@ -3412,7 +3412,7 @@ Get freedom-themed quotes
 
 *Alexa, start Frenchness Game*
 
-Evaluate your level of Frenchness with this très simple trivia quiz. How well do you know France, its culture, its geography, and its cuisine?
+Evaluate your level of Frenchness with this tr?s simple trivia quiz. How well do you know France, its culture, its geography, and its cuisine?
 
 ***
 
@@ -3574,7 +3574,7 @@ Geek games is trivia skill to test your knowledge of random geeky facts of the E
 
 *Alexa, ask a geek*
 
-Alexa will ask you 5 trivia questions per game.  It’s a fun way to test your geek knowledge of a famous movie or TV show.
+Alexa will ask you 5 trivia questions per game.  It?s a fun way to test your geek knowledge of a famous movie or TV show.
 
 ***
 
@@ -3850,7 +3850,7 @@ Haiku poem generator.
 
 ***
 
-## &nbsp;<img src="skills/B01F6D3ZHU/skill_icon" alt="Haiku Home icon" width="36"> [Haiku Home](skills/B01F6D3ZHU)
+## &nbsp;<img src="skills/null/skill_icon" alt="Haiku Home icon" width="36"> [Haiku Home](skills/null)
 
 *null*
 
@@ -3998,7 +3998,7 @@ Hide and Seek Timer
 
 *Alexa, open High Low.*
 
-This is the number guessing game of “higher or lower.” In this game, Alexa chooses a number and you try to guess it or you can play the other way around.
+This is the number guessing game of ?higher or lower.? In this game, Alexa chooses a number and you try to guess it or you can play the other way around.
 
 ***
 
@@ -4050,7 +4050,7 @@ Learn facts about the canine stars of film and stage
 
 ***
 
-## &nbsp;<img src="skills/B01EKJX3M8/skill_icon" alt="Home Control Assistant icon" width="36"> [Home Control Assistant](skills/B01EKJX3M8)
+## &nbsp;<img src="skills/null/skill_icon" alt="Home Control Assistant icon" width="36"> [Home Control Assistant](skills/null)
 
 *null*
 
@@ -4156,7 +4156,7 @@ Howzzat! T20 Cricket Trivia is a fun way to test your T20 Cricket knowledge
 
 ## &nbsp;<img src="skills/B018WNJQ74/skill_icon" alt="HuffPost icon" width="36"> [HuffPost](skills/B018WNJQ74)
 
-*"Alexa, open HuffPost” (To hear latest news headlines for today)*
+*"Alexa, open HuffPost? (To hear latest news headlines for today)*
 
 The Huffington Post is a Pulitzer Prize-winning source of news, features, and entertainment, as well as a highly engaged community for opinion and conversation.
 
@@ -4298,7 +4298,7 @@ Get inspirational quotes from famous folk and the movies.
 
 ***
 
-## &nbsp;<img src="skills/B01EIQOOUS/skill_icon" alt="Insteon icon" width="36"> [Insteon](skills/B01EIQOOUS)
+## &nbsp;<img src="skills/null/skill_icon" alt="Insteon icon" width="36"> [Insteon](skills/null)
 
 *null*
 
@@ -4366,7 +4366,7 @@ Think you know your IoT's? Challenge yourself with fun and educational questions
 
 *Alexa, ask Iris to holler at John*
 
-Say the command, “Alexa, ask Iris to holler at [name of recipient]” and Iris will send a pre-composed e-mail, asking the recipient to holler back.
+Say the command, ?Alexa, ask Iris to holler at [name of recipient]? and Iris will send a pre-composed e-mail, asking the recipient to holler back.
 
 ***
 
@@ -4410,7 +4410,7 @@ ISY skill allows you to control your home using an ISY home-automation controlle
 
 ***
 
-## &nbsp;<img src="skills/B01EIUD7LQ/skill_icon" alt="ISY Optimized for Smart Home icon" width="36"> [ISY Optimized for Smart Home](skills/B01EIUD7LQ)
+## &nbsp;<img src="skills/null/skill_icon" alt="ISY Optimized for Smart Home icon" width="36"> [ISY Optimized for Smart Home](skills/null)
 
 *null*
 
@@ -4728,11 +4728,11 @@ The top submission from the last 24 hours from r/LifeProTips from Reddit.
 
 *Alexa, tell LIFX to turn my bedroom lights off*
 
-LIFX, the world’s brightest color Wi-Fi smart lights. Ask Alexa to switch on the lights when your hands are full and fill your home with your favourite colors.
+LIFX, the world?s brightest color Wi-Fi smart lights. Ask Alexa to switch on the lights when your hands are full and fill your home with your favourite colors.
 
 ***
 
-## &nbsp;<img src="skills/B01EIQSPOY/skill_icon" alt="LIFX Optimized for Smart Home icon" width="36"> [LIFX Optimized for Smart Home](skills/B01EIQSPOY)
+## &nbsp;<img src="skills/null/skill_icon" alt="LIFX Optimized for Smart Home icon" width="36"> [LIFX Optimized for Smart Home](skills/null)
 
 *null*
 
@@ -5001,7 +5001,7 @@ A simple math based game
 
 *Alexa, open Math Puzzles.*
 
-Math Puzzles is a fun way to challenge yourself and your friends. You’ll hear a series of numbers and you must guess the next logical number in the sequence.
+Math Puzzles is a fun way to challenge yourself and your friends. You?ll hear a series of numbers and you must guess the next logical number in the sequence.
 
 ***
 
@@ -5329,7 +5329,7 @@ Connecting the Internet of Things to your voice.
 
 *Alexa, motivate me*
 
-Start your day by saying.. “Alexa, motivate me” and she will tell you an inspirational quote from a tech industry leader and send details to the companion app.
+Start your day by saying.. ?Alexa, motivate me? and she will tell you an inspirational quote from a tech industry leader and send details to the companion app.
 
 ***
 
@@ -5586,7 +5586,7 @@ Select this skill for interesting Bible facts.
 
 *Alexa, ask my dee link to turn off bedroom light.*
 
-D-Link’s Wi-Fi Smart Plugs make your home brighter, safer and more in tune with you. Control your devices with the sound of your voice and make any home smart.
+D-Link?s Wi-Fi Smart Plugs make your home brighter, safer and more in tune with you. Control your devices with the sound of your voice and make any home smart.
 
 ***
 
@@ -5750,7 +5750,7 @@ This skill gives a nerdy pickup line when asked.
 
 ***
 
-## &nbsp;<img src="skills/B01EIQW9LY/skill_icon" alt="Nest icon" width="36"> [Nest](skills/B01EIQW9LY)
+## &nbsp;<img src="skills/null/skill_icon" alt="Nest icon" width="36"> [Nest](skills/null)
 
 *null*
 
@@ -6011,7 +6011,7 @@ Skill used to control custom made application for order display
 
 *Alexa, ask OurGroceries to add milk to shopping list.*
 
-OurGroceries is the simplest way to keep your grocery lists instantly synchronized on all the smartphones in your household—and it’s free!
+OurGroceries is the simplest way to keep your grocery lists instantly synchronized on all the smartphones in your household?and it?s free!
 
 ***
 
@@ -7046,7 +7046,7 @@ San Francisco Facts: Things You Didn't Know About San Francisco
 
 *Alexa, ask Santa where is he?*
 
-Keep track of Santa on Christmas eve, find out if you’re on the nice list, and hear fun facts with Santa’s Helper. Just ask “Alexa, ask Santa, where are you?"
+Keep track of Santa on Christmas eve, find out if you?re on the nice list, and hear fun facts with Santa?s Helper. Just ask ?Alexa, ask Santa, where are you?"
 
 ***
 
@@ -7162,13 +7162,13 @@ Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 
 ***
 
-## &nbsp;<img src="skills/B01EIQLWUS/skill_icon" alt="Sensi icon" width="36"> [Sensi](skills/B01EIQLWUS)
+## &nbsp;<img src="skills/null/skill_icon" alt="Sensi icon" width="36"> [Sensi](skills/null)
 
 *null*
 
 "Alexa, set my thermostat to 72 degrees."
 
-Control your Sensi™ Wi-Fi Programmable Thermostat without lifting a finger using Alexa and simple voice commands.
+Control your Sensi? Wi-Fi Programmable Thermostat without lifting a finger using Alexa and simple voice commands.
 
 ***
 
@@ -7321,7 +7321,7 @@ Ask Alexa to describe a website.
 
 *Alexa, Open Skill Finder*
 
-Amazon’s Skill Finder is a new way to discover Alexa skills. Open Skill Finder and learn about the skill of the day, the newest skills, and the top skills.
+Amazon?s Skill Finder is a new way to discover Alexa skills. Open Skill Finder and learn about the skill of the day, the newest skills, and the top skills.
 
 ***
 
@@ -7359,7 +7359,7 @@ Allows users to find if if a certain food or drink can be consumed on the Slow C
 
 ***
 
-## &nbsp;<img src="skills/B01ETW5Q9O/skill_icon" alt="SmartThings icon" width="36"> [SmartThings](skills/B01ETW5Q9O)
+## &nbsp;<img src="skills/null/skill_icon" alt="SmartThings icon" width="36"> [SmartThings](skills/null)
 
 *null*
 
@@ -7477,7 +7477,7 @@ Facts for life
 
 *Alexa, launch 'Spammy'*
 
-Can’t get enough pink piggy deliciousness in your life? The SPAMMY skill will make sure you always have new ways to bring more porky goodness into your life.
+Can?t get enough pink piggy deliciousness in your life? The SPAMMY skill will make sure you always have new ways to bring more porky goodness into your life.
 
 ***
 
@@ -7547,7 +7547,7 @@ Star Trivia is an out of this world experience for the whole family. It's both f
 
 ## &nbsp;<img src="skills/B019G0TI52/skill_icon" alt="Star Wars Quiz icon" width="36"> [Star Wars Quiz](skills/B019G0TI52)
 
-*“Alexa, Start Star Wars Quiz"*
+*?Alexa, Start Star Wars Quiz"*
 
 How well do you know the Star Wars Galaxy? Test your knowledge against trivia questions from Classic Star Wars films as well as The Force Awakens
 
@@ -7699,7 +7699,7 @@ Run connected experiences that include things like Fitbit, SmartThings, Nest, Hu
 
 ## &nbsp;<img src="skills/B017OBIKIG/skill_icon" alt="StubHub icon" width="36"> [StubHub](skills/B017OBIKIG)
 
-*Alexa, ask StubHub what’s happening this weekend.*
+*Alexa, ask StubHub what?s happening this weekend.*
 
 What's going on this weekend? Ask Alexa to find out from StubHub!
 
@@ -8151,7 +8151,7 @@ The Ultimate Hollywood Trivia game. It is a fun game to play as well as helps yo
 
 *Alexa, open the Wayne Investigation*
 
-In this Batman-themed choose-your-own-adventure mystery game, you play a detective investigating the murder of Bruce Wayne’s parents.
+In this Batman-themed choose-your-own-adventure mystery game, you play a detective investigating the murder of Bruce Wayne?s parents.
 
 ***
 
@@ -8183,7 +8183,7 @@ Therapy is a therapist for Alexa.  Tell therapist how you are feeling and she wi
 
 *Alexa tell the thermostat that it is a bit cold*
 
-Control your Nest® thermostat using only your voice.
+Control your Nest? thermostat using only your voice.
 
 ***
 
@@ -8451,7 +8451,7 @@ Test your knowledge of the college basketball tournament.
 
 ***
 
-## &nbsp;<img src="skills/B01EIQX6Y8/skill_icon" alt="TP-LINK Kasa icon" width="36"> [TP-LINK Kasa](skills/B01EIQX6Y8)
+## &nbsp;<img src="skills/null/skill_icon" alt="TP-LINK Kasa icon" width="36"> [TP-LINK Kasa](skills/null)
 
 *null*
 
@@ -9064,7 +9064,7 @@ A family friendly trivia quiz about the human body.
 
 *Alexa, ask UV Meter what is the UV index in Phoenix*
 
-Use UV Meter to get strength of sun’s UV rays in your city
+Use UV Meter to get strength of sun?s UV rays in your city
 
 ***
 
@@ -9076,7 +9076,7 @@ The Vectrex Wiki skill allows you to get information about the original Vectrex 
 
 ***
 
-## &nbsp;<img src="skills/B01FRIJRJY/skill_icon" alt="Venstar icon" width="36"> [Venstar](skills/B01FRIJRJY)
+## &nbsp;<img src="skills/null/skill_icon" alt="Venstar icon" width="36"> [Venstar](skills/null)
 
 *null*
 
@@ -9349,7 +9349,7 @@ Find the perfect wine for a type of food, or vice versa.
 
 ***
 
-## &nbsp;<img src="skills/B01EIQYF3E/skill_icon" alt="Wink icon" width="36"> [Wink](skills/B01EIQYF3E)
+## &nbsp;<img src="skills/null/skill_icon" alt="Wink icon" width="36"> [Wink](skills/null)
 
 *null*
 
@@ -9493,11 +9493,11 @@ Yoga Trainer
 
 ***
 
-## &nbsp;<img src="skills/B01E7TYGFO/skill_icon" alt="Yonomi icon" width="36"> [Yonomi](skills/B01E7TYGFO)
+## &nbsp;<img src="skills/null/skill_icon" alt="Yonomi icon" width="36"> [Yonomi](skills/null)
 
 *null*
 
-Yonomi connects all of your devices under one roof for free – including Sonos, Logitech Harmony, Hue and more. Control all of your devices with just your voice!
+Yonomi connects all of your devices under one roof for free ? including Sonos, Logitech Harmony, Hue and more. Control all of your devices with just your voice!
 
 ***
 

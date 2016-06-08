@@ -22,35 +22,35 @@ Once the match is set up, strap a Voice Remote for Amazon Echo to one of the pla
 No wifi at the tennis club? Just use your phone as a hotspot. Need a battery for your Echo? Find them on Amazon. Stuck and need some help? More info up at www.TennisMatchManager.com.
 
 Basic things you can say to get started: 
- “Start a match”	
-“Register a new player”
-To give a point to a player, say “point red”, or “point blue”.
-“Tell me more things I can say”	
+ ?Start a match?	
+?Register a new player?
+To give a point to a player, say ?point red?, or ?point blue?.
+?Tell me more things I can say?	
 		
 Examples of more things you can say:
-“What's the score?”
-“Give me a summary of the match” (provides output to the Alexa app as well as verbal)
-“What's the set score?”
-“Who's serve is it?”
-“Tell me some shortcuts”
-“Tell me ways to change the match”
+?What's the score??
+?Give me a summary of the match? (provides output to the Alexa app as well as verbal)
+?What's the set score??
+?Who's serve is it??
+?Tell me some shortcuts?
+?Tell me ways to change the match?
 
 Examples of ways that you can manually override and control the flow of the match:
-“Play with no add scoring”
-“Don't switch sides”
-“Change to blue team serve”	
-“Change the set score”
-“Blue team won the game”
-“Start a new game”
-“Start a new set”	
- If the score gets posted incorrectly, just say what the score should be. For example, say “30 All”
+?Play with no add scoring?
+?Don't switch sides?
+?Change to blue team serve?	
+?Change the set score?
+?Blue team won the game?
+?Start a new game?
+?Start a new set?	
+ If the score gets posted incorrectly, just say what the score should be. For example, say ?30 All?
 		
 Examples of combining information that will save time:
-“Start a doubles match with blue serve”
-“Add 206-867-5309 to the red team”
-“Register 425-867-5309”
+?Start a doubles match with blue serve?
+?Add 206-867-5309 to the red team?
+?Register 425-867-5309?
 
-You can always say “stop”, “cancel” or “exit”.
+You can always say ?stop?, ?cancel? or ?exit?.
 
 ***
 

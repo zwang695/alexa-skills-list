@@ -9,7 +9,7 @@ To use the Motivate Me - By SexyHackers.com skill, try saying...
 
 * *Alexa, ask motivate me for an inspiring quote*
 
-Just say “Alexa, motivate me,” and she will randomly read a motivational quote from our database.  If Alexa can locate the actual audio snippet of the author of the quote on YouTube, she will even play the original sound bite for you instead of reading it.  
+Just say ?Alexa, motivate me,? and she will randomly read a motivational quote from our database.  If Alexa can locate the actual audio snippet of the author of the quote on YouTube, she will even play the original sound bite for you instead of reading it.  
 
 Designed for entrepreneurs, software developers, business professionals, or people who need a little inspiration to start their day.  So get motivated and make today the day your dreams come true!  
 

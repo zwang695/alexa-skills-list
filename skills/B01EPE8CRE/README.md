@@ -5,11 +5,11 @@ To use the NewsCom skill, try saying...
 
 * *Alexa, Open NewsCom*
 
-The NewsCom skill for Amazon Alexa is for users of Quipp System's NewsCom® Inserter Control system. This skill allows Alexa to report the current state of your factory NewsCom® systems.  You may request your login credentials from the NewsCom® Software Support Team. 
+The NewsCom skill for Amazon Alexa is for users of Quipp System's NewsCom? Inserter Control system. This skill allows Alexa to report the current state of your factory NewsCom? systems.  You may request your login credentials from the NewsCom? Software Support Team. 
 
-Not all NewsCom® systems have been configured to use this service.  Contact your NewsCom® Software Support Team for more information.
+Not all NewsCom? systems have been configured to use this service.  Contact your NewsCom? Software Support Team for more information.
 
-NewsCom® is a registered trademark currently owned by the Signode Industrial Group LLC. and is not associated with the newscom.com website or related company.
+NewsCom? is a registered trademark currently owned by the Signode Industrial Group LLC. and is not associated with the newscom.com website or related company.
 
 ***
 

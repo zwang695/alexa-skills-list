@@ -11,7 +11,7 @@ To use the Redbird Games skill, try saying...
 
 Prove you're really part of Cardinal Nation and take the quiz!
 
-"What odd occurrence ended rookie outfielder Vince Coleman’s season in 1985 before Game 4 of the National League Championship Series?"
+"What odd occurrence ended rookie outfielder Vince Coleman?s season in 1985 before Game 4 of the National League Championship Series?"
 "Which Cardinal was known to have launched a foul ball out of the stadium?"
 
 ***

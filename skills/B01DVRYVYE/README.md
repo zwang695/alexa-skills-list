@@ -12,7 +12,7 @@ To use the Next Train for Caltrain skill, try saying...
 Next Train for Caltrain skill.
 
 Never miss the next train again!
-Just ask Alexa when is the next train and that’s all!
+Just ask Alexa when is the next train and that?s all!
 
 ***
 

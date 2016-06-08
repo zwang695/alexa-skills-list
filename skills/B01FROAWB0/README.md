@@ -9,7 +9,7 @@ To use the Washington State Ferry skill, try saying...
 
 * *When is the last ferry from Anacortes to Friday Harbor tomorrow?*
 
-Don’t miss the boat! Get the next departure times for any route in the Washington State Ferry system. If you can’t make it, ask for the ferry after that. You can also get information about remaining spaces, and the last scheduled ferry for the day. You can always say Help to find out more about what Washington State Ferry can do or Goodbye to end a session.
+Don?t miss the boat! Get the next departure times for any route in the Washington State Ferry system. If you can?t make it, ask for the ferry after that. You can also get information about remaining spaces, and the last scheduled ferry for the day. You can always say Help to find out more about what Washington State Ferry can do or Goodbye to end a session.
 
 ***
 

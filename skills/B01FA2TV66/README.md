@@ -9,7 +9,7 @@ To use the simplehuman sensor mirror pro skill, try saying...
 
 * *Alexa, ask sensor mirror to set the timer to 5 minutes*
 
-You can ask Alexa to control several of the sensor mirror pro’s features such as mirror brightness, lighting presets, changing color temperature or setting a timer. To get started, you must have a sensor mirror pro and a simplehuman app account.
+You can ask Alexa to control several of the sensor mirror pro?s features such as mirror brightness, lighting presets, changing color temperature or setting a timer. To get started, you must have a sensor mirror pro and a simplehuman app account.
 
 ***
 

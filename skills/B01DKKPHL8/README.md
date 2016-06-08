@@ -9,18 +9,18 @@ To use the Sounds skill, try saying...
 
 * *Alexa ask sound effects, to blow us a raspberry*
 
-Sound Effects provides a sound effect for a variety of occasions! Did a friend just tell a funny joke? Ask for an applause. If the joke wasn’t funny? Boo or slow clap them into silence. 
-Is a family member looking for sympathy? Play the world’s smallest violin.
+Sound Effects provides a sound effect for a variety of occasions! Did a friend just tell a funny joke? Ask for an applause. If the joke wasn?t funny? Boo or slow clap them into silence. 
+Is a family member looking for sympathy? Play the world?s smallest violin.
 
 To use the Sound Effects try saying phrases like:
 
-“Alexa ask sound effects to play a drumroll”
+?Alexa ask sound effects to play a drumroll?
 
-“Alexa ask sound effects to add suspense to this situation.”
+?Alexa ask sound effects to add suspense to this situation.?
 
-“Alexa ask sound effects for an air horn.”
+?Alexa ask sound effects for an air horn.?
 
-We’d love to hear your thoughts and please add a comment in the review section  for any sound effect suggestions you’d like us to include, we’ll choose the top choices for our next update!
+We?d love to hear your thoughts and please add a comment in the review section  for any sound effect suggestions you?d like us to include, we?ll choose the top choices for our next update!
 
 ***
 

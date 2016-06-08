@@ -9,7 +9,7 @@ To use the Butterfleye skill, try saying...
 
 * *Alexa, ask Butterfly Demo, to get the events from 3rd January, 2016?*
 
-The Butterfleye app gives you access to the world’s smartest camera. Unlike all other security cameras, Butterfleye only records when it needs to!
+The Butterfleye app gives you access to the world?s smartest camera. Unlike all other security cameras, Butterfleye only records when it needs to!
  
 Only Butterfleye combines superior on-board analytics, and processing power to deliver notifications you want. With this technology you can say goodbye to annoying false alarms such as, change in lighting conditions, objects moving in the background (cars on a busy street), or even wind blowing through your living room.
  

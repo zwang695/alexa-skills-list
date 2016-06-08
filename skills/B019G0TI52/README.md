@@ -3,13 +3,13 @@
 
 To use the Star Wars Quiz skill, try saying...
 
-* *“Alexa, Start Star Wars Quiz"*
+* *?Alexa, Start Star Wars Quiz"*
 
-* *“Alexa, Launch Star Wars Quiz”*
+* *?Alexa, Launch Star Wars Quiz?*
 
-* *“Alexa, Open Star Wars Quiz”*
+* *?Alexa, Open Star Wars Quiz?*
 
-Guests have the ability to answer trivia questions from the Star Wars universe by asking Alexa to “Start Star Wars Quiz” Guests will answer 5 multiple choice questions by responding with the number that corresponds with the correct answer. For example, for the question, "What color is Darth Vader’s lightsaber?” One, Red. Two, Green. Three, Blue. Four, Purple. The correct answer would be “One”. At the end of each game guests will be given a score to see how well they did.
+Guests have the ability to answer trivia questions from the Star Wars universe by asking Alexa to ?Start Star Wars Quiz? Guests will answer 5 multiple choice questions by responding with the number that corresponds with the correct answer. For example, for the question, "What color is Darth Vader?s lightsaber?? One, Red. Two, Green. Three, Blue. Four, Purple. The correct answer would be ?One?. At the end of each game guests will be given a score to see how well they did.
 
 ***
 

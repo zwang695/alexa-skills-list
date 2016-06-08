@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="WorldTrivia icon" width="36"> [WorldTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f1907f17-4489-4413-a5ac-db8f79cab794)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the WorldTrivia skill, try saying...
 

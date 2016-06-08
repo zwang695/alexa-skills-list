@@ -9,9 +9,9 @@ To use the Syfy skill, try saying...
 
 * *Alexa, ask Syfy what happens in the next episode of 12 Monkeys?*
 
-Syfy gives Alexa all the information she needs to connect you with your favorite Syfy Shows. Want to know what happened on a recent episode? Curious about what’s going to happen next? When can you watch it live? Alexa knows the answers, so you’ll always be up to date.
+Syfy gives Alexa all the information she needs to connect you with your favorite Syfy Shows. Want to know what happened on a recent episode? Curious about what?s going to happen next? When can you watch it live? Alexa knows the answers, so you?ll always be up to date.
 
-PS. See if you can find some Easter Eggs hidden within Alexa’s memory bank.
+PS. See if you can find some Easter Eggs hidden within Alexa?s memory bank.
 
 ***
 

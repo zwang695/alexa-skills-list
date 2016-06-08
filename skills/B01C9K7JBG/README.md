@@ -9,7 +9,7 @@ To use the Geek Trivia skill, try saying...
 
 * *Start new game*
 
-To start playing Geek Trivia just say “Alexa, ask a geek.”  Alexa will ask you a series of 5 questions per game about some famous movies or TV shows which are all geek related, just choose the best answer out of 4 possible answers.  If you’d like to continue playing to test your geek wisdom play as often as you like by simply asking Alexa “new game” and have fun.
+To start playing Geek Trivia just say ?Alexa, ask a geek.?  Alexa will ask you a series of 5 questions per game about some famous movies or TV shows which are all geek related, just choose the best answer out of 4 possible answers.  If you?d like to continue playing to test your geek wisdom play as often as you like by simply asking Alexa ?new game? and have fun.
 
 ***
 

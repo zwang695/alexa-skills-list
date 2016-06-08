@@ -9,7 +9,7 @@ To use the SwampTrivia skill, try saying...
 
 * *My answer is four.*
 
-To start playing Swamp Trivia just say “Alexa, play Swamp Trivia.” Alexa will ask you five questions per game, all of which will be related to the Swamp audio game. Just choose the best answer out of four possible answers. Come back to play as often as you like; Alexa will give you five random questions each time you play. Enjoy!
+To start playing Swamp Trivia just say ?Alexa, play Swamp Trivia.? Alexa will ask you five questions per game, all of which will be related to the Swamp audio game. Just choose the best answer out of four possible answers. Come back to play as often as you like; Alexa will give you five random questions each time you play. Enjoy!
 
 ***
 

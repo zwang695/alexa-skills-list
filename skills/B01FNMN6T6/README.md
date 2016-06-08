@@ -9,7 +9,7 @@ To use the Football Buddy skill, try saying...
 
 * *What's the field goal*
 
-Football fans have their own language when they talk about the game. To keep up, it’s useful to know what terms like down, extra point, safety, and snap mean. This skill will help you learn about those terms and help you understand the game. For example, just say "Alexa, ask football buddy about touchdown" and it will tell you what does touchdown mean.
+Football fans have their own language when they talk about the game. To keep up, it?s useful to know what terms like down, extra point, safety, and snap mean. This skill will help you learn about those terms and help you understand the game. For example, just say "Alexa, ask football buddy about touchdown" and it will tell you what does touchdown mean.
 
 ***
 

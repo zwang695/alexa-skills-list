@@ -9,7 +9,7 @@ To use the ELLE Horoscopes by The Astro Twins skill, try saying...
 
 * *Alexa, ask Horoscope what do the stars say?*
 
-Get your daily horoscopes from ELLE + The Astro Twins. Dubbed "astrologists for the stars," identical twin sisters known as The AstroTwins—are professional astrologers whose sisterly style and spot-on predictions have made them popular gurus for astrological devotees of all stripes. Tali and Ophira have done personal readings for dozens of celebrities, including Beyonce, Stevie Wonder, Sting, Leann Rimes, and Avril Lavigne.
+Get your daily horoscopes from ELLE + The Astro Twins. Dubbed "astrologists for the stars," identical twin sisters known as The AstroTwins?are professional astrologers whose sisterly style and spot-on predictions have made them popular gurus for astrological devotees of all stripes. Tali and Ophira have done personal readings for dozens of celebrities, including Beyonce, Stevie Wonder, Sting, Leann Rimes, and Avril Lavigne.
 
 ***
 

@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Amazon’s Skill Finder is a new way to easily discover Alexa’s newest and top skills. The first step is to enable the skill. Then, this skill works by saying “Alexa, Open Skill Finder”.  Alexa will tell you about the new Skill of the Day. Alexa can also tell you about the newest skills and the top skills in our Alexa catalog. You can also ask for help anytime.\n\nHere’s some of the ways you can use the skill -\n \nDiscover a new Skill each day:\nAlexa, ask Skill Finder what the Skill of the Day is?\n \nFind out about the Newest Skills in the Alexa Catalog:\nAlexa, ask Skill Finder what’s new?\n \nFind out about the Top Skills in the Alexa Catalog:\nAlexa, tell Skill Finder to give me top skills\n \nLearn about different Alexa Categories:\nAlexa, tell Skill Finder to list categories\n \nLearn about Newest skills in Categories:\nAlexa, ask Skill Finder what are the newest skills in the education category\n \nLearn about Top skills in Categories:\nAlexa, ask Skill Finder what are the top skills in the games category\n \n \nYou can also get more information about a particular skill. After listening to a list of skills, you can say “tell me more about number 2” to hear more information about the second skill you heard.",
+  "description": "Amazon?s Skill Finder is a new way to easily discover Alexa?s newest and top skills. The first step is to enable the skill. Then, this skill works by saying ?Alexa, Open Skill Finder?.  Alexa will tell you about the new Skill of the Day. Alexa can also tell you about the newest skills and the top skills in our Alexa catalog. You can also ask for help anytime.\n\nHere?s some of the ways you can use the skill -\n \nDiscover a new Skill each day:\nAlexa, ask Skill Finder what the Skill of the Day is?\n \nFind out about the Newest Skills in the Alexa Catalog:\nAlexa, ask Skill Finder what?s new?\n \nFind out about the Top Skills in the Alexa Catalog:\nAlexa, tell Skill Finder to give me top skills\n \nLearn about different Alexa Categories:\nAlexa, tell Skill Finder to list categories\n \nLearn about Newest skills in Categories:\nAlexa, ask Skill Finder what are the newest skills in the education category\n \nLearn about Top skills in Categories:\nAlexa, ask Skill Finder what are the top skills in the games category\n \n \nYou can also get more information about a particular skill. After listening to a list of skills, you can say ?tell me more about number 2? to hear more information about the second skill you heard.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, Open Skill Finder",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Amazon’s Skill Finder is a new way to discover Alexa skills. Open Skill Finder and learn about the skill of the day, the newest skills, and the top skills.",
+  "shortDescription": "Amazon?s Skill Finder is a new way to discover Alexa skills. Open Skill Finder and learn about the skill of the day, the newest skills, and the top skills.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

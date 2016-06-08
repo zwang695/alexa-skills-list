@@ -17,8 +17,8 @@ Gratitude Power for Runners and Walkers is an Alexa skill based on the SpryFeet.
 
 Go to http://www.spryfeet.com/books/gratitudepower/ to learn more.
 
-Copyright © 2016 Kirk Mahoney, Ph.D. All rights reserved.
-Icon graphic © Dejan Jovanovic - Fotolia.com.
+Copyright ? 2016 Kirk Mahoney, Ph.D. All rights reserved.
+Icon graphic ? Dejan Jovanovic - Fotolia.com.
 
 ***
 

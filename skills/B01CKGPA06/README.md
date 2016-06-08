@@ -9,7 +9,7 @@ To use the Muzzley skill, try saying...
 
 * *Alexa, ask Muzzley to change the Bedroom light blue.*
 
-Muzzley is an app that helps you create and enjoy your smart home. Connect your smart devices in the Muzzley app, and use Alexa to control them with your voice. Just make sure you say: “Alexa, ask Muzzley to” followed by the request.
+Muzzley is an app that helps you create and enjoy your smart home. Connect your smart devices in the Muzzley app, and use Alexa to control them with your voice. Just make sure you say: ?Alexa, ask Muzzley to? followed by the request.
 
 To get started, download Muzzley on your iOS or Android smartphone/tablet and create a Muzzley account. Then, add all your devices to it. Say "Alexa, start Muzzley", and you're ready to go.
 

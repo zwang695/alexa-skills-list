@@ -12,7 +12,7 @@ To use the Scryb skill, try saying...
 Scryb makes it easy for anyone to send a SMS text message hands-free from home, or when you don't have access to a smartphone.
 
 To start using the Scryb skill, say:
-"Alexa, open Scryb."  (pronounce it like the word ‘scribe’)
+"Alexa, open Scryb."  (pronounce it like the word ?scribe?)
 Alexa will then ask you for the phone number of the text recipient.
 
 Then tell Alexa the 10 digit phone number - example: "123-555-1212"

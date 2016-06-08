@@ -8,7 +8,7 @@
   "description": "The Huffington Post is a Pulitzer Prize-winning source of breaking news, features, and entertainment, as well as a highly engaged community for opinion and conversation. The site has 100,000 bloggers -- from politicians, students and celebrities to academics, parents and policy experts -- who contribute in real-time on the subjects about which they are most passionate. The Huffington Post has editions in the UK, Canada, France, Spain, Italy, Japan, Maghreb, Germany, Brazil, South Korea, Greece, India, Australia and the Arab world.",
   "enablement": null,
   "exampleInteractions": [
-    "\"Alexa, open HuffPost” (To hear latest news headlines for today)",
+    "\"Alexa, open HuffPost? (To hear latest news headlines for today)",
     "\"Alexa, ask HuffPost for the news\"",
     "\"Stop, End or Cancel\" (To end the session)"
   ],

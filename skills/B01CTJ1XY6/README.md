@@ -13,12 +13,12 @@ Have a Capital One credit card, checking, or savings account--or even better, al
 
 Once you've enabled it, say "Alexa ask Capital One..."
 
-·        What’s my current credit card balance? 
-·        How much available credit do I have?
-·        How much money do I have in checking? 
-·        When is my credit card bill due?
-·        What are my recent transactions?
-·        What's my overall account summary?
+?        What?s my current credit card balance? 
+?        How much available credit do I have?
+?        How much money do I have in checking? 
+?        When is my credit card bill due?
+?        What are my recent transactions?
+?        What's my overall account summary?
 
 Heads-up, to get started, you'll sign in with your Capital One username and password (which we keep completely private) and create a personal key for extra security. 
 

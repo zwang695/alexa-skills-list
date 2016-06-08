@@ -9,9 +9,9 @@ To use the Ask My Buddy skill, try saying...
 
 * *Alexa, ask My Buddy to alert everyone.*
 
-If you have fallen, or need help, Ask My Buddy is designed to let you immediately alert friends and family that you have an urgent need.  Simply say, 'Alexa, Ask My Buddy to alert everyone', and Ask My Buddy will send an alert to everyone on your list, notifying them to check on you right away.  Alerts will be sent by text message / SMS, an email, and even a voice telephone call.  
+If you have fallen, or need help, Ask My Buddy is designed to let you immediately alert friends and family that you have an urgent need. ?Simply say, 'Alexa, Ask My Buddy to alert everyone', and Ask My Buddy will send an alert to everyone on your list, notifying them to check on you right away. ?Alerts will be sent by text message / SMS, an email, and even a voice telephone call. ?
 
-Adding friends and family to your contacts is easy.  Once you link Alexa with the Ask My Buddy skill, select to Register, then add the names and information for those you would like contacted in the event of an emergency.  That's it!  Ask My Buddy is there for you.
+Adding friends and family to your contacts is easy. ?Once you link Alexa with the Ask My Buddy skill, select to Register, then add the names and information for those you would like contacted in the event of an emergency. ?That's it! ?Ask My Buddy is there for you.
 
 ***
 

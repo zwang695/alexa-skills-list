@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Education",
-  "description": "To use Times Table, try saying...\nAlexa, Open Times Table\nAlexa says times table math problem and you need to say the correct answer. For example, Alexa says \"six times three\". The correct response is \"eighteen\". You get three chances to give the correct answer for each math problem. The game continues until you stop the game.\nYou can ask for help by saying “help”, get a new math problem by saying “new”, or stop the game by saying “stop” or \"cancel\" to end your game.\nIf you fail to respond in time, that's ok. Just re-open Times Table and it picks up where you left off.",
+  "description": "To use Times Table, try saying...\nAlexa, Open Times Table\nAlexa says times table math problem and you need to say the correct answer. For example, Alexa says \"six times three\". The correct response is \"eighteen\". You get three chances to give the correct answer for each math problem. The game continues until you stop the game.\nYou can ask for help by saying ?help?, get a new math problem by saying ?new?, or stop the game by saying ?stop? or \"cancel\" to end your game.\nIf you fail to respond in time, that's ok. Just re-open Times Table and it picks up where you left off.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open times table",

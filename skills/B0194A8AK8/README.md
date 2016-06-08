@@ -11,7 +11,7 @@ To use the Buddy for Destiny skill, try saying...
 
 Buddy for Destiny provides useful information like Xur inventory and weekly activities to destiny players
 
-Xûr, Agent of the Nine is a vendor who sells exotic weapons, exotic armor, engrams, and consumables in exchange for Strange Coins and Motes of Light. He appears in different locations in the Tower and Vestian Outpost every weekend from 9:00 AM Friday to 9:00 AM Sunday UTC.  You can say,                                                                                                  
+X?r, Agent of the Nine is a vendor who sells exotic weapons, exotic armor, engrams, and consumables in exchange for Strange Coins and Motes of Light. He appears in different locations in the Tower and Vestian Outpost every weekend from 9:00 AM Friday to 9:00 AM Sunday UTC.  You can say,                                                                                                  
 -"Alexa, ask my ghost what's Xur selling";                                                                                
 -"Alexa, ask my ghost for Xur inventory";
 

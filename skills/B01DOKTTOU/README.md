@@ -9,7 +9,7 @@ To use the VoicePod skill, try saying...
 
 * *Run the good night scene*
 
-Control your high-end Control4 home automation system using your Echo!  The VoicePod Alexa skill supports a range of voice commands for controlling lights, scenes, doors, thermostats, shades, security, AV equipment and more.   Just ask Alexa to tell VoicePod to “turn on the bedroom lights" or "Set the temperature to 72 degrees in the family room" and VoicePod's cloud server interprets and relays your request to your home’s control system.   This skill requires dealer installation of a Amazon Echo driver for your system.   Contact your home automation dealer for more information.
+Control your high-end Control4 home automation system using your Echo!  The VoicePod Alexa skill supports a range of voice commands for controlling lights, scenes, doors, thermostats, shades, security, AV equipment and more.   Just ask Alexa to tell VoicePod to ?turn on the bedroom lights" or "Set the temperature to 72 degrees in the family room" and VoicePod's cloud server interprets and relays your request to your home?s control system.   This skill requires dealer installation of a Amazon Echo driver for your system.   Contact your home automation dealer for more information.
 
 ***
 

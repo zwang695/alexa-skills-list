@@ -45,10 +45,10 @@ PLAYLISTS:
 CONTROLS:
 "Pause" / "Stop the music"
 "Resume" - continues playback.
-"Next song/next track/skip this/next/thumbs down”
+"Next song/next track/skip this/next/thumbs down?
 "Previous"/ "Go back"
 "Change the / set the volume to [1-10]"
-"Volume up / down / louder / quieter”
+"Volume up / down / louder / quieter?
 
 
 QUERIES:

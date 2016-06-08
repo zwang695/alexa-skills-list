@@ -9,9 +9,9 @@ To use the Zoo Walk skill, try saying...
 
 * *Help*
 
-“Cock-a-doodle-doo” - which animal does make that sound? Listen alone or with friends to real animal sounds and guess the corresponding animal. With each correct guess, you advance to the next, harder level and earn a title! Will you be the first to master all ten levels?
+?Cock-a-doodle-doo? - which animal does make that sound? Listen alone or with friends to real animal sounds and guess the corresponding animal. With each correct guess, you advance to the next, harder level and earn a title! Will you be the first to master all ten levels?
 
-To launch this quiz, say “Start zoo walk”. During the game, you can say "Repeat" or "Stop". For further assistance, say "Help".
+To launch this quiz, say ?Start zoo walk?. During the game, you can say "Repeat" or "Stop". For further assistance, say "Help".
 
 ***
 

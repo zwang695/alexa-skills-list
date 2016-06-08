@@ -9,7 +9,7 @@ To use the CheerLights skill, try saying...
 
 * *Alexa ask cheer lights how does the world feel?*
 
-CheerLights is an “Internet of Things” project created by Hans Scharler that allows people’s lights all across the world to synchronize to one color set by Twitter. This is a way to connect physical things with social networking experiences.
+CheerLights is an ?Internet of Things? project created by Hans Scharler that allows people?s lights all across the world to synchronize to one color set by Twitter. This is a way to connect physical things with social networking experiences.
 
 Find out how the world feels right now...
 

@@ -12,7 +12,7 @@ To use the Times Table skill, try saying...
 To use Times Table, try saying...
 Alexa, Open Times Table
 Alexa says times table math problem and you need to say the correct answer. For example, Alexa says "six times three". The correct response is "eighteen". You get three chances to give the correct answer for each math problem. The game continues until you stop the game.
-You can ask for help by saying “help”, get a new math problem by saying “new”, or stop the game by saying “stop” or "cancel" to end your game.
+You can ask for help by saying ?help?, get a new math problem by saying ?new?, or stop the game by saying ?stop? or "cancel" to end your game.
 If you fail to respond in time, that's ok. Just re-open Times Table and it picks up where you left off.
 
 ***

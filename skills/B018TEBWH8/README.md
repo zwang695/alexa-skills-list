@@ -26,7 +26,7 @@ You can now
 	Ask The Rabbi for Shabbos times in 2 weeks (or any future date ie: in 3 weeks or 2 months from now, etc)
 	Ask The Rabbi when is Rosh Chodesh (New Month)
 	Ask The Rabbi for the next Holiday (Yontiff, Chag, Yom Tov)
-	Ask The Rabbi for the Yom ("Hayom Yom" The Lubavitcher Rebbe’s Daily Calendar Thoughts)
+	Ask The Rabbi for the Yom ("Hayom Yom" The Lubavitcher Rebbe?s Daily Calendar Thoughts)
 
 NEW FOR THIS PESACH!
 	"Alexa, ask The Rabbi to sell my Chometz"
@@ -42,7 +42,7 @@ Version 1.1.0 added the Hebrew/Jewish date feature and all cities now function.
 More features to come, we'd appreciate your suggestions: torah4elli@gmail.com
 
 Credits:
-Created by and developed in partnership with Elli Meyer and Brad Napoliello 
+Created by and developed in partnership with Elli Meyer and Brad Napoliello?
 Powered by Chabad.org
 
 ***
