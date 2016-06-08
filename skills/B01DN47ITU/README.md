@@ -19,6 +19,6 @@ SCUBA trivia. Helps users learn facts about SCUBA Diving. Fact filled, fun, and 
 * **Category:** Entertainment
 * **ID:** amzn1.echo-sdk-ams.app.7fdb7e87-c8a7-4ef1-b4f7-434c08ce7993
 * **ASIN:** B01DN47ITU
-* **Author:** AWS
+* **Author:** Wes Gruver
 * **Release Date:** April 4, 2016 @ 03:32:26
 * **In-App Purchasing:** No

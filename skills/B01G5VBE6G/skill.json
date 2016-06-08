@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "butteryapp.com"
+  ],
+  "asin": "B01G5VBE6G",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Lifestyle",
+  "description": "Introducing Buttery - Your favorite beers, wines and spirits, delivered on-demand!\n\nAsk Alexa to order fine wines, spirits and beers on Buttery and get them delivered in less than 60 mins. Alexa will tell you details of your most recent order and even re-order it for you.\n\nTo get started, just say \"Alexa, open Buttery\".\n\nTo place an order with Alexa, you'll need a Buttery account and should have at least one order placed using the web or the Buttery mobile app. \n\nIf you don't have a Buttery account, you can create one on www.butteryapp.com or on the Buttery mobile app. Browse your favorite local liquor store on your iPhone, iPad or on the web and place an order with just a few taps. Whether it is ordering craft beer for a friend, fine wines for a party or a rare bourbon for a special occasion, simply find them on Buttery.\n\nFUN FACT:\nButtery is named after the expansive caverns beneath the homes of nobles; filled with fine wines, superb spirits and bold brews. Now get your own Buttery - right on your phone or on Alexa!\n\nDisclaimer - You must be atleast 21 years old to use the Buttery skill. A valid ID will be required upon delivery to receive the order.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Buttery",
+    "Alexa, ask Buttery to get beer for everyone",
+    "Alexa, ask Buttery to order wine for everyone"
+  ],
+  "firstReleaseDate": 1465340918.137,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.08b4b620-6592-4d8d-b5c6-e2e8e4ad04be",
+  "imageAltText": "Buttery - Beer, Wine & Liquor Delivery icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01G5VBE6G/skill_icon",
+  "inAppPurchasingSupported": true,
+  "launchPhrase": "buttery",
+  "name": "Buttery - Beer, Wine & Liquor Delivery",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "JsxWrz8EKPFu3vxy9iU8Sjco2",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.butteryapp.com/privacy",
+  "shortDescription": "Craft beer, wine & spirits delivered to you in 60 mins or less.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.butteryapp.com/terms/",
+  "vendorId": "M1RN7AMZN81KAF",
+  "vendorName": "Buttery"
+}

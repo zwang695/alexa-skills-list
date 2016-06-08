@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1174
+**Total Skills Available:** 1175
 
 ***
 
@@ -1374,6 +1374,14 @@ https://en.wikipedia.org/wiki/Bulls_and_Cows
 *Alexa, ask Butterfly Demo for events from today.*
 
 Gives you the events Butterfleye demo camera has on a particular day. For example you can ask: "Alexa, ask Butterfly Demo for events from today".
+
+***
+
+## &nbsp;<img src="skills/B01G5VBE6G/skill_icon" alt="Buttery - Beer, Wine & Liquor Delivery icon" width="36"> [Buttery - Beer, Wine & Liquor Delivery](skills/B01G5VBE6G)
+
+*Alexa, open Buttery*
+
+Craft beer, wine & spirits delivered to you in 60 mins or less.
 
 ***
 

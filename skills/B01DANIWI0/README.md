@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Blumoo icon" width="36"> [Blumoo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.025a7013-264d-49af-a249-1239c904fcac)
-![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Blumoo skill, try saying...
 

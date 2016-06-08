@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Motivate Me - By SexyHackers.com icon" width="36"> [Motivate Me - By SexyHackers.com](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3ecfceda-950d-4673-82f6-25d038344f68)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Motivate Me - By SexyHackers.com skill, try saying...
 
