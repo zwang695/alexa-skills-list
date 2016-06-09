@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1201
+**Total Skills Available:** 1210
 
 ***
 
@@ -752,6 +752,14 @@ Baby trivia!
 
 ***
 
+## &nbsp;<img src="skills/B01GSVGEAY/skill_icon" alt="Bacon Trivia icon" width="36"> [Bacon Trivia](skills/B01GSVGEAY)
+
+*Alexa, it's bacon time*
+
+A few trivia questions about man's favorite meal: the bacon
+
+***
+
 ## &nbsp;<img src="skills/B01GQZF1BK/skill_icon" alt="Banana Anna icon" width="36"> [Banana Anna](skills/B01GQZF1BK)
 
 *Alexa, ask Banana Anna to tell me a fact*
@@ -1338,7 +1346,7 @@ Control your Brain of Things enabled home.
 
 ## &nbsp;<img src="skills/B01FWETQUI/skill_icon" alt="BrickBot icon" width="36"> [BrickBot](skills/B01FWETQUI)
 
-*Alexa, ask Brick Bot to get available sets in twenty sixteen*
+*Alexa, ask BrickBot to get available sets in twenty sixteen*
 
 Crazy about collecting LEGO? sets? Get the latest updates on available sets, set details, themes, and sub-theme from Brick Bot. Try it out now!
 
@@ -1921,6 +1929,14 @@ Generate a code phrase for your next top secret project!
 
 ***
 
+## &nbsp;<img src="skills/B01G0XQKYK/skill_icon" alt="CodeBreaker icon" width="36"> [CodeBreaker](skills/B01G0XQKYK)
+
+*Alexa ask CodeBreaker to start a new game*
+
+Guess a four digit number in the fewest attempts
+
+***
+
 ## &nbsp;<img src="skills/B01FGY6GDE/skill_icon" alt="CodeCracker icon" width="36"> [CodeCracker](skills/B01FGY6GDE)
 
 *Alexa, ask Code Cracker for an easy code*
@@ -1990,6 +2006,14 @@ A tool for converting between color names and hex values.
 *Alexa, open combat and hit the dragon with my sword*
 
 The Combat skill will allow you to engage in any sort of conflict with entertaining results!
+
+***
+
+## &nbsp;<img src="skills/B01GSTMZ4U/skill_icon" alt="Combinations Calculator icon" width="36"> [Combinations Calculator](skills/B01GSTMZ4U)
+
+*Alexa, ask Combinations Calculator to calculate 20 choose 3.*
+
+Combinations Calculator will calculate the number of ways an unordered subset of items can be obtained from a larger collection.
 
 ***
 
@@ -3530,6 +3554,14 @@ Funny Quotes
 
 ***
 
+## &nbsp;<img src="skills/B01GMBUUEG/skill_icon" alt="Fuzzy Science Language icon" width="36"> [Fuzzy Science Language](skills/B01GMBUUEG)
+
+*Alexa, ask fuzzy science language to give me a phrase*
+
+Explain fuzzy language found in science and medicine.
+
+***
+
 ## &nbsp;<img src="skills/B019JLD4MG/skill_icon" alt="Game Dice icon" width="36"> [Game Dice](skills/B019JLD4MG)
 
 *Alexa, ask Game Dice to roll three ten siders*
@@ -3850,6 +3882,14 @@ Use Guitar Tuner to tune your guitar.
 
 ***
 
+## &nbsp;<img src="skills/B01FVZ4CHA/skill_icon" alt="H2O-Pal icon" width="36"> [H2O-Pal](skills/B01FVZ4CHA)
+
+*Alexa, ask H2O-Pal how much did I drink today.*
+
+The best way to track your water intake throughout the day. Works with companion H2O-Pal iPhone app and easily syncs with your H2O-Pal water bottle.
+
+***
+
 ## &nbsp;<img src="skills/B01BKVO2II/skill_icon" alt="Hacker News icon" width="36"> [Hacker News](skills/B01BKVO2II)
 
 *Alexa, open Hacker News,*
@@ -3983,6 +4023,14 @@ Listen to the headlines from TsaTsaTzu's RSS Feed
 *Alexa, ask server status to perform a health check*
 
 A voice-triggered status check for the PowerChord PC6 API.
+
+***
+
+## &nbsp;<img src="skills/B01GOCXJDM/skill_icon" alt="HealthBuddy icon" width="36"> [HealthBuddy](skills/B01GOCXJDM)
+
+*Alexa, ask HealthBuddy how to diagnose ebola*
+
+This Skill Set is for Ebola Virus Information.
 
 ***
 
@@ -5309,6 +5357,14 @@ Skill to learn more about Mixpo's business health.
 
 ***
 
+## &nbsp;<img src="skills/B01GRXHOIE/skill_icon" alt="MobileRobot Brain Test icon" width="36"> [MobileRobot Brain Test](skills/B01GRXHOIE)
+
+*Alexa, launch mobile robo brain*
+
+Mobile Robotics knowledge test
+
+***
+
 ## &nbsp;<img src="skills/B01BKSHOA4/skill_icon" alt="MobiLinc icon" width="36"> [MobiLinc](skills/B01BKSHOA4)
 
 *Alexa, tell moby link to turn my kitchen lights on*
@@ -5377,7 +5433,7 @@ Mosaic allows you to assemble devices and apps into workflows that suite your li
 
 *Alexa, motivate me*
 
-Start your day by saying.. ?Alexa, motivate me? and she will tell you an inspirational quote from a tech industry leader and send details to the companion app.
+Start your day by saying.. 'Alexa, motivate me' and she will tell you an inspirational quote from a tech industry leader and send details to the companion app.
 
 ***
 
@@ -8507,6 +8563,14 @@ Kasa is a simple way to manage your home from anywhere.
 
 ***
 
+## &nbsp;<img src="skills/B01GREDMY8/skill_icon" alt="Tr1v1@ G@m3 icon" width="36"> [Tr1v1@ G@m3](skills/B01GREDMY8)
+
+*Alexa, open fun trivia game*
+
+This is a game for your everyday average-Joe. There are just over 10 fun trivia questions to see how much you know about many facets of a variety of topics
+
+***
+
 ## &nbsp;<img src="skills/B01F9467IK/skill_icon" alt="Track by Nutritionix icon" width="36"> [Track by Nutritionix](skills/B01F9467IK)
 
 *Alexa, tell food tracker to log a glass of milk*
@@ -9057,6 +9121,14 @@ Studying for the citizenship test or just want to test your USA knowledge? This 
 
 The USA Today skill for the Amazon Echo 
 keeps you informed 24/7 with the latest USA TODAY headlines. Staying informed has never been this quick, easy, or enjoy
+
+***
+
+## &nbsp;<img src="skills/B01GN6OZIW/skill_icon" alt="USCapital icon" width="36"> [USCapital](skills/B01GN6OZIW)
+
+*Alexa ask check capital to start game*
+
+US states and capitals
 
 ***
 
