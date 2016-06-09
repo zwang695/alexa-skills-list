@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Mosaic icon" width="36"> [Mosaic](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2171d931-80f6-44cc-b702-3b35eed7e40c)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Mosaic skill, try saying...
 
