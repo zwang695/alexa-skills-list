@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1194
+**Total Skills Available:** 1201
 
 ***
 
@@ -50,14 +50,6 @@ Presidential Race give you up to date results on the current status of the 2016 
 *Alexa, open black jack*
 
 Compete with the dealer to score 21 points in this classic card game
-
-***
-
-## &nbsp;<img src="skills/B01B79Q5KQ/skill_icon" alt="21 Dayz icon" width="36"> [21 Dayz](skills/B01B79Q5KQ)
-
-*Alexa, start 21 Dayz*
-
-As the saying goes, it takes at least 21 days to build a habit. Use 21 Dayz to help guide you in your journey to developing new business or personal habits.
 
 ***
 
@@ -405,6 +397,14 @@ History Quiz
 *Alexa, launch ancient china facts*
 
 some facts on ancient China
+
+***
+
+## &nbsp;<img src="skills/B01GOODB3S/skill_icon" alt="Ancient Greek History Quiz icon" width="36"> [Ancient Greek History Quiz](skills/B01GOODB3S)
+
+*Alexa, launch Greek History Quiz*
+
+Let's not forget the Ancient Greeks
 
 ***
 
@@ -2523,6 +2523,14 @@ Draw a random card from a standard deck of 52 playing cards.
 
 ***
 
+## &nbsp;<img src="skills/B01GP0YLBC/skill_icon" alt="Deep Thoughts with Kanye West icon" width="36"> [Deep Thoughts with Kanye West](skills/B01GP0YLBC)
+
+*Alexa ask Yeezy Thoughts for a deep thought*
+
+Bringing the wisdom of Kanye West to the interwebs via Echo
+
+***
+
 ## &nbsp;<img src="skills/B018EVHE28/skill_icon" alt="Demotivate Me icon" width="36"> [Demotivate Me](skills/B018EVHE28)
 
 *Alexa, open demotivate*
@@ -2552,6 +2560,14 @@ Get a fact about DeVito and his surroundings at his workplace.
 *Alexa, start dex trivia*
 
 Are you a Pokemon Master?  Find out in the toughest Pokemon trivia game yet!
+
+***
+
+## &nbsp;<img src="skills/B01FYRBTTY/skill_icon" alt="DiabetesInfo icon" width="36"> [DiabetesInfo](skills/B01FYRBTTY)
+
+*Alexa launch diabetes information*
+
+Diabetes Info
 
 ***
 
@@ -2948,6 +2964,14 @@ Ethereum price ticker for Amazon Echo
 
 ***
 
+## &nbsp;<img src="skills/B01G4GYZHW/skill_icon" alt="Euro Soccer icon" width="36"> [Euro Soccer](skills/B01G4GYZHW)
+
+*Alexa, ask Euro Soccer to list all the teams*
+
+Be informed about Euro Football Cup 2016! ask "who are the teams"
+
+***
+
 ## &nbsp;<img src="skills/B01DSAJXXS/skill_icon" alt="europe knowledge icon" width="36"> [europe knowledge](skills/B01DSAJXXS)
 
 *Alexa, launch europe knowledge*
@@ -3038,6 +3062,14 @@ The Northeastern Fact skill will share interesting fact about Northeastern Unive
 
 ***
 
+## &nbsp;<img src="skills/B01GPGN9HI/skill_icon" alt="Facts for the Coast Guard icon" width="36"> [Facts for the Coast Guard](skills/B01GPGN9HI)
+
+*Alexa, Launch Coast Guard facts*
+
+This skill provides the user with facts about the Coast Guard, our smallest and fifth branch of the U.S. military.
+
+***
+
 ## &nbsp;<img src="skills/B01E5LR64M/skill_icon" alt="Facts for The White House icon" width="36"> [Facts for The White House](skills/B01E5LR64M)
 
 *Alexa, Ask White house facts to tell me a fact*
@@ -3091,6 +3123,14 @@ Simple skill that reads you famous quotes from history and movies.
 *Alexa ask Steve Jobs Quotes to inspire me*
 
 Fan-built skill to get a famous quote by Steve Jobs.
+
+***
+
+## &nbsp;<img src="skills/B01FZGIDG6/skill_icon" alt="FansOfMASH icon" width="36"> [FansOfMASH](skills/B01FZGIDG6)
+
+*Alexa open fans of mash*
+
+Are you a fan of the TV hit series MASH? Well I am too so add this skill to your must have list!
 
 ***
 
@@ -4860,6 +4900,14 @@ This is a short seven question quiz on Shakespeare's play Macbeth. User will be 
 
 ***
 
+## &nbsp;<img src="skills/B01GM1DSOU/skill_icon" alt="Machine Learning Approaches icon" width="36"> [Machine Learning Approaches](skills/B01GM1DSOU)
+
+*Alexa, ask machine learning approaches for a machine learning fact.*
+
+Give random machine learning approaches from Wikipedia
+
+***
+
 ## &nbsp;<img src="skills/B018YIL6JI/skill_icon" alt="Magic 8-Ball icon" width="36"> [Magic 8-Ball](skills/B018YIL6JI)
 
 *Alexa, ask Magic 8-Ball if I am going to be rich.*
@@ -5109,14 +5157,6 @@ Ask Alexa to tell you the deal today on meh.com's website
 
 ***
 
-## &nbsp;<img src="skills/B01B5BXC52/skill_icon" alt="Memory Master icon" width="36"> [Memory Master](skills/B01B5BXC52)
-
-*Alexa, open Memory Master.*
-
-Put your powers of recollection to the test with Memory Master!
-
-***
-
 ## &nbsp;<img src="skills/B01BH1URE4/skill_icon" alt="MemoryChallenge icon" width="36"> [MemoryChallenge](skills/B01BH1URE4)
 
 *alexa, start challenge memory*
@@ -5210,6 +5250,14 @@ Find where you can view your favorite movie on free, paid and subscription servi
 *Alexa, open Mind Gap*
 
 Feed your mind. You know you want it.
+
+***
+
+## &nbsp;<img src="skills/B01GQOOQAS/skill_icon" alt="Minecrek icon" width="36"> [Minecrek](skills/B01GQOOQAS)
+
+*Alexa ask minegeek  how to make paper*
+
+Gives a knowledge, usage and information about an item
 
 ***
 
@@ -6144,14 +6192,6 @@ A quiz game that will test your physics might!
 
 ***
 
-## &nbsp;<img src="skills/B01CRMMSJ4/skill_icon" alt="Physics Quiz icon" width="36"> [Physics Quiz](skills/B01CRMMSJ4)
-
-*Alexa, launch Physics Quiz*
-
-A quiz to test you knowledge in Physics
-
-***
-
 ## &nbsp;<img src="skills/B01CSIVR62/skill_icon" alt="Pi Day icon" width="36"> [Pi Day](skills/B01CSIVR62)
 
 *Alexa, Play Pi Day*
@@ -6239,6 +6279,14 @@ Use Pitch Pipe to play any of the thirteen pitches in an octave. Use it as a dig
 *Alexa, Launch Pizza Facts*
 
 Facts about the humankind's greatest achievement: pizza
+
+***
+
+## &nbsp;<img src="skills/B01GM48TTG/skill_icon" alt="PlantFacts icon" width="36"> [PlantFacts](skills/B01GM48TTG)
+
+*Alexa, ask plant facts to teach me something about plants.*
+
+Just for fun plant facts
 
 ***
 
@@ -8819,14 +8867,6 @@ TV Shows provides the time and network for the next episode of any TV show. Epis
 
 ***
 
-## &nbsp;<img src="skills/B017OBUCJG/skill_icon" alt="Tweet Poll icon" width="36"> [Tweet Poll](skills/B017OBUCJG)
-
-*Alexa, open Tweet Poll*
-
-Tweet Poll lets you put your finger on the pulse of the nation, as measured by tweets. Construct your own polls and find out the information you want.
-
-***
-
 ## &nbsp;<img src="skills/B01F4VVKIA/skill_icon" alt="Tweets From The Donald icon" width="36"> [Tweets From The Donald](skills/B01F4VVKIA)
 
 *Alexa, open Mister Trump.*
@@ -9373,11 +9413,27 @@ Alexa is able to calculate your perfect bra size, according to your bust and ban
 
 ***
 
+## &nbsp;<img src="skills/B01GQOYNVK/skill_icon" alt="Woof! icon" width="36"> [Woof!](skills/B01GQOYNVK)
+
+*Alexa, woof woof  (or begin woof woof)*
+
+Woof to Alexa
+
+***
+
 ## &nbsp;<img src="skills/B01949MQ4U/skill_icon" alt="Woot icon" width="36"> [Woot](skills/B01949MQ4U)
 
 *Alexa, ask Woot what is the deal on electronics?*
 
 Get Woot's daily deals straight from Alexa, just ask Woot "What is today's deal?"
+
+***
+
+## &nbsp;<img src="skills/B01G91DCFI/skill_icon" alt="Wordsmith Trivia Game icon" width="36"> [Wordsmith Trivia Game](skills/B01G91DCFI)
+
+*Alexa, launch wordsmith trivia*
+
+A word trivia game to test and broaden your vocabulary.
 
 ***
 
