@@ -17,7 +17,7 @@ SmartThings account and Hub required.
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.2bdbc74f-ce4d-4e2d-b741-326c7ba358f0
 * **ASIN:** B01ETW5Q9O
 * **Author:** SmartThings

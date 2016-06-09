@@ -14,7 +14,7 @@ To add smart lighting control to your home, you’ll need a Smart Bridge and at 
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.9580dbe1-649a-4d30-bff6-9e790c26d4fe
 * **ASIN:** B01EIQVFFA
 * **Author:** Lutron Electronics, Co.

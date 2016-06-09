@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Grace: Table Blessings for the Family icon" width="36"> [Grace: Table Blessings for the Family](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2eb96903-f1fa-4260-b091-86d5f11afbf4)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Grace: Table Blessings for the Family skill, try saying...
 

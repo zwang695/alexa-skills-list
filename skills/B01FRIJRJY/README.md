@@ -12,7 +12,7 @@ You must have a Skyport account along with a Skyport compatible thermostat to us
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.cd97c00b-5248-4b0b-ade9-4cfda4143773
 * **ASIN:** B01FRIJRJY
 * **Author:** Venstar Inc.

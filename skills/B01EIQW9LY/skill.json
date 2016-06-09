@@ -4,7 +4,7 @@
   "averageRating": 2.6,
   "canDisable": false,
   "capabilities": null,
-  "category": "CONNECTED_HOME",
+  "category": null,
   "description": "Amazon Alexa and the Nest Learning Thermostat work together to help you set the perfect temperature - without having to lift a finger. \n\nThe Nest Thermostat learns what you like and helps you save energy. And now, you can simply ask Alexa to raise, lower, or set a target temperature. \n\nThere’s no need to go to your thermostat or find your phone to be more comfortable - just talk to Alexa on your Amazon Echo, Fire TV, Echo Dot or Tap. \n\nAfter connecting Alexa to your Nest Thermostat in a few simple steps, just say commands like, “Alexa, set my dining room temperature to 68.”, “Alexa, raise the master bedroom by 4 degrees.”, or “Alexa, cool down the living room.”.",
   "enablement": null,
   "exampleInteractions": [

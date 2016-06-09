@@ -12,7 +12,7 @@ To use this skill, you need to have an account on ISY Portal the full instructio
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.63cc55e8-786e-4179-8065-5ef45befda83
 * **ASIN:** B01EIUD7LQ
 * **Author:** Universal Devices, Inc.

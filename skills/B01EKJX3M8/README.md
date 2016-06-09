@@ -41,7 +41,7 @@ Download a no-cost 30 day evaluation from www.HCATech.com
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.ef3e0047-0258-44ad-a2c6-4b8792813b35
 * **ASIN:** B01EKJX3M8
 * **Author:** Advanced Quonset Technology, Inc

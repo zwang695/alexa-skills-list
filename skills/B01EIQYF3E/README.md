@@ -35,7 +35,7 @@ Note: as with lighting products, in order to use Amazon Alexa with Wink-enabled 
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.013efdab-897c-4dff-9728-ac679242d818
 * **ASIN:** B01EIQYF3E
 * **Author:** Wink

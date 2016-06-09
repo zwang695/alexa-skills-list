@@ -10,7 +10,7 @@ Through Alexa, you can now control your ecobee thermostat using your voice. All 
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.5c94a669-85c5-4438-ad40-4737260703e5
 * **ASIN:** B01EIQ3P08
 * **Author:** ecobee Inc

@@ -16,7 +16,7 @@ Visit www.yonomi.co to get started now!
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.496d7007-1a5e-4dad-b83b-dd990c984fcb
 * **ASIN:** B01E7TYGFO
 * **Author:** Yonomi

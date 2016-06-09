@@ -9,15 +9,52 @@ To use the Mosaic skill, try saying...
 
 * *Alexa, ask Mosaic to give me something relaxing*
 
-MOSAIC allows you to assemble your physical products and digital services together - creating voice activated groups that manage your environments and tailor experiences to your interests, your needs and your life. We call that MOSAIC.
+Mosaic allows you to assemble smart devices and apps into voice activated workflows that manage your environments and tailor experiences to your interests, your needs and your life. Link your favorite devices and apps on https://saymosaic.com to enjoy various pre-defined workflows immediately or customize your own.
 
-Create, select and activate any MOSAIC by voice via your Amazon Echo or FireTV.
+Create, select, and activate Mosaic workflows by voice via any Alexa Powered Devices, or type to Mosaic Chatbot on Slack and SMS to continue the conversation. Whether it?s: ?Good morning?, ?Chill out? or ?I?m home? - just say or type the word and we coordinate your devices and apps to your lifestyles. 
 
-Whether it's: "I'm home", "Movie night" or "I'm go'n for a run" - just say the word and our platform will bring your MOSAIC to life.
+To get started, link your Mosaic account to use this skill, then link your favorite devices and apps to your Mosaic account. We are working with popular smart devices and productivity apps like: Nest, Philips Hue, Lifx, Fitbit, Jawbone, Withings, Automatic, Tesla, Google Calendar, Weather, and with more to come.
 
-The MOSAIC platform is being engineered to connect the Internet of Things with your voice. The possibilities are limitless.
+To use MOSAIC simply try a few commands:
 
-To get started, please link your MOSAIC account to use this skill. Also, please link your devices and services account to your MOSAIC account to explore the possibilities. For more information, please visit https://saymosaic.com.
+Lights:
+-turn on/off my lights
+-set light brightness to 30 percent
+-dim my lights
+-increase brightness
+-change color to blue
+
+Thermostat:
+-set temperature to 68 degrees
+-warm up the house
+-cool down the house
+-set nest defaults
+
+Fitness:
+-fitbit goals
+-jawbone goals
+-withings summary
+
+Cars:
+-fuel level
+-tesla battery level
+-tesla location
+
+Productivity:
+-calendar summary
+
+Mosaics:
+-good morning
+-good bye
+-I am home
+-chill out
+-house party
+-good night
+
+To explore other command options, say "list commands".
+To list our current mosaics, say "list my mosaics".
+
+For more information, visit https://saymosaic.com
 
 ***
 

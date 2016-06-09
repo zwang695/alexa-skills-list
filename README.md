@@ -1569,11 +1569,11 @@ Carly is a voice-activated coach for Amazon Echo that helps users understand the
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="Cas?ta Wireless icon" width="36"> [Cas?ta Wireless](skills/null)
+## &nbsp;<img src="skills/B01EIQVFFA/skill_icon" alt="Caséta Wireless icon" width="36"> [Caséta Wireless](skills/B01EIQVFFA)
 
 *null*
 
-Control your Lutron Cas?ta Wireless lights from anywhere!
+Control your Lutron Caséta Wireless lights from anywhere!
 
 ***
 
@@ -2828,7 +2828,7 @@ Ask Eclipse Phase Geek to tell you a fact about the the bleak future of Transhum
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="ecobee icon" width="36"> [ecobee](skills/null)
+## &nbsp;<img src="skills/B01EIQ3P08/skill_icon" alt="ecobee icon" width="36"> [ecobee](skills/B01EIQ3P08)
 
 *null*
 
@@ -3850,7 +3850,7 @@ Haiku poem generator.
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="Haiku Home icon" width="36"> [Haiku Home](skills/null)
+## &nbsp;<img src="skills/B01F6D3ZHU/skill_icon" alt="Haiku Home icon" width="36"> [Haiku Home](skills/B01F6D3ZHU)
 
 *null*
 
@@ -4050,7 +4050,7 @@ Learn facts about the canine stars of film and stage
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="Home Control Assistant icon" width="36"> [Home Control Assistant](skills/null)
+## &nbsp;<img src="skills/B01EKJX3M8/skill_icon" alt="Home Control Assistant icon" width="36"> [Home Control Assistant](skills/B01EKJX3M8)
 
 *null*
 
@@ -4298,7 +4298,7 @@ Get inspirational quotes from famous folk and the movies.
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="Insteon icon" width="36"> [Insteon](skills/null)
+## &nbsp;<img src="skills/B01EIQOOUS/skill_icon" alt="Insteon icon" width="36"> [Insteon](skills/B01EIQOOUS)
 
 *null*
 
@@ -4410,7 +4410,7 @@ ISY skill allows you to control your home using an ISY home-automation controlle
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="ISY Optimized for Smart Home icon" width="36"> [ISY Optimized for Smart Home](skills/null)
+## &nbsp;<img src="skills/B01EIUD7LQ/skill_icon" alt="ISY Optimized for Smart Home icon" width="36"> [ISY Optimized for Smart Home](skills/B01EIUD7LQ)
 
 *null*
 
@@ -4732,7 +4732,7 @@ LIFX, the world?s brightest color Wi-Fi smart lights. Ask Alexa to switch on the
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="LIFX Optimized for Smart Home icon" width="36"> [LIFX Optimized for Smart Home](skills/null)
+## &nbsp;<img src="skills/B01EIQSPOY/skill_icon" alt="LIFX Optimized for Smart Home icon" width="36"> [LIFX Optimized for Smart Home](skills/B01EIQSPOY)
 
 *null*
 
@@ -5321,7 +5321,7 @@ This skill makes you an expert for Morse codes. It can encode any name of your c
 
 *Alexa, ask Mosaic for good morning*
 
-Connecting the Internet of Things to your voice.
+Mosaic allows you to assemble devices and apps into workflows that suite your lifestyle or control them individually. It is on Amazon Alexa, SMS and Slack.
 
 ***
 
@@ -5750,7 +5750,7 @@ This skill gives a nerdy pickup line when asked.
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="Nest icon" width="36"> [Nest](skills/null)
+## &nbsp;<img src="skills/B01EIQW9LY/skill_icon" alt="Nest icon" width="36"> [Nest](skills/B01EIQW9LY)
 
 *null*
 
@@ -7162,13 +7162,13 @@ Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="Sensi icon" width="36"> [Sensi](skills/null)
+## &nbsp;<img src="skills/B01EIQLWUS/skill_icon" alt="Sensi icon" width="36"> [Sensi](skills/B01EIQLWUS)
 
 *null*
 
 "Alexa, set my thermostat to 72 degrees."
 
-Control your Sensi? Wi-Fi Programmable Thermostat without lifting a finger using Alexa and simple voice commands.
+Control your Sensi™ Wi-Fi Programmable Thermostat without lifting a finger using Alexa and simple voice commands.
 
 ***
 
@@ -7359,7 +7359,7 @@ Allows users to find if if a certain food or drink can be consumed on the Slow C
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="SmartThings icon" width="36"> [SmartThings](skills/null)
+## &nbsp;<img src="skills/B01ETW5Q9O/skill_icon" alt="SmartThings icon" width="36"> [SmartThings](skills/B01ETW5Q9O)
 
 *null*
 
@@ -8451,7 +8451,7 @@ Test your knowledge of the college basketball tournament.
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="TP-LINK Kasa icon" width="36"> [TP-LINK Kasa](skills/null)
+## &nbsp;<img src="skills/B01EIQX6Y8/skill_icon" alt="TP-LINK Kasa icon" width="36"> [TP-LINK Kasa](skills/B01EIQX6Y8)
 
 *null*
 
@@ -9076,7 +9076,7 @@ The Vectrex Wiki skill allows you to get information about the original Vectrex 
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="Venstar icon" width="36"> [Venstar](skills/null)
+## &nbsp;<img src="skills/B01FRIJRJY/skill_icon" alt="Venstar icon" width="36"> [Venstar](skills/B01FRIJRJY)
 
 *null*
 
@@ -9349,7 +9349,7 @@ Find the perfect wine for a type of food, or vice versa.
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="Wink icon" width="36"> [Wink](skills/null)
+## &nbsp;<img src="skills/B01EIQYF3E/skill_icon" alt="Wink icon" width="36"> [Wink](skills/B01EIQYF3E)
 
 *null*
 
@@ -9493,11 +9493,11 @@ Yoga Trainer
 
 ***
 
-## &nbsp;<img src="skills/null/skill_icon" alt="Yonomi icon" width="36"> [Yonomi](skills/null)
+## &nbsp;<img src="skills/B01E7TYGFO/skill_icon" alt="Yonomi icon" width="36"> [Yonomi](skills/B01E7TYGFO)
 
 *null*
 
-Yonomi connects all of your devices under one roof for free ? including Sonos, Logitech Harmony, Hue and more. Control all of your devices with just your voice!
+Yonomi connects all of your devices under one roof for free – including Sonos, Logitech Harmony, Hue and more. Control all of your devices with just your voice!
 
 ***
 

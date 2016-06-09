@@ -10,7 +10,7 @@ Control your Haiku fans and lights
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.a5572454-202a-4198-9231-4d2856e7cb08
 * **ASIN:** B01F6D3ZHU
 * **Author:** Haiku Home by Big Ass Solutions

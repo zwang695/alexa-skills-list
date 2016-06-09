@@ -48,7 +48,7 @@ Make sure your lights are on the LIFX Cloud then follow these steps:
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.aba7feac-6231-4e5c-95ce-e05195803691
 * **ASIN:** B01EIQSPOY
 * **Author:** LiFi Labs Inc.

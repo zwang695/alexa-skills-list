@@ -7,7 +7,7 @@
   "averageRating": 5,
   "canDisable": false,
   "capabilities": null,
-  "category": "CONNECTED_HOME",
+  "category": null,
   "description": "Amazon Alexa can now talk to your Venstar Voyager® thermostats. Link your Skyport Cloud account and you can control your thermostats using your voice through Alexa.\n\nYou must have a Skyport account along with a Skyport compatible thermostat to use this skill.",
   "enablement": null,
   "exampleInteractions": [

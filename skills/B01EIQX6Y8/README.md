@@ -10,7 +10,7 @@ Kasa is a simple way to manage your home from anywhere.You can link Kasa with Am
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.b4bf2b4d-5f4e-458b-a3b4-5e900cea5fd9
 * **ASIN:** B01EIQX6Y8
 * **Author:** TP-LINK

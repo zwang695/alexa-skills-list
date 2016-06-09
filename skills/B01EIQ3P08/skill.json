@@ -8,7 +8,7 @@
   "averageRating": 3.3,
   "canDisable": false,
   "capabilities": null,
-  "category": "CONNECTED_HOME",
+  "category": null,
   "description": "Through Alexa, you can now control your ecobee thermostat using your voice. All you have to do is ask. As long as you have a registered ecobee thermostat, you can link your ecobee account to Alexa for full control. Alexa is compatible with all ecobee thermostat models.",
   "enablement": null,
   "exampleInteractions": [

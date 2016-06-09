@@ -4,7 +4,7 @@
   "averageRating": 4.7,
   "canDisable": false,
   "capabilities": null,
-  "category": "CONNECTED_HOME",
+  "category": null,
   "description": "To use the SmartThings Skill, try saying...\nAlexa, turn on the fan.\nAlexa, set the thermostat to 72.\nAlexa, dim bedroom light to 60%.\n\nUse the SmartThings Skill to control your smart devices with just the sound of your voice. It's as easy as asking Alexa to have SmartThings turn smart outlets and lights on or off, adjust dimmers, and set connected thermostats. \n\nSmartThings account and Hub required.",
   "enablement": null,
   "exampleInteractions": [

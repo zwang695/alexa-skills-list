@@ -7,7 +7,7 @@
   "averageRating": 3.4,
   "canDisable": false,
   "capabilities": null,
-  "category": "CONNECTED_HOME",
+  "category": null,
   "description": "Control your Haiku fans and lights",
   "enablement": null,
   "exampleInteractions": [

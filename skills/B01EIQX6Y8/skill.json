@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": false,
   "capabilities": null,
-  "category": "CONNECTED_HOME",
+  "category": null,
   "description": "Kasa is a simple way to manage your home from anywhere.You can link Kasa with Amazon Echo to control devices like smart plugs and smart lights with simple voice commands. Just say “turn on the Christmas tree lights” and watch your kids’ faces light up. Connecting your Echo to Kasa is easy, just follow the instructions in the Kasa app.",
   "enablement": null,
   "exampleInteractions": [

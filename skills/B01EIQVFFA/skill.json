@@ -6,7 +6,7 @@
   "averageRating": 4.8,
   "canDisable": false,
   "capabilities": null,
-  "category": "CONNECTED_HOME",
+  "category": null,
   "description": "Caséta Wireless brings the convenience of smart lighting control to your home while working seamlessly with Alexa to get the lights for you.\n\nYou — or anyone in your family—can tell Alexa to turn lights on, off, or dim them to your favorite light level. Need to be quiet? Use your Lutron Pico remote for those moments when silence is golden.\n\nTo add smart lighting control to your home, you’ll need a Smart Bridge and at least one dimmer.  To learn more, go to www.casetawireless.com/alexa",
   "enablement": null,
   "exampleInteractions": [

@@ -10,7 +10,7 @@ Control Insteon lighting, appliances, and thermostats
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.dcf48e47-5e5f-4325-a755-b3f6d67eb8b4
 * **ASIN:** B01EIQOOUS
 * **Author:** INSTEON
