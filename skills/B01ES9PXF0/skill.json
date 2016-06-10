@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "code.jquery.com",
+    "fonts.googleapis.com",
+    "netdna.bootstrapcdn.com"
+  ],
+  "asin": "B01ES9PXF0",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Lifestyle",
+  "description": "NOTE: In order to use this skill, you will need to link your Washio account to Alexa. Switch between your Amazon Household profiles to request an order from different Washio accounts.\n\nDescription: Get your dirty duds cleaned without even lifting a finger. With the Washio skill, you can schedule your clothes to be picked up, cleaned, and delivered to your home using just your voice. You can also check on the progress of your orders by saying: \"Alexa, ask Washio where's my laundry.\"",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Washio to do my laundry.",
+    "Alexa, ask Washio where's my clothes.",
+    "Alexa, ask Washio to wash my clothes."
+  ],
+  "firstReleaseDate": 1465576794.134,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.94560da1-7dbc-445a-b6a2-fe949736544e",
+  "imageAltText": "Washio icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01ES9PXF0/skill_icon",
+  "inAppPurchasingSupported": true,
+  "launchPhrase": "washio",
+  "name": "Washio",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "L6G6b2xlSa4i7ST3fsUpSI5Et",
+  "permissions": null,
+  "privacyPolicyUrl": "https://app.getwashio.com/privacy",
+  "shortDescription": "On Demand Dry Cleaning & Laundry.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://app.getwashio.com/terms",
+  "vendorId": "MQCZWAUQ1DH0",
+  "vendorName": "Washio, Inc."
+}

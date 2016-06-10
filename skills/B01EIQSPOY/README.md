@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="LIFX Optimized for Smart Home icon" width="36"> [LIFX Optimized for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.aba7feac-6231-4e5c-95ce-e05195803691)
-![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the LIFX Optimized for Smart Home skill, try saying...
 

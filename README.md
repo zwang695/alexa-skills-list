@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1216
+**Total Skills Available:** 1223
 
 ***
 
@@ -437,6 +437,14 @@ The Animal Alphabet game.
 *Alexa, start Animal Game*
 
 Play guess-an-animal game with Alexa. Think of an animal and Alexa will guess it by asking questions.
+
+***
+
+## &nbsp;<img src="skills/B01GU7B780/skill_icon" alt="Animal Master icon" width="36"> [Animal Master](skills/B01GU7B780)
+
+*Alexa, start Animal Master.*
+
+Play an animal guessing game with Alexa!
 
 ***
 
@@ -1769,6 +1777,14 @@ Basic chess trivia, with some current player questions.
 
 ***
 
+## &nbsp;<img src="skills/B01FOVT6VS/skill_icon" alt="Chicago Bus Stop icon" width="36"> [Chicago Bus Stop](skills/B01FOVT6VS)
+
+*Alexa ask Chicago Bus Stop when is the next bus at stop 3766?*
+
+Get the arrival times for any CTA Bus Stop before you walk out the door.
+
+***
+
 ## &nbsp;<img src="skills/B01EF6VRBU/skill_icon" alt="Chicago Java icon" width="36"> [Chicago Java](skills/B01EF6VRBU)
 
 *Alexa, ask Chicago Java when is my next Meetup.*
@@ -2174,6 +2190,14 @@ This is a quiz about corgis, some of the answers may surprise you.
 *Alexa, Ask Cork Ornaments What is the deal of the day*
 
 Find out the daily deals from CorkOrnaments.com
+
+***
+
+## &nbsp;<img src="skills/B01GUG0DOU/skill_icon" alt="Cosmic Explosion icon" width="36"> [Cosmic Explosion](skills/B01GUG0DOU)
+
+*Alexa, launch Cosmic Explosion*
+
+Discover interesting facts about the observable universe.
 
 ***
 
@@ -4956,6 +4980,14 @@ Love predictor will give you a percentage score of two people making it together
 
 ***
 
+## &nbsp;<img src="skills/B01GQRMXSC/skill_icon" alt="Lucky Numbers icon" width="36"> [Lucky Numbers](skills/B01GQRMXSC)
+
+*Alexa, ask Lucky Numbers for my numbers.*
+
+Ask Alexa for your lucky numbers.
+
+***
+
 ## &nbsp;<img src="skills/B01DMS44XA/skill_icon" alt="Lunch Menu for Gonzaga High School icon" width="36"> [Lunch Menu for Gonzaga High School](skills/B01DMS44XA)
 
 *Alexa, ask Sage for Gonzaga what is being served tomorrow?*
@@ -5983,6 +6015,14 @@ Get information on your NJ Transit Train. Current version will give information 
 
 ***
 
+## &nbsp;<img src="skills/B01GGINX3U/skill_icon" alt="Nocturnal Ninja icon" width="36"> [Nocturnal Ninja](skills/B01GGINX3U)
+
+*Alexa, ask Nocturnal Ninja who is on The Late Show*
+
+Your guide to guest information on late night talk shows
+
+***
+
 ## &nbsp;<img src="skills/B01E7NCYS6/skill_icon" alt="Noodle It Out icon" width="36"> [Noodle It Out](skills/B01E7NCYS6)
 
 *Alexa launch Noodle It Out*
@@ -6221,6 +6261,14 @@ Based on the Standard Days Method by Georgetown University.
 *Alexa, launch Periodic Table Games*
 
 Periodic Table Games is a fun skill to help students master basic trivia about periodic tables.
+
+***
+
+## &nbsp;<img src="skills/B01GU4NTNO/skill_icon" alt="Permutations Calculator icon" width="36"> [Permutations Calculator](skills/B01GU4NTNO)
+
+*Alexa, ask Permutations Calculator to calculate 20 permute 3.*
+
+Permutations Calculator will calculate the number of ways an ordered subset of items can be obtained from a larger collection.
 
 ***
 
@@ -9321,6 +9369,14 @@ Ask the warden if DMX is in jail
 *Alexa, ask Washington State Ferry when is the next ferry from Seattle to Bainbridge.*
 
 Use Washington State Ferry to get departure information for the Washington State Ferries.
+
+***
+
+## &nbsp;<img src="skills/B01ES9PXF0/skill_icon" alt="Washio icon" width="36"> [Washio](skills/B01ES9PXF0)
+
+*Alexa, ask Washio to do my laundry.*
+
+On Demand Dry Cleaning & Laundry.
 
 ***
 
