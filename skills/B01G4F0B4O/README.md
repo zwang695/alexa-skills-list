@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Morse Coder icon" width="36"> [Morse Coder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c26b1c82-967e-4807-b1c2-e983e820edf1)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Morse Coder skill, try saying...
 

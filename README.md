@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1223
+**Total Skills Available:** 1225
 
 ***
 
@@ -389,6 +389,14 @@ This test asks basic facts about the United States of America.
 *Alexa, launch American History Quiz*
 
 History Quiz
+
+***
+
+## &nbsp;<img src="skills/B01GM4SUEU/skill_icon" alt="AmericanHistory icon" width="36"> [AmericanHistory](skills/B01GM4SUEU)
+
+*Alexa, ask American history to tell me something*
+
+Have fun with American history facts
 
 ***
 
@@ -6325,6 +6333,14 @@ Phonetic Alphabet Trainer
 *Alexa, open physics bowl.*
 
 A quiz game that will test your physics might!
+
+***
+
+## &nbsp;<img src="skills/B01CRMMSJ4/skill_icon" alt="Physics Quiz icon" width="36"> [Physics Quiz](skills/B01CRMMSJ4)
+
+*Alexa, launch Physics Quiz*
+
+A quiz to test you knowledge in Physics
 
 ***
 

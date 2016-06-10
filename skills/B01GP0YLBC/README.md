@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Deep Thoughts with Kanye West icon" width="36"> [Deep Thoughts with Kanye West](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.078c5432-63e5-48fe-8b27-b46e6473f976)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Deep Thoughts with Kanye West skill, try saying...
 

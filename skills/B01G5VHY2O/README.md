@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Discovery Channel's Shark Week icon" width="36"> [Discovery Channel's Shark Week](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d92afb13-c427-4a20-9b31-6ec68fc940b1)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 5
 
 To use the Discovery Channel's Shark Week skill, try saying...
 
