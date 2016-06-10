@@ -19,6 +19,6 @@ Don?t miss the boat! Get the next departure times for any route in the Washingto
 * **Category:** Travel
 * **ID:** amzn1.echo-sdk-ams.app.c9b66172-8af5-46d1-b243-89a358beb229
 * **ASIN:** B01FROAWB0
-* **Author:** BlinkUX
+* **Author:** Blink UX
 * **Release Date:** May 26, 2016 @ 09:08:44
 * **In-App Purchasing:** No

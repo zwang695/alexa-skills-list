@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="March Madness Trivia icon" width="36"> [March Madness Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9be8bed4-7e49-455b-b3cc-f711cc89c781)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the March Madness Trivia skill, try saying...
 
