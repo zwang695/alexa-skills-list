@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Travel",
-  "description": "Next Train for Caltrain skill.\n\nNever miss the next train again!\nJust ask Alexa when is the next train and that?s all!",
+  "description": "Next Train for Caltrain skill.\n\nNever miss the next train again!\nJust ask Alexa when is the next train and that’s all!",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, Ask The Next Train from Palo Alto to San Francisco",

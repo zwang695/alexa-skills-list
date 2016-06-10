@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Games",
-  "description": "To start playing Geek Trivia just say ?Alexa, ask a geek.?  Alexa will ask you a series of 5 questions per game about some famous movies or TV shows which are all geek related, just choose the best answer out of 4 possible answers.  If you?d like to continue playing to test your geek wisdom play as often as you like by simply asking Alexa ?new game? and have fun.",
+  "description": "To start playing Geek Trivia just say “Alexa, ask a geek.”  Alexa will ask you a series of 5 questions per game about some famous movies or TV shows which are all geek related, just choose the best answer out of 4 possible answers.  If you’d like to continue playing to test your geek wisdom play as often as you like by simply asking Alexa “new game” and have fun.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask a geek",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Alexa will ask you 5 trivia questions per game.  It?s a fun way to test your geek knowledge of a famous movie or TV show.",
+  "shortDescription": "Alexa will ask you 5 trivia questions per game.  It’s a fun way to test your geek knowledge of a famous movie or TV show.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

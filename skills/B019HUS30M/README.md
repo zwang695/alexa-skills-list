@@ -9,14 +9,14 @@ To use the Santa's Helper skill, try saying...
 
 * *Alexa, ask Santa to read The Night Before Christmas.*
 
-To use the Santa?s Helper skill, try saying?
+To use the Santa’s Helper skill, try saying…
 
-?Alexa, ask Santa where are you??
-?Alexa, ask Santa if I?m on the nice list.?
-?Alexa, ask Santa for a joke."
-?Alexa, ask Santa for a Christmas fact."
+“Alexa, ask Santa where are you?”
+“Alexa, ask Santa if I’m on the nice list.”
+“Alexa, ask Santa for a joke."
+“Alexa, ask Santa for a Christmas fact."
 
-Every year, Santa brings presents and joy to millions of children throughout the world. With Santa?s Helper, find out if you?re on the nice list, hear jokes and facts about Christmas, and check in on Santa?s location throughout Christmas Eve.
+Every year, Santa brings presents and joy to millions of children throughout the world. With Santa’s Helper, find out if you’re on the nice list, hear jokes and facts about Christmas, and check in on Santa’s location throughout Christmas Eve.
 
 Happy Holidays!
 

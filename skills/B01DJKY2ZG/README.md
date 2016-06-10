@@ -19,9 +19,9 @@ To start using the Fantasy Scoreboards skill, say:
 Alexa will then ask you for the UID for your phone, you can get that ID from the about page of the Fantasy Scoreboards app. 
 Then tell Alexa your 16 or 32 digit UID, without the dashes - example: "12345a123b123456"
 
-To get the games of yesterday, say ?Alexa, ask Fantasy Scoreboard who played yesterday?
+To get the games of yesterday, say “Alexa, ask Fantasy Scoreboard who played yesterday”
 
-For today?s games, say: ?Alexa, ask Fantasy Scoreboard who is playing today?
+For today’s games, say: “Alexa, ask Fantasy Scoreboard who is playing today”
 
 ***
 

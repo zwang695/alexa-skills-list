@@ -11,7 +11,7 @@ To use the Mosaic skill, try saying...
 
 Mosaic allows you to assemble smart devices and apps into voice activated workflows that manage your environments and tailor experiences to your interests, your needs and your life. Link your favorite devices and apps on https://saymosaic.com to enjoy various pre-defined workflows immediately or customize your own.
 
-Create, select, and activate Mosaic workflows by voice via any Alexa Powered Devices, or type to Mosaic Chatbot on Slack and SMS to continue the conversation. Whether it?s: ?Good morning?, ?Chill out? or ?I?m home? - just say or type the word and we coordinate your devices and apps to your lifestyles. 
+Create, select, and activate Mosaic workflows by voice via any Alexa Powered Devices, or type to Mosaic Chatbot on Slack and SMS to continue the conversation. Whether it’s: “Good morning”, “Chill out” or “I’m home” - just say or type the word and we coordinate your devices and apps to your lifestyles. 
 
 To get started, link your Mosaic account to use this skill, then link your favorite devices and apps to your Mosaic account. We are working with popular smart devices and productivity apps like: Nest, Philips Hue, Lifx, Fitbit, Jawbone, Withings, Automatic, Tesla, Google Calendar, Weather, and with more to come.
 

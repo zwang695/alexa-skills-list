@@ -3,20 +3,20 @@
 
 To use the Domino's Pizza skill, try saying...
 
-* *Alexa, open Domino?s*
+* *Alexa, open Domino’s*
 
-* *Alexa, open Domino?s and place my Easy Order*
+* *Alexa, open Domino’s and place my Easy Order*
 
-* *Alexa, ask Domino?s to track my order*
+* *Alexa, ask Domino’s to track my order*
 
-Alexa is making ordering your Domino?s favorites even easier. With the Domino?s skill, Alexa can place your Easy Order or your most recent order. Or, you can ask Alexa for your order?s status with Domino?s Tracker?.
+Alexa is making ordering your Domino’s favorites even easier. With the Domino’s skill, Alexa can place your Easy Order or your most recent order. Or, you can ask Alexa for your order’s status with Domino’s Tracker®.
 
-To place an order with Alexa, you?ll need a Domino?s Pizza Profile. If you don?t have a Pizza Profile, set one up at www.dominos.com. You?ll also need an Easy Order or a recent order saved within your Pizza Profile. Once you?ve placed your order, you can ask Alexa for Domino?s Tracker? updates at each stage, from the time it?s placed to when it?s ready for delivery or pickup. Alexa will simply use the phone number saved in your Pizza Profile.
-If you just want to track your carryout or delivery order from Domino?s, enter the phone number you used with a recent order into the app. Alexa will give you the current status of your order whenever you ask.
+To place an order with Alexa, you’ll need a Domino’s Pizza Profile. If you don’t have a Pizza Profile, set one up at www.dominos.com. You’ll also need an Easy Order or a recent order saved within your Pizza Profile. Once you’ve placed your order, you can ask Alexa for Domino’s Tracker® updates at each stage, from the time it’s placed to when it’s ready for delivery or pickup. Alexa will simply use the phone number saved in your Pizza Profile.
+If you just want to track your carryout or delivery order from Domino’s, enter the phone number you used with a recent order into the app. Alexa will give you the current status of your order whenever you ask.
 
-To get started, just say ?Alexa, open Domino?s.? Alexa will connect you to Domino?s and get you ordering and tracking in no time.
+To get started, just say “Alexa, open Domino’s.” Alexa will connect you to Domino’s and get you ordering and tracking in no time.
 
-Learn more about Echo ordering and all the newest ways to order Domino?s at http://anyware.dominos.com/.
+Learn more about Echo ordering and all the newest ways to order Domino’s at http://anyware.dominos.com/.
 
 ***
 

@@ -11,7 +11,7 @@ To use the PokeyFinder skill, try saying...
 
 Introducing you the PokeyFinder, The first skill to give you information about all pokemon. 
 Now learn about any pokemon by simply asking, "Ask pokey finder about Pikachu." 
-You can also ask alexa, "Ask pokey finder to find some pokemon?
+You can also ask alexa, "Ask pokey finder to find some pokemon”
 
 ***
 

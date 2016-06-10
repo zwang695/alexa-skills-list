@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1210
+**Total Skills Available:** 1216
 
 ***
 
@@ -824,6 +824,14 @@ Baseball Trivia about the history of baseball in Boston.
 
 ***
 
+## &nbsp;<img src="skills/B01GUQ8IKQ/skill_icon" alt="Baseball Trivia icon" width="36"> [Baseball Trivia](skills/B01GUQ8IKQ)
+
+*Alexa Launch Baseball Trivia*
+
+This is a quiz on baseball history.
+
+***
+
 ## &nbsp;<img src="skills/B01D1II83S/skill_icon" alt="Baseball Trivia App icon" width="36"> [Baseball Trivia App](skills/B01D1II83S)
 
 *Alexa, open baseball trivia*
@@ -1060,7 +1068,7 @@ Big O Buddy tells you the time and space complexity of some of the most popular 
 
 *Alexa ask Big band trivia to start*
 
-Trivia about big bands.
+Trivia about big bands, both what their signature song was (according to the band) and what they got to be known for, which weren't always the same thing.
 
 ***
 
@@ -1328,6 +1336,14 @@ Find out the status of MBTA public transit (subway, Silver, and commuter line st
 
 ***
 
+## &nbsp;<img src="skills/B01GP4MVII/skill_icon" alt="BourbonHelper icon" width="36"> [BourbonHelper](skills/B01GP4MVII)
+
+*Alexa, Ask Bourbon helper how can I build a doctor seven*
+
+Bartenders Helper
+
+***
+
 ## &nbsp;<img src="skills/B01DJXEA14/skill_icon" alt="BoxOffice icon" width="36"> [BoxOffice](skills/B01DJXEA14)
 
 *Alexa, ask Box Office what's the rating of Titanic*
@@ -1348,7 +1364,7 @@ Control your Brain of Things enabled home.
 
 *Alexa, ask BrickBot to get available sets in twenty sixteen*
 
-Crazy about collecting LEGO? sets? Get the latest updates on available sets, set details, themes, and sub-theme from Brick Bot. Try it out now!
+Crazy about collecting LEGO® sets? Get the latest updates on available sets, set details, themes, and sub-theme from Brick Bot. Try it out now!
 
 ***
 
@@ -1957,7 +1973,7 @@ Coffee Local is a guide to the 50 best coffee shops in America;
 
 *Alexa, ask Coin Flip to flip it*
 
-Need to resolve a dispute or help making a big decision? Call "heads" or "tails" and ask Coin Flip to flip it ? Problem solved!
+Need to resolve a dispute or help making a big decision? Call "heads" or "tails" and ask Coin Flip to flip it – Problem solved!
 
 ***
 
@@ -2757,9 +2773,9 @@ Domain Name Info will locate different DNS record information for a given domain
 
 ## &nbsp;<img src="skills/B01B5G99CC/skill_icon" alt="Domino's Pizza icon" width="36"> [Domino's Pizza](skills/B01B5G99CC)
 
-*Alexa, open Domino?s*
+*Alexa, open Domino’s*
 
-Place your Domino's Easy Order or your most recent order. You can also ask for Domino?s Tracker? updates to find out the current status of your order.
+Place your Domino's Easy Order or your most recent order. You can also ask for Domino’s Tracker® updates to find out the current status of your order.
 
 ***
 
@@ -3310,6 +3326,14 @@ Focus Word provides an inspirational word and statement about the word to serve 
 
 ***
 
+## &nbsp;<img src="skills/B01G5ZF0P8/skill_icon" alt="Foobot your good air guru icon" width="36"> [Foobot your good air guru](skills/B01G5ZF0P8)
+
+*Alexa, ask Foobot how is air quality in my bedroom*
+
+Foobot and Alexa work together so you breath the best possible air! Foobot tells you how is your air quality in each room and recommends how to improve it.
+
+***
+
 ## &nbsp;<img src="skills/B01G788GNG/skill_icon" alt="Food Bot icon" width="36"> [Food Bot](skills/B01G788GNG)
 
 *Alexa ask food bot what is the protein content of peanut butter*
@@ -3476,7 +3500,7 @@ Get freedom-themed quotes
 
 *Alexa, start Frenchness Game*
 
-Evaluate your level of Frenchness with this tr?s simple trivia quiz. How well do you know France, its culture, its geography, and its cuisine?
+Evaluate your level of Frenchness with this très simple trivia quiz. How well do you know France, its culture, its geography, and its cuisine?
 
 ***
 
@@ -3646,7 +3670,7 @@ Geek games is trivia skill to test your knowledge of random geeky facts of the E
 
 *Alexa, ask a geek*
 
-Alexa will ask you 5 trivia questions per game.  It?s a fun way to test your geek knowledge of a famous movie or TV show.
+Alexa will ask you 5 trivia questions per game.  It’s a fun way to test your geek knowledge of a famous movie or TV show.
 
 ***
 
@@ -4086,7 +4110,7 @@ Hide and Seek Timer
 
 *Alexa, open High Low.*
 
-This is the number guessing game of ?higher or lower.? In this game, Alexa chooses a number and you try to guess it or you can play the other way around.
+This is the number guessing game of “higher or lower.” In this game, Alexa chooses a number and you try to guess it or you can play the other way around.
 
 ***
 
@@ -4234,6 +4258,14 @@ This teaches you how to make ramen
 
 ***
 
+## &nbsp;<img src="skills/B01GBTT9NC/skill_icon" alt="HowMuch icon" width="36"> [HowMuch](skills/B01GBTT9NC)
+
+*Alexa, open how much and How much is the price of a tesla model 3*
+
+Gives the price of things by searching on Amazon and Google
+
+***
+
 ## &nbsp;<img src="skills/B01DLC6YLM/skill_icon" alt="Howzzat! T20 Cricket Trivia icon" width="36"> [Howzzat! T20 Cricket Trivia](skills/B01DLC6YLM)
 
 *Alexa, launch Cricket Trivia*
@@ -4244,7 +4276,7 @@ Howzzat! T20 Cricket Trivia is a fun way to test your T20 Cricket knowledge
 
 ## &nbsp;<img src="skills/B018WNJQ74/skill_icon" alt="HuffPost icon" width="36"> [HuffPost](skills/B018WNJQ74)
 
-*"Alexa, open HuffPost? (To hear latest news headlines for today)*
+*"Alexa, open HuffPost” (To hear latest news headlines for today)*
 
 The Huffington Post is a Pulitzer Prize-winning source of news, features, and entertainment, as well as a highly engaged community for opinion and conversation.
 
@@ -4454,7 +4486,7 @@ Think you know your IoT's? Challenge yourself with fun and educational questions
 
 *Alexa, ask Iris to holler at John*
 
-Say the command, ?Alexa, ask Iris to holler at [name of recipient]? and Iris will send a pre-composed e-mail, asking the recipient to holler back.
+Say the command, “Alexa, ask Iris to holler at [name of recipient]” and Iris will send a pre-composed e-mail, asking the recipient to holler back.
 
 ***
 
@@ -4816,7 +4848,7 @@ The top submission from the last 24 hours from r/LifeProTips from Reddit.
 
 *Alexa, tell LIFX to turn my bedroom lights off*
 
-LIFX, the world?s brightest color Wi-Fi smart lights. Ask Alexa to switch on the lights when your hands are full and fill your home with your favourite colors.
+LIFX, the world’s brightest color Wi-Fi smart lights. Ask Alexa to switch on the lights when your hands are full and fill your home with your favourite colors.
 
 ***
 
@@ -5097,7 +5129,7 @@ A simple math based game
 
 *Alexa, open Math Puzzles.*
 
-Math Puzzles is a fun way to challenge yourself and your friends. You?ll hear a series of numbers and you must guess the next logical number in the sequence.
+Math Puzzles is a fun way to challenge yourself and your friends. You’ll hear a series of numbers and you must guess the next logical number in the sequence.
 
 ***
 
@@ -5690,7 +5722,7 @@ Select this skill for interesting Bible facts.
 
 *Alexa, ask my dee link to turn off bedroom light.*
 
-D-Link?s Wi-Fi Smart Plugs make your home brighter, safer and more in tune with you. Control your devices with the sound of your voice and make any home smart.
+D-Link’s Wi-Fi Smart Plugs make your home brighter, safer and more in tune with you. Control your devices with the sound of your voice and make any home smart.
 
 ***
 
@@ -6115,7 +6147,7 @@ Skill used to control custom made application for order display
 
 *Alexa, ask OurGroceries to add milk to shopping list.*
 
-OurGroceries is the simplest way to keep your grocery lists instantly synchronized on all the smartphones in your household?and it?s free!
+OurGroceries is the simplest way to keep your grocery lists instantly synchronized on all the smartphones in your household—and it’s free!
 
 ***
 
@@ -7150,7 +7182,7 @@ San Francisco Facts: Things You Didn't Know About San Francisco
 
 *Alexa, ask Santa where is he?*
 
-Keep track of Santa on Christmas eve, find out if you?re on the nice list, and hear fun facts with Santa?s Helper. Just ask ?Alexa, ask Santa, where are you?"
+Keep track of Santa on Christmas eve, find out if you’re on the nice list, and hear fun facts with Santa’s Helper. Just ask “Alexa, ask Santa, where are you?"
 
 ***
 
@@ -7425,7 +7457,7 @@ Ask Alexa to describe a website.
 
 *Alexa, Open Skill Finder*
 
-Amazon?s Skill Finder is a new way to discover Alexa skills. Open Skill Finder and learn about the skill of the day, the newest skills, and the top skills.
+Amazon’s Skill Finder is a new way to discover Alexa skills. Open Skill Finder and learn about the skill of the day, the newest skills, and the top skills.
 
 ***
 
@@ -7581,7 +7613,7 @@ Facts for life
 
 *Alexa, launch 'Spammy'*
 
-Can?t get enough pink piggy deliciousness in your life? The SPAMMY skill will make sure you always have new ways to bring more porky goodness into your life.
+Can’t get enough pink piggy deliciousness in your life? The SPAMMY skill will make sure you always have new ways to bring more porky goodness into your life.
 
 ***
 
@@ -7625,6 +7657,14 @@ Welcome to spelling bee, the very first spelling game on Alexa.
 
 ***
 
+## &nbsp;<img src="skills/B01GDU3X1S/skill_icon" alt="Splash Voyages Game icon" width="36"> [Splash Voyages Game](skills/B01GDU3X1S)
+
+*Alexa, Play Splash Voyages*
+
+Cruise Trivia Game
+
+***
+
 ## &nbsp;<img src="skills/B01DBHDBQS/skill_icon" alt="Stage Names icon" width="36"> [Stage Names](skills/B01DBHDBQS)
 
 *Alexa, open Stage Names*
@@ -7651,7 +7691,7 @@ Star Trivia is an out of this world experience for the whole family. It's both f
 
 ## &nbsp;<img src="skills/B019G0TI52/skill_icon" alt="Star Wars Quiz icon" width="36"> [Star Wars Quiz](skills/B019G0TI52)
 
-*?Alexa, Start Star Wars Quiz"*
+*“Alexa, Start Star Wars Quiz"*
 
 How well do you know the Star Wars Galaxy? Test your knowledge against trivia questions from Classic Star Wars films as well as The Force Awakens
 
@@ -7803,7 +7843,7 @@ Run connected experiences that include things like Fitbit, SmartThings, Nest, Hu
 
 ## &nbsp;<img src="skills/B017OBIKIG/skill_icon" alt="StubHub icon" width="36"> [StubHub](skills/B017OBIKIG)
 
-*Alexa, ask StubHub what?s happening this weekend.*
+*Alexa, ask StubHub what’s happening this weekend.*
 
 What's going on this weekend? Ask Alexa to find out from StubHub!
 
@@ -7958,6 +7998,14 @@ A trivia game to test your knowledge of tea and tea related culture!
 *Alexa, open Teacher.*
 
 Teacher for Alexa is a fun and interactive way to learn basic math through a series of simple addition, subtraction, and multiplication problems.
+
+***
+
+## &nbsp;<img src="skills/B01GNFPNW0/skill_icon" alt="TeaGuide icon" width="36"> [TeaGuide](skills/B01GNFPNW0)
+
+*Alexa, ask, tea guide about green tea*
+
+Benefits of different types of tea.
 
 ***
 
@@ -8255,7 +8303,7 @@ The Ultimate Hollywood Trivia game. It is a fun game to play as well as helps yo
 
 *Alexa, open the Wayne Investigation*
 
-In this Batman-themed choose-your-own-adventure mystery game, you play a detective investigating the murder of Bruce Wayne?s parents.
+In this Batman-themed choose-your-own-adventure mystery game, you play a detective investigating the murder of Bruce Wayne’s parents.
 
 ***
 
@@ -8287,7 +8335,7 @@ Therapy is a therapist for Alexa.  Tell therapist how you are feeling and she wi
 
 *Alexa tell the thermostat that it is a bit cold*
 
-Control your Nest? thermostat using only your voice.
+Control your Nest® thermostat using only your voice.
 
 ***
 
@@ -9176,7 +9224,7 @@ A family friendly trivia quiz about the human body.
 
 *Alexa, ask UV Meter what is the UV index in Phoenix*
 
-Use UV Meter to get strength of sun?s UV rays in your city
+Use UV Meter to get strength of sun’s UV rays in your city
 
 ***
 
@@ -9270,7 +9318,7 @@ Ask the warden if DMX is in jail
 
 ## &nbsp;<img src="skills/B01FROAWB0/skill_icon" alt="Washington State Ferry icon" width="36"> [Washington State Ferry](skills/B01FROAWB0)
 
-*Alexa, ask washington State ferry when is the next ferry from Seattle to Bainbridge.*
+*Alexa, ask Washington State Ferry when is the next ferry from Seattle to Bainbridge.*
 
 Use Washington State Ferry to get departure information for the Washington State Ferries.
 

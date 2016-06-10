@@ -17,12 +17,16 @@ We have also designed a t-shirt, poster, and canvas for every inspirational quot
 
 DISCLAIMER :  SexyHackers.com does NOT contain any nudity and is work safe.  It's just a fun website which sells t-shirts, posters, and hats containing motivational quotes.   However, some of these famous quotes may not be suitable for all ages as they may contain adult language.  We feature quotes from business leaders like Jeff Bezos, Larry Page, Steve Jobs, Aaron Levie,  Haward Schutz, Blake Mycoskie, Dennis Crowley, Mark Zuckerberg and much more! 
 
-If there is a particular quote you would like us to add send us the information on Twitter @MoreThanRewards and we'll do our best to add it for you!
+WANT US TO ADD A QUOTE: 
+If there is a particular quote you would like us to add send us the information on Twitter @MoreThanRewards and we'll do our best to add it!
 
-ARE YOU HAVING TROUBLE WITH THIS SKILL?
-Try to disable it and re-enable it that should fix it, this happens sometimes if you have more than one Echo or add a new one it just needs to be reset.  Otherwise, please call support at 414-326-4100 or email support@morethanrewards.com so we can help you. You can also live chat with us on SexyHackers.com
+HAVING TROUBLE WITH THIS SKILL: The only item we're aware of is if you have more than one echo device, you might need to disable and re-enable the skill again if you add a new echo to your account. This is normal since everything has to resync to the new devices.  So if you're having trouble just disable and re-enable the skill then try again by saying 'Alexa, Motivate Me', all will be good.   
 
-We tested this skill with 3 echos , 2 dots and a tap so we feel it's solid, but if you need help we would love to talk to you before you give it a bad review and say it don't work.  Pease give us a chance first to fix it.  Since we don't have a way to contact you if you write a bad review because Amazon keeps your contact info private so we can't ask you for more feedback.   We want to make this skill awesome so if you're having issues then please provide us any feedback as we would be very grateful rather than just posting it don't work.  When you do that it does not allow us a chance to understand your issue and fix it since we don't want anyone to have any problems with it. In fact we plan on adding more quotes every month, currently we are up to 180 quotes ;)
+The other obvious item is some folks have changed their device name to Amazon or Echo, as a reminder, if you do that then you'll need to say 'Amazon Motivate Me' or 'Echo Motivate Me' depending on what you call your echo.   We had one person who didn't realize this and claim the skill didn't work on our review but the problem was they didn't invoke it with the correct echo name.  So before you post a review if you could give us a chance to help you we would love to help you since we have no way to actually contact people who write reviews if they don't contact us. 
+
+You can call our customer support line at 414-326-4100 or email support@morethanrewards.com or do live chat with u s on our website SexyHackers.com, we're open Monday to Friday 8AM to 5PM Central Time. 
+
+We want to make Alexa awesome so if you have any ideas on how to improve this skill just let us know. 
 
 THANK YOU! 
 The SexyHacker.com Team

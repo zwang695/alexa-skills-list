@@ -9,7 +9,7 @@ To use the Good Samaritan skill, try saying...
 
 * *my answer is two*
 
-Recently, we?ve begun to challenge ourselves to go the extra mile in finding new ways to share Christ?s love with the people around us. We?re highlighting eight of the more profound traits that Jesus showed us. Besides love, the others are compassion, acceptance, joy, humility, honesty, courage and perseverance. The Good Samaritan Society Way is the name we have given this emphasis. It?s a new way of talking about sharing God?s love. But it?s an extension of what we?ve always done and how we?ve always loved the people in our care.
+Recently, we’ve begun to challenge ourselves to go the extra mile in finding new ways to share Christ’s love with the people around us. We’re highlighting eight of the more profound traits that Jesus showed us. Besides love, the others are compassion, acceptance, joy, humility, honesty, courage and perseverance. The Good Samaritan Society Way is the name we have given this emphasis. It’s a new way of talking about sharing God’s love. But it’s an extension of what we’ve always done and how we’ve always loved the people in our care.
 
 ***
 

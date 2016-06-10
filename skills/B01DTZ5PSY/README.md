@@ -9,7 +9,7 @@ To use the Constitutional Law Game skill, try saying...
 
 * *the answer is two*
 
-How well do you know the U.S. Constitution? Find out with this quiz game based on actual flashcards used to practice ? successfully! ? for a bar exam.
+How well do you know the U.S. Constitution? Find out with this quiz game based on actual flashcards used to practice — successfully! — for a bar exam.
 
 Get started by asking Alexa to "open constitutional law game". Then see how many right you can get out of five constitutional law questions chosen from a list.
 

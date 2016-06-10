@@ -19,7 +19,7 @@ Following are the list of supported actions by FitnesLogger:
 - Find your personal best for an exercise
 - Get a list of all supported exercises
 
-FitnessLogger currently supports a pre-defined list of exercises. You can say "Alexa, ask Fitness Logger for all supported exercises" to get a list of all ?exercises. Please use the feedback form, if you want new exercises added to the supported list.
+FitnessLogger currently supports a pre-defined list of exercises. You can say "Alexa, ask Fitness Logger for all supported exercises" to get a list of all ​exercises. Please use the feedback form, if you want new exercises added to the supported list.
 
 ***
 

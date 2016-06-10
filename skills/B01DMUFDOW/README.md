@@ -13,13 +13,13 @@ Users can ask Alexa when the next MBTA bus would arrive using the stop id. You c
 
 Example Interaction:
 
-User: ?Alexa, open Boston T. Time?
+User: “Alexa, open Boston T. Time”
 
-Alexa : ?Welcome to the Boston T-time app Please tell me your stop I D, and route number For example my stop ID is one four one nine and route number is sixty nine?. 
+Alexa : “Welcome to the Boston T-time app Please tell me your stop I D, and route number For example my stop ID is one four one nine and route number is sixty nine”. 
 
-User: ?my stop id is one four one nine and bus number is sixty nine?. 
+User: “my stop id is one four one nine and bus number is sixty nine”. 
 
-Alexa: ?The next bus 69 bus towards Harvard, will arrive in 5 minutes".
+Alexa: “The next bus 69 bus towards Harvard, will arrive in 5 minutes".
 
 ***
 

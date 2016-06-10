@@ -9,7 +9,7 @@ To use the NBC skill, try saying...
 
 * *Alexa, ask NBC what Blindspot is about.*
 
-NBC gives Alexa all the information she needs to connect you with your favorite NBC shows. Want to know what happened on a recent episode? When can you watch it live? Alexa knows the answers so you?ll always be up to date.
+NBC gives Alexa all the information she needs to connect you with your favorite NBC shows. Want to know what happened on a recent episode? When can you watch it live? Alexa knows the answers so you’ll always be up to date.
 
 ***
 

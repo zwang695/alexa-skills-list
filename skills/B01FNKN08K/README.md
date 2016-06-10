@@ -9,7 +9,7 @@ To use the Course Catalog for Miami Dade College skill, try saying...
 
 * *Alexa, ask My Course Catalog which course is COP 2270*
 
-The Course Catalog for Miami Dade College skill will allow the user to ask Alexa a course number, and she will respond with the full course name, course description?, any pre/co-requisites, and the credit count. The user does not need to create any form of account or be enrolled at Miami Dade College. This skill is not an official product of the Miami Dade College.
+The Course Catalog for Miami Dade College skill will allow the user to ask Alexa a course number, and she will respond with the full course name, course description​, any pre/co-requisites, and the credit count. The user does not need to create any form of account or be enrolled at Miami Dade College. This skill is not an official product of the Miami Dade College.
 
 ***
 

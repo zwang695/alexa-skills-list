@@ -11,7 +11,7 @@ To use the Package Tracker skill, try saying...
 
 Alexa can now inform you about the status of your shipments!  Link your email accounts where you receive all your package shipping messages and you can ask Package Tracker about delivery status. 
 
-Works with all mail providers?Gmail, Yahoo, Exchange, iCloud, IMAP and others. 
+Works with all mail providers—Gmail, Yahoo, Exchange, iCloud, IMAP and others. 
 
 PLEASE NOTE: Email Assistant can only inform you about the packages if she finds any package shipment in the email you have connected to EasilyDo. To connect multiple Gmails or email accounts other than Gmail, please log in to your EasilyDo account at www.easilydo.com and then add the other email accounts including multiple Gmail accounts. 
 

@@ -11,7 +11,7 @@ To use the Speak Jamaican skill, try saying...
 
 Alexa is making learning about the island of Jamaica fun and easy. With the Speak Jamaican skill, Alexa will tell you many interesting and fun facts about Jamaica's weather, people, food, history, language, and music.  Alexa can even teach you to speak Jamaican! Currently, Alexa can translate simple words like mother, father, brother, sister, man, woman, boy, girl, etc., and with new words being added daily, you will be speaking Jamaican in no time!
 
-To get started, just say ?Alexa, open Speak Jamaican?. Alexa will help you to learn all about Jamaica and to speak Jamaican in no time.
+To get started, just say “Alexa, open Speak Jamaican”. Alexa will help you to learn all about Jamaica and to speak Jamaican in no time.
 
 ***
 

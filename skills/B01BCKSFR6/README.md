@@ -11,7 +11,7 @@ To use the Toronto Transit skill, try saying...
 
 Toronto Transit provides live predictions for the arrival time of Toronto buses and streetcars so you never have to wait outside too long (especially during the winter). Under the covers we use GPS locations to receive real-time route data as to when the next buses/streetcar will arrive at any specific bus stop.
 
-Just tell Alexa a streetcar/bus number and stop number to receive live arrival times.  You can save your nearest stop number and your usual bus or streetcar as defaults so next time you can simply ask ?Alexa, ask Toronto Transit when should I leave ??
+Just tell Alexa a streetcar/bus number and stop number to receive live arrival times.  You can save your nearest stop number and your usual bus or streetcar as defaults so next time you can simply ask “Alexa, ask Toronto Transit when should I leave ?”
 
 To reset your saved settings say: "Alexa, ask Toronto Transit to clear my settings"
 

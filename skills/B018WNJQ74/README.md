@@ -3,7 +3,7 @@
 
 To use the HuffPost skill, try saying...
 
-* *"Alexa, open HuffPost? (To hear latest news headlines for today)*
+* *"Alexa, open HuffPost” (To hear latest news headlines for today)*
 
 * *"Alexa, ask HuffPost for the news"*
 

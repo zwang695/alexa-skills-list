@@ -9,7 +9,7 @@ To use the OurGroceries skill, try saying...
 
 * *Alexa, ask OurGroceries what are my lists.*
 
-This skill lets you add items to the shopping lists on your OurGroceries app. The app keeps your grocery lists instantly synchronized on all the iPhone and Android smartphones in your household?and it?s free! It also tracks recipes, takes photos of items, and scans barcodes.
+This skill lets you add items to the shopping lists on your OurGroceries app. The app keeps your grocery lists instantly synchronized on all the iPhone and Android smartphones in your household—and it’s free! It also tracks recipes, takes photos of items, and scans barcodes.
 
 Just install the app on your phone, enter your email address in the "List sharing" screen in preference, then enable this skill. After saying, "Alexa, open OurGroceries", you'll be guided through the process of connecting your Echo to your OurGroceries account.
 

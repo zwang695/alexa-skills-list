@@ -9,7 +9,7 @@ To use the The Name Game (banana-fana) skill, try saying...
 
 * *Alexa, open The Name Game and use Jenny.*
 
-Kids love playing The Name Game with Alexa. For example, just say ?Alexa, open The Name Game and use Jenny? and Alexa will say ?Jenny jenny bo-benny, banana-fana fo-fenny, fee fi mo-menny, Jenny.? Try using your name!
+Kids love playing The Name Game with Alexa. For example, just say “Alexa, open The Name Game and use Jenny” and Alexa will say “Jenny jenny bo-benny, banana-fana fo-fenny, fee fi mo-menny, Jenny.” Try using your name!
 
 ***
 

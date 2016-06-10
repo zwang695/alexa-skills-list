@@ -11,7 +11,7 @@ To use the Campbell's Kitchen skill, try saying...
 
 Your kitchen just got a whole lot smarter!
 
-Planning dinner has never been easier. Just ask Alexa to open Campbell?s Kitchen, and we?ll do the rest. You?ll enjoy a daily Top-5 list of triple-tested recipes matched to your taste and time preferences, so you can make meals without all of the hassle. That?s dinner solved ? from the folks at Campbell?s Kitchen.
+Planning dinner has never been easier. Just ask Alexa to open Campbell’s Kitchen, and we’ll do the rest. You’ll enjoy a daily Top-5 list of triple-tested recipes matched to your taste and time preferences, so you can make meals without all of the hassle. That’s dinner solved – from the folks at Campbell’s Kitchen.
 
 ***
 

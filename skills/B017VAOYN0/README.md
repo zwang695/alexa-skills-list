@@ -5,7 +5,7 @@ To use the Daily Word skill, try saying...
 
 * *Alexa open Daily Word*
 
-Learn a new word every day, just say ?open Daily Word? and Alexa will select a new word along with its definition.
+Learn a new word every day, just say “open Daily Word” and Alexa will select a new word along with its definition.
 
 UPDATE - 
 Now spelling out your daily word.

@@ -25,9 +25,9 @@ There are two primary modes for this skill, FIND and TRY. Using FIND allows you 
 
 Trying a recipe will create a new current Recipe page and an Ingredients and Instructions list.
 
-To navigate and hear ingredients or instructions list items use the GET voice command.?
+To navigate and hear ingredients or instructions list items use the GET voice command. 
 
-VOICE COMMANDS?
+VOICE COMMANDS 
 Updated: 5/17/2016
 
 --------------------------------------
@@ -41,7 +41,7 @@ Find a recipe with a one to five word search phrase.
 - Find cherry pies
 - Find orange chicken recipes
 - Find green bean casseroles
-- Find honey glazed ham recipes?
+- Find honey glazed ham recipes 
 
 Avoid using words like "a", or "an", or "the".
 
@@ -75,12 +75,12 @@ Gets Ingredients or Instructions list and reads the first ingredient or step.
 - Get my Instructions list.
 
 --------------------------------------
-GET {Position} {List Name}?
+GET {Position} {List Name} 
 Navigate the Recipes, Ingredients and Instructions lists by saying:
 
 GET >
 First, Current, Next, Previous, Last >
-Recipe, Ingredient, Instruction or Step?
+Recipe, Ingredient, Instruction or Step 
 
 For example:
 - Get first Ingredient

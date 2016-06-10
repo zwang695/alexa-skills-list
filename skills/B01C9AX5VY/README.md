@@ -9,9 +9,9 @@ To use the The Wayne Investigation skill, try saying...
 
 * *Chase thief*
 
-Who killed Thomas and Martha Wayne? In this choose-your-own-adventure mystery game, Alexa guides you as you hit the mean streets of Gotham to investigate the murder of young Bruce Wayne?s parents. Can you navigate around the story?s dead ends to find the path that solves the crime?
+Who killed Thomas and Martha Wayne? In this choose-your-own-adventure mystery game, Alexa guides you as you hit the mean streets of Gotham to investigate the murder of young Bruce Wayne’s parents. Can you navigate around the story’s dead ends to find the path that solves the crime?
  
-To launch this skill, say ?Open the Wayne Investigation.? During the game, you can say "repeat options," "go back," or "skip." For further assistance, say "help".
+To launch this skill, say “Open the Wayne Investigation.” During the game, you can say "repeat options," "go back," or "skip." For further assistance, say "help".
 
 Parental guidance suggested. The Wayne Investigation contains content that may not suitable for all ages.
 

@@ -9,7 +9,7 @@ To use the Paul's Science Time skill, try saying...
 
 * *Repeat*
 
-Test your knowledge of the human body with this vocal quiz brought to you by Emmett Reiner for the Wildwood 7-7 science class in Los Angeles. Test your knowledge of the human body with this 7th-grade? level midterm.
+Test your knowledge of the human body with this vocal quiz brought to you by Emmett Reiner for the Wildwood 7-7 science class in Los Angeles. Test your knowledge of the human body with this 7th-grade​ level midterm.
 
 ***
 

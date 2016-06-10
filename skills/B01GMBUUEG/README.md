@@ -9,7 +9,7 @@ To use the Fuzzy Science Language skill, try saying...
 
 * *Alexa, ask fuzzy science language to give me some phrases*
 
-Explain fuzzy language found in science and medicine. There are eighteen phrases that can be explained. An example of an explained phrase is for ?It is believed that...? Source: http://lotsofjokes.com/fuzzy_language.asp
+Explain fuzzy language found in science and medicine. There are eighteen phrases that can be explained. An example of an explained phrase is for “It is believed that...” Source: http://lotsofjokes.com/fuzzy_language.asp
 
 ***
 

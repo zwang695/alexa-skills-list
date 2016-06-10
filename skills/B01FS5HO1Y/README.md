@@ -11,7 +11,7 @@ To use the US State Capitals Trivia skill, try saying...
 
 Alexa will go through all 50 states, one at a time, and ask you for it's capital. At the end (and any time along the way) you can get your score.
 
-Map Image via ? OpenStreetMap contributors
+Map Image via © OpenStreetMap contributors
 
 ***
 

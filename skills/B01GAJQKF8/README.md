@@ -9,7 +9,7 @@ To use the Richmond Virginia Facts skill, try saying...
 
 * *Alexa, ask RVA Facts for a fact*
 
-Richmond, the capital of Virginia, is among America?s oldest cities. Learn some fun facts about Richmond, known locally as RVA.
+Richmond, the capital of Virginia, is among America’s oldest cities. Learn some fun facts about Richmond, known locally as RVA.
 
 ***
 

@@ -11,10 +11,10 @@ To use the Relationary skill, try saying...
 
 To use Relationary, try saying...
 Alexa, Open Relationary
-Alexa starts by asking how many players and rounds you wish to play. Alexa will then say words. You respond with common related words in the same category. For example, if Alexa says ?banana, hat?, you might respond ?apple, shirt?. If Alexa says ?arm, romaine lettuce, blue?, you might say ?head, onions, green?. Each round increases the number of words that Alexa says.
+Alexa starts by asking how many players and rounds you wish to play. Alexa will then say words. You respond with common related words in the same category. For example, if Alexa says “banana, hat”, you might respond “apple, shirt”. If Alexa says “arm, romaine lettuce, blue”, you might say “head, onions, green”. Each round increases the number of words that Alexa says.
 There are currently five categories of words: fruits, colors, animals, vegetables, clothes, body.
 You are not allowed to repeat back the same word that Alexa said.
-You can ask for help by saying ?Alexa, help?, start a new game by saying ?Alexa start?, or stop the game by saying ?Alexa, stop? or "Alexa, cancel" to end your game.
+You can ask for help by saying “Alexa, help”, start a new game by saying “Alexa start”, or stop the game by saying “Alexa, stop” or "Alexa, cancel" to end your game.
 If you fail to respond in time, that's ok. Just re-open Relationary and it picks up where you left off.
 
 ***

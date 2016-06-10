@@ -9,9 +9,9 @@ To use the Jeopardy! J6 skill, try saying...
 
 * *I don't know!*
 
-Did you know that every Jeopardy! category has an ?extra? 6th clue? Now, you can play those clues in the new J6 game on Echo! With a single voice command, test your trivia knowledge with new daily clues written by the show?s official writers. Step up to the podium and get ready for a wide range of categories including sports, pop culture, travel, world history and much more. Get the ?true? Jeopardy! experience now as you shout out answers just like contestants in the show!
+Did you know that every Jeopardy! category has an “extra” 6th clue? Now, you can play those clues in the new J6 game on Echo! With a single voice command, test your trivia knowledge with new daily clues written by the show’s official writers. Step up to the podium and get ready for a wide range of categories including sports, pop culture, travel, world history and much more. Get the “true” Jeopardy! experience now as you shout out answers just like contestants in the show!
  
-Celebrate over 30 seasons of America?s Favorite Quiz Show??install the skill and play today!
+Celebrate over 30 seasons of America’s Favorite Quiz Show®—install the skill and play today!
  
 *PLEASE NOTE: If you have issues, questions, or comments please email us at gamesupport@spe.sony.com. We want to hear directly from you!
 

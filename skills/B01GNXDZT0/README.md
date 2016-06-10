@@ -9,7 +9,7 @@ To use the BigBandTrivia skill, try saying...
 
 * *Alexa ask Big band trivia to start a new game*
 
-This is just for fun to help quiz people to see how much they know about big band music.
+This is just for fun to help quiz people to see how much they know about big band music and hopefully to teach a little bit. Technically, the bands included here range over both traditional jazz big bands, as well as the later jump blues bands. These are all included in the broad/sometimes a little vague at the edges 'swing era.'
 
 ***
 

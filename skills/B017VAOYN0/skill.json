@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Other",
-  "description": "Learn a new word every day, just say ?open Daily Word? and Alexa will select a new word along with its definition.\n\nUPDATE - \nNow spelling out your daily word.",
+  "description": "Learn a new word every day, just say “open Daily Word” and Alexa will select a new word along with its definition.\n\nUPDATE - \nNow spelling out your daily word.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa open Daily Word",

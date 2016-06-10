@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Explain fuzzy language found in science and medicine. There are eighteen phrases that can be explained. An example of an explained phrase is for ?It is believed that...? Source: http://lotsofjokes.com/fuzzy_language.asp",
+  "description": "Explain fuzzy language found in science and medicine. There are eighteen phrases that can be explained. An example of an explained phrase is for “It is believed that...” Source: http://lotsofjokes.com/fuzzy_language.asp",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask fuzzy science language to give me a phrase",

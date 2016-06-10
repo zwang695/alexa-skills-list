@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Travel",
-  "description": "Users can ask Alexa when the next MBTA bus would arrive using the stop id. You can find your stop ID at http://www.mbta.com/rider_tools/realtime_bus/ or from the bus stop sign. This is an opensource project on https://github.com/sajingeo/askMBTA\n\nExample Interaction:\n\nUser: ?Alexa, open Boston T. Time?\n\nAlexa : ?Welcome to the Boston T-time app Please tell me your stop I D, and route number For example my stop ID is one four one nine and route number is sixty nine?. \n\nUser: ?my stop id is one four one nine and bus number is sixty nine?. \n\nAlexa: ?The next bus 69 bus towards Harvard, will arrive in 5 minutes\".",
+  "description": "Users can ask Alexa when the next MBTA bus would arrive using the stop id. You can find your stop ID at http://www.mbta.com/rider_tools/realtime_bus/ or from the bus stop sign. This is an opensource project on https://github.com/sajingeo/askMBTA\n\nExample Interaction:\n\nUser: “Alexa, open Boston T. Time”\n\nAlexa : “Welcome to the Boston T-time app Please tell me your stop I D, and route number For example my stop ID is one four one nine and route number is sixty nine”. \n\nUser: “my stop id is one four one nine and bus number is sixty nine”. \n\nAlexa: “The next bus 69 bus towards Harvard, will arrive in 5 minutes\".",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, Ask Boston T-time when the next sixty nine bus will arrive at stop one four one nine",

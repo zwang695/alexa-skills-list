@@ -9,7 +9,7 @@ To use the Ooma skill, try saying...
 
 * *Alexa, use Ooma to call Mom*
 
-The Ooma skill lets Ooma customers listen to voicemail via the Echo.  Just follow the instructions to login with an existing Ooma account and then say things like ?Alexa, ask Ooma to play my voicemail.? 
+The Ooma skill lets Ooma customers listen to voicemail via the Echo.  Just follow the instructions to login with an existing Ooma account and then say things like “Alexa, ask Ooma to play my voicemail.” 
 
 This skill also lets anyone dial their phone using voice commands.  IMPORTANT NOTE:  This does not place the call using the Echo device.  It is not possible for a third party skill to use the Echo microphone and speaker for a call.  This skill connects the call via your existing phone.  
 

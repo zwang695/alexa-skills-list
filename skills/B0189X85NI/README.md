@@ -9,7 +9,7 @@ To use the SPAMMY! skill, try saying...
 
 * *Alexa, launch 'Spammy' and get a recipe*
 
-Pink, versatile deliciousness.  It?s perfect fried with eggs and wrapped like sushi and has made its way into countless dishes worldwide. But what other undiscovered possibilities does it have to bring more porky goodness into your life? Make sure you have SPAMMY ?she?s never out of ideas.
+Pink, versatile deliciousness.  It’s perfect fried with eggs and wrapped like sushi and has made its way into countless dishes worldwide. But what other undiscovered possibilities does it have to bring more porky goodness into your life? Make sure you have SPAMMY …she’s never out of ideas.
 
 ***
 

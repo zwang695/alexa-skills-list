@@ -14,7 +14,7 @@ AOL gives you the information that you need to know to keep you informed and up 
 You can ask AOL in a natural tone for things like: "Alexa, ask AOL what's happening right now", "Alexa, ask AOL for today's news", "Alexa, ask AOL for the sports news", 
 "Alexa, ask AOL what's happening in entertainment", "Alexa, ask AOL what's happening in finance" or any combination of these.
 
-You can ask for help at any time by simply saying ?help me? and cancel your request by just saying ?stop?.
+You can ask for help at any time by simply saying “help me” and cancel your request by just saying “stop”.
 
 ***
 

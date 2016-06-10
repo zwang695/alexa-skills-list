@@ -9,7 +9,7 @@ To use the Iris skill, try saying...
 
 * *Alexa, ask Iris to contact John Doe*
 
-In Greek mythology, Iris is the messenger of the Gods. In today?s reality, Iris is the messenger of Alexa. Simply verbalize the command, ?Alexa, ask Iris to holler at [name of recipient]? and Iris will send a pre-composed e-mail, asking the recipient to contact you. You?ll need a Google Account, so that Iris can access your Google Contacts.
+In Greek mythology, Iris is the messenger of the Gods. In today’s reality, Iris is the messenger of Alexa. Simply verbalize the command, “Alexa, ask Iris to holler at [name of recipient]” and Iris will send a pre-composed e-mail, asking the recipient to contact you. You’ll need a Google Account, so that Iris can access your Google Contacts.
 
 ***
 

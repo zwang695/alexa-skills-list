@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "News",
-  "description": "AOL gives you the information that you need to know to keep you informed and up to date with the news. Headlines are curated by our team of editors and sourced from all of our media brands, to bring you the top stories covering a wide arrange of categories such as: headlines, news, sports, finance and entertainment.\n\nYou can ask AOL in a natural tone for things like: \"Alexa, ask AOL what's happening right now\", \"Alexa, ask AOL for today's news\", \"Alexa, ask AOL for the sports news\", \n\"Alexa, ask AOL what's happening in entertainment\", \"Alexa, ask AOL what's happening in finance\" or any combination of these.\n\nYou can ask for help at any time by simply saying ?help me? and cancel your request by just saying ?stop?.",
+  "description": "AOL gives you the information that you need to know to keep you informed and up to date with the news. Headlines are curated by our team of editors and sourced from all of our media brands, to bring you the top stories covering a wide arrange of categories such as: headlines, news, sports, finance and entertainment.\n\nYou can ask AOL in a natural tone for things like: \"Alexa, ask AOL what's happening right now\", \"Alexa, ask AOL for today's news\", \"Alexa, ask AOL for the sports news\", \n\"Alexa, ask AOL what's happening in entertainment\", \"Alexa, ask AOL what's happening in finance\" or any combination of these.\n\nYou can ask for help at any time by simply saying “help me” and cancel your request by just saying “stop”.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask AOL for the top headlines",

@@ -11,7 +11,7 @@ To use the Funny Quoter skill, try saying...
 
 Funny Quoter has some of the weirdest quotes up her sleeve! If you're feeling blue, and need something to cheer you up, just call on Funny Quoter and she's sure to serve up something that will make you smile!
 
-What?s even more enjoyable is that our funny quotes are recorded ? using natural human voices! So no more robotic tones and humor, get busy laughing with our new update! 
+What’s even more enjoyable is that our funny quotes are recorded – using natural human voices! So no more robotic tones and humor, get busy laughing with our new update! 
 
 All you have to say is: Alexa, tell Funny Quoter to make me smile or make me chuckle! Or Tell Funny Quoter to cheer me up! And voila! You'll hear a quote you've probably not heard before!
 

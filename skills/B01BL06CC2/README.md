@@ -9,13 +9,13 @@ To use the mydlink Home skill, try saying...
 
 * *Alexa, ask my dee link to turn on kitchen light.*
 
-When your home reacts to you, it?s not magic ? but it?s pretty darn close. With a D-Link Wi-Fi Smart Plug, you can control & schedule your devices from virtually anywhere. Left the iron on? No problem! Did you turn your bedroom fan off? Let?s find out! No hub or complicated setup required ? just a simple device that turns any home into a smart home.
+When your home reacts to you, it’s not magic – but it’s pretty darn close. With a D-Link Wi-Fi Smart Plug, you can control & schedule your devices from virtually anywhere. Left the iron on? No problem! Did you turn your bedroom fan off? Let’s find out! No hub or complicated setup required – just a simple device that turns any home into a smart home.
  
-With the mydlink home skill, Alexa can turn your appliances on and off, set schedules and even monitor your energy usage. Enjoy your personal barista by asking Alexa to start brewing your coffee when you wake up or make sure to turn the lights off when you leave ? it?s easy!
+With the mydlink home skill, Alexa can turn your appliances on and off, set schedules and even monitor your energy usage. Enjoy your personal barista by asking Alexa to start brewing your coffee when you wake up or make sure to turn the lights off when you leave – it’s easy!
  
-To get your smart home started, you?ll need a mydlink Wi-Fi Smart Plug (DSP-W110 and DSP-W215, available from Amazon and most retailers) setup on your Wi-Fi network and connected to your free mydlink account.
+To get your smart home started, you’ll need a mydlink Wi-Fi Smart Plug (DSP-W110 and DSP-W215, available from Amazon and most retailers) setup on your Wi-Fi network and connected to your free mydlink account.
  
-Just say ?Alexa, ask mydlink to turn on living room light.? and Alexa will connect to your mydlink account and help you create a truly automated home.
+Just say “Alexa, ask mydlink to turn on living room light.” and Alexa will connect to your mydlink account and help you create a truly automated home.
 
 ***
 
