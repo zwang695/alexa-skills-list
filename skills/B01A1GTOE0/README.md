@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="NYC Subway Status icon" width="36"> [NYC Subway Status](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.feb967ee-1f82-43fb-9b17-0e49f15c80fe)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the NYC Subway Status skill, try saying...
 

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01G5ZF0P8",
-  "averageRating": 0,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Lifestyle",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "foo bot",
   "name": "Foobot your good air guru",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "YYdJqlF1AKCwYFNgW25SVUgJi",
   "permissions": null,
   "privacyPolicyUrl": "http://foobot.io/2keep_legal_doc/Privacy_Policy.htm",
