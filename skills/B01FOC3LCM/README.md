@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Inspire Me icon" width="36"> [Inspire Me](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.05b967b6-36f4-4870-af6b-ff4df257805e)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Inspire Me skill, try saying...
 

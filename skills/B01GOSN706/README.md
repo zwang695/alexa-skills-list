@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Meow! icon" width="36"> [Meow!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.04f96d93-e4c2-4c81-8bdb-c631901b580b)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
+![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Meow! skill, try saying...
 
