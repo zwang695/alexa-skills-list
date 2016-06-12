@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Euro Soccer icon" width="36"> [Euro Soccer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5d51d603-bf7a-4a75-b988-d6094c6bc546)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Euro Soccer skill, try saying...
 
