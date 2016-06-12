@@ -4,7 +4,7 @@
     "api-cdn.amazon.com"
   ],
   "asin": "B01CDF6972",
-  "averageRating": 4.5,
+  "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
   "category": "Home-Automation",
@@ -24,7 +24,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "mosaic",
   "name": "Mosaic",
-  "numberOfReviews": 5,
+  "numberOfReviews": 4,
   "pamsPartnerId": "a6kKvkg7dXf8TZZ9NWhIYYc19",
   "permissions": null,
   "privacyPolicyUrl": "https://saymosaic.com/privacy",
