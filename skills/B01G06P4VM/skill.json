@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01G06P4VM",
-  "averageRating": 5,
+  "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
   "category": "Travel",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "seattle bike share",
   "name": "Seattle Bike Share",
-  "numberOfReviews": 1,
+  "numberOfReviews": 0,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
