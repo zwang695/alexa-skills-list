@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BFXE0RO",
-  "averageRating": 4,
+  "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
   "category": "Connected-Home",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "cheer lights",
   "name": "CheerLights",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
