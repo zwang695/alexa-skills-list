@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01DOP9H2O",
-  "averageRating": 3.3,
+  "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
   "category": "Home-Automation",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "alarm dot com",
   "name": "Alarm.com",
-  "numberOfReviews": 18,
+  "numberOfReviews": 19,
   "pamsPartnerId": "VKpdY4I8erRgOxGMhakCGNRnT",
   "permissions": null,
   "privacyPolicyUrl": "http://www.alarm.com/privacy_policy.aspx",

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Is The Lake Full Yet? icon" width="36"> [Is The Lake Full Yet?](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1f8a0486-62b3-4388-af9f-917ef663196c)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
+![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Is The Lake Full Yet? skill, try saying...
 
