@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="ISY Optimized for Smart Home icon" width="36"> [ISY Optimized for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.63cc55e8-786e-4179-8065-5ef45befda83)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 4
+![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the ISY Optimized for Smart Home skill, try saying...
 
