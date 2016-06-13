@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Education",
-  "description": "Presidential Trivia will ask five random questions about Presidents of the United States, from Washington to Obama.   Wrong answers will be corrected, with some explanation and history about the answer.   Ask Alexa to Ask, Open or Start Presidential Trivia, and answer five multiple choice questions using numbers one through four.    See if you can score 5 each time!",
+  "description": "Presidential Trivia will ask five random questions about Presidents of the United States, from Washington to Obama.   Unlike other historical quizzes, wrong answers here will be corrected, with some added explanation and history about the answer, adding an interesting note.   Ask Alexa to Ask, Open or Start Presidential Trivia, and answer five multiple choice questions using numbers one through four.    Each time running this should present a set of different questions.   \n\nContact TorgCon@Aol.Com with any questions or issues.    Thank you.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, start Presidential Trivia",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "A trivia game about United States Presidents.  Wrong choices will be corrected with some extra historical context which will explain the answer.",
+  "shortDescription": "Historical US President quiz.  Wrong choices will be corrected using extra historical context which will explain the answer with an interesting note.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

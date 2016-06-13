@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Finance",
-  "description": "The skill will pull the latest closing day price and date for gold, silver or oil and speak the price and date in response.  No special requirements are needed.",
+  "description": "The skill will pull the latest closing day price and date for gold and silver and speak the price and date in response.  No special requirements are needed.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask Gold Bug what's the price of (gold/silver/oil)",
-    "Alexa, ask Gold Bug what is the price of (gold/silver/oil)",
-    "Alexa, ask Gold Bug for the (gold/silver/oil) price"
+    "Alexa, ask Gold Bug what's the price of (gold/silver)",
+    "Alexa, ask Gold Bug what is the price of (gold/silver)",
+    "Alexa, ask Gold Bug for the (gold/silver) price"
   ],
   "firstReleaseDate": 1455325098.216,
   "homepageLinkText": null,
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Get the latest closing day prices for gold, silver and oil with Gold Bug!",
+  "shortDescription": "Get the latest closing day prices for gold and silver with Gold Bug!",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

@@ -9,7 +9,9 @@ To use the Presidential Trivia skill, try saying...
 
 * *Alexa, launch Presidential Trivia*
 
-Presidential Trivia will ask five random questions about Presidents of the United States, from Washington to Obama.   Wrong answers will be corrected, with some explanation and history about the answer.   Ask Alexa to Ask, Open or Start Presidential Trivia, and answer five multiple choice questions using numbers one through four.    See if you can score 5 each time!
+Presidential Trivia will ask five random questions about Presidents of the United States, from Washington to Obama.   Unlike other historical quizzes, wrong answers here will be corrected, with some added explanation and history about the answer, adding an interesting note.   Ask Alexa to Ask, Open or Start Presidential Trivia, and answer five multiple choice questions using numbers one through four.    Each time running this should present a set of different questions.   
+
+Contact TorgCon@Aol.Com with any questions or issues.    Thank you.
 
 ***
 

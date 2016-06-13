@@ -9,7 +9,7 @@ To use the PlantFacts skill, try saying...
 
 * *Alexa, ask plant facts to give me some info  about plants*
 
-This app is aimed at kids. It will repeat a random plant fact when asked.
+This app is really just a fun little app designed to teach interesting facts to people in a simple, easy format.
 
 ***
 

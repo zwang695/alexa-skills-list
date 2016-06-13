@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Entertainment",
-  "description": "This old English phrase has been past down through generations of both cultured (and un-cultured) British people. It is high time Alexa also benefitted from this knowledge. Simply ask \"Alexa, ask how many beans make five?\" No need for an account or special hardware.",
+  "description": "This old English phrase has been passed down through generations of both cultured (and un-cultured) British people. It is high time Alexa also benefitted from this knowledge. Simply ask \"Alexa, ask how many beans make five?\" No need for an account or special hardware.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask how many beans make five",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "This skill is an absolute must have for anybody who is unsure how many beans make five. An old English phrase past down through generations of cultured Brits.",
+  "shortDescription": "This skill is an absolute must have for anybody who is unsure how many beans make five. An old English phrase passed down through generations of cultured Brits.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

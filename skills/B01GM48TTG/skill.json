@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "This app is aimed at kids. It will repeat a random plant fact when asked.",
+  "description": "This app is really just a fun little app designed to teach interesting facts to people in a simple, easy format.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask plant facts to teach me something about plants.",

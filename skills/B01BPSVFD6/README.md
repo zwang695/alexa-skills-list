@@ -3,13 +3,13 @@
 
 To use the Gold Bug skill, try saying...
 
-* *Alexa, ask Gold Bug what's the price of (gold/silver/oil)*
+* *Alexa, ask Gold Bug what's the price of (gold/silver)*
 
-* *Alexa, ask Gold Bug what is the price of (gold/silver/oil)*
+* *Alexa, ask Gold Bug what is the price of (gold/silver)*
 
-* *Alexa, ask Gold Bug for the (gold/silver/oil) price*
+* *Alexa, ask Gold Bug for the (gold/silver) price*
 
-The skill will pull the latest closing day price and date for gold, silver or oil and speak the price and date in response.  No special requirements are needed.
+The skill will pull the latest closing day price and date for gold and silver and speak the price and date in response.  No special requirements are needed.
 
 ***
 

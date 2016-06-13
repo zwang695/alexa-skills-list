@@ -9,7 +9,7 @@ To use the beans5 skill, try saying...
 
 * *Alexa, ask how many beans make one*
 
-This old English phrase has been past down through generations of both cultured (and un-cultured) British people. It is high time Alexa also benefitted from this knowledge. Simply ask "Alexa, ask how many beans make five?" No need for an account or special hardware.
+This old English phrase has been passed down through generations of both cultured (and un-cultured) British people. It is high time Alexa also benefitted from this knowledge. Simply ask "Alexa, ask how many beans make five?" No need for an account or special hardware.
 
 ***
 

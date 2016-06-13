@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1225
+**Total Skills Available:** 1233
 
 ***
 
@@ -74,6 +74,14 @@ The best reason yet to own an Echo! Have all the fun of a fart without any of th
 *Alexa, start seven minute workout.*
 
 Are you ready to lead a happier, healthier life?  Get your heart moving and reduce stress in only seven minutes a day!  To start, say 'Start 7-Minute Workout.'
+
+***
+
+## &nbsp;<img src="skills/B01GXGYK0K/skill_icon" alt="70s Music Quiz icon" width="36"> [70s Music Quiz](skills/B01GXGYK0K)
+
+*Alexa, start seventies music quiz*
+
+70s Music Quiz is a fun trivia game about music from that era.
 
 ***
 
@@ -916,7 +924,7 @@ Want to know when a Beanie Boo's birthday is?  Ask Alexa!
 
 *Alexa, ask how many beans make five*
 
-This skill is an absolute must have for anybody who is unsure how many beans make five. An old English phrase past down through generations of cultured Brits.
+This skill is an absolute must have for anybody who is unsure how many beans make five. An old English phrase passed down through generations of cultured Brits.
 
 ***
 
@@ -1701,7 +1709,7 @@ Caves Under Thornhill is a classic maze and monster game.
 
 *Alexa, ask Ceaseless who should I pray for today*
 
-Find out who to pray for each day and receive wisdom from the Bible each day with Ceaseless
+Find out who to pray for each day and receive wisdom from the Bible with Ceaseless. Use it for daily prayer and devotion.
 
 ***
 
@@ -2755,6 +2763,14 @@ Doctor Bones is a medical based trivia game that will challenge you with 5 quest
 
 ***
 
+## &nbsp;<img src="skills/B01GUYRU3E/skill_icon" alt="Dog Buddy icon" width="36"> [Dog Buddy](skills/B01GUYRU3E)
+
+*Alexa, tell dog buddy that I fed the dogs*
+
+Skill to record when you last fed your dogs, so your housemates will know if they have been fed recently or if they still need food.
+
+***
+
 ## &nbsp;<img src="skills/B0193ZD0EU/skill_icon" alt="Dog Facts icon" width="36"> [Dog Facts](skills/B0193ZD0EU)
 
 *Alexa, tell me a dog fact.*
@@ -3788,9 +3804,9 @@ A fun and interesting fact skill for learning about fish.
 
 ## &nbsp;<img src="skills/B01BPSVFD6/skill_icon" alt="Gold Bug icon" width="36"> [Gold Bug](skills/B01BPSVFD6)
 
-*Alexa, ask Gold Bug what's the price of (gold/silver/oil)*
+*Alexa, ask Gold Bug what's the price of (gold/silver)*
 
-Get the latest closing day prices for gold, silver and oil with Gold Bug!
+Get the latest closing day prices for gold and silver with Gold Bug!
 
 ***
 
@@ -4375,6 +4391,14 @@ Control your home automation devices, including z-wave, Philips Hue, Nest and So
 *Alexa, ask india news*
 
 This alexa skill gives the india news on saying to Alexa , " ask india news " after that select your category for example "news from sports" then say "okay".
+
+***
+
+## &nbsp;<img src="skills/B01GU64DXC/skill_icon" alt="IndiaGeek icon" width="36"> [IndiaGeek](skills/B01GU64DXC)
+
+*Alexa ask India Geek to tell something about India*
+
+Facts about India
 
 ***
 
@@ -6183,6 +6207,14 @@ Retrieve stock quotes of publicly traded companies (on NASDAQ & NYSE exchanges) 
 
 ***
 
+## &nbsp;<img src="skills/B01GM6LF3G/skill_icon" alt="Operator Excuses icon" width="36"> [Operator Excuses](skills/B01GM6LF3G)
+
+*Alexa, ask operator excuses for an excuse*
+
+Ask the operator for the technical excuse for the day.
+
+***
+
 ## &nbsp;<img src="skills/B01GC86SRW/skill_icon" alt="orderdisplay icon" width="36"> [orderdisplay](skills/B01GC86SRW)
 
 *Alexa, ask Order Display to go to queue*
@@ -6212,6 +6244,14 @@ With this skill you will never have to guess when your package is arriving. You 
 *Alexa, ask palindromes to say a palindrome*
 
 Says random palindromes
+
+***
+
+## &nbsp;<img src="skills/B01GUK8TRO/skill_icon" alt="Parks Explore icon" width="36"> [Parks Explore](skills/B01GUK8TRO)
+
+*Alexa, ask parks explore what is the list for all national parks*
+
+Parks Explore is a guide the outdoors - with details & insight of the most popular national parks in North America;
 
 ***
 
@@ -6598,7 +6638,7 @@ Learn More About the 2016 Presidential Candidates
 
 *Alexa, start Presidential Trivia*
 
-A trivia game about United States Presidents.  Wrong choices will be corrected with some extra historical context which will explain the answer.
+Historical US President quiz.  Wrong choices will be corrected using extra historical context which will explain the answer with an interesting note.
 
 ***
 
@@ -7122,6 +7162,14 @@ This is a quiz on the state capitals for the United States of America.
 
 ***
 
+## &nbsp;<img src="skills/B01GM79GO0/skill_icon" alt="RideIdea icon" width="36"> [RideIdea](skills/B01GM79GO0)
+
+*Alexa, ask ride idea where should I ride*
+
+Ask for bicycle ride suggestion
+
+***
+
 ## &nbsp;<img src="skills/B01DJJWY9I/skill_icon" alt="Rivers of Europe Trivia icon" width="36"> [Rivers of Europe Trivia](skills/B01DJJWY9I)
 
 *Alexa play European River Trivia*
@@ -7327,6 +7375,14 @@ Scryb makes it easy for anyone to send a text message hands-free from home, or w
 *Alexa, ask Space Geek for a scuba fact*
 
 SCUBA trivia list based on the Space Geek Fact Skill
+
+***
+
+## &nbsp;<img src="skills/B01GOTHPQW/skill_icon" alt="Seattle Area Busing (SAB) icon" width="36"> [Seattle Area Busing (SAB)](skills/B01GOTHPQW)
+
+*Alexa open S. A. B. and get bus 49 from stop 10911*
+
+Get realtime bus arrival and departure info for Seattle area public transit such as King County Metro and Sound Transit, plus more coming soon!
 
 ***
 
@@ -9016,6 +9072,14 @@ Trump answers your most burning questions.
 *Alexa open Truth or Dare*
 
 Truth or Dare Party Game (PG-13)
+
+***
+
+## &nbsp;<img src="skills/B01G9VKCCY/skill_icon" alt="Truth or Dare Unrated icon" width="36"> [Truth or Dare Unrated](skills/B01G9VKCCY)
+
+*Alexa, ask Truth or Dare Unrated to give me the categories.*
+
+Truth or Dare Party Game with categories for all ages. You've been warned!
 
 ***
 
