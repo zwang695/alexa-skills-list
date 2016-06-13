@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1233
+**Total Skills Available:** 1244
 
 ***
 
@@ -728,6 +728,14 @@ Awair tells you about your indoor air quality
 
 ***
 
+## &nbsp;<img src="skills/B01GUZ9YSC/skill_icon" alt="Awesome Animal sounds icon" width="36"> [Awesome Animal sounds](skills/B01GUZ9YSC)
+
+*Alexa, awesome animal sounds*
+
+Awesome animal sounds
+
+***
+
 ## &nbsp;<img src="skills/B01EIFGQEG/skill_icon" alt="Baby Animals icon" width="36"> [Baby Animals](skills/B01EIFGQEG)
 
 *Alexa, open Baby Animals*
@@ -925,6 +933,14 @@ Want to know when a Beanie Boo's birthday is?  Ask Alexa!
 *Alexa, ask how many beans make five*
 
 This skill is an absolute must have for anybody who is unsure how many beans make five. An old English phrase passed down through generations of cultured Brits.
+
+***
+
+## &nbsp;<img src="skills/B01GY4TVRS/skill_icon" alt="BeardTrivia icon" width="36"> [BeardTrivia](skills/B01GY4TVRS)
+
+*alexa launch beard trivia*
+
+Test your knowledge of beards with this fun and factual beard trivia game!
 
 ***
 
@@ -1953,6 +1969,14 @@ A trivia game featuring the greatest rock band in the world, Metallica.
 
 ***
 
+## &nbsp;<img src="skills/B01G4JC3WS/skill_icon" alt="Clean Air icon" width="36"> [Clean Air](skills/B01G4JC3WS)
+
+*Alexa, ask clean air, can we burn today*
+
+Maricopa County clean air
+
+***
+
 ## &nbsp;<img src="skills/B01FQZRYHU/skill_icon" alt="COBOL Facts icon" width="36"> [COBOL Facts](skills/B01FQZRYHU)
 
 *Alexa, open COBOL Facts*
@@ -2232,6 +2256,14 @@ Alexa open ticonews
 *Alexa, ask Couch Potato if I should go outside in Hollywood?*
 
 Couch Potato knows when you should really just stay inside, like, really.
+
+***
+
+## &nbsp;<img src="skills/B01GKKO9BY/skill_icon" alt="CountingGame icon" width="36"> [CountingGame](skills/B01GKKO9BY)
+
+*Alexa, ask counting game to count to 35*
+
+Count along with Alexa
 
 ***
 
@@ -3334,6 +3366,14 @@ Ever wondered how many award miles you need to travel using miles in certain air
 
 ***
 
+## &nbsp;<img src="skills/B01GZ8MSJQ/skill_icon" alt="FlightFactSkill icon" width="36"> [FlightFactSkill](skills/B01GZ8MSJQ)
+
+*Alexa, ask flight fact a fact*
+
+Tells fun aviation facts
+
+***
+
 ## &nbsp;<img src="skills/B01C64OJXQ/skill_icon" alt="FlightSearch icon" width="36"> [FlightSearch](skills/B01C64OJXQ)
 
 *Alexa, Ask Flight Search*
@@ -4119,6 +4159,14 @@ Jewish holidays, Hebrew date converter, Shabbat candle-lighting times, weekly To
 *Alexa ask Henrico County Schools what is for lunch today at Pemberton?*
 
 Complete breakfast and lunch menus for Henrico County Public Schools.
+
+***
+
+## &nbsp;<img src="skills/B01GNNQU1A/skill_icon" alt="Herb Guide icon" width="36"> [Herb Guide](skills/B01GNNQU1A)
+
+*alexa ask  herb guide to tell about ginger*
+
+nutrition facts about multiple herbs
 
 ***
 
@@ -4913,6 +4961,14 @@ LIFX, the world’s brightest color Wi-Fi smart lights. Ask Alexa to switch on t
 *null*
 
 The world's brightest Wi-Fi LED smart lights, no cables or hub needed! Light your home in millions of colors, now with full control via Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01G35D9AS/skill_icon" alt="Lightning Talk icon" width="36"> [Lightning Talk](skills/B01G35D9AS)
+
+*Alexa, ask lightning talk how old Pepper is*
+
+A fun and evolving game for the McJilton family.
 
 ***
 
@@ -6778,6 +6834,18 @@ Quadrivia is like trivia, only more serious and harder. Quadrivia Vocabulary Qui
 
 ***
 
+## &nbsp;<img src="skills/B01ETY8FFE/skill_icon" alt="Quaker icon" width="36"> [Quaker](skills/B01ETY8FFE)
+
+*Alexa, open Quaker*
+
+Create delicious, no-fuss Overnight Oats recipes for on-the-go mornings with Quaker.
+
+To use the Quaker Alexa skill, try saying?
+
+"Alexa, open Quaker"
+
+***
+
 ## &nbsp;<img src="skills/B01D8JH8XQ/skill_icon" alt="Queen Of Pop Trivia icon" width="36"> [Queen Of Pop Trivia](skills/B01D8JH8XQ)
 
 *Alexa, Launch Madonna Trivia*
@@ -7428,6 +7496,14 @@ Control your Sensi™ Wi-Fi Programmable Thermostat without lifting a finger usi
 
 ***
 
+## &nbsp;<img src="skills/B01GGDBR88/skill_icon" alt="SG Buses icon" width="36"> [SG Buses](skills/B01GGDBR88)
+
+*Alexa, launch SG Buses*
+
+Get live estimates of arrival time for public buses in Singapore. Alexa, when is the next bus 33 arriving?
+
+***
+
 ## &nbsp;<img src="skills/B01G13QWMY/skill_icon" alt="Shakespeare Geek icon" width="36"> [Shakespeare Geek](skills/B01G13QWMY)
 
 *Alexa, ask Shakespeare Geek for trivia*
@@ -8006,6 +8082,14 @@ You're the commander of your own naval attack class submarine, tasked with facin
 *"Alexa, ask Sun Kiss to give me a kiss fact"*
 
 Sun Kiss will give you kissing facts. "Alexa, ask Sun Kiss for a fact". You will hear a fact about kissing. Sun Kiss may not be suitable for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01GX613O6/skill_icon" alt="Super buddy icon" width="36"> [Super buddy](skills/B01GX613O6)
+
+*Alexa, ask Super buddy*
+
+Practice solving math questions with increase difficulty in every round.
 
 ***
 
@@ -9729,7 +9813,7 @@ Are you interested in world history. Rely on World History for hundreds of event
 
 *Alexa, open World Holidays.*
 
-Are you interested in world holidays. Rely on World Holidays for dozens of world holidays for every day of the year.
+Are you interested in world holidays? Rely on World Holidays for dozens of world holidays for every day of the year.
 
 ***
 
@@ -9802,6 +9886,14 @@ Yoga Guru is a skill which will tell you how to do a yoga pose.
 *Alexa, ask Yoga Trainer for the next pose*
 
 Yoga Trainer
+
+***
+
+## &nbsp;<img src="skills/B01GZ7KPG0/skill_icon" alt="YoMama icon" width="36"> [YoMama](skills/B01GZ7KPG0)
+
+*Alexa, ask yo mama to tell me a joke*
+
+Yo Mama jokes
 
 ***
 

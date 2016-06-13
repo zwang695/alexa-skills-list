@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="BrickBot icon" width="36"> [BrickBot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5e5adab2-96d6-46ac-92d1-0b088c424951)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the BrickBot skill, try saying...
 

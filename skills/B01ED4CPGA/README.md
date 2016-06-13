@@ -9,14 +9,14 @@ To use the Weight Tracker skill, try saying...
 
 * *get my weekly report*
 
-Tracker stores your weight in a database, keeps track of your goal, and provides you progress reports. Build a habit of keeping track of daily weight with Alexa if you want to lose, gain or maintain your weight.  Alexa provides effortless tracking, and no numbers needed to punch into a mobile or web app. Just  stand on a scale once a day, look at your weight and say ...
+Weight tracker stores your weight in a database, keeps track of your goal, and provides you progress reports. Build a habit of keeping track of daily weight with Alexa whether you want to lose, gain or maintain your weight.  Alexa provides effortless tracking, and no numbers needed to punch into a mobile or web app. Just  stand on a scale once a day, look at your weight and say ...
 
-Alexa ask tracker to save one six zero pounds
+Alexa ask weight tracker to save one six zero pounds
 set target one fifty two pounds
 get my weekly report
 help
 
-Tracker understands pounds and kilograms, keeps your daily weight up to one year and provides you weekly, monthly, quarterly and annual reports.
+Weight tracker understands pounds and kilograms, keeps your daily weight up to one year and provides you weekly, monthly, quarterly and annual reports.
 
 ***
 

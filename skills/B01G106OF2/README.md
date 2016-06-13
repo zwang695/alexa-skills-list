@@ -9,7 +9,7 @@ To use the World Holidays skill, try saying...
 
 * *Alexa, ask World Holidays to get world holidays for August seventeenth.*
 
-Are you interested in world holidays. Rely on World Holidays for dozens of world holidays for every day of the year. Information source: Wikipedia.org.
+Are you interested in world holidays? Rely on World Holidays for dozens of world holidays for every day of the year. Information source: Wikipedia.org.
 
 ***
 
