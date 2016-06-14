@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1244
+**Total Skills Available:** 1251
 
 ***
 
@@ -1290,7 +1290,7 @@ Get a random board game from your BoardGameGeek.com board game collection
 
 ## &nbsp;<img src="skills/B01FNXM6SW/skill_icon" alt="Board Games Answers icon" width="36"> [Board Games Answers](skills/B01FNXM6SW)
 
-*Alexa, ask board games how many people can play Ticket to Ride*
+*Alexa, ask board games how many people can play Monopoly*
 
 Get answers to common board game rule questions.
 
@@ -2307,6 +2307,14 @@ Unofficial Basic Crafting Helper for the Starbound PC Game.
 
 ***
 
+## &nbsp;<img src="skills/B01GXUF8UW/skill_icon" alt="Crafting Trivia icon" width="36"> [Crafting Trivia](skills/B01GXUF8UW)
+
+*Alexa, launch crafting trivia*
+
+A crafting trivia game that'll test your knowledge on all things crafts.
+
+***
+
 ## &nbsp;<img src="skills/B01EXOH8ZI/skill_icon" alt="Crater Moon Trivia icon" width="36"> [Crater Moon Trivia](skills/B01EXOH8ZI)
 
 *Alexa open crater moon*
@@ -2591,7 +2599,7 @@ Gives Washington DC Metro light rail train arrival and departure times, as well 
 
 *Alexa, ask Metro Tracker for the next orange line to Vienna from Metro Center*
 
-Get the most recent arrival times, estimated travel time, filter trains by line and direction, and more! Set a home station to make things even easier.
+Get arrival times, alerts and delays, estimated travel time, filter trains by line and direction, and more! Set a home station to make things even easier.
 
 ***
 
@@ -3113,6 +3121,14 @@ Get event listings from Bandsintown.com.
 *Alexa launch event seeker*
 
 eventseeker is your personalized event service with a focus on minimizing search and maximizing discovery.
+
+***
+
+## &nbsp;<img src="skills/B01GWE6JU2/skill_icon" alt="Every Day icon" width="36"> [Every Day](skills/B01GWE6JU2)
+
+*Alexa, open Every Day.*
+
+Are you interested in basic calendar information? Rely on Every Day for basic calendar information for every day of the year.
 
 ***
 
@@ -4498,6 +4514,14 @@ Inspirational Quotes
 
 ***
 
+## &nbsp;<img src="skills/B01GZNOZX8/skill_icon" alt="Inspirational Quotes icon" width="36"> [Inspirational Quotes](skills/B01GZNOZX8)
+
+*Alexa, ask inspirational quote*
+
+To give an inspirational quote
+
+***
+
 ## &nbsp;<img src="skills/B01FN331S6/skill_icon" alt="Inspire icon" width="36"> [Inspire](skills/B01FN331S6)
 
 *Alexa, tell Inspiring Quote  to inspire me*
@@ -5317,6 +5341,14 @@ Suggests random meals, food or dishes.
 
 ***
 
+## &nbsp;<img src="skills/B01GM0CXSI/skill_icon" alt="Meat Thermometer icon" width="36"> [Meat Thermometer](skills/B01GM0CXSI)
+
+*Alexa, ask meat thermometer what is the best temperature for fish*
+
+This skill is perfect for the everyday kitchen dish, summer bbq, or the big meal. Just ask Alexa for the internal temperature of the meat of your choosing.
+
+***
+
 ## &nbsp;<img src="skills/B01DN2JN9U/skill_icon" alt="MeatButler icon" width="36"> [MeatButler](skills/B01DN2JN9U)
 
 *Alexa, ask Meat Butler to help me prepare steak?*
@@ -5830,6 +5862,14 @@ Use your Echo to translate words and phrases.
 
 ***
 
+## &nbsp;<img src="skills/B01GZ86DV0/skill_icon" alt="MyBaseballFactSkill icon" width="36"> [MyBaseballFactSkill](skills/B01GZ86DV0)
+
+*Alexa baseball facts*
+
+National League baseball facts
+
+***
+
 ## &nbsp;<img src="skills/B01DR9DH2S/skill_icon" alt="myBibleFactSkill icon" width="36"> [myBibleFactSkill](skills/B01DR9DH2S)
 
 *Alexa open Bible geek*
@@ -6244,6 +6284,14 @@ Sports Trivia
 *Alexa, ask one ferry for what cities*
 
 This app gives the next departure and arrival times for Washington State Ferries
+
+***
+
+## &nbsp;<img src="skills/B01GY8MHX4/skill_icon" alt="One Liners icon" width="36"> [One Liners](skills/B01GY8MHX4)
+
+*Alexa, open one liners*
+
+The user will use this skill to brighten up there day with a quick one liner funny.
 
 ***
 
@@ -8531,7 +8579,7 @@ A fun program that pretends to be a psycho therapist. Not to be taken seriously,
 
 *Alexa, tell My Therapist I am excited.*
 
-Therapy is a therapist for Alexa.  Tell therapist how you are feeling and she will give you words of encouragements.  Alexa, tell my therapist I am excited.
+Therapy is your therapist for Alexa.  Tell therapist how you are feeling and she will give you words of encouragements.  Alexa, tell my therapist I am excited.
 
 ***
 
@@ -9664,6 +9712,14 @@ Abbott and Costello's classic baseball skit: Who's On First?
 
 ***
 
+## &nbsp;<img src="skills/B01GME2A28/skill_icon" alt="Why Join the Knights of Columbus? icon" width="36"> [Why Join the Knights of Columbus?](skills/B01GME2A28)
+
+*Alexa, ask k. of c. why I should join the Knights of Columbus.*
+
+Why Join the Knights of Columbus?
+
+***
+
 ## &nbsp;<img src="skills/B01E4LSLX8/skill_icon" alt="Wiggly Words icon" width="36"> [Wiggly Words](skills/B01E4LSLX8)
 
 *Alexa, ask Wiggly Words to tell me a funny word*
@@ -9805,7 +9861,7 @@ Test your  knowledge of soccer with a series of questions around the world cup a
 
 *Alexa, open World History.*
 
-Are you interested in world history. Rely on World History for hundreds of events in world history for every day of the year.
+Are you interested in world history? Rely on World History for hundreds of events in world history for every day of the year.
 
 ***
 
@@ -9963,7 +10019,7 @@ Find out the Zodiac sign for any date
 
 ## &nbsp;<img src="skills/B01GB28COG/skill_icon" alt="Zoo Keeper icon" width="36"> [Zoo Keeper](skills/B01GB28COG)
 
-*Alexa, ask Zookeeper, what does a zebra say?*
+*Alexa, ask Zoo Keeper, what does a zebra say?*
 
 Zoo Keeper: Talk to the Animals
 

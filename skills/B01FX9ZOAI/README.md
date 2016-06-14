@@ -9,7 +9,7 @@ To use the Therapy skill, try saying...
 
 * *Alexa, tell My Therapist i am feeling happy.*
 
-Therapy is a simple therapist for Alexa.  Tell therapist how you are feeling and she will give you some words of encouragements.  Therapy is a lighthearted skill that tries to make your day a little better.
+Therapy is your therapist for Alexa.  Tell therapist how you are feeling and she will give you some words of encouragements.  Therapy is a lighthearted skill that tries to make your day a little better.
 
 ***
 

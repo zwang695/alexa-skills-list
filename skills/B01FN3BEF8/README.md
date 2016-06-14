@@ -9,9 +9,9 @@ To use the Young Poet: Poems Every Child Should Know skill, try saying...
 
 * *Alexa, Ask Young Poet for today's rhyme, please.*
 
-The Young Poet is a random collection of poems for children of all ages. Enable the skill to ask for today's poem or the daily rhyme.
+The Young Poet is a random collection of poems for children of all ages. Enable the skill to ask for today's poem or the daily rhyme. Alexa will say the poem, not sing it. This skill is meant to help teach parents and children the words, and parents are invited to add a melody by singing a version to children.
 
-This skill has given voice to the rhymes and poems that many people know and love. Help your child learn a new poem by having Alexa remind you of the words. You can use the example phrases to launch the skill and have Alexa read you a fun poem or rhyme. To encourage politeness, you can add the word please after any phrase.
+This skill has given voice to the rhymes and poems that many people know and love. Help your child learn a new poem by having Alexa remind you of the words. You can use the example phrases to launch the skill and have Alexa read you a fun poem or rhyme. To encourage politeness, you can add the word "please" after any phrase.
 
 Here are some additional phrases you can use:
 Alexa, Ask Young Poet for a rhyme, please.
@@ -19,7 +19,7 @@ Alexa, Open Young Poet.
 Alexa, Ask Young Poet for Today's poem.
 Alexa, Tell Young Poet to give me a poem, please.
 
-Please use "Send Feedback" to give us ideas about how we can improve this skill. You can also send us an email at info@unityappdesign.com. 
+Please send us feedback by sending us an email with your comments and suggestions at info@unityappdesign.com. 
 
 We hope you enjoy daily rhymes with the Young Poet.
 

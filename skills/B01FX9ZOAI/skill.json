@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Health-and-Fitness",
-  "description": "Therapy is a simple therapist for Alexa.  Tell therapist how you are feeling and she will give you some words of encouragements.  Therapy is a lighthearted skill that tries to make your day a little better.",
+  "description": "Therapy is your therapist for Alexa.  Tell therapist how you are feeling and she will give you some words of encouragements.  Therapy is a lighthearted skill that tries to make your day a little better.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, tell My Therapist I am excited.",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Therapy is a therapist for Alexa.  Tell therapist how you are feeling and she will give you words of encouragements.  Alexa, tell my therapist I am excited.",
+  "shortDescription": "Therapy is your therapist for Alexa.  Tell therapist how you are feeling and she will give you words of encouragements.  Alexa, tell my therapist I am excited.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

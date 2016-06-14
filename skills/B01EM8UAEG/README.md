@@ -9,7 +9,7 @@ To use the World History skill, try saying...
 
 * *Alexa, ask World History to get world history for August seventeenth.*
 
-Are you interested in world history. Rely on World History for hundreds of events in world history for every day of the year. Information source: Wikipedia.org.
+Are you interested in world history? Rely on World History for hundreds of events in world history for every day of the year. Information source: Wikipedia.org.
 
 ***
 

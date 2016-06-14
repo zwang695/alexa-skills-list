@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Games",
-  "description": "With Board Game Answers, Alexa can answer your common questions about board game rules. No more picking up the game manual to figure out who starts first or when the game ends. I'm adding new games and answers all the time. Photo credit Janet Galore: https://www.flickr.com/photos/janetgalore/4510874033",
+  "description": "New in the latest version:\n* Added some classic board games\n\nWith Board Game Answers, Alexa can answer your common questions about board game rules. No more picking up the game manual to figure out who starts first or when the game ends. I'm adding new games and answers all the time. Photo credit Janet Galore: https://www.flickr.com/photos/janetgalore/4510874033",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask board games how many people can play Ticket to Ride",
-    "Alexa, ask board games who goes first in Pandemic",
-    "Alexa, ask board games how many cards I start with in Exploding Kittens"
+    "Alexa, ask board games how many people can play Monopoly",
+    "Alexa, ask board games who goes first in Scrabble",
+    "Alexa, ask board games how many cards I start with in Pandemic"
   ],
   "firstReleaseDate": 1464327516.329,
   "homepageLinkText": null,

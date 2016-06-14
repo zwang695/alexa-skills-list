@@ -3,11 +3,14 @@
 
 To use the Board Games Answers skill, try saying...
 
-* *Alexa, ask board games how many people can play Ticket to Ride*
+* *Alexa, ask board games how many people can play Monopoly*
 
-* *Alexa, ask board games who goes first in Pandemic*
+* *Alexa, ask board games who goes first in Scrabble*
 
-* *Alexa, ask board games how many cards I start with in Exploding Kittens*
+* *Alexa, ask board games how many cards I start with in Pandemic*
+
+New in the latest version:
+* Added some classic board games
 
 With Board Game Answers, Alexa can answer your common questions about board game rules. No more picking up the game manual to figure out who starts first or when the game ends. I'm adding new games and answers all the time. Photo credit Janet Galore: https://www.flickr.com/photos/janetgalore/4510874033
 

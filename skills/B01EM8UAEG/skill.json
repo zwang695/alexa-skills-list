@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Education",
-  "description": "Are you interested in world history. Rely on World History for hundreds of events in world history for every day of the year. Information source: Wikipedia.org.",
+  "description": "Are you interested in world history? Rely on World History for hundreds of events in world history for every day of the year. Information source: Wikipedia.org.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open World History.",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Are you interested in world history. Rely on World History for hundreds of events in world history for every day of the year.",
+  "shortDescription": "Are you interested in world history? Rely on World History for hundreds of events in world history for every day of the year.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,
