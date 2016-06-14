@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Bird Song is a serene and entertaining skill that plays over 125 different bird songs and calls.  You can ask for a specific bird (\"Alexa, ask Bird Song for a grasshopper sparrow\"), a general bird (\"Alexa, ask Bird Song for a sparrow\"), or have Alexa select a random bird for you (\"Alexa, ask Bird Song for a random bird\").\n\nFor even more fun, ask Bird Song for a game to see how good you are at identifying birds by their voice alone.\n\nBird Song is frequently updated with new songs and features, including plans to allow you to upload your own recorded bird songs via our website. For the latest news and updates, please visit...\n\nwww.birdsongskill.com",
+  "description": "Bird Song is a serene and entertaining skill that plays over 150 different bird songs and calls.  You can ask for a specific bird (\"Alexa, ask Bird Song for a grasshopper sparrow\"), a general bird (\"Alexa, ask Bird Song for a sparrow\"), or have Alexa select a random bird for you (\"Alexa, ask Bird Song for a random bird\").\n\nFor even more fun, ask Bird Song for a game to see how good you are at identifying birds by their voice alone.\n\nBird Song is frequently updated with new songs and features, including plans to allow you to upload your own recorded bird songs via our website. For the latest news and updates, please visit...\n\nwww.birdsongskill.com",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Bird Song for a bluebird",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Plays a variety of beautiful bird songs and calls -- over 125 and growing!  Includes a Name That Bird game plus a few hidden \"Easter Eggs\" to keep things fun.",
+  "shortDescription": "Plays a variety of beautiful bird songs and calls -- over 150 and growing!  Includes a Name That Bird game plus a few hidden \"Easter Eggs\" to keep things fun.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

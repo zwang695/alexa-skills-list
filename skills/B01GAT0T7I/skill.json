@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "github.com"
+  ],
+  "asin": "B01GAT0T7I",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Entertainment",
+  "description": "Access your GitHub information including profile, contributions, stars, etc...",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Octo Assist what my username is",
+    "Alexa ask Octo Assist how many projects do I like",
+    "Alexa, ask Octo Assist to check for notifications"
+  ],
+  "firstReleaseDate": 1465902934.002,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.27eb40b7-28bc-4a49-8b19-729165e132f3",
+  "imageAltText": "Octo Assist icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01GAT0T7I/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "octo assist",
+  "name": "Octo Assist",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "1loXnAGvfoIW2PgW3x2Jvycxc",
+  "permissions": null,
+  "privacyPolicyUrl": "https://alexa-gitty.herokuapp.com/privacy_policy",
+  "shortDescription": "Provides information about your GitHub profile",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1UDKME4NNASU8",
+  "vendorName": "Leo Correa"
+}

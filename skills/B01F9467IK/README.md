@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Track by Nutritionix icon" width="36"> [Track by Nutritionix](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f7d92ae4-7514-475f-ba04-f58b2835e7f1)
-![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 25
+![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 26
 
 To use the Track by Nutritionix skill, try saying...
 
@@ -8,6 +8,8 @@ To use the Track by Nutritionix skill, try saying...
 * *Alexa, ask food tracker how many calories are in a slice of pizza*
 
 * *Alexa, tell food tracker I ate pancakes for breakfast*
+
+Updated 6/13/16: Fixes issue with account linking 
 
 Enabling the Track by Nutritionix skill on Alexa allows you to get a variety of nutritional information on all of your favorite foods. 
 

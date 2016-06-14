@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1251
+**Total Skills Available:** 1253
 
 ***
 
@@ -1172,7 +1172,7 @@ The BioRhythm skill will calculate your natural biorhythm for today for entertai
 
 *Alexa, ask Bird Song for a bluebird*
 
-Plays a variety of beautiful bird songs and calls -- over 125 and growing!  Includes a Name That Bird game plus a few hidden "Easter Eggs" to keep things fun.
+Plays a variety of beautiful bird songs and calls -- over 150 and growing!  Includes a Name That Bird game plus a few hidden "Easter Eggs" to keep things fun.
 
 ***
 
@@ -3970,6 +3970,14 @@ Beer growler facts and info
 
 ***
 
+## &nbsp;<img src="skills/B01H0T2FY2/skill_icon" alt="Guess My Number icon" width="36"> [Guess My Number](skills/B01H0T2FY2)
+
+*Alexa, launch Guess My Number.*
+
+Play Guess My Number with Alexa!
+
+***
+
 ## &nbsp;<img src="skills/B01DJ8GTS6/skill_icon" alt="Guess the Number icon" width="36"> [Guess the Number](skills/B01DJ8GTS6)
 
 *Alexa, play guess the number*
@@ -6244,6 +6252,14 @@ Interesting fact of Object Oriented Programing
 *Alexa, ask Oh See Transpo when is the next route 95 at halt 3047*
 
 OC Transpo
+
+***
+
+## &nbsp;<img src="skills/B01GAT0T7I/skill_icon" alt="Octo Assist icon" width="36"> [Octo Assist](skills/B01GAT0T7I)
+
+*Alexa, ask Octo Assist what my username is*
+
+Provides information about your GitHub profile
 
 ***
 
