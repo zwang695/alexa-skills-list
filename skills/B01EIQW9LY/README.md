@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Nest icon" width="36"> [Nest](http://alexa.amazon.com/#skills/amzn1.ask.skill.0119b1f9-a8df-47f4-8f39-d2f054e3a457)
-![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 71
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 73
 
 To use the Nest skill, try saying...
 
