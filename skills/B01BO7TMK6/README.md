@@ -5,13 +5,13 @@ To use the Baby Names skill, try saying...
 
 * *Alexa, open Baby Names.*
 
-* *How popular was Emma in 2014?*
+* *How popular was Emma in 2015?*
 
-* *What popular boys names started with A in 2013?*
+* *What popular boys names started with A in 2014?*
 
-Once you launch the skill, say a popular first name in the US.  This skill will return the popularity in a given year between 1880 and 2014.  You can ask about a specific year or ask about boy or girl names that start with a certain letter.
+Once you launch the skill, say a popular first name in the US.  This skill will return the popularity in a given year between 1880 and 2015.  You can ask about a specific year or ask about boy or girl names that start with a certain letter.
 
-UPDATE 2/21/2016: Now if you launch the skill, it will stay open after you ask it a question.  Say STOP to close.  Thanks for the feedback!
+UPDATE 06/13/2016: Baby Names now includes names from 2015!
 
 ***
 

@@ -1,0 +1,37 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "twitter.com",
+    "twitterlogin.futureofvoice.com"
+  ],
+  "asin": "B01GK6D3JC",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skill reads your twitter timeline to you.\nTweech is your personalized flash briefing. You can easily stay up to date with updates that are are relevant for you.\nStart your day hearing what the people you follow talk about and get news in real time as you expect it from twitter.\n\nOnly english tweets are read. For a better experience the tweets are cleaned up.\nAfter you have activated the skill you will be asked for a read-only access to your twitter account.\n\nFeel free to send us feedback, bugs or feature request to twitter@futureofvoice.com",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask tweet reader to read my tweets.",
+    null,
+    null
+  ],
+  "firstReleaseDate": 1465983942.875,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.c851063b-b5cf-4639-bf5e-0a5e02a432a3",
+  "imageAltText": "Tweech for Twitter icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01GK6D3JC/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "tweet reader",
+  "name": "Tweech for Twitter",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "NIpQNeXcnF1WNKRv6R4ILz2vL",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.futureofvoice.com/privacy-policy/",
+  "shortDescription": "Tweech - the tweet reader - reads your twitter timeline to you.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MS2F2Z51OLZMY",
+  "vendorName": "Running Rabbits"
+}

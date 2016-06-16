@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="The Tickle Monster Game! icon" width="36"> [The Tickle Monster Game!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.aeb4b01c-43e1-4d3b-a10d-dd49e7a5875d)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 4
+![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the The Tickle Monster Game! skill, try saying...
 

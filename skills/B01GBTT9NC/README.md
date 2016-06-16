@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="HowMuch icon" width="36"> [HowMuch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cb62f273-d576-4b6e-86fb-8929a89c4103)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the HowMuch skill, try saying...
 

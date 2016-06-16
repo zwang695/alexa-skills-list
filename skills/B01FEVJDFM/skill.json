@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "slack.com",
+    "promptworks.com",
+    "herokuapp.com"
+  ],
+  "asin": "B01FEVJDFM",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Social",
+  "description": "After linking your Slack account, you can post to Slack using your Alexa device by simply saying the channel and message you want to post.\n\nThis skill is not created by, affiliated with, or supported by Slack Technologies, Inc.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, start Chat bot",
+    "I want to post hello world to random",
+    "Alexa, tell Chat bot I want to post hello world to random"
+  ],
+  "firstReleaseDate": 1466064930.741,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.4afd4127-c43a-4729-9dd4-1a159cfffe92",
+  "imageAltText": "Chat Bot for Slack icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01FEVJDFM/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "chat bot",
+  "name": "Chat Bot for Slack",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "uNS9G3Em1SlCgBL28rId7qvZY",
+  "permissions": null,
+  "privacyPolicyUrl": "https://alexa-slack.herokuapp.com/privacy",
+  "shortDescription": "Post to Slack using your Alexa device.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3PE7SG7L1ESM7",
+  "vendorName": "PromptWorks"
+}

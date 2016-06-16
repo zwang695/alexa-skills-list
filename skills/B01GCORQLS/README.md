@@ -19,6 +19,6 @@ Alexa will recite The Lord's Prayer when prompted
 * **Category:** Lifestyle
 * **ID:** amzn1.echo-sdk-ams.app.7071bcb0-863c-4c36-bf1d-eecbc3e11852
 * **ASIN:** B01GCORQLS
-* **Author:** User1m
+* **Author:** CMM Tech
 * **Release Date:** June 1, 2016 @ 08:38:40
 * **In-App Purchasing:** No

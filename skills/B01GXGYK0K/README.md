@@ -16,7 +16,7 @@ This game features questions such as:
 "Which American R&B band wrote and performed Le Freak?"
 "In what year did Queen release the album, A Night at the Opera?"
 
-You can play this game alone or with other. Just sit back, relax, and have fun with the 70s Music Quiz!
+You can play this game alone or with others. Just sit back, relax, and have fun with the 70s Music Quiz!
 * Icons by Freepik
 
 ***
