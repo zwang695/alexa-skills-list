@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1301
+**Total Skills Available:** 1300
 
 ***
 
@@ -4847,14 +4847,6 @@ Sample request for irish triads
 *Alexa, ask Lake Travis if it's full yet*
 
 Is The Lake Full Yet?. Ask Lake Travis if the lake is full yet.
-
-***
-
-## &nbsp;<img src="skills/B01CCHJXC4/skill_icon" alt="ISS Sighter icon" width="36"> [ISS Sighter](skills/B01CCHJXC4)
-
-*Alexa, ask the space station to give me visibility for Gaithersburg Maryland*
-
-Provides sighting information for the next time the International Space Station is visible from certain locations around the world.
 
 ***
 
