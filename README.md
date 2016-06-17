@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1289
+**Total Skills Available:** 1301
 
 ***
 
@@ -101,6 +101,14 @@ If you say "Alexa play 80's Movie Trivia" you will be presented with 5 questions
 
 ***
 
+## &nbsp;<img src="skills/B01H3XED7W/skill_icon" alt="A Cloud Guru icon" width="36"> [A Cloud Guru](skills/B01H3XED7W)
+
+*Alexa, ask A Cloud Guru to start a new exam*
+
+Are you studying for your Amazon Web Services Solutions Architect Associate exam? This Alexa app will help you study by asking you practice exam questions.
+
+***
+
 ## &nbsp;<img src="skills/B01CE78A5S/skill_icon" alt="A fan's trivia about the San Francisco Giants icon" width="36"> [A fan's trivia about the San Francisco Giants](skills/B01CE78A5S)
 
 *Alexa, ask giants trivia*
@@ -122,6 +130,14 @@ Have Alexa play an amazing guess-the-number trick.
 *Alexa, open Yo Mama Joke*
 
 This skill will randomly pick from over 2,000 Yo Mama Jokes.
+
+***
+
+## &nbsp;<img src="skills/B01G8U8Q0Q/skill_icon" alt="ABFM Board Review icon" width="36"> [ABFM Board Review](skills/B01G8U8Q0Q)
+
+*Alexa, ask board review questions.*
+
+Prepare for the Family Medicine boards!  Your Alexa device will now ask you board review questions.  From the American Board of Family Medicine.
 
 ***
 
@@ -3582,6 +3598,14 @@ Not sure what kind of food to eat for lunch or dinner?  Ask Food Finder to sugge
 
 ***
 
+## &nbsp;<img src="skills/B01GW98LT4/skill_icon" alt="Food Flash icon" width="36"> [Food Flash](skills/B01GW98LT4)
+
+*Alexa, ask Food Flash to start*
+
+Food Flash is a quiz to test your knowledge of food in the world.
+
+***
+
 ## &nbsp;<img src="skills/B01EGR77W6/skill_icon" alt="Food Holiday icon" width="36"> [Food Holiday](skills/B01EGR77W6)
 
 *Alexa, ask Food Holiday for the food holiday today.*
@@ -3903,6 +3927,14 @@ Garden Facts is a fact providing skill that's all about garden produce facts.
 *Alexa, ask Gas Price for Washington*
 
 Get's the latest price of gas by US state from AAA.
+
+***
+
+## &nbsp;<img src="skills/B01GMGQO4Q/skill_icon" alt="Gas Prices Finder icon" width="36"> [Gas Prices Finder](skills/B01GMGQO4Q)
+
+*Alexa, ask gas prices finder what are the gas prices in zip code 12345*
+
+Get gas prices by Zip Code
 
 ***
 
@@ -4671,14 +4703,6 @@ Random facts about indie music.
 *Alexa, ask Indonesian facts to tell me a fact*
 
 Indonesian Facts: All fun, cool, interesting, and educative information about Indonesia
-
-***
-
-## &nbsp;<img src="skills/B018F2ARR0/skill_icon" alt="Innkeeper Emotes for Hearthstone icon" width="36"> [Innkeeper Emotes for Hearthstone](skills/B018F2ARR0)
-
-*Alexa, ask the innkeeper to say hello to the mage.*
-
-Welcome to my inn! You can talk to your favorite Hearthstone heroes, and they'll emote back!
 
 ***
 
@@ -5813,6 +5837,14 @@ This skill makes you an expert for Morse codes. It can encode any name of your c
 
 ***
 
+## &nbsp;<img src="skills/B01H5TW2YK/skill_icon" alt="Mortgage Calculator icon" width="36"> [Mortgage Calculator](skills/B01H5TW2YK)
+
+*Alexa, launch Mortgage Calculator.*
+
+Just provide the mortgage principal amount, mortgage period in years, and interest rate, and Alexa will tell you the monthly payment.
+
+***
+
 ## &nbsp;<img src="skills/B01CDF6972/skill_icon" alt="Mosaic icon" width="36"> [Mosaic](skills/B01CDF6972)
 
 *Alexa, ask Mosaic for good morning*
@@ -5971,6 +6003,14 @@ A fun trivia game including fun facts about musical instruments.
 *Alexa open musical trivia*
 
 This is a trivia game about theater and movie musicals.
+
+***
+
+## &nbsp;<img src="skills/B01GSE4R8M/skill_icon" alt="MusicTuner icon" width="36"> [MusicTuner](skills/B01GSE4R8M)
+
+*Alexa, ask music tuner to play a middle c.*
+
+Music tuner emits pure tones to help with tuning instruments.
 
 ***
 
@@ -7454,6 +7494,14 @@ Reads the current figure for the U.S federal debt to you.
 
 ***
 
+## &nbsp;<img src="skills/B01GY301GE/skill_icon" alt="Reporter for U.S Unemployment Data icon" width="36"> [Reporter for U.S Unemployment Data](skills/B01GY301GE)
+
+*Alexa, ask you ess unemployment what are the rates?*
+
+Reads the 4-quarter moving average for the U.S U3 and U6 unemployment rates to you.
+
+***
+
 ## &nbsp;<img src="skills/B019YGPC1M/skill_icon" alt="Resistor Decoder icon" width="36"> [Resistor Decoder](skills/B019YGPC1M)
 
 *Alexa, open Resistor Decoder.*
@@ -7467,6 +7515,14 @@ Read the color bands off a resistor and Resistor Decoder will tell you its value
 *Alexa, ask Restaurant Recommendations: recommend a Thai place in Seattle*
 
 Don't know where to go for dinner tonight? Let Alexa help by providing local, highly rated restaurant suggestions!
+
+***
+
+## &nbsp;<img src="skills/B01GN0S3F4/skill_icon" alt="reverse geek icon" width="36"> [reverse geek](skills/B01GN0S3F4)
+
+*Alexa, tell reverse geek to reverse Johnny Bravo*
+
+This Alexa skill takes in any word or sentence and returns the reverse of it.
 
 ***
 
@@ -7987,6 +8043,14 @@ Allows users to find if if a certain food or drink can be consumed on the Slow C
 
 ***
 
+## &nbsp;<img src="skills/B01H2D0WXM/skill_icon" alt="SmartOptometryGuy icon" width="36"> [SmartOptometryGuy](skills/B01H2D0WXM)
+
+*Alexa, ask smart optometry guy to tell me an optometry fact*
+
+A skill that tells the individual interesting eye facts.
+
+***
+
 ## &nbsp;<img src="skills/B01ETW5Q9O/skill_icon" alt="SmartThings icon" width="36"> [SmartThings](skills/B01ETW5Q9O)
 
 *null*
@@ -8010,6 +8074,14 @@ This skill will list out ingredients needed for some top smoothie recipes on Nut
 *Alexa, ask SMS With Molly to text John "I'm back"*
 
 Send Free Text Messages With Amazon Echo.
+
+***
+
+## &nbsp;<img src="skills/B01GM4SN9M/skill_icon" alt="SnakeCharmer icon" width="36"> [SnakeCharmer](skills/B01GM4SN9M)
+
+*Alexa, ask snake charmer to give me a snake fact*
+
+Get some interesting snake trivia
 
 ***
 
@@ -8919,6 +8991,14 @@ Take on Alexa in a classic game of Tic Tac Toe.
 
 ***
 
+## &nbsp;<img src="skills/B01H2D4WMY/skill_icon" alt="Tide pooler icon" width="36"> [Tide pooler](skills/B01H2D4WMY)
+
+*Alexa ask Tide Pooler when is the high tide in Seattle on Saturday*
+
+Gives a tide information in different state and cities
+
+***
+
 ## &nbsp;<img src="skills/B017OBZ7FU/skill_icon" alt="Tide Pooler icon" width="36"> [Tide Pooler](skills/B017OBZ7FU)
 
 *Alexa, ask Tide Pooler when is high tide in Seattle*
@@ -9084,6 +9164,14 @@ Test your knowledge of "very special episodes" of the 80s and 90s
 *Alexa, ask Toon Goggles to open Bernard*
 
 Enjoy Toon Goggles with your voice! Open shows, play videos, listen to music, and control playback.
+
+***
+
+## &nbsp;<img src="skills/B01GW9E3SC/skill_icon" alt="Top Headlines icon" width="36"> [Top Headlines](skills/B01GW9E3SC)
+
+*Alexa, ask top headlines for the top stories*
+
+Listen to the top story headlines from The New York Times.
 
 ***
 
@@ -9679,6 +9767,14 @@ Learn about the United States Presidents.
 
 ***
 
+## &nbsp;<img src="skills/B01H4I76J8/skill_icon" alt="US Quiz icon" width="36"> [US Quiz](skills/B01H4I76J8)
+
+*Alexa, ask US Quiz to start new game.*
+
+Test your luck with US History questions!
+
+***
+
 ## &nbsp;<img src="skills/B01DJLBPAA/skill_icon" alt="US State Capitals icon" width="36"> [US State Capitals](skills/B01DJLBPAA)
 
 *Alexa, launch state capitals*
@@ -9834,7 +9930,7 @@ The VoicePod skill lets you control and interact with the Control4 home automati
 
 ## &nbsp;<img src="skills/B01GIYBPQE/skill_icon" alt="Wahoowa! icon" width="36"> [Wahoowa!](skills/B01GIYBPQE)
 
-*Alexa, ask wahoo wa for a fact*
+*Alexa, open wahoo wa*
 
 University of Virginia fans can get their daily dose of Wahoo pride by asking wahoo wa!
 

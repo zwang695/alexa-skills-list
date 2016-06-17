@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01AHDN31M",
-  "averageRating": 2.7,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Home-Automation",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "stringify",
   "name": "Stringify",
-  "numberOfReviews": 7,
+  "numberOfReviews": 8,
   "pamsPartnerId": "BUdIsVPOgfHh62nNfxYYr4XxG",
   "permissions": null,
   "privacyPolicyUrl": "https://www.stringify.com/privacy",

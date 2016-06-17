@@ -9,7 +9,7 @@ To use the Stupid Musician Jokes skill, try saying...
 
 * *Alexa, launch musician jokes*
 
-This is just the skill for both the musician lover and musician hater.  Listen to bad musician joke one after another, what could possibly be more soothing to the ear?  What better use can a person think for the Echo than to tell you HORRIBLE musician jokes from it?  Well, wait no longer my dear friends!  The skill has arrived, I am sure that "Stupid Musician Jokes" will meet all your dumb music joke needs.  Leave positive reviews for this skill and we will continue to update it with even more completely STUPID MUSICIAN JOKES!
+This is just the skill for both the musician lover and musician hater.  Listen to bad musician joke one after another, what could possibly be more soothing to the ear?  What better use can a person think of for the Echo than to tell you HORRIBLE musician jokes from it?  Well, wait no longer my dear friends!  The skill has arrived, I am sure that "Stupid Musician Jokes" will meet all your dumb music joke needs.  Leave positive reviews for this skill and we will continue to update it with even more completely STUPID MUSICIAN JOKES!
 
 Please head over to www.StupidMusicianJokes.com and submit your very own Stupid Musician Joke!  We will then add it to our forever growing Stupid Musician Joke database, so that the entire world can enjoy your Stupid Musician Joke as well!
 

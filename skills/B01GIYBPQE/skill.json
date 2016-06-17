@@ -8,9 +8,9 @@
   "description": "Wahoos is the unofficial nickname for the University of Virginia sports teams. The \"wah -hoo-wa\" yell is part of The Good Old Song, the alma mater of the University of Virginia. The song is sung by the spectators at UVA football games after a score.  Ask Alexa, wahoo wa  to get ready for tailgating.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask wahoo wa for a fact",
-    "Alexa, ask wahoo wa to tell me trivia",
-    "Alexa, open wahoo wa and give me a fact"
+    "Alexa, open wahoo wa",
+    "Alexa, launch wahoo wa",
+    "Alexa, start wahoo wa"
   ],
   "firstReleaseDate": 1465393187.241,
   "homepageLinkText": null,

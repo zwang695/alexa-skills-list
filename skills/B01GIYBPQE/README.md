@@ -3,11 +3,11 @@
 
 To use the Wahoowa! skill, try saying...
 
-* *Alexa, ask wahoo wa for a fact*
+* *Alexa, open wahoo wa*
 
-* *Alexa, ask wahoo wa to tell me trivia*
+* *Alexa, launch wahoo wa*
 
-* *Alexa, open wahoo wa and give me a fact*
+* *Alexa, start wahoo wa*
 
 Wahoos is the unofficial nickname for the University of Virginia sports teams. The "wah -hoo-wa" yell is part of The Good Old Song, the alma mater of the University of Virginia. The song is sung by the spectators at UVA football games after a score.  Ask Alexa, wahoo wa  to get ready for tailgating.
 
