@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1285
+**Total Skills Available:** 1289
 
 ***
 
@@ -805,6 +805,14 @@ Baby stats is a skill that counts stats for your babies diapers (wet and stool),
 *Alexa, start baby trivia*
 
 Baby trivia!
+
+***
+
+## &nbsp;<img src="skills/B01GXT8D3W/skill_icon" alt="Bacon Dude icon" width="36"> [Bacon Dude](skills/B01GXT8D3W)
+
+*Alexa, ask the bacon dude for a fact*
+
+Do you love bacon? Do you think you know enough about bacon? Here are more facts about bacon to turn you from casual bacon consumer into bacon master!
 
 ***
 
@@ -5348,6 +5356,14 @@ Wake up every morning and find out who the fairest one in all the land is! Simpl
 
 ***
 
+## &nbsp;<img src="skills/B01GKB9X6O/skill_icon" alt="MajorKeys icon" width="36"> [MajorKeys](skills/B01GKB9X6O)
+
+*Alexa, ask MajorKeys for a key*
+
+MajorKeys delivers major keys to success.
+
+***
+
 ## &nbsp;<img src="skills/B01F1A1CUA/skill_icon" alt="Make me an Omelette icon" width="36"> [Make me an Omelette](skills/B01F1A1CUA)
 
 *Alexa, open omelette game*
@@ -7848,6 +7864,14 @@ Hear a wide variety of entertaining recorded quotes from Jens Voigt (the most fe
 
 ***
 
+## &nbsp;<img src="skills/B01GZIR4MM/skill_icon" alt="Silicon Valley History icon" width="36"> [Silicon Valley History](skills/B01GZIR4MM)
+
+*Alexa, ask valley history*
+
+Silicon Valley History: where did they start?
+
+***
+
 ## &nbsp;<img src="skills/B01CJU8G0E/skill_icon" alt="Silly Winnie icon" width="36"> [Silly Winnie](skills/B01CJU8G0E)
 
 *Alexa, ask Silly Winnie for a joke*
@@ -8675,6 +8699,14 @@ Choose your own adventure beyond the magic door. Fairies, gnomes, gods, and trea
 *Alexa, play The Masters Trivia*
 
 Test your knowledge of the Masters tournament.
+
+***
+
+## &nbsp;<img src="skills/B01GZ8H30U/skill_icon" alt="The most Interesting Man in the World icon" width="36"> [The most Interesting Man in the World](skills/B01GZ8H30U)
+
+*Alexa, ask interesting man a joke*
+
+Tells 'The Most Interesting Man in the World' jokes
 
 ***
 

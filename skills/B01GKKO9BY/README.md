@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="CountingGame icon" width="36"> [CountingGame](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d3ec0ebb-5db6-4b58-9372-3b8cdf6ccd71)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the CountingGame skill, try saying...
 
