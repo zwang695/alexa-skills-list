@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Book of Psalms icon" width="36"> [Book of Psalms](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d2bed1bf-d125-4bde-870d-8508f2759afb)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Book of Psalms skill, try saying...
 
