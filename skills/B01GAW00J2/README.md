@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="What Is Cloud Computing icon" width="36"> [What Is Cloud Computing](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.67f14a05-d628-4e8e-9788-51b7e5e7a12b)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the What Is Cloud Computing skill, try saying...
 

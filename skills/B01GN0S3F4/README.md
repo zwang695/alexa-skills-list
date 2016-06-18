@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="reverse geek icon" width="36"> [reverse geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.23ed8a00-90ef-4ba5-b418-a1d4d8ec5e32)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the reverse geek skill, try saying...
 

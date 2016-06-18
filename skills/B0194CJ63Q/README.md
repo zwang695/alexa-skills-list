@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Phone Finder for Alexa icon" width="36"> [Phone Finder for Alexa](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.206a0caf-4f91-44b4-bb42-96bde64c7214)
-![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 31
+![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 32
 
 To use the Phone Finder for Alexa skill, try saying...
 
