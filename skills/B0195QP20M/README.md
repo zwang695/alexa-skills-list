@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Quoter icon" width="36"> [Quoter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.691c8a2e-5498-4db3-8cfc-1f874f5c1bac)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Quoter skill, try saying...
 
