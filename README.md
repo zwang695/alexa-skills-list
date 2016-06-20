@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1321
+**Total Skills Available:** 1326
 
 ***
 
@@ -1088,6 +1088,14 @@ Beer inspiration, quotes, and facts for lovers of brew.
 
 ***
 
+## &nbsp;<img src="skills/B01GNHXOD8/skill_icon" alt="Beer Meister icon" width="36"> [Beer Meister](skills/B01GNHXOD8)
+
+*Alexa, open Beer Meister and surprise me.*
+
+Randomly suggest a beer from a specific style of beer. (21+)
+
+***
+
 ## &nbsp;<img src="skills/B01BZGJEOK/skill_icon" alt="Beer Trivia icon" width="36"> [Beer Trivia](skills/B01BZGJEOK)
 
 *Alexa, launch Beer Trivia*
@@ -2134,6 +2142,14 @@ Get a quick fact regarding the COBOL computer language.
 *Alexa, ask code finder where area code 253 is.*
 
 Find information based on area code, postal code, or US city using Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01H9E5AVI/skill_icon" alt="Code Geek icon" width="36"> [Code Geek](skills/B01H9E5AVI)
+
+*Alexa, ask Code Geek for a fact*
+
+Coding Trivia Facts created during the Alexa Skills 101 in Seattle
 
 ***
 
@@ -6511,6 +6527,14 @@ A simple skill that reads you a noteworthy quote
 
 ***
 
+## &nbsp;<img src="skills/B01GWKLXH0/skill_icon" alt="Number Converter icon" width="36"> [Number Converter](skills/B01GWKLXH0)
+
+*Alexa, ask Number Converter to convert 87 to hex*
+
+Convert numbers to different radixes.
+
+***
+
 ## &nbsp;<img src="skills/B01FNFK5Z6/skill_icon" alt="Number Fact icon" width="36"> [Number Fact](skills/B01FNFK5Z6)
 
 *Alexa ask number fact 317*
@@ -7167,6 +7191,14 @@ Pronto makes phone calls for you. Your phone assistant bot!
 *Alexa, ask pronunciations how to pronounce B. I. T. S.*
 
 Learn how to pronounce a word by giving Alexa its spelling.
+
+***
+
+## &nbsp;<img src="skills/B01H3DYOAS/skill_icon" alt="Prophet of Pizza icon" width="36"> [Prophet of Pizza](skills/B01H3DYOAS)
+
+*Alexa, ask Prophet of Pizza if I should choose Pizza Hut or Pizza Haven.*
+
+The Prophet of Pizza will choose the right pizza place for you.
 
 ***
 
@@ -9059,7 +9091,7 @@ A fun program that pretends to be a psycho therapist. Not to be taken seriously,
 
 *Alexa, tell My Therapist I am excited.*
 
-Therapy is your therapist for Alexa.  Tell therapist how you are feeling and she will give you words of encouragements.  Alexa, tell my therapist I am excited.
+Therapy is your therapist for Alexa.  Tell therapist your mood and she will give you words of encouragements.  Alexa, tell my therapist I am excited.
 
 ***
 
@@ -9156,6 +9188,14 @@ Returns tide information for a given city or state
 *Alexa, ask tide guide for the tides in Santa Barbara, California*
 
 This skill will give the tide report for most locations (city and state/country) with a NOAA station.
+
+***
+
+## &nbsp;<img src="skills/B01F0I5F1U/skill_icon" alt="TIL Me More icon" width="36"> [TIL Me More](skills/B01F0I5F1U)
+
+*Alexa, tell TIL Me More I want to learn something today*
+
+Learn something new every day
 
 ***
 

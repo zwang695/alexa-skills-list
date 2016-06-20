@@ -9,7 +9,7 @@ To use the Reporter for the U.S Federal Government Debt skill, try saying...
 
 * *Alexa, tell Debt Clock to tell me the current debt.*
 
-This skill will read the current approximate value of the U.S national debt to you. It retrieves the figure for the U.S national debt from the usgovernmentdebt.us website.
+This skill will read the current approximate value of the U.S national debt to you. It retrieves the figure for the U.S national debt from the nationaldebtclocks.org website.
 
 
 Example phrases to open app:
@@ -34,18 +34,7 @@ Alexa, ask Debt Clock for the latest debt.
 Alexa, ask Debt Clock for the current debt.
 Alexa, tell Debt Clock to tell me the current debt.
 
-
-Example phrases for help: 
-
-Alexa, ask Debt Clock for help. 
-
-
-Example phrases to quit: 
-
-Alexa, quit.
-Alexa, exit. 
-Alexa, stop. 
-
+--------
 
 Support: 
 
