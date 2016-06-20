@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1326
+**Total Skills Available:** 1328
 
 ***
 
@@ -6455,6 +6455,14 @@ NewsCom Skill for Alexa.
 
 ***
 
+## &nbsp;<img src="skills/B01H65IJMC/skill_icon" alt="Nexia icon" width="36"> [Nexia](skills/B01H65IJMC)
+
+*null*
+
+Control your Nexia devices with Alexa
+
+***
+
 ## &nbsp;<img src="skills/B01DVRYVYE/skill_icon" alt="Next Train for Caltrain icon" width="36"> [Next Train for Caltrain](skills/B01DVRYVYE)
 
 *Alexa, Ask The Next Train from Palo Alto to San Francisco*
@@ -8714,6 +8722,14 @@ Syfy lets you connect to your favorite Syfy shows with the power of your voice. 
 *alexa launch tabletop trivia*
 
 Tabletop Trivia is a short trivia game about D20 Tabletop RPGs
+
+***
+
+## &nbsp;<img src="skills/B01EIT5YHM/skill_icon" alt="TalkLocal icon" width="36"> [TalkLocal](skills/B01EIT5YHM)
+
+*Alexa, ask Talk Local to repair my toilet that keeps running*
+
+Connect with, and get estimates from the best local service professionals within minutes
 
 ***
 

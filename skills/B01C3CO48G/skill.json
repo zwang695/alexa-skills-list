@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01C3CO48G",
-  "averageRating": 3.7,
+  "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
   "category": "Games",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "twenty questions",
   "name": "Twenty Questions",
-  "numberOfReviews": 11,
+  "numberOfReviews": 12,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

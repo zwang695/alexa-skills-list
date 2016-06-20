@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Music Trivia icon" width="36"> [Music Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec00bcfa-beef-4166-b1a5-66f6e7ec89ca)
-![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 6
+![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Music Trivia skill, try saying...
 

@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01H65IJMC",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "This skills allows you to control your Nexia lights with simple voice commands, e.g. \"Turn on kitchen lights\".\n\nTo link the skill, you will need to provide the username and password to your Nexia account. You will then select the house on the account that you will be controlling. After that, run device discovery and your Nexia devices will appear, ready to control, in your Alexa app.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1466460907.892,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.a7121797-b502-462e-bfe5-86e78ca42413",
+  "imageAltText": "Nexia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01H65IJMC/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Nexia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "9EGpZDlCk2JHvAAreNqluqmKK",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.mynexia.com/privacy_policy.html",
+  "shortDescription": "Control your Nexia devices with Alexa",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M12U6EMHUSJ4OW",
+  "vendorName": "Nexia Home Intelligence"
+}

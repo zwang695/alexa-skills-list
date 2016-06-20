@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="abode icon" width="36"> [abode](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c67f3916-0532-4346-bf77-6c5418ec4350)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 4
+![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the abode skill, try saying...
 
