@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Yonomi icon" width="36"> [Yonomi](http://alexa.amazon.com/#skills/amzn1.ask.skill.496d7007-1a5e-4dad-b83b-dd990c984fcb)
-![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 17
+![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 18
 
 To use the Yonomi skill, try saying...
 
