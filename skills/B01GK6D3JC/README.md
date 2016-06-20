@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Tweech for Twitter icon" width="36"> [Tweech for Twitter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c851063b-b5cf-4639-bf5e-0a5e02a432a3)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Tweech for Twitter skill, try saying...
 

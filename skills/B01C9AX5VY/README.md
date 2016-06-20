@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="The Wayne Investigation icon" width="36"> [The Wayne Investigation](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.25d585a4-e73e-472a-992d-fd6df560785b)
-![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 44
+![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 45
 
 To use the The Wayne Investigation skill, try saying...
 

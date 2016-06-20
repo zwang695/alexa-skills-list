@@ -3,11 +3,11 @@
 
 To use the Richmond Virginia Facts skill, try saying...
 
-* *Alexa, ask RVA Facts for a fact about Richmond*
+* *Alexa, open RVA Facts*
 
-* *Alexa, ask RVA Facts to give me a fact*
+* *Alexa, launch RVA Facts*
 
-* *Alexa, ask RVA Facts for a fact*
+* *Alexa, start RVA Facts*
 
 Richmond, the capital of Virginia, is among America’s oldest cities. Learn some fun facts about Richmond, known locally as RVA.
 
