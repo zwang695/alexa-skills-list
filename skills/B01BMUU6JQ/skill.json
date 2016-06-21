@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Entertainment",
-  "description": "Special for Easter: Inside the garden in the mountains, find magical items to get a prize! \n\nThe Magic Door is an Alexa-powered choose your own adventure with original stories. You can tell Alexa what choices to make as you navigate a forest, a garden, or an ancient temple. You can find hidden items, solve riddles, and help magical creatures.",
+  "description": "Update: The Magic Door has a new story. Survive a dragon encounter and find the tools you'll need to save the wizard. Now with hundreds of scenes and thousands of paths!\n\nThe Magic Door is an Alexa-powered choose your own adventure with original stories. You can tell Alexa what choices to make as you navigate a forest, a garden, or an ancient temple. You can find hidden items, solve riddles, and help magical creatures. You can also find magical items to get a prize!",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open the magic door",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Choose your own adventure beyond the magic door. Fairies, gnomes, gods, and treasure await you as you explore the various lands. Easter Special: Easter Egg Hunt",
+  "shortDescription": "Choose your own adventure beyond the magic door. Fairies, gnomes, gods, and treasure await you as you explore the various lands. New: potions and dragons!",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

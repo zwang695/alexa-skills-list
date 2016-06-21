@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1328
+**Total Skills Available:** 1341
 
 ***
 
@@ -1552,6 +1552,14 @@ Bucket list will suggest a bucket list item for you today.
 
 ***
 
+## &nbsp;<img src="skills/B01H9HYB74/skill_icon" alt="Buddha Quotes icon" width="36"> [Buddha Quotes](skills/B01H9HYB74)
+
+*Alexa, ask Buddha Quotes to give me some calm*
+
+Get a peaceful Buddha quote on the go and on demand
+
+***
+
 ## &nbsp;<img src="skills/B01DJHGK7W/skill_icon" alt="Buddha Says icon" width="36"> [Buddha Says](skills/B01DJHGK7W)
 
 *Alexa open Buddha Says*
@@ -2009,6 +2017,14 @@ China History Game is a simple set of questions about the history of the ancient
 
 ***
 
+## &nbsp;<img src="skills/B01HAP0U3Y/skill_icon" alt="Chocolate Games icon" width="36"> [Chocolate Games](skills/B01HAP0U3Y)
+
+*Alexa, launch chocolate games*
+
+A simple game all about chocolate.
+
+***
+
 ## &nbsp;<img src="skills/B01EIWXRXM/skill_icon" alt="Chocolate Trivia icon" width="36"> [Chocolate Trivia](skills/B01EIWXRXM)
 
 *Alexa, launch chocolate trivia*
@@ -2110,6 +2126,14 @@ stay informed. get involved.
 *Alexa, Open Civil War Buff*
 
 Learn more about the Civil War with Alexa!
+
+***
+
+## &nbsp;<img src="skills/B01HALJAM0/skill_icon" alt="Civil War Trivia icon" width="36"> [Civil War Trivia](skills/B01HALJAM0)
+
+*Alexa, launch Civil War Trivia*
+
+Test your knowledge of the Civil War with this trivia game.
 
 ***
 
@@ -2635,6 +2659,14 @@ Read the latest news and events from the Washington DC tech scene.
 
 ***
 
+## &nbsp;<img src="skills/B01H9SAXSO/skill_icon" alt="Dad-Bot icon" width="36"> [Dad-Bot](skills/B01H9SAXSO)
+
+*Alexa, launch Dad Bot*
+
+Need a hug, some advice, or just miss your Dad?  Just open Dad-Bot.
+
+***
+
 ## &nbsp;<img src="skills/B019YOO6R0/skill_icon" alt="Daily Affirmation icon" width="36"> [Daily Affirmation](skills/B019YOO6R0)
 
 *"Alexa, open Daily Affirmation."*
@@ -2896,6 +2928,14 @@ DiceBot is your sleazy friend on the inside. Just say the word, and the dice wil
 *Alexa, ask Die Roller to roll a D 8*
 
 Rolls a die of user-specified number of sides
+
+***
+
+## &nbsp;<img src="skills/B01H9G9AU8/skill_icon" alt="Difficult Word Quiz icon" width="36"> [Difficult Word Quiz](skills/B01H9G9AU8)
+
+*Alexa start Difficult Word Quiz*
+
+Quiz yourself on the definitions of very difficult words
 
 ***
 
@@ -3922,6 +3962,14 @@ Funny Quotes
 
 ***
 
+## &nbsp;<img src="skills/B01GZRL9N8/skill_icon" alt="FunnyDad icon" width="36"> [FunnyDad](skills/B01GZRL9N8)
+
+*Alexa, tell a joke from FunnyDad*
+
+Want a dad joke? Let FunnyDad tell you a joke! Disclaimer: not suitable for all ages.
+
+***
+
 ## &nbsp;<img src="skills/B01GMBUUEG/skill_icon" alt="Fuzzy Science Language icon" width="36"> [Fuzzy Science Language](skills/B01GMBUUEG)
 
 *Alexa, ask fuzzy science language to give me a phrase*
@@ -4103,6 +4151,14 @@ Glympse allows family and friends to temporarily share their live location and E
 *Alexa, ask Go Fish to tell me a fish fact*
 
 A fun and interesting fact skill for learning about fish.
+
+***
+
+## &nbsp;<img src="skills/B01H1DB0J8/skill_icon" alt="GoatFactsMan icon" width="36"> [GoatFactsMan](skills/B01H1DB0J8)
+
+*Alexa, open goat fact*
+
+This is a list of Goat Facts.
 
 ***
 
@@ -4487,6 +4543,14 @@ Hide and Seek Timer
 *Alexa, open High Low.*
 
 This is the number guessing game of “higher or lower.” In this game, Alexa chooses a number and you try to guess it or you can play the other way around.
+
+***
+
+## &nbsp;<img src="skills/B01H9SF0Z0/skill_icon" alt="HikeMaster icon" width="36"> [HikeMaster](skills/B01H9SF0Z0)
+
+*Alexa, ask hike master to find a hike that is difficult*
+
+Gives List of Hikes in Bay Area
 
 ***
 
@@ -5522,6 +5586,14 @@ Trivia game asking questions about historical March basketball tournaments.
 *Alexa, open Marine Life.*
 
 Marine Life provides interesting information about whales, dolphins, sharks, sea turtles, octopus, jellyfish, deep sea creatures, and more!
+
+***
+
+## &nbsp;<img src="skills/B01HAHOGS2/skill_icon" alt="Mark Twain Quotes icon" width="36"> [Mark Twain Quotes](skills/B01HAHOGS2)
+
+*Alexa, ask Mark Twain for a quote*
+
+Get some random wisdom from one of America's greatest minds
 
 ***
 
@@ -6695,6 +6767,14 @@ Skill used to control custom made application for order display
 
 ***
 
+## &nbsp;<img src="skills/B01HBYBCMM/skill_icon" alt="Our Father icon" width="36"> [Our Father](skills/B01HBYBCMM)
+
+*Alexa, tell Our Father to pray with me*
+
+Have Alexa, pray with you
+
+***
+
 ## &nbsp;<img src="skills/B01D4F1J0M/skill_icon" alt="OurGroceries icon" width="36"> [OurGroceries](skills/B01D4F1J0M)
 
 *Alexa, ask OurGroceries to add milk to shopping list.*
@@ -7047,6 +7127,14 @@ Fun Posh Trivia Game!
 *Alexa, launch Potter Trivia*
 
 Test your knowledge of the Wizarding world with this Harry Potter Trivia Skill.
+
+***
+
+## &nbsp;<img src="skills/B01H88SIVO/skill_icon" alt="Potterhead Quiz icon" width="36"> [Potterhead Quiz](skills/B01H88SIVO)
+
+*Alexa, open Potterhead*
+
+Are you a muggle or a wizard?
 
 ***
 
@@ -7926,6 +8014,14 @@ SCUBA trivia list based on the Space Geek Fact Skill
 
 ***
 
+## &nbsp;<img src="skills/B01HAFY7TC/skill_icon" alt="Seahawk Games icon" width="36"> [Seahawk Games](skills/B01HAFY7TC)
+
+*Alexa, launch Seahawk Trivia*
+
+Challenging Seattle Seahawk Trivia
+
+***
+
 ## &nbsp;<img src="skills/B01GOTHPQW/skill_icon" alt="Seattle Area Busing (SAB) icon" width="36"> [Seattle Area Busing (SAB)](skills/B01GOTHPQW)
 
 *Alexa open S. A. B. and get bus 49 from stop 10911*
@@ -8250,6 +8346,14 @@ Snowday provides information on closures/delays for various government offices, 
 *Alexa, Launch Soccer Facts*
 
 Some interesting facts about the most popular sport in the world.
+
+***
+
+## &nbsp;<img src="skills/B01H9O2QPG/skill_icon" alt="SongTranslator icon" width="36"> [SongTranslator](skills/B01H9O2QPG)
+
+*Alexa, start Song Translator*
+
+gives translations for hindi songs into english
 
 ***
 
@@ -8946,7 +9050,7 @@ Recite The Lord's Prayer along with Alexa
 
 *Alexa, open the magic door*
 
-Choose your own adventure beyond the magic door. Fairies, gnomes, gods, and treasure await you as you explore the various lands. Easter Special: Easter Egg Hunt
+Choose your own adventure beyond the magic door. Fairies, gnomes, gods, and treasure await you as you explore the various lands. New: potions and dragons!
 
 ***
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Math Challenge icon" width="36"> [Math Challenge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.88ae8387-578c-491a-905b-50713d2271ff)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Math Challenge skill, try saying...
 

@@ -5,9 +5,9 @@ To use the The Magic Door skill, try saying...
 
 * *Alexa, open the magic door*
 
-Special for Easter: Inside the garden in the mountains, find magical items to get a prize! 
+Update: The Magic Door has a new story. Survive a dragon encounter and find the tools you'll need to save the wizard. Now with hundreds of scenes and thousands of paths!
 
-The Magic Door is an Alexa-powered choose your own adventure with original stories. You can tell Alexa what choices to make as you navigate a forest, a garden, or an ancient temple. You can find hidden items, solve riddles, and help magical creatures.
+The Magic Door is an Alexa-powered choose your own adventure with original stories. You can tell Alexa what choices to make as you navigate a forest, a garden, or an ancient temple. You can find hidden items, solve riddles, and help magical creatures. You can also find magical items to get a prize!
 
 ***
 
