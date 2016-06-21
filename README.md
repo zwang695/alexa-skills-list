@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1350
+**Total Skills Available:** 1349
 
 ***
 
@@ -4590,7 +4590,7 @@ Hide and Seek Timer
 
 *Alexa, open High Low.*
 
-This is the number guessing game of “higher or lower.” In this game, Alexa chooses a number and you try to guess it or you can play the other way around.
+This is the number guessing game of “higher or lower.” In this game, you chooses a number and Alexa will try to guess it or you can play the other way around.
 
 ***
 
@@ -8498,14 +8498,6 @@ Space Trivia Questions
 *Alexa, open Space Weather*
 
 The Space Weather skill for Alexa will tell you the current conditions in space.
-
-***
-
-## &nbsp;<img src="skills/B01GM1UR4O/skill_icon" alt="Spacegeek02 icon" width="36"> [Spacegeek02](skills/B01GM1UR4O)
-
-*Alexa ask space geek four to tell me a fact.*
-
-Facts for life
 
 ***
 

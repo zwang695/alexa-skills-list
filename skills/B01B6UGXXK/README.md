@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Acoustic Metronome icon" width="36"> [Acoustic Metronome](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0d1f536e-568b-40f1-ab73-718bbbafc58f)
-![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 7
+![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Acoustic Metronome skill, try saying...
 

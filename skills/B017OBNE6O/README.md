@@ -5,11 +5,11 @@ To use the High Low Guessing Game skill, try saying...
 
 * *Alexa, open High Low.*
 
-* *Alexa, ask High Low to guess my number.*
+* *Alexa, ask high low to guess my number.*
 
-* *No, lower*
+* *Alexa, ask high low to think of a number.*
 
-This is the number guessing game of “higher or lower.” In this game, Alexa chooses a number between 1 and 100, you try to guess it, and she responds with “higher” or “lower.” Or you can play the other way around, where you choose a number, and Alexa guesses. To get started, ask High Low to guess my number, or ask High Low to think of a number.
+This is the number guessing game of “higher or lower.” You choose a number between 1 and 100 and Alexa will try and guess. You simply respond with "higher" or "lower". You can also play the other way around where Alexa chooses a number and you try to guess it. She will respond to your guess with "higher” or “lower.” To get started, ask High Low to guess my number, or ask High Low to think of a number.
 
 ***
 
