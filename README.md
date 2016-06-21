@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1341
+**Total Skills Available:** 1350
 
 ***
 
@@ -301,6 +301,14 @@ Real time air quality rating for major U.S. cities. Alexa, launch Air Quality Me
 *Alexa, ask air quality report for zip code nine eight one zero nine*
 
 Get air quality report for 5-digit US ZIP codes
+
+***
+
+## &nbsp;<img src="skills/B01DYX1GO8/skill_icon" alt="Air Time icon" width="36"> [Air Time](skills/B01DYX1GO8)
+
+*Alexa ask air time how long the wait is at SJC*
+
+Check the wait times at any airport in the country.
 
 ***
 
@@ -624,6 +632,14 @@ Aromatherapy is a skill that can help you with some common diffuser recipes for 
 
 ***
 
+## &nbsp;<img src="skills/B01GM3UYF4/skill_icon" alt="Art of War icon" width="36"> [Art of War](skills/B01GM3UYF4)
+
+*Alexa, ask Sun Tzu to give me a quote*
+
+Get inspired by a hand-selected quote from the master of The Art of War, Sun Tzu.
+
+***
+
 ## &nbsp;<img src="skills/B01E2DTXVC/skill_icon" alt="Artie icon" width="36"> [Artie](skills/B01E2DTXVC)
 
 *Alexa, talk to Artie*
@@ -828,7 +844,7 @@ Ask about the popularity of names in the US going back to 1880!
 
 *Alexa ask baby stats to add poop and pee*
 
-Baby stats is a skill that counts stats for your babies diapers (wet and stool), and meals. You can then ask Alexa to get stats or ask when the last diaper was.
+Baby stats is a skill that counts stats for your baby (feeding, stool, wet, weight, or others). You can then view them online, or on a mobile app.
 
 ***
 
@@ -1873,6 +1889,14 @@ Get a study tip for the MBE.
 
 ***
 
+## &nbsp;<img src="skills/B01GW5JHNC/skill_icon" alt="CF1N Workout icon" width="36"> [CF1N Workout](skills/B01GW5JHNC)
+
+*Alexa, ask one nation what the workout is*
+
+Reads the WOD for CrossFit 1 Nation
+
+***
+
 ## &nbsp;<img src="skills/B01FT3GF4C/skill_icon" alt="Channel Finder icon" width="36"> [Channel Finder](skills/B01FT3GF4C)
 
 *Alexa, ask channel finder what is the channel number for comedy central?*
@@ -2153,6 +2177,14 @@ Maricopa County clean air
 
 ***
 
+## &nbsp;<img src="skills/B01H9H8MEW/skill_icon" alt="Cloud Explorer Games icon" width="36"> [Cloud Explorer Games](skills/B01H9H8MEW)
+
+*Alexa, open cloud explorer games*
+
+An Amazon Alexa skill to practice your knowledge about the culture of clouds.
+
+***
+
 ## &nbsp;<img src="skills/B01FQZRYHU/skill_icon" alt="COBOL Facts icon" width="36"> [COBOL Facts](skills/B01FQZRYHU)
 
 *Alexa, open COBOL Facts*
@@ -2406,6 +2438,14 @@ This skills allow users to find recipes - ingredients, cook steps, health info e
 *Alexa ask cool human body facts to tell me a fact*
 
 550+ Cool Human Body Facts
+
+***
+
+## &nbsp;<img src="skills/B01H9IKOI8/skill_icon" alt="Cool Trivia icon" width="36"> [Cool Trivia](skills/B01H9IKOI8)
+
+*Alexa ask trivia time start*
+
+Trivia Games
 
 ***
 
@@ -3946,6 +3986,14 @@ Test your knowledge with this funny Batman based trivia game!
 
 ***
 
+## &nbsp;<img src="skills/B01H9GA3MW/skill_icon" alt="Funny Pun Now icon" width="36"> [Funny Pun Now](skills/B01H9GA3MW)
+
+*Alexa ask funny pun now for a pun*
+
+This skill returns a funny pun.
+
+***
+
 ## &nbsp;<img src="skills/B01D8ESCDG/skill_icon" alt="Funny Quoter icon" width="36"> [Funny Quoter](skills/B01D8ESCDG)
 
 *Alexa, ask Funny Quoter to tell me a quote.*
@@ -5249,6 +5297,14 @@ A quick trivia game to help you learn international countries, cities, famous ri
 *Alexa, learn Spanish*
 
 Learn Spanish
+
+***
+
+## &nbsp;<img src="skills/B01H7DFPSE/skill_icon" alt="Lebanon Facts icon" width="36"> [Lebanon Facts](skills/B01H7DFPSE)
+
+*Alexa, open lebanon facts*
+
+A quick and easy way to learn more about Lebanon.
 
 ***
 
@@ -6759,6 +6815,14 @@ Ask the operator for the technical excuse for the day.
 
 ***
 
+## &nbsp;<img src="skills/B01H2CQU6Q/skill_icon" alt="OptoJoker icon" width="36"> [OptoJoker](skills/B01H2CQU6Q)
+
+*Alexa, ask opto joker to tell me a knock knock optometry joke.*
+
+Optojoker is a skill with hilarious knock knock jokes relating to the optometry!
+
+***
+
 ## &nbsp;<img src="skills/B01GC86SRW/skill_icon" alt="orderdisplay icon" width="36"> [orderdisplay](skills/B01GC86SRW)
 
 *Alexa, ask Order Display to go to queue*
@@ -7175,6 +7239,14 @@ Ask Powerball for the Latest Winning Powerball Numbers!
 *Alexa, open power ball numbers*
 
 Tells you what the most recent winning Powerball lottery numbers were.  May not be suitable for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01GT4JYWA/skill_icon" alt="Prayer Helper icon" width="36"> [Prayer Helper](skills/B01GT4JYWA)
+
+*Alexa ask prayer helper to pray Our Father*
+
+Ask Alexa to pray 20 of the most common catholic prayers such as: Our father, Hail Mary, and Glory be.
 
 ***
 
