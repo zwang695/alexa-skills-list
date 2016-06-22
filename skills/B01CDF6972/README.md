@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Mosaic icon" width="36"> [Mosaic](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2171d931-80f6-44cc-b702-3b35eed7e40c)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Mosaic skill, try saying...
 
@@ -9,52 +9,40 @@ To use the Mosaic skill, try saying...
 
 * *Alexa, ask Mosaic to give me something relaxing*
 
-Mosaic allows you to assemble smart devices and apps into voice activated workflows that manage your environments and tailor experiences to your interests, your needs and your life. Link your favorite devices and apps on https://saymosaic.com to enjoy various pre-defined workflows immediately or customize your own.
+Mosaic allows you to connect smart devices and digital services together in one place, while controlling them as easily as chatting with a friend on SMS, Slack or with Amazon Alexa.
 
-Create, select, and activate Mosaic workflows by voice via any Alexa Powered Devices, or type to Mosaic Chatbot on Slack and SMS to continue the conversation. Whether it’s: “Good morning”, “Chill out” or “I’m home” - just say or type the word and we coordinate your devices and apps to your lifestyles. 
+All your devices & services in one place
 
-To get started, link your Mosaic account to use this skill, then link your favorite devices and apps to your Mosaic account. We are working with popular smart devices and productivity apps like: Nest, Philips Hue, Lifx, Fitbit, Jawbone, Withings, Automatic, Tesla, Google Calendar, Weather, and with more to come.
+Connect your things to Mosaic and manage them all together. Mosaic supports Google Calendar, Fitbit, Nest, Philips Hue, Lifx, Jawbone, Withings, Automatic, Tesla, and Weather, with many more to come.
 
-To use MOSAIC simply try a few commands:
+Mosaic workflows - simplify voice interaction
 
-Lights:
--turn on/off my lights
--set light brightness to 30 percent
--dim my lights
--increase brightness
--change color to blue
+Immediately enjoy predefined Mosaic workflows or customize your own with the devices and services you love. Whether it’s Good Morning, Chill out, or I am home - easily control your life with one simple command.
 
-Thermostat:
--set temperature to 68 degrees
--warm up the house
--cool down the house
--set nest defaults
+How to get started
 
-Fitness:
--fitbit goals
--jawbone goals
--withings summary
+First, enable the Mosaic Skill.
+Second, create a Mosaic account at https://saymosaic.com - it’s free!
+Finally, just link your favorite devices and services and start enjoying our pre-defined Mosaic workflows or create your own.
 
-Cars:
--fuel level
--tesla battery level
--tesla location
+A few examples of what you can do by saying “ask Mosaic for …”
+To control your Hue and Lifx lights: 
+- “Turn on my lights” or “dim my lights” or “change color to blue”
 
-Productivity:
--calendar summary
+ Want to know your fitbit goals:
+- “Fitbit goals”
 
-Mosaics:
--good morning
--good bye
--I am home
--chill out
--house party
--good night
+Maybe you’d like to warm up the house:
+- “Warm up the house” or “set temperature to 68 degrees”
 
-To explore other command options, say "list commands".
-To list our current mosaics, say "list my mosaics".
+Running any of your Mosaic workflows is easy:
+- “Chill out” or “Good Morning”
 
-For more information, visit https://saymosaic.com
+Not sure what commands you can use, no problem:
+- “Ask Mosaic to list commands”
+
+Slack & SMS
+Mosaic is also available as a Chatbot on Slack and SMS! For more details, please visit https://saymosaic.com
 
 ***
 

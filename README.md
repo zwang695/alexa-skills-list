@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1349
+**Total Skills Available:** 1350
 
 ***
 
@@ -3007,7 +3007,7 @@ Dinosaur Discovery gives you the facts about our ancient lizard friends.
 
 *Alexa, ask Dinosaur Facts to give me a dinosaur fact*
 
-Super Dino Facts is your source for awesome and random dinosaur information.
+Dino Facts is your #1 source for awesome and random dinosaur information.
 
 ***
 
@@ -6057,7 +6057,7 @@ Just provide the mortgage principal amount, mortgage period in years, and intere
 
 *Alexa, ask Mosaic for good morning*
 
-Mosaic allows you to assemble devices and apps into workflows that suite your lifestyle or control them individually. It is on Amazon Alexa, SMS and Slack.
+Mosaic allows you to connect smart devices and digital services in one place, while controlling them like chatting with a friend on SMS, Slack or Amazon Alexa.
 
 ***
 
@@ -8893,6 +8893,14 @@ Tabletop Trivia is a short trivia game about D20 Tabletop RPGs
 
 ***
 
+## &nbsp;<img src="skills/B01EJJFWV4/skill_icon" alt="tado° icon" width="36"> [tado°](skills/B01EJJFWV4)
+
+*null*
+
+Use your voice to control your tado? Smart Thermostat and Smart AC Control
+
+***
+
 ## &nbsp;<img src="skills/B01EIT5YHM/skill_icon" alt="TalkLocal icon" width="36"> [TalkLocal](skills/B01EIT5YHM)
 
 *Alexa, ask Talk Local to repair my toilet that keeps running*
@@ -10410,9 +10418,9 @@ Wait, what does your startup do?
 
 ## &nbsp;<img src="skills/B01GAW00J2/skill_icon" alt="What Is Cloud Computing icon" width="36"> [What Is Cloud Computing](skills/B01GAW00J2)
 
-*Alexa, ask Cloud Helper what is the definition of cloud computing?*
+*Alexa, ask Cloud Helper what are the different AWS services?*
 
-Learn the definitions of cloud computing terms
+Learn about the cloud computing products offered by Amazon Web Services
 
 ***
 

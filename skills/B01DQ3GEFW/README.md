@@ -9,7 +9,7 @@ To use the Dinosaur Facts skill, try saying...
 
 * *Alexa, ask Dinosaur Facts to tell me something*
 
-Ask Super Dino Facts for cool information about dinosaurs that you never knew. Learn something son. Dinosaurs were awesome creatures and power today's internal combustion engines, so there's that.
+Ask Dino Facts for cool information about dinosaurs that you never knew. Learn something son. Dinosaurs were awesome creatures and power today's internal combustion engines, so there's that.
 
 ***
 

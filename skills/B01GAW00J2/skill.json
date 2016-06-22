@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Education",
-  "description": "What is Cloud Computing is a skill designed to help you understand some key cloud computing terminology.  \n\nTo use the skill, enable it.  Then you can ask the following:\n\nAlexa, ask Cloud Helper what is the definition of cloud computing?",
+  "description": "What is Cloud Computing is a skill designed to help you understand some key cloud computing products and services offered by AWS.  \n\nTo use the skill, enable it.  Then you can ask the following:\n\nAlexa, ask Cloud Helper what is the definition of cloud computing?",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask Cloud Helper what is the definition of cloud computing?",
-    "Alexa, ask Cloud Helper what is the definition of lambda?",
-    "Alexa, ask Cloud Helper what is the definition of kinesis?"
+    "Alexa, ask Cloud Helper what are the different AWS services?",
+    "Alexa, ask Cloud Helper tell me more about compute",
+    "Alexa, ask Cloud Helper what is cloud computing"
   ],
   "firstReleaseDate": 1464957541.104,
   "homepageLinkText": null,
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Learn the definitions of cloud computing terms",
+  "shortDescription": "Learn about the cloud computing products offered by Amazon Web Services",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Education",
-  "description": "Ask Super Dino Facts for cool information about dinosaurs that you never knew. Learn something son. Dinosaurs were awesome creatures and power today's internal combustion engines, so there's that.",
+  "description": "Ask Dino Facts for cool information about dinosaurs that you never knew. Learn something son. Dinosaurs were awesome creatures and power today's internal combustion engines, so there's that.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Dinosaur Facts to give me a dinosaur fact",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Super Dino Facts is your source for awesome and random dinosaur information.",
+  "shortDescription": "Dino Facts is your #1 source for awesome and random dinosaur information.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

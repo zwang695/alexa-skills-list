@@ -3,13 +3,13 @@
 
 To use the What Is Cloud Computing skill, try saying...
 
-* *Alexa, ask Cloud Helper what is the definition of cloud computing?*
+* *Alexa, ask Cloud Helper what are the different AWS services?*
 
-* *Alexa, ask Cloud Helper what is the definition of lambda?*
+* *Alexa, ask Cloud Helper tell me more about compute*
 
-* *Alexa, ask Cloud Helper what is the definition of kinesis?*
+* *Alexa, ask Cloud Helper what is cloud computing*
 
-What is Cloud Computing is a skill designed to help you understand some key cloud computing terminology.  
+What is Cloud Computing is a skill designed to help you understand some key cloud computing products and services offered by AWS.  
 
 To use the skill, enable it.  Then you can ask the following:
 
