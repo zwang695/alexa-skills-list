@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1350
+**Total Skills Available:** 1359
 
 ***
 
@@ -1080,6 +1080,14 @@ Find what beer you should be pairing based on the type of food that you are prep
 
 ***
 
+## &nbsp;<img src="skills/B01HAJ9HI4/skill_icon" alt="Beer Bot icon" width="36"> [Beer Bot](skills/B01HAJ9HI4)
+
+*Alexa, open Beer bot*
+
+Looking for a locally crafted beer?  Not sure what style is right for you? This skill helps find you the right tasty beverage as well as locations to try out.
+
+***
+
 ## &nbsp;<img src="skills/B01FOSJ8PK/skill_icon" alt="Beer Facts icon" width="36"> [Beer Facts](skills/B01FOSJ8PK)
 
 *Alexa ask beer facts*
@@ -1328,6 +1336,14 @@ Find the names of famous people born on any given date
 
 ***
 
+## &nbsp;<img src="skills/B01H36KI46/skill_icon" alt="Bitcoin Info icon" width="36"> [Bitcoin Info](skills/B01H36KI46)
+
+*Alexa, ask bitcoin info for the latest bitcoin price*
+
+Get the latest price of Bitcoin
+
+***
+
 ## &nbsp;<img src="skills/B017OBUWP0/skill_icon" alt="Bitcoin Price icon" width="36"> [Bitcoin Price](skills/B017OBUWP0)
 
 *Alexa, tell me the current Bitcoin price*
@@ -1549,6 +1565,14 @@ Control your Brain of Things enabled home.
 *Alexa, ask BrickBot to get available sets in twenty sixteen*
 
 Crazy about collecting LEGO® sets? Get the latest updates on available sets, set details, themes, and sub-theme from Brick Bot. Try it out now!
+
+***
+
+## &nbsp;<img src="skills/B01HCD9SV4/skill_icon" alt="Broadway Trivia icon" width="36"> [Broadway Trivia](skills/B01HCD9SV4)
+
+*Alexa, open Broadway Trivia Game.*
+
+The Broadway Trivia Game tests your knowledge of Broadway history.
 
 ***
 
@@ -1838,6 +1862,14 @@ This skill gives you fun facts about cats when you ask it!
 *Alexa, ask Cat Fact to tell me a cat fact*
 
 True facts about cats.
+
+***
+
+## &nbsp;<img src="skills/B01HCJ83LY/skill_icon" alt="Cat Geek icon" width="36"> [Cat Geek](skills/B01HCJ83LY)
+
+*Alexa, ask cat geek for a fact.*
+
+random facts about cats little known by most people
 
 ***
 
@@ -6342,6 +6374,14 @@ D-Link’s Wi-Fi Smart Plugs make your home brighter, safer and more in tune wit
 
 ***
 
+## &nbsp;<img src="skills/B01GZ8DM00/skill_icon" alt="myFactSkill icon" width="36"> [myFactSkill](skills/B01GZ8DM00)
+
+*Alexa, ask fact geek for a fact.*
+
+random facts for the sponge bob cartoon character
+
+***
+
 ## &nbsp;<img src="skills/B01GZ9RO3A/skill_icon" alt="myHealthFacts icon" width="36"> [myHealthFacts](skills/B01GZ9RO3A)
 
 *Alexa, ask Health Me to tell me a health fact*
@@ -6371,6 +6411,14 @@ A messaging service used to send short messages to others (or yourself) using yo
 *Alexa, Open Myrtle Fillmore*
 
 This skill allows you to get a daily thought from the writings of Myrtle Fillmore, the co-founder of Unity. To hear a thought, start by enabling the skill.
+
+***
+
+## &nbsp;<img src="skills/B01GZ8W1W0/skill_icon" alt="mySFacts icon" width="36"> [mySFacts](skills/B01GZ8W1W0)
+
+*Alexa, ask facts demo to tell me a San Francisco trivia*
+
+Facts about San Francisco
 
 ***
 
@@ -7138,6 +7186,14 @@ This is will give you a platypus fact when invoked.
 
 ***
 
+## &nbsp;<img src="skills/B01GZ3K5CI/skill_icon" alt="Poetry icon" width="36"> [Poetry](skills/B01GZ3K5CI)
+
+*Alexa, ask any poet about love*
+
+Poets on love, life and everything else
+
+***
+
 ## &nbsp;<img src="skills/B01DKESOCI/skill_icon" alt="PokeyFinder icon" width="36"> [PokeyFinder](skills/B01DKESOCI)
 
 *alexa, ask pokey finder to find charizard*
@@ -7439,6 +7495,14 @@ Provides easy lookup of FCC licenses by callsign.
 *Alexa, launch Quadrivia*
 
 Quadrivia is like trivia, only more serious and harder. Quadrivia Vocabulary Quiz will challenge your vocabulary skills.
+
+***
+
+## &nbsp;<img src="skills/B01HAO895G/skill_icon" alt="Quail Fact Finder icon" width="36"> [Quail Fact Finder](skills/B01HAO895G)
+
+*Alexa ask quail facts to tell me a quail fact*
+
+Daily Quail Facts
 
 ***
 
@@ -10020,6 +10084,14 @@ Get four numbers that can be used to calculate 24.
 *Alexa, run Twister Spinner*
 
 Twister spinner with voice
+
+***
+
+## &nbsp;<img src="skills/B01FWLZJTS/skill_icon" alt="Tyler's TV Trivia icon" width="36"> [Tyler's TV Trivia](skills/B01FWLZJTS)
+
+*Alexa open Tyler's TV Trivia*
+
+A short trivia game
 
 ***
 

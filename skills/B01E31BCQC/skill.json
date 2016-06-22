@@ -10,7 +10,7 @@
   "exampleInteractions": [
     "Alexa, ask food finder what I should eat",
     "Alexa, ask food finder to suggest something",
-    "Alexa, ask food finder to tell me what type of food I should eat"
+    "Alexa, ask food finder"
   ],
   "firstReleaseDate": 1460507546.045,
   "homepageLinkText": null,

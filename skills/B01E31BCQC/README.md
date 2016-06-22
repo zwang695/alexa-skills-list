@@ -7,7 +7,7 @@ To use the Food Finder skill, try saying...
 
 * *Alexa, ask food finder to suggest something*
 
-* *Alexa, ask food finder to tell me what type of food I should eat*
+* *Alexa, ask food finder*
 
 Food Finder has a list of common food/cuisine types, such as burgers, pizza, Mexican, Sushi, Thai, and more.  If you need some ideas for your next meal, just ask Food Finder to suggest something.  If you don't like its response, keep asking until it suggests something you like.  Once you know what you want, you can always ask Alexa to find that kind of restaurant ("Alexa, find a Sushi restaurant near me").
 
