@@ -9,11 +9,11 @@ To use the Bird Song skill, try saying...
 
 * *Alexa, ask Bird Song for a game*
 
-Bird Song is a serene and entertaining skill that plays over 150 different bird songs and calls.  You can ask for a specific bird ("Alexa, ask Bird Song for a grasshopper sparrow"), a general bird ("Alexa, ask Bird Song for a sparrow"), or have Alexa select a random bird for you ("Alexa, ask Bird Song for a random bird").
+Bird Song is a serene and entertaining skill that plays over 160 different bird songs and calls.  You can ask for a specific bird ("Alexa, ask Bird Song for a grasshopper sparrow"), a general bird ("Alexa, ask Bird Song for a sparrow"), or have Alexa select a random bird for you ("Alexa, ask Bird Song for a random bird").
 
 For even more fun, ask Bird Song for a game to see how good you are at identifying birds by their voice alone.
 
-Bird Song is frequently updated with new songs and features, including plans to allow you to upload your own recorded bird songs via our website. For the latest news and updates, please visit...
+Bird Song is frequently updated with new songs and features. To provide feedback or get the latest news and updates, please visit...
 
 www.birdsongskill.com
 

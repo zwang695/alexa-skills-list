@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01D28TLRY",
-  "averageRating": 2,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": "News",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "manorama",
   "name": "Malayala Manorama",
-  "numberOfReviews": 2,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.manoramaonline.com/content/mm/ml/privacy.html",

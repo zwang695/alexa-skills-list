@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1359
+**Total Skills Available:** 1371
 
 ***
 
@@ -812,7 +812,7 @@ Awesome animal sounds
 
 *Alexa, open Baby Animals*
 
-Test your knowledge of the names of baby animals in our fun quiz. Ask your Amazon device: "Alexa, open Baby Animals" to play a quick, kid-friendly game.
+Test your knowledge of the names of baby animals in our fun quiz. Ask your Amazon device: "Alexa, open Baby Animals" to play a quick, family-friendly game.
 
 ***
 
@@ -1308,7 +1308,7 @@ The BioRhythm skill will calculate your natural biorhythm for today for entertai
 
 *Alexa, ask Bird Song for a bluebird*
 
-Plays a variety of beautiful bird songs and calls -- over 150 and growing!  Includes a Name That Bird game plus a few hidden "Easter Eggs" to keep things fun.
+Plays a variety of beautiful bird songs and calls -- over 160 and growing!  Includes a Name That Bird game plus a few hidden "Easter Eggs" to keep things fun.
 
 ***
 
@@ -2017,6 +2017,14 @@ Get the arrival times for any CTA Bus Stop before you walk out the door.
 
 ***
 
+## &nbsp;<img src="skills/B01HCGH7FU/skill_icon" alt="Chicago Facts icon" width="36"> [Chicago Facts](skills/B01HCGH7FU)
+
+*Alexa open chicago facts*
+
+This skill tells an interesting fact about Chicago city.
+
+***
+
 ## &nbsp;<img src="skills/B01EF6VRBU/skill_icon" alt="Chicago Java icon" width="36"> [Chicago Java](skills/B01EF6VRBU)
 
 *Alexa, ask Chicago Java when is my next Meetup.*
@@ -2366,6 +2374,14 @@ CompliBot is your best bud.  It wants nothing more than to make your day a littl
 *Alexa, open computer facts*
 
 Computer facts told to you by a computer who could ask for more
+
+***
+
+## &nbsp;<img src="skills/B01HCIVFKQ/skill_icon" alt="Computer Geek icon" width="36"> [Computer Geek](skills/B01HCIVFKQ)
+
+*Alexa, ask computer geek for a computer fact*
+
+This skill tells a fun fact about Computers
 
 ***
 
@@ -3144,6 +3160,14 @@ Get the spot price of DogeCoin, one of the top crypto-currencies worldwide!
 *Alexa, launch dog facts*
 
 A skill for dog facts
+
+***
+
+## &nbsp;<img src="skills/B01HCJ9FD4/skill_icon" alt="DogGeek icon" width="36"> [DogGeek](skills/B01HCJ9FD4)
+
+*Alexa, ask dog geek for a fact.*
+
+Dog Geek gives interesting facts about dogs.
 
 ***
 
@@ -4626,6 +4650,14 @@ This is the number guessing game of “higher or lower.” In this game, you cho
 
 ***
 
+## &nbsp;<img src="skills/B01GZTIG2S/skill_icon" alt="HighLowBot icon" width="36"> [HighLowBot](skills/B01GZTIG2S)
+
+*Alexa, start HighLowBot*
+
+Play a simple game with Alexa! Alexa picks a number from 0 to 100, and you have to guess it.
+
+***
+
 ## &nbsp;<img src="skills/B01H9SF0Z0/skill_icon" alt="HikeMaster icon" width="36"> [HikeMaster](skills/B01H9SF0Z0)
 
 *Alexa, ask hike master to find a hike that is difficult*
@@ -5693,6 +5725,14 @@ Latest news headlines from Reuters, Market Watch, Wall Street Journal, CNBC, etc
 
 ***
 
+## &nbsp;<img src="skills/B01H9RQOPQ/skill_icon" alt="Mars Facts Skill icon" width="36"> [Mars Facts Skill](skills/B01H9RQOPQ)
+
+*Alexa, Mars Fact*
+
+Facts and figures about the planet Mars.
+
+***
+
 ## &nbsp;<img src="skills/B01DMZUFQS/skill_icon" alt="Martial Art Trivia icon" width="36"> [Martial Art Trivia](skills/B01DMZUFQS)
 
 *Alexa, launch martial art trivia!*
@@ -6719,6 +6759,14 @@ Convert numbers to different radixes.
 
 ***
 
+## &nbsp;<img src="skills/B01HDPQIXW/skill_icon" alt="Number Counter icon" width="36"> [Number Counter](skills/B01HDPQIXW)
+
+*Alexa, ask Number Counter to count to one hundred.*
+
+Ask Alexa to count to a certain number, or to count to a certain number by a certain increment.
+
+***
+
 ## &nbsp;<img src="skills/B01FNFK5Z6/skill_icon" alt="Number Fact icon" width="36"> [Number Fact](skills/B01FNFK5Z6)
 
 *Alexa ask number fact 317*
@@ -6871,6 +6919,14 @@ Optojoker is a skill with hilarious knock knock jokes relating to the optometry!
 
 ***
 
+## &nbsp;<img src="skills/B01H9LHZ28/skill_icon" alt="Orbitals icon" width="36"> [Orbitals](skills/B01H9LHZ28)
+
+*Alexa, ask Atomic orbitals What's the electron configuration of chromium?*
+
+Orbitals is all about atoms & how their electrons are arranged.  With this skill, Alexa can tell you the atomic number & electron configuration of any element.
+
+***
+
 ## &nbsp;<img src="skills/B01GC86SRW/skill_icon" alt="orderdisplay icon" width="36"> [orderdisplay](skills/B01GC86SRW)
 
 *Alexa, ask Order Display to go to queue*
@@ -6989,6 +7045,14 @@ Permutations Calculator will calculate the number of ways an ordered subset of i
 *Alexa, ask Persian History*
 
 A simple trivia game about ancient Persian history
+
+***
+
+## &nbsp;<img src="skills/B01GM73LI2/skill_icon" alt="Pet Bed Time icon" width="36"> [Pet Bed Time](skills/B01GM73LI2)
+
+*Alexa, ask Sand Man to tell the cat to go to bed*
+
+Let Alexa tell your pets to go to bed.
 
 ***
 
@@ -7231,6 +7295,22 @@ Well, so you want to learn something.  The Fact Core can assist, but it's up to 
 *Alexa, ask Portland Trivia to give me a Portland fact*
 
 Ask Alexa for facts about Portland, OR - interesting, weird, and everything in between!
+
+***
+
+## &nbsp;<img src="skills/B01H5TUVDE/skill_icon" alt="Portland Trivia icon" width="36"> [Portland Trivia](skills/B01H5TUVDE)
+
+*Alexa tell portland trivia to start game*
+
+test your knowledge about The City of Roses with trivia questions
+
+***
+
+## &nbsp;<img src="skills/B01HAWGWN4/skill_icon" alt="Portugal Squad Helper icon" width="36"> [Portugal Squad Helper](skills/B01HAWGWN4)
+
+*Alexa, ask Portugal Squad Helper who is Cristiano Ronaldo*
+
+This is the squad helper for Portugal fans in EURO 2016 this summer. It provides basic bio for the 23 players in Portugal National Team.
 
 ***
 
@@ -10424,6 +10504,14 @@ Ask the warden if DMX is in jail
 
 ***
 
+## &nbsp;<img src="skills/B01GSGB116/skill_icon" alt="Washington Insider icon" width="36"> [Washington Insider](skills/B01GSGB116)
+
+*Alexa, ask washington insider about new policies for economy*
+
+Provide insights on recent policy decisions from the desk of the White House.
+
+***
+
 ## &nbsp;<img src="skills/B01FROAWB0/skill_icon" alt="Washington State Ferry icon" width="36"> [Washington State Ferry](skills/B01FROAWB0)
 
 *Alexa, ask Washington State Ferry when is the next ferry from Seattle to Bainbridge.*
@@ -10549,6 +10637,14 @@ Test your knowledge of the 007 films by matching which actor played bond in each
 *Alexa, ask government official finder who is the representative for 90210*
 
 Who represents me?
+
+***
+
+## &nbsp;<img src="skills/B01H4S4QPA/skill_icon" alt="Who Wrote It? icon" width="36"> [Who Wrote It?](skills/B01H4S4QPA)
+
+*Alexa play Who Wrote It*
+
+Did you pay attention in English Literature class? Put your knowledge to the test by matching the author to their famous work.
 
 ***
 
