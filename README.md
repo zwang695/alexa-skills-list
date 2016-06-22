@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1371
+**Total Skills Available:** 1370
 
 ***
 
@@ -4818,14 +4818,6 @@ This teaches you how to make ramen
 
 ***
 
-## &nbsp;<img src="skills/B01GBTT9NC/skill_icon" alt="HowMuch icon" width="36"> [HowMuch](skills/B01GBTT9NC)
-
-*Alexa, open how much and How much is the price of a tesla model 3*
-
-Gives the price of things by searching on Amazon and Google
-
-***
-
 ## &nbsp;<img src="skills/B01DLC6YLM/skill_icon" alt="Howzzat! T20 Cricket Trivia icon" width="36"> [Howzzat! T20 Cricket Trivia](skills/B01DLC6YLM)
 
 *Alexa, launch Cricket Trivia*
@@ -9041,7 +9033,7 @@ Tabletop Trivia is a short trivia game about D20 Tabletop RPGs
 
 *null*
 
-Use your voice to control your tado? Smart Thermostat and Smart AC Control
+Use your voice to control your tado° Smart Thermostat and Smart AC Control
 
 ***
 
