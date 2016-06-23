@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Box of Cats icon" width="36"> [Box of Cats](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9bdcd638-a3b3-4470-acf5-db8bba439d51)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 6
 
 To use the Box of Cats skill, try saying...
 

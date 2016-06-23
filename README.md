@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1385
+**Total Skills Available:** 1392
 
 ***
 
@@ -3270,6 +3270,14 @@ This skill returns the NASCAR driver name for a given number or the number for a
 
 ***
 
+## &nbsp;<img src="skills/B01H9FT3UG/skill_icon" alt="Drone Geek icon" width="36"> [Drone Geek](skills/B01H9FT3UG)
+
+*Alexa, ask Drone Geek for a fact*
+
+Drone Trivia Facts created during the Alexa Skills 101 in Seattle
+
+***
+
 ## &nbsp;<img src="skills/B01C65GSIE/skill_icon" alt="Drop Some Knowledge icon" width="36"> [Drop Some Knowledge](skills/B01C65GSIE)
 
 *Alexa, ask drop some knowledge to tell me about Abraham Lincoln*
@@ -3669,6 +3677,15 @@ Retrieve fantasy football news and player updates on the Top 300 players directl
 *Alexa, ask Fantasy Scoreboard to show the Sens game*
 
 Control your Fantasy Scoreboard
+
+***
+
+## &nbsp;<img src="skills/B01G9CLEXE/skill_icon" alt="Farmers Market icon" width="36"> [Farmers Market](skills/B01G9CLEXE)
+
+*Alexa, ask Farmer's Market what's in season in New York?*
+
+Easily find out what fruits and vegetables are in season. Tailor
+results by month and state.
 
 ***
 
@@ -4545,6 +4562,14 @@ Haiku poem generator.
 *null*
 
 Control your Haiku fans and lights
+
+***
+
+## &nbsp;<img src="skills/B01H9JL486/skill_icon" alt="Hail Mary icon" width="36"> [Hail Mary](skills/B01H9JL486)
+
+*Alexa, ask Hail Mary to tell me a prayer*
+
+Tell me the hail Mary
 
 ***
 
@@ -7065,6 +7090,14 @@ Says random palindromes
 
 ***
 
+## &nbsp;<img src="skills/B01HCMPZ2G/skill_icon" alt="Panda wizard icon" width="36"> [Panda wizard](skills/B01HCMPZ2G)
+
+*Alexa, launch panda wizard*
+
+Fun facts about giant pandas. We love pandas and want to learn more about pandas.
+
+***
+
 ## &nbsp;<img src="skills/B01GUK8TRO/skill_icon" alt="Parks Explore icon" width="36"> [Parks Explore](skills/B01GUK8TRO)
 
 *Alexa, ask parks explore what is the list for all national parks*
@@ -7353,6 +7386,14 @@ This is will give you a platypus fact when invoked.
 *Alexa, ask any poet about love*
 
 Poets on love, life and everything else
+
+***
+
+## &nbsp;<img src="skills/B01H9MTPKW/skill_icon" alt="PokerHelper icon" width="36"> [PokerHelper](skills/B01H9MTPKW)
+
+*Alexa, ask Poker Helper how to make a straight*
+
+A quick guide to all poker hands
 
 ***
 
@@ -10225,6 +10266,14 @@ TV Shows provides the time and network for the next episode of any TV show. Epis
 
 ***
 
+## &nbsp;<img src="skills/B01GR0D12K/skill_icon" alt="TV Wisdom icon" width="36"> [TV Wisdom](skills/B01GR0D12K)
+
+*Alexa, ask TV Wisdom*
+
+Provides you with a quote from a famous TV character when you ask.
+
+***
+
 ## &nbsp;<img src="skills/B01GK6D3JC/skill_icon" alt="Tweech for Twitter icon" width="36"> [Tweech for Twitter](skills/B01GK6D3JC)
 
 *Alexa, ask tweet reader to read my tweets.*
@@ -10727,6 +10776,14 @@ Finds out where the Lansing River Trail is flooded.
 *Alexa, Ask Parking Near Me 'Good parking in New York city?'*
 
 Where To Park
+
+***
+
+## &nbsp;<img src="skills/B01HEKBWW8/skill_icon" alt="Whiteboard icon" width="36"> [Whiteboard](skills/B01HEKBWW8)
+
+*"Alexa, open white board"*
+
+Whiteboard lets you use your Echo to test your coding interview skills.
 
 ***
 
