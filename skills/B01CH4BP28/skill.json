@@ -6,7 +6,7 @@
     "google.com"
   ],
   "asin": "B01CH4BP28",
-  "averageRating": 3.4,
+  "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
   "category": "Health-and-Fitness",
@@ -26,7 +26,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "fitbit",
   "name": "Fitbit",
-  "numberOfReviews": 47,
+  "numberOfReviews": 48,
   "pamsPartnerId": "4I2Hsat7yxgmQwKcU7pkeKEXz",
   "permissions": null,
   "privacyPolicyUrl": "https://www.fitbit.com/legal/privacy",
