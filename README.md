@@ -8459,7 +8459,7 @@ Ask Alexa to describe a website.
 
 ## &nbsp;<img src="skills/B01GGW79U4/skill_icon" alt="Skill Finder icon" width="36"> [Skill Finder](skills/B01GGW79U4)
 
-*Alexa, Open Skill Finder*
+*Alexa, open Skill Finder*
 
 Amazon’s Skill Finder is a new way to discover Alexa skills. Open Skill Finder and learn about the skill of the day, the newest skills, and the top skills.
 

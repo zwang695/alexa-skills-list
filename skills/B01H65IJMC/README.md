@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Nexia icon" width="36"> [Nexia](http://alexa.amazon.com/#skills/amzn1.ask.skill.a7121797-b502-462e-bfe5-86e78ca42413)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 9
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 10
 
 To use the Nexia skill, try saying...
 
