@@ -13,25 +13,16 @@ This skill will give recipes for over 170 popular bar drinks.  The drink list in
 
 The Bar Maid can be asked for specific drink recipes, types of drinks, and recipes for a specific type of alcohol.
 
-Invoke this skill by saying, with some variations allowed for 'a' and 'an': 
+Invoke this skill by saying, with several variations and allowances for 'a' and 'an’.  A complete list is on the instructions card: 
 
-"Alexa, ask the Bar Maid how can I make an apple martini”
-"Alexa, ask the Bar Maid how does one make a scorpion”
-"Alexa, ask the Bar Maid how can you make a 57 chevy”
 "Alexa, ask the Bar Maid how do I make a godfather”
 "Alexa, ask the Bar Maid how do you make a sea breeze”
 "Alexa, ask the Bar Maid how is a blaster made”
-"Alexa, ask the Bar Maid how an adios is made”
 "Alexa, ask the Bar Maid recipe for a side car”
 "Alexa, ask the Bar Maid what are the ingredients for a blaster”
 "Alexa, ask the Bar Maid what do I need for a fuzzy navel”
-"Alexa, ask the Bar Maid what do I need for an oatmeal cookie”
-"Alexa, ask the Bar Maid what do I need to get for a manhattan”
-"Alexa, ask the Bar Maid what do I need to get to make a mai tai”
-"Alexa, ask the Bar Maid what do I need to have to make an old fashioned”
 "Alexa, ask the Bar Maid what do I need to make a frozen daquiri”
 "Alexa, ask the Bar Maid what do you need for a screwdriver”
-"Alexa, ask the Bar Maid what ingredients do I need to make a barryetto”
 "Alexa, ask the Bar Maid what ingredients are in an bahama mama”
 "Alexa, ask the Bar Maid what is in a chocolate cake”
 "Alexa, ask the Bar Maid what is the recipe for a cadillac margarita”
@@ -50,14 +41,15 @@ Invoke this skill by saying, with some variations allowed for 'a' and 'an':
 "Alexa, ask the Bar Maid to list the brandy recipes you have”
 "Alexa, ask the Bar Maid to list the whiskey drinks you have”
 "Alexa, ask the Bar Maid to list the bourbon drinks available”
+“Alexa, ask the Bar Maid to send me a recipe card for a Manhattan”
+“Alexa, ask the Bar Maid to send me a Mai Tai recipe card”
+“Alexa, ask the Bar Maid to send a Singapore Sling card”
 "Alexa, ask the Bar Maid what types of drinks can you make”
-"Alexa, ask the Bar Maid what are the types of drinks you have available”
 "Alexa, ask the Bar Maid what types of drinks you have”
 "Alexa, ask the Bar Maid what types of drinks do you have”
 "Alexa, ask the Bar Maid what types of drinks do you have on file”
 "Alexa, ask the Bar Maid what type of drink recipes do you have”
 "Alexa, ask the Bar Maid to name the type of drink recipes you have”
-"Alexa, ask the Bar Maid to name the types of drink recipes she has”
 "Alexa, ask the Bar Maid name the types of drink recipes”
 “Alexa, ask the Bar Maid what drink types start with the letter a”
 “Alexa, ask the Bar Maid what drink types she has starting with the letter a”
@@ -65,7 +57,8 @@ Invoke this skill by saying, with some variations allowed for 'a' and 'an':
 “Alexa, ask the Bar Maid for drink types starting with the letter a”
 "Alexa, ask the Bar Maid to list the drink types starting with the letter a"
 
-"Alexa ask the Bar Maid for help"
+"Alexa, ask the Bar Maid for help"
+“Alexa, ask the Bar Maid to send and instructions card”
 "stop"
 "cancel"
 

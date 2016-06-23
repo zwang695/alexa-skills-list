@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1370
+**Total Skills Available:** 1385
 
 ***
 
@@ -960,6 +960,14 @@ This is a quiz on baseball history.
 
 ***
 
+## &nbsp;<img src="skills/B01H96IZ3Q/skill_icon" alt="Baseball Trivia icon" width="36"> [Baseball Trivia](skills/B01H96IZ3Q)
+
+*Alexa, open Baseball Trivia*
+
+Baseball trivia game with 200+ MLB and baseball history questions
+
+***
+
 ## &nbsp;<img src="skills/B01D1II83S/skill_icon" alt="Baseball Trivia App icon" width="36"> [Baseball Trivia App](skills/B01D1II83S)
 
 *Alexa, open baseball trivia*
@@ -1168,6 +1176,14 @@ Best Picture Oscars: The Last 30 Years
 
 ***
 
+## &nbsp;<img src="skills/B01GB3U22U/skill_icon" alt="Best Time of Day to Workout Recommendation icon" width="36"> [Best Time of Day to Workout Recommendation](skills/B01GB3U22U)
+
+*Alexa, ask workout recommendation what is the best time to go running today*
+
+This application uses historical workout data to recommend the time of day where you are most likely to maximize workout intensity.
+
+***
+
 ## &nbsp;<img src="skills/B01BFUIPCS/skill_icon" alt="BF Helper icon" width="36"> [BF Helper](skills/B01BFUIPCS)
 
 *Alexa, ask Basic Fantasy to roll a Thief.*
@@ -1237,6 +1253,16 @@ It's the 50th anniversary of football's biggest game. Test your Big Game knowled
 *Alexa, ask Big O Buddy what is the complexity for the heapsort algorithm*
 
 Big O Buddy tells you the time and space complexity of some of the most popular data structures and algorithms.
+
+***
+
+## &nbsp;<img src="skills/B01GU4MBM4/skill_icon" alt="Big Sky icon" width="36"> [Big Sky](skills/B01GU4MBM4)
+
+*Alexa, open Big Sky.*
+
+Get hyper-local weather, hourly forecasts for your address using the Dark Sky API. 
+
+Works with international addresses!
 
 ***
 
@@ -1426,7 +1452,7 @@ Bo's Resume
 
 ## &nbsp;<img src="skills/B01D39I76I/skill_icon" alt="Board Gamer icon" width="36"> [Board Gamer](skills/B01D39I76I)
 
-*Alexa, tell Board Gamer that my username is boardgamer*
+*Alexa, tell Board Gamer my username is boardgamer*
 
 Get a random board game from your BoardGameGeek.com board game collection
 
@@ -1557,6 +1583,14 @@ This skill helps to find movie ratings. It tells you rating on a scale of 10. Wh
 *Alexa, tell brain of things to open the curtains*
 
 Control your Brain of Things enabled home.
+
+***
+
+## &nbsp;<img src="skills/B01HAKRFR8/skill_icon" alt="Brewers Table icon" width="36"> [Brewers Table](skills/B01HAKRFR8)
+
+*Alexa, ask brewers table what goes with Kolsh*
+
+An Amazon Alexa app to discover new food pairings to enjoy your beer.
 
 ***
 
@@ -3372,6 +3406,14 @@ The Astro Twins forecast every sign's horoscope for today. Find out if the moon'
 
 ***
 
+## &nbsp;<img src="skills/B01GWIVO26/skill_icon" alt="Ellie World icon" width="36"> [Ellie World](skills/B01GWIVO26)
+
+*Alexa Open Ellie World*
+
+Ellie is a dog that likes to have fun and get into trouble with her old pals. Join Ellie on her adventures and her jokes. Just say "Open Ellie World."
+
+***
+
 ## &nbsp;<img src="skills/B01BW5A4EI/skill_icon" alt="Email Assistant icon" width="36"> [Email Assistant](skills/B01BW5A4EI)
 
 *Alexa, open Email Assistant*
@@ -3385,6 +3427,14 @@ Alexa + Email = the only assistant you can ask about upcoming travel info from m
 *Alexa, Ask Empire State Colors 'What's the colors?'*
 
 Hear what colors the Empire State Building is displaying tonight.
+
+***
+
+## &nbsp;<img src="skills/B01GWRNHGS/skill_icon" alt="English teacher by Big Ben School icon" width="36"> [English teacher by Big Ben School](skills/B01GWRNHGS)
+
+*Alexa ask the English teacher the days of the week*
+
+Educational skill that lists the days of the week and the months of the year.
 
 ***
 
@@ -4226,6 +4276,14 @@ Ronald Reagan Trivia Game
 
 ***
 
+## &nbsp;<img src="skills/B01GZ9O1RW/skill_icon" alt="Gismo icon" width="36"> [Gismo](skills/B01GZ9O1RW)
+
+*Alexa, ask gizmo lab to tell me a fact*
+
+Stanford Gismo lab demo
+
+***
+
 ## &nbsp;<img src="skills/B018YKD1T4/skill_icon" alt="GLaDOS Quotes icon" width="36"> [GLaDOS Quotes](skills/B018YKD1T4)
 
 *Alexa, ask Glados to tell me something*
@@ -4295,6 +4353,14 @@ A skill to get information about the current PGA Tour tournament.
 *Alexa, ask Good Luck Guru*
 
 Good Luck Guru tells about daily horoscope of your choice.
+
+***
+
+## &nbsp;<img src="skills/B01HBZWDPG/skill_icon" alt="Good Men icon" width="36"> [Good Men](skills/B01HBZWDPG)
+
+*Alexa, ask goodmen where have the good men gone*
+
+Ask Alexa your troubles, where have the good men gone?
 
 ***
 
@@ -4518,7 +4584,7 @@ Alexa sings (raps?) Happy Birthday! Tell your Echo the name of the lucky birthda
 
 *Alexa, ask the Bar Maid what's in a margarita.*
 
-A recipe guide to over 170 popular drinks.
+A recipe guide to over 170 popular drinks.  Recently added Americano, Negroni, Moscow Mule, and a few others.
 
 ***
 
@@ -4567,6 +4633,14 @@ Get the time until the next bus arrives at a specified bus stop in the Iowa City
 *Alexa, open headlines from TsaTsaTzu*
 
 Listen to the headlines from TsaTsaTzu's RSS Feed
+
+***
+
+## &nbsp;<img src="skills/B01GPHQS9S/skill_icon" alt="Health Care Genius icon" width="36"> [Health Care Genius](skills/B01GPHQS9S)
+
+*Alexa, ask Health Care Genius, "What's a deductible?"*
+
+Health Care Genius can help you understand strange terms in health care. For example, you can ask, "What's a deductible?"
 
 ***
 
@@ -5372,6 +5446,14 @@ How will do you know Lebanon? Let's find out!
 
 ***
 
+## &nbsp;<img src="skills/B01H5ZKKGG/skill_icon" alt="Lee Hecht Harrison Career Tips icon" width="36"> [Lee Hecht Harrison Career Tips](skills/B01H5ZKKGG)
+
+*Alexa, ask LHH for a tip*
+
+Career tips from Lee Hecht Harrison, the global leader in talent development and transition.
+
+***
+
 ## &nbsp;<img src="skills/B01DR9XVQK/skill_icon" alt="Lets Add icon" width="36"> [Lets Add](skills/B01DR9XVQK)
 
 *Alexa, open let's add*
@@ -5893,6 +5975,14 @@ Ask Alexa to tell you the deal today on meh.com's website
 
 ***
 
+## &nbsp;<img src="skills/B01HBWUHVG/skill_icon" alt="Memory Game icon" width="36"> [Memory Game](skills/B01HBWUHVG)
+
+*Alexa, launch Memory Game*
+
+Play a simple game with Alexa to test your memory!
+
+***
+
 ## &nbsp;<img src="skills/B01BH1URE4/skill_icon" alt="MemoryChallenge icon" width="36"> [MemoryChallenge](skills/B01BH1URE4)
 
 *alexa, start challenge memory*
@@ -6347,6 +6437,14 @@ My Dermatologist is designed for your skin health. At My Dermatologist we will p
 *Alexa, launch Omaha Trivia*
 
 Omaha Trivia Game. Alexa, launch Omaha Trivia
+
+***
+
+## &nbsp;<img src="skills/B01HEX0SQ6/skill_icon" alt="My Kitty icon" width="36"> [My Kitty](skills/B01HEX0SQ6)
+
+*Alexa, ask my kitty to tell me something about my cat*
+
+Get to know more about your cat just by asking alexa like "Alexa, ask my kitty to tell me something about my cat" or "Alexa, ask my kitty to tell me a cat fact"
 
 ***
 
@@ -6924,6 +7022,14 @@ Orbitals is all about atoms & how their electrons are arranged.  With this skill
 *Alexa, ask Order Display to go to queue*
 
 Skill used to control custom made application for order display
+
+***
+
+## &nbsp;<img src="skills/B01HBZE7KA/skill_icon" alt="Oscar Wilde Quotes icon" width="36"> [Oscar Wilde Quotes](skills/B01HBZE7KA)
+
+*Alexa ask oscar wilde quotes to tell me an oscar wilde quote*
+
+Oscar Wilde quotes
 
 ***
 
@@ -10432,6 +10538,14 @@ Broaden your vocabulary with Verbivore. This skill, perfect for scholars, educat
 
 ***
 
+## &nbsp;<img src="skills/B01H2CXBEU/skill_icon" alt="Viet Guy icon" width="36"> [Viet Guy](skills/B01H2CXBEU)
+
+*Alexa, ask viet guy to how do you cook beef noodle soup?*
+
+VietGuy is a handy guide on how to make delicious vietnamese food!
+
+***
+
 ## &nbsp;<img src="skills/B01E3USJ1O/skill_icon" alt="Virtual Academy icon" width="36"> [Virtual Academy](skills/B01E3USJ1O)
 
 *Alexa, ask virtual academy what are the events in may*
@@ -10814,6 +10928,16 @@ Are you interested in world history? Rely on World History for hundreds of event
 *Alexa, open World Holidays.*
 
 Are you interested in world holidays? Rely on World Holidays for dozens of world holidays for every day of the year.
+
+***
+
+## &nbsp;<img src="skills/B01HE5VGQU/skill_icon" alt="World War Two Trivia icon" width="36"> [World War Two Trivia](skills/B01HE5VGQU)
+
+*Alexa, open world war two trivia*
+
+Are You A World War II Whiz?
+Test your knowledge about the deadliest war in history.
+You may have aced history class, but can you crack our questions?
 
 ***
 

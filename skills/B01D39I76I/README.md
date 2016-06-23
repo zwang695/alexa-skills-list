@@ -3,9 +3,9 @@
 
 To use the Board Gamer skill, try saying...
 
-* *Alexa, tell Board Gamer that my username is boardgamer*
+* *Alexa, tell Board Gamer my username is boardgamer*
 
-* *Alexa, ask Board Gamer to choose a game*
+* *Alexa, ask Board Gamer to choose a game for six players*
 
 * *Alexa, ask Board Gamer how many games I own*
 
@@ -27,7 +27,8 @@ Have Board Gamer say or spell the username it has saved for you by saying:
 
 Once Board Gamer knows your username, you can ask Board Gamer to choose a game for you by saying:
 "Alexa, ask Board Gamer what game should we play", or
-"Alexa, ask Board Gamer to choose a game"
+"Alexa, ask Board Gamer to choose a game", or 
+"Alexa, ask Board Gamer to choose a game for five players"
 
 Ask Board Gamer to tell you the size of your BGG game collection by saying:
 "Alexa, ask Board Gamer how many games do I own?"

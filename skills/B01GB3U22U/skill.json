@@ -1,0 +1,41 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "fitbit.com",
+    "amazon.com",
+    "api.fitbit.com",
+    "darianbjohnson.com",
+    "www.fitbit.com",
+    "s3.amazonaws.com"
+  ],
+  "asin": "B01GB3U22U",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Health-and-Fitness",
+  "description": "This application uses your historical workout data to recommend the time of day where you are most likely to maximize workout intensity.\n\nYou will need to link your Fitbit account to this skill in order to receive recommendations. This can be done in the Alexa app after you have enabled the skill.\n\nNote - this skill is not sponsored by Fitbit; it is built using their publicly available APIs (governed by their Terms of Service). More information on the Terms of Service can be obtained at   https://dev.fitbit.com/terms.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask workout recommendation what is the best time to go running today",
+    "Tell me the best time to lift weights tomorrow",
+    "Recommend the best time to practice yoga today"
+  ],
+  "firstReleaseDate": 1466676945.616,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.49ae8765-f94c-4bca-8dc3-1894a93b4f9c",
+  "imageAltText": "Best Time of Day to Workout Recommendation icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01GB3U22U/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "workout recommendation",
+  "name": "Best Time of Day to Workout Recommendation",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "igF4dWwY2Sb3nRn4L94LWUMuv",
+  "permissions": null,
+  "privacyPolicyUrl": "https://s3.amazonaws.com/darianbjohnson/Workout-Recommendation/privacy_policy.html",
+  "shortDescription": "This application uses historical workout data to recommend the time of day where you are most likely to maximize workout intensity.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2ZH71R2ECPIJ2",
+  "vendorName": "Darian Johnson"
+}
