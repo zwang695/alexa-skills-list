@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bible Trivia icon" width="36"> [Bible Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.abb37de1-b612-42dd-8ae2-719474d0d375)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Bible Trivia skill, try saying...
 

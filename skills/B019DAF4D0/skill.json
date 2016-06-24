@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019DAF4D0",
-  "averageRating": 3.8,
+  "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Other",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "audio goal",
   "name": "Audio Goal",
-  "numberOfReviews": 14,
+  "numberOfReviews": 13,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

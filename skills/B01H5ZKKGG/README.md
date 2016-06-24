@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Lee Hecht Harrison Career Tips icon" width="36"> [Lee Hecht Harrison Career Tips](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.456fc638-ab37-4063-ba2c-b76f7207e697)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Lee Hecht Harrison Career Tips skill, try saying...
 

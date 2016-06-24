@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DPM0ERI",
-  "averageRating": 2.5,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": "Lifestyle",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "wedding countdown",
   "name": "Wedding Countdown",
-  "numberOfReviews": 5,
+  "numberOfReviews": 6,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://weddingcountdownskill.com/privacy.html",

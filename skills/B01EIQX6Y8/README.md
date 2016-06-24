@@ -3,7 +3,8 @@
 
 To use the TP-LINK Kasa skill, try saying...
 
-Kasa is a simple way to manage your home from anywhere.You can link Kasa with Amazon Echo to control devices like smart plugs and smart lights with simple voice commands. Just say “turn on the Christmas tree lights” and watch your kids’ faces light up. Connecting your Echo to Kasa is easy, just follow the instructions in the Kasa app.
+Kasa is a simple way to manage your home from anywhere. You can link Kasa with Amazon Echo to control devices like smart plugs and smart lights with simple voice commands. Just say “turn on the Christmas tree lights” and watch your kids’ faces light up. 
+Before you proceed, please make sure that you have a TP-LINK Cloud account and you have enabled Remote Control from the TP-LINK Kasa App for each device that you wish to control through Amazon Alexa. For more information, please read the FAQ on how to connect TP-LINK devices to Alexa at http://bit.ly/290cIcf.
 
 ***
 
