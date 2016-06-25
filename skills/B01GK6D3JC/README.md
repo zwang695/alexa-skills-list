@@ -5,9 +5,13 @@ To use the Tweech for Twitter skill, try saying...
 
 * *Alexa, ask tweet reader to read my tweets.*
 
+* *Alexa, ask tweet reader for my timeline*
+
 This skill reads your twitter timeline to you.
 Tweech is your personalized flash briefing. You can easily stay up to date with updates that are are relevant for you.
 Start your day hearing what the people you follow talk about and get news in real time as you expect it from twitter.
+
+If you want to receive specific information just open a new twitter account and follow the relevant accounts. You can configure you own flash briefing in seconds.
 
 Only english tweets are read. For a better experience the tweets are cleaned up.
 After you have activated the skill you will be asked for a read-only access to your twitter account.

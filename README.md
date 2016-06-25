@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1402
+**Total Skills Available:** 1406
 
 ***
 
@@ -2131,6 +2131,14 @@ A fun trivia to test your knowledge in chocolate.
 
 ***
 
+## &nbsp;<img src="skills/B01HHC86Q8/skill_icon" alt="Choose a European Vacation icon" width="36"> [Choose a European Vacation](skills/B01HHC86Q8)
+
+*Alexa open European vacation*
+
+Let Alexa help you choose somewhere in Europe to go on vacation!
+
+***
+
 ## &nbsp;<img src="skills/B019YJIY4G/skill_icon" alt="Christmas Caroler icon" width="36"> [Christmas Caroler](skills/B019YJIY4G)
 
 *Alexa, tell Christmas Caroler to spread holiday cheer.*
@@ -2344,6 +2352,14 @@ Test your College Basketball knowledge with a series of trivia questions surroun
 *alexa open color game*
 
 Memorize the color order
+
+***
+
+## &nbsp;<img src="skills/B01HAGANYY/skill_icon" alt="Color Recipe icon" width="36"> [Color Recipe](skills/B01HAGANYY)
+
+*Alexa launch color recipe*
+
+Quickly see what are the correct colors that need to be mixed to get the color you want. "Alexa launch color recipe"
 
 ***
 
@@ -5691,7 +5707,7 @@ Learn facts about the great city of London from the London Scholar.
 
 *Alexa, ask choo choo, when is the next train from Penn Station to Mineola*
 
-This skill returns the next few trains that run from one station to another along the Long Island Railroad.
+This skill returns the next few trains that run from one station to another along the Long Island Railroad (MTA LIRR).
 
 ***
 
@@ -5885,6 +5901,14 @@ Facts and figures about the planet Mars.
 *Alexa, launch martial art trivia!*
 
 Various, family friendly martial art trivia
+
+***
+
+## &nbsp;<img src="skills/B01H2F0LUE/skill_icon" alt="Martian Weather icon" width="36"> [Martian Weather](skills/B01H2F0LUE)
+
+*Alexa, ask Martian Weather for today's Mars weather report.*
+
+Have you ever wondered what the weather is like on Mars? Now you can ask Alexa about the current Martian weather conditions!
 
 ***
 
@@ -11227,6 +11251,14 @@ ZipCode
 *Alexa, ask Zodiac the sign of someone born on October fifth*
 
 Find out the Zodiac sign for any date
+
+***
+
+## &nbsp;<img src="skills/B01HJ5EDTC/skill_icon" alt="Zombie Trivia icon" width="36"> [Zombie Trivia](skills/B01HJ5EDTC)
+
+*Alexa open Zombie Trivia*
+
+Test your knowledge of Zombie movies with the Zombie Trivia skill.
 
 ***
 

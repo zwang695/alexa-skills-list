@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Sports",
-  "description": "this skill will be updated during the FootBall Euro Cup 2016.\nIt will give information about the teams during the cup.\nYou can ask: adversary of a team, groups and teams.\nDuring the competition you will be able to ask the football results.",
+  "description": "this skill will be updated during the FootBall Euro Cup 2016.\nIt will give information about the teams during the cup.\nYou can ask groups and teams of the cup or the last or next match.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Euro Soccer to list all the teams",
     "Alexa, ask Euro Soccer list all the groups",
-    "Alexa, ask Euro Soccer who will England encounters"
+    "Alexa, ask Euro Soccer next match"
   ],
   "firstReleaseDate": 1465456172.868,
   "homepageLinkText": null,

@@ -7,12 +7,11 @@ To use the Euro Soccer skill, try saying...
 
 * *Alexa, ask Euro Soccer list all the groups*
 
-* *Alexa, ask Euro Soccer who will England encounters*
+* *Alexa, ask Euro Soccer next match*
 
 this skill will be updated during the FootBall Euro Cup 2016.
 It will give information about the teams during the cup.
-You can ask: adversary of a team, groups and teams.
-During the competition you will be able to ask the football results.
+You can ask groups and teams of the cup or the last or next match.
 
 ***
 

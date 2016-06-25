@@ -9,7 +9,7 @@ To use the Long Island Train Information skill, try saying...
 
 * *Alexa, ask choo choo for the next train to Penn Station from Ronkonkoma*
 
-This skill returns the next few trains that run from one station to another along the Long Island Railroad.  For example, you can say "Alexa, ask Choo Choo when is the next train from Penn Station to Mineola?" and Alexa will return the next 3 trains that depart within the next 3 hours.  Now supporting direct station-to-station trips, as well as trips that include a transfer along the way.
+This skill returns the next few trains that run from one station to another along the Long Island Railroad (MTA LIRR).  For example, you can say "Alexa, ask Choo Choo when is the next train from Penn Station to Mineola?" and Alexa will return the next 3 trains that depart within the next 3 hours.  Now supporting direct station-to-station trips, as well as trips that include a transfer along the way.
 
 ***
 

@@ -8,11 +8,11 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "This skill reads your twitter timeline to you.\nTweech is your personalized flash briefing. You can easily stay up to date with updates that are are relevant for you.\nStart your day hearing what the people you follow talk about and get news in real time as you expect it from twitter.\n\nOnly english tweets are read. For a better experience the tweets are cleaned up.\nAfter you have activated the skill you will be asked for a read-only access to your twitter account.\n\nFeel free to send us feedback, bugs or feature request to twitter@futureofvoice.com",
+  "description": "This skill reads your twitter timeline to you.\nTweech is your personalized flash briefing. You can easily stay up to date with updates that are are relevant for you.\nStart your day hearing what the people you follow talk about and get news in real time as you expect it from twitter.\n\nIf you want to receive specific information just open a new twitter account and follow the relevant accounts. You can configure you own flash briefing in seconds.\n\nOnly english tweets are read. For a better experience the tweets are cleaned up.\nAfter you have activated the skill you will be asked for a read-only access to your twitter account.\n\nFeel free to send us feedback, bugs or feature request to twitter@futureofvoice.com",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask tweet reader to read my tweets.",
-    null,
+    "Alexa, ask tweet reader for my timeline",
     null
   ],
   "firstReleaseDate": 1465983942.875,
