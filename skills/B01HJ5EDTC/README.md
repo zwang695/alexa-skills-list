@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Zombie Trivia icon" width="36"> [Zombie Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c98c281a-1ca2-498f-a9a3-efa3c4606d51)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Zombie Trivia skill, try saying...
 
