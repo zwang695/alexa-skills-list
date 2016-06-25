@@ -3,13 +3,13 @@
 
 To use the LDS Fun Facts skill, try saying...
 
-* *Alexa, ask church facts for a fact*
+* *Alexa, open church facts*
 
-* *Alexa, ask church facts for an LDS fact*
+* *Alexa, ask church facts for a fact*
 
 * *Alexa, ask church facts for a fun fact*
 
-Use Alexa to learn fun and interesting facts about the Church of Jesus Christ of Latter-day Saints (aka LDS or Mormon church) and it's members. Once you have enabled the skill, simply say "Alexa, ask church facts to tell me a fact" and she will do just that.
+Use Alexa to learn fun and interesting facts about the Church of Jesus Christ of Latter-day Saints (aka LDS or Mormon church) and it's members. Once you have enabled the skill, simply say "Alexa, open church facts" and she will read you a fact.
 
 Impress your friends and family with your vast knowledge of obscure and interesting facts and trivia about The Church of Jesus Christ of Latter-day Saints.
 

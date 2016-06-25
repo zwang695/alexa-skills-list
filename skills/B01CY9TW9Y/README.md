@@ -7,7 +7,7 @@ To use the Trivia on Harry Potter skill, try saying...
 
 * *Is it option two?*
 
-* *The answer is three!*
+* *The answer is three.*
 
 Voice interactive game to test and improve your Harry Potter knowledge!
 

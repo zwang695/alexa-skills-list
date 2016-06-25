@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "home.myharmony.com"
+  ],
+  "asin": "B01EUK3G10",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": "Connected-Home",
+  "description": "You must have a Logitech Harmony Hub to use this skill. When you activate the skill, a configuration wizard will guide you through the configuration steps.\n\nYou can activate activities by asking Alexa to \"tell harmony hub to start the [name of] activity\". If you want to press several buttons in a row, first say \"tell harmony hub to start listening,\" give several button commands, then end with \"stop listening\". You can turn off all devices with \"tell harmony hub to turn everything off\". You can switch hubs with \"tell harmony hub to switch hubs\" or \"tell harmony hub to switch to hub [number]\".",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell harmony hub to start the TV activity",
+    "power off",
+    "switch hubs"
+  ],
+  "firstReleaseDate": 1466851565.101,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.a348d7dd-7f84-4d1d-9d51-b9c5896b66c0",
+  "imageAltText": "Eric's Integration for Logitech Harmony icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01EUK3G10/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "harmony hub",
+  "name": "Eric's Integration for Logitech Harmony",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "jTmA9WDsxPFKfDPRlSde1LOBV",
+  "permissions": null,
+  "privacyPolicyUrl": "https://alexitech-b.mrsonicblue.com/Help/Privacy",
+  "shortDescription": "This skill allows access to all activities on your Logitech Harmony Hubs",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2EUQWZP5PH3SQ",
+  "vendorName": "Eric Schneider"
+}

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1391
+**Total Skills Available:** 1402
 
 ***
 
@@ -2909,6 +2909,14 @@ Get interesting facts about what happened in history on this day and month.
 
 ***
 
+## &nbsp;<img src="skills/B01H7ICBEA/skill_icon" alt="Date Night icon" width="36"> [Date Night](skills/B01H7ICBEA)
+
+*Alexa, ask Date Night to give us a brunch suggestion in Chicago*
+
+An Alexa Skill for getting random, crowdsourced suggestions on activities or restaurants in your city.
+
+***
+
 ## &nbsp;<img src="skills/B01EVIEA5C/skill_icon" alt="Date Ninja icon" width="36"> [Date Ninja](skills/B01EVIEA5C)
 
 *Alexa, ask Date Ninja what day of the week is December 25, 2016?*
@@ -3326,6 +3334,14 @@ Test your knowledge of the Easter holiday with this fun skill.
 
 ***
 
+## &nbsp;<img src="skills/B01HEKN8W0/skill_icon" alt="Easy Cocktail icon" width="36"> [Easy Cocktail](skills/B01HEKN8W0)
+
+*Alexa, launch Easy Cocktail*
+
+Recipe for cocktails. The skill may not be suitable for all ages.
+
+***
+
 ## &nbsp;<img src="skills/B01EEC51XA/skill_icon" alt="Eat Pray Get Well icon" width="36"> [Eat Pray Get Well](skills/B01EEC51XA)
 
 *Alexa ask Eat Pray Get Well for the latest dessert recipe*
@@ -3446,6 +3462,14 @@ Educational skill that lists the days of the week and the months of the year.
 
 ***
 
+## &nbsp;<img src="skills/B01EUK3G10/skill_icon" alt="Eric's Integration for Logitech Harmony icon" width="36"> [Eric's Integration for Logitech Harmony](skills/B01EUK3G10)
+
+*Alexa, tell harmony hub to start the TV activity*
+
+This skill allows access to all activities on your Logitech Harmony Hubs
+
+***
+
 ## &nbsp;<img src="skills/B01FPV0WDS/skill_icon" alt="ESP8266_Control icon" width="36"> [ESP8266_Control](skills/B01FPV0WDS)
 
 *Alexa, Start Relay Flip*
@@ -3483,6 +3507,14 @@ Ethereum price ticker for Amazon Echo
 *Alexa, ask Euro Helper what are the games scheduled for Germany*
 
 This skill provides schedule information for the Euro 2016 Soccer tournament being played in France.
+
+***
+
+## &nbsp;<img src="skills/B01H7TUP9C/skill_icon" alt="Euro Matchday icon" width="36"> [Euro Matchday](skills/B01H7TUP9C)
+
+*Alexa ask Euro Match Day for the matches*
+
+Get the results of the current Matchday of UEFA Euro 2016, The second biggest soccer tournament in the world.
 
 ***
 
@@ -3581,6 +3613,14 @@ Donald Trivia Game
 *Alexa, ask Facts for Elder Scrolls to tell me a Elder Scrolls fact.*
 
 Test your Elder Scrolls knowledge with this Alexa Skill application.
+
+***
+
+## &nbsp;<img src="skills/B01HEO2Z9I/skill_icon" alt="Facts for Formula 1 icon" width="36"> [Facts for Formula 1](skills/B01HEO2Z9I)
+
+*Alexa, open Formula 1 facts*
+
+100 Facts about Formula 1. The most exciting and most watched motor sport in the world! See if you can discover all.
 
 ***
 
@@ -4837,6 +4877,14 @@ This app allows HomeSeer home automation system users to control and monitor sta
 
 ***
 
+## &nbsp;<img src="skills/B01HCHJA1S/skill_icon" alt="Honey Bee Facts icon" width="36"> [Honey Bee Facts](skills/B01HCHJA1S)
+
+*Alexa, ask honey bee to tell me a honey bee fact*
+
+This skill tells a fun fact about Honey Bee
+
+***
+
 ## &nbsp;<img src="skills/B01G1AJ5JE/skill_icon" alt="Hopstand icon" width="36"> [Hopstand](skills/B01G1AJ5JE)
 
 *Alexa, ask hop stand to convert 14 point 6 brix*
@@ -5425,7 +5473,7 @@ Get an inspirational message from the LDS Daily Message Alexa App
 
 ## &nbsp;<img src="skills/B01EMPJZE0/skill_icon" alt="LDS Fun Facts icon" width="36"> [LDS Fun Facts](skills/B01EMPJZE0)
 
-*Alexa, ask church facts for a fact*
+*Alexa, open church facts*
 
 Ask Alexa for fun and interesting facts about the Church of Jesus Christ of Latter-day Saints (aka LDS or Mormon Church).
 
@@ -6433,6 +6481,14 @@ This skill enables you to find your body mass index. You can input your height i
 
 ***
 
+## &nbsp;<img src="skills/B01HBWI4B6/skill_icon" alt="My Calculator icon" width="36"> [My Calculator](skills/B01HBWI4B6)
+
+*Alexa, ask My Calculator to add five and seven.*
+
+With My Calculator, Alexa can do all the time-consuming calculations for you. You will make less mistakes and get the answers more quickly.
+
+***
+
 ## &nbsp;<img src="skills/B01E27CWVQ/skill_icon" alt="My Chess Facts icon" width="36"> [My Chess Facts](skills/B01E27CWVQ)
 
 *Alexa, launch Chess Facts*
@@ -6758,6 +6814,14 @@ This skill is a quiz to encourage new parents and provide tips on parenting arou
 *Alexa, ask New York Running Calendar: When is the next race?*
 
 The New York Running Calendar app helps you find the next organized running race in New York City.
+
+***
+
+## &nbsp;<img src="skills/B01H66VDJ2/skill_icon" alt="Newfoundland Dog Facts icon" width="36"> [Newfoundland Dog Facts](skills/B01H66VDJ2)
+
+*Alexa ask new found land dog facts to give me a new fact*
+
+Informative facts about the Newfoundland Dogs
 
 ***
 
@@ -7825,6 +7889,14 @@ Hear a random quote
 
 ***
 
+## &nbsp;<img src="skills/B01DYSJR6W/skill_icon" alt="Quotes and Probes by Marshall McLuhan icon" width="36"> [Quotes and Probes by Marshall McLuhan](skills/B01DYSJR6W)
+
+*Alexa, ask McLuhan Quotes for a probe*
+
+Quotes from Marshall McLuhan
+
+***
+
 ## &nbsp;<img src="skills/B01FA2IPHC/skill_icon" alt="Quotes from Charles Fillmore icon" width="36"> [Quotes from Charles Fillmore](skills/B01FA2IPHC)
 
 *Alexa, Ask Papa Charlie*
@@ -8604,6 +8676,14 @@ Ask Alexa to describe a website.
 
 ***
 
+## &nbsp;<img src="skills/B01HE17GVI/skill_icon" alt="Skateboard Studio icon" width="36"> [Skateboard Studio](skills/B01HE17GVI)
+
+*Alexa, ask skateboard studio what is the list for skate parks*
+
+Skateboard Studio details the 25 best skate parks in America;
+
+***
+
 ## &nbsp;<img src="skills/B01GGW79U4/skill_icon" alt="Skill Finder icon" width="36"> [Skill Finder](skills/B01GGW79U4)
 
 *Alexa, open Skill Finder*
@@ -8949,6 +9029,14 @@ Ever wanted to know what your state sales tax is? Well, you have come to the rig
 *Alexa ask state trees*
 
 State Trees is a trivia game that will test your knowledge on state trees. How many do you know?
+
+***
+
+## &nbsp;<img src="skills/B01HEIOISK/skill_icon" alt="stateCapitals icon" width="36"> [stateCapitals](skills/B01HEIOISK)
+
+*Alexa, play state capitals*
+
+Test your knowledge of United States capitals.
 
 ***
 
