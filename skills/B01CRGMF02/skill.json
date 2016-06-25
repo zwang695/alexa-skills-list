@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01CRGMF02",
-  "averageRating": 1.5,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
   "category": "Entertainment",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "trump me",
   "name": "Trivia For Trump",
-  "numberOfReviews": 10,
+  "numberOfReviews": 11,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

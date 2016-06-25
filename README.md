@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1392
+**Total Skills Available:** 1391
 
 ***
 
@@ -9575,14 +9575,6 @@ Therapy is your therapist for Alexa.  Tell therapist your mood and she will give
 *Alexa tell the thermostat that it is a bit cold*
 
 Control your Nest® thermostat using only your voice.
-
-***
-
-## &nbsp;<img src="skills/B01BZHHMLQ/skill_icon" alt="Thermostat for Echo icon" width="36"> [Thermostat for Echo](skills/B01BZHHMLQ)
-
-*Alexa, ask thermostat to set the temperature to seventy one*
-
-Let Alexa control your Nest Learning Thermostat
 
 ***
 
