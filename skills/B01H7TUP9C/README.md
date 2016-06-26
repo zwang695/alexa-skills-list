@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Euro Matchday icon" width="36"> [Euro Matchday](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f7b5a6e-023a-4ef9-8190-e96192b35a29)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Euro Matchday skill, try saying...
 

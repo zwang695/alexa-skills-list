@@ -14981,7 +14981,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01H7TUP9C",
-      "averageRating": 0,
+      "averageRating": 5,
       "canDisable": true,
       "capabilities": null,
       "category": null,
@@ -15001,7 +15001,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "euro match day",
       "name": "Euro Matchday",
-      "numberOfReviews": 0,
+      "numberOfReviews": 1,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
