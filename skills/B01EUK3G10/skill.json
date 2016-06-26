@@ -3,7 +3,7 @@
     "home.myharmony.com"
   ],
   "asin": "B01EUK3G10",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": "Connected-Home",
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "harmony hub",
   "name": "Eric's Integration for Logitech Harmony",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "jTmA9WDsxPFKfDPRlSde1LOBV",
   "permissions": null,
   "privacyPolicyUrl": "https://alexitech-b.mrsonicblue.com/Help/Privacy",

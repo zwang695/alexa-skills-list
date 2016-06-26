@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Curious Cat icon" width="36"> [Curious Cat](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a9fd7f84-6ecb-4c16-91f7-7d438bf9fa28)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Curious Cat skill, try saying...
 
