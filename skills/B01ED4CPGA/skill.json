@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01ED4CPGA",
-  "averageRating": 4.5,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": "Health-and-Fitness",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "weight tracker",
   "name": "Weight Tracker",
-  "numberOfReviews": 2,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://s3.amazonaws.com/alexia-skills/privacy.txt",
