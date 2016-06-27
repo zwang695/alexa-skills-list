@@ -15,6 +15,8 @@ Glitches - calculated and reported. Critical glitches - those can happen also!
 
 Perfect for when you have a lot of dice, especially for NPC's.
 
+If you like this skill, check out Next Pass on the iTunes App Store.
+
 ***
 
 ### Skill Details

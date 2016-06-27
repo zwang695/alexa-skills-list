@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1406
+**Total Skills Available:** 1414
 
 ***
 
@@ -42,6 +42,14 @@ Ask Alexa about the average wait time on the CMU 15-122 Office Hours Queue.
 *Alexa ask Presidential Race who is winning*
 
 Presidential Race give you up to date results on the current status of the 2016 US presidential election polls between Hillary Clinton and Donald Trump.
+
+***
+
+## &nbsp;<img src="skills/B01HH0G8I8/skill_icon" alt="2016 Swimming Trials Standards icon" width="36"> [2016 Swimming Trials Standards](skills/B01HH0G8I8)
+
+*Alexa, ask swimming trials what is the time standard for the 200 free*
+
+Ask Alexa what the 2016 Swimming Trial Standards are for athletes competing to participate in Rio.
 
 ***
 
@@ -1968,6 +1976,14 @@ Reads the WOD for CrossFit 1 Nation
 *Alexa, ask channel finder what is the channel number for comedy central?*
 
 Channel number finder for Sacramento region Dish Network
+
+***
+
+## &nbsp;<img src="skills/B01HLFFABA/skill_icon" alt="Chapman Trivia icon" width="36"> [Chapman Trivia](skills/B01HLFFABA)
+
+*Alexa play Chapman Trivia*
+
+Trivia Questions on the Chapman Family
 
 ***
 
@@ -4645,6 +4661,14 @@ The classic game gone hands-free and paperless.  With over 60,000 words to choos
 
 ***
 
+## &nbsp;<img src="skills/B01HG4BQF0/skill_icon" alt="Hangman Game icon" width="36"> [Hangman Game](skills/B01HG4BQF0)
+
+*Alexa, open hangman game*
+
+This is a word guessing game.  Alexa thinks of a word and the player tries to guess the letters in the word.
+
+***
+
 ## &nbsp;<img src="skills/B01A9FDQL0/skill_icon" alt="Hanker icon" width="36"> [Hanker](skills/B01A9FDQL0)
 
 *Alexa, ask Hanker what I should do in New York tonight.*
@@ -4994,6 +5018,14 @@ Howzzat! T20 Cricket Trivia is a fun way to test your T20 Cricket knowledge
 *"Alexa, open HuffPost” (To hear latest news headlines for today)*
 
 The Huffington Post is a Pulitzer Prize-winning source of news, features, and entertainment, as well as a highly engaged community for opinion and conversation.
+
+***
+
+## &nbsp;<img src="skills/B01HHZV5WW/skill_icon" alt="Human Body Facts icon" width="36"> [Human Body Facts](skills/B01HHZV5WW)
+
+*Alexa, launch Human Body Facts*
+
+Interesting facts about the human body!  This was built using the template and tutorial provided by Amazon.
 
 ***
 
@@ -5370,6 +5402,14 @@ Allows Just Energy customers to get bill details and ask for random energy fact
 *Alexa, ask KAYAK how much it costs to fly from New York to Boston*
 
 Alexa + KAYAK = hands-free travel planning. Get information on flights, hotels & rental cars. Hear flight status updates, destination suggestions & more.
+
+***
+
+## &nbsp;<img src="skills/B01HGYLRC2/skill_icon" alt="Keto Pal icon" width="36"> [Keto Pal](skills/B01HGYLRC2)
+
+*Alexa, open Keto Pal*
+
+Keto Pal helps you stay keto by suggesting low carb alternatives to common foods or ingredients.
 
 ***
 
@@ -6830,6 +6870,14 @@ New Musician is a trivia skill that helps reinforce and teach basic music concep
 *Alexa launch New Parent Quiz*
 
 This skill is a quiz to encourage new parents and provide tips on parenting around some not so well known facts
+
+***
+
+## &nbsp;<img src="skills/B01HHH4VR6/skill_icon" alt="New York Basketball Trivia icon" width="36"> [New York Basketball Trivia](skills/B01HHH4VR6)
+
+*Alexa open New York Basketball Trivia*
+
+How well do you know your New York Basketball? Prove it by scoring big on this 10 question multiple choice trivia quiz!
 
 ***
 
@@ -8374,6 +8422,14 @@ Command by voice all your devices connected on Samsung ARTIK Cloud!
 *Alexa, ask San Francisco to tell me something.*
 
 San Francisco Facts: Things You Didn't Know About San Francisco
+
+***
+
+## &nbsp;<img src="skills/B01H9O9096/skill_icon" alt="Sankrit Mantras icon" width="36"> [Sankrit Mantras](skills/B01H9O9096)
+
+*Alexa, open daily mantra*
+
+This skill plays sankrit short mantras. At this point, it only plays mp3 files
 
 ***
 
@@ -10824,6 +10880,14 @@ Fun Facts about the State of West Virginia
 *Alexa, ask whale trivia for a new game.*
 
 Trivia game about whales
+
+***
+
+## &nbsp;<img src="skills/B01HCLE8VQ/skill_icon" alt="What beer? icon" width="36"> [What beer?](skills/B01HCLE8VQ)
+
+*Alexa, ask what beer goes with a burger?*
+
+"What beer?" knows beer pairs well with your meal. Need some help deciding what to drink? Just ask "What Beer?". Not Suitable for those under the drinking age
 
 ***
 
