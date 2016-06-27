@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01HCB4Y5Q",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Honeywell Wi-Fi Total Connect Comfort thermostats are now compatible with Amazon Echo.  So now with your voice and Amazon Alexa, you can control your Honeywell TCC connected thermostats.\n\nYou will need your Total Connect Comfort username and password.  Visit http://mytotalconnectcomfort.com to confirm your TCC credentials.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1467063908.909,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.ddb5f0a7-5442-4564-b6f7-e2ecca895745",
+  "imageAltText": "Honeywell Total Connect Comfort icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01HCB4Y5Q/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Honeywell Total Connect Comfort",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "DN6Ura3sLXCJa4rltJQZfnyoh",
+  "permissions": null,
+  "privacyPolicyUrl": "https://mytotalconnectcomfort.com/portal/Home/TermsAndConditions",
+  "shortDescription": "Control your Honeywell Total Connect Comfort thermostat",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "https://mytotalconnectcomfort.com/portal/Home/TermsAndConditions",
+  "vendorId": "M13JMZ24QSCF83",
+  "vendorName": "Honeywell"
+}

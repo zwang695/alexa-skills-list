@@ -24,14 +24,9 @@ Alexa, lower brightness by 25%
 Alexa, dim Bedroom lights by 25%
 
 
-And to change colors or control your LIFX groups just add "tell Life-Ex...":
-
-Alexa, tell `Life-Ex` to make my lights blue
-
-Alexa, tell `Life-Ex` to change the Living Room lights to red
-
-
 HOW TO GET CONNECTED
+
+Skills that are “Optimized for Smart Home” allow you to control your smart devices without saying “Ask” or “tell”.  For example, if you have named your smart light bulb “Kitchen Lights”, you can say “Alexa, turn on the kitchen lights”
 
 Make sure your lights are on the LIFX Cloud then follow these steps: 
 

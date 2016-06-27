@@ -1,7 +1,7 @@
-# &nbsp;<img src="skill_icon" alt="ISY Optimized for Smart Home icon" width="36"> [ISY Optimized for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.63cc55e8-786e-4179-8065-5ef45befda83)
-![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 5
+# &nbsp;<img src="skill_icon" alt="ISY Optimized for Smart Home V2 icon" width="36"> [ISY Optimized for Smart Home V2](http://alexa.amazon.com/#skills/amzn1.ask.skill.f6d6c5e1-65db-4d08-ab8c-25c1fb38ca0e)
+![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
-To use the ISY Optimized for Smart Home skill, try saying...
+To use the ISY Optimized for Smart Home V2 skill, try saying...
 
 The ISY Smart Home skill allows you to control your ISY home-automation controller from Universal Devices. This enables you to control your devices, scenes and even programs from your Echo. 
 
@@ -15,9 +15,9 @@ Skills that are “Optimized for Smart Home” allow you to control your smart d
 
 * **Invocation Name:** null
 * **Category:** null
-* **ID:** amzn1.ask.skill.63cc55e8-786e-4179-8065-5ef45befda83
-* **ASIN:** B01EIUD7LQ
+* **ID:** amzn1.ask.skill.f6d6c5e1-65db-4d08-ab8c-25c1fb38ca0e
+* **ASIN:** B01FGS66D0
 * **Author:** Universal Devices, Inc.
-* **Release Date:** April 26, 2016 @ 15:16:04
+* **Release Date:** June 27, 2016 @ 14:45:15
 * **Privacy Policy:** http://www.universal-devices.com/privacy/
 * **In-App Purchasing:** No

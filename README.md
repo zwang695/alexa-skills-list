@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1429
+**Total Skills Available:** 1430
 
 ***
 
@@ -4009,14 +4009,6 @@ Get the scoop on what crimes NFL players have been charged with and arrested for
 
 ***
 
-## &nbsp;<img src="skills/B01B5BPOI0/skill_icon" alt="Football Trivia icon" width="36"> [Football Trivia](skills/B01B5BPOI0)
-
-*Alexa, open Football Trivia*
-
-Trivia game asking questions that pertain to professional American Football.
-
-***
-
 ## &nbsp;<img src="skills/B01GZBWR1M/skill_icon" alt="Football Trivia for Texas A&M icon" width="36"> [Football Trivia for Texas A&M](skills/B01GZBWR1M)
 
 *Alexa open Trivia for Aggies*
@@ -4957,6 +4949,14 @@ This skill tells a fun fact about Honey Bee
 
 ***
 
+## &nbsp;<img src="skills/B01HCB4Y5Q/skill_icon" alt="Honeywell Total Connect Comfort icon" width="36"> [Honeywell Total Connect Comfort](skills/B01HCB4Y5Q)
+
+*null*
+
+Control your Honeywell Total Connect Comfort thermostat
+
+***
+
 ## &nbsp;<img src="skills/B01G1AJ5JE/skill_icon" alt="Hopstand icon" width="36"> [Hopstand](skills/B01G1AJ5JE)
 
 *Alexa, ask hop stand to convert 14 point 6 brix*
@@ -5343,6 +5343,14 @@ ISY skill allows you to control your home using an ISY home-automation controlle
 ***
 
 ## &nbsp;<img src="skills/B01EIUD7LQ/skill_icon" alt="ISY Optimized for Smart Home icon" width="36"> [ISY Optimized for Smart Home](skills/B01EIUD7LQ)
+
+*null*
+
+Voice control your ISY devices, scenes, and even programs!
+
+***
+
+## &nbsp;<img src="skills/B01FGS66D0/skill_icon" alt="ISY Optimized for Smart Home V2 icon" width="36"> [ISY Optimized for Smart Home V2](skills/B01FGS66D0)
 
 *null*
 
@@ -7196,14 +7204,6 @@ Sports Trivia
 
 ***
 
-## &nbsp;<img src="skills/B01HHTXJTA/skill_icon" alt="Old Polish Jokes icon" width="36"> [Old Polish Jokes](skills/B01HHTXJTA)
-
-*Alexa, ask polish joke to tell me a Polish Joke*
-
-Tells "Old Polish Jokes" :) Just ask Alexa, "launch Polish Joke". May not be appropriate for all ages.
-
-***
-
 ## &nbsp;<img src="skills/B01FWNGB7U/skill_icon" alt="One Ferry Away icon" width="36"> [One Ferry Away](skills/B01FWNGB7U)
 
 *Alexa, ask one ferry for what cities*
@@ -9039,6 +9039,14 @@ Space Trivia Questions
 *Alexa, open Space Weather*
 
 The Space Weather skill for Alexa will tell you the current conditions in space.
+
+***
+
+## &nbsp;<img src="skills/B01GM1UR4O/skill_icon" alt="Spacegeek02 icon" width="36"> [Spacegeek02](skills/B01GM1UR4O)
+
+*Alexa ask space geek four to tell me a fact.*
+
+Facts for life
 
 ***
 
