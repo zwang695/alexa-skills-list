@@ -11,6 +11,8 @@ To use the Metro North Track skill, try saying...
 
 When you give it the 2 stations you are travelling between, it tells you what time the next 3 trains are arriving. If its available, a track number is also provided.
 
+6/26 Updated to support trips involving transfers and reduce startup time.
+
 ***
 
 ### Skill Details

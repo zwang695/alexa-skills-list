@@ -3,13 +3,13 @@
 
 To use the Dr Speech skill, try saying...
 
-* *Alexa, Doctor Speech*
+* *Alexa, open Doctor Speech*
 
-* *I want to practice Adjective*
+* *I want to practice adjective*
 
 * *I am saying the word subtle*
 
-The cost to have a one-on-one speech therapist section is expensive (Average cost $150-200 per hour). With Alexa who speaks perfect American English, correcting your foreign accent and improving your speaking can now be both affordable and fun! Users can start the skill saying "Alexa, doctor speech" and they can choose one of the three categories to practice on which are noun, verb or adjective. They can change which category they wish to practice during the lesson and they can end the lesson by saying No when Alexa asks if they want to continue the lesson.
+The cost to have a one-on-one speech therapist section is expensive (Average cost $150-200 per hour). With Alexa who speaks perfect American English, correcting your foreign accent and improving your speaking can now be both affordable and fun! Users can start the skill saying "Alexa, doctor speech" and they can choose one of the three categories to practice on which are nouns, verbs or adjectives. They can change which category they wish to practice during the lesson and they can end the lesson by saying No or Canel when Alexa asks if they want to continue the lesson.
 
 ***
 

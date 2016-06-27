@@ -3,11 +3,11 @@
 
 To use the WhereToPark skill, try saying...
 
-* *Alexa, Ask Parking Near Me 'Good parking in New York city?'*
+* *Alexa, ask Parking Near Me for "Good parking in New York City."*
 
-* *Alexa, Ask Parking Near Me 'Where is a good place to park in San Francisco?'*
+* *Alexa, Ask Parking Near Me for 'Where is a good place to park in San Francisco?'*
 
-* *Alexa, Ask Parking Near Me 'The best parking spots in Seattle?'*
+* *Alexa, Ask Parking Near Me "The best parking spots in Seattle?"*
 
 Do you tired of checking different website to find the available parking slots ? This skill will solve your problem with available parking spots (real time) or parking locations near where you plan on going to either for dinner, events or hanging out. This skill using both parkwhiz and google nearby for parking information.
 

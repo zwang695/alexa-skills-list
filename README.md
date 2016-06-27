@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1414
+**Total Skills Available:** 1429
 
 ***
 
@@ -500,7 +500,7 @@ The Animal Alphabet game.
 
 *Alexa, start Animal Game*
 
-Play guess-an-animal game with Alexa. Think of an animal and Alexa will guess it by asking questions.
+Play the guess-an-animal game with Alexa. Think of an animal and Alexa will guess it by asking questions.
 
 ***
 
@@ -573,6 +573,14 @@ Anythings lists the best new smart devices and their compatibilities. Discover t
 *Alexa, ask AOL for the top headlines*
 
 AOL provides you the information that you need to know to stay informed and up to date covering these categories: news, sports, finance, entertainment
+
+***
+
+## &nbsp;<img src="skills/B01FN56FSC/skill_icon" alt="APHistory_Facts icon" width="36"> [APHistory_Facts](skills/B01FN56FSC)
+
+*Alexa ask a. p. history to tell me a trivia*
+
+Study aid for the AP History Exam that lists facts aloud.
 
 ***
 
@@ -1005,6 +1013,14 @@ Random basic statistics terms
 *Alexa, ask Basket if whole milk is on sale near Arlington, VA.*
 
 With Basket, it's easier than ever to find local sale prices for your favorite grocery items.
+
+***
+
+## &nbsp;<img src="skills/B01HLF3GRA/skill_icon" alt="Basketball Statistic icon" width="36"> [Basketball Statistic](skills/B01HLF3GRA)
+
+*Alexa, open basketball statistic and tell me about basketball.*
+
+Get a 2016 NBA Statistic
 
 ***
 
@@ -1471,6 +1487,14 @@ Get a random board game from your BoardGameGeek.com board game collection
 *Alexa, ask board games how many people can play Monopoly*
 
 Get answers to common board game rule questions.
+
+***
+
+## &nbsp;<img src="skills/B01H9GB0VU/skill_icon" alt="Boat Facts icon" width="36"> [Boat Facts](skills/B01H9GB0VU)
+
+*Alexa, ask Boat facts, give me a fact*
+
+Get fun facts about boats!
 
 ***
 
@@ -3271,7 +3295,7 @@ Place your Domino's Easy Order or your most recent order. You can also ask for D
 
 ## &nbsp;<img src="skills/B01FPWIUN6/skill_icon" alt="Dr Speech icon" width="36"> [Dr Speech](skills/B01FPWIUN6)
 
-*Alexa, Doctor Speech*
+*Alexa, open Doctor Speech*
 
 Dr Speech is designed to help people who speak English as a second language to improve the accuracy of their pronunciation.
 
@@ -4147,6 +4171,14 @@ Facts about fruit.
 
 ***
 
+## &nbsp;<img src="skills/B01HHGFSCO/skill_icon" alt="Fun Facts for Euro 2016 icon" width="36"> [Fun Facts for Euro 2016](skills/B01HHGFSCO)
+
+*Alexa, open euro fun facts*
+
+Find out many facts about the Euro 2016 facts you need to know!
+
+***
+
 ## &nbsp;<img src="skills/B01GIYAUQA/skill_icon" alt="Fun Noises for Kids icon" width="36"> [Fun Noises for Kids](skills/B01GIYAUQA)
 
 *Alexa ask Fun Noises to start*
@@ -4946,6 +4978,15 @@ Are you a horror movie fan?  Test your knowledge of horror movie taglines.
 *Alexa, open Horror Trivia*
 
 Tells you interesting horror movie trivia.
+
+***
+
+## &nbsp;<img src="skills/B01H9WWTBO/skill_icon" alt="Hot Girl icon" width="36"> [Hot Girl](skills/B01H9WWTBO)
+
+*Alexa tell hot girl hello*
+
+Talk flirty to the hot girl
+** Disclaimer: This skill may not be suitable for all ages **
 
 ***
 
@@ -5791,6 +5832,14 @@ Responds with the Gonzaga High School menu items for a given day
 
 ***
 
+## &nbsp;<img src="skills/B01HLGL5PE/skill_icon" alt="Luxembourg Trivia Game icon" width="36"> [Luxembourg Trivia Game](skills/B01HLGL5PE)
+
+*Alexa, start the Luxembourg Trivia Game*
+
+Learn about Luxembourg, a small country in Europe, by playing this trivia game.
+
+***
+
 ## &nbsp;<img src="skills/B01BUAI7GM/skill_icon" alt="Lyrical icon" width="36"> [Lyrical](skills/B01BUAI7GM)
 
 *Alexa, open Lyrical.*
@@ -6000,6 +6049,14 @@ Math Puzzles is a fun way to challenge yourself and your friends. You’ll hear 
 
 ***
 
+## &nbsp;<img src="skills/B01HFEY4WI/skill_icon" alt="Math Stream icon" width="36"> [Math Stream](skills/B01HFEY4WI)
+
+*Alexa, open Math Stream*
+
+Math Stream is a test of how well you can keep up with a sequence of addition and subtraction operations and provide the correct answer.
+
+***
+
 ## &nbsp;<img src="skills/B01FNR507W/skill_icon" alt="Math Trivia icon" width="36"> [Math Trivia](skills/B01FNR507W)
 
 *Alexa, open math trivia*
@@ -6061,6 +6118,15 @@ Hear meal ideas that use basic, every day ingredients that you already have in y
 *Alexa, ask Meal Recommendations what I should eat*
 
 Suggests random meals, food or dishes.
+
+***
+
+## &nbsp;<img src="skills/B01H9VWGAO/skill_icon" alt="Mean Girl icon" width="36"> [Mean Girl](skills/B01H9VWGAO)
+
+*Alexa tell mean girl hello*
+
+Talk to mean girl for some fun insults!
+Disclaimer: This skill may not be suitable for all ages.
 
 ***
 
@@ -6705,6 +6771,14 @@ MySomm turns Alexa into Wine Gal, your personal wine sommelier that can give you
 
 ***
 
+## &nbsp;<img src="skills/B01H3ZT7JY/skill_icon" alt="Myst Helper icon" width="36"> [Myst Helper](skills/B01H3ZT7JY)
+
+*Alexa, ask Myst helper what's new*
+
+MyST Helper - Oracle Fusion Middleware continous delivery
+
+***
+
 ## &nbsp;<img src="skills/B01BUJ7R9G/skill_icon" alt="Mystery Castle icon" width="36"> [Mystery Castle](skills/B01BUJ7R9G)
 
 *Alexa, launch Mystery Castle*
@@ -7122,6 +7196,14 @@ Sports Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01HHTXJTA/skill_icon" alt="Old Polish Jokes icon" width="36"> [Old Polish Jokes](skills/B01HHTXJTA)
+
+*Alexa, ask polish joke to tell me a Polish Joke*
+
+Tells "Old Polish Jokes" :) Just ask Alexa, "launch Polish Joke". May not be appropriate for all ages.
+
+***
+
 ## &nbsp;<img src="skills/B01FWNGB7U/skill_icon" alt="One Ferry Away icon" width="36"> [One Ferry Away](skills/B01FWNGB7U)
 
 *Alexa, ask one ferry for what cities*
@@ -7477,6 +7559,14 @@ Facts about the humankind's greatest achievement: pizza
 
 ***
 
+## &nbsp;<img src="skills/B01HLF9LUG/skill_icon" alt="Planning Ideas icon" width="36"> [Planning Ideas](skills/B01HLF9LUG)
+
+*Alexa, open planning ideas and tell me what to do today.*
+
+Find Out What to Do
+
+***
+
 ## &nbsp;<img src="skills/B01GM48TTG/skill_icon" alt="PlantFacts icon" width="36"> [PlantFacts](skills/B01GM48TTG)
 
 *Alexa, ask plant facts to teach me something about plants.*
@@ -7738,6 +7828,14 @@ Quiz questions about prime numbers
 *Alexa, ask Programming Languages about javascript*
 
 Get summaries of popular programming languages
+
+***
+
+## &nbsp;<img src="skills/B01GDCHNF8/skill_icon" alt="programmingGeek icon" width="36"> [programmingGeek](skills/B01GDCHNF8)
+
+*Alexa, ask programming geek to start*
+
+A great way to gain some familiarity with Ruby and get started with this programming language.
 
 ***
 
@@ -8960,6 +9058,14 @@ Top 20 Spanish Words: Game to teach you twenty of most popular Spanish words.
 
 ***
 
+## &nbsp;<img src="skills/B01H69HG9A/skill_icon" alt="Spanish quiz icon" width="36"> [Spanish quiz](skills/B01H69HG9A)
+
+*Alexa, Spanish quiz*
+
+Spanish Quiz
+
+***
+
 ## &nbsp;<img src="skills/B01FCQXEV8/skill_icon" alt="Speak Jamaican icon" width="36"> [Speak Jamaican](skills/B01FCQXEV8)
 
 *Alexa, ask Speak Jamaican about the music*
@@ -9497,6 +9603,14 @@ See if you can remember and repeat back to Alexa the colors she tells you. Repea
 
 ***
 
+## &nbsp;<img src="skills/B01HFH70LM/skill_icon" alt="The Couch Hunter icon" width="36"> [The Couch Hunter](skills/B01HFH70LM)
+
+*Alexa, ask The Couch Hunter to tell me about the rathian*
+
+The Couch Hunter can tell you about monster weaknesses.
+
+***
+
 ## &nbsp;<img src="skills/B01DN2QRJY/skill_icon" alt="The Cyberpunk Dictionary icon" width="36"> [The Cyberpunk Dictionary](skills/B01DN2QRJY)
 
 *Alexa ask The Cyberpunk Dictionary to tell me a cyberpunk word*
@@ -9999,6 +10113,14 @@ Listen to the top story headlines from The New York Times.
 *Alexa ask subreddit news for the news*
 
 Get the top Reddit post from r/News from the last 24 hours.
+
+***
+
+## &nbsp;<img src="skills/B01FOSU6LK/skill_icon" alt="Top r/Technology for Reddit icon" width="36"> [Top r/Technology for Reddit](skills/B01FOSU6LK)
+
+*Alexa ask Subreddit Technology for the top post*
+
+Tops Posts from Reddit's r/Technology
 
 ***
 
@@ -10941,7 +11063,7 @@ Finds out where the Lansing River Trail is flooded.
 
 ## &nbsp;<img src="skills/B01DRKF6VW/skill_icon" alt="WhereToPark icon" width="36"> [WhereToPark](skills/B01DRKF6VW)
 
-*Alexa, Ask Parking Near Me 'Good parking in New York city?'*
+*Alexa, ask Parking Near Me for "Good parking in New York City."*
 
 Where To Park
 

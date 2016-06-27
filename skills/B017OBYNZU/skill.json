@@ -5,10 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Games",
-  "description": "Think of an animal and Alexa will play with you to guess it by asking questions. Please respond yes or no.",
+  "description": "Think of an animal and Alexa will play with you to guess it by asking questions. Respond yes or no.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, start Animal Game"
+    "Alexa, start Animal Game",
+    null,
+    null
   ],
   "firstReleaseDate": 1446841189.475,
   "homepageLinkText": null,
@@ -23,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Play guess-an-animal game with Alexa. Think of an animal and Alexa will guess it by asking questions.",
+  "shortDescription": "Play the guess-an-animal game with Alexa. Think of an animal and Alexa will guess it by asking questions.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

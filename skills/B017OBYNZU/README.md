@@ -5,7 +5,7 @@ To use the Animal Game skill, try saying...
 
 * *Alexa, start Animal Game*
 
-Think of an animal and Alexa will play with you to guess it by asking questions. Please respond yes or no.
+Think of an animal and Alexa will play with you to guess it by asking questions. Respond yes or no.
 
 ***
 
