@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1430
+**Total Skills Available:** 1434
 
 ***
 
@@ -5848,6 +5848,14 @@ Learn about Luxembourg, a small country in Europe, by playing this trivia game.
 
 ***
 
+## &nbsp;<img src="skills/B01FV34BGE/skill_icon" alt="Lyft icon" width="36"> [Lyft](skills/B01FV34BGE)
+
+*Alexa, ask Lyft for a ride.*
+
+A ride whenever you need it
+
+***
+
 ## &nbsp;<img src="skills/B01BUAI7GM/skill_icon" alt="Lyrical icon" width="36"> [Lyrical](skills/B01BUAI7GM)
 
 *Alexa, open Lyrical.*
@@ -5885,6 +5893,14 @@ Ask me anything!
 *Alexa, ask magic eight ball will it rain today*
 
 A fun Magic Eight Ball prediction skill.
+
+***
+
+## &nbsp;<img src="skills/B01HFZI9AK/skill_icon" alt="Magic Home icon" width="36"> [Magic Home](skills/B01HFZI9AK)
+
+*null*
+
+The Wi-Fi LED smart lights, no cables or hub needed! Light your home in millions of colors, now with control via Alexa.
 
 ***
 
@@ -7044,6 +7060,14 @@ Your guide to guest information on late night talk shows
 
 ***
 
+## &nbsp;<img src="skills/B01HBI4FIQ/skill_icon" alt="nomos system icon" width="36"> [nomos system](skills/B01HBI4FIQ)
+
+*null*
+
+Alexa, turn on the kitchen lamp. Use nomos system to control your smart home and IoT devices.
+
+***
+
 ## &nbsp;<img src="skills/B01E7NCYS6/skill_icon" alt="Noodle It Out icon" width="36"> [Noodle It Out](skills/B01E7NCYS6)
 
 *Alexa launch Noodle It Out*
@@ -7217,6 +7241,14 @@ This app gives the next departure and arrival times for Washington State Ferries
 *Alexa, open one liners*
 
 The user will use this skill to brighten up there day with a quick one liner funny.
+
+***
+
+## &nbsp;<img src="skills/B01ELVUYCW/skill_icon" alt="OneBusAway icon" width="36"> [OneBusAway](skills/B01ELVUYCW)
+
+*Alexa, open OneBusAway*
+
+Real-time transit information for Atlanta, Rogue Valley, San Diego, Seattle/Tacoma/Puget Sound, Tampa Bay, Washington, D.C., and York Region (Canada)
 
 ***
 

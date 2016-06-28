@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01HFZI9AK",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "CONTROL MAGIC HOME BULB OR LED CONTROLLER WITH ALEXA\n\nYour lights now talk directly to the Amazon Echo through the Alexa Connected Home. After a few simple set up steps you can control your lights with simple statements like:\n\nAlexa, Turn the lights on\n\nAlexa,Turn the kitchen light off\n\nAlexa,Switch lights to 50% brightness\n\n\nHOW TO GET CONNECTED\n\nMake sure your lights had been authorized to Remote Control feature and been bound to the App’s cloud account . then follow these steps: \n\n1.Open the Alexa app and go to Link with Magic Home under Smart Home > Device Links and login to your Magic Home account\n\n2.Say \"Alexa, discover devices\". Your lights will be displayed  under Smart Home in the Alexa app and you can optionally group then for Alexa here..\n\n3.Say: \"Alexa turn my lights …… On\" or \" ….Off\".That's it !\n\nThe App currently does not support changing colors or modes via Alexa, we will continue upgrading the app and adding more features.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1467071108.098,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.8a66303c-275e-453c-b7eb-e129e116b6e8",
+  "imageAltText": "Magic Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01HFZI9AK/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Magic Home",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "jMTCvZLWrJvm23SwZsciADeoQ",
+  "permissions": null,
+  "privacyPolicyUrl": "http://magichue.net/WebZJCloud/Privacy.html",
+  "shortDescription": "The Wi-Fi LED smart lights, no cables or hub needed! Light your home in millions of colors, now with control via Alexa.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MNSQ2RK7UGFBJ",
+  "vendorName": "Zengge Co., Limited"
+}

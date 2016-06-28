@@ -3,7 +3,9 @@
 
 To use the Venstar skill, try saying...
 
-Amazon Alexa can now talk to your Venstar Voyager® thermostats. Link your Skyport Cloud account and you can control your thermostats using your voice through Alexa.
+Amazon Alexa can now talk to your Venstar connected thermostats. Link your Skyport Cloud account and you can control your thermostats using your voice through Alexa.
+
+After connecting Alexa to your Skyport account, you may use commands such as: “Alexa, set my bedroom temperature to 72.”, “Alexa, lower the bedroom temperature by 2 degrees.”, or “Alexa, heat the living room.”.
 
 You must have a Skyport account along with a Skyport compatible thermostat to use this skill.
 
