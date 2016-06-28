@@ -9,8 +9,8 @@
   "enablement": null,
   "exampleInteractions": [
     "Alexa Start Trekkie Trivia",
-    "One",
-    "I Don't know"
+    "Alexa, Open Trekkie Trivia",
+    "The answer is One"
   ],
   "firstReleaseDate": 1463735320.089,
   "homepageLinkText": null,

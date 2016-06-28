@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Big Sky icon" width="36"> [Big Sky](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.06a72621-54b9-4767-a2e9-db3837fe9aae)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
 
 To use the Big Sky skill, try saying...
 

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1449
+**Total Skills Available:** 1466
 
 ***
 
@@ -1184,6 +1184,14 @@ Think you know beer? Crack open a cold one and test your beer and brewing knowle
 
 ***
 
+## &nbsp;<img src="skills/B01H5ZVS3U/skill_icon" alt="BeerBot icon" width="36"> [BeerBot](skills/B01H5ZVS3U)
+
+*Alexa ask beer bot*
+
+This skill uses BeerBot to answer any questions about beer. This skill may not be suitable for all ages as it contains information about alcohol.
+
+***
+
 ## &nbsp;<img src="skills/B01HC5A744/skill_icon" alt="BeerGeek icon" width="36"> [BeerGeek](skills/B01HC5A744)
 
 *Alexa ask beer geek*
@@ -1543,6 +1551,14 @@ Get fun facts about boats!
 *Alexa, launch Boat War*
 
 Measure yourself to Alexa in Boat War!
+
+***
+
+## &nbsp;<img src="skills/B01HNN29LO/skill_icon" alt="body facts icon" width="36"> [body facts](skills/B01HNN29LO)
+
+*Alexa, ask body facts to tell me a fact.*
+
+This skill provides fun facts about the human body.
 
 ***
 
@@ -2579,6 +2595,14 @@ Gives facts about Coney Island
 
 ***
 
+## &nbsp;<img src="skills/B01HKQUJ0M/skill_icon" alt="confuciousSays icon" width="36"> [confuciousSays](skills/B01HKQUJ0M)
+
+*Alexa, ask confucious says for a quote*
+
+Get a quote attributed to Confucious
+
+***
+
 ## &nbsp;<img src="skills/B01EQDJZOI/skill_icon" alt="Connecticut Trivia icon" width="36"> [Connecticut Trivia](skills/B01EQDJZOI)
 
 *Alexa Open Connecticut Trivia*
@@ -2957,6 +2981,14 @@ Take a daily pledge to better health. Every day get tips and a clear goal for im
 
 ***
 
+## &nbsp;<img src="skills/B01HFIFBEO/skill_icon" alt="Daily Scripture icon" width="36"> [Daily Scripture](skills/B01HFIFBEO)
+
+*Alexa, open Daily Scripture.*
+
+A quick way to get an LDS daily scripture.  Simply say "Open Daily Scripture".
+
+***
+
 ## &nbsp;<img src="skills/B017VAOYN0/skill_icon" alt="Daily Word icon" width="36"> [Daily Word](skills/B017VAOYN0)
 
 *Alexa open Daily Word*
@@ -3042,6 +3074,14 @@ Performs day, week, month, and year calculations.
 *Alexa, ask DC Metro for the next train arriving at Columbia Heights*
 
 Gives Washington DC Metro light rail train arrival and departure times, as well as maintenance or incident reports.
+
+***
+
+## &nbsp;<img src="skills/B01HFTXHPI/skill_icon" alt="DC Metro Alerts icon" width="36"> [DC Metro Alerts](skills/B01HFTXHPI)
+
+*Alexa, ask DC Metro Alerts for today's alerts*
+
+DC Metro Alerts informs you of the alerts, incidents, and delays on the Washington DC Metro Rail system and the SafeTrack project.
 
 ***
 
@@ -4081,6 +4121,14 @@ Get the scoop on what crimes NFL players have been charged with and arrested for
 
 ***
 
+## &nbsp;<img src="skills/B01HLE3WSY/skill_icon" alt="Football Fun Fact icon" width="36"> [Football Fun Fact](skills/B01HLE3WSY)
+
+*Alexa, open football fun fact*
+
+This is an app that tells you a football fun fact
+
+***
+
 ## &nbsp;<img src="skills/B01GZBWR1M/skill_icon" alt="Football Trivia for Texas A&M icon" width="36"> [Football Trivia for Texas A&M](skills/B01GZBWR1M)
 
 *Alexa open Trivia for Aggies*
@@ -4274,6 +4322,15 @@ Interesting and fun facts about the amazing dog breed known as the Bulldog!
 *Alexa, open Funny Batman Trivia*
 
 Test your knowledge with this funny Batman based trivia game!
+
+***
+
+## &nbsp;<img src="skills/B01H9WGXXY/skill_icon" alt="Funny Girl icon" width="36"> [Funny Girl](skills/B01H9WGXXY)
+
+*Alexa tell funny girl hello*
+
+Talk to funny girl for some laughs.
+Disclaimer:  This skill may not be suitable for all ages.
 
 ***
 
@@ -5379,6 +5436,14 @@ Need to dial internationally? Or you received a call and want to know the locati
 *Alexa ask Interval Trainer to give me an interval*
 
 Ascending and descending interval ear trainer within the octave.
+
+***
+
+## &nbsp;<img src="skills/B01HMZG5RC/skill_icon" alt="Invention Facts icon" width="36"> [Invention Facts](skills/B01HMZG5RC)
+
+*Alexa, ask Invention Facts for a fact.*
+
+Invention Facts is a skill of the top inventions that have changed our way of life.
 
 ***
 
@@ -9114,6 +9179,14 @@ Some interesting facts about the most popular sport in the world.
 
 ***
 
+## &nbsp;<img src="skills/B01HK6TJN0/skill_icon" alt="Solar System Planets Flash Cards icon" width="36"> [Solar System Planets Flash Cards](skills/B01HK6TJN0)
+
+*Alexa Open Planet Flash Cards*
+
+Learn the solar system planets with this fun flash cards skill! You will be asked to name the planet based on how close it is to the sun.
+
+***
+
 ## &nbsp;<img src="skills/B01H9O2QPG/skill_icon" alt="SongTranslator icon" width="36"> [SongTranslator](skills/B01H9O2QPG)
 
 *Alexa, start Song Translator*
@@ -9247,6 +9320,14 @@ Plays a game of trivia.
 *Alexa, ask Spell Book to lookup Fire Bolt*
 
 Lookup spells from Dungeons and Dragons
+
+***
+
+## &nbsp;<img src="skills/B01GU73TQS/skill_icon" alt="Spelling Alphabet icon" width="36"> [Spelling Alphabet](skills/B01GU73TQS)
+
+*Alexa ask Spelling Alphabet, how do I spell John?*
+
+On Demand Spelling Alphabet
 
 ***
 
@@ -9691,6 +9772,14 @@ Generates a technology statement with the latest in technology buzzwords.
 
 ***
 
+## &nbsp;<img src="skills/B01HLF1TSS/skill_icon" alt="Tell Me The Truth icon" width="36"> [Tell Me The Truth](skills/B01HLF1TSS)
+
+*Alexa, ask truth fact to tell me the truth*
+
+Find out the truth
+
+***
+
 ## &nbsp;<img src="skills/B01BXCJA7C/skill_icon" alt="Tennis MatchManager icon" width="36"> [Tennis MatchManager](skills/B01BXCJA7C)
 
 *Alexa, use keeper and start a singles match with red team's serve*
@@ -10025,6 +10114,14 @@ Control your Nest® thermostat using only your voice.
 *Alexa ask synonym finder a word for cow*
 
 A Thesaurus for Alexa providing synonyms when ever you need them. Look wicked smart without breaking your stride.
+
+***
+
+## &nbsp;<img src="skills/B01HJ0BX2C/skill_icon" alt="TheTemperatureInside icon" width="36"> [TheTemperatureInside](skills/B01HJ0BX2C)
+
+*Alexa, tell the temperature inside the point of sale number five*
+
+This skill lets you know the temperature inside
 
 ***
 
@@ -10369,6 +10466,14 @@ LIRR train schedules & status updates
 *Alexa, ask Trainer Tips what's weak against Fire.*
 
 The Trainer Tips skill gives you hands-free reference for those difficult battles where quick thinking is required.
+
+***
+
+## &nbsp;<img src="skills/B01HKIGBCA/skill_icon" alt="trainingTips icon" width="36"> [trainingTips](skills/B01HKIGBCA)
+
+*Alexa, ask trainingtips for workout tips*
+
+trainingTips is a small list of common gym and workout tips.
 
 ***
 
@@ -10756,6 +10861,14 @@ Twister spinner with voice
 
 ***
 
+## &nbsp;<img src="skills/B01HMY9AW0/skill_icon" alt="TWO SECRET NUMBERS icon" width="36"> [TWO SECRET NUMBERS](skills/B01HMY9AW0)
+
+*Alexa , launch two secret numbers*
+
+Choose two numbers by yourself and let alexa guess these numbers as you proceed through a sequence of calculations
+
+***
+
 ## &nbsp;<img src="skills/B01FWLZJTS/skill_icon" alt="Tyler's TV Trivia icon" width="36"> [Tyler's TV Trivia](skills/B01FWLZJTS)
 
 *Alexa open Tyler's TV Trivia*
@@ -11069,6 +11182,14 @@ The VoicePod skill lets you control and interact with the Control4 home automati
 
 ***
 
+## &nbsp;<img src="skills/B01HB106C2/skill_icon" alt="Wacky Factory icon" width="36"> [Wacky Factory](skills/B01HB106C2)
+
+*Alexa, ask Wacky Factory to tell me a fact*
+
+Wacky Fact-ory: learn little-known facts that may seem hard to believe!
+
+***
+
 ## &nbsp;<img src="skills/B01GIYBPQE/skill_icon" alt="Wahoowa! icon" width="36"> [Wahoowa!](skills/B01GIYBPQE)
 
 *Alexa, open wahoo wa*
@@ -11122,6 +11243,14 @@ Use Washington State Ferry to get departure information for the Washington State
 *Alexa, ask Washio to do my laundry.*
 
 On Demand Dry Cleaning & Laundry.
+
+***
+
+## &nbsp;<img src="skills/B01HH6R4BW/skill_icon" alt="WatchAid icon" width="36"> [WatchAid](skills/B01HH6R4BW)
+
+*Alexa, ask Watch Aid when is the next The Walking Dead?*
+
+WatchAid keeps track of your favorite TV shows, let you know when a episode is available to watch and when the next one is airing.
 
 ***
 
@@ -11234,6 +11363,14 @@ Where To Park
 *"Alexa, open white board"*
 
 Whiteboard lets you use your Echo to test your coding interview skills.
+
+***
+
+## &nbsp;<img src="skills/B01HLE3NDS/skill_icon" alt="Who Do You Like icon" width="36"> [Who Do You Like](skills/B01HLE3NDS)
+
+*Alexa, ask like statement who do you hate*
+
+Find Out Who You Like
 
 ***
 

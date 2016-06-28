@@ -5,9 +5,9 @@ To use the Trekkie Trivia skill, try saying...
 
 * *Alexa Start Trekkie Trivia*
 
-* *One*
+* *Alexa, Open Trekkie Trivia*
 
-* *I Don't know*
+* *The answer is One*
 
 Trivia for Trekkie's.  Test your Knowledge of the Star Trek universe!  The trivia game covers all of the TV series, with new questions added periodically.
 
