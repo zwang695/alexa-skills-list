@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1434
+**Total Skills Available:** 1449
 
 ***
 
@@ -960,6 +960,14 @@ Baseball Facts is a simple skill to generate baseball facts.
 
 ***
 
+## &nbsp;<img src="skills/B01HLDJB44/skill_icon" alt="Baseball Fun Fact icon" width="36"> [Baseball Fun Fact](skills/B01HLDJB44)
+
+*Alexa, open baseball fun fact*
+
+This alexa app tells the user some fun baseball facts
+
+***
+
 ## &nbsp;<img src="skills/B01D1IC35C/skill_icon" alt="Baseball Trivia icon" width="36"> [Baseball Trivia](skills/B01D1IC35C)
 
 *Alexa play Baseball Trivia*
@@ -1013,6 +1021,14 @@ Random basic statistics terms
 *Alexa, ask Basket if whole milk is on sale near Arlington, VA.*
 
 With Basket, it's easier than ever to find local sale prices for your favorite grocery items.
+
+***
+
+## &nbsp;<img src="skills/B01HLDAPTO/skill_icon" alt="Basketball Fun Fact icon" width="36"> [Basketball Fun Fact](skills/B01HLDAPTO)
+
+*Alexa, open basketball fun fact*
+
+This lists basketball fun facts
 
 ***
 
@@ -1104,6 +1120,14 @@ Beat the dealer in this game of Blackjack.
 
 ***
 
+## &nbsp;<img src="skills/B01HKT0I8W/skill_icon" alt="beeFacts icon" width="36"> [beeFacts](skills/B01HKT0I8W)
+
+*Alexa, ask bee facts for a fact*
+
+Generate honey bee facts.
+
+***
+
 ## &nbsp;<img src="skills/B01H6CLSV4/skill_icon" alt="Beer Advisor icon" width="36"> [Beer Advisor](skills/B01H6CLSV4)
 
 *Alexa, launch beer advisor.*
@@ -1157,6 +1181,14 @@ Randomly suggest a beer from a specific style of beer. (21+)
 *Alexa, launch Beer Trivia*
 
 Think you know beer? Crack open a cold one and test your beer and brewing knowledge with Beer Trivia! DISCLAIMER:  Beer trivia may not be suitable for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01HC5A744/skill_icon" alt="BeerGeek icon" width="36"> [BeerGeek](skills/B01HC5A744)
+
+*Alexa ask beer geek*
+
+An alexa skill made to inform you all about the world of beer.
 
 ***
 
@@ -1261,6 +1293,14 @@ Recite a bible verse
 *Alexa, ask bible verse to tell me a bible verse.*
 
 Listen to bible verses!
+
+***
+
+## &nbsp;<img src="skills/B01HJCS4HC/skill_icon" alt="Big Data Skills icon" width="36"> [Big Data Skills](skills/B01HJCS4HC)
+
+*Alexa, open big data*
+
+Big Data facts (Predictive analytics) Quiz
 
 ***
 
@@ -1856,6 +1896,14 @@ This trivia game tests your knowledge of capitals and countries of the world.
 *Alexa, launch capital test*
 
 A nice trivia about US Capitals of the state. Enjoy doing this game with your family or with friends.
+
+***
+
+## &nbsp;<img src="skills/B01HLEW92O/skill_icon" alt="Car Fact icon" width="36"> [Car Fact](skills/B01HLEW92O)
+
+*Alexa, open car fact and tell me about cars.*
+
+Get Your Car Fact
 
 ***
 
@@ -2520,6 +2568,14 @@ Computer concepts illustrated through the Viking history.
 *Alexa, ask conductor to get status for the 7 train*
 
 Get information on your commute. So far supports NYC subway/LIRR/MetroNorth status (NYC bus coming soon). 'Get status for 7 train'
+
+***
+
+## &nbsp;<img src="skills/B01H9F99WI/skill_icon" alt="ConeyIslandGal icon" width="36"> [ConeyIslandGal](skills/B01H9F99WI)
+
+*Alexa ask Coney island gal to tell me a Coney Island fact*
+
+Gives facts about Coney Island
 
 ***
 
@@ -3913,6 +3969,14 @@ Flip Multiple Coins
 
 ***
 
+## &nbsp;<img src="skills/B01HIYSW0U/skill_icon" alt="Florida Facts icon" width="36"> [Florida Facts](skills/B01HIYSW0U)
+
+*Alexa, open florida facts*
+
+A fun and interactive way to learn about florida facts
+
+***
+
 ## &nbsp;<img src="skills/B01EQDD7W4/skill_icon" alt="Florida Trivia game icon" width="36"> [Florida Trivia game](skills/B01EQDD7W4)
 
 *Alexa, launch Florida Trivia*
@@ -3966,6 +4030,14 @@ Not sure what kind of food to eat for lunch or dinner?  Ask Food Finder to sugge
 *Alexa, ask Food Flash to start*
 
 Food Flash is a quiz to test your knowledge of food in the world.
+
+***
+
+## &nbsp;<img src="skills/B01HHBMHG4/skill_icon" alt="Food for Thought icon" width="36"> [Food for Thought](skills/B01HHBMHG4)
+
+*Alexa, play food quiz*
+
+A quiz with questions about anything related to food.
 
 ***
 
@@ -4285,6 +4357,14 @@ Test your knowledge of Metal Gear Solid trivia.
 
 ***
 
+## &nbsp;<img src="skills/B01HKEILZO/skill_icon" alt="GameTracker icon" width="36"> [GameTracker](skills/B01HKEILZO)
+
+*Alexa, open Game Tracker*
+
+Keep track of games you need to get around to finishing.
+
+***
+
 ## &nbsp;<img src="skills/B017OBI3AQ/skill_icon" alt="Garageio icon" width="36"> [Garageio](skills/B017OBI3AQ)
 
 *Alexa, tell Garageio to close my door.*
@@ -4346,6 +4426,14 @@ Alexa will ask you 5 trivia questions per game.  It’s a fun way to test your g
 *Alexa, launch Geographic  Adventure*
 
 Listen carefully and  answer to  the questions about the world's geography,
+
+***
+
+## &nbsp;<img src="skills/B01HLE8YLY/skill_icon" alt="Geography Fact icon" width="36"> [Geography Fact](skills/B01HLE8YLY)
+
+*Alexa, ask geography fact to give me a fact*
+
+Get geography facts
 
 ***
 
@@ -5190,6 +5278,14 @@ Insect Facts
 
 ***
 
+## &nbsp;<img src="skills/B01HLGD6AQ/skill_icon" alt="Inspirational Mormon Quotes icon" width="36"> [Inspirational Mormon Quotes](skills/B01HLGD6AQ)
+
+*Alexa, ask mormon quotes to inspire me*
+
+Random inspirational quotes from LDS leaders and other figures in history.
+
+***
+
 ## &nbsp;<img src="skills/B01GDQ4JSS/skill_icon" alt="Inspirational Quotes icon" width="36"> [Inspirational Quotes](skills/B01GDQ4JSS)
 
 *Alexa, inspire me*
@@ -5557,6 +5653,14 @@ The Langone Retreat Information Skill by Longboard 8
 *Alexa, ask Language Fun about the edit distance between words dog and frog.*
 
 Natural language processing fun - computes "distance" between words in terms of character insertions and deletions required to change one into the other
+
+***
+
+## &nbsp;<img src="skills/B01GWAX8Z0/skill_icon" alt="Las Vegas Facts icon" width="36"> [Las Vegas Facts](skills/B01GWAX8Z0)
+
+*Alexa, launch las vegas facts*
+
+Facts About Las Vegas
 
 ***
 
@@ -8131,6 +8235,14 @@ Raj's trivia pursuit tests your knowledge of how well you know him.
 
 ***
 
+## &nbsp;<img src="skills/B01HLOS7AM/skill_icon" alt="Random Baby Name icon" width="36"> [Random Baby Name](skills/B01HLOS7AM)
+
+*Alexa, ask Random Baby Name to get a baby name for a girl*
+
+Recommends a baby name for a boy or girl
+
+***
+
 ## &nbsp;<img src="skills/B01FEC1KY8/skill_icon" alt="Random Cat Facts icon" width="36"> [Random Cat Facts](skills/B01FEC1KY8)
 
 *Alexa ask random cat to tell me a fact*
@@ -8552,6 +8664,14 @@ Command by voice all your devices connected on Samsung ARTIK Cloud!
 *Alexa, ask San Francisco to tell me something.*
 
 San Francisco Facts: Things You Didn't Know About San Francisco
+
+***
+
+## &nbsp;<img src="skills/B01HJYPCUM/skill_icon" alt="Sandler Training icon" width="36"> [Sandler Training](skills/B01HJYPCUM)
+
+*Alexa, ask sandler training for the rule of the day*
+
+Get you Sandler Training Rule of the Day
 
 ***
 
