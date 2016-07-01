@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Number Counter icon" width="36"> [Number Counter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.40208bde-9a3a-4d7f-8506-9ad676cfc3d3)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Number Counter skill, try saying...
 

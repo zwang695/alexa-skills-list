@@ -9,16 +9,21 @@ To use the TDV (Teen Dating Violence) Quiz skill, try saying...
 
 * *Help*
 
-Do you know the answer to these questions about Teen Dating Violence?
-"Which of these are a warning sign of an abusive relationship?"
-"How many high school students experience physical abuse every year in the U.S.?"
-"What percent of teens have talked about dating violence with their parents?"
+► Do you know the answer to these questions about Teen Dating Violence?
 
-This important info will be helpful for teachers, parents, and students who want to test how much they know about this important issue! 
+• "Which of these are a warning sign of an abusive relationship?"
 
-Teachers: Have the students compete for the best score!
-Parents: Start a dialogue about healthy relationships with your teen!
-Teens: Learn to help yourself and your friends!
+• "How many high school students experience physical abuse every year in the U.S.?"
+
+• "What percent of teens have talked about dating violence with their parents?"
+
+► This important info will be helpful for teachers, parents, and students who want to test how much they know about this important issue! 
+
+→ Teachers: Have the students compete for the best score!
+
+→ Parents: Start a dialogue about healthy relationships with your teen!
+
+→ Teens: Learn to help yourself and your friends!
 
 ***
 

@@ -9,8 +9,8 @@
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open G. C. D.",
-    "14 and 17",
-    "G. C. D. of 14 and 28"
+    "Alexa, ask G. C. D. of 12 and 24",
+    "14 and 28"
   ],
   "firstReleaseDate": 1457421438.554,
   "homepageLinkText": null,

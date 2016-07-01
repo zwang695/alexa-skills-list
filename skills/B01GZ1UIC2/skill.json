@@ -5,10 +5,10 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Windcast provides you 24-hour wind forecasts for over 300 of the most popular US cities and provides you current wind direction pointing to the direction the wind is coming from.\n\nWindcast is designed and built in Seattle, Washington by sailors, for sailors.",
+  "description": "Windcast provides you 24-hour wind forecasts for over 400 of the most popular US cities and provides you current wind direction pointing to the direction the wind is coming from.\n\nWindcast is designed and built in Seattle, Washington for sailors, by sailors.\n\nUpdate June 28, 2016: Windcast now provides wind information for over 120 marina's in Washington state.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa open wind cast and get wind for Seattle",
+    "Alexa open wind cast and get wind information for Seattle",
     "Alexa open wind cast and get wind for Boulder on Sunday",
     "Alexa open wind cast"
   ],
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "wind cast",
   "name": "Windcast",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

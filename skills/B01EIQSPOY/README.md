@@ -1,42 +1,29 @@
 # &nbsp;<img src="skill_icon" alt="LIFX Optimized for Smart Home icon" width="36"> [LIFX Optimized for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.aba7feac-6231-4e5c-95ce-e05195803691)
-![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 9
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 15
 
 To use the LIFX Optimized for Smart Home skill, try saying...
 
-Discover 16 million vibrant colors and a thousand shades of white tones with LIFX smart LED lights.
-
-No cables or hub, just plug in a LIFX bulb and connect to Wi-Fi. Dive into an amazing range of colors and personalize your home to suit your mood, music or even your style.
-
-There’s more to LIFX than on and off. Create your own Scenes and set your favourite colors with the touch of a button. Schedule the perfect lighting, any time of the day. Enjoy effects like Music Visualizer, Candle and Color Cycle, and control your lights from the internet or your favorite devices and apps.
-
-CONTROL LIFX WITH ALEXA
-
-Your LIFX Lights now talk directly to the Amazon Echo through the Alexa Connected Home. After a few simple set up steps you can control your LIFX lights with simple statements like:
+Control LIFX with Alexa. Your LIFX Lights now talk directly to the Amazon Echo through the Alexa Connected Home. After a few easy setup steps you can control your LIFX lights with simple statements like:
 
 Alexa, Turn the lights on
-
 Alexa, Turn the Kitchen light off
-
 Alexa, Switch lights to 50% brightness
-
 Alexa, lower brightness by 25%
-
 Alexa, dim Bedroom lights by 25%
 
+Skills that are “Optimized for Smart Home” allow you to control your smart devices without saying “Ask” or “tell”. For example, if you have named your smart light bulb “Kitchen Lights”, you can say “Alexa, turn on the kitchen lights”
 
 HOW TO GET CONNECTED
 
-Skills that are “Optimized for Smart Home” allow you to control your smart devices without saying “Ask” or “tell”.  For example, if you have named your smart light bulb “Kitchen Lights”, you can say “Alexa, turn on the kitchen lights”
+1. Make sure your lights are connected to your LIFX Cloud account.
 
-Make sure your lights are on the LIFX Cloud then follow these steps: 
+2. Open the Alexa app and go to Link with LIFX under Smart Home > Device Links and login to your LIFX account.
 
-1. Open the Alexa app and go to Link with LIFX under Smart Home > Device Links and login to your LIFX account. 
+3. Say "Alexa, discover devices". Your lights will be displayed under Smart Home in the Alexa app and you can optionally group them for Alexa here (hint: Alexa groups are separate from your personal LIFX groups).
 
-2. Say "Alexa, discover devices". Your lights will be displayed under Smart Home in the Alexa app and you can optionally group them for Alexa here (hint: Alexa groups are separate from your personal LIFX groups). 
+4. Say “Alexa, turn my lights… On” or “...Off”. That's it!
 
-3. Say “Alexa, turn my lights… On” or “...Off”. That's it! 
-
-4. Optional: Enable the advanced LIFX Skill, under Skills in the Alexa app, to control LIFX colors and groups. Once activated, say “Alexa, ask 'Life-Ex': what I can do with my lights?” and Alexa will teach you how to control groups of LIFX lights and even set their individual colors.
+5. Optional: Enable the other LIFX Skill, under Skills in the Alexa app, to control LIFX colors and groups. Once activated, say “Alexa, ask 'Life-Ex': what I can do with my lights?” and Alexa will teach you how to control groups of LIFX lights and even set their individual colors.
 
 ***
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Zubie icon" width="36"> [Zubie](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ee8ad9c5-ae0a-4a94-8d14-570528d10f82)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Zubie skill, try saying...
 

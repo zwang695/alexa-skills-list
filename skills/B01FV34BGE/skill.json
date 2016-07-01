@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01FV34BGE",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": "Travel",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": true,
   "launchPhrase": "lyft",
   "name": "Lyft",
-  "numberOfReviews": 0,
+  "numberOfReviews": 6,
   "pamsPartnerId": "vSi2lMBlloC6TSGuDEZS26zm4",
   "permissions": null,
   "privacyPolicyUrl": "https://www.lyft.com/privacy",

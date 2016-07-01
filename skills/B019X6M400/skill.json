@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B019X6M400",
-  "averageRating": 2.8,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Social",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "glimpse",
   "name": "Glympse",
-  "numberOfReviews": 20,
+  "numberOfReviews": 21,
   "pamsPartnerId": "ChPvrYoO7IprZ52BbLOtAeMoj",
   "permissions": null,
   "privacyPolicyUrl": "http://glympse.com/privacy",

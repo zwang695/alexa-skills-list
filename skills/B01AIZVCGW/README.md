@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Rachio icon" width="36"> [Rachio](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2c74bf75-9246-418d-8934-a25dc938e29b)
-![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 22
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 23
 
 To use the Rachio skill, try saying...
 

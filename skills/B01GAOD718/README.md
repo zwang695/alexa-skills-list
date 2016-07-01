@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="creditcard cashback icon" width="36"> [creditcard cashback](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.99ddb0f4-bbe6-40b1-8ab3-9b7756ba6b74)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the creditcard cashback skill, try saying...
 

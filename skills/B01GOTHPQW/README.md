@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Seattle Area Busing (SAB) icon" width="36"> [Seattle Area Busing (SAB)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db5351ad-8bae-431b-ab2d-d20b256f0af2)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Seattle Area Busing (SAB) skill, try saying...
 

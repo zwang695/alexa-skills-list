@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Fidelity Investments icon" width="36"> [Fidelity Investments](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.40545600-0082-4ed2-bf03-09b44dabb6c3)
-![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 19
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 20
 
 To use the Fidelity Investments skill, try saying...
 

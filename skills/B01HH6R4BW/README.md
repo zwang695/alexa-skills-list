@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="WatchAid icon" width="36"> [WatchAid](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.69392382-f42c-4d5e-8a60-5b51019a35f8)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the WatchAid skill, try saying...
 

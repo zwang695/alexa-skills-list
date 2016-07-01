@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Tracker's Election Odds icon" width="36"> [Tracker's Election Odds](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.14b0b4b6-e827-40e9-8c30-f572bbf4f006)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Tracker's Election Odds skill, try saying...
 

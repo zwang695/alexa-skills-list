@@ -1,0 +1,42 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "amazon.com",
+    "nest.com",
+    "tlund-audible.com",
+    "jquery.com",
+    "home.nest.com",
+    "google-analytics.com",
+    "amazonaws.com"
+  ],
+  "asin": "B01GPBM9W4",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Alexa skill to control one or more Nest thermostats. Allows for account linking with your Nest account. Tells the current temperature and desired temperature for each thermostat in your home. The user may also tell a thermostat to set the desired temperature, triggering heat, air conditioning, or the fan.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Mother Goose for status",
+    "what is the temperature?",
+    "set upstairs to 65"
+  ],
+  "firstReleaseDate": 1467206863.214,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.c176feea-934a-4fbd-81ce-99ba0bc32cb6",
+  "imageAltText": "Mother Goose for Nest icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01GPBM9W4/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "mother goose",
+  "name": "Mother Goose for Nest",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "QU8szZdCU5aqOWeqhN3yvmR1U",
+  "permissions": null,
+  "privacyPolicyUrl": "https://s3.amazonaws.com/smooth_test/privacy.txt",
+  "shortDescription": "Mother Goose for Nest Control",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2BQ6MEJRL1K01",
+  "vendorName": "Tylopoda"
+}

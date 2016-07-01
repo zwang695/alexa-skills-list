@@ -3,7 +3,7 @@
 
 To use the ISY Optimized for Smart Home V2 skill, try saying...
 
-The ISY Smart Home skill allows you to control your ISY home-automation controller from Universal Devices. This enables you to control your devices, scenes and even programs from your Echo. 
+The ISY Smart Home skill allows you to control your ISY home-automation controller from Universal Devices. This enables you to control your devices, thermostats, scenes and even programs from your Echo. 
 
 To use this skill, you need to have an account on ISY Portal the full instructions for which can be found at http://wiki.universal-devices.com/index.php?title=Main_Page#ISY_Portal.2FAmazon_Echo.2FIFTTT
 

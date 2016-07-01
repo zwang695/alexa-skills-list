@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Florida Facts icon" width="36"> [Florida Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7042b05d-6c20-4d5a-a8ab-db5ec34c7d23)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Florida Facts skill, try saying...
 

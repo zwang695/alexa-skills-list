@@ -5,9 +5,9 @@ To use the Greatest Common Divisor (GCD) skill, try saying...
 
 * *Alexa, open G. C. D.*
 
-* *14 and 17*
+* *Alexa, ask G. C. D. of 12 and 24*
 
-* *G. C. D. of 14 and 28*
+* *14 and 28*
 
 G. C. D. The greatest common divisor of 2 numbers.  Simply give Alexa 2 numbers and Alexa will respond with the largest number that divides both numbers.
 

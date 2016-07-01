@@ -5,7 +5,7 @@
   "canDisable": false,
   "capabilities": null,
   "category": null,
-  "description": "The ISY Smart Home skill allows you to control your ISY home-automation controller from Universal Devices. This enables you to control your devices, scenes and even programs from your Echo. \n\nTo use this skill, you need to have an account on ISY Portal the full instructions for which can be found at http://wiki.universal-devices.com/index.php?title=Main_Page#ISY_Portal.2FAmazon_Echo.2FIFTTT\n\nSkills that are “Optimized for Smart Home” allow you to control your smart devices without saying “Ask” or “tell”.  For example, if you assigned a spoken “Kitchen Lights” to one of your devices in ISY portal, you can say “Alexa, turn on the kitchen lights”.",
+  "description": "The ISY Smart Home skill allows you to control your ISY home-automation controller from Universal Devices. This enables you to control your devices, thermostats, scenes and even programs from your Echo. \n\nTo use this skill, you need to have an account on ISY Portal the full instructions for which can be found at http://wiki.universal-devices.com/index.php?title=Main_Page#ISY_Portal.2FAmazon_Echo.2FIFTTT\n\nSkills that are “Optimized for Smart Home” allow you to control your smart devices without saying “Ask” or “tell”.  For example, if you assigned a spoken “Kitchen Lights” to one of your devices in ISY portal, you can say “Alexa, turn on the kitchen lights”.",
   "enablement": null,
   "exampleInteractions": [
     null,

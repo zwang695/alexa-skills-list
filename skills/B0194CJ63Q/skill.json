@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B0194CJ63Q",
-  "averageRating": 2.8,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Productivity",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "phone finder",
   "name": "Phone Finder for Alexa",
-  "numberOfReviews": 34,
+  "numberOfReviews": 35,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

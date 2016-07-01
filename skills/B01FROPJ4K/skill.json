@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Food/Cooking",
-  "description": "Audio Chef will be your new guide in the kitchen. Are you tired of going back to the recipe text to find where you left off? Despair no more! \n\nUsing audio prompts, Audio Chef can guide you through a recipe while your hands do the cooking. To get started, say \"Alexa, open Audio Chef.\" For additional information, visit audiochef.org.",
+  "description": "Audio Chef will be your new guide in the kitchen. Are you tired of going back to the recipe text to find where you left off? Despair no more! \n\nUsing audio prompts, Audio Chef can guide you through a recipe while your hands do the cooking. To get started, say \"Alexa, open Audio Chef.\" For additional information, visit theaudiochef.com",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open Audio Chef",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Audio Chef is your virtual cooking assistant that helps free your hands for cooking while guiding you through the steps of recipes.",
+  "shortDescription": "Audio Chef is your virtual cooking assistant that helps free your hands for cooking while guiding you through the steps of recipes. Visit theaudiochef.com",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,
