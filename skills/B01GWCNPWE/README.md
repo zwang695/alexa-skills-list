@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Christmas Countdown icon" width="36"> [Christmas Countdown](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.83bcc223-d0eb-4020-a051-b90cc2b31f5b)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Christmas Countdown skill, try saying...
 

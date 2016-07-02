@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Syfy icon" width="36"> [Syfy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f2c1163c-7af7-4d3f-a5d7-deda3893f4d4)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Syfy skill, try saying...
 

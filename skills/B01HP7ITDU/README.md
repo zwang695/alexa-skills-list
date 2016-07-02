@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Great Composer Quiz icon" width="36"> [Great Composer Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a147d962-8d6b-4f8b-a251-12448225d90a)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Great Composer Quiz skill, try saying...
 
