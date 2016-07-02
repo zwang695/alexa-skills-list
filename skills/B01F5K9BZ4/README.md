@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Shower Thoughts for Reddit icon" width="36"> [Shower Thoughts for Reddit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9ad9668d-d56a-4b3e-aa6b-aaf848e3ed05)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Shower Thoughts for Reddit skill, try saying...
 

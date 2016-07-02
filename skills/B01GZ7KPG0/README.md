@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="YoMama icon" width="36"> [YoMama](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bea3cf2d-d275-46d7-90ce-fc37941a6599)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the YoMama skill, try saying...
 

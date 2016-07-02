@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Insults icon" width="36"> [Insults](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.52bbd3ed-9533-4eda-ab19-3d5ad8840e6d)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Insults skill, try saying...
 

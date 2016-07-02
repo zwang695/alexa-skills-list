@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01AWXQTMW",
-  "averageRating": 2.4,
+  "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
   "category": "Productivity",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "currency converter",
   "name": "Currency Converter",
-  "numberOfReviews": 6,
+  "numberOfReviews": 7,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

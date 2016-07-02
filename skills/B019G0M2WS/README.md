@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Jeopardy! J6 icon" width="36"> [Jeopardy! J6](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6d474311-b5aa-4f47-a97b-1036bc3e1954)
-![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 118
+![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 119
 
 To use the Jeopardy! J6 skill, try saying...
 
