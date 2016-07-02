@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Uber icon" width="36"> [Uber](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f9e938dc-cded-45dc-bf9d-2029d4de1aa3)
-![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 47
+![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 49
 
 To use the Uber skill, try saying...
 

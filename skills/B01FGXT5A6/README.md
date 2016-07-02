@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="21 Blackjack icon" width="36"> [21 Blackjack](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.42d63611-1265-4d49-b663-9a59bfcae2ad)
-![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 5
+![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the 21 Blackjack skill, try saying...
 

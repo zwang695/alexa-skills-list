@@ -28,7 +28,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "uber",
   "name": "Uber",
-  "numberOfReviews": 47,
+  "numberOfReviews": 49,
   "pamsPartnerId": "RKFYaRwbXsZIMeVkCxw33HXWI",
   "permissions": [
     "ACCESS_DEVICE_ADDRESS"

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1515
+**Total Skills Available:** 1514
 
 ***
 
@@ -8005,14 +8005,6 @@ Use Pitch Pipe to play any of the thirteen pitches in an octave. Use it as a dig
 *Alexa ask pittsburgh facts to give me a new fact*
 
 Informative facts about the city of Pittsburgh, Pennsylvania
-
-***
-
-## &nbsp;<img src="skills/B01D58K4WC/skill_icon" alt="PizzaFacts icon" width="36"> [PizzaFacts](skills/B01D58K4WC)
-
-*Alexa, Launch Pizza Facts*
-
-Facts about the humankind's greatest achievement: pizza
 
 ***
 
