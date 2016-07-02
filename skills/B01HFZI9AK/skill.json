@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01HFZI9AK",
-  "averageRating": 2,
+  "averageRating": 1.7,
   "canDisable": false,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Magic Home",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": "jMTCvZLWrJvm23SwZsciADeoQ",
   "permissions": null,
   "privacyPolicyUrl": "http://magichue.net/WebZJCloud/Privacy.html",

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="A fan's trivia about the San Francisco Giants icon" width="36"> [A fan's trivia about the San Francisco Giants](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d70a5d71-729a-41c9-bacf-ce62fa520c79)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the A fan's trivia about the San Francisco Giants skill, try saying...
 
