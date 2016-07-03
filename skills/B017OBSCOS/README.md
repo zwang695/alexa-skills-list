@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Amazing Word Master Game icon" width="36"> [Amazing Word Master Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d6b53286-5fec-4e66-84c4-07ff80e7c58b)
-![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 137
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 139
 
 To use the Amazing Word Master Game skill, try saying...
 
