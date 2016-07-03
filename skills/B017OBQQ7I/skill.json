@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OBQQ7I",
-  "averageRating": 2.6,
+  "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
   "category": "Other",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "famous quotes",
   "name": "Famous Quotes",
-  "numberOfReviews": 5,
+  "numberOfReviews": 6,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

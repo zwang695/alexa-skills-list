@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Washington State Ferry icon" width="36"> [Washington State Ferry](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c9b66172-8af5-46d1-b243-89a358beb229)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Washington State Ferry skill, try saying...
 
