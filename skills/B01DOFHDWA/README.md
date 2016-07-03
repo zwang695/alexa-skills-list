@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Air Quality Meter icon" width="36"> [Air Quality Meter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b319682d-7649-43dc-a7ba-582f0c74441f)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Air Quality Meter skill, try saying...
 

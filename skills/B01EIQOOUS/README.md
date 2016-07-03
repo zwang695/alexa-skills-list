@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Insteon icon" width="36"> [Insteon](http://alexa.amazon.com/#skills/amzn1.ask.skill.dcf48e47-5e5f-4325-a755-b3f6d67eb8b4)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 14
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 15
 
 To use the Insteon skill, try saying...
 
