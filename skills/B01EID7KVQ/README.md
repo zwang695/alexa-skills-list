@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Office Assistant icon" width="36"> [Office Assistant](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d480979a-026f-4d0f-ae4d-20d10237ee81)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Office Assistant skill, try saying...
 
