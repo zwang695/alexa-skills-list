@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Whether you are away at college, at camp, or just need some fatherly advice ... launch Dad-Bot for a virtual hug with some words of wisdom from your Dad.",
+  "description": "Whether you are away at college, at camp, or just need some fatherly advice ... launch Dad-Bot to access a vast collection of advice.  \n\n\"Dad Says: Listen often. Talk less.\"\n\nThe Dad-Bot skill is inspired by my daughter who is heading back to college.  I wanted to make sure that fatherly advice was never too far away when she needs a few words of wisdom.  \n\nThis special collection of advice is curated from personal experience, with lots of input from some awesome friends and family.  Much of the fatherly advice has been passed down from generations. \n\n\"Dad Says: I will always love you.  No matter what.\"",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, launch Dad Bot",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Need a hug, some advice, or just miss your Dad?  Just open Dad-Bot.",
+  "shortDescription": "Are you stressed about an exam?  About to make a big decision?  Or simply need words of encouragement?  Just say \"Alexa, open Dad-Bot\" for some fatherly advice.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

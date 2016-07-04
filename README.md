@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1528
+**Total Skills Available:** 1535
 
 ***
 
@@ -533,6 +533,14 @@ Play an animal guessing game with Alexa!
 *Alexa, ask Animal Sounds what noise a lion says.*
 
 Alexa is learning a few new languages, animal languages that is. Ask Alexa to make the sounds your favorite animal makes.
+
+***
+
+## &nbsp;<img src="skills/B01HSGXI2A/skill_icon" alt="Animal Sounds icon" width="36"> [Animal Sounds](skills/B01HSGXI2A)
+
+*Alexa, launch Animal Sounds*
+
+Guess which animal sound!
 
 ***
 
@@ -1711,6 +1719,14 @@ Find out the status of MBTA public transit (subway, Silver, and commuter line st
 *Alexa, Ask Bourbon helper how can I build a doctor seven*
 
 Bartenders Helper
+
+***
+
+## &nbsp;<img src="skills/B01HX2Z1H4/skill_icon" alt="Box of Birds icon" width="36"> [Box of Birds](skills/B01HX2Z1H4)
+
+*Alexa, open the Box of Birds*
+
+This box houses hundreds of birds, including an occasional surprise.  Just say, "Alexa, open the Box of Birds" and your Echo will play a random bird sound.
 
 ***
 
@@ -3025,7 +3041,7 @@ Read the latest news and events from the Washington DC tech scene.
 
 *Alexa, launch Dad Bot*
 
-Need a hug, some advice, or just miss your Dad?  Just open Dad-Bot.
+Are you stressed about an exam?  About to make a big decision?  Or simply need words of encouragement?  Just say "Alexa, open Dad-Bot" for some fatherly advice.
 
 ***
 
@@ -6097,6 +6113,14 @@ Multiple choice game to test your knowledge of LGBT history and terms!
 
 ***
 
+## &nbsp;<img src="skills/B01HQU4W46/skill_icon" alt="License Plate Finder icon" width="36"> [License Plate Finder](skills/B01HQU4W46)
+
+*Alexa, open license plate finder.*
+
+Alexa, ask license plate finder where is the license plate nickname of California?
+
+***
+
 ## &nbsp;<img src="skills/B01DA1T6TQ/skill_icon" alt="Life Counter for MTG icon" width="36"> [Life Counter for MTG](skills/B01DA1T6TQ)
 
 *Alexa, tell life counter to add Brandon*
@@ -6679,7 +6703,7 @@ Meteor showers tonight
 
 *Alexa, open Metro Alerts*
 
-Want to know if there are delays on the Red Line?  Could weekend construction derail your plans?  Ask Metro Alerts and find out!
+People of Washington, DC: want to know if there are delays on the Red Line?  Could weekend construction derail your plans?  Ask Metro Alerts and find out!
 
 ***
 
@@ -7845,6 +7869,14 @@ Product recommendations and reviews for thousands of popular products.
 
 ***
 
+## &nbsp;<img src="skills/B01H9KI488/skill_icon" alt="PDX Brew Pubs icon" width="36"> [PDX Brew Pubs](skills/B01H9KI488)
+
+*Alexa Open Brew Pubs*
+
+Offers a random brew pub in Portland (PDX)!
+
+***
+
 ## &nbsp;<img src="skills/B01EINIFA6/skill_icon" alt="Penalty Box icon" width="36"> [Penalty Box](skills/B01EINIFA6)
 
 *Alexa, ask the Penalty Box to tell me a hockey fact.*
@@ -8157,6 +8189,14 @@ Now Alexa can tell you about information of 721 pokemon. Introducing you the bra
 *Alexa, ask Political Geek for a government fact*
 
 Brush up on your government facts with Political Geek! Get started by saying to Alexa: "Alexa, ask Political Geek for a government fact".
+
+***
+
+## &nbsp;<img src="skills/B01HWY72KM/skill_icon" alt="Pony Games icon" width="36"> [Pony Games](skills/B01HWY72KM)
+
+*Alexa, ask pony games to start game*
+
+Pony skills trivia game
 
 ***
 
@@ -8649,6 +8689,14 @@ Rachio
 *Alexa, open Raj Trivia Pursuit*
 
 Raj's trivia pursuit tests your knowledge of how well you know him.
+
+***
+
+## &nbsp;<img src="skills/B01HWCL2DC/skill_icon" alt="RamayanExpert icon" width="36"> [RamayanExpert](skills/B01HWCL2DC)
+
+*Alexa, ask Ramayan Expert start new game*
+
+Quiz from Indian Epic Ramayana
 
 ***
 
@@ -9592,6 +9640,14 @@ Snowday provides information on closures/delays for various government offices, 
 *Alexa, Launch Soccer Facts*
 
 Some interesting facts about the most popular sport in the world.
+
+***
+
+## &nbsp;<img src="skills/B01HUY2KQK/skill_icon" alt="SoccerWorldCupFacts icon" width="36"> [SoccerWorldCupFacts](skills/B01HUY2KQK)
+
+*Alexa start soccer world cup facts and give me a fact.*
+
+Football/Soccer World Cup Facts
 
 ***
 
@@ -10647,7 +10703,7 @@ This skill will give the tide report for most locations (city and state/country)
 
 ## &nbsp;<img src="skills/B01F0I5F1U/skill_icon" alt="TIL Me More icon" width="36"> [TIL Me More](skills/B01F0I5F1U)
 
-*Alexa, tell TIL Me More I want to learn something today*
+*Alexa, ask TIL Me More to teach me something*
 
 Learn something new every day
 

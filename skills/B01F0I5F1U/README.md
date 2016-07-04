@@ -3,11 +3,11 @@
 
 To use the TIL Me More skill, try saying...
 
-* *Alexa, tell TIL Me More I want to learn something today*
+* *Alexa, ask TIL Me More to teach me something*
 
-* *Alexa, ask TIL Me More to teach me something new*
+* *Alexa, ask TIL Me More I want to learn something*
 
-* *Alexa, tell TIL Me More I want to learn more*
+* *Alexa, tell TIL Me More to teach me*
 
 TIL Me More teaches you new interesting things every day. It pulls user-contributed posts from reddit's /r/todayilearned and brings them directly and easily to you, hands-free! Use TIL Me More by asking Alexa "I want to learn something new!"
 

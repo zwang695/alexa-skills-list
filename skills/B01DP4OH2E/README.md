@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Best Movies icon" width="36"> [Best Movies](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3539d9eb-6ab4-4c0a-ae3d-2416404991c0)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Best Movies skill, try saying...
 

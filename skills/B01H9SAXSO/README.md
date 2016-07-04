@@ -9,7 +9,15 @@ To use the Dad-Bot skill, try saying...
 
 * *Alexa, run Dad Bot*
 
-Whether you are away at college, at camp, or just need some fatherly advice ... launch Dad-Bot for a virtual hug with some words of wisdom from your Dad.
+Whether you are away at college, at camp, or just need some fatherly advice ... launch Dad-Bot to access a vast collection of advice.  
+
+"Dad Says: Listen often. Talk less."
+
+The Dad-Bot skill is inspired by my daughter who is heading back to college.  I wanted to make sure that fatherly advice was never too far away when she needs a few words of wisdom.  
+
+This special collection of advice is curated from personal experience, with lots of input from some awesome friends and family.  Much of the fatherly advice has been passed down from generations. 
+
+"Dad Says: I will always love you.  No matter what."
 
 ***
 

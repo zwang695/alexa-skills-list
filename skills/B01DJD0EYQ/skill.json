@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": "Travel",
-  "description": "Save your commute by learning about Metro delays before you leave the house.  Know when single tracking could disrupt your plans.  Metro Alerts can provide you with heads up you need before you find yourself waiting on a crowded platform.",
+  "description": "Save your commute by learning about delays in the Washington DC Metro system before you leave the house.  Know when single tracking could disrupt your plans.  Metro Alerts can provide you with heads up you need before you find yourself waiting on a crowded platform.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open Metro Alerts",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Want to know if there are delays on the Red Line?  Could weekend construction derail your plans?  Ask Metro Alerts and find out!",
+  "shortDescription": "People of Washington, DC: want to know if there are delays on the Red Line?  Could weekend construction derail your plans?  Ask Metro Alerts and find out!",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

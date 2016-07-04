@@ -9,7 +9,7 @@ To use the Metro Alerts skill, try saying...
 
 * *Alexa, ask Metro Alerts for alerts for the Red Line*
 
-Save your commute by learning about Metro delays before you leave the house.  Know when single tracking could disrupt your plans.  Metro Alerts can provide you with heads up you need before you find yourself waiting on a crowded platform.
+Save your commute by learning about delays in the Washington DC Metro system before you leave the house.  Know when single tracking could disrupt your plans.  Metro Alerts can provide you with heads up you need before you find yourself waiting on a crowded platform.
 
 ***
 
