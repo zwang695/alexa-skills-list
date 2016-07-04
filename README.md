@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1514
+**Total Skills Available:** 1528
 
 ***
 
@@ -1037,6 +1037,14 @@ Baseball trivia game with 200+ MLB and baseball history questions
 *Alexa, open baseball trivia*
 
 Test your knowledge  of Baseball.
+
+***
+
+## &nbsp;<img src="skills/B01HP2DZKW/skill_icon" alt="Baseball's Colorline Quiz icon" width="36"> [Baseball's Colorline Quiz](skills/B01HP2DZKW)
+
+*Alexa ask baseball colorline questions*
+
+A short quiz to teach the names of the pioneers who broke baseball's color line.
 
 ***
 
@@ -3333,6 +3341,14 @@ A humorous dinosaur trivia game.   Echo asks questions and you answer by choosin
 
 ***
 
+## &nbsp;<img src="skills/B01HC599MU/skill_icon" alt="Dinosaur Alphabet icon" width="36"> [Dinosaur Alphabet](skills/B01HC599MU)
+
+*Alexa, ask Dinosaur Alphabet for a dinosaur that starts with Bravo*
+
+Practice your NATO phonetic alphabet while learning fun facts about 26 different dinosaurst. Fun for kids and adults alike.
+
+***
+
 ## &nbsp;<img src="skills/B01EXVZLAU/skill_icon" alt="Dinosaur Discovery icon" width="36"> [Dinosaur Discovery](skills/B01EXVZLAU)
 
 *Alexa, open dinosaur discovery*
@@ -3498,6 +3514,14 @@ Dr Speech is designed to help people who speak English as a second language to i
 *Alexa, ask Drink Boy what is the recipe for a Sidecar*
 
 DrinkBoy provides recipes for over 200 popular cocktails.
+
+***
+
+## &nbsp;<img src="skills/B01GDFDXOA/skill_icon" alt="drinkiwiki.com bartender icon" width="36"> [drinkiwiki.com bartender](skills/B01GDFDXOA)
+
+*alexa ask drinky wiki how to make a sazerac*
+
+The drinkiwiki bartender provides recipes for popular cocktails.
 
 ***
 
@@ -4038,6 +4062,14 @@ Firefighter Trivia Game is a trivia game based on basic knowledge for firefighte
 *Alexa, ask first aid egghead what's the treatment for a cut*
 
 First Aid Egghead is an Alexa Skill designed to be your in-house First Responder for minor medical emergencies.
+
+***
+
+## &nbsp;<img src="skills/B01HLKRF9A/skill_icon" alt="firstBuild icon" width="36"> [firstBuild](skills/B01HLKRF9A)
+
+*Alexa, ask first build how do I build a motherboard*
+
+firstBuild is a beginner's guide to putting a desktop together.
 
 ***
 
@@ -4802,7 +4834,7 @@ A music quiz inspired by D.J. Dennis Bartel on KUSC Los Angeles about the Great 
 
 *Alexa, open G. C. D.*
 
-G. C. D.  The greatest common divisor of 2 numbers
+G. C. D.  The greatest common divisor of 2 or 3 numbers
 
 ***
 
@@ -6217,6 +6249,14 @@ Responds with the Gonzaga High School menu items for a given day
 
 ***
 
+## &nbsp;<img src="skills/B01HGSKCLK/skill_icon" alt="Luther's Small Catechism icon" width="36"> [Luther's Small Catechism](skills/B01HGSKCLK)
+
+*Alexa, ask Small Catechism*
+
+Learn about the teachings of Holy Scripture with the Luther’s Small Catechism skill.
+
+***
+
 ## &nbsp;<img src="skills/B01HLGL5PE/skill_icon" alt="Luxembourg Trivia Game icon" width="36"> [Luxembourg Trivia Game](skills/B01HLGL5PE)
 
 *Alexa, start the Luxembourg Trivia Game*
@@ -6832,6 +6872,14 @@ Mosaic allows you to connect smart devices and digital services in one place, wh
 *Alexa, ask Mother Goose for status*
 
 Mother Goose for Nest Control
+
+***
+
+## &nbsp;<img src="skills/B01FERN1UY/skill_icon" alt="Motivate Me icon" width="36"> [Motivate Me](skills/B01FERN1UY)
+
+*Alexa, Motivate Me*
+
+Discover the timeless advice that the world's great thinkers, billionaires, writers and business people have to offer.
 
 ***
 
@@ -7661,6 +7709,14 @@ The user will use this skill to brighten up there day with a quick one liner fun
 
 ***
 
+## &nbsp;<img src="skills/B01HC7L2XW/skill_icon" alt="One Rep Max icon" width="36"> [One Rep Max](skills/B01HC7L2XW)
+
+*Alexa, ask one rep max to determine rep max of one hundred pounds ten reps*
+
+An Amazon Alexa app to calculate your one repetition max weight to use when lifting at the gym.
+
+***
+
 ## &nbsp;<img src="skills/B01ELVUYCW/skill_icon" alt="OneBusAway icon" width="36"> [OneBusAway](skills/B01ELVUYCW)
 
 *Alexa, open OneBusAway*
@@ -7822,6 +7878,14 @@ Based on the Standard Days Method by Georgetown University.
 
 ***
 
+## &nbsp;<img src="skills/B01HNN8ONQ/skill_icon" alt="Periodic Table icon" width="36"> [Periodic Table](skills/B01HNN8ONQ)
+
+*Alexa ask simple periodic table*
+
+Periodic Table
+
+***
+
 ## &nbsp;<img src="skills/B01GBVSCA6/skill_icon" alt="Periodic Table Games icon" width="36"> [Periodic Table Games](skills/B01GBVSCA6)
 
 *Alexa, launch Periodic Table Games*
@@ -7957,6 +8021,14 @@ This skill simply tells the user a random  pickup line. The user can simply ask 
 *Alexa, Open Pico*
 
 Pico, short for Pico, Fermi, Bagel, is the secret number game that tests your logic skills. Alexa will pick a number that you must guess in order to win.
+
+***
+
+## &nbsp;<img src="skills/B01HUIPYVY/skill_icon" alt="Pied Piper Skill icon" width="36"> [Pied Piper Skill](skills/B01HUIPYVY)
+
+*Alexa, open Pied Piper*
+
+Trivia from hit HBO show Silicon Valley. To launch Alexa Ask Pied Piper
 
 ***
 
@@ -9190,6 +9262,14 @@ Control your Sensi™ Wi-Fi Programmable Thermostat without lifting a finger usi
 
 ***
 
+## &nbsp;<img src="skills/B01HKXCP4I/skill_icon" alt="Sentieo icon" width="36"> [Sentieo](skills/B01HKXCP4I)
+
+*Alexa, ask Sentieo what is the F Y Twenty Seventeen sales growth for A M Z N?*
+
+Free Financial Data from the World's Most Advanced Equity Research Platform
+
+***
+
 ## &nbsp;<img src="skills/B01GGDBR88/skill_icon" alt="SG Buses icon" width="36"> [SG Buses](skills/B01GGDBR88)
 
 *Alexa, launch SG Buses*
@@ -9669,7 +9749,7 @@ Lookup spells from Dungeons and Dragons
 
 ## &nbsp;<img src="skills/B01GU73TQS/skill_icon" alt="Spelling Alphabet icon" width="36"> [Spelling Alphabet](skills/B01GU73TQS)
 
-*Alexa ask Spelling Alphabet, how do I spell John?*
+*Alexa ask Spelling Alphabet, how do I spell Supercalifragilistic?*
 
 On Demand Spelling Alphabet
 
@@ -9760,6 +9840,14 @@ The Echo's first and best MMORPG. Join a faction and compete with other players 
 *Alexa, ask Startup Info about Slack*
 
 Find information about companies and startups
+
+***
+
+## &nbsp;<img src="skills/B01HT4NWF4/skill_icon" alt="State Abbreviations icon" width="36"> [State Abbreviations](skills/B01HT4NWF4)
+
+*Alexa, start State Abbreviations*
+
+Quiz yourself on the abbreviation of the 50 US States
 
 ***
 
@@ -10121,6 +10209,14 @@ Generates a technology statement with the latest in technology buzzwords.
 *Alexa, ask truth fact to tell me the truth*
 
 Find out the truth
+
+***
+
+## &nbsp;<img src="skills/B01HP1050G/skill_icon" alt="Tennessee Trivia icon" width="36"> [Tennessee Trivia](skills/B01HP1050G)
+
+*Alexa, start Tennessee Trivia*
+
+Test your knowledge of Tennessee Vols Football with this fun trivia game.
 
 ***
 
@@ -11085,6 +11181,14 @@ This is a fun little trivia game featuring interesting questions on Japan and Ja
 
 ***
 
+## &nbsp;<img src="skills/B01HT46HTC/skill_icon" alt="Trivia Movie Quotes icon" width="36"> [Trivia Movie Quotes](skills/B01HT46HTC)
+
+*Alexa, launch Trivia Movie*
+
+Movie Quote Trivia
+
+***
+
 ## &nbsp;<img src="skills/B01CY9TW9Y/skill_icon" alt="Trivia on Harry Potter icon" width="36"> [Trivia on Harry Potter](skills/B01CY9TW9Y)
 
 *Alexa, launch Trivia on Harry Potter.*
@@ -11483,6 +11587,14 @@ Use UV Meter to get strength of sun’s UV rays in your city
 *Alexa, ask movie finder what is the movie where a boy learns he is a wizard*
 
 How to find movies when you don't know what you are looking for? Movie Finder helps you to find movies by freely describing any aspect of them.
+
+***
+
+## &nbsp;<img src="skills/B01GZ8Y2V8/skill_icon" alt="Vasundhara Fashions icon" width="36"> [Vasundhara Fashions](skills/B01GZ8Y2V8)
+
+*Alexa, ask Vasundhara Fashions for store hours*
+
+Vasundhara Fashions skill, gives you quick information that you would need about our Indian Clothing Store.
 
 ***
 

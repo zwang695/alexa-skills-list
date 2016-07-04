@@ -7,9 +7,11 @@ To use the Air Time skill, try saying...
 
 * *Alexa ask air time how long the wait is at San Jose International*
 
-* *Alexa ask air time how long the wait is in Atlanta Georgia*
+* *Alexa ask air time what is the current weather in New York*
 
-Air Time allows you to check the security wait times for any airport in the country.  You can search by airport code, city, or city & state.  You will hear the current security wait times and the trend of the wait times.
+Ever wonder how long it will take you to get through security once you get to the airport?  Air Time can help you decide when you need to leave for the airport based on the security wait time that you'll be facing.  You'll also know if the security wait time is increasing or decreasing. 
+
+Air Time allows you to check the security wait times and weather for any airport in the country.  You can search by airport code, city, or city & state.  You will hear the current security wait times and the trend of the wait times as well as the current weather at the airport.
 
 ***
 

@@ -3,11 +3,11 @@
 
 To use the Spelling Alphabet skill, try saying...
 
-* *Alexa ask Spelling Alphabet, how do I spell John?*
+* *Alexa ask Spelling Alphabet, how do I spell Supercalifragilistic?*
+
+* *Alexa ask Spelling Alphabet to spell expialidocious?*
 
 * *Alexa ask Spelling Alphabet, how do you spell absolute?*
-
-* *Alexa ask Spelling Alphabet to spell birthday.*
 
 Need to spell a word clearly? Don't know words for each letter you need to spell? Just ask Alexa! If you ask Spelling Alphabet to spell Alexa, she'll respond with A as in Alpha, L as in Lima, and so on...
 
