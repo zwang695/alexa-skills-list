@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01E31BCQC",
-  "averageRating": 3.5,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Food/Cooking",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "food finder",
   "name": "Food Finder",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

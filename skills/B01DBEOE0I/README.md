@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="LDS Daily Message icon" width="36"> [LDS Daily Message](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2fc76924-38ad-4ca5-bc43-97354be25e46)
-![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the LDS Daily Message skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Movie Score icon" width="36"> [Movie Score](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.33d67998-d21d-489a-85ba-3f71a50e29b7)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Movie Score skill, try saying...
 
