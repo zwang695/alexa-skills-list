@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DKO07TQ",
-  "averageRating": 2.4,
+  "averageRating": 1.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Finance",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "stock market sensei",
   "name": "Stock Market Sensei",
-  "numberOfReviews": 6,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.Stockmarketsensei.net/terms.php",
