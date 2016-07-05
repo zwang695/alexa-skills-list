@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bike Share icon" width="36"> [Bike Share](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.09907f8d-f282-427d-8832-2f33fc631908)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Bike Share skill, try saying...
 

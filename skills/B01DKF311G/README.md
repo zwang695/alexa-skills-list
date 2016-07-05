@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="My Copilot icon" width="36"> [My Copilot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8f5b7989-cb58-4355-aec4-3003462073c8)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the My Copilot skill, try saying...
 

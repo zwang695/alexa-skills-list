@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01GB28COG",
-  "averageRating": 5,
+  "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
   "category": "Education",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "zoo keeper",
   "name": "Zoo Keeper",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
