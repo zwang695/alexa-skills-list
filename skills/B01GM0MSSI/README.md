@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="cat facts icon" width="36"> [cat facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.05305e73-9299-4f3d-95ad-c1c55daeb5a6)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the cat facts skill, try saying...
 

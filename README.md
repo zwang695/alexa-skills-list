@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1535
+**Total Skills Available:** 1540
 
 ***
 
@@ -3269,6 +3269,14 @@ Tired of everyone lying to you? This skill will tell you the truth.
 
 ***
 
+## &nbsp;<img src="skills/B01HUFE1EI/skill_icon" alt="Dessert Fun icon" width="36"> [Dessert Fun](skills/B01HUFE1EI)
+
+*Alexa, ask Dessert Fun to tell a fact*
+
+Fun facts about our world's desserts and history
+
+***
+
 ## &nbsp;<img src="skills/B01DO6II5K/skill_icon" alt="Developer Games icon" width="36"> [Developer Games](skills/B01DO6II5K)
 
 *Alexa, start developer games*
@@ -3611,6 +3619,14 @@ Dylan Punster will tell you a pun based on what you ask him.
 *Alexa ask Ear Trainer to play a major third*
 
 Play any musical interval in an octave to improve your ear training
+
+***
+
+## &nbsp;<img src="skills/B01HNM0OW6/skill_icon" alt="Earthquake Info icon" width="36"> [Earthquake Info](skills/B01HNM0OW6)
+
+*Alexa, start Earthquake Info*
+
+Earthquake Info reports the magnitude and location of several recent earthquakes near a city.
 
 ***
 
@@ -3973,6 +3989,14 @@ Start with, 'Alexa, tell family history for me.' then drill back into your famil
 *Alexa, open Famous Births.*
 
 Are you interested in the birthdays of famous people? Rely on Famous Births for the birthdays of hundreds of famous people for every day of the year.
+
+***
+
+## &nbsp;<img src="skills/B01HVVLIT2/skill_icon" alt="Famous Computer Scientists icon" width="36"> [Famous Computer Scientists](skills/B01HVVLIT2)
+
+*Alexa, play Famous Computer Scientists*
+
+Flash cards on famous computer scientists. How many do you know?
 
 ***
 
@@ -4419,6 +4443,14 @@ Get freedom-themed quotes
 
 ***
 
+## &nbsp;<img src="skills/B01ED8WY8A/skill_icon" alt="French Tutor icon" width="36"> [French Tutor](skills/B01ED8WY8A)
+
+*Alexa, ask french tutor what is father in french*
+
+French Tutor translates your English word or sentence into French
+
+***
+
 ## &nbsp;<img src="skills/B01DAJXBGM/skill_icon" alt="Frenchness Trivia Game icon" width="36"> [Frenchness Trivia Game](skills/B01DAJXBGM)
 
 *Alexa, start Frenchness Game*
@@ -4763,14 +4795,6 @@ A fun and interesting fact skill for learning about fish.
 *Alexa, open goat fact*
 
 This is a list of Goat Facts.
-
-***
-
-## &nbsp;<img src="skills/B01BPSVFD6/skill_icon" alt="Gold Bug icon" width="36"> [Gold Bug](skills/B01BPSVFD6)
-
-*Alexa, ask Gold Bug what's the price of (gold/silver)*
-
-Get the latest closing day prices for gold and silver with Gold Bug!
 
 ***
 
@@ -7493,14 +7517,6 @@ For example: Alexa, ask Outbrain about the latest sports news
 
 ***
 
-## &nbsp;<img src="skills/B018FCGE18/skill_icon" alt="News By Linkboard icon" width="36"> [News By Linkboard](skills/B018FCGE18)
-
-*Alexa, ask Linkboard to search news about [a topic].*
-
-News By Linkboard enables you to search the news and have articles read to you. Say, "Alexa, start Linkboard" to try.
-
-***
-
 ## &nbsp;<img src="skills/B01EPE8CRE/skill_icon" alt="NewsCom icon" width="36"> [NewsCom](skills/B01EPE8CRE)
 
 *Alexa, Open NewsCom*
@@ -8352,6 +8368,14 @@ Test your American Presidential knowledge! "Alexa ask presidents quiz"
 
 ***
 
+## &nbsp;<img src="skills/B01H9ELKZ8/skill_icon" alt="Presidential Quotes icon" width="36"> [Presidential Quotes](skills/B01H9ELKZ8)
+
+*"Alexa, ask presidential quotes to give me a quote."*
+
+U.S. Presidential Quotes
+
+***
+
 ## &nbsp;<img src="skills/B01EPQQGSY/skill_icon" alt="Presidential Race 2016 Trivia icon" width="36"> [Presidential Race 2016 Trivia](skills/B01EPQQGSY)
 
 *Alexa, begin presidential trivia*
@@ -8373,6 +8397,14 @@ Historical US President quiz.  Wrong choices will be corrected using extra histo
 *Alexa, open Presidential Trivia*
 
 This is a multiple-choice trivia game to challenge what you know and help you learn about the US presidents.
+
+***
+
+## &nbsp;<img src="skills/B01HSEKZPU/skill_icon" alt="Presidential Trivia icon" width="36"> [Presidential Trivia](skills/B01HSEKZPU)
+
+*Alexa, ask President trivia*
+
+Get in the campaign spirit and test your US President trivia knowledge.
 
 ***
 
@@ -9470,14 +9502,6 @@ Alexa will say "Simon says..." and gives instructions. Pay attention or else you
 
 ***
 
-## &nbsp;<img src="skills/B019QRFDTA/skill_icon" alt="Simple Control icon" width="36"> [Simple Control](skills/B019QRFDTA)
-
-*Alexa, tell simple control to watch TV*
-
-Take charge of your Simple Control automated home using nothing more than your voice. Control Activities, volume, and other aspects of Simple Control.
-
-***
-
 ## &nbsp;<img src="skills/B01G0ZFMYW/skill_icon" alt="Simple Fibonacci icon" width="36"> [Simple Fibonacci](skills/B01G0ZFMYW)
 
 *Alexa, ask fibonacci numbers within 10*
@@ -9832,6 +9856,14 @@ Cruise Trivia Game
 *Alexa, open Stage Names*
 
 What's in a name? Discover fun facts about celebrities, actors and singers you didn't know were using a stage name. Become an expert at stage names with Alexa!
+
+***
+
+## &nbsp;<img src="skills/B01HUAE1NY/skill_icon" alt="Stains Be Gone icon" width="36"> [Stains Be Gone](skills/B01HUAE1NY)
+
+*Alexa, ask Stains Be Gone how do I clean coffee stains?*
+
+Stain removal instructions for your everyday spills
 
 ***
 
@@ -11418,6 +11450,14 @@ Twenty-one questions about the history of writing and basic typography.
 *Alexa, open U. S. history*
 
 Fun and education facts about US History
+
+***
+
+## &nbsp;<img src="skills/B01H9G0R4Q/skill_icon" alt="U.S. Presidential Trivia icon" width="36"> [U.S. Presidential Trivia](skills/B01H9G0R4Q)
+
+*"Alexa, open Presidential Trivia."*
+
+A trivia game about U.S. Presidents
 
 ***
 
