@@ -9,7 +9,7 @@ To use the PingPong Showdown skill, try saying...
 
 * *register a new player*
 
-Alexa is a great score keeper, but lookout for her sharp humor! She has a sass-meter, so you can adjust it from 0 (off) to 10 (full up). She never forgets the score or when to switch serving. In fact every point and every game you play is stored for bragging rights against rivals. 
+Got a ping pong table? Let Alexa keep score and make the game even more fun with her wisecracks. This is a full featured skill with more than 25 interactions. Alexa is a great score keeper, but lookout for her sharp humor! She has a sass-meter, so you can adjust it from 0 (off) to 10 (full up). She never forgets the score or when to switch serving. In fact every point and every game you play is stored for bragging rights against rivals. 
 
 You can play both singles and doubles matches. You can sign in so that all match stats are stored for you, or skip sign-in and just play. In addition to the game and match scores, you can also hear what percent of  games and individual points were won/lost vs that opponent, what your win percentage was when serving, and what your longest point streak of the match was.
 
@@ -72,5 +72,5 @@ You can always say “stop”, “cancel” or “exit”.
 * **ASIN:** B01ESOHSLC
 * **Author:** Dana Young
 * **Release Date:** July 1, 2016 @ 05:57:53
-* **Privacy Policy:** http://www.tennismatchmanager.com/privacy.html
+* **Privacy Policy:** http://pingpong-showdown.appspot.com/privacy.html
 * **In-App Purchasing:** No

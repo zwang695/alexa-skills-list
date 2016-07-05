@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1540
+**Total Skills Available:** 1544
 
 ***
 
@@ -2408,6 +2408,14 @@ Play this trivia game to test how well you know U.S. cities.
 *Alexa, ask CivicMinding for the Democrat delegate count?*
 
 stay informed. get involved.
+
+***
+
+## &nbsp;<img src="skills/B01HVP7VT4/skill_icon" alt="Civics Exam icon" width="36"> [Civics Exam](skills/B01HVP7VT4)
+
+*Alexa, ask Civics Exam to start new game.*
+
+Study for the United States Civics Exam with this short knowledge test.
 
 ***
 
@@ -6787,6 +6795,14 @@ Gives a knowledge, usage and information about an item
 
 ***
 
+## &nbsp;<img src="skills/B01GD80OT4/skill_icon" alt="Minimum Wage Finder icon" width="36"> [Minimum Wage Finder](skills/B01GD80OT4)
+
+*Alexa, open Minimum Wage*
+
+Learn minimum wage by state
+
+***
+
 ## &nbsp;<img src="skills/B01DF6X1YW/skill_icon" alt="Minnesota Trivia icon" width="36"> [Minnesota Trivia](skills/B01DF6X1YW)
 
 *Alexa, open Minnesota Trivia*
@@ -10011,6 +10027,14 @@ Steely Dan Trivia Quiz
 
 ***
 
+## &nbsp;<img src="skills/B01HT0UBCK/skill_icon" alt="StitchCounter icon" width="36"> [StitchCounter](skills/B01HT0UBCK)
+
+*Alexa, tell Stitch Counter to add project hat*
+
+Alexa, tell Stitch Counter to increase one row.
+
+***
+
 ## &nbsp;<img src="skills/B0186BC0LQ/skill_icon" alt="Stock Exchange icon" width="36"> [Stock Exchange](skills/B0186BC0LQ)
 
 *Alexa, open Stock Exchange*
@@ -10802,6 +10826,14 @@ A competitive game in which you answer questions using a word or phrase that beg
 *Alexa, ask Titus to find Seinfeld*
 
 Find where you can view your favorite TV shows on free, paid and subscription services like Amazon Prime, CBS or Crackle.
+
+***
+
+## &nbsp;<img src="skills/B01HPJ43TM/skill_icon" alt="Today I Learned icon" width="36"> [Today I Learned](skills/B01HPJ43TM)
+
+*Alexa, tell Today I Learned to teach me something*
+
+Learn something new with Today I Learned
 
 ***
 
