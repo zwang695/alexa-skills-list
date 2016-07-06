@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="FlightSearch icon" width="36"> [FlightSearch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ce7a976a-4f48-48f9-b3a6-e17c9547ab73)
-![1.8 stars](../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png) 10
+![1.7 stars](../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the FlightSearch skill, try saying...
 

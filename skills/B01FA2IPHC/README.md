@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Quotes from Charles Fillmore icon" width="36"> [Quotes from Charles Fillmore](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9817668d-0a9c-43e2-ba12-ceb9ff045ab3)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Quotes from Charles Fillmore skill, try saying...
 

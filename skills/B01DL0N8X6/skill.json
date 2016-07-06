@@ -4,7 +4,7 @@
     "accounts.google.com"
   ],
   "asin": "B01DL0N8X6",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": "Health-and-Fitness",
@@ -24,7 +24,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "cue fit",
   "name": "CueFit",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "rHBBnQiVd24D3Zlase19JBhAu",
   "permissions": null,
   "privacyPolicyUrl": "https://proness.kix.in/alexa/cuefit/privacy.html",

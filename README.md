@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1544
+**Total Skills Available:** 1545
 
 ***
 
@@ -4214,6 +4214,14 @@ A fun and interactive way to learn about florida facts
 *Alexa, launch Florida Trivia*
 
 Florida Trivia
+
+***
+
+## &nbsp;<img src="skills/B01HC82GAO/skill_icon" alt="Fluffy Radio icon" width="36"> [Fluffy Radio](skills/B01HC82GAO)
+
+*Alexa, ask Fluffy Radio to request Uptown Funk*
+
+The Fluffy Radio skill allows you to request songs to play on FluffyRadio.com
 
 ***
 

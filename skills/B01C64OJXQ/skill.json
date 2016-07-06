@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01C64OJXQ",
-  "averageRating": 1.8,
+  "averageRating": 1.7,
   "canDisable": true,
   "capabilities": null,
   "category": "Travel",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "flight search",
   "name": "FlightSearch",
-  "numberOfReviews": 10,
+  "numberOfReviews": 11,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

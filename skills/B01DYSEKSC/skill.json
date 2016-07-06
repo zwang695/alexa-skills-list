@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DYSEKSC",
-  "averageRating": 3.3,
+  "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
   "category": "Finance",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "stock quote",
   "name": "Stock Quote",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
