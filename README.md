@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1560
+**Total Skills Available:** 1561
 
 ***
 
@@ -5601,6 +5601,14 @@ Current and historical information about Tropical Storms and Hurricanes.
 
 ***
 
+## &nbsp;<img src="skills/B01G98LFFA/skill_icon" alt="iDevices icon" width="36"> [iDevices](skills/B01G98LFFA)
+
+*null*
+
+Control your iDevices connected home products with Alexa.
+
+***
+
 ## &nbsp;<img src="skills/B019YPG1AO/skill_icon" alt="Impossibly Hard Major League Baseball Quiz icon" width="36"> [Impossibly Hard Major League Baseball Quiz](skills/B019YPG1AO)
 
 *Alexa, launch Impossible Baseball Quiz*
@@ -7150,14 +7158,6 @@ Musician jokes
 
 ***
 
-## &nbsp;<img src="skills/B01BFPCXGW/skill_icon" alt="Music quiz icon" width="36"> [Music quiz](skills/B01BFPCXGW)
-
-*Alexa launch music quiz*
-
-Test your musical knowledge ! Listen to various songs and guess wich artist is behind.
-
-***
-
 ## &nbsp;<img src="skills/B01CEA1VHO/skill_icon" alt="Music Trivia icon" width="36"> [Music Trivia](skills/B01CEA1VHO)
 
 *Alexa, launch Music Trivia*
@@ -7267,6 +7267,14 @@ Aviation weather in an air traffic controller's vocabulary
 *Alexa, ask My Dermatologist what's the u. v. index*
 
 My Dermatologist is designed for your skin health. At My Dermatologist we will provide you with localized facts to assist you in protecting your skin.
+
+***
+
+## &nbsp;<img src="skills/B01F4WFJ5Y/skill_icon" alt="my dlink Home – Optimized for Smart Home icon" width="36"> [my dlink Home – Optimized for Smart Home](skills/B01F4WFJ5Y)
+
+*null*
+
+Controlling D-Link Smart Plugs by speaking to Alexa, directly connected to the mydlink Wi-Fi Smart Plug to help you turn on/off the plug.
 
 ***
 

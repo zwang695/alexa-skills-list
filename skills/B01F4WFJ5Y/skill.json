@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01F4WFJ5Y",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "Controlling D-Link Smart Plugs by speaking to Alexa, the voice-activated ‘personal home assistant’, directly connected to the mydlink Wi-Fi Smart Plug to help you turn on/off the plug. Through mydlink Smart Plug and voice-control, bringing older appliances - ’dumb’ coffeemakers and speakers – to life. \nTo link the mydlink Wi-Fi Smart Plug with Alexa, Click “Enable”, then a pop-up box will ask you to log into mydlink home account to allow Amazon to control the devices. \nSay “Alexa” to light up and activate the speaker, and then “Discover my device” to search your smart plugs under your account. Once it’s done, say “Alexa” Users can then say: “Turn on ‘kitchen light’” for the appliance/Smart Plug you have nicknamed within mydlink Home.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1467842234.295,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.80e34e23-0a3a-4631-985f-24974b844ff9",
+  "imageAltText": "my dlink Home – Optimized for Smart Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01F4WFJ5Y/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "my dlink Home – Optimized for Smart Home",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "ZqRc8Wbcm2b6JxA9gFlXJOT6H",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.mydlink.com/privacyPolicy",
+  "shortDescription": "Controlling D-Link Smart Plugs by speaking to Alexa, directly connected to the mydlink Wi-Fi Smart Plug to help you turn on/off the plug.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2C6QXRDTH7401",
+  "vendorName": "Dlink"
+}

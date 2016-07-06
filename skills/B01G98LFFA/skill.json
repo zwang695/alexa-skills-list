@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "amazon.com"
+  ],
+  "asin": "B01G98LFFA",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": "CONNECTED_HOME",
+  "description": "Use Alexa to control your iDevices Switch, Outdoor Switch, Thermostat, and Socket.  Tell Alexa to turn on/off your lights, set the dim level of your Socket, and adjust the temperature of your Thermostat.\n\nMake sure to log into your Amazon account in the iDevices Connected app for iOS to link your products.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1467842230.035,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.cbeef66c-d356-474e-b8f6-ccfb22cc72b0",
+  "imageAltText": "iDevices icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01G98LFFA/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "iDevices",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "SZejnWZVExgjFD1kj2A1YHgjs",
+  "permissions": null,
+  "privacyPolicyUrl": "http://idevicesinc.com/privacy/",
+  "shortDescription": "Control your iDevices connected home products with Alexa.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2X7W51CVNUSYH",
+  "vendorName": "iDevices, LLC"
+}
