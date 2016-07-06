@@ -9,7 +9,9 @@ To use the Richmond Virginia Facts skill, try saying...
 
 * *Alexa, start RVA Facts*
 
-Richmond, the capital of Virginia, is among America’s oldest cities. Learn some fun facts about Richmond, known locally as RVA.
+Richmond is the Southern capital of cool. Already well known for its rich history, Richmond is now emerging as a hip destination.  A flourishing craft-beer scene and a flurry of new restaurants reflect the creativity found in Virginia's soulful Southern city. 
+
+"Alexa, open RVA Facts" to learn some interesting facts about Richmond, the Southern capital of cool.
 
 ***
 

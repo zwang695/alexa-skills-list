@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Pregnancy Facts icon" width="36"> [Pregnancy Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.42e52c1f-55fd-4a39-971f-287acccc97e5)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Pregnancy Facts skill, try saying...
 

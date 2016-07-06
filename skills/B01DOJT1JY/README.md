@@ -7,7 +7,7 @@ To use the Scryb skill, try saying...
 
 * *Alexa, open Scryb*
 
-* *Alexa, tell Scryb that the phone number is 613-555-1212*
+* *Alexa, tell Scryb that the phone number is 613-555-1215*
 
 Scryb makes it easy for anyone to send a SMS text message hands-free from home, or when you don't have access to a smartphone.
 

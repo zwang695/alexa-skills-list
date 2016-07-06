@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Honeywell Total Connect Comfort icon" width="36"> [Honeywell Total Connect Comfort](http://alexa.amazon.com/#skills/amzn1.ask.skill.ddb5f0a7-5442-4564-b6f7-e2ecca895745)
-![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 60
+![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 61
 
 To use the Honeywell Total Connect Comfort skill, try saying...
 

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1554
+**Total Skills Available:** 1560
 
 ***
 
@@ -122,6 +122,14 @@ If you say "Alexa play 80's Movie Trivia" you will be presented with 5 questions
 *Alexa, ask A Cloud Guru to start a new exam*
 
 Are you studying for your Amazon Web Services Solutions Architect Associate exam? This Alexa app will help you study by asking you practice exam questions.
+
+***
+
+## &nbsp;<img src="skills/B01HCJSXKK/skill_icon" alt="A Cloud Guru Professional DevOps Quiz icon" width="36"> [A Cloud Guru Professional DevOps Quiz](skills/B01HCJSXKK)
+
+*Alexa, start A Cloud Guru Professional*
+
+Are you studying for your Amazon Web Services Professional DevOps Engineer exam? This Alexa app will help you study by asking you practice exam questions.
 
 ***
 
@@ -461,6 +469,14 @@ This test asks basic facts about the United States of America.
 *Alexa, launch American History Quiz*
 
 History Quiz
+
+***
+
+## &nbsp;<img src="skills/B01HYB6WCW/skill_icon" alt="American Presidents Game icon" width="36"> [American Presidents Game](skills/B01HYB6WCW)
+
+*Alexa, launch American Presidents*
+
+American Presidents Trivia game is a fun skill to help students master basic trivia about American Presidents.
 
 ***
 
@@ -2163,6 +2179,14 @@ Reads the WOD for CrossFit 1 Nation
 
 ***
 
+## &nbsp;<img src="skills/B01HUXZHQQ/skill_icon" alt="Chanakya Says icon" width="36"> [Chanakya Says](skills/B01HUXZHQQ)
+
+*Alexa ask chanakya says tell me  fact*
+
+Chanakya , Indian philosopher
+
+***
+
 ## &nbsp;<img src="skills/B01FT3GF4C/skill_icon" alt="Channel Finder icon" width="36"> [Channel Finder](skills/B01FT3GF4C)
 
 *Alexa, ask channel finder what is the channel number for comedy central?*
@@ -2488,6 +2512,16 @@ Maricopa County clean air
 *Alexa, open cloud explorer games*
 
 An Amazon Alexa skill to practice your knowledge about the culture of clouds.
+
+***
+
+## &nbsp;<img src="skills/B01HRMOGE4/skill_icon" alt="CloudStatus icon" width="36"> [CloudStatus](skills/B01HRMOGE4)
+
+*Alexa, ask CloudStatus about the Northern Virginia region*
+
+CloudStatus alerts you to any service disruptions in the AWS (Amazon Web Services) regions of your choice.
+
+Feedback: cloudstatus@stormyriver.com
 
 ***
 
@@ -4856,7 +4890,7 @@ Golf Fact is an Alexa skill about, what else, GOLF!
 
 ## &nbsp;<img src="skills/B01GEZVNKK/skill_icon" alt="Golf Shot Live icon" width="36"> [Golf Shot Live](skills/B01GEZVNKK)
 
-*Alexa, ask Golf Shot Live who is leading the tournament*
+*Alexa, ask Golf Shot Live, Who is leading the tournament?*
 
 A skill to get information about the current PGA Tour tournament.
 
@@ -4875,6 +4909,14 @@ Good Luck Guru tells about daily horoscope of your choice.
 *Alexa, ask goodmen where have the good men gone*
 
 Ask Alexa your troubles, where have the good men gone?
+
+***
+
+## &nbsp;<img src="skills/B01HKCDKK2/skill_icon" alt="Good News Bad News icon" width="36"> [Good News Bad News](skills/B01HKCDKK2)
+
+*Alexa, ask good-news-bad-news tell me the good news*
+
+Get the day's news broken down by good or bad news
 
 ***
 
@@ -9096,7 +9138,7 @@ A fun trivia game focused Richmond, Virginia in the US.
 
 *Alexa, open RVA Facts*
 
-Facts about the City of Richmond, Virginia
+Learn hip facts about Richmond, known locally as RVA.  Did you know that RVA hosts the nations largest outdoor sports and music festival?
 
 ***
 
@@ -9928,6 +9970,14 @@ On Demand Spelling Alphabet
 *Alexa, launch Spelling Bee*
 
 Welcome to spelling bee, the very first spelling game on Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01I15Y50G/skill_icon" alt="Spicy Chutney icon" width="36"> [Spicy Chutney](skills/B01I15Y50G)
+
+*Alexa, ask Spicy Chutney what's the recipe for coconut chutney*
+
+Welcome to the Spicy Chutney. This skill gives you the recipe for spicy Indian chutneys that you can accompany with various cuisines both veg and non veg.
 
 ***
 

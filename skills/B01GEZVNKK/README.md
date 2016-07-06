@@ -3,13 +3,19 @@
 
 To use the Golf Shot Live skill, try saying...
 
-* *Alexa, ask Golf Shot Live who is leading the tournament*
+* *Alexa, ask Golf Shot Live, Who is leading the tournament?*
 
-* *Alexa, ask Golf Shot Live how is Jordan Spieth playing*
+* *Alexa, ask Golf Shot Live, How is Lefty playing?*
 
-* *Alexa, ask Golf Shot Live who has made the most birdies*
+* *Alexa, ask Golf Shot Live, Who has made the most birdies?*
 
-A skill to get information about the current PGA Tour tournament.
+A skill to get find more information about the current PGA Tour tournament. You can even inquire about players using their nick names, such as "Lefty" for Phil Mickelson and "The Big Easy" for Ernie Els.
+
+Examples of questions you can ask:
+Alexa, ask Golf Shot Live, who is leading the tournament?
+Alexa, ask Golf Shot Live, how is The Big Easy playing?
+Alexa, ask Golf Shot Live, who has made the most birdies?
+Alexa, ask Golf Shot Live, what is the average score today?
 
 ***
 
