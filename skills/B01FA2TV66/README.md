@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="simplehuman sensor mirror pro icon" width="36"> [simplehuman sensor mirror pro](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ae7ba57f-87ec-448f-834a-64fba306957f)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the simplehuman sensor mirror pro skill, try saying...
 

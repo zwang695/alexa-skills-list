@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1545
+**Total Skills Available:** 1554
 
 ***
 
@@ -1562,6 +1562,14 @@ Ask Alexa to help you show off your crafting skills by answering over 30 differe
 
 ***
 
+## &nbsp;<img src="skills/B01HSSLXO8/skill_icon" alt="Blockchain Ticker icon" width="36"> [Blockchain Ticker](skills/B01HSSLXO8)
+
+*Alexa, ask block chain ticker what's the price of bitcoin*
+
+Have an interest in the booming crypto-currency markets? Block chain ticker lets you check the price and market cap of many of the popular cryptos.
+
+***
+
 ## &nbsp;<img src="skills/B01GM221CE/skill_icon" alt="bloregeek icon" width="36"> [bloregeek](skills/B01GM221CE)
 
 *Alexa ask city geek to tell me about bangalore*
@@ -1912,6 +1920,22 @@ Have Alexa call the hogs by saying:   "Alexa, Start Calling the Hogs".  Alexa wi
 *Alexa, ask Campbell's Kitchen what's for dinner*
 
 Your kitchen just got a whole lot smarter. Make dinnertime easy with a daily Top-5 list of triple-tested recipes, selected for your tastes and time preferences.
+
+***
+
+## &nbsp;<img src="skills/B01HU8P3WE/skill_icon" alt="Camping How To icon" width="36"> [Camping How To](skills/B01HU8P3WE)
+
+*Alexa, ask learn camping to teach me to make a fire*
+
+This skill gives brief instructions on how to perform a number of activities around a campsite.
+
+***
+
+## &nbsp;<img src="skills/B01HU8QGK2/skill_icon" alt="Camping Trivia icon" width="36"> [Camping Trivia](skills/B01HU8QGK2)
+
+*Alexa, play Camping Trivia*
+
+This Alexa App gives a random set of questions related to camping an parks.
 
 ***
 
@@ -3917,6 +3941,14 @@ Expense Tracker can help you keep track of your costs. Just add all your spendin
 *Alexa, Ask Extended Selenium Two for add cookie documentation.*
 
 Extended Selenium Two is a skill that can help you with keyword documentation for ExtendedSelenium2Library open source project.
+
+***
+
+## &nbsp;<img src="skills/B01HYMQBMC/skill_icon" alt="EyeTriviaGame icon" width="36"> [EyeTriviaGame](skills/B01HYMQBMC)
+
+*Alexa, launch Eye Trivia Game*
+
+Test your ophthalmology knowledge
 
 ***
 
@@ -6755,6 +6787,14 @@ Gets the train time and track number for Metro North
 
 ***
 
+## &nbsp;<img src="skills/B01HYJ7LZQ/skill_icon" alt="Michigan Frog Call Flash Cards icon" width="36"> [Michigan Frog Call Flash Cards](skills/B01HYJ7LZQ)
+
+*Alexa open frog calls*
+
+Michigan Frog Audio Flash Cards
+
+***
+
 ## &nbsp;<img src="skills/B01FVJ70AW/skill_icon" alt="Microcontroller Assist icon" width="36"> [Microcontroller Assist](skills/B01FVJ70AW)
 
 *Alexa, ask Microcontroller Assist to start the step*
@@ -7401,6 +7441,14 @@ Kids can ask Alexa whether or not they can have screen time instead of pestering
 *Alexa, ask National Day Tracker what's being celebrated today*
 
 National Day Tracker is a comprehensive database of national observances. Discover and celebrate fun-usual holidays!
+
+***
+
+## &nbsp;<img src="skills/B01HU7B2NO/skill_icon" alt="National Park Facts icon" width="36"> [National Park Facts](skills/B01HU7B2NO)
+
+*Alexa, ask national park facts to give me a national park fact*
+
+Learn fun facts about the United States National Parks!  Ask Alexa for a National Park Fact, and have her respond with an interesting park tidbit.
 
 ***
 
@@ -9124,6 +9172,14 @@ Converts a Roman Numeral to its value or a number to its Roman Numeral up to 499
 
 ***
 
+## &nbsp;<img src="skills/B01HR2WQIW/skill_icon" alt="Romantic Movie Quotes icon" width="36"> [Romantic Movie Quotes](skills/B01HR2WQIW)
+
+*Alexa, start loving me*
+
+Have Alexa read you the most romantic movie lines of all time!
+
+***
+
 ## &nbsp;<img src="skills/B01EW3BOZK/skill_icon" alt="RoundTuit To-Do List icon" width="36"> [RoundTuit To-Do List](skills/B01EW3BOZK)
 
 *Alexa, tell Round To It to create task pickup dry cleaning due on december fourth at three thirty pm*
@@ -9403,6 +9459,14 @@ Make learning about Shakespeare fun and interesting with Shakespeare Geek's triv
 *Alexa ask a quote from shakespeare*
 
 Hear a shakespeare quote and be delighted and enriched.
+
+***
+
+## &nbsp;<img src="skills/B01HW2KFRQ/skill_icon" alt="shark facts icon" width="36"> [shark facts](skills/B01HW2KFRQ)
+
+*Alexa, ask professor shark for a shark fact*
+
+interesting facts about sharks.
 
 ***
 
@@ -10754,6 +10818,14 @@ Use Tide Pooler to get tide information for major coastal cities.
 *Alexa, ask Tide Pooler when is the high tide in Seattle on Saturday*
 
 Returns tide information for a given city or state
+
+***
+
+## &nbsp;<img src="skills/B01HYTZJ3C/skill_icon" alt="Tide Report icon" width="36"> [Tide Report](skills/B01HYTZJ3C)
+
+*Alexa, open Tide Report.*
+
+Are you interested in tide information? Rely on Tide Report for High and Low Tide Predictions for dozens of cities for every day of the year.
 
 ***
 

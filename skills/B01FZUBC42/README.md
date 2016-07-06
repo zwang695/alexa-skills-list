@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Love Predictor icon" width="36"> [Love Predictor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4be2b173-581e-420b-8335-c7fe1a884e6a)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Love Predictor skill, try saying...
 
