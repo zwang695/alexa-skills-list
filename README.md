@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1562
+**Total Skills Available:** 1569
 
 ***
 
@@ -1365,6 +1365,14 @@ Learn a few selected Bible passages (about 20). I have memorized these, and they
 *Alexa play Bible Trivia*
 
 Bible Trivia
+
+***
+
+## &nbsp;<img src="skills/B01I0E3J78/skill_icon" alt="Bible verse icon" width="36"> [Bible verse](skills/B01I0E3J78)
+
+*Alexa, open bible verse and a new Verse*
+
+Bible Verse
 
 ***
 
@@ -4640,6 +4648,14 @@ Disclaimer:  This skill may not be suitable for all ages.
 
 ***
 
+## &nbsp;<img src="skills/B01HZ0RR3A/skill_icon" alt="Funny News icon" width="36"> [Funny News](skills/B01HZ0RR3A)
+
+*Alexa, ask Funny News for the headlines*
+
+Global news delivered via funny headlines
+
+***
+
 ## &nbsp;<img src="skills/B01H9GA3MW/skill_icon" alt="Funny Pun Now icon" width="36"> [Funny Pun Now](skills/B01H9GA3MW)
 
 *Alexa ask funny pun now for a pun*
@@ -6064,6 +6080,14 @@ Getting Korean Local Weather Information
 *Alexa, ask the L Train when it's coming?*
 
 Ask Alexa when the next train is coming to your NYC MTA L train stop, and listen to the current L train status.
+
+***
+
+## &nbsp;<img src="skills/B01HPIK770/skill_icon" alt="LA Surf Bot icon" width="36"> [LA Surf Bot](skills/B01HPIK770)
+
+*Alexa ask LA Surf Bot how's the surf at Malibu*
+
+Ask LA Surf Bot for current conditions, including wind and tide, at top LA surf spots.
 
 ***
 
@@ -7780,6 +7804,14 @@ A fun app to tell you facts about any number you could be curious about.
 *Alexa ask number trivia 31*
 
 Number trivia tells you interesting trivia about numbers.
+
+***
+
+## &nbsp;<img src="skills/B01HTX1LUI/skill_icon" alt="Number Trivia icon" width="36"> [Number Trivia](skills/B01HTX1LUI)
+
+*Alexa, ask Number Trivia for trivia for thirty three*
+
+A simple number trivia skill
 
 ***
 
@@ -11311,6 +11343,14 @@ Trivia game for Copa America. Covers 100 questions spanning 100 years of the bes
 
 ***
 
+## &nbsp;<img src="skills/B01HW0OO0C/skill_icon" alt="Trivia for Disney Fans icon" width="36"> [Trivia for Disney Fans](skills/B01HW0OO0C)
+
+*Alexa, open d. trivia*
+
+A fan made trivia game about Disney parks and films.
+
+***
+
 ## &nbsp;<img src="skills/B01B79547Q/skill_icon" alt="Trivia for Doctor Who icon" width="36"> [Trivia for Doctor Who](skills/B01B79547Q)
 
 *Alexa, ask the Doctor*
@@ -11671,6 +11711,14 @@ Tune your ukulele with Ukulele Tuner.
 
 ***
 
+## &nbsp;<img src="skills/B01HWYFDGW/skill_icon" alt="Ultimate Deadhead Quiz icon" width="36"> [Ultimate Deadhead Quiz](skills/B01HWYFDGW)
+
+*Alexa, open Deadhead Quiz*
+
+Test your Grateful Dead knowledge with short, 5-question trivia games. Hundreds of questions that are perfect for hardcore deadheads and new fans alike!
+
+***
+
 ## &nbsp;<img src="skills/B01ABABWF0/skill_icon" alt="UncleShakespeare icon" width="36"> [UncleShakespeare](skills/B01ABABWF0)
 
 *Alexa, Tell Uncle Shakespeare to insult me!*
@@ -12005,6 +12053,14 @@ On Demand Dry Cleaning & Laundry.
 *Alexa, ask Watch Aid when is the next The Walking Dead?*
 
 WatchAid keeps track of your favorite TV shows, let you know when a episode is available to watch and when the next one is airing.
+
+***
+
+## &nbsp;<img src="skills/B01HUNDM68/skill_icon" alt="water fact icon" width="36"> [water fact](skills/B01HUNDM68)
+
+*Alexa, ask h. two o. to give me a water fact*
+
+Some fun facts about water
 
 ***
 
