@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Campbell's Kitchen icon" width="36"> [Campbell's Kitchen](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dc23fc93-d0bd-4a84-8d45-6d738048b296)
-![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 17
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 18
 
 To use the Campbell's Kitchen skill, try saying...
 

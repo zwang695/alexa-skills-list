@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1561
+**Total Skills Available:** 1562
 
 ***
 
@@ -2160,6 +2160,14 @@ Caves Under Thornhill is a classic maze and monster game.
 *Alexa, ask Ceaseless who should I pray for today*
 
 Find out who to pray for each day and receive wisdom from the Bible with Ceaseless. Use it for daily prayer and devotion.
+
+***
+
+## &nbsp;<img src="skills/B01E4CK3H4/skill_icon" alt="CEIVA HomeView icon" width="36"> [CEIVA HomeView](skills/B01E4CK3H4)
+
+*Alexa ask My Utility how much Electricity have I used today?*
+
+Homeview tells you exactly how much energy and water you’re using, lets you check your thermostat and can check for water leaks.
 
 ***
 
