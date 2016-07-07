@@ -7073,7 +7073,7 @@ Just provide the mortgage principal amount, mortgage period in years, and intere
 
 *Alexa, ask Mosaic for good morning*
 
-Mosaic allows you to connect smart devices and digital services in one place, while controlling them like chatting with a friend on SMS, Slack or Amazon Alexa.
+Mosaic allows you to connect smart devices and digital services together, while controlling them like chatting with a friend on Facebook, SMS, Slack or Alexa.
 
 ***
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Livy icon" width="36"> [Livy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9f97412f-e15e-482c-9f6b-deb735a89e92)
-![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 6
+![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the Livy skill, try saying...
 

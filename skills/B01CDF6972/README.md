@@ -9,7 +9,7 @@ To use the Mosaic skill, try saying...
 
 * *Alexa, ask Mosaic to give me something relaxing*
 
-Mosaic allows you to connect smart devices and digital services together in one place, while controlling them as easily as chatting with a friend on SMS, Slack or with Amazon Alexa.
+Mosaic allows you to connect smart devices and digital services together in one place, while controlling them as easily as chatting with a friend on Amazon Alexa, Facebook Messenger, SMS or with Slack.
 
 All your devices & services in one place
 
@@ -25,12 +25,12 @@ First, enable the Mosaic Skill.
 Second, create a Mosaic account at https://saymosaic.com - it’s free!
 Finally, just link your favorite devices and services and start enjoying our pre-defined Mosaic workflows or create your own.
 
-A few examples of what you can do by saying “ask Mosaic for …”
+A few examples of what you can do by saying “ask Mosaic for/to …”
 To control your Hue and Lifx lights: 
 - “Turn on my lights” or “dim my lights” or “change color to blue”
 
- Want to know your fitbit goals:
-- “Fitbit goals”
+Want to know your tesla battery:
+- “Tesla battery”
 
 Maybe you’d like to warm up the house:
 - “Warm up the house” or “set temperature to 68 degrees”
@@ -41,8 +41,8 @@ Running any of your Mosaic workflows is easy:
 Not sure what commands you can use, no problem:
 - “Ask Mosaic to list commands”
 
-Slack & SMS
-Mosaic is also available as a Chatbot on Slack and SMS! For more details, please visit https://saymosaic.com
+Facebook Messenger, Slack & SMS
+Mosaic is also available as a Chatbot on Facebook Messenger, Slack and SMS! For more details, please visit https://saymosaic.com
 
 ***
 
