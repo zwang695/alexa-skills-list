@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1569
+**Total Skills Available:** 1575
 
 ***
 
@@ -509,6 +509,14 @@ Let's not forget the Ancient Greeks
 *Alexa, ask Angry Bard for a burn.*
 
 Have at you, knave! The Angry Bard skill is ready to throw barbs from the Bard anytime you like. Each insult is a quote selected from among the works of William Shakespeare, given together with the name of the piece from which it's taken. A text copy of the quote and its source are also sent to the Alexa app.
+
+***
+
+## &nbsp;<img src="skills/B01HUEOMCK/skill_icon" alt="Angry Quotes icon" width="36"> [Angry Quotes](skills/B01HUEOMCK)
+
+*Alexa, open angry quotes*
+
+Angry Alexa
 
 ***
 
@@ -2626,6 +2634,14 @@ Test your College Basketball knowledge with a series of trivia questions surroun
 *Alexa, ask football trivia to kickoff*
 
 Think you know College Football? Think again! Try to score as many touchdowns as possible in College Football Trivia!
+
+***
+
+## &nbsp;<img src="skills/B01EUNCS52/skill_icon" alt="Color Convert icon" width="36"> [Color Convert](skills/B01EUNCS52)
+
+*Alexa, ask Color Convert to convert hex F F 0 0 F F to rgb*
+
+Allows you to give Alexa a color in hex, rgb, or hsl format and have it converted to hex, rgb, or hsl formats.
 
 ***
 
@@ -7895,6 +7911,14 @@ Sports Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01HIXMAI6/skill_icon" alt="Olaf's Havamals icon" width="36"> [Olaf's Havamals](skills/B01HIXMAI6)
+
+*Alexa, ask Olaf Odinsson for some Viking Wisdom*
+
+The Viking Havamals were bits of wisdom collected from the Norse.
+
+***
+
 ## &nbsp;<img src="skills/B01FWNGB7U/skill_icon" alt="One Ferry Away icon" width="36"> [One Ferry Away](skills/B01FWNGB7U)
 
 *Alexa, ask one ferry for what cities*
@@ -9580,7 +9604,7 @@ Shootipedia
 
 *Alexa, ask meat seeker to find me the cheapest sardines.*
 
-Skill to query crawler-collected grocery store weekly circular data and find cheapest place to buy a particular item.
+Skill to query crawler-collected Seattle grocery store weekly circular data and find cheapest place to buy a particular item.
 
 ***
 
@@ -10863,6 +10887,14 @@ Thirteen is a fun number game where Alexa and you need to form number 13.
 
 ***
 
+## &nbsp;<img src="skills/B01HR1XZUQ/skill_icon" alt="Thirukkural icon" width="36"> [Thirukkural](skills/B01HR1XZUQ)
+
+*Alexa open english thirukkural*
+
+This Alexa  Skill will enlighten you with a proverb(kural) written by Thiruvalluvar (Tamil Poet) in English
+
+***
+
 ## &nbsp;<img src="skills/B01EXUGAME/skill_icon" alt="This Day in History icon" width="36"> [This Day in History](skills/B01EXUGAME)
 
 *Alexa ask This Day In History*
@@ -11719,6 +11751,14 @@ Test your Grateful Dead knowledge with short, 5-question trivia games. Hundreds 
 
 ***
 
+## &nbsp;<img src="skills/B01F083MGA/skill_icon" alt="Ultimate RK icon" width="36"> [Ultimate RK](skills/B01F083MGA)
+
+*Alexa, begin ultimate boy*
+
+Have a laughter ride with this skill. Just say "Alexa, Open ultimate boy".
+
+***
+
 ## &nbsp;<img src="skills/B01ABABWF0/skill_icon" alt="UncleShakespeare icon" width="36"> [UncleShakespeare](skills/B01ABABWF0)
 
 *Alexa, Tell Uncle Shakespeare to insult me!*
@@ -12374,6 +12414,14 @@ This skill gives you a random exercise to do.
 *Alexa, ask Workout Helper what workout is suitable when I am happy*
 
 WorkoutHelper is a skill that can help you with workout recipes for your current mood.
+
+***
+
+## &nbsp;<img src="skills/B01I2G7U9W/skill_icon" alt="World Cup Facts icon" width="36"> [World Cup Facts](skills/B01I2G7U9W)
+
+*Alexa, open World Cup Facts.*
+
+Learn simple World Cup facts.
 
 ***
 

@@ -1,7 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": [
     "home.myharmony.com",
-    "accounts.logi.com"
+    "accounts.logi.com",
+    "facebook.com",
+    "accounts.google.com",
+    "apis.google.com",
+    "content.googleapis.com"
   ],
   "asin": "B01EUK3G10",
   "averageRating": 2,
@@ -25,7 +29,7 @@
   "launchPhrase": "harmony hub",
   "name": "Eric's Integration for Logitech Harmony",
   "numberOfReviews": 9,
-  "pamsPartnerId": "Hawf31vKV8HuwEVRAf91O62nb",
+  "pamsPartnerId": "iO3ZonDWkvHjisZfhNyS6tPrw",
   "permissions": null,
   "privacyPolicyUrl": "https://alexitech-b.mrsonicblue.com/Help/Privacy",
   "shortDescription": "This skill allows access to all activities on your Logitech Harmony Hubs",

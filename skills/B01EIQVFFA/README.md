@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Caséta Wireless icon" width="36"> [Caséta Wireless](http://alexa.amazon.com/#skills/amzn1.ask.skill.9580dbe1-649a-4d30-bff6-9e790c26d4fe)
-![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 10
+![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 11
 
 To use the Caséta Wireless skill, try saying...
 

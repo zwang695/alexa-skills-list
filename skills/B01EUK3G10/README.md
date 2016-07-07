@@ -22,5 +22,5 @@ You must have a Logitech Harmony Hub to use this skill. When you activate the sk
 * **Author:** Eric Schneider
 * **Release Date:** June 25, 2016 @ 05:46:05
 * **Privacy Policy:** https://alexitech-b.mrsonicblue.com/Help/Privacy
-* **Account Linking Domains:** home.myharmony.com, accounts.logi.com
+* **Account Linking Domains:** home.myharmony.com, accounts.logi.com, facebook.com, accounts.google.com, apis.google.com, content.googleapis.com
 * **In-App Purchasing:** No

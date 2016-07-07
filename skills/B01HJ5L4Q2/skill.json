@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Protein is the most expensive part of any meal, and you can save a lot of money buying it on sale. With this app you can say, \"Alexa, ask meat seeker who is selling the cheapest chicken thighs\", and it tell you where to buy it and for how much. The weekly circular data from multiple local grocery stores is automatically collected via a backend web crawler into a database, which meat seeker uses to find the best bargains for you.",
+  "description": "Protein is the most expensive part of any meal, and you can save a lot of money buying it on sale. With this app you can say, \"Alexa, ask meat seeker who is selling the cheapest chicken thighs\", and it tell you where in Seattle to buy it and for how much. The weekly circular data from multiple local grocery stores is automatically collected via a backend web crawler into a database, which meat seeker uses to find the best bargains for you.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask meat seeker to find me the cheapest sardines.",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Skill to query crawler-collected grocery store weekly circular data and find cheapest place to buy a particular item.",
+  "shortDescription": "Skill to query crawler-collected Seattle grocery store weekly circular data and find cheapest place to buy a particular item.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

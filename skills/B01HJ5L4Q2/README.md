@@ -9,7 +9,7 @@ To use the shopper skill, try saying...
 
 * *Alexa, ask meat seeker to find me the cheapest ribeye steak.*
 
-Protein is the most expensive part of any meal, and you can save a lot of money buying it on sale. With this app you can say, "Alexa, ask meat seeker who is selling the cheapest chicken thighs", and it tell you where to buy it and for how much. The weekly circular data from multiple local grocery stores is automatically collected via a backend web crawler into a database, which meat seeker uses to find the best bargains for you.
+Protein is the most expensive part of any meal, and you can save a lot of money buying it on sale. With this app you can say, "Alexa, ask meat seeker who is selling the cheapest chicken thighs", and it tell you where in Seattle to buy it and for how much. The weekly circular data from multiple local grocery stores is automatically collected via a backend web crawler into a database, which meat seeker uses to find the best bargains for you.
 
 ***
 
