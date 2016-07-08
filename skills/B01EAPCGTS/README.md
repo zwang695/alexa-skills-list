@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Zoo Walk icon" width="36"> [Zoo Walk](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.20b1dc63-2f92-4f5e-a553-ce083c662bca)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Zoo Walk skill, try saying...
 

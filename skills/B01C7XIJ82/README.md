@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Children's Bible Quiz icon" width="36"> [Children's Bible Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c4e73397-2f52-44e6-b986-48a503df140b)
-![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Children's Bible Quiz skill, try saying...
 

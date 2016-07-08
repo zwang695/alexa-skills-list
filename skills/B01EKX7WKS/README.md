@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Aromatherapy icon" width="36"> [Aromatherapy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c2984701-7096-4325-b3d0-0a6dcfc4f220)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Aromatherapy skill, try saying...
 
