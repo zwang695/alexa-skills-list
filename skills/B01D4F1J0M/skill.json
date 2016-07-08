@@ -3,7 +3,7 @@
     "ourgroceries.com"
   ],
   "asin": "B01D4F1J0M",
-  "averageRating": 3.5,
+  "averageRating": 3.4,
   "canDisable": true,
   "capabilities": null,
   "category": "Food/Cooking",
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "our groceries",
   "name": "OurGroceries",
-  "numberOfReviews": 20,
+  "numberOfReviews": 21,
   "pamsPartnerId": "2R7F3wZkZoDjMOXbHBO4k8Nfa",
   "permissions": null,
   "privacyPolicyUrl": "https://www.ourgroceries.com/privacy",

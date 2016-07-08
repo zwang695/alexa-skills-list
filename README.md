@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1575
+**Total Skills Available:** 1582
 
 ***
 
@@ -429,6 +429,14 @@ Great skill for teaching the Alphabet Letters. Alexa will ask you what letter a 
 *Ask Always Sunny trivia*
 
 Always Sunny in Philadelphia Trivia Game!
+
+***
+
+## &nbsp;<img src="skills/B01I2FI7FY/skill_icon" alt="Amazing Facts icon" width="36"> [Amazing Facts](skills/B01I2FI7FY)
+
+*Alexa, ask Amazing Facts to tell a fact*
+
+Amazing Facts
 
 ***
 
@@ -4259,6 +4267,22 @@ Five Card Draw
 
 ***
 
+## &nbsp;<img src="skills/B01HLOPNBI/skill_icon" alt="Flash Card Quiz for Citrix Ports icon" width="36"> [Flash Card Quiz for Citrix Ports](skills/B01HLOPNBI)
+
+*Alexa, start flash port quiz*
+
+Flashcards for ports used by Citrix products
+
+***
+
+## &nbsp;<img src="skills/B01HLQ9O02/skill_icon" alt="FlashCardTemplateAndrew icon" width="36"> [FlashCardTemplateAndrew](skills/B01HLQ9O02)
+
+*Alexa, open Subtraction Addition Flashcards*
+
+Learn simple addition and subtraction
+
+***
+
 ## &nbsp;<img src="skills/B01DBIH0JQ/skill_icon" alt="Flavor Text for Hearthstone icon" width="36"> [Flavor Text for Hearthstone](skills/B01DBIH0JQ)
 
 *Alexa, open Flavor Text*
@@ -5662,6 +5686,14 @@ You should not take this baseball quiz. It  may be the hardest baseball quiz in 
 *Alexa, ask InControl to activate the scene leaving home.*
 
 Control your home automation devices, including z-wave, Philips Hue, Nest and Sonos. Lights, devices and scenes can be activated using voice control.
+
+***
+
+## &nbsp;<img src="skills/B01HLODGXU/skill_icon" alt="Incredible India icon" width="36"> [Incredible India](skills/B01HLODGXU)
+
+*Alexa, Start india states*
+
+Incredible India
 
 ***
 
@@ -8618,6 +8650,14 @@ Quiz questions about prime numbers
 
 ***
 
+## &nbsp;<img src="skills/B01I4XDOLG/skill_icon" alt="Pro Basketball Trivia icon" width="36"> [Pro Basketball Trivia](skills/B01I4XDOLG)
+
+*Alexa, Play Pro Basketball Trivia*
+
+Game to test your knowledge of Pro Basketball
+
+***
+
 ## &nbsp;<img src="skills/B01GDRZYCW/skill_icon" alt="Programming Language Summaries icon" width="36"> [Programming Language Summaries](skills/B01GDRZYCW)
 
 *Alexa, ask Programming Languages about javascript*
@@ -10002,6 +10042,14 @@ Top 20 Spanish Words: Game to teach you twenty of most popular Spanish words.
 *Alexa, Spanish quiz*
 
 Spanish Quiz
+
+***
+
+## &nbsp;<img src="skills/B01HZ4S01O/skill_icon" alt="Speak Gelato icon" width="36"> [Speak Gelato](skills/B01HZ4S01O)
+
+*Alexa, open speak gelato.*
+
+Order your next gelato with confidence! Learn to pronounce your favorite flavors like a pro.
 
 ***
 
@@ -11404,6 +11452,14 @@ A fun trivia for fans of Superman. Alexa, launch Superman Trivia
 *Alexa, launch formula one trivia*
 
 A challenging Formula 1 trivia game, to test your knowledge of the sport.
+
+***
+
+## &nbsp;<img src="skills/B01HUBFJDY/skill_icon" alt="Trivia for Friends icon" width="36"> [Trivia for Friends](skills/B01HUBFJDY)
+
+*Alexa, ask T. V. Trivia to start new game*
+
+Test your Friends knowledge, based on the T.V. Show Friends. *Disclaimer: may not be suitable for all ages
 
 ***
 

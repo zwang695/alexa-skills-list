@@ -9,7 +9,7 @@ To use the EyeTriviaGame skill, try saying...
 
 * *Help*
 
-Test your ophthalmology knowledge with multiple choice questions, including anatomy, physiology, genetics, and more.
+Test your ophthalmology knowledge with multiple choice questions, including anatomy, physiology, genetics, and more. Prepare for FRCOphth, MRCSI, FEBO, OKAP, ICO, and other examinations.
 
 ***
 
