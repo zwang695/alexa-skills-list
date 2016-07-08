@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1582
+**Total Skills Available:** 1584
 
 ***
 
@@ -7951,6 +7951,14 @@ The Viking Havamals were bits of wisdom collected from the Norse.
 
 ***
 
+## &nbsp;<img src="skills/B01I4K4SRI/skill_icon" alt="Old MacDonald icon" width="36"> [Old MacDonald](skills/B01I4K4SRI)
+
+*Alexa, ask Old MacDonald for a duck*
+
+Bring the classic nursery rhyme to life with this fun interactive skill for animal lovers of all ages.  Moo!
+
+***
+
 ## &nbsp;<img src="skills/B01FWNGB7U/skill_icon" alt="One Ferry Away icon" width="36"> [One Ferry Away](skills/B01FWNGB7U)
 
 *Alexa, ask one ferry for what cities*
@@ -8631,6 +8639,14 @@ Get in the campaign spirit and test your US President trivia knowledge.
 *Alexa, launch Presidents*
 
 Hail to the Chief! Test your knowledge in this trivia game about US presidents past and present.
+
+***
+
+## &nbsp;<img src="skills/B01I24QY14/skill_icon" alt="Presidio Bus icon" width="36"> [Presidio Bus](skills/B01I24QY14)
+
+*Alexa, ask Presidio bus*
+
+Tells you when the next Presidio Shuttle will arrive at Baker Beach
 
 ***
 
