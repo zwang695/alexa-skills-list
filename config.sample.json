@@ -3,7 +3,9 @@
     "url": "https://pitangui.amazon.com",
     "cookies": {
       "at-main": "<COPY/PASTE FROM COOKIES>",
-      "ubid-main": "<COPY/PASTE FROM COOKIES>"
+      "sess-at-main": "<COPY/PASTE FROM COOKIES>",
+      "ubid-main": "<COPY/PASTE FROM COOKIES>",
+      "x-main": "<COPY/PASTE FROM COOKIES>"
     },
     "cacheTime": 3600000
   },
