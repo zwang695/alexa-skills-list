@@ -16,7 +16,7 @@ ColorHex is allows you to convert between color names and their corresponding he
 ### Skill Details
 
 * **Invocation Name:** color hex
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8de11fe7-d47f-4d40-af4d-8a5864ac3ca3
 * **ASIN:** B01ENNBNCI
 * **Author:** Noah

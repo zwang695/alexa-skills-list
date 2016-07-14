@@ -16,7 +16,7 @@ In keeping with the heritage of the Navy this skill will let you know the signif
 ### Skill Details
 
 * **Invocation Name:** navy history
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b1e3d85a-12ad-4893-8c60-52bb403134a3
 * **ASIN:** B01FG5FPF8
 * **Author:** Frank Phillips

@@ -18,7 +18,7 @@ Motivate me provides your Motivations Quotes to keep you going.
 ### Skill Details
 
 * **Invocation Name:** motivate me
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4b699841-00f7-48cf-bbfc-6b2bfbf1458d
 * **ASIN:** B01FERN1UY
 * **Author:** Praveen Modi

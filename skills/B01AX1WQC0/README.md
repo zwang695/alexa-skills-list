@@ -16,7 +16,7 @@ My Dermatologist provides localized information including the current UV index, 
 ### Skill Details
 
 * **Invocation Name:** my dermatologist
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.af88d11e-47fe-4da7-b125-ed85bbfaefb5
 * **ASIN:** B01AX1WQC0
 * **Author:** My Dermatologist

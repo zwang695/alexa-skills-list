@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Whether you want to test your knowledge about Disney or just want to have some fun, this skill is for you. \nAs you start the game, it will ask you total 5 multiple-choice questions related to Disney and as you give the correct answers, you score the points.\nNote: This game is not developed or sponsored by Disney.",
   "enablement": null,
   "exampleInteractions": [

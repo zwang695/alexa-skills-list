@@ -18,7 +18,7 @@ When launched this skill will greet you as The Dude. From there you can begin on
 ### Skill Details
 
 * **Invocation Name:** the dude
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.24f14c2d-5b34-4253-9c62-fa019a4efc7b
 * **ASIN:** B01AB8XKC0
 * **Author:** TonyAngelo

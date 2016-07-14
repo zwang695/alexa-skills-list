@@ -16,7 +16,7 @@ The latest technology news and information on startups.
 ### Skill Details
 
 * **Invocation Name:** techcrunch news
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.10b9a3c7-aec3-40b9-87e5-4fe445849799
 * **ASIN:** B017OBRFDC
 * **Author:** AOL Inc.

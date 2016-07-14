@@ -17,7 +17,7 @@ you need to deal with minor emergencies such as cuts, scrapes, nosebleeds, and m
 ### Skill Details
 
 * **Invocation Name:** first aid egghead
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5122fc05-ce5f-4d6a-9f17-094da9867381
 * **ASIN:** B01COSUL7C
 * **Author:** Wayne Brooks

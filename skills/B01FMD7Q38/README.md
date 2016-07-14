@@ -22,7 +22,7 @@ Warning: Content may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** it's five now
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.871249bf-e685-44a3-afcf-f6ce33d3669e
 * **ASIN:** B01FMD7Q38
 * **Author:** David Luna

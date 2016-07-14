@@ -1,10 +1,10 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DJS8YUC",
-  "averageRating": 3,
+  "averageRating": 2.4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "\"Hey honey, can you remember this number for me?\"  Sick of relying on humans to remember a phone number so you can have them tell it back to you when you grab the phone? I'm not, because I use the Elephant Number Rememberer skill.  Simply ask Elephant Number Rememberer to remember a number for you, and then recall it whenever you want.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "elephant number rememberer",
   "name": "Elephant Number Rememberer",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://pk-alexa.herokuapp.com/policies/elephant_privacypolicy.html",

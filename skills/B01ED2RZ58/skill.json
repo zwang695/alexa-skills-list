@@ -4,7 +4,7 @@
   "averageRating": 4.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This skill reads out the definition of the Merriam-Webster Buzzword of the day from their wordcentral.com website. Optionally it reads out an example usage of the word and a quiz related to the word.\nIn the quiz, saying \"The answer is B\" for example, helps Alexa to hear better than just saying \"B\" on its own. You can say \"pass\" if you do not know the answer, or just have a guess for fun.\nYou can say \"repeat\" at most stages to hear a section again.\nThis buzzword is more suitable for younger humanoids or those learning English.\nThis skill is not written by Merriam-Webster so errors or omissions are probably my own.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "daily buzzword",
   "name": "Daily Buzzword",
-  "numberOfReviews": 7,
+  "numberOfReviews": 6,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

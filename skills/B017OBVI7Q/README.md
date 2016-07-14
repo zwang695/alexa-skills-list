@@ -16,7 +16,7 @@ Trivia Talk is a multiple choice trivia game you can play by yourself or with yo
 ### Skill Details
 
 * **Invocation Name:** trivia talk
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a5120771-d1d8-4d89-ae35-eec3b3f3410c
 * **ASIN:** B017OBVI7Q
 * **Author:** Zerovoid Software

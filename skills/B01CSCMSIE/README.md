@@ -12,7 +12,7 @@ Someone told a bad joke? Let them know with the Alexa boo Skill.
 ### Skill Details
 
 * **Invocation Name:** boo
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cfd83644-000d-411e-b924-c5ab82900f6c
 * **ASIN:** B01CSCMSIE
 * **Author:** Matchbox mobile

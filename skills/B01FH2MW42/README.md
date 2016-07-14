@@ -24,7 +24,7 @@ Up-to-date information on the world of wrestling. Skill includes:
 ### Skill Details
 
 * **Invocation Name:** wrestling facts
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.55143726-3ee6-4246-8cab-6a4a38165b81
 * **ASIN:** B01FH2MW42
 * **Author:** NSojourner

@@ -16,7 +16,7 @@ Don't miss the boat! Get the next departure times for any route in the Washingto
 ### Skill Details
 
 * **Invocation Name:** washington state ferry
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c9b66172-8af5-46d1-b243-89a358beb229
 * **ASIN:** B01FROAWB0
 * **Author:** Blink UX

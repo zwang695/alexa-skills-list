@@ -21,7 +21,7 @@ Mathematical consulting by Bonnie Peterson.
 ### Skill Details
 
 * **Invocation Name:** biorhythm
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.de9b26a6-2c96-448b-aa20-1c89efc92a78
 * **ASIN:** B018YJUQ3Y
 * **Author:** Pete Peterson

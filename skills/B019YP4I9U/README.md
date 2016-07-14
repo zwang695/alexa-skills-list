@@ -18,7 +18,7 @@ Now you can take your time learning a few capitals a day, because the latest ver
 ### Skill Details
 
 * **Invocation Name:** capital quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.00edb759-d8b1-46a2-b3a6-576c13c29117
 * **ASIN:** B019YP4I9U
 * **Author:** Futurose LLC

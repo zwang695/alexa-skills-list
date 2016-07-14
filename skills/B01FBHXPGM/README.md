@@ -18,7 +18,7 @@ These daily thoughts are taken from the writings of Myrtle Fillmore such as "How
 ### Skill Details
 
 * **Invocation Name:** myrtle fillmore
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5b0293ca-b051-4cb3-8c60-f41fc89d24bb
 * **ASIN:** B01FBHXPGM
 * **Author:** Unity App Design

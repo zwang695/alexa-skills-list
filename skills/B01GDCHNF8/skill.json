@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Asks you some multiple choice questions about the Ruby language and Rails web framework",
   "enablement": null,
   "exampleInteractions": [

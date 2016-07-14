@@ -4,7 +4,7 @@
   "averageRating": 4.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Resistor Decoder tells you the value of one or more resistors when you read the resistors' color bands aloud. You can read through as many resistors as you like without re-launching the Skill or having to say \"tell me the value of...\" for each subsequent resistor. This provides a quick, hands-free way to sort through a pile of resistors.  \n\nResistor Decoder supports 3-, 4-, and 5-band resistors.  It also warns you if a resistor value isn't one of the Standard EIA Decade values.  (A non-standard value usually means you read the colors wrong.)",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Are you interested in hearing a fun fact about beer? Ask beer geek to tell you a beer fact!  Due to the nature of this skill, it may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [

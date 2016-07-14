@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "A simple trivia game that tests your knowledge of our 40th president",
   "enablement": null,
   "exampleInteractions": [

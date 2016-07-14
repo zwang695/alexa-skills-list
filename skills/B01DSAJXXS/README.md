@@ -19,7 +19,7 @@ Try to complete all questions !
 ### Skill Details
 
 * **Invocation Name:** europe knowledge
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ef5bb6f6-f4a9-4a60-be41-0b8e615cb572
 * **ASIN:** B01DSAJXXS
 * **Author:** CoolCloud.io

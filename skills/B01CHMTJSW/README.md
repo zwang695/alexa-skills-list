@@ -28,7 +28,7 @@ Have fun and do leave a feedback!
 ### Skill Details
 
 * **Invocation Name:** tic tac toe
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a606fd3d-294d-4c8f-9d5c-d77081dee2e1
 * **ASIN:** B01CHMTJSW
 * **Author:** TC Leu

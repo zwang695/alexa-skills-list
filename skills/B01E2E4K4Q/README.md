@@ -18,7 +18,7 @@ Just install the skill onto your Echo and say one of the example phrases to get 
 ### Skill Details
 
 * **Invocation Name:** quiz for apple
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4ce396d2-69b7-40d7-b029-2b1be747042e
 * **ASIN:** B01E2E4K4Q
 * **Author:** sh0rtfuse

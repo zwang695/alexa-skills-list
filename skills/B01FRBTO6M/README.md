@@ -12,7 +12,7 @@ This game let us know what is the zodiac symbol for a specific date
 ### Skill Details
 
 * **Invocation Name:** zodiac trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fbaf4eee-b839-44f7-bbe8-fd4e8c6cd2bd
 * **ASIN:** B01FRBTO6M
 * **Author:** Alberto Vidana

@@ -16,7 +16,7 @@ Simple science trivia game
 ### Skill Details
 
 * **Invocation Name:** science trivia game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.54f01575-49ef-46cf-a996-be30c5772d69
 * **ASIN:** B01CDOOAD8
 * **Author:** JPV Consulting

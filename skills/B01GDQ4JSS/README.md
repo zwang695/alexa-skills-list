@@ -16,7 +16,7 @@ This is a list of inspirational quotes provided upon request. Simply ask Alexa t
 ### Skill Details
 
 * **Invocation Name:** inspire me
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e429dea6-f3a8-43f4-9261-b0ae755e5b27
 * **ASIN:** B01GDQ4JSS
 * **Author:** ALPHABETO

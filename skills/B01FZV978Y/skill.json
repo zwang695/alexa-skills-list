@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Not sure where to eat in NYC? This skill has all the best curated answers. Just ask NYC eats for a suggestion. The first version is just random places, but in the future you can ask it for dessert, an area, or even directions.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Lets see how many correct answers you get out of 5 questions about Bollywood.
 ### Skill Details
 
 * **Invocation Name:** bollywood trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.315517f0-f31f-406d-8dc4-97a766f7aff9
 * **ASIN:** B01EB0V9Y0
 * **Author:** Chetan Rathod

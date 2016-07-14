@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "Get the spot price of DogeCoin, one of the top crypto-currencies worldwide!\n\nSimply ask \"Alexa, start dogecoin!\" And youi'll get the price of DogeCoin instantly.\n\nTo learn more about DogeCoin, please visit http://dogecoin.com/",
   "enablement": null,
   "exampleInteractions": [

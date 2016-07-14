@@ -20,7 +20,7 @@ Simply say: "Alexa, open The Law!"
 ### Skill Details
 
 * **Invocation Name:** the law
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3e2ce841-fa50-412a-a1c0-887df2585aa8
 * **ASIN:** B01B7AHS8I
 * **Author:** Troogle

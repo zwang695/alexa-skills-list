@@ -1,10 +1,10 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DE6PG9Q",
-  "averageRating": 2.5,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "This skill returns the next NJ Transit train that runs from one station to another station.\nCurrent version returns information for next single train.\nfor example you can say, \"Alexa ask NJ Transit train when is the next train from New York to Newark Airport\" Current version only supports direct connections.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "n. j. transit train",
   "name": "NJ Transit Train Schedule",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

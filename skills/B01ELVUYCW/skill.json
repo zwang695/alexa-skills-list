@@ -4,13 +4,13 @@
   "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Never miss the bus again!\n\nJust say \"Alexa, open OneBusAway\" to get started.  You'll set your city and favorite stop, using the stop number.  Then, just say \"Alexa, open OneBusAway\" to get arrival times for your favorite stop.  You can also change your city or stop at any point, or ask OneBusAway to repeat the last information.\n\nYou can find your stop number on the placard in the bus zone, in your OneBusAway mobile app, or on your agency website.  For more information on finding your stop number, see http://bit.ly/stopnumber.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open OneBusAway",
     "Alexa, ask OneBusAway where is my bus?",
-    "Alexa, set my stop to 6497"
+    "Alexa, ask OneBusAway to set my stop to 6497"
   ],
   "firstReleaseDate": 1461800825.292,
   "homepageLinkText": null,
@@ -28,7 +28,7 @@
   "shortDescription": "Real-time transit information for Atlanta, Rogue Valley, San Diego, Seattle/Tacoma/Puget Sound, Tampa Bay, Washington, D.C., and York Region (Canada)",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "https://github.com/OneBusAway/onebusaway-alexa/blob/master/LICENSE",
   "vendorId": "M1OFJ4MUEB2F5G",
   "vendorName": "OneBusAway"
 }

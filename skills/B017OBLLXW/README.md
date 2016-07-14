@@ -16,7 +16,7 @@ Teacher for Alexa is a fun and interactive way to learn basic math through a ser
 ### Skill Details
 
 * **Invocation Name:** teacher
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a6c137e7-ef09-4a5d-a8b6-131d428bc0d8
 * **ASIN:** B017OBLLXW
 * **Author:** Haxio

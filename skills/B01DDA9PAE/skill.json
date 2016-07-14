@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Animals are so weird, you guys. Do you know just how weird? Play this fun, multiple-choice trivia challenge and test your knowledge. \n\nAlexa will read you a questions and give you four answers to choose from. You can just say the number of the answer, but you should be able to prevaricate a little (\"uhhh....\") before you give the number. If you get it right, you get points! If you get it wrong, Alexa will sass you.\n\nYou can skip questions, but they will count as wrong, and Alexa will still sass you. You can repeat without penalty",
   "enablement": null,
   "exampleInteractions": [

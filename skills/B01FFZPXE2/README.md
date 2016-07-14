@@ -16,7 +16,7 @@ Does Alexa know all the ingredients to a Happy Marriage?  Play with your spouse 
 ### Skill Details
 
 * **Invocation Name:** happy marriage helper
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5c224cd7-977f-40a9-8842-d2e395b57462
 * **ASIN:** B01FFZPXE2
 * **Author:** GrayOrbit, LLC

@@ -61,7 +61,7 @@ If you still have trouble, contact support@muzzley.com and we can work with you 
 ### Skill Details
 
 * **Invocation Name:** muzzley
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fe8f3ba4-1675-4a47-8fc0-b9b265c061cd
 * **ASIN:** B01CKGPA06
 * **Author:** Muzzley

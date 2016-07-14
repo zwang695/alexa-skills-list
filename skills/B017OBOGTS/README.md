@@ -16,7 +16,7 @@ Two factions dominate the Starlanes, the transit pathways of the known universe.
 ### Skill Details
 
 * **Invocation Name:** star lanes
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.94b235e8-1919-4c4c-89cd-80085bdfecad
 * **ASIN:** B017OBOGTS
 * **Author:** TsaTsaTzu

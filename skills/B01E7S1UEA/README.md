@@ -16,7 +16,7 @@ Learn some interesting facts about fish! Pretty sure you will learn a few new th
 ### Skill Details
 
 * **Invocation Name:** go fish
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d78dd010-65ff-43b6-9295-f11c445b6dfc
 * **ASIN:** B01E7S1UEA
 * **Author:** thirteen23

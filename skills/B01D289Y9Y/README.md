@@ -16,7 +16,7 @@ Think you know all things Superman ? Take this challenge that tests your Superma
 ### Skill Details
 
 * **Invocation Name:** superman trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dd5f668b-0576-49b0-9d5c-d3ed764e5b02
 * **ASIN:** B01D289Y9Y
 * **Author:** James Co

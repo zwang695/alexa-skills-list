@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Quiz Bowl is a trivia game that tests the player's knowledge of varied subjects from science to literature to sports.  Each question is asked in a simple multiple-choice format to be answered by the player.  Five questions are asked at a time for quick fun.  Be sure to discover all the questions!",
   "enablement": null,
   "exampleInteractions": [

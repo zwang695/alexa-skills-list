@@ -24,7 +24,7 @@ To use, just say, "Ask Jim Rockford's Answering Machine to read a message."
 ### Skill Details
 
 * **Invocation Name:** jim rockford's answering machine
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0b6e6187-82c6-4a0b-938c-17d25f4da64b
 * **ASIN:** B01D26NANC
 * **Author:** TexasGovernor.org

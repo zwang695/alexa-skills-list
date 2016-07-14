@@ -16,7 +16,7 @@ If your car could talk, what would it say? Mojio and Echo make it possible to co
 ### Skill Details
 
 * **Invocation Name:** mojio
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.10fc3740-6435-4f8b-9c1a-368fb2937d74
 * **ASIN:** B0192NS6VU
 * **Author:** Mojio Inc

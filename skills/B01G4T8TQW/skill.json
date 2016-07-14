@@ -4,7 +4,7 @@
   "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "The user can get started by saying \"Alexa, launch random jokes\" or \"Alexa ask random jokes\" . He could then ask for a random joke by saying \"tell me a joke\". He can ask for help by saying \"Help\" and it will list out all the commands that can be used.\n\nDisclaimer :  The skill may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [

@@ -26,7 +26,7 @@ This is the basic mode of the game. Intermediate and Advanced modes to be releas
 ### Skill Details
 
 * **Invocation Name:** code breaker
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e00705b8-73c0-44fe-8e93-8fd65dea8968
 * **ASIN:** B01G0XQKYK
 * **Author:** Quasar Solutions LLC

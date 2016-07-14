@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "This skill retrieves air quality report containing current levels for Ozone, Small Particles (if reported) and Large Particles (if reported) for any US 5-digit ZIP code, using date provided by the US Environmental Protection Agency (EPA).",
   "enablement": null,
   "exampleInteractions": [

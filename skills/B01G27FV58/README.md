@@ -21,7 +21,7 @@ https://github.com/owntheweb/alexa-iss
 ### Skill Details
 
 * **Invocation Name:** tracker for i. s. s.
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.72214e7e-4b1f-48c9-8c27-504315e4fca0
 * **ASIN:** B01G27FV58
 * **Author:** Christopher Stevens

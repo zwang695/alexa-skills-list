@@ -58,7 +58,7 @@ You're welcome
 ### Skill Details
 
 * **Invocation Name:** arabic phrases
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5b88944f-62fb-4bf7-beef-cd1e7c65119a
 * **ASIN:** B01G1D4JKG
 * **Author:** elgeish

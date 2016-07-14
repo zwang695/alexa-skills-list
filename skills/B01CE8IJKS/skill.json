@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "This skill allows the user to spell out a word or a list of words in either Morse Code or Telephony(Using NATO phonetic alphabet)",
   "enablement": null,
   "exampleInteractions": [

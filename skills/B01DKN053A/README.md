@@ -20,7 +20,7 @@ This skill is an entertaining way to test and enhance your geography knowledge. 
 ### Skill Details
 
 * **Invocation Name:** geography trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c571027f-7086-486f-8bee-04018010ec3c
 * **ASIN:** B01DKN053A
 * **Author:** umov

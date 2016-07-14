@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "Currency Guy can get you the exchange rate between two specified currencies based on today's date.By saying\" What is the rate of US Dollar to Chinese Yuan\", there would be a voice response returned with something like \"Based on 4/1/2016, 1 USD = 6.45 CNY\" and meanwhile a card would be generated in Alexa app in case you want to see the returned result visually.\nPS: Currently not all currencies are listed, more work to be done in the future, hope you like it!!!",
   "enablement": null,
   "exampleInteractions": [

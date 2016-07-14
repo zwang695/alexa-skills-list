@@ -30,7 +30,7 @@ Further examples and instructions can be found at www.derpgroup.com/bots.html#2
 ### Skill Details
 
 * **Invocation Name:** dice bot
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3d097710-9c2c-44bc-9598-ad74699f07cb
 * **ASIN:** B01EUNE3W8
 * **Author:** DERP Group

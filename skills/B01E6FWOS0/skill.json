@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "The Listening Comprehension Practice skill allows listeners to sharpen their comprehension of audio narrative content. The Listening Comprehension Practice skill includes a short audio narrative followed by interactive comprehension questions. The listener must respond to the questions with an appropriate voice response and Alexa will verify if the response is correct.\n\nAudio comprehension narratives come in the following categories: happy, sad, silly, spooky, challenges.",
   "enablement": null,
   "exampleInteractions": [

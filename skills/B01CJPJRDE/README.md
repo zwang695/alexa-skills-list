@@ -16,7 +16,7 @@ This skill returns the next few trains that run from one station to another alon
 ### Skill Details
 
 * **Invocation Name:** choo choo
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8e0cc1a3-5c5d-4b92-9f32-6cb6351723ce
 * **ASIN:** B01CJPJRDE
 * **Author:** mookiefdr

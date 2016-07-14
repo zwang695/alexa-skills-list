@@ -18,7 +18,7 @@ Description: Get your dirty duds cleaned without even lifting a finger. With the
 ### Skill Details
 
 * **Invocation Name:** washio
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.94560da1-7dbc-445a-b6a2-fe949736544e
 * **ASIN:** B01ES9PXF0
 * **Author:** Washio, Inc.

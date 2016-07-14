@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Want to test your basic java skill?\nHow many questions you think you can answer out of 5?\nAlexa can give you questions to practice your java skill?\nLet challenge yourself.",
   "enablement": null,
   "exampleInteractions": [

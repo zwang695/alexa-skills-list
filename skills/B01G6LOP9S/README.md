@@ -36,7 +36,7 @@ The SexyHacker.com Team
 ### Skill Details
 
 * **Invocation Name:** motivate me
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3ecfceda-950d-4673-82f6-25d038344f68
 * **ASIN:** B01G6LOP9S
 * **Author:** More Than Rewards

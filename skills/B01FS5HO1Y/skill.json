@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Alexa will go through all 50 states, one at a time, and ask you for it's capital. At the end (and any time along the way) you can get your score.\n\nMap Image via © OpenStreetMap contributors",
   "enablement": null,
   "exampleInteractions": [

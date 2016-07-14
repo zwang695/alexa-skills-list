@@ -18,7 +18,7 @@ This trivia is designed for single player, share this with your friend and see w
 ### Skill Details
 
 * **Invocation Name:** chocolate trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.74354e38-0298-4634-8d58-f01d92b033f2
 * **ASIN:** B01EIWXRXM
 * **Author:** Supernova

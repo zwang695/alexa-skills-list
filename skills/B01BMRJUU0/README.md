@@ -19,7 +19,7 @@ Market News logo designed by Starline, Freepik.
 ### Skill Details
 
 * **Invocation Name:** market
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5125475f-24f4-4132-a898-06423d663020
 * **ASIN:** B01BMRJUU0
 * **Author:** Derek Shi

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "State Trees is a trivia game that will test your knowledge on state trees. \n\nTo get started, ask \"Alexa ask state trees\". \n\nEach round of the game will include 5 questions where the states are selected at random. You will be presented with 4 choices to select the correct state tree from.\n\nHow many state trees do you know?",
   "enablement": null,
   "exampleInteractions": [

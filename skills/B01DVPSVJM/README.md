@@ -16,7 +16,7 @@ How good are you at Echoing a simple message? How good is Alexa? Errors typicall
 ### Skill Details
 
 * **Invocation Name:** telephone game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.60e098e0-ce21-4e64-a707-48dff1126eee
 * **ASIN:** B01DVPSVJM
 * **Author:** NeuralFirings

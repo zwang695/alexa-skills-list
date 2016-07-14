@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This is a game for all ages. This will inform you about safety guidelines. Simply say \"Alexa, ask safety guy\". Alexa will ask you 5 questions about safety with multiple choices. You don't have to register.",
   "enablement": null,
   "exampleInteractions": [

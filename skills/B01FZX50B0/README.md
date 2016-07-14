@@ -16,7 +16,7 @@ Ask Alexa to open the "Rugby World Cup Quiz" and see if you have what it takes t
 ### Skill Details
 
 * **Invocation Name:** rugby world cup quiz
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2f21e3be-7e59-4c81-9b57-330d6dd7dd25
 * **ASIN:** B01FZX50B0
 * **Author:** S.C. Summers

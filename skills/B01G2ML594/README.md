@@ -16,7 +16,7 @@ Garden Facts will entertain you by providing you with some of the most amazing f
 ### Skill Details
 
 * **Invocation Name:** garden facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3c4b2b5b-0058-4479-b8e4-c9e53811761b
 * **ASIN:** B01G2ML594
 * **Author:** DevTheory

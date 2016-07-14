@@ -4,7 +4,7 @@
   "averageRating": 4.4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Do you have what it takes to showcase your knowledge of music?\n\nThink you know what Paul McCartney's First Name is?\nOr better yet, do you know how many members there were in Spice Girls?\n\nThis skill is fun to play alone, or compete against your friends and family. You can now determine who knows their music.\n\n03-01-16: [1.17] - Initial Release\n03-03-16: [1.18] - New Icon and More Questions Added",
   "enablement": null,
   "exampleInteractions": [

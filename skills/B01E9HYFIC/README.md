@@ -130,7 +130,7 @@ https://www.chefsheffey.com/page/chef-sheffey-announcements
 ### Skill Details
 
 * **Invocation Name:** chef sheffey
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6afc0e51-460f-4cb8-97df-3f1eeaddb502
 * **ASIN:** B01E9HYFIC
 * **Author:** Hynes Internet Publishing

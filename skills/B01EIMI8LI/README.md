@@ -16,7 +16,7 @@ Omaha Trivia will test your knowledge of Warren Buffett, the Huskers and all thi
 ### Skill Details
 
 * **Invocation Name:** omaha trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d712bf1e-fe69-4cf8-8c2b-c5ef70da54a5
 * **ASIN:** B01EIMI8LI
 * **Author:** Red Oak Analytics

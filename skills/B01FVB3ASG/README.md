@@ -16,7 +16,7 @@ Kick this skill off every day to keep up to date with the latest news. You will 
 ### Skill Details
 
 * **Invocation Name:** headlines from zah zah zoo
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c1189ab1-a6e1-492a-9959-25eceb5dba3c
 * **ASIN:** B01FVB3ASG
 * **Author:** TsaTsaTzu

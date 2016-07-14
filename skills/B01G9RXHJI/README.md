@@ -16,7 +16,7 @@ To become a naturalized U.S. citizen, one must pass the naturalization test. At 
 ### Skill Details
 
 * **Invocation Name:** naturalization test
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.453e9b50-26f3-44af-b986-150ed75eb52e
 * **ASIN:** B01G9RXHJI
 * **Author:** Sri

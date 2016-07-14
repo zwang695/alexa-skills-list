@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "This is a trivia game that quizzes your knowledge about the Boston Baseball history.  Simple to use, listen to the question and if you need to repeat the question, say repeat question or repeat.  There are four choices, listen for all four answers and then answer 1,2,3,or 4.  Suggestions, comments and critiques are welcome.",
   "enablement": null,
   "exampleInteractions": [

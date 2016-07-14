@@ -16,7 +16,7 @@ Daily Cutiemals will send cute animal pictures to your email. You will need to r
 ### Skill Details
 
 * **Invocation Name:** daily cutiemals
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dd8f6e8e-0aed-4178-91ca-ab7bf4f75ccf
 * **ASIN:** B01DYQ5BLE
 * **Author:** Drassiner

@@ -16,7 +16,7 @@ Tell Alexa to ask Three Eyed Raven about the words of a House in the Seven Kingd
 ### Skill Details
 
 * **Invocation Name:** three eyed raven
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1d30b0c5-c10d-4eab-aca8-856cd817f24b
 * **ASIN:** B01G37FVRU
 * **Author:** Jonathan Luo

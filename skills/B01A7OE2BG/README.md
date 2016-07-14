@@ -16,7 +16,7 @@ Aurora skill will provide detailed information about the auroral activity over N
 ### Skill Details
 
 * **Invocation Name:** aurora
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.15177d50-1347-443a-88fc-359246d6e59a
 * **ASIN:** B01A7OE2BG
 * **Author:** BEL Coding

@@ -18,7 +18,7 @@ Ukulele Tuner uses "standard" tuning, otherwise known as "C" tuning. Starting wi
 ### Skill Details
 
 * **Invocation Name:** ukulele tuner
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.453c1f5b-6012-4537-87a1-ebf9d600c894
 * **ASIN:** B01ETLTP56
 * **Author:** XYWARE

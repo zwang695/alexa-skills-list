@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "To get started, say, \"Alexa, open Austin Trivia\".  Alexa will then respond with instructions, how the game works, and your first question.",
   "enablement": null,
   "exampleInteractions": [

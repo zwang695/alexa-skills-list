@@ -16,7 +16,7 @@ Food Finder has a list of common food/cuisine types, such as burgers, pizza, Mex
 ### Skill Details
 
 * **Invocation Name:** food finder
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f03af120-49d4-46cc-a4b0-7e31b14eddf5
 * **ASIN:** B01E31BCQC
 * **Author:** Chris Horton

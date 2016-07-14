@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Alexa will pick a number between 1-100.  It is up to you to guess what the number is.  Don't worry Alexa will let you know if your guess is greater than or less than the number.",
   "enablement": null,
   "exampleInteractions": [

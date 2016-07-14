@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "This skill gives your Amazon Echo (or other Alexa-capable device) the ability to search a curated database of thousands of fine cocktails. \n\nThe Mixologist can:\n- Search by the name of the drink.\n- Find cocktails containing specific ingredients (vodka, gin, rum, etc.). \n- Surprise you with a random libation\n\nThe Mixologist will add a \"Home Card\" containing full ingredients and instructions to make your cocktail. Home Cards may be viewed via the Amazon Alexa mobile app (or FireTV). \n\nWARNING: INTENDED FOR ADULTS OVER 21\nThe Mixologist provides directions for making alcoholic drinks and is intended for adults over the age of 21. Some drink names and instructions may include content that might be considered offensive by some.",
   "enablement": null,
   "exampleInteractions": [

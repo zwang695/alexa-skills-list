@@ -16,7 +16,7 @@ Jump right over the boards and stay onside for this Alexa Skill that expands you
 ### Skill Details
 
 * **Invocation Name:** the penalty box
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6eb1413c-b874-4e4c-83dc-8dd1f6ec69d7
 * **ASIN:** B01EINIFA6
 * **Author:** Steve Yardumian

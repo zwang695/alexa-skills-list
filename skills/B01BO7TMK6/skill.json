@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Once you launch the skill, say a popular first name in the US.  This skill will return the popularity in a given year between 1880 and 2015.  You can ask about a specific year or ask about boy or girl names that start with a certain letter.\n\nUPDATE 06/13/2016: Baby Names now includes names from 2015!",
   "enablement": null,
   "exampleInteractions": [

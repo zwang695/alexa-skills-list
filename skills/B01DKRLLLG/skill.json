@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Wiki Brains doesn't know all the articles in Wikipedia... but the one he does know he will read them to you!  Go ahead give it shot, say thing like:\n\nAlexa, Ask Wiki Brains to tell me about Kate Middleton\nAlexa, Ask Wiki Brains to tell me about Gravitational waves\nAlexa, Ask Wiki Brains to tell me about the Zika virus\n\nWiki Brains knows many of the 5000 pages were the most accessed on the English Wikipedia and will read the first section of the  article to you. Wiki Brains is always learning and sharing new articles.",
   "enablement": null,
   "exampleInteractions": [

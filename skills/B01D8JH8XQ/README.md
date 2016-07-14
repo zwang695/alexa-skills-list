@@ -16,7 +16,7 @@ Think you know all things Madonna ? Take this challenge that tests your Madonna 
 ### Skill Details
 
 * **Invocation Name:** madonna trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7a177e9d-4dd2-4697-9cba-6fb820354a3c
 * **ASIN:** B01D8JH8XQ
 * **Author:** James Co

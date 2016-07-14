@@ -16,7 +16,7 @@ Locate APRS stations using the APSR Internet System, and reverse-geocode the loc
 ### Skill Details
 
 * **Invocation Name:** a. p. r. s.
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6c7d6dc1-03aa-4e86-ad34-3af707889bae
 * **ASIN:** B01AVCIIQY
 * **Author:** Nortius Systems

@@ -16,7 +16,7 @@ Are you a new firefighter studying for the Fire 1 exam, a veteran who just wants
 ### Skill Details
 
 * **Invocation Name:** fire trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.61410c21-6492-48ec-ae1d-edbd84870d5b
 * **ASIN:** B01FY5S8D6
 * **Author:** Karma

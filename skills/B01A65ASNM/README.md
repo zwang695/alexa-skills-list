@@ -16,7 +16,7 @@ An Alexa Skill for interacting with Product Hunt using their API. This skill all
 ### Skill Details
 
 * **Invocation Name:** product hunt
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a5c00e5b-91c4-4b8d-a720-79e1cce84b53
 * **ASIN:** B01A65ASNM
 * **Author:** John Carmichael

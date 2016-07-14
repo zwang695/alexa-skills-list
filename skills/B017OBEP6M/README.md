@@ -18,7 +18,7 @@ Math Puzzles is a fun and easy way to challenge yourself and your friends. You'r
 ### Skill Details
 
 * **Invocation Name:** math puzzles
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.26331ba0-28ea-4266-ba3b-fe68d60cbe03
 * **ASIN:** B017OBEP6M
 * **Author:** Speech-Ninja

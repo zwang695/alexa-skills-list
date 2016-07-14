@@ -41,7 +41,7 @@ To learn more about what you can do with QuickEvents, go to: http://sarkonovich-
 ### Skill Details
 
 * **Invocation Name:** quick events
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e43b96d5-e13b-40ac-9ee2-0c2c94813e40
 * **ASIN:** B017YBAFW0
 * **Author:** Philosophical Creations

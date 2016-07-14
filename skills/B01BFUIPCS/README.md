@@ -16,7 +16,7 @@ BF Helper lets you roll new characters and lookup spell and rule descriptions. D
 ### Skill Details
 
 * **Invocation Name:** basic fantasy
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.06cf0646-0133-4345-8205-3b35a326568d
 * **ASIN:** B01BFUIPCS
 * **Author:** Rain Labs

@@ -20,7 +20,7 @@ Note: Alexa and Amazon, Inc. do not store or retain your Fitbit data, but voice 
 ### Skill Details
 
 * **Invocation Name:** fitbit
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.297bd7f9-6659-4e55-8535-b8e8efff8f64
 * **ASIN:** B01CH4BP28
 * **Author:** Fitbit, Inc. 

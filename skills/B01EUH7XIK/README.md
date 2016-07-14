@@ -16,7 +16,7 @@ Have you ever wondered what Bernie Sanders' father did for a living or how many 
 ### Skill Details
 
 * **Invocation Name:** bernie geek
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d7278f18-8099-4539-8fce-07b8c27425dc
 * **ASIN:** B01EUH7XIK
 * **Author:** dkapps

@@ -83,7 +83,7 @@ Alexa, ask BrickBot for support
 ### Skill Details
 
 * **Invocation Name:** brick bot
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5e5adab2-96d6-46ac-92d1-0b088c424951
 * **ASIN:** B01FWETQUI
 * **Author:** Extentia Information Technology

@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!  This trivia game has over 50 Seinfeld trivia questions.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Alexa asks 5 trivia questions and the user gets scored based on correct answers.
 ### Skill Details
 
 * **Invocation Name:** american basketball trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3bf939e2-bf91-41a2-a335-2153b8c3bd10
 * **ASIN:** B01EHEI6Z0
 * **Author:** Rafa

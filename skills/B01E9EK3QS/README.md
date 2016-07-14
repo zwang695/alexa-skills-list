@@ -21,7 +21,7 @@ Useful for when you want to figure out if you can fly your drone, fly your kite,
 ### Skill Details
 
 * **Invocation Name:** wind report
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dd6be300-d523-463b-aa10-ed62372ccc60
 * **ASIN:** B01E9EK3QS
 * **Author:** Anthony Ngu

@@ -16,7 +16,7 @@ Think you know your movies? Take this fun quiz!
 ### Skill Details
 
 * **Invocation Name:** movie quiz
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bf173e73-f18f-4c6f-b5d8-43629526fb62
 * **ASIN:** B01EY1CNK0
 * **Author:** MrTechnolgyNerd

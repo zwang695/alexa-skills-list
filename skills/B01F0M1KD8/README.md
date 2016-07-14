@@ -16,7 +16,7 @@ To use the Citizen Pass skill, try saying...
 ### Skill Details
 
 * **Invocation Name:** citizen pass
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.61895dc1-5cea-4c73-9bc5-39620303af38
 * **ASIN:** B01F0M1KD8
 * **Author:** Mandy Chan

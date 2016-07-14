@@ -14,7 +14,7 @@ Never be without a deck of cards again. Draw a random card from a standard deck 
 ### Skill Details
 
 * **Invocation Name:** deck of cards
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d111d1fe-fd21-498c-8a67-9a23019dc4cd
 * **ASIN:** B01DTWAPPA
 * **Author:** Cyborkt

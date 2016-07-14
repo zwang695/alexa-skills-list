@@ -16,7 +16,7 @@ Save your commute by learning about delays in the Washington DC Metro system bef
 ### Skill Details
 
 * **Invocation Name:** metro alerts
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.14b27f1c-ca7b-4932-8f62-064c34261a6f
 * **ASIN:** B01DJD0EYQ
 * **Author:** Nat Burgwyn

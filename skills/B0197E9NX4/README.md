@@ -17,7 +17,7 @@ It helps to enunciate the letters clearly (for example, it is easy for Alexa to 
 ### Skill Details
 
 * **Invocation Name:** pronunciations
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.22799827-aae1-4115-9b48-e2b74e33ee03
 * **ASIN:** B0197E9NX4
 * **Author:** Mahesh

@@ -18,7 +18,7 @@ For a full list of example commands say "Alexa, ask Robot Scout what I can say"
 ### Skill Details
 
 * **Invocation Name:** robot scout
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5492e6f7-6082-4944-b5e0-ac57522466ea
 * **ASIN:** B01DLDYGLQ
 * **Author:** Vegetarian Baconite Software

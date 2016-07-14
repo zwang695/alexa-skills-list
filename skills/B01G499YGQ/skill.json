@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "The Pocket Monster Type Master provides a quick way to remember what Pokemon types are weak or strong against which other types. \n\nEnable the skill, then ask the Type Master about any Pokemon type. Alexa will breakdown that type by which Pokemon types it is weak and strong against, as well as which Pokemon attack types are effective or not very effective against that type.\n\nUses 6th generation+ Pokemon type attributes.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Earthquakes will tell you all of the recent earthquakes around the world. Ask ea
 ### Skill Details
 
 * **Invocation Name:** earthquakes
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fadc6792-08ac-4834-bc31-d178eb0cf4fa
 * **ASIN:** B01AX7PVIK
 * **Author:** HDRider

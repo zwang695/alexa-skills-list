@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Marine Life is an easy to use application that tells you interesting facts about all sorts of marine life, including whales, dolphins, sharks, sea turtles, octopus, jellyfish, lobster, deep sea creatures, and more!\n\nTo start learning fun facts, just open the skill.",
   "enablement": null,
   "exampleInteractions": [

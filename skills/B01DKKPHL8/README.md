@@ -27,7 +27,7 @@ We’d love to hear your thoughts and please add a comment in the review section
 ### Skill Details
 
 * **Invocation Name:** sound effects
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b7cd5d38-84be-4ca3-80bf-4d3459686657
 * **ASIN:** B01DKKPHL8
 * **Author:** Matchbox mobile

@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Math Tutor can read out the multiplication tables between 1 and 10. For example, you could say \"Alexa, ask Math Tutor for 6 times table.\" Alexa will then read the answer, which is also available to view on the Home page of the Echo App.",
   "enablement": null,
   "exampleInteractions": [

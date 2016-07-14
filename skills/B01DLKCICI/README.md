@@ -18,7 +18,7 @@ Moving to Georgia? Learn about the state so you're not lost when you get here.
 ### Skill Details
 
 * **Invocation Name:** georgia trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.450ab863-0b56-4e41-9dee-79dbd8553373
 * **ASIN:** B01DLKCICI
 * **Author:** Some Techie, LLC

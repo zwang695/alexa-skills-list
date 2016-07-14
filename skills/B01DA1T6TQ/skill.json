@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Keep track of life totals in Magic:  The Gathering(c) hands-free with this app.  This app provides multiple voice commands to manage players in the game.  Players can be added to a game.  A game can be reset.  Players can have their life totals added or subtracted.  Currently this app only supports 2 players and default life totals are 20.",
   "enablement": null,
   "exampleInteractions": [

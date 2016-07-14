@@ -14,7 +14,7 @@ Ask Alexa to "Open College Basketball Trivia" and see how well you know College 
 ### Skill Details
 
 * **Invocation Name:** college basketball trivia
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3e8f707d-0e51-4acc-b4cf-4d5e99c1462c
 * **ASIN:** B01DKME59G
 * **Author:** Babooze labs

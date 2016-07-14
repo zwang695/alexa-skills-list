@@ -17,7 +17,7 @@ Please note that One Ferry Away only works in Washington State.
 ### Skill Details
 
 * **Invocation Name:** one ferry
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7c57ab49-3a24-473e-a1fc-359707e67864
 * **ASIN:** B01FWNGB7U
 * **Author:** Dragon

@@ -19,7 +19,7 @@ Alexa, ask record of the year what was the record of the year in 1988
 ### Skill Details
 
 * **Invocation Name:** record of the year
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1156f02c-50bc-4cb2-95fb-38c454e17dc9
 * **ASIN:** B01G6BGGBI
 * **Author:** Team Luna

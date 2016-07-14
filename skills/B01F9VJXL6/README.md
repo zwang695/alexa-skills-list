@@ -16,7 +16,7 @@ Want to know what's going on in the world but a little short on time? Alexa can 
 ### Skill Details
 
 * **Invocation Name:** today's ten
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cad10f38-2f37-4d9a-8fcc-1ab1791ce3e4
 * **ASIN:** B01F9VJXL6
 * **Author:** CaptainQuirk

@@ -19,7 +19,7 @@ LeagueCounterisn't endorsed by Riot Games and doesn't reflect the views or opini
 ### Skill Details
 
 * **Invocation Name:** league counter
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.756974fd-f2e6-44ea-a07d-97517fbc8b50
 * **ASIN:** B01E2CMDVU
 * **Author:** MYSELF

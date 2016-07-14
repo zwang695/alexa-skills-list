@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This trivia game asks the user questions regarding the game of basketball. It also asks questions specific to the NBA and WNBA. In order to start the game, the user must say \"Alexa, start basketball trivia.\"",
   "enablement": null,
   "exampleInteractions": [

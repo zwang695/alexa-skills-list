@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "Ask Alexa to launch sports facts, and she'll give you one of numerous interesting or lesser-known sports trivia facts. \n\nMany sports are included: American football, basketball, association football/soccer, Olympic sports, volleyball, table tennis, etc. Facts include topics such as records, sport origins, regulations, and other various trivia.\n\nFacts are provided in random order in this first version. New facts will be added over time. If you'd like to provide some facts in a review, I'll make sure to add them!",
   "enablement": null,
   "exampleInteractions": [

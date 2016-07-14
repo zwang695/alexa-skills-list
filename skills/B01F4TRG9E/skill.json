@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This is a fun skill to learn about random facts around the world. Topics ranging from animals, history, science, and so much more!\n\nYou can simply say Alexa, and use the sample utterance on the invocation name \"world geek\". For example: \"Alexa, Open world geek\" or \"Alexa, Launch world geek and tell me a fact\" or \"Alexa, Start world geek and give me a fact\". \n\nThis skill is meant to be fun and random, some are very surprising, some are widely known, now you can find out which one you already know!",
   "enablement": null,
   "exampleInteractions": [

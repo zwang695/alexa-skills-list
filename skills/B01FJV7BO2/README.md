@@ -20,7 +20,7 @@ Alexa, Ask Albert Einstein Facts to tell me a fact.
 ### Skill Details
 
 * **Invocation Name:** albert einstein facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.40775819-ac5b-41af-901c-f287258942ff
 * **ASIN:** B01FJV7BO2
 * **Author:** wesee

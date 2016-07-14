@@ -12,7 +12,7 @@ This is a trivia game based on the ancient Persian Empires before 800 A.D. Say '
 ### Skill Details
 
 * **Invocation Name:** persian history
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d2633bdc-4a85-4ec8-bfcc-ca8aea5340e9
 * **ASIN:** B01EIPQP56
 * **Author:** Shamshir Studios

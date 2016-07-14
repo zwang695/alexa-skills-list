@@ -16,7 +16,7 @@ Interactive game to improve math skills by executing a kata to become a math jed
 ### Skill Details
 
 * **Invocation Name:** math kata
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.52d79118-779f-4144-806f-84dd6421b332
 * **ASIN:** B018UWJO10
 * **Author:** Rick Wargo

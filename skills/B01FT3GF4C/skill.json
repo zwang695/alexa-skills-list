@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Can't find the channel you are looking for in the Dish Network guide?  Have Alexa ask Channel Finder, a tool to find channel numbers by asking with the channel name.",
   "enablement": null,
   "exampleInteractions": [

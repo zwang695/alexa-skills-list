@@ -16,7 +16,7 @@ You can now enjoy the essays from YC's The Macro, narrated by Amazon Alexa. It s
 ### Skill Details
 
 * **Invocation Name:** the macro
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2ffb3907-0a6d-407a-9f86-beca8c6f8070
 * **ASIN:** B01FY12Y9O
 * **Author:** Wayne

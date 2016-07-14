@@ -16,7 +16,7 @@ The Daily Wake Up Call provides a daily recorded quotation, message, or anecdote
 ### Skill Details
 
 * **Invocation Name:** wake up call
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b6f2b8e5-7159-42a7-9e1a-b56e242aa658
 * **ASIN:** B01CRF003C
 * **Author:** Coeus Mobile LLC

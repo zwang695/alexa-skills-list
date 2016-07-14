@@ -20,7 +20,7 @@ To discuss this skill, contact @VoiceGameDev on Twitter.
 ### Skill Details
 
 * **Invocation Name:** combat
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.adbaf36b-2ad0-445f-88f9-d1fe1c0e019b
 * **ASIN:** B01AKFXFYC
 * **Author:** Markley Enterprises LLC

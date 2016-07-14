@@ -16,7 +16,7 @@ The aspiration of My Copilot is to answer any general aviation question as if yo
 ### Skill Details
 
 * **Invocation Name:** my copilot
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8f5b7989-cb58-4355-aec4-3003462073c8
 * **ASIN:** B01DKF311G
 * **Author:** Runaway Bamboo LLC

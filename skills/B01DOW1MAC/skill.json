@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "The Langone Retreat Information Alexa Skill provides you with information about the retreat.  Simply say \"Alexa, Ask Langone Retreat what should I bring? \" and you'll be provided with an answer.",
   "enablement": null,
   "exampleInteractions": [

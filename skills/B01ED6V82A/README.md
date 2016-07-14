@@ -16,7 +16,7 @@ Users ask for the "Thomas Fan Quiz" and then are presented with questions and 4 
 ### Skill Details
 
 * **Invocation Name:** thomas fan quiz
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.21684b01-ac35-4c52-856a-ea6d838ed5f1
 * **ASIN:** B01ED6V82A
 * **Author:** Pamela Caird

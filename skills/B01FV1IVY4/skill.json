@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "Presidential Race give you up to date results on the current status of the 2016 US presidential election polls between Hillary Clinton and Donald Trump.\nAll of the results are from the Huffington Posts polls.\n\nTo find out who is winning just say \"Ask Presidential Race who is winning.\" and you will hear who is currently winning the race.\n\nIf you want the full standings try \"Ask Presidential Race the current standings.\" and it will let you know where everyone stands and what their current percentages are.",
   "enablement": null,
   "exampleInteractions": [

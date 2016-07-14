@@ -18,7 +18,7 @@ FreeBusy works with all calendar providers (Google, Office 365, Outlook and corp
 ### Skill Details
 
 * **Invocation Name:** free busy
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e6b772d2-1e86-4480-ba5c-dda436f66fe1
 * **ASIN:** B017OBE2NI
 * **Author:** BizLogr Inc.

@@ -16,7 +16,7 @@ Can you make it to level 20 and defeat the Dungeon Master? Test your Tabletop  t
 ### Skill Details
 
 * **Invocation Name:** tabletop trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9bfdf519-77a8-4e4c-a3a3-bed400a45fbd
 * **ASIN:** B01ET0I22Y
 * **Author:** BadBinary LTD

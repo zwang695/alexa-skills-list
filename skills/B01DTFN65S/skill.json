@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Fortune Cookie has a large collection of actual fortune cookie quotes, and it picks one at random for you each time you ask it to \"read a fortune\".  Who knows -- It could be good news!\n\nAsk Fortune Cookie to \"get me a cookie\" and luck may fall your way.",
   "enablement": null,
   "exampleInteractions": [

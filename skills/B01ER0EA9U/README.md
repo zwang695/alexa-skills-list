@@ -16,7 +16,7 @@ This skill provides facts about Texas A&M University.  You can simply ask Aggie 
 ### Skill Details
 
 * **Invocation Name:** aggie facts
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.781950e1-2e7d-4370-b923-eae0751996ac
 * **ASIN:** B01ER0EA9U
 * **Author:** Jennings Fairchild

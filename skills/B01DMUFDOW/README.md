@@ -26,7 +26,7 @@ Alexa: “The next bus 69 bus towards Harvard, will arrive in 5 minutes".
 ### Skill Details
 
 * **Invocation Name:** boston t. time
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1cdead98-2f3a-4133-ab56-2b22245894b8
 * **ASIN:** B01DMUFDOW
 * **Author:** Mycrobonics

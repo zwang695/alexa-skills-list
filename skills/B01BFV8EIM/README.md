@@ -20,7 +20,7 @@ Think you can answer?
 ### Skill Details
 
 * **Invocation Name:** cricket quiz
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2f84d974-a15b-4b6c-8697-d47a6a27165d
 * **ASIN:** B01BFV8EIM
 * **Author:** Jovial

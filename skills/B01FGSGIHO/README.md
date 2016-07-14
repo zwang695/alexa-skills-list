@@ -16,7 +16,7 @@ NBC gives Alexa all the information she needs to connect you with your favorite 
 ### Skill Details
 
 * **Invocation Name:** n. b. c.
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7c62b30e-b89d-494b-8b9e-00613b5f0d98
 * **ASIN:** B01FGSGIHO
 * **Author:** NBC Digital Media

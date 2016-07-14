@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "Keep track of your costs with Expense Tracker, your personal expense manager. Expense Tracker will create a finance overview and can help you manage your money.\nYou might use the example phrases below as your guide.\n\n- You can add your expenses to one of the existing categories food, household, clothes, work and fun: \"Alexa, tell Expense Tracker that I paid 10 dollars for food\"\n- You can also create new categories: \"Alexa, ask Expense Tracker to add the category travel\",\n- Delete empty categories by saying: \"Alexa, ask Expense Tracker to delete the category travel\"\n- Expense Tracker can provide a summary of all your spendings per category: \"Alexa, ask Expense Tracker for my report\"\n- It is possible to reset your account and all your costs: \"Ask Expense Tracker to reset my account\". But be careful. If you do that you will loose all your entries.\n- Of course you can always ask the Expense Tracker for help or to stop.\n\nDisclaimer: This skill might not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [
@@ -30,5 +30,5 @@
   "stage": "live",
   "termsOfUseUrl": null,
   "vendorId": "MS2F2Z51OLZMY",
-  "vendorName": "Running Rabbits"
+  "vendorName": "FutureOfVoice"
 }

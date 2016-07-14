@@ -4,7 +4,7 @@
   "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Ask Alexa for a Strange Law! Enable this skill today to hear a random strange law!\n\nSimply say: \"Alexa, open The Law!\"\n\n*Please note that these laws may not currently be enforced.*",
   "enablement": null,
   "exampleInteractions": [

@@ -18,7 +18,7 @@ When you give it the 2 stations you are travelling between, it tells you what ti
 ### Skill Details
 
 * **Invocation Name:** metro north track
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.962346b4-ee55-4739-bb3d-cb75644ba144
 * **ASIN:** B01EML7BA4
 * **Author:** The Burgess Shale

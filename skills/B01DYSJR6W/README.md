@@ -18,7 +18,7 @@ It is not sponsored by or affiliated with the Estate of Marshall McLuhan.
 ### Skill Details
 
 * **Invocation Name:** mcluhan quotes
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2697c128-1883-4067-9e43-63e7cba98440
 * **ASIN:** B01DYSJR6W
 * **Author:** Daly-Apps.com

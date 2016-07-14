@@ -16,7 +16,7 @@ You can ask Alexa to control several of the sensor mirror pro’s features such 
 ### Skill Details
 
 * **Invocation Name:** sensor mirror
-* **Category:** Connected-Home
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ae7ba57f-87ec-448f-834a-64fba306957f
 * **ASIN:** B01FA2TV66
 * **Author:** simplehuman

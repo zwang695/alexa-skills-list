@@ -17,7 +17,7 @@ It will also retrieve gameplay information from the Vectrex Wikia web site and s
 ### Skill Details
 
 * **Invocation Name:** vectrex wiki
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ed68573c-f7f1-467d-94f1-53254b0e0fce
 * **ASIN:** B01E3IK5LI
 * **Author:** KokosApps

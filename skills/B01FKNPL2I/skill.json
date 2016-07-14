@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Stream Guide for Twitch can check the top games being streamed on Twitch.tv and how many viewers are currently watching. You can also ask for the top channels (i.e. streamers) for a specific game.",
   "enablement": null,
   "exampleInteractions": [

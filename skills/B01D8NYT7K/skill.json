@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "A quiz on the basics of computers. This skill asks a series of 5 questions each with 4 multiple choice possible answers. Respond with the number for the correct answer to score a point. Alexa will give you the answer if your answer is wrong.",
   "enablement": null,
   "exampleInteractions": [

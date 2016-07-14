@@ -32,7 +32,7 @@ If you need to change your address, just tell Bike Share: "change my address". A
 ### Skill Details
 
 * **Invocation Name:** bike share
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.09907f8d-f282-427d-8832-2f33fc631908
 * **ASIN:** B01DOI0PKE
 * **Author:** Ken Peltzer

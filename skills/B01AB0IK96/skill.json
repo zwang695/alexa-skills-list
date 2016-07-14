@@ -4,7 +4,7 @@
   "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "A simple skill, Alexa will give you a random number between 1 and 100. Useful for settling the sibling squabble about who gets the last slice of cake.",
   "enablement": null,
   "exampleInteractions": [

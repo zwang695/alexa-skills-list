@@ -20,7 +20,7 @@ Note - this skill is not sponsored by Fitbit; it is built using their publicly a
 ### Skill Details
 
 * **Invocation Name:** workout recommendation
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.49ae8765-f94c-4bca-8dc3-1894a93b4f9c
 * **ASIN:** B01GB3U22U
 * **Author:** Darian Johnson

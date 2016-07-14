@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "This skill is great for cyberpunk enthusiasts!  This dictionary provides definitions of cyberpunk words that you may find in games (like ShadowRun or Cyberpunk 2077) or literature (like Snow Crash or Neuromancer).  \n\nThere are tons of cyberpunk words and figuring out what they mean isn't always easy.  The Cyberpunk Dictionary can help!\n\nTo get started, you can ask the cyberpunk dictionary to give you a random cyberpunk word or you can also ask it to define a specific cyberpunk punk word.  If you get stuck you can always ask for help and get a comprehensive list of available commands.",
   "enablement": null,
   "exampleInteractions": [

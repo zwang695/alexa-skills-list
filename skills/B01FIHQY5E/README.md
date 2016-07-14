@@ -16,7 +16,7 @@ Are you a Ducks Football super fan?! Take the Ducks Football Trivia game and fin
 ### Skill Details
 
 * **Invocation Name:** ducks football trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0f6d1ccc-51a7-44b7-9336-246f70b9eba8
 * **ASIN:** B01FIHQY5E
 * **Author:** Andrew Vincent

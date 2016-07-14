@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="my dlink Home – Optimized for Smart Home icon" width="36"> [my dlink Home – Optimized for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.80e34e23-0a3a-4631-985f-24974b844ff9)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
 
 To use the my dlink Home – Optimized for Smart Home skill, try saying...
 

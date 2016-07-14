@@ -4,7 +4,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Introducing you the PokeyFinder, The first skill to give you information about all pokemon. \nNow learn about any pokemon by simply asking, \"Ask pokey finder about Pikachu.\" \nYou can also ask alexa, \"Ask pokey finder to find some pokemon”",
   "enablement": null,
   "exampleInteractions": [

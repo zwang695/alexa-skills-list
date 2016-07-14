@@ -16,7 +16,7 @@ It is a very simple trivia contest based on the template provided by the Amazon 
 ### Skill Details
 
 * **Invocation Name:** european river trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a0d2c5e0-0478-4b4c-9b0b-76318f0eced6
 * **ASIN:** B01DJJWY9I
 * **Author:** Gregg Vesonder

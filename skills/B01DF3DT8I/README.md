@@ -20,7 +20,7 @@ So go ahead... start cooking that lasagna, folding laundry or cleaning your bath
 ### Skill Details
 
 * **Invocation Name:** s. l. p. review
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ff1bc677-ddff-4174-af0f-d8b10edc293d
 * **ASIN:** B01DF3DT8I
 * **Author:** KRSD Communication Tools

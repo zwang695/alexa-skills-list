@@ -18,7 +18,7 @@ You can ask groups and teams of the cup or the last or next match.
 ### Skill Details
 
 * **Invocation Name:** euro soccer
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5d51d603-bf7a-4a75-b988-d6094c6bc546
 * **ASIN:** B01G4GYZHW
 * **Author:** Andrea De Gaetano

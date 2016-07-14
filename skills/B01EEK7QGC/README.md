@@ -16,7 +16,7 @@ Movies for redbox tells you the latest and popular movies you can rent from redb
 ### Skill Details
 
 * **Invocation Name:** movies for redbox
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e3300666-52f0-4e5f-969b-637d13c2a125
 * **ASIN:** B01EEK7QGC
 * **Author:** James

@@ -4,7 +4,7 @@
   "averageRating": 1.4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Ask Donald Trump a question, about his policies, or how he will make america great again",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Chess opening helper gives you the defining moves of the chess opening you want to learn about or need help remembering.  Great training tool for beginners and experts. Will be updated with more specific openings and variations.",
   "enablement": null,
   "exampleInteractions": [

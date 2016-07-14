@@ -4,7 +4,7 @@
   "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This is a one-shot model where you can ask for a random fact about the country of Sweden.\nTo get started, say \"Alexa, ask Safety Swede to tell me a Sweden fact\"\nAlexa will respond with \"Here's your Sweden fact: ...\"",
   "enablement": null,
   "exampleInteractions": [

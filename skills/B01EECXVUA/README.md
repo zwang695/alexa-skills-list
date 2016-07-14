@@ -16,7 +16,7 @@ This is an initial version of a fortune cookie or quote generator. The invocatio
 ### Skill Details
 
 * **Invocation Name:** fortune cookie
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.64875a0c-dca4-4987-8e20-0ba80b0176c8
 * **ASIN:** B01EECXVUA
 * **Author:** Subhajit Bhattacherjee

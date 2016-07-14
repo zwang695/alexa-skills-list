@@ -20,7 +20,7 @@ Sign up for our weekly newsletter with more tips and insights at http://my.curat
 ### Skill Details
 
 * **Invocation Name:** daily bootcamping
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bcbe62c4-8015-445c-a93e-ca0cb2547015
 * **ASIN:** B01D2XLNX4
 * **Author:** Six Voices

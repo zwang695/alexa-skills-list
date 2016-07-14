@@ -4,7 +4,7 @@
   "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "Buddha, was a sage on whose teachings Buddhism was founded. He is believed to have lived and taught mostly in the eastern part of the Indian subcontinent sometime between the sixth and fourth centuries BCE. In this Alexa Skill get the privilege of listening to his wisdom in short pithy quotes (known as suttas). Invoke this skill by saying \"Alexa open BuddhaSays\". After which ask alexa \"tell me a quote\".",
   "enablement": null,
   "exampleInteractions": [

@@ -18,7 +18,7 @@ Simply "ask Times Tutor" to get started with multiplication problems between one
 ### Skill Details
 
 * **Invocation Name:** times tutor
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0a3c027d-dfe7-41aa-961e-9517da31e5bc
 * **ASIN:** B01DURZV76
 * **Author:** Trimbo Ltd.

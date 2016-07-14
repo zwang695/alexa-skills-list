@@ -16,7 +16,7 @@ Have Alexa help you figure out if you remembered to do everything you need to do
 ### Skill Details
 
 * **Invocation Name:** remember your keys
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0f02daa1-7b3d-4a8b-a6a3-8f642c1fa25a
 * **ASIN:** B01DXS1JVE
 * **Author:** Wing L. Mui

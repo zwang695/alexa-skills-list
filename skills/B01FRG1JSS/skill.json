@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Trivia for Trekkie's.  Test your Knowledge of the Star Trek universe!  The trivia game covers all of the TV series, with new questions added periodically.",
   "enablement": null,
   "exampleInteractions": [

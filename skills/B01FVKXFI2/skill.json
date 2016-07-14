@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This trivia game is a template that could be reused for games or as a quiz when learning new things (i.e history, languages, etc. ). \n\nIt uses a multiple-answer format to quiz users of various questions.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 4.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Who killed Thomas and Martha Wayne? In this choose-your-own-adventure mystery game, Alexa guides you as you hit the mean streets of Gotham to investigate the murder of young Bruce Wayne’s parents. Can you navigate around the story’s dead ends to find the path that solves the crime?\n \nTo launch this skill, say “Open the Wayne Investigation.” During the game, you can say \"repeat options,\" \"go back,\" or \"skip.\" For further assistance, say \"help\".\n\nParental guidance suggested. The Wayne Investigation contains content that may not suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [

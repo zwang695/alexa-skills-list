@@ -18,7 +18,7 @@ Richmond is the Southern capital of cool. Already well known for its rich histor
 ### Skill Details
 
 * **Invocation Name:** r. v. a. facts
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f95135b0-f6b3-455f-bece-a420496677f7
 * **ASIN:** B01GAJQKF8
 * **Author:** Drew Firment

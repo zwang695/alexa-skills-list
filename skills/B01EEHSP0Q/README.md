@@ -16,7 +16,7 @@ This skill reports the air quality index for US zip codes.  The data is sourced 
 ### Skill Details
 
 * **Invocation Name:** air quality
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c4153cc2-b53d-4994-b498-ce64fd62b0f6
 * **ASIN:** B01EEHSP0Q
 * **Author:** Bio-Teck

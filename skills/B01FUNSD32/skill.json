@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "Economies around the world change in an instant. As such, it can be difficult to follow global economic conditions. However, with Indicators you can quickly and easily keep up with the state of the economy. We support tens of thousands of data series, including GDP, the Unemployment Rate, Median Household Income, Existing Home Sales, and the Federal Funds Rate.",
   "enablement": null,
   "exampleInteractions": [

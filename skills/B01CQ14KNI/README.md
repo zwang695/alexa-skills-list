@@ -18,7 +18,7 @@ For suggestions or to contact please send email to:  brothersgrimmsoftware@gmail
 ### Skill Details
 
 * **Invocation Name:** puget sound
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.84b78272-1cd7-4abc-9b7a-cdcf0ed1d5dc
 * **ASIN:** B01CQ14KNI
 * **Author:** Brothers Grimm Software

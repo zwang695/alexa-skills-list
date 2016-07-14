@@ -4,7 +4,7 @@
   "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Earthquakes will tell you all of the recent earthquakes around the world. Ask earthquakes, what's shakin', what's new, or just give me an update and Alexa will tell you all about the most recent earthquakes.",
   "enablement": null,
   "exampleInteractions": [

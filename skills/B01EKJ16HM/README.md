@@ -16,7 +16,7 @@ Random Muse randomly combines ideas to generate prompts for writers, artists, an
 ### Skill Details
 
 * **Invocation Name:** random muse
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.446e94c5-4f5b-4301-bf53-578e80681820
 * **ASIN:** B01EKJ16HM
 * **Author:** Eric Gregory

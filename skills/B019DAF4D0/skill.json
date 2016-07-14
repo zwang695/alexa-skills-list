@@ -4,7 +4,7 @@
   "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Celebrate a goal - or anything else - with a classic audio \"GOOOOOL\" sound.  Try different languages too (Currently supports French and Spanish)",
   "enablement": null,
   "exampleInteractions": [

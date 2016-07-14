@@ -16,7 +16,7 @@ Globetrotter Trivia is a fun trivia game about the cities of USA.
 ### Skill Details
 
 * **Invocation Name:** globetrotter trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ad26fcbd-7f01-4833-b31e-282a79c02127
 * **ASIN:** B01D4PVFXS
 * **Author:** Udaan Technologies

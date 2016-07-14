@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "In \"According to Bob\" , Alexa will ask you 6 questions about Bob Dylan's prose. This is a multiple-choice quiz, so Alexa will provide you with four choices. Most of the time, all of the choices come directly from the mind of Bob Dylan.  Some questions are easy, some obscure. Some are hysterical, some are lame, but all of them demonstrate what a colorful world Bob Dylan lives in. \n\nScore a point for each correct answer, although I don't know what good it will do you!\n\nTo play, just say \"Alexa, play According to Bob\"",
   "enablement": null,
   "exampleInteractions": [

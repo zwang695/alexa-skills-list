@@ -16,7 +16,7 @@ Retrieve fantasy football news and player updates on the Top 300 players directl
 ### Skill Details
 
 * **Invocation Name:** fantasy football nerd
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bd4acc9c-8b9d-418d-b1c5-0fdf47c7cd9b
 * **ASIN:** B017OBGRKY
 * **Author:** TayTech, LLC

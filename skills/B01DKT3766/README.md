@@ -22,7 +22,7 @@ Pro tip, give it a good NY regional accent. Its just more fun that way.
 ### Skill Details
 
 * **Invocation Name:** empire state colors
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e36f1e63-87b6-456c-bbe4-76d2f24b6c87
 * **ASIN:** B01DKT3766
 * **Author:** daniel ccharobnnet

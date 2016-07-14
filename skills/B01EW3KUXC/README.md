@@ -16,7 +16,7 @@ The first time the skill is run, Alexa asks the user for the names of his or her
 ### Skill Details
 
 * **Invocation Name:** grandchildren
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b7ba16b5-835d-48a4-8eef-b6c465a3e012
 * **ASIN:** B01EW3KUXC
 * **Author:** Cooper 

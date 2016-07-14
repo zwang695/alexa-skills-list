@@ -4,7 +4,7 @@
   "averageRating": 4.1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "The Space Weather skill will tell you the current conditions in space, including solar wind speed, chance of a solar storm, and the solar flux.",
   "enablement": null,
   "exampleInteractions": [

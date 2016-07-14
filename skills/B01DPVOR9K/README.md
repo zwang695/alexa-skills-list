@@ -16,7 +16,7 @@ Turn Alexa into a veritable muse with the Promptly skill. Just ask for the curre
 ### Skill Details
 
 * **Invocation Name:** promptly
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.be7fd8db-c74b-4daf-94ba-34ef03977529
 * **ASIN:** B01DPVOR9K
 * **Author:** CaptainQuirk

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Practice common Arabic phrases; ask the skill to translate a phrase for you, and you'll hear it back in Arabic. If you have the Alexa app handy, you can also read the phrase in Arabic, IPA (International Phonetic Alphabet), and English.\n\nHere is a list of the phrases the skill can translate:\n\nDo you speak Arabic?\nDo you speak English?\nExcuse me\nGood afternoon\nBye\nBye bye\nGoodbye\nGood evening\nHave a good evening\nGood morning\nHave a good morning\nTop of the morning to you\nGood night\nHave a good night\nSweet dreams\nHello\nHello there\nHi\nHowdy\nHow are things?\nHow are you?\nHow have you been?\nHow is it going?\nWhat's up?\nI love you\nLove you\nMy name is\nNo\nExcuse me\nPlease\nI'm sorry\nSorry\nThank you\nThanks\nWelcome\nWhat's your name?\nWhere's the toilet?\nYes\nYou're welcome",
   "enablement": null,
   "exampleInteractions": [

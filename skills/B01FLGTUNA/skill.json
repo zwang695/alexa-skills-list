@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Salad Bar provides you the recipes of over 50 different salads. New recipes are added all the time. So, once you have this skill enabled, just say \"Alexa, ask salad bar what's the recipe of Caesar salad\", and it will tell you how to make it. \nIt's a great skill when you are feeling tired and can't think of how to make something quickly. Or, want to try a new salad.",
   "enablement": null,
   "exampleInteractions": [

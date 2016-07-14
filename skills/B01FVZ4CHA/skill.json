@@ -13,7 +13,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "You can now monitor your water intake just by using your voice! This skill works together with the H2O-Pal iPhone app and you connect to it simply by using the same account you use for the app.\nYou do not need to have the H2O-Pal smart bottle hydration tracker to use this skill, though you can easily order one on Amazon (just search for H2O-Pal). This skill will sync with the water intake data that's on the app. You can provide water input data manually on your iPhone, automatically through the H2O-Pal tracker and now you can do it using your voice and this Alexa skill. You also check your water intake status by voice at any time with this skill.\n(Your iPhone must be connected to the internet to ensure that data stays consistent between your phone and the data that's available to Alexa. At this time your phone will sync the data each time the H2O-Pal app is either opened or closed.)\nWe're happy to learn about your experience with H2O-Pal. If you have any suggestions, questions or if you experience an issue just send us an email at support@outofgalaxy.com.\nWe want to help you stay healthy and hydrated =)",
   "enablement": null,
   "exampleInteractions": [

@@ -18,7 +18,7 @@ Currently the Alexa QRZ skill only works on American FCC callsigns.
 ### Skill Details
 
 * **Invocation Name:** q. r. z.
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.38b0c1ee-24b5-40c6-aa7b-27cff8461da1
 * **ASIN:** B01C4M3FX0
 * **Author:** randomwalking.com

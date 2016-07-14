@@ -29,7 +29,7 @@ Source Code available @ https://github.com/goldsziggy/alexa_drinkmaster
 ### Skill Details
 
 * **Invocation Name:** drink master
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1dbf1144-e80f-40c5-ac08-d81540319603
 * **ASIN:** B01DBYQM1C
 * **Author:** Ziggy

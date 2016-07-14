@@ -20,7 +20,7 @@ Quotes are spoken in the riders' own voices and then repeated by Alexa for clari
 ### Skill Details
 
 * **Invocation Name:** a cyclist
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b1260974-0b6c-4c3e-ba94-528b7eadab81
 * **ASIN:** B01FJ1PVX0
 * **Author:** Thomptronics

@@ -18,7 +18,7 @@ Alexa can give you a tagline from a horror movie and you can try to guess which 
 ### Skill Details
 
 * **Invocation Name:** horror movie taglines
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.36632c42-6063-45a2-9a4d-6da93220c04a
 * **ASIN:** B01EF8S6L2
 * **Author:** Fangtastico

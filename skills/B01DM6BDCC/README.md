@@ -23,7 +23,7 @@ Ans: 1
 ### Skill Details
 
 * **Invocation Name:** cricket quizzer
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.94b7f79f-8776-4329-88a1-9ad871ae3f1a
 * **ASIN:** B01DM6BDCC
 * **Author:** Ganaraja

@@ -16,7 +16,7 @@ NewsCom® is a registered trademark currently owned by the Signode Industrial Gr
 ### Skill Details
 
 * **Invocation Name:** news com
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.eb48b688-718e-4afd-ae45-74554aa920a6
 * **ASIN:** B01EPE8CRE
 * **Author:** SEG Labs

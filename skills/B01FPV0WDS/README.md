@@ -16,7 +16,7 @@ Simple Demo for a hack night. If you ask Alexa to flip the relay you will toggle
 ### Skill Details
 
 * **Invocation Name:** relay flip
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b01e4da5-4d8c-4224-a7e7-5398e5fa6730
 * **ASIN:** B01FPV0WDS
 * **Author:** Ovc

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "This new skill allows sharing little fun fact about Audacy Corp (http://audacy.space) from team, vision to technology inside. It will explain how space communications or network will help building a new and better age of space exploration.\n\nAudacy is a new space startup that builds satellites to allow inter-satellite communication in an affordable pay-per-use model. It utilizes latest IP-based real time data communications (e.g. webSocket, webRTC) and data streaming. For mission operations application, we leverage browser front-end with zero footprint for real time telemetry.",
   "enablement": null,
   "exampleInteractions": [

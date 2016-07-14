@@ -4,7 +4,7 @@
   "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This skill will ask you seven questions, each with multiple answers to choose from. Choose your answer by saying it's number, for example, you can say, \"number two\".\n\nAnswer carefully and truthfully to find out which house's values you embody!",
   "enablement": null,
   "exampleInteractions": [

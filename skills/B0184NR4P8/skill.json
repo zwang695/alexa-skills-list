@@ -4,7 +4,7 @@
   "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "ELIZA is a computer program written at MIT by Joseph Weizenbaum between 1964 and 1966 that emulates a Rogerian psychotherapist.\n\nIt has almost no intelligence whatsoever, only tricks like string substitution and canned responses based on keywords. Yet when the original ELIZA first appeared in the 60's, some people actually mistook her for a human. The illusion of intelligence works best, however, if you limit your conversation to talking about yourself and your life.\n\nInstall this skill to let Alexa bring you back to the early days of artificial intelligence and pretend that she is actually talking to you. Say goodbye when you are done with the session.",
   "enablement": null,
   "exampleInteractions": [

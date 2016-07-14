@@ -16,7 +16,7 @@ Try you knowledge against Alexa in this History quiz
 ### Skill Details
 
 * **Invocation Name:** american history quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.04dbcec5-fdd1-4441-91e8-5b962b2786a9
 * **ASIN:** B01F601P7A
 * **Author:** Kids game area

@@ -4,7 +4,7 @@
   "averageRating": 4.4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Start the skill by saying\n\n\"Alexa, open pickup lines\"\n\nIt will give you a pick up line and ask if you want another.  You can reply \"give me another\" or \"stop\" to exit the skill.\n\nOr at anytime using Echo, just  say \n\"Alexa, ask pickup lines for a line\"\n\nThe pickup lines are meant for entertainment only.  Real life usage not recommended.\n\nThis skill may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [

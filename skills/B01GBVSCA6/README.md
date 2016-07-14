@@ -29,7 +29,7 @@ If the user needs additional time to think about the answer or if they want to h
 ### Skill Details
 
 * **Invocation Name:** periodic table games
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.14f87551-e771-406c-9668-cf8e9f694320
 * **ASIN:** B01GBVSCA6
 * **Author:** Aravind Raghunathan

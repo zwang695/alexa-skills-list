@@ -4,7 +4,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "Magic Mirror searches world every to day to find out who the fairest one in all the land is. Make it part of your daily routine to find out, by asking.\n\nMagic mirror in my hand, who is the fairest in the land?\nWho is the fairest in the land?\nFairest in the land?\n\nMagic mirror on the wall, who is the fairest one of all?\nWho is the fairest one of all?\nFairest one of all?",
   "enablement": null,
   "exampleInteractions": [

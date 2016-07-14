@@ -16,7 +16,7 @@ Are you interested in world holidays? Rely on World Holidays for dozens of world
 ### Skill Details
 
 * **Invocation Name:** world holidays
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.04804500-f525-41b9-bd52-10ee804af859
 * **ASIN:** B01G106OF2
 * **Author:** Appbly.com

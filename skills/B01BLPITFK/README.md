@@ -33,7 +33,7 @@ SETUP: Enable the skill on Alexa and use your Almond account credentials to logi
 ### Skill Details
 
 * **Invocation Name:** almond
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0afff5d3-1615-4c87-af8d-f9e116998d33
 * **ASIN:** B01BLPITFK
 * **Author:** Securifi Inc.

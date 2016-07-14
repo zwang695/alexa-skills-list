@@ -18,7 +18,7 @@ This app is based on the ideas of Brian Eno and Peter Schmidt, and can be used i
 ### Skill Details
 
 * **Invocation Name:** creative strategies
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.087ca523-0737-4ada-a083-89bb8b592cd0
 * **ASIN:** B01EP953VM
 * **Author:** Prolixity

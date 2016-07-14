@@ -4,7 +4,7 @@
   "averageRating": 4.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This amazon skill helps people by giving them a useful pickup line when they need it, by saying a simple phrase. The user gets started by saying \"Alexa, ask nerdy valentine for a pickup line\" in which a pickup line is stated to the user.",
   "enablement": null,
   "exampleInteractions": [

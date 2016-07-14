@@ -21,7 +21,7 @@ USAGE:
 Using the Alexa skill you have the following options:
 
 Set Timzone: Make sure to set your timezone so the skill can report back the correct times based on your timezone.
-Alexa, ask baby stats to set timezone {pacific, eastern, or central}
+Alexa, ask baby stats to set timezone {pacific, central, eastern, mountain, atlantic, hawaiian, or alaskal}
 
 Add Stat: Tracks a stat at the current time.
 Alexa, ask baby stats to add {stool, poop}
@@ -84,7 +84,7 @@ Alexa, ask baby stats to add note pumped .5 ounces
 ### Skill Details
 
 * **Invocation Name:** baby stats
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f24fc1b4-b5f2-4be7-afc7-c833d6c739d6
 * **ASIN:** B01CJRUAF6
 * **Author:** cWix

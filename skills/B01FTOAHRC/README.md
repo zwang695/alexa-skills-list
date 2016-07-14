@@ -24,7 +24,7 @@ Once you request a grade, it'll be saved until you remove it.
 ### Skill Details
 
 * **Invocation Name:** hillbrook bear
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d2097abc-3f26-44dc-8f21-4e44bd588cdc
 * **ASIN:** B01FTOAHRC
 * **Author:** Kimberly Nicholls

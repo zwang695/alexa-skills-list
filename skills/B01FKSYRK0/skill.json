@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "This skill allows web developers to ask Alexa about the support for HTML, CSS and JavaScript features in the current version of popular mobile and desktop browsers. The skill uses data from CanIUse.com to determine whether a features is fully, partially or not supported.",
   "enablement": null,
   "exampleInteractions": [

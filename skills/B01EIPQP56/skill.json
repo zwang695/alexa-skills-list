@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This is a trivia game based on the ancient Persian Empires before 800 A.D. Say 'Alexa, ask Persian History' to start.",
   "enablement": null,
   "exampleInteractions": [

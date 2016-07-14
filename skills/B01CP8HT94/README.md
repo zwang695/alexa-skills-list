@@ -26,7 +26,7 @@ Note: that being said, we're not perfect! Sometimes Tracker might not give you e
 ### Skill Details
 
 * **Invocation Name:** tracker
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.14b0b4b6-e827-40e9-8c30-f572bbf4f006
 * **ASIN:** B01CP8HT94
 * **Author:** Majel Tech

@@ -18,7 +18,7 @@ Powered by TfL Open Data.
 ### Skill Details
 
 * **Invocation Name:** tube status
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b6cfbb3b-f6d2-4bdd-95cf-fa58b25e35bd
 * **ASIN:** B01BPRK6DC
 * **Author:** Simon Cross

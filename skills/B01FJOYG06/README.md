@@ -16,7 +16,7 @@ Don't know what you want to eat? Well, here are some random meal, food or dish s
 ### Skill Details
 
 * **Invocation Name:** meal recommendations
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ccc656e2-dc35-4ff8-8b29-f8518a10025c
 * **ASIN:** B01FJOYG06
 * **Author:** Yamuda

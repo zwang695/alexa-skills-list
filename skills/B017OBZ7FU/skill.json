@@ -4,7 +4,7 @@
   "averageRating": 1.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Do you live in a coastal city and spend time by the water? Rely on Tide Pooler for tidal information for major coastal cities. Information source: NOAA.gov.",
   "enablement": null,
   "exampleInteractions": [

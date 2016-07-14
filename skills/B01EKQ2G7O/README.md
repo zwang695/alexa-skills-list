@@ -16,7 +16,7 @@ Answer trivia questions about U.S. cities. The multiple choice questions in this
 ### Skill Details
 
 * **Invocation Name:** city trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4e38843b-3996-47ab-9244-2a669e192d7d
 * **ASIN:** B01EKQ2G7O
 * **Author:** Neil McManus

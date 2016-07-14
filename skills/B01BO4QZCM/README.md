@@ -129,7 +129,7 @@ Powered by spitcast.com
 ### Skill Details
 
 * **Invocation Name:** surfable
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6022acc8-396c-4e40-b274-4f8db4613e99
 * **ASIN:** B01BO4QZCM
 * **Author:** Internet of Voice

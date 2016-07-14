@@ -23,7 +23,7 @@ Optionally "and let's beat the {mascot}" or "and let's beat {college}"  can be i
 ### Skill Details
 
 * **Invocation Name:** calling the hogs
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a6146902-585f-43ee-bc01-06aadaeca282
 * **ASIN:** B01DEA97CE
 * **Author:** hogfanboy

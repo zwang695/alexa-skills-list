@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Cat facts is a fun education tool to retrieve purrfect cat facts for any occasion.\n\nLearn hundreds of facts about our feline overlords. We are constantly adding more!\n\nTo get started, simply ask Alexa for a cat fact using the example phrases above.\n\nExample facts include:\n\"Cats make about 100 different sounds. Dogs make only about 10.\"\n\"A cat can travel at a top speed of approximately 31 mph (49 km) over a short distance.\"\n\"Cats are unable to taste sweetness.\"\n\"Your cat recognizes your voice but just acts too cool to care (probably because they are).\"\n\"There are cats who have survived falls from over 32 stories (320 meters) onto concrete.\"\nDownload the cat facts Alexa Skill for more!",
   "enablement": null,
   "exampleInteractions": [

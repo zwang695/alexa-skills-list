@@ -16,7 +16,7 @@ Ask Alexa whats for lunch today, or at some day in the future at East Grand Rapi
 ### Skill Details
 
 * **Invocation Name:** lunch bot
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e57986dd-8a8c-42c1-9909-c7c0fe3df448
 * **ASIN:** B01B3PU7UI
 * **Author:** Brian Miller Web Design LLC

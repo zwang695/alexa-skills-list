@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This skill allows you to get basic information about the original Vectrex GCE games.\nIt will also retrieve gameplay information from the Vectrex Wikia web site and send it to your Alexa app.",
   "enablement": null,
   "exampleInteractions": [

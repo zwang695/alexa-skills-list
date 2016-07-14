@@ -18,7 +18,7 @@ It will ask you for a type of meat, then provide you with the temperature in Fah
 ### Skill Details
 
 * **Invocation Name:** safe to eat
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b8757c29-1ea2-4993-acc3-31709025da86
 * **ASIN:** B01FGZQYRG
 * **Author:** Spraypaint

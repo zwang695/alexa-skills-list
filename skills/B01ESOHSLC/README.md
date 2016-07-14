@@ -67,7 +67,7 @@ You can always say “stop”, “cancel” or “exit”.
 ### Skill Details
 
 * **Invocation Name:** ping pong
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8cbbec55-1a6a-4eaf-b2f8-c898f8a6be37
 * **ASIN:** B01ESOHSLC
 * **Author:** Dana Young

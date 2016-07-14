@@ -14,7 +14,7 @@ Trivia is all around us. This set of facts will give you the key facts behind th
 ### Skill Details
 
 * **Invocation Name:** trivia facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.75cb7803-9d8c-4295-81f7-023fb19d5e38
 * **ASIN:** B01FOXWMQW
 * **Author:** Robert Schlaff

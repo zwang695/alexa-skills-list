@@ -23,7 +23,7 @@ Historical questions and basic typographic categories are covered in this trivia
 ### Skill Details
 
 * **Invocation Name:** typography history trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3a4e7f2a-c3ad-4713-8b5e-e9541701316a
 * **ASIN:** B01FOL6A8K
 * **Author:** BlueDev

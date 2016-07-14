@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "The Symptom Checklist is an instrument consisting of the eighteen DSM-IV-TR criteria.  Six of the eighteen questions were found to be the most predictive of symptoms consistent with ADHD.  \n\nIf the user scores less than 10, he/she has a very low chance to be diagnosed with ADHD.\n\nBetween 10 and 14 he/she has a moderate chance to be diagnosed with ADHD.\n\nA score of 15 and higher is considerate to have a very high chance to be diagnosed with ADHD.\n\nDISCLAIMER : This is not a substitute for medical professional advice.",
   "enablement": null,
   "exampleInteractions": [

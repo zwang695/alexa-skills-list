@@ -18,7 +18,7 @@ Unless you're a trombonist, guitar player, drummer, bass player, saxophone playe
 ### Skill Details
 
 * **Invocation Name:** music jokes
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f712b754-b07f-4f7c-ac48-7cc9e3edf727
 * **ASIN:** B01CFXBVQ6
 * **Author:** Dart

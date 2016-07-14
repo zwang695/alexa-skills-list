@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Connected-Home",
+  "category": null,
   "description": "CheerLights is an “Internet of Things” project created by Hans Scharler that allows people’s lights all across the world to synchronize to one color set by Twitter. This is a way to connect physical things with social networking experiences.\n\nFind out how the world feels right now...\n\nhttp://cheerlights.com/",
   "enablement": null,
   "exampleInteractions": [

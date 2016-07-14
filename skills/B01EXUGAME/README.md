@@ -18,7 +18,7 @@ Each reply is a random selection of that day's historical events, so you may ask
 ### Skill Details
 
 * **Invocation Name:** this day in history
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d226fcb0-9f35-4a5f-98d8-ef3323ffcceb
 * **ASIN:** B01EXUGAME
 * **Author:** Tyler Sprau

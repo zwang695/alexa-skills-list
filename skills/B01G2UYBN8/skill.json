@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Listen to jokes from Malayalam movies. \n\nPlease note that this skillset is useful only for those who understand Indian regional language Malayalam. \n\nStart the skill by saying, \"Alexa, play Malayalam jokes\". Alexa would play another joke if you say \"this is boring\". You can also play another joke either by saying \"play something else\" or \"play next\". To repeat a joke, say \"play again\" or \"repeat\".\n\nDisclaimer: This skill may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [

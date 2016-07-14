@@ -4,7 +4,7 @@
   "averageRating": 4.4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "This skill will give the tide report for most locations with a NOAA station along with some popular beaches.  If Tide Guide cannot find your location in the NOAA database it will try to find a location within 100 miles of the specified location.  Some of the supported cities/locations are:\n\nSeattle\nPortland\nSan Francisco\nSanta Barbara\nSanta Monica\nBaltimore\nLong Beach\nSan Juan Island\nLos Angeles\nMonterey\nVentura\nPuget Sound\nVancouver\nPortland\nAstoria\nHonolulu\nCharleston\nPensacola\nJacksonville\n\nand many, many more.",
   "enablement": null,
   "exampleInteractions": [

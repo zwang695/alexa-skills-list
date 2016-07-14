@@ -38,7 +38,7 @@ Ask Board Gamer to tell you the size of your BGG game collection by saying:
 ### Skill Details
 
 * **Invocation Name:** board gamer
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.795c17b9-6ce0-42a3-bc69-60fa03fc9add
 * **ASIN:** B01D39I76I
 * **Author:** CHH

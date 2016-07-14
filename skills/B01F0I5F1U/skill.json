@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "TIL Me More teaches you new interesting things every day. It pulls user-contributed posts from reddit's /r/todayilearned and brings them directly and easily to you, hands-free! Use TIL Me More by asking Alexa \"I want to learn something new!\"",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 3.1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Tells you if Lake Travis is full yet.",
   "enablement": null,
   "exampleInteractions": [

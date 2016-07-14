@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Let Alexa be your guide around the Puget Sound from Seattle to Bremerton and throughout the San Juan Islands. This app will allow you to find the next ferry from the location you specify. Save time by asking Alexa on your way out, rather than having to fumble with your phone.\nPlease note that One Ferry Away only works in Washington State.",
   "enablement": null,
   "exampleInteractions": [

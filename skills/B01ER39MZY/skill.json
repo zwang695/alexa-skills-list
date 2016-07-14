@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Connected-Home",
+  "category": null,
   "description": "You can ask Awair to tell you the current Awair score, recommendations about the current air quality as well as the specific information about the five different components in the air (temperature, humidity, CO2, VOC and find dust). You need to have an Awair account and an Awair device linked to it to be able to use this skill.",
   "enablement": null,
   "exampleInteractions": [

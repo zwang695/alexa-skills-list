@@ -16,7 +16,7 @@ Many People Do not know what is I.O.T , this app gives quick facts about I.O.T b
 ### Skill Details
 
 * **Invocation Name:** i. o. t. fact
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.02d83897-d7a3-4799-837d-45c59d50a1af
 * **ASIN:** B01DQQWJ08
 * **Author:** Greenmind software solutions

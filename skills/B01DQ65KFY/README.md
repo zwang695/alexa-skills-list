@@ -20,7 +20,7 @@ I consider these passages to be seeds of the Bible, kernels of core ideas. I hav
 ### Skill Details
 
 * **Invocation Name:** bible seeds
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d5098a09-ef02-4c85-96ee-fa5e2e72b20a
 * **ASIN:** B01DQ65KFY
 * **Author:** Ibgib LLC

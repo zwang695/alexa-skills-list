@@ -16,7 +16,7 @@ Get a short 20-second summary of a given programming language.
 ### Skill Details
 
 * **Invocation Name:** programming languages
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b7955806-56cf-47d0-9dc5-b7f4cf15332f
 * **ASIN:** B01GDRZYCW
 * **Author:** Jackie Scholl

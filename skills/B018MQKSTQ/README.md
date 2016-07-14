@@ -21,7 +21,7 @@ You can ask for help at any time by simply saying “help me” and cancel your 
 ### Skill Details
 
 * **Invocation Name:** a. o. l.
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4f0914d6-c863-4388-8794-4a7cb000b134
 * **ASIN:** B018MQKSTQ
 * **Author:** AOL Inc.

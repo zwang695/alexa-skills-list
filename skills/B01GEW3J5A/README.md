@@ -16,7 +16,7 @@ Alexa tells you things you didn't know about San Francisco.
 ### Skill Details
 
 * **Invocation Name:** san francisco
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.59a9a6d7-ccd8-4d28-b0a9-3a3cd74838b0
 * **ASIN:** B01GEW3J5A
 * **Author:** Office Grooves

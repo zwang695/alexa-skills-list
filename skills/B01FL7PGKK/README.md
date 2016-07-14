@@ -18,7 +18,7 @@ NOTICE: This skill may not be suitable for all ages. This skill provides instruc
 ### Skill Details
 
 * **Invocation Name:** alan drinks
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4eb4f2b9-30ee-415e-96e1-385d927e3764
 * **ASIN:** B01FL7PGKK
 * **Author:** LearnedH

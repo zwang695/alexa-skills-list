@@ -24,7 +24,7 @@ This skill works for every L train stop in New York City, including Brooklyn and
 ### Skill Details
 
 * **Invocation Name:** the l train
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.90c30b6a-6ff7-499c-be12-86a8516cea8b
 * **ASIN:** B019YQ846M
 * **Author:** Nick Mercer

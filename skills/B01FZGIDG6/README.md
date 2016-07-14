@@ -18,7 +18,7 @@ Please note this skill is not created by or endorsed by anyone involved with MAS
 ### Skill Details
 
 * **Invocation Name:** fans of mash
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.24a6f2e7-9642-46c1-bc3d-4ef4a3ed5954
 * **ASIN:** B01FZGIDG6
 * **Author:** Trex3000

@@ -16,7 +16,7 @@ This skill offers the ability quickly get information about elements on the peri
 ### Skill Details
 
 * **Invocation Name:** chemistry professor
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b2da1712-5cf0-4aa7-813c-c46c1a36bf3d
 * **ASIN:** B01FTO7YIM
 * **Author:** IntelliScape Solutions

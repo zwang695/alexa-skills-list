@@ -12,7 +12,7 @@ This skill will quiz users on various facts of main stream martial arts. The goa
 ### Skill Details
 
 * **Invocation Name:** martial art trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.14518985-6678-4fd3-8b8c-195b96482428
 * **ASIN:** B01DMZUFQS
 * **Author:** MGM Games

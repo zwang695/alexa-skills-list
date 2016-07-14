@@ -16,7 +16,7 @@ Use this skill to test your knowledge of basic chess knowledge, use "open chess 
 ### Skill Details
 
 * **Invocation Name:** chess trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.edf2c999-421b-49a4-8787-58e6706a5c8c
 * **ASIN:** B01DV7GLI8
 * **Author:** antblessing

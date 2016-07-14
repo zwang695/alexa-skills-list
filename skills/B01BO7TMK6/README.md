@@ -18,7 +18,7 @@ UPDATE 06/13/2016: Baby Names now includes names from 2015!
 ### Skill Details
 
 * **Invocation Name:** baby names
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a3e0b34d-955a-44bb-b70a-a6e98e006aa5
 * **ASIN:** B01BO7TMK6
 * **Author:** Flag Robot

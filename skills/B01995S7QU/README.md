@@ -30,7 +30,7 @@ UPDATE: Locations are now saved! No need to start over if you want to edit your 
 ### Skill Details
 
 * **Invocation Name:** drive time
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.47c169c1-abb9-46ca-acb7-2dae01ecc065
 * **ASIN:** B01995S7QU
 * **Author:** Philosophical Creations

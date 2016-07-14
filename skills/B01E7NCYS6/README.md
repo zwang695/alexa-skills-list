@@ -16,7 +16,7 @@ Do you call yourself a foodie? Test your knowledge in this trivia game that push
 ### Skill Details
 
 * **Invocation Name:** noodle it out
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d1a03701-fc16-4236-a599-0ef4550ea86a
 * **ASIN:** B01E7NCYS6
 * **Author:** Sharmi55

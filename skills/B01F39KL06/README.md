@@ -16,7 +16,7 @@ This is a trivia game about theater and movie musicals.  Questions refer to acto
 ### Skill Details
 
 * **Invocation Name:** musical trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.10f42215-9971-483a-9f5b-916a50842b1c
 * **ASIN:** B01F39KL06
 * **Author:** Christopher Hopkins

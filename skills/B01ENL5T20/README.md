@@ -16,7 +16,7 @@ Say "Alexa, Open Random Thoughts" and she will speak one of approximately 60 ran
 ### Skill Details
 
 * **Invocation Name:** random thoughts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a2ba5081-cdf8-457b-9cfe-977a58c8d03a
 * **ASIN:** B01ENL5T20
 * **Author:** RM Development

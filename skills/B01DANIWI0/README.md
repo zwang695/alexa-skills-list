@@ -36,7 +36,7 @@ http://support.blumoo.com/support/solutions/folders/11000001043
 ### Skill Details
 
 * **Invocation Name:** blue moo
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.025a7013-264d-49af-a249-1239c904fcac
 * **ASIN:** B01DANIWI0
 * **Author:** Flyover Innovations

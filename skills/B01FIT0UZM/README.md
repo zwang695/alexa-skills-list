@@ -32,7 +32,7 @@ Jennifer Ann's Group is a nonprofit public charity preventing teen dating violen
 ### Skill Details
 
 * **Invocation Name:** teen dating violence info
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.169fc77a-d545-4faf-a78f-647bd2c78d41
 * **ASIN:** B01FIT0UZM
 * **Author:** Jennifer Ann's Group

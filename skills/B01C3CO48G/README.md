@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Twenty Questions icon" width="36"> [Twenty Questions](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.981b5af5-089f-4112-9913-4588bc5beb2a)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 14
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 16
 
 To use the Twenty Questions skill, try saying...
 
@@ -26,7 +26,7 @@ Be sure to rate the game if you enjoy it!
 ### Skill Details
 
 * **Invocation Name:** twenty questions
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.981b5af5-089f-4112-9913-4588bc5beb2a
 * **ASIN:** B01C3CO48G
 * **Author:** Amazon

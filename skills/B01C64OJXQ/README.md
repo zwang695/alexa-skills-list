@@ -24,7 +24,7 @@ And look forward to your feedback.
 ### Skill Details
 
 * **Invocation Name:** flight search
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ce7a976a-4f48-48f9-b3a6-e17c9547ab73
 * **ASIN:** B01C64OJXQ
 * **Author:** RS

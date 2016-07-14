@@ -16,7 +16,7 @@ Check to see who's online within Convrge. For more information regarding converg
 ### Skill Details
 
 * **Invocation Name:** converge
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e0b16c48-459a-46ec-b85a-7cb31a760e75
 * **ASIN:** B01AYLDILW
 * **Author:** Jay Wallace

@@ -16,7 +16,7 @@ In need of some dice? Dungeon dice can roll a random 4-sided, 6-sided, 8-sided, 
 ### Skill Details
 
 * **Invocation Name:** dungeon dice
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.43e64c2b-9f81-42f6-9a16-c3f4b273f5d8
 * **ASIN:** B01EK2OZSG
 * **Author:** DaveDev Productions

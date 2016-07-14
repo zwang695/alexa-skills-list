@@ -16,7 +16,7 @@ This skill retrieves air quality report containing current levels for Ozone, Sma
 ### Skill Details
 
 * **Invocation Name:** air quality report
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ebcc5b62-6c66-4856-9601-ca3cef1aa2fb
 * **ASIN:** B01EOFCHMA
 * **Author:** ICM

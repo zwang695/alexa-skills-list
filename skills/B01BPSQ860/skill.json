@@ -4,7 +4,7 @@
   "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Are you tracking the volatile price of Bitcoin? Do you sometimes want to know what the price is but you don't have a browser or tracker app handy? What could be more convenient than asking Alexa the current price of bitcoin when the thought strikes you?\n\nThere is nothing to setup or prepare. All you have to do is ask \"What is the price of Bitcoin\". The app polls multiple exchanges and always has an up to date and ready answer for the current exchange rate between US dollars and Bitcoin.\n\nIt will also tell you how much the price has changed over the last 24 hours so you can keep track of which way Bitcoin is moving!",
   "enablement": null,
   "exampleInteractions": [

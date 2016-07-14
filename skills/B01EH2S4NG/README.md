@@ -21,7 +21,7 @@ Alexa"That answer is correct. Your score is 1..."
 ### Skill Details
 
 * **Invocation Name:** science trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.400b1a8d-c612-4905-ae38-e132e12ba32b
 * **ASIN:** B01EH2S4NG
 * **Author:** Kemal Ficici

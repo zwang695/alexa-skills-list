@@ -16,7 +16,7 @@ Control your Alarm.com system with your voice.
 ### Skill Details
 
 * **Invocation Name:** alarm dot com
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.177a1019-e465-44f1-b4fd-cdf3d76bfb40
 * **ASIN:** B01DOP9H2O
 * **Author:** Alarm.com

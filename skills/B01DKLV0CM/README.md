@@ -16,7 +16,7 @@ Are you interested in the birthdays of famous people? Rely on Famous Births for 
 ### Skill Details
 
 * **Invocation Name:** famous births
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0c3e9650-4ab5-44db-abda-f9ba316b5587
 * **ASIN:** B01DKLV0CM
 * **Author:** Appbly.com

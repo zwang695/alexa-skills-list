@@ -19,7 +19,7 @@ If you have two Alexa devices, like an Echo and a Dot, then you can have them pe
 ### Skill Details
 
 * **Invocation Name:** baseball skit
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a541d062-bdb1-4395-b1e2-5d1106ff4ff1
 * **ASIN:** B01E0GJQFO
 * **Author:** Ron Lisle

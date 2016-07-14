@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "You cans ask Foobot to tell you the current air quality level in each of the rooms where you have a device located. You can just ask for the level at 'home' in you have only one Foobot.\n\nYou can ask Foobot for recommendations on improving levels of each of the specific pollutant (CO2, VOC, Particulate matter). Just say 'tips' if you want general air quality recommandations.\n\nYou may also ask Alexa to turn ON or OFF the lights on the Foobot device when going to bed or getting up in the morning.",
   "enablement": null,
   "exampleInteractions": [

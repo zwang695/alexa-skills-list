@@ -18,7 +18,7 @@ Just ask Alexa to start  Barcelona Quiz. New questions are being added all the t
 ### Skill Details
 
 * **Invocation Name:** barcelona quiz
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4371677d-93b1-4192-a0c8-dd7a60e7e27b
 * **ASIN:** B01E5T1IRU
 * **Author:** lavigilanta.info

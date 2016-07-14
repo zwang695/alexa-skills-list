@@ -17,7 +17,7 @@ General casino rules are used. But if you want to know specifics, you can ask fo
 ### Skill Details
 
 * **Invocation Name:** black jack
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.42d63611-1265-4d49-b663-9a59bfcae2ad
 * **ASIN:** B01FGXT5A6
 * **Author:** TsaTsaTzu

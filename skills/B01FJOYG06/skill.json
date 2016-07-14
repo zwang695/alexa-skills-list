@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Don't know what you want to eat? Well, here are some random meal, food or dish suggestions.",
   "enablement": null,
   "exampleInteractions": [

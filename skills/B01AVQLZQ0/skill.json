@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "1-2-3 Math, is a math challenge which tests your elementary compute skills, including addition, subtraction, multiplication, division, comparison etc",
   "enablement": null,
   "exampleInteractions": [

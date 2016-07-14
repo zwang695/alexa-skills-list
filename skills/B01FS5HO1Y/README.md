@@ -18,7 +18,7 @@ Map Image via © OpenStreetMap contributors
 ### Skill Details
 
 * **Invocation Name:** u. s. capitals trivia
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.456c1aa9-3978-4cfd-99a5-83ae31717179
 * **ASIN:** B01FS5HO1Y
 * **Author:** Timothy Aaron

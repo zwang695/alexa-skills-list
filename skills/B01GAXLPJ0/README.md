@@ -16,7 +16,7 @@ This is a small, fun Posh trivia game with questions on syntax, history and more
 ### Skill Details
 
 * **Invocation Name:** posh trivia
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ec1bff9d-15a5-4c65-b5b5-bd50221c700d
 * **ASIN:** B01GAXLPJ0
 * **Author:** Matthew Kerfoot

@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Ever find yourself trying to remember the keyboard shortcuts for the Mac? The Shortcut Genie for the Mac can tell you the most common keyboard shortcuts for the Mac. Just ask, \"Alexa, ask the Shortcut Genie how do I print my document?\" or \"Alexa, ask the Shortcut Genie how do I restart my Mac using my keyboard?\" and he will grant you your wish. We are adding more Mac-related shortcuts every week.",
   "enablement": null,
   "exampleInteractions": [

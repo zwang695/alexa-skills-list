@@ -22,7 +22,7 @@ You may choose to guess a 2,3,4 or 5 digit secret number. Alexa then chooses the
 ### Skill Details
 
 * **Invocation Name:** pico
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f16d46cc-afc6-496c-b3d3-4229349af0ed
 * **ASIN:** B01F4XQ5NS
 * **Author:** Skillsai

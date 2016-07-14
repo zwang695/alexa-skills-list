@@ -20,7 +20,7 @@ http://cheerlights.com/
 ### Skill Details
 
 * **Invocation Name:** cheer lights
-* **Category:** Connected-Home
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3cb285d8-d166-4c14-8e7a-878acc298bf5
 * **ASIN:** B01BFXE0RO
 * **Author:** hans

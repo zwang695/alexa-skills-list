@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Use HawkBus to get the next time until the next bus arrives at a specified stop in the Iowa City area.  This skill uses Bongo (Bus-on-the-Go) to provide upcoming bus predictions for a given stop, specified by stop number.  For a complete list of valid stop numbers, or more information about Bongo, please see ebongo.org.",
   "enablement": null,
   "exampleInteractions": [

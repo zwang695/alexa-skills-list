@@ -16,7 +16,7 @@ Recipe Buddy helps you out in the kitchen!  Search thousands of recipes and have
 ### Skill Details
 
 * **Invocation Name:** recipe buddy
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.da7da8aa-ecd6-4158-a5dd-8251eeecd873
 * **ASIN:** B01G84HZKY
 * **Author:** APPX

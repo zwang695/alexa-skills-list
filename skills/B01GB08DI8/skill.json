@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Want Alexa to help you roll dice for the Shadowrun Fifth Edition role playing Game? Shadow roller supports voice command dice rolling, and can even handle the rule of six (with exploding 6's for when dice are rolled with edge pre-spent), as well as re-rolling failures.\n\nGlitches - calculated and reported. Critical glitches - those can happen also!\n\nPerfect for when you have a lot of dice, especially for NPC's.\n\nIf you like this skill, check out Next Pass on the iTunes App Store.",
   "enablement": null,
   "exampleInteractions": [

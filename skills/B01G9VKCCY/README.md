@@ -21,7 +21,7 @@ DISCLAIMER: THE SKILL MAY NOT BE SUITABLE FOR ALL AGES.
 ### Skill Details
 
 * **Invocation Name:** truth or dare unrated
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cce37bbd-59dc-44a5-989e-815c2a40ad18
 * **ASIN:** B01G9VKCCY
 * **Author:** Bastien Reboulet

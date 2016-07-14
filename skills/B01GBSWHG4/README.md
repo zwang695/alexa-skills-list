@@ -18,7 +18,7 @@ Llama icon made by freepik (http://freepik.com) from http://flaticon.com, CC BY 
 ### Skill Details
 
 * **Invocation Name:** llama facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a8357239-e30c-4950-8b49-ef8e6ffe00a6
 * **ASIN:** B01GBSWHG4
 * **Author:** Alex Kuang

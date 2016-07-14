@@ -16,7 +16,7 @@ With this skill, you can find locations and times for karaoke in the Tricities W
 ### Skill Details
 
 * **Invocation Name:** tricities karaoke
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.946cf7f2-dc74-400b-a101-9a71e9c83e95
 * **ASIN:** B01EQXQVSQ
 * **Author:** Innofuze

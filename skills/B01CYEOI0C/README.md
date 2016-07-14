@@ -16,7 +16,7 @@ Test your knowledge of the men's college basketball tournament!  Think you are s
 ### Skill Details
 
 * **Invocation Name:** college hoops
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a2fd6694-5fb0-4258-8a22-c27333614aad
 * **ASIN:** B01CYEOI0C
 * **Author:** GYoungApps

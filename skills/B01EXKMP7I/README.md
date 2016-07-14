@@ -16,7 +16,7 @@ Ready to find your zen? Listen to a koan and practice meditating upon this quest
 ### Skill Details
 
 * **Invocation Name:** zen master
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d6c2b985-5945-43f9-aec2-f441d7f6365a
 * **ASIN:** B01EXKMP7I
 * **Author:** Sharmi55

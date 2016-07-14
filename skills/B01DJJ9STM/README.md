@@ -19,7 +19,7 @@ This skill will repeat anything you say to Alexa.
 ### Skill Details
 
 * **Invocation Name:** repeat after me
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8d344e62-4de5-4b8d-94f5-ec7737bc901d
 * **ASIN:** B01DJJ9STM
 * **Author:** Spraypaint

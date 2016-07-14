@@ -16,7 +16,7 @@ CueFit allows you to easily access your Google Fit data via Alexa. Simply ask Cu
 ### Skill Details
 
 * **Invocation Name:** cue fit
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.72c46dfe-c398-418a-95f9-7ed4d0b8633b
 * **ASIN:** B01DL0N8X6
 * **Author:** kix

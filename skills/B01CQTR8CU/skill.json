@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Welcome to spelling bee, the very first spelling game on Alexa. There are several hundred words, so every time you play, it's a fresh, new challenge. Currently, the words are at a 5th grade level. If you have ideas about how to make this skill more awesome, let me know! All feedback is welcome.",
   "enablement": null,
   "exampleInteractions": [

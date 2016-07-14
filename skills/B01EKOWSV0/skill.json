@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Tide Pooler gives you the current tide information for a given city or state.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Daily Cutiemals will send cute animal pictures to your email. You will need to register an email through Alexa, and also verify that you are the actual email owner. Once you have set up your email and been verified you may use a wide variety of adjectives (instead of cute), and a wide variety of animals (instead of cat). You are also not required to use an adjective and just have it send you an animal picture.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "This skill will list out all the ingredients without measurements to help you determine if you have all the right ingredients for 20 different smoothie recipes. \n\nThose recipes are for the smoothies listed below:\nOrange Banana Blast\nPep Prep\nBetter Call Kale\nArugula Blast\nBeauty Berry Blast\nProtein Breakfast Blast\nPina Colada Blast\nHappy Belly Blast\nPeas and Thank You\nIn the Tropics\nSlim Down Blast\nPurple Power Blast\nHealthy Glow Blast\nBalanced Blood Sugar Blast\nGreek Salad Vinaigrette (not a smoothie)\nBaby Sweet Greens Blast\nCoffee Boost\nBest Blast for kids\nBlueberry Yogurt Blast\nHealthy Snack Blast",
   "enablement": null,
   "exampleInteractions": [

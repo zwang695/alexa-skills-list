@@ -16,7 +16,7 @@ Test your knowledge of the Netherlands, its major attractions, cities, and histo
 ### Skill Details
 
 * **Invocation Name:** netherlands trivia
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e5be97a0-edc3-42c9-b2be-0896bfc1d07a
 * **ASIN:** B01FOQYH62
 * **Author:** Ben Plantinga

@@ -17,7 +17,7 @@ Try completing the game in less than 45 seconds.
 ### Skill Details
 
 * **Invocation Name:** thirteen
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.eab87f32-c2dc-499b-83c5-ff63c3ddb255
 * **ASIN:** B01AYU88N6
 * **Author:** VIVEK YADAV

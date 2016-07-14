@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "The Fun Bulldog Fact skill provides randomized facts about the dog breed known as the Bulldog. Various bits of trivia, historical data, medical information and advice for owners and prospective owners are provided.",
   "enablement": null,
   "exampleInteractions": [

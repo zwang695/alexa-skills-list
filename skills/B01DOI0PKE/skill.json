@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "NOTE: Bike Share only currently supports Citibike in New York City. Stay tuned for support for more bike share systems across the country!\n\nBike Share allows you to quickly find the closest bike share station to your address with bikes available! Use it on the way out of the house in the morning to avoid walking to an empty station. If a station has less than 3 bikes available, Bike Share will also let you know  the next station that is more populated. \n\nFirst, you need to add the address where your Amazon Echo resides. Start by saying:\n\"Add an Address.\"\n\nAlexa will prompt you, step by step, to add your address, starting with your house number. For example, if your address was 350 5th Avenue, 10118, when prompted for your house number, you would say \"three fifty\".\n\nNext, Bike Share will ask for your street name. Using the above example address, you would say \"fifth avenue\".\n\nFinally, Bike Share will ask for your zip code. In the above example, you would answer, \"one zero one one eight\".\n\nOnce saved, you can then ask at any time to find the closest bike. Just say: \"find me a bike.\"\nAlexa will remember your address indefinitely, so you'll never need to add an address again unless you move your Echo. \n\nIf you need to change your address, just tell Bike Share: \"change my address\". Alexa will ask if you want to overwrite your current address; if you respond \"yes\", you will be given the chance to enter a new address.",
   "enablement": null,
   "exampleInteractions": [

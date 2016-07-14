@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "An insult crafted from Shakespeare's lexicon is almost a compliment!\n\nThe 'Ask Uncle Shakespeare' skill is an amusing way to use Alexa to generate insults in the lofty language of The Bard! Words are chosen at random from a bank of Shakespeare's adjectives and nouns, delivered in sentence form.\n\nInspired by the many 'Shakespeare Insult' web pages and the (original?) Shakespeare insult worksheet created long ago by Jerry Maquire, English Teacher at Center Grove High School in Greenwood, Indiana.\n\nFeedback and suggestions are welcome!\nThanks for trying the skill.",
   "enablement": null,
   "exampleInteractions": [

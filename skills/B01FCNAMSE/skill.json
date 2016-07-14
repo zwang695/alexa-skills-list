@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "An Amazon Alexa skill to get a healthy snack idea to complement your daily nutrition plan.\n\nThis skill provides you a random healthy snack, such as hummus and pita chips, chunks of fresh watermelon, frozen bananas with peanut butter and mandarines and walnuts.\n\nSimply ask: Alexa, ask bites and snacks for a snack\" or \"Alexa, tell bites and snacks to give me a snack\".\n\nEnjoy Bites & Snacks. Stay healthy!",
   "enablement": null,
   "exampleInteractions": [

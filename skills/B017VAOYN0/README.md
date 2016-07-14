@@ -15,7 +15,7 @@ Now spelling out your daily word.
 ### Skill Details
 
 * **Invocation Name:** daily word
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d853b85f-1a7d-4f1d-bb7f-d10b29429090
 * **ASIN:** B017VAOYN0
 * **Author:** Matchbox mobile

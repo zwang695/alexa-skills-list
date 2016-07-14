@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Allows for multiple coin flips.",
   "enablement": null,
   "exampleInteractions": [

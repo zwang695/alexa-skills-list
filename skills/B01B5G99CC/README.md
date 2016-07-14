@@ -23,7 +23,7 @@ Learn more about Echo ordering and all the newest ways to order Domino’s at ht
 ### Skill Details
 
 * **Invocation Name:** dominos
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d9b83ae6-a16d-472d-a925-83c91fad878a
 * **ASIN:** B01B5G99CC
 * **Author:** Domino's Pizza, LLC

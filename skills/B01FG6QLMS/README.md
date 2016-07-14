@@ -17,7 +17,7 @@ Data provided by www.isithackday.com
 ### Skill Details
 
 * **Invocation Name:** pirate talk
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.39e5da0c-ebb2-47b2-b832-28ff775fcb8b
 * **ASIN:** B01FG6QLMS
 * **Author:** Preferred Plus Investments

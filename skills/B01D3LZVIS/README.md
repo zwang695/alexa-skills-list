@@ -16,7 +16,7 @@ This skill will help people learn some fun new facts about Japan. Just say "Alex
 ### Skill Details
 
 * **Invocation Name:** japan trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.746bf685-8991-4872-954d-4c2561d87925
 * **ASIN:** B01D3LZVIS
 * **Author:** Kyle Crombie

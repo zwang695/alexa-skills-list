@@ -16,7 +16,7 @@ This skill will give you a useful travel tip.
 ### Skill Details
 
 * **Invocation Name:** travel tips
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d3a54fc8-fdc0-4830-acf7-bddd417357f7
 * **ASIN:** B01G09UMIY
 * **Author:** Dickson Tse

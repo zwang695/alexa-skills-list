@@ -22,7 +22,7 @@ You can play multiple times to see how well you know the Giants.
 ### Skill Details
 
 * **Invocation Name:** giants trivia
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d70a5d71-729a-41c9-bacf-ce62fa520c79
 * **ASIN:** B01CE78A5S
 * **Author:** mine

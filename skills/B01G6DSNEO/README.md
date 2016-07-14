@@ -16,7 +16,7 @@ This skill recites Shakespeare quotes and various famous proverbs, spoken by a p
 ### Skill Details
 
 * **Invocation Name:** witlingo
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2628c7d2-d5f8-4464-9c5b-dc623e63ae98
 * **ASIN:** B01G6DSNEO
 * **Author:** Witlingo

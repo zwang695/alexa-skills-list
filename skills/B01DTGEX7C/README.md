@@ -16,7 +16,7 @@ Get your mind on food, culture, and history then ask Alexa to start Foodie Trivi
 ### Skill Details
 
 * **Invocation Name:** foodie trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.376940f4-dc35-4ca4-8d14-117ab828afe7
 * **ASIN:** B01DTGEX7C
 * **Author:** Kal M.

@@ -24,7 +24,7 @@ Fairest one of all?
 ### Skill Details
 
 * **Invocation Name:** magic mirror
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b298660b-76a0-4e98-9ab6-5f80fb51b495
 * **ASIN:** B01DOHAN1Q
 * **Author:** Laynr

@@ -4,7 +4,7 @@
   "averageRating": 2.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "\"What's My Sign\" is a daily horoscope.  Based on your astrological sign, it will provide you with your daily motivation based on your stars.  Just say, \"Alexa, ask whats my sign\".  And then say your astrological sign.  The following signs will work:  Aquarius, Pisces, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, and Capricorn.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This skill is intended to test user's knowledge in java. Type of questions range from beginner to intermediate level, there is a good chance that you may not know the answer to every question, so this is a fun way to learn as well.\n\nSimply start playing by saying \"Alexa, launch java trivia\".",
   "enablement": null,
   "exampleInteractions": [

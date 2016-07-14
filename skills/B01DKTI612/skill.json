@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "Find information about companies and startups. Who founded the company, what is it about, how much did they raise.\nBecome an expert in the startup world thanks to Alexa",
   "enablement": null,
   "exampleInteractions": [
@@ -30,5 +30,5 @@
   "stage": "live",
   "termsOfUseUrl": null,
   "vendorId": "M26GBOVXP6TD47",
-  "vendorName": "3scale"
+  "vendorName": "Nicolas Grenié"
 }

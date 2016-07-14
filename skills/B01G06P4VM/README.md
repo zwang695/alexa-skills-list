@@ -18,7 +18,7 @@ Visit http://www.prontocycleshare.com for more information.
 ### Skill Details
 
 * **Invocation Name:** seattle bike share
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.85889bc3-97ba-4200-8bc4-3706c6272974
 * **ASIN:** B01G06P4VM
 * **Author:** Asimov

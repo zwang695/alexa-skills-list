@@ -16,7 +16,7 @@ For getting planting times for zone 1 for various veggies.
 ### Skill Details
 
 * **Invocation Name:** planting time
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1c682492-e3c8-42d6-b3f5-de2b3c336cc0
 * **ASIN:** B01FNLZ45Q
 * **Author:** London Technology Services, LLC

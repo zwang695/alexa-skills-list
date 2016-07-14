@@ -16,7 +16,7 @@ Learn more about the American Civil War with Alexa!  You can learn something new
 ### Skill Details
 
 * **Invocation Name:** civil war buff
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2b806af6-a74e-4740-9485-0791952e78ec
 * **ASIN:** B01FGG0ONU
 * **Author:** Roaming Hill

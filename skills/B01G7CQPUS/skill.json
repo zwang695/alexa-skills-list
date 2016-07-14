@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "Tech Hunt can help you know today's top tech products/apps on Product Hunt. Upon invoking, Alexa will tell you the product's name along with a short description of it. \n\nSay, \"Alexa, ask Tech Hunt for top products\" and discover your next favorite thing.",
   "enablement": null,
   "exampleInteractions": [

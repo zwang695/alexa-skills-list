@@ -4,7 +4,7 @@
   "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Gives Washington DC Metro light rail train arrival and departure times, as well as maintenance or incident reports. It will remember the last station you requested times for and save it, setting it as default if a station is not specified next time.",
   "enablement": null,
   "exampleInteractions": [

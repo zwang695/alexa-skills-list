@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "This is a simple skill to allow you to ask Alexa to tell you some interesting fitness facts.  The goal of this skill is to give you advice on how to live a healthy, productive lifestyle.",
   "enablement": null,
   "exampleInteractions": [

@@ -20,7 +20,7 @@ Though it might not win any singing contest, it's infectiously clever fun.
 ### Skill Details
 
 * **Invocation Name:** happy birthday
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.32e8aa28-7591-4ad2-8f2b-83dd673464c5
 * **ASIN:** B01BH31OZI
 * **Author:** Thomptronics

@@ -16,7 +16,7 @@ With the KAYAK skill on Alexa, you can track flights and jump-start your travel 
 ### Skill Details
 
 * **Invocation Name:** kayak
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0087c89b-eeca-4c44-836d-bda79568d1d9
 * **ASIN:** B01EILLOXI
 * **Author:** KAYAK

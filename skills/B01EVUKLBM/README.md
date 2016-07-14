@@ -16,7 +16,7 @@ This is a fun trivia game that asks the user multiple-choice questions about Don
 ### Skill Details
 
 * **Invocation Name:** facts about donald
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8d4b9a98-2fe0-496d-acac-1927efbebbb5
 * **ASIN:** B01EVUKLBM
 * **Author:** Guggiemedia.com

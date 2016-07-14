@@ -18,7 +18,7 @@ All you need to do to get started is to ask Alexa to "Open Laugh Box." When it s
 ### Skill Details
 
 * **Invocation Name:** laugh box
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.119e6e72-2935-4f25-9a2d-95c087537126
 * **ASIN:** B01A04863S
 * **Author:** Markley Enterprises LLC

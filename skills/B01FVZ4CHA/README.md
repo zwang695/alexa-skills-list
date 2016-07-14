@@ -20,7 +20,7 @@ We want to help you stay healthy and hydrated =)
 ### Skill Details
 
 * **Invocation Name:** h. two o. pal
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b396276a-779f-4f3b-b4d7-4a739a630860
 * **ASIN:** B01FVZ4CHA
 * **Author:** Out of Galaxy, Inc.

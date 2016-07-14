@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "We all want to work out, and we all want it to be fast. This simple skill will make you fit no matter what shape you are in now. It is simple you can start today! Just start by saying \"Alexa, start push ups\" It will guide you through the process and even tell you what level/day you should start on. After that you can say \"Alexa, start push ups on day XX\". Dont worry if it gets to hard just keep repeating a day or couple days till you can complete the whole program. At the end of 6 weeks you can do 100 pushups!",
   "enablement": null,
   "exampleInteractions": [

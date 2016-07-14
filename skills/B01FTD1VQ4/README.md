@@ -17,7 +17,7 @@ Solve indecision and conflict with the Meal Dictator skill. Meal Dictator random
 ### Skill Details
 
 * **Invocation Name:** meal dictator
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8a005cf4-58ff-4dd6-845e-f6237b260736
 * **ASIN:** B01FTD1VQ4
 * **Author:** code4days

@@ -16,7 +16,7 @@ Conversation Starter is a great way to get suggested conversation topics for you
 ### Skill Details
 
 * **Invocation Name:** conversation starter
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.82ece337-c1c5-400e-8a95-34b58c3d79b8
 * **ASIN:** B019WZ4572
 * **Author:** Haxio

@@ -18,7 +18,7 @@ It uses a multiple-answer format to quiz users of various questions.
 ### Skill Details
 
 * **Invocation Name:** my biography
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b4091cb6-7ef8-45d2-b5d5-2b90927cc8f8
 * **ASIN:** B01FVKXFI2
 * **Author:** Sinead Cheung

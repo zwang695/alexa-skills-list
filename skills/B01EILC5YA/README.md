@@ -18,7 +18,7 @@ Learn more at http://www.celebrationbarreview.com
 ### Skill Details
 
 * **Invocation Name:** celebration bar review
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.332e31cb-2dda-4af5-9a15-fc1b941db870
 * **ASIN:** B01EILC5YA
 * **Author:** Origin Technologies Inc

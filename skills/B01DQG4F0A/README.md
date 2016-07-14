@@ -16,7 +16,7 @@ Facts about the band Phish. Ask Alexa to open Phish Geek and then ask for a fact
 ### Skill Details
 
 * **Invocation Name:** phish geek
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cf89e079-ee2d-4984-82c9-a062544a0bbb
 * **ASIN:** B01DQG4F0A
 * **Author:** EP

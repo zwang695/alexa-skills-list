@@ -16,7 +16,7 @@ Challenge your knowledge about newborns and learn something new in the process!
 ### Skill Details
 
 * **Invocation Name:** baby trivia
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b7be8b07-d6ff-4316-bcb1-3c0f23008000
 * **ASIN:** B01EUB4V54
 * **Author:** dkapps

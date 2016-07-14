@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "The Combat skill enables you to engage in conflict with a target of your choice using a weapon in the way that you want. You can say anything from something rather normal like \"hit the dragon with the sword\" to something amusing like \"tickle the pickle.\" The Combat skill will respond in an entertaining and often amusing way.\n\nThis app may not be suitable for all ages.\n\nTo discuss this skill, contact @VoiceGameDev on Twitter.",
   "enablement": null,
   "exampleInteractions": [

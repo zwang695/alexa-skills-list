@@ -17,7 +17,7 @@ This service will give you information about NYC transit (so far only subway/LIR
 ### Skill Details
 
 * **Invocation Name:** conductor
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5bf0893d-81e3-4477-9941-f5901359e740
 * **ASIN:** B01C9KTH5M
 * **Author:** Gotham Web Artisans

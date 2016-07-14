@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Locate APRS stations using the APSR Internet System, and reverse-geocode the locations to approximate addresses.",
   "enablement": null,
   "exampleInteractions": [

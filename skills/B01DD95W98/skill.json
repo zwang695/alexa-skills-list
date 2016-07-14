@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Natural language processing fun - as for now, computes \"distance\" between words in terms of character insertions and deletions required to change one into the other.\nNo prerequisites to set up, just ask about the distance from one word to another.",
   "enablement": null,
   "exampleInteractions": [

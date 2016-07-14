@@ -20,7 +20,7 @@ Uses 6th generation+ Pokemon type attributes.
 ### Skill Details
 
 * **Invocation Name:** type master
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d9e73c0b-2418-4b25-8789-599ab5fa5bfe
 * **ASIN:** B01G499YGQ
 * **Author:** Bobby

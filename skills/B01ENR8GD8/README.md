@@ -25,7 +25,7 @@ Icon graphic © Dejan Jovanovic - Fotolia.com.
 ### Skill Details
 
 * **Invocation Name:** gratitude power
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fa61106a-27c4-468e-aa3a-34b41e6232ff
 * **ASIN:** B01ENR8GD8
 * **Author:** SpryFeet.com

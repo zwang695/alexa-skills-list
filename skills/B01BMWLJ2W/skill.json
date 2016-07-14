@@ -4,7 +4,7 @@
   "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "Hebcal will tell you the dates of Jewish holidays and Shabbat candle lighting times. Convert dates to the Hebrew calendar, learn about this week's Torah portion, and count the days of the Omer, and study the Daf Yomi.\n\nHere are some more examples of what you can say:\n\n\"Alexa, ask Hebcal for today's Hebrew date.\"\n\"Alexa, ask Hebcal for candle lighting times in 02906.\"\n\"Alexa, ask Hebcal when Shabbat begins in Brooklyn.\"\n\"Alexa, ask Hebcal for the Torah portion.\"\n\"Alexa, ask Hebcal when is Chanukah in 2018?\"\n\"Alexa, ask Hebcal to count the Omer.\"\n\"Alexa, ask Hebcal for Daf Yomi.\"\n\"Alexa, ask Hebcal to convert October 20th.\"\n\"Alexa, ask Hebcal when is Rosh Chodesh?\"\n\"Alexa, open Hebcal.\"\n\nHebcal is pronounced HEEB-kal, as in HEBrew CALendar.",
   "enablement": null,
   "exampleInteractions": [

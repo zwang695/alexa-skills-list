@@ -4,7 +4,7 @@
   "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Communications",
+  "category": null,
   "description": "Pronto is a bot skilled with making phone calls for you. \n1. \"Alexa, tell Pronto my number is 510.274.1357\". Once you are setup, Pronto is ready to make calls for you. \n2. You can ask Pronto to make calls for you easily by saying.. \"Alexa, ask Pronto to call 510.378.6712\". Pronto will call the number and once answered, will connect  the line with the number you setup in step 1. Happy calling! For more information, check out pronto.ai\n\nPronto uses Twilio programmable voice API's to make the phone calls. Pronto's phone number is 415.423.1013, which will be the phone from which phone calls are initiated by Pronto.",
   "enablement": null,
   "exampleInteractions": [

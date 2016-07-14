@@ -16,7 +16,7 @@ To use the Trivia Challenge for fans of the Band (Unofficial) skill, try saying.
 ### Skill Details
 
 * **Invocation Name:** band trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.eaea0d18-8c10-4cc0-b5ec-31134949ee0b
 * **ASIN:** B01FV0KBNE
 * **Author:** Americool

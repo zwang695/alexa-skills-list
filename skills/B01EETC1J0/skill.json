@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "CueToken allows you to easily find the most current game token price for World of Warcraft, in gold, on both North American and European servers.\n\nToken price is provided by the courtesy of wowtoken.info and is updated every 10 minutes. This skill is unaffiliated with Blizzard Entertainment.",
   "enablement": null,
   "exampleInteractions": [

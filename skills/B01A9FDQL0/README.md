@@ -34,7 +34,7 @@ Special thanks to Eventful (www.eventful.com) for the wonderful event informatio
 ### Skill Details
 
 * **Invocation Name:** hanker
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c9f0a6d8-08bc-4d30-8f03-33999d6b9257
 * **ASIN:** B01A9FDQL0
 * **Author:** Webframeworks, LLC.

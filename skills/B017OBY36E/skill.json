@@ -4,7 +4,7 @@
   "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Welcome to \"Quote Me\". \nStart your day off with an inspiring quote or one that just makes you think.\nWe have over 75,000 quotes covering a range of over 100 different topics from over 11,000 people such as Sophocles, Bill Gates, Walt Whitman and many others.  You can ask for a random quote from the entire library or a quote on a specific topic such as love, happiness, or humor.  A full list of topics can be sent to your Alexa app at any time",
   "enablement": null,
   "exampleInteractions": [

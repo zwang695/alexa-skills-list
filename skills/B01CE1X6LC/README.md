@@ -16,7 +16,7 @@ My first attempt at an Alexa skill, this simple trivia game will ask players fiv
 ### Skill Details
 
 * **Invocation Name:** simpsons trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5770b522-c411-44d8-95a0-4346bce7ddd3
 * **ASIN:** B01CE1X6LC
 * **Author:** dmlov3ly

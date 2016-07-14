@@ -38,7 +38,7 @@ and many, many more.
 ### Skill Details
 
 * **Invocation Name:** tide guide
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3cb0b160-14dd-4659-bd8f-ba1a6d957665
 * **ASIN:** B01C3BJBJE
 * **Author:** Argusware

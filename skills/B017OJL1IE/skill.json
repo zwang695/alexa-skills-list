@@ -3,10 +3,10 @@
     "alexa-oauth.herokuapp.com"
   ],
   "asin": "B017OJL1IE",
-  "averageRating": 4.5,
+  "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Home-Automation",
+  "category": null,
   "description": "Alexa can finally talk to your car with the Amazon Echo skill from Automatic.Link your Automatic and Amazon accounts and you can ask Alexa where your car is located, how much fuel you have left, and how much you've driven in the last day, the last week, the last month, or even the last year. This skill requires an Automatic adapter. http://amzn.com/B00UZ0OHIQ ",
   "enablement": null,
   "exampleInteractions": [
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "automatic",
   "name": "Automatic",
-  "numberOfReviews": 17,
+  "numberOfReviews": 18,
   "pamsPartnerId": "9ID6jei1J9FnPfFeCJVNINOho",
   "permissions": null,
   "privacyPolicyUrl": "https://www.automatic.com/legal/",

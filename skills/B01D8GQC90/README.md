@@ -16,7 +16,7 @@ Positive affirmations repeated regularly are said to reflect your life.  Whateve
 ### Skill Details
 
 * **Invocation Name:** my thoughts
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.af25c298-d5de-459a-811c-9b30847e8e91
 * **ASIN:** B01D8GQC90
 * **Author:** NTP

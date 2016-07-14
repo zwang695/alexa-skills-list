@@ -6,7 +6,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "Alexa, meet Remember The Milk!\n\nThis skill brings the power of Remember The Milk to your Alexa-enabled device. It allows you to:\n\n* Hear what's due on the date of your choosing (what's due today, what's due next Tuesday).\n\n* Add tasks to your Remember The Milk account (remind me to pick up the milk, remind me to pay the Amex bill on Tuesday, remind me to take out the trash at 7pm on Friday).\n\n* Give tasks to your Remember The Milk contacts (remind Alice to book the flights to New York on Friday).\n\nYou'll need a free Remember The Milk account to use this skill. For more information on the skill, please visit:\n\nhttps://www.rememberthemilk.com/services/alexa/\n\nFor more information on Remember The Milk, please visit:\n\nhttps://www.rememberthemilk.com/",
   "enablement": null,
   "exampleInteractions": [

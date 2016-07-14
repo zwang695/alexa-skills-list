@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Satoshi's Bitcoin Quote is the first, fastest, and funnest way to keep up to date on everyone's favorite cryptocurrency! Sleek and easy to use, Satoshi is programmed to respond to realistic conversational questions. You can even choose your preferred price source for Satoshi to monitor and Alexa will provide you with up to the minute real-time pricing. Simply say, \"Ask Satoshi to find the price of bitcoin\" to hear the current per-dollar conversion rate. Say \"Ask Satoshi to configure my settings\" to hear a list of available price sources and to set your default.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Times Tutor helps children practice their basic multiplication. It will give you a multiplication problem, then reply with the answer! If you're correct, it will move onto another problem. If not, you get to keep trying.\n\nSimply \"ask Times Tutor\" to get started with multiplication problems between one and twelve. If you'd like to practice a series of numbers, such as all of the multiples of seven--one through twelve--then \"ask Times Tutor to practice seven\". You can also change the maximum by asking times tutor to \"practice seven up to twenty\". Or, for all numbers lower than twenty, ask Times Tutor to \"practice up to twenty\".",
   "enablement": null,
   "exampleInteractions": [

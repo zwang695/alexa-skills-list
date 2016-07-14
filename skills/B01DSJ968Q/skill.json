@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This skill will ask you for an operator (addition, subtraction, multiplication, or division) and the number of digits of the numbers. Then it will give you a random problem to solve.\n\n\"Addition with two digits\"\n\"Subtraction with four digits\"\n\nTo answer, say \"the answer is\" followed by the answer",
   "enablement": null,
   "exampleInteractions": [

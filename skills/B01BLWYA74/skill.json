@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Athan provides the Islamic Prayer Times in a given city. You can ask Athan for the five prayer times for the day or for the time of the next prayer. Disclaimer: Prayer times are provided by MuslimSalat.com. Skill icon is provided by http://www.designbolts.com.",
   "enablement": null,
   "exampleInteractions": [

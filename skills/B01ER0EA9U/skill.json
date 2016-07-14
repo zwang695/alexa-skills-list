@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "This skill provides facts about Texas A&M University.  You can simply ask Aggie Facts for a fact, trivia, or information about Aggies or Texas A&M.",
   "enablement": null,
   "exampleInteractions": [

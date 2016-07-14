@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "Yoga Trainer helps you keep up with your Bikram Yoga (C) at home. This Alexa Skill guides you through 26 postures that help you sharpen your mind, build your balance, strengthen your body, and stay flexible. This Skill assumes at least a basic level of familiarity with Bikram Yoga's postures and should be used as an aide by people who are already comfortable enough with postures to practice at home without supervision. You can get started right away without making an account.",
   "enablement": null,
   "exampleInteractions": [

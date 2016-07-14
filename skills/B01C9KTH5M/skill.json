@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "This service will give you information about NYC transit (so far only subway/LIRR/MetroNorth service status)\n'Alexa, ask conductor to get status for the 7 train'",
   "enablement": null,
   "exampleInteractions": [

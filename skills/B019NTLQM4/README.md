@@ -16,7 +16,7 @@ The Pug Bomb is a cuteness attack typically reserved for the domain of chat bots
 ### Skill Details
 
 * **Invocation Name:** pug bomb
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.28cc84df-138f-42b5-9dc3-8bae42ad8398
 * **ASIN:** B019NTLQM4
 * **Author:** The Brick Matt

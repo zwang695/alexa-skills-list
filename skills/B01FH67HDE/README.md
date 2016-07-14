@@ -32,7 +32,7 @@ https://www.rememberthemilk.com/
 ### Skill Details
 
 * **Invocation Name:** remember the milk
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cd197c8f-316d-45e0-b51a-243e00f01588
 * **ASIN:** B01FH67HDE
 * **Author:** Remember The Milk

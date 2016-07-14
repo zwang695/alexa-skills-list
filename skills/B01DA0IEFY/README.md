@@ -20,7 +20,7 @@ When you are done playing, say "Goodbye".  If you accidentally disconnected, say
 ### Skill Details
 
 * **Invocation Name:** for me
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d6f2cc48-6018-4b62-82c8-79220013cfb7
 * **ASIN:** B01DA0IEFY
 * **Author:** Touch Technologies, Inc

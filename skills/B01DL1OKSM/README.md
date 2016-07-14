@@ -18,7 +18,7 @@ Make sure to follow the example phrases provided, otherwise Runtime Helper won't
 ### Skill Details
 
 * **Invocation Name:** runtime helper
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e097b64c-2cc6-442b-9782-e45a8e64e8a9
 * **ASIN:** B01DL1OKSM
 * **Author:** Jason Cromer

@@ -4,7 +4,7 @@
   "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "Alexa will provide you real time air quality rating for major U.S. cities. This info is helpful for health conscious individuals or people who have respiratory problems such as Asthma.\n\nThere are five Air Quality ratings provided - Excellent, Fair, Moderate, Low and Poor.\n\nTo begin, simple say \"Alexa, launch Air Quality Meter\". Then you can ask \"What is the air quality in zip code 98105 ? or simply say the 5 digit zip code.\" For help, simply say \"Help\" or to quit this app, simply say \"Cancel\".",
   "enablement": null,
   "exampleInteractions": [

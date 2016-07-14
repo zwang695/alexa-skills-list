@@ -1,10 +1,10 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01F4VVKIA",
-  "averageRating": 4,
+  "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Bring Donald Trump's latest tweets to Amazon's Alexa.\n\nThis skill reads Trump's last ten tweets to you in Alexa's voice. Tremendous!\n\nPlease note: Not affiliated with candidate or campaign. This is an independent, for fun skill.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "mister trump",
   "name": "Tweets From The Donald",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

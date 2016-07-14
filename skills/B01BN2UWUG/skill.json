@@ -4,7 +4,7 @@
   "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "The Ask Hacker News skill gathers stories from Ycombinator's hacker news web site and provides the latest headlines for multiple categories.  Get the latest and most popular news from hacker news!\n\nYou can ask Alexa for Hacker News stories from the following categories: top, show, ask, job.",
   "enablement": null,
   "exampleInteractions": [

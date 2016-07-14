@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This is a learning skill which provides French translations for English words or sentences. Invoke by saying \"ask french tutor to translate <your word or sentence>\" or by saying \"Ask french tutor what is <your word or sentence>\"",
   "enablement": null,
   "exampleInteractions": [

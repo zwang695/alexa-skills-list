@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Tired of checking twitter and the web for the ESB colors? This skill will solve your problems. \n\nJust say, \"Alexa, Ask Empire State Colors 'what's the colors'?\" and she'll respond with the colors and event/company/holiday ESB is honoring.\n\nColor and honor details are learned from ESB's website. No account necessary.\n\nPro tip, give it a good NY regional accent. Its just more fun that way.",
   "enablement": null,
   "exampleInteractions": [

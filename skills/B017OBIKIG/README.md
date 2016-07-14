@@ -16,7 +16,7 @@ What’s going on this weekend? Just set your home city, and then you can ask wh
 ### Skill Details
 
 * **Invocation Name:** stubhub
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.69da691e-4802-437a-8265-16fa277d167b
 * **ASIN:** B017OBIKIG
 * **Author:** StubHub

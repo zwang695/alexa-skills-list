@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This skill gives you a random funny word with the definition. Learn new words! Impress your friends! Be the hit at your next party!",
   "enablement": null,
   "exampleInteractions": [

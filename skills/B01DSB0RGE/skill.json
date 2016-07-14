@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Find out whether or not DMX is in jail whenever you like.",
   "enablement": null,
   "exampleInteractions": [

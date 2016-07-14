@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This skill will help you learn the NATO phonetic alphabet (alpha, bravo, charlie...). The phonetic alphabet often used in radio communications to spell words in noisy situations. There is a codeword starting with each letter in the alphabet. For example, Bravo is the codeword for B. To spell the word DOG over the radio you would say Delta Oscar Golf.",
   "enablement": null,
   "exampleInteractions": [

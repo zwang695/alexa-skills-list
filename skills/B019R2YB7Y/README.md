@@ -18,7 +18,7 @@ The Listeners is an experiment in language art that provides, if you simply keep
 ### Skill Details
 
 * **Invocation Name:** the listeners
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.586aa4c5-12ca-496b-b7f1-3e93880f35de
 * **ASIN:** B019R2YB7Y
 * **Author:** Digital Language Arts

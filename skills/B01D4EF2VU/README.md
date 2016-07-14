@@ -21,7 +21,7 @@ Say the number of answer you think is correct.
 ### Skill Details
 
 * **Invocation Name:** cricket quiz
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.752b92c6-eeeb-49de-b6b6-a6e21979f53d
 * **ASIN:** B01D4EF2VU
 * **Author:** apjneeraj

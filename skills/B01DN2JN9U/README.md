@@ -21,7 +21,7 @@ MeatButler@gmail.com
 ### Skill Details
 
 * **Invocation Name:** meat butler
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.722f36ef-259b-419d-bc40-1af659c279c5
 * **ASIN:** B01DN2JN9U
 * **Author:** Rebecca McGinley

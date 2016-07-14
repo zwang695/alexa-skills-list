@@ -16,7 +16,7 @@ I'm using the reindeer games quiz template to create a refresher quiz when my hi
 ### Skill Details
 
 * **Invocation Name:** quick check quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c52c7e96-6d7d-4f9f-8134-8b37286a3a26
 * **ASIN:** B01AOB3J2U
 * **Author:** ChargED

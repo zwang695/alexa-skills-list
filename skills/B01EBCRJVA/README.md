@@ -18,7 +18,7 @@ This skill may not be suitable for all ages as it contains information about alc
 ### Skill Details
 
 * **Invocation Name:** wine buddy
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.820cd06a-23b5-4b88-a404-acaccef5dc72
 * **ASIN:** B01EBCRJVA
 * **Author:** tina orooji

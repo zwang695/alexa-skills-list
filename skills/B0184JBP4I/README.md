@@ -16,7 +16,7 @@ Gives Washington DC Metro light rail train arrival and departure times, as well 
 ### Skill Details
 
 * **Invocation Name:** dc metro
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4fa44b35-dc28-456a-8f8d-7690ed1c284e
 * **ASIN:** B0184JBP4I
 * **Author:** Jimmy Cartrette

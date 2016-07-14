@@ -20,7 +20,7 @@ There are hundreds of possible ghosts, see if you can catch them all!
 ### Skill Details
 
 * **Invocation Name:** ghost detector
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8cf655f7-821e-4e0f-827e-994f6626712b
 * **ASIN:** B01EYBJ19Q
 * **Author:** deegles.co

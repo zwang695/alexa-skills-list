@@ -16,7 +16,7 @@ Access the On-Line Encyclopedia of Integer Sequences (OEIS at http://oeis.org). 
 ### Skill Details
 
 * **Invocation Name:** o. e. i. s.
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7b636bb6-9c90-435e-932f-a6d1d12c2e58
 * **ASIN:** B01DC4OET8
 * **Author:** Fibonacci Products

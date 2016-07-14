@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Distance Between will tell you the distance between two cities that can be traveled to via a car, bike or by walking. Distance Between works best if you include the state or country along with the city.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ This skill finds the current GMT and tells it to user in terms of hours and minu
 ### Skill Details
 
 * **Invocation Name:** greenwich time
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fe04d827-6f0b-4564-ae48-364cb53e2d34
 * **ASIN:** B01DJJ286M
 * **Author:** SameerK

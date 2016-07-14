@@ -16,7 +16,7 @@ This skill allows existing Just Energy (TX only) customers to ask for their bill
 ### Skill Details
 
 * **Invocation Name:** just energy
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3fc661bb-f9b8-435b-856d-e3bc97fc32db
 * **ASIN:** B01EGDRMWU
 * **Author:** Just Energy

@@ -4,7 +4,7 @@
   "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This skill randomly chooses questions from the 100 possible questions posed by the United States Citizenship and Immigration Services and presents them as audio flash cards.  You will then be asked a question.  Once you think you know the answer, say \"tell me\" and see if you were correct.",
   "enablement": null,
   "exampleInteractions": [

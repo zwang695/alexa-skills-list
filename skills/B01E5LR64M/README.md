@@ -16,7 +16,7 @@ White House Facts contains a bank of facts about the White House.
 ### Skill Details
 
 * **Invocation Name:** white house facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0ed8413a-5b85-4bf9-bd0d-85507061476c
 * **ASIN:** B01E5LR64M
 * **Author:** Adrian Bolinger

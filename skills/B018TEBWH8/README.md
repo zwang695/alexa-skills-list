@@ -50,7 +50,7 @@ Powered by Chabad.org
 ### Skill Details
 
 * **Invocation Name:** the rabbi
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ec9cc97e-8eb3-4583-b8b0-9ef589d58775
 * **ASIN:** B018TEBWH8
 * **Author:** Chabad.org

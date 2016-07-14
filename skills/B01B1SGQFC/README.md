@@ -17,7 +17,7 @@ It will give the city and state info for any U.S. city.
 ### Skill Details
 
 * **Invocation Name:** zipcode
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.851cae27-975b-460e-9711-fbb4c1e6da89
 * **ASIN:** B01B1SGQFC
 * **Author:** Adnan Riaz

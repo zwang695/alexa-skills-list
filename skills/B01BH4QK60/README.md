@@ -16,7 +16,7 @@ Ask Alexa to open Missouri football and see if you can correctly answer five que
 ### Skill Details
 
 * **Invocation Name:** missouri football
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.802cf571-fab7-433d-a29d-3d635085ec2e
 * **ASIN:** B01BH4QK60
 * **Author:** Warren Mills

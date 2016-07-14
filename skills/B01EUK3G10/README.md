@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Eric's Integration for Logitech Harmony icon" width="36"> [Eric's Integration for Logitech Harmony](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a348d7dd-7f84-4d1d-9d51-b9c5896b66c0)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 9
+![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Eric's Integration for Logitech Harmony skill, try saying...
 
@@ -16,7 +16,7 @@ You must have a Logitech Harmony Hub to use this skill. When you activate the sk
 ### Skill Details
 
 * **Invocation Name:** harmony hub
-* **Category:** Connected-Home
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a348d7dd-7f84-4d1d-9d51-b9c5896b66c0
 * **ASIN:** B01EUK3G10
 * **Author:** Eric Schneider

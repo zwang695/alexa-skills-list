@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "This skill will give you a useful travel tip.",
   "enablement": null,
   "exampleInteractions": [

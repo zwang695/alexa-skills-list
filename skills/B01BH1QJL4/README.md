@@ -16,7 +16,7 @@ This skill is for Mixpo executives and employees to learn more about Mixpo's bus
 ### Skill Details
 
 * **Invocation Name:** mixpo
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9234a905-e670-4304-b8ac-86557507cc87
 * **ASIN:** B01BH1QJL4
 * **Author:** Salim Hemdani

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Ask this skill for a fact, and it will return a trigonometric identity from an internal database.",
   "enablement": null,
   "exampleInteractions": [

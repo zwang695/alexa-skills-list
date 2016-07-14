@@ -16,7 +16,7 @@ A games to test the knowledge of potential and existing visitors to the island o
 ### Skill Details
 
 * **Invocation Name:** provo trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a7327066-e809-45fa-b01a-55f89d227762
 * **ASIN:** B01DBH506C
 * **Author:** Kelly Justice

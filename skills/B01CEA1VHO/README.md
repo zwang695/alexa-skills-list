@@ -24,7 +24,7 @@ This skill is fun to play alone, or compete against your friends and family. You
 ### Skill Details
 
 * **Invocation Name:** music trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ec00bcfa-beef-4166-b1a5-66f6e7ec89ca
 * **ASIN:** B01CEA1VHO
 * **Author:** KevinTMay.com

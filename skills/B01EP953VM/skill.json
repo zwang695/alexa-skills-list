@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "This skill retrieves a phrase or cryptic remark which can be used as a catalyst to generate ideas,  to solve a creative block, or to approach an issue from another angle.\n\nThis app is based on the ideas of Brian Eno and Peter Schmidt, and can be used in any capacity as a way to enable lateral thinking.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Did you forget the name of a movie title, do want to know more about a particula
 ### Skill Details
 
 * **Invocation Name:** movie finder
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e1710a18-fb71-4a40-b52c-67412a4a8b1f
 * **ASIN:** B01GVFCP46
 * **Author:** Valossa Labs

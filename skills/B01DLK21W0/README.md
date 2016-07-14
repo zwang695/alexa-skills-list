@@ -26,7 +26,7 @@ Baltimore County schools
 ### Skill Details
 
 * **Invocation Name:** snow day
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0a69c441-3249-41b3-9bd5-37575ccde54d
 * **ASIN:** B01DLK21W0
 * **Author:** Small Data Solutions, Inc.

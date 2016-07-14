@@ -1,10 +1,10 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DJV1K0A",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "This skill allows you to get verses from the King James Bible in various ways.\n\nYou can ask for the \"verse of the day\" or a \"random verse\".\n\nYou can ask Alexa to retrieve specific verses, or passages like Proverbs 3:5-6 or Psalms 119:9,11. \n\nYou can ask Alexa to find verses containing one or more specific words. It will return a list of matching references. You can even narrow the search to verses in a specific book, or to the Old or New Testament.\n\nThis skill is offered by the ministry of FAST. For more information visit us at WWW.FAST.ST.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "fast bible",
   "name": "FAST Bible",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.fast.st/fast/main/terms/alexa",

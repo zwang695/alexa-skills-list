@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "This skill is designed to aid in the calculation of the prime and normal forms of a pitch class set of one to twelve different musical notes.\nYou can use this skill by starting the skill by saying, \"Alexa, start PC set calculator\", then by asking, \"What is the prime form of A, C, and C sharp?\" or \"What is the normal form of A, C, and C sharp?\".\nThe skill will then read back the prime or normal form of the pitch class set that you entered.",
   "enablement": null,
   "exampleInteractions": [

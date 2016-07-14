@@ -16,7 +16,7 @@ This app helps teach basic addition and subtraction skills to kids at the first 
 ### Skill Details
 
 * **Invocation Name:** math fun
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8336cc32-c2d1-432c-892c-3b27c09cf854
 * **ASIN:** B01DR1AJNG
 * **Author:** Ron Hoffman

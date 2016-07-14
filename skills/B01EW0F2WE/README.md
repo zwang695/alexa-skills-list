@@ -16,7 +16,7 @@ This is regular "purple one" trivia game. The user will simply launch the skill 
 ### Skill Details
 
 * **Invocation Name:** purple trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9173d4f0-c9a6-42ab-b67e-1ec6b4cd4184
 * **ASIN:** B01EW0F2WE
 * **Author:** Javier Forero

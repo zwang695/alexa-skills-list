@@ -20,7 +20,7 @@ This quick trivia game of 5 questions is fun and will improve (or show off!) you
 ### Skill Details
 
 * **Invocation Name:** learn geography
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7e5bb15a-be9f-4d5a-95b5-d8440f6fcf5b
 * **ASIN:** B01ETU80T4
 * **Author:** SMK Web Development

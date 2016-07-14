@@ -16,7 +16,7 @@ Alexa will say a color for you to repeat, then two then three, all the way to te
 ### Skill Details
 
 * **Invocation Name:** the color game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f0af7698-962b-43b5-a333-7ec2be581cab
 * **ASIN:** B01DJKW7HQ
 * **Author:** William Brenza

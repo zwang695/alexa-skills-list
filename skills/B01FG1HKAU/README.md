@@ -16,7 +16,7 @@ A kinder-guardian can ask How To Destiny where to find certain materials, how to
 ### Skill Details
 
 * **Invocation Name:** how to destiny
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.605ca609-9609-42a3-ace2-65d6628ef29e
 * **ASIN:** B01FG1HKAU
 * **Author:** Flint Creek

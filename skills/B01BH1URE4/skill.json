@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "There are two levels in this game, Easy and Hard.\nIn Easy level, you will need to state which name is repeated 3 times out of 10 commonly used first names. In Hard level, the challenge goes to 22 first names.\nYou can stop the game at anytime by saying \"alexa, stop\" or \"alexa, cancel\".\n\nNew features are being added, so please stay tuned.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Dylan Punster will try to find the closest matching pun based on the words in th
 ### Skill Details
 
 * **Invocation Name:** dylan punster
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2d8bcb2b-f77c-42e1-a4a8-696952825115
 * **ASIN:** B01FL2XV2A
 * **Author:** jmerrick

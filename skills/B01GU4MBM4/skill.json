@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Big Sky: Hyper-local, hourly weather forecasts for Amazon Alexa\n\n\nWhy Big Sky? \n\nAlexa actually has pretty good general weather information. But Big Sky uses the Dark Sky API, to give hyper-local forecasts, hour-by hour, tied to your actual street address. \n\nThat means you get the weather information most relevant to you, wherever you live in the world.\n\nBig Sky gives you quick access to weather information you need the most.\n\n\"Alexa, ask Big Sky...\"\n\n...what's the high temperature today? \n...will it rain in the next three hours?\n...will it rain before 10 pm?\n...what's the low temperature in the next seven days?\n...about the weather this weekend.\n...when is sunrise on Saturday?\n...what's the weather on Friday?\n\n\nWhy Big Sky?  Because it's better weather.",
   "enablement": null,
   "exampleInteractions": [

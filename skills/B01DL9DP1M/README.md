@@ -16,7 +16,7 @@ Alexa can now help you stay informed about the location,  activity,  fuel status
 ### Skill Details
 
 * **Invocation Name:** zubie
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ee8ad9c5-ae0a-4a94-8d14-570528d10f82
 * **ASIN:** B01DL9DP1M
 * **Author:** Zubie, Inc.

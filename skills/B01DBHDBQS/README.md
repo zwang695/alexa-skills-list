@@ -17,7 +17,7 @@ Have fun with this simple Alexa skill and suggest new facts in the reviews.
 ### Skill Details
 
 * **Invocation Name:** stage names
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.008bc190-0917-4f70-89cd-b1281afb233c
 * **ASIN:** B01DBHDBQS
 * **Author:** Macaron Apps

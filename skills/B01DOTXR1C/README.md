@@ -16,7 +16,7 @@ To know about India, India's History and amazing facts about India. We created a
 ### Skill Details
 
 * **Invocation Name:** namaste
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4f4f0115-373a-4ab8-b5d0-897d518e96f2
 * **ASIN:** B01DOTXR1C
 * **Author:** SUDHI

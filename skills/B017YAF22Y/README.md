@@ -18,7 +18,7 @@ Adding friends and family to your contacts is easy.  Once you link Alexa with t
 ### Skill Details
 
 * **Invocation Name:** my buddy
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6cc3bc17-3a82-4353-b6e4-011774974ad0
 * **ASIN:** B017YAF22Y
 * **Author:** Beach.Dev

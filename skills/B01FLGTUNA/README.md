@@ -17,7 +17,7 @@ It's a great skill when you are feeling tired and can't think of how to make som
 ### Skill Details
 
 * **Invocation Name:** salad bar
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.713843d8-405c-465a-8607-bb8acf0b9ec0
 * **ASIN:** B01FLGTUNA
 * **Author:** Shivansh Singh

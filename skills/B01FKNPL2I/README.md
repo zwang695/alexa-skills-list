@@ -14,7 +14,7 @@ Stream Guide for Twitch can check the top games being streamed on Twitch.tv and 
 ### Skill Details
 
 * **Invocation Name:** stream guide
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.714e8939-1d5e-442f-9c08-4ba697c12699
 * **ASIN:** B01FKNPL2I
 * **Author:** Ewen Chou

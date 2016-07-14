@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Multiples will ask you 5 random multiplication questions from 1x1 to 100x100 depending on your level and checks the answer. It is a great way to either learn the times tables, or test your skills. Also a good brain exercise. If your basic tables is too easy, just tell multiples what level you want.\n\nLevel one is 1x1 to 12x12. Level 2 is 1x1 to 20x20, Level 3 is 1x1 to 30x30, and so on until level 10 which is 1x1 to 100x100.",
   "enablement": null,
   "exampleInteractions": [

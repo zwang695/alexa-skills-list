@@ -20,7 +20,7 @@ DISCLAIMERS: This skill may not be suitable for all ages. This skill is not desi
 ### Skill Details
 
 * **Invocation Name:** medical marijuana trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.136e09a7-27cb-4724-a665-63465321b9f9
 * **ASIN:** B01FD1UYXI
 * **Author:** Supernova

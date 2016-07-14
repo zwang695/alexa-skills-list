@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Sometimes you want Alexa to tell you a knock knock joke, but this is for the times when YOU want to tell HER a knock knock joke!\n\nJust start by saying \"Alexa, ask for a knock knock joke\", and you know the rest!\n\nEven works with the good old \"Banana / Orange\" joke, but for \"Interrupting Cow\" you'll need to add \"Alexa\" before the \"moo\", because otherwise she won't listen while she's talking.",
   "enablement": null,
   "exampleInteractions": [

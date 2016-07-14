@@ -16,7 +16,7 @@ Twenty four is a game to use four number from 1-13 to calculate the number 24. E
 ### Skill Details
 
 * **Invocation Name:** twenty four master
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1265a11a-faad-4aec-8590-897f6f7452fb
 * **ASIN:** B01EFDFPDO
 * **Author:** NukePrice

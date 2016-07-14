@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "National Day Tracker is an app designed to always keep you up to date on nationally celebrated holidays. Sample a wide variety of little-known holidays that are sure to please even the pickiest palate. There's a holiday for everyone- whether animals are your thing, or you prefer sugary confections, Holiday Tracker has you covered from penguins (Jan 20) to chocolate chip cookies (May 15). What will you celebrate with us today?",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "national day tracker",
   "name": "National Day Tracker",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

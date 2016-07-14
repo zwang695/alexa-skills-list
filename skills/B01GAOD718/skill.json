@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "Cashback for Credit Cards which has quaterly rewards like Discover and Chase. The current month is detected and information is returned.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "The first time the skill is run, Alexa asks the user for the names of his or her grandchildren, and then asks the user to name them.  The names are remembered for future use.  The skill is intended for seniors to exercise their hearing, speaking and cognitive skills.",
   "enablement": null,
   "exampleInteractions": [

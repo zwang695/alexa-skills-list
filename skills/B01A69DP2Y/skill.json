@@ -4,7 +4,7 @@
   "averageRating": 1.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This skill enables Alexa to tell you randomly generated lottery numbers for Powerball, SuperLotto, or Mega Millions.  It can repeat the last numbers generated during the same session.  However, it will not remember the numbers once you exit this skill.\n\nThere is no guarantee of the validity of the numbers generated.  Use of this skill implies consent to not hold any persons or entities responsible for losses or winnings as a result of the use of the generated numbers.  It is not suitable for all ages.  Please respect your state's minimum age to play the lottery.",
   "enablement": null,
   "exampleInteractions": [

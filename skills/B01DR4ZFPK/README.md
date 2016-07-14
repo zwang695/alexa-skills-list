@@ -20,7 +20,7 @@ Content of CIS150 course, Introduction to Computing, Grand Valley State Universi
 ### Skill Details
 
 * **Invocation Name:** floki
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6c0a7537-cf83-452d-9261-680138995511
 * **ASIN:** B01DR4ZFPK
 * **Author:** smprof

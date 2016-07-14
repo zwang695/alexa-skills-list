@@ -18,7 +18,7 @@ Some content may not be suitable for all ages or audiences.
 ### Skill Details
 
 * **Invocation Name:** tough guy
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.516141a7-e164-4747-a6df-6f1b32dd0a6f
 * **ASIN:** B01A9GPHNE
 * **Author:** Bonafide

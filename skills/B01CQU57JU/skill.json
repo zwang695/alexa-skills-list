@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Learn some exciting new things about computer science with this quiz skill. \nTry and answer questions such as:\n\n\"Who is the creator of Linux?\"\n\"Where does a computer add and compare data?\"\n\nPlay alone or together with your family. The more the merrier.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Roll any number and any type of dice, add or subtract modifiers, drop the lowest
 ### Skill Details
 
 * **Invocation Name:** dice bot
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8e7298b4-e3b1-4b26-b619-d78f72a10690
 * **ASIN:** B01EW1OHSI
 * **Author:** Floating Factory

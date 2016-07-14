@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Alan Drinks is a skill that gives you the basic ingredients for making a few popular cocktails.  The following cocktails are available: Pina Colada, Strawberry Daiquiri, Margarita, Tequila Sunrise, Rum Punch, Miami Vice, Long Island Ice Tea, Mai Tai, Sex on the Beach, Banana Monkey, Planter's Punch, Caipirinha, Blue Hawaiian, Mojito, Fuzzy Navel, Tom Collins, Whiskey Sour, Zombie, Cosmopolitan, Bellini\n\nNOTICE: This skill may not be suitable for all ages. This skill provides instructions for how to make alcoholic drinks, in addition, some drink recipes returned by Alexa may include offensive content.",
   "enablement": null,
   "exampleInteractions": [

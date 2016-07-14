@@ -4,7 +4,7 @@
   "averageRating": 4.1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Save your home 'L' station and Alexa will help you leave home in time to catch the train. Open the skill and tell Alexa your station, including the line (blue, orange, green...). Then ask, \"When's the next northbound train?\" Alexa will even remember your preferred direction for next time, northbound or southbound.",
   "enablement": null,
   "exampleInteractions": [

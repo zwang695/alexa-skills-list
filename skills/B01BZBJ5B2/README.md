@@ -23,7 +23,7 @@ keeps you informed 24/7 with the latest USA TODAY headlines. Staying informed ha
 ### Skill Details
 
 * **Invocation Name:** u. s. a. today
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1ec023fd-0949-4184-b2a7-506812b21898
 * **ASIN:** B01BZBJ5B2
 * **Author:** Gannett, Inc

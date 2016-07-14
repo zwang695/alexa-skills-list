@@ -18,7 +18,7 @@ Please note, this skill contains crude humor.  As such, the skill may not be sui
 ### Skill Details
 
 * **Invocation Name:** yo mama joke
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0ed51810-d3ed-4b51-aa77-4f7c6573703b
 * **ASIN:** B01BLXRLDI
 * **Author:** Mark-It, Inc.

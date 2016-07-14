@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Ask Alexa for a variety of beer related factoids.\nDISCLAIMER: Beer Facts may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [

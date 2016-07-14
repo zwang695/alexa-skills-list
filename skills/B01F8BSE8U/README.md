@@ -18,7 +18,7 @@ Level one is 1x1 to 12x12. Level 2 is 1x1 to 20x20, Level 3 is 1x1 to 30x30, and
 ### Skill Details
 
 * **Invocation Name:** multiples
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.347fb3b2-67d4-4861-af6a-df773db1187b
 * **ASIN:** B01F8BSE8U
 * **Author:** unwired solutions

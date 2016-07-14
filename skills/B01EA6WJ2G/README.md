@@ -12,7 +12,7 @@ This skill count the likes on Hackster Facebook Fanpage
 ### Skill Details
 
 * **Invocation Name:** hackster likes
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b0987711-0f9c-4c08-aca0-f996ec4f0eab
 * **ASIN:** B01EA6WJ2G
 * **Author:** Jaguar Soft

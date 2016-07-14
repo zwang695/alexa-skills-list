@@ -16,7 +16,7 @@ This skill quizzes you on your knowledge of unicorns, the venture-backed billion
 ### Skill Details
 
 * **Invocation Name:** unicorn trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.19e5dc70-21aa-4d78-80e8-001f6447c683
 * **ASIN:** B01E6DLPT6
 * **Author:** alexaveryinc

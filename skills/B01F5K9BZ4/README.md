@@ -22,7 +22,7 @@ This content is user generated and may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** shower thoughts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9ad9668d-d56a-4b3e-aa6b-aaf848e3ed05
 * **ASIN:** B01F5K9BZ4
 * **Author:** Sterian Associates

@@ -16,7 +16,7 @@ The Cloud Ninja skill is your guide to Amazon Web Services.  It will keep you up
 ### Skill Details
 
 * **Invocation Name:** cloud ninja
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8aecc41d-56c1-456c-9bbe-2f4cb13e110c
 * **ASIN:** B01CXTNFUC
 * **Author:** Franklin Lobb

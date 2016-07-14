@@ -16,7 +16,7 @@ Find the names of famous people born on any given date. It looks up wikipedia fo
 ### Skill Details
 
 * **Invocation Name:** birthday finder
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3d7bd0b3-5c36-4dc9-9a88-cda319e096c2
 * **ASIN:** B01FZY5K7I
 * **Author:** suresh

@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Did you forget the name of a movie title, do want to know more about a particular film or would you like to find something to watch? Use Movie Finder to describe what you are looking for and it will return you the best results. Try describing your favorite movie without mentioning the title! Movie Finder is built on top of the world's best descriptive movie search engine, whatismymovie.com.",
   "enablement": null,
   "exampleInteractions": [

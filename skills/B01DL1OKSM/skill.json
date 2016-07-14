@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "Ask Alexa for the time complexity of a data structure or search algorithm, and get your average access, search, insertion and deletion run times.\nJust open Runtime Helper by saying \"Alexa, ask Runtime Helper..\" and ask away.\nMake sure to follow the example phrases provided, otherwise Runtime Helper won't be able to understand what you're trying to ask.",
   "enablement": null,
   "exampleInteractions": [

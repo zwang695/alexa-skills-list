@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Alexa will start by having you pick a number from 1 to 100. Don't tell her your number, though!\n\nAlexa will then walk you through some arithmetic on that number and at the end Alexa will speak the number you wind up with.\n\nUse these words to help you through the steps:\n\n * Start Over - to start by choosing your start number\n * Pause or Wait - to give yourself a bit more time\n * Repeat - to have Alexa repeat the last step\n * Previous - to have Alexa repeat the previous step\n \nHave a pencil and paper if you want to write down your steps.\n\nHave fun!",
   "enablement": null,
   "exampleInteractions": [

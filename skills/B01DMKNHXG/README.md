@@ -22,7 +22,7 @@ To add the abode Alexa skill, you must have your abode system set-up and a user 
 ### Skill Details
 
 * **Invocation Name:** abode
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c67f3916-0532-4346-bf77-6c5418ec4350
 * **ASIN:** B01DMKNHXG
 * **Author:** abode systems, inc.

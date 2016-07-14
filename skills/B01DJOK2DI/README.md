@@ -26,7 +26,7 @@ The Mixologist provides directions for making alcoholic drinks and is intended f
 ### Skill Details
 
 * **Invocation Name:** mixologist
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1d480b4b-02ad-4438-9dfe-fca922830817
 * **ASIN:** B01DJOK2DI
 * **Author:** Luis Sala

@@ -16,7 +16,7 @@ A multiple choice trivia game on state birds.
 ### Skill Details
 
 * **Invocation Name:** state birds trivia
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.82f750f3-de30-452e-87f5-51b5bd42731b
 * **ASIN:** B01GDCG9B2
 * **Author:** Matthew Conover

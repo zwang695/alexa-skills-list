@@ -18,7 +18,7 @@ Stringify also works well with: SmartThings, Fitbit, Nest, Jawbone Up, Phillips 
 ### Skill Details
 
 * **Invocation Name:** stringify
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d9bae870-d8dd-44ca-a628-d82953d5a20e
 * **ASIN:** B01AHDN31M
 * **Author:** Stringify, Inc

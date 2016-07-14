@@ -22,7 +22,7 @@ Currently Supported Cities are
 ### Skill Details
 
 * **Invocation Name:** korean weather
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a768ab0c-3612-412d-80a4-473bb8da19e9
 * **ASIN:** B01DP23CEU
 * **Author:** Chansung

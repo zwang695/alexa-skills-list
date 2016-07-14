@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "This skill reports the air quality index for US zip codes.  The data is sourced from the U.S. EPA AirNow program.",
   "enablement": null,
   "exampleInteractions": [

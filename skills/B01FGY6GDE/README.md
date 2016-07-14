@@ -22,7 +22,7 @@ For every guess, Alexa will tell you how many nodes you guessed correctly (corre
 ### Skill Details
 
 * **Invocation Name:** code cracker
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0a451042-8329-4c1d-b61b-3d79964a969e
 * **ASIN:** B01FGY6GDE
 * **Author:** Abraham Maslow

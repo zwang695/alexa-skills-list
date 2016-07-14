@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This is regular \"purple one\" trivia game. The user will simply launch the skill by calling \"Alexa, open purple trivia\". Alexa will ask if they want to play. If yes, it will ask 5 questions each with 4 different choices. The user must choose an answer by saying its number. For instance, if the correct answer is 3 out of the 4, the user must say \"3\". Alexa will then determine if the answer is correct or not and give points to the user.",
   "enablement": null,
   "exampleInteractions": [

@@ -20,7 +20,7 @@ Facts are provided in random order in this first version. New facts will be adde
 ### Skill Details
 
 * **Invocation Name:** sports facts
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7e5be701-c0de-4c5d-ace9-a00b137d74d4
 * **ASIN:** B01ENXQVDE
 * **Author:** Bobby

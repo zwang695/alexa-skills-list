@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "If you are a soccer fan and you like keeping up to date with world cup tournaments and players, this is the quiz to put your knowledge to the test. \n\nIf you don't know that much, this quiz will help you to learn more about the world of soccer. In every quiz, you will get 5 questions to answer, testing your knowledge. \n\nKeep coming back for more, because each set of 5 questions are randomly selected from a large pool of questions!\n\nYou can answer the questions with phrases like:\n\"The answer is <one>\"\n\"My answer is <two>\"\n\"Is it <three>\"\n\"<four> is my answer\"",
   "enablement": null,
   "exampleInteractions": [

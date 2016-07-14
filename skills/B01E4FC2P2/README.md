@@ -24,7 +24,7 @@ This skill allows you to hear what is happening around the Butterfleye Demo came
 ### Skill Details
 
 * **Invocation Name:** butterfly demo
-* **Category:** Connected-Home
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7d593f1e-8d6e-4e29-9ee5-2f0be429acda
 * **ASIN:** B01E4FC2P2
 * **Author:** Butterfleye

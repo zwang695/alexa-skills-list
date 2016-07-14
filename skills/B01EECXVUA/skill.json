@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This is an initial version of a fortune cookie or quote generator. The invocation phrase is \"Fortune Cookie\".  You can ask \"Alexa, ask fortune cookie to give me a cookie\", and you will hear a fortune cookie chosen at random.",
   "enablement": null,
   "exampleInteractions": [

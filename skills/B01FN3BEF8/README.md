@@ -28,7 +28,7 @@ We hope you enjoy daily rhymes with the Young Poet.
 ### Skill Details
 
 * **Invocation Name:** young poet
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0d715a5d-06da-4f73-b5f1-4f0aa869ae70
 * **ASIN:** B01FN3BEF8
 * **Author:** Unity App Design

@@ -18,7 +18,7 @@ To get started, you can add friends or family members to the Glympse skill by sa
 ### Skill Details
 
 * **Invocation Name:** glimpse
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ecadc151-7d18-40e0-b307-54b691622461
 * **ASIN:** B019X6M400
 * **Author:** Glympse

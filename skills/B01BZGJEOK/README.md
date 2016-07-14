@@ -20,7 +20,7 @@ DISCLAIMER:  This trivia skill deals with knowledge of alcoholic beverages and m
 ### Skill Details
 
 * **Invocation Name:** beer trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9f3f9dfb-dc7d-46ab-926d-023990a0e8bf
 * **ASIN:** B01BZGJEOK
 * **Author:** Red Sun Software

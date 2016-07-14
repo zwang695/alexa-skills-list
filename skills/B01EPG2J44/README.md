@@ -16,7 +16,7 @@ IT'S A GUNDAM! Test your knowledge of the Gundam universe with a score trivia ga
 ### Skill Details
 
 * **Invocation Name:** trivia for gundam
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4316e8d0-c07b-4dee-a5a3-9ea9ae2bba9f
 * **ASIN:** B01EPG2J44
 * **Author:** segordon.net

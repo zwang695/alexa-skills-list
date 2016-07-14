@@ -18,7 +18,7 @@ Although this skill is simply a calendar countdown, our monthly Puzzled Pint eve
 ### Skill Details
 
 * **Invocation Name:** puzzled pint
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4a9597f5-bd5d-4bba-889f-ec173661de28
 * **ASIN:** B01E36U47K
 * **Author:** Brian Enigma

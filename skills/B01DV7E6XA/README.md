@@ -16,7 +16,7 @@ This is a simple skill to allow you to ask Alexa to tell you some interesting fi
 ### Skill Details
 
 * **Invocation Name:** fit assist
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.385d2d97-5d82-44a0-b75f-3adb1d02655e
 * **ASIN:** B01DV7E6XA
 * **Author:** Matthew Tracy

@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "My Dermatologist provides localized information including the current UV index, daily forecast and other critical information to assist you in making decisions to properly protect your skin.",
   "enablement": null,
   "exampleInteractions": [

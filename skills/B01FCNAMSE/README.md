@@ -22,7 +22,7 @@ Enjoy Bites & Snacks. Stay healthy!
 ### Skill Details
 
 * **Invocation Name:** bites and snacks
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.22b1578f-fcb5-4b37-9199-53118e68f70f
 * **ASIN:** B01FCNAMSE
 * **Author:** ricardohdz

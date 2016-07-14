@@ -16,7 +16,7 @@ The New York Running Calendar helps you find the next organized running race in 
 ### Skill Details
 
 * **Invocation Name:** new york running calendar
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ae8d30f8-96ad-4cf3-8bb6-c3ca94facf67
 * **ASIN:** B01EVI7LWQ
 * **Author:** rulez new media

@@ -19,7 +19,7 @@ Just ask Alexa when is the next train and that’s all!
 ### Skill Details
 
 * **Invocation Name:** the next train
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ec4aac28-45df-47a1-bfaa-d4f224b64fac
 * **ASIN:** B01DVRYVYE
 * **Author:** Genady Okrain

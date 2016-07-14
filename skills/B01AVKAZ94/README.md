@@ -22,7 +22,7 @@ InsultiBot may not be willing to be the bot you want, but it's designed to be th
 ### Skill Details
 
 * **Invocation Name:** insultibot
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2fb024ea-b485-4966-be4e-1a42f26ca9ef
 * **ASIN:** B01AVKAZ94
 * **Author:** DERP Group

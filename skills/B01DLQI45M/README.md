@@ -16,7 +16,7 @@ This Alexa skill requires nothing but your brain and a few minutes of your time.
 ### Skill Details
 
 * **Invocation Name:** useless trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.834fce13-3e45-4de3-8ebd-a3630089a723
 * **ASIN:** B01DLQI45M
 * **Author:** Gary Petro

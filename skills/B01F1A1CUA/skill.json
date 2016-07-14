@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "In this speech adventure you are in a Kitchen and your quest is to make an omelette. Use \"look at\", \"use\", \"open\", \"combine\" and \"move\" to get all ingredients for the omelette and cook an omelette. Note: There is also a storeroom with important stuff you need, so move to the storeroom and look around.",
   "enablement": null,
   "exampleInteractions": [

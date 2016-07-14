@@ -18,7 +18,7 @@ Get your daily recommendations by asking Alexa and hear the response from Mr Jun
 ### Skill Details
 
 * **Invocation Name:** mr junky food
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e8816183-8387-4908-aa0d-1cf6a9eea555
 * **ASIN:** B01BKT64QI
 * **Author:** Simply Useful Apps

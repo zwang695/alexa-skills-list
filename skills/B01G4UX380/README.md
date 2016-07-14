@@ -16,7 +16,7 @@ If you want to see how well you know California, play the California Trivia Game
 ### Skill Details
 
 * **Invocation Name:** california trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7a773f78-fff8-4070-b3de-d5c0e8106db5
 * **ASIN:** B01G4UX380
 * **Author:** Russell Schmidt

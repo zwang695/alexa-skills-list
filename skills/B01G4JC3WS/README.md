@@ -18,7 +18,7 @@ Checks the Maricopa County web site, CleanAirMakeMore.com, to determine if it is
 ### Skill Details
 
 * **Invocation Name:** clean air
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4c2340d8-b3c8-4101-a1c9-f6736cbba810
 * **ASIN:** B01G4JC3WS
 * **Author:** Sonoran Software Services, llc

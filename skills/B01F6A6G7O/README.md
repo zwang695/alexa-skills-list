@@ -44,7 +44,7 @@ To hear about the persons child you cay say:
 ### Skill Details
 
 * **Invocation Name:** family history
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e907ef35-93e3-4a73-99ef-b3d89d09f20b
 * **ASIN:** B01F6A6G7O
 * **Author:** Laynr

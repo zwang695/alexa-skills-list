@@ -4,7 +4,7 @@
   "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Communications",
+  "category": null,
   "description": "This simple messaging service is used to send and receive messages using your Amazon Echo.  It can be used to quickly let someone know you are heading out to pick up the kids from school, to remind yourself of an appointment, or any other message you might want to leave.",
   "enablement": null,
   "exampleInteractions": [

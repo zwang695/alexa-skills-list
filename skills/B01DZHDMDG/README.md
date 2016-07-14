@@ -16,7 +16,7 @@ The Fun Bulldog Fact skill provides randomized facts about the dog breed known a
 ### Skill Details
 
 * **Invocation Name:** fun bulldog facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.172c70d6-e45b-4da6-8908-020d7bf136e7
 * **ASIN:** B01DZHDMDG
 * **Author:** Russell Schmidt

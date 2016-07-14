@@ -16,7 +16,7 @@ Reclaim your artistic and creative lifestyle with Artist Quote. This skill prese
 ### Skill Details
 
 * **Invocation Name:** artist quote
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.af8615c0-07a4-4153-a325-7ef0f5e35d59
 * **ASIN:** B01F9QJ54G
 * **Author:** Andy Gross

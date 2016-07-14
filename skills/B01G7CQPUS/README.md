@@ -18,7 +18,7 @@ Say, "Alexa, ask Tech Hunt for top products" and discover your next favorite thi
 ### Skill Details
 
 * **Invocation Name:** tech hunt
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d012cc18-478b-44e3-9f9d-992c47282e55
 * **ASIN:** B01G7CQPUS
 * **Author:** Abhishek Warokar

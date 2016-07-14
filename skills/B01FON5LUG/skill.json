@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Test your knowledge with fun fruit facts. Say something like open fruit facts, and listen to randomized facts about fruit.",
   "enablement": null,
   "exampleInteractions": [

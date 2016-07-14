@@ -16,7 +16,7 @@ eg . 1.00 USD = [ 1.31 AUD, 1.30 CAD, 0.97 CHF, 0.69 GBP, 66.28 INR ]
 ### Skill Details
 
 * **Invocation Name:** exchange rates
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f3d0442f-568e-4790-a431-1b48e70546af
 * **ASIN:** B01DJ7Z29Y
 * **Author:** Mario Parisi

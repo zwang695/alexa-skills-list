@@ -18,7 +18,7 @@ Guitar Tuner uses standard, A440 tuning. Tuning starts on the low E string, foll
 ### Skill Details
 
 * **Invocation Name:** guitar tuner
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.10955337-0da2-4ae8-b746-8a03abd91fb1
 * **ASIN:** B019D5T3O6
 * **Author:** Jared Williams

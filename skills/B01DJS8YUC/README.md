@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Elephant Number Rememberer icon" width="36"> [Elephant Number Rememberer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9a154f66-b776-49fe-8b5c-e725a79ac3d7)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
+![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Elephant Number Rememberer skill, try saying...
 
@@ -14,7 +14,7 @@ To use the Elephant Number Rememberer skill, try saying...
 ### Skill Details
 
 * **Invocation Name:** elephant number rememberer
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9a154f66-b776-49fe-8b5c-e725a79ac3d7
 * **ASIN:** B01DJS8YUC
 * **Author:** Paul Kehrer

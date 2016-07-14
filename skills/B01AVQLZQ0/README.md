@@ -12,7 +12,7 @@ To use the 1-2-3 Math skill, try saying...
 ### Skill Details
 
 * **Invocation Name:** one two three
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2b1d7bfa-c110-4249-a572-ea0d99528873
 * **ASIN:** B01AVQLZQ0
 * **Author:** Shanthan Kesharaju

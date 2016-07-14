@@ -16,7 +16,7 @@ Elf Trivia is a light-hearted game that offers 4 multiple choice answers to each
 ### Skill Details
 
 * **Invocation Name:** elf trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.edfd9281-08a1-44ab-a2e6-698cbd38e8ba
 * **ASIN:** B019NZJQUM
 * **Author:** TMCJ Manor

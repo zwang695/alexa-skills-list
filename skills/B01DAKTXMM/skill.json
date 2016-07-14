@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "A basic Rogerian (Person-centered therapy or PCT) psychotherapy simulator (or just for fun).  You're invited to talk about how you are feeling and the 'therapist' replies.  PCT is characterized (sometimes parodied) by replying with a repetition of the patient's first person statements (I/me/my, etc.) changed to second person statements (you/your, etc.), with reinforcing phrases added to the beginning and/or end of the replies.",
   "enablement": null,
   "exampleInteractions": [

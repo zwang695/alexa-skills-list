@@ -16,7 +16,7 @@ Cricket is one of the most popular sport in the world, with an estimated viewers
 ### Skill Details
 
 * **Invocation Name:** cricket quiz
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cc515099-8698-4a99-8411-2e7fefb2c302
 * **ASIN:** B01D0ISSL6
 * **Author:** Shankar Rao

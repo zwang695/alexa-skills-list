@@ -16,7 +16,7 @@ Mystery Castle is an interactive story where players explore the castle with Ale
 ### Skill Details
 
 * **Invocation Name:** mystery castle
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.aafcf5bd-86be-4057-b691-833c439b1c6f
 * **ASIN:** B01BUJ7R9G
 * **Author:** Mountain Living Code

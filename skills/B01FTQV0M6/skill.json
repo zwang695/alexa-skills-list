@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "Allows users to ask Alexa the current price of Bitcoin over the past 24 hours. Collects information using the Blockchain.info Public API available over at https://blockchain.info/api.",
   "enablement": null,
   "exampleInteractions": [

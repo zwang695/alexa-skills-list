@@ -16,7 +16,7 @@ The application can be used to lookup the price of Silver, Gold, and Bitcoin.  T
 ### Skill Details
 
 * **Invocation Name:** silver bug
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f74d3444-8398-443f-90cf-18bf69adb09e
 * **ASIN:** B01EQGWHK4
 * **Author:** tHwg LLC

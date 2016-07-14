@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "Alexa accesses your local weather to provide watering and mowing advice for your lawn. Based on how much rain you received, Alexa tells you how much to water your lawn and how to adjust your sprinkler settings. Alexa also uses your local temperature to determine what height you should mow your lawn.\n\nBegin by telling Alexa to \"ask my lawn how much water it needs\"\n\nNote: Currently this skill only supports Cedar Park, TX and St. Augustine grass.",
   "enablement": null,
   "exampleInteractions": [

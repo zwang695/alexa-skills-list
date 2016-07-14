@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "How well do you know Manchester City? Test your knowledge of the clubs history, accomplishments, famous players and fun trivia facts.\n\nTo get started, just say \"Alexa, Play Manchester City Trivia\". The game will ask 4 different multi-choice questions. Give the answer you think is the right one and find out how much of a 'Citizen' you really are.",
   "enablement": null,
   "exampleInteractions": [

@@ -17,7 +17,7 @@ Alexa can remember your base currency. You just need to tell it once. Everyday, 
 ### Skill Details
 
 * **Invocation Name:** money converter
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.828bb900-446b-4d3e-a56b-b6c3861418de
 * **ASIN:** B01FMPWMP8
 * **Author:** Preferred Plus Investments

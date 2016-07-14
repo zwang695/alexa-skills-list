@@ -17,7 +17,7 @@ get a new fact by saying "Alexa, ask Dry Heat for an Arizona Fact."
 ### Skill Details
 
 * **Invocation Name:** dry heat
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d105b391-4432-4882-aea6-1f7cd349f117
 * **ASIN:** B01G07HFZ4
 * **Author:** BadBinary LTD

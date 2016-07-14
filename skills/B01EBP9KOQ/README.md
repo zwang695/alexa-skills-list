@@ -16,7 +16,7 @@ Use your Echo to translate words and phrases. Supported languages: Spanish, Fren
 ### Skill Details
 
 * **Invocation Name:** my translator
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.aeb7f0f3-44a6-4146-88de-c42daa94aa34
 * **ASIN:** B01EBP9KOQ
 * **Author:** Vonage

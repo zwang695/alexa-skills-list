@@ -16,7 +16,7 @@ Therapy is your therapist for Alexa.  Tell therapist how you are feeling and she
 ### Skill Details
 
 * **Invocation Name:** my therapist
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9c619e27-5399-4fab-9e66-cb1ad14f99e8
 * **ASIN:** B01FX9ZOAI
 * **Author:** Fergie

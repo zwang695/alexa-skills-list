@@ -19,7 +19,7 @@ For speaking engagements, interviews, or presidential endorsements, contact us a
 ### Skill Details
 
 * **Invocation Name:** for a fart
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2990d825-2dee-479d-9eb8-259593385d52
 * **ASIN:** B019NU7L5O
 * **Author:** Bloatware

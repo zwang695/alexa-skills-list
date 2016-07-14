@@ -16,7 +16,7 @@ Happy Pi Day! Recite as many digits of pi as you can before time runs out.
 ### Skill Details
 
 * **Invocation Name:** pi day
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e525feb7-6ba3-44da-b5b3-4ec581ee48d7
 * **ASIN:** B01CSIVR62
 * **Author:** Sanyu Kiruluta

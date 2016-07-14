@@ -18,7 +18,7 @@ The list will be upgraded.
 ### Skill Details
 
 * **Invocation Name:** mr brown
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1877e31b-c0c9-4b2c-9ac6-f76472a1bbbc
 * **ASIN:** B01DOQ70BI
 * **Author:** Andrea De Gaetano

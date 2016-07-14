@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Richard's One Piece Trivia Game.  So you think you are a One Piece fan, let see if pass the challenge.",
   "enablement": null,
   "exampleInteractions": [

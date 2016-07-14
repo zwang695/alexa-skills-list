@@ -18,7 +18,7 @@ Air Time allows you to check the security wait times and weather for any airport
 ### Skill Details
 
 * **Invocation Name:** air time
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7d03628a-6195-4f4b-b6f7-786ad0b74987
 * **ASIN:** B01DYX1GO8
 * **Author:** Andrew Powell

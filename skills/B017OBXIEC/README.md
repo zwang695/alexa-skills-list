@@ -12,7 +12,7 @@ Shower Thoughts are itty-bitty witty bite-sized clever thoughts. This is a skill
 ### Skill Details
 
 * **Invocation Name:** shower thoughts
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.901a3f73-22df-4ad2-aa7c-ed49c3a07a6f
 * **ASIN:** B017OBXIEC
 * **Author:** BugBen.com

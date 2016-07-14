@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Social",
+  "category": null,
   "description": "ThirtySec provides daily inspirational voices.  You can Ask Alexa  to play Thirty Sec  inspirational voices for the day. Please ask 30sec to play by providing name of the person.  example: Alexa ask thirty sec find me Ron Kardashian",
   "enablement": null,
   "exampleInteractions": [

@@ -24,7 +24,7 @@ DISCLAIMER : This is not a substitute for medical professional advice.
 ### Skill Details
 
 * **Invocation Name:** focus screener
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e6d2cd7c-e86d-468f-9ba6-ea9765551a77
 * **ASIN:** B01FL68TBY
 * **Author:** Doctor Echo

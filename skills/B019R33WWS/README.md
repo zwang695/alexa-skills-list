@@ -14,7 +14,7 @@ Ask Alexa to Load Today's Astronomy Picture and hear all about the wonders of sp
 ### Skill Details
 
 * **Invocation Name:** today's astronomy picture
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5c3d466c-1b41-46be-933b-bca418c85989
 * **ASIN:** B019R33WWS
 * **Author:** Rasmi

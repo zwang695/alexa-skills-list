@@ -16,7 +16,7 @@ This skill allows users to ask Sage for Gonzaga High School for the menu for a g
 ### Skill Details
 
 * **Invocation Name:** sage for gonzaga
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.03f09916-eff9-4bd6-9c0e-17451e169526
 * **ASIN:** B01DMS44XA
 * **Author:** Joe McMahon

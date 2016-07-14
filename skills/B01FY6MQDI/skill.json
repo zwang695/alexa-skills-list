@@ -4,7 +4,7 @@
   "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "Coffee Local is a guide to the 50 best coffee shops in America; regions are midwest, south atlantic, west coast, east coast; the process of working with Coffee Local is as follows: Alexa, open Coffee Local; Alexa, ask Coffee Local what is the list of best midwest (or south atlantic, west coast, midwest) coffee shops; Alexa, ask Coffee Local what is the list of top midwest (or south atlantic, west coast, midwest) coffee shops; Alexa, ask Coffee Local what is the list of best midwest (or south atlantic, west coast, midwest) coffee shops",
   "enablement": null,
   "exampleInteractions": [

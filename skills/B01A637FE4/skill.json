@@ -1,10 +1,10 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01A637FE4",
-  "averageRating": 4.4,
+  "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "The Scriptures app will read Christian scripture passages from the Bible, Book of Mormon, and Doctrine and Covenants of The Church of Jesus Christ of Latter-day Saints.  The King James version of the Bible is used.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the scriptures",
   "name": "The Scriptures",
-  "numberOfReviews": 8,
+  "numberOfReviews": 9,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://spriton.com/w/privacy/",

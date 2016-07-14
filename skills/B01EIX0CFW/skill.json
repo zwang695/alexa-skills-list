@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Whether you want to test your knowledge about the Bollywood or just want to have some fun, this is skill is right for you. \nAs you start the game, it will ask you multiple-choice questions related to Bollywood movies, stars, singers etc. and as you give the correct answers, you score the points.",
   "enablement": null,
   "exampleInteractions": [

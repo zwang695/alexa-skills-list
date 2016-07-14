@@ -16,7 +16,7 @@ Looking for something random to do in Austin? Have an Echo? Well now is your cha
 ### Skill Details
 
 * **Invocation Name:** dillo
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8ffa05aa-53be-4889-8b68-372339fe285b
 * **ASIN:** B01FT8TRV0
 * **Author:** thirteen23

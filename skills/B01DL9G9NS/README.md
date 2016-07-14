@@ -16,7 +16,7 @@ This skill asks the user a round of 3 questions about the author of the applicat
 ### Skill Details
 
 * **Invocation Name:** terrell trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.16f71366-1ffe-4874-a64f-148ae17cd23d
 * **ASIN:** B01DL9G9NS
 * **Author:** Monarch, LLC

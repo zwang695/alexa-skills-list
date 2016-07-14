@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "Opening Bell allows you to speak a company's natural name to get their stock price and daily percentage change. You'll get a short, yet informative response without the hassle of trying to remember a company's ticker symbol.\n\nBring the stock market to your Echo device with Opening Bell!\n\n --\n\nOpening Bell retrieves stock data from Markit On Demand and is not guaranteed to have real-time stock price information and is therefore only recommended to be used as a general reference and not for making stock trading decisions.",
   "enablement": null,
   "exampleInteractions": [

@@ -1,10 +1,10 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01F5EP4AQ",
-  "averageRating": 5,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "You can now ask Alexa for the top reddit r/News post from the last 24 hours. Just ask Alexa one of the following phrases:\n\n- Alexa ask subreddit news for the news\n- Alexa ask subreddit news for the top post\n- Alexa ask subreddit news for the top content\n\nAfter that, you'll get a live update of the top reddit post from r/news. \n\nAsk Alexa about the developer by saying:\n\n- Alexa ask subreddit news about this app\n\nThis app contains user generated content, and may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "sub reddit news",
   "name": "Top r/News Post for Reddit",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -16,7 +16,7 @@ Once you link the skill to a Bean Jar account, then you can start tracking rewar
 ### Skill Details
 
 * **Invocation Name:** bean jar
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cfca78e2-ba82-4c21-ae41-eec130423847
 * **ASIN:** B01AKXKPME
 * **Author:** Bookoo

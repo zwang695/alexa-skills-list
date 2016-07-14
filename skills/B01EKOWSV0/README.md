@@ -16,7 +16,7 @@ Tide Pooler gives you the current tide information for a given city or state.
 ### Skill Details
 
 * **Invocation Name:** tide pooler
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e2137686-9704-4ad8-a050-2060782f0783
 * **ASIN:** B01EKOWSV0
 * **Author:** Asolana

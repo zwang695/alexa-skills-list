@@ -32,7 +32,7 @@ Visit GreenMarketsBuddy.com for more info.
 ### Skill Details
 
 * **Invocation Name:** farmer's market
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d3f1a497-aacc-4d5f-bd37-97a5eba7e917
 * **ASIN:** B01G9CLEXE
 * **Author:** Active Locations, LLC

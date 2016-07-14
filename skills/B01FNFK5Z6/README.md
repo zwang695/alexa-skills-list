@@ -16,7 +16,7 @@ Ask Alexa to tell you something interesting about a number and be amazed at the 
 ### Skill Details
 
 * **Invocation Name:** number fact
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.329b862f-4744-4b88-9691-264847f47162
 * **ASIN:** B01FNFK5Z6
 * **Author:** BLT Robotics

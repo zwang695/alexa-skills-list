@@ -4,7 +4,7 @@
   "averageRating": 4.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "You are the Commander of your own naval attack class submarine. You are tasked with capturing the Acton Straits - dangerous waters patrolled by up to a dozen other hunter/killer submarines. You will face off against these other players, each commander vying for dominance. But your ammunition is limited, and so you need to make each torpedo count. And beware that the others are listening. Each shot and sonar ping gives clues about your location. Are you brave enough to launch into these waters to compete for your place on the leaderboard?",
   "enablement": null,
   "exampleInteractions": [

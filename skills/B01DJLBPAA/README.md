@@ -16,7 +16,7 @@ This is just a fun trivia game that will ask you to choose the capital of each U
 ### Skill Details
 
 * **Invocation Name:** state capitals
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dbc4ba39-98e7-4af0-8ce2-867c8ab7a9cb
 * **ASIN:** B01DJLBPAA
 * **Author:** IfElse

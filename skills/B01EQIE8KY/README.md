@@ -16,7 +16,7 @@ A simple trivia game that tests your knowledge of our 40th president
 ### Skill Details
 
 * **Invocation Name:** gipper game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cd915007-b171-4edc-a72c-d4ab4ee5426f
 * **ASIN:** B01EQIE8KY
 * **Author:** TO Software

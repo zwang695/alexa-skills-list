@@ -18,7 +18,7 @@ Thanks to the Korean Wiki Project for the logo!  Visit them at koreanwikiproject
 ### Skill Details
 
 * **Invocation Name:** korean facts
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.24aa372a-77a2-40e4-8286-4d555b747a9b
 * **ASIN:** B01DE6TMSC
 * **Author:** Strum Studios

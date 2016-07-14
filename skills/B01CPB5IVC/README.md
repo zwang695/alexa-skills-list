@@ -16,7 +16,7 @@ Trivia questions about our solar system
 ### Skill Details
 
 * **Invocation Name:** space trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.98e3e3c1-2903-4ece-ad64-d2b52e3de803
 * **ASIN:** B01CPB5IVC
 * **Author:** none

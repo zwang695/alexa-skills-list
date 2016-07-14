@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "This skill generates a random fact about \"30 Rock\" an NBC Universal show. The user will say something along the lines of \"Alexa, give me a thirty Rock fact\" and Alexa will read aloud a fact inside the written skill. Alexa will output something along the lines of \"Here's your thirty rock fact: 'followed by the fact'\".",
   "enablement": null,
   "exampleInteractions": [

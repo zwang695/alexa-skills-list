@@ -68,7 +68,7 @@ If you are switching between the features your score persists and doesn't get lo
 ### Skill Details
 
 * **Invocation Name:** morse coder
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c26b1c82-967e-4807-b1c2-e983e820edf1
 * **ASIN:** B01G4F0B4O
 * **Author:** Kay Lerch

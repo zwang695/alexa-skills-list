@@ -12,7 +12,7 @@ Richard's One Piece Trivia Game.  So you think you are a One Piece fan, let see 
 ### Skill Details
 
 * **Invocation Name:** one piece trivia
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7edb8177-cc3a-49fc-927f-0a8137a2b0a4
 * **ASIN:** B01DOLY4LC
 * **Author:** The Delivery Guru

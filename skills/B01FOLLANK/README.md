@@ -12,7 +12,7 @@ You say a step and it will tell you what to do for that step. If you follow the 
 ### Skill Details
 
 * **Invocation Name:** make ramen
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1497d4da-7e2a-47d3-9dd6-e6e9fcd660bc
 * **ASIN:** B01FOLLANK
 * **Author:** Josiah Cole Hopkins

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This skill is designed to be used by students and TAs of the course \"15-122: Principles of Imperative Computation\" at Carnegie Mellon University. With this skill, you will never wonder if it's worth coming to office hours again! You can easily find out how long the average wait time on the 15-122 office hours queue is. The average wait time is pulled from the online office hours queue (cmuq.mod.bz) in real time so the average wait time is never out-of-date.",
   "enablement": null,
   "exampleInteractions": [

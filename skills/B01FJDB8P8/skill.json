@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Let's Divide is a skill that quizzes you on division problems.  You can specify how high you want the division problems to go, up to 100 divided by 100.\n\nOnce you set how high you want to be quizzed on, Alexa will ask if you would like division problems with a remainder. If you answer \"yes\", when you are given a division problem with a remainder,  just say the quotient, and then say   \"with a remainder of\"  followed by the remainder value.\n \nLet's Divide will also ask you if you want the questions to be in order, or random. As you are learning division you may want to start in order, then as you get better and need to be challenged, you can try random problems. \n\nYou can say \"repeat\" to hear a problem again if you didn't hear it the first time, or if you need more time to determine the answer. \n\nYou can start over any time by saying \"Start Over\", or just say the new division problem maximum values you want to go to, such as \"five divided by five\". \n\nAt any time you can say \"stop\" or \"cancel\" and you will be told the number of correct answers you gave, and the number of incorrect answers you gave, out of the total possible division problems. \n\nSo have fun, and learn to divide.\n\nSend suggestions, comments, pictures of Alexa teaching you division, etc., to \n\nsupport@wobblemouth.com.  \n\nI'm looking for new ideas to make learning fun with Alexa.\n\nVersion 1.0.0",
   "enablement": null,
   "exampleInteractions": [

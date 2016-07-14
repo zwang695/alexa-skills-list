@@ -18,7 +18,7 @@ There is no guarantee of the validity of the numbers generated.  Use of this ski
 ### Skill Details
 
 * **Invocation Name:** lotto now
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.69250fc4-44f3-4ee6-b312-b72db9e8b381
 * **ASIN:** B01A69DP2Y
 * **Author:** No Flying Logos

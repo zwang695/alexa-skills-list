@@ -16,7 +16,7 @@ Allows for multiple coin flips.
 ### Skill Details
 
 * **Invocation Name:** multiple flip
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.06c32188-092c-4a06-9a10-46624a57f7d4
 * **ASIN:** B01FON5V56
 * **Author:** Jordan Pizza

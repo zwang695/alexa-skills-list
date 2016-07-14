@@ -20,7 +20,7 @@ To use the voice dial feature, you can either register as a new user or login wi
 ### Skill Details
 
 * **Invocation Name:** ooma
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.adf4e9b1-c844-4fed-9966-4e21d3a04e30
 * **ASIN:** B019YJAFPM
 * **Author:** Ooma

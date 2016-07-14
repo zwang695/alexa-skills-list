@@ -17,7 +17,7 @@ When invoked, Alexa will provide you with a platypus fact.
 ### Skill Details
 
 * **Invocation Name:** platypus geek
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ff4c4e42-9d4b-412a-a22b-34b24dbe8f62
 * **ASIN:** B01F199E4C
 * **Author:** Javier Forero

@@ -17,9 +17,9 @@ Become an expert in the startup world thanks to Alexa
 ### Skill Details
 
 * **Invocation Name:** startup info
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.682f933f-69de-4dd4-8538-796c47ac26ca
 * **ASIN:** B01DKTI612
-* **Author:** 3scale
+* **Author:** Nicolas Grenié
 * **Release Date:** May 4, 2016 @ 16:08:37
 * **In-App Purchasing:** No

@@ -16,7 +16,7 @@ Ready for a quick game of hide and seek?  Use this to do the countdown.
 ### Skill Details
 
 * **Invocation Name:** hide and seek
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c9da01ef-efda-4591-a4d3-0a1b9fcf7fff
 * **ASIN:** B01G25WCZW
 * **Author:** Todd Meadows

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Communications",
+  "category": null,
   "description": "This skill is for use with Metaswitch's internal Accession business communications system, and requires a linked account on that system.  It allows users to access received messages and details of missed calls, update call manager settings (such as forwarding calls or redirecting calls to voicemail) and to send a set of pre-canned messages.",
   "enablement": null,
   "exampleInteractions": [

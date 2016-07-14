@@ -4,7 +4,7 @@
   "averageRating": 2.9,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "This skill allows you to quickly and easily learn about Woot's daily deals on any of the Woot categories. To get started, you just have to ask Woot \"What is today's deal?\" You can also get more specific by asking about deals in a particular category such as \"What is today's shirt deal?\"",
   "enablement": null,
   "exampleInteractions": [

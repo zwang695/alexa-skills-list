@@ -4,7 +4,7 @@
   "averageRating": 4.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Home-Automation",
+  "category": null,
   "description": "abode is the first professional-grade, self-installable home security solution with no contracts that also allows you to control locks, lights, thermostats, and other popular connected devices.\n\nFor more information on the abode Home Security system, please visit http://goabode.com.\n\nFor more information on controlling your abode Home Security system with Alexa, please visit http://support.goabode.com/customer/portal/articles/2321595\n\nTo add the abode Alexa skill, you must have your abode system set-up and a user account created at http://my.goabode.com.",
   "enablement": null,
   "exampleInteractions": [

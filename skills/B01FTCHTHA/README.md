@@ -18,7 +18,7 @@ Content may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** hot beer
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9b848dfa-bc42-4182-b3f7-86028be5dec3
 * **ASIN:** B01FTCHTHA
 * **Author:** FiveNets

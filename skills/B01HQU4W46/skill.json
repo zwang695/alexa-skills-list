@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "You can find the license plate nickname by asking state name.\nInvocation Name: license plate finder",
   "enablement": null,
   "exampleInteractions": [

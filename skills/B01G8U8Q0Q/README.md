@@ -24,7 +24,7 @@ Developed by Christopher Rock, D.O in collaboration with the American Board of F
 ### Skill Details
 
 * **Invocation Name:** board review questions
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2a485f3a-680b-4337-827d-1772222125bc
 * **ASIN:** B01G8U8Q0Q
 * **Author:** American Board of Family Medicine

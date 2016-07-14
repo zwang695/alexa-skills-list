@@ -30,7 +30,7 @@ There is no limit to the amount of players.
 ### Skill Details
 
 * **Invocation Name:** tip of tongue
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cacdc3ec-c2fc-4d06-8ce6-b8d16b7a434d
 * **ASIN:** B01A69PZI6
 * **Author:** Matthew Okamoto

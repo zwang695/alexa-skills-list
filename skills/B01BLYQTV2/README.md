@@ -18,7 +18,7 @@ Powered by TfL Open Data.
 ### Skill Details
 
 * **Invocation Name:** the tube
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c7690e0c-1719-4c21-97ee-ee62e36c7fd0
 * **ASIN:** B01BLYQTV2
 * **Author:** Simon Cross

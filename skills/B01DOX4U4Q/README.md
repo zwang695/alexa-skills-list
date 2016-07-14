@@ -16,7 +16,7 @@ Presidents Trivia is a trivia game that tests how much you know about the highes
 ### Skill Details
 
 * **Invocation Name:** presidents
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.625c2b83-9604-495b-985a-13a75fda8b38
 * **ASIN:** B01DOX4U4Q
 * **Author:** William Dai

@@ -20,7 +20,7 @@ Once you're ready, start out by saying "Alexa, tell brain of things to start par
 ### Skill Details
 
 * **Invocation Name:** brain of things
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9ddd02be-76e7-43e1-8480-6ad0c683897c
 * **ASIN:** B01DAH9TSS
 * **Author:** BrainofT

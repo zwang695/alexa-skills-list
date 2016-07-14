@@ -18,7 +18,7 @@ Just ask Bug Tracker the ticket number that you are interested in, and you will 
 ### Skill Details
 
 * **Invocation Name:** bug tracker
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0df23397-4abf-434e-be14-4bfa0d6b36e4
 * **ASIN:** B01EPE8HCE
 * **Author:** Mariano Gonzalez

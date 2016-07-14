@@ -25,7 +25,7 @@ Happy Holidays!
 ### Skill Details
 
 * **Invocation Name:** santa
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.315728f1-eefc-4170-aea1-02260f7213c3
 * **ASIN:** B019HUS30M
 * **Author:** Pargee

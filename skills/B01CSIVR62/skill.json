@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Happy Pi Day! Recite as many digits of pi as you can before time runs out.",
   "enablement": null,
   "exampleInteractions": [

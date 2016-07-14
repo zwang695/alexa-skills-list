@@ -16,7 +16,7 @@ You can use the skill to play all your health statistics from google fit account
 ### Skill Details
 
 * **Invocation Name:** starfish fit
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c6b7b457-58bd-4a8c-9a5f-45e966f97717
 * **ASIN:** B01DKP0BT6
 * **Author:** Rai Integration Ltd

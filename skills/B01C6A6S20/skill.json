@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Generate a code phrase for your next top secret project! Previously the domain of the NSA and the CIA, now you too can give obscure and whimsical phrases to your:\n\n- latest top secret project critical to national security,\n- an obscure software component you need a funny but clever name for,\n- naming your next newborn (j/k, please don't do this).\n\nFor now you simply have to say \"Alexa, ask for a code phrase\" and a random two-word code phrase will be yours! The phrase will either be a \"<noun> <noun>\" or \"<adjective> <noun>\", where each word is not too short and not too long and doesn't have too many syllables.\n\nI'm open to feature requests! If you think alternative patterns like \"<color> <animal>\" or \"<temperature> <material>\" sounds awesome, let me know!",
   "enablement": null,
   "exampleInteractions": [

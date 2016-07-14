@@ -16,7 +16,7 @@ How much do you know about the world's languages? These amazing facts will add t
 ### Skill Details
 
 * **Invocation Name:** lingo info
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d4f06560-82af-4a46-a45a-368598946131
 * **ASIN:** B01ED3B89G
 * **Author:** Sharmi55

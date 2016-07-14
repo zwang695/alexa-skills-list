@@ -16,7 +16,7 @@ Children's Bible Quiz where children can test their Bible knowledge. Five questi
 ### Skill Details
 
 * **Invocation Name:** children's bible quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c4e73397-2f52-44e6-b986-48a503df140b
 * **ASIN:** B01C7XIJ82
 * **Author:** M Squared 

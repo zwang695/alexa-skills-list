@@ -4,8 +4,8 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
-  "description": "Capital Transit can provide information about station arrival times or service delays for the Washington D.C. Metro.",
+  "category": null,
+  "description": "Capital Transit can provide information about station arrival times or service delays for the Washington D.C. Metro.\n***UPDATE***\nYou can now set a home station. Then you'll be able to ask \"Alexa, ask Capital Transit when is the next train?\" and it will know what station you're leaving from.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Capital Transit when the next train arrives at Metro Center",

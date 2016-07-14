@@ -16,7 +16,7 @@ Just ask Hunter Helper where a monster goes to sleep in any location!
 ### Skill Details
 
 * **Invocation Name:** hunter helper
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.29f19b4b-f73e-4bd0-9874-12bad6c6f404
 * **ASIN:** B01G4IIL7U
 * **Author:** aaron maus

@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Where is the International Space Station (ISS) right now? Tracker for ISS will calculate and tell you its longitude, latitude, speed, altitude and nearby geographical features as it orbits around the Earth faster than a speeding bullet.\n\nTLE data courtesy of http://wheretheiss.at. Geographic data made with Natural Earth.\n\nHelp this project grow. Submit issues and code at:\nhttps://github.com/owntheweb/alexa-iss",
   "enablement": null,
   "exampleInteractions": [

@@ -24,7 +24,7 @@ Or say,
 ### Skill Details
 
 * **Invocation Name:** ceaseless
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2a53b958-2507-45bf-a7d8-d71396dc845d
 * **ASIN:** B01E106YAE
 * **Author:** TheoTech

@@ -23,7 +23,7 @@ Weight tracker understands pounds and kilograms, keeps your daily weight up to o
 ### Skill Details
 
 * **Invocation Name:** weight tracker
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4e3c1be0-f7df-43f1-93d5-2cab2e09d0e4
 * **ASIN:** B01ED4CPGA
 * **Author:** Innomore LLC

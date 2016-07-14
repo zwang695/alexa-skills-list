@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "Alexa just became an NBA superfan! You can ask her for the statistics of any active NBA player or team. You can get the averages throughout the season, statistics for a specific game, or the last X games.\n\nThis skill supports continuous stats and filters. You can just ask Alexa to \"open I know NBA\", and just state player name, team name or filter (e.g., last 5 games, offensive rebounds) to change your query each time.",
   "enablement": null,
   "exampleInteractions": [

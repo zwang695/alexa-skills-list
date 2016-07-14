@@ -12,7 +12,7 @@ Are you curious about what the current price of the world's leading crypto-curre
 ### Skill Details
 
 * **Invocation Name:** me the current bitcoin price
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c6eef4ee-3361-4f66-a9d1-49f288f4b4a8
 * **ASIN:** B017OBUWP0
 * **Author:** MobileGlick

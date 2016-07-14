@@ -18,7 +18,7 @@ You can also launch the skill using "Alexa, launch <drop some knowledge>", and i
 ### Skill Details
 
 * **Invocation Name:** drop some knowledge
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3df540db-1f81-4b22-9184-d0e1015cd783
 * **ASIN:** B01C65GSIE
 * **Author:** Rahul Ravikumar

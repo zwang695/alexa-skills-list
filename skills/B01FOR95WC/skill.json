@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "History allows you to receive history facts for each day of the year. Just ask Alexa what happened on any date and enjoy!",
   "enablement": null,
   "exampleInteractions": [

@@ -20,7 +20,7 @@ Get ready. Get set. Go!
 ### Skill Details
 
 * **Invocation Name:** nascar trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d483e0fb-bdcd-493d-8bb5-815ed4115d1f
 * **ASIN:** B01DL1S65A
 * **Author:** AdamPreston.me

@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "Have Alexa call the razorbacks hogs by saying\n\n\"Alexa, start calling the hogs\"\n\nOptionally \"and let's beat the {mascot}\" or \"and let's beat {college}\"  can be included at the end of the launch command.\n\n\"Alexa, Start calling the hogs and beat the bulldogs\"\n\"Alexa, Start calling the hogs and beat Alabama\"",
   "enablement": null,
   "exampleInteractions": [

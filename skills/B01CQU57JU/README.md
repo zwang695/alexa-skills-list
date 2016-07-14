@@ -22,7 +22,7 @@ Play alone or together with your family. The more the merrier.
 ### Skill Details
 
 * **Invocation Name:** computer science
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7ef44934-d5d7-409d-a64c-fa6a4f1eac1c
 * **ASIN:** B01CQU57JU
 * **Author:** Zan Ozbot

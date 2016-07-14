@@ -16,7 +16,7 @@ A simple but fun quiz about Norway and Norwegians! Both educational and fun!
 ### Skill Details
 
 * **Invocation Name:** norse talk
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.097ac4b5-93d6-4efd-b745-79e4b0d3c539
 * **ASIN:** B01DR1A9I6
 * **Author:** Fugl

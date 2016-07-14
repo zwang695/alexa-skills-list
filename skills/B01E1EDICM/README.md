@@ -16,7 +16,7 @@ This amazon skill helps people by giving them a useful pickup line when they nee
 ### Skill Details
 
 * **Invocation Name:** nerdy valentine
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.23b99e6f-f559-4422-9ca3-6bac178e6eba
 * **ASIN:** B01E1EDICM
 * **Author:** James & Shawn

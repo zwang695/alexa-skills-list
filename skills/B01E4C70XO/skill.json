@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This test asks basic facts about the United States of America in a multiple choice format, enhancing users' knowledge of United States history!\n\nThe user can get started by asking \"Alexa, Ask American History Quiz\". There are no prerequisites besides having access to an Alexa-enabled device.",
   "enablement": null,
   "exampleInteractions": [

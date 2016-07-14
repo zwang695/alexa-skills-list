@@ -19,7 +19,7 @@ To link your account, login to your account on Scout (dashboard.scoutalarm.com) 
 ### Skill Details
 
 * **Invocation Name:** scout
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.26dd66e5-bdda-4df6-95da-a1d9020230a3
 * **ASIN:** B017OBHGZO
 * **Author:** Scout Security Inc

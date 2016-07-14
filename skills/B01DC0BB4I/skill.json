@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "You can use the MBTA helper to get arrival predictions for the subway. For e.g. you can ask your echo - \"Alexa, ask m b t a  helper when is the next park street train arriving at Brookline HIlls?\" Another example would be \"Alexa, ask m. b. t. a.  helper when is the next riverside train arriving at copley?\". Right now only two directions are supported, namely \"Park Street\" and \"Riverside\", which D line goers would recognize as the two ends of the D line. Your question will be a combination of the direction (Park street or Riverside) and the T stop where you like to get on. So for .e.g if you are going inbound from Brookline Hills, you would ask \"Alexa, ask m. b. t. a. helper when is the next park street train arriving at brookline hills?\"\nRight now only the D line is supported, but soon other lines will be added",
   "enablement": null,
   "exampleInteractions": [

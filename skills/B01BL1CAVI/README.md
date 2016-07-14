@@ -18,7 +18,7 @@ This skill may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** powerball
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.42c328ee-e617-4138-a366-0eb5b5f3aab8
 * **ASIN:** B01BL1CAVI
 * **Author:** Sterian Associates

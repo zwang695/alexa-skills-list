@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "You can now enjoy the posts from Fred Wilson's blog, narrated by Amazon Alexa. It should be fun to listen to those essays while cooking/doing something else.",
   "enablement": null,
   "exampleInteractions": [

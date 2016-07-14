@@ -16,7 +16,7 @@ There is an opening for an Alexa Skills Project Manager at Amazon.  Candidate Bo
 ### Skill Details
 
 * **Invocation Name:** candidate bo
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5cd63983-236f-4a5d-a422-b903c8f501c4
 * **ASIN:** B01FRGDQN4
 * **Author:** Lindsey Knuth

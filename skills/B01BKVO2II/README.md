@@ -68,7 +68,7 @@ For reporting bugs or suggestions, please email m@moogs.io
 ### Skill Details
 
 * **Invocation Name:** hacker news
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8ac72bd2-31ba-4cab-af66-57166bf609b6
 * **ASIN:** B01BKVO2II
 * **Author:** Moogs

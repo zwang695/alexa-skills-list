@@ -16,7 +16,7 @@ Math Dog is your personal math tutor, giving you math problems to solve with inc
 ### Skill Details
 
 * **Invocation Name:** math dog
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e301b8fe-6290-437a-bed6-2b2e11e3ef06
 * **ASIN:** B01FQ8LP40
 * **Author:** BrownDog Tech

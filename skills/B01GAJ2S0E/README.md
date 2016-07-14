@@ -22,7 +22,7 @@ IMDB rating (http://www.imdb.com) - A weighted average of votes by IMDB users.  
 ### Skill Details
 
 * **Invocation Name:** movie score
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.33d67998-d21d-489a-85ba-3f71a50e29b7
 * **ASIN:** B01GAJ2S0E
 * **Author:** Sane Apps

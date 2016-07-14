@@ -16,7 +16,7 @@ This old English phrase has been passed down through generations of both culture
 ### Skill Details
 
 * **Invocation Name:** how many beans
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.07a62df4-7789-4a00-884b-ae5a08f08988
 * **ASIN:** B01EXNU2EI
 * **Author:** Digital Acorn Limited

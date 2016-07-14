@@ -22,7 +22,7 @@ The goal is to have a skill that can give the Meetups from one's Meetup's accoun
 ### Skill Details
 
 * **Invocation Name:** chicago java
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.87a786e6-1101-4b8b-b9aa-1bbfa75ff884
 * **ASIN:** B01EF6VRBU
 * **Author:** Corentin

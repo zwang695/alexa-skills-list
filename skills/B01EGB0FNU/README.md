@@ -16,7 +16,7 @@ Dex Trivia is a multiple choice trivia game for Pokemon that tests your knowledg
 ### Skill Details
 
 * **Invocation Name:** dex trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.34b4784b-1abc-4011-bf8d-6bdddb056671
 * **ASIN:** B01EGB0FNU
 * **Author:** Shwheelz

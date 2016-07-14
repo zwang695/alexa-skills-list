@@ -16,7 +16,7 @@ Pink, versatile deliciousness.  It’s perfect fried with eggs and wrapped like 
 ### Skill Details
 
 * **Invocation Name:** spammy
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c6d03cb2-9a8d-40ec-b9e0-77402ff1b906
 * **ASIN:** B0189X85NI
 * **Author:** Support

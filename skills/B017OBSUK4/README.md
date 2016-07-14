@@ -12,7 +12,7 @@ With Superpower, you can get an interesting conversation topic to start an engag
 ### Skill Details
 
 * **Invocation Name:** superpower
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.44b7b9da-ae74-42ae-8a4f-0acdc834c737
 * **ASIN:** B017OBSUK4
 * **Author:** Superpower Lab, LLC

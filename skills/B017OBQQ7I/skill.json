@@ -4,7 +4,7 @@
   "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Simple skill that reads you famous quotes from history and movies.  Just say \"Alexa, ask Famous Quotes for a quote\".",
   "enablement": null,
   "exampleInteractions": [

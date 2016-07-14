@@ -63,7 +63,7 @@ If you experience troubles with the skill recognizing your device try using a mo
 ### Skill Details
 
 * **Invocation Name:** vivint
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.60786130-18f6-476f-b716-d0a109fe6b1c
 * **ASIN:** B01A6ACVD2
 * **Author:** Vivint Inc.

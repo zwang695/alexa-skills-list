@@ -16,7 +16,7 @@ You think you know NC? See if you can answer a few trivia questions about the Ta
 ### Skill Details
 
 * **Invocation Name:** north carolina trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0316bb8f-4741-4e72-921d-055090241674
 * **ASIN:** B01CQ255T0
 * **Author:** Kate Cox

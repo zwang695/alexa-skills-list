@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Do you tired of checking different website to find the available parking slots ? This skill will solve your problem with available parking spots (real time) or parking locations near where you plan on going to either for dinner, events or hanging out. This skill using both parkwhiz and google nearby for parking information.",
   "enablement": null,
   "exampleInteractions": [

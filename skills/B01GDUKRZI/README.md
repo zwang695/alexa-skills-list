@@ -20,7 +20,7 @@ Alexa, ask Vocab Helper what the definition of compile is.
 ### Skill Details
 
 * **Invocation Name:** vocab helper
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a8b212cd-cf22-484a-8f52-43551f03a288
 * **ASIN:** B01GDUKRZI
 * **Author:** Winston Frick

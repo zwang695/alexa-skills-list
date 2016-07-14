@@ -4,7 +4,7 @@
   "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Teacher for Alexa is a fun and interactive way to learn basic math through a series of simple addition, subtraction, and multiplication problems. Example level:  What is 7 times 2?",
   "enablement": null,
   "exampleInteractions": [

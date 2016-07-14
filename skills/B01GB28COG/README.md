@@ -20,7 +20,7 @@ Icon: "Zebra" by corpus delicti, used under CC BY
 ### Skill Details
 
 * **Invocation Name:** zoo keeper
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.998352c2-1290-427e-9212-cdf24b6f43bb
 * **ASIN:** B01GB28COG
 * **Author:** Runaway Bamboo LLC

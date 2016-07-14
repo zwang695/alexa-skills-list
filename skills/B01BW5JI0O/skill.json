@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Play five card draw with Alexa!\n\nFive card draw is the most basic variant of poker. You and Alexa each have a five card hand from a standard 52 card deck. You can discard and then draw up to four cards to try to improve your hand.\n\nAfter Alexa tells you what your hand is and asks if you want to discard, tell her \"no\" to see who wins, or the rank and suit of the card you want to discard.\n\nPlay now and see if you can beat Alexa!",
   "enablement": null,
   "exampleInteractions": [

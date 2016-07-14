@@ -17,7 +17,7 @@ Start with the phrase Alexa, launch computer trivia then answer each question af
 ### Skill Details
 
 * **Invocation Name:** computer trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4c336d37-1a6b-4959-9330-eebc77eb3f6b
 * **ASIN:** B01EX7A1TA
 * **Author:** Michael Medis

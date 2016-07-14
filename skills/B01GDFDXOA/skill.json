@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Ask Alexa how to make a cocktail.  The recipe ends up in your Alexa app's card for future reference.  The list of cocktails grow over time.\n\nNote that this skill may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This voice skill gives a response from a list of things that Slater loves with Alexa speaking it's sound.\n\nJust say \"Alexa ask slater bug what he likes\"  and alexa will start telling you items from the list of things that slater loves.  \n\nThere are no prerequisites with this voice skill and its fun and easy to use!",
   "enablement": null,
   "exampleInteractions": [

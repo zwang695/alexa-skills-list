@@ -16,7 +16,7 @@ Distance Between will tell you the distance between two cities that can be trave
 ### Skill Details
 
 * **Invocation Name:** distance between
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.281ec301-da29-449a-bf83-fb27ab80e537
 * **ASIN:** B01F1G80H2
 * **Author:** Argusware

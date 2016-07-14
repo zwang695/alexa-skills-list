@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "Skill is able to control custom application to facilitate order display. Skill needs to work with a custom application. It will be able to control the application to complete order, go to a certain tab and complete assistance notification in the application.",
   "enablement": null,
   "exampleInteractions": [

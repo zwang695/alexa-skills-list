@@ -16,7 +16,7 @@ You can ask Awair to tell you the current Awair score, recommendations about the
 ### Skill Details
 
 * **Invocation Name:** aware
-* **Category:** Connected-Home
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f0b5988b-e849-4357-8e7a-307d04d8f89e
 * **ASIN:** B01ER39MZY
 * **Author:** Bitfinder Inc.

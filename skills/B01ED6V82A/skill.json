@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Users ask for the \"Thomas Fan Quiz\" and then are presented with questions and 4 possible answers. The questions all pertain to topics from the Thomas the Tank Engine books, TV series' and films.",
   "enablement": null,
   "exampleInteractions": [

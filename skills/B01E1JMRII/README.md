@@ -22,7 +22,7 @@ The direction of travel is not needed when asking about a stop ID or number.
 ### Skill Details
 
 * **Invocation Name:** red stick
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a6071d25-ab4d-498e-8fe0-5b5505e4c142
 * **ASIN:** B01E1JMRII
 * **Author:** Garden District Liveware

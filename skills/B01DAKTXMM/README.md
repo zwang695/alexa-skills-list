@@ -16,7 +16,7 @@ A basic Rogerian (Person-centered therapy or PCT) psychotherapy simulator (or ju
 ### Skill Details
 
 * **Invocation Name:** doc rogers
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f3c15feb-9dfe-4d3c-82b5-c258bcdeb3cb
 * **ASIN:** B01DAKTXMM
 * **Author:** Philip Lamoreaux

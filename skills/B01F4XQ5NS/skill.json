@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Pico is a number guessing game. For more information on this game, go to http://www.skillsai.com/pico. There are three terms you need to know to play the game.\n\nPico. Pico means a digit is in the secret number but in the wrong location.\nFermi. Fermi means a digit is in the secret number and in the correct location.\nBagel. Bagel means a digit is not in the secret number at all.\n\nYou may choose to guess a 2,3,4 or 5 digit secret number. Alexa then chooses the secret number and you try to guess it. After each guess Alexa will tell you how the number of Picos, Fermis and Bagels in your guess.",
   "enablement": null,
   "exampleInteractions": [

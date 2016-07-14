@@ -16,7 +16,7 @@ Use This Day In History to ask what happened today in history to get a brief des
 ### Skill Details
 
 * **Invocation Name:** today in history
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.38915e1b-4881-480b-86e0-777dfac6ee1e
 * **ASIN:** B01DL5E2PE
 * **Author:** Allen Kramer

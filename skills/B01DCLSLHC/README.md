@@ -34,7 +34,7 @@ Thanks for your feedback! Please share your thoughts, and we'll do our best to p
 ### Skill Details
 
 * **Invocation Name:** event seeker
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b4f92e2d-0bb7-4eec-acaf-ce71268c4b02
 * **ASIN:** B01DCLSLHC
 * **Author:** Wcities Inc.

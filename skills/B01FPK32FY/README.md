@@ -18,7 +18,7 @@ You can ask for Beanie Boos' birthdays such as, when is Pippie's birthday?
 ### Skill Details
 
 * **Invocation Name:** beanie boos
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c2d34127-15a8-4f3b-8810-0cad7b90c85b
 * **ASIN:** B01FPK32FY
 * **Author:** Arthur Lockrem

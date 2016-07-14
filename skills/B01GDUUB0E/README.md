@@ -16,7 +16,7 @@ The Sorg Opera House in Middletown, Ohio is MUCH more than a beautiful building;
 ### Skill Details
 
 * **Invocation Name:** sorg opera house trivia
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e2ba2c93-3cd9-4530-823b-7483eed45f0b
 * **ASIN:** B01GDUUB0E
 * **Author:** Saltzmann Media Limited

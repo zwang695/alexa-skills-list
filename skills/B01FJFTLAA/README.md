@@ -20,7 +20,7 @@ Alexa, Ask Yoga Guru how do I pose a cobra.
 ### Skill Details
 
 * **Invocation Name:** yoga guru
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a067d926-7fcc-4866-a663-a16ba4d1ee6e
 * **ASIN:** B01FJFTLAA
 * **Author:** wesee

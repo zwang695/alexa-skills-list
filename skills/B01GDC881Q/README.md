@@ -20,7 +20,7 @@ Alexa, ask workout helper what workout is suitable when I am happy
 ### Skill Details
 
 * **Invocation Name:** workout helper
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.36ad6f0b-7dea-4d11-a7bc-06ab833ce0b6
 * **ASIN:** B01GDC881Q
 * **Author:** Sofia Tania

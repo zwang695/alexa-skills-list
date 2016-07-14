@@ -1,10 +1,10 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01CSJ4FTM",
-  "averageRating": 2.5,
+  "averageRating": 2.9,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Ever had one of those days where you feel like a terrible person and you just need someone to tell you that?",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "insults",
   "name": "Insults",
-  "numberOfReviews": 8,
+  "numberOfReviews": 9,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -18,7 +18,7 @@ Now you can access this information via Alexa.
 ### Skill Details
 
 * **Invocation Name:** shootipedia
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0b2ee965-e486-4746-a170-68566b7e0223
 * **ASIN:** B01FN9ATXU
 * **Author:** Adzima Development

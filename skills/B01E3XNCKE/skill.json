@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "Acoustic Chord hosts a library of the most common guitar chords. Simply ask it to play a specific chord, and it will first pluck out and then strum that chord. Meanwhile, on the companion app, it will display the all the variant tabulatures for that chord. You can say \"repeat\" to play a chord again, or \"alternate\" to cycle through and hear what the other tabulatures sound like.",
   "enablement": null,
   "exampleInteractions": [

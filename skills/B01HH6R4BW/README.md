@@ -22,7 +22,7 @@ More informations about the WatchAid app go to http://www.watchaid.tv
 ### Skill Details
 
 * **Invocation Name:** watch aid
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.69392382-f42c-4d5e-8a60-5b51019a35f8
 * **ASIN:** B01HH6R4BW
 * **Author:** ReVeNG System

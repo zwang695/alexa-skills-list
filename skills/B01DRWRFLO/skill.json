@@ -4,7 +4,7 @@
   "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Alexa, ask Cricket Geek for a cricket fact\n\nAlexa will enlighten with you \nHere's your cricket fact: Peter Siddle is the only bowler to take a hat-trick on his birthday",
   "enablement": null,
   "exampleInteractions": [

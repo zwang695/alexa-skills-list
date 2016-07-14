@@ -18,7 +18,7 @@ Enjoy.
 ### Skill Details
 
 * **Invocation Name:** car facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.eb15c293-e8ea-4982-a4f4-f150c51af6b2
 * **ASIN:** B01DJLSOO0
 * **Author:** playdumbo.nyc

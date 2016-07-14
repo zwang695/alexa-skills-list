@@ -16,7 +16,7 @@ Do you need inspiration to live everyday to the fullest? By providing your birth
 ### Skill Details
 
 * **Invocation Name:** my hourglass
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.83a5f7fe-132e-458a-9fe7-d8f2308cd706
 * **ASIN:** B01FZW2OH4
 * **Author:** BLT Robotics

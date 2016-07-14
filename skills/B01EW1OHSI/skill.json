@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Roll any number and any type of dice, add or subtract modifiers, drop the lowest or highest roll.",
   "enablement": null,
   "exampleInteractions": [

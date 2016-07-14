@@ -16,7 +16,7 @@ Feeling a little down?  Haven't laughed all day?  Well, Comedy Dog comes to the 
 ### Skill Details
 
 * **Invocation Name:** comedy dog
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c3b1bf7a-0cc9-42b4-87da-1523412aaadd
 * **ASIN:** B01DQCN5HI
 * **Author:** BrownDog Tech

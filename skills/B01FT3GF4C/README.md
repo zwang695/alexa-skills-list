@@ -16,7 +16,7 @@ Can't find the channel you are looking for in the Dish Network guide?  Have Alex
 ### Skill Details
 
 * **Invocation Name:** channel finder
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c0d8baf8-9003-46ba-a370-79d3b8875379
 * **ASIN:** B01FT3GF4C
 * **Author:** Matt Carter

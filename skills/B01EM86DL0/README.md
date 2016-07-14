@@ -16,7 +16,7 @@ This skill allows you to ask Alexa for arrivals scheduled for a provided bus sto
 ### Skill Details
 
 * **Invocation Name:** the bus honolulu
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d9ad7478-d8b3-4d06-bbe5-06e72c3037b3
 * **ASIN:** B01EM86DL0
 * **Author:** RGPS

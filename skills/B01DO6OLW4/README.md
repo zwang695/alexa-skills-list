@@ -30,7 +30,7 @@ We want you to do more with your Alexa-enabled device. Meet us on https://smswit
 ### Skill Details
 
 * **Invocation Name:** s. m. s. with molly
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f7afb5b1-26f3-48d4-b62b-66e7cbba7a47
 * **ASIN:** B01DO6OLW4
 * **Author:** Molly

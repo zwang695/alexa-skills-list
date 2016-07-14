@@ -4,7 +4,7 @@
   "averageRating": 4.1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "This skill will return a description of the area represented by an area code.",
   "enablement": null,
   "exampleInteractions": [

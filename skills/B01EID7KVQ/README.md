@@ -16,7 +16,7 @@ Office Assistant Skill offers mobile number of pre-stored clients.
 ### Skill Details
 
 * **Invocation Name:** office assistant
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d480979a-026f-4d0f-ae4d-20d10237ee81
 * **ASIN:** B01EID7KVQ
 * **Author:** Self employed

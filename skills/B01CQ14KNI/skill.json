@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "A way to find local information in the Washington State Puget Sound area.  Will communicate Ferry status, Canada border crossing wait times, Pass conditions, State, Concert, Food, and Sporting events.  To be added soon are Ferry Schedule times, and Seafair events.\n\nFor suggestions or to contact please send email to:  brothersgrimmsoftware@gmail.com.",
   "enablement": null,
   "exampleInteractions": [

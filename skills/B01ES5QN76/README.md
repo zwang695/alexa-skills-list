@@ -16,7 +16,7 @@ Are you a comic book fan? Then we have the trivia game for you! Test your knowle
 ### Skill Details
 
 * **Invocation Name:** super hero trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.56b87fef-5617-4b48-badd-c35499e97c6d
 * **ASIN:** B01ES5QN76
 * **Author:** Internet of Voice

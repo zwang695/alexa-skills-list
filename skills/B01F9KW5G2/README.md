@@ -44,7 +44,7 @@ The stored default airport will be used. I'm still trying to think of a better w
 ### Skill Details
 
 * **Invocation Name:** airport weather
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.74a477b4-fe89-452d-8aa2-9cb6d89391ff
 * **ASIN:** B01F9KW5G2
 * **Author:** Dave Jacobowitz

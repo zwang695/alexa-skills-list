@@ -16,7 +16,7 @@ Use Alexa to pull back the layers of time to see what significant historical eve
 ### Skill Details
 
 * **Invocation Name:** amazing date fact
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3ea089e3-f862-4a45-a381-4d040cd21a13
 * **ASIN:** B01FLMSIBE
 * **Author:** BLT Robotics

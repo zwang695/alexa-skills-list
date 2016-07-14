@@ -16,7 +16,7 @@ My Biggest Fan allows you to ask for compliments. You'll definitely feel better 
 ### Skill Details
 
 * **Invocation Name:** my biggest fan
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.44ec188b-5519-4694-9630-7ba3a09383ea
 * **ASIN:** B01EQKULFI
 * **Author:** Emerson

@@ -41,7 +41,7 @@ You can reach us at m21lab@macadamian.com
 ### Skill Details
 
 * **Invocation Name:** scribe
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a8b3cafd-c7a1-4320-98a8-ac0164cccdde
 * **ASIN:** B01DOJT1JY
 * **Author:** Macadamian

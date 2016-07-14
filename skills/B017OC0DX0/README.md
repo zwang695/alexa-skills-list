@@ -24,7 +24,7 @@ After you launch the skill, you can say 'help' to get more information, includin
 ### Skill Details
 
 * **Invocation Name:** translator
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.414bc21e-8a3f-4295-8ab6-17ed845d8ca3
 * **ASIN:** B017OC0DX0
 * **Author:** Philosophical Creations

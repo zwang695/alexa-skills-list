@@ -18,7 +18,7 @@ This Alexa Skill was created by the Youth Coalition for Alcohol Education, a stu
 ### Skill Details
 
 * **Invocation Name:** best friend
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2d03cd5f-b82b-4c92-a436-07c9b06093da
 * **ASIN:** B01GCA3IZU
 * **Author:** Untamed Entertainment

@@ -31,7 +31,7 @@ You are ready to go!
 ### Skill Details
 
 * **Invocation Name:** artik
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4eb4a5bf-5c51-4cd0-ba6b-a95ac8e8a38b
 * **ASIN:** B01E8NGW60
 * **Author:** Samsung Strategy and Innovation Center

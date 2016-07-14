@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This is a quiz application for use by angular developers or those looking to improve their general knowledge about the AngularJS architecture. There are over 20 multiple choice questions with topics ranging from best practices, core module components, directive functionalities to historical information.",
   "enablement": null,
   "exampleInteractions": [

@@ -20,7 +20,7 @@ To play, just say "Alexa, play According to Bob"
 ### Skill Details
 
 * **Invocation Name:** according to bob
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4b5c58dc-369c-4302-b180-8a6ca1fe1610
 * **ASIN:** B01EWIJNHQ
 * **Author:** AHA!

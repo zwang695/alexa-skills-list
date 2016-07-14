@@ -16,7 +16,7 @@ Trivia facts for Deadheads, fans of the greatest rock group of all time, The Gra
 ### Skill Details
 
 * **Invocation Name:** deadhead facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.23ea40eb-00cd-498c-a993-9f05b6a39719
 * **ASIN:** B01FZWQLEG
 * **Author:** TLE Creations

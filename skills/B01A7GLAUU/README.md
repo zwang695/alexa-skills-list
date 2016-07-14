@@ -34,7 +34,7 @@ To get basic instructions, say "Alexa, open Dice Bag."
 ### Skill Details
 
 * **Invocation Name:** dice bag
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.61e700dd-f982-4b9c-bce6-5d4e9361fe80
 * **ASIN:** B01A7GLAUU
 * **Author:** Game Construct

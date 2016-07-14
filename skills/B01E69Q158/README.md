@@ -16,7 +16,7 @@ A fun game to learn more about the Book of Mormon and The Church of Jesus Christ
 ### Skill Details
 
 * **Invocation Name:** mormon trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ef820f93-c9ad-4b94-907f-7bd7ff837015
 * **ASIN:** B01E69Q158
 * **Author:** Spriton Systems LLC

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Home-Automation",
+  "category": null,
   "description": "Simple Demo for a hack night. If you ask Alexa to flip the relay you will toggle our light on and off.",
   "enablement": null,
   "exampleInteractions": [

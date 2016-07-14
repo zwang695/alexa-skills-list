@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Sometimes we need validation for the answers we already know the answers to. Alexa will validated those questions for you and help you sleep at night.",
   "enablement": null,
   "exampleInteractions": [

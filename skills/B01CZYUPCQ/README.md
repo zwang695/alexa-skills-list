@@ -17,7 +17,7 @@ New in 1.1 - Now you can ask about your next departure for any from and to netwo
 ### Skill Details
 
 * **Invocation Name:** starfish
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.24aac441-d9c7-41a9-bbe8-31d2b327d863
 * **ASIN:** B01CZYUPCQ
 * **Author:** Rai Integration Ltd

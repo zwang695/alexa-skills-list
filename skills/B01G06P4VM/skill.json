@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "This Alexa skill will keep you updated with the latest availability information for Pronto Cycle Share stations in Seattle. You can ask for the number of docks or bikes available in a station and the skill will respond with up to date information.\n\nVisit http://www.prontocycleshare.com for more information.",
   "enablement": null,
   "exampleInteractions": [

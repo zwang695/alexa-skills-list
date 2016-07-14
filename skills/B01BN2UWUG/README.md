@@ -18,7 +18,7 @@ You can ask Alexa for Hacker News stories from the following categories: top, sh
 ### Skill Details
 
 * **Invocation Name:** hacker news
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.29180dec-94e8-4c21-8403-1eb1a9beace0
 * **ASIN:** B01BN2UWUG
 * **Author:** Same Difference Games

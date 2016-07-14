@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Ever wondered how many award miles you need to travel using miles in certain airline ?  Flight Awards can answer this for you quickly.\n\nStart with US city to another US city or an International city. Prompts you for an airline. Reports one-way miles required to travel between the 2 cities in economy, business and First class. Currently supported airlines include American, United and Alaska. You can mention any US city to start from,  destination can be either a US city or international city.",
   "enablement": null,
   "exampleInteractions": [

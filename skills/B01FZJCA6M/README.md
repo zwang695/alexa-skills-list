@@ -16,7 +16,7 @@ A gentle introduction to the concepts of Alonzo Church's lambda calculus.
 ### Skill Details
 
 * **Invocation Name:** lambda games
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.62cc5b99-53ec-48b4-ad23-1bc2e65610b2
 * **ASIN:** B01FZJCA6M
 * **Author:** Joe Ting

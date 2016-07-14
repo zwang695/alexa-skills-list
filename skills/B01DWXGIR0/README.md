@@ -19,7 +19,7 @@ For assistance, visit: http://www.utah.gov/support
 ### Skill Details
 
 * **Invocation Name:** utah dot gov
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cd5eb78c-05b9-4b37-952a-00d9e18040ac
 * **ASIN:** B01DWXGIR0
 * **Author:** Utah Interactive

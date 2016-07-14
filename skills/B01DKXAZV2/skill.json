@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Get today's deal on meh.com, that's pretty much it.\n\nThis is an unofficial Meh app, not affiliated with Meh.",
   "enablement": null,
   "exampleInteractions": [

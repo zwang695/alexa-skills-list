@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "FitnessLogger is an Alexa skill to keep track of your daily exercises. Using FitnessLogger, you can instruct Alexa to store your workouts without reaching out to your personal devices. You can tell FitnessLogger to save your current workout, clear your last saved workout, or you can ask for your best performance. You can always review your previous workouts by just specifying the date and exercise.\n\nFollowing are the list of supported actions by FitnesLogger:\n- Save your current workout\n- Delete your last saved workout\n- Get all your workouts on a specific date\n- Get all workouts for a specific exercise on a particular date\n- Find your personal best for an exercise\n- Get a list of all supported exercises\n\nFitnessLogger currently supports a pre-defined list of exercises. You can say \"Alexa, ask Fitness Logger for all supported exercises\" to get a list of all ​exercises. Please use the feedback form, if you want new exercises added to the supported list.",
   "enablement": null,
   "exampleInteractions": [

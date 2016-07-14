@@ -16,7 +16,7 @@ This really is about being narcissistic with this first Echo app. No one in the 
 ### Skill Details
 
 * **Invocation Name:** jen and ian trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dfbdabb0-7c16-4872-85de-b6e287cc4745
 * **ASIN:** B01E24GB9I
 * **Author:** Enterprise Code Corp

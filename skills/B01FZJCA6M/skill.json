@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "A gentle introduction to the concepts of Alonzo Church's lambda calculus.",
   "enablement": null,
   "exampleInteractions": [

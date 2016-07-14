@@ -20,7 +20,7 @@ http://www.chayden.net/Index.shtml
 ### Skill Details
 
 * **Invocation Name:** eliza
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4a9ece2b-1d76-45de-810a-821cc08c97c1
 * **ASIN:** B01D8C095W
 * **Author:** Jenigiri Inc.

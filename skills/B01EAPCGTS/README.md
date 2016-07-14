@@ -18,7 +18,7 @@ To launch this quiz, say “Start zoo walk”. During the game, you can say "Rep
 ### Skill Details
 
 * **Invocation Name:** zoo walk
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.20b1dc63-2f92-4f5e-a553-ce083c662bca
 * **ASIN:** B01EAPCGTS
 * **Author:** Daniel Haese

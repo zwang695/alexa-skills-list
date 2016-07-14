@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Daily Buzzword icon" width="36"> [Daily Buzzword](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6e717589-1014-4337-89bd-9b9265400396)
-![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 7
+![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Daily Buzzword skill, try saying...
 
@@ -20,7 +20,7 @@ This skill is not written by Merriam-Webster so errors or omissions are probably
 ### Skill Details
 
 * **Invocation Name:** daily buzzword
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6e717589-1014-4337-89bd-9b9265400396
 * **ASIN:** B01ED2RZ58
 * **Author:** IrishClanger

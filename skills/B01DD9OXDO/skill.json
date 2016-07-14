@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "Biking Wizard checks the weather for you and tells you if the conditions are right for a bike ride today!",
   "enablement": null,
   "exampleInteractions": [

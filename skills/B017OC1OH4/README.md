@@ -14,7 +14,7 @@ The only thing you have to say is "Alexa, open Bitcoin Price Checker."
 ### Skill Details
 
 * **Invocation Name:** bitcoin price checker
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.11eee174-e7ab-4ca8-98f0-6931bae5db0b
 * **ASIN:** B017OC1OH4
 * **Author:** Andrew Austin

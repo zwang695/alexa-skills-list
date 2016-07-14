@@ -4,7 +4,7 @@
   "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Home-Automation",
+  "category": null,
   "description": "Scout is a next-generation home security system that combines cutting-edge hardware design with intuitive, easy-to-use controls. Beautifully designed sensors and low-cost, month-to-month professional monitoring with no long-term contracts make it the best home security system on the market today. Visit www.scoutalarm.com for more information about our devices and professional monitoring options. Secure your home or apartment the way you want. To use this skill and the sample phrases shown above, you will need at least a Scout hub and Scout sensor linked to a Scout account.\n\n\nTo link your account, login to your account on Scout (dashboard.scoutalarm.com) > go to the Integrations section > select Amazon Alexa and enter the 4 digit pairing code Alexa has sent you from your Alexa app.",
   "enablement": null,
   "exampleInteractions": [

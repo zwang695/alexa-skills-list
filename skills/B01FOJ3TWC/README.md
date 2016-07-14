@@ -16,7 +16,7 @@ Test your Bible knowledge! Ask Alexa to play Bible Trivia and you will get 5 que
 ### Skill Details
 
 * **Invocation Name:** bible trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.abb37de1-b612-42dd-8ae2-719474d0d375
 * **ASIN:** B01FOJ3TWC
 * **Author:** London Technology Services 

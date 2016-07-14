@@ -21,7 +21,7 @@ If you want the full standings try "Ask Presidential Race the current standings.
 ### Skill Details
 
 * **Invocation Name:** presidential race
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3db8cc87-b368-4b81-a470-16c6d00a3031
 * **ASIN:** B01FV1IVY4
 * **Author:** Raizlabs

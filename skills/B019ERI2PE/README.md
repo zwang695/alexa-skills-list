@@ -20,7 +20,7 @@ This skill is fun to play alone, or compete with your family and friends to see 
 ### Skill Details
 
 * **Invocation Name:** reindeer games
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.05aebcb3-1461-48fb-a008-8dded1e2b516
 * **ASIN:** B019ERI2PE
 * **Author:** Amazon

@@ -18,7 +18,7 @@ Usage is very simple, every time you ask Echo if you fed the cat feeder it will 
 ### Skill Details
 
 * **Invocation Name:** the cat feeder
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ab28d4ea-5b44-4c4f-8025-2b6b1a100e2e
 * **ASIN:** B01ERV4VCU
 * **Author:** Underscore Research LLC

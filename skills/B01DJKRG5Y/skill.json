@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Turtle Trivia is a short word game that asks 5 random questions about turtles and gives a multiple choice answer.  Ask Alexa to \"play turtle trivia\" to run the skill.",
   "enablement": null,
   "exampleInteractions": [

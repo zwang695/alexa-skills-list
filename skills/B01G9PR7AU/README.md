@@ -19,7 +19,7 @@ Alexa - "Starting on your hands and knees, bring the left foot forward directly 
 ### Skill Details
 
 * **Invocation Name:** my fitness trainer
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.12493793-887a-4e65-9698-3eef444a6b9e
 * **ASIN:** B01G9PR7AU
 * **Author:** Aravind Ranganathan

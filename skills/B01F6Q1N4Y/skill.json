@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "If you want to verify that you counted up your hand correctly, or want to check for muggins, you can use this skill.  \n\nFirst, Alexa will ask for the four cards in your hand.  \nSecond, she asks for the cut card.\n\nWith that knowledge, she can add up your score.",
   "enablement": null,
   "exampleInteractions": [

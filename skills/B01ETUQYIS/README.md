@@ -16,7 +16,7 @@ Ask Alexa to convert money to different currencies of the world. This skill acce
 ### Skill Details
 
 * **Invocation Name:** currency converter
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b565d1f0-ce04-4e80-8f1c-74d9f2d76c5a
 * **ASIN:** B01ETUQYIS
 * **Author:** LB

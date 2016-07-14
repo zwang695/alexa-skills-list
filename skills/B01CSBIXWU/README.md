@@ -12,7 +12,7 @@ Get a round of applause in any situation with the Alexa Applause Skill. Ask for 
 ### Skill Details
 
 * **Invocation Name:** applause
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.aa5859fd-d8f9-4403-bda5-3b2da41192e5
 * **ASIN:** B01CSBIXWU
 * **Author:** Matchbox mobile

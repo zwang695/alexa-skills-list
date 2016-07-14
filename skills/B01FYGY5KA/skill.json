@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Number Facts lets you ask alexa about any number you like. It uses an expansive database of facts so you can specify any number, or let Number Facts pick a random one!\n\nIf you ask about a number that Number Facts doesn't know about, consider visiting numbersapi.com and adding a fact about that number!",
   "enablement": null,
   "exampleInteractions": [

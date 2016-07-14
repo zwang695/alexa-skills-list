@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "Ask Alexa to calculate your bra size. She will ask your band and bust size. If you have doubts about these measures, you can ask Alexa to explain you how to take them. This skill may not be suitable for all ages, so if you are 8 years old or higher feel free to ask me some advice for choosing your right bra.",
   "enablement": null,
   "exampleInteractions": [

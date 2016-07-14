@@ -1,0 +1,39 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "skyportcloud.com",
+    "skyport.io"
+  ],
+  "asin": "B01H649A7Q",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "With the First Alert OneLink skill and Alexa, you can now interact with your First Alert OneLink thermostats by voice.\n \nTo get started, select the ‘Enable Skill’ button in the Alexa App to link your First Alert OneLink account and discover your thermostat(s). Find more information about connecting Smart Home devices at http://amzn.to/291lR7u\n \nWhen using the skill, you need to specify by name which thermostat to use. There are two ways to define this/these names:\nUse the name(s) you set up already – these are shown in the First Alert OneLink app and can be changed, or\nCreate an Alexa group, like Bedroom or Downstairs, and add the thermostat and/or one or more sensors to the group. More information at http://amzn.to/2965dCE\n \nOnce you know the name or group of your thermostat, you can say the following: “Alexa, lower Bedroom by 3 degrees”, or “Alexa, set Downstairs temperature to 72”.\n \nIf you have any questions, please visit the First Alert OneLink FAQ at http://www.firstalertthermostats.com/support/",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1468366029.119,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.608c76d2-fa6a-4d79-b17f-62717125504b",
+  "imageAltText": "First Alert icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01H649A7Q/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "First Alert",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "no3Eik6szzosrwa6P5hMAS67u",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.firstalert.com/legal-privacy",
+  "shortDescription": "Monitor and control your First Alert Onelink thermostat. Alexa, set my living room to 74 degrees.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2X9WA7G9UPD8D",
+  "vendorName": "Venstar Inc."
+}

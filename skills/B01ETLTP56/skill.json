@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Ukuleles are notorious for going out of tune. Ukulele Tuner helps you tune your ukulele by ear, playing each string eight times.\n\nUkulele Tuner uses \"standard\" tuning, otherwise known as \"C\" tuning. Starting with the top string (closest to your chin), the tuning is G-C-E-A.",
   "enablement": null,
   "exampleInteractions": [

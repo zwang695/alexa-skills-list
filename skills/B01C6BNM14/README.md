@@ -19,7 +19,7 @@ Icon made by Freepik from http://www.flaticon.com.  Flaticon is licensed under C
 ### Skill Details
 
 * **Invocation Name:** tea trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3118e68b-b233-4d0a-982c-bb18b2d018b6
 * **ASIN:** B01C6BNM14
 * **Author:** Rutavega LLC

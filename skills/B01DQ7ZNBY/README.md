@@ -28,7 +28,7 @@ Download the cat facts Alexa Skill for more!
 ### Skill Details
 
 * **Invocation Name:** cat facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5d9da015-4b9e-4c04-8076-a847cd85f276
 * **ASIN:** B01DQ7ZNBY
 * **Author:** Tanner Little

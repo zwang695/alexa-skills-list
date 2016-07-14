@@ -28,7 +28,7 @@ Alexa, ask GreenIQ to report water consumption
 ### Skill Details
 
 * **Invocation Name:** green i. q.
-* **Category:** Connected-Home
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bc0ff183-e6d2-4dd3-8247-677c5194e47e
 * **ASIN:** B01DWFB1DE
 * **Author:** GreenIQ

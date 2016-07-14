@@ -16,7 +16,7 @@ In this speech adventure you are in a Kitchen and your quest is to make an omele
 ### Skill Details
 
 * **Invocation Name:** omelette game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ec0546ac-0d52-407c-af91-8da82b083c60
 * **ASIN:** B01F1A1CUA
 * **Author:** Pinguin

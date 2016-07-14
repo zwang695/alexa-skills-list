@@ -16,7 +16,7 @@ Trivia for Trekkie's.  Test your Knowledge of the Star Trek universe!  The trivi
 ### Skill Details
 
 * **Invocation Name:** trekkie trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bd7be3da-ed27-453f-aa24-9f3b7bedec2e
 * **ASIN:** B01FRG1JSS
 * **Author:** TLE Creations

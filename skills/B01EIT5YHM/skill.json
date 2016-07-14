@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Home-Automation",
+  "category": null,
   "description": "TalkLocal helps you connect with and get estimates from the best local service professionals, usually within a few minutes. Currently, TalkLocal can help you find a plumber.  We will be adding services such as handymen, painters, roofers, and others soon. \n\nWe compare and rank all local service professionals based on reviews, call analytics, social standing, and job preferences and notify them immediately of your service needs.  Up to 3 service professionals can respond and call you directly.",
   "enablement": null,
   "exampleInteractions": [

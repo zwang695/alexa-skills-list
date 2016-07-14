@@ -20,7 +20,7 @@ All prices come with the lowest recent price found for the route and dates, the 
 ### Skill Details
 
 * **Invocation Name:** sky scanner
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3275d681-0844-4a3e-9758-64935140e1da
 * **ASIN:** B01AS6Q8II
 * **Author:** Skyscanner.net

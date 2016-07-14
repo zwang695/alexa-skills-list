@@ -20,7 +20,7 @@ As this skill is used to generate lottery numbers, this skill may not be suitabl
 ### Skill Details
 
 * **Invocation Name:** powerball helper
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ee891d84-ad79-4ad3-8a7b-f6b60d2c16f7
 * **ASIN:** B01BW6HHJC
 * **Author:** Matchbox mobile

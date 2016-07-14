@@ -12,7 +12,7 @@ Test your math skills, answer questions about prime numbers.
 ### Skill Details
 
 * **Invocation Name:** prime numbers
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a861b138-560e-48ae-8d79-167e9e6d45cf
 * **ASIN:** B01D0HZVZS
 * **Author:** TeaTime

@@ -16,7 +16,7 @@ Think you know tomatoes? Check your knowledge with this collection of hand-picke
 ### Skill Details
 
 * **Invocation Name:** tomatonator trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.850a9d89-445e-4dcf-95ad-a9730feefe5f
 * **ASIN:** B01G2JXQ62
 * **Author:** DevTheory

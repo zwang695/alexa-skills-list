@@ -16,7 +16,7 @@ Yoga Trainer helps you keep up with your Bikram Yoga (C) at home. This Alexa Ski
 ### Skill Details
 
 * **Invocation Name:** yoga trainer
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.971994ca-aac9-4ea0-9cd1-24f77dcddec4
 * **ASIN:** B01FNEWM8K
 * **Author:** Logisome Inc

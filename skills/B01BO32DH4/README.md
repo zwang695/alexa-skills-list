@@ -16,7 +16,7 @@ This skill will return a description of the area represented by an area code.
 ### Skill Details
 
 * **Invocation Name:** area code
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.582bb4be-a571-4c73-bda7-ae2cfe19d47c
 * **ASIN:** B01BO32DH4
 * **Author:** Per4mnce Software

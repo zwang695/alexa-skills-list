@@ -16,7 +16,7 @@ With Stock Quote you can have Alexa tell you the recent price of any stock liste
 ### Skill Details
 
 * **Invocation Name:** stock quote
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.35677929-49af-489d-b7b2-159fa590cb2f
 * **ASIN:** B01DYSEKSC
 * **Author:** playdumbo.nyc

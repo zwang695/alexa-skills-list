@@ -12,7 +12,7 @@ BART Status gets current service advisories from the official BART website.
 ### Skill Details
 
 * **Invocation Name:** bart status
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5d24a9a0-d8ea-4867-b842-efc09f65b849
 * **ASIN:** B01BCU8QPW
 * **Author:** Tapgods

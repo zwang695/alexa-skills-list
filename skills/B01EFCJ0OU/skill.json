@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "This skill provides the latest storm information about tropical storms and hurricanes from both the Atlantic and Pacific oceans.  It also gives useful information about prior years storms, including names, strength, and if they made landfall. You can retrieve detailed information about a specific hurricane by saying 'tell me about hurricane Katrina', or you can get all of the storms for a given year by saying 'what were the storms from 2014'.",
   "enablement": null,
   "exampleInteractions": [

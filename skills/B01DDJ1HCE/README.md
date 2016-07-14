@@ -16,7 +16,7 @@ Whether reinforcing one's knowledge or to learn more about US history, use this 
 ### Skill Details
 
 * **Invocation Name:** u. s. history
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4531e2d0-d49b-48e0-8748-05f817475945
 * **ASIN:** B01DDJ1HCE
 * **Author:** James Co

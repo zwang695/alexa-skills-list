@@ -12,7 +12,7 @@ You can know the moon age by asking to Echo.
 ### Skill Details
 
 * **Invocation Name:** moon age
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.92df80e5-0ad8-406d-9057-b996c8f0b6f3
 * **ASIN:** B01GBD1AUI
 * **Author:** sparkgene

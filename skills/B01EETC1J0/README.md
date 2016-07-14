@@ -18,7 +18,7 @@ Token price is provided by the courtesy of wowtoken.info and is updated every 10
 ### Skill Details
 
 * **Invocation Name:** cue token
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.06ec083e-9b79-4a2c-b917-9cd29b6d8834
 * **ASIN:** B01EETC1J0
 * **Author:** kix

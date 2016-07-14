@@ -16,7 +16,7 @@ This skill is meant to add computer science-related jokes to Alexa's nerdbank. T
 ### Skill Details
 
 * **Invocation Name:** jokes plus plus
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9a9b2ebd-b4ef-496b-a42e-01c2e4079cfd
 * **ASIN:** B01C3DHATA
 * **Author:** Patrick Mollohan

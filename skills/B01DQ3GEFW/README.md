@@ -16,7 +16,7 @@ Ask Dino Facts for cool information about dinosaurs that you never knew. Learn s
 ### Skill Details
 
 * **Invocation Name:** dinosaur facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.552b00cc-b450-4565-b290-6a76b7569f8f
 * **ASIN:** B01DQ3GEFW
 * **Author:** Happy Monkey Heavy Industries

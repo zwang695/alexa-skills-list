@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This skill provides users with a basic understanding of the history and evolution of writing and typography.\n\nCan you answer:\n\"What is one of the oldest writing systems?\"\nor\n\"What font falls under the modern category?\"\n\nHistorical questions and basic typographic categories are covered in this trivia style game. Questions are answered with one of four multiple choice responses.",
   "enablement": null,
   "exampleInteractions": [

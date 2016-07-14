@@ -18,7 +18,7 @@ DISCLAIMER: This tool is meant to educate users on how to improve their overall 
 ### Skill Details
 
 * **Invocation Name:** diabetes information
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5f2edd06-6969-483d-9f7d-fdb04ef14ddd
 * **ASIN:** B01FYRBTTY
 * **Author:** Makarand Pande

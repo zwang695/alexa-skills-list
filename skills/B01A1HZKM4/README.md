@@ -29,7 +29,7 @@ For reporting bugs or suggestions, please email m@moogs.io
 ### Skill Details
 
 * **Invocation Name:** fortune
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4bd5c867-3d98-4afd-924b-b756d0eb9440
 * **ASIN:** B01A1HZKM4
 * **Author:** Moogs

@@ -31,7 +31,7 @@ Please support this game and its fans by visiting, http://eclipsephase.com. Than
 ### Skill Details
 
 * **Invocation Name:** eclipse phase
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.209352a4-5fea-45c1-b548-fe3a0b31a5d9
 * **ASIN:** B01DQCC1R8
 * **Author:** SILVR

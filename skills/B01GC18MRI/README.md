@@ -18,7 +18,7 @@ Hampshire is soaked in history. It was first mentioned in 755! Did you the capit
 ### Skill Details
 
 * **Invocation Name:** hampshire geek
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7a668d81-74d3-43d7-8138-426fc8416b15
 * **ASIN:** B01GC18MRI
 * **Author:** Wand IT

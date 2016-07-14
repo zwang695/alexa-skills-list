@@ -16,7 +16,7 @@ Carly is a voice-activated coach for Amazon Echo that helps users understand the
 ### Skill Details
 
 * **Invocation Name:** carley
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7cedcafc-0757-49d2-a0b5-362d917b2eac
 * **ASIN:** B01DX5N37U
 * **Author:** Logisome Inc

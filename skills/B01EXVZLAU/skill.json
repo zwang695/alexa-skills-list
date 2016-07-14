@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Want to give the next guided tour at your local Dinosaur Museum?  Well we might not ask you to go that far, but here is a fun Alexa skill that will dish out fun and interesting dinosaur facts.",
   "enablement": null,
   "exampleInteractions": [

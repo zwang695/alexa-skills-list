@@ -4,7 +4,7 @@
   "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "*NEW* Version 2.0 Update! (See below)\n\nThe 7-Minute Workout is a scientifically proven set of exercises designed to increase metabolism, improve energy, lower stress, and best of all, remove fat! It's a small daily commitment for such enormous benefits.\n\nTo get started, you simply need to say 'Start 7-Minute Workout,' and you will be guided through the entire routine. Take breaks as you need them, and let Alexa know when you are ready to begin the next exercise, but don't forget to push yourself!\n\nPlease share your thoughts, and we will do our best to make the 7-Minute Workout the perfect workout companion for your busy life! \n\nYou can email me directly at justin@pargee.com with any questions, comments or concerns.\n\nFuture releases will offer additional features based on community feedback such as:\n-Advanced mode containing more difficult exercises.\n\nUpdate 2.0:\n-Helpful images and tutorials via the Alexa Companion App!\n-Keep track of and resume existing workouts!\n-Various minor tweaks and fixes :)\n\nUpdate 1.1: \n-Improved error handling for ready intents to accept addition words and phrases.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "seven minute workout",
   "name": "7-Minute Workout",
-  "numberOfReviews": 91,
+  "numberOfReviews": 92,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

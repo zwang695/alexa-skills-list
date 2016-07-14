@@ -16,7 +16,7 @@ The state capitals quiz asks you multiple choice questions on state capitals.  F
 ### Skill Details
 
 * **Invocation Name:** state capitals
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bd5b2264-af75-4e92-b68b-26a270d2cc67
 * **ASIN:** B01EKQTM2Q
 * **Author:** Christopher Colicino

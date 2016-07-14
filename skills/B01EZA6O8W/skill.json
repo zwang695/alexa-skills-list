@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "MySomm turns Alexa into Wine Gal, your personal wine sommelier that can give you wine recommendations for your meals. With hundreds of recommendations, she can give you her thoughts on what wine to pair with your prime rib, or what wine goes with goat cheese. MySomm is intended for wine enthusiasts above the legal drinking age in their respective state and/or country, please drink responsibly.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "wine gal",
   "name": "MySomm",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -16,7 +16,7 @@ This skill gives you fun facts about cats when you ask it. No sign-up required! 
 ### Skill Details
 
 * **Invocation Name:** cat facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7598adc7-165c-4570-9592-819dbf16bfe0
 * **ASIN:** B01EEGU816
 * **Author:** Joseph Caintic

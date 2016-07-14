@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "The user may get started by asking Alexa to \"open species trivia\" and the game will start. The user earns points when answering questions correctly and learns about species along the way.",
   "enablement": null,
   "exampleInteractions": [

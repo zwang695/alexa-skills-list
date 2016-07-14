@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "You can use the skill to play all your health statistics from google fit account. User need to linkup this skill during registration process. During interaction we query google fit account to get statistics related to the registered user. As we cannot identify users on Echo we can only link one Echo device to one user. You need to have an active fit account linked with your google account.",
   "enablement": null,
   "exampleInteractions": [

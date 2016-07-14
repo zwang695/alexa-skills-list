@@ -16,7 +16,7 @@ Summon an interesting random fact about cats.
 ### Skill Details
 
 * **Invocation Name:** cat fact
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6f97ae95-04de-4dbb-b5e4-42c967543876
 * **ASIN:** B01EL5O3SE
 * **Author:** Sanny Lin

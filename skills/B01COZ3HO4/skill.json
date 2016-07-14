@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "With the help of Frontend Quiz you can test your HTML, CSS and Javascript knowledge. The level of the questions varies from beginner to intermediate. Play it multiple times and try to achieve maximum score!",
   "enablement": null,
   "exampleInteractions": [

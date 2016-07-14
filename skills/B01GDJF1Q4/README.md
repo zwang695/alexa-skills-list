@@ -16,7 +16,7 @@ Ever find yourself trying to remember the keyboard shortcuts for the Mac? The Sh
 ### Skill Details
 
 * **Invocation Name:** the shortcut genie
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.59652645-89fd-4e35-b9ff-984769a3b324
 * **ASIN:** B01GDJF1Q4
 * **Author:** Eddie Rush

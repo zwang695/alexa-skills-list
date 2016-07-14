@@ -16,7 +16,7 @@ Use this Alexa skill to learn something new about the hidden past of numbers.
 ### Skill Details
 
 * **Invocation Name:** number trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.43241783-26d0-44be-af4c-80067cd9b009
 * **ASIN:** B01FNHEJ8I
 * **Author:** BLT Robotics

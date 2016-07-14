@@ -16,7 +16,7 @@ If you say "Alexa play 80's Movie Trivia" you will be presented with 5 questions
 ### Skill Details
 
 * **Invocation Name:** eighties movie trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.17a1a310-8f50-4133-99ed-8a1a2ff693df
 * **ASIN:** B01DE3FBN0
 * **Author:** DSApps

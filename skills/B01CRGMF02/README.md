@@ -16,7 +16,7 @@ A short Trivia Quiz on Donald Trump.  If you like Trump please rate this skill.
 ### Skill Details
 
 * **Invocation Name:** trump me
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9caf9006-96b2-4367-87a7-f6343ab3deea
 * **ASIN:** B01CRGMF02
 * **Author:** Ron Yatteau

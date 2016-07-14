@@ -16,7 +16,7 @@ You can interact with Alexa to know courses offered, holidays and events happeni
 ### Skill Details
 
 * **Invocation Name:** virtual academy
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.17b45288-2a41-4f3b-83bb-a4fc1136fc26
 * **ASIN:** B01E3USJ1O
 * **Author:** Developer

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "Test your knowledge of the Masters tournament. See if you can recall past champions and record holders at Augusta National.",
   "enablement": null,
   "exampleInteractions": [

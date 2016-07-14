@@ -16,7 +16,7 @@ The following skill will ask you a set of trivia questions related to the field 
 ### Skill Details
 
 * **Invocation Name:** fizz buzz
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1aa0d024-9f5a-47fd-9279-633cf07763b2
 * **ASIN:** B01F6W1C8U
 * **Author:** Rubix

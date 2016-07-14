@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Random Trivia game asks you random questions about all kinds of things on planet earth. \n\nTo use this skill, enable it. Then you can ask the following:\n\nAlexa, open random trivia game.\n\nIt will then ask you a question. You can respond in many ways to Alexa. Note your {Answer} should be a number from 1-4. Examples include:\n\nThe answer is {Answer} \n\nMy answer is {Answer}",
   "enablement": null,
   "exampleInteractions": [

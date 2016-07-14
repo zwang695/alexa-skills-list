@@ -16,7 +16,7 @@ Simply ask Alexa for an idea from Giant Spoon and then sit back and get ready to
 ### Skill Details
 
 * **Invocation Name:** giant spoon
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2723be85-364e-442d-ad18-14932a4c0681
 * **ASIN:** B01CY5R5LA
 * **Author:** Giant Spoon

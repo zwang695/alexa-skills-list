@@ -18,7 +18,7 @@ To get started, just say “Alexa, open Speak Jamaican”. Alexa will help you t
 ### Skill Details
 
 * **Invocation Name:** speak jamaican
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e2941ff6-56b1-453d-9f4d-53792cf8f16a
 * **ASIN:** B01FCQXEV8
 * **Author:** S4 Technology, Inc.

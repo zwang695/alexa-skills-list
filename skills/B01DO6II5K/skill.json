@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This app will quickly assess your front-end web development skills. Just for fun :)",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This quiz will test your knowledge of Riot's League of Legends. Play against a friend and see how much you really know about the most played online game in the world! You will be given five random questions concerning various aspects of the game; champion lore, League of Legends Championship Series, and the company Riot Games.",
   "enablement": null,
   "exampleInteractions": [

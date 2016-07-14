@@ -20,7 +20,7 @@ Alexa, ask Cloud Helper what is the definition of cloud computing?
 ### Skill Details
 
 * **Invocation Name:** cloud helper
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.67f14a05-d628-4e8e-9788-51b7e5e7a12b
 * **ASIN:** B01GAW00J2
 * **Author:** Drew Firment

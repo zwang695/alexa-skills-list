@@ -7,7 +7,7 @@
   "averageRating": 2.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Home-Automation",
+  "category": null,
   "description": "Ready to fill your home with millions of bright, rich colors and white tones? With a LIFX Wi-Fi smart light you can change the palette of your home to match your mood, your music and your style... every single day. No extra cables. No hidden hub hardware. Just replace your light bulb with a LIFX and redecorate your life, without renovating! \n\nWith the LIFX skill, Alexa can turn your LIFX lights on and off, change their brightness and even choose your favourite LIFX colors. You can ask Alexa to control LIFX lights in just one room, or your entire home.\n\nYou'll need a color LIFX light (available from www.lifx.com, Amazon and most retailers) setup on your Wi-Fi network and connected to your free LIFX Cloud account. \n\nTo get started, just say \"Hey Alexa, ask LIFX what can I do with my lights?\". Alexa will connect to your LIFX account and quickly get you on your way.",
   "enablement": null,
   "exampleInteractions": [

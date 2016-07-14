@@ -20,7 +20,7 @@ Search by area code, zip code, or city and state to hear more information about 
 ### Skill Details
 
 * **Invocation Name:** code finder
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.978ba9f2-2afe-40a0-8e61-ae03be65cad1
 * **ASIN:** B01DQFWAEE
 * **Author:** Ryan Mulligan

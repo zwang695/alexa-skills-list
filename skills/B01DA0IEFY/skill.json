@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Social",
+  "category": null,
   "description": "I am your daily friend and can do many things for you.  Such as play fun games and later much more!  Many of the games are great exercise for stretching your mind.\n\nThe first time you start this skill, you will be asked for your name.  You can change your name at any time.   For help, say \"Help please\".   The help will tell you all about the games and how to play them.  \n\nWhen you are done playing, say \"Goodbye\".  If you accidentally disconnected, say \"Alexa, start for me\", and you will be right back where you left off.",
   "enablement": null,
   "exampleInteractions": [

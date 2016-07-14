@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Love to play Hearthstone? But don't have the time to browse your huge collection of cards? No problem! Flavor Text for Hearthstone will read the flavor text from a random Hearthstone card to you.",
   "enablement": null,
   "exampleInteractions": [

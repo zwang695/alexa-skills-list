@@ -8,7 +8,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "NOTE: In order to use this skill, you will need to link your Washio account to Alexa. Switch between your Amazon Household profiles to request an order from different Washio accounts.\n\nDescription: Get your dirty duds cleaned without even lifting a finger. With the Washio skill, you can schedule your clothes to be picked up, cleaned, and delivered to your home using just your voice. You can also check on the progress of your orders by saying: \"Alexa, ask Washio where's my laundry.\"",
   "enablement": null,
   "exampleInteractions": [

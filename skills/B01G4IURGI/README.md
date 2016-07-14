@@ -16,7 +16,7 @@ Have a chemistry quiz coming up? Do electrons make you negative? Well, look no f
 ### Skill Details
 
 * **Invocation Name:** random chemistry
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b6854535-3fb8-49d3-98e1-d0dc67a7a6ab
 * **ASIN:** B01G4IURGI
 * **Author:** ver2point0

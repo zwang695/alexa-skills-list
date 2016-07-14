@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "This skill allows users to ask Sage for Gonzaga High School for the menu for a given day.  Start by asking Sage for Gonzaga what is on the menu for today, tomorrow, or some other specific day.  It returns the main entrees first and allows the users to then continue to get other categories such as the soups, salads, and so on.",
   "enablement": null,
   "exampleInteractions": [

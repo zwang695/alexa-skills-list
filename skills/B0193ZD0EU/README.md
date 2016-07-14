@@ -12,7 +12,7 @@ This skill tells you a dog fact
 ### Skill Details
 
 * **Invocation Name:** me a dog fact
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.81666731-192f-4f23-9efb-4e2644991027
 * **ASIN:** B0193ZD0EU
 * **Author:** Randomvoids

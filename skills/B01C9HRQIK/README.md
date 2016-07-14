@@ -18,7 +18,7 @@ Which console was launched first the SNES or the Sega Genesis?
 ### Skill Details
 
 * **Invocation Name:** geek games
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ebafdfdf-5323-47b2-9eba-7dcc17f04adf
 * **ASIN:** B01C9HRQIK
 * **Author:** Freelance

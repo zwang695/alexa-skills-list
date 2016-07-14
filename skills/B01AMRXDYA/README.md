@@ -16,7 +16,7 @@ Use HawkBus to get the next time until the next bus arrives at a specified stop 
 ### Skill Details
 
 * **Invocation Name:** hawk bus
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.48cb5619-37ef-4b29-ac19-b4356c57a460
 * **ASIN:** B01AMRXDYA
 * **Author:** K Farrell

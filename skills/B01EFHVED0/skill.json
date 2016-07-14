@@ -4,7 +4,7 @@
   "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Play a question/answer game show with your Echo. Check your Alexa app for the answers.\n\nGood luck!",
   "enablement": null,
   "exampleInteractions": [

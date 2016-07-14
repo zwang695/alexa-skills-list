@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "Does the weather look grim outside this morning? Is there an ongoing emergency or special event in the DMV? Snowday provides information on closures/delays for various government offices and services and schools in the Baltimore/Washington area. It currently supports:\nOPM (or \"the federal government\")\nMaryland state government (\"Maryland State\")\nThe D.C. Metro (\"the Metro\")\nThe National Security Agency (\"NSA\")\nBaltimore City Circuit Court (\"Baltimore Courts\")\nUniversity of Maryland, Baltimore (use \"UMB\")\nJohns Hopkins University (\"JHU\")\nBaltimore County government\nBaltimore County schools\n...with many more on the way!",
   "enablement": null,
   "exampleInteractions": [

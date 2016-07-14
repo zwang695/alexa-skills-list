@@ -16,7 +16,7 @@ Are you a Belieber, Katycat, or Directioner? This trivia quiz asks a series of q
 ### Skill Details
 
 * **Invocation Name:** pop music trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2be8e2f8-2f0c-434e-9788-a33e3b0261b0
 * **ASIN:** B01G2SL9QM
 * **Author:** Yamileth Medina

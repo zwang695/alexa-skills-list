@@ -4,7 +4,7 @@
   "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "A humorous dinosaur trivia game.   Echo asks questions and you answer by choosing 1,2,3,4.  Dinosaur questions include real and silly answers.\n\nStart the game by saying \"Alexa, open dino trivia\"\n\nTo answer a question, simply say a number from 1-4.\n\nAfter hearing the correct answer, you have the option to interrupt Alexa prior to hear speaking the remainder of the four answers.  Simply say Alexa followed by the number of the answer you believe is correct (ex. Alexa 2).",
   "enablement": null,
   "exampleInteractions": [

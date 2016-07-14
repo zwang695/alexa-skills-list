@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Disclaimer: this skill is a prank skill for entertainment purposes only and does not provide the ability to find crocodiles.\n\nIf you suffer from Crocodyliphobia, you want to know where the crocodiles are, so you can be somewhere else. Ask Alexa where they are! For your entertainment, Alexa will respond with a random location nearby where she believes the crocodiles are hiding. \n\nNote: If you have a real crocodile infestation, this skill will not help you avoid real live actual crocodiles.",
   "enablement": null,
   "exampleInteractions": [

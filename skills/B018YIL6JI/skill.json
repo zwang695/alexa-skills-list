@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "This is meant to be a fun skill, where you can ask The Magic 8-Ball any yes/no question and it will give you a random response to your answer.",
   "enablement": null,
   "exampleInteractions": [

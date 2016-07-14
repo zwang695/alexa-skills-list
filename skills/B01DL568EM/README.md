@@ -16,7 +16,7 @@ Have a whale of a time with this whale themed trivia skill!
 ### Skill Details
 
 * **Invocation Name:** whale trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7aa469fc-63f2-458e-a073-828c2ecbd0ca
 * **ASIN:** B01DL568EM
 * **Author:** DPT2

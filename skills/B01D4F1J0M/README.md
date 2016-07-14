@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="OurGroceries icon" width="36"> [OurGroceries](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6f432311-2f1d-4722-b692-2a9f75108e96)
-![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 21
+![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 22
 
 To use the OurGroceries skill, try saying...
 
@@ -18,7 +18,7 @@ Just install the app on your phone, enter your email address in the "List sharin
 ### Skill Details
 
 * **Invocation Name:** our groceries
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6f432311-2f1d-4722-b692-2a9f75108e96
 * **ASIN:** B01D4F1J0M
 * **Author:** HeadCode

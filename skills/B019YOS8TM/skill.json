@@ -4,7 +4,7 @@
   "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Social",
+  "category": null,
   "description": "Listen to the last 10 tweets of the most popular twitter accounts.\n\nPlease send feedback to alexa@agog.com.\n\nFor updates sign up for the email list at http://agog.com/email/AgogReader",
   "enablement": null,
   "exampleInteractions": [

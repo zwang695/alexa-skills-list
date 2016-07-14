@@ -16,7 +16,7 @@ These actual quotes from "the Donald" can provide very real life advice for anyo
 ### Skill Details
 
 * **Invocation Name:** trump thoughts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.aaf53f67-10f4-4cb1-b909-a88e33c90f7f
 * **ASIN:** B01DJQ1UXW
 * **Author:** xgess

@@ -16,7 +16,7 @@ Kids love playing The Name Game with Alexa. For example, just say “Alexa, open
 ### Skill Details
 
 * **Invocation Name:** the name game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b7d21a1d-3166-41de-9841-7f495960b6e9
 * **ASIN:** B017OBZR50
 * **Author:** Alex Rosen

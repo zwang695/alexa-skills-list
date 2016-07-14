@@ -16,7 +16,7 @@ Coffee Local is a guide to the 50 best coffee shops in America; regions are midw
 ### Skill Details
 
 * **Invocation Name:** coffee local
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.10a24379-1ad4-40dd-812b-71c55f19fafa
 * **ASIN:** B01FY6MQDI
 * **Author:** Robert Hellestrae

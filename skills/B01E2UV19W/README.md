@@ -20,7 +20,7 @@ You may also find that your interest in fencing grows. If your interest outgrows
 ### Skill Details
 
 * **Invocation Name:** fencing geek
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2833edb9-d551-4976-a550-87d9fde21dcf
 * **ASIN:** B01E2UV19W
 * **Author:** wiljopedia

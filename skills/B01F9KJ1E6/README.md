@@ -16,7 +16,7 @@ Sun Kiss may not be suitable for all ages. Sun Kiss gives facts about kissing.  
 ### Skill Details
 
 * **Invocation Name:** sun kiss
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0ee17b91-6fb1-4b1e-b2f7-ec0448a2af02
 * **ASIN:** B01F9KJ1E6
 * **Author:** Cheryl Troup

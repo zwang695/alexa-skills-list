@@ -12,7 +12,7 @@ Think of an animal and Alexa will play with you to guess it by asking questions.
 ### Skill Details
 
 * **Invocation Name:** animal game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3dcfc44d-faf0-4441-9a82-16911fd1fbb0
 * **ASIN:** B017OBYNZU
 * **Author:** Alex Rublinetsky

@@ -17,7 +17,7 @@ Current games supported are DOTA 2, League of Legends, StarCraft 2, Heroes of Ne
 ### Skill Details
 
 * **Invocation Name:** esports ticker
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.79ff594b-2115-4193-bd22-58cf38638605
 * **ASIN:** B01BCIXI1Q
 * **Author:** abiosgaming.com

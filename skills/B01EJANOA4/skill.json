@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Cat Fact will tell you over 100 interesting things about cats. This skill will give you a random cat fact when called. Now you can learn about cats for fun by simply asking, \"Ask Cat Fact for a fact.\"",
   "enablement": null,
   "exampleInteractions": [

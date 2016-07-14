@@ -14,7 +14,7 @@ Explore important events and famous birthdays that happened today in history. Ga
 ### Skill Details
 
 * **Invocation Name:** livy
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9f97412f-e15e-482c-9f6b-deb735a89e92
 * **ASIN:** B01EWECCWS
 * **Author:** Cuttarug

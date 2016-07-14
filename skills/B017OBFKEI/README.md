@@ -20,7 +20,7 @@ For extended help and examples of using this skill, please visit http://gobbyapp
 ### Skill Details
 
 * **Invocation Name:** bart times
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.af852511-50bf-447f-a692-36a4b6314ab2
 * **ASIN:** B017OBFKEI
 * **Author:** Gobby Apps

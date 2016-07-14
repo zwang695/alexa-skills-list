@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Meteor Shower responds with any visible meteor showers for the night.",
   "enablement": null,
   "exampleInteractions": [

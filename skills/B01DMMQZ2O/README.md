@@ -24,7 +24,7 @@ Icon by Ben at https://openclipart.org/detail/192626/brain
 ### Skill Details
 
 * **Invocation Name:** my memory
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.356924ce-dfd4-4e82-b1fd-8ec41b3b356f
 * **ASIN:** B01DMMQZ2O
 * **Author:** Mutant Soup Software

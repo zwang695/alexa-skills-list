@@ -18,7 +18,7 @@ This skill is not created by, affiliated with, or supported by Slack Technologie
 ### Skill Details
 
 * **Invocation Name:** chat bot
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4afd4127-c43a-4729-9dd4-1a159cfffe92
 * **ASIN:** B01FEVJDFM
 * **Author:** PromptWorks

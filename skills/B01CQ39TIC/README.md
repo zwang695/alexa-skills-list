@@ -18,7 +18,7 @@ To control any Toon Goggles remote enabled application, start by creating a free
 ### Skill Details
 
 * **Invocation Name:** toon goggles
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dc9d4510-7d6c-476d-9e5e-651fdb3c8964
 * **ASIN:** B01CQ39TIC
 * **Author:** Toon Goggles, Inc.

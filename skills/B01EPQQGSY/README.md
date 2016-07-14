@@ -16,7 +16,7 @@ Want to learn more about the 2016 candidates in a fun and interactive way before
 ### Skill Details
 
 * **Invocation Name:** presidential trivia
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a64d90c0-64b2-4952-9a08-9ce3d930e409
 * **ASIN:** B01EPQQGSY
 * **Author:** KWG

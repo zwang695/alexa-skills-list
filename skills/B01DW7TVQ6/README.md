@@ -20,7 +20,7 @@ To get started, say "Alexa, ask InControl to link my account." You'll be given a
 ### Skill Details
 
 * **Invocation Name:** in control
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.84e55b57-2c47-438d-a4de-9b0a033f7164
 * **ASIN:** B01DW7TVQ6
 * **Author:** InControl Home Automation

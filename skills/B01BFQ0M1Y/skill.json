@@ -4,7 +4,7 @@
   "averageRating": 4.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Trainer Tips gives Alexa knowledge of 18 battle types and their strengths and weaknesses. Trying to decide who to bring out in a battle? Ask the Trainer Tips skill to refresh your memory on what's weak against Fire, or what's strong against Rock (surprisingly, a lot.) \n\nYou can also ask for a random Trainer Tip - to submit ideas, Tweet with the hashtag #TrainerTipsAlexa.",
   "enablement": null,
   "exampleInteractions": [

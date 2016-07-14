@@ -12,7 +12,7 @@ This is a basic app that will give you some facts about DeVito and what he does 
 ### Skill Details
 
 * **Invocation Name:** devito
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.11652741-2b85-4d51-abda-74089263d389
 * **ASIN:** B01DKRR77I
 * **Author:** Pascal Bruno

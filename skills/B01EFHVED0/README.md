@@ -18,7 +18,7 @@ Good luck!
 ### Skill Details
 
 * **Invocation Name:** game show
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.af79ae2f-1bd5-433b-ab6c-0f048d9c9fcc
 * **ASIN:** B01EFHVED0
 * **Author:** Major Version

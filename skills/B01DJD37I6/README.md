@@ -22,7 +22,7 @@ SUPPORT: Please send us an email at support@easilydo.com if you have any questio
 ### Skill Details
 
 * **Invocation Name:** package tracker
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a5c49634-df77-4df8-ab77-140b015aef7d
 * **ASIN:** B01DJD37I6
 * **Author:** EasilyDo

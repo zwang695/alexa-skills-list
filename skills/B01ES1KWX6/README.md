@@ -16,7 +16,7 @@ This skill allows you to lookup spells from Dungeons and Dragons and have Alexa 
 ### Skill Details
 
 * **Invocation Name:** spell book
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.36e6deff-7ed7-40c3-9709-8ce978e57533
 * **ASIN:** B01ES1KWX6
 * **Author:** Nick McMahon

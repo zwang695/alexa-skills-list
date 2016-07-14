@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "We heard you!  Ask Fidelity will now get you a market update along with quote information by symbol or company name. There is no account required to use this service. To get started, say 'Ask Fidelity'",
   "enablement": null,
   "exampleInteractions": [

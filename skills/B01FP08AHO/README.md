@@ -16,7 +16,7 @@ Provides key trivia about past and present US Presidents by name or number.
 ### Skill Details
 
 * **Invocation Name:** u. s. presidents
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5a6a551a-550e-4a27-806e-f67e90b1c243
 * **ASIN:** B01FP08AHO
 * **Author:** lepus magnum

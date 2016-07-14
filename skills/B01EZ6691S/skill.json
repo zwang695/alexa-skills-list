@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Have Alexa read you the Austin ISD elementary school lunch menu for today, tomorrow or any other upcoming date. Just say, \"Alexa open school lunch\" to get today's menu (or, if it's after noon, the next school day's menu). You can also ask for any other day within the upcoming month or so (depending upon menu availability), by saying, \"Alexa ask school lunch for Monday\" or \"Alexa ask school lunch for May 17th\", for example.",
   "enablement": null,
   "exampleInteractions": [

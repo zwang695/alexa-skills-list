@@ -22,7 +22,7 @@ DISCLAIMER: You must be over 21 years old to use this skill.
 ### Skill Details
 
 * **Invocation Name:** wine expert
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.67179793-b3b8-4257-9eba-6e72e0807e2d
 * **ASIN:** B01GOHJMDI
 * **Author:** lavigilanta.info

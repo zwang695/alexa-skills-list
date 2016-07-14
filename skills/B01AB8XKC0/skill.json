@@ -4,7 +4,7 @@
   "averageRating": 3.1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "When launched this skill will greet you as The Dude. From there you can begin one of the pre-programmed conversations from the movie with Alexa playing the part of The Dude or simply have Alexa recite some of The Dudes quotes from the movie.\n\n**This skill may not be suitable for all ages**",
   "enablement": null,
   "exampleInteractions": [

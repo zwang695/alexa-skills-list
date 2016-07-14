@@ -16,7 +16,7 @@ Use Alexa to give you quick access to synonyms when you need them. Grow your voc
 ### Skill Details
 
 * **Invocation Name:** synonym finder
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.21945954-2a91-4f28-8090-60df94f62be4
 * **ASIN:** B01EDTE3G0
 * **Author:** BLT Robotics

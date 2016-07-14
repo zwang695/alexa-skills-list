@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This skill will help people learn some fun new facts about Japan. Just say \"Alexa Launch Japan Trivia\", \"Alexa Start Japan Trivia\" or \"Play Japan Trivia\" to start and you will be asked 5 questions and give an answer based on the number they think is the correct answer.",
   "enablement": null,
   "exampleInteractions": [

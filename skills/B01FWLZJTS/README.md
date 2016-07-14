@@ -18,7 +18,7 @@ Skill developed from the reindeer games template provided by amazon.
 ### Skill Details
 
 * **Invocation Name:** tyler's t. v. trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ea8434d2-121e-40b4-9023-e2932814bbf9
 * **ASIN:** B01FWLZJTS
 * **Author:** Tyler Schmidt

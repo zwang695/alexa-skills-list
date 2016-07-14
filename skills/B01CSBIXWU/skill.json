@@ -4,7 +4,7 @@
   "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Get a round of applause in any situation with the Alexa Applause Skill. Ask for an applause and have a whole crowd of people cheering for you!",
   "enablement": null,
   "exampleInteractions": [

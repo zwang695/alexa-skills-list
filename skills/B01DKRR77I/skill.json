@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "This is a basic app that will give you some facts about DeVito and what he does at IPRO.  Experimental app which will evolve to allow Alexa to get information from IPRO's Pellucid database. Alexa will be able to tell you, for example, which hospital has the highest Sepsis mortality rate.",
   "enablement": null,
   "exampleInteractions": [

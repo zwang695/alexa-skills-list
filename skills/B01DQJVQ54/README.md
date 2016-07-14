@@ -19,7 +19,7 @@ How many islands do you think there are in Indonesia?
 ### Skill Details
 
 * **Invocation Name:** indonesian facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.687cd562-f85c-4123-8283-10f0a2a28df2
 * **ASIN:** B01DQJVQ54
 * **Author:** Kelvien

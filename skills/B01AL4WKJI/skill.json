@@ -4,7 +4,7 @@
   "averageRating": 1.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "Baseball Archive provides information and statistics for any of the 18000+ players in Major League Baseball History. Just ask about any player for a quick summary, or ask for a specific statistic for a player. Currently, Baseball Archive supports asking for a batter's career hits, home runs, and a pitcher's career wins, losses and strike outs. The Baseball Archive will add support for many more stats in subsequent versions.",
   "enablement": null,
   "exampleInteractions": [

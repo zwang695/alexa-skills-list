@@ -18,7 +18,7 @@ Note that this skill may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** drinky wiki
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4310d2aa-7525-405c-ac87-82c64e5d9985
 * **ASIN:** B01GDFDXOA
 * **Author:** ringthis.com

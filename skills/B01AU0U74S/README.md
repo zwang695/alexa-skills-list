@@ -30,7 +30,7 @@ To use the TDV (Teen Dating Violence) Quiz skill, try saying...
 ### Skill Details
 
 * **Invocation Name:** teen dating violence
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e689c20a-b058-4c2e-9d78-3fe91956fd38
 * **ASIN:** B01AU0U74S
 * **Author:** Jennifer Ann's Group

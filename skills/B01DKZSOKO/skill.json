@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "This skill lets you ask Alexa what ranger events are happening in any of the national parks covered by Chimani on a given date in the future.",
   "enablement": null,
   "exampleInteractions": [

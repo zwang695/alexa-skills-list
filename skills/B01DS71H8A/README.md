@@ -20,7 +20,7 @@ Or watch the rap music video here: https://www.youtube.com/watch?v=0k-QFXkGzVA
 ### Skill Details
 
 * **Invocation Name:** hunter pence facts
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0f21e587-42bd-4875-a6c3-ab69b38824d2
 * **ASIN:** B01DS71H8A
 * **Author:** Nicole Holm

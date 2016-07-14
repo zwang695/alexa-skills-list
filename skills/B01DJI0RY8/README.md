@@ -16,7 +16,7 @@ Are you interested in hearing a fun fact about beer? Ask beer geek to tell you a
 ### Skill Details
 
 * **Invocation Name:** beer geek
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f972372b-8525-450a-908b-6505cc391468
 * **ASIN:** B01DJI0RY8
 * **Author:** Allen Kramer

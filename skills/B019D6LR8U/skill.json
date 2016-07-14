@@ -4,7 +4,7 @@
   "averageRating": 3.4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "This skill will give Alexa access to over 12,000 cocktail recipes. When you ask her what's in a cocktail, she will give you the ingredients, the amounts, and the instructions for mixing the ingredients together. If you're feeling adventurous, you can also ask Alexa to surprise you for a random drink recipe.\n\nNOTICE:\nThis skill may not be suitable for all ages. This skill provides instructions for how to make alcoholic drinks, in addition, some drink recipes returned by Alexa may include offensive content.",
   "enablement": null,
   "exampleInteractions": [

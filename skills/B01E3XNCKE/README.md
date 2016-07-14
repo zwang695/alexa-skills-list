@@ -16,7 +16,7 @@ Acoustic Chord hosts a library of the most common guitar chords. Simply ask it t
 ### Skill Details
 
 * **Invocation Name:** acoustic chord
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b3b1653a-481c-4092-98a2-3dec18d7539a
 * **ASIN:** B01E3XNCKE
 * **Author:** TsaTsaTzu

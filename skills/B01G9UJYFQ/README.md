@@ -16,7 +16,7 @@ This skill recites a random memory verse using the NIV translation. Just ask Ale
 ### Skill Details
 
 * **Invocation Name:** bible verse
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ee4a68fc-b428-49a7-ae16-7e95280bc1a6
 * **ASIN:** B01G9UJYFQ
 * **Author:** kg2s

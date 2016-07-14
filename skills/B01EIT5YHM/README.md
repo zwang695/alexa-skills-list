@@ -18,7 +18,7 @@ We compare and rank all local service professionals based on reviews, call analy
 ### Skill Details
 
 * **Invocation Name:** talk local
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f3413a23-9bcd-466b-b6d2-7c95371fc66b
 * **ASIN:** B01EIT5YHM
 * **Author:** Talk Local

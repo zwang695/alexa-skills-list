@@ -18,7 +18,7 @@ In future, this skill also shows rates provided by various remittance service pr
 ### Skill Details
 
 * **Invocation Name:** currency monitor
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.281626aa-aa66-45c7-96e2-f6694d66ede3
 * **ASIN:** B01DRLPHQK
 * **Author:** Ganesh

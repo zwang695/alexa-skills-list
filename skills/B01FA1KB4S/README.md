@@ -18,7 +18,7 @@ Note: This game is not developed or sponsored by Disney.
 ### Skill Details
 
 * **Invocation Name:** trivia for disney
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1343f768-68d2-486b-acd8-075e46c366a0
 * **ASIN:** B01FA1KB4S
 * **Author:** Shivansh Singh

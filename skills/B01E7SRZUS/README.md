@@ -18,7 +18,7 @@ No account necessary. Works on all Alexa-enabled devices.
 ### Skill Details
 
 * **Invocation Name:** coin flip
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8e9dae6e-4902-4503-ac32-2c148cce631d
 * **ASIN:** B01E7SRZUS
 * **Author:** Pomp Productions LLC

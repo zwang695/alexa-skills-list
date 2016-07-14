@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "A moderately difficult 10 question Steely Dan trivia quiz for fans - questions are randomly selected from a library of 50.",
   "enablement": null,
   "exampleInteractions": [

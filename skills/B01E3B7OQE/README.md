@@ -18,7 +18,7 @@ This skill may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** l. g. b. t. trivia
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3d2dafe7-4bd0-4525-bfb6-1ee8544155b3
 * **ASIN:** B01E3B7OQE
 * **Author:** Wolf Dog

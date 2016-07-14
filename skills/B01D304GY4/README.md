@@ -16,7 +16,7 @@ To use the Lizard Spock skill, try saying...
 ### Skill Details
 
 * **Invocation Name:** lizard spock
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4d9cbb9e-e428-478b-8f31-111a8fda0464
 * **ASIN:** B01D304GY4
 * **Author:** Mobiquity Inc.

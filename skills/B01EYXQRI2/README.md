@@ -16,7 +16,7 @@ Baseball Facts provides you with baseball trivial. Most facts are interesting ma
 ### Skill Details
 
 * **Invocation Name:** baseball nerd
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.93484467-1ce2-4ea4-8b8c-f552ef49239b
 * **ASIN:** B01EYXQRI2
 * **Author:** CodeBurners

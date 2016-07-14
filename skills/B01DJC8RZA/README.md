@@ -16,7 +16,7 @@ Amaze your friends! Astound your family! Annoy your pets with Jack's Trivia! Sha
 ### Skill Details
 
 * **Invocation Name:** jack's trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4e7d74b1-5808-4f00-9c36-61f2c484943f
 * **ASIN:** B01DJC8RZA
 * **Author:** CentralScience

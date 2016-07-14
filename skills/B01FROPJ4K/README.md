@@ -18,7 +18,7 @@ Using audio prompts, Audio Chef can guide you through a recipe while your hands 
 ### Skill Details
 
 * **Invocation Name:** audio chef
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a612aa54-429e-40f4-8df8-06b2a2105c70
 * **ASIN:** B01FROPJ4K
 * **Author:** Emerson

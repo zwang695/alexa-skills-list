@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Piano Virtuoso\n\nGet fun facts about all things Piano!  This skill is loaded with many surprising facts about the King of Musical Instruments!\n\nUsage guide\n==========\n\nJust say: 'Alexa, ask piano facts for a fun fact', or simply: 'Alexa, ask piano facts', or even,' Alexa, open piano facts' and the Amazon Echo will respond with a fun fact related to the piano.  Each time a fact is recited, it will also be printed on the Alexa companion app.\n\nIf you need help with the skill, say: Alexa open piano facts and help, and she will give examples on how to ask for a piano fact.\n\nPlease enjoy!",
   "enablement": null,
   "exampleInteractions": [

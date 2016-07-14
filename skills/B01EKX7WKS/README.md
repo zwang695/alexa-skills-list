@@ -29,7 +29,7 @@ Please visit us at www.aromatherapyskill.com and let us know what  recipes you w
 ### Skill Details
 
 * **Invocation Name:** aromatherapy
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c2984701-7096-4325-b3d0-0a6dcfc4f220
 * **ASIN:** B01EKX7WKS
 * **Author:** Unity App Design

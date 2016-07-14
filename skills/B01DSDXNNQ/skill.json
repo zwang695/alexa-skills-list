@@ -4,7 +4,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Can't remember who the person behind the mask is? The Superheroes skill will reveal all!",
   "enablement": null,
   "exampleInteractions": [

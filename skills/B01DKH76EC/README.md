@@ -16,7 +16,7 @@ This Skill will guide you through a Pilates sequence of exercises. If you are fa
 ### Skill Details
 
 * **Invocation Name:** pilates class
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ef7b5d42-f176-4806-9ea3-6ef6d041c2aa
 * **ASIN:** B01DKH76EC
 * **Author:** A Lot Of Pilates

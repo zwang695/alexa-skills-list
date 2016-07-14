@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Interesting Space Facts is a skill that tells you a random interesting space fact. \n\nTo use this skill, enable it. Then you can ask the following:\n\nAlexa, start Interesting Space Facts.\nAlexa, open Interesting Space Facts.",
   "enablement": null,
   "exampleInteractions": [

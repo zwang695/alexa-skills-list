@@ -26,7 +26,7 @@ Try to get all five answers right!
 ### Skill Details
 
 * **Invocation Name:** air force trivia
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f8786539-a406-406d-ad9f-5fcaab068138
 * **ASIN:** B01BKTYYVK
 * **Author:** Johnny Foxx

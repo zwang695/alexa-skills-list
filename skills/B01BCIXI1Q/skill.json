@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "EsportsTicker in an app in which you can get live, current, and upcoming matches results for esports games.\nCurrent games supported are DOTA 2, League of Legends, StarCraft 2, Heroes of Newerth, Counter Strike, Hearthstone, World of Warcraft, SMITE, Heroes of the Storm, Super Smash Bros, Call of Duty",
   "enablement": null,
   "exampleInteractions": [

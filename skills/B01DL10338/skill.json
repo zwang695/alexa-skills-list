@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "This skill reads you a noteworthy quote and its author.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Edgar facts will teach you about Edgar the dog, even if you can't interact with 
 ### Skill Details
 
 * **Invocation Name:** me an edgar fact
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0e44f846-df40-425c-807a-8957e3c5f089
 * **ASIN:** B017OB648E
 * **Author:** apechimp

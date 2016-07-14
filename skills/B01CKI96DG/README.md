@@ -22,7 +22,7 @@ If you fail to respond in time, that's ok. Just re-open Relationary and it picks
 ### Skill Details
 
 * **Invocation Name:** relationary
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3d130aa0-c3d9-4d03-aa35-05c9730af87b
 * **ASIN:** B01CKI96DG
 * **Author:** Mark Einhorn

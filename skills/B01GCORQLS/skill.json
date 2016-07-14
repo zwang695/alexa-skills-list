@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "Alexa will recite The Lord's Prayer when prompted",
   "enablement": null,
   "exampleInteractions": [

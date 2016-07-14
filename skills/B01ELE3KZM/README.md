@@ -16,7 +16,7 @@ Whether you're a hipster or you've never heard the word hipster before, if you l
 ### Skill Details
 
 * **Invocation Name:** hipster jokes
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c3ec6c23-b9d7-4190-b7d0-d58cf372366b
 * **ASIN:** B01ELE3KZM
 * **Author:** BR Dynamics

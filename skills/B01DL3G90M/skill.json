@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "This is a trivia game that will ask 5 random fact questions in a multiple choice format.  Answer in order of when you hear each answer (1 - 4).  This skill may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [

@@ -69,7 +69,7 @@ Alexa, ask Chef Basil how long will the recipe take
 ### Skill Details
 
 * **Invocation Name:** chef basil
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2f945ecc-1e08-4df9-a33e-f309e2991aaa
 * **ASIN:** B01FPZD966
 * **Author:** Chef Prep

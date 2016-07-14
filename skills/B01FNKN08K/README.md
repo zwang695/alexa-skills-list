@@ -16,7 +16,7 @@ The Course Catalog for Miami Dade College skill will allow the user to ask Alexa
 ### Skill Details
 
 * **Invocation Name:** my course catalog
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dd04e3cf-997a-468c-9381-879269da2653
 * **ASIN:** B01FNKN08K
 * **Author:** Orange Research

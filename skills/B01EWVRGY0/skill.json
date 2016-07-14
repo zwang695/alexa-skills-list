@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Need to check quickly the number of letters in a word? Or working on a puzzle that involves word length? This app is a simple tool to quickly get the letter count of any word.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Buddha, was a sage on whose teachings Buddhism was founded. He is believed to ha
 ### Skill Details
 
 * **Invocation Name:** buddha says
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a155866b-810d-465f-9d0f-5f00dd3ce660
 * **ASIN:** B01DJHGK7W
 * **Author:** srikar

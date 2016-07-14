@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Ask Alexa for a bucket list item and it will be up to get it done. Over 800 ideas on how you can get you bucket empty (or full).",
   "enablement": null,
   "exampleInteractions": [

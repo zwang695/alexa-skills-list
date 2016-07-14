@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This skill gives you a quote by Steve Jobs.  This skill is a tribute to Steve Jobs. It is not sponsored by or affiliated with Steve Jobs or Apple Inc.",
   "enablement": null,
   "exampleInteractions": [

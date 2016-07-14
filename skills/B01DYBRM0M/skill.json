@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Billy the Random Number Goat will provide you with a random number. If you ask Billy Goat for a random number or ask \"What is my random number?\", Billy Goat will return a random number between one and one hundred. You can also ask Billy Goat for a random number between a specific range. Simply ask Billy Goat to give you a number between one and ten or five and thirty. It's that simple!",
   "enablement": null,
   "exampleInteractions": [

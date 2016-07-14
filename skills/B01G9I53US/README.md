@@ -20,7 +20,7 @@ There are no prerequisites with this voice skill and its fun and easy to use!
 ### Skill Details
 
 * **Invocation Name:** slater bug
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9d207d07-866c-4165-b270-865e6bc1c540
 * **ASIN:** B01G9I53US
 * **Author:** KillaSkillz

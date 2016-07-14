@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Ask Alexa how to perform a dance move, and Alexa will help users bust out moves.",
   "enablement": null,
   "exampleInteractions": [

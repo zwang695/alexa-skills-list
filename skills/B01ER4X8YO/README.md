@@ -18,7 +18,7 @@ Just set up a list of participants via the Alexa app (e.g. "Mom", "Dad", "Little
 ### Skill Details
 
 * **Invocation Name:** tickle monster
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.aeb4b01c-43e1-4d3b-a10d-dd49e7a5875d
 * **ASIN:** B01ER4X8YO
 * **Author:** Colin McGraw

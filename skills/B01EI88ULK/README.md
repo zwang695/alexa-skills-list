@@ -16,7 +16,7 @@ Looking for a manly quote to inspire and motivate? Ask Manly Quotes!
 ### Skill Details
 
 * **Invocation Name:** manly quotes
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2a2c9663-a89b-4ffa-8754-e74c2f8ca332
 * **ASIN:** B01EI88ULK
 * **Author:** Screen Four

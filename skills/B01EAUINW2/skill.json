@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "The process for United States Citizenship includes answering 10 questions about US history, politics, and geography. These are pulled from a list of 100 possible questions.\n\nThis Alexa Skill chooses five random questions from the 100. Listen to the question, then the three options. Say the number of the answer you think is correct.\n\nThe actual civics test is NOT a multiple choice test. You can find the list of questions and acceptable answers at this government site: https://www.uscis.gov/citizenship/learners/study-test\n\nThis app is for fun only; the author takes no responsibility for mistakes or omissions. Refer to the official website for the questions and answers.\n\nYou can find other resources for studying here: https://www.uscis.gov/citizenship/learners/study-test/study-materials-civics-test.",
   "enablement": null,
   "exampleInteractions": [

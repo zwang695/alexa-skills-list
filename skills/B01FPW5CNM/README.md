@@ -16,7 +16,7 @@ Sometimes they confused us and often they made us uncomfortable,  but everyone a
 ### Skill Details
 
 * **Invocation Name:** tonight's special episode
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1366e140-7b1e-400b-b08c-6c8c01dec826
 * **ASIN:** B01FPW5CNM
 * **Author:** Wolf Dog

@@ -16,7 +16,7 @@ This skill is an acoustical metronome that plays a regular drumbeat. You can use
 ### Skill Details
 
 * **Invocation Name:** metronome
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0d1f536e-568b-40f1-ab73-718bbbafc58f
 * **ASIN:** B01B6UGXXK
 * **Author:** TsaTsaTzu

@@ -16,7 +16,7 @@ Tells you if Lake Travis is full yet.
 ### Skill Details
 
 * **Invocation Name:** lake travis
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1f8a0486-62b3-4388-af9f-917ef663196c
 * **ASIN:** B01DDBB1HS
 * **Author:** TOMCorp

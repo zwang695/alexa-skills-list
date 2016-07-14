@@ -16,7 +16,7 @@ Use Meal Idea to hear meal ideas that use basic, every day ingredients that you 
 ### Skill Details
 
 * **Invocation Name:** meal idea
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.42fd3d15-9c6b-4d80-98ae-6622ab5481f9
 * **ASIN:** B01E1ZSQ5U
 * **Author:** Tocar Media

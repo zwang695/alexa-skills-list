@@ -16,7 +16,7 @@ How much do you know about Connecticut? This game ask trivia questions about Con
 ### Skill Details
 
 * **Invocation Name:** connecticut trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.88806385-6338-419b-b3db-fb1b563416a5
 * **ASIN:** B01EQDJZOI
 * **Author:** Charlisa

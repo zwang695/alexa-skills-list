@@ -16,7 +16,7 @@ Debby Onsite is an assistant to Alexa to help remember where you might have left
 ### Skill Details
 
 * **Invocation Name:** debby onsite
-* **Category:** Connected-Home
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c2abc186-90f1-4b5d-ad6f-534fd01eb940
 * **ASIN:** B01G4ABITQ
 * **Author:** PTmobile

@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Tell Alexa to ask Three Eyed Raven about the words of a House in the Seven Kingdoms. If the information is known, it will be conveyed to you.",
   "enablement": null,
   "exampleInteractions": [

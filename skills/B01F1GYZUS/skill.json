@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Memorize the color order,\nGame developed during Amazon Robotics Hackathon by:\nMiguel Targa\nJochen Emig\nTony Pu",
   "enablement": null,
   "exampleInteractions": [

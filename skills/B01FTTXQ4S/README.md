@@ -16,7 +16,7 @@ This skill was built for Kirkland Middle School for the STEM event. If you want 
 ### Skill Details
 
 * **Invocation Name:** stem night
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.17eeebf2-d0fc-4a2e-accb-ffb6647a2403
 * **ASIN:** B01FTTXQ4S
 * **Author:** Unity App Design

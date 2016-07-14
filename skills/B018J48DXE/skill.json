@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Get information about the upcoming long weekend. Useful for planning ahead your vacation around long weekends.",
   "enablement": null,
   "exampleInteractions": [

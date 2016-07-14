@@ -10,7 +10,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Enjoy Toon Goggles like never before.  Control thousands of videos and millions of songs with easy to use voice commands.  Open a show by name, play a video by name, listen to a radio station by command, or control playback with commands like pause, play, resume,  stop, like, next, previous, and jump.\n\nTo control any Toon Goggles remote enabled application, start by creating a free Toon Goggles account in the Toon Goggles app of your choice.  Next, turn on \"Enable Remote Control by Other Devices on Your Account\" in the parents section of the Toon Goggles app you wish to control by voice.  Then link that account to your Echo using the Alexa app.  The most recent device on your account to open that has remote control enabled will be controlled by the Amazon Echo.",
   "enablement": null,
   "exampleInteractions": [

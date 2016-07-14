@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Movie Score provides Tomatometer, Metascore, and IMDB ratings for current movies and DVDs.\n\nTomatometer (http://www.rottentomatoes.com) - Represents the percentage (from 0 to 100) of professional critic reviews that are positive for a given movie/video.  To receive an overall rating of Fresh, the movie must have at least 60% or higher positive reviews.  To receive a Certified Fresh rating, a movie must have a steady Tomatometer rating of 75% or higher after a set amount of reviews (80 for wide-release movies, 40 for limited-release movies).\n\nMetascore (http://www.metacritic.com) - A weighted average of reviews from top critics and publications for a given movie.  Metascores range from 0 to 100.  A Metascore between 61 - 80 means a movie has generally favorable reviews, while 81 and higher means universal acclaim.\n\nIMDB rating (http://www.imdb.com) - A weighted average of votes by IMDB users.  A movie must have at last 5 votes before receiving a rating, which ranges from 0 to 10.",
   "enablement": null,
   "exampleInteractions": [

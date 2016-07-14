@@ -16,7 +16,7 @@ A quick and easy way to hear some of the corniest jokes in existence.
 ### Skill Details
 
 * **Invocation Name:** hey dad
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.440526a5-4703-4886-87eb-d09a6e9eaf13
 * **ASIN:** B01BUB8OSM
 * **Author:** WBPhoto

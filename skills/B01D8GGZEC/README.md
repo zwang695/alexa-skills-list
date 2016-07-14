@@ -30,7 +30,7 @@ Currently supports:
 ### Skill Details
 
 * **Invocation Name:** bargain buddy
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e2564867-9211-4137-83ea-7fa5623c2e75
 * **ASIN:** B01D8GGZEC
 * **Author:** Nick Schwab

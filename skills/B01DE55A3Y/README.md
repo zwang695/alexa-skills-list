@@ -16,7 +16,7 @@ Test your knowledge of the US National Parks. Answer questions about  the locati
 ### Skill Details
 
 * **Invocation Name:** national parks game
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0d1811fe-2e57-4dc8-a500-144af30b19d6
 * **ASIN:** B01DE55A3Y
 * **Author:** Ron Lisle

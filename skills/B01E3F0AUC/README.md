@@ -20,7 +20,7 @@ The skill provides general guidelines and is intended for informational and educ
 ### Skill Details
 
 * **Invocation Name:** kids m. d.
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3f5f7bd8-5b9d-40e7-8463-eef44329e29d
 * **ASIN:** B01E3F0AUC
 * **Author:** Boston Children's Hospital

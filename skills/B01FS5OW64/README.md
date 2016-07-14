@@ -16,7 +16,7 @@ Find out the current security wait times at US airports. Ask Alexa for your airp
 ### Skill Details
 
 * **Invocation Name:** airport security
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ca0341cd-ab3d-44d1-aed8-164217e05ec3
 * **ASIN:** B01FS5OW64
 * **Author:** Vivek B

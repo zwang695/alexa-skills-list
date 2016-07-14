@@ -16,7 +16,7 @@ Would you rather eat a hundred chillies or never eat again? Who is faster, a wor
 ### Skill Details
 
 * **Invocation Name:** would you rather
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f0936c2c-cf40-478c-966b-e4b4c2bbbc33
 * **ASIN:** B01F21E4M6
 * **Author:** MillieSoft

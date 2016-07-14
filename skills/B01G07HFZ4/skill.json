@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Arizona Facts contains facts about the State of Arizona. Some facts are well know while others may be completely new to you!\nget a new fact by saying \"Alexa, ask Dry Heat for an Arizona Fact.\"",
   "enablement": null,
   "exampleInteractions": [

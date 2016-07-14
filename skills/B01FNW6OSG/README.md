@@ -16,7 +16,7 @@ This trivia game asks the user questions regarding the game of basketball. It al
 ### Skill Details
 
 * **Invocation Name:** basketball trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3ee7e5d3-9dc5-4f1c-9714-283167f133ae
 * **ASIN:** B01FNW6OSG
 * **Author:** Tia Briggs

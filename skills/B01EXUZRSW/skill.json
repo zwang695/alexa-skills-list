@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Get information about the next train between your departure and arrival  stations instantly! Ask Alexa to simply tell you when the next train to your destination is, more details about the trip, or the fare between stations\n\nNo additional accounts are required to use this app.",
   "enablement": null,
   "exampleInteractions": [

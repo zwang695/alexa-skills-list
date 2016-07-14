@@ -20,7 +20,7 @@ Pronto uses Twilio programmable voice API's to make the phone calls. Pronto's ph
 ### Skill Details
 
 * **Invocation Name:** pronto
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.04654d8f-d6cb-44d4-a3fe-c53732eac1b2
 * **ASIN:** B01EWGOT6S
 * **Author:** Praveena

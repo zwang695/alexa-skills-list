@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "A trivia game based on television. \nNo additional hardware, softwear, or accounts needed.\nSkill developed from the reindeer games template provided by amazon.",
   "enablement": null,
   "exampleInteractions": [

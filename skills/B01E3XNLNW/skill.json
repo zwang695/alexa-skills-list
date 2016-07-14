@@ -4,7 +4,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "If you play a musical instrument (or sing) it is important to keep in pitch. This skill will play a pitch perfect tone (to the concert A440 standard) for you to tune against your instrument. It can play from the first to the tenth octave. To hold a tone longer, ask it to \"repeat\". Or you can say another tone to play. If you want to cut it off, say \"Alexa stop\".",
   "enablement": null,
   "exampleInteractions": [

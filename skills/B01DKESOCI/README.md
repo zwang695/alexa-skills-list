@@ -18,7 +18,7 @@ You can also ask alexa, "Ask pokey finder to find some pokemon”
 ### Skill Details
 
 * **Invocation Name:** pokey finder
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.71d22c4e-1c6d-41ef-9987-d7a5e06d351f
 * **ASIN:** B01DKESOCI
 * **Author:** AVR APPS

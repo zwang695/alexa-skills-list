@@ -16,7 +16,7 @@ This skill randomly chooses questions from the 100 possible questions posed by t
 ### Skill Details
 
 * **Invocation Name:** civics exam
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.27796149-42b4-427d-8e02-040dfb10917d
 * **ASIN:** B01EKXBDH6
 * **Author:** Qapable Corp

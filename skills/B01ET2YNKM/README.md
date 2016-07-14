@@ -20,7 +20,7 @@ Put your knowledge to the test and see if you can call yourself a true anime fan
 ### Skill Details
 
 * **Invocation Name:** anime trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.43c9e3c3-a248-49bb-8eed-24b973fcc79e
 * **ASIN:** B01ET2YNKM
 * **Author:** Dickson Tse

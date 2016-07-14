@@ -4,7 +4,7 @@
   "averageRating": 1.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "You can get Alexa to pronounce a word given its spelling. Works for all English words but even if the given spelling is not a known English word, Alexa would try it pronounce it anyways.\nIt helps to enunciate the letters clearly (for example, it is easy for Alexa to read an 'H' as an 'edge'). In case, Alexa is not able to understand what you said, she will write what she heard in the companion app.",
   "enablement": null,
   "exampleInteractions": [

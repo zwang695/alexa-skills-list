@@ -16,7 +16,7 @@ Bored? Of course you are! You can only refresh your social media accounts page s
 ### Skill Details
 
 * **Invocation Name:** mind gap
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.be0df69e-ec84-4025-a0cf-6c0af32444c4
 * **ASIN:** B01G7WVZCQ
 * **Author:** ver2point0

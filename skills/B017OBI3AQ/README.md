@@ -16,7 +16,7 @@ Garageio is the simple and secure way to control and monitor your garage door fr
 ### Skill Details
 
 * **Invocation Name:** garageio
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.de7ac478-8b20-40db-83fe-ea16a7755c1c
 * **ASIN:** B017OBI3AQ
 * **Author:** Alottazs Labs, LLC

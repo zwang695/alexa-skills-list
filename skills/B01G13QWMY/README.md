@@ -22,7 +22,7 @@ Last but certainly not least, everybody loves a good old fashioned Shakespearean
 ### Skill Details
 
 * **Invocation Name:** shakespeare geek
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9b55145d-9643-4a44-9e99-c7069ed5eaf1
 * **ASIN:** B01G13QWMY
 * **Author:** Duane Morin

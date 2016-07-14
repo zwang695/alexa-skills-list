@@ -20,7 +20,7 @@ This skill is fun to play alone, or compete with your family and friends to see 
 ### Skill Details
 
 * **Invocation Name:** michigan football trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.930650cc-2fe8-4b38-a536-7a5d09832fe2
 * **ASIN:** B019P7NNGG
 * **Author:** Matt Case

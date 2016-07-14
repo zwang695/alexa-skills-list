@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Caséta Wireless icon" width="36"> [Caséta Wireless](http://alexa.amazon.com/#skills/amzn1.ask.skill.9580dbe1-649a-4d30-bff6-9e790c26d4fe)
-![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 11
+![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 12
 
 To use the Caséta Wireless skill, try saying...
 
@@ -17,7 +17,7 @@ To add smart lighting control to your home, you’ll need a Smart Bridge and at 
 * **Category:** null
 * **ID:** amzn1.ask.skill.9580dbe1-649a-4d30-bff6-9e790c26d4fe
 * **ASIN:** B01EIQVFFA
-* **Author:** Lutron Electronics, Co.
+* **Author:** Lutron Electronics Co., Inc.
 * **Release Date:** April 19, 2016 @ 17:42:43
 * **Privacy Policy:** http://www.lutron.com/en-US/Pages/PrivacyPolicy.aspx
 * **Terms of Use:** http://www.casetawireless.com/Pages/legal.aspx

@@ -4,7 +4,7 @@
   "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Give your device a sassy persona that can talk back and refuse commands.  You can ask sassy persona for the time, the weather, or a joke.  You can also tell sassy persona to do your chores.  Asking multiple times may give different responses.\n\nIf you tell Alexa's sassy persona to stick around, it will respond to several questions or commands.  You can also cancel, or tell Alexa to stop being sassy.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "Kick this skill off every day to keep up to date with the latest news. You will be read each headline and asked if you want to hear the whole article. Say yes for the article, or no to go to the next one. Saying \"start over\" will reset the feed to the top.",
   "enablement": null,
   "exampleInteractions": [

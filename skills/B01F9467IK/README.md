@@ -30,7 +30,7 @@ Here are some examples of how to track your foods:
 ### Skill Details
 
 * **Invocation Name:** food tracker
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f7d92ae4-7514-475f-ba04-f58b2835e7f1
 * **ASIN:** B01F9467IK
 * **Author:** Nutritionix

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "This skill will provide you information from foodsafety.gov regarding the minimal internal temperature to cook and consume your food safely.\n\nIt will ask you for a type of meat, then provide you with the temperature in Fahrenheit.",
   "enablement": null,
   "exampleInteractions": [

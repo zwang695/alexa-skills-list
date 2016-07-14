@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This skill helps to find movie rating. It is straight forward to use this skill with Alexa. You can get movie rating by telling movie name to this skill.",
   "enablement": null,
   "exampleInteractions": [

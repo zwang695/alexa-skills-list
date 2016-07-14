@@ -16,7 +16,7 @@ Skill is able to control custom application to facilitate order display. Skill n
 ### Skill Details
 
 * **Invocation Name:** order display
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d7b4a564-d54c-4e33-ace7-d5e82f11f93c
 * **ASIN:** B01GC86SRW
 * **Author:** shengjia

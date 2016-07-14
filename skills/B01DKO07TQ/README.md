@@ -16,7 +16,7 @@ Stock Market Sensei gives a stock's most likely low,high,opening & closing price
 ### Skill Details
 
 * **Invocation Name:** stock market sensei
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e3287c8d-145b-4f90-ab1a-815a90104d35
 * **ASIN:** B01DKO07TQ
 * **Author:** Expat Inc

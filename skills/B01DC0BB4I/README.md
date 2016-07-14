@@ -17,7 +17,7 @@ Right now only the D line is supported, but soon other lines will be added
 ### Skill Details
 
 * **Invocation Name:** m. b. t. a. helper
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.25a6d781-e4b6-4829-9071-f81d912e8631
 * **ASIN:** B01DC0BB4I
 * **Author:** Mahesh Guruswamy

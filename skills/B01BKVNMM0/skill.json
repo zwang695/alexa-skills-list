@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "User starts with \"open movie info\" after which Alexa prompts for a movie title.  The title is searched on theMovieDB.org.  Up to 4 matching titles are found and listed by title and year. Then movie info asks if you want details (description, actors, directors) for each movie in turn.   Errors searching theMovieDB result in \"I had a problem with\" <title>..  You can ask for help or say \"repeat\".  Or you can say \"new movie\" to restart searching another title.  You can say stop or goodbye to end the skill.",
   "enablement": null,
   "exampleInteractions": [

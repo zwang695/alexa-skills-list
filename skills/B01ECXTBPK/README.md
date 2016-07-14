@@ -16,7 +16,7 @@ Says Moo will repeat the onomatopoeia to your kids' delight.  In the future, we'
 ### Skill Details
 
 * **Invocation Name:** cow says moo
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.51bdd9c6-bed2-48de-95c0-dd2f62514d78
 * **ASIN:** B01ECXTBPK
 * **Author:** Autopilot Consulting, LLC

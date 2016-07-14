@@ -16,7 +16,7 @@ Initially just answering questions about the family's ages, but will expand beyo
 ### Skill Details
 
 * **Invocation Name:** lightning talk
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d2c61b55-f8e7-418d-9041-769227bd618e
 * **ASIN:** B01G35D9AS
 * **Author:** Scot-Irish Lads

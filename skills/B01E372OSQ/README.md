@@ -16,7 +16,7 @@ To use the What's My Sign skill, try saying...
 ### Skill Details
 
 * **Invocation Name:** what's my sign
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c56c3d73-7aae-4ecf-9fe6-565d6dc408fd
 * **ASIN:** B01E372OSQ
 * **Author:** Underground Engineering

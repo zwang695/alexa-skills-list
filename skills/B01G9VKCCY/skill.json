@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "A great way to learn more about your friends!\nA group of people take turns asking Alexa to give them Truth or Dare questions in a selected category. \nStart the game by saying:\"Alexa, open Truth or Dare Unrated\"\nIf you want to hear all the available categories, just say:\"Alexa, ask Truth or Dare Unrated to give me the categories\". From there the skill will guide you through a party you're not about to forget!\n\nDISCLAIMER: THE SKILL MAY NOT BE SUITABLE FOR ALL AGES.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "The Ceaseless skill for Alexa provides a prayer topic and a Scripture verse from the book of Proverbs each day, all you have to do is ask!\n\nTo start the skill, just say,\n\n\"Alexa, ask Ceaseless for today's proverb.\"\n\nOr say,\n\n\"Alexa, ask Ceaseless who I should pray for today.\"",
   "enablement": null,
   "exampleInteractions": [

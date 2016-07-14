@@ -36,7 +36,7 @@ Version 1.0.0
 ### Skill Details
 
 * **Invocation Name:** let's divide
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.63596161-9c5f-4086-ac3f-bb803c62928c
 * **ASIN:** B01FJDB8P8
 * **Author:** Wobble Mouth

@@ -34,7 +34,7 @@ Version 1.0.0
 ### Skill Details
 
 * **Invocation Name:** lets add
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7fba70d8-07ec-46f1-b1bc-06f9a57a81db
 * **ASIN:** B01DR9XVQK
 * **Author:** Wobble Mouth

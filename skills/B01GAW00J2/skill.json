@@ -4,7 +4,7 @@
   "averageRating": 4.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "What is Cloud Computing is a skill designed to help you understand some key cloud computing products and services offered by AWS.  \n\nTo use the skill, enable it.  Then you can ask the following:\n\nAlexa, ask Cloud Helper what is the definition of cloud computing?",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ It's finally safe to talk about politics! This fun (non-partisan) game will teac
 ### Skill Details
 
 * **Invocation Name:** presidential trivia
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.eaddcd26-5588-4a34-a435-ec9106a0b908
 * **ASIN:** B01BO66EM6
 * **Author:** onetwentyseven inc

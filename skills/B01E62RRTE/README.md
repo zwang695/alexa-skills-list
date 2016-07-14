@@ -18,7 +18,7 @@ PS. See if you can find some Easter Eggs hidden within Alexa’s memory bank.
 ### Skill Details
 
 * **Invocation Name:** sci fi
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f2c1163c-7af7-4d3f-a5d7-deda3893f4d4
 * **ASIN:** B01E62RRTE
 * **Author:** NBCUniversal, Syfy

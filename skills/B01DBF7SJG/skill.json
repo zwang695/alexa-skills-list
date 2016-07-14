@@ -4,7 +4,7 @@
   "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "India news skill provide user the latest update of India news from different categories like education, science, technology, entertainment, sports , business. You can start this skill by saying Alexa , \"ask india news\" . And then you can choose your categories by saying \"News from (category_name)\" or in middle by saying \"Alexa, news from (category name)\". After selecting category user can start news by saying \" okay\" or \"yes\" or \"what's the latest news\"\nor \"what the latest news is\" or \"give me the news\" or \"the news\" or \"latest news updates\".",
   "enablement": null,
   "exampleInteractions": [

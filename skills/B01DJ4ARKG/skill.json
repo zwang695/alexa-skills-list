@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "Just a fun little trivia app for Spurs fans. We are not officially related in any way - we just like the Spurs.\n\nMuch thanks to Wikipedia for awesome information and the Spurs for awesome character (and basketball)! Go Spurs Go!",
   "enablement": null,
   "exampleInteractions": [

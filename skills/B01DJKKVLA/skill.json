@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "This is a challenging trivia game that asks questions about different college basketball tournaments that have occurred over time.",
   "enablement": null,
   "exampleInteractions": [

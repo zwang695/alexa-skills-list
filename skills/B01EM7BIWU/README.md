@@ -16,7 +16,7 @@ Winston Churchill can provide a randomly-chosen quotation or  quotations which a
 ### Skill Details
 
 * **Invocation Name:** churchill quotes
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ec109eb4-85b7-477f-aae7-fd59a5656003
 * **ASIN:** B01EM7BIWU
 * **Author:** Barry Johson

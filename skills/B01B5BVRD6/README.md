@@ -18,7 +18,7 @@ This game is fun to play individually or compete with  family and friends to be 
 ### Skill Details
 
 * **Invocation Name:** hollywood trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ebbd4638-66e7-4e56-9daf-7c49c685eb5e
 * **ASIN:** B01B5BVRD6
 * **Author:** Priya

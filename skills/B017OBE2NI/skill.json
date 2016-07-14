@@ -20,7 +20,7 @@
   "averageRating": 2.1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "FreeBusy Scheduling Buddy helps you coordinate meetings and stay on top of your schedule. Use it to check if a contact is available at a certain time and to schedule events or conference calls. Like any good virtual assistant, it knows to check your own agenda and aviod conflicts before putting a meeting on your calendar.\n\nFreeBusy works with all calendar providers (Google, Office 365, Outlook and corporate Exchange, iCloud, Outlook.com, Yahoo, Zimbra, etc.), whether personal or corporate, and across organizational boundaries.",
   "enablement": null,
   "exampleInteractions": [

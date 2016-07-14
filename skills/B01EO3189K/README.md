@@ -16,7 +16,7 @@ Quiz Bowl is a trivia game that tests the player's knowledge of varied subjects 
 ### Skill Details
 
 * **Invocation Name:** quiz bowl
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.82cc95b3-3224-44a9-9f66-72e358894ab7
 * **ASIN:** B01EO3189K
 * **Author:** StrwbryJams

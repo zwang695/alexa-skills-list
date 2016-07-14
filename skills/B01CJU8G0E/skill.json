@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "A simple joke telling app, intended to delight younger children.  Ask \"Silly Winnie\" - a playful mastiff puppy - for a joke, and she will deliver.",
   "enablement": null,
   "exampleInteractions": [

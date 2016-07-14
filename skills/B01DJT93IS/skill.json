@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Titus is the TV watcher's friend.  He helps Amazon Echo find where shows are available for online streaming.   Simply ask Titus to find a show and he will tell you if the show is available from free services like Crackle or network sites like CBS, subscription services like Amazon Prime or even for purchase from sites like iTunes.   \n\nAnd if you're also a big movie fan then check out Titus' brother Milo.  The Milo skill will help you find where movies are being streamed online.",
   "enablement": null,
   "exampleInteractions": [

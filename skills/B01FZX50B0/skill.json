@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Ask Alexa to open the \"Rugby World Cup Quiz\" and see if you have what it takes to get every question correctly answered! This quiz will test your knowledge of players, scores, tournaments, and hosts. Give it a \"try\"",
   "enablement": null,
   "exampleInteractions": [

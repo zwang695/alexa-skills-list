@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "The New York Running Calendar helps you find the next organized running race in New York City.  To get started say \"Alexa, ask New York Running Calendar: When is the next race?\"  The app will then search the web for upcoming races and will tell you the name of the next race, where it is being held, and the date and time it starts.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ This skill lists historical facts and benefits high school students taking the A
 ### Skill Details
 
 * **Invocation Name:** a. p. history
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c65fdd0b-7a27-47ea-8fb1-10df0bc37174
 * **ASIN:** B01FN56FSC
 * **Author:** Sarah Schoonmaker

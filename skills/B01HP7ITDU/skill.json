@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "Test your knowledge and learn about Great Composers from Bach to Wagner from the Medieval period to today! Say \"Alexa, play Great Composer Quiz\" and you will be asked 5 questions to see how you do. Test your knowledge of composers works and quirks, their music and muses, and fun facts. New questions are added often.\n\nThis quiz game was inspired by Dennis Bartel (@dennisbartel on Twitter) from KUSC (kusc.org) a classical music station in Los Angeles but the questions are original.",
   "enablement": null,
   "exampleInteractions": [

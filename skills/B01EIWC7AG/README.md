@@ -14,7 +14,7 @@ Discover Fresh Music from around the world, this skill will keep you up to date 
 ### Skill Details
 
 * **Invocation Name:** fresh music
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.706345de-b051-475c-82c9-52c6eaed6f92
 * **ASIN:** B01EIWC7AG
 * **Author:** callumj.com

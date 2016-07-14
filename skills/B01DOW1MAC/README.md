@@ -16,7 +16,7 @@ The Langone Retreat Information Alexa Skill provides you with information about 
 ### Skill Details
 
 * **Invocation Name:** langone retreat
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f3169acc-8bfa-4ddb-bb4c-4d127a5d74e9
 * **ASIN:** B01DOW1MAC
 * **Author:** Longboard 8

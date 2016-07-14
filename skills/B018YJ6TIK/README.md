@@ -16,7 +16,7 @@ The Space Weather skill will tell you the current conditions in space, including
 ### Skill Details
 
 * **Invocation Name:** space weather
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6f831d81-32a7-49cd-a784-a6d5e81abf33
 * **ASIN:** B018YJ6TIK
 * **Author:** SodaAnt Enterprises

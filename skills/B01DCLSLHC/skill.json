@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "eventseeker provides you personalized information about events happening nearby  and your favorite musicians, bands and comedians. \n \nTo get started you simply need to say, Alexa, launch eventseeker, you will be guided to select an event category of your choice. After selecting the category, Alexa will list events happening in your city. \n \nYou can change category any time using the following command: Change my category to sports\n \nTo change your city, simply say: Alexa change my location to New York, or Alexa change my city to San Francisco. Alexa will confirm the change in location.\n \nYou can also say Alexa what's happening tonight or anytime in the future.\nTry asking Alexa:\nAlexa ask eventseeker what should I do next week?\nAlexa ask eventseeker what should I do this weekend?\nAlexa ask eventseeker what is happening this week?\nAlexa ask eventseeker what is happening on January 30th?\nAlexa ask eventseeker what's happening on April 5th in San Francisco\n \nTo close the skill and interaction with Alexa you can say cancel, never mind or forget it or stop.\n \nThanks for your feedback! Please share your thoughts, and we'll do our best to provide the best possible experience.",
   "enablement": null,
   "exampleInteractions": [

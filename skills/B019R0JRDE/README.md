@@ -16,7 +16,7 @@ The QVine app allows you to ask about upcoming events on the QVine calendar.  Yo
 ### Skill Details
 
 * **Invocation Name:** q vine
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cff2ad4c-5345-44ec-9446-ec077c46e6e7
 * **ASIN:** B019R0JRDE
 * **Author:** QVine

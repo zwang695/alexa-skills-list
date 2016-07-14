@@ -16,7 +16,7 @@ A simple joke telling app, intended to delight younger children.  Ask "Silly Win
 ### Skill Details
 
 * **Invocation Name:** silly winnie
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5e0429c8-5259-4a6a-9a56-f51553ec657e
 * **ASIN:** B01CJU8G0E
 * **Author:** Marc Smith

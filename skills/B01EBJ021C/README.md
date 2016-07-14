@@ -16,7 +16,7 @@ Quote Machine will give you one of hundreds of inspirational quotes from famous 
 ### Skill Details
 
 * **Invocation Name:** quote machine
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8094b883-55e5-4ab5-ad9d-5364f81977b5
 * **ASIN:** B01EBJ021C
 * **Author:** Cornerstone Software Creations LLC

@@ -16,7 +16,7 @@ Currently, it only support plus, minus, times and divided operations, advanced f
 ### Skill Details
 
 * **Invocation Name:** calculator
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.afacd926-a874-4881-a31c-b34741c3e640
 * **ASIN:** B01ASDX8QG
 * **Author:** Hank

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "This extremely simple app tells you the current BTE-e Bitcoin to US Dollar exchange rate. All you have to do is open the app, there are no commands.\n\nThe only thing you have to say is \"Alexa, open Bitcoin Price Checker.\"",
   "enablement": null,
   "exampleInteractions": [

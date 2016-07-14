@@ -23,7 +23,7 @@ Thanks for trying the skill.
 ### Skill Details
 
 * **Invocation Name:** uncle shakespeare
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d9914b13-4e04-4272-86bf-3cb1b2151d77
 * **ASIN:** B01ABABWF0
 * **Author:** IzzoWorks

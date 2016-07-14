@@ -4,7 +4,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Can't find a spare person to spin the spinner? Ask Alexa to do it for you!\nIt works simple, just say \"Alexa, run Twister Spinner\" to start the game.\n\nMake the game more enjoyable to play with this hand-free spinner!",
   "enablement": null,
   "exampleInteractions": [

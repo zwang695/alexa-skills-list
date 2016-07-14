@@ -16,7 +16,7 @@ Costa Rica news will get you the latest news from Costa Rica in english, all the
 ### Skill Details
 
 * **Invocation Name:** costa rica news
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2b198ff5-0024-40b7-9d43-3cd494a11a2e
 * **ASIN:** B01E8P5QUQ
 * **Author:** andresmeza.com

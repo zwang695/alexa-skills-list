@@ -16,7 +16,7 @@ Kids often nag for screen time and parents always ask the same sorts of question
 ### Skill Details
 
 * **Invocation Name:** nanny state
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ffc638c6-b74a-4533-8cdf-2f7c04c98508
 * **ASIN:** B01EKKF81Q
 * **Author:** Nathan

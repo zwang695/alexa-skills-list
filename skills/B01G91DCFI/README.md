@@ -28,7 +28,7 @@ To stop the game, just say "stop"
 ### Skill Details
 
 * **Invocation Name:** wordsmith trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ef7b18fa-64af-4f0d-b00c-15259a21e062
 * **ASIN:** B01G91DCFI
 * **Author:** builditdan

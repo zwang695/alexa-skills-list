@@ -17,7 +17,7 @@ It's a great way to learn some amazing things about the California state.
 ### Skill Details
 
 * **Invocation Name:** cali fact
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7beac02a-f154-402b-81b0-3246458c56be
 * **ASIN:** B01FLJYG5E
 * **Author:** Aradhana Duppala

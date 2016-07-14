@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "Now you can query for the ticket status of any of your favorite open source projects, such as: Spark, Kafka, Cassandra or Log4j just to mention a few.\n\nJust ask Bug Tracker the ticket number that you are interested in, and you will get all the relevant information related to the ticket.",
   "enablement": null,
   "exampleInteractions": [

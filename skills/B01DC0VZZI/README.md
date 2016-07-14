@@ -26,9 +26,9 @@ Disclaimer: This skill might not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** expense tracker
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.59365867-306b-4cc9-a36a-1344f56f47ed
 * **ASIN:** B01DC0VZZI
-* **Author:** Running Rabbits
+* **Author:** FutureOfVoice
 * **Release Date:** March 23, 2016 @ 07:26:02
 * **In-App Purchasing:** No

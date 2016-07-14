@@ -20,7 +20,7 @@ Parental guidance suggested. The Wayne Investigation contains content that may n
 ### Skill Details
 
 * **Invocation Name:** the wayne investigation
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.25d585a4-e73e-472a-992d-fd6df560785b
 * **ASIN:** B01C9AX5VY
 * **Author:** Warner Bros

@@ -16,7 +16,7 @@ Runes derive from sounds believed to be associated with power. These sounds were
 ### Skill Details
 
 * **Invocation Name:** nordic runes
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.561b9374-0cb6-4f61-bce3-3b2d1da8ba69
 * **ASIN:** B01FZE0WYE
 * **Author:** Clwydian

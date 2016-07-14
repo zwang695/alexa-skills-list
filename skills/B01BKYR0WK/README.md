@@ -20,7 +20,7 @@ Battery Boot Base for Amazon Echo
 ### Skill Details
 
 * **Invocation Name:** battery boot
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ecbcdf2c-c4b3-47eb-bdc4-4c6d7c02f826
 * **ASIN:** B01BKYR0WK
 * **Author:** Koozie LLC

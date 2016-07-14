@@ -24,7 +24,7 @@ NOTE: This skill is in no way affiliated with or endorsed by the NFL.
 ### Skill Details
 
 * **Invocation Name:** football crime
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4a97dc92-2470-4080-a7bb-2667f3eb84f2
 * **ASIN:** B01FONT9RC
 * **Author:** Honeycomb Creative Group, LLC

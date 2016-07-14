@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Ask Minimum Wage Finder to get you any state's 2016 minimum wage.",
   "enablement": null,
   "exampleInteractions": [

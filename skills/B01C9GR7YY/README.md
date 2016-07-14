@@ -12,7 +12,7 @@ Educate yourself about Inventor Nikola Tesla. Some of his accomplishments, and h
 ### Skill Details
 
 * **Invocation Name:** nikola tesla
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ed1a6395-ccf1-46d2-b414-b96c0faffe11
 * **ASIN:** B01C9GR7YY
 * **Author:** JJLINK.NET

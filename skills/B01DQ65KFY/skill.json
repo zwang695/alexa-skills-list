@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Bible Seeds and Such prompts you with a random Bible passage selected from about 20 passages that I've committed to memory. Alexa prompts you with the location, and you get to recall the passage.\n\nTo get started, just open the skill by saying \"Alexa, Open Bible Seeds\". Alexa will then give you a random Bible passage location, like \"Luke Chapter 4 Verse 4.\" You then try to think of the passage, and when you're ready, just say \"Ok\" or \"Continue\". Then Alexa reads the passage itself. You can then say \"Ok\" or the like for another passage, or \"Stop\"/\"Thank You\" to exit. \n\nI consider these passages to be seeds of the Bible, kernels of core ideas. I have only recently begun to study the Bible (aside from early childhood), and learning these has helped and continues to help me through difficult times.",
   "enablement": null,
   "exampleInteractions": [

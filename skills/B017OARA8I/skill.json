@@ -4,7 +4,7 @@
   "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "Get event listings from Bandsintown.com. Use Event Guide to find what concerts and shows are happening for any date in the city of your choice.",
   "enablement": null,
   "exampleInteractions": [

@@ -19,7 +19,7 @@ This skill may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** human body quiz
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3076d8ab-c84b-4391-9045-23908727e314
 * **ASIN:** B01EXOGWSM
 * **Author:** Aaron Koz

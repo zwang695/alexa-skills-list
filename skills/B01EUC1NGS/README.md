@@ -16,7 +16,7 @@ To get started, say, "Alexa, open Austin Trivia".  Alexa will then respond with 
 ### Skill Details
 
 * **Invocation Name:** austin trivia
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.79796f77-f746-4750-9f8e-1f6bc51fe3b5
 * **ASIN:** B01EUC1NGS
 * **Author:** Curtis Stewart

@@ -16,7 +16,7 @@ Satoshi's Bitcoin Quote is the first, fastest, and funnest way to keep up to dat
 ### Skill Details
 
 * **Invocation Name:** satoshi
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d1c6d11c-f58d-4370-b0da-4bccda2a3470
 * **ASIN:** B017OBVZ74
 * **Author:** Majel Tech

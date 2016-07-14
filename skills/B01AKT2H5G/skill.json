@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "This skill allows you to check if you have fed your dog recently. Useful to have if your household contains several people that have different schedules and you want to make sure that at least somebody fed the dog before you left the house.\n\nUsage is very simple, every time you ask Echo if you fed the dog it will tell you the last time it was fed. Depending on your question and how long ago it was it will the follow up with a question of if you plan on feeding the dog now. If you say yes that is the new current time the dog has been fed. It assumes that the dog is hungry if it has not been fed in 6 hours.",
   "enablement": null,
   "exampleInteractions": [

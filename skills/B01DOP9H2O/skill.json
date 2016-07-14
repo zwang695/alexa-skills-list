@@ -4,7 +4,7 @@
   "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Home-Automation",
+  "category": null,
   "description": "Control your Alarm.com system with your voice.",
   "enablement": null,
   "exampleInteractions": [

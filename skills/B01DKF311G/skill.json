@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "The aspiration of My Copilot is to answer any general aviation question as if you asked ATC that question over the radio. The first area supported is weather, and within weather, you can ask only about cloud cover. (See the sample interactions.) Live weather data is provided by NOAA for stations in North America.",
   "enablement": null,
   "exampleInteractions": [

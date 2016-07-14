@@ -16,7 +16,7 @@ Enjoy!
 ### Skill Details
 
 * **Invocation Name:** who played bond
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.052b92cd-025f-4b4e-92cf-fef35214b7de
 * **ASIN:** B01DEYA56M
 * **Author:** JGDev!

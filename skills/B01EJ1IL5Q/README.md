@@ -20,7 +20,7 @@ You can also ask for the following correspondences: colors, foods, herbs, stones
 ### Skill Details
 
 * **Invocation Name:** wheel of the year
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.61d9b9e0-b154-4e8b-b41c-acb6ee046346
 * **ASIN:** B01EJ1IL5Q
 * **Author:** Patrick Mollohan

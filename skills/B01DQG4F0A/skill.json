@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Facts about the band Phish. Ask Alexa to open Phish Geek and then ask for a fact.",
   "enablement": null,
   "exampleInteractions": [

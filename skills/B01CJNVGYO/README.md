@@ -48,7 +48,7 @@ Nest® is a registered trademark of Nest Labs, Inc. and its parent company.
 ### Skill Details
 
 * **Invocation Name:** the thermostat
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.92ba4f64-ff14-4197-8f41-d4d258da155b
 * **ASIN:** B01CJNVGYO
 * **Author:** Underscore Research LLC

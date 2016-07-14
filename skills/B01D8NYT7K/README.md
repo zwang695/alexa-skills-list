@@ -16,7 +16,7 @@ A quiz on the basics of computers. This skill asks a series of 5 questions each 
 ### Skill Details
 
 * **Invocation Name:** computer quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3e75e876-109d-4e8e-8fd2-d715c707bc1b
 * **ASIN:** B01D8NYT7K
 * **Author:** MLC Software

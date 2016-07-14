@@ -16,7 +16,7 @@ Get your daily horoscopes from ELLE + The Astro Twins. Dubbed "astrologists for 
 ### Skill Details
 
 * **Invocation Name:** horoscope
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.34bc742c-a411-4bc3-99cd-3feb21ab783d
 * **ASIN:** B019J1T6AU
 * **Author:** Hearst

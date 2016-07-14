@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Hungry but can't decide where to eat? \nSolve indecision and conflict with the Meal Dictator skill. Meal Dictator randomly selects a restaurant to eat at in a city of your choice. Avoid arguments and just eat! You might even find your next favorite restaurant!",
   "enablement": null,
   "exampleInteractions": [

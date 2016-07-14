@@ -20,7 +20,7 @@ News Anchor is aggregating news from hundreds of sites around the web to read fo
 ### Skill Details
 
 * **Invocation Name:** news anchor
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.57142556-b72c-4d90-b6a2-ce2380d5b21e
 * **ASIN:** B01F5ZT2SA
 * **Author:** Yuval

@@ -22,7 +22,7 @@ These will be random renown phrases by the most outstanding and inspirational th
 ### Skill Details
 
 * **Invocation Name:** inspiring quote
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.63d30f55-7dde-44a4-bb49-86057515f708
 * **ASIN:** B01FN331S6
 * **Author:** CallPal

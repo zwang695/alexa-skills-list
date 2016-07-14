@@ -13,7 +13,7 @@ Disclaimer: Powerball Numbers may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** power ball numbers
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.00d82d67-d197-4d63-8a33-00b2f51b0860
 * **ASIN:** B01C7URPZS
 * **Author:** Jim Drewes

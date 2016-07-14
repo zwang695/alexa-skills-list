@@ -16,7 +16,7 @@ Allows users to ask Alexa the current price of Bitcoin over the past 24 hours. C
 ### Skill Details
 
 * **Invocation Name:** bitcoin price
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.200970e1-028c-46dc-828c-c627c9cb4509
 * **ASIN:** B01FTQV0M6
 * **Author:** Jordan Pizza

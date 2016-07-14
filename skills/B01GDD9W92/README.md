@@ -16,7 +16,7 @@ Body Geek is a collection of fun and unusual facts about the human body.
 ### Skill Details
 
 * **Invocation Name:** body geek
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.505a58bf-f9fc-4710-b15c-64a172af9f61
 * **ASIN:** B01GDD9W92
 * **Author:** Sofia Tania

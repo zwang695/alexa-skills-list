@@ -16,7 +16,7 @@ Ask Alexa for the latest powerball numbers and have them instantly returned alon
 ### Skill Details
 
 * **Invocation Name:** powerball
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.57d95e0e-6c00-4dc8-b1c9-f7c55aede570
 * **ASIN:** B01B1VD98G
 * **Author:** Jay Wallace

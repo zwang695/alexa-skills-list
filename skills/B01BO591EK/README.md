@@ -14,7 +14,7 @@ If you play America's Pub Quiz trivia in Madison, WI... you always want to get t
 ### Skill Details
 
 * **Invocation Name:** trivia with friends
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cbca4dd5-4743-4895-9283-d45c644702b9
 * **ASIN:** B01BO591EK
 * **Author:** Bachelor Pad Development

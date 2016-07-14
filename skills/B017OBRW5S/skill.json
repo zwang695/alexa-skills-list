@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "The Fact Core contains information, but it's up to you to decide if it's true or if we just have a few bad sectors on our drives.  Generally speaking, trusting the Fact Core is about like trusting nothing bad will happen when you pull your uncle's finger.",
   "enablement": null,
   "exampleInteractions": [

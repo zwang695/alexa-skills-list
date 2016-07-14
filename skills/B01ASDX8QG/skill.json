@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Currently, it only support plus, minus, times and divided operations, advanced features like square etc will come soon.",
   "enablement": null,
   "exampleInteractions": [

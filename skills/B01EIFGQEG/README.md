@@ -16,7 +16,7 @@ Bring the pub quiz home! Did you know Alexa can play trivia games? Take our shor
 ### Skill Details
 
 * **Invocation Name:** baby animals
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b19d1dc9-b17e-4a31-9ed5-67729c415864
 * **ASIN:** B01EIFGQEG
 * **Author:** Mouthy.com

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "It is a very simple trivia contest based on the template provided by the Amazon Alexa team.  The user starts by saying \"Alexa, play european river trivia.\"  You are then given 5 question with each question having 4 possible answers, you select the answer by saying the number of the answer. No signup is required.",
   "enablement": null,
   "exampleInteractions": [

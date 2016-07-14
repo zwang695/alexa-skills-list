@@ -18,7 +18,7 @@ The Alexa app will track your questions and their answers, so if you ever need t
 ### Skill Details
 
 * **Invocation Name:** the eight ball
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fb0731ae-b748-45c7-8577-0c57749a8c49
 * **ASIN:** B01D0JI7CA
 * **Author:** Kovacich Overengineering

@@ -19,7 +19,7 @@ All credits for Have I been pwned? go to Troy Hunt.
 ### Skill Details
 
 * **Invocation Name:** have i been poned
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.180188c8-23ad-4f79-9ca9-a59d0890484b
 * **ASIN:** B01FVMIY2C
 * **Author:** Patrick Mollohan

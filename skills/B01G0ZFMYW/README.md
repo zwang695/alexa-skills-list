@@ -16,7 +16,7 @@ get fibonacci numbers starting from 1 up to number specified
 ### Skill Details
 
 * **Invocation Name:** fibonacci numbers
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.709c8142-aaf8-4d4f-8e0d-bf4c9373d1b1
 * **ASIN:** B01G0ZFMYW
 * **Author:** Diana

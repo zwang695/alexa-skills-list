@@ -18,7 +18,7 @@ The user can get started by asking "Alexa, Ask American History Quiz". There are
 ### Skill Details
 
 * **Invocation Name:** american history quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a8d3d135-d78c-40ff-bbcc-43c18a9a5bd5
 * **ASIN:** B01E4C70XO
 * **Author:** Joseph Caintic

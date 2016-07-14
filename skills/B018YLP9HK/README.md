@@ -52,7 +52,7 @@ Homeseer events can be triggered through the Echo as well:
 ### Skill Details
 
 * **Invocation Name:** homeseer
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9f7a4553-4530-4c26-904a-aeb7342ce833
 * **ASIN:** B018YLP9HK
 * **Author:** HomeSeer Technologies LLC

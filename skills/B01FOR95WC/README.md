@@ -14,7 +14,7 @@ History allows you to receive history facts for each day of the year. Just ask A
 ### Skill Details
 
 * **Invocation Name:** history bot
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.31a363aa-6d34-48bc-bb56-1064a16a14c8
 * **ASIN:** B01FOR95WC
 * **Author:** Joe Rocca

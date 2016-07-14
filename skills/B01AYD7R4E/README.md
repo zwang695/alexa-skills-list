@@ -16,7 +16,7 @@ This simple messaging service is used to send and receive messages using your Am
 ### Skill Details
 
 * **Invocation Name:** my messages
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.21a387d7-c230-46c6-b99b-4891708dee7b
 * **ASIN:** B01AYD7R4E
 * **Author:** Rain Labs

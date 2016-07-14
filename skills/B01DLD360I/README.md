@@ -63,7 +63,7 @@ If you find an issue, before leaving a bad review, or if you have a suggestion o
 ### Skill Details
 
 * **Invocation Name:** chicago trains
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2d65d56d-0dbc-4fdd-ad48-8c8652595765
 * **ASIN:** B01DLD360I
 * **Author:** Blue Lobster Studios

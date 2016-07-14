@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Roman History is a very simple skill that provides random trivia about Ancient Rome. No setup or additional accounts are required. The list of trivia is still growing, so be sure to check back often!",
   "enablement": null,
   "exampleInteractions": [

@@ -23,7 +23,7 @@ https://www.ttc.ca/Routes/index.jsp
 ### Skill Details
 
 * **Invocation Name:** toronto transit
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.95b1c9dc-6638-4144-9ffe-41a70bdce249
 * **ASIN:** B01BCKSFR6
 * **Author:** Handlebar Creative

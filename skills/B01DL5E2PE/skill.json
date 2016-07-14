@@ -4,7 +4,7 @@
   "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Use This Day In History to ask what happened today in history to get a brief description about a historical event that occurred on today's date.",
   "enablement": null,
   "exampleInteractions": [

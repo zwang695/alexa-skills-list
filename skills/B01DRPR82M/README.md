@@ -26,7 +26,7 @@ You can answer the questions with phrases like:
 ### Skill Details
 
 * **Invocation Name:** soccer trivia
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9ce57a8a-b22b-4340-a489-9b42b6d0c9c1
 * **ASIN:** B01DRPR82M
 * **Author:** OCAELS

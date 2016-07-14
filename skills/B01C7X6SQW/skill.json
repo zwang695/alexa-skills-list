@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This is a Phish trivia game, made by phans for phans - we will be adding new questions so please check back soon!",
   "enablement": null,
   "exampleInteractions": [

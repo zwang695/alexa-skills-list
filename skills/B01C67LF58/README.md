@@ -16,7 +16,7 @@ Want to know the current weather information or flight rules for a particular ai
 ### Skill Details
 
 * **Invocation Name:** aviation weather
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.454aee01-9a6d-41eb-9cea-61c633c59a9a
 * **ASIN:** B01C67LF58
 * **Author:** F2M2, Inc.

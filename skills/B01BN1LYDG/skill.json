@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This skill will generate a technology statement using a large collection of buzzwords.  You can ask it to repeat it's last statement, or have it generate a new one.  Just say, \"Alexa ask Tech Buzz to tell me something smart\" and it'll give you a very intelligent sounding response.  Then you can either say 'Yes' to generate another, 'Repeat' to hear it again, or 'No' to end the conversation.",
   "enablement": null,
   "exampleInteractions": [

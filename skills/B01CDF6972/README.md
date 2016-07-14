@@ -49,7 +49,7 @@ Mosaic is also available as a Chatbot on Facebook Messenger, Slack and SMS! For 
 ### Skill Details
 
 * **Invocation Name:** mosaic
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2171d931-80f6-44cc-b702-3b35eed7e40c
 * **ASIN:** B01CDF6972
 * **Author:** Saymosaic

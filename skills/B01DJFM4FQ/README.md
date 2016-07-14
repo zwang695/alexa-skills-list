@@ -18,7 +18,7 @@ Start with US city to another US city or an International city. Prompts you for 
 ### Skill Details
 
 * **Invocation Name:** flight awards
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.76f2c118-1587-4416-b4de-4631c476b170
 * **ASIN:** B01DJFM4FQ
 * **Author:** Gayathri Viswanathan

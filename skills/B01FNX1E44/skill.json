@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "It plays a game of trivia",
   "enablement": null,
   "exampleInteractions": [

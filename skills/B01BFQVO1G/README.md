@@ -18,7 +18,7 @@ Powered by TfL Open Data
 ### Skill Details
 
 * **Invocation Name:** the tube
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.763d4b64-43ff-4959-915d-d850abce1fed
 * **ASIN:** B01BFQVO1G
 * **Author:** etsnet

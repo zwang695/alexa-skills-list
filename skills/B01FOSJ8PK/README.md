@@ -17,7 +17,7 @@ DISCLAIMER: Beer Facts may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** beer facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7bc9496d-939b-4d1d-9447-0698c5b3051c
 * **ASIN:** B01FOSJ8PK
 * **Author:** Justin Revelstoke

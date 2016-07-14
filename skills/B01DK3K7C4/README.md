@@ -22,7 +22,7 @@ You can also find out the materials to craft an Agony Infusion.  "Alexa, ask Fra
 ### Skill Details
 
 * **Invocation Name:** fractals
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.de56dd7c-b2f1-4195-8ac5-7853b03bdc4a
 * **ASIN:** B01DK3K7C4
 * **Author:** Don Hoellein

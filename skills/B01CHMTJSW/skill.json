@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Wouldn't it be neat to play a classic game of Tic Tac Toe (a.k.a Noughts and Crosses) with Alexa? Now, the whole family can have fun and be entertained with this skill enabled for your Amazon Echo and supported Fire TV devices.\n\nPlay Tic Tac Toe from memory or sketch the moves on a piece of paper. Beware, Alexa can be quite sneaky, though at times she may have a lapse of concentration. Take advantage of that and snatch a win!\n\nTo start a new game, say \"Alexa, ask Tic Tac Toe for a new game. \"\n\nTake turns selecting positions like Top Left, Center or Bottom Right and be the first to occupy 3 positions in a row to win the game. The 3 by 3 positions for Tic Tac Toe are referred to as follows:\n\nTop Left | Top | Top Right\nLeft | Center | Right\nBottom Left | Bottom | Bottom Right\n\nHave fun and do leave a feedback!",
   "enablement": null,
   "exampleInteractions": [

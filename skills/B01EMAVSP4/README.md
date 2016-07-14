@@ -16,7 +16,7 @@ Ear training within the octave with correct answer feedback and score keeper. Pr
 ### Skill Details
 
 * **Invocation Name:** interval trainer
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.636a33b3-d9eb-4076-ac51-2769dac46135
 * **ASIN:** B01EMAVSP4
 * **Author:** Shawn Strickland

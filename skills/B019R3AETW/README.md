@@ -16,7 +16,7 @@ Start your day inspired with a collection of over 200 inspirational quotes from 
 ### Skill Details
 
 * **Invocation Name:** founding fathers
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c4fd9e06-19cc-4d39-878a-48af439c9e48
 * **ASIN:** B019R3AETW
 * **Author:** Liberty Crate

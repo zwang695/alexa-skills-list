@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "Use Robot Scout to get data about FIRST Robotics Competition teams. You can ask for match scores, rankings, team info, awards, and the OPR/DPR/CCWM of a team. All data is pulled from The Blue Alliance.\n\nFor a full list of example commands say \"Alexa, ask Robot Scout what I can say\"",
   "enablement": null,
   "exampleInteractions": [

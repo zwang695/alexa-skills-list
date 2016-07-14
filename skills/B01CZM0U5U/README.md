@@ -16,7 +16,7 @@ Multiplication Challenge will ask you 5 random multiplication questions from 1x1
 ### Skill Details
 
 * **Invocation Name:** multiplication challenge
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9f257164-4c89-4eb9-8ab2-af4a5b10f6bb
 * **ASIN:** B01CZM0U5U
 * **Author:** unwired solutions

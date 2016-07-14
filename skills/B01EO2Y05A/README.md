@@ -16,7 +16,7 @@ Chess opening helper gives you the defining moves of the chess opening you want 
 ### Skill Details
 
 * **Invocation Name:** chess opening helper
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ddb141aa-5c06-4f84-a685-24dc2cd998d9
 * **ASIN:** B01EO2Y05A
 * **Author:** antblessing

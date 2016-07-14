@@ -18,7 +18,7 @@ Note: May not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** insults
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fbdbe68c-7240-43f3-a5f7-b599daaa85eb
 * **ASIN:** B01F4D86US
 * **Author:** zerodesigns

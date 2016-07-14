@@ -29,7 +29,7 @@ Disclaimer - You must be atleast 21 years old to use the Buttery skill. A valid 
 ### Skill Details
 
 * **Invocation Name:** buttery
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.08b4b620-6592-4d8d-b5c6-e2e8e4ad04be
 * **ASIN:** B01G5VBE6G
 * **Author:** Buttery

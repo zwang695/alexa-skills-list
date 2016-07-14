@@ -17,7 +17,7 @@ This skill will be invaluable to you for the rest of your life because it will p
 ### Skill Details
 
 * **Invocation Name:** dank joke
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.29d5604f-4bbd-40e7-8555-79df0d285f19
 * **ASIN:** B01FZAICPY
 * **Author:** David Yu

@@ -4,7 +4,7 @@
   "averageRating": 1.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "Stock Market Sensei gives a stock's most likely low,high,opening & closing prices - daily. So, you are comfortable in making your investment and trading decisions. You can ask Stock Market Sensei for stock predictions of any stock by using the stock's ticker symbol. Stock Market Sensei  is powered by the #1 daily stock prediction & training platform www.StockMarketSensei.net .",
   "enablement": null,
   "exampleInteractions": [

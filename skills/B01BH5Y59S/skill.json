@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "To get information about current or upcoming movies playing at The Loft Cinema in Tucson Arizona you can say:\n\nAlexa, ask Loft Cinema what's playing today. \nor \nAlexa, ask Loft Cinema get movies for tomorrow\n\nEcho will list the movies and times for movies playing the requested day.  Showtimes that have passed for the current day will not be given.  Only movies with available showtimes on the requested day will be given\n\nThe skill accepts the days of the week Monday through Friday and the terms \"today\", \"tomorrow\", and \"now\"\n\nThe skill gives you a list of movies and showtimes.  The skill also sends a card to the Alexa app with the web address of The Loft Cinema along with the movies and showtimes for the requested day.  The Alexa app does not currently allow HTML links or images to be displayed. in the cards by the ordinary developer. \n\nIf you would like to hear the list again you can ask Alexa to \"repeat\"  or say another day.\n\nDuring the time that Alexa is reading back the movies and showtimes, the user can request information for another day.",
   "enablement": null,
   "exampleInteractions": [

@@ -65,7 +65,7 @@ ZONES:
 ### Skill Details
 
 * **Invocation Name:** house band
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.746d3120-de6b-47ca-a132-746f5b57e609
 * **ASIN:** B01ATZM6N4
 * **Author:** Philosophical Creations

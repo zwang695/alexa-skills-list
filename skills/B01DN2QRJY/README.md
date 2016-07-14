@@ -20,7 +20,7 @@ To get started, you can ask the cyberpunk dictionary to give you a random cyberp
 ### Skill Details
 
 * **Invocation Name:** the cyberpunk dictionary
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1a291230-7f25-48ed-b8b7-747205d072db
 * **ASIN:** B01DN2QRJY
 * **Author:** Brendan Butts

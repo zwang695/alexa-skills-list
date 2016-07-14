@@ -19,7 +19,7 @@ With Board Game Answers, Alexa can answer your common questions about board game
 ### Skill Details
 
 * **Invocation Name:** board games
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c7c9f117-05f0-450f-9475-f5ef0166d795
 * **ASIN:** B01FNXM6SW
 * **Author:** Brandon Telle

@@ -18,7 +18,7 @@ More information about using your Rachio with Echo can be found at: http://suppo
 ### Skill Details
 
 * **Invocation Name:** rachio
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2c74bf75-9246-418d-8934-a25dc938e29b
 * **ASIN:** B01AIZVCGW
 * **Author:** Rachio

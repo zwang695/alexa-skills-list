@@ -18,7 +18,7 @@ Get started by telling Alexa to 'open baseball trivia app'. From that point the 
 ### Skill Details
 
 * **Invocation Name:** baseball trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e8091682-5f47-4d0e-beb6-84d851b3afdb
 * **ASIN:** B01D1II83S
 * **Author:** Jayesh Krishnan

@@ -16,7 +16,7 @@ Just say "Alexa, ask for today's facts"!
 ### Skill Details
 
 * **Invocation Name:** for today's facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9239ff0a-524c-4c7b-be03-90b5b432e076
 * **ASIN:** B01E6C55XO
 * **Author:** pmvrmc

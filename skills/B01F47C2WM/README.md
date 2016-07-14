@@ -16,7 +16,7 @@ BBN info Skill will tell you about some main Christian doctrines. BBN is the Bib
 ### Skill Details
 
 * **Invocation Name:** b. b. n.
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.881c2d8b-baa2-4f26-80f1-a476a8287fce
 * **ASIN:** B01F47C2WM
 * **Author:** Bible Broadcasting Network

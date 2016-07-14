@@ -4,7 +4,7 @@
   "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Anwer trivia questions about Always Sunny in Philadelphia characters and episodes.  This will keep score as you answer, try to beat your family and friends!  \n\nThere are plenty of questions to answer and each game is different!",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Say \"Alexa, Open Random Thoughts\" and she will speak one of approximately 60 random thoughts.  These are the best of /r/showthoughts.",
   "enablement": null,
   "exampleInteractions": [

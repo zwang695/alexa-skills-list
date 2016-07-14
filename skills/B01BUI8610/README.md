@@ -16,7 +16,7 @@ Alexa shows off her beat-boxing skills. Get a list of available beats by saying,
 ### Skill Details
 
 * **Invocation Name:** beat cylinder
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d296f73d-2b51-492c-b381-9a5211c6c871
 * **ASIN:** B01BUI8610
 * **Author:** Pat Cousins

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "This skill is a quiz to encourage new parents and provide tips on parenting around some not so well known facts.\n\nTo use this skill, enable the skill and use the example phrases provided",
   "enablement": null,
   "exampleInteractions": [

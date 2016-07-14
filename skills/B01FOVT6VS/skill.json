@@ -4,7 +4,7 @@
   "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Get up to the minute bus tracking info right from the CTA's Bus Tracker API before you leave the house.\n\nThe quickest way to get bus info is to tell Alexa the bus stop number.  Alexa will reply with how many buses are en route and what time they're estimated to arrive.  \n\nDon't know your bus stop number?  It's on the bus stop sign.  Not standing in front of your bus stop sign?  You can use their online bus tracker.  Select your stop and you'll see the stop number listed in the \"Find By Stop #\" box in the top left under the logo.\n\nhttp://www.ctabustracker.com/bustime/eta/eta.jsp\n\nYou can also give Alexa the direction, route number, and cross streets/stop name to get estimates.  If you choose to use this method currently you'll need to know the exact name of the stop/cross streets that the CTA uses in their API.  Typically it's the bus route's street name first then the cross street.  For example if you're wanting the northbound 22 bus at Addison you'd need to request \"...northbound 22 bus at Clark & Addison.\"  If you're looking for stops like \"Fullerton Red Line\" you're not going to have a good time :/ CTA has it as 'Fullerton & Sheffield (Red/Brown/Purple Line)'.  Hopefully, in a future release we'll be able to handle these request more efficiently and intuitively.\n\n\nSend all praise, issues, feedback, hate mail to alexa.bustracker@gmail.com.  If you do have trouble using it and email me send along what date & time you were bus tracking so I can look back in the logs to see what was going on.\n\nThanks and keep on tracking!",
   "enablement": null,
   "exampleInteractions": [

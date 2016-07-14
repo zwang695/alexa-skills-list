@@ -16,7 +16,7 @@ This skill provides the latest storm information about tropical storms and hurri
 ### Skill Details
 
 * **Invocation Name:** hurricane center
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.709af9ef-d5eb-48dd-a90a-0dc48dc822d6
 * **ASIN:** B01EFCJ0OU
 * **Author:** Drawrz.com

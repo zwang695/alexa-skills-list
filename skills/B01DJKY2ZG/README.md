@@ -28,7 +28,7 @@ For today’s games, say: “Alexa, ask Fantasy Scoreboard who is playing today�
 ### Skill Details
 
 * **Invocation Name:** fantasy scoreboard
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1c56616c-2094-4d6c-a928-50a10c7e12f9
 * **ASIN:** B01DJKY2ZG
 * **Author:** Macadamian

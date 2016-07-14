@@ -18,7 +18,7 @@ Disclaimer: Any resemblance to actual persons, living or dead, or actual events 
 ### Skill Details
 
 * **Invocation Name:** ultimate boy
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2e2e3a80-0f48-4c2f-a712-0eb879584131
 * **ASIN:** B01F083MGA
 * **Author:** Keep It simple

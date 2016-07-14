@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Tests knowledge about bacon: its history, evolution, how it single-handedly become the best food in the world. Whether you are a bacon-lover or a vegan, it's a must!\n\nTo start, say \"Alexa, it's bacon time\".\n\n Warning: you will never see bacon the same way again.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Quip Master gives annoying one liners like the old unix fortune program.\n\nIt doesn't need any input just start it!",
   "enablement": null,
   "exampleInteractions": [

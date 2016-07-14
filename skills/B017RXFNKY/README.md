@@ -30,7 +30,7 @@ Email us at support@youversion.com.
 ### Skill Details
 
 * **Invocation Name:** the bible app
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.352b3321-ec68-4e88-be0e-94b6bb6d5b5c
 * **ASIN:** B017RXFNKY
 * **Author:** Life.Church

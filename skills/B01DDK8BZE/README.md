@@ -16,7 +16,7 @@ Trivia Quiz for all things related to Sofia the First.
 ### Skill Details
 
 * **Invocation Name:** sofia trivia game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.76fbf3ab-c157-48a4-ab5b-32db430f7574
 * **ASIN:** B01DDK8BZE
 * **Author:** Jack Ngai

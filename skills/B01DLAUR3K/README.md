@@ -16,7 +16,7 @@ At the end of a long week, it can often be so difficult to decide where to go fo
 ### Skill Details
 
 * **Invocation Name:** restaurant recommendations
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3f454bab-9969-40e4-ac0d-50112cc55132
 * **ASIN:** B01DLAUR3K
 * **Author:** sphanley

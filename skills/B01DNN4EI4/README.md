@@ -16,7 +16,7 @@ Alexa trivia game quizzes you on personal and intimate questions about Sary's li
 ### Skill Details
 
 * **Invocation Name:** trivia about sary
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dcbd5cfb-4064-44cd-aa9f-799374c8ff1d
 * **ASIN:** B01DNN4EI4
 * **Author:** Sary Brave

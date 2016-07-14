@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "IT'S A GUNDAM! Test your knowledge of the Gundam universe with a score trivia game. Say 'Alexa, play Trivia for Gundam' to get started with a five round game. Answer questions by telling Echo the number for the correct answer to each question.",
   "enablement": null,
   "exampleInteractions": [

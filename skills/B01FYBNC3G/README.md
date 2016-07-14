@@ -16,7 +16,7 @@ Ask the app for a new fact, it should provide you with a random interesting fact
 ### Skill Details
 
 * **Invocation Name:** pittsburgh facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0b13823a-aa51-4580-9b9c-5dcc489438cb
 * **ASIN:** B01FYBNC3G
 * **Author:** Americool

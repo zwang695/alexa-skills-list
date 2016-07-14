@@ -18,7 +18,7 @@ Contact us or suggest new facts: catfacts@deegles.co
 ### Skill Details
 
 * **Invocation Name:** cat facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.61df91bc-a5f9-4c5f-9436-91b5c5694ca4
 * **ASIN:** B017OBJI46
 * **Author:** deegles.co

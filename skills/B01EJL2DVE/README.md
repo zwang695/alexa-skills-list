@@ -18,7 +18,7 @@ Good Luck Guru is a fun and entertaining lifestyle skill.  Give it a try!
 ### Skill Details
 
 * **Invocation Name:** good luck guru
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fe79a9c1-edca-466e-af38-eb77b03ff80f
 * **ASIN:** B01EJL2DVE
 * **Author:** wesee

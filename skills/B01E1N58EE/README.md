@@ -24,7 +24,7 @@ You can can like my app.
 ### Skill Details
 
 * **Invocation Name:** teacher zero seven
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1b067b45-92bd-42ad-979b-3a17571777fe
 * **ASIN:** B01E1N58EE
 * **Author:** mudfam.org

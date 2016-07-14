@@ -16,7 +16,7 @@ If you play a musical instrument (or sing) it is important to keep in pitch. Thi
 ### Skill Details
 
 * **Invocation Name:** acoustic tuner
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b695ee6f-70c7-4179-a1c6-cf299d289bd1
 * **ASIN:** B01E3XNLNW
 * **Author:** TsaTsaTzu

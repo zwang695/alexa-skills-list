@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "If you want to know what's going on in the world of technology, you turn to http://lobste.rs. Let Alexa read the top headlines to you by saying \"Alexa, ask Lobsters for the top headlines,\" or \"Alexa, ask Lobsters for the top three headlines.\"",
   "enablement": null,
   "exampleInteractions": [

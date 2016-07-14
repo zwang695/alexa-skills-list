@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "The Elements quiz contains 25 of the most common elements. It is a multiple choice quiz that will present either the name of the element or the element's chemical symbol. Once the question has been asked, it will give four answers (#1, #2, #3, or #4). Once you are sure of your answer, just say the number to check your answer. The quiz has a total of 15 questions per game.",
   "enablement": null,
   "exampleInteractions": [

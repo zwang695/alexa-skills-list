@@ -16,7 +16,7 @@ Stay up to date with NBC News for the 2016 United States presidential elections.
 ### Skill Details
 
 * **Invocation Name:** n. b. c. news
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6a149394-db4b-4511-b52b-dc45abf0c19d
 * **ASIN:** B01C7SGG3M
 * **Author:** NBC News Digital LLC

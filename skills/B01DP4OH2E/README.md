@@ -16,7 +16,7 @@ Find out the best movies ever. You will find out movies from 1930 onwards, you c
 ### Skill Details
 
 * **Invocation Name:** best movies
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3539d9eb-6ab4-4c0a-ae3d-2416404991c0
 * **ASIN:** B01DP4OH2E
 * **Author:** Moisés

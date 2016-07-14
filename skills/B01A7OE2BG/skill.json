@@ -4,7 +4,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Aurora skill will provide detailed information about the auroral activity over North America and the location where it will be visible. You can ask the forecast for today or any day in the future.",
   "enablement": null,
   "exampleInteractions": [

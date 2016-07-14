@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "Simply launch the skill and Alexa will choose a random Christmas carol to recite while displaying all of the lyrics to the Echo companion app so that everyone can join in on the festivities. Perfect for learning the lyrics to your favorite Christmas songs.",
   "enablement": null,
   "exampleInteractions": [

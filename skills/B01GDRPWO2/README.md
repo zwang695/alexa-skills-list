@@ -16,7 +16,7 @@ You can now enjoy the posts from Fred Wilson's blog, narrated by Amazon Alexa. I
 ### Skill Details
 
 * **Invocation Name:** a. v. c. blog
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d0dd1b18-30b9-4a4b-8f20-256ba64abcae
 * **ASIN:** B01GDRPWO2
 * **Author:** Wayne

@@ -16,7 +16,7 @@ BUILTR Labs is the voice of innovation for the built environment. The BUILTR Dai
 ### Skill Details
 
 * **Invocation Name:** builter labs
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.691ff4bd-d791-438d-9583-de6c4f2c1532
 * **ASIN:** B01FFW0BBK
 * **Author:** JSJ

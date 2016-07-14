@@ -4,7 +4,7 @@
   "averageRating": 1.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This skill quizzes you on a whole bunch of baseball records. These questions range from standard records to extremely obscure records. You'll be asked five questions at one time. You can play again simply by saying \"play again\". Right now, there are about twenty total questions (so four games), but we will be a adding more weekly. \n\nIt's not meant to be beaten. It's meant to beat YOU down! I will constantly be adding new and more obscure questions. If you don't want feel badly about how little you really know about baseball, don't take this quiz. If you do take it, please don't blame me.",
   "enablement": null,
   "exampleInteractions": [

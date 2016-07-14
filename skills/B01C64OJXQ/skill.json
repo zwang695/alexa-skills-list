@@ -4,7 +4,7 @@
   "averageRating": 1.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "IMPROVED VERSION, SEVERAL FIXES. \n\nSearch DOMESTIC U.S. flights for lowest price, one way or roundtrip.\n\nStart by saying \"Alexa, Ask Flight Search\" or \"Alexa, Ask Flight Search for a Flight to Houston\". \n\nTop 5 flights sent to your Alexa app. \n\nAnd look forward to your feedback.",
   "enablement": null,
   "exampleInteractions": [

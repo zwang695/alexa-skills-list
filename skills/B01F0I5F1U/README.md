@@ -16,7 +16,7 @@ TIL Me More teaches you new interesting things every day. It pulls user-contribu
 ### Skill Details
 
 * **Invocation Name:** til me more
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.289ec209-b7c5-4a99-9492-014f37e0099c
 * **ASIN:** B01F0I5F1U
 * **Author:** Tobis

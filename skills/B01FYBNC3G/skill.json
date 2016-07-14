@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Ask the app for a new fact, it should provide you with a random interesting fact about Pittsburgh and it's history",
   "enablement": null,
   "exampleInteractions": [

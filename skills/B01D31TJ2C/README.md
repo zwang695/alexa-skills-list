@@ -16,7 +16,7 @@ Mid Century Design Trivia poses multiple-choice questions about iconic designers
 ### Skill Details
 
 * **Invocation Name:** mid century trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.01250dac-6d98-4159-aae1-90b4880e793b
 * **ASIN:** B01D31TJ2C
 * **Author:** Civilizr

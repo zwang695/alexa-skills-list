@@ -16,7 +16,7 @@ I made this program as a way to practice enunciating individual letters and also
 ### Skill Details
 
 * **Invocation Name:** letters to word
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.046c6159-2382-4074-9f28-3f695018ff56
 * **ASIN:** B01EMTFKEU
 * **Author:** midnight wrench

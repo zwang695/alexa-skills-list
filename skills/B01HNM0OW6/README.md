@@ -16,7 +16,7 @@ Wondering about recent earthquakes near you? Use Earthquake Info to report the m
 ### Skill Details
 
 * **Invocation Name:** earthquake info
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4b1cf065-10cc-460b-808d-0f0dd8e5440e
 * **ASIN:** B01HNM0OW6
 * **Author:** Lucas Burson

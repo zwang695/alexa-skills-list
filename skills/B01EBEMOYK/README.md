@@ -16,7 +16,7 @@ Live in Baltimore? Running late and need to know when the next Circulator bus wi
 ### Skill Details
 
 * **Invocation Name:** circulator
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.83157cac-f56b-4c2e-ad16-cceb492454df
 * **ASIN:** B01EBEMOYK
 * **Author:** Quinnternet

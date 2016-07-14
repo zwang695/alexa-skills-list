@@ -16,7 +16,7 @@ Want to give the next guided tour at your local Dinosaur Museum?  Well we might 
 ### Skill Details
 
 * **Invocation Name:** dinosaur discovery
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5da63d41-e3c9-4ffd-8d33-cc069943f05c
 * **ASIN:** B01EXVZLAU
 * **Author:** KWG

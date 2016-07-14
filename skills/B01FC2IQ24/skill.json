@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "This skill gives you the top shower thought from reddit's r/LifeProTips from the last 24 hours. You can ask life pro tips for the latest post in the following manner:\n\n- Alexa ask life pro tips for the top post\n- Alexa ask life pro tips for the content\n- Alexa ask life pro tips for the recent post\n\nThis content is user generated and may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [

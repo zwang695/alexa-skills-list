@@ -16,7 +16,7 @@ Select this skill for interesting Bible facts. Find out more about the best sell
 ### Skill Details
 
 * **Invocation Name:** bible geek
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.50a86de3-c8d2-44c2-968f-a15ac3a3c12c
 * **ASIN:** B01DR9DH2S
 * **Author:** M Squared 

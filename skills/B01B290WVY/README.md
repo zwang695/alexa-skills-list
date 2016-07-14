@@ -20,7 +20,7 @@ Over 100 crazy facts! New facts added weekly!
 ### Skill Details
 
 * **Invocation Name:** sciguy
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e0b02be9-0056-42ef-b67e-af520b1150c4
 * **ASIN:** B01B290WVY
 * **Author:** Troogle

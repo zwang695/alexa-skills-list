@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "Stock Exchange provides real-time stock quotes from NASDAQ and NYSE, market summaries from S&P 500, DJIA, NASDAQ & NYSE composite indices and quote your personalized stock portfolio.\n\nSupported phrases you can say include:\n\"NASDAQ symbol AMZN\",\n\"New York symbol TWTR\",\n\"market summary\",\n\"add a stock to my portfolio\",\n\"remove a stock from my portfolio\",\n\"what's in my portfolio?,\nand \"quote my portfolio\".\n\nFor extended help and examples of using this skill, please visit http://gobbyapps.com.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "stock exchange",
   "name": "Stock Exchange",
-  "numberOfReviews": 41,
+  "numberOfReviews": 42,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://gobbyapps.com/privacy",

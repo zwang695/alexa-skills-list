@@ -4,7 +4,7 @@
   "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "The BioRhythm skill calculates your natural biorhythm for today for entertainment purposes.  it requires the user to state their birthday including year.  It then calculates the user's natural biorhythms for physical, emotional and intellectual cycles.  The physical biorhythm is based on a 23 day cycle.  The emotional biorhythm is based on a 28 day cycle.  The intellectual biorhythm is based on a 33 day cycle.  \n\nThe skill also checks for any transition days where the biorhythm reading changes sign (positive to negative, or negative to positive).  These are days for caution.\n\nsee also https://en.wikipedia.org/wiki/Biorhythm. \nMathematical consulting by Bonnie Peterson.",
   "enablement": null,
   "exampleInteractions": [

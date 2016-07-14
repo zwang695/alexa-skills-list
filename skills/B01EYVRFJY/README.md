@@ -16,7 +16,7 @@ You will need bluplayer (http://bluplayer.net) to be launched on your PC to be a
 ### Skill Details
 
 * **Invocation Name:** blue player
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5132f11a-e40f-41fd-adc1-e34d0bd9aa40
 * **ASIN:** B01EYVRFJY
 * **Author:** romikss

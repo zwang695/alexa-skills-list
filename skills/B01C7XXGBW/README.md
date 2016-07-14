@@ -16,7 +16,7 @@ This helps you or your students practice giving the capital city for each state.
 ### Skill Details
 
 * **Invocation Name:** state capitals
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7e602bb6-0427-4997-a134-123a512e704b
 * **ASIN:** B01C7XXGBW
 * **Author:** Rick's School Tools

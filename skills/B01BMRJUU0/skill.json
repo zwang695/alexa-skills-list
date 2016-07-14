@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "Get most recent financial market related top news headlines. We aggregate latest news postings from famous financial sites, such as Reuters, Market Watch, Wall Street Journal, CNBC and many other sources to provide you high coverages of financial information you need to know at any moment. The headlines may include some news beyond financial topics.\n\n\nMarket News logo designed by Starline, Freepik.",
   "enablement": null,
   "exampleInteractions": [

@@ -20,7 +20,7 @@ But, I think we all know that Chris should be president and this skill will help
 ### Skill Details
 
 * **Invocation Name:** president picker
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f0a119bc-1205-48ea-85f9-ff3bcac7e128
 * **ASIN:** B01CE5JOJQ
 * **Author:** casual5

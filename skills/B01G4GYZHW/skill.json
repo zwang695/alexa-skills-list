@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "this skill will be updated during the FootBall Euro Cup 2016.\nIt will give information about the teams during the cup.\nYou can ask groups and teams of the cup or the last or next match.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ With Demotivate Me you can access your subconcious's deepest and darkest thought
 ### Skill Details
 
 * **Invocation Name:** demotivate
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4f43b51a-4251-4d85-8a78-f6f437937624
 * **ASIN:** B018EVHE28
 * **Author:** TsaTsaTzu

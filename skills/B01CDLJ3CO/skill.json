@@ -4,7 +4,7 @@
   "averageRating": 4.4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Currently, you can find out the alert status on subway or commuter rail lines, as well as the Silver Line. You can also find out the realtime status of individual trains. Bus information will be in a future update.",
   "enablement": null,
   "exampleInteractions": [

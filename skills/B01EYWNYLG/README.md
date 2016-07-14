@@ -16,7 +16,7 @@ Challenge yourself with some simple addition.
 ### Skill Details
 
 * **Invocation Name:** mental math
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.745bb29f-70c2-4366-8c76-c3c04b454717
 * **ASIN:** B01EYWNYLG
 * **Author:** kg2s

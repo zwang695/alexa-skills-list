@@ -16,7 +16,7 @@ Apollo, the god of music, will share music related facts and let you know who ar
 ### Skill Details
 
 * **Invocation Name:** apollo
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6d0a12d6-8770-4f92-baee-7232bdfe1962
 * **ASIN:** B018YKKWKK
 * **Author:** BEL Coding

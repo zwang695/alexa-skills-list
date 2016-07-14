@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Ask Alexa for a random science fact! Alexa can provide you with science facts that will blow your mind! Impress your friends with your science knowledge!\n\nSimply say: \"Alexa, open SciGuy!\"\n\nOver 100 crazy facts! New facts added weekly!",
   "enablement": null,
   "exampleInteractions": [

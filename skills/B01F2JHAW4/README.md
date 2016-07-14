@@ -16,7 +16,7 @@ This skill generates a random fact about "30 Rock" an NBC Universal show. The us
 ### Skill Details
 
 * **Invocation Name:** thirty rockefeller trivia
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.afa29a03-7d1b-4e43-850d-95c302e91a22
 * **ASIN:** B01F2JHAW4
 * **Author:** theruraljuror

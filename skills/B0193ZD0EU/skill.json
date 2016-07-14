@@ -4,7 +4,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "This skill tells you a dog fact",
   "enablement": null,
   "exampleInteractions": [

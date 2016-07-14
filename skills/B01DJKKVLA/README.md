@@ -16,7 +16,7 @@ This is a challenging trivia game that asks questions about different college ba
 ### Skill Details
 
 * **Invocation Name:** march madness trivia
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9be8bed4-7e49-455b-b3cc-f711cc89c781
 * **ASIN:** B01DJKKVLA
 * **Author:** Drawrz.com

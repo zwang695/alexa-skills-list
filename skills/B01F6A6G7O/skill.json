@@ -8,7 +8,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Social",
+  "category": null,
   "description": "Start with, 'Alexa, tell family history for me.' then drill back into your family history by saying, 'Father', 'Mother', 'Spouse', or 'Child'.  Requires a FamilySearch account available free at FamilySearch.org.  All data is retrieved from FamilySearch if something doesn't sound correct please correct the data at FamilySearch.org.\n\nSample Utterances:\n\nTo repeat the last persons you can say:\n repeat\n again\n say that again\n\nTo start or return to you, you can say:\n me\n for me\n start over\n\nTo hear about the persons father you cay say:\n father\n for father\n\nTo hear about the persons mother you cay say:\n mother\n for mother\n\nTo hear about the persons spouse you cay say:\n spouse\n for spouse\n\nTo hear about the persons child you cay say:\n child\n for child",
   "enablement": null,
   "exampleInteractions": [

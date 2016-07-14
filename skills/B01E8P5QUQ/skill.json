@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "Costa Rica news will get you the latest news from Costa Rica in english, all the information comes from local trusted sources like newspapers such as: the tico times and the Star of Costa Rica, among others. You'll get the news as soon as they're published, all you have to do is enable the skill and say open \"Costa Rica News\". These feeds are already free. More sources coming...",
   "enablement": null,
   "exampleInteractions": [

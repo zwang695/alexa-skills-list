@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Alexa will say a color for you to repeat, then two then three, all the way to ten colors. If you can remember them all you win. Every time you play a new game she will give you a different mix of colors, so each game is different.",
   "enablement": null,
   "exampleInteractions": [

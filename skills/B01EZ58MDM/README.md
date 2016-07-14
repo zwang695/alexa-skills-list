@@ -16,7 +16,7 @@ A skill that tells the user random facts about computers and computer programmin
 ### Skill Details
 
 * **Invocation Name:** computer facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7c8a9825-72c0-4344-a9af-01e3aa7069e3
 * **ASIN:** B01EZ58MDM
 * **Author:** Michael Medis

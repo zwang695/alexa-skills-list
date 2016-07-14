@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "The latest technology news and information on startups.",
   "enablement": null,
   "exampleInteractions": [

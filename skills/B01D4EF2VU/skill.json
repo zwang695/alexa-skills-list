@@ -4,7 +4,7 @@
   "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Cricket Quiz!!\nGive a shout to Alexa and say \"Alexa, ask cricket quiz\".\nWhich famous ground hosted the historic tied test between India and Australia in 1986?\n             1. MA Chidambaram Stadium (Chepauk), Chennai\"\n             2. M Chinnaswamy Stadium, Bangalore\n             3. Eden Gardens, Kolkata\n             4. Feroz Shah Kotla Grounds, Delhi\nSay the number of answer you think is correct.",
   "enablement": null,
   "exampleInteractions": [

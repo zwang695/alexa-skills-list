@@ -16,7 +16,7 @@ Ask this skill for a fact, and it will return a trigonometric identity from an i
 ### Skill Details
 
 * **Invocation Name:** trig identities
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5944410f-7e71-495c-8147-417df3ead251
 * **ASIN:** B01GDSJ4L8
 * **Author:** Jackie Scholl

@@ -16,7 +16,7 @@ Have at you, knave! The Angry Bard skill is ready to throw barbs from the Bard a
 ### Skill Details
 
 * **Invocation Name:** angry bard
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f30f1c78-71d6-4a85-bb92-6cb1dfc36c78
 * **ASIN:** B017OBNX7Y
 * **Author:** LME Skills

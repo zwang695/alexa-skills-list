@@ -16,7 +16,7 @@ Learn about the interesting country called Australia. Why are the koala's dying?
 ### Skill Details
 
 * **Invocation Name:** aussie fact
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7f9f1b10-4482-42ed-b4f4-d3cb5163d675
 * **ASIN:** B01DSMSY7C
 * **Author:** Braiden Judd

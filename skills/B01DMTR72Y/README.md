@@ -18,7 +18,7 @@ Alexa will respond with "Here's your Sweden fact: ..."
 ### Skill Details
 
 * **Invocation Name:** safety swede
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.72182b68-0f68-44d5-bf62-99c994094960
 * **ASIN:** B01DMTR72Y
 * **Author:** AnnTG

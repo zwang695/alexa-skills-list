@@ -20,7 +20,7 @@ If you ever feel like you need a little pick me up then you need your own magic 
 ### Skill Details
 
 * **Invocation Name:** mirror mirror on the wall
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ec71c2fe-23c0-43c5-a8f5-ef0264cc91f7
 * **ASIN:** B017OBQBIC
 * **Author:** Possibility Outpost

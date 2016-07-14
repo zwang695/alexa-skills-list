@@ -4,7 +4,7 @@
   "averageRating": 4.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "You can quickly check if a character is still alive in the book series A Song of Ice and Fire.  The hit HBO show Game of Thrones is based on the book series, though a character may be dead in the TV show and not in the books or vice versa.  \n\nNot affiliated with the books or TV series in any way.",
   "enablement": null,
   "exampleInteractions": [

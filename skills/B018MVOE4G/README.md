@@ -18,7 +18,7 @@ If you tell Alexa's sassy persona to stick around, it will respond to several qu
 ### Skill Details
 
 * **Invocation Name:** sassy persona
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.683cf809-583c-4f4b-a2da-7703623d97f6
 * **ASIN:** B018MVOE4G
 * **Author:** Jason Wang

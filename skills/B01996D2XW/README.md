@@ -16,7 +16,7 @@ The Ask 7Sigma skill combines data from multiple sources to provide you with a c
 ### Skill Details
 
 * **Invocation Name:** seven sigma
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fb62f530-c247-4bc8-a89d-b0d7367baca4
 * **ASIN:** B01996D2XW
 * **Author:** 7Sigma Systems Dev

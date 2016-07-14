@@ -16,7 +16,7 @@ This is a short, quiz about corgis. If you have a corgi, you may enjoy this quiz
 ### Skill Details
 
 * **Invocation Name:** corgi quiz
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.af3fa906-7ada-49bc-83ad-d232c8c347e6
 * **ASIN:** B01E54UK88
 * **Author:** Modern Major General

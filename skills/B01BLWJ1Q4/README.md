@@ -16,7 +16,7 @@ Now you can control your SkyBell HD video doorbell with Alexa and the Amazon Ech
 ### Skill Details
 
 * **Invocation Name:** skybell
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0dd1fcd6-d11e-4a48-af61-ceb366c03f50
 * **ASIN:** B01BLWJ1Q4
 * **Author:** SkyBell Technologies, Inc.

@@ -16,7 +16,7 @@ This skill gives you a quote by Steve Jobs.  This skill is a tribute to Steve Jo
 ### Skill Details
 
 * **Invocation Name:** steve jobs quotes
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e5319c52-e413-497b-b6e1-737c8c161376
 * **ASIN:** B01E6QENNS
 * **Author:** Brian Tsai

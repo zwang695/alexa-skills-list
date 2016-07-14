@@ -4,7 +4,7 @@
   "averageRating": 3.1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Social",
+  "category": null,
   "description": "Get a fortune cookie, read to you and receive your own Mega Millions or Powerball numbers.",
   "enablement": null,
   "exampleInteractions": [

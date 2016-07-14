@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Star Trek Facts for Trekkies, find interesting facts about your favorite Star Trek series.  This skill provides trivia facts across all of the series and will be updated periodically with new facts.",
   "enablement": null,
   "exampleInteractions": [

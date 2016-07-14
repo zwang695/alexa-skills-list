@@ -16,7 +16,7 @@ Random facts about computers and history.
 ### Skill Details
 
 * **Invocation Name:** computer facts
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b62d4f71-3a07-4dc9-9b12-d938b51be269
 * **ASIN:** B01FOUPBF4
 * **Author:** London Technology Services 

@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Test your Bible knowledge! Ask Alexa to play Bible Trivia and you will get 5 questions to answer by giving the answer. A quick fun way to test and build your knowledge of the Bible.",
   "enablement": null,
   "exampleInteractions": [

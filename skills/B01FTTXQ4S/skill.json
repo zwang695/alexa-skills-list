@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This skill was built for Kirkland Middle School for the STEM event. If you want to see the facts we collected, simply say \"Alexa, Open stem night\" to have a random fact collected during the evening read to you by Alexa.",
   "enablement": null,
   "exampleInteractions": [

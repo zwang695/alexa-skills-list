@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "MARA is a skill for interacting with the MARA Running Assistant app - a hands-free voice-controlled virtual assistant for exercise and outdoor activities. MARA is a running assistant that will support and coach you when you exercise. She will let you focus on your run while she will focus on meeting your needs.  To get started, open the MARA Running Assistant app on your iPhone and go to the Settings tab.  Then tap on Amazon Echo settings.",
   "enablement": null,
   "exampleInteractions": [

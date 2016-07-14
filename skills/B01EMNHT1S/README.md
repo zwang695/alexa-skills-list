@@ -18,7 +18,7 @@ Streambot on Twitch allows Alexa to help you discover featured streams from Twit
 ### Skill Details
 
 * **Invocation Name:** streambot
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.758c8bd1-cc18-4663-a1ca-65ab7020c586
 * **ASIN:** B01EMNHT1S
 * **Author:** Alex Yu

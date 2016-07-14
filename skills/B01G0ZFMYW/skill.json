@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "get fibonacci numbers starting from 1 up to number specified",
   "enablement": null,
   "exampleInteractions": [

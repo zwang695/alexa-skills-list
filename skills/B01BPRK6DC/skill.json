@@ -4,7 +4,7 @@
   "averageRating": 4.1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Before you travel, its good to know if your journey might be affected by delays on public transportation. With The Tube for Amazon Echo, you can ask for the latest status or all London Underground lines, or a particular line. You'll hear if there's good service, minor delays, severe delays or any line suspensions.\n\nPowered by TfL Open Data.",
   "enablement": null,
   "exampleInteractions": [

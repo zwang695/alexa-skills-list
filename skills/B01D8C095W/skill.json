@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "The original ELIZA was described by Joseph Weizenbaum in Communications of the ACM in January 1966. ELIZA was one of the first programs that attempted to communicate in natural language. The article was an attempt to demystify the behavior of the program, and included a detailed description of the program. ELIZA is based on a \"script\" consisting of patterns and corresponding responses. An appendix to the article contained the complete script for the Rogerian psychologist. I used the same script.\n\nThanks to Charles Hayden for the Java code that I modified for my use. \n\nhttp://www.chayden.net/Index.shtml",
   "enablement": null,
   "exampleInteractions": [

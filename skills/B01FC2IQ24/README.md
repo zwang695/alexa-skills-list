@@ -22,7 +22,7 @@ This content is user generated and may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** life pro tips
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.39e08b4e-ad67-4817-8cd1-b6f05f1afeb0
 * **ASIN:** B01FC2IQ24
 * **Author:** Sterian Associates

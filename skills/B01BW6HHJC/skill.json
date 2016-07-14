@@ -4,7 +4,7 @@
   "averageRating": 4.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Open our Powerball Number Generator skill and Alexa will help choose a random selection of numbers for your ticket.\n\nYou can also ask \"Alexa ask Powerball helper for last lottery numbers\" and this will return the latest winning numbers!\n\nAs this skill is used to generate lottery numbers, this skill may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [

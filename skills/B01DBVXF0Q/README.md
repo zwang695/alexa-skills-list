@@ -18,7 +18,7 @@ This skill is for fun and informal education purposes only, always verify what y
 ### Skill Details
 
 * **Invocation Name:** doctor bones
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2939ff81-102b-4be7-8c98-73681856663b
 * **ASIN:** B01DBVXF0Q
 * **Author:** Kevin Crowe

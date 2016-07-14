@@ -16,7 +16,7 @@ This skill allows users to ask Stone Ridge School for the menu for a given day. 
 ### Skill Details
 
 * **Invocation Name:** stone ridge food
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f6f4f385-5119-4bbe-847e-b17cb98122eb
 * **ASIN:** B01AS5F902
 * **Author:** Joe McMahon

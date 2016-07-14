@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "Boost your indie credibility with interesting facts about your favorite bands. Although, I bet you knew all of this information before these bands were cool.",
   "enablement": null,
   "exampleInteractions": [

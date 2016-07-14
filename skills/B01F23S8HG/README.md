@@ -18,7 +18,7 @@ Located in room 012 of the Atrium in the Mary Idema Pew Library Learning and Inf
 ### Skill Details
 
 * **Invocation Name:** tech showcase
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a318ff37-7332-4a87-acfa-acba00f87d09
 * **ASIN:** B01F23S8HG
 * **Author:** smprof

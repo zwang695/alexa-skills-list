@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Top r/News Post for Reddit icon" width="36"> [Top r/News Post for Reddit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5787cdfe-2892-42a9-8f8a-ed6b520b3e45)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Top r/News Post for Reddit skill, try saying...
 
@@ -28,7 +28,7 @@ This app contains user generated content, and may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** sub reddit news
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5787cdfe-2892-42a9-8f8a-ed6b520b3e45
 * **ASIN:** B01F5EP4AQ
 * **Author:** Sterian Associates

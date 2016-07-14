@@ -22,7 +22,7 @@ If you like this skill, check out Next Pass on the iTunes App Store.
 ### Skill Details
 
 * **Invocation Name:** shadow roller
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.74af6e0b-1f7c-45d6-8a72-47f9091185c7
 * **ASIN:** B01GB08DI8
 * **Author:** Eiger Tech LLC

@@ -4,7 +4,7 @@
   "averageRating": 1.9,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Perfect Pitch plays a major scale musical note for you to identify. The scale starts at middle C.",
   "enablement": null,
   "exampleInteractions": [

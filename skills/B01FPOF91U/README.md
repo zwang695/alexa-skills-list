@@ -16,7 +16,7 @@ This skill enables your Alexa to tell you about special daily sales from CorkOrn
 ### Skill Details
 
 * **Invocation Name:** cork ornaments
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b5a5f9f4-0c84-4105-a7a5-fc46ef0488dc
 * **ASIN:** B01FPOF91U
 * **Author:** CraftyC

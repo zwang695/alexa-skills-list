@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "The Cloud Ninja skill is your guide to Amazon Web Services.  It will keep you up to date on announcements from AWS (What's New!), tell you more about individual AWS services (Tell me about AWS Lambda), and will accept your feedback and suggestions on what things you think should be added to the skill (Learn something new).",
   "enablement": null,
   "exampleInteractions": [

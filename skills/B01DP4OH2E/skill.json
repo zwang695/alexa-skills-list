@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "Find out the best movies ever. You will find out movies from 1930 onwards, you can hear the title, summary, actors and publication date. You will be able to query by year or range of years, and say how to hear the results.",
   "enablement": null,
   "exampleInteractions": [

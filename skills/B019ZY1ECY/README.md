@@ -16,7 +16,7 @@ We heard you!  Ask Fidelity will now get you a market update along with quote in
 ### Skill Details
 
 * **Invocation Name:** fidelity
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.40545600-0082-4ed2-bf03-09b44dabb6c3
 * **ASIN:** B019ZY1ECY
 * **Author:** Fidelity Investments

@@ -26,7 +26,7 @@ where is (a / an / the) ...
 ### Skill Details
 
 * **Invocation Name:** bellingham activities
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8309e3e0-ec80-43b9-836e-0acaf13c9111
 * **ASIN:** B01FOULPX6
 * **Author:** BlueDev

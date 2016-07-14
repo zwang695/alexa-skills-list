@@ -30,7 +30,7 @@ During the time that Alexa is reading back the movies and showtimes, the user ca
 ### Skill Details
 
 * **Invocation Name:** loft cinema
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bdfed8d0-1018-4d3b-83f7-5b8bc208f9fb
 * **ASIN:** B01BH5Y59S
 * **Author:** SMD Solutions

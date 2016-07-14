@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This quiz will give seven quotes from candidates for the 2016 presidential election, including some from those who have already dropped out. Some are about policy while others are a bit random, but the ultimate goal of this game is to have some fun in a troubled political climate.",
   "enablement": null,
   "exampleInteractions": [

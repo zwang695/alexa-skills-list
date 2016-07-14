@@ -51,7 +51,7 @@ Within the skill you can say "help" at any time for more information on how to u
 ### Skill Details
 
 * **Invocation Name:** lyrical
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5e0c4582-b163-4a9a-a2cb-53dc9a6ea5a9
 * **ASIN:** B01BUAI7GM
 * **Author:** Caleb

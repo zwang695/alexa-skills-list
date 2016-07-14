@@ -16,7 +16,7 @@ A simple skill, Alexa will give you a random number between 1 and 100. Useful fo
 ### Skill Details
 
 * **Invocation Name:** random number
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.318f7156-90e8-44c6-bd06-064a79848db9
 * **ASIN:** B01AB0IK96
 * **Author:** Michael James

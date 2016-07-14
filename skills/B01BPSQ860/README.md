@@ -20,7 +20,7 @@ It will also tell you how much the price has changed over the last 24 hours so y
 ### Skill Details
 
 * **Invocation Name:** my crypto
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.81d581f1-cf3f-43e6-97b3-e8e47ce7cec8
 * **ASIN:** B01BPSQ860
 * **Author:** DynaSolve

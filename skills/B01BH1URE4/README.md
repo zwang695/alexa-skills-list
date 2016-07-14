@@ -16,7 +16,7 @@ New features are being added, so please stay tuned.
 ### Skill Details
 
 * **Invocation Name:** challenge memory
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8431aa0b-1be9-40bc-b59f-49830d18d968
 * **ASIN:** B01BH1URE4
 * **Author:** 王超

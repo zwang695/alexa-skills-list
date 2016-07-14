@@ -20,7 +20,7 @@ You may also ask Alexa to turn ON or OFF the lights on the Foobot device when go
 ### Skill Details
 
 * **Invocation Name:** foo bot
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dcfcc59e-a9f7-41ce-b01b-63be887723d1
 * **ASIN:** B01G5ZF0P8
 * **Author:** Airboxlab

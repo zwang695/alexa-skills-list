@@ -16,7 +16,7 @@ Knock, knock! Who's there? Only the best collection of knock-knock jokes for the
 ### Skill Details
 
 * **Invocation Name:** knock knock
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d16e6ade-ebd2-493a-b37a-7b7b2425bd66
 * **ASIN:** B017OBL60U
 * **Author:** TsaTsaTzu

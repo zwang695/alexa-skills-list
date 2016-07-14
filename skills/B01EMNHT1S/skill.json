@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Streambot on Twitch allows Alexa to help you discover featured streams from Twitch.tv! You can ask for some currently featured streams and it will read them to you. You can also ask for the top streams for a specific game by viewers.\n\n*This is a fan made skill and not associated with Twitch.tv",
   "enablement": null,
   "exampleInteractions": [

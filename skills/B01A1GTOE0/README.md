@@ -14,7 +14,7 @@ This is a simple skill which allows the user to query the status of the New York
 ### Skill Details
 
 * **Invocation Name:** subway
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.feb967ee-1f82-43fb-9b17-0e49f15c80fe
 * **ASIN:** B01A1GTOE0
 * **Author:** James Vautin

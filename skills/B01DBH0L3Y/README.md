@@ -16,7 +16,7 @@ Cat Genius will tell you so many interesting bits of information about your fami
 ### Skill Details
 
 * **Invocation Name:** cat genius
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2b5a7dd7-fd8c-4623-a076-456b6d1c5b0b
 * **ASIN:** B01DBH0L3Y
 * **Author:** BrownDog Tech

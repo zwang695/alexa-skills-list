@@ -16,7 +16,7 @@ Test basic understanding of everyday physics. The things you touch, see or perce
 ### Skill Details
 
 * **Invocation Name:** physics quiz
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.38976c65-4b2f-4d4b-b956-40b22e180982
 * **ASIN:** B01CRMMSJ4
 * **Author:** Kids game area

@@ -16,7 +16,7 @@ Richmond, Virginia is historically important in United State's history.  It was 
 ### Skill Details
 
 * **Invocation Name:** richmond game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3192747d-c299-4fde-948c-b592baedc629
 * **ASIN:** B01EW9VZBC
 * **Author:** Tom Hubbard

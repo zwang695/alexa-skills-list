@@ -16,7 +16,7 @@ Do your kids love to talk like a baby? Baby Lexi will answer any question in bab
 ### Skill Details
 
 * **Invocation Name:** baby
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3769faed-180d-4529-be58-405aad460869
 * **ASIN:** B01CSJVGJE
 * **Author:** Hand Labs

@@ -18,7 +18,7 @@ You know how, sometimes, a nice word in the morning is all it takes to set your 
 ### Skill Details
 
 * **Invocation Name:** complibot
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cb3e2030-f6a7-43f3-83da-164cccd07896
 * **ASIN:** B01AVKM8NU
 * **Author:** DERP Group

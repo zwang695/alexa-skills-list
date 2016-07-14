@@ -16,7 +16,7 @@ Sometimes we need validation for the answers we already know the answers to. Ale
 ### Skill Details
 
 * **Invocation Name:** tough questions
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.90983d51-f445-47ec-a196-ba6cba2b2c70
 * **ASIN:** B01FOX6Y4I
 * **Author:** BLT Robotics

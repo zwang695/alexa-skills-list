@@ -18,7 +18,7 @@ The skill will then read back the prime or normal form of the pitch class set th
 ### Skill Details
 
 * **Invocation Name:** p. c. set calculator
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.99f3bebb-dea2-4857-93cf-8df789497dc2
 * **ASIN:** B01G1CXCDM
 * **Author:** Alex Worland Inc.

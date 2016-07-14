@@ -4,7 +4,7 @@
   "averageRating": 4.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This skill allows you to play blackjack, also known as 21, with The Echo as the dealer. You can ask her to \"deal\", and then \"hit\" or \"stand\" as the cards fall. Win or lose, your fate is remembered. You can check your score to see if you are winning more than you are losing. If you are unsure if it is wise to make a play, you can ask for \"advice\".\nGeneral casino rules are used. But if you want to know specifics, you can ask for \"rules\" to get a full description. (They are a bit long, so remember that you can say \"Alexa stop\" to interrupt and get on with the game!)",
   "enablement": null,
   "exampleInteractions": [

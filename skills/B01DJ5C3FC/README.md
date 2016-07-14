@@ -16,7 +16,7 @@ Test your knowledge of cyber security, while learning best security practices to
 ### Skill Details
 
 * **Invocation Name:** security quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2e4d5e34-b1b3-4c0e-bb61-2a4367971107
 * **ASIN:** B01DJ5C3FC
 * **Author:** vamc

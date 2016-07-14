@@ -4,7 +4,7 @@
   "averageRating": 1.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "This skills allows the end user to ask about any recipe, we are currently curating our recipe database with over 50+ recipes. This skill will allow the user to ask about almost any information from our cookbook of recipe and be able to get a detailed info back\n\n- How to Cook\n\n- Steps to cook\n\n- Ingredients of the recipe\n\netc",
   "enablement": null,
   "exampleInteractions": [

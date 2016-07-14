@@ -22,7 +22,7 @@ my answer is one (or two, three, four)
 ### Skill Details
 
 * **Invocation Name:** capital city games
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ac9ccf56-5be2-4923-867c-e25d31413f01
 * **ASIN:** B01GDE1FZK
 * **Author:** Sofia Tania

@@ -4,7 +4,7 @@
   "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Have Alexa help you figure out if you remembered to do everything you need to do before you leave the house. Did you remember your keys? How about your wallet? And did you turn the oven off so your house won't be filled with smoke when you come back?",
   "enablement": null,
   "exampleInteractions": [

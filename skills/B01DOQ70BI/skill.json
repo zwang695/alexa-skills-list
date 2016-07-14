@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "[DISCLAIMER]This skill may not be suitable for all ages.\nIt simply pick up a random quote from a list of predefined quotes from Tarantino's movies.\nThe list will be upgraded.",
   "enablement": null,
   "exampleInteractions": [

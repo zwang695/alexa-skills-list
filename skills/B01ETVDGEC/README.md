@@ -18,7 +18,7 @@ More facts will be added every few weeks. If you have a fact that you would like
 ### Skill Details
 
 * **Invocation Name:** u. s. parks
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3e11b0d7-d067-4e38-b340-e238bca2acc5
 * **ASIN:** B01ETVDGEC
 * **Author:** Ten10 Digital

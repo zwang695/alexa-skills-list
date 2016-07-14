@@ -16,7 +16,7 @@ Perfect Pitch plays a major scale musical note for you to identify. The scale st
 ### Skill Details
 
 * **Invocation Name:** perfect pitch
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.aafc2f6e-acf6-4ef3-8a88-177e3b823347
 * **ASIN:** B019HTWWW8
 * **Author:** Navzilla

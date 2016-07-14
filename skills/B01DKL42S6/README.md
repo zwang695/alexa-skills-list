@@ -18,7 +18,7 @@ The game will last for a total of 5 questions.
 ### Skill Details
 
 * **Invocation Name:** potter trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4a4131d1-ea4b-43ab-b905-9b4eb14cff92
 * **ASIN:** B01DKL42S6
 * **Author:** jkepps

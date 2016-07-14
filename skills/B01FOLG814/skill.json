@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Ask for a health check of the PC6 API.",
   "enablement": null,
   "exampleInteractions": [

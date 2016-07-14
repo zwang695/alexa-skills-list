@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Gives you a chance to show how much you know about sci fi movies and tv shows.  Very short and restricted.  I am trying to learn about using Alexa skill writing.",
   "enablement": null,
   "exampleInteractions": [

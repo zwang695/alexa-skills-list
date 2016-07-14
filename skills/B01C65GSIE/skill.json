@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This skill uses the power of the Google Knowledge Graph API to find information about anyone or anything. Some types of entities that you can ask about include Books, Book Series, Events, Movies, Music Recordings, Periodicals, Sports Teams, TV Series, Video games and Websites etc.\n\nYou can also launch the skill using \"Alexa, launch <drop some knowledge>\", and interact with the skill subsequently.",
   "enablement": null,
   "exampleInteractions": [

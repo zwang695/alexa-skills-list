@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Coin Flip is your voice activated virtual decision maker! Call \"heads\" or \"tails\" then ask Coin Flip to flip it and our proprietary algorithm voices the outcome.\n\nNo account necessary. Works on all Alexa-enabled devices.",
   "enablement": null,
   "exampleInteractions": [

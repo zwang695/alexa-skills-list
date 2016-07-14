@@ -17,7 +17,7 @@ The information is provided by whoismyrepresentative.com.
 ### Skill Details
 
 * **Invocation Name:** government official finder
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0e8472fb-2d51-4a19-abf9-78ddcb0e8958
 * **ASIN:** B01F616740
 * **Author:** Preferred Plus Investments

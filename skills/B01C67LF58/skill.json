@@ -4,7 +4,7 @@
   "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Want to know the current weather information or flight rules for a particular airport?  Just ask Aviation Weather!  You'll get the airports' current detailed METAR or the current Flight Category (VFR, MVFR, IFR, LIFR)  depending on what you ask for.",
   "enablement": null,
   "exampleInteractions": [

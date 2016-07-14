@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Improve your knowledge of physics with this free helpful trivia game. Alexa will ask you a question and give you four answers to choose from. Say the number that corresponds to that answer choice. If you don't know the answer to a question, no worries! You can tell Alexa \"I don't know\" and she'll tell you the answer and move on to the next question. There are three questions per game. Remember to have fun.",
   "enablement": null,
   "exampleInteractions": [

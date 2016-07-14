@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "In keeping with the heritage of the Navy this skill will let you know the significant events from US Naval history that occurred today.",
   "enablement": null,
   "exampleInteractions": [

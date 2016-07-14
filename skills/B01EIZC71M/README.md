@@ -16,7 +16,7 @@ Aren't sure if the dishes in your dishwasher are clean or dirty? Ask Alexa! She'
 ### Skill Details
 
 * **Invocation Name:** the dishwasher
-* **Category:** Connected-Home
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.37bb2840-a825-4953-b414-6c607012feb6
 * **ASIN:** B01EIZC71M
 * **Author:** Chris Becker

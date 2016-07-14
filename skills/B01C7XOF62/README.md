@@ -18,7 +18,7 @@ Have fun!!!! New questions will be added.
 ### Skill Details
 
 * **Invocation Name:** wizard
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.93f95a5e-1b50-44b1-b7a0-be8d09a58fd9
 * **ASIN:** B01C7XOF62
 * **Author:** Keep It simple

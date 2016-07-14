@@ -4,7 +4,7 @@
   "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "The cost to have a one-on-one speech therapist section is expensive (Average cost $150-200 per hour). With Alexa who speaks perfect American English, correcting your foreign accent and improving your speaking can now be both affordable and fun! Users can start the skill saying \"Alexa, doctor speech\" and they can choose one of the three categories to practice on which are nouns, verbs or adjectives. They can change which category they wish to practice during the lesson and they can end the lesson by saying No or Canel when Alexa asks if they want to continue the lesson.",
   "enablement": null,
   "exampleInteractions": [

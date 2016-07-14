@@ -16,7 +16,7 @@ Game Geek is a fun little skill based off the Space Geek template. It will build
 ### Skill Details
 
 * **Invocation Name:** game geek
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.89580cc5-b617-4db9-b180-0d141100eec4
 * **ASIN:** B01FOJ4ZWU
 * **Author:** Ethan Falck

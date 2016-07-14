@@ -26,7 +26,7 @@ Denver
 ### Skill Details
 
 * **Invocation Name:** basket
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a54413d0-0f60-43ff-8274-d9ca923c48c2
 * **ASIN:** B01BPT2U2U
 * **Author:** Mass Clarity, Inc.

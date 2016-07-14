@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "BUILTR Labs is the voice of innovation for the built environment. The BUILTR Daily delivers daily news headlines covering technology and innovation in Architecture, Engineering, and Construction. We introduce the new innovative technologies, companies and exceptional people that are changing our world for the better. We facilitate conversations about how to improve the built world we live in. With this skill, the Amazon Echo can read the headlines from the BUILTR Daily news update. Join thousands of subscribers following innovation as it relates to the built environment. Subscribe to the full online newsletter at http://www.builtr.io.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "This skill asks for your zipcode and then can convert it to latitude and longitude. It uses Google's maps api to make the conversion",
   "enablement": null,
   "exampleInteractions": [

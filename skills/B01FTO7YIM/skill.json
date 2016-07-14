@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This skill offers the ability quickly get information about elements on the periodic table. You can ask for an element by either name or symbol, and the Chemistry Professor will know what you're looking for. So if you can't remember which element Na is or what the symbol for potassium is, just ask the Chemistry Professor for a reminder.",
   "enablement": null,
   "exampleInteractions": [

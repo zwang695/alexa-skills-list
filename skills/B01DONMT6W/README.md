@@ -22,7 +22,7 @@ Play by yourself, or compete against friends to see who really knows all things 
 ### Skill Details
 
 * **Invocation Name:** trivia on middle earth
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.037e6548-2ee3-45ef-b5c3-452acb0c5f7d
 * **ASIN:** B01DONMT6W
 * **Author:** NoSleepNick

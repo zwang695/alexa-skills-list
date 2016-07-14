@@ -14,7 +14,7 @@ When you have Alexa ask Christopher for an airplane fact Alexa will randomly cho
 ### Skill Details
 
 * **Invocation Name:** christopher
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bcea004c-8715-48f6-a531-80cfa38dec7c
 * **ASIN:** B01CE4JDSE
 * **Author:** Steve Wagner

@@ -17,7 +17,7 @@ Test your skills with JavaScript Quiz!
 ### Skill Details
 
 * **Invocation Name:** javascript quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.05b22e33-4166-4735-a790-7c65bff2275a
 * **ASIN:** B01B5EHA4I
 * **Author:** Coops

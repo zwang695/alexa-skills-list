@@ -16,7 +16,7 @@ Test your knowledge of the Masters tournament. See if you can recall past champi
 ### Skill Details
 
 * **Invocation Name:** the masters trivia
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fffe5f45-4424-4c01-851c-420159ac305e
 * **ASIN:** B01DOVQID4
 * **Author:** Jack Middlebrook

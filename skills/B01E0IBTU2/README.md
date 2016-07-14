@@ -16,7 +16,7 @@ With this skill, you can easily find out what is for breakfast or lunch at any s
 ### Skill Details
 
 * **Invocation Name:** henrico county schools
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dec6afe2-d4cd-49f1-b94b-22a51f361a08
 * **ASIN:** B01E0IBTU2
 * **Author:** Hayden Quinn, LLC

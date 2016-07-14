@@ -16,7 +16,7 @@ The user may get started by asking Alexa to "open species trivia" and the game w
 ### Skill Details
 
 * **Invocation Name:** species trivia
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.377840be-2dca-4a08-9a7c-977b6504b677
 * **ASIN:** B01FOLXF9M
 * **Author:** N_Maj

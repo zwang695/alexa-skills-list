@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "You will need bluplayer (http://bluplayer.net) to be launched on your PC to be able control you Bluesound HiFi system with your voice. You can start/stop player, skip songs, etc.",
   "enablement": null,
   "exampleInteractions": [

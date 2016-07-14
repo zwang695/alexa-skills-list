@@ -18,7 +18,7 @@ Audio comprehension narratives come in the following categories: happy, sad, sil
 ### Skill Details
 
 * **Invocation Name:** hutch
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a8f456c9-52a9-4819-a3d4-131823f18abe
 * **ASIN:** B01E6FWOS0
 * **Author:** Hutch

@@ -4,7 +4,7 @@
   "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Voice interactive game to test and improve your Harry Potter knowledge!\n\nAsk Alexa to launch Harry Potter Trivia to begin! Alexa will ask you questions and give you answer options. Respond by giving the number of the correct answer. \n\nQuestion difficulty ranges from simple facts anyone could know to challenging trivia for hardcore fans. More questions will be added over time.\n\nFeedback and reviews welcome! Thank you for playing.",
   "enablement": null,
   "exampleInteractions": [

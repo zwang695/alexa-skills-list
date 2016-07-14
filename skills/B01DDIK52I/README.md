@@ -16,7 +16,7 @@ Save your home 'L' station and Alexa will help you leave home in time to catch t
 ### Skill Details
 
 * **Invocation Name:** c. t. a. tracker
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d9c48e07-6b2f-4337-af5b-529847cf1dc6
 * **ASIN:** B01DDIK52I
 * **Author:** Jack Carter Industries

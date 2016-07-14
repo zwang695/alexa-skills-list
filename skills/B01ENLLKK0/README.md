@@ -20,7 +20,7 @@ It is a great and informative facts skill about meditation and its importance re
 ### Skill Details
 
 * **Invocation Name:** meditation facts
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2d942aef-a6e9-49a0-849b-ef88738da913
 * **ASIN:** B01ENLLKK0
 * **Author:** Makarand Pande

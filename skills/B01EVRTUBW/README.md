@@ -19,7 +19,7 @@ Think you know all the answers? Play Trivial Trivia to find out and brag to your
 ### Skill Details
 
 * **Invocation Name:** trivial trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0d0658f2-978a-4551-9cf5-0e62a59ed063
 * **ASIN:** B01EVRTUBW
 * **Author:** PromptWorks

@@ -22,7 +22,7 @@ Alexa will respond with "Here's your pepper fact: ", and then give you a pepper 
 ### Skill Details
 
 * **Invocation Name:** chili pepper nut
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.94a84b02-8501-4736-ad6a-6cdbe739e76a
 * **ASIN:** B01DMFK7H0
 * **Author:** mine

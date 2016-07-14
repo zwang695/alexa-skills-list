@@ -16,7 +16,7 @@ Asks you some multiple choice questions about the Ruby language and Rails web fr
 ### Skill Details
 
 * **Invocation Name:** programming geek
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ca99492a-233c-4f19-b988-37fedefef161
 * **ASIN:** B01GDCHNF8
 * **Author:** Calvin Settachatgul

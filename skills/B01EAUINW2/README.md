@@ -24,7 +24,7 @@ You can find other resources for studying here: https://www.uscis.gov/citizenshi
 ### Skill Details
 
 * **Invocation Name:** immigration test
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.93b6ffbb-94da-4d49-9844-5a0287b9cfc5
 * **ASIN:** B01EAUINW2
 * **Author:** Alex Kerin

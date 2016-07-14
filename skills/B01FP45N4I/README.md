@@ -18,7 +18,7 @@ It doesn't need any input just start it!
 ### Skill Details
 
 * **Invocation Name:** quip master
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bf143349-78bb-468c-b1d6-0ee72afad7d3
 * **ASIN:** B01FP45N4I
 * **Author:** Ovc

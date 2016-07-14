@@ -4,7 +4,7 @@
   "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "TV Shows provides the time and network for the next episode of any TV show. Episode details including show summaries are also provided in the Alexa App.\n\nSupported phrases you can say include: \"When is American Idol on?\", \"What time is The Tonight Show?\", and \"When does The X-Files start?\".\n\nFor extended help and examples of using this skill, please visit http://gobbyapps.com.\n\nShow times are provided in ET/PT along with Central.\n\nShow episode data provided by the awesome http://tvmaze.com.",
   "enablement": null,
   "exampleInteractions": [

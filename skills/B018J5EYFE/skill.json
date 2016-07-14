@@ -4,7 +4,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "This skill generates a new Haiku poem every time you use it.",
   "enablement": null,
   "exampleInteractions": [

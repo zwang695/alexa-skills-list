@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "G. C. D. The greatest common divisor of 2 numbers.  Simply give Alexa 2 numbers and Alexa will respond with the largest number that divides both numbers.\n\nAfter opening the skill, Alexa with ask for two numbers.  For example, you can reply with '12 and 4', or say G. C. D. of 63 and 4'.\n\nOr you can say: Alexa, ask G. C. D. of 12 and 24 and the calculation will be performed, imediately..\n\nAfter Alexa responds with the answer, you will be asked: 'Any more numbers?'.  Then you can say '56 and 8'.  Please include the 'and' when telling numbers.  These were only examples of numbers you can use. Alexa can calculate the G. C. D. of any numbers greater than zero.\n\nYou can also respond with 'yes' or 'no'.  On 'no', Alexa with close the session, and 'yes' causes Alexa to ask for two numbers again.\n\nHINT: It is good to say 'and' between the numbers with a slight pause, this helps Alexa differentiate between number in a list.",
   "enablement": null,
   "exampleInteractions": [

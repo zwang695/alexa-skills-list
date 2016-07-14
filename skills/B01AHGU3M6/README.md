@@ -16,7 +16,7 @@ Ask Alexa to make the sounds of your favorite animals. She learns new animal sou
 ### Skill Details
 
 * **Invocation Name:** animal sounds
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b1d3107d-03c4-477e-8e4f-ecda428cb91d
 * **ASIN:** B01AHGU3M6
 * **Author:** Rain Labs

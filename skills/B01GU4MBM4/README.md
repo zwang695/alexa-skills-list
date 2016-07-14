@@ -38,7 +38,7 @@ Why Big Sky?  Because it's better weather.
 ### Skill Details
 
 * **Invocation Name:** big sky
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.06a72621-54b9-4767-a2e9-db3837fe9aae
 * **ASIN:** B01GU4MBM4
 * **Author:** Philosophical Creations

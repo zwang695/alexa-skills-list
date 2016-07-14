@@ -16,7 +16,7 @@ Enjoy a game of Bingo anytime you like! With the Bingo skill, Alexa will call th
 ### Skill Details
 
 * **Invocation Name:** bingo
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5f6ca563-0ee7-4f65-8586-028bc6e127d6
 * **ASIN:** B017OBN1FI
 * **Author:** LME Skills

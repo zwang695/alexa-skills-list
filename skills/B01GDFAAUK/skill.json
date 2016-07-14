@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Airport Info gives you flight delay information for US airports. Use FAA codes to specify airports. For example, you can say, \"Alexa, ask airport info for delay information at SFO.\" Alexa may answer, \"There is currently no delay at San Francisco International. The current weather conditions are Partly Cloudy, 69.0 F (20.6 C) and wind West at 19.6mph.\"\n\nAirport Info will not give you information about specific flights.",
   "enablement": null,
   "exampleInteractions": [

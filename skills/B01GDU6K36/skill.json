@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "A list of questions about Football trivia. Questions about positions, titles and statistics.  A challenging but fun for the whole family and test your football knowledge.",
   "enablement": null,
   "exampleInteractions": [

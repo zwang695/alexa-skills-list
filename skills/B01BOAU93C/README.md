@@ -22,7 +22,7 @@ After hearing the correct answer, you have the option to interrupt Alexa prior t
 ### Skill Details
 
 * **Invocation Name:** dino trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4c2dd0af-5526-42b2-87e4-31b8574809bd
 * **ASIN:** B01BOAU93C
 * **Author:** Sweet Technology

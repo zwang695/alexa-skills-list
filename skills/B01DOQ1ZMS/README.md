@@ -16,7 +16,7 @@ This skill gives facts from the 77 year history of the Tennessee Walking Horse. 
 ### Skill Details
 
 * **Invocation Name:** horse geek
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.67e96db6-7350-4c4d-b076-e078054c6606
 * **ASIN:** B01DOQ1ZMS
 * **Author:** IfElse

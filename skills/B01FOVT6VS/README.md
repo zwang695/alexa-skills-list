@@ -29,7 +29,7 @@ Thanks and keep on tracking!
 ### Skill Details
 
 * **Invocation Name:** chicago bus stop
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.15cd6446-c64f-48c7-a8ff-d030df342380
 * **ASIN:** B01FOVT6VS
 * **Author:** SG Technologies

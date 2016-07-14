@@ -22,7 +22,7 @@ Game Tip; Alexa struggles a bit hearing the letter "E." So when you want to gues
 ### Skill Details
 
 * **Invocation Name:** hangman
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9fa9f794-7477-4f10-b1fa-f0fb62fa31bb
 * **ASIN:** B01ED658W6
 * **Author:** Skillsai

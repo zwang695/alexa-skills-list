@@ -16,7 +16,7 @@ This skill helps to find movie rating. It is straight forward to use this skill 
 ### Skill Details
 
 * **Invocation Name:** box office
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b61ea984-cb40-451b-bfaf-62ec8e9f8209
 * **ASIN:** B01DJXEA14
 * **Author:** Shaleen

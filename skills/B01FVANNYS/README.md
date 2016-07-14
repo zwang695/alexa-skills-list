@@ -16,7 +16,7 @@ This skill asks for your zipcode and then can convert it to latitude and longitu
 ### Skill Details
 
 * **Invocation Name:** zip geo
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b49cbbfb-3b5b-4aac-b35d-463f72d95338
 * **ASIN:** B01FVANNYS
 * **Author:** FiveNets

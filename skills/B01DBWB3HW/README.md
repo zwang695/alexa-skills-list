@@ -16,7 +16,7 @@ Take this challenge that tests your lyric knowledge of popular pop songs from th
 ### Skill Details
 
 * **Invocation Name:** name that tune
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.55436111-f886-4f48-aa7a-4fb8833edc57
 * **ASIN:** B01DBWB3HW
 * **Author:** James Co

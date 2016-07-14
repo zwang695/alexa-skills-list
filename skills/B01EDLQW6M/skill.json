@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This skill will allow you to test your knowledge about Hollywood movies, awards and actors/actresses. The Movie trivia will ask you questions with 4 answers to choose from and you will have to tell the Answer number. You will be given 1 point for each correct answer.",
   "enablement": null,
   "exampleInteractions": [

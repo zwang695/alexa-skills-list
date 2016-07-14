@@ -1,10 +1,10 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01EBUEN0M",
-  "averageRating": 3,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Looking for what to make tonight to match that special bottle of wine? Having friends coming over that you want to impress? Use Wine Mate to help yourself make the best choice of wine or food.\n\nThis skill may not be suitable for all ages as it deals with alcohol. Please use and drink responsibly, and never drink and drive.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "wine mate",
   "name": "wineMate",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

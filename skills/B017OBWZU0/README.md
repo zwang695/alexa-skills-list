@@ -18,7 +18,7 @@ Test your knowledge of Hollywood's great movies by matching five famous movies q
 ### Skill Details
 
 * **Invocation Name:** movie quotes
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e51ccb8d-59bd-478f-a58a-4cfb511fb167
 * **ASIN:** B017OBWZU0
 * **Author:** Michael E Strupp

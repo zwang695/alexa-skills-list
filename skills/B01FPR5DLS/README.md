@@ -16,7 +16,7 @@ This is a fun and educational skill. Learn and test your knowledge of the Greek 
 ### Skill Details
 
 * **Invocation Name:** greek gods quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f96f1a15-ab1c-432a-95d6-8bfc0dbc4d82
 * **ASIN:** B01FPR5DLS
 * **Author:** KentonsCode

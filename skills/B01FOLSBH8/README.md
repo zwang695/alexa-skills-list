@@ -22,7 +22,7 @@ Happy Writing!
 ### Skill Details
 
 * **Invocation Name:** journal prompt
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.38cfdb77-9187-49cc-9308-1d28cecde005
 * **ASIN:** B01FOLSBH8
 * **Author:** Unity App Design

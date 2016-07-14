@@ -18,7 +18,7 @@ Get started by asking Alexa to "open constitutional law game". Then see how many
 ### Skill Details
 
 * **Invocation Name:** constitutional law game
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.005c980b-e514-4896-84a1-b8bf98a7d344
 * **ASIN:** B01DTZ5PSY
 * **Author:** Robb Shecter

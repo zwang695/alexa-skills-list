@@ -4,7 +4,7 @@
   "averageRating": 1.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "If Alexa says 8 then answer should be 5 to sum to 13. Continuous 10 successful attempts will win you the game and Alexa will tell how much time you had taken for completing the game. \nTry completing the game in less than 45 seconds.",
   "enablement": null,
   "exampleInteractions": [

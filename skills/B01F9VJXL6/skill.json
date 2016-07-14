@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "Want to know what's going on in the world but a little short on time? Alexa can help with the Today's 10 skill. Get a rundown of the top ten world events or business events happening at the moment so you can stay up to date even if you're running late. Powered by Business Insider.",
   "enablement": null,
   "exampleInteractions": [

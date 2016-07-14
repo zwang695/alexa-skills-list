@@ -16,7 +16,7 @@ Ask Daddy provides nurturing responses to things asked of him. Due to request, A
 ### Skill Details
 
 * **Invocation Name:** daddy
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b16f6e14-3e4f-4f70-8098-5fb1f666a0cd
 * **ASIN:** B018F5RD8I
 * **Author:** Rick Wargo

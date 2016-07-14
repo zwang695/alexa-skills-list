@@ -18,7 +18,7 @@ Resistor Decoder supports 3-, 4-, and 5-band resistors.  It also warns you if a 
 ### Skill Details
 
 * **Invocation Name:** resistor decoder
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d72c6461-71be-468a-8bbe-d238aec9d240
 * **ASIN:** B019YGPC1M
 * **Author:** Thomptronics

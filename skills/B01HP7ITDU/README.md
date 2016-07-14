@@ -18,7 +18,7 @@ This quiz game was inspired by Dennis Bartel (@dennisbartel on Twitter) from KUS
 ### Skill Details
 
 * **Invocation Name:** great composer quiz
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a147d962-8d6b-4f8b-a251-12448225d90a
 * **ASIN:** B01HP7ITDU
 * **Author:** Scott Lawrence Lawson

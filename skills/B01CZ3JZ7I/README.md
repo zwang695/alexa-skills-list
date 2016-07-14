@@ -19,7 +19,7 @@ You can list your smart devices, see how they are working together and find new 
 ### Skill Details
 
 * **Invocation Name:** any things
-* **Category:** Connected-Home
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.459aa08f-5c0a-43cf-9f18-0f8dedf034ae
 * **ASIN:** B01CZ3JZ7I
 * **Author:** Molly

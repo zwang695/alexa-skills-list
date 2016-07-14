@@ -26,7 +26,7 @@ Next, we just need to collect your zip code and phone number. We will have a pre
 ### Skill Details
 
 * **Invocation Name:** home advisor
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9f139432-da2c-4433-8823-be1d21c17287
 * **ASIN:** B01DEC893A
 * **Author:** HomeAdvisor Inc

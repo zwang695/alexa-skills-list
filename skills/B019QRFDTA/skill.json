@@ -9,8 +9,8 @@
   "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Home-Automation",
-  "description": "Take charge of your Simple Control automated home using nothing more than your voice. Requires Simple Control for iOS with active Simple Service, and licensed Simple Sync (software for OS X or Android) or Simple Hub hardware. Simple Control must be paired with Simple Sync/Hub and signed into your Simple Control account. See the Simple Control knowledge base for complete listings of example phrases and usage instructions.",
+  "category": null,
+  "description": "Take charge of your Simple Control automated home using nothing more than your voice. Requires Simple Control for iOS with active Simple Service, and licensed Simple Hub (software for macOS and tvOS) or Simple Hub appliance. Simple Control must be paired with Simple Hub and signed into your Simple Control account. See the Simple Control knowledge base for complete listings of example phrases and usage instructions.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, tell simple control to watch TV",

@@ -22,7 +22,7 @@ How many state trees do you know?
 ### Skill Details
 
 * **Invocation Name:** state trees
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.71db75ed-0fa0-474e-a4ee-8e9438e39aae
 * **ASIN:** B01EJVXUAW
 * **Author:** Ten10 Digital

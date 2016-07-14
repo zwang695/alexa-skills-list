@@ -4,7 +4,7 @@
   "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "This skill will check with Untappd's trending brews list, and return back information about the top trending brew.  Check back often to learn about new brew releases and popular micro beers.\n\nContent may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [

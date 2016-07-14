@@ -20,7 +20,7 @@ New adventures will be added over time. If you'd like to suggest stories or corr
 ### Skill Details
 
 * **Invocation Name:** adventure
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.55c3b569-814d-4af1-b25a-d0809130b2b7
 * **ASIN:** B01BG0V29U
 * **Author:** Markley Enterprises LLC

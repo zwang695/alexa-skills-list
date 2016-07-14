@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Ask Alexa to tell you the element name and its atomic number, symbol, atomic weight, boiling point, ionisation potential, electronegativity, atomic radius, melting point and density. You can take Alexa to your chemistry exam as long as your teacher doesn't catch you asking her.",
   "enablement": null,
   "exampleInteractions": [

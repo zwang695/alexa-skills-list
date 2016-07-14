@@ -4,7 +4,7 @@
   "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Crystal Ball is a fortune teller skill. Alexa prompts you to first focus on a yes/no question, and then say when you're ready to hear the answer.",
   "enablement": null,
   "exampleInteractions": [

@@ -27,7 +27,7 @@ Please enjoy!
 ### Skill Details
 
 * **Invocation Name:** piano facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dd691a47-55c9-4f41-8592-b541a574db6f
 * **ASIN:** B01DRDVTNS
 * **Author:** Don Holmberg

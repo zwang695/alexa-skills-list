@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "Get your daily motivational quote from Alexa. Just ask Motoquote the following phrase:\n\n\"Alexa ask MotoQuote for a quote\"\n\nYou'll get an insightful, often inspiring quote from icons such as Michael Jordan, Steve Jobs, Frank Sinatra and many more.",
   "enablement": null,
   "exampleInteractions": [

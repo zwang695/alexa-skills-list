@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Home-Automation",
+  "category": null,
   "description": "The Brain of Things Alexa sill allows owners of Brain of Things enabled homes to control everything about their home. The lights, curtains, temperature, music, etc.\n\nTo get started you will need Brain of Things hardware installed in your home, as well as an account with our company, which can be easily set up via email or over the phone in less than a minute. \n\nOnce you're ready, start out by saying \"Alexa, tell brain of things to start party mode\" and see what happens! For more help, consult the BrainofT brochure in your apartment, or ask for some help by saying \"Alexa, ask brain of things for help\".",
   "enablement": null,
   "exampleInteractions": [

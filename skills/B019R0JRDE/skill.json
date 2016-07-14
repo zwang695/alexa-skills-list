@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "The QVine app allows you to ask about upcoming events on the QVine calendar.  You can ask about the quarterly meetings, picnic, holiday party, other corporate activities and holidays.",
   "enablement": null,
   "exampleInteractions": [

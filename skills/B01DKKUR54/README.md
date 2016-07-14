@@ -16,7 +16,7 @@ Pope Francis is one of the most popular religious leaders of our time. But did y
 ### Skill Details
 
 * **Invocation Name:** pope francis trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5cd37b70-74f1-414e-b74a-4e49a2a9873e
 * **ASIN:** B01DKKUR54
 * **Author:** jacobajit

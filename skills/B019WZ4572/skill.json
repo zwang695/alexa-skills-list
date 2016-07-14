@@ -4,7 +4,7 @@
   "averageRating": 4.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Conversation Starter is a great way to get suggested conversation topics for you and your friends. For example, asking Conversation Starter for a topic might suggest talking about your greatest fear, the best day of your life, or something you would change if given the chance.",
   "enablement": null,
   "exampleInteractions": [

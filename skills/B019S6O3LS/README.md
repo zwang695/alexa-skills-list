@@ -16,7 +16,7 @@ The Bible app will read Bible passages of your choosing, or else select a random
 ### Skill Details
 
 * **Invocation Name:** the bible
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f23d180f-6f53-4f5f-86ea-0e400992e7a2
 * **ASIN:** B019S6O3LS
 * **Author:** Spriton Systems LLC

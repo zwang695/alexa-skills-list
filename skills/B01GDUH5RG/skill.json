@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Explore Washington State history every day with Alexa.  She will read you a list of events that occurred on today's date directly from the HistoryLink.org database.  After she's done, go to www.HistoryLink.org for more details!",
   "enablement": null,
   "exampleInteractions": [

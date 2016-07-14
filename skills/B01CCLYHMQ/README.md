@@ -16,7 +16,7 @@ If you play musical instruments, or have an appreciation for them, you will enjo
 ### Skill Details
 
 * **Invocation Name:** musical instrument trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.eadd50c9-3cf0-4b38-9d65-f23b3d304a1f
 * **ASIN:** B01CCLYHMQ
 * **Author:** Branson Ideas

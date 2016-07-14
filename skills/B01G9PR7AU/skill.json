@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "Ask Alexa for the instructions of a body weight workout and get fit even at your home.\nExample - \nYou - \"Alexa, ask my fitness trainer, how to perform mountain climbers.\"\nAlexa - \"Starting on your hands and knees, bring the left foot forward directly under the chest while straightening the right leg. Keeping the hands on the ground and core tight, jump and switch legs. The left leg should now be extended behind the body with the right knee forward.\"",
   "enablement": null,
   "exampleInteractions": [

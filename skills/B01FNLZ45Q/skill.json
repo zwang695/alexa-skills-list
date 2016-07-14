@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "For getting planting times for zone 1 for various veggies.",
   "enablement": null,
   "exampleInteractions": [

@@ -24,7 +24,7 @@ Logo by Pixel77 (http://www.pixel77.com/) by CC BY-NC-SA 3.0 (http://creativecom
 ### Skill Details
 
 * **Invocation Name:** animal alphabet
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bddf39d8-87aa-4400-81b8-3707d0b6b07a
 * **ASIN:** B01DN0KHM4
 * **Author:** Robert Jamison

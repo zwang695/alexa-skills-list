@@ -25,7 +25,7 @@ You can also ask for a ride status, or cancel your ride.
 ### Skill Details
 
 * **Invocation Name:** uber
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f9e938dc-cded-45dc-bf9d-2029d4de1aa3
 * **ASIN:** B01AYJQ9QK
 * **Author:** Uber Technologies, Inc.

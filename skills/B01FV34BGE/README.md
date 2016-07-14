@@ -27,7 +27,7 @@ New to Lyft? Download Lyft here! - https://www.lyft.com/invited/alexalyft
 ### Skill Details
 
 * **Invocation Name:** lyft
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.02338118-f3c6-4d37-b19e-c446be915df6
 * **ASIN:** B01FV34BGE
 * **Author:** Lyft

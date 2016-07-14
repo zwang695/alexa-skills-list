@@ -16,7 +16,7 @@ Have Alexa tell a short bedtime story, personalized to your name.
 ### Skill Details
 
 * **Invocation Name:** bedtime story
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a90b5491-213f-4486-9237-a47042afcd7f
 * **ASIN:** B01DJCJTZ2
 * **Author:** Webguild

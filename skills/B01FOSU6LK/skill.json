@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "This skill gives you the top technology posts from reddit's r/Technology from the last 24 hours. You can ask Subreddit Technology for the latest post in the following manner:\n\n- Alexa ask Subreddit Technology for the top post\n- Alexa ask Subreddit Technology for the content\n- Alexa ask Subreddit Technology for the recent post\n\nThis content is user generated and may not be suitable for all ages.\n\nAsk Alexa about the developer by saying:\n\n- Alexa ask Subreddit Technology about this app",
   "enablement": null,
   "exampleInteractions": [

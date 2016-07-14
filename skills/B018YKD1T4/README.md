@@ -16,7 +16,7 @@ Alexa gives you GLaDOS's (pronounced GLA-dis) opinion of random things, Aperture
 ### Skill Details
 
 * **Invocation Name:** gladis
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.69e046e4-c2fe-4b03-ba25-debec9024a6e
 * **ASIN:** B018YKD1T4
 * **Author:** Mewsikat

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "If you want to see how well you know California, play the California Trivia Game! With randomized multiple choice questions, there is loads of replay value and lots of interesting facts and fun things to share. Simply ask Alexa to launch California Trivia. Then say the number of what you think is the correct response: 1, 2 3 or 4. You can also say 'skip' or 'I don't know'. If you want to play again, say 'New Game'.",
   "enablement": null,
   "exampleInteractions": [

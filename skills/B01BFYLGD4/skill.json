@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "The ITIL (pronounced \"I till\") Foundation Quiz asks random questions from a pool of questions based on the popular IT Service Management Framework.\n\nDuring the quiz, simply say the number of the answer you believe to be correct to submit that answer.  To repeat a question, say \"repeat.\"  For help, say \"help.\"  To start a new quiz, say \"start a new quiz.\"\n\nBe sure to take try the quiz often as new questions will be added routinely!",
   "enablement": null,
   "exampleInteractions": [

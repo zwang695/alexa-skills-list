@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "This is a fan's trivia app covering some of the more recent history of Major League Baseball's San Francisco Giants. \n\nTo start, try saying...\nAlexa, ask Giants Trivia.\n\nWorld Series info, player info, and team info are all covered. You will be asked 5 questions of the multiple choice variety. After each question is asked, you will be given 3 options. Once you submit your answer, Alexa will tell you if your answer is correct, or Alexa will give you the correct answer, and give you the total number of questions you have answered correctly. Once you have answered 5 questions, the game is over. \nYou can play multiple times to see how well you know the Giants.",
   "enablement": null,
   "exampleInteractions": [

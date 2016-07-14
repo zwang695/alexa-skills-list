@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "To Test your knowledge of the rules of the road for the State of Utah. Just say \"Alexa, open Utah.gov and take a quiz\" . This practice quiz was created with the Utah Driver License Division to assist you in being a safe driver.\nYou can also learn interesting facts about the State of Utah by saying, \"Alexa, open Utah.gov and learn about Utah.\"\nPlease provide your valuable feed back in echo app on your device to help improve utah.gov skill.\nFor assistance, visit: http://www.utah.gov/support",
   "enablement": null,
   "exampleInteractions": [

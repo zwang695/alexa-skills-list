@@ -20,7 +20,7 @@ To start, say "Alexa, it's bacon time".
 ### Skill Details
 
 * **Invocation Name:** it's bacon time
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.49d23ddd-12ff-4715-bd32-bdae9e6409f5
 * **ASIN:** B01GSVGEAY
 * **Author:** BaconDonutMan

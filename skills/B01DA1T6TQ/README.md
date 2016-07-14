@@ -16,7 +16,7 @@ Keep track of life totals in Magic:  The Gathering(c) hands-free with this app. 
 ### Skill Details
 
 * **Invocation Name:** life counter
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c92b8a78-da3c-4b70-84c3-afbc65333da7
 * **ASIN:** B01DA1T6TQ
 * **Author:** mastash3ff

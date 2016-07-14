@@ -19,7 +19,7 @@ The source of this daily read can be found online at http://wol.jw.org/en/wol/h/
 ### Skill Details
 
 * **Invocation Name:** my daily text
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6e280a28-a384-46a0-aa00-d7c3e1649183
 * **ASIN:** B01FB6A31I
 * **Author:** Synapse Research Systems

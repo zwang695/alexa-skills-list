@@ -18,7 +18,7 @@ Planning dinner has never been easier. Just ask Alexa to open Campbell’s Kitch
 ### Skill Details
 
 * **Invocation Name:** campbell's kitchen
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dc23fc93-d0bd-4a84-8d45-6d738048b296
 * **ASIN:** B017OBWHCQ
 * **Author:** Campbell's Kitchen

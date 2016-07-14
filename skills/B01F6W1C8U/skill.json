@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "The following skill will ask you a set of trivia questions related to the field of software development.  You will get a choice of four questions and you must choose the correct answer.  All questions are related to software development or computer history.",
   "enablement": null,
   "exampleInteractions": [

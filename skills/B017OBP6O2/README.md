@@ -16,7 +16,7 @@ With Guess The Number, you must successfully guess a number picked by Alexa.  Af
 ### Skill Details
 
 * **Invocation Name:** guess the number
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a594e399-45b3-4ee6-8297-330e41333dcc
 * **ASIN:** B017OBP6O2
 * **Author:** Matt Kruse

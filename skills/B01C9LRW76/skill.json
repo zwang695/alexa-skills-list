@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Social",
+  "category": null,
   "description": "Read the latest Washington DC tech news and events from www.dctechcal.com.\nSay: \"Alexa ask D.C. Tech for news\" or \"Alexa, ask D.C. Tech for events\"\n#dctech",
   "enablement": null,
   "exampleInteractions": [

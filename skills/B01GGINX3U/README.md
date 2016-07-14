@@ -19,7 +19,7 @@ You simply ask Nocturnal Ninja who is going to be on the weeknight talk show usi
 ### Skill Details
 
 * **Invocation Name:** nocturnal ninja
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f3c3b651-1a73-4c64-bafe-1f7dd9a9ae28
 * **ASIN:** B01GGINX3U
 * **Author:** Aaron Koz

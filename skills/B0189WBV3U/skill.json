@@ -4,7 +4,7 @@
   "averageRating": 2.1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "The Age Calculator helps you calculate age between now and a given date, whether in the past or future. Depending on the length of time, it will provide the number of days, months, or years, as appropriate. When the year is unspecified, the next year will be used by default.",
   "enablement": null,
   "exampleInteractions": [

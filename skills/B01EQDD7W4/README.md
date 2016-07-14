@@ -16,7 +16,7 @@ This skill is fun to play. See how well you know Florida by answering multiple c
 ### Skill Details
 
 * **Invocation Name:** florida trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1730725c-9e18-439d-bd1e-93de84b69c26
 * **ASIN:** B01EQDD7W4
 * **Author:** Tiphanie

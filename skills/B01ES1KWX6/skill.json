@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "This skill allows you to lookup spells from Dungeons and Dragons and have Alexa read back their descriptions. Cards are also sent to your Alexa app containing additional information such as spell duration or classes.",
   "enablement": null,
   "exampleInteractions": [

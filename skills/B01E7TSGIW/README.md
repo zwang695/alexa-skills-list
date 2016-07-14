@@ -16,7 +16,7 @@ With a streamlined ordering process, you can quickly send flowers to your loved 
 ### Skill Details
 
 * **Invocation Name:** one eight hundred flowers
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6b600e79-2603-40ad-a959-81a74feefd4c
 * **ASIN:** B01E7TSGIW
 * **Author:** www.1800flowers.com

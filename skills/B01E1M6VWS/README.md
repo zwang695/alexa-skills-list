@@ -16,7 +16,7 @@ This skill is very elementary and intuitive. Just open the skill and Alexa simpl
 ### Skill Details
 
 * **Invocation Name:** capital test
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5cc7cbcc-0cf8-4b7d-901b-3364a770e9dc
 * **ASIN:** B01E1M6VWS
 * **Author:** Niccolò Avogaro

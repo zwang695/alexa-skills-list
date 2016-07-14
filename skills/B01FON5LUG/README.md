@@ -16,7 +16,7 @@ Test your knowledge with fun fruit facts. Say something like open fruit facts, a
 ### Skill Details
 
 * **Invocation Name:** fruit facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.396beab0-7831-4cca-b9a8-1fd9f48d4224
 * **ASIN:** B01FON5LUG
 * **Author:** AngelAsman

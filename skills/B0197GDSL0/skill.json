@@ -4,7 +4,7 @@
   "averageRating": 2.1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "A user can look up Amateur (HAM) radio call sign information from the FCC public database by giving Alexa the call sign information using the phonetic alphabet.  For instance the call sign N0USM would be spoken as november zero uniform sierra mike.",
   "enablement": null,
   "exampleInteractions": [

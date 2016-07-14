@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "A skill to get find more information about the current PGA Tour tournament. You can even inquire about players using their nick names, such as \"Lefty\" for Phil Mickelson and \"The Big Easy\" for Ernie Els.\n\nExamples of questions you can ask:\nAlexa, ask Golf Shot Live, who is leading the tournament?\nAlexa, ask Golf Shot Live, how is The Big Easy playing?\nAlexa, ask Golf Shot Live, who has made the most birdies?\nAlexa, ask Golf Shot Live, what is the average score today?",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Have chickens in your yard or on your dinner plate? If you've ever wanted to kno
 ### Skill Details
 
 * **Invocation Name:** chicken geek
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cd514819-e235-40de-bd04-a28f45d6fcb4
 * **ASIN:** B01EEKKAWO
 * **Author:** Bryan

@@ -4,7 +4,7 @@
   "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Have Alexa tell a short bedtime story, personalized to your name.",
   "enablement": null,
   "exampleInteractions": [

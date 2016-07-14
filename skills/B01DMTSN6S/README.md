@@ -16,7 +16,7 @@ Littera Report is a platform for providing the best independent journalism in th
 ### Skill Details
 
 * **Invocation Name:** lit report
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f21f8f3c-6aa0-416e-8f9a-5b4c63ce2bc9
 * **ASIN:** B01DMTSN6S
 * **Author:** Healey Engineering

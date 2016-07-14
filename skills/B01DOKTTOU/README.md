@@ -16,7 +16,7 @@ Control your high-end Control4 home automation system using your Echo!  The Voic
 ### Skill Details
 
 * **Invocation Name:** voice pod
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.faf41c77-a300-4a76-b4c6-2be8351ef330
 * **ASIN:** B01DOKTTOU
 * **Author:** Advanser LLC

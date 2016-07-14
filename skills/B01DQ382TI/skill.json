@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "This skill aids in musical set theory by calculating the matrix of a musical twelve tone row. You can ask for and of the prime, inversion, retrograde, or retrograde inversion rows of the matrix starting on any of the notes, zero through eleven. This skill uses a moveable-do system.\n\nTo use this skill, simply start the skill by saying, \"Alexa, start Matrix Calculator.\" Once it's started, you can say \"My row is...\" then say the note of your row. The skill will automatically calculate all permutations of your row so that you can ask, \"What is p. three?\", \"get row i. seven\", or any other row.",
   "enablement": null,
   "exampleInteractions": [

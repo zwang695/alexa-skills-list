@@ -18,7 +18,7 @@ To get started, just say "Alexa, Play Manchester City Trivia". The game will ask
 ### Skill Details
 
 * **Invocation Name:** manchester city trivia
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cf213818-16e1-4950-9b5c-df29d9295fc4
 * **ASIN:** B01B799G1Q
 * **Author:** DSM Apps and Games

@@ -39,7 +39,7 @@ More bands will be added later.  If you would like your favorite band added next
 ### Skill Details
 
 * **Invocation Name:** classic rock trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.777890c0-ec7c-4e6b-a7c5-b6e4f9ff075a
 * **ASIN:** B01FXLJSG2
 * **Author:** Horacio Santoyo

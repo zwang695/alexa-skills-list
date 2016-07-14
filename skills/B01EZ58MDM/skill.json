@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "A skill that tells the user random facts about computers and computer programming. Ask to give me a fact or tell me a fact to have the skill give you a random fact.",
   "enablement": null,
   "exampleInteractions": [

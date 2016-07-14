@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Communications",
+  "category": null,
   "description": "Office Assistant Skill offers mobile number of pre-stored clients.",
   "enablement": null,
   "exampleInteractions": [

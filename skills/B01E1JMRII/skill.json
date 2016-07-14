@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Get the same bus number, route information and predicted arrival time that is available from the CATS website https://www.brcats.com/using-apps-route-shout\n\nYou can get a complete list of stop names and IDs here: http://cats.garden-district.com/rsStopList.php\n\nMost stop names indicate the direction of travel, so you will need to indicate that when asking by name, ie, Government at Edison West \n\nThe direction of travel is not needed when asking about a stop ID or number.",
   "enablement": null,
   "exampleInteractions": [

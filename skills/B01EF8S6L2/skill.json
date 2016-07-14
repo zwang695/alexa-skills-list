@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Test your knowledge of horror movie taglines.  Taglines are the wording that is used on posters, ads and other marketing materials for the movies.\n\nAlexa can give you a tagline from a horror movie and you can try to guess which movie it is from.  You can continue to hear new taglines and guess them and Alexa will keep your score.  There are over 100 horror movie tagilnes to guess.",
   "enablement": null,
   "exampleInteractions": [

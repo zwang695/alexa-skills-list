@@ -16,7 +16,7 @@ This is a Phish trivia game, made by phans for phans - we will be adding new que
 ### Skill Details
 
 * **Invocation Name:** phish trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dacfc86a-8f33-4421-85b4-95a7eb07e4ad
 * **ASIN:** B01C7X6SQW
 * **Author:** EP

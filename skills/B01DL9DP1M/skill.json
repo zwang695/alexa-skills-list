@@ -6,7 +6,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Alexa can now help you stay informed about the location,  activity,  fuel status and other details about your Zubie-equipped cars.  You can ask Alexa where your car (or any car in your family) is at that moment.  Or if your car is low on fuel or how much is left.  You can also ask about recent activity or events that occurred  such as the last trip completed, or the last speeding incident.   This skill requires an active Zubie device and subscription, which can be purchased at Amazon, Best Buy or at http://Zubie.com.",
   "enablement": null,
   "exampleInteractions": [

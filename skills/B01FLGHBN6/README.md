@@ -16,7 +16,7 @@ If you have trouble remembering when to plant your garden, just ask!  When do I 
 ### Skill Details
 
 * **Invocation Name:** planting time
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.38ad3061-ef04-4a19-8f8e-4968b424d24a
 * **ASIN:** B01FLGHBN6
 * **Author:** London Technology Services 

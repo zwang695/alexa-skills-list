@@ -26,7 +26,7 @@ FitnessLogger currently supports a pre-defined list of exercises. You can say "A
 ### Skill Details
 
 * **Invocation Name:** fitness logger
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9b697aa4-e375-4f15-b2af-5ba120e950ab
 * **ASIN:** B01ERC58NA
 * **Author:** Arniz

@@ -4,7 +4,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Request that Alexa say a website's summary information.\nLaunch this skill by saying \"Alexa, Begin Site Information\". When prompted, just say a website (without the .com). Say \"Home Depot\" or \"Guitar Center\", \"Amazon\" or \"Grand Projections\" and Alexa will give you a summary of that website's (company's) products and services.",
   "enablement": null,
   "exampleInteractions": [

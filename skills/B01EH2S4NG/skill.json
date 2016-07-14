@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "A science trivia app for those who love science! New questions added regularly. This game will help you learn more about science and the history of science. Simply ask Alexa to start a new game in Science Trivia. Alexa will tell you the question and the choices. You can answer with the numbers 1-4, or tell her that you don't know.\n\nUser\"Alexa, tell Science Trivia to start a new game\"\nAlexa \"Science Trivia. I will ask you 5 questions...\"{asks question}\nUser\"is it one?\"\nAlexa\"That answer is correct. Your score is 1...\"",
   "enablement": null,
   "exampleInteractions": [

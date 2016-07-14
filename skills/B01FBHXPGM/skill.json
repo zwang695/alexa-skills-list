@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "This skill allows you to get a daily thought from the writings of Myrtle Fillmore, the co-founder of Unity. To hear a thought, start by enabling the skill, then use an example phrase to launch the skill.\n\nThese daily thoughts are taken from the writings of Myrtle Fillmore such as \"How to let God help you\" and \"Healing Letters\". Students of Unity will be delighted to hear some of her most profound ideas through Alexa.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ This is an educational US States trivia. It is a game that a family can play tog
 ### Skill Details
 
 * **Invocation Name:** states quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d97072ce-6e94-48b0-a220-08691952d96c
 * **ASIN:** B01DVP19FU
 * **Author:** Europa Team

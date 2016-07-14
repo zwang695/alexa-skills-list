@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Turn Alexa into the Apple fanboy that finally gets your obsession with the company or watch her stump your friends who think they know all there is to know about Apple.\n\nJust install the skill onto your Echo and say one of the example phrases to get started. Alexa will ask you 5 questions per game and suggest possible answers.",
   "enablement": null,
   "exampleInteractions": [

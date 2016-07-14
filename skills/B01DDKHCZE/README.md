@@ -34,7 +34,7 @@ Maybe you forget to keep your data up-to-date, so it's likely the averages and c
 ### Skill Details
 
 * **Invocation Name:** period tracker
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.91c7c481-f58f-4d3a-b565-a58aa14b4306
 * **ASIN:** B01DDKHCZE
 * **Author:** Mariano Mendez

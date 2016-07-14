@@ -16,7 +16,7 @@ Think you know about the history of computing, hacking, and programming? Add thi
 ### Skill Details
 
 * **Invocation Name:** hacking history
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3988e924-353f-47f4-b986-a84584a7bd6c
 * **ASIN:** B01AU0OEY2
 * **Author:** Chris Bryant

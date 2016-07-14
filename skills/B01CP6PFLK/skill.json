@@ -4,7 +4,7 @@
   "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Milo is the movie lover's friend.  He helps Amazon Echo find where movies are available for online streaming.   Simply ask Milo to find a movie and he will tell you if the movie is available from free services like Crackle, subscription services like Amazon Prime or even for purchase from sites like iTunes.\n\nAnd if you're also a big TV fan then check out Milo's brother Titus.  The Titus skill will help you find where TV shows are being streamed online.",
   "enablement": null,
   "exampleInteractions": [

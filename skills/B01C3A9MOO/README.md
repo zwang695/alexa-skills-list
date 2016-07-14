@@ -17,7 +17,7 @@ Make the game more enjoyable to play with this hand-free spinner!
 ### Skill Details
 
 * **Invocation Name:** twister spinner
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1c516453-8273-4436-b6b7-bcea3440b99d
 * **ASIN:** B01C3A9MOO
 * **Author:** Zhiyu Hong

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "How good are you at Echoing a simple message? How good is Alexa? Errors typically accumulate in the retellings, so the most recent message can differ significantly, and often amusingly, from the previous messages along the Echo Chain. Alexa will give you the latest message. Try and pass along the message verbatim. To see the entire Echo Chain, visit http://thetelephonegame.rocks.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ A user can look up Amateur (HAM) radio call sign information from the FCC public
 ### Skill Details
 
 * **Invocation Name:** call sign
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.892a1ff4-b185-403c-9de9-d81e998dc44e
 * **ASIN:** B0197GDSL0
 * **Author:** Humblebeeapps

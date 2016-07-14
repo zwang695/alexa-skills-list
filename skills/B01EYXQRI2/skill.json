@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "Baseball Facts provides you with baseball trivial. Most facts are interesting major league records set by teams or individuals.",
   "enablement": null,
   "exampleInteractions": [

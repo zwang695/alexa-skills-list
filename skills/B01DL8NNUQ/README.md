@@ -16,7 +16,7 @@ Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 ### Skill Details
 
 * **Invocation Name:** seinfeld trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b2b864b5-b489-4f63-b848-839e7b3d65b3
 * **ASIN:** B01DL8NNUQ
 * **Author:** Ken Westphal

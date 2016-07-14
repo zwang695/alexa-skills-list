@@ -16,7 +16,7 @@ Simple task manager that takes a task name, date, and time as the only required 
 ### Skill Details
 
 * **Invocation Name:** round to it
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e2e0c2cf-7e6e-4880-b894-c00784170090
 * **ASIN:** B01EW3BOZK
 * **Author:** Gabriel Consulting

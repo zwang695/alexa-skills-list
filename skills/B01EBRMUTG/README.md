@@ -16,7 +16,7 @@ Have you ever heard the truth is stranger than fiction? Well that was a lie, jus
 ### Skill Details
 
 * **Invocation Name:** fake fact
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2f9a0860-a0d7-4761-bafc-d50620c047e9
 * **ASIN:** B01EBRMUTG
 * **Author:** Ray Strods

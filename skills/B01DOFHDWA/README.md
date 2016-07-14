@@ -20,7 +20,7 @@ To begin, simple say "Alexa, launch Air Quality Meter". Then you can ask "What i
 ### Skill Details
 
 * **Invocation Name:** air quality meter
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b319682d-7649-43dc-a7ba-582f0c74441f
 * **ASIN:** B01DOFHDWA
 * **Author:** James Co

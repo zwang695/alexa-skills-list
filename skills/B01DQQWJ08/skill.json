@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Many People Do not know what is I.O.T , this app gives quick facts about I.O.T by asking start iotgeek , the app will respond with random facts about Internet of Things. This is a copy of the spacegeek application , modified with the I.O.T context.",
   "enablement": null,
   "exampleInteractions": [

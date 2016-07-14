@@ -95,7 +95,7 @@ quit
 ### Skill Details
 
 * **Invocation Name:** fraction calculator
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4d55fcec-fa5a-4f2f-b62a-4e549bbe03ac
 * **ASIN:** B01DM4C8VY
 * **Author:** Don Holmberg

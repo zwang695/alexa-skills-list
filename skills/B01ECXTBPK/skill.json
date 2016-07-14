@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Says Moo will repeat the onomatopoeia to your kids' delight.  In the future, we'll add more animals and even make a quiz out of it to teach your kids animal sounds.",
   "enablement": null,
   "exampleInteractions": [

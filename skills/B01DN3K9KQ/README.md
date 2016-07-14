@@ -38,7 +38,7 @@ Alexa, ask Issac about <Cleaners>
 ### Skill Details
 
 * **Invocation Name:** issac
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.033d18de-33cd-4478-ae35-98fddfda4510
 * **ASIN:** B01DN3K9KQ
 * **Author:** Kissell

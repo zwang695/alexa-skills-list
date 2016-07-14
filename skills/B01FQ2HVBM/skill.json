@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "ClashRoyaleHelper responds to user's query about the description to the card of Clash Royale. User can say something like \"can you tell me something about a knight?\", the app will gives description to that card.",
   "enablement": null,
   "exampleInteractions": [

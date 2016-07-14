@@ -4,7 +4,7 @@
   "averageRating": 4.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "The Listeners is an experiment in language art that provides, if you simply keep asking to 'continue', many fragments of composed speech in an intriguing, emergent narrative. You will never hear The Listeners say exactly the same thing twice, but The Listeners is not a chatbot or an AI; they are more of a drama or a simple game.\n  Get started with, \"Alexa, ask the Listeners,\" and then \"Continue,\" \"Go on,\" or try something like, \"I am filled with joy,\" or \"What are you feeling?\" The Listeners will suggest ways to transact with them.\n  This is the second version of The Listeners, launched May 2016. They will continue to be developed over time.",
   "enablement": null,
   "exampleInteractions": [

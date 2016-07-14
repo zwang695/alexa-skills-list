@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Ask the palindrome skill for a random palindrome.  It has a library of 50 palindromes to choose from.  (May not be suitable for all ages.)",
   "enablement": null,
   "exampleInteractions": [

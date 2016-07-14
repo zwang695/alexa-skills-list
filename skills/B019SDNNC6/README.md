@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Yo Momma Jokes icon" width="36"> [Yo Momma Jokes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.abccb1a5-15c8-4088-9f8b-93072f352e7a)
-![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 30
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 30
 
 To use the Yo Momma Jokes skill, try saying...
 
@@ -16,7 +16,7 @@ This skill simply tells the user a "yo momma" joke. The user can simply ask Mom 
 ### Skill Details
 
 * **Invocation Name:** mom jokes
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.abccb1a5-15c8-4088-9f8b-93072f352e7a
 * **ASIN:** B019SDNNC6
 * **Author:** Brian Markham

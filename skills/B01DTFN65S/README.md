@@ -18,7 +18,7 @@ Ask Fortune Cookie to "get me a cookie" and luck may fall your way.
 ### Skill Details
 
 * **Invocation Name:** fortune cookie
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c94e45c9-91d8-4ef2-aa3b-586c87f5f1ba
 * **ASIN:** B01DTFN65S
 * **Author:** w3PG, inc.

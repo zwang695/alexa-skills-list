@@ -21,7 +21,7 @@ At the end of game it will give you the score .
 ### Skill Details
 
 * **Invocation Name:** k. y. c.
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.deff8821-fb75-4acb-a79b-1c84d0de276c
 * **ASIN:** B01DL8L3EY
 * **Author:** anip mehta

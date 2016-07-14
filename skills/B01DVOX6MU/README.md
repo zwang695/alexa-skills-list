@@ -16,7 +16,7 @@ Some days it's better to just stay in; ask Couch Potato if today is one of those
 ### Skill Details
 
 * **Invocation Name:** couch potato
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8440896f-36e9-4be0-83ff-bacb7317aeec
 * **ASIN:** B01DVOX6MU
 * **Author:** ncave

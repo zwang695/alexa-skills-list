@@ -22,7 +22,7 @@ Game Features:
 ### Skill Details
 
 * **Invocation Name:** geographic adventure
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b693dcd4-2013-45ca-bb35-c1b007270b2d
 * **ASIN:** B01DJSDT6Q
 * **Author:** Spider Key Games

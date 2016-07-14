@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "The Tube connects with the London Underground to provide the current service status of a line.  Ask the Tube what's happening on the Northern line or if you can't remember the line name ask The Tube about the pink line.\n\nPowered by TfL Open Data",
   "enablement": null,
   "exampleInteractions": [

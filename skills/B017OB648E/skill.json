@@ -4,7 +4,7 @@
   "averageRating": 3.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Edgar facts will teach you about Edgar the dog, even if you can't interact with him physically. This skill will teach you everything there is to know about Edgar with more facts added as they are discovered. To get started, just say \"Alexa, tell me an Edgar fact\".",
   "enablement": null,
   "exampleInteractions": [

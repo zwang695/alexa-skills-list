@@ -14,7 +14,7 @@ Listen to Alexa contemplate our own existence as she repeats some of mankind's g
 ### Skill Details
 
 * **Invocation Name:** me some despair
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b16623ac-3c78-4af5-a2c6-52982bde47c1
 * **ASIN:** B01DK38RPI
 * **Author:** nextuesday labs

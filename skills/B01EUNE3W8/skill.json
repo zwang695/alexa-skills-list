@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "To quote Sophocles: \"The dice of Zeus always fall luckily\". He must've had DiceBot on his side.\n\n**Note: This super secret description does not exist in DiceBot's help menu, so that nobody can inadvertently stumble upon DiceBot's cheating ways during conversation.\n\nDiceBot listens for special patterns, and that's how it knows to switch out the fair dice with loaded dice.\n\nTo roll fair dice, just say something like \"Roll three dice\" or \"roll a d20\".\n\nTo roll dice that are weighted for higher numbers, replace \"roll\" with \"roll me\", as in \"roll me three dice\" or \"roll me a d20\".\n\nAlternately, dice can be weighted downward by ending the sentence with \"for me\", for example \"roll three dice for me\" or \"roll a d20 for me\".\n\nDiceBot's cheating is subtle - it shifts rolls on average by about 10% - and it's still possible to roll all values on a given die. Even with loaded d20, you still might roll a critical failure!\n\nFurther examples and instructions can be found at www.derpgroup.com/bots.html#2",
   "enablement": null,
   "exampleInteractions": [

@@ -18,7 +18,7 @@ Note: This is a fan-made game and not affiliated with Konami or Kojima Productio
 ### Skill Details
 
 * **Invocation Name:** metal gear quiz
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3a5fc51b-2622-4deb-a4a5-3eed9247c89d
 * **ASIN:** B01F28L3X2
 * **Author:** Matt Urtnowski

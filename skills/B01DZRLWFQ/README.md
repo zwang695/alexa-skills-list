@@ -16,7 +16,7 @@ ThirtySec provides daily inspirational voices.  You can Ask Alexa  to play Thirt
 ### Skill Details
 
 * **Invocation Name:** thirty sec
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dc1a72a8-7c6d-4679-b5f9-5356e1e71cca
 * **ASIN:** B01DZRLWFQ
 * **Author:** vobok

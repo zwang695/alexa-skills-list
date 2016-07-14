@@ -16,7 +16,7 @@ Biking Wizard checks the weather for you and tells you if the conditions are rig
 ### Skill Details
 
 * **Invocation Name:** the biking wizard
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.375fa265-94fa-4201-8621-d67cc548dd9d
 * **ASIN:** B01DD9OXDO
 * **Author:** ncave

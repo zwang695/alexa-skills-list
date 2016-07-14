@@ -16,7 +16,7 @@ This skill allows the user to spell out a word or a list of words in either Mors
 ### Skill Details
 
 * **Invocation Name:** the general
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4ed1f11a-8e86-4581-b906-ba8546bfc19d
 * **ASIN:** B01CE8IJKS
 * **Author:** BassmanCorp

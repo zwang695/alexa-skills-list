@@ -16,7 +16,7 @@ Practice your knowledge of U.S  History from the colonial times to current day w
 ### Skill Details
 
 * **Invocation Name:** trivia challenge
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1d4ead35-21f8-42bb-ab3b-f14e2a5c98d4
 * **ASIN:** B01B25D1CA
 * **Author:** Innate Tech

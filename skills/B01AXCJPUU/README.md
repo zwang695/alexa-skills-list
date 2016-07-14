@@ -18,7 +18,7 @@ To learn more about DogeCoin, please visit http://dogecoin.com/
 ### Skill Details
 
 * **Invocation Name:** doge coin
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ab0a3bf4-22bb-45d3-9b4a-731ef98c9b63
 * **ASIN:** B01AXCJPUU
 * **Author:** Sterian Associates

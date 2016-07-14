@@ -16,7 +16,7 @@ This is a quiz application for use by angular developers or those looking to imp
 ### Skill Details
 
 * **Invocation Name:** angular trivia
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.913faff0-7bb4-426a-860d-6b0f78784410
 * **ASIN:** B01DJJ7ZN8
 * **Author:** Pedro Urbina

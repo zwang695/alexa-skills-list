@@ -16,7 +16,7 @@ This skill is designed to be used by students and TAs of the course "15-122: Pri
 ### Skill Details
 
 * **Invocation Name:** the queue
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c1ebf7ae-be1e-45dc-878e-2d3fac18cffb
 * **ASIN:** B01CF059GM
 * **Author:** Jonathan Burns

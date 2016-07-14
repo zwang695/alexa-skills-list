@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This is the number guessing game of “higher or lower.” You choose a number between 1 and 100 and Alexa will try and guess. You simply respond with \"higher\" or \"lower\". You can also play the other way around where Alexa chooses a number and you try to guess it. She will respond to your guess with \"higher” or “lower.” To get started, ask High Low to guess my number, or ask High Low to think of a number.",
   "enablement": null,
   "exampleInteractions": [

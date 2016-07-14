@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "Countdown the number of days until your wedding. Simply share your wedding date during the skill setup by using the default \"ask Wedding Countdown\" command. Your zipcode is required to ensure the date calculation is correct for your local timezone.\n\nAfter you set your wedding date, you can ask, \"how many days until my wedding?\" and the skill will tell you the remaining number of days until your big day! If you need to change the date, just say, \"ask Wedding Countdown to change my wedding date to...\" and the updated date will be saved. \n\nTo stop or cancel at any time using the skill, just answer \"stop\" or \"cancel\" to any questions. For help, ask anytime.\n\nHaving an issue? Send an email to tom@weddingcountdownskill.com\n\nRecent updates: Localized date calculation, fixed an error on wedding date setup, support for understanding when the big day is tomorrow.",
   "enablement": null,
   "exampleInteractions": [

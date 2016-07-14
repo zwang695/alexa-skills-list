@@ -16,7 +16,7 @@ This Alexa Skill is loaded with interesting facts based on the Elder Scrolls ser
 ### Skill Details
 
 * **Invocation Name:** facts for elder scrolls
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d66d4b0b-8ab2-488f-8287-81dd444de254
 * **ASIN:** B01EGSGQMC
 * **Author:** mastash3ff

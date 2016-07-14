@@ -36,7 +36,7 @@ Version 1.1.0
 ### Skill Details
 
 * **Invocation Name:** lets multiply
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f5cfe0e0-cfd1-4627-8f5b-60c112397b79
 * **ASIN:** B01BXAMWN8
 * **Author:** Wobble Mouth

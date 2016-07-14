@@ -18,7 +18,7 @@ Start your day with an insightful quote from general Sun Tzu's, The Art of War, 
 ### Skill Details
 
 * **Invocation Name:** sun tzu
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.054628f9-f004-4efa-8894-80b00f018718
 * **ASIN:** B01CKNYLY0
 * **Author:** zipIQ

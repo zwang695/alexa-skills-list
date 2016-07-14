@@ -18,7 +18,7 @@ Simply start by saying "Alexa, launch Domain Name Info" and Alexa will guide you
 ### Skill Details
 
 * **Invocation Name:** domain name info
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.286182e3-a8f3-4af9-b98a-f7b4cae8c6de
 * **ASIN:** B019R06W5A
 * **Author:** Joel Fries

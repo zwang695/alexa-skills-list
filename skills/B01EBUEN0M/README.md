@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="wineMate icon" width="36"> [wineMate](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e68c2c6a-014f-4685-8583-02dbed62fb45)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the wineMate skill, try saying...
 
@@ -18,7 +18,7 @@ This skill may not be suitable for all ages as it deals with alcohol. Please use
 ### Skill Details
 
 * **Invocation Name:** wine mate
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e68c2c6a-014f-4685-8583-02dbed62fb45
 * **ASIN:** B01EBUEN0M
 * **Author:** Leggett Builds

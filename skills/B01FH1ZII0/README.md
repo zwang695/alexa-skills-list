@@ -16,7 +16,7 @@ Ask Alexa for the current poll results from the Huffington Post's daily poll 201
 ### Skill Details
 
 * **Invocation Name:** prez poll
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f8296419-b8ac-4f52-8197-945663f39f35
 * **ASIN:** B01FH1ZII0
 * **Author:** Brian Cook

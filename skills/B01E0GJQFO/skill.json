@@ -4,7 +4,7 @@
   "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Entertain your friends by participating in the classic \"Whos On First?\" comedy dialog. \nAlexa will play the part of Bud Abbott while you say the Lou Costello lines.\nAt any point you can ask Alexa for your next lines, or you can open the Alexa app and read the lines displayed in the app.\nIf you have two Alexa devices, like an Echo and a Dot, then you can have them perform the skit together while you and your friends roll on the floor laughing.",
   "enablement": null,
   "exampleInteractions": [

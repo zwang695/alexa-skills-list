@@ -16,7 +16,7 @@ Need to check quickly the number of letters in a word? Or working on a puzzle th
 ### Skill Details
 
 * **Invocation Name:** letter counter
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7507f709-cd90-4c38-a18b-ddb5389431c7
 * **ASIN:** B01EWVRGY0
 * **Author:** Jacksoned

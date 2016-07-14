@@ -16,7 +16,7 @@ This skill is for use with Metaswitch's internal Accession business communicatio
 ### Skill Details
 
 * **Invocation Name:** meta
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.64272b27-7745-45f5-9cfc-8c0986c71932
 * **ASIN:** B01E4ITHI4
 * **Author:** Metaswitch Networks

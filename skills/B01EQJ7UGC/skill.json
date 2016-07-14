@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Retrieves the current air quality of most major U.S. cities.  To use aether, try saying....\n\nAlexa, Ask Aether about Minneapolis.\n\nRetrieves the current air quality index (AQI) of pm 2.5 from www.airnowapi.org.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Finding the world of wine a bit daunting? Mixing your chardonnays with your pinot noirs? Not a problem! The Wine Expert is here to help. \n\nVery easy to use. Just ask Alexa to query the Wine Expert about a wine type and it will tell you what kind of food goes well with it. The opposite is true - Always wondered what to drink with vegetables? Get your answers here!\n\nMore wine types and dishes are being added with each version of the skill.\n\nDISCLAIMER: You must be over 21 years old to use this skill.",
   "enablement": null,
   "exampleInteractions": [

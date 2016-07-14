@@ -4,7 +4,7 @@
   "averageRating": 2.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Skyscanner offers global flight search.  This service is a way to get an early idea of estimated prices between two airports, before you begin a formal booking process.  \n\nStarting with the destination, you are then asked further questions until Alexa has enough information to supply the cheapest available fare for that trip.\n\nAll prices come with the lowest recent price found for the route and dates, the carriers which serve the route and a card in the Alexa app as a reminder of these.",
   "enablement": null,
   "exampleInteractions": [

@@ -20,7 +20,7 @@ Say "stop" or "cancel" to exit.
 ### Skill Details
 
 * **Invocation Name:** key finder
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a7cd8c09-3ea3-4d5a-ae6c-1e9fa99c056b
 * **ASIN:** B01E31EICW
 * **Author:** Andres

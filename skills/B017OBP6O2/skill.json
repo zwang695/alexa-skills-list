@@ -4,7 +4,7 @@
   "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "With Guess The Number, you must successfully guess a number picked by Alexa.  After launching Guess The Number, Alexa will prompt you to guess a number between 1 and 100.  With every guess, Alexa will tell you whether her number is higher or lower than the number you guessed.  See how many tries it takes you to Guess The Number.",
   "enablement": null,
   "exampleInteractions": [

@@ -20,7 +20,7 @@ This skill is a fun game the tests your knowledge of the many aspects the Pipe o
 ### Skill Details
 
 * **Invocation Name:** the pipe organ game
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.39c8773b-2051-46b3-93d8-df982bdd70dd
 * **ASIN:** B01C6BGOHS
 * **Author:** Don Holmberg

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "This skill helps you make and identify international phone calls.\n\nIf you request a country, this skill will tell you the calling code that you need to dial before a local phone number in that country. For example, what's the calling code for Spain?\n\nIt can also tell you the location of a particular calling code. For example, what location has the code plus three four?\n\nPlease note that all calling codes begin with a \"plus\" (+). This represents the exit code that must be dialed first, before the destination calling code. On smartphones, you may be able to dial a + symbol. On older phones, you may need to dial the specific exit code of your home country. For calls placed from the USA, the exit code is \"011\".\n\nIf the skill has any trouble recognizing your requested location, try these tips:\n- be sure to request a country or independent territory, not a city or state\n- use the full name, not an abbreviation\n- use the country's English name, and an \"American\" pronunciation",
   "enablement": null,
   "exampleInteractions": [

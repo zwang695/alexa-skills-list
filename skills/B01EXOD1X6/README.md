@@ -19,7 +19,7 @@ Compete with your friends and family!
 ### Skill Details
 
 * **Invocation Name:** hero trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cdf96da6-f567-41a6-8744-a2c8d4597316
 * **ASIN:** B01EXOD1X6
 * **Author:** DevBros

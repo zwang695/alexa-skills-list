@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "The Adventure skill enables you to choose an adventure and interact with it by choosing different options at the end of each section. Depending on the choices you make, the story will change and you will have a different experience.\n\nThis skill and its stories may not be suitable for all ages.\n\nNew adventures will be added over time. If you'd like to suggest stories or corrections, contact @VoiceGameDev on twitter.",
   "enablement": null,
   "exampleInteractions": [

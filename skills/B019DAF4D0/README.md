@@ -16,7 +16,7 @@ Celebrate a goal - or anything else - with a classic audio "GOOOOOL" sound.  Try
 ### Skill Details
 
 * **Invocation Name:** audio goal
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bfca5696-4914-4d3f-ac01-d882e72f329a
 * **ASIN:** B019DAF4D0
 * **Author:** RJ Duckburgh

@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Use Meal Idea to hear meal ideas that use basic, every day ingredients that you already have in your pantry or fridge.",
   "enablement": null,
   "exampleInteractions": [

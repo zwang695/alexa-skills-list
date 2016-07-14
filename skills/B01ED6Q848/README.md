@@ -16,7 +16,7 @@ Get a random bible verse
 ### Skill Details
 
 * **Invocation Name:** bible verse
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.67934dde-455c-48ee-b6e5-80b62c6455fa
 * **ASIN:** B01ED6Q848
 * **Author:** Revel Software

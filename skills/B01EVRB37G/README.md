@@ -20,7 +20,7 @@ There are six UV index ratings provided: Low, Moderate, High, Very High and Extr
 ### Skill Details
 
 * **Invocation Name:** u. v. meter
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b6f19c3c-eb87-443e-ac03-a77ea6f5bc6f
 * **ASIN:** B01EVRB37G
 * **Author:** JAGGI

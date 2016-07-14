@@ -71,7 +71,7 @@ Sample food items can be found at:
 ### Skill Details
 
 * **Invocation Name:** nutri lookup
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5acba9b5-6d09-4444-aaa8-618c56eb0335
 * **ASIN:** B01FLY1KF8
 * **Author:** VENU PARIPELLY

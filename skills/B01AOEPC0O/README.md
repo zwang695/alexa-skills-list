@@ -20,7 +20,7 @@ Send suggested trivia questions to James Foster.
 ### Skill Details
 
 * **Invocation Name:** cove trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d7da65c8-f02e-47a8-82c0-984aa54e7c25
 * **ASIN:** B01AOEPC0O
 * **Author:** Covisint

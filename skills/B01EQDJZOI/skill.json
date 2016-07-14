@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "How much do you know about Connecticut? This game ask trivia questions about Connecticut. The game is started by saying \"Alexa, open Connecticut Trivia\". Five multiple questions will be asked. Each question will have four options; numbered one through four. To answer the question state the number of the correct answer. At the end of the game, you will be told the number of correct answers given.",
   "enablement": null,
   "exampleInteractions": [

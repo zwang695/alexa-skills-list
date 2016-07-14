@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Bitcoin Rate provides the current value of 1BTC in your preferred base currency, along with useful Bitcoin market data in the Alexa App.\n\nWhen requesting the value in a specific currency, you may use either the currency name (e.g. Swedish Krona), or the currency code (e.g. SEK).\n\nSupported phrases you can say include: \"Current value in Japanese Yen?\", \"Price in GBP?\", \"Euro value?\", \"Cost in RUB?\", and \"What's the value in United States Dollar?\".\n\nFor extended help and examples of using this skill, please visit http://gobbyapps.com.",
   "enablement": null,
   "exampleInteractions": [

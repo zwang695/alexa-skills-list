@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Do you ever find that you are missing an ingredient when following a recipe? Chef can help! Ask what can be substituted. Some ingredients have multiple options. You can also ask Chef how much certain ingredients weigh, which is especially helpful for baking, or any kind of cooking where reproducibility is important.\n\nNot every ingredient that Chef knows has a substitute and a weight. Some ingredients only have one or the other.\n\nChef will improve over time with cooking tips, new ingredients, and so on.",
   "enablement": null,
   "exampleInteractions": [

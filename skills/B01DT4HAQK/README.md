@@ -16,7 +16,7 @@ Want to see if you know your video games?? Play Nerd Quiz and see if you can get
 ### Skill Details
 
 * **Invocation Name:** nerd quiz
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.39dde298-0ae6-4ec1-9526-47450c2d9220
 * **ASIN:** B01DT4HAQK
 * **Author:** MrTechnolgyNerd

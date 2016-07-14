@@ -4,7 +4,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "A simple, but addictive, math based game.  How many problems can you correctly answer? \n\nMath Mania provides a variety of game modes including addition only, subtraction only, multiplication only, division only, algebra only, or really challenge yourself and play the everything mode!",
   "enablement": null,
   "exampleInteractions": [

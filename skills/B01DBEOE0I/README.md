@@ -16,7 +16,7 @@ Get your daily dose of spiritual inspiration right from Alexa. LDS Daily Message
 ### Skill Details
 
 * **Invocation Name:** l. d. s. daily message
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2fc76924-38ad-4ca5-bc43-97354be25e46
 * **ASIN:** B01DBEOE0I
 * **Author:** sunkencity software

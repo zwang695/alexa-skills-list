@@ -22,7 +22,7 @@ You can 'bookmark' the current step by saying "save the step" so that you can co
 ### Skill Details
 
 * **Invocation Name:** microcontroller assist
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.393a50b7-aae7-4cc3-91c7-f82bd001c79c
 * **ASIN:** B01FVJ70AW
 * **Author:** wesee

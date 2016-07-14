@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "CodeBreaker is a game that tests your analytical skill. It is based on a century old game played with paper and pen. Goal is to guess a 4 digit number.\n\n- Alexa generates a 4 digit number\n- You say a four digit number\n- Alexa responds with Black, White or No Match for each digit\n\nBlack - correct position\nWhite - incorrect position\nNo Match - digit does not exist in the code\n\nThis is the basic mode of the game. Intermediate and Advanced modes to be released soon.",
   "enablement": null,
   "exampleInteractions": [

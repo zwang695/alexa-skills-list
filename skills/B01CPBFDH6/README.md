@@ -19,7 +19,7 @@ If You Like It Please Show Your Love and Rate This Skill.
 ### Skill Details
 
 * **Invocation Name:** spanish
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c3d2c07c-9186-480b-9fcf-84052a0cc08f
 * **ASIN:** B01CPBFDH6
 * **Author:** COMM

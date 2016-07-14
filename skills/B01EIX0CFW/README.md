@@ -17,7 +17,7 @@ As you start the game, it will ask you multiple-choice questions related to Boll
 ### Skill Details
 
 * **Invocation Name:** bollywood trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3a1bb77d-d340-46e6-af5a-3b01f1e0c60e
 * **ASIN:** B01EIX0CFW
 * **Author:** Shivansh Singh

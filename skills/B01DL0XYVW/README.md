@@ -18,7 +18,7 @@ Answer carefully and truthfully to find out which house's values you embody!
 ### Skill Details
 
 * **Invocation Name:** sorting game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.28af6ac7-8dc0-4482-8822-020e98c0d1c0
 * **ASIN:** B01DL0XYVW
 * **Author:** Ewen Chou

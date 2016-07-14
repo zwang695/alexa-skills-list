@@ -16,7 +16,7 @@ This skill will share facts about the Northeastern University's location, academ
 ### Skill Details
 
 * **Invocation Name:** husky nation
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.85fa0459-6423-4cb3-9903-ac5d39597071
 * **ASIN:** B01FWYWS1M
 * **Author:** boitenoire

@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "Get your daily dose of spiritual inspiration right from Alexa. LDS Daily Message provides a way to hear the daily LDS Message provided from lds.org. You no longer have to wait for an email or open your computer to start off your day.  LDS Daily Message will read the message aloud and will also provide the message as a Card in the Alexa app any time you ask.  So if you need a little inspiration, go ahead and Ask Alexa to \"Open LDS Daily Message.\"",
   "enablement": null,
   "exampleInteractions": [

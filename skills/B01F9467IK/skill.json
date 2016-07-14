@@ -16,7 +16,7 @@
   "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "Updated 6/13/16: Fixes issue with account linking \n\nEnabling the Track by Nutritionix skill on Alexa allows you to get a variety of nutritional information on all of your favorite foods. \n\nHere are some examples of how to lookup nutrition information:\n\n - \"Ask food tracker how many calories are in 2 eggs and 3 slices of bacon\"\n - \"Ask food tracker How many carbs are in 3 ounces of pasta\"\n\nYou can also create and link your Nutritionix account to Alexa to track all of the foods you eat.\n\nHere are some examples of how to track your foods:\n\n- \"Tell food tracker to log a bowl of cereal and a cup of coffee for breakfast\"\n- \"Tell food tracker I ate 15 almonds\"",
   "enablement": null,
   "exampleInteractions": [

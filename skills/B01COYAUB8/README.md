@@ -16,7 +16,7 @@ This tool allows one to quickly test voice interaction with services and devices
 ### Skill Details
 
 * **Invocation Name:** portal
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c3dffce7-9211-4623-a7d0-5c94592af20f
 * **ASIN:** B01COYAUB8
 * **Author:** Unified Computer Intelligence Corporation

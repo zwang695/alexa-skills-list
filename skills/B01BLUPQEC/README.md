@@ -26,7 +26,7 @@ More questions being added routinely!
 ### Skill Details
 
 * **Invocation Name:** space trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.96629106-1b2c-42eb-a72e-b98cd8c1857d
 * **ASIN:** B01BLUPQEC
 * **Author:** Tiny Starship

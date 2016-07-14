@@ -16,7 +16,7 @@ This is a trivia game that quizzes your knowledge about the Boston Baseball hist
 ### Skill Details
 
 * **Invocation Name:** baseball trivia
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.173d1437-db75-4401-8c49-604155422e90
 * **ASIN:** B01D1IC35C
 * **Author:** martivic

@@ -18,7 +18,7 @@ The IoT Trivia Game will ask you 5 questions about the Internet of Things, try t
 ### Skill Details
 
 * **Invocation Name:** internet of things trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.450f63fa-ee49-4090-a9ca-45354bb22eb3
 * **ASIN:** B01F0FDL00
 * **Author:** Ulanov Software

@@ -18,7 +18,7 @@ Sometimes you want to know and sometimes you ask but wish you didn't. Get the la
 ### Skill Details
 
 * **Invocation Name:** sweedish locator
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.34cf3c0e-ce22-4bda-ad9f-6f5b3fc44914
 * **ASIN:** B01FS0DPEY
 * **Author:** Ray Strods

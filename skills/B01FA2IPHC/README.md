@@ -16,7 +16,7 @@ This is a skill that allows you to ask Alexa for quotes from Charles Fillmore. T
 ### Skill Details
 
 * **Invocation Name:** papa charlie
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9817668d-0a9c-43e2-ba12-ceb9ff045ab3
 * **ASIN:** B01FA2IPHC
 * **Author:** Unity App Design

@@ -4,7 +4,7 @@
   "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This skill is meant to add computer science-related jokes to Alexa's nerdbank. There are currently 51 possible jokes, with more on the horizon. Jokes++ will also expand out into other nerdy categories, such as movies, television shows, and comic books.",
   "enablement": null,
   "exampleInteractions": [

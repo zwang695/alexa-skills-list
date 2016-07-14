@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Game Geek is a fun little skill based off the Space Geek template. It will build up your knowledge of video games with 100 facts. To use it, simply say \"Alexa, Game Geek\" and she will give you 1 out of 100 cool video game facts. It has no prerequisites and you can use it immediately. I would like to thank the creators of the Space Geek template for both the template, and the inspiration for this skill. Big thanks to Tech Notification, Games Radar, Kickassfacts, and HowStuffWorks for help with the facts.",
   "enablement": null,
   "exampleInteractions": [

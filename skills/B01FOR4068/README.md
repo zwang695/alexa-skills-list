@@ -20,7 +20,7 @@ If you have any feedback or suggestions for improvements or updates, please use 
 ### Skill Details
 
 * **Invocation Name:** table blessings
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2eb96903-f1fa-4260-b091-86d5f11afbf4
 * **ASIN:** B01FOR4068
 * **Author:** Unity App Design

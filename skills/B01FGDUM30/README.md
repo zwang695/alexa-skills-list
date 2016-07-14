@@ -16,7 +16,7 @@ You are the Commander of your own naval attack class submarine. You are tasked w
 ### Skill Details
 
 * **Invocation Name:** sub war
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0b6700db-7632-4b84-9c3e-d6d9b9e87aeb
 * **ASIN:** B01FGDUM30
 * **Author:** TsaTsaTzu

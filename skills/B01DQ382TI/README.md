@@ -18,7 +18,7 @@ To use this skill, simply start the skill by saying, "Alexa, start Matrix Calcul
 ### Skill Details
 
 * **Invocation Name:** matrix calculator
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3c3bc28a-0e77-4a28-8dbc-a7e3f0c2f7fb
 * **ASIN:** B01DQ382TI
 * **Author:** Alex Worland Inc.

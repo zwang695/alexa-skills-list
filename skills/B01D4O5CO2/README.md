@@ -38,7 +38,7 @@ If you choose to use an advanced game with a grid of a size 5 of bigger (then fr
 ### Skill Details
 
 * **Invocation Name:** boat war
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4bca183b-9938-4203-a19f-ce41c60b40f2
 * **ASIN:** B01D4O5CO2
 * **Author:** Corentin

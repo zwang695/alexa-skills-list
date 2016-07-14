@@ -9,7 +9,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Home-Automation",
+  "category": null,
   "description": "Alexa can now control Almond features such as Scenes and Modes. Control multiple devices and actions and to set Home/Away Modes.\n\nScenes enable you to control multiple devices with just one tap of a button. For example a single scene can dim all the lights and set the temperature just right for that special dinner date. To activate a Scene named Dinner say, \"Alexa, tell Almond to activate Dinner Scene\" or say, \"Alexa, tell Almond to set Dinner Scene\".\n\nHome/Away Modes together with our rules enable you to create intuitive automation. For example, when you arrive home between 6:00-9:00 p.m. weekdays, Almond will disarm the alarm, turn on the porch light for five minutes, and then set the thermostat to 70 F. To set a Mode on Almond using Alexa, you can say, \"Alexa, tell Almond to be in Home Mode\", or simply say \"I am Home\" after starting the skill. \n\nPlease note the minimum requirements for using Scenes and Modes with Almond:\nYour have an Almond +/Almond 2015 router with the updated firmware.\nAlmond+ : AP2-R085-L009-W016-ZW016-ZB005\nAlmond 2015 : AL2-R091\n\nYour Almond App (iOS/Android) is updated to the latest version.\nAndroid v6.0\niOS v2.0\n\nAn Almond account that you can create using the Almond App.\n\nSETUP: Enable the skill on Alexa and use your Almond account credentials to login",
   "enablement": null,
   "exampleInteractions": [

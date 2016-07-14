@@ -18,7 +18,7 @@ Great for convincing your feline friend(s) that a ghost cat is roaming your home
 ### Skill Details
 
 * **Invocation Name:** the box of cats
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9bdcd638-a3b3-4470-acf5-db8bba439d51
 * **ASIN:** B01GY2FTIK
 * **Author:** Sean Simpson

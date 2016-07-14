@@ -20,7 +20,7 @@ Install this skill to let Alexa bring you back to the early days of artificial i
 ### Skill Details
 
 * **Invocation Name:** eliza
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.36f04b0e-589d-47c1-b50f-0489c9e7877a
 * **ASIN:** B0184NR4P8
 * **Author:** Asimov

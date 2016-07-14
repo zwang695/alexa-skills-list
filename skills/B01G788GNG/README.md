@@ -16,7 +16,7 @@ Food bot gives you with the nutrient value of many common food items per 100 gra
 ### Skill Details
 
 * **Invocation Name:** food bot
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.94cacaa5-d0cc-4dcd-b141-e76c935fd370
 * **ASIN:** B01G788GNG
 * **Author:** Matej Marjanovic

@@ -20,7 +20,7 @@ I'm open to feature requests! If you think alternative patterns like "<color> <a
 ### Skill Details
 
 * **Invocation Name:** for a code phrase
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c00ae347-78bf-4165-a1b1-6f302b5c6180
 * **ASIN:** B01C6A6S20
 * **Author:** Asim Ihsan

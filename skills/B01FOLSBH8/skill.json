@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "Daily Journal Prompt will provide you daily writing ideas to help you find unique things to journal about and help you maintain a daily practice of writing. \n\nEnable this skill to be able to ask for daily writing prompts to encourage your practice of writing. There are over 100 writing prompts that will be randomly selected for you each time you ask. Use the example phrases to see examples of how to get a writing prompt. For instructions on how to use this skill say \"Alexa, Ask Journal Prompt for help.\"\n\nIf you have feedback on how we can improve this skill, email us at info@unityappdesign.com.\n\nHappy Writing!",
   "enablement": null,
   "exampleInteractions": [

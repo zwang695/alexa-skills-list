@@ -4,7 +4,7 @@
   "averageRating": 2.9,
   "canDisable": true,
   "capabilities": null,
-  "category": "Home-Automation",
+  "category": null,
   "description": "This release of the skill is for the Blumoo iOS app only right now.  You will need the Blumoo HomeBase for this skill, which can be purchased from Amazon, Best Buy and other retailers.  The HomeBase pairs to your phone over Bluetooth and blasts out the IR codes using our mobile app and voice commands given to the Echo.\n\nOnce you have the Blumoo HomeBase setup, turn on voice control in the settings on your Blumoo app.  The app will then walk you through setting up Blumoo Voice.  Email support@blumoo.com with any questions.\n\nQ: How do you say Blumoo (blue-moo)?\nA: blue (color), moo (cow).\n\nThe Blumoo skill lets you:\n\nPress Buttons (Universal Remote) - You can then press any button by saying \"Alexa, tell Blue moo to press ________ (ex. Watch TV)\".  Use it for your macros, volume control and any other buttons.  \n\nChange Channels (TV guide) - Change to any channel in the TV guide by saying \"Alexa, tell Blue moo to go to channel ________ (ex. six hundred fifty)\".  \n\nHear Show Descriptions (TV guide) - Have Alexa read the show description for any channel by saying \"Alexa, ask Blue moo what's on channel ________ (ex. thirty three)\".\n\nBlumoo voice gives you a truly hands free viewing experience.  Take back control of your entertainment today!\n\nYou can ask Alexa for help by saying \"Alexa, tell Blue moo to help\"\n\nFor more information, help and tips you can visit our support page:\nhttp://support.blumoo.com/support/solutions/folders/11000001043",
   "enablement": null,
   "exampleInteractions": [

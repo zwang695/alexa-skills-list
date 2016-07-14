@@ -16,7 +16,7 @@ Love predictor will give you are percentage score out of a hundred on two names 
 ### Skill Details
 
 * **Invocation Name:** love predictor
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4be2b173-581e-420b-8335-c7fe1a884e6a
 * **ASIN:** B01FZUBC42
 * **Author:** BLT Robotics

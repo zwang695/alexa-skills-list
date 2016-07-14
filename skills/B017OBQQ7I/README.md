@@ -16,7 +16,7 @@ Simple skill that reads you famous quotes from history and movies.  Just say "Al
 ### Skill Details
 
 * **Invocation Name:** famous quotes
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.90c6f0e0-6bfe-4106-94c2-2283abd75a5d
 * **ASIN:** B017OBQQ7I
 * **Author:** Mark Goodrich

@@ -16,7 +16,7 @@ This skill quizzes you on the history of football's biggest game, including team
 ### Skill Details
 
 * **Invocation Name:** big game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e53313d6-65a1-46f2-b3f9-2d91a1baf7c0
 * **ASIN:** B01BFSF9AG
 * **Author:** Trivial Tinkering

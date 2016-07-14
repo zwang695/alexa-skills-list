@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Randomly generates ideas for startups. \nData provided by ItsThisForThat.com",
   "enablement": null,
   "exampleInteractions": [

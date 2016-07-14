@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Want to be able to ask Alexa what the wind conditions are like for your city? The Alexa Wind Report service allows you to do that!\n\nYou can simply ask Alexa for the current wind report in a specific city and she will respond with:\n\"calm\" for no wind or something like \"North at 4 mph\"\n\nUseful for when you want to figure out if you can fly your drone, fly your kite, go sailing, or just if you should wear your windbreaker instead of that warm but wind susceptible sweater.",
   "enablement": null,
   "exampleInteractions": [

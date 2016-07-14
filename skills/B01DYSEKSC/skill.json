@@ -4,7 +4,7 @@
   "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "With Stock Quote you can have Alexa tell you the recent price of any stock listed on the NYSE. Quotes may be delayed due to market restrictions.",
   "enablement": null,
   "exampleInteractions": [

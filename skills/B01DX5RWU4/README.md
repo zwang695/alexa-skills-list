@@ -16,7 +16,7 @@ NYC Status provides status for alternate side of the street parking rules, schoo
 ### Skill Details
 
 * **Invocation Name:** n. y. c. status
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e2ad69e8-e3ba-459a-8464-7e939fa3f189
 * **ASIN:** B01DX5RWU4
 * **Author:** Tim McElreath

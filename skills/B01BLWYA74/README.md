@@ -16,7 +16,7 @@ Athan provides the Islamic Prayer Times in a given city. You can ask Athan for t
 ### Skill Details
 
 * **Invocation Name:** daily prayers
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.55ff625b-1564-4735-86fc-116486a0b175
 * **ASIN:** B01BLWYA74
 * **Author:** Ahmed Eleryan

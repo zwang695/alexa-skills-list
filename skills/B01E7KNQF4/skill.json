@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "Would you LUV to get the trading price of AMZN stock by speaking to Alexa?  Just give Single Quote a ticker symbol spelled out like \"W O O F\" and praise ZEUS, your quote will be sung to the heavens before the FIZZ  leaves your COOL drink.  It's a piece of cake.  MMM... CAKE.\n\nMost (but not all) widely traded comapny stocks are supported.  ETFs, mutual funds, and other non-equities are not yet supported.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Bird Songs plays the songs of some of the most common birds of North America. You can say 'Ask Birds Songs' and Alexa will reply 'Say the name of a bird you'd like to hear. You can also say 'Ask Bird Songs 'sparrow'' or any other bird.\n\nIf Bird Songs doesn't have the exact bird you asked for, it will return the closest match. For example, if you say 'Ask Bird Songs what is the song of a hawk,' Bird Songs will play the song of the red-tailed hawk.\n\nBird Songs are used in accordance with the Creative Commons license and obtained  from http://www.xeno-canto.org/\n\nMore bird songs will be added over time.",
   "enablement": null,
   "exampleInteractions": [

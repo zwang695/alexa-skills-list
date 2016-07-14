@@ -20,7 +20,7 @@ Play a game now, and see if you can beat the dealer.
 ### Skill Details
 
 * **Invocation Name:** the dealer
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0a5ac48c-a7ff-4e30-a63f-f6392dba7abc
 * **ASIN:** B017OC122Q
 * **Author:** Vurble

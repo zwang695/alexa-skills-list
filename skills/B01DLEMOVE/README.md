@@ -16,7 +16,7 @@ Are you interested in the deaths of famous people? Rely on Famous Deaths for the
 ### Skill Details
 
 * **Invocation Name:** famous deaths
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1d75d6fb-7851-4fc2-86f7-6d6a9d83ea24
 * **ASIN:** B01DLEMOVE
 * **Author:** Appbly.com

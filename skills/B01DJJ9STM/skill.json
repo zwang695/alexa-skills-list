@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Communications",
+  "category": null,
   "description": "This skill will repeat anything you say to Alexa. \n\n\"Repeat  hello\"\n\"Say  cantaloupe\"",
   "enablement": null,
   "exampleInteractions": [

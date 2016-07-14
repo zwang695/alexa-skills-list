@@ -12,7 +12,7 @@ It is a funny way to know Interesting fact of Object Oriented Programing
 ### Skill Details
 
 * **Invocation Name:** object oriented trivia
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e16c6899-1c4b-40e2-9754-0b3297cd34eb
 * **ASIN:** B01FR8XLP0
 * **Author:** Alberto Vidana

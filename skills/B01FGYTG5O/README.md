@@ -17,7 +17,7 @@ Cool Human Body Facts
 ### Skill Details
 
 * **Invocation Name:** cool human body facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.82317cea-cb30-4257-b9d4-03cd4563e1ad
 * **ASIN:** B01FGYTG5O
 * **Author:** kylehader

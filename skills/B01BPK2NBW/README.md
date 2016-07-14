@@ -16,7 +16,7 @@ Ask Alexa to tell you the element name and its atomic number, symbol, atomic wei
 ### Skill Details
 
 * **Invocation Name:** sage of elements
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.87ab5ac7-9bc4-4d7a-bea3-1df75a178e31
 * **ASIN:** B01BPK2NBW
 * **Author:** Rain Labs

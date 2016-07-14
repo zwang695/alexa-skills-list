@@ -16,7 +16,7 @@ The longest-running cable television programming event in history, Discovery Cha
 ### Skill Details
 
 * **Invocation Name:** shark week
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d92afb13-c427-4a20-9b31-6ec68fc940b1
 * **ASIN:** B01G5VHY2O
 * **Author:** Discovery Communications

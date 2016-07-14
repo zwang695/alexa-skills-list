@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "You can interact with Alexa to know courses offered, holidays and events happening with various providers. No more worries to dig the information from provider websites, here you will get your answers and plan accordingly.",
   "enablement": null,
   "exampleInteractions": [

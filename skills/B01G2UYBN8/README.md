@@ -22,7 +22,7 @@ Disclaimer: This skill may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** malayalam jokes
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.28ebd94f-469f-4e12-949c-6ca3a12e261f
 * **ASIN:** B01G2UYBN8
 * **Author:** Jumanjies

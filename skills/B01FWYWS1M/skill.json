@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This skill will share facts about the Northeastern University's location, academic programs, students communities, class breakdown, and historical background. Information included in this skill can be found at www.neu.edu. Users can get started by just asking Alexa to launch Husky Nation and ask her to share a fact about Northeastern.",
   "enablement": null,
   "exampleInteractions": [

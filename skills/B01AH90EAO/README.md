@@ -18,7 +18,7 @@ Please note: Abra can guess ANY character, and some questions may not be suitabl
 ### Skill Details
 
 * **Invocation Name:** akinator
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7fe0688e-93d6-4de3-9525-88dcfa4f439b
 * **ASIN:** B01AH90EAO
 * **Author:** Recursive Records

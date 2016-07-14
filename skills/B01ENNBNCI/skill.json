@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "ColorHex is allows you to convert between color names and their corresponding hex values. ColorHex is indispensable for graphic design, web design and any other task that uses hexadecimal color values. ColorHex can convert in each direction, giving you names for hex values and hex values for color names.",
   "enablement": null,
   "exampleInteractions": [

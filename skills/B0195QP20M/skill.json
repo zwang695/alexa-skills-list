@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Announces a random quote from the forismatic.com API.",
   "enablement": null,
   "exampleInteractions": [

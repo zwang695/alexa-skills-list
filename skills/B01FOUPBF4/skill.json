@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Random facts about computers and history.",
   "enablement": null,
   "exampleInteractions": [

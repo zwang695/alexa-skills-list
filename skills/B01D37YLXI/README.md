@@ -12,7 +12,7 @@ Haunted House provides a random scary sound to fill any moment with suspense. As
 ### Skill Details
 
 * **Invocation Name:** haunted house
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.01fccb3f-b620-49a0-aa78-6d1c4fc8f1d7
 * **ASIN:** B01D37YLXI
 * **Author:** Matchbox mobile

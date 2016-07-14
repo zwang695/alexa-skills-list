@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "Carly is a voice-activated coach for Amazon Echo that helps users understand their thoughts and feelings. Tell her how you feel and what you're thinking. The more Carly learns about you, the better she can help you understand your own thoughts and emotions. Just say: \"Tell Carly I feel happy\" to get started. You can say simple phrases like, \"I feel angry\", or more complex phrases like, \"I feel angry about what John said.\" Once you've opened up to Carly, try saying: \"Tell Carly to analyze me.\" She can help you associate your moods with frequently occurring words, based on what you tell her. There's no sign up process necessary to get started.",
   "enablement": null,
   "exampleInteractions": [

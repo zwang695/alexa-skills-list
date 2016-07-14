@@ -20,7 +20,7 @@ For updates sign up for the email list at http://agog.com/email/AgogReader
 ### Skill Details
 
 * **Invocation Name:** agog reader
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.eb68c703-af77-43c6-b1d1-9e7cb979c15a
 * **ASIN:** B019YOS8TM
 * **Author:** Agog Inc.

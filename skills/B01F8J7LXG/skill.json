@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "You already know the game, now you can play Truth or Dare on your Alexa-enabled device by simply asking Alexa for a truth or dare question.  Answer the question truthfully or do as she says.  Enjoy hours of fun with your friends! The questions are rated PG-13, appropriate for some audience, parental guidance suggested.\n\nStart the game by saying \"Alexa open Truth or Dare.\"\nAfter each question, you may ask her to repeat it, by saying \"repeat\" or \"again.\"\nAfter a pause for each question, she'll ask you if you would like to continue, you can say YES or NO.",
   "enablement": null,
   "exampleInteractions": [

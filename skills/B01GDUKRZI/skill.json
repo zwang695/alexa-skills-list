@@ -4,7 +4,7 @@
   "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Vocab Helper is a great way to learn, lookup, or study the most common vocabulary words used on SAT tests. With this aid, you simply ask Alexa the definition of a common SAT word. \n\nTo use this skill, enable it. Then you can ask the following:\n\nAlexa, ask Vocab Helper what the definition of compile is.",
   "enablement": null,
   "exampleInteractions": [

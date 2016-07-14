@@ -4,7 +4,7 @@
   "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This helps you or your students practice giving the capital city for each state. For example, Alexa asks for the capital of Ohio and lists four possible answers. The student tries to pick the correct answer. Alexa either tells the student they are correct, or gives them the correct answer.",
   "enablement": null,
   "exampleInteractions": [

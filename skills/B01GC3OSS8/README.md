@@ -21,7 +21,7 @@ If you want to know more about the UK play this game by yourself or with your fr
 ### Skill Details
 
 * **Invocation Name:** u. k. games
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d7394806-0e54-44af-be20-b44bfbf4936e
 * **ASIN:** B01GC3OSS8
 * **Author:** Wand IT

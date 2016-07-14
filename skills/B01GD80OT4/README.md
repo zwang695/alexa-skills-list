@@ -16,7 +16,7 @@ Ask Minimum Wage Finder to get you any state's 2016 minimum wage.
 ### Skill Details
 
 * **Invocation Name:** minimum wage
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.36407567-62a0-4daa-bdeb-bb94be2a2f4f
 * **ASIN:** B01GD80OT4
 * **Author:** Wolf Dog

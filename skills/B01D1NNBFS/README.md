@@ -16,7 +16,7 @@ Name Nerd is a quick lookup version of the ever popular namenerds.com site. You 
 ### Skill Details
 
 * **Invocation Name:** name nerd
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f89e2a23-35c3-4152-b246-7c4c5cf40b7f
 * **ASIN:** B01D1NNBFS
 * **Author:** TsaTsaTzu

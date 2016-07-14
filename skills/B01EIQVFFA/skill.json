@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Caséta Wireless",
-  "numberOfReviews": 11,
+  "numberOfReviews": 12,
   "pamsPartnerId": "L7bT7Y6OSwic7SRHdJkHe8AkS",
   "permissions": null,
   "privacyPolicyUrl": "http://www.lutron.com/en-US/Pages/PrivacyPolicy.aspx",
@@ -34,5 +34,5 @@
   "stage": "live",
   "termsOfUseUrl": "http://www.casetawireless.com/Pages/legal.aspx",
   "vendorId": "M33O0UBGA7JXNA",
-  "vendorName": "Lutron Electronics, Co."
+  "vendorName": "Lutron Electronics Co., Inc."
 }

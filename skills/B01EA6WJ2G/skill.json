@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "This skill count the likes on Hackster Facebook Fanpage",
   "enablement": null,
   "exampleInteractions": [

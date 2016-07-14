@@ -1,0 +1,28 @@
+# &nbsp;<img src="skill_icon" alt="Word Source icon" width="36"> [Word Source](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9d12620e-b77d-4574-875a-1d4216238838)
+![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+
+To use the Word Source skill, try saying...
+
+* *Alexa, ask Word Source what is the etymology of plant*
+
+* *Alexa, ask Word Source about the origin of the word colony*
+
+* *Alexa, ask Word Source about the word car*
+
+Learn more about the origins of words with the Word Source skill.
+
+Currently looking up words via the Online Etymology Dictionary (http://www.etymonline.com/) but look for more sources to be added soon.
+
+The list of words to look up is currently at 7,949. Look for the number of words to be increased soon.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** word source
+* **Category:** null
+* **ID:** amzn1.echo-sdk-ams.app.9d12620e-b77d-4574-875a-1d4216238838
+* **ASIN:** B01GTA4WMQ
+* **Author:** Loom
+* **Release Date:** July 12, 2016 @ 07:27:42
+* **In-App Purchasing:** No

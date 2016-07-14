@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "DebateTopic is a debate topic generator which can give you a randomly generated sentence made out of a bunch of randomly selected words so you can practice your impromptu speech skills. To start using the debate topic generator, say 'open debate topic,' or, 'open debate topic and give me a debate topic.' No prerequisites necessary",
   "enablement": null,
   "exampleInteractions": [

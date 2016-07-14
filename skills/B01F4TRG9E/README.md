@@ -20,7 +20,7 @@ This skill is meant to be fun and random, some are very surprising, some are wid
 ### Skill Details
 
 * **Invocation Name:** world geek
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cd780877-ad6f-438a-82ed-294021408045
 * **ASIN:** B01F4TRG9E
 * **Author:** Supernova

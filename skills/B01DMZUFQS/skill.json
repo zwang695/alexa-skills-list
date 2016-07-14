@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This skill will quiz users on various facts of main stream martial arts. The goal is to make amazon echo users familiar with the world of martial arts!",
   "enablement": null,
   "exampleInteractions": [

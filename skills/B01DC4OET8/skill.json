@@ -4,7 +4,7 @@
   "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Access the On-Line Encyclopedia of Integer Sequences (OEIS at http://oeis.org). Ask for \"a nice sequence\"; \"search by terms\"; ask for an integer sequence by sequence number (e.g., \"sequence A235383\"); or, ask for a well-known integer sequence (e.g., \"the prime numbers\", \"the Fibonacci numbers\", \"the digits of pi\", etc.).",
   "enablement": null,
   "exampleInteractions": [

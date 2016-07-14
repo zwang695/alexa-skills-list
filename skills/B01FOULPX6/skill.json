@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "You'll find suggestions to two dozen common activities in Bellingham, WA, like where to find a post office or library, or where to go to bike, swim, or get pizza.\n\nOne set of locations is prompted by \"go to\" locations, like:\nwhere can I (go to) ...\nor\n(what's / where is) a good place to ...\n\nanother set of locations is triggered by locations to perform actions, for example:\nwhere can I ( get / find / find a) ...\nor\nwhere is (a / an / the) ...",
   "enablement": null,
   "exampleInteractions": [

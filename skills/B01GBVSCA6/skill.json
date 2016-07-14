@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Periodic Table Games is a fun skill that helps interested students to test their knowledge about periodic table of elements and also helps them to learn important facts.\n\nPeriodic Table Games asks a series of five questions to the user per invocation. Each question is followed on by answer index and answer choices. The user can respond back with the answer index of the choice they think is best answer to the question. \n\nThe user gets one point for a correct answer and no points for a wrong answer.\n\nThe user can answer the question by saying the following sentences\n\nThe answer is \"1\"\nMy answer is \"1\"\n\nIf the user does not know the answer to the question, he or she can reply back saying  'I don't know' and the skill will reply back with the correct answer to the the question.\n\nIf the user needs additional time to think about the answer or if they want to hear the question again, they can reply back saying 'repeat' or 'repeat it'.",
   "enablement": null,
   "exampleInteractions": [

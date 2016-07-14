@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Get a short 20-second summary of a given programming language.",
   "enablement": null,
   "exampleInteractions": [

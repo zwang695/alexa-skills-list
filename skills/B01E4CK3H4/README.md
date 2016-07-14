@@ -44,7 +44,7 @@ CEIVA Homeview in home displays are currently available through select utilities
 ### Skill Details
 
 * **Invocation Name:** my utility
-* **Category:** Connected-Home
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f893114c-1397-432f-a0d6-00723b3f3832
 * **ASIN:** B01E4CK3H4
 * **Author:** CEIVA Logic Inc

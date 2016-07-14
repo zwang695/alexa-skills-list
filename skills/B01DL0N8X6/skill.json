@@ -7,7 +7,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "CueFit allows you to easily access your Google Fit data via Alexa. Simply ask CueFit for your step count or calories burned to get started! Using this skill requires a Google account -- you'll enjoy using it more if you've been logging your fitness data into Google Fit.",
   "enablement": null,
   "exampleInteractions": [

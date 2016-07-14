@@ -16,7 +16,7 @@ It's a free world capital trivia game. It's a fun way to learn geography. It's s
 ### Skill Details
 
 * **Invocation Name:** capital trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4d7a0f0e-5f9b-40a1-a346-7464ec33e4f4
 * **ASIN:** B01DJWJKMO
 * **Author:** Europa Team

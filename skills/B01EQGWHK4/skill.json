@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "The application can be used to lookup the price of Silver, Gold, and Bitcoin.  To use the app, say \"Alexa, ask silverbug what's the price of Silver?\"",
   "enablement": null,
   "exampleInteractions": [

@@ -51,7 +51,7 @@ This is *NOT* an official app from usgovernmentdebt.us and is not any way offici
 ### Skill Details
 
 * **Invocation Name:** debt clock
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2e240862-679e-457b-b510-d4e3fde45536
 * **ASIN:** B01G7RX3DU
 * **Author:** C-T LLC.

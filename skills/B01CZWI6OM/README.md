@@ -20,7 +20,7 @@ Note: If you have a real crocodile infestation, this skill will not help you avo
 ### Skill Details
 
 * **Invocation Name:** crocodile finder
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d1ce1330-22a2-45b8-920a-ff197b552f10
 * **ASIN:** B01CZWI6OM
 * **Author:** Mars Puppy

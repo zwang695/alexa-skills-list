@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "Baby Namer will randomly give you a name from a list of over 33,000 names in the US Social Security Database for the most recent year.",
   "enablement": null,
   "exampleInteractions": [

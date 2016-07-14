@@ -22,7 +22,7 @@ Currently, this app can convert refractometer readings to Original Gravity, and 
 ### Skill Details
 
 * **Invocation Name:** hop stand
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5c89c34c-5dc7-4287-a116-9b080d523c0a
 * **ASIN:** B01G1AJ5JE
 * **Author:** Optictheory

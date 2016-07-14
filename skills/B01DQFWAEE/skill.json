@@ -4,7 +4,7 @@
   "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Wondering where the phone number that just called you was located in the US? Looking for the city name for a US zip code? Need to know the area code in the city where you'll soon be traveling?\n\nCode finder is here to help!\n\nSearch by area code, zip code, or city and state to hear more information about that location.",
   "enablement": null,
   "exampleInteractions": [

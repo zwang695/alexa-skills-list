@@ -16,7 +16,7 @@ Access your GitHub information including profile, contributions, stars, etc...
 ### Skill Details
 
 * **Invocation Name:** octo assist
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.27eb40b7-28bc-4a49-8b19-729165e132f3
 * **ASIN:** B01GAT0T7I
 * **Author:** Leo Correa

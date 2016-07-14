@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "You say a step and it will tell you what to do for that step. If you follow the steps starting at 1 you will have delicious ramen.",
   "enablement": null,
   "exampleInteractions": [

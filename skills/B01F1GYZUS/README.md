@@ -20,7 +20,7 @@ Tony Pu
 ### Skill Details
 
 * **Invocation Name:** color game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.805d51a2-a111-41d3-9517-735ddde78bac
 * **ASIN:** B01F1GYZUS
 * **Author:** Color Game Group

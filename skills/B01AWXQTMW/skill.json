@@ -4,7 +4,7 @@
   "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "Ask Alexa to convert money from your country to other country. She will look for the current exchange rate and tell you what is the amount of the money that your currency represents in other countries. You can ask her too about conversion from other currencies or exchange rate from several currencies all around the world.",
   "enablement": null,
   "exampleInteractions": [

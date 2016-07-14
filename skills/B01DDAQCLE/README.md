@@ -16,7 +16,7 @@ This quiz will give seven quotes from candidates for the 2016 presidential elect
 ### Skill Details
 
 * **Invocation Name:** candidate quiz
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.28f96e5b-271e-4334-9c88-510e25a2500e
 * **ASIN:** B01DDAQCLE
 * **Author:** Paul Zander

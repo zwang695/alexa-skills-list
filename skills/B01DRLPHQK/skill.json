@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Finance",
+  "category": null,
   "description": "This skill tells today's currency conversion rate of Dollar to Indian Rupee. \n\nIn future, this skill also shows rates provided by various remittance service providers, and provides comparison of those. In our next version, we will providing the support for averages and monitoring/reminders based on user set thresholds. Hope you like this simple skill on Alexa and I am looking forward for your input on how this can be made better for your use.",
   "enablement": null,
   "exampleInteractions": [

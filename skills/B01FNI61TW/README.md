@@ -16,7 +16,7 @@ Ask Alexa a year in history and out comes in interesting fact. If only it could 
 ### Skill Details
 
 * **Invocation Name:** year facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a6a24ced-bbd4-48c6-a369-011efb05e821
 * **ASIN:** B01FNI61TW
 * **Author:** BLT Robotics

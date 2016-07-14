@@ -17,7 +17,7 @@ This skill is a short seven question comprehension quiz of Macbeth by Shakespear
 ### Skill Details
 
 * **Invocation Name:** macbeth comprehension questions
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.742a7c10-236a-4e39-b8b3-04b7fde8fc8d
 * **ASIN:** B01EH8QK4U
 * **Author:** Cyrus Vachha

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "This is a skill to read back ingredients and steps to make different sour dough recipes. I am working on trying and adding more recipes.",
   "enablement": null,
   "exampleInteractions": [

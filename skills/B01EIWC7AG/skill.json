@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "Discover Fresh Music from around the world, this skill will keep you up to date with new music in short 60 second samples. Updated regularly so you can get fresh music to start your day or end your evening.",
   "enablement": null,
   "exampleInteractions": [

@@ -42,7 +42,7 @@ Run/Stop/Status program.
 ### Skill Details
 
 * **Invocation Name:** moby link
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.45649c46-4cc4-4971-a8d9-c7e184e2ccda
 * **ASIN:** B01BKSHOA4
 * **Author:** Mobile Integrated Solutions, LLC

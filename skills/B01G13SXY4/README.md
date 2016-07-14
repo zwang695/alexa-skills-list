@@ -20,7 +20,7 @@ Note: Currently this skill only supports Cedar Park, TX and St. Augustine grass.
 ### Skill Details
 
 * **Invocation Name:** my lawn
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.db5d9b5d-4c82-4806-975e-29e3f2ab06e1
 * **ASIN:** B01G13SXY4
 * **Author:** Joey Surls

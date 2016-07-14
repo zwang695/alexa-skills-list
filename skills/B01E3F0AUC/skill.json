@@ -4,7 +4,7 @@
   "averageRating": 3.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "The skill allows a user to seek general health information for common ailments and medication dosing from Boston Children's Hospital.\n\nA user can seek information on medication dosing or common symptoms by interacting with Alexa and providing basic information about themselves. The person's details are never stored. It is powered by Thermia.io, a Boston Children's Hospital research product.\n\nThe skill provides general guidelines and is intended for informational and educational purposes only. It is not a substitute for professional medical advice, diagnosis or treatment. This skill does not provide individual medical advice. Call your doctor to receive medical advice. If you think you may have a medical emergency, immediately call your doctor or dial 911.",
   "enablement": null,
   "exampleInteractions": [

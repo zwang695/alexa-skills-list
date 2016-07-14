@@ -16,7 +16,7 @@ DebateTopic is a debate topic generator which can give you a randomly generated 
 ### Skill Details
 
 * **Invocation Name:** debate topic
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.79df9daa-0fc1-4bfa-b52e-bc112ede768d
 * **ASIN:** B01G1155OM
 * **Author:** J 

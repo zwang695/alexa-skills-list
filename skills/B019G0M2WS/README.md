@@ -20,7 +20,7 @@ Celebrate over 30 seasons of America’s Favorite Quiz Show®—install the skil
 ### Skill Details
 
 * **Invocation Name:** jeopardy
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6d474311-b5aa-4f47-a97b-1036bc3e1954
 * **ASIN:** B019G0M2WS
 * **Author:** Sony Pictures Television

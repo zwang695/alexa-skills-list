@@ -17,7 +17,7 @@ Data provided by ItsThisForThat.com
 ### Skill Details
 
 * **Invocation Name:** startup generator
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8017ed2b-fb50-44f5-86ba-c3b6fefcc64b
 * **ASIN:** B01FG36DF6
 * **Author:** Preferred Plus Investments

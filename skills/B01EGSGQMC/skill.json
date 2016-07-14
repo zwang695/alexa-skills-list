@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This Alexa Skill is loaded with interesting facts based on the Elder Scrolls series.  Just ask this Alexa skill and a random Elder Scrolls fact will be presented.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Use Alexa to give you quick access to antonyms when you need them. Grow your voc
 ### Skill Details
 
 * **Invocation Name:** antonym finder
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.62d14192-c431-4b7a-ac4e-6c5903d8f3b9
 * **ASIN:** B01FJ4B0YG
 * **Author:** BLT Robotics

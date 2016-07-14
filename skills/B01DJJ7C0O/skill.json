@@ -4,7 +4,7 @@
   "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Welcome to Today in History. Just ask Alexa for today in history and she will respond with notable events, birthdays, and more!",
   "enablement": null,
   "exampleInteractions": [

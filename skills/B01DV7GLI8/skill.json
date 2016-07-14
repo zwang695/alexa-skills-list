@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Use this skill to test your knowledge of basic chess knowledge, use \"open chess trivia\" to get started and see how much you know about chess!",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This is a trivia game about theater and movie musicals.  Questions refer to actors, composers, songs, plots, settings, and productions.",
   "enablement": null,
   "exampleInteractions": [

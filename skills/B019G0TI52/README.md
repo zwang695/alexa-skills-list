@@ -16,7 +16,7 @@ Guests have the ability to answer trivia questions from the Star Wars universe b
 ### Skill Details
 
 * **Invocation Name:** star wars quiz
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.794047e0-bb14-472c-b7d4-3256336230a3
 * **ASIN:** B019G0TI52
 * **Author:** Disney

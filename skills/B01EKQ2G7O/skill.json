@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Answer trivia questions about U.S. cities. The multiple choice questions in this game are full of fun facts about cities like New York, San Francisco, Philadelphia and more. There are a lot of questions to try and each game is different.",
   "enablement": null,
   "exampleInteractions": [

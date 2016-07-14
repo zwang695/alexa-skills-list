@@ -16,7 +16,7 @@ Can't remember who the person behind the mask is? The Superheroes skill will rev
 ### Skill Details
 
 * **Invocation Name:** super heroes
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.59b2b446-e3ef-4b72-9827-32ccb6bc2836
 * **ASIN:** B01DSDXNNQ
 * **Author:** Major Version

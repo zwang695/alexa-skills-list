@@ -18,7 +18,7 @@ Contact me at tinystarship.com if you have any questions / comments.
 ### Skill Details
 
 * **Invocation Name:** dinosaur facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a62131ee-2859-4ce8-9b25-14b5a496b3fd
 * **ASIN:** B01E6072QE
 * **Author:** Tiny Starship

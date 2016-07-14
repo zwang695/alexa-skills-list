@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Ever wonder if the fruits and vegetables in your store or farmers market are in\nseason? Now you can find out quickly by asking the Farmers Market app!\n\nRequest all foods in season for the current or any specific month or season\n(Spring, Summer, etc). If desired, narrow results to an individual state.\n\nExamples\n\n- What fruits are available in Montana this Summer?\n- When are blueberries available in New York?\n- What veggies are in season this Summer in California?\n- To tell me about Apples\n- To tell me about Kumquats in California\n\nNote: US states only\n\nVisit GreenMarketsBuddy.com for more info.",
   "enablement": null,
   "exampleInteractions": [

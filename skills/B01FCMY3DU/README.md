@@ -16,7 +16,7 @@ You can use Pick Someone to create a list of names and have it choose one from y
 ### Skill Details
 
 * **Invocation Name:** pick someone
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f4bfe2fa-ca00-464a-8744-d64afcf631cb
 * **ASIN:** B01FCMY3DU
 * **Author:** Einran 

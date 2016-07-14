@@ -16,7 +16,7 @@ Do you live in a coastal city and spend time by the water? Rely on Tide Pooler f
 ### Skill Details
 
 * **Invocation Name:** tide pooler
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ffec75cf-db97-4f71-87ea-7fd4efc783f5
 * **ASIN:** B017OBZ7FU
 * **Author:** Amazon

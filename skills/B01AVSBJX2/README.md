@@ -20,7 +20,7 @@ You'll get an insightful, often inspiring quote from icons such as Michael Jorda
 ### Skill Details
 
 * **Invocation Name:** moto quote
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.6188a929-42eb-4c32-8405-25a4c82b023e
 * **ASIN:** B01AVSBJX2
 * **Author:** Sterian Associates

@@ -4,7 +4,7 @@
   "averageRating": 2.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Alexa gives you GLaDOS's (pronounced GLA-dis) opinion of random things, Aperture Science, or the portal gun. All quotes are from the first Portal game. Simply ask her to say something.",
   "enablement": null,
   "exampleInteractions": [

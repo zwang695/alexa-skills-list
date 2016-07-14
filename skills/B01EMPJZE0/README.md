@@ -18,7 +18,7 @@ Impress your friends and family with your vast knowledge of obscure and interest
 ### Skill Details
 
 * **Invocation Name:** church facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.958c8d41-a73f-4630-a8ad-26017659eeea
 * **ASIN:** B01EMPJZE0
 * **Author:** Rob Moncur

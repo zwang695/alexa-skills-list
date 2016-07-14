@@ -16,7 +16,7 @@ To use the 21 Dayz skill, try saying...
 ### Skill Details
 
 * **Invocation Name:** twenty one days
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a4055920-713d-4665-bb6b-ac6a90cc0f71
 * **ASIN:** B01B79Q5KQ
 * **Author:** Agile Planners

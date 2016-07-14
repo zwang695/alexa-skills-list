@@ -16,7 +16,7 @@ Math Tutor can read out the multiplication tables between 1 and 10. For example,
 ### Skill Details
 
 * **Invocation Name:** math tutor
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.bcfddc43-3ebe-49be-a0e2-545fb0b65b2a
 * **ASIN:** B017OBJZ9E
 * **Author:** Echosoft

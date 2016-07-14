@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "This is a list of inspirational quotes provided upon request. Simply ask Alexa to give you a inspirational quote.",
   "enablement": null,
   "exampleInteractions": [

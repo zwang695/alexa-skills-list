@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Stock Exchange icon" width="36"> [Stock Exchange](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e34957a2-abd8-4d5e-a2ab-fca4c4a9562b)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 41
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 42
 
 To use the Stock Exchange skill, try saying...
 
@@ -27,7 +27,7 @@ For extended help and examples of using this skill, please visit http://gobbyapp
 ### Skill Details
 
 * **Invocation Name:** stock exchange
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e34957a2-abd8-4d5e-a2ab-fca4c4a9562b
 * **ASIN:** B0186BC0LQ
 * **Author:** Gobby Apps

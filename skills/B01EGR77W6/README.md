@@ -16,7 +16,7 @@ Every day is a food-related holiday! Help us Celebrate Deliciousness with the Al
 ### Skill Details
 
 * **Invocation Name:** food holiday
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.23323256-f45f-4420-9df7-556010be5973
 * **ASIN:** B01EGR77W6
 * **Author:** seejasoncook.com

@@ -16,7 +16,7 @@ PCMag can recommend the best printer, scanner, camera, laptop, cell phone. Whate
 ### Skill Details
 
 * **Invocation Name:** p. c. mag
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f060d3ed-aab5-40dd-b730-b9d2fbd17b99
 * **ASIN:** B01DQ12PQ6
 * **Author:** Ziff Davis, LLC

@@ -4,7 +4,7 @@
   "averageRating": 1.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Communications",
+  "category": null,
   "description": "The Ooma skill lets Ooma customers listen to voicemail via the Echo.  Just follow the instructions to login with an existing Ooma account and then say things like “Alexa, ask Ooma to play my voicemail.” \n\nThis skill also lets anyone dial their phone using voice commands.  IMPORTANT NOTE:  This does not place the call using the Echo device.  It is not possible for a third party skill to use the Echo microphone and speaker for a call.  This skill connects the call via your existing phone.  \n\nTo use the voice dial feature, you can either register as a new user or login with an existing Ooma account.  You can then say something like \"Alexa, use Ooma to call 650-555-1234\", and we will ring your phone.  When you answer, we will ring the other phone and connect the call.  You can also save nicknames so next time you can just say \"Alexa, use Ooma to call Mom\". The person you call will see the call coming from your phone number.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Find exactly the right words for your poems, song lyrics, and other writing endeavors!   This skill consults RhymeZone to help you find rhymes, synonyms, adjectives, and related words for any English word.  Just say, \"What are X for Y?\", where X can be \"rhymes\", \"synonyms\", \"related words\", or \"adjectives\", and Y is any English word.  You can also say, \"What are X for Y that start with L\", where L is any letter, or \"What's an N-letter word for Y\", where N is any number.",
   "enablement": null,
   "exampleInteractions": [

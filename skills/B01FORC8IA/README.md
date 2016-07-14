@@ -16,7 +16,7 @@ Ask Alexa how to perform a dance move, and Alexa will help users bust out moves.
 ### Skill Details
 
 * **Invocation Name:** dance moves
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3769bafb-d806-43cf-afca-feb3133c6bd7
 * **ASIN:** B01FORC8IA
 * **Author:** AngelAsman

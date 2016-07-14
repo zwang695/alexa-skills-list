@@ -16,7 +16,7 @@ Wine Facts contains countless fun, obscure, informative and intriguing facts abo
 ### Skill Details
 
 * **Invocation Name:** wine facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.987a6912-e8c3-4f94-8a29-0daa76397a53
 * **ASIN:** B01E9LZZ3M
 * **Author:** Glenn Kline

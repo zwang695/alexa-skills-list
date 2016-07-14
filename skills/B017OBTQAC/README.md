@@ -18,7 +18,7 @@ Note:Craft helper is not affiliated with Mojang AB or Minecraft.
 ### Skill Details
 
 * **Invocation Name:** craft helper
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d5a11b36-4840-442a-8a2c-dfca7de9edf6
 * **ASIN:** B017OBTQAC
 * **Author:** Mike Solomon

@@ -16,7 +16,7 @@ Alexa will recite The Lord's Prayer when prompted
 ### Skill Details
 
 * **Invocation Name:** the lord's prayer
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7071bcb0-863c-4c36-bf1d-eecbc3e11852
 * **ASIN:** B01GCORQLS
 * **Author:** CMM Tech

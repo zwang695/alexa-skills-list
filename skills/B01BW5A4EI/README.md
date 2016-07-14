@@ -22,7 +22,7 @@ SUPPORT: Please send us an email at support@easilydo.com if you have any questio
 ### Skill Details
 
 * **Invocation Name:** email assistant
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c0e346b1-6f84-4b54-9b12-b50a89be0d5d
 * **ASIN:** B01BW5A4EI
 * **Author:** EasilyDo

@@ -1,10 +1,10 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DOG8U08",
-  "averageRating": 5,
+  "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Pitch Pipe is a digital chromatic pitch pipe that plays any of the thirteen pitches in an octave, each a half step above the previous. This includes: A flat, A, B flat, B, C, C sharp, D, E flat, E (low and high), F, F sharp, G. \n\nUse Pitch Pipe as a pitch reference for your singing or instrument tuning. \n\nTo hear a pitch, say \"Alexa, ask Pitch Pipe...\"\n\n- \"to play high E\"\n- \"play the key of C sharp\"\n\nEnjoy!",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "pitch pipe",
   "name": "Pitch Pipe",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

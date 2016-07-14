@@ -16,7 +16,7 @@ Ask Alexa to convert money from your country to other country. She will look for
 ### Skill Details
 
 * **Invocation Name:** currency converter
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8ccf181d-4b2a-445d-8a86-beb9e3157296
 * **ASIN:** B01AWXQTMW
 * **Author:** Rain Labs

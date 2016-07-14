@@ -16,7 +16,7 @@ Trivia for The George Washington University contains trivia questions about The 
 ### Skill Details
 
 * **Invocation Name:** trivia for g. w. u.
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d6882d38-5e5f-4b0c-88f0-3371b9286187
 * **ASIN:** B01E2MCUIG
 * **Author:** Adrian Bolinger

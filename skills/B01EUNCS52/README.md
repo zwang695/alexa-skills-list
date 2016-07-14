@@ -22,7 +22,7 @@ Note, when giving rgb or hsl values, any values over one hundred need to be pron
 ### Skill Details
 
 * **Invocation Name:** color convert
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e138b4ed-5171-414d-95a1-ca567ec7f2f1
 * **ASIN:** B01EUNCS52
 * **Author:** Chris Tieman

@@ -18,7 +18,7 @@ If you ask about a number that Number Facts doesn't know about, consider visitin
 ### Skill Details
 
 * **Invocation Name:** number facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.aff30754-9244-4387-a822-6e98ac398eb7
 * **ASIN:** B01FYGY5KA
 * **Author:** Sogono

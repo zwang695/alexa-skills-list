@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Chili Pepper Nut is an Alexa skill used for fun trivia facts about chili peppers.\nTo start the skill, say any number of directions,\n\"Alexa, ask Chili Pepper Nut a pepper fact\"\n\"Alexa, ask Chili Pepper Nut give me a pepper fact\"\n\"Alexa, ask Chili Pepper Nut tell me something\"\n\nAlexa will respond with \"Here's your pepper fact: \", and then give you a pepper fact about any number of peppers, pepper history, or information about the Scoville Scale.",
   "enablement": null,
   "exampleInteractions": [

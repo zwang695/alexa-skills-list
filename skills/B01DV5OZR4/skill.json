@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Ask Alexa for Shakespeare, she will recite for you one of the many famous quotes by Shakespeare. Answer yes if you would like to have more quotes when asked, otherwise, say No.",
   "enablement": null,
   "exampleInteractions": [

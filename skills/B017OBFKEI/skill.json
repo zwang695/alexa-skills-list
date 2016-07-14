@@ -4,7 +4,7 @@
   "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "BART Times provides the times of the next BART trains between your home and destination stations. You can also listen to live BART Service Advisories and Elevator Status information.\n\nSupported phrases you can say include: \"Set my Home Station\", \"Set my Destination Station\", \"When is my next train?\", \"What time are my next three trains?\", \"Are there any advisories?\", and \"Are the elevators okay?\".\n\nFor extended help and examples of using this skill, please visit http://gobbyapps.com.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Ask Donald Trump a question, about his policies, or how he will make america gre
 ### Skill Details
 
 * **Invocation Name:** trump
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4c357994-13f3-42bb-8ef3-215199918139
 * **ASIN:** B01BUKMHKY
 * **Author:** Chris Moyer

@@ -26,7 +26,7 @@ HINT: It is good to say 'and' between the numbers with a slight pause, this help
 ### Skill Details
 
 * **Invocation Name:** g. c. d.
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.03d9d43e-a8b0-4eba-93ae-260960ae9a6b
 * **ASIN:** B01COTHDSG
 * **Author:** Don Holmberg

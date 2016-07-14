@@ -16,7 +16,7 @@ This is a tiny app that tells you whether there is a holiday affecting trash pic
 ### Skill Details
 
 * **Invocation Name:** trash pick up
-* **Category:** Utilities
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.07a60904-1bbe-4da0-b02f-fc19f7921447
 * **ASIN:** B01DCRJVQG
 * **Author:** Peter Roca

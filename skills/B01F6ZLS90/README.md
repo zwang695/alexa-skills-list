@@ -16,7 +16,7 @@ A trivia game where the questions are about anything and everything! Do you thin
 ### Skill Details
 
 * **Invocation Name:** random trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.88e0e365-f566-4c47-b37a-4263ec75149f
 * **ASIN:** B01F6ZLS90
 * **Author:** Yamuda

@@ -18,7 +18,7 @@ Once you’re all set up and have your remotes added in the Smart IR Remote - An
 ### Skill Details
 
 * **Invocation Name:** any mote
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8490411f-89ee-4b91-bedc-44cf18e343ec
 * **ASIN:** B018YICXQS
 * **Author:** AB Mobile

@@ -8,7 +8,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Social",
+  "category": null,
   "description": "After linking your Slack account, you can post to Slack using your Alexa device by simply saying the channel and message you want to post.\n\nThis skill is not created by, affiliated with, or supported by Slack Technologies, Inc.",
   "enablement": null,
   "exampleInteractions": [

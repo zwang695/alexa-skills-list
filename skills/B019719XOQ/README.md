@@ -41,7 +41,7 @@ Get program status
 ### Skill Details
 
 * **Invocation Name:** izzy
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0c691557-2597-4018-ba9b-4abe6821e7ca
 * **ASIN:** B019719XOQ
 * **Author:** Universal Devices, Inc.

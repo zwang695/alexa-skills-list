@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="GBR icon" width="36"> [GBR](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9f9c2f2a-0dd2-459a-9555-d17ea30c7888)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 9
+![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 10
 
 To use the GBR skill, try saying...
 
@@ -23,7 +23,7 @@ Johnny 'The Jet' Rodgers
 ### Skill Details
 
 * **Invocation Name:** go big red
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9f9c2f2a-0dd2-459a-9555-d17ea30c7888
 * **ASIN:** B01DVOLVFY
 * **Author:** CHH

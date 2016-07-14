@@ -16,7 +16,7 @@ You raise your e-cat living in Alexa with 'Cat Raiser'. You can feed it, pet it 
 ### Skill Details
 
 * **Invocation Name:** cat raiser
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.45f74a1f-e682-480c-89d8-908c83c92de3
 * **ASIN:** B019NWDIAO
 * **Author:** Yu Tang

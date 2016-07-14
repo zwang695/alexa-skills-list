@@ -16,7 +16,7 @@ Get information about the upcoming long weekend. Useful for planning ahead your 
 ### Skill Details
 
 * **Invocation Name:** long weekend
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5c54487b-0481-4e61-bbf9-391c349139b9
 * **ASIN:** B018J48DXE
 * **Author:** TapsUnlimited

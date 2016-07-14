@@ -14,7 +14,7 @@ It is often difficult the remember all the foods and drinks you can consume on t
 ### Skill Details
 
 * **Invocation Name:** slow carb checker
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b4fe5139-32c9-4633-a736-4717720c8882
 * **ASIN:** B01E2UQ0V6
 * **Author:** Pat Khunachak

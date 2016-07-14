@@ -18,7 +18,7 @@ To use this skill, enable the skill and use the example phrases provided
 ### Skill Details
 
 * **Invocation Name:** new parent quiz
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a8047544-7407-4062-b980-b308fd4a2a20
 * **ASIN:** B01FEOD3DW
 * **Author:** HealthyLife

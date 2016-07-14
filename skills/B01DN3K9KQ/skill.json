@@ -4,7 +4,7 @@
   "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "With this skill you can get information for The Division video game.  At the time of releasing this skill there were 83 gear/weapon/ability talents in the game, and skill can describe them all to you.  It can also tell you what talents can be rolled on a piece of gear, and what the daily missions are.\n\nSome really common phrases you could use would be things like the following:\n\nAlexa, ask Issac how long until reset\n\nAlexa, ask Issac for the Daily Missions\n   NOTE: Daily Missions are scraped from Reddit Posts which are done manually by a moderator, so information may take some time after daily reset.\n\nAlexa, ask Issac what talents can I roll on <Knee Pads> \n   NOTE: (change Knee Pads to other types of gear)\n\nAlexa, ask Issac to about the skill <Support Station>\n   NOTE: (change Support Station to any skill)\n\nAlexa, ask Issac to about the talent <Vigorous>\n   NOTE: (change Vigorous to any talent)\n\nAlexa, ask Issac about <Jessica Kandel>\n   NOTE: (You can use any main story character's name here)\n\nAlexa, ask Issac about <Cleaners>\n   NOTE: (most of the common jargon in game is defined here, adding more all the time)",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ This is a skill that tells you interesting horror movie trivia. It will tell you
 ### Skill Details
 
 * **Invocation Name:** horror trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.54250ca1-05c7-4bcf-9374-08c4203a1585
 * **ASIN:** B01EUIQR90
 * **Author:** Civilizr

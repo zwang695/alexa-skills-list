@@ -20,7 +20,7 @@ Alexa, Ask Dinner Maker what is the recipe for meatball sub?
 ### Skill Details
 
 * **Invocation Name:** dinner maker
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9eec0bab-6c2b-41aa-9457-816b3029c6d3
 * **ASIN:** B01FO6QP3A
 * **Author:** kevinvle

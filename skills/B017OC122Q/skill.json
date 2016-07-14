@@ -4,7 +4,7 @@
   "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Blackjack is played all over the world, with many local variations in rules. The basic aim always remains the same - to beat the dealer.\n\nSimply 'hit' for more cards until you think you'll have a higher total than the dealer. But don't go over 21, or you'll be bust.\n\nPlay a game now, and see if you can beat the dealer.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "To use the Santa’s Helper skill, try saying…\n\n“Alexa, ask Santa where are you?”\n“Alexa, ask Santa if I’m on the nice list.”\n“Alexa, ask Santa for a joke.\"\n“Alexa, ask Santa for a Christmas fact.\"\n\nEvery year, Santa brings presents and joy to millions of children throughout the world. With Santa’s Helper, find out if you’re on the nice list, hear jokes and facts about Christmas, and check in on Santa’s location throughout Christmas Eve.\n\nHappy Holidays!",
   "enablement": null,
   "exampleInteractions": [

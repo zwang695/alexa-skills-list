@@ -19,7 +19,7 @@ Go to http://koncipi.com to keep up to date on this and other voice apps with th
 ### Skill Details
 
 * **Invocation Name:** utterly body quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1e7d9dc0-6037-4227-9e7a-fab00f9be9db
 * **ASIN:** B01CE30RSK
 * **Author:** Mitch Buchman

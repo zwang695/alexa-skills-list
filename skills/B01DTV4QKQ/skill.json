@@ -4,7 +4,7 @@
   "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Times for MARTA will tell you how soon the next train will arrive at different stations within the MARTA subway system in Atlanta.",
   "enablement": null,
   "exampleInteractions": [

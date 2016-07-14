@@ -36,7 +36,7 @@ COMING SOON: Add your own trivia questions to the game!
 ### Skill Details
 
 * **Invocation Name:** trivia game for star wars
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0b117e5e-eae7-404d-9a44-716959a2557f
 * **ASIN:** B01F99FYKC
 * **Author:** Michael Hargiss

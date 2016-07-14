@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This skill asks the user a round of 3 questions about the author of the application. They are given one point for each question they get correct. At the end of the round the total score is given.",
   "enablement": null,
   "exampleInteractions": [

@@ -22,7 +22,7 @@ Feedback and reviews welcome! Thank you for playing.
 ### Skill Details
 
 * **Invocation Name:** trivia on harry potter
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7e960cba-05be-416e-9495-ff626c767092
 * **ASIN:** B01CY9TW9Y
 * **Author:** Bobby

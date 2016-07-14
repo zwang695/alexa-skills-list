@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This skill will test your knowledge of the Harry Potter novels. In order to begin, just say \"Potter Trivia\" and Alex will begin the game. After she asks a question, you will just need to say the number of the answer that you think is correct, or with a phrase such as \"the answer is four\".\n\nThe game will last for a total of 5 questions.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ Test your knowledge of the division one college basketball tournament with this 
 ### Skill Details
 
 * **Invocation Name:** tournament trivia
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d05c8a00-8862-4898-8734-b92beedc9523
 * **ASIN:** B01CKP79R4
 * **Author:** Six Voices

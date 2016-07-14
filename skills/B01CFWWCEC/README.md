@@ -14,7 +14,7 @@ Expand or test your knowledge of the Easter holiday with this Alexa Skill.
 ### Skill Details
 
 * **Invocation Name:** easter trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.57bca020-bcb4-473f-83fb-c7713f61a9a7
 * **ASIN:** B01CFWWCEC
 * **Author:** Six Voices

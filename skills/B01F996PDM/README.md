@@ -16,7 +16,7 @@ Test your knowledge of the human body with this vocal quiz brought to you by Emm
 ### Skill Details
 
 * **Invocation Name:** science time
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e6acabbb-aabf-4f4f-abe4-109488eab180
 * **ASIN:** B01F996PDM
 * **Author:** Development Team

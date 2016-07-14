@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "This is a simple skill which allows the user to query the status of the New York City subway system (MTA).  A user can currently ask for a summary of the status of all lines, with more features coming soon.",
   "enablement": null,
   "exampleInteractions": [

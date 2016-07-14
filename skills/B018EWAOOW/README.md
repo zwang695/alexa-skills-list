@@ -24,7 +24,7 @@ Show episode data provided by the awesome http://tvmaze.com.
 ### Skill Details
 
 * **Invocation Name:** t. v. shows
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.86c9a430-8e8d-4a8e-a407-314b863a1796
 * **ASIN:** B018EWAOOW
 * **Author:** Gobby Apps

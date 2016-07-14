@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Dylan Punster will try to find the closest matching pun based on the words in the phrase you tell him.",
   "enablement": null,
   "exampleInteractions": [

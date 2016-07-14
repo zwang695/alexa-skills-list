@@ -18,7 +18,7 @@ The first step is enabling the skill. Then, this skill works by allowing you to 
 ### Skill Details
 
 * **Invocation Name:** daily affirmation
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a17bc005-a00c-422f-8858-9fed34da389f
 * **ASIN:** B019YOO6R0
 * **Author:** GeekGirl Marketing and App Development

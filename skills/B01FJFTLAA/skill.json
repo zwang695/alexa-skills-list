@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "Yoga Guru is a skill which will tell you how to do a yoga pose.  Currently there are over 30 poses.  We are continuing to add more poses.\n\nTo use this skill, enable it and ask the following question:\n\nAlexa, Ask Yoga Guru how do I pose a cobra.",
   "enablement": null,
   "exampleInteractions": [

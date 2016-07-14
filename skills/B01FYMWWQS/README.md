@@ -16,7 +16,7 @@ Demonstrate your prowess at the phonetic alphabet used by NATO and aviation prof
 ### Skill Details
 
 * **Invocation Name:** alpha bravo charlie
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.df2ed753-716d-4dcb-8cb3-806caa6ab52b
 * **ASIN:** B01FYMWWQS
 * **Author:** Thomas Tongue

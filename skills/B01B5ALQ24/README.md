@@ -16,7 +16,7 @@ This skill tell you interesting facts about India which most people don't know.
 ### Skill Details
 
 * **Invocation Name:** indian guy
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.381c7b1e-b98b-44cd-9cd0-6878ceb27a4e
 * **ASIN:** B01B5ALQ24
 * **Author:** Anand Kumar

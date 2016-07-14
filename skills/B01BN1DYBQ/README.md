@@ -30,7 +30,7 @@ You can also use the example phrases below as your guide. For more information a
 ### Skill Details
 
 * **Invocation Name:** mindfulness
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d5cd74c4-4884-41fe-a8af-d9330a2fd53e
 * **ASIN:** B01BN1DYBQ
 * **Author:** GeekGirl Marketing and App Development

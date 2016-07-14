@@ -16,7 +16,7 @@ This is a learning skill which provides French translations for English words or
 ### Skill Details
 
 * **Invocation Name:** french tutor
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.13f5c5bd-290a-4717-9de1-1ff25f997f7c
 * **ASIN:** B01ED8WY8A
 * **Author:** Ganesh

@@ -19,7 +19,7 @@ Random odd facts for your amusement and bemusement.
 ### Skill Details
 
 * **Invocation Name:** odd facts
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8bea169b-82ba-4004-98bb-a6353c2c1376
 * **ASIN:** B01DJHFHNU
 * **Author:** gitbnw

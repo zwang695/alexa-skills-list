@@ -16,7 +16,7 @@ Focus Word provides an inspirational word or phrase along with a brief statement
 ### Skill Details
 
 * **Invocation Name:** focus word
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.705404af-499b-4e41-b6c6-4ef3b66383e5
 * **ASIN:** B017OBMC1M
 * **Author:** LME Skills

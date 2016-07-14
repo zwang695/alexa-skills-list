@@ -16,7 +16,7 @@ The cost to have a one-on-one speech therapist section is expensive (Average cos
 ### Skill Details
 
 * **Invocation Name:** doctor speech
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8ee14a43-e9f7-4f00-a8fb-2254d8008587
 * **ASIN:** B01FPWIUN6
 * **Author:** Mandy Chan

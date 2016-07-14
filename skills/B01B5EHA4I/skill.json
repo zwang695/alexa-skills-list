@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Are you a javascript master? Or just learning and practicing? \nTest your skills with JavaScript Quiz!",
   "enablement": null,
   "exampleInteractions": [

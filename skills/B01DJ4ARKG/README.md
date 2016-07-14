@@ -18,7 +18,7 @@ Much thanks to Wikipedia for awesome information and the Spurs for awesome chara
 ### Skill Details
 
 * **Invocation Name:** go spurs trivia
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.19903226-a572-4dc8-b785-4cc181292713
 * **ASIN:** B01DJ4ARKG
 * **Author:** Ibgib LLC

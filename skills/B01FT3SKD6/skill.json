@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "Keep up to date on the latest scores from every PGA TOUR event throughout the season.  Ask Alexa for the latest leaderboard or get the score of your favorite player.",
   "enablement": null,
   "exampleInteractions": [

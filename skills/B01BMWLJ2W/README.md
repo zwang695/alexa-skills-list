@@ -31,7 +31,7 @@ Hebcal is pronounced HEEB-kal, as in HEBrew CALendar.
 ### Skill Details
 
 * **Invocation Name:** hebcal
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.24d6d476-8351-403f-9047-f08e42a9f623
 * **ASIN:** B01BMWLJ2W
 * **Author:** Hebcal

@@ -16,7 +16,7 @@ Football fans have their own language when they talk about the game. To keep up,
 ### Skill Details
 
 * **Invocation Name:** football buddy
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.08fc8e35-010c-4028-b782-a16d85951b78
 * **ASIN:** B01FNMN6T6
 * **Author:** Aradhana Duppala

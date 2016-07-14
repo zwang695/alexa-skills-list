@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "ZigBee, Z-wave, Wi-Fi, Insteon, SmartThings, MQTT, broker, sensor, actuator, hub, cloud - so many terms, so many \"things\", oh my! Test yourself to become the IoT wizard.\n\nThe IoT Trivia Game will ask you 5 questions about the Internet of Things, try to get as many right as you can. Just say the number of the answer you think is the right one. Good luck!",
   "enablement": null,
   "exampleInteractions": [

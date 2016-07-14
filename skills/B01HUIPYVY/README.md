@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Pied Piper Skill icon" width="36"> [Pied Piper Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fabbe24e-2250-4a3f-8e7f-efdb64f66a64)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Pied Piper Skill skill, try saying...
 

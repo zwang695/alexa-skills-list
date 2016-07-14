@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Can you ace questions like these?\n\"In Trigun, what is the price on Vash the Stampede's head?\"\n\"In Death Note, what sport did Light and L play against each other?\"\n\nPut your knowledge to the test and see if you can call yourself a true anime fan!",
   "enablement": null,
   "exampleInteractions": [

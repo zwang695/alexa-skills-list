@@ -24,7 +24,7 @@ BMI is applicable for adults only and its just a indicative number and does not 
 ### Skill Details
 
 * **Invocation Name:** b. m. i. teller
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cc5eb607-a75a-4b8f-96f5-ce9166bdccb4
 * **ASIN:** B01CH04AGK
 * **Author:** Wiliams Solutions

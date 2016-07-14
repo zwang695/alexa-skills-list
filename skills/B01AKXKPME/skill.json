@@ -4,7 +4,7 @@
   "averageRating": 2.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "Once you link the skill to a Bean Jar account, then you can start tracking reward points for members of your family.  Add points, remove points, report how many points each person has, and more. More details at beanjar.net",
   "enablement": null,
   "exampleInteractions": [

@@ -22,7 +22,7 @@ Alexa, ask Golf Shot Live, what is the average score today?
 ### Skill Details
 
 * **Invocation Name:** golf shot live
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.378f90ad-65d6-4794-b7fa-ddbd5c2bf1e7
 * **ASIN:** B01GEZVNKK
 * **Author:** Mike Webb

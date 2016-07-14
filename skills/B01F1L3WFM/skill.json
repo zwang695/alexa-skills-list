@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "A quick way to learn interesting tidbits about the game and the history of soccer, or football as it's called outside the United States.",
   "enablement": null,
   "exampleInteractions": [

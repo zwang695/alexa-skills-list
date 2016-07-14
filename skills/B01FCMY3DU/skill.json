@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "You can use Pick Someone to create a list of names and have it choose one from your list at random.  Ask Pick Someone to add or delete a name and choose someone. You can also hear the list by asking Alexa to ask Pick Someone to list all.",
   "enablement": null,
   "exampleInteractions": [

@@ -18,7 +18,7 @@ And if you're also a big movie fan then check out Titus' brother Milo.  The Milo
 ### Skill Details
 
 * **Invocation Name:** titus
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5ec69ff7-5f29-47b8-9ec9-f8a319164c4b
 * **ASIN:** B01DJT93IS
 * **Author:** techdad24.com

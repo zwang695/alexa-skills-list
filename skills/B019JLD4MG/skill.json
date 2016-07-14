@@ -4,7 +4,7 @@
   "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "The Game Dice skill allows Alexa to roll a number of multi-sided dice and announce the resulting total. With Game Dice, Alexa can roll up to 100 dice having anywhere between two and one hundred sizes. For example, asking Game Dice to roll either \"three ten-sided dice\" or \"three ten-siders\" will return a number between three and thirty. Game Dice understands the common gaming parlance of referring a ten-sided die as a \"d10\" (or whatever size die you'd like to have rolled).",
   "enablement": null,
   "exampleInteractions": [

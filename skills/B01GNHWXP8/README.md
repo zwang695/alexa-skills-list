@@ -38,7 +38,7 @@ Version 1.0.0
 ### Skill Details
 
 * **Invocation Name:** let's subtract
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d16b9351-5fb5-43ff-94a6-56aff77d4f6d
 * **ASIN:** B01GNHWXP8
 * **Author:** Wobble Mouth

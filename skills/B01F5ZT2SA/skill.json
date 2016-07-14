@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "News Anchor is your personalized reader about news, sports, recreation, autos, travel, entertainment, health or electronics.\n\nYou can also ask News Anchor to search for any topic you have in mind, like sailing.\n\nNews Anchor is aggregating news from hundreds of sites around the web to read for you the most interesting articles about your preferred topic.",
   "enablement": null,
   "exampleInteractions": [

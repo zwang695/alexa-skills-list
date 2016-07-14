@@ -16,7 +16,7 @@ Cashback for Credit Cards which has quaterly rewards like Discover and Chase. Th
 ### Skill Details
 
 * **Invocation Name:** cash back
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.99ddb0f4-bbe6-40b1-8ab3-9b7756ba6b74
 * **ASIN:** B01GAOD718
 * **Author:** Isha Technologies

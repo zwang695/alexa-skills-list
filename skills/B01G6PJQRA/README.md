@@ -18,7 +18,7 @@ Didn't hear your favorite Stupid Cat Joke? You would like to make an anonymous c
 ### Skill Details
 
 * **Invocation Name:** cat jokes
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fc3f27be-7c9c-4236-be93-2ae92737b391
 * **ASIN:** B01G6PJQRA
 * **Author:** www.drBlankenstein.com

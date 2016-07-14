@@ -16,7 +16,7 @@ This trivia game reveals fun facts about U.S. States.
 ### Skill Details
 
 * **Invocation Name:** states trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.dea254be-1e64-402d-8af5-de9fd7717ad7
 * **ASIN:** B01FIGMN6O
 * **Author:** Sarah Schoonmaker

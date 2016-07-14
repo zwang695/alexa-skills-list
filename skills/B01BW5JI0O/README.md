@@ -22,7 +22,7 @@ Play now and see if you can beat Alexa!
 ### Skill Details
 
 * **Invocation Name:** five card draw
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1b7713b0-bfd0-4831-8506-447384607766
 * **ASIN:** B01BW5JI0O
 * **Author:** Matt DuLeone

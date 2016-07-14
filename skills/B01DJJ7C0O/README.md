@@ -16,7 +16,7 @@ Welcome to Today in History. Just ask Alexa for today in history and she will re
 ### Skill Details
 
 * **Invocation Name:** today in history
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.877602b7-46d9-4add-94d5-fe215dfd73a7
 * **ASIN:** B01DJJ7C0O
 * **Author:** MemCheck

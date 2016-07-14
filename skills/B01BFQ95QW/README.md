@@ -16,7 +16,7 @@ In Greek mythology, Iris is the messenger of the Gods. In today’s reality, Iri
 ### Skill Details
 
 * **Invocation Name:** iris
-* **Category:** Social
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a3cb5a4f-9748-45ac-98cf-0e77661e05cf
 * **ASIN:** B01BFQ95QW
 * **Author:** Narrative

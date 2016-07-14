@@ -4,7 +4,7 @@
   "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Other",
+  "category": null,
   "description": "Have fun asking yes or no questions to the magic eight ball and listening to it's predictions.  This is not a real prediction app it is meant for you to have fun.",
   "enablement": null,
   "exampleInteractions": [

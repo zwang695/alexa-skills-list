@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "In need of some dice? Dungeon dice can roll a random 4-sided, 6-sided, 8-sided, 10-sided and 20-sided dice for you. This skill is intended to be a fast, easy way to generate random dice rolls, wether you're playing a game with friends or just looking for some random dice! You can ask Alexa for dice rolls with the formal \"D\" or without. For example \"Roll a d20\" works just as well as \"Roll a 20.\"",
   "enablement": null,
   "exampleInteractions": [

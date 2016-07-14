@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "WorkoutHelper is a skill that can help you with workout recipes for your current mood.\n\nTo use the skill, enable it. Then you can ask the following:\n\nAlexa, ask workout helper what workout is suitable when I am happy",
   "enablement": null,
   "exampleInteractions": [

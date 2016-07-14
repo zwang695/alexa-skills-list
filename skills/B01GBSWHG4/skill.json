@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Gives a random llama fact.\n\nLlama icon made by freepik (http://freepik.com) from http://flaticon.com, CC BY 3.0",
   "enablement": null,
   "exampleInteractions": [

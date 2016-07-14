@@ -16,7 +16,7 @@ An trivia game for University of Oklahoma sports.
 ### Skill Details
 
 * **Invocation Name:** oklahoma sports trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f6c508cb-371a-4afb-9e42-65a7d070ceea
 * **ASIN:** B01FGSRI4Q
 * **Author:** Jeff Sittler

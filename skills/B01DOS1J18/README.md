@@ -16,7 +16,7 @@ Ear Trainer helps you to improve your interval recognition by letting you play a
 ### Skill Details
 
 * **Invocation Name:** ear trainer
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.48e185d8-78f2-4abe-8d3c-2aff2606d40f
 * **ASIN:** B01DOS1J18
 * **Author:** Eric Fung

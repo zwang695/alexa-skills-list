@@ -16,7 +16,7 @@ Meteor Shower responds with any visible meteor showers for the night.
 ### Skill Details
 
 * **Invocation Name:** meteor showers
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.41ca8790-9637-45bc-b8a5-5a7e0fe2bf7e
 * **ASIN:** B01B1WMJ9K
 * **Author:** HDRider

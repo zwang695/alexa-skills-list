@@ -4,7 +4,7 @@
   "averageRating": 2.4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "My Memory is a simple skill that you can ask to remember things and recall them for you later.\n\nYou can ask it to remember that time when you did something, and later ask how many times you did that thing, or when was the last time you did that other thing. You can ask it how many memories it has, and if you want to start over, you can simply forget your memory.\n\nYou can also ask it to remember something you did last week, will do later this week, or any date in the past or future. To remember something you did last Friday, you can just say, 'last Friday'!\n\nMy Memory is for entertainment purposes only!\n\nIcon by Ben at https://openclipart.org/detail/192626/brain",
   "enablement": null,
   "exampleInteractions": [

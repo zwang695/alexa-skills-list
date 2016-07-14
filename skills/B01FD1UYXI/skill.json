@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "The goal of this trivia is to test user's knowledge in medical marijuana, this skill is not intended to advocate nor deny medical marijuana. Twenty four states and Washington DC have enacted laws to legalize medical marijuana, and the number of studies done on medical marijuana has been skyrocketing. This is a platform for you to test your knowledge only, it is not intended to encourage or discourage you to try it.\n\nSimple say \"Alexa, launch medical marijuana trivia\" or \"Alexa, start medical marijuana trivia\" to start the game.\n\nDISCLAIMERS: This skill may not be suitable for all ages. This skill is not designed to provide medical advice, professional diagnosis, opinion, treatment or services to you or to any other individual. This skill is for general informational purpose only, it does not constitute legal or other professional advice.",
   "enablement": null,
   "exampleInteractions": [

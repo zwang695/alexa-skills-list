@@ -1,10 +1,10 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01E81WBHG",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "The Funny Batman Trivia game will give you a different look at the potential dialogue, thoughts, and events that could have happened in the Batman universe. \n\nTest your knowledge of the Dark Knight or just have fun.\n\n Enjoy!",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "funny batman trivia",
   "name": "Funny Batman Trivia",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -14,7 +14,7 @@ Learn fun and educational facts about the great state of West Virginia,
 ### Skill Details
 
 * **Invocation Name:** west virginia facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.afaeb504-8859-472b-b818-0b432a352044
 * **ASIN:** B01EC6F74G
 * **Author:** Killa Bee Software

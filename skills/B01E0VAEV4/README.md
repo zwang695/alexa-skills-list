@@ -16,7 +16,7 @@ C-3PO Presents: Trivia questions for the Star Wars Universe!
 ### Skill Details
 
 * **Invocation Name:** trivia for star wars
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.17fbb6d9-1456-4add-be84-2cb6dff3008b
 * **ASIN:** B01E0VAEV4
 * **Author:** Bloc.io

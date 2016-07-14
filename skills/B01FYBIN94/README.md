@@ -16,7 +16,7 @@ Star Trek Facts for Trekkies, find interesting facts about your favorite Star Tr
 ### Skill Details
 
 * **Invocation Name:** trekkie facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b78010c2-b714-493b-be53-2ab730811d3d
 * **ASIN:** B01FYBIN94
 * **Author:** TLE Creations

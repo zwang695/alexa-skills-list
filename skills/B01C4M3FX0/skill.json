@@ -4,7 +4,7 @@
   "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "The Alexa QRZ application provides hands-free, easy access to the FCC radio license database.  Instead of grabbing for you laptop, simply say \"Alexa, ask QRZ who is AA7BQ please?\".  For the best results, use the Phonetic Alphabet, for example \"alpha alpha seven bravo quebec\" and end your question with the word \"please\", \"over\", or \"stop\".\n\nCurrently the Alexa QRZ skill only works on American FCC callsigns.",
   "enablement": null,
   "exampleInteractions": [

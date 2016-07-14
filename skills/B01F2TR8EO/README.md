@@ -14,7 +14,7 @@ Finds out where the Lansing River Trail is flooded.
 ### Skill Details
 
 * **Invocation Name:** lansing river trail
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4a68936c-5bbb-4374-a104-04d8ec8dba6a
 * **ASIN:** B01F2TR8EO
 * **Author:** JRR

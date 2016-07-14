@@ -16,7 +16,7 @@ Audacy is a new space startup that builds satellites to allow inter-satellite co
 ### Skill Details
 
 * **Invocation Name:** audacy
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b1c46443-b819-483c-8f71-aed5b9ca9331
 * **ASIN:** B01EB2UM8M
 * **Author:** ourhome

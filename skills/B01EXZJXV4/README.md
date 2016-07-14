@@ -16,7 +16,7 @@ To Know about Ice Hockey and Ice hockey history.  currently we are having around
 ### Skill Details
 
 * **Invocation Name:** hockey master
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.93b512e8-586a-4b7b-b8b3-9c9c6729836e
 * **ASIN:** B01EXZJXV4
 * **Author:** SUDHI

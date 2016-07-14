@@ -16,7 +16,7 @@ This skill reads you a noteworthy quote and its author.
 ### Skill Details
 
 * **Invocation Name:** noteworthy quotes
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9386938b-64cd-4aa8-b273-b29d571d7686
 * **ASIN:** B01DL10338
 * **Author:** Ewen Chou

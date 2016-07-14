@@ -16,7 +16,7 @@ Boston Facts is to help everyone learn more about the city of Boston in Massachu
 ### Skill Details
 
 * **Invocation Name:** boston facts
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a22864d2-a78a-449e-9887-a3e5fac4d22a
 * **ASIN:** B01FRO14C6
 * **Author:** Michael Bonnell

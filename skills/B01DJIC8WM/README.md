@@ -16,7 +16,7 @@ Remember the Name Game song from 1964 by Shirley Ellis? Well, maybe not but you 
 ### Skill Details
 
 * **Invocation Name:** name game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.96f2e939-0afd-4615-afe4-439773cb335f
 * **ASIN:** B01DJIC8WM
 * **Author:** Webguild

@@ -12,7 +12,7 @@ It plays a game of trivia
 ### Skill Details
 
 * **Invocation Name:** pool trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.58b9aa7e-ed40-4eac-8374-7c7ecf0d4e09
 * **ASIN:** B01FNX1E44
 * **Author:** Josiah Cole Hopkins

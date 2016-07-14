@@ -18,7 +18,7 @@ This is an unofficial Meh app, not affiliated with Meh.
 ### Skill Details
 
 * **Invocation Name:** meh voice
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a4ce8fde-8da8-4861-93b6-7e2a406025c1
 * **ASIN:** B01DKXAZV2
 * **Author:** East Codes

@@ -16,7 +16,7 @@ This multiple-choice game is a fun way to challenge what you know about the movi
 ### Skill Details
 
 * **Invocation Name:** old school trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8bbc51de-0770-47a7-8bc5-a7f0df5208c1
 * **ASIN:** B01C9JJ64U
 * **Author:** onetwentyseven inc

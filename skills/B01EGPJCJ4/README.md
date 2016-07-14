@@ -16,7 +16,7 @@ Roman History is a very simple skill that provides random trivia about Ancient R
 ### Skill Details
 
 * **Invocation Name:** roman history
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fa4c9328-7ab4-429e-b2be-4f421dc241a3
 * **ASIN:** B01EGPJCJ4
 * **Author:** MindlessZ

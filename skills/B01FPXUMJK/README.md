@@ -16,7 +16,7 @@ Have Alexa recite your house rules!  Simply set your rules and the next time the
 ### Skill Details
 
 * **Invocation Name:** house rules
-* **Category:** Communications
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a030169e-8615-4672-bef2-e40ac20de322
 * **ASIN:** B01FPXUMJK
 * **Author:** Suprovici Holdings, Inc.

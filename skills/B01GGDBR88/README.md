@@ -18,7 +18,7 @@ Get started by configuring Alexa to remember the default bus stop near your home
 ### Skill Details
 
 * **Invocation Name:** s. g. buses
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2be9039e-7921-4836-8414-abf2a780f457
 * **ASIN:** B01GGDBR88
 * **Author:** honcheng

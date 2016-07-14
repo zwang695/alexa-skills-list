@@ -18,7 +18,7 @@ Special thanks to Josh Skeen for his assistance on this project. Icon made by Fr
 ### Skill Details
 
 * **Invocation Name:** date ninja
-* **Category:** Productivity
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2e9956ae-be93-4975-9210-0c3482154fee
 * **ASIN:** B01EVIEA5C
 * **Author:** Adrian Bolinger

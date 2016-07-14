@@ -16,7 +16,7 @@ This skill will generate a technology statement using a large collection of buzz
 ### Skill Details
 
 * **Invocation Name:** tech buzz
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.75cb1342-1c6d-4346-a560-4951228cdaf1
 * **ASIN:** B01BN1LYDG
 * **Author:** Kevin Kazmierczak

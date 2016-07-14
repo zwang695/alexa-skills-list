@@ -16,7 +16,7 @@ Find out what your spirit animal is at that time. This will help guide decisions
 ### Skill Details
 
 * **Invocation Name:** oh wise one
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d664886b-c4a5-4014-bf3c-cf5814370120
 * **ASIN:** B01E0EUP9W
 * **Author:** Tom Hudson

@@ -24,7 +24,7 @@ This skill is fun to play alone, or compete with your family and friends to see 
 ### Skill Details
 
 * **Invocation Name:** mythical unicorn trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.977eb2cf-4132-42d9-8ede-ca7ae0999197
 * **ASIN:** B01FOPC2G0
 * **Author:** Unity App Design

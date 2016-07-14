@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "This is a skill that tells you interesting horror movie trivia. It will tell you a horror movie fact every time it is called.",
   "enablement": null,
   "exampleInteractions": [

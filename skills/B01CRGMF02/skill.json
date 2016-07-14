@@ -4,7 +4,7 @@
   "averageRating": 2.3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "A short Trivia Quiz on Donald Trump.  If you like Trump please rate this skill.",
   "enablement": null,
   "exampleInteractions": [

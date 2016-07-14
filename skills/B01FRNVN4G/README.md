@@ -16,7 +16,7 @@ Boost your indie credibility with interesting facts about your favorite bands. A
 ### Skill Details
 
 * **Invocation Name:** indie cred
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8f616f2b-3330-443e-b20b-511fd981609e
 * **ASIN:** B01FRNVN4G
 * **Author:** Scott Auth

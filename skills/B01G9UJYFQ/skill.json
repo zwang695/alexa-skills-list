@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Social",
+  "category": null,
   "description": "This skill recites a random memory verse using the NIV translation. Just ask Alexa to start Bible Verse.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "A trivia game where the questions are about anything and everything! Do you think you know enough random information?",
   "enablement": null,
   "exampleInteractions": [

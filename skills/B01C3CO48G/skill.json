@@ -4,7 +4,7 @@
   "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Animal, Vegetable or Mineral?\n\nThink of almost anything and Twenty Questions will figure it out in (you guessed it!) twenty questions or fewer.\n\nTry to outwit Twenty Questions in this classic game!\n\nNote: Twenty Questions is smart, but not omniscient. Try to focus on broader terms for animals, plants and objects. If you're thinking of something that is not an animal or plant, say mineral. You can also say \"other\" if it's an abstract concept or \"unknown\" if you're not sure.\n\nTwenty Questions may ask seemingly irrelevant or repeated questions - this is normal. You can skip a question by saying \"next\" or \"I don't know,\" but skipped questions won't count towards the twenty question limit.\n\nBe sure to rate the game if you enjoy it!",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "twenty questions",
   "name": "Twenty Questions",
-  "numberOfReviews": 14,
+  "numberOfReviews": 16,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

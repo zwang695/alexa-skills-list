@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Crack the code and save the day!\n\nBased on the Mastermind puzzle game from 1970, this game will test your wits and wiles!\n\nThe code is randomly generated and consists of 4 nodes. Each node can either be red, blue, yellow, or green. Guess all four nodes in the correct order to crack the code!\n\nFor every guess, Alexa will tell you how many nodes you guessed correctly (correct color and correct place), how many nodes you missed (correct color and incorrect place), and how many nodes you got wrong (incorrect color). Flex your logic skills and crack the code!",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This Day in History searches Wikipedia for events that occurred in the past on this day in the year. It will return one birth, one death, and one significant event. For each, it will tell you the year it happened and a brief description. \n\nEach reply is a random selection of that day's historical events, so you may ask several times to get different events.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "Discover a new artist every day with Discover Artist, just ask Alexa and we'll tell you the name of a new artist for you to check out on your favorite streaming service.",
   "enablement": null,
   "exampleInteractions": [

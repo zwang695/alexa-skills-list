@@ -16,7 +16,7 @@ This skill will allow you to test your knowledge about Hollywood movies, awards 
 ### Skill Details
 
 * **Invocation Name:** the movie trivia
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.84bfced9-a1ef-4a6b-92d4-b7bff09660ca
 * **ASIN:** B01EDLQW6M
 * **Author:** eddyed911

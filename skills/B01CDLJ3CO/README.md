@@ -16,7 +16,7 @@ Currently, you can find out the alert status on subway or commuter rail lines, a
 ### Skill Details
 
 * **Invocation Name:** boston transit
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5719344a-ba7b-4d60-9026-213b4a9aa581
 * **ASIN:** B01CDLJ3CO
 * **Author:** David Levine

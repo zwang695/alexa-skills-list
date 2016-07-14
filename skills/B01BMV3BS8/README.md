@@ -16,7 +16,7 @@ Find exactly the right words for your poems, song lyrics, and other writing ende
 ### Skill Details
 
 * **Invocation Name:** rhyme zone
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5b3f6f4f-ae24-425f-9b51-d9021856bd3a
 * **ASIN:** B01BMV3BS8
 * **Author:** Datamuse

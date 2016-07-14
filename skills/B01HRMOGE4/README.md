@@ -5,19 +5,19 @@ To use the CloudStatus skill, try saying...
 
 * *Alexa, ask CloudStatus about the Northern Virginia region*
 
-* *What's up in us-west-2?*
+* *What's up in eu-west-1?*
 
 * *Tell me about Mumbai*
 
 The CloudStatus Alexa Skill provides an interface to AWS service status information.
 
-Let CloudStatus know what region you want to check and Alexa will respond with a list of services that are experiencing trouble and what kind of issues they are having (e.g., performance issue, service disruption, informational message). CloudStatus will also list services that have recently-resolved issues.
+Let CloudStatus know what region you want to check and Alexa will respond with a list of services that are experiencing trouble and what kind of issues they are having. CloudStatus will also list services that have recently-resolved issues.
 
 When issues occur, please access the AWS status page directly for details: http://status.aws.amazon.com/
 
-Note: If AWS Lambda in us-east-1 is experiencing an outage, the CloudStatus skill itself may not be responsive.
+Note: If AWS Lambda in us-east-1 is experiencing a disruption, the CloudStatus skill itself may not be responsive.
 
-Let us know what additional cloud services you would like to be able to check with the CloudStatus skill (e.g., Google Cloud, GitHub, Twilio, ...)
+Let us know what additional cloud services you would like to be able to check with the CloudStatus skill (e.g., AWS GovCloud, AWS China, Google Cloud, Azure, GitHub, Twilio).
 
 Feedback: cloudstatus@stormyriver.com
 

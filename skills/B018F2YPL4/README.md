@@ -16,7 +16,7 @@ A guide for the early access game, ARK: Survival Evolved.  Ask the guide what's 
 ### Skill Details
 
 * **Invocation Name:** ark guide
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7c278a2d-dd4b-49af-977e-1d56eabff3e3
 * **ASIN:** B018F2YPL4
 * **Author:** Eamun Rahimi Consulting

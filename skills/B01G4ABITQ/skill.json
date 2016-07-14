@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Connected-Home",
+  "category": null,
   "description": "Debby Onsite is an assistant to Alexa to help remember where you might have left things. In this version of Debby Onsite, there is no requirement for special hardware or account to use the skill. Besides providing convenient help for the busy and forgetful, Debby Onsite has the potential to be a great assistance for the naturally born blind and visually impaired folks as well as older folks who are losing their eye-sight and their memory. With Debby Onsite, they can use Alexa to replace the impossible tasks of writing and reading reminder notes. Please note that Debby Onsite is intended to provide assistance to remember where things were placed in case you forgot. Debby Onsite should not be used as a means to hide valuable things since anyone can ask Debby Onsite to help find them.",
   "enablement": null,
   "exampleInteractions": [

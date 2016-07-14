@@ -17,7 +17,7 @@ Invocation Name: license plate finder
 ### Skill Details
 
 * **Invocation Name:** license plate finder
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f55847dc-c72d-4b2d-8721-a2d3254fc30f
 * **ASIN:** B01HQU4W46
 * **Author:** SUNNY

@@ -21,7 +21,7 @@ Alexa, Ask aromatherapy for a recipe for focus
 ### Skill Details
 
 * **Invocation Name:** aromatherapy
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0502fa03-e132-4ad5-966e-c3dfb4785ee3
 * **ASIN:** B01G7SZPYY
 * **Author:** Tutela Technologies

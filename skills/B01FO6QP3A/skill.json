@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Dinner Maker is a skill that can help tell you all the essential ingredients you will need for specific dinner recipes such as Italian meatball sub or Pho.\n\nTo use this skill, enable it. Then you can ask the following:\n\nAlexa, Ask Dinner Maker what is the recipe for meatball sub?",
   "enablement": null,
   "exampleInteractions": [

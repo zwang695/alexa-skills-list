@@ -16,7 +16,7 @@ Start your day inspired with a collection of over 200 freedom-themed quotes from
 ### Skill Details
 
 * **Invocation Name:** freedom quotes
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e3164c71-2e4d-47d4-9672-0246c1bad289
 * **ASIN:** B019PLYQ1S
 * **Author:** Liberty Crate

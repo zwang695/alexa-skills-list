@@ -16,7 +16,7 @@ Improve your knowledge of physics with this free helpful trivia game. Alexa will
 ### Skill Details
 
 * **Invocation Name:** physics bowl
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.03c49457-aaca-4174-842f-b2154c62e36d
 * **ASIN:** B01E08BW8Q
 * **Author:** Obligatory

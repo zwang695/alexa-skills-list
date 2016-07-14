@@ -17,7 +17,7 @@ Data is provided by catfacts-api.appspot.com
 ### Skill Details
 
 * **Invocation Name:** random cat
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.16b636fd-b68e-4414-a873-6d0ee9ca1c4a
 * **ASIN:** B01FEC1KY8
 * **Author:** Preferred Plus Investments

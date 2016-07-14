@@ -16,7 +16,7 @@ Get event listings from Bandsintown.com. Use Event Guide to find what concerts a
 ### Skill Details
 
 * **Invocation Name:** event guide
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ddc590db-0ba9-4898-b798-76af982b6bfa
 * **ASIN:** B017OARA8I
 * **Author:** Mark Goodrich

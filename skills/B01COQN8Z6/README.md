@@ -16,7 +16,7 @@ Test your Formula 1 history knowledge with this fun trivia game. Do you think yo
 ### Skill Details
 
 * **Invocation Name:** formula one trivia
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.549c1d84-2262-4dac-9a9f-b2c6001ffc3f
 * **ASIN:** B01COQN8Z6
 * **Author:** NortonDev

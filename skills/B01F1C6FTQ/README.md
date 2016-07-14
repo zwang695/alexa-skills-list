@@ -16,7 +16,7 @@ Gives you a chance to show how much you know about sci fi movies and tv shows.  
 ### Skill Details
 
 * **Invocation Name:** boo boo statistics
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.945a0ff6-0826-4565-83c8-914affb8536f
 * **ASIN:** B01F1C6FTQ
 * **Author:** self

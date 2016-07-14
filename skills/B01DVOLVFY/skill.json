@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "GBR will play various Husker songs and sound clips.\n\nFull list of supported sound clips:\nFight Song (There is No Place Like Nebraska)\nHail Varsity\nTunnel Walk\nTouchdown Tommie Frazier\nJohnny 'The Jet' Rodgers",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "go big red",
   "name": "GBR",
-  "numberOfReviews": 9,
+  "numberOfReviews": 10,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

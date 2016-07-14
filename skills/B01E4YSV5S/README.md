@@ -16,7 +16,7 @@ This quiz will test your knowledge of Riot's League of Legends. Play against a f
 ### Skill Details
 
 * **Invocation Name:** league quiz
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7e911982-b311-4864-aed6-8314bdd57a48
 * **ASIN:** B01E4YSV5S
 * **Author:** Christian Baez

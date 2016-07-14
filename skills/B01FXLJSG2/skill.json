@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "A trivia game featuring Metallica.  Fans and non-fans alike will enjoy this trivia game.\n\nQuestions include band history, song lyrics, guess the song, and many more.\nGuess the song questions include short audio clips from all albums, from Kill'Em All to Death Magnetic.\n\nTwo trivia modes will test your knowledge and one facts mode will teach you some interesting things about the band.\n\nExample phrases to start a custom game mode:\nAlexa, ask Classic Rock Trivia for band history questions\nAlexa, ask Classic Rock Trivia for guess the song questions\n\nAs the game progresses, the questions become more challenging.\n\nTo hear some band facts, try this:\nAlexa, ask Classic Rock Trivia for band facts\n\nIf you want to become a fan and want to learn more about the band's history, keep listening to facts and they will become longer and more in-depth.\n\nOther useful phrases while in game:\nAlexa, repeat\nAlexa, help\nAlexa, stop\n\nMore bands will be added later.  If you would like your favorite band added next, please let us know.",
   "enablement": null,
   "exampleInteractions": [

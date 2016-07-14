@@ -21,7 +21,7 @@ Alexa, open Interesting Space Facts.
 ### Skill Details
 
 * **Invocation Name:** interesting space facts
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ce2ed65a-3349-4276-9f7b-f833118d45ff
 * **ASIN:** B01FZVZQV6
 * **Author:** kevinvle

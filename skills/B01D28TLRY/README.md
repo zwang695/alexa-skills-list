@@ -18,7 +18,7 @@ Latest updates, comprehensive coverage and equal focus on Current Affairs, Polit
 ### Skill Details
 
 * **Invocation Name:** manorama
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3aaaa53c-6fa5-497c-8e2d-bba4a502e69a
 * **ASIN:** B01D28TLRY
 * **Author:** Malayala Manorama Company 

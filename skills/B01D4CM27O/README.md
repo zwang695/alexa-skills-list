@@ -16,7 +16,7 @@ Cat Facts Trivia is a fun new trivia game to test your knowledge of cats.
 ### Skill Details
 
 * **Invocation Name:** cat facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4f25d48d-b5b5-42f6-9edc-d59a2be13415
 * **ASIN:** B01D4CM27O
 * **Author:** Workshop512

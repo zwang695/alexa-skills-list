@@ -16,7 +16,7 @@ The wizard will transform you into a totally new form after you ask him to. Over
 ### Skill Details
 
 * **Invocation Name:** the wizard
-* **Category:** Other
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.460740ef-c86e-4f26-934b-77279f0c9594
 * **ASIN:** B018EX6O54
 * **Author:** BigManDotNet

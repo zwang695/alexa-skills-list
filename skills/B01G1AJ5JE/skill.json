@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Note: This skill relates to the brewing of alcoholic beverages and may not be suitable for all ages.\n\nThis skill allows you to quickly convert refractometer readings to specific gravity points and estimate ABV of finished beers.\n\nThis app responds to the name \"hopstand\". To interact, say \"Alexa, ask Hopstand to...\" followed by your command. Example: \"Alexa, Ask Hopstand to convert 14.6 brix to specific gravity\"\n\nCurrently, this app can convert refractometer readings to Original Gravity, and estimate ABV from original gravity.",
   "enablement": null,
   "exampleInteractions": [

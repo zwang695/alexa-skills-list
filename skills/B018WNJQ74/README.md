@@ -16,7 +16,7 @@ The Huffington Post is a Pulitzer Prize-winning source of breaking news, feature
 ### Skill Details
 
 * **Invocation Name:** huffpost
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f7c73d4c-c3fd-40a7-93f0-16dbb46cf440
 * **ASIN:** B018WNJQ74
 * **Author:** Huffington Post

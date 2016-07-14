@@ -18,7 +18,7 @@ To start learning fun facts, just open the skill.
 ### Skill Details
 
 * **Invocation Name:** marine life
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5eb8a5aa-ff04-4d61-a382-068d3512b53b
 * **ASIN:** B01EX83SD0
 * **Author:** SMK Web Development

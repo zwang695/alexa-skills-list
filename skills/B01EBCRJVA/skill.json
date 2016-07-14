@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Wine Buddy provides pairing tips and temperature recommendations.\n\nThis skill may not be suitable for all ages as it contains information about alcoholic beverages.",
   "enablement": null,
   "exampleInteractions": [

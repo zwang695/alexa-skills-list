@@ -4,7 +4,7 @@
   "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "Apollo, the god of music, will share music related facts and let you know who are the hottest artists of the week.",
   "enablement": null,
   "exampleInteractions": [

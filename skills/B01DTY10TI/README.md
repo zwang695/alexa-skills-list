@@ -19,7 +19,7 @@ This skill is fun to play alone or with family and friends.
 ### Skill Details
 
 * **Invocation Name:** capitals and countries
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b1a23336-6ac5-405d-8c4d-0e1f4edab06e
 * **ASIN:** B01DTY10TI
 * **Author:** wesee

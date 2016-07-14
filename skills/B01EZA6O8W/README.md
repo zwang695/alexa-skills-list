@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="MySomm icon" width="36"> [MySomm](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d7df4a7c-3f91-43e5-bf41-2e3851875429)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the MySomm skill, try saying...
 
@@ -16,7 +16,7 @@ MySomm turns Alexa into Wine Gal, your personal wine sommelier that can give you
 ### Skill Details
 
 * **Invocation Name:** wine gal
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d7df4a7c-3f91-43e5-bf41-2e3851875429
 * **ASIN:** B01EZA6O8W
 * **Author:** Asolana

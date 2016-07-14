@@ -16,7 +16,7 @@ Harness the power of your own personal wellness motivator. Simply ask Alexa for 
 ### Skill Details
 
 * **Invocation Name:** daily pledge
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.55870d27-8e0e-4ef5-bb2a-4ad81bed9b41
 * **ASIN:** B01F4J0C9K
 * **Author:** WebLifts

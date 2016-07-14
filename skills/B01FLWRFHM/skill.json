@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "This is an unofficial basic crafting helper for the PC game Starbound.\nYou can ask Alexa for basic crafting recipes if you need help. Basic recipes are any crafting items that do not require a special station to build. You can simply say \"Alexa, ask craft bound how to make a torch\".\nThis skill and it's maker are in no way affiliated with Chucklefish Games.",
   "enablement": null,
   "exampleInteractions": [

@@ -16,7 +16,7 @@ This skill will help you learn the NATO phonetic alphabet (alpha, bravo, charlie
 ### Skill Details
 
 * **Invocation Name:** phonetic alphabet trainer
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9e365e0d-28bc-4236-bce2-dd9f153196aa
 * **ASIN:** B01FTTQ9E2
 * **Author:** David Clark

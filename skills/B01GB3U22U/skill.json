@@ -11,7 +11,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "This application uses your historical workout data to recommend the time of day where you are most likely to maximize workout intensity.\n\nYou will need to link your Fitbit account to this skill in order to receive recommendations. This can be done in the Alexa app after you have enabled the skill.\n\nNote - this skill is not sponsored by Fitbit; it is built using their publicly available APIs (governed by their Terms of Service). More information on the Terms of Service can be obtained at   https://dev.fitbit.com/terms.",
   "enablement": null,
   "exampleInteractions": [

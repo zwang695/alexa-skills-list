@@ -16,7 +16,7 @@ A quick way to learn interesting tidbits about the game and the history of socce
 ### Skill Details
 
 * **Invocation Name:** soccer facts
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.36ffba19-7c54-466e-a272-d1bd976bdc41
 * **ASIN:** B01F1L3WFM
 * **Author:** Aaron Koz

@@ -22,7 +22,7 @@ Just say “Alexa, ask mydlink to turn on living room light.” and Alexa will c
 ### Skill Details
 
 * **Invocation Name:** my dee link
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e8ea2440-fac2-429f-8b6d-fb01669a652e
 * **ASIN:** B01BL06CC2
 * **Author:** Dlink

@@ -16,7 +16,7 @@ Counting sheep has been hailed for centuries as the quickest way to get to sleep
 ### Skill Details
 
 * **Invocation Name:** sheep count
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0334d95b-f56d-4d24-9179-d17a915a2f86
 * **ASIN:** B01COCCKW2
 * **Author:** Schlemmer Consulting

@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Food/Cooking",
+  "category": null,
   "description": "Recipe Buddy helps you out in the kitchen!  Search thousands of recipes and have Recipe Buddy walk you through them step by step.  No registration or login is required.",
   "enablement": null,
   "exampleInteractions": [

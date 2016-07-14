@@ -16,7 +16,7 @@ The famously ridiculous impossible quiz, made real for alexa and amazon echo.
 ### Skill Details
 
 * **Invocation Name:** impossible quiz
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.33eb0d57-412f-48e6-b0cf-c3f322f9436c
 * **ASIN:** B01FONCOHO
 * **Author:** Matt Takemoto

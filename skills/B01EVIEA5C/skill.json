@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Productivity",
+  "category": null,
   "description": "Ever want to know the date 45 days from now? Or 8 weeks from now? Or what day of the week a date falls on? Or how many days since or until a date? These are questions Date Ninja can help you with.\n\nSpecial thanks to Josh Skeen for his assistance on this project. Icon made by Freepik from www.flaticon.com. This app uses the Moment library.",
   "enablement": null,
   "exampleInteractions": [

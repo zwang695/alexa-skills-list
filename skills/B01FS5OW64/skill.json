@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Find out the current security wait times at US airports. Ask Alexa for your airport by its city or 3-letter code, and the skill will check the TSA's public API for last-reported wait times at each airport checkpoint.",
   "enablement": null,
   "exampleInteractions": [

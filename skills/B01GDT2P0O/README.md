@@ -27,7 +27,7 @@ https://www.uscis.gov/citizenship/learners/study-test
 ### Skill Details
 
 * **Invocation Name:** citizenship game
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c0f1b63b-0c44-472d-9a3e-bc9ae59ada5f
 * **ASIN:** B01GDT2P0O
 * **Author:** Fed

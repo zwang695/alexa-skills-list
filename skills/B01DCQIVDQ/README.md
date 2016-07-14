@@ -19,7 +19,7 @@ Learn interesting and surprising facts about London.
 ### Skill Details
 
 * **Invocation Name:** london scholar
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fb8d0563-bb33-4f69-8b06-bbe5e0017bc4
 * **ASIN:** B01DCQIVDQ
 * **Author:** Sandcastle

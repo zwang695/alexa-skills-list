@@ -16,7 +16,7 @@ CivicMinding helps you get informed on, vote on, and discuss everything politica
 ### Skill Details
 
 * **Invocation Name:** civic minding
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.674a6a9b-a06a-40d0-8dbf-d14fbf281958
 * **ASIN:** B01E6HYGHK
 * **Author:** Healey Engineering

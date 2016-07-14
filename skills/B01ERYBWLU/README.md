@@ -18,7 +18,7 @@ This skill may not be suitable for all ages. It discusses growlers which are use
 ### Skill Details
 
 * **Invocation Name:** growler
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d0322e06-866c-4f47-b5f2-94747dd034d3
 * **ASIN:** B01ERYBWLU
 * **Author:** Daly-Apps.com

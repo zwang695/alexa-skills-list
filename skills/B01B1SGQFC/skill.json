@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "ZipCode Skill provides city and state of a zipcode. You can say the zipcode and the skill will tell you which city and state is that zipcode.\nIt will give the city and state info for any U.S. city.",
   "enablement": null,
   "exampleInteractions": [

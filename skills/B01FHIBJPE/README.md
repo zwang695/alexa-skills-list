@@ -20,7 +20,7 @@ If you fail to respond in time, that's ok. Just re-open Times Table and it picks
 ### Skill Details
 
 * **Invocation Name:** times table
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.74a64a5f-6a4d-42c3-a931-b4b9050f9246
 * **ASIN:** B01FHIBJPE
 * **Author:** Mark Einhorn

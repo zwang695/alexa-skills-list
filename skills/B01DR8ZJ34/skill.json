@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Get simple facts and trivia about the game Monopoly",
   "enablement": null,
   "exampleInteractions": [

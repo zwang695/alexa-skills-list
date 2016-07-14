@@ -16,7 +16,7 @@ Recently, we’ve begun to challenge ourselves to go the extra mile in finding n
 ### Skill Details
 
 * **Invocation Name:** good sam
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.728f32e2-3363-4aaf-8063-5cbd2a73960b
 * **ASIN:** B01CGUZNA8
 * **Author:** Good Samaritan Society

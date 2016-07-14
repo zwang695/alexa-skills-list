@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Test your knowledge of the US National Parks. Answer questions about  the location, size, history, and wild life of the US National Parks.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Seattle Transit provides step-by-step transit directions for getting from one neighborhood to another in Seattle. The handy card in the Alexa app helps one take the directions with them while on the go. More features to come.",
   "enablement": null,
   "exampleInteractions": [

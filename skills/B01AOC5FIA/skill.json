@@ -4,7 +4,7 @@
   "averageRating": 3.4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "New York City subway system is not reliable sometimes, so ask Alexa before you head to the station!\nYou can ask me New York City subway status. Like:\nWhat is the status of 7?\nFor alphabetical trains, like A, C, E trains, use a word that begins with that alphabet instead.\nThis is to improve voice recognition.\nFor example, for A train, say:\nWhat is the status of Alpha?\nFor B train, say:\nWhat is the status of Bravo?\nNATO phonetic alphabets are recommended:\nA for Alpha.\nB for Bravo.\nC for Charlie.\nD for Delta.\nE for Echo.\nF for Foxtrot.\nG for Golf.\nJ for Juliette.\nL for Lima.\nM for Mike.\nN for November.\nQ for Quebec.\nR for Romeo.\nS for Sierra.\nZ for Zulu.\nAlso, you may say Shuttle for S train.\nAnd, please say the full name: Staten Island Rail, not S. I. R., for Staten Island Rail.\n\nWe hope this Alexa skill helps you commute. If you encounter problems, please do not hesitate to contact us:\ninfo@speedyllama.com\n\nThank you!\n\n* This Alexa Skill is not affiliated with MTA.",
   "enablement": null,
   "exampleInteractions": [

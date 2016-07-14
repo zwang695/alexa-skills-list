@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "A multiple choice trivia game on state birds.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This is a game based on trivia from the Star Wars universe. Knowledge skill level ranges from \"I've watched the movies a few times\" to \"I've read the Star Wars encyclopedia more times than I can count.\"\n\nTo get started, simply say, \"Alexa, let's play Trivia Game for Star Wars.\"\n\nTIPS:\n\n- Listen carefully for the most correct answer!\n\n- To give an answer to a question, respond with the number of the answer. For example, say one, two, three, or four. \n\n- To repeat the last question, say, \"Repeat.\"\n\n- If you don't know the answer, you can also respond with, \"I don't know.\"\n\n- To start a new game at any time, say, \"Start game.\"\n\n\nMore trivia questions added regularly!\n\n\nCOMING SOON: Add your own trivia questions to the game!",
   "enablement": null,
   "exampleInteractions": [

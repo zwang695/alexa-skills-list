@@ -17,7 +17,7 @@ Disclaimer - this skill is for entertainment purposes only and may not be suitab
 ### Skill Details
 
 * **Invocation Name:** power ball
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.1d825868-1cbe-4ba0-a8e9-2fb9a5b196de
 * **ASIN:** B01AYEFTKM
 * **Author:** HDRider

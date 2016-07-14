@@ -4,7 +4,7 @@
   "averageRating": 4.8,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "NYC Status provides status for alternate side of the street parking rules, school closings and garbage/recycling collection status. This service utilizes data provided by the NYC 311 service, but is not written or maintained by the City or any of it's affiliated departments.",
   "enablement": null,
   "exampleInteractions": [

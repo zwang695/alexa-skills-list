@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "Retrieve fantasy football news and player updates on the Top 300 players directly from Fantasy Football Nerd.",
   "enablement": null,
   "exampleInteractions": [

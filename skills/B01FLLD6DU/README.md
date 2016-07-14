@@ -16,7 +16,7 @@ Use Alexa to feed you imagination with words of wisdom in the form of quotes fro
 ### Skill Details
 
 * **Invocation Name:** inspiration station
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b446c957-f438-4aa0-bc87-508b47c6472f
 * **ASIN:** B01FLLD6DU
 * **Author:** BLT Robotics

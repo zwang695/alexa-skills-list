@@ -18,7 +18,7 @@ Let's be honest, we all don't know EVERYTHING about Golf. That's exactly why Gol
 ### Skill Details
 
 * **Invocation Name:** golf fact
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.8bef3d57-7b10-461b-87a3-0b2d8a7e748a
 * **ASIN:** B01EVTB5PY
 * **Author:** KevinTMay.com

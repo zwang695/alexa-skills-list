@@ -16,7 +16,7 @@ We all want to work out, and we all want it to be fast. This simple skill will m
 ### Skill Details
 
 * **Invocation Name:** push ups
-* **Category:** Health-and-Fitness
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.01b4f980-d02a-499d-a907-6596c7c76921
 * **ASIN:** B01EU6FN4M
 * **Author:** bryant schuck

@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Connected-Home",
+  "category": null,
   "description": "Aren't sure if the dishes in your dishwasher are clean or dirty? Ask Alexa! She'll remember the status of your dishes, so you can ask her next time you open up the dishwasher.",
   "enablement": null,
   "exampleInteractions": [

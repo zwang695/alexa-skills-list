@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "Zodiac tells you the sign for any date. It's hard to remember which dates each sign corresponds to. Now you can quickly find out by asking Alexa. It's really simple - just ask Zodiac for the sign for a specific day, like March 15th, or a month.",
   "enablement": null,
   "exampleInteractions": [

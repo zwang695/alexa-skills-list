@@ -17,7 +17,7 @@ No prerequisites to set up, just ask about the distance from one word to another
 ### Skill Details
 
 * **Invocation Name:** language fun
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.85dede7b-62f5-4f60-bb39-58ad5715ce3c
 * **ASIN:** B01DD95W98
 * **Author:** ziembla

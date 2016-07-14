@@ -20,7 +20,7 @@ You'll learn this and many more fun Colorado Facts with Colorado Geek.
 ### Skill Details
 
 * **Invocation Name:** colorado geek
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d41f3925-7585-4d39-bb65-ba7263a835e1
 * **ASIN:** B01EGRLSVC
 * **Author:** Alex Takacs

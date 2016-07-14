@@ -1,10 +1,10 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01DKI6KAC",
-  "averageRating": 5,
+  "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Health-and-Fitness",
+  "category": null,
   "description": "You can use the skill to play all your health statistics from microsoft health account. User need to linkup this skill during registration process. During interaction we query Microsoft health account to get statistics related to the registered user. As we cannot identify users on Echo we can only link one Echo device to one user. You need to have an active health account linked with your microsoft account.",
   "enablement": null,
   "exampleInteractions": [
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "starfish band",
   "name": "Starfish Band",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": "cVeI1bJUaWDLDQTgsvnGO2NOv",
   "permissions": null,
   "privacyPolicyUrl": "http://starfishmint.com/policy/privacy-band.html",

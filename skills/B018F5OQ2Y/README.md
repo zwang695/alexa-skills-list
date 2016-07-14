@@ -16,7 +16,7 @@ Ask Grandmom provides comic relief by responding with an answer of yes for most 
 ### Skill Details
 
 * **Invocation Name:** grandmom
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.64f5259f-6242-4e03-8104-5c4a1ad3f26a
 * **ASIN:** B018F5OQ2Y
 * **Author:** Rick Wargo

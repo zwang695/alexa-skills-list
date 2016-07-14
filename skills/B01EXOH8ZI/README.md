@@ -22,7 +22,7 @@ Fun way to learn about one of the most scenic landscapes in the US.
 ### Skill Details
 
 * **Invocation Name:** crater moon
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.40d681e6-7d9a-40e1-a64a-5140f226b526
 * **ASIN:** B01EXOH8ZI
 * **Author:** PeytonAdell

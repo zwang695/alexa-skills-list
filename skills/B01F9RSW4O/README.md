@@ -18,7 +18,7 @@ New Musician is a trivia skill that goes over the basics of reading notes on the
 ### Skill Details
 
 * **Invocation Name:** new musician
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.36aec085-720b-43f9-8eb7-b11bc0f4bda2
 * **ASIN:** B01F9RSW4O
 * **Author:** Andy Gross

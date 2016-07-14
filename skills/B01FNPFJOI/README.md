@@ -19,7 +19,7 @@ Let challenge yourself.
 ### Skill Details
 
 * **Invocation Name:** java quiz
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0c780b54-da2a-49f9-aef8-f34a47022a23
 * **ASIN:** B01FNPFJOI
 * **Author:** Chinh

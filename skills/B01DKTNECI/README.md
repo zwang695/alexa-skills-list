@@ -18,7 +18,7 @@ This skill supports continuous stats and filters. You can just ask Alexa to "ope
 ### Skill Details
 
 * **Invocation Name:** i know n. b. a.
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.f2b840ca-d4ad-44cf-90a6-ee25f8738b7f
 * **ASIN:** B01DKTNECI
 * **Author:** iknow.io Inc.

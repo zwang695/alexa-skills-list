@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Twenty four is a game to use four number from 1-13 to calculate the number 24. Each number will be used once and only once. You can use +, -, *, / and (). The skill will give you four numbers that for sure will have at least one answer.",
   "enablement": null,
   "exampleInteractions": [

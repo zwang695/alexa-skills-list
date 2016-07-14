@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "Think you can answer?\nWhich game contains the first know Easter Egg?\nWhich console was launched first the SNES or the Sega Genesis?",
   "enablement": null,
   "exampleInteractions": [

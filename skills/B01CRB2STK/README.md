@@ -20,7 +20,7 @@ Even works with the good old "Banana / Orange" joke, but for "Interrupting Cow" 
 ### Skill Details
 
 * **Invocation Name:** for a knock knock joke
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3bc40772-5298-454f-b461-b3c6364e1c3e
 * **ASIN:** B01CRB2STK
 * **Author:** Studio Hunty

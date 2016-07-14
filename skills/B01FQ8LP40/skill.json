@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Math Dog is your personal math tutor, giving you math problems to solve with increasing difficulty as you master each level.  Questions start with basic addition, and progress up to include subtraction, multiplication and division.",
   "enablement": null,
   "exampleInteractions": [

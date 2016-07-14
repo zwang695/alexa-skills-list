@@ -20,7 +20,7 @@ NOTE: This skill provides details on how to make alcoholic drinks, and is not in
 ### Skill Details
 
 * **Invocation Name:** drink boy
-* **Category:** Food/Cooking
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.abbc19ff-8c21-4765-bc2f-82f0f0228d2e
 * **ASIN:** B01C9JQFFI
 * **Author:** Ravenwood

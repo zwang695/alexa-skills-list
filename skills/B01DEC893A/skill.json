@@ -4,7 +4,7 @@
   "averageRating": 4.6,
   "canDisable": true,
   "capabilities": null,
-  "category": "Lifestyle",
+  "category": null,
   "description": "The HomeAdvisor Alexa Skill instantly connects you with pre-screened home service pros for hundreds of home projects. When you use the HomeAdvisor Skill, we will have a pro call you on the phone in minutes. HomeAdvisor has a nationwide network of more than 100,000 background-checked pros specializing in 500 projects.\n\nHow it Works:\nAsk Alexa to launch HomeAdvisor using a phrase like the examples below:\nAlexa, launch HomeAdvisor.\nAlexa, ask HomeAdvisor to find me a painter. \nAlexa, launch HomeAdvisor and find me a landscaper.\n\nYou can search for any type of home service pro. Just replace the examples above with your unique need.\n\nNext, we just need to collect your zip code and phone number. We will have a pre-screened pro call you in minutes.",
   "enablement": null,
   "exampleInteractions": [

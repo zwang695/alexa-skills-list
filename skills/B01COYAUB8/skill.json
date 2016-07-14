@@ -4,7 +4,7 @@
   "averageRating": 4.7,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "This tool allows one to quickly test voice interaction with services and devices with the Amazon Echo. With the \"Lessons\" tool on portal.theubi.com, someone can build rules that can be mapped to different outputs: a speech utterance back through the Echo or an Alexa Voice Service enabled device; an email or text message; control of dozens of Internet connected; or an HTTP request from a web server. This can allow someone to very easily build a proof of concept around voice interaction on Echo with their service before implementing their own service with Alexa Skillsets. For example, on portal.theubi.com, someone can setup a rule that if someone says on their Echo \"jump\" the response back to the Echo will be \"How high\". Phrases spoken into the Echo can trigger multiple actions. \"Alexa, Open Portal\" or \"Alexa, ask portal (question)\" or \"Alexa, tell portal (something)\" will send the request to Ubi Cloud to check for a user created rules. This skill requires an account be setup at portal.theubi.com.",
   "enablement": null,
   "exampleInteractions": [

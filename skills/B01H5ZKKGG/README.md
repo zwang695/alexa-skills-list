@@ -18,7 +18,7 @@ Lee Hecht Harrison helps companies simplify the complexity associated with trans
 ### Skill Details
 
 * **Invocation Name:** l. h. h.
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.456fc638-ab37-4063-ba2c-b76f7207e697
 * **ASIN:** B01H5ZKKGG
 * **Author:** LHH

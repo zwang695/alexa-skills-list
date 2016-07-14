@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Ever wanted to know random facts about a developing baby in the womb? Go ahead and ask. \"Example: \"Alexa, ask Pregnancy Facts for a fact?\"",
   "enablement": null,
   "exampleInteractions": [

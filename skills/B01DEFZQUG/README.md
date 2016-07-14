@@ -16,7 +16,7 @@ Think you know all things Michael Jackson ? Take this challenge that tests your 
 ### Skill Details
 
 * **Invocation Name:** king of pop
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.172102eb-8a64-4961-b736-31d9cb691bce
 * **ASIN:** B01DEFZQUG
 * **Author:** James Co

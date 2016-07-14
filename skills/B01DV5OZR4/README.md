@@ -16,7 +16,7 @@ Ask Alexa for Shakespeare, she will recite for you one of the many famous quotes
 ### Skill Details
 
 * **Invocation Name:** a quote from shakespeare
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2294775d-dbe6-4b77-b521-d36fd71bd7e5
 * **ASIN:** B01DV5OZR4
 * **Author:** ReadingEveryday

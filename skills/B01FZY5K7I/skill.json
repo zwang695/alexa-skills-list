@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "Find the names of famous people born on any given date. It looks up wikipedia for the names of famous people born on a given date and speaks it back to the user.",
   "enablement": null,
   "exampleInteractions": [

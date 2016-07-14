@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Use Alexa to learn fun and interesting facts about the Church of Jesus Christ of Latter-day Saints (aka LDS or Mormon church) and it's members. Once you have enabled the skill, simply say \"Alexa, open church facts\" and she will read you a fact.\n\nImpress your friends and family with your vast knowledge of obscure and interesting facts and trivia about The Church of Jesus Christ of Latter-day Saints.",
   "enablement": null,
   "exampleInteractions": [

@@ -4,7 +4,7 @@
   "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "This skill will call out to the MBTA system and check if there are any alerts on the subway or commuter rail lines.  Just say, \"Alexa, ask Boston Transit if there are any alerts on the green line\" and it'll let you know if there are any alerts and read them back to you.  You can say any of the subway or commuter rail line names in that statement to check those.",
   "enablement": null,
   "exampleInteractions": [

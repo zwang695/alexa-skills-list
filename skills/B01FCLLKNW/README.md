@@ -14,7 +14,7 @@ Discover a new artist every day with Discover Artist, just ask Alexa and we'll t
 ### Skill Details
 
 * **Invocation Name:** discover artist
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.384940e4-e436-42b6-9258-014377e5c870
 * **ASIN:** B01FCLLKNW
 * **Author:** callumj.com

@@ -29,7 +29,7 @@ And if you want more from us, that's great! Because we're building new features 
 ### Skill Details
 
 * **Invocation Name:** capital one
-* **Category:** Finance
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fd04f4dc-8d62-4840-b61c-9ea40a160426
 * **ASIN:** B01CTJ1XY6
 * **Author:** Capital One Services, LLC

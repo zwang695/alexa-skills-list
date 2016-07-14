@@ -26,7 +26,7 @@ My answer is {Answer}
 ### Skill Details
 
 * **Invocation Name:** random trivia game
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3e8c4a6a-31ee-49da-96d1-2f3071ebc99b
 * **ASIN:** B01G043JR0
 * **Author:** kevinvle

@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "Getting Korean Local Weather Information.\n\nCurrently Supported Cities are\n- Seoul\n- Sejong\n- Daejeon\n- Busan",
   "enablement": null,
   "exampleInteractions": [

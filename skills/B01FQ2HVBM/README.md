@@ -16,7 +16,7 @@ ClashRoyaleHelper responds to user's query about the description to the card of 
 ### Skill Details
 
 * **Invocation Name:** game helper for clash royale
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.4b2060eb-bd10-4931-a24c-2f50409fb47e
 * **ASIN:** B01FQ2HVBM
 * **Author:** Xinyang Zhang

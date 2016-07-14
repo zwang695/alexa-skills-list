@@ -16,7 +16,7 @@ Are you a scholar, educator, or someone who just plain loves learning new words?
 ### Skill Details
 
 * **Invocation Name:** verbivore
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ba54358d-ea2f-4bb8-b40f-320aa2d5a108
 * **ASIN:** B01DPVVCLG
 * **Author:** CaptainQuirk

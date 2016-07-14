@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Movies for redbox tells you the latest and popular movies you can rent from redbox kiosk. It updates daily with most popular movies, and always keep you up to date with what's new.",
   "enablement": null,
   "exampleInteractions": [

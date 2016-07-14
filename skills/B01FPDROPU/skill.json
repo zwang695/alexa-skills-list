@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "This is a simple Alexa Skill that returns the NASCAR driver name for a given number or the number for a given driver in the 2016 NASCAR Sprint Cup Series.  The skill also returns the vehicle make of the car the driver drives.  Additionally, the driver's sponsor and car owner are displayed in a card in the Alexa App.",
   "enablement": null,
   "exampleInteractions": [

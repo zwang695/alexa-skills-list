@@ -18,7 +18,7 @@ Not affiliated with the books or TV series in any way.
 ### Skill Details
 
 * **Invocation Name:** westeros
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.42d40dad-0baa-415c-8f75-4935935a6534
 * **ASIN:** B01EQSP3GM
 * **Author:** thewbman

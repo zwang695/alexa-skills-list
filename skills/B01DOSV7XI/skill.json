@@ -4,7 +4,7 @@
   "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "This skill allows you to check the status of the next train going from your home LIRR station to your destination - wherever that may be. \n\nThis app responds to the name \"train times\". To interact, say \"Alexa, ask Train Times to...\" followed by your command. Example: \"Alexa, Ask Train Times for the next train\"\n\nTo set your home station, say \"set home station to\". To set your default destination station, say \"set destination station to\".\n\nOnce your home and default destination stations are set, ask for the train status by saying \"when is the next train\".",
   "enablement": null,
   "exampleInteractions": [

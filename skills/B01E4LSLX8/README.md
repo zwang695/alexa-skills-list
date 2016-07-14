@@ -16,7 +16,7 @@ This skill gives you a random funny word with the definition. Learn new words! I
 ### Skill Details
 
 * **Invocation Name:** wiggly words
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c16bc166-5f73-4d2a-92ad-b0baf901aa96
 * **ASIN:** B01E4LSLX8
 * **Author:** Tom Hudson

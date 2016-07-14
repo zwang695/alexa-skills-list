@@ -18,7 +18,7 @@ There is no guarantee you will learn anything from this.
 ### Skill Details
 
 * **Invocation Name:** you don't say
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ab49be64-99f3-45cd-ad47-b820695fa6fe
 * **ASIN:** B01FO63PMY
 * **Author:** Chinh

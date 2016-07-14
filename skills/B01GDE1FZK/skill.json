@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Entertainment",
+  "category": null,
   "description": "Capital City Games is a game that will help you remember capital cities of the world. \n\nTo start, simply say:\nopen Capital City Games\n\nAnd when you're ready to answer, say:\nmy answer is one (or two, three, four)",
   "enablement": null,
   "exampleInteractions": [

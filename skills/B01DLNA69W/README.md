@@ -16,7 +16,7 @@ Zodiac tells you the sign for any date. It's hard to remember which dates each s
 ### Skill Details
 
 * **Invocation Name:** zodiac
-* **Category:** Lifestyle
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b7dc876f-93cd-4c8d-8369-89078546d708
 * **ASIN:** B01DLNA69W
 * **Author:** PrasanthCo

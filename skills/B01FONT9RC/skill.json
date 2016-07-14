@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Sports",
+  "category": null,
   "description": "DISCLAIMER: This skill may not be suitable for all ages.\n\nImpress your friends with random Football players' crime records! The Football Crime skill picks a random crime from the NFL Arrest database and shares it with you. Alexa will speak the information out loud and put a card in your Alexa app for your reference, so you can show your friends or just recall interesting records later.\n\nTo get started, simply say:\n\n\"Alexa, ask Football Crime for a random crime.\"\n\nNOTE: This skill is in no way affiliated with or endorsed by the NFL.",
   "enablement": null,
   "exampleInteractions": [

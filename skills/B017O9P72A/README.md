@@ -22,7 +22,7 @@ To get started, just say "Hey Alexa, ask LIFX what can I do with my lights?". Al
 ### Skill Details
 
 * **Invocation Name:** life x
-* **Category:** Home-Automation
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.33ffca3b-1148-43e9-bfec-da056cb0f0d2
 * **ASIN:** B017O9P72A
 * **Author:** LiFi Labs Inc.

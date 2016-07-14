@@ -4,7 +4,7 @@
   "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
-  "category": "News",
+  "category": null,
   "description": "The USA Today skill for the Amazon Echo \nkeeps you informed 24/7 with the latest USA TODAY headlines. Staying informed has never been this quick, easy, or enjoyable. Get started by telling Alexa: \"Ask USA Today\".\n\n- Breaking news and events will immediately be delivered when you first engage this skill. \n- You can customize the type of news you want to hear from USA Today's sections\n- Listen to quick snapshot of top headlines\n- You can ask for a specific USA Today section - like Sports, Travel or Tech news\n- If you aren't sure what to ask, just say \"help\" or \"what can I ask you?\"",
   "enablement": null,
   "exampleInteractions": [

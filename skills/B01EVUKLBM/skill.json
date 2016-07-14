@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Games",
+  "category": null,
   "description": "This is a fun trivia game that asks the user multiple-choice questions about Donald Trump (based on the Reindeer Games Alexa sample) and scores the user based on their responses",
   "enablement": null,
   "exampleInteractions": [

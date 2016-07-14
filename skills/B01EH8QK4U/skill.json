@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "This skill is a short seven question comprehension quiz of Macbeth by Shakespeare. This skill will provide you with a question, and from four given answer choices, select the best answer to the question by saying \"my answer is\" and the number of your selected answer choice.\n No additional hardware is required. Initiate this skill by saying \"Alexa ask macbeth comprehension questions\"",
   "enablement": null,
   "exampleInteractions": [

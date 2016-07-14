@@ -16,7 +16,7 @@ some brief facts on ancient Chinese history, well, if you are interested to ask
 ### Skill Details
 
 * **Invocation Name:** ancient china facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.623d49d5-658a-4501-80ac-f6737f373060
 * **ASIN:** B01DQ7QONU
 * **Author:** SC

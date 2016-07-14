@@ -20,7 +20,7 @@ After a pause for each question, she'll ask you if you would like to continue, y
 ### Skill Details
 
 * **Invocation Name:** truth or dare
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.89cbc0eb-e210-4876-baf4-c540aedbea10
 * **ASIN:** B01F8J7LXG
 * **Author:** Brian Tsai

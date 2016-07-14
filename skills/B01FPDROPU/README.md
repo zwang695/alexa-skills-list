@@ -16,7 +16,7 @@ This is a simple Alexa Skill that returns the NASCAR driver name for a given num
 ### Skill Details
 
 * **Invocation Name:** driver helper
-* **Category:** Sports
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7373be14-2a09-4761-92f7-637b9e1ee63a
 * **ASIN:** B01FPDROPU
 * **Author:** Shane

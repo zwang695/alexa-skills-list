@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Live in Baltimore? Running late and need to know when the next Circulator bus will arrive at your stop of choice? Just have Alexa ask Circulator when the next bus is arriving using the line and station names. For instance, you might ask when the next bus is arriving on the Purple line at Fort Avenue.",
   "enablement": null,
   "exampleInteractions": [

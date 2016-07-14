@@ -4,7 +4,7 @@
   "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
-  "category": "Utilities",
+  "category": null,
   "description": "Key Finder is a personal assistant that will help you remind where you last left your key. The app is very simple and hassle-free. \n\nSimply start by saying \"Alexa, launch Key Finder\" and Alexa will guide you through the rest.\n\nSay \"stop\" or \"cancel\" to exit.",
   "enablement": null,
   "exampleInteractions": [

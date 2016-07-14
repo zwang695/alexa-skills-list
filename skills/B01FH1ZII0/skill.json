@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Reference",
+  "category": null,
   "description": "Ask Alexa for the current poll results from the Huffington Post's daily poll 2016 General Election: Trump vs. Clinton.",
   "enablement": null,
   "exampleInteractions": [

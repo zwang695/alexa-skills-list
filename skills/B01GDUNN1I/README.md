@@ -22,7 +22,7 @@ More bird songs will be added over time.
 ### Skill Details
 
 * **Invocation Name:** bird songs
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.e2bc5cf0-485b-4da9-8d10-16f4f380a901
 * **ASIN:** B01GDUNN1I
 * **Author:** Amalgamated Clyde Inc.

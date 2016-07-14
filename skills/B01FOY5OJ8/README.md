@@ -29,7 +29,7 @@ Have fun!
 ### Skill Details
 
 * **Invocation Name:** magic trick
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.a79f3b26-707e-4bf2-bcd0-a5328dfc4195
 * **ASIN:** B01FOY5OJ8
 * **Author:** Webguild

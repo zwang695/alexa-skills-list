@@ -4,7 +4,7 @@
   "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Ever wonder how long it will take you to get through security once you get to the airport?  Air Time can help you decide when you need to leave for the airport based on the security wait time that you'll be facing.  You'll also know if the security wait time is increasing or decreasing. \n\nAir Time allows you to check the security wait times and weather for any airport in the country.  You can search by airport code, city, or city & state.  You will hear the current security wait times and the trend of the wait times as well as the current weather at the airport.",
   "enablement": null,
   "exampleInteractions": [

@@ -18,7 +18,7 @@ Airport Info will not give you information about specific flights.
 ### Skill Details
 
 * **Invocation Name:** airport info
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.5aeb288b-49fc-4d47-8650-37884831ef85
 * **ASIN:** B01GDFAAUK
 * **Author:** Leo Gau

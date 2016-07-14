@@ -16,7 +16,7 @@ Ask Alexa for a bucket list item and it will be up to get it done. Over 800 idea
 ### Skill Details
 
 * **Invocation Name:** bucket list
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.67b7a257-4c95-4fb9-b29a-5aeba4b4dfab
 * **ASIN:** B01G06N9KK
 * **Author:** BLT Robotics

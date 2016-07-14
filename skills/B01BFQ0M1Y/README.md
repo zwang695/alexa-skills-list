@@ -18,7 +18,7 @@ You can also ask for a random Trainer Tip - to submit ideas, Tweet with the hash
 ### Skill Details
 
 * **Invocation Name:** trainer tips
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.473e332e-83b4-4234-b1ab-3a4f5776d041
 * **ASIN:** B01BFQ0M1Y
 * **Author:** Programplatz

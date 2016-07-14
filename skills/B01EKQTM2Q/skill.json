@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Education",
+  "category": null,
   "description": "The state capitals quiz asks you multiple choice questions on state capitals.  Four answers are given.  You must say a number of one, two, three, or four to select the correct response.",
   "enablement": null,
   "exampleInteractions": [

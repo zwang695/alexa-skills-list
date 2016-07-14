@@ -18,7 +18,7 @@ No additional accounts are required to use this app.
 ### Skill Details
 
 * **Invocation Name:** times for caltrain
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ccb8c546-2029-4a79-970c-00115dbaaca1
 * **ASIN:** B01EXUZRSW
 * **Author:** Dillon Dixon

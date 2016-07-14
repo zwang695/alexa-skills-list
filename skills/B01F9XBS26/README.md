@@ -59,7 +59,7 @@ This is *NOT* an official app from the Drudge Report and is not any way official
 ### Skill Details
 
 * **Invocation Name:** reporter dee
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.3d4b85fd-435e-4a49-a217-cbb92aef5cea
 * **ASIN:** B01F9XBS26
 * **Author:** C-T LLC.

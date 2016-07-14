@@ -16,7 +16,7 @@ This skill is fun to play alone, or compete with your family and friends to see 
 ### Skill Details
 
 * **Invocation Name:** trivia geek
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d5e7614c-a0e7-48a5-9e82-f422fe2c232d
 * **ASIN:** B01DZW9HPI
 * **Author:** Tugba Yanikoglu

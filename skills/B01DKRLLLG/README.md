@@ -22,7 +22,7 @@ Wiki Brains knows many of the 5000 pages were the most accessed on the English W
 ### Skill Details
 
 * **Invocation Name:** wiki brains
-* **Category:** Reference
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.0e11e151-a3c4-4cee-a54a-c4f0dc1ea0a5
 * **ASIN:** B01DKRLLLG
 * **Author:** Laynr

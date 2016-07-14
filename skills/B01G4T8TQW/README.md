@@ -18,7 +18,7 @@ Disclaimer :  The skill may not be suitable for all ages.
 ### Skill Details
 
 * **Invocation Name:** random jokes
-* **Category:** Entertainment
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d0fb5aeb-e266-4dee-9bf2-4ce315b01fdd
 * **ASIN:** B01G4T8TQW
 * **Author:** smashing garlic

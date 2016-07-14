@@ -16,7 +16,7 @@ Simply launch the skill and Alexa will choose a random Christmas carol to recite
 ### Skill Details
 
 * **Invocation Name:** christmas caroler
-* **Category:** Music
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.cd9f8c03-5438-41b3-9e48-1333dba9702d
 * **ASIN:** B019YJIY4G
 * **Author:** Brian Ross

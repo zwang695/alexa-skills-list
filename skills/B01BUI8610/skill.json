@@ -4,7 +4,7 @@
   "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
-  "category": "Music",
+  "category": null,
   "description": "Alexa shows off her beat-boxing skills. Get a list of available beats by saying, \"Yo! Yo! Yo!\" (Right now, she knows 24 different beats.)  You can ask for a beat by name (\"phat\", \"old school\", \"electronic\", etc.) or \"random\".",
   "enablement": null,
   "exampleInteractions": [

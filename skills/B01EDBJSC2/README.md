@@ -16,7 +16,7 @@ You might know that Blitzcrank's ultimate does AOE damage and silences foes, but
 ### Skill Details
 
 * **Invocation Name:** league trivia
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d923812e-8c0f-49dc-8a36-a1fc2b44ddb5
 * **ASIN:** B01EDBJSC2
 * **Author:** Sly Software

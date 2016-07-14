@@ -26,7 +26,7 @@ Ask Alexa about the developer by saying:
 ### Skill Details
 
 * **Invocation Name:** subreddit technology
-* **Category:** News
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.fcf7b546-1970-44ec-aab1-a32bcd94db7f
 * **ASIN:** B01FOSU6LK
 * **Author:** Sterian Associates

@@ -16,7 +16,7 @@ Ever wanted to know random facts about a developing baby in the womb? Go ahead a
 ### Skill Details
 
 * **Invocation Name:** pregnancy facts
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.42e52c1f-55fd-4a39-971f-287acccc97e5
 * **ASIN:** B01FOP3I0Y
 * **Author:** kthmorgan

@@ -35,7 +35,7 @@ Your moves and the corresponding results will be also shown in the Echo companio
 ### Skill Details
 
 * **Invocation Name:** bulls cows
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.7d693144-d24f-4e4e-9416-9d853fb5c4d6
 * **ASIN:** B01AH2Q7T8
 * **Author:** Weikatec GmbH

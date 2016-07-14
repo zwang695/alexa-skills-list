@@ -4,7 +4,7 @@
   "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
-  "category": "Travel",
+  "category": null,
   "description": "Get live estimates of arrival time of public buses in Singapore by asking Alexa. \n\nGet started by configuring Alexa to remember the default bus stop near your home or office. If you do not already have one configure, Alexa will prompt you for that. After that, any queries for arrival time will be for buses at that bus stop unless you specifically mention the bus stop code.",
   "enablement": null,
   "exampleInteractions": [

@@ -20,7 +20,7 @@ Be sure to take try the quiz often as new questions will be added routinely!
 ### Skill Details
 
 * **Invocation Name:** i till foundation quiz
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2afe5e3d-f93d-4fc7-83f1-a48e5cbb029e
 * **ASIN:** B01BFYLGD4
 * **Author:** Tony Moreira

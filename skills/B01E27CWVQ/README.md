@@ -16,7 +16,7 @@ Chess facts that include historical and mathematical information to blow your mi
 ### Skill Details
 
 * **Invocation Name:** chess facts
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ef76fa47-c9c9-4e43-b50e-d42d499be820
 * **ASIN:** B01E27CWVQ
 * **Author:** antblessing

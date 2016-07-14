@@ -16,7 +16,7 @@ Welcome to spelling bee, the very first spelling game on Alexa. There are severa
 ### Skill Details
 
 * **Invocation Name:** spelling bee
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ed4e8815-c350-4d56-bfd2-e5f3667c9573
 * **ASIN:** B01CQTR8CU
 * **Author:** Brian King

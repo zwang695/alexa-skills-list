@@ -27,7 +27,7 @@ For help just say, Alexa, ask my ghost for help
 ### Skill Details
 
 * **Invocation Name:** my ghost
-* **Category:** Games
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.ec33d82c-05e9-4965-9351-52b31ec28ab5
 * **ASIN:** B0194A8AK8
 * **Author:** Puzzles Interactive.

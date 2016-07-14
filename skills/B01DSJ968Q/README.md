@@ -21,7 +21,7 @@ To answer, say "the answer is" followed by the answer
 ### Skill Details
 
 * **Invocation Name:** math challenge
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.88ae8387-578c-491a-905b-50713d2271ff
 * **ASIN:** B01DSJ968Q
 * **Author:** Spraypaint

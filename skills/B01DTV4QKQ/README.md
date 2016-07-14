@@ -16,7 +16,7 @@ Times for MARTA will tell you how soon the next train will arrive at different s
 ### Skill Details
 
 * **Invocation Name:** times for marta
-* **Category:** Travel
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.655fae42-075f-4425-827b-8999daeb188a
 * **ASIN:** B01DTV4QKQ
 * **Author:** Kirksey

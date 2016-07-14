@@ -20,7 +20,7 @@ We are committed to improving the domain knowledge of our skill. We will post up
 ### Skill Details
 
 * **Invocation Name:** the chemistry genie
-* **Category:** Education
+* **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9e7221db-ca2d-4dcc-a33b-392c74dc2f3a
 * **ASIN:** B01DOQ5LTG
 * **Author:** Aarushi Rai
