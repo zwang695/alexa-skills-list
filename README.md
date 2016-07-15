@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1693
+**Total Skills Available:** 1692
 
 ***
 
@@ -3244,14 +3244,6 @@ Crystal Ball is a fortune teller skill. Alexa prompts you to first focus on a ye
 *Alexa, ask CTA Tracker when is the next northbound train*
 
 Track trains on the CTA
-
-***
-
-## &nbsp;<img src="skills/B01DL0N8X6/skill_icon" alt="CueFit icon" width="36"> [CueFit](skills/B01DL0N8X6)
-
-*Alexa, ask cue fit for my daily summary*
-
-Keep track of your daily step count and calories burned by accessing your Google Fit data via Alexa!
 
 ***
 
