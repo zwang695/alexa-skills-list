@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="US State Capitals Trivia icon" width="36"> [US State Capitals Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.456c1aa9-3978-4cfd-99a5-83ae31717179)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the US State Capitals Trivia skill, try saying...
 

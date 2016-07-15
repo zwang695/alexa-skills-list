@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OC0DX0",
-  "averageRating": 2,
+  "averageRating": 2.1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "translator",
   "name": "Translator for Alexa",
-  "numberOfReviews": 22,
+  "numberOfReviews": 23,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://sarkonovich-2.elasticbeanstalk.com/privacy",

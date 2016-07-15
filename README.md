@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1706
+**Total Skills Available:** 1712
 
 ***
 
@@ -1216,6 +1216,14 @@ Everything you need to know about the Battery Boot which is the best and only ba
 
 ***
 
+## &nbsp;<img src="skills/B01IB2H1GO/skill_icon" alt="Bay Area Transit for Caltrain icon" width="36"> [Bay Area Transit for Caltrain](skills/B01IB2H1GO)
+
+*Alexa, ask Bay Area Transit for the next 3 trains from San Francisco to Palo Alto.*
+
+Alexa knows when Caltrain is leaving next. Ask for multiple trains at once or for trains leaving some time in the future.
+
+***
+
 ## &nbsp;<img src="skills/B01F47C2WM/skill_icon" alt="BBN info icon" width="36"> [BBN info](skills/B01F47C2WM)
 
 *Alexa, ask BBN for some info*
@@ -1754,6 +1762,14 @@ Measure yourself to Alexa in Boat War!
 
 ***
 
+## &nbsp;<img src="skills/B01IA1UJR4/skill_icon" alt="Bodhisattva icon" width="36"> [Bodhisattva](skills/B01IA1UJR4)
+
+*Alexa, ask bodhisattva quiz to start game*
+
+A quiz game for Steely Dan lyrics. Hear the lyric, you match it up to the correct song.
+
+***
+
 ## &nbsp;<img src="skills/B01HNN29LO/skill_icon" alt="body facts icon" width="36"> [body facts](skills/B01HNN29LO)
 
 *Alexa, ask body facts to tell me a fact.*
@@ -1871,6 +1887,14 @@ Open up a box of cats! Who knows what you might find in there! (spoiler alert: i
 *Alexa, ask Box Office what's the rating of Titanic*
 
 This skill helps to find movie ratings. It tells you rating on a scale of 10. Where 10 is the highest and 0 is the lowest score ratings can have.
+
+***
+
+## &nbsp;<img src="skills/B01GDHH3ZI/skill_icon" alt="Brain Cage icon" width="36"> [Brain Cage](skills/B01GDHH3ZI)
+
+*Alexa, ask brain cage*
+
+Ask Cage for advice, questions, or words to live by
 
 ***
 
@@ -4780,6 +4804,14 @@ Fun facts and trivia of football
 
 ***
 
+## &nbsp;<img src="skills/B01IGEPGNM/skill_icon" alt="Football Squares Number Picker icon" width="36"> [Football Squares Number Picker](skills/B01IGEPGNM)
+
+*Alexa, ask Football Squares to give me some numbers*
+
+Generates two randomly sorted lists of ten non-repeating single digit numbers.  It was designed to be used for picking numbers for a game of Football Squares.
+
+***
+
 ## &nbsp;<img src="skills/B01GZBWR1M/skill_icon" alt="Football Trivia for Texas A&M icon" width="36"> [Football Trivia for Texas A&M](skills/B01GZBWR1M)
 
 *Alexa open Trivia for Aggies*
@@ -6271,6 +6303,14 @@ InsultiBot is so tired of talking to you.  All it wants is for you to leave it a
 *Alexa, launch Insults.*
 
 This skill will teach Alexa to hurl terrible insults at you.
+
+***
+
+## &nbsp;<img src="skills/B01IG0XEH6/skill_icon" alt="Interesting Indian Facts icon" width="36"> [Interesting Indian Facts](skills/B01IG0XEH6)
+
+*Alexa open India Facts*
+
+This skill gives very interesting facts about the country of India.
 
 ***
 
@@ -10707,6 +10747,14 @@ Learn the solar system planets with this fun flash cards skill! You will be aske
 *Alexa, start Song Translator*
 
 gives translations for hindi songs into english
+
+***
+
+## &nbsp;<img src="skills/B01I5YW67M/skill_icon" alt="Sooners Sports Trivia icon" width="36"> [Sooners Sports Trivia](skills/B01I5YW67M)
+
+*Alexa, open Sooners Sports trivia*
+
+OU Sports Trivia
 
 ***
 
