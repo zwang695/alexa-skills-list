@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 1692
+**Total Skills Available:** 1706
 
 ***
 
@@ -920,6 +920,14 @@ Awesome animal sounds
 
 ***
 
+## &nbsp;<img src="skills/B01H9G7Q9K/skill_icon" alt="awesome hair tips icon" width="36"> [awesome hair tips](skills/B01H9G7Q9K)
+
+*Alexa, ask awesome hair tips for a hair tip*
+
+Ask awesome hair tips for tips on the best ways to care for your hair.
+
+***
+
 ## &nbsp;<img src="skills/B01I51JMAY/skill_icon" alt="B and O Trivia Game icon" width="36"> [B and O Trivia Game](skills/B01I51JMAY)
 
 *Alexa, start Daily Trivia*
@@ -1655,6 +1663,14 @@ Bitcoin Rate provides the current value of 1BTC in your preferred base currency,
 *Alexa, ask bites and snacks for a snack*
 
 An Amazon Alexa skill to get a healthy snack idea to complement your daily nutrition plan.
+
+***
+
+## &nbsp;<img src="skills/B01IA5WVJY/skill_icon" alt="Blackjack Coach icon" width="36"> [Blackjack Coach](skills/B01IA5WVJY)
+
+*Alexa, launch Blackjack Coach*
+
+Brush up on your Blackjack skills with this interactive, voice based blackjack coach.  New scenarios added weekly!  This skill may not be suitable for all ages.
 
 ***
 
@@ -2659,6 +2675,14 @@ An Amazon Alexa skill to practice your knowledge about the culture of clouds.
 
 ***
 
+## &nbsp;<img src="skills/B01H2R4W84/skill_icon" alt="Cloud Games icon" width="36"> [Cloud Games](skills/B01H2R4W84)
+
+*Alexa, start cloud games*
+
+AWS Cloud Trivia
+
+***
+
 ## &nbsp;<img src="skills/B01HRMOGE4/skill_icon" alt="CloudStatus icon" width="36"> [CloudStatus](skills/B01HRMOGE4)
 
 *Alexa, ask CloudStatus about the Northern Virginia region*
@@ -2834,6 +2858,14 @@ Comic Book Guide answers your questions about comic book characters, teams, loca
 *"Alexa, open CompliBot"*
 
 CompliBot is your best bud.  It wants nothing more than to make your day a little bit better.
+
+***
+
+## &nbsp;<img src="skills/B01I8SNI68/skill_icon" alt="Compliments icon" width="36"> [Compliments](skills/B01I8SNI68)
+
+*Alexa, ask Compliment giver to give me a compliment.*
+
+A skill to give you compliments.
 
 ***
 
@@ -3701,6 +3733,14 @@ Discover a new artist every day
 *Alexa, ask distance between Santa Barbara, California and Chicago, Illinois if I drive.*
 
 Distance Between will tell you the distance between two cities that can be traveled to via a car, bike or by walking.  It works best if you include the country.
+
+***
+
+## &nbsp;<img src="skills/B01IEGLGT0/skill_icon" alt="Division Flash Cards icon" width="36"> [Division Flash Cards](skills/B01IEGLGT0)
+
+*Alexa start Division Flash Cards*
+
+Division Flash Cards
 
 ***
 
@@ -5473,6 +5513,14 @@ Take a guided tour of the GVSU Technology Showcase or ask for a description of a
 
 ***
 
+## &nbsp;<img src="skills/B01I7AH0LG/skill_icon" alt="Guitar Fact Skill icon" width="36"> [Guitar Fact Skill](skills/B01I7AH0LG)
+
+*Alexa, ask Guitar Facts to give me a fact.*
+
+A skill that gives you generic facts about guitars and bass guitars.
+
+***
+
 ## &nbsp;<img src="skills/B019D5T3O6/skill_icon" alt="Guitar Tuner icon" width="36"> [Guitar Tuner](skills/B019D5T3O6)
 
 *Alexa, ask Guitar Tuner to tune my guitar.*
@@ -6370,6 +6418,14 @@ Are you learning how to use programming language Java? Now you can test the fund
 
 ***
 
+## &nbsp;<img src="skills/B01IH4O132/skill_icon" alt="JavaScript Master icon" width="36"> [JavaScript Master](skills/B01IH4O132)
+
+*Alexa launch JavaScript master*
+
+The JavaScript master will test your acquaintance of JavaScript programming languages.
+
+***
+
 ## &nbsp;<img src="skills/B01B5EHA4I/skill_icon" alt="JavaScript Quiz icon" width="36"> [JavaScript Quiz](skills/B01B5EHA4I)
 
 *Alexa, Launch JavaScript Quiz*
@@ -7154,6 +7210,14 @@ Math Puzzles is a fun way to challenge yourself and your friends. You’ll hear 
 *Alexa, open Math Stream*
 
 Math Stream is a test of how well you can keep up with a sequence of addition and subtraction operations and provide the correct answer.
+
+***
+
+## &nbsp;<img src="skills/B01I7I0MFY/skill_icon" alt="Math Trainer icon" width="36"> [Math Trainer](skills/B01I7I0MFY)
+
+*Alexa, open math trainer*
+
+Test your math skills with math trainer
 
 ***
 
@@ -9639,6 +9703,14 @@ Ask for a random number between 1 and 100
 
 ***
 
+## &nbsp;<img src="skills/B01HTXYHKE/skill_icon" alt="Random Number Trivia icon" width="36"> [Random Number Trivia](skills/B01HTXYHKE)
+
+*Alexa ask random number trivia to tell me trivia*
+
+Gives random number trivia
+
+***
+
 ## &nbsp;<img src="skills/B01G2SL9QM/skill_icon" alt="Random Pop Music Trivia Game icon" width="36"> [Random Pop Music Trivia Game](skills/B01G2SL9QM)
 
 *Alexa, open Pop Music Trivia*
@@ -9660,6 +9732,14 @@ Have Alexa tell you a random thought, the kind you would come up with in the sho
 *Alexa, open Random Trivia*
 
 A trivia game with random questions!
+
+***
+
+## &nbsp;<img src="skills/B01IFL1RPW/skill_icon" alt="Random Trivia icon" width="36"> [Random Trivia](skills/B01IFL1RPW)
+
+*Alexa, ask random facts a fact*
+
+A very random fact generator.
 
 ***
 
@@ -10337,6 +10417,14 @@ Interesting facts about Deaf culture and American Sign Language.
 
 ***
 
+## &nbsp;<img src="skills/B01HQYMSM0/skill_icon" alt="Silence is golden icon" width="36"> [Silence is golden](skills/B01HQYMSM0)
+
+*Alexa, open silence is golden*
+
+Silence is golden. If you need more silence in your life, this is for you.
+
+***
+
 ## &nbsp;<img src="skills/B01GZIR4MM/skill_icon" alt="Silicon Valley History icon" width="36"> [Silicon Valley History](skills/B01GZIR4MM)
 
 *Alexa, ask valley history*
@@ -10398,6 +10486,14 @@ Take charge of your Simple Control automated home using nothing more than your v
 *Alexa, ask fibonacci numbers within 10*
 
 get fibonacci numbers starting from 1 up to number specified
+
+***
+
+## &nbsp;<img src="skills/B01FP5T3T8/skill_icon" alt="Simple Trivia about Pratt Institute icon" width="36"> [Simple Trivia about Pratt Institute](skills/B01FP5T3T8)
+
+*Alexa, Begin Simple Trivia Game*
+
+Simple Trivia Game with Questions about Pratt Institute
 
 ***
 
@@ -10926,6 +11022,14 @@ Multiple choice state capitals quiz
 
 ***
 
+## &nbsp;<img src="skills/B01IG25A4Y/skill_icon" alt="State Flash Cards icon" width="36"> [State Flash Cards](skills/B01IG25A4Y)
+
+*Alexa Open State Flash Cards*
+
+This skill helps you study the state codes for the states of the United States of America. You'll be given a state code and you're asked to name the state.
+
+***
+
 ## &nbsp;<img src="skills/B01H0SY8LQ/skill_icon" alt="State Quarters icon" width="36"> [State Quarters](skills/B01H0SY8LQ)
 
 *Alexa, ask State Quarters for Delaware.*
@@ -11165,6 +11269,14 @@ With Superpower, you can get an interesting conversation topic to start an engag
 *Alexa, ask Surfable about Huntington Pier.*
 
 Get the surf reports for popular surfing spots in California.
+
+***
+
+## &nbsp;<img src="skills/B01IAW6R74/skill_icon" alt="Sushi Facts icon" width="36"> [Sushi Facts](skills/B01IAW6R74)
+
+*Alexa, ask Sushi Facts to tell me a fact*
+
+Fun facts about sushi. These interesting facts about sushi will make you even more excited and a greater appreciation of the culinary tradition.
 
 ***
 

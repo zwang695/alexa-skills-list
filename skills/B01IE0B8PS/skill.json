@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Farm Markets features top voices of the food movement - libraries include food & health, food & community, cooking & eating, education, steps to take action;\n\nThe process of working with Farm Markets is as follows: \n\nAlexa, open Farm Markets; \n\nAlexa, ask Farm Markets what is the library of Food and Health;\n\nAlexa, ask Farm Markets what is the library for Food and Community;",
+  "description": "Farm Markets features top voices of the food movement - libraries include food & health, food & community, cooking & eating, education, steps to take action;\n\nThe process of working with Farm Markets is as follows: \n\nAlexa, open Farm Markets; \n\nAlexa, ask Farm Markets what is the library of Food and Health (or Food and Community, Cooking and Eating, Edible Education, Take Action);\n\nAlexa, ask Farm Markets what is the library for Food and Community (or Food and Health, Cooking and Eating, Edible Education, Take Action);",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask farm markets what is the library of food and health",

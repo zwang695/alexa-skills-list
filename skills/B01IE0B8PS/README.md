@@ -15,9 +15,9 @@ The process of working with Farm Markets is as follows:
 
 Alexa, open Farm Markets; 
 
-Alexa, ask Farm Markets what is the library of Food and Health;
+Alexa, ask Farm Markets what is the library of Food and Health (or Food and Community, Cooking and Eating, Edible Education, Take Action);
 
-Alexa, ask Farm Markets what is the library for Food and Community;
+Alexa, ask Farm Markets what is the library for Food and Community (or Food and Health, Cooking and Eating, Edible Education, Take Action);
 
 ***
 
