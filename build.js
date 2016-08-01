@@ -290,7 +290,7 @@ var Template = {
 
 			if (skill.exampleInteractions) {
 				contents += '\n';
-				contents += '*' + skill.exampleInteractions[0] + '*\n';
+				contents += '*' + (skill.exampleInteractions[0] || 'There are no example interactions for this skill') + '*\n';
 			} else {
 				skill.exampleInteractions = [null, null, null];
 			}
