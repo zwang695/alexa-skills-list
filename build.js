@@ -538,14 +538,16 @@ for (var key in skills) {
 			// Check for an error (file does not exist)
 			if (err) {
 				// Download the image
-				download(skill.imageUrl, err.path, function(err) {
-					// Output any errors to the console
-					if (err) {
-						error('Failed to download image for "%s": %s', skill.name, err);
-					} else {
-						log('Downloaded image for "%s"', skill.name);
-					}
-				});
+				if (skill.imageUrl) {
+					download(skill.imageUrl, err.path, function(err) {
+						// Output any errors to the console
+						if (err) {
+							error('Failed to download image for "%s": %s', skill.name, err);
+						} else {
+							log('Downloaded image for "%s"', skill.name);
+						}
+					});
+				}
 			}
 		});
 
