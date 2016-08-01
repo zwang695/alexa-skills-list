@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01AOC5FIA",
-  "averageRating": 3.4,
+  "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "n. y. c. transit",
   "name": "NYC Transit",
-  "numberOfReviews": 8,
+  "numberOfReviews": 9,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

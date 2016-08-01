@@ -1,0 +1,37 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "maxcdn.bootstrapcdn.com",
+    "s3-us-west-2.amazonaws.com"
+  ],
+  "asin": "B01ICBSTLA",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "At Hatch Baby, we’re inventing the world’s first smart nursery. With the Hatch Baby skill for Alexa, parents can track doctor-recommended information like diaper changes, weight, feedings, sleep and more. Alexa makes it easy to use the features of the Hatch Baby smartphone app, hands-free.\n\nTo get started, enable the skill and link your Hatch Baby account. If you have your hands full taking care of baby, simply ask:\n\n“Alexa, ask Hatch Baby how many dirty diapers has Eric had today?”\n“Alexa, ask Hatch Baby how long has baby slept today?”\n“Alexa, tell Hatch Baby to record a wet diaper for Emma.”\n\nUse the app on its own, or connect it to the Hatch Baby Smart Changing Pad – an innovative and modern twist on the traditional diaper changing pad. Track your baby’s weight and feeding amounts using the Smart Changing Pad’s built-in, WiFi-enabled scale. Data is automatically sent from the Smart Changing Pad to the Hatch Baby companion app, where you can get insight into your baby’s development by viewing summaries of feeding, sleep, and diaper patterns. \n\nWith Alexa, you can take care of all the essentials – without ever taking your phone out of your pocket.\n\nVisit www.hatchbaby.com to learn more about the Smart Changing Pad and download the Hatch Baby smartphone app.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell hatch baby to record a dirty diaper.",
+    "When was the last nap?",
+    "When was babys last feeding?"
+  ],
+  "firstReleaseDate": 1468996069.458,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.ec064f77-4155-446a-9b1a-93b65a47ab1e",
+  "imageAltText": "Hatch Baby icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01ICBSTLA/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "hatch baby",
+  "name": "Hatch Baby",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "CZPIVZBW2HDANhqf7qtVtYfeu",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.hatchbaby.com/pages/privacy-policy",
+  "shortDescription": "Monitor your baby’s health by tracking feedings, diapers, sleep and more. It’s everything that parents love about the Hatch Baby smartphone app, now hands-free.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://www.hatchbaby.com/pages/privacy-policy",
+  "vendorId": "M24R5GIHTQGKXX",
+  "vendorName": "HatchBaby, Inc"
+}

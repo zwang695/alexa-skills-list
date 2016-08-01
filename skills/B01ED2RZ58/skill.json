@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01ED2RZ58",
-  "averageRating": 4.5,
+  "averageRating": 4.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "daily buzzword",
   "name": "Daily Buzzword",
-  "numberOfReviews": 5,
+  "numberOfReviews": 9,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

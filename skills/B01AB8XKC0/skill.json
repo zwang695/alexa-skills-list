@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01AB8XKC0",
-  "averageRating": 3.1,
+  "averageRating": 3.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the dude",
   "name": "The Dude",
-  "numberOfReviews": 6,
+  "numberOfReviews": 8,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

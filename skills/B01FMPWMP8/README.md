@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Money Converter icon" width="36"> [Money Converter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.828bb900-446b-4d3e-a56b-b6c3861418de)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![1.8 stars](../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Money Converter skill, try saying...
 

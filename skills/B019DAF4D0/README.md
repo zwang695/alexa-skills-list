@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Audio Goal icon" width="36"> [Audio Goal](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bfca5696-4914-4d3f-ac01-d882e72f329a)
-![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 13
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the Audio Goal skill, try saying...
 

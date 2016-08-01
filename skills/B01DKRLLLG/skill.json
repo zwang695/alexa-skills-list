@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DKRLLLG",
-  "averageRating": 0,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "wiki brains",
   "name": "Wiki Brains",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

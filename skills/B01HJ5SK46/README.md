@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Baking Helper icon" width="36"> [Baking Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.043ad33c-4044-471c-aeea-3533f5459d1e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Baking Helper skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="iDevices icon" width="36"> [iDevices](http://alexa.amazon.com/#skills/amzn1.ask.skill.cbeef66c-d356-474e-b8f6-ccfb22cc72b0)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the iDevices skill, try saying...
 

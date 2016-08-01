@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="The Music Man icon" width="36"> [The Music Man](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.75205f7a-ac06-49bd-aeaa-a9a4b2cbc0c3)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the The Music Man skill, try saying...
 

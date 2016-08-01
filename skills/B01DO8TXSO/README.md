@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="CurrencyGuy icon" width="36"> [CurrencyGuy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2204f700-c5a6-4a8d-9781-492c60e907a9)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the CurrencyGuy skill, try saying...
 

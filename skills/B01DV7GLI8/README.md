@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="ChessTriviaGame icon" width="36"> [ChessTriviaGame](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.edf2c999-421b-49a4-8787-58e6706a5c8c)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the ChessTriviaGame skill, try saying...
 

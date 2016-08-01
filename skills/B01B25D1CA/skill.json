@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01B25D1CA",
-  "averageRating": 3.1,
+  "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "trivia challenge",
   "name": "Trivia Challenge: U.S History",
-  "numberOfReviews": 6,
+  "numberOfReviews": 7,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01F2L0IBM",
-  "averageRating": 3.5,
+  "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "site information",
   "name": "Site Information",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

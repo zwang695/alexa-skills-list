@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="College Basketball Trivia icon" width="36"> [College Basketball Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3e8f707d-0e51-4acc-b4cf-4d5e99c1462c)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the College Basketball Trivia skill, try saying...
 

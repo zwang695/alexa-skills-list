@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FBGJY04",
-  "averageRating": 0,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "egg master",
   "name": "Egg Master",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01G84HZKY",
-  "averageRating": 4,
+  "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "recipe buddy",
   "name": "Recipe Buddy",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

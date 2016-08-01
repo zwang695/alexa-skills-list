@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DJS8YUC",
-  "averageRating": 2.4,
+  "averageRating": 1.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "elephant number rememberer",
   "name": "Elephant Number Rememberer",
-  "numberOfReviews": 5,
+  "numberOfReviews": 7,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://pk-alexa.herokuapp.com/policies/elephant_privacypolicy.html",

@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "august.com",
+    "auth.august.com",
+    "partners.august.com",
+    "rackcdn.com",
+    "s3-us-west-2.amazonaws.com"
+  ],
+  "asin": "B01G5UWV64",
+  "averageRating": 2.5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "August now works with Alexa and has the capabilities to lock your August Smart Lock(s) and check the status of your August Smart Lock(s). For security reasons, the skill cannot be used to unlock your lock(s).\n\nYou'll need to set up each August Smart Lock with an August Connect. Just follow the instructions in your August app.\n\nTo get started:\n- Enable the skill\n- Link your August Smart Lock account to give the skill permission to access your locks\n- If you tap “Sign In” and nothing happens, make sure your email address is capitalized properly\n- Once your account is linked you can \"Ask August to lock my front door\" or \"Tell August to check the back door.\"\n\nIf you encounter any problems, please contact August at http://support.august.com",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask August to list my locks.",
+    "Alexa, ask August to check the front door.",
+    "Alexa, ask August to lock my front door."
+  ],
+  "firstReleaseDate": 1469667399.652,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.59c45b34-5311-4b23-bc46-e06f94363d67",
+  "imageAltText": "August Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01G5UWV64/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "august",
+  "name": "August Home",
+  "numberOfReviews": 42,
+  "pamsPartnerId": "AGDrMV9vsuigRngcIMzMxuIy8",
+  "permissions": null,
+  "privacyPolicyUrl": "http://august.com/legal/privacy-policy/",
+  "shortDescription": "Control your August Home Smart Locks and check their status.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://august.com/legal/terms-of-service/",
+  "vendorId": "M1MEFK8ES3382M",
+  "vendorName": "August Home"
+}

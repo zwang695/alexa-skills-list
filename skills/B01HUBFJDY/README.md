@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Trivia for Friends icon" width="36"> [Trivia for Friends](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f1fd6ecd-ff95-4b01-bfa8-d04e1d00d48b)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Trivia for Friends skill, try saying...
 

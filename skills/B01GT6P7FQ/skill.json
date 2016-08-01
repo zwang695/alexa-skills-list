@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01GT6P7FQ",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my ching",
   "name": "My Ching",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

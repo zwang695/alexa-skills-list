@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BO32DH4",
-  "averageRating": 4.1,
+  "averageRating": 4.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "area code",
   "name": "Area Code",
-  "numberOfReviews": 12,
+  "numberOfReviews": 13,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

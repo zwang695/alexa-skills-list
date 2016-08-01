@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Tennis Anyone Today's Tennis Scores icon" width="36"> [Tennis Anyone Today's Tennis Scores](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5dd3bf71-e4bc-4c86-a1aa-65f3d837a779)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Tennis Anyone Today's Tennis Scores skill, try saying...
 

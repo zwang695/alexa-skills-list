@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="EGR Lunch Bot icon" width="36"> [EGR Lunch Bot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e57986dd-8a8c-42c1-9909-c7c0fe3df448)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the EGR Lunch Bot skill, try saying...
 

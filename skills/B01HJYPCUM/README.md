@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Sandler Training icon" width="36"> [Sandler Training](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c6e61b48-b9e5-477e-ac37-7f1cef9879ab)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Sandler Training skill, try saying...
 

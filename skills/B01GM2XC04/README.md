@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="chuckFacts icon" width="36"> [chuckFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7cf24ea7-221e-4cb4-b364-b2e733695b5e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the chuckFacts skill, try saying...
 

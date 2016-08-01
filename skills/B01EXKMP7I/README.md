@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="ZenMaster icon" width="36"> [ZenMaster](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d6c2b985-5945-43f9-aec2-f441d7f6365a)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the ZenMaster skill, try saying...
 

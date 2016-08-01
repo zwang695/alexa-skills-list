@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Famous Births icon" width="36"> [Famous Births](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0c3e9650-4ab5-44db-abda-f9ba316b5587)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Famous Births skill, try saying...
 

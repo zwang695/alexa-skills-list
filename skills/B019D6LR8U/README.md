@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="The Bartender icon" width="36"> [The Bartender](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0b5f3350-db8a-4754-a8dc-0ca8bbfd5d29)
-![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 27
+![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 35
 
 To use the The Bartender skill, try saying...
 

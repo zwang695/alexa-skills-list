@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OBZR50",
-  "averageRating": 3.9,
+  "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the name game",
   "name": "The Name Game (banana-fana)",
-  "numberOfReviews": 15,
+  "numberOfReviews": 24,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="BART Control icon" width="36"> [BART Control](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.483e7841-1cca-4adc-b14c-14d4482a85b3)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the BART Control skill, try saying...
 

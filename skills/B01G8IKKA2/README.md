@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Smoothie Recipes icon" width="36"> [Smoothie Recipes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.87983a72-c63c-44a0-8a3b-a49934a41202)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Smoothie Recipes skill, try saying...
 

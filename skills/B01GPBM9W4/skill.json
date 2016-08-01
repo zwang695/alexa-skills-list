@@ -9,7 +9,7 @@
     "amazonaws.com"
   ],
   "asin": "B01GPBM9W4",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -29,7 +29,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "mother goose",
   "name": "Mother Goose for Nest",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "QU8szZdCU5aqOWeqhN3yvmR1U",
   "permissions": null,
   "privacyPolicyUrl": "https://s3.amazonaws.com/smooth_test/privacy.txt",

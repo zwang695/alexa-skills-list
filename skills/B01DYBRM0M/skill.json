@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DYBRM0M",
-  "averageRating": 0,
+  "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "billy goat",
   "name": "Billy the Random Number Goat",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

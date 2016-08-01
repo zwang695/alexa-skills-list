@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01HPW3AGG",
-  "averageRating": 0,
+  "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "daily thought",
   "name": "quotes",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01ER39MZY",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "aware",
   "name": "Awair",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "orslWYx3mhlwmgsXVkfanmTFi",
   "permissions": null,
   "privacyPolicyUrl": "https://getawair.com/terms.html",

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DDKHCZE",
-  "averageRating": 2.5,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "period tracker",
   "name": "Period Tracker",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

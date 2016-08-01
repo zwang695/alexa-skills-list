@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01HN2WB90",
-  "averageRating": 5,
+  "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "football trivia",
   "name": "College Football Trivia",
-  "numberOfReviews": 1,
+  "numberOfReviews": 0,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

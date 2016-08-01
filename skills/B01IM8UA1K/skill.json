@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "askquickly.org"
+  ],
+  "asin": "B01IM8UA1K",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Just set up a list of participants via the Alexa app (e.g. \"Mom\", \"Dad\", \"The Dog\") then ask Big Slap who's next.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Ask Big Slap To Reset The Names",
+    "Alexa, Ask Big Slap Who's Next?",
+    "Alexa, Launch Big Slap"
+  ],
+  "firstReleaseDate": 1469620591.231,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.4c26c3ae-dfaf-45e4-991c-20183c781e49",
+  "imageAltText": "Big Slap icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01IM8UA1K/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "big slap",
+  "name": "Big Slap",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "UHfpKY42gKcrV2UhkbjBjAS8m",
+  "permissions": null,
+  "privacyPolicyUrl": "http://askquickly.org/privacy.html",
+  "shortDescription": "The Big Slap game is designed to reach through the Alexa and into your home for loads of laughs and fun family nights!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2DF1JLE2MPNRX",
+  "vendorName": "askquickly.org"
+}

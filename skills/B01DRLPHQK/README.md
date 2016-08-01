@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Currency Monitor icon" width="36"> [Currency Monitor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.281626aa-aa66-45c7-96e2-f6694d66ede3)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Currency Monitor skill, try saying...
 

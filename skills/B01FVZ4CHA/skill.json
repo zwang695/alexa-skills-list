@@ -10,7 +10,7 @@
     "h2opal.parseapp.com"
   ],
   "asin": "B01FVZ4CHA",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -30,7 +30,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "h. two o. pal",
   "name": "H2O-Pal",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "BQ6kzzmon2MzHmiQNTX2Kp8QK",
   "permissions": null,
   "privacyPolicyUrl": "https://www.h2opal.com/pages/tos",

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FT3GF4C",
-  "averageRating": 3,
+  "averageRating": 2.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "channel finder",
   "name": "Channel Finder",
-  "numberOfReviews": 2,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Security Quiz icon" width="36"> [Security Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2e4d5e34-b1b3-4c0e-bb61-2a4367971107)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Security Quiz skill, try saying...
 

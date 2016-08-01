@@ -287,8 +287,12 @@ var Template = {
 			contents += '***\n';
 			contents += '\n';
 			contents += '## ' + Template.skill.icon(skill) + ' [' + skill.name + '](' + config.skillsDir + '/' + skill.asin + ')\n';
-			contents += '\n';
-			contents += '*' + skill.exampleInteractions[0] + '*\n';
+
+			if (skill.exampleInteractions) {
+				contents += '\n';
+				contents += '*' + skill.exampleInteractions[0] + '*\n';
+			}
+
 			contents += '\n';
 			contents += (skill.shortDescription ? skill.shortDescription : skill.description) + '\n';
 

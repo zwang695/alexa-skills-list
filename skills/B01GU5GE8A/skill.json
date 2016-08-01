@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01GU5GE8A",
-  "averageRating": 0,
+  "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "eye pee lookup",
   "name": "IP Lookup",
-  "numberOfReviews": 0,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

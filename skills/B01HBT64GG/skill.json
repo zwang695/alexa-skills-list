@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01HBT64GG",
+  "averageRating": 4.6,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Control your Vivint lights and thermostats with easy-to-use voice commands (for Vivint Sky consumers only).  After a few easy setup steps you can control your Vivint lights or thermostats with simple statements like:\n\nFor Lights:\nAlexa, Turn the lights on\nAlexa, Turn the Kitchen light off\nAlexa, Switch lights to 50% brightness\nAlexa, lower brightness by 25%\nAlexa, dim Bedroom lights by 25%\n\nFor Thermostats:\nAlexa, set the upstairs to 70 degrees\nAlexa, turn the bedroom up\nAlexa, decrease the downstairs temperature by 3 degrees\n\nThis skill allows you to control your smart devices without saying “Ask Vivint” or “tell Vivint”. For example, if you have named your smart light bulb “Kitchen Lights”, you can say “Alexa, turn on the kitchen lights”\n\nHOW TO GET CONNECTED\n\n1. Tap the \"Enable\" button\n\n2. Enter your Vivint Sky username and password\n\n3. After successfully connecting to your Vivint account, talk to your Echo and say, \"Alexa, discover my devices\".\n\n4. Optional: Enable the other Vivint Smarthome Skill (Called \"Vivint.Smarthome - Complete\"), under Skills in the Alexa app, to control more functions in your Vivint system like garage doors, the security system, locks, and cameras.\n\nNote: When using the skill, you need to specify the name of thermostat or light you want to use. Device names can be changed in your Vivint Sky app.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1468623429.185,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.2a148af2-0f96-4e33-8242-1375e4382b92",
+  "imageAltText": "Vivint.SmartHome - Basic icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01HBT64GG/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Vivint.SmartHome - Basic",
+  "numberOfReviews": 5,
+  "pamsPartnerId": "WAOMIJ5ODTKyHIQKDyyDiHcVO",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.vivint.com/company/policies/privacy",
+  "shortDescription": "Control your Vivint lights and thermostats with easy-to-use voice commands (for Vivint Sky consumers only)",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "http://www.vivint.com/company/policies/terms-of-use",
+  "vendorId": "MG13DQVNPWIQX",
+  "vendorName": "Vivint Inc."
+}

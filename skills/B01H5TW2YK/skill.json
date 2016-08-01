@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01H5TW2YK",
-  "averageRating": 0,
+  "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "mortgage calculator",
   "name": "Mortgage Calculator",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

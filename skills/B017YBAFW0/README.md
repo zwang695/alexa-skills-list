@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Quick Events icon" width="36"> [Quick Events](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e43b96d5-e13b-40ac-9ee2-0c2c94813e40)
-![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 37
+![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 39
 
 To use the Quick Events skill, try saying...
 

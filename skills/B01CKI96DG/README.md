@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Relationary icon" width="36"> [Relationary](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3d130aa0-c3d9-4d03-aa35-05c9730af87b)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 4
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Relationary skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="quotes icon" width="36"> [quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dc52874f-0f48-4089-a3eb-1527f0f9eb71)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the quotes skill, try saying...
 

@@ -19,6 +19,6 @@ This is a simple 5 question predictive analytics game. Ask Alexa to start the ga
 * **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.d015c273-246b-4490-bf0f-392529fb68b4
 * **ASIN:** B01HJCS4HC
-* **Author:** Fed
+* **Author:** Federica Incerti
 * **Release Date:** June 28, 2016 @ 04:46:05
 * **In-App Purchasing:** No

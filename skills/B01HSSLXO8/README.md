@@ -11,6 +11,12 @@ To use the Blockchain Ticker skill, try saying...
 
 You can use Block Chain Ticker to tell you the current price and market cap of popular cryptos. You no longer have to interrupt what you are doing in order to get the most up to date market statistics.
 
+Supported Currencies:
+-Bitcoin
+-Ethereum
+-Steem
+-Litecoin
+
 ***
 
 ### Skill Details

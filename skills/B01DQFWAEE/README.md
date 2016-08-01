@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Code Finder icon" width="36"> [Code Finder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.978ba9f2-2afe-40a0-8e61-ae03be65cad1)
-![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Code Finder skill, try saying...
 

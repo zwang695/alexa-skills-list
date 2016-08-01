@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Silly Things icon" width="36"> [Silly Things](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4af9608f-7b65-4e33-8165-9d5fcba5199d)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 5
+![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Silly Things skill, try saying...
 

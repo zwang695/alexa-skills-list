@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="DC Metro Tracker icon" width="36"> [DC Metro Tracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.48d300b5-e643-4150-aaff-f8d1b92ed568)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the DC Metro Tracker skill, try saying...
 

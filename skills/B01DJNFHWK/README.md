@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Medusa Myth icon" width="36"> [Medusa Myth](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e6cab0b4-cbe2-495e-a3b2-222da1350c49)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Medusa Myth skill, try saying...
 

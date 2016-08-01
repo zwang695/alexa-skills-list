@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="ConvertCurrency icon" width="36"> [ConvertCurrency](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b565d1f0-ce04-4e80-8f1c-74d9f2d76c5a)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the ConvertCurrency skill, try saying...
 

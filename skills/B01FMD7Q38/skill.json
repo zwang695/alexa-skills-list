@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FMD7Q38",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "it's five now",
   "name": "It's Five O'Clock Now!",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

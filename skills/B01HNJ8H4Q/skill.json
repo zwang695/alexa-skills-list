@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01HNJ8H4Q",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "alphabet flash cards",
   "name": "Alphabet Flash Cards",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

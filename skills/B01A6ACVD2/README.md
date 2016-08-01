@@ -1,7 +1,7 @@
-# &nbsp;<img src="skill_icon" alt="Vivint.SmartHome icon" width="36"> [Vivint.SmartHome](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.60786130-18f6-476f-b716-d0a109fe6b1c)
-![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 48
+# &nbsp;<img src="skill_icon" alt="Vivint.SmartHome - Complete icon" width="36"> [Vivint.SmartHome - Complete](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.60786130-18f6-476f-b716-d0a109fe6b1c)
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 53
 
-To use the Vivint.SmartHome skill, try saying...
+To use the Vivint.SmartHome - Complete skill, try saying...
 
 * *Alexa, tell Vivint to lock my doors*
 
@@ -37,8 +37,9 @@ Thermostats:
 * What's the temperature?
 
 Garage:
-* Close my garage door
-* Is my garage open?
+* Close my big garage door
+* Close my garages
+* Are my garage doors open?
 
 Locks:
 * Lock my front door
@@ -48,7 +49,7 @@ Locks:
 Cameras:
 * Show me the doorbell camera
 
-Home States:
+Smart Assistant Home States:
 * I am home
 * I am leaving
 * I am going to sleep

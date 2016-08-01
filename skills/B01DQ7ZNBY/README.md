@@ -1,13 +1,13 @@
 # &nbsp;<img src="skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5d9da015-4b9e-4c04-8076-a847cd85f276)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Cat Facts skill, try saying...
 
-* *Alexa, open cat facts.*
+* *Alexa, launch cat facts.*
 
 * *Alexa, ask cat facts for a fact.*
 
-* *Alexa, ask cat facts for another.*
+* *Alexa, tell cat facts to tell me another.*
 
 Cat facts is a fun education tool to retrieve purrfect cat facts for any occasion.
 

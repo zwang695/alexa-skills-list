@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Portal2 Fact Core icon" width="36"> [Portal2 Fact Core](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5d931280-41ee-4269-a29c-91889094e8b6)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Portal2 Fact Core skill, try saying...
 

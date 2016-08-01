@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01HNM3OX2",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "tennis anyone",
   "name": "Tennis Anyone Today's Tennis Scores",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://alexa.tzannes.net/privacy",

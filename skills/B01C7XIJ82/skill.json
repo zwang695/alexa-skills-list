@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01C7XIJ82",
-  "averageRating": 2.8,
+  "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "children's bible quiz",
   "name": "Children's Bible Quiz",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

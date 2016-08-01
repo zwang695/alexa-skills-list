@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DBH0L3Y",
-  "averageRating": 1,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "cat genius",
   "name": "Cat Genius",
-  "numberOfReviews": 1,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

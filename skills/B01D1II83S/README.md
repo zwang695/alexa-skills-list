@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Baseball Trivia App icon" width="36"> [Baseball Trivia App](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e8091682-5f47-4d0e-beb6-84d851b3afdb)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Baseball Trivia App skill, try saying...
 

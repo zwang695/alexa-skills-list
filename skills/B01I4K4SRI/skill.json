@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01I4K4SRI",
-  "averageRating": 0,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Welcome to Old MacDonald's farm.  I'm sure you've heard of him and all his noisy animals.  Give this skill the name of an animal and Alexa will tell you what sound it makes by reciting a verse of this classic nursery rhyme.\n\nSurprising and entertaining, you never know what to expect.\n\nIf you like animals sounds as much as Old MacDonald, please also check out the Box of Birds and Bird Song skills.  And, if you like silly songs, then Happy Birthday is another good skill you can try.\n\nEnjoy!",
+  "description": "Welcome to Old MacDonald's farm.  I'm sure you've heard of him and all his noisy animals.  Give this skill the name of an animal and Alexa will tell you what sound it makes by reciting a verse of this classic nursery rhyme.\n\nSurprising and entertaining, you never know what to expect.\n\nIf you like animals sounds as much as Old MacDonald, please also check out the Box of Birds and Bird Song skills.  And, if you like silly songs, then Happy Birthday is another good skill you can try.\n\nEnjoy!\n\nAnother noisy skill from www.thomptronics.com",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Old MacDonald for a duck",
     "Alexa, launch Old MacDonald",
-    "Alexa, ask Old MacDonald to sing the whole song"
+    "Alexa, ask Old MacDonald to recite the whole rhyme"
   ],
   "firstReleaseDate": 1467982660.2,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "old macdonald",
   "name": "Old MacDonald",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

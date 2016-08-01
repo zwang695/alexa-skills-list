@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Reindeer Games icon" width="36"> [Reindeer Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.05aebcb3-1461-48fb-a008-8dded1e2b516)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Reindeer Games skill, try saying...
 

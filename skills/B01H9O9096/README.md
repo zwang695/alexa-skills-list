@@ -7,7 +7,7 @@ To use the Sankrit Mantras skill, try saying...
 
 * *Alexa, start daily mantra*
 
-* *Alexa, ask daily mantra to play om music*
+* *Alexa, ask daily mantra to play mantra*
 
 This skill plays sankrit short mantras. At this point, it only plays mp3 files
 

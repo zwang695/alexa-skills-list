@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01EILLOXI",
-  "averageRating": 2.6,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "kayak",
   "name": "KAYAK",
-  "numberOfReviews": 32,
+  "numberOfReviews": 34,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.kayak.com/privacy",

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Magic 8-Ball icon" width="36"> [Magic 8-Ball](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.576747ec-af85-434f-8f51-75024b2a86d5)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 17
+![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 18
 
 To use the Magic 8-Ball skill, try saying...
 

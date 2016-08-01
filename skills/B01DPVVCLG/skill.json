@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DPVVCLG",
-  "averageRating": 2.9,
+  "averageRating": 2.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "verbivore",
   "name": "Verbivore",
-  "numberOfReviews": 5,
+  "numberOfReviews": 6,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

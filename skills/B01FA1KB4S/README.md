@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Trivia Game for Disney icon" width="36"> [Trivia Game for Disney](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1343f768-68d2-486b-acd8-075e46c366a0)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Trivia Game for Disney skill, try saying...
 

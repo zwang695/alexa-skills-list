@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="H2O-Pal icon" width="36"> [H2O-Pal](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b396276a-779f-4f3b-b4d7-4a739a630860)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the H2O-Pal skill, try saying...
 

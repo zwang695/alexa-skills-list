@@ -1,11 +1,11 @@
 # &nbsp;<img src="skill_icon" alt="The Dishwasher icon" width="36"> [The Dishwasher](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.37bb2840-a825-4953-b414-6c607012feb6)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the The Dishwasher skill, try saying...
 
-* *Alexa, ask the dishwasher if the dishes are dirty*
-
 * *Alexa, ask the dishwasher about the dishes*
+
+* *Alexa, tell the dishwasher that the dishes are dirty*
 
 * *Alexa, tell the dishwasher the dishes are clean*
 

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01EBCY2HO",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "human heart",
   "name": "HumanHeart",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

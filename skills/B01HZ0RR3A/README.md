@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Funny News icon" width="36"> [Funny News](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cba83044-0e2d-4d0e-b842-60e81f75b8c2)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Funny News skill, try saying...
 

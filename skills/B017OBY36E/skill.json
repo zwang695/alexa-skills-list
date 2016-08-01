@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OBY36E",
-  "averageRating": 2.8,
+  "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "quote me",
   "name": "Quote Me",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DSB0RGE",
-  "averageRating": 3,
+  "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the warden",
   "name": "Warden",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

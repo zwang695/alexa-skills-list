@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Musixmatch Lyrics icon" width="36"> [Musixmatch Lyrics](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5e2e008a-c9fa-431f-9c0e-7b999b23176a)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Musixmatch Lyrics skill, try saying...
 

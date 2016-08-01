@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bluplayer icon" width="36"> [Bluplayer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5132f11a-e40f-41fd-adc1-e34d0bd9aa40)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Bluplayer skill, try saying...
 

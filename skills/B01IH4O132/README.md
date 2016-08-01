@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="JavaScript Master icon" width="36"> [JavaScript Master](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.df4667da-5db3-4221-bb8f-66c0e1c90f76)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the JavaScript Master skill, try saying...
 

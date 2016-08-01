@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01DKP0BT6",
-  "averageRating": 3,
+  "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "starfish fit",
   "name": "Starfish Fit",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": "LgkBUvSeKQppZICrhlXkzI6ZD",
   "permissions": null,
   "privacyPolicyUrl": "http://starfishmint.com/policy/privacy-echo.html",

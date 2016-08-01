@@ -1,0 +1,34 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "lightify-api.org"
+  ],
+  "asin": "B01HCYSG84",
+  "averageRating": 2,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1469562972.36,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.d4cd8bb8-91d3-4a66-9960-5ccb4b3a92bb",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01HCYSG84/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "OSRAM LIGHTIFY",
+  "numberOfReviews": 3,
+  "pamsPartnerId": "JJEmQPG8bKF2tM17G9YjywBlD",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3QGKXZ0DD3YVO",
+  "vendorName": "OSRAM LIGHTIFY"
+}

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Aviation Weather Brief icon" width="36"> [Aviation Weather Brief](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.454aee01-9a6d-41eb-9cea-61c633c59a9a)
-![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 9
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Aviation Weather Brief skill, try saying...
 

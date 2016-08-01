@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01G4F0B4O",
-  "averageRating": 4.4,
+  "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "morse coder",
   "name": "Morse Coder",
-  "numberOfReviews": 5,
+  "numberOfReviews": 6,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

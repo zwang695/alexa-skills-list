@@ -9,9 +9,9 @@ To use the Math Facts skill, try saying...
 
 * *Alexa, tell Math Facts to start multiplication practice.*
 
-Math Facts gives you practice on addition, subtraction, multiplication and division. When you're done, Alexa will let you know how many you got right! This Alexa skill makes math practice fun for the whole family.
+Math Facts gives you practice for addition, subtraction, multiplication and division. Problems come in sets of five. If you get enough of them right, Alexa will give you a silly message of congratulations. This skill makes math practice fun for the whole family!
 
-Tip: For better memory recall and consistent voice recognition, repeat back the operation to Alexa when you say the answer. For example, "Two plus two is four."
+The skill has been refined through extensive kid testing for accuracy and precision in listening to responses. Try it out and see the results!
 
 ***
 

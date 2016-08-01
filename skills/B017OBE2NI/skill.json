@@ -17,7 +17,7 @@
     "clients2.google.com"
   ],
   "asin": "B017OBE2NI",
-  "averageRating": 2.1,
+  "averageRating": 1.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -37,7 +37,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "free busy",
   "name": "FreeBusy Scheduling Buddy",
-  "numberOfReviews": 16,
+  "numberOfReviews": 18,
   "pamsPartnerId": "aWBsjztH7VZKMMZU2fQ1T8GgP",
   "permissions": null,
   "privacyPolicyUrl": "https://freebusy.io/privacy",

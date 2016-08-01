@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="The Lord's Prayer icon" width="36"> [The Lord's Prayer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7071bcb0-863c-4c36-bf1d-eecbc3e11852)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the The Lord's Prayer skill, try saying...
 

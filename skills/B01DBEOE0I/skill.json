@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DBEOE0I",
-  "averageRating": 3.8,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "l. d. s. daily message",
   "name": "LDS Daily Message",
-  "numberOfReviews": 6,
+  "numberOfReviews": 7,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

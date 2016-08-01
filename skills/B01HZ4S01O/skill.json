@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Learn how to pronounce the most popular gelato flavors. Study these flavors, take the \"Speak Gelato\" quiz and enjoy delicious results. \n\nAmarena - black cherry\nAnguria - watermelon\nArachidi - peanut butter\nBacio - hazelnut and chocolate (means \"kiss\" in itialian)\nBailey's Irish Cream - baileys\nBiscotto - cookies and cream\nCaffè - coffee\nCioccolato - dark chocolate\nCioccolato al Latte - milk chocolate \nFragola - strawberry\nFrutti di Bosco - mixed berries\nGuinness - guinness\nLimone - lemon\nMalaga - rum raisin\nMela - apple\nMojito - mojito\nNocciola - hazelnut\nPanna Cotta - panna cotta\nPesca Champagne - peach and champagne\nPera - pear\nPistacchio - pistachio\nStracciatella - chocolate chip\nTiramisù - tiramisù\nVaniglia - vanilla",
+  "description": "Learn how to pronounce the most popular gelato flavors. Study these flavors, take the \"Speak Gelato\" quiz and enjoy delicious results. \n\nAmarena - black cherry\nAnguria - watermelon\nArachidi - peanut butter\nBacio - hazelnut and milk chocolate (means \"kiss\" in itialian)\nBailey's Irish Cream - Bailey's\nBiscotto - cookies and cream\nCaffè - coffee\nCioccolato - chocolate (dark)\nCioccolato al Latte - milk chocolate \nFragola - strawberry\nFrutti di Bosco - mixed berries\nGuinness - Guinness\nLimone - lemon\nMalaga - rum raisin\nMela - apple\nMojito - mojito\nNocciola - hazelnut\nPanna Cotta - panna cotta\nPesca Champagne - peach and champagne\nPera - pear\nPistacchio - pistachio\nStracciatella - chocolate chip\nTiramisù - tiramisù\nVaniglia - vanilla",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open speak gelato.",

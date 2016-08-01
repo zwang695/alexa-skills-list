@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Northern Lights Forecast icon" width="36"> [Northern Lights Forecast](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.15177d50-1347-443a-88fc-359246d6e59a)
-![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Northern Lights Forecast skill, try saying...
 

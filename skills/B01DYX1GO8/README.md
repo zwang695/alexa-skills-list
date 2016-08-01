@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Air Time icon" width="36"> [Air Time](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7d03628a-6195-4f4b-b6f7-786ad0b74987)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Air Time skill, try saying...
 

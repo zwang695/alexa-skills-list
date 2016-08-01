@@ -1,15 +1,15 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01EIZC71M",
-  "averageRating": 4,
+  "averageRating": 4.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
   "description": "Aren't sure if the dishes in your dishwasher are clean or dirty? Ask Alexa! She'll remember the status of your dishes, so you can ask her next time you open up the dishwasher.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask the dishwasher if the dishes are dirty",
     "Alexa, ask the dishwasher about the dishes",
+    "Alexa, tell the dishwasher that the dishes are dirty",
     "Alexa, tell the dishwasher the dishes are clean"
   ],
   "firstReleaseDate": 1462432119.536,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the dishwasher",
   "name": "The Dishwasher",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

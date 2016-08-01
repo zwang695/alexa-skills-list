@@ -1,0 +1,35 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "usa.telehems.com",
+    "pitangui.amazon.com"
+  ],
+  "asin": "B01HZ5Z020",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1469730372.448,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.9b10b3ed-d1c0-4949-bb2f-8006cdd1919b",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01HZ5Z020/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Telehems Labs Corporation",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "HQBUkIuUcJt6bosX4yqqChD8G",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MIOJAVYT4IV95",
+  "vendorName": "Telehems Labs Corporation"
+}

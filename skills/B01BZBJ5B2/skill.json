@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BZBJ5B2",
-  "averageRating": 2,
+  "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "u. s. a. today",
   "name": "USA Today",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.usatoday.com/legal/privacynotice.html",

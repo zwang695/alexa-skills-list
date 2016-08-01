@@ -7,7 +7,7 @@ To use the ISY skill, try saying...
 
 * *Alexa, tell izzy to turn on hallway to 50%*
 
-* *Alexa, ask izzy what's the temperature of second floor thermostat*
+* *Alexa, ask izzy what's the temperature of second floor*
 
 The ISY skill allows you to control your ISY home-automation controller from Universal Devices. This enables you to control your devices, locks, thermostats and even programs from your echo.
 To use this skill, you need to have an account on UDI portal at https://my.isy.io. Once your account is created, you need to have at least one authorized ISY in your account. For more information on setting up your ISY on portal: http://www.universal-devices.com/install-module/

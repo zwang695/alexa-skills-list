@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Animal Sounds icon" width="36"> [Animal Sounds](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1d3107d-03c4-477e-8e4f-ecda428cb91d)
-![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 19
+![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 20
 
 To use the Animal Sounds skill, try saying...
 

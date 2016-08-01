@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Tiny Tales icon" width="36"> [Tiny Tales](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e40ddb1b-a51c-41ec-9090-bb8b25540f10)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Tiny Tales skill, try saying...
 

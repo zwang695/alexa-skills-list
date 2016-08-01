@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Arabic Phrases icon" width="36"> [Arabic Phrases](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5b88944f-62fb-4bf7-beef-cd1e7c65119a)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Arabic Phrases skill, try saying...
 

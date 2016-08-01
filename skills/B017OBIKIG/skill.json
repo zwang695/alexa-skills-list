@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OBIKIG",
-  "averageRating": 1.9,
+  "averageRating": 2.1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "stubhub",
   "name": "StubHub",
-  "numberOfReviews": 9,
+  "numberOfReviews": 11,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.stubhub.com/legal/?section=pp",

@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Math Facts gives you practice on addition, subtraction, multiplication and division. When you're done, Alexa will let you know how many you got right! This Alexa skill makes math practice fun for the whole family.\n\nTip: For better memory recall and consistent voice recognition, repeat back the operation to Alexa when you say the answer. For example, \"Two plus two is four.\"",
+  "description": "Math Facts gives you practice for addition, subtraction, multiplication and division. Problems come in sets of five. If you get enough of them right, Alexa will give you a silly message of congratulations. This skill makes math practice fun for the whole family!\n\nThe skill has been refined through extensive kid testing for accuracy and precision in listening to responses. Try it out and see the results!",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open Math Facts.",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Use Math Facts to practice arithmetic with the whole family. Have fun!",
+  "shortDescription": "Math Facts provides math practice your whole family can enjoy together.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

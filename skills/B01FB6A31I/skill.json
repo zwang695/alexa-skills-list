@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FB6A31I",
-  "averageRating": 4.9,
+  "averageRating": 4.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "My Daily Text in Alexa is for everyone who wants to start a day the right way.\nMany find it advantageous to listen to it in the morning. Then they can reflect on such thoughts throughout the day. Discussing the text as a family is most beneficial.\n\nThe source of this daily read can be found online at http://wol.jw.org/en/wol/h/r1/lp-e",
+  "description": "My Daily Text in Alexa is for everyone who wants to start a day the right way.\nMany find it advantageous to listen to it in the morning. Then the​y can reflect on such thoughts throughout the day. Discussing the text as a family is most beneficial.\n\nThis skill uses content from the Jehovah's Witnesses website. \nhttp://wol.jw.org/en/wol/h/r1/lp-e (the booklet \"Examining the Scriptures 2016\"). \nAll rights for this content belong to the Watch Tower Bible and Tract Society of Pennsylvania.\n\nThis skill is a personal project based on the booklet \"Examining the Scriptures 2016\". \nPlease accept this version in the spirit of which it was build.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open my daily text for today",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my daily text",
   "name": "Examining the Scriptures Daily for 2016",
-  "numberOfReviews": 16,
+  "numberOfReviews": 23,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.jwdailytext.com/PrivacyPolicy.txt",

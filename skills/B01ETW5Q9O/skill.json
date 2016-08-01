@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01ETW5Q9O",
-  "averageRating": 4.5,
+  "averageRating": 4.3,
   "canDisable": false,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "SmartThings",
-  "numberOfReviews": 41,
+  "numberOfReviews": 48,
   "pamsPartnerId": "8oNrqJsxPRiXoU7lsBu1bbI7j",
   "permissions": null,
   "privacyPolicyUrl": "https://www.smartthings.com/privacy",

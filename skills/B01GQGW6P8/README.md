@@ -17,6 +17,8 @@ Bird Song is frequently updated with new songs and features. To provide feedback
 
 www.birdsongskill.com
 
+Another noisy skill from www.thomptronics.com
+
 ***
 
 ### Skill Details

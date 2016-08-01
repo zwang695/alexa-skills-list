@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="World History icon" width="36"> [World History](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7caddada-6740-4895-a0bc-3fd5f6bbc2eb)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the World History skill, try saying...
 

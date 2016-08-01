@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="College Basketball Tournament Trivia icon" width="36"> [College Basketball Tournament Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a2fd6694-5fb0-4258-8a22-c27333614aad)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the College Basketball Tournament Trivia skill, try saying...
 

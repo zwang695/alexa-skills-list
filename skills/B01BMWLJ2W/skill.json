@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BMWLJ2W",
-  "averageRating": 3.9,
+  "averageRating": 3.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "hebcal",
   "name": "Hebcal",
-  "numberOfReviews": 6,
+  "numberOfReviews": 8,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.hebcal.com/home/about/privacy-policy",

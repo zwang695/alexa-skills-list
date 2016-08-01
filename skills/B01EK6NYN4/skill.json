@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01EK6NYN4",
+  "averageRating": 5,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1469559367.767,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.4823145a-607e-4fd9-8435-0cd20e928c82",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01EK6NYN4/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "HomeSeer Technologies LLC",
+  "numberOfReviews": 2,
+  "pamsPartnerId": "LL274VJ3HboltYxdsKhxf76WI",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M372OCS6N1HZLO",
+  "vendorName": "HomeSeer Technologies LLC"
+}

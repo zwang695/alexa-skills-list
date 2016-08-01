@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OBLLXW",
-  "averageRating": 3.7,
+  "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "teacher",
   "name": "Teacher for Alexa",
-  "numberOfReviews": 7,
+  "numberOfReviews": 8,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

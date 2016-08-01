@@ -1,0 +1,39 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "tags.mediaforge.com",
+    "www.google-analytics.com",
+    "app.yieldify.com",
+    "px.owneriq.com",
+    "configusa.veinteractive.com",
+    "ihomeaudio.com"
+  ],
+  "asin": "B01H23V0RO",
+  "averageRating": 3.6,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1469048231.265,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.ebb126c9-bc7c-4d6c-a8fe-8d514d032ae0",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01H23V0RO/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "iHome",
+  "numberOfReviews": 4,
+  "pamsPartnerId": "oQiBvo39ZQXywVqLfz3izYlBT",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M376FCUNV0CX1U",
+  "vendorName": "iHome"
+}

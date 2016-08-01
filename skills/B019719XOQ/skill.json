@@ -10,7 +10,7 @@
   "exampleInteractions": [
     "Alexa, open izzy",
     "Alexa, tell izzy to turn on hallway to 50%",
-    "Alexa, ask izzy what's the temperature of second floor thermostat"
+    "Alexa, ask izzy what's the temperature of second floor"
   ],
   "firstReleaseDate": 1449775007.311,
   "homepageLinkText": null,

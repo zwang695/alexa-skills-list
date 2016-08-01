@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Dex Trivia icon" width="36"> [Dex Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.34b4784b-1abc-4011-bf8d-6bdddb056671)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Dex Trivia skill, try saying...
 

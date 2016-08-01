@@ -14,15 +14,15 @@ Learn how to pronounce the most popular gelato flavors. Study these flavors, tak
 Amarena - black cherry
 Anguria - watermelon
 Arachidi - peanut butter
-Bacio - hazelnut and chocolate (means "kiss" in itialian)
-Bailey's Irish Cream - baileys
+Bacio - hazelnut and milk chocolate (means "kiss" in itialian)
+Bailey's Irish Cream - Bailey's
 Biscotto - cookies and cream
 Caffè - coffee
-Cioccolato - dark chocolate
+Cioccolato - chocolate (dark)
 Cioccolato al Latte - milk chocolate 
 Fragola - strawberry
 Frutti di Bosco - mixed berries
-Guinness - guinness
+Guinness - Guinness
 Limone - lemon
 Malaga - rum raisin
 Mela - apple

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Baby Stats icon" width="36"> [Baby Stats](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f24fc1b4-b5f2-4be7-afc7-c833d6c739d6)
-![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 8
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the Baby Stats skill, try saying...
 
@@ -8,6 +8,9 @@ To use the Baby Stats skill, try saying...
 * *Alexa ask baby stats when was the last poo*
 
 * *Alexa ask baby stats to add poop*
+
+Update 7/11
+You can now set more time zones. The time zones available are pacific, central, eastern, mountain, atlantic, hawaiian, or alaska. Thanks for the feedback!
 
 Baby Stats mission is to create an ecosystem apps to make it easy to track baby stats for busy mothers and fathers, on any device.
 
@@ -70,14 +73,10 @@ Happy baby stats tracking!
 
 More samples for Baby Stats:
 Alexa, ask baby stats to add note slept 1.5 hours
-Alexa, ask baby stats to add pee and poop
-Alexa, ask baby stats to add feeding
 Alexa, ask baby stats to undo
 Alexa, ask baby stats to add feeding at noon
 Alexa, ask baby stats what time was the last feeding
 Alexa, ask baby stats to add weight 8 pounds and 5 ounces
-Alexa, ask baby stats when was the last feeding
-Alexa, ask baby stats to add note pumped .5 ounces
 
 ***
 

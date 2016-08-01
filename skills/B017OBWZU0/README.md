@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Movie Quotes Trivia Game icon" width="36"> [Movie Quotes Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e51ccb8d-59bd-478f-a58a-4cfb511fb167)
-![1.7 stars](../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png) 29
+![1.7 stars](../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png) 30
 
 To use the Movie Quotes Trivia Game skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Top Headlines icon" width="36"> [Top Headlines](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ebe81acc-b22c-43a1-8f49-4d6677c75f60)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Top Headlines skill, try saying...
 

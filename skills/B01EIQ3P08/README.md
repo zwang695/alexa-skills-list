@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="ecobee icon" width="36"> [ecobee](http://alexa.amazon.com/#skills/amzn1.ask.skill.5c94a669-85c5-4438-ad40-4737260703e5)
-![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 30
+![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 38
 
 To use the ecobee skill, try saying...
 

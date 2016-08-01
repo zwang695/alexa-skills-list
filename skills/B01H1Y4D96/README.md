@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Good Advice icon" width="36"> [Good Advice](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a7b6b5d4-342e-4b95-9fb5-5e0a7c32f1ba)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Good Advice skill, try saying...
 

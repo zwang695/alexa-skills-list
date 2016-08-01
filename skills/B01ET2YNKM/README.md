@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Anime Trivia icon" width="36"> [Anime Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.43c9e3c3-a248-49bb-8eed-24b973fcc79e)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Anime Trivia skill, try saying...
 

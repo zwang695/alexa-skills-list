@@ -30,6 +30,6 @@ https://www.uscis.gov/citizenship/learners/study-test
 * **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c0f1b63b-0c44-472d-9a3e-bc9ae59ada5f
 * **ASIN:** B01GDT2P0O
-* **Author:** Fed
+* **Author:** Federica Incerti
 * **Release Date:** June 2, 2016 @ 04:08:26
 * **In-App Purchasing:** No

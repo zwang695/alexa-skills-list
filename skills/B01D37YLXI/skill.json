@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01D37YLXI",
-  "averageRating": 2.3,
+  "averageRating": 1.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "haunted house",
   "name": "Haunted House",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="American History Quiz icon" width="36"> [American History Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.04dbcec5-fdd1-4441-91e8-5b962b2786a9)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the American History Quiz skill, try saying...
 

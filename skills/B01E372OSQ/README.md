@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="What's My Sign icon" width="36"> [What's My Sign](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c56c3d73-7aae-4ecf-9fe6-565d6dc408fd)
-![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 16
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 19
 
 To use the What's My Sign skill, try saying...
 

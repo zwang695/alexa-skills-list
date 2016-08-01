@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Fortune Cookie icon" width="36"> [Fortune Cookie](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f5203529-289c-4fd0-b877-3a6b35583305)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Fortune Cookie skill, try saying...
 
@@ -9,7 +9,7 @@ To use the Fortune Cookie skill, try saying...
 
 * *Alexa, ask Fortune Cookie to tell me my fortune.*
 
-All the fortunes you want - without the calories!
+We are regularly adding new fortunes and sayings to this skill. So check back often for predictions impacting your immediate future.
 
 ***
 

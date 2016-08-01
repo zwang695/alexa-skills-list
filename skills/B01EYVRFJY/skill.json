@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01EYVRFJY",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "blue player",
   "name": "Bluplayer",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "6KasaXRKUJ9kRKhg3I8Tf37Un",
   "permissions": null,
   "privacyPolicyUrl": "http://portal.bluplayer.net/static/privacy.html",
