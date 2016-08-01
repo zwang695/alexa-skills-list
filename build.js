@@ -291,6 +291,8 @@ var Template = {
 			if (skill.exampleInteractions) {
 				contents += '\n';
 				contents += '*' + skill.exampleInteractions[0] + '*\n';
+			} else {
+				skill.exampleInteractions = [null, null, null];
 			}
 
 			contents += '\n';
@@ -594,6 +596,10 @@ if (config.writeMode && (addCount || updateCount || config.writeMode == 2)) {
 
 	for (var key in skills) {
 		var skill = JSON.parse(JSON.stringify(skills[key]));
+
+		if (!skill.exampleInteractions) {
+			skill.exampleInteractions = [null, null, null];
+		}
 
 		skill.firstReleaseDate =         Date.format('Y-m-d H:i:s', skill.firstReleaseDate);
 		skill.exampleInteractions[0] =   skill.exampleInteractions[0] || '';
