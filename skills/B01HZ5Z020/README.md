@@ -1,8 +1,6 @@
 # &nbsp;<img src="skill_icon" alt="null" width="36"> [Telehems Labs Corporation](http://alexa.amazon.com/#skills/amzn1.ask.skill.9b10b3ed-d1c0-4949-bb2f-8006cdd1919b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
-To use the Telehems Labs Corporation skill, try saying...
-
 null
 
 ***

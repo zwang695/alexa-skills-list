@@ -1,8 +1,6 @@
 # &nbsp;<img src="skill_icon" alt="Sensi icon" width="36"> [Sensi](http://alexa.amazon.com/#skills/amzn1.ask.skill.e54b56d8-b02b-4e4f-83bc-5333450e3227)
 ![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 24
 
-To use the Sensi skill, try saying...
-
 Smart home, meet smart comfort.
 
 Now you can easily connect your Sensi™ Wi-Fi Programmable Thermostat to Amazon Alexa and use simple voice commands to set, lower, or raise your home temperature without lifting a finger. To use the Sensi thermostat skill, try saying…

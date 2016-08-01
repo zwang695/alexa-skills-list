@@ -2613,7 +2613,7 @@ Carly is a voice-activated coach for Amazon Echo that helps users understand the
 
 ## &nbsp;<img src="skills/B01EIQVFFA/skill_icon" alt="Caséta Wireless icon" width="36"> [Caséta Wireless](skills/B01EIQVFFA)
 
-*null*
+*There are no example interactions for this skill.*
 
 Control your Lutron Caséta Wireless lights from anywhere!
 
@@ -4755,7 +4755,7 @@ Ask Eclipse Phase Geek to tell you a fact about the the bleak future of Transhum
 
 ## &nbsp;<img src="skills/B01EIQ3P08/skill_icon" alt="ecobee icon" width="36"> [ecobee](skills/B01EIQ3P08)
 
-*null*
+*There are no example interactions for this skill.*
 
 Control your ecobee thermostat using your Amazon Alexa.
 
@@ -5382,7 +5382,7 @@ Firefighter Trivia Game is a trivia game based on basic knowledge for firefighte
 
 ## &nbsp;<img src="skills/B01H649A7Q/skill_icon" alt="First Alert icon" width="36"> [First Alert](skills/B01H649A7Q)
 
-*null*
+*There are no example interactions for this skill.*
 
 Monitor and control your First Alert Onelink thermostat. Alexa, set my living room to 74 degrees.
 
@@ -6651,7 +6651,7 @@ Haiku poem generator.
 
 ## &nbsp;<img src="skills/B01F6D3ZHU/skill_icon" alt="Haiku Home icon" width="36"> [Haiku Home](skills/B01F6D3ZHU)
 
-*null*
+*There are no example interactions for this skill.*
 
 Control your Haiku fans and lights
 
@@ -6995,7 +6995,7 @@ Learn facts about the canine stars of film and stage
 
 ## &nbsp;<img src="skills/B01EKJX3M8/skill_icon" alt="Home Control Assistant icon" width="36"> [Home Control Assistant](skills/B01EKJX3M8)
 
-*null*
+*There are no example interactions for this skill.*
 
 The HCA Skill lets you control devices, programs, and groups in your home using the HCA server
 
@@ -7019,6 +7019,8 @@ This app allows HomeSeer home automation system users to control and monitor sta
 
 ## &nbsp;<img src="skills/B01EK6NYN4/skill_icon" alt="null" width="36"> [HomeSeer Technologies LLC](skills/B01EK6NYN4)
 
+*There are no example interactions for this skill.*
+
 null
 
 ***
@@ -7033,7 +7035,7 @@ This skill tells a fun fact about Honey Bee
 
 ## &nbsp;<img src="skills/B01HCB4Y5Q/skill_icon" alt="Honeywell Total Connect Comfort icon" width="36"> [Honeywell Total Connect Comfort](skills/B01HCB4Y5Q)
 
-*null*
+*There are no example interactions for this skill.*
 
 Control your Honeywell Total Connect Comfort thermostat
 
@@ -7250,13 +7252,15 @@ Answer multiple choice questions about Iceland!
 
 ## &nbsp;<img src="skills/B01G98LFFA/skill_icon" alt="iDevices icon" width="36"> [iDevices](skills/B01G98LFFA)
 
-*null*
+*There are no example interactions for this skill.*
 
 Control your iDevices connected home products with Alexa.
 
 ***
 
 ## &nbsp;<img src="skills/B01H23V0RO/skill_icon" alt="null" width="36"> [iHome](skills/B01H23V0RO)
+
+*There are no example interactions for this skill.*
 
 null
 
@@ -7456,7 +7460,7 @@ Get inspirational quotes from famous folk and the movies.
 
 ## &nbsp;<img src="skills/B01EIQOOUS/skill_icon" alt="Insteon icon" width="36"> [Insteon](skills/B01EIQOOUS)
 
-*null*
+*There are no example interactions for this skill.*
 
 The most affordable, complete, connected home solution
 
@@ -7640,7 +7644,7 @@ ISY skill allows you to control your home using an ISY home-automation controlle
 
 ## &nbsp;<img src="skills/B01FGS66D0/skill_icon" alt="ISY Optimized for Smart Home V2 icon" width="36"> [ISY Optimized for Smart Home V2](skills/B01FGS66D0)
 
-*null*
+*There are no example interactions for this skill.*
 
 Voice control your ISY devices, scenes, and even programs!
 
@@ -8138,7 +8142,7 @@ LIFX, the world’s brightest color Wi-Fi smart lights. Ask Alexa to switch on t
 
 ## &nbsp;<img src="skills/B01EIQSPOY/skill_icon" alt="LIFX Optimized for Smart Home icon" width="36"> [LIFX Optimized for Smart Home](skills/B01EIQSPOY)
 
-*null*
+*There are no example interactions for this skill.*
 
 The world's brightest Wi-Fi LED smart lights, no cables or hub needed! Light your home in millions of colors, now with full control via Alexa.
 
@@ -8362,7 +8366,7 @@ A fun Magic Eight Ball prediction skill.
 
 ## &nbsp;<img src="skills/B01HFZI9AK/skill_icon" alt="Magic Home icon" width="36"> [Magic Home](skills/B01HFZI9AK)
 
-*null*
+*There are no example interactions for this skill.*
 
 The Wi-Fi LED smart lights, no cables or hub needed! Light your home in millions of colors, now with control via Alexa.
 
@@ -9558,7 +9562,7 @@ Select this skill for interesting Bible facts.
 
 ## &nbsp;<img src="skills/B01F4WFJ5Y/skill_icon" alt="mydlink Home - Optimized for Smart Home icon" width="36"> [mydlink Home - Optimized for Smart Home](skills/B01F4WFJ5Y)
 
-*null*
+*There are no example interactions for this skill.*
 
 Controlling D-Link Smart Plugs by speaking to Alexa, directly connected to the mydlink Wi-Fi Smart Plug to help you turn on/off the plug.
 
@@ -9822,7 +9826,7 @@ This skill gives a nerdy pickup line when asked.
 
 ## &nbsp;<img src="skills/B01EIQW9LY/skill_icon" alt="Nest icon" width="36"> [Nest](skills/B01EIQW9LY)
 
-*null*
+*There are no example interactions for this skill.*
 
 Alexa and Nest work together to help you set the perfect temperature - without having to lift a finger.
 
@@ -9935,7 +9939,7 @@ NewsCom Skill for Alexa.
 
 ## &nbsp;<img src="skills/B01H65IJMC/skill_icon" alt="Nexia icon" width="36"> [Nexia](skills/B01H65IJMC)
 
-*null*
+*There are no example interactions for this skill.*
 
 Control your Nexia devices with Alexa
 
@@ -9975,7 +9979,7 @@ Your guide to guest information on late night talk shows
 
 ## &nbsp;<img src="skills/B01HBI4FIQ/skill_icon" alt="nomos system icon" width="36"> [nomos system](skills/B01HBI4FIQ)
 
-*null*
+*There are no example interactions for this skill.*
 
 Alexa, turn on the kitchen lamp. Use nomos system to control your smart home and IoT devices.
 
@@ -10286,6 +10290,8 @@ Ask Oscar Wilde to tell you one of his famous quotes
 ***
 
 ## &nbsp;<img src="skills/B01HCYSG84/skill_icon" alt="null" width="36"> [OSRAM LIGHTIFY](skills/B01HCYSG84)
+
+*There are no example interactions for this skill.*
 
 null
 
@@ -12292,7 +12298,7 @@ Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 
 ## &nbsp;<img src="skills/B01EIQLWUS/skill_icon" alt="Sensi icon" width="36"> [Sensi](skills/B01EIQLWUS)
 
-*null*
+*There are no example interactions for this skill.*
 
 "Alexa, set my thermostat to 72 degrees."
 
@@ -12665,7 +12671,7 @@ A skill that tells the individual interesting eye facts.
 
 ## &nbsp;<img src="skills/B01ETW5Q9O/skill_icon" alt="SmartThings icon" width="36"> [SmartThings](skills/B01ETW5Q9O)
 
-*null*
+*There are no example interactions for this skill.*
 
 Alexa, turn on the table lamp.
 
@@ -13581,7 +13587,7 @@ This Alexa App provides fun facts about tacos.
 
 ## &nbsp;<img src="skills/B01EJJFWV4/skill_icon" alt="tado° icon" width="36"> [tado°](skills/B01EJJFWV4)
 
-*null*
+*There are no example interactions for this skill.*
 
 Use your voice to control your tado° Smart Thermostat and Smart AC Control
 
@@ -13725,6 +13731,8 @@ Generates a technology statement with the latest in technology buzzwords.
 ***
 
 ## &nbsp;<img src="skills/B01HZ5Z020/skill_icon" alt="null" width="36"> [Telehems Labs Corporation](skills/B01HZ5Z020)
+
+*There are no example interactions for this skill.*
 
 null
 
@@ -14509,7 +14517,7 @@ Test your knowledge of the college basketball tournament.
 
 ## &nbsp;<img src="skills/B01EIQX6Y8/skill_icon" alt="TP-LINK Kasa icon" width="36"> [TP-LINK Kasa](skills/B01EIQX6Y8)
 
-*null*
+*There are no example interactions for this skill.*
 
 Kasa is a simple way to manage your home from anywhere.
 
@@ -14948,6 +14956,8 @@ A short trivia skill about turtles and teenage mutant ninja turtles
 ***
 
 ## &nbsp;<img src="skills/B01I9GHK40/skill_icon" alt="null" width="36"> [tuya technology](skills/B01I9GHK40)
+
+*There are no example interactions for this skill.*
 
 null
 
@@ -15396,7 +15406,7 @@ The Vectrex Wiki skill allows you to get information about the original Vectrex 
 
 ## &nbsp;<img src="skills/B01FRIJRJY/skill_icon" alt="Venstar icon" width="36"> [Venstar](skills/B01FRIJRJY)
 
-*null*
+*There are no example interactions for this skill.*
 
 Monitor and control your Skyport compatible thermostat. Alexa, set my living room to 74 degrees.
 
@@ -15452,7 +15462,7 @@ Ask Virtual Academy about upcoming events, courses and holidays.
 
 ## &nbsp;<img src="skills/B01HBT64GG/skill_icon" alt="Vivint.SmartHome - Basic icon" width="36"> [Vivint.SmartHome - Basic](skills/B01HBT64GG)
 
-*null*
+*There are no example interactions for this skill.*
 
 Control your Vivint lights and thermostats with easy-to-use voice commands (for Vivint Sky consumers only)
 
@@ -15893,7 +15903,7 @@ Find the perfect wine for a type of food, or vice versa.
 
 ## &nbsp;<img src="skills/B01EIQYF3E/skill_icon" alt="Wink icon" width="36"> [Wink](skills/B01EIQYF3E)
 
-*null*
+*There are no example interactions for this skill.*
 
 With Amazon Alexa, Wink smart home users can use simple voice commands to control their Wink-compatible lighting products and Wink-enabled Nest Thermostats.
 
@@ -16168,7 +16178,7 @@ Yo Mama jokes
 
 ## &nbsp;<img src="skills/B01E7TYGFO/skill_icon" alt="Yonomi icon" width="36"> [Yonomi](skills/B01E7TYGFO)
 
-*null*
+*There are no example interactions for this skill.*
 
 Yonomi connects all of your devices under one roof for free – including Sonos, Logitech Harmony, Hue and more. Control all of your devices with just your voice!
 

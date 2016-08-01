@@ -1,8 +1,6 @@
 # &nbsp;<img src="skill_icon" alt="null" width="36"> [iHome](http://alexa.amazon.com/#skills/amzn1.ask.skill.ebb126c9-bc7c-4d6c-a8fe-8d514d032ae0)
 ![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
-To use the iHome skill, try saying...
-
 null
 
 ***

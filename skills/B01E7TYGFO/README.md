@@ -1,8 +1,6 @@
 # &nbsp;<img src="skill_icon" alt="Yonomi icon" width="36"> [Yonomi](http://alexa.amazon.com/#skills/amzn1.ask.skill.496d7007-1a5e-4dad-b83b-dd990c984fcb)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 30
 
-To use the Yonomi skill, try saying...
-
 The Yonomi Smart Home skill makes it easy to control all of your favorite connected devices. Add your devices to Yonomi Routines, then simply control them by asking Alexa. For example, you can create a Yonomi Routine called “Fall Asleep” then tell Alexa to "Turn on Fall Asleep” and your TV shuts off via the Logitech Harmony Hub, your lights turn out, the door locks – and you're ready for bed. 
 
 With Yonomi, you can even run your Sonos via Alexa – just say "Alexa, Turn on My Jams" to switch your Sonos speakers to any radio station, channel, or source you like all with just your voice. Or simply say “Alexa, turn on my Living Room Sonos” to add a little atmosphere. Other devices like your TV and Fire TV can be controlled directly via your Logitech Harmony Hub. 

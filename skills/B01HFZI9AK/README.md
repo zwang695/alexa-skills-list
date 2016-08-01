@@ -1,8 +1,6 @@
 # &nbsp;<img src="skill_icon" alt="Magic Home icon" width="36"> [Magic Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.8a66303c-275e-453c-b7eb-e129e116b6e8)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
-To use the Magic Home skill, try saying...
-
 CONTROL MAGIC HOME BULB OR LED CONTROLLER WITH ALEXA
 
 Your lights now talk directly to the Amazon Echo through the Alexa Connected Home. After a few simple set up steps you can control your lights with simple statements like:

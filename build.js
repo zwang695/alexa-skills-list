@@ -283,18 +283,16 @@ var Template = {
 		section: function(skill) {
 			var contents = '';
 
+			if (!skill.exampleInteractions) {
+				skill.exampleInteractions = [null, null, null];
+			}
+
 			contents  = '\n';
 			contents += '***\n';
 			contents += '\n';
 			contents += '## ' + Template.skill.icon(skill) + ' [' + skill.name + '](' + config.skillsDir + '/' + skill.asin + ')\n';
-
-			if (skill.exampleInteractions) {
-				contents += '\n';
-				contents += '*' + (skill.exampleInteractions[0] || 'There are no example interactions for this skill') + '*\n';
-			} else {
-				skill.exampleInteractions = [null, null, null];
-			}
-
+			contents += '\n';
+			contents += '*' + (skill.exampleInteractions[0] ? skill.exampleInteractions[0] : 'There are no example interactions for this skill.') + '*\n';
 			contents += '\n';
 			contents += (skill.shortDescription ? skill.shortDescription : skill.description) + '\n';
 
@@ -328,14 +326,19 @@ var Template = {
 			contents += '\n';
 
 			// Example interactions
-			contents += 'To use the ' + skill.name + ' skill, try saying...' + '\n';
-			contents += '\n';
+			var interactions = '';
 
 			for (var key in skill.exampleInteractions) {
 				if (skill.exampleInteractions[key]) {
-					contents += '* *' + skill.exampleInteractions[key] + '*\n';
-					contents += '\n';
+					interactions += '* *' + skill.exampleInteractions[key] + '*\n';
+					interactions += '\n';
 				}
+			}
+
+			if (interactions) {
+				contents += 'To use the ' + skill.name + ' skill, try saying...' + '\n';
+				contents += '\n';
+				contents += interactions;
 			}
 
 			// Description

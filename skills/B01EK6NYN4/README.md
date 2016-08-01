@@ -1,8 +1,6 @@
 # &nbsp;<img src="skill_icon" alt="null" width="36"> [HomeSeer Technologies LLC](http://alexa.amazon.com/#skills/amzn1.ask.skill.4823145a-607e-4fd9-8435-0cd20e928c82)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
-To use the HomeSeer Technologies LLC skill, try saying...
-
 null
 
 ***
