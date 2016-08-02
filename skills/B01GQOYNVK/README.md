@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Woof! icon" width="36"> [Woof!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5582178f-fae5-457b-9a6b-b52d683ff2f6)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Woof! skill, try saying...
 
