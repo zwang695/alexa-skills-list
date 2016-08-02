@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="ISY icon" width="36"> [ISY](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0c691557-2597-4018-ba9b-4abe6821e7ca)
-![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 14
+![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 15
 
 To use the ISY skill, try saying...
 

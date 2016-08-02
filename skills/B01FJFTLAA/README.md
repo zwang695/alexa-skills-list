@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Yoga Guru icon" width="36"> [Yoga Guru](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a067d926-7fcc-4866-a663-a16ba4d1ee6e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Yoga Guru skill, try saying...
 

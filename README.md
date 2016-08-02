@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2032
+**Total Skills Available:** 2037
 
 ***
 
@@ -74,6 +74,14 @@ Compete with the dealer to score 21 points in this classic card game
 *Alexa, start 21 Dayz*
 
 As the saying goes, it takes at least 21 days to build a habit. Use 21 Dayz to help guide you in your journey to developing new business or personal habits.
+
+***
+
+## &nbsp;<img src="skills/B01J059IBC/skill_icon" alt="3-Dharma Inspirations icon" width="36"> [3-Dharma Inspirations](skills/B01J059IBC)
+
+*Alexa, launch dharma inspirations*
+
+3-Dharma Inspirations dispenses 3 sayings of the Buddha with one request. It is insightful & inspirational each time.
 
 ***
 
@@ -5356,6 +5364,14 @@ This is a trivia game about ferrets.
 
 ***
 
+## &nbsp;<img src="skills/B01J0EGBXG/skill_icon" alt="Fibonacci Sequence icon" width="36"> [Fibonacci Sequence](skills/B01J0EGBXG)
+
+*Alexa, ask fibonacci fun*
+
+Fibonacci fun is a simple fun game for kids. Kids can learn fibonacci sequence and also simple addition subtraction of 1, 2 and 3 digit numbers.
+
+***
+
 ## &nbsp;<img src="skills/B019ZY1ECY/skill_icon" alt="Fidelity Investments icon" width="36"> [Fidelity Investments](skills/B019ZY1ECY)
 
 *Alexa, Ask Fidelity to get a quote for Amazon*
@@ -9953,6 +9969,14 @@ Real-time info on the next Caltrain
 
 ***
 
+## &nbsp;<img src="skills/B01GEI559M/skill_icon" alt="Niesje Trivia icon" width="36"> [Niesje Trivia](skills/B01GEI559M)
+
+*Alexa, Start Neesha Trivia.*
+
+Trivia Game about Niesje
+
+***
+
 ## &nbsp;<img src="skills/B01C9GR7YY/skill_icon" alt="Nikola Tesla Trivia icon" width="36"> [Nikola Tesla Trivia](skills/B01C9GR7YY)
 
 *Alexa, ask Nikola Tesla*
@@ -10062,6 +10086,14 @@ A service to tell you interesting facts about numbers.
 *Alexa ask number facts for a random fact*
 
 A fun app to tell you facts about any number you could be curious about.
+
+***
+
+## &nbsp;<img src="skills/B01IVAMZ58/skill_icon" alt="Number Facts icon" width="36"> [Number Facts](skills/B01IVAMZ58)
+
+*Alexa, ask number facts*
+
+Number Facts, tells you the facts associated to any number.
 
 ***
 
@@ -11677,6 +11709,14 @@ Recipe Helper
 *Alexa, ask record of the year what was the record of the year in 1988*
 
 Flashback to the greatest hits of today and the past decades with Record of the Year! This skill will tell you who won the Grammy for record of the year.
+
+***
+
+## &nbsp;<img src="skills/B01JD45ULW/skill_icon" alt="Records Rao icon" width="36"> [Records Rao](skills/B01JD45ULW)
+
+*Alexa  ask Records Rao to tell a record*
+
+This  skills  gives  records  information  in random.
 
 ***
 
