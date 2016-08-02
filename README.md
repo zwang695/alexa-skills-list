@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2037
+**Total Skills Available:** 2054
 
 ***
 
@@ -1336,6 +1336,14 @@ Baseball Facts is a simple skill to generate baseball facts.
 
 ***
 
+## &nbsp;<img src="skills/B01JFDN25C/skill_icon" alt="Baseball Flash Cards icon" width="36"> [Baseball Flash Cards](skills/B01JFDN25C)
+
+*Alexa, open Baseball Flash Cards.*
+
+Test your MLB knowledge with an entertaining flash card game!
+
+***
+
 ## &nbsp;<img src="skills/B01HLDJB44/skill_icon" alt="Baseball Fun Fact icon" width="36"> [Baseball Fun Fact](skills/B01HLDJB44)
 
 *Alexa, open baseball fun fact*
@@ -1429,6 +1437,14 @@ Basketball Facts
 *Alexa, open basketball fun fact*
 
 This lists basketball fun facts
+
+***
+
+## &nbsp;<img src="skills/B01JDT02JC/skill_icon" alt="Basketball quiz icon" width="36"> [Basketball quiz](skills/B01JDT02JC)
+
+*alexa ask basketball quiz to start game*
+
+Quiz on basketball facts
 
 ***
 
@@ -1549,6 +1565,14 @@ Generate honey bee facts.
 *Alexa, launch beer advisor.*
 
 Find what beer you should be pairing based on the type of food that you are preparing!
+
+***
+
+## &nbsp;<img src="skills/B01J73B1T4/skill_icon" alt="Beer Advisor icon" width="36"> [Beer Advisor](skills/B01J73B1T4)
+
+*Alexa, tell Beer Advisor I'm drinking a Coors Light*
+
+Beer Advisor comments on your frosty brew!
 
 ***
 
@@ -1879,6 +1903,14 @@ The BioRhythm skill will calculate your natural biorhythm for today for entertai
 *Alexa ask bird facts a fact*
 
 Bird facts skill gives you interesting facts about our fine feathered friends.
+
+***
+
+## &nbsp;<img src="skills/B01JANVWOA/skill_icon" alt="Bird Quiz icon" width="36"> [Bird Quiz](skills/B01JANVWOA)
+
+*Alexa ask bird quiz to start game*
+
+A fun bird quiz.
 
 ***
 
@@ -4713,6 +4745,14 @@ Dylan Punster will tell you a pun based on what you ask him.
 
 ***
 
+## &nbsp;<img src="skills/B01J26ONNC/skill_icon" alt="E.P.L Matchday icon" width="36"> [E.P.L Matchday](skills/B01J26ONNC)
+
+*Alexa ask E.P.L Match Day for the matches*
+
+The E.P.L Match Day skill will provide schedules and live scores for all English Premier League football fixtures
+
+***
+
 ## &nbsp;<img src="skills/B01DOS1J18/skill_icon" alt="Ear Trainer icon" width="36"> [Ear Trainer](skills/B01DOS1J18)
 
 *Alexa ask Ear Trainer to play a major third*
@@ -6689,6 +6729,14 @@ Review HAM Radio Q-Codes and their meanings.
 
 ***
 
+## &nbsp;<img src="skills/B01JBMI8CO/skill_icon" alt="Ham Radio Tech icon" width="36"> [Ham Radio Tech](skills/B01JBMI8CO)
+
+*Alexa, launch Ham Radio Tech*
+
+Test your knowledge of Ham Radio Technician Class concepts!
+
+***
+
 ## &nbsp;<img src="skills/B01IQB0252/skill_icon" alt="Hamilton Facts icon" width="36"> [Hamilton Facts](skills/B01IQB0252)
 
 *Alexa open hamilton facts*
@@ -7566,7 +7614,7 @@ Internet Flashcards - Internet Acronyms Quiz
 
 *Alexa ask Interval Trainer to give me an interval*
 
-Ascending and descending interval ear trainer within the octave.
+Test your musical interval ear training skills with scoring and feedback.
 
 ***
 
@@ -7969,6 +8017,14 @@ Get an inspirational message from the LDS Daily Message Alexa App
 *Alexa, open church facts*
 
 Ask Alexa for fun and interesting facts about the Church of Jesus Christ of Latter-day Saints (aka LDS or Mormon Church).
+
+***
+
+## &nbsp;<img src="skills/B01J4O2T8S/skill_icon" alt="LDS Report icon" width="36"> [LDS Report](skills/B01J4O2T8S)
+
+*Alexa open LDS Report*
+
+LDS Report is based off of the former popular blog and website at LDSreport.com.  It is updated at least weekly with LDS and BYU news.
 
 ***
 
@@ -9440,6 +9496,14 @@ Interact with your connected devices with Muzzley and Echo. Try to say to "Alexa
 
 ***
 
+## &nbsp;<img src="skills/B01IUZPUZQ/skill_icon" alt="My Airport Info icon" width="36"> [My Airport Info](skills/B01IUZPUZQ)
+
+*Alexa, ask my airport info for PDX*
+
+My Airport Info provides you with status and delays at Major US airports.
+
+***
+
 ## &nbsp;<img src="skills/B01EQKULFI/skill_icon" alt="My Biggest Fan icon" width="36"> [My Biggest Fan](skills/B01EQKULFI)
 
 *Alexa, ask My Biggest Fan for a compliment*
@@ -9736,6 +9800,14 @@ Name the State Capitals
 
 ***
 
+## &nbsp;<img src="skills/B01JETW4JC/skill_icon" alt="Namma Bangalore icon" width="36"> [Namma Bangalore](skills/B01JETW4JC)
+
+*Alexa ask Namma bangalore*
+
+Cool facts about Bangalore
+
+***
+
 ## &nbsp;<img src="skills/B01EKKF81Q/skill_icon" alt="Nanny State icon" width="36"> [Nanny State](skills/B01EKKF81Q)
 
 *Alexa ask nanny state if I can have screentime*
@@ -9974,6 +10046,14 @@ Real-time info on the next Caltrain
 *Alexa, Start Neesha Trivia.*
 
 Trivia Game about Niesje
+
+***
+
+## &nbsp;<img src="skills/B01JDN304W/skill_icon" alt="Nigeria Facts icon" width="36"> [Nigeria Facts](skills/B01JDN304W)
+
+*Alexa, ask Nigeria facts*
+
+Nigeria Facts, tells you some basic facts about Nigeria
 
 ***
 
@@ -10972,6 +11052,14 @@ Ask Alexa to pray 20 of the most common catholic prayers such as: Our father, Ha
 
 ***
 
+## &nbsp;<img src="skills/B01JD4XEDS/skill_icon" alt="Prayer Zone Workout icon" width="36"> [Prayer Zone Workout](skills/B01JD4XEDS)
+
+*Alexa, ask Prayer Workout to say a prayer*
+
+Skill to provide a prayer
+
+***
+
 ## &nbsp;<img src="skills/B01FOP3I0Y/skill_icon" alt="Pregnancy Facts icon" width="36"> [Pregnancy Facts](skills/B01FOP3I0Y)
 
 *Alexa, Ask Pregnancy Facts for a Fact*
@@ -11317,6 +11405,14 @@ Chemistry quiz to start the second semester for simon tech students
 *"Alexa, open Quick Events."*
 
 Quickly add events to your primary Google Calendar. Quick Events will notify you of conflicts and ask for confirmation before adding your event.
+
+***
+
+## &nbsp;<img src="skills/B01IVZ1L26/skill_icon" alt="Quick Fun Facts icon" width="36"> [Quick Fun Facts](skills/B01IVZ1L26)
+
+*Alexa, open Quick Fun Facts*
+
+Gives a random fun fact
 
 ***
 
@@ -13609,6 +13705,14 @@ Built for finding out where the heck that Sweedish designer is at all the time..
 
 ***
 
+## &nbsp;<img src="skills/B01IZ13GOW/skill_icon" alt="Swiggity Swooty icon" width="36"> [Swiggity Swooty](skills/B01IZ13GOW)
+
+*Alexa, ask your boy about swiggity swooty coming for that booty*
+
+This skill tells Alexa to play the Swiggity Swooty song!
+
+***
+
 ## &nbsp;<img src="skills/B01E62RRTE/skill_icon" alt="Syfy icon" width="36"> [Syfy](skills/B01E62RRTE)
 
 *Alexa, start Syfy.*
@@ -14098,6 +14202,16 @@ With the Prayer Book skill, Alexa can speak a mealtime prayer for you. The Praye
 
 ***
 
+## &nbsp;<img src="skills/B01IZTKIKE/skill_icon" alt="The Quadratic Root Doctor icon" width="36"> [The Quadratic Root Doctor](skills/B01IZTKIKE)
+
+*Alexa, ask doctor quadratic about the formula*
+
+Dr. Quadratic, the Root Doctor
+
+Find the roots of the quadratic equation with the quadratic formula.
+
+***
+
 ## &nbsp;<img src="skills/B018TEBWH8/skill_icon" alt="The Rabbi icon" width="36"> [The Rabbi](skills/B018TEBWH8)
 
 *Alexa, ask The Rabbi what time is Shabbos in New York?*
@@ -14456,6 +14570,14 @@ Historical Facts picked for today!
 *Alexa, open Today's Ten*
 
 Have Alexa read you Business Insider's daily lists of tech and world events
+
+***
+
+## &nbsp;<img src="skills/B01JHNAZPK/skill_icon" alt="Toddler Trivia! icon" width="36"> [Toddler Trivia!](skills/B01JHNAZPK)
+
+*Alexa, start toddler trivia*
+
+Toddler trivia!
 
 ***
 
@@ -15099,6 +15221,14 @@ Twenty-one questions about the history of writing and basic typography.
 
 ***
 
+## &nbsp;<img src="skills/B01J6JUX3O/skill_icon" alt="U S Capital Quiz icon" width="36"> [U S Capital Quiz](skills/B01J6JUX3O)
+
+*Alexa, Ask american capitals start a new game*
+
+quiz on state capitals of USA
+
+***
+
 ## &nbsp;<img src="skills/B01I7FCGAQ/skill_icon" alt="u. s. a. facts icon" width="36"> [u. s. a. facts](skills/B01I7FCGAQ)
 
 *Alexa, start USA Facts*
@@ -15577,6 +15707,14 @@ Daily Wake Up Call by Sean Bauer
 *Alexa ask wales facts to give me a wales fact.*
 
 This Alexa App provides fun facts about the country of Wales.
+
+***
+
+## &nbsp;<img src="skills/B01JE5TQ9C/skill_icon" alt="walk more icon" width="36"> [walk more](skills/B01JE5TQ9C)
+
+*Alexa, start walk more*
+
+Daily tips to walk more.
 
 ***
 
