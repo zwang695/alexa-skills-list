@@ -11,7 +11,7 @@ To use the BART Control skill, try saying...
 
 BART Control allows you to determine when the next train arrives at the location that you specify, what the travel costs are between two stations, determine if there are any elevator or general advisories, and the parking situation at each of the stations.
 
-Supported phrases you can say include: "How much is parking at Bay Fair?", "How many trains are in operation?", "What is the elevator status?", "When will the next Walnut Creek train arrive?", "Are there any advisories?", and "What is the fare from Concord to Civic Center?"
+Supported phrases you can say include: "How much is parking at Bay Fair?", "How many trains are in operation?", "What is the elevator status?", "When will the next Walnut Creek train arrive?", "Are there any advisories?", "When does the last Richmond train depart?", and "What is the fare from Concord to Civic Center?"
 
 All responses use real time information.
 

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OBNX7Y",
-  "averageRating": 2,
+  "averageRating": 2.1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "angry bard",
   "name": "Angry Bard",
-  "numberOfReviews": 31,
+  "numberOfReviews": 32,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

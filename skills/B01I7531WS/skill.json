@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "BART Control allows you to determine when the next train arrives at the location that you specify, what the travel costs are between two stations, determine if there are any elevator or general advisories, and the parking situation at each of the stations.\n\nSupported phrases you can say include: \"How much is parking at Bay Fair?\", \"How many trains are in operation?\", \"What is the elevator status?\", \"When will the next Walnut Creek train arrive?\", \"Are there any advisories?\", and \"What is the fare from Concord to Civic Center?\"\n\nAll responses use real time information.",
+  "description": "BART Control allows you to determine when the next train arrives at the location that you specify, what the travel costs are between two stations, determine if there are any elevator or general advisories, and the parking situation at each of the stations.\n\nSupported phrases you can say include: \"How much is parking at Bay Fair?\", \"How many trains are in operation?\", \"What is the elevator status?\", \"When will the next Walnut Creek train arrive?\", \"Are there any advisories?\", \"When does the last Richmond train depart?\", and \"What is the fare from Concord to Civic Center?\"\n\nAll responses use real time information.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask BART Control when the next Fremont train arrives",

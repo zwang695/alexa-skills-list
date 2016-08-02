@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2054
+**Total Skills Available:** 2055
 
 ***
 
@@ -5915,6 +5915,14 @@ Discover Fresh Music from around the world
 *Alexa ask fridge storage times how long can I keep a steak*
 
 Provides guidelines on how long food can be safely kept in refrigeration. For example, you can say "Alexa, ask fridge storage times how long can I keep a steak"
+
+***
+
+## &nbsp;<img src="skills/B01IU48OCI/skill_icon" alt="null" width="36"> [Frigidaire](skills/B01IU48OCI)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 

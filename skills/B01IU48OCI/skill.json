@@ -1,0 +1,37 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "preprod.connappl.com",
+    "amazon.com",
+    "us-east-1.amazonaws.com",
+    "d2ai2izd634zfi.cloudfront.net"
+  ],
+  "asin": "B01IU48OCI",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1470177673.151,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.e862c0bc-54d1-46c0-940f-d0994407fafb",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01IU48OCI/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Frigidaire",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "Am79Rh4YybGLTWYxlBemHjofk",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3EV12Y5FU7V9T",
+  "vendorName": "Frigidaire"
+}
