@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Sentieo icon" width="36"> [Sentieo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ab8fb10d-159d-48f4-b410-3061526b958c)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Sentieo skill, try saying...
 

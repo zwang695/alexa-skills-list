@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="mad libs icon" width="36"> [mad libs](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c66806e-237d-4f62-873c-b9e4e3ba82e0)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the mad libs skill, try saying...
 

@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2089
+**Total Skills Available:** 2088
 
 ***
 
@@ -8622,14 +8622,6 @@ Random Malayalam (Indian Regional Language) movie jokes
 *Alexa, ask mango facts to give me mango fact*
 
 Mango Facts
-
-***
-
-## &nbsp;<img src="skills/B01EI88ULK/skill_icon" alt="Manly Quotes icon" width="36"> [Manly Quotes](skills/B01EI88ULK)
-
-*Alexa, ask Manly Quotes for a quote.*
-
-Hear a random, manly quote!
 
 ***
 

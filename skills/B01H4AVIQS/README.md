@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Sound Machine icon" width="36"> [Sound Machine](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c1882fa9-b42f-4834-a37e-1cc2d97f8516)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Sound Machine skill, try saying...
 
