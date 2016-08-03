@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="My Memory icon" width="36"> [My Memory](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.356924ce-dfd4-4e82-b1fd-8ec41b3b356f)
-![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the My Memory skill, try saying...
 

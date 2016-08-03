@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Venstar icon" width="36"> [Venstar](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd97c00b-5248-4b0b-ade9-4cfda4143773)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 12
+![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 13
 
 Amazon Alexa can now talk to your Venstar connected thermostats. Link your Skyport Cloud account and you can control your thermostats using your voice through Alexa.
 
