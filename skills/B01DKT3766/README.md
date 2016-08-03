@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Empire State Building Colors icon" width="36"> [Empire State Building Colors](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e36f1e63-87b6-456c-bbe4-76d2f24b6c87)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Empire State Building Colors skill, try saying...
 

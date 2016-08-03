@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Boston T-time icon" width="36"> [Boston T-time](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1cdead98-2f3a-4133-ab56-2b22245894b8)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Boston T-time skill, try saying...
 
