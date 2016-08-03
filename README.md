@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2080
+**Total Skills Available:** 2089
 
 ***
 
@@ -2122,6 +2122,14 @@ Body Geek is a collection of fun and unusual facts about the human body.
 
 ***
 
+## &nbsp;<img src="skills/B01JDNKZBS/skill_icon" alt="Bollywood Movie Trivia icon" width="36"> [Bollywood Movie Trivia](skills/B01JDNKZBS)
+
+*Alexa, launch bollywood movie trivia*
+
+Bollywood Movie Trivia
+
+***
+
 ## &nbsp;<img src="skills/B01EB0V9Y0/skill_icon" alt="Bollywood Trivia icon" width="36"> [Bollywood Trivia](skills/B01EB0V9Y0)
 
 *Alexa, launch Bollywood Trivia*
@@ -3155,14 +3163,6 @@ A simple trivia game about classic or iconic films.
 
 ***
 
-## &nbsp;<img src="skills/B01FXLJSG2/skill_icon" alt="Classic Rock Trivia icon" width="36"> [Classic Rock Trivia](skills/B01FXLJSG2)
-
-*Alexa, start Classic Rock Trivia*
-
-A trivia game featuring the greatest rock band in the world, Metallica.
-
-***
-
 ## &nbsp;<img src="skills/B01G4JC3WS/skill_icon" alt="Clean Air icon" width="36"> [Clean Air](skills/B01G4JC3WS)
 
 *Alexa, ask clean air, can we burn today*
@@ -3330,6 +3330,14 @@ Allows you to give Alexa a color in hex, rgb, or hsl format and have it converte
 *alexa open color game*
 
 Memorize the color order
+
+***
+
+## &nbsp;<img src="skills/B01JDLH6M6/skill_icon" alt="Color Quiz for Toddlers icon" width="36"> [Color Quiz for Toddlers](skills/B01JDLH6M6)
+
+*Alexa, open color quiz*
+
+A quiz based color guessing game for toddlers
 
 ***
 
@@ -3748,6 +3756,14 @@ Trivia about Coupland, the old man pomeranian who just doesn't learn.
 *Alexa, ask My Course Catalog what is CHM 1025*
 
 Course Catalog for Miami Dade College provides information on  courses, descriptions, pre/co-requisites, and credit counts of offerings at Miami Dade College
+
+***
+
+## &nbsp;<img src="skills/B01JF150XG/skill_icon" alt="Coventry Fact Skill icon" width="36"> [Coventry Fact Skill](skills/B01JF150XG)
+
+*Alexa ask Coventry facts*
+
+Facts about Coventry Connecticut
 
 ***
 
@@ -7870,6 +7886,14 @@ Jim Rockford's Answering Machine
 
 ***
 
+## &nbsp;<img src="skills/B01GT2VDTY/skill_icon" alt="Jocasta icon" width="36"> [Jocasta](skills/B01GT2VDTY)
+
+*Alexa, ask comics search who is Daredevil*
+
+Search Marvel Comics' online database of characters and comics
+
+***
+
 ## &nbsp;<img src="skills/B01C3DHATA/skill_icon" alt="Jokes++: Computer Science Jokes icon" width="36"> [Jokes++: Computer Science Jokes](skills/B01C3DHATA)
 
 *Alexa, ask Jokes Plus Plus for a computer science joke.*
@@ -8029,6 +8053,14 @@ A brief quiz on the history and modern naming of lambda calculus, a formalized l
 *Alexa, Ask Langone Retreat what should I bring?*
 
 The Langone Retreat Information Skill by Longboard 8
+
+***
+
+## &nbsp;<img src="skills/B01JDK9IFA/skill_icon" alt="Language Facts icon" width="36"> [Language Facts](skills/B01JDK9IFA)
+
+*Alexa, ask Language Facts for a fact*
+
+Language Facts
 
 ***
 
@@ -10581,6 +10613,14 @@ Says random palindromes
 
 ***
 
+## &nbsp;<img src="skills/B01J64JEH0/skill_icon" alt="Palo Alto Facts icon" width="36"> [Palo Alto Facts](skills/B01J64JEH0)
+
+*Alexa, open palo alto facts*
+
+A simple fact dispenser for people who'd like to learn about Palo Alto.
+
+***
+
 ## &nbsp;<img src="skills/B01HCMPZ2G/skill_icon" alt="Panda wizard icon" width="36"> [Panda wizard](skills/B01HCMPZ2G)
 
 *Alexa, launch panda wizard*
@@ -11357,6 +11397,14 @@ Game to test your knowledge of Pro Basketball
 *Alexa, Start pro football teams*
 
 This Skill is a Game to test the user's knowledge of pro football teams's nicknames.
+
+***
+
+## &nbsp;<img src="skills/B01JBJB8HE/skill_icon" alt="Productivity Flash Cards icon" width="36"> [Productivity Flash Cards](skills/B01JBJB8HE)
+
+*Alexa, start Productivity Flash Cards*
+
+Productivity Flash Cards
 
 ***
 
@@ -12790,6 +12838,14 @@ this skill tells  a joke
 
 ***
 
+## &nbsp;<img src="skills/B01JD3WM78/skill_icon" alt="Silly Samba icon" width="36"> [Silly Samba](skills/B01JD3WM78)
+
+*Alexa, ask  silly samba for a joke*
+
+this skill tells  a joke
+
+***
+
 ## &nbsp;<img src="skills/B01H98E7EU/skill_icon" alt="Silly Things icon" width="36"> [Silly Things](skills/B01H98E7EU)
 
 *Alexa, Ask SillyThings to tell me to do something silly*
@@ -13272,6 +13328,14 @@ Spanish Quiz
 *Alexa, ask spanish tutor what is hello*
 
 This skill helps you to get Spanish translations for your English words or sentences.
+
+***
+
+## &nbsp;<img src="skills/B01JG73CJI/skill_icon" alt="spare the air icon" width="36"> [spare the air](skills/B01JG73CJI)
+
+*Alexa, start Spare the air*
+
+Spare the air.
 
 ***
 
@@ -15694,6 +15758,14 @@ US States Quiz
 *Alexa start immigration test*
 
 Studying for the citizenship test or just want to test your USA knowledge? This multiple-choice Alexa Skill can help.
+
+***
+
+## &nbsp;<img src="skills/B01J6NEW4G/skill_icon" alt="USA National Parks icon" width="36"> [USA National Parks](skills/B01J6NEW4G)
+
+*Alexa, launch national parks*
+
+National Parks
 
 ***
 

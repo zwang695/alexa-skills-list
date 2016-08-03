@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Foobot your good air guru icon" width="36"> [Foobot your good air guru](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dcfcc59e-a9f7-41ce-b01b-63be887723d1)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Foobot your good air guru skill, try saying...
 
