@@ -5,7 +5,7 @@ To use the Wiki for Game of Thrones skill, try saying...
 
 * *Alexa ask king's landing what house is Jon Snow from*
 
-* *what house is Tywin Lannister from*
+* *tell me about Tywin Lannister*
 
 * *what house is Gregor Clegane in*
 

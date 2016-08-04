@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01HU5WCSA",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": false,
   "capabilities": null,
   "category": null,
@@ -17,7 +17,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Stack Labs, Inc.",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "bDQDxAPj6v6ZrLkpdQxothp2c",
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -11,7 +11,7 @@ To use the Viral Report skill, try saying...
 
 VIRAL NEWS REPORT - includes audio and text summary from the news that has gone viral online.  Breaking news reports included!
 
-Get all of this weeks most popular and trending news from Twitter, Facebook, NY Times, etc. etc. etc. 
+Get a summary of this weeks most popular and trending news from Twitter, Facebook, NY Times, drudge report, politics, huffington post, etc. etc. etc. 
 
 Initiate the Viral News Report with "Alexa, Open Viral Report" or "Alexa, Viral Report" or "Alexa, ask Viral Report for the news."
 

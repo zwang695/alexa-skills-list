@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2088
+**Total Skills Available:** 2105
 
 ***
 
@@ -1656,6 +1656,14 @@ Are you ready for marriage? This skill will help you find out by suggesting conv
 
 ***
 
+## &nbsp;<img src="skills/B01JB1VBZ6/skill_icon" alt="Belch Me icon" width="36"> [Belch Me](skills/B01JB1VBZ6)
+
+*Alexa, open belch me*
+
+Alexa, Belch Me
+
+***
+
 ## &nbsp;<img src="skills/B01IS0O5KE/skill_icon" alt="Believe-It-Or-Not Cat Facts icon" width="36"> [Believe-It-Or-Not Cat Facts](skills/B01IS0O5KE)
 
 *Alexa, ask cat facts to tell me a cat fact.*
@@ -1725,6 +1733,14 @@ A companion Skill for Basic Fantasy RPG players.
 *Alexa, ask the Bible App to read John 3 verse 16*
 
 The Bible App for Alexa can read Bible verses and chapters to you in your favorite Bible version.
+
+***
+
+## &nbsp;<img src="skills/B01JASAFC0/skill_icon" alt="Bible Readings icon" width="36"> [Bible Readings](skills/B01JASAFC0)
+
+*Alexa, ask bible reading what's todays reading*
+
+Bible Reading provides the readings for today and tomorrow.
 
 ***
 
@@ -3163,6 +3179,14 @@ A simple trivia game about classic or iconic films.
 
 ***
 
+## &nbsp;<img src="skills/B01JKC5W24/skill_icon" alt="classroom management facts icon" width="36"> [classroom management facts](skills/B01JKC5W24)
+
+*Alexa, open Classroom Management Facts*
+
+Classroom Management Facts
+
+***
+
 ## &nbsp;<img src="skills/B01G4JC3WS/skill_icon" alt="Clean Air icon" width="36"> [Clean Air](skills/B01G4JC3WS)
 
 *Alexa, ask clean air, can we burn today*
@@ -3546,6 +3570,14 @@ A hassle-free way to call conferences. No need to remember long bridge numbers, 
 *Alexa, ask confucious says for a quote*
 
 Get a quote attributed to Confucious
+
+***
+
+## &nbsp;<img src="skills/B01JKX1F9C/skill_icon" alt="Connecticut fact skill icon" width="36"> [Connecticut fact skill](skills/B01JKX1F9C)
+
+*Alexa ask Connecticut facts*
+
+Provides facts about the state of Connecticut
 
 ***
 
@@ -4845,6 +4877,14 @@ Get the latest information from the premier healthy eating blog Eat, Pray, Get W
 
 ***
 
+## &nbsp;<img src="skills/B01JLM5CGO/skill_icon" alt="eat smart icon" width="36"> [eat smart](skills/B01JLM5CGO)
+
+*Alexa, start eat smart*
+
+Daily tips to eat smart.
+
+***
+
 ## &nbsp;<img src="skills/B01DQCC1R8/skill_icon" alt="Eclipse Phase Mesh Link icon" width="36"> [Eclipse Phase Mesh Link](skills/B01DQCC1R8)
 
 *Alexa, ask Eclipse Phase for facts*
@@ -5138,6 +5178,14 @@ Simple Europe knowledge trivialgame
 *Alexa, ask JuiceBox for status*
 
 eMotorWerks JuiceBox Alexa Skill - teach your Alexa to talk to your EV charging station
+
+***
+
+## &nbsp;<img src="skills/B01JJCPY5A/skill_icon" alt="EV Curious icon" width="36"> [EV Curious](skills/B01JJCPY5A)
+
+*Alexa, ask e. v. curious*
+
+Tells you random facts about electric vehicles.
 
 ***
 
@@ -5621,6 +5669,14 @@ Ever wondered how many award miles you need to travel using miles in certain air
 *Alexa ask flight guru to flight status for Q R dash five seven three*
 
 Get Flight Status based on the flight number
+
+***
+
+## &nbsp;<img src="skills/B01JHKG6S8/skill_icon" alt="Flight History icon" width="36"> [Flight History](skills/B01JHKG6S8)
+
+*Alexa, open Flight History.*
+
+Are you interested in flight history? Rely on Flight History for hundreds of events in flight history for every day of the year.
 
 ***
 
@@ -6426,6 +6482,14 @@ A fun and interesting fact skill for learning about fish.
 *Alexa, open goat fact*
 
 This is a list of Goat Facts.
+
+***
+
+## &nbsp;<img src="skills/B01JF7FLLQ/skill_icon" alt="God Quiz icon" width="36"> [God Quiz](skills/B01JF7FLLQ)
+
+*Alexa, open god quiz.*
+
+Test your knowledge of Greek and Roman mythological characters
 
 ***
 
@@ -8008,6 +8072,14 @@ As the name suggest this game consists of quiz about how well you know your coun
 
 ***
 
+## &nbsp;<img src="skills/B01JDRDAWA/skill_icon" alt="Know your cricket icon" width="36"> [Know your cricket](skills/B01JDRDAWA)
+
+*Alexa launch cricket games and start game*
+
+Test your Cricket knowledge
+
+***
+
 ## &nbsp;<img src="skills/B01DE6TMSC/skill_icon" alt="Korean Facts icon" width="36"> [Korean Facts](skills/B01DE6TMSC)
 
 *Alexa, ask Korean Facts for a fact*
@@ -8649,6 +8721,14 @@ Trivia game asking questions about historical March basketball tournaments.
 
 ***
 
+## &nbsp;<img src="skills/B01JBTGZ5Y/skill_icon" alt="Marco Polo icon" width="36"> [Marco Polo](skills/B01JBTGZ5Y)
+
+*Alexa, ask Marco Polo, start game*
+
+Play Marco Polo.  Keep your eyes closed and your ears open.  If you tag Alexa you win!
+
+***
+
 ## &nbsp;<img src="skills/B01EX83SD0/skill_icon" alt="Marine Life icon" width="36"> [Marine Life](skills/B01EX83SD0)
 
 *Alexa, open Marine Life.*
@@ -8694,6 +8774,14 @@ This skill will return several facts about Marks house
 *Alexa, ask mars facts to tell me a Mars trivia.*
 
 Gives various Mars facts
+
+***
+
+## &nbsp;<img src="skills/B01I79QCX4/skill_icon" alt="Mars Facts icon" width="36"> [Mars Facts](skills/B01I79QCX4)
+
+*Alexa, open mars facts*
+
+This Skill allows users to ask for Facts about Mars
 
 ***
 
@@ -9457,6 +9545,14 @@ The skill may not be suitable for all ages.
 *Alexa, ask Mr. Junky Food what to eat today.*
 
 Daily recommendations from Mr Junky Food for chocolate and candy lovers.
+
+***
+
+## &nbsp;<img src="skills/B01IPVWA3A/skill_icon" alt="Mr Wizard icon" width="36"> [Mr Wizard](skills/B01IPVWA3A)
+
+*Alexa ask wizard game what do you think*
+
+Alexa Wizard
 
 ***
 
@@ -10517,6 +10613,14 @@ Ask the operator for the technical excuse for the day.
 
 ***
 
+## &nbsp;<img src="skills/B01J0E7FWW/skill_icon" alt="opposite words icon" width="36"> [opposite words](skills/B01J0E7FWW)
+
+*Alexa, launch opposite words*
+
+opposite words
+
+***
+
 ## &nbsp;<img src="skills/B01H2CQU6Q/skill_icon" alt="OptoJoker icon" width="36"> [OptoJoker](skills/B01H2CQU6Q)
 
 *Alexa, ask opto joker to tell me a knock knock optometry joke.*
@@ -10747,6 +10851,14 @@ Great skill to get some personal finance tip.
 *Alexa, ask Sand Man to tell the cat to go to bed*
 
 Let Alexa tell your pets to go to bed.
+
+***
+
+## &nbsp;<img src="skills/B01J95Y69M/skill_icon" alt="Pet Care Tips icon" width="36"> [Pet Care Tips](skills/B01J95Y69M)
+
+*Alexa, ask pet care for a tip*
+
+This skill gives you some useful tips to take care of your lovely Pets.
 
 ***
 
@@ -16090,6 +16202,14 @@ Countdown the number of days until your wedding date.
 
 ***
 
+## &nbsp;<img src="skills/B01J0SR09Q/skill_icon" alt="Weight Check icon" width="36"> [Weight Check](skills/B01J0SR09Q)
+
+*Alexa, tell Weight Check I weigh 180.2 pounds.*
+
+Track your weight.
+
+***
+
 ## &nbsp;<img src="skills/B01ED4CPGA/skill_icon" alt="Weight Tracker icon" width="36"> [Weight Tracker](skills/B01ED4CPGA)
 
 *Alexa ask weight tracker to store one hundred sixty four pounds*
@@ -16339,6 +16459,14 @@ This skill will tell you some interesting, obscure and fascinating facts about w
 
 ***
 
+## &nbsp;<img src="skills/B01JJFJENK/skill_icon" alt="Wine Facts icon" width="36"> [Wine Facts](skills/B01JJFJENK)
+
+*Alexa ask wine facts tell me a fact*
+
+wine facts
+
+***
+
 ## &nbsp;<img src="skills/B01IJ6BCMG/skill_icon" alt="Wine Humors icon" width="36"> [Wine Humors](skills/B01IJ6BCMG)
 
 *Alexa, launch wine humors*
@@ -16579,6 +16707,14 @@ Learn fun and exciting facts about the history of the sport of Wrestling.
 *Alexa, ask Yarn Over how do I single crochet*
 
 A skill that teaches knit and crochet stitches
+
+***
+
+## &nbsp;<img src="skills/B01JBWYMZQ/skill_icon" alt="YC Startups icon" width="36"> [YC Startups](skills/B01JBWYMZQ)
+
+*Alexa, start y.c. startups*
+
+YC Startup Quiz
 
 ***
 

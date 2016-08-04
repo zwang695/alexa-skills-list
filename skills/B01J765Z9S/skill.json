@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "VIRAL NEWS REPORT - includes audio and text summary from the news that has gone viral online.  Breaking news reports included!\n\nGet all of this weeks most popular and trending news from Twitter, Facebook, NY Times, etc. etc. etc. \n\nInitiate the Viral News Report with \"Alexa, Open Viral Report\" or \"Alexa, Viral Report\" or \"Alexa, ask Viral Report for the news.\"",
+  "description": "VIRAL NEWS REPORT - includes audio and text summary from the news that has gone viral online.  Breaking news reports included!\n\nGet a summary of this weeks most popular and trending news from Twitter, Facebook, NY Times, drudge report, politics, huffington post, etc. etc. etc. \n\nInitiate the Viral News Report with \"Alexa, Open Viral Report\" or \"Alexa, Viral Report\" or \"Alexa, ask Viral Report for the news.\"",
   "enablement": null,
   "exampleInteractions": [
     "Alexa open Viral Report",
