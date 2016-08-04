@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Recipe Helper icon" width="36"> [Recipe Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.172da3ac-e3f2-4ca7-a5fe-13e90d6d1925)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Recipe Helper skill, try saying...
 
