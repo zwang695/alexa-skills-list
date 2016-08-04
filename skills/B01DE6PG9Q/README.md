@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="NJ Transit Train Schedule icon" width="36"> [NJ Transit Train Schedule](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6ae6a7fc-edd1-4706-8d2a-de6d6e7ca94c)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![1.6 stars](../../images/ic_star_black_18dp_1x.png)![1.6 stars](../../images/ic_star_half_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the NJ Transit Train Schedule skill, try saying...
 

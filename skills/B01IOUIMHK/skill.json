@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Assess your kindergarten child...or kindergarten self!",
+  "description": "For parents willing to assess their kid's kindergarten level with Alexa.\nAll questions cover some of the Common Core Standards to quickly assess your child knowledge.\n\nYou can ask for \"help\" during each question to get further explanations.\nYou start the test by saying \"start test\" and can stop the test itself at any time by saying \"stop\".\nWhen not taking the test, you can say \"Score card\" to get the current performance via voice and on the Alexa App.\n\n\nBetter Common Core coverage and more grades coming soon.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open Achieve More",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Test your kindergarten skills!",
+  "shortDescription": "Assess your kid's kindergarten level!",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

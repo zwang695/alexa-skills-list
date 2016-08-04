@@ -9,7 +9,15 @@ To use the Achieve More skill, try saying...
 
 * *Start test*
 
-Assess your kindergarten child...or kindergarten self!
+For parents willing to assess their kid's kindergarten level with Alexa.
+All questions cover some of the Common Core Standards to quickly assess your child knowledge.
+
+You can ask for "help" during each question to get further explanations.
+You start the test by saying "start test" and can stop the test itself at any time by saying "stop".
+When not taking the test, you can say "Score card" to get the current performance via voice and on the Alexa App.
+
+
+Better Common Core coverage and more grades coming soon.
 
 ***
 

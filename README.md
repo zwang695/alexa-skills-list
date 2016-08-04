@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2105
+**Total Skills Available:** 2115
 
 ***
 
@@ -241,7 +241,7 @@ Stay connected to the latest in weather forecasting with AccuWeather. Ask for we
 
 *Alexa, open Achieve More*
 
-Test your kindergarten skills!
+Assess your kid's kindergarten level!
 
 ***
 
@@ -1733,6 +1733,14 @@ A companion Skill for Basic Fantasy RPG players.
 *Alexa, ask the Bible App to read John 3 verse 16*
 
 The Bible App for Alexa can read Bible verses and chapters to you in your favorite Bible version.
+
+***
+
+## &nbsp;<img src="skills/B01IRQF9HW/skill_icon" alt="Bible Glossary icon" width="36"> [Bible Glossary](skills/B01IRQF9HW)
+
+*Alexa, open bible glossary and search for the word Jehovah*
+
+Welcome to the Bible Glossary
 
 ***
 
@@ -4335,6 +4343,14 @@ Tired of everyone lying to you? This skill will tell you the truth.
 
 ***
 
+## &nbsp;<img src="skills/B01J00MX5A/skill_icon" alt="Design Pattern Flash Cards icon" width="36"> [Design Pattern Flash Cards](skills/B01J00MX5A)
+
+*Alexa, open design pattern flash cards*
+
+Flash Cards based upon the most popular Design Patterns.
+
+***
+
 ## &nbsp;<img src="skills/B01HUFE1EI/skill_icon" alt="Dessert Fun icon" width="36"> [Dessert Fun](skills/B01HUFE1EI)
 
 *Alexa, ask Dessert Fun to tell a fact*
@@ -4946,6 +4962,14 @@ Fun and interesting quotes by Einstein about life, love, and the universe.
 *Alexa, open Einstein quotes.*
 
 Quotes by Albert Einstein
+
+***
+
+## &nbsp;<img src="skills/B01JDN4DNY/skill_icon" alt="Electric Car Questions icon" width="36"> [Electric Car Questions](skills/B01JDN4DNY)
+
+*Alexa, ask Electric Car Questions*
+
+Question answering game about electric cars
 
 ***
 
@@ -6653,6 +6677,14 @@ Control your GreenIQ Smart Garden Hub.
 
 ***
 
+## &nbsp;<img src="skills/B01JFLU9Z0/skill_icon" alt="GreenLady icon" width="36"> [GreenLady](skills/B01JFLU9Z0)
+
+*Alexa, Start Green Lady*
+
+Environment Facts
+
+***
+
 ## &nbsp;<img src="skills/B01DJJ286M/skill_icon" alt="Greenwich Time icon" width="36"> [Greenwich Time](skills/B01DJJ286M)
 
 *Alexa ask Greenwich Time what is GMT*
@@ -7178,6 +7210,14 @@ To Know about Ice Hockey and Ice hockey history.
 *Alexa, open Hockey Geek*
 
 A fact skill about Hockey
+
+***
+
+## &nbsp;<img src="skills/B01JHKKE9U/skill_icon" alt="Hogwarts Trivia icon" width="36"> [Hogwarts Trivia](skills/B01JHKKE9U)
+
+*Alexa launch hogwarts trivia*
+
+A Trivia about Harry Potter books & movies
 
 ***
 
@@ -7955,6 +7995,14 @@ Jim Rockford's Answering Machine
 *Alexa, ask comics search who is Daredevil*
 
 Search Marvel Comics' online database of characters and comics
+
+***
+
+## &nbsp;<img src="skills/B01JDKHSKM/skill_icon" alt="jokes icon" width="36"> [jokes](skills/B01JDKHSKM)
+
+*Alexa, launch knock knock*
+
+Alexa tells knock knock jokes!
 
 ***
 
@@ -12380,6 +12428,14 @@ Impress our inevitable robot overlords!
 
 ***
 
+## &nbsp;<img src="skills/B01JCRVHTE/skill_icon" alt="Robotics and AI icon" width="36"> [Robotics and AI](skills/B01JCRVHTE)
+
+*Alexa, open robot emily*
+
+An Artificial Intelligence and Machine Learning Skill.
+
+***
+
 ## &nbsp;<img src="skills/B01JGS47LY/skill_icon" alt="Rock Nerd icon" width="36"> [Rock Nerd](skills/B01JGS47LY)
 
 *Alexa, ask Rock Nerd to tell me a fact*
@@ -13272,6 +13328,14 @@ gives translations for hindi songs into english
 *Alexa, open Sooners Sports trivia*
 
 OU Sports Trivia
+
+***
+
+## &nbsp;<img src="skills/B01JMMJ65Q/skill_icon" alt="Soothing Lies icon" width="36"> [Soothing Lies](skills/B01JMMJ65Q)
+
+*Alexa ask soothing lies to tell me a soothing lie*
+
+Soothing lies
 
 ***
 
@@ -16194,6 +16258,14 @@ tells fun weather facts
 
 ***
 
+## &nbsp;<img src="skills/B01J4N3CG2/skill_icon" alt="Webster Ma History icon" width="36"> [Webster Ma History](skills/B01J4N3CG2)
+
+*Alexa ask Town of Webster History a fact*
+
+Webster Ma history facts.
+
+***
+
 ## &nbsp;<img src="skills/B01DPM0ERI/skill_icon" alt="Wedding Countdown icon" width="36"> [Wedding Countdown](skills/B01DPM0ERI)
 
 *Alexa, ask Wedding Countdown to set my wedding date as May 14th, 2016.*
@@ -16504,6 +16576,14 @@ With Amazon Alexa, Wink smart home users can use simple voice commands to contro
 *Alexa, ask Winston Churchill for a quote*
 
 Ask Sir Winston Churchill himself to tell you one of his famous quotes
+
+***
+
+## &nbsp;<img src="skills/B01IWPAJ1Y/skill_icon" alt="Wise Cracks icon" width="36"> [Wise Cracks](skills/B01IWPAJ1Y)
+
+*Alexa Open Wise Cracks*
+
+This is a really cool small collection of knock knock jokes
 
 ***
 

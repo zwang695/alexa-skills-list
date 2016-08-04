@@ -9,7 +9,7 @@ To use the LDS Report skill, try saying...
 
 * *Alexa Ask LDS Report for the news*
 
-LDS Report is not affiliated with the LDS Church or any of its subsidaries.  it is not affilaited with BYU.  I
+LDS Report is not affiliated with the LDS Church or any of its subsidaries.  it is not affilaited with BYU.  
 
 LDS Report used to be a popular BYU and LDS blog.  Although the blog has since been discontinued the staff has decided to try LDS Report on Alexa (it seems to be less time commitment and it is pretty fun.   LDS Report Alexa is currently run by a panel of former BYU students who are in various degrees of LDS belief and practice.  
 

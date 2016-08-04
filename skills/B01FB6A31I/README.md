@@ -17,7 +17,7 @@ http://wol.jw.org/en/wol/h/r1/lp-e (the booklet "Examining the Scriptures 2016")
 All rights for this content belong to the Watch Tower Bible and Tract Society of Pennsylvania.
 
 This skill is a personal project based on the booklet "Examining the Scriptures 2016". 
-Please accept this version in the spirit of which it was build.
+Please accept this version in the spirit of which it was built.
 
 ***
 
