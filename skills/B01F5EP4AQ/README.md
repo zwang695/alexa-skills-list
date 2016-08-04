@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Top r/News Post for Reddit icon" width="36"> [Top r/News Post for Reddit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5787cdfe-2892-42a9-8f8a-ed6b520b3e45)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Top r/News Post for Reddit skill, try saying...
 

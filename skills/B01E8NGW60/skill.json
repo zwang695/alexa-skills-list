@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01E8NGW60",
-  "averageRating": 1,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "artik",
   "name": "Samsung ARTIK Cloud",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": "uDOcFKhrfI2Ptx2Nm2F6S3QbA",
   "permissions": null,
   "privacyPolicyUrl": "https://developer.samsungsami.io/about/terms-service.html",

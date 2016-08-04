@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="iDevices icon" width="36"> [iDevices](http://alexa.amazon.com/#skills/amzn1.ask.skill.cbeef66c-d356-474e-b8f6-ccfb22cc72b0)
-![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 Use Alexa to control your iDevices Switch, Outdoor Switch, Thermostat, and Socket.  Tell Alexa to turn on/off your lights, set the dim level of your Socket, and adjust the temperature of your Thermostat.
 
