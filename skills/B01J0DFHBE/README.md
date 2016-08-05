@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Doctor Pooch icon" width="36"> [Doctor Pooch](http://alexa.amazon.com/#skills/amzn1.ask.skill.4f7cfa48-1cc4-4a66-af6e-2c10317f4fd0)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Doctor Pooch skill, try saying...
 

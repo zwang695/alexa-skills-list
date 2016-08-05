@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Wink icon" width="36"> [Wink](http://alexa.amazon.com/#skills/amzn1.ask.skill.013efdab-897c-4dff-9728-ac679242d818)
-![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 51
+![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 52
 
 Say goodbye to fumbling for the light switch when you walk into the dark house with your arms full. Amazon Alexa makes it easier than ever to adjust your Wink-compatible lighting products.  You can use the Wink skill to either turn the lights on/off by saying, for example: 
 

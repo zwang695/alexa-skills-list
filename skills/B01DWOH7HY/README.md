@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Ethereum Ticker icon" width="36"> [Ethereum Ticker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8ac77f4-29d4-4bb4-be3b-c36d8509e818)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Ethereum Ticker skill, try saying...
 

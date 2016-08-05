@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="wineMate icon" width="36"> [wineMate](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e68c2c6a-014f-4685-8583-02dbed62fb45)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 4
+![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the wineMate skill, try saying...
 

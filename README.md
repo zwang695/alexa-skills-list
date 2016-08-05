@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2115
+**Total Skills Available:** 2116
 
 ***
 
@@ -16183,6 +16183,14 @@ Tennessee Walking Horse Facts
 *Alexa, ask WaPo Elections for the Politics Brief*
 
 Stay informed with primary and caucus election results, candidate information, general election poll data and an overview from our daily politics brief.
+
+***
+
+## &nbsp;<img src="skills/B01I49LU0W/skill_icon" alt="WaPo Olympics icon" width="36"> [WaPo Olympics](skills/B01I49LU0W)
+
+*Alexa, ask WaPo Olympics for the results of the one hundred meter hurdles.*
+
+Stay informed with the latest Olympics medals, results, and schedules from Rio 2016. Presented by The Washington Post.
 
 ***
 
