@@ -6,7 +6,7 @@
     "googleapis.com"
   ],
   "asin": "B019QRFDTA",
-  "averageRating": 2.7,
+  "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -26,7 +26,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "simple control",
   "name": "Simple Control",
-  "numberOfReviews": 22,
+  "numberOfReviews": 23,
   "pamsPartnerId": "fJOP4Q7OvJFWbksnZChVtFQJQ",
   "permissions": null,
   "privacyPolicyUrl": "http://www.simplecontrol.com/privacy-policy/",

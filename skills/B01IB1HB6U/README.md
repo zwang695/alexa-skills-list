@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Spell it Right icon" width="36"> [Spell it Right](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e5b58930-5a52-4095-9ef1-b592451ecf45)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Spell it Right skill, try saying...
 
