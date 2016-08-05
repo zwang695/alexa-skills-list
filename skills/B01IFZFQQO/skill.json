@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "ziprecruiter.com"
+  ],
+  "asin": "B01IFZFQQO",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Searching for a job has never been easier! With the ZipRecruiter Job Search Alexa Skill, simply tell us the job title and location you're looking for and Alexa will get to work finding you great new opportunities. Hear a job you like? Alexa can even submit your application for you!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Zip Recruiter to find me a developer job in San Francisco",
+    "Alexa, tell Zip Recruiter to find me a job",
+    "Alexa, tell Zip Recruiter to I hate my boss"
+  ],
+  "firstReleaseDate": 1470402494.388,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.3d90efa4-0358-4b22-abac-57965f466035",
+  "imageAltText": "Job Search by ZipRecruiter icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01IFZFQQO/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "zip recruiter",
+  "name": "Job Search by ZipRecruiter",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "vPcDxcy5OK4qQvz3c3wHwaxXR",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.ziprecruiter.com/privacy",
+  "shortDescription": "Ready for a new job? Have Alexa find you one! Search through over 6 million active job listings - powered by ZipRecruiter.com.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.ziprecruiter.com/terms",
+  "vendorId": "M3OOYGA3BF0TF1",
+  "vendorName": "ZipRecruiter"
+}

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Vivint.SmartHome - Basic icon" width="36"> [Vivint.SmartHome - Basic](http://alexa.amazon.com/#skills/amzn1.ask.skill.2a148af2-0f96-4e33-8242-1375e4382b92)
-![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 5
+![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 Control your Vivint lights and thermostats with easy-to-use voice commands (for Vivint Sky consumers only).  After a few easy setup steps you can control your Vivint lights or thermostats with simple statements like:
 

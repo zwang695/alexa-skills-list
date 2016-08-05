@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Nonsmoker icon" width="36"> [Nonsmoker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.26dd6058-d85a-41fc-bb23-9d6b63f68890)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Nonsmoker skill, try saying...
 

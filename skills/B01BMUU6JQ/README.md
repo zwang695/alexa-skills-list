@@ -7,7 +7,7 @@ To use the The Magic Door skill, try saying...
 
 Update: The Magic Door has a new story. Survive a dragon encounter and find the tools you'll need to save the wizard. Now with hundreds of scenes and thousands of paths!
 
-The Magic Door is an Alexa-powered choose your own adventure with original stories. You can tell Alexa what choices to make as you navigate a forest, a garden, or an ancient temple. You can find hidden items, solve riddles, and help magical creatures. You can also find magical items to get a prize!
+The Magic Door is an Alexa-powered interactive adventure with original stories. You can tell Alexa what choices to make as you navigate a forest, a garden, or an ancient temple. You can find hidden items, solve riddles, and help magical creatures. You can also find magical items to get a prize!
 
 ***
 
@@ -19,4 +19,5 @@ The Magic Door is an Alexa-powered choose your own adventure with original stori
 * **ASIN:** B01BMUU6JQ
 * **Author:** Huntwork.net, Inc.
 * **Release Date:** February 10, 2016 @ 13:11:10
+* **Privacy Policy:** https://www.themagicdoor.org/privacy/
 * **In-App Purchasing:** No

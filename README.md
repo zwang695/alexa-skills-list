@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2155
+**Total Skills Available:** 2163
 
 ***
 
@@ -5021,6 +5021,14 @@ Control your ecobee thermostat using your Amazon Alexa.
 
 ***
 
+## &nbsp;<img src="skills/B01JAYVG9U/skill_icon" alt="Economics Flash Cards icon" width="36"> [Economics Flash Cards](skills/B01JAYVG9U)
+
+*Alexa, Start economics flash cards*
+
+Flashcards for Basic Macroeconomics Review
+
+***
+
 ## &nbsp;<img src="skills/B017OB648E/skill_icon" alt="Edgar Facts icon" width="36"> [Edgar Facts](skills/B017OB648E)
 
 *Alexa, tell me an Edgar fact.*
@@ -8166,6 +8174,14 @@ Jim Rockford's Answering Machine
 
 ***
 
+## &nbsp;<img src="skills/B01IFZFQQO/skill_icon" alt="Job Search by ZipRecruiter icon" width="36"> [Job Search by ZipRecruiter](skills/B01IFZFQQO)
+
+*Alexa, ask Zip Recruiter to find me a developer job in San Francisco*
+
+Ready for a new job? Have Alexa find you one! Search through over 6 million active job listings - powered by ZipRecruiter.com.
+
+***
+
 ## &nbsp;<img src="skills/B01GT2VDTY/skill_icon" alt="Jocasta icon" width="36"> [Jocasta](skills/B01GT2VDTY)
 
 *Alexa, ask comics search who is Daredevil*
@@ -9555,6 +9571,14 @@ Allows you to control your home using an ISY home-automation controller with Mob
 
 ***
 
+## &nbsp;<img src="skills/B01H6ZKQDM/skill_icon" alt="Moblor icon" width="36"> [Moblor](skills/B01H6ZKQDM)
+
+*Alexa, ask Moblor*
+
+Moblor is a app to connect Amazon Echo with Salesforce
+
+***
+
 ## &nbsp;<img src="skills/B0192NS6VU/skill_icon" alt="Mojio icon" width="36"> [Mojio](skills/B0192NS6VU)
 
 *Alexa, ask Mojio where is my car*
@@ -10449,6 +10473,14 @@ This skill is a quiz to encourage new parents and provide tips on parenting arou
 *Alexa open New York Basketball Trivia*
 
 How well do you know your New York Basketball? Prove it by scoring big on this 10 question multiple choice trivia quiz!
+
+***
+
+## &nbsp;<img src="skills/B01INNFJPG/skill_icon" alt="New York Green Markets icon" width="36"> [New York Green Markets](skills/B01INNFJPG)
+
+*Alexa, ask Green Markets for county Westchester*
+
+Search New York State Data for Farmer's Markets.  Search by County, City or Zip Code.    Alexa, ask Green Markets for County Westchester
 
 ***
 
@@ -13963,6 +13995,14 @@ Quiz yourself on the abbreviation of the 50 US States
 
 ***
 
+## &nbsp;<img src="skills/B01JR5MJCU/skill_icon" alt="state abbreviations multiple choice icon" width="36"> [state abbreviations multiple choice](skills/B01JR5MJCU)
+
+*Alexa open state abbreviations multiple choice*
+
+this test users knowledge of selected state abbreviations
+
+***
+
 ## &nbsp;<img src="skills/B01GDCG9B2/skill_icon" alt="State Birds Trivia icon" width="36"> [State Birds Trivia](skills/B01GDCG9B2)
 
 *Alexa launch state birds trivia*
@@ -14250,6 +14290,14 @@ Subtraction Flash Cards
 *Alexa, open subtraction quiz*
 
 Math subtraction quiz
+
+***
+
+## &nbsp;<img src="skills/B01JDPT8DC/skill_icon" alt="Suggests good movies to watch icon" width="36"> [Suggests good movies to watch](skills/B01JDPT8DC)
+
+*Alexa, ask Movie Buff which movie should I watch*
+
+Suggests good movies to watch
 
 ***
 
@@ -14826,7 +14874,7 @@ Recite The Lord's Prayer along with Alexa
 
 *Alexa, open the magic door*
 
-Choose your own adventure beyond the magic door. Fairies, gnomes, gods, and treasure await you as you explore the various lands. New: potions and dragons!
+Go on an adventure beyond the magic door. Fairies, gnomes, gods, and treasure await you as you explore the various lands. New: potions and dragons!
 
 ***
 
@@ -15945,6 +15993,14 @@ Quickly get strength and weakness information for all Pokemon types.
 
 ***
 
+## &nbsp;<img src="skills/B01IHCTDPA/skill_icon" alt="Typical sample questions for FCC amateur exam icon" width="36"> [Typical sample questions for FCC amateur exam](skills/B01IHCTDPA)
+
+*Alexa, open ham practice quiz*
+
+Sample FCC exam questions
+
+***
+
 ## &nbsp;<img src="skills/B01FOL6A8K/skill_icon" alt="Typography History Trivia icon" width="36"> [Typography History Trivia](skills/B01FOL6A8K)
 
 *Alexa launch typography history trivia*
@@ -16295,6 +16351,14 @@ A family friendly trivia quiz about the human body.
 *Alexa, ask UV Meter what is the UV index in Phoenix*
 
 Use UV Meter to get strength of sun’s UV rays in your city
+
+***
+
+## &nbsp;<img src="skills/B01JCHBDF2/skill_icon" alt="Valley Girl icon" width="36"> [Valley Girl](skills/B01JCHBDF2)
+
+*Alexa, Ask Valley Girl to play Valley Talk Phrases*
+
+'Valley Girl' entertains you by playing funny Valley Talk phrases.
 
 ***
 
