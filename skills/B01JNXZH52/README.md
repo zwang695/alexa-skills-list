@@ -1,0 +1,24 @@
+# &nbsp;<img src="skill_icon" alt="Capital Cities Trivia icon" width="36"> [Capital Cities Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.59c6a30a-b29c-446b-beb4-b90c4daae73e)
+![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+
+To use the Capital Cities Trivia skill, try saying...
+
+* *Alexa, start state capitals*
+
+* *Alexa, open state capitals*
+
+* *Alexa, launch state capitals*
+
+Trivia on the Capital Cities of the States of United States. To help improve the Geography skills
+
+***
+
+### Skill Details
+
+* **Invocation Name:** state capitals
+* **Category:** null
+* **ID:** amzn1.ask.skill.59c6a30a-b29c-446b-beb4-b90c4daae73e
+* **ASIN:** B01JNXZH52
+* **Author:** Jogesh Palenkara
+* **Release Date:** August 5, 2016 @ 05:37:26
+* **In-App Purchasing:** No
