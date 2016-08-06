@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Safe to Eat Cooking Temperatures icon" width="36"> [Safe to Eat Cooking Temperatures](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b8757c29-1ea2-4993-acc3-31709025da86)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Safe to Eat Cooking Temperatures skill, try saying...
 

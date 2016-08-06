@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="BART Times icon" width="36"> [BART Times](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.af852511-50bf-447f-a692-36a4b6314ab2)
-![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the BART Times skill, try saying...
 

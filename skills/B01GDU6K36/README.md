@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Football Winning Trivia icon" width="36"> [Football Winning Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.33b38d39-509b-43c2-9964-d3c3be7e724e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Football Winning Trivia skill, try saying...
 
