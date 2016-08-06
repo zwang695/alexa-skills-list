@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="WaPo Olympics icon" width="36"> [WaPo Olympics](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db313dae-42bc-4d2b-acdf-ca3ebf787328)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the WaPo Olympics skill, try saying...
 

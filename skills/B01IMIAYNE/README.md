@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="U.S. Election icon" width="36"> [U.S. Election](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b16f7b34-4077-4c1a-880d-115dff061ae6)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the U.S. Election skill, try saying...
 
