@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Automatic icon" width="36"> [Automatic](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ece04417-303a-425d-9a6d-e126d604281e)
-![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 23
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 24
 
 To use the Automatic skill, try saying...
 

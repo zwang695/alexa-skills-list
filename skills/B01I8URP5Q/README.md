@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Air Boss icon" width="36"> [Air Boss](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.43f2ebf2-2cfe-416a-91b5-26bb90d78997)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
+![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Air Boss skill, try saying...
 

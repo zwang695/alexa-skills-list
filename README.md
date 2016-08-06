@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2163
+**Total Skills Available:** 2162
 
 ***
 
@@ -3096,14 +3096,6 @@ Find out when the next Chicago Metra train is about to leave or what todays sche
 *Alexa, Open Chicken Geek*
 
 Amazing facts about chickens and eggs
-
-***
-
-## &nbsp;<img src="skills/B01C7XIJ82/skill_icon" alt="Children's Bible Quiz icon" width="36"> [Children's Bible Quiz](skills/B01C7XIJ82)
-
-*Alexa open Children's Bible Quiz*
-
-Simple Children's Bible Quiz
 
 ***
 
