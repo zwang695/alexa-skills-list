@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="FAST Bible icon" width="36"> [FAST Bible](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9f3534b6-09be-4e5a-99d4-4494b76a7e1c)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the FAST Bible skill, try saying...
 

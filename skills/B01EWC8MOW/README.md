@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Workout Buddy icon" width="36"> [Workout Buddy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9b57beff-7854-45ca-8825-8357ae18a762)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Workout Buddy skill, try saying...
 
