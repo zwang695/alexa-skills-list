@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Poetry icon" width="36"> [Poetry](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bd5aafa2-54cb-495c-9c98-fe48a618ff5f)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Poetry skill, try saying...
 

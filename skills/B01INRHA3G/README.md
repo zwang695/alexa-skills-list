@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Sports schedule for Rio 2016 Olympic Games icon" width="36"> [Sports schedule for Rio 2016 Olympic Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ecccac14-9697-4841-9bca-c29d69b37b26)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Sports schedule for Rio 2016 Olympic Games skill, try saying...
 

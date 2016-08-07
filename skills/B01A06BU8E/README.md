@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="AccuWeather icon" width="36"> [AccuWeather](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e7e5a4db-2ac1-4e78-a24c-0b8caa49f1f5)
-![1.3 stars](../../images/ic_star_black_18dp_1x.png)![1.3 stars](../../images/ic_star_half_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png) 55
+![1.3 stars](../../images/ic_star_black_18dp_1x.png)![1.3 stars](../../images/ic_star_half_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png) 56
 
 To use the AccuWeather skill, try saying...
 
