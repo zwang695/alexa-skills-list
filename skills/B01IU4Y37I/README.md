@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="So You Think You Know America icon" width="36"> [So You Think You Know America](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b763eba-7616-4602-9019-754abbf535b2)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the So You Think You Know America skill, try saying...
 
