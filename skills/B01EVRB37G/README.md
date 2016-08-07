@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="UV Meter icon" width="36"> [UV Meter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b6f19c3c-eb87-443e-ac03-a77ea6f5bc6f)
-![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![1.3 stars](../../images/ic_star_black_18dp_1x.png)![1.3 stars](../../images/ic_star_half_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the UV Meter skill, try saying...
 

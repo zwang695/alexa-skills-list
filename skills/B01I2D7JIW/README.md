@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Mind Maze icon" width="36"> [Mind Maze](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.36a071f9-da20-4740-9285-f1704d70f349)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Mind Maze skill, try saying...
 
