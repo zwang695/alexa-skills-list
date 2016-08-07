@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Dungeon Dice icon" width="36"> [Dungeon Dice](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.43e64c2b-9f81-42f6-9a16-c3f4b273f5d8)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Dungeon Dice skill, try saying...
 
