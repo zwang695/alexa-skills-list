@@ -11,6 +11,8 @@ To use the Dex Trivia skill, try saying...
 
 Dex Trivia is a multiple choice trivia game for Pokemon that tests your knowledge of the Pokedex.  Are you the best, like no one ever was?  Find out with this game!
 
+Contribute: https://github.com/Shwheelz/dex_trivia
+
 ***
 
 ### Skill Details

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bible Glossary icon" width="36"> [Bible Glossary](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2d649ba7-94ac-440c-904a-f129b175cffb)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Bible Glossary skill, try saying...
 

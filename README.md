@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2195
+**Total Skills Available:** 2208
 
 ***
 
@@ -1986,6 +1986,14 @@ With the Bingo skill, Alexa will call the numbers for you. Each number is repeat
 
 ***
 
+## &nbsp;<img src="skills/B01JGYWCLK/skill_icon" alt="biology test icon" width="36"> [biology test](skills/B01JGYWCLK)
+
+*Alexa, launch biology game*
+
+A simple biology game
+
+***
+
 ## &nbsp;<img src="skills/B01IGYJRKU/skill_icon" alt="Biology: Cell Organelles icon" width="36"> [Biology: Cell Organelles](skills/B01IGYJRKU)
 
 *Alexa, start biology flashcards*
@@ -2007,6 +2015,14 @@ The BioRhythm skill will calculate your natural biorhythm for today for entertai
 *Alexa ask bird facts a fact*
 
 Bird facts skill gives you interesting facts about our fine feathered friends.
+
+***
+
+## &nbsp;<img src="skills/B01JVVKYBS/skill_icon" alt="Bird Facts icon" width="36"> [Bird Facts](skills/B01JVVKYBS)
+
+*Alexa, ask bird keeper a bird fact*
+
+This skill helps you learn some interesting facts about Birds.
 
 ***
 
@@ -3387,6 +3403,14 @@ AWS Cloud Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01J0KFG5E/skill_icon" alt="Cloud News icon" width="36"> [Cloud News](skills/B01J0KFG5E)
+
+*Alexa, ask Cloud News for What's New?*
+
+Learn about announcements, launches, news, innovation and more from Amazon Web Services. (This Skill was not created or endorsed by Amazon.)
+
+***
+
 ## &nbsp;<img src="skills/B01ISAXHYE/skill_icon" alt="Cloud Quiz icon" width="36"> [Cloud Quiz](skills/B01ISAXHYE)
 
 *Alexa, play cloud quiz*
@@ -4728,6 +4752,14 @@ Practice for the California DMV driver license test.
 
 ***
 
+## &nbsp;<img src="skills/B01JT8N8P2/skill_icon" alt="DO IT icon" width="36"> [DO IT](skills/B01JT8N8P2)
+
+*Alexa, give me inspiration*
+
+The skill provides inspiration for when you're feeling down.
+
+***
+
 ## &nbsp;<img src="skills/B01DAKTXMM/skill_icon" alt="Doc Rogers icon" width="36"> [Doc Rogers](skills/B01DAKTXMM)
 
 *Alexa, ask Doc Rogers why I'm happy today.*
@@ -5511,6 +5543,14 @@ Donald Trivia Game
 
 ***
 
+## &nbsp;<img src="skills/B01JVHZN40/skill_icon" alt="Facts about Olympics icon" width="36"> [Facts about Olympics](skills/B01JVHZN40)
+
+*Alexa, ask game buddy an olympic fact*
+
+This skills gives some interesting facts about Olympic games.
+
+***
+
 ## &nbsp;<img src="skills/B01EGSGQMC/skill_icon" alt="Facts For Elder Scrolls icon" width="36"> [Facts For Elder Scrolls](skills/B01EGSGQMC)
 
 *Alexa, ask Facts for Elder Scrolls to tell me a Elder Scrolls fact.*
@@ -5997,6 +6037,14 @@ Foobot and Alexa work together so you breath the best possible air! Foobot tells
 *Alexa ask food bot what is the protein content of peanut butter*
 
 Food bot gives you the nutrient value of many common food items. Information is provided by the USDA Nutritional Database.
+
+***
+
+## &nbsp;<img src="skills/B01JVY3XGS/skill_icon" alt="Food Facts icon" width="36"> [Food Facts](skills/B01JVY3XGS)
+
+*Alexa, ask food buddy a fact*
+
+This is a great skill to learn some interesting and fun facts about Food.
 
 ***
 
@@ -7509,6 +7557,14 @@ The HCA Skill lets you control devices, programs, and groups in your home using 
 
 ***
 
+## &nbsp;<img src="skills/B01FQEPKFY/skill_icon" alt="Home Remedy icon" width="36"> [Home Remedy](skills/B01FQEPKFY)
+
+*Alexa, ask my nurse a home remedy*
+
+This is a simple skill to ask Alexa to tell you some home remedies.
+
+***
+
 ## &nbsp;<img src="skills/B01DEC893A/skill_icon" alt="HomeAdvisor icon" width="36"> [HomeAdvisor](skills/B01DEC893A)
 
 *Alexa, ask home advisor to find me a plumber.*
@@ -8741,6 +8797,14 @@ Alexa, ask license plate finder where is the license plate nickname of Californi
 *Alexa, tell life counter to add Brandon*
 
 Keeps count of life totals in Magic: The Gathering
+
+***
+
+## &nbsp;<img src="skills/B01JTT3TRI/skill_icon" alt="Life Hacks icon" width="36"> [Life Hacks](skills/B01JTT3TRI)
+
+*Alexa, open life hacks*
+
+Use Alexa to hear helpful life hacks!
 
 ***
 
@@ -11165,6 +11229,14 @@ With this skill you will never have to guess when your package is arriving. You 
 
 ***
 
+## &nbsp;<img src="skills/B01J6KAFKE/skill_icon" alt="Paddock Reporter icon" width="36"> [Paddock Reporter](skills/B01J6KAFKE)
+
+*Alexa, ask Paddock Reporter who won the last race*
+
+Paddock Reporter gives you Formula 1 racing results and updates.
+
+***
+
 ## &nbsp;<img src="skills/B01DQF8X4K/skill_icon" alt="Palindromes icon" width="36"> [Palindromes](skills/B01DQF8X4K)
 
 *Alexa, ask palindromes to say a palindrome*
@@ -12684,6 +12756,14 @@ Quick checklist to make sure that you have everything you need before you leave 
 
 ***
 
+## &nbsp;<img src="skills/B01JIBY4E4/skill_icon" alt="Renewables Patents icon" width="36"> [Renewables Patents](skills/B01JIBY4E4)
+
+*Alexa, ask renewables patents*
+
+Get info about renewable energy patents
+
+***
+
 ## &nbsp;<img src="skills/B01DJJ9STM/skill_icon" alt="Repeat After Me icon" width="36"> [Repeat After Me](skills/B01DJJ9STM)
 
 *Alexa, ask repeat after me to say Hello it's me*
@@ -13683,6 +13763,14 @@ Use SmartThings to control your smart home. Switch on lights, change the tempera
 
 ***
 
+## &nbsp;<img src="skills/B01JDF1QQY/skill_icon" alt="smartwood icon" width="36"> [smartwood](skills/B01JDF1QQY)
+
+*Alexa, ask smart wood for a fact*
+
+Wood trivia
+
+***
+
 ## &nbsp;<img src="skills/B01G8IKKA2/skill_icon" alt="Smoothie Recipes icon" width="36"> [Smoothie Recipes](skills/B01G8IKKA2)
 
 *Alexa, start Smoothie Recipes*
@@ -13752,6 +13840,14 @@ Provides random facts about soccer.
 *Alexa, open Soccer Facts and give me a fact*
 
 Fun soccer facts.
+
+***
+
+## &nbsp;<img src="skills/B01JR042BQ/skill_icon" alt="Soccer Showdown icon" width="36"> [Soccer Showdown](skills/B01JR042BQ)
+
+*Alexa, open Soccer Showdown*
+
+Soccer Showdown
 
 ***
 
@@ -14184,6 +14280,14 @@ This skill links up with your google fit account and then you can play all your 
 *Alexa, open Starlanes*
 
 The Echo's first and best MMORPG. Join a faction and compete with other players to keep your faction on the top.
+
+***
+
+## &nbsp;<img src="skills/B01JVWTYZY/skill_icon" alt="Startup Quotations icon" width="36"> [Startup Quotations](skills/B01JVWTYZY)
+
+*Alexa, begin startup quote.*
+
+The Startup Quotation skill will deliver a random quotation regarding startups and entrepreneurship.
 
 ***
 
