@@ -3,11 +3,11 @@
 
 To use the Musixmatch Lyrics skill, try saying...
 
-* *Alexa, ask Lyrics what song says Saint Peter Won't Call My Name*
+* *Alexa, ask Lyrics what song says Higher powers taking a hold on me*
 
-* *Alexa, ask Lyrics for Hello*
+* *Alexa, ask Lyrics for Cheap Thrills*
 
-* *Alexa, tell Lyrics to give me a quote by Coldplay*
+* *Alexa, tell Lyrics to give me a quote by Lukas Graham*
 
 Musixmatch Lyrics Skill helps you to learn song lyrics!
 

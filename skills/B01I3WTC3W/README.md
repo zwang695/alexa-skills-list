@@ -7,9 +7,9 @@ To use the Teach Alexa YOUR RESPONSES - prank your friends! skill, try saying...
 
 * *Alexa, tell every one who is up next*
 
-* *Alexa, tell every one what you think about that*
+* *Alexa, tell every one to open the app*
 
-Make Alexa personal! Teach her new responses and make her say the things you have on your mind. Make Alexa aware of your social knowledge and give her funny answers about friends and family. 
+Make Alexa personal! Use the web app to teach her new responses and make her say the things you have on your mind. You receive the link to the app by saying: "Alexa, tell every one to open the app". Make Alexa aware of your social knowledge and give her funny answers about friends and family. 
  
 Image having a friend named James over. Alexa can now answer the question: "Alexa, tell every one a secret about James". She will choose from a set of answers you taught her using your smartphone. 
  
