@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2208
+**Total Skills Available:** 2209
 
 ***
 
@@ -7594,6 +7594,14 @@ null
 *Alexa, ask honey bee to tell me a honey bee fact*
 
 This skill tells a fun fact about Honey Bee
+
+***
+
+## &nbsp;<img src="skills/B01JP8EOCW/skill_icon" alt="null" width="36"> [Honeywell](skills/B01JP8EOCW)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 

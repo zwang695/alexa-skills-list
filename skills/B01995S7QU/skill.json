@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01995S7QU",
-  "averageRating": 2.3,
+  "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "drive time",
   "name": "Drive Time",
-  "numberOfReviews": 22,
+  "numberOfReviews": 23,
   "pamsPartnerId": "IeoFh7wPeclIeFBoOL95wxmkA",
   "permissions": null,
   "privacyPolicyUrl": "http://sarkonovich-2.elasticbeanstalk.com/privacy",

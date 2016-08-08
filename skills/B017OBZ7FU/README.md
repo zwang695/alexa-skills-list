@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Tide Pooler icon" width="36"> [Tide Pooler](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ffec75cf-db97-4f71-87ea-7fd4efc783f5)
-![1.2 stars](../../images/ic_star_black_18dp_1x.png)![1.2 stars](../../images/ic_star_half_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png) 17
+![1.2 stars](../../images/ic_star_black_18dp_1x.png)![1.2 stars](../../images/ic_star_half_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png) 19
 
 To use the Tide Pooler skill, try saying...
 
