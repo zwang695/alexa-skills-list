@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01JP8EOCW",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": false,
   "capabilities": null,
   "category": null,
@@ -17,7 +17,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Honeywell",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "Wk5tSu7OgGXZXZhXhrnpNK2Fp",
   "permissions": null,
   "privacyPolicyUrl": null,

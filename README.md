@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2225
+**Total Skills Available:** 2229
 
 ***
 
@@ -11598,6 +11598,14 @@ Get fun facts about all things Piano!  This skill is loaded with many surprising
 
 ***
 
+## &nbsp;<img src="skills/B01JTT4JKO/skill_icon" alt="Pick My Pet icon" width="36"> [Pick My Pet](skills/B01JTT4JKO)
+
+*Alexa, open Pet Picks*
+
+Use Pick My Pet to quickly find your best pet match.
+
+***
+
 ## &nbsp;<img src="skills/B01FCMY3DU/skill_icon" alt="Pick Someone icon" width="36"> [Pick Someone](skills/B01FCMY3DU)
 
 *Alexa, ask pick someone to add John*
@@ -12743,6 +12751,14 @@ Test your knowledge of hip hop music
 *Alexa, ask Rational Eight Ball if I should go to work*
 
 Rational 8-Ball
+
+***
+
+## &nbsp;<img src="skills/B01JVEBWT8/skill_icon" alt="React Flash Cards icon" width="36"> [React Flash Cards](skills/B01JVEBWT8)
+
+*Alexa, open react flash cards*
+
+Learn React.js by learning its core terminologies.
 
 ***
 
@@ -14883,6 +14899,14 @@ Syfy lets you connect to your favorite Syfy shows with the power of your voice. 
 
 ***
 
+## &nbsp;<img src="skills/B01JMS9L2S/skill_icon" alt="System of Units icon" width="36"> [System of Units](skills/B01JMS9L2S)
+
+*Alexa, start System of units*
+
+A skill that lets you learn about the system of units
+
+***
+
 ## &nbsp;<img src="skills/B01ET0I22Y/skill_icon" alt="Tabletop Trivia icon" width="36"> [Tabletop Trivia](skills/B01ET0I22Y)
 
 *alexa launch tabletop trivia*
@@ -16461,6 +16485,16 @@ Sample FCC exam questions
 *Alexa launch typography history trivia*
 
 Twenty-one questions about the history of writing and basic typography.
+
+***
+
+## &nbsp;<img src="skills/B01EF0BETG/skill_icon" alt="Tyria Scout for Guild Wars 2 icon" width="36"> [Tyria Scout for Guild Wars 2](skills/B01EF0BETG)
+
+*Alexa, ask Tyria Scout what's next*
+
+Move easily from boss to boss in Guild Wars 2.  Ask for the current or next boss, next boss by name, or find a boss location.  
+
+Magee knows what's going on!
 
 ***
 

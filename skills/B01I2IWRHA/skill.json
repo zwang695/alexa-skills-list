@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "This sample looks up notable events in Wikipedia for a given date. The user can ask for both absolute dates and relative dates (“March third”, “February second”, “today”, “yesterday”, “next Tuesday”, and so on).\n\nAfter reading three events, Alexa prompts the user to ask if she should continue with the next set of events.",
+  "description": "This sample looks up notable events in Wikipedia for a given date. The user can ask for both absolute dates and relative dates (March third, February second, today, yesterday, next Tuesday, and so on).\n\nAfter reading three events, Alexa prompts the user to ask if she should continue with the next set of events.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Dylan Day what happened on August second",

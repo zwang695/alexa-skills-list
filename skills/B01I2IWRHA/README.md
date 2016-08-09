@@ -9,7 +9,7 @@ To use the Dylan skill, try saying...
 
 * *Alexa, Ask Dylan Day July Four*
 
-This sample looks up notable events in Wikipedia for a given date. The user can ask for both absolute dates and relative dates (“March third”, “February second”, “today”, “yesterday”, “next Tuesday”, and so on).
+This sample looks up notable events in Wikipedia for a given date. The user can ask for both absolute dates and relative dates (March third, February second, today, yesterday, next Tuesday, and so on).
 
 After reading three events, Alexa prompts the user to ask if she should continue with the next set of events.
 
