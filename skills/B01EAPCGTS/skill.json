@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "“Cock-a-doodle-doo” - which animal does make that sound? Listen alone or with friends to real animal sounds and guess the corresponding animal. With each correct guess, you advance to the next, harder level and earn a title! Will you be the first to master all ten levels?\n\nTo launch this quiz, say “Start zoo walk”. During the game, you can say \"Repeat\" or \"Stop\". For further assistance, say \"Help\".",
+  "description": "“Cock-a-doodle-doo” - which animal makes that sound? Listen alone or with friends to real animal sounds and guess the animal. With each correct guess, you advance to the next, more difficult level, and earn a title! Will you be the first to master all ten levels?\n\nTo launch this quiz, say “Start zoo walk”. During the game, you can say \"Repeat\", \"Stop\" or \"What's the high score\". For further assistance, say \"Help\".",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, start zoo walk",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "A walk in the zoo: Guess animal names by their sounds. Great fun for young and old! Roar!",
+  "shortDescription": "A walk in the zoo: Guess animal names by their sounds. Great fun for young and old! Roar!\nNew and improved version!",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

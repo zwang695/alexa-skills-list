@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Scryb icon" width="36"> [Scryb](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8b3cafd-c7a1-4320-98a8-ac0164cccdde)
-![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Scryb skill, try saying...
 
