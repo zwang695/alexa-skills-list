@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Spanish Tutor icon" width="36"> [Spanish Tutor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2820e1fa-4a1c-49d1-8653-7696e9d385a3)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Spanish Tutor skill, try saying...
 

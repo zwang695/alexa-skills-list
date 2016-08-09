@@ -7,7 +7,7 @@
     "s3-us-west-2.amazonaws.com"
   ],
   "asin": "B01G5UWV64",
-  "averageRating": 2.5,
+  "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -27,7 +27,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "august",
   "name": "August Home",
-  "numberOfReviews": 45,
+  "numberOfReviews": 46,
   "pamsPartnerId": "AGDrMV9vsuigRngcIMzMxuIy8",
   "permissions": null,
   "privacyPolicyUrl": "http://august.com/legal/privacy-policy/",
