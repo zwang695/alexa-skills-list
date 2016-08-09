@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2209
+**Total Skills Available:** 2207
 
 ***
 
@@ -6370,16 +6370,6 @@ Find out many facts about the Euro 2016 facts you need to know!
 
 ***
 
-## &nbsp;<img src="skills/B01GIYAUQA/skill_icon" alt="Fun Noises for Kids icon" width="36"> [Fun Noises for Kids](skills/B01GIYAUQA)
-
-*Alexa ask Fun Noises to start*
-
-This voice skill gives a response from a list of fun noises and uses Alexa's voice for the sound effect.
-
-Just say "Alexa ask Fun Noises to begin"
-
-***
-
 ## &nbsp;<img src="skills/B01ENXQVDE/skill_icon" alt="Fun Sports Facts icon" width="36"> [Fun Sports Facts](skills/B01ENXQVDE)
 
 *Alexa, launch sports facts.*
@@ -9824,14 +9814,6 @@ You can ask moon age.
 *Alexa, ask Moon facts to tell me a fact.*
 
 Moon Facts skill for Alexa.
-
-***
-
-## &nbsp;<img src="skills/B01J6DY9S0/skill_icon" alt="moral story teller icon" width="36"> [moral story teller](skills/B01J6DY9S0)
-
-*Alexa, Ask story teller for a story*
-
-Moral Story teller for kids
 
 ***
 

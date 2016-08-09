@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="The Braille Challenge icon" width="36"> [The Braille Challenge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.59ddc8ef-1825-43cb-a7f5-6802a92bc4cf)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the The Braille Challenge skill, try saying...
 
