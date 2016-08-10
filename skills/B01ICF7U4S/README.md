@@ -19,6 +19,6 @@ This skill will give you various facts about the Connecticut Invention Conventio
 * **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.efbaf989-1a44-422d-93ab-c66f830901b8
 * **ASIN:** B01ICF7U4S
-* **Author:** CT Invention Convention
+* **Author:** Jake Mendelssohn
 * **Release Date:** July 26, 2016 @ 05:56:25
 * **In-App Purchasing:** No

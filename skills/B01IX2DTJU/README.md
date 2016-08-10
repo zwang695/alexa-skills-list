@@ -19,6 +19,6 @@ Many people think that Robots are built in factories and they are unaware that R
 * **Category:** null
 * **ID:** amzn1.ask.skill.d1dd5b70-e225-457f-8fee-db61771cf8d3
 * **ASIN:** B01IX2DTJU
-* **Author:** CT Invention Convention
+* **Author:** Jake Mendelssohn
 * **Release Date:** July 28, 2016 @ 10:26:35
 * **In-App Purchasing:** No

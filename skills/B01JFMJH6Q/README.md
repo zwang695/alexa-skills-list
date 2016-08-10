@@ -19,6 +19,6 @@ This skill provides facts and definitions of terms related to running.  You can 
 * **Category:** null
 * **ID:** amzn1.ask.skill.9fca6927-d4e1-4f11-96b1-0b98c28bfca0
 * **ASIN:** B01JFMJH6Q
-* **Author:** GMS
+* **Author:** Doug Roy
 * **Release Date:** August 1, 2016 @ 09:56:57
 * **In-App Purchasing:** No

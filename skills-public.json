@@ -177,7 +177,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01FV1IVY4",
-      "averageRating": 5,
+      "averageRating": 3,
       "canDisable": true,
       "capabilities": null,
       "category": null,
@@ -197,7 +197,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "presidential race",
       "name": "2016 Presidential Race",
-      "numberOfReviews": 1,
+      "numberOfReviews": 2,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -265,7 +265,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "black jack",
       "name": "21 Blackjack",
-      "numberOfReviews": 6,
+      "numberOfReviews": 7,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": "http://ocean-of-storms.com/tsatsatzu/legal/bj_privacy.htm",
@@ -6109,7 +6109,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01J4FPGHI",
-      "averageRating": 0,
+      "averageRating": 2,
       "canDisable": true,
       "capabilities": null,
       "category": null,
@@ -6129,7 +6129,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "baseball live",
       "name": "Baseball Live",
-      "numberOfReviews": 0,
+      "numberOfReviews": 1,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -6818,7 +6818,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M2EGDYRICTVIYZ",
-      "vendorName": "CT Invention Convention"
+      "vendorName": "Jake Mendelssohn"
     },
     {
       "accountLinkingWhitelistedDomains": [],
@@ -10975,7 +10975,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M2EGDYRICTVIYZ",
-      "vendorName": "CT Invention Convention"
+      "vendorName": "Jake Mendelssohn"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -14941,7 +14941,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01JWP8KNM",
-      "averageRating": 0,
+      "averageRating": 1,
       "canDisable": true,
       "capabilities": null,
       "category": null,
@@ -14961,7 +14961,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "coffee geek",
       "name": "Coffee Geek",
-      "numberOfReviews": 0,
+      "numberOfReviews": 1,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -20898,7 +20898,7 @@
         "order.dominos.com"
       ],
       "asin": "B01B5G99CC",
-      "averageRating": 3.2,
+      "averageRating": 3.1,
       "canDisable": true,
       "capabilities": null,
       "category": null,
@@ -20918,7 +20918,7 @@
       "inAppPurchasingSupported": true,
       "launchPhrase": "dominos",
       "name": "Domino's Pizza",
-      "numberOfReviews": 35,
+      "numberOfReviews": 36,
       "pamsPartnerId": "QCs8EJvjzgFhEWdeaFBWvwgWs",
       "permissions": null,
       "privacyPolicyUrl": "https://www.dominos.com/en/#/content/privacy/",
@@ -22010,7 +22010,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": null,
       "name": "ecobee",
-      "numberOfReviews": 40,
+      "numberOfReviews": 41,
       "pamsPartnerId": "z69BC5NMj24hf7VGggT8Wvq6W",
       "permissions": null,
       "privacyPolicyUrl": "https://www.ecobee.com/legal/use/",
@@ -22808,7 +22808,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M2EGDYRICTVIYZ",
-      "vendorName": "CT Invention Convention"
+      "vendorName": "Jake Mendelssohn"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -24626,7 +24626,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01IQPDMSM",
-      "averageRating": 0,
+      "averageRating": 5,
       "canDisable": true,
       "capabilities": null,
       "category": null,
@@ -24646,7 +24646,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "fast watch",
       "name": "Fast Watch (StopWatch)",
-      "numberOfReviews": 0,
+      "numberOfReviews": 1,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -30371,7 +30371,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B019D5T3O6",
-      "averageRating": 3.5,
+      "averageRating": 3.7,
       "canDisable": true,
       "capabilities": null,
       "category": null,
@@ -30391,7 +30391,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "guitar tuner",
       "name": "Guitar Tuner",
-      "numberOfReviews": 11,
+      "numberOfReviews": 12,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -35120,7 +35120,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M341IFKUJ19XV4",
-      "vendorName": "GMS"
+      "vendorName": "Doug Roy"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -35830,7 +35830,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "jeopardy",
       "name": "Jeopardy! J6",
-      "numberOfReviews": 144,
+      "numberOfReviews": 145,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": "http://www.sonypictures.com/corp/privacy.html",
@@ -41397,7 +41397,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01CP6PFLK",
-      "averageRating": 3.9,
+      "averageRating": 3.7,
       "canDisable": true,
       "capabilities": null,
       "category": null,
@@ -41417,7 +41417,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "milo",
       "name": "Milo",
-      "numberOfReviews": 11,
+      "numberOfReviews": 12,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -55477,7 +55477,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M2EGDYRICTVIYZ",
-      "vendorName": "CT Invention Convention"
+      "vendorName": "Jake Mendelssohn"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -55944,7 +55944,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "round to it",
       "name": "RoundTuit To-Do List",
-      "numberOfReviews": 2,
+      "numberOfReviews": 3,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -56123,7 +56123,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M341IFKUJ19XV4",
-      "vendorName": "GMS"
+      "vendorName": "Doug Roy"
     },
     {
       "accountLinkingWhitelistedDomains": null,
@@ -58236,7 +58236,7 @@
     {
       "accountLinkingWhitelistedDomains": null,
       "asin": "B01EQGWHK4",
-      "averageRating": 0,
+      "averageRating": 1,
       "canDisable": true,
       "capabilities": null,
       "category": null,
@@ -58256,7 +58256,7 @@
       "inAppPurchasingSupported": false,
       "launchPhrase": "silver bug",
       "name": "SilverBug",
-      "numberOfReviews": 0,
+      "numberOfReviews": 1,
       "pamsPartnerId": null,
       "permissions": null,
       "privacyPolicyUrl": null,
@@ -64092,7 +64092,7 @@
       "stage": "live",
       "termsOfUseUrl": null,
       "vendorId": "M2NMIPCM9MX7M9",
-      "vendorName": "Test"
+      "vendorName": "Sabrina Knott's Masie Center Project"
     },
     {
       "accountLinkingWhitelistedDomains": [

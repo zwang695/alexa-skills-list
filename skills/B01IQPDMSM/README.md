@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Fast Watch (StopWatch) icon" width="36"> [Fast Watch (StopWatch)](http://alexa.amazon.com/#skills/amzn1.ask.skill.2bc9e884-baa5-4e3b-b322-301cfc80db7a)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Fast Watch (StopWatch) skill, try saying...
 

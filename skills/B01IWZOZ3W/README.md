@@ -19,6 +19,6 @@ The beagle is the 4th most popular breed in the US and this skill will give you 
 * **Category:** null
 * **ID:** amzn1.ask.skill.804af659-d726-454f-bc73-608a81ae6c76
 * **ASIN:** B01IWZOZ3W
-* **Author:** CT Invention Convention
+* **Author:** Jake Mendelssohn
 * **Release Date:** July 25, 2016 @ 05:26:32
 * **In-App Purchasing:** No
