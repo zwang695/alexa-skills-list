@@ -9,7 +9,7 @@ To use the U.S. State Capitals skill, try saying...
 
 * *Alexa, start state capitals*
 
-These are flash cards for teaching the capital cities of the United States. Designed for children and U.S. geography buffs.
+These are flash cards for teaching the capital cities of the United States. Designed for U.S. geography buffs.
 
 ***
 

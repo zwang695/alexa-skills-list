@@ -7,9 +7,9 @@ To use the yoga trainer skill, try saying...
 
 * *Alexa, ask Yoga Trainer to start a new session*
 
-* *Alexa, ask Yoga Trainer for the previous pose*
+* *Alexa, ask Yoga Trainer for a teacher near 94143*
 
-Yoga Trainer helps you keep up with your Bikram Yoga (C) at home. This Alexa Skill guides you through 26 postures that help you sharpen your mind, build your balance, strengthen your body, and stay flexible. This Skill assumes at least a basic level of familiarity with Bikram Yoga's postures and should be used as an aide by people who are already comfortable enough with postures to practice at home without supervision. You can get started right away without making an account.
+Yoga Trainer is your personal yoga teacher. This Alexa Skill guides you through 26 postures that help you sharpen your mind, build your balance, strengthen your body, and stay flexible. This Skill assumes at least a basic level of familiarity with Bikram Yoga's postures and should be used as an aide by people who are already comfortable enough with postures to practice at home without supervision. You can get started right away without making an account.
 
 ***
 

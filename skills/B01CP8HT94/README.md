@@ -5,15 +5,15 @@ To use the Tracker's Election Odds skill, try saying...
 
 * *Alexa, ask Tracker for an overview.*
 
-* *Alexa, ask Tracker who will win the Republican nomination.*
+* *Alexa, ask Tracker to repeat that.*
 
-* *Alexa, ask Tracker who will be the next president.*
+* *Alexa, ask Tracker about this skill.*
 
-Tracker's Election Odds is the premier way to get the inside scoop on who is likely to win the presidential nominations, and the presidency itself! Studies have found prediction markets to be better at predicting election outcomes than polls, so Tracker uses data from the political betting market Betfair.com to bring you the most accurate prediction possible for the outcome of the upcoming election. To learn more, including why prediction markets are more accurate than polls, see electionbettingodds.com/about.html
+Tracker's Election Odds is the premier way to get the inside scoop on who is likely to win the U.S  presidency! Studies have found prediction markets to be better at predicting election outcomes than polls, so Tracker uses data from the political betting market Betfair.com to bring you the most accurate prediction possible for the outcome of the upcoming election. To learn more, including why prediction markets are more accurate than polls, see electionbettingodds.com/about.html
 
-Ask Tracker for a summary to hear an overview of the current predictions for who will win each party's primary.
+Ask Tracker for a summary to hear an overview of the current predictions for who is likely to win the presidency.
 
-Examples of other things you can do are: ask Tracker who is leading in the Republican or Democratic primaries, ask Tracker who will be the next president, ask Tracker about the skill itself, or, if you miss a response, ask Tracker to repeat it.
+You can also ask Tracker about the skill itself, or, if you miss a response, ask Tracker to repeat it.
 
 Credit to Maxim Lott and John Stossel's website electionbettingodds.com for inspiration, and for the data used.
 
