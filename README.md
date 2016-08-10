@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2249
+**Total Skills Available:** 2256
 
 ***
 
@@ -741,6 +741,14 @@ Play the guess-an-animal game with Alexa. Think of an animal and Alexa will gues
 *Alexa, start Animal Master.*
 
 Play an animal guessing game with Alexa!
+
+***
+
+## &nbsp;<img src="skills/B01K3O6588/skill_icon" alt="Animal Noise Game icon" width="36"> [Animal Noise Game](skills/B01K3O6588)
+
+*Alexa open animal noise game*
+
+The Animal Noise Game is a type of multiple choice game where Alexa helps you learn different animal noises. This is a fun way to learn animal noises!
 
 ***
 
@@ -2872,6 +2880,14 @@ Caribbean Trivia
 *Alexa, tell Carly I feel happy*
 
 Carly is a voice-activated coach for Amazon Echo that helps users understand their moods and thoughts
+
+***
+
+## &nbsp;<img src="skills/B01JPIPSXG/skill_icon" alt="Carpool Helper icon" width="36"> [Carpool Helper](skills/B01JPIPSXG)
+
+*Alexa, ask Carpool Helper, am I driving carpool today?*
+
+This skill helps you remember when you are driving the carpool based on day-of-week.
 
 ***
 
@@ -5655,6 +5671,14 @@ Fun facts about Laura
 
 ***
 
+## &nbsp;<img src="skills/B01IU5VVFO/skill_icon" alt="Facts about Martin Luther King icon" width="36"> [Facts about Martin Luther King](skills/B01IU5VVFO)
+
+*Alexa ask Martin Luther King facts about Martin Luther King junior facts*
+
+Facts about Martin Luther King
+
+***
+
 ## &nbsp;<img src="skills/B01JVHZN40/skill_icon" alt="Facts about Olympics icon" width="36"> [Facts about Olympics](skills/B01JVHZN40)
 
 *Alexa, ask game buddy an olympic fact*
@@ -6707,6 +6731,14 @@ Geek games is trivia skill to test your knowledge of random geeky facts of the E
 
 ***
 
+## &nbsp;<img src="skills/B01K11EMN8/skill_icon" alt="Geek Humor icon" width="36"> [Geek Humor](skills/B01K11EMN8)
+
+*Alexa, open Geek Humor*
+
+Geek Humor makes you laugh with funny jokes about nerdy topics like Math, Physics, Engineering, and more!
+
+***
+
 ## &nbsp;<img src="skills/B01C9K7JBG/skill_icon" alt="Geek Trivia icon" width="36"> [Geek Trivia](skills/B01C9K7JBG)
 
 *Alexa, ask a geek*
@@ -6816,6 +6848,14 @@ The world class Giant Spoon app allows you to ask for world class marketing idea
 *Alexa, launch Gipper Game*
 
 Ronald Reagan Trivia Game
+
+***
+
+## &nbsp;<img src="skills/B01I79048I/skill_icon" alt="Girl Names icon" width="36"> [Girl Names](skills/B01I79048I)
+
+*Alexa, ask Girl Names to say a name*
+
+Girl names
 
 ***
 
@@ -7913,6 +7953,14 @@ Basic information about human heart
 *Alexa, start hummingbird facts*
 
 Hummingbird facts for hummingbird lovers.
+
+***
+
+## &nbsp;<img src="skills/B01JRE35FG/skill_icon" alt="Hunt the Yeti icon" width="36"> [Hunt the Yeti](skills/B01JRE35FG)
+
+*Alexa, launch Yeti Hunt Game*
+
+Hunt the Yeti is an interpretation of the game Hunt The Wumpus. You guide a hunter through a dark cave using your other senses to defeat a Yeti.
 
 ***
 
@@ -13351,6 +13399,14 @@ This skill is a game. It will hone your knowledge on safety.
 *Alexa, ask sage of elements to tell me about calcium.*
 
 Alexa knows all about elements of the periodic table. Ask Alexa to share her knowledge with you.
+
+***
+
+## &nbsp;<img src="skills/B01JYPXSFU/skill_icon" alt="Sailing Guru icon" width="36"> [Sailing Guru](skills/B01JYPXSFU)
+
+*Alexa, start Sailing Guru and start a game*
+
+A skill for sailors to test their knowledge in nautical vocabulary, or non-sailors to learn some!
 
 ***
 

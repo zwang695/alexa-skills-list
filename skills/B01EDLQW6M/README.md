@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Movie Trivia icon" width="36"> [Movie Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.84bfced9-a1ef-4a6b-92d4-b7bff09660ca)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Movie Trivia skill, try saying...
 
