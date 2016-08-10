@@ -536,11 +536,11 @@ The All Knowing 8 Ball can answer life's vexing questions for you, without all t
 
 ***
 
-## &nbsp;<img src="skills/B01BLPITFK/skill_icon" alt="Almond - Router and Home Automation icon" width="36"> [Almond - Router and Home Automation](skills/B01BLPITFK)
+## &nbsp;<img src="skills/B01BLPITFK/skill_icon" alt="Almond icon" width="36"> [Almond](skills/B01BLPITFK)
 
-*Alexa, start Almond and Activate Dinner Scene*
+*Alexa, tell Almond to enable Guest WiFi*
 
-Almond and Alexa work together to make your home smarter and secure. Just ask Alexa to activate a scene or mode on your Almond.
+Almond brings to Alexa, Wi-Fi and SmartHome features such as Parental controls, Guest Networks, Scenes and Modes. Assume supreme commander of your SmartHome.
 
 ***
 
@@ -15308,7 +15308,7 @@ Test your knowledge of Tennessee Vols Football with this fun trivia game.
 
 ***
 
-## &nbsp;<img src="skills/B01HNM3OX2/skill_icon" alt="Tennis Anyone Today's Tennis Scores icon" width="36"> [Tennis Anyone Today's Tennis Scores](skills/B01HNM3OX2)
+## &nbsp;<img src="skills/B01HNM3OX2/skill_icon" alt="Tennis Anyone Tennis Scores icon" width="36"> [Tennis Anyone Tennis Scores](skills/B01HNM3OX2)
 
 *Alexa ask Tennis Anyone did Roger Federer win today*
 

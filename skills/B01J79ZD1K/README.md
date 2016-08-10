@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Meal Ideas icon" width="36"> [Meal Ideas](http://alexa.amazon.com/#skills/amzn1.ask.skill.e0441565-6374-4732-9c6d-80a3b41349ba)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Meal Ideas skill, try saying...
 

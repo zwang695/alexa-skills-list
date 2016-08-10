@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="tado° icon" width="36"> [tado°](http://alexa.amazon.com/#skills/amzn1.ask.skill.72a98e74-431b-47a2-bc91-c0723f866d5e)
-![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 You just connected your tado° thermostat to Amazon’s Alexa.
 Congratulations and welcome to a new era of interacting with your devices.
