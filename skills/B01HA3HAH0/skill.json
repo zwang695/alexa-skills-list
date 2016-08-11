@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "home.sensibo.com"
+  ],
+  "asin": "B01HA3HAH0",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Control your Sensibo enabled air conditioner with Amazon Echo. You will need a Sensibo pod or a Sensibo enabled air conditioner.\nEnable the Sensibo skill, connect to your account, and run 'Discover devices' on your Alexa app.\nYou will then be able to control your air conditioners with simple commands such as \"Alexa, turn off the living room AC\" or \"Alexa, set living room AC temperature to 24 degrees\".",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1470875831.645,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.3ffc4acd-a82d-4ee4-8d3c-6d12aaec33ac",
+  "imageAltText": "Sensibo Smart Air Conditioner icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01HA3HAH0/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Sensibo Smart Air Conditioner",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "vCRjmcZpGwNo1Ozflfu6aScml",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.sensibo.com/pages/privacy-policy",
+  "shortDescription": "Sensibo smart air conditioner",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M252VCFKXB292X",
+  "vendorName": "Sensibo"
+}

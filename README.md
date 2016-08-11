@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2256
+**Total Skills Available:** 2255
 
 ***
 
@@ -3642,14 +3642,6 @@ Allows you to give Alexa a color in hex, rgb, or hsl format and have it converte
 *alexa open color game*
 
 Memorize the color order
-
-***
-
-## &nbsp;<img src="skills/B01JDLH6M6/skill_icon" alt="Color Quiz for Toddlers icon" width="36"> [Color Quiz for Toddlers](skills/B01JDLH6M6)
-
-*Alexa, open color quiz*
-
-A quiz based color guessing game for toddlers
 
 ***
 
@@ -11790,14 +11782,6 @@ Pico, short for Pico, Fermi, Bagel, is the secret number game that tests your lo
 
 ***
 
-## &nbsp;<img src="skills/B01HUIPYVY/skill_icon" alt="Pied Piper Skill icon" width="36"> [Pied Piper Skill](skills/B01HUIPYVY)
-
-*Alexa, open Pied Piper*
-
-Trivia from hit HBO show Silicon Valley. To launch Alexa Ask Pied Piper
-
-***
-
 ## &nbsp;<img src="skills/B01ICKXYYI/skill_icon" alt="PineappleFacts icon" width="36"> [PineappleFacts](skills/B01ICKXYYI)
 
 *Alexa, ask pineapple facts to tell me something*
@@ -13649,6 +13633,14 @@ Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 "Alexa, set my thermostat to 72 degrees."
 
 Control your Sensi™ Wi-Fi Programmable Thermostat without lifting a finger using Alexa and simple voice commands.
+
+***
+
+## &nbsp;<img src="skills/B01HA3HAH0/skill_icon" alt="Sensibo Smart Air Conditioner icon" width="36"> [Sensibo Smart Air Conditioner](skills/B01HA3HAH0)
+
+*There are no example interactions for this skill.*
+
+Sensibo smart air conditioner
 
 ***
 
