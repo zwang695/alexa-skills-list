@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01BLWJ1Q4",
-  "averageRating": 3.5,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "skybell",
   "name": "SkyBell",
-  "numberOfReviews": 5,
+  "numberOfReviews": 6,
   "pamsPartnerId": "ODJfMxFkRTL6mn3BjtVKkTU2i",
   "permissions": null,
   "privacyPolicyUrl": "http://www.skybell.com/pages/legal",

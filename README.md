@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2274
+**Total Skills Available:** 2275
 
 ***
 
@@ -554,9 +554,9 @@ The All Knowing 8 Ball can answer life's vexing questions for you, without all t
 
 ## &nbsp;<img src="skills/B01BLPITFK/skill_icon" alt="Almond icon" width="36"> [Almond](skills/B01BLPITFK)
 
-*Alexa, tell Almond to enable Guest WiFi*
+*Alexa, tell Almond to activate Dinner Scene*
 
-Almond brings to Alexa, Wi-Fi and SmartHome features such as Parental controls, Guest Networks, Scenes and Modes. Assume supreme commander of your SmartHome.
+Alexa can now activate the Scenes and Modes you have set up on your Almond.
 
 ***
 
@@ -3080,6 +3080,14 @@ Caves Under Thornhill is a classic maze and monster game.
 *Alexa, ask Ceaseless who should I pray for today*
 
 Find out who to pray for each day and receive wisdom from the Bible with Ceaseless. Use it for daily prayer and devotion.
+
+***
+
+## &nbsp;<img src="skills/B01I0U0VWS/skill_icon" alt="null" width="36"> [CeBotics LLC](skills/B01I0U0VWS)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -11171,11 +11179,11 @@ Your guide to guest information on late night talk shows
 
 ***
 
-## &nbsp;<img src="skills/B01HBI4FIQ/skill_icon" alt="nomos system icon" width="36"> [nomos system](skills/B01HBI4FIQ)
+## &nbsp;<img src="skills/B01HBI4FIQ/skill_icon" alt="null" width="36"> [nomos system AG](skills/B01HBI4FIQ)
 
 *There are no example interactions for this skill.*
 
-Alexa, turn on the kitchen lamp. Use nomos system to control your smart home and IoT devices.
+null
 
 ***
 

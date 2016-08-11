@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01I0U0VWS",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1470951419.618,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.8d0a74d3-efe7-4f7b-9155-00dd029b4fa2",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01I0U0VWS/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "CeBotics LLC",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "XudRwzivv4o3TF8OdFcWpGQl4",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M6L6HPH4494LN",
+  "vendorName": "CeBotics LLC"
+}
