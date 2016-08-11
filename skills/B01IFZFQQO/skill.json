@@ -12,7 +12,7 @@
   "exampleInteractions": [
     "Alexa, ask Zip Recruiter to find me a developer job in San Francisco",
     "Alexa, tell Zip Recruiter to find me a job",
-    "Alexa, tell Zip Recruiter to I hate my boss"
+    "Alexa, tell Zip Recruiter that I hate my boss"
   ],
   "firstReleaseDate": 1470402494.388,
   "homepageLinkText": null,
@@ -24,7 +24,7 @@
   "launchPhrase": "zip recruiter",
   "name": "Job Search by ZipRecruiter",
   "numberOfReviews": 0,
-  "pamsPartnerId": "vPcDxcy5OK4qQvz3c3wHwaxXR",
+  "pamsPartnerId": "Z9fYp8kgCsmtJWDHnlnunjyd4",
   "permissions": null,
   "privacyPolicyUrl": "https://www.ziprecruiter.com/privacy",
   "shortDescription": "Ready for a new job? Have Alexa find you one! Search through over 6 million active job listings - powered by ZipRecruiter.com.",

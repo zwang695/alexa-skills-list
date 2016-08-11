@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Albert Einstein icon" width="36"> [Albert Einstein](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.313d3728-16e0-446e-b5fc-eda6102d3f98)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Albert Einstein skill, try saying...
 

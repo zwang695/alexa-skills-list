@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bedtime icon" width="36"> [Bedtime](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c15e6e3-c18a-46ce-bc07-9a3e7e898f8e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Bedtime skill, try saying...
 

@@ -7,7 +7,7 @@ To use the Job Search by ZipRecruiter skill, try saying...
 
 * *Alexa, tell Zip Recruiter to find me a job*
 
-* *Alexa, tell Zip Recruiter to I hate my boss*
+* *Alexa, tell Zip Recruiter that I hate my boss*
 
 Searching for a job has never been easier! With the ZipRecruiter Job Search Alexa Skill, simply tell us the job title and location you're looking for and Alexa will get to work finding you great new opportunities. Hear a job you like? Alexa can even submit your application for you!
 

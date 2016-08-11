@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2255
+**Total Skills Available:** 2273
 
 ***
 
@@ -130,6 +130,14 @@ Get concise updates on all elements of your operation and infrastructure based o
 *Alexa, open eighties movie trivia*
 
 If you say "Alexa play 80's Movie Trivia" you will be presented with 5 questions, each with a choice of 5 answers.  Answer using the corresponding number.
+
+***
+
+## &nbsp;<img src="skills/B01JVOUQJA/skill_icon" alt="80s Trivia icon" width="36"> [80s Trivia](skills/B01JVOUQJA)
+
+*Alexa, start eighties trivia*
+
+80s Trivia
 
 ***
 
@@ -469,6 +477,14 @@ Get flight delay information for US airports
 *Alexa, ask airport weather to get Cincinnati*
 
 Reads aloud succinct weather reports (METARS) from airport weather stations, formatted to sound like ATIS.
+
+***
+
+## &nbsp;<img src="skills/B01F6MODVS/skill_icon" alt="Airport Report icon" width="36"> [Airport Report](skills/B01F6MODVS)
+
+*Alexa ask Airport Report about SFO*
+
+Airport Delay Info
 
 ***
 
@@ -2466,6 +2482,14 @@ Control your Brain of Things enabled home.
 
 ***
 
+## &nbsp;<img src="skills/B01JVGIOD8/skill_icon" alt="Brand Quiz icon" width="36"> [Brand Quiz](skills/B01JVGIOD8)
+
+*Alexa, ask Brand Quiz to start new game*
+
+This skill quizzes users on famous brand slogans. Are you brand aware?
+
+***
+
 ## &nbsp;<img src="skills/B01JHLORME/skill_icon" alt="Brand Trivia icon" width="36"> [Brand Trivia](skills/B01JHLORME)
 
 *Alexa, Open brand trivia*
@@ -3347,6 +3371,14 @@ Play through a set of fun and moderately challenging general trivia.
 
 ***
 
+## &nbsp;<img src="skills/B01JBXPNV2/skill_icon" alt="Chuck Joke icon" width="36"> [Chuck Joke](skills/B01JBXPNV2)
+
+*Alexa, Open Chuck Joke*
+
+Jokes for Chuck!!
+
+***
+
 ## &nbsp;<img src="skills/B01GM2XC04/skill_icon" alt="chuckFacts icon" width="36"> [chuckFacts](skills/B01GM2XC04)
 
 *Alexa, ask ChuckFacts to tell me something about Chuck Norris*
@@ -4151,6 +4183,14 @@ Crater of the Moon is a trivia game based on facts about the Crater of the Moon 
 
 ***
 
+## &nbsp;<img src="skills/B01K6L903K/skill_icon" alt="Crazy State Laws icon" width="36"> [Crazy State Laws](skills/B01K6L903K)
+
+*Alexa, open crazy state laws*
+
+Crazy state laws from the U.S.
+
+***
+
 ## &nbsp;<img src="skills/B01I61U96Y/skill_icon" alt="Creative Block icon" width="36"> [Creative Block](skills/B01I61U96Y)
 
 *Alexa, start Creative Block*
@@ -4460,6 +4500,14 @@ A quick way to get an LDS daily scripture.  Simply say "Open Daily Scripture".
 *Alexa open Daily Word*
 
 Selects a new word for every day of the year.
+
+***
+
+## &nbsp;<img src="skills/B01K3L8R14/skill_icon" alt="Daily Words icon" width="36"> [Daily Words](skills/B01K3L8R14)
+
+*Alexa, open Daily Words.*
+
+Are you interested in daily words? Rely on Daily Words for notable daily words for every day of the year.
 
 ***
 
@@ -4920,6 +4968,14 @@ Learn interesting facts and terms related to dogs with this Alexa skill.
 
 ***
 
+## &nbsp;<img src="skills/B01K5JXPKM/skill_icon" alt="Dog Trivia icon" width="36"> [Dog Trivia](skills/B01K5JXPKM)
+
+*Alexa, start Dog Trivia*
+
+This trivia game lets players test their knowledge of dogs.
+
+***
+
 ## &nbsp;<img src="skills/B01DDL3Z04/skill_icon" alt="Dog-Cat Trivia icon" width="36"> [Dog-Cat Trivia](skills/B01DDL3Z04)
 
 *Alexa, launch Dog Cat Trivia*
@@ -5106,6 +5162,14 @@ Uses the Google Knowledge Graph API to drop some knowledge about anyone / anythi
 *Alexa, ask Drought Tips for a tip*
 
 Ask Drought Tips for easy ways to save water in your home.
+
+***
+
+## &nbsp;<img src="skills/B01JQUIGIW/skill_icon" alt="DrPharmacy icon" width="36"> [DrPharmacy](skills/B01JQUIGIW)
+
+*Alexa, ask doctor pharmacy to tell a pharmacy fact.*
+
+A skill that tell individuals interesting pharmacy facts.
 
 ***
 
@@ -5676,6 +5740,14 @@ Facts about Martin Luther King
 *Alexa, ask game buddy an olympic fact*
 
 This skills gives some interesting facts about Olympic games.
+
+***
+
+## &nbsp;<img src="skills/B01K1B2SPW/skill_icon" alt="Facts about Tiger icon" width="36"> [Facts about Tiger](skills/B01K1B2SPW)
+
+*alexa Launch tiger facts*
+
+In this skill you will learn facts about Tigers.
 
 ***
 
@@ -8404,6 +8476,14 @@ Sample request for irish triads
 
 ***
 
+## &nbsp;<img src="skills/B01K0DM8R4/skill_icon" alt="Irish Trivia icon" width="36"> [Irish Trivia](skills/B01K0DM8R4)
+
+*Alexa, start irish trivia*
+
+Alexa asks Irish Trivia questions
+
+***
+
 ## &nbsp;<img src="skills/B01DDBB1HS/skill_icon" alt="Is The Lake Full Yet? icon" width="36"> [Is The Lake Full Yet?](skills/B01DDBB1HS)
 
 *Alexa, ask Lake Travis if it's full yet*
@@ -9712,6 +9792,14 @@ This is a simple game where Alexa will state a series of colors and you keep cou
 
 ***
 
+## &nbsp;<img src="skills/B01K3IV0F2/skill_icon" alt="Memorable Password Generator icon" width="36"> [Memorable Password Generator](skills/B01K3IV0F2)
+
+*Alexa, ask password generator to generate a password*
+
+Ask Password Generator to generate a memorable four word password.
+
+***
+
 ## &nbsp;<img src="skills/B01HBWUHVG/skill_icon" alt="Memory Game icon" width="36"> [Memory Game](skills/B01HBWUHVG)
 
 *Alexa, launch Memory Game*
@@ -10207,6 +10295,14 @@ The skill may not be suitable for all ages.
 *Alexa, ask Mr. Junky Food what to eat today.*
 
 Daily recommendations from Mr Junky Food for chocolate and candy lovers.
+
+***
+
+## &nbsp;<img src="skills/B01JGPSW3G/skill_icon" alt="Mr Shark icon" width="36"> [Mr Shark](skills/B01JGPSW3G)
+
+*Alexa, ask Mister Shark for a fact*
+
+Learn about sharks!
 
 ***
 
@@ -11107,6 +11203,14 @@ Do you know NC?
 
 ***
 
+## &nbsp;<img src="skills/B01K6MK3QW/skill_icon" alt="North Wales Facts icon" width="36"> [North Wales Facts](skills/B01K6MK3QW)
+
+*Alexa ask North Wales Facts to tell me a fact*
+
+North Wales Facts
+
+***
+
 ## &nbsp;<img src="skills/B01I8E8SUS/skill_icon" alt="Northbridge MA History icon" width="36"> [Northbridge MA History](skills/B01I8E8SUS)
 
 *Alexa ask Northbridge History for a fact*
@@ -11939,6 +12043,14 @@ Poets on love, life and everything else
 *Alexa, ask Poker Helper how to make a straight*
 
 A quick guide to all poker hands
+
+***
+
+## &nbsp;<img src="skills/B01K3442GU/skill_icon" alt="PokEvolve for Pokemon GO icon" width="36"> [PokEvolve for Pokemon GO](skills/B01K3442GU)
+
+*Alexa, talk to poke evolve.*
+
+PokEvolve lets you look up evolution info for Pokémon in Pokémon GO. It gives the evolution chain and how many candies are required to evolve to the next form.
 
 ***
 
@@ -13399,6 +13511,14 @@ A skill for sailors to test their knowledge in nautical vocabulary, or non-sailo
 *Alexa, ask salad bar what is the recipe of Caesar salad*
 
 Salad Bar provides you the recipes of over 50 different salads. Like "Caesar Salad", "Hearty Tuna Salad", "Southwestern Cobb" and many more.
+
+***
+
+## &nbsp;<img src="skills/B01I7CETZY/skill_icon" alt="salsaMusicDance icon" width="36"> [salsaMusicDance](skills/B01I7CETZY)
+
+*Alexa, ask salsa dance to tell me about salsa dance.*
+
+salsaMusicDance
 
 ***
 
@@ -16954,6 +17074,14 @@ Trivia Game for US Captitals
 
 ***
 
+## &nbsp;<img src="skills/B01IOP7FGY/skill_icon" alt="US State Capitals icon" width="36"> [US State Capitals](skills/B01IOP7FGY)
+
+*Alexa, ask US State Capitals to begin a new game*
+
+This game allows the user to answer the corresponding state capitals.
+
+***
+
 ## &nbsp;<img src="skills/B01FS5HO1Y/skill_icon" alt="US State Capitals Trivia icon" width="36"> [US State Capitals Trivia](skills/B01FS5HO1Y)
 
 *Alexa, start US Capitals Trivia*
@@ -17200,6 +17328,14 @@ The VoicePod skill lets you control and interact with the Control4 home automati
 *Alexa, tell volleyball fact*
 
 Volleyball Facts
+
+***
+
+## &nbsp;<img src="skills/B01K0X4PQG/skill_icon" alt="vox bot icon" width="36"> [vox bot](skills/B01K0X4PQG)
+
+*alexa, launch vox bot*
+
+Vox Bot enables to provide description of item, after browsing with next/previous range in nodes tree. End user can also access by type, either by tag or name
 
 ***
 
@@ -17592,6 +17728,14 @@ Wiki Brains can read you many of the 5000 most accessed articles on the English 
 *Alexa ask king's landing what house is Jon Snow from*
 
 Ask King's Landing to learn about your favorite Game of Thrones characters
+
+***
+
+## &nbsp;<img src="skills/B01J4STA4K/skill_icon" alt="Win your Interview icon" width="36"> [Win your Interview](skills/B01J4STA4K)
+
+*Alexa, open Win Your Interview*
+
+Practice your interview skills with top interview questions and receive tips for each question!
 
 ***
 
