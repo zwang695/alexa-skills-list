@@ -11,6 +11,11 @@ To use the Paddock Reporter skill, try saying...
 
 Paddock Reporter keeps you up to date with whats happening in the world of Formula One racing.
 
+You can ask Paddock Reporter the following:
+- Who won the last race?
+- When is the next race?
+- What are the driver standings?
+
 ***
 
 ### Skill Details

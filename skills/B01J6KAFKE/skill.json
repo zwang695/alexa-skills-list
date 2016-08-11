@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Paddock Reporter keeps you up to date with whats happening in the world of Formula One racing.",
+  "description": "Paddock Reporter keeps you up to date with whats happening in the world of Formula One racing.\n\nYou can ask Paddock Reporter the following:\n- Who won the last race?\n- When is the next race?\n- What are the driver standings?",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Paddock Reporter who won the last race",

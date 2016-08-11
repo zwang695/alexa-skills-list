@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Job Search by ZipRecruiter icon" width="36"> [Job Search by ZipRecruiter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3d90efa4-0358-4b22-abac-57965f466035)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Job Search by ZipRecruiter skill, try saying...
 

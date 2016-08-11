@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="SG Buses icon" width="36"> [SG Buses](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2be9039e-7921-4836-8414-abf2a780f457)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the SG Buses skill, try saying...
 

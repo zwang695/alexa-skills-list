@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Hunt the Yeti icon" width="36"> [Hunt the Yeti](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd76cca4-65d0-4df4-994e-49430b7ed7ed)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Hunt the Yeti skill, try saying...
 

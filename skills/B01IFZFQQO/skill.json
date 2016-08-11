@@ -3,7 +3,7 @@
     "ziprecruiter.com"
   ],
   "asin": "B01IFZFQQO",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "zip recruiter",
   "name": "Job Search by ZipRecruiter",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "Z9fYp8kgCsmtJWDHnlnunjyd4",
   "permissions": null,
   "privacyPolicyUrl": "https://www.ziprecruiter.com/privacy",

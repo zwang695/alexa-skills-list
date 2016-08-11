@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2273
+**Total Skills Available:** 2274
 
 ***
 
@@ -2479,6 +2479,14 @@ Ask Cage for advice, questions, or words to live by
 *Alexa, tell brain of things to open the curtains*
 
 Control your Brain of Things enabled home.
+
+***
+
+## &nbsp;<img src="skills/B01K3X4KYK/skill_icon" alt="Brain Teasers! icon" width="36"> [Brain Teasers!](skills/B01K3X4KYK)
+
+*Alexa, launch Brain Teasers*
+
+A quick fun trivia game to test your common knowledge and quick thinking ability.
 
 ***
 
