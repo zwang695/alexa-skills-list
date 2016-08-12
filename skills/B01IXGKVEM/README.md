@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Deep Thoughts icon" width="36"> [Deep Thoughts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1640db4b-7893-41bd-830f-01f673ee7dfa)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Deep Thoughts skill, try saying...
 

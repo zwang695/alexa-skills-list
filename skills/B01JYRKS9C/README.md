@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Wife Manual icon" width="36"> [Wife Manual](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf5ae619-6edb-4301-90e6-157495a160ea)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Wife Manual skill, try saying...
 
