@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2292
+**Total Skills Available:** 2300
 
 ***
 
@@ -3283,6 +3283,14 @@ Basic chess trivia, with some current player questions.
 
 ***
 
+## &nbsp;<img src="skills/B01J73Z69A/skill_icon" alt="Chicago Bikes icon" width="36"> [Chicago Bikes](skills/B01J73Z69A)
+
+*Alexa, ask Chicago Bikes for station info for Peoria Street and Jackson Boulevard*
+
+real-time station information on all Chicago shared bikes (Divvy Bikes)
+
+***
+
 ## &nbsp;<img src="skills/B01FOVT6VS/skill_icon" alt="Chicago Bus Stop icon" width="36"> [Chicago Bus Stop](skills/B01FOVT6VS)
 
 *Alexa ask Chicago Bus Stop when is the next bus at stop 3766?*
@@ -6056,6 +6064,14 @@ Play a Quote from Fido's QUOTE.BBS
 
 ***
 
+## &nbsp;<img src="skills/B01JXEA99A/skill_icon" alt="fifty two week low icon" width="36"> [fifty two week low](skills/B01JXEA99A)
+
+*Alexa, ask fifty two week low to tell me the price*
+
+List US stocks that hit fifty two week low in the current trading session.
+
+***
+
 ## &nbsp;<img src="skills/B01FY5S8D6/skill_icon" alt="Fire Trivia Game icon" width="36"> [Fire Trivia Game](skills/B01FY5S8D6)
 
 *Alexa, open fire trivia.*
@@ -6397,6 +6413,14 @@ Fun facts and trivia of football
 *Alexa, ask Football Squares to give me some numbers*
 
 Generates two randomly sorted lists of ten non-repeating single digit numbers.  It was designed to be used for picking numbers for a game of Football Squares.
+
+***
+
+## &nbsp;<img src="skills/B01K5JW34Q/skill_icon" alt="Football Team Flash Cards icon" width="36"> [Football Team Flash Cards](skills/B01K5JW34Q)
+
+*Alexa, start Football Team Flash Cards*
+
+This game lets players test their knowledge of the locations of NFL football teams.
 
 ***
 
@@ -9014,6 +9038,14 @@ Mormon Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01JVV2FBA/skill_icon" alt="League Champion Skill icon" width="36"> [League Champion Skill](skills/B01JVV2FBA)
+
+*Alexa, ask League Champion what is skill of Ashe*
+
+This skill is for the League game. It lets you ask what are the skills of the champion you want to know.
+
+***
+
 ## &nbsp;<img src="skills/B01E2CMDVU/skill_icon" alt="LeagueCounter icon" width="36"> [LeagueCounter](skills/B01E2CMDVU)
 
 *Alexa ask league counter*
@@ -9652,6 +9684,14 @@ Learn some quick facts about Mars, our neighboring planet!
 *Alexa, ask Martian Weather for today's Mars weather report.*
 
 Have you ever wondered what the weather is like on Mars? Now you can ask Alexa about the current Martian weather conditions!
+
+***
+
+## &nbsp;<img src="skills/B01K055W2U/skill_icon" alt="Marvee icon" width="36"> [Marvee](skills/B01K055W2U)
+
+*Alexa, tell Marvee that I'm OK*
+
+Marvee is a concierge solution that gives those hindered by limited vision, mobility or aging an easy way to communicate with family and caregivers.
 
 ***
 
@@ -14929,6 +14969,14 @@ Learn the state captials
 
 ***
 
+## &nbsp;<img src="skills/B01JE55V1O/skill_icon" alt="State Capitals  Flash Cards icon" width="36"> [State Capitals  Flash Cards](skills/B01JE55V1O)
+
+*Alexa ask State Capitals*
+
+Tests you on your knowledge of US State capitals for all 50 states including District of Columbia.
+
+***
+
 ## &nbsp;<img src="skills/B01EKQTM2Q/skill_icon" alt="State Capitals Quiz icon" width="36"> [State Capitals Quiz](skills/B01EKQTM2Q)
 
 *Alexa state capitals*
@@ -17659,6 +17707,14 @@ Helps you to keep track of your weight. Just stand on a scale and tell Alexa to 
 
 ***
 
+## &nbsp;<img src="skills/B01K742NQC/skill_icon" alt="Weird Laws icon" width="36"> [Weird Laws](skills/B01K742NQC)
+
+*Alexa, open weird laws*
+
+Weird US Laws
+
+***
+
 ## &nbsp;<img src="skills/B01GM0SWWY/skill_icon" alt="WeirdFacter icon" width="36"> [WeirdFacter](skills/B01GM0SWWY)
 
 *Alexa, ask weird fact for a weird fact.*
@@ -18001,6 +18057,14 @@ Recites Shakespeare quotes and various famous proverbs, spoken by a pleasant mal
 *Alexa open Wizard facts and give me a fact*
 
 Gives random facts
+
+***
+
+## &nbsp;<img src="skills/B01K9IX4X2/skill_icon" alt="Wombat Facts icon" width="36"> [Wombat Facts](skills/B01K9IX4X2)
+
+*Alexa, open Wombat Facts*
+
+Wombats are amazing! Learn more about these wonderful creatures.
 
 ***
 

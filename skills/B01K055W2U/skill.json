@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "marvee.io"
+  ],
+  "asin": "B01K055W2U",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Note: Link your Marvee account to Alexa to start using Marvee. Send an \"I'm OK\" notification, let a loved one know to give you a call, or stay up to date with the latest family buzz.\n\nImportant: You'll need to be sure you have added contacts to your Marvee account and chosen the method for notifications (text, email or both). And don't forget to invite folks to your family group!\n\nMarvee gives those hindered by physical limitations (vision, mobility or just typical aging challenges) an easy way to communicate with family and caregivers.\n\nWe build services for the over 55+ crowd enabling quality of life and peace of mind. Be sure to visit www.askmarvee.com for more information, and to sign into your account.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell Marvee that I'm OK",
+    "Alexa, Ask Marvee to have Bob call me",
+    "Alexa, Ask Marvee for Family News"
+  ],
+  "firstReleaseDate": 1471000067.139,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.a81ae255-5ca4-49ef-aceb-c14954fa39fa",
+  "imageAltText": "Marvee icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01K055W2U/skill_icon",
+  "inAppPurchasingSupported": true,
+  "launchPhrase": "marvie",
+  "name": "Marvee",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "waVZUEBLs9HHxIqKl9vrAoCgX",
+  "permissions": null,
+  "privacyPolicyUrl": "http://static.marvee.io/privacy.html",
+  "shortDescription": "Marvee is a concierge solution that gives those hindered by limited vision, mobility or aging an easy way to communicate with family and caregivers.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://static.marvee.io/tos.html",
+  "vendorId": "MYO879ZNE6SSF",
+  "vendorName": "Marvee LLC"
+}

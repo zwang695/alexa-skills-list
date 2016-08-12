@@ -20,16 +20,25 @@ That means you get the weather information most relevant to you, wherever you li
 
 Big Sky gives you quick access to weather information you need the most.
 
+WHAT'S NEW?
+-- You can now get wind and humidity information for any hour in the next 24 hours!
+
+-- Stability Fix. Crash under heavy loads fixed. Sorry for the inconvenience! Try it/Review it again if you experienced trouble in the past!
+
 "Alexa, ask Big Sky..."
 
 ...what's the high temperature today? 
 ...will it rain in the next three hours?
 ...will it rain before 10 pm?
+...for the humidity at 4 pm?
+...what will the wind speed be in three hours?
 ...what's the low temperature in the next seven days?
 ...about the weather this weekend.
 ...when is sunrise on Saturday?
 ...what's the weather on Friday?
 
+
+If you experience trouble with Big Sky, please contact the developer at: sarkonovich@gmail.com. 
 
 Why Big Sky?  Because it's better weather.
 
