@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Titus icon" width="36"> [Titus](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5ec69ff7-5f29-47b8-9ec9-f8a319164c4b)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Titus skill, try saying...
 

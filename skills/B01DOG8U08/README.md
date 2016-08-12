@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Pitch Pipe icon" width="36"> [Pitch Pipe](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c7d2e50e-1ad7-4c0f-b50d-5724d9919caa)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Pitch Pipe skill, try saying...
 
