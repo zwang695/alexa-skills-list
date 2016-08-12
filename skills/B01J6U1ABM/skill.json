@@ -1,0 +1,37 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "auth.faithlife.com",
+    "auth.logos.com"
+  ],
+  "asin": "B01J6U1ABM",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Read the Bible, do your daily devotions, get the Verse of the Day, manage your prayer list and more with the Faithlife skill.\n\nYou can hear the Bible immediately, and with a free Faithlife account your prayer lists and reading plans are shared between Alexa, the web, and Faithlife's free mobile apps.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Faith Life to read Jeremiah 29 verse 11.",
+    "Ask Faith Life, what should I pray for today?",
+    "Ask Faith Life, what are my readings for today?"
+  ],
+  "firstReleaseDate": 1470992845.896,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.b306198b-761d-4f0a-9d80-39fe9b282fc0",
+  "imageAltText": "Faithlife icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01J6U1ABM/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "faith life",
+  "name": "Faithlife",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "lwMC9FefSpTID9ARbSqSZwaer",
+  "permissions": null,
+  "privacyPolicyUrl": "http://faithlife.com/privacy",
+  "shortDescription": "Read Bible reading plans, access your prayer lists, and look up verses with this Alexa skill.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://faithlife.com/terms",
+  "vendorId": "M3RZXF05HYYTA8",
+  "vendorName": "Faithlife Corporation"
+}

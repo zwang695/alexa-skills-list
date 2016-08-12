@@ -13,6 +13,8 @@ Rockbot brings the wisdom, inspiration, and taunting of Dwayne "The Rock" Johnso
 
 But if taunting is more your style, ask for an insult and hear one of the classics from his days in the ring, all hilariously delivered in Alexa's voice.
 
+Warning: much like The Rock himself, Rockbot occasionally uses profanity and may not be suitable for all ages.
+
 ***
 
 ### Skill Details

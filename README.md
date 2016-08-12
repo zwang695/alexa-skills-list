@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2275
+**Total Skills Available:** 2292
 
 ***
 
@@ -90,6 +90,14 @@ As the saying goes, it takes at least 21 days to build a habit. Use 21 Dayz to h
 *Alexa, ask thirty sec to play Jerry Rice*
 
 ThirtySec provides real voices of people.
+
+***
+
+## &nbsp;<img src="skills/B01JDOZXGO/skill_icon" alt="3D printing facts icon" width="36"> [3D printing facts](skills/B01JDOZXGO)
+
+*Alexa, open three d. printing facts and tell me something*
+
+short and quick facts about 3d printing
 
 ***
 
@@ -957,6 +965,14 @@ Practice common Arabic phrases.
 *Alexa, ask Area Code where is eight six zero*
 
 Area Code Lookup
+
+***
+
+## &nbsp;<img src="skills/B01JWO3A38/skill_icon" alt="Arithlistic icon" width="36"> [Arithlistic](skills/B01JWO3A38)
+
+*Alexa, open Quiz Mathematics*
+
+A quiz game with a difference. Take your learning to the next level by training with a mega hard maths game involving lists!
 
 ***
 
@@ -3003,6 +3019,14 @@ Gives a random assortment of facts about cats
 
 ***
 
+## &nbsp;<img src="skills/B01K5JZC2Q/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01K5JZC2Q)
+
+*Alexa, start Cat Facts*
+
+This skill provides a random fun fact about cats.
+
+***
+
 ## &nbsp;<img src="skills/B01HCJ83LY/skill_icon" alt="Cat Geek icon" width="36"> [Cat Geek](skills/B01HCJ83LY)
 
 *Alexa, ask cat geek for a fact.*
@@ -3757,6 +3781,14 @@ Comic Book Guide answers your questions about comic book characters, teams, loca
 
 ***
 
+## &nbsp;<img src="skills/B01K5ZXNP8/skill_icon" alt="Command Line Basics icon" width="36"> [Command Line Basics](skills/B01K5ZXNP8)
+
+*Alexa, open command line basics.*
+
+Test your knowledge of the command line (linux).  Tell Alexa what the command line command means in common (human) terms.  Just answer the multiple choice.
+
+***
+
 ## &nbsp;<img src="skills/B01I7DEG4C/skill_icon" alt="commandBlock icon" width="36"> [commandBlock](skills/B01I7DEG4C)
 
 *Alexa, open command block*
@@ -4002,6 +4034,14 @@ Find out who's online at in Convrge
 *Alexa, ask cook book how to make a burger*
 
 This skills allow users to find recipes - ingredients, cook steps, health info etc
+
+***
+
+## &nbsp;<img src="skills/B01K9DDUEU/skill_icon" alt="Cooking Tips icon" width="36"> [Cooking Tips](skills/B01K9DDUEU)
+
+*Alexa, open cooking tips*
+
+A skill that gives you a cooking tip every time you call it.
 
 ***
 
@@ -5213,6 +5253,14 @@ Ducks Football Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01K457ZUS/skill_icon" alt="Dungeon Adventure icon" width="36"> [Dungeon Adventure](skills/B01K457ZUS)
+
+*Alexa, start dungeon adventure*
+
+Fantasy dungeon crawling game where you will create a character and try to save the town from the evil necromancer and his monsters in the dungeon.
+
+***
+
 ## &nbsp;<img src="skills/B01EK2OZSG/skill_icon" alt="Dungeon Dice icon" width="36"> [Dungeon Dice](skills/B01EK2OZSG)
 
 *Alexa, ask dungeon dice to roll a d20.*
@@ -5354,14 +5402,6 @@ Curious about eggs? Let Egg Facts enlighten and entertain with interesting egg t
 *Alexa, ask Egg Master how to cook a poached egg*
 
 Learn different cooking styles for eggs with this simple Alexa skill. Impress your friends and family at brunch! Egg-cellent!
-
-***
-
-## &nbsp;<img src="skills/B01B3PU7UI/skill_icon" alt="EGR Lunch Bot icon" width="36"> [EGR Lunch Bot](skills/B01B3PU7UI)
-
-*Alexa, ask lunch bot what's for lunch today*
-
-Hot lunch for East Grand Rapids Public Schools (all elementary schools).
 
 ***
 
@@ -5820,6 +5860,14 @@ Facts about the White House in Washington, DC
 *Alexa, open fact today*
 
 Gathering here are some fun and enlightening facts about life.
+
+***
+
+## &nbsp;<img src="skills/B01J6U1ABM/skill_icon" alt="Faithlife icon" width="36"> [Faithlife](skills/B01J6U1ABM)
+
+*Alexa, ask Faith Life to read Jeremiah 29 verse 11.*
+
+Read Bible reading plans, access your prayer lists, and look up verses with this Alexa skill.
 
 ***
 
@@ -7779,6 +7827,14 @@ Learn facts about the canine stars of film and stage
 
 ***
 
+## &nbsp;<img src="skills/B01JZNXEEG/skill_icon" alt="Holy Rosary icon" width="36"> [Holy Rosary](skills/B01JZNXEEG)
+
+*Alexa ask Holy Rosary to pray the Joyful Mysteries*
+
+Holy Rosary allows you to pray the Holy Rosary along with Alexa. Simply say the name of the mystery you would like to pray and say ‘Amen’ after each prayer.
+
+***
+
 ## &nbsp;<img src="skills/B01EKJX3M8/skill_icon" alt="Home Control Assistant icon" width="36"> [Home Control Assistant](skills/B01EKJX3M8)
 
 *There are no example interactions for this skill.*
@@ -7800,6 +7856,14 @@ This is a simple skill to ask Alexa to tell you some home remedies.
 *Alexa, ask home advisor to find me a plumber.*
 
 Instantly connect with pre-screened home service professionals for hundreds of home projects.
+
+***
+
+## &nbsp;<img src="skills/B01JBJNCA0/skill_icon" alt="Homeopathy icon" width="36"> [Homeopathy](skills/B01JBJNCA0)
+
+*Alexa, ask doctor remigio for common cold*
+
+Home made natural remedies for common symptoms.
 
 ***
 
@@ -7980,6 +8044,14 @@ The Huffington Post is a Pulitzer Prize-winning source of news, features, and en
 
 ***
 
+## &nbsp;<img src="skills/B01J8286GU/skill_icon" alt="hugOne icon" width="36"> [hugOne](skills/B01J8286GU)
+
+*Alexa, ask hugOne to tell me the air quality*
+
+Want to be sure that all the family had a good night sleep? Ask Alexa !
+
+***
+
 ## &nbsp;<img src="skills/B01JDR41Z0/skill_icon" alt="human anatomy icon" width="36"> [human anatomy](skills/B01JDR41Z0)
 
 *Alexa, tell human anatomy to start game*
@@ -8001,6 +8073,14 @@ Interesting facts about the human body!  This was built using the template and t
 *Alexa, ask body buddy a fact*
 
 This skill helps you learn some interesting facts about human body.
+
+***
+
+## &nbsp;<img src="skills/B01K8B7UAS/skill_icon" alt="Human Body Geek icon" width="36"> [Human Body Geek](skills/B01K8B7UAS)
+
+*Alexa, launch human body geek.*
+
+Human Body Geek is a daily dose of how awesome the human body is. Just Ask Alexa to launch, and she'll give you one fact about the human body.
 
 ***
 
@@ -8580,6 +8660,14 @@ Jack's Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01K9AHE2M/skill_icon" alt="Japan Facts icon" width="36"> [Japan Facts](skills/B01K9AHE2M)
+
+*Alexa, open japan facts*
+
+Japan Facts
+
+***
+
 ## &nbsp;<img src="skills/B01FNPFJOI/skill_icon" alt="Java Quiz Game icon" width="36"> [Java Quiz Game](skills/B01FNPFJOI)
 
 *Alexa, open java quiz*
@@ -8787,6 +8875,14 @@ As the name suggest this game consists of quiz about how well you know your coun
 *Alexa launch cricket games and start game*
 
 Test your Cricket knowledge
+
+***
+
+## &nbsp;<img src="skills/B01J4OBZ1K/skill_icon" alt="Korean Air icon" width="36"> [Korean Air](skills/B01J4OBZ1K)
+
+*Alexa, ask Korean Air*
+
+Get flight status for any Korean Air flight.
 
 ***
 
@@ -11155,14 +11251,6 @@ Nikola Tesla Trivia
 
 ***
 
-## &nbsp;<img src="skills/B01DE6PG9Q/skill_icon" alt="NJ Transit Train Schedule icon" width="36"> [NJ Transit Train Schedule](skills/B01DE6PG9Q)
-
-*Alexa ask NJ Transit train when is the next train from New York to Newark Airport*
-
-Get information on your NJ Transit Train. Current version will give information about next train from one station to another Station.
-
-***
-
 ## &nbsp;<img src="skills/B01DLNW2AS/skill_icon" alt="NJMyBusSchedule icon" width="36"> [NJMyBusSchedule](skills/B01DLNW2AS)
 
 *Alexa, ask new jersey bus when is the next bus one eight two for bus stop one two four one four*
@@ -11408,6 +11496,14 @@ OEIS: The On-Line Encyclopedia of Integer Sequences
 *Alexa ask office assistant*
 
 Office Assistant Skill:-This aims at providing facility to find Mobile Number of Client
+
+***
+
+## &nbsp;<img src="skills/B01K6GETXQ/skill_icon" alt="Office Friends Trivia icon" width="36"> [Office Friends Trivia](skills/B01K6GETXQ)
+
+*Alexa, ask Office Friends Trivia to start new game*
+
+Test your knowledge of the The Office (US version) TV series with Office Friends Trivia.
 
 ***
 
@@ -13122,6 +13218,14 @@ Relationary is a fun, fast-paced multiplayer word association game that keeps yo
 
 ***
 
+## &nbsp;<img src="skills/B01K4BU6KI/skill_icon" alt="relationshipQuotes icon" width="36"> [relationshipQuotes](skills/B01K4BU6KI)
+
+*Alexa, ask relationship quotes to tell me about good relationships.*
+
+relationshipQuotes
+
+***
+
 ## &nbsp;<img src="skills/B01FH67HDE/skill_icon" alt="Remember The Milk icon" width="36"> [Remember The Milk](skills/B01FH67HDE)
 
 *Alexa, ask Remember The Milk what's due today.*
@@ -14337,6 +14441,14 @@ Learn the solar system planets with this fun flash cards skill! You will be aske
 
 ***
 
+## &nbsp;<img src="skills/B01K9DH1GS/skill_icon" alt="SolarFacts icon" width="36"> [SolarFacts](skills/B01K9DH1GS)
+
+*Alexa, ask SolarFacts to give me a fact*
+
+Solar Energy Facts
+
+***
+
 ## &nbsp;<img src="skills/B01H9O2QPG/skill_icon" alt="SongTranslator icon" width="36"> [SongTranslator](skills/B01H9O2QPG)
 
 *Alexa, start Song Translator*
@@ -14822,6 +14934,14 @@ Learn the state captials
 *Alexa state capitals*
 
 Multiple choice state capitals quiz
+
+***
+
+## &nbsp;<img src="skills/B01K5XUCFE/skill_icon" alt="State Capitals Quiz icon" width="36"> [State Capitals Quiz](skills/B01K5XUCFE)
+
+*Alexa Launch State Capitals Quiz*
+
+Quiz yourself on U.S. state capitals to memorize all of them!
 
 ***
 
@@ -17179,6 +17299,14 @@ I am FULL of absolutely useless information. Astound your friends with useless f
 
 ***
 
+## &nbsp;<img src="skills/B01JHO3WX6/skill_icon" alt="USPopulation icon" width="36"> [USPopulation](skills/B01JHO3WX6)
+
+*Alexa, ask U.S. Population today*
+
+US Population
+
+***
+
 ## &nbsp;<img src="skills/B01DWXGIR0/skill_icon" alt="Utah.Gov icon" width="36"> [Utah.Gov](skills/B01DWXGIR0)
 
 *Alexa, open Utah.gov*
@@ -17962,6 +18090,14 @@ Learn simple World Cup facts.
 *Alexa, start soccer trivia*
 
 Test your  knowledge of soccer with a series of questions around the world cup and soccer players
+
+***
+
+## &nbsp;<img src="skills/B01K3U5B8W/skill_icon" alt="World Currencies icon" width="36"> [World Currencies](skills/B01K3U5B8W)
+
+*Alexa, ask world currencies to start game*
+
+Trivia skill for world currencies.
 
 ***
 
