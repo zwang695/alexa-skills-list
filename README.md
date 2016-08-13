@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2307
+**Total Skills Available:** 2310
 
 ***
 
@@ -2530,6 +2530,14 @@ A short little question game to get to know more about Brandify.
 
 ***
 
+## &nbsp;<img src="skills/B01K4U8BQA/skill_icon" alt="Breathe icon" width="36"> [Breathe](skills/B01K4U8BQA)
+
+*Alexa, start deep breathing*
+
+Breathe is a breathing coach for Alexa
+
+***
+
 ## &nbsp;<img src="skills/B01HAKRFR8/skill_icon" alt="Brewers Table icon" width="36"> [Brewers Table](skills/B01HAKRFR8)
 
 *Alexa, ask brewers table what goes with Kolsh*
@@ -3032,6 +3040,14 @@ This skill provides a random fun fact about cats.
 *Alexa, ask cat facts to tell me a cat fact*
 
 Cat Facts
+
+***
+
+## &nbsp;<img src="skills/B01KBM3E54/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01KBM3E54)
+
+*Alexa, start super awesome cat facts*
+
+Interesting Cat Facts
 
 ***
 
@@ -13878,6 +13894,14 @@ Scryb makes it easy for anyone to send a text message hands-free from home, or w
 *Alexa, ask Space Geek for a scuba fact*
 
 SCUBA trivia list based on the Space Geek Fact Skill
+
+***
+
+## &nbsp;<img src="skills/B01K8BDUAC/skill_icon" alt="Scuba Facts icon" width="36"> [Scuba Facts](skills/B01K8BDUAC)
+
+*Alexa, ask scuba facts to tell me a scuba fact*
+
+Facts about scuba diving
 
 ***
 

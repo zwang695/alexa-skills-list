@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Art Quiz icon" width="36"> [Art Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.9bdc5361-3e71-4e7f-b066-50d38d66538f)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Art Quiz skill, try saying...
 
