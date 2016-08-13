@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2296
+**Total Skills Available:** 2307
 
 ***
 
@@ -2314,6 +2314,14 @@ A Skill that provides a random bodybuilding fact.
 
 ***
 
+## &nbsp;<img src="skills/B01K8EN88I/skill_icon" alt="BodybuildingFacts icon" width="36"> [BodybuildingFacts](skills/B01K8EN88I)
+
+*Alexa, open Bodybuilding Facts*
+
+Bodybuilding Facts
+
+***
+
 ## &nbsp;<img src="skills/B01GDD9W92/skill_icon" alt="BodyGeek icon" width="36"> [BodyGeek](skills/B01GDD9W92)
 
 *Alexa, open Body Geek*
@@ -3016,6 +3024,14 @@ Gives a random assortment of facts about cats
 *Alexa, start Cat Facts*
 
 This skill provides a random fun fact about cats.
+
+***
+
+## &nbsp;<img src="skills/B01K8HUCJI/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01K8HUCJI)
+
+*Alexa, ask cat facts to tell me a cat fact*
+
+Cat Facts
 
 ***
 
@@ -7171,6 +7187,14 @@ A music quiz inspired by D.J. Dennis Bartel on KUSC Los Angeles about the Great 
 
 ***
 
+## &nbsp;<img src="skills/B01K6NK2TO/skill_icon" alt="Great Grand Parent Tips icon" width="36"> [Great Grand Parent Tips](skills/B01K6NK2TO)
+
+*Alexa, tell Great Grand Parent Tips to tell me a tip*
+
+Great Grand Parenting Tips
+
+***
+
 ## &nbsp;<img src="skills/B01COTHDSG/skill_icon" alt="Greatest Common Divisor (GCD) icon" width="36"> [Greatest Common Divisor (GCD)](skills/B01COTHDSG)
 
 *Alexa, open G. C. D.*
@@ -7760,6 +7784,14 @@ Gives List of Hikes in Bay Area
 *'Alexa, open teacher zero seven'*
 
 This is an app called Teacher Zero Seven. It's a small trivia game that tests your skill about your knowledge of Bulawayo Polytechnic
+
+***
+
+## &nbsp;<img src="skills/B01KBJYPPK/skill_icon" alt="Hip Hop Facts icon" width="36"> [Hip Hop Facts](skills/B01KBJYPPK)
+
+*Alexa, start hip-hop facts*
+
+Skill that provides users with hip-hop facts
 
 ***
 
@@ -11475,6 +11507,14 @@ Ask me New York City subway status.
 
 ***
 
+## &nbsp;<img src="skills/B01KBMIIEQ/skill_icon" alt="Oakland Facts icon" width="36"> [Oakland Facts](skills/B01KBMIIEQ)
+
+*Alexa, open oakland facts*
+
+50 Facts about Beautiful City of Oakland, California
+
+***
+
 ## &nbsp;<img src="skills/B01FR8XLP0/skill_icon" alt="object oriented programming trivia icon" width="36"> [object oriented programming trivia](skills/B01FR8XLP0)
 
 *Alexa, Start Object Oriented trivia*
@@ -11488,6 +11528,14 @@ Interesting fact of Object Oriented Programing
 *Alexa, ask Oh See Transpo when is the next route 95 at halt 3047*
 
 OC Transpo
+
+***
+
+## &nbsp;<img src="skills/B01KBL88RE/skill_icon" alt="Ocean Facts icon" width="36"> [Ocean Facts](skills/B01KBL88RE)
+
+*Alexa, start ocean facts*
+
+A skill to provide users with various facts about the ocean.
 
 ***
 
@@ -12985,6 +13033,14 @@ Get quick facts about the Philadelphia Flyers.
 
 ***
 
+## &nbsp;<img src="skills/B01KBPU5NK/skill_icon" alt="Random Fun Facts icon" width="36"> [Random Fun Facts](skills/B01KBPU5NK)
+
+*Alexa, open random fun facts*
+
+Random Fun Facts
+
+***
+
 ## &nbsp;<img src="skills/B01G4T8TQW/skill_icon" alt="random jokes icon" width="36"> [random jokes](skills/B01G4T8TQW)
 
 *Alexa, launch random jokes*
@@ -13014,6 +13070,14 @@ Ask for a random number between 1 and 100
 *Alexa ask random number trivia to tell me trivia*
 
 Gives random number trivia
+
+***
+
+## &nbsp;<img src="skills/B01K9MZ8LY/skill_icon" alt="Random NYC Museum icon" width="36"> [Random NYC Museum](skills/B01K9MZ8LY)
+
+*Alexa, tell random n. y. c. museum to choose me a museum*
+
+Random NYC Museum
 
 ***
 
@@ -14209,6 +14273,14 @@ Single Quote is an app for retrieving quote information on most widely traded eq
 *Alexa, open sir knocks a lot*
 
 Sir Knocks A Lot's favorite knock knock jokes!
+
+***
+
+## &nbsp;<img src="skills/B01K6LIBEO/skill_icon" alt="Sit Family Facts icon" width="36"> [Sit Family Facts](skills/B01K6LIBEO)
+
+*Alexa ask Sit Family Facts for a fact*
+
+Facts about the Sit Family
 
 ***
 
@@ -15573,9 +15645,9 @@ Test your knowledge of Tennessee Vols Football with this fun trivia game.
 
 ## &nbsp;<img src="skills/B01HNM3OX2/skill_icon" alt="Tennis Anyone Tennis Scores icon" width="36"> [Tennis Anyone Tennis Scores](skills/B01HNM3OX2)
 
-*Alexa ask Tennis Anyone did Roger Federer win today*
+*Alexa ask Tennis Anyone is Novak Djokovic playing*
 
-Tennis Anyone knows all of today's tennis scores. For example: is Federer playing a match today?
+Tennis Anyone knows all the latest tennis scores. Just name your favorite tennis player and hear details about their current, future or most recent match.
 
 ***
 
@@ -15616,6 +15688,14 @@ IQ tests can be a useful tool to assess your intellect and problem-solving skill
 *Alexa, open Texas Facts*
 
 Learn facts about Texas and about its history!
+
+***
+
+## &nbsp;<img src="skills/B01JTK5JRK/skill_icon" alt="The annoying parrot icon" width="36"> [The annoying parrot](skills/B01JTK5JRK)
+
+*Alexa, start the annoying parrot*
+
+A simple skill that just repeats what the user says. Quick fun.
 
 ***
 
@@ -18355,6 +18435,14 @@ Trivia game for the 1988 Eddie Murphy Class movie, Coming to America.
 *Alexa, ask ZenMaster for a koan*
 
 ZenMaster tells you a koan that will help you practice meditation.
+
+***
+
+## &nbsp;<img src="skills/B01ICJG568/skill_icon" alt="Zika Health Facts icon" width="36"> [Zika Health Facts](skills/B01ICJG568)
+
+*Alexa, ask Zika Health to tell me a fact.*
+
+Zika Health Facts: Get information on Zika for your health and safety
 
 ***
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Damn Girl icon" width="36"> [Damn Girl](http://alexa.amazon.com/#skills/amzn1.ask.skill.434b94a9-39f1-4a7a-ab4e-7dac61c58dd6)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Damn Girl skill, try saying...
 

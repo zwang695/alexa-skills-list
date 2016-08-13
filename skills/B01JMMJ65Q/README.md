@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Soothing Lies icon" width="36"> [Soothing Lies](http://alexa.amazon.com/#skills/amzn1.ask.skill.5d250ec2-e87c-4062-9e90-64293f1d8fed)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Soothing Lies skill, try saying...
 

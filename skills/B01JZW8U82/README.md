@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="my Trivia icon" width="36"> [my Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.98d36fc8-c8b8-498a-83fb-bd326f7fbc58)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the my Trivia skill, try saying...
 

@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Wondering if Roger Federer or your favorite tennis player are playing today? Just ask Tennis Anyone.\n\nFor example, ask \"is Novak Djokovic playing today?\" and Tennis Anyone will reply with full match information including opponent, tournament name, result and final or latest score.  Nicknames of top players are supported too, so you can ask about Rafa, Roger, Nole or Serena. \n\nTry asking: \n\n\"Did Serena win today?\"\n\"Is Rafa playing today?\"\n\nTennis Anyone will reply with full match information, for example: \n\nYes! Venus Williams beat Donna Vekic at the 2016 Wimbledon Championships, WTA Women's singles and the score was  7 6, 6 4\n\nScores for the top 200 women and men players are available at all times.",
+  "description": "Wondering when your favorite tennis player is playing? Just ask Tennis Anyone and Alexa will reply with  current, future or recent match informations. Tennis Anyone can also give you schedules and the latest scores of matches in progress. \n\nFor example, ask \"is Novak Djokovic playing?\"  \n\nTennis Anyone will reply with full match information: \"Djokovic is not playing today or tomorrow. In his last match  Djokovic lost to Del Potro on 2016-08-07 in the 2016 Summer Olympics Summer Olympics and the score was  6-7 6-7\"\n\nOr ask \"Who's playing today?\" and Tennis Anyone will give you a list of current tournaments and the option to hear to the schedule of play for each tournament. \n\nNicknames of top players are supported too, so you can ask about Rafa, Roger, Nole or Serena.  \n\nScores of in progress matches are also available, so you can use Tennis Anyone to check up on how your favorite playing is doing in their current match. For example, ask \"Is Nadal winning\" and the skill will return the latest match information including latest score, if the match is in progress.\n\nSay \"Schedule\" and the skill will return with the list of current tournaments and give you the option to select a tournament and hear the schedule of matches.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa ask Tennis Anyone did Roger Federer win today",
-    "Is Serena playing today",
-    "did Novak Djokovic win today"
+    "Alexa ask Tennis Anyone is Novak Djokovic playing",
+    "Who's playing today",
+    "when did Nadal play"
   ],
   "firstReleaseDate": 1468322865.559,
   "homepageLinkText": null,
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://alexa.tzannes.net/privacy",
-  "shortDescription": "Tennis Anyone knows all of today's tennis scores. For example: is Federer playing a match today?",
+  "shortDescription": "Tennis Anyone knows all the latest tennis scores. Just name your favorite tennis player and hear details about their current, future or most recent match.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": "",

@@ -3,26 +3,25 @@
 
 To use the Tennis Anyone Tennis Scores skill, try saying...
 
-* *Alexa ask Tennis Anyone did Roger Federer win today*
+* *Alexa ask Tennis Anyone is Novak Djokovic playing*
 
-* *Is Serena playing today*
+* *Who's playing today*
 
-* *did Novak Djokovic win today*
+* *when did Nadal play*
 
-Wondering if Roger Federer or your favorite tennis player are playing today? Just ask Tennis Anyone.
+Wondering when your favorite tennis player is playing? Just ask Tennis Anyone and Alexa will reply with  current, future or recent match informations. Tennis Anyone can also give you schedules and the latest scores of matches in progress. 
 
-For example, ask "is Novak Djokovic playing today?" and Tennis Anyone will reply with full match information including opponent, tournament name, result and final or latest score.  Nicknames of top players are supported too, so you can ask about Rafa, Roger, Nole or Serena. 
+For example, ask "is Novak Djokovic playing?"  
 
-Try asking: 
+Tennis Anyone will reply with full match information: "Djokovic is not playing today or tomorrow. In his last match  Djokovic lost to Del Potro on 2016-08-07 in the 2016 Summer Olympics Summer Olympics and the score was  6-7 6-7"
 
-"Did Serena win today?"
-"Is Rafa playing today?"
+Or ask "Who's playing today?" and Tennis Anyone will give you a list of current tournaments and the option to hear to the schedule of play for each tournament. 
 
-Tennis Anyone will reply with full match information, for example: 
+Nicknames of top players are supported too, so you can ask about Rafa, Roger, Nole or Serena.  
 
-Yes! Venus Williams beat Donna Vekic at the 2016 Wimbledon Championships, WTA Women's singles and the score was  7 6, 6 4
+Scores of in progress matches are also available, so you can use Tennis Anyone to check up on how your favorite playing is doing in their current match. For example, ask "Is Nadal winning" and the skill will return the latest match information including latest score, if the match is in progress.
 
-Scores for the top 200 women and men players are available at all times.
+Say "Schedule" and the skill will return with the list of current tournaments and give you the option to select a tournament and hear the schedule of matches.
 
 ***
 

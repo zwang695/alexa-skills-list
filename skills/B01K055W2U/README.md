@@ -11,7 +11,7 @@ To use the Marvee skill, try saying...
 
 Note: Link your Marvee account to Alexa to start using Marvee. Send an "I'm OK" notification, let a loved one know to give you a call, or stay up to date with the latest family buzz.
 
-Important: You'll need to be sure you have added contacts to your Marvee account and chosen the method for notifications (text, email or both). And don't forget to invite folks to your family group!
+Important: You'll need to be sure you have added contacts to your Marvee account and chosen the method for notifications (text, email or both). Visit www.askmarvee.com  and don't forget to invite folks to your family news group!  
 
 Marvee gives those hindered by physical limitations (vision, mobility or just typical aging challenges) an easy way to communicate with family and caregivers.
 
