@@ -1,7 +1,7 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2300
+**Total Skills Available:** 2296
 
 ***
 
@@ -1269,14 +1269,6 @@ Aviation Weather METAR's & Flight Rules
 *Alexa, ask Awair about air quality*
 
 Awair tells you about your indoor air quality
-
-***
-
-## &nbsp;<img src="skills/B01GUZ9YSC/skill_icon" alt="Awesome Animal sounds icon" width="36"> [Awesome Animal sounds](skills/B01GUZ9YSC)
-
-*Alexa, awesome animal sounds*
-
-Awesome animal sounds
 
 ***
 
@@ -6578,14 +6570,6 @@ Evaluate your level of Frenchness with this très simple trivia quiz. How well d
 
 ***
 
-## &nbsp;<img src="skills/B01EIWC7AG/skill_icon" alt="Fresh Music icon" width="36"> [Fresh Music](skills/B01EIWC7AG)
-
-*Alexa play Fresh Music*
-
-Discover Fresh Music from around the world
-
-***
-
 ## &nbsp;<img src="skills/B01HQW7016/skill_icon" alt="FridgeStorageTimesHelper icon" width="36"> [FridgeStorageTimesHelper](skills/B01HQW7016)
 
 *Alexa ask fridge storage times how long can I keep a steak*
@@ -11835,15 +11819,6 @@ Plays a musical note for you to identify.
 
 ***
 
-## &nbsp;<img src="skills/B01DDKHCZE/skill_icon" alt="Period Tracker icon" width="36"> [Period Tracker](skills/B01DDKHCZE)
-
-*Alexa, open Period Tracker*
-
-Helps women keep track of their menstrual cycle for a better family planning.
-Based on the Standard Days Method by Georgetown University.
-
-***
-
 ## &nbsp;<img src="skills/B01HNN8ONQ/skill_icon" alt="Periodic Table icon" width="36"> [Periodic Table](skills/B01HNN8ONQ)
 
 *Alexa ask simple periodic table*
@@ -14950,14 +14925,6 @@ quiz that test how well a person knows the capitals of states
 *Alexa, ask State Capitals  to start game*
 
 Capitols of some states in USA game
-
-***
-
-## &nbsp;<img src="skills/B01I79C46S/skill_icon" alt="State Capitals icon" width="36"> [State Capitals](skills/B01I79C46S)
-
-*Alexa, open state capitals.*
-
-Learn state capitals.
 
 ***
 

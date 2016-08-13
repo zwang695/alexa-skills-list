@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Dungeon Adventure icon" width="36"> [Dungeon Adventure](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.83c405e9-0b21-45e7-a10e-5905632e5d24)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Dungeon Adventure skill, try saying...
 

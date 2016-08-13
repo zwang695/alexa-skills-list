@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019G0M2WS",
-  "averageRating": 2.8,
+  "averageRating": 2.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "jeopardy",
   "name": "Jeopardy! J6",
-  "numberOfReviews": 145,
+  "numberOfReviews": 146,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.sonypictures.com/corp/privacy.html",
