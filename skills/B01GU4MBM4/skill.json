@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01GU4MBM4",
-  "averageRating": 3.2,
+  "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": true,
   "launchPhrase": "big sky",
   "name": "Big Sky",
-  "numberOfReviews": 69,
+  "numberOfReviews": 70,
   "pamsPartnerId": "PwzcBTHy7xkGz7Iv3f7i2dnDM",
   "permissions": null,
   "privacyPolicyUrl": "http://sarkonovich-2.elasticbeanstalk.com/privacy",

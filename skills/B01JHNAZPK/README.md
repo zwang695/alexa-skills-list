@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Toddler Trivia! icon" width="36"> [Toddler Trivia!](http://alexa.amazon.com/#skills/amzn1.ask.skill.8a9521da-d6b8-4c17-8e90-eed1da8dd9a8)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Toddler Trivia! skill, try saying...
 
