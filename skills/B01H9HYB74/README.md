@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Buddha Quotes icon" width="36"> [Buddha Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4aba7eb0-fc36-409d-9e11-8075926e8566)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Buddha Quotes skill, try saying...
 
