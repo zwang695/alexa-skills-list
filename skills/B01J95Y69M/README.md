@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Pet Care Tips icon" width="36"> [Pet Care Tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.14ece15f-c106-457c-98b8-420fc7789a4f)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Pet Care Tips skill, try saying...
 

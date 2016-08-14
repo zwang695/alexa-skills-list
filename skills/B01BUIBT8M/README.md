@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="PIckup Lines icon" width="36"> [PIckup Lines](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9dde36dd-4689-451f-8d80-5843e57d5dac)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 171
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 173
 
 To use the PIckup Lines skill, try saying...
 

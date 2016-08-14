@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B017YAF22Y",
-  "averageRating": 3.6,
+  "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my buddy",
   "name": "Ask My Buddy",
-  "numberOfReviews": 41,
+  "numberOfReviews": 42,
   "pamsPartnerId": "t4SV54Wu6me9EmYLE3Wabrgpf",
   "permissions": null,
   "privacyPolicyUrl": "http://www.askmybuddy.net/privacy.html",
