@@ -5,7 +5,7 @@
     "order.dominos.com"
   ],
   "asin": "B01B5G99CC",
-  "averageRating": 3.1,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -25,7 +25,7 @@
   "inAppPurchasingSupported": true,
   "launchPhrase": "dominos",
   "name": "Domino's Pizza",
-  "numberOfReviews": 37,
+  "numberOfReviews": 38,
   "pamsPartnerId": "QCs8EJvjzgFhEWdeaFBWvwgWs",
   "permissions": null,
   "privacyPolicyUrl": "https://www.dominos.com/en/#/content/privacy/",

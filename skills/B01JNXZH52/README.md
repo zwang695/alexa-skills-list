@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Capital Cities Trivia icon" width="36"> [Capital Cities Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.59c6a30a-b29c-446b-beb4-b90c4daae73e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Capital Cities Trivia skill, try saying...
 

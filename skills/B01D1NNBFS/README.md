@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Name Nerd icon" width="36"> [Name Nerd](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f89e2a23-35c3-4152-b246-7c4c5cf40b7f)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Name Nerd skill, try saying...
 
