@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Taco Facts icon" width="36"> [Taco Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0a347787-81c0-4aa6-ad0d-4955c736dc4d)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Taco Facts skill, try saying...
 

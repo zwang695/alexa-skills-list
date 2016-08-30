@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01JGS47LY",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "This skill tells you a random rock and roll history fact.",
+  "description": "This skill tells you a random rock and roll history fact.\n\nDisclaimer: This skill may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Rock Nerd to tell me a fact",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "rock nerd",
   "name": "Rock Nerd",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

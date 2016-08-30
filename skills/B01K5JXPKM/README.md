@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Dog Trivia icon" width="36"> [Dog Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.5fa46ebe-2712-42d4-b9ea-cdbc81a57258)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Dog Trivia skill, try saying...
 

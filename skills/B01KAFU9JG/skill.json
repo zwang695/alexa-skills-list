@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "www.bitdog.io",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com"
+  ],
+  "asin": "B01KAFU9JG",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This Bitdog Voice skill enables you to use voice commands to control and monitor devices connected to your Bitdog.io account. Go to https://bitdog.io/voice to create new commands and questions to be used with your Amazon Echo.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Bitdog Voice for help",
+    "Alexa, ask Bitdog Voice to list all questions",
+    "Alexa, ask Bitdog Voice to list all commands"
+  ],
+  "firstReleaseDate": 1471856859.517,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.c4a3dbaf-d550-47a5-8311-733210aefdb1",
+  "imageAltText": "Bitdog Voice icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01KAFU9JG/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "bitdog voice",
+  "name": "Bitdog Voice",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "QTqzoYCiiHOIMgXJFXi6Vihkb",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.bitdog.io/home/privacy",
+  "shortDescription": "This skill enables you to control and query your Bitdog Z-Wave and other IoT devices.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.bitdog.io/home/terms",
+  "vendorId": "M21V12BFMX5U6I",
+  "vendorName": "Bitdog"
+}

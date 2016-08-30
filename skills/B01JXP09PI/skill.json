@@ -1,0 +1,37 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "alexa.connectedservices.genesismotorsusa.com",
+    "www.genesismotorsusa.com"
+  ],
+  "asin": "B01JXP09PI",
+  "averageRating": 4.1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "The Genesis Skill allows G80 & G90 owners the ability to Remote Start, set the desired interior cabin temperature, Remote Lock/Unlock, and more using Alexa. (Note: The Genesis Skill supports 2015 & 2016 Hyundai Genesis vehicles).\n\n• Log into the skill using your Genesis Connected Services Username and Password. \n• In order to access remote functions you must provide your Connected Services PIN verbally to the Alexa-enabled device. \n\nCAUTION: \n• It is recommended to only use this Skill in a secure and private setting. It is not recommended to use this Skill in the presence of others including children. \n\n• An active Remote Package subscription is required to access the Genesis Skill. \n• To enroll in Genesis Connected Services visit www.GenesisMotorsUSA.com/Owners.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell Genesis to start my G90 and set the temperature to 72 degrees.",
+    "Alexa, Tell Genesis to lock my G80.",
+    "Alexa, Tell Genesis to flash the lights of my G90."
+  ],
+  "firstReleaseDate": 1471474354.321,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.0309a295-2b96-4d22-b38e-d80c4b5530ba",
+  "imageAltText": "Genesis icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01JXP09PI/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "genesis",
+  "name": "Genesis",
+  "numberOfReviews": 12,
+  "pamsPartnerId": "7WNXagEAlfPdmlkiszla4uyOj",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.genesismotorsusa.com/connectedservices-privacy-policy.html",
+  "shortDescription": "The Genesis Skill allows G80 & G90 owners the ability to Remote Start, set the desired interior cabin temperature, Remote Lock/Unlock, and more using Alexa.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.genesismotorsusa.com/connectedservices-terms-condition.html",
+  "vendorId": "MHGQ0QZF8ZSXW",
+  "vendorName": "Genesis Motors USA"
+}

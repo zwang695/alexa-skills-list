@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Good House Keeping icon" width="36"> [Good House Keeping](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c5a968ef-4a29-448d-985a-bb620c8ebb4b)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Good House Keeping skill, try saying...
 

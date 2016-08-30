@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="OpenX icon" width="36"> [OpenX](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.57a87c6d-edb3-4523-ab56-a97e6be53327)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the OpenX skill, try saying...
 

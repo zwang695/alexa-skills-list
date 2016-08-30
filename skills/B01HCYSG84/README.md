@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="null" width="36"> [OSRAM LIGHTIFY](http://alexa.amazon.com/#skills/amzn1.ask.skill.d4cd8bb8-91d3-4a66-9960-5ccb4b3a92bb)
-![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 null
 

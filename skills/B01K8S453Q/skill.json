@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "vin.li"
+  ],
+  "asin": "B01K8S453Q",
+  "averageRating": 2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Amazon Alexa and Vinli are here to make interacting with your Vinli-powered smart car easier. Getting information about previous trips, vehicle location, and car mileage is now one question away. You can also find out if you need to fuel up or if your car is in good health too! With Alexa and Vinli by your side, the open road is yours to take.\n\nThis skill requires a Vinli adaptor and account.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Ask Vinli for information about my last trip",
+    "Tell Vinli to give me my driving score",
+    "Ask Vinli for the location of my car"
+  ],
+  "firstReleaseDate": 1471936738.14,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.0d3eefb5-012a-4e20-858c-8c4f936969d8",
+  "imageAltText": "Vinli icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01K8S453Q/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "vinli",
+  "name": "Vinli",
+  "numberOfReviews": 2,
+  "pamsPartnerId": "JAW5DZ9K7xb2pa5MbWlFVhDfp",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.vin.li/privacy",
+  "shortDescription": "Alexa and Vinli are making interactions with your smart car easier. Get information about previous trips, vehicle location, and more with a simple question!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.vin.li/terms-conditions",
+  "vendorId": "M3KLHCDKVDTRAX",
+  "vendorName": "Vinli"
+}

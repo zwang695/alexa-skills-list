@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BH31OZI",
-  "averageRating": 2.8,
+  "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "happy birthday",
   "name": "Happy Birthday",
-  "numberOfReviews": 13,
+  "numberOfReviews": 14,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

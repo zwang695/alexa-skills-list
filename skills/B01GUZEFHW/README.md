@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Animal sounds quiz icon" width="36"> [Animal sounds quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4b5e557b-645a-4517-8828-fb654fc98ab1)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Animal sounds quiz skill, try saying...
 

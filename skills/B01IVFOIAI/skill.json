@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01IVFOIAI",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1471642674.711,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.6c61fd5a-c11c-46ae-acf1-2f2aba40dcf4",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01IVFOIAI/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "WiZN Systems Private Limited",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "6A3k7K781zhdacZvEuLYdd48s",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3H8UFO5MWPJV9",
+  "vendorName": "WiZN Systems Private Limited"
+}

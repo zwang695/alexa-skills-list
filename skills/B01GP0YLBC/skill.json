@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Bringing the wisdom of Kanye West to the interwebs via Echo. Satirical Alexa Skill that pulls from some of Kanye's more inspired quotes.",
+  "description": "Bringing the wisdom of Kanye West to the interwebs via Echo. Satirical Alexa Skill that pulls from some of Kanye's more inspired quotes.\n\nThis skill may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa ask Yeezy Thoughts for a deep thought",

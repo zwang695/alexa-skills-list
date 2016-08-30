@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Insult Sword Fighter icon" width="36"> [Insult Sword Fighter](http://alexa.amazon.com/#skills/amzn1.ask.skill.f55c22b5-1f98-4b2a-b268-67d374733175)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Insult Sword Fighter skill, try saying...
 

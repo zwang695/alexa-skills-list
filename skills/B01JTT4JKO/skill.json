@@ -1,14 +1,14 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01JTT4JKO",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
   "description": "Are you thinking about getting a pet? Answer a few short questions and let Pick My Pet determine the right choice for you.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, open Pet Picks",
+    "Alexa, open pet picks",
     "",
     ""
   ],
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "pet picks",
   "name": "Pick My Pet",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

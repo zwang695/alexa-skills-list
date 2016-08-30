@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Grilling Time And Heat Settings icon" width="36"> [Grilling Time And Heat Settings](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.68a89f59-85f8-4c39-ab8a-938560ff9683)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Grilling Time And Heat Settings skill, try saying...
 

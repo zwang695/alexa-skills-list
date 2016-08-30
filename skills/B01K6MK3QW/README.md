@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="North Wales Facts icon" width="36"> [North Wales Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.528ee336-708f-4e27-9359-604a28d4c529)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the North Wales Facts skill, try saying...
 

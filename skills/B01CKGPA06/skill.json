@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01CKGPA06",
-  "averageRating": 3,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "muzzley",
   "name": "Muzzley",
-  "numberOfReviews": 2,
+  "numberOfReviews": 4,
   "pamsPartnerId": "8K4qs7OwV8baOURBrvztkcnm6",
   "permissions": null,
   "privacyPolicyUrl": "https://www.muzzley.com/privacy",

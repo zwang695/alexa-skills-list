@@ -3,13 +3,13 @@
 
 To use the The Arlen Bystander skill, try saying...
 
-* *Alexa, ask the Arlen Bystander to give me an episode from season one.*
+* *Alexa, ask the Arlen Bystander to give me an episode with Bobby from season one.*
 
 * *What's an episode from season three?*
 
-* *Find me an episode from season thirteen.*
+* *Find me an episode featuring Boomhauer.*
 
-With the Arlen Bystander skill, Alexa knows all thirteen seasons of the television series King of the Hill. Ask for an episode from a particular season, and Alexa will pick one at random. The episode title, number, and description are provided.
+With the Arlen Bystander skill, Alexa knows all thirteen seasons of the television series King of the Hill. Ask for an episode and Alexa will pick one at random, providing an episode title, number, and description. You can even ask for an episode featuring a particular character or from a specific season.
 
 ***
 

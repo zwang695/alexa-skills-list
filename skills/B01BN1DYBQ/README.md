@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="1-Minute Mindfulness icon" width="36"> [1-Minute Mindfulness](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d5cd74c4-4884-41fe-a8af-d9330a2fd53e)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 47
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 306
 
 To use the 1-Minute Mindfulness skill, try saying...
 
@@ -8,6 +8,11 @@ To use the 1-Minute Mindfulness skill, try saying...
 * *Alexa, Ask Mindfulness for a forest meditation.*
 
 * *Alexa, Ask Mindfulness for a peaceful meditation.*
+
+**********************************************
+Dear Customers, Due to an issue on August 19th, the 1-Minute Mindfulness skill was unavailable for usage and as a result, many customers may have experienced difficulties accessing the skill.  The issue was temporary and we encourage you to try out the skill again.—The Amazon Alexa Team
+**********************************************
+Note: The Alexa Voice Service limits the amount of audio that can be played back to 90 seconds, hence this skill only supports 1 minute today. GOOD NEWS: we are preparing for an update in the coming weeks that will allow for you to request a 3, 5, 10, 15, or 30 minute meditation! Stay Tuned for that update!
 
 1-Minute Mindfulness from Walking Affirmations is a skill that allows you to take a break from the world around you and enter into a one minute sound meditation. Practicing mindfulness improves both mental and physical health. Mindfulness involves both concentration (a form of meditation) and acceptance. Many people struggle with how to begin meditating and get the rewards of a more contemplative life, so this skill is the perfect way to start a meditation practice. You can change your life, and change the world... one minute at a time. 
 
@@ -22,8 +27,6 @@ Here are some examples of what you can say:
 "Alexa Open Mindfulness and Ask for a peaceful meditation"
 "Alexa Open Mindfulness and Ask for a river meditation"
 "Alexa Open Mindfulness and Ask for a forest meditation"
-
-You can also use the example phrases below as your guide. For more information about affirmations, meditations and mindfulness, visit walkingaffirmations.com
 
 ***
 

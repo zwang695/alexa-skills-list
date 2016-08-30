@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Hide and Seek icon" width="36"> [Hide and Seek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c9da01ef-efda-4591-a4d3-0a1b9fcf7fff)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Hide and Seek skill, try saying...
 

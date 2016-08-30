@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Everything Trivia Game icon" width="36"> [Everything Trivia Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd83b3fe-cab6-4bfd-a681-35c450758654)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Everything Trivia Game skill, try saying...
 

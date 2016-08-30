@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Rock Nerd icon" width="36"> [Rock Nerd](http://alexa.amazon.com/#skills/amzn1.ask.skill.5cc75c80-3453-47c4-ae2f-7cc7300c5c6c)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Rock Nerd skill, try saying...
 
@@ -10,6 +10,8 @@ To use the Rock Nerd skill, try saying...
 * *Alexa, start Rock Nerd*
 
 This skill tells you a random rock and roll history fact.
+
+Disclaimer: This skill may not be suitable for all ages.
 
 ***
 

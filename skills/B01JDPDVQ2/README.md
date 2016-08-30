@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Funny Engineer icon" width="36"> [Funny Engineer](http://alexa.amazon.com/#skills/amzn1.ask.skill.12affe65-14af-4598-82c7-ec407b9a5a62)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Funny Engineer skill, try saying...
 

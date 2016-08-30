@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01CJPJRDE",
-  "averageRating": 3,
+  "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "This skill returns the next few trains that run from one station to another along the Long Island Railroad (MTA LIRR).  For example, you can say \"Alexa, ask Choo Choo when is the next train from Penn Station to Mineola?\" and Alexa will return the next 3 trains that depart within the next 3 hours.  Now supporting direct station-to-station trips, as well as trips that include a transfer along the way.",
+  "description": "This skill returns the next few trains that run from one station to another along the Long Island Railroad (MTA LIRR).  For example, you can say \"Alexa, ask Choo Choo when is the next train from Penn Station to Mineola?\" and Alexa will return the next 3 trains that depart within the next 3 hours.  Now supporting direct station-to-station trips, as well as trips that include a transfer along the way. Updated to correct error with Mets-Willets Point station.  If you have issues, please fill out the form at this link: https://goo.gl/forms/279wqPN5vpZDyx9m2",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask choo choo, when is the next train from Penn Station to Mineola",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "choo choo",
   "name": "Long Island Train Information",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

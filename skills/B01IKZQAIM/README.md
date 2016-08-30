@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Fido BBS Quote icon" width="36"> [Fido BBS Quote](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6d6d69d2-1d76-46a5-9180-3ae3c6d0eb59)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Fido BBS Quote skill, try saying...
 

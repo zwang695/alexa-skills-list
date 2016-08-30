@@ -5,7 +5,7 @@ To use the Metro North Track skill, try saying...
 
 * *Alexa, ask metro north track i am going from Stamford to Grand Central*
 
-* *Alexa, ask metro north track when's the next train from Darien to New Haven*
+* *Alexa, run metro north track*
 
 * *Alexa, ask metro north track where's my train*
 

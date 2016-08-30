@@ -1,0 +1,26 @@
+# &nbsp;<img src="skill_icon" alt="Lunch Suggestions icon" width="36"> [Lunch Suggestions](http://alexa.amazon.com/#skills/amzn1.ask.skill.717e189e-c499-4bd8-bd8a-a073c1bd7c92)
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+
+To use the Lunch Suggestions skill, try saying...
+
+* *Alexa, ask lunch suggestions for lunch suggestions*
+
+* *Alexa, launch lunch suggestions*
+
+* *Alexa, start lunch suggestions*
+
+Alexa will give lunch suggestions at random.
+
+User can ask "What should I eat for lunch", or "give me a lunch suggestion", or simply "suggestions", and Alexa will provide a random cuisine suggestion.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** lunch suggestions
+* **Category:** null
+* **ID:** amzn1.ask.skill.717e189e-c499-4bd8-bd8a-a073c1bd7c92
+* **ASIN:** B01KF9VPS6
+* **Author:** Carlos Chen
+* **Release Date:** August 17, 2016 @ 01:52:40
+* **In-App Purchasing:** No

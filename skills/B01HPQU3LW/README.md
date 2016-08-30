@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Einstein Quotes icon" width="36"> [Einstein Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.157a59bf-3e0a-4798-b1fc-a9a40b2344b8)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Einstein Quotes skill, try saying...
 

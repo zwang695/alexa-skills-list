@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B018YICXQS",
-  "averageRating": 2.6,
+  "averageRating": 2.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "any mote",
   "name": "AnyMote Smart Remote",
-  "numberOfReviews": 39,
+  "numberOfReviews": 42,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://colortiger.com/remote/terms/",

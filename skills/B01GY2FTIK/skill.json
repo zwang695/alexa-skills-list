@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01GY2FTIK",
-  "averageRating": 4.6,
+  "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the box of cats",
   "name": "Box of Cats",
-  "numberOfReviews": 20,
+  "numberOfReviews": 32,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

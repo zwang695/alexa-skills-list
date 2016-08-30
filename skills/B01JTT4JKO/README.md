@@ -1,9 +1,9 @@
 # &nbsp;<img src="skill_icon" alt="Pick My Pet icon" width="36"> [Pick My Pet](http://alexa.amazon.com/#skills/amzn1.ask.skill.15ae35d0-ebe3-4e08-85b0-aa9d1dee10c6)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Pick My Pet skill, try saying...
 
-* *Alexa, open Pet Picks*
+* *Alexa, open pet picks*
 
 Are you thinking about getting a pet? Answer a few short questions and let Pick My Pet determine the right choice for you.
 

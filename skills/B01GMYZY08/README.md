@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Mini Chef icon" width="36"> [Mini Chef](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d697caf7-a152-47e6-ad58-73c7f7bc65e4)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Mini Chef skill, try saying...
 

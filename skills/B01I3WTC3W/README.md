@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Teach Alexa YOUR RESPONSES - prank your friends! icon" width="36"> [Teach Alexa YOUR RESPONSES - prank your friends!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c088c0a0-95c3-45ba-9ae6-ae8b475d9ede)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 10
+![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 15
 
 To use the Teach Alexa YOUR RESPONSES - prank your friends! skill, try saying...
 

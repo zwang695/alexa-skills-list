@@ -7,9 +7,9 @@ To use the TideGuide skill, try saying...
 
 * *Alexa, ask tide guide for the tides for Seattle for Sunday*
 
-* *Alexa, ask tide guide for the next high tides in Newport Beach*
+* *Alexa, ask tide guide to set my default city and state to Portland, Oregon*
 
-This skill will give the tide report for most locations with a NOAA station along with some popular beaches.  If Tide Guide cannot find your location in the NOAA database it will try to find a location within 100 miles of the specified location.  Some of the supported cities/locations are:
+This skill will give the tide report for most locations with a NOAA station along with some popular beaches.  If Tide Guide cannot find your location in the NOAA database it will try to find a location within 100 miles of the specified location.  It will also allow you to set a default city, state and or country.  Some of the supported cities/locations are:
 
 Seattle
 Portland

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Game Of Trivia icon" width="36"> [Game Of Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.548eb573-4f85-4732-88d0-160ea2b085ca)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Game Of Trivia skill, try saying...
 

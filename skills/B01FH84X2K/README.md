@@ -3,18 +3,23 @@
 
 To use the EV Charging skill, try saying...
 
-* *Alexa, ask JuiceBox for status*
+* *Alexa, ask JuiceBox to get status*
 
-* *Alexa, get voltage from JuiceBox*
+* *Alexa, tell JuiceBox to start charging my car*
 
-* *Alexa, ask JuiceBox for energy*
+* *Alexa, ask JuiceBox how many miles were added to my car*
 
-This skill allows EV drivers to use Amazon Echo family devices to access EV charging statistics from JuiceNet-compatible EV charging devices.
+## About this skill ##
+This skill allows EV drivers to use Amazon Echo family devices to interface with their JuiceNet-compatible EV charging devices.
 
-In order to use this skill, you need a JuiceNet - compatible EV charging device. The list of such devices includes JuiceBox EVSEs and JuicePlug adapters (designed and manufactured by eMotorWerks), Clipper Creek HCS JuiceNet edition, GE WattStation JuiceNet edition, and a growing list of other stations from a variety of manufacturers. For more details and a selection of compatible stations, please visit http://www.eMotorWerks.com. 
+## Requirements ##
+In order to use this skill, you need to own a JuiceNet-compatible EV charging device. This includes: JuiceBox EVSEs and JuicePlug adapters (both designed and manufactured by eMotorWerks), as well as Clipper Creek HCS JuiceNet edition, and a growing list of other charging stations from a variety of manufacturers. For more details and a list of compatible stations, please visit eMotorWerks.com.
 
-About eMotorWerks
-eMotorWerks is a California company specializing on the innovative EV technologies. We are very passionate about electric cars and work hard to accelerate adoption of electric vehicles throughout the world by making EV charging more affordable and more sustainable.
+## About eMotorWerks##
+Electric Motor Werks is a California-based company specializing in innovative EV technologies. We are very passionate about electric cars and work hard on accelerating their adoption around the world by making EV charging more affordable and sustainable.
+
+## Disclaimer ##
+This Alexa skill might not be suitable for those under the age of owning a driving permit and not yet able to own an electric vehicle. It is also unsuitable for those that do not own a JuiceNet-powered charging device.
 
 ***
 

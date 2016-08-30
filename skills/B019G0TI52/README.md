@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Star Wars Quiz icon" width="36"> [Star Wars Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.794047e0-bb14-472c-b7d4-3256336230a3)
-![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 13
+![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the Star Wars Quiz skill, try saying...
 

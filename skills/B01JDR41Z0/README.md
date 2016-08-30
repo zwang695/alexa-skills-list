@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="human anatomy icon" width="36"> [human anatomy](http://alexa.amazon.com/#skills/amzn1.ask.skill.2097b300-8090-4fdc-87ab-752e0e19decd)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the human anatomy skill, try saying...
 

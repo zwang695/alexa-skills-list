@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01J0BMJWG",
-  "averageRating": 0,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Need classic advice on life, love, or money?  Why not ask \"Poor Richard\" aka Benjamin Franklin for a quote from his famous almanac?",
+  "description": "Need classic advice on life, love, or money?  Why not ask \"Poor Richard\" aka Benjamin Franklin for a quote from his famous almanac?\n\nIn the mood for more than one quote?  Ask Alexa to \"open Poor Richard\" and Alexa will give you the option to keep getting quotes.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Poor Richard for a quote",
     "Alexa, ask Poor Richard to give me a quote",
-    "Alexa, ask Poor Richard to get me a quote"
+    "Alexa, open Poor Richard"
   ],
   "firstReleaseDate": 1469789809.37,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "poor richard",
   "name": "Poor Richard's Quotes",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

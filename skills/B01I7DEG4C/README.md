@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="commandBlock icon" width="36"> [commandBlock](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.715a7a3a-edd1-4410-b634-4702e40e1ac0)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the commandBlock skill, try saying...
 

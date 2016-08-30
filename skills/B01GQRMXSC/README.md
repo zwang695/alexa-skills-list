@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Lucky Numbers icon" width="36"> [Lucky Numbers](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fbb83b94-7c04-4b9b-b807-e13a45606d37)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Lucky Numbers skill, try saying...
 

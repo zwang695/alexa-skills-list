@@ -5,11 +5,14 @@ To use the Witlingo skill, try saying...
 
 * *Alexa, ask witlingo for proverbs*
 
-* *Alexa, ask witlingo for shakespeare*
+* *Alexa, ask witlingo for twain*
 
 * *Alexa, open witlingo*
 
-This skill recites Shakespeare quotes and various famous proverbs, spoken by a pleasant male British voice artist.   The skill is a great way to become familiar with, and to start learning and memorizing, such quotes and proverbs.
+**********Update August 22, 2016 *******************
+Quotes from Mark Twain read by a professional voice actor are now available.
+*********************************************************
+This skill recites Shakespeare quotes and various famous proverbs, spoken by a pleasant male British voice artist. This skill now also recites quotes from Mark Twain spoken by a gentleman with a Southern accent. The skill is a great way to become familiar with, and to start learning and memorizing, such quotes and proverbs.
 
 ***
 

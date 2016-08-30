@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Gospel Library Reader icon" width="36"> [Gospel Library Reader](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d47a0965-7594-49d2-aafb-fa90100609df)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Gospel Library Reader skill, try saying...
 

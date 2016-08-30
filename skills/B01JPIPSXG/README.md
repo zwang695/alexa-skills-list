@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Carpool Helper icon" width="36"> [Carpool Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.64717286-f019-44e9-b36e-79f65bc694ba)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Carpool Helper skill, try saying...
 

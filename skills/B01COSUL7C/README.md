@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="FirstaidEgghead icon" width="36"> [FirstaidEgghead](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5122fc05-ce5f-4d6a-9f17-094da9867381)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the FirstaidEgghead skill, try saying...
 

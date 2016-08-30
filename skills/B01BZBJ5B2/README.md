@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="USA Today icon" width="36"> [USA Today](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1ec023fd-0949-4184-b2a7-506812b21898)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the USA Today skill, try saying...
 

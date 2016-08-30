@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Pope Francis Trivia icon" width="36"> [Pope Francis Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5cd37b70-74f1-414e-b74a-4e49a2a9873e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Pope Francis Trivia skill, try saying...
 

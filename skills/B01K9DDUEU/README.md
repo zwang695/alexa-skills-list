@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Cooking Tips icon" width="36"> [Cooking Tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.374904d3-f7c0-4aa1-b68b-ae0d362b30ee)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Cooking Tips skill, try saying...
 

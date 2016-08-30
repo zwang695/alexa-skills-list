@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Old MacDonald icon" width="36"> [Old MacDonald](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.aa51813f-1672-4104-909e-331cd6d4779e)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Old MacDonald skill, try saying...
 

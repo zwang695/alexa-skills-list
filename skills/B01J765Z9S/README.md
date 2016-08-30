@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Viral Report icon" width="36"> [Viral Report](http://alexa.amazon.com/#skills/amzn1.ask.skill.7c076f70-156d-4d2c-8a37-53e7d0498c28)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Viral Report skill, try saying...
 

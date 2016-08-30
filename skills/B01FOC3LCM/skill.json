@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FOC3LCM",
-  "averageRating": 4.3,
+  "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Start your day with inspirational audio from Alexa!\n\nAsk Alexa to inspire you, and hear some inspirational audio from famous speakers, including:\n\nArnold Schwarzenegger\nSteve Jobs\nJim Carey\nAlan Watts\nCharles Bukowski\nWill Smith\nTony Robbins\nEric Thomas\nMichael Jordan\nPeyton Manning\nGary Vaynerchuk\nKevin Spacey\n\nKnow of some great speeches / speakers? get in touch and I'll add them in!\n\noscardmerry@gmail.com\nhttps://twitter.com/MerryOscar\n\nEnjoy!",
+  "description": "Start your day with inspirational audio from Alexa!\n\nAsk Alexa to inspire you, and hear some inspirational audio from famous speakers, including:\n\nAlan Watts\nArnold Schwarzenegger\nCharles Bukowski\nEric Thomas\nGary Vaynerchuk\nJK Rowling\nJason Silva\nJim Carey\nKevin Spacey\nMichael Jordan\nOprah Winfrey\nPeyton Manning\nSteve Jobs\nTony Robbins\nWill Smith\nZlatan Ibrahimovic\n\nJust say 'next' for a new speaker.\n\nKnow of some great speeches / speakers? get in touch and I'll add them in!\n\noscardmerry@gmail.com\nhttps://twitter.com/MerryOscar\n\nEnjoy!",
   "enablement": null,
   "exampleInteractions": [
-    "'Alexa, inspire me.'",
-    "'Alexa, open inspire me, and play Steve Jobs.\"",
-    "'Alexa, open inspire me, and play Jim Carey.\""
+    "'Alexa, Inspire Me.'",
+    "'Alexa, open Inspire Me, and play Steve Jobs.'",
+    "New Speaker"
   ],
   "firstReleaseDate": 1464080919.62,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "inspire me",
   "name": "Inspire Me",
-  "numberOfReviews": 11,
+  "numberOfReviews": 14,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

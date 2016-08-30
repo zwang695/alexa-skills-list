@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Rational 8-Ball icon" width="36"> [Rational 8-Ball](http://alexa.amazon.com/#skills/amzn1.ask.skill.be9ddb84-b630-43c6-b578-8c410e0c6fb1)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Rational 8-Ball skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="This Day in US Naval History icon" width="36"> [This Day in US Naval History](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1e3d85a-12ad-4893-8c60-52bb403134a3)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the This Day in US Naval History skill, try saying...
 

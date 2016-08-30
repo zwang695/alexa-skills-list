@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Randomgenerator icon" width="36"> [Randomgenerator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.46522f3e-370f-4467-bb3c-c9c747ed4b70)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Randomgenerator skill, try saying...
 

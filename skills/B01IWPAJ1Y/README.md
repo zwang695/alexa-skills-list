@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Wise Cracks icon" width="36"> [Wise Cracks](http://alexa.amazon.com/#skills/amzn1.ask.skill.9a7fc9fe-5af1-4458-9a7b-f40c0e02b700)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Wise Cracks skill, try saying...
 

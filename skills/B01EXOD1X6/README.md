@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Hero Trivia icon" width="36"> [Hero Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cdf96da6-f567-41a6-8744-a2c8d4597316)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Hero Trivia skill, try saying...
 

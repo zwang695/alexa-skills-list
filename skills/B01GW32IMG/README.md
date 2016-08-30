@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Astronomy Picture of the Day icon" width="36"> [Astronomy Picture of the Day](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2ede5210-83d7-4e57-a82c-f3f5132dab69)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Astronomy Picture of the Day skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="My Airport Info icon" width="36"> [My Airport Info](http://alexa.amazon.com/#skills/amzn1.ask.skill.f6dac246-8937-4e13-84a9-2fb2b676c0ef)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the My Airport Info skill, try saying...
 

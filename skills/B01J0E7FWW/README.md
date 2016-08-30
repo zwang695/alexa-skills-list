@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="opposite words icon" width="36"> [opposite words](http://alexa.amazon.com/#skills/amzn1.ask.skill.a584d06b-65e6-44e6-b240-e7e02b2ce1f2)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the opposite words skill, try saying...
 
@@ -9,7 +9,7 @@ To use the opposite words skill, try saying...
 
 * *help*
 
-Learn opposite words for kids
+Learn opposite words.
 
 ***
 

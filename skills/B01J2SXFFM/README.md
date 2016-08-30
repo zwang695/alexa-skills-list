@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="texas facts icon" width="36"> [texas facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6b78ff5d-03a8-4a23-9c10-e39145b0eaf2)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the texas facts skill, try saying...
 

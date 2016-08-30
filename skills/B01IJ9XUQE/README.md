@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="The Haven's Family Fridge icon" width="36"> [The Haven's Family Fridge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.81005327-e2d0-44e9-9fdf-f493716841cb)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the The Haven's Family Fridge skill, try saying...
 

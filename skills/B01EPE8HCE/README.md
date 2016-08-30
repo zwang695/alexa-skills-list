@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bug Tracker icon" width="36"> [Bug Tracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0df23397-4abf-434e-be14-4bfa0d6b36e4)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Bug Tracker skill, try saying...
 

@@ -1,0 +1,41 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "fireboard.io",
+    "connect.facebook.net",
+    "fonts.googleapis.com",
+    "maxcdn.bootstrapcdn.com",
+    "facebook.com",
+    "google-analytics.com"
+  ],
+  "asin": "B01KPXF2LS",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Ask Alexa for the temperature of your beef brisket, filet mignon, or any other food you may be cooking up on the grill or in the kitchen.  With our cloud connected smart thermometer, the FireBoard, you won't have to smudge your phone with greasy fingers or run to the grill to check your temperatures.. just ask Alexa!\n\nFireBoard is very close to a full production run, support us and pre-order yours today at http://kck.st/2buqqYC.   Using your FireBoard account, you can link this skill to your Echo through the Alexa app.\n\nMore details on FireBoard can be found at http://fireboard.io\n\n*This Alexa Skill may not be suitable for all ages.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask FireBoard temperature",
+    "What is my FireBoard temperature?",
+    "How hot is my grill?"
+  ],
+  "firstReleaseDate": 1472023896.628,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.1ebaadc2-93e0-4f0f-9ea0-522aa9e5787c",
+  "imageAltText": "FireBoard - Cloud Connected Smart Thermometer icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01KPXF2LS/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "fireboard",
+  "name": "FireBoard - Cloud Connected Smart Thermometer",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "NqAKIFEVRHX5q3Bl3iuewDpky",
+  "permissions": null,
+  "privacyPolicyUrl": "https://fireboard.io/privacy",
+  "shortDescription": "Get your BBQ or Kitchen Temperatures from FireBoard!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MSZMCLOBVC3TD",
+  "vendorName": "FireBoard Labs"
+}

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Silly Guy icon" width="36"> [Silly Guy](http://alexa.amazon.com/#skills/amzn1.ask.skill.db8a781f-09bb-4b06-b74a-d2625b731d1e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Silly Guy skill, try saying...
 

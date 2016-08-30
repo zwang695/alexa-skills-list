@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Belch Me icon" width="36"> [Belch Me](http://alexa.amazon.com/#skills/amzn1.ask.skill.0a1c0dd3-cacd-4b5b-b3a4-b4b8d0eb4fcc)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Belch Me skill, try saying...
 

@@ -1,0 +1,34 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "server.revogi.com"
+  ],
+  "asin": "B01KLKM32Q",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1471909691.584,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.d4a9ee1d-df48-4294-9e04-746539d4c51f",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01KLKM32Q/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Revogi, LLC",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "8KZq51fYenztZ25LGeaKXPSBp",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3A5UUUW2PUHS4",
+  "vendorName": "Revogi, LLC"
+}

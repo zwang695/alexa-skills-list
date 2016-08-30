@@ -1,11 +1,11 @@
 # &nbsp;<img src="skill_icon" alt="Period Tracker icon" width="36"> [Period Tracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.91c7c481-f58f-4d3a-b565-a58aa14b4306)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![1.6 stars](../../images/ic_star_black_18dp_1x.png)![1.6 stars](../../images/ic_star_half_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Period Tracker skill, try saying...
 
 * *Alexa, open Period Tracker*
 
-* *Alexa, tell Period Tracker I got my period { today | last friday | on March 17th }*
+* *Alexa, tell Period Tracker I got my period today*
 
 * *Alexa, ask Period Tracker when does my fertile window start*
 
@@ -25,8 +25,8 @@ Example uses:
 
 Maybe you forget to keep your data up-to-date, so it's likely the averages and calculations are not perfect, so you can clean up everything and start over:
 
-- Alexa, open Period Tracker
-   - reset database
+   - Alexa, open Period Tracker
+   - reset my database
    - i got my period on March 17th
 
 ***

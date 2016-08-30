@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Cat Knock Knock Jokes icon" width="36"> [Cat Knock Knock Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.8ec019d5-342d-48ed-a8e3-dc37e201ac7e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Cat Knock Knock Jokes skill, try saying...
 

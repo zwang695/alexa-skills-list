@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Chesster icon" width="36"> [Chesster](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eb200d1a-b905-4c72-ad9d-a8d5e9a022d1)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Chesster skill, try saying...
 

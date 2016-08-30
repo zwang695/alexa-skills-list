@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="State Borders Trivia icon" width="36"> [State Borders Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.57d82884-0926-4305-9429-5ff20eb51353)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the State Borders Trivia skill, try saying...
 

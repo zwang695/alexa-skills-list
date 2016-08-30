@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "This skill allows EV drivers to use Amazon Echo family devices to access EV charging statistics from JuiceNet-compatible EV charging devices.\n\nIn order to use this skill, you need a JuiceNet - compatible EV charging device. The list of such devices includes JuiceBox EVSEs and JuicePlug adapters (designed and manufactured by eMotorWerks), Clipper Creek HCS JuiceNet edition, GE WattStation JuiceNet edition, and a growing list of other stations from a variety of manufacturers. For more details and a selection of compatible stations, please visit http://www.eMotorWerks.com. \n\nAbout eMotorWerks\neMotorWerks is a California company specializing on the innovative EV technologies. We are very passionate about electric cars and work hard to accelerate adoption of electric vehicles throughout the world by making EV charging more affordable and more sustainable.",
+  "description": "## About this skill ##\nThis skill allows EV drivers to use Amazon Echo family devices to interface with their JuiceNet-compatible EV charging devices.\n\n## Requirements ##\nIn order to use this skill, you need to own a JuiceNet-compatible EV charging device. This includes: JuiceBox EVSEs and JuicePlug adapters (both designed and manufactured by eMotorWerks), as well as Clipper Creek HCS JuiceNet edition, and a growing list of other charging stations from a variety of manufacturers. For more details and a list of compatible stations, please visit eMotorWerks.com.\n\n## About eMotorWerks##\nElectric Motor Werks is a California-based company specializing in innovative EV technologies. We are very passionate about electric cars and work hard on accelerating their adoption around the world by making EV charging more affordable and sustainable.\n\n## Disclaimer ##\nThis Alexa skill might not be suitable for those under the age of owning a driving permit and not yet able to own an electric vehicle. It is also unsuitable for those that do not own a JuiceNet-powered charging device.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask JuiceBox for status",
-    "Alexa, get voltage from JuiceBox",
-    "Alexa, ask JuiceBox for energy"
+    "Alexa, ask JuiceBox to get status",
+    "Alexa, tell JuiceBox to start charging my car",
+    "Alexa, ask JuiceBox how many miles were added to my car"
   ],
   "firstReleaseDate": 1469487384.456,
   "homepageLinkText": null,

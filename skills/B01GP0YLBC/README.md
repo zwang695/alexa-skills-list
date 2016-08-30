@@ -11,6 +11,8 @@ To use the Deep Thoughts with Kanye West skill, try saying...
 
 Bringing the wisdom of Kanye West to the interwebs via Echo. Satirical Alexa Skill that pulls from some of Kanye's more inspired quotes.
 
+This skill may not be suitable for all ages.
+
 ***
 
 ### Skill Details

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="RockBot icon" width="36"> [RockBot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ad7383c5-6e03-45d8-8a63-c4bedead2196)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the RockBot skill, try saying...
 

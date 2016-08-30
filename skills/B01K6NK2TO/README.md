@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Great Grand Parent Tips icon" width="36"> [Great Grand Parent Tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.0bf2bd18-70d8-43d2-8712-c1714d0d9433)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Great Grand Parent Tips skill, try saying...
 

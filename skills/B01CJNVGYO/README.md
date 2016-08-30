@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Thermostat Controller icon" width="36"> [Thermostat Controller](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.92ba4f64-ff14-4197-8f41-d4d258da155b)
-![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 35
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 40
 
 To use the Thermostat Controller skill, try saying...
 
@@ -41,7 +41,7 @@ To use this skill simply enable it and log into your Nest account to link your N
 
 You can revoke the access to your Nest from your Amazon Echo at any time by using your Nest app on your smart phone. The access will also be automatically revoked after 3 months of inactivity.
 
-Nest® is a registered trademark of Nest Labs, Inc. and its parent company.
+Nest® is a registered trademark of Nest Labs, Inc. and its parent company. Underscore Research LLC is not affiliated nor endorsed by Nest Labs, Inc.
 
 ***
 

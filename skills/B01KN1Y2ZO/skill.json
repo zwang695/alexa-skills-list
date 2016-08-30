@@ -1,0 +1,34 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "googleapis.com"
+  ],
+  "asin": "B01KN1Y2ZO",
+  "averageRating": 4.5,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1472076191.035,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.1f85bc42-34d5-482a-afe8-6dc345913d4f",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01KN1Y2ZO/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Iris by Lowe's",
+  "numberOfReviews": 28,
+  "pamsPartnerId": "P8Y1P8Fzgdue5BE65vGCA4Dnt",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1JHQYU05ES1DZ",
+  "vendorName": "Iris by Lowe's"
+}

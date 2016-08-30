@@ -1,0 +1,37 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "bigml.com",
+    "static.bigml.com"
+  ],
+  "asin": "B01IU8URQA",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Welcome to the world's first voice controlled predictive assistant!\n\nIf you just want to started quickly, you can ask BigML for a demo by saying \"Alexa, ask BigML to give me a demo\".\n\nTo use the BigML skill with your own models, you will need to link your BigML account. The first time you open the skill with \"Alexa, open BigML\", you will receive instructions along with an account link URL in the Alexa app to link your Alexa to BigML.\n\nOnce linked, any models you create in BigML can be \"loaded\" into Alexa using the command \"alexa, ask BigML to load the latest model.\" You can even set which BigML project to load models from using \"Alexa, ask BigML to set the project\". \n\nOnce a model is loaded, you can start a prediction with \"make a prediction\". The skill will then ask you questions until it has enough information to make a prediction using the model you loaded. \n\nNote that if you do not answer right away, the skill will suggest valid inputs. Also, you can say \"I don't know\" to input an unknown value and get a prediction using just the information provided.\n\nWarning: This skill may not be suitable for all ages.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask BigML to load the latest model",
+    "make a prediction",
+    "Alexa, ask BigML to give me a demo"
+  ],
+  "firstReleaseDate": 1472025699.975,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.50b02dd3-ab6f-4c39-bd04-e65fab54ea77",
+  "imageAltText": "BigML icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01IU8URQA/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "big m. l.",
+  "name": "BigML",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "Vfm8cE787V4ylRqnlWkhWV5bg",
+  "permissions": null,
+  "privacyPolicyUrl": "https://bigml.com/privacy",
+  "shortDescription": "The BigML skill integrates with your BigML account and makes it possible to load a predictive model and make predictions using only voice control.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://bigml.com/tos",
+  "vendorId": "M1QH6VFBAQIOGA",
+  "vendorName": "BigML"
+}
