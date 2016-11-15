@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Stardew Farmer icon" width="36"> [Stardew Farmer](http://alexa.amazon.com/#skills/amzn1.ask.skill.dc48ba5a-4d8a-495b-8c85-754383f4ac14)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Stardew Farmer skill, try saying...
 

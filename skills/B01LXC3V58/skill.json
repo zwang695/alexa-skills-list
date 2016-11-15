@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01LXC3V58",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1475023323.489,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.98d6df0b-a2e0-4fd6-bc40-ba93ed0d632e",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LXC3V58/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Honeywell",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "IrtDs1GOEYVellAyRRNLUF678",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M13JMZ24QSCF83",
+  "vendorName": "Honeywell"
+}

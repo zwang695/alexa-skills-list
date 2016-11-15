@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Aromatherapy icon" width="36"> [Aromatherapy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c2984701-7096-4325-b3d0-0a6dcfc4f220)
-![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Aromatherapy skill, try saying...
 
@@ -32,6 +32,6 @@ Please visit us at www.aromatherapyskill.com and let us know what  recipes you w
 * **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.c2984701-7096-4325-b3d0-0a6dcfc4f220
 * **ASIN:** B01EKX7WKS
-* **Author:** Unity App Design
+* **Author:** Unity
 * **Release Date:** May 6, 2016 @ 08:08:33
 * **In-App Purchasing:** No

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DBWB3HW",
-  "averageRating": 3,
+  "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "name that tune",
   "name": "Name That Song Trivia",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

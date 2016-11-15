@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01F1G80H2",
-  "averageRating": 3,
+  "averageRating": 3.1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "distance between",
   "name": "Distance Between",
-  "numberOfReviews": 9,
+  "numberOfReviews": 12,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Vocab Helper for the SAT icon" width="36"> [Vocab Helper for the SAT](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8b212cd-cf22-484a-8f52-43551f03a288)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Vocab Helper for the SAT skill, try saying...
 

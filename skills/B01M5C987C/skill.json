@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01M5C987C",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1478038334.273,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.1d1f39ed-d516-4f4e-8668-4488f1598bdd",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M5C987C/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Lightwave RF",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "5q9DY2LGnPmH9I32NWJMpqwOh",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M339CDOR32MUKZ",
+  "vendorName": "Lightwave RF"
+}

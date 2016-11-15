@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MQFYAQO",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Get your daily piece of advice...",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, daily advice",
+    ""
+  ],
+  "firstReleaseDate": 1479024769.701,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.f4da5aee-ab9d-4554-ba03-fbccfe7563b0",
+  "imageAltText": "DailyAdvice icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MQFYAQO/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "daily advice",
+  "name": "DailyAdvice",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Get your daily piece of advice...",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3GZVXFZ5Q1DGZ",
+  "vendorName": "MrE"
+}

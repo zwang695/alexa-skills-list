@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Who's On First? Baseball Skit icon" width="36"> [Who's On First? Baseball Skit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a541d062-bdb1-4395-b1e2-5d1106ff4ff1)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 5
+![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Who's On First? Baseball Skit skill, try saying...
 

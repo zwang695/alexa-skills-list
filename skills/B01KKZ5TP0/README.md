@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Audio Hangman icon" width="36"> [Audio Hangman](http://alexa.amazon.com/#skills/amzn1.ask.skill.18a84c1b-a040-4d8e-8586-412d32de921c)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the Audio Hangman skill, try saying...
 
@@ -21,7 +21,7 @@ If you are having trouble spelling some letters, feel free to use the NATO or We
 * **Category:** null
 * **ID:** amzn1.ask.skill.18a84c1b-a040-4d8e-8586-412d32de921c
 * **ASIN:** B01KKZ5TP0
-* **Author:** Drexel University
+* **Author:** Josep Valls-Vargas
 * **Release Date:** August 22, 2016 @ 03:37:57
 * **Terms of Use:** http://115iec5pk1.execute-api.us-east-1.amazonaws.com/prod/pub
 * **In-App Purchasing:** No

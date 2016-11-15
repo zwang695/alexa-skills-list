@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Naughty Dice icon" width="36"> [Naughty Dice](http://alexa.amazon.com/#skills/amzn1.ask.skill.2ea509a1-0ac7-4ce3-b964-1556e69e0c4a)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![1.6 stars](../../images/ic_star_black_18dp_1x.png)![1.6 stars](../../images/ic_star_half_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Naughty Dice skill, try saying...
 

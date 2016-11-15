@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01J4FPGHI",
-  "averageRating": 2.7,
+  "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Find more information than the built-in MLB functions.\n\n-See who is pitching for your team\n-See what is currently happening in your team's game",
+  "description": "Find more information than the built-in MLB functions.\n\n-See who is pitching for your team\n-See what is currently happening in your team's game\n\nPitching information is only available before the game starts",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Baseball Live who is pitching for the Phillies today?",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "baseball live",
   "name": "Baseball Live",
-  "numberOfReviews": 5,
+  "numberOfReviews": 6,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Find My Phone icon" width="36"> [Find My Phone](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.727f5a0a-7a6e-401b-8048-35f4850cc729)
-![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 93
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 170
 
 To use the Find My Phone skill, try saying...
 

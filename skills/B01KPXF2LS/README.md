@@ -5,11 +5,11 @@ To use the FireBoard - Cloud Connected Smart Thermometer skill, try saying...
 
 * *Alexa, ask FireBoard temperature*
 
-* *What is my FireBoard temperature?*
+* *Alexa, ask FireBoard how long I've been cooking*
 
 * *How hot is my grill?*
 
-Ask Alexa for the temperature of your beef brisket, filet mignon, or any other food you may be cooking up on the grill or in the kitchen.  With our cloud connected smart thermometer, the FireBoard, you won't have to smudge your phone with greasy fingers or run to the grill to check your temperatures.. just ask Alexa!
+Ask Alexa for the temperature of your beef brisket, filet mignon, or any other food you may be cooking up on the grill or in the kitchen.  In addition, Ask Alexa how long you've been cooking!  With our cloud connected smart thermometer, the FireBoard, you won't have to smudge your phone with greasy fingers or run to the grill to check your temperatures.. just ask Alexa!
 
 FireBoard is very close to a full production run, support us and pre-order yours today at http://kck.st/2buqqYC.   Using your FireBoard account, you can link this skill to your Echo through the Alexa app.
 

@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "www.ecobee.com",
+    "www.myhome.carrier.com",
+    "www.myhome.bryant.com"
+  ],
+  "asin": "B01IFDQLLA",
+  "averageRating": 2.4,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "With the skill and Alexa, you can now interact with your Carrier® Côr™ thermostats by voice to control your home comfort.\n\nTo get started, select the “Enable Skill” button in the Alexa App to link your Côr account and discover your thermostat(s). Find more information about connecting Smart Home devices at http://amzn.to/291lR7u\nWhen using the skill, you need to specify by name which thermostat to use. There are two ways to define this/these names:\n• Use the thermostat name(s) you set up already – these are shown in the Côr app and can be changed on the thermostat (go to Settings > Preferences > Thermostat > Input the new name)\nOr\n• Create an Alexa group, like Bedroom or Downstairs, and add the thermostat and/or one or more sensors to the group. More information at can be found at http://amzn.to/2965dCE\n\nOnce you know the name or group of your thermostat, you can say the following: “Alexa, lower Bedroom by three degrees”, or “Alexa, set Downstairs temperature to 72.”\n\nIf you have any questions, please visit the Carrier Côr thermostat FAQ at https://www.carrier.com/residential/en/us/cor/installationsupport/",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1472862803.575,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.db755ebd-44a8-407c-8217-97513897f318",
+  "imageAltText": "Carrier Côr Thermostat Control icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01IFDQLLA/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Carrier Côr Thermostat Control",
+  "numberOfReviews": 11,
+  "pamsPartnerId": "XOOtVVf2Z7fnTZpUs8uhkZpfD",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.myhome.carrier.com/legal.html",
+  "shortDescription": "Control your Côr thermostat using your Amazon Alexa.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "http://www.myhome.carrier.com/legal.html",
+  "vendorId": "MPBO6W13WIGTO",
+  "vendorName": "Carrier Corporation"
+}

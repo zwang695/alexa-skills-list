@@ -3,11 +3,11 @@
 
 To use the Horror Trivia skill, try saying...
 
-* *Alexa, open Horror Trivia*
+* *Alexa, open Horror Trivia.*
 
-* *give me a horror fact*
+* *Alexa ask horror trivia to give me a horror fact.*
 
-* *tell me something*
+* *Alexa open horror trivia and tell me something.*
 
 This is a skill that tells you interesting horror movie trivia. It will tell you a horror movie fact every time it is called.
 

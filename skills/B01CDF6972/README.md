@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Mosaic icon" width="36"> [Mosaic](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2171d931-80f6-44cc-b702-3b35eed7e40c)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 13
+![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 15
 
 To use the Mosaic skill, try saying...
 
@@ -7,13 +7,13 @@ To use the Mosaic skill, try saying...
 
 * *Alexa, ask Mosaic for good night*
 
-* *Alexa, ask Mosaic to give me something relaxing*
+* *Alexa, ask Mosaic for tesla battery level*
 
 Mosaic allows you to connect smart devices and digital services together in one place, while controlling them as easily as chatting with a friend on Amazon Alexa, Facebook Messenger, SMS or with Slack.
 
 All your devices & services in one place
 
-Connect your things to Mosaic and manage them all together. Mosaic supports Google Calendar, Fitbit, Nest, Philips Hue, Lifx, Jawbone, Withings, Automatic, Tesla, and Weather, with many more to come.
+Connect your things to Mosaic and manage them all together. Mosaic supports Google Calendar, Fitbit, Nest, Philips Hue, Lifx, Jawbone, Withings, Automatic, Tesla, Rachio, Weather and Commute, with many more to come.
 
 Mosaic workflows - simplify voice interaction
 

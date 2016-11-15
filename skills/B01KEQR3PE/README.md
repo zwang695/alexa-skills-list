@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Michiganders Trivia icon" width="36"> [Michiganders Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.ff3a92c0-f476-4385-9cdc-4ab00c05b88c)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Michiganders Trivia skill, try saying...
 

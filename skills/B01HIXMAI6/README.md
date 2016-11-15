@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Olaf's Havamals icon" width="36"> [Olaf's Havamals](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.514fd27f-796e-4a7f-ba06-e782d00f6af4)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Olaf's Havamals skill, try saying...
 

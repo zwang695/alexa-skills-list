@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01IRQF9HW",
-  "averageRating": 5,
+  "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "bible glossary",
   "name": "Bible Glossary",
-  "numberOfReviews": 1,
+  "numberOfReviews": 6,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.jwdailytext.com/PrivacyPolicy.txt",

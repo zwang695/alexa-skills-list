@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bowling Facts icon" width="36"> [Bowling Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.df361222-5b9d-4ae4-b2ab-14d9c933bbcb)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Bowling Facts skill, try saying...
 

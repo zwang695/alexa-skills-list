@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "i.dslr.net"
+  ],
+  "asin": "B01MPVQXEN",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Alexa can tell you your last speed test result after linking with your DSLReports.com account.\n\nAfter downloading and installing a program (Windows, OSX or Linux), Alexa can also start a new test, and tell you the results. Alexa can also tell you the recent ping on your connection and evaluate it for stability.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Speed Test to run",
+    "Alexa, open Speed Test",
+    "Alexa, ask Speed Test what is my ping"
+  ],
+  "firstReleaseDate": 1479103965.414,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.9c13379e-8ae0-4923-8aef-460f8c9c3c53",
+  "imageAltText": "Speed Test icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MPVQXEN/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "speed test",
+  "name": "Speed Test",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "QoaRIQMRhy8fJu1d7sG8SSTsy",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.dslreports.com/privacy",
+  "shortDescription": "Ask Alexa to test your Internet Speed",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.dslreports.com/terms-of-use?alexa",
+  "vendorId": "M8ZQIVZV9FP0C",
+  "vendorName": "DSLReports.com"
+}

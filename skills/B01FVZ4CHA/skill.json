@@ -7,7 +7,8 @@
     "graph.facebook.com",
     "m.facebook.com",
     "static.xx.fbcdn.net",
-    "h2opal.parseapp.com"
+    "h2opal.parseapp.com",
+    "api.h2opal.com"
   ],
   "asin": "B01FVZ4CHA",
   "averageRating": 5,
@@ -30,8 +31,8 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "h. two o. pal",
   "name": "H2O-Pal",
-  "numberOfReviews": 1,
-  "pamsPartnerId": "BQ6kzzmon2MzHmiQNTX2Kp8QK",
+  "numberOfReviews": 2,
+  "pamsPartnerId": "Zzf7ojUd3zZhV5SmtyVf2yZlf",
   "permissions": null,
   "privacyPolicyUrl": "https://www.h2opal.com/pages/tos",
   "shortDescription": "The best way to track your water intake throughout the day. Works with companion H2O-Pal iPhone app and easily syncs with your H2O-Pal water bottle.",

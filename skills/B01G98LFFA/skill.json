@@ -3,11 +3,11 @@
     "amazon.com"
   ],
   "asin": "B01G98LFFA",
-  "averageRating": 3,
+  "averageRating": 2.6,
   "canDisable": false,
   "capabilities": null,
-  "category": "CONNECTED_HOME",
-  "description": "Use Alexa to control your iDevices Switch, Outdoor Switch, Thermostat, and Socket.  Tell Alexa to turn on/off your lights, set the dim level of your Socket, and adjust the temperature of your Thermostat.\n\nMake sure to log into your Amazon account in the iDevices Connected app for iOS to link your products.",
+  "category": null,
+  "description": "With the iDevices skill, you can now use Alexa to interact with your iDevices Switch, Outdoor Switch, Socket and Thermostat by voice. To get started, select the ‘Enable Skill’ button in the Alexa App. Login into your Amazon account in the iDevices Connected app to link and discover your products. Find more information about connecting Smart Home devices at http://amzn.to/291lR7u.\n\nWhen using the skill, you need to specify by name which product(s) you want to control. \n* For single product control use the specific name you set up already in the iDevices Connected app \n* For multiple products, create an Alexa group in the Alexa app, like Bedroom or Downstairs, and add the products you want to the group. More information is available at http://amzn.to/2965dCE.\n\nOnce you know the name or group, you can say the following: \n* If you have iDevices Switch or Outdoor Switch, you can turn them on/off, for example: “Alexa, turn on my Bedroom lights”.\n* If you have iDevices Socket, you can change the brightness, for example: “Alexa, brighten Downstairs to 60 percent\", or \"Alexa, dim the Living Room lights\".\n* If you have iDevices Thermostat, you can change the temperature, for example: “Alexa, lower Bedroom by 3 degrees”, or “Alexa, set Downstairs temperature to 72”.\n\nIf you have any questions, please visit the iDevices FAQ at http://idevicesinc.com/support/switch/100432928/.",
   "enablement": null,
   "exampleInteractions": [
     null,
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "iDevices",
-  "numberOfReviews": 8,
+  "numberOfReviews": 19,
   "pamsPartnerId": "SZejnWZVExgjFD1kj2A1YHgjs",
   "permissions": null,
   "privacyPolicyUrl": "http://idevicesinc.com/privacy/",

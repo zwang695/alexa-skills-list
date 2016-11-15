@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Famous Computer Scientists icon" width="36"> [Famous Computer Scientists](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dfa00d8a-98cb-4ea4-a822-2ed3be7fb7a9)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Famous Computer Scientists skill, try saying...
 

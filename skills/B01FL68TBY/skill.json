@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FL68TBY",
-  "averageRating": 1,
+  "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "focus screener",
   "name": "Focus Sceener",
-  "numberOfReviews": 1,
+  "numberOfReviews": 0,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

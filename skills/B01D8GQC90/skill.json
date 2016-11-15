@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01D8GQC90",
-  "averageRating": 4.3,
+  "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my thoughts",
   "name": "MyThoughts",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.ntpdev.com/privacypolicy.htm",

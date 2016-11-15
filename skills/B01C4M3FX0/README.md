@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="QRZ icon" width="36"> [QRZ](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.38b0c1ee-24b5-40c6-aa7b-27cff8461da1)
-![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 10
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the QRZ skill, try saying...
 

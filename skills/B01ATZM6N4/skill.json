@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01ATZM6N4",
-  "averageRating": 4.4,
+  "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "house band",
   "name": "House Band",
-  "numberOfReviews": 12,
+  "numberOfReviews": 16,
   "pamsPartnerId": "DV29gZ7L4MKExRFWzF5wCGsqB",
   "permissions": null,
   "privacyPolicyUrl": "http://sarkonovich-2.elasticbeanstalk.com/privacy",

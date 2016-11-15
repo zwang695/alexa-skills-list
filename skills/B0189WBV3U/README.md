@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Age Calculator icon" width="36"> [Age Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ae05c636-fcc3-4895-a645-37d46c9adcb2)
-![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 31
+![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 33
 
 To use the Age Calculator skill, try saying...
 

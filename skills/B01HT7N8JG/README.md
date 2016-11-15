@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Quick Bits icon" width="36"> [Quick Bits](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4d927d1f-d716-4956-b371-bcb9fcca5c2e)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Quick Bits skill, try saying...
 

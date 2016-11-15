@@ -1,0 +1,42 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "mytest.kornersafe.com",
+    "korner-test.herokuapp.com",
+    "test.kornersafe.com",
+    "kanagawa-6049.herokussl.com",
+    "fonts.googleapis.com",
+    "code.getmdl.io",
+    "myhome.kornersafe.com"
+  ],
+  "asin": "B01LZ5X5B8",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Use voice commands to control various Korner Home Security settings such as arming.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask Korner to Arm House",
+    "Alexa ask Korner to Arm System",
+    ""
+  ],
+  "firstReleaseDate": 1478931286.211,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.a3004bdf-2c23-4ec9-acb7-cbf7435a2c89",
+  "imageAltText": "Korner Home Security icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LZ5X5B8/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "korner",
+  "name": "Korner Home Security",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "cqYqruPXnbIT4Xk5lQO1ylSCa",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.kornersafe.com/privacy",
+  "shortDescription": "Control Korner Home Security with commands such as Arm.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.kornersafe.com/terms",
+  "vendorId": "M2CX09HCQZ6JTS",
+  "vendorName": "Korner Safe LLC"
+}

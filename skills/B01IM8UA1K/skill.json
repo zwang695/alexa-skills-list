@@ -1,7 +1,5 @@
 {
-  "accountLinkingWhitelistedDomains": [
-    "askquickly.org"
-  ],
+  "accountLinkingWhitelistedDomains": null,
   "asin": "B01IM8UA1K",
   "averageRating": 0,
   "canDisable": true,
@@ -24,7 +22,7 @@
   "launchPhrase": "big slap",
   "name": "Big Slap",
   "numberOfReviews": 0,
-  "pamsPartnerId": "UHfpKY42gKcrV2UhkbjBjAS8m",
+  "pamsPartnerId": "xNRTyFFg7LvlymjG15Hk8fQvR",
   "permissions": null,
   "privacyPolicyUrl": "http://askquickly.org/privacy.html",
   "shortDescription": "The Big Slap game is designed to reach through the Alexa and into your home for loads of laughs and fun family nights!",

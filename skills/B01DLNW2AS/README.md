@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="NJMyBusSchedule icon" width="36"> [NJMyBusSchedule](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3c6489fc-3485-4b70-b5e4-b133c4870cab)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the NJMyBusSchedule skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="MeatButler icon" width="36"> [MeatButler](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.722f36ef-259b-419d-bc40-1af659c279c5)
-![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the MeatButler skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Christmas Caroler icon" width="36"> [Christmas Caroler](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cd9f8c03-5438-41b3-9e48-1333dba9702d)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![1.2 stars](../../images/ic_star_black_18dp_1x.png)![1.2 stars](../../images/ic_star_half_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Christmas Caroler skill, try saying...
 

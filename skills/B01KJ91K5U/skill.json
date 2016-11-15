@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01KJ91K5U",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "audio battleship",
   "name": "Audio Battleship",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "",
@@ -30,5 +30,5 @@
   "stage": "live",
   "termsOfUseUrl": "https://115iec5pk1.execute-api.us-east-1.amazonaws.com/prod/pub",
   "vendorId": "M2FXJAJA866PLQ",
-  "vendorName": "Drexel University"
+  "vendorName": "Josep Valls-Vargas"
 }

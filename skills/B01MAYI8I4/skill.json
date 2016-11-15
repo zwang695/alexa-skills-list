@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01MAYI8I4",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "With the Ankuoo REC skill and Alexa, you can now interact with your Ankuoo smart switches, dimmer switches and other products in the Ankuoo REC family. To get started, select the ‘Enable Skill’ button in the Alexa App to link your Ankuoo account and discover your device(s). Find more information about connecting Smart Home devices at http://amzn.to/291lR7u.\n \nWhen using the skill, you need to specify by name which device to use. There are two ways to define these name(s):\n* Use the name(s) you set up already – these are shown in the Ankuoo app and can be changed, or\n* Create an Alexa group, like Bedroom or Downstairs, and add the device to the group. More information is available at http://amzn.to/2965dCE.\n \nOnce you know the name or group of your device(s), you can say the following: \n* If you have switches or non-dimmable lights, you can turn them on/off, for example: “Alexa, turn on my Bedroom lights”.\n* If you have dimmable switches, you can change the brightness, for example: “Alexa, brighten Downstairs to 60 percent\", or \"Alexa, dim the Living Room lights\".\n\nIf you have any questions, please visit the Ankuoo FAQ at http://www.ankuoo.com/more/?id=2.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1479238512.429,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.20dd4ecc-9b08-4e38-9c81-dedf76855c68",
+  "imageAltText": "Ankuoo REC icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MAYI8I4/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Ankuoo REC",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "vhyfrKUHqMOrpx6xrCSiBnQnx",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.ankuoo.com/Privacy",
+  "shortDescription": "Ankuoo REC",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M90CGWJF760FM",
+  "vendorName": "Ankuoo"
+}

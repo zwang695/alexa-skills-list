@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="basic hindi tutor icon" width="36"> [basic hindi tutor](http://alexa.amazon.com/#skills/amzn1.ask.skill.3f7e09ce-3d2b-4f92-ab68-febfd235df9c)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the basic hindi tutor skill, try saying...
 

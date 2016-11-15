@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MRJIN9I",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Here's your chance to test how much you know about the players and teams that have impacted pro football. Alexa will ask you five questions. Your job is to respond with the number corresponding to the answer you think is correct. Good luck!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Pro Football Quiz",
+    "Alexa, start Pro Football Quiz"
+  ],
+  "firstReleaseDate": 1479197130.179,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.425589fc-a8f7-46ac-8f40-fa0033ee158e",
+  "imageAltText": "Pro Football Quiz icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MRJIN9I/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "pro football quiz",
+  "name": "Pro Football Quiz",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Here's your chance to test how much you know about the players and teams that have impacted pro football.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M16ZYHRYQQUA8M",
+  "vendorName": "Jeff Consing"
+}

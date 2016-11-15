@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "The GreenIQ skill gives you control on your Smart Garden Hub form your Alexa app. \nUsing the skill you can stop/start irrigation, activate/deactivate lighting in your garden and get information about water savings and water consumption.\nTo be able to use this skill, please buy the GreenIQ Smart Garden Hub at http://greeniq.myshopify.com, install it and activate the skill.\n\nFull list of supported phrases:\n\nAlexa, ask GreenIQ to turn on for zone number one\nAlexa, ask GreenIQ to turn off all zones\nAlexa, ask GreenIQ to turn off for zone number one\nAlexa, ask GreenIQ light to turn on\nAlexa, ask GreenIQ light to turn off\nAlexa, ask GreenIQ to report savings\nAlexa, ask GreenIQ to report water consumption",
+  "description": "The GreenIQ skill gives you control on your Smart Garden Hub from your Alexa app. \nUsing the skill you can stop/start irrigation, activate/deactivate lighting in your garden and get information about water savings and water consumption.\nTo be able to use this skill, please purchase the GreenIQ Smart Garden Hub at http://greeniq.myshopify.com, install it and activate the skill.\n\nFull list of supported phrases:\n\nAlexa, ask GreenIQ to turn on for zone number one\nAlexa, ask GreenIQ to turn off all zones\nAlexa, ask GreenIQ to turn off for zone number one\nAlexa, ask GreenIQ light to turn on\nAlexa, ask GreenIQ light to turn off\nAlexa, ask GreenIQ to report savings\nAlexa, ask GreenIQ to report water consumption",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask green i. q. to turn off all zones",
@@ -22,13 +22,13 @@
   "launchPhrase": "green i. q.",
   "name": "GreenIQ",
   "numberOfReviews": 0,
-  "pamsPartnerId": "rpI9hB9cysdmTVhzyzM7QWKtn",
+  "pamsPartnerId": "dIespkFn3DraADe2hjAbQw11w",
   "permissions": null,
-  "privacyPolicyUrl": "http://greeniq.co/docs/GreenIQ_Privacy_Policy.pdf",
+  "privacyPolicyUrl": "http://greeniq.co/docs/GreenIQ_Privacy_Policy.html",
   "shortDescription": "Control your GreenIQ Smart Garden Hub.",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": "http://greeniq.co/docs/GreenIQ_Terms_Of_Service.pdf",
+  "termsOfUseUrl": "http://greeniq.co/docs/GreenIQ_Terms_Of_Service.html",
   "vendorId": "MMOCW7PDT7V68",
   "vendorName": "GreenIQ"
 }

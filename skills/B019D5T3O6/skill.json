@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019D5T3O6",
-  "averageRating": 3.7,
+  "averageRating": 3.1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "guitar tuner",
   "name": "Guitar Tuner",
-  "numberOfReviews": 12,
+  "numberOfReviews": 15,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

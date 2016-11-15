@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Seattle English Tutor icon" width="36"> [Seattle English Tutor](http://alexa.amazon.com/#skills/amzn1.ask.skill.04ebc11a-eee7-414e-bf76-fcae38712257)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Seattle English Tutor skill, try saying...
 

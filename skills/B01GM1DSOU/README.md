@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Machine Learning Approaches icon" width="36"> [Machine Learning Approaches](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5c3d4942-7ba0-4d19-a034-c8d384d36997)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Machine Learning Approaches skill, try saying...
 

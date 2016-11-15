@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Stock Market Sensei icon" width="36"> [Stock Market Sensei](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e3287c8d-145b-4f90-ab1a-815a90104d35)
-![1.7 stars](../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Stock Market Sensei skill, try saying...
 

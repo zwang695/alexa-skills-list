@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="August Home icon" width="36"> [August Home](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.59c45b34-5311-4b23-bc46-e06f94363d67)
-![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 50
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 63
 
 To use the August Home skill, try saying...
 

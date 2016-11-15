@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Lightning Talk icon" width="36"> [Lightning Talk](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d2c61b55-f8e7-418d-9041-769227bd618e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Lightning Talk skill, try saying...
 

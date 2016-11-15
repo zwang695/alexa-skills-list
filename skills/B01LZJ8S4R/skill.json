@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "api.netatmo.com",
+    "api.netatmo.net",
+    "auth.netatmo.com"
+  ],
+  "asin": "B01LZJ8S4R",
+  "averageRating": 3.1,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "With Amazon Alexa, control your Netatmo Smart Thermostat just using your voice.<br/>\nAt home, ask Alexa to increase, decrease or set the desired temperature effortlessly and keep on focusing on what really matters. <br/>\nSimply link your Alexa and your Netatmo accounts and start experiencing a new way to control your heating.<br>\n\"Alexa, raise the temperature by 1°C\"<br>\n\"Alexa, decrease the temperature by 2°C\"<br>\n\"Alexa, set the home temperature to 19°C\"",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1474670540.712,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.f6c9bbce-6c7c-4d22-b110-530c463659b6",
+  "imageAltText": "Netatmo Energy icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LZJ8S4R/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Netatmo Energy",
+  "numberOfReviews": 5,
+  "pamsPartnerId": "NHjVyOUL7axWe37ac88vnyQgv",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.netatmo.net/site/terms#div_privacy",
+  "shortDescription": "\"Alexa, set my thermostat to 20°C\"",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "https://www.netatmo.com/site/terms",
+  "vendorId": "M2K52IEMQTMZZY",
+  "vendorName": "Netatmo"
+}

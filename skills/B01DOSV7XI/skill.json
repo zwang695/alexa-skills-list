@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DOSV7XI",
-  "averageRating": 3.5,
+  "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "train times",
   "name": "Train Times for LIRR",
-  "numberOfReviews": 5,
+  "numberOfReviews": 7,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

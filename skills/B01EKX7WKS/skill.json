@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01EKX7WKS",
-  "averageRating": 2.5,
+  "averageRating": 2.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "aromatherapy",
   "name": "Aromatherapy",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
@@ -30,5 +30,5 @@
   "stage": "live",
   "termsOfUseUrl": null,
   "vendorId": "M1FSR17RF1204C",
-  "vendorName": "Unity App Design"
+  "vendorName": "Unity"
 }

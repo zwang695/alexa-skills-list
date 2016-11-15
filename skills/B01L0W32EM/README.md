@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Inspiring quotes icon" width="36"> [Inspiring quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.6e9703e6-34ad-45b3-9254-a352a26e52a1)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Inspiring quotes skill, try saying...
 

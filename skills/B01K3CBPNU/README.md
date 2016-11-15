@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Gender Facts icon" width="36"> [Gender Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ab07394f-6407-46bb-81ac-9ee7b9d9259a)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Gender Facts skill, try saying...
 

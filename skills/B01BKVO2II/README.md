@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Hacker News icon" width="36"> [Hacker News](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8ac72bd2-31ba-4cab-af66-57166bf609b6)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Hacker News skill, try saying...
 

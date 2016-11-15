@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N0C0SI3",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Your health coaching partner to improve your quality of life.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open My Health Coach"
+  ],
+  "firstReleaseDate": 1479189922.982,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.16608dcb-7292-47af-bdb1-9d9182cc74cb",
+  "imageAltText": "My Health Coach icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N0C0SI3/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "my health coach",
+  "name": "My Health Coach",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "My Health Coach",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M5IYVFCD7QUT6",
+  "vendorName": "Bimini V"
+}

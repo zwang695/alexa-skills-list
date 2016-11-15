@@ -1,14 +1,14 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019J1T6AU",
-  "averageRating": 2.7,
+  "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
   "description": "Get your daily horoscopes from ELLE + The Astro Twins. Dubbed \"astrologists for the stars,\" identical twin sisters known as The AstroTwins—are professional astrologers whose sisterly style and spot-on predictions have made them popular gurus for astrological devotees of all stripes. Tali and Ophira have done personal readings for dozens of celebrities, including Beyonce, Stevie Wonder, Sting, Leann Rimes, and Avril Lavigne.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask Horoscope what is the horoscope for Gemini?",
+    "Alexa, ask Horoscope what is the horoscope for Gemini.",
     "Alexa, ask Horoscope for Gemini.",
     "Alexa, ask Horoscope what do the stars say?"
   ],
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "horoscope",
   "name": "ELLE Horoscopes by The Astro Twins",
-  "numberOfReviews": 27,
+  "numberOfReviews": 39,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.elle.com/about/privacy-policy",

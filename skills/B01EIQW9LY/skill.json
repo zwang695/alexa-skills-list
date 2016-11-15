@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01EIQW9LY",
-  "averageRating": 2.4,
+  "averageRating": 2.6,
   "canDisable": false,
   "capabilities": null,
   "category": null,
-  "description": "Amazon Alexa and the Nest Learning Thermostat work together to help you set the perfect temperature - without having to lift a finger. \n\nThe Nest Thermostat learns what you like and helps you save energy. And now, you can simply ask Alexa to raise, lower, or set a target temperature. \n\nThere’s no need to go to your thermostat or find your phone to be more comfortable - just talk to Alexa on your Amazon Echo, Fire TV, Echo Dot or Tap. \n\nAfter connecting Alexa to your Nest Thermostat in a few simple steps, just say commands like, “Alexa, set my dining room temperature to 68.”, “Alexa, raise the master bedroom by 4 degrees.”, or “Alexa, cool down the living room.”.",
+  "description": "Amazon Alexa and the Nest Learning Thermostat work together to help you set the perfect temperature - without having to lift a finger.\n \nThe Nest Thermostat learns what you like and helps you save energy. And now, you can simply ask Alexa to raise, lower, or set the target temperature of your Nest Thermostat.\n \nThere’s no need to go to your thermostat or find your phone to be more comfortable - just ask Alexa.\n \nTo get started, select the ‘Enable Skill’ button to link your Nest account* and discover your thermostat(s). Only the Owner Account* can be used to connect to your Nest Thermostat. For further assistance, please refer to http://amzn.to/291lR7u.\n\nAfter connecting Alexa to your Nest Thermostat in a few simple steps, just say commands** like, “Alexa, set my dining room temperature to 68.”, “Alexa, raise the master bedroom by 4 degrees.”, or “Alexa, cool down the living room.”.\n \nLearn more about how Alexa works with Nest: https://nest.com/support/article/Learn-how-to-control-your-Nest-Thermostat-with-Amazon-Alexa-on-Echo-and-Fire-TV\n \n* In order for Alexa to connect to Nest, you must use the Owner Account, i.e. the account that was created to first set up your Nest home. If someone else invited you to create a Nest account to access and control the Nest products in your home,, you cannot link Alexa and Nest. More detail here: https://nest.com/support/article/How-the-Owner-of-a-Nest-home-is-different-from-other-people-with-access\n \n** When using this Skill, you need to specify the name of the desired thermostat. The name is equivalent to the location of where the thermostat was installed and can be found and configured in the Nest app. You can also add Nest Thermostats to new or existing groups in the Alexa app (http://amzn.to/2965dCE).",
   "enablement": null,
   "exampleInteractions": [
     null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Nest",
-  "numberOfReviews": 188,
+  "numberOfReviews": 270,
   "pamsPartnerId": "C8eIeZmoWbU7tvmQWxDodPYNL",
   "permissions": null,
   "privacyPolicyUrl": "https://nest.com/privacy",

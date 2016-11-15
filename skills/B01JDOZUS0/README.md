@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Random Trivia icon" width="36"> [Random Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.e2d295b8-336b-48d1-a2cc-12296f70efd9)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Random Trivia skill, try saying...
 

@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N8SGWZU",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Collection of quotes from famous authors, experts on success, life, and more!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open motivational quotes",
+    "give me a quote"
+  ],
+  "firstReleaseDate": 1478760181.778,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.bc69f37d-bbee-4732-8fba-72e07dc589ad",
+  "imageAltText": "Motivational Quotes icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N8SGWZU/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "motivational quotes",
+  "name": "Motivational Quotes",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Quotes to get you motivated!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M316FQZETWBJFK",
+  "vendorName": "Wiliam X"
+}

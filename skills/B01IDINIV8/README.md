@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Mexico Facts icon" width="36"> [Mexico Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.638a9ab4-8a81-49d9-ad2f-c18b81955d74)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Mexico Facts skill, try saying...
 

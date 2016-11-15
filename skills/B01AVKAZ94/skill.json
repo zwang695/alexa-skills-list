@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01AVKAZ94",
-  "averageRating": 3.5,
+  "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "insultibot",
   "name": "InsultiBot",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
@@ -30,5 +30,5 @@
   "stage": "live",
   "termsOfUseUrl": null,
   "vendorId": "MS6GHN1QLVM1B",
-  "vendorName": "DERP Group"
+  "vendorName": "3PO Labs"
 }

@@ -1,13 +1,13 @@
 # &nbsp;<img src="skill_icon" alt="My Pregnancy from BabyCenter icon" width="36"> [My Pregnancy from BabyCenter](http://alexa.amazon.com/#skills/amzn1.ask.skill.d15ad666-789b-428b-9581-dd76757cf6ce)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 13
 
 To use the My Pregnancy from BabyCenter skill, try saying...
 
 * *Alexa, ask My Pregnancy for my weekly update*
 
-* *Tell My Pregnancy to set my due date*
+* *Alexa, tell My Pregnancy to set my due date*
 
-* *Ask My Pregnancy how far along I am*
+* *Alexa, ask My Pregnancy how far along I am*
 
 Count down to your delivery date with My Pregnancy and get weekly, medically-reviewed updates about how your baby and body are changing from BabyCenter, the world’s leading online pregnancy and parenting resource, trusted by over 300 million moms. 
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Pi Reader icon" width="36"> [Pi Reader](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.71a193da-99a6-4b60-9b0c-75b361471657)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Pi Reader skill, try saying...
 

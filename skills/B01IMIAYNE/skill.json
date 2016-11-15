@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01IMIAYNE",
-  "averageRating": 4.5,
+  "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "u. s. election",
   "name": "U.S. Election",
-  "numberOfReviews": 5,
+  "numberOfReviews": 25,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

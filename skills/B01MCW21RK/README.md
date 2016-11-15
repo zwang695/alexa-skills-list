@@ -1,0 +1,24 @@
+# &nbsp;<img src="skill_icon" alt="BigWords icon" width="36"> [BigWords](http://alexa.amazon.com/#skills/amzn1.ask.skill.b73eb726-93c4-4844-b798-46f633f6638f)
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+
+To use the BigWords skill, try saying...
+
+* *Alexa, ask big words trivia to start game*
+
+* *one*
+
+* *two*
+
+This skill gives a user 10 synonym questions in English. If the user answer correctly they will be given one score, otherwise there will be a detailed explanation along with the correct answer.
+
+***
+
+### Skill Details
+
+* **Invocation Name:** big words trivia
+* **Category:** null
+* **ID:** amzn1.ask.skill.b73eb726-93c4-4844-b798-46f633f6638f
+* **ASIN:** B01MCW21RK
+* **Author:** Meowth
+* **Release Date:** November 9, 2016 @ 02:13:05
+* **In-App Purchasing:** No

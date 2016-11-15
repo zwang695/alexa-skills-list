@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "The ultimate wiki for Game of Thrones characters, currently can only give the house name of the current character but new skills are currently in development. Please comment if you have ideas for what you would like to see or if you encounter any issues. Note this is in no way endorsed or sanctioned by HBO or any of it's affiliates.",
+  "description": "The ultimate wiki for Game of Thrones characters, can give character summaries and houses with new information is currently being developed. Please comment if you have ideas for what you would like to see or if you encounter any issues. Note this is in no way endorsed or sanctioned by HBO or any of it's affiliates.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa ask king's landing what house is Jon Snow from",
-    "tell me about Tywin Lannister",
-    "what house is Gregor Clegane in"
+    "Tell me about Tywin Lannister",
+    "Is Gregor Clegane alive"
   ],
   "firstReleaseDate": 1469192229.425,
   "homepageLinkText": null,

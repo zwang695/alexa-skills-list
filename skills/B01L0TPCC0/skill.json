@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "maxcdn.bootstrapcdn.com",
+    "ajax.googleapis.com",
+    "jnxydx7gvb.execute-api.us-west-2.amazonaws.com"
+  ],
+  "asin": "B01L0TPCC0",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "The skill interacts with a public space in confluence instance and queries for information which are part of the knowledge base. The results are returned based on the confluence search results. This is an unofficial integration with Atlassian Confluence by Addteq. \n\nTo start Search please say `ask Knowledge base`  followed by the search phrase.  If search on confluence returns single result ,  the contents of the page will be read to user. If mutiple results were returned from the search, top 5 results will be presented to the user and request user to choose an option number. You can select an option by saying the number. To end a search please say stop or cancel\n\nPlease be advised, This product may not be suitable for all age groups",
+  "enablement": null,
+  "exampleInteractions": [
+    "'Alexa Ask knowledge base ,  how do you connect to the guest wifi ?'",
+    "'Alexa Ask knowledge base ,  how to get to conference room ? '",
+    "'Alexa Ask knowledge base ,  how to contact help desk ? '"
+  ],
+  "firstReleaseDate": 1472798026.789,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.efbb952a-9779-49e4-a323-dfd51a26f666",
+  "imageAltText": "Knowledge Base icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01L0TPCC0/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "knowledge base",
+  "name": "Knowledge Base",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "OvPi4gFJlOG4vD8AL41W6tOMw",
+  "permissions": null,
+  "privacyPolicyUrl": "https://addteq.atlassian.net/wiki/display/GRAP/Data+Security+and+Privacy+Statement",
+  "shortDescription": "Query any knowledge base article in confluence instance",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://addteq.atlassian.net/wiki/display/GRAP/Data+Security+and+Privacy+Statement",
+  "vendorId": "M2RNLLDL4YXN2Q",
+  "vendorName": "Addteq"
+}

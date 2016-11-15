@@ -4,7 +4,7 @@
     "s3-us-west-2.amazonaws.com"
   ],
   "asin": "B01ICBSTLA",
-  "averageRating": 0,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -24,7 +24,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "hatch baby",
   "name": "Hatch Baby",
-  "numberOfReviews": 0,
+  "numberOfReviews": 3,
   "pamsPartnerId": "CZPIVZBW2HDANhqf7qtVtYfeu",
   "permissions": null,
   "privacyPolicyUrl": "http://www.hatchbaby.com/pages/privacy-policy",

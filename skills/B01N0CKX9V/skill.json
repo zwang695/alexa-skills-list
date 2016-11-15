@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N0CKX9V",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "A short history game from Greek to WW2.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open history trivia game."
+  ],
+  "firstReleaseDate": 1479189940.349,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.6ae14b9b-a363-4840-a33a-a436beed16fb",
+  "imageAltText": "History Trivia Game icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N0CKX9V/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "history trivia game",
+  "name": "History Trivia Game",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Short history trivia game.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M28N0KV1S0N9RW",
+  "vendorName": "Thanut (Art) Parkeenvincha"
+}

@@ -4,7 +4,7 @@
     "vonageawsbackend.com"
   ],
   "asin": "B01DOIJKZU",
-  "averageRating": 0,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -24,7 +24,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "conference manager",
   "name": "Conference Manager",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "3S8GRh11FPqMh7UlxWb3El5JL",
   "permissions": null,
   "privacyPolicyUrl": "https://garage.vonage.com/privacy",

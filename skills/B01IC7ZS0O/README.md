@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="My Tarot icon" width="36"> [My Tarot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.71d4681e-cbb5-4ba5-80c4-3a15392bf32d)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the My Tarot skill, try saying...
 

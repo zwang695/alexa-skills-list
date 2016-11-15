@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Insteon icon" width="36"> [Insteon](http://alexa.amazon.com/#skills/amzn1.ask.skill.dcf48e47-5e5f-4325-a755-b3f6d67eb8b4)
-![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 31
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 44
 
 Control Insteon lighting, appliances, and thermostats
 

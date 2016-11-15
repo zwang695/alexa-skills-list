@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Coin Flip icon" width="36"> [Coin Flip](http://alexa.amazon.com/#skills/amzn1.ask.skill.04ff9f9e-ac85-404f-ab7c-e2542ec15f90)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Coin Flip skill, try saying...
 

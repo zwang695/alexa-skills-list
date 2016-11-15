@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="3 Minute Hero song lyrics icon" width="36"> [3 Minute Hero song lyrics](http://alexa.amazon.com/#skills/amzn1.ask.skill.e817682b-7806-473b-861b-f3567fd955b3)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the 3 Minute Hero song lyrics skill, try saying...
 

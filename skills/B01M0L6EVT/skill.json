@@ -1,0 +1,41 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "jamieoliver.com",
+    "echo.jamieoliver.com",
+    "aws.amazon.com",
+    "amazon.com",
+    "amazonaws.com",
+    "cdn.jamieoliver.com"
+  ],
+  "asin": "B01M0L6EVT",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "We’ll have you cooking in no time!\n\nTo get started, simply ask Alexa to open the Jamie Oliver skill. For example: \n\n“Alexa, ask Jamie Oliver for a recipe”\n\n“Alexa, ask Jamie Oliver for a recipe idea for tonight”\n\n“Alexa, tell Jamie Oliver I fancy a recipe with chicken.”\n\nAlexa will guide you through a selection of main ingredients, including meat, pasta, eggs and vegetables to help you narrow your search and find a delicious Jamie Oliver recipe for you to try.\n\nWhen you find the perfect recipe, simply say “yes” and Alexa will send you an email with the recipe information and ingredients – then you’re ready to cook!\n\nDon’t fancy the first few you hear? A simple “no” and Alexa will move on to the next recipe to tempt your taste buds.\n\nTo ensure you find the recipe that’s right for you, Alexa will be on hand to tell you the time and difficulty of the recipe, plus a few key ingredients you’ll need to get started.\n\nStill unsure? Simply ask Alexa for ‘more information’ and you’ll have a full list of ingredients, as well as a full overview of the recipe sent direct to your email inbox to help get you cooking. \n\nSo whether you’re entertaining friends, or having a quiet night in, let Alexa and Jamie Oliver take the stress out of deciding what to cook!\n\n(We’re afraid you’re on your own with the washing up though...)",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Jamie Oliver.",
+    "Alexa, ask Jamie Oliver for a recipe for dinner tonight.",
+    "Alexa, ask Jamie Oliver for a pasta recipe."
+  ],
+  "firstReleaseDate": 1475044962.676,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.6d49aab1-b2c9-4575-8dbd-f683321eaf97",
+  "imageAltText": "Jamie Oliver icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M0L6EVT/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "jamie oliver",
+  "name": "Jamie Oliver",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "vo5csfZhjjnIi8ogWvr5q9SmN",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.jamieoliver.com/privacy/",
+  "shortDescription": "With loads of delicious, easy-to-follow recipes to choose from, Alexa and Jamie Oliver are always on hand to give you inspiration - all you have to do is ask!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3M7D80HZ8GZJA",
+  "vendorName": "Jamie Oliver"
+}

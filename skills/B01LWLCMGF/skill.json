@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "btcalexaskillservwebapp.azurewebsites.net",
+    "myc-profile.bmwusa.com",
+    "btccontentserver.bmwgroup.com"
+  ],
+  "asin": "B01LWLCMGF",
+  "averageRating": 2.2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "**The BMW Connected Skill currently supports users in the United States and is optimized for 2014 and newer vehicles. The skill is a companion to the BMW Connected mobile app, so once you’ve successfully linked the skill to your BMW Connected account, please say “Alexa ask BMW for help” to further explore the features supported with your specific car model.\n \n With Alexa, BMW Connected is literally coming home. Manage your schedule by asking when you should leave for your next trip. Start your journey in comfort by switching on the climate control in advance. And keep your BMW secure by locking the doors without lifting a finger.\n \n You can ask questions or give commands such as:\n \n What is my next trip?\n When should I leave for my next trip?\n What time is my next appointment?\n Send my next trip to the car.\n Activate the climate control.\n Lock the doors.\n \n Plus, for certain vehicle models you can also ask:\n \n Is my BMW locked?\n Are my windows up?\n What’s my fuel range?\n Is my trunk locked? (New!)\n \n Please note:\n • The BMW Connected Skill currently only supports users in the United States.\n • Only one BMW vehicle per ConnectedDrive account can be used with this Skill (for users with multiple vehicles linked to their account, this will be the first/primary vehicle).\n • Alexa will send remote service commands to your vehicle, but will not currently confirm the completion of those commands. However, in the case of a lock doors command, for certain vehicle models you can make a follow-up request to ask Alexa if your doors are locked.\n • Remote services are not available while your vehicle is in motion or when car location services are interrupted.\n • For security reasons, you can choose to block commands from Alexa to BMW Connected when desired via a switch on the Alexa page within the BMW Connected mobile app.\n • For BMW customer support: 1 888-333-6118",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open BMW.",
+    "Alexa, ask BMW to lock my doors.",
+    "Alexa, tell BMW to activate the climate control."
+  ],
+  "firstReleaseDate": 1475197925.626,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.8954f42f-361a-4598-924d-27064f02c20d",
+  "imageAltText": "BMW Connected icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LWLCMGF/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "b. m. w.",
+  "name": "BMW Connected",
+  "numberOfReviews": 40,
+  "pamsPartnerId": "2qyy4n6fwP9yjJO7TPYUX4Vtf",
+  "permissions": null,
+  "privacyPolicyUrl": "https://myc-profile.bmwusa.com/api/gateway/contentserver/staticcontent/amazonAlexa/privacyPolicy/en-us/privacyPolicy.html",
+  "shortDescription": "Lock your BMW’s doors, prepare for your next trip, and more.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://myc-profile.bmwusa.com/api/gateway/contentserver/staticcontent/amazonAlexa/tandc/en-us/termsAndConditions.html",
+  "vendorId": "MKW0URUCJKLV6",
+  "vendorName": "BMW Technology Group"
+}

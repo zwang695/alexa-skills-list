@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Holy Rosary icon" width="36"> [Holy Rosary](http://alexa.amazon.com/#skills/amzn1.ask.skill.cc329efe-a846-488d-839e-8496750ff4fc)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 4
+![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the Holy Rosary skill, try saying...
 

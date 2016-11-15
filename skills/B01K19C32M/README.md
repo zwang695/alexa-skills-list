@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="SAT Vocabulary Quiz icon" width="36"> [SAT Vocabulary Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.dcb7a29f-6a91-4dfe-a5fd-f0f119a8378b)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the SAT Vocabulary Quiz skill, try saying...
 

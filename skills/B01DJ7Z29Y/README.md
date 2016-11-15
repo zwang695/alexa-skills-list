@@ -5,9 +5,9 @@ To use the Exchange Rate Service skill, try saying...
 
 * *Alexa, open exchange rates*
 
-Exchange Rate Service provides the latest, up to the minute, currency exchange rates.
+Exchange Rate Service v3 provides the latest, up to the minute, currency exchange rates.
 
-Users can change the default base rate, if required. Help is provided, that describes the available commands. The 2nd version of the skill will present a paginated list of 5 popular exchange rates.
+Users can change the default base and target rates, for custom conversion. Help is provided, that describes the available commands.
 
 eg . 1.00 USD = [ 1.31 AUD, 1.30 CAD, 0.97 CHF, 0.69 GBP, 66.28 INR ]
 

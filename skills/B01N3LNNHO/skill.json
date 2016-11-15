@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N3LNNHO",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This Skill tells you something about the history of Bremen",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa Ask bremen information for a fact",
+    "Alexa start bremen information"
+  ],
+  "firstReleaseDate": 1478848546.626,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.94be65f2-9d60-43f5-84d3-50d3ead69ce0",
+  "imageAltText": "Bremen information icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N3LNNHO/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "bremen information",
+  "name": "Bremen information",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Information about Bremen",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M24EMLGC3DOJ6",
+  "vendorName": "CKundel"
+}

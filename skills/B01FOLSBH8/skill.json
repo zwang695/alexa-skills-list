@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FOLSBH8",
-  "averageRating": 0,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "journal prompt",
   "name": "Daily Journal Prompts",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
@@ -30,5 +30,5 @@
   "stage": "live",
   "termsOfUseUrl": null,
   "vendorId": "M1FSR17RF1204C",
-  "vendorName": "Unity App Design"
+  "vendorName": "Unity"
 }

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Flash Card Quiz for Citrix Ports icon" width="36"> [Flash Card Quiz for Citrix Ports](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.de125342-4326-449a-9b9d-f85666b1bb34)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Flash Card Quiz for Citrix Ports skill, try saying...
 

@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "fitbit.com"
+  ],
+  "asin": "B01M2WIM6X",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Stepper for Fitbit allows the user to get the steps and miles walked or exercised by their friends on Fitbit or for their own account. After connecting Alexa to your Fitbit account, you can ask for the steps any of your friends have taken in the last 7 days, or miles. You can even ask for your own stats.\n\nNote: may not be suitable for users of all ages.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Stepper Exercise how many steps did Tyler do this week",
+    "how many miles did Tyler walk",
+    "how far did Tyler walk"
+  ],
+  "firstReleaseDate": 1477033970.77,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.cb4390b6-1c5a-4778-9520-631008f80c49",
+  "imageAltText": "Stepper for Fitbit icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M2WIM6X/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "stepper exercise",
+  "name": "Stepper for Fitbit",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "voCdva5THH7DeGdg1ATLJm3J2",
+  "permissions": null,
+  "privacyPolicyUrl": "http://s3.amazonaws.com/smooth_test/privacy.txt",
+  "shortDescription": "Accesses Fitbit leaderboard information from your Fitbit account.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "",
+  "vendorId": "M2BQ6MEJRL1K01",
+  "vendorName": "Tylopoda"
+}

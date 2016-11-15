@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Honeywell Total Connect Comfort icon" width="36"> [Honeywell Total Connect Comfort](http://alexa.amazon.com/#skills/amzn1.ask.skill.ddb5f0a7-5442-4564-b6f7-e2ecca895745)
-![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 96
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 140
 
 With the Honeywell skill and Alexa, you can now interact with your Honeywell Wi-Fi Total Connect Comfort (TCC) thermostat(s) by voice.
  

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Vitamin Cards icon" width="36"> [Vitamin Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.0ec2229b-821b-4693-a1f9-be02ca9f3eb8)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Vitamin Cards skill, try saying...
 

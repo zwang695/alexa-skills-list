@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Home Control Assistant icon" width="36"> [Home Control Assistant](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef3e0047-0258-44ad-a2c6-4b8792813b35)
-![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_half_black_18dp_1x.png) 12
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 20
 
 The Home Control Assistant is a full featured Home Automation application. This skill is the voice interface to the HCA Server running in your home. Using HCA you can control, program, and schedule lights and appliances using many popular automation protocols. 
 

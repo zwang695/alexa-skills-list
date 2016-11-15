@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01COCCKW2",
-  "averageRating": 3.2,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "sheep count",
   "name": "Sheep Count",
-  "numberOfReviews": 7,
+  "numberOfReviews": 14,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Fitbit icon" width="36"> [Fitbit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.297bd7f9-6659-4e55-8535-b8e8efff8f64)
-![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 69
+![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 98
 
 To use the Fitbit skill, try saying...
 

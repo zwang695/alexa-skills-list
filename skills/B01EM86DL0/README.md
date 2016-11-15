@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="The Bus Honolulu icon" width="36"> [The Bus Honolulu](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d9ad7478-d8b3-4d06-bbe5-06e72c3037b3)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the The Bus Honolulu skill, try saying...
 

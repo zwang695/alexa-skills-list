@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01LXO6PPS",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1475023329.263,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.ef172d0e-8408-4120-b0f9-deab2d0572c1",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LXO6PPS/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "SmartThings",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "B4gzzzjfbjKx45XBsQUopSwYt",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M25XHJDAAO8RHQ",
+  "vendorName": "SmartThings"
+}

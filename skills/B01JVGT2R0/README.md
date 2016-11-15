@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Movie Tagline Quiz icon" width="36"> [Movie Tagline Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.74bcb51e-a625-4edf-bddc-6ed16de31bd0)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Movie Tagline Quiz skill, try saying...
 

@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01M5GH465",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Use this skill at your own risk.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1477640824.518,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.cfe679c8-1a52-4e48-acad-0e417db672a3",
+  "imageAltText": "Smart Home GD icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M5GH465/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Smart Home GD",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "B5bOnn2UMRBYFUH9GKSPwuSwW",
+  "permissions": null,
+  "privacyPolicyUrl": "https://example.com/privacy",
+  "shortDescription": "Demo Skill that will not do much.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "https://example.com/privacy",
+  "vendorId": "MQVMWJYUH16A",
+  "vendorName": "Amazon Smart Home QA-1-Prod"
+}

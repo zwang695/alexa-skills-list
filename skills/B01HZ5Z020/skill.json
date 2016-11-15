@@ -1,30 +1,35 @@
 {
   "accountLinkingWhitelistedDomains": [
-    "usa.telehems.com",
-    "pitangui.amazon.com"
+    "www.telehems.com",
+    "pitangui.amazon.com",
+    "usa.telehems.com"
   ],
   "asin": "B01HZ5Z020",
   "averageRating": 0,
   "canDisable": false,
   "capabilities": null,
   "category": null,
-  "description": null,
+  "description": "To use the Telehems Skill,try saying …\nAlexa,turn on the room light（the room light is the name of smart switch）.\nAlexa,turn off lights in the room.\nAlexa,turn on the fan.\n\nUse the Telehems Skill to Control your smart devices with just the sound of your voice.you can easily connect your Telehems switch to Amazon Alexa and use simple voice commands to turn on/off your Telehems switch . \nTelehems account and switch required.",
   "enablement": null,
-  "exampleInteractions": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
   "firstReleaseDate": 1469730372.448,
   "homepageLinkText": null,
   "homepageLinkUrl": null,
   "id": "amzn1.ask.skill.9b10b3ed-d1c0-4949-bb2f-8006cdd1919b",
-  "imageAltText": null,
+  "imageAltText": "telehems icon",
   "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01HZ5Z020/skill_icon",
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
-  "name": "Telehems Labs Corporation",
+  "name": "telehems",
   "numberOfReviews": 0,
-  "pamsPartnerId": "HQBUkIuUcJt6bosX4yqqChD8G",
+  "pamsPartnerId": "5jukQGzAPV87FJagSF344pNOW",
   "permissions": null,
-  "privacyPolicyUrl": null,
-  "shortDescription": null,
+  "privacyPolicyUrl": "https://www.telehems.com/privacy.jsp",
+  "shortDescription": "“Alexa，turn on the room light”",
   "skillTypes": [
     "SMART_HOME"
   ],

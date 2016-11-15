@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Today's Astronomy Picture icon" width="36"> [Today's Astronomy Picture](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5c3d466c-1b41-46be-933b-bca418c85989)
-![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Today's Astronomy Picture skill, try saying...
 

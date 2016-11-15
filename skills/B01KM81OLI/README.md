@@ -9,7 +9,7 @@ To use the Terrapin Nav skill, try saying...
 
 * *Alexa, ask Terrapin Nav for the time from Prince Frederick Hall to Computer Science Instructional Center*
 
-Use Time to class to figure out how many minutes it takes to walk from one building to another at the Univeristy of Maryland.
+Use Terrapin Nav to figure out how many minutes it takes to walk from one building to another at the University of Maryland.
 
 ***
 

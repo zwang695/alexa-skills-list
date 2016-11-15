@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Mirror Mirror icon" width="36"> [Mirror Mirror](http://alexa.amazon.com/#skills/amzn1.ask.skill.63bc9ca1-0d40-4b5e-9d42-a1b96905f069)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Mirror Mirror skill, try saying...
 

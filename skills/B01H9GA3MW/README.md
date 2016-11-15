@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Funny Pun Now icon" width="36"> [Funny Pun Now](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a9283287-feab-4ceb-8b60-647db5ca4e6d)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Funny Pun Now skill, try saying...
 

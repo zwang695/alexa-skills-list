@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="TalkLocal icon" width="36"> [TalkLocal](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f3413a23-9bcd-466b-b6d2-7c95371fc66b)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the TalkLocal skill, try saying...
 

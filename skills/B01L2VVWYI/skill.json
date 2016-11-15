@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01L2VVWYI",
-  "averageRating": 0,
+  "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -9,8 +9,8 @@
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask My Pregnancy for my weekly update",
-    "Tell My Pregnancy to set my due date",
-    "Ask My Pregnancy how far along I am"
+    "Alexa, tell My Pregnancy to set my due date",
+    "Alexa, ask My Pregnancy how far along I am"
   ],
   "firstReleaseDate": 1472560481.407,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my pregnancy",
   "name": "My Pregnancy from BabyCenter",
-  "numberOfReviews": 0,
+  "numberOfReviews": 13,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.babycenter.com/help-privacy",

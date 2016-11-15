@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01EPE8HCE",
-  "averageRating": 3,
+  "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Now you can query for the ticket status of any of your favorite open source projects, such as: Spark, Kafka, Cassandra or Log4j just to mention a few.\n\nJust ask Bug Tracker the ticket number that you are interested in, and you will get all the relevant information related to the ticket.",
+  "description": "Now you can query for the ticket status of any of your favorite open source projects, such as: Spark, Kafka, Cassandra or Log4j just to mention a few.\n\nJust ask Bug Tracker the ticket number that you are interested in, and you will get all the relevant information related to the ticket.\n\nFor those interested on the git repo, here is the link:\n\nhttps://github.com/eschizoid/jiralexa\n\nPull requests welcome ;)",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Bug Tracker what is the status for ticket CAMEL 1099?",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "bug tracker",
   "name": "Bug Tracker",
-  "numberOfReviews": 1,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

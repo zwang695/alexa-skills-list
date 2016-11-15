@@ -10,7 +10,10 @@ To use the US Lotto skill, try saying...
 * *about Power Ball.*
 
 Wanna know if you are the lucky guy in the country today? Just ask US Lotto! Right now US Lotto supports both Power Ball and Mega Millions, the two most-famous lotteries in the US. You can ask both for the winning numbers and for the next jackpot. May the luck be with you!
+
 Disclaimer: results provided by US Lotto are btained by non-official websites. It is advisory to check the results in the official Power Ball and/or Mega Millions websites.
+
+This skill provides lottery results, and thus is not suitable for all ages.
 
 ***
 

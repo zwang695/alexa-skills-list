@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Capitals of The World Flash Cards icon" width="36"> [Capitals of The World Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.342ef7eb-6608-4e94-bbfc-0eb4d954d9bc)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Capitals of The World Flash Cards skill, try saying...
 

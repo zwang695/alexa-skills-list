@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Daily Buzzword icon" width="36"> [Daily Buzzword](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6e717589-1014-4337-89bd-9b9265400396)
-![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 12
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 12
 
 To use the Daily Buzzword skill, try saying...
 
@@ -12,7 +12,6 @@ To use the Daily Buzzword skill, try saying...
 This skill reads out the definition of the Merriam-Webster Buzzword of the day from their wordcentral.com website. Optionally it reads out an example usage of the word and a quiz related to the word.
 In the quiz, saying "The answer is B" for example, helps Alexa to hear better than just saying "B" on its own. You can say "pass" if you do not know the answer, or just have a guess for fun.
 You can say "repeat" at most stages to hear a section again.
-This buzzword is more suitable for younger humanoids or those learning English.
 This skill is not written by Merriam-Webster so errors or omissions are probably my own.
 
 ***

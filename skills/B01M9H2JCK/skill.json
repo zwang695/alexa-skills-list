@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "alexa.bluelink.hyundaiusa.com"
+  ],
+  "asin": "B01M9H2JCK",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "The Hyundai Blue Link Skill allows Hyundai vehicle owners the ability to Remote Start, set the desired interior cabin temperature, Remote Lock/Unlock, Remote Start Charge/Stop Charge, Remote Horn & Lights and more using Alexa. (Note: The Blue Link Skill currently supports all 2017 or later Blue Link equipped vehicles, the following 2016 vehicles: Hyundai Genesis, Azera, Tucson (Limited Trim), Sonata (SE, Sport Limited, Sport 2.0T, Limited 2.0T, Eco 1.6T), Sonata Hybrid (Limited Ultimate package), Sonata Plug-In Hybrid, Veloster (Tech package), Elantra GT (Tech package) and the following 2015 vehicles: Hyundai Genesis, Sonata with Factory-installed Navigation, Azera).\n\n• Log into the Skill using your MyHyundai Username and Password. \n• In order to access remote functions you must provide your Blue Link PIN verbally to the Alexa-enabled device. \n\nCAUTION: \n• It is recommended to only use this Skill in a secure and private setting. It is not recommended to use this Skill in the presence of others including children. \n\n• An active Remote Package subscription is required to access the Hyundai Blue Link Skill. \n• To enroll in Hyundai Blue Link visit www.hyundaiusa.com or visit your preferred Hyundai Dealer.\n• For MyHyundai Account technical assistance contact: www.hyundaiusa.com/loginhelp.\n• For Blue Link feature information: www.hyundaiusa.com/bluelink.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell Blue Link to start my Sonata and set the temperature to 72 degrees.",
+    "Alexa, tell Blue Link to lock my Sonata.",
+    "Alexa, tell Blue Link to flash the lights of my Sonata."
+  ],
+  "firstReleaseDate": 1479154363.567,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.3dbb3a03-a910-4ad8-82a0-cb6fd97e94a3",
+  "imageAltText": "Hyundai Blue Link icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M9H2JCK/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "blue link",
+  "name": "Hyundai Blue Link",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "7Vd2PSN8kLQskif9L1GFSkGaK",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.hyundaiusa.com/bluelink-privacy-policy.aspx",
+  "shortDescription": "The Hyundai Blue Link Skill allows Hyundai owners the ability to Remote Start, set the desired interior cabin temperature, Remote Lock/Unlock, and more.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.genesismotorsusa.com/connectedservices-terms-condition.html",
+  "vendorId": "M1CSU7CCHXJYGY",
+  "vendorName": "Hyundai Motor America"
+}

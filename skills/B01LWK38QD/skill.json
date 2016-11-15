@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01LWK38QD",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Welcome to the basic Hive skill for Alexa.  This skill will enable you to ask Alexa to control your connected Hive devices.\n\nTo get started, ensure that your Hive Hub and associated devices are connected and online.  You’ll then need to enable the Hive skill by tapping ‘Enable skill’ at the top of this screen.  Then, you’ll be asked to provide your Hive login details so that Alexa can control your devices for you. \n\nHere’s a handy list of commands you can use with Alexa and Hive to control your home:\n\nHive Active Heating™ (assuming the name of your thermostat device is \"room\")\nAlexa, set room temperature to 26 degrees\nAlexa, increase room temperature\nAlexa, decrease room temperature by 3 degrees\n\nHive Active Light™\nAlexa, turn on my light\nAlexa, turn off my light\n\nHive Active Plug™\nAlexa, turn my plug on\nAlexa, turn my plug off\n\n\nRequirements:\nHive user account, password, and Hive Hub.\nOne or more of the following Hive devices: Hive Active Heating™, Hive Active Light™, Hive Active Plug™",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1475048550.364,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.f7e88bbf-bcdf-4727-a7f8-57f572677a37",
+  "imageAltText": "Hive - Optimised for Smart Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LWK38QD/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Hive - Optimised for Smart Home",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "lCAcsbXxco4DYfPHYzGOtrEGe",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.hivehome.com/privacy",
+  "shortDescription": "You can now control your Hive devices with Amazon Echo and Alexa.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "https://www.hivehome.com/terms",
+  "vendorId": "M1SA34B21V2L5T",
+  "vendorName": "British Gas"
+}

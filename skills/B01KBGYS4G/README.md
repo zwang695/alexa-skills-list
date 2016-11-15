@@ -21,6 +21,6 @@ Alexa will provide you with a set of questions on classical music, ranging from 
 * **Category:** null
 * **ID:** amzn1.ask.skill.3995e623-4bcf-4e3e-990d-3bee078a5508
 * **ASIN:** B01KBGYS4G
-* **Author:** Linda
+* **Author:** Onegin
 * **Release Date:** August 19, 2016 @ 02:52:25
 * **In-App Purchasing:** No

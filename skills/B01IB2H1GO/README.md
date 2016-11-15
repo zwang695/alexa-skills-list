@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bay Area Transit for Caltrain icon" width="36"> [Bay Area Transit for Caltrain](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eb4c69c2-5e93-4034-a40a-66b736fa575c)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Bay Area Transit for Caltrain skill, try saying...
 

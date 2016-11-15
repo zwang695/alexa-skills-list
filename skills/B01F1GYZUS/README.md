@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Color Game icon" width="36"> [Color Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.805d51a2-a111-41d3-9517-735ddde78bac)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Color Game skill, try saying...
 

@@ -1,11 +1,14 @@
 {
-  "accountLinkingWhitelistedDomains": null,
+  "accountLinkingWhitelistedDomains": [
+    "www.alotofpilates.com",
+    "alop.herokuapp.com"
+  ],
   "asin": "B01DKH76EC",
   "averageRating": 2.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "This Skill will guide you through a Pilates sequence of exercises. If you are familiar with Pilates it will be a joy to have Alexa teach you a Pilates class. The class is a Basic Beginner Pilates Class and it lasts about 20-30 minutes long. All you need for this class is a Pilates mat and the wiliness to feel great! To learn more about Pilates exercies and take a variety of Pilates class including video classes, visit ALotOfPilates.com",
+  "description": "Take Pilates classes with Alexa. All you need to get started is a Pilates mat and about 10-20 minutes of your time. You don't need any equipment for these classes. The classes are primarily based on the classical Pilates mat sequences. Alexa knows a variety of Pilates sequences, so it won’t get boring. Say ‘Alexa, start pilates class’, and let Alexa guide you through an enjoyable Pilates experience. To learn more about Pilates exercises and take a variety of Pilates classes, visit ALotOfPilates.com",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, start pilates class",
@@ -22,13 +25,13 @@
   "launchPhrase": "pilates class",
   "name": "ALOP-Pilates-Class-Skill",
   "numberOfReviews": 10,
-  "pamsPartnerId": null,
+  "pamsPartnerId": "1gVyWZSqwEd5V7R832OWqhIS2",
   "permissions": null,
-  "privacyPolicyUrl": "http://www.alotofpilates.com/terms",
-  "shortDescription": "Take a pilates class from ALotOfPilates.com. Get ready to feel great!",
+  "privacyPolicyUrl": "https://www.alotofpilates.com/terms",
+  "shortDescription": "Take traditional Pilates mat classes from ALotOfPilates.com with Amazon Echo. Let Alexa guide you through a series of Pilates exercises. Get ready to feel great",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": "http://www.alotofpilates.com/terms",
+  "termsOfUseUrl": "",
   "vendorId": "M1VYXPO7763MWG",
   "vendorName": "A Lot Of Pilates"
 }

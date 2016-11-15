@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Earthquake Info icon" width="36"> [Earthquake Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4b1cf065-10cc-460b-808d-0f0dd8e5440e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Earthquake Info skill, try saying...
 

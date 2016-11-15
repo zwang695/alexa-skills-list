@@ -3,15 +3,17 @@
 
 To use the Moblor skill, try saying...
 
-* *Alexa, ask Moblor*
+* *Alexa, ask Moblor how many open opportunities do I have*
 
-* *how many open opportunities do I have*
+* *Alexa, ask Moblor how many cases did my team close yesterday*
 
-* *what's the number of open opportunities do my team have*
+* *Alexa, ask Moblor how many leads do I need to qualify today*
 
-Moblor is a app to connect Amazon Echo with Salesforce. Users can ask moblor questions related to open opportunities in Salesforce, such as how many open opportunities do I or my team have. The Skill needs accounting linking to appropriate Salesforce org. And install the package bellow to appropriate Salesforce orgs.
+Moblor adds AI to Salesforce. With the Moblor skill, you ask Alexa what's happening in your Salesforce without having to open your computer or pick up your phone. It's the true convenience of getting to know things by just asking.
 
-https://login.salesforce.com/packaging/installPackage.apexp?p0=04t36000000k8sB
+In order to use the Moblor skill, you will need to install our AppExchange app to your Salesforce org. You can find the app by searching "Moblor" at appexchange.com.
+
+Disclaimer: this skill might be suitable for all ages.
 
 ***
 
@@ -23,5 +25,5 @@ https://login.salesforce.com/packaging/installPackage.apexp?p0=04t36000000k8sB
 * **ASIN:** B01H6ZKQDM
 * **Author:** Moblor Inc.
 * **Release Date:** August 5, 2016 @ 07:37:23
-* **Privacy Policy:** https://www.moblor.com
+* **Privacy Policy:** https://www.moblor.com/amazon-echo/privacy-policy
 * **In-App Purchasing:** No

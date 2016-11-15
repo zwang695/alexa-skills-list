@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Stupid Musician Jokes icon" width="36"> [Stupid Musician Jokes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e53194ce-d497-4b32-ad55-b71f064d5a92)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 6
 
 To use the Stupid Musician Jokes skill, try saying...
 

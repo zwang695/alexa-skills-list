@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Beer Goggles icon" width="36"> [Beer Goggles](http://alexa.amazon.com/#skills/amzn1.ask.skill.3af234a4-0c61-49c6-a558-765ddf7f137a)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
 
 To use the Beer Goggles skill, try saying...
 

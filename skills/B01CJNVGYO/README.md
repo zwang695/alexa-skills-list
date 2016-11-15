@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Thermostat Controller icon" width="36"> [Thermostat Controller](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.92ba4f64-ff14-4197-8f41-d4d258da155b)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 40
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 53
 
 To use the Thermostat Controller skill, try saying...
 

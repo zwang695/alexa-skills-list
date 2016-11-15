@@ -1,8 +1,17 @@
 # &nbsp;<img src="skill_icon" alt="TP-LINK Kasa icon" width="36"> [TP-LINK Kasa](http://alexa.amazon.com/#skills/amzn1.ask.skill.b4bf2b4d-5f4e-458b-a3b4-5e900cea5fd9)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 45
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 108
 
-Kasa is a simple way to manage your home from anywhere. You can link Kasa with Amazon Echo to control devices like smart plugs and smart lights with simple voice commands. Just say “turn on the Christmas tree lights” and watch your kids’ faces light up. 
-Before you proceed, please make sure that you have a TP-LINK Cloud account and you have enabled Remote Control from the TP-LINK Kasa App for each device that you wish to control through Amazon Alexa. For more information, please read the FAQ on how to connect TP-LINK devices to Alexa at http://bit.ly/290cIcf.
+With the TP-LINK Kasa skill and Alexa, you can now interact with your TP-LINK Kasa lights and switches by voice. To get started, select the ‘Enable Skill’ button in the Alexa App to link your TP-LINK Kasa account and discover your device(s). Find more information about connecting Smart Home devices at http://amzn.to/291lR7u.
+
+When using the skill, you need to specify by name which device to use. There are two ways to define this/these name(s):
+* Use the name(s) you set up already – these are shown in the TP-LINK Kasa app and can be changed, or
+* Create an Alexa group, like Bedroom or Downstairs, and add the device to the group. More information is available at http://amzn.to/2965dCE.
+
+Once you know the name or group of your device(s), you can say the following: 
+* If you have switches or non-dimmable lights, you can turn them on/off, for example: “Alexa, turn on my Bedroom lights”.
+* If you have dimmable lights, you can change the brightness, for example: “Alexa, brighten Downstairs to 60 percent", or "Alexa, dim the Living Room lights".
+
+If you have any questions, please visit the TP-LINK Kasa Alexa FAQ at http://bit.ly/290cIcf.
 
 ***
 

@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "btccontentserver.bmwgroup.com",
+    "myc-profile.bmwgroup.com"
+  ],
+  "asin": "B01M5DO8BV",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1477683722.858,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.378f141d-aae2-42c2-8b20-88ac63a125e4",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M5DO8BV/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "BMW Technology Group",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "SbNfG5WhyRisrEAlpG6BdR7OD",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1YJ4SR1B4X1TH",
+  "vendorName": "BMW Technology Group"
+}

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Code Phrase Generator icon" width="36"> [Code Phrase Generator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c00ae347-78bf-4165-a1b1-6f302b5c6180)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Code Phrase Generator skill, try saying...
 

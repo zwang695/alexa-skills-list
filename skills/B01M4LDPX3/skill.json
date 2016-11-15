@@ -1,0 +1,52 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "accounts.logi.com",
+    "accounts.google.com",
+    "graph.facebook.com",
+    "facebook.com",
+    "static.xx.fbcdn.net",
+    "m.facebook.com",
+    "www.facebook.com",
+    "fonts.gstatic.com",
+    "www.google.com",
+    "sso.logitech.com",
+    "accounts.google.co.in",
+    "accounts.google.ca",
+    "logi.my.salesforce.com",
+    "delauth.secure.force.com",
+    "na24.salesforce.com"
+  ],
+  "asin": "B01M4LDPX3",
+  "averageRating": 2.6,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Use Amazon Alexa with your Logitech Harmony hub-based remote to start and stop Harmony Activities. Use your voice to jump to your favorite TV station or directly into a Roku channel. For example, say \"Alexa, turn on the TV\" to power on your TV, AV receiver and cable box and set them all to the right inputs. You can also set up friendly names, allowing you to say \"Alexa, turn on the Xbox\" to trigger your Harmony Play Game Activity. This skill currently supports one Harmony hub and doesn't yet allow for adjusting volume or play/pause.\n\nTry saying\n \"Alexa, turn on the TV\" \n \"Alexa, turn on Netflix\" \n \"Alexa, turn on the Discovery Channel\" \n \"Alexa, turn on the Xbox\" \n \"Alexa, turn off my entertainment center\"\n\nAmazon Alexa works with Logitech Harmony Elite, Harmony Companion and Harmony Hub; available at logitech.com/harmony\n\nFor additional information, support or help linking your accounts together, visit myharmony.com/alexa",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1477386884.34,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.c5f32b0b-92c4-473a-b0ad-3a2e83d777bd",
+  "imageAltText": "Harmony — Optimized for Smart Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M4LDPX3/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Harmony — Optimized for Smart Home",
+  "numberOfReviews": 394,
+  "pamsPartnerId": "Dc3U6AwCkG9tOdoZekPv1DWTZ",
+  "permissions": null,
+  "privacyPolicyUrl": "https://files.myharmony.com/Assets/legal/en/privacypolicy.html",
+  "shortDescription": "Use Amazon Alexa with your Logitech Harmony hub-based remote to start and stop Harmony Activities or tune to your favorite TV channel.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "https://files.myharmony.com/Assets/legal/en/termsofuse.html",
+  "vendorId": "M2OT8P7Y6NNQO8",
+  "vendorName": "Logitech"
+}

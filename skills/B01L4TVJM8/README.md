@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Quote of the Day icon" width="36"> [Quote of the Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.ceb13b16-188f-40d1-b20e-654cb1d8f600)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Quote of the Day skill, try saying...
 

@@ -1,0 +1,37 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "accounts.brillion.geappliances.com",
+    "www.geappliances.com"
+  ],
+  "asin": "B01JH04N74",
+  "averageRating": 2.4,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Geneva works with your Amazon Echo to take GE and Monogram’s suite of WiFi Connect Appliances to the next level of awesome with hands-free voice controls.\n\nWith Alexa and Geneva working together, you can use simple voice commands like,  \"Alexa, ask Geneva to pre-heat the oven to three-fifty\" or  \"Alexa, ask Geneva if my clothes are clean”. If you have a GE refrigerator with a built-in Keurig® K-Cup® Brew System, you can say, \"Alexa, ask Geneva to heat water for coffee\".\n\nTo use this skill, you must have one or more GE Appliances or Monogram WiFi Connect products connected to your home wifi network.\n\nTo get started:\n - Click the ENABLE button or say \"Alexa, enable Geneva skill\"\n - Ensure your GE appliance is connected. For more information, go to geappliances.com/connecthelp\n - Enter your GE Appliances WiFi Connect username and password to link your account\n\n\nHere are some of the ways Alexa and Geneva can work together to bring voice control to your GE WiFi Connect appliances:\n\nRefrigerator\nAlexa, tell Geneva to make hot water for tea \nAlexa, tell Geneva to turn on TurboCool \n\nWall Oven & Range\nAlexa, tell Geneva to preheat the oven to 350 degrees \nAlexa, tell Geneva to set cook timer for 20 minutes \n\nDishwasher\nAlexa, ask Geneva when the dishwasher will be finished \nAlexa, ask Geneva do I need rinse aid\n\nWasher\nAlexa, ask Geneva if my clothes are clean \n\nDryer\nAlexa, ask Geneva is my laundry dry\nAlexa, tell Geneva to keep tumbling \n\nGeoSpring Water Heater\nAlexa, tell Geneva to set the water heater to vacation mode for 7 days \nAlexa, tell Geneva to set the water heater to 110 degrees \n\nWindow Air Conditioner\nAlexa, ask Geneva to turn on my Air Conditioner\nAlexa, ask Geneva to set my Air Conditioner to 70 degrees\n\n\nFor a full list of features and voice prompts, go to geappliances.com/genevahelp\n\nQuestions?\nVisit geappliances.com/connecthelp or call GE Appliances’ Connected Home Support Line at 1-800-220-6899, M-F, 9am - 6pm EST.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, launch Geneva.",
+    "Alexa, tell Geneva to preheat my oven to 350 degrees.",
+    "Alexa, ask Geneva to heat water for coffee."
+  ],
+  "firstReleaseDate": 1473696719.264,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.e88379e5-49e7-4d90-a537-161bc364982d",
+  "imageAltText": "Geneva icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01JH04N74/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "geneva",
+  "name": "Geneva",
+  "numberOfReviews": 5,
+  "pamsPartnerId": "QqYKrEnJwdpMuCyraGfPXyS7p",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.geappliances.com/privacy/privacy_policy_connected.htm",
+  "shortDescription": "Control your GE Appliances connected products with our voice assistant skill, Geneva!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://www.geappliances.com/home-energy-manager/end-user-license-agreement.htm",
+  "vendorId": "M3GY9PHAF1K8YW",
+  "vendorName": "GE Appliances"
+}

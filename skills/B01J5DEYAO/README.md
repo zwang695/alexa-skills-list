@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Jab icon" width="36"> [Jab](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a51d8fc8-9283-4d67-9a2b-a3790b5bc51e)
-![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 9
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 20
 
 To use the Jab skill, try saying...
 

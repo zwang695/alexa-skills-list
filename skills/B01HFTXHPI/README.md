@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="DC Metro Alerts icon" width="36"> [DC Metro Alerts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.804fe8f3-eaa8-477e-8654-1ebf3fd4634a)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the DC Metro Alerts skill, try saying...
 

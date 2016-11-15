@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Chat Bot for Slack icon" width="36"> [Chat Bot for Slack](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4afd4127-c43a-4729-9dd4-1a159cfffe92)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![1.7 stars](../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Chat Bot for Slack skill, try saying...
 

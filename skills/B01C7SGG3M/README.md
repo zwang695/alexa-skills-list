@@ -1,15 +1,15 @@
 # &nbsp;<img src="skill_icon" alt="NBC News icon" width="36"> [NBC News](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6a149394-db4b-4511-b52b-dc45abf0c19d)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 10
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the NBC News skill, try saying...
 
-* *Alexa, ask NBC News for Ohio Democratic primary results*
+* *Alexa, ask NBC News for current political news*
 
 * *Alexa, ask NBC News how Donald Trump is doing?*
 
 * *Alexa, ask NBC News when is the next debate?*
 
-Stay up to date with NBC News for the 2016 United States presidential elections. Keep informed with all things elections including primary and caucus results as they become available, the latest news recap, candidate bios, top headlines, how your favorite candidate is doing, when the primary or caucus is in a given state, when the next debate is, who has dropped out, and on-going updates.
+Stay up to date with NBC News for the 2016 United States presidential elections. Keep informed with all things elections including the latest news recap, recent headlines, candidate bios, top headlines, how your favorite candidate is doing, candidate career, personal info about the candidate and on-going updates.
 
 ***
 

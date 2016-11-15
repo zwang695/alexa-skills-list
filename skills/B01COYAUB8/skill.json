@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01COYAUB8",
-  "averageRating": 4.1,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "portal",
   "name": "Ubi Portal Voice Prototyping Tool",
-  "numberOfReviews": 5,
+  "numberOfReviews": 7,
   "pamsPartnerId": "zvSVgeytdwDhdNsgvwamTVlhI",
   "permissions": null,
   "privacyPolicyUrl": "https://www.freeprivacypolicy.com/free-privacy-policy.html",

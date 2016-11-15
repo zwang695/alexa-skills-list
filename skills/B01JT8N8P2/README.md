@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="DO IT icon" width="36"> [DO IT](http://alexa.amazon.com/#skills/amzn1.ask.skill.57c7c7fb-9561-4a7a-bd4d-ece87425e976)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
+![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the DO IT skill, try saying...
 

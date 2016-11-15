@@ -1,16 +1,25 @@
 # &nbsp;<img src="skill_icon" alt="iDevices icon" width="36"> [iDevices](http://alexa.amazon.com/#skills/amzn1.ask.skill.cbeef66c-d356-474e-b8f6-ccfb22cc72b0)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 8
+![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 19
 
-Use Alexa to control your iDevices Switch, Outdoor Switch, Thermostat, and Socket.  Tell Alexa to turn on/off your lights, set the dim level of your Socket, and adjust the temperature of your Thermostat.
+With the iDevices skill, you can now use Alexa to interact with your iDevices Switch, Outdoor Switch, Socket and Thermostat by voice. To get started, select the ‘Enable Skill’ button in the Alexa App. Login into your Amazon account in the iDevices Connected app to link and discover your products. Find more information about connecting Smart Home devices at http://amzn.to/291lR7u.
 
-Make sure to log into your Amazon account in the iDevices Connected app for iOS to link your products.
+When using the skill, you need to specify by name which product(s) you want to control. 
+* For single product control use the specific name you set up already in the iDevices Connected app 
+* For multiple products, create an Alexa group in the Alexa app, like Bedroom or Downstairs, and add the products you want to the group. More information is available at http://amzn.to/2965dCE.
+
+Once you know the name or group, you can say the following: 
+* If you have iDevices Switch or Outdoor Switch, you can turn them on/off, for example: “Alexa, turn on my Bedroom lights”.
+* If you have iDevices Socket, you can change the brightness, for example: “Alexa, brighten Downstairs to 60 percent", or "Alexa, dim the Living Room lights".
+* If you have iDevices Thermostat, you can change the temperature, for example: “Alexa, lower Bedroom by 3 degrees”, or “Alexa, set Downstairs temperature to 72”.
+
+If you have any questions, please visit the iDevices FAQ at http://idevicesinc.com/support/switch/100432928/.
 
 ***
 
 ### Skill Details
 
 * **Invocation Name:** null
-* **Category:** CONNECTED_HOME
+* **Category:** null
 * **ID:** amzn1.ask.skill.cbeef66c-d356-474e-b8f6-ccfb22cc72b0
 * **ASIN:** B01G98LFFA
 * **Author:** iDevices, LLC

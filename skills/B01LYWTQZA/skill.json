@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "weightgurus.com",
+    "api.weightgurus.com",
+    "auth.alexa.weightgurus.com"
+  ],
+  "asin": "B01LYWTQZA",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Alexa works together with the Weight Gurus app to act as your personal fitness coach. When you weigh in on your bathroom scale, you can ask Alexa to make a new entry in the Weight Gurus app by using commands like “Alexa, ask Weight Gurus to record 140 pounds.” Set your goal by specifying a target weight or an amount you want to lose or gain, and change that goal at any time. Find out how close you are to your goal weight by asking for updates, and celebrate important milestones along the way with a few words of encouragement.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell Weight Gurus to record 150 pounds.",
+    "Alexa, ask Weight Gurus to set goal at 140 pounds.",
+    "Alexa, ask Weight Gurus to update me on my progress."
+  ],
+  "firstReleaseDate": 1476427578.911,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.922a8aa4-46cd-48b8-9982-e558d25dba47",
+  "imageAltText": "Weight Gurus icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LYWTQZA/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "weight gurus",
+  "name": "Weight Gurus",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "PUxxh7MSEmcM1KHkXjhfXCnqD",
+  "permissions": null,
+  "privacyPolicyUrl": "https://greatergoods.com/privacy",
+  "shortDescription": "Alexa works with the Weight Gurus app to help you meet fitness goals. Use voice commands to record your weight, set targets, and get updates on your progress.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://greatergoods.com/tos",
+  "vendorId": "M2ZBO27MBPZ5N0",
+  "vendorName": "Greater Goods"
+}

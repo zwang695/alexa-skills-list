@@ -23,6 +23,6 @@ If you have any feedback or suggestions for improvements or updates, please use 
 * **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.2eb96903-f1fa-4260-b091-86d5f11afbf4
 * **ASIN:** B01FOR4068
-* **Author:** Unity App Design
+* **Author:** Unity
 * **Release Date:** May 20, 2016 @ 18:08:30
 * **In-App Purchasing:** No

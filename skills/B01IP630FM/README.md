@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Tea Helper icon" width="36"> [Tea Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.43de1112-c924-46eb-b053-b8a410268e36)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Tea Helper skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Funny Batman Trivia icon" width="36"> [Funny Batman Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8a1cd5f5-9ee9-4ccd-8a6e-cb9672d16420)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Funny Batman Trivia skill, try saying...
 

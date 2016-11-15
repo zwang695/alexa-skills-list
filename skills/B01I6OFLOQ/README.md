@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Secret Keeper icon" width="36"> [Secret Keeper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.87315626-57ae-48a7-a402-a5f54ff170ac)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Secret Keeper skill, try saying...
 

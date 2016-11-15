@@ -1,13 +1,13 @@
 # &nbsp;<img src="skill_icon" alt="CloudStatus icon" width="36"> [CloudStatus](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7df152ec-4599-4aaf-be89-75f1caa87c56)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the CloudStatus skill, try saying...
 
-* *Alexa, ask CloudStatus about the Northern Virginia region*
+* *Alexa, ask CloudStatus about all regions*
 
-* *What's up in eu-west-1?*
+* *Tell me more about Northern Virginia*
 
-* *Tell me about Mumbai*
+* *What's up in ap-south-1?*
 
 The CloudStatus Alexa Skill provides an interface to AWS service status information.
 
@@ -16,8 +16,6 @@ Let CloudStatus know what region you want to check and Alexa will respond with a
 When issues occur, please access the AWS status page directly for details: http://status.aws.amazon.com/
 
 Note: If AWS Lambda in us-east-1 is experiencing a disruption, the CloudStatus skill itself may not be responsive.
-
-Let us know what additional cloud services you would like to be able to check with the CloudStatus skill (e.g., AWS GovCloud, AWS China, Google Cloud, Azure, GitHub, Twilio).
 
 Feedback: cloudstatus@stormyriver.com
 

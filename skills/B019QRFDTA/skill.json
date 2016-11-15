@@ -3,10 +3,11 @@
     "simplecontrol.com",
     "roomieremote.com",
     "google.com",
-    "googleapis.com"
+    "googleapis.com",
+    "bootstrapcdn.com"
   ],
   "asin": "B019QRFDTA",
-  "averageRating": 2.6,
+  "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -26,7 +27,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "simple control",
   "name": "Simple Control",
-  "numberOfReviews": 23,
+  "numberOfReviews": 25,
   "pamsPartnerId": "fJOP4Q7OvJFWbksnZChVtFQJQ",
   "permissions": null,
   "privacyPolicyUrl": "http://www.simplecontrol.com/privacy-policy/",

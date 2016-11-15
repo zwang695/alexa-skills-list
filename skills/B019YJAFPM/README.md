@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Ooma icon" width="36"> [Ooma](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.adf4e9b1-c844-4fed-9966-4e21d3a04e30)
-![1.8 stars](../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png) 97
+![1.9 stars](../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png) 109
 
 To use the Ooma skill, try saying...
 

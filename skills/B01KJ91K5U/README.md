@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Audio Battleship icon" width="36"> [Audio Battleship](http://alexa.amazon.com/#skills/amzn1.ask.skill.3e7ce8c3-fe25-4b28-b1e7-f4b7525644f2)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Audio Battleship skill, try saying...
 
@@ -22,7 +22,7 @@ Icon: USS Iowa - United States Navy/Wikimedia Commons
 * **Category:** null
 * **ID:** amzn1.ask.skill.3e7ce8c3-fe25-4b28-b1e7-f4b7525644f2
 * **ASIN:** B01KJ91K5U
-* **Author:** Drexel University
+* **Author:** Josep Valls-Vargas
 * **Release Date:** August 23, 2016 @ 07:19:23
 * **Terms of Use:** https://115iec5pk1.execute-api.us-east-1.amazonaws.com/prod/pub
 * **In-App Purchasing:** No

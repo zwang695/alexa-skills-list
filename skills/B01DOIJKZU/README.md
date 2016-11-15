@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Conference Manager icon" width="36"> [Conference Manager](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5adf6763-708e-47ba-b9bd-f666f1d46b05)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Conference Manager skill, try saying...
 

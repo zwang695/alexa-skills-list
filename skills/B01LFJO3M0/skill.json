@@ -1,0 +1,39 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "api.twitter.com",
+    "twitter.com",
+    "ub3fox8qf1.execute-api.us-east-1.amazonaws.com",
+    "mobile.twitter.com"
+  ],
+  "asin": "B01LFJO3M0",
+  "averageRating": 3.2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "A Twitter account is needed before you can use the skill. Twitter Reader can read your home Timeline, Mentions, Retweets and Likes. You can also discover Trends by location.\n\nHere’s some of the ways you can use the skill -\n\nLatest Tweets from your home Timeline:\nAlexa, ask Twitter what is happening?\n\nTrending Tweets near you:\nAlexa, ask Twitter for Trends\n\nTrending Tweets at a location:\nAlexa, ask Twitter for Trends in Seattle\n\nMentions:\nAlexa, ask Twitter for my Mentions\n\nRetweets:\nAlexa, ask Twitter has anyone Retweeted me?\n\nLiked tweets:\nAlexa, ask Twitter for tweets I liked\n\nYour Tweets:\nAlexa, ask Twitter for my own Tweets\n\nYou can also get more information about a particular Tweet or Trend. After listening to a list of trends you can say “tell me more about number 5” to hear a list of tweets for the fifth trend you heard. After listening to a list of Tweets, you can say “tell me more about number 2” to hear more information about the second Tweet you heard.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Twitter",
+    "Alexa, ask Twitter what is happening?",
+    "Alexa, ask Twitter for trends"
+  ],
+  "firstReleaseDate": 1473280405.486,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.92fcd5f0-04d1-4b18-8235-7120ce8f9feb",
+  "imageAltText": "Twitter Reader icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LFJO3M0/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "twitter",
+  "name": "Twitter Reader",
+  "numberOfReviews": 30,
+  "pamsPartnerId": "FzUOCILgj5da2obuvxCnYruRZ",
+  "permissions": null,
+  "privacyPolicyUrl": "https://twitter.com/privacy?lang=en",
+  "shortDescription": "Twitter Reader can read your home Timeline, Mentions, Retweets and Likes. You can also discover Trends by location.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://twitter.com/tos?lang=en",
+  "vendorId": "M18O0S9MFZ3R5M",
+  "vendorName": "Twitter Inc."
+}

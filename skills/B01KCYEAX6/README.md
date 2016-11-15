@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="What Diet Decision icon" width="36"> [What Diet Decision](http://alexa.amazon.com/#skills/amzn1.ask.skill.8f4e84c8-22a9-4b6f-b048-7ea27da81ace)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the What Diet Decision skill, try saying...
 

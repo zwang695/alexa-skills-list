@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01A1HZKM4",
-  "averageRating": 3,
+  "averageRating": 3.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "fortune",
   "name": "Fortune",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://github.com/miguelmota/ASK-fortune/wiki/Privacy-Policy",

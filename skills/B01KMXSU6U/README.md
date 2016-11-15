@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Simple Calculator icon" width="36"> [Simple Calculator](http://alexa.amazon.com/#skills/amzn1.ask.skill.b7ccbb1e-daba-407d-9673-72acf4d21c9b)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Simple Calculator skill, try saying...
 

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BZ7TO5S",
-  "averageRating": 1.3,
+  "averageRating": 1.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "cook book",
   "name": "CookBook",
-  "numberOfReviews": 11,
+  "numberOfReviews": 12,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

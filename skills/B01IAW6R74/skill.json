@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01IAW6R74",
-  "averageRating": 5,
+  "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "sushi facts",
   "name": "Sushi Facts",
-  "numberOfReviews": 2,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "",

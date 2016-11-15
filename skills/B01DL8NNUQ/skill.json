@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DL8NNUQ",
-  "averageRating": 4.8,
+  "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "seinfeld trivia",
   "name": "Seinfeld Fan Trivia",
-  "numberOfReviews": 7,
+  "numberOfReviews": 17,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

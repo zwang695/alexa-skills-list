@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01GZ1UIC2",
-  "averageRating": 5,
+  "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "wind cast",
   "name": "Windcast",
-  "numberOfReviews": 5,
+  "numberOfReviews": 8,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

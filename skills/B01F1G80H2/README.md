@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Distance Between icon" width="36"> [Distance Between](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.281ec301-da29-449a-bf83-fb27ab80e537)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 9
+![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 12
 
 To use the Distance Between skill, try saying...
 

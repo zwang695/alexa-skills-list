@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Scuba Facts icon" width="36"> [Scuba Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.610a86c1-f269-4e67-8920-73878caeae35)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Scuba Facts skill, try saying...
 

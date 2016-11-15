@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Programming Quiz for Java icon" width="36"> [Programming Quiz for Java](http://alexa.amazon.com/#skills/amzn1.ask.skill.76d2c8ec-96e6-4410-8cc7-7175dbc5795e)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Programming Quiz for Java skill, try saying...
 

@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "amazon.com",
+    "runkeeper.com",
+    "tlund-audible.com",
+    "jquery.com",
+    "amazonaws.com"
+  ],
+  "asin": "B01GP7FVD2",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Alexa skill to access your Runkeeper Activities. Allows for account linking with your Runkeepr account. Gets the distance for any activities over a range of days. Can get distance run, walked, hiked, cycled, swum, or all together.\n\nMay not be appropriate for all ages.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Cheetah Exercise how far did I run today",
+    "how far did I swim",
+    "how much hiking did I do this week"
+  ],
+  "firstReleaseDate": 1476774741.166,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.e5cffef4-0ce6-45be-a58b-2f83d3c6c72c",
+  "imageAltText": "Cheetah for Runkeeper icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01GP7FVD2/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "cheetah exercise",
+  "name": "Cheetah for Runkeeper",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "XOcoUEankLghUyn3BDtkVqpvm",
+  "permissions": null,
+  "privacyPolicyUrl": "http://s3.amazonaws.com/smooth_test/privacy.txt",
+  "shortDescription": "Cheetah for Runkeeper Activities",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2BQ6MEJRL1K01",
+  "vendorName": "Tylopoda"
+}

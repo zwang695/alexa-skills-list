@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01HKXCP4I",
-  "averageRating": 4,
+  "averageRating": 3.1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -9,8 +9,8 @@
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Sentieo what is the F Y Twenty Seventeen sales growth for A M Z N?",
-    "Alexa, ask Sentieo what is the price earnings ratio for Amazon?",
-    "Alexa, ask Sentieo who are the peers of T S L A?"
+    "Alexa, ask Sentieo what is the price earnings ratio for T S L A?",
+    "Alexa, ask Sentieo who are the peers of W M T?"
   ],
   "firstReleaseDate": 1467617252.108,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "sentieo",
   "name": "Sentieo",
-  "numberOfReviews": 3,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://sentieo.com/content/legal/privacy-policy.html",

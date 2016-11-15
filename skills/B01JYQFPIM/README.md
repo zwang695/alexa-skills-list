@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Worlds Best Knock Knock Jokes icon" width="36"> [Worlds Best Knock Knock Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.116ed026-0636-4228-b708-43a3c19d68b4)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Worlds Best Knock Knock Jokes skill, try saying...
 

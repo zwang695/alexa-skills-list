@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01G7MVNWI",
-  "averageRating": 2,
+  "averageRating": 2.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "wapo elections",
   "name": "WaPo Elections",
-  "numberOfReviews": 22,
+  "numberOfReviews": 23,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.washingtonpost.com/privacy-policy/2011/11/18/gIQASIiaiN_story.html",

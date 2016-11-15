@@ -19,6 +19,6 @@ This is a skill that allows you to ask Alexa for quotes from Charles Fillmore. T
 * **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.9817668d-0a9c-43e2-ba12-ceb9ff045ab3
 * **ASIN:** B01FA2IPHC
-* **Author:** Unity App Design
+* **Author:** Unity
 * **Release Date:** May 10, 2016 @ 02:12:54
 * **In-App Purchasing:** No

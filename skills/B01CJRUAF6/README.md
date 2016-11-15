@@ -9,8 +9,7 @@ To use the Baby Stats skill, try saying...
 
 * *Alexa ask baby stats to add poop*
 
-Update 7/11
-You can now set more time zones. The time zones available are pacific, central, eastern, mountain, atlantic, hawaiian, or alaska. Thanks for the feedback!
+Update 10/6: Fixed an issue when adding weights.
 
 Baby Stats mission is to create an ecosystem apps to make it easy to track baby stats for busy mothers and fathers, on any device.
 

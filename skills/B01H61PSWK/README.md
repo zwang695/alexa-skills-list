@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Multiplication Tutor icon" width="36"> [Multiplication Tutor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3b279f0b-58c1-4722-9235-25420d38efd6)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Multiplication Tutor skill, try saying...
 

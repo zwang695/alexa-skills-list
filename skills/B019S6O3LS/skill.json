@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019S6O3LS",
-  "averageRating": 3.6,
+  "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the bible",
   "name": "The Bible",
-  "numberOfReviews": 20,
+  "numberOfReviews": 26,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://spriton.com/w/privacy/",

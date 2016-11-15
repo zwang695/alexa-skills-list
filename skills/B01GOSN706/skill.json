@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01GOSN706",
-  "averageRating": 4.2,
+  "averageRating": 4.1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "meow meow",
   "name": "Meow!",
-  "numberOfReviews": 18,
+  "numberOfReviews": 37,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

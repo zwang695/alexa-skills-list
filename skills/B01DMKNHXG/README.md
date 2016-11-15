@@ -1,13 +1,13 @@
 # &nbsp;<img src="skill_icon" alt="abode icon" width="36"> [abode](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c67f3916-0532-4346-bf77-6c5418ec4350)
-![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 5
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the abode skill, try saying...
 
 * *Alexa Tell abode that I am leaving*
 
-* *Alexa Tell abode that I am home*
+* *Alexa Tell abode to standby*
 
-* *Alexa Ask abode what is the current mode*
+* *Alexa tell abode to lock all my doors*
 
 abode is the first professional-grade, self-installable home security solution with no contracts that also allows you to control locks, lights, thermostats, and other popular connected devices.
 

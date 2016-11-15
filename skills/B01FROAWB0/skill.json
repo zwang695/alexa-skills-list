@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FROAWB0",
-  "averageRating": 5,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "washington state ferry",
   "name": "Washington State Ferry",
-  "numberOfReviews": 1,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

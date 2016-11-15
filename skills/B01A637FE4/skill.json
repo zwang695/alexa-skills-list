@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01A637FE4",
-  "averageRating": 3.6,
+  "averageRating": 3.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the scriptures",
   "name": "The Scriptures",
-  "numberOfReviews": 15,
+  "numberOfReviews": 16,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://spriton.com/w/privacy/",

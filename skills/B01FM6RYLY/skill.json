@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "apiaws.netatmo.com",
+    "auth.netatmo.com",
+    "raw.githubusercontent.com",
+    "api.netatmo.net",
+    "atmo.fourteenislands.io"
+  ],
+  "asin": "B01FM6RYLY",
+  "averageRating": 2.5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Atmo helps you retrieve measurements such as temperature, humidity and noise level from your Netatmo personal weather station. Atmo can leverage on the names you have specified for the sensors (also known as modules) composing your setup.\n<br/>\nAvailable measurements:\n- carbon dioxide level\n- humidity\n- noise level\n- pressure\n- temperature\n<br/>\nA Netatmo account is required and the account linking process must be completed in order to retrieve measurements.\n<br/>\nDisclaimer.\nAtmo may not be suitable for all ages.\n<br/>\nNetatmo is a registered trademark of Netatmo. Atmo is not a partner, affiliate, or licensee of Netatmo. Atmo is not, in any other way, formally associated with Netatmo.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask atmo what's the temperature?",
+    "Alexa, ask atmo to give me the humidity.",
+    "Alexa, ask atmo to list my sensors."
+  ],
+  "firstReleaseDate": 1474184500.406,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.d359e898-36c6-492d-baa0-02b52825d195",
+  "imageAltText": "Atmo icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01FM6RYLY/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "atmo",
+  "name": "Atmo",
+  "numberOfReviews": 7,
+  "pamsPartnerId": "J13eqXqmyXpSSUnusWOUPbgrJ",
+  "permissions": null,
+  "privacyPolicyUrl": "https://atmo.fourteenislands.io/privacy-policy",
+  "shortDescription": "Retrieve temperature, humidity and other measurements from your Netatmo personal weather station.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "",
+  "vendorId": "MHCHRU05FC7TP",
+  "vendorName": "fourteenislands.io"
+}

@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "app.qrspno.com"
+  ],
+  "asin": "B01N3JHSWW",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This app will allow control of a QRS Player Piano PNO3 system.  You must enter activation key into the  PNO3 to finalize the link to your QRS Piano from the alexa link account page.  Multiple PNO3 systems could be linked to one alexa account.  But they currently would issue the same commands for each.  And it also requires that the PNO3 system is networked so that it can receive commands.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask PNO to play",
+    "Open PNO",
+    "Alexa, tell the PNO to stop"
+  ],
+  "firstReleaseDate": 1478931261.144,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.cb728564-8876-454f-a8bc-a8aa2ae0795a",
+  "imageAltText": "QRS PNO icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N3JHSWW/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "p. n. o.",
+  "name": "QRS PNO",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "habsTLS9JttheilhXrPthRonH",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.qrsmusic.com/privacy.asp",
+  "shortDescription": "This skill will allow control of the QRS PNO system.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2H8QYIS47Q7TY",
+  "vendorName": "QRS Music"
+}

@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01LXYILGF",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1475010733.563,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.27ca478a-8959-409e-99a6-48f77ebe57f1",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LXYILGF/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Nest Labs, Inc.",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "luVQPsKIPR4tzsGCFRkjGpASi",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M258KP8OWYZDVQ",
+  "vendorName": "Nest Labs, Inc."
+}

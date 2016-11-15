@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="TheTemperatureInside icon" width="36"> [TheTemperatureInside](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ae4d371c-43f0-4a82-ae7b-622effae08aa)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the TheTemperatureInside skill, try saying...
 

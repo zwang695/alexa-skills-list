@@ -1,15 +1,23 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 2620
+**Total Skills Available:** 4271
 
 ***
 
-## &nbsp;<img src="skills/B01AVQLZQ0/skill_icon" alt="1-2-3 Math icon" width="36"> [1-2-3 Math](skills/B01AVQLZQ0)
+## &nbsp;<img src="skills/B01LMQ3BPG/skill_icon" alt="'We Are' Cheer icon" width="36"> ['We Are' Cheer](skills/B01LMQ3BPG)
 
-*Alexa, Open one two three*
+*Alexa, start the We Are cheer*
 
-1-2-3 Math, is a math challenge which tests your elementary compute skills, including addition, subtraction, multiplication, division, comparison etc
+Alexa leads you in the iconic 'We Are' cheer.
+
+***
+
+## &nbsp;<img src="skills/B01MPX75G9/skill_icon" alt=""Coffee and Daisies" Trivia icon" width="36"> ["Coffee and Daisies" Trivia](skills/B01MPX75G9)
+
+*Alexa, open Coffee Talk Trivia*
+
+Test your knowledge of fun trivia from this awesome hit show.
 
 ***
 
@@ -26,6 +34,14 @@ Quickly order flowers for contacts in your 1-800-Flowers account.
 *Alexa, Ask Mindfulness for a minute meditation.*
 
 1-Minute Mindfulness from Walking Affirmations is a skill that allows you to take a break from the world around you & enter into a one minute sound meditation.
+
+***
+
+## &nbsp;<img src="skills/B01M2TYI6V/skill_icon" alt="10 Facts about Germany icon" width="36"> [10 Facts about Germany](skills/B01M2TYI6V)
+
+*Alexa, open germany facts*
+
+This skill contains 10 facts about Germany
 
 ***
 
@@ -141,6 +157,14 @@ The best reason yet to own an Echo! Have all the fun of a fart without any of th
 
 ***
 
+## &nbsp;<img src="skills/B01M1CGD1E/skill_icon" alt="5 Hot Trends icon" width="36"> [5 Hot Trends](skills/B01M1CGD1E)
+
+*Alexa, ask Hot Trends for the top five keywords.*
+
+This skill gives what are the top 5 trend keywords that are mostly asked by people now.
+
+***
+
 ## &nbsp;<img src="skills/B018WUNBE6/skill_icon" alt="7-Minute Workout icon" width="36"> [7-Minute Workout](skills/B018WUNBE6)
 
 *Alexa, start seven minute workout.*
@@ -189,11 +213,19 @@ flash cards for 9 times table
 
 ***
 
+## &nbsp;<img src="skills/B01M0PEQVE/skill_icon" alt="null" width="36"> [9Cookies GmbH](skills/B01M0PEQVE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01H3XED7W/skill_icon" alt="A Cloud Guru icon" width="36"> [A Cloud Guru](skills/B01H3XED7W)
 
-*Alexa, ask A Cloud Guru to start a new exam*
+*Alexa, open A Cloud Guru.*
 
-Are you studying for your Amazon Web Services Solutions Architect Associate exam? This Alexa app will help you study by asking you practice exam questions.
+Are you studying for an Amazon Web Services Certification exam? This Skill helps you study by asking you practice exam questions for your AWS Certifications.
 
 ***
 
@@ -301,14 +333,6 @@ Stay connected to the latest in weather forecasting with AccuWeather. Ask for we
 
 ***
 
-## &nbsp;<img src="skills/B01IOUIMHK/skill_icon" alt="Achieve More icon" width="36"> [Achieve More](skills/B01IOUIMHK)
-
-*Alexa, open Achieve More*
-
-Assess your kid's kindergarten level!
-
-***
-
 ## &nbsp;<img src="skills/B01E3XNCKE/skill_icon" alt="Acoustic Chord icon" width="36"> [Acoustic Chord](skills/B01E3XNCKE)
 
 *Alexa, ask Acoustic Chord to play D seventh*
@@ -341,6 +365,14 @@ a trivia game that asks the player to solve the words to a acronym
 
 ***
 
+## &nbsp;<img src="skills/B01MAUL1MB/skill_icon" alt="Activity Selector icon" width="36"> [Activity Selector](skills/B01MAUL1MB)
+
+*alexa open activity selector*
+
+help select an activity for the day
+
+***
+
 ## &nbsp;<img src="skills/B01KIACRM0/skill_icon" alt="ActualCalorie icon" width="36"> [ActualCalorie](skills/B01KIACRM0)
 
 *"Alexa, ask calorie counter to log food apple"*
@@ -354,30 +386,6 @@ Use ActualCalorie to keep track of you calories.
 *Alexa, ask Adam Pippert Facts to tell me trivia*
 
 Alexa knows about Adam Pippert
-
-***
-
-## &nbsp;<img src="skills/B01IE0AK8Y/skill_icon" alt="Addition and Subtraction Practice icon" width="36"> [Addition and Subtraction Practice](skills/B01IE0AK8Y)
-
-*Alexa, start math practice*
-
-Adding and subtratracting flashcards
-
-***
-
-## &nbsp;<img src="skills/B01IZ5TTZ8/skill_icon" alt="Addition Facts Flash Cards icon" width="36"> [Addition Facts Flash Cards](skills/B01IZ5TTZ8)
-
-*Alexa, start addition flash cards.*
-
-Exercise your brain with addition math facts.
-
-***
-
-## &nbsp;<img src="skills/B01I7RUD3G/skill_icon" alt="Addition Flash Cards icon" width="36"> [Addition Flash Cards](skills/B01I7RUD3G)
-
-*Alexa start Addition Flash Cards*
-
-Addition Flash Cards
 
 ***
 
@@ -396,6 +404,14 @@ Roll any number of dice of any type
 Make your day better with a compliment! 
 
 "Alexa, tell my admirer to give me a compliment."
+
+***
+
+## &nbsp;<img src="skills/B01N00XKGK/skill_icon" alt="Advent Calendar icon" width="36"> [Advent Calendar](skills/B01N00XKGK)
+
+*Alexa Open Advent Calendar*
+
+Let Advent Calendar read you the verse of the day during the holiday season.
 
 ***
 
@@ -472,6 +488,16 @@ Listen to Tweets
 
 ***
 
+## &nbsp;<img src="skills/B01M5CS386/skill_icon" alt="AikidoFacts icon" width="36"> [AikidoFacts](skills/B01M5CS386)
+
+*Alexa, ask Aikido Facts to tell me an Aikido fact*
+
+Ask Alexa for facts about Aikido.
+Have fun :)
+Osu!
+
+***
+
 ## &nbsp;<img src="skills/B01I8URP5Q/skill_icon" alt="Air Boss icon" width="36"> [Air Boss](skills/B01I8URP5Q)
 
 *Alexa, launch Air Boss*
@@ -485,6 +511,14 @@ I feel the need ... the need for speed!  Are you a Top Gun pilot?  "Alexa, open 
 *Alexa, ask air quality to get me the report for 07753*
 
 This skill reports the air quality index for US zip codes
+
+***
+
+## &nbsp;<img src="skills/B01LYK5J3Y/skill_icon" alt="Air Quality icon" width="36"> [Air Quality](skills/B01LYK5J3Y)
+
+*Alexa, Ask Air Quality For Air Quality in New York*
+
+This skill queries the national weather service to figure out the air quality in a US City. Currently only New York City is supported.
 
 ***
 
@@ -509,6 +543,14 @@ Get air quality report for 5-digit US ZIP codes
 *Alexa ask air time how long the wait is at SJC*
 
 Check the wait times at any airport in the country.
+
+***
+
+## &nbsp;<img src="skills/B01LIHT5S6/skill_icon" alt="Airplane Amy icon" width="36"> [Airplane Amy](skills/B01LIHT5S6)
+
+*Alexa, ask airplane amy a fact*
+
+This  skill  gives  you  a  airplane facts
 
 ***
 
@@ -560,11 +602,51 @@ Check security wait times at major US airports.
 
 ***
 
+## &nbsp;<img src="skills/B01LYB6LV7/skill_icon" alt="Ajmani Poker facts icon" width="36"> [Ajmani Poker facts](skills/B01LYB6LV7)
+
+*Alexa, start poker fun facts*
+
+100s of Poker fun facts including pre-flop and post flop probabilities and odds
+
+***
+
+## &nbsp;<img src="skills/B01M23UM2J/skill_icon" alt="null" width="36"> [AJNS New Media GMBH](skills/B01M23UM2J)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M2A2IAU/skill_icon" alt="Al Bundy smarts icon" width="36"> [Al Bundy smarts](skills/B01M2A2IAU)
+
+*Alexa ask bundy smarts to say something*
+
+Alexa will have Al Bundy's attitude and try to cheer you up with some funny quotes from Al Bundy
+
+***
+
+## &nbsp;<img src="skills/B01M2Y3XQU/skill_icon" alt="Alabama Facts icon" width="36"> [Alabama Facts](skills/B01M2Y3XQU)
+
+*Alexa, ask Alabama Facts to tell me an fact about Alabama.*
+
+Learn interesting facts about the State of Alabama.
+
+***
+
 ## &nbsp;<img src="skills/B01FL7PGKK/skill_icon" alt="Alan Drinks icon" width="36"> [Alan Drinks](skills/B01FL7PGKK)
 
 *Alexa, ask Alan Drinks how can I make a Margarita*
 
 Alan Drinks is a skill that gives you the ingredients for a few popular cocktails
+
+***
+
+## &nbsp;<img src="skills/B01MD0ELRI/skill_icon" alt="Alan Perlis Quotes icon" width="36"> [Alan Perlis Quotes](skills/B01MD0ELRI)
+
+*Alexa, ask computer geek for a quote.*
+
+Alan Perlis Quotes
 
 ***
 
@@ -600,14 +682,6 @@ A fun quiz game to test your knowledge of the phonetic alphabet used by NATO and
 
 ***
 
-## &nbsp;<img src="skills/B01IEKIXOC/skill_icon" alt="Algebra Flash Cards icon" width="36"> [Algebra Flash Cards](skills/B01IEKIXOC)
-
-*Alexa, launch algebra flash cards*
-
-Algebra Falsh Cards
-
-***
-
 ## &nbsp;<img src="skills/B01D0JI7CA/skill_icon" alt="All Knowing Eight Ball icon" width="36"> [All Knowing Eight Ball](skills/B01D0JI7CA)
 
 *Alexa, ask the 8 ball whether the Cubs will ever win the World Series*
@@ -624,11 +698,27 @@ This skill will tell you a random state in the United States of America
 
 ***
 
+## &nbsp;<img src="skills/B01L8QOK8C/skill_icon" alt="Almanac icon" width="36"> [Almanac](skills/B01L8QOK8C)
+
+*Alexa,open almanac info*
+
+Get the inauspicious time of the day based on the Indian Vedic Almanac.
+
+***
+
 ## &nbsp;<img src="skills/B01BLPITFK/skill_icon" alt="Almond icon" width="36"> [Almond](skills/B01BLPITFK)
 
-*Alexa, tell Almond to activate Dinner Scene*
+*Alexa, tell Almond to enable Guest Wi-Fi*
 
-Alexa can now activate the Scenes and Modes you have set up on your Almond.
+Almond brings to Alexa, Wi-Fi and SmartHome features such as Parental controls, Guest Networks, Scenes and Modes. Assume supreme commander of your SmartHome.
+
+***
+
+## &nbsp;<img src="skills/B01G3FBGM6/skill_icon" alt="Almond for Smart Home icon" width="36"> [Almond for Smart Home](skills/B01G3FBGM6)
+
+*There are no example interactions for this skill.*
+
+Almond and Alexa work together to make your home smarter. Enable this skill to control the switches, lights and thermostats connected to your Almond.
 
 ***
 
@@ -636,31 +726,15 @@ Alexa can now activate the Scenes and Modes you have set up on your Almond.
 
 *Alexa, start pilates class*
 
-Take a pilates class from ALotOfPilates.com. Get ready to feel great!
+Take traditional Pilates mat classes from ALotOfPilates.com with Amazon Echo. Let Alexa guide you through a series of Pilates exercises. Get ready to feel great
 
 ***
 
-## &nbsp;<img src="skills/B01ICRTDJ6/skill_icon" alt="Alphabet flash cards icon" width="36"> [Alphabet flash cards](skills/B01ICRTDJ6)
+## &nbsp;<img src="skills/B01M0KHXS3/skill_icon" alt="Alphabet Food icon" width="36"> [Alphabet Food](skills/B01M0KHXS3)
 
-*Alexa, open alphabet flash cards*
+*Alexa, ask Alphabet Food for foods that start with the letter A.*
 
-Practice alphabet letters and spelling.
-
-***
-
-## &nbsp;<img src="skills/B01HNJ8H4Q/skill_icon" alt="Alphabet Flash Cards icon" width="36"> [Alphabet Flash Cards](skills/B01HNJ8H4Q)
-
-*Alexa, Open Alphabet Flash Cards*
-
-Great skill for teaching the Alphabet Letters. Alexa will ask you what letter a word begins with. Get it right and rack up the points.
-
-***
-
-## &nbsp;<img src="skills/B01ICQMB00/skill_icon" alt="Alphabet Words icon" width="36"> [Alphabet Words](skills/B01ICQMB00)
-
-*Alexa, ask alphabet words to give me a word*
-
-Tests what words begin with letters of the alphabet
+This skill provides a list of foods for any letter in the alphabet.
 
 ***
 
@@ -669,6 +743,14 @@ Tests what words begin with letters of the alphabet
 *Alexa, ask Amazing Facts to tell a fact*
 
 Amazing Facts
+
+***
+
+## &nbsp;<img src="skills/B01MAXXZ5R/skill_icon" alt="Amazing Facts icon" width="36"> [Amazing Facts](skills/B01MAXXZ5R)
+
+*Alexa, ask Amazing Facts to tell me an amazing fact*
+
+Amaze yourself with these surprising and entertaining facts.
 
 ***
 
@@ -693,6 +775,14 @@ Word Master is an interactive way to learn and challenge yourself with words, wh
 *Alexa, ask american basketball trivia*
 
 Alexa added skill to ask American Basketball Trivia
+
+***
+
+## &nbsp;<img src="skills/B01MDUEHE3/skill_icon" alt="American Elections icon" width="36"> [American Elections](skills/B01MDUEHE3)
+
+*Alexa ask American Elections*
+
+Information about American Elections Process
 
 ***
 
@@ -752,6 +842,22 @@ Have fun with American history facts
 
 ***
 
+## &nbsp;<img src="skills/B01ILCSR8K/skill_icon" alt="AminoAcidFlashCards icon" width="36"> [AminoAcidFlashCards](skills/B01ILCSR8K)
+
+*Alexa, launch amino acid quiz*
+
+Amino Acid Quiz is a game to test your knowledge of amino acid symbols.
+
+***
+
+## &nbsp;<img src="skills/B01MA0NC5I/skill_icon" alt="Anatomy Facts icon" width="36"> [Anatomy Facts](skills/B01MA0NC5I)
+
+*Alexa, open anatomy facts*
+
+Fun Anatomy Facts!
+
+***
+
 ## &nbsp;<img src="skills/B01DQ7QONU/skill_icon" alt="Ancient China Facts icon" width="36"> [Ancient China Facts](skills/B01DQ7QONU)
 
 *Alexa, launch ancient china facts*
@@ -760,11 +866,35 @@ some facts on ancient China
 
 ***
 
+## &nbsp;<img src="skills/B01M70K9FK/skill_icon" alt="Ancient Faith Radio Podcasts icon" width="36"> [Ancient Faith Radio Podcasts](skills/B01M70K9FK)
+
+*Alexa, ask Ancient Faith Radio to play The Path podcast.*
+
+"Alexa, ask Ancient Faith Radio to play The Path podcast"
+
+***
+
 ## &nbsp;<img src="skills/B01GOODB3S/skill_icon" alt="Ancient Greek History Quiz icon" width="36"> [Ancient Greek History Quiz](skills/B01GOODB3S)
 
 *Alexa, launch Greek History Quiz*
 
 Let's not forget the Ancient Greeks
+
+***
+
+## &nbsp;<img src="skills/B01MEC3YP0/skill_icon" alt="null" width="36"> [Andrew Lau](skills/B01MEC3YP0)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LZ8LXLT/skill_icon" alt="null" width="36"> [Andy K.](skills/B01LZ8LXLT)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -792,27 +922,19 @@ A quiz for angular developers about the architecture.
 
 ***
 
-## &nbsp;<img src="skills/B01DN0KHM4/skill_icon" alt="Animal Alphabet icon" width="36"> [Animal Alphabet](skills/B01DN0KHM4)
-
-*Alexa, play Animal Alphabet.*
-
-The Animal Alphabet game.
-
-***
-
-## &nbsp;<img src="skills/B01KGT47LC/skill_icon" alt="Animal Alphabet icon" width="36"> [Animal Alphabet](skills/B01KGT47LC)
-
-*Alexa, open animal alphabet*
-
-Learn animals for (almost) every letter of the alphabet!
-
-***
-
 ## &nbsp;<img src="skills/B01J083SZQ/skill_icon" alt="animal facts icon" width="36"> [animal facts](skills/B01J083SZQ)
 
 *alexa start animal facts*
 
 interesting animal facts
+
+***
+
+## &nbsp;<img src="skills/B01M59PFLN/skill_icon" alt="Animal Facts icon" width="36"> [Animal Facts](skills/B01M59PFLN)
+
+*Alexa, open animal facts.*
+
+A list of irreverent animal fact, some true, some not so true, can you tell which ones?
 
 ***
 
@@ -832,59 +954,11 @@ Play an animal guessing game with Alexa!
 
 ***
 
-## &nbsp;<img src="skills/B01K3O6588/skill_icon" alt="Animal Noise Game icon" width="36"> [Animal Noise Game](skills/B01K3O6588)
-
-*Alexa open animal noise game*
-
-The Animal Noise Game is a type of multiple choice game where Alexa helps you learn different animal noises. This is a fun way to learn animal noises!
-
-***
-
-## &nbsp;<img src="skills/B01J72CSGK/skill_icon" alt="Animal Noises icon" width="36"> [Animal Noises](skills/B01J72CSGK)
-
-*Alexa, Ask Animal Noises How does a cat sound?*
-
-Animal Noises let's you hear how Alexa thinks animals sound.
-
-***
-
 ## &nbsp;<img src="skills/B01IYYLSEU/skill_icon" alt="animal quiz icon" width="36"> [animal quiz](skills/B01IYYLSEU)
 
 *Alexa, start animal quiz*
 
 animal quiz
-
-***
-
-## &nbsp;<img src="skills/B01AHGU3M6/skill_icon" alt="Animal Sounds icon" width="36"> [Animal Sounds](skills/B01AHGU3M6)
-
-*Alexa, ask Animal Sounds what noise a lion says.*
-
-Alexa is learning a few new languages, animal languages that is. Ask Alexa to make the sounds your favorite animal makes.
-
-***
-
-## &nbsp;<img src="skills/B01HSGXI2A/skill_icon" alt="Animal Sounds icon" width="36"> [Animal Sounds](skills/B01HSGXI2A)
-
-*Alexa, launch Animal Sounds*
-
-Guess which animal sound!
-
-***
-
-## &nbsp;<img src="skills/B01GUZEFHW/skill_icon" alt="Animal sounds quiz icon" width="36"> [Animal sounds quiz](skills/B01GUZEFHW)
-
-*Alexa, open animal sounds quiz*
-
-Animal sounds quiz
-
-***
-
-## &nbsp;<img src="skills/B01JDRBD9W/skill_icon" alt="animal trivia icon" width="36"> [animal trivia](skills/B01JDRBD9W)
-
-*Alexa ask animal trivia a fact*
-
-Ask fun animal facts.
 
 ***
 
@@ -920,11 +994,43 @@ Animal Quiz: simple quiz about animals
 
 ***
 
+## &nbsp;<img src="skills/B01LYPD5BA/skill_icon" alt="AnimalTrivia icon" width="36"> [AnimalTrivia](skills/B01LYPD5BA)
+
+*Alexa launch animal trivia*
+
+Animal Trivia is a trivia game created to test your knowledge of animals, both wild and domestic.
+
+***
+
+## &nbsp;<img src="skills/B01J77CQ9Y/skill_icon" alt="Animation Technology Trivia icon" width="36"> [Animation Technology Trivia](skills/B01J77CQ9Y)
+
+*Alexa, launch animation technology trivia*
+
+Animation technology trivia
+
+***
+
+## &nbsp;<img src="skills/B01LXVZ4YD/skill_icon" alt="Anime Shows icon" width="36"> [Anime Shows](skills/B01LXVZ4YD)
+
+*alexa, open anime shows*
+
+Anime List
+
+***
+
 ## &nbsp;<img src="skills/B01ET2YNKM/skill_icon" alt="Anime Trivia icon" width="36"> [Anime Trivia](skills/B01ET2YNKM)
 
 *Alexa, launch Anime Trivia*
 
 Anime Trivia is a game for anime fans to test their knowledge of both popular and less known series.
+
+***
+
+## &nbsp;<img src="skills/B01MAYI8I4/skill_icon" alt="Ankuoo REC icon" width="36"> [Ankuoo REC](skills/B01MAYI8I4)
+
+*There are no example interactions for this skill.*
+
+Ankuoo REC
 
 ***
 
@@ -941,6 +1047,30 @@ flashcards for acronyms that are common in today's world
 *Alexa, ask ant queen a fact*
 
 Learn various facts about Ants
+
+***
+
+## &nbsp;<img src="skills/B01LX7ULO9/skill_icon" alt="ant jokes icon" width="36"> [ant jokes](skills/B01LX7ULO9)
+
+*Alexa, open ant jokes*
+
+This skill tells you ant jokes!
+
+***
+
+## &nbsp;<img src="skills/B01MPVQY3P/skill_icon" alt="null" width="36"> [Anthony Relle](skills/B01MPVQY3P)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MF9KJB6/skill_icon" alt="Anti-Joker icon" width="36"> [Anti-Joker](skills/B01MF9KJB6)
+
+*Alexa, open Anti-Joker*
+
+Want to hear the unfunniest jokes around? Check out Anti-Joker now!
 
 ***
 
@@ -984,6 +1114,14 @@ A quizlet that tests the important dates in US history as in the AP US History c
 
 ***
 
+## &nbsp;<img src="skills/B01MQG43EF/skill_icon" alt="Apex Facts icon" width="36"> [Apex Facts](skills/B01MQG43EF)
+
+*Alexa launch apex facts*
+
+Apex, North Carolina random facts
+
+***
+
 ## &nbsp;<img src="skills/B01FN56FSC/skill_icon" alt="APHistory_Facts icon" width="36"> [APHistory_Facts](skills/B01FN56FSC)
 
 *Alexa ask a. p. history to tell me a trivia*
@@ -992,19 +1130,19 @@ Study aid for the AP History Exam that lists facts aloud.
 
 ***
 
-## &nbsp;<img src="skills/B018YKKWKK/skill_icon" alt="Apollo - God of Music icon" width="36"> [Apollo - God of Music](skills/B018YKKWKK)
-
-*Alexa, ask Apollo to tell me a fact*
-
-Apollo, the god of music, will share music related facts and let you know who are the hottest artists of the week.
-
-***
-
 ## &nbsp;<img src="skills/B01CSBIXWU/skill_icon" alt="Applause icon" width="36"> [Applause](skills/B01CSBIXWU)
 
 *Alexa open applause*
 
 Get a round of applause in any situation with the Alexa Applause Skill.
+
+***
+
+## &nbsp;<img src="skills/B01M7Y20C5/skill_icon" alt="null" width="36"> [Appsherpas Limited](skills/B01M7Y20C5)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -1021,6 +1159,22 @@ Locate APRS stations
 *Alexa, ask Arabic Phrases to translate "Hello"*
 
 Practice common Arabic phrases.
+
+***
+
+## &nbsp;<img src="skills/B01M02AHFA/skill_icon" alt="Arbonne My Office icon" width="36"> [Arbonne My Office](skills/B01M02AHFA)
+
+*Alexa, ask My Office, what is my volume at the Area level?*
+
+Ask about your Arbonne Independent Consultant volume metrics and team status
+
+***
+
+## &nbsp;<img src="skills/B01M3U7Y5T/skill_icon" alt="Architect Study Quiz icon" width="36"> [Architect Study Quiz](skills/B01M3U7Y5T)
+
+*Alexa Open Architect Quiz*
+
+A skill to help you study for the AWS Associates Solutions Architect test.
 
 ***
 
@@ -1064,6 +1218,22 @@ Arlington County Voter Facts for the 2016 Election
 
 ***
 
+## &nbsp;<img src="skills/B01LFJ9R5S/skill_icon" alt="Arlington Voter Guide icon" width="36"> [Arlington Voter Guide](skills/B01LFJ9R5S)
+
+*Alexa, ask arlington voter guide where do I vote in Clarendon*
+
+Arlington Voter Guide tells you addresses of local poll stations, current general election poll numbers, and who's on the ballot.
+
+***
+
+## &nbsp;<img src="skills/B01MDVBRQK/skill_icon" alt="Armen Facts icon" width="36"> [Armen Facts](skills/B01MDVBRQK)
+
+*Alexa, open Armen Facts*
+
+Facts about Armen.
+
+***
+
 ## &nbsp;<img src="skills/B01EKX7WKS/skill_icon" alt="Aromatherapy icon" width="36"> [Aromatherapy](skills/B01EKX7WKS)
 
 *Alexa, Ask Aromatherapy for a recipe for focus.*
@@ -1101,6 +1271,15 @@ Inspiration: Art of War
 *Alexa, open art quiz*
 
 Art quiz, paintings and art facts.
+
+***
+
+## &nbsp;<img src="skills/B01MA11U3U/skill_icon" alt="Art Quotes icon" width="36"> [Art Quotes](skills/B01MA11U3U)
+
+*Alexa, ask Art Quotes for a quote.*
+
+Hear a random, art quote!
+Looking for a art quote to inspire and motivate? Ask Art Quotes!
 
 ***
 
@@ -1152,11 +1331,27 @@ This is a fun trivia quiz about art and artists.
 
 ***
 
+## &nbsp;<img src="skills/B01M7WM3QV/skill_icon" alt="ASCII Converter icon" width="36"> [ASCII Converter](skills/B01M7WM3QV)
+
+*Alexa, ask Ascii Converter to convert character A.*
+
+A simple skill to convert characters to ASCII codes and back
+
+***
+
 ## &nbsp;<img src="skills/B01L7V1U36/skill_icon" alt="ASCII Geek icon" width="36"> [ASCII Geek](skills/B01L7V1U36)
 
 *Alexa, start ASCII Geek*
 
 An Alexa skill that recites a random ASCII code
+
+***
+
+## &nbsp;<img src="skills/B01MCVUM1R/skill_icon" alt="null" width="36"> [Ashley Medway](skills/B01MCVUM1R)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -1200,11 +1395,11 @@ Ask My Buddy provides an easy and immediate way to send a text message, Voice ca
 
 ***
 
-## &nbsp;<img src="skills/B01IM3IIP0/skill_icon" alt="Ask Queen Bee icon" width="36"> [Ask Queen Bee](skills/B01IM3IIP0)
+## &nbsp;<img src="skills/B01M32CNSL/skill_icon" alt="Ask Purina icon" width="36"> [Ask Purina](skills/B01M32CNSL)
 
-*Alexa ask Queen Bee to spell world*
+*Alexa, ask Purina.*
 
-Ask Queen Bee
+Use Purina’s guided search to learn more about dog breeds and help narrow down what type of dog might be right for you and your family.
 
 ***
 
@@ -1213,6 +1408,22 @@ Ask Queen Bee
 *Alexa, ask Trump how do you feel about china*
 
 Ask Donald Trump a question
+
+***
+
+## &nbsp;<img src="skills/B01MTLUIJ3/skill_icon" alt="Astro Tracker icon" width="36"> [Astro Tracker](skills/B01MTLUIJ3)
+
+*Alexa ask Astro Tracker who's in space*
+
+Provides the current astronauts that are in space.
+
+***
+
+## &nbsp;<img src="skills/B01LYHX291/skill_icon" alt="AstroBot icon" width="36"> [AstroBot](skills/B01LYHX291)
+
+*Alexa, launch AstroBot*
+
+Get your head out of the clouds, and launch up into orbit with AstroBot.
 
 ***
 
@@ -1245,6 +1456,30 @@ A trivia game for the non-religious.
 *Alexa, ask Atlas to find Boston, Massachusetts*
 
 Finds the latitude and longitude of US cities.
+
+***
+
+## &nbsp;<img src="skills/B01LVZ9LHS/skill_icon" alt="Atlas icon" width="36"> [Atlas](skills/B01LVZ9LHS)
+
+*Alexa ask world atlas what is the capital of united states of america*
+
+This skill answers the capital cities of the countries
+
+***
+
+## &nbsp;<img src="skills/B01FM6RYLY/skill_icon" alt="Atmo icon" width="36"> [Atmo](skills/B01FM6RYLY)
+
+*Alexa, ask atmo what's the temperature?*
+
+Retrieve temperature, humidity and other measurements from your Netatmo personal weather station.
+
+***
+
+## &nbsp;<img src="skills/B01M8O8VXP/skill_icon" alt="Atomic Weight Trivia icon" width="36"> [Atomic Weight Trivia](skills/B01M8O8VXP)
+
+*Alexa, open atomic weight trivia*
+
+Atomic Weight Trivia
 
 ***
 
@@ -1296,6 +1531,22 @@ Single player game of hangman. Exercise your memory by playing paperless!
 
 ***
 
+## &nbsp;<img src="skills/B01MXKHTQ3/skill_icon" alt="audio player icon" width="36"> [audio player](skills/B01MXKHTQ3)
+
+*Alexa launch apple*
+
+This skill plays the favorite music from predefined list
+
+***
+
+## &nbsp;<img src="skills/B01N8ZLZU4/skill_icon" alt="Audio Skill icon" width="36"> [Audio Skill](skills/B01N8ZLZU4)
+
+*Alexa launch orange*
+
+Some of the predefined audio samples will be played
+
+***
+
 ## &nbsp;<img src="skills/B01G5UWV64/skill_icon" alt="August Home icon" width="36"> [August Home](skills/B01G5UWV64)
 
 *Alexa, ask August to list my locks.*
@@ -1309,6 +1560,14 @@ Control your August Home Smart Locks and check their status.
 *Alexa, Open Aussie Fact*
 
 Learn about the exciting continent in the south called Australia.
+
+***
+
+## &nbsp;<img src="skills/B01M19KG9B/skill_icon" alt="Aussie Facts icon" width="36"> [Aussie Facts](skills/B01M19KG9B)
+
+*Alexa, ask aussie facts to give me some information about Australia*
+
+Learn some really interesting facts about Australia you didn't know before!
 
 ***
 
@@ -1376,11 +1635,27 @@ Awair tells you about your indoor air quality
 
 ***
 
+## &nbsp;<img src="skills/B01LWYA6FX/skill_icon" alt="Awesome Dad Jokes icon" width="36"> [Awesome Dad Jokes](skills/B01LWYA6FX)
+
+*Alexa launch dad jokes*
+
+Dad Jokes will tell the user a dad joke that may or may not make people laugh...
+
+***
+
 ## &nbsp;<img src="skills/B01H9G7Q9K/skill_icon" alt="awesome hair tips icon" width="36"> [awesome hair tips](skills/B01H9G7Q9K)
 
 *Alexa, ask awesome hair tips for a hair tip*
 
 Ask awesome hair tips for tips on the best ways to care for your hair.
+
+***
+
+## &nbsp;<img src="skills/B01N8YPEDZ/skill_icon" alt="null" width="36"> [Axelisys Limited](skills/B01N8YPEDZ)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -1408,11 +1683,11 @@ Test your knowledge of the names of baby animals in our fun quiz. Ask your Amazo
 
 ***
 
-## &nbsp;<img src="skills/B01CSJVGJE/skill_icon" alt="Baby Lexi icon" width="36"> [Baby Lexi](skills/B01CSJVGJE)
+## &nbsp;<img src="skills/B01LWU7HYC/skill_icon" alt="Baby Logs icon" width="36"> [Baby Logs](skills/B01LWU7HYC)
 
-*Alexa, ask baby to talk*
+*Alexa tell baby logs to keep logs for Mary*
 
-Do your kids love to talk like a baby? Baby Lexi will answer any question in baby talk.  The kids will love it!
+Baby Logs is the perfect app for parents with newborns to toddlers to keep track of the child's naps, feedings, and dirty diapers.
 
 ***
 
@@ -1440,6 +1715,22 @@ Ask about the popularity of names in the US going back to 1880!
 
 ***
 
+## &nbsp;<img src="skills/B01LYSA541/skill_icon" alt="Baby Names icon" width="36"> [Baby Names](skills/B01LYSA541)
+
+*Alexa, start Baby Names*
+
+Baby Names can help you find the perfect name for your baby. You can select boy or girl names. Just ask Baby Names for the number of names you want to hear.
+
+***
+
+## &nbsp;<img src="skills/B01L6NV9B8/skill_icon" alt="Baby Shot icon" width="36"> [Baby Shot](skills/B01L6NV9B8)
+
+*Alexa, Ask baby shot vaccination recommendation for twelve months*
+
+Baby Shot is your one stop immunization or vaccine guide for kids in United States.
+
+***
+
 ## &nbsp;<img src="skills/B01CJRUAF6/skill_icon" alt="Baby Stats icon" width="36"> [Baby Stats](skills/B01CJRUAF6)
 
 *Alexa ask baby stats to add poop and pee*
@@ -1456,11 +1747,19 @@ Baby trivia!
 
 ***
 
-## &nbsp;<img src="skills/B01I7BC59C/skill_icon" alt="babyAnimalNames icon" width="36"> [babyAnimalNames](skills/B01I7BC59C)
+## &nbsp;<img src="skills/B01KSNMPNI/skill_icon" alt="BabyNames icon" width="36"> [BabyNames](skills/B01KSNMPNI)
 
-*Alexa start baby animals*
+*Alexa, ask Baby Names*
 
-Baby Animal Name Quiz
+Tells you baby names that begin with a letter of your choice.
+
+***
+
+## &nbsp;<img src="skills/B01LRCPQJY/skill_icon" alt="Backgammon Helper icon" width="36"> [Backgammon Helper](skills/B01LRCPQJY)
+
+*Alexa, ask Backgammon Helper How do I play backgammon ?*
+
+Backgammon Helper skill describes the rules of the game backgammon,strategies, game setup etc. Use this skill to get an in depth understanding of the game.
 
 ***
 
@@ -1472,11 +1771,35 @@ Do you love bacon? Do you think you know enough about bacon? Here are more facts
 
 ***
 
+## &nbsp;<img src="skills/B01M61MEX7/skill_icon" alt="Bacon Facts icon" width="36"> [Bacon Facts](skills/B01M61MEX7)
+
+*Alexa, ask Bacon Facts to give me a bacon fact.*
+
+A skill that will recite facts about bacon.
+
+***
+
 ## &nbsp;<img src="skills/B01GSVGEAY/skill_icon" alt="Bacon Trivia icon" width="36"> [Bacon Trivia](skills/B01GSVGEAY)
 
 *Alexa, it's bacon time*
 
 A few trivia questions about man's favorite meal: the bacon
+
+***
+
+## &nbsp;<img src="skills/B01LYOCV4M/skill_icon" alt="Bad Dad Jokes icon" width="36"> [Bad Dad Jokes](skills/B01LYOCV4M)
+
+*Alexa ask Dad Joker to tell me a joke*
+
+Selects from a random list of groan worthy bad dad jokes!
+
+***
+
+## &nbsp;<img src="skills/B01L7SG7QE/skill_icon" alt="Baker Street Experience icon" width="36"> [Baker Street Experience](skills/B01L7SG7QE)
+
+*Alexa, play Baker Street Experience*
+
+The Bakerstreet Experience Players Present “Two Days Later: A Sherlock Holmes Mystery” an interactive radioplay for Amazon Echo developed by Schell Games LLC.
 
 ***
 
@@ -1504,6 +1827,22 @@ A fun skill with some neat facts about one of the healthiest fruits there is.
 
 ***
 
+## &nbsp;<img src="skills/B01M7ZKIEW/skill_icon" alt="Banana Slug Facts icon" width="36"> [Banana Slug Facts](skills/B01M7ZKIEW)
+
+*Alexa, ask Banana Slug Facts to tell me a fact.*
+
+This skill gives a random fact about Banana Slugs.
+
+***
+
+## &nbsp;<img src="skills/B01LXPTRE1/skill_icon" alt="Banana Trivia icon" width="36"> [Banana Trivia](skills/B01LXPTRE1)
+
+*Alexa, Open Banana Trivia*
+
+This is a trivia game on bananas! Bananas are actually America's #1 fruit so play and learn about this fascinating fruit!
+
+***
+
 ## &nbsp;<img src="skills/B01GZSHZJ4/skill_icon" alt="BananaGeek icon" width="36"> [BananaGeek](skills/B01GZSHZJ4)
 
 *Alexa, tell me a fact from BananaGeek.*
@@ -1517,6 +1856,14 @@ Want to know more about bananas? Add BananaGeek to Alexa to learn about them!
 *Alexa, ask banjo quiz*
 
 A quiz about banjos.
+
+***
+
+## &nbsp;<img src="skills/B01M22GNJJ/skill_icon" alt="Bank A.T.M. finder for New York State icon" width="36"> [Bank A.T.M. finder for New York State](skills/B01M22GNJJ)
+
+*Alexa, ask  bank a. t. m. finder*
+
+Find bank institution atm's in New York State.  By County, City or Zip Code.  to get started simply say Alexa, ask  Bank A. T. M finder
 
 ***
 
@@ -1541,6 +1888,14 @@ This skill will provide you with interesting facts about everyone's favorite bar
 *Alexa, ask Bargain Buddy for the Woot.*
 
 Find out the daily deal from merchants like Woot and Meh by asking Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01LA3HZS0/skill_icon" alt="BarJoker icon" width="36"> [BarJoker](skills/B01LA3HZS0)
+
+*Alexa, ask BarJoker for a joke about a giraffe.*
+
+Hear a 'walks into a bar' joke based on a word or phrase.
 
 ***
 
@@ -1584,6 +1939,14 @@ Baseball Facts is a simple skill to generate baseball facts.
 
 ***
 
+## &nbsp;<img src="skills/B01LYYLYDN/skill_icon" alt="Baseball Facts icon" width="36"> [Baseball Facts](skills/B01LYYLYDN)
+
+*Alexa ask Baseball Facts to give me a fact*
+
+Ask baseball facts for an interesting fact about baseball.
+
+***
+
 ## &nbsp;<img src="skills/B01JFDN25C/skill_icon" alt="Baseball Flash Cards icon" width="36"> [Baseball Flash Cards](skills/B01JFDN25C)
 
 *Alexa, open Baseball Flash Cards.*
@@ -1605,6 +1968,22 @@ This alexa app tells the user some fun baseball facts
 *Alexa, ask Baseball Live who is pitching for the Phillies today?*
 
 Detailed information about current major league baseball games and teams
+
+***
+
+## &nbsp;<img src="skills/B01M59PGUU/skill_icon" alt="Baseball Schedule icon" width="36"> [Baseball Schedule](skills/B01M59PGUU)
+
+*Alexa, ask Baseball Schedule for the Chicago Cubs*
+
+Baseball Schedule
+
+***
+
+## &nbsp;<img src="skills/B01LYN63NU/skill_icon" alt="Baseball Scores icon" width="36"> [Baseball Scores](skills/B01LYN63NU)
+
+*Alexa, ask baseball scores who is leading the Mariners game*
+
+This skill is not sponsored in any way by Major League Baseball, but provides scores for MLB games on request.
 
 ***
 
@@ -1720,6 +2099,14 @@ Quiz on basketball facts
 
 ***
 
+## &nbsp;<img src="skills/B01M2ZFPA0/skill_icon" alt="Basketball Schedule icon" width="36"> [Basketball Schedule](skills/B01M2ZFPA0)
+
+*Alexa, ask Basketball Schedule for the Golden State Warriors*
+
+Basketball Schedule
+
+***
+
 ## &nbsp;<img src="skills/B01HLF3GRA/skill_icon" alt="Basketball Statistic icon" width="36"> [Basketball Statistic](skills/B01HLF3GRA)
 
 *Alexa, open basketball statistic and tell me about basketball.*
@@ -1760,6 +2147,14 @@ Bat Facts
 
 ***
 
+## &nbsp;<img src="skills/B01MAVS06Y/skill_icon" alt="Batman Fan Facts icon" width="36"> [Batman Fan Facts](skills/B01MAVS06Y)
+
+*Alexa, start batman fan facts*
+
+This skill lets Alexa tell you a few bits of trivia about 'Batman'. This a fan made skill, not endorsed by the owners of Batman IP.
+
+***
+
 ## &nbsp;<img src="skills/B01BKYR0WK/skill_icon" alt="BatteryBoot icon" width="36"> [BatteryBoot](skills/B01BKYR0WK)
 
 *Alexa, ask battery boot  where to buy it?*
@@ -1792,11 +2187,27 @@ BCD Style Recommender
 
 ***
 
+## &nbsp;<img src="skills/B01HSN7LVM/skill_icon" alt="Be Mindful icon" width="36"> [Be Mindful](skills/B01HSN7LVM)
+
+*Alexa, Ask Be Mindful for a two minute meditation*
+
+Mindfulness meditations lasting 1, 2 3, or 5 minutes.  These are guided meditations.
+
+***
+
 ## &nbsp;<img src="skills/B01IWZOZ3W/skill_icon" alt="beagle fact icon" width="36"> [beagle fact](skills/B01IWZOZ3W)
 
 *Alexa, ask beagle fact to tell me a fact.*
 
 Basic and interesting facts about beagles
+
+***
+
+## &nbsp;<img src="skills/B01LZMON47/skill_icon" alt="Beagle Facts icon" width="36"> [Beagle Facts](skills/B01LZMON47)
+
+*Alexa, tell beagle facts to tell me a beagle fact*
+
+Fun facts about the Beagle dog.
 
 ***
 
@@ -1824,6 +2235,14 @@ This skill is an absolute must have for anybody who is unsure how many beans mak
 
 ***
 
+## &nbsp;<img src="skills/B01IRA6R2E/skill_icon" alt="Bearcat icon" width="36"> [Bearcat](skills/B01IRA6R2E)
+
+*Alexa ask Boat Hand to Open Lights*
+
+Boat Hand helps you command Bearcat's features through Alexa Enabled Devices.
+
+***
+
 ## &nbsp;<img src="skills/B01GY4TVRS/skill_icon" alt="BeardTrivia icon" width="36"> [BeardTrivia](skills/B01GY4TVRS)
 
 *alexa launch beard trivia*
@@ -1845,6 +2264,22 @@ Alexa shows off her beat-boxing skills.  Ask for a beat by name ("phat", "old sc
 *Alexa, ask the dealer to deal the cards.*
 
 Beat the dealer in this game of Blackjack.
+
+***
+
+## &nbsp;<img src="skills/B01LWO02SX/skill_icon" alt="Beatles Facts icon" width="36"> [Beatles Facts](skills/B01LWO02SX)
+
+*Alexa, open Beatles Facts*
+
+Beatles Facts provides facts about everybody's favorite fab 4
+
+***
+
+## &nbsp;<img src="skills/B01LX2FASN/skill_icon" alt="Beatrice Nebraska News 68310 icon" width="36"> [Beatrice Nebraska News 68310](skills/B01LX2FASN)
+
+*alexa ask beatrice news what's new?*
+
+Local news, events, and happenings from Beatrice Nebraska and the surrounding area.
 
 ***
 
@@ -1960,6 +2395,14 @@ Are you ready for marriage? This skill will help you find out by suggesting conv
 
 ***
 
+## &nbsp;<img src="skills/B01L695774/skill_icon" alt="Beginners Method Cube Solver icon" width="36"> [Beginners Method Cube Solver](skills/B01L695774)
+
+*Alexa, start cube solver*
+
+Steps to solve Rubik's Cube using beginners method
+
+***
+
 ## &nbsp;<img src="skills/B01JB1VBZ6/skill_icon" alt="Belch Me icon" width="36"> [Belch Me](skills/B01JB1VBZ6)
 
 *Alexa, open belch me*
@@ -1968,11 +2411,35 @@ Alexa, Belch Me
 
 ***
 
+## &nbsp;<img src="skills/B01M0H219S/skill_icon" alt="Belfast Facts icon" width="36"> [Belfast Facts](skills/B01M0H219S)
+
+*Alexa, open Belfast Facts.*
+
+Some interesting facts about Belfast, Northern Ireland.
+
+***
+
+## &nbsp;<img src="skills/B01M2YK1PN/skill_icon" alt="Belfast Facts icon" width="36"> [Belfast Facts](skills/B01M2YK1PN)
+
+*Alexa open belfast facts*
+
+An app that gives the user random facts about Belfast when requested
+
+***
+
 ## &nbsp;<img src="skills/B01IS0O5KE/skill_icon" alt="Believe-It-Or-Not Cat Facts icon" width="36"> [Believe-It-Or-Not Cat Facts](skills/B01IS0O5KE)
 
 *Alexa, ask cat facts to tell me a cat fact.*
 
 Believe-It-Or-Not Cat Facts will surprise you with interesting facts about cats!
+
+***
+
+## &nbsp;<img src="skills/B01L4RVE20/skill_icon" alt="Bell Quotes icon" width="36"> [Bell Quotes](skills/B01L4RVE20)
+
+*Alexa, open Bell Quotes*
+
+Gets a random Funny Bell Quote
 
 ***
 
@@ -1992,6 +2459,62 @@ Benjamin Franklin Facts Skill
 
 ***
 
+## &nbsp;<img src="skills/B01M5CMBHN/skill_icon" alt="null" width="36"> [Ben James](skills/B01M5CMBHN)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LPL5HRI/skill_icon" alt="Benchmark WOD by WIKIWOD icon" width="36"> [Benchmark WOD by WIKIWOD](skills/B01LPL5HRI)
+
+*Alexa, ask WIKIWOD benchmarks what is Chelsea?*
+
+Benchmark and Hero series workouts from WIKIWOD database.
+
+***
+
+## &nbsp;<img src="skills/B01M25XJAA/skill_icon" alt="null" width="36"> [Bennji](skills/B01M25XJAA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M1P4JW0/skill_icon" alt="Berlin Fact icon" width="36"> [Berlin Fact](skills/B01M1P4JW0)
+
+*Alexa, open Berlin fact.*
+
+Get a random fun fact about Berlin
+
+***
+
+## &nbsp;<img src="skills/B01LWMQSUA/skill_icon" alt="Berlin Facts icon" width="36"> [Berlin Facts](skills/B01LWMQSUA)
+
+*Alexa, ask Berlin Facts to tell me something.*
+
+Berlin Facts
+
+***
+
+## &nbsp;<img src="skills/B01M1IO9CO/skill_icon" alt="Berlin Facts icon" width="36"> [Berlin Facts](skills/B01M1IO9CO)
+
+*Alexa Open Berlin Facts*
+
+This will give you some facts about Berlin in Germany
+
+***
+
+## &nbsp;<img src="skills/B01MAYX2XY/skill_icon" alt="Berlin Quiz icon" width="36"> [Berlin Quiz](skills/B01MAYX2XY)
+
+*Alexa, start Berlin Quiz.*
+
+Put your knowledge about Berlin to the test!
+
+***
+
 ## &nbsp;<img src="skills/B01EUH7XIK/skill_icon" alt="Bernie Geek icon" width="36"> [Bernie Geek](skills/B01EUH7XIK)
 
 *Alexa, start bernie geek*
@@ -2000,11 +2523,11 @@ Fun and quick facts about Bernie Sanders
 
 ***
 
-## &nbsp;<img src="skills/B01GCA3IZU/skill_icon" alt="Best Friend icon" width="36"> [Best Friend](skills/B01GCA3IZU)
+## &nbsp;<img src="skills/B01LWCASP5/skill_icon" alt="best age of marriage icon" width="36"> [best age of marriage](skills/B01LWCASP5)
 
-*Alexa ask Best Friend to tell me a fact.*
+*Alexa, open Best Age of Marriage*
 
-Best Friend - Reasons Not to Underage Drink
+A quick quiz to tell you what is the best age for you to get married.
 
 ***
 
@@ -2032,6 +2555,38 @@ This application uses historical workout data to recommend the time of day where
 
 ***
 
+## &nbsp;<img src="skills/B01M4PV9ZZ/skill_icon" alt="Betta Status icon" width="36"> [Betta Status](skills/B01M4PV9ZZ)
+
+*Alexa, open Betta Status*
+
+Quickly check the current status of your favorite developer tools like Twitter, Digital Ocean, and GitHub.
+
+***
+
+## &nbsp;<img src="skills/B01MEF6JVS/skill_icon" alt="Better Life tips for modern living icon" width="36"> [Better Life tips for modern living](skills/B01MEF6JVS)
+
+*Alexa start better life*
+
+Better Life - tips for modern living
+
+***
+
+## &nbsp;<img src="skills/B01LXRDRHV/skill_icon" alt="Better With Bacon icon" width="36"> [Better With Bacon](skills/B01LXRDRHV)
+
+*Alexa open Better Bacon*
+
+The music of Better with Bacon
+
+***
+
+## &nbsp;<img src="skills/B01MEGU2AN/skill_icon" alt="BetterRates icon" width="36"> [BetterRates](skills/B01MEGU2AN)
+
+*Alexa Ask Better Rates What are todays rates for California*
+
+Find out what is the mortgage interest rates for today!
+
+***
+
 ## &nbsp;<img src="skills/B01BFUIPCS/skill_icon" alt="BF Helper icon" width="36"> [BF Helper](skills/B01BFUIPCS)
 
 *Alexa, ask Basic Fantasy to roll a Thief.*
@@ -2045,6 +2600,22 @@ A companion Skill for Basic Fantasy RPG players.
 *Alexa, ask the Bible App to read John 3 verse 16*
 
 The Bible App for Alexa can read Bible verses and chapters to you in your favorite Bible version.
+
+***
+
+## &nbsp;<img src="skills/B01MEC6FBJ/skill_icon" alt="Bible icon" width="36"> [Bible](skills/B01MEC6FBJ)
+
+*Alexa, ask Bible Verses what does John 3:16 say?*
+
+Ask Alexa to read you a Bible verse by giving her a reference
+
+***
+
+## &nbsp;<img src="skills/B01LYGATAD/skill_icon" alt="bible characters icon" width="36"> [bible characters](skills/B01LYGATAD)
+
+*alexa, open bible characters*
+
+Gets information for a person named in the bible
 
 ***
 
@@ -2194,6 +2765,14 @@ The BigML skill integrates with your BigML account and makes it possible to load
 
 ***
 
+## &nbsp;<img src="skills/B01MCW21RK/skill_icon" alt="BigWords icon" width="36"> [BigWords](skills/B01MCW21RK)
+
+*Alexa, ask big words trivia to start game*
+
+GRE synonyms test
+
+***
+
 ## &nbsp;<img src="skills/B01J309ZB2/skill_icon" alt="Bike Finder icon" width="36"> [Bike Finder](skills/B01J309ZB2)
 
 *Alexa, ask Bike Finder how many bikes are available*
@@ -2215,6 +2794,14 @@ Ask Bike Safety Tips for facts about riding safely on the road.
 *Alexa, ask Bike Share to add an address*
 
 Quickly find the closest bike share station with available bikes. Currently supports Citibike in NYC.
+
+***
+
+## &nbsp;<img src="skills/B01MQ0QB49/skill_icon" alt="Bikes Facts icon" width="36"> [Bikes Facts](skills/B01MQ0QB49)
+
+*Alexa Open bikes facts*
+
+Are you interested in bikes? Jus use Bikes Facts to Know about the bikes.
 
 ***
 
@@ -2266,11 +2853,27 @@ With the Bingo skill, Alexa will call the numbers for you. Each number is repeat
 
 ***
 
+## &nbsp;<img src="skills/B01KPDLHU8/skill_icon" alt="Biology Facts icon" width="36"> [Biology Facts](skills/B01KPDLHU8)
+
+*Alexa, open biology facts*
+
+Random facts about biology
+
+***
+
 ## &nbsp;<img src="skills/B01JGYWCLK/skill_icon" alt="biology test icon" width="36"> [biology test](skills/B01JGYWCLK)
 
 *Alexa, launch biology game*
 
 A simple biology game
+
+***
+
+## &nbsp;<img src="skills/B01LZFWC1R/skill_icon" alt="Biology Trivia icon" width="36"> [Biology Trivia](skills/B01LZFWC1R)
+
+*Alexa, open biology trivia*
+
+Test your biology knowledge
 
 ***
 
@@ -2287,6 +2890,14 @@ Flashcards to learn biology.
 *Alexa, open BioRhythm.*
 
 The BioRhythm skill will calculate your natural biorhythm for today for entertainment purposes. Alexa, ask BioRhythm for a reading for birthday November 2, 1993
+
+***
+
+## &nbsp;<img src="skills/B01L9UK4NM/skill_icon" alt="Bird Fact icon" width="36"> [Bird Fact](skills/B01L9UK4NM)
+
+*Alexa, open bird fact*
+
+Learn facts about birds
 
 ***
 
@@ -2318,7 +2929,7 @@ A fun bird quiz.
 
 *Alexa, ask Bird Song for a blackbird*
 
-Plays a variety of beautiful bird songs and calls -- over 250 and growing!  Includes a Name That Bird game plus a few hidden Easter eggs to keep things fun.
+Plays a variety of beautiful bird songs and calls -- over 260 and growing!  Includes a Name That Bird game plus a few hidden Easter eggs to keep things fun.
 
 ***
 
@@ -2354,19 +2965,27 @@ Bit Exchange keeps you up to date with the current bitcoin exchange price.
 
 ***
 
+## &nbsp;<img src="skills/B01LW1SGY7/skill_icon" alt="Bitcoin Blockchain Facts icon" width="36"> [Bitcoin Blockchain Facts](skills/B01LW1SGY7)
+
+*Alexa, open bitcoin blockchain facts*
+
+Bitcoin+Blockchain Facts is an introduction to digital currency and the Blockchain technology.
+
+***
+
+## &nbsp;<img src="skills/B01MA4QUQN/skill_icon" alt="Bitcoin Exchange icon" width="36"> [Bitcoin Exchange](skills/B01MA4QUQN)
+
+*Alexa, open bitcoin exchange*
+
+Bitcoin stock exchange rate and currency converter
+
+***
+
 ## &nbsp;<img src="skills/B01H36KI46/skill_icon" alt="Bitcoin Info icon" width="36"> [Bitcoin Info](skills/B01H36KI46)
 
 *Alexa, ask bitcoin info for the latest bitcoin price*
 
 Get the latest price of Bitcoin
-
-***
-
-## &nbsp;<img src="skills/B017OBUWP0/skill_icon" alt="Bitcoin Price icon" width="36"> [Bitcoin Price](skills/B017OBUWP0)
-
-*Alexa, tell me the current Bitcoin price*
-
-This app returns the current price of a Bitcoin in US dollars from coindesk.com.
 
 ***
 
@@ -2426,11 +3045,35 @@ This skill provides facts, first, and information about African Americans.
 
 ***
 
+## &nbsp;<img src="skills/B01M8NUVJ2/skill_icon" alt="Blackjack Basic Strategy icon" width="36"> [Blackjack Basic Strategy](skills/B01M8NUVJ2)
+
+*Alexa, ask Basic Strategy what should eleven do against dealer ten*
+
+Provides a recommendation for a Blackjack hand based on Basic Strategy ("the book").
+
+***
+
 ## &nbsp;<img src="skills/B01IA5WVJY/skill_icon" alt="Blackjack Coach icon" width="36"> [Blackjack Coach](skills/B01IA5WVJY)
 
 *Alexa, launch Blackjack Coach*
 
 Brush up on your Blackjack skills with this interactive, voice based blackjack coach.  New scenarios added weekly!  This skill may not be suitable for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01LW0N8KL/skill_icon" alt="Blackjack Dealer icon" width="36"> [Blackjack Dealer](skills/B01LW0N8KL)
+
+*Alexa, open Blackjack Dealer*
+
+Play the game of Blackjack with Blackjack Dealer as the dealer.
+
+***
+
+## &nbsp;<img src="skills/B01K0KC7PU/skill_icon" alt="Blink for Home icon" width="36"> [Blink for Home](skills/B01K0KC7PU)
+
+*Alexa ask Blink to arm my Home system*
+
+Blink is the one-of-a-kind, ultra-affordable, battery-powered, HD home security and video monitoring system. Learn more at www.blinkforhome.com.
 
 ***
 
@@ -2455,6 +3098,14 @@ Have an interest in the booming crypto-currency markets? Block chain ticker lets
 *Alexa, ask b. p. log to save my blood pressure as one twenty over eighty*
 
 The Blood Pressure Log saves your Blood Pressure and gives you an average BP Reading.
+
+***
+
+## &nbsp;<img src="skills/B01KN51D16/skill_icon" alt="Bloomberg Market Data and News icon" width="36"> [Bloomberg Market Data and News](skills/B01KN51D16)
+
+*Alexa, open Bloomberg*
+
+The Bloomberg skill delivers security quotes, indices updates and the latest episode of Bloomberg Market Minute at your command.
 
 ***
 
@@ -2506,6 +3157,22 @@ The skill allows you control your Bluesound HiFi system with your voice.
 
 ***
 
+## &nbsp;<img src="skills/B01LWLCMGF/skill_icon" alt="BMW Connected icon" width="36"> [BMW Connected](skills/B01LWLCMGF)
+
+*Alexa, open BMW.*
+
+Lock your BMW’s doors, prepare for your next trip, and more.
+
+***
+
+## &nbsp;<img src="skills/B01M5DO8BV/skill_icon" alt="null" width="36"> [BMW Technology Group](skills/B01M5DO8BV)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01FRGDQN4/skill_icon" alt="Bo's Resume icon" width="36"> [Bo's Resume](skills/B01FRGDQN4)
 
 *Alexa launch candidate Bo*
@@ -2514,9 +3181,17 @@ Bo's Resume
 
 ***
 
+## &nbsp;<img src="skills/B01L1L91Z6/skill_icon" alt="Board Game Guide icon" width="36"> [Board Game Guide](skills/B01L1L91Z6)
+
+*Alexa, open Board Game Guide*
+
+Answer a series of questions to discover the perfect board game to play!
+
+***
+
 ## &nbsp;<img src="skills/B01D39I76I/skill_icon" alt="Board Gamer icon" width="36"> [Board Gamer](skills/B01D39I76I)
 
-*Alexa, tell Board Gamer my username is boardgamer*
+*Alexa, ask Board Gamer to choose a game*
 
 Get a random board game from your BoardGameGeek.com board game collection
 
@@ -2594,11 +3269,35 @@ Body Geek is a collection of fun and unusual facts about the human body.
 
 ***
 
+## &nbsp;<img src="skills/B01M15KNH5/skill_icon" alt="Bogan bot icon" width="36"> [Bogan bot](skills/B01M15KNH5)
+
+*Alexa, ask bogan bot for a quote*
+
+Bogan bot is as fair dinkum as a wigwam for a goose's bridle
+
+***
+
+## &nbsp;<img src="skills/B01HM3KGPG/skill_icon" alt="Bollywood Insider icon" width="36"> [Bollywood Insider](skills/B01HM3KGPG)
+
+*Alexa, ask Bollywood Insider what are the upcoming movies*
+
+Bollywood insider skill will help you find what are the upcoming movies. Or it can also provide information about movies released this week.
+
+***
+
 ## &nbsp;<img src="skills/B01JDNKZBS/skill_icon" alt="Bollywood Movie Trivia icon" width="36"> [Bollywood Movie Trivia](skills/B01JDNKZBS)
 
 *Alexa, launch bollywood movie trivia*
 
 Bollywood Movie Trivia
+
+***
+
+## &nbsp;<img src="skills/B01LXZSNKO/skill_icon" alt="Bollywood Quiz icon" width="36"> [Bollywood Quiz](skills/B01LXZSNKO)
+
+*Alexa start bollywood quiz*
+
+Bollywood Quiz
 
 ***
 
@@ -2650,6 +3349,22 @@ A Toy Science Fiction Trivia Quiz.
 
 ***
 
+## &nbsp;<img src="skills/B01M8KVRY0/skill_icon" alt="Book Events icon" width="36"> [Book Events](skills/B01M8KVRY0)
+
+*Alexa open Book Events*
+
+Book, signing & author event finder - provides events and venues for upcoming popular book events!
+
+***
+
+## &nbsp;<img src="skills/B01LYXVEUK/skill_icon" alt="Book of John icon" width="36"> [Book of John](skills/B01LYXVEUK)
+
+*Alexa, open book of john*
+
+The Book of John tells you random, fun tidbits about the creator's semi-interesting life.
+
+***
+
 ## &nbsp;<img src="skills/B01IKY48FK/skill_icon" alt="Book of Proverbs icon" width="36"> [Book of Proverbs](skills/B01IKY48FK)
 
 *Alexa open book of proverbs and give me a verse*
@@ -2674,6 +3389,14 @@ Get advice from the Book of Wisdom
 
 ***
 
+## &nbsp;<img src="skills/B01LR1LFF4/skill_icon" alt="Boom Boom icon" width="36"> [Boom Boom](skills/B01LR1LFF4)
+
+*Alexa, start boom boom*
+
+Tells you funny and interesting one lines
+
+***
+
 ## &nbsp;<img src="skills/B019X2TMOA/skill_icon" alt="Booze Trivia icon" width="36"> [Booze Trivia](skills/B019X2TMOA)
 
 *Alexa, launch Booze Trivia*
@@ -2687,6 +3410,14 @@ Fun trivia about alcohol to impress your friends
 *Alexa, open bored tasks*
 
 Bored tasks
+
+***
+
+## &nbsp;<img src="skills/B01MAWDY33/skill_icon" alt="BortRenfro icon" width="36"> [BortRenfro](skills/B01MAWDY33)
+
+*Alexa, open best yellow character*
+
+A set of 4 statements about Bort, the best cameo character from The Simpsons.
 
 ***
 
@@ -2722,6 +3453,14 @@ Find out the status of MBTA public transit (subway, Silver, and commuter line st
 
 ***
 
+## &nbsp;<img src="skills/B01MA47QCI/skill_icon" alt="Boston Trivia icon" width="36"> [Boston Trivia](skills/B01MA47QCI)
+
+*Alexa open boston trivia*
+
+A fact skill giving trivia about Boston City
+
+***
+
 ## &nbsp;<img src="skills/B01GP4MVII/skill_icon" alt="BourbonHelper icon" width="36"> [BourbonHelper](skills/B01GP4MVII)
 
 *Alexa, Ask Bourbon helper how can I build a doctor seven*
@@ -2730,11 +3469,35 @@ Bartenders Helper
 
 ***
 
+## &nbsp;<img src="skills/B01L9VCV9G/skill_icon" alt="Bowel Movement Facts icon" width="36"> [Bowel Movement Facts](skills/B01L9VCV9G)
+
+*Alexa, open bowel movement facts*
+
+Bowel Movement Facts
+
+***
+
 ## &nbsp;<img src="skills/B01I7AEVVS/skill_icon" alt="Bowling Facts icon" width="36"> [Bowling Facts](skills/B01I7AEVVS)
 
 *Alexa ask bowling fact to tell me a fact*
 
 Bowling Facts
+
+***
+
+## &nbsp;<img src="skills/B01LWIYNYD/skill_icon" alt="Bowling Facts icon" width="36"> [Bowling Facts](skills/B01LWIYNYD)
+
+*Alexa, open Bowling Facts*
+
+This skill gives you a random fact about 10 pin bowling.
+
+***
+
+## &nbsp;<img src="skills/B01M1EQYVM/skill_icon" alt="Bowling Trivia icon" width="36"> [Bowling Trivia](skills/B01M1EQYVM)
+
+*Alexa, open Bowling Trivia*
+
+A trivia game to test your knowledge of bowling.
 
 ***
 
@@ -2762,11 +3525,27 @@ This skill helps to find movie ratings. It tells you rating on a scale of 10. Wh
 
 ***
 
+## &nbsp;<img src="skills/B01M4FP8FM/skill_icon" alt="Boy Friend icon" width="36"> [Boy Friend](skills/B01M4FP8FM)
+
+*Alexa ask boy friend*
+
+skills for virtual boy friend.
+
+***
+
 ## &nbsp;<img src="skills/B01JTX1H6E/skill_icon" alt="Boy Names icon" width="36"> [Boy Names](skills/B01JTX1H6E)
 
 *Alexa, ask Boy Names to say a name*
 
 Get a boy name from Alexa
+
+***
+
+## &nbsp;<img src="skills/B01LVW904I/skill_icon" alt="Brad Pitt Facts icon" width="36"> [Brad Pitt Facts](skills/B01LVW904I)
+
+*Alexa, play Brad Pitt facts*
+
+Facts about the actor Brad Pitt
 
 ***
 
@@ -2794,11 +3573,27 @@ Control your Brain of Things enabled home.
 
 ***
 
+## &nbsp;<img src="skills/B01LWXO215/skill_icon" alt="Brain Teaser icon" width="36"> [Brain Teaser](skills/B01LWXO215)
+
+*Alexa, ask brain teaser*
+
+Exercise your head muscles with Brain Teaser.
+
+***
+
 ## &nbsp;<img src="skills/B01K3X4KYK/skill_icon" alt="Brain Teasers! icon" width="36"> [Brain Teasers!](skills/B01K3X4KYK)
 
 *Alexa, launch Brain Teasers*
 
 A quick fun trivia game to test your common knowledge and quick thinking ability.
+
+***
+
+## &nbsp;<img src="skills/B01LXAZPPB/skill_icon" alt="Brand Haiku icon" width="36"> [Brand Haiku](skills/B01LXAZPPB)
+
+*Alexa, open Brand Haiku.*
+
+Brand Haiku plays 57 thoughtful and concise bits of brand wisdom. Enjoy!
 
 ***
 
@@ -2826,11 +3621,44 @@ A short little question game to get to know more about Brandify.
 
 ***
 
+## &nbsp;<img src="skills/B01MXDJ56F/skill_icon" alt="Breath Analyzer icon" width="36"> [Breath Analyzer](skills/B01MXDJ56F)
+
+*Alexa, open breath analyzer*
+
+By blowing into your device -- Alexa can determine your blood alcohol level.
+Disclaimer: There is no breath analyzer in your device, this is a joke skill
+
+***
+
 ## &nbsp;<img src="skills/B01K4U8BQA/skill_icon" alt="Breathe icon" width="36"> [Breathe](skills/B01K4U8BQA)
 
 *Alexa, start deep breathing*
 
 Breathe is a breathing coach for Alexa
+
+***
+
+## &nbsp;<img src="skills/B01N3LNNHO/skill_icon" alt="Bremen information icon" width="36"> [Bremen information](skills/B01N3LNNHO)
+
+*Alexa Ask bremen information for a fact*
+
+Information about Bremen
+
+***
+
+## &nbsp;<img src="skills/B01MQ0SEOF/skill_icon" alt="null" width="36"> [Bremer Tageszeitungen AG](skills/B01MQ0SEOF)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M7OVTB8/skill_icon" alt="null" width="36"> [brent-hunter.com](skills/B01M7OVTB8)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -2842,11 +3670,43 @@ An Amazon Alexa app to discover new food pairings to enjoy your beer.
 
 ***
 
+## &nbsp;<img src="skills/B01M9EIMEH/skill_icon" alt="null" width="36"> [brian54](skills/B01M9EIMEH)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MDPU4HG/skill_icon" alt="null" width="36"> [brian54](skills/B01MDPU4HG)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MG3ZFTE/skill_icon" alt="null" width="36"> [brian54](skills/B01MG3ZFTE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01FWETQUI/skill_icon" alt="BrickBot icon" width="36"> [BrickBot](skills/B01FWETQUI)
 
 *Alexa, ask BrickBot to get available sets in twenty sixteen*
 
 Crazy about collecting LEGO® sets? Get the latest updates on available sets, set details, themes, and sub-theme from Brick Bot. Try it out now!
+
+***
+
+## &nbsp;<img src="skills/B01LZLEJ0Q/skill_icon" alt="British History Quiz icon" width="36"> [British History Quiz](skills/B01LZLEJ0Q)
+
+*Alexa, play British History Quiz*
+
+Trivia game providing multiple choice answers on key dates, figures, and events that have shaped British History.
 
 ***
 
@@ -2863,6 +3723,54 @@ Broadway musical year quiz. Guess the year of the show.
 *Alexa, open Broadway Trivia Game.*
 
 The Broadway Trivia Game tests your knowledge of Broadway history.
+
+***
+
+## &nbsp;<img src="skills/B01L9XZTR0/skill_icon" alt="Broadway Trivia icon" width="36"> [Broadway Trivia](skills/B01L9XZTR0)
+
+*Alexa, let's play Broadway Trivia!*
+
+Trivia for some of Broadway and film's greatest musicals. See how many you can get right!
+
+***
+
+## &nbsp;<img src="skills/B01MFDBATV/skill_icon" alt="Brownie Points Skill icon" width="36"> [Brownie Points Skill](skills/B01MFDBATV)
+
+*Alexa, Ask Brownie Points to add David to the chart*
+
+This skill can track a points or star chart for individuals. You can give points to people and track progress towards a goal.
+
+***
+
+## &nbsp;<img src="skills/B01LXSRKN6/skill_icon" alt="Bruce Lee Quotes (Fan Made) icon" width="36"> [Bruce Lee Quotes (Fan Made)](skills/B01LXSRKN6)
+
+*Alexa launch lee quotes*
+
+To hear quotes by Bruce Lee just say "Alexa launch lee quotes"
+
+***
+
+## &nbsp;<img src="skills/B01MEHEE44/skill_icon" alt="BryansHockeyTrivia icon" width="36"> [BryansHockeyTrivia](skills/B01MEHEE44)
+
+*Alexa, launch bryans hockey trivia*
+
+This is a trivia game with a random set of hockey questions.
+
+***
+
+## &nbsp;<img src="skills/B01IFDQ97Q/skill_icon" alt="Bryant Housewise Thermostat Control icon" width="36"> [Bryant Housewise Thermostat Control](skills/B01IFDQ97Q)
+
+*There are no example interactions for this skill.*
+
+Control your Bryant Housewise thermostat using your Amazon Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01N06SU4R/skill_icon" alt="BSD Fortune icon" width="36"> [BSD Fortune](skills/B01N06SU4R)
+
+*Alexa, ask b. s. d. fortune to read to me*
+
+Fortunes and Quotes from the BSD fortune files.
 
 ***
 
@@ -2898,6 +3806,14 @@ Buddy for Destiny provides useful information like Xur inventory and weekly acti
 
 ***
 
+## &nbsp;<img src="skills/B01M13Z35T/skill_icon" alt="Buddy the Dog icon" width="36"> [Buddy the Dog](skills/B01M13Z35T)
+
+*Alexa, ask buddy the dog what does my dog want*
+
+Ask what your dog wants.
+
+***
+
 ## &nbsp;<img src="skills/B01E24GB9I/skill_icon" alt="Buegton Trivia icon" width="36"> [Buegton Trivia](skills/B01E24GB9I)
 
 *Alexa, start Jen and Ian Trivia*
@@ -2919,6 +3835,14 @@ Buffalo has a rich history of victory and defeat, agony and joy. This trivia gam
 *Alexa, ask Bug Tracker what is the status for ticket CAMEL 1099?*
 
 An integration between Alexa and the Atlassian Jira tracking system. Using Jira restful API,  gets the most up to date information of a Jira ticket.
+
+***
+
+## &nbsp;<img src="skills/B01M3V0IMK/skill_icon" alt="Bugle Notes icon" width="36"> [Bugle Notes](skills/B01M3V0IMK)
+
+*Alexa Ask Bugle Notes How many lights in Cullum Hall*
+
+Bugle Notes - The Handbook of the United States Corps of Cadets (West Point Plebe Bible)
 
 ***
 
@@ -2947,11 +3871,27 @@ Hear great facts about everyone's favorite Mexican entree.
 
 ***
 
+## &nbsp;<img src="skills/B01L9V92Q6/skill_icon" alt="Burrito Facts icon" width="36"> [Burrito Facts](skills/B01L9V92Q6)
+
+*Alexa, open burrito facts*
+
+Burrito Facts
+
+***
+
 ## &nbsp;<img src="skills/B01E4FC2P2/skill_icon" alt="Butterfleye icon" width="36"> [Butterfleye](skills/B01E4FC2P2)
 
 *Alexa, ask Butterfly Demo for events from today.*
 
 Gives you the events Butterfleye demo camera has on a particular day. For example you can ask: "Alexa, ask Butterfly Demo for events from today".
+
+***
+
+## &nbsp;<img src="skills/B01M7RNHGE/skill_icon" alt="Butterfly Facts icon" width="36"> [Butterfly Facts](skills/B01M7RNHGE)
+
+*Alexa ask butterfly facts to give me some information*
+
+This skill provides random facts about butterflies.
 
 ***
 
@@ -2984,6 +3924,14 @@ Let your echo help you do the calculation, it is cool and you won't make mistake
 *Alexa, run Hillbrook bear*
 
 Hear what's happening on the published Hillbrook School calendar: A-F days, free dress, early dismissal, and other events.
+
+***
+
+## &nbsp;<img src="skills/B01LGD4BXG/skill_icon" alt="Calendar Week icon" width="36"> [Calendar Week](skills/B01LGD4BXG)
+
+*Alexa, launch calendar week*
+
+Calendar Week is a simple skill to deliver the current week number.
 
 ***
 
@@ -3035,6 +3983,22 @@ Have Alexa call the hogs by saying:   "Alexa, Start Calling the Hogs".  Alexa wi
 
 ***
 
+## &nbsp;<img src="skills/B01N3YMFAE/skill_icon" alt="Calorie Steps icon" width="36"> [Calorie Steps](skills/B01N3YMFAE)
+
+*Alexa, ask Calorie Steps to get calories for mozzarella*
+
+Get calorie information for common foods and then find out how many steps are needed to burn off those calories.
+
+***
+
+## &nbsp;<img src="skills/B01M8JPI0M/skill_icon" alt="CalPal icon" width="36"> [CalPal](skills/B01M8JPI0M)
+
+*Alexa Start CalPal*
+
+A tool that helps you convert calories to time exercise.
+
+***
+
 ## &nbsp;<img src="skills/B017OBWHCQ/skill_icon" alt="Campbell's Kitchen icon" width="36"> [Campbell's Kitchen](skills/B017OBWHCQ)
 
 *Alexa, ask Campbell's Kitchen what's for dinner*
@@ -3067,11 +4031,51 @@ Ask Alexa about browser support for HTML, CSS and JavaScript features.
 
 ***
 
+## &nbsp;<img src="skills/B01M6WRWRR/skill_icon" alt="Canada Knowledge icon" width="36"> [Canada Knowledge](skills/B01M6WRWRR)
+
+*Alexa, ask canada knowledge to tell me a fact*
+
+Fun facts aboot friendly Canada!
+
+***
+
+## &nbsp;<img src="skills/B01M70VFAI/skill_icon" alt="Candice Fact icon" width="36"> [Candice Fact](skills/B01M70VFAI)
+
+*Alexa ask, candice fact to tell me a fact*
+
+Candice Facts
+
+***
+
 ## &nbsp;<img src="skills/B01DDAQCLE/skill_icon" alt="Candidate Quote Quiz icon" width="36"> [Candidate Quote Quiz](skills/B01DDAQCLE)
 
 *Alexa, open Candidate Quiz*
 
 A quote-identifying trivia game starring the current and past candidates for the US Presidential Election 2016.
+
+***
+
+## &nbsp;<img src="skills/B01N8OQ6TV/skill_icon" alt="candle magic facts icon" width="36"> [candle magic facts](skills/B01N8OQ6TV)
+
+*Alexa, open candle magic facts.*
+
+Candle colors magic
+
+***
+
+## &nbsp;<img src="skills/B01M7OB4VG/skill_icon" alt="Candy Facts icon" width="36"> [Candy Facts](skills/B01M7OB4VG)
+
+*Alexa open candy facts*
+
+A set of facts about candy
+
+***
+
+## &nbsp;<img src="skills/B01L5YAQSA/skill_icon" alt="Canine Facts icon" width="36"> [Canine Facts](skills/B01L5YAQSA)
+
+*Alexa, start canine facts*
+
+Fun facts about dogs!!!
 
 ***
 
@@ -3128,6 +4132,14 @@ Use your Capital One skill to hear how much money you have, make credit card pay
 *Alexa, tell Capital Quiz to start practicing*
 
 Capital Quiz helps you practice and then quizzes you on the names of the capital cities of all 50 US states.
+
+***
+
+## &nbsp;<img src="skills/B01M5IDGDW/skill_icon" alt="Capital Quiz icon" width="36"> [Capital Quiz](skills/B01M5IDGDW)
+
+*Alexa, open Capital Quiz.*
+
+A quiz game about country capitals
 
 ***
 
@@ -3195,6 +4207,14 @@ A nice trivia about US Capitals of the state. Enjoy doing this game with your fa
 
 ***
 
+## &nbsp;<img src="skills/B01N3NNRMT/skill_icon" alt="Car Engine Facts icon" width="36"> [Car Engine Facts](skills/B01N3NNRMT)
+
+*Alexa ask engine facts for a fact*
+
+Car Engine Facts
+
+***
+
 ## &nbsp;<img src="skills/B01HLEW92O/skill_icon" alt="Car Fact icon" width="36"> [Car Fact](skills/B01HLEW92O)
 
 *Alexa, open car fact and tell me about cars.*
@@ -3216,6 +4236,22 @@ Fun and interesting fact about an everyday tool, your car!
 *Alexa, open car facts*
 
 Increase Your Knowledge About Car Facts
+
+***
+
+## &nbsp;<img src="skills/B01KSWKAQ8/skill_icon" alt="Car Facts icon" width="36"> [Car Facts](skills/B01KSWKAQ8)
+
+*Alexa, Open Car Facts*
+
+Random facts about cars.
+
+***
+
+## &nbsp;<img src="skills/B01M7O677G/skill_icon" alt="Car Geek icon" width="36"> [Car Geek](skills/B01M7O677G)
+
+*Alexa, open car geek*
+
+Interesting car facts
 
 ***
 
@@ -3259,6 +4295,22 @@ Ever wondered which car you should by? This app is just for you!
 
 ***
 
+## &nbsp;<img src="skills/B01LZ484CZ/skill_icon" alt="Cardboard Box Facts icon" width="36"> [Cardboard Box Facts](skills/B01LZ484CZ)
+
+*Alexa, ask unofficial cardboard box facts to tell me a fact.*
+
+Want to know more interesting facts about Cardboard Boxes
+
+***
+
+## &nbsp;<img src="skills/B01M0QKM4P/skill_icon" alt="career choice icon" width="36"> [career choice](skills/B01M0QKM4P)
+
+*Alexa, ask career choice*
+
+Gives you general career options
+
+***
+
 ## &nbsp;<img src="skills/B01IW3F2PO/skill_icon" alt="Caribbean Trivia icon" width="36"> [Caribbean Trivia](skills/B01IW3F2PO)
 
 *Alexa, open Caribbean Trivia*
@@ -3283,6 +4335,14 @@ This skill helps you remember when you are driving the carpool based on day-of-w
 
 ***
 
+## &nbsp;<img src="skills/B01IFDQLLA/skill_icon" alt="Carrier Côr Thermostat Control icon" width="36"> [Carrier Côr Thermostat Control](skills/B01IFDQLLA)
+
+*There are no example interactions for this skill.*
+
+Control your Côr thermostat using your Amazon Alexa.
+
+***
+
 ## &nbsp;<img src="skills/B01KNE8Z9K/skill_icon" alt="CARVIS: Find the Perfect Ride icon" width="36"> [CARVIS: Find the Perfect Ride](skills/B01KNE8Z9K)
 
 *Alexa, ask car vis how much is a taxi from Marriott San Francisco to SFO airport*
@@ -3296,6 +4356,14 @@ Get the average taxi fare from an airport to your hotel, and vice versa.
 *There are no example interactions for this skill.*
 
 Control your Lutron Caséta Wireless lights from anywhere!
+
+***
+
+## &nbsp;<img src="skills/B01M6UF6WS/skill_icon" alt="Castle Adventure icon" width="36"> [Castle Adventure](skills/B01M6UF6WS)
+
+*Alexa, open castle adventure*
+
+A short adventure game that allows you to try to escape a castle.
 
 ***
 
@@ -3411,6 +4479,54 @@ Provides fun facts about cat!
 
 ***
 
+## &nbsp;<img src="skills/B01LC5PG3C/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01LC5PG3C)
+
+*Alexa, ask Cat Facts to tell me a cat fact*
+
+Love Cats? You found a perfect app to get the facts about Cats.
+
+***
+
+## &nbsp;<img src="skills/B01LYV09UX/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01LYV09UX)
+
+*Alexa, ask cat facts to tell me a fact*
+
+Learn random facts about cats!
+
+***
+
+## &nbsp;<img src="skills/B01M0WN070/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01M0WN070)
+
+*Alexa, open cat facts*
+
+Gives a random cat fact when asked.
+
+***
+
+## &nbsp;<img src="skills/B01M9JAWO4/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01M9JAWO4)
+
+*Alexa, ask cat facts to tell me a fact about cats*
+
+Get some facts about cats!
+
+***
+
+## &nbsp;<img src="skills/B01MDPT210/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01MDPT210)
+
+*Alexa, ask  meow facts for a fact*
+
+This gives you facts about cats
+
+***
+
+## &nbsp;<img src="skills/B01MRITYYG/skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](skills/B01MRITYYG)
+
+*Alexa Open Cat Facts*
+
+Get a lot of interesting facts about cats.
+
+***
+
 ## &nbsp;<img src="skills/B01HCJ83LY/skill_icon" alt="Cat Geek icon" width="36"> [Cat Geek](skills/B01HCJ83LY)
 
 *Alexa, ask cat geek for a fact.*
@@ -3451,6 +4567,22 @@ Cat Lady is a skill that gives you interesting facts on cats.
 
 ***
 
+## &nbsp;<img src="skills/B01LIJ8H10/skill_icon" alt="CAT Lover icon" width="36"> [CAT Lover](skills/B01LIJ8H10)
+
+*Alexa, ask cat lover a fact*
+
+This  skill  gives facts  about cats
+
+***
+
+## &nbsp;<img src="skills/B01LLP9YZO/skill_icon" alt="Cat Person icon" width="36"> [Cat Person](skills/B01LLP9YZO)
+
+*Alexa, ask cat person for  a fact*
+
+this  skill  tells  facts  about  cats.
+
+***
+
 ## &nbsp;<img src="skills/B019NWDIAO/skill_icon" alt="Cat Raiser icon" width="36"> [Cat Raiser](skills/B019NWDIAO)
 
 *Alexa, ask cat raiser how is my cat*
@@ -3483,6 +4615,22 @@ Cat Facts Trivia - test your knowledge of cat facts!
 
 ***
 
+## &nbsp;<img src="skills/B01LXUES78/skill_icon" alt="Catholic Daily icon" width="36"> [Catholic Daily](skills/B01LXUES78)
+
+*Alexa, ask Catholic Daily for today's readings*
+
+Hear the daily Mass readings from the convenience of your Alexa-enabled device. Pick today's date or any date you choose.
+
+***
+
+## &nbsp;<img src="skills/B01IR3CPT0/skill_icon" alt="Cave Master icon" width="36"> [Cave Master](skills/B01IR3CPT0)
+
+*Alexa, Open Cave Master*
+
+Cave Master, a voice based adventure game.
+
+***
+
 ## &nbsp;<img src="skills/B01EH4LA7Q/skill_icon" alt="Caves Under Thornhill icon" width="36"> [Caves Under Thornhill](skills/B01EH4LA7Q)
 
 *Alexa, ask Caves Under Thornhill to start a game.*
@@ -3491,19 +4639,19 @@ Caves Under Thornhill is a classic maze and monster game.
 
 ***
 
+## &nbsp;<img src="skills/B01M1DVXSG/skill_icon" alt="CCS Insight icon" width="36"> [CCS Insight](skills/B01M1DVXSG)
+
+*Alexa, tell c. c. s. insight to get me the latest content*
+
+CCS Insight provides market information, analysis and intelligence for companies focusing on the mobile and wireless sector around the world.
+
+***
+
 ## &nbsp;<img src="skills/B01E106YAE/skill_icon" alt="Ceaseless icon" width="36"> [Ceaseless](skills/B01E106YAE)
 
 *Alexa, ask Ceaseless who should I pray for today*
 
 Find out who to pray for each day and receive wisdom from the Bible with Ceaseless. Use it for daily prayer and devotion.
-
-***
-
-## &nbsp;<img src="skills/B01I0U0VWS/skill_icon" alt="null" width="36"> [CeBotics LLC](skills/B01I0U0VWS)
-
-*There are no example interactions for this skill.*
-
-null
 
 ***
 
@@ -3531,11 +4679,51 @@ Get a study tip for the MBE.
 
 ***
 
+## &nbsp;<img src="skills/B01M1OCMN2/skill_icon" alt="Celebrity Page icon" width="36"> [Celebrity Page](skills/B01M1OCMN2)
+
+*Alexa, start Celebrity Page*
+
+Alexa will give updates about Celebrities who were on show recently
+
+***
+
+## &nbsp;<img src="skills/B01LVXBNV0/skill_icon" alt="Census Data icon" width="36"> [Census Data](skills/B01LVXBNV0)
+
+*alexa, ask census data, what is the population of maryland*
+
+Learn about the United States through data from the U.S. Census Bureau.
+
+***
+
+## &nbsp;<img src="skills/B01M9B1Y7Z/skill_icon" alt="null" width="36"> [Cerebral Digital](skills/B01M9B1Y7Z)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MQ0GZ1E/skill_icon" alt="null" width="36"> [Cerebral Digital](skills/B01MQ0GZ1E)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01KTUA8DO/skill_icon" alt="Cerebral Palsy Facts icon" width="36"> [Cerebral Palsy Facts](skills/B01KTUA8DO)
 
 *Alexa, open c.p. fact*
 
 Cerebral Palsy Facts
+
+***
+
+## &nbsp;<img src="skills/B01LN7IPGO/skill_icon" alt="CF Acronyms by WIKIWOD icon" width="36"> [CF Acronyms by WIKIWOD](skills/B01LN7IPGO)
+
+*Alexa, ask WIKIWOD Acronyms what is "W-O-D"?*
+
+CrossFit Acronyms by WIKIWOD
 
 ***
 
@@ -3563,6 +4751,14 @@ tells a chack noris fan fun fact
 
 ***
 
+## &nbsp;<img src="skills/B01LYVEDXR/skill_icon" alt="Chameleon Facts icon" width="36"> [Chameleon Facts](skills/B01LYVEDXR)
+
+*"Alexa, open Chameleon Facts."*
+
+Fun facts about Chameleons
+
+***
+
 ## &nbsp;<img src="skills/B01HUXZHQQ/skill_icon" alt="Chanakya Says icon" width="36"> [Chanakya Says](skills/B01HUXZHQQ)
 
 *Alexa ask chanakya says tell me  fact*
@@ -3587,6 +4783,14 @@ Channel number finder for Sacramento region Dish Network
 
 ***
 
+## &nbsp;<img src="skills/B01M00WEAP/skill_icon" alt="ChannelAdvisor E-Commerce Blog icon" width="36"> [ChannelAdvisor E-Commerce Blog](skills/B01M00WEAP)
+
+*Alexa, launch channel advisor*
+
+Get the latest ChannelAdvisor Blog
+
+***
+
 ## &nbsp;<img src="skills/B01HLFFABA/skill_icon" alt="Chapman Trivia icon" width="36"> [Chapman Trivia](skills/B01HLFFABA)
 
 *Alexa play Chapman Trivia*
@@ -3603,6 +4807,14 @@ Get the scoop on your favorite Harry Potter characters! Just say the name of any
 
 ***
 
+## &nbsp;<img src="skills/B01M4NS4J9/skill_icon" alt="Charles Bukowski Quotes icon" width="36"> [Charles Bukowski Quotes](skills/B01M4NS4J9)
+
+*alexa launch charles bukowski quotes*
+
+Hear quotes from Charles Bukowski and his writings.
+
+***
+
 ## &nbsp;<img src="skills/B01FEVJDFM/skill_icon" alt="Chat Bot for Slack icon" width="36"> [Chat Bot for Slack](skills/B01FEVJDFM)
 
 *Alexa, start Chat bot*
@@ -3616,6 +4828,38 @@ Post to Slack using your Alexa device.
 *Alexa open cheer lights*
 
 Find out what color the World feels like right now.
+
+***
+
+## &nbsp;<img src="skills/B01MG4MQ1N/skill_icon" alt="Cheese facts icon" width="36"> [Cheese facts](skills/B01MG4MQ1N)
+
+*alexa, open cheese facts*
+
+Cheese Facts
+
+***
+
+## &nbsp;<img src="skills/B01LXUX81O/skill_icon" alt="Cheese Facts icon" width="36"> [Cheese Facts](skills/B01LXUX81O)
+
+*Alexa, Open Cheese Facts*
+
+Fun facts about cheese.
+
+***
+
+## &nbsp;<img src="skills/B01LYRKGCC/skill_icon" alt="Cheese Of The Day icon" width="36"> [Cheese Of The Day](skills/B01LYRKGCC)
+
+*Alexa, open cheese of the day*
+
+Cheese of the Day gives you a cheese recommendation from some of the most delicious, popular cheese around the world.
+
+***
+
+## &nbsp;<img src="skills/B01GP7FVD2/skill_icon" alt="Cheetah for Runkeeper icon" width="36"> [Cheetah for Runkeeper](skills/B01GP7FVD2)
+
+*Alexa, ask Cheetah Exercise how far did I run today*
+
+Cheetah for Runkeeper Activities
 
 ***
 
@@ -3643,6 +4887,14 @@ Chef Sheffey helps you find and try one of 350,000 recipes.
 
 ***
 
+## &nbsp;<img src="skills/B01MEE8UJU/skill_icon" alt="null" width="36"> [Chefkoch GmbH](skills/B01MEE8UJU)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01JQUUNLA/skill_icon" alt="ChefThai icon" width="36"> [ChefThai](skills/B01JQUUNLA)
 
 *Alexa, ask chef Thai to how do you cook chicken pad thai?*
@@ -3664,6 +4916,22 @@ Chemical Names
 *Alexa, ask Chemistry Professor what Na is*
 
 Quickly get information about elements on the periodic table. Can't remember which element Na is? Just ask the Chemistry Professor.
+
+***
+
+## &nbsp;<img src="skills/B01MD1UWYQ/skill_icon" alt="Chess Facts icon" width="36"> [Chess Facts](skills/B01MD1UWYQ)
+
+*Alexa ask Chess Facts a chess fact*
+
+Chess Facts
+
+***
+
+## &nbsp;<img src="skills/B01LXJG04V/skill_icon" alt="ChessFacts icon" width="36"> [ChessFacts](skills/B01LXJG04V)
+
+*Alexa, Open chess facts*
+
+Chess Facts
 
 ***
 
@@ -3691,6 +4959,14 @@ Basic chess trivia, with some current player questions.
 
 ***
 
+## &nbsp;<img src="skills/B01LZROIFI/skill_icon" alt="Chicago Bike Share Status icon" width="36"> [Chicago Bike Share Status](skills/B01LZROIFI)
+
+*Alexa, ask Chicago Bikeshare how many bikes are at the Ashland Avenue and Grand Avenue station.*
+
+Check the status of stations in the Chicago Divvy bike sharing system
+
+***
+
 ## &nbsp;<img src="skills/B01J73Z69A/skill_icon" alt="Chicago Bikes icon" width="36"> [Chicago Bikes](skills/B01J73Z69A)
 
 *Alexa, ask Chicago Bikes for station info for Peoria Street and Jackson Boulevard*
@@ -3715,6 +4991,14 @@ This skill tells an interesting fact about Chicago city.
 
 ***
 
+## &nbsp;<img src="skills/B01LBSEQ4U/skill_icon" alt="Chicago Food Truck Finder icon" width="36"> [Chicago Food Truck Finder](skills/B01LBSEQ4U)
+
+*Alexa, ask Food Truck Finder what food trucks sell tacos*
+
+Discover what food trucks are at a location on a given day.  Lookup information on a specific food truck.
+
+***
+
 ## &nbsp;<img src="skills/B01EF6VRBU/skill_icon" alt="Chicago Java icon" width="36"> [Chicago Java](skills/B01EF6VRBU)
 
 *Alexa, ask Chicago Java when is my next Meetup.*
@@ -3733,9 +5017,25 @@ Try to see how much you know about chicago sports with this trivia game.
 
 ## &nbsp;<img src="skills/B01DLD360I/skill_icon" alt="Chicago Trains icon" width="36"> [Chicago Trains](skills/B01DLD360I)
 
-*Alexa ask Chicago Trains when is the next train from Crystal Lake to Downtown*
+*Alexa ask Chicago Trains when is the next train from Big Timber to Chicago Union Station*
 
-Find out when the next Chicago Metra train is about to leave or what todays schedule is for a particular train route.
+Find out when the next Chicago Metra train is about to leave for a particular train route.
+
+***
+
+## &nbsp;<img src="skills/B01M4MUZ7K/skill_icon" alt="Chicago Trivia icon" width="36"> [Chicago Trivia](skills/B01M4MUZ7K)
+
+*Alexa, start Chicago Trivia*
+
+Test your knowledge of the city of Chicago with this trivia quiz. See how many questions you can get right!
+
+***
+
+## &nbsp;<img src="skills/B01LXJ47I1/skill_icon" alt="chicken facts icon" width="36"> [chicken facts](skills/B01LXJ47I1)
+
+*Alexa open chicken facts*
+
+Chicken Facts - Learn more about chickens, taken from http://www.onekind.org/education/animals_a_z/chicken
 
 ***
 
@@ -3752,6 +5052,14 @@ Amazing facts about chickens and eggs
 *Alexa, ask chili pepper nut a pepper fact*
 
 Chili Pepper Nut is fun trivia about chili peppers.
+
+***
+
+## &nbsp;<img src="skills/B01M7MXTNO/skill_icon" alt="Chilling Facts icon" width="36"> [Chilling Facts](skills/B01M7MXTNO)
+
+*Alexa, open Chilling Facts.*
+
+Horrifying, bone-chilling, and creepy facts.
 
 ***
 
@@ -3803,6 +5111,14 @@ Let Alexa help you choose somewhere in Europe to go on vacation!
 
 ***
 
+## &nbsp;<img src="skills/B01KPEW31O/skill_icon" alt="Choose My Food icon" width="36"> [Choose My Food](skills/B01KPEW31O)
+
+*Alexa, open choose my food*
+
+Helps you select a food to eat
+
+***
+
 ## &nbsp;<img src="skills/B01KC2YWSQ/skill_icon" alt="Christine Facts icon" width="36"> [Christine Facts](skills/B01KC2YWSQ)
 
 *Alexa, open Christine Facts*
@@ -3816,6 +5132,14 @@ Facts about Christine
 *Alexa, tell Christmas Caroler to spread holiday cheer.*
 
 Listen to Alexa and learn the lyrics to some yuletide favorites!
+
+***
+
+## &nbsp;<img src="skills/B01N03TF12/skill_icon" alt="Christmas Checker icon" width="36"> [Christmas Checker](skills/B01N03TF12)
+
+*Alexa, ask Christmas Checker is  it Christmas*
+
+Using advanced AI technology, this skill allows you determine whether the current day is Christmas.
 
 ***
 
@@ -3867,6 +5191,14 @@ This is a simple skill that will give you the best chuck norris jokes out there.
 
 ***
 
+## &nbsp;<img src="skills/B01LXA63UU/skill_icon" alt="Chuck Jokes icon" width="36"> [Chuck Jokes](skills/B01LXA63UU)
+
+*Alexa, ask Chuck Jokes to tell me a joke*
+
+Listen to some famous Chuck jokes.
+
+***
+
 ## &nbsp;<img src="skills/B01GM2XC04/skill_icon" alt="chuckFacts icon" width="36"> [chuckFacts](skills/B01GM2XC04)
 
 *Alexa, ask ChuckFacts to tell me something about Chuck Norris*
@@ -3885,9 +5217,17 @@ Produces random quotations from Winston Churchill
 
 ## &nbsp;<img src="skills/B01KGCJASY/skill_icon" alt="Cinemate icon" width="36"> [Cinemate](skills/B01KGCJASY)
 
-*Alexa, ask movie guide to tell me about Rocky 4*
+*Alexa, ask movie guide to tell me what movies Walter Matthau and Jack Lemmon are in together*
 
-This skill provides a vast amount of movie information for all movies lovers!
+This skill provides a vast amount of movie information for all movie, lovers, including common movies between two actors.
+
+***
+
+## &nbsp;<img src="skills/B01K7SE3NY/skill_icon" alt="Circuit Warz Level one icon" width="36"> [Circuit Warz Level one](skills/B01K7SE3NY)
+
+*Alexa open circuit wars level one*
+
+Circuit Warz Level One Resistor Series Parallel Circuit
 
 ***
 
@@ -3923,6 +5263,22 @@ Find the distance and time to drive between 2 U.S. cities!
 
 ***
 
+## &nbsp;<img src="skills/B01M2VON7E/skill_icon" alt="City Gripe icon" width="36"> [City Gripe](skills/B01M2VON7E)
+
+*Alexa, tell City Gripe I'm sick of my commute because it is too long.*
+
+Welcome to City Gripe where you can complain to Alexa, about your love life, commute, or the weather.
+
+***
+
+## &nbsp;<img src="skills/B01MRE4T6I/skill_icon" alt="City of Las Vegas Information icon" width="36"> [City of Las Vegas Information](skills/B01MRE4T6I)
+
+*Alexa ask My Vegas when is the next council meeting*
+
+Information about the city of Las Vegas
+
+***
+
 ## &nbsp;<img src="skills/B01EKQ2G7O/skill_icon" alt="City Trivia icon" width="36"> [City Trivia](skills/B01EKQ2G7O)
 
 *Alexa, play City Trivia*
@@ -3947,11 +5303,27 @@ Study for the United States Civics Exam with this short knowledge test.
 
 ***
 
+## &nbsp;<img src="skills/B01L9521VA/skill_icon" alt="Civics Quiz icon" width="36"> [Civics Quiz](skills/B01L9521VA)
+
+*Alexa, open civics quiz*
+
+Fun quiz to test your US civics knowledge!
+
+***
+
 ## &nbsp;<img src="skills/B01FGG0ONU/skill_icon" alt="Civil War Buff icon" width="36"> [Civil War Buff](skills/B01FGG0ONU)
 
 *Alexa, Open Civil War Buff*
 
 Learn more about the Civil War with Alexa!
+
+***
+
+## &nbsp;<img src="skills/B01MEDEL2A/skill_icon" alt="Civil War Facts icon" width="36"> [Civil War Facts](skills/B01MEDEL2A)
+
+*Alexa open civil war facts*
+
+Civil War Facts
 
 ***
 
@@ -3979,6 +5351,14 @@ A simple trivia game about classic or iconic films.
 
 ***
 
+## &nbsp;<img src="skills/B01LM4SYHI/skill_icon" alt="Classical Study Music icon" width="36"> [Classical Study Music](skills/B01LM4SYHI)
+
+*Alexa, play Classical Study Music*
+
+Set the scene with delightful focus, featuring Bach's famous Goldberg Variations!
+
+***
+
 ## &nbsp;<img src="skills/B01JKC5W24/skill_icon" alt="classroom management facts icon" width="36"> [classroom management facts](skills/B01JKC5W24)
 
 *Alexa, open Classroom Management Facts*
@@ -3987,11 +5367,11 @@ Classroom Management Facts
 
 ***
 
-## &nbsp;<img src="skills/B01K12LT9W/skill_icon" alt="Clear Mind icon" width="36"> [Clear Mind](skills/B01K12LT9W)
+## &nbsp;<img src="skills/B01LYBJSGG/skill_icon" alt="Cleaning Buddy icon" width="36"> [Cleaning Buddy](skills/B01LYBJSGG)
 
-*Alexa, open Clear Mind*
+*Alexa, start cleaning buddy*
 
-Clear Mind offers short, one minute long guided meditations that help you achieve breath awareness, relaxation, or loving kindness.
+Fully clean your home with step-by-by step cleaning tasks given to you by Alexa
 
 ***
 
@@ -4008,6 +5388,14 @@ The ClearPass Info skill allows you to interact with your ClearPass deployment t
 *Alexa, open clock facts*
 
 Clock Facts
+
+***
+
+## &nbsp;<img src="skills/B01LBR3M6E/skill_icon" alt="Clock Trivia icon" width="36"> [Clock Trivia](skills/B01LBR3M6E)
+
+*Alexa, open clock trivia*
+
+Trivia game based on clocks and facts about time
 
 ***
 
@@ -4075,9 +5463,17 @@ Cloud Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01M58QEDQ/skill_icon" alt="CloudClock icon" width="36"> [CloudClock](skills/B01M58QEDQ)
+
+*Alexa get date time from cloud clock*
+
+Speaks Cloud time
+
+***
+
 ## &nbsp;<img src="skills/B01HRMOGE4/skill_icon" alt="CloudStatus icon" width="36"> [CloudStatus](skills/B01HRMOGE4)
 
-*Alexa, ask CloudStatus about the Northern Virginia region*
+*Alexa, ask CloudStatus about all regions*
 
 CloudStatus alerts you to service disruptions in the AWS (Amazon Web Services) regions of your choice.
 
@@ -4093,11 +5489,43 @@ Cloud related trivia for newbies
 
 ***
 
+## &nbsp;<img src="skills/B01KUGK3QE/skill_icon" alt="CNBC icon" width="36"> [CNBC](skills/B01KUGK3QE)
+
+*Alexa, open CNBC*
+
+Access fast, accurate and actionable business news, financial information and market data from CNBC.
+
+***
+
+## &nbsp;<img src="skills/B01LX24O05/skill_icon" alt="CNN icon" width="36"> [CNN](skills/B01LX24O05)
+
+*Alexa, open CNN*
+
+List to the latest news and breaking news today from CNN
+
+***
+
+## &nbsp;<img src="skills/B01LWQM7BN/skill_icon" alt="Coach Harbaugh icon" width="36"> [Coach Harbaugh](skills/B01LWQM7BN)
+
+*Alexa, ask Coach Harbaugh for a quote*
+
+For all Michigan fans - Go Blue. Hear inspiring quotes from Jim Harbaugh, play "The Victors," and ask the age old question: WHO'S GOT IT BETTER THAN US!?
+
+***
+
 ## &nbsp;<img src="skills/B01FQZRYHU/skill_icon" alt="COBOL Facts icon" width="36"> [COBOL Facts](skills/B01FQZRYHU)
 
 *Alexa, open COBOL Facts*
 
 Get a quick fact regarding the COBOL computer language.
+
+***
+
+## &nbsp;<img src="skills/B01LWNXENU/skill_icon" alt="Cockatiel Facts icon" width="36"> [Cockatiel Facts](skills/B01LWNXENU)
+
+*Alexa, ask Cockatiel Facts to tell me a fact*
+
+This skill contains some known and lesser known facts about the wonderful cockatiels
 
 ***
 
@@ -4125,11 +5553,59 @@ Guess a four digit number in the fewest attempts
 
 ***
 
+## &nbsp;<img src="skills/B01M980WKF/skill_icon" alt="null" width="36"> [codecat.net](skills/B01M980WKF)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01FGY6GDE/skill_icon" alt="CodeCracker icon" width="36"> [CodeCracker](skills/B01FGY6GDE)
 
 *Alexa, ask Code Cracker for an easy code*
 
 Puzzle game based on Mastermind.
+
+***
+
+## &nbsp;<img src="skills/B01M99DSR6/skill_icon" alt="Coding Fact icon" width="36"> [Coding Fact](skills/B01M99DSR6)
+
+*Alexa, launch coding fact.*
+
+Random Coding Facts - Fun for Programmers
+
+***
+
+## &nbsp;<img src="skills/B01LZIZ5V8/skill_icon" alt="Coffee Facts icon" width="36"> [Coffee Facts](skills/B01LZIZ5V8)
+
+*Alexa, open coffee facts.*
+
+Coffee Facts is a simple skill aimed at teaching you random coffee facts.
+
+***
+
+## &nbsp;<img src="skills/B01M1IBBED/skill_icon" alt="Coffee Facts icon" width="36"> [Coffee Facts](skills/B01M1IBBED)
+
+*Alexa, start coffee facts*
+
+This skill gives random coffee facts
+
+***
+
+## &nbsp;<img src="skills/B01M4GB1Q6/skill_icon" alt="Coffee Facts icon" width="36"> [Coffee Facts](skills/B01M4GB1Q6)
+
+*Alexa, ask Coffee Facts a coffee fact*
+
+Random facts about coffee.
+
+***
+
+## &nbsp;<img src="skills/B01MAYRJQN/skill_icon" alt="Coffee Facts icon" width="36"> [Coffee Facts](skills/B01MAYRJQN)
+
+*Alexa Open Coffee Facts*
+
+A range of different interesting facts about coffee.
 
 ***
 
@@ -4146,6 +5622,22 @@ Random facts about coffee.
 *Alexa, ask coffee local what is the list of all coffee shops*
 
 Coffee Local is a guide to the 50 best coffee shops in America;
+
+***
+
+## &nbsp;<img src="skills/B01M08U2PC/skill_icon" alt="CoffeeFacts icon" width="36"> [CoffeeFacts](skills/B01M08U2PC)
+
+*Alexa, launch CoffeeFacts*
+
+Get a random fact about coffee.
+
+***
+
+## &nbsp;<img src="skills/B01L7O6TWA/skill_icon" alt="CoffeeMachine icon" width="36"> [CoffeeMachine](skills/B01L7O6TWA)
+
+*Alexa ask Coffee Machine to make me Cappuccino*
+
+Control my Coffee Machine with your voice
 
 ***
 
@@ -4173,6 +5665,22 @@ Configurable coin flipper
 
 ***
 
+## &nbsp;<img src="skills/B01LXJHP0G/skill_icon" alt="cold riddles icon" width="36"> [cold riddles](skills/B01LXJHP0G)
+
+*Alexa, open cold riddles*
+
+Cold riddles with multiple choice answers - Suitable for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01LJCKYOE/skill_icon" alt="Collablab Status icon" width="36"> [Collablab Status](skills/B01LJCKYOE)
+
+*Alexa, open CollabLab status*
+
+Check whether the CollabLab is open
+
+***
+
 ## &nbsp;<img src="skills/B01CYEOI0C/skill_icon" alt="College Basketball Tournament Trivia icon" width="36"> [College Basketball Tournament Trivia](skills/B01CYEOI0C)
 
 *Alexa, launch College Hoops*
@@ -4189,11 +5697,35 @@ Test your College Basketball knowledge with a series of trivia questions surroun
 
 ***
 
+## &nbsp;<img src="skills/B01LKNBCOI/skill_icon" alt="College Football Roster Info icon" width="36"> [College Football Roster Info](skills/B01LKNBCOI)
+
+*Alexa, ask College Football Info who wears number Two for Alabama.*
+
+Get roster info for all college football teams in the FBS.
+
+***
+
 ## &nbsp;<img src="skills/B01HN2WB90/skill_icon" alt="College Football Trivia icon" width="36"> [College Football Trivia](skills/B01HN2WB90)
 
 *Alexa, ask football trivia to kickoff*
 
 Think you know College Football? Think again! Try to score as many touchdowns as possible in College Football Trivia!
+
+***
+
+## &nbsp;<img src="skills/B01MQEZZ84/skill_icon" alt="College Helper icon" width="36"> [College Helper](skills/B01MQEZZ84)
+
+*Alexa, open College Helper*
+
+Best Colleges for majors!
+
+***
+
+## &nbsp;<img src="skills/B01LX57ZYF/skill_icon" alt="Colonial History icon" width="36"> [Colonial History](skills/B01LX57ZYF)
+
+*Alexa, ask Colonial History to Read me a Biography*
+
+Biographies of US Colonial Figures, Key Reference Documents, including Bill of Rights, Declaration of Independence.
 
 ***
 
@@ -4226,6 +5758,14 @@ Basic color mixing assistant.
 *Alexa launch color recipe*
 
 Quickly see what are the correct colors that need to be mixed to get the color you want. "Alexa launch color recipe"
+
+***
+
+## &nbsp;<img src="skills/B01LZOWGOP/skill_icon" alt="Color Wheel Facts icon" width="36"> [Color Wheel Facts](skills/B01LZOWGOP)
+
+*Alexa ask color wheel facts to tell me a color fact*
+
+Provides facts about the color wheel.
 
 ***
 
@@ -4285,6 +5825,14 @@ Comic Book Guide answers your questions about comic book characters, teams, loca
 
 ***
 
+## &nbsp;<img src="skills/B01MAUYNGQ/skill_icon" alt="Comic Book Trivia icon" width="36"> [Comic Book Trivia](skills/B01MAUYNGQ)
+
+*Alexa ask Comic Trivia to tell me something*
+
+Let me tell you a quick fact about comic books!
+
+***
+
 ## &nbsp;<img src="skills/B01K5ZXNP8/skill_icon" alt="Command Line Basics icon" width="36"> [Command Line Basics](skills/B01K5ZXNP8)
 
 *Alexa, open command line basics.*
@@ -4301,6 +5849,30 @@ This skill is a quick efficient way to retrieve minecraft block ids to help spee
 
 ***
 
+## &nbsp;<img src="skills/B01LLCVGSA/skill_icon" alt="Communication Styles icon" width="36"> [Communication Styles](skills/B01LLCVGSA)
+
+*Alexa, open Communication Styles*
+
+What type of communicator are you?
+
+***
+
+## &nbsp;<img src="skills/B01LZKQ69Q/skill_icon" alt="Comp Sci Interview Facts icon" width="36"> [Comp Sci Interview Facts](skills/B01LZKQ69Q)
+
+*Alexa, launch comp sci facts*
+
+Comp Sci Interview facts is a random pool of the most popular data structure and algorithm complexity run times.  Do you know your Comp Sci Interview Facts?
+
+***
+
+## &nbsp;<img src="skills/B01M12DT2L/skill_icon" alt="Company Facts icon" width="36"> [Company Facts](skills/B01M12DT2L)
+
+*Alexa, ask company facts to give me a random company fact*
+
+Random Company Facts
+
+***
+
 ## &nbsp;<img src="skills/B01AVKM8NU/skill_icon" alt="CompliBot icon" width="36"> [CompliBot](skills/B01AVKM8NU)
 
 *"Alexa, open CompliBot"*
@@ -4313,7 +5885,15 @@ CompliBot is your best bud.  It wants nothing more than to make your day a littl
 
 *Alexa, tell Compliment Me to compliment me.*
 
-Receive a compliment even if you don't desire one! Compliments galore!
+Receive a compliment even if you don't deserve one! Compliments galore!
+
+***
+
+## &nbsp;<img src="skills/B01N01GBY4/skill_icon" alt="Complimenting Machine icon" width="36"> [Complimenting Machine](skills/B01N01GBY4)
+
+*Alexa, ask Self Esteem Machine to love me.*
+
+Self esteem machine allows users to receive praise from Alexa.
 
 ***
 
@@ -4357,6 +5937,22 @@ A skill set that provides interesting facts about computers.
 
 ***
 
+## &nbsp;<img src="skills/B01M1E2ADJ/skill_icon" alt="Computer Facts icon" width="36"> [Computer Facts](skills/B01M1E2ADJ)
+
+*Alexa, open Computer Facts*
+
+Fun facts about computers
+
+***
+
+## &nbsp;<img src="skills/B01MQ11WVW/skill_icon" alt="Computer Facts icon" width="36"> [Computer Facts](skills/B01MQ11WVW)
+
+*Alexa ask computer facts for a fact*
+
+Asking Alexa for a fact.
+
+***
+
 ## &nbsp;<img src="skills/B01HCIVFKQ/skill_icon" alt="Computer Geek icon" width="36"> [Computer Geek](skills/B01HCIVFKQ)
 
 *Alexa, ask computer geek for a computer fact*
@@ -4389,6 +5985,14 @@ Learn some interesting computer history!
 
 ***
 
+## &nbsp;<img src="skills/B01M9AX0VU/skill_icon" alt="Computer Networking Facts icon" width="36"> [Computer Networking Facts](skills/B01M9AX0VU)
+
+*Alexa Open computer networking facts for a fact*
+
+Handy computer networking facts. What a great way to refresh your memory!
+
+***
+
 ## &nbsp;<img src="skills/B01D8NYT7K/skill_icon" alt="Computer Quiz icon" width="36"> [Computer Quiz](skills/B01D8NYT7K)
 
 *Alexa ask computer quiz*
@@ -4402,6 +6006,14 @@ Quiz on Computers. Say "Alexa, Ask Computer Quiz to start.
 *Alexa, launch computer science*
 
 Computer Science is a quiz about computers and many more
+
+***
+
+## &nbsp;<img src="skills/B01L9USYKM/skill_icon" alt="Computer Science Fact icon" width="36"> [Computer Science Fact](skills/B01L9USYKM)
+
+*Alexa, open computer science fact*
+
+Computer science facts
 
 ***
 
@@ -4437,6 +6049,14 @@ Are you are a developer looking to hone your software trivia skills to impress y
 
 ***
 
+## &nbsp;<img src="skills/B01LYKC11I/skill_icon" alt="Computers and Technology Trivia icon" width="36"> [Computers and Technology Trivia](skills/B01LYKC11I)
+
+*Alexa, ask computer trivia to start new game*
+
+Computer Trivia!
+
+***
+
 ## &nbsp;<img src="skills/B01DR4ZFPK/skill_icon" alt="Computers Storified in Viking History by Floki icon" width="36"> [Computers Storified in Viking History by Floki](skills/B01DR4ZFPK)
 
 *Alexa, ask Floki to tell me something*
@@ -4461,6 +6081,14 @@ Gives facts about Coney Island
 
 ***
 
+## &nbsp;<img src="skills/B01LKIFN98/skill_icon" alt="Conference Helper icon" width="36"> [Conference Helper](skills/B01LKIFN98)
+
+*Alexa, open Conference Helper*
+
+Tips for navigating your first conference
+
+***
+
 ## &nbsp;<img src="skills/B01DOIJKZU/skill_icon" alt="Conference Manager icon" width="36"> [Conference Manager](skills/B01DOIJKZU)
 
 *Alexa, ask conference manager to start my call*
@@ -4474,6 +6102,14 @@ A hassle-free way to call conferences. No need to remember long bridge numbers, 
 *Alexa, ask confucious says for a quote*
 
 Get a quote attributed to Confucious
+
+***
+
+## &nbsp;<img src="skills/B01M3NZDZ4/skill_icon" alt="Confucius Jokes icon" width="36"> [Confucius Jokes](skills/B01M3NZDZ4)
+
+*Alexa ask Confucius Jokes for a quote*
+
+Confucius says: Do not take this skill seriously. Ask Confucius for a mostly-clean humorous quote to bring a smile to your face.
 
 ***
 
@@ -4541,6 +6177,22 @@ Connecticut Trivia Questions
 
 ***
 
+## &nbsp;<img src="skills/B01LZ3QLHY/skill_icon" alt="Connecticut Trivia icon" width="36"> [Connecticut Trivia](skills/B01LZ3QLHY)
+
+*Alexa, open Connecticut Trivia*
+
+Connecticut fun facts trivia
+
+***
+
+## &nbsp;<img src="skills/B01M9ESE1K/skill_icon" alt="Connecticut Trivia icon" width="36"> [Connecticut Trivia](skills/B01M9ESE1K)
+
+*Alexa, Connecticut Trivia*
+
+Connecticut Trivia tests your knowledge about important facts, people, and places in Connecticut.
+
+***
+
 ## &nbsp;<img src="skills/B01L4S3H7O/skill_icon" alt="Connie's Facts about Golden State Warriors icon" width="36"> [Connie's Facts about Golden State Warriors](skills/B01L4S3H7O)
 
 *Alexa, start my warriors love*
@@ -4557,6 +6209,22 @@ A constitutional law quiz game
 
 ***
 
+## &nbsp;<img src="skills/B01J909TG2/skill_icon" alt="Control4 icon" width="36"> [Control4](skills/B01J909TG2)
+
+*There are no example interactions for this skill.*
+
+Add Alexa voice control to your Control4 Smart Home to orchestrate lighting, comfort, and smart home scenes throughout your entire home.
+
+***
+
+## &nbsp;<img src="skills/B01M04L5IG/skill_icon" alt="Converge icon" width="36"> [Converge](skills/B01M04L5IG)
+
+*Alexa, start Converge.*
+
+Converge fan? Keep up to date with the latest Converge news, and test your Converge knowledge with song and album challenges.
+
+***
+
 ## &nbsp;<img src="skills/B019WZ4572/skill_icon" alt="Conversation Starter icon" width="36"> [Conversation Starter](skills/B019WZ4572)
 
 *Alexa, open Conversation Starter*
@@ -4570,14 +6238,6 @@ Conversation Starter is a great way to get suggested conversation topics for you
 *Alexa, start a new conversation*
 
 Very simple skill with one purpose: encourage human interaction.
-
-***
-
-## &nbsp;<img src="skills/B01ETUQYIS/skill_icon" alt="ConvertCurrency icon" width="36"> [ConvertCurrency](skills/B01ETUQYIS)
-
-*Alexa, ask currency converter to convert ten united states dollar to indian rupee*
-
-Convert world currency.
 
 ***
 
@@ -4613,11 +6273,27 @@ A skill that gives you a cooking tip every time you call it.
 
 ***
 
+## &nbsp;<img src="skills/B01M08XPJN/skill_icon" alt="Cool Slang icon" width="36"> [Cool Slang](skills/B01M08XPJN)
+
+*Alexa Open Cool Slang*
+
+Be hip and cool like the young millennials with these cool phrases
+
+***
+
 ## &nbsp;<img src="skills/B01H9IKOI8/skill_icon" alt="Cool Trivia icon" width="36"> [Cool Trivia](skills/B01H9IKOI8)
 
 *Alexa ask trivia time start*
 
 Trivia Games
+
+***
+
+## &nbsp;<img src="skills/B01M1FFM8K/skill_icon" alt="Corgi Facts icon" width="36"> [Corgi Facts](skills/B01M1FFM8K)
+
+*Alexa, ask Corgi Facts to give me a corgi fact.*
+
+A skill that will recite facts about corgis.
 
 ***
 
@@ -4634,6 +6310,22 @@ This is a quiz about corgis, some of the answers may surprise you.
 *Alexa, Ask Cork Ornaments What is the deal of the day*
 
 Find out the daily deals from CorkOrnaments.com
+
+***
+
+## &nbsp;<img src="skills/B01LY8C898/skill_icon" alt="Cornhole Nuggets icon" width="36"> [Cornhole Nuggets](skills/B01LY8C898)
+
+*Alexa, ask Pistol Pete to tell me a cornhole fact.*
+
+Ask Alexa for a Cornhole nugget/fact.
+
+***
+
+## &nbsp;<img src="skills/B01MFDSZ7R/skill_icon" alt="Corporate B.S. Generator icon" width="36"> [Corporate B.S. Generator](skills/B01MFDSZ7R)
+
+*Alexa ask corporate b.s. generator to give me a quote*
+
+Create an awesome corporate catch phrase!
 
 ***
 
@@ -4671,6 +6363,22 @@ The Counseling exam skill provides review material study for the national clinic
 
 ***
 
+## &nbsp;<img src="skills/B01M7QFY88/skill_icon" alt="Count ME icon" width="36"> [Count ME](skills/B01M7QFY88)
+
+*Alexa, ask count me to start*
+
+Count ME is a helper skill to simply count anything you want.
+
+***
+
+## &nbsp;<img src="skills/B01MA6K0U4/skill_icon" alt="Counter icon" width="36"> [Counter](skills/B01MA6K0U4)
+
+*Alexa, open counter tool*
+
+Easily keep track of a number
+
+***
+
 ## &nbsp;<img src="skills/B01I96GYYW/skill_icon" alt="Counterpicks for Overwatch icon" width="36"> [Counterpicks for Overwatch](skills/B01I96GYYW)
 
 *Alexa, ask Counter Picks, what counters Tracer?*
@@ -4679,19 +6387,27 @@ Suggests counterpicks for Overwatch heroes
 
 ***
 
-## &nbsp;<img src="skills/B01GKKO9BY/skill_icon" alt="CountingGame icon" width="36"> [CountingGame](skills/B01GKKO9BY)
-
-*Alexa, ask counting game to count to 35*
-
-Count along with Alexa
-
-***
-
 ## &nbsp;<img src="skills/B01IWQ1QGU/skill_icon" alt="countries flashcards icon" width="36"> [countries flashcards](skills/B01IWQ1QGU)
 
 *Alexa, start countries flashcards*
 
 Flashcard that provides fun facts while quizzing about countries
+
+***
+
+## &nbsp;<img src="skills/B01M0Q4W8V/skill_icon" alt="country capital icon" width="36"> [country capital](skills/B01M0Q4W8V)
+
+*Alexa, open country capital*
+
+Ask Alexa facts about capitals of countries
+
+***
+
+## &nbsp;<img src="skills/B01M9B9R3I/skill_icon" alt="Country Capital Quiz icon" width="36"> [Country Capital Quiz](skills/B01M9B9R3I)
+
+*Alexa, launch Country Capital Quiz*
+
+Test your knowledge of Capitals of various countries around the world!
 
 ***
 
@@ -4719,6 +6435,14 @@ country currencies
 
 ***
 
+## &nbsp;<img src="skills/B01LVZKQPL/skill_icon" alt="Country Facts icon" width="36"> [Country Facts](skills/B01LVZKQPL)
+
+*alexa, open Country Facts*
+
+Let Alexa help you learn interesting facts about countries
+
+***
+
 ## &nbsp;<img src="skills/B01IJGEMLE/skill_icon" alt="Country Guru icon" width="36"> [Country Guru](skills/B01IJGEMLE)
 
 *Alexa, ask Country Guru to give me a fact*
@@ -4743,6 +6467,30 @@ Course Catalog for Miami Dade College provides information on  courses, descript
 
 ***
 
+## &nbsp;<img src="skills/B01M6AKIH5/skill_icon" alt="null" width="36"> [Courtney Shek](skills/B01M6AKIH5)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MD0DT61/skill_icon" alt="null" width="36"> [Courtney Shek](skills/B01MD0DT61)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MPYPYS5/skill_icon" alt="null" width="36"> [Courtney Shek](skills/B01MPYPYS5)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01JF150XG/skill_icon" alt="Coventry Fact Skill icon" width="36"> [Coventry Fact Skill](skills/B01JF150XG)
 
 *Alexa ask Coventry facts*
@@ -4759,11 +6507,29 @@ Covisint Trivia is a game that will test your knowledge about the Covisint compa
 
 ***
 
-## &nbsp;<img src="skills/B01ECXTBPK/skill_icon" alt="Cow Says Moo icon" width="36"> [Cow Says Moo](skills/B01ECXTBPK)
+## &nbsp;<img src="skills/B01LZNI5WM/skill_icon" alt="Cowboys Suck icon" width="36"> [Cowboys Suck](skills/B01LZNI5WM)
 
-*Alexa ask Cow Says Moo what does the cow say*
+*Alexa Ask Cowboys Suck why the cowboys are the worst team in the NFL*
 
-An interactive version of the old classic, Cow Says Moo.  What does the cow say?
+This is a skill designed to insult the  Cowboys. 
+
+This skill is not sponsored or endorsed by Dallas Cowboys or anyone in their organization.
+
+***
+
+## &nbsp;<img src="skills/B01N03YIKK/skill_icon" alt="CoWorking Night Facts icon" width="36"> [CoWorking Night Facts](skills/B01N03YIKK)
+
+*Alexa, ask CoWorking Night Facts to tell me an fact about CoWorking Night.*
+
+Learn interesting facts about CoWorking Night.
+
+***
+
+## &nbsp;<img src="skills/B01LNCR3RQ/skill_icon" alt="CPR icon" width="36"> [CPR](skills/B01LNCR3RQ)
+
+*Alexa, start c. p. r.*
+
+CPR in three simple steps.
 
 ***
 
@@ -4815,6 +6581,30 @@ Crater of the Moon is a trivia game based on facts about the Crater of the Moon 
 
 ***
 
+## &nbsp;<img src="skills/B01M25GQ6P/skill_icon" alt="Crazy Carrot icon" width="36"> [Crazy Carrot](skills/B01M25GQ6P)
+
+*Alexa, ask crazy carrot to motivate me*
+
+The Crazy Carrot is designed to make you a better person.
+
+***
+
+## &nbsp;<img src="skills/B01M13DIF1/skill_icon" alt="Crazy Fact icon" width="36"> [Crazy Fact](skills/B01M13DIF1)
+
+*Alexa, open Crazy Fact*
+
+Ask for a 'Crazy Fact' and Alexa will give a fact that can make you laugh or cry.
+
+***
+
+## &nbsp;<img src="skills/B01LIU4TE8/skill_icon" alt="Crazy Lawer icon" width="36"> [Crazy Lawer](skills/B01LIU4TE8)
+
+*Alexa, ask crazy lawer for a law*
+
+This  skill  gives random Crazy laws
+
+***
+
 ## &nbsp;<img src="skills/B01K6L903K/skill_icon" alt="Crazy State Laws icon" width="36"> [Crazy State Laws](skills/B01K6L903K)
 
 *Alexa, open crazy state laws*
@@ -4855,6 +6645,14 @@ Need to count up a cribbage hand?  Just tell Alexa your hand and she can add it 
 
 ***
 
+## &nbsp;<img src="skills/B01M4NUU61/skill_icon" alt="Crick Info icon" width="36"> [Crick Info](skills/B01M4NUU61)
+
+*Alexa Ask Cricket Information for the upcoming games*
+
+Ask me for upcoming cricket matches and match score
+
+***
+
 ## &nbsp;<img src="skills/B01DRWRFLO/skill_icon" alt="Cricket Fact Skill icon" width="36"> [Cricket Fact Skill](skills/B01DRWRFLO)
 
 *Alexa Open Cricket Geek*
@@ -4868,6 +6666,14 @@ Amazing Facts about cricket which you will be astonished to know and a great lea
 *Alexa, open cricket facts*
 
 Cricket is a sport that is played worldwide and this skill has some interesting facts about it.
+
+***
+
+## &nbsp;<img src="skills/B01KPZZH4I/skill_icon" alt="Cricket Facts icon" width="36"> [Cricket Facts](skills/B01KPZZH4I)
+
+*Alexa, open cricket facts*
+
+This is a Cricket Fact skill used to tell some interesting facts about Cricket sports
 
 ***
 
@@ -4919,11 +6725,35 @@ Cricket is build to test the knowledge in Cricket. It is a great fun knowing abo
 
 ***
 
+## &nbsp;<img src="skills/B01MPVO11Y/skill_icon" alt="cricketSkill icon" width="36"> [cricketSkill](skills/B01MPVO11Y)
+
+*Alexa, open score tracker*
+
+Get instant updates on ongoing games (cricket only).
+
+***
+
 ## &nbsp;<img src="skills/B01HO060J8/skill_icon" alt="Crime Tracker icon" width="36"> [Crime Tracker](skills/B01HO060J8)
 
 *Alexa, ask Crime Tracker to tell me the Theft count so far*
 
 Crime Tracker gives you information on the reported SFPD incidents in San Francisco.
+
+***
+
+## &nbsp;<img src="skills/B01LXY8KPC/skill_icon" alt="Critical Fumble icon" width="36"> [Critical Fumble](skills/B01LXY8KPC)
+
+*Alexa, ask Critical Fumble to roll me a fumble*
+
+Critical Fumble is a skill to generate Critical Fumble Effects for Tabletop RPG Games.
+
+***
+
+## &nbsp;<img src="skills/B01LXY7FME/skill_icon" alt="Critical Hit icon" width="36"> [Critical Hit](skills/B01LXY7FME)
+
+*Alexa, Critical Hit*
+
+Critical Hit is a skill to generate Critical Hit Effects for Tabletop RPG Games
 
 ***
 
@@ -4940,6 +6770,14 @@ Get the latest CRM Blog Post form the Silverline Blog
 *Alexa, ask Crocodile Finder to find the crocodiles*
 
 Afraid of crocodiles? Find out where they are!
+
+***
+
+## &nbsp;<img src="skills/B01LYXWH0Y/skill_icon" alt="Crow Facts icon" width="36"> [Crow Facts](skills/B01LYXWH0Y)
+
+*Alexa, open Crow Facts*
+
+Crow Facts provides fun and interesting facts about crows.
 
 ***
 
@@ -4967,11 +6805,27 @@ Crystal Ball is a fortune teller skill. Alexa prompts you to first focus on a ye
 
 ***
 
+## &nbsp;<img src="skills/B01LZ5SH3B/skill_icon" alt="Crystal Ball icon" width="36"> [Crystal Ball](skills/B01LZ5SH3B)
+
+*Alexa, open Crystal Ball*
+
+A fun fortune-telling skill that will randomly give you a "yes, no, or maybe" reply. Perfect for life's most important questions!
+
+***
+
 ## &nbsp;<img src="skills/B01HR2AJ8Q/skill_icon" alt="CrystalPlate icon" width="36"> [CrystalPlate](skills/B01HR2AJ8Q)
 
 *Alexa, ask Crystal Plate to write hello world to the plate in blue*
 
 Crystal Plate - A Raspberry Pi IoT Memo Manager
+
+***
+
+## &nbsp;<img src="skills/B01LC0U5CO/skill_icon" alt="csQuiz icon" width="36"> [csQuiz](skills/B01LC0U5CO)
+
+*Alexa launch computer quiz*
+
+Computer quiz generates 5 question quiz based on computer science knowledge.
 
 ***
 
@@ -4991,11 +6845,35 @@ Curious Cat increases your knowledge and appreciation of cats by telling you a r
 
 ***
 
+## &nbsp;<img src="skills/B01LMPHG62/skill_icon" alt="Curly Brace icon" width="36"> [Curly Brace](skills/B01LMPHG62)
+
+*Alexa, ask curly brace how do I get started*
+
+Curly Brace provides answers to the most frequently asked questions about getting started making skills for Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01M0ESYTA/skill_icon" alt="Currency icon" width="36"> [Currency](skills/B01M0ESYTA)
+
+*Alexa ask world currency what is the currency of United States of America*
+
+This skill answers the currency of different countries
+
+***
+
 ## &nbsp;<img src="skills/B01AWXQTMW/skill_icon" alt="Currency Converter icon" width="36"> [Currency Converter](skills/B01AWXQTMW)
 
 *Alexa, ask Currency Converter to convert twenty dollars to euros*
 
 Alexa is able to convert 10 kind of currencies from the world and tell you the current currency exchange too. Ask Alexa to convert from one currency to another.
+
+***
+
+## &nbsp;<img src="skills/B01LZJE4QO/skill_icon" alt="Currency Converter icon" width="36"> [Currency Converter](skills/B01LZJE4QO)
+
+*Alexa ask currency converter how much is one United States dollar in Japanese yen*
+
+Simple currency converter to convert US dollars to different currencies, and vice versa
 
 ***
 
@@ -5055,6 +6933,14 @@ Have Alexa tell you a dad joke
 
 ***
 
+## &nbsp;<img src="skills/B01M4MLGX2/skill_icon" alt="Dad Jokes icon" width="36"> [Dad Jokes](skills/B01M4MLGX2)
+
+*Alexa, ask dad jokes to tell me a joke.*
+
+Dad Jokes is exactly what you think it is. A collection of over 150 dad jokes so bad they're actually good.
+
+***
+
 ## &nbsp;<img src="skills/B01H9SAXSO/skill_icon" alt="Dad-Bot icon" width="36"> [Dad-Bot](skills/B01H9SAXSO)
 
 *Alexa, launch Dad Bot*
@@ -5068,6 +6954,14 @@ Are you stressed about an exam?  About to make a big decision?  Or simply need w
 *"Alexa, open Daily Affirmation."*
 
 The Walking Affirmations Daily Affirmation skill provides a daily uplifting, positive thought for you to take throughout the day.
+
+***
+
+## &nbsp;<img src="skills/B01LXE7XY3/skill_icon" alt="Daily Bible Verse icon" width="36"> [Daily Bible Verse](skills/B01LXE7XY3)
+
+*Alexa open daily bible verse*
+
+Provides the Daily Bible Verse
 
 ***
 
@@ -5119,6 +7013,22 @@ Daily Journal Prompt will provide you daily writing ideas to help you find uniqu
 
 ***
 
+## &nbsp;<img src="skills/B01LZKHYQV/skill_icon" alt="daily laugh icon" width="36"> [daily laugh](skills/B01LZKHYQV)
+
+*Alexa, open daily laugh*
+
+A Daily Laugh Alexa App.
+
+***
+
+## &nbsp;<img src="skills/B01M1RA2GN/skill_icon" alt="Daily Mail and The Mail on Sunday icon" width="36"> [Daily Mail and The Mail on Sunday](skills/B01M1RA2GN)
+
+*Alexa, ask Daily Mail for today's top stories*
+
+All the news, sport, features and columnists of the printed edition of the Daily Mail and Mail on Sunday. Plus three brilliant magazines: Weekend, YOU and Event
+
+***
+
 ## &nbsp;<img src="skills/B01IOV0C0E/skill_icon" alt="Daily Mass Readings icon" width="36"> [Daily Mass Readings](skills/B01IOV0C0E)
 
 *Alexa, ask Daily Mass Readings for today's readings*
@@ -5151,6 +7061,14 @@ Daily Quote
 
 ***
 
+## &nbsp;<img src="skills/B01L9SQ4H4/skill_icon" alt="Daily Quote icon" width="36"> [Daily Quote](skills/B01L9SQ4H4)
+
+*Alexa, ask today's quote for today's quote*
+
+Daily Quotes provides you with a daily quote to provide insight or just fun to your day. You can just ask for a quote to get a general daily quote or ask for a
+
+***
+
 ## &nbsp;<img src="skills/B01JGYZ8GG/skill_icon" alt="Daily Quotes icon" width="36"> [Daily Quotes](skills/B01JGYZ8GG)
 
 *Alexa, open Daily Quotes.*
@@ -5159,11 +7077,27 @@ Are you interested in daily quotes? Rely on Daily Quotes for notable daily quote
 
 ***
 
+## &nbsp;<img src="skills/B01LYV28AD/skill_icon" alt="Daily Quotes icon" width="36"> [Daily Quotes](skills/B01LYV28AD)
+
+*Alexa, open daily quotes*
+
+A Daily Quote App for Alexa users.
+
+***
+
 ## &nbsp;<img src="skills/B01HFIFBEO/skill_icon" alt="Daily Scripture icon" width="36"> [Daily Scripture](skills/B01HFIFBEO)
 
 *Alexa, open Daily Scripture.*
 
 A quick way to get an LDS daily scripture.  Simply say "Open Daily Scripture".
+
+***
+
+## &nbsp;<img src="skills/B01LYOV9TW/skill_icon" alt="Daily Specials icon" width="36"> [Daily Specials](skills/B01LYOV9TW)
+
+*Alexa, ask Daily Specials for Cafe Metro*
+
+Get daily specials menu for restaurants using the emenuPlus system.
 
 ***
 
@@ -5183,11 +7117,27 @@ Are you interested in daily words? Rely on Daily Words for notable daily words f
 
 ***
 
+## &nbsp;<img src="skills/B01MQFYAQO/skill_icon" alt="DailyAdvice icon" width="36"> [DailyAdvice](skills/B01MQFYAQO)
+
+*Alexa, daily advice*
+
+Get your daily piece of advice...
+
+***
+
 ## &nbsp;<img src="skills/B01H4S92MM/skill_icon" alt="DailyBread icon" width="36"> [DailyBread](skills/B01H4S92MM)
 
 *Alexa, ask Daily Bread to give me a Bible verse*
 
 A variety of uplifting Bible verses
+
+***
+
+## &nbsp;<img src="skills/B01M27YIUB/skill_icon" alt="DailyDeal icon" width="36"> [DailyDeal](skills/B01M27YIUB)
+
+*Alexa, ask Daily Deals for the deal of the day*
+
+Reads the current Daily Deals.
 
 ***
 
@@ -5199,11 +7149,43 @@ positive quotes for the technology professional
 
 ***
 
+## &nbsp;<img src="skills/B01M3POXLO/skill_icon" alt="Dali Facts icon" width="36"> [Dali Facts](skills/B01M3POXLO)
+
+*Alexa, open dali facts.*
+
+Discover interesting things about Dali
+
+***
+
 ## &nbsp;<img src="skills/B01IWX5U6A/skill_icon" alt="Damn Girl icon" width="36"> [Damn Girl](skills/B01IWX5U6A)
 
 *Alexa, open Damn Girl.*
 
 Damn, girl! You deserve a compliment. Compliments ready for you at any time.
+
+***
+
+## &nbsp;<img src="skills/B01LVYL3LZ/skill_icon" alt="Dan's Finance Game icon" width="36"> [Dan's Finance Game](skills/B01LVYL3LZ)
+
+*Alexa start Dans Finance Game*
+
+A trivia game about personal finance.
+
+***
+
+## &nbsp;<img src="skills/B01M98KREA/skill_icon" alt="Dan's recipes icon" width="36"> [Dan's recipes](skills/B01M98KREA)
+
+*Alexa, start Dan's recipes*
+
+A list of Dan's recipes
+
+***
+
+## &nbsp;<img src="skills/B01M0QHSP0/skill_icon" alt="Dan's US History Facts icon" width="36"> [Dan's US History Facts](skills/B01M0QHSP0)
+
+*Alexa, launch Dan's History Facts*
+
+Dan's US History Facts lets you ask Alexa for random facts about U.S. history.
 
 ***
 
@@ -5231,11 +7213,62 @@ Dank Joke will generate a dank joke for you at your leisure.
 
 ***
 
+## &nbsp;<img src="skills/B01LWMJ3LV/skill_icon" alt="Dare Ideas icon" width="36"> [Dare Ideas](skills/B01LWMJ3LV)
+
+*Alexa, ask Dare Ideas to give me a dare*
+
+This application will give you some very fun dare ideas to play to Truth or dare?
+
+***
+
 ## &nbsp;<img src="skills/B01GD7UQ1Q/skill_icon" alt="Dark Brotherhood Trivia for Elder Scrolls icon" width="36"> [Dark Brotherhood Trivia for Elder Scrolls](skills/B01GD7UQ1Q)
 
 *Alexa, launch dark brotherhood trivia.*
 
 Test your knowledge on the Dark Brotherhood from the Elder Scrolls games.
+
+***
+
+## &nbsp;<img src="skills/B01LZY9CSQ/skill_icon" alt="Dark Cave icon" width="36"> [Dark Cave](skills/B01LZY9CSQ)
+
+*Alexa, open Dark Cave*
+
+Explore a Dark Cave with the help of Alexa. Try to kill the monsters and escape alive with the gold. Exercise your memory by playing paperless!
+
+***
+
+## &nbsp;<img src="skills/B01M3YLF6N/skill_icon" alt="Dark Energy Facts icon" width="36"> [Dark Energy Facts](skills/B01M3YLF6N)
+
+*Alexa, ask Dark Energy Facts to get me trivia*
+
+Interested in Astrophysics and Dark Energy and Dark Matter?
+This is the skill for you!
+Enjoy! and may the force be with you!
+
+***
+
+## &nbsp;<img src="skills/B01M29IKYS/skill_icon" alt="Dark Matter Facts icon" width="36"> [Dark Matter Facts](skills/B01M29IKYS)
+
+*Alexa, ask Dark Matter Facts to give me a dark matter fact*
+
+A simple facts skill with information about the mysterious 'Dark Matter'.
+Enjoy! and may the force be with you!
+
+***
+
+## &nbsp;<img src="skills/B01M2X05DE/skill_icon" alt="null" width="36"> [Das Örtliche Service- und Marketing GmbH](skills/B01M2X05DE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M4PKRAI/skill_icon" alt="Data Structures icon" width="36"> [Data Structures](skills/B01M4PKRAI)
+
+*Alexa ask data structures whats a primitive type*
+
+Quick reference guide to computer science data structures
 
 ***
 
@@ -5263,6 +7296,14 @@ Get interesting facts about what happened in history on this day and month.
 
 ***
 
+## &nbsp;<img src="skills/B01LWR1HF9/skill_icon" alt="Date Ideas icon" width="36"> [Date Ideas](skills/B01LWR1HF9)
+
+*Alexa, ask Date Ideas for a random date*
+
+Ever have trouble deciding on a date activity? Just ask Alexa!
+
+***
+
 ## &nbsp;<img src="skills/B01H7ICBEA/skill_icon" alt="Date Night icon" width="36"> [Date Night](skills/B01H7ICBEA)
 
 *Alexa, ask Date Night to give us a brunch suggestion in Chicago*
@@ -5276,6 +7317,78 @@ An Alexa Skill for getting random, crowdsourced suggestions on activities or res
 *Alexa, ask Date Ninja what day of the week is December 25, 2016?*
 
 Performs day, week, month, and year calculations.
+
+***
+
+## &nbsp;<img src="skills/B01MFFXUC3/skill_icon" alt="Dateline Quiz icon" width="36"> [Dateline Quiz](skills/B01MFFXUC3)
+
+*Alexa Open Dateline Quiz*
+
+Guess The Year 1970 to 2015
+
+***
+
+## &nbsp;<img src="skills/B01M02I9VR/skill_icon" alt="null" width="36"> [Dave Payne](skills/B01M02I9VR)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M1ONLN7/skill_icon" alt="null" width="36"> [Dave Payne](skills/B01M1ONLN7)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M22ZHY3/skill_icon" alt="null" width="36"> [David Levente Dozsa](skills/B01M22ZHY3)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M2XRR9W/skill_icon" alt="null" width="36"> [David Levente Dozsa](skills/B01M2XRR9W)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M4HKINQ/skill_icon" alt="null" width="36"> [David Levente Dozsa](skills/B01M4HKINQ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M2X3361/skill_icon" alt="null" width="36"> [David Smith](skills/B01M2X3361)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MA3HC6I/skill_icon" alt="null" width="36"> [David Smith](skills/B01MA3HC6I)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LXFJVZ2/skill_icon" alt="Day of the year skill icon" width="36"> [Day of the year skill](skills/B01LXFJVZ2)
+
+*Alexa ask day calendar to get day of the year*
+
+Alexa will tell you current day of the year.
 
 ***
 
@@ -5311,6 +7424,22 @@ Trivia facts for DeadHeads
 
 ***
 
+## &nbsp;<img src="skills/B01MG9C5T2/skill_icon" alt="Deadlier Than Sharks icon" width="36"> [Deadlier Than Sharks](skills/B01MG9C5T2)
+
+*Alexa, ask Deadlier Than Sharks a fact*
+
+Humans kill over 10,000 sharks per hour, yet when compared to some pretty everyday things, sharks are not very dangerous to humans.
+
+***
+
+## &nbsp;<img src="skills/B01N3QN9HQ/skill_icon" alt="DeanKamenQuotes icon" width="36"> [DeanKamenQuotes](skills/B01N3QN9HQ)
+
+*Alexa Ask Dean Kamen For A Quote*
+
+Ask Dean Kamen for a quote!
+
+***
+
 ## &nbsp;<img src="skills/B01EQSP3GM/skill_icon" alt="Death Info for Westeros icon" width="36"> [Death Info for Westeros](skills/B01EQSP3GM)
 
 *Alexa, ask Westeros if Eddard Stark is dead*
@@ -5335,6 +7464,22 @@ Debby Onsite helps you remember where things were placed. You can start by telli
 
 ***
 
+## &nbsp;<img src="skills/B01LZXY31C/skill_icon" alt="Debt Discouragement icon" width="36"> [Debt Discouragement](skills/B01LZXY31C)
+
+*Alexa, ask Debt Discouragement if I should get a student loan to go to school.*
+
+Debt Discouragement gives you advice on how to approach your financial life so you can avoid debt and interest!
+
+***
+
+## &nbsp;<img src="skills/B01M686R0V/skill_icon" alt="Decide lunch icon" width="36"> [Decide lunch](skills/B01M686R0V)
+
+*Alexa, open decide lunch*
+
+Ask Alexa to help you decide what to have for lunch.
+
+***
+
 ## &nbsp;<img src="skills/B01DTWAPPA/skill_icon" alt="Deck of Cards icon" width="36"> [Deck of Cards](skills/B01DTWAPPA)
 
 *Alexa, open deck of cards.*
@@ -5348,6 +7493,14 @@ Draw a random card from a standard deck of 52 playing cards.
 *Alexa, open Deep Thoughts*
 
 Random deep thought from Jack Handey.
+
+***
+
+## &nbsp;<img src="skills/B01M0SP3QN/skill_icon" alt="Deep Thoughts icon" width="36"> [Deep Thoughts](skills/B01M0SP3QN)
+
+*Alexa, start deep thoughts*
+
+A skill that tells you something thoughtful whenever you ask.
 
 ***
 
@@ -5391,6 +7544,38 @@ Fun facts about our world's desserts and history
 
 ***
 
+## &nbsp;<img src="skills/B01M7X2WYY/skill_icon" alt="Destiny Public Events icon" width="36"> [Destiny Public Events](skills/B01M7X2WYY)
+
+*Alexa, ask destiny events for the next event*
+
+The Alexa skill for DestinyPublicEvents.com. I can provide you with the location and time of the next public event for any planet/moon in the Destiny.
+
+***
+
+## &nbsp;<img src="skills/B01M114ORM/skill_icon" alt="Detail Your Car icon" width="36"> [Detail Your Car](skills/B01M114ORM)
+
+*Alexa open detail your car*
+
+Shares steps you can take to detail your car.
+
+***
+
+## &nbsp;<img src="skills/B01M31NLJD/skill_icon" alt="null" width="36"> [Deutsche Bahn](skills/B01M31NLJD)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M0MH8JA/skill_icon" alt="null" width="36"> [Deutsche Telekom AG](skills/B01M0MH8JA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01DO6II5K/skill_icon" alt="Developer Games icon" width="36"> [Developer Games](skills/B01DO6II5K)
 
 *Alexa, start developer games*
@@ -5423,6 +7608,30 @@ Diabetes Info
 
 ***
 
+## &nbsp;<img src="skills/B01LWHYINK/skill_icon" alt="Diagnose Car Starting Problem icon" width="36"> [Diagnose Car Starting Problem](skills/B01LWHYINK)
+
+*alexa, open diagnose car*
+
+Diagnose your car's starting problem by answering yes and no questions
+
+***
+
+## &nbsp;<img src="skills/B01M6U5VPA/skill_icon" alt="Dial Up Modem icon" width="36"> [Dial Up Modem](skills/B01M6U5VPA)
+
+*Alexa, ask dial up modem to connect*
+
+A simple modem skill that simulates connecting to an internet service in the 20th century
+
+***
+
+## &nbsp;<img src="skills/B01MEFY3WU/skill_icon" alt="Dice icon" width="36"> [Dice](skills/B01MEFY3WU)
+
+*Alexa, ask six sided dice to roll a die*
+
+rolling a six-sided die
+
+***
+
 ## &nbsp;<img src="skills/B01A7GLAUU/skill_icon" alt="Dice Bag icon" width="36"> [Dice Bag](skills/B01A7GLAUU)
 
 *Alexa, tell Dice Bag to roll for me*
@@ -5439,11 +7648,43 @@ Return a random number for 1 to 6.
 
 ***
 
+## &nbsp;<img src="skills/B01LYKA12Q/skill_icon" alt="Dice Roller icon" width="36"> [Dice Roller](skills/B01LYKA12Q)
+
+*Alexa open dice roller*
+
+Dice Roller is an application to allow you to ask Alexa to roll a dice for you ! Useful if you do not have a dice and you want to play games.
+
+***
+
+## &nbsp;<img src="skills/B01M0JCL07/skill_icon" alt="Dice Roller & Coin Flipper icon" width="36"> [Dice Roller & Coin Flipper](skills/B01M0JCL07)
+
+*Alexa, ask Dice Coin to flip a coin*
+
+Flips coins and rolls dice!
+
+***
+
+## &nbsp;<img src="skills/B01M65S5SP/skill_icon" alt="Dice Tower icon" width="36"> [Dice Tower](skills/B01M65S5SP)
+
+*Alexa, open Dice Tower*
+
+A Simple Dice roller that can do number of rolls of dice type
+
+***
+
 ## &nbsp;<img src="skills/B01EUNE3W8/skill_icon" alt="DiceBot icon" width="36"> [DiceBot](skills/B01EUNE3W8)
 
 *Alexa, launch DiceBot*
 
 DiceBot is your sleazy friend on the inside. Just say the word, and the dice will be in your favor.
+
+***
+
+## &nbsp;<img src="skills/B01MD2FR3G/skill_icon" alt="Did Hadron Collider destroy the world? icon" width="36"> [Did Hadron Collider destroy the world?](skills/B01MD2FR3G)
+
+*Alexa open hadron collider*
+
+Alexa Did the Hadron Collider destroy the world yet?
 
 ***
 
@@ -5468,6 +7709,22 @@ Quiz yourself on the definitions of very difficult words
 *Alexa, open Digestive System*
 
 This trivia game tests your knowledge of the human digestive system..
+
+***
+
+## &nbsp;<img src="skills/B01M8GB9YL/skill_icon" alt="digital photography facts icon" width="36"> [digital photography facts](skills/B01M8GB9YL)
+
+*Alexa, open digital photography facts*
+
+Digital Photography terminology.
+
+***
+
+## &nbsp;<img src="skills/B01LW6U38T/skill_icon" alt="digitalSTROM icon" width="36"> [digitalSTROM](skills/B01LW6U38T)
+
+*Alexa, tell My Butler to turn on the lights in the living room.*
+
+Control your digitalSTROM smart home using Alexa. Now you can use your voice to get information, call scenes, set thermostat temperature, or turn on lights.
 
 ***
 
@@ -5496,14 +7753,6 @@ A humorous dinosaur trivia game.   Echo asks questions and you answer by choosin
 
 ***
 
-## &nbsp;<img src="skills/B01HC599MU/skill_icon" alt="Dinosaur Alphabet icon" width="36"> [Dinosaur Alphabet](skills/B01HC599MU)
-
-*Alexa, ask Dinosaur Alphabet for a dinosaur that starts with Bravo*
-
-Practice your NATO phonetic alphabet while learning fun facts about 26 different dinosaurst. Fun for kids and adults alike.
-
-***
-
 ## &nbsp;<img src="skills/B01EXVZLAU/skill_icon" alt="Dinosaur Discovery icon" width="36"> [Dinosaur Discovery](skills/B01EXVZLAU)
 
 *Alexa, open dinosaur discovery*
@@ -5525,14 +7774,6 @@ Dino Facts is your #1 source for awesome and random dinosaur information.
 *Alexa, Open Dinosaur Facts*
 
 Do you like Dinosaurs? Of course you down. Enable this skill to learn even MORE about dinosaurs!
-
-***
-
-## &nbsp;<img src="skills/B01H369AVS/skill_icon" alt="Dinosaur Quiz icon" width="36"> [Dinosaur Quiz](skills/B01H369AVS)
-
-*Alexa, ask Dinosaur Quiz to start a new game*
-
-This is a 5 question quiz about dinosaurs.  Fun for kids and adults alike.
 
 ***
 
@@ -5560,6 +7801,22 @@ Distance Between will tell you the distance between two cities that can be trave
 
 ***
 
+## &nbsp;<img src="skills/B01MFEKO3H/skill_icon" alt="Distance Calculator icon" width="36"> [Distance Calculator](skills/B01MFEKO3H)
+
+*Alexa, open Distance Calculator.*
+
+Calculates the driving distance between two locations
+
+***
+
+## &nbsp;<img src="skills/B01MCRZINS/skill_icon" alt="Distance Finder icon" width="36"> [Distance Finder](skills/B01MCRZINS)
+
+*Alexa, ask distance finder whats the distance between London and Dartford*
+
+Skill to ask distance between two places in UK
+
+***
+
 ## &nbsp;<img src="skills/B01KAIYFL6/skill_icon" alt="Distance Guesser icon" width="36"> [Distance Guesser](skills/B01KAIYFL6)
 
 *Alexa, ask distance guesser to start game*
@@ -5573,6 +7830,14 @@ This is a fun simple geography game where you try to guess how far you are from 
 *Alexa start Division Flash Cards*
 
 Division Flash Cards
+
+***
+
+## &nbsp;<img src="skills/B01M8NW10Z/skill_icon" alt="Diwali: Festival of Lights icon" width="36"> [Diwali: Festival of Lights](skills/B01M8NW10Z)
+
+*Alexa, ask diwali teller about festival of lights*
+
+Tell us about the festival of lights, Diwali.
 
 ***
 
@@ -5616,11 +7881,35 @@ Dr. Pooch provides answers to whether dogs can eat certain foods.
 
 ***
 
+## &nbsp;<img src="skills/B01KY2BPK2/skill_icon" alt="Doctor Types Flash Cards icon" width="36"> [Doctor Types Flash Cards](skills/B01KY2BPK2)
+
+*Alexa, open doctor types*
+
+Doctor Types Flash Cards quizzes user on physician specialties such as a dentist or cardiologist.
+
+***
+
 ## &nbsp;<img src="skills/B01DBVXF0Q/skill_icon" alt="DoctorBones icon" width="36"> [DoctorBones](skills/B01DBVXF0Q)
 
 *Alexa, open Doctor Bones*
 
 Doctor Bones is a medical based trivia game that will challenge you with 5 questions.  It's primary focus is towards EMS personnel.
+
+***
+
+## &nbsp;<img src="skills/B01LWP3TUU/skill_icon" alt="Dog Breed Picker icon" width="36"> [Dog Breed Picker](skills/B01LWP3TUU)
+
+*Alexa Open dog breed picker*
+
+This quiz walks you through picking a dog breed.
+
+***
+
+## &nbsp;<img src="skills/B01KILFJ4W/skill_icon" alt="dog breeds flashcards icon" width="36"> [dog breeds flashcards](skills/B01KILFJ4W)
+
+*Alexa, start dog breeds flashcards*
+
+A skill that lets you know more about dog breeds
 
 ***
 
@@ -5653,6 +7942,14 @@ Learn interesting facts and terms related to dogs with this Alexa skill.
 *Alexa, ask dog facts to give me a dog fact*
 
 Facts about dogs!
+
+***
+
+## &nbsp;<img src="skills/B01LZLD65Z/skill_icon" alt="Dog Facts icon" width="36"> [Dog Facts](skills/B01LZLD65Z)
+
+*Alexa, ask dog facts to tell me a dog fact*
+
+Learn some interesting, fun, and new facts about dogs.
 
 ***
 
@@ -5736,6 +8033,30 @@ Get trivia facts about Donald Trump.
 
 ***
 
+## &nbsp;<img src="skills/B01LZJ93HM/skill_icon" alt="Donald versus Hillary icon" width="36"> [Donald versus Hillary](skills/B01LZJ93HM)
+
+*Alexa, Ask Donald versus Hillary*
+
+Fun facts about Donald Trump and Hillary Clinton
+
+***
+
+## &nbsp;<img src="skills/B01LYFP5VJ/skill_icon" alt="DOS Facts icon" width="36"> [DOS Facts](skills/B01LYFP5VJ)
+
+*Alexa ask DOS facts to give me a DOS fact*
+
+Facts about the DOS operating system that was widely used in the 80's and early 90's.
+
+***
+
+## &nbsp;<img src="skills/B01M4LAVUM/skill_icon" alt="null" width="36"> [Dot Net Webs Limited](skills/B01M4LAVUM)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01I7H0G6U/skill_icon" alt="dotNetTrivia icon" width="36"> [dotNetTrivia](skills/B01I7H0G6U)
 
 *Alexa, start dot net trivia.*
@@ -5760,11 +8081,11 @@ Hiking Trail Finder for Dover, MA
 
 ***
 
-## &nbsp;<img src="skills/B01I8SLMI4/skill_icon" alt="Dr Dentistry icon" width="36"> [Dr Dentistry](skills/B01I8SLMI4)
+## &nbsp;<img src="skills/B01LWI9M05/skill_icon" alt="Downtown Lunch Randomizer icon" width="36"> [Downtown Lunch Randomizer](skills/B01LWI9M05)
 
-*Alexa, ask doctor dentistry to tell me a dentistry fact*
+*alexa, open downtown lunch randomizer*
 
-A skill that tells the individual interesting teeth facts.
+Can't decide where to go to lunch today? Let the lunch randomizer decide your fate!
 
 ***
 
@@ -5773,6 +8094,14 @@ A skill that tells the individual interesting teeth facts.
 *Alexa, open Doctor Speech*
 
 Dr Speech is designed to help people who speak English as a second language to improve the accuracy of their pronunciation.
+
+***
+
+## &nbsp;<img src="skills/B01M0KV58T/skill_icon" alt="Dr. Dog icon" width="36"> [Dr. Dog](skills/B01M0KV58T)
+
+*Alexa, ask doctor dog if my dog can eat apples.*
+
+find out if your dog can eat foods.
 
 ***
 
@@ -5804,11 +8133,43 @@ A skill to get Dragon Facts
 
 ***
 
+## &nbsp;<img src="skills/B01M1CRSV5/skill_icon" alt="Draw A Card icon" width="36"> [Draw A Card](skills/B01M1CRSV5)
+
+*Alexa, draw a card*
+
+Have Alexa draw a random card for you. Optionally specify a suit or ask her to draw multiple cards.
+
+***
+
+## &nbsp;<img src="skills/B01M7Z6DSM/skill_icon" alt="Dress Me icon" width="36"> [Dress Me](skills/B01M7Z6DSM)
+
+*Alexa, open Dress me*
+
+Based on weather in Seattle, WA this skill suggests what to wear for Men.
+
+***
+
+## &nbsp;<img src="skills/B01M0KSFWE/skill_icon" alt="null" width="36"> [Drew Firment](skills/B01M0KSFWE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01C9JQFFI/skill_icon" alt="DrinkBoy icon" width="36"> [DrinkBoy](skills/B01C9JQFFI)
 
 *Alexa, ask Drink Boy what is the recipe for a Sidecar*
 
 DrinkBoy provides recipes for over 200 popular cocktails.
+
+***
+
+## &nbsp;<img src="skills/B01M8KI59Q/skill_icon" alt="Drinking Questionnaire icon" width="36"> [Drinking Questionnaire](skills/B01M8KI59Q)
+
+*Alexa, open drinking questionnaire*
+
+The Quick Alcohol Check assess the risk level associated with your consumption of alcohol.
 
 ***
 
@@ -5850,6 +8211,14 @@ This skill returns the NASCAR driver name for a given number or the number for a
 *Alexa, ask driving facts to tell me a driving fact*
 
 Answer random driving facts
+
+***
+
+## &nbsp;<img src="skills/B01MG84QFZ/skill_icon" alt="Drizzle icon" width="36"> [Drizzle](skills/B01MG84QFZ)
+
+*Alexa ask Drizzle cloud will it rain after an hour*
+
+A simple Amazon Alexa Skill which calls the Dark Sky API to determine if it will rain in the next hour or not in Washington DC
 
 ***
 
@@ -5909,6 +8278,22 @@ Dubai is a city in the United Arab emirates known for its luxury, hotels, rich h
 
 ***
 
+## &nbsp;<img src="skills/B01M136IH4/skill_icon" alt="duck hunter icon" width="36"> [duck hunter](skills/B01M136IH4)
+
+*Alexa, open Duck hunter*
+
+Duck hunter shooting game player is having 5 bullet
+
+***
+
+## &nbsp;<img src="skills/B01M7TN7BH/skill_icon" alt="Duck Riddle icon" width="36"> [Duck Riddle](skills/B01M7TN7BH)
+
+*Alexa, ask Duck Riddle "What's the difference between a duck?"*
+
+Alexa knows the secret do you?
+
+***
+
 ## &nbsp;<img src="skills/B01FIHQY5E/skill_icon" alt="Ducks Football Trivia icon" width="36"> [Ducks Football Trivia](skills/B01FIHQY5E)
 
 *Alexa, open Ducks Football Trivia*
@@ -5933,11 +8318,27 @@ Ask Alexa to roll some dungeon dice for you. Supports 4-sided, 6-sided, 8-sided,
 
 ***
 
+## &nbsp;<img src="skills/B01M4NAIUX/skill_icon" alt="Durango Mexico facts icon" width="36"> [Durango Mexico facts](skills/B01M4NAIUX)
+
+*Alexa Open Durango Facts*
+
+Facts about the beautiful mexican state of Durango
+
+***
+
 ## &nbsp;<img src="skills/B01IGGVT9U/skill_icon" alt="Dweeno Quiz icon" width="36"> [Dweeno Quiz](skills/B01IGGVT9U)
 
 *Alexa, start dweeno quiz*
 
 Dweeno Quiz (pronounced Dwee-No) will test your knowledge of the Arduino open-source platform.
+
+***
+
+## &nbsp;<img src="skills/B01JH7V082/skill_icon" alt="Dwelo icon" width="36"> [Dwelo](skills/B01JH7V082)
+
+*Alexa ask Dwelo to lock my door.*
+
+Dwelo
 
 ***
 
@@ -5989,11 +8390,67 @@ Interactive audio stories you play with your voice. Earplay.
 
 ***
 
+## &nbsp;<img src="skills/B01LXHFBUD/skill_icon" alt="earth facts icon" width="36"> [earth facts](skills/B01LXHFBUD)
+
+*Alexa, open earth facts*
+
+Learn all facts about planet earth.
+
+***
+
+## &nbsp;<img src="skills/B01MSJ2BTC/skill_icon" alt="Earth Facts icon" width="36"> [Earth Facts](skills/B01MSJ2BTC)
+
+*Alexa, open earth facts*
+
+Earth Facts! Learn more about the world you live in.
+
+***
+
+## &nbsp;<img src="skills/B01M1LZNSE/skill_icon" alt="Earth Object Watcher icon" width="36"> [Earth Object Watcher](skills/B01M1LZNSE)
+
+*Alexa, ask Earth Object Watcher for the number of near earth objects.*
+
+This skill tells the number of near earth objects or close approach objects.
+
+***
+
+## &nbsp;<img src="skills/B01LZ50DYT/skill_icon" alt="Earth's Facts icon" width="36"> [Earth's Facts](skills/B01LZ50DYT)
+
+*Alexa, open earth facts*
+
+A fact skill to share earth's facts.
+
+***
+
+## &nbsp;<img src="skills/B01M04NGLA/skill_icon" alt="Earthquake Forecast icon" width="36"> [Earthquake Forecast](skills/B01M04NGLA)
+
+*Alexa, ask Earthquake Forecast about Seattle within ten days*
+
+Probability having earthquake of 6 magnitude or higher at a given place in US within a given days.
+
+***
+
 ## &nbsp;<img src="skills/B01HNM0OW6/skill_icon" alt="Earthquake Info icon" width="36"> [Earthquake Info](skills/B01HNM0OW6)
 
 *Alexa, start Earthquake Info*
 
 Earthquake Info reports the magnitude and location of several recent earthquakes near a city.
+
+***
+
+## &nbsp;<img src="skills/B01M0ZC7BM/skill_icon" alt="East Facts icon" width="36"> [East Facts](skills/B01M0ZC7BM)
+
+*Alexa Ask East Facts to tell me a fact*
+
+Learn interesting facts about East Grand Rapids, Michigan.
+
+***
+
+## &nbsp;<img src="skills/B01LWZ7XOG/skill_icon" alt="East Tides icon" width="36"> [East Tides](skills/B01LWZ7XOG)
+
+*Alexa, ask east tides*
+
+'East Tides' tells you tides for major cities and tidal stations on the West Coast of the US.
 
 ***
 
@@ -6061,6 +8518,22 @@ Flashcards for Basic Macroeconomics Review
 
 ***
 
+## &nbsp;<img src="skills/B01GXRDNSE/skill_icon" alt="Eddy Voice Remote icon" width="36"> [Eddy Voice Remote](skills/B01GXRDNSE)
+
+*Alexa, ask Voice Remote What are My Activities*
+
+Eddy is your Voice Remote companion for Amazon Echo
+
+***
+
+## &nbsp;<img src="skills/B01LXLV7VO/skill_icon" alt="null" width="36"> [EDF Energy](skills/B01LXLV7VO)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B017OB648E/skill_icon" alt="Edgar Facts icon" width="36"> [Edgar Facts](skills/B017OB648E)
 
 *Alexa, tell me an Edgar fact.*
@@ -6075,6 +8548,22 @@ Edgar Facts is for anyone who loves Edgar the dog and can't get enough of that a
 
 EDM Trivia is a fun way to test your knowledge of Electronic Dance Music. You'll enjoy learning some bizarre facts about the genre!
 Alexa, start EDM Trivia.
+
+***
+
+## &nbsp;<img src="skills/B01MDPVMJR/skill_icon" alt="Education Stats icon" width="36"> [Education Stats](skills/B01MDPVMJR)
+
+*Alexa start Education Stats*
+
+Education Stats provides real time voice business intelligence
+
+***
+
+## &nbsp;<img src="skills/B01MG5Q2CC/skill_icon" alt="Educational Technology for Teachers icon" width="36"> [Educational Technology for Teachers](skills/B01MG5Q2CC)
+
+*Alexa, open Education Tech*
+
+Receive recommendations of educational technologies or apps for use in the classroom.
 
 ***
 
@@ -6110,6 +8599,14 @@ Egg Trivia helps you learn about the most versatile food in the world.
 
 ***
 
+## &nbsp;<img src="skills/B01IVFOIAI/skill_icon" alt="eGlu icon" width="36"> [eGlu](skills/B01IVFOIAI)
+
+*There are no example interactions for this skill.*
+
+This skills allows you to control your eGlu devices with simple voice commands, e.g. "Turn on living room lights".
+
+***
+
 ## &nbsp;<img src="skills/B01HPQU3LW/skill_icon" alt="Einstein Quotes icon" width="36"> [Einstein Quotes](skills/B01HPQU3LW)
 
 *Alexa, Ask Einstein Quotes for a quote*
@@ -6123,6 +8620,38 @@ Fun and interesting quotes by Einstein about life, love, and the universe.
 *Alexa, open Einstein quotes.*
 
 Quotes by Albert Einstein
+
+***
+
+## &nbsp;<img src="skills/B01M4QKTJM/skill_icon" alt="null" width="36"> [eko_se7en](skills/B01M4QKTJM)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M4S28ET/skill_icon" alt="null" width="36"> [eko_se7en](skills/B01M4S28ET)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MXBQRD7/skill_icon" alt="Election History Facts icon" width="36"> [Election History Facts](skills/B01MXBQRD7)
+
+*Alexa, ask Election History for a fact*
+
+The 2016 Election is coming up! Get some facts about U.S. Elections!
+
+***
+
+## &nbsp;<img src="skills/B01M6XHXO8/skill_icon" alt="Election Odds icon" width="36"> [Election Odds](skills/B01M6XHXO8)
+
+*Alexa, ask election odds who is winning?*
+
+Simple skill to tell you the current Polls-plus forecast from 538 for the US Presidential Election.
 
 ***
 
@@ -6184,9 +8713,17 @@ Is something on your mind? Ask ELIZA (pronounced "ih-L-AY-z-uh") to talk to you 
 
 ## &nbsp;<img src="skills/B019J1T6AU/skill_icon" alt="ELLE Horoscopes by The Astro Twins icon" width="36"> [ELLE Horoscopes by The Astro Twins](skills/B019J1T6AU)
 
-*Alexa, ask Horoscope what is the horoscope for Gemini?*
+*Alexa, ask Horoscope what is the horoscope for Gemini.*
 
 The Astro Twins forecast every sign's horoscope for today. Find out if the moon's position presents any new opportunities!
+
+***
+
+## &nbsp;<img src="skills/B01KX8NLR2/skill_icon" alt="Elli icon" width="36"> [Elli](skills/B01KX8NLR2)
+
+*Alexa, ask My Housekeeper*
+
+Elli helps you to connect ΣCASA(SigmaCasa) services.
 
 ***
 
@@ -6195,6 +8732,14 @@ The Astro Twins forecast every sign's horoscope for today. Find out if the moon'
 *Alexa Open Ellie World*
 
 Ellie is a dog that likes to have fun and get into trouble with her old pals. Join Ellie on her adventures and her jokes. Just say "Open Ellie World."
+
+***
+
+## &nbsp;<img src="skills/B01M4IGA2S/skill_icon" alt="null" width="36"> [Elliot Davies](skills/B01M4IGA2S)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -6262,11 +8807,35 @@ Educational skill that lists the days of the week and the months of the year.
 
 ***
 
+## &nbsp;<img src="skills/B01M04B2I9/skill_icon" alt="Enlightening Banana Facts icon" width="36"> [Enlightening Banana Facts](skills/B01M04B2I9)
+
+*Alexa, ask Banana Facts for a fact.*
+
+Discover cool and interesting facts about Banana's!
+
+***
+
+## &nbsp;<img src="skills/B01KP6LIIQ/skill_icon" alt="env icon" width="36"> [env](skills/B01KP6LIIQ)
+
+*Alexa, Ask envy to heat the kitchen*
+
+The AskENV skill is designed for use by Climate Automation Systems’ customers that licensed ENV to control their HVAC and radiant mechanical systems.
+
+***
+
 ## &nbsp;<img src="skills/B01ISLFIZY/skill_icon" alt="Environmental Facts icon" width="36"> [Environmental Facts](skills/B01ISLFIZY)
 
 *Alexa, ask nature buddy for a fact*
 
 Learn about our environment with this skill.
+
+***
+
+## &nbsp;<img src="skills/B01MFE0PBB/skill_icon" alt="null" width="36"> [Eoin Bailey](skills/B01MFE0PBB)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -6334,14 +8903,6 @@ Get the results of the current Matchday of UEFA Euro 2016, The second biggest so
 
 ***
 
-## &nbsp;<img src="skills/B01G4GYZHW/skill_icon" alt="Euro Soccer icon" width="36"> [Euro Soccer](skills/B01G4GYZHW)
-
-*Alexa, ask Euro Soccer to list all the teams*
-
-Be informed about Euro Football Cup 2016! ask "who are the teams"
-
-***
-
 ## &nbsp;<img src="skills/B01ILRPOL8/skill_icon" alt="Europe Capital Cities icon" width="36"> [Europe Capital Cities](skills/B01ILRPOL8)
 
 *Alexa ask europe capital cities*
@@ -6390,19 +8951,19 @@ Are you interested in basic calendar information? Rely on Every Day for basic ca
 
 ***
 
-## &nbsp;<img src="skills/B01IZ303JQ/skill_icon" alt="Everything Trivia Game icon" width="36"> [Everything Trivia Game](skills/B01IZ303JQ)
+## &nbsp;<img src="skills/B01KOXO60M/skill_icon" alt="Exact Measure icon" width="36"> [Exact Measure](skills/B01KOXO60M)
 
-*Alexa, launch Everything Trivia*
+*Alexa, ask Exact Measure what is 67 centimeters in inches*
 
-A trivia game with a little bit of everything but the kitchen sink.  It includes lots of topics: from Science to Sesame Street. 
+Exact Measure converts distance measurements from Metric to Imperial and back again
 
 ***
 
-## &nbsp;<img src="skills/B01FB6A31I/skill_icon" alt="Examining the Scriptures Daily for 2016 icon" width="36"> [Examining the Scriptures Daily for 2016](skills/B01FB6A31I)
+## &nbsp;<img src="skills/B01FB6A31I/skill_icon" alt="Examining the Scriptures Daily icon" width="36"> [Examining the Scriptures Daily](skills/B01FB6A31I)
 
 *Alexa, open my daily text for today*
 
-Welcome to Examining the Scriptures Daily for 2016.
+Welcome to Examining the Scriptures Daily for 2016 / 2017.
 
 You can say "Alexa, open my daily text "
 
@@ -6424,6 +8985,14 @@ Listen to Alexa speak famous quotes of utter despair. And then cry along with he
 
 ***
 
+## &nbsp;<img src="skills/B01M0I4ENO/skill_icon" alt="ExistentialQuotes icon" width="36"> [ExistentialQuotes](skills/B01M0I4ENO)
+
+*Alexa, ask Existential Quotes to read a quote by Albert Camus.*
+
+Existential Quotes can read a random quote from an existentialist philosopher of your choosing.
+
+***
+
 ## &nbsp;<img src="skills/B01DC0VZZI/skill_icon" alt="Expense Tracker icon" width="36"> [Expense Tracker](skills/B01DC0VZZI)
 
 *Alexa, tell Expense Tracker that I paid 10 dollars for food.*
@@ -6440,11 +9009,35 @@ Extended Selenium Two is a skill that can help you with keyword documentation fo
 
 ***
 
+## &nbsp;<img src="skills/B01LXFUPFJ/skill_icon" alt="Extra Class Ham Cram icon" width="36"> [Extra Class Ham Cram](skills/B01LXFUPFJ)
+
+*Alexa, Start extra ham cram*
+
+A quick quiz on the Extra Class Ham License Exam
+
+***
+
 ## &nbsp;<img src="skills/B01HYMQBMC/skill_icon" alt="EyeTriviaGame icon" width="36"> [EyeTriviaGame](skills/B01HYMQBMC)
 
 *Alexa, launch Eye Trivia Game*
 
 Test your ophthalmology knowledge
+
+***
+
+## &nbsp;<img src="skills/B01L56WHZS/skill_icon" alt="Ezekiel 25:17 icon" width="36"> [Ezekiel 25:17](skills/B01L56WHZS)
+
+*Alexa ask Ezekiel twenty five seventeen for quote*
+
+Ezekiel 25:17
+
+***
+
+## &nbsp;<img src="skills/B01LW1RLWQ/skill_icon" alt="Ezlynx icon" width="36"> [Ezlynx](skills/B01LW1RLWQ)
+
+*Alexa, Open easy links*
+
+Ezlynx- Agency Pulse and Daily News
 
 ***
 
@@ -6456,11 +9049,43 @@ Fact master gives a random fascinating fact about selected science branch.
 
 ***
 
+## &nbsp;<img src="skills/B01LWWBUIX/skill_icon" alt="Fact or Fiction icon" width="36"> [Fact or Fiction](skills/B01LWWBUIX)
+
+*Alexa, open fact or fiction*
+
+Can you tell which is a fact from which is fiction?
+
+***
+
+## &nbsp;<img src="skills/B01LZS8SY4/skill_icon" alt="Fact Skil icon" width="36"> [Fact Skil](skills/B01LZS8SY4)
+
+*Alexa, open geometry fact*
+
+Trivia information regarding geometry.
+
+***
+
+## &nbsp;<img src="skills/B01LX6ERKZ/skill_icon" alt="Fact Skill icon" width="36"> [Fact Skill](skills/B01LX6ERKZ)
+
+*Alexa, open united states history facts*
+
+Get United States History Facts
+
+***
+
 ## &nbsp;<img src="skills/B01I769324/skill_icon" alt="factFinder icon" width="36"> [factFinder](skills/B01I769324)
 
 *Alexa,open fact finder*
 
 A random fact finder that gives you facts about history, space and U.S state capitals.
+
+***
+
+## &nbsp;<img src="skills/B01M69W7IN/skill_icon" alt="Factorize My Voice icon" width="36"> [Factorize My Voice](skills/B01M69W7IN)
+
+*Alexa, ask Factorize My Voice what are the factors of 43*
+
+Break small numbers down into their prime factors.
 
 ***
 
@@ -6472,11 +9097,43 @@ Rock climbing facts
 
 ***
 
+## &nbsp;<img src="skills/B01N09MGMY/skill_icon" alt="Facts icon" width="36"> [Facts](skills/B01N09MGMY)
+
+*Alexa, ask history fact to give me a fact*
+
+This tells you a random interesting history fact.
+
+***
+
+## &nbsp;<img src="skills/B01LZ9J6KH/skill_icon" alt="Facts About David icon" width="36"> [Facts About David](skills/B01LZ9J6KH)
+
+*Alexa, launch david facts*
+
+Facts About David is an Alexa skill that tells you facts about David.
+
+***
+
+## &nbsp;<img src="skills/B01LXE7GR1/skill_icon" alt="Facts about Dogs icon" width="36"> [Facts about Dogs](skills/B01LXE7GR1)
+
+*Alexa, ask dog facts to give me something about dog*
+
+This skill provides interesting facts about dogs.
+
+***
+
 ## &nbsp;<img src="skills/B01EVUKLBM/skill_icon" alt="Facts about Donald icon" width="36"> [Facts about Donald](skills/B01EVUKLBM)
 
 *Alexa play facts about donald*
 
 Donald Trivia Game
+
+***
+
+## &nbsp;<img src="skills/B01LZ7OWE4/skill_icon" alt="Facts about Iran icon" width="36"> [Facts about Iran](skills/B01LZ7OWE4)
+
+*Alexa Open Iran Facts.*
+
+Fun facts about Iran and its history, culture, and geography.
 
 ***
 
@@ -6517,6 +9174,14 @@ Describing Samoyed Dogs
 *alexa Launch tiger facts*
 
 In this skill you will learn facts about Tigers.
+
+***
+
+## &nbsp;<img src="skills/B01M007NU9/skill_icon" alt="Facts about Wrestling icon" width="36"> [Facts about Wrestling](skills/B01M007NU9)
+
+*Alexa start wrestling facts.*
+
+Delivers a random fact about Wrestling.
 
 ***
 
@@ -6568,6 +9233,14 @@ Facts about the White House in Washington, DC
 
 ***
 
+## &nbsp;<img src="skills/B01M0KSOX4/skill_icon" alt="Facts from my Sahara dual crossing in 1982 icon" width="36"> [Facts from my Sahara dual crossing in 1982](skills/B01M0KSOX4)
+
+*Alexa open sahara eightytwo facts*
+
+Facts from my Sahara dual crossing in 1982
+
+***
+
 ## &nbsp;<img src="skills/B01L5T4X70/skill_icon" alt="Facts of Greece icon" width="36"> [Facts of Greece](skills/B01L5T4X70)
 
 *Alexa, open greece facts*
@@ -6576,11 +9249,43 @@ Facts of Greece provides the user with facts about Greece.
 
 ***
 
+## &nbsp;<img src="skills/B01LZTSV05/skill_icon" alt="Facts On Beer icon" width="36"> [Facts On Beer](skills/B01LZTSV05)
+
+*Alexa, start facts on beer.*
+
+Facts on Beer
+
+***
+
+## &nbsp;<img src="skills/B01M0H829Q/skill_icon" alt="Facts On Wine icon" width="36"> [Facts On Wine](skills/B01M0H829Q)
+
+*Alexa, open facts on wine*
+
+Facts on wine
+
+***
+
 ## &nbsp;<img src="skills/B01IX0YZWM/skill_icon" alt="Facts You Should Know icon" width="36"> [Facts You Should Know](skills/B01IX0YZWM)
 
 *Alexa, open fact today*
 
 Gathering here are some fun and enlightening facts about life.
+
+***
+
+## &nbsp;<img src="skills/B01M2UKUDR/skill_icon" alt="Failed Future Predictions icon" width="36"> [Failed Future Predictions](skills/B01M2UKUDR)
+
+*Alexa, Failed Future Predictions*
+
+Tells a failed future prediction at a time
+
+***
+
+## &nbsp;<img src="skills/B01LY8WK7Q/skill_icon" alt="Failed Technology Predictions icon" width="36"> [Failed Technology Predictions](skills/B01LY8WK7Q)
+
+*Alexa, Failed Technology Predictions*
+
+Tells a failed technology prediction at a time
 
 ***
 
@@ -6597,6 +9302,22 @@ Read Bible reading plans, access your prayer lists, and look up verses with this
 *Alexa, Open Fake Fact*
 
 You clearly found this just browsing around so its not like you have something better to do...
+
+***
+
+## &nbsp;<img src="skills/B01LZLDK19/skill_icon" alt="Fake Facts icon" width="36"> [Fake Facts](skills/B01LZLDK19)
+
+*Alexa, launch fake facts*
+
+Fake facts is full of false sounding facts.
+
+***
+
+## &nbsp;<img src="skills/B01I7BGOQ2/skill_icon" alt="Family Helper icon" width="36"> [Family Helper](skills/B01I7BGOQ2)
+
+*Alexa, ask family helper to tell my son to go to bed*
+
+Communicate with members of your family.
 
 ***
 
@@ -6621,6 +9342,14 @@ Ask Alexa fun art facts
 *Alexa, open Famous Births.*
 
 Are you interested in the birthdays of famous people? Rely on Famous Births for the birthdays of hundreds of famous people for every day of the year.
+
+***
+
+## &nbsp;<img src="skills/B01LZ31Q8K/skill_icon" alt="Famous CEOs Quiz icon" width="36"> [Famous CEOs Quiz](skills/B01LZ31Q8K)
+
+*Alexa, open famous chiefs quiz*
+
+A quiz to test your knowledge of some of the most well known CEO's in modern business history.
 
 ***
 
@@ -6664,6 +9393,38 @@ Play famous quotes trivia game with Alexa. Each question has four choices.
 
 ***
 
+## &nbsp;<img src="skills/B01LY4X3YU/skill_icon" alt="Famous Sonnet icon" width="36"> [Famous Sonnet](skills/B01LY4X3YU)
+
+*Alexa, open Famous Sonnet.*
+
+Are you interested in learning a Famous Sonnet? Rely on Famous Sonnet for all of William Shakespeare's Sonnets.
+
+***
+
+## &nbsp;<img src="skills/B01LX5TM0H/skill_icon" alt="Fan Pokedex icon" width="36"> [Fan Pokedex](skills/B01LX5TM0H)
+
+*alexa, open fan pokedex*
+
+Fan Project for Pokedex Entries
+
+***
+
+## &nbsp;<img src="skills/B01M2UX5HB/skill_icon" alt="Fan Skill for Reddit icon" width="36"> [Fan Skill for Reddit](skills/B01M2UX5HB)
+
+*Alexa, ask Reddit Fan what's hot.*
+
+Tells you about hot, top, and new posts on various subreddits.
+
+***
+
+## &nbsp;<img src="skills/B01LYCQFKY/skill_icon" alt="Fancy Words icon" width="36"> [Fancy Words](skills/B01LYCQFKY)
+
+*alexa, open fancy words*
+
+Gives a random definition of an uncommon word.
+
+***
+
 ## &nbsp;<img src="skills/B01FZGIDG6/skill_icon" alt="FansOfMASH icon" width="36"> [FansOfMASH](skills/B01FZGIDG6)
 
 *Alexa open fans of mash*
@@ -6674,9 +9435,9 @@ Are you a fan of the TV hit series MASH? Well I am too so add this skill to your
 
 ## &nbsp;<img src="skills/B017OBGRKY/skill_icon" alt="Fantasy Football icon" width="36"> [Fantasy Football](skills/B017OBGRKY)
 
-*Alexa, ask Fantasy Football Nerd for headlines.*
+*Alexa, ask Fantasy Football Nerd for the latest news.*
 
-Retrieve fantasy football news and player updates on the Top 300 players directly from Fantasy Football Nerd.
+Retrieve fantasy football news, player updates, sit/start advice, and trade analysis directly from Fantasy Football Nerd.
 
 ***
 
@@ -6688,11 +9449,27 @@ Control your Fantasy Scoreboard
 
 ***
 
+## &nbsp;<img src="skills/B01L2VFZ5U/skill_icon" alt="FantasyMetrix icon" width="36"> [FantasyMetrix](skills/B01L2VFZ5U)
+
+*Alexa, open FantasyMetrix*
+
+Fantasy Football metrics for those who have the sickness
+
+***
+
 ## &nbsp;<img src="skills/B01JLE96MS/skill_icon" alt="FAQer icon" width="36"> [FAQer](skills/B01JLE96MS)
 
 *Alexa, ask zany facts what was last month's churn ?*
 
 A skill that allows answering of common FAQ from a Google Spreadsheet
+
+***
+
+## &nbsp;<img src="skills/B01M35IOJW/skill_icon" alt="Fare(well) icon" width="36"> [Fare(well)](skills/B01M35IOJW)
+
+*Alexa, ask farewell meter for a price estimate*
+
+Get a fare estimate for you Uber ride. Be smart about getting where you're going!
 
 ***
 
@@ -6737,6 +9514,22 @@ Request a verse, passage, or chapter. You can also ask for the verse of the day,
 
 ***
 
+## &nbsp;<img src="skills/B01M62FKFB/skill_icon" alt="Fast Facts icon" width="36"> [Fast Facts](skills/B01M62FKFB)
+
+*Alexa, open Fast Facts.*
+
+With this skill Alexa will be able to tell you an interesting fact related to 'speed'.
+
+***
+
+## &nbsp;<img src="skills/B01LY4LJBA/skill_icon" alt="Fast Food Trivia icon" width="36"> [Fast Food Trivia](skills/B01LY4LJBA)
+
+*Alexa, open fast food trivia*
+
+Test your knowledge of all things fast food!
+
+***
+
 ## &nbsp;<img src="skills/B01IQPDMSM/skill_icon" alt="Fast Watch (StopWatch) icon" width="36"> [Fast Watch (StopWatch)](skills/B01IQPDMSM)
 
 *Alexa, open Fast Watch*
@@ -6750,6 +9543,22 @@ Fast Watch is a stopwatch that allows you to time your activities: workouts, wor
 *Alexa, open federal holiday.*
 
 US Federal Holiday List
+
+***
+
+## &nbsp;<img src="skills/B01MXD55EI/skill_icon" alt="null" width="36"> [feedme](skills/B01MXD55EI)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LI4G2YE/skill_icon" alt="Feet2Meters icon" width="36"> [Feet2Meters](skills/B01LI4G2YE)
+
+*Alexa, ask convert quick to convert three meters to feet*
+
+A quick and easy conversion tool between feet and meters.
 
 ***
 
@@ -6769,6 +9578,14 @@ Some facts about the noble sport of Fencing that might pique your interest.
 
 ***
 
+## &nbsp;<img src="skills/B01LH7SZME/skill_icon" alt="fencing master icon" width="36"> [fencing master](skills/B01LH7SZME)
+
+*Alexa, open fencing master*
+
+Simple How-to for certain fencing moves, including some definitions for technical terms.
+
+***
+
 ## &nbsp;<img src="skills/B01L7KWOUU/skill_icon" alt="Ferret Facts icon" width="36"> [Ferret Facts](skills/B01L7KWOUU)
 
 *Alexa, ask ferret facts for a fact*
@@ -6785,11 +9602,11 @@ This is a trivia game about ferrets.
 
 ***
 
-## &nbsp;<img src="skills/B01J0EGBXG/skill_icon" alt="Fibonacci Sequence icon" width="36"> [Fibonacci Sequence](skills/B01J0EGBXG)
+## &nbsp;<img src="skills/B01MG5NU10/skill_icon" alt="Festival icon" width="36"> [Festival](skills/B01MG5NU10)
 
-*Alexa, ask fibonacci fun*
+*Alexa, launch Indian festival*
 
-Fibonacci fun is a simple fun game for kids. Kids can learn fibonacci sequence and also simple addition subtraction of 1, 2 and 3 digit numbers.
+This skill provides you the facts about the festivals
 
 ***
 
@@ -6817,11 +9634,67 @@ List US stocks that hit fifty two week low in the current trading session.
 
 ***
 
+## &nbsp;<img src="skills/B01MA3A7VL/skill_icon" alt="Film Facts One icon" width="36"> [Film Facts One](skills/B01MA3A7VL)
+
+*Alexa, Open, Film Facts One*
+
+Film facts about Robert De Niro and some of the films he has been in
+
+***
+
+## &nbsp;<img src="skills/B01M99D1O5/skill_icon" alt="Film Trivia icon" width="36"> [Film Trivia](skills/B01M99D1O5)
+
+*Alexa ask Film Trivia to tell me something*
+
+Let me tell you a quick fact about films!
+
+***
+
+## &nbsp;<img src="skills/B01M97U05E/skill_icon" alt="Filmmaking Trivia icon" width="36"> [Filmmaking Trivia](skills/B01M97U05E)
+
+*Alexa, open Filmmaking Trivia.*
+
+A challenging trivia game about filmmaking.
+
+***
+
+## &nbsp;<img src="skills/B01LZHS9FH/skill_icon" alt="find a movie icon" width="36"> [find a movie](skills/B01LZHS9FH)
+
+*alexa, open find a movie*
+
+A skill for when you don't know what movie to watch.
+
+***
+
+## &nbsp;<img src="skills/B01LYGGZKY/skill_icon" alt="Find My Board Game icon" width="36"> [Find My Board Game](skills/B01LYGGZKY)
+
+*Alexa, open find my board game*
+
+Alexa helps you find out which board game you like the most.
+
+***
+
 ## &nbsp;<img src="skills/B01ICHIDLK/skill_icon" alt="Find My Phone icon" width="36"> [Find My Phone](skills/B01ICHIDLK)
 
 *Alexa, ask TrackR to find my phone.*
 
 Use TrackR to find your phone, even on when its on silent mode.
+
+***
+
+## &nbsp;<img src="skills/B01MEGU7HO/skill_icon" alt="Find President by Year icon" width="36"> [Find President by Year](skills/B01MEGU7HO)
+
+*Alexa Open Find Prez*
+
+This skill lets you ask for the President of the USA based on year.
+
+***
+
+## &nbsp;<img src="skills/B01LDGDBYG/skill_icon" alt="Find Where to Eat icon" width="36"> [Find Where to Eat](skills/B01LDGDBYG)
+
+*Alexa, ask food finder*
+
+Find a restaurant for dinner in North Beach, San Francisco.
 
 ***
 
@@ -6841,6 +9714,14 @@ Get your BBQ or Kitchen Temperatures from FireBoard!
 
 ***
 
+## &nbsp;<img src="skills/B01M29QI8H/skill_icon" alt="First aid icon" width="36"> [First aid](skills/B01M29QI8H)
+
+*Alexa start learn first aid.*
+
+Alexa is going to save lives and help you to know what to do in the badest situations.
+
+***
+
 ## &nbsp;<img src="skills/B01H649A7Q/skill_icon" alt="First Alert icon" width="36"> [First Alert](skills/B01H649A7Q)
 
 *There are no example interactions for this skill.*
@@ -6849,11 +9730,11 @@ Monitor and control your First Alert Onelink thermostat. Alexa, set my living ro
 
 ***
 
-## &nbsp;<img src="skills/B01JFI7CRG/skill_icon" alt="First Grade Game icon" width="36"> [First Grade Game](skills/B01JFI7CRG)
+## &nbsp;<img src="skills/B01MAUXTP8/skill_icon" alt="First World Problems icon" width="36"> [First World Problems](skills/B01MAUXTP8)
 
-*Alexa, Ask first grade for addition.*
+*Alexa open First World Problems*
 
-1st Grade spelling, addition, subtraction skill game help kids specially 1st grader practice with the fun of playing a game with Alexa.
+Get Alexa to tell you about a first world problem!
 
 ***
 
@@ -6870,6 +9751,14 @@ First Aid Egghead is an Alexa Skill designed to be your in-house First Responder
 *Alexa, ask first build how do I build a motherboard*
 
 firstBuild is a beginner's guide to putting a desktop together.
+
+***
+
+## &nbsp;<img src="skills/B01LMN5RGU/skill_icon" alt="Fish Geek icon" width="36"> [Fish Geek](skills/B01LMN5RGU)
+
+*Alexa ask Fish Geek to tell me a fact*
+
+Learn random facts about our friends of the sea!
 
 ***
 
@@ -6894,6 +9783,14 @@ Learn various facts about fish
 *Alexa, open fish facts*
 
 Fish Facts
+
+***
+
+## &nbsp;<img src="skills/B01M0WRFM3/skill_icon" alt="Fishkeeping Facts icon" width="36"> [Fishkeeping Facts](skills/B01M0WRFM3)
+
+*Alexa open Fishkeeping Facts*
+
+Did you know that you should not put fish directly in a new tank? With this app you will know this, and more!
 
 ***
 
@@ -6929,6 +9826,14 @@ This skill provides you some interesting fitness facts. Ask Alexa to "tell a new
 
 ***
 
+## &nbsp;<img src="skills/B01N00SQV4/skill_icon" alt="Fitness Facts icon" width="36"> [Fitness Facts](skills/B01N00SQV4)
+
+*Alexa ask Fitness Facts to tell me a fact*
+
+Fitness Facts
+
+***
+
 ## &nbsp;<img src="skills/B01KJPISEK/skill_icon" alt="Fitness Motivation Quote icon" width="36"> [Fitness Motivation Quote](skills/B01KJPISEK)
 
 *Alexa, Ask fit coach to motivate me*
@@ -6953,27 +9858,27 @@ Five Card Draw
 
 ***
 
+## &nbsp;<img src="skills/B01LWQ20D1/skill_icon" alt="Flagstaff Trivia icon" width="36"> [Flagstaff Trivia](skills/B01LWQ20D1)
+
+*Alexa, launch Flagstaff trivia*
+
+Flagstaff Trivia
+
+***
+
+## &nbsp;<img src="skills/B01J6Q48W4/skill_icon" alt="Flame Boss icon" width="36"> [Flame Boss](skills/B01J6Q48W4)
+
+*Alexa, tell Flame Boss my device ID is 411*
+
+Monitor and control your smoker with Flame Boss
+
+***
+
 ## &nbsp;<img src="skills/B01HLOPNBI/skill_icon" alt="Flash Card Quiz for Citrix Ports icon" width="36"> [Flash Card Quiz for Citrix Ports](skills/B01HLOPNBI)
 
 *Alexa, start flash port quiz*
 
 Flashcards for ports used by Citrix products
-
-***
-
-## &nbsp;<img src="skills/B01I7CBFM4/skill_icon" alt="Flash Cards icon" width="36"> [Flash Cards](skills/B01I7CBFM4)
-
-*Alexa, ask Flash Cards to start a game.*
-
-Addition flash cards
-
-***
-
-## &nbsp;<img src="skills/B01HLQ9O02/skill_icon" alt="FlashCardTemplateAndrew icon" width="36"> [FlashCardTemplateAndrew](skills/B01HLQ9O02)
-
-*Alexa, open Subtraction Addition Flashcards*
-
-Learn simple addition and subtraction
 
 ***
 
@@ -6998,6 +9903,14 @@ Offers some insight into the shape of the world by giving you a random flat eart
 *Alexa, open Flavor Text*
 
 Get to know your favorite Hearthstone cards better by having their flavor text read to you.
+
+***
+
+## &nbsp;<img src="skills/B01M3T2IUY/skill_icon" alt="Flavor Text Reader for Karazhan icon" width="36"> [Flavor Text Reader for Karazhan](skills/B01M3T2IUY)
+
+*Alexa, ask Flavor Text Reader to read me something*
+
+Have the flavor text of a random card read to you
 
 ***
 
@@ -7049,6 +9962,14 @@ Flip Multiple Coins
 
 ***
 
+## &nbsp;<img src="skills/B01L5ZE8N8/skill_icon" alt="Flora Facts icon" width="36"> [Flora Facts](skills/B01L5ZE8N8)
+
+*Alexa, start flora facts*
+
+Fun Flora Facts
+
+***
+
 ## &nbsp;<img src="skills/B01HIYSW0U/skill_icon" alt="Florida Facts icon" width="36"> [Florida Facts](skills/B01HIYSW0U)
 
 *Alexa, open florida facts*
@@ -7078,6 +9999,14 @@ Flower Facts
 *Alexa, ask Fluffy Radio to request Uptown Funk*
 
 The Fluffy Radio skill allows you to request songs to play on FluffyRadio.com
+
+***
+
+## &nbsp;<img src="skills/B01M2AR9RK/skill_icon" alt="Flyers Fan icon" width="36"> [Flyers Fan](skills/B01M2AR9RK)
+
+*Alexa ask flyers fan what's up*
+
+Get the score of the last Flyers game with Philly flare.
 
 ***
 
@@ -7121,6 +10050,14 @@ Food bot gives you the nutrient value of many common food items. Information is 
 
 ***
 
+## &nbsp;<img src="skills/B01LWEHITJ/skill_icon" alt="Food Combinator icon" width="36"> [Food Combinator](skills/B01LWEHITJ)
+
+*Alexa, ask food combinator what pairs well with chicken*
+
+Just provide an ingredient and Food Combinator will suggest the best products to mix it with
+
+***
+
 ## &nbsp;<img src="skills/B01JVY3XGS/skill_icon" alt="Food Facts icon" width="36"> [Food Facts](skills/B01JVY3XGS)
 
 *Alexa, ask food buddy a fact*
@@ -7134,6 +10071,14 @@ This is a great skill to learn some interesting and fun facts about Food.
 *Alexa, start food facts*
 
 Food Facts tells you random food-related trivia
+
+***
+
+## &nbsp;<img src="skills/B01KBEU4CS/skill_icon" alt="food finder icon" width="36"> [food finder](skills/B01KBEU4CS)
+
+*Alexa, open food finder*
+
+Food finder makes it easy to find great place to eat. It’s like having a concierge in your home.
 
 ***
 
@@ -7166,6 +10111,14 @@ A quiz with questions about anything related to food.
 *Alexa, ask Food Holiday for the food holiday today.*
 
 Retrieve today's Food Holiday
+
+***
+
+## &nbsp;<img src="skills/B01HOQV7AY/skill_icon" alt="Food Network icon" width="36"> [Food Network](skills/B01HOQV7AY)
+
+*Alexa, ask Food Network for the recipes on TV right now.*
+
+Your living room meets your kitchen! Get recipes you saw on TV from your favorite Food Network shows and chefs, or find what to watch in our schedule guide.
 
 ***
 
@@ -7209,6 +10162,14 @@ Get the scoop on what crimes NFL players have been charged with and arrested for
 
 ***
 
+## &nbsp;<img src="skills/B01LY0YTEB/skill_icon" alt="Football Facts icon" width="36"> [Football Facts](skills/B01LY0YTEB)
+
+*Alexa open football facts*
+
+Football facts
+
+***
+
 ## &nbsp;<img src="skills/B01HLE3WSY/skill_icon" alt="Football Fun Fact icon" width="36"> [Football Fun Fact](skills/B01HLE3WSY)
 
 *Alexa, open football fun fact*
@@ -7222,6 +10183,14 @@ This is an app that tells you a football fun fact
 *Alexa, Launch Football Fun Facts*
 
 Fun facts and trivia of football
+
+***
+
+## &nbsp;<img src="skills/B01M3O8YHP/skill_icon" alt="Football Schedule icon" width="36"> [Football Schedule](skills/B01M3O8YHP)
+
+*Alexa, ask Football Schedule for Denver Broncos*
+
+Football Schedule
 
 ***
 
@@ -7305,6 +10274,14 @@ There are many forms of poetry. Do you think you know them all? Play forms of po
 
 ***
 
+## &nbsp;<img src="skills/B01M1A4DZT/skill_icon" alt="Formula One Race Information - Unofficial icon" width="36"> [Formula One Race Information - Unofficial](skills/B01M1A4DZT)
+
+*Alexa, ask Pole Position who won the last race*
+
+Provides information about Formula One races from unofficial sources
+
+***
+
 ## &nbsp;<img src="skills/B01A1HZKM4/skill_icon" alt="Fortune icon" width="36"> [Fortune](skills/B01A1HZKM4)
 
 *Alexa, open Fortune.*
@@ -7369,6 +10346,14 @@ A skill that will give you your fortune when you ask for it!
 
 ***
 
+## &nbsp;<img src="skills/B01LZFUJME/skill_icon" alt="Fortune Teller icon" width="36"> [Fortune Teller](skills/B01LZFUJME)
+
+*Alexa, open fortune teller*
+
+This app can tell your future.
+
+***
+
 ## &nbsp;<img src="skills/B01H0EHZB0/skill_icon" alt="Founders Forum London icon" width="36"> [Founders Forum London](skills/B01H0EHZB0)
 
 *Alexa, ask Founders Forum who can i find to tell me about Artificial Intelligence*
@@ -7382,6 +10367,14 @@ Founders Forum London assists attendees at the Founders Forum event in London.
 *Alexa, ask Founding Fathers for a quote*
 
 Get quotes from our Founding Fathers, the political philosophers who inspired them, and their modern successors.
+
+***
+
+## &nbsp;<img src="skills/B01M3RU888/skill_icon" alt="Fourth of July Checker icon" width="36"> [Fourth of July Checker](skills/B01M3RU888)
+
+*Alexa, ask Fourth of July Checker is it the Fourth of July*
+
+Is it the Fourth of July? Is it not the Fourth of July? Enable this skill to find out!
 
 ***
 
@@ -7403,6 +10396,22 @@ Welcome to the Fraction Calculator.  The calculator will add, subtract,  multipl
 
 ***
 
+## &nbsp;<img src="skills/B01M03SCR3/skill_icon" alt="France Facts icon" width="36"> [France Facts](skills/B01M03SCR3)
+
+*Alexa, open France Facts*
+
+Some fun facts about France.
+
+***
+
+## &nbsp;<img src="skills/B01LWHX1XW/skill_icon" alt="Free Champs icon" width="36"> [Free Champs](skills/B01LWHX1XW)
+
+*Alexa, Ask Free Champs to tell me this weeks free champions?*
+
+Get a list of the current free champions on League of Legends
+
+***
+
 ## &nbsp;<img src="skills/B017OBE2NI/skill_icon" alt="FreeBusy Scheduling Buddy icon" width="36"> [FreeBusy Scheduling Buddy](skills/B017OBE2NI)
 
 *Alexa, ask FreeBusy to see if Paula is free Tuesday*
@@ -7416,6 +10425,22 @@ Easiest way to share availability across calendars and coordinate meetings (for 
 *Alexa, ask Freedom Quotes for a quote*
 
 Get freedom-themed quotes
+
+***
+
+## &nbsp;<img src="skills/B01M15QVL9/skill_icon" alt="French Bulldog Facts icon" width="36"> [French Bulldog Facts](skills/B01M15QVL9)
+
+*Alexa, ask Sammi da Bull for a fact.*
+
+Get a French Bulldog fact.
+
+***
+
+## &nbsp;<img src="skills/B01M0T17NC/skill_icon" alt="French Fact Skill icon" width="36"> [French Fact Skill](skills/B01M0T17NC)
+
+*Alexa, open french facts*
+
+Get Facts About France
 
 ***
 
@@ -7435,6 +10460,14 @@ Evaluate your level of Frenchness with this très simple trivia quiz. How well d
 
 ***
 
+## &nbsp;<img src="skills/B01M9E7NNQ/skill_icon" alt="Fresh Digital Group icon" width="36"> [Fresh Digital Group](skills/B01M9E7NNQ)
+
+*Alexa, ask Fresh Digital who is Fresh Digital Group*
+
+This is a skill is to describe more about Fresh Digital Group
+
+***
+
 ## &nbsp;<img src="skills/B01HQW7016/skill_icon" alt="FridgeStorageTimesHelper icon" width="36"> [FridgeStorageTimesHelper](skills/B01HQW7016)
 
 *Alexa ask fridge storage times how long can I keep a steak*
@@ -7443,11 +10476,27 @@ Provides guidelines on how long food can be safely kept in refrigeration. For ex
 
 ***
 
-## &nbsp;<img src="skills/B01IU48OCI/skill_icon" alt="null" width="36"> [Frigidaire](skills/B01IU48OCI)
+## &nbsp;<img src="skills/B01DL44DZE/skill_icon" alt="Friendly Panda icon" width="36"> [Friendly Panda](skills/B01DL44DZE)
+
+*Alexa ask friendly panda*
+
+You'll always feel that you are awesome...or tell someone else they're awesome! Say something nice to someone in the room!
+
+***
+
+## &nbsp;<img src="skills/B01LYPQUCP/skill_icon" alt="Friends Fan Quiz icon" width="36"> [Friends Fan Quiz](skills/B01LYPQUCP)
+
+*Alexa ask friends fan quiz to start new game*
+
+Quiz for real Friends fan
+
+***
+
+## &nbsp;<img src="skills/B01IU48OCI/skill_icon" alt="Frigidaire icon" width="36"> [Frigidaire](skills/B01IU48OCI)
 
 *There are no example interactions for this skill.*
 
-null
+Control your Frigidaire Cool Connect Smart Air Conditioner.
 
 ***
 
@@ -7475,6 +10524,14 @@ Facts about fruit.
 
 ***
 
+## &nbsp;<img src="skills/B01N05R9WZ/skill_icon" alt="Fruit Facts icon" width="36"> [Fruit Facts](skills/B01N05R9WZ)
+
+*Alexa, open Fruit Facts*
+
+A short guide to some of the facts of fruit.
+
+***
+
 ## &nbsp;<img src="skills/B01KJ3F3UO/skill_icon" alt="Fruit Nut icon" width="36"> [Fruit Nut](skills/B01KJ3F3UO)
 
 *Alexa, ask Fruit Nut for the nutrition value of a watermelon*
@@ -7483,11 +10540,27 @@ Fruit Nut gives basic and approximate nutrition value information for typical se
 
 ***
 
+## &nbsp;<img src="skills/B01LWZWFK1/skill_icon" alt="Fruit Stand icon" width="36"> [Fruit Stand](skills/B01LWZWFK1)
+
+*Alexa, ask Fruit Stand, how do I store apples?*
+
+Helps you store fruits and vegetables
+
+***
+
 ## &nbsp;<img src="skills/B01KPELQ1M/skill_icon" alt="FruitFacts icon" width="36"> [FruitFacts](skills/B01KPELQ1M)
 
 *Alexa, open fruit facts*
 
 This is a fact skill that gets various facts about fruit
+
+***
+
+## &nbsp;<img src="skills/B01M13ZFAU/skill_icon" alt="Full Moon? icon" width="36"> [Full Moon?](skills/B01M13ZFAU)
+
+*Alexa,  ask moon guide when is the next full moon*
+
+An app that tells you when the next full moon is
 
 ***
 
@@ -7507,6 +10580,30 @@ Fun Bigfoot Facts
 
 ***
 
+## &nbsp;<img src="skills/B01LZJUZY0/skill_icon" alt="Fun Cat Facts icon" width="36"> [Fun Cat Facts](skills/B01LZJUZY0)
+
+*Alexa open fun cat facts*
+
+Fun Cat Facts gives you a random fact about cats.
+
+***
+
+## &nbsp;<img src="skills/B01MDNH7SL/skill_icon" alt="Fun Corgi Facts icon" width="36"> [Fun Corgi Facts](skills/B01MDNH7SL)
+
+*Alexa, ask fun Corgi facts to tell me a fun Corgi fact*
+
+Alexa will tell you fun facts about Corgis!
+
+***
+
+## &nbsp;<img src="skills/B01M16JJVV/skill_icon" alt="fun country facts icon" width="36"> [fun country facts](skills/B01M16JJVV)
+
+*Alexa, open fun country facts*
+
+Fun facts about countries
+
+***
+
 ## &nbsp;<img src="skills/B01KKHVRUE/skill_icon" alt="Fun Fact Factory icon" width="36"> [Fun Fact Factory](skills/B01KKHVRUE)
 
 *Alexa open Fun Fact Factory*
@@ -7520,6 +10617,22 @@ Fun Fact factory is a collection of facts that are fun and that also teach you s
 *Alexa, ask fun facts to tell me some facts*
 
 Fun Facts is an interesting and interactive way to learn fun facts about food and psychology. It will help increase your knowledge!
+
+***
+
+## &nbsp;<img src="skills/B01M1EIYQE/skill_icon" alt="Fun Facts icon" width="36"> [Fun Facts](skills/B01M1EIYQE)
+
+*Alexa, ask fun facts to tell me a fact*
+
+At request, provides an interesting fact.
+
+***
+
+## &nbsp;<img src="skills/B01KR2KZ8C/skill_icon" alt="Fun facts about India icon" width="36"> [Fun facts about India](skills/B01KR2KZ8C)
+
+*Alexa, open India's fun facts*
+
+Some cool facts about India!
 
 ***
 
@@ -7539,6 +10652,22 @@ Find out your next Fun Fair Positive Soccer game time.
 
 ***
 
+## &nbsp;<img src="skills/B01LIDXQVW/skill_icon" alt="fun fireworks icon" width="36"> [fun fireworks](skills/B01LIDXQVW)
+
+*Alexa ask fun fireworks a fact*
+
+This  skills  gives a your  interesting fun facts  about  fireworks.
+
+***
+
+## &nbsp;<img src="skills/B01M7QD2XR/skill_icon" alt="Fun Food Facts icon" width="36"> [Fun Food Facts](skills/B01M7QD2XR)
+
+*Alexa open fun food fact*
+
+Learn fun and education facts about things you eat!
+
+***
+
 ## &nbsp;<img src="skills/B01KZ4MXMI/skill_icon" alt="Fun Fungi Facts icon" width="36"> [Fun Fungi Facts](skills/B01KZ4MXMI)
 
 *Alexa, start fungi facts*
@@ -7547,11 +10676,51 @@ Fun Fungi Facts gives fun and interesting facts about the world of mushrooms.
 
 ***
 
+## &nbsp;<img src="skills/B01M144V6L/skill_icon" alt="Fun Hal icon" width="36"> [Fun Hal](skills/B01M144V6L)
+
+*Alexa, launch Fun Hal*
+
+Fun Hal is a parody of HAL 9000 from 2001 A Space Odyssey
+
+***
+
+## &nbsp;<img src="skills/B01LXBD5A5/skill_icon" alt="Fun Math Facts icon" width="36"> [Fun Math Facts](skills/B01LXBD5A5)
+
+*Alexa, launch fun math facts*
+
+Quickly learn some random facts about mathematics added with a bit of humor.
+
+***
+
+## &nbsp;<img src="skills/B01LXRDFFZ/skill_icon" alt="Fun Psychology Facts icon" width="36"> [Fun Psychology Facts](skills/B01LXRDFFZ)
+
+*Alexa, open fun psychology facts*
+
+Fun Psychology Facts
+
+***
+
 ## &nbsp;<img src="skills/B01ENXQVDE/skill_icon" alt="Fun Sports Facts icon" width="36"> [Fun Sports Facts](skills/B01ENXQVDE)
 
 *Alexa, launch sports facts.*
 
 Get your daily dose of interesting sports trivia from Alexa!
+
+***
+
+## &nbsp;<img src="skills/B01N3WEX2Z/skill_icon" alt="Fun Stuff icon" width="36"> [Fun Stuff](skills/B01N3WEX2Z)
+
+*Alexa , ask fun stuff to tell me a fact*
+
+Few Random Facts
+
+***
+
+## &nbsp;<img src="skills/B01M5LA26Z/skill_icon" alt="Fun Tech Facts icon" width="36"> [Fun Tech Facts](skills/B01M5LA26Z)
+
+*Alexa Open Tech Facts*
+
+Fun Tech Facts
 
 ***
 
@@ -7576,6 +10745,14 @@ Test your knowledge with this funny Batman based trivia game!
 *Alexa, ask funny calculator to divide ninety three by four*
 
 Who said math can't be fun? Calculate basic math, and laugh at the same time!
+
+***
+
+## &nbsp;<img src="skills/B01M63GW01/skill_icon" alt="Funny Cat Facts icon" width="36"> [Funny Cat Facts](skills/B01M63GW01)
+
+*Alexa, ask funny cat facts to give me a cat fact*
+
+Gives a random fact about cats.
 
 ***
 
@@ -7636,6 +10813,22 @@ Want a dad joke? Let FunnyDad tell you a joke! Disclaimer: not suitable for all 
 
 ***
 
+## &nbsp;<img src="skills/B01M2262MX/skill_icon" alt="FunnyMommy icon" width="36"> [FunnyMommy](skills/B01M2262MX)
+
+*Alexa, ask Funny Mommy to tell me a joke*
+
+This is a response type knock knock joke game.
+
+***
+
+## &nbsp;<img src="skills/B01MDN73MR/skill_icon" alt="Futurology News icon" width="36"> [Futurology News](skills/B01MDN73MR)
+
+*Alexa, ask Futurology News for the latest post*
+
+View the latest posts in the Futurology subreddit
+
+***
+
 ## &nbsp;<img src="skills/B01GMBUUEG/skill_icon" alt="Fuzzy Science Language icon" width="36"> [Fuzzy Science Language](skills/B01GMBUUEG)
 
 *Alexa, ask fuzzy science language to give me a phrase*
@@ -7689,6 +10882,22 @@ Game Geek is a fact skill by Ethan Falck that gives off random interesting video
 *Alexa, ask game helper for clash royale can you tell me something about a knight*
 
 ClashRoyaleHelper responds to user's query about the description to the card of Clash Royale.
+
+***
+
+## &nbsp;<img src="skills/B01N04W1TI/skill_icon" alt="Game of Galaxy icon" width="36"> [Game of Galaxy](skills/B01N04W1TI)
+
+*Alexa, open game of the galaxy*
+
+Game of Galaxy is an interactive fan-made trivia quiz game that tests your knowledge of the Star Wars universe
+
+***
+
+## &nbsp;<img src="skills/B01IXF1W5A/skill_icon" alt="Game Of Irvine icon" width="36"> [Game Of Irvine](skills/B01IXF1W5A)
+
+*"Alexa, start game of irvine"*
+
+A trivia game that tests your knowledge on the demographics of the City of Irvine, CA
 
 ***
 
@@ -7748,6 +10957,14 @@ Garden Facts is a fact providing skill that's all about garden produce facts.
 
 ***
 
+## &nbsp;<img src="skills/B01M70WWVY/skill_icon" alt="Gardening facts icon" width="36"> [Gardening facts](skills/B01M70WWVY)
+
+*alexa, open gardening facts*
+
+Hear cool gardening facts
+
+***
+
 ## &nbsp;<img src="skills/B01J01960E/skill_icon" alt="Gardening Trivia icon" width="36"> [Gardening Trivia](skills/B01J01960E)
 
 *"Alexa, Open Gardening Trivia"*
@@ -7769,14 +10986,6 @@ A list of random facts about Gary Johnson!
 *Alexa, ask Gas Price for Washington*
 
 Get's the latest price of gas by US state from AAA.
-
-***
-
-## &nbsp;<img src="skills/B01GMGQO4Q/skill_icon" alt="Gas Prices Finder icon" width="36"> [Gas Prices Finder](skills/B01GMGQO4Q)
-
-*Alexa, ask gas prices finder what are the gas prices in zip code 12345*
-
-Get gas prices by Zip Code
 
 ***
 
@@ -7836,11 +11045,27 @@ Alexa will ask you 5 trivia questions per game.  It’s a fun way to test your g
 
 ***
 
+## &nbsp;<img src="skills/B01LW7KZ29/skill_icon" alt="Geeky Calculator icon" width="36"> [Geeky Calculator](skills/B01LW7KZ29)
+
+*Alexa, start geeky calculator*
+
+Geeky Calculator can do geeky calculations for you
+
+***
+
 ## &nbsp;<img src="skills/B01K3CBPNU/skill_icon" alt="Gender Facts icon" width="36"> [Gender Facts](skills/B01K3CBPNU)
 
 *Alexa, ask Gender Facts for a fact*
 
 Gender Facts gives interesting trivia facts about men and women.
+
+***
+
+## &nbsp;<img src="skills/B01LFZ31GI/skill_icon" alt="General Class Ham Cram icon" width="36"> [General Class Ham Cram](skills/B01LFZ31GI)
+
+*Alexa, Start general ham cram*
+
+A quick quiz on the General Class Ham License Exam
 
 ***
 
@@ -7857,6 +11082,22 @@ General Knowledge Trivia Game is a trivia game for anyone!
 *Alexa, tell Genesis to start my G90 and set the temperature to 72 degrees.*
 
 The Genesis Skill allows G80 & G90 owners the ability to Remote Start, set the desired interior cabin temperature, Remote Lock/Unlock, and more using Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01JH04N74/skill_icon" alt="Geneva icon" width="36"> [Geneva](skills/B01JH04N74)
+
+*Alexa, launch Geneva.*
+
+Control your GE Appliances connected products with our voice assistant skill, Geneva!
+
+***
+
+## &nbsp;<img src="skills/B01M1RVOTU/skill_icon" alt="Geo Teacher icon" width="36"> [Geo Teacher](skills/B01M1RVOTU)
+
+*Alexa open GeoTeacher*
+
+revise or learn geography with Alexa.
 
 ***
 
@@ -7908,11 +11149,59 @@ A flash card game of the US capitals
 
 ***
 
+## &nbsp;<img src="skills/B01LZZJ2I0/skill_icon" alt="George Washington Quotes icon" width="36"> [George Washington Quotes](skills/B01LZZJ2I0)
+
+*Alexa open George Washington Quotes*
+
+This is a skill to give quotes from the 1st president of the United States.
+
+***
+
 ## &nbsp;<img src="skills/B01DLKCICI/skill_icon" alt="Georgia Trivia icon" width="36"> [Georgia Trivia](skills/B01DLKCICI)
 
 *Alexa, launch Georgia Trivia*
 
 Learn more about Georgia by playing this trivia game.
+
+***
+
+## &nbsp;<img src="skills/B01M0GINLT/skill_icon" alt="German facts icon" width="36"> [German facts](skills/B01M0GINLT)
+
+*Alexa, open german facts*
+
+A fact skill to share facts about Germany
+
+***
+
+## &nbsp;<img src="skills/B01M21SEM9/skill_icon" alt="german license plates icon" width="36"> [german license plates](skills/B01M21SEM9)
+
+*Alexa, ask german license plates what is L*
+
+knows all german license plate abbreviations and their cities.
+
+***
+
+## &nbsp;<img src="skills/B01M5EEIZZ/skill_icon" alt="Germany Trivia icon" width="36"> [Germany Trivia](skills/B01M5EEIZZ)
+
+*Alexa, open Germany trivia*
+
+Trivia about Germany
+
+***
+
+## &nbsp;<img src="skills/B01L4CUYDA/skill_icon" alt="null" width="36"> [gernotg](skills/B01L4CUYDA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MSJJDYT/skill_icon" alt="Get Fit icon" width="36"> [Get Fit](skills/B01MSJJDYT)
+
+*Alexa, start get fit and give me a workout*
+
+Get a random workout to try.
 
 ***
 
@@ -7932,6 +11221,14 @@ Ghana Facts, tells you some basic facts about Ghana
 
 ***
 
+## &nbsp;<img src="skills/B01M1BERQQ/skill_icon" alt="Ghana Trivia icon" width="36"> [Ghana Trivia](skills/B01M1BERQQ)
+
+*Alexa, launch Ghana Trivia*
+
+Ghana Trivia allows you to explore and learn about the wonderful country of Ghana via an interactive trivia game without leaving your home.
+
+***
+
 ## &nbsp;<img src="skills/B01EYBJ19Q/skill_icon" alt="Ghost Detector icon" width="36"> [Ghost Detector](skills/B01EYBJ19Q)
 
 *Alexa, launch Ghost Detector*
@@ -7948,11 +11245,35 @@ The world class Giant Spoon app allows you to ask for world class marketing idea
 
 ***
 
+## &nbsp;<img src="skills/B01KBV1SVM/skill_icon" alt="GigglesWare icon" width="36"> [GigglesWare](skills/B01KBV1SVM)
+
+*Alexa, Tell giggles John slept for two hours*
+
+Track your kid's naps,foods,activities and others using Alexa to log them and query them later
+
+***
+
 ## &nbsp;<img src="skills/B01EQIE8KY/skill_icon" alt="Gipper Games icon" width="36"> [Gipper Games](skills/B01EQIE8KY)
 
 *Alexa, launch Gipper Game*
 
 Ronald Reagan Trivia Game
+
+***
+
+## &nbsp;<img src="skills/B01LYKYYBI/skill_icon" alt="Giraffe A Day icon" width="36"> [Giraffe A Day](skills/B01LYKYYBI)
+
+*Alexa open Giraffe A Day*
+
+This skill tells you giraffe facts
+
+***
+
+## &nbsp;<img src="skills/B01M3RWGKW/skill_icon" alt="Giraffe Facts icon" width="36"> [Giraffe Facts](skills/B01M3RWGKW)
+
+*Alexa, start giraffe facts*
+
+This is a skill full of facts of one of earth's most interesting mammals, the giraffe.
 
 ***
 
@@ -7972,11 +11293,27 @@ Stanford Gismo lab demo
 
 ***
 
+## &nbsp;<img src="skills/B01LX7EGIN/skill_icon" alt="Glad Recycler icon" width="36"> [Glad Recycler](skills/B01LX7EGIN)
+
+*Alexa, talk to Glad Recycler*
+
+Glad Recycler is a simple and fun way to quickly check if an item is recyclable and what to do with it. Trash has never been so entertaining!
+
+***
+
 ## &nbsp;<img src="skills/B018YKD1T4/skill_icon" alt="GLaDOS Quotes icon" width="36"> [GLaDOS Quotes](skills/B018YKD1T4)
 
 *Alexa, ask Glados to tell me something*
 
 Alexa quotes GLaDOS from Valve's Portal.
+
+***
+
+## &nbsp;<img src="skills/B01MTLJWYD/skill_icon" alt="Glass Facts icon" width="36"> [Glass Facts](skills/B01MTLJWYD)
+
+*Alexa ask glass fact to tell me a glass fact*
+
+Speaks a fact about glass.
 
 ***
 
@@ -8012,11 +11349,35 @@ Go Blue Football Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01LX3SF9I/skill_icon" alt="Go Emily icon" width="36"> [Go Emily](skills/B01LX3SF9I)
+
+*Alexa, open Go Emily.*
+
+Are you interested in Emily Dickinson poems? Rely on Go Emily for all of Emily Dickinson's poems.
+
+***
+
 ## &nbsp;<img src="skills/B01E7S1UEA/skill_icon" alt="Go Fish! icon" width="36"> [Go Fish!](skills/B01E7S1UEA)
 
 *Alexa, ask Go Fish to tell me a fish fact*
 
 A fun and interesting fact skill for learning about fish.
+
+***
+
+## &nbsp;<img src="skills/B01LYSDH6B/skill_icon" alt="Go Phrase icon" width="36"> [Go Phrase](skills/B01LYSDH6B)
+
+*Alexa, open Go Phrase.*
+
+Are you interested in proverbial phrases? Rely on Go Phrase for hundreds of widely used and common proverbial phrases.
+
+***
+
+## &nbsp;<img src="skills/B01M67TRVS/skill_icon" alt="Goat Compliments icon" width="36"> [Goat Compliments](skills/B01M67TRVS)
+
+*Alexa ask Goat Compliments to compliment*
+
+Random compliments with screaming goats for some added excitement!
 
 ***
 
@@ -8044,6 +11405,14 @@ Golf Fact is an Alexa skill about, what else, GOLF!
 
 ***
 
+## &nbsp;<img src="skills/B01MCX9L58/skill_icon" alt="Golf Info icon" width="36"> [Golf Info](skills/B01MCX9L58)
+
+*Alexa, ask golf info to give me some golf information*
+
+Golf informations
+
+***
+
 ## &nbsp;<img src="skills/B01GEZVNKK/skill_icon" alt="Golf Shot Live icon" width="36"> [Golf Shot Live](skills/B01GEZVNKK)
 
 *Alexa, ask Golf Shot Live, Who is leading the tournament?*
@@ -8068,19 +11437,11 @@ Good Advice inspires your everyday.
 
 ***
 
-## &nbsp;<img src="skills/B01IU4I2LQ/skill_icon" alt="Good House Keeping icon" width="36"> [Good House Keeping](skills/B01IU4I2LQ)
+## &nbsp;<img src="skills/B01M0MKCZX/skill_icon" alt="Good Housekeeping icon" width="36"> [Good Housekeeping](skills/B01M0MKCZX)
 
-*Alexa open good house keeping*
+*Alexa, open Good Housekeeping.*
 
-Good Housekeeping is your destination for everything from recipes to product reviews to home decor inspiration.
-
-***
-
-## &nbsp;<img src="skills/B01EJL2DVE/skill_icon" alt="Good Luck Guru icon" width="36"> [Good Luck Guru](skills/B01EJL2DVE)
-
-*Alexa, ask Good Luck Guru*
-
-Good Luck Guru tells about daily horoscope of your choice.
+The Good Housekeeping experts will provide recommendations for how to remove the most common stains from clothing and household fabrics.
 
 ***
 
@@ -8092,11 +11453,27 @@ Ask Alexa your troubles, where have the good men gone?
 
 ***
 
+## &nbsp;<img src="skills/B01M59Q8XG/skill_icon" alt="Good Movie icon" width="36"> [Good Movie](skills/B01M59Q8XG)
+
+*Alexa, Open Good Movie*
+
+Random movie  suggestion
+
+***
+
 ## &nbsp;<img src="skills/B01HKCDKK2/skill_icon" alt="Good News Bad News icon" width="36"> [Good News Bad News](skills/B01HKCDKK2)
 
 *Alexa, ask good-news-bad-news tell me the good news*
 
 Get the day's news broken down by good or bad news
+
+***
+
+## &nbsp;<img src="skills/B01N03FUSI/skill_icon" alt="Good Night icon" width="36"> [Good Night](skills/B01N03FUSI)
+
+*Alexa Good Night*
+
+Sleeping alone tonight? Let Alexa wish you a good night.
 
 ***
 
@@ -8132,6 +11509,14 @@ Just a fun little trivia app for Spurs fans. We are not officially related in an
 
 ***
 
+## &nbsp;<img src="skills/B01LZTZ6LJ/skill_icon" alt="GOT fact icon" width="36"> [GOT fact](skills/B01LZTZ6LJ)
+
+*Alexa, open g. o. t. fact*
+
+A GOT Fact App... An unofficial Game of Thrones Fact App for Alexa users.
+
+***
+
 ## &nbsp;<img src="skills/B01FOR4068/skill_icon" alt="Grace: Table Blessings for the Family icon" width="36"> [Grace: Table Blessings for the Family](skills/B01FOR4068)
 
 *Alexa, begin table blessings*
@@ -8140,11 +11525,44 @@ Grace allows you to hear some table blessings and graces for the entire family. 
 
 ***
 
+## &nbsp;<img src="skills/B01LZ8PC24/skill_icon" alt="Grammar Quiz icon" width="36"> [Grammar Quiz](skills/B01LZ8PC24)
+
+*Alexa, open Grammar Quiz*
+
+Test your English Grammar skills
+
+***
+
+## &nbsp;<img src="skills/B01MG10ZPX/skill_icon" alt="GrandRapidsFact icon" width="36"> [GrandRapidsFact](skills/B01MG10ZPX)
+
+*Alexa Open Cello Facts*
+
+Find out facts about cellos.
+
+***
+
+## &nbsp;<img src="skills/B01HQS5954/skill_icon" alt="Grape Facts icon" width="36"> [Grape Facts](skills/B01HQS5954)
+
+*Alexa, ask grape facts to tell me a fact*
+
+Describes different types of wine and suggested pairings.
+Disclaimer: This application is not suitable for all ages. You must be at least 21 years old.
+
+***
+
 ## &nbsp;<img src="skills/B01ENR8GD8/skill_icon" alt="Gratitude Power for Runners and Walkers icon" width="36"> [Gratitude Power for Runners and Walkers](skills/B01ENR8GD8)
 
 *Alexa, ask Gratitude Power for a gratitude statement.*
 
 Get a random statement of gratitude related to running or walking from a bank of more than 900 statements, and improve your happiness and performance!
+
+***
+
+## &nbsp;<img src="skills/B01LWQM6V6/skill_icon" alt="Gravy Boat icon" width="36"> [Gravy Boat](skills/B01LWQM6V6)
+
+*Alexa ask gravy boat for our pancakes recipe*
+
+Ask Alexa to read you a selection of recipes.
 
 ***
 
@@ -8172,14 +11590,6 @@ G. C. D.  The greatest common divisor of 2 or 3 numbers
 
 ***
 
-## &nbsp;<img src="skills/B01FPR5DLS/skill_icon" alt="Greek Gods quiz icon" width="36"> [Greek Gods quiz](skills/B01FPR5DLS)
-
-*Alexa, open greek gods quiz*
-
-Test your knowledge of the Greek Gods with these 20 questions.
-
-***
-
 ## &nbsp;<img src="skills/B01IS9RBSI/skill_icon" alt="Greek Mythology Quiz icon" width="36"> [Greek Mythology Quiz](skills/B01IS9RBSI)
 
 *Alexa, play Greek Mythology Quiz*
@@ -8193,6 +11603,14 @@ Test your knowledge of the Greek Gods.
 *Alexa, ask trivia gorgon start new game*
 
 Greek Mythology Trivia
+
+***
+
+## &nbsp;<img src="skills/B01IYCDEPI/skill_icon" alt="Green Bus icon" width="36"> [Green Bus](skills/B01IYCDEPI)
+
+*Alexa, open green bus*
+
+Ask Green Bus to get you arrival times for bus or train services
 
 ***
 
@@ -8228,11 +11646,35 @@ Find a summer camp or afterschool class in Palo Alto area
 
 ***
 
+## &nbsp;<img src="skills/B01M1GDF07/skill_icon" alt="null" width="36"> [GreenTurtwig](skills/B01M1GDF07)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01DJJ286M/skill_icon" alt="Greenwich Time icon" width="36"> [Greenwich Time](skills/B01DJJ286M)
 
 *Alexa ask Greenwich Time what is GMT*
 
 Tells GMT or Greenwich Mean Time
+
+***
+
+## &nbsp;<img src="skills/B01M9FEHJD/skill_icon" alt="null" width="36"> [Gregory Roodt](skills/B01M9FEHJD)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MG2S159/skill_icon" alt="null" width="36"> [Gregory Roodt](skills/B01MG2S159)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -8260,6 +11702,22 @@ Beer growler facts and info
 
 ***
 
+## &nbsp;<img src="skills/B01LVW0A0O/skill_icon" alt="Grumpy GM icon" width="36"> [Grumpy GM](skills/B01LVW0A0O)
+
+*Alexa, ask Grumpy GM to taunt Matt.*
+
+Grumpy Game Master is here to help taunt your friends!
+
+***
+
+## &nbsp;<img src="skills/B01M9A9INL/skill_icon" alt="null" width="36"> [Gruner + Jahr Digital Products GmbH](skills/B01M9A9INL)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01H0T2FY2/skill_icon" alt="Guess My Number icon" width="36"> [Guess My Number](skills/B01H0T2FY2)
 
 *Alexa, launch Guess My Number.*
@@ -8273,14 +11731,6 @@ Play Guess My Number with Alexa!
 *Alexa open Guess My Number*
 
 Guess My Number, the number guessing game.
-
-***
-
-## &nbsp;<img src="skills/B01KAVDRC6/skill_icon" alt="Guess Sound icon" width="36"> [Guess Sound](skills/B01KAVDRC6)
-
-*Alexa, open guess sound*
-
-Guess Sound
 
 ***
 
@@ -8316,14 +11766,6 @@ See how many tries it takes you to guess a random number between 1 and 100. Alex
 
 ***
 
-## &nbsp;<img src="skills/B01IEOU2BK/skill_icon" alt="Guess the Occupation icon" width="36"> [Guess the Occupation](skills/B01IEOU2BK)
-
-*Alexa, open guess the occupation*
-
-Learn about community workers
-
-***
-
 ## &nbsp;<img src="skills/B01IENXJ3O/skill_icon" alt="Guess The Planet icon" width="36"> [Guess The Planet](skills/B01IENXJ3O)
 
 *Alexa, Open guess the planet*
@@ -8345,6 +11787,14 @@ Guess the name of the song by listening to the lyrics read by Alexa.
 *Alexa, start guess what.*
 
 Try to guess what Alexa is thinking.
+
+***
+
+## &nbsp;<img src="skills/B01L2UOWE6/skill_icon" alt="GuessACard icon" width="36"> [GuessACard](skills/B01L2UOWE6)
+
+*Alexa, Ask Guess A Card to guess a card*
+
+Alexa will guess a card, the three of spades
 
 ***
 
@@ -8388,6 +11838,22 @@ A skill that gives you generic facts about guitars and bass guitars.
 
 ***
 
+## &nbsp;<img src="skills/B01LXYE7GE/skill_icon" alt="guitar facts icon" width="36"> [guitar facts](skills/B01LXYE7GE)
+
+*alexa, open guitar facts*
+
+Facts about Guitars
+
+***
+
+## &nbsp;<img src="skills/B01LWY9O1Z/skill_icon" alt="Guitar Facts icon" width="36"> [Guitar Facts](skills/B01LWY9O1Z)
+
+*Alexa, start Guitar Facts*
+
+A skill that presents facts related to guitars.
+
+***
+
 ## &nbsp;<img src="skills/B019D5T3O6/skill_icon" alt="Guitar Tuner icon" width="36"> [Guitar Tuner](skills/B019D5T3O6)
 
 *Alexa, ask Guitar Tuner to tune my guitar.*
@@ -8401,6 +11867,14 @@ Use Guitar Tuner to tune your guitar.
 *Alexa, ask gump town what's going on today*
 
 Find out what's happening in Montgomery, AL
+
+***
+
+## &nbsp;<img src="skills/B01GZSMKIA/skill_icon" alt="Gyropedia Quiz icon" width="36"> [Gyropedia Quiz](skills/B01GZSMKIA)
+
+*Alexa start gyropedia questions*
+
+Gyropedia Quiz.  Challenge yourself to answer 5 random questions on gyroplane knowledge.
 
 ***
 
@@ -8420,11 +11894,27 @@ Read Hacker News headlines.
 
 ***
 
+## &nbsp;<img src="skills/B01MFDZFFT/skill_icon" alt="Hacker News Articles icon" width="36"> [Hacker News Articles](skills/B01MFDZFFT)
+
+*Alexa, open Hacker News*
+
+Have Alexa read out the top and latest articles on Hacker News
+
+***
+
 ## &nbsp;<img src="skills/B01BN2UWUG/skill_icon" alt="Hacker News Stories icon" width="36"> [Hacker News Stories](skills/B01BN2UWUG)
 
 *Alexa, ask hacker news for top stories*
 
 Stay up to date with the latest stories about technology, business, and entrepreneurship.
+
+***
+
+## &nbsp;<img src="skills/B01LZJXY09/skill_icon" alt="Hackerspace Status icon" width="36"> [Hackerspace Status](skills/B01LZJXY09)
+
+*Alexa Open Hackerspace Status*
+
+Opening status of hackspaces
 
 ***
 
@@ -8436,11 +11926,27 @@ Hacking History Trivia challenges you with fun and interesting questions about t
 
 ***
 
+## &nbsp;<img src="skills/B01L90YPR8/skill_icon" alt="Hackster Contests icon" width="36"> [Hackster Contests](skills/B01L90YPR8)
+
+*Alexa ask hackster contest what can I win*
+
+List all the active challenges at Hackster.io.
+
+***
+
 ## &nbsp;<img src="skills/B01EA6WJ2G/skill_icon" alt="Hackster Fan Page Likes Counter icon" width="36"> [Hackster Fan Page Likes Counter](skills/B01EA6WJ2G)
 
 *Alexa, Launch Hackster Likes*
 
 Hackster Fanpage Likes Counter
+
+***
+
+## &nbsp;<img src="skills/B01LXS7XQU/skill_icon" alt="HacksterSEA Facts icon" width="36"> [HacksterSEA Facts](skills/B01LXS7XQU)
+
+*Alexa start Fun Facts*
+
+Sends the user a random fact
 
 ***
 
@@ -8468,6 +11974,14 @@ Tell me the hail Mary
 
 ***
 
+## &nbsp;<img src="skills/B01N01F76Q/skill_icon" alt="Halo Fan Trivia Game icon" width="36"> [Halo Fan Trivia Game](skills/B01N01F76Q)
+
+*Alexa Open Halo Fan Trivia Game*
+
+This is an unofficial trivia game for Halo.
+
+***
+
 ## &nbsp;<img src="skills/B01I7E8S3Q/skill_icon" alt="HAM Radio Q Codes icon" width="36"> [HAM Radio Q Codes](skills/B01I7E8S3Q)
 
 *Alexa, open q code.*
@@ -8484,6 +11998,14 @@ Test your knowledge of Ham Radio Technician Class concepts!
 
 ***
 
+## &nbsp;<img src="skills/B01MF6TNHD/skill_icon" alt="Hamburg Facts icon" width="36"> [Hamburg Facts](skills/B01MF6TNHD)
+
+*Alexa, ask Hamburg Facts to tell me something.*
+
+Hamburg Facts
+
+***
+
 ## &nbsp;<img src="skills/B01IQB0252/skill_icon" alt="Hamilton Facts icon" width="36"> [Hamilton Facts](skills/B01IQB0252)
 
 *Alexa open hamilton facts*
@@ -8492,11 +12014,35 @@ Some trivia about the musical named Hamilton.
 
 ***
 
+## &nbsp;<img src="skills/B01LWOBLPR/skill_icon" alt="Hamiltrivia icon" width="36"> [Hamiltrivia](skills/B01LWOBLPR)
+
+*Alexa open hamil trivia*
+
+A Hamilton trivia game
+
+***
+
 ## &nbsp;<img src="skills/B01GC18MRI/skill_icon" alt="Hampshire geek icon" width="36"> [Hampshire geek](skills/B01GC18MRI)
 
 *Alexa, open Hampshire geek*
 
 Interesting facts about Hampshire in the UK
+
+***
+
+## &nbsp;<img src="skills/B01M4HGRZQ/skill_icon" alt="Hamster Facts icon" width="36"> [Hamster Facts](skills/B01M4HGRZQ)
+
+*Alexa, ask hamster facts to tell me a fact*
+
+Learn interesting facts about one of the best pets, hamsters.
+
+***
+
+## &nbsp;<img src="skills/B01M2X3ED6/skill_icon" alt="Hamster fun facts icon" width="36"> [Hamster fun facts](skills/B01M2X3ED6)
+
+*Alexa ask hamster fun facts to tell me a fun fact about hamsters.*
+
+Fun facts about hamsters
 
 ***
 
@@ -8524,6 +12070,15 @@ An introduction to handguns and their component parts.
 
 ***
 
+## &nbsp;<img src="skills/B01M8OBKDG/skill_icon" alt="Handy icon" width="36"> [Handy](skills/B01M8OBKDG)
+
+*Alexa, ask Handy when is my next booking.*
+
+Book professional home cleaners and handymen at a moment's notice.
+Just pick a time and we’ll do the rest.
+
+***
+
 ## &nbsp;<img src="skills/B01ED658W6/skill_icon" alt="Hangman icon" width="36"> [Hangman](skills/B01ED658W6)
 
 *Alexa, Open Hangman*
@@ -8548,14 +12103,6 @@ Hanker is your go to local event guide for all that's happening in your city. Fr
 
 ***
 
-## &nbsp;<img src="skills/B01BH31OZI/skill_icon" alt="Happy Birthday icon" width="36"> [Happy Birthday](skills/B01BH31OZI)
-
-*Alexa, launch Happy Birthday*
-
-Alexa sings (raps?) Happy Birthday! Tell your Echo the name of the lucky birthday girl or boy and Alexa does the rest.  A variety of surprising song variations.
-
-***
-
 ## &nbsp;<img src="skills/B01GQSHD18/skill_icon" alt="Happy Hour icon" width="36"> [Happy Hour](skills/B01GQSHD18)
 
 *Alexa, ask the Bar Maid what's in a margarita.*
@@ -8572,6 +12119,30 @@ Do you know some of the ingredients to a Happy Marriage?  See if Alexa can help!
 
 ***
 
+## &nbsp;<img src="skills/B01MEFDNO2/skill_icon" alt="null" width="36"> [Hardeep Sharma](skills/B01MEFDNO2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M4LDPX3/skill_icon" alt="Harmony — Optimized for Smart Home icon" width="36"> [Harmony — Optimized for Smart Home](skills/B01M4LDPX3)
+
+*There are no example interactions for this skill.*
+
+Use Amazon Alexa with your Logitech Harmony hub-based remote to start and stop Harmony Activities or tune to your favorite TV channel.
+
+***
+
+## &nbsp;<img src="skills/B01LZU658Q/skill_icon" alt="Harvey Specter's Quote icon" width="36"> [Harvey Specter's Quote](skills/B01LZU658Q)
+
+*Alexa, ask harvey specter for a quote*
+
+Famous Harvey Specter Quotes from Suits
+
+***
+
 ## &nbsp;<img src="skills/B01ICBSTLA/skill_icon" alt="Hatch Baby icon" width="36"> [Hatch Baby](skills/B01ICBSTLA)
 
 *Alexa, tell hatch baby to record a dirty diaper.*
@@ -8585,6 +12156,22 @@ Monitor your baby’s health by tracking feedings, diapers, sleep and more. It�
 *Alexa open, Haunted House*
 
 Haunted House provides a random scary sound to fill any moment with suspense.
+
+***
+
+## &nbsp;<img src="skills/B01LW9TQ1Y/skill_icon" alt="Haunted House icon" width="36"> [Haunted House](skills/B01LW9TQ1Y)
+
+*Alexa, open Haunted House*
+
+Experience a haunted house with this fun interaction
+
+***
+
+## &nbsp;<img src="skills/B01M085LRO/skill_icon" alt="Have a laugh icon" width="36"> [Have a laugh](skills/B01M085LRO)
+
+*Alexa start have a laugh*
+
+Your Alexa is working the whole day, she deserves some fun! Ask her to laugh.. and she'll do!
 
 ***
 
@@ -8652,11 +12239,27 @@ This Skill Set is for Ebola Virus Information.
 
 ***
 
+## &nbsp;<img src="skills/B01LZKYE3C/skill_icon" alt="Healthy Day icon" width="36"> [Healthy Day](skills/B01LZKYE3C)
+
+*Alexa ask Healthy Day to tell me a tip*
+
+Ask Alexa for a healthy tip and 	put that tip into practice during your day to be fit and healthy everyday
+
+***
+
 ## &nbsp;<img src="skills/B01J70YN6K/skill_icon" alt="Healthy Diet Trivia icon" width="36"> [Healthy Diet Trivia](skills/B01J70YN6K)
 
 *Alexa Ask Healthy Diet Trivia*
 
 Healthy Diet Trivia
+
+***
+
+## &nbsp;<img src="skills/B01LZ4JCCS/skill_icon" alt="Healthy Food Facts icon" width="36"> [Healthy Food Facts](skills/B01LZ4JCCS)
+
+*Alexa, Open Healthy Food Facts*
+
+Healthy and nutritional facts to help promote healthy lifestyle
 
 ***
 
@@ -8684,6 +12287,14 @@ A Heater Duct is a Hot Air delivery system (it reads the RSS feed from the Hot A
 
 ***
 
+## &nbsp;<img src="skills/B01MCT9MIU/skill_icon" alt="Heavy Metal Facts icon" width="36"> [Heavy Metal Facts](skills/B01MCT9MIU)
+
+*Alexa, ask Heavy Metal facts a heavy metal fact*
+
+Heavy Metal facts provides you with some trivia for heavy metal bands
+
+***
+
 ## &nbsp;<img src="skills/B01BMWLJ2W/skill_icon" alt="Hebcal icon" width="36"> [Hebcal](skills/B01BMWLJ2W)
 
 *Alexa, ask Hebcal for Shabbat times.*
@@ -8700,6 +12311,14 @@ Enable this skill for facts, encouragement, and motivation to help you meet your
 
 ***
 
+## &nbsp;<img src="skills/B01N3OADYO/skill_icon" alt="null" width="36"> [Herango](skills/B01N3OADYO)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01GNNQU1A/skill_icon" alt="Herb Guide icon" width="36"> [Herb Guide](skills/B01GNNQU1A)
 
 *alexa ask  herb guide to tell about ginger*
@@ -8713,6 +12332,14 @@ nutrition facts about multiple herbs
 *Alexa open hero facts*
 
 Hero Facts Skill
+
+***
+
+## &nbsp;<img src="skills/B01HLZL9JC/skill_icon" alt="Hero Quiz icon" width="36"> [Hero Quiz](skills/B01HLZL9JC)
+
+*Alexa Open Hero Quiz*
+
+Test your super hero trivia knowledge and gain real geek cred with your friends.
 
 ***
 
@@ -8740,19 +12367,19 @@ Tell me a dad joke!
 
 ***
 
-## &nbsp;<img src="skills/B01G25WCZW/skill_icon" alt="Hide and Seek icon" width="36"> [Hide and Seek](skills/B01G25WCZW)
-
-*Alexa, ask Hide and Seek to countdown*
-
-Hide and Seek Timer
-
-***
-
 ## &nbsp;<img src="skills/B017OBNE6O/skill_icon" alt="High Low Guessing Game icon" width="36"> [High Low Guessing Game](skills/B017OBNE6O)
 
 *Alexa, open High Low.*
 
 This is the number guessing game of “higher or lower.” In this game, you chooses a number and Alexa will try to guess it or you can play the other way around.
+
+***
+
+## &nbsp;<img src="skills/B01M1JKUJ5/skill_icon" alt="Highest Points in the United States icon" width="36"> [Highest Points in the United States](skills/B01M1JKUJ5)
+
+*Alexa, ask United States Highest Points, to give me one of the highest points in the country of United States of America*
+
+Gives you information about the highest elevation point in one of the states in USA
 
 ***
 
@@ -8812,11 +12439,77 @@ The most hilarious skill you've probably never heard of.
 
 ***
 
+## &nbsp;<img src="skills/B01N3S6GK5/skill_icon" alt="Historical Women icon" width="36"> [Historical Women](skills/B01N3S6GK5)
+
+*Alexa, open Historical Women*
+
+Learn more about famous women in history with this fact skill.
+
+***
+
 ## &nbsp;<img src="skills/B01FOR95WC/skill_icon" alt="History icon" width="36"> [History](skills/B01FOR95WC)
 
 *Alexa, ask History Bot what happened today*
 
 Receive history facts for any provided date.
+
+***
+
+## &nbsp;<img src="skills/B01N0CKX9V/skill_icon" alt="History Trivia Game icon" width="36"> [History Trivia Game](skills/B01N0CKX9V)
+
+*Alexa, open history trivia game.*
+
+Short history trivia game.
+
+***
+
+## &nbsp;<img src="skills/B01M1B87ET/skill_icon" alt="History Wizard icon" width="36"> [History Wizard](skills/B01M1B87ET)
+
+*Alexa start history wizard*
+
+A history wizard that answers questions about the history of a given date
+
+***
+
+## &nbsp;<img src="skills/B01M09GQ88/skill_icon" alt="Hive icon" width="36"> [Hive](skills/B01M09GQ88)
+
+*Alexa, tell Hive to turn my heating on to 20 degrees*
+
+Use Echo to control your Hive devices by saying…
+‘Alexa, tell hive to turn my heating to 20ºC'
+‘Alexa, tell hive to switch my bedroom light on’
+
+***
+
+## &nbsp;<img src="skills/B01LWK38QD/skill_icon" alt="Hive - Optimised for Smart Home icon" width="36"> [Hive - Optimised for Smart Home](skills/B01LWK38QD)
+
+*There are no example interactions for this skill.*
+
+You can now control your Hive devices with Amazon Echo and Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01J3A7KSM/skill_icon" alt="Hockey Countdown icon" width="36"> [Hockey Countdown](skills/B01J3A7KSM)
+
+*Alexa ask Hockey Countdown how many days are left*
+
+Count the days until the 16-17 NHL hockey season. Ask "how many days are left?" and Alexa will help you pass the time!
+
+***
+
+## &nbsp;<img src="skills/B01LWIZ9DU/skill_icon" alt="Hockey Facts icon" width="36"> [Hockey Facts](skills/B01LWIZ9DU)
+
+*Alexa, open hockey facts*
+
+This app gives you random facts about hockey.
+
+***
+
+## &nbsp;<img src="skills/B01M227F59/skill_icon" alt="Hockey Goals icon" width="36"> [Hockey Goals](skills/B01M227F59)
+
+*Alexa, Ask Hockey Goals for the Washington Capitals*
+
+Hockey Goals will play the goal celebration horn and sound of every major hockey team.
 
 ***
 
@@ -8868,11 +12561,27 @@ Learn facts about the canine stars of film and stage
 
 ***
 
+## &nbsp;<img src="skills/B01MTK0LAN/skill_icon" alt="Holy Grail Trivia icon" width="36"> [Holy Grail Trivia](skills/B01MTK0LAN)
+
+*Alexa Open Holy Grail Trivia*
+
+Holy Grail Trivia Questions
+
+***
+
 ## &nbsp;<img src="skills/B01JZNXEEG/skill_icon" alt="Holy Rosary icon" width="36"> [Holy Rosary](skills/B01JZNXEEG)
 
 *Alexa ask Holy Rosary to pray the Joyful Mysteries*
 
 Holy Rosary allows you to pray the Holy Rosary along with Alexa. Simply say the name of the mystery you would like to pray and say ‘Amen’ after each prayer.
+
+***
+
+## &nbsp;<img src="skills/B01M580WZN/skill_icon" alt="Home Bartender icon" width="36"> [Home Bartender](skills/B01M580WZN)
+
+*Alexa launch home bartender*
+
+Alexa will help you make one of several mixed drinks.
 
 ***
 
@@ -8892,6 +12601,16 @@ This is a simple skill to ask Alexa to tell you some home remedies.
 
 ***
 
+## &nbsp;<img src="skills/B01LWJWCR7/skill_icon" alt="home8 icon" width="36"> [home8](skills/B01LWJWCR7)
+
+*Alexa, open home8*
+
+Alexa, open home8
+Alexa, tell home8, arm system
+Alexa, tell home8, check home
+
+***
+
 ## &nbsp;<img src="skills/B01DEC893A/skill_icon" alt="HomeAdvisor icon" width="36"> [HomeAdvisor](skills/B01DEC893A)
 
 *Alexa, ask home advisor to find me a plumber.*
@@ -8908,19 +12627,19 @@ Home made natural remedies for common symptoms.
 
 ***
 
+## &nbsp;<img src="skills/B01EK6NYN4/skill_icon" alt="HomeSeer icon" width="36"> [HomeSeer](skills/B01EK6NYN4)
+
+*There are no example interactions for this skill.*
+
+Control your HomeSeer Devices
+
+***
+
 ## &nbsp;<img src="skills/B018YLP9HK/skill_icon" alt="HomeSeer Home Automation Skill icon" width="36"> [HomeSeer Home Automation Skill](skills/B018YLP9HK)
 
 *Alexa, tell HomeSeer to turn on the kitchen light*
 
 This app allows HomeSeer home automation system users to control and monitor status of their devices and to launch their automation events using the Amazon Echo
-
-***
-
-## &nbsp;<img src="skills/B01EK6NYN4/skill_icon" alt="null" width="36"> [HomeSeer Technologies LLC](skills/B01EK6NYN4)
-
-*There are no example interactions for this skill.*
-
-null
 
 ***
 
@@ -8932,11 +12651,27 @@ This skill tells a fun fact about Honey Bee
 
 ***
 
-## &nbsp;<img src="skills/B01JP8EOCW/skill_icon" alt="null" width="36"> [Honeywell](skills/B01JP8EOCW)
+## &nbsp;<img src="skills/B01M5C8P1T/skill_icon" alt="Honeybee facts icon" width="36"> [Honeybee facts](skills/B01M5C8P1T)
+
+*Alexa, ask honey bee facts to give me some information*
+
+This skill gives the user interesting honey bee facts.
+
+***
+
+## &nbsp;<img src="skills/B01LXC3V58/skill_icon" alt="null" width="36"> [Honeywell](skills/B01LXC3V58)
 
 *There are no example interactions for this skill.*
 
 null
+
+***
+
+## &nbsp;<img src="skills/B01JP8EOCW/skill_icon" alt="Honeywell Lyric Round Thermostat icon" width="36"> [Honeywell Lyric Round Thermostat](skills/B01JP8EOCW)
+
+*There are no example interactions for this skill.*
+
+Control your Honeywell Lyric Round, Lyric T5, and Lyric T6 Pro Thermostats
 
 ***
 
@@ -8982,9 +12717,17 @@ Are you a horror movie fan?  Test your knowledge of horror movie taglines.
 
 ## &nbsp;<img src="skills/B01EUIQR90/skill_icon" alt="Horror Trivia icon" width="36"> [Horror Trivia](skills/B01EUIQR90)
 
-*Alexa, open Horror Trivia*
+*Alexa, open Horror Trivia.*
 
 Tells you interesting horror movie trivia.
+
+***
+
+## &nbsp;<img src="skills/B01LWMZCVU/skill_icon" alt="Host Tips icon" width="36"> [Host Tips](skills/B01LWMZCVU)
+
+*Alexa, Open Host Tips*
+
+Host Tips for those getting started in home-sharing or want to hear tips to improve their home-sharing experience with their guests.
 
 ***
 
@@ -9013,6 +12756,14 @@ Find out about the top trending micro brew.
 
 ***
 
+## &nbsp;<img src="skills/B01L9C47MO/skill_icon" alt="HoundMe by Argusware icon" width="36"> [HoundMe by Argusware](skills/B01L9C47MO)
+
+*Alexa, ask hound me who is the best dog in the world.*
+
+This skill will confirm what you already know, that you have the best dog in the world.  It will also give random commands to you favorite pet.
+
+***
+
 ## &nbsp;<img src="skills/B01FZW2OH4/skill_icon" alt="Hourglass icon" width="36"> [Hourglass](skills/B01FZW2OH4)
 
 *Alexa tell my hourglass my birthday is March Seventeenth Nineteen Seventy One*
@@ -9037,11 +12788,35 @@ House Rules!  Set your rules and Alexa will remember.  Any time a rule is in que
 
 ***
 
+## &nbsp;<img src="skills/B01M1IY1RN/skill_icon" alt="House Type Catalog icon" width="36"> [House Type Catalog](skills/B01M1IY1RN)
+
+*Alexa, ask House Type Catalog, to give me some information about types of houses*
+
+Gives you information about a type of house
+
+***
+
+## &nbsp;<img src="skills/B01I0U0VWS/skill_icon" alt="HouseBot icon" width="36"> [HouseBot](skills/B01I0U0VWS)
+
+*There are no example interactions for this skill.*
+
+This skill allows HouseBot home automation system users to control and monitor status of their devices, tasks, and modes using the Amazon Echo.
+
+***
+
 ## &nbsp;<img src="skills/B01H459WMU/skill_icon" alt="Houses for Westeros icon" width="36"> [Houses for Westeros](skills/B01H459WMU)
 
 *Alexa, start thrones trivia*
 
 Test your knowledge of Westeros. A multiple-choice trivia game where you have to match a place in Westeros to its corresponding ruling House. Valar morghulis
+
+***
+
+## &nbsp;<img src="skills/B01M07SMM9/skill_icon" alt="How Should I Workout? icon" width="36"> [How Should I Workout?](skills/B01M07SMM9)
+
+*Alexa ask Workout Decider to start over*
+
+Asks simple yes no questions to help you decide how to work out
 
 ***
 
@@ -9077,11 +12852,35 @@ Howzzat! T20 Cricket Trivia is a fun way to test your T20 Cricket knowledge
 
 ***
 
+## &nbsp;<img src="skills/B01M28J1EB/skill_icon" alt="null" width="36"> [HSV Fussball AG](skills/B01M28J1EB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01IMR3IYM/skill_icon" alt="HTTP Status icon" width="36"> [HTTP Status](skills/B01IMR3IYM)
 
 *Alexa, ask HTTP Status what is code 401?*
 
 Look up HTTP response statuses by name or code.
+
+***
+
+## &nbsp;<img src="skills/B01LZX70Z8/skill_icon" alt="Hubble spotting icon" width="36"> [Hubble spotting](skills/B01LZX70Z8)
+
+*Alexa, ask Hubble spotting when it is visible in New York*
+
+Ask if Hubble is visible in the sky in your city!
+
+***
+
+## &nbsp;<img src="skills/B01LWAGUG7/skill_icon" alt="Hue icon" width="36"> [Hue](skills/B01LWAGUG7)
+
+*There are no example interactions for this skill.*
+
+With Alexa and Philips Hue you can easily set the lights for your daily activities and enhance your special moments. All you have to do is ask.
 
 ***
 
@@ -9109,6 +12908,14 @@ random quiz test questions in regards to the human anatomy
 
 ***
 
+## &nbsp;<img src="skills/B01LIRQBNI/skill_icon" alt="Human Body icon" width="36"> [Human Body](skills/B01LIRQBNI)
+
+*Alexa, Ask Body Facts*
+
+Body Facts gives you facts on human body
+
+***
+
 ## &nbsp;<img src="skills/B01HHZV5WW/skill_icon" alt="Human Body Facts icon" width="36"> [Human Body Facts](skills/B01HHZV5WW)
 
 *Alexa, launch Human Body Facts*
@@ -9122,6 +12929,14 @@ Interesting facts about the human body!  This was built using the template and t
 *Alexa, ask body buddy a fact*
 
 This skill helps you learn some interesting facts about human body.
+
+***
+
+## &nbsp;<img src="skills/B01LYBSVE2/skill_icon" alt="Human Body Facts icon" width="36"> [Human Body Facts](skills/B01LYBSVE2)
+
+*Alexa, open human body facts.*
+
+Human Body Facts is a simple skill aimed at teaching you random facts about the human body.
 
 ***
 
@@ -9173,6 +12988,14 @@ Hummingbird facts for hummingbird lovers.
 
 ***
 
+## &nbsp;<img src="skills/B01LJWGV7I/skill_icon" alt="Hungary facts icon" width="36"> [Hungary facts](skills/B01LJWGV7I)
+
+*Alexa, open hungary facts*
+
+Hungary facts
+
+***
+
 ## &nbsp;<img src="skills/B01JRE35FG/skill_icon" alt="Hunt the Yeti icon" width="36"> [Hunt the Yeti](skills/B01JRE35FG)
 
 *Alexa, launch Yeti Hunt Game*
@@ -9197,11 +13020,27 @@ Hunter Helper tells you where monsters go to sleep.
 
 ***
 
+## &nbsp;<img src="skills/B01MXE2UKQ/skill_icon" alt="HuntWise icon" width="36"> [HuntWise](skills/B01MXE2UKQ)
+
+*Alexa, open HuntWise*
+
+HuntWise helps you determine the best time and place to hunt
+
+***
+
 ## &nbsp;<img src="skills/B01EFCJ0OU/skill_icon" alt="Hurricane Center icon" width="36"> [Hurricane Center](skills/B01EFCJ0OU)
 
-*Alexa, open/play Hurricane Center*
+*Alexa, open Hurricane Center*
 
 Current and historical information about Tropical Storms and Hurricanes.
+
+***
+
+## &nbsp;<img src="skills/B01LY95AKM/skill_icon" alt="hurricane facts icon" width="36"> [hurricane facts](skills/B01LY95AKM)
+
+*Alexa, open hurricane facts*
+
+Ask Alexa to tell you facts about hurricanes
 
 ***
 
@@ -9210,6 +13049,22 @@ Current and historical information about Tropical Storms and Hurricanes.
 *Alexa, ask husky pro for a fact*
 
 Fun facts about the University of Connecticut
+
+***
+
+## &nbsp;<img src="skills/B01LYS8SYO/skill_icon" alt="hypno therapist icon" width="36"> [hypno therapist](skills/B01LYS8SYO)
+
+*Alexa, ask hypno therapist to play a session*
+
+Alexa plays hypnotherapy recordings by British Clinical Hypnotist Barry Thain. Listen tonight, fall fast asleep and wake up with choices.
+
+***
+
+## &nbsp;<img src="skills/B01M9H2JCK/skill_icon" alt="Hyundai Blue Link icon" width="36"> [Hyundai Blue Link](skills/B01M9H2JCK)
+
+*Alexa, tell Blue Link to start my Sonata and set the temperature to 72 degrees.*
+
+The Hyundai Blue Link Skill allows Hyundai owners the ability to Remote Start, set the desired interior cabin temperature, Remote Lock/Unlock, and more.
 
 ***
 
@@ -9226,6 +13081,38 @@ Ask Sounding Bored for something to do when you are bored!
 *Alexa, open i choose you*
 
 Play this fun Pokemon guessing game!
+
+***
+
+## &nbsp;<img src="skills/B01L4L8UC8/skill_icon" alt="I Love Lamp icon" width="36"> [I Love Lamp](skills/B01L4L8UC8)
+
+*Alexa, start i love lamp*
+
+This skill gives you random facts about different kinds of lamps.
+
+***
+
+## &nbsp;<img src="skills/B01M63EBQ6/skill_icon" alt="I Sneezed icon" width="36"> [I Sneezed](skills/B01M63EBQ6)
+
+*Alexa, ask i sneezed*
+
+This skill will say "bless you" in any of 50 different languages!
+
+***
+
+## &nbsp;<img src="skills/B01M02XN90/skill_icon" alt="I. T. U. Holidays icon" width="36"> [I. T. U. Holidays](skills/B01M02XN90)
+
+*Alexa, start i. t. u. holidays*
+
+I. T. U. holiday list
+
+***
+
+## &nbsp;<img src="skills/B01MFFOEOO/skill_icon" alt="I. T. U. Leadership icon" width="36"> [I. T. U. Leadership](skills/B01MFFOEOO)
+
+*Alexa, start i. t. u. leadership*
+
+List of officers at ITU
 
 ***
 
@@ -9261,6 +13148,14 @@ Answer multiple choice questions about Iceland!
 
 ***
 
+## &nbsp;<img src="skills/B01MFE4Q30/skill_icon" alt="Ideas for saving energy icon" width="36"> [Ideas for saving energy](skills/B01MFE4Q30)
+
+*Alexa Open Efficiency Rocks*
+
+Get ideas for saving energy and using resources more efficiently
+
+***
+
 ## &nbsp;<img src="skills/B01G98LFFA/skill_icon" alt="iDevices icon" width="36"> [iDevices](skills/B01G98LFFA)
 
 *There are no example interactions for this skill.*
@@ -9269,11 +13164,11 @@ Control your iDevices connected home products with Alexa.
 
 ***
 
-## &nbsp;<img src="skills/B01H23V0RO/skill_icon" alt="null" width="36"> [iHome](skills/B01H23V0RO)
+## &nbsp;<img src="skills/B01H23V0RO/skill_icon" alt="iHome SmartPlug Control icon" width="36"> [iHome SmartPlug Control](skills/B01H23V0RO)
 
 *There are no example interactions for this skill.*
 
-null
+Control iHome SmartPlugs using Alexa.
 
 ***
 
@@ -9325,6 +13220,46 @@ Incredible India
 
 ***
 
+## &nbsp;<img src="skills/B01M8IMEAR/skill_icon" alt="Incredible India Facts icon" width="36"> [Incredible India Facts](skills/B01M8IMEAR)
+
+*Alexa, launch India Facts*
+
+Listen to fact about Incredible India and gain inspiration
+
+***
+
+## &nbsp;<img src="skills/B01M22G4II/skill_icon" alt="India facts icon" width="36"> [India facts](skills/B01M22G4II)
+
+*alexa, open india facts*
+
+this will give some facts about the country india
+
+***
+
+## &nbsp;<img src="skills/B01LP8FLQ8/skill_icon" alt="India Facts icon" width="36"> [India Facts](skills/B01LP8FLQ8)
+
+*Alexa, Ask India Facts*
+
+Gives you facts about India
+
+***
+
+## &nbsp;<img src="skills/B01LZLRVM9/skill_icon" alt="India Facts icon" width="36"> [India Facts](skills/B01LZLRVM9)
+
+*Alexa, ask India Facts to tell me something*
+
+An informative skills that responds with interesting trivia about India
+
+***
+
+## &nbsp;<img src="skills/B01M0BH7O0/skill_icon" alt="India Facts icon" width="36"> [India Facts](skills/B01M0BH7O0)
+
+*Alexa, open India Facts*
+
+Facts about India
+
+***
+
 ## &nbsp;<img src="skills/B01DBF7SJG/skill_icon" alt="India News icon" width="36"> [India News](skills/B01DBF7SJG)
 
 *Alexa, ask india news*
@@ -9365,11 +13300,27 @@ India Facts
 
 ***
 
-## &nbsp;<img src="skills/B01GU64DXC/skill_icon" alt="IndiaGeek icon" width="36"> [IndiaGeek](skills/B01GU64DXC)
+## &nbsp;<img src="skills/B01M99GCYT/skill_icon" alt="Indian Facts icon" width="36"> [Indian Facts](skills/B01M99GCYT)
 
-*Alexa ask India Geek to tell something about India*
+*Alexa, open Indian facts*
 
-Facts about India
+Indian Fact - Learn interesting facts about india
+
+***
+
+## &nbsp;<img src="skills/B01L1A6D2Q/skill_icon" alt="Indian Recipes icon" width="36"> [Indian Recipes](skills/B01L1A6D2Q)
+
+*Alexa, start Indian Recipes*
+
+Tasty Indian recipes guided by Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01LWHY6LO/skill_icon" alt="Indian Rocks Beach facts icon" width="36"> [Indian Rocks Beach facts](skills/B01LWHY6LO)
+
+*alexa, open indian rocks beach facts*
+
+This skill returns facts about Indian Rocks Beach, Flo
 
 ***
 
@@ -9397,11 +13348,27 @@ indian state wise languages
 
 ***
 
+## &nbsp;<img src="skills/B01M054WGD/skill_icon" alt="Indiana Basketball Facts icon" width="36"> [Indiana Basketball Facts](skills/B01M054WGD)
+
+*Alexa, open indiana basketball facts*
+
+Get interesting facts about basketball in the great state of Indiana.
+
+***
+
 ## &nbsp;<img src="skills/B01B5ALQ24/skill_icon" alt="IndianFacts icon" width="36"> [IndianFacts](skills/B01B5ALQ24)
 
 *Alexa, ask Indian Guy to tell me an Indian fact*
 
 This skill tell you interesting facts about India which most people don't know.
+
+***
+
+## &nbsp;<img src="skills/B01KMMJVXW/skill_icon" alt="IndianRecipe icon" width="36"> [IndianRecipe](skills/B01KMMJVXW)
+
+*Alexa home recipe*
+
+This gives you Indian recipes
 
 ***
 
@@ -9429,6 +13396,14 @@ Indonesian Facts: All fun, cool, interesting, and educative information about In
 
 ***
 
+## &nbsp;<img src="skills/B01M31P60O/skill_icon" alt="Informed Voter icon" width="36"> [Informed Voter](skills/B01M31P60O)
+
+*Alexa, ask Informed Voter where I can vote*
+
+The Informed Voter let's you know where you can vote for this year's election.
+
+***
+
 ## &nbsp;<img src="skills/B01JY8X0ZA/skill_icon" alt="Ingredient Sub icon" width="36"> [Ingredient Sub](skills/B01JY8X0ZA)
 
 *Alexa, open Ingredient Sub.*
@@ -9450,6 +13425,22 @@ Use Ingredients Lister to remind you what ingredients are needed for what you pl
 *Alexa, ask Ingrein Clock to show the weather.*
 
 Integration with the Ingrein Clock that allows to switch in between passive modes, and to turn on/off the alarm system.
+
+***
+
+## &nbsp;<img src="skills/B01LYA1NI7/skill_icon" alt="null" width="36"> [innogy SE](skills/B01LYA1NI7)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LWOOQW2/skill_icon" alt="Innovative Facts icon" width="36"> [Innovative Facts](skills/B01LWOOQW2)
+
+*Alexa Open innovative facts*
+
+Fun facts related to innovation and the future of technology.
 
 ***
 
@@ -9485,6 +13476,14 @@ Random inspirational quotes from LDS leaders and other figures in history.
 
 ***
 
+## &nbsp;<img src="skills/B01N3W3H85/skill_icon" alt="Inspirational quotes icon" width="36"> [Inspirational quotes](skills/B01N3W3H85)
+
+*Alexa ask Inspirational quotes to tell me an inspirational trivia*
+
+Inspirational quotes
+
+***
+
 ## &nbsp;<img src="skills/B01GDQ4JSS/skill_icon" alt="Inspirational Quotes icon" width="36"> [Inspirational Quotes](skills/B01GDQ4JSS)
 
 *Alexa, inspire me*
@@ -9501,6 +13500,54 @@ To give an inspirational quote
 
 ***
 
+## &nbsp;<img src="skills/B01M0UYQ35/skill_icon" alt="Inspirational Quotes icon" width="36"> [Inspirational Quotes](skills/B01M0UYQ35)
+
+*Alexa ask inspirational quotes*
+
+Inspirational Quotes will give the user a random quote that may lift their spirits.
+
+***
+
+## &nbsp;<img src="skills/B01M6C8GRD/skill_icon" alt="Inspirational Quotes icon" width="36"> [Inspirational Quotes](skills/B01M6C8GRD)
+
+*Alexa, ask inspirational quotes to tell me a quote*
+
+Receive some inspiration from these quotes!
+
+***
+
+## &nbsp;<img src="skills/B01MFCR5QL/skill_icon" alt="Inspirational Quotes icon" width="36"> [Inspirational Quotes](skills/B01MFCR5QL)
+
+*Alexa, ask inspire quote.*
+
+Ask Alexa for an inspirational quote.
+
+***
+
+## &nbsp;<img src="skills/B01MRGWGIH/skill_icon" alt="Inspirational Quotes icon" width="36"> [Inspirational Quotes](skills/B01MRGWGIH)
+
+*Alexa, Open Inspirational Quotes and tell me a quote*
+
+A skill that will give you an inspirational quote for the day.
+
+***
+
+## &nbsp;<img src="skills/B01N09AXI4/skill_icon" alt="Inspirational Quotes icon" width="36"> [Inspirational Quotes](skills/B01N09AXI4)
+
+*Alexa, ask inspirational quotes for a random quote*
+
+A simple alexa skill to provide you with famous quotes
+
+***
+
+## &nbsp;<img src="skills/B01LZHM3OB/skill_icon" alt="Inspirational Women icon" width="36"> [Inspirational Women](skills/B01LZHM3OB)
+
+*Alexa, Open Inspirational Women*
+
+Ask Alexa to open Inspirational Women, and hear a short synopsis of what makes these women inspirational.
+
+***
+
 ## &nbsp;<img src="skills/B01FN331S6/skill_icon" alt="Inspire icon" width="36"> [Inspire](skills/B01FN331S6)
 
 *Alexa, tell Inspiring Quote  to inspire me*
@@ -9511,9 +13558,17 @@ Use Inspire with your Alexa App to INSPIRE ME yourself! It'll give you the littl
 
 ## &nbsp;<img src="skills/B01FOC3LCM/skill_icon" alt="Inspire Me icon" width="36"> [Inspire Me](skills/B01FOC3LCM)
 
-*'Alexa, Inspire Me.'*
+*Alexa, Inspire Me.*
 
 Start your day with inspirational audio from Alexa!
+
+***
+
+## &nbsp;<img src="skills/B01L6P35BS/skill_icon" alt="Inspire ME icon" width="36"> [Inspire ME](skills/B01L6P35BS)
+
+*Alexa, inspire me*
+
+Inspire me is an app that you tell you inspirational quote. Use it to get your day started or after a long hectic day.
 
 ***
 
@@ -9522,6 +13577,14 @@ Start your day with inspirational audio from Alexa!
 *Alexa, open inspiring quotes.*
 
 An inspiring quote for the day.
+
+***
+
+## &nbsp;<img src="skills/B01LYAGRKM/skill_icon" alt="Inspiring Quotes icon" width="36"> [Inspiring Quotes](skills/B01LYAGRKM)
+
+*Alexa, open inspiring quotes*
+
+Inspiring quotes
 
 ***
 
@@ -9538,6 +13601,14 @@ Get inspirational quotes from famous folk and the movies.
 *There are no example interactions for this skill.*
 
 The most affordable, complete, connected home solution
+
+***
+
+## &nbsp;<img src="skills/B01M5IUVPH/skill_icon" alt="Insult Generator icon" width="36"> [Insult Generator](skills/B01M5IUVPH)
+
+*Alexa ask Insult Generator to generate an insult*
+
+This skill is a simple insult generator. There are currently 90+ insults available for Alexa to randomly say.
 
 ***
 
@@ -9573,6 +13644,38 @@ This skill will teach Alexa to hurl terrible insults at you.
 
 ***
 
+## &nbsp;<img src="skills/B01KL3CEEK/skill_icon" alt="Insurance Advisor icon" width="36"> [Insurance Advisor](skills/B01KL3CEEK)
+
+*Alexa, open Insurance Advisor*
+
+Confused by insurance? Insurance Advisor by Safeco is here to help! Think of it as your personal insurance concierge!
+
+***
+
+## &nbsp;<img src="skills/B01M13BAT7/skill_icon" alt="Insure.Academy icon" width="36"> [Insure.Academy](skills/B01M13BAT7)
+
+*Alexa, ask insure academy how can I save for college*
+
+Answers a wide range of questions about life insurance and annuities and offers advice for life events that require these products
+
+***
+
+## &nbsp;<img src="skills/B01N06VJE1/skill_icon" alt="null" width="36"> [Intelligent Apps GmbH](skills/B01N06VJE1)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01IVEANGM/skill_icon" alt="Interactive Fiction icon" width="36"> [Interactive Fiction](skills/B01IVEANGM)
+
+*Alexa, ask Interactive Fiction to open Galatea*
+
+Alexa Z-machine for interactive fiction
+
+***
+
 ## &nbsp;<img src="skills/B01IUY5LLA/skill_icon" alt="Interesting Cat Facts icon" width="36"> [Interesting Cat Facts](skills/B01IUY5LLA)
 
 *Alexa, open interesting cat facts*
@@ -9605,6 +13708,22 @@ This skill gives very interesting facts about the country of India.
 
 ***
 
+## &nbsp;<img src="skills/B01LY1ZT5S/skill_icon" alt="Interesting Man icon" width="36"> [Interesting Man](skills/B01LY1ZT5S)
+
+*Alexa, tell me an interesting quote about Bill from Interesting Man*
+
+Most Interesting Man quotes about anyone.
+
+***
+
+## &nbsp;<img src="skills/B01LZ3PVZB/skill_icon" alt="Interesting Red Wine Trivia icon" width="36"> [Interesting Red Wine Trivia](skills/B01LZ3PVZB)
+
+*Alexa, open Red Wine Trivia*
+
+Interesting Red Wine Trivia! Note: Due to the fact that this trivia game involves alcohol, it may not be suitable for all ages.
+
+***
+
 ## &nbsp;<img src="skills/B01FZVZQV6/skill_icon" alt="Interesting Space Facts icon" width="36"> [Interesting Space Facts](skills/B01FZVZQV6)
 
 *Alexa, start Interesting Space Facts.*
@@ -9621,11 +13740,43 @@ Need to dial internationally? Or you received a call and want to know the locati
 
 ***
 
+## &nbsp;<img src="skills/B01LPMN5NU/skill_icon" alt="International Space Station icon" width="36"> [International Space Station](skills/B01LPMN5NU)
+
+*Alexa, open International Space Station*
+
+International Space Station Skill is used to get the current location of the International Space Station.
+
+***
+
+## &nbsp;<img src="skills/B01LXT5DI3/skill_icon" alt="International Space Station facts icon" width="36"> [International Space Station facts](skills/B01LXT5DI3)
+
+*Alexa, open international space station facts*
+
+facts about international space station
+
+***
+
+## &nbsp;<img src="skills/B01MXD7W9I/skill_icon" alt="Internet facts icon" width="36"> [Internet facts](skills/B01MXD7W9I)
+
+*Alexa, open internet facts*
+
+Awesome facts about the Internet.
+
+***
+
 ## &nbsp;<img src="skills/B01ILME11M/skill_icon" alt="Internet Flashcards icon" width="36"> [Internet Flashcards](skills/B01ILME11M)
 
 *Alexa ask internet flashcards to start a new game*
 
 Internet Flashcards - Internet Acronyms Quiz
+
+***
+
+## &nbsp;<img src="skills/B01LDW0ALM/skill_icon" alt="Internet History Quiz icon" width="36"> [Internet History Quiz](skills/B01LDW0ALM)
+
+*Alexa, start Internet History Quiz*
+
+A quick internet history quiz, with both the obvious and the obscure!
 
 ***
 
@@ -9637,11 +13788,43 @@ Alexa Internet Fact Skill
 
 ***
 
+## &nbsp;<img src="skills/B01LYZ3VUZ/skill_icon" alt="Internet Trivia icon" width="36"> [Internet Trivia](skills/B01LYZ3VUZ)
+
+*Alexa launch Internet Trivia*
+
+Test your Internet Knowledge with this fun game.
+
+***
+
 ## &nbsp;<img src="skills/B01EMAVSP4/skill_icon" alt="IntervalTrainer icon" width="36"> [IntervalTrainer](skills/B01EMAVSP4)
 
 *Alexa ask Interval Trainer to give me an interval*
 
 Test your musical interval ear training skills with scoring and feedback.
+
+***
+
+## &nbsp;<img src="skills/B01LW7L2VD/skill_icon" alt="Interview Prep icon" width="36"> [Interview Prep](skills/B01LW7L2VD)
+
+*Alexa, Ask Interview Prep for a question*
+
+Interview Prep will help you prepare for interviews by giving you real-time practice answering interview questions.
+
+***
+
+## &nbsp;<img src="skills/B01M0TLHU5/skill_icon" alt="Intive book conference room icon" width="36"> [Intive book conference room](skills/B01M0TLHU5)
+
+*Alexa, open room book*
+
+This skill will give a functionality to book conference rooms
+
+***
+
+## &nbsp;<img src="skills/B01M0QXJV1/skill_icon" alt="Intive office location icon" width="36"> [Intive office location](skills/B01M0QXJV1)
+
+*Alexa, open office location*
+
+This skill will give location Intive company offices.
 
 ***
 
@@ -9661,6 +13844,22 @@ Invention Facts is a skill of the top inventions that have changed our way of li
 
 ***
 
+## &nbsp;<img src="skills/B01M3W0533/skill_icon" alt="Inventors game icon" width="36"> [Inventors game](skills/B01M3W0533)
+
+*Alexa open inventors game*
+
+Guess the inventor of the great inventions!
+
+***
+
+## &nbsp;<img src="skills/B01N3T1HPB/skill_icon" alt="Investing Facts icon" width="36"> [Investing Facts](skills/B01N3T1HPB)
+
+*Alexa, open investing facts*
+
+Investing Facts contains interesting facts about the art of investing.
+
+***
+
 ## &nbsp;<img src="skills/B01JDI9DZW/skill_icon" alt="Investing Quotes icon" width="36"> [Investing Quotes](skills/B01JDI9DZW)
 
 *Alexa, open investing quotes.*
@@ -9674,6 +13873,14 @@ Learn famous Investing Quotes with this Alexa skill.
 *Alexa, start Internet of Things trivia*
 
 Think you know your IoT's? Challenge yourself with fun and educational questions from the Internet of Things field.
+
+***
+
+## &nbsp;<img src="skills/B01M16KG2O/skill_icon" alt="Iowa Facts icon" width="36"> [Iowa Facts](skills/B01M16KG2O)
+
+*Alexa, ask iowa facts to tell me about iowa*
+
+Ask Alexa to give you facts about Iowa
 
 ***
 
@@ -9693,11 +13900,11 @@ Say the command, “Alexa, ask Iris to holler at [name of recipient]” and Iris
 
 ***
 
-## &nbsp;<img src="skills/B01KN1Y2ZO/skill_icon" alt="null" width="36"> [Iris by Lowe's](skills/B01KN1Y2ZO)
+## &nbsp;<img src="skills/B01KN1Y2ZO/skill_icon" alt="Iris - Optimized for Smart Home icon" width="36"> [Iris - Optimized for Smart Home](skills/B01KN1Y2ZO)
 
 *There are no example interactions for this skill.*
 
-null
+Use nothing more than the sound of your voice to control the lights, switches and thermostats throughout your home.
 
 ***
 
@@ -9714,6 +13921,22 @@ Sample request for irish triads
 *Alexa, start irish trivia*
 
 Alexa asks Irish Trivia questions
+
+***
+
+## &nbsp;<img src="skills/B01M746R84/skill_icon" alt="Irish Trivia icon" width="36"> [Irish Trivia](skills/B01M746R84)
+
+*Alexa ask Irish Trivia for a trivia fact*
+
+This skill allows Alexa to provide you with some fun and interesting facts about Ireland.
+
+***
+
+## &nbsp;<img src="skills/B01LWKA8KB/skill_icon" alt="Is it the weekend icon" width="36"> [Is it the weekend](skills/B01LWKA8KB)
+
+*Alexa open Is it the weekend*
+
+You need to know if it's time to go in weekend ? Ask to Alexa!
 
 ***
 
@@ -9741,6 +13964,14 @@ Isobar Locations is an app for looking up the locations of Isobar offices
 
 ***
 
+## &nbsp;<img src="skills/B01LX47QXG/skill_icon" alt="ISS Above icon" width="36"> [ISS Above](skills/B01LX47QXG)
+
+*Alexa open ISS above*
+
+International Space Station companion App for the ISS-Above
+
+***
+
 ## &nbsp;<img src="skills/B01DN3K9KQ/skill_icon" alt="Issac for The Division icon" width="36"> [Issac for The Division](skills/B01DN3K9KQ)
 
 *Alexa, ask Issac for the Daily Missions*
@@ -9762,6 +13993,14 @@ ISY skill allows you to control your home using an ISY home-automation controlle
 *There are no example interactions for this skill.*
 
 Voice control your ISY devices, scenes, and even programs!
+
+***
+
+## &nbsp;<img src="skills/B01M3T0MEC/skill_icon" alt="It Starts With Me - National HIV Test Week icon" width="36"> [It Starts With Me - National HIV Test Week](skills/B01M3T0MEC)
+
+*Alexa, open Testing Week*
+
+Play your part in stopping HIV by finding out when you should test.
 
 ***
 
@@ -9805,11 +14044,83 @@ Jack's Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01M4JO5FL/skill_icon" alt="null" width="36"> [jacobsHack](skills/B01M4JO5FL)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MG6LEHV/skill_icon" alt="null" width="36"> [jacobsHack](skills/B01MG6LEHV)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MG3Q8C6/skill_icon" alt="Jamaica Facts icon" width="36"> [Jamaica Facts](skills/B01MG3Q8C6)
+
+*Alexa, open Jamaica Facts*
+
+Facts About Jamaica
+
+***
+
+## &nbsp;<img src="skills/B01M1C4ZI2/skill_icon" alt="jamFact icon" width="36"> [jamFact](skills/B01M1C4ZI2)
+
+*Alexa, ask jam fact for a fact*
+
+This skill tells us facts about the country Jamaica
+
+***
+
+## &nbsp;<img src="skills/B01M0L6EVT/skill_icon" alt="Jamie Oliver icon" width="36"> [Jamie Oliver](skills/B01M0L6EVT)
+
+*Alexa, open Jamie Oliver.*
+
+With loads of delicious, easy-to-follow recipes to choose from, Alexa and Jamie Oliver are always on hand to give you inspiration - all you have to do is ask!
+
+***
+
 ## &nbsp;<img src="skills/B01K9AHE2M/skill_icon" alt="Japan Facts icon" width="36"> [Japan Facts](skills/B01K9AHE2M)
 
 *Alexa, open japan facts*
 
 Japan Facts
+
+***
+
+## &nbsp;<img src="skills/B01M1GRFUO/skill_icon" alt="Japan Facts icon" width="36"> [Japan Facts](skills/B01M1GRFUO)
+
+*alexa, open japan facts*
+
+Japanese Facts
+
+***
+
+## &nbsp;<img src="skills/B01MFFRFIL/skill_icon" alt="Japanese Facts icon" width="36"> [Japanese Facts](skills/B01MFFRFIL)
+
+*Alexa, open Japanese Facts.*
+
+JapaneseFacts
+
+***
+
+## &nbsp;<img src="skills/B01M05YMOJ/skill_icon" alt="Japanese Movies icon" width="36"> [Japanese Movies](skills/B01M05YMOJ)
+
+*alexa, open japanese movies*
+
+Japanese Movies
+
+***
+
+## &nbsp;<img src="skills/B01MSHZOI0/skill_icon" alt="Java Facts icon" width="36"> [Java Facts](skills/B01MSHZOI0)
+
+*Alexa, ask Java Facts to tell me a fact.*
+
+This skill gives a random fact about Java.
 
 ***
 
@@ -9869,6 +14180,22 @@ Test your knowledge of jazz music!
 
 ***
 
+## &nbsp;<img src="skills/B01LXJQUO6/skill_icon" alt="Jazz Trivia Game icon" width="36"> [Jazz Trivia Game](skills/B01LXJQUO6)
+
+*Alexa, start jazz trivia game*
+
+A game that tests knowledge about jazz
+
+***
+
+## &nbsp;<img src="skills/B01MG5FGWA/skill_icon" alt="null" width="36"> [jcreek](skills/B01MG5FGWA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B019G0M2WS/skill_icon" alt="Jeopardy! J6 icon" width="36"> [Jeopardy! J6](skills/B019G0M2WS)
 
 *Alexa, Play Jeopardy!*
@@ -9877,11 +14204,75 @@ Play 6 new Jeopardy! clues each weekday from categories that will appear in that
 
 ***
 
+## &nbsp;<img src="skills/B01M5KQM5C/skill_icon" alt="Jessica Sanchez Trivia icon" width="36"> [Jessica Sanchez Trivia](skills/B01M5KQM5C)
+
+*Alexa, launch Jessica Sanchez Trivia*
+
+Jessica Sanchez Trivia is a trivia game about Jessica Sanchez, finalist in American Idol's Final season.
+
+***
+
+## &nbsp;<img src="skills/B01M23OVVR/skill_icon" alt="null" width="36"> [Jesús Espejo](skills/B01M23OVVR)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M4FSVK4/skill_icon" alt="null" width="36"> [Jesús Espejo](skills/B01M4FSVK4)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01L5Z0ZX0/skill_icon" alt="Jewish Music icon" width="36"> [Jewish Music](skills/B01L5Z0ZX0)
+
+*Alexa, ask JewishMusic Stream to play*
+
+Streaming the best Jewish music online!
+
+***
+
+## &nbsp;<img src="skills/B01M8QKQEY/skill_icon" alt="Jewish Music icon" width="36"> [Jewish Music](skills/B01M8QKQEY)
+
+*Alexa, ask JewishMusic to play*
+
+Streaming the best Jewish music online!
+
+***
+
 ## &nbsp;<img src="skills/B01D26NANC/skill_icon" alt="Jim Rockford's Answering Machine icon" width="36"> [Jim Rockford's Answering Machine](skills/B01D26NANC)
 
 *Alexa, Ask Jim Rockford's Answering Machine to read a message*
 
 Jim Rockford's Answering Machine
+
+***
+
+## &nbsp;<img src="skills/B01M10V2Z5/skill_icon" alt="Jim Wyatt Decision Tree icon" width="36"> [Jim Wyatt Decision Tree](skills/B01M10V2Z5)
+
+*Alexa Open jim wyatt three*
+
+Decision tree to decide if your car is ready for a road trip
+
+***
+
+## &nbsp;<img src="skills/B01LYP1B58/skill_icon" alt="Jim Wyatt Fact icon" width="36"> [Jim Wyatt Fact](skills/B01LYP1B58)
+
+*Alexa ask jim wyatt one*
+
+10 facts about Jim Wyatt
+
+***
+
+## &nbsp;<img src="skills/B01M0D688M/skill_icon" alt="Jim Wyatt How-To icon" width="36"> [Jim Wyatt How-To](skills/B01M0D688M)
+
+*Alexa Ask jim wyatt two*
+
+Ten facts about Jim Wyatt
 
 ***
 
@@ -9901,6 +14292,22 @@ Search Marvel Comics' online database of characters and comics
 
 ***
 
+## &nbsp;<img src="skills/B01MTKFFOF/skill_icon" alt="null" width="36"> [Joel Elliston](skills/B01MTKFFOF)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LWR0RXV/skill_icon" alt="John Adams Quotes icon" width="36"> [John Adams Quotes](skills/B01LWR0RXV)
+
+*Alexa open John Adams quotes*
+
+This is a skill to give quotes from the 2nd president of the United States.
+
+***
+
 ## &nbsp;<img src="skills/B01KLAK2B0/skill_icon" alt="Johnie's Infamous Relationship Quotes icon" width="36"> [Johnie's Infamous Relationship Quotes](skills/B01KLAK2B0)
 
 *Alexa, open Johnie's infamous relationship quotes*
@@ -9909,11 +14316,35 @@ Things you shouldn't say to your wife
 
 ***
 
+## &nbsp;<img src="skills/B01LZSIYV5/skill_icon" alt="Johnnie Walker icon" width="36"> [Johnnie Walker](skills/B01LZSIYV5)
+
+*Alexa, open Johnnie Walker*
+
+From guided tastings to blend recommendations, explore nearly two centuries of whisky knowledge with Johnnie Walker.
+
+***
+
+## &nbsp;<img src="skills/B01L294XQY/skill_icon" alt="joke me icon" width="36"> [joke me](skills/B01L294XQY)
+
+*Alexa, start joke me*
+
+jokeme allows you to listen to a joke.
+
+***
+
 ## &nbsp;<img src="skills/B01L2BWNXC/skill_icon" alt="Joke of the day icon" width="36"> [Joke of the day](skills/B01L2BWNXC)
 
 *Alexa, start Joke of the day.*
 
 Joke of the day
+
+***
+
+## &nbsp;<img src="skills/B01M0FKQBE/skill_icon" alt="Joke Skill icon" width="36"> [Joke Skill](skills/B01M0FKQBE)
+
+*Alexa, open funny jokes*
+
+This skill would tell you a joke!
 
 ***
 
@@ -9930,6 +14361,14 @@ Get ready to laugh your socks off with the JokeBot skill!<br>  With jokes rangin
 *Alexa, launch knock knock*
 
 Alexa tells knock knock jokes!
+
+***
+
+## &nbsp;<img src="skills/B01M70Z5AY/skill_icon" alt="Jokes Galore icon" width="36"> [Jokes Galore](skills/B01M70Z5AY)
+
+*Alexa, open Jokes Galore*
+
+Funny puns and jokes for any one looking for a chuckle.
 
 ***
 
@@ -9958,6 +14397,46 @@ Everybody wants short and quick funny sayings to cheer them up.
 
 ***
 
+## &nbsp;<img src="skills/B01M20X4UP/skill_icon" alt="null" width="36"> [Jonny Wilson](skills/B01M20X4UP)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LZ7KTXD/skill_icon" alt="Joule: Sous Vide by ChefSteps icon" width="36"> [Joule: Sous Vide by ChefSteps](skills/B01LZ7KTXD)
+
+*Alexa, ask Joule to heat water to 140 degrees Fahrenheit.*
+
+This skill uses Alexa to cook hands free with Joule, the sous vide tool from ChefSteps.
+
+***
+
+## &nbsp;<img src="skills/B01LY9G70G/skill_icon" alt="JS Facts icon" width="36"> [JS Facts](skills/B01LY9G70G)
+
+*Alexa, start Javascript Facts.*
+
+Tells you a few facts about JavaScript.
+
+***
+
+## &nbsp;<img src="skills/B01L4TT84E/skill_icon" alt="Juggling Teacher icon" width="36"> [Juggling Teacher](skills/B01L4TT84E)
+
+*Alexa, start juggling teacher.*
+
+Teaches users to juggle with basic instructions
+
+***
+
+## &nbsp;<img src="skills/B01LXLEL3R/skill_icon" alt="JUST EAT icon" width="36"> [JUST EAT](skills/B01LXLEL3R)
+
+*Alexa, ask Just Eat to re-order my last Chinese*
+
+Re-order your favourite recent meals and get updates on the progress of your order.
+
+***
+
 ## &nbsp;<img src="skills/B01EGDRMWU/skill_icon" alt="Just Energy icon" width="36"> [Just Energy](skills/B01EGDRMWU)
 
 *Alexa, ask Just Energy for my bill details*
@@ -9971,6 +14450,14 @@ Allows Just Energy customers to get bill details and ask for random energy fact
 *Alexa, ask KAYAK how much it costs to fly from New York to Boston*
 
 Alexa + KAYAK = hands-free travel planning. Get information on flights, hotels & rental cars. Hear flight status updates, destination suggestions & more.
+
+***
+
+## &nbsp;<img src="skills/B01M6767YU/skill_icon" alt="null" width="36"> [Ken Lim](skills/B01M6767YU)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -10032,11 +14519,35 @@ Seek general health information for common ailments and medication dosing from B
 
 ***
 
+## &nbsp;<img src="skills/B01M3UO21Y/skill_icon" alt="Kings Queens icon" width="36"> [Kings Queens](skills/B01M3UO21Y)
+
+*Alexa, start Kings Queens*
+
+A quiz on British Rulers since 1272.
+
+***
+
+## &nbsp;<img src="skills/B01M66TK5R/skill_icon" alt="null" width="36"> [Kirk Northrop](skills/B01M66TK5R)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01FTTXQ4S/skill_icon" alt="Kirkland Middle School STEM Night icon" width="36"> [Kirkland Middle School STEM Night](skills/B01FTTXQ4S)
 
 *Alexa, Open stem night*
 
 This skill was built for Kirkland Middle School for the STEM event. If you want to see the facts we collected, simply say "Alexa, Open stem night".
+
+***
+
+## &nbsp;<img src="skills/B01LZ4LLP3/skill_icon" alt="Kit icon" width="36"> [Kit](skills/B01LZ4LLP3)
+
+*Alexa, ask Kit what's the best gaming keyboard?*
+
+Discover the best products and gear recommended by experts and influencers.
 
 ***
 
@@ -10048,11 +14559,35 @@ Kitchen Tips will help you with Kitchen safety tips, cooking tips and storage ti
 
 ***
 
+## &nbsp;<img src="skills/B01LZ7FFCT/skill_icon" alt="Kite Facts icon" width="36"> [Kite Facts](skills/B01LZ7FFCT)
+
+*Alexa, open kite facts*
+
+Alexa tells facts about kites
+
+***
+
 ## &nbsp;<img src="skills/B01KTXPKPW/skill_icon" alt="Kitty Lover Test icon" width="36"> [Kitty Lover Test](skills/B01KTXPKPW)
 
 *Alexa, open kitty lover test*
 
 A test for true kitty lovers or lovers wannabe.
+
+***
+
+## &nbsp;<img src="skills/B01M0KWUS0/skill_icon" alt="Knitting Facts icon" width="36"> [Knitting Facts](skills/B01M0KWUS0)
+
+*Alexa open Knitting Facts*
+
+Did you know that knitting was initially a male-only occupation? With this app you will know this, and more!
+
+***
+
+## &nbsp;<img src="skills/B01LYNKWUD/skill_icon" alt="Knitting trivia icon" width="36"> [Knitting trivia](skills/B01LYNKWUD)
+
+*Alexa, open knitting trivia*
+
+Knitting trivia
 
 ***
 
@@ -10072,6 +14607,14 @@ Knock, knock! Who's there? The best collection of knock-knock jokes for the Amaz
 
 ***
 
+## &nbsp;<img src="skills/B01LHWNV8W/skill_icon" alt="Know India icon" width="36"> [Know India](skills/B01LHWNV8W)
+
+*Alexa launch simply india*
+
+Wanna know amazing things about INDIA. Just say "Alexa, Open simply India".
+
+***
+
 ## &nbsp;<img src="skills/B01DL8L3EY/skill_icon" alt="Know Your Country icon" width="36"> [Know Your Country](skills/B01DL8L3EY)
 
 *Alexa ask k.y.c*
@@ -10085,6 +14628,30 @@ As the name suggest this game consists of quiz about how well you know your coun
 *Alexa launch cricket games and start game*
 
 Test your Cricket knowledge
+
+***
+
+## &nbsp;<img src="skills/B01L0TPCC0/skill_icon" alt="Knowledge Base icon" width="36"> [Knowledge Base](skills/B01L0TPCC0)
+
+*'Alexa Ask knowledge base ,  how do you connect to the guest wifi ?'*
+
+Query any knowledge base article in confluence instance
+
+***
+
+## &nbsp;<img src="skills/B01LZAAZI2/skill_icon" alt="Koala Facts icon" width="36"> [Koala Facts](skills/B01LZAAZI2)
+
+*Alexa, open koala facts*
+
+Koala Facts
+
+***
+
+## &nbsp;<img src="skills/B01M2Z8MGD/skill_icon" alt="Kombucha Facts icon" width="36"> [Kombucha Facts](skills/B01M2Z8MGD)
+
+*Alexa, start kombucha facts*
+
+Kombucha Facts
 
 ***
 
@@ -10112,11 +14679,59 @@ Korean Facts allows you to learn facts about Korea.
 
 ***
 
+## &nbsp;<img src="skills/B01LI8HZNC/skill_icon" alt="Korean Food Facts icon" width="36"> [Korean Food Facts](skills/B01LI8HZNC)
+
+*Alexa, open korean food facts*
+
+Korean Food Facts contains interesting tidbits about Korean cuisine!
+
+***
+
+## &nbsp;<img src="skills/B01LWWQJBB/skill_icon" alt="Korean Movies icon" width="36"> [Korean Movies](skills/B01LWWQJBB)
+
+*alexa, open korean movies*
+
+Korean Movies
+
+***
+
+## &nbsp;<img src="skills/B01M6723N4/skill_icon" alt="Korean Pop Vocabulary Quiz icon" width="36"> [Korean Pop Vocabulary Quiz](skills/B01M6723N4)
+
+*Alexa Start K-pop quiz*
+
+You can learn some Korean words by playing quiz game.
+
+***
+
+## &nbsp;<img src="skills/B01LXVZ4JC/skill_icon" alt="Korean T.V. Shows icon" width="36"> [Korean T.V. Shows](skills/B01LXVZ4JC)
+
+*alexa, open korean t. v. shows*
+
+Korean TV Shows
+
+***
+
 ## &nbsp;<img src="skills/B01DP23CEU/skill_icon" alt="Korean Weather icon" width="36"> [Korean Weather](skills/B01DP23CEU)
 
 *Alexa, ask Korean Weather for Seoul*
 
 Getting Korean Local Weather Information
+
+***
+
+## &nbsp;<img src="skills/B01LZ5X5B8/skill_icon" alt="Korner Home Security icon" width="36"> [Korner Home Security](skills/B01LZ5X5B8)
+
+*Alexa ask Korner to Arm House*
+
+Control Korner Home Security with commands such as Arm.
+
+***
+
+## &nbsp;<img src="skills/B01M4IHBH3/skill_icon" alt="null" width="36"> [Kwok](skills/B01M4IHBH3)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -10128,11 +14743,27 @@ Ask Alexa when the next train is coming to your NYC MTA L train stop, and listen
 
 ***
 
+## &nbsp;<img src="skills/B01LOCRNNE/skill_icon" alt="LA Facts icon" width="36"> [LA Facts](skills/B01LOCRNNE)
+
+*Alexa, open los angeles facts*
+
+LA Facts contains fun facts about the city of Los Angeles!
+
+***
+
 ## &nbsp;<img src="skills/B01HPIK770/skill_icon" alt="LA Surf Bot icon" width="36"> [LA Surf Bot](skills/B01HPIK770)
 
 *Alexa ask LA Surf Bot how's the surf at Malibu*
 
 Ask LA Surf Bot for current conditions, including wind and tide, at top LA surf spots.
+
+***
+
+## &nbsp;<img src="skills/B01M2WWGD7/skill_icon" alt="Ladybird facts icon" width="36"> [Ladybird facts](skills/B01M2WWGD7)
+
+*Alexa Ask ladybird facts To give me a ladybird fact*
+
+Interesting facts about the Ladybird inspect.
 
 ***
 
@@ -10200,6 +14831,14 @@ Laugh box will play and describe different laughs. You should be laughing as a r
 
 ***
 
+## &nbsp;<img src="skills/B01LXVHKWK/skill_icon" alt="null" width="36"> [Laundrapp Limited](skills/B01LXVHKWK)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01KDFZIGM/skill_icon" alt="Laundry Buddy icon" width="36"> [Laundry Buddy](skills/B01KDFZIGM)
 
 *Alexa, ask laundry buddy how do I clean a car seat*
@@ -10213,6 +14852,14 @@ A skill that provides help when you do laundry.
 *Alexa, launch laurence urban channel's subscribers*
 
 Laurence and Urban Music Youtube Channel Subscribers
+
+***
+
+## &nbsp;<img src="skills/B01LZX9FX2/skill_icon" alt="Lazy Day icon" width="36"> [Lazy Day](skills/B01LZX9FX2)
+
+*Alexa, ask lazy day for an excuse*
+
+Don't want to work today? Ask Alexa for an excuse!
 
 ***
 
@@ -10248,11 +14895,27 @@ This skill is for the League game. It lets you ask what are the skills of the ch
 
 ***
 
+## &nbsp;<img src="skills/B01LZ39PLU/skill_icon" alt="League Status icon" width="36"> [League Status](skills/B01LZ39PLU)
+
+*Alexa, ask League Status what is the server status for Europe West*
+
+This skill allows you to ask for the League of Legends game server status and patch version for your region.
+
+***
+
 ## &nbsp;<img src="skills/B01E2CMDVU/skill_icon" alt="LeagueCounter icon" width="36"> [LeagueCounter](skills/B01E2CMDVU)
 
 *Alexa ask league counter*
 
 Need to find out a counter for a Champion? Let us help!
+
+***
+
+## &nbsp;<img src="skills/B01M07CSU8/skill_icon" alt="Leap year icon" width="36"> [Leap year](skills/B01M07CSU8)
+
+*Alexa, open leap year*
+
+Leap Year informs you if the year you provide is a leap year or if its not.
 
 ***
 
@@ -10288,19 +14951,19 @@ Learn how to greet in Mandarin.
 
 ***
 
-## &nbsp;<img src="skills/B01HM2XN84/skill_icon" alt="Learn Simple Multiplication and Division icon" width="36"> [Learn Simple Multiplication and Division](skills/B01HM2XN84)
-
-*Alexa open simple multiplication division*
-
-Learn basic multiplcation and division
-
-***
-
 ## &nbsp;<img src="skills/B01H65GJHY/skill_icon" alt="Learn Spanish icon" width="36"> [Learn Spanish](skills/B01H65GJHY)
 
 *Alexa, learn Spanish*
 
 Learn Spanish
+
+***
+
+## &nbsp;<img src="skills/B01M8IW3UK/skill_icon" alt="Learn the Elements icon" width="36"> [Learn the Elements](skills/B01M8IW3UK)
+
+*Alexa, Open periodic table*
+
+Using this quiz you can learn all of the elements by name and symbol.
 
 ***
 
@@ -10320,6 +14983,14 @@ How will do you know Lebanon? Let's find out!
 
 ***
 
+## &nbsp;<img src="skills/B01M0J0D1B/skill_icon" alt="LeBron Facts by J9stuart icon" width="36"> [LeBron Facts by J9stuart](skills/B01M0J0D1B)
+
+*Alexa, ask LeBron Facts to give me facts about LeBron*
+
+This skill tells the user facts about LeBron James but is not endorsed or sponsored by LeBron James
+
+***
+
 ## &nbsp;<img src="skills/B01H5ZKKGG/skill_icon" alt="Lee Hecht Harrison Career Tips icon" width="36"> [Lee Hecht Harrison Career Tips](skills/B01H5ZKKGG)
 
 *Alexa, ask LHH for a tip*
@@ -10328,11 +14999,35 @@ Career tips from Lee Hecht Harrison, the global leader in talent development and
 
 ***
 
+## &nbsp;<img src="skills/B01LY9XIXI/skill_icon" alt="Legendary Quotes icon" width="36"> [Legendary Quotes](skills/B01LY9XIXI)
+
+*Alexa, ask legendary quotes to give me a legendary quote*
+
+Gives you a random famous quote
+
+***
+
+## &nbsp;<img src="skills/B01M0WAYVF/skill_icon" alt="Leo's Carbohydrate Fact List icon" width="36"> [Leo's Carbohydrate Fact List](skills/B01M0WAYVF)
+
+*Alexa, ask leo's carb list to tell me a fact*
+
+Tells how how many grams of carbohydrates are in various foods.
+
+***
+
 ## &nbsp;<img src="skills/B01KBOSGOQ/skill_icon" alt="Leonardo da Vinci Facts icon" width="36"> [Leonardo da Vinci Facts](skills/B01KBOSGOQ)
 
 *Alexa, tell leonardo da vinci facts to tell me a fact*
 
 Leonardo da Vinci Facts
+
+***
+
+## &nbsp;<img src="skills/B01M8HRRIC/skill_icon" alt="Let's Exercise icon" width="36"> [Let's Exercise](skills/B01M8HRRIC)
+
+*Alexa, Let's exercise*
+
+This skill gives you a new micro-workout to do every time!
 
 ***
 
@@ -10360,14 +15055,6 @@ Let's Equate is a skill that quizzes you on 20 addition or subtraction equation 
 
 ***
 
-## &nbsp;<img src="skills/B01BXAMWN8/skill_icon" alt="Lets Multiply icon" width="36"> [Lets Multiply](skills/B01BXAMWN8)
-
-*Alexa, open let's multiply*
-
-Let's Multiply is a skill that quizzes you on your multiplication table.  You can specify how high you want the questions to go, up to twelve times twelve.
-
-***
-
 ## &nbsp;<img src="skills/B01GNHWXP8/skill_icon" alt="Lets Subtract icon" width="36"> [Lets Subtract](skills/B01GNHWXP8)
 
 *Alexa, open let's subtract*
@@ -10392,11 +15079,27 @@ It's your turn to be a cheerleader.  Tell Alexa what letters to say and when you
 
 ***
 
+## &nbsp;<img src="skills/B01M62FOTR/skill_icon" alt="Lewis Facts icon" width="36"> [Lewis Facts](skills/B01M62FOTR)
+
+*Alexa, open lewis facts*
+
+Ask Lewis about fun and interesting facts about the great city of London
+
+***
+
 ## &nbsp;<img src="skills/B01E3B7OQE/skill_icon" alt="LGBT Trivia icon" width="36"> [LGBT Trivia](skills/B01E3B7OQE)
 
 *Alexa, start LGBT trivia*
 
 Multiple choice game to test your knowledge of LGBT history and terms!
+
+***
+
+## &nbsp;<img src="skills/B01LYUZ33B/skill_icon" alt="Liberal Lord, Socialist Savior icon" width="36"> [Liberal Lord, Socialist Savior](skills/B01LYUZ33B)
+
+*Alexa, ask Liberal Lord for a fact.*
+
+Who would Jesus vote for? Just say "Alexa, ask Liberal Lord for a fact."
 
 ***
 
@@ -10413,6 +15116,14 @@ This is a simple trivia game which asks the player questions along a Liberty and
 *Alexa, open license plate finder.*
 
 Alexa, ask license plate finder where is the license plate nickname of California?
+
+***
+
+## &nbsp;<img src="skills/B01M61A153/skill_icon" alt="licenseplate notepad icon" width="36"> [licenseplate notepad](skills/B01M61A153)
+
+*Alexa, ask license plate notepad do you know M DC 1234*
+
+can take and remember public notes for licenseplates.
 
 ***
 
@@ -10448,6 +15159,14 @@ The top submission from the last 24 hours from r/LifeProTips from Reddit.
 
 ***
 
+## &nbsp;<img src="skills/B01LW3OA0F/skill_icon" alt="life quotes icon" width="36"> [life quotes](skills/B01LW3OA0F)
+
+*Alexa, start life quotes.*
+
+Life quotes to live happy life.
+
+***
+
 ## &nbsp;<img src="skills/B017O9P72A/skill_icon" alt="LIFX icon" width="36"> [LIFX](skills/B017O9P72A)
 
 *Alexa, tell LIFX to turn my bedroom lights off*
@@ -10464,11 +15183,27 @@ The world's brightest Wi-Fi LED smart lights, no cables or hub needed! Light you
 
 ***
 
+## &nbsp;<img src="skills/B01L60GTBQ/skill_icon" alt="Light Bulb Jokes icon" width="36"> [Light Bulb Jokes](skills/B01L60GTBQ)
+
+*Alexa, tell light bulb jokes*
+
+Light Bulb Jokes
+
+***
+
 ## &nbsp;<img src="skills/B01KTUWEFE/skill_icon" alt="Light Facts icon" width="36"> [Light Facts](skills/B01KTUWEFE)
 
 *alexa, open light facts*
 
 Facts about Light
+
+***
+
+## &nbsp;<img src="skills/B01HCYSG84/skill_icon" alt="LIGHTIFY icon" width="36"> [LIGHTIFY](skills/B01HCYSG84)
+
+*There are no example interactions for this skill.*
+
+Voice Control LIGHTIFY in your home and control your lighting through Amazon Echo and the Alexa Skills Kit
 
 ***
 
@@ -10480,11 +15215,27 @@ A fun and evolving game for the McJilton family.
 
 ***
 
+## &nbsp;<img src="skills/B01M5C987C/skill_icon" alt="null" width="36"> [Lightwave RF](skills/B01M5C987C)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01ED3B89G/skill_icon" alt="LingoInfo icon" width="36"> [LingoInfo](skills/B01ED3B89G)
 
 *Alexa, launch Lingo Info*
 
 Learn interesting facts about languages from around the world!
+
+***
+
+## &nbsp;<img src="skills/B01L8JWBQW/skill_icon" alt="Linux Facts icon" width="36"> [Linux Facts](skills/B01L8JWBQW)
+
+*Alexa, open linux facts*
+
+Linux Facts
 
 ***
 
@@ -10552,11 +15303,35 @@ Hear the top headlines from the technology news aggregation website http://lobst
 
 ***
 
+## &nbsp;<img src="skills/B01MDNEBV1/skill_icon" alt="Local Earthquakes icon" width="36"> [Local Earthquakes](skills/B01MDNEBV1)
+
+*Alexa, open local earthquakes*
+
+Retrieve detailed information on recent earthquakes near your zip code or city - optionally input a time span for the search.
+
+***
+
 ## &nbsp;<img src="skills/B01KWOS71M/skill_icon" alt="Logan Square Facts icon" width="36"> [Logan Square Facts](skills/B01KWOS71M)
 
 *Alexa, launch Logan Square Facts.*
 
 Returns a random fact about the Logan Square neighborhood in Chicago.
+
+***
+
+## &nbsp;<img src="skills/B01M4P5IJ6/skill_icon" alt="London Air Quality icon" width="36"> [London Air Quality](skills/B01M4P5IJ6)
+
+*Alexa, ask London Air Quality for the forecast*
+
+Find out the current or forecast air quality conditions for London, including information on pollutants, and weather affecting these.
+
+***
+
+## &nbsp;<img src="skills/B01MA6GTNQ/skill_icon" alt="London Food Facts icon" width="36"> [London Food Facts](skills/B01MA6GTNQ)
+
+*Alexa, open London food facts*
+
+Learn more about fun and interesting facts about London's food scene.
 
 ***
 
@@ -10584,11 +15359,43 @@ What's the next long weekend?
 
 ***
 
+## &nbsp;<img src="skills/B01M0VPYG9/skill_icon" alt="Lorem Ipsum icon" width="36"> [Lorem Ipsum](skills/B01M0VPYG9)
+
+*Alexa, ask lorem ipsum to babble nonsense*
+
+Makes Alexa say a random text
+
+***
+
+## &nbsp;<img src="skills/B01M3S8CCY/skill_icon" alt="LostThings icon" width="36"> [LostThings](skills/B01M3S8CCY)
+
+*Alexa, ask LostThings to find my iPhone*
+
+LostThings helps you find your lost Apple items. Just say 'find my iPhone' and a sound will be played on the device and its location posted to your Alexa App.
+
+***
+
+## &nbsp;<img src="skills/B01LY0TSPF/skill_icon" alt="Lottery Numbers Take 5 icon" width="36"> [Lottery Numbers Take 5](skills/B01LY0TSPF)
+
+*alexa, ask,  take five*
+
+Get the winning numbers for the New York State Lottery Game; Take Five.  This Skill is not endorsed or sponsored by The New York State Lottery Commission.
+
+***
+
 ## &nbsp;<img src="skills/B01A69DP2Y/skill_icon" alt="Lotto Now icon" width="36"> [Lotto Now](skills/B01A69DP2Y)
 
 *Alexa, ask Lotto Now for Powerball numbers*
 
 This enables Alexa to tell you randomly generated lottery numbers.
+
+***
+
+## &nbsp;<img src="skills/B01L32RYH0/skill_icon" alt="Lotus Apple icon" width="36"> [Lotus Apple](skills/B01L32RYH0)
+
+*Alexa, open Lotus Apple*
+
+Lotus Apple
 
 ***
 
@@ -10608,6 +15415,22 @@ Love predictor will give you a percentage score of two people making it together
 
 ***
 
+## &nbsp;<img src="skills/B01L7WA9BE/skill_icon" alt="Love Statements icon" width="36"> [Love Statements](skills/B01L7WA9BE)
+
+*Alexa, start lovely phrases*
+
+Love Phrases
+
+***
+
+## &nbsp;<img src="skills/B01M4IYS5Z/skill_icon" alt="Lower Limb Muscle Revision icon" width="36"> [Lower Limb Muscle Revision](skills/B01M4IYS5Z)
+
+*Alexa, ask Lower Limb Muscles about gluteus maximus*
+
+Anatomy revision for muscles in the lower limbs.
+
+***
+
 ## &nbsp;<img src="skills/B01I7QQWYG/skill_icon" alt="Lucky Number icon" width="36"> [Lucky Number](skills/B01I7QQWYG)
 
 *Alexa, ask Lucky Number what is my lucky number*
@@ -10624,11 +15447,35 @@ Ask Alexa for your lucky numbers.
 
 ***
 
+## &nbsp;<img src="skills/B01LR94BTS/skill_icon" alt="Ludo Helper icon" width="36"> [Ludo Helper](skills/B01LR94BTS)
+
+*Alexa, ask Ludo Helper How do I play ludo ?*
+
+Ludo Helper skill describes the rules of the game Ludo, tips on strategies, game setup and much more. Use this skill to get an in depth understanding of Ludo.
+
+***
+
 ## &nbsp;<img src="skills/B01G9F7HLE/skill_icon" alt="Luma WiFi icon" width="36"> [Luma WiFi](skills/B01G9F7HLE)
 
 *Alexa, ask Luma WiFi to pause*
 
 Control your Luma WiFi with Amazon Echo.
+
+***
+
+## &nbsp;<img src="skills/B01LOLMUB0/skill_icon" alt="Lunar Date icon" width="36"> [Lunar Date](skills/B01LOLMUB0)
+
+*Alexa, Ask lunar date for today*
+
+Check lunar date (Chinese date) with Alexa
+
+***
+
+## &nbsp;<img src="skills/B01M0L4GK7/skill_icon" alt="Lunar Phase Information icon" width="36"> [Lunar Phase Information](skills/B01M0L4GK7)
+
+*Alexa, Ask Luna Guru when is Full moon in feburary*
+
+Luna Guru provides full and new moon information
 
 ***
 
@@ -10653,6 +15500,14 @@ Simple skill that provides lunch suggestions
 *Alexa, ask Small Catechism*
 
 Learn about the teachings of Holy Scripture with the Luther's Small Catechism skill.
+
+***
+
+## &nbsp;<img src="skills/B01M4QGP3C/skill_icon" alt="Lutron Connect icon" width="36"> [Lutron Connect](skills/B01M4QGP3C)
+
+*There are no example interactions for this skill.*
+
+Control your Lutron RadioRA 2 or HomeWorks QS system’s lights, shades and temperature with voice commands!
 
 ***
 
@@ -10696,11 +15551,11 @@ Give random machine learning approaches from Wikipedia
 
 ***
 
-## &nbsp;<img src="skills/B01J4KQKVY/skill_icon" alt="mad libs icon" width="36"> [mad libs](skills/B01J4KQKVY)
+## &nbsp;<img src="skills/B01MPXAZTM/skill_icon" alt="Made up facts icon" width="36"> [Made up facts](skills/B01MPXAZTM)
 
-*Alexa, use mad libs to tell me a story*
+*Alexa Open Made Up Facts*
 
-Stories with random substitutions made for various nouns, verbs, adjectives, etc
+Ask for a "made up fact" and a humourous non-fact reply is given. There is no profanity, no obscene, and no inappropriate content.
 
 ***
 
@@ -10744,11 +15599,35 @@ Ask me anything!
 
 ***
 
+## &nbsp;<img src="skills/B01M19CDX5/skill_icon" alt="Magic Dice icon" width="36"> [Magic Dice](skills/B01M19CDX5)
+
+*Alexa, ask magic dice to roll*
+
+Need to roll a dice? Well now Alexa can do it for you!
+
+***
+
 ## &nbsp;<img src="skills/B01AX28W7M/skill_icon" alt="Magic Eight Ball icon" width="36"> [Magic Eight Ball](skills/B01AX28W7M)
 
 *Alexa, ask magic eight ball will it rain today*
 
 A fun Magic Eight Ball prediction skill.
+
+***
+
+## &nbsp;<img src="skills/B01L4Z9JL0/skill_icon" alt="Magic Eight Ball icon" width="36"> [Magic Eight Ball](skills/B01L4Z9JL0)
+
+*Alexa ask magic eight ball to make a decision*
+
+Magic Eight Ball - Give you answers to your questions!
+
+***
+
+## &nbsp;<img src="skills/B01LXZAIW6/skill_icon" alt="Magic Facts icon" width="36"> [Magic Facts](skills/B01LXZAIW6)
+
+*Alexa open Magic Facts*
+
+Did you know that magic is also called conjuring, hocus pocus, sorcery and wizardry? With this app you will know this, and more!
 
 ***
 
@@ -10760,11 +15639,35 @@ The Wi-Fi LED smart lights, no cables or hub needed! Light your home in millions
 
 ***
 
+## &nbsp;<img src="skills/B01M4FWEF1/skill_icon" alt="Magic Jukebox icon" width="36"> [Magic Jukebox](skills/B01M4FWEF1)
+
+*Alexa, ask Magic Jukebox to Play Cool Jazz*
+
+Stream music Powered by SoundCloud.  Magic Jukebox will find and play music based on genre.  Cool Jazz, Metal, Soundtrack, what ever your heart desires.
+
+***
+
 ## &nbsp;<img src="skills/B01DOHAN1Q/skill_icon" alt="Magic Mirror icon" width="36"> [Magic Mirror](skills/B01DOHAN1Q)
 
 *Alexa, ask Magic Mirror on the wall, who is the fairest one of all?*
 
 Wake up every morning and find out who the fairest one in all the land is! Simple say, "Alexa, ask Magic Mirror on the wall, who is the fairest one of all?"
+
+***
+
+## &nbsp;<img src="skills/B01MXFEB95/skill_icon" alt="Magic Podcast icon" width="36"> [Magic Podcast](skills/B01MXFEB95)
+
+*Alexa, ask Magic Podcast to Play This American Life*
+
+Have Magic Podcast play your favorite podcast or find one on a subject that interests you.
+
+***
+
+## &nbsp;<img src="skills/B01JXLRLE4/skill_icon" alt="Magic Rules icon" width="36"> [Magic Rules](skills/B01JXLRLE4)
+
+*Alexa, ask Magic Rules what is vigilance*
+
+Get definitions and examples of Magic card game abilities. **Fan Made**
 
 ***
 
@@ -10784,6 +15687,30 @@ Get a random Maine trivia fact! "Ask Maine trivia, tell me something"
 
 ***
 
+## &nbsp;<img src="skills/B01M1LU0SX/skill_icon" alt="Maine Facts icon" width="36"> [Maine Facts](skills/B01M1LU0SX)
+
+*Alexa launch maine facts*
+
+Random facts about Maine.
+
+***
+
+## &nbsp;<img src="skills/B01M0PX8UX/skill_icon" alt="Maine Trivia icon" width="36"> [Maine Trivia](skills/B01M0PX8UX)
+
+*Alexa open maine trivia*
+
+Trivia questions about Maine.
+
+***
+
+## &nbsp;<img src="skills/B01MAVV5HS/skill_icon" alt="Major System icon" width="36"> [Major System](skills/B01MAVV5HS)
+
+*Alexa, ask Major System how to remember five two*
+
+Easily memorize any number using the Major System
+
+***
+
 ## &nbsp;<img src="skills/B01GKB9X6O/skill_icon" alt="MajorKeys icon" width="36"> [MajorKeys](skills/B01GKB9X6O)
 
 *Alexa, ask MajorKeys for a key*
@@ -10800,6 +15727,22 @@ A short speechaventure game.
 
 ***
 
+## &nbsp;<img src="skills/B01LXZ49RA/skill_icon" alt="Make Me Cry. icon" width="36"> [Make Me Cry.](skills/B01LXZ49RA)
+
+*Alexa open make me cry*
+
+Make me cry with a sad fact.
+
+***
+
+## &nbsp;<img src="skills/B01M0WAJND/skill_icon" alt="Make-Model Quiz icon" width="36"> [Make-Model Quiz](skills/B01M0WAJND)
+
+*Alexa, start make model quiz*
+
+How well do you know your car models?
+
+***
+
 ## &nbsp;<img src="skills/B01D28TLRY/skill_icon" alt="Malayala Manorama icon" width="36"> [Malayala Manorama](skills/B01D28TLRY)
 
 *Alexa, ask manorama for kerala news*
@@ -10809,19 +15752,19 @@ Alexa, ask manorama for the latest news
 
 ***
 
-## &nbsp;<img src="skills/B01G2UYBN8/skill_icon" alt="Malayalam Jokes icon" width="36"> [Malayalam Jokes](skills/B01G2UYBN8)
-
-*Alexa, play malayalam jokes*
-
-Random Malayalam (Indian Regional Language) movie jokes
-
-***
-
 ## &nbsp;<img src="skills/B01KAWHVHM/skill_icon" alt="Malaysia Facts icon" width="36"> [Malaysia Facts](skills/B01KAWHVHM)
 
 *Alexa, ask malaysia facts for a fact*
 
 Malaysia Facts
+
+***
+
+## &nbsp;<img src="skills/B01M59GMG8/skill_icon" alt="null" width="36"> [Mandy Chan](skills/B01M59GMG8)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -10913,6 +15856,14 @@ This skill will return several facts about Marks house
 
 ***
 
+## &nbsp;<img src="skills/B01MFADQM1/skill_icon" alt="null" width="36"> [Markus Ulsass](skills/B01MFADQM1)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01I791D8S/skill_icon" alt="Mars Facts icon" width="36"> [Mars Facts](skills/B01I791D8S)
 
 *Alexa, ask mars facts to tell me a Mars trivia.*
@@ -10937,6 +15888,14 @@ Facts about Mars!
 
 ***
 
+## &nbsp;<img src="skills/B01MREPXI6/skill_icon" alt="Mars Facts icon" width="36"> [Mars Facts](skills/B01MREPXI6)
+
+*Alexa, ask mars facts to tell me a fact*
+
+Learn random facts about the planet Mars!
+
+***
+
 ## &nbsp;<img src="skills/B01H9RQOPQ/skill_icon" alt="Mars Facts Skill icon" width="36"> [Mars Facts Skill](skills/B01H9RQOPQ)
 
 *Alexa, Mars Fact*
@@ -10950,6 +15909,14 @@ Facts and figures about the planet Mars.
 *Alexa, open mars the planet and give me a fact*
 
 This a Mars Fact Talk
+
+***
+
+## &nbsp;<img src="skills/B01M6EBMUM/skill_icon" alt="Mars Weather icon" width="36"> [Mars Weather](skills/B01M6EBMUM)
+
+*Alexa, ask Mars weather caster for the current weather*
+
+This skill gives the current Mars weather including low and high temperature.
 
 ***
 
@@ -10989,7 +15956,7 @@ Have you ever wondered what the weather is like on Mars? Now you can ask Alexa a
 
 *Alexa, tell Marvee that I'm OK*
 
-Marvee is a concierge solution that gives those hindered by limited vision, mobility or aging an easy way to communicate with family and caregivers.
+Marvee is a care companion and concierge that gives those hindered by limited vision, mobility or aging an easy way to communicate with family and caregivers.
 
 ***
 
@@ -11001,6 +15968,14 @@ Inspirational quotes by Mary Kay Ash
 
 ***
 
+## &nbsp;<img src="skills/B01N3WNFCM/skill_icon" alt="Maryland Facts icon" width="36"> [Maryland Facts](skills/B01N3WNFCM)
+
+*Alexa open maryland facts and give me a fact*
+
+Maryland Facts provides fun facts about the Maryland.
+
+***
+
 ## &nbsp;<img src="skills/B01DSJ968Q/skill_icon" alt="Math Challenge icon" width="36"> [Math Challenge](skills/B01DSJ968Q)
 
 *Alexa, ask Math Challenge to give me an addition problem with two digits*
@@ -11009,19 +15984,11 @@ Practice your math arithmetic with this skill
 
 ***
 
-## &nbsp;<img src="skills/B01FQ8LP40/skill_icon" alt="Math Dog icon" width="36"> [Math Dog](skills/B01FQ8LP40)
+## &nbsp;<img src="skills/B01LDYHDT2/skill_icon" alt="math constants icon" width="36"> [math constants](skills/B01LDYHDT2)
 
-*Alexa, open Math Dog.*
+*Alexa launch math constants*
 
-A quiz style math game to help users master basic math facts.  Fun for kindergarten to adults.
-
-***
-
-## &nbsp;<img src="skills/B01HLUPI08/skill_icon" alt="Math Facts icon" width="36"> [Math Facts](skills/B01HLUPI08)
-
-*Alexa, open Math Facts.*
-
-Math Facts provides math practice your whole family can enjoy together.
+Math constants provides users fast and easy access to some important math constants.
 
 ***
 
@@ -11041,27 +16008,11 @@ Math flash card for testing simple arithmetic problems
 
 ***
 
-## &nbsp;<img src="skills/B01KJANRBO/skill_icon" alt="Math Flash Cards icon" width="36"> [Math Flash Cards](skills/B01KJANRBO)
+## &nbsp;<img src="skills/B01M62FQAL/skill_icon" alt="Math Helper icon" width="36"> [Math Helper](skills/B01M62FQAL)
 
-*Alexa, start math flashcards*
+*Alexa ask Math Helper what the area of a square is*
 
-Math Flash Cards
-
-***
-
-## &nbsp;<img src="skills/B01DR1AJNG/skill_icon" alt="Math Fun icon" width="36"> [Math Fun](skills/B01DR1AJNG)
-
-*Alexa, start math fun.*
-
-Fun math learning app for First Graders.
-
-***
-
-## &nbsp;<img src="skills/B01KGOPXRO/skill_icon" alt="Math Genius icon" width="36"> [Math Genius](skills/B01KGOPXRO)
-
-*Alexa, open Math Genius*
-
-To master numbers in English using simple math games
+Helps with basic math formula definitions
 
 ***
 
@@ -11097,59 +16048,11 @@ Math Stream is a test of how well you can keep up with a sequence of addition an
 
 ***
 
-## &nbsp;<img src="skills/B01KJFKKTQ/skill_icon" alt="Math Subtraction Flash Cards icon" width="36"> [Math Subtraction Flash Cards](skills/B01KJFKKTQ)
-
-*Alexa start subtraction flash cards*
-
-Practice subtraction with Alexa!
-
-***
-
-## &nbsp;<img src="skills/B01I7I0MFY/skill_icon" alt="Math Trainer icon" width="36"> [Math Trainer](skills/B01I7I0MFY)
-
-*Alexa, open math trainer*
-
-Test your math skills with math trainer
-
-***
-
 ## &nbsp;<img src="skills/B01FNR507W/skill_icon" alt="Math Trivia icon" width="36"> [Math Trivia](skills/B01FNR507W)
 
 *Alexa, open math trivia*
 
 The Math History Trivia skill will ask you questions about math that require NO math skills!
-
-***
-
-## &nbsp;<img src="skills/B017OBJZ9E/skill_icon" alt="Math Tutor icon" width="36"> [Math Tutor](skills/B017OBJZ9E)
-
-*Alexa, ask Math Tutor for 3 times table.*
-
-Math Tutor can read out the multiplication tables between 1 and 10.
-
-***
-
-## &nbsp;<img src="skills/B01L1F8XYW/skill_icon" alt="Math Tutor icon" width="36"> [Math Tutor](skills/B01L1F8XYW)
-
-*Alexa, start my math tutor*
-
-My Math Tutor helps quiz you on basic multiplication.  It will prompt for the answer to two single digit multiplications.
-
-***
-
-## &nbsp;<img src="skills/B01JDR2S50/skill_icon" alt="MathFlashCards icon" width="36"> [MathFlashCards](skills/B01JDR2S50)
-
-*Alexa, start multiplication flash cards*
-
-A math flash card game
-
-***
-
-## &nbsp;<img src="skills/B01I90YGR0/skill_icon" alt="MathMultiplicationTables icon" width="36"> [MathMultiplicationTables](skills/B01I90YGR0)
-
-*Alexa, Open Math Multiplication Tables.*
-
-1 - 12 Math Multiplication Tables Quiz
 
 ***
 
@@ -11242,6 +16145,23 @@ Disclaimer: This skill may not be suitable for all ages.
 
 ***
 
+## &nbsp;<img src="skills/B01MSI348L/skill_icon" alt="Mean Koala icon" width="36"> [Mean Koala](skills/B01MSI348L)
+
+*Alexa ask mean koala*
+
+Random Insults!
+
+***
+
+## &nbsp;<img src="skills/B01KSM96CW/skill_icon" alt="Meanie icon" width="36"> [Meanie](skills/B01KSM96CW)
+
+*Alexa start being mean*
+
+Alexa will stop playing nice with you...you've been warned.
+Mature language audience only (ages 18+)
+
+***
+
 ## &nbsp;<img src="skills/B01GM0CXSI/skill_icon" alt="Meat Thermometer icon" width="36"> [Meat Thermometer](skills/B01GM0CXSI)
 
 *Alexa, ask meat thermometer what is the best temperature for fish*
@@ -11255,6 +16175,14 @@ This skill is perfect for the everyday kitchen dish, summer bbq, or the big meal
 *Alexa, ask Meat Butler to help me prepare steak?*
 
 This butler tells the perfect internal temperature to achieve when cooking based on your meat and doneness preferences.
+
+***
+
+## &nbsp;<img src="skills/B01LF7V7NU/skill_icon" alt="Media monk icon" width="36"> [Media monk](skills/B01LF7V7NU)
+
+*Alexa, open media monk*
+
+Skill for getting information about movies and tv shows
 
 ***
 
@@ -11322,6 +16250,22 @@ Play a simple game with Alexa to test your memory!
 
 ***
 
+## &nbsp;<img src="skills/B01KCTMPJ2/skill_icon" alt="Memory Lane icon" width="36"> [Memory Lane](skills/B01KCTMPJ2)
+
+*Alexa, open Memory Lane*
+
+Relive over 100 years of history through the power of voice.
+
+***
+
+## &nbsp;<img src="skills/B01M4QAKGS/skill_icon" alt="Memory Match icon" width="36"> [Memory Match](skills/B01M4QAKGS)
+
+*Alexa, Start Memory Match*
+
+A memory game, where you try to match pairs of cards - can you get them all?
+
+***
+
 ## &nbsp;<img src="skills/B01BH1URE4/skill_icon" alt="MemoryChallenge icon" width="36"> [MemoryChallenge](skills/B01BH1URE4)
 
 *alexa, start challenge memory*
@@ -11330,19 +16274,19 @@ Come and check how good your memory is!
 
 ***
 
-## &nbsp;<img src="skills/B01EYWNYLG/skill_icon" alt="Mental Math icon" width="36"> [Mental Math](skills/B01EYWNYLG)
-
-*Alexa, start Mental Math*
-
-Test your mental math
-
-***
-
 ## &nbsp;<img src="skills/B01GOSN706/skill_icon" alt="Meow! icon" width="36"> [Meow!](skills/B01GOSN706)
 
 *Alexa, meow meow*
 
 Meow to Alexa
+
+***
+
+## &nbsp;<img src="skills/B01KSNZKUI/skill_icon" alt="Message Wall icon" width="36"> [Message Wall](skills/B01KSNZKUI)
+
+*Alexa, open message wall*
+
+This skill let users leave random messages to each other without knowing who left the previous message.
 
 ***
 
@@ -11362,14 +16306,6 @@ Skill for use with Metaswitch Accession business communications services
 
 ***
 
-## &nbsp;<img src="skills/B01B1WMJ9K/skill_icon" alt="Meteor Showers icon" width="36"> [Meteor Showers](skills/B01B1WMJ9K)
-
-*Alexa, Ask meteor showers what is happening tonight*
-
-Meteor showers tonight
-
-***
-
 ## &nbsp;<img src="skills/B01DJD0EYQ/skill_icon" alt="Metro Alerts icon" width="36"> [Metro Alerts](skills/B01DJD0EYQ)
 
 *Alexa, open Metro Alerts*
@@ -11383,6 +16319,14 @@ People of Washington, DC: want to know if there are delays on the Red Line?  Cou
 *Alexa, ask metro north track i am going from Stamford to Grand Central*
 
 Gets the train time and track number for Metro North
+
+***
+
+## &nbsp;<img src="skills/B01M7WB6IK/skill_icon" alt="Mexican Lotto icon" width="36"> [Mexican Lotto](skills/B01M7WB6IK)
+
+*Alexa, Open Mexican Lotto*
+
+Playing Mexican Lotto is like playing Mexican bingo game or in other words Loteria. Just a fun game for families.
 
 ***
 
@@ -11408,6 +16352,54 @@ Fact about mineral mica
 *Alexa, launch Michael Scott Game.*
 
 Test your knowledge of The Office characters by playing The Michael Scott Game!
+
+***
+
+## &nbsp;<img src="skills/B01M09J11B/skill_icon" alt="Michael's Facts icon" width="36"> [Michael's Facts](skills/B01M09J11B)
+
+*Alexa, start Michael's Facts*
+
+An app that provides random facts about math and history!
+
+***
+
+## &nbsp;<img src="skills/B01LLVS1V6/skill_icon" alt="Michael's Frozen Custard Flavor Finder icon" width="36"> [Michael's Frozen Custard Flavor Finder](skills/B01LLVS1V6)
+
+*Alexa, Ask Michael's Frozen Custard what the flavor is today*
+
+Michael's Frozen Custard Flavor of the Day Finder
+
+***
+
+## &nbsp;<img src="skills/B01M6Z84MB/skill_icon" alt="null" width="36"> [michaelgrundie](skills/B01M6Z84MB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M8JKJM1/skill_icon" alt="null" width="36"> [michaelgrundie](skills/B01M8JKJM1)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MEGC2HK/skill_icon" alt="null" width="36"> [michaelgrundie](skills/B01MEGC2HK)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LZN43MB/skill_icon" alt="Michaelst Test Trivia icon" width="36"> [Michaelst Test Trivia](skills/B01LZN43MB)
+
+*Alexa open michael's american trivia*
+
+Random questions about American history
 
 ***
 
@@ -11467,11 +16459,35 @@ A multiple-choice trivia game to challenging everything you think you know about
 
 ***
 
+## &nbsp;<img src="skills/B01MG6JI3W/skill_icon" alt="Middle East History icon" width="36"> [Middle East History](skills/B01MG6JI3W)
+
+*Alexa, play Middle East History*
+
+Test your knowledge about the history of Middle East, and the Persian empire.
+
+***
+
 ## &nbsp;<img src="skills/B01IV6SH68/skill_icon" alt="Miguel Soccer Trivia icon" width="36"> [Miguel Soccer Trivia](skills/B01IV6SH68)
 
 *alexa, play soccer trivia*
 
 Soccer Trivia Game
+
+***
+
+## &nbsp;<img src="skills/B01M09TXW7/skill_icon" alt="null" width="36"> [Mike Hole](skills/B01M09TXW7)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01L9VIMLW/skill_icon" alt="MIlitary Facts icon" width="36"> [MIlitary Facts](skills/B01L9VIMLW)
+
+*Alexa, open military facts*
+
+Military Facts
 
 ***
 
@@ -11539,6 +16555,14 @@ Mini Chef helps you find a tasty cooking recipe out of an ever-growing library o
 
 ***
 
+## &nbsp;<img src="skills/B01LYJPU9X/skill_icon" alt="Miniature Schnauzer Facts icon" width="36"> [Miniature Schnauzer Facts](skills/B01LYJPU9X)
+
+*"Alexa, open miniature schnauzer facts."*
+
+Informative facts about Miniature Schnauzers
+
+***
+
 ## &nbsp;<img src="skills/B01GD80OT4/skill_icon" alt="Minimum Wage Finder icon" width="36"> [Minimum Wage Finder](skills/B01GD80OT4)
 
 *Alexa, open Minimum Wage*
@@ -11595,6 +16619,14 @@ Test your knowledge of University of Missouri football. Find out if you're a tru
 
 ***
 
+## &nbsp;<img src="skills/B01JFVGZW6/skill_icon" alt="Mitch Mania Labs Trivia Game icon" width="36"> [Mitch Mania Labs Trivia Game](skills/B01JFVGZW6)
+
+*Alexa, launch MitchMania Labs trivia*
+
+A trivia game testing your knowledge of MitchMania Labs.
+
+***
+
 ## &nbsp;<img src="skills/B01DJOK2DI/skill_icon" alt="Mixologist icon" width="36"> [Mixologist](skills/B01DJOK2DI)
 
 *Alexa, ask Mixologist "How do I make an Old Fashioned?"*
@@ -11608,6 +16640,38 @@ Search among thousands of curated cocktail recipes and get full instructions for
 *Alexa, open Mixpo.*
 
 Skill to learn more about Mixpo's business health.
+
+***
+
+## &nbsp;<img src="skills/B01LXOK87J/skill_icon" alt="null" width="36"> [mKeRix](skills/B01LXOK87J)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M09Z8F2/skill_icon" alt="MLB.com Gameday Audio icon" width="36"> [MLB.com Gameday Audio](skills/B01M09Z8F2)
+
+*Alexa, open MLB.*
+
+Use MLB.com Gameday Audio to listen to every Major League Baseball game live.
+
+***
+
+## &nbsp;<img src="skills/B01N05PKSC/skill_icon" alt="null" width="36"> [MMW](skills/B01N05PKSC)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LQM8U2U/skill_icon" alt="Mobile Expert icon" width="36"> [Mobile Expert](skills/B01LQM8U2U)
+
+*Alexa Ask Mobile Expert, what are the features of iPhone 7*
+
+Use Mobile Expert  to find out information on the latest and upcoming smart phones and wearable devices.
 
 ***
 
@@ -11629,7 +16693,7 @@ Allows you to control your home using an ISY home-automation controller with Mob
 
 ## &nbsp;<img src="skills/B01H6ZKQDM/skill_icon" alt="Moblor icon" width="36"> [Moblor](skills/B01H6ZKQDM)
 
-*Alexa, ask Moblor*
+*Alexa, ask Moblor how many open opportunities do I have*
 
 Moblor is a app to connect Amazon Echo with Salesforce
 
@@ -11659,11 +16723,27 @@ Shows recipes from "Mom's Cooking," a cookbook that a mother wrote for her child
 
 ***
 
+## &nbsp;<img src="skills/B01M01Y2V1/skill_icon" alt="money Bible verses icon" width="36"> [money Bible verses](skills/B01M01Y2V1)
+
+*Alexa ask money Bible verses*
+
+This app will say a (NIV) Bible verse related to money, wealth, riches or treasures.
+
+***
+
 ## &nbsp;<img src="skills/B01FMPWMP8/skill_icon" alt="Money Converter icon" width="36"> [Money Converter](skills/B01FMPWMP8)
 
 *Alexa ask money converter how much is 100 euros in dollars*
 
 Money Converter
+
+***
+
+## &nbsp;<img src="skills/B01L4UC4E4/skill_icon" alt="Money Currency icon" width="36"> [Money Currency](skills/B01L4UC4E4)
+
+*Alexa, start money currency.*
+
+In this skill, Alexa will inform you about random country's currencies!
 
 ***
 
@@ -11747,6 +16827,14 @@ Mother Goose for Nest Control
 
 ***
 
+## &nbsp;<img src="skills/B01LW3Z0F3/skill_icon" alt="Mother Teresa Quotes icon" width="36"> [Mother Teresa Quotes](skills/B01LW3Z0F3)
+
+*Alexa, start mother teresa quotes*
+
+Mother Teresa Quotes.
+
+***
+
 ## &nbsp;<img src="skills/B01FERN1UY/skill_icon" alt="Motivate Me icon" width="36"> [Motivate Me](skills/B01FERN1UY)
 
 *Alexa, Motivate Me*
@@ -11763,11 +16851,67 @@ Start your day by saying.. 'Alexa, motivate me' and she will tell you an inspira
 
 ***
 
+## &nbsp;<img src="skills/B01M178VBQ/skill_icon" alt="Motivate Me, Please icon" width="36"> [Motivate Me, Please](skills/B01M178VBQ)
+
+*Alexa, motivate me*
+
+Ask Alexa for some motivation to get you through any task
+
+***
+
 ## &nbsp;<img src="skills/B01KF22RE4/skill_icon" alt="Motivation icon" width="36"> [Motivation](skills/B01KF22RE4)
 
 *Alexa, start give motivation*
 
 Ask Alexa for motivation to spark your inner fire.
+
+***
+
+## &nbsp;<img src="skills/B01M24VH2G/skill_icon" alt="Motivational Quote icon" width="36"> [Motivational Quote](skills/B01M24VH2G)
+
+*Alexa, Launch Motivational Quote*
+
+Listen to Motivational Quote and gain inspiration
+
+***
+
+## &nbsp;<img src="skills/B01MFFTBOB/skill_icon" alt="motivational quotes icon" width="36"> [motivational quotes](skills/B01MFFTBOB)
+
+*Alexa open motivational quotes*
+
+speaks motivational quotes
+
+***
+
+## &nbsp;<img src="skills/B01M0IF8BZ/skill_icon" alt="Motivational Quotes icon" width="36"> [Motivational Quotes](skills/B01M0IF8BZ)
+
+*Alexa, ask motivational quotes to give me a random quote*
+
+Motivational Quotes To Always Keep You Motivated
+
+***
+
+## &nbsp;<img src="skills/B01M4NFNLG/skill_icon" alt="Motivational Quotes icon" width="36"> [Motivational Quotes](skills/B01M4NFNLG)
+
+*alexa, open motivational quotes*
+
+Ask Alexa to give you a motivational quote when you need inspiration.
+
+***
+
+## &nbsp;<img src="skills/B01N8SGWZU/skill_icon" alt="Motivational Quotes icon" width="36"> [Motivational Quotes](skills/B01N8SGWZU)
+
+*Alexa, open motivational quotes*
+
+Quotes to get you motivated!
+
+***
+
+## &nbsp;<img src="skills/B01MSK5ST7/skill_icon" alt="Motivator icon" width="36"> [Motivator](skills/B01MSK5ST7)
+
+*Alexa start cheesy motivator*
+
+Reads cheesy motivational/inspirational quotes
 
 ***
 
@@ -11811,6 +16955,14 @@ Tell me a random movie fact!
 
 ***
 
+## &nbsp;<img src="skills/B01LXI38RT/skill_icon" alt="Movie Facts icon" width="36"> [Movie Facts](skills/B01LXI38RT)
+
+*Alexa, ask movie facts to tell me a fact*
+
+Want to know some interesting movie facts? Ask Alexa!
+
+***
+
 ## &nbsp;<img src="skills/B01BKVNMM0/skill_icon" alt="Movie Info icon" width="36"> [Movie Info](skills/B01BKVNMM0)
 
 *alexa, ask movie info about the magnificent seven*
@@ -11835,6 +16987,14 @@ This is a question based skill where a random movie quote is given and the user 
 
 ***
 
+## &nbsp;<img src="skills/B01LXN2TUL/skill_icon" alt="Movie Picker icon" width="36"> [Movie Picker](skills/B01LXN2TUL)
+
+*Alexa, open movie picker*
+
+Can't think of a good movie to watch? Ask Alexa
+
+***
+
 ## &nbsp;<img src="skills/B01EY1CNK0/skill_icon" alt="Movie Quiz icon" width="36"> [Movie Quiz](skills/B01EY1CNK0)
 
 *Alexa, ask Movie Quiz to start new game.*
@@ -11843,19 +17003,19 @@ Test your movie knowledge with this fun quiz.
 
 ***
 
+## &nbsp;<img src="skills/B01LYRDYT4/skill_icon" alt="Movie Quotes icon" width="36"> [Movie Quotes](skills/B01LYRDYT4)
+
+*Alexa open movie quotes*
+
+A short movie quote trivia game
+
+***
+
 ## &nbsp;<img src="skills/B017OBWZU0/skill_icon" alt="Movie Quotes Trivia Game icon" width="36"> [Movie Quotes Trivia Game](skills/B017OBWZU0)
 
 *Alexa, start Movie Quotes*
 
 Match the famous movie quote with the movie it came from.
-
-***
-
-## &nbsp;<img src="skills/B01GAJ2S0E/skill_icon" alt="Movie Score icon" width="36"> [Movie Score](skills/B01GAJ2S0E)
-
-*Alexa, open Movie Score*
-
-Tomatometer, Metascore, and IMDB ratings for current movies and DVDs.
 
 ***
 
@@ -11883,11 +17043,35 @@ Hollywood Movie Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01LYWYHJ3/skill_icon" alt="Movie Trivia icon" width="36"> [Movie Trivia](skills/B01LYWYHJ3)
+
+*Alexa, ask movie trivia*
+
+Test your movie knowledge with Movie Trivia.
+
+***
+
+## &nbsp;<img src="skills/B01M0D56CR/skill_icon" alt="Movie Trivia icon" width="36"> [Movie Trivia](skills/B01M0D56CR)
+
+*Alexa launch movie trivia*
+
+Just some movie trivia questions, all multiple choice.
+
+***
+
 ## &nbsp;<img src="skills/B01IQLN2L8/skill_icon" alt="Movie Year Quiz icon" width="36"> [Movie Year Quiz](skills/B01IQLN2L8)
 
 *Alexa ask movie award to start a game*
 
 Movie award quiz. Guess the year of the movie.
+
+***
+
+## &nbsp;<img src="skills/B01M9EFLVZ/skill_icon" alt="Movies Database icon" width="36"> [Movies Database](skills/B01M9EFLVZ)
+
+*Alexa Open movies database*
+
+Movie plot search
 
 ***
 
@@ -11932,6 +17116,22 @@ Alexa Wizard
 
 ***
 
+## &nbsp;<img src="skills/B01LXKQKQI/skill_icon" alt="Mr. Robot Fan Trivia icon" width="36"> [Mr. Robot Fan Trivia](skills/B01LXKQKQI)
+
+*Alexa, tell Mr Robot Fan Trivia to start new game.*
+
+Test your knowledge of the TV show Mr. Robot with this unofficial skill.
+
+***
+
+## &nbsp;<img src="skills/B01M7MFFRN/skill_icon" alt="MS Trivia icon" width="36"> [MS Trivia](skills/B01M7MFFRN)
+
+*Alexa, Open MS Trivia*
+
+Trivia about Microsoft
+
+***
+
 ## &nbsp;<img src="skills/B01E62XCZC/skill_icon" alt="ms.gov icon" width="36"> [ms.gov](skills/B01E62XCZC)
 
 *Alexa, ask Mississippi for a random fact*
@@ -11956,27 +17156,11 @@ Multiples is a multiplication quiz game. You are asked 5 multiplication question
 
 ***
 
-## &nbsp;<img src="skills/B01CZM0U5U/skill_icon" alt="Multiplication Challenge icon" width="36"> [Multiplication Challenge](skills/B01CZM0U5U)
-
-*Alexa, ask Multiplication Challenge to start game*
-
-Quizzes  the times tables from 1x1 to 12x12 at random.
-
-***
-
 ## &nbsp;<img src="skills/B01HLMQSUK/skill_icon" alt="Multiplication Flash Cards icon" width="36"> [Multiplication Flash Cards](skills/B01HLMQSUK)
 
 *Alexa start Multiplication Flash Cards*
 
 Multiplication Flash Cards
-
-***
-
-## &nbsp;<img src="skills/B01IAMZMB6/skill_icon" alt="Multiplication Flash Cards for Mia icon" width="36"> [Multiplication Flash Cards for Mia](skills/B01IAMZMB6)
-
-*Alexa, start Mia's Multiplication Flash Cards.*
-
-Mia's Multiplication Flash Cards
 
 ***
 
@@ -11996,14 +17180,6 @@ Test your multiplication skills with Multiplication Quiz!
 
 ***
 
-## &nbsp;<img src="skills/B01IJMKSXY/skill_icon" alt="Multiplication Table Tester icon" width="36"> [Multiplication Table Tester](skills/B01IJMKSXY)
-
-*Alexa, ask Multiplication Table Tester to start a new game*
-
-Flash Cards for basic multiplication problems
-
-***
-
 ## &nbsp;<img src="skills/B01H61PSWK/skill_icon" alt="Multiplication Tutor icon" width="36"> [Multiplication Tutor](skills/B01H61PSWK)
 
 *Alexa,  open Multi Boost and multiply 3 times 3*
@@ -12012,11 +17188,11 @@ A fun way to practice multiplication tables.   Review a given table or practice 
 
 ***
 
-## &nbsp;<img src="skills/B01I7AXO8Y/skill_icon" alt="multiplicationFacts icon" width="36"> [multiplicationFacts](skills/B01I7AXO8Y)
+## &nbsp;<img src="skills/B01LYVQLN9/skill_icon" alt="Mum Facts icon" width="36"> [Mum Facts](skills/B01LYVQLN9)
 
-*Alexa, start multiplication tables*
+*"Alexa, open mum facts."*
 
-Multiplication Skills up to 12s
+Facts about Mums
 
 ***
 
@@ -12028,11 +17204,35 @@ Fact list about mushrooms and mycology
 
 ***
 
+## &nbsp;<img src="skills/B01M0BYEVO/skill_icon" alt="Music Charts icon" width="36"> [Music Charts](skills/B01M0BYEVO)
+
+*Alexa, open Music Charts*
+
+Gets the current song and artist charts from LastFM.
+
+***
+
+## &nbsp;<img src="skills/B01LAOSFJ2/skill_icon" alt="Music Facts icon" width="36"> [Music Facts](skills/B01LAOSFJ2)
+
+*Alexa, open Music Facts*
+
+This app will tell you a random music fact
+
+***
+
 ## &nbsp;<img src="skills/B01CFXBVQ6/skill_icon" alt="Music Jokes icon" width="36"> [Music Jokes](skills/B01CFXBVQ6)
 
 *Alexa, ask Music Jokes for a joke*
 
 Musician jokes
+
+***
+
+## &nbsp;<img src="skills/B01LI1XQX2/skill_icon" alt="Music Note Quiz icon" width="36"> [Music Note Quiz](skills/B01LI1XQX2)
+
+*Alexa, open music note quiz*
+
+Listening skill builder for identifying music note key
 
 ***
 
@@ -12108,11 +17308,36 @@ Interact with your connected devices with Muzzley and Echo. Try to say to "Alexa
 
 ***
 
+## &nbsp;<img src="skills/B01LY0J0QB/skill_icon" alt="my airplane facts icon" width="36"> [my airplane facts](skills/B01LY0J0QB)
+
+*Alexa, start my airplane facts*
+
+Facts about airplanes
+
+***
+
 ## &nbsp;<img src="skills/B01IUZPUZQ/skill_icon" alt="My Airport Info icon" width="36"> [My Airport Info](skills/B01IUZPUZQ)
 
 *Alexa, ask my airport info for PDX*
 
 My Airport Info provides you with status and delays at Major US airports.
+
+***
+
+## &nbsp;<img src="skills/B01M9IFA3S/skill_icon" alt="My Applause icon" width="36"> [My Applause](skills/B01M9IFA3S)
+
+*Alexa, begin My Applause*
+
+You know you deserve some applause.  
+"Alexa, begin My Applause"
+
+***
+
+## &nbsp;<img src="skills/B01LY3JV65/skill_icon" alt="My Bicycle Facts icon" width="36"> [My Bicycle Facts](skills/B01LY3JV65)
+
+*Alexa, start my bicycle facts*
+
+Bicycle Facts
 
 ***
 
@@ -12124,11 +17349,35 @@ I'm your biggest fan. Ask me for a compliment and you'll come to realize how ama
 
 ***
 
+## &nbsp;<img src="skills/B01MAT2XV2/skill_icon" alt="My Biology Facts icon" width="36"> [My Biology Facts](skills/B01MAT2XV2)
+
+*Alexa, start my biology facts.*
+
+Fun biology facts
+
+***
+
 ## &nbsp;<img src="skills/B01CH04AGK/skill_icon" alt="My BMI icon" width="36"> [My BMI](skills/B01CH04AGK)
 
 *Alexa, open bmi teller and check my bmi*
 
 This skill enables you to find your body mass index. You can input your height in feet or centimeters and weight in pounds or kilograms.
+
+***
+
+## &nbsp;<img src="skills/B01M10YP1G/skill_icon" alt="My Board Game Facts icon" width="36"> [My Board Game Facts](skills/B01M10YP1G)
+
+*Alexa, start my board game facts*
+
+Board Game Trivia
+
+***
+
+## &nbsp;<img src="skills/B01LZQ40PV/skill_icon" alt="My Bollywood Facts icon" width="36"> [My Bollywood Facts](skills/B01LZQ40PV)
+
+*Alexa, start my bollywood facts.*
+
+Random Bollywood Facts
 
 ***
 
@@ -12145,6 +17394,30 @@ Test your knowledge of UK history, culture, and politics. Practice for the Life 
 *Alexa, ask My Calculator to add five and seven.*
 
 With My Calculator, Alexa can do all the time-consuming calculations for you. You will make less mistakes and get the answers more quickly.
+
+***
+
+## &nbsp;<img src="skills/B01LXKMY4S/skill_icon" alt="my california facts icon" width="36"> [my california facts](skills/B01LXKMY4S)
+
+*Alexa, open my california facts*
+
+Facts about California
+
+***
+
+## &nbsp;<img src="skills/B01KWGVF4G/skill_icon" alt="My Chef - Kitchen Assistant by Chefling icon" width="36"> [My Chef - Kitchen Assistant by Chefling](skills/B01KWGVF4G)
+
+*Alexa, open My Chef*
+
+My Chef is developed by Chefling, Inc. It can help you with inventory management, recipe searching, shopping list creation using a human-like interaction.
+
+***
+
+## &nbsp;<img src="skills/B01M1H8HJW/skill_icon" alt="my chemistry facts icon" width="36"> [my chemistry facts](skills/B01M1H8HJW)
+
+*Alexa, start my chemistry facts*
+
+Fun Chemistry Facts
 
 ***
 
@@ -12180,6 +17453,30 @@ My Dermatologist is designed for your skin health. At My Dermatologist we will p
 
 ***
 
+## &nbsp;<img src="skills/B01N3Q9TSD/skill_icon" alt="My Dog Facts icon" width="36"> [My Dog Facts](skills/B01N3Q9TSD)
+
+*Alexa, ask doggo trivia to give me a dog fact*
+
+Ever find yourself itching to learn some random facts about dogs? Ever wonder how amazing dogs can be? Looking to pass time? This is the skill set for you!
+
+***
+
+## &nbsp;<img src="skills/B01LYF7T2L/skill_icon" alt="my earth facts icon" width="36"> [my earth facts](skills/B01LYF7T2L)
+
+*Alexa, start my earth facts.*
+
+Earth Facts
+
+***
+
+## &nbsp;<img src="skills/B01LWX3TFV/skill_icon" alt="my fashion facts icon" width="36"> [my fashion facts](skills/B01LWX3TFV)
+
+*Alexa, start my fashion facts*
+
+Fun fashion facts
+
+***
+
 ## &nbsp;<img src="skills/B01L2X2O4S/skill_icon" alt="my Favorite Restaurants icon" width="36"> [my Favorite Restaurants](skills/B01L2X2O4S)
 
 *Alexa, start my Favorite Restaurants*
@@ -12196,6 +17493,62 @@ Omaha Trivia Game. Alexa, launch Omaha Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01M1CMNJX/skill_icon" alt="My Food Facts icon" width="36"> [My Food Facts](skills/B01M1CMNJX)
+
+*Alexa, start my food facts*
+
+Facts about food
+
+***
+
+## &nbsp;<img src="skills/B01M3PUANV/skill_icon" alt="My Fungi Facts icon" width="36"> [My Fungi Facts](skills/B01M3PUANV)
+
+*Alexa, start my fungi facts*
+
+My Fungi Facts
+
+***
+
+## &nbsp;<img src="skills/B01L1838IA/skill_icon" alt="My Government icon" width="36"> [My Government](skills/B01L1838IA)
+
+*Alexa, ask My Government who represents me*
+
+Find out who represents you in Washington DC, even if you don't know which district you live in!
+
+***
+
+## &nbsp;<img src="skills/B01LYQYE44/skill_icon" alt="My Hamster Facts icon" width="36"> [My Hamster Facts](skills/B01LYQYE44)
+
+*Alexa, start my hamster facts*
+
+My Hamster Facts
+
+***
+
+## &nbsp;<img src="skills/B01N0C0SI3/skill_icon" alt="My Health Coach icon" width="36"> [My Health Coach](skills/B01N0C0SI3)
+
+*Alexa, open My Health Coach*
+
+My Health Coach
+
+***
+
+## &nbsp;<img src="skills/B01J2S3O44/skill_icon" alt="My home icon" width="36"> [My home](skills/B01J2S3O44)
+
+*Alexa ask home security to switch on security camera*
+
+My home security
+
+***
+
+## &nbsp;<img src="skills/B01M35JXA4/skill_icon" alt="My Horoscope icon" width="36"> [My Horoscope](skills/B01M35JXA4)
+
+*Alexa, open My Horoscope and give me my daily horoscope*
+
+'My Horoscope' allows you to get your daily, monthly, yearly horoscopes based on the date of birth you input while setting up the skill (for the first time).
+
+***
+
 ## &nbsp;<img src="skills/B01L1BCCK2/skill_icon" alt="My India Facts icon" width="36"> [My India Facts](skills/B01L1BCCK2)
 
 *Alexa, open My India facts*
@@ -12204,11 +17557,27 @@ The skills gives some facts about the country India
 
 ***
 
-## &nbsp;<img src="skills/B01JG4CN4Q/skill_icon" alt="My Inner Princess icon" width="36"> [My Inner Princess](skills/B01JG4CN4Q)
+## &nbsp;<img src="skills/B01M0LSOZM/skill_icon" alt="My Interesting Cat facts icon" width="36"> [My Interesting Cat facts](skills/B01M0LSOZM)
 
-*Alexa, Ask My Inner Princess What is the Princess for Taurus*
+*Alexa, ask cat facts to give me a cool cat fact*
 
-My Inner Princess is a skill that tells you what Princess you are most like based on your zodiac sign.
+Fun facts about cats.
+
+***
+
+## &nbsp;<img src="skills/B01LZBCKFY/skill_icon" alt="My interesting dog facts icon" width="36"> [My interesting dog facts](skills/B01LZBCKFY)
+
+*Alexa, ask dog facts to give me a cool dog fact*
+
+Interesting dog facts
+
+***
+
+## &nbsp;<img src="skills/B01LXZPGUK/skill_icon" alt="My Interesting Motorcycle Facts icon" width="36"> [My Interesting Motorcycle Facts](skills/B01LXZPGUK)
+
+*Alexa, ask motorcycle fact to give me a cool motorcycle fact*
+
+Cool Motor Cycle Facts
 
 ***
 
@@ -12236,11 +17605,35 @@ A simple scratchpad of things you want to remember, and what day you did them.
 
 ***
 
+## &nbsp;<img src="skills/B01LX4B0UG/skill_icon" alt="My Modern Art Facts icon" width="36"> [My Modern Art Facts](skills/B01LX4B0UG)
+
+*Alexa, start my modern art facts*
+
+Modern Art Facts
+
+***
+
+## &nbsp;<img src="skills/B01M7MJG7V/skill_icon" alt="My Ocean Facts icon" width="36"> [My Ocean Facts](skills/B01M7MJG7V)
+
+*Alexa, open my ocean facts*
+
+Fun Ocean Facts
+
+***
+
 ## &nbsp;<img src="skills/B01JB6QY1C/skill_icon" alt="My Pillbox icon" width="36"> [My Pillbox](skills/B01JB6QY1C)
 
 *Alexa, open my pillbox*
 
 My Pillbox, helping parents or friends understand teenage prescription drug abuse.
+
+***
+
+## &nbsp;<img src="skills/B01M4FLHDT/skill_icon" alt="my Plant Trivia icon" width="36"> [my Plant Trivia](skills/B01M4FLHDT)
+
+*Alexa, start my plant trivia.*
+
+Plant Trivia
 
 ***
 
@@ -12252,11 +17645,43 @@ BabyCenter’s My Pregnancy gives you detailed weekly updates about how your bab
 
 ***
 
+## &nbsp;<img src="skills/B01LOW6C4U/skill_icon" alt="My Pundit by Rhiza icon" width="36"> [My Pundit by Rhiza](skills/B01LOW6C4U)
+
+*Alexa, ask My Pundit who is winning?*
+
+Keep up to date on the latest polls in the 2016 U.S. Presidential Race!
+
+***
+
+## &nbsp;<img src="skills/B01LYIPFAR/skill_icon" alt="My Recipes icon" width="36"> [My Recipes](skills/B01LYIPFAR)
+
+*Alexa, ask my recipes how do you make salsa*
+
+Ask Alexa for the ingredients to my favorite recipes
+
+***
+
 ## &nbsp;<img src="skills/B01ISJ9BYA/skill_icon" alt="My Sensei icon" width="36"> [My Sensei](skills/B01ISJ9BYA)
 
 *Alexa, ask my sensei for a quote*
 
 My Sensei is a skill that gives you many inspirational quotes
+
+***
+
+## &nbsp;<img src="skills/B01L60UDKE/skill_icon" alt="My Skill Fact icon" width="36"> [My Skill Fact](skills/B01L60UDKE)
+
+*Alexa, Open Cosmic Fortune*
+
+A fortune teller that will tell you a random fortune.
+
+***
+
+## &nbsp;<img src="skills/B01M60PZYT/skill_icon" alt="my solar power facts icon" width="36"> [my solar power facts](skills/B01M60PZYT)
+
+*Alexa, start my solar power facts*
+
+Solar Power Facts
 
 ***
 
@@ -12268,11 +17693,52 @@ Find out what your spirit animal is at that time. This will help guide decisions
 
 ***
 
+## &nbsp;<img src="skills/B01LZHZSAQ/skill_icon" alt="My Steak Facts icon" width="36"> [My Steak Facts](skills/B01LZHZSAQ)
+
+*Alexa, open my steak facts.*
+
+Facts about cooking steak gives facts about cooking steak.
+
+***
+
+## &nbsp;<img src="skills/B01M0Y05YU/skill_icon" alt="my sun facts icon" width="36"> [my sun facts](skills/B01M0Y05YU)
+
+*Alexa, start my sun facts*
+
+Facts about the sun
+
+***
+
+## &nbsp;<img src="skills/B01M2TY3UA/skill_icon" alt="my surfing facts icon" width="36"> [my surfing facts](skills/B01M2TY3UA)
+
+*Alexa, start my surfing facts.*
+
+Surfing Facts
+
+***
+
 ## &nbsp;<img src="skills/B01IC7ZS0O/skill_icon" alt="My Tarot icon" width="36"> [My Tarot](skills/B01IC7ZS0O)
 
 *Alexa, ask My Tarot to draw a card*
 
 Enable this skill to have voice access to a full Rider-Waite tarot deck to add insight to your day or life situations.
+
+***
+
+## &nbsp;<img src="skills/B01M9BOOVB/skill_icon" alt="My Thai Kitchen icon" width="36"> [My Thai Kitchen](skills/B01M9BOOVB)
+
+*Alexa, ask My Thai Kitchen*
+
+There are many people who love Thai food, but they don't know what to eat.
+They order the same things all the time. The skill can give you some Thai dishes.
+
+***
+
+## &nbsp;<img src="skills/B01M8LZ0RT/skill_icon" alt="My Train icon" width="36"> [My Train](skills/B01M8LZ0RT)
+
+*Alexa, open my train*
+
+Provides live schedule information on a Northern Ireland direct train journey of your choice.
 
 ***
 
@@ -12289,6 +17755,22 @@ Use your Echo to translate words and phrases.
 *Alexa, play my Trivia*
 
 A simple trivia based quiz app
+
+***
+
+## &nbsp;<img src="skills/B01M10YDDQ/skill_icon" alt="My Turtle Facts icon" width="36"> [My Turtle Facts](skills/B01M10YDDQ)
+
+*Alexa, start my turtle facts*
+
+Facts about turtles
+
+***
+
+## &nbsp;<img src="skills/B01LZK17SN/skill_icon" alt="My Wine Fact icon" width="36"> [My Wine Fact](skills/B01LZK17SN)
+
+*Alexa, open my wine fact*
+
+Wine Fact provides random fact to educate curious user.
 
 ***
 
@@ -12332,6 +17814,14 @@ random facts for the sponge bob cartoon character
 
 ***
 
+## &nbsp;<img src="skills/B01KX83VJA/skill_icon" alt="Myfox Security icon" width="36"> [Myfox Security](skills/B01KX83VJA)
+
+*Alexa, ask Myfox to arm the alarm*
+
+Command your Myfox Home Alarm and Myfox Security Camera using Alexa; arm, disarm, open the Camera shutter, listen the latest events or enable the night mode.
+
+***
+
 ## &nbsp;<img src="skills/B01JRU55QM/skill_icon" alt="myGorgeousTrainer icon" width="36"> [myGorgeousTrainer](skills/B01JRU55QM)
 
 *Alexa, ask my gorgeous trainer to give me a chest workout*
@@ -12353,6 +17843,14 @@ Gives health facts or tips
 *Alexa , open  i. o. t. fact*
 
 I.O.T Facts , the app gives you quick facts about Internet of Things or I.O.T
+
+***
+
+## &nbsp;<img src="skills/B01MAWGFIG/skill_icon" alt="myLinguisticFacts icon" width="36"> [myLinguisticFacts](skills/B01MAWGFIG)
+
+*Alexa Open My Linguistic Facts*
+
+Facts about Linguistics
 
 ***
 
@@ -12420,6 +17918,14 @@ Explore a mysterious castle, collecting items and solving puzzles.
 
 ***
 
+## &nbsp;<img src="skills/B01I97GPNQ/skill_icon" alt="Mystic Mirror icon" width="36"> [Mystic Mirror](skills/B01I97GPNQ)
+
+*Alexa ask mystic mirror what is the weather in Dallas Texas*
+
+The Mystic Mirror skill provides helpful information to a user as they start their day - such as weather, traffic, and major news stories.
+
+***
+
 ## &nbsp;<img src="skills/B01FOPC2G0/skill_icon" alt="Mythical Unicorn Trivia icon" width="36"> [Mythical Unicorn Trivia](skills/B01FOPC2G0)
 
 *Alexa, Start Mythical Unicorn Trivia*
@@ -12452,11 +17958,35 @@ NYC Status give info about parking rules, school closings and garbage collection
 
 ***
 
+## &nbsp;<img src="skills/B01LYZIRDE/skill_icon" alt="Nag A Ram icon" width="36"> [Nag A Ram](skills/B01LYZIRDE)
+
+*Alexa start Nag A Ram*
+
+NagARam allows you to ask Alexa for an anagram for over 20,000 words and she will return the best anagram.
+
+***
+
+## &nbsp;<img src="skills/B01J0MSMNK/skill_icon" alt="Nag My Kids icon" width="36"> [Nag My Kids](skills/B01J0MSMNK)
+
+*Alexa, tell those kids to brush their teeth*
+
+Tired of nagging your kids? Have Alexa nag them for you!
+
+***
+
 ## &nbsp;<img src="skills/B01I7RDOLE/skill_icon" alt="Naked Lunch icon" width="36"> [Naked Lunch](skills/B01I7RDOLE)
 
 *Alexa Ask Naked Lunch to start game*
 
 A match the song to the album game for Steely Dan.
+
+***
+
+## &nbsp;<img src="skills/B01MA3HKC3/skill_icon" alt="Name 10 icon" width="36"> [Name 10](skills/B01MA3HKC3)
+
+*Alexa, start Name 10.*
+
+Alexa challenges you to name ten things!
 
 ***
 
@@ -12508,11 +18038,11 @@ Cool facts about Bangalore
 
 ***
 
-## &nbsp;<img src="skills/B01EKKF81Q/skill_icon" alt="Nanny State icon" width="36"> [Nanny State](skills/B01EKKF81Q)
+## &nbsp;<img src="skills/B01KCXTY7Y/skill_icon" alt="Narcissism Test icon" width="36"> [Narcissism Test](skills/B01KCXTY7Y)
 
-*Alexa ask nanny state if I can have screentime*
+*Alexa, start Narcissism Test*
 
-Kids can ask Alexa whether or not they can have screen time instead of pestering a parent.
+Narcissism Test
 
 ***
 
@@ -12532,6 +18062,14 @@ National Day Tracker is a comprehensive database of national observances. Discov
 
 ***
 
+## &nbsp;<img src="skills/B01M746MUF/skill_icon" alt="National Forest Trivia icon" width="36"> [National Forest Trivia](skills/B01M746MUF)
+
+*Alexa, open national forest trivia*
+
+Interested in testing your knowledge of our incredible National Forests?  Give this trivia quiz a try and see how well you do!
+
+***
+
 ## &nbsp;<img src="skills/B01HU7B2NO/skill_icon" alt="National Park Facts icon" width="36"> [National Park Facts](skills/B01HU7B2NO)
 
 *Alexa, ask national park facts to give me a national park fact*
@@ -12540,11 +18078,59 @@ Learn fun facts about the United States National Parks!  Ask Alexa for a Nationa
 
 ***
 
+## &nbsp;<img src="skills/B01M7YD2R2/skill_icon" alt="National Park Finder icon" width="36"> [National Park Finder](skills/B01M7YD2R2)
+
+*Alexa Open NationalParkFInder*
+
+Find National Parks by state
+
+***
+
+## &nbsp;<img src="skills/B01LYUZ3TY/skill_icon" alt="National Park Trivia icon" width="36"> [National Park Trivia](skills/B01LYUZ3TY)
+
+*Alexa Open National Park Trivia*
+
+Test your knowledge of US National parks!
+
+***
+
+## &nbsp;<img src="skills/B01L3SZ4MG/skill_icon" alt="National parks icon" width="36"> [National parks](skills/B01L3SZ4MG)
+
+*Alexa, open national parks*
+
+This skill gives a list of National Parks in the USA by State
+
+***
+
 ## &nbsp;<img src="skills/B01I8FXZIC/skill_icon" alt="National Parks Quiz icon" width="36"> [National Parks Quiz](skills/B01I8FXZIC)
 
 *Alexa, open national parks quiz.*
 
 A simple quiz on National Parks.
+
+***
+
+## &nbsp;<img src="skills/B01LXL4G34/skill_icon" alt="National Rail icon" width="36"> [National Rail](skills/B01LXL4G34)
+
+*Alexa, launch National Rail.*
+
+Check your commute or plan a journey with the National Rail skill on Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01MCZ5WMI/skill_icon" alt="Nationwide icon" width="36"> [Nationwide](skills/B01MCZ5WMI)
+
+*Alexa, open Nationwide.*
+
+Need car insurance? Learn more about the auto insurance products offered by Nationwide. Get common product definitions and contact information for a quote.
+
+***
+
+## &nbsp;<img src="skills/B01M0RX0ZW/skill_icon" alt="Natural Archive icon" width="36"> [Natural Archive](skills/B01M0RX0ZW)
+
+*Alexa, ask Natural Archive for the list of available remedies*
+
+Natural Archive is a skill that allows you to ask for a variety of natural remedies for common health issues or treatments advices.
 
 ***
 
@@ -12580,6 +18166,14 @@ Nautical Terms quiz gives a nautical term definition with 4 possible terms to pi
 
 ***
 
+## &nbsp;<img src="skills/B01HOQ5PBQ/skill_icon" alt="Navigation Ninja icon" width="36"> [Navigation Ninja](skills/B01HOQ5PBQ)
+
+*Alexa, ask Nav Ninja to find the distance between Dallas, Texas and Seattle, Washington by car*
+
+Ever wonder how far away a place is or how long it takes to get there? Ask a Ninja!
+
+***
+
 ## &nbsp;<img src="skills/B01GFGQ4TI/skill_icon" alt="Navy Wars icon" width="36"> [Navy Wars](skills/B01GFGQ4TI)
 
 *Alexa open Navy Wars*
@@ -12606,17 +18200,66 @@ NBC lets you connect to your favorite NBC shows with the power of your voice. Fi
 
 ## &nbsp;<img src="skills/B01C7SGG3M/skill_icon" alt="NBC News icon" width="36"> [NBC News](skills/B01C7SGG3M)
 
-*Alexa, ask NBC News for Ohio Democratic primary results*
+*Alexa, ask NBC News for current political news*
 
 NBC News 2016 United States presidential elections information.
 
 ***
 
-## &nbsp;<img src="skills/B01I792DEQ/skill_icon" alt="nebraska facts icon" width="36"> [nebraska facts](skills/B01I792DEQ)
+## &nbsp;<img src="skills/B01J9R6FB2/skill_icon" alt="Neo - Voice Analytic solution for Shopify icon" width="36"> [Neo - Voice Analytic solution for Shopify](skills/B01J9R6FB2)
 
-*Alexa, ask Nebraska facts for a fact.*
+*Alexa, ask Neo to tell me total sales this week*
 
-A skill to get random facts about Nebraska.
+Instant Voice Analytic solution for Shopify. Ask Neo in your own language about sales, product or customer of your own store.
+
+***
+
+## &nbsp;<img src="skills/B01MCUSW7S/skill_icon" alt="Neo Random icon" width="36"> [Neo Random](skills/B01MCUSW7S)
+
+*Alexa Open neo random*
+
+Neo Random let's you generate a random number from 0 to 100.
+If you need a quickly number, just use Neo Random and enjoy.
+
+***
+
+## &nbsp;<img src="skills/B01MA503UA/skill_icon" alt="Neo Trivia icon" width="36"> [Neo Trivia](skills/B01MA503UA)
+
+*Alexa open neo trivia*
+
+Are you bored? Just play with Neo Trivia, our technological game with questions about Alexa, FireOS, Android, iOS... and enjoy.
+
+***
+
+## &nbsp;<img src="skills/B01M723P1A/skill_icon" alt="null" width="36"> [Neolotto ](skills/B01M723P1A)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MPXMDDD/skill_icon" alt="null" width="36"> [Neolotto ](skills/B01MPXMDDD)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MQ1MV8C/skill_icon" alt="null" width="36"> [Neolotto ](skills/B01MQ1MV8C)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LXLLUXG/skill_icon" alt="Nepal Facts icon" width="36"> [Nepal Facts](skills/B01LXLLUXG)
+
+*Alexa Open Nepal Facts*
+
+Nepal Facts
 
 ***
 
@@ -12636,11 +18279,43 @@ This skill gives a nerdy pickup line when asked.
 
 ***
 
+## &nbsp;<img src="skills/B01M8QLWTM/skill_icon" alt="NessieFacts icon" width="36"> [NessieFacts](skills/B01M8QLWTM)
+
+*Alexa open nessie facts*
+
+Alexa give me a nessie fact
+
+***
+
 ## &nbsp;<img src="skills/B01EIQW9LY/skill_icon" alt="Nest icon" width="36"> [Nest](skills/B01EIQW9LY)
 
 *There are no example interactions for this skill.*
 
 Alexa and Nest work together to help you set the perfect temperature - without having to lift a finger.
+
+***
+
+## &nbsp;<img src="skills/B01LXYILGF/skill_icon" alt="null" width="36"> [Nest Labs, Inc.](skills/B01LXYILGF)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01KOYJ6WY/skill_icon" alt="Net10 icon" width="36"> [Net10](skills/B01KOYJ6WY)
+
+*Alexa, Ask Net TEN to Add Airtime*
+
+Have a Net10 Wireless Smartphone? Then this skill will make it easy for you to get the most out of your smartphone.
+
+***
+
+## &nbsp;<img src="skills/B01LZJ8S4R/skill_icon" alt="Netatmo Energy icon" width="36"> [Netatmo Energy](skills/B01LZJ8S4R)
+
+*There are no example interactions for this skill.*
+
+"Alexa, set my thermostat to 20°C"
 
 ***
 
@@ -12724,6 +18399,14 @@ How well do you know your New York Basketball? Prove it by scoring big on this 1
 
 ***
 
+## &nbsp;<img src="skills/B01KTVYLY0/skill_icon" alt="New York City SAT Scores icon" width="36"> [New York City SAT Scores](skills/B01KTVYLY0)
+
+*Alexa, ask, s. a. t. for county Manhattan*
+
+Know the latest (2012) average SAT scores of New York City Schools. Search by Borough or get Top performing schools.  Alexa ask, s. a. t. for math scores
+
+***
+
 ## &nbsp;<img src="skills/B01INNFJPG/skill_icon" alt="New York Green Markets icon" width="36"> [New York Green Markets](skills/B01INNFJPG)
 
 *Alexa, ask Green Markets for county Westchester*
@@ -12748,6 +18431,14 @@ The New York Running Calendar app helps you find the next organized running race
 
 ***
 
+## &nbsp;<img src="skills/B01LYKPXJX/skill_icon" alt="New York State Facts icon" width="36"> [New York State Facts](skills/B01LYKPXJX)
+
+*Alexa Open New York Facts*
+
+Fun Facts about New York State
+
+***
+
 ## &nbsp;<img src="skills/B01H66VDJ2/skill_icon" alt="Newfoundland Dog Facts icon" width="36"> [Newfoundland Dog Facts](skills/B01H66VDJ2)
 
 *Alexa ask new found land dog facts to give me a new fact*
@@ -12762,6 +18453,22 @@ Informative facts about the Newfoundland Dogs
 
 You can listen to personalized news about topics you choose from around the web. 
 For example: Alexa, ask Outbrain about the latest sports news
+
+***
+
+## &nbsp;<img src="skills/B01MG3TYN6/skill_icon" alt="News Buddy icon" width="36"> [News Buddy](skills/B01MG3TYN6)
+
+*alexa, open News Buddy*
+
+Read headlines and complete articles from Google News
+
+***
+
+## &nbsp;<img src="skills/B01M6WJWG4/skill_icon" alt="News Feed icon" width="36"> [News Feed](skills/B01M6WJWG4)
+
+*Alexa Ask News Feed What is the latest on the presidential elections*
+
+Get instant updates on the most recent news, on any topic you're interested in.
 
 ***
 
@@ -12789,11 +18496,35 @@ Control your Nexia devices with Alexa
 
 ***
 
+## &nbsp;<img src="skills/B01JTRAHCK/skill_icon" alt="Next President icon" width="36"> [Next President](skills/B01JTRAHCK)
+
+*Alexa, ask Next President what does Trump think about immigration?*
+
+Ask Next President what Clinton or Trump thinks about a political issue.
+
+***
+
 ## &nbsp;<img src="skills/B01DVRYVYE/skill_icon" alt="Next Train for Caltrain icon" width="36"> [Next Train for Caltrain](skills/B01DVRYVYE)
 
 *Alexa, Ask The Next Train from Palo Alto to San Francisco*
 
 Real-time info on the next Caltrain
+
+***
+
+## &nbsp;<img src="skills/B01MFHYE75/skill_icon" alt="Nica Facts icon" width="36"> [Nica Facts](skills/B01MFHYE75)
+
+*Alexa, open nica facts*
+
+Learn amazing facts from Nicaragua culture, geography and history with this great skill.
+
+***
+
+## &nbsp;<img src="skills/B01LZLFT9Y/skill_icon" alt="Nice words icon" width="36"> [Nice words](skills/B01LZLFT9Y)
+
+*Alexa, open nice words*
+
+Nice words
 
 ***
 
@@ -12813,6 +18544,14 @@ Nigeria Facts, tells you some basic facts about Nigeria
 
 ***
 
+## &nbsp;<img src="skills/B01MCUDBVP/skill_icon" alt="Night Light icon" width="36"> [Night Light](skills/B01MCUDBVP)
+
+*Alexa, tell night light to turn on*
+
+Turn Alexa into a nightlight.
+
+***
+
 ## &nbsp;<img src="skills/B01C9GR7YY/skill_icon" alt="Nikola Tesla Trivia icon" width="36"> [Nikola Tesla Trivia](skills/B01C9GR7YY)
 
 *Alexa, ask Nikola Tesla*
@@ -12829,11 +18568,35 @@ Nim is a simple game played with piles of objects. The objective is to beat the 
 
 ***
 
+## &nbsp;<img src="skills/B01LIW03KA/skill_icon" alt="Nim with Lights icon" width="36"> [Nim with Lights](skills/B01LIW03KA)
+
+*Alexa, start nim lights and open instructions*
+
+Nim is a simple game played with piles of objects. The objective is to beat the other player by taking the last available object.
+
+***
+
+## &nbsp;<img src="skills/B01M9H2EO8/skill_icon" alt="Nine Eleven Facts icon" width="36"> [Nine Eleven Facts](skills/B01M9H2EO8)
+
+*Alexa, open nine eleven facts*
+
+Facts about September 11, 2001
+
+***
+
 ## &nbsp;<img src="skills/B01KDEGF42/skill_icon" alt="Nine month old baby facts icon" width="36"> [Nine month old baby facts](skills/B01KDEGF42)
 
 *Alexa, ask nine month old baby facts to tell me something about my nine month old baby*
 
 Tells users a brief general fact about 3 month old babies.
+
+***
+
+## &nbsp;<img src="skills/B01M0MS0K0/skill_icon" alt="Niners Suck icon" width="36"> [Niners Suck](skills/B01M0MS0K0)
+
+*Alexa Ask Niners Suck why the niners are the worst team in the NFL*
+
+An insult skill to provide humorous insults for the San Francisco 49ers football team. This skill is not sponsored or endorsed by San Francisco 49ers.
 
 ***
 
@@ -12845,6 +18608,14 @@ Looks up the NJ Transit MyBus schedule to find out when the next few buses are a
 
 ***
 
+## &nbsp;<img src="skills/B01M4RCNFX/skill_icon" alt="No from Around the World icon" width="36"> [No from Around the World](skills/B01M4RCNFX)
+
+*Alexa, teach me no*
+
+Learn to say "No" in many Languages!
+
+***
+
 ## &nbsp;<img src="skills/B01GGINX3U/skill_icon" alt="Nocturnal Ninja icon" width="36"> [Nocturnal Ninja](skills/B01GGINX3U)
 
 *Alexa, ask Nocturnal Ninja who is on The Late Show*
@@ -12853,11 +18624,11 @@ Your guide to guest information on late night talk shows
 
 ***
 
-## &nbsp;<img src="skills/B01HBI4FIQ/skill_icon" alt="null" width="36"> [nomos system AG](skills/B01HBI4FIQ)
+## &nbsp;<img src="skills/B01HBI4FIQ/skill_icon" alt="nomos system icon" width="36"> [nomos system](skills/B01HBI4FIQ)
 
 *There are no example interactions for this skill.*
 
-null
+Control nomos, the swiss army knife of automation with Alexa.
 
 ***
 
@@ -12882,6 +18653,14 @@ Noodle It Out is a trivia game for all foodies!
 *Alexa ask Nordic Runes for a rune*
 
 Pick a Nordic Rune
+
+***
+
+## &nbsp;<img src="skills/B01M7T4ENV/skill_icon" alt="Norse Mythology icon" width="36"> [Norse Mythology](skills/B01M7T4ENV)
+
+*Alexa, open norse mythology*
+
+Provides some simple facts about Norse mythology
 
 ***
 
@@ -12914,6 +18693,14 @@ North Wales Facts
 *Alexa ask Northbridge History for a fact*
 
 Northbridge MA history facts describing the early settlement and industrial development
+
+***
+
+## &nbsp;<img src="skills/B01M3RPKCI/skill_icon" alt="Northern Ireland Inventions icon" width="36"> [Northern Ireland Inventions](skills/B01M3RPKCI)
+
+*Alexa, open Northern Ireland Inventions*
+
+A fun selection of Northern Ireland inventions.
 
 ***
 
@@ -12981,6 +18768,14 @@ Tell Number Fun any number and it will tell you a random fact pertaining to that
 
 ***
 
+## &nbsp;<img src="skills/B01M68WS0V/skill_icon" alt="Number Guessing Game icon" width="36"> [Number Guessing Game](skills/B01M68WS0V)
+
+*Alexa, begin Guessing Game*
+
+Play a number guessing game with Alexa
+
+***
+
 ## &nbsp;<img src="skills/B01IR7S2J8/skill_icon" alt="Number of Districts in Indian Sates icon" width="36"> [Number of Districts in Indian Sates](skills/B01IR7S2J8)
 
 *Alexa start indian state district quiz*
@@ -13037,6 +18832,14 @@ Nutrition Facts
 
 ***
 
+## &nbsp;<img src="skills/B01M3P8BA7/skill_icon" alt="NYC City Tours icon" width="36"> [NYC City Tours](skills/B01M3P8BA7)
+
+*Alexa Ask City Tour for Tours*
+
+Ask NYC City Tours what city sponsored tours are upcoming. You can also ask for the next special event sponsored by NYC.
+
+***
+
 ## &nbsp;<img src="skills/B01FZV978Y/skill_icon" alt="NYC Eats icon" width="36"> [NYC Eats](skills/B01FZV978Y)
 
 *Alexa, ask N. Y. C. Eats for a suggestion*
@@ -13069,11 +18872,27 @@ Ask me New York City subway status.
 
 ***
 
+## &nbsp;<img src="skills/B01LXDZCA2/skill_icon" alt="Oatmeal Facts icon" width="36"> [Oatmeal Facts](skills/B01LXDZCA2)
+
+*Alexa open oatmeal facts*
+
+Oatmeal facts
+
+***
+
 ## &nbsp;<img src="skills/B01FR8XLP0/skill_icon" alt="object oriented programming trivia icon" width="36"> [object oriented programming trivia](skills/B01FR8XLP0)
 
 *Alexa, Start Object Oriented trivia*
 
 Interesting fact of Object Oriented Programing
+
+***
+
+## &nbsp;<img src="skills/B01M5ISOZB/skill_icon" alt="Oblique Strategies icon" width="36"> [Oblique Strategies](skills/B01M5ISOZB)
+
+*Alexa ask Oblique Strategies for a strategy*
+
+Ask Alexa for an oblique strategy to help you solve a problem.
 
 ***
 
@@ -13090,6 +18909,22 @@ OC Transpo
 *Alexa, start ocean facts*
 
 A skill to provide users with various facts about the ocean.
+
+***
+
+## &nbsp;<img src="skills/B01MQ044Q4/skill_icon" alt="Ocean Facts icon" width="36"> [Ocean Facts](skills/B01MQ044Q4)
+
+*Alexa Open ocean facts*
+
+Are you interested in oceans? Just use Ocean Facts to know about the oceans.
+
+***
+
+## &nbsp;<img src="skills/B01M5E92TH/skill_icon" alt="Ocean Sounds icon" width="36"> [Ocean Sounds](skills/B01M5E92TH)
+
+*Alexa, open ocean sounds*
+
+Ambient noise of small ocean waves to help you focus, sleep, or relax.
 
 ***
 
@@ -13125,19 +18960,35 @@ OEIS: The On-Line Encyclopedia of Integer Sequences
 
 ***
 
-## &nbsp;<img src="skills/B01EID7KVQ/skill_icon" alt="Office Assistant icon" width="36"> [Office Assistant](skills/B01EID7KVQ)
-
-*Alexa ask office assistant*
-
-Office Assistant Skill:-This aims at providing facility to find Mobile Number of Client
-
-***
-
 ## &nbsp;<img src="skills/B01K6GETXQ/skill_icon" alt="Office Friends Trivia icon" width="36"> [Office Friends Trivia](skills/B01K6GETXQ)
 
 *Alexa, ask Office Friends Trivia to start new game*
 
 Test your knowledge of the The Office (US version) TV series with Office Friends Trivia.
+
+***
+
+## &nbsp;<img src="skills/B01LH1FZQ4/skill_icon" alt="Oh Baby A Three icon" width="36"> [Oh Baby A Three](skills/B01LH1FZQ4)
+
+*Alexa, launch oh baby a three*
+
+Oh baby a three brings back the best memories of triples
+
+***
+
+## &nbsp;<img src="skills/B01M6YUTQL/skill_icon" alt="Oingo Boingo Fan Facts icon" width="36"> [Oingo Boingo Fan Facts](skills/B01M6YUTQL)
+
+*Alexa, start Oingo Boingo Fan Facts*
+
+Oingo Boingo Fan Facts
+
+***
+
+## &nbsp;<img src="skills/B01MQF0HW4/skill_icon" alt="Oklahoma Trivia icon" width="36"> [Oklahoma Trivia](skills/B01MQF0HW4)
+
+*Alexa, open Oklahoma Trivia*
+
+Simple, fun trivia game about Oklahoma.
 
 ***
 
@@ -13149,19 +19000,27 @@ The Viking Havamals were bits of wisdom collected from the Norse.
 
 ***
 
-## &nbsp;<img src="skills/B01I4K4SRI/skill_icon" alt="Old MacDonald icon" width="36"> [Old MacDonald](skills/B01I4K4SRI)
-
-*Alexa, ask Old MacDonald for a duck*
-
-Bring the classic nursery rhyme to life with this fun interactive skill for animal lovers of all ages.  Moo!
-
-***
-
 ## &nbsp;<img src="skills/B01IZ5NERC/skill_icon" alt="olympus mountain helper icon" width="36"> [olympus mountain helper](skills/B01IZ5NERC)
 
 *Alexa, ask olympus mountain what is the elevation?*
 
 Mount Olympus Helper is a skill that can assist you in learning about the characteristics of Mount Olympus in Utah.
+
+***
+
+## &nbsp;<img src="skills/B01LXR7P2P/skill_icon" alt="Olympus Quiz icon" width="36"> [Olympus Quiz](skills/B01LXR7P2P)
+
+*Alexa start olympus quiz*
+
+Take a quiz to determine which Greek God you are most like.
+
+***
+
+## &nbsp;<img src="skills/B01MDUALCD/skill_icon" alt="Omaha Severe icon" width="36"> [Omaha Severe](skills/B01MDUALCD)
+
+*Alexa, ask Omaha Severe if I'm in severe weather.*
+
+Will read the current severe weather conditions for Omaha Douglas County Nebraska.
 
 ***
 
@@ -13213,11 +19072,27 @@ Real-time transit information for Atlanta, Rogue Valley, San Diego, Seattle/Taco
 
 ***
 
+## &nbsp;<img src="skills/B01M0YTDRA/skill_icon" alt="Only Facts icon" width="36"> [Only Facts](skills/B01M0YTDRA)
+
+*Alexa, open only facts*
+
+Did you know what is unique ?
+
+***
+
 ## &nbsp;<img src="skills/B019YJAFPM/skill_icon" alt="Ooma icon" width="36"> [Ooma](skills/B019YJAFPM)
 
 *Alexa, ask Ooma to play my voicemail*
 
 Listen to your Ooma voicemail.  Dial your phone with voice commands.  NOTE:  This does not make Echo into a speakerphone.
+
+***
+
+## &nbsp;<img src="skills/B01M7QUUN1/skill_icon" alt="Open Parking and Camera Violations in NYC icon" width="36"> [Open Parking and Camera Violations in NYC](skills/B01M7QUUN1)
+
+*Alexa,  open parking violations*
+
+Search New York City Open Data for Open Parking and Camera Violations.  Search by Plate or Summons.    Alexa, ask Parking Violations
 
 ***
 
@@ -13237,6 +19112,14 @@ Learn more about OpenX with Alexa. You can ask Alexa to tell you about us, what 
 
 ***
 
+## &nbsp;<img src="skills/B01LWT6VPI/skill_icon" alt="Operatic Facts icon" width="36"> [Operatic Facts](skills/B01LWT6VPI)
+
+*Alexa Open Operatic Facts*
+
+Get quick facts about opera
+
+***
+
 ## &nbsp;<img src="skills/B01GM6LF3G/skill_icon" alt="Operator Excuses icon" width="36"> [Operator Excuses](skills/B01GM6LF3G)
 
 *Alexa, ask operator excuses for an excuse*
@@ -13245,19 +19128,11 @@ Ask the operator for the technical excuse for the day.
 
 ***
 
-## &nbsp;<img src="skills/B01J0E7FWW/skill_icon" alt="opposite words icon" width="36"> [opposite words](skills/B01J0E7FWW)
+## &nbsp;<img src="skills/B01MEEH8VA/skill_icon" alt="Optic Trivia Game icon" width="36"> [Optic Trivia Game](skills/B01MEEH8VA)
 
-*Alexa, launch opposite words*
+*Alexa Open Optic Trivia Game*
 
-opposite words
-
-***
-
-## &nbsp;<img src="skills/B01H2CQU6Q/skill_icon" alt="OptoJoker icon" width="36"> [OptoJoker](skills/B01H2CQU6Q)
-
-*Alexa, ask opto joker to tell me a knock knock optometry joke.*
-
-Optojoker is a skill with hilarious knock knock jokes relating to the optometry!
+A tribute Optic Trivia game.
 
 ***
 
@@ -13293,19 +19168,19 @@ Oscar Wilde quotes
 
 ***
 
+## &nbsp;<img src="skills/B01M7TP9OV/skill_icon" alt="Oscar Wilde Quotes icon" width="36"> [Oscar Wilde Quotes](skills/B01M7TP9OV)
+
+*Alexa, ask Oscar's quotes for a quote.*
+
+Ask Oscar Wilde and he will give you one of his many favorite quotes that will have you rethinking and pondering the wonderments of life.
+
+***
+
 ## &nbsp;<img src="skills/B01IE38ER0/skill_icon" alt="Oscar Wylde icon" width="36"> [Oscar Wylde](skills/B01IE38ER0)
 
 *Alexa, ask Oscar Wilde for a quote*
 
 Ask Oscar Wilde to tell you one of his famous quotes
-
-***
-
-## &nbsp;<img src="skills/B01HCYSG84/skill_icon" alt="null" width="36"> [OSRAM LIGHTIFY](skills/B01HCYSG84)
-
-*There are no example interactions for this skill.*
-
-null
 
 ***
 
@@ -13373,6 +19248,22 @@ Lame Paint Facts
 
 ***
 
+## &nbsp;<img src="skills/B01M7WHKYG/skill_icon" alt="Paint Facts icon" width="36"> [Paint Facts](skills/B01M7WHKYG)
+
+*Alexa Open Paint Facts and tell me a Paint Fact.*
+
+Facts about Paint
+
+***
+
+## &nbsp;<img src="skills/B01LWPNXBM/skill_icon" alt="Paintings Geek icon" width="36"> [Paintings Geek](skills/B01LWPNXBM)
+
+*Alexa open paintings geek*
+
+Do you know your Da Vincis from your Picassos?
+
+***
+
 ## &nbsp;<img src="skills/B01DQF8X4K/skill_icon" alt="Palindromes icon" width="36"> [Palindromes](skills/B01DQF8X4K)
 
 *Alexa, ask palindromes to say a palindrome*
@@ -13389,11 +19280,51 @@ A simple fact dispenser for people who'd like to learn about Palo Alto.
 
 ***
 
+## &nbsp;<img src="skills/B01LY9GS2T/skill_icon" alt="Panda Facts icon" width="36"> [Panda Facts](skills/B01LY9GS2T)
+
+*Alexa Open Panda Facts*
+
+Tells a random fact about pandas
+
+***
+
+## &nbsp;<img src="skills/B01M8I194Z/skill_icon" alt="Panda fun facts icon" width="36"> [Panda fun facts](skills/B01M8I194Z)
+
+*Alexa ask panda fun facts for a fun fact*
+
+Fun facts about pandas.
+
+***
+
 ## &nbsp;<img src="skills/B01HCMPZ2G/skill_icon" alt="Panda wizard icon" width="36"> [Panda wizard](skills/B01HCMPZ2G)
 
 *Alexa, launch panda wizard*
 
 Fun facts about giant pandas. We love pandas and want to learn more about pandas.
+
+***
+
+## &nbsp;<img src="skills/B01M5EKQ8D/skill_icon" alt="PaperBoy icon" width="36"> [PaperBoy](skills/B01M5EKQ8D)
+
+*Alexa, Open PaperBoy*
+
+PaperBoy gives you a quick summary of the top news in the news section you care about.
+
+***
+
+## &nbsp;<img src="skills/B01M0VKDC2/skill_icon" alt="Paradox Collection icon" width="36"> [Paradox Collection](skills/B01M0VKDC2)
+
+*Alexa, ask Paradox Collection, to give me a random paradox*
+
+Gives you a paradox
+
+***
+
+## &nbsp;<img src="skills/B01M4IDXBZ/skill_icon" alt="Parks And Recreation Trivia (Unofficial) icon" width="36"> [Parks And Recreation Trivia (Unofficial)](skills/B01M4IDXBZ)
+
+*Alexa, open parks rec trivia*
+
+Unofficial trivia game about the TV show Parks and Recreation!
 
 ***
 
@@ -13405,6 +19336,22 @@ Parks Explore is a guide the outdoors - with details & insight of the most popul
 
 ***
 
+## &nbsp;<img src="skills/B01LX6V802/skill_icon" alt="PathTracker icon" width="36"> [PathTracker](skills/B01LX6V802)
+
+*Alexa Open Path Tracker*
+
+Timings for the next PATH train you want to ride
+
+***
+
+## &nbsp;<img src="skills/B01N094NLJ/skill_icon" alt="Patriots Fan icon" width="36"> [Patriots Fan](skills/B01N094NLJ)
+
+*Alexa, ask patriots fan to give me a fact*
+
+Hear some interesting unofficial facts about the Patriots!
+
+***
+
 ## &nbsp;<img src="skills/B01IMNBJ0Q/skill_icon" alt="Patrón Tequila icon" width="36"> [Patrón Tequila](skills/B01IMNBJ0Q)
 
 *Alexa, ask Patron to find a spicy margarita.*
@@ -13413,11 +19360,35 @@ Alexa, ask Patrón to find a spicy margarita.
 
 ***
 
-## &nbsp;<img src="skills/B01F996PDM/skill_icon" alt="Paul's Science Time icon" width="36"> [Paul's Science Time](skills/B01F996PDM)
+## &nbsp;<img src="skills/B01MDQY6LH/skill_icon" alt="null" width="36"> [Paul Barlow](skills/B01MDQY6LH)
 
-*Alexa, launch Science Time*
+*There are no example interactions for this skill.*
 
-This is a project for wildwood 7-7 science class. Test your knowledge of the human body.
+null
+
+***
+
+## &nbsp;<img src="skills/B01MG6DAYB/skill_icon" alt="null" width="36"> [Paul Beardow](skills/B01MG6DAYB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M5GY0MO/skill_icon" alt="null" width="36"> [Paul Burden](skills/B01M5GY0MO)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M8G6KZ6/skill_icon" alt="PB Helper icon" width="36"> [PB Helper](skills/B01M8G6KZ6)
+
+*Alexa, ask PB Helper when are tomorrow's classes?*
+
+PB Helper is an unofficial companion skill providing information on class times and instructors for Pure Barre San Antonio.
 
 ***
 
@@ -13426,6 +19397,14 @@ This is a project for wildwood 7-7 science class. Test your knowledge of the hum
 *Alexa, ask PCMag which printer should I buy.*
 
 Product recommendations and reviews for thousands of popular products.
+
+***
+
+## &nbsp;<img src="skills/B01LZU819F/skill_icon" alt="PCT Facts icon" width="36"> [PCT Facts](skills/B01LZU819F)
+
+*Alexa, ask p. c. t.  facts to give me a pct fact*
+
+Provides facts about the Pacific Crest Trail.
 
 ***
 
@@ -13445,6 +19424,14 @@ PDX Bus Tracker. Next Bus Arrivals for various Stop IDs in PDX
 
 ***
 
+## &nbsp;<img src="skills/B01LZRKU19/skill_icon" alt="Peaceful Habit icon" width="36"> [Peaceful Habit](skills/B01LZRKU19)
+
+*Alexa, start Peaceful Habit*
+
+Peaceful Habit helps you meditate for 5, 10, 20, or 40 minutes every day.
+
+***
+
 ## &nbsp;<img src="skills/B01EINIFA6/skill_icon" alt="Penalty Box icon" width="36"> [Penalty Box](skills/B01EINIFA6)
 
 *Alexa, ask the Penalty Box to tell me a hockey fact.*
@@ -13458,6 +19445,14 @@ Get a fun hockey fact from a grab-bag of trivia about the sport that uses a stic
 *Alexa, open Pennsylvania Facts*
 
 Ask Alexa for a Pennsylvana fact.
+
+***
+
+## &nbsp;<img src="skills/B01J95QV86/skill_icon" alt="Pentair ScreenLogic icon" width="36"> [Pentair ScreenLogic](skills/B01J95QV86)
+
+*Alexa, open Pentair*
+
+Skill for Pentair IntelliTouch and EasyTouch pool/spa control systems with the ScreenLogic interface.
 
 ***
 
@@ -13494,6 +19489,14 @@ Based on the Standard Days Method by Georgetown University.
 
 ***
 
+## &nbsp;<img src="skills/B01M3UKPL7/skill_icon" alt="Periodic table icon" width="36"> [Periodic table](skills/B01M3UKPL7)
+
+*Alexa, ask periodic table about hydrogen*
+
+Ask alexa about elements and their atomic numbers
+
+***
+
 ## &nbsp;<img src="skills/B01HNN8ONQ/skill_icon" alt="Periodic Table icon" width="36"> [Periodic Table](skills/B01HNN8ONQ)
 
 *Alexa ask simple periodic table*
@@ -13507,6 +19510,14 @@ Periodic Table
 *Alexa, launch Periodic Table Games*
 
 Periodic Table Games is a fun skill to help students master basic trivia about periodic tables.
+
+***
+
+## &nbsp;<img src="skills/B01MCZIVN8/skill_icon" alt="Periodic Table Trivia icon" width="36"> [Periodic Table Trivia](skills/B01MCZIVN8)
+
+*Alexa, open periodic table trivia.*
+
+Periodic Table Elemental Symbols Trivia
 
 ***
 
@@ -13550,6 +19561,14 @@ This skill gives you some useful tips to take care of your lovely Pets.
 
 ***
 
+## &nbsp;<img src="skills/B01LX2MW9S/skill_icon" alt="PewDiePie Fan icon" width="36"> [PewDiePie Fan](skills/B01LX2MW9S)
+
+*Alexa, launch PewDiePie Fan*
+
+Gets the latest YouTube uploads from PewDiePie.
+
+***
+
 ## &nbsp;<img src="skills/B01FT3SKD6/skill_icon" alt="PGA TOUR icon" width="36"> [PGA TOUR](skills/B01FT3SKD6)
 
 *Alexa, ask PGA TOUR for the leaderboard.*
@@ -13566,11 +19585,67 @@ a trivia app for members of The Phage and The Institute village.
 
 ***
 
+## &nbsp;<img src="skills/B01MF64YEY/skill_icon" alt="Phase of the moon icon" width="36"> [Phase of the moon](skills/B01MF64YEY)
+
+*Alexa open phase of moon*
+
+phase of the moon
+
+***
+
+## &nbsp;<img src="skills/B01LYQA2RR/skill_icon" alt="null" width="36"> [Philips Hue](skills/B01LYQA2RR)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01MPX3JNE/skill_icon" alt="null" width="36"> [Philips Hue](skills/B01MPX3JNE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M2DF13G/skill_icon" alt="Philly Rail icon" width="36"> [Philly Rail](skills/B01M2DF13G)
+
+*Alexa, ask Philly Rail, when is the next departure from Wayne?*
+
+The Philly Rail skill will provide Alexa access to regional rail train schedules around the Philly metro area.
+
+***
+
+## &nbsp;<img src="skills/B01L4LU9SQ/skill_icon" alt="Philosoraptor icon" width="36"> [Philosoraptor](skills/B01L4LU9SQ)
+
+*Alexa, ask philosophy raptor*
+
+Offers up one Philosoraptor meme.
+
+***
+
+## &nbsp;<img src="skills/B01MA55UEM/skill_icon" alt="Philosphy Quotes icon" width="36"> [Philosphy Quotes](skills/B01MA55UEM)
+
+*Alexa, ask philosophy quotes to teach me some philosophy*
+
+Timeless philosophy quotes to inspire you.
+
+***
+
 ## &nbsp;<img src="skills/B01DQG4F0A/skill_icon" alt="Phish Geek icon" width="36"> [Phish Geek](skills/B01DQG4F0A)
 
 *Alexa, open Phish Geek*
 
 Phish Geek Phish Facts
+
+***
+
+## &nbsp;<img src="skills/B01MEG1799/skill_icon" alt="Phobias icon" width="36"> [Phobias](skills/B01MEG1799)
+
+*Alexa, open interesting Phobias*
+
+A Phobia look-up Skill
 
 ***
 
@@ -13630,11 +19705,11 @@ A quiz to test you knowledge in Physics
 
 ***
 
-## &nbsp;<img src="skills/B01CSIVR62/skill_icon" alt="Pi Day icon" width="36"> [Pi Day](skills/B01CSIVR62)
+## &nbsp;<img src="skills/B01JQ2BWRM/skill_icon" alt="Physics Systems Server icon" width="36"> [Physics Systems Server](skills/B01JQ2BWRM)
 
-*Alexa, Play Pi Day*
+*Alexa, tell my physics to power down living room*
 
-How many digits of pi can you recite before time runs out?
+Enables voice control of a Physics Systems automation server.
 
 ***
 
@@ -13643,6 +19718,14 @@ How many digits of pi can you recite before time runs out?
 *Alexa, start pi home master*
 
 Alexa_pi Home Master is a custom skill to control your home appliances by your voice.
+
+***
+
+## &nbsp;<img src="skills/B01LICK6CU/skill_icon" alt="pi number facts icon" width="36"> [pi number facts](skills/B01LICK6CU)
+
+*Alexa ask Pi number a fact*
+
+This  skill will  give  you   facts  about  the  number  pi (3.14...)
 
 ***
 
@@ -13664,6 +19747,22 @@ Get fun facts about all things Piano!  This skill is loaded with many surprising
 
 ***
 
+## &nbsp;<img src="skills/B01MAUZ14V/skill_icon" alt="Picasso Facts icon" width="36"> [Picasso Facts](skills/B01MAUZ14V)
+
+*Alexa, open picasso facts.*
+
+Discover interesting things about Picasso
+
+***
+
+## &nbsp;<img src="skills/B01M3QS2LR/skill_icon" alt="Pick A Brain icon" width="36"> [Pick A Brain](skills/B01M3QS2LR)
+
+*Alexa launch Pick A Brain*
+
+Pick a Brain is a trivia game base on general knowledge. It is develop as training to Alexa App development.
+
+***
+
 ## &nbsp;<img src="skills/B01JTT4JKO/skill_icon" alt="Pick My Pet icon" width="36"> [Pick My Pet](skills/B01JTT4JKO)
 
 *Alexa, open pet picks*
@@ -13680,6 +19779,22 @@ Randomly choose someone in your list
 
 ***
 
+## &nbsp;<img src="skills/B01M15IU1G/skill_icon" alt="PickOne icon" width="36"> [PickOne](skills/B01M15IU1G)
+
+*Alexa, Ask PickOne, apple or banana.*
+
+Pick an option for you.
+
+***
+
+## &nbsp;<img src="skills/B01M0S2SXX/skill_icon" alt="Pickup LInes icon" width="36"> [Pickup LInes](skills/B01M0S2SXX)
+
+*alexa, open pickup lines*
+
+The skill tells people pickup lines.
+
+***
+
 ## &nbsp;<img src="skills/B01BUIBT8M/skill_icon" alt="PIckup Lines icon" width="36"> [PIckup Lines](skills/B01BUIBT8M)
 
 *Alexa, open pickup lines*
@@ -13693,6 +19808,22 @@ This skill simply tells the user a random  pickup line. The user can simply ask 
 *Alexa, Open Pico*
 
 Pico, short for Pico, Fermi, Bagel, is the secret number game that tests your logic skills. Alexa will pick a number that you must guess in order to win.
+
+***
+
+## &nbsp;<img src="skills/B01MXHCU70/skill_icon" alt="Pie Facts icon" width="36"> [Pie Facts](skills/B01MXHCU70)
+
+*Alexa, start pie facts*
+
+Start your day by hearing some fun pie facts!
+
+***
+
+## &nbsp;<img src="skills/B01M7MGJ1X/skill_icon" alt="Pig Facts icon" width="36"> [Pig Facts](skills/B01M7MGJ1X)
+
+*Alexa, launch Pig Facts.*
+
+Uncontroversial facts about pigs, our porcine buddies.
 
 ***
 
@@ -13768,11 +19899,35 @@ Informative facts about the city of Pittsburgh, Pennsylvania
 
 ***
 
+## &nbsp;<img src="skills/B01HK8V36Y/skill_icon" alt="Pixar Fan Trivia icon" width="36"> [Pixar Fan Trivia](skills/B01HK8V36Y)
+
+*Alexa, open Pixar Fan Trivia*
+
+Are you a fan of Pixar movies? Play this fun trivia game to test your knowledge!
+
+***
+
 ## &nbsp;<img src="skills/B01KNGFBRC/skill_icon" alt="Pizza Toppings icon" width="36"> [Pizza Toppings](skills/B01KNGFBRC)
 
 *Alexa, open pizza toppings*
 
 Let Alexa select a topping for your pizza
+
+***
+
+## &nbsp;<img src="skills/B01LY61NES/skill_icon" alt="Pizza Types icon" width="36"> [Pizza Types](skills/B01LY61NES)
+
+*Alexa, ask Pizza Types what's a hawaiian pizza*
+
+Learn about different types of pizza, and what toppings they have.
+
+***
+
+## &nbsp;<img src="skills/B01M74ZQ0Z/skill_icon" alt="Places icon" width="36"> [Places](skills/B01M74ZQ0Z)
+
+*Alexa, ask Nearby Places for directions to the closest Target*
+
+Places allows you to ask Alexa for directions to a location (store, restaurant, etc.) and gather information like phone number, and hours of operation.
 
 ***
 
@@ -13805,6 +19960,14 @@ Find Out What to Do
 *Alexa, open plano facts.*
 
 Get a fact about Plano
+
+***
+
+## &nbsp;<img src="skills/B01LZDI9D6/skill_icon" alt="Plant Facts icon" width="36"> [Plant Facts](skills/B01LZDI9D6)
+
+*Alexa, open plant facts*
+
+Ask Alexa to tell you about plants
 
 ***
 
@@ -13848,11 +20011,51 @@ This is will give you a platypus fact when invoked.
 
 ***
 
+## &nbsp;<img src="skills/B01MQGSQYQ/skill_icon" alt="Play Blackjack icon" width="36"> [Play Blackjack](skills/B01MQGSQYQ)
+
+*Alexa, tell blackjack game to deal*
+
+Play a game of blackjack, including the ability to double, split, and surrender
+
+***
+
 ## &nbsp;<img src="skills/B01GZ3K5CI/skill_icon" alt="Poetry icon" width="36"> [Poetry](skills/B01GZ3K5CI)
 
-*Alexa, ask any poet about love*
+*Alexa, ask any poet about life*
 
-Poets on love, life and everything else
+Famous and aspiring poets on life, nature and earth.
+
+***
+
+## &nbsp;<img src="skills/B01N3VKWB6/skill_icon" alt="Pogonotrophy - Beard Me icon" width="36"> [Pogonotrophy - Beard Me](skills/B01N3VKWB6)
+
+*Alexa, ask Beard Me about beards*
+
+Get cool information about various facial hair styles.
+
+***
+
+## &nbsp;<img src="skills/B01LWWQ1B9/skill_icon" alt="Poke Description icon" width="36"> [Poke Description](skills/B01LWWQ1B9)
+
+*Alexa, open poke description*
+
+Pokemon Species description using Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01LXI34UV/skill_icon" alt="Poke facts icon" width="36"> [Poke facts](skills/B01LXI34UV)
+
+*Alexa, ask Poke facts to tell me a pokemon fact*
+
+Fun Pokemon Facts
+
+***
+
+## &nbsp;<img src="skills/B01M0S1VOR/skill_icon" alt="Poke Go Gym Helper icon" width="36"> [Poke Go Gym Helper](skills/B01M0S1VOR)
+
+*Alexa ask Poke Go Gym Helper how to beat a Pikachu*
+
+Poke Go Gym Helper determines the type of any given pokemon and strength/weakness it fights against.
 
 ***
 
@@ -13861,6 +20064,14 @@ Poets on love, life and everything else
 *Alexa, start pokemon fan character quiz*
 
 PokemonFan Character Quiz
+
+***
+
+## &nbsp;<img src="skills/B01M4IIOHH/skill_icon" alt="Poker Stats icon" width="36"> [Poker Stats](skills/B01M4IIOHH)
+
+*Alexa, open poker stats*
+
+Tells you the probabilities of the different 5-card poker hands.
 
 ***
 
@@ -13936,6 +20147,14 @@ See how well you know Pope Francis with this quick game!
 
 ***
 
+## &nbsp;<img src="skills/B01LZZR3R5/skill_icon" alt="Porcelain Facts icon" width="36"> [Porcelain Facts](skills/B01LZZR3R5)
+
+*Alexa open porcelain facts*
+
+Porcelain facts
+
+***
+
 ## &nbsp;<img src="skills/B017OBRW5S/skill_icon" alt="Portal2 Fact Core icon" width="36"> [Portal2 Fact Core](skills/B017OBRW5S)
 
 *Alexa, open Fact Core.*
@@ -14000,6 +20219,14 @@ test your knowledge about The City of Roses with trivia questions
 
 ***
 
+## &nbsp;<img src="skills/B01M99DRI8/skill_icon" alt="Portugal Facts icon" width="36"> [Portugal Facts](skills/B01M99DRI8)
+
+*Alexa, open Portugal facts.*
+
+Find out an interesting fact about Portugal.
+
+***
+
 ## &nbsp;<img src="skills/B01HAWGWN4/skill_icon" alt="Portugal Squad Helper icon" width="36"> [Portugal Squad Helper](skills/B01HAWGWN4)
 
 *Alexa, ask Portugal Squad Helper who is Cristiano Ronaldo*
@@ -14013,6 +20240,46 @@ This is the squad helper for Portugal fans in EURO 2016 this summer. It provides
 *Alexa, ask Posh Trivia to start new game.*
 
 Fun Posh Trivia Game!
+
+***
+
+## &nbsp;<img src="skills/B01LZUAD45/skill_icon" alt="Positive Affirmations icon" width="36"> [Positive Affirmations](skills/B01LZUAD45)
+
+*alexa, open positive affirmations*
+
+Positive Affirmations
+
+***
+
+## &nbsp;<img src="skills/B01IS0Y8DS/skill_icon" alt="Positive Prayer | Silent Unity icon" width="36"> [Positive Prayer | Silent Unity](skills/B01IS0Y8DS)
+
+*Alexa, Open Positive Prayer*
+
+Silent Unity® connects you to your oneness with God through positive prayers. Each prayer strengthens you spiritually as you go through your day.
+
+***
+
+## &nbsp;<img src="skills/B01M8F68YT/skill_icon" alt="Positive Quotes icon" width="36"> [Positive Quotes](skills/B01M8F68YT)
+
+*Alexa start positive quotes*
+
+Gives you positive quotes to uplift your spirit.
+
+***
+
+## &nbsp;<img src="skills/B01LWS0IQA/skill_icon" alt="null" width="36"> [Potassium Frog Ltd](skills/B01LWS0IQA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LDMVK7U/skill_icon" alt="Potato Dude icon" width="36"> [Potato Dude](skills/B01LDMVK7U)
+
+*Alexa ask potato dude to tell me a potato fact*
+
+Potato dude facts
 
 ***
 
@@ -14080,6 +20347,22 @@ A quick skill to give you a random Power Rangers fact.
 
 ***
 
+## &nbsp;<img src="skills/B01LXW91OP/skill_icon" alt="Practice Logger icon" width="36"> [Practice Logger](skills/B01LXW91OP)
+
+*Alexa Ask Practice Logger how am I doing*
+
+PracticeLogger is a simple skill that allows you to keep track of how often you practice your musical instrument.
+
+***
+
+## &nbsp;<img src="skills/B01LWTA8EO/skill_icon" alt="prayer Bible verses icon" width="36"> [prayer Bible verses](skills/B01LWTA8EO)
+
+*Alexa open prayer Bible verses*
+
+Ask from a selection of key words, then this app will say a (NIV) Bible verse that references praying and the key word.
+
+***
+
 ## &nbsp;<img src="skills/B01GT4JYWA/skill_icon" alt="Prayer Helper icon" width="36"> [Prayer Helper](skills/B01GT4JYWA)
 
 *Alexa ask prayer helper to pray Our Father*
@@ -14101,6 +20384,14 @@ Plays the Islamic call to prayer when asked.
 *Alexa, ask Prayer Workout to say a prayer*
 
 Skill to provide a prayer
+
+***
+
+## &nbsp;<img src="skills/B01KF8TCDM/skill_icon" alt="Pregnancy Countdown icon" width="36"> [Pregnancy Countdown](skills/B01KF8TCDM)
+
+*Alexa, tell pregnancy countdown I am having a baby*
+
+Pregnancy Countdown tells you how long until your baby's due date and can also tell you the approximate size of the baby
 
 ***
 
@@ -14133,6 +20424,22 @@ Simple Alexa Skill to see what the current poll is between Clinton and Trump
 *Alexa open president picker*
 
 If you know someone named Chris on Facebook that's running for president, this skill is for you.
+
+***
+
+## &nbsp;<img src="skills/B01M69DLPA/skill_icon" alt="Presidential Elections Trivia icon" width="36"> [Presidential Elections Trivia](skills/B01M69DLPA)
+
+*Alexa launch Presidential Elections trivia*
+
+Trivia questions on U.S. Presidential elections
+
+***
+
+## &nbsp;<img src="skills/B01MQF4NUG/skill_icon" alt="presidential facts icon" width="36"> [presidential facts](skills/B01MQF4NUG)
+
+*alexa, open presidential facts*
+
+2016 Presidential Candidates Fun Facts
 
 ***
 
@@ -14248,6 +20555,14 @@ Quiz questions about prime numbers
 
 ***
 
+## &nbsp;<img src="skills/B01M2BBZ3Z/skill_icon" alt="Princess Facts icon" width="36"> [Princess Facts](skills/B01M2BBZ3Z)
+
+*Alexa, Start princess facts*
+
+Interesting facts about pop-culture princesses
+
+***
+
 ## &nbsp;<img src="skills/B01I6CHT1G/skill_icon" alt="Pro Baseball Quiz icon" width="36"> [Pro Baseball Quiz](skills/B01I6CHT1G)
 
 *Alexa, open Pro Baseball Quiz.*
@@ -14256,11 +20571,35 @@ A largely statistical pro baseball quiz.
 
 ***
 
+## &nbsp;<img src="skills/B01M363JBL/skill_icon" alt="Pro Basketball Quiz icon" width="36"> [Pro Basketball Quiz](skills/B01M363JBL)
+
+*Alexa, start Pro Basketball Quiz*
+
+Test your pro basketball knowledge in a largely stat based quiz!
+
+***
+
+## &nbsp;<img src="skills/B01MPYS01D/skill_icon" alt="Pro Basketball Quiz icon" width="36"> [Pro Basketball Quiz](skills/B01MPYS01D)
+
+*Alexa, open Pro Basketball Quiz*
+
+Test how much you know about the players and teams that have impacted pro basketball.
+
+***
+
 ## &nbsp;<img src="skills/B01I4XDOLG/skill_icon" alt="Pro Basketball Trivia icon" width="36"> [Pro Basketball Trivia](skills/B01I4XDOLG)
 
 *Alexa, Play Pro Basketball Trivia*
 
 Game to test your knowledge of Pro Basketball
+
+***
+
+## &nbsp;<img src="skills/B01MRJIN9I/skill_icon" alt="Pro Football Quiz icon" width="36"> [Pro Football Quiz](skills/B01MRJIN9I)
+
+*Alexa, open Pro Football Quiz*
+
+Here's your chance to test how much you know about the players and teams that have impacted pro football.
 
 ***
 
@@ -14280,11 +20619,27 @@ Productivity Flash Cards
 
 ***
 
+## &nbsp;<img src="skills/B01M6XHE2X/skill_icon" alt="Professor Kay icon" width="36"> [Professor Kay](skills/B01M6XHE2X)
+
+*Alexa, ask Professor Kay about pandas*
+
+Professor Kay will give you quick descriptions of things you are interested in.
+
+***
+
 ## &nbsp;<img src="skills/B01KU185UA/skill_icon" alt="Professor Oak (Unofficial) icon" width="36"> [Professor Oak (Unofficial)](skills/B01KU185UA)
 
 *Alexa, ask Professor Oak what are Poison type moves super effective against*
 
 Your personal Professor Oak that helps you with type matchup, and damage stats of each move in Pokemon.
+
+***
+
+## &nbsp;<img src="skills/B01LWOJPCU/skill_icon" alt="programmer jokes icon" width="36"> [programmer jokes](skills/B01LWOJPCU)
+
+*alexa, open programmer jokes*
+
+Skill that tells programmer jokes.
 
 ***
 
@@ -14296,11 +20651,27 @@ Few facts about computer programming.
 
 ***
 
+## &nbsp;<img src="skills/B01LZUI9FY/skill_icon" alt="Programming Jokes icon" width="36"> [Programming Jokes](skills/B01LZUI9FY)
+
+*Alexa, Programming Jokes*
+
+Tells a programming joke at a time
+
+***
+
 ## &nbsp;<img src="skills/B01ICFOIL6/skill_icon" alt="Programming Language Authors icon" width="36"> [Programming Language Authors](skills/B01ICFOIL6)
 
 *Alexa ask programming language authors to start game*
 
 This skill helps you learn who authored popular programming languages.
+
+***
+
+## &nbsp;<img src="skills/B01M4I7UZZ/skill_icon" alt="Programming Language Quiz icon" width="36"> [Programming Language Quiz](skills/B01M4I7UZZ)
+
+*Alexa, open Language Quiz*
+
+A trivia game to test your knowledge of programming languages.
 
 ***
 
@@ -14317,6 +20688,14 @@ Get summaries of popular programming languages
 *Alexa, Ask Java Programming Quiz to start*
 
 Helps you learn about Java programming keywords, datatypes, and modifiers
+
+***
+
+## &nbsp;<img src="skills/B01LWJ13GA/skill_icon" alt="Programming terms icon" width="36"> [Programming terms](skills/B01LWJ13GA)
+
+*Alexa, open programming terms*
+
+Programming terms is a skill which helps you to understand various programming jargons
 
 ***
 
@@ -14384,6 +20763,14 @@ Providenciales Trivia Game
 
 ***
 
+## &nbsp;<img src="skills/B01M0525TL/skill_icon" alt="Psychology Facts icon" width="36"> [Psychology Facts](skills/B01M0525TL)
+
+*Alexa open psychology fact*
+
+Ask Alexa for facts about Human Psychology!
+
+***
+
 ## &nbsp;<img src="skills/B01JHC8TZO/skill_icon" alt="puffin facts icon" width="36"> [puffin facts](skills/B01JHC8TZO)
 
 *Alexa, open puffin facts*
@@ -14416,6 +20803,14 @@ A way to find local information in the Washington State Puget Sound area.
 
 ***
 
+## &nbsp;<img src="skills/B01LYNFFMZ/skill_icon" alt="Puppy Master icon" width="36"> [Puppy Master](skills/B01LYNFFMZ)
+
+*Alexa, Open Puppy Master.*
+
+Puppy Master gives you trivia facts about dogs.
+
+***
+
 ## &nbsp;<img src="skills/B01EW0F2WE/skill_icon" alt="purple trivia icon" width="36"> [purple trivia](skills/B01EW0F2WE)
 
 *Alexa, start purple trivia*
@@ -14445,6 +20840,14 @@ Ask Alexa when the next Puzzled Pint event is.
 *Alexa,question trivia*
 
 Play a trivia game
+
+***
+
+## &nbsp;<img src="skills/B01N3JHSWW/skill_icon" alt="QRS PNO icon" width="36"> [QRS PNO](skills/B01N3JHSWW)
+
+*Alexa, ask PNO to play*
+
+This skill will allow control of the QRS PNO system.
 
 ***
 
@@ -14484,6 +20887,14 @@ To use the Quaker Alexa skill, try saying…
 
 ***
 
+## &nbsp;<img src="skills/B01M7TNTUT/skill_icon" alt="Queen Facts icon" width="36"> [Queen Facts](skills/B01M7TNTUT)
+
+*Alexa, launch Queen Facts*
+
+Learn about one of the world's greatest bands, Queen, one fact at a time.
+
+***
+
 ## &nbsp;<img src="skills/B01D8JH8XQ/skill_icon" alt="Queen Of Pop Trivia icon" width="36"> [Queen Of Pop Trivia](skills/B01D8JH8XQ)
 
 *Alexa, Launch Madonna Trivia*
@@ -14505,6 +20916,14 @@ Recipes that can be made under 10 mins just by asking alexa like "Alexa, ask qui
 *Alexa launch Quick Check Quiz*
 
 Chemistry quiz to start the second semester for simon tech students
+
+***
+
+## &nbsp;<img src="skills/B01M244AL4/skill_icon" alt="Quick Escape icon" width="36"> [Quick Escape](skills/B01M244AL4)
+
+*Alexa, ask quick escape to quickly give me a new identity*
+
+Gives you a random new identity.
 
 ***
 
@@ -14532,6 +20951,14 @@ Provides short quips or one liner jokes.
 
 ***
 
+## &nbsp;<img src="skills/B01LX9DTGN/skill_icon" alt="Quiz for America icon" width="36"> [Quiz for America](skills/B01LX9DTGN)
+
+*Alexa, run Quiz America*
+
+Test your knowledge on history and current issues in America.
+
+***
+
 ## &nbsp;<img src="skills/B01E2E4K4Q/skill_icon" alt="Quiz for Apple (fan-made) icon" width="36"> [Quiz for Apple (fan-made)](skills/B01E2E4K4Q)
 
 *Alexa, open quiz for apple*
@@ -14556,11 +20983,27 @@ A trivia quiz for Thomas the Tank Engine fans.
 
 ***
 
+## &nbsp;<img src="skills/B01M9AOOBA/skill_icon" alt="Quiz Master icon" width="36"> [Quiz Master](skills/B01M9AOOBA)
+
+*Alexa Open Quiz Master*
+
+Professional  quiz game for the discerning quiz player.
+
+***
+
 ## &nbsp;<img src="skills/B01C7XOF62/skill_icon" alt="Quiz on Harry Potter icon" width="36"> [Quiz on Harry Potter](skills/B01C7XOF62)
 
 *Alexa, Open wizard*
 
 Harry Potter quiz to play with friends.
+
+***
+
+## &nbsp;<img src="skills/B01LXXV8MZ/skill_icon" alt="Quote Machine icon" width="36"> [Quote Machine](skills/B01LXXV8MZ)
+
+*Alexa Open Quote Machine*
+
+Gives random quotes from famous people.
 
 ***
 
@@ -14604,6 +21047,14 @@ Daily thoughts to ponder throughout the day
 
 ***
 
+## &nbsp;<img src="skills/B01M8PCPG3/skill_icon" alt="Quotes icon" width="36"> [Quotes](skills/B01M8PCPG3)
+
+*Alexa, ask quote of the day to give me an inspiring quote*
+
+This gives you an inspirational quote for the day
+
+***
+
 ## &nbsp;<img src="skills/B01DYSJR6W/skill_icon" alt="Quotes and Probes by Marshall McLuhan icon" width="36"> [Quotes and Probes by Marshall McLuhan](skills/B01DYSJR6W)
 
 *Alexa, ask McLuhan Quotes for a probe*
@@ -14628,6 +21079,14 @@ This app allows QVine employees to ask about upcoming events on the QVine calend
 
 ***
 
+## &nbsp;<img src="skills/B01LXCLVIW/skill_icon" alt="Rabbit Facts icon" width="36"> [Rabbit Facts](skills/B01LXCLVIW)
+
+*Alexa open rabbit facts*
+
+Tells facts about rabbits.
+
+***
+
 ## &nbsp;<img src="skills/B01I7I7L3A/skill_icon" alt="RabbitFacts icon" width="36"> [RabbitFacts](skills/B01I7I7L3A)
 
 *Alexa, ask Rabbit facts to tell me something about rabbits*
@@ -14636,11 +21095,67 @@ Facts about rabbits
 
 ***
 
+## &nbsp;<img src="skills/B01M0NVTE9/skill_icon" alt="Race Cast icon" width="36"> [Race Cast](skills/B01M0NVTE9)
+
+*Alexa ask race cast to start the podcast*
+
+This skill enable the playback of the formula one blog or BBC Checkered Flag podcasts
+
+***
+
+## &nbsp;<img src="skills/B01M18CEFH/skill_icon" alt="null" width="36"> [Rachel Mitchell](skills/B01M18CEFH)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01AIZVCGW/skill_icon" alt="Rachio icon" width="36"> [Rachio](skills/B01AIZVCGW)
 
 *Alexa, ask Rachio to start zone one for six minutes*
 
 Rachio
+
+***
+
+## &nbsp;<img src="skills/B01M5CMFUU/skill_icon" alt="Racing Facts icon" width="36"> [Racing Facts](skills/B01M5CMFUU)
+
+*Alexa, ask Racing Facts to tell me a fact.*
+
+Find out interesting facts that you didn't know about Formula One.
+
+***
+
+## &nbsp;<img src="skills/B01M9BUL8H/skill_icon" alt="Racing Results icon" width="36"> [Racing Results](skills/B01M9BUL8H)
+
+*Alexa, ask Racing Results who won in the last race?*
+
+Find out Formula One results from all the races in this season, including individual driver results and the overall championship standings.
+
+***
+
+## &nbsp;<img src="skills/B01LWBEDKI/skill_icon" alt="Radford Facts icon" width="36"> [Radford Facts](skills/B01LWBEDKI)
+
+*alexa, open radford facts*
+
+Facts about Radford, VA
+
+***
+
+## &nbsp;<img src="skills/B01M13BOP1/skill_icon" alt="Radioplayer icon" width="36"> [Radioplayer](skills/B01M13BOP1)
+
+*Alexa, ask Radioplayer to start*
+
+Listen to more than 460 UK radio stations from Radioplayer on your Alexa-enabled device .
+
+***
+
+## &nbsp;<img src="skills/B01LXQXW3G/skill_icon" alt="Rain Sounds icon" width="36"> [Rain Sounds](skills/B01LXQXW3G)
+
+*Alexa, open rain sounds*
+
+Ambient noise of light rainfall to help you focus, sleep, or relax.
 
 ***
 
@@ -14684,6 +21199,22 @@ Recommends a baby name for a boy or girl
 
 ***
 
+## &nbsp;<img src="skills/B01M70Y4XB/skill_icon" alt="Random Board Game Facts icon" width="36"> [Random Board Game Facts](skills/B01M70Y4XB)
+
+*alexa open bg facts*
+
+A random board game fact generator
+
+***
+
+## &nbsp;<img src="skills/B01MDQLZMV/skill_icon" alt="Random Breakfast Facts icon" width="36"> [Random Breakfast Facts](skills/B01MDQLZMV)
+
+*Alexa, open random breakfast facts and tell me a fact*
+
+Get random facts about breakfast!
+
+***
+
 ## &nbsp;<img src="skills/B01FEC1KY8/skill_icon" alt="Random Cat Facts icon" width="36"> [Random Cat Facts](skills/B01FEC1KY8)
 
 *Alexa ask random cat to tell me a fact*
@@ -14700,6 +21231,22 @@ Test your Chemistry knowledge with random questions!
 
 ***
 
+## &nbsp;<img src="skills/B01M0VZSZI/skill_icon" alt="Random Chess icon" width="36"> [Random Chess](skills/B01M0VZSZI)
+
+*Alexa, Open random chess*
+
+Chess 960 Random Chess layout generator.
+
+***
+
+## &nbsp;<img src="skills/B01LYM1DY2/skill_icon" alt="Random Chord Progressions icon" width="36"> [Random Chord Progressions](skills/B01LYM1DY2)
+
+*Alexa, open random chord progressions*
+
+Don't know what chords to play? Ask Alexa! With the Random Chord Progressions skill you will get inspiration just by asking for it!
+
+***
+
 ## &nbsp;<img src="skills/B01J2YHCAA/skill_icon" alt="Random Comments icon" width="36"> [Random Comments](skills/B01J2YHCAA)
 
 *Alexa, ask Random Comments to start new game.*
@@ -14713,6 +21260,14 @@ This is a simple game where Alexa will state a random comment and you determine 
 *Alexa, open computer facts.*
 
 Computer facts
+
+***
+
+## &nbsp;<img src="skills/B01M8F0AAT/skill_icon" alt="Random Dad Joke icon" width="36"> [Random Dad Joke](skills/B01M8F0AAT)
+
+*Alexa Open random dad joke*
+
+Have Alexa tell a random joke
 
 ***
 
@@ -14740,6 +21295,46 @@ Random Facts
 
 ***
 
+## &nbsp;<img src="skills/B01LMHMWL4/skill_icon" alt="Random Facts icon" width="36"> [Random Facts](skills/B01LMHMWL4)
+
+*Alexa, launch random facts.*
+
+Random Facts
+
+***
+
+## &nbsp;<img src="skills/B01LYG0I97/skill_icon" alt="Random Facts icon" width="36"> [Random Facts](skills/B01LYG0I97)
+
+*Alexa, Open Random Facts*
+
+Random facts about people, animals, words, anything.
+
+***
+
+## &nbsp;<img src="skills/B01LZ3QB1E/skill_icon" alt="Random Facts icon" width="36"> [Random Facts](skills/B01LZ3QB1E)
+
+*Alexa, ask random facts to tell me a random fact.*
+
+Random Facts provides you with a random fact.
+
+***
+
+## &nbsp;<img src="skills/B01M0FKZSK/skill_icon" alt="Random Facts icon" width="36"> [Random Facts](skills/B01M0FKZSK)
+
+*Alexa, open random facts*
+
+Random facts to make you smarter
+
+***
+
+## &nbsp;<img src="skills/B01M0J61HH/skill_icon" alt="Random Facts icon" width="36"> [Random Facts](skills/B01M0J61HH)
+
+*Alexa open random facts*
+
+Random Facts gives out a random fact when the user asks for one.
+
+***
+
 ## &nbsp;<img src="skills/B01IO26D06/skill_icon" alt="Random Facts to know icon" width="36"> [Random Facts to know](skills/B01IO26D06)
 
 *Alexa, open random fact generator*
@@ -14756,11 +21351,27 @@ Get quick facts about the Philadelphia Flyers.
 
 ***
 
+## &nbsp;<img src="skills/B01M0BYOGR/skill_icon" alt="Random Food icon" width="36"> [Random Food](skills/B01M0BYOGR)
+
+*Alexa random food.*
+
+Just a random food for your thoughts.
+
+***
+
 ## &nbsp;<img src="skills/B01KBPU5NK/skill_icon" alt="Random Fun Facts icon" width="36"> [Random Fun Facts](skills/B01KBPU5NK)
 
 *Alexa, open random fun facts*
 
 Random Fun Facts
+
+***
+
+## &nbsp;<img src="skills/B01M71ZKAY/skill_icon" alt="Random Joke icon" width="36"> [Random Joke](skills/B01M71ZKAY)
+
+*Alexa random joke*
+
+Tells you a random joke!
 
 ***
 
@@ -14772,11 +21383,36 @@ The skill is used to tell random jokes
 
 ***
 
+## &nbsp;<img src="skills/B01M9F0SDU/skill_icon" alt="Random Letter icon" width="36"> [Random Letter](skills/B01M9F0SDU)
+
+*Alexa Open random letter*
+
+Random Letter let's you generate a random letter from alphabet.
+If you need a quickly char, just use Random Letter and enjoy.
+
+***
+
+## &nbsp;<img src="skills/B01M7WBPGM/skill_icon" alt="Random Movie Trivia icon" width="36"> [Random Movie Trivia](skills/B01M7WBPGM)
+
+*Alexa,  ask movie trivia to start game*
+
+This is a trivia about movies.
+
+***
+
 ## &nbsp;<img src="skills/B01EKJ16HM/skill_icon" alt="Random Muse icon" width="36"> [Random Muse](skills/B01EKJ16HM)
 
 *Alexa, ask Random Muse to give me an idea*
 
 Randomized ideas for writers, artists, and anyone else who needs a place to start.
+
+***
+
+## &nbsp;<img src="skills/B01M3TX1FP/skill_icon" alt="Random number icon" width="36"> [Random number](skills/B01M3TX1FP)
+
+*Alexa, ask random number for a random number between one and five*
+
+Quickly get random numbers in a specific range.
 
 ***
 
@@ -14812,6 +21448,14 @@ Random NYC Museum
 
 ***
 
+## &nbsp;<img src="skills/B01MFAX8EU/skill_icon" alt="Random Password Generator icon" width="36"> [Random Password Generator](skills/B01MFAX8EU)
+
+*Alexa, open Random Password Generator*
+
+Need a completely unique random password? You've come to the right skill!
+
+***
+
 ## &nbsp;<img src="skills/B01G2SL9QM/skill_icon" alt="Random Pop Music Trivia Game icon" width="36"> [Random Pop Music Trivia Game](skills/B01G2SL9QM)
 
 *Alexa, open Pop Music Trivia*
@@ -14820,11 +21464,51 @@ This trivia quiz asks fun questions about modern pop stars.
 
 ***
 
+## &nbsp;<img src="skills/B01M6VDRFI/skill_icon" alt="Random Potato icon" width="36"> [Random Potato](skills/B01M6VDRFI)
+
+*Alexa ask random potato for potato*
+
+Want to hear Alexa say a random potato? Ask away!
+
+***
+
+## &nbsp;<img src="skills/B01M0GLYV7/skill_icon" alt="Random Quote icon" width="36"> [Random Quote](skills/B01M0GLYV7)
+
+*Alexa, random quote*
+
+A random quote generator
+
+***
+
 ## &nbsp;<img src="skills/B01ILBM5H0/skill_icon" alt="Random Quotes icon" width="36"> [Random Quotes](skills/B01ILBM5H0)
 
 *Alexa, ask random quotes to give me a quote*
 
 This skill generates random quotes.
+
+***
+
+## &nbsp;<img src="skills/B01L0LEKV2/skill_icon" alt="Random Quotes icon" width="36"> [Random Quotes](skills/B01L0LEKV2)
+
+*Alexa, open Random Quotes*
+
+This app will generate a random quote for you to listen to.
+
+***
+
+## &nbsp;<img src="skills/B01LYXV4F1/skill_icon" alt="Random Random Facts icon" width="36"> [Random Random Facts](skills/B01LYXV4F1)
+
+*Alexa Ask Random Random Facts Give me a random random trivia*
+
+Get random, random facts!
+
+***
+
+## &nbsp;<img src="skills/B01MFBZO7M/skill_icon" alt="Random Song Lyrics icon" width="36"> [Random Song Lyrics](skills/B01MFBZO7M)
+
+*Alexa, open random song lyrics and sing a song*
+
+Alexa will sing you some silly song snippets if you ask her to.
 
 ***
 
@@ -14873,6 +21557,22 @@ Random Trivia Game
 *Alexa, open random trivia game.*
 
 Random Trivia Game is a skill that allows you to play a random trivia game!
+
+***
+
+## &nbsp;<img src="skills/B01LKZ0FI0/skill_icon" alt="Random WOD by WIKIWOD icon" width="36"> [Random WOD by WIKIWOD](skills/B01LKZ0FI0)
+
+*Alexa, ask WIKIWOD to give me a workout*
+
+Random workout of the day from WIKIWOD database.
+
+***
+
+## &nbsp;<img src="skills/B01MEDJ5OW/skill_icon" alt="Random Word icon" width="36"> [Random Word](skills/B01MEDJ5OW)
+
+*Alexa ask random word to tell me a random word*
+
+Want Alexa to say a random word?
 
 ***
 
@@ -14932,6 +21632,14 @@ This skill tells you the facts about the credit card size computer called Raspbe
 
 ***
 
+## &nbsp;<img src="skills/B01LX2M0ON/skill_icon" alt="Rat Terrier Facts icon" width="36"> [Rat Terrier Facts](skills/B01LX2M0ON)
+
+*Alexa start rat terrier facts*
+
+Get a fun fact about the Rat Terrier dog breed.
+
+***
+
 ## &nbsp;<img src="skills/B01IZ1LQJO/skill_icon" alt="Rational 8-Ball icon" width="36"> [Rational 8-Ball](skills/B01IZ1LQJO)
 
 *Alexa, ask Rational Eight Ball if I should go to work*
@@ -14969,6 +21677,14 @@ A skill to read posts from Fred Wilson's blog (www.avc.com)
 *Alexa, start Reagan quotes*
 
 This Alexa application  randomly tells Reagan quotes.
+
+***
+
+## &nbsp;<img src="skills/B01LXZJWAV/skill_icon" alt="Receptionist Facts icon" width="36"> [Receptionist Facts](skills/B01LXZJWAV)
+
+*"Alexa, open receptionist facts."*
+
+Facts about a career as a receptionist.
 
 ***
 
@@ -15020,6 +21736,14 @@ Use Alexa to help you remember what week your recycling will be picked up.
 
 ***
 
+## &nbsp;<img src="skills/B01M29QAQ5/skill_icon" alt="red cross knowledge icon" width="36"> [red cross knowledge](skills/B01M29QAQ5)
+
+*Alexa Ask henry's knowledge for a fact*
+
+Information about Red Cross
+
+***
+
 ## &nbsp;<img src="skills/B01E1JMRII/skill_icon" alt="Red Stick Transit icon" width="36"> [Red Stick Transit](skills/B01E1JMRII)
 
 *Alexa, Ask Red Stick about stop 1344.*
@@ -15036,11 +21760,11 @@ A St. Louis Cardinals Baseball trivia game.
 
 ***
 
-## &nbsp;<img src="skills/B019ERI2PE/skill_icon" alt="Reindeer Games icon" width="36"> [Reindeer Games](skills/B019ERI2PE)
+## &nbsp;<img src="skills/B01LWMEHWB/skill_icon" alt="Redhead Facts icon" width="36"> [Redhead Facts](skills/B01LWMEHWB)
 
-*Alexa, launch Reindeer Games*
+*Alexa, ask redhead facts to tell me a fact*
 
-Reindeer Games is a Trivia Game built as a template for developers to use in creating trivia games of their own. It is also fun to play!
+Facts about redheads
 
 ***
 
@@ -15057,6 +21781,14 @@ Relationary is a fun, fast-paced multiplayer word association game that keeps yo
 *Alexa, ask relationship quotes to tell me about good relationships.*
 
 relationshipQuotes
+
+***
+
+## &nbsp;<img src="skills/B01M2USCYX/skill_icon" alt="Relative Keys icon" width="36"> [Relative Keys](skills/B01M2USCYX)
+
+*Alexa start relative keys*
+
+Say a musical key and Alexa will tell you key signature and relative key.
 
 ***
 
@@ -15092,6 +21824,14 @@ Use this skill to repeat anything you say to Alexa
 
 ***
 
+## &nbsp;<img src="skills/B01LXCHZ5V/skill_icon" alt="Repeat me icon" width="36"> [Repeat me](skills/B01LXCHZ5V)
+
+*Alexa, start repeat me*
+
+The Skill repeats what the user says and automatically reprompts for further input.
+
+***
+
 ## &nbsp;<img src="skills/B01F9XBS26/skill_icon" alt="Reporter for The Drudge Report icon" width="36"> [Reporter for The Drudge Report](skills/B01F9XBS26)
 
 *Alexa, ask Reporter Dee for the latest headlines.*
@@ -15124,11 +21864,43 @@ Facts about reptiles
 
 ***
 
+## &nbsp;<img src="skills/B01M61M2W6/skill_icon" alt="Resistance Reader icon" width="36"> [Resistance Reader](skills/B01M61M2W6)
+
+*Alexa, start resistance reader*
+
+Tired of reading the script for The Resistance? Let Alexa do it for you!
+
+***
+
+## &nbsp;<img src="skills/B01LYNEQYT/skill_icon" alt="Resistor Assistant icon" width="36"> [Resistor Assistant](skills/B01LYNEQYT)
+
+*Alexa ask resistor assist brown black red.*
+
+A utility to help you work with resistors.
+
+***
+
+## &nbsp;<img src="skills/B01MAXK6JL/skill_icon" alt="Resistor Buddy icon" width="36"> [Resistor Buddy](skills/B01MAXK6JL)
+
+*Alexa, ask Resistor Buddy what is the value of green yellow and brown.*
+
+Resistor Buddy helps you calculate the value of a resistor based on its colour bands and vice versa.
+
+***
+
 ## &nbsp;<img src="skills/B019YGPC1M/skill_icon" alt="Resistor Decoder icon" width="36"> [Resistor Decoder](skills/B019YGPC1M)
 
 *Alexa, open Resistor Decoder.*
 
 Read the color bands off a resistor and Resistor Decoder will tell you its value. Great for when you have a lot of resistors to organize (doesn't everyone?).
+
+***
+
+## &nbsp;<img src="skills/B01M650FET/skill_icon" alt="Resistor Reader icon" width="36"> [Resistor Reader](skills/B01M650FET)
+
+*Alexa Ask Resistor Reader Red Violet Orange Silver*
+
+Converts Resistor color codes to the resistance value in ohms
 
 ***
 
@@ -15140,11 +21912,35 @@ Decode the color codes on a resistor.
 
 ***
 
+## &nbsp;<img src="skills/B01MG1T4JM/skill_icon" alt="Restaurant Explorer icon" width="36"> [Restaurant Explorer](skills/B01MG1T4JM)
+
+*Alexa, Ask Restaurant Explorer to find nearest Chinese restaurants*
+
+This application gives you the information about nearest good restaurants in you location.
+
+***
+
 ## &nbsp;<img src="skills/B01DLAUR3K/skill_icon" alt="Restaurant Recommendations icon" width="36"> [Restaurant Recommendations](skills/B01DLAUR3K)
 
 *Alexa, ask Restaurant Recommendations: recommend a Thai place in Seattle*
 
 Don't know where to go for dinner tonight? Let Alexa help by providing local, highly rated restaurant suggestions!
+
+***
+
+## &nbsp;<img src="skills/B01LXSZABM/skill_icon" alt="Restaurants Around I. T. U. icon" width="36"> [Restaurants Around I. T. U.](skills/B01LXSZABM)
+
+*Alexa, start restaurants around i. t. u.*
+
+List of Restaurants around ITU
+
+***
+
+## &nbsp;<img src="skills/B01M70V3X6/skill_icon" alt="Retro Game Trivia icon" width="36"> [Retro Game Trivia](skills/B01M70V3X6)
+
+*Alexa, open Retro Game Trivia*
+
+A trivia skill focused on retro gaming, including both games & consoles
 
 ***
 
@@ -15156,6 +21952,14 @@ Reusable gives you an alternative to throwing away many household items.
 
 ***
 
+## &nbsp;<img src="skills/B01M5DQAC3/skill_icon" alt="Revel Digital icon" width="36"> [Revel Digital](skills/B01M5DQAC3)
+
+*Alexa, my signage*
+
+Utilize Alexa to control your Revel Digital signage and kiosk devices
+
+***
+
 ## &nbsp;<img src="skills/B01GN0S3F4/skill_icon" alt="reverse geek icon" width="36"> [reverse geek](skills/B01GN0S3F4)
 
 *Alexa, tell reverse geek to reverse Johnny Bravo*
@@ -15164,11 +21968,19 @@ This Alexa skill takes in any word or sentence and returns the reverse of it.
 
 ***
 
-## &nbsp;<img src="skills/B01KLKM32Q/skill_icon" alt="null" width="36"> [Revogi, LLC](skills/B01KLKM32Q)
+## &nbsp;<img src="skills/B01KLKM32Q/skill_icon" alt="Revogi icon" width="36"> [Revogi](skills/B01KLKM32Q)
 
 *There are no example interactions for this skill.*
 
-null
+Ask Alexa to turn on or off fans,lamps or whatever is plugged into the Revogi power strip or power plug.
+
+***
+
+## &nbsp;<img src="skills/B01MA11PFD/skill_icon" alt="reweather icon" width="36"> [reweather](skills/B01MA11PFD)
+
+*alexa, ask reverse climate to change the temperature to 15 degrees.*
+
+reweather is the first weather app with write permission
 
 ***
 
@@ -15260,6 +22072,22 @@ RioFacts provides 11 Fun Facts About Rio.
 
 ***
 
+## &nbsp;<img src="skills/B01MG785AY/skill_icon" alt="River Gauge icon" width="36"> [River Gauge](skills/B01MG785AY)
+
+*Alexa start River Gauge*
+
+River Gauge will give the water level of many Midwest rivers popular with canoeists and kayakers.
+
+***
+
+## &nbsp;<img src="skills/B01HKQV2OY/skill_icon" alt="River Place icon" width="36"> [River Place](skills/B01HKQV2OY)
+
+*Alexa, tell River Place to book me a tennis court*
+
+Book a tennis court in a few seconds using just your voice
+
+***
+
 ## &nbsp;<img src="skills/B01KWJGDWW/skill_icon" alt="River Runner icon" width="36"> [River Runner](skills/B01KWJGDWW)
 
 *Alexa, open River Runner*
@@ -15276,11 +22104,35 @@ Trivia contest for European rivers.  Test your knowledge of European rivers.  It
 
 ***
 
+## &nbsp;<img src="skills/B01KPCEIK0/skill_icon" alt="Riyadh Facts icon" width="36"> [Riyadh Facts](skills/B01KPCEIK0)
+
+*Alexa, open riyadh facts*
+
+Ask Alexa to tell you a few facts about Riyadh.
+
+***
+
 ## &nbsp;<img src="skills/B01IX2DTJU/skill_icon" alt="robot eggs icon" width="36"> [robot eggs](skills/B01IX2DTJU)
 
 *Alexa, ask robot eggs to tell me a fact.*
 
 Facts about Robot Eggs
+
+***
+
+## &nbsp;<img src="skills/B01M131DPC/skill_icon" alt="Robot Facts icon" width="36"> [Robot Facts](skills/B01M131DPC)
+
+*Alexa, ask robot facts to tell me a fact*
+
+Get some facts about robots.
+
+***
+
+## &nbsp;<img src="skills/B01LZS6XIJ/skill_icon" alt="Robot Pick Up Lines icon" width="36"> [Robot Pick Up Lines](skills/B01LZS6XIJ)
+
+*Alexa, open Robot Pick Up Lines*
+
+Fun robot pick up lines !
 
 ***
 
@@ -15297,6 +22149,14 @@ Game that can be used in conjunction with a pitching machine where Roxie is a vo
 *Alexa, open Robot Trivia*
 
 Impress our inevitable robot overlords!
+
+***
+
+## &nbsp;<img src="skills/B01LWMDN1W/skill_icon" alt="Robot Warfare icon" width="36"> [Robot Warfare](skills/B01LWMDN1W)
+
+*Alexa, open robot warfare*
+
+Act as commander to a highly advanced offensive robot prototype against hundreds of enemy units.
 
 ***
 
@@ -15324,6 +22184,14 @@ Classic Game of Rock Paper Scissor
 
 ***
 
+## &nbsp;<img src="skills/B01MF9XCDL/skill_icon" alt="Rock Paper Scissors icon" width="36"> [Rock Paper Scissors](skills/B01MF9XCDL)
+
+*Alexa Start Rock Paper Scissors*
+
+Alexa plays the classic Rock Paper Scissors game
+
+***
+
 ## &nbsp;<img src="skills/B01BI9JO1W/skill_icon" alt="Rock Paper Scissors Lizard Spock icon" width="36"> [Rock Paper Scissors Lizard Spock](skills/B01BI9JO1W)
 
 *Alexa, open lizard spock*
@@ -15332,11 +22200,35 @@ Alexa can play the Rock Paper Scissors Lizard Spock game. Ask Alexa to play a ga
 
 ***
 
-## &nbsp;<img src="skills/B01DOED528/skill_icon" alt="RockBot icon" width="36"> [RockBot](skills/B01DOED528)
+## &nbsp;<img src="skills/B01MXCUIT0/skill_icon" alt="null" width="36"> [Rock Profile](skills/B01MXCUIT0)
 
-*Alexa, ask The Rock to motivate me.*
+*There are no example interactions for this skill.*
 
-Motivation, Reflection, and Insults from the world's greatest action hero Dwayne "The Rock" Johnson.
+null
+
+***
+
+## &nbsp;<img src="skills/B01M69BK64/skill_icon" alt="Rock, Paper, Scissors icon" width="36"> [Rock, Paper, Scissors](skills/B01M69BK64)
+
+*Alexa, open rock, paper, scissors*
+
+Play rock, paper, scissors against a virtual opponent.
+
+***
+
+## &nbsp;<img src="skills/B01M0WF3IM/skill_icon" alt="rocket launch manfiest icon" width="36"> [rocket launch manfiest](skills/B01M0WF3IM)
+
+*Alexa, ask Rocket Manifest what's next.*
+
+Provide details of upcoming rocket launches
+
+***
+
+## &nbsp;<img src="skills/B01MDV7X67/skill_icon" alt="Rocket Man icon" width="36"> [Rocket Man](skills/B01MDV7X67)
+
+*Alexa ask Rocket Man for a fact*
+
+space facts from far away
 
 ***
 
@@ -15345,6 +22237,22 @@ Motivation, Reflection, and Insults from the world's greatest action hero Dwayne
 *Alexa, talk to Roddenberry.*
 
 Roddenberry's Trek Quotes is a fun, fast, and fabulous way to reminisce about your favorite Trek moments.
+
+***
+
+## &nbsp;<img src="skills/B01LYQHD3S/skill_icon" alt="Roller Coaster Geek icon" width="36"> [Roller Coaster Geek](skills/B01LYQHD3S)
+
+*Alexa open Roller Coaster Geek*
+
+RollerCoasterFacts
+
+***
+
+## &nbsp;<img src="skills/B01LWZ6TXD/skill_icon" alt="RollerCoaster Trivia icon" width="36"> [RollerCoaster Trivia](skills/B01LWZ6TXD)
+
+*Alexa, open RollerCoaster Trivia*
+
+Test your knowledge about RollerCoasters! Do you know the fastest the tallest? And do you know which park has the most rollercoasters? Test yourself today!
 
 ***
 
@@ -15388,19 +22296,51 @@ Have Alexa read you the most romantic movie lines of all time!
 
 ***
 
-## &nbsp;<img src="skills/B01IG9EYA8/skill_icon" alt="Root Square icon" width="36"> [Root Square](skills/B01IG9EYA8)
-
-*Alexa, ask root square*
-
-Root Square is a simple fun game for kids. Kids can learn square of numbers from 1 to 25 and square root of the numbers.
-
-***
-
 ## &nbsp;<img src="skills/B01EW3BOZK/skill_icon" alt="RoundTuit To-Do List icon" width="36"> [RoundTuit To-Do List](skills/B01EW3BOZK)
 
 *Alexa, tell Round To It to create task pickup dry cleaning due on december fourth at three thirty pm*
 
 Simple task reminder service
+
+***
+
+## &nbsp;<img src="skills/B01LMJVEFC/skill_icon" alt="Rover icon" width="36"> [Rover](skills/B01LMJVEFC)
+
+*Alexa, ask Little Rover to create folders*
+
+Rover is a runtime engine for Alexa Skill testing and prototyping.  Rover fetches your code or "bones" from a linked cloud drive.
+
+***
+
+## &nbsp;<img src="skills/B01MPWBD74/skill_icon" alt="RPG Dwarf Name Generator icon" width="36"> [RPG Dwarf Name Generator](skills/B01MPWBD74)
+
+*Alexa Open Dwarf Name Generator*
+
+Generate a list of names for a dwarven character in an RPG.
+
+***
+
+## &nbsp;<img src="skills/B01M8NU997/skill_icon" alt="RPG Elf Name Generator icon" width="36"> [RPG Elf Name Generator](skills/B01M8NU997)
+
+*Alexa Open Elf Name Generator*
+
+Generate a list of names for a elf character in an RPG.
+
+***
+
+## &nbsp;<img src="skills/B01MPXQUQC/skill_icon" alt="RPG Human Name Generator icon" width="36"> [RPG Human Name Generator](skills/B01MPXQUQC)
+
+*Alexa Open Human Name Generator*
+
+Generate a list of names for a human character in an RPG.
+
+***
+
+## &nbsp;<img src="skills/B01LWV42QN/skill_icon" alt="RPG Roles icon" width="36"> [RPG Roles](skills/B01LWV42QN)
+
+*alexa, open R.P.G. roles*
+
+Find our which role you would be best at in a RPG.
 
 ***
 
@@ -15420,6 +22360,14 @@ Learn cool random facts about the Runescape world starting back from Runescape C
 
 ***
 
+## &nbsp;<img src="skills/B01LZ5MGQT/skill_icon" alt="rugby facts icon" width="36"> [rugby facts](skills/B01LZ5MGQT)
+
+*Alexa ask rugby facts*
+
+A test skill for rugby facts
+
+***
+
 ## &nbsp;<img src="skills/B01INVMPKK/skill_icon" alt="Rugby Facts icon" width="36"> [Rugby Facts](skills/B01INVMPKK)
 
 *Alexa ask rugby facts a fact*
@@ -15436,6 +22384,14 @@ Test your knowledge of the rugby world cups with this fun quiz
 
 ***
 
+## &nbsp;<img src="skills/B01MCVZ0ND/skill_icon" alt="Rule the Vote icon" width="36"> [Rule the Vote](skills/B01MCVZ0ND)
+
+*Alexa, launch Rule the Vote*
+
+Voice your opinion on a variety of interesting and entertaining topics.   From serious to silly, new questions arrive every few days.  Vote early and often!
+
+***
+
 ## &nbsp;<img src="skills/B01JBTLUCW/skill_icon" alt="Rules of Acquisition from "Star Trek" (Unofficial) icon" width="36"> [Rules of Acquisition from "Star Trek" (Unofficial)](skills/B01JBTLUCW)
 
 *Alexa, ask rules of acquisition for a rule.*
@@ -15449,6 +22405,14 @@ Behold the Rules of Acquisition!  May profit forever be your guiding principle.
 *Alexa, open running facts.*
 
 Learn interesting facts and terms related to running with this Alexa skill.
+
+***
+
+## &nbsp;<img src="skills/B01M08TTAO/skill_icon" alt="Running Facts icon" width="36"> [Running Facts](skills/B01M08TTAO)
+
+*Alexa, open running facts*
+
+Fun facts on running
 
 ***
 
@@ -15476,11 +22440,27 @@ Learn about all things Rusty!
 
 ***
 
+## &nbsp;<img src="skills/B01M8PJKGR/skill_icon" alt="S. Watch icon" width="36"> [S. Watch](skills/B01M8PJKGR)
+
+*Alexa, start S. Watch*
+
+A stopwatch that allows you to do other things while it's running.
+
+***
+
 ## &nbsp;<img src="skills/B01DF3DT8I/skill_icon" alt="S.L.P. Praxis Review icon" width="36"> [S.L.P. Praxis Review](skills/B01DF3DT8I)
 
 *Alexa, start S.L.P. Review*
 
 S.L.P. Praxis Review is an interactive voice activated flashcard skill for the Speech-Language Pathology (SLP) Certification Exam. Study w/ ease... hands-free!
+
+***
+
+## &nbsp;<img src="skills/B01MSH4QTP/skill_icon" alt="Sachin UnOfficial: 100 Questions icon" width="36"> [Sachin UnOfficial: 100 Questions](skills/B01MSH4QTP)
+
+*Alexa, launch know the master*
+
+Challenge your knowledge of the greatest batsmen from modern era by answering simple questions about Sachin Tendulkar
 
 ***
 
@@ -15508,6 +22488,14 @@ Alexa knows all about elements of the periodic table. Ask Alexa to share her kno
 
 ***
 
+## &nbsp;<img src="skills/B01LYFNBZV/skill_icon" alt="Sailboat Facts icon" width="36"> [Sailboat Facts](skills/B01LYFNBZV)
+
+*Alexa ask sailboat facts to tell me a sailboat fact*
+
+A few facts about sailboats
+
+***
+
 ## &nbsp;<img src="skills/B01JYPXSFU/skill_icon" alt="Sailing Guru icon" width="36"> [Sailing Guru](skills/B01JYPXSFU)
 
 *Alexa, start Sailing Guru and start a game*
@@ -15532,11 +22520,45 @@ salsaMusicDance
 
 ***
 
+## &nbsp;<img src="skills/B01M0JIUYC/skill_icon" alt="Sammamish Facts icon" width="36"> [Sammamish Facts](skills/B01M0JIUYC)
+
+*Alexa Open Sammamish Facts*
+
+This skill will tell you facts about Sammamish, WA, USA.
+
+***
+
 ## &nbsp;<img src="skills/B01E8NGW60/skill_icon" alt="Samsung ARTIK Cloud icon" width="36"> [Samsung ARTIK Cloud](skills/B01E8NGW60)
 
 *Alexa, start ARTIK*
 
 Command by voice all your devices connected on Samsung ARTIK Cloud!
+
+***
+
+## &nbsp;<img src="skills/B01GZDOJOI/skill_icon" alt="Samsung Smart Home icon" width="36"> [Samsung Smart Home](skills/B01GZDOJOI)
+
+*There are no example interactions for this skill.*
+
+You can use voice commands to control your Samsung Smart Home appliances with Amazon Alexa
+
+Compatible with Samsung Smart Robot Vacuum and AC, and more to come.
+
+***
+
+## &nbsp;<img src="skills/B01M6ZNLBA/skill_icon" alt="Samsung Smart Home icon" width="36"> [Samsung Smart Home](skills/B01M6ZNLBA)
+
+*Alexa, ask Samsung to start robot vacuum.*
+
+You can use voice commands to control your Samsung Smart Home appliances with Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01LWKYY6V/skill_icon" alt="San Francisco fact icon" width="36"> [San Francisco fact](skills/B01LWKYY6V)
+
+*Alexa, open san francisco fact*
+
+A San Francisco Fact App... An unofficial San Francisco Fact App for Alexa users.
 
 ***
 
@@ -15548,11 +22570,27 @@ San Francisco Facts: Things You Didn't Know About San Francisco
 
 ***
 
+## &nbsp;<img src="skills/B01MEHM2AI/skill_icon" alt="San Francisco Facts icon" width="36"> [San Francisco Facts](skills/B01MEHM2AI)
+
+*Alexa, open San Francisco facts*
+
+Learn more about fun and interesting facts about the city by the bay, San Francisco!
+
+***
+
 ## &nbsp;<img src="skills/B01J95L7QW/skill_icon" alt="San Francisco Music Trivia icon" width="36"> [San Francisco Music Trivia](skills/B01J95L7QW)
 
 *Alexa, start San Francisco music trivia*
 
 A trivia game featuring musicians and bands from the San Francisco Bay Area.
+
+***
+
+## &nbsp;<img src="skills/B01M11UV63/skill_icon" alt="Sand Creek Elementary Lunch icon" width="36"> [Sand Creek Elementary Lunch](skills/B01M11UV63)
+
+*Alexa, ask Sand Creek lunch lady what's for lunch today?*
+
+Gets lunch menus for Sand Creek Elementary in Coon Rapids, MN.
 
 ***
 
@@ -15572,19 +22610,19 @@ This skill plays sankrit short mantras. At this point, it only plays mp3 files
 
 ***
 
-## &nbsp;<img src="skills/B019HUS30M/skill_icon" alt="Santa's Helper icon" width="36"> [Santa's Helper](skills/B019HUS30M)
-
-*Alexa, ask Santa where is he?*
-
-Keep track of Santa on Christmas eve, find out if you’re on the nice list, and hear fun facts with Santa’s Helper. Just ask “Alexa, ask Santa, where are you?"
-
-***
-
 ## &nbsp;<img src="skills/B01DNN4EI4/skill_icon" alt="Sary's Trivia Game icon" width="36"> [Sary's Trivia Game](skills/B01DNN4EI4)
 
 *Alexa, ask Trivia about Sary*
 
 Alexa Trivia game about Sary
+
+***
+
+## &nbsp;<img src="skills/B01MXHERVL/skill_icon" alt="Sassy Magic 8 icon" width="36"> [Sassy Magic 8](skills/B01MXHERVL)
+
+*Alexa, launch magic eight ball.*
+
+Magic 8 Ball Skill...except a lot sassier!
 
 ***
 
@@ -15612,11 +22650,35 @@ Satoshi's Bitcoin Quote is the first, fastest, and funnest way to keep up to dat
 
 ***
 
-## &nbsp;<img src="skills/B01IXAQ96M/skill_icon" alt="Science Facts icon" width="36"> [Science Facts](skills/B01IXAQ96M)
+## &nbsp;<img src="skills/B01N3MCNSG/skill_icon" alt="Say My Goals icon" width="36"> [Say My Goals](skills/B01N3MCNSG)
 
-*Alexa, start science facts*
+*Alexa open say my goals and state my goals*
 
-Tells facts about science
+this skill will provide a simple list of goals, these are generic for any married christian man.
+
+***
+
+## &nbsp;<img src="skills/B01KU4B1EO/skill_icon" alt="Sayspring icon" width="36"> [Sayspring](skills/B01KU4B1EO)
+
+*Alexa, open say spring.*
+
+This skill lets you interact with your Sayspring prototyping projects.
+
+***
+
+## &nbsp;<img src="skills/B01LX8527T/skill_icon" alt="School Closings icon" width="36"> [School Closings](skills/B01LX8527T)
+
+*Alexa, ask School Closings if Burlington High School is open today.*
+
+Ask if a Vermont or New Hampshire school has a delayed opening or closure.
+
+***
+
+## &nbsp;<img src="skills/B01JFUHN0K/skill_icon" alt="School Menus By Nutrislice icon" width="36"> [School Menus By Nutrislice](skills/B01JFUHN0K)
+
+*Alexa, open school menus.*
+
+"What's for lunch?" is the question of the day. Getting the answer is easy with School Menus by Nutrislice. Includes breakfast & supper menus where available.
 
 ***
 
@@ -15625,6 +22687,30 @@ Tells facts about science
 *Alexa, ask science fiction facts to give me a science fiction fact*
 
 Science Fiction Facts
+
+***
+
+## &nbsp;<img src="skills/B01M1ACXV5/skill_icon" alt="Science Guy Facts icon" width="36"> [Science Guy Facts](skills/B01M1ACXV5)
+
+*Alexa, Open Science Guy*
+
+This tells you cool things you might not know about Bill Nye, the science guy.
+
+***
+
+## &nbsp;<img src="skills/B01MAX808K/skill_icon" alt="Science News icon" width="36"> [Science News](skills/B01MAX808K)
+
+*Alexa, ask Science News for the latest post*
+
+View the latest posts in the Science subreddit
+
+***
+
+## &nbsp;<img src="skills/B01MF610UR/skill_icon" alt="Science Quiz icon" width="36"> [Science Quiz](skills/B01MF610UR)
+
+*Alexa, open Science Quiz and start game*
+
+Play Science Quiz with Alexa
 
 ***
 
@@ -15644,11 +22730,27 @@ Science facts
 
 ***
 
+## &nbsp;<img src="skills/B01LXU9ASF/skill_icon" alt="Science Trivia icon" width="36"> [Science Trivia](skills/B01LXU9ASF)
+
+*Alexa, open science trivia*
+
+Test your science knowledge with Science Trivia.
+
+***
+
 ## &nbsp;<img src="skills/B01CDOOAD8/skill_icon" alt="Science Trivia Game icon" width="36"> [Science Trivia Game](skills/B01CDOOAD8)
 
 *Alexa start science trivia game*
 
 Simple science trivia game
+
+***
+
+## &nbsp;<img src="skills/B01N8TYCQQ/skill_icon" alt="Science Trivia Game icon" width="36"> [Science Trivia Game](skills/B01N8TYCQQ)
+
+*Alexa, open science trivia game*
+
+A trivia game about science and nature.
 
 ***
 
@@ -15668,11 +22770,43 @@ Ask Alexa for a Science Fact!
 
 ***
 
+## &nbsp;<img src="skills/B01LZYUDZC/skill_icon" alt="Scotch Whisky Quiz by Inside the Cask icon" width="36"> [Scotch Whisky Quiz by Inside the Cask](skills/B01LZYUDZC)
+
+*Alexa Open Scotch Whisky*
+
+Scotch Whisky Quiz
+
+***
+
+## &nbsp;<img src="skills/B01M4P4RVA/skill_icon" alt="Scots Words icon" width="36"> [Scots Words](skills/B01M4P4RVA)
+
+*Alexa, ask Scots Words to tell me a word*
+
+Learn the Scots dialect, with over a hundred words translated into regular English. Don't get het up, you'll be braw!
+
+***
+
 ## &nbsp;<img src="skills/B017OBHGZO/skill_icon" alt="Scout Alarm icon" width="36"> [Scout Alarm](skills/B017OBHGZO)
 
 *Alexa, ask Scout to arm home mode.*
 
 Controlling your Scout security system has never been easier. Ask Alexa to arm and disarm, retrieve recent activities, or check in on the status of a sensor.
+
+***
+
+## &nbsp;<img src="skills/B01LFV9L7K/skill_icon" alt="Scramble Terms icon" width="36"> [Scramble Terms](skills/B01LFV9L7K)
+
+*Alexa, open scramble terms*
+
+tell user what is the recipe for scrambling
+
+***
+
+## &nbsp;<img src="skills/B01M9AHAXK/skill_icon" alt="Scriptures Every Day icon" width="36"> [Scriptures Every Day](skills/B01M9AHAXK)
+
+*Alexa, ask Scriptures Every Day to read today's scriptures*
+
+Have Alexa read a daily passage from the Bible or Book of Mormon.
 
 ***
 
@@ -15708,6 +22842,14 @@ Challenging Seattle Seahawk Trivia
 
 ***
 
+## &nbsp;<img src="skills/B01LX5RICX/skill_icon" alt="Seahawks Fan Trivia icon" width="36"> [Seahawks Fan Trivia](skills/B01LX5RICX)
+
+*Alexa, play Seahawks Fan Trivia*
+
+Are you a true Seahawks fan? Are you tired of people calling Seahawks fans bandwagoners? Test your Seahawks knowledge and play the Seahawks Trivia Game!
+
+***
+
 ## &nbsp;<img src="skills/B01GOTHPQW/skill_icon" alt="Seattle Area Busing (SAB) icon" width="36"> [Seattle Area Busing (SAB)](skills/B01GOTHPQW)
 
 *Alexa open S. A. B. and get bus 49 from stop 10911*
@@ -15740,6 +22882,38 @@ Seattle Facts
 
 ***
 
+## &nbsp;<img src="skills/B01LZGTZV3/skill_icon" alt="Seattle Facts icon" width="36"> [Seattle Facts](skills/B01LZGTZV3)
+
+*alexa, open Seattle facts*
+
+Fun facts about the city of Seattle
+
+***
+
+## &nbsp;<img src="skills/B01M0AFDYE/skill_icon" alt="Seattle Facts icon" width="36"> [Seattle Facts](skills/B01M0AFDYE)
+
+*"Alexa, open seattle facts"*
+
+Learn about the city of Seattle with random facts.
+
+***
+
+## &nbsp;<img src="skills/B01LXMKYM4/skill_icon" alt="Seattle Mariners Trivia Unofficial icon" width="36"> [Seattle Mariners Trivia Unofficial](skills/B01LXMKYM4)
+
+*"Alexa, open seattle mariners trivia unofficial"*
+
+Learn about the Seattle Mariners with random trivia.
+
+***
+
+## &nbsp;<img src="skills/B01LYNW26V/skill_icon" alt="Seattle Seahawks Facts Unofficial icon" width="36"> [Seattle Seahawks Facts Unofficial](skills/B01LYNW26V)
+
+*"Alexa, open seattle seahawks facts unofficial"*
+
+Learn about the Seattle Seahawks with random facts.
+
+***
+
 ## &nbsp;<img src="skills/B01BLYBPBQ/skill_icon" alt="Seattle Transit icon" width="36"> [Seattle Transit](skills/B01BLYBPBQ)
 
 *Alexa, ask Seattle Transit for directions from Ballard to Capitol Hill*
@@ -15753,6 +22927,14 @@ Get step-by-step transit directions between neighborhoods in Seattle.
 *Alexa, open Seattle Facts*
 
 Seattle Facts
+
+***
+
+## &nbsp;<img src="skills/B01LXN2ORC/skill_icon" alt="SeattleFacts icon" width="36"> [SeattleFacts](skills/B01LXN2ORC)
+
+*Alexa, launch seattle facts*
+
+Quickly learn a fact about the city of Seattle.
 
 ***
 
@@ -15780,11 +22962,11 @@ Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 
 ***
 
-## &nbsp;<img src="skills/B01KMMR67A/skill_icon" alt="Seinfeld Genius icon" width="36"> [Seinfeld Genius](skills/B01KMMR67A)
+## &nbsp;<img src="skills/B01LY3DE7Q/skill_icon" alt="Sens Trivia icon" width="36"> [Sens Trivia](skills/B01LY3DE7Q)
 
-*Alexa, launch Seinfeld Genius*
+*Alexa, Open Sens Trivia*
 
-Are you a fan of Seinfeld? Then enable Seinfeld Genius and see how much you really know about the hilarious sitcom from the '90s!
+This is the unofficial Ottawa Senators hockey team trivia game.
 
 ***
 
@@ -15811,6 +22993,46 @@ Sensibo smart air conditioner
 *Alexa, ask Sentieo what is the F Y Twenty Seventeen sales growth for A M Z N?*
 
 Free Financial Data from the World's Most Advanced Equity Research Platform
+
+***
+
+## &nbsp;<img src="skills/B01MA65OAW/skill_icon" alt="Server Status icon" width="36"> [Server Status](skills/B01MA65OAW)
+
+*Alexa, ask Server Status if google.com is up*
+
+A simple tool that checks if websites are online.
+
+***
+
+## &nbsp;<img src="skills/B01M70U45X/skill_icon" alt="Serverless Architecture icon" width="36"> [Serverless Architecture](skills/B01M70U45X)
+
+*Alexa, start Server less Architecture*
+
+A skill to help determine if your application is a good candidate for a serverless architecture (e.g., Lambda).
+
+***
+
+## &nbsp;<img src="skills/B01LYD4K67/skill_icon" alt="Serverless Facts icon" width="36"> [Serverless Facts](skills/B01LYD4K67)
+
+*Alexa, start Server less Facts*
+
+Facts about Serverless cloud computing.
+
+***
+
+## &nbsp;<img src="skills/B01M32R2W6/skill_icon" alt="Serverless Terms icon" width="36"> [Serverless Terms](skills/B01M32R2W6)
+
+*Alexa, open server less terms*
+
+Serverles
+
+***
+
+## &nbsp;<img src="skills/B01MF8WMGW/skill_icon" alt="Service Local icon" width="36"> [Service Local](skills/B01MF8WMGW)
+
+*Alexa, tell Service Local I need a plumber*
+
+Find local service providers near you quickly and easily. Find a plumber, electrician, handyman, locksmith, hair dresser and many more.
 
 ***
 
@@ -15878,6 +23100,30 @@ Hear a shakespeare quote and be delighted and enriched.
 
 ***
 
+## &nbsp;<img src="skills/B01KYMD6SQ/skill_icon" alt="Shakespearean Insulter icon" width="36"> [Shakespearean Insulter](skills/B01KYMD6SQ)
+
+*Alexa, ask Shakespearean Insulter*
+
+Shakespearean Insults
+
+***
+
+## &nbsp;<img src="skills/B01M0WO624/skill_icon" alt="Share The Facts icon" width="36"> [Share The Facts](skills/B01M0WO624)
+
+*Alexa, ask the fact-checkers if Donald Trump opposed the war in Iraq?*
+
+Share the Facts allows you, the citizen, to ask the top fact checking journalists in the US what's true and what's not.
+
+***
+
+## &nbsp;<img src="skills/B01M1L4PJQ/skill_icon" alt="Sharing Economy icon" width="36"> [Sharing Economy](skills/B01M1L4PJQ)
+
+*Alexa, Open Sharing Economy*
+
+Survive the Sharing Economy Trivia. How well do you really know your sharing economy? Also find out about ones you haven't tried out yet, too.
+
+***
+
 ## &nbsp;<img src="skills/B01HW2KFRQ/skill_icon" alt="shark facts icon" width="36"> [shark facts](skills/B01HW2KFRQ)
 
 *Alexa, ask professor shark for a shark fact*
@@ -15894,11 +23140,43 @@ Ask me for a random shark fact!
 
 ***
 
+## &nbsp;<img src="skills/B01M007JQS/skill_icon" alt="Shark Facts icon" width="36"> [Shark Facts](skills/B01M007JQS)
+
+*Alexa ask shark facts for a fact*
+
+A random shark fact skill for Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01MDTJRWH/skill_icon" alt="null" width="36"> [ShawSolution](skills/B01MDTJRWH)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01COCCKW2/skill_icon" alt="Sheep Count icon" width="36"> [Sheep Count](skills/B01COCCKW2)
 
 *Alexa, start Sheep Count*
 
 Count sheep before bed! Guaranteed to give you a laugh.
+
+***
+
+## &nbsp;<img src="skills/B01M3TBS1U/skill_icon" alt="SheppyBrew icon" width="36"> [SheppyBrew](skills/B01M3TBS1U)
+
+*Alexa open Home Brew*
+
+Information about SheppyBrew Home Brewery
+
+***
+
+## &nbsp;<img src="skills/B01LZU84EV/skill_icon" alt="Sherlock Facts icon" width="36"> [Sherlock Facts](skills/B01LZU84EV)
+
+*Alexa, open Sherlock Facts*
+
+Learn facts about Sherlock Holmes
 
 ***
 
@@ -15923,6 +23201,14 @@ Shootipedia
 *Alexa, ask meat seeker to find me the cheapest sardines.*
 
 Skill to query crawler-collected Seattle grocery store weekly circular data and find cheapest place to buy a particular item.
+
+***
+
+## &nbsp;<img src="skills/B01M0QE950/skill_icon" alt="ShopSavvy icon" width="36"> [ShopSavvy](skills/B01M0QE950)
+
+*Alexa, ask ShopSavvy if diapers are on sale at Walmart.*
+
+ShopSavvy saves you money.
 
 ***
 
@@ -16022,6 +23308,14 @@ Chicken jokes, silly chicken questions/answers and so on
 
 ***
 
+## &nbsp;<img src="skills/B01M5IIT8K/skill_icon" alt="Silly Dog Facts icon" width="36"> [Silly Dog Facts](skills/B01M5IIT8K)
+
+*Alexa, launch silly dog facts.*
+
+Do you want to know a few cool things about dogs? Here's your chance. Silly dog facts is all you need.
+
+***
+
 ## &nbsp;<img src="skills/B01IZZK2C2/skill_icon" alt="Silly Guy icon" width="36"> [Silly Guy](skills/B01IZZK2C2)
 
 *Alexa, ask silly guy for a joke*
@@ -16038,22 +23332,6 @@ this skill tells  a joke
 
 ***
 
-## &nbsp;<img src="skills/B01H98E7EU/skill_icon" alt="Silly Things icon" width="36"> [Silly Things](skills/B01H98E7EU)
-
-*Alexa, Ask SillyThings to tell me to do something silly*
-
-SillyThings will randomly give you something silly to do. It is a fun game to play with the family.
-
-***
-
-## &nbsp;<img src="skills/B01CJU8G0E/skill_icon" alt="Silly Winnie icon" width="36"> [Silly Winnie](skills/B01CJU8G0E)
-
-*Alexa, ask Silly Winnie for a joke*
-
-Winnie the silly mastiff puppy loves to tell kid friendly jokes!
-
-***
-
 ## &nbsp;<img src="skills/B01GM9CPLY/skill_icon" alt="SillyJoke icon" width="36"> [SillyJoke](skills/B01GM9CPLY)
 
 *Alexa, ask silly joke to tell me a joke.*
@@ -16067,14 +23345,6 @@ Get some silly jokes.
 *Alexa, ask silverbug what's the price of Silver?*
 
 This application can be used to lookup the price of Silver, Gold, and Bitcoin.
-
-***
-
-## &nbsp;<img src="skills/B01HR3IOH8/skill_icon" alt="Simon Says icon" width="36"> [Simon Says](skills/B01HR3IOH8)
-
-*Alexa, start simon says*
-
-Alexa will say "Simon says..." and gives instructions. Pay attention or else you will be eliminated if you follow instruction without Alexa saying "Simon says"!
 
 ***
 
@@ -16115,14 +23385,6 @@ Simple Fortune Teller. It's a fortune cookie without the cookie.
 *Alexa, Begin Simple Trivia Game*
 
 Simple Trivia Game with Questions about Pratt Institute
-
-***
-
-## &nbsp;<img src="skills/B01ICSCR5M/skill_icon" alt="SimpleAddition icon" width="36"> [SimpleAddition](skills/B01ICSCR5M)
-
-*Alexa, open simple addition.*
-
-This tests simple addition using the numbers 1 through 5.
 
 ***
 
@@ -16167,6 +23429,14 @@ Single Quote is an app for retrieving quote information on most widely traded eq
 
 ***
 
+## &nbsp;<img src="skills/B01M4Q7KE3/skill_icon" alt="Sint Maarten Quiz icon" width="36"> [Sint Maarten Quiz](skills/B01M4Q7KE3)
+
+*Alexa, start Sint Maarten quiz*
+
+Learn some facts of Sint Maarten through quizzing!
+
+***
+
 ## &nbsp;<img src="skills/B01HL226GU/skill_icon" alt="SirKnocksAlot icon" width="36"> [SirKnocksAlot](skills/B01HL226GU)
 
 *Alexa, open sir knocks a lot*
@@ -16196,6 +23466,14 @@ Ask Alexa to describe a website.
 *Alexa ask six month old baby facts to tell me something about my six month old baby*
 
 Tells users a brief general fact about 6  month old babies.
+
+***
+
+## &nbsp;<img src="skills/B01M3VLO8V/skill_icon" alt="Sixers Fan icon" width="36"> [Sixers Fan](skills/B01M3VLO8V)
+
+*Alexa ask sixers fan what's up*
+
+Get the score of the last or in progress Sixer's game with Philly flare
 
 ***
 
@@ -16231,11 +23509,19 @@ Control your SkyBell HD video doorbell, including live video recordings!
 
 ***
 
-## &nbsp;<img src="skills/B01AS6Q8II/skill_icon" alt="Skyscanner Flight Search icon" width="36"> [Skyscanner Flight Search](skills/B01AS6Q8II)
+## &nbsp;<img src="skills/B01LZ93OVC/skill_icon" alt="Skyscanner Flight Search icon" width="36"> [Skyscanner Flight Search](skills/B01LZ93OVC)
 
-*Alexa, ask Skyscanner for a flight*
+*Alexa, open Skyscanner*
 
 Search for flight prices anywhere in the world, by conversing with Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01LZMP2CF/skill_icon" alt="Slalom Facts icon" width="36"> [Slalom Facts](skills/B01LZMP2CF)
+
+*Alexa, ask slalom facts for a fact*
+
+Learn about slalom ski racing
 
 ***
 
@@ -16246,6 +23532,22 @@ Search for flight prices anywhere in the world, by conversing with Alexa.
 This voice skill gives a response from a list of things that Slater loves with Alexa speaking it's sound.
 
 Just say "Alexa ask slater bug what slater likes"
+
+***
+
+## &nbsp;<img src="skills/B01KR03EJQ/skill_icon" alt="Sleep Facts icon" width="36"> [Sleep Facts](skills/B01KR03EJQ)
+
+*Alexa, open Sleep Facts*
+
+Some fun facts about sleep,
+
+***
+
+## &nbsp;<img src="skills/B01LWVM26U/skill_icon" alt="null" width="36"> [Slice of Cheese](skills/B01LWVM26U)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -16273,6 +23575,46 @@ Smart Cap is an assistant for visually impaired which narrates the description o
 
 ***
 
+## &nbsp;<img src="skills/B01M5GH465/skill_icon" alt="Smart Home GD icon" width="36"> [Smart Home GD](skills/B01M5GH465)
+
+*There are no example interactions for this skill.*
+
+Demo Skill that will not do much.
+
+***
+
+## &nbsp;<img src="skills/B01M3VQ25O/skill_icon" alt="Smart Hotel icon" width="36"> [Smart Hotel](skills/B01M3VQ25O)
+
+*Alexa, launch restaurant menu*
+
+This skill is designed for Alexa contest. Choose your favorite dish from hotel menu
+
+***
+
+## &nbsp;<img src="skills/B01LWUO8KM/skill_icon" alt="Smart Phone Facts icon" width="36"> [Smart Phone Facts](skills/B01LWUO8KM)
+
+*Alexa, open Smart Phone Facts.*
+
+Get helpful tips about using your smartphone!
+
+***
+
+## &nbsp;<img src="skills/B01HU9I16I/skill_icon" alt="Smart Security icon" width="36"> [Smart Security](skills/B01HU9I16I)
+
+*Alexa, tell Smart Security to run "Bedtime."*
+
+Home automation and security just got easier with the Alexa skill for the LG Smart Security, powered by ADT Canopy.
+
+***
+
+## &nbsp;<img src="skills/B01LZNZBFK/skill_icon" alt="Smart Symptom Tracker icon" width="36"> [Smart Symptom Tracker](skills/B01LZNZBFK)
+
+*Alexa, start Smart Symptom Tracker*
+
+Allows check in for Revon patients
+
+***
+
 ## &nbsp;<img src="skills/B01JF0HYMW/skill_icon" alt="smartdesign icon" width="36"> [smartdesign](skills/B01JF0HYMW)
 
 *Alexa, ask smart design for a fact*
@@ -16281,15 +23623,34 @@ Simple design principles
 
 ***
 
-## &nbsp;<img src="skills/B01H2D0WXM/skill_icon" alt="SmartOptometryGuy icon" width="36"> [SmartOptometryGuy](skills/B01H2D0WXM)
+## &nbsp;<img src="skills/B01MFXAP9O/skill_icon" alt="SmartEngine icon" width="36"> [SmartEngine](skills/B01MFXAP9O)
 
-*Alexa, ask smart optometry guy to tell me an optometry fact*
+*Alexa ask SmartEngine Turn on the light*
 
-A skill that tells the individual interesting eye facts.
+Controls your SmartEngine lighting system
 
 ***
 
-## &nbsp;<img src="skills/B01ETW5Q9O/skill_icon" alt="null" width="36"> [SmartThings](skills/B01ETW5Q9O)
+## &nbsp;<img src="skills/B01DWNIYTU/skill_icon" alt="SmartLink icon" width="36"> [SmartLink](skills/B01DWNIYTU)
+
+*Alexa, tell Smart Link to arm to away mode*
+
+Arm and disarm your alarm panel
+View your alarm panel status
+Control home automation devices
+Send police, fire or ambulance in case of emergencies.
+
+***
+
+## &nbsp;<img src="skills/B01ETW5Q9O/skill_icon" alt="SmartThings icon" width="36"> [SmartThings](skills/B01ETW5Q9O)
+
+*There are no example interactions for this skill.*
+
+With the SmartThings skills for Alexa, you can now control a wide range of connected lights, switches, dimmers, outlets, and thermostats with your voice.
+
+***
+
+## &nbsp;<img src="skills/B01LXO6PPS/skill_icon" alt="null" width="36"> [SmartThings](skills/B01LXO6PPS)
 
 *There are no example interactions for this skill.*
 
@@ -16302,6 +23663,14 @@ null
 *Alexa, ask smart wood for a fact*
 
 Wood trivia
+
+***
+
+## &nbsp;<img src="skills/B01LZDP77C/skill_icon" alt="Smarty Fact of the Day icon" width="36"> [Smarty Fact of the Day](skills/B01LZDP77C)
+
+*Alexa Open Smarty Facts*
+
+Get an interesting fact every day to get a broader perspective of the world and increase your general knowledge with Smarty Fact!
 
 ***
 
@@ -16321,11 +23690,27 @@ This skill will list out ingredients needed for some top smoothie recipes on Nut
 
 ***
 
+## &nbsp;<img src="skills/B01LWEYU20/skill_icon" alt="Smrithi - India Facts icon" width="36"> [Smrithi - India Facts](skills/B01LWEYU20)
+
+*Alexa, ask smrithi facts to tell me a fact*
+
+Smrithi, is an India Facts Assimilator.
+
+***
+
 ## &nbsp;<img src="skills/B01DO6OLW4/skill_icon" alt="SMS With Molly icon" width="36"> [SMS With Molly](skills/B01DO6OLW4)
 
 *Alexa, ask SMS With Molly to text John "I'm back"*
 
 Send Free Text Messages With Amazon Echo.
+
+***
+
+## &nbsp;<img src="skills/B01LZJ7MPD/skill_icon" alt="snake facts icon" width="36"> [snake facts](skills/B01LZJ7MPD)
+
+*"Alexa, open snake facts."*
+
+Facts about snakes
 
 ***
 
@@ -16342,6 +23727,3526 @@ Get some interesting snake trivia
 *Alexa, ask Snow Day Assistant what are the chances of school tomorrow?*
 
 Ask Alexa how likely you are to have a snow day tomorrow
+
+***
+
+## &nbsp;<img src="skills/B01LXC5NVM/skill_icon" alt="Snow Report for 49 Degrees North icon" width="36"> [Snow Report for 49 Degrees North](skills/B01LXC5NVM)
+
+*Alexa, open 49 Degrees North*
+
+The 49 Degrees North Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for 49 Degrees North.
+
+***
+
+## &nbsp;<img src="skills/B01M4LFL73/skill_icon" alt="Snow Report for Afton Alps icon" width="36"> [Snow Report for Afton Alps](skills/B01M4LFL73)
+
+*Alexa, open Afton Alps*
+
+The Afton Alps Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Afton Alps.
+
+***
+
+## &nbsp;<img src="skills/B01M0OMUOV/skill_icon" alt="Snow Report for Alpine Meadows icon" width="36"> [Snow Report for Alpine Meadows](skills/B01M0OMUOV)
+
+*Alexa, ask Alpine Meadows for the snow report*
+
+The Alpine Meadows Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Alpine Meadows.
+
+***
+
+## &nbsp;<img src="skills/B01M3YQ564/skill_icon" alt="Snow Report for Alpine Mountain icon" width="36"> [Snow Report for Alpine Mountain](skills/B01M3YQ564)
+
+*Alexa, open Alpine Mountain*
+
+The Alpine Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Alpine Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M5DMCT7/skill_icon" alt="Snow Report for Alpine Valley icon" width="36"> [Snow Report for Alpine Valley](skills/B01M5DMCT7)
+
+*Alexa, open Alpine Valley*
+
+The Alpine Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Alpine Valley.
+
+***
+
+## &nbsp;<img src="skills/B01M7TT4GN/skill_icon" alt="Snow Report for Alpine Valley Ohio icon" width="36"> [Snow Report for Alpine Valley Ohio](skills/B01M7TT4GN)
+
+*Alexa, open Alpine Valley Ohio*
+
+The Alpine Valley Ohio Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Alpine Valley Ohio.
+
+***
+
+## &nbsp;<img src="skills/B01MFH8KUU/skill_icon" alt="Snow Report for Alpine Valley Resort (WI) icon" width="36"> [Snow Report for Alpine Valley Resort (WI)](skills/B01MFH8KUU)
+
+*Alexa, open Alpine Valley Resort*
+
+The Alpine Valley Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Alpine Valley Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M2DDHIQ/skill_icon" alt="Snow Report for Alta Mountain icon" width="36"> [Snow Report for Alta Mountain](skills/B01M2DDHIQ)
+
+*Alexa, open Alta Mountain*
+
+The Alta Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Alta Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M1K4YS3/skill_icon" alt="Snow Report for Alyeska Resort icon" width="36"> [Snow Report for Alyeska Resort](skills/B01M1K4YS3)
+
+*Alexa, ask Alyeska Resort for the snow report*
+
+The Alyeska Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Alyeska Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M6Z4PKX/skill_icon" alt="Snow Report for Andes Tower Hills icon" width="36"> [Snow Report for Andes Tower Hills](skills/B01M6Z4PKX)
+
+*Alexa, open Andes Tower Hills*
+
+The Andes Tower Hills Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Andes Tower Hills.
+
+***
+
+## &nbsp;<img src="skills/B01LZBPVMS/skill_icon" alt="Snow Report for Angel Fire icon" width="36"> [Snow Report for Angel Fire](skills/B01LZBPVMS)
+
+*Alexa, open Angel Fire*
+
+The Angel Fire Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Angel Fire.
+
+***
+
+## &nbsp;<img src="skills/B01MPWQS98/skill_icon" alt="Snow Report for Anthony Lakes icon" width="36"> [Snow Report for Anthony Lakes](skills/B01MPWQS98)
+
+*Alexa, open Anthony Lakes*
+
+The Anthony Lakes Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Anthony Lakes.
+
+***
+
+## &nbsp;<img src="skills/B01LZM5GS5/skill_icon" alt="Snow Report for Apex Mountain icon" width="36"> [Snow Report for Apex Mountain](skills/B01LZM5GS5)
+
+*Alexa, open Apex Mountain*
+
+The Apex Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Apex Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MG3ODFV/skill_icon" alt="Snow Report for Appalachian Ski icon" width="36"> [Snow Report for Appalachian Ski](skills/B01MG3ODFV)
+
+*Alexa, open Appalachian Ski*
+
+The Appalachian Ski Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Appalachian Ski.
+
+***
+
+## &nbsp;<img src="skills/B01M6Z5EEZ/skill_icon" alt="Snow Report for Apple Mountain icon" width="36"> [Snow Report for Apple Mountain](skills/B01M6Z5EEZ)
+
+*Alexa, open Apple Mountain*
+
+The Apple Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Apple Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LZM5BR4/skill_icon" alt="Snow Report for Arizona Snowbowl icon" width="36"> [Snow Report for Arizona Snowbowl](skills/B01LZM5BR4)
+
+*Alexa, ask Arizona Snowbowl for the snow report*
+
+The Arizona Snowbowl Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Arizona Snowbowl.
+
+***
+
+## &nbsp;<img src="skills/B01MCXJX89/skill_icon" alt="Snow Report for Arrowhead Ski Area icon" width="36"> [Snow Report for Arrowhead Ski Area](skills/B01MCXJX89)
+
+*Alexa, open Arrowhead Ski Area*
+
+The Arrowhead Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Arrowhead Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01M7Z73T0/skill_icon" alt="Snow Report for Asessippi Ski Area icon" width="36"> [Snow Report for Asessippi Ski Area](skills/B01M7Z73T0)
+
+*Alexa, open Asessippi Ski Area*
+
+The Asessippi Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Asessippi Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01LY2ZL98/skill_icon" alt="Snow Report for Aspen Mountain icon" width="36"> [Snow Report for Aspen Mountain](skills/B01LY2ZL98)
+
+*Alexa, open Aspen Mountain*
+
+The Aspen Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Aspen Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M31BYJW/skill_icon" alt="Snow Report for Attitash Mountain icon" width="36"> [Snow Report for Attitash Mountain](skills/B01M31BYJW)
+
+*Alexa, open Attitash Mountain*
+
+The Attitash Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Attitash Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LXNUI9J/skill_icon" alt="Snow Report for Badger Mountain icon" width="36"> [Snow Report for Badger Mountain](skills/B01LXNUI9J)
+
+*Alexa, open Badger Mountain*
+
+The Badger Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Badger Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M7PX62E/skill_icon" alt="Snow Report for Baker Mountain icon" width="36"> [Snow Report for Baker Mountain](skills/B01M7PX62E)
+
+*Alexa, open Baker Mountain*
+
+The Baker Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Baker Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M1JUD2H/skill_icon" alt="Snow Report for Baldy Mountain icon" width="36"> [Snow Report for Baldy Mountain](skills/B01M1JUD2H)
+
+*Alexa, open Baldy Mountain*
+
+The Baldy Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Baldy Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LZABWWD/skill_icon" alt="Snow Report for Banff Norquay icon" width="36"> [Snow Report for Banff Norquay](skills/B01LZABWWD)
+
+*Alexa, ask Banff Norquay for the snow report*
+
+The Banff Norquay Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Banff Norquay.
+
+***
+
+## &nbsp;<img src="skills/B01N094DMK/skill_icon" alt="Snow Report for Batawa Ski Hill icon" width="36"> [Snow Report for Batawa Ski Hill](skills/B01N094DMK)
+
+*Alexa, open Batawa Ski Hill*
+
+The Batawa Ski Hill Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Batawa Ski Hill.
+
+***
+
+## &nbsp;<img src="skills/B01M4LGMW8/skill_icon" alt="Snow Report for Bay Mountain icon" width="36"> [Snow Report for Bay Mountain](skills/B01M4LGMW8)
+
+*Alexa, open Bay Mountain*
+
+The Bay Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bay Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MQDDDJZ/skill_icon" alt="Snow Report for Bear Creek icon" width="36"> [Snow Report for Bear Creek](skills/B01MQDDDJZ)
+
+*Alexa, open Bear Creek*
+
+The Bear Creek Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bear Creek.
+
+***
+
+## &nbsp;<img src="skills/B01M1C4MMU/skill_icon" alt="Snow Report for Bear Mountain icon" width="36"> [Snow Report for Bear Mountain](skills/B01M1C4MMU)
+
+*Alexa, ask Bear Mountain for the snow report*
+
+The Bear Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bear Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LXR6O3V/skill_icon" alt="Snow Report for Bear Valley icon" width="36"> [Snow Report for Bear Valley](skills/B01LXR6O3V)
+
+*Alexa, ask Bear Valley for the snow report*
+
+The Bear Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bear Valley.
+
+***
+
+## &nbsp;<img src="skills/B01LXR6B1B/skill_icon" alt="Snow Report for Beaver Creek icon" width="36"> [Snow Report for Beaver Creek](skills/B01LXR6B1B)
+
+*Alexa, open Beaver Creek*
+
+The Beaver Creek Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Beaver Creek.
+
+***
+
+## &nbsp;<img src="skills/B01M9JT6V8/skill_icon" alt="Snow Report for Beaver Mountain icon" width="36"> [Snow Report for Beaver Mountain](skills/B01M9JT6V8)
+
+*Alexa, open Beaver Mountain*
+
+The Beaver Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Beaver Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MFBU2H5/skill_icon" alt="Snow Report for Beech Mountain icon" width="36"> [Snow Report for Beech Mountain](skills/B01MFBU2H5)
+
+*Alexa, open Beech Mountain*
+
+The Beech Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Beech Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M6867GI/skill_icon" alt="Snow Report for Belleayre Ski Center icon" width="36"> [Snow Report for Belleayre Ski Center](skills/B01M6867GI)
+
+*Alexa, open Belleayre Ski Center*
+
+The Belleayre Ski Center Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Belleayre Ski Center.
+
+***
+
+## &nbsp;<img src="skills/B01M8KNGU5/skill_icon" alt="Snow Report for Berkshire East icon" width="36"> [Snow Report for Berkshire East](skills/B01M8KNGU5)
+
+*Alexa, open Berkshire East*
+
+The Berkshire East Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Berkshire East.
+
+***
+
+## &nbsp;<img src="skills/B01M3YQE6B/skill_icon" alt="Snow Report for Big Boulder icon" width="36"> [Snow Report for Big Boulder](skills/B01M3YQE6B)
+
+*Alexa, open Big Boulder*
+
+The Big Boulder Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Big Boulder.
+
+***
+
+## &nbsp;<img src="skills/B01M6Z3B94/skill_icon" alt="Snow Report for Big Powderhorn icon" width="36"> [Snow Report for Big Powderhorn](skills/B01M6Z3B94)
+
+*Alexa, open Big Powderhorn*
+
+The Big Powderhorn Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Big Powderhorn.
+
+***
+
+## &nbsp;<img src="skills/B01M4LFKI0/skill_icon" alt="Snow Report for Big Sky icon" width="36"> [Snow Report for Big Sky](skills/B01M4LFKI0)
+
+*Alexa, open Big Sky*
+
+The Big Sky Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Big Sky.
+
+***
+
+## &nbsp;<img src="skills/B01M3S90AA/skill_icon" alt="Snow Report for Big Squaw icon" width="36"> [Snow Report for Big Squaw](skills/B01M3S90AA)
+
+*Alexa, open Big Squaw*
+
+The Big Squaw Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Big Squaw.
+
+***
+
+## &nbsp;<img src="skills/B01LXNU4XU/skill_icon" alt="Snow Report for Big White icon" width="36"> [Snow Report for Big White](skills/B01LXNU4XU)
+
+*Alexa, open Big White*
+
+The Big White Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Big White.
+
+***
+
+## &nbsp;<img src="skills/B01M66DWB1/skill_icon" alt="Snow Report for Bigrock Mountain icon" width="36"> [Snow Report for Bigrock Mountain](skills/B01M66DWB1)
+
+*Alexa, open Bigrock Mountain*
+
+The Bigrock Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bigrock Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MEHBVPF/skill_icon" alt="Snow Report for Bittersweet Ski Resort icon" width="36"> [Snow Report for Bittersweet Ski Resort](skills/B01MEHBVPF)
+
+*Alexa, open Bittersweet Ski Resort*
+
+The Bittersweet Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bittersweet Ski Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M3U0U6M/skill_icon" alt="Snow Report for Black Mountain icon" width="36"> [Snow Report for Black Mountain](skills/B01M3U0U6M)
+
+*Alexa, open Black Mountain*
+
+The Black Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Black Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01N3STQ0K/skill_icon" alt="Snow Report for Black Mountain of Maine icon" width="36"> [Snow Report for Black Mountain of Maine](skills/B01N3STQ0K)
+
+*Alexa, open Black Mountain of Maine*
+
+The Black Mountain of Maine Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Black Mountain of Maine.
+
+***
+
+## &nbsp;<img src="skills/B01MDONHUN/skill_icon" alt="Snow Report for Blackjack Ski Resort icon" width="36"> [Snow Report for Blackjack Ski Resort](skills/B01MDONHUN)
+
+*Alexa, open Blackjack Ski Resort*
+
+The Blackjack Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Blackjack Ski Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M8KMCFG/skill_icon" alt="Snow Report for Blacktail Mountain icon" width="36"> [Snow Report for Blacktail Mountain](skills/B01M8KMCFG)
+
+*Alexa, open Blacktail Mountain*
+
+The Blacktail Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Blacktail Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M66DLD3/skill_icon" alt="Snow Report for Blandford Ski Area icon" width="36"> [Snow Report for Blandford Ski Area](skills/B01M66DLD3)
+
+*Alexa, open Blandford Ski Area*
+
+The Blandford Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Blandford Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01M7RZS75/skill_icon" alt="Snow Report for Blue Hills Ski Area icon" width="36"> [Snow Report for Blue Hills Ski Area](skills/B01M7RZS75)
+
+*Alexa, open Blue Hills Ski Area*
+
+The Blue Hills Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Blue Hills Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01M3YQ9NO/skill_icon" alt="Snow Report for Blue Knob icon" width="36"> [Snow Report for Blue Knob](skills/B01M3YQ9NO)
+
+*Alexa, open Blue Knob*
+
+The Blue Knob Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Blue Knob.
+
+***
+
+## &nbsp;<img src="skills/B01MG90JHS/skill_icon" alt="Snow Report for Blue Mountain icon" width="36"> [Snow Report for Blue Mountain](skills/B01MG90JHS)
+
+*Alexa, open Blue Mountain*
+
+The Blue Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Blue Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01N3JN2LJ/skill_icon" alt="Snow Report for Blue Mountain Resort (ON) icon" width="36"> [Snow Report for Blue Mountain Resort (ON)](skills/B01N3JN2LJ)
+
+*Alexa, open Blue Mountain Resort*
+
+The Blue Mountain Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Blue Mountain Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M16X979/skill_icon" alt="Snow Report for Bluewood Mountain icon" width="36"> [Snow Report for Bluewood Mountain](skills/B01M16X979)
+
+*Alexa, open Bluewood Mountain*
+
+The Bluewood Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bluewood.
+
+***
+
+## &nbsp;<img src="skills/B01M3S9K8G/skill_icon" alt="Snow Report for Bogus Basin icon" width="36"> [Snow Report for Bogus Basin](skills/B01M3S9K8G)
+
+*Alexa, open Bogus Basin*
+
+The Bogus Basin Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bogus Basin.
+
+***
+
+## &nbsp;<img src="skills/B01N3W11YX/skill_icon" alt="Snow Report for Boler Mountain icon" width="36"> [Snow Report for Boler Mountain](skills/B01N3W11YX)
+
+*Alexa, open Boler Mountain*
+
+The Boler Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Boler Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M362M00/skill_icon" alt="Snow Report for Bolton Valley icon" width="36"> [Snow Report for Bolton Valley](skills/B01M362M00)
+
+*Alexa, open Bolton Valley*
+
+The Bolton Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bolton Valley.
+
+***
+
+## &nbsp;<img src="skills/B01LXR6P69/skill_icon" alt="Snow Report for Boreal Mountain icon" width="36"> [Snow Report for Boreal Mountain](skills/B01LXR6P69)
+
+*Alexa, ask Boreal Mountain for the snow report*
+
+The Boreal Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Boreal.
+
+***
+
+## &nbsp;<img src="skills/B01M7TT79G/skill_icon" alt="Snow Report for Boston Mills icon" width="36"> [Snow Report for Boston Mills](skills/B01M7TT79G)
+
+*Alexa, open Boston Mills*
+
+The Boston Mills Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Boston Mills.
+
+***
+
+## &nbsp;<img src="skills/B01M9DB4PK/skill_icon" alt="Snow Report for Bousquet Ski Area icon" width="36"> [Snow Report for Bousquet Ski Area](skills/B01M9DB4PK)
+
+*Alexa, open Bousquet Ski Area*
+
+The Bousquet Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bousquet Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01M3S8HJS/skill_icon" alt="Snow Report for Boyne Highlands icon" width="36"> [Snow Report for Boyne Highlands](skills/B01M3S8HJS)
+
+*Alexa, open Boyne Highlands*
+
+The Boyne Highlands Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Boyne Highlands.
+
+***
+
+## &nbsp;<img src="skills/B01MFA1PC9/skill_icon" alt="Snow Report for Boyne Mountain icon" width="36"> [Snow Report for Boyne Mountain](skills/B01MFA1PC9)
+
+*Alexa, open Boyne Mountain*
+
+The Boyne Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Boyne Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MAYXFY8/skill_icon" alt="Snow Report for Bradford Ski Area icon" width="36"> [Snow Report for Bradford Ski Area](skills/B01MAYXFY8)
+
+*Alexa, open Bradford Ski Area*
+
+The Bradford Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bradford Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01MPWQLV8/skill_icon" alt="Snow Report for Brandywine Ski Resort icon" width="36"> [Snow Report for Brandywine Ski Resort](skills/B01MPWQLV8)
+
+*Alexa, open Brandywine Ski Resort*
+
+The Brandywine Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Brandywine Ski Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M4NAE2F/skill_icon" alt="Snow Report for Brantling Ski Slopes icon" width="36"> [Snow Report for Brantling Ski Slopes](skills/B01M4NAE2F)
+
+*Alexa, open Brantling Ski Slopes*
+
+The Brantling Ski Slopes Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Brantling Ski Slopes.
+
+***
+
+## &nbsp;<img src="skills/B01M0CYIE6/skill_icon" alt="Snow Report for Breckenridge Resort icon" width="36"> [Snow Report for Breckenridge Resort](skills/B01M0CYIE6)
+
+*Alexa, open Breckenridge Resort*
+
+The Breckenridge Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Breckenridge Resort.
+
+***
+
+## &nbsp;<img src="skills/B01MPWODM5/skill_icon" alt="Snow Report for Bretton Woods icon" width="36"> [Snow Report for Bretton Woods](skills/B01MPWODM5)
+
+*Alexa, open Bretton Woods*
+
+The Bretton Woods Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bretton Woods.
+
+***
+
+## &nbsp;<img src="skills/B01M5K5S6W/skill_icon" alt="Snow Report for Brian Head icon" width="36"> [Snow Report for Brian Head](skills/B01M5K5S6W)
+
+*Alexa, open Brian Head*
+
+The Brian Head Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Brian Head.
+
+***
+
+## &nbsp;<img src="skills/B01M66CJAG/skill_icon" alt="Snow Report for Bridger Bowl icon" width="36"> [Snow Report for Bridger Bowl](skills/B01M66CJAG)
+
+*Alexa, open Bridger Bowl*
+
+The Bridger Bowl Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bridger Bowl.
+
+***
+
+## &nbsp;<img src="skills/B01M7YGT5Q/skill_icon" alt="Snow Report for Brighton Resort icon" width="36"> [Snow Report for Brighton Resort](skills/B01M7YGT5Q)
+
+*Alexa, open Brighton Resort*
+
+The Brighton Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Brighton Resort.
+
+***
+
+## &nbsp;<img src="skills/B01MRG16KF/skill_icon" alt="Snow Report for Brimacombe Mountain icon" width="36"> [Snow Report for Brimacombe Mountain](skills/B01MRG16KF)
+
+*Alexa, open Brimacombe Mountain*
+
+The Brimacombe Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Brimacombe Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M8MGD9O/skill_icon" alt="Snow Report for Bristol Mountain icon" width="36"> [Snow Report for Bristol Mountain](skills/B01M8MGD9O)
+
+*Alexa, open Bristol Mountain*
+
+The Bristol Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bristol Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MG9CFB7/skill_icon" alt="Snow Report for Bromley Mountain icon" width="36"> [Snow Report for Bromley Mountain](skills/B01MG9CFB7)
+
+*Alexa, open Bromley Mountain*
+
+The Bromley Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bromley Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MXCJATZ/skill_icon" alt="Snow Report for Bruce Mound icon" width="36"> [Snow Report for Bruce Mound](skills/B01MXCJATZ)
+
+*Alexa, open Bruce Mound*
+
+The Bruce Mound Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bruce Mound.
+
+***
+
+## &nbsp;<img src="skills/B01M26W08C/skill_icon" alt="Snow Report for Brundage Mountain icon" width="36"> [Snow Report for Brundage Mountain](skills/B01M26W08C)
+
+*Alexa, open Brundage Mountain*
+
+The Brundage Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Brundage Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M5K682N/skill_icon" alt="Snow Report for Bryce Resort icon" width="36"> [Snow Report for Bryce Resort](skills/B01M5K682N)
+
+*Alexa, open Bryce Resort*
+
+The Bryce Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bryce Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M5DNRUV/skill_icon" alt="Snow Report for Buck Hill icon" width="36"> [Snow Report for Buck Hill](skills/B01M5DNRUV)
+
+*Alexa, open Buck Hill*
+
+The Buck Hill Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Buck Hill.
+
+***
+
+## &nbsp;<img src="skills/B01M5DNNWW/skill_icon" alt="Snow Report for Buena Vista icon" width="36"> [Snow Report for Buena Vista](skills/B01M5DNNWW)
+
+*Alexa, open Buena Vista*
+
+The Buena Vista Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Buena Vista.
+
+***
+
+## &nbsp;<img src="skills/B01M8MGHYL/skill_icon" alt="Snow Report for Buffalo Ski Club icon" width="36"> [Snow Report for Buffalo Ski Club](skills/B01M8MGHYL)
+
+*Alexa, open Buffalo Ski Club*
+
+The Buffalo Ski Club Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Buffalo Ski Club.
+
+***
+
+## &nbsp;<img src="skills/B01MG9D6FV/skill_icon" alt="Snow Report for Burke Mountain icon" width="36"> [Snow Report for Burke Mountain](skills/B01MG9D6FV)
+
+*Alexa, open Burke Mountain*
+
+The Burke Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Burke Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LXR6DBP/skill_icon" alt="Snow Report for Buttermilk Mountain icon" width="36"> [Snow Report for Buttermilk Mountain](skills/B01LXR6DBP)
+
+*Alexa, open Buttermilk Mountain*
+
+The Buttermilk Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Buttermilk Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MDOMZ1Q/skill_icon" alt="Snow Report for Caberfae Peaks icon" width="36"> [Snow Report for Caberfae Peaks](skills/B01MDOMZ1Q)
+
+*Alexa, open Caberfae Peaks*
+
+The Caberfae Peaks Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Caberfae Peaks.
+
+***
+
+## &nbsp;<img src="skills/B01N0940NE/skill_icon" alt="Snow Report for Calabogie Peaks icon" width="36"> [Snow Report for Calabogie Peaks](skills/B01N0940NE)
+
+*Alexa, open Calabogie Peaks*
+
+The Calabogie Peaks Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Calabogie Peaks.
+
+***
+
+## &nbsp;<img src="skills/B01MCVYXTY/skill_icon" alt="Snow Report for Camden Snow Bowl icon" width="36"> [Snow Report for Camden Snow Bowl](skills/B01MCVYXTY)
+
+*Alexa, open Camden Snow Bowl*
+
+The Camden Snow Bowl Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Camden Snow Bowl.
+
+***
+
+## &nbsp;<img src="skills/B01M9JRG2X/skill_icon" alt="Snow Report for Camelback Mountain icon" width="36"> [Snow Report for Camelback Mountain](skills/B01M9JRG2X)
+
+*Alexa, open Camelback Mountain*
+
+The Camelback Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Camelback Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01N00SINJ/skill_icon" alt="Snow Report for Camp 10 icon" width="36"> [Snow Report for Camp 10](skills/B01N00SINJ)
+
+*Alexa, open Camp 10*
+
+The Camp 10 Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Camp 10.
+
+***
+
+## &nbsp;<img src="skills/B01N00V1B2/skill_icon" alt="Snow Report for Camp Fortune icon" width="36"> [Snow Report for Camp Fortune](skills/B01N00V1B2)
+
+*Alexa, open Camp Fortune*
+
+The Camp Fortune Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Camp Fortune.
+
+***
+
+## &nbsp;<img src="skills/B01MG4L1NB/skill_icon" alt="Snow Report for Campgaw Mountain icon" width="36"> [Snow Report for Campgaw Mountain](skills/B01MG4L1NB)
+
+*Alexa, open Campgaw Mountain*
+
+The Campgaw Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Campgaw Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M6DA6FF/skill_icon" alt="Snow Report for Canaan Valley icon" width="36"> [Snow Report for Canaan Valley](skills/B01M6DA6FF)
+
+*Alexa, open Canaan Valley*
+
+The Canaan Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Canaan Valley.
+
+***
+
+## &nbsp;<img src="skills/B01LZXWSIT/skill_icon" alt="Snow Report for Canada Olympic Park icon" width="36"> [Snow Report for Canada Olympic Park](skills/B01LZXWSIT)
+
+*Alexa, ask Canada Olympic Park for the snow report*
+
+The Canada Olympic Park Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Canada Olympic Park.
+
+***
+
+## &nbsp;<img src="skills/B01M7TR6C6/skill_icon" alt="Snow Report for Cannon Mountain icon" width="36"> [Snow Report for Cannon Mountain](skills/B01M7TR6C6)
+
+*Alexa, open Cannon Mountain*
+
+The Cannon Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Cannon Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MDOME82/skill_icon" alt="Snow Report for Cannonsburg Ski Area icon" width="36"> [Snow Report for Cannonsburg Ski Area](skills/B01MDOME82)
+
+*Alexa, open Cannonsburg Ski Area*
+
+The Cannonsburg Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Cannonsburg Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01LX0DPE9/skill_icon" alt="Snow Report for Canyon Mountain icon" width="36"> [Snow Report for Canyon Mountain](skills/B01LX0DPE9)
+
+*Alexa, ask Canyon Mountain for the snow report*
+
+The Canyon Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Canyon.
+
+***
+
+## &nbsp;<img src="skills/B01MXFSSMG/skill_icon" alt="Snow Report for Cascade Mountain icon" width="36"> [Snow Report for Cascade Mountain](skills/B01MXFSSMG)
+
+*Alexa, open Cascade Mountain*
+
+The Cascade Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Cascade Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LZAR321/skill_icon" alt="Snow Report for Castle Mountain icon" width="36"> [Snow Report for Castle Mountain](skills/B01LZAR321)
+
+*Alexa, ask Castle Mountain for the snow report*
+
+The Castle Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Castle Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M3U0K42/skill_icon" alt="Snow Report for Cataloochee Ski Area icon" width="36"> [Snow Report for Cataloochee Ski Area](skills/B01M3U0K42)
+
+*Alexa, open Cataloochee Ski Area*
+
+The Cataloochee Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Cataloochee Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01M7RZR9T/skill_icon" alt="Snow Report for Catamount Ski Area icon" width="36"> [Snow Report for Catamount Ski Area](skills/B01M7RZR9T)
+
+*Alexa, open Catamount Ski Area*
+
+The Catamount Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Catamount Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01LZXX0PR/skill_icon" alt="Snow Report for Catedral Alta Patagonia icon" width="36"> [Snow Report for Catedral Alta Patagonia](skills/B01LZXX0PR)
+
+*Alexa, open Alta Patagonia*
+
+The Patagonia Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Whistler Blackcomb.
+
+***
+
+## &nbsp;<img src="skills/B01MXBOU94/skill_icon" alt="Snow Report for Centennial Park icon" width="36"> [Snow Report for Centennial Park](skills/B01MXBOU94)
+
+*Alexa, open Centennial Park*
+
+The Centennial Park Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Centennial Park.
+
+***
+
+## &nbsp;<img src="skills/B01M4LH7KO/skill_icon" alt="Snow Report for Chestnut Mountain icon" width="36"> [Snow Report for Chestnut Mountain](skills/B01M4LH7KO)
+
+*Alexa, open Chestnut Mountain*
+
+The Chestnut Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Chestnut Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01N051LLY/skill_icon" alt="Snow Report for Chicopee Ski Resort icon" width="36"> [Snow Report for Chicopee Ski Resort](skills/B01N051LLY)
+
+*Alexa, open Chicopee Ski Resort*
+
+The Chicopee Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Chicopee Ski Resort.
+
+***
+
+## &nbsp;<img src="skills/B01LXFKGBA/skill_icon" alt="Snow Report for China Peak icon" width="36"> [Snow Report for China Peak](skills/B01LXFKGBA)
+
+*Alexa, ask China Peak for the snow report*
+
+The China Peak Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for China Peak.
+
+***
+
+## &nbsp;<img src="skills/B01MTJ0D4A/skill_icon" alt="Snow Report for Christie Mountain icon" width="36"> [Snow Report for Christie Mountain](skills/B01MTJ0D4A)
+
+*Alexa, open Christie Mountain*
+
+The Christie Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Christie Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MSHIPVI/skill_icon" alt="Snow Report for Christmas Mountain icon" width="36"> [Snow Report for Christmas Mountain](skills/B01MSHIPVI)
+
+*Alexa, open Christmas Mountain*
+
+The Christmas Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Christmas Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LWOO4X9/skill_icon" alt="Snow Report for Cloudmont icon" width="36"> [Snow Report for Cloudmont](skills/B01LWOO4X9)
+
+*Alexa, ask Cloudmont for the snow report*
+
+The Cloudmont Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Cloudmont.
+
+***
+
+## &nbsp;<img src="skills/B01LWS3OFP/skill_icon" alt="Snow Report for Cooper Mountain icon" width="36"> [Snow Report for Cooper Mountain](skills/B01LWS3OFP)
+
+*Alexa, open Cooper Mountain*
+
+The Cooper Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Cooper Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M70YBJI/skill_icon" alt="Snow Report for Cooper Spur icon" width="36"> [Snow Report for Cooper Spur](skills/B01M70YBJI)
+
+*Alexa, open Cooper Spur*
+
+The Cooper Spur Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Cooper Spur.
+
+***
+
+## &nbsp;<img src="skills/B01LY2ZIY0/skill_icon" alt="Snow Report for Copper Mountain icon" width="36"> [Snow Report for Copper Mountain](skills/B01LY2ZIY0)
+
+*Alexa, open Copper Mountain*
+
+The Copper Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Copper Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01N099QG8/skill_icon" alt="Snow Report for Crabbe Mountain icon" width="36"> [Snow Report for Crabbe Mountain](skills/B01N099QG8)
+
+*Alexa, open Crabbe Mountain*
+
+The Crabbe Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Crabbe Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MFBUQZP/skill_icon" alt="Snow Report for Cranmore Mountain icon" width="36"> [Snow Report for Cranmore Mountain](skills/B01MFBUQZP)
+
+*Alexa, open Cranmore Mountain*
+
+The Cranmore Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Cranmore Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LXFK1NA/skill_icon" alt="Snow Report for Crested Butte icon" width="36"> [Snow Report for Crested Butte](skills/B01LXFK1NA)
+
+*Alexa, open Crested Butte*
+
+The Crested Butte Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Crested Butte.
+
+***
+
+## &nbsp;<img src="skills/B01M5FFY9E/skill_icon" alt="Snow Report for Crotched Mountain icon" width="36"> [Snow Report for Crotched Mountain](skills/B01M5FFY9E)
+
+*Alexa, open Crotched Mountain*
+
+The Crotched Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Crotched Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M3S8H32/skill_icon" alt="Snow Report for Crystal Mountain Michigan icon" width="36"> [Snow Report for Crystal Mountain Michigan](skills/B01M3S8H32)
+
+*Alexa, open Crystal Mountain Michigan*
+
+The Crystal Mountain Michigan Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Crystal Mountain Michigan.
+
+***
+
+## &nbsp;<img src="skills/B01M09LGGP/skill_icon" alt="Snow Report for Crystal Mountain Resort icon" width="36"> [Snow Report for Crystal Mountain Resort](skills/B01M09LGGP)
+
+*Alexa, open Crystal Mountain Resort*
+
+The Crystal Mountain Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Crystal Mountain Resort.
+
+***
+
+## &nbsp;<img src="skills/B01LXZMAYY/skill_icon" alt="Snow Report for Cypress Mountain icon" width="36"> [Snow Report for Cypress Mountain](skills/B01LXZMAYY)
+
+*Alexa, ask Cypress Mountain for the snow report*
+
+The Cypress Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Cypress Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MXBOFNQ/skill_icon" alt="Snow Report for Dagmar Ski Resort icon" width="36"> [Snow Report for Dagmar Ski Resort](skills/B01MXBOFNQ)
+
+*Alexa, open Dagmar Ski Resort*
+
+The Dagmar Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Dagmar Ski Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M9F3W5N/skill_icon" alt="Snow Report for Dartmouth Skiway icon" width="36"> [Snow Report for Dartmouth Skiway](skills/B01M9F3W5N)
+
+*Alexa, open Dartmouth Skiway*
+
+The Dartmouth Skiway Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Dartmouth Skiway.
+
+***
+
+## &nbsp;<img src="skills/B01MREX2QT/skill_icon" alt="Snow Report for Deer Valley icon" width="36"> [Snow Report for Deer Valley](skills/B01MREX2QT)
+
+*Alexa, open Deer Valley*
+
+The Deer Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Deer Valley.
+
+***
+
+## &nbsp;<img src="skills/B01MXGNHF0/skill_icon" alt="Snow Report for Devil's Elbow icon" width="36"> [Snow Report for Devil's Elbow](skills/B01MXGNHF0)
+
+*Alexa, open Devil's Elbow*
+
+The Devil's Elbow Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Devil's Elbow.
+
+***
+
+## &nbsp;<img src="skills/B01MRG0CPC/skill_icon" alt="Snow Report for Devils Head icon" width="36"> [Snow Report for Devils Head](skills/B01MRG0CPC)
+
+*Alexa, open Devils Head*
+
+The Devils Head Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Devils Head.
+
+***
+
+## &nbsp;<img src="skills/B01LZ23XMR/skill_icon" alt="Snow Report for Diamond Peak icon" width="36"> [Snow Report for Diamond Peak](skills/B01LZ23XMR)
+
+*Alexa, ask Diamond Peak for the snow report*
+
+The Diamond Peak Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Diamond Peak.
+
+***
+
+## &nbsp;<img src="skills/B01M6Z4ELI/skill_icon" alt="Snow Report for Discovery Mountain icon" width="36"> [Snow Report for Discovery Mountain](skills/B01M6Z4ELI)
+
+*Alexa, open Discovery Mountain*
+
+The Discovery Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Discovery Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M1NAB2S/skill_icon" alt="Snow Report for Dodge Ridge icon" width="36"> [Snow Report for Dodge Ridge](skills/B01M1NAB2S)
+
+*Alexa, ask Dodge Ridge for the snow report*
+
+The Dodge Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Dodge Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01LYELN8T/skill_icon" alt="Snow Report for Donner Ski Ranch icon" width="36"> [Snow Report for Donner Ski Ranch](skills/B01LYELN8T)
+
+*Alexa, ask Donner Ski Ranch for the snow report*
+
+The Donner Ski Ranch Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Donner Ski Ranch.
+
+***
+
+## &nbsp;<img src="skills/B01M5FGLI9/skill_icon" alt="Snow Report for Dry Hill icon" width="36"> [Snow Report for Dry Hill](skills/B01M5FGLI9)
+
+*Alexa, open Dry Hill*
+
+The Dry Hill Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Dry Hill.
+
+***
+
+## &nbsp;<img src="skills/B01MG9C1F5/skill_icon" alt="Snow Report for Eagle Point icon" width="36"> [Snow Report for Eagle Point](skills/B01MG9C1F5)
+
+*Alexa, open Eagle Point*
+
+The Eagle Point Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Eagle Point.
+
+***
+
+## &nbsp;<img src="skills/B01MDV5NNQ/skill_icon" alt="Snow Report for Eagle Rock icon" width="36"> [Snow Report for Eagle Rock](skills/B01MDV5NNQ)
+
+*Alexa, open Eagle Rock*
+
+The Eagle Rock Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Eagle Rock.
+
+***
+
+## &nbsp;<img src="skills/B01M1K9RW2/skill_icon" alt="Snow Report for Eaglecrest icon" width="36"> [Snow Report for Eaglecrest](skills/B01M1K9RW2)
+
+*Alexa, ask Eaglecrest Mountain for the snow report*
+
+The Eaglecrest Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Eaglecrest.
+
+***
+
+## &nbsp;<img src="skills/B01N3NUBR0/skill_icon" alt="Snow Report for Earl Bales Ski Centre icon" width="36"> [Snow Report for Earl Bales Ski Centre](skills/B01N3NUBR0)
+
+*Alexa, open Earl Bales Ski Centre*
+
+The Earl Bales Ski Centre Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Earl Bales Ski Centre.
+
+***
+
+## &nbsp;<img src="skills/B01N04YO6W/skill_icon" alt="Snow Report for Edelweiss Valley icon" width="36"> [Snow Report for Edelweiss Valley](skills/B01N04YO6W)
+
+*Alexa, open Edelweiss Valley*
+
+The Edelweiss Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Edelweiss Valley.
+
+***
+
+## &nbsp;<img src="skills/B01LZ23L48/skill_icon" alt="Snow Report for Eldora Resort icon" width="36"> [Snow Report for Eldora Resort](skills/B01LZ23L48)
+
+*Alexa, open Eldora Resort*
+
+The Eldora Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Eldora Resort.
+
+***
+
+## &nbsp;<img src="skills/B01MFGK8QJ/skill_icon" alt="Snow Report for Elk Mountain icon" width="36"> [Snow Report for Elk Mountain](skills/B01MFGK8QJ)
+
+*Alexa, open Elk Mountain*
+
+The Elk Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Elk Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MA657MJ/skill_icon" alt="Snow Report for Elm Creek icon" width="36"> [Snow Report for Elm Creek](skills/B01MA657MJ)
+
+*Alexa, open Elm Creek*
+
+The Elm Creek Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Elm Creek.
+
+***
+
+## &nbsp;<img src="skills/B01LWOOFCP/skill_icon" alt="Snow Report for Fairmont Hot Springs icon" width="36"> [Snow Report for Fairmont Hot Springs](skills/B01LWOOFCP)
+
+*Alexa, ask Fairmont Hot Springs for the snow report*
+
+The Fairmont Hot Springs Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Fairmont Hot Springs.
+
+***
+
+## &nbsp;<img src="skills/B01MQEKONK/skill_icon" alt="Snow Report for Falcon Ridge icon" width="36"> [Snow Report for Falcon Ridge](skills/B01MQEKONK)
+
+*Alexa, open Falcon Ridge*
+
+The Falcon Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Falcon Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01LYB8418/skill_icon" alt="Snow Report for Fernie Alpine icon" width="36"> [Snow Report for Fernie Alpine](skills/B01LYB8418)
+
+*Alexa, ask Fernie Alpine for the snow report*
+
+The Fernie Alpine Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Fernie Alpine.
+
+***
+
+## &nbsp;<img src="skills/B01M3S937L/skill_icon" alt="Snow Report for Four Lakes Village icon" width="36"> [Snow Report for Four Lakes Village](skills/B01M3S937L)
+
+*Alexa, open Four Lakes Village*
+
+The Four Lakes Village Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Four Lakes Village.
+
+***
+
+## &nbsp;<img src="skills/B01M70VLSL/skill_icon" alt="Snow Report for Four Seasons icon" width="36"> [Snow Report for Four Seasons](skills/B01M70VLSL)
+
+*Alexa, open Four Seasons*
+
+The Four Seasons Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Four Seasons.
+
+***
+
+## &nbsp;<img src="skills/B01M7RYW9H/skill_icon" alt="Snow Report for Giants Ridge icon" width="36"> [Snow Report for Giants Ridge](skills/B01M7RYW9H)
+
+*Alexa, open Giants Ridge*
+
+The Giants Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Giants Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01N3VZ3SN/skill_icon" alt="Snow Report for Glen Eden icon" width="36"> [Snow Report for Glen Eden](skills/B01N3VZ3SN)
+
+*Alexa, open Glen Eden*
+
+The Glen Eden Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Glen Eden.
+
+***
+
+## &nbsp;<img src="skills/B01MDQGRT7/skill_icon" alt="Snow Report for Gore Mountain icon" width="36"> [Snow Report for Gore Mountain](skills/B01MDQGRT7)
+
+*Alexa, open Gore Mountain*
+
+The Gore Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Gore Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01N3RQXPX/skill_icon" alt="Snow Report for Grand Targhee icon" width="36"> [Snow Report for Grand Targhee](skills/B01N3RQXPX)
+
+*Alexa, open Grand Targhee*
+
+The Grand Targhee Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Grand Targhee.
+
+***
+
+## &nbsp;<img src="skills/B01MQ0UX03/skill_icon" alt="Snow Report for Granite Gorge icon" width="36"> [Snow Report for Granite Gorge](skills/B01MQ0UX03)
+
+*Alexa, open Granite Gorge*
+
+The Granite Gorge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Granite Gorge.
+
+***
+
+## &nbsp;<img src="skills/B01MRFZ8R3/skill_icon" alt="Snow Report for Granite Peak icon" width="36"> [Snow Report for Granite Peak](skills/B01MRFZ8R3)
+
+*Alexa, open Granite Peak*
+
+The Granite Peak Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Granite Peak.
+
+***
+
+## &nbsp;<img src="skills/B01M6CU2X8/skill_icon" alt="Snow Report for Great Bear Park icon" width="36"> [Snow Report for Great Bear Park](skills/B01M6CU2X8)
+
+*Alexa, open Great Bear Park*
+
+The Great Bear Park Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Great Bear Park.
+
+***
+
+## &nbsp;<img src="skills/B01MEHAU13/skill_icon" alt="Snow Report for Great Divide icon" width="36"> [Snow Report for Great Divide](skills/B01MEHAU13)
+
+*Alexa, open Great Divide*
+
+The Great Divide Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Great Divide.
+
+***
+
+## &nbsp;<img src="skills/B01M8MDQWJ/skill_icon" alt="Snow Report for Greek Peak icon" width="36"> [Snow Report for Greek Peak](skills/B01M8MDQWJ)
+
+*Alexa, open Greek Peak*
+
+The Greek Peak Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Greek Peak.
+
+***
+
+## &nbsp;<img src="skills/B01M0L7M7L/skill_icon" alt="Snow Report for Grouse Mountain icon" width="36"> [Snow Report for Grouse Mountain](skills/B01M0L7M7L)
+
+*Alexa, ask Grouse Mountain for the snow report*
+
+The Grouse Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Grouse Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MG45WW3/skill_icon" alt="Snow Report for Gunstock Ski Area icon" width="36"> [Snow Report for Gunstock Ski Area](skills/B01MG45WW3)
+
+*Alexa, open Gunstock Ski Area*
+
+The Gunstock Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Gunstock Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01MA65KUS/skill_icon" alt="Snow Report for Hanson Hills icon" width="36"> [Snow Report for Hanson Hills](skills/B01MA65KUS)
+
+*Alexa, open Hanson Hills*
+
+The Hanson Hills Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hanson Hills.
+
+***
+
+## &nbsp;<img src="skills/B01LXFKDEP/skill_icon" alt="Snow Report for Heavenly Mountain icon" width="36"> [Snow Report for Heavenly Mountain](skills/B01LXFKDEP)
+
+*Alexa, ask Heavenly Mountain for the snow report*
+
+The Heavenly Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Heavenly.
+
+***
+
+## &nbsp;<img src="skills/B01LZXWY4S/skill_icon" alt="Snow Report for Hemlock Resort icon" width="36"> [Snow Report for Hemlock Resort](skills/B01LZXWY4S)
+
+*Alexa, ask Hemlock Resort for the snow report*
+
+The Hemlock Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hemlock Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M6Z4W79/skill_icon" alt="Snow Report for Hermon Mountain icon" width="36"> [Snow Report for Hermon Mountain](skills/B01M6Z4W79)
+
+*Alexa, open Hermon Mountain*
+
+The Hermon Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hermon Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MCVY4F4/skill_icon" alt="Snow Report for Hickory Hills icon" width="36"> [Snow Report for Hickory Hills](skills/B01MCVY4F4)
+
+*Alexa, open Hickory Hills*
+
+The Hickory Hills Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hickory Hills.
+
+***
+
+## &nbsp;<img src="skills/B01M5FGQ5Y/skill_icon" alt="Snow Report for Hickory Ski Center icon" width="36"> [Snow Report for Hickory Ski Center](skills/B01M5FGQ5Y)
+
+*Alexa, open Hickory Ski Center*
+
+The Hickory Ski Center Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hickory Ski Center.
+
+***
+
+## &nbsp;<img src="skills/B01MAYXA37/skill_icon" alt="Snow Report for Hidden Valley icon" width="36"> [Snow Report for Hidden Valley](skills/B01MAYXA37)
+
+*Alexa, open Hidden Valley*
+
+The Hidden Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hidden Valley.
+
+***
+
+## &nbsp;<img src="skills/B01MQDFMDB/skill_icon" alt="Snow Report for Hidden Valley Resort (PA) icon" width="36"> [Snow Report for Hidden Valley Resort (PA)](skills/B01MQDFMDB)
+
+*Alexa, open Hidden Valley Resort*
+
+The Hidden Valley Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hidden Valley Resort.
+
+***
+
+## &nbsp;<img src="skills/B01N3NST0L/skill_icon" alt="Snow Report for Hockley Valley icon" width="36"> [Snow Report for Hockley Valley](skills/B01N3NST0L)
+
+*Alexa, open Hockley Valley*
+
+The Hockley Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hockley Valley.
+
+***
+
+## &nbsp;<img src="skills/B01N050ODT/skill_icon" alt="Snow Report for Hogadon Ski Area icon" width="36"> [Snow Report for Hogadon Ski Area](skills/B01N050ODT)
+
+*Alexa, open Hogadon Ski Area*
+
+The Hogadon Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hogadon Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01M4NAL4X/skill_icon" alt="Snow Report for Holiday Mountain icon" width="36"> [Snow Report for Holiday Mountain](skills/B01M4NAL4X)
+
+*Alexa, open Holiday Mountain*
+
+The Holiday Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Holiday Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M3U2E0P/skill_icon" alt="Snow Report for Holiday Valley icon" width="36"> [Snow Report for Holiday Valley](skills/B01M3U2E0P)
+
+*Alexa, open Holiday Valley*
+
+The Holiday Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Holiday Valley.
+
+***
+
+## &nbsp;<img src="skills/B01M4NAQSZ/skill_icon" alt="Snow Report for HoliMont Ski Area icon" width="36"> [Snow Report for HoliMont Ski Area](skills/B01M4NAQSZ)
+
+*Alexa, open HoliMont Ski Area*
+
+The HoliMont Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for HoliMont Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01LX3PXF0/skill_icon" alt="Snow Report for Homewood Mountain icon" width="36"> [Snow Report for Homewood Mountain](skills/B01LX3PXF0)
+
+*Alexa, ask Homewood Mountain for the snow report*
+
+The Homewood Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Homewood.
+
+***
+
+## &nbsp;<img src="skills/B01M31E2XX/skill_icon" alt="Snow Report for Hoodoo Ski Area icon" width="36"> [Snow Report for Hoodoo Ski Area](skills/B01M31E2XX)
+
+*Alexa, open Hoodoo Ski Area*
+
+The Hoodoo Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hoodoo Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01N00TZRU/skill_icon" alt="Snow Report for Horseshoe Resort icon" width="36"> [Snow Report for Horseshoe Resort](skills/B01N00TZRU)
+
+*Alexa, open Horseshoe Resort*
+
+The Horseshoe Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Horseshoe Resort.
+
+***
+
+## &nbsp;<img src="skills/B01MQ0UEGW/skill_icon" alt="Snow Report for Huff Hills icon" width="36"> [Snow Report for Huff Hills](skills/B01MQ0UEGW)
+
+*Alexa, open Huff Hills*
+
+The Huff Hills Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Huff Hills.
+
+***
+
+## &nbsp;<img src="skills/B01M9F4XXN/skill_icon" alt="Snow Report for Hunter Mountain icon" width="36"> [Snow Report for Hunter Mountain](skills/B01M9F4XXN)
+
+*Alexa, open Hunter Mountain*
+
+The Hunter Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hunter Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LZAC65N/skill_icon" alt="Snow Report for Hurricane Ridge icon" width="36"> [Snow Report for Hurricane Ridge](skills/B01LZAC65N)
+
+*Alexa, open Hurricane Ridge*
+
+The Hurricane Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hurricane Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01MEHAV1W/skill_icon" alt="Snow Report for Hyland Hills Ski Area icon" width="36"> [Snow Report for Hyland Hills Ski Area](skills/B01MEHAV1W)
+
+*Alexa, open Hyland Hills Ski Area*
+
+The Hyland Hills Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Hyland Hills Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01M8KMS4I/skill_icon" alt="Snow Report for Indianhead Mountain icon" width="36"> [Snow Report for Indianhead Mountain](skills/B01M8KMS4I)
+
+*Alexa, open Indianhead Mountain*
+
+The Indianhead Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Indianhead Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MDUWLOH/skill_icon" alt="Snow Report for Jack Frost icon" width="36"> [Snow Report for Jack Frost](skills/B01MDUWLOH)
+
+*Alexa, open Jack Frost*
+
+The Jack Frost Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Jack Frost.
+
+***
+
+## &nbsp;<img src="skills/B01N00UG9R/skill_icon" alt="Snow Report for Jackson Hole icon" width="36"> [Snow Report for Jackson Hole](skills/B01N00UG9R)
+
+*Alexa, open Jackson Hole*
+
+The Jackson Hole Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Jackson Hole.
+
+***
+
+## &nbsp;<img src="skills/B01MD2FYUR/skill_icon" alt="Snow Report for Jay Peak icon" width="36"> [Snow Report for Jay Peak](skills/B01MD2FYUR)
+
+*Alexa, open Jay Peak*
+
+The Jay Peak Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Jay Peak.
+
+***
+
+## &nbsp;<img src="skills/B01M8KNBMG/skill_icon" alt="Snow Report for Jiminy Peak icon" width="36"> [Snow Report for Jiminy Peak](skills/B01M8KNBMG)
+
+*Alexa, open Jiminy Peak*
+
+The Jiminy Peak Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Jiminy Peak.
+
+***
+
+## &nbsp;<img src="skills/B01M1MTR8G/skill_icon" alt="Snow Report for June Mountain icon" width="36"> [Snow Report for June Mountain](skills/B01M1MTR8G)
+
+*Alexa, ask June Mountain for the snow report*
+
+The June Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for June Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M2ZKKX8/skill_icon" alt="Snow Report for Kelly Canyon icon" width="36"> [Snow Report for Kelly Canyon](skills/B01M2ZKKX8)
+
+*Alexa, open Kelly Canyon*
+
+The Kelly Canyon Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Kelly Canyon.
+
+***
+
+## &nbsp;<img src="skills/B01M1C4A8L/skill_icon" alt="Snow Report for Keystone Resort icon" width="36"> [Snow Report for Keystone Resort](skills/B01M1C4A8L)
+
+*Alexa, open Keystone Resort*
+
+The Keystone Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Keystone Resort.
+
+***
+
+## &nbsp;<img src="skills/B01LWOODF1/skill_icon" alt="Snow Report for Kicking Horse icon" width="36"> [Snow Report for Kicking Horse](skills/B01LWOODF1)
+
+*Alexa, ask Kicking Horse for the snow report*
+
+The Kicking Horse Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Kicking Horse.
+
+***
+
+## &nbsp;<img src="skills/B01M6CW5IU/skill_icon" alt="Snow Report for Killington Mountain icon" width="36"> [Snow Report for Killington Mountain](skills/B01M6CW5IU)
+
+*Alexa, open Killington Mountain*
+
+The Killington Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Killington Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LXC5HEQ/skill_icon" alt="Snow Report for Kimberley Mountain icon" width="36"> [Snow Report for Kimberley Mountain](skills/B01LXC5HEQ)
+
+*Alexa, ask Kimberley Mountain for the snow report*
+
+The Kimberley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Kimberley.
+
+***
+
+## &nbsp;<img src="skills/B01M70WKK8/skill_icon" alt="Snow Report for King Pine icon" width="36"> [Snow Report for King Pine](skills/B01M70WKK8)
+
+*Alexa, open King Pine*
+
+The King Pine Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for King Pine.
+
+***
+
+## &nbsp;<img src="skills/B01M10F0XT/skill_icon" alt="Snow Report for Kirkwood Mountain icon" width="36"> [Snow Report for Kirkwood Mountain](skills/B01M10F0XT)
+
+*Alexa, ask Kirkwood Mountain for the snow report*
+
+The Kirkwood Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Kirkwood.
+
+***
+
+## &nbsp;<img src="skills/B01M28OXE3/skill_icon" alt="Snow Report for Kissing Bridge icon" width="36"> [Snow Report for Kissing Bridge](skills/B01M28OXE3)
+
+*Alexa, open Kissing Bridge*
+
+The Kissing Bridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Kissing Bridge.
+
+***
+
+## &nbsp;<img src="skills/B01MQ448YQ/skill_icon" alt="Snow Report for Labrador Mountain icon" width="36"> [Snow Report for Labrador Mountain](skills/B01MQ448YQ)
+
+*Alexa, open Labrador Mountain*
+
+The Labrador Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Labrador Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M1KBDDX/skill_icon" alt="Snow Report for Lake Louise icon" width="36"> [Snow Report for Lake Louise](skills/B01M1KBDDX)
+
+*Alexa, ask Lake Louise for the snow report*
+
+The Lake Louise Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Lake Louise.
+
+***
+
+## &nbsp;<img src="skills/B01N3JQ5DM/skill_icon" alt="Snow Report for Lakeridge Ski Resort icon" width="36"> [Snow Report for Lakeridge Ski Resort](skills/B01N3JQ5DM)
+
+*Alexa, open Lakeridge Ski Resort*
+
+The Lakeridge Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Lakeridge Ski Resort.
+
+***
+
+## &nbsp;<img src="skills/B01LXNUBDP/skill_icon" alt="Snow Report for Last Frontier Heli Bell icon" width="36"> [Snow Report for Last Frontier Heli Bell](skills/B01LXNUBDP)
+
+*Alexa, ask Heli Bell for the snow report*
+
+The Last Frontier Heli Bell Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Last Frontier Heli Bell.
+
+***
+
+## &nbsp;<img src="skills/B01LWONNDA/skill_icon" alt="Snow Report for Last Frontier Heli Ripley Creek icon" width="36"> [Snow Report for Last Frontier Heli Ripley Creek](skills/B01LWONNDA)
+
+*Alexa, ask Ripley Creek for the snow report*
+
+The Last Frontier Heli Ripley Creek Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions.
+
+***
+
+## &nbsp;<img src="skills/B01N3JPFX6/skill_icon" alt="Snow Report for Le Massif icon" width="36"> [Snow Report for Le Massif](skills/B01N3JPFX6)
+
+*Alexa, open Le Massif*
+
+The Le Massif Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Le Massif.
+
+***
+
+## &nbsp;<img src="skills/B01M7TS0OJ/skill_icon" alt="Snow Report for Lee Canyon icon" width="36"> [Snow Report for Lee Canyon](skills/B01M7TS0OJ)
+
+*Alexa, open Lee Canyon*
+
+The Lee Canyon Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Lee Canyon.
+
+***
+
+## &nbsp;<img src="skills/B01MD2DI4Z/skill_icon" alt="Snow Report for Liberty Mountain icon" width="36"> [Snow Report for Liberty Mountain](skills/B01MD2DI4Z)
+
+*Alexa, open Liberty Mountain*
+
+The Liberty Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Liberty Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MXCHH9Y/skill_icon" alt="Snow Report for Little Switzerland icon" width="36"> [Snow Report for Little Switzerland](skills/B01MXCHH9Y)
+
+*Alexa, open Little Switzerland*
+
+The Little Switzerland Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Little Switzerland.
+
+***
+
+## &nbsp;<img src="skills/B01N3JSH9U/skill_icon" alt="Snow Report for Loch Lomond icon" width="36"> [Snow Report for Loch Lomond](skills/B01N3JSH9U)
+
+*Alexa, open Loch Lomond*
+
+The Loch Lomond Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Loch Lomond.
+
+***
+
+## &nbsp;<img src="skills/B01M4LHI2W/skill_icon" alt="Snow Report for Lookout Pass icon" width="36"> [Snow Report for Lookout Pass](skills/B01M4LHI2W)
+
+*Alexa, open Lookout Pass*
+
+The Lookout Pass Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Lookout Pass.
+
+***
+
+## &nbsp;<img src="skills/B01M5FG4Z3/skill_icon" alt="Snow Report for Loon Mountain icon" width="36"> [Snow Report for Loon Mountain](skills/B01M5FG4Z3)
+
+*Alexa, open Loon Mountain*
+
+The Loon Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Loon Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M5DNKA3/skill_icon" alt="Snow Report for Lost Trail icon" width="36"> [Snow Report for Lost Trail](skills/B01M5DNKA3)
+
+*Alexa, open Lost Trail*
+
+The Lost Trail Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Lost Trail.
+
+***
+
+## &nbsp;<img src="skills/B01MA66BEQ/skill_icon" alt="Snow Report for Lost Valley icon" width="36"> [Snow Report for Lost Valley](skills/B01MA66BEQ)
+
+*Alexa, open Lost Valley*
+
+The Lost Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Lost Valley.
+
+***
+
+## &nbsp;<img src="skills/B01LX0E02C/skill_icon" alt="Snow Report for Loup Loup Ski Bowl icon" width="36"> [Snow Report for Loup Loup Ski Bowl](skills/B01LX0E02C)
+
+*Alexa, ask Loup Loup  for the snow report*
+
+The Loup Loup Ski Bowl Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Loup Loup Ski Bowl.
+
+***
+
+## &nbsp;<img src="skills/B01LX3PN6J/skill_icon" alt="Snow Report for Loveland Ski Area icon" width="36"> [Snow Report for Loveland Ski Area](skills/B01LX3PN6J)
+
+*Alexa, open Loveland Ski Area*
+
+The Loveland Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Loveland Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01M5DNQJQ/skill_icon" alt="Snow Report for Lutsen Mountains icon" width="36"> [Snow Report for Lutsen Mountains](skills/B01M5DNQJQ)
+
+*Alexa, open Lutsen Mountains*
+
+The Lutsen Mountains Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Lutsen Mountains.
+
+***
+
+## &nbsp;<img src="skills/B01M687CU1/skill_icon" alt="Snow Report for Mad River icon" width="36"> [Snow Report for Mad River](skills/B01M687CU1)
+
+*Alexa, open Mad River*
+
+The Mad River Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mad River.
+
+***
+
+## &nbsp;<img src="skills/B01M9JUFXJ/skill_icon" alt="Snow Report for Mad River Glen icon" width="36"> [Snow Report for Mad River Glen](skills/B01M9JUFXJ)
+
+*Alexa, open Mad River Glen*
+
+The Mad River Glen Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mad River Glen.
+
+***
+
+## &nbsp;<img src="skills/B01MCVZIOM/skill_icon" alt="Snow Report for Magic Mountain icon" width="36"> [Snow Report for Magic Mountain](skills/B01MCVZIOM)
+
+*Alexa, open Magic Mountain*
+
+The Magic Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Magic Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MD2FXKG/skill_icon" alt="Snow Report for Magic Mountain Vermont icon" width="36"> [Snow Report for Magic Mountain Vermont](skills/B01MD2FXKG)
+
+*Alexa, open Magic Mountain Vermont*
+
+The Magic Mountain Vermont Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Magic Mountain Vermont.
+
+***
+
+## &nbsp;<img src="skills/B01M10F38L/skill_icon" alt="Snow Report for Mammoth Mountain icon" width="36"> [Snow Report for Mammoth Mountain](skills/B01M10F38L)
+
+*Alexa, ask Mammoth Mountain for the snow report*
+
+The Mammoth Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mammoth.
+
+***
+
+## &nbsp;<img src="skills/B01M09L8RA/skill_icon" alt="Snow Report for Manning Park Resort icon" width="36"> [Snow Report for Manning Park Resort](skills/B01M09L8RA)
+
+*Alexa, ask Manning Park for the snow report*
+
+The Manning Park Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Manning Park Resort.
+
+***
+
+## &nbsp;<img src="skills/B01N00XX8V/skill_icon" alt="Snow Report for Mansfield Ski Club icon" width="36"> [Snow Report for Mansfield Ski Club](skills/B01N00XX8V)
+
+*Alexa, open Mansfield Ski Club*
+
+The Mansfield Ski Club Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mansfield Ski Club.
+
+***
+
+## &nbsp;<img src="skills/B01MDQH2XT/skill_icon" alt="Snow Report for Maple Ski Ridge icon" width="36"> [Snow Report for Maple Ski Ridge](skills/B01MDQH2XT)
+
+*Alexa, open Maple Ski Ridge*
+
+The Maple Ski Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Maple Ski Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01M09L3CK/skill_icon" alt="Snow Report for Marmot Basin icon" width="36"> [Snow Report for Marmot Basin](skills/B01M09L3CK)
+
+*Alexa, ask Marmot Basin for the snow report*
+
+The Marmot Basin Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Marmot Basin.
+
+***
+
+## &nbsp;<img src="skills/B01M9DB70W/skill_icon" alt="Snow Report for Marquette Ski Resort icon" width="36"> [Snow Report for Marquette Ski Resort](skills/B01M9DB70W)
+
+*Alexa, open Marquette Ski Resort*
+
+The Marquette Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Marquette Ski Resort.
+
+***
+
+## &nbsp;<img src="skills/B01MQDRBCX/skill_icon" alt="Snow Report for Massanutten Mountain icon" width="36"> [Snow Report for Massanutten Mountain](skills/B01MQDRBCX)
+
+*Alexa, open Massanutten Mountain*
+
+The Massanutten Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Massanutten Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MF9RMTC/skill_icon" alt="Snow Report for Maverick Mountain icon" width="36"> [Snow Report for Maverick Mountain](skills/B01MF9RMTC)
+
+*Alexa, open Maverick Mountain*
+
+The Maverick Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Maverick Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MXHN5RH/skill_icon" alt="Snow Report for McCauley Mountain icon" width="36"> [Snow Report for McCauley Mountain](skills/B01MXHN5RH)
+
+*Alexa, open McCauley Mountain*
+
+The McCauley Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for McCauley Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M9F3ZDZ/skill_icon" alt="Snow Report for McIntyre Ski Area icon" width="36"> [Snow Report for McIntyre Ski Area](skills/B01M9F3ZDZ)
+
+*Alexa, open McIntyre Ski Area*
+
+The McIntyre Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for McIntyre Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01N04WE6G/skill_icon" alt="Snow Report for Meadowlark Ski Lodge icon" width="36"> [Snow Report for Meadowlark Ski Lodge](skills/B01N04WE6G)
+
+*Alexa, open Meadowlark Ski Lodge*
+
+The Meadowlark Ski Lodge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Meadowlark Ski Lodge.
+
+***
+
+## &nbsp;<img src="skills/B01MFGMZ0M/skill_icon" alt="Snow Report for Middlebury Snow Bowl icon" width="36"> [Snow Report for Middlebury Snow Bowl](skills/B01MFGMZ0M)
+
+*Alexa, open Middlebury Snow Bowl*
+
+The Middlebury Snow Bowl Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Middlebury Snow Bowl.
+
+***
+
+## &nbsp;<img src="skills/B01LYN1ZG7/skill_icon" alt="Snow Report for Mission Ridge icon" width="36"> [Snow Report for Mission Ridge](skills/B01LYN1ZG7)
+
+*Alexa, ask Mission Ridge for the snow report*
+
+The Mission Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mission Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01LZPILYF/skill_icon" alt="Snow Report for Monarch Mountain icon" width="36"> [Snow Report for Monarch Mountain](skills/B01LZPILYF)
+
+*Alexa, open Monarch Mountain*
+
+The Monarch Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Monarch Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01N093K9F/skill_icon" alt="Snow Report for Mont Avila icon" width="36"> [Snow Report for Mont Avila](skills/B01N093K9F)
+
+*Alexa, open Mont Avila*
+
+The Mont Avila Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Avila.
+
+***
+
+## &nbsp;<img src="skills/B01M9KA8IS/skill_icon" alt="Snow Report for Mont Belu icon" width="36"> [Snow Report for Mont Belu](skills/B01M9KA8IS)
+
+*Alexa, open Mont Belu*
+
+The Mont Belu Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Belu.
+
+***
+
+## &nbsp;<img src="skills/B01M5KUFIV/skill_icon" alt="Snow Report for Mont Blanc icon" width="36"> [Snow Report for Mont Blanc](skills/B01M5KUFIV)
+
+*Alexa, open Mont Blanc*
+
+The Mont Blanc Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Blanc.
+
+***
+
+## &nbsp;<img src="skills/B01M5KUXNV/skill_icon" alt="Snow Report for Mont Farlagne icon" width="36"> [Snow Report for Mont Farlagne](skills/B01M5KUXNV)
+
+*Alexa, open Mont Farlagne*
+
+The Mont Farlagne Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Farlagne.
+
+***
+
+## &nbsp;<img src="skills/B01N3JL7EY/skill_icon" alt="Snow Report for Mont Gabriel icon" width="36"> [Snow Report for Mont Gabriel](skills/B01N3JL7EY)
+
+*Alexa, open Mont Gabriel*
+
+The Mont Gabriel Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Gabriel.
+
+***
+
+## &nbsp;<img src="skills/B01M7Z5NB3/skill_icon" alt="Snow Report for Mont Gleason icon" width="36"> [Snow Report for Mont Gleason](skills/B01M7Z5NB3)
+
+*Alexa, open Mont Gleason*
+
+The Mont Gleason Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Gleason.
+
+***
+
+## &nbsp;<img src="skills/B01N3JMV2W/skill_icon" alt="Snow Report for Mont Habitant icon" width="36"> [Snow Report for Mont Habitant](skills/B01N3JMV2W)
+
+*Alexa, open Mont Habitant*
+
+The Mont Habitant Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Habitant.
+
+***
+
+## &nbsp;<img src="skills/B01N0926NL/skill_icon" alt="Snow Report for Mont Olympia icon" width="36"> [Snow Report for Mont Olympia](skills/B01N0926NL)
+
+*Alexa, open Mont Olympia*
+
+The Mont Olympia Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Olympia.
+
+***
+
+## &nbsp;<img src="skills/B01N050QKF/skill_icon" alt="Snow Report for Mont Orford icon" width="36"> [Snow Report for Mont Orford](skills/B01N050QKF)
+
+*Alexa, open Mont Orford*
+
+The Mont Orford Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Orford.
+
+***
+
+## &nbsp;<img src="skills/B01N3NTDSB/skill_icon" alt="Snow Report for Mont Rigaud icon" width="36"> [Snow Report for Mont Rigaud](skills/B01N3NTDSB)
+
+*Alexa, open Mont Rigaud*
+
+The Mont Rigaud Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Rigaud.
+
+***
+
+## &nbsp;<img src="skills/B01M7RZ0KG/skill_icon" alt="Snow Report for Mont Ripley icon" width="36"> [Snow Report for Mont Ripley](skills/B01M7RZ0KG)
+
+*Alexa, open Mont Ripley*
+
+The Mont Ripley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Ripley.
+
+***
+
+## &nbsp;<img src="skills/B01M6DL9Y6/skill_icon" alt="Snow Report for Mont Saint-Sauveur icon" width="36"> [Snow Report for Mont Saint-Sauveur](skills/B01M6DL9Y6)
+
+*Alexa, open Mont Saint-Sauveur*
+
+The Mont Saint-Sauveur Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Saint-Sauveur.
+
+***
+
+## &nbsp;<img src="skills/B01N09A1QQ/skill_icon" alt="Snow Report for Mont Sainte-Anne icon" width="36"> [Snow Report for Mont Sainte-Anne](skills/B01N09A1QQ)
+
+*Alexa, open Mont Sainte-Anne*
+
+The Mont Sainte-Anne Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Sainte-Anne.
+
+***
+
+## &nbsp;<img src="skills/B01MXFS2U1/skill_icon" alt="Snow Report for Mont Ste-Marie icon" width="36"> [Snow Report for Mont Ste-Marie](skills/B01MXFS2U1)
+
+*Alexa, open Mont Ste-Marie*
+
+The Mont Ste-Marie Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Ste-Marie.
+
+***
+
+## &nbsp;<img src="skills/B01N3JQMWQ/skill_icon" alt="Snow Report for Mont Sutton icon" width="36"> [Snow Report for Mont Sutton](skills/B01N3JQMWQ)
+
+*Alexa, open Mont Sutton*
+
+The Mont Sutton Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Sutton.
+
+***
+
+## &nbsp;<img src="skills/B01MFHBWBB/skill_icon" alt="Snow Report for Mont Tremblant icon" width="36"> [Snow Report for Mont Tremblant](skills/B01MFHBWBB)
+
+*Alexa, open Mont Tremblant*
+
+The Mont Tremblant Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mont Tremblant.
+
+***
+
+## &nbsp;<img src="skills/B01MG9AUEI/skill_icon" alt="Snow Report for Montage Mountain icon" width="36"> [Snow Report for Montage Mountain](skills/B01MG9AUEI)
+
+*Alexa, open Montage Mountain*
+
+The Montage Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Montage Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M26UP9J/skill_icon" alt="Snow Report for Montana Snowbowl icon" width="36"> [Snow Report for Montana Snowbowl](skills/B01M26UP9J)
+
+*Alexa, open Montana Snowbowl*
+
+The Montana Snowbowl Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Montana Snowbowl.
+
+***
+
+## &nbsp;<img src="skills/B01M4LG41F/skill_icon" alt="Snow Report for Mount Abram icon" width="36"> [Snow Report for Mount Abram](skills/B01M4LG41F)
+
+*Alexa, open Mount Abram*
+
+The Mount Abram Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Abram.
+
+***
+
+## &nbsp;<img src="skills/B01M8MHIWI/skill_icon" alt="Snow Report for Mount Ashland icon" width="36"> [Snow Report for Mount Ashland](skills/B01M8MHIWI)
+
+*Alexa, open Mount Ashland*
+
+The Mount Ashland Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Ashland.
+
+***
+
+## &nbsp;<img src="skills/B01M4NBLXG/skill_icon" alt="Snow Report for Mount Bachelor icon" width="36"> [Snow Report for Mount Bachelor](skills/B01M4NBLXG)
+
+*Alexa, open Mount Bachelor*
+
+The Mount Bachelor Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Bachelor.
+
+***
+
+## &nbsp;<img src="skills/B01M7RZ5JQ/skill_icon" alt="Snow Report for Mount Bohemia icon" width="36"> [Snow Report for Mount Bohemia](skills/B01M7RZ5JQ)
+
+*Alexa, open Mount Bohemia*
+
+The Mount Bohemia Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Bohemia.
+
+***
+
+## &nbsp;<img src="skills/B01M4LG0NM/skill_icon" alt="Snow Report for Mount Brighton icon" width="36"> [Snow Report for Mount Brighton](skills/B01M4LG0NM)
+
+*Alexa, open Mount Brighton*
+
+The Mount Brighton Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Brighton.
+
+***
+
+## &nbsp;<img src="skills/B01M9DB6QF/skill_icon" alt="Snow Report for Mount Holiday icon" width="36"> [Snow Report for Mount Holiday](skills/B01M9DB6QF)
+
+*Alexa, open Mount Holiday*
+
+The Mount Holiday Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Holiday.
+
+***
+
+## &nbsp;<img src="skills/B01M26V1HN/skill_icon" alt="Snow Report for Mount Holly icon" width="36"> [Snow Report for Mount Holly](skills/B01M26V1HN)
+
+*Alexa, open Mount Holly*
+
+The Mount Holly Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Holly.
+
+***
+
+## &nbsp;<img src="skills/B01M7TT8Y1/skill_icon" alt="Snow Report for Mount Hood Meadows icon" width="36"> [Snow Report for Mount Hood Meadows](skills/B01M7TT8Y1)
+
+*Alexa, open Mount Hood Meadows*
+
+The Mount Hood Meadows Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Hood Meadows.
+
+***
+
+## &nbsp;<img src="skills/B01M3U36NK/skill_icon" alt="Snow Report for Mount Hood Skibowl icon" width="36"> [Snow Report for Mount Hood Skibowl](skills/B01M3U36NK)
+
+*Alexa, open Mount Hood Skibowl*
+
+The Mount Hood Skibowl Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Hood Skibowl.
+
+***
+
+## &nbsp;<img src="skills/B01M26VN96/skill_icon" alt="Snow Report for Mount Jefferson icon" width="36"> [Snow Report for Mount Jefferson](skills/B01M26VN96)
+
+*Alexa, open Mount Jefferson*
+
+The Mount Jefferson Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Jefferson.
+
+***
+
+## &nbsp;<img src="skills/B01MF9M6ZC/skill_icon" alt="Snow Report for Mount Kato icon" width="36"> [Snow Report for Mount Kato](skills/B01MF9M6ZC)
+
+*Alexa, open Mount Kato*
+
+The Mount Kato Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Kato.
+
+***
+
+## &nbsp;<img src="skills/B01N3NUXSS/skill_icon" alt="Snow Report for Mount LaCrosse icon" width="36"> [Snow Report for Mount LaCrosse](skills/B01N3NUXSS)
+
+*Alexa, open Mount LaCrosse*
+
+The Mount LaCrosse Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount LaCrosse.
+
+***
+
+## &nbsp;<img src="skills/B01N3JPVUH/skill_icon" alt="Snow Report for Mount Pakenham icon" width="36"> [Snow Report for Mount Pakenham](skills/B01N3JPVUH)
+
+*Alexa, open Mount Pakenham*
+
+The Mount Pakenham Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Pakenham.
+
+***
+
+## &nbsp;<img src="skills/B01MQ0W7QB/skill_icon" alt="Snow Report for Mount Peter icon" width="36"> [Snow Report for Mount Peter](skills/B01MQ0W7QB)
+
+*Alexa, open Mount Peter*
+
+The Mount Peter Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Peter.
+
+***
+
+## &nbsp;<img src="skills/B01M364UO7/skill_icon" alt="Snow Report for Mount Pleasant icon" width="36"> [Snow Report for Mount Pleasant](skills/B01M364UO7)
+
+*Alexa, open Mount Pleasant*
+
+The Mount Pleasant Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Pleasant.
+
+***
+
+## &nbsp;<img src="skills/B01LWOOEMY/skill_icon" alt="Snow Report for Mount Seymour icon" width="36"> [Snow Report for Mount Seymour](skills/B01LWOOEMY)
+
+*Alexa, ask Mount Seymour for the snow report*
+
+The Mount Seymour Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Seymour.
+
+***
+
+## &nbsp;<img src="skills/B01MQDO3SC/skill_icon" alt="Snow Report for Mount Snow icon" width="36"> [Snow Report for Mount Snow](skills/B01MQDO3SC)
+
+*Alexa, open Mount Snow*
+
+The Mount Snow Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Snow.
+
+***
+
+## &nbsp;<img src="skills/B01N094GOB/skill_icon" alt="Snow Report for Mount St Louis Moonstone icon" width="36"> [Snow Report for Mount St Louis Moonstone](skills/B01N094GOB)
+
+*Alexa, open Mount St Louis Moonstone*
+
+The Mount St Louis Moonstone Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount St Louis Moonstone.
+
+***
+
+## &nbsp;<img src="skills/B01MCXR90M/skill_icon" alt="Snow Report for Mount Sunapee icon" width="36"> [Snow Report for Mount Sunapee](skills/B01MCXR90M)
+
+*Alexa, open Mount Sunapee*
+
+The Mount Sunapee Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Sunapee.
+
+***
+
+## &nbsp;<img src="skills/B01LYB83FW/skill_icon" alt="Snow Report for Mount Washington Alpine Resort icon" width="36"> [Snow Report for Mount Washington Alpine Resort](skills/B01LYB83FW)
+
+*Alexa, ask Mount Washington for the snow report*
+
+The Mount Washington Alpine Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mount Washington Alpine Reso
+
+***
+
+## &nbsp;<img src="skills/B01MG4L2KF/skill_icon" alt="Snow Report for Mountain Creek icon" width="36"> [Snow Report for Mountain Creek](skills/B01MG4L2KF)
+
+*Alexa, open Mountain Creek*
+
+The Mountain Creek Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mountain Creek.
+
+***
+
+## &nbsp;<img src="skills/B01M10F1Z8/skill_icon" alt="Snow Report for Mountain High icon" width="36"> [Snow Report for Mountain High](skills/B01M10F1Z8)
+
+*Alexa, ask Mountain High for the snow report*
+
+The Mountain High Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mountain High.
+
+***
+
+## &nbsp;<img src="skills/B01N3VZXLG/skill_icon" alt="Snow Report for Mountain Top icon" width="36"> [Snow Report for Mountain Top](skills/B01N3VZXLG)
+
+*Alexa, open Mountain Top*
+
+The Mountain Top Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for MountainTop.
+
+***
+
+## &nbsp;<img src="skills/B01LXNUD3G/skill_icon" alt="Snow Report for Mt Baker icon" width="36"> [Snow Report for Mt Baker](skills/B01LXNUD3G)
+
+*Alexa, ask Mt Baker for the snow report*
+
+The Mt Baker Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mt Baker.
+
+***
+
+## &nbsp;<img src="skills/B01M0CZ0LO/skill_icon" alt="Snow Report for Mt Baldy icon" width="36"> [Snow Report for Mt Baldy](skills/B01M0CZ0LO)
+
+*Alexa, ask Mt Baldy for the snow report*
+
+The Mt Baldy Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mt Baldy.
+
+***
+
+## &nbsp;<img src="skills/B01LYN1WKA/skill_icon" alt="Snow Report for Mt Buller icon" width="36"> [Snow Report for Mt Buller](skills/B01LYN1WKA)
+
+*Alexa, open Mount Buller*
+
+The Mt Buller Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mt Buller.
+
+***
+
+## &nbsp;<img src="skills/B01MEHCPEV/skill_icon" alt="Snow Report for Mt Crescent icon" width="36"> [Snow Report for Mt Crescent](skills/B01MEHCPEV)
+
+*Alexa, open Mt Crescent*
+
+The Mt Crescent Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mt Crescent.
+
+***
+
+## &nbsp;<img src="skills/B01M1NF9QQ/skill_icon" alt="Snow Report for Mt Rose icon" width="36"> [Snow Report for Mt Rose](skills/B01M1NF9QQ)
+
+*Alexa, ask Mt Rose for the snow report*
+
+The Mt Rose Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mt Rose.
+
+***
+
+## &nbsp;<img src="skills/B01M1B6OZ0/skill_icon" alt="Snow Report for Mt Shasta icon" width="36"> [Snow Report for Mt Shasta](skills/B01M1B6OZ0)
+
+*Alexa, ask Mt Shasta for the snow report*
+
+The Mt Shasta Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mt Shasta.
+
+***
+
+## &nbsp;<img src="skills/B01LYYOA98/skill_icon" alt="Snow Report for Mt Spokane icon" width="36"> [Snow Report for Mt Spokane](skills/B01LYYOA98)
+
+*Alexa, ask Mt Spokane for the snow report*
+
+The Mt Spokane Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mt Spokane.
+
+***
+
+## &nbsp;<img src="skills/B01LZXWYUT/skill_icon" alt="Snow Report for Mt Timothy icon" width="36"> [Snow Report for Mt Timothy](skills/B01LZXWYUT)
+
+*Alexa, ask Mt Timothy for the snow report*
+
+The Mt Timothy Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mt Timothy.
+
+***
+
+## &nbsp;<img src="skills/B01MCVY7MX/skill_icon" alt="Snow Report for Mulligans Hollow icon" width="36"> [Snow Report for Mulligans Hollow](skills/B01MCVY7MX)
+
+*Alexa, open Mulligans Hollow*
+
+The Mulligans Hollow Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mulligans Hollow.
+
+***
+
+## &nbsp;<img src="skills/B01MREYA5E/skill_icon" alt="Snow Report for Mystic Mountain icon" width="36"> [Snow Report for Mystic Mountain](skills/B01MREYA5E)
+
+*Alexa, open Mystic Mountain*
+
+The Mystic Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mystic Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M18M2FF/skill_icon" alt="Snow Report for Nakiska Mountain icon" width="36"> [Snow Report for Nakiska Mountain](skills/B01M18M2FF)
+
+*Alexa, ask Nakiska Mountain for the snow report*
+
+The Nakiska Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Nakiska.
+
+***
+
+## &nbsp;<img src="skills/B01MF9YR31/skill_icon" alt="Snow Report for Nashoba Valley icon" width="36"> [Snow Report for Nashoba Valley](skills/B01MF9YR31)
+
+*Alexa, open Nashoba Valley*
+
+The Nashoba Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Nashoba Valley.
+
+***
+
+## &nbsp;<img src="skills/B01MSHITKM/skill_icon" alt="Snow Report for Nordic Mountain icon" width="36"> [Snow Report for Nordic Mountain](skills/B01MSHITKM)
+
+*Alexa, open Nordic Mountain*
+
+The Nordic Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Nordic Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MDV7OXL/skill_icon" alt="Snow Report for Nordic Valley icon" width="36"> [Snow Report for Nordic Valley](skills/B01MDV7OXL)
+
+*Alexa, open Nordic Valley*
+
+The Nordic Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Nordic Valley.
+
+***
+
+## &nbsp;<img src="skills/B01LYELHCH/skill_icon" alt="Snow Report for Northstar Mountain icon" width="36"> [Snow Report for Northstar Mountain](skills/B01LYELHCH)
+
+*Alexa, ask Northstar Mountain for the snow report*
+
+The Northstar Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Northstar.
+
+***
+
+## &nbsp;<img src="skills/B01MDOMU10/skill_icon" alt="Snow Report for Norway Mountain icon" width="36"> [Snow Report for Norway Mountain](skills/B01MDOMU10)
+
+*Alexa, open Norway Mountain*
+
+The Norway Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Norway Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M9DB68E/skill_icon" alt="Snow Report for Nubs Nob icon" width="36"> [Snow Report for Nubs Nob](skills/B01M9DB68E)
+
+*Alexa, open Nubs Nob*
+
+The Nubs Nob Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Nubs Nob.
+
+***
+
+## &nbsp;<img src="skills/B01M31DGPI/skill_icon" alt="Snow Report for Oak Mountain icon" width="36"> [Snow Report for Oak Mountain](skills/B01M31DGPI)
+
+*Alexa, open Oak Mountain*
+
+The Oak Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Oak Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MQDEYYG/skill_icon" alt="Snow Report for Ober Gatlinburg icon" width="36"> [Snow Report for Ober Gatlinburg](skills/B01MQDEYYG)
+
+*Alexa, open Ober Gatlinburg*
+
+The Ober Gatlinburg Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ober Gatlinburg.
+
+***
+
+## &nbsp;<img src="skills/B01MQDL4LH/skill_icon" alt="Snow Report for Okemo Mountain icon" width="36"> [Snow Report for Okemo Mountain](skills/B01MQDL4LH)
+
+*Alexa, open Okemo Mountain*
+
+The Okemo Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Okemo Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M7RZV8P/skill_icon" alt="Snow Report for Otis Ridge icon" width="36"> [Snow Report for Otis Ridge](skills/B01M7RZV8P)
+
+*Alexa, open Otis Ridge*
+
+The Otis Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Otis Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01M5DNVO2/skill_icon" alt="Snow Report for Otsego Ski Club icon" width="36"> [Snow Report for Otsego Ski Club](skills/B01M5DNVO2)
+
+*Alexa, open Otsego Ski Club*
+
+The Otsego Ski Club Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Otsego Ski Club.
+
+***
+
+## &nbsp;<img src="skills/B01N3NN4IF/skill_icon" alt="Snow Report for Owl's Head Ski icon" width="36"> [Snow Report for Owl's Head Ski](skills/B01N3NN4IF)
+
+*Alexa, open Owl's Head Ski*
+
+The Owl's Head Ski Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Owl's Head Ski.
+
+***
+
+## &nbsp;<img src="skills/B01LY0YF5Q/skill_icon" alt="Snow Report for Pajarito Mountain icon" width="36"> [Snow Report for Pajarito Mountain](skills/B01LY0YF5Q)
+
+*Alexa, open Pajarito Mountain*
+
+The Pajarito Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Pajarito Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LXC5HPT/skill_icon" alt="Snow Report for Panorama Mountain icon" width="36"> [Snow Report for Panorama Mountain](skills/B01LXC5HPT)
+
+*Alexa, ask Panorama Mountain for the snow report*
+
+The Panorama Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Panorama Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M5DOTHG/skill_icon" alt="Snow Report for Paoli Peaks icon" width="36"> [Snow Report for Paoli Peaks](skills/B01M5DOTHG)
+
+*Alexa, open Paoli Peaks*
+
+The Paoli Peaks Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Paoli Peaks.
+
+***
+
+## &nbsp;<img src="skills/B01MRE8HGX/skill_icon" alt="Snow Report for Park City icon" width="36"> [Snow Report for Park City](skills/B01MRE8HGX)
+
+*Alexa, open Park City*
+
+The Park City Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Park City.
+
+***
+
+## &nbsp;<img src="skills/B01M4N9YQI/skill_icon" alt="Snow Report for Pats Peak icon" width="36"> [Snow Report for Pats Peak](skills/B01M4N9YQI)
+
+*Alexa, open Pats Peak*
+
+The Pats Peak Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Pats Peak.
+
+***
+
+## &nbsp;<img src="skills/B01M3S9609/skill_icon" alt="Snow Report for Pebble Creek icon" width="36"> [Snow Report for Pebble Creek](skills/B01M3S9609)
+
+*Alexa, open Pebble Creek*
+
+The Pebble Creek Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Pebble Creek.
+
+***
+
+## &nbsp;<img src="skills/B01MCXS5J6/skill_icon" alt="Snow Report for Peek n Peak icon" width="36"> [Snow Report for Peek n Peak](skills/B01MCXS5J6)
+
+*Alexa, open Peek n Peak*
+
+The Peek n Peak Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Peek n Peak.
+
+***
+
+## &nbsp;<img src="skills/B01M8KNKXQ/skill_icon" alt="Snow Report for Perfect North Slopes icon" width="36"> [Snow Report for Perfect North Slopes](skills/B01M8KNKXQ)
+
+*Alexa, open Perfect North Slopes*
+
+The Perfect North Slopes Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Perfect North Slopes.
+
+***
+
+## &nbsp;<img src="skills/B01MDV8RPY/skill_icon" alt="Snow Report for Pico Mountain icon" width="36"> [Snow Report for Pico Mountain](skills/B01MDV8RPY)
+
+*Alexa, open Pico Mountain*
+
+The Pico Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Pico Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M5DNWU4/skill_icon" alt="Snow Report for Pine Knob icon" width="36"> [Snow Report for Pine Knob](skills/B01M5DNWU4)
+
+*Alexa, open Pine Knob*
+
+The Pine Knob Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Pine Knob.
+
+***
+
+## &nbsp;<img src="skills/B01M6Z4P0I/skill_icon" alt="Snow Report for Pine Mountain icon" width="36"> [Snow Report for Pine Mountain](skills/B01M6Z4P0I)
+
+*Alexa, open Pine Mountain*
+
+The Pine Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Pine Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M3U2NOO/skill_icon" alt="Snow Report for Plattekill Mountain icon" width="36"> [Snow Report for Plattekill Mountain](skills/B01M3U2NOO)
+
+*Alexa, open Plattekill Mountain*
+
+The Plattekill Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Plattekill Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M2ZL5MV/skill_icon" alt="Snow Report for Pomerelle Mountain icon" width="36"> [Snow Report for Pomerelle Mountain](skills/B01M2ZL5MV)
+
+*Alexa, open Pomerelle Mountain*
+
+The Pomerelle Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Pomerelle Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M1A2VQ2/skill_icon" alt="Snow Report for Portillo Resort icon" width="36"> [Snow Report for Portillo Resort](skills/B01M1A2VQ2)
+
+*Alexa, open Portillo Resort*
+
+The Portillo Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Portillo.
+
+***
+
+## &nbsp;<img src="skills/B01LZXWVL0/skill_icon" alt="Snow Report for Powder King icon" width="36"> [Snow Report for Powder King](skills/B01LZXWVL0)
+
+*Alexa, ask Powder King for the snow report*
+
+The Powder King Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Powder King.
+
+***
+
+## &nbsp;<img src="skills/B01MQDM98E/skill_icon" alt="Snow Report for Powder Mountain icon" width="36"> [Snow Report for Powder Mountain](skills/B01MQDM98E)
+
+*Alexa, open Powder Mountain*
+
+The Powder Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Powder Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M3S7YDZ/skill_icon" alt="Snow Report for Powder Ridge icon" width="36"> [Snow Report for Powder Ridge](skills/B01M3S7YDZ)
+
+*Alexa, open Powder Ridge*
+
+The Powder Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Powder Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01LYEL6AP/skill_icon" alt="Snow Report for Powderhorn Mountain icon" width="36"> [Snow Report for Powderhorn Mountain](skills/B01LYEL6AP)
+
+*Alexa, open Powderhorn Mountain*
+
+The Powderhorn Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Powderhorn Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M3S8XO2/skill_icon" alt="Snow Report for Powderhouse Hill icon" width="36"> [Snow Report for Powderhouse Hill](skills/B01M3S8XO2)
+
+*Alexa, open Powderhouse Hill*
+
+The Powderhouse Hill Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Powderhouse Hill.
+
+***
+
+## &nbsp;<img src="skills/B01M0CYR4V/skill_icon" alt="Snow Report for Purgatory Resort icon" width="36"> [Snow Report for Purgatory Resort](skills/B01M0CYR4V)
+
+*Alexa, open Purgatory Resort*
+
+The Purgatory Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Purgatory Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M3U19HQ/skill_icon" alt="Snow Report for Ragged Mountain icon" width="36"> [Snow Report for Ragged Mountain](skills/B01M3U19HQ)
+
+*Alexa, open Ragged Mountain*
+
+The Ragged Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ragged Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MF9QX3N/skill_icon" alt="Snow Report for Raging Buffalo icon" width="36"> [Snow Report for Raging Buffalo](skills/B01MF9QX3N)
+
+*Alexa, open Raging Buffalo*
+
+The Raging Buffalo Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Raging Buffalo.
+
+***
+
+## &nbsp;<img src="skills/B01MDOMDJA/skill_icon" alt="Snow Report for Red Lodge icon" width="36"> [Snow Report for Red Lodge](skills/B01MDOMDJA)
+
+*Alexa, open Red Lodge*
+
+The Red Lodge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Red Lodge.
+
+***
+
+## &nbsp;<img src="skills/B01LYN1R07/skill_icon" alt="Snow Report for Red Mountain Resort icon" width="36"> [Snow Report for Red Mountain Resort](skills/B01LYN1R07)
+
+*Alexa, ask Red Mountain for the snow report*
+
+The Red Mountain Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Red Mountain Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M0YFJ88/skill_icon" alt="Snow Report for Red River icon" width="36"> [Snow Report for Red River](skills/B01M0YFJ88)
+
+*Alexa, open Red River*
+
+The Red River Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Red River.
+
+***
+
+## &nbsp;<img src="skills/B01LX0DTA0/skill_icon" alt="Snow Report for Revelstoke Mountain icon" width="36"> [Snow Report for Revelstoke Mountain](skills/B01LX0DTA0)
+
+*Alexa, ask Revelstoke Mountain for the snow report*
+
+The Revelstoke Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Revelstoke Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M5K4GAQ/skill_icon" alt="Snow Report for Roundtop Mountain icon" width="36"> [Snow Report for Roundtop Mountain](skills/B01M5K4GAQ)
+
+*Alexa, open Roundtop Mountain*
+
+The Roundtop Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Roundtop Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M686W2Q/skill_icon" alt="Snow Report for Royal Mountain icon" width="36"> [Snow Report for Royal Mountain](skills/B01M686W2Q)
+
+*Alexa, open Royal Mountain*
+
+The Royal Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Royal Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MG0ZGYC/skill_icon" alt="Snow Report for Saddleback Mountain icon" width="36"> [Snow Report for Saddleback Mountain](skills/B01MG0ZGYC)
+
+*Alexa, open Saddleback Mountain*
+
+The Saddleback Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Saddleback Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LYCKUMZ/skill_icon" alt="Snow Report for Sandia Peak icon" width="36"> [Snow Report for Sandia Peak](skills/B01LYCKUMZ)
+
+*Alexa, open Sandia Peak*
+
+The Sandia Peak Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sandia Peak.
+
+***
+
+## &nbsp;<img src="skills/B01M5FFCO1/skill_icon" alt="Snow Report for Sapphire Valley icon" width="36"> [Snow Report for Sapphire Valley](skills/B01M5FFCO1)
+
+*Alexa, open Sapphire Valley*
+
+The Sapphire Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sapphire Valley.
+
+***
+
+## &nbsp;<img src="skills/B01MDONY13/skill_icon" alt="Snow Report for Schweitzer Mountain icon" width="36"> [Snow Report for Schweitzer Mountain](skills/B01MDONY13)
+
+*Alexa, open Schweitzer Mountain*
+
+The Schweitzer Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Schweitzer Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01N3NWF3V/skill_icon" alt="Snow Report for Searchmont Resort icon" width="36"> [Snow Report for Searchmont Resort](skills/B01N3NWF3V)
+
+*Alexa, open Searchmont Resort*
+
+The Searchmont Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Searchmont Resort.
+
+***
+
+## &nbsp;<img src="skills/B01MEHCG42/skill_icon" alt="Snow Report for Seven Oaks icon" width="36"> [Snow Report for Seven Oaks](skills/B01MEHCG42)
+
+*Alexa, open Seven Oaks*
+
+The Seven Oaks Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Seven Oaks.
+
+***
+
+## &nbsp;<img src="skills/B01MQDO8CP/skill_icon" alt="Snow Report for Seven Springs icon" width="36"> [Snow Report for Seven Springs](skills/B01MQDO8CP)
+
+*Alexa, open Seven Springs*
+
+The Seven Springs Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Seven Springs.
+
+***
+
+## &nbsp;<img src="skills/B01M26UXYU/skill_icon" alt="Snow Report for Shanty Creek icon" width="36"> [Snow Report for Shanty Creek](skills/B01M26UXYU)
+
+*Alexa, open Shanty Creek*
+
+The Shanty Creek Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Shanty Creek.
+
+***
+
+## &nbsp;<img src="skills/B01M7YFAT9/skill_icon" alt="Snow Report for Shawnee Mountain icon" width="36"> [Snow Report for Shawnee Mountain](skills/B01M7YFAT9)
+
+*Alexa, open Shawnee Mountain*
+
+The Shawnee Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Shawnee Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M3S8Z5O/skill_icon" alt="Snow Report for Shawnee Peak icon" width="36"> [Snow Report for Shawnee Peak](skills/B01M3S8Z5O)
+
+*Alexa, open Shawnee Peak*
+
+The Shawnee Peak Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Shawnee Peak.
+
+***
+
+## &nbsp;<img src="skills/B01MCVXR70/skill_icon" alt="Snow Report for Showdown Mountain icon" width="36"> [Snow Report for Showdown Mountain](skills/B01MCVXR70)
+
+*Alexa, open Showdown Mountain*
+
+The Showdown Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Showdown Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LYQDUYH/skill_icon" alt="Snow Report for Sierra at Tahoe icon" width="36"> [Snow Report for Sierra at Tahoe](skills/B01LYQDUYH)
+
+*Alexa, ask Sierra at Tahoe for the snow report*
+
+The Sierra at Tahoe Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sierra at Tahoe.
+
+***
+
+## &nbsp;<img src="skills/B01M7S0ALS/skill_icon" alt="Snow Report for Silver Mountain icon" width="36"> [Snow Report for Silver Mountain](skills/B01M7S0ALS)
+
+*Alexa, open Silver Mountain*
+
+The Silver Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Silver Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M18OJP1/skill_icon" alt="Snow Report for Silver Star icon" width="36"> [Snow Report for Silver Star](skills/B01M18OJP1)
+
+*Alexa, ask Silver Star for the snow report*
+
+The SilverStar Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for SilverStar.
+
+***
+
+## &nbsp;<img src="skills/B01M01AXRJ/skill_icon" alt="Snow Report for Silverton Mountain icon" width="36"> [Snow Report for Silverton Mountain](skills/B01M01AXRJ)
+
+*Alexa, open Silverton Mountain*
+
+The Silverton Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Silverton Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LXDISOL/skill_icon" alt="Snow Report for Sipapu Resort icon" width="36"> [Snow Report for Sipapu Resort](skills/B01LXDISOL)
+
+*Alexa, open Sipapu Resort*
+
+The Sipapu Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sipapu Resort.
+
+***
+
+## &nbsp;<img src="skills/B01N3W478L/skill_icon" alt="Snow Report for Sir Sam's icon" width="36"> [Snow Report for Sir Sam's](skills/B01N3W478L)
+
+*Alexa, open Sir Sam's*
+
+The Sir Sam's Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sir Sam's.
+
+***
+
+## &nbsp;<img src="skills/B01LXP761A/skill_icon" alt="Snow Report for Ski Apache icon" width="36"> [Snow Report for Ski Apache](skills/B01LXP761A)
+
+*Alexa, open Ski Apache*
+
+The Ski Apache Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Apache.
+
+***
+
+## &nbsp;<img src="skills/B01MG99VEK/skill_icon" alt="Snow Report for Ski Big Bear (PA) icon" width="36"> [Snow Report for Ski Big Bear (PA)](skills/B01MG99VEK)
+
+*Alexa, open Ski Big Bear*
+
+The Ski Big Bear Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Big Bear.
+
+***
+
+## &nbsp;<img src="skills/B01N3RW0Q9/skill_icon" alt="Snow Report for Ski Bromont icon" width="36"> [Snow Report for Ski Bromont](skills/B01N3RW0Q9)
+
+*Alexa, open Ski Bromont*
+
+The Ski Bromont Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Bromont.
+
+***
+
+## &nbsp;<img src="skills/B01MEHB74O/skill_icon" alt="Snow Report for Ski Brule icon" width="36"> [Snow Report for Ski Brule](skills/B01MEHB74O)
+
+*Alexa, open Ski Brule*
+
+The Ski Brule Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Brule.
+
+***
+
+## &nbsp;<img src="skills/B01MG0KN96/skill_icon" alt="Snow Report for Ski Butternut icon" width="36"> [Snow Report for Ski Butternut](skills/B01MG0KN96)
+
+*Alexa, open Ski Butternut*
+
+The Ski Butternut Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Butternut.
+
+***
+
+## &nbsp;<img src="skills/B01LYQDMA0/skill_icon" alt="Snow Report for Ski Granby Ranch icon" width="36"> [Snow Report for Ski Granby Ranch](skills/B01LYQDMA0)
+
+*Alexa, open Ski Granby Ranch*
+
+The Ski Granby Ranch Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Granby Ranch.
+
+***
+
+## &nbsp;<img src="skills/B01N00RA4U/skill_icon" alt="Snow Report for Ski Hidden Valley (ON) icon" width="36"> [Snow Report for Ski Hidden Valley (ON)](skills/B01N00RA4U)
+
+*Alexa, open Ski Hidden Valley*
+
+The Ski Hidden Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Hidden Valley.
+
+***
+
+## &nbsp;<img src="skills/B01N097GT9/skill_icon" alt="Snow Report for Ski La Reserve icon" width="36"> [Snow Report for Ski La Reserve](skills/B01N097GT9)
+
+*Alexa, open Ski La Reserve*
+
+The Ski La Reserve Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski La Reserve.
+
+***
+
+## &nbsp;<img src="skills/B01N053YXZ/skill_icon" alt="Snow Report for Ski Martock icon" width="36"> [Snow Report for Ski Martock](skills/B01N053YXZ)
+
+*Alexa, open Ski Martock*
+
+The Ski Martock Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Martock.
+
+***
+
+## &nbsp;<img src="skills/B01MXCLR3L/skill_icon" alt="Snow Report for Ski Morin Heights icon" width="36"> [Snow Report for Ski Morin Heights](skills/B01MXCLR3L)
+
+*Alexa, open Ski Morin Heights*
+
+The Ski Morin Heights Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Morin Heights.
+
+***
+
+## &nbsp;<img src="skills/B01MRF5BPQ/skill_icon" alt="Snow Report for Ski Quechee icon" width="36"> [Snow Report for Ski Quechee](skills/B01MRF5BPQ)
+
+*Alexa, open Ski Quechee*
+
+The Ski Quechee Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Quechee.
+
+***
+
+## &nbsp;<img src="skills/B01LY0Y8VE/skill_icon" alt="Snow Report for Ski Santa Fe icon" width="36"> [Snow Report for Ski Santa Fe](skills/B01LY0Y8VE)
+
+*Alexa, open Ski Santa Fe*
+
+The Ski Santa Fe Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Santa Fe.
+
+***
+
+## &nbsp;<img src="skills/B01MRF012Z/skill_icon" alt="Snow Report for Ski Sawmill icon" width="36"> [Snow Report for Ski Sawmill](skills/B01MRF012Z)
+
+*Alexa, open Ski Sawmill*
+
+The Ski Sawmill Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Sawmill.
+
+***
+
+## &nbsp;<img src="skills/B01N3JK7I4/skill_icon" alt="Snow Report for Ski Snow Valley (ON) icon" width="36"> [Snow Report for Ski Snow Valley (ON)](skills/B01N3JK7I4)
+
+*Alexa, open Ski Snow Valley*
+
+The Ski Snow Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Snow Valley .
+
+***
+
+## &nbsp;<img src="skills/B01MF7TWKA/skill_icon" alt="Snow Report for Ski Snowstar icon" width="36"> [Snow Report for Ski Snowstar](skills/B01MF7TWKA)
+
+*Alexa, open Ski Snowstar*
+
+The Ski Snowstar Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Snowstar.
+
+***
+
+## &nbsp;<img src="skills/B01N3NUWFY/skill_icon" alt="Snow Report for Skyloft Ski Club icon" width="36"> [Snow Report for Skyloft Ski Club](skills/B01N3NUWFY)
+
+*Alexa, open Skyloft Ski Club*
+
+The Skyloft Ski Club Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Skyloft Ski Club.
+
+***
+
+## &nbsp;<img src="skills/B01N00S4VP/skill_icon" alt="Snow Report for Sleeping Giant icon" width="36"> [Snow Report for Sleeping Giant](skills/B01N00S4VP)
+
+*Alexa, open Sleeping Giant*
+
+The Sleeping Giant Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sleeping Giant.
+
+***
+
+## &nbsp;<img src="skills/B01MD2G437/skill_icon" alt="Snow Report for Smugglers Notch icon" width="36"> [Snow Report for Smugglers Notch](skills/B01MD2G437)
+
+*Alexa, open Smugglers Notch*
+
+The Smugglers Notch Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Smugglers Notch.
+
+***
+
+## &nbsp;<img src="skills/B01MA655M1/skill_icon" alt="Snow Report for Snow Creek icon" width="36"> [Snow Report for Snow Creek](skills/B01MA655M1)
+
+*Alexa, open Snow Creek*
+
+The Snow Creek Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snow Creek.
+
+***
+
+## &nbsp;<img src="skills/B01N3VZFQ1/skill_icon" alt="Snow Report for Snow King icon" width="36"> [Snow Report for Snow King](skills/B01N3VZFQ1)
+
+*Alexa, open Snow King*
+
+The Snow King Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snow King.
+
+***
+
+## &nbsp;<img src="skills/B01M28P5A9/skill_icon" alt="Snow Report for Snow Ridge icon" width="36"> [Snow Report for Snow Ridge](skills/B01M28P5A9)
+
+*Alexa, open Snow Ridge*
+
+The Snow Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snow Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01M3S8EEA/skill_icon" alt="Snow Report for Snow Snake icon" width="36"> [Snow Report for Snow Snake](skills/B01M3S8EEA)
+
+*Alexa, open Snow Snake*
+
+The Snow Snake Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snow Snake.
+
+***
+
+## &nbsp;<img src="skills/B01M1BK35T/skill_icon" alt="Snow Report for Snow Summit icon" width="36"> [Snow Report for Snow Summit](skills/B01M1BK35T)
+
+*Alexa, ask Snow Summit for the snow report*
+
+The Snow Summit Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snow Summit.
+
+***
+
+## &nbsp;<img src="skills/B01M9F58EW/skill_icon" alt="Snow Report for Snow Trails icon" width="36"> [Snow Report for Snow Trails](skills/B01M9F58EW)
+
+*Alexa, open Snow Trails*
+
+The Snow Trails Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snow Trails.
+
+***
+
+## &nbsp;<img src="skills/B01M10FHRY/skill_icon" alt="Snow Report for Snow Valley icon" width="36"> [Snow Report for Snow Valley](skills/B01M10FHRY)
+
+*Alexa, ask Snow Valley for the snow report*
+
+The Snow Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snow Valley.
+
+***
+
+## &nbsp;<img src="skills/B01MREVD2X/skill_icon" alt="Snow Report for Snowbasin Resort icon" width="36"> [Snow Report for Snowbasin Resort](skills/B01MREVD2X)
+
+*Alexa, open Snowbasin Resort*
+
+The Snowbasin Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snowbasin Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M4S2JZE/skill_icon" alt="Snow Report for Snowbird Resort icon" width="36"> [Snow Report for Snowbird Resort](skills/B01M4S2JZE)
+
+*Alexa, open Snowbird Resort*
+
+The Snowbird Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snowbird Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M3S8JBU/skill_icon" alt="Snow Report for Snowhaven Ski Area icon" width="36"> [Snow Report for Snowhaven Ski Area](skills/B01M3S8JBU)
+
+*Alexa, open Snowhaven Ski Area*
+
+The Snowhaven Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snowhaven Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01LXR6CIE/skill_icon" alt="Snow Report for Snowmass Resort icon" width="36"> [Snow Report for Snowmass Resort](skills/B01LXR6CIE)
+
+*Alexa, open Snowmass Resort*
+
+The Snowmass Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snowmass Resort.
+
+***
+
+## &nbsp;<img src="skills/B01N3JKRP9/skill_icon" alt="Snow Report for Snowshoe Mountain icon" width="36"> [Snow Report for Snowshoe Mountain](skills/B01N3JKRP9)
+
+*Alexa, open Snowshoe Mountain*
+
+The Snowshoe Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snowshoe Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MTJ0YRD/skill_icon" alt="Snow Report for Snowy Range icon" width="36"> [Snow Report for Snowy Range](skills/B01MTJ0YRD)
+
+*Alexa, open Snowy Range*
+
+The Snowy Range Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snowy Range.
+
+***
+
+## &nbsp;<img src="skills/B01LZDQBQ7/skill_icon" alt="Snow Report for Soda Springs icon" width="36"> [Snow Report for Soda Springs](skills/B01LZDQBQ7)
+
+*Alexa, ask Soda Springs for the snow report*
+
+The Soda Springs Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Soda Springs.
+
+***
+
+## &nbsp;<img src="skills/B01M3S9B66/skill_icon" alt="Snow Report for Soldier Mountain icon" width="36"> [Snow Report for Soldier Mountain](skills/B01M3S9B66)
+
+*Alexa, open Soldier Mountain*
+
+The Soldier Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Soldier Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MDV7ROJ/skill_icon" alt="Snow Report for Solitude Mountain icon" width="36"> [Snow Report for Solitude Mountain](skills/B01MDV7ROJ)
+
+*Alexa, open Solitude Mountain*
+
+The Solitude Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Solitude Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M8MGYHE/skill_icon" alt="Snow Report for Song Mountain icon" width="36"> [Snow Report for Song Mountain](skills/B01M8MGYHE)
+
+*Alexa, open Song Mountain*
+
+The Song Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Song Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MA65A5P/skill_icon" alt="Snow Report for Spirit Mountain icon" width="36"> [Snow Report for Spirit Mountain](skills/B01MA65A5P)
+
+*Alexa, open Spirit Mountain*
+
+The Spirit Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Spirit Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MFBWK13/skill_icon" alt="Snow Report for Spout Springs icon" width="36"> [Snow Report for Spout Springs](skills/B01MFBWK13)
+
+*Alexa, open Spout Springs*
+
+The Spout Springs Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Spout Springs.
+
+***
+
+## &nbsp;<img src="skills/B01MQDCKJG/skill_icon" alt="Snow Report for Spring Mountain icon" width="36"> [Snow Report for Spring Mountain](skills/B01MQDCKJG)
+
+*Alexa, open Spring Mountain*
+
+The Spring Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Spring Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LYELYPL/skill_icon" alt="Snow Report for Squaw Valley icon" width="36"> [Snow Report for Squaw Valley](skills/B01LYELYPL)
+
+*Alexa, ask Squaw Valley for the snow report*
+
+The Squaw Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Squaw Valley.
+
+***
+
+## &nbsp;<img src="skills/B01M1Y4QP9/skill_icon" alt="Snow Report for Steamboat Springs icon" width="36"> [Snow Report for Steamboat Springs](skills/B01M1Y4QP9)
+
+*Alexa, open Steamboat Springs*
+
+The Steamboat Springs Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Steamboat Springs.
+
+***
+
+## &nbsp;<img src="skills/B01LXC5GWM/skill_icon" alt="Snow Report for Stevens Pass icon" width="36"> [Snow Report for Stevens Pass](skills/B01LXC5GWM)
+
+*Alexa, open Stevens Pass*
+
+The Stevens Pass Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Stevens Pass.
+
+***
+
+## &nbsp;<img src="skills/B01MRG37QU/skill_icon" alt="Snow Report for Stoneham Mountain Resort icon" width="36"> [Snow Report for Stoneham Mountain Resort](skills/B01MRG37QU)
+
+*Alexa, open Stoneham Mountain Resort*
+
+The Stoneham Mountain Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Stoneham Mountain Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M3YTAPI/skill_icon" alt="Snow Report for Stowe Mountain icon" width="36"> [Snow Report for Stowe Mountain](skills/B01M3YTAPI)
+
+*Alexa, open Stowe Mountain*
+
+The Stowe Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Stowe Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MG9DF3R/skill_icon" alt="Snow Report for Stratton Mountain icon" width="36"> [Snow Report for Stratton Mountain](skills/B01MG9DF3R)
+
+*Alexa, open Stratton Mountain*
+
+The Stratton Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Stratton Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LY308T8/skill_icon" alt="Snow Report for Sugar Bowl icon" width="36"> [Snow Report for Sugar Bowl](skills/B01LY308T8)
+
+*Alexa, ask Sugar Bowl for the snow report*
+
+The Sugar Bowl Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sugar Bowl.
+
+***
+
+## &nbsp;<img src="skills/B01MDQCUB1/skill_icon" alt="Snow Report for Sugar Mountain icon" width="36"> [Snow Report for Sugar Mountain](skills/B01MDQCUB1)
+
+*Alexa, open Sugar Mountain*
+
+The Sugar Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sugar Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M363BFS/skill_icon" alt="Snow Report for Sugarbush Mountain icon" width="36"> [Snow Report for Sugarbush Mountain](skills/B01M363BFS)
+
+*Alexa, open Sugarbush Mountain*
+
+The Sugarbush Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sugarbush Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MF9UIHC/skill_icon" alt="Snow Report for Sugarloaf Mountain icon" width="36"> [Snow Report for Sugarloaf Mountain](skills/B01MF9UIHC)
+
+*Alexa, open Sugarloaf Mountain*
+
+The Sugarloaf Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sugarloaf Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M6CWH36/skill_icon" alt="Snow Report for Suicide Six icon" width="36"> [Snow Report for Suicide Six](skills/B01M6CWH36)
+
+*Alexa, open Suicide Six*
+
+The Suicide Six Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Suicide Six.
+
+***
+
+## &nbsp;<img src="skills/B01LX0DYU7/skill_icon" alt="Snow Report for Summit at Snoqualmie-Alpental icon" width="36"> [Snow Report for Summit at Snoqualmie-Alpental](skills/B01LX0DYU7)
+
+*Alexa, ask Alpental Ski Resort for the snow report*
+
+The Summit at Snoqualmie-Alpental Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Summit at Snoqualmie-Alpental
+
+***
+
+## &nbsp;<img src="skills/B01LXC5M3I/skill_icon" alt="Snow Report for Summit at Snoqualmie-Central icon" width="36"> [Snow Report for Summit at Snoqualmie-Central](skills/B01LXC5M3I)
+
+*Alexa, ask Summit Central for the snow report*
+
+The Summit at Snoqualmie-Central Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Summit at Snoqualmie-Central.
+
+***
+
+## &nbsp;<img src="skills/B01M1UO78M/skill_icon" alt="Snow Report for Summit at Snoqualmie-East icon" width="36"> [Snow Report for Summit at Snoqualmie-East](skills/B01M1UO78M)
+
+*Alexa, open Summit East*
+
+The Summit at Snoqualmie-East Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Summit at Snoqualmie-East.
+
+***
+
+## &nbsp;<img src="skills/B01LYYOBM2/skill_icon" alt="Snow Report for Summit at Snoqualmie-West icon" width="36"> [Snow Report for Summit at Snoqualmie-West](skills/B01LYYOBM2)
+
+*Alexa, open Summit West*
+
+The Summit at Snoqualmie-West Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Summit at Snoqualmie-West.
+
+***
+
+## &nbsp;<img src="skills/B01M0X2IFO/skill_icon" alt="Snow Report for Sun Peaks icon" width="36"> [Snow Report for Sun Peaks](skills/B01M0X2IFO)
+
+*Alexa, ask Sun Peaks for the snow report*
+
+The Sun Peaks Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sun Peaks.
+
+***
+
+## &nbsp;<img src="skills/B01M4LH4S1/skill_icon" alt="Snow Report for Sun Valley icon" width="36"> [Snow Report for Sun Valley](skills/B01M4LH4S1)
+
+*Alexa, open Sun Valley*
+
+The Sun Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sun Valley.
+
+***
+
+## &nbsp;<img src="skills/B01N3VZXTR/skill_icon" alt="Snow Report for Sunburst Mountain icon" width="36"> [Snow Report for Sunburst Mountain](skills/B01N3VZXTR)
+
+*Alexa, open Sunburst Mountain*
+
+The Sunburst Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sunburst Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MQDV9OD/skill_icon" alt="Snow Report for Sundance Mountain icon" width="36"> [Snow Report for Sundance Mountain](skills/B01MQDV9OD)
+
+*Alexa, open Sundance Mountain*
+
+The Sundance Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sundance Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MF9OPE0/skill_icon" alt="Snow Report for Sunday River icon" width="36"> [Snow Report for Sunday River](skills/B01MF9OPE0)
+
+*Alexa, open Sunday River*
+
+The Sunday River Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sunday River.
+
+***
+
+## &nbsp;<img src="skills/B01M5DP1PI/skill_icon" alt="Snow Report for Sundown Mountain icon" width="36"> [Snow Report for Sundown Mountain](skills/B01M5DP1PI)
+
+*Alexa, open Sundown Mountain*
+
+The Sundown Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sundown Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LZ23DH2/skill_icon" alt="Snow Report for Sunlight Mountain icon" width="36"> [Snow Report for Sunlight Mountain](skills/B01LZ23DH2)
+
+*Alexa, open Sunlight Mountain*
+
+The Sunlight Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sunlight Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01LZXWRWH/skill_icon" alt="Snow Report for Sunrise Park icon" width="36"> [Snow Report for Sunrise Park](skills/B01LZXWRWH)
+
+*Alexa, ask Sunrise Park for the snow report*
+
+The Sunrise Park Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sunrise Park.
+
+***
+
+## &nbsp;<img src="skills/B01LXZLZ1O/skill_icon" alt="Snow Report for Sunshine Village icon" width="36"> [Snow Report for Sunshine Village](skills/B01LXZLZ1O)
+
+*Alexa, ask Sunshine Village for the snow report*
+
+The Sunshine Village Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sunshine Village.
+
+***
+
+## &nbsp;<img src="skills/B01M9F5APR/skill_icon" alt="Snow Report for Swain Ski Center icon" width="36"> [Snow Report for Swain Ski Center](skills/B01M9F5APR)
+
+*Alexa, open Swain Ski Center*
+
+The Swain Ski Center Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Swain Ski Center.
+
+***
+
+## &nbsp;<img src="skills/B01M26UZ95/skill_icon" alt="Snow Report for Swiss Valley icon" width="36"> [Snow Report for Swiss Valley](skills/B01M26UZ95)
+
+*Alexa, open Swiss Valley*
+
+The Swiss Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Swiss Valley.
+
+***
+
+## &nbsp;<img src="skills/B01M01BWUT/skill_icon" alt="Snow Report for Tahoe Donner icon" width="36"> [Snow Report for Tahoe Donner](skills/B01M01BWUT)
+
+*Alexa, ask Tahoe Donner for the snow report*
+
+The Tahoe Donner Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Tahoe Donner.
+
+***
+
+## &nbsp;<img src="skills/B01MG1G5ET/skill_icon" alt="Snow Report for Tamarack Resort icon" width="36"> [Snow Report for Tamarack Resort](skills/B01MG1G5ET)
+
+*Alexa, open Tamarack Resort*
+
+The Tamarack Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Tamarack Resort.
+
+***
+
+## &nbsp;<img src="skills/B01LZZAGSB/skill_icon" alt="Snow Report for Taos Ski Valley icon" width="36"> [Snow Report for Taos Ski Valley](skills/B01LZZAGSB)
+
+*Alexa, open Taos Ski Valley*
+
+The Taos Ski Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Taos .
+
+***
+
+## &nbsp;<img src="skills/B01LWS3QHB/skill_icon" alt="Snow Report for Telluride Resort icon" width="36"> [Snow Report for Telluride Resort](skills/B01LWS3QHB)
+
+*Alexa, open Telluride Resort*
+
+The Telluride Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Telluride Resort.
+
+***
+
+## &nbsp;<img src="skills/B01MREZJGQ/skill_icon" alt="Snow Report for Terry Peak icon" width="36"> [Snow Report for Terry Peak](skills/B01MREZJGQ)
+
+*Alexa, open Terry Peak*
+
+The Terry Peak Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Terry Peak.
+
+***
+
+## &nbsp;<img src="skills/B01MA651D9/skill_icon" alt="Snow Report for Teton Pass icon" width="36"> [Snow Report for Teton Pass](skills/B01MA651D9)
+
+*Alexa, open Teton Pass*
+
+The Teton Pass Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Teton Pass.
+
+***
+
+## &nbsp;<img src="skills/B01MD2FAXU/skill_icon" alt="Snow Report for The Homestead icon" width="36"> [Snow Report for The Homestead](skills/B01MD2FAXU)
+
+*Alexa, open The Homestead*
+
+The Homestead Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for The Homestead.
+
+***
+
+## &nbsp;<img src="skills/B01M4NB8CO/skill_icon" alt="Snow Report for Thunder Ridge icon" width="36"> [Snow Report for Thunder Ridge](skills/B01M4NB8CO)
+
+*Alexa, open Thunder Ridge*
+
+The Thunder Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Thunder Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01M6Z4Q8L/skill_icon" alt="Snow Report for Timber Ridge icon" width="36"> [Snow Report for Timber Ridge](skills/B01M6Z4Q8L)
+
+*Alexa, open Timber Ridge*
+
+The Timber Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Timber Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01MXFS25G/skill_icon" alt="Snow Report for Timberline Four Seasons icon" width="36"> [Snow Report for Timberline Four Seasons](skills/B01MXFS25G)
+
+*Alexa, open Timberline Four Seasons*
+
+The Timberline Four Seasons Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Timberline Four Seasons.
+
+***
+
+## &nbsp;<img src="skills/B01M8MHM1X/skill_icon" alt="Snow Report for Timberline Ski Area icon" width="36"> [Snow Report for Timberline Ski Area](skills/B01M8MHM1X)
+
+*Alexa, open Timberline Ski Area*
+
+The Timberline Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Timberline Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01M4LGSRM/skill_icon" alt="Snow Report for Titcomb Mountain icon" width="36"> [Snow Report for Titcomb Mountain](skills/B01M4LGSRM)
+
+*Alexa, open Titcomb Mountain*
+
+The Titcomb Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Titcomb Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MDQHBZA/skill_icon" alt="Snow Report for Titus Mountain icon" width="36"> [Snow Report for Titus Mountain](skills/B01MDQHBZA)
+
+*Alexa, open Titus Mountain*
+
+The Titus Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Titus Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M4NB5OO/skill_icon" alt="Snow Report for Toggenburg Mountain icon" width="36"> [Snow Report for Toggenburg Mountain](skills/B01M4NB5OO)
+
+*Alexa, open Toggenburg Mountain*
+
+The Toggenburg Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Toggenburg Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M66CRE1/skill_icon" alt="Snow Report for Treetops Ski Resort icon" width="36"> [Snow Report for Treetops Ski Resort](skills/B01M66CRE1)
+
+*Alexa, open Treetops Ski Resort*
+
+The Treetops Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Treetops Ski Resort.
+
+***
+
+## &nbsp;<img src="skills/B01N04YA91/skill_icon" alt="Snow Report for Trollhaugen Ski Resort icon" width="36"> [Snow Report for Trollhaugen Ski Resort](skills/B01N04YA91)
+
+*Alexa, open Trollhaugen Ski Resort*
+
+The Trollhaugen Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Trollhaugen Ski Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M9DAO3F/skill_icon" alt="Snow Report for Turner Mountain icon" width="36"> [Snow Report for Turner Mountain](skills/B01M9DAO3F)
+
+*Alexa, open Turner Mountain*
+
+The Turner Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Turner Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M3615T0/skill_icon" alt="Snow Report for Tussey Mountain icon" width="36"> [Snow Report for Tussey Mountain](skills/B01M3615T0)
+
+*Alexa, open Tussey Mountain*
+
+The Tussey Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Tussey Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M4NBC1E/skill_icon" alt="Snow Report for Tuxedo Ridge icon" width="36"> [Snow Report for Tuxedo Ridge](skills/B01M4NBC1E)
+
+*Alexa, open Tuxedo Ridge*
+
+The Tuxedo Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Tuxedo Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01N00WKCO/skill_icon" alt="Snow Report for Tyrol Basin icon" width="36"> [Snow Report for Tyrol Basin](skills/B01N00WKCO)
+
+*Alexa, open Tyrol Basin*
+
+The Tyrol Basin Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Tyrol Basin.
+
+***
+
+## &nbsp;<img src="skills/B01LZ23AWF/skill_icon" alt="Snow Report for Vail Resort icon" width="36"> [Snow Report for Vail Resort](skills/B01LZ23AWF)
+
+*Alexa, open Vail Resort*
+
+The Vail Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Vail Resort.
+
+***
+
+## &nbsp;<img src="skills/B01N093HCX/skill_icon" alt="Snow Report for Val D'Irene icon" width="36"> [Snow Report for Val D'Irene](skills/B01N093HCX)
+
+*Alexa, open Val D'Irene*
+
+The Val D'Irene Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Val D'Irene.
+
+***
+
+## &nbsp;<img src="skills/B01M7RZAI3/skill_icon" alt="Snow Report for Villa Olivia icon" width="36"> [Snow Report for Villa Olivia](skills/B01M7RZAI3)
+
+*Alexa, open Villa Olivia*
+
+The Villa Olivia Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Villa Olivia.
+
+***
+
+## &nbsp;<img src="skills/B01MXGMU2J/skill_icon" alt="Snow Report for Vorlage Ski Area icon" width="36"> [Snow Report for Vorlage Ski Area](skills/B01MXGMU2J)
+
+*Alexa, open Vorlage Ski Area*
+
+The Vorlage Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Vorlage Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01M2ZKCO9/skill_icon" alt="Snow Report for Wachusett Ski Area icon" width="36"> [Snow Report for Wachusett Ski Area](skills/B01M2ZKCO9)
+
+*Alexa, open Wachusett Ski Area*
+
+The Wachusett Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Wachusett Ski Area.
+
+***
+
+## &nbsp;<img src="skills/B01M8MFZNU/skill_icon" alt="Snow Report for Waterville Valley icon" width="36"> [Snow Report for Waterville Valley](skills/B01M8MFZNU)
+
+*Alexa, open Waterville Valley*
+
+The Waterville Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Waterville Valley.
+
+***
+
+## &nbsp;<img src="skills/B01MA65CK9/skill_icon" alt="Snow Report for Welch Village icon" width="36"> [Snow Report for Welch Village](skills/B01MA65CK9)
+
+*Alexa, open Welch Village*
+
+The Welch Village Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Welch Village.
+
+***
+
+## &nbsp;<img src="skills/B01M4NBBHR/skill_icon" alt="Snow Report for West Mountain icon" width="36"> [Snow Report for West Mountain](skills/B01M4NBBHR)
+
+*Alexa, open West Mountain*
+
+The West Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for West Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M5FGD3O/skill_icon" alt="Snow Report for Whaleback Ski Club icon" width="36"> [Snow Report for Whaleback Ski Club](skills/B01M5FGD3O)
+
+*Alexa, open Whaleback Ski Club*
+
+The Whaleback Ski Club Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Whaleback Ski Club.
+
+***
+
+## &nbsp;<img src="skills/B01LR79Z3M/skill_icon" alt="Snow Report for Whistler Blackcomb icon" width="36"> [Snow Report for Whistler Blackcomb](skills/B01LR79Z3M)
+
+*Alexa, ask Whistler Blackcomb for the snow report*
+
+The Whistler Blackcomb Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Whistler Blackcomb.
+
+***
+
+## &nbsp;<img src="skills/B01LX0DUNS/skill_icon" alt="Snow Report for White Pass icon" width="36"> [Snow Report for White Pass](skills/B01LX0DUNS)
+
+*Alexa, open White Pass*
+
+The White Pass Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for White Pass.
+
+***
+
+## &nbsp;<img src="skills/B01MFHAPN0/skill_icon" alt="Snow Report for White Pine icon" width="36"> [Snow Report for White Pine](skills/B01MFHAPN0)
+
+*Alexa, open White Pine*
+
+The White Pine Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for White Pine.
+
+***
+
+## &nbsp;<img src="skills/B01N3JN6X4/skill_icon" alt="Snow Report for Whitecap Mountain icon" width="36"> [Snow Report for Whitecap Mountain](skills/B01N3JN6X4)
+
+*Alexa, open Whitecap Mountain*
+
+The Whitecap Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Whitecap Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M70Y6LT/skill_icon" alt="Snow Report for Whiteface Mountain icon" width="36"> [Snow Report for Whiteface Mountain](skills/B01M70Y6LT)
+
+*Alexa, open Whiteface Mountain*
+
+The Whiteface Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Whiteface Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M9DAOKC/skill_icon" alt="Snow Report for Whitefish Mountain Resort icon" width="36"> [Snow Report for Whitefish Mountain Resort](skills/B01M9DAOKC)
+
+*Alexa, open Whitefish Mountain Resort*
+
+The Whitefish Mountain Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Whitefish Mountain Resort.
+
+***
+
+## &nbsp;<img src="skills/B01M6CTZVN/skill_icon" alt="Snow Report for Whitetail Mounatin icon" width="36"> [Snow Report for Whitetail Mounatin](skills/B01M6CTZVN)
+
+*Alexa, open Whitetail Mounatin*
+
+The Whitetail Mounatin Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Whitetail Mounatin.
+
+***
+
+## &nbsp;<img src="skills/B01LYB80SA/skill_icon" alt="Snow Report for Whitewater Mountain icon" width="36"> [Snow Report for Whitewater Mountain](skills/B01LYB80SA)
+
+*Alexa, ask Whitewater Mountain for the snow report*
+
+The Whitewater Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Whitewater.
+
+***
+
+## &nbsp;<img src="skills/B01MAYX78F/skill_icon" alt="Snow Report for Wild Mountain icon" width="36"> [Snow Report for Wild Mountain](skills/B01MAYX78F)
+
+*Alexa, open Wild Mountain*
+
+The Wild Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Wild Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M9F4C5D/skill_icon" alt="Snow Report for Wildcat Mountain icon" width="36"> [Snow Report for Wildcat Mountain](skills/B01M9F4C5D)
+
+*Alexa, open Wildcat Mountain*
+
+The Wildcat Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Wildcat Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M4NBM4P/skill_icon" alt="Snow Report for Willamette Pass icon" width="36"> [Snow Report for Willamette Pass](skills/B01M4NBM4P)
+
+*Alexa, open Willamette Pass*
+
+The Willamette Pass Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Willamette Pass.
+
+***
+
+## &nbsp;<img src="skills/B01MCXSQBW/skill_icon" alt="Snow Report for Willard Mountain icon" width="36"> [Snow Report for Willard Mountain](skills/B01MCXSQBW)
+
+*Alexa, open Willard Mountain*
+
+The Willard Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Willard Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01MXCJXPY/skill_icon" alt="Snow Report for Wilmot Mountain icon" width="36"> [Snow Report for Wilmot Mountain](skills/B01MXCJXPY)
+
+*Alexa, open Wilmot Mountain*
+
+The Wilmot Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Wilmot Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M70Y608/skill_icon" alt="Snow Report for Windham Mountain icon" width="36"> [Snow Report for Windham Mountain](skills/B01M70Y608)
+
+*Alexa, open Windham Mountain*
+
+The Windham Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Windham Mountain.
+
+***
+
+## &nbsp;<img src="skills/B01M0OM6CZ/skill_icon" alt="Snow Report for Winter Park icon" width="36"> [Snow Report for Winter Park](skills/B01M0OM6CZ)
+
+*Alexa, open Winter Park*
+
+The Winter Park Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Winter Park.
+
+***
+
+## &nbsp;<img src="skills/B01M2DDVN0/skill_icon" alt="Snow Report for Wintergreen Resort icon" width="36"> [Snow Report for Wintergreen Resort](skills/B01M2DDVN0)
+
+*Alexa, open Wintergreen Resort*
+
+The Wintergreen Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Wintergreen Resort.
+
+***
+
+## &nbsp;<img src="skills/B01N00WKL6/skill_icon" alt="Snow Report for Winterplace Ski Resort icon" width="36"> [Snow Report for Winterplace Ski Resort](skills/B01N00WKL6)
+
+*Alexa, open Winterplace Ski Resort*
+
+The Winterplace Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Winterplace Ski Resort.
+
+***
+
+## &nbsp;<img src="skills/B01MEHAGYL/skill_icon" alt="Snow Report for Wisp Ski Resort icon" width="36"> [Snow Report for Wisp Ski Resort](skills/B01MEHAGYL)
+
+*Alexa, open Wisp Ski Resort*
+
+The Wisp Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Wisp Ski Resort.
+
+***
+
+## &nbsp;<img src="skills/B01LX3PI2V/skill_icon" alt="Snow Report for Wolf Creek icon" width="36"> [Snow Report for Wolf Creek](skills/B01LX3PI2V)
+
+*Alexa, open Wolf Creek*
+
+The Wolf Creek Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Wolf Creek.
+
+***
+
+## &nbsp;<img src="skills/B01MCXJX6L/skill_icon" alt="Snow Report for Wolf Ridge icon" width="36"> [Snow Report for Wolf Ridge](skills/B01MCXJX6L)
+
+*Alexa, open Wolf Ridge*
+
+The Wolf Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Wolf Ridge.
+
+***
+
+## &nbsp;<img src="skills/B01M8MHB6J/skill_icon" alt="Snow Report for Woods Valley icon" width="36"> [Snow Report for Woods Valley](skills/B01M8MHB6J)
+
+*Alexa, open Woods Valley*
+
+The Woods Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Woods Valley.
+
+***
+
+## &nbsp;<img src="skills/B01M3YQZ49/skill_icon" alt="Snow Report for Yawgoo Valley icon" width="36"> [Snow Report for Yawgoo Valley](skills/B01M3YQZ49)
+
+*Alexa, open Yawgoo Valley*
+
+The Yawgoo Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Yawgoo Valley.
+
+***
+
+## &nbsp;<img src="skills/B01M10F6QZ/skill_icon" alt="Snow Report for Yosemite Ski icon" width="36"> [Snow Report for Yosemite Ski](skills/B01M10F6QZ)
+
+*Alexa, ask Yosemite Ski for the snow report*
+
+The Yosemite Ski Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Yosemite Ski Area.
 
 ***
 
@@ -16393,6 +27298,30 @@ Fun soccer facts.
 
 ***
 
+## &nbsp;<img src="skills/B01M03V549/skill_icon" alt="Soccer Facts Skill icon" width="36"> [Soccer Facts Skill](skills/B01M03V549)
+
+*Alexa, open soccer facts*
+
+Fact skill about Soccer
+
+***
+
+## &nbsp;<img src="skills/B01M0495JK/skill_icon" alt="Soccer Geek icon" width="36"> [Soccer Geek](skills/B01M0495JK)
+
+*Alexa open soccer geek*
+
+Soccer facts
+
+***
+
+## &nbsp;<img src="skills/B01MDN6G74/skill_icon" alt="Soccer Nerd icon" width="36"> [Soccer Nerd](skills/B01MDN6G74)
+
+*Alexa, ask Soccer Nerd who does Chelsea play next*
+
+Ask Alexa all about previous and upcoming soccer games with much more functionality coming soon.
+
+***
+
 ## &nbsp;<img src="skills/B01JR042BQ/skill_icon" alt="Soccer Showdown icon" width="36"> [Soccer Showdown](skills/B01JR042BQ)
 
 *Alexa, open Soccer Showdown*
@@ -16425,6 +27354,22 @@ An Amazon Echo voice app that finds and tells the user of the emotions conveyed 
 
 ***
 
+## &nbsp;<img src="skills/B01LZED1LF/skill_icon" alt="Social Media Conscience icon" width="36"> [Social Media Conscience](skills/B01LZED1LF)
+
+*alexa open social conscience*
+
+This app asks questions to determine if what you are thinking about posting to social media should actually be posted.
+
+***
+
+## &nbsp;<img src="skills/B01M9CZ23Z/skill_icon" alt="Social Security Facts icon" width="36"> [Social Security Facts](skills/B01M9CZ23Z)
+
+*Alexa ask social security facts to tell me a fact*
+
+This is a random fact skill providing information from the Social Security Administration.
+
+***
+
 ## &nbsp;<img src="skills/B01I22DR2K/skill_icon" alt="Social Work Exam icon" width="36"> [Social Work Exam](skills/B01I22DR2K)
 
 *Alexa, open social work exam*
@@ -16438,6 +27383,22 @@ The Social Work Exam skill provides you with review material as you study for th
 *Alexa, open softball fact*
 
 Random softball fact
+
+***
+
+## &nbsp;<img src="skills/B01LXBRPWT/skill_icon" alt="Software Facts icon" width="36"> [Software Facts](skills/B01LXBRPWT)
+
+*Alexa, open software facts*
+
+facts & trivia about software for web development
+
+***
+
+## &nbsp;<img src="skills/B01M6E8IPF/skill_icon" alt="Solar Car Quiz icon" width="36"> [Solar Car Quiz](skills/B01M6E8IPF)
+
+*Alexa Open Solar Car Quiz*
+
+This is a short quiz for members of the solar car team at Appalachian State
 
 ***
 
@@ -16478,6 +27439,14 @@ Solar Energy Facts
 *Alexa, start Song Translator*
 
 gives translations for hindi songs into english
+
+***
+
+## &nbsp;<img src="skills/B01MFEL79L/skill_icon" alt="Sonika Vaid Trivia icon" width="36"> [Sonika Vaid Trivia](skills/B01MFEL79L)
+
+*Alexa, launch Sonika Vaid Trivia*
+
+Sonika Vaid Trivia is a trivia game about Sonika Vaid, finalist in American Idol's Final season.
 
 ***
 
@@ -16537,6 +27506,14 @@ A list of sour dough recipes
 
 ***
 
+## &nbsp;<img src="skills/B01LYK4FI5/skill_icon" alt="Sous Chef Recipes icon" width="36"> [Sous Chef Recipes](skills/B01LYK4FI5)
+
+*Alexa tell Sous Chef to open the Pad Thai recipe.*
+
+Sous Chef Recipes your personal kitchen assistant.
+
+***
+
 ## &nbsp;<img src="skills/B01JDO5KS0/skill_icon" alt="South Africa Facts icon" width="36"> [South Africa Facts](skills/B01JDO5KS0)
 
 *Alexa, open south africa fact*
@@ -16561,19 +27538,35 @@ A skill that gives you facts about Southington, Connecticut.
 
 ***
 
+## &nbsp;<img src="skills/B01M0S6NQY/skill_icon" alt="Space Facts icon" width="36"> [Space Facts](skills/B01M0S6NQY)
+
+*Alexa open space facts*
+
+Allows Alexa to give one random space fact each time the skill is requested.
+
+***
+
+## &nbsp;<img src="skills/B01M4HFOR7/skill_icon" alt="Space Facts icon" width="36"> [Space Facts](skills/B01M4HFOR7)
+
+*Alexa, ask space facts to tell me a fact.*
+
+Space Facts
+
+***
+
+## &nbsp;<img src="skills/B01MF7D3KM/skill_icon" alt="Space Facts! icon" width="36"> [Space Facts!](skills/B01MF7D3KM)
+
+*Alexa, ask space boy for a space fact*
+
+Learn random space facts!
+
+***
+
 ## &nbsp;<img src="skills/B01KC2KLJK/skill_icon" alt="space fun facts icon" width="36"> [space fun facts](skills/B01KC2KLJK)
 
 *Alexa, ask space funfacts*
 
 space funfacts
-
-***
-
-## &nbsp;<img src="skills/B01IYYLU3Y/skill_icon" alt="Space Guy icon" width="36"> [Space Guy](skills/B01IYYLU3Y)
-
-*Alexa, ask space guy for  sun*
-
-This  skills  shares  knowledge  about  solar system.
 
 ***
 
@@ -16590,6 +27583,30 @@ short and quick information about space
 *Alexa, ask space kid for  sun*
 
 This  skills  shares  knowledge  about  solar system.
+
+***
+
+## &nbsp;<img src="skills/B01MAUSFPT/skill_icon" alt="Space news (from space.com) icon" width="36"> [Space news (from space.com)](skills/B01MAUSFPT)
+
+*Alexa, ask space news*
+
+Latest space related news (from space.com)
+
+***
+
+## &nbsp;<img src="skills/B01M985535/skill_icon" alt="Space People icon" width="36"> [Space People](skills/B01M985535)
+
+*Alexa Ask Space People How Many People Are In Space Right Now*
+
+Find out how many people are in Outer Space right now and what they are called. Uses the open-notify API by Nathan Bergey at http://open-notify.org/about
+
+***
+
+## &nbsp;<img src="skills/B01LWHNJ9Q/skill_icon" alt="Space Quotes icon" width="36"> [Space Quotes](skills/B01LWHNJ9Q)
+
+*Alexa ask Space Quotes for a fact*
+
+Space quotes (SpaceGeek tutorial app)
 
 ***
 
@@ -16633,11 +27650,11 @@ A simple skill to tell the customer a random and very cheesy space joke.
 
 ***
 
-## &nbsp;<img src="skills/B0189X85NI/skill_icon" alt="SPAMMY! icon" width="36"> [SPAMMY!](skills/B0189X85NI)
+## &nbsp;<img src="skills/B01MFA8110/skill_icon" alt="Spain Facts icon" width="36"> [Spain Facts](skills/B01MFA8110)
 
-*Alexa, launch 'Spammy'*
+*Alexa open spain facts*
 
-Can’t get enough pink piggy deliciousness in your life? The SPAMMY skill will make sure you always have new ways to bring more porky goodness into your life.
+Are you interested in Spain? Just use Spain Facts to know about this lovely country. Enjoy!
 
 ***
 
@@ -16646,6 +27663,14 @@ Can’t get enough pink piggy deliciousness in your life? The SPAMMY skill will 
 *Alexa, Launch Spanish*
 
 Top 20 Spanish Words: Game to teach you twenty of most popular Spanish words.
+
+***
+
+## &nbsp;<img src="skills/B01MAXQ7EM/skill_icon" alt="Spanish Dream Places icon" width="36"> [Spanish Dream Places](skills/B01MAXQ7EM)
+
+*Alexa Open spanish dream places*
+
+Info about some spanish dream places.
 
 ***
 
@@ -16697,6 +27722,22 @@ Plays a game of trivia.
 
 ***
 
+## &nbsp;<img src="skills/B01MPVQXEN/skill_icon" alt="Speed Test icon" width="36"> [Speed Test](skills/B01MPVQXEN)
+
+*Alexa, ask Speed Test to run*
+
+Ask Alexa to test your Internet Speed
+
+***
+
+## &nbsp;<img src="skills/B01N3K2EIK/skill_icon" alt="Speedlighter icon" width="36"> [Speedlighter](skills/B01N3K2EIK)
+
+*Alexa, Open Speed Lighter.*
+
+Reads out the latest posts from SpeedLighter.ca
+
+***
+
 ## &nbsp;<img src="skills/B01ES1KWX6/skill_icon" alt="Spell Book for Dungeons and Dragons icon" width="36"> [Spell Book for Dungeons and Dragons](skills/B01ES1KWX6)
 
 *Alexa, ask Spell Book to lookup Fire Bolt*
@@ -16713,6 +27754,14 @@ Spell it  right !!! It is a interactive game where you score when the  spelling 
 
 ***
 
+## &nbsp;<img src="skills/B01K72RH8S/skill_icon" alt="Spell Master icon" width="36"> [Spell Master](skills/B01K72RH8S)
+
+*Alexa, open Spell Master*
+
+Master your spelling with “Spell Master”. An easy way to practice your spellings. Simply add words to your spelling list then say, start spelling test.
+
+***
+
 ## &nbsp;<img src="skills/B01GU73TQS/skill_icon" alt="Spelling Alphabet icon" width="36"> [Spelling Alphabet](skills/B01GU73TQS)
 
 *Alexa ask Spelling Alphabet, how do I spell Supercalifragilistic?*
@@ -16721,11 +27770,11 @@ On Demand Spelling Alphabet
 
 ***
 
-## &nbsp;<img src="skills/B01CQTR8CU/skill_icon" alt="Spelling Bee icon" width="36"> [Spelling Bee](skills/B01CQTR8CU)
+## &nbsp;<img src="skills/B01M0I91VA/skill_icon" alt="Spelling Quest icon" width="36"> [Spelling Quest](skills/B01M0I91VA)
 
-*Alexa, launch Spelling Bee*
+*Alexa, Start Spelling Quest*
 
-Welcome to spelling bee, the very first spelling game on Alexa.
+Super fun level based Spelling game for Alexa! 100s of levels with increasing difficulty!
 
 ***
 
@@ -16737,11 +27786,27 @@ Welcome to the Spicy Chutney. This skill gives you the recipe for spicy Indian c
 
 ***
 
+## &nbsp;<img src="skills/B01M04SCEQ/skill_icon" alt="Spin the wheel icon" width="36"> [Spin the wheel](skills/B01M04SCEQ)
+
+*Alexa, open spin the wheel*
+
+With Spin the Wheel you can easily settle the discussion who clears the table, takes the notes or gets the next round. Simply say Alexa, open spin the wheel.
+
+***
+
 ## &nbsp;<img src="skills/B01L4MWMDA/skill_icon" alt="spirit color icon" width="36"> [spirit color](skills/B01L4MWMDA)
 
 *alexa, open spirit color*
 
 Learn what you color you resonate with. What's your spirit color?
+
+***
+
+## &nbsp;<img src="skills/B01M647E9S/skill_icon" alt="Spirits Quiz by Inside the Cask icon" width="36"> [Spirits Quiz by Inside the Cask](skills/B01M647E9S)
+
+*Alexa open spirits quiz*
+
+Spirits Quiz
 
 ***
 
@@ -16761,11 +27826,27 @@ Cruise Trivia Game
 
 ***
 
+## &nbsp;<img src="skills/B01LWRGG50/skill_icon" alt="Spooky Airhorns icon" width="36"> [Spooky Airhorns](skills/B01LWRGG50)
+
+*Alexa, start spooky air horns*
+
+Spooky Airhorns are Spooky
+
+***
+
 ## &nbsp;<img src="skills/B01IU60CW6/skill_icon" alt="Sport Joker icon" width="36"> [Sport Joker](skills/B01IU60CW6)
 
 *Alexa, Ask sport joker about soccer*
 
 Funny description of sports
+
+***
+
+## &nbsp;<img src="skills/B01M5I7313/skill_icon" alt="Sportcasts icon" width="36"> [Sportcasts](skills/B01M5I7313)
+
+*Alexa, ask Sportcasts which channel the Cavs are on*
+
+Your NFL, NBA, and MLB broadcasts assistant - tells you who is playing, what time they're on, and what channel to find them!
 
 ***
 
@@ -16817,11 +27898,35 @@ Learn fun facts about squirrels!
 
 ***
 
-## &nbsp;<img src="skills/B01HU5WCSA/skill_icon" alt="null" width="36"> [Stack Labs, Inc.](skills/B01HU5WCSA)
+## &nbsp;<img src="skills/B01M0OUCA8/skill_icon" alt="Squirrel Facts icon" width="36"> [Squirrel Facts](skills/B01M0OUCA8)
+
+*Alexa, open squirrel facts*
+
+Alexa will tell you various facts about Squirrels
+
+***
+
+## &nbsp;<img src="skills/B01N3VY9V8/skill_icon" alt="Squirrel Facts icon" width="36"> [Squirrel Facts](skills/B01N3VY9V8)
+
+*Alexa, ask squirrel facts to tell me a squirrel fact*
+
+Squirrel Facts
+
+***
+
+## &nbsp;<img src="skills/B01M8J66GS/skill_icon" alt="St Andrews Facts icon" width="36"> [St Andrews Facts](skills/B01M8J66GS)
+
+*Alexa, open saint andrews facts.*
+
+Reads random facts about the beautiful and historic town of St Andrews, Scotland.
+
+***
+
+## &nbsp;<img src="skills/B01HU5WCSA/skill_icon" alt="Stack Lighting icon" width="36"> [Stack Lighting](skills/B01HU5WCSA)
 
 *There are no example interactions for this skill.*
 
-null
+Stack lights use embedded sensors to automatically adjust to the rhythm of your life and home. Now you can control your lights with Alexa!
 
 ***
 
@@ -16830,6 +27935,14 @@ null
 *Alexa, open Stage Names*
 
 What's in a name? Discover fun facts about celebrities, actors and singers you didn't know were using a stage name. Become an expert at stage names with Alexa!
+
+***
+
+## &nbsp;<img src="skills/B01MA36D8T/skill_icon" alt="Stain Remover icon" width="36"> [Stain Remover](skills/B01MA36D8T)
+
+*Alexa, ask stain remover how to remove coffee stains.*
+
+Ask Stain Remover for help on specific stains, such as coffee, wine, or grass stains.
 
 ***
 
@@ -16865,6 +27978,14 @@ Status and information from all things British.
 
 ***
 
+## &nbsp;<img src="skills/B01L7UT32W/skill_icon" alt="Star Trek Quotes icon" width="36"> [Star Trek Quotes](skills/B01L7UT32W)
+
+*Alexa, start star trek quotes*
+
+Interesting Spock quotes from Star Trek
+
+***
+
 ## &nbsp;<img src="skills/B01DE9SBR2/skill_icon" alt="Star Trivia icon" width="36"> [Star Trivia](skills/B01DE9SBR2)
 
 *Alexa, open Star Trivia*
@@ -16881,11 +28002,35 @@ How well do you know the Star Wars Galaxy? Test your knowledge against trivia qu
 
 ***
 
+## &nbsp;<img src="skills/B01LY9UI2X/skill_icon" alt="Star Wars Trivia icon" width="36"> [Star Wars Trivia](skills/B01LY9UI2X)
+
+*Alexa Open Star Trivia*
+
+Unofficial fan made Star Wars quiz game. For fun only
+
+***
+
+## &nbsp;<img src="skills/B01MAUYXLU/skill_icon" alt="Star Wars Unofficial icon" width="36"> [Star Wars Unofficial](skills/B01MAUYXLU)
+
+*Alexa, open star wars unofficial.*
+
+Random facts about the Star Wars movies.
+
+***
+
 ## &nbsp;<img src="skills/B01KSIVIR2/skill_icon" alt="Stardew Farmer icon" width="36"> [Stardew Farmer](skills/B01KSIVIR2)
 
 *Alexa, start star dew farmer*
 
 Stardew Farmer is a helper for players of the game Stardew Valley. It provides planting and harvest information for all crops.
+
+***
+
+## &nbsp;<img src="skills/B01MDLG0YL/skill_icon" alt="Starfish Audio icon" width="36"> [Starfish Audio](skills/B01MDLG0YL)
+
+*alexa open starfish audio*
+
+Play your own music stored on microsoft one drive. You can store .mp3 files in one drive and play on alexa enabled devices
 
 ***
 
@@ -16905,6 +28050,14 @@ This skill links up with your google fit account and then you can play all your 
 
 ***
 
+## &nbsp;<img src="skills/B01M093V9V/skill_icon" alt="Starfish Me icon" width="36"> [Starfish Me](skills/B01M093V9V)
+
+*Alexa open starfish me*
+
+A simple skill to personalize alexa or use it as your personal diary. You can store information on our website and then request alexa to play it for you
+
+***
+
 ## &nbsp;<img src="skills/B017OBOGTS/skill_icon" alt="Starlanes icon" width="36"> [Starlanes](skills/B017OBOGTS)
 
 *Alexa, open Starlanes*
@@ -16913,11 +28066,35 @@ The Echo's first and best MMORPG. Join a faction and compete with other players 
 
 ***
 
+## &nbsp;<img src="skills/B01LXK32XG/skill_icon" alt="Starting Football Quarterbacks icon" width="36"> [Starting Football Quarterbacks](skills/B01LXK32XG)
+
+*Alexa Open Starting Football Quarterbacks*
+
+Starting Football Quarterbacks Flashcard Game
+
+***
+
+## &nbsp;<img src="skills/B01LY9AXMH/skill_icon" alt="Startup Facts icon" width="36"> [Startup Facts](skills/B01LY9AXMH)
+
+*Alexa, ask Startup Facts to tell me something*
+
+Listen to interesting startup facts.
+
+***
+
 ## &nbsp;<img src="skills/B01JVWTYZY/skill_icon" alt="Startup Quotations icon" width="36"> [Startup Quotations](skills/B01JVWTYZY)
 
 *Alexa, begin startup quote.*
 
 The Startup Quotation skill will deliver a random quotation regarding startups and entrepreneurship.
+
+***
+
+## &nbsp;<img src="skills/B01M1VC8AZ/skill_icon" alt="Startup Quotes icon" width="36"> [Startup Quotes](skills/B01M1VC8AZ)
+
+*Alexa, ask startup quotes for a quote*
+
+Inspirational quotes from leading figures in the startup and technology world.
 
 ***
 
@@ -17001,6 +28178,22 @@ Learn the state captials
 
 ***
 
+## &nbsp;<img src="skills/B01LM1HSCS/skill_icon" alt="State Capitals icon" width="36"> [State Capitals](skills/B01LM1HSCS)
+
+*Alexa, start state capitals.*
+
+Random States and their respective Capitals of the USA!
+
+***
+
+## &nbsp;<img src="skills/B01LZD4SL6/skill_icon" alt="State Capitals icon" width="36"> [State Capitals](skills/B01LZD4SL6)
+
+*Alexa Open State Capitals*
+
+A list of all state capitals
+
+***
+
 ## &nbsp;<img src="skills/B01JE55V1O/skill_icon" alt="State Capitals  Flash Cards icon" width="36"> [State Capitals  Flash Cards](skills/B01JE55V1O)
 
 *Alexa ask State Capitals*
@@ -17025,6 +28218,14 @@ Quiz yourself on U.S. state capitals to memorize all of them!
 
 ***
 
+## &nbsp;<img src="skills/B01M0A0PO1/skill_icon" alt="State Capitols Quiz icon" width="36"> [State Capitols Quiz](skills/B01M0A0PO1)
+
+*Alexa open state capitols*
+
+This is a quiz of the capitol cities in the United States.
+
+***
+
 ## &nbsp;<img src="skills/B01IQN32UW/skill_icon" alt="State Cities icon" width="36"> [State Cities](skills/B01IQN32UW)
 
 *Alexa, ask state cities about Montana*
@@ -17038,6 +28239,14 @@ Learn the three largest cities by population for any state in the United States.
 *Alexa Open State Flash Cards*
 
 This skill helps you study the state codes for the states of the United States of America. You'll be given a state code and you're asked to name the state.
+
+***
+
+## &nbsp;<img src="skills/B01M0XHLOW/skill_icon" alt="State Jokes icon" width="36"> [State Jokes](skills/B01M0XHLOW)
+
+*Alexa, ask state jokes for a joke*
+
+Ask alexa for a joke. All jokes are based on US states.  For example: "In what state do you get sick and bother people? Illinois."
 
 ***
 
@@ -17089,6 +28298,14 @@ Test your knowledge of United States capitals.
 
 ***
 
+## &nbsp;<img src="skills/B01LXVVLO3/skill_icon" alt="States and Capitals icon" width="36"> [States and Capitals](skills/B01LXVVLO3)
+
+*Alexa, start state capitals*
+
+A listing of U.S. states and capitals
+
+***
+
 ## &nbsp;<img src="skills/B01FIGMN6O/skill_icon" alt="States Trivia icon" width="36"> [States Trivia](skills/B01FIGMN6O)
 
 *Alexa, Open states trivia*
@@ -17123,6 +28340,14 @@ Caltrain! It doesn't give great updates, but Twitter often knows when things go 
 
 ***
 
+## &nbsp;<img src="skills/B01M4ID369/skill_icon" alt="Steam Engines icon" width="36"> [Steam Engines](skills/B01M4ID369)
+
+*Alexa, open steam engines*
+
+Discover interesting facts about Steam Engines.
+
+***
+
 ## &nbsp;<img src="skills/B01CXU7F4S/skill_icon" alt="Steely Dan Trivia Quiz icon" width="36"> [Steely Dan Trivia Quiz](skills/B01CXU7F4S)
 
 *Alexa, launch Steely Dan trivia*
@@ -17131,19 +28356,27 @@ Steely Dan Trivia Quiz
 
 ***
 
+## &nbsp;<img src="skills/B01LWUPFXR/skill_icon" alt="Steemit Fan Facts icon" width="36"> [Steemit Fan Facts](skills/B01LWUPFXR)
+
+*Alexa, Open Steem it Fan Facts*
+
+a fact skill to share local Steemit knowledge. This is not endorsed by Steemit. This is just an unofficial skill made by a fan.
+
+***
+
+## &nbsp;<img src="skills/B01M2WIM6X/skill_icon" alt="Stepper for Fitbit icon" width="36"> [Stepper for Fitbit](skills/B01M2WIM6X)
+
+*Alexa, ask Stepper Exercise how many steps did Tyler do this week*
+
+Accesses Fitbit leaderboard information from your Fitbit account.
+
+***
+
 ## &nbsp;<img src="skills/B01JHWL1DQ/skill_icon" alt="Steve Jobs Trivia icon" width="36"> [Steve Jobs Trivia](skills/B01JHWL1DQ)
 
 *Alexa, ask Steve Jobs Trivia for a fact*
 
 Trivia and facts about Steve Jobs.
-
-***
-
-## &nbsp;<img src="skills/B01JA5A88Y/skill_icon" alt="Still On icon" width="36"> [Still On](skills/B01JA5A88Y)
-
-*Alexa, ask still on if McDonald's is still open*
-
-A world wide tool to Find Store Hours and Business Information in your area, tells you if a business or restaurant is still open and how far is it.
 
 ***
 
@@ -17179,6 +28412,14 @@ Have Alexa fetch stock quotes for you....
 
 ***
 
+## &nbsp;<img src="skills/B01M31NC7B/skill_icon" alt="Stockholm Facts icon" width="36"> [Stockholm Facts](skills/B01M31NC7B)
+
+*Alexa open stockholm facts*
+
+An app which gives you trivia on Stockholm
+
+***
+
 ## &nbsp;<img src="skills/B01IC3FZ7Y/skill_icon" alt="Stone Game icon" width="36"> [Stone Game](skills/B01IC3FZ7Y)
 
 *Alexa, launch Stone Game.*
@@ -17192,6 +28433,30 @@ Play this challenging number game with Alexa! Start with a pile of 21 stones, ta
 *Alexa, Ask Stone Ridge Food what are they serving today*
 
 Tells users the Stone Ridge School's entree menu for a given day
+
+***
+
+## &nbsp;<img src="skills/B019DB6YNI/skill_icon" alt="stopwatch icon" width="36"> [stopwatch](skills/B019DB6YNI)
+
+*Alexa, open stopwatch and start*
+
+A stopwatch for timing the duration of things.
+
+***
+
+## &nbsp;<img src="skills/B01M21MTKE/skill_icon" alt="Strange Facts icon" width="36"> [Strange Facts](skills/B01M21MTKE)
+
+*Alexa open strange facts*
+
+A collection of nearly 100 strange but true facts.
+
+***
+
+## &nbsp;<img src="skills/B01M3P7AJ1/skill_icon" alt="Stranger Things Fan Facts (Unofficial) icon" width="36"> [Stranger Things Fan Facts (Unofficial)](skills/B01M3P7AJ1)
+
+*Alexa, open stranger things fan facts*
+
+Unofficial facts about the Netflix series Stranger Things.
 
 ***
 
@@ -17267,11 +28532,27 @@ If you like completely stupid CAT JOKES, than do we have the skill for you! Hear
 
 ***
 
+## &nbsp;<img src="skills/B01MDRX1FT/skill_icon" alt="Stupid Deal icon" width="36"> [Stupid Deal](skills/B01MDRX1FT)
+
+*Alexa, ask stupid deal what's today's deal*
+
+Reads the Stupid Deal of the Day from Musiciansfriend.com
+
+***
+
 ## &nbsp;<img src="skills/B01GJPXAJC/skill_icon" alt="Stupid Musician Jokes icon" width="36"> [Stupid Musician Jokes](skills/B01GJPXAJC)
 
 *Alexa, open musician jokes*
 
 If you enjoy completely STUPID MUSICIAN JOKES, than do we have the skill for you! We're your dumb musician joke source! Who doesn't love stupid music jokes?
+
+***
+
+## &nbsp;<img src="skills/B01LPS96B4/skill_icon" alt="Style Check icon" width="36"> [Style Check](skills/B01LPS96B4)
+
+*Alexa ask Style Check to Dress me in San Francisco, California*
+
+Simple Weather Forecasts That Help You Dress Appropriately.
 
 ***
 
@@ -17283,19 +28564,19 @@ You're the commander of your own naval attack class submarine, tasked with facin
 
 ***
 
-## &nbsp;<img src="skills/B01I8DYYQQ/skill_icon" alt="Subtraction Flash Cards icon" width="36"> [Subtraction Flash Cards](skills/B01I8DYYQQ)
+## &nbsp;<img src="skills/B01M8EX5ME/skill_icon" alt="Suggest a hike in Washington icon" width="36"> [Suggest a hike in Washington](skills/B01M8EX5ME)
 
-*Alexa start Subtraction Flash Cards*
+*Alexa Open Suggest a hike*
 
-Subtraction Flash Cards
+Suggest a hike in Washington State
 
 ***
 
-## &nbsp;<img src="skills/B01IUUDBDO/skill_icon" alt="subtraction quiz icon" width="36"> [subtraction quiz](skills/B01IUUDBDO)
+## &nbsp;<img src="skills/B01M8IP8Y1/skill_icon" alt="suggest me a cocktail icon" width="36"> [suggest me a cocktail](skills/B01M8IP8Y1)
 
-*Alexa, open subtraction quiz*
+*Alexa open suggest me a cocktail*
 
-Math subtraction quiz
+ask Alexa youwant a cocktail and based on your choices she would tell you a popular cocktail that you might like
 
 ***
 
@@ -17304,6 +28585,22 @@ Math subtraction quiz
 *Alexa, ask Movie Buff which movie should I watch*
 
 Suggests good movies to watch
+
+***
+
+## &nbsp;<img src="skills/B01M97Z3N6/skill_icon" alt="sun salutation steps icon" width="36"> [sun salutation steps](skills/B01M97Z3N6)
+
+*Alexa steps from sun salutation*
+
+Sun Salutation
+
+***
+
+## &nbsp;<img src="skills/B01LXI6DSZ/skill_icon" alt="Sunflower Facts icon" width="36"> [Sunflower Facts](skills/B01LXI6DSZ)
+
+*Alexa, open sunflower facts*
+
+A fact skill to share knowledge about sunflowers.
 
 ***
 
@@ -17331,11 +28628,11 @@ a skill to relax and challenge your brain.
 
 ***
 
-## &nbsp;<img src="skills/B01GX613O6/skill_icon" alt="Super buddy icon" width="36"> [Super buddy](skills/B01GX613O6)
+## &nbsp;<img src="skills/B01M9FO5HZ/skill_icon" alt="Super Dice bot icon" width="36"> [Super Dice bot](skills/B01M9FO5HZ)
 
-*Alexa, ask Super buddy*
+*Alexa, Ask Dice bot to roll me a twenty sided die*
 
-Practice solving math questions with increase difficulty in every round.
+A great Dice roller, that random picks a number for you.
 
 ***
 
@@ -17344,6 +28641,22 @@ Practice solving math questions with increase difficulty in every round.
 *Alexa, play Super Hero Trivia*
 
 Test your knowledge of comic superheroes!
+
+***
+
+## &nbsp;<img src="skills/B01LZOZSDS/skill_icon" alt="Super Random Facts icon" width="36"> [Super Random Facts](skills/B01LZOZSDS)
+
+*Alexa open super random facts*
+
+This Super Random Facts skill! I would like to tell you over 100+ Super Random Fact that you would be amazed :) !!!!
+
+***
+
+## &nbsp;<img src="skills/B01N02WPTP/skill_icon" alt="Superbowl Facts icon" width="36"> [Superbowl Facts](skills/B01N02WPTP)
+
+*Alexa Open Superbowl Facts*
+
+Superbowl facts and trivia to entertain and educate on american football and the  history of the big championship game.
 
 ***
 
@@ -17371,6 +28684,14 @@ With Superpower, you can get an interesting conversation topic to start an engag
 
 ***
 
+## &nbsp;<img src="skills/B01N00S0WP/skill_icon" alt="Surf Stat icon" width="36"> [Surf Stat](skills/B01N00S0WP)
+
+*Alexa ask surf stat what is the surf report at rockaway*
+
+Surf Stat allows you to get the surf conditions for your local beach.
+
+***
+
 ## &nbsp;<img src="skills/B01BO4QZCM/skill_icon" alt="Surfable icon" width="36"> [Surfable](skills/B01BO4QZCM)
 
 *Alexa, ask Surfable about Huntington Pier.*
@@ -17395,6 +28716,14 @@ Practice vocabulary words for ordering sushi. Improve your understanding and app
 
 ***
 
+## &nbsp;<img src="skills/B01LAAVS1S/skill_icon" alt="Sustainability Facts icon" width="36"> [Sustainability Facts](skills/B01LAAVS1S)
+
+*Alexa, open Sustainability Facts*
+
+Surprising facts about sustainability & clean energy— brought to you instantly by Alexa. 🌎
+
+***
+
 ## &nbsp;<img src="skills/B01F2QDKC6/skill_icon" alt="Sutter Health icon" width="36"> [Sutter Health](skills/B01F2QDKC6)
 
 *Alexa, open Sutter*
@@ -17408,6 +28737,22 @@ Learn about different ways to improve your overall health via our new health tip
 *Alexa, play Swamp Trivia.*
 
 Do you think you've mastered the Swamp audio game? Test your knowledge of all things Swamp with this trivia skill.
+
+***
+
+## &nbsp;<img src="skills/B01M67KHJH/skill_icon" alt="Swara Facts icon" width="36"> [Swara Facts](skills/B01M67KHJH)
+
+*Alexa, Open swara Facts*
+
+Based on the SpaceGeek template. This skill returns 1 of the 20 random facts about 1 of my friends
+
+***
+
+## &nbsp;<img src="skills/B01MA566AA/skill_icon" alt="Sweden Facts icon" width="36"> [Sweden Facts](skills/B01MA566AA)
+
+*Alexa open sweden facts*
+
+An app which gives you trivia on Sweden
 
 ***
 
@@ -17443,19 +28788,35 @@ Ask Sweet Surfer for a compliment
 
 ***
 
-## &nbsp;<img src="skills/B01IZ13GOW/skill_icon" alt="Swiggity Swooty icon" width="36"> [Swiggity Swooty](skills/B01IZ13GOW)
-
-*Alexa, ask your boy about swiggity swooty coming for that booty*
-
-This skill tells Alexa to play the Swiggity Swooty song!
-
-***
-
 ## &nbsp;<img src="skills/B01KR6VP6O/skill_icon" alt="Swim Event Chooser icon" width="36"> [Swim Event Chooser](skills/B01KR6VP6O)
 
 *Alexa, open swim event chooser*
 
 Helps people decide what swim event they would prefer if they decided to do so.
+
+***
+
+## &nbsp;<img src="skills/B01LXZSFP9/skill_icon" alt="Swimming Facts icon" width="36"> [Swimming Facts](skills/B01LXZSFP9)
+
+*Alexa, open swimming facts*
+
+Some fun facts about swimming
+
+***
+
+## &nbsp;<img src="skills/B01LWOUG7G/skill_icon" alt="swimming stroke briefing icon" width="36"> [swimming stroke briefing](skills/B01LWOUG7G)
+
+*alexa, open swimming stroke briefing*
+
+The skill list explains the four competitive swimming strokes: freestyle, backstroke, breaststroke butterfly, and the combination of all, individual medley.
+
+***
+
+## &nbsp;<img src="skills/B01LXIKCTC/skill_icon" alt="Swiss Facts icon" width="36"> [Swiss Facts](skills/B01LXIKCTC)
+
+*Alexa Open Swiss Facts*
+
+Want to know something cool about Switzerland.
 
 ***
 
@@ -17515,6 +28876,14 @@ Connect with, and get estimates from the best local service professionals within
 
 ***
 
+## &nbsp;<img src="skills/B01LZV42P7/skill_icon" alt="Task Penguin icon" width="36"> [Task Penguin](skills/B01LZV42P7)
+
+*Alexa, ask Task Penguin how many tasks do I have*
+
+Create and manage simple to-do lists or shopping lists straight from Alexa and have the list send as a card to your app.
+
+***
+
 ## &nbsp;<img src="skills/B01I8ZRLHI/skill_icon" alt="tddHelper icon" width="36"> [tddHelper](skills/B01I8ZRLHI)
 
 *Alexa, open tdd helper.*
@@ -17555,6 +28924,22 @@ Get the best steeping times and temperatures for your favorite types of tea.
 
 ***
 
+## &nbsp;<img src="skills/B01LLOMW7M/skill_icon" alt="Tea Lover icon" width="36"> [Tea Lover](skills/B01LLOMW7M)
+
+*Alexa, ask tea lover for a fact*
+
+This  skill  tells  facts  about  tea  for  tea  lovers.
+
+***
+
+## &nbsp;<img src="skills/B01LJVO4BO/skill_icon" alt="Tea Sipper icon" width="36"> [Tea Sipper](skills/B01LJVO4BO)
+
+*Alexa, ask Tea sipper a fact*
+
+This  skills gives delicious facts  about  tea
+
+***
+
 ## &nbsp;<img src="skills/B01C6BNM14/skill_icon" alt="Tea Trivia icon" width="36"> [Tea Trivia](skills/B01C6BNM14)
 
 *Alexa, start Tea Trivia.*
@@ -17571,22 +28956,6 @@ Make Alexa say what you want. Use the Teach Alexa web app to add your own answer
 
 ***
 
-## &nbsp;<img src="skills/B01I3WTC3W/skill_icon" alt="Teach Alexa YOUR RESPONSES - prank your friends! icon" width="36"> [Teach Alexa YOUR RESPONSES - prank your friends!](skills/B01I3WTC3W)
-
-*Alexa, tell every one what you can do*
-
-Make Alexa say what you want. Use the Teach Alexa web app to add custom commands and impress your friends.
-
-***
-
-## &nbsp;<img src="skills/B017OBLLXW/skill_icon" alt="Teacher for Alexa icon" width="36"> [Teacher for Alexa](skills/B017OBLLXW)
-
-*Alexa, open Teacher.*
-
-Teacher for Alexa is a fun and interactive way to learn basic math through a series of simple addition, subtraction, and multiplication problems.
-
-***
-
 ## &nbsp;<img src="skills/B01I68NNDS/skill_icon" alt="Teaching Craft: Tips for Inclusive Learning icon" width="36"> [Teaching Craft: Tips for Inclusive Learning](skills/B01I68NNDS)
 
 *Alexa, ask teaching craft to tell me something.*
@@ -17600,6 +28969,14 @@ Learn about inclusive teaching through tips about web accessibility, active lear
 *Alexa, ask, tea guide about green tea*
 
 Benefits of different types of tea.
+
+***
+
+## &nbsp;<img src="skills/B01L7HPB4O/skill_icon" alt="Tech Caster icon" width="36"> [Tech Caster](skills/B01L7HPB4O)
+
+*Alexa, tell Tech Caster to play This Week in Tech.*
+
+A podcast player exclusively for the TWiT.tv family of shows.
 
 ***
 
@@ -17625,6 +29002,14 @@ Cool facts about the tech world
 
 Discover your next favorite thing with Daily Hunt.
 Just say, "Alexa, ask Tech Hunt for top products"
+
+***
+
+## &nbsp;<img src="skills/B01M4PNXGE/skill_icon" alt="Tech Trivia icon" width="36"> [Tech Trivia](skills/B01M4PNXGE)
+
+*Alexa, open Tech Trivia*
+
+Tech Trivia is a trivia game that tests your knowledge on technology subjects. Questions on different companies, products, events, and people.
 
 ***
 
@@ -17684,6 +29069,14 @@ A trivia game about the intersection of technology and business.
 
 ***
 
+## &nbsp;<img src="skills/B01MPVM5WU/skill_icon" alt="TechQuiz icon" width="36"> [TechQuiz](skills/B01MPVM5WU)
+
+*Alexa, play technology quiz*
+
+Think you have good technology skills? Put your knowledge to the test with the Technology Quiz!
+
+***
+
 ## &nbsp;<img src="skills/B01KPMATK8/skill_icon" alt="Teen Driving Facts icon" width="36"> [Teen Driving Facts](skills/B01KPMATK8)
 
 *Alexa, open teen driving facts*
@@ -17692,11 +29085,35 @@ Short sayings or facts that will help your Teen become a more responsible driver
 
 ***
 
-## &nbsp;<img src="skills/B01HZ5Z020/skill_icon" alt="null" width="36"> [Telehems Labs Corporation](skills/B01HZ5Z020)
+## &nbsp;<img src="skills/B01LZ92ZC3/skill_icon" alt="Teenager Facts icon" width="36"> [Teenager Facts](skills/B01LZ92ZC3)
+
+*"Alexa, open teenager facts."*
+
+Facts about teenagers
+
+***
+
+## &nbsp;<img src="skills/B01LZVYI07/skill_icon" alt="Telegraph News icon" width="36"> [Telegraph News](skills/B01LZVYI07)
+
+*Alexa, open The Telegraph.*
+
+Get The Telegraph's take on news, sport and entertainment
+
+***
+
+## &nbsp;<img src="skills/B01HZ5Z020/skill_icon" alt="telehems icon" width="36"> [telehems](skills/B01HZ5Z020)
 
 *There are no example interactions for this skill.*
 
-null
+“Alexa，turn on the room light”
+
+***
+
+## &nbsp;<img src="skills/B01LIFW7FQ/skill_icon" alt="Telescope Tom icon" width="36"> [Telescope Tom](skills/B01LIFW7FQ)
+
+*Alexa, ask  telescope tom for a fact*
+
+this  skill  gives you  facts  about  telescopes
 
 ***
 
@@ -17705,6 +29122,14 @@ null
 *Alexa, ask truth fact to tell me the truth*
 
 Find out the truth
+
+***
+
+## &nbsp;<img src="skills/B01M5FHFTU/skill_icon" alt="Telugu Months icon" width="36"> [Telugu Months](skills/B01M5FHFTU)
+
+*Alexa, start telugu months teller*
+
+Know Telugu months by saying, Alexa, Ask Telugu months teller about Telugu months
 
 ***
 
@@ -17724,14 +29149,6 @@ Test your knowledge of Tennessee Vols Football with this fun trivia game.
 
 ***
 
-## &nbsp;<img src="skills/B01HNM3OX2/skill_icon" alt="Tennis Anyone Tennis Scores icon" width="36"> [Tennis Anyone Tennis Scores](skills/B01HNM3OX2)
-
-*Alexa ask Tennis Anyone is Novak Djokovic playing*
-
-Tennis Anyone knows all the latest tennis scores. Just name your favorite tennis player and hear details about their current, future or most recent match.
-
-***
-
 ## &nbsp;<img src="skills/B01JPTV6HW/skill_icon" alt="Tennis Facts icon" width="36"> [Tennis Facts](skills/B01JPTV6HW)
 
 *Alexa, open tennis facts.*
@@ -17748,6 +29165,14 @@ Get the tennis experience of pros - coordinated match play and scoring, all your
 
 ***
 
+## &nbsp;<img src="skills/B01LXNTR5C/skill_icon" alt="tennisTrivia55 icon" width="36"> [tennisTrivia55](skills/B01LXNTR5C)
+
+*Alexa start tennis trivia*
+
+Tennis trivia game is a competition where the player is asked questions about tennis.
+
+***
+
 ## &nbsp;<img src="skills/B01KC3KYVE/skill_icon" alt="Terra Craft icon" width="36"> [Terra Craft](skills/B01KC3KYVE)
 
 *Alexa, open terra craft*
@@ -17760,7 +29185,7 @@ Terra Craft helps players to identify how to craft or get an item in game.
 
 *Alexa, ask Terrapin Nav how long does it take to walk from Prince Frederick Hall to Computer Science Instructional Center*
 
-Use Time to class to figure out how many minutes it takes to walk from one building to another at the Univeristy of Maryland.
+Use Terrapin Nav to figure out how many minutes it takes to walk from one building to another at the University of Maryland.
 
 ***
 
@@ -17772,11 +29197,11 @@ This is a spinoff of the trivia Skill.
 
 ***
 
-## &nbsp;<img src="skills/B01INZU0SK/skill_icon" alt="Test My IQ icon" width="36"> [Test My IQ](skills/B01INZU0SK)
+## &nbsp;<img src="skills/B01MRGGEW9/skill_icon" alt="Test my trivia icon" width="36"> [Test my trivia](skills/B01MRGGEW9)
 
-*Alexa, launch test my i. q.*
+*Alexa open challenge me trivia*
 
-IQ tests can be a useful tool to assess your intellect and problem-solving skills. If you're curious as to your own, try this Alexa skill
+trivia challenge skill of over 500 questions of variety of topics from science to entertainment
 
 ***
 
@@ -17785,6 +29210,14 @@ IQ tests can be a useful tool to assess your intellect and problem-solving skill
 *Alexa, open Texas Facts*
 
 Learn facts about Texas and about its history!
+
+***
+
+## &nbsp;<img src="skills/B01LY0MDCM/skill_icon" alt="Texas Trivia icon" width="36"> [Texas Trivia](skills/B01LY0MDCM)
+
+*Alexa, open Texas Trivia*
+
+Demonstrate if you are a true Texan by answering correctly trivia questions about Texas.
 
 ***
 
@@ -17868,6 +29301,14 @@ Keep track of the last time you fed your cat.
 
 ***
 
+## &nbsp;<img src="skills/B01LYFK25D/skill_icon" alt="null" width="36"> [The Code Taming Organisation](skills/B01LYFK25D)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## &nbsp;<img src="skills/B01DJKW7HQ/skill_icon" alt="The Color Game icon" width="36"> [The Color Game](skills/B01DJKW7HQ)
 
 *Alexa, open the color game*
@@ -17884,6 +29325,14 @@ The Couch Hunter can tell you about monster weaknesses.
 
 ***
 
+## &nbsp;<img src="skills/B01MA32G7J/skill_icon" alt="The Crown Quiz icon" width="36"> [The Crown Quiz](skills/B01MA32G7J)
+
+*Alexa, start crown quiz*
+
+A quiz about the Kings and Queens of the United Kingdom.
+
+***
+
 ## &nbsp;<img src="skills/B01DN2QRJY/skill_icon" alt="The Cyberpunk Dictionary icon" width="36"> [The Cyberpunk Dictionary](skills/B01DN2QRJY)
 
 *Alexa ask The Cyberpunk Dictionary to tell me a cyberpunk word*
@@ -17897,6 +29346,14 @@ A dictionary of cyberpunk words and phrases.  Alexa ask The Cyberpunk Dictionary
 *Alexa, ask The Daily Show for news*
 
 Get all of your Daily Show needs met without lifting a finger.
+
+***
+
+## &nbsp;<img src="skills/B01M12EP5B/skill_icon" alt="The Dice Game icon" width="36"> [The Dice Game](skills/B01M12EP5B)
+
+*Alexa, Start the dice game*
+
+The Dice Game is a game played with six virtual dice and up to 10 players. Be the first to reach EXACTLY 10,000 points and you win!
 
 ***
 
@@ -17932,11 +29389,35 @@ Converse with The Dude! Engage in conversations with The Dude from the movie The
 
 ***
 
+## &nbsp;<img src="skills/B01L88SCMU/skill_icon" alt="The Fire Fighter's Prayer icon" width="36"> [The Fire Fighter's Prayer](skills/B01L88SCMU)
+
+*Alexa, ask the fire fighters prayer*
+
+The Firefighter's Prayer
+
+***
+
 ## &nbsp;<img src="skills/B01CE8IJKS/skill_icon" alt="The General icon" width="36"> [The General](skills/B01CE8IJKS)
 
 *Alexa, ask The General to say Hello in Morse Code*
 
 Spell Words in telephony or Morse Code
+
+***
+
+## &nbsp;<img src="skills/B01M9JCXHG/skill_icon" alt="The Grand Tour icon" width="36"> [The Grand Tour](skills/B01M9JCXHG)
+
+*Alexa, open The Grand Tour*
+
+The Grand Tour Skill tests your knowledge of the latest episode of The Grand Tour on Amazon Prime Video. Watch, play and unlock exclusive video.
+
+***
+
+## &nbsp;<img src="skills/B01LYLP35X/skill_icon" alt="The Guardian icon" width="36"> [The Guardian](skills/B01LYLP35X)
+
+*Alexa, open The Guardian*
+
+News, reviews, sports and podcasts brought to you by The Guardian's award-winning journalists
 
 ***
 
@@ -17961,6 +29442,14 @@ Find out what's happening with your favorite celebs on Twitter.
 *alexa, start impossible quiz*
 
 The Impossible Quiz for Alexa
+
+***
+
+## &nbsp;<img src="skills/B01LW6UPKM/skill_icon" alt="The Internet Genie icon" width="36"> [The Internet Genie](skills/B01LW6UPKM)
+
+*Alexa, Open the Internet Genie*
+
+Have Alexa Tell you a fact that is guaranteed to be 100% true or your money back!
 
 ***
 
@@ -18012,6 +29501,14 @@ Test your knowledge of the Masters tournament.
 
 ***
 
+## &nbsp;<img src="skills/B01LX2WRV9/skill_icon" alt="The Most Important Decision icon" width="36"> [The Most Important Decision](skills/B01LX2WRV9)
+
+*alexa, open most important decision*
+
+This is the Most Important Decision you will ever make in your entire life! Say "Alexa, enable the most important decision skill," to get started!
+
+***
+
 ## &nbsp;<img src="skills/B01GZ8H30U/skill_icon" alt="The most Interesting Man in the World icon" width="36"> [The most Interesting Man in the World](skills/B01GZ8H30U)
 
 *Alexa, ask interesting man a joke*
@@ -18036,14 +29533,6 @@ Guess 3 names from the list
 
 ***
 
-## &nbsp;<img src="skills/B017OBZR50/skill_icon" alt="The Name Game (banana-fana) icon" width="36"> [The Name Game (banana-fana)](skills/B017OBZR50)
-
-*Alexa, open The Name Game and use Alexa.*
-
-Alexa alexa bo-balexa, banana-fana fo-falexa, fee fi fo-malexa, Alexa!
-
-***
-
 ## &nbsp;<img src="skills/B01DJIC8WM/skill_icon" alt="The Name Game Song icon" width="36"> [The Name Game Song](skills/B01DJIC8WM)
 
 *Alexa, ask Name Game for Gary.*
@@ -18057,6 +29546,14 @@ Play the Name Game song
 *Alexa, ask Norse Talk*
 
 'Norse Talk' is a Quiz about Norway and Norwegians.
+
+***
+
+## &nbsp;<img src="skills/B01KQX4T3E/skill_icon" alt="The Ohio State Skill icon" width="36"> [The Ohio State Skill](skills/B01KQX4T3E)
+
+*Alexa, launch Ohio State*
+
+The Ohio State University's Official Amazon Echo Skill, provided as a utility for students to make their day a little easier.
 
 ***
 
@@ -18135,14 +29632,6 @@ The Telephone Game is a game about Echoing messages. Hear a message, and try to 
 
 ***
 
-## &nbsp;<img src="skills/B01ER4X8YO/skill_icon" alt="The Tickle Monster Game! icon" width="36"> [The Tickle Monster Game!](skills/B01ER4X8YO)
-
-*Alexa, Ask Tickle Monster "Who's Next?"*
-
-Family fun (or maybe terror)! Setup participants and let Tickle Monster choose who's next!
-
-***
-
 ## &nbsp;<img src="skills/B01BFQVO1G/skill_icon" alt="The Tube icon" width="36"> [The Tube](skills/B01BFQVO1G)
 
 *Alexa ask The Tube what's happening on the District*
@@ -18167,6 +29656,14 @@ The Ultimate Hollywood Trivia game. It is a fun game to play as well as helps yo
 
 ***
 
+## &nbsp;<img src="skills/B01LXTAH1U/skill_icon" alt="The Voice icon" width="36"> [The Voice](skills/B01LXTAH1U)
+
+*Alexa, open The Voice*
+
+Go inside NBC’s immensely popular musical competition series, The Voice! Get the latest show recaps and learn more about your favorite coaches and artists!
+
+***
+
 ## &nbsp;<img src="skills/B01C9AX5VY/skill_icon" alt="The Wayne Investigation icon" width="36"> [The Wayne Investigation](skills/B01C9AX5VY)
 
 *Alexa, open the Wayne Investigation*
@@ -18180,6 +29677,14 @@ In this Batman-themed choose-your-own-adventure mystery game, you play a detecti
 *Alexa, open the wizard*
 
 Meet the wizard. He's about to do some pretty wild magic...
+
+***
+
+## &nbsp;<img src="skills/B01LW9TGDE/skill_icon" alt="Theology Quotes icon" width="36"> [Theology Quotes](skills/B01LW9TGDE)
+
+*Alexa, open Theology Quotes*
+
+This skill will deliver a random quote from some of Christianity's greatest theological minds, new and old.
 
 ***
 
@@ -18204,6 +29709,14 @@ A fun program that pretends to be a psycho therapist. Not to be taken seriously,
 *Alexa, tell My Therapist I am excited.*
 
 Therapy is your therapist for Alexa.  Tell therapist your mood and she will give you words of encouragements.  Alexa, tell my therapist I am excited.
+
+***
+
+## &nbsp;<img src="skills/B01M30OJWB/skill_icon" alt="theRealVoiceResponder icon" width="36"> [theRealVoiceResponder](skills/B01M30OJWB)
+
+*Alexa, open fourty one oh five trivia*
+
+A fun trivia game to test your knowledge.
 
 ***
 
@@ -18263,6 +29776,14 @@ In keeping with the heritage of the Navy this skill will let you know the signif
 
 ***
 
+## &nbsp;<img src="skills/B01LZJ4UTW/skill_icon" alt="Three Man icon" width="36"> [Three Man](skills/B01LZJ4UTW)
+
+*Alexa play Three Man*
+
+Three Man is a drinking game intended to be played with multiple players.  Alexa rolls the dice and tells you what each result means. Suitable for ages 21+.
+
+***
+
 ## &nbsp;<img src="skills/B01KDC65BC/skill_icon" alt="Three month old baby facts icon" width="36"> [Three month old baby facts](skills/B01KDC65BC)
 
 *Alexa launch three month old baby facts*
@@ -18279,11 +29800,27 @@ Consult the Three Eyed Raven about the Seven Kingdoms and their history.
 
 ***
 
+## &nbsp;<img src="skills/B01M3RCM3B/skill_icon" alt="Thunderstorm Sounds icon" width="36"> [Thunderstorm Sounds](skills/B01M3RCM3B)
+
+*Alexa, open thunderstorm sounds*
+
+Ambient noise of a thunderstorm to help you focus, sleep, or relax.
+
+***
+
 ## &nbsp;<img src="skills/B01CHMTJSW/skill_icon" alt="Tic Tac Toe icon" width="36"> [Tic Tac Toe](skills/B01CHMTJSW)
 
 *Alexa, ask Tic Tac Toe for a game*
 
 Take on Alexa in a classic game of Tic Tac Toe.
+
+***
+
+## &nbsp;<img src="skills/B01M0AGYFI/skill_icon" alt="Tic Tac Toe Helper icon" width="36"> [Tic Tac Toe Helper](skills/B01M0AGYFI)
+
+*Alexa, Ask Tic Tac Toe Helper, How do I play*
+
+A Tic Tac Toe Game Helper
 
 ***
 
@@ -18319,11 +29856,27 @@ Are you interested in tide information? Rely on Tide Report for High and Low Tid
 
 ***
 
+## &nbsp;<img src="skills/B01M9B7ZTB/skill_icon" alt="Tide- Stain Remover icon" width="36"> [Tide- Stain Remover](skills/B01M9B7ZTB)
+
+*Alexa, open tide*
+
+Stains are a pain, but Tide has you covered! Get step-by-step instructions for over 200 different stain types with Tide Laundry Line.
+
+***
+
 ## &nbsp;<img src="skills/B01C3BJBJE/skill_icon" alt="TideGuide icon" width="36"> [TideGuide](skills/B01C3BJBJE)
 
 *Alexa, ask tide guide for the tides in Santa Barbara, California*
 
 This skill will give the tide report for most locations (city and state/country) with a NOAA station.
+
+***
+
+## &nbsp;<img src="skills/B01LRSF11Q/skill_icon" alt="Tie Breaker icon" width="36"> [Tie Breaker](skills/B01LRSF11Q)
+
+*Alexa, ask Tie Breaker who's right*
+
+Have Tie Breaker settle your disputes. Ask who is right, and she'll tell you either you are or they are, or maybe neither of you.
 
 ***
 
@@ -18335,11 +29888,35 @@ Learn something new every day
 
 ***
 
+## &nbsp;<img src="skills/B01M3QEP67/skill_icon" alt="null" width="36"> [Tim Hale](skills/B01M3QEP67)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LZX4SMC/skill_icon" alt="Tim's Nebraska Facts icon" width="36"> [Tim's Nebraska Facts](skills/B01LZX4SMC)
+
+*Alexa, start Tim's Nebraska Facts.*
+
+Tim's Nebraska Facts provides a quick and random fact about the greatest state in the US.
+
+***
+
 ## &nbsp;<img src="skills/B01GM2ZY64/skill_icon" alt="Timbers Facts icon" width="36"> [Timbers Facts](skills/B01GM2ZY64)
 
 *Alexa, open Timbers Facts*
 
 Facts about the Portland Timbers
+
+***
+
+## &nbsp;<img src="skills/B01M6W5U7B/skill_icon" alt="Time Clock icon" width="36"> [Time Clock](skills/B01M6W5U7B)
+
+*Alexa, ask Time Clock to add an hour for meetings*
+
+Your personal time clock
 
 ***
 
@@ -18367,35 +29944,19 @@ Times for MARTA will tell you how soon the next train will arrive at different s
 
 ***
 
-## &nbsp;<img src="skills/B01FHIBJPE/skill_icon" alt="Times Table icon" width="36"> [Times Table](skills/B01FHIBJPE)
-
-*Alexa, open times table*
-
-Times Table is an easy, fun educational game to learn the basic times table.
-
-***
-
-## &nbsp;<img src="skills/B01DURZV76/skill_icon" alt="Times Tutor icon" width="36"> [Times Tutor](skills/B01DURZV76)
-
-*Alexa, ask Times Tutor to practice nine*
-
-Practice your multiplication with the Times Tutor!
-
-***
-
-## &nbsp;<img src="skills/B01H6OS5JU/skill_icon" alt="Tiny Tales icon" width="36"> [Tiny Tales](skills/B01H6OS5JU)
-
-*Alexa, open Tiny Tales*
-
-Tiny Tales are interactive children's educational fables and stories told weekly with the objective of teaching children life lessons via storytelling.
-
-***
-
 ## &nbsp;<img src="skills/B01A69PZI6/skill_icon" alt="Tip of Your Tongue! icon" width="36"> [Tip of Your Tongue!](skills/B01A69PZI6)
 
 *Alexa, open Tip of Tongue.*
 
 A competitive game in which you answer questions using a word or phrase that begins with a random generated letter. Play solo as a brain teaser or with a group!
+
+***
+
+## &nbsp;<img src="skills/B01KZECJXQ/skill_icon" alt="tips calculator icon" width="36"> [tips calculator](skills/B01KZECJXQ)
+
+*Alexa, launch tips calculator*
+
+Tips calculator help you to calculate the tips and total amount you need to pay.
 
 ***
 
@@ -18416,11 +29977,43 @@ Note: This skill is not related to official Pokemon Go game.
 
 ***
 
+## &nbsp;<img src="skills/B01M7NAFDW/skill_icon" alt="Tirukkural icon" width="36"> [Tirukkural](skills/B01M7NAFDW)
+
+*Alexa ask tamil couplets to tell more*
+
+Tirukkural Tamil Couplets or Kurals
+
+***
+
+## &nbsp;<img src="skills/B01LPTJNHK/skill_icon" alt="Titan Trivia icon" width="36"> [Titan Trivia](skills/B01LPTJNHK)
+
+*Alexa, start Titan Trivia*
+
+Titan Trivia gives you a quote from a titan of industry and your job is to guess who said it!
+
+***
+
 ## &nbsp;<img src="skills/B01DJT93IS/skill_icon" alt="Titus icon" width="36"> [Titus](skills/B01DJT93IS)
 
 *Alexa, ask Titus to find Seinfeld*
 
 Find where you can view your favorite TV shows on free, paid and subscription services like Amazon Prime, CBS or Crackle.
+
+***
+
+## &nbsp;<img src="skills/B01LWM1UV2/skill_icon" alt="To be Continued icon" width="36"> [To be Continued](skills/B01LWM1UV2)
+
+*Alexa, an enemy stand*
+
+Plays a random quote from JoJo's Bizarre Adventure.
+
+***
+
+## &nbsp;<img src="skills/B01LYP4TJJ/skill_icon" alt="null" width="36"> [Tobias Domhan](skills/B01LYP4TJJ)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -18453,6 +30046,14 @@ Curious about historical events that happened today?
 *Alexa, ask HistoryLink what happened today*
 
 Hear what happened on today's date in Washington State history, from HistoryLink.org
+
+***
+
+## &nbsp;<img src="skills/B01M8I28IL/skill_icon" alt="Today's Activity Quiz icon" width="36"> [Today's Activity Quiz](skills/B01M8I28IL)
+
+*Alexa, open Today's Activity Quiz*
+
+A quiz to help you decide what to do today.
 
 ***
 
@@ -18528,11 +30129,11 @@ Test your knowledge of "very special episodes" of the 80s and 90s
 
 ***
 
-## &nbsp;<img src="skills/B01CQ39TIC/skill_icon" alt="Toon Goggles icon" width="36"> [Toon Goggles](skills/B01CQ39TIC)
+## &nbsp;<img src="skills/B01M30FV6I/skill_icon" alt="null" width="36"> [Tony Lau](skills/B01M30FV6I)
 
-*Alexa, ask Toon Goggles to open Bernard*
+*There are no example interactions for this skill.*
 
-Enjoy Toon Goggles with your voice! Open shows, play videos, listen to music, and control playback.
+null
 
 ***
 
@@ -18544,11 +30145,27 @@ Hear some of the top 50 baby names to inspire your own!
 
 ***
 
+## &nbsp;<img src="skills/B01M8PYUIV/skill_icon" alt="Top box icon" width="36"> [Top box](skills/B01M8PYUIV)
+
+*Alexa ask Top box*
+
+Topbox help people find recommended movies, books and tvshows. Also provides the ratings.
+
+***
+
 ## &nbsp;<img src="skills/B01GW9E3SC/skill_icon" alt="Top Headlines icon" width="36"> [Top Headlines](skills/B01GW9E3SC)
 
 *Alexa, ask top headlines for the top stories*
 
 Listen to the top story headlines from The New York Times.
+
+***
+
+## &nbsp;<img src="skills/B01L9JYMUO/skill_icon" alt="Top News icon" width="36"> [Top News](skills/B01L9JYMUO)
+
+*Alexa, ask top news what's up*
+
+This is a skill to get all the top 10 news headlines around the world from Google News.
 
 ***
 
@@ -18568,6 +30185,14 @@ Tops Posts from Reddit's r/Technology
 
 ***
 
+## &nbsp;<img src="skills/B01N8X5ABN/skill_icon" alt="Top Stories icon" width="36"> [Top Stories](skills/B01N8X5ABN)
+
+*Alexa, ask  top stories*
+
+Get a brief summaries  of the top stories of the the New York Times by Newspaper Section.
+
+***
+
 ## &nbsp;<img src="skills/B01IL0758A/skill_icon" alt="Top Ten Countdown icon" width="36"> [Top Ten Countdown](skills/B01IL0758A)
 
 *Alexa, open Top Ten Countdown.*
@@ -18576,11 +30201,43 @@ Find out the top 10 songs on the Billboard Hot 100.
 
 ***
 
+## &nbsp;<img src="skills/B01M8HJPOV/skill_icon" alt="null" width="36"> [TorAlarm 3E](skills/B01M8HJPOV)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01M4R51AV/skill_icon" alt="Tornado Sirens icon" width="36"> [Tornado Sirens](skills/B01M4R51AV)
+
+*Alexa open tornado sirens*
+
+Sound the sirens, a tornado is near!
+
+***
+
+## &nbsp;<img src="skills/B01M3N6GFX/skill_icon" alt="Toronto library unofficial icon" width="36"> [Toronto library unofficial](skills/B01M3N6GFX)
+
+*Alexa, ask Toronto library fan for Harry Potter*
+
+Unofficialy search Toronto Public Library for titles and their availability
+
+***
+
 ## &nbsp;<img src="skills/B01BCKSFR6/skill_icon" alt="Toronto Transit icon" width="36"> [Toronto Transit](skills/B01BCKSFR6)
 
 *Alexa, ask Toronto Transit when is the next streetcar 504*
 
 Toronto Transit provides live predictions for the arrival time of Toronto buses and streetcars
+
+***
+
+## &nbsp;<img src="skills/B01M7PS6ZT/skill_icon" alt="Torso Muscle Revision icon" width="36"> [Torso Muscle Revision](skills/B01M7PS6ZT)
+
+*Alexa, open Torso Muscles*
+
+Revise your knowledge of the muscles of the torso (back, chest, abdomen, pelvis)
 
 ***
 
@@ -18648,6 +30305,14 @@ Tracker's Election Odds is the premier way to get the inside scoop on who is lik
 
 ***
 
+## &nbsp;<img src="skills/B01LX5TCQ1/skill_icon" alt="Train History icon" width="36"> [Train History](skills/B01LX5TCQ1)
+
+*Alexa, open Train History.*
+
+Are you interested in train history? Rely on Train History for notable events in train history for every day of the year.
+
+***
+
 ## &nbsp;<img src="skills/B01DOSV7XI/skill_icon" alt="Train Times for LIRR icon" width="36"> [Train Times for LIRR](skills/B01DOSV7XI)
 
 *Alexa ask train times for the next train*
@@ -18688,6 +30353,14 @@ Provides information regarding curbside collection holidays for Anne Arundel Co.
 
 ***
 
+## &nbsp;<img src="skills/B01LYIA4QM/skill_icon" alt="Travel Fact of The Day icon" width="36"> [Travel Fact of The Day](skills/B01LYIA4QM)
+
+*Alexa open travel facts*
+
+Get a fun Travel Fact each day to keep you inspired.
+
+***
+
 ## &nbsp;<img src="skills/B01G09UMIY/skill_icon" alt="Travel Tips icon" width="36"> [Travel Tips](skills/B01G09UMIY)
 
 *Alexa, open Travel Tips*
@@ -18720,6 +30393,14 @@ Trivia for Trekkie's Test your knowledge with the Star Trek Series Trivia game!
 
 ***
 
+## &nbsp;<img src="skills/B01M8J93YF/skill_icon" alt="Trending Recipes & Food icon" width="36"> [Trending Recipes & Food](skills/B01M8J93YF)
+
+*Alexa, ask Trending Recipes for the latest recipe*
+
+View the latest posts in the food subreddit
+
+***
+
 ## &nbsp;<img src="skills/B01FOYXLGQ/skill_icon" alt="Trending Searches icon" width="36"> [Trending Searches](skills/B01FOYXLGQ)
 
 *Alexa, ask Trending Searches for today's top searches.*
@@ -18728,11 +30409,27 @@ Trending Searches will list off the top four internet searches of the day.
 
 ***
 
+## &nbsp;<img src="skills/B01LW9R2F9/skill_icon" alt="TreycentSupplementAdvisor icon" width="36"> [TreycentSupplementAdvisor](skills/B01LW9R2F9)
+
+*Alexa, Ask The Supplement Advisor what supplements are good for anxiety*
+
+The Supplement Advisor by Treycent
+
+***
+
 ## &nbsp;<img src="skills/B01EQXQVSQ/skill_icon" alt="Tricities Karaoke icon" width="36"> [Tricities Karaoke](skills/B01EQXQVSQ)
 
 *Alexa, ask Tricities Karaoke where can I sing tonight*
 
 Find local karaoke in the Tricities Washington.
+
+***
+
+## &nbsp;<img src="skills/B01N3P2Z4H/skill_icon" alt="Trick Or Treat Trivia icon" width="36"> [Trick Or Treat Trivia](skills/B01N3P2Z4H)
+
+*Alexa, start Trick or Treat Trivia*
+
+Halloween Trivia!
 
 ***
 
@@ -18773,6 +30470,14 @@ A Fun Trivia (unsponsored) Challenge about the Classic Rock group "The Band"
 *Alexa, start trivia challenge*
 
 Practice your knowledge of U.S  History from the colonial times to current day with Trivia Challenge.
+
+***
+
+## &nbsp;<img src="skills/B01MFHDMYP/skill_icon" alt="Trivia Crack icon" width="36"> [Trivia Crack](skills/B01MFHDMYP)
+
+*Alexa, launch trivia crack*
+
+Trivia Crack is a demo game used to test the alexa skills following a How to Build a Trivia Game for Amazon Echo in Under an Hour tutorial
 
 ***
 
@@ -18912,6 +30617,14 @@ Trivia about the United States Air Force
 
 ***
 
+## &nbsp;<img src="skills/B01LYOZ20Y/skill_icon" alt="Trivia game icon" width="36"> [Trivia game](skills/B01LYOZ20Y)
+
+*Alexa launch veda calendar*
+
+Hindu mythology trivia questions
+
+***
+
 ## &nbsp;<img src="skills/B01FA1KB4S/skill_icon" alt="Trivia Game for Disney icon" width="36"> [Trivia Game for Disney](skills/B01FA1KB4S)
 
 *Alexa, start trivia for disney*
@@ -18933,14 +30646,6 @@ Let's LEGO is a fun fact trivia game that revolves around LEGO.
 *Alexa, launch Michigan Football Trivia*
 
 The Trivia Game for Michigan Football will let you test your knowledge and see how much of a wolverine you truly are!
-
-***
-
-## &nbsp;<img src="skills/B01DDK8BZE/skill_icon" alt="Trivia Game for Sofia The First icon" width="36"> [Trivia Game for Sofia The First](skills/B01DDK8BZE)
-
-*Alexa, start Sofia trivia game*
-
-Test your knowledge for the TV show Sofia the First.
 
 ***
 
@@ -18973,6 +30678,14 @@ Random facts
 *Alexa, Launch Japan Trivia*
 
 This is a fun little trivia game featuring interesting questions on Japan and Japanese Culture.
+
+***
+
+## &nbsp;<img src="skills/B01M7O0W1T/skill_icon" alt="Trivia Monkey icon" width="36"> [Trivia Monkey](skills/B01M7O0W1T)
+
+*Alexa, Open Trivia Monkey*
+
+This is skill responds with a random trivia fact from a small library
 
 ***
 
@@ -19024,11 +30737,51 @@ Trivial Trivia is a trivia game to test your knowledge of computing history.
 
 ***
 
+## &nbsp;<img src="skills/B01LX837SY/skill_icon" alt="Troublesome Trivia icon" width="36"> [Troublesome Trivia](skills/B01LX837SY)
+
+*Alexa, launch Troublesome Trivia.*
+
+Not for the feint of heart, this trivia game will leave you stumped!
+
+***
+
+## &nbsp;<img src="skills/B01MD14M86/skill_icon" alt="Troy Oz Quotes icon" width="36"> [Troy Oz Quotes](skills/B01MD14M86)
+
+*Alexa, open Troy Oz*
+
+Get price information for precious metals, crypto currencies and popular market indices.
+
+***
+
+## &nbsp;<img src="skills/B01M0FI2FH/skill_icon" alt="Truckee Trivia icon" width="36"> [Truckee Trivia](skills/B01M0FI2FH)
+
+*Alexa, launch Truckee trivia*
+
+Truckee Trivia is a trivia game built as a template for developer to use in creating a trivia game of their own
+
+***
+
+## &nbsp;<img src="skills/B01LG95NJG/skill_icon" alt="Trump (unauthorized and unfiltered) icon" width="36"> [Trump (unauthorized and unfiltered)](skills/B01LG95NJG)
+
+*Alexa, open Trump Unauthorized*
+
+Plays Trump quotes, as spoken by The Donald himself.  New quotes added frequently to keep them fresh and up to date.
+
+***
+
 ## &nbsp;<img src="skills/B01JDLGCJE/skill_icon" alt="Trump Facts icon" width="36"> [Trump Facts](skills/B01JDLGCJE)
 
 *Alexa ask Trump Facts for a fact*
 
 Facts about Donald Trump.
+
+***
+
+## &nbsp;<img src="skills/B01M3XGB0D/skill_icon" alt="Trump Quotes icon" width="36"> [Trump Quotes](skills/B01M3XGB0D)
+
+*Alexa Ask Trump Quotes*
+
+This skill enables Alexa to recite quotes from Donald J. Trump.
 
 ***
 
@@ -19048,6 +30801,22 @@ Trump answers your most burning questions.
 
 ***
 
+## &nbsp;<img src="skills/B01M7XTZSF/skill_icon" alt="Trust Builder icon" width="36"> [Trust Builder](skills/B01M7XTZSF)
+
+*Alexa, open Trust Builder*
+
+Learn how to build trust in a relationship
+
+***
+
+## &nbsp;<img src="skills/B01M0J6920/skill_icon" alt="Truth Ideas icon" width="36"> [Truth Ideas](skills/B01M0J6920)
+
+*Alexa, ask Truth Ideas to give me a truth*
+
+This application will give you some very fun truth ideas to play to Truth or dare?
+
+***
+
 ## &nbsp;<img src="skills/B01F8J7LXG/skill_icon" alt="Truth or Dare icon" width="36"> [Truth or Dare](skills/B01F8J7LXG)
 
 *Alexa open Truth or Dare*
@@ -19064,11 +30833,59 @@ Truth or Dare Party Game with categories for all ages. You've been warned!
 
 ***
 
+## &nbsp;<img src="skills/B01M1MYNXO/skill_icon" alt="Tube Planner icon" width="36"> [Tube Planner](skills/B01M1MYNXO)
+
+*Alexa, open tube planner*
+
+Get travel time and routes for London's tube network
+
+***
+
 ## &nbsp;<img src="skills/B01BPRK6DC/skill_icon" alt="Tube Status icon" width="36"> [Tube Status](skills/B01BPRK6DC)
 
 *Alexa, ask Tube Status about the Victoria line.*
 
 Access the current London tube status from your Amazon Echo. Ask about all lines, or one line in particular
+
+***
+
+## &nbsp;<img src="skills/B01MG3VMQX/skill_icon" alt="Tube Trivia (Unofficial) icon" width="36"> [Tube Trivia (Unofficial)](skills/B01MG3VMQX)
+
+*Alexa, ask Tube Trivia to tell me a tube fact.*
+
+Tube Trivia (Unofficial)
+
+***
+
+## &nbsp;<img src="skills/B01N3OO5GZ/skill_icon" alt="Turkey Day icon" width="36"> [Turkey Day](skills/B01N3OO5GZ)
+
+*Alexa open turkey day*
+
+Thanksgiving Day related facts
+
+***
+
+## &nbsp;<img src="skills/B01M9ASYAZ/skill_icon" alt="Turn Master icon" width="36"> [Turn Master](skills/B01M9ASYAZ)
+
+*Alexa open Turn Master*
+
+Choose one or more people from your group.
+
+***
+
+## &nbsp;<img src="skills/B01N09GO4X/skill_icon" alt="turtle facts icon" width="36"> [turtle facts](skills/B01N09GO4X)
+
+*Alexa, ask turtle facts for a fact*
+
+Turtle facts
+
+***
+
+## &nbsp;<img src="skills/B01MRHNY9S/skill_icon" alt="Turtle Facts icon" width="36"> [Turtle Facts](skills/B01MRHNY9S)
+
+*Alexa, ask Turtle Facts to tell me a fact.*
+
+This skill gives a random fact about turtles.
 
 ***
 
@@ -19080,11 +30897,13 @@ A short trivia skill about turtles and teenage mutant ninja turtles
 
 ***
 
-## &nbsp;<img src="skills/B01I9GHK40/skill_icon" alt="null" width="36"> [tuya technology](skills/B01I9GHK40)
+## &nbsp;<img src="skills/B01I9GHK40/skill_icon" alt="Tuya Smart icon" width="36"> [Tuya Smart](skills/B01I9GHK40)
 
 *There are no example interactions for this skill.*
 
-null
+Alexa, turn on the bedroom light.
+Alexa, turn off the bedroom light.
+Alexa, set my smart heater to 25.
 
 ***
 
@@ -19120,6 +30939,14 @@ Tweech - the tweet reader - reads your twitter timeline to you.
 
 ***
 
+## &nbsp;<img src="skills/B01L1K7BO0/skill_icon" alt="Tweets Feed icon" width="36"> [Tweets Feed](skills/B01L1K7BO0)
+
+*Alexa, ask tweets feed what's Taylor Swift doing now*
+
+Want to get a quick feed of tweets from celebrities? Just ask a famous name to Tweets Feed and you will have Alexa tell you the rest.
+
+***
+
 ## &nbsp;<img src="skills/B01F4VVKIA/skill_icon" alt="Tweets From The Donald icon" width="36"> [Tweets From The Donald](skills/B01F4VVKIA)
 
 *Alexa, open Mister Trump.*
@@ -19144,11 +30971,27 @@ Get four numbers that can be used to calculate 24.
 
 ***
 
-## &nbsp;<img src="skills/B01C3A9MOO/skill_icon" alt="Twister Spinner icon" width="36"> [Twister Spinner](skills/B01C3A9MOO)
+## &nbsp;<img src="skills/B01M7YR9EP/skill_icon" alt="Twist Helper icon" width="36"> [Twist Helper](skills/B01M7YR9EP)
 
-*Alexa, run Twister Spinner*
+*Alexa Ask twist helper to give me a move*
 
-Twister spinner with voice
+With this skill, you can ask Alexa to give you a random move to play the Twister game. No more need to have someone to spin the wheel to get a random move.
+
+***
+
+## &nbsp;<img src="skills/B01LX8FPGU/skill_icon" alt="Twisted Fortune Cookies icon" width="36"> [Twisted Fortune Cookies](skills/B01LX8FPGU)
+
+*Alexa, ask Twisted Fortune Cookies to give me a cookie*
+
+Get Alexa to give you a fortune cookie with a funny saying!
+
+***
+
+## &nbsp;<img src="skills/B01LFJO3M0/skill_icon" alt="Twitter Reader icon" width="36"> [Twitter Reader](skills/B01LFJO3M0)
+
+*Alexa, open Twitter*
+
+Twitter Reader can read your home Timeline, Mentions, Retweets and Likes. You can also discover Trends by location.
 
 ***
 
@@ -19157,6 +31000,14 @@ Twister spinner with voice
 *Alexa , launch two secret numbers*
 
 Choose two numbers by yourself and let alexa guess these numbers as you proceed through a sequence of calculations
+
+***
+
+## &nbsp;<img src="skills/B01N0BH8JY/skill_icon" alt="null" width="36"> [TwoThree Media](skills/B01N0BH8JY)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -19199,6 +31050,14 @@ Twenty-one questions about the history of writing and basic typography.
 Move easily from boss to boss in Guild Wars 2.  Ask for the current or next boss, next boss by name, or find a boss location.  
 
 Magee knows what's going on!
+
+***
+
+## &nbsp;<img src="skills/B01LIKNFB6/skill_icon" alt="U R anus Sam icon" width="36"> [U R anus Sam](skills/B01LIKNFB6)
+
+*Alexa, ask uranus sam a joke*
+
+this  skill  tells  uranus  jokes
 
 ***
 
@@ -19270,7 +31129,7 @@ Study the U.S. state capitals with this multiple choice trivia skill.
 
 *Alexa, ask Uber to request a ride.*
 
-Official Uber skill for Amazon Alexa.
+Official Uber Skill for Amazon Alexa.
 
 ***
 
@@ -19282,11 +31141,27 @@ Ubi Portal Voice Prototyping Tool allows for very quickly showcasing interaction
 
 ***
 
+## &nbsp;<img src="skills/B01MEC16XB/skill_icon" alt="UK Deal Finder icon" width="36"> [UK Deal Finder](skills/B01MEC16XB)
+
+*Alexa Ask UK Deal Finder to get deals*
+
+Keep an eye on HotUKDeals.com from wherever you are by simply asking Alexa to get you the deals.
+
+***
+
 ## &nbsp;<img src="skills/B01GC3OSS8/skill_icon" alt="UK games icon" width="36"> [UK games](skills/B01GC3OSS8)
 
 *Alexa, open uk games*
 
 UK games is a trivia game on the United Kingdom
+
+***
+
+## &nbsp;<img src="skills/B01MF64N60/skill_icon" alt="UK Postcode icon" width="36"> [UK Postcode](skills/B01MF64N60)
+
+*Alexa, ask postcode finder to find postcode of Barbican*
+
+Find Postcode by Address
 
 ***
 
@@ -19314,11 +31189,43 @@ Test your Grateful Dead knowledge with short, 5-question trivia games. Hundreds 
 
 ***
 
+## &nbsp;<img src="skills/B01N8QH674/skill_icon" alt="Ultimate Facts icon" width="36"> [Ultimate Facts](skills/B01N8QH674)
+
+*Alexa start ultimate facts*
+
+Gives facts about Ultimate Frisbee
+
+***
+
+## &nbsp;<img src="skills/B01M2VK8Z2/skill_icon" alt="Ultimate Formula One Fan icon" width="36"> [Ultimate Formula One Fan](skills/B01M2VK8Z2)
+
+*Alexa, launch ultimate formula one fan.*
+
+Facts and Information about Formula One
+
+***
+
 ## &nbsp;<img src="skills/B01F083MGA/skill_icon" alt="Ultimate RK icon" width="36"> [Ultimate RK](skills/B01F083MGA)
 
 *Alexa, begin ultimate boy*
 
 Have a laughter ride with this skill. Just say "Alexa, Open ultimate boy".
+
+***
+
+## &nbsp;<img src="skills/B01LI01WF2/skill_icon" alt="UMich Facts icon" width="36"> [UMich Facts](skills/B01LI01WF2)
+
+*Alexa, open michigan facts.*
+
+UMich Facts tells you interesting facts about the University of Michigan, Ann Arbor. Go Blue.
+
+***
+
+## &nbsp;<img src="skills/B01LWLSLL6/skill_icon" alt="Umpire Insult icon" width="36"> [Umpire Insult](skills/B01LWLSLL6)
+
+*Alexa, ask drunk fan for an insult*
+
+Funny umpire insults.
 
 ***
 
@@ -19335,6 +31242,14 @@ Let Uncle Shakespeare insult you. These jibes are randomly composed from adjecti
 *Alexa, launch Unicorn Trivia*
 
 Unicorns are more than mythical creatures! Test your knowledge of $1 billion companies, or use this skill simply to learn more about them.
+
+***
+
+## &nbsp;<img src="skills/B01LG9X9DS/skill_icon" alt="Unicorn Trivia icon" width="36"> [Unicorn Trivia](skills/B01LG9X9DS)
+
+*Alexa, Start Unicorn Trivia*
+
+Unicorn Trivia is a fun way to test your knowledge of the legends and folklore around unicorns. Take the quiz and see if you are a Unicorn expert.
 
 ***
 
@@ -19362,6 +31277,14 @@ united states capitals tutor
 
 ***
 
+## &nbsp;<img src="skills/B01M4Q58JJ/skill_icon" alt="United States Flag Status Skill icon" width="36"> [United States Flag Status Skill](skills/B01M4Q58JJ)
+
+*Alexa, ask Flag Status for South Dakota*
+
+With U.S. Flag Status skill you can find out whether or not the State and National flags are flying at half staff today and why.
+
+***
+
 ## &nbsp;<img src="skills/B01CKCK4TW/skill_icon" alt="United States Naturalization Practice Quiz icon" width="36"> [United States Naturalization Practice Quiz](skills/B01CKCK4TW)
 
 *Alexa, launch Immigration Quiz*
@@ -19378,6 +31301,14 @@ List of United States Presidents
 
 ***
 
+## &nbsp;<img src="skills/B01LWO57SI/skill_icon" alt="United States' Trivia Game icon" width="36"> [United States' Trivia Game](skills/B01LWO57SI)
+
+*Alexa, open u. s. trivia game*
+
+A game that test people's knowledge of United States' History. An educational and fun game that people of all ages can play.
+
+***
+
 ## &nbsp;<img src="skills/B01GXFW5TE/skill_icon" alt="Unix Fortune icon" width="36"> [Unix Fortune](skills/B01GXFW5TE)
 
 *Alexa, ask Unix Fortune to say something cool*
@@ -19386,11 +31317,147 @@ Linux fans among us will appreciate this skill which brings Unix fortune to Alex
 
 ***
 
+## &nbsp;<img src="skills/B01LZ9KJDP/skill_icon" alt="unofficalDNDRace icon" width="36"> [unofficalDNDRace](skills/B01LZ9KJDP)
+
+*Alexa, launch unofficial d. n. d. chooser*
+
+DnD 5th edition decision tree to help choose the race for your character.
+
+***
+
+## &nbsp;<img src="skills/B01LXH9BMM/skill_icon" alt="Unofficial Amazon Facts icon" width="36"> [Unofficial Amazon Facts](skills/B01LXH9BMM)
+
+*Alexa, open amaze facts*
+
+Unofficial Facts about Amazon.com
+
+***
+
+## &nbsp;<img src="skills/B01LYJR8NV/skill_icon" alt="Unofficial Arnold Quotes icon" width="36"> [Unofficial Arnold Quotes](skills/B01LYJR8NV)
+
+*Alexa ask Arnold fan for a quote*
+
+Unofficial Random Arnold quote generator
+
+***
+
+## &nbsp;<img src="skills/B01M22XYCS/skill_icon" alt="Unofficial Arsenal Facts icon" width="36"> [Unofficial Arsenal Facts](skills/B01M22XYCS)
+
+*Alexa, open unofficial arsenal facts*
+
+Quick unofficial facts about Arsenal Football Club.
+
+***
+
+## &nbsp;<img src="skills/B01M23SYGD/skill_icon" alt="Unofficial Cash4Life Winning Numbers icon" width="36"> [Unofficial Cash4Life Winning Numbers](skills/B01M23SYGD)
+
+*alexa, ask,  unofficial cash four*
+
+Get the winning numbers for the New York State Lottery Game; CASH4LIFE.  This Skill is not endorsed by The New York State Gaming Commission.
+
+***
+
+## &nbsp;<img src="skills/B01L5WIYNQ/skill_icon" alt="Unofficial Chinese Eat icon" width="36"> [Unofficial Chinese Eat](skills/B01L5WIYNQ)
+
+*Alexa, launch Chinese eat*
+
+Interesting facts about eating in China, not sponsored or endorsed by Accenture
+
+***
+
+## &nbsp;<img src="skills/B01L5VEZRG/skill_icon" alt="Unofficial Chinese Food Pronunciation icon" width="36"> [Unofficial Chinese Food Pronunciation](skills/B01L5VEZRG)
+
+*Alexa, launch Chinese Food Pronunciation*
+
+Chinese food name in Chinese, not sponsored or endorsed by Accenture
+
+***
+
+## &nbsp;<img src="skills/B01L64VM00/skill_icon" alt="Unofficial Chinese Trivia icon" width="36"> [Unofficial Chinese Trivia](skills/B01L64VM00)
+
+*Alexa, launch Chinese trivia*
+
+Chinese trivia quiz, not sponsored or endorsed by Accenture
+
+***
+
+## &nbsp;<img src="skills/B01M32JOET/skill_icon" alt="Unofficial Chuck Norris icon" width="36"> [Unofficial Chuck Norris](skills/B01M32JOET)
+
+*Alexa, ask Unofficial Chuck Norris for a joke*
+
+Unofficial Chuck Norris jokes, on demand!
+
+***
+
 ## &nbsp;<img src="skills/B01KNAX58A/skill_icon" alt="Unofficial Chuck Norris Facts icon" width="36"> [Unofficial Chuck Norris Facts](skills/B01KNAX58A)
 
 *Alexa, open Unofficial Chuck Norris Facts*
 
 Learn facts about Chuck Norris.  Not sponsored by Chuck Norris.
+
+***
+
+## &nbsp;<img src="skills/B01LZ91QRH/skill_icon" alt="Unofficial Chuck Norris Jokes icon" width="36"> [Unofficial Chuck Norris Jokes](skills/B01LZ91QRH)
+
+*Alexa, ask unofficial chuck norris jokes to tell me a chuck norris joke*
+
+A skill to tell a random Chuck Norris joke!
+
+***
+
+## &nbsp;<img src="skills/B01M8JNHHH/skill_icon" alt="Unofficial Destiny Gamer Facts icon" width="36"> [Unofficial Destiny Gamer Facts](skills/B01M8JNHHH)
+
+*Alexa start unofficial destiny gamer facts*
+
+Learn facts about the video game Destiny.
+
+***
+
+## &nbsp;<img src="skills/B01LX80PPB/skill_icon" alt="Unofficial Die Hard Facts icon" width="36"> [Unofficial Die Hard Facts](skills/B01LX80PPB)
+
+*Alexa, open unofficial die hard facts.*
+
+Facts about the Die Hard movies.
+
+***
+
+## &nbsp;<img src="skills/B01LAIKH7G/skill_icon" alt="Unofficial Donald Quiz icon" width="36"> [Unofficial Donald Quiz](skills/B01LAIKH7G)
+
+*Alexa Start Unofficial Donald Quiz*
+
+It reads a quote at a time and the user should answer whether it is The Donald's quote.
+
+***
+
+## &nbsp;<img src="skills/B01LYJD2K5/skill_icon" alt="Unofficial Dota 2 Abilities Skill icon" width="36"> [Unofficial Dota 2 Abilities Skill](skills/B01LYJD2K5)
+
+*Alexa, start Unofficial Dota 2*
+
+A skill with basic information about hero abilities from the PC game Dota2. This is an unofficial skill for Dota 2 and is not endorsed by Valve Corporation.
+
+***
+
+## &nbsp;<img src="skills/B01L4PQ8GY/skill_icon" alt="Unofficial EC2 Container Service Glossary icon" width="36"> [Unofficial EC2 Container Service Glossary](skills/B01L4PQ8GY)
+
+*Alexa, start unofficial ecs glossary*
+
+Unofficial glossary for ECS terminology
+
+***
+
+## &nbsp;<img src="skills/B01LWHYECV/skill_icon" alt="Unofficial Fact Sphere icon" width="36"> [Unofficial Fact Sphere](skills/B01LWHYECV)
+
+*Alexa, ask Unofficial Fact Sphere for a fact.*
+
+Fact sphere's facts
+
+***
+
+## &nbsp;<img src="skills/B01M05HPY1/skill_icon" alt="Unofficial Futurama Facts icon" width="36"> [Unofficial Futurama Facts](skills/B01M05HPY1)
+
+*Alexa, open unofficial futurama facts.*
+
+Alexa gives facts about the great show of Futurama
 
 ***
 
@@ -19410,11 +31477,155 @@ An unofficial app with interesting facts about Girl Scouts
 
 ***
 
+## &nbsp;<img src="skills/B01M0QVNR1/skill_icon" alt="Unofficial Google Facts icon" width="36"> [Unofficial Google Facts](skills/B01M0QVNR1)
+
+*Alexa, unofficial google facts*
+
+Unofficial Google Facts skill for Alexa
+
+***
+
+## &nbsp;<img src="skills/B01M13RYPI/skill_icon" alt="Unofficial Harley Facts icon" width="36"> [Unofficial Harley Facts](skills/B01M13RYPI)
+
+*Alexa, open unofficial harley facts*
+
+unofficial harley facts and fun
+
+***
+
+## &nbsp;<img src="skills/B01KPE8MR8/skill_icon" alt="Unofficial Harry Potter Facts icon" width="36"> [Unofficial Harry Potter Facts](skills/B01KPE8MR8)
+
+*Alexa, open unofficial harry potter facts*
+
+Some cool facts about Harry Potter!
+
+***
+
+## &nbsp;<img src="skills/B01M0JKN9K/skill_icon" alt="Unofficial Harry Potter Facts icon" width="36"> [Unofficial Harry Potter Facts](skills/B01M0JKN9K)
+
+*Alexa, Begin Unofficial Harry Potter Facts*
+
+Hear unofficial random facts about Harry Potter.
+
+***
+
+## &nbsp;<img src="skills/B01MFCV6P1/skill_icon" alt="Unofficial Kancolle Helper icon" width="36"> [Unofficial Kancolle Helper](skills/B01MFCV6P1)
+
+*Alexa, ask Unofficial Kancolle Helper*
+
+A fan-made basic helper that gives details of the main recipes used in the browser game KanColle: Kantai Collection.
+
+***
+
+## &nbsp;<img src="skills/B01M1BJJNZ/skill_icon" alt="Unofficial Labyrinth icon" width="36"> [Unofficial Labyrinth](skills/B01M1BJJNZ)
+
+*Alexa, Open the Unofficial Labyrinth*
+
+Labyrinth (Unofficial) - Remind me of the babe
+
+***
+
+## &nbsp;<img src="skills/B01MG65UJ9/skill_icon" alt="Unofficial League of Legends Trivia Game icon" width="36"> [Unofficial League of Legends Trivia Game](skills/B01MG65UJ9)
+
+*Alexa Open Unofficial League of Legends Trivia*
+
+Unofficial Trivia Game on League of Legends Quotes
+
+***
+
+## &nbsp;<img src="skills/B01LYPNLNQ/skill_icon" alt="Unofficial Microsoft .NET Framework Quiz icon" width="36"> [Unofficial Microsoft .NET Framework Quiz](skills/B01LYPNLNQ)
+
+*Alexa open unofficial microsoft dot net framework quiz*
+
+An unofficial Microsoft .NET Framework quiz made by someone who enjoys working with the framework.
+
+***
+
+## &nbsp;<img src="skills/B01M7RBE32/skill_icon" alt="Unofficial Minecraft Quiz icon" width="36"> [Unofficial Minecraft Quiz](skills/B01M7RBE32)
+
+*Alexa, start unofficial minecraft quiz*
+
+Test your knowledge about the computer game Minecraft
+
+***
+
+## &nbsp;<img src="skills/B01MFX8V6S/skill_icon" alt="Unofficial Mr Men Trivia icon" width="36"> [Unofficial Mr Men Trivia](skills/B01MFX8V6S)
+
+*Alexa, open mister quiz*
+
+Unofficial Mr Men Trivia
+
+***
+
+## &nbsp;<img src="skills/B01LWCA8KK/skill_icon" alt="Unofficial Narcos Facts icon" width="36"> [Unofficial Narcos Facts](skills/B01LWCA8KK)
+
+*Alexa open Narcos Facts*
+
+Unofficial facts for the Netflix show "Narcos"
+
+***
+
+## &nbsp;<img src="skills/B01L6F2C8A/skill_icon" alt="Unofficial Pokemon Facts icon" width="36"> [Unofficial Pokemon Facts](skills/B01L6F2C8A)
+
+*Alexa, open unofficial pokemon facts*
+
+A Pokemon Fact a day... An unofficial Pokemon Fact App for Alexa users.
+
+***
+
+## &nbsp;<img src="skills/B01LXBH9P5/skill_icon" alt="Unofficial Project Manager Trivia icon" width="36"> [Unofficial Project Manager Trivia](skills/B01LXBH9P5)
+
+*Alexa, open unofficial project manager trivia*
+
+An unofficial trivia application to help individuals looking to practice for the PMP certification exam.
+
+***
+
 ## &nbsp;<img src="skills/B01KVSD6HO/skill_icon" alt="Unofficial Random Restaurant Picker for Cornell icon" width="36"> [Unofficial Random Restaurant Picker for Cornell](skills/B01KVSD6HO)
 
 *Alexa, open restaurant picker*
 
 Random Food Picker
+
+***
+
+## &nbsp;<img src="skills/B01MG5QJAG/skill_icon" alt="Unofficial Ron Swanson icon" width="36"> [Unofficial Ron Swanson](skills/B01MG5QJAG)
+
+*Alexa, ask Unofficial Ron Swanson for some wisdom*
+
+Hear the wisdom of Parks and Recreation's one and only, Ron Swanson.
+
+***
+
+## &nbsp;<img src="skills/B01LZM3N7M/skill_icon" alt="Unofficial Scripps College Facts icon" width="36"> [Unofficial Scripps College Facts](skills/B01LZM3N7M)
+
+*Alexa, ask unofficial Scripps College facts to give me a fact.*
+
+Learn fun facts about Scripps College.
+
+***
+
+## &nbsp;<img src="skills/B01LWN6E5Q/skill_icon" alt="Unofficial Scrum Master Trivia icon" width="36"> [Unofficial Scrum Master Trivia](skills/B01LWN6E5Q)
+
+*Alexa, open unofficial scrum master trivia*
+
+An unofficial application to help prepare for professional scrum master I exam.
+
+***
+
+## &nbsp;<img src="skills/B01M0JJJ1I/skill_icon" alt="Unofficial Seahawks Facts icon" width="36"> [Unofficial Seahawks Facts](skills/B01M0JJJ1I)
+
+*Alexa, Begin Unofficial Seahawks Facts*
+
+Unofficial Seahawks Facts tells the user a random fact about the Seahawks.
+
+***
+
+## &nbsp;<img src="skills/B01M07ZR0M/skill_icon" alt="Unofficial Sheldon Cooper Facts icon" width="36"> [Unofficial Sheldon Cooper Facts](skills/B01M07ZR0M)
+
+*Alexa, Begin Unofficial Sheldon Cooper Facts*
+
+Hear an unofficial fun fact from Sheldon Cooper of The Big Bang Theory.
 
 ***
 
@@ -19434,11 +31645,139 @@ Test your Seattle Sounders knowledge
 
 ***
 
+## &nbsp;<img src="skills/B01LZX6XPE/skill_icon" alt="Unofficial Star Wars Facts icon" width="36"> [Unofficial Star Wars Facts](skills/B01LZX6XPE)
+
+*Alexa, tell unofficial star war facts to tell me a star wars fact*
+
+Unofficial Star Wars facts that you did may not have known.
+
+***
+
+## &nbsp;<img src="skills/B01M171T8U/skill_icon" alt="Unofficial Texans Facts icon" width="36"> [Unofficial Texans Facts](skills/B01M171T8U)
+
+*alexa, open team facts*
+
+Unofficial Texans Team Facts
+
+***
+
+## &nbsp;<img src="skills/B01LZVSZPR/skill_icon" alt="Unofficial Texans Punting Stats icon" width="36"> [Unofficial Texans Punting Stats](skills/B01LZVSZPR)
+
+*alexa, open punting stats*
+
+Unofficial Texans Punting Statistics
+
+***
+
+## &nbsp;<img src="skills/B01LXDGXXE/skill_icon" alt="Unofficial TLC New Driver Application Status icon" width="36"> [Unofficial TLC New Driver Application Status](skills/B01LXDGXXE)
+
+*Alexa, Open driver application status*
+
+Get the status of the new driver application from the New York TLC.
+
+***
+
+## &nbsp;<img src="skills/B01M7UC179/skill_icon" alt="Unofficial Trump Insult Generator icon" width="36"> [Unofficial Trump Insult Generator](skills/B01M7UC179)
+
+*Alexa, ask insult generator to generate insult for Jessica*
+
+The Unofficial Trump Insult Generator pulls together some of Donald Trump's random quotes and strings them together with a first name to insult a person.
+
+***
+
+## &nbsp;<img src="skills/B01M0UDNJJ/skill_icon" alt="Unofficial Trump Quotes icon" width="36"> [Unofficial Trump Quotes](skills/B01M0UDNJJ)
+
+*Alexa, ask unofficial trump quotes to give me a dumb trump quote*
+
+Gives a random Donald Trump quote.
+
+***
+
+## &nbsp;<img src="skills/B01MG93KE9/skill_icon" alt="Unofficial USF Bulls Trivia icon" width="36"> [Unofficial USF Bulls Trivia](skills/B01MG93KE9)
+
+*Alexa open bulls trivia*
+
+An Unofficial University of South Florida  Fan Trivia Game
+
+***
+
+## &nbsp;<img src="skills/B01M0P9TKJ/skill_icon" alt="Unofficial Vacation Tips in Maine icon" width="36"> [Unofficial Vacation Tips in Maine](skills/B01M0P9TKJ)
+
+*Alexa open vacation Tips maine*
+
+Learn vacationing tips for visiting Maine.
+
+***
+
 ## &nbsp;<img src="skills/B01KPCIDTM/skill_icon" alt="Unofficial War Craft Facts icon" width="36"> [Unofficial War Craft Facts](skills/B01KPCIDTM)
 
 *Alexa, open unofficial war craft facts*
 
 Unofficial Warcraft facts
+
+***
+
+## &nbsp;<img src="skills/B01LZ1CQZ8/skill_icon" alt="Unofficial Which Narcos Character Are You? Quiz icon" width="36"> [Unofficial Which Narcos Character Are You? Quiz](skills/B01LZ1CQZ8)
+
+*Alexa launch Narcos Quiz*
+
+Unofficial characters quiz for the Netflix show "Narcos"
+
+***
+
+## &nbsp;<img src="skills/B01M11220Z/skill_icon" alt="Unofficial Willys wagon and truck year identifier icon" width="36"> [Unofficial Willys wagon and truck year identifier](skills/B01M11220Z)
+
+*Alexa start unofficial willys year*
+
+This will assist in determining the model year of a Willys wagon or pickup truck vehicle
+
+***
+
+## &nbsp;<img src="skills/B01LVWAN2C/skill_icon" alt="Unofficial Windows Shortcuts icon" width="36"> [Unofficial Windows Shortcuts](skills/B01LVWAN2C)
+
+*alexa, open unofficial windows shortcuts*
+
+Quickly figure out the keyboard shortcuts for common Windows tasks. This skill is not sponsored or endorsed by Microsoft.
+
+***
+
+## &nbsp;<img src="skills/B01LW79LIJ/skill_icon" alt="unofficialSimpsonsFacts icon" width="36"> [unofficialSimpsonsFacts](skills/B01LW79LIJ)
+
+*alexa open unofficial simpsons facts*
+
+Unofficial fan Simpsons facts
+
+***
+
+## &nbsp;<img src="skills/B01LWD0P7K/skill_icon" alt="unofficialSimpsonsQuotes icon" width="36"> [unofficialSimpsonsQuotes](skills/B01LWD0P7K)
+
+*alexa open unofficial simpsons quotes*
+
+unofficial fan simpsons quotes
+
+***
+
+## &nbsp;<img src="skills/B01LW79KLK/skill_icon" alt="unofficialWhatSimpsonsCharacterAmI icon" width="36"> [unofficialWhatSimpsonsCharacterAmI](skills/B01LW79KLK)
+
+*Alexa, start unofficial what simpsons character am i*
+
+Unofficial fan Simpsons character finder
+
+***
+
+## &nbsp;<img src="skills/B01M1M7H70/skill_icon" alt="Unoffiical GoT Trivia icon" width="36"> [Unoffiical GoT Trivia](skills/B01M1M7H70)
+
+*Alexa launch fan trivia*
+
+This is an unofficial trivia about the show Game of Thrones and books. This trivia is not sponsored or endorsed by the Home Box Office, Inc or the producers.
+
+***
+
+## &nbsp;<img src="skills/B01M16D595/skill_icon" alt="Unoficial Tao of Programming icon" width="36"> [Unoficial Tao of Programming](skills/B01M16D595)
+
+*Alexa, ask Unofficial Programming Tao to tell me about the tao*
+
+Ask Alexa to quote from the Tao of Programming
 
 ***
 
@@ -19450,11 +31789,35 @@ Get a random brainstorming prompt
 
 ***
 
+## &nbsp;<img src="skills/B01LLXR6BU/skill_icon" alt="Upcoming Events for Hearthstone icon" width="36"> [Upcoming Events for Hearthstone](skills/B01LLXR6BU)
+
+*Alexa, ask Hearth Calendar what are today's events*
+
+Get upcoming tournament events for Hearthstone
+
+***
+
 ## &nbsp;<img src="skills/B01L1ARQ5E/skill_icon" alt="Upcoming Events for Overwatch icon" width="36"> [Upcoming Events for Overwatch](skills/B01L1ARQ5E)
 
 *Alexa, ask Over Watcher to get upcoming events.*
 
 Get upcoming tournament events for Overwatch
+
+***
+
+## &nbsp;<img src="skills/B01M3PR7NC/skill_icon" alt="Upper Limb Muscle Revision icon" width="36"> [Upper Limb Muscle Revision](skills/B01M3PR7NC)
+
+*Alexa, open Upper Limb Muscles*
+
+Revise knowledge of muscles of the upper body.
+
+***
+
+## &nbsp;<img src="skills/B01M7XE316/skill_icon" alt="UPS icon" width="36"> [UPS](skills/B01M7XE316)
+
+*Alexa, ask UPS to track a package.*
+
+The UPS skill for Alexa allows you to receive relevant information from UPS, including tracking, locations, shipping rates, and UPS stock info.
 
 ***
 
@@ -19471,6 +31834,14 @@ A quiz game that test your knowledge of US capital cities
 *Alexa ask civics exam*
 
 Test your knowledge of United States Civics
+
+***
+
+## &nbsp;<img src="skills/B01M7SHGQ2/skill_icon" alt="US Facts icon" width="36"> [US Facts](skills/B01M7SHGQ2)
+
+*Alexa, ask United States facts to tell me a fact*
+
+Want to know some interesting United States facts? Ask Alexa!
 
 ***
 
@@ -19522,6 +31893,30 @@ Learn about the United States Presidents.
 
 ***
 
+## &nbsp;<img src="skills/B01M4N4Y8J/skill_icon" alt="US President quiz icon" width="36"> [US President quiz](skills/B01M4N4Y8J)
+
+*Alexa Ask President Quiz*
+
+flash knowledge game about US president elected number
+
+***
+
+## &nbsp;<img src="skills/B01MDUKHE4/skill_icon" alt="US Presidential Facts icon" width="36"> [US Presidential Facts](skills/B01MDUKHE4)
+
+*Alexa Open Presidential Facts*
+
+Presidential Facts and Trivia, fun facts about US Presidents throughout American History.
+
+***
+
+## &nbsp;<img src="skills/B01LX1EIOV/skill_icon" alt="US Presidents Facts icon" width="36"> [US Presidents Facts](skills/B01LX1EIOV)
+
+*Alexa, open u. s. presidents facts*
+
+Facts about US Presidents
+
+***
+
 ## &nbsp;<img src="skills/B01H4I76J8/skill_icon" alt="US Quiz icon" width="36"> [US Quiz](skills/B01H4I76J8)
 
 *Alexa, ask US Quiz to start new game.*
@@ -19551,14 +31946,6 @@ This game allows the user to answer the corresponding state capitals.
 *Alexa, start US Capitals Trivia*
 
 A simple game of name that US State Capital.
-
-***
-
-## &nbsp;<img src="skills/B01DVP19FU/skill_icon" alt="US States Quiz icon" width="36"> [US States Quiz](skills/B01DVP19FU)
-
-*Alexa, ask states quiz*
-
-US States Quiz
 
 ***
 
@@ -19611,6 +31998,14 @@ Star Wars trivia game.
 
 ***
 
+## &nbsp;<img src="skills/B01N3K1471/skill_icon" alt="Useless Facts icon" width="36"> [Useless Facts](skills/B01N3K1471)
+
+*Alexa, open useless facts.*
+
+Gives a random, useless fact.
+
+***
+
 ## &nbsp;<img src="skills/B01DLQI45M/skill_icon" alt="Useless Trivia icon" width="36"> [Useless Trivia](skills/B01DLQI45M)
 
 *Alexa, open Useless Trivia*
@@ -19651,19 +32046,19 @@ A family friendly trivia quiz about the human body.
 
 ***
 
-## &nbsp;<img src="skills/B01EVRB37G/skill_icon" alt="UV Meter icon" width="36"> [UV Meter](skills/B01EVRB37G)
-
-*Alexa, ask UV Meter what is the UV index in Phoenix*
-
-Use UV Meter to get strength of sun’s UV rays in your city
-
-***
-
 ## &nbsp;<img src="skills/B01JVK5FCM/skill_icon" alt="UX Quotes icon" width="36"> [UX Quotes](skills/B01JVK5FCM)
 
 *Alexa, open u. x. quotes*
 
 Thought provoking quotes about UX
+
+***
+
+## &nbsp;<img src="skills/B01LXK2XH0/skill_icon" alt="Vacation Picker icon" width="36"> [Vacation Picker](skills/B01LXK2XH0)
+
+*Alexa, start Vacation Picker*
+
+Pick your travel destination based on a few simple preferences.
 
 ***
 
@@ -19683,6 +32078,14 @@ How to find movies when you don't know what you are looking for? Movie Finder he
 
 ***
 
+## &nbsp;<img src="skills/B01LZ9J0RE/skill_icon" alt="Vashon Island Trivia icon" width="36"> [Vashon Island Trivia](skills/B01LZ9J0RE)
+
+*Alexa, ask Vashon Trivia to tell me a Vashon Fact*
+
+Learn trivia about beautiful Vashon Island, Washington
+
+***
+
 ## &nbsp;<img src="skills/B01GZ8Y2V8/skill_icon" alt="Vasundhara Fashions icon" width="36"> [Vasundhara Fashions](skills/B01GZ8Y2V8)
 
 *Alexa, ask Vasundhara Fashions for store hours*
@@ -19699,11 +32102,27 @@ The Vectrex Wiki skill allows you to get information about the original Vectrex 
 
 ***
 
+## &nbsp;<img src="skills/B01LWDOBQO/skill_icon" alt="Vegan Facts icon" width="36"> [Vegan Facts](skills/B01LWDOBQO)
+
+*Alexa, ask Vegan Facts for a fact*
+
+Facts about vegan diets and veganism
+
+***
+
 ## &nbsp;<img src="skills/B01L8E9OBW/skill_icon" alt="Venezuela Facts icon" width="36"> [Venezuela Facts](skills/B01L8E9OBW)
 
 *Alexa, open Venezuela facts*
 
 Random facts about Venezuela
+
+***
+
+## &nbsp;<img src="skills/B01MCSSFZT/skill_icon" alt="Venice Facts icon" width="36"> [Venice Facts](skills/B01MCSSFZT)
+
+*Alexa, Open Venice Facts*
+
+This skill will tell you interesting information about Venice
 
 ***
 
@@ -19720,6 +32139,14 @@ Monitor and control your Skyport compatible thermostat. Alexa, set my living roo
 *Alexa, ask Verbivore for the word of the day*
 
 Broaden your vocabulary with Verbivore. This skill, perfect for scholars, educators and logophiles alike, allows Alexa to teach you a cool, new word every day.
+
+***
+
+## &nbsp;<img src="skills/B01LZ009TE/skill_icon" alt="Vermont Trivia icon" width="36"> [Vermont Trivia](skills/B01LZ009TE)
+
+*Alexa Open Vermont Trivia*
+
+Vermont Trivia
 
 ***
 
@@ -19744,6 +32171,22 @@ A convenience tool for staff members to access their schedules and productivity 
 *Alexa, ask video game facts to tell me a fact*
 
 Want to know some video game facts? Ask Alexa!
+
+***
+
+## &nbsp;<img src="skills/B01M4HEVQ3/skill_icon" alt="Video Game Facts icon" width="36"> [Video Game Facts](skills/B01M4HEVQ3)
+
+*Alexa ask Video Game Facts to tell me something*
+
+Let me tell you a quick fact about video games!
+
+***
+
+## &nbsp;<img src="skills/B01MDNRULB/skill_icon" alt="Video Game Trivia icon" width="36"> [Video Game Trivia](skills/B01MDNRULB)
+
+*Alexa, play Video Game Trivia*
+
+A trivia game about OverWatch
 
 ***
 
@@ -19779,6 +32222,22 @@ Vietnam Fact
 
 ***
 
+## &nbsp;<img src="skills/B01M19827Z/skill_icon" alt="Vietnamese Fact Skill icon" width="36"> [Vietnamese Fact Skill](skills/B01M19827Z)
+
+*Alexa, launch vietnamese facts*
+
+Get Facts about Vietnam
+
+***
+
+## &nbsp;<img src="skills/B01M32SEEB/skill_icon" alt="Viking Facts icon" width="36"> [Viking Facts](skills/B01M32SEEB)
+
+*Alexa, open Viking Facts*
+
+Viking Facts
+
+***
+
 ## &nbsp;<img src="skills/B01K8S453Q/skill_icon" alt="Vinli icon" width="36"> [Vinli](skills/B01K8S453Q)
 
 *Alexa, Ask Vinli for information about my last trip*
@@ -19795,11 +32254,11 @@ Learn about vinyl here.
 
 ***
 
-## &nbsp;<img src="skills/B01J765Z9S/skill_icon" alt="Viral Report icon" width="36"> [Viral Report](skills/B01J765Z9S)
+## &nbsp;<img src="skills/B01M4IK8CM/skill_icon" alt="Virginia facts icon" width="36"> [Virginia facts](skills/B01M4IK8CM)
 
-*Alexa open Viral Report*
+*Alexa open Virginia Facts*
 
-Viral Report tells you the most popular trending news from the most popular news and social media outlets.
+this skill gives facts about virginia to the user.
 
 ***
 
@@ -19859,6 +32318,14 @@ Vocab Helper for the SAT is a vocabulary aid that contains the most common SAT w
 
 ***
 
+## &nbsp;<img src="skills/B01M0N2MYO/skill_icon" alt="Vocab Quiz icon" width="36"> [Vocab Quiz](skills/B01M0N2MYO)
+
+*Alexa Open Vocab Quiz*
+
+helps in learning most common 400 english words
+
+***
+
 ## &nbsp;<img src="skills/B01IX4RGLK/skill_icon" alt="Voice Controlled Car Control icon" width="36"> [Voice Controlled Car Control](skills/B01IX4RGLK)
 
 *Alexa, open unoffical raspberry pi car*
@@ -19867,11 +32334,19 @@ With this skill, you can control your own custom toy car. This is for use with a
 
 ***
 
-## &nbsp;<img src="skills/B01DOKTTOU/skill_icon" alt="VoicePod icon" width="36"> [VoicePod](skills/B01DOKTTOU)
+## &nbsp;<img src="skills/B01L4N08GM/skill_icon" alt="Voice Wizard icon" width="36"> [Voice Wizard](skills/B01L4N08GM)
 
-*Alexa, ask voice pod to turn on the overhead lights*
+*Alexa, open voice wizard*
 
-The VoicePod skill lets you control and interact with the Control4 home automation system. Control lights, shades, AV, scenes and more!
+A skill that tells facts about Alexa
+
+***
+
+## &nbsp;<img src="skills/B01JAGBEAY/skill_icon" alt="VoiceMyBot icon" width="36"> [VoiceMyBot](skills/B01JAGBEAY)
+
+*Alexa, ask HipChat what happened*
+
+This skill connects your Alexa to HipChat. After adding this integration to HipChat you can ask Alexa to read recent messages to you including Notification from
 
 ***
 
@@ -19883,11 +32358,27 @@ Volleyball Facts
 
 ***
 
+## &nbsp;<img src="skills/B01M1ACI21/skill_icon" alt="Volunteer Facts icon" width="36"> [Volunteer Facts](skills/B01M1ACI21)
+
+*"Alexa, open Volunteer Facts."*
+
+Volunteer Facts
+
+***
+
 ## &nbsp;<img src="skills/B01K0X4PQG/skill_icon" alt="vox bot icon" width="36"> [vox bot](skills/B01K0X4PQG)
 
 *alexa, launch vox bot*
 
 Vox Bot enables to provide description of item, after browsing with next/previous range in nodes tree. End user can also access by type, either by tag or name
+
+***
+
+## &nbsp;<img src="skills/B01MEE5F82/skill_icon" alt="null" width="36"> [VUI Apps](skills/B01MEE5F82)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -19947,11 +32438,11 @@ Stay informed with primary and caucus election results, candidate information, g
 
 ***
 
-## &nbsp;<img src="skills/B01I49LU0W/skill_icon" alt="WaPo Olympics icon" width="36"> [WaPo Olympics](skills/B01I49LU0W)
+## &nbsp;<img src="skills/B01LWIC7JK/skill_icon" alt="War History icon" width="36"> [War History](skills/B01LWIC7JK)
 
-*Alexa, ask WaPo Olympics for the results of the one hundred meter hurdles.*
+*Alexa, open War History.*
 
-Stay informed with the latest Olympics medals, results, and schedules from Rio 2016. Presented by The Washington Post.
+Are you interested in war history? Rely on War History for notable events in war history for every day of the year.
 
 ***
 
@@ -19979,19 +32470,19 @@ Provide insights on recent policy decisions from the desk of the White House.
 
 ***
 
+## &nbsp;<img src="skills/B01MA27PEB/skill_icon" alt="Washington State Facts icon" width="36"> [Washington State Facts](skills/B01MA27PEB)
+
+*Alexa, ask Washington State Facts for a fact*
+
+Facts about Washington State
+
+***
+
 ## &nbsp;<img src="skills/B01FROAWB0/skill_icon" alt="Washington State Ferry icon" width="36"> [Washington State Ferry](skills/B01FROAWB0)
 
 *Alexa, ask Washington State Ferry when is the next ferry from Seattle to Bainbridge.*
 
 Use Washington State Ferry to get departure information for the Washington State Ferries.
-
-***
-
-## &nbsp;<img src="skills/B01ES9PXF0/skill_icon" alt="Washio icon" width="36"> [Washio](skills/B01ES9PXF0)
-
-*Alexa, ask Washio to do my laundry.*
-
-On Demand Dry Cleaning & Laundry.
 
 ***
 
@@ -20051,6 +32542,14 @@ A skill with some interesting facts about the gaming platform, Steam.
 
 ***
 
+## &nbsp;<img src="skills/B01LX85WWZ/skill_icon" alt="Watercolor Facts icon" width="36"> [Watercolor Facts](skills/B01LX85WWZ)
+
+*Alexa, open watercolor facts*
+
+Watercolor Facts provides general facts about watercolor painting so new painters can get started quickly.
+
+***
+
 ## &nbsp;<img src="skills/B01JDLQ9N8/skill_icon" alt="WavycloudInfo icon" width="36"> [WavycloudInfo](skills/B01JDLQ9N8)
 
 *Alexa launch cloud info and tell me a fact*
@@ -20064,6 +32563,30 @@ This will give you facts about wavycloud
 *Alexa, ask how do i sooth a crying baby for a tip*
 
 This skill offers tips to soothe a crying baby.
+
+***
+
+## &nbsp;<img src="skills/B01MQ6AGX7/skill_icon" alt="We Are Social ‘Headline of the Day’ icon" width="36"> [We Are Social ‘Headline of the Day’](skills/B01MQ6AGX7)
+
+*Alexa, Social Headline*
+
+Alexa, play Social Headline.
+
+***
+
+## &nbsp;<img src="skills/B01M0AUJN2/skill_icon" alt="null" width="36"> [Weald Creative](skills/B01M0AUJN2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LXZM7QV/skill_icon" alt="WeatherBug icon" width="36"> [WeatherBug](skills/B01LXZM7QV)
+
+*Alexa, ask WeatherBug for the current conditions in Chicago*
+
+WeatherBug
 
 ***
 
@@ -20099,11 +32622,35 @@ Track your weight.
 
 ***
 
+## &nbsp;<img src="skills/B01LYWTQZA/skill_icon" alt="Weight Gurus icon" width="36"> [Weight Gurus](skills/B01LYWTQZA)
+
+*Alexa, tell Weight Gurus to record 150 pounds.*
+
+Alexa works with the Weight Gurus app to help you meet fitness goals. Use voice commands to record your weight, set targets, and get updates on your progress.
+
+***
+
+## &nbsp;<img src="skills/B01LBYHZAG/skill_icon" alt="Weight Loss Tracker icon" width="36"> [Weight Loss Tracker](skills/B01LBYHZAG)
+
+*Alexa, ask Weight Loss Tracker to update my weight*
+
+Keep track of your weight loss and get real-time feedback about your body.
+
+***
+
 ## &nbsp;<img src="skills/B01ED4CPGA/skill_icon" alt="Weight Tracker icon" width="36"> [Weight Tracker](skills/B01ED4CPGA)
 
 *Alexa ask weight tracker to store one hundred sixty four pounds*
 
 Helps you to keep track of your weight. Just stand on a scale and tell Alexa to store your weight. You can also set a target and get reports.
+
+***
+
+## &nbsp;<img src="skills/B01MF63AFB/skill_icon" alt="Weird Facts icon" width="36"> [Weird Facts](skills/B01MF63AFB)
+
+*Alexa open Weird Facts*
+
+Enjoy listening to weird facts from around the world.
 
 ***
 
@@ -20115,11 +32662,43 @@ Weird US Laws
 
 ***
 
+## &nbsp;<img src="skills/B01LYHBYMM/skill_icon" alt="Weird Movie icon" width="36"> [Weird Movie](skills/B01LYHBYMM)
+
+*Alexa, open weird movie.*
+
+A skill to suggest a weird film, the year, and a tidbit of the weirdness. Parental Discretion Advised
+
+***
+
+## &nbsp;<img src="skills/B01LFPA3WS/skill_icon" alt="Weird Science icon" width="36"> [Weird Science](skills/B01LFPA3WS)
+
+*Alexa, open Weird Science*
+
+This skill tells the user random weird science facts.
+
+***
+
+## &nbsp;<img src="skills/B01LXAL36N/skill_icon" alt="Weird State Facts icon" width="36"> [Weird State Facts](skills/B01LXAL36N)
+
+*Alexa, open weird state facts and tell me something.*
+
+Weird State facts contains weird state laws
+
+***
+
 ## &nbsp;<img src="skills/B01GM0SWWY/skill_icon" alt="WeirdFacter icon" width="36"> [WeirdFacter](skills/B01GM0SWWY)
 
 *Alexa, ask weird fact for a weird fact.*
 
 WeirdFacter tells you a weird fact.
+
+***
+
+## &nbsp;<img src="skills/B01JTQCD3W/skill_icon" alt="Wemo icon" width="36"> [Wemo](skills/B01JTQCD3W)
+
+*There are no example interactions for this skill.*
+
+Control your Wemo switch products with your voice using Alexa
 
 ***
 
@@ -20131,11 +32710,43 @@ Radom quotes from Arsenal Manager - Arsene Wenger
 
 ***
 
+## &nbsp;<img src="skills/B01LYTWROE/skill_icon" alt="West Tides icon" width="36"> [West Tides](skills/B01LYTWROE)
+
+*Alexa, open west tides*
+
+'West Tides' tells you tides for major cities and tidal stations on the West Coast of the US.
+
+***
+
 ## &nbsp;<img src="skills/B01EC6F74G/skill_icon" alt="West Virginia Facts icon" width="36"> [West Virginia Facts](skills/B01EC6F74G)
 
 *Alexa open West Virginia Facts*
 
 Fun Facts about the State of West Virginia
+
+***
+
+## &nbsp;<img src="skills/B01LWCYLEY/skill_icon" alt="whale facts icon" width="36"> [whale facts](skills/B01LWCYLEY)
+
+*Alexa, open whale facts*
+
+Learn facts about whales!
+
+***
+
+## &nbsp;<img src="skills/B01N0647ET/skill_icon" alt="Whale Facts icon" width="36"> [Whale Facts](skills/B01N0647ET)
+
+*'Alexa, ask whale facts to tell me a whale fact'*
+
+Displays facts about whales
+
+***
+
+## &nbsp;<img src="skills/B01LH011GS/skill_icon" alt="Whale Shark Facts icon" width="36"> [Whale Shark Facts](skills/B01LH011GS)
+
+*Alexa, open whale shark facts.*
+
+Random facts about whale sharks.
 
 ***
 
@@ -20147,11 +32758,27 @@ Trivia game about whales
 
 ***
 
+## &nbsp;<img src="skills/B01LXURP5O/skill_icon" alt="What a Joke icon" width="36"> [What a Joke](skills/B01LXURP5O)
+
+*Alexa, open What a Joke*
+
+A skill to tell funny and not-so-funny one liner jokes.
+
+***
+
 ## &nbsp;<img src="skills/B01HCLE8VQ/skill_icon" alt="What beer? icon" width="36"> [What beer?](skills/B01HCLE8VQ)
 
 *Alexa, ask what beer goes with a burger?*
 
 "What beer?" knows beer pairs well with your meal. Need some help deciding what to drink? Just ask "What Beer?". Not Suitable for those under the drinking age
+
+***
+
+## &nbsp;<img src="skills/B01LZ2RDTV/skill_icon" alt="What Board Game to Play icon" width="36"> [What Board Game to Play](skills/B01LZ2RDTV)
+
+*Alexa launch board game picker*
+
+Have Alexa help you pick out a board game to play!
 
 ***
 
@@ -20171,6 +32798,14 @@ What color dress should I wear
 
 ***
 
+## &nbsp;<img src="skills/B01MQEO0YX/skill_icon" alt="What Country Should I Go icon" width="36"> [What Country Should I Go](skills/B01MQEO0YX)
+
+*Alexa, open what country should i go*
+
+Don't know what country to go to for your next vacation? Come open what country should i go and let us give you a suggestion.
+
+***
+
 ## &nbsp;<img src="skills/B01KCYEAX6/skill_icon" alt="What Diet Decision icon" width="36"> [What Diet Decision](skills/B01KCYEAX6)
 
 *Alexa, start what diet*
@@ -20179,11 +32814,27 @@ What diet will ask you a few questions, and based upon your responses, recommend
 
 ***
 
+## &nbsp;<img src="skills/B01LWOPU0Q/skill_icon" alt="What do you need right now icon" width="36"> [What do you need right now](skills/B01LWOPU0Q)
+
+*Alexa, open what do you need right now*
+
+A quiz to determine what you need
+
+***
+
 ## &nbsp;<img src="skills/B01FG36DF6/skill_icon" alt="What does your startup do? icon" width="36"> [What does your startup do?](skills/B01FG36DF6)
 
 *Alexa ask startup generator to What does your startup do*
 
 Wait, what does your startup do?
+
+***
+
+## &nbsp;<img src="skills/B01M1LRMTO/skill_icon" alt="What happened today icon" width="36"> [What happened today](skills/B01M1LRMTO)
+
+*Alexa, ask Event Catalog, what happened today*
+
+Gives you an event that occurred on the same day and month as today (UTC date)
 
 ***
 
@@ -20200,6 +32851,94 @@ Learn about the cloud computing products offered by Amazon Web Services
 *Alexa, Open Lorem Ipsum*
 
 This app give you random facts about the commonly used placeholder text, Lorem Ipsum.
+
+***
+
+## &nbsp;<img src="skills/B01LYYUZDI/skill_icon" alt="what is your swimmer type icon" width="36"> [what is your swimmer type](skills/B01LYYUZDI)
+
+*Alexa, open what is your swimmer type*
+
+Fun classification of different types of swimmers
+
+***
+
+## &nbsp;<img src="skills/B01M2X3IIH/skill_icon" alt="what kind of wine should i drink icon" width="36"> [what kind of wine should i drink](skills/B01M2X3IIH)
+
+*Alexa, open what kind of wine should I drink*
+
+Wine Pairing skill. May not be suitable for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01M1KUSZU/skill_icon" alt="What Pet icon" width="36"> [What Pet](skills/B01M1KUSZU)
+
+*Alexa, open what pet*
+
+What Pet?
+
+***
+
+## &nbsp;<img src="skills/B01LYEE6RX/skill_icon" alt="What pet should I get? icon" width="36"> [What pet should I get?](skills/B01LYEE6RX)
+
+*alexa start what pet should i get*
+
+A fun quiz to help you choose your next pet.
+
+***
+
+## &nbsp;<img src="skills/B01LYKCRVR/skill_icon" alt="What Should I Eat icon" width="36"> [What Should I Eat](skills/B01LYKCRVR)
+
+*Alexa open what should i eat*
+
+A short quiz that will tell you what you should eat based on preference
+
+***
+
+## &nbsp;<img src="skills/B01LY5GVR6/skill_icon" alt="What Should I Eat? (Singapore Version) icon" width="36"> [What Should I Eat? (Singapore Version)](skills/B01LY5GVR6)
+
+*Alexa, open what should I eat*
+
+What Should I Eat? (Singapore Version)
+
+***
+
+## &nbsp;<img src="skills/B01LXC4816/skill_icon" alt="What should I watch icon" width="36"> [What should I watch](skills/B01LXC4816)
+
+*alexa, start what should i watch*
+
+Let's find a movie or tv show to watch - when we can't think of anything else.
+
+***
+
+## &nbsp;<img src="skills/B01LI63TDO/skill_icon" alt="what to eat icon" width="36"> [what to eat](skills/B01LI63TDO)
+
+*Alexa, ask food expert*
+
+A simple questionnaire to quickly decide what kind of food to eat.
+
+***
+
+## &nbsp;<img src="skills/B01LWDCLWH/skill_icon" alt="What To Eat For Lunch - Charlottesville icon" width="36"> [What To Eat For Lunch - Charlottesville](skills/B01LWDCLWH)
+
+*Alexa, open downtown eats*
+
+Figure out what to get for lunch on Charlottesville's downtown mall.
+
+***
+
+## &nbsp;<img src="skills/B01JK91WBW/skill_icon" alt="What To Expect icon" width="36"> [What To Expect](skills/B01JK91WBW)
+
+*Alexa, open What to Expect*
+
+What to Expect, the world's #1 pregnancy brand, guides you through pregnancy and beyond. Track your baby’s growth and get daily tips & updates from our experts!
+
+***
+
+## &nbsp;<img src="skills/B01M30E8VU/skill_icon" alt="What Would Mr. West Say icon" width="36"> [What Would Mr. West Say](skills/B01M30E8VU)
+
+*Alexa, open What Would Mr. West Say*
+
+Gives advice uttered by Mr. West.
 
 ***
 
@@ -20227,11 +32966,11 @@ A daily horoscope.
 
 ***
 
-## &nbsp;<img src="skills/B01KY11AVM/skill_icon" alt="What's Playing icon" width="36"> [What's Playing](skills/B01KY11AVM)
+## &nbsp;<img src="skills/B01LWMBJXG/skill_icon" alt="What's on Tap at WT icon" width="36"> [What's on Tap at WT](skills/B01LWMBJXG)
 
-*Alexa, Ask What's Playing on the History Channel*
+*Alexa, open w. t. on tap*
 
-Find out what's playing on TV right now!
+Find out what's on tap at WillowTree HQ! Note: May not be suitable for all ages.
 
 ***
 
@@ -20267,6 +33006,14 @@ Try to make a decision of where to go
 
 ***
 
+## &nbsp;<img src="skills/B01M6AFH5L/skill_icon" alt="Where'sMyPhone icon" width="36"> [Where'sMyPhone](skills/B01M6AFH5L)
+
+*Alexa, open Where'sMyPhone*
+
+Ever lose your phone under the couch? Find any mobile phone in seconds with Where'sMyPhone.
+
+***
+
 ## &nbsp;<img src="skills/B01DRKF6VW/skill_icon" alt="WhereToPark icon" width="36"> [WhereToPark](skills/B01DRKF6VW)
 
 *Alexa, ask Parking Near Me for "Good parking in New York City."*
@@ -20280,6 +33027,62 @@ Where To Park
 *Alexa, ask Which Demagogue to start new game.*
 
 Can you guess which famous demagogue uttered a given quote?
+
+***
+
+## &nbsp;<img src="skills/B01M4IIMJ3/skill_icon" alt="Which Food? icon" width="36"> [Which Food?](skills/B01M4IIMJ3)
+
+*Alexa, ask which food.*
+
+Answer a series of questions to find out which food you should eat!  Simple, fast, and fun!
+
+***
+
+## &nbsp;<img src="skills/B01LFV4A3K/skill_icon" alt="Which Hikes You Want icon" width="36"> [Which Hikes You Want](skills/B01LFV4A3K)
+
+*Alexa, open Which Hikes You Want*
+
+help user decide which hikes the user want
+
+***
+
+## &nbsp;<img src="skills/B01LWCE2AU/skill_icon" alt="Which Subject You Like icon" width="36"> [Which Subject You Like](skills/B01LWCE2AU)
+
+*Alexa, open which subject you like*
+
+This skill determines which academic subject interests you.
+
+***
+
+## &nbsp;<img src="skills/B01LWSACEC/skill_icon" alt="Whiskey Facts icon" width="36"> [Whiskey Facts](skills/B01LWSACEC)
+
+*Alexa, ask Whiskey Facts to give me a whiskey fact.*
+
+A skill that will recite facts about whiskey. Intended  for those ages 21 and over.
+
+***
+
+## &nbsp;<img src="skills/B01M7X1833/skill_icon" alt="Whiskey Geek icon" width="36"> [Whiskey Geek](skills/B01M7X1833)
+
+*Alexa, ask whiskey geek.*
+
+Random facts on whiskey types and some origin facts.
+
+***
+
+## &nbsp;<img src="skills/B01MAWQQVW/skill_icon" alt="Whisky or Whiskey? Quiz by Inside the Cask icon" width="36"> [Whisky or Whiskey? Quiz by Inside the Cask](skills/B01MAWQQVW)
+
+*Alexa open whisky or whiskey*
+
+Whisky or Whiskey? Quiz
+
+***
+
+## &nbsp;<img src="skills/B01LWU85UD/skill_icon" alt="White Noise icon" width="36"> [White Noise](skills/B01LWU85UD)
+
+*Alexa start white noise*
+
+Play white noises to help sleep or remain calm
 
 ***
 
@@ -20307,11 +33110,51 @@ Facts about Whitehall, Ohio.
 
 ***
 
+## &nbsp;<img src="skills/B01M0YKN3Y/skill_icon" alt="null" width="36"> [Whizzy Labs](skills/B01M0YKN3Y)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## &nbsp;<img src="skills/B01LYOESR0/skill_icon" alt="Who died today icon" width="36"> [Who died today](skills/B01LYOESR0)
+
+*Alexa, ask Death Catalog, who died today*
+
+Gives you the name, occupation and death year of a person who died on the same day and month as today (UTC date)
+
+***
+
 ## &nbsp;<img src="skills/B01HLE3NDS/skill_icon" alt="Who Do You Like icon" width="36"> [Who Do You Like](skills/B01HLE3NDS)
 
 *Alexa, ask like statement who do you hate*
 
 Find Out Who You Like
+
+***
+
+## &nbsp;<img src="skills/B01LWLNY5E/skill_icon" alt="Who is Ahead 2016 icon" width="36"> [Who is Ahead 2016](skills/B01LWLNY5E)
+
+*Alexa, Ask Who Is Ahead*
+
+Who is ahead in the 2016 Presidential Race?
+
+***
+
+## &nbsp;<img src="skills/B01M8LQ5D6/skill_icon" alt="Who is Phillip Pham icon" width="36"> [Who is Phillip Pham](skills/B01M8LQ5D6)
+
+*Alexa, open who is Phillip Pham*
+
+Fun Facts about Phillip Pham (me, student and entrepreneur)
+
+***
+
+## &nbsp;<img src="skills/B01LWMJY2L/skill_icon" alt="Who is Thomas? icon" width="36"> [Who is Thomas?](skills/B01LWMJY2L)
+
+*Alexa, open who is Thomas*
+
+Who is Thomas provides fun facts about Thomas Geelens.
 
 ***
 
@@ -20339,11 +33182,27 @@ Who Wants To be the smartest guy ?
 
 ***
 
+## &nbsp;<img src="skills/B01LX1R196/skill_icon" alt="Who was born today icon" width="36"> [Who was born today](skills/B01LX1R196)
+
+*Alexa, ask Birth Catalog, who was born today*
+
+Gives you the name, occupation and birth year of a person who was born on the same day and month as today (UTC date)
+
+***
+
 ## &nbsp;<img src="skills/B01H4S4QPA/skill_icon" alt="Who Wrote It? icon" width="36"> [Who Wrote It?](skills/B01H4S4QPA)
 
 *Alexa play Who Wrote It*
 
 Did you pay attention in English Literature class? Put your knowledge to the test by matching the author to their famous work.
+
+***
+
+## &nbsp;<img src="skills/B01MFFVQ7L/skill_icon" alt="Who's First? icon" width="36"> [Who's First?](skills/B01MFFVQ7L)
+
+*Alexa, ask who's first*
+
+Helps you decide who gets the first turn when you are starting a card or board game.
 
 ***
 
@@ -20355,11 +33214,27 @@ Abbott and Costello's classic baseball skit: Who's On First?
 
 ***
 
+## &nbsp;<img src="skills/B01LZDF4HF/skill_icon" alt="Who's That Pokemon - Unofficial icon" width="36"> [Who's That Pokemon - Unofficial](skills/B01LZDF4HF)
+
+*Alexa, start Pokemon Fan Quiz*
+
+Guess the name of the Pokemon in the Alexa app!
+
+***
+
 ## &nbsp;<img src="skills/B01GME2A28/skill_icon" alt="Why Join the Knights of Columbus? icon" width="36"> [Why Join the Knights of Columbus?](skills/B01GME2A28)
 
 *Alexa, ask k. of c. why I should join the Knights of Columbus.*
 
 Why Join the Knights of Columbus?
+
+***
+
+## &nbsp;<img src="skills/B01M58YZDQ/skill_icon" alt="Why Quit Facts icon" width="36"> [Why Quit Facts](skills/B01M58YZDQ)
+
+*Alexa ask why quit a quit fact.*
+
+Quit Facts provides reminders on why becoming or staying a non-smoker
 
 ***
 
@@ -20376,6 +33251,14 @@ The wife manual, everything you need to know to maintain a happy wife
 *Alexa, ask Wiggly Words to tell me a funny word*
 
 This skill gives you a random funny word with the definition.
+
+***
+
+## &nbsp;<img src="skills/B01H7S7CYE/skill_icon" alt="WigWag Skill icon" width="36"> [WigWag Skill](skills/B01H7S7CYE)
+
+*Alexa, ask wigwag to turn everything on*
+
+Use Alexa to control your WigWag system
 
 ***
 
@@ -20416,6 +33299,14 @@ Want to be able to ask Alexa what the wind conditions are like for your city?
 *Alexa open wind cast and get wind information for Seattle*
 
 Windcast is the world's most accurate and easiest to use wind forecasting skill for Alexa.
+
+***
+
+## &nbsp;<img src="skills/B01KU6HNV2/skill_icon" alt="Wine Assistant icon" width="36"> [Wine Assistant](skills/B01KU6HNV2)
+
+*Alexa start wine assistant*
+
+Application that helps you select different type of wines depending on your mood. Disclaimer: This application is not suitable for all ages. You must be at leas
 
 ***
 
@@ -20460,11 +33351,35 @@ Wine Facts
 
 ***
 
+## &nbsp;<img src="skills/B01M99DVA4/skill_icon" alt="Wine Facts icon" width="36"> [Wine Facts](skills/B01M99DVA4)
+
+*Alexa, open wine facts.*
+
+Facts about wine, delicious for your ears as well as your taste buds. Just ask.
+
+***
+
+## &nbsp;<img src="skills/B01M0XZY43/skill_icon" alt="Wine Recommender icon" width="36"> [Wine Recommender](skills/B01M0XZY43)
+
+*Alexa, open wine recommender*
+
+This skill helps you select a suitable wine for any meal or occasion!
+
+***
+
 ## &nbsp;<img src="skills/B01DL3G90M/skill_icon" alt="Wine Trivia icon" width="36"> [Wine Trivia](skills/B01DL3G90M)
 
 *Alexa, play Wine Trivia*
 
 Random wine trivia fact game
+
+***
+
+## &nbsp;<img src="skills/B01M4O7VF3/skill_icon" alt="WineAdvisor icon" width="36"> [WineAdvisor](skills/B01M4O7VF3)
+
+*alexa ask the wine advisor what wine is good with fish*
+
+The Treycent Wine Advisor answers your wine pairing questions.
 
 ***
 
@@ -20500,11 +33415,43 @@ Winter is Coming Trivia is a skill built as a fun trivia game, based on the popu
 
 ***
 
+## &nbsp;<img src="skills/B01KSPJ7FA/skill_icon" alt="Wireless Tag icon" width="36"> [Wireless Tag](skills/B01KSPJ7FA)
+
+*There are no example interactions for this skill.*
+
+Wireless Sensor Tags
+
+***
+
 ## &nbsp;<img src="skills/B01IWPAJ1Y/skill_icon" alt="Wise Cracks icon" width="36"> [Wise Cracks](skills/B01IWPAJ1Y)
 
 *Alexa Open Wise Cracks*
 
 This is a really cool small collection of knock knock jokes
+
+***
+
+## &nbsp;<img src="skills/B01KW8U8OC/skill_icon" alt="Wiser Air icon" width="36"> [Wiser Air](skills/B01KW8U8OC)
+
+*Alexa, ask Wiser Air to discover devices*
+
+The Wiser skill enables voice control of Wiser Air. In this release, users can control their setpoint and query the indoor temperature on a single thermostat.
+
+***
+
+## &nbsp;<img src="skills/B01LX3IXFX/skill_icon" alt="Wishing Well icon" width="36"> [Wishing Well](skills/B01LX3IXFX)
+
+*Alexa, ask wishing well for a wish.*
+
+Think of a wish and then ask wishing well to grant your wish.
+
+***
+
+## &nbsp;<img src="skills/B01LY4JD6O/skill_icon" alt="witcher facts icon" width="36"> [witcher facts](skills/B01LY4JD6O)
+
+*Alexa, ask witcher facts*
+
+Learn facts about the witcher!
 
 ***
 
@@ -20524,11 +33471,35 @@ Gives random facts
 
 ***
 
-## &nbsp;<img src="skills/B01IVFOIAI/skill_icon" alt="null" width="36"> [WiZN Systems Private Limited](skills/B01IVFOIAI)
+## &nbsp;<img src="skills/B01LJUN3VC/skill_icon" alt="Wizard Harry icon" width="36"> [Wizard Harry](skills/B01LJUN3VC)
 
-*There are no example interactions for this skill.*
+*Alexa, ask wizard Harry for a fact*
 
-null
+This  skill  give  you  random magical  facts of Harry Potter
+
+***
+
+## &nbsp;<img src="skills/B01M319RHO/skill_icon" alt="Wolf Facts icon" width="36"> [Wolf Facts](skills/B01M319RHO)
+
+*Alexa Open wolf facts*
+
+Are you interested in wolves? Just use Wolf Facts to Know them.
+
+***
+
+## &nbsp;<img src="skills/B01MFF481X/skill_icon" alt="wolfFact icon" width="36"> [wolfFact](skills/B01MFF481X)
+
+*Alexa, start wolf facts*
+
+A skill that tells you some amazing facts about wolf!
+
+***
+
+## &nbsp;<img src="skills/B01MG87M66/skill_icon" alt="Wolverhampton Facts icon" width="36"> [Wolverhampton Facts](skills/B01MG87M66)
+
+*Alexa, open wolverhampton facts*
+
+Discover interesting facts about Wolverhampton
 
 ***
 
@@ -20564,12 +33535,44 @@ Get Woot's daily deals straight from Alexa, just ask Woot "What is today's deal?
 
 ***
 
+## &nbsp;<img src="skills/B01L0UBN4K/skill_icon" alt="Word Chain icon" width="36"> [Word Chain](skills/B01L0UBN4K)
+
+*Alexa play word chain*
+
+Word Game is an interactive educational game that aims to challenge your knowledge of countries and US states and capitals.
+
+***
+
+## &nbsp;<img src="skills/B01LXMICC6/skill_icon" alt="Word Count icon" width="36"> [Word Count](skills/B01LXMICC6)
+
+*Alexa, count words*
+
+Tool to count words and letters in a sentence
+
+***
+
+## &nbsp;<img src="skills/B01M0FIT4C/skill_icon" alt="Word Juggler icon" width="36"> [Word Juggler](skills/B01M0FIT4C)
+
+*Alexa, open Word Juggler.*
+
+A challenging word game!
+
+***
+
 ## &nbsp;<img src="skills/B01J8ID35I/skill_icon" alt="Word of the Day icon" width="36"> [Word of the Day](skills/B01J8ID35I)
 
 *Alexa, ask word of the day for word.*
 
 Word of the Day will give the Macmillian Dictionary's word of the day.
 Alexa, ask word of the day for word.
+
+***
+
+## &nbsp;<img src="skills/B01LY0335O/skill_icon" alt="Word of the Day for Wordnik icon" width="36"> [Word of the Day for Wordnik](skills/B01LY0335O)
+
+*Alexa, ask word of the day for today's word*
+
+A skill to read you today's word of the day for Wordnik
 
 ***
 
@@ -20581,11 +33584,27 @@ American English pronunciation game
 
 ***
 
+## &nbsp;<img src="skills/B01M0VC043/skill_icon" alt="Word Scrambler icon" width="36"> [Word Scrambler](skills/B01M0VC043)
+
+*Alexa, ask scramble words to mix the sentence my hovercraft is full of eels*
+
+Alexa will mix up your sentence
+
+***
+
 ## &nbsp;<img src="skills/B01GTA4WMQ/skill_icon" alt="Word Source icon" width="36"> [Word Source](skills/B01GTA4WMQ)
 
 *Alexa, ask Word Source what is the etymology of plant*
 
 Simply ask Alexa about any word to learn about its origins.
+
+***
+
+## &nbsp;<img src="skills/B01L4SJE9O/skill_icon" alt="Words of Motivation icon" width="36"> [Words of Motivation](skills/B01L4SJE9O)
+
+*Alexa, open Words of Motivation*
+
+Words of motivation
 
 ***
 
@@ -20605,6 +33624,22 @@ A word trivia game to test and broaden your vocabulary.
 
 ***
 
+## &nbsp;<img src="skills/B01LWLZB9P/skill_icon" alt="Work Excuse icon" width="36"> [Work Excuse](skills/B01LWLZB9P)
+
+*Alexa, ask Work Excuse to say a work excuse*
+
+Funny skill for those wanting to hear funny office excuses. Informative for those who want to use it.
+
+***
+
+## &nbsp;<img src="skills/B01M9C8V18/skill_icon" alt="Work Time Tracker icon" width="36"> [Work Time Tracker](skills/B01M9C8V18)
+
+*Alexa ask Time Tracker to start tracking*
+
+Tracks your work time.
+
+***
+
 ## &nbsp;<img src="skills/B01EWC8MOW/skill_icon" alt="Workout Buddy icon" width="36"> [Workout Buddy](skills/B01EWC8MOW)
 
 *Alexa, ask Workout Buddy for a workout*
@@ -20613,11 +33648,27 @@ This skill gives you a random exercise to do.
 
 ***
 
+## &nbsp;<img src="skills/B01N8ZLK2J/skill_icon" alt="Workout Gears icon" width="36"> [Workout Gears](skills/B01N8ZLK2J)
+
+*Workout Gears what's my next routine?*
+
+test skill for testing hey1
+
+***
+
 ## &nbsp;<img src="skills/B01GDC881Q/skill_icon" alt="WorkoutHelper icon" width="36"> [WorkoutHelper](skills/B01GDC881Q)
 
 *Alexa, ask Workout Helper what workout is suitable when I am happy*
 
 WorkoutHelper is a skill that can help you with workout recipes for your current mood.
+
+***
+
+## &nbsp;<img src="skills/B01LWRGQHD/skill_icon" alt="World Capital Quiz icon" width="36"> [World Capital Quiz](skills/B01LWRGQHD)
+
+*Alexa Ask capital Quiz to start new game*
+
+Quiz for capital of the World countries
 
 ***
 
@@ -20634,6 +33685,14 @@ Learn about the capitals of the world!
 *Alexa, open World Capitals*
 
 Play a game and master world capital cities.
+
+***
+
+## &nbsp;<img src="skills/B01LZXA2KM/skill_icon" alt="world clock icon" width="36"> [world clock](skills/B01LZXA2KM)
+
+*Alexa, ask world clock what's the time in San Francisco*
+
+Get to know what time it is anywhere in the world!
 
 ***
 
@@ -20669,6 +33728,30 @@ World facts
 
 ***
 
+## &nbsp;<img src="skills/B01LZXVK05/skill_icon" alt="World Facts icon" width="36"> [World Facts](skills/B01LZXVK05)
+
+*Alexa, ask world facts to tell me a good vacation destination*
+
+Provides trivia about some travel destinations
+
+***
+
+## &nbsp;<img src="skills/B01M242BVM/skill_icon" alt="World food icon" width="36"> [World food](skills/B01M242BVM)
+
+*Alexa, ask world food i want to eat somewhere else*
+
+Want to try some new food from a different country but can't think of a country? Let alexa find you a great country to eat from.
+
+***
+
+## &nbsp;<img src="skills/B01LXKRFVU/skill_icon" alt="World Football icon" width="36"> [World Football](skills/B01LXKRFVU)
+
+*Alexa, ask World Football what was the result for Barcelona last match*
+
+Get match dates and results for all LA LIGA and Permier League Teams
+
+***
+
 ## &nbsp;<img src="skills/B01I24QYUA/skill_icon" alt="World Geography Quiz icon" width="36"> [World Geography Quiz](skills/B01I24QYUA)
 
 *Alexa, launch Geographic Quiz*
@@ -20690,6 +33773,14 @@ Are you interested in world history? Rely on World History for hundreds of event
 *Alexa, open World Holidays.*
 
 Are you interested in world holidays? Rely on World Holidays for dozens of world holidays for every day of the year.
+
+***
+
+## &nbsp;<img src="skills/B01MCS069C/skill_icon" alt="World Landmarks Trivia icon" width="36"> [World Landmarks Trivia](skills/B01MCS069C)
+
+*Alexa, Open World Landmarks*
+
+World Landmarks Trivia Game
 
 ***
 
@@ -20725,6 +33816,14 @@ Learn about unofficial World Records facts.
 
 ***
 
+## &nbsp;<img src="skills/B01LY4SNDN/skill_icon" alt="World religion icon" width="36"> [World religion](skills/B01LY4SNDN)
+
+*Alexa ask world religion what is the religion of United States of America*
+
+World religion Information
+
+***
+
 ## &nbsp;<img src="skills/B01KLG2VDG/skill_icon" alt="World Series Champs Trivia Game icon" width="36"> [World Series Champs Trivia Game](skills/B01KLG2VDG)
 
 *Alexa, open world series champs*
@@ -20740,6 +33839,14 @@ Baseball multiple choice trivia of the World Series champs.  Question is the yea
 Are You A World War II Whiz?
 Test your knowledge about the deadliest war in history.
 You may have aced history class, but can you crack our questions?
+
+***
+
+## &nbsp;<img src="skills/B01M02SV50/skill_icon" alt="World's Biggest icon" width="36"> [World's Biggest](skills/B01M02SV50)
+
+*Alexa, open world's biggest*
+
+Random facts about the world's biggest things.
 
 ***
 
@@ -20775,6 +33882,14 @@ A fun way to play the classic game, Would You Rather, with your Amazon Echo.  Gr
 
 ***
 
+## &nbsp;<img src="skills/B01M2WF37S/skill_icon" alt="WoW Token Price (Unofficial) icon" width="36"> [WoW Token Price (Unofficial)](skills/B01M2WF37S)
+
+*Alexa, ask token price*
+
+Get the current World of Warcraft token gold price (unofficial)
+
+***
+
 ## &nbsp;<img src="skills/B01KMOJ3UG/skill_icon" alt="WOWTrivia icon" width="36"> [WOWTrivia](skills/B01KMOJ3UG)
 
 *Alexa, tell wow trivia to start*
@@ -20788,6 +33903,22 @@ This is an Alexa skill that test user on knowledge about online game video game 
 *Alexa, ask Wrestling Facts to tell me a fact about wrestling.*
 
 Learn fun and exciting facts about the history of the sport of Wrestling.
+
+***
+
+## &nbsp;<img src="skills/B01LZX4X90/skill_icon" alt="Writing Prompt icon" width="36"> [Writing Prompt](skills/B01LZX4X90)
+
+*Alexa, launch writing prompt*
+
+Sample writing prompts for stories and poems.
+
+***
+
+## &nbsp;<img src="skills/B01LXT8OO6/skill_icon" alt="Yahoo Fantasy Football icon" width="36"> [Yahoo Fantasy Football](skills/B01LXT8OO6)
+
+*Alexa, ask Yahoo Fantasy Football for a score update*
+
+Ready to track your stats? Find out how your team did this week and who’s on the field next, with Yahoo Fantasy Football for Alexa.
 
 ***
 
@@ -20823,6 +33954,38 @@ Find out when your favorite Yellowstone geyser will erupt!
 
 ***
 
+## &nbsp;<img src="skills/B01MREEMZ1/skill_icon" alt="Yes from Around the World icon" width="36"> [Yes from Around the World](skills/B01MREEMZ1)
+
+*Alexa, Teach me Yes*
+
+Learn to say yes in multiple languages!
+
+***
+
+## &nbsp;<img src="skills/B01M2D3AUK/skill_icon" alt="Yes Machine icon" width="36"> [Yes Machine](skills/B01M2D3AUK)
+
+*Alexa, start yes machine*
+
+This skill says yes when you start it. You will be affirmed.
+
+***
+
+## &nbsp;<img src="skills/B01LYM9JX7/skill_icon" alt="Yes or No Answer icon" width="36"> [Yes or No Answer](skills/B01LYM9JX7)
+
+*Alexa, open magic eight ball*
+
+A quick yes or no answer.
+
+***
+
+## &nbsp;<img src="skills/B01L0ALM50/skill_icon" alt="YNAB icon" width="36"> [YNAB](skills/B01L0ALM50)
+
+*Alexa, ask Why Nab for the balance of Groceries*
+
+"Alexa, ask Why Nab for the balance of Groceries"
+
+***
+
 ## &nbsp;<img src="skills/B01HN7Y0IU/skill_icon" alt="Yo Mama icon" width="36"> [Yo Mama](skills/B01HN7Y0IU)
 
 *Alexa, ask yo mama how old is her mama*
@@ -20844,6 +34007,14 @@ Yo Mama Jokes
 *Alexa, ask Mom Jokes to tell me a joke.*
 
 Tells a "yo momma" joke. Have Alexa start it, or ask it for a joke by saying "Alexa, ask Mom Jokes to tell me a joke." May not be appropriate for all ages.
+
+***
+
+## &nbsp;<img src="skills/B01LVVMK8K/skill_icon" alt="Yoga Facts icon" width="36"> [Yoga Facts](skills/B01LVVMK8K)
+
+*Alexa, open yoga facts*
+
+Yoga is considered the first step in spirituality. Just say "Alexa, open yoga facts"
 
 ***
 
@@ -20875,7 +34046,7 @@ Yo Mama jokes
 
 *There are no example interactions for this skill.*
 
-Yonomi connects all of your devices under one roof for free – including Sonos, Logitech Harmony, Hue and more. Control all of your devices with just your voice!
+Yonomi connects all of your devices under one roof for free, like Sonos, Harmony,  Hue, and more. Control your devices with just your voice - no hub required!
 
 ***
 
@@ -20884,14 +34055,6 @@ Yonomi connects all of your devices under one roof for free – including Sonos,
 *Alexa, launch you don't say*
 
 Getting know facts is FUN
-
-***
-
-## &nbsp;<img src="skills/B01FN3BEF8/skill_icon" alt="Young Poet: Poems Every Child Should Know icon" width="36"> [Young Poet: Poems Every Child Should Know](skills/B01FN3BEF8)
-
-*Alexa, Launch Young Poet.*
-
-The Young Poet is a random collection of poems for children of all ages. Enable the skill to ask for today's poem or the daily rhyme.
 
 ***
 
@@ -20911,11 +34074,35 @@ I am your daily friend and can do many things for you.  Such as play fun games a
 
 ***
 
+## &nbsp;<img src="skills/B01LWVOU0H/skill_icon" alt="yvonne state capital facts icon" width="36"> [yvonne state capital facts](skills/B01LWVOU0H)
+
+*alexa, open yvonne state capitals*
+
+This skill will give you a random U.S. state and it's capital.
+
+***
+
+## &nbsp;<img src="skills/B01M0HMH48/skill_icon" alt="Yvonne Trivia Games icon" width="36"> [Yvonne Trivia Games](skills/B01M0HMH48)
+
+*alexa, open yvonne trivia games*
+
+A fun trivia game with questions hand picked by the author of this skill, Yvonne!
+
+***
+
 ## &nbsp;<img src="skills/B01IAYJEBS/skill_icon" alt="Zamunda Games icon" width="36"> [Zamunda Games](skills/B01IAYJEBS)
 
 *Alexa, open Zamunda Games*
 
 Trivia game for the 1988 Eddie Murphy Class movie, Coming to America.
+
+***
+
+## &nbsp;<img src="skills/B01MCTIM45/skill_icon" alt="Zeba Fun Facts icon" width="36"> [Zeba Fun Facts](skills/B01MCTIM45)
+
+*Alexa ask Zebra Fun Facts for a fun fact about Zebras*
+
+Tells you fun facts about Zebras
 
 ***
 
@@ -20959,6 +34146,22 @@ ZipCode
 
 ***
 
+## &nbsp;<img src="skills/B01LY52EW1/skill_icon" alt="Zipcode Lookup icon" width="36"> [Zipcode Lookup](skills/B01LY52EW1)
+
+*Alexa ask zipcode lookup to find zipcode 54241*
+
+Lookup a city from a zipcode.  Also, get a list of zipcodes for a city.
+
+***
+
+## &nbsp;<img src="skills/B01LX3FCTI/skill_icon" alt="Zlatan Quotes icon" width="36"> [Zlatan Quotes](skills/B01LX3FCTI)
+
+*Alexa ask Zlatan quotes for a quote*
+
+Best Zlatan quotes.
+
+***
+
 ## &nbsp;<img src="skills/B01DLNA69W/skill_icon" alt="Zodiac icon" width="36"> [Zodiac](skills/B01DLNA69W)
 
 *Alexa, ask Zodiac the sign of someone born on October fifth*
@@ -20967,11 +34170,27 @@ Find out the Zodiac sign for any date
 
 ***
 
+## &nbsp;<img src="skills/B01LM25PCM/skill_icon" alt="Zodiac Dates icon" width="36"> [Zodiac Dates](skills/B01LM25PCM)
+
+*Alexa, begin zodiac dates.*
+
+Zodiac Dates!
+
+***
+
 ## &nbsp;<img src="skills/B01L1D9154/skill_icon" alt="Zodiac Sun Signs icon" width="36"> [Zodiac Sun Signs](skills/B01L1D9154)
 
 *Alexa, open Sun Signs*
 
 Zodiac Sun Signs
+
+***
+
+## &nbsp;<img src="skills/B01L63CWFU/skill_icon" alt="ZOMA Worry Free Home icon" width="36"> [ZOMA Worry Free Home](skills/B01L63CWFU)
+
+*There are no example interactions for this skill.*
+
+Control ZOMA devices from Amazon Echo
 
 ***
 
@@ -20999,12 +34218,11 @@ Zoo Keeper: Talk to the Animals
 
 ***
 
-## &nbsp;<img src="skills/B01EAPCGTS/skill_icon" alt="Zoo Walk icon" width="36"> [Zoo Walk](skills/B01EAPCGTS)
+## &nbsp;<img src="skills/B01LYAVZNJ/skill_icon" alt="Zoo Trivia icon" width="36"> [Zoo Trivia](skills/B01LYAVZNJ)
 
-*Alexa, start zoo walk*
+*Alexa, ask Zoo Trivia to start game*
 
-A walk in the zoo: Guess animal names by their sounds. Great fun for young and old! Roar!
-New and improved version!
+A short trivia game to test your knowledge of zoo animals.
 
 ***
 
@@ -21016,8 +34234,24 @@ Animals are so weird, you guys. Do you know just how weird? Play this fun trivia
 
 ***
 
+## &nbsp;<img src="skills/B01LXZDXUV/skill_icon" alt="Zork (unofficial fan version) icon" width="36"> [Zork (unofficial fan version)](skills/B01LXZDXUV)
+
+*Alexa, Start Unofficial Zork*
+
+An official/fan remake of The Great Underground Empire, aka Zork
+
+***
+
 ## &nbsp;<img src="skills/B01DL9DP1M/skill_icon" alt="Zubie icon" width="36"> [Zubie](skills/B01DL9DP1M)
 
 *Alexa, ask Zubie, where is my car?*
 
 Zubie makes driving safer, easier and less expensive by connecting you with your cars.  You can ask Alexa about its location, activity, fuel status and more.
+
+***
+
+## &nbsp;<img src="skills/B01MEF4WD8/skill_icon" alt="Zumba Facts icon" width="36"> [Zumba Facts](skills/B01MEF4WD8)
+
+*Alexa open zumba facts*
+
+This skill gives you a random fact about Zumba

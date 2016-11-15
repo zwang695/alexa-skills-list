@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Keto Pal icon" width="36"> [Keto Pal](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d8a64ff8-0913-4ff9-a01b-743e8741eb8a)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Keto Pal skill, try saying...
 

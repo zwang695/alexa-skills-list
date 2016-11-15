@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Comic Book Character Quiz icon" width="36"> [Comic Book Character Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1124cee5-49b0-47ae-8345-2d0f35810302)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Comic Book Character Quiz skill, try saying...
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Spanish quiz icon" width="36"> [Spanish quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7ade4b41-fc2a-4b5b-9ad6-73eed28f3ded)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Spanish quiz skill, try saying...
 

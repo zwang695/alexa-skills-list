@@ -24,6 +24,6 @@ This skill is fun to play alone or compete with your family and friends to see w
 * **Category:** null
 * **ID:** amzn1.ask.skill.aa81f528-8873-4cb0-81ea-67c04d9cbf85
 * **ASIN:** B01KUKIBUK
-* **Author:** Cloudnova
+* **Author:** Suresh Gopal
 * **Release Date:** August 30, 2016 @ 04:32:53
 * **In-App Purchasing:** No

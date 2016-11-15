@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="World Capitals icon" width="36"> [World Capitals](http://alexa.amazon.com/#skills/amzn1.ask.skill.c0ad611b-7ba2-45f0-aab8-3af3ddcf715b)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the World Capitals skill, try saying...
 

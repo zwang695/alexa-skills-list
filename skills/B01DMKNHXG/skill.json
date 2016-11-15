@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01DMKNHXG",
-  "averageRating": 4.6,
+  "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -9,8 +9,8 @@
   "enablement": null,
   "exampleInteractions": [
     "Alexa Tell abode that I am leaving",
-    "Alexa Tell abode that I am home",
-    "Alexa Ask abode what is the current mode"
+    "Alexa Tell abode to standby",
+    "Alexa tell abode to lock all my doors"
   ],
   "firstReleaseDate": 1460638962.667,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "abode",
   "name": "abode",
-  "numberOfReviews": 5,
+  "numberOfReviews": 7,
   "pamsPartnerId": "uKnwEeS475bHhBecnZncByDhU",
   "permissions": null,
   "privacyPolicyUrl": "http://support.goabode.com/customer/en/portal/articles/2232128-privacy-policy",

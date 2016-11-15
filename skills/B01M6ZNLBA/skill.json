@@ -1,0 +1,37 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "scl.di.atlas.samsung.com",
+    "account.samsung.com"
+  ],
+  "asin": "B01M6ZNLBA",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Samsung Home appliances have become even more convenient with Alexa.\n\nTo get started, register your smart appliances using the Samsung Smart Home app on your iOS or Android device. To use this skill click the \"Enable Skill\" button on the Alexa app and link your Samsung Smart Appliances account by signing in with the account used in the app. Once your account is connected, click the \"Discover Devices\" button in the Alexa app or you can say \"Alexa, discover my devices\" to discover your Samsung appliances. \nFor more information about connecting Smart Home devices, please visit http://amzn.to/291lR7u.\n\nYou can turn on your robot vacuum by saying \"Alexa, ask Samsung to start robot vacuum\".\nTo change the mode, say \"Alexa, tellSamsung to set robot cleaner to max/normal/quiet mode\".\nYou can also take it back to the charger by saying, \"Alexa, ask Samsung to return Powerbot home\".\n\nIf you have any questions on Samsung appliances, please contact Samsung Suppport:\n-Robot vacuum: 1-800-SAMSUNG (726-7864)",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Samsung to start robot vacuum.",
+    "set robot cleaner to max mode.",
+    "return Powerbot home."
+  ],
+  "firstReleaseDate": 1478931239.718,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.c55109cf-21b7-447d-9802-9b730763683e",
+  "imageAltText": "Samsung Smart Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M6ZNLBA/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "samsung",
+  "name": "Samsung Smart Home",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "bSi2rR6pWG7d4FyXSosMvSRkG",
+  "permissions": null,
+  "privacyPolicyUrl": "https://account.samsung.com/membership/pp",
+  "shortDescription": "You can use voice commands to control your Samsung Smart Home appliances with Alexa.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M11P8IHQIXWYUI",
+  "vendorName": "Samsung Electronics"
+}

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Beer Advisor icon" width="36"> [Beer Advisor](http://alexa.amazon.com/#skills/amzn1.ask.skill.2fe614c2-1247-420b-adde-57908f687657)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Beer Advisor skill, try saying...
 

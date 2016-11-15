@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01G9F7HLE",
-  "averageRating": 0,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Luma creates an outrageously-fast, ultra-secure Surround WiFi network that’s customized for your home. Luma allows you to pause all devices assigned to a specific user on your network. If a device is unassigned (i.e. your smart thermostat or security cameras) the pause feature has no impact on those devices. You must have both an Amazon Echo and Luma Surround WiFi system.\n\nHow to use Alexa to control your Luma Surround WiFi:\n\n* Open your Alexa app.\n* Enable Luma WiFi skill\n* Account linking required\n* You’re now able to pause and resume your WiFi on demand.",
+  "description": "Luma creates an outrageously-fast, ultra-secure Surround WiFi network that’s customized for your home. Luma allows you to pause all devices assigned to a specific user on your network.  If a device is unassigned (i.e. your smart thermostat or security cameras) the pause feature has no impact on those devices. Luma also lets you prioritize a device, giving it the fastest connection to the internet. In order to take advantage of these great features, you must have one device from the Amazon Echo family of devices and a Luma Surround WiFi system.\n\nHow to use Alexa to control your Luma Surround WiFi:\n\n* Open your Alexa app.\n* Enable Luma WiFi skill\n* Account linking required\n* You can: Pause and unpause your network's WiFi on demand.   Pause and unpause a default user and their default devices (configured in the Luma app settings).  Prioritize and remove priority of default device (configured in the Luma app settings).",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Luma WiFi to pause",
     "Alexa, ask Luma WiFi to resume",
-    "Alexa, ask Luma WiFi for help"
+    "Alexa, ask Luma WiFi to prioritize my device"
   ],
   "firstReleaseDate": 1472167974.897,
   "homepageLinkText": null,
@@ -21,14 +21,14 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "luma wifi",
   "name": "Luma WiFi",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": "5KxFmGk875mmKUuXLjX7J8IRH",
   "permissions": null,
   "privacyPolicyUrl": "https://getluma.com/privacy-policy/",
   "shortDescription": "Control your Luma WiFi with Amazon Echo.",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "",
   "vendorId": "MMW1BUIL28SN3",
   "vendorName": "Luma"
 }

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01ISB25OG",
-  "averageRating": 1.5,
+  "averageRating": 1.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "riddle me",
   "name": "RiddleMeThis",
-  "numberOfReviews": 2,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

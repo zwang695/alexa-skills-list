@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01F9XBS26",
-  "averageRating": 0,
+  "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "reporter dee",
   "name": "Reporter for The Drudge Report",
-  "numberOfReviews": 0,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://github.com/Coding4Liberty/ASK-Reporter-for-The-Drudge-Report/wiki/Privacy-Policy",

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Piano Virtuoso icon" width="36"> [Piano Virtuoso](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dd691a47-55c9-4f41-8592-b541a574db6f)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Piano Virtuoso skill, try saying...
 

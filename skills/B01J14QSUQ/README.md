@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Geography Quiz icon" width="36"> [Geography Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf903f77-4b98-4cc3-b495-a10047c0c217)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Geography Quiz skill, try saying...
 

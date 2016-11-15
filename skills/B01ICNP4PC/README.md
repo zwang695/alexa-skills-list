@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Resistor Value icon" width="36"> [Resistor Value](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.00a362ea-b4c4-4d85-95b9-2e0c7c5283c9)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Resistor Value skill, try saying...
 

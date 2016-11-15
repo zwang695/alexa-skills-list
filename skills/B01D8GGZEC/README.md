@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bargain Buddy icon" width="36"> [Bargain Buddy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2564867-9211-4137-83ea-7fa5623c2e75)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Bargain Buddy skill, try saying...
 

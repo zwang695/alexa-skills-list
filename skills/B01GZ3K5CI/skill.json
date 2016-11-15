@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01GZ3K5CI",
-  "averageRating": 3.5,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Get inspired by an increasing number of poems about love, life and everything else.",
+  "description": "Get inspired by an increasing number of poems about life, nature and earth from poets like Emily Dickinson, William Yeats or Robert Frost.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask any poet about love",
     "Alexa, ask any poet about life",
-    "Alexa, ask any poet about snow"
+    "Alexa, ask any poet for dreams",
+    "Alexa, ask any poet on snow"
   ],
   "firstReleaseDate": 1466572532.878,
   "homepageLinkText": null,
@@ -21,14 +21,14 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "any poet",
   "name": "Poetry",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
-  "privacyPolicyUrl": null,
-  "shortDescription": "Poets on love, life and everything else",
+  "privacyPolicyUrl": "http://matthiaskoller.me/poetry_privacypolicy.htm",
+  "shortDescription": "Famous and aspiring poets on life, nature and earth.",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "http://matthiaskoller.me/poetry_termsofuse.htm",
   "vendorId": "M30J5GY75V5MRP",
   "vendorName": "Matthias Koller"
 }

@@ -5,11 +5,11 @@ To use the Wiki for Game of Thrones skill, try saying...
 
 * *Alexa ask king's landing what house is Jon Snow from*
 
-* *tell me about Tywin Lannister*
+* *Tell me about Tywin Lannister*
 
-* *what house is Gregor Clegane in*
+* *Is Gregor Clegane alive*
 
-The ultimate wiki for Game of Thrones characters, currently can only give the house name of the current character but new skills are currently in development. Please comment if you have ideas for what you would like to see or if you encounter any issues. Note this is in no way endorsed or sanctioned by HBO or any of it's affiliates.
+The ultimate wiki for Game of Thrones characters, can give character summaries and houses with new information is currently being developed. Please comment if you have ideas for what you would like to see or if you encounter any issues. Note this is in no way endorsed or sanctioned by HBO or any of it's affiliates.
 
 ***
 

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Patrón Tequila icon" width="36"> [Patrón Tequila](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bd8d923f-547f-4dba-b0aa-2404062553f8)
-![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_black_18dp_1x.png)![4.9 stars](../../images/ic_star_half_black_18dp_1x.png) 16
+![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 20
 
 To use the Patrón Tequila skill, try saying...
 

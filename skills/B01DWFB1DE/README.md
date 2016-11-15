@@ -9,9 +9,9 @@ To use the GreenIQ skill, try saying...
 
 * *Alexa, ask green i. q. to report savings*
 
-The GreenIQ skill gives you control on your Smart Garden Hub form your Alexa app. 
+The GreenIQ skill gives you control on your Smart Garden Hub from your Alexa app. 
 Using the skill you can stop/start irrigation, activate/deactivate lighting in your garden and get information about water savings and water consumption.
-To be able to use this skill, please buy the GreenIQ Smart Garden Hub at http://greeniq.myshopify.com, install it and activate the skill.
+To be able to use this skill, please purchase the GreenIQ Smart Garden Hub at http://greeniq.myshopify.com, install it and activate the skill.
 
 Full list of supported phrases:
 
@@ -33,6 +33,6 @@ Alexa, ask GreenIQ to report water consumption
 * **ASIN:** B01DWFB1DE
 * **Author:** GreenIQ
 * **Release Date:** April 13, 2016 @ 08:02:32
-* **Privacy Policy:** http://greeniq.co/docs/GreenIQ_Privacy_Policy.pdf
-* **Terms of Use:** http://greeniq.co/docs/GreenIQ_Terms_Of_Service.pdf
+* **Privacy Policy:** http://greeniq.co/docs/GreenIQ_Privacy_Policy.html
+* **Terms of Use:** http://greeniq.co/docs/GreenIQ_Terms_Of_Service.html
 * **In-App Purchasing:** No

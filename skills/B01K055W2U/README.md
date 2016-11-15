@@ -1,21 +1,28 @@
 # &nbsp;<img src="skill_icon" alt="Marvee icon" width="36"> [Marvee](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a81ae255-5ca4-49ef-aceb-c14954fa39fa)
-![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 7
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Marvee skill, try saying...
 
 * *Alexa, tell Marvee that I'm OK*
 
-* *Alexa, Ask Marvee to have Bob call me*
+* *Alexa, tell Marvee to check on me*
 
 * *Alexa, Ask Marvee for Family News*
 
-Note: Link your Marvee account to Alexa to start using Marvee. Send an "I'm OK" notification, let a loved one know to give you a call, or stay up to date with the latest family buzz.
+Need to send a daily “I’m Ok” message to family or a shout out for help? Marvee for Alexa lets you send out notifications and engagement messages.  Free service includes: 1) Send your contacts an “I’m OK" notification with Morning Beacon.  2) Use "Check on Me" to notify family or friends you need some one to look in on you when there is a higher priority need (non-emergency).
 
-Important: You'll need to be sure you have added contacts to your Marvee account and chosen the method for notifications (text, email or both). Visit www.askmarvee.com  and don't forget to invite folks to your family news group!  
+Marvee gives those hindered by physical limitations (vision, mobility or just typical aging challenges) an easy way to communicate with family and caregivers. Other optional services include Call Me and Family News - let a loved one know to give you a call, or stay up to date with the latest family buzz. 
 
-Marvee gives those hindered by physical limitations (vision, mobility or just typical aging challenges) an easy way to communicate with family and caregivers.
+To get started, enable the skill and link a Marvee account. 
+Then just ask
 
-We build services for the over 55+ crowd enabling quality of life and peace of mind. Be sure to visit www.askmarvee.com for more information, and to sign into your account.
+-  “Alexa, tell Marvee I’m OK” 
+-  “Alexa, tell Marvee to check on me”
+-  “Alexa, ask Marvee to have Bob call me”
+-  “Alexa, ask Marvee for Family News”
+
+Marvee for Alexa uses the contacts you’ve specified in your Marvee app. Be sure to go into the Marvee portal, set up contacts and select how notifications go out to your loved ones (text, email or both). 
+New to Marvee? Visit http://www.askmarvee.com
 
 ***
 

@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "This box houses hundreds of birds, including an occasional surprise.  Just say, \"Alexa, open the Box of Birds\" and your Echo will play a random bird song or call for you.  \n\nWant to know the name of the bird you just heard?  Check out the Home Tab in your Alexa app.  And, please visit...\n\nwww.birdsongskill.com\n\n...to see who recorded these birds and discover what other birds can be found inside your Echo.\n\nThis is the companion skill to the more complete Bird Song Skill found at...\n\nhttp://alexa.amazon.com/spa/index.html#skills/amzn1.echo-sdk-ams.app.f7cc0ab6-6496-4e31-be2b-93b4926db937",
+  "description": "This box houses hundreds of birds, including an occasional surprise.  Just say, \"Alexa, open the Box of Birds\" and your Echo will play a random bird song or call for you.  \n\nWant to know the name of the bird you just heard?  Check out the Home Tab in your Alexa app.  And, please visit...\n\nwww.birdsongskill.com\n\n...to see who recorded these birds and discover what other birds can be found inside your Echo.\n\nAnother entertaining skill from www.thomptronics.com",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open the Box of Birds",

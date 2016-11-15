@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Famous Artists Facts icon" width="36"> [Famous Artists Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.90ce58ad-83fb-4787-9bd4-e93f8ff8d44e)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Famous Artists Facts skill, try saying...
 

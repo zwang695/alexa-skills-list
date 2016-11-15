@@ -3,26 +3,30 @@
 
 To use the Almond skill, try saying...
 
-* *Alexa, tell Almond to activate Dinner Scene*
+* *Alexa, tell Almond to enable Guest Wi-Fi*
 
-* *Alexa, tell Almond I'm going Away*
+* *Alexa, tell Almond to stop Kids Internet*
 
-* *Alexa, tell Almond to be in Home mode*
+* *Alexa, tell Almond to activate Party Scene*
 
-Alexa can now control Almond features such as Scenes and Modes. Control multiple devices and actions and to set Home/Away Mode.
+Almond brings its Wi-Fi and SmartHome controls to Alexa with features such as Parental controls, Guest Networks, Scenes and Modes.
 
-Scenes enable you to control multiple devices with just one tap of a button. For example, a single scene can dim all the lights and set the temperature just right for that special dinner date. To activate a Scene named "Dinner" say, "Alexa, tell Almond to activate Dinner Scene" or say, "Alexa, tell Almond to set Dinner Scene".
+Have kids? Almond offers enhanced Wi-Fi features for Alexa like Parental Controls. Blocking your kids’ devices is as easy as saying “Alexa, tell Almond to disable kids Internet.” Sorry kids. You’re welcome mom and dad.
 
-Home/Away Modes together with our rules enable you to create intuitive automation. For example, when you arrive home between 6:00-9:00 p.m. weekdays, Almond will disarm the alarm, turn on the porch light for five minutes, and then set the thermostat to 70 F. To set a Mode on Almond using Alexa, you can say, "Alexa, tell Almond to be in Home Mode", or simply say "I am Home" after starting the skill. 
+Having a party? Everyone’s going to ask you for Wi-Fi access. Not a problem. You can enable and disable the guest network with a simple voice command like “Alexa, tell Almond to enable guest network” and have the guest Wi-Fi username and password sent to you via email. You can share this with your guests as you like.
 
-Please note the minimum requirements for using Scenes and Modes with Almond:
-You  have an Almond + / Almond 2015 router with the updated firmware.
-Almond+ : AP2-R085-L009-W016-ZW016-ZB005
-Almond 2015 : AL2-R091
+Scenes enable you to perform a series of simultaneous actions with a single voice command. For example a single scene can dim all the lights and set the temperature just right for that special dinner date. To activate a scene named 'Dinner' say, "Alexa, tell Almond to activate Dinner Scene" or say, "Alexa, tell Almond to set Dinner Scene". 
 
-Your Almond App (iOS/Android) is updated to the latest version.
-Android v6.0
-iOS v2.0
+What’s more, you can also activate and easily switch between Almond's two types of modes: Home and Away using commands like “Alexa, tell Almond to be in Home mode”' or “Alexa, I'm going away.” Modes are key to automating your home and home security. They let you choose what devices are automatically triggered as part of the home automation rules you create in the Almond App.
+
+Please note the minimum requirements for using Alexa with Almond:
+You have an Almond +/Almond 2015 router with the updated firmware.
+Almond+ : AP2-R089-L009-W016-ZW016-ZB005
+Almond 2015 : AL2-R095
+
+Your mobile App (iOS/Android) is updated to the latest version.
+Almond v6.81b on Android
+Almond v2.4.2 on iOS
 
 An Almond account that you can create using the Almond App.
 

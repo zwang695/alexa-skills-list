@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MTLJWYD",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Tells the user a fact about glass.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask glass fact to tell me a glass fact"
+  ],
+  "firstReleaseDate": 1479200716.874,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.0069dd5a-8cbb-4cc1-8d3a-c944c191d5b9",
+  "imageAltText": "Glass Facts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MTLJWYD/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "glass fact",
+  "name": "Glass Facts",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Speaks a fact about glass.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2IPTYQV8PU7PU",
+  "vendorName": "Lukas Joswiak"
+}

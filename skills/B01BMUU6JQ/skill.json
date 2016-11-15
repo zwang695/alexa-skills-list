@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01BMUU6JQ",
-  "averageRating": 3.9,
+  "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Update: The Magic Door has a new story. Survive a dragon encounter and find the tools you'll need to save the wizard. Now with hundreds of scenes and thousands of paths!\n\nThe Magic Door is an Alexa-powered interactive adventure with original stories. You can tell Alexa what choices to make as you navigate a forest, a garden, or an ancient temple. You can find hidden items, solve riddles, and help magical creatures. You can also find magical items to get a prize!",
+  "description": "Update: The Magic Door has a new story for Halloween. The Wise Wizard needs your help, but you have to find him first -- inside a creepy witch's house!\n\nThe Magic Door is an Alexa-powered interactive adventure with original stories. You can tell Alexa what choices to make as you navigate a forest, a garden, or an ancient temple. You can find hidden items, solve riddles, and help magical creatures. You can also find magical items to get a prize!",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open the magic door",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the magic door",
   "name": "The Magic Door",
-  "numberOfReviews": 57,
+  "numberOfReviews": 124,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.themagicdoor.org/privacy/",

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="HawkBus icon" width="36"> [HawkBus](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.48cb5619-37ef-4b29-ac19-b4356c57a460)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the HawkBus skill, try saying...
 

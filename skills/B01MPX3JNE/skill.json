@@ -1,0 +1,42 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "api.meethue.com",
+    "www.meethue.com",
+    "www.google.com",
+    "plus.google.com",
+    "accounts.google.com",
+    "appengine.google.com",
+    "security.google.com",
+    "client.meethue.com",
+    "my.meethue.com"
+  ],
+  "asin": "B01MPX3JNE",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1477444443.957,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.f718da91-c86d-478a-945b-14d6d95c3862",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MPX3JNE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Philips Hue",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "RU8yW34Wyxey2xVNbdKUFHNCa",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M839W7BU4Z9OH",
+  "vendorName": "Philips Hue"
+}

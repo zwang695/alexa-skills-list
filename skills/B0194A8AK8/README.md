@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Buddy for Destiny icon" width="36"> [Buddy for Destiny](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec33d82c-05e9-4965-9351-52b31ec28ab5)
-![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 19
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 19
 
 To use the Buddy for Destiny skill, try saying...
 

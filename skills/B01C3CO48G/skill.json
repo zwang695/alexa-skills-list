@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01C3CO48G",
-  "averageRating": 3.5,
+  "averageRating": 3.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,14 +21,14 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "twenty questions",
   "name": "Twenty Questions",
-  "numberOfReviews": 30,
+  "numberOfReviews": 39,
   "pamsPartnerId": null,
   "permissions": null,
-  "privacyPolicyUrl": null,
+  "privacyPolicyUrl": "",
   "shortDescription": "Twenty Questions will guess what you're thinking!",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "",
   "vendorId": "M3C85BOAP9SLYI",
   "vendorName": "Amazon"
 }

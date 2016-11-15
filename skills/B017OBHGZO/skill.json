@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OBHGZO",
-  "averageRating": 4.3,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "scout",
   "name": "Scout Alarm",
-  "numberOfReviews": 8,
+  "numberOfReviews": 16,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.scoutalarm.com/privacy-policy",

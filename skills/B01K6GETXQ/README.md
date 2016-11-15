@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Office Friends Trivia icon" width="36"> [Office Friends Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.0a3f722c-b550-47d0-88b9-34516e5ebf56)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Office Friends Trivia skill, try saying...
 

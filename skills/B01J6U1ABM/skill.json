@@ -4,11 +4,11 @@
     "auth.logos.com"
   ],
   "asin": "B01J6U1ABM",
-  "averageRating": 0,
+  "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Read the Bible, do your daily devotions, get the Verse of the Day, manage your prayer list and more with the Faithlife skill.\n\nYou can hear the Bible immediately, and with a free Faithlife account your prayer lists and reading plans are shared between Alexa, the web, and Faithlife's free mobile apps.",
+  "description": "Read the Bible, do your daily devotions, get the Verse of the Day, manage your prayer list and more with the Faithlife skill.\n\nYou can hear the Bible immediately, and with a free Faithlife account your prayer lists and reading plans are shared between Alexa, the web, and Faithlife's free mobile apps.\n\nThis skill may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Faith Life to read Jeremiah 29 verse 11.",
@@ -24,7 +24,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "faith life",
   "name": "Faithlife",
-  "numberOfReviews": 0,
+  "numberOfReviews": 3,
   "pamsPartnerId": "lwMC9FefSpTID9ARbSqSZwaer",
   "permissions": null,
   "privacyPolicyUrl": "http://faithlife.com/privacy",

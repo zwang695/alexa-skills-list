@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Reporter for The Drudge Report icon" width="36"> [Reporter for The Drudge Report](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3d4b85fd-435e-4a49-a217-cbb92aef5cea)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Reporter for The Drudge Report skill, try saying...
 

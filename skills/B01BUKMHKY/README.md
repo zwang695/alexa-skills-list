@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="AskAboutTrump icon" width="36"> [AskAboutTrump](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4c357994-13f3-42bb-8ef3-215199918139)
-![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 9
+![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the AskAboutTrump skill, try saying...
 

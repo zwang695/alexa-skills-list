@@ -17,9 +17,7 @@ www.birdsongskill.com
 
 ...to see who recorded these birds and discover what other birds can be found inside your Echo.
 
-This is the companion skill to the more complete Bird Song Skill found at...
-
-http://alexa.amazon.com/spa/index.html#skills/amzn1.echo-sdk-ams.app.f7cc0ab6-6496-4e31-be2b-93b4926db937
+Another entertaining skill from www.thomptronics.com
 
 ***
 

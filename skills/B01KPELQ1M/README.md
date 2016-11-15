@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="FruitFacts icon" width="36"> [FruitFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.21ac8384-f95b-4e5b-b180-033cbed402f3)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 5
 
 To use the FruitFacts skill, try saying...
 

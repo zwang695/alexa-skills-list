@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Multiplication Quiz icon" width="36"> [Multiplication Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.576da62c-7dac-47ac-aee2-74357eec2b3b)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Multiplication Quiz skill, try saying...
 

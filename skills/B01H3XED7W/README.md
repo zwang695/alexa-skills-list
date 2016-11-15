@@ -1,15 +1,23 @@
 # &nbsp;<img src="skill_icon" alt="A Cloud Guru icon" width="36"> [A Cloud Guru](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b4396cec-f196-49f4-a489-5add768b4535)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the A Cloud Guru skill, try saying...
 
-* *Alexa, ask A Cloud Guru to start a new exam*
+* *Alexa, open A Cloud Guru.*
 
-* *Alexa, ask A Cloud Guru to start a new quiz*
+* *Start exam B.*
 
-* *Is it 3?*
+* *Number 3?*
 
-The A Cloud Guru app will help you prepare for the Certified Solutions Architect Associate exam by asking you practice exam questions. The app has over 200 practice exam questions and each game consists of 10 random question. Build out your AWS exam knowledge today.
+The A Cloud Guru Skill will help you prepare for the following AWS Certifications by asking you practice exam questions:
+
+A - Certified Solutions Architect Associate
+B - Certified Developer Associate
+C - Certified SysOps Administrator Associate
+D - Certified DevOps Engineer Professional
+E - Certified Solutions Architect Professional
+
+The Skill has over 600 practice exam questions and each quiz consists of a maximum of 10 random questions. Build out your AWS exam knowledge today.
 
 ***
 

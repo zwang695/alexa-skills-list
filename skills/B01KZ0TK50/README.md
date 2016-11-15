@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="BlowMyMind icon" width="36"> [BlowMyMind](http://alexa.amazon.com/#skills/amzn1.ask.skill.d9c4f663-74b1-4486-8a47-925d3c8739c6)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the BlowMyMind skill, try saying...
 

@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "api.login.yahoo.com",
+    "yahoo.com",
+    "login.yahoo.com",
+    "s.yimg.com",
+    "yimg.com"
+  ],
+  "asin": "B01LXT8OO6",
+  "averageRating": 3.2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Does your line-up have what it takes? Login and link one of your existing Yahoo Fantasy Football head-to-head leagues to the Alexa Skill to track your team as they make their play for the championship. Competing in multiple Head-2-Head leagues? No problem, just say ‘Change league’ to easily switch to another league. \n\nUse the Alexa skill to get: \n– an overview of your team’s weekly matchup and score.\n– your team’s injury/bye status. \n– player scores and injury updates.\nAll without ever putting your hands on the ball.\n\n——\n\nNOTE: This skill currently SUPPORTS Head-to-Head fantasy leagues only. It DOES NOT support Points leagues or Pick’Em.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Yahoo Fantasy Football for a score update",
+    "Alexa, ask Yahoo Fantasy Football about my matchup",
+    "Alexa, ask Yahoo Fantasy Football if Cam Newton is playing this week"
+  ],
+  "firstReleaseDate": 1475703710.656,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.fecb7146-4e3f-401e-aed6-71240388c5d7",
+  "imageAltText": "Yahoo Fantasy Football icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LXT8OO6/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "yahoo fantasy football",
+  "name": "Yahoo Fantasy Football",
+  "numberOfReviews": 40,
+  "pamsPartnerId": "y81ZoZ7Pw7IK64ixXAsmzuEBI",
+  "permissions": null,
+  "privacyPolicyUrl": "https://policies.yahoo.com/us/en/yahoo/privacy/index.htm",
+  "shortDescription": "Ready to track your stats? Find out how your team did this week and who’s on the field next, with Yahoo Fantasy Football for Alexa.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://policies.yahoo.com/us/en/yahoo/terms/utos/index.htm",
+  "vendorId": "M2OEXHB0HLCKP9",
+  "vendorName": "Yahoo Inc."
+}

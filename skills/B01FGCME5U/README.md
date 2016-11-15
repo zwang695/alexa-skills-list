@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Inspiration From Daily Word icon" width="36"> [Inspiration From Daily Word](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b8915009-1e8c-4b9a-9716-f6d4499df8e1)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
 
 To use the Inspiration From Daily Word skill, try saying...
 
@@ -31,6 +31,6 @@ For more inspiration you can visit us at http://dailyword.com
 * **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.b8915009-1e8c-4b9a-9716-f6d4499df8e1
 * **ASIN:** B01FGCME5U
-* **Author:** Unity App Design
+* **Author:** Unity
 * **Release Date:** August 29, 2016 @ 01:33:02
 * **In-App Purchasing:** No

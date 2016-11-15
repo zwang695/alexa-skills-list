@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N03FUSI",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Sleeping alone tonight?  You are never alone when Alexa is beside you. Wish Alexa a good night and she will respond right back!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa Good Night"
+  ],
+  "firstReleaseDate": 1479189934,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.8efd2ea9-589f-41c2-bd44-d11bd6cdf0a0",
+  "imageAltText": "Good Night icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N03FUSI/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "good night",
+  "name": "Good Night",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "",
+  "shortDescription": "Sleeping alone tonight? Let Alexa wish you a good night.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "",
+  "vendorId": "M26PY5TCO80ILY",
+  "vendorName": "gshenar"
+}

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01K11EMN8",
-  "averageRating": 5,
+  "averageRating": 4.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,14 +21,14 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "geek humor",
   "name": "Geek Humor",
-  "numberOfReviews": 3,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
-  "privacyPolicyUrl": null,
+  "privacyPolicyUrl": "http://topbotagency.com/privacy",
   "shortDescription": "Geek Humor makes you laugh with funny jokes about nerdy topics like Math, Physics, Engineering, and more!",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "http://topbotagency.com/tos",
   "vendorId": "MANEMYDTML6VO",
-  "vendorName": "Xanadu"
+  "vendorName": "TOPBOTS"
 }

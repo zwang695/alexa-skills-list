@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Hot Girl icon" width="36"> [Hot Girl](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4625c82f-3022-46da-9f61-d48160225c49)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Hot Girl skill, try saying...
 

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01IUJZLC4",
-  "averageRating": 5,
+  "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "election trivia",
   "name": "American Presidential Election Trivia Quiz",
-  "numberOfReviews": 1,
+  "numberOfReviews": 0,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

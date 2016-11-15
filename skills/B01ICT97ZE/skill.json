@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01ICT97ZE",
-  "averageRating": 5,
+  "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "ingrein clock",
   "name": "Ingrein Clock",
-  "numberOfReviews": 2,
+  "numberOfReviews": 0,
   "pamsPartnerId": "ofq5s5fRfvCJpbVExlp2ZgVIA",
   "permissions": null,
   "privacyPolicyUrl": "https://www.particle.io/privacy",

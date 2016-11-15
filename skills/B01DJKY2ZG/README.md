@@ -9,6 +9,13 @@ To use the Fantasy Scoreboards skill, try saying...
 
 * *Who is playing today*
 
+Added two new Utterances, no changes to the web service
+
+GetTodayGames what games are playing
+GetTodayGames what games are playing today
+
+--------------
+
 The Fantasy Scoreboards Skills allows controlling scoreboards that are available for purchase form http://fantasyscoreboards.com/. 
 
 This Skill allows changing your favorite team, or temporary show the game of another team. To make it easier you can also ask it who played yesterday or is playing today.

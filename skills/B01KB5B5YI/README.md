@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Programming Facts icon" width="36"> [Programming Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d588a969-9bbe-46f4-8ec0-079e7aebd671)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1.4 stars](../../images/ic_star_black_18dp_1x.png)![1.4 stars](../../images/ic_star_half_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Programming Facts skill, try saying...
 

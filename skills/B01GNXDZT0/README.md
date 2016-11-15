@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="BigBandTrivia icon" width="36"> [BigBandTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6db6b24f-cddb-4105-af0a-6757dd486c6a)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the BigBandTrivia skill, try saying...
 

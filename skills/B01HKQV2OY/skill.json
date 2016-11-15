@@ -1,0 +1,37 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "www.colharris.com",
+    "riverplace.colharris.com"
+  ],
+  "asin": "B01HKQV2OY",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skill allows you to book tennis court at River Place Condo. Simply tell Alexa the time and day you'd like to play and she'll do the rest.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell River Place to book me a tennis court",
+    null,
+    null
+  ],
+  "firstReleaseDate": 1475566937.299,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.b0e505d4-7042-42fb-9c74-55d00d582129",
+  "imageAltText": "River Place icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01HKQV2OY/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "river place",
+  "name": "River Place",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "JWZGOGNLD2FDiydNRQQJtzt9n",
+  "permissions": null,
+  "privacyPolicyUrl": "https://riverplace.colharris.com/privacy",
+  "shortDescription": "Book a tennis court in a few seconds using just your voice",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://riverplace.colharris.com/terms",
+  "vendorId": "M1XEJY8NHULP4Z",
+  "vendorName": "Colin Harris"
+}

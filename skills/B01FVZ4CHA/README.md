@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="H2O-Pal icon" width="36"> [H2O-Pal](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b396276a-779f-4f3b-b4d7-4a739a630860)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the H2O-Pal skill, try saying...
 
@@ -27,5 +27,5 @@ We want to help you stay healthy and hydrated =)
 * **Release Date:** June 9, 2016 @ 07:39:35
 * **Privacy Policy:** https://www.h2opal.com/pages/tos
 * **Terms of Use:** https://www.h2opal.com/pages/tos
-* **Account Linking Domains:** h2odev2.parseapp.com, www.h2opal.com, api.twitter.com, www.facebook.com, graph.facebook.com, m.facebook.com, static.xx.fbcdn.net, h2opal.parseapp.com
+* **Account Linking Domains:** h2odev2.parseapp.com, www.h2opal.com, api.twitter.com, www.facebook.com, graph.facebook.com, m.facebook.com, static.xx.fbcdn.net, h2opal.parseapp.com, api.h2opal.com
 * **In-App Purchasing:** No

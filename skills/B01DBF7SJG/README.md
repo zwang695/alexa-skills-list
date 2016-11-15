@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="India News icon" width="36"> [India News](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.60378b74-5ab5-424e-98a4-e8fe71faf8e6)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the India News skill, try saying...
 

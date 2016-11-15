@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="One Line Joker icon" width="36"> [One Line Joker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9dbdabe1-6d20-409f-b367-81964cc0d72d)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the One Line Joker skill, try saying...
 

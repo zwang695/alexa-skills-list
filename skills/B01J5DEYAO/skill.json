@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01J5DEYAO",
-  "averageRating": 2.7,
+  "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "jab",
   "name": "Jab",
-  "numberOfReviews": 9,
+  "numberOfReviews": 20,
   "pamsPartnerId": "Mo4TsnJYajscZqLEJRwi98B8F",
   "permissions": null,
   "privacyPolicyUrl": "https://sayjab.com/privacy",

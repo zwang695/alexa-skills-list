@@ -4,11 +4,11 @@
     "skyport.io"
   ],
   "asin": "B01FRIJRJY",
-  "averageRating": 4.8,
+  "averageRating": 4.2,
   "canDisable": false,
   "capabilities": null,
   "category": null,
-  "description": "Amazon Alexa can now talk to your Venstar connected thermostats. Link your Skyport Cloud account and you can control your thermostats using your voice through Alexa.\n\nAfter connecting Alexa to your Skyport account, you may use commands such as: “Alexa, set my bedroom temperature to 72.”, “Alexa, lower the bedroom temperature by 2 degrees.”, or “Alexa, heat the living room.”.\n\nYou must have a Skyport account along with a Skyport compatible thermostat to use this skill.",
+  "description": "With the Venstar skill and Alexa, you can now interact with your Venstar thermostats by voice. To get started, select the ‘Enable Skill’ button in the Alexa App to link your Skyport account and discover your thermostat(s). Find more information about connecting Smart Home devices at http://amzn.to/291lR7u.\n\nWhen using the skill, you need to specify by name which thermostat/sensor to use. There are two ways to define this/these name(s):\n* Use the name(s) you set up already – these are shown in the Venstar app and can be changed, or\n* Create an Alexa group, like Bedroom or Downstairs, and add the thermostat and/or one or more sensors to the group. More information is available at http://amzn.to/2965dCE.\n\nOnce you know the name or group of your thermostat, you can say the following: “Alexa, lower Bedroom by 3 degrees”, or “Alexa, set Downstairs temperature to 72”.\n\nIf you have any questions, please visit the Venstar Alexa FAQ at http://venstar.com/smart/alexa/ .",
   "enablement": null,
   "exampleInteractions": [
     null,
@@ -24,8 +24,8 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Venstar",
-  "numberOfReviews": 12,
-  "pamsPartnerId": "M648e7m7myeJOiUpNVQds2jU1",
+  "numberOfReviews": 15,
+  "pamsPartnerId": "CHgGvmBQuS4rwc3yoUwWfvL5f",
   "permissions": null,
   "privacyPolicyUrl": "https://venstar.skyportcloud.com/page/terms",
   "shortDescription": "Monitor and control your Skyport compatible thermostat. Alexa, set my living room to 74 degrees.",
@@ -33,7 +33,7 @@
     "SMART_HOME"
   ],
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "https://venstar.skyportcloud.com/page/terms",
   "vendorId": "M2X9WA7G9UPD8D",
   "vendorName": "Venstar Inc."
 }

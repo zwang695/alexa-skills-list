@@ -9,7 +9,7 @@ To use the Foobot your good air guru skill, try saying...
 
 * *Alexa, ask Foobot to switch OFF device lights*
 
-You cans ask Foobot to tell you the current air quality level in each of the rooms where you have a device located. You can just ask for the level at 'home' in you have only one Foobot.
+You can ask Foobot to tell you the current air quality level in each of the rooms where you have a device located. You can just ask for the level at 'home' in you have only one Foobot.
 
 You can ask Foobot for recommendations on improving levels of each of the specific pollutant (CO2, VOC, Particulate matter). Just say 'tips' if you want general air quality recommandations.
 

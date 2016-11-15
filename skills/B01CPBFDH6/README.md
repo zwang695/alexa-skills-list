@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Spanish icon" width="36"> [Spanish](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c3d2c07c-9186-480b-9fcf-84052a0cc08f)
-![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 7
+![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the Spanish skill, try saying...
 

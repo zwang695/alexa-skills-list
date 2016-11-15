@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Trump Facts icon" width="36"> [Trump Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d2f9631-744f-49b5-a4e2-e54a0b022dde)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Trump Facts skill, try saying...
 

@@ -1,15 +1,15 @@
 # &nbsp;<img src="skill_icon" alt="Fantasy Football icon" width="36"> [Fantasy Football](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bd4acc9c-8b9d-418d-b1c5-0fdf47c7cd9b)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Fantasy Football skill, try saying...
 
-* *Alexa, ask Fantasy Football Nerd for headlines.*
-
-* *Alexa, ask Fantasy Football Nerd for updates on Tom Brady.*
-
 * *Alexa, ask Fantasy Football Nerd for the latest news.*
 
-Retrieve fantasy football news and player updates on the Top 300 players directly from Fantasy Football Nerd.
+* *Alexa, ask Fantasy Football Nerd if I should start Eli Manning or Cam Newton*
+
+* *Alexa, ask Fantasy Football Nerd if I should trade Aaron Rodgers for Tom Brady*
+
+Retrieve fantasy football news, player updates, sit/start advice, and trade analysis directly from Fantasy Football Nerd.
 
 ***
 

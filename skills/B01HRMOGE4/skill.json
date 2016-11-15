@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01HRMOGE4",
-  "averageRating": 3,
+  "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "The CloudStatus Alexa Skill provides an interface to AWS service status information.\n\nLet CloudStatus know what region you want to check and Alexa will respond with a list of services that are experiencing trouble and what kind of issues they are having. CloudStatus will also list services that have recently-resolved issues.\n\nWhen issues occur, please access the AWS status page directly for details: http://status.aws.amazon.com/\n\nNote: If AWS Lambda in us-east-1 is experiencing a disruption, the CloudStatus skill itself may not be responsive.\n\nLet us know what additional cloud services you would like to be able to check with the CloudStatus skill (e.g., AWS GovCloud, AWS China, Google Cloud, Azure, GitHub, Twilio).\n\nFeedback: cloudstatus@stormyriver.com",
+  "description": "The CloudStatus Alexa Skill provides an interface to AWS service status information.\n\nLet CloudStatus know what region you want to check and Alexa will respond with a list of services that are experiencing trouble and what kind of issues they are having. CloudStatus will also list services that have recently-resolved issues.\n\nWhen issues occur, please access the AWS status page directly for details: http://status.aws.amazon.com/\n\nNote: If AWS Lambda in us-east-1 is experiencing a disruption, the CloudStatus skill itself may not be responsive.\n\nFeedback: cloudstatus@stormyriver.com",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask CloudStatus about the Northern Virginia region",
-    "What's up in eu-west-1?",
-    "Tell me about Mumbai"
+    "Alexa, ask CloudStatus about all regions",
+    "Tell me more about Northern Virginia",
+    "What's up in ap-south-1?"
   ],
   "firstReleaseDate": 1467809846.761,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "cloud status",
   "name": "CloudStatus",
-  "numberOfReviews": 1,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

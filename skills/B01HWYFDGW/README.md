@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Ultimate Deadhead Quiz icon" width="36"> [Ultimate Deadhead Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c8f25b57-fc22-4cc0-949d-8f1c9059aba7)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Ultimate Deadhead Quiz skill, try saying...
 

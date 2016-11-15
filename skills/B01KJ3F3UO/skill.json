@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01KJ3F3UO",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Fruit Nut provides basic and approximate nutrition value information for fruit such as apples, bananas, oranges, and many more.  Depending on the fruit, this Alexa skill will give you information such as the number calories, fat content, carbohydrates, dietary fiber, and sugar content.  \n\nPlease note that the actual values of real world fruit may differ significantly based on it's size and variation.",
+  "description": "Fruit Nut provides basic and approximate nutrition value information for fruit such as apples, bananas, oranges, and many more.  Depending on the fruit, this Alexa skill will give you information such as the number calories, fat content, carbohydrates, dietary fiber, and sugar content.  The information is provided to you in \"practical units\" (e.g., 1 apple, 1 slice of watermelon, a cup of grapes, etc.).\n\nPlease note that the actual values of real world fruit may differ significantly based on it's size and variation.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Fruit Nut for the nutrition value of a watermelon",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "fruit nut",
   "name": "Fruit Nut",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

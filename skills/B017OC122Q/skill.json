@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OC122Q",
-  "averageRating": 3.1,
+  "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the dealer",
   "name": "Beat The Dealer",
-  "numberOfReviews": 18,
+  "numberOfReviews": 23,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

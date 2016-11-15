@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01JBJNCA0",
-  "averageRating": 1,
+  "averageRating": 1.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "doctor remigio",
   "name": "Homeopathy",
-  "numberOfReviews": 3,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.homeopathy.com.s3-website-us-east-1.amazonaws.com/privacypolicy.html",

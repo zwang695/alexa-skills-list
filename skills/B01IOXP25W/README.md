@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Sports Trivia icon" width="36"> [Sports Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.c8b1c183-1924-4957-83c5-fd1a8ab57ee2)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Sports Trivia skill, try saying...
 

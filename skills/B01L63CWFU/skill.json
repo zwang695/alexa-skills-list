@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "zoma.io"
+  ],
+  "asin": "B01L63CWFU",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "With this skill enabled you can ask Alexa to control all your ZOMA connected devices. You can also setup groups like \"Livingroom\" or \"Office\" and have Alexa turn the whole group on or off. \n\nSetup guide:\n\n1. Enable the ZOMA skill and link your ZOMA account with Alexa. \n\n2. Select discover devices and have Alexa find all of your ZOMA devices that can be controlled. \n\n3. After discovery is done you can start to give voice commands like:\n\n\"Alexa, turn on office light\" or if you created a group called ´\"Livingroom\" say,\n\"Alexa, turn on livingroom\"\n\nIf you have any questions just visit: https://www.zoma.io\n\nDisclaimer\nThis skill may not be suitable for all ages as it allows new user signups and links to your account on zoma.io. If you are a minor, parental guidance is suggested.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1474333890.144,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.c0a08fa1-b6e5-4589-9cac-e8b518b867f1",
+  "imageAltText": "ZOMA Worry Free Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01L63CWFU/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "ZOMA Worry Free Home",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "VbfH9JbVFa7jzrX1kuGVmKvQh",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.zoma.io/Home/Privacy",
+  "shortDescription": "Control ZOMA devices from Amazon Echo",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "http://www.zoma.io/Home/Terms",
+  "vendorId": "M3VM2S03CWGC08",
+  "vendorName": "ZOMA LLC"
+}

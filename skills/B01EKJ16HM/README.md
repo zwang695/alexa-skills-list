@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Random Muse icon" width="36"> [Random Muse](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.446e94c5-4f5b-4301-bf53-578e80681820)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Random Muse skill, try saying...
 

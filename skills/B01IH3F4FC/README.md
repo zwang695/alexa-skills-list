@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Super Brain icon" width="36"> [Super Brain](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9f7e9a99-b8ce-40d2-a994-57c47562e029)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Super Brain skill, try saying...
 

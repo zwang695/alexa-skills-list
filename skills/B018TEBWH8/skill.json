@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B018TEBWH8",
-  "averageRating": 3.9,
+  "averageRating": 3.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the rabbi",
   "name": "The Rabbi",
-  "numberOfReviews": 10,
+  "numberOfReviews": 12,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

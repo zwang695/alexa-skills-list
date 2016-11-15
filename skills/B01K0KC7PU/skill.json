@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "rest.prod.immedia-semi.com"
+  ],
+  "asin": "B01K0KC7PU",
+  "averageRating": 3.2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Blink is the fastest-growing home security and video monitoring system on the market today. Easy to setup, easy to use, and easy on your wallet (systems start at $99 with no monthly fees), the palm-sized Blink camera delivers instant home insight right to your smartphone. One-of-a-kind, Blink is powered by two AA lithium batteries and offers motion-activated HD video alerts, live streaming, scheduled arming, free cloud storage, and a built-in temperature sensor and microphone. \n\nTo use this skill and the sample phrases shown above, you will need at least a Blink camera and Blink Sync Module linked to a Blink account. Visit www.blinkforhome.com to learn more.\n\nDISCLAIMER: THE SKILL MAY NOT BE SUITABLE FOR ALL AGES.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask Blink to arm my Home system",
+    "disarm my system my pin is 7272",
+    "when was my last motion clip"
+  ],
+  "firstReleaseDate": 1472639556.631,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.a1983875-d959-4f17-aece-13d9cfabcc73",
+  "imageAltText": "Blink for Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01K0KC7PU/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "blink",
+  "name": "Blink for Home",
+  "numberOfReviews": 17,
+  "pamsPartnerId": "Nyc3ssviMFbBe2HzrkwQW1CZh",
+  "permissions": null,
+  "privacyPolicyUrl": "https://blinkforhome.com/privacy-policy",
+  "shortDescription": "Blink is the one-of-a-kind, ultra-affordable, battery-powered, HD home security and video monitoring system. Learn more at www.blinkforhome.com.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1TUXXJC5Y8NP0",
+  "vendorName": "Blink for Home by Immedia"
+}

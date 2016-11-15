@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Baseball Live icon" width="36"> [Baseball Live](http://alexa.amazon.com/#skills/amzn1.ask.skill.b9aedbea-92d3-4a3d-9ef4-99b44da7e449)
-![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Baseball Live skill, try saying...
 
@@ -13,6 +13,8 @@ Find more information than the built-in MLB functions.
 
 -See who is pitching for your team
 -See what is currently happening in your team's game
+
+Pitching information is only available before the game starts
 
 ***
 

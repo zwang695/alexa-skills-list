@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="DrinkMaster icon" width="36"> [DrinkMaster](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1dbf1144-e80f-40c5-ac08-d81540319603)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 10
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 12
 
 To use the DrinkMaster skill, try saying...
 
@@ -8,6 +8,14 @@ To use the DrinkMaster skill, try saying...
 * *Alexa tell drink master to start circle of death*
 
 * *Alexa tell drink master to draw a card*
+
+**UPDATED August 2016
+DrinkMaster no longer has short term memory!  With this update, you now have up to 10 minutes to tell Alexa to have DrinkMaster advance the game.
+
+To use this feature try the following sample utterances after the skill turns off:
+Example: "Alexa tell DrinkMaster to advance the game"
+Example: "Alexa tell DrinkMaster to draw the next card"
+**
 
 Due to suggestive content, this Skill is not appropriate for all ages.  For Mature Audiences Only.
 

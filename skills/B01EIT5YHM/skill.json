@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01EIT5YHM",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "talk local",
   "name": "TalkLocal",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "wMPSwOhH66RlC6iFCbVntekP2",
   "permissions": null,
   "privacyPolicyUrl": "http://www.talklocal.com/legal/privacy_policy.php",

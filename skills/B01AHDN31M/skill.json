@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01AHDN31M",
-  "averageRating": 3,
+  "averageRating": 2.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "stringify",
   "name": "Stringify",
-  "numberOfReviews": 8,
+  "numberOfReviews": 9,
   "pamsPartnerId": "BUdIsVPOgfHh62nNfxYYr4XxG",
   "permissions": null,
   "privacyPolicyUrl": "https://www.stringify.com/privacy",

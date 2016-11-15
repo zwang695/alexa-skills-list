@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Prayer Time icon" width="36"> [Prayer Time](http://alexa.amazon.com/#skills/amzn1.ask.skill.a381e3fe-bf36-49a1-b476-eae9f5572a60)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Prayer Time skill, try saying...
 

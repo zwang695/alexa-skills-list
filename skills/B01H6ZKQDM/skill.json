@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Moblor is a app to connect Amazon Echo with Salesforce. Users can ask moblor questions related to open opportunities in Salesforce, such as how many open opportunities do I or my team have. The Skill needs accounting linking to appropriate Salesforce org. And install the package bellow to appropriate Salesforce orgs.\n\nhttps://login.salesforce.com/packaging/installPackage.apexp?p0=04t36000000k8sB",
+  "description": "Moblor adds AI to Salesforce. With the Moblor skill, you ask Alexa what's happening in your Salesforce without having to open your computer or pick up your phone. It's the true convenience of getting to know things by just asking.\n\nIn order to use the Moblor skill, you will need to install our AppExchange app to your Salesforce org. You can find the app by searching \"Moblor\" at appexchange.com.\n\nDisclaimer: this skill might be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask Moblor",
-    "how many open opportunities do I have",
-    "what's the number of open opportunities do my team have"
+    "Alexa, ask Moblor how many open opportunities do I have",
+    "Alexa, ask Moblor how many cases did my team close yesterday",
+    "Alexa, ask Moblor how many leads do I need to qualify today"
   ],
   "firstReleaseDate": 1470400643.328,
   "homepageLinkText": null,
@@ -22,9 +22,9 @@
   "launchPhrase": "moblor",
   "name": "Moblor",
   "numberOfReviews": 0,
-  "pamsPartnerId": "m8IEInDbRXTfcWlwVhYDaaFRV",
+  "pamsPartnerId": "x8TKbVecOLpGo9sXoMCJ3Hy6m",
   "permissions": null,
-  "privacyPolicyUrl": "https://www.moblor.com",
+  "privacyPolicyUrl": "https://www.moblor.com/amazon-echo/privacy-policy",
   "shortDescription": "Moblor is a app to connect Amazon Echo with Salesforce",
   "skillTypes": null,
   "stage": "live",

@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "backwardse.com"
+  ],
+  "asin": "B01LYK4FI5",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skill is for the modern home cook who uses their phone as their primary recipe source.  The problem with using your phone as a cook book is that you constantly have to use your hands to turn it on.  This usually involves having to wash and dry your hands, then you have to enter your password because your fingerprint reader doesn't work with damp digits.  It's a huge pain, but no more!\n\nNow you can access your recipes with simple spoken commands.  Simply use the Sous Chef Recipes App available in the Apple App Store and on Google Play to enter your recipes.  Then use your Amazon Alexa enabled device to interact with your recipes in a totally natural way.\n\nOnce you've linked your email address to the app and this skill the first thing you'll want to do is add a recipe.  The app allows you to easily load recipes from the most popular food websites.  Note some websites may require their own login.  You can also load recipes from smaller websites like blogs or enter your own recipes manually as well.\n\nOnce you've added a recipe you'll want to open it.  You can do this in the app or you can simply ask Alexa to do it for you:\n\n\"Alexa tell Sous Chef to open the burger sauce recipe.\"\n\nHint: Sous is a French word that sounds like the English name Sue.\n\nYou can also check what recipe is open.\n\n“Alexa ask Sous Chef what my current recipe is.”\n\nOnce your recipe is open you'll be able to interact with the ingredients.  Here are some examples of things you can say:\n\n“Alexa tell Sous Chef to list ingredients.”\n\n“Alexa ask Sous Chef how much baking powder.”\n\n“Alexa ask Sous Chef how many potatoes.”\n\nHint: if Alexa doesn't find what you're looking for but you know it's there use the app to simplify the text.  For example you might change “¼ cup (4 oz) unsalted butter melted and cooled” to “4 ounces unsalted butter”.\n\nNext you'll want to go through the steps of the recipe.  For example you can use the following commands:\n\n“Alexa tell Sous Chef to go to the first step.”\n\n“Alexa tell Sous Chef to go to the next step.”\n\n“Alexa tell Sous Chef to go to the fourth step.”\n\n“Alexa tell Sous Chef to repeat step.”\n\nHint: while Alexa is talking you can say “Alexa stop” at any time.  Unfortunately at this time you can't resume from where you left off but hopefully that is a feature we can add in the near future.\n\nRecipes in the Sous Chef App also have a description and notes.  You can access these by asking Alexa to read them aloud:\n\n“Alexa tell Sous Chef to read the description.”\n\n“Alexa tell Sous Chef to read notes.”\n\nHint: Sous Chef will get better at recognizing your recipes over time.  The more recipes that are added the more text we'll have to analyze to improve our speech recognition models.\n\nThat's all there is to it, hands free recipe access at your command.  It's like having your own personal assistant in the kitchen.  With all of Alexa's other great cooking features like timers and measurement conversions you'll be cooking with ease in no time.\n\nPlease use the app to contact us with any questions or comments you may have.  More features are coming soon but let us know if you have any requests.\n\nSavour!\nSous Chef",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa tell Sous Chef to open the Pad Thai recipe.",
+    "Alexa ask Sous Chef how much salt.",
+    "Alexa tell Sous Chef to go to the second step."
+  ],
+  "firstReleaseDate": 1476101504.084,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.39d8c2eb-b161-4249-80fa-c8a8c3960035",
+  "imageAltText": "Sous Chef Recipes icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LYK4FI5/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "sous chef",
+  "name": "Sous Chef Recipes",
+  "numberOfReviews": 3,
+  "pamsPartnerId": "5IJxJGdRQOTlId6dn2B1kN2KX",
+  "permissions": null,
+  "privacyPolicyUrl": "http://souschef.recipes/privacy.html",
+  "shortDescription": "Sous Chef Recipes your personal kitchen assistant.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://souschef.recipes/tos.html",
+  "vendorId": "M1MCI1F06IKMJR",
+  "vendorName": "backwardsE LLC"
+}

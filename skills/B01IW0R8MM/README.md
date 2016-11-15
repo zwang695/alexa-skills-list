@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Melbourne Transport icon" width="36"> [Melbourne Transport](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.66e99929-693a-49f5-b533-8d87a20d68c2)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Melbourne Transport skill, try saying...
 

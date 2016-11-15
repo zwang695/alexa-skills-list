@@ -5,7 +5,7 @@ To use the World Facts skill, try saying...
 
 * *Alexa, open world facts*
 
-28 fun facts about the world
+28 fun facts about the world,l may not be suitable for all age
 
 ***
 

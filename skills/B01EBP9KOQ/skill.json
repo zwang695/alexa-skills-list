@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01EBP9KOQ",
-  "averageRating": 1.7,
+  "averageRating": 1.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my translator",
   "name": "My Translator by Vonage",
-  "numberOfReviews": 10,
+  "numberOfReviews": 18,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://garage.vonage.com/privacy",

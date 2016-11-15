@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="WavycloudInfo icon" width="36"> [WavycloudInfo](http://alexa.amazon.com/#skills/amzn1.ask.skill.954bb223-051a-493a-8ba9-0be979eb9a2f)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the WavycloudInfo skill, try saying...
 

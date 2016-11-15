@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Airport METAR Reader icon" width="36"> [Airport METAR Reader](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.74a477b4-fe89-452d-8aa2-9cb6d89391ff)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 3
+![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the Airport METAR Reader skill, try saying...
 

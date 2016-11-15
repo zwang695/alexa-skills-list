@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Fortune Teller icon" width="36"> [Fortune Teller](http://alexa.amazon.com/#skills/amzn1.ask.skill.62be73d7-a8aa-4826-bdb3-9ab58985e944)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Fortune Teller skill, try saying...
 

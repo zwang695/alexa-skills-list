@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Simple Control icon" width="36"> [Simple Control](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0a6396ed-b380-4d46-8794-8036e3c5b589)
-![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 23
+![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 25
 
 To use the Simple Control skill, try saying...
 
@@ -23,5 +23,5 @@ Take charge of your Simple Control automated home using nothing more than your v
 * **Release Date:** December 23, 2015 @ 11:40:06
 * **Privacy Policy:** http://www.simplecontrol.com/privacy-policy/
 * **Terms of Use:** http://www.simplecontrol.com/terms-conditions/
-* **Account Linking Domains:** simplecontrol.com, roomieremote.com, google.com, googleapis.com
+* **Account Linking Domains:** simplecontrol.com, roomieremote.com, google.com, googleapis.com, bootstrapcdn.com
 * **In-App Purchasing:** No

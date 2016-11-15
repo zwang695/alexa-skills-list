@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FN331S6",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "inspiring quote",
   "name": "Inspire",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
@@ -30,5 +30,5 @@
   "stage": "live",
   "termsOfUseUrl": null,
   "vendorId": "MJVVHSYKBHIGH",
-  "vendorName": "CallPal"
+  "vendorName": "Cilbe"
 }

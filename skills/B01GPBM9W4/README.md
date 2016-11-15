@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Mother Goose for Nest icon" width="36"> [Mother Goose for Nest](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c176feea-934a-4fbd-81ce-99ba0bc32cb6)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Mother Goose for Nest skill, try saying...
 

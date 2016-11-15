@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Korean Weather icon" width="36"> [Korean Weather](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a768ab0c-3612-412d-80a4-473bb8da19e9)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Korean Weather skill, try saying...
 

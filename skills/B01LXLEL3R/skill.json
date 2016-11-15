@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "www.facebook.com",
+    "m.facebook.com",
+    "static.fbccdn.net",
+    "www.google.com",
+    "public.je-apis.com"
+  ],
+  "asin": "B01LXLEL3R",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Just link this skill to your Just Eat account to let Alexa see your order history and check the status of any current order you're waiting for. \n\nYou can re-order recent meals, choose whether you want it delivered or to collect, and pay by cash or card. You'll still need to answer the front door yourself, though. \n\nAsk Alexa to keep you up-to-date with the progress of your order once you've made it (​assuming you can talk​ through the salivating).​ \n\nFind out more just-eat.co.uk/alexa",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Just Eat to re-order my last Chinese",
+    "Alexa, ask Just Eat what can I re-order?",
+    "Alexa, ask Just Eat where's my food?"
+  ],
+  "firstReleaseDate": 1475061127.363,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.4feae63f-1c65-4939-81bd-6315d12cac4c",
+  "imageAltText": "JUST EAT icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LXLEL3R/skill_icon",
+  "inAppPurchasingSupported": true,
+  "launchPhrase": "just eat",
+  "name": "JUST EAT",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "fBdCIdd8AOEiYbjX6qspXtR5c",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.just-eat.co.uk/privacy-policy",
+  "shortDescription": "Re-order your favourite recent meals and get updates on the progress of your order.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "",
+  "vendorId": "M366LG9VXBQB8E",
+  "vendorName": "Just Eat"
+}

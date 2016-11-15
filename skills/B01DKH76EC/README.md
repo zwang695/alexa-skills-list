@@ -9,7 +9,7 @@ To use the ALOP-Pilates-Class-Skill skill, try saying...
 
 * *Alexa, start pilates class and begin*
 
-This Skill will guide you through a Pilates sequence of exercises. If you are familiar with Pilates it will be a joy to have Alexa teach you a Pilates class. The class is a Basic Beginner Pilates Class and it lasts about 20-30 minutes long. All you need for this class is a Pilates mat and the wiliness to feel great! To learn more about Pilates exercies and take a variety of Pilates class including video classes, visit ALotOfPilates.com
+Take Pilates classes with Alexa. All you need to get started is a Pilates mat and about 10-20 minutes of your time. You don't need any equipment for these classes. The classes are primarily based on the classical Pilates mat sequences. Alexa knows a variety of Pilates sequences, so it won’t get boring. Say ‘Alexa, start pilates class’, and let Alexa guide you through an enjoyable Pilates experience. To learn more about Pilates exercises and take a variety of Pilates classes, visit ALotOfPilates.com
 
 ***
 
@@ -21,6 +21,6 @@ This Skill will guide you through a Pilates sequence of exercises. If you are fa
 * **ASIN:** B01DKH76EC
 * **Author:** A Lot Of Pilates
 * **Release Date:** April 5, 2016 @ 06:02:28
-* **Privacy Policy:** http://www.alotofpilates.com/terms
-* **Terms of Use:** http://www.alotofpilates.com/terms
+* **Privacy Policy:** https://www.alotofpilates.com/terms
+* **Account Linking Domains:** www.alotofpilates.com, alop.herokuapp.com
 * **In-App Purchasing:** No

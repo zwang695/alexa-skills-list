@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Zodiac Sun Signs icon" width="36"> [Zodiac Sun Signs](http://alexa.amazon.com/#skills/amzn1.ask.skill.f1fb7e11-db69-4445-9600-ce79f9c548b3)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Zodiac Sun Signs skill, try saying...
 

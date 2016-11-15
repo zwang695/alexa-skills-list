@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Birthday Register icon" width="36"> [Birthday Register](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3d7bd0b3-5c36-4dc9-9a88-cda319e096c2)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Birthday Register skill, try saying...
 

@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "mma-prod-images-bucket.s3.amazonaws.com",
+    "web.localytics.com",
+    "www.google-analytics.com",
+    "services.postcodeanywhere.co.uk",
+    "webanalytics.localytics.com"
+  ],
+  "asin": "B01M1RA2GN",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "The Daily Mail and The Mail on Sunday skill delivers all of the quality editorial content from the printed editions of the newspapers. It is updated seven days a week and includes three brilliant magazines: Weekend, YOU and Event.\n\nYou can ask for today's top stories, have articles read from any section, or ask what’s on TV.\n\nTry saying things like:\nWhat’s my horoscope? \nRead Weekend magazine, or You magazine, or Event magazine.\n\nYou can also ask for today’s contents or simply ask to read the front page.\n\nIf you have a Mail Plus digital subscription you get complete access to all issues including the archive. You can try out the skill with full, free access for 14 days.\n\nSay: \"Open Daily Mail\" and follow the instructions to get free access.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Daily Mail for today's top stories",
+    "Alexa, ask Daily Mail for my horoscope",
+    "Alexa, ask Daily Mail to read the TV section"
+  ],
+  "firstReleaseDate": 1475003549.7,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.d20841ce-cc68-4185-9b70-5d70c57c46b7",
+  "imageAltText": "Daily Mail and The Mail on Sunday icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M1RA2GN/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "daily mail",
+  "name": "Daily Mail and The Mail on Sunday",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "D1FX8KbVMVumFlNonPpazwW4C",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.mymailaccount.co.uk/pages/subs/privacyAndCookiesPolicy",
+  "shortDescription": "All the news, sport, features and columnists of the printed edition of the Daily Mail and Mail on Sunday. Plus three brilliant magazines: Weekend, YOU and Event",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M22FAP9K62TAHK",
+  "vendorName": "Associated Newspapers Limited"
+}

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="relationshipQuotes icon" width="36"> [relationshipQuotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.1e54491c-390d-4019-8a6a-b83366e2efc3)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the relationshipQuotes skill, try saying...
 

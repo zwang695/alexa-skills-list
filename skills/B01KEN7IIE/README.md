@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Mom's Cooking icon" width="36"> [Mom's Cooking](http://alexa.amazon.com/#skills/amzn1.ask.skill.a39bfaf1-5184-4d77-9fda-aa8dda2880bf)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Mom's Cooking skill, try saying...
 

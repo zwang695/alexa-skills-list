@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01CZYUPCQ",
-  "averageRating": 4.5,
+  "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "A simple skill to get you started before you make that tube or national rail journey to work for your usual day. You can quickly get tube status for the whole London underground or National Rail status for any specific station. You can also get it to read out news from BBC website on your choice of topics. Supported topics are Health, Politics, Technology, UK, Headlines. You can also get next three days weather forecast for London.\nNew in 1.1 - Now you can ask about your next departure for any from and to network rail station. Try Alexa, ask starfish for next departure from London Liverpool Street to Shenfield",
+  "description": "A simple skill to get you started before you make that tube or national rail journey to work for your usual day. You can quickly get tube status for the whole London underground or National Rail status for any specific station. You can also get it to read out news from BBC website on your choice of topics. Supported topics are Health, Politics, Technology, UK, Headlines. You can also get next three days weather forecast for London.\nNew in 1.1 - Now you can ask about your next departure for any from and to network rail station. \nNew in 1.2 - Now you can ask about motorways  Try Alexa, ask starfish how is A1\nNew in 1.3 - Now you can ask about Premier league's club news. Try Alexa, ask starfish to tell me about Arsenal",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask starfish for tube status",
@@ -21,14 +21,14 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "starfish",
   "name": "Star fish UK",
-  "numberOfReviews": 7,
+  "numberOfReviews": 8,
   "pamsPartnerId": null,
   "permissions": null,
-  "privacyPolicyUrl": null,
+  "privacyPolicyUrl": "http://www.starfishmint.com/policy/privacy-starfish.html",
   "shortDescription": "Status and information from all things British.",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "http://www.starfishmint.com/policy/terms-starfish.html",
   "vendorId": "M2XGOZ7WO0MD3W",
   "vendorName": "Rai Integration Ltd"
 }

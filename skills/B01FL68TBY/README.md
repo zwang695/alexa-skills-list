@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Focus Sceener icon" width="36"> [Focus Sceener](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e6d2cd7c-e86d-468f-9ba6-ea9765551a77)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Focus Sceener skill, try saying...
 

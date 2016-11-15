@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Improve Myself icon" width="36"> [Improve Myself](http://alexa.amazon.com/#skills/amzn1.ask.skill.5d476d87-2339-41d4-9fec-ceab374011a5)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Improve Myself skill, try saying...
 

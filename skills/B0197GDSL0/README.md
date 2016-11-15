@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Call Sign icon" width="36"> [Call Sign](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.892a1ff4-b185-403c-9de9-d81e998dc44e)
-![1.9 stars](../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png) 23
+![1.9 stars](../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png) 24
 
 To use the Call Sign skill, try saying...
 

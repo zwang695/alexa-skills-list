@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="NYC Transit icon" width="36"> [NYC Transit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.05759c0d-1740-43ec-bcf9-78a6e4292b50)
-![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 9
+![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the NYC Transit skill, try saying...
 

@@ -3,7 +3,7 @@
     "alexa-oauth.herokuapp.com"
   ],
   "asin": "B017OJL1IE",
-  "averageRating": 3.9,
+  "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "automatic",
   "name": "Automatic",
-  "numberOfReviews": 28,
+  "numberOfReviews": 31,
   "pamsPartnerId": "9ID6jei1J9FnPfFeCJVNINOho",
   "permissions": null,
   "privacyPolicyUrl": "https://www.automatic.com/legal/",

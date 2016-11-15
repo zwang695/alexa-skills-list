@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Caves Under Thornhill icon" width="36"> [Caves Under Thornhill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.08c6c908-e9d2-4ef6-b1e6-eadead638d04)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Caves Under Thornhill skill, try saying...
 

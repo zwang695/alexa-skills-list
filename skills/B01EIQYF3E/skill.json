@@ -3,7 +3,7 @@
     "api.wink.com"
   ],
   "asin": "B01EIQYF3E",
-  "averageRating": 4.4,
+  "averageRating": 4.3,
   "canDisable": false,
   "capabilities": null,
   "category": null,
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Wink",
-  "numberOfReviews": 60,
+  "numberOfReviews": 85,
   "pamsPartnerId": "WINK",
   "permissions": null,
   "privacyPolicyUrl": "http://www.wink.com/legal/",

@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="National Day Tracker icon" width="36"> [National Day Tracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.71fe4a83-a8b7-4e1e-8cad-c0ebeb730279)
-![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
+![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the National Day Tracker skill, try saying...
 

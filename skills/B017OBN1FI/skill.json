@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OBN1FI",
-  "averageRating": 2.4,
+  "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "bingo",
   "name": "Bingo",
-  "numberOfReviews": 12,
+  "numberOfReviews": 13,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

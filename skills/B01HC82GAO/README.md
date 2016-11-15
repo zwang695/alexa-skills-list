@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Fluffy Radio icon" width="36"> [Fluffy Radio](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.58c11aa1-e0e7-4389-b46d-95e9584aaac8)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Fluffy Radio skill, try saying...
 

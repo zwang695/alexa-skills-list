@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Use Time to class to figure out how many minutes it takes to walk from one building to another at the Univeristy of Maryland.",
+  "description": "Use Terrapin Nav to figure out how many minutes it takes to walk from one building to another at the University of Maryland.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Terrapin Nav how long does it take to walk from Prince Frederick Hall to Computer Science Instructional Center",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Use Time to class to figure out how many minutes it takes to walk from one building to another at the Univeristy of Maryland.",
+  "shortDescription": "Use Terrapin Nav to figure out how many minutes it takes to walk from one building to another at the University of Maryland.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

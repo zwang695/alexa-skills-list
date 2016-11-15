@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Gainesville Bus icon" width="36"> [Gainesville Bus](http://alexa.amazon.com/#skills/amzn1.ask.skill.df93f715-d752-4527-9719-5f8f82ad6b7c)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Gainesville Bus skill, try saying...
 

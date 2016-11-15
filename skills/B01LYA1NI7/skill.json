@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01LYA1NI7",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1477480442.435,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.bf6ff37b-6f1d-4779-ab92-80ab9b1d2cc3",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LYA1NI7/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "innogy SE",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "CD1tRNgUyHZ973qf2dE73SoJc",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1VVVY5ZEZM4SL",
+  "vendorName": "innogy SE"
+}

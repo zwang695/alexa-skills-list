@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B017OBNE6O",
-  "averageRating": 2.3,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "high low",
   "name": "High Low Guessing Game",
-  "numberOfReviews": 8,
+  "numberOfReviews": 9,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -22,5 +22,4 @@ Just set up a list of participants via the Alexa app (e.g. "Mom", "Dad", "The Do
 * **Author:** askquickly.org
 * **Release Date:** July 27, 2016 @ 06:56:31
 * **Privacy Policy:** http://askquickly.org/privacy.html
-* **Account Linking Domains:** askquickly.org
 * **In-App Purchasing:** No

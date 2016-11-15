@@ -1,0 +1,39 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "scl.di.atlas.samsung.com",
+    "account.samsung.com"
+  ],
+  "asin": "B01GZDOJOI",
+  "averageRating": 2.2,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Samsung Home appliances have become even more convenient with Alexa.\n\nTo get started, register your smart appliances using the Samsung Smart Home app on your iOS or Android device. To use this skill click the \"Enable Skill\" button on the Alexa app and link your Samsung Smart Appliances account by signing in with the account used in the app. Once your account is connected, click the \"Discover Devices\" button in the Alexa app or you can say \"Alexa, discover my devices\" to discover your Samsung appliances. \nFor more information about connecting Smart Home devices, please visit http://amzn.to/291lR7u.\n\nYou can turn on/off your robot vacuum by saying \"Alexa, turn on the robot vacuum\" or \"Alexa, turn off the robot vacuum\"\nTo change the temperature of your air conditioner, say \"Alexa, set air conditioner to 70 degrees\"\n\n(You can set the temperature between 65℉ – 85℉ on all supported AC units through this skill. However, depending on your AC model, the Samsung mobile app for your specific unit may include a slightly different range.)\n\nIf you have any questions on Samsung appliances, please contact Samsung Suppport:\n-Robot vacuum: 1-800-SAMSUNG (726-7864)\n-AC: https://samsunghvac.com/contact_us.php",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1475856695.458,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.d6866c48-8c17-4eeb-ac71-49170e182625",
+  "imageAltText": "Samsung Smart Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01GZDOJOI/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Samsung Smart Home",
+  "numberOfReviews": 14,
+  "pamsPartnerId": "UZQlHYdgPBYMjrbgrqh9yOBdT",
+  "permissions": null,
+  "privacyPolicyUrl": "https://account.samsung.com/membership/pp",
+  "shortDescription": "You can use voice commands to control your Samsung Smart Home appliances with Amazon Alexa\n\nCompatible with Samsung Smart Robot Vacuum and AC, and more to come.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M11P8IHQIXWYUI",
+  "vendorName": "Samsung Electronics"
+}

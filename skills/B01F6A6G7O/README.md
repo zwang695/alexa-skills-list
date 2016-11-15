@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Family History icon" width="36"> [Family History](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e907ef35-93e3-4a73-99ef-b3d89d09f20b)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Family History skill, try saying...
 

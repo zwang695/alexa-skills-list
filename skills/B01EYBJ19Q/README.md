@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Ghost Detector icon" width="36"> [Ghost Detector](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8cf655f7-821e-4e0f-827e-994f6626712b)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Ghost Detector skill, try saying...
 

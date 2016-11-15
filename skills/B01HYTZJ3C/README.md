@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Tide Report icon" width="36"> [Tide Report](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5f05f3a2-c643-4314-a00e-0520f3d02a7e)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Tide Report skill, try saying...
 

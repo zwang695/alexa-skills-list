@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="GoodGuyBadGuy icon" width="36"> [GoodGuyBadGuy](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef9dc47e-e28d-48ef-9546-66c5bc7dfdb5)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the GoodGuyBadGuy skill, try saying...
 

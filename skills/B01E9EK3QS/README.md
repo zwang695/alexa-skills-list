@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Wind Report icon" width="36"> [Wind Report](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dd6be300-d523-463b-aa10-ed62372ccc60)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Wind Report skill, try saying...
 

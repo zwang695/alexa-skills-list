@@ -1,5 +1,5 @@
 # &nbsp;<img src="skill_icon" alt="Bible Game icon" width="36"> [Bible Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.e1ad5cc3-eb57-4701-9f71-08024dcd789d)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Bible Game skill, try saying...
 

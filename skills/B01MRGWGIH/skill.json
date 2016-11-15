@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MRGWGIH",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Need a little bit of inspiration? Ask Alexa.\nAlexa will give you a random inspirational quote from a list of 20. A perfect way to motivate you and start your day.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Open Inspirational Quotes and tell me a quote"
+  ],
+  "firstReleaseDate": 1478931273.532,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.fb486916-2a88-4592-81d9-7f758e36d3b8",
+  "imageAltText": "Inspirational Quotes icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MRGWGIH/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "inspirational quotes",
+  "name": "Inspirational Quotes",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "A skill that will give you an inspirational quote for the day.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1AGAO7TPCVA94",
+  "vendorName": "Courtney Shek"
+}

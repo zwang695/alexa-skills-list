@@ -1,15 +1,15 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01KGCJASY",
-  "averageRating": 5,
+  "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "With this skill the Amazon Echo can provide you with all of the important information on a movie.  This not only includes, plot, list of actors, and release date, but also the director, producers, and original music composer.\n\nCinemate provides an intuitive and natural user interface to make it as easy as possible for anyone to get movie information quickly.",
+  "description": "Version 2.0: Cinemate can now give you common movies between two actors.  You can ask it any variation of \"tell me the movies that Brad Pitt and Matt Damon are in\".\n\nWith this skill the Amazon Echo can provide you with all of the important information on a movie.  This not only includes, plot, cast list, and release date, but also the director, producers, and original music composer.\n\nCinemate provides an intuitive and natural user interface to make it as easy as possible for anyone to get movie information quickly.\n\nThis product uses the TMDb API but is not endorsed or certified by TMDb.",
   "enablement": null,
   "exampleInteractions": [
+    "Alexa, ask movie guide to tell me what movies Walter Matthau and Jack Lemmon are in together",
     "Alexa, ask movie guide to tell me about Rocky 4",
-    "Alexa, ask movie guide who directed The Jungle Book",
     "Alexa, ask movie guide to give me the cast of Suicide Squad"
   ],
   "firstReleaseDate": 1471954817.06,
@@ -21,14 +21,14 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "movie guide",
   "name": "Cinemate",
-  "numberOfReviews": 1,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "This skill provides a vast amount of movie information for all movies lovers!",
+  "shortDescription": "This skill provides a vast amount of movie information for all movie, lovers, including common movies between two actors.",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "https://www.themoviedb.org/documentation/api/terms-of-use",
   "vendorId": "M3UFXOWU3RPG7A",
   "vendorName": "John Chalet"
 }

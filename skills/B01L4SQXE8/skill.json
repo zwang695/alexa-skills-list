@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01L4SQXE8",
-  "averageRating": 0,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "You know those jokes your dad always tells that are just so lame they are funny. Well now ALEXA will keep up the dad tradition. New jokes added all the time!",
+  "description": "You know those jokes your dad always tells that are just so lame they are funny. Well now ALEXA will keep up the dad tradition. New jokes added all the time!\nSimply enable this skill and then say \"Alexa, open dad jokes and tell me a joke\".",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open dad jokes and tell me a joke",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "dad jokes",
   "name": "Dad Jokes",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
