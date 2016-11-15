@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mountaineering Facts icon" width="36"> [Mountaineering Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0e5d3578-4b6a-4649-b606-56c5ee989728)
+# [Mountaineering Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0e5d3578-4b6a-4649-b606-56c5ee989728)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mountaineering Facts skill, try saying...

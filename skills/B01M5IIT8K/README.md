@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Silly Dog Facts icon" width="36"> [Silly Dog Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.19ff7512-e46d-406c-bc00-5f677c5e94d4)
+# [Silly Dog Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.19ff7512-e46d-406c-bc00-5f677c5e94d4)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Silly Dog Facts skill, try saying...

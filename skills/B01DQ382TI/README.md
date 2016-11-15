@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tone Row Matrix Calculator icon" width="36"> [Tone Row Matrix Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3c3bc28a-0e77-4a28-8dbc-a7e3f0c2f7fb)
+# [Tone Row Matrix Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3c3bc28a-0e77-4a28-8dbc-a7e3f0c2f7fb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tone Row Matrix Calculator skill, try saying...

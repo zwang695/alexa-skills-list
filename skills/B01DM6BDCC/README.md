@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cricket Quizzer icon" width="36"> [Cricket Quizzer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.94b7f79f-8776-4329-88a1-9ad871ae3f1a)
+# [Cricket Quizzer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.94b7f79f-8776-4329-88a1-9ad871ae3f1a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cricket Quizzer skill, try saying...

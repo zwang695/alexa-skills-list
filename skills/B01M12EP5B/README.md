@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Dice Game icon" width="36"> [The Dice Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.6de5f7d3-c737-48f8-9172-65430deeacd9)
+# [The Dice Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.6de5f7d3-c737-48f8-9172-65430deeacd9)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the The Dice Game skill, try saying...

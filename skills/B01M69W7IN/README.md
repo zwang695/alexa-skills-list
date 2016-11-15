@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Factorize My Voice icon" width="36"> [Factorize My Voice](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f5bae1f-8af6-475a-b269-abffe2279537)
+# [Factorize My Voice](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f5bae1f-8af6-475a-b269-abffe2279537)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Factorize My Voice skill, try saying...

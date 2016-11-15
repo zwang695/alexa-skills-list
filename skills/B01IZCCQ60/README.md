@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Energy Tips icon" width="36"> [Energy Tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.85cc71d8-0271-4cc4-b4fd-1113a184a3e0)
+# [Energy Tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.85cc71d8-0271-4cc4-b4fd-1113a184a3e0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Energy Tips skill, try saying...

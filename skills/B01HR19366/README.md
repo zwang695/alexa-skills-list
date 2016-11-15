@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Game Devs icon" width="36"> [Game Devs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9ca546b7-6e5a-4b3a-af41-f0f3b37f704e)
+# [Game Devs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9ca546b7-6e5a-4b3a-af41-f0f3b37f704e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Game Devs skill, try saying...

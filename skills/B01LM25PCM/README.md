@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Zodiac Dates icon" width="36"> [Zodiac Dates](http://alexa.amazon.com/#skills/amzn1.ask.skill.afa24a93-07c8-4f08-8cf1-754bc4921e72)
+# [Zodiac Dates](http://alexa.amazon.com/#skills/amzn1.ask.skill.afa24a93-07c8-4f08-8cf1-754bc4921e72)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Zodiac Dates skill, try saying...

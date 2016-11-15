@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="earth facts icon" width="36"> [earth facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.47b79ca2-3fa6-460e-b9f5-3e8ddfb06a59)
+# [earth facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.47b79ca2-3fa6-460e-b9f5-3e8ddfb06a59)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the earth facts skill, try saying...

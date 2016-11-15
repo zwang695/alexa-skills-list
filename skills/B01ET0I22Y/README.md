@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tabletop Trivia icon" width="36"> [Tabletop Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9bfdf519-77a8-4e4c-a3a3-bed400a45fbd)
+# [Tabletop Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9bfdf519-77a8-4e4c-a3a3-bed400a45fbd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tabletop Trivia skill, try saying...

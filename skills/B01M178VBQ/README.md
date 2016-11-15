@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Motivate Me, Please icon" width="36"> [Motivate Me, Please](http://alexa.amazon.com/#skills/amzn1.ask.skill.001e10ba-56a1-4c36-baf3-1311251aea62)
+# [Motivate Me, Please](http://alexa.amazon.com/#skills/amzn1.ask.skill.001e10ba-56a1-4c36-baf3-1311251aea62)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Motivate Me, Please skill, try saying...

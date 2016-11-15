@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Whiteboard icon" width="36"> [Whiteboard](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3556ea76-1e08-42af-a83b-6005dd3139f8)
+# [Whiteboard](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3556ea76-1e08-42af-a83b-6005dd3139f8)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Whiteboard skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="President Birthday icon" width="36"> [President Birthday](http://alexa.amazon.com/#skills/amzn1.ask.skill.9c09e764-ac2a-4b29-909b-fa47801aa7c9)
+# [President Birthday](http://alexa.amazon.com/#skills/amzn1.ask.skill.9c09e764-ac2a-4b29-909b-fa47801aa7c9)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the President Birthday skill, try saying...

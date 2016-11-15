@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Skyloft Ski Club icon" width="36"> [Snow Report for Skyloft Ski Club](http://alexa.amazon.com/#skills/amzn1.ask.skill.6a381426-c256-4e61-97e5-fdae33feb098)
+# [Snow Report for Skyloft Ski Club](http://alexa.amazon.com/#skills/amzn1.ask.skill.6a381426-c256-4e61-97e5-fdae33feb098)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Skyloft Ski Club skill, try saying...

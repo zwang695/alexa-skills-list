@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Traveler's Trivia icon" width="36"> [Traveler's Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.256a4833-b228-4c6c-af29-29a820731463)
+# [Traveler's Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.256a4833-b228-4c6c-af29-29a820731463)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Traveler's Trivia skill, try saying...

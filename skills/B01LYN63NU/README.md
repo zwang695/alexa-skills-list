@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baseball Scores icon" width="36"> [Baseball Scores](http://alexa.amazon.com/#skills/amzn1.ask.skill.c834be32-d518-46cb-b5cc-7a08fc2039c8)
+# [Baseball Scores](http://alexa.amazon.com/#skills/amzn1.ask.skill.c834be32-d518-46cb-b5cc-7a08fc2039c8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Baseball Scores skill, try saying...

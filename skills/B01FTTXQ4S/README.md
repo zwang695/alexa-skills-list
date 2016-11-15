@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Kirkland Middle School STEM Night icon" width="36"> [Kirkland Middle School STEM Night](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.17eeebf2-d0fc-4a2e-accb-ffb6647a2403)
+# [Kirkland Middle School STEM Night](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.17eeebf2-d0fc-4a2e-accb-ffb6647a2403)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Kirkland Middle School STEM Night skill, try saying...

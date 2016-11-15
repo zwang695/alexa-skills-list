@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Grumpy GM icon" width="36"> [Grumpy GM](http://alexa.amazon.com/#skills/amzn1.ask.skill.4dd1982c-e83f-42e4-a082-4ebdb76618b7)
+# [Grumpy GM](http://alexa.amazon.com/#skills/amzn1.ask.skill.4dd1982c-e83f-42e4-a082-4ebdb76618b7)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Grumpy GM skill, try saying...

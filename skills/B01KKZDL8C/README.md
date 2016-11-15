@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fitness exercises icon" width="36"> [Fitness exercises](http://alexa.amazon.com/#skills/amzn1.ask.skill.beafefb8-42a9-4504-99ab-0ac9d735eac0)
+# [Fitness exercises](http://alexa.amazon.com/#skills/amzn1.ask.skill.beafefb8-42a9-4504-99ab-0ac9d735eac0)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Fitness exercises skill, try saying...

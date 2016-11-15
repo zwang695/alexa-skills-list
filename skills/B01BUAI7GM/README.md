@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lyrical icon" width="36"> [Lyrical](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5e0c4582-b163-4a9a-a2cb-53dc9a6ea5a9)
+# [Lyrical](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5e0c4582-b163-4a9a-a2cb-53dc9a6ea5a9)
 ![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 17
 
 To use the Lyrical skill, try saying...

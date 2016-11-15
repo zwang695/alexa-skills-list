@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ghana Facts icon" width="36"> [Ghana Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.dbb4cb95-e0c8-4f47-a5c2-02b2576394a8)
+# [Ghana Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.dbb4cb95-e0c8-4f47-a5c2-02b2576394a8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ghana Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="80's Movie Trivia icon" width="36"> [80's Movie Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.17a1a310-8f50-4133-99ed-8a1a2ff693df)
+# [80's Movie Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.17a1a310-8f50-4133-99ed-8a1a2ff693df)
 ![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the 80's Movie Trivia skill, try saying...

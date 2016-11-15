@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Specials icon" width="36"> [Daily Specials](http://alexa.amazon.com/#skills/amzn1.ask.skill.70411f7f-b665-49d7-97b8-280a962dff5b)
+# [Daily Specials](http://alexa.amazon.com/#skills/amzn1.ask.skill.70411f7f-b665-49d7-97b8-280a962dff5b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Daily Specials skill, try saying...

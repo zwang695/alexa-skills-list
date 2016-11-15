@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Olympus Quiz icon" width="36"> [Olympus Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e39ca30-0a52-4c50-84ec-4a9004c24f79)
+# [Olympus Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e39ca30-0a52-4c50-84ec-4a9004c24f79)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Olympus Quiz skill, try saying...

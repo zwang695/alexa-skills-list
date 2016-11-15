@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Restaurant Explorer icon" width="36"> [Restaurant Explorer](http://alexa.amazon.com/#skills/amzn1.ask.skill.ea3cdad2-2e98-4b0e-a12d-fddeb044b1b7)
+# [Restaurant Explorer](http://alexa.amazon.com/#skills/amzn1.ask.skill.ea3cdad2-2e98-4b0e-a12d-fddeb044b1b7)
 ![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Restaurant Explorer skill, try saying...

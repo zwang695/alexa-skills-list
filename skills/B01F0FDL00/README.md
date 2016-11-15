@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="IoT Trivia Game icon" width="36"> [IoT Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.450f63fa-ee49-4090-a9ca-45354bb22eb3)
+# [IoT Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.450f63fa-ee49-4090-a9ca-45354bb22eb3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the IoT Trivia Game skill, try saying...

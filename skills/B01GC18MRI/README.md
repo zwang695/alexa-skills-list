@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hampshire geek icon" width="36"> [Hampshire geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a668d81-74d3-43d7-8138-426fc8416b15)
+# [Hampshire geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a668d81-74d3-43d7-8138-426fc8416b15)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hampshire geek skill, try saying...

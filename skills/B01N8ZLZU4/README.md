@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Audio Skill icon" width="36"> [Audio Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eddd0859-aa36-4145-a138-0a1465b8cc4c)
+# [Audio Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eddd0859-aa36-4145-a138-0a1465b8cc4c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Audio Skill skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trigonometric Identities icon" width="36"> [Trigonometric Identities](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5944410f-7e71-495c-8147-417df3ead251)
+# [Trigonometric Identities](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5944410f-7e71-495c-8147-417df3ead251)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trigonometric Identities skill, try saying...

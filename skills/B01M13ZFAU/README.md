@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Full Moon? icon" width="36"> [Full Moon?](http://alexa.amazon.com/#skills/amzn1.ask.skill.1845d6b9-e22b-4011-9183-b73edf817cdf)
+# [Full Moon?](http://alexa.amazon.com/#skills/amzn1.ask.skill.1845d6b9-e22b-4011-9183-b73edf817cdf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Full Moon? skill, try saying...

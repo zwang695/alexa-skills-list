@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Area Code icon" width="36"> [Area Code](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.582bb4be-a571-4c73-bda7-ae2cfe19d47c)
+# [Area Code](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.582bb4be-a571-4c73-bda7-ae2cfe19d47c)
 ![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 13
 
 To use the Area Code skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Incredible India icon" width="36"> [Incredible India](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.60ed1ee7-1b8a-4216-b485-37a3c62ec6c6)
+# [Incredible India](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.60ed1ee7-1b8a-4216-b485-37a3c62ec6c6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Incredible India skill, try saying...

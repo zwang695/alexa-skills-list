@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Powderhouse Hill icon" width="36"> [Snow Report for Powderhouse Hill](http://alexa.amazon.com/#skills/amzn1.ask.skill.13e93830-01a2-4b9c-acc9-59d067f4f435)
+# [Snow Report for Powderhouse Hill](http://alexa.amazon.com/#skills/amzn1.ask.skill.13e93830-01a2-4b9c-acc9-59d067f4f435)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Powderhouse Hill skill, try saying...

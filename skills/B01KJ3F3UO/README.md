@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fruit Nut icon" width="36"> [Fruit Nut](http://alexa.amazon.com/#skills/amzn1.ask.skill.76bde7d1-4ce6-4c4f-8687-15627f5450a2)
+# [Fruit Nut](http://alexa.amazon.com/#skills/amzn1.ask.skill.76bde7d1-4ce6-4c4f-8687-15627f5450a2)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Fruit Nut skill, try saying...

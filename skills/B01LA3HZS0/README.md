@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BarJoker icon" width="36"> [BarJoker](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b1a5e3f-8fcf-4491-abbb-592365f001db)
+# [BarJoker](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b1a5e3f-8fcf-4491-abbb-592365f001db)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BarJoker skill, try saying...

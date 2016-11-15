@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sportcasts icon" width="36"> [Sportcasts](http://alexa.amazon.com/#skills/amzn1.ask.skill.128c0cb9-66de-4f7a-a45f-6eabb60ad3fe)
+# [Sportcasts](http://alexa.amazon.com/#skills/amzn1.ask.skill.128c0cb9-66de-4f7a-a45f-6eabb60ad3fe)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Sportcasts skill, try saying...

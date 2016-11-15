@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ItemManager icon" width="36"> [ItemManager](http://alexa.amazon.com/#skills/amzn1.ask.skill.d3a1b96f-cedb-47ab-b4fa-01129c379e2f)
+# [ItemManager](http://alexa.amazon.com/#skills/amzn1.ask.skill.d3a1b96f-cedb-47ab-b4fa-01129c379e2f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ItemManager skill, try saying...

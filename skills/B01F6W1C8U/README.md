@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computer Trivia icon" width="36"> [Computer Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1aa0d024-9f5a-47fd-9279-633cf07763b2)
+# [Computer Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1aa0d024-9f5a-47fd-9279-633cf07763b2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Computer Trivia skill, try saying...

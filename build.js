@@ -290,7 +290,7 @@ var Template = {
 			contents  = '\n';
 			contents += '***\n';
 			contents += '\n';
-			contents += '## ' + Template.skill.icon(skill) + ' [' + skill.name + '](' + config.skillsDir + '/' + skill.asin + ')\n';
+			contents += '## [' + skill.name + '](' + config.skillsDir + '/' + skill.asin + ')\n';
 			contents += '\n';
 			contents += '*' + (skill.exampleInteractions[0] ? skill.exampleInteractions[0] : 'There are no example interactions for this skill.') + '*\n';
 			contents += '\n';
@@ -303,7 +303,7 @@ var Template = {
 			var contents = '';
 
 			// Skill name
-			contents  = '# ' + Template.skill.icon(skill, true) + ' [' + skill.name + '](http://alexa.amazon.com/#skills/' + skill.id + ')\n';
+			contents  = '# [' + skill.name + '](http://alexa.amazon.com/#skills/' + skill.id + ')\n';
 
 			// Skill rating and reviews
 			var starImage = '';
@@ -536,9 +536,10 @@ for (var key in skills) {
 		}
 
 		// Download skill image
-		var imageFile = skillDir + '/' + config.iconFile;
+		//var imageFile = skillDir + '/' + config.iconFile;
 
 		// Check to see if the image exists
+		/*
 		fs.lstat(imageFile, function(err, stats) {
 			// Check for an error (file does not exist)
 			if (err) {
@@ -555,6 +556,7 @@ for (var key in skills) {
 				}
 			}
 		});
+		*/
 
 		// Detect to see if skill skill.json needs to be updated
 		var jsonOutput = Template.skill.json(skill);

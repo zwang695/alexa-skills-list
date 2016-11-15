@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Server Status icon" width="36"> [Server Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.b81e608a-7233-4db5-a8f5-2c1228a06adf)
+# [Server Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.b81e608a-7233-4db5-a8f5-2c1228a06adf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Server Status skill, try saying...

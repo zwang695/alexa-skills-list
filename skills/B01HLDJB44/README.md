@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baseball Fun Fact icon" width="36"> [Baseball Fun Fact](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.28a88026-8b40-4a4b-9bb5-e91595297d77)
+# [Baseball Fun Fact](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.28a88026-8b40-4a4b-9bb5-e91595297d77)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Baseball Fun Fact skill, try saying...

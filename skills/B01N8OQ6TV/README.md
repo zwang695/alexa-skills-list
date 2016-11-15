@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="candle magic facts icon" width="36"> [candle magic facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.33348870-0076-48e8-97a4-70cc17184b90)
+# [candle magic facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.33348870-0076-48e8-97a4-70cc17184b90)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the candle magic facts skill, try saying...

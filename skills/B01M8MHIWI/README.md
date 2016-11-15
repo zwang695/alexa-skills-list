@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mount Ashland icon" width="36"> [Snow Report for Mount Ashland](http://alexa.amazon.com/#skills/amzn1.ask.skill.62079664-de28-41f2-af92-53c44b2dfb1d)
+# [Snow Report for Mount Ashland](http://alexa.amazon.com/#skills/amzn1.ask.skill.62079664-de28-41f2-af92-53c44b2dfb1d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mount Ashland skill, try saying...

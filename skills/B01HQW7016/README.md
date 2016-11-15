@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="FridgeStorageTimesHelper icon" width="36"> [FridgeStorageTimesHelper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.20c87d4c-f522-4d0d-81e2-39aef0c3a7ad)
+# [FridgeStorageTimesHelper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.20c87d4c-f522-4d0d-81e2-39aef0c3a7ad)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the FridgeStorageTimesHelper skill, try saying...

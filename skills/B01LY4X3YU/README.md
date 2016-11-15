@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Famous Sonnet icon" width="36"> [Famous Sonnet](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ae3e9ea-54bc-4ff9-9a85-5e6e9fbabf58)
+# [Famous Sonnet](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ae3e9ea-54bc-4ff9-9a85-5e6e9fbabf58)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Famous Sonnet skill, try saying...

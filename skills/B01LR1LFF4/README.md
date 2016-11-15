@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Boom Boom icon" width="36"> [Boom Boom](http://alexa.amazon.com/#skills/amzn1.ask.skill.a4026bad-2439-496f-94dd-268b0c08abb4)
+# [Boom Boom](http://alexa.amazon.com/#skills/amzn1.ask.skill.a4026bad-2439-496f-94dd-268b0c08abb4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Boom Boom skill, try saying...

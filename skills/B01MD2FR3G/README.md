@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Did Hadron Collider destroy the world? icon" width="36"> [Did Hadron Collider destroy the world?](http://alexa.amazon.com/#skills/amzn1.ask.skill.29ce2232-2939-4aab-8af2-ffe8d4020446)
+# [Did Hadron Collider destroy the world?](http://alexa.amazon.com/#skills/amzn1.ask.skill.29ce2232-2939-4aab-8af2-ffe8d4020446)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Did Hadron Collider destroy the world? skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Three month old baby facts icon" width="36"> [Three month old baby facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.abf11b37-3904-4e04-b584-22c7cec8e76c)
+# [Three month old baby facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.abf11b37-3904-4e04-b584-22c7cec8e76c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Three month old baby facts skill, try saying...

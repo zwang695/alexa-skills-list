@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cloud Quiz icon" width="36"> [Cloud Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.69c4e008-ab31-48c7-abf4-8c0da898534c)
+# [Cloud Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.69c4e008-ab31-48c7-abf4-8c0da898534c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cloud Quiz skill, try saying...

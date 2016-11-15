@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Serverless Terms icon" width="36"> [Serverless Terms](http://alexa.amazon.com/#skills/amzn1.ask.skill.07cec693-f49d-4526-95a8-b836886941f8)
+# [Serverless Terms](http://alexa.amazon.com/#skills/amzn1.ask.skill.07cec693-f49d-4526-95a8-b836886941f8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Serverless Terms skill, try saying...

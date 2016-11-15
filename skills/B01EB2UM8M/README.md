@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="AboutAudacyCorp icon" width="36"> [AboutAudacyCorp](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1c46443-b819-483c-8f71-aed5b9ca9331)
+# [AboutAudacyCorp](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1c46443-b819-483c-8f71-aed5b9ca9331)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the AboutAudacyCorp skill, try saying...

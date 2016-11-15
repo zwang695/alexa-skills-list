@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="tddQuiz icon" width="36"> [tddQuiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.48a6184d-3e99-4c8f-9675-6d2559183036)
+# [tddQuiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.48a6184d-3e99-4c8f-9675-6d2559183036)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the tddQuiz skill, try saying...

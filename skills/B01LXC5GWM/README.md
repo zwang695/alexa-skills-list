@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Stevens Pass icon" width="36"> [Snow Report for Stevens Pass](http://alexa.amazon.com/#skills/amzn1.ask.skill.2a5e4f46-a29f-43bb-9917-3535d26d746c)
+# [Snow Report for Stevens Pass](http://alexa.amazon.com/#skills/amzn1.ask.skill.2a5e4f46-a29f-43bb-9917-3535d26d746c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Stevens Pass skill, try saying...

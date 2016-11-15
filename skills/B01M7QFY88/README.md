@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Count ME icon" width="36"> [Count ME](http://alexa.amazon.com/#skills/amzn1.ask.skill.fcc4b403-d5ff-4a2d-924d-56802a324035)
+# [Count ME](http://alexa.amazon.com/#skills/amzn1.ask.skill.fcc4b403-d5ff-4a2d-924d-56802a324035)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Count ME skill, try saying...

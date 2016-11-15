@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Camden Snow Bowl icon" width="36"> [Snow Report for Camden Snow Bowl](http://alexa.amazon.com/#skills/amzn1.ask.skill.7306dec2-e25c-4b82-a503-37dda0bccbce)
+# [Snow Report for Camden Snow Bowl](http://alexa.amazon.com/#skills/amzn1.ask.skill.7306dec2-e25c-4b82-a503-37dda0bccbce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Camden Snow Bowl skill, try saying...

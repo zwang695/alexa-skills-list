@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Knock Knock Jokes icon" width="36"> [Knock Knock Jokes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d16e6ade-ebd2-493a-b37a-7b7b2425bd66)
+# [Knock Knock Jokes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d16e6ade-ebd2-493a-b37a-7b7b2425bd66)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 38
 
 To use the Knock Knock Jokes skill, try saying...

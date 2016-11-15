@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Death Info for Westeros icon" width="36"> [Death Info for Westeros](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.42d40dad-0baa-415c-8f75-4935935a6534)
+# [Death Info for Westeros](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.42d40dad-0baa-415c-8f75-4935935a6534)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Death Info for Westeros skill, try saying...

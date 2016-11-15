@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Difficult Word Quiz icon" width="36"> [Difficult Word Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c4dc3e9a-1566-4659-9c88-d780aab9c8cb)
+# [Difficult Word Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c4dc3e9a-1566-4659-9c88-d780aab9c8cb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Difficult Word Quiz skill, try saying...

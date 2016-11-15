@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Programming Language Authors icon" width="36"> [Programming Language Authors](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7d68a544-1094-4c30-b810-21d724c86754)
+# [Programming Language Authors](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7d68a544-1094-4c30-b810-21d724c86754)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Programming Language Authors skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Board Gamer icon" width="36"> [Board Gamer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.795c17b9-6ce0-42a3-bc69-60fa03fc9add)
+# [Board Gamer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.795c17b9-6ce0-42a3-bc69-60fa03fc9add)
 ![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Board Gamer skill, try saying...

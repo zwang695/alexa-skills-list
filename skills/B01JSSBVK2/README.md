@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Arizona Facts icon" width="36"> [Arizona Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7cdcd14d-b080-4dbf-af84-787204f61a4c)
+# [Arizona Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7cdcd14d-b080-4dbf-af84-787204f61a4c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Arizona Facts skill, try saying...

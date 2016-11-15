@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Jazz Trivia icon" width="36"> [Jazz Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8ea23d9-01b5-4d43-80ef-65a6d17c4d8d)
+# [Jazz Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8ea23d9-01b5-4d43-80ef-65a6d17c4d8d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Jazz Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Perfect North Slopes icon" width="36"> [Snow Report for Perfect North Slopes](http://alexa.amazon.com/#skills/amzn1.ask.skill.154916bf-2db5-4901-9a23-70bf34fe515d)
+# [Snow Report for Perfect North Slopes](http://alexa.amazon.com/#skills/amzn1.ask.skill.154916bf-2db5-4901-9a23-70bf34fe515d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Perfect North Slopes skill, try saying...

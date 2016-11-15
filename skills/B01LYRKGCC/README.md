@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cheese Of The Day icon" width="36"> [Cheese Of The Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.bf880f90-8ce2-4e4e-a71e-139d0ed09297)
+# [Cheese Of The Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.bf880f90-8ce2-4e4e-a71e-139d0ed09297)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cheese Of The Day skill, try saying...

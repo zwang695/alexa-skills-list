@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for McCauley Mountain icon" width="36"> [Snow Report for McCauley Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.ac7d59f3-f708-4ca2-bb7d-2df92ea4e1d7)
+# [Snow Report for McCauley Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.ac7d59f3-f708-4ca2-bb7d-2df92ea4e1d7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for McCauley Mountain skill, try saying...

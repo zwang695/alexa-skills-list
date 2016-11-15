@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Wachusett Ski Area icon" width="36"> [Snow Report for Wachusett Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b174211-ccdc-4d87-8f85-a5aea640cbef)
+# [Snow Report for Wachusett Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b174211-ccdc-4d87-8f85-a5aea640cbef)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Wachusett Ski Area skill, try saying...

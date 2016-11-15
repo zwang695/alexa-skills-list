@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Hamster Facts icon" width="36"> [My Hamster Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.401b5bb7-4673-4a92-b51d-f62b7eb69bf8)
+# [My Hamster Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.401b5bb7-4673-4a92-b51d-f62b7eb69bf8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My Hamster Facts skill, try saying...

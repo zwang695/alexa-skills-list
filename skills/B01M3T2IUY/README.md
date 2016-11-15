@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Flavor Text Reader for Karazhan icon" width="36"> [Flavor Text Reader for Karazhan](http://alexa.amazon.com/#skills/amzn1.ask.skill.1ca83ac4-1260-4fc8-9e19-b03e7ad6ea63)
+# [Flavor Text Reader for Karazhan](http://alexa.amazon.com/#skills/amzn1.ask.skill.1ca83ac4-1260-4fc8-9e19-b03e7ad6ea63)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Flavor Text Reader for Karazhan skill, try saying...

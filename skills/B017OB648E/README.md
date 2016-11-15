@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Edgar Facts icon" width="36"> [Edgar Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0e44f846-df40-425c-807a-8957e3c5f089)
+# [Edgar Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0e44f846-df40-425c-807a-8957e3c5f089)
 ![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Edgar Facts skill, try saying...

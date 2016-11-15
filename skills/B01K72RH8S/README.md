@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Spell Master icon" width="36"> [Spell Master](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.02f2063d-d5a1-4a3a-ae94-d27d41f5e953)
+# [Spell Master](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.02f2063d-d5a1-4a3a-ae94-d27d41f5e953)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Spell Master skill, try saying...

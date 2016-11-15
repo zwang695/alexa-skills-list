@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Night Light icon" width="36"> [Night Light](http://alexa.amazon.com/#skills/amzn1.ask.skill.bab52b56-fb98-4380-9453-362b6b3a47dd)
+# [Night Light](http://alexa.amazon.com/#skills/amzn1.ask.skill.bab52b56-fb98-4380-9453-362b6b3a47dd)
 ![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 19
 
 To use the Night Light skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Help Me Quit icon" width="36"> [Help Me Quit](http://alexa.amazon.com/#skills/amzn1.ask.skill.78b8a20f-9929-4e7c-b58c-04d2eefd2cb1)
+# [Help Me Quit](http://alexa.amazon.com/#skills/amzn1.ask.skill.78b8a20f-9929-4e7c-b58c-04d2eefd2cb1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Help Me Quit skill, try saying...

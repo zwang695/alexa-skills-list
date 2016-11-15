@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sonika Vaid Trivia icon" width="36"> [Sonika Vaid Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.12c6c606-3c05-4867-a69d-5e34bb1ac674)
+# [Sonika Vaid Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.12c6c606-3c05-4867-a69d-5e34bb1ac674)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Sonika Vaid Trivia skill, try saying...

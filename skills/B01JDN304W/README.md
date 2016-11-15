@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nigeria Facts icon" width="36"> [Nigeria Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9d3ccad9-5dcd-4fcd-a24e-28466150c277)
+# [Nigeria Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9d3ccad9-5dcd-4fcd-a24e-28466150c277)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Nigeria Facts skill, try saying...

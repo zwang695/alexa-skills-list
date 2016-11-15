@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Number Fact icon" width="36"> [Number Fact](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.329b862f-4744-4b88-9691-264847f47162)
+# [Number Fact](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.329b862f-4744-4b88-9691-264847f47162)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Number Fact skill, try saying...

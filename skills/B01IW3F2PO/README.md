@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Caribbean Trivia icon" width="36"> [Caribbean Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.7aa2346e-8997-4169-9aa0-fb7c483f31c2)
+# [Caribbean Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.7aa2346e-8997-4169-9aa0-fb7c483f31c2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Caribbean Trivia skill, try saying...

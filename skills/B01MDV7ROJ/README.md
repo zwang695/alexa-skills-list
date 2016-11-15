@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Solitude Mountain icon" width="36"> [Snow Report for Solitude Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.97d14ece-7ba1-43d6-9e79-06f2abfa085d)
+# [Snow Report for Solitude Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.97d14ece-7ba1-43d6-9e79-06f2abfa085d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Solitude Mountain skill, try saying...

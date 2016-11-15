@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Answer is Bacon icon" width="36"> [The Answer is Bacon](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.90983d51-f445-47ec-a196-ba6cba2b2c70)
+# [The Answer is Bacon](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.90983d51-f445-47ec-a196-ba6cba2b2c70)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Answer is Bacon skill, try saying...

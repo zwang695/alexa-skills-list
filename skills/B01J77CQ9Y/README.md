@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Animation Technology Trivia icon" width="36"> [Animation Technology Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.05c09656-e9af-4f62-bcb1-322bde4b6aa0)
+# [Animation Technology Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.05c09656-e9af-4f62-bcb1-322bde4b6aa0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Animation Technology Trivia skill, try saying...

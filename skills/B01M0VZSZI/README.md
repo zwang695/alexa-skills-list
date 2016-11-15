@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Chess icon" width="36"> [Random Chess](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a08d3ae-3ab8-4759-8be9-4042b8122db5)
+# [Random Chess](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a08d3ae-3ab8-4759-8be9-4042b8122db5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Chess skill, try saying...

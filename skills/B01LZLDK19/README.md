@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fake Facts icon" width="36"> [Fake Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cfcf1d57-191c-43a6-a119-5081d895d2da)
+# [Fake Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cfcf1d57-191c-43a6-a119-5081d895d2da)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fake Facts skill, try saying...

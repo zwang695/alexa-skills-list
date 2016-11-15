@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="VoiceMyBot icon" width="36"> [VoiceMyBot](http://alexa.amazon.com/#skills/amzn1.ask.skill.6bf1e3be-c838-471b-b749-9b471624ea39)
+# [VoiceMyBot](http://alexa.amazon.com/#skills/amzn1.ask.skill.6bf1e3be-c838-471b-b749-9b471624ea39)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the VoiceMyBot skill, try saying...

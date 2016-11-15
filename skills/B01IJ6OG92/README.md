@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Southington Facts icon" width="36"> [Southington Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6cca0cad-c50d-415e-8210-6fc2ccabac41)
+# [Southington Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6cca0cad-c50d-415e-8210-6fc2ccabac41)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Southington Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="New York Green Markets icon" width="36"> [New York Green Markets](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.975b7f51-e0d4-42f5-aa32-6df0388860e7)
+# [New York Green Markets](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.975b7f51-e0d4-42f5-aa32-6df0388860e7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the New York Green Markets skill, try saying...

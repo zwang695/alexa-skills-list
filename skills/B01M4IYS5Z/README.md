@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lower Limb Muscle Revision icon" width="36"> [Lower Limb Muscle Revision](http://alexa.amazon.com/#skills/amzn1.ask.skill.77468bad-7596-4ec5-84dd-12428ed57fab)
+# [Lower Limb Muscle Revision](http://alexa.amazon.com/#skills/amzn1.ask.skill.77468bad-7596-4ec5-84dd-12428ed57fab)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lower Limb Muscle Revision skill, try saying...

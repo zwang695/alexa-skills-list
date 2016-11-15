@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Buena Vista icon" width="36"> [Snow Report for Buena Vista](http://alexa.amazon.com/#skills/amzn1.ask.skill.71734930-ec2a-4ad0-a698-2dd689fd9d4e)
+# [Snow Report for Buena Vista](http://alexa.amazon.com/#skills/amzn1.ask.skill.71734930-ec2a-4ad0-a698-2dd689fd9d4e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Buena Vista skill, try saying...

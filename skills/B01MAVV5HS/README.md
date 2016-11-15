@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Major System icon" width="36"> [Major System](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c3ea361-6aee-4adb-9838-25efcfcfe150)
+# [Major System](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c3ea361-6aee-4adb-9838-25efcfcfe150)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Major System skill, try saying...

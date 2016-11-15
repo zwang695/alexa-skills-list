@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chef Basil icon" width="36"> [Chef Basil](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2f945ecc-1e08-4df9-a33e-f309e2991aaa)
+# [Chef Basil](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2f945ecc-1e08-4df9-a33e-f309e2991aaa)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Chef Basil skill, try saying...

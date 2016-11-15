@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Greenwich Time icon" width="36"> [Greenwich Time](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fe04d827-6f0b-4564-ae48-364cb53e2d34)
+# [Greenwich Time](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fe04d827-6f0b-4564-ae48-364cb53e2d34)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Greenwich Time skill, try saying...

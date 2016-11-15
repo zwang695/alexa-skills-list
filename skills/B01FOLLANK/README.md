@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="How to make ramen icon" width="36"> [How to make ramen](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1497d4da-7e2a-47d3-9dd6-e6e9fcd660bc)
+# [How to make ramen](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1497d4da-7e2a-47d3-9dd6-e6e9fcd660bc)
 ![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the How to make ramen skill, try saying...

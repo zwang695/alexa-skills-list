@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Insure.Academy icon" width="36"> [Insure.Academy](http://alexa.amazon.com/#skills/amzn1.ask.skill.3b36a7ab-6658-485f-8f7a-1e028d279a13)
+# [Insure.Academy](http://alexa.amazon.com/#skills/amzn1.ask.skill.3b36a7ab-6658-485f-8f7a-1e028d279a13)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Insure.Academy skill, try saying...

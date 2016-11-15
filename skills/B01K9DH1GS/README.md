@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SolarFacts icon" width="36"> [SolarFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b9d58328-607e-44ee-8846-341496f7921d)
+# [SolarFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b9d58328-607e-44ee-8846-341496f7921d)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the SolarFacts skill, try saying...

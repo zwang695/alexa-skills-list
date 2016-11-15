@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Fire Fighter's Prayer icon" width="36"> [The Fire Fighter's Prayer](http://alexa.amazon.com/#skills/amzn1.ask.skill.5e54ba63-9f49-4d65-9808-c7b946a8f606)
+# [The Fire Fighter's Prayer](http://alexa.amazon.com/#skills/amzn1.ask.skill.5e54ba63-9f49-4d65-9808-c7b946a8f606)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the The Fire Fighter's Prayer skill, try saying...

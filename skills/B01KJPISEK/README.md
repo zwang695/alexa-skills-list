@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fitness Motivation Quote icon" width="36"> [Fitness Motivation Quote](http://alexa.amazon.com/#skills/amzn1.ask.skill.4f78bcbb-be0a-4cc0-9e4b-7d2d36fa3ed9)
+# [Fitness Motivation Quote](http://alexa.amazon.com/#skills/amzn1.ask.skill.4f78bcbb-be0a-4cc0-9e4b-7d2d36fa3ed9)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Fitness Motivation Quote skill, try saying...

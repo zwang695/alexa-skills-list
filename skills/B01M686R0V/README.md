@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Decide lunch icon" width="36"> [Decide lunch](http://alexa.amazon.com/#skills/amzn1.ask.skill.bcb75b99-0468-4cff-acb5-01f68acc3b35)
+# [Decide lunch](http://alexa.amazon.com/#skills/amzn1.ask.skill.bcb75b99-0468-4cff-acb5-01f68acc3b35)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Decide lunch skill, try saying...

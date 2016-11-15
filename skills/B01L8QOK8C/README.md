@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Almanac icon" width="36"> [Almanac](http://alexa.amazon.com/#skills/amzn1.ask.skill.27a1e8e3-0d23-414d-a8e6-1de3c99d7820)
+# [Almanac](http://alexa.amazon.com/#skills/amzn1.ask.skill.27a1e8e3-0d23-414d-a8e6-1de3c99d7820)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Almanac skill, try saying...

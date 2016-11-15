@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computers and Technology Trivia icon" width="36"> [Computers and Technology Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.880a1bb3-8da4-42dd-b700-542fc755c1b7)
+# [Computers and Technology Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.880a1bb3-8da4-42dd-b700-542fc755c1b7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Computers and Technology Trivia skill, try saying...

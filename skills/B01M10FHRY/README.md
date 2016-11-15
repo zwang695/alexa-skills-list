@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Snow Valley icon" width="36"> [Snow Report for Snow Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2883eb9-52ed-40be-a674-a8b995b4ba42)
+# [Snow Report for Snow Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2883eb9-52ed-40be-a674-a8b995b4ba42)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Snow Valley skill, try saying...

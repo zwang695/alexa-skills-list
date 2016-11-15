@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Dave Payne](http://alexa.amazon.com/#skills/amzn1.ask.skill.e11f4ed9-3482-45e3-b3b9-20d732d1f779)
+# [Dave Payne](http://alexa.amazon.com/#skills/amzn1.ask.skill.e11f4ed9-3482-45e3-b3b9-20d732d1f779)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

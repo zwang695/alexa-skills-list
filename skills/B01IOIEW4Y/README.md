@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Donald Facts icon" width="36"> [The Donald Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7be7a3d0-ff38-4643-9e45-cd063c98eb28)
+# [The Donald Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7be7a3d0-ff38-4643-9e45-cd063c98eb28)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the The Donald Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ant jokes icon" width="36"> [ant jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d9665e6-cfa9-46ff-8c24-96ec00e238a8)
+# [ant jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d9665e6-cfa9-46ff-8c24-96ec00e238a8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ant jokes skill, try saying...

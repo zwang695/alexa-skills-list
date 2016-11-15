@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts about Tiger icon" width="36"> [Facts about Tiger](http://alexa.amazon.com/#skills/amzn1.ask.skill.ba312f64-250d-4ec3-add8-d725ee4501ce)
+# [Facts about Tiger](http://alexa.amazon.com/#skills/amzn1.ask.skill.ba312f64-250d-4ec3-add8-d725ee4501ce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts about Tiger skill, try saying...

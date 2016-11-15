@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="AmericanHistory icon" width="36"> [AmericanHistory](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.08e2c8d7-0f01-4fa2-ae10-1d132f2fe361)
+# [AmericanHistory](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.08e2c8d7-0f01-4fa2-ae10-1d132f2fe361)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the AmericanHistory skill, try saying...

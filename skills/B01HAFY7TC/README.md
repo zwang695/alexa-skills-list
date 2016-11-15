@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Seahawk Games icon" width="36"> [Seahawk Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.68e25351-9414-4960-bb5d-82fd982ae72f)
+# [Seahawk Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.68e25351-9414-4960-bb5d-82fd982ae72f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Seahawk Games skill, try saying...

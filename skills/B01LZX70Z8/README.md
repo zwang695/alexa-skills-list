@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hubble spotting icon" width="36"> [Hubble spotting](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb6dcade-96cf-4605-83c3-c4f602f3d9ba)
+# [Hubble spotting](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb6dcade-96cf-4605-83c3-c4f602f3d9ba)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hubble spotting skill, try saying...

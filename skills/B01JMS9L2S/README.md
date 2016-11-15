@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="System of Units icon" width="36"> [System of Units](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad381765-148d-47c8-89c7-301eed0724d4)
+# [System of Units](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad381765-148d-47c8-89c7-301eed0724d4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the System of Units skill, try saying...

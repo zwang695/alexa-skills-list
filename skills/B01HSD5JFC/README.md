@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="For the fans of popular games icon" width="36"> [For the fans of popular games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.276680d7-0e99-4b63-a8ea-07f40be031e3)
+# [For the fans of popular games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.276680d7-0e99-4b63-a8ea-07f40be031e3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the For the fans of popular games skill, try saying...

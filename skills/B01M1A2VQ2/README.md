@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Portillo Resort icon" width="36"> [Snow Report for Portillo Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.b2d923a2-faf3-4c70-a273-831c0318dd32)
+# [Snow Report for Portillo Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.b2d923a2-faf3-4c70-a273-831c0318dd32)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Portillo Resort skill, try saying...

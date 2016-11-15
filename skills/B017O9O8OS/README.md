@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bitcoin Rate icon" width="36"> [Bitcoin Rate](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9a9278b3-2956-42c0-9273-e851442cda76)
+# [Bitcoin Rate](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9a9278b3-2956-42c0-9273-e851442cda76)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Bitcoin Rate skill, try saying...

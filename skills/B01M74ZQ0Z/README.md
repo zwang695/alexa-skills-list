@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Places icon" width="36"> [Places](http://alexa.amazon.com/#skills/amzn1.ask.skill.8d08e46c-660c-4d50-a5a0-b2a1ab2cbe36)
+# [Places](http://alexa.amazon.com/#skills/amzn1.ask.skill.8d08e46c-660c-4d50-a5a0-b2a1ab2cbe36)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Places skill, try saying...

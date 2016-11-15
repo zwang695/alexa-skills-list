@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Pledge icon" width="36"> [Daily Pledge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.55870d27-8e0e-4ef5-bb2a-4ad81bed9b41)
+# [Daily Pledge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.55870d27-8e0e-4ef5-bb2a-4ad81bed9b41)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Daily Pledge skill, try saying...

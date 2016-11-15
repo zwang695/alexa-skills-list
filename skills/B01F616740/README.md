@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Who represents me in my government? icon" width="36"> [Who represents me in my government?](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0e8472fb-2d51-4a19-abf9-78ddcb0e8958)
+# [Who represents me in my government?](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0e8472fb-2d51-4a19-abf9-78ddcb0e8958)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Who represents me in my government? skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Name Game icon" width="36"> [The Name Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.b2ce6693-0031-4e9b-81ec-765ecece39a4)
+# [The Name Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.b2ce6693-0031-4e9b-81ec-765ecece39a4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Name Game skill, try saying...

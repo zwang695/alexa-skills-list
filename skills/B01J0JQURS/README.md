@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Iceland Trivia icon" width="36"> [Iceland Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.61aa3423-03e2-41c9-a41a-346d0c7b1e48)
+# [Iceland Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.61aa3423-03e2-41c9-a41a-346d0c7b1e48)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Iceland Trivia skill, try saying...

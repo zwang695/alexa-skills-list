@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Jack Frost icon" width="36"> [Snow Report for Jack Frost](http://alexa.amazon.com/#skills/amzn1.ask.skill.1a38f90e-4fe4-4b1e-9c03-74fb01492fe8)
+# [Snow Report for Jack Frost](http://alexa.amazon.com/#skills/amzn1.ask.skill.1a38f90e-4fe4-4b1e-9c03-74fb01492fe8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Jack Frost skill, try saying...

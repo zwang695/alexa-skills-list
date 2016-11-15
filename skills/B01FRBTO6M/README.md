@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Date & Zodiac trivia icon" width="36"> [Date & Zodiac trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fbaf4eee-b839-44f7-bbe8-fd4e8c6cd2bd)
+# [Date & Zodiac trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fbaf4eee-b839-44f7-bbe8-fd4e8c6cd2bd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Date & Zodiac trivia skill, try saying...

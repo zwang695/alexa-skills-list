@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Backgammon Helper icon" width="36"> [Backgammon Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.c2b9457c-4ef9-4bdd-b12a-b9f5c70a50e1)
+# [Backgammon Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.c2b9457c-4ef9-4bdd-b12a-b9f5c70a50e1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Backgammon Helper skill, try saying...

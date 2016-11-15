@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Interesting Man icon" width="36"> [Interesting Man](http://alexa.amazon.com/#skills/amzn1.ask.skill.17f9faf8-da24-4a7b-93c2-dde6da29cdbf)
+# [Interesting Man](http://alexa.amazon.com/#skills/amzn1.ask.skill.17f9faf8-da24-4a7b-93c2-dde6da29cdbf)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Interesting Man skill, try saying...

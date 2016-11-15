@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Silver Mountain icon" width="36"> [Snow Report for Silver Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.fac51fbc-6ebc-48eb-9221-8360c530c07c)
+# [Snow Report for Silver Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.fac51fbc-6ebc-48eb-9221-8360c530c07c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Silver Mountain skill, try saying...

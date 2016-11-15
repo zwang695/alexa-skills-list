@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Bollywood Facts icon" width="36"> [My Bollywood Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3ee7b12f-b11c-42bf-a104-8b14635508d0)
+# [My Bollywood Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3ee7b12f-b11c-42bf-a104-8b14635508d0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My Bollywood Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Star Wars Trivia icon" width="36"> [Star Wars Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b117af6-f053-4d97-b6c6-e7920fc2d2e9)
+# [Star Wars Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b117af6-f053-4d97-b6c6-e7920fc2d2e9)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Star Wars Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mountain Bike Facts icon" width="36"> [Mountain Bike Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.109416d1-e813-4e80-aa31-88a7ed4e4d50)
+# [Mountain Bike Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.109416d1-e813-4e80-aa31-88a7ed4e4d50)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mountain Bike Facts skill, try saying...

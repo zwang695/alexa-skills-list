@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Gruner + Jahr Digital Products GmbH](http://alexa.amazon.com/#skills/amzn1.ask.skill.4065c711-aa1d-46cd-9c1c-0ea7b90909ab)
+# [Gruner + Jahr Digital Products GmbH](http://alexa.amazon.com/#skills/amzn1.ask.skill.4065c711-aa1d-46cd-9c1c-0ea7b90909ab)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

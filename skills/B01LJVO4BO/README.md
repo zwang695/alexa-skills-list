@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tea Sipper icon" width="36"> [Tea Sipper](http://alexa.amazon.com/#skills/amzn1.ask.skill.8e9bf02e-be5b-41c1-b73d-feb61b6622f1)
+# [Tea Sipper](http://alexa.amazon.com/#skills/amzn1.ask.skill.8e9bf02e-be5b-41c1-b73d-feb61b6622f1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tea Sipper skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Radioplayer icon" width="36"> [Radioplayer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4bd1368c-02a3-4611-9b0c-06595752d951)
+# [Radioplayer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4bd1368c-02a3-4611-9b0c-06595752d951)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Radioplayer skill, try saying...

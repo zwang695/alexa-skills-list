@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Jim Wyatt Fact icon" width="36"> [Jim Wyatt Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.ac489385-89b1-42f4-8e22-35e906a156a9)
+# [Jim Wyatt Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.ac489385-89b1-42f4-8e22-35e906a156a9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Jim Wyatt Fact skill, try saying...

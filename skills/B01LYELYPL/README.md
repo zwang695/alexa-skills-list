@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Squaw Valley icon" width="36"> [Snow Report for Squaw Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.605fcba6-3dff-46f1-bf62-9852909cb16b)
+# [Snow Report for Squaw Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.605fcba6-3dff-46f1-bf62-9852909cb16b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Squaw Valley skill, try saying...

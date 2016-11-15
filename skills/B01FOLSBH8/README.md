@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Journal Prompts icon" width="36"> [Daily Journal Prompts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.38cfdb77-9187-49cc-9308-1d28cecde005)
+# [Daily Journal Prompts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.38cfdb77-9187-49cc-9308-1d28cecde005)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Daily Journal Prompts skill, try saying...

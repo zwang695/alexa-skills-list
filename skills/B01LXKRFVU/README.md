@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="World Football icon" width="36"> [World Football](http://alexa.amazon.com/#skills/amzn1.ask.skill.9287c90f-6732-435a-a871-bc647c202aa1)
+# [World Football](http://alexa.amazon.com/#skills/amzn1.ask.skill.9287c90f-6732-435a-a871-bc647c202aa1)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the World Football skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="US Capital City Quiz icon" width="36"> [US Capital City Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.78f2c4d3-b685-4d59-bfe7-dc816f635eeb)
+# [US Capital City Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.78f2c4d3-b685-4d59-bfe7-dc816f635eeb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the US Capital City Quiz skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="tddHelper icon" width="36"> [tddHelper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f067ef7a-306f-4a6a-b1fb-584d1bad819b)
+# [tddHelper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f067ef7a-306f-4a6a-b1fb-584d1bad819b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the tddHelper skill, try saying...

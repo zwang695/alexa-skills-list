@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bellingham Activities icon" width="36"> [Bellingham Activities](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8309e3e0-ec80-43b9-836e-0acaf13c9111)
+# [Bellingham Activities](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8309e3e0-ec80-43b9-836e-0acaf13c9111)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bellingham Activities skill, try saying...

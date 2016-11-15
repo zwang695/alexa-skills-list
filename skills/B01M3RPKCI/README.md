@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Northern Ireland Inventions icon" width="36"> [Northern Ireland Inventions](http://alexa.amazon.com/#skills/amzn1.ask.skill.edc79b66-436c-4f93-8132-b42df8ae2fb2)
+# [Northern Ireland Inventions](http://alexa.amazon.com/#skills/amzn1.ask.skill.edc79b66-436c-4f93-8132-b42df8ae2fb2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Northern Ireland Inventions skill, try saying...

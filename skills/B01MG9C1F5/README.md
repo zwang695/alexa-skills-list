@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Eagle Point icon" width="36"> [Snow Report for Eagle Point](http://alexa.amazon.com/#skills/amzn1.ask.skill.77590003-053f-4718-aa82-faea25fdc4fa)
+# [Snow Report for Eagle Point](http://alexa.amazon.com/#skills/amzn1.ask.skill.77590003-053f-4718-aa82-faea25fdc4fa)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Eagle Point skill, try saying...

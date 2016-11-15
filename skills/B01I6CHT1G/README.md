@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pro Baseball Quiz icon" width="36"> [Pro Baseball Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.be28e6e0-7ae2-4736-97aa-8ba955605a02)
+# [Pro Baseball Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.be28e6e0-7ae2-4736-97aa-8ba955605a02)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pro Baseball Quiz skill, try saying...

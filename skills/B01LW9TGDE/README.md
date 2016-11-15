@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Theology Quotes icon" width="36"> [Theology Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.0cbf120b-4f62-4e92-a4d4-b94427a6015a)
+# [Theology Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.0cbf120b-4f62-4e92-a4d4-b94427a6015a)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Theology Quotes skill, try saying...

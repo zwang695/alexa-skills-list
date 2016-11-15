@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Number Converter icon" width="36"> [Number Converter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d0e3d48b-cdd6-40cb-b6c1-b565f5e31386)
+# [Number Converter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d0e3d48b-cdd6-40cb-b6c1-b565f5e31386)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Number Converter skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="PineappleFacts icon" width="36"> [PineappleFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1349eda-cca6-4aa2-a253-c9a4c901479e)
+# [PineappleFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1349eda-cca6-4aa2-a253-c9a4c901479e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the PineappleFacts skill, try saying...

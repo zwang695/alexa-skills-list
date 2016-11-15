@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Distance Calculator icon" width="36"> [Distance Calculator](http://alexa.amazon.com/#skills/amzn1.ask.skill.d99a38b9-9269-4f94-8dca-d36e6833c7a6)
+# [Distance Calculator](http://alexa.amazon.com/#skills/amzn1.ask.skill.d99a38b9-9269-4f94-8dca-d36e6833c7a6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Distance Calculator skill, try saying...

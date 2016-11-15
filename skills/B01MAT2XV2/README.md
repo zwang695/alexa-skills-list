@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Biology Facts icon" width="36"> [My Biology Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.61e54580-4cc8-4dfa-a262-c20e4be8aa16)
+# [My Biology Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.61e54580-4cc8-4dfa-a262-c20e4be8aa16)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My Biology Facts skill, try saying...

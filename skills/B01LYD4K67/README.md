@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Serverless Facts icon" width="36"> [Serverless Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a754a6ff-ff10-4ae9-9342-c266c364454a)
+# [Serverless Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a754a6ff-ff10-4ae9-9342-c266c364454a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Serverless Facts skill, try saying...

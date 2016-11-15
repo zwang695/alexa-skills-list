@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Flight Awards icon" width="36"> [Flight Awards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.76f2c118-1587-4416-b4de-4631c476b170)
+# [Flight Awards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.76f2c118-1587-4416-b4de-4631c476b170)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Flight Awards skill, try saying...

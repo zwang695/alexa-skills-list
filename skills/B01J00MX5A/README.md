@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Design Pattern Flash Cards icon" width="36"> [Design Pattern Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.4fade8c7-17e7-470b-a6b9-29c1af26d73f)
+# [Design Pattern Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.4fade8c7-17e7-470b-a6b9-29c1af26d73f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Design Pattern Flash Cards skill, try saying...

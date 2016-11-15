@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sooners Sports Trivia icon" width="36"> [Sooners Sports Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.339d7582-318f-4db2-aeab-1147bd9c6272)
+# [Sooners Sports Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.339d7582-318f-4db2-aeab-1147bd9c6272)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sooners Sports Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Gayatri Mantra icon" width="36"> [Gayatri Mantra](http://alexa.amazon.com/#skills/amzn1.ask.skill.ddca8055-a043-4424-b340-365c33969220)
+# [Gayatri Mantra](http://alexa.amazon.com/#skills/amzn1.ask.skill.ddca8055-a043-4424-b340-365c33969220)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Gayatri Mantra skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tips for Pokemon Go (Unofficial) icon" width="36"> [Tips for Pokemon Go (Unofficial)](http://alexa.amazon.com/#skills/amzn1.ask.skill.f6078d3c-bf06-4956-9f0b-630ae19cc154)
+# [Tips for Pokemon Go (Unofficial)](http://alexa.amazon.com/#skills/amzn1.ask.skill.f6078d3c-bf06-4956-9f0b-630ae19cc154)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tips for Pokemon Go (Unofficial) skill, try saying...

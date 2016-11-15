@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="StreamBot for Twitch icon" width="36"> [StreamBot for Twitch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.758c8bd1-cc18-4663-a1ca-65ab7020c586)
+# [StreamBot for Twitch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.758c8bd1-cc18-4663-a1ca-65ab7020c586)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the StreamBot for Twitch skill, try saying...

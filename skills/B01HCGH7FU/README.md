@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chicago Facts icon" width="36"> [Chicago Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c18b2eba-213e-4230-893b-436d138eac68)
+# [Chicago Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c18b2eba-213e-4230-893b-436d138eac68)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chicago Facts skill, try saying...

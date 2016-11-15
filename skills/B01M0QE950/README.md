@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ShopSavvy icon" width="36"> [ShopSavvy](http://alexa.amazon.com/#skills/amzn1.ask.skill.a18430e3-48c1-4075-844e-18b12e1fd5fe)
+# [ShopSavvy](http://alexa.amazon.com/#skills/amzn1.ask.skill.a18430e3-48c1-4075-844e-18b12e1fd5fe)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the ShopSavvy skill, try saying...

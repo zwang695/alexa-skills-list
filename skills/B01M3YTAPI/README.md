@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Stowe Mountain icon" width="36"> [Snow Report for Stowe Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b730705-6564-4a0f-9b59-c987e042bea0)
+# [Snow Report for Stowe Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b730705-6564-4a0f-9b59-c987e042bea0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Stowe Mountain skill, try saying...

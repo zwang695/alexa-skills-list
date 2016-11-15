@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hillary Clinton Facts icon" width="36"> [Hillary Clinton Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6c038f37-850b-4132-b246-136079a1644d)
+# [Hillary Clinton Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6c038f37-850b-4132-b246-136079a1644d)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Hillary Clinton Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bible Readings icon" width="36"> [Bible Readings](http://alexa.amazon.com/#skills/amzn1.ask.skill.a4ca8f79-f514-4481-ad1d-b2cdac485545)
+# [Bible Readings](http://alexa.amazon.com/#skills/amzn1.ask.skill.a4ca8f79-f514-4481-ad1d-b2cdac485545)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Bible Readings skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Buffalo Ski Club icon" width="36"> [Snow Report for Buffalo Ski Club](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb7a02b7-3ebf-43d5-a615-200650ecd372)
+# [Snow Report for Buffalo Ski Club](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb7a02b7-3ebf-43d5-a615-200650ecd372)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Buffalo Ski Club skill, try saying...

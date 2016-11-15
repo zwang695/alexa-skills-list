@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mont Tremblant icon" width="36"> [Snow Report for Mont Tremblant](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c4f5455-9014-46f2-936c-479b0bc146fb)
+# [Snow Report for Mont Tremblant](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c4f5455-9014-46f2-936c-479b0bc146fb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mont Tremblant skill, try saying...

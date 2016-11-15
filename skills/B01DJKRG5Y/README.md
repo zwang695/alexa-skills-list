@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Turtle Trivia icon" width="36"> [Turtle Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1eae487b-5575-4231-a92d-3e0a9558e9fe)
+# [Turtle Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1eae487b-5575-4231-a92d-3e0a9558e9fe)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Turtle Trivia skill, try saying...

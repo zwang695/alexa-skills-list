@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Guardian icon" width="36"> [The Guardian](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2893738-d6b2-4606-b47d-9d9c1e83d1b6)
+# [The Guardian](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2893738-d6b2-4606-b47d-9d9c1e83d1b6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Guardian skill, try saying...

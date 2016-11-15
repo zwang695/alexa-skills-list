@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dr. Fibonacci icon" width="36"> [Dr. Fibonacci](http://alexa.amazon.com/#skills/amzn1.ask.skill.357f7093-c7b1-4e17-9573-cd2e54ac9ed7)
+# [Dr. Fibonacci](http://alexa.amazon.com/#skills/amzn1.ask.skill.357f7093-c7b1-4e17-9573-cd2e54ac9ed7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dr. Fibonacci skill, try saying...

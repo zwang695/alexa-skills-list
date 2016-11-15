@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Snow Ridge icon" width="36"> [Snow Report for Snow Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.59a4ba2a-cc4e-4e64-a3f4-af6c490d88f5)
+# [Snow Report for Snow Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.59a4ba2a-cc4e-4e64-a3f4-af6c490d88f5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Snow Ridge skill, try saying...

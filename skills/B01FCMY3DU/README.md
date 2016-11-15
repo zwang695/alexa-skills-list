@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pick Someone icon" width="36"> [Pick Someone](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f4bfe2fa-ca00-464a-8744-d64afcf631cb)
+# [Pick Someone](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f4bfe2fa-ca00-464a-8744-d64afcf631cb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pick Someone skill, try saying...

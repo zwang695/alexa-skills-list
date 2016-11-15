@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Country Capital Quiz icon" width="36"> [Country Capital Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.d97525ba-9c58-4636-998e-827cb94bcc02)
+# [Country Capital Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.d97525ba-9c58-4636-998e-827cb94bcc02)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Country Capital Quiz skill, try saying...

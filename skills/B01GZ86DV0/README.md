@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MyBaseballFactSkill icon" width="36"> [MyBaseballFactSkill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.220b8f65-e51e-4aaa-a60b-840313a8cecc)
+# [MyBaseballFactSkill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.220b8f65-e51e-4aaa-a60b-840313a8cecc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the MyBaseballFactSkill skill, try saying...

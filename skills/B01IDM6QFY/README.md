@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hamurabi's Kingdom icon" width="36"> [Hamurabi's Kingdom](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.63fdbdad-fc0a-48d5-bfaf-7cf400f180f2)
+# [Hamurabi's Kingdom](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.63fdbdad-fc0a-48d5-bfaf-7cf400f180f2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hamurabi's Kingdom skill, try saying...

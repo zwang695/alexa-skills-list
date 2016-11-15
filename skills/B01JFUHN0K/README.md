@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="School Menus By Nutrislice icon" width="36"> [School Menus By Nutrislice](http://alexa.amazon.com/#skills/amzn1.ask.skill.6a7de283-fd79-43e3-b9a4-d145aaa326b4)
+# [School Menus By Nutrislice](http://alexa.amazon.com/#skills/amzn1.ask.skill.6a7de283-fd79-43e3-b9a4-d145aaa326b4)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the School Menus By Nutrislice skill, try saying...

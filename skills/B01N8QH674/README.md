@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ultimate Facts icon" width="36"> [Ultimate Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.07485d37-1cab-4519-818f-248bc55de1f4)
+# [Ultimate Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.07485d37-1cab-4519-818f-248bc55de1f4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ultimate Facts skill, try saying...

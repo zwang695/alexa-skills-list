@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tracker for ISS icon" width="36"> [Tracker for ISS](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.72214e7e-4b1f-48c9-8c27-504315e4fca0)
+# [Tracker for ISS](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.72214e7e-4b1f-48c9-8c27-504315e4fca0)
 ![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Tracker for ISS skill, try saying...

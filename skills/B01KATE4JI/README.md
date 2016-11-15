@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Singapore  Facts icon" width="36"> [Singapore  Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f2b13438-5442-4468-a6e5-5f0ffe256bcc)
+# [Singapore  Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f2b13438-5442-4468-a6e5-5f0ffe256bcc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Singapore  Facts skill, try saying...

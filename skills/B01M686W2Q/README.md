@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Royal Mountain icon" width="36"> [Snow Report for Royal Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.0e09e8e5-25ba-4c19-9cd3-0f3d1eddf88a)
+# [Snow Report for Royal Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.0e09e8e5-25ba-4c19-9cd3-0f3d1eddf88a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Royal Mountain skill, try saying...

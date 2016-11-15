@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bitcoin Info icon" width="36"> [Bitcoin Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d115384a-564e-4345-86d0-f6ac5267a3c9)
+# [Bitcoin Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d115384a-564e-4345-86d0-f6ac5267a3c9)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Bitcoin Info skill, try saying...

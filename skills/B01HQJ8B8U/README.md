@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BeerBuzz icon" width="36"> [BeerBuzz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6cfe604d-e744-4cc5-b385-b2f8b6ac6a96)
+# [BeerBuzz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6cfe604d-e744-4cc5-b385-b2f8b6ac6a96)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BeerBuzz skill, try saying...

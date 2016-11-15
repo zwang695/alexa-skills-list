@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Turner Mountain icon" width="36"> [Snow Report for Turner Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.612bb217-f981-44d7-9f81-f3a4f5085039)
+# [Snow Report for Turner Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.612bb217-f981-44d7-9f81-f3a4f5085039)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Turner Mountain skill, try saying...

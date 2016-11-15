@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Startup Quotes icon" width="36"> [Startup Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.b5ea2f7d-fea5-435a-8231-f00522ac8dae)
+# [Startup Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.b5ea2f7d-fea5-435a-8231-f00522ac8dae)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Startup Quotes skill, try saying...

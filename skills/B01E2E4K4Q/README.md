@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Quiz for Apple (fan-made) icon" width="36"> [Quiz for Apple (fan-made)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4ce396d2-69b7-40d7-b029-2b1be747042e)
+# [Quiz for Apple (fan-made)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4ce396d2-69b7-40d7-b029-2b1be747042e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Quiz for Apple (fan-made) skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trump the Chump icon" width="36"> [Trump the Chump](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb012d37-e8b1-4b21-bb31-954e8ada926c)
+# [Trump the Chump](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb012d37-e8b1-4b21-bb31-954e8ada926c)
 ![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Trump the Chump skill, try saying...

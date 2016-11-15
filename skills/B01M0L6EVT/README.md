@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Jamie Oliver icon" width="36"> [Jamie Oliver](http://alexa.amazon.com/#skills/amzn1.ask.skill.6d49aab1-b2c9-4575-8dbd-f683321eaf97)
+# [Jamie Oliver](http://alexa.amazon.com/#skills/amzn1.ask.skill.6d49aab1-b2c9-4575-8dbd-f683321eaf97)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Jamie Oliver skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pizza Toppings icon" width="36"> [Pizza Toppings](http://alexa.amazon.com/#skills/amzn1.ask.skill.a0f421be-37bd-4a14-9e85-a8e938ee8f1b)
+# [Pizza Toppings](http://alexa.amazon.com/#skills/amzn1.ask.skill.a0f421be-37bd-4a14-9e85-a8e938ee8f1b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pizza Toppings skill, try saying...

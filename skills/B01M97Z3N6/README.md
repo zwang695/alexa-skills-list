@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="sun salutation steps icon" width="36"> [sun salutation steps](http://alexa.amazon.com/#skills/amzn1.ask.skill.3dc04bfd-062c-4f46-91c7-702220a88c08)
+# [sun salutation steps](http://alexa.amazon.com/#skills/amzn1.ask.skill.3dc04bfd-062c-4f46-91c7-702220a88c08)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the sun salutation steps skill, try saying...

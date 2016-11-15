@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Startup Facts icon" width="36"> [Startup Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bb4657a9-5508-42d8-90ec-89f3b6c27116)
+# [Startup Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bb4657a9-5508-42d8-90ec-89f3b6c27116)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Startup Facts skill, try saying...

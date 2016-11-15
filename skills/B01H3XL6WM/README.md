@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stretcher icon" width="36"> [Stretcher](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7448f2c2-b46e-4b88-9271-5c23549e081d)
+# [Stretcher](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7448f2c2-b46e-4b88-9271-5c23549e081d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Stretcher skill, try saying...

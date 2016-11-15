@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Founders Forum London icon" width="36"> [Founders Forum London](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.91efe6f8-b76b-42d1-a156-6fe94bf684f5)
+# [Founders Forum London](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.91efe6f8-b76b-42d1-a156-6fe94bf684f5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Founders Forum London skill, try saying...

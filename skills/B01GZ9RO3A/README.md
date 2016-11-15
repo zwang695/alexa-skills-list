@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="myHealthFacts icon" width="36"> [myHealthFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0b3c4d9e-d94a-43d9-9508-55e35b225931)
+# [myHealthFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0b3c4d9e-d94a-43d9-9508-55e35b225931)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the myHealthFacts skill, try saying...

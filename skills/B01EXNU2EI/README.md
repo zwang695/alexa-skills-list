@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="beans5 icon" width="36"> [beans5](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.07a62df4-7789-4a00-884b-ae5a08f08988)
+# [beans5](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.07a62df4-7789-4a00-884b-ae5a08f08988)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the beans5 skill, try saying...

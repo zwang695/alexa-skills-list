@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Compliment Me icon" width="36"> [Compliment Me](http://alexa.amazon.com/#skills/amzn1.ask.skill.da0e446e-646c-47ef-8fcc-8b364172cfc4)
+# [Compliment Me](http://alexa.amazon.com/#skills/amzn1.ask.skill.da0e446e-646c-47ef-8fcc-8b364172cfc4)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Compliment Me skill, try saying...

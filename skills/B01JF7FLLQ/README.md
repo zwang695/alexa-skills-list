@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="God Quiz icon" width="36"> [God Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.817e5d11-b4bd-49ae-8ac9-b24ff5acefc5)
+# [God Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.817e5d11-b4bd-49ae-8ac9-b24ff5acefc5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the God Quiz skill, try saying...

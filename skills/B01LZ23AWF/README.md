@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Vail Resort icon" width="36"> [Snow Report for Vail Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.61c142ed-1220-4ca8-abfe-d3d3c8f574b0)
+# [Snow Report for Vail Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.61c142ed-1220-4ca8-abfe-d3d3c8f574b0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Vail Resort skill, try saying...

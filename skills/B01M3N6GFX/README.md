@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Toronto library unofficial icon" width="36"> [Toronto library unofficial](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5ea7716-74ff-46e3-9673-b80179371668)
+# [Toronto library unofficial](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5ea7716-74ff-46e3-9673-b80179371668)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Toronto library unofficial skill, try saying...

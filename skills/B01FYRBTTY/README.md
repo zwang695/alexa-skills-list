@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DiabetesInfo icon" width="36"> [DiabetesInfo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5f2edd06-6969-483d-9f7d-fdb04ef14ddd)
+# [DiabetesInfo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5f2edd06-6969-483d-9f7d-fdb04ef14ddd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the DiabetesInfo skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nutrient Quiz icon" width="36"> [Nutrient Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.77bf264c-d993-4477-b92c-25b60df5abe1)
+# [Nutrient Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.77bf264c-d993-4477-b92c-25b60df5abe1)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Nutrient Quiz skill, try saying...

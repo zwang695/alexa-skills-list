@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fare(well) icon" width="36"> [Fare(well)](http://alexa.amazon.com/#skills/amzn1.ask.skill.55f9bf03-6870-4280-b561-9985def8530e)
+# [Fare(well)](http://alexa.amazon.com/#skills/amzn1.ask.skill.55f9bf03-6870-4280-b561-9985def8530e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fare(well) skill, try saying...

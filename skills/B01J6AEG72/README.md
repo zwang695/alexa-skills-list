@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Guess What I'm Thinking icon" width="36"> [Guess What I'm Thinking](http://alexa.amazon.com/#skills/amzn1.ask.skill.05dfa6ed-27e8-4a23-9e62-8521175c8cd6)
+# [Guess What I'm Thinking](http://alexa.amazon.com/#skills/amzn1.ask.skill.05dfa6ed-27e8-4a23-9e62-8521175c8cd6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Guess What I'm Thinking skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Macbeth Comprehension Questions icon" width="36"> [Macbeth Comprehension Questions](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.742a7c10-236a-4e39-b8b3-04b7fde8fc8d)
+# [Macbeth Comprehension Questions](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.742a7c10-236a-4e39-b8b3-04b7fde8fc8d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Macbeth Comprehension Questions skill, try saying...

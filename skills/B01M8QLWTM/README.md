@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="NessieFacts icon" width="36"> [NessieFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4e20825a-ccad-421a-85cb-12ff1a377b48)
+# [NessieFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4e20825a-ccad-421a-85cb-12ff1a377b48)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the NessieFacts skill, try saying...

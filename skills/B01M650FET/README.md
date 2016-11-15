@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Resistor Reader icon" width="36"> [Resistor Reader](http://alexa.amazon.com/#skills/amzn1.ask.skill.778b2a01-912b-41cf-ba81-c7715e4f9996)
+# [Resistor Reader](http://alexa.amazon.com/#skills/amzn1.ask.skill.778b2a01-912b-41cf-ba81-c7715e4f9996)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Resistor Reader skill, try saying...

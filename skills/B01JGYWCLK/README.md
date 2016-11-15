@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="biology test icon" width="36"> [biology test](http://alexa.amazon.com/#skills/amzn1.ask.skill.e21a8ee7-dc02-4ad8-a7be-18cf316cf876)
+# [biology test](http://alexa.amazon.com/#skills/amzn1.ask.skill.e21a8ee7-dc02-4ad8-a7be-18cf316cf876)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the biology test skill, try saying...

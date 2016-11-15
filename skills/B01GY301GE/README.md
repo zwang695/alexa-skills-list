@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Reporter for U.S Unemployment Data icon" width="36"> [Reporter for U.S Unemployment Data](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ba02229e-dc97-4781-abbd-8748b7b0a8fe)
+# [Reporter for U.S Unemployment Data](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ba02229e-dc97-4781-abbd-8748b7b0a8fe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Reporter for U.S Unemployment Data skill, try saying...

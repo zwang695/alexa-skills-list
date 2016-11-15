@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Blue Knob icon" width="36"> [Snow Report for Blue Knob](http://alexa.amazon.com/#skills/amzn1.ask.skill.464cc194-a07d-4348-add0-3b1c99dfcf2c)
+# [Snow Report for Blue Knob](http://alexa.amazon.com/#skills/amzn1.ask.skill.464cc194-a07d-4348-add0-3b1c99dfcf2c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Blue Knob skill, try saying...

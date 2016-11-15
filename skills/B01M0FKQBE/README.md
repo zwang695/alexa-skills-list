@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Joke Skill icon" width="36"> [Joke Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.d6e0eb28-2100-4579-99be-cb1721139a57)
+# [Joke Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.d6e0eb28-2100-4579-99be-cb1721139a57)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Joke Skill skill, try saying...

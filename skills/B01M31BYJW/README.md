@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Attitash Mountain icon" width="36"> [Snow Report for Attitash Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.2c5b951e-4404-4e4a-93e9-3fc92a671018)
+# [Snow Report for Attitash Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.2c5b951e-4404-4e4a-93e9-3fc92a671018)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Attitash Mountain skill, try saying...

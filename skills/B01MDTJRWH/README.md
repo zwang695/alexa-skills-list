@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [ShawSolution](http://alexa.amazon.com/#skills/amzn1.ask.skill.99e0ba30-2c24-4443-950a-09d23c6dff2a)
+# [ShawSolution](http://alexa.amazon.com/#skills/amzn1.ask.skill.99e0ba30-2c24-4443-950a-09d23c6dff2a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

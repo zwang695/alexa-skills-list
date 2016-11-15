@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Find Where to Eat icon" width="36"> [Find Where to Eat](http://alexa.amazon.com/#skills/amzn1.ask.skill.f7945d32-b5c0-44ee-9c88-b4c0da78dec1)
+# [Find Where to Eat](http://alexa.amazon.com/#skills/amzn1.ask.skill.f7945d32-b5c0-44ee-9c88-b4c0da78dec1)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Find Where to Eat skill, try saying...

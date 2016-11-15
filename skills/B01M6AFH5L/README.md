@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Where'sMyPhone icon" width="36"> [Where'sMyPhone](http://alexa.amazon.com/#skills/amzn1.ask.skill.134d2d7a-4ed4-469e-bbcf-5776c3e699af)
+# [Where'sMyPhone](http://alexa.amazon.com/#skills/amzn1.ask.skill.134d2d7a-4ed4-469e-bbcf-5776c3e699af)
 ![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Where'sMyPhone skill, try saying...

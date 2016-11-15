@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Physics Systems Server icon" width="36"> [Physics Systems Server](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3bf73c52-ac7b-47af-b5f6-3795ca3c9dc4)
+# [Physics Systems Server](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3bf73c52-ac7b-47af-b5f6-3795ca3c9dc4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Physics Systems Server skill, try saying...

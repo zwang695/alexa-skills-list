@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Oklahoma Trivia icon" width="36"> [Oklahoma Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f121ca13-7887-464e-9a6a-26e0ea9e2435)
+# [Oklahoma Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f121ca13-7887-464e-9a6a-26e0ea9e2435)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Oklahoma Trivia skill, try saying...

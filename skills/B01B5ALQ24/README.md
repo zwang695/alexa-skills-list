@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="IndianFacts icon" width="36"> [IndianFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.381c7b1e-b98b-44cd-9cd0-6878ceb27a4e)
+# [IndianFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.381c7b1e-b98b-44cd-9cd0-6878ceb27a4e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the IndianFacts skill, try saying...

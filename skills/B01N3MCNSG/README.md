@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Say My Goals icon" width="36"> [Say My Goals](http://alexa.amazon.com/#skills/amzn1.ask.skill.3badb082-2f39-4204-aa07-440f3bbf263d)
+# [Say My Goals](http://alexa.amazon.com/#skills/amzn1.ask.skill.3badb082-2f39-4204-aa07-440f3bbf263d)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Say My Goals skill, try saying...

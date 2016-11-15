@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mount Peter icon" width="36"> [Snow Report for Mount Peter](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef813dc1-0153-406d-83ec-a501903c0ed1)
+# [Snow Report for Mount Peter](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef813dc1-0153-406d-83ec-a501903c0ed1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mount Peter skill, try saying...

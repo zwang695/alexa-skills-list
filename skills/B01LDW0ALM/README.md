@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Internet History Quiz icon" width="36"> [Internet History Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.29d808f8-d11d-4984-bdd7-9a23cef3663e)
+# [Internet History Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.29d808f8-d11d-4984-bdd7-9a23cef3663e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Internet History Quiz skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dylan Facts icon" width="36"> [Dylan Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6861fb18-a998-4cf5-b834-598ac6b1ece2)
+# [Dylan Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6861fb18-a998-4cf5-b834-598ac6b1ece2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dylan Facts skill, try saying...

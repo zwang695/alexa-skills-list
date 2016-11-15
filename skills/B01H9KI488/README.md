@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="PDX Brew Pubs icon" width="36"> [PDX Brew Pubs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bb328f17-5f33-46ce-a758-af0b774bcc48)
+# [PDX Brew Pubs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bb328f17-5f33-46ce-a758-af0b774bcc48)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the PDX Brew Pubs skill, try saying...

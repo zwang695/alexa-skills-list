@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Frontend Quiz icon" width="36"> [Frontend Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e6e494b6-6a39-48e1-a10d-292430a1cc63)
+# [Frontend Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e6e494b6-6a39-48e1-a10d-292430a1cc63)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Frontend Quiz skill, try saying...

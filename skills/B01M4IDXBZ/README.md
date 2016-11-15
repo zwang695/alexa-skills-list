@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Parks And Recreation Trivia (Unofficial) icon" width="36"> [Parks And Recreation Trivia (Unofficial)](http://alexa.amazon.com/#skills/amzn1.ask.skill.82071acc-391f-4ede-9bde-5bbc391dbb1d)
+# [Parks And Recreation Trivia (Unofficial)](http://alexa.amazon.com/#skills/amzn1.ask.skill.82071acc-391f-4ede-9bde-5bbc391dbb1d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Parks And Recreation Trivia (Unofficial) skill, try saying...

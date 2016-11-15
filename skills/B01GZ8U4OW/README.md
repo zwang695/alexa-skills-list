@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pug Life icon" width="36"> [Pug Life](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f607cae6-6350-4a89-a507-e3f9c64cf3b2)
+# [Pug Life](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f607cae6-6350-4a89-a507-e3f9c64cf3b2)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Pug Life skill, try saying...

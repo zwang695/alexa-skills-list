@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trash Pickup 2016 Schedule - Anne Arundel Co MD icon" width="36"> [Trash Pickup 2016 Schedule - Anne Arundel Co MD](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.07a60904-1bbe-4da0-b02f-fc19f7921447)
+# [Trash Pickup 2016 Schedule - Anne Arundel Co MD](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.07a60904-1bbe-4da0-b02f-fc19f7921447)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trash Pickup 2016 Schedule - Anne Arundel Co MD skill, try saying...

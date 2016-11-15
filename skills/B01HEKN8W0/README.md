@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Easy Cocktail icon" width="36"> [Easy Cocktail](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7bf657b0-f648-4e1d-a510-257d747d9fc8)
+# [Easy Cocktail](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7bf657b0-f648-4e1d-a510-257d747d9fc8)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Easy Cocktail skill, try saying...

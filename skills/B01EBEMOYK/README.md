@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Circulator icon" width="36"> [Circulator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.83157cac-f56b-4c2e-ad16-cceb492454df)
+# [Circulator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.83157cac-f56b-4c2e-ad16-cceb492454df)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Circulator skill, try saying...

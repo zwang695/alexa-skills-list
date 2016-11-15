@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Planetary fact quiz icon" width="36"> [Planetary fact quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.13caa29e-2ceb-4589-ba4c-3ee7cbab0dfe)
+# [Planetary fact quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.13caa29e-2ceb-4589-ba4c-3ee7cbab0dfe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Planetary fact quiz skill, try saying...

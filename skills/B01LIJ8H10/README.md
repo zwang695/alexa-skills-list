@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CAT Lover icon" width="36"> [CAT Lover](http://alexa.amazon.com/#skills/amzn1.ask.skill.05eb4427-927b-431e-bc7c-b22800e37639)
+# [CAT Lover](http://alexa.amazon.com/#skills/amzn1.ask.skill.05eb4427-927b-431e-bc7c-b22800e37639)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the CAT Lover skill, try saying...

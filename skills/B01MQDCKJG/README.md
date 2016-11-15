@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Spring Mountain icon" width="36"> [Snow Report for Spring Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.49db5294-7589-4a65-9512-80015ef67705)
+# [Snow Report for Spring Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.49db5294-7589-4a65-9512-80015ef67705)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Spring Mountain skill, try saying...

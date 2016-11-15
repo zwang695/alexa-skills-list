@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MyBrickBot icon" width="36"> [MyBrickBot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0b76fc99-4959-469a-89f8-ba815b7e3207)
+# [MyBrickBot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0b76fc99-4959-469a-89f8-ba815b7e3207)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the MyBrickBot skill, try saying...

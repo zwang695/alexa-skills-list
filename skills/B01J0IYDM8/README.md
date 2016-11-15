@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="US National Parks Facts icon" width="36"> [US National Parks Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9f984022-a5a6-46fd-84f4-3f05d78b9eac)
+# [US National Parks Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9f984022-a5a6-46fd-84f4-3f05d78b9eac)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the US National Parks Facts skill, try saying...

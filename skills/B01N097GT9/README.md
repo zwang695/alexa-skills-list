@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Ski La Reserve icon" width="36"> [Snow Report for Ski La Reserve](http://alexa.amazon.com/#skills/amzn1.ask.skill.86d38d5d-a3c7-4a6e-8252-15c08f7705a9)
+# [Snow Report for Ski La Reserve](http://alexa.amazon.com/#skills/amzn1.ask.skill.86d38d5d-a3c7-4a6e-8252-15c08f7705a9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Ski La Reserve skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Auckland Trivia icon" width="36"> [Auckland Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.c3a7eacd-65fc-4beb-b3d0-8e45798d1140)
+# [Auckland Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.c3a7eacd-65fc-4beb-b3d0-8e45798d1140)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Auckland Trivia skill, try saying...

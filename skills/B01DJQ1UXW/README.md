@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trump Thoughts icon" width="36"> [Trump Thoughts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.aaf53f67-10f4-4cb1-b909-a88e33c90f7f)
+# [Trump Thoughts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.aaf53f67-10f4-4cb1-b909-a88e33c90f7f)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Trump Thoughts skill, try saying...

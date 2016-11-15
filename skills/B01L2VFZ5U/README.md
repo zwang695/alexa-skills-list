@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="FantasyMetrix icon" width="36"> [FantasyMetrix](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c565f60c-9587-49f8-9131-abed9b952cc3)
+# [FantasyMetrix](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c565f60c-9587-49f8-9131-abed9b952cc3)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the FantasyMetrix skill, try saying...

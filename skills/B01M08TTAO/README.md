@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Running Facts icon" width="36"> [Running Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7e1f21e2-0b8d-48e1-8a12-48f8a058ae22)
+# [Running Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7e1f21e2-0b8d-48e1-8a12-48f8a058ae22)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Running Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wacky Factory icon" width="36"> [Wacky Factory](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f21efff3-05df-4027-aea4-8225fa806c07)
+# [Wacky Factory](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f21efff3-05df-4027-aea4-8225fa806c07)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Wacky Factory skill, try saying...

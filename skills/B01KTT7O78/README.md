@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Girl Scout Facts icon" width="36"> [Unofficial Girl Scout Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d6d8b51b-8f15-40c1-9a9b-5c501c43edb7)
+# [Unofficial Girl Scout Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d6d8b51b-8f15-40c1-9a9b-5c501c43edb7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Girl Scout Facts skill, try saying...

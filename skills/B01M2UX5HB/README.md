@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fan Skill for Reddit icon" width="36"> [Fan Skill for Reddit](http://alexa.amazon.com/#skills/amzn1.ask.skill.11f05e8d-5752-4eed-b9d3-a6bfcd61f5b2)
+# [Fan Skill for Reddit](http://alexa.amazon.com/#skills/amzn1.ask.skill.11f05e8d-5752-4eed-b9d3-a6bfcd61f5b2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fan Skill for Reddit skill, try saying...

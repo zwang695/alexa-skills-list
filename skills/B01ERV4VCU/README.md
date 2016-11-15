@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Cat Feeder icon" width="36"> [The Cat Feeder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ab28d4ea-5b44-4c4f-8025-2b6b1a100e2e)
+# [The Cat Feeder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ab28d4ea-5b44-4c4f-8025-2b6b1a100e2e)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the The Cat Feeder skill, try saying...

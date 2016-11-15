@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Car Geek icon" width="36"> [Car Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.02cfd63f-af97-485a-898d-99fa20105deb)
+# [Car Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.02cfd63f-af97-485a-898d-99fa20105deb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Car Geek skill, try saying...

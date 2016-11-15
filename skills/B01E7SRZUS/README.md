@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Coin Flip icon" width="36"> [Coin Flip](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8e9dae6e-4902-4503-ac32-2c148cce631d)
+# [Coin Flip](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8e9dae6e-4902-4503-ac32-2c148cce631d)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Coin Flip skill, try saying...

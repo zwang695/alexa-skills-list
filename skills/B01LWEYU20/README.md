@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Smrithi - India Facts icon" width="36"> [Smrithi - India Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a8e4e924-d64b-4ea1-985e-9cbf30000b06)
+# [Smrithi - India Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a8e4e924-d64b-4ea1-985e-9cbf30000b06)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Smrithi - India Facts skill, try saying...

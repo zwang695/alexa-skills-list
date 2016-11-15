@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Twisted Fortune Cookies icon" width="36"> [Twisted Fortune Cookies](http://alexa.amazon.com/#skills/amzn1.ask.skill.f3b23404-9677-4d34-9cb5-e7fe3ea76fb3)
+# [Twisted Fortune Cookies](http://alexa.amazon.com/#skills/amzn1.ask.skill.f3b23404-9677-4d34-9cb5-e7fe3ea76fb3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Twisted Fortune Cookies skill, try saying...

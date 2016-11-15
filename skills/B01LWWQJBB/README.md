@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Korean Movies icon" width="36"> [Korean Movies](http://alexa.amazon.com/#skills/amzn1.ask.skill.5097a311-9e07-43ce-9915-2157185acb86)
+# [Korean Movies](http://alexa.amazon.com/#skills/amzn1.ask.skill.5097a311-9e07-43ce-9915-2157185acb86)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Korean Movies skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Nubs Nob icon" width="36"> [Snow Report for Nubs Nob](http://alexa.amazon.com/#skills/amzn1.ask.skill.611a3316-983f-4623-a673-f646e652fe35)
+# [Snow Report for Nubs Nob](http://alexa.amazon.com/#skills/amzn1.ask.skill.611a3316-983f-4623-a673-f646e652fe35)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Nubs Nob skill, try saying...

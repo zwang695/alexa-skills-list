@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Vacation Tips in Maine icon" width="36"> [Unofficial Vacation Tips in Maine](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee7f74bb-9af3-4d29-9b1b-e03f3f8daa58)
+# [Unofficial Vacation Tips in Maine](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee7f74bb-9af3-4d29-9b1b-e03f3f8daa58)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Vacation Tips in Maine skill, try saying...

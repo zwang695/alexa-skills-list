@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Data Structures icon" width="36"> [Data Structures](http://alexa.amazon.com/#skills/amzn1.ask.skill.ed434a93-3977-4a44-b2bb-85eceda2c454)
+# [Data Structures](http://alexa.amazon.com/#skills/amzn1.ask.skill.ed434a93-3977-4a44-b2bb-85eceda2c454)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Data Structures skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Spicy Chutney icon" width="36"> [Spicy Chutney](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b0baea55-16f1-4ec5-af82-6247d81e9066)
+# [Spicy Chutney](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b0baea55-16f1-4ec5-af82-6247d81e9066)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Spicy Chutney skill, try saying...

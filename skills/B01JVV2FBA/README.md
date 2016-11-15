@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="League Champion Skill icon" width="36"> [League Champion Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b758295-4088-4d3d-979c-cdc83904e20e)
+# [League Champion Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b758295-4088-4d3d-979c-cdc83904e20e)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the League Champion Skill skill, try saying...

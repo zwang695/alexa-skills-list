@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Pats Peak icon" width="36"> [Snow Report for Pats Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.406c1c04-0fa5-457a-8d10-79d370b7018e)
+# [Snow Report for Pats Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.406c1c04-0fa5-457a-8d10-79d370b7018e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Pats Peak skill, try saying...

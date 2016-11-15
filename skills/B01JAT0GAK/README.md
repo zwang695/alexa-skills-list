@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Animal trivia icon" width="36"> [Animal trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f4359678-96b6-46cb-a24c-f77cefcf4688)
+# [Animal trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f4359678-96b6-46cb-a24c-f77cefcf4688)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Animal trivia skill, try saying...

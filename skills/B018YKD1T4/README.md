@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="GLaDOS Quotes icon" width="36"> [GLaDOS Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.69e046e4-c2fe-4b03-ba25-debec9024a6e)
+# [GLaDOS Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.69e046e4-c2fe-4b03-ba25-debec9024a6e)
 ![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 15
 
 To use the GLaDOS Quotes skill, try saying...

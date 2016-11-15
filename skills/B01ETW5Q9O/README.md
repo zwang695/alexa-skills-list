@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SmartThings icon" width="36"> [SmartThings](http://alexa.amazon.com/#skills/amzn1.ask.skill.2bdbc74f-ce4d-4e2d-b741-326c7ba358f0)
+# [SmartThings](http://alexa.amazon.com/#skills/amzn1.ask.skill.2bdbc74f-ce4d-4e2d-b741-326c7ba358f0)
 ![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 89
 
 With the SmartThings skills for Alexa, you can now control a wide range of connected lights, switches, dimmers, outlets, and thermostats with your voice.

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Snowy Range icon" width="36"> [Snow Report for Snowy Range](http://alexa.amazon.com/#skills/amzn1.ask.skill.19cbf29d-59b9-4ae8-9c63-1f5d523e9886)
+# [Snow Report for Snowy Range](http://alexa.amazon.com/#skills/amzn1.ask.skill.19cbf29d-59b9-4ae8-9c63-1f5d523e9886)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Snowy Range skill, try saying...

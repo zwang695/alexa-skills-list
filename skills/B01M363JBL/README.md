@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pro Basketball Quiz icon" width="36"> [Pro Basketball Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.e8dae414-8861-4a42-ad31-4de17c13ab97)
+# [Pro Basketball Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.e8dae414-8861-4a42-ad31-4de17c13ab97)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pro Basketball Quiz skill, try saying...

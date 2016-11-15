@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="World Currencies icon" width="36"> [World Currencies](http://alexa.amazon.com/#skills/amzn1.ask.skill.c032c0a8-2ba1-4eb5-bef2-2cd21b254a6a)
+# [World Currencies](http://alexa.amazon.com/#skills/amzn1.ask.skill.c032c0a8-2ba1-4eb5-bef2-2cd21b254a6a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the World Currencies skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Crazy Lawer icon" width="36"> [Crazy Lawer](http://alexa.amazon.com/#skills/amzn1.ask.skill.27650d2a-940f-46ea-ab86-24805dca75a9)
+# [Crazy Lawer](http://alexa.amazon.com/#skills/amzn1.ask.skill.27650d2a-940f-46ea-ab86-24805dca75a9)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Crazy Lawer skill, try saying...

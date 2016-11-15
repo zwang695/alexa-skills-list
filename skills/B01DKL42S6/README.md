@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Potter Trivia icon" width="36"> [Potter Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a4131d1-ea4b-43ab-b905-9b4eb14cff92)
+# [Potter Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a4131d1-ea4b-43ab-b905-9b4eb14cff92)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Potter Trivia skill, try saying...

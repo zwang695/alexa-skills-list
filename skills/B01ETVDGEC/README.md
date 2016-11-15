@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="US Park Facts icon" width="36"> [US Park Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3e11b0d7-d067-4e38-b340-e238bca2acc5)
+# [US Park Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3e11b0d7-d067-4e38-b340-e238bca2acc5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the US Park Facts skill, try saying...

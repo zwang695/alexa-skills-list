@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Catamount Ski Area icon" width="36"> [Snow Report for Catamount Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.305c6aa1-eaad-4cef-9224-34179e4d12b3)
+# [Snow Report for Catamount Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.305c6aa1-eaad-4cef-9224-34179e4d12b3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Catamount Ski Area skill, try saying...

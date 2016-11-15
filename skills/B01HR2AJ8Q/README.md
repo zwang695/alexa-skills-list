@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CrystalPlate icon" width="36"> [CrystalPlate](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f301f81c-ad1d-4cb5-904d-892a5cc31d3e)
+# [CrystalPlate](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f301f81c-ad1d-4cb5-904d-892a5cc31d3e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CrystalPlate skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="7Sigma icon" width="36"> [7Sigma](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fb62f530-c247-4bc8-a89d-b0d7367baca4)
+# [7Sigma](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fb62f530-c247-4bc8-a89d-b0d7367baca4)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the 7Sigma skill, try saying...

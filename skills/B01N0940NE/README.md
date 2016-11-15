@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Calabogie Peaks icon" width="36"> [Snow Report for Calabogie Peaks](http://alexa.amazon.com/#skills/amzn1.ask.skill.f81d496e-40e6-4ed4-a5e8-07297f1f0ca9)
+# [Snow Report for Calabogie Peaks](http://alexa.amazon.com/#skills/amzn1.ask.skill.f81d496e-40e6-4ed4-a5e8-07297f1f0ca9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Calabogie Peaks skill, try saying...

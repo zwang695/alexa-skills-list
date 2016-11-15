@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Batawa Ski Hill icon" width="36"> [Snow Report for Batawa Ski Hill](http://alexa.amazon.com/#skills/amzn1.ask.skill.4faece81-2d1a-44ff-b3e3-36b3f7c839a6)
+# [Snow Report for Batawa Ski Hill](http://alexa.amazon.com/#skills/amzn1.ask.skill.4faece81-2d1a-44ff-b3e3-36b3f7c839a6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Batawa Ski Hill skill, try saying...

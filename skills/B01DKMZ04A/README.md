@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Watch Dog icon" width="36"> [Watch Dog](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c1bb0a28-f820-47fb-b02d-822e5fa27af0)
+# [Watch Dog](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c1bb0a28-f820-47fb-b02d-822e5fa27af0)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Watch Dog skill, try saying...

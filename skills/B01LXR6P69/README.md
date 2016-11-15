@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Boreal Mountain icon" width="36"> [Snow Report for Boreal Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd77fbd3-41b8-4ec2-8462-b00140ae62d5)
+# [Snow Report for Boreal Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd77fbd3-41b8-4ec2-8462-b00140ae62d5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Boreal Mountain skill, try saying...

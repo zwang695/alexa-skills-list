@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="West Tides icon" width="36"> [West Tides](http://alexa.amazon.com/#skills/amzn1.ask.skill.835bb233-a993-4aed-8a09-b3a22b6929a0)
+# [West Tides](http://alexa.amazon.com/#skills/amzn1.ask.skill.835bb233-a993-4aed-8a09-b3a22b6929a0)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the West Tides skill, try saying...

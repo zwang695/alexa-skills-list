@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Swiss Facts icon" width="36"> [Swiss Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3e2d45e3-0880-4e5a-a632-0232b9716054)
+# [Swiss Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3e2d45e3-0880-4e5a-a632-0232b9716054)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Swiss Facts skill, try saying...

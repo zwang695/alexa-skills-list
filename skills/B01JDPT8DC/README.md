@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Suggests good movies to watch icon" width="36"> [Suggests good movies to watch](http://alexa.amazon.com/#skills/amzn1.ask.skill.00a6830d-db5b-4365-9c7d-0b497167d27a)
+# [Suggests good movies to watch](http://alexa.amazon.com/#skills/amzn1.ask.skill.00a6830d-db5b-4365-9c7d-0b497167d27a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Suggests good movies to watch skill, try saying...

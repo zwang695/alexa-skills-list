@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Timbers Facts icon" width="36"> [Timbers Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fc9bdddd-4335-4b13-a55a-c7c6e56f65f3)
+# [Timbers Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fc9bdddd-4335-4b13-a55a-c7c6e56f65f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Timbers Facts skill, try saying...

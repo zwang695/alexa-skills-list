@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="myBibleFactSkill icon" width="36"> [myBibleFactSkill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.50a86de3-c8d2-44c2-968f-a15ac3a3c12c)
+# [myBibleFactSkill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.50a86de3-c8d2-44c2-968f-a15ac3a3c12c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the myBibleFactSkill skill, try saying...

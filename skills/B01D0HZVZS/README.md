@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Prime Numbers icon" width="36"> [Prime Numbers](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a861b138-560e-48ae-8d79-167e9e6d45cf)
+# [Prime Numbers](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a861b138-560e-48ae-8d79-167e9e6d45cf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Prime Numbers skill, try saying...

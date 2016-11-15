@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Spin the wheel icon" width="36"> [Spin the wheel](http://alexa.amazon.com/#skills/amzn1.ask.skill.d65480e6-6f6e-4c02-bc1f-78d0d30a42e5)
+# [Spin the wheel](http://alexa.amazon.com/#skills/amzn1.ask.skill.d65480e6-6f6e-4c02-bc1f-78d0d30a42e5)
 ![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Spin the wheel skill, try saying...

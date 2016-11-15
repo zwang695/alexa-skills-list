@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bank A.T.M. finder for New York State icon" width="36"> [Bank A.T.M. finder for New York State](http://alexa.amazon.com/#skills/amzn1.ask.skill.452aca7c-f8d3-4ca0-a45e-37781caf0740)
+# [Bank A.T.M. finder for New York State](http://alexa.amazon.com/#skills/amzn1.ask.skill.452aca7c-f8d3-4ca0-a45e-37781caf0740)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bank A.T.M. finder for New York State skill, try saying...

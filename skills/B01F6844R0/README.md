@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hawaiian Time icon" width="36"> [Hawaiian Time](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7aa9e972-1411-478e-ac9d-151a4b9a3d5f)
+# [Hawaiian Time](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7aa9e972-1411-478e-ac9d-151a4b9a3d5f)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Hawaiian Time skill, try saying...

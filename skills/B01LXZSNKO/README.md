@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bollywood Quiz icon" width="36"> [Bollywood Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.4f13e902-0bae-44a7-94a4-74930493db30)
+# [Bollywood Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.4f13e902-0bae-44a7-94a4-74930493db30)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bollywood Quiz skill, try saying...

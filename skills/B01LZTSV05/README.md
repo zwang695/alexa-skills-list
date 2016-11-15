@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts On Beer icon" width="36"> [Facts On Beer](http://alexa.amazon.com/#skills/amzn1.ask.skill.50cbc6cb-53cf-4d5a-8471-4f2c7c90a97f)
+# [Facts On Beer](http://alexa.amazon.com/#skills/amzn1.ask.skill.50cbc6cb-53cf-4d5a-8471-4f2c7c90a97f)
 ![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Facts On Beer skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="United States Naturalization Practice Quiz icon" width="36"> [United States Naturalization Practice Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.df565000-c460-42df-87ec-046540860b41)
+# [United States Naturalization Practice Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.df565000-c460-42df-87ec-046540860b41)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the United States Naturalization Practice Quiz skill, try saying...

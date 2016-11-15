@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="NYC Eats icon" width="36"> [NYC Eats](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b93c5aef-ea2f-4445-a038-18622a44f593)
+# [NYC Eats](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b93c5aef-ea2f-4445-a038-18622a44f593)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the NYC Eats skill, try saying...

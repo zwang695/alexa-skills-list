@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Space People icon" width="36"> [Space People](http://alexa.amazon.com/#skills/amzn1.ask.skill.169b2be4-12fa-4521-a1cd-a4cbdefdb86a)
+# [Space People](http://alexa.amazon.com/#skills/amzn1.ask.skill.169b2be4-12fa-4521-a1cd-a4cbdefdb86a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Space People skill, try saying...

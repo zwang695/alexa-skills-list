@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Discovery Mountain icon" width="36"> [Snow Report for Discovery Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.5fd54f01-614a-4412-9d44-f553931bdf64)
+# [Snow Report for Discovery Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.5fd54f01-614a-4412-9d44-f553931bdf64)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Discovery Mountain skill, try saying...

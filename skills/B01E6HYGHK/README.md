@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CivicMinding icon" width="36"> [CivicMinding](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.674a6a9b-a06a-40d0-8dbf-d14fbf281958)
+# [CivicMinding](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.674a6a9b-a06a-40d0-8dbf-d14fbf281958)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CivicMinding skill, try saying...

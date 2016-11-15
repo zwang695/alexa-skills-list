@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Ragged Mountain icon" width="36"> [Snow Report for Ragged Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0f5d587-8330-4275-acc0-b1d47fdb06de)
+# [Snow Report for Ragged Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0f5d587-8330-4275-acc0-b1d47fdb06de)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Ragged Mountain skill, try saying...

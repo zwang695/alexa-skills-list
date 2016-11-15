@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Romantic Movie Quotes icon" width="36"> [Romantic Movie Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b27616cc-5cdf-40c5-a8cb-c9297e273d07)
+# [Romantic Movie Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b27616cc-5cdf-40c5-a8cb-c9297e273d07)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Romantic Movie Quotes skill, try saying...

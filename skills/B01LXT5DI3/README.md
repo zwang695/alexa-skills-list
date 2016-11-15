@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="International Space Station facts icon" width="36"> [International Space Station facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2c2acdd1-0a9f-4ae1-9e89-0a3e32de3cbe)
+# [International Space Station facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2c2acdd1-0a9f-4ae1-9e89-0a3e32de3cbe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the International Space Station facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="digitalSTROM icon" width="36"> [digitalSTROM](http://alexa.amazon.com/#skills/amzn1.ask.skill.ed85125c-37e7-4656-9017-25ea7b4fe546)
+# [digitalSTROM](http://alexa.amazon.com/#skills/amzn1.ask.skill.ed85125c-37e7-4656-9017-25ea7b4fe546)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the digitalSTROM skill, try saying...

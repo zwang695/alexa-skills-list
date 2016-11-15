@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Broadway Trivia icon" width="36"> [Broadway Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d905ba9-7990-4c05-8c88-70a77ce53f80)
+# [Broadway Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d905ba9-7990-4c05-8c88-70a77ce53f80)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Broadway Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ColorHex icon" width="36"> [ColorHex](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8de11fe7-d47f-4d40-af4d-8a5864ac3ca3)
+# [ColorHex](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8de11fe7-d47f-4d40-af4d-8a5864ac3ca3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ColorHex skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baby Namer icon" width="36"> [Baby Namer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7e118167-9d09-49cf-919b-de9a12e8ac69)
+# [Baby Namer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7e118167-9d09-49cf-919b-de9a12e8ac69)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Baby Namer skill, try saying...

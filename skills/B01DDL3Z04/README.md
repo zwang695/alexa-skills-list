@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dog-Cat Trivia icon" width="36"> [Dog-Cat Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.77672adf-f506-45c8-901c-fcd182b9d85f)
+# [Dog-Cat Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.77672adf-f506-45c8-901c-fcd182b9d85f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dog-Cat Trivia skill, try saying...

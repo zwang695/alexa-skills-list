@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts for The White House icon" width="36"> [Facts for The White House](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0ed8413a-5b85-4bf9-bd0d-85507061476c)
+# [Facts for The White House](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0ed8413a-5b85-4bf9-bd0d-85507061476c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts for The White House skill, try saying...

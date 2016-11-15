@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="World's Biggest icon" width="36"> [World's Biggest](http://alexa.amazon.com/#skills/amzn1.ask.skill.1cfe2f5d-efd7-46b3-986b-8c014ca6385a)
+# [World's Biggest](http://alexa.amazon.com/#skills/amzn1.ask.skill.1cfe2f5d-efd7-46b3-986b-8c014ca6385a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the World's Biggest skill, try saying...

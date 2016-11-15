@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ferret Trivia icon" width="36"> [Ferret Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.accbab25-eecd-4d55-9383-ed18e7a203d4)
+# [Ferret Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.accbab25-eecd-4d55-9383-ed18e7a203d4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ferret Trivia skill, try saying...

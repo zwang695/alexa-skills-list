@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="National Forest Trivia icon" width="36"> [National Forest Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.830d9ba3-800b-4350-b6da-b2484be76213)
+# [National Forest Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.830d9ba3-800b-4350-b6da-b2484be76213)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the National Forest Trivia skill, try saying...

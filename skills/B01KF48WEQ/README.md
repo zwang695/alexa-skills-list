@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ben Facts icon" width="36"> [Ben Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e31316b3-3b68-41a8-9086-48adceed7d48)
+# [Ben Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e31316b3-3b68-41a8-9086-48adceed7d48)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ben Facts skill, try saying...

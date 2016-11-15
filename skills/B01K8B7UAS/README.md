@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Human Body Geek icon" width="36"> [Human Body Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.1f0dfa69-e709-4d14-abf2-7be3f032c2a6)
+# [Human Body Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.1f0dfa69-e709-4d14-abf2-7be3f032c2a6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Human Body Geek skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Flyers Facts icon" width="36"> [Random Flyers Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6e018b6f-3fbd-4528-964b-7eea9ac1fb79)
+# [Random Flyers Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6e018b6f-3fbd-4528-964b-7eea9ac1fb79)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Flyers Facts skill, try saying...

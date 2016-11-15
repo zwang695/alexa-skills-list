@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Love Statements icon" width="36"> [Love Statements](http://alexa.amazon.com/#skills/amzn1.ask.skill.15b33621-f41a-4f7e-8b35-b43f6ee8aae0)
+# [Love Statements](http://alexa.amazon.com/#skills/amzn1.ask.skill.15b33621-f41a-4f7e-8b35-b43f6ee8aae0)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Love Statements skill, try saying...

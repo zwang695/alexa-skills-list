@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Coach Harbaugh icon" width="36"> [Coach Harbaugh](http://alexa.amazon.com/#skills/amzn1.ask.skill.b283cd90-bac0-462e-8a03-7e4ab8ac7b72)
+# [Coach Harbaugh](http://alexa.amazon.com/#skills/amzn1.ask.skill.b283cd90-bac0-462e-8a03-7e4ab8ac7b72)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 12
 
 To use the Coach Harbaugh skill, try saying...

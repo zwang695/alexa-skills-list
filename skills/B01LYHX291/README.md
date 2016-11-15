@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="AstroBot icon" width="36"> [AstroBot](http://alexa.amazon.com/#skills/amzn1.ask.skill.64776143-842d-414d-b841-c4c7472bc358)
+# [AstroBot](http://alexa.amazon.com/#skills/amzn1.ask.skill.64776143-842d-414d-b841-c4c7472bc358)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the AstroBot skill, try saying...

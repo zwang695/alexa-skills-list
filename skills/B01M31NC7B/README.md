@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stockholm Facts icon" width="36"> [Stockholm Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.519bd6c3-9a9d-4aa7-b4d5-56ddd6fa5ce1)
+# [Stockholm Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.519bd6c3-9a9d-4aa7-b4d5-56ddd6fa5ce1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Stockholm Facts skill, try saying...

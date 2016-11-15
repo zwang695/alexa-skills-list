@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Blackjack Basic Strategy icon" width="36"> [Blackjack Basic Strategy](http://alexa.amazon.com/#skills/amzn1.ask.skill.b5bf5e2b-8452-4a1a-b6d7-09bec1d2396b)
+# [Blackjack Basic Strategy](http://alexa.amazon.com/#skills/amzn1.ask.skill.b5bf5e2b-8452-4a1a-b6d7-09bec1d2396b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Blackjack Basic Strategy skill, try saying...

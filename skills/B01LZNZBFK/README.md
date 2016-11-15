@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Smart Symptom Tracker icon" width="36"> [Smart Symptom Tracker](http://alexa.amazon.com/#skills/amzn1.ask.skill.4b5d1af3-a5fd-4e0b-8780-14cb29722af3)
+# [Smart Symptom Tracker](http://alexa.amazon.com/#skills/amzn1.ask.skill.4b5d1af3-a5fd-4e0b-8780-14cb29722af3)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Smart Symptom Tracker skill, try saying...

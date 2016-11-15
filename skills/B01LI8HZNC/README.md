@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Korean Food Facts icon" width="36"> [Korean Food Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.83b0842f-32f6-4789-8837-5b754fa5892d)
+# [Korean Food Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.83b0842f-32f6-4789-8837-5b754fa5892d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Korean Food Facts skill, try saying...

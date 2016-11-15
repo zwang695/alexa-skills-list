@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Flight History icon" width="36"> [Flight History](http://alexa.amazon.com/#skills/amzn1.ask.skill.cc2e7880-eabb-49b3-a19d-aba50b624a7e)
+# [Flight History](http://alexa.amazon.com/#skills/amzn1.ask.skill.cc2e7880-eabb-49b3-a19d-aba50b624a7e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Flight History skill, try saying...

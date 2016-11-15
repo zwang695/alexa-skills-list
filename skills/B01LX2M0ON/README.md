@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Rat Terrier Facts icon" width="36"> [Rat Terrier Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4f200c5f-68e0-4626-92cd-f4075f9bf9a7)
+# [Rat Terrier Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4f200c5f-68e0-4626-92cd-f4075f9bf9a7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Rat Terrier Facts skill, try saying...

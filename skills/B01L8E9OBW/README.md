@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Venezuela Facts icon" width="36"> [Venezuela Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6368bafc-0135-4a92-965c-28610215fb0b)
+# [Venezuela Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6368bafc-0135-4a92-965c-28610215fb0b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Venezuela Facts skill, try saying...

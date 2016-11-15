@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mont Gabriel icon" width="36"> [Snow Report for Mont Gabriel](http://alexa.amazon.com/#skills/amzn1.ask.skill.c690ef17-f035-49e1-a498-fa0a9a7d9006)
+# [Snow Report for Mont Gabriel](http://alexa.amazon.com/#skills/amzn1.ask.skill.c690ef17-f035-49e1-a498-fa0a9a7d9006)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mont Gabriel skill, try saying...

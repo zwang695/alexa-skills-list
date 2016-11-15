@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="RR Club Information icon" width="36"> [RR Club Information](http://alexa.amazon.com/#skills/amzn1.ask.skill.1790d938-1415-4895-9da8-aa324924df95)
+# [RR Club Information](http://alexa.amazon.com/#skills/amzn1.ask.skill.1790d938-1415-4895-9da8-aa324924df95)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the RR Club Information skill, try saying...

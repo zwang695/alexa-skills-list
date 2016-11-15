@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dark Matter Facts icon" width="36"> [Dark Matter Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f32f6b33-aaf8-4ec4-ba7b-683f9072ba6a)
+# [Dark Matter Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f32f6b33-aaf8-4ec4-ba7b-683f9072ba6a)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Dark Matter Facts skill, try saying...

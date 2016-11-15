@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What's Better? icon" width="36"> [What's Better?](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.63ffddd0-5902-44c3-889e-91517fae76be)
+# [What's Better?](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.63ffddd0-5902-44c3-889e-91517fae76be)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the What's Better? skill, try saying...

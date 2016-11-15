@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Channel Finder icon" width="36"> [Channel Finder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c0d8baf8-9003-46ba-a370-79d3b8875379)
+# [Channel Finder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c0d8baf8-9003-46ba-a370-79d3b8875379)
 ![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Channel Finder skill, try saying...

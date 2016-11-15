@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Blink for Home icon" width="36"> [Blink for Home](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a1983875-d959-4f17-aece-13d9cfabcc73)
+# [Blink for Home](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a1983875-d959-4f17-aece-13d9cfabcc73)
 ![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 17
 
 To use the Blink for Home skill, try saying...

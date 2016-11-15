@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tube Trivia (Unofficial) icon" width="36"> [Tube Trivia (Unofficial)](http://alexa.amazon.com/#skills/amzn1.ask.skill.4797ce4b-ad8d-4191-9b42-8a40695beb06)
+# [Tube Trivia (Unofficial)](http://alexa.amazon.com/#skills/amzn1.ask.skill.4797ce4b-ad8d-4191-9b42-8a40695beb06)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tube Trivia (Unofficial) skill, try saying...

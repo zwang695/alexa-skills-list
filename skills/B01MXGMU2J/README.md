@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Vorlage Ski Area icon" width="36"> [Snow Report for Vorlage Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.dc787e25-ec86-41ef-a81b-f0f30cc5c2a9)
+# [Snow Report for Vorlage Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.dc787e25-ec86-41ef-a81b-f0f30cc5c2a9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Vorlage Ski Area skill, try saying...

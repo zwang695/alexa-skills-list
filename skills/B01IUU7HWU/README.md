@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="United Nations Capitals icon" width="36"> [United Nations Capitals](http://alexa.amazon.com/#skills/amzn1.ask.skill.66ecad9d-99a3-409e-8034-c358b8167da6)
+# [United Nations Capitals](http://alexa.amazon.com/#skills/amzn1.ask.skill.66ecad9d-99a3-409e-8034-c358b8167da6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the United Nations Capitals skill, try saying...

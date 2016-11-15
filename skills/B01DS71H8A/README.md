@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hunter Pence Facts icon" width="36"> [Hunter Pence Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f21e587-42bd-4875-a6c3-ab69b38824d2)
+# [Hunter Pence Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f21e587-42bd-4875-a6c3-ab69b38824d2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hunter Pence Facts skill, try saying...

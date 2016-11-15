@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Turkey Day icon" width="36"> [Turkey Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.17dec890-4b50-4e6d-8957-3731eb8ee209)
+# [Turkey Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.17dec890-4b50-4e6d-8957-3731eb8ee209)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Turkey Day skill, try saying...

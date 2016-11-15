@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="KetoFacts icon" width="36"> [KetoFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.04c6b99f-aa88-4990-95b8-83ed22c7d043)
+# [KetoFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.04c6b99f-aa88-4990-95b8-83ed22c7d043)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the KetoFacts skill, try saying...

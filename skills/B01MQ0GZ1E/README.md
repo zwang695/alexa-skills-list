@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Cerebral Digital](http://alexa.amazon.com/#skills/amzn1.ask.skill.b3dbd80e-46af-437b-b056-f840bbf3b18d)
+# [Cerebral Digital](http://alexa.amazon.com/#skills/amzn1.ask.skill.b3dbd80e-46af-437b-b056-f840bbf3b18d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

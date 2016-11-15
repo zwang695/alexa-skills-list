@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Friendly Panda icon" width="36"> [Friendly Panda](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.26ff7327-995a-47f8-8d09-3d3ccdf6a647)
+# [Friendly Panda](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.26ff7327-995a-47f8-8d09-3d3ccdf6a647)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Friendly Panda skill, try saying...

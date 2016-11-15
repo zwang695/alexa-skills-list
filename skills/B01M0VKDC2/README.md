@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Paradox Collection icon" width="36"> [Paradox Collection](http://alexa.amazon.com/#skills/amzn1.ask.skill.444dc285-7bdc-4c93-b70c-57c9934e9c4c)
+# [Paradox Collection](http://alexa.amazon.com/#skills/amzn1.ask.skill.444dc285-7bdc-4c93-b70c-57c9934e9c4c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Paradox Collection skill, try saying...

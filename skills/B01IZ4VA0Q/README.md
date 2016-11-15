@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Flashtender icon" width="36"> [Flashtender](http://alexa.amazon.com/#skills/amzn1.ask.skill.35b14e8a-d255-43b3-850e-409966d0a8de)
+# [Flashtender](http://alexa.amazon.com/#skills/amzn1.ask.skill.35b14e8a-d255-43b3-850e-409966d0a8de)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Flashtender skill, try saying...

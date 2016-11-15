@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [michaelgrundie](http://alexa.amazon.com/#skills/amzn1.ask.skill.fc6be317-33be-4cb2-8f1d-63df6de03320)
+# [michaelgrundie](http://alexa.amazon.com/#skills/amzn1.ask.skill.fc6be317-33be-4cb2-8f1d-63df6de03320)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

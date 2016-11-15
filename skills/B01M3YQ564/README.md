@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Alpine Mountain icon" width="36"> [Snow Report for Alpine Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.a9457c2f-3689-4ba0-adda-edda951c6bcd)
+# [Snow Report for Alpine Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.a9457c2f-3689-4ba0-adda-edda951c6bcd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Alpine Mountain skill, try saying...

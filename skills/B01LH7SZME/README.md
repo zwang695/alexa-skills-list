@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="fencing master icon" width="36"> [fencing master](http://alexa.amazon.com/#skills/amzn1.ask.skill.c64929cb-67b3-42b9-80a0-3cfc19a5a71a)
+# [fencing master](http://alexa.amazon.com/#skills/amzn1.ask.skill.c64929cb-67b3-42b9-80a0-3cfc19a5a71a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the fencing master skill, try saying...

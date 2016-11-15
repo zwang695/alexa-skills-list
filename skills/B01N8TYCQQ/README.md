@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Science Trivia Game icon" width="36"> [Science Trivia Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.d1dd3fd6-7cd3-4265-9f0b-34a9cce6f7b8)
+# [Science Trivia Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.d1dd3fd6-7cd3-4265-9f0b-34a9cce6f7b8)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Science Trivia Game skill, try saying...

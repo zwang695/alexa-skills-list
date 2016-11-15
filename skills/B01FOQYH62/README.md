@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Netherlands Trivia icon" width="36"> [Netherlands Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e5be97a0-edc3-42c9-b2be-0896bfc1d07a)
+# [Netherlands Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e5be97a0-edc3-42c9-b2be-0896bfc1d07a)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Netherlands Trivia skill, try saying...

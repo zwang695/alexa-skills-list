@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ChannelAdvisor E-Commerce Blog icon" width="36"> [ChannelAdvisor E-Commerce Blog](http://alexa.amazon.com/#skills/amzn1.ask.skill.d28aff24-6157-4b23-ba65-21e8a29555fb)
+# [ChannelAdvisor E-Commerce Blog](http://alexa.amazon.com/#skills/amzn1.ask.skill.d28aff24-6157-4b23-ba65-21e8a29555fb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ChannelAdvisor E-Commerce Blog skill, try saying...

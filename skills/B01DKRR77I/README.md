@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DEVITO FACTS icon" width="36"> [DEVITO FACTS](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.11652741-2b85-4d51-abda-74089263d389)
+# [DEVITO FACTS](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.11652741-2b85-4d51-abda-74089263d389)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the DEVITO FACTS skill, try saying...

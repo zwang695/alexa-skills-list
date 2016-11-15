@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Jessica Sanchez Trivia icon" width="36"> [Jessica Sanchez Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.547f7426-8682-4215-b693-494699702c93)
+# [Jessica Sanchez Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.547f7426-8682-4215-b693-494699702c93)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Jessica Sanchez Trivia skill, try saying...

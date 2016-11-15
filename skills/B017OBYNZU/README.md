@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Animal Game icon" width="36"> [Animal Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3dcfc44d-faf0-4441-9a82-16911fd1fbb0)
+# [Animal Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3dcfc44d-faf0-4441-9a82-16911fd1fbb0)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 73
 
 To use the Animal Game skill, try saying...

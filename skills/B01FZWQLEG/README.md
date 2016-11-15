@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Deadhead Facts icon" width="36"> [Deadhead Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.23ea40eb-00cd-498c-a993-9f05b6a39719)
+# [Deadhead Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.23ea40eb-00cd-498c-a993-9f05b6a39719)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Deadhead Facts skill, try saying...

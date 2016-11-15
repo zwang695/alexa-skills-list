@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Jewish Music icon" width="36"> [Jewish Music](http://alexa.amazon.com/#skills/amzn1.ask.skill.eb236f1f-036f-4111-9296-501189465141)
+# [Jewish Music](http://alexa.amazon.com/#skills/amzn1.ask.skill.eb236f1f-036f-4111-9296-501189465141)
 ![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Jewish Music skill, try saying...

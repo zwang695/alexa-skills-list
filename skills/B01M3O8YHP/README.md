@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Football Schedule icon" width="36"> [Football Schedule](http://alexa.amazon.com/#skills/amzn1.ask.skill.ede226e6-aca6-4469-a148-ff44b1eb3a0a)
+# [Football Schedule](http://alexa.amazon.com/#skills/amzn1.ask.skill.ede226e6-aca6-4469-a148-ff44b1eb3a0a)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Football Schedule skill, try saying...

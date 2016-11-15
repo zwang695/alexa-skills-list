@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Ober Gatlinburg icon" width="36"> [Snow Report for Ober Gatlinburg](http://alexa.amazon.com/#skills/amzn1.ask.skill.01736f27-d082-4172-bbb3-8ea70bea82e2)
+# [Snow Report for Ober Gatlinburg](http://alexa.amazon.com/#skills/amzn1.ask.skill.01736f27-d082-4172-bbb3-8ea70bea82e2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Ober Gatlinburg skill, try saying...

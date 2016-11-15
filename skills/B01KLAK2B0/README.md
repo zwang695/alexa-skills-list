@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Johnie's Infamous Relationship Quotes icon" width="36"> [Johnie's Infamous Relationship Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.fc53a7f5-ca1b-450e-bb1b-93f6966e6d4f)
+# [Johnie's Infamous Relationship Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.fc53a7f5-ca1b-450e-bb1b-93f6966e6d4f)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Johnie's Infamous Relationship Quotes skill, try saying...

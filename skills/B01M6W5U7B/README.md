@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Time Clock icon" width="36"> [Time Clock](http://alexa.amazon.com/#skills/amzn1.ask.skill.c282cd99-d4fa-40e4-ad14-84018f0c1099)
+# [Time Clock](http://alexa.amazon.com/#skills/amzn1.ask.skill.c282cd99-d4fa-40e4-ad14-84018f0c1099)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Time Clock skill, try saying...

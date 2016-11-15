@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="TIL Me More icon" width="36"> [TIL Me More](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.289ec209-b7c5-4a99-9492-014f37e0099c)
+# [TIL Me More](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.289ec209-b7c5-4a99-9492-014f37e0099c)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the TIL Me More skill, try saying...

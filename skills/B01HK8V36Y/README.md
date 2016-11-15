@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pixar Fan Trivia icon" width="36"> [Pixar Fan Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1e3f022-9c6a-42a6-bea1-57b0d4ba2122)
+# [Pixar Fan Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1e3f022-9c6a-42a6-bea1-57b0d4ba2122)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Pixar Fan Trivia skill, try saying...

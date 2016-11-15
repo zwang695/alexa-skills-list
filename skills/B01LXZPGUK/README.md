@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Interesting Motorcycle Facts icon" width="36"> [My Interesting Motorcycle Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cffc9558-790e-492d-b8ae-d3b246a79907)
+# [My Interesting Motorcycle Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cffc9558-790e-492d-b8ae-d3b246a79907)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the My Interesting Motorcycle Facts skill, try saying...

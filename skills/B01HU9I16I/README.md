@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Smart Security icon" width="36"> [Smart Security](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.06812fda-4427-4d83-971e-40f0fcf70fd0)
+# [Smart Security](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.06812fda-4427-4d83-971e-40f0fcf70fd0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Smart Security skill, try saying...

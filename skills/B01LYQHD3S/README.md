@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Roller Coaster Geek icon" width="36"> [Roller Coaster Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.fedae83f-f269-4f72-9ee0-0ec2631d3b95)
+# [Roller Coaster Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.fedae83f-f269-4f72-9ee0-0ec2631d3b95)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Roller Coaster Geek skill, try saying...

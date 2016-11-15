@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Badger Mountain icon" width="36"> [Snow Report for Badger Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.418cd29b-6c70-42ea-96ae-fb1cca182361)
+# [Snow Report for Badger Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.418cd29b-6c70-42ea-96ae-fb1cca182361)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Badger Mountain skill, try saying...

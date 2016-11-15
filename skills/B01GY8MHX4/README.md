@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="One Liners icon" width="36"> [One Liners](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.da95badf-c6c9-40cc-8af3-66cf449a5a47)
+# [One Liners](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.da95badf-c6c9-40cc-8af3-66cf449a5a47)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the One Liners skill, try saying...

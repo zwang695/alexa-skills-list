@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Nest Labs, Inc.](http://alexa.amazon.com/#skills/amzn1.ask.skill.27ca478a-8959-409e-99a6-48f77ebe57f1)
+# [Nest Labs, Inc.](http://alexa.amazon.com/#skills/amzn1.ask.skill.27ca478a-8959-409e-99a6-48f77ebe57f1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mind Gap icon" width="36"> [Mind Gap](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.be0df69e-ec84-4025-a0cf-6c0af32444c4)
+# [Mind Gap](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.be0df69e-ec84-4025-a0cf-6c0af32444c4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mind Gap skill, try saying...

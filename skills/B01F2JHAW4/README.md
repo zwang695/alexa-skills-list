@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia for 30 Rock Fans icon" width="36"> [Trivia for 30 Rock Fans](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.afa29a03-7d1b-4e43-850d-95c302e91a22)
+# [Trivia for 30 Rock Fans](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.afa29a03-7d1b-4e43-850d-95c302e91a22)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia for 30 Rock Fans skill, try saying...

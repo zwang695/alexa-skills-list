@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Car Insurance Facts icon" width="36"> [Car Insurance Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d9c6d3bc-5099-4c35-992f-7b5b53ddd11d)
+# [Car Insurance Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d9c6d3bc-5099-4c35-992f-7b5b53ddd11d)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Car Insurance Facts skill, try saying...

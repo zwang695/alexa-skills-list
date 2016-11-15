@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DSM5 Exam icon" width="36"> [DSM5 Exam](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cdfb12c2-9d97-4466-9f31-dcb03d48dc60)
+# [DSM5 Exam](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cdfb12c2-9d97-4466-9f31-dcb03d48dc60)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the DSM5 Exam skill, try saying...

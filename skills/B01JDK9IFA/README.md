@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Language Facts icon" width="36"> [Language Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b08d07d8-58a9-412a-bf7c-94cacd228a01)
+# [Language Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b08d07d8-58a9-412a-bf7c-94cacd228a01)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Language Facts skill, try saying...

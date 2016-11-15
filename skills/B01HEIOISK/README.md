@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="stateCapitals icon" width="36"> [stateCapitals](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b8864cd2-345e-4636-8825-a78669ed4964)
+# [stateCapitals](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b8864cd2-345e-4636-8825-a78669ed4964)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the stateCapitals skill, try saying...

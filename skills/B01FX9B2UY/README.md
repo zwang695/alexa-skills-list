@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Max Trivia icon" width="36"> [Max Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.13e7cced-9bf9-4a4b-a576-68999c335a97)
+# [Max Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.13e7cced-9bf9-4a4b-a576-68999c335a97)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Max Trivia skill, try saying...

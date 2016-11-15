@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Whiskey Geek icon" width="36"> [Whiskey Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.146af775-7671-43d7-911c-f5fa24ce7c37)
+# [Whiskey Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.146af775-7671-43d7-911c-f5fa24ce7c37)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Whiskey Geek skill, try saying...

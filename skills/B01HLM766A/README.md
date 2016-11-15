@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Austin Transit icon" width="36"> [Austin Transit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bff3e994-4e37-4636-a166-12208a4e1d6a)
+# [Austin Transit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bff3e994-4e37-4636-a166-12208a4e1d6a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Austin Transit skill, try saying...

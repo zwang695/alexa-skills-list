@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Arizona Snowbowl icon" width="36"> [Snow Report for Arizona Snowbowl](http://alexa.amazon.com/#skills/amzn1.ask.skill.c2eff689-468a-4d63-bac3-ad36cafb60a6)
+# [Snow Report for Arizona Snowbowl](http://alexa.amazon.com/#skills/amzn1.ask.skill.c2eff689-468a-4d63-bac3-ad36cafb60a6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Arizona Snowbowl skill, try saying...

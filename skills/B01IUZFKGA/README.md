@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Reusable icon" width="36"> [Reusable](http://alexa.amazon.com/#skills/amzn1.ask.skill.46d33ca2-e613-4c60-ba70-0cedf88f6b0c)
+# [Reusable](http://alexa.amazon.com/#skills/amzn1.ask.skill.46d33ca2-e613-4c60-ba70-0cedf88f6b0c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Reusable skill, try saying...

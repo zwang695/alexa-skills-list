@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Panda wizard icon" width="36"> [Panda wizard](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eb9e4906-045f-4d5c-b60a-e95ff2e33049)
+# [Panda wizard](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eb9e4906-045f-4d5c-b60a-e95ff2e33049)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Panda wizard skill, try saying...

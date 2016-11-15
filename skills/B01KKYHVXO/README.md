@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="All States of America icon" width="36"> [All States of America](http://alexa.amazon.com/#skills/amzn1.ask.skill.c571cb99-ce30-4a47-9a57-bf90224a7497)
+# [All States of America](http://alexa.amazon.com/#skills/amzn1.ask.skill.c571cb99-ce30-4a47-9a57-bf90224a7497)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the All States of America skill, try saying...

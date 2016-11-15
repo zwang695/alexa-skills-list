@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Honeybee facts icon" width="36"> [Honeybee facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1b4c9afe-3bcf-4b87-82d9-454bfb4f13be)
+# [Honeybee facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1b4c9afe-3bcf-4b87-82d9-454bfb4f13be)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Honeybee facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cheese Facts icon" width="36"> [Cheese Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b2e0f9ce-202f-4a2d-8a72-b45e5ce114fb)
+# [Cheese Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b2e0f9ce-202f-4a2d-8a72-b45e5ce114fb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cheese Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BUILTR Daily by BUILTR Labs icon" width="36"> [BUILTR Daily by BUILTR Labs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.691ff4bd-d791-438d-9583-de6c4f2c1532)
+# [BUILTR Daily by BUILTR Labs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.691ff4bd-d791-438d-9583-de6c4f2c1532)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BUILTR Daily by BUILTR Labs skill, try saying...

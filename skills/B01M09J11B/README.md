@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Michael's Facts icon" width="36"> [Michael's Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.82d0410b-8063-4455-84fa-85c21ba94b68)
+# [Michael's Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.82d0410b-8063-4455-84fa-85c21ba94b68)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Michael's Facts skill, try saying...

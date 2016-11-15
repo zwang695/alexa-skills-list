@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Three Man icon" width="36"> [Three Man](http://alexa.amazon.com/#skills/amzn1.ask.skill.5d5ab49c-6ae6-4b72-91bb-fb615039826c)
+# [Three Man](http://alexa.amazon.com/#skills/amzn1.ask.skill.5d5ab49c-6ae6-4b72-91bb-fb615039826c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Three Man skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Board Game Guide icon" width="36"> [Board Game Guide](http://alexa.amazon.com/#skills/amzn1.ask.skill.2a56a332-8cef-433d-a9f7-853ed295bdd7)
+# [Board Game Guide](http://alexa.amazon.com/#skills/amzn1.ask.skill.2a56a332-8cef-433d-a9f7-853ed295bdd7)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Board Game Guide skill, try saying...

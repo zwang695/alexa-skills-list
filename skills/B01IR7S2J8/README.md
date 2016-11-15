@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Number of Districts in Indian Sates icon" width="36"> [Number of Districts in Indian Sates](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c3f8a83-e4c9-4d8c-9c73-8dfc69b658e6)
+# [Number of Districts in Indian Sates](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c3f8a83-e4c9-4d8c-9c73-8dfc69b658e6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Number of Districts in Indian Sates skill, try saying...

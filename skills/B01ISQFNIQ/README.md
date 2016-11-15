@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Personal Finance Tip icon" width="36"> [Personal Finance Tip](http://alexa.amazon.com/#skills/amzn1.ask.skill.414324d8-e1f6-4390-a76a-d5765f7931ff)
+# [Personal Finance Tip](http://alexa.amazon.com/#skills/amzn1.ask.skill.414324d8-e1f6-4390-a76a-d5765f7931ff)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Personal Finance Tip skill, try saying...

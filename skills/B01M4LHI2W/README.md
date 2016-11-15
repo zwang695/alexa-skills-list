@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Lookout Pass icon" width="36"> [Snow Report for Lookout Pass](http://alexa.amazon.com/#skills/amzn1.ask.skill.e6598d10-00d1-493d-83a9-2c8bc7644fec)
+# [Snow Report for Lookout Pass](http://alexa.amazon.com/#skills/amzn1.ask.skill.e6598d10-00d1-493d-83a9-2c8bc7644fec)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Lookout Pass skill, try saying...

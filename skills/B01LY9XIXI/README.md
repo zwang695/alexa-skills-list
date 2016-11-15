@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Legendary Quotes icon" width="36"> [Legendary Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.bfc54b53-9549-4577-acb6-d0cb6717a621)
+# [Legendary Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.bfc54b53-9549-4577-acb6-d0cb6717a621)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Legendary Quotes skill, try saying...

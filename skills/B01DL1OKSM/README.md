@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Runtime Helper icon" width="36"> [Runtime Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e097b64c-2cc6-442b-9782-e45a8e64e8a9)
+# [Runtime Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e097b64c-2cc6-442b-9782-e45a8e64e8a9)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Runtime Helper skill, try saying...

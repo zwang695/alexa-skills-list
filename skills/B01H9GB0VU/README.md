@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Boat Facts icon" width="36"> [Boat Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4e90ddc9-5a33-4d2c-bcb7-a2c13f4c8eba)
+# [Boat Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4e90ddc9-5a33-4d2c-bcb7-a2c13f4c8eba)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Boat Facts skill, try saying...

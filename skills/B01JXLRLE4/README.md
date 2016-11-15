@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Magic Rules icon" width="36"> [Magic Rules](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.08576efd-6ccc-47c2-bd21-1edbb8a0c4b3)
+# [Magic Rules](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.08576efd-6ccc-47c2-bd21-1edbb8a0c4b3)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Magic Rules skill, try saying...

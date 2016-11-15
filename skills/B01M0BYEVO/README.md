@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Music Charts icon" width="36"> [Music Charts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0f1ba602-bc5e-4596-afe8-3cbce667b8ed)
+# [Music Charts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0f1ba602-bc5e-4596-afe8-3cbce667b8ed)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Music Charts skill, try saying...

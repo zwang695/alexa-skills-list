@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Copper Mountain icon" width="36"> [Snow Report for Copper Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.8a934de4-9947-42ef-816a-e47875a993ec)
+# [Snow Report for Copper Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.8a934de4-9947-42ef-816a-e47875a993ec)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Copper Mountain skill, try saying...

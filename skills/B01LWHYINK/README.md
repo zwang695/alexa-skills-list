@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Diagnose Car Starting Problem icon" width="36"> [Diagnose Car Starting Problem](http://alexa.amazon.com/#skills/amzn1.ask.skill.c19b49b5-4d92-4fae-9f13-4c0721092ebc)
+# [Diagnose Car Starting Problem](http://alexa.amazon.com/#skills/amzn1.ask.skill.c19b49b5-4d92-4fae-9f13-4c0721092ebc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Diagnose Car Starting Problem skill, try saying...

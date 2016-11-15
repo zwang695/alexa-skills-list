@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="greensprout icon" width="36"> [greensprout](http://alexa.amazon.com/#skills/amzn1.ask.skill.7cc4ac18-cba5-4850-a401-4475be954384)
+# [greensprout](http://alexa.amazon.com/#skills/amzn1.ask.skill.7cc4ac18-cba5-4850-a401-4475be954384)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the greensprout skill, try saying...

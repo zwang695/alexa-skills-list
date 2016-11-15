@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Memory Match icon" width="36"> [Memory Match](http://alexa.amazon.com/#skills/amzn1.ask.skill.a224d45d-3af6-42ab-a6d5-6f6d029d7932)
+# [Memory Match](http://alexa.amazon.com/#skills/amzn1.ask.skill.a224d45d-3af6-42ab-a6d5-6f6d029d7932)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Memory Match skill, try saying...

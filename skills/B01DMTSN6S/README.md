@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Littera Report icon" width="36"> [Littera Report](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f21f8f3c-6aa0-416e-8f9a-5b4c63ce2bc9)
+# [Littera Report](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f21f8f3c-6aa0-416e-8f9a-5b4c63ce2bc9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Littera Report skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="beeFacts icon" width="36"> [beeFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.84281b6a-e1e6-47cf-9209-e46ddc9d250b)
+# [beeFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.84281b6a-e1e6-47cf-9209-e46ddc9d250b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the beeFacts skill, try saying...

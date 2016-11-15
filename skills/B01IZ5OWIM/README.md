@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DMV Test icon" width="36"> [DMV Test](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e51d5f2-b46f-48e0-8413-0647d363daae)
+# [DMV Test](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e51d5f2-b46f-48e0-8413-0647d363daae)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the DMV Test skill, try saying...

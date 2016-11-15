@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Learn Italian icon" width="36"> [Learn Italian](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f498d7fa-a486-4f14-9526-02afd196b3b6)
+# [Learn Italian](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f498d7fa-a486-4f14-9526-02afd196b3b6)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Learn Italian skill, try saying...

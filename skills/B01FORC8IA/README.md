@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dance Moves icon" width="36"> [Dance Moves](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3769bafb-d806-43cf-afca-feb3133c6bd7)
+# [Dance Moves](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3769bafb-d806-43cf-afca-feb3133c6bd7)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Dance Moves skill, try saying...

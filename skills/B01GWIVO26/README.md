@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ellie World icon" width="36"> [Ellie World](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e52a4556-f545-4791-a7de-b8a8f9f70f79)
+# [Ellie World](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e52a4556-f545-4791-a7de-b8a8f9f70f79)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ellie World skill, try saying...

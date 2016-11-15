@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fruit Facts icon" width="36"> [Fruit Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b1e8c1f4-2e8b-4beb-8422-c0522828ea96)
+# [Fruit Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b1e8c1f4-2e8b-4beb-8422-c0522828ea96)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Fruit Facts skill, try saying...

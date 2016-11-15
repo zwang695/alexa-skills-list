@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="my chemistry facts icon" width="36"> [my chemistry facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.03689e15-d8fc-4670-a010-f720ece31bf5)
+# [my chemistry facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.03689e15-d8fc-4670-a010-f720ece31bf5)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the my chemistry facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Complimenting Machine icon" width="36"> [Complimenting Machine](http://alexa.amazon.com/#skills/amzn1.ask.skill.b7bd5eae-c3ab-4d5f-800d-cdd9990e773d)
+# [Complimenting Machine](http://alexa.amazon.com/#skills/amzn1.ask.skill.b7bd5eae-c3ab-4d5f-800d-cdd9990e773d)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Complimenting Machine skill, try saying...

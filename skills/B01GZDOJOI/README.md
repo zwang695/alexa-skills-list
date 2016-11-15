@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Samsung Smart Home icon" width="36"> [Samsung Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.d6866c48-8c17-4eeb-ac71-49170e182625)
+# [Samsung Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.d6866c48-8c17-4eeb-ac71-49170e182625)
 ![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 14
 
 Samsung Home appliances have become even more convenient with Alexa.

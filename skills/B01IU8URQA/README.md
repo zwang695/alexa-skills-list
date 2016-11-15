@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BigML icon" width="36"> [BigML](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.50b02dd3-ab6f-4c39-bd04-e65fab54ea77)
+# [BigML](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.50b02dd3-ab6f-4c39-bd04-e65fab54ea77)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BigML skill, try saying...

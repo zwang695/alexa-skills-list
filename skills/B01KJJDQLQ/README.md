@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Color Mix helper icon" width="36"> [Color Mix helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.eaf14c5b-472b-40ea-af58-6b31b32f57e8)
+# [Color Mix helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.eaf14c5b-472b-40ea-af58-6b31b32f57e8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Color Mix helper skill, try saying...

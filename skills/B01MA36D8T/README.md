@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stain Remover icon" width="36"> [Stain Remover](http://alexa.amazon.com/#skills/amzn1.ask.skill.007b3ca4-7dd2-4f8f-8ccb-d8684c745409)
+# [Stain Remover](http://alexa.amazon.com/#skills/amzn1.ask.skill.007b3ca4-7dd2-4f8f-8ccb-d8684c745409)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Stain Remover skill, try saying...

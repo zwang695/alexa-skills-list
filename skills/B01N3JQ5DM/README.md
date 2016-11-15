@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Lakeridge Ski Resort icon" width="36"> [Snow Report for Lakeridge Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.143022c9-5bf0-44b3-a100-ecf5c1f451c1)
+# [Snow Report for Lakeridge Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.143022c9-5bf0-44b3-a100-ecf5c1f451c1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Lakeridge Ski Resort skill, try saying...

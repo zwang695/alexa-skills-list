@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bean Jar - family rewards system icon" width="36"> [Bean Jar - family rewards system](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cfca78e2-ba82-4c21-ae41-eec130423847)
+# [Bean Jar - family rewards system](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cfca78e2-ba82-4c21-ae41-eec130423847)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the Bean Jar - family rewards system skill, try saying...

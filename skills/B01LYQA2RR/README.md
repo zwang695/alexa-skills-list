@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Philips Hue](http://alexa.amazon.com/#skills/amzn1.ask.skill.82121f01-1b13-4fe5-bbf7-dab54ddb2a86)
+# [Philips Hue](http://alexa.amazon.com/#skills/amzn1.ask.skill.82121f01-1b13-4fe5-bbf7-dab54ddb2a86)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

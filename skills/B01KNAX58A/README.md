@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Chuck Norris Facts icon" width="36"> [Unofficial Chuck Norris Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.52d71bda-f9f9-4952-99a9-5f66fcbc2fd0)
+# [Unofficial Chuck Norris Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.52d71bda-f9f9-4952-99a9-5f66fcbc2fd0)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Unofficial Chuck Norris Facts skill, try saying...

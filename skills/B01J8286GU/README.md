@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="hugOne icon" width="36"> [hugOne](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.062bd182-ccff-4189-9242-894a1da18581)
+# [hugOne](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.062bd182-ccff-4189-9242-894a1da18581)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the hugOne skill, try saying...

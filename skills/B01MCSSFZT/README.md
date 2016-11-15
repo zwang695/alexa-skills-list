@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Venice Facts icon" width="36"> [Venice Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bebd9187-621f-42a9-9056-5d194dd95c2b)
+# [Venice Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bebd9187-621f-42a9-9056-5d194dd95c2b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Venice Facts skill, try saying...

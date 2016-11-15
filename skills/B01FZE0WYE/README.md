@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nordic Runes icon" width="36"> [Nordic Runes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.561b9374-0cb6-4f61-bce3-3b2d1da8ba69)
+# [Nordic Runes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.561b9374-0cb6-4f61-bce3-3b2d1da8ba69)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Nordic Runes skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Navy Wars icon" width="36"> [Navy Wars](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d320795f-1e11-4c74-b13b-72f5c29c05fd)
+# [Navy Wars](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d320795f-1e11-4c74-b13b-72f5c29c05fd)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Navy Wars skill, try saying...

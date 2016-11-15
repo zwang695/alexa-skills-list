@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Golf Shot Live icon" width="36"> [Golf Shot Live](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.378f90ad-65d6-4794-b7fa-ddbd5c2bf1e7)
+# [Golf Shot Live](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.378f90ad-65d6-4794-b7fa-ddbd5c2bf1e7)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Golf Shot Live skill, try saying...

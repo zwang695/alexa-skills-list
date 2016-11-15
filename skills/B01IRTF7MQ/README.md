@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Sounders Trivia icon" width="36"> [Unofficial Sounders Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.ce29f706-0716-4265-9312-38f6676aace9)
+# [Unofficial Sounders Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.ce29f706-0716-4265-9312-38f6676aace9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Sounders Trivia skill, try saying...

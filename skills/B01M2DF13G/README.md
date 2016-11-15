@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Philly Rail icon" width="36"> [Philly Rail](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b559919e-ae80-401b-a09a-ec5493e48c5f)
+# [Philly Rail](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b559919e-ae80-401b-a09a-ec5493e48c5f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Philly Rail skill, try saying...

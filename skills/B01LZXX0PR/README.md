@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Catedral Alta Patagonia icon" width="36"> [Snow Report for Catedral Alta Patagonia](http://alexa.amazon.com/#skills/amzn1.ask.skill.bcc5e7fe-697a-44ea-85ad-a9f7d6c3865f)
+# [Snow Report for Catedral Alta Patagonia](http://alexa.amazon.com/#skills/amzn1.ask.skill.bcc5e7fe-697a-44ea-85ad-a9f7d6c3865f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Catedral Alta Patagonia skill, try saying...

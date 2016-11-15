@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bitcoin Exchange icon" width="36"> [Bitcoin Exchange](http://alexa.amazon.com/#skills/amzn1.ask.skill.77694303-8291-4830-8788-518a93aa9ad1)
+# [Bitcoin Exchange](http://alexa.amazon.com/#skills/amzn1.ask.skill.77694303-8291-4830-8788-518a93aa9ad1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bitcoin Exchange skill, try saying...

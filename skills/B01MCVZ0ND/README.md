@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Rule the Vote icon" width="36"> [Rule the Vote](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee501ada-a147-4d26-8506-0f3579330833)
+# [Rule the Vote](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee501ada-a147-4d26-8506-0f3579330833)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Rule the Vote skill, try saying...

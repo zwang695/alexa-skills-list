@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Civil War Buff icon" width="36"> [Civil War Buff](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2b806af6-a74e-4740-9485-0791952e78ec)
+# [Civil War Buff](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2b806af6-a74e-4740-9485-0791952e78ec)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Civil War Buff skill, try saying...

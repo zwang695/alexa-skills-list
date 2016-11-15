@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Bible Verse icon" width="36"> [Daily Bible Verse](http://alexa.amazon.com/#skills/amzn1.ask.skill.e832d921-5b89-4531-9662-16496416ed2b)
+# [Daily Bible Verse](http://alexa.amazon.com/#skills/amzn1.ask.skill.e832d921-5b89-4531-9662-16496416ed2b)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Daily Bible Verse skill, try saying...

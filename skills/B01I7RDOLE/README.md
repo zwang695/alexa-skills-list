@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Naked Lunch icon" width="36"> [Naked Lunch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8e42ceb7-a74d-4eb6-a992-d2e66f6234ee)
+# [Naked Lunch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8e42ceb7-a74d-4eb6-a992-d2e66f6234ee)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Naked Lunch skill, try saying...

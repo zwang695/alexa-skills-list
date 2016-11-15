@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Meal Recommendations icon" width="36"> [Meal Recommendations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ccc656e2-dc35-4ff8-8b29-f8518a10025c)
+# [Meal Recommendations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ccc656e2-dc35-4ff8-8b29-f8518a10025c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Meal Recommendations skill, try saying...

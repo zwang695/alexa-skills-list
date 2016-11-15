@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="acronym trivia icon" width="36"> [acronym trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.022f576f-8db1-43d5-a90d-f3f1abd4d2f0)
+# [acronym trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.022f576f-8db1-43d5-a90d-f3f1abd4d2f0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the acronym trivia skill, try saying...

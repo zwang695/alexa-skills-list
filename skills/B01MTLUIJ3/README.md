@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Astro Tracker icon" width="36"> [Astro Tracker](http://alexa.amazon.com/#skills/amzn1.ask.skill.64b02437-a376-4756-bef9-ab9a3e4bd937)
+# [Astro Tracker](http://alexa.amazon.com/#skills/amzn1.ask.skill.64b02437-a376-4756-bef9-ab9a3e4bd937)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Astro Tracker skill, try saying...

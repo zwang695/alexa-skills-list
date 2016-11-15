@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="united states capitals tutor icon" width="36"> [united states capitals tutor](http://alexa.amazon.com/#skills/amzn1.ask.skill.25a7fc53-3356-4c9f-96a5-b94d7dea0234)
+# [united states capitals tutor](http://alexa.amazon.com/#skills/amzn1.ask.skill.25a7fc53-3356-4c9f-96a5-b94d7dea0234)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the united states capitals tutor skill, try saying...

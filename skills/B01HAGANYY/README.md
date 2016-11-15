@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Color Recipe icon" width="36"> [Color Recipe](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.55aec337-77ce-4c73-8599-5efa7b02da45)
+# [Color Recipe](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.55aec337-77ce-4c73-8599-5efa7b02da45)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Color Recipe skill, try saying...

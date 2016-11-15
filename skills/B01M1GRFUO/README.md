@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Japan Facts icon" width="36"> [Japan Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6bf9c3a2-a3bc-4151-94a3-b8535108b979)
+# [Japan Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6bf9c3a2-a3bc-4151-94a3-b8535108b979)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Japan Facts skill, try saying...

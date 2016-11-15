@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fun Fact Factory icon" width="36"> [Fun Fact Factory](http://alexa.amazon.com/#skills/amzn1.ask.skill.3fe696cb-f8b7-4129-aee6-d5402abda0f0)
+# [Fun Fact Factory](http://alexa.amazon.com/#skills/amzn1.ask.skill.3fe696cb-f8b7-4129-aee6-d5402abda0f0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fun Fact Factory skill, try saying...

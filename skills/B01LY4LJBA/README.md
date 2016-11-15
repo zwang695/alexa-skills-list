@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fast Food Trivia icon" width="36"> [Fast Food Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.8ded8e97-3e46-44ee-86e2-1ab973ed23b8)
+# [Fast Food Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.8ded8e97-3e46-44ee-86e2-1ab973ed23b8)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Fast Food Trivia skill, try saying...

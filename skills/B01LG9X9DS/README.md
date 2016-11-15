@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unicorn Trivia icon" width="36"> [Unicorn Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.62dc1e0c-d7a3-41f3-804a-43c707d1d1eb)
+# [Unicorn Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.62dc1e0c-d7a3-41f3-804a-43c707d1d1eb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unicorn Trivia skill, try saying...

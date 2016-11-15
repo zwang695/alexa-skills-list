@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My First Omaha Trivia Game icon" width="36"> [My First Omaha Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d712bf1e-fe69-4cf8-8c2b-c5ef70da54a5)
+# [My First Omaha Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d712bf1e-fe69-4cf8-8c2b-c5ef70da54a5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My First Omaha Trivia Game skill, try saying...

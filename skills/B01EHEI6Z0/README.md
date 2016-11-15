@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="American Basketball Trivia icon" width="36"> [American Basketball Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3bf939e2-bf91-41a2-a335-2153b8c3bd10)
+# [American Basketball Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3bf939e2-bf91-41a2-a335-2153b8c3bd10)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the American Basketball Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Beer Trivia icon" width="36"> [Beer Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9f3f9dfb-dc7d-46ab-926d-023990a0e8bf)
+# [Beer Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9f3f9dfb-dc7d-46ab-926d-023990a0e8bf)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Beer Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Persian History Quiz icon" width="36"> [Persian History Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d2633bdc-4a85-4ec8-bfcc-ca8aea5340e9)
+# [Persian History Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d2633bdc-4a85-4ec8-bfcc-ca8aea5340e9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Persian History Quiz skill, try saying...

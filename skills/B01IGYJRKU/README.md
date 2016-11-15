@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Biology: Cell Organelles icon" width="36"> [Biology: Cell Organelles](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f8d5c6c3-0f75-485b-9102-ac5fdf7b2c6f)
+# [Biology: Cell Organelles](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f8d5c6c3-0f75-485b-9102-ac5fdf7b2c6f)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Biology: Cell Organelles skill, try saying...

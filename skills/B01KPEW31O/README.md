@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Choose My Food icon" width="36"> [Choose My Food](http://alexa.amazon.com/#skills/amzn1.ask.skill.a947d07b-a6ff-49d5-bc23-f74f2f772a71)
+# [Choose My Food](http://alexa.amazon.com/#skills/amzn1.ask.skill.a947d07b-a6ff-49d5-bc23-f74f2f772a71)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Choose My Food skill, try saying...

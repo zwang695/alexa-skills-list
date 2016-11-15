@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="money Bible verses icon" width="36"> [money Bible verses](http://alexa.amazon.com/#skills/amzn1.ask.skill.66340e18-edda-4499-982b-e58d2698c5e0)
+# [money Bible verses](http://alexa.amazon.com/#skills/amzn1.ask.skill.66340e18-edda-4499-982b-e58d2698c5e0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the money Bible verses skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Light Bulb Jokes icon" width="36"> [Light Bulb Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.e7513671-b212-4e0c-97a3-032fcc269003)
+# [Light Bulb Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.e7513671-b212-4e0c-97a3-032fcc269003)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Light Bulb Jokes skill, try saying...

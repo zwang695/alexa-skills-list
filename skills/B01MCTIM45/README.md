@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Zeba Fun Facts icon" width="36"> [Zeba Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7b50241e-f441-4aaf-86b0-d40ac8fce49a)
+# [Zeba Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7b50241e-f441-4aaf-86b0-d40ac8fce49a)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Zeba Fun Facts skill, try saying...

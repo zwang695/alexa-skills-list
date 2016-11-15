@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Roundtop Mountain icon" width="36"> [Snow Report for Roundtop Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f707569-bde5-4cfc-9aac-2e3899a9de76)
+# [Snow Report for Roundtop Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f707569-bde5-4cfc-9aac-2e3899a9de76)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Roundtop Mountain skill, try saying...

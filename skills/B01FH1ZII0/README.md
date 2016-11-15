@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Prezpoll icon" width="36"> [Prezpoll](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f8296419-b8ac-4f52-8197-945663f39f35)
+# [Prezpoll](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f8296419-b8ac-4f52-8197-945663f39f35)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Prezpoll skill, try saying...

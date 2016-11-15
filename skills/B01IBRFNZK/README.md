@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Shortcut Flashcards for Github.com icon" width="36"> [Shortcut Flashcards for Github.com](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2794a93a-0284-4e88-96ab-e108005dcea8)
+# [Shortcut Flashcards for Github.com](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2794a93a-0284-4e88-96ab-e108005dcea8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Shortcut Flashcards for Github.com skill, try saying...

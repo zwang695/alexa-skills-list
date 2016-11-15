@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="PokerHelper icon" width="36"> [PokerHelper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.79314a3b-dae1-49db-8189-d793e772f30b)
+# [PokerHelper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.79314a3b-dae1-49db-8189-d793e772f30b)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the PokerHelper skill, try saying...

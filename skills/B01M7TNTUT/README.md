@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Queen Facts icon" width="36"> [Queen Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.276f8a69-b9ce-48b0-8578-414438818d56)
+# [Queen Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.276f8a69-b9ce-48b0-8578-414438818d56)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Queen Facts skill, try saying...

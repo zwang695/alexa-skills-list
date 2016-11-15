@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts About Laura icon" width="36"> [Facts About Laura](http://alexa.amazon.com/#skills/amzn1.ask.skill.bbd3cc9d-206d-44d9-9b81-15c7e55d46dc)
+# [Facts About Laura](http://alexa.amazon.com/#skills/amzn1.ask.skill.bbd3cc9d-206d-44d9-9b81-15c7e55d46dc)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Facts About Laura skill, try saying...

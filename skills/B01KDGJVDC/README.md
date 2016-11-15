@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What's Cooking icon" width="36"> [What's Cooking](http://alexa.amazon.com/#skills/amzn1.ask.skill.ab80d415-b91c-4307-8853-eebe987a77e6)
+# [What's Cooking](http://alexa.amazon.com/#skills/amzn1.ask.skill.ab80d415-b91c-4307-8853-eebe987a77e6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the What's Cooking skill, try saying...

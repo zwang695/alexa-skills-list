@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Indian Recipes icon" width="36"> [Indian Recipes](http://alexa.amazon.com/#skills/amzn1.ask.skill.96971d83-6c00-43db-a4dc-7018d41f4f3a)
+# [Indian Recipes](http://alexa.amazon.com/#skills/amzn1.ask.skill.96971d83-6c00-43db-a4dc-7018d41f4f3a)
 ![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Indian Recipes skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Spelling Quest icon" width="36"> [Spelling Quest](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f3d6dd0-872e-4646-8ac5-d37f56f13621)
+# [Spelling Quest](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f3d6dd0-872e-4646-8ac5-d37f56f13621)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Spelling Quest skill, try saying...

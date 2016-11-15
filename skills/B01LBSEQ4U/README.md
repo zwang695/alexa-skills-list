@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chicago Food Truck Finder icon" width="36"> [Chicago Food Truck Finder](http://alexa.amazon.com/#skills/amzn1.ask.skill.462a1db5-97b8-4b1f-8a40-ce75bfde4a74)
+# [Chicago Food Truck Finder](http://alexa.amazon.com/#skills/amzn1.ask.skill.462a1db5-97b8-4b1f-8a40-ce75bfde4a74)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chicago Food Truck Finder skill, try saying...

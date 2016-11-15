@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chicago Bike Share Status icon" width="36"> [Chicago Bike Share Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.6548d115-58b5-4359-bfc0-ba91de7e6ad7)
+# [Chicago Bike Share Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.6548d115-58b5-4359-bfc0-ba91de7e6ad7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chicago Bike Share Status skill, try saying...

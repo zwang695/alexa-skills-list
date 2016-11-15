@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Monarch Mountain icon" width="36"> [Snow Report for Monarch Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd1331ff-c4b4-45bf-a471-2a58660e7cab)
+# [Snow Report for Monarch Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd1331ff-c4b4-45bf-a471-2a58660e7cab)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Monarch Mountain skill, try saying...

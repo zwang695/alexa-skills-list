@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Futurama Facts icon" width="36"> [Unofficial Futurama Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad294ed8-80d0-4d28-820e-764df0a8246a)
+# [Unofficial Futurama Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad294ed8-80d0-4d28-820e-764df0a8246a)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Unofficial Futurama Facts skill, try saying...

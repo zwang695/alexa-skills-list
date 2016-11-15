@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Capital Quiz icon" width="36"> [Capital Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.e2151429-dc0e-4b67-a812-6cbf4b3e9d4b)
+# [Capital Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.e2151429-dc0e-4b67-a812-6cbf4b3e9d4b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Capital Quiz skill, try saying...

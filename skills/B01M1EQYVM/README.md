@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bowling Trivia icon" width="36"> [Bowling Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.1fb7e624-b3fa-49e3-8ae0-c02d7c7efb1a)
+# [Bowling Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.1fb7e624-b3fa-49e3-8ae0-c02d7c7efb1a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bowling Trivia skill, try saying...

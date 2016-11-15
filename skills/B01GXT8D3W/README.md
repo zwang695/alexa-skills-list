@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bacon Dude icon" width="36"> [Bacon Dude](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eabe74bd-9add-407a-8689-57151c731bae)
+# [Bacon Dude](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eabe74bd-9add-407a-8689-57151c731bae)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bacon Dude skill, try saying...

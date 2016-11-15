@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Eventseeker icon" width="36"> [Eventseeker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b4f92e2d-0bb7-4eec-acaf-ce71268c4b02)
+# [Eventseeker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b4f92e2d-0bb7-4eec-acaf-ce71268c4b02)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Eventseeker skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Which Narcos Character Are You? Quiz icon" width="36"> [Unofficial Which Narcos Character Are You? Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.60b8c2d2-af93-4a61-877a-125a5c4ea3cd)
+# [Unofficial Which Narcos Character Are You? Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.60b8c2d2-af93-4a61-877a-125a5c4ea3cd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Which Narcos Character Are You? Quiz skill, try saying...

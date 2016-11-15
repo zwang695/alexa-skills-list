@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Speak Gelato icon" width="36"> [Speak Gelato](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.97499a04-51b6-44ef-bcb3-7fdf87e52ace)
+# [Speak Gelato](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.97499a04-51b6-44ef-bcb3-7fdf87e52ace)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Speak Gelato skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BetterRates icon" width="36"> [BetterRates](http://alexa.amazon.com/#skills/amzn1.ask.skill.b0e7fb3f-a996-4600-b623-453c823e6003)
+# [BetterRates](http://alexa.amazon.com/#skills/amzn1.ask.skill.b0e7fb3f-a996-4600-b623-453c823e6003)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BetterRates skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HumanHeart icon" width="36"> [HumanHeart](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dfb77f08-3603-4708-a076-7eb44f346f35)
+# [HumanHeart](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dfb77f08-3603-4708-a076-7eb44f346f35)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the HumanHeart skill, try saying...

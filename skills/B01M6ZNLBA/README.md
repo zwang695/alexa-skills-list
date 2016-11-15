@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Samsung Smart Home icon" width="36"> [Samsung Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.c55109cf-21b7-447d-9802-9b730763683e)
+# [Samsung Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.c55109cf-21b7-447d-9802-9b730763683e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Samsung Smart Home skill, try saying...

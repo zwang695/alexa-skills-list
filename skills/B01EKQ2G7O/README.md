@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="City Trivia icon" width="36"> [City Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4e38843b-3996-47ab-9244-2a669e192d7d)
+# [City Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4e38843b-3996-47ab-9244-2a669e192d7d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the City Trivia skill, try saying...

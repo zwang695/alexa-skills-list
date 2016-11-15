@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Golden State Warriors Fun Facts icon" width="36"> [Unofficial Golden State Warriors Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.29b3ae0a-9767-4b32-b2d8-fd0f2bf98577)
+# [Unofficial Golden State Warriors Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.29b3ae0a-9767-4b32-b2d8-fd0f2bf98577)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Golden State Warriors Fun Facts skill, try saying...

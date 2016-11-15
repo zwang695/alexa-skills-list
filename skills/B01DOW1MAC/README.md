@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Langone Retreat icon" width="36"> [Langone Retreat](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f3169acc-8bfa-4ddb-bb4c-4d127a5d74e9)
+# [Langone Retreat](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f3169acc-8bfa-4ddb-bb4c-4d127a5d74e9)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Langone Retreat skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Javascript Trivia icon" width="36"> [Javascript Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.a6ac6128-6b6b-4d57-b613-ffb856fa66f9)
+# [Javascript Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.a6ac6128-6b6b-4d57-b613-ffb856fa66f9)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Javascript Trivia skill, try saying...

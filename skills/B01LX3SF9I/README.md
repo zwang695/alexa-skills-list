@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Go Emily icon" width="36"> [Go Emily](http://alexa.amazon.com/#skills/amzn1.ask.skill.a9ec82e9-10f7-49ee-944f-7ce1a08e8e1e)
+# [Go Emily](http://alexa.amazon.com/#skills/amzn1.ask.skill.a9ec82e9-10f7-49ee-944f-7ce1a08e8e1e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Go Emily skill, try saying...

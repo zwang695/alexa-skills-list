@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Visybl icon" width="36"> [Visybl](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d3bb8ff-7157-432a-a2e7-652cc9fb5f81)
+# [Visybl](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d3bb8ff-7157-432a-a2e7-652cc9fb5f81)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Visybl skill, try saying...

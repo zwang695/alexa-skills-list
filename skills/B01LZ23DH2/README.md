@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Sunlight Mountain icon" width="36"> [Snow Report for Sunlight Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.accda7a6-0bec-4565-b05a-133683ceace9)
+# [Snow Report for Sunlight Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.accda7a6-0bec-4565-b05a-133683ceace9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Sunlight Mountain skill, try saying...

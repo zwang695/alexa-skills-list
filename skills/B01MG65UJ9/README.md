@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial League of Legends Trivia Game icon" width="36"> [Unofficial League of Legends Trivia Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.afaec740-9a66-431a-a010-64e9fa9b1be7)
+# [Unofficial League of Legends Trivia Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.afaec740-9a66-431a-a010-64e9fa9b1be7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial League of Legends Trivia Game skill, try saying...

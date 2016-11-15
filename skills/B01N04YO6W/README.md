@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Edelweiss Valley icon" width="36"> [Snow Report for Edelweiss Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.a80ab2c5-3bcf-4f96-b61c-b80c9ecbb2bd)
+# [Snow Report for Edelweiss Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.a80ab2c5-3bcf-4f96-b61c-b80c9ecbb2bd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Edelweiss Valley skill, try saying...

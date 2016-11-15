@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Swim Event Chooser icon" width="36"> [Swim Event Chooser](http://alexa.amazon.com/#skills/amzn1.ask.skill.f56aa5b9-69e0-4277-b4ef-2968c5b3c015)
+# [Swim Event Chooser](http://alexa.amazon.com/#skills/amzn1.ask.skill.f56aa5b9-69e0-4277-b4ef-2968c5b3c015)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Swim Event Chooser skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bible verse icon" width="36"> [Bible verse](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8f91d91a-31fe-474b-9a9f-9817aaae1634)
+# [Bible verse](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8f91d91a-31fe-474b-9a9f-9817aaae1634)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Bible verse skill, try saying...

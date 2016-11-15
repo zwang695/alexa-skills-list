@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Rock Profile](http://alexa.amazon.com/#skills/amzn1.ask.skill.ed18a3f7-57ce-4610-85c4-b182eb268693)
+# [Rock Profile](http://alexa.amazon.com/#skills/amzn1.ask.skill.ed18a3f7-57ce-4610-85c4-b182eb268693)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="England Trivia icon" width="36"> [England Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.bc0579ef-0edb-4fb1-974f-1062d6902028)
+# [England Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.bc0579ef-0edb-4fb1-974f-1062d6902028)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the England Trivia skill, try saying...

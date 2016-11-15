@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Hickory Hills icon" width="36"> [Snow Report for Hickory Hills](http://alexa.amazon.com/#skills/amzn1.ask.skill.71aa75fd-35ca-487f-acb4-fd1a8f91c0b1)
+# [Snow Report for Hickory Hills](http://alexa.amazon.com/#skills/amzn1.ask.skill.71aa75fd-35ca-487f-acb4-fd1a8f91c0b1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Hickory Hills skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Kancolle Helper icon" width="36"> [Unofficial Kancolle Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.d113ffdb-75a1-4b3d-9d60-8b1fe27e40f1)
+# [Unofficial Kancolle Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.d113ffdb-75a1-4b3d-9d60-8b1fe27e40f1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Kancolle Helper skill, try saying...

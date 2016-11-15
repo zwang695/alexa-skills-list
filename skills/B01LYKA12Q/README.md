@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dice Roller icon" width="36"> [Dice Roller](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf49c20b-96c9-4229-9ac1-723362eb6693)
+# [Dice Roller](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf49c20b-96c9-4229-9ac1-723362eb6693)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dice Roller skill, try saying...

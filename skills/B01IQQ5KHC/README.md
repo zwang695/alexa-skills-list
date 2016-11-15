@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Rap Trivia icon" width="36"> [Rap Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.099ee318-45ec-478d-9270-8ef2e530f413)
+# [Rap Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.099ee318-45ec-478d-9270-8ef2e530f413)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Rap Trivia skill, try saying...

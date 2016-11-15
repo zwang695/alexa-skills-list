@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Maple Ski Ridge icon" width="36"> [Snow Report for Maple Ski Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.85de66d2-7a6b-4cc8-b826-28524602ec8d)
+# [Snow Report for Maple Ski Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.85de66d2-7a6b-4cc8-b826-28524602ec8d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Maple Ski Ridge skill, try saying...

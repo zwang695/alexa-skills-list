@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Speedlighter icon" width="36"> [Speedlighter](http://alexa.amazon.com/#skills/amzn1.ask.skill.03f76c69-9c9d-4364-ad9d-8a4dbcddc65d)
+# [Speedlighter](http://alexa.amazon.com/#skills/amzn1.ask.skill.03f76c69-9c9d-4364-ad9d-8a4dbcddc65d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Speedlighter skill, try saying...

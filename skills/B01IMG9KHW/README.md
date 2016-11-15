@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Soccer Facts icon" width="36"> [Soccer Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bf9b05ff-2e0b-402c-9311-84b81a3e66ae)
+# [Soccer Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bf9b05ff-2e0b-402c-9311-84b81a3e66ae)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Soccer Facts skill, try saying...

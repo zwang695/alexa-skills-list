@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Internet Genie icon" width="36"> [The Internet Genie](http://alexa.amazon.com/#skills/amzn1.ask.skill.a1127ddb-e1b5-4038-bcf6-18435d8e6eb9)
+# [The Internet Genie](http://alexa.amazon.com/#skills/amzn1.ask.skill.a1127ddb-e1b5-4038-bcf6-18435d8e6eb9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Internet Genie skill, try saying...

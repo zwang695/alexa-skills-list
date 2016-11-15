@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="state abbreviations multiple choice icon" width="36"> [state abbreviations multiple choice](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ffdde33-e23a-4c9c-907b-2196b7c6b63a)
+# [state abbreviations multiple choice](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ffdde33-e23a-4c9c-907b-2196b7c6b63a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the state abbreviations multiple choice skill, try saying...

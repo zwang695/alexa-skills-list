@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hollywood Dogs icon" width="36"> [Hollywood Dogs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9809d212-3c14-4de3-9e9b-e6def9de32eb)
+# [Hollywood Dogs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9809d212-3c14-4de3-9e9b-e6def9de32eb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hollywood Dogs skill, try saying...

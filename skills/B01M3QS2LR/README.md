@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pick A Brain icon" width="36"> [Pick A Brain](http://alexa.amazon.com/#skills/amzn1.ask.skill.d30b4a30-07fb-431d-9b01-fdc3f8fe9ef4)
+# [Pick A Brain](http://alexa.amazon.com/#skills/amzn1.ask.skill.d30b4a30-07fb-431d-9b01-fdc3f8fe9ef4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pick A Brain skill, try saying...

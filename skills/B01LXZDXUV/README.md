@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Zork (unofficial fan version) icon" width="36"> [Zork (unofficial fan version)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c69944bd-c7f0-4f88-9eca-9abf14cbd5db)
+# [Zork (unofficial fan version)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c69944bd-c7f0-4f88-9eca-9abf14cbd5db)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Zork (unofficial fan version) skill, try saying...

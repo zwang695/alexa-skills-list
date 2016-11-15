@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Valley Girl icon" width="36"> [Valley Girl](http://alexa.amazon.com/#skills/amzn1.ask.skill.465ea80e-fce4-4ae1-beff-b3429df7fe30)
+# [Valley Girl](http://alexa.amazon.com/#skills/amzn1.ask.skill.465ea80e-fce4-4ae1-beff-b3429df7fe30)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Valley Girl skill, try saying...

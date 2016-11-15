@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Kitty icon" width="36"> [My Kitty](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8db22964-b0e9-485d-8023-2184a66326ca)
+# [My Kitty](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8db22964-b0e9-485d-8023-2184a66326ca)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My Kitty skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trekkie Facts icon" width="36"> [Trekkie Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b78010c2-b714-493b-be53-2ab730811d3d)
+# [Trekkie Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b78010c2-b714-493b-be53-2ab730811d3d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trekkie Facts skill, try saying...

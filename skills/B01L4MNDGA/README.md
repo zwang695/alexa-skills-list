@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Driving Facts icon" width="36"> [Driving Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8e475f8e-3adf-421d-a7c2-157a40cb2406)
+# [Driving Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8e475f8e-3adf-421d-a7c2-157a40cb2406)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Driving Facts skill, try saying...

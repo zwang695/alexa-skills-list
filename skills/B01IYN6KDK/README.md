@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="automotive icon" width="36"> [automotive](http://alexa.amazon.com/#skills/amzn1.ask.skill.14ae7a48-fc41-469e-9dd4-0b86d1309d0e)
+# [automotive](http://alexa.amazon.com/#skills/amzn1.ask.skill.14ae7a48-fc41-469e-9dd4-0b86d1309d0e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the automotive skill, try saying...

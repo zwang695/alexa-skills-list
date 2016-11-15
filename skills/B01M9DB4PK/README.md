@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Bousquet Ski Area icon" width="36"> [Snow Report for Bousquet Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.d9c99ee2-0ed0-4808-8d43-38c9eab9392c)
+# [Snow Report for Bousquet Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.d9c99ee2-0ed0-4808-8d43-38c9eab9392c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Bousquet Ski Area skill, try saying...

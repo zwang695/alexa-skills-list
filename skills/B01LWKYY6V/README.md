@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="San Francisco fact icon" width="36"> [San Francisco fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.1b825413-139f-474d-bd42-7cf2d0d809af)
+# [San Francisco fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.1b825413-139f-474d-bd42-7cf2d0d809af)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the San Francisco fact skill, try saying...

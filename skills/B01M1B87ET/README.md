@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="History Wizard icon" width="36"> [History Wizard](http://alexa.amazon.com/#skills/amzn1.ask.skill.344ded4c-ab69-449c-826c-607ecd78bfa5)
+# [History Wizard](http://alexa.amazon.com/#skills/amzn1.ask.skill.344ded4c-ab69-449c-826c-607ecd78bfa5)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the History Wizard skill, try saying...

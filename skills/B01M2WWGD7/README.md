@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ladybird facts icon" width="36"> [Ladybird facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.05aec6df-730a-48ba-a79d-3a8200e24179)
+# [Ladybird facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.05aec6df-730a-48ba-a79d-3a8200e24179)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Ladybird facts skill, try saying...

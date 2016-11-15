@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Arithlistic icon" width="36"> [Arithlistic](http://alexa.amazon.com/#skills/amzn1.ask.skill.441aabd7-9289-4efb-a45c-8a0e47a4d063)
+# [Arithlistic](http://alexa.amazon.com/#skills/amzn1.ask.skill.441aabd7-9289-4efb-a45c-8a0e47a4d063)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Arithlistic skill, try saying...

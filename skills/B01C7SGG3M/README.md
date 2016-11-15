@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="NBC News icon" width="36"> [NBC News](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6a149394-db4b-4511-b52b-dc45abf0c19d)
+# [NBC News](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6a149394-db4b-4511-b52b-dc45abf0c19d)
 ![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 11
 
 To use the NBC News skill, try saying...

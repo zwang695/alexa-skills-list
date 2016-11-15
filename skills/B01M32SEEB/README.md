@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Viking Facts icon" width="36"> [Viking Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.61d916c1-0118-47d1-9f32-6dd43413c3ab)
+# [Viking Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.61d916c1-0118-47d1-9f32-6dd43413c3ab)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Viking Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Crow Facts icon" width="36"> [Crow Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.23ee0d69-0592-48c5-892b-1c2df336510c)
+# [Crow Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.23ee0d69-0592-48c5-892b-1c2df336510c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Crow Facts skill, try saying...

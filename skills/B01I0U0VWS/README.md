@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HouseBot icon" width="36"> [HouseBot](http://alexa.amazon.com/#skills/amzn1.ask.skill.8d0a74d3-efe7-4f7b-9155-00dd029b4fa2)
+# [HouseBot](http://alexa.amazon.com/#skills/amzn1.ask.skill.8d0a74d3-efe7-4f7b-9155-00dd029b4fa2)
 ![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 This skill allows HouseBot home automation system users to control and monitor status of their devices, tasks, and modes using the Amazon Echo.  

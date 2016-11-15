@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Virginia facts icon" width="36"> [Virginia facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.de09142f-ce82-43f5-a012-21ea1460bbf8)
+# [Virginia facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.de09142f-ce82-43f5-a012-21ea1460bbf8)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Virginia facts skill, try saying...

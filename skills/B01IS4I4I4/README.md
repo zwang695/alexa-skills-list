@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Michael Scott Game icon" width="36"> [Michael Scott Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.a74be314-1eb0-4520-aedf-b306b387aa5b)
+# [Michael Scott Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.a74be314-1eb0-4520-aedf-b306b387aa5b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Michael Scott Game skill, try saying...

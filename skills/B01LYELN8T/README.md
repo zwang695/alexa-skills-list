@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Donner Ski Ranch icon" width="36"> [Snow Report for Donner Ski Ranch](http://alexa.amazon.com/#skills/amzn1.ask.skill.77cffea9-497f-4a02-8ba5-ebb04d5360af)
+# [Snow Report for Donner Ski Ranch](http://alexa.amazon.com/#skills/amzn1.ask.skill.77cffea9-497f-4a02-8ba5-ebb04d5360af)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Donner Ski Ranch skill, try saying...

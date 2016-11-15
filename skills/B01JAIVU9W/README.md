@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bird Facts icon" width="36"> [Bird Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c44bd121-35a7-4ce3-bc08-959f014c483c)
+# [Bird Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c44bd121-35a7-4ce3-bc08-959f014c483c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bird Facts skill, try saying...

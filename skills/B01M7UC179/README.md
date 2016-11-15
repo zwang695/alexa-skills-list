@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Trump Insult Generator icon" width="36"> [Unofficial Trump Insult Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.a27ab6b1-33a5-4aa7-98a5-73979717b0ed)
+# [Unofficial Trump Insult Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.a27ab6b1-33a5-4aa7-98a5-73979717b0ed)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Unofficial Trump Insult Generator skill, try saying...

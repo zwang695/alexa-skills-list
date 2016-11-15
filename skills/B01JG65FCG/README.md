@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fish Tank icon" width="36"> [Fish Tank](http://alexa.amazon.com/#skills/amzn1.ask.skill.42b21cce-21d4-49ba-b22b-5340f46ffab6)
+# [Fish Tank](http://alexa.amazon.com/#skills/amzn1.ask.skill.42b21cce-21d4-49ba-b22b-5340f46ffab6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fish Tank skill, try saying...

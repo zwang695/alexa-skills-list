@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="FishFactsMan icon" width="36"> [FishFactsMan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ffe3b988-5a2f-464b-8e69-6930d2b61657)
+# [FishFactsMan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ffe3b988-5a2f-464b-8e69-6930d2b61657)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the FishFactsMan skill, try saying...

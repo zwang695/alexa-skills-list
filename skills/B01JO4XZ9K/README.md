@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="New England Facts icon" width="36"> [New England Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bdf0cd9b-f70e-4f58-b856-141bdae53cb1)
+# [New England Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bdf0cd9b-f70e-4f58-b856-141bdae53cb1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the New England Facts skill, try saying...

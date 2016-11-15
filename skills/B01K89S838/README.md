@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HumanFacts icon" width="36"> [HumanFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.99289538-5d8f-41af-8daa-d67e9f88cf77)
+# [HumanFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.99289538-5d8f-41af-8daa-d67e9f88cf77)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the HumanFacts skill, try saying...

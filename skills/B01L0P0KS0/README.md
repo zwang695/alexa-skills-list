@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ten Famous Painters icon" width="36"> [Ten Famous Painters](http://alexa.amazon.com/#skills/amzn1.ask.skill.21edb03f-ba57-41a2-bf6e-7652ffef6085)
+# [Ten Famous Painters](http://alexa.amazon.com/#skills/amzn1.ask.skill.21edb03f-ba57-41a2-bf6e-7652ffef6085)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ten Famous Painters skill, try saying...

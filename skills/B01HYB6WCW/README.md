@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="American Presidents Game icon" width="36"> [American Presidents Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.840b3a9a-f5b2-4c66-8ae4-ca7fdeda41b9)
+# [American Presidents Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.840b3a9a-f5b2-4c66-8ae4-ca7fdeda41b9)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the American Presidents Game skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Alpine Valley Resort (WI) icon" width="36"> [Snow Report for Alpine Valley Resort (WI)](http://alexa.amazon.com/#skills/amzn1.ask.skill.c14a51b8-f68c-41da-af82-6b6441d47ae2)
+# [Snow Report for Alpine Valley Resort (WI)](http://alexa.amazon.com/#skills/amzn1.ask.skill.c14a51b8-f68c-41da-af82-6b6441d47ae2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Alpine Valley Resort (WI) skill, try saying...

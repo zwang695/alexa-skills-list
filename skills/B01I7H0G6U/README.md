@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="dotNetTrivia icon" width="36"> [dotNetTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6e4a0d4c-5ee1-471a-8181-083e49e0f260)
+# [dotNetTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6e4a0d4c-5ee1-471a-8181-083e49e0f260)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the dotNetTrivia skill, try saying...

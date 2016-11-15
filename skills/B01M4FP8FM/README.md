@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Boy Friend icon" width="36"> [Boy Friend](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e325a96-1c7f-4e68-ad07-5ee8c79ec799)
+# [Boy Friend](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e325a96-1c7f-4e68-ad07-5ee8c79ec799)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Boy Friend skill, try saying...

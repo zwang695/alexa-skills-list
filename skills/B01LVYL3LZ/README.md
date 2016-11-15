@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dan's Finance Game icon" width="36"> [Dan's Finance Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.7d7d9965-a977-4c68-b7a3-584d968e68b3)
+# [Dan's Finance Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.7d7d9965-a977-4c68-b7a3-584d968e68b3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dan's Finance Game skill, try saying...

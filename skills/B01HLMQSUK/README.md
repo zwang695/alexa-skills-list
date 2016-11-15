@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Multiplication Flash Cards icon" width="36"> [Multiplication Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.30122c88-ec6f-41b2-9a55-8a4d193300b5)
+# [Multiplication Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.30122c88-ec6f-41b2-9a55-8a4d193300b5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Multiplication Flash Cards skill, try saying...

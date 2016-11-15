@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Breckenridge Resort icon" width="36"> [Snow Report for Breckenridge Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5d77975-07b6-4a74-8b62-0c12ce837d5b)
+# [Snow Report for Breckenridge Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5d77975-07b6-4a74-8b62-0c12ce837d5b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Breckenridge Resort skill, try saying...

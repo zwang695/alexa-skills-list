@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Flyers Fan icon" width="36"> [Flyers Fan](http://alexa.amazon.com/#skills/amzn1.ask.skill.c5bcc69c-99cc-4f55-b3d8-0360069ca8a3)
+# [Flyers Fan](http://alexa.amazon.com/#skills/amzn1.ask.skill.c5bcc69c-99cc-4f55-b3d8-0360069ca8a3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Flyers Fan skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pennsylvania Facts icon" width="36"> [Pennsylvania Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ebd0d856-3775-41ea-a3de-3b5df0fb2fa3)
+# [Pennsylvania Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ebd0d856-3775-41ea-a3de-3b5df0fb2fa3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pennsylvania Facts skill, try saying...

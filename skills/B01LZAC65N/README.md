@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Hurricane Ridge icon" width="36"> [Snow Report for Hurricane Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.0a7eb295-5045-4cde-aa91-086588979643)
+# [Snow Report for Hurricane Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.0a7eb295-5045-4cde-aa91-086588979643)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Hurricane Ridge skill, try saying...

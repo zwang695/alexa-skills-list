@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="wolfFact icon" width="36"> [wolfFact](http://alexa.amazon.com/#skills/amzn1.ask.skill.667f5f3e-0281-4845-925a-cda7c65482d6)
+# [wolfFact](http://alexa.amazon.com/#skills/amzn1.ask.skill.667f5f3e-0281-4845-925a-cda7c65482d6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the wolfFact skill, try saying...

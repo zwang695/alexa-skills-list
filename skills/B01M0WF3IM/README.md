@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="rocket launch manfiest icon" width="36"> [rocket launch manfiest](http://alexa.amazon.com/#skills/amzn1.ask.skill.e387cc51-e511-4e1a-8281-bc9b0eaadd30)
+# [rocket launch manfiest](http://alexa.amazon.com/#skills/amzn1.ask.skill.e387cc51-e511-4e1a-8281-bc9b0eaadd30)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the rocket launch manfiest skill, try saying...

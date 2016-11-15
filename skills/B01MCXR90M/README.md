@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mount Sunapee icon" width="36"> [Snow Report for Mount Sunapee](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd817099-cdab-4823-a0cf-76014aa95c82)
+# [Snow Report for Mount Sunapee](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd817099-cdab-4823-a0cf-76014aa95c82)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mount Sunapee skill, try saying...

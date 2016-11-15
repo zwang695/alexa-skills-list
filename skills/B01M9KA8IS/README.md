@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mont Belu icon" width="36"> [Snow Report for Mont Belu](http://alexa.amazon.com/#skills/amzn1.ask.skill.f04a583f-89e6-4ed0-9b89-c1e99ac95f7d)
+# [Snow Report for Mont Belu](http://alexa.amazon.com/#skills/amzn1.ask.skill.f04a583f-89e6-4ed0-9b89-c1e99ac95f7d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mont Belu skill, try saying...

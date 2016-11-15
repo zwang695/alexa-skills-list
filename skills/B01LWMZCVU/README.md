@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Host Tips icon" width="36"> [Host Tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.5cbf507d-06db-40d0-a329-8a0c4e7cc83a)
+# [Host Tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.5cbf507d-06db-40d0-a329-8a0c4e7cc83a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Host Tips skill, try saying...

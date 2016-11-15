@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Eclipse Phase Mesh Link icon" width="36"> [Eclipse Phase Mesh Link](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.209352a4-5fea-45c1-b548-fe3a0b31a5d9)
+# [Eclipse Phase Mesh Link](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.209352a4-5fea-45c1-b548-fe3a0b31a5d9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Eclipse Phase Mesh Link skill, try saying...

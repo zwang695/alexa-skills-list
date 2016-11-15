@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Brundage Mountain icon" width="36"> [Snow Report for Brundage Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.62ecb32e-f542-443d-bb3b-72837903e677)
+# [Snow Report for Brundage Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.62ecb32e-f542-443d-bb3b-72837903e677)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Brundage Mountain skill, try saying...

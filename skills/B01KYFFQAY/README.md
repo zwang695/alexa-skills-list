@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Book of Wisdom icon" width="36"> [Book of Wisdom](http://alexa.amazon.com/#skills/amzn1.ask.skill.b4cfa703-9db0-45c9-9b2d-2b715f873104)
+# [Book of Wisdom](http://alexa.amazon.com/#skills/amzn1.ask.skill.b4cfa703-9db0-45c9-9b2d-2b715f873104)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Book of Wisdom skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sorg Opera House Trivia icon" width="36"> [Sorg Opera House Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2ba2c93-3cd9-4530-823b-7483eed45f0b)
+# [Sorg Opera House Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2ba2c93-3cd9-4530-823b-7483eed45f0b)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Sorg Opera House Trivia skill, try saying...

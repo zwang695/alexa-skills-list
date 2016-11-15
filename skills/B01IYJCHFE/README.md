@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Planets Trivia icon" width="36"> [Planets Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.a6d09525-524a-4634-95a3-8dd96509a82c)
+# [Planets Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.a6d09525-524a-4634-95a3-8dd96509a82c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Planets Trivia skill, try saying...

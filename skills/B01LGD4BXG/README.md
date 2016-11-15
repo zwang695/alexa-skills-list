@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Calendar Week icon" width="36"> [Calendar Week](http://alexa.amazon.com/#skills/amzn1.ask.skill.36598fcb-4973-4aee-aa43-e7ca5651ee75)
+# [Calendar Week](http://alexa.amazon.com/#skills/amzn1.ask.skill.36598fcb-4973-4aee-aa43-e7ca5651ee75)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Calendar Week skill, try saying...

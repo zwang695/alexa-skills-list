@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pirate's Dictionary icon" width="36"> [Pirate's Dictionary](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2345556-cd5f-4364-a78f-95e8c76e3fee)
+# [Pirate's Dictionary](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2345556-cd5f-4364-a78f-95e8c76e3fee)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pirate's Dictionary skill, try saying...

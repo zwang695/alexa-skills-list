@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Steamboat Springs icon" width="36"> [Snow Report for Steamboat Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.9bfce44c-b5cd-4759-b356-cc296e73f5fe)
+# [Snow Report for Steamboat Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.9bfce44c-b5cd-4759-b356-cc296e73f5fe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Steamboat Springs skill, try saying...

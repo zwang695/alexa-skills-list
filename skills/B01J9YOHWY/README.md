@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Yellowstone Predictions icon" width="36"> [Yellowstone Predictions](http://alexa.amazon.com/#skills/amzn1.ask.skill.4446ca6e-bada-45fc-ab00-49af24441062)
+# [Yellowstone Predictions](http://alexa.amazon.com/#skills/amzn1.ask.skill.4446ca6e-bada-45fc-ab00-49af24441062)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Yellowstone Predictions skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Noodle It Out icon" width="36"> [Noodle It Out](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d1a03701-fc16-4236-a599-0ef4550ea86a)
+# [Noodle It Out](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d1a03701-fc16-4236-a599-0ef4550ea86a)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Noodle It Out skill, try saying...

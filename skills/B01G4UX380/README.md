@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="California Trivia Game icon" width="36"> [California Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a773f78-fff8-4070-b3de-d5c0e8106db5)
+# [California Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a773f78-fff8-4070-b3de-d5c0e8106db5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the California Trivia Game skill, try saying...

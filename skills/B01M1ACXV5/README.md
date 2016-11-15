@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Science Guy Facts icon" width="36"> [Science Guy Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9c2226a5-4e91-451b-aaed-25c1709fed7a)
+# [Science Guy Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9c2226a5-4e91-451b-aaed-25c1709fed7a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Science Guy Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="empowerMe icon" width="36"> [empowerMe](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c6180462-cb32-4532-96ea-f9408e785ae0)
+# [empowerMe](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c6180462-cb32-4532-96ea-f9408e785ae0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the empowerMe skill, try saying...

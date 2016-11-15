@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stone Game icon" width="36"> [Stone Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.43d7c8ba-cb32-42d7-bc5b-91b0e13b101e)
+# [Stone Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.43d7c8ba-cb32-42d7-bc5b-91b0e13b101e)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Stone Game skill, try saying...

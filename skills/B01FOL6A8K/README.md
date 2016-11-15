@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Typography History Trivia icon" width="36"> [Typography History Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3a4e7f2a-c3ad-4713-8b5e-e9541701316a)
+# [Typography History Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3a4e7f2a-c3ad-4713-8b5e-e9541701316a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Typography History Trivia skill, try saying...

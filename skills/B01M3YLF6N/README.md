@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dark Energy Facts icon" width="36"> [Dark Energy Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9a6c2162-bdae-4c2a-859c-2b1eeda91829)
+# [Dark Energy Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9a6c2162-bdae-4c2a-859c-2b1eeda91829)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dark Energy Facts skill, try saying...

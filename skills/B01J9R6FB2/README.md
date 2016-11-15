@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Neo - Voice Analytic solution for Shopify icon" width="36"> [Neo - Voice Analytic solution for Shopify](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f36b25b-f086-4a2c-840c-a39f23ca70b8)
+# [Neo - Voice Analytic solution for Shopify](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f36b25b-f086-4a2c-840c-a39f23ca70b8)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Neo - Voice Analytic solution for Shopify skill, try saying...

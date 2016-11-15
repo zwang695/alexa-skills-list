@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Kentucky Facts icon" width="36"> [Kentucky Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.10095802-c81c-4913-8bb2-51684c64e974)
+# [Kentucky Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.10095802-c81c-4913-8bb2-51684c64e974)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Kentucky Facts skill, try saying...

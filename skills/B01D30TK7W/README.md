@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MBTA Alerts icon" width="36"> [MBTA Alerts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cc99f2d2-1be3-4623-9b0d-ac5e40bcd960)
+# [MBTA Alerts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cc99f2d2-1be3-4623-9b0d-ac5e40bcd960)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the MBTA Alerts skill, try saying...

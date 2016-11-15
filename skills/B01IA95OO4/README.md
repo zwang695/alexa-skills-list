@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Marks Facts icon" width="36"> [Marks Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4713858f-3959-49f2-b142-18e748296de0)
+# [Marks Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4713858f-3959-49f2-b142-18e748296de0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Marks Facts skill, try saying...

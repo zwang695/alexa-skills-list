@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Conversation Starters icon" width="36"> [Conversation Starters](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b904c157-46ad-4ddf-879a-fe60def657ca)
+# [Conversation Starters](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b904c157-46ad-4ddf-879a-fe60def657ca)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Conversation Starters skill, try saying...

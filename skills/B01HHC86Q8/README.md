@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Choose a European Vacation icon" width="36"> [Choose a European Vacation](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7764aac6-6ee0-4ce7-9178-0d21d7546934)
+# [Choose a European Vacation](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7764aac6-6ee0-4ce7-9178-0d21d7546934)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Choose a European Vacation skill, try saying...

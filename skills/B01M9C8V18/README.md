@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Work Time Tracker icon" width="36"> [Work Time Tracker](http://alexa.amazon.com/#skills/amzn1.ask.skill.c0e5ed73-2b79-47c2-871f-532b3091b2ee)
+# [Work Time Tracker](http://alexa.amazon.com/#skills/amzn1.ask.skill.c0e5ed73-2b79-47c2-871f-532b3091b2ee)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Work Time Tracker skill, try saying...

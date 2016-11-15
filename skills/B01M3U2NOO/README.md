@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Plattekill Mountain icon" width="36"> [Snow Report for Plattekill Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.a9997ef6-7040-4c43-87c2-d9f379daa346)
+# [Snow Report for Plattekill Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.a9997ef6-7040-4c43-87c2-d9f379daa346)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Plattekill Mountain skill, try saying...

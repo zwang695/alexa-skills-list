@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Artie's World icon" width="36"> [Artie's World](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.05d45434-250c-49fa-9f0c-ae7eb2b53827)
+# [Artie's World](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.05d45434-250c-49fa-9f0c-ae7eb2b53827)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Artie's World skill, try saying...

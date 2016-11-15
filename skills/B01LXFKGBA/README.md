@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for China Peak icon" width="36"> [Snow Report for China Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8dff5d2-32d1-4bb7-b88b-dff4b27fa5ea)
+# [Snow Report for China Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8dff5d2-32d1-4bb7-b88b-dff4b27fa5ea)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for China Peak skill, try saying...

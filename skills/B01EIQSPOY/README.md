@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="LIFX Optimized for Smart Home icon" width="36"> [LIFX Optimized for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.aba7feac-6231-4e5c-95ce-e05195803691)
+# [LIFX Optimized for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.aba7feac-6231-4e5c-95ce-e05195803691)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 49
 
 Control LIFX with Alexa. Your LIFX Lights now talk directly to the Amazon Echo through the Alexa Connected Home. After a few easy setup steps you can control your LIFX lights with simple statements like:

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="vox bot icon" width="36"> [vox bot](http://alexa.amazon.com/#skills/amzn1.ask.skill.485a34e7-57c5-4edb-92c8-eff4e154d6e0)
+# [vox bot](http://alexa.amazon.com/#skills/amzn1.ask.skill.485a34e7-57c5-4edb-92c8-eff4e154d6e0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the vox bot skill, try saying...

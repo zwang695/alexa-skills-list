@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Pokemon Facts icon" width="36"> [Unofficial Pokemon Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2045957c-5625-4de1-97ab-ba726ed048ff)
+# [Unofficial Pokemon Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2045957c-5625-4de1-97ab-ba726ed048ff)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Pokemon Facts skill, try saying...

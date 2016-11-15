@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Pundit by Rhiza icon" width="36"> [My Pundit by Rhiza](http://alexa.amazon.com/#skills/amzn1.ask.skill.d6f8f151-e8e4-404b-a1f8-0f072e61526a)
+# [My Pundit by Rhiza](http://alexa.amazon.com/#skills/amzn1.ask.skill.d6f8f151-e8e4-404b-a1f8-0f072e61526a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My Pundit by Rhiza skill, try saying...

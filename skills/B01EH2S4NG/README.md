@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Science Trivia icon" width="36"> [Science Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.400b1a8d-c612-4905-ae38-e132e12ba32b)
+# [Science Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.400b1a8d-c612-4905-ae38-e132e12ba32b)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Science Trivia skill, try saying...

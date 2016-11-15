@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Lake Louise icon" width="36"> [Snow Report for Lake Louise](http://alexa.amazon.com/#skills/amzn1.ask.skill.2ca5c5f5-f3bb-4b0f-bd74-175fd3b6e193)
+# [Snow Report for Lake Louise](http://alexa.amazon.com/#skills/amzn1.ask.skill.2ca5c5f5-f3bb-4b0f-bd74-175fd3b6e193)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Lake Louise skill, try saying...

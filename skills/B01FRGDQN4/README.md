@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bo's Resume icon" width="36"> [Bo's Resume](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5cd63983-236f-4a5d-a422-b903c8f501c4)
+# [Bo's Resume](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5cd63983-236f-4a5d-a422-b903c8f501c4)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Bo's Resume skill, try saying...

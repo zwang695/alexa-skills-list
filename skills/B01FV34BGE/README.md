@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lyft icon" width="36"> [Lyft](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.02338118-f3c6-4d37-b19e-c446be915df6)
+# [Lyft](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.02338118-f3c6-4d37-b19e-c446be915df6)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 26
 
 To use the Lyft skill, try saying...

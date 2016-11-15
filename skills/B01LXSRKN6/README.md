@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bruce Lee Quotes (Fan Made) icon" width="36"> [Bruce Lee Quotes (Fan Made)](http://alexa.amazon.com/#skills/amzn1.ask.skill.20f3ef33-b2ac-4d99-af44-5bd8a1e32629)
+# [Bruce Lee Quotes (Fan Made)](http://alexa.amazon.com/#skills/amzn1.ask.skill.20f3ef33-b2ac-4d99-af44-5bd8a1e32629)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bruce Lee Quotes (Fan Made) skill, try saying...

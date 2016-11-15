@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="East Facts icon" width="36"> [East Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.da7c9101-d6e2-481b-bff6-d5093eeb366c)
+# [East Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.da7c9101-d6e2-481b-bff6-d5093eeb366c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the East Facts skill, try saying...

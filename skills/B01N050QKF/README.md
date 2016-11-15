@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mont Orford icon" width="36"> [Snow Report for Mont Orford](http://alexa.amazon.com/#skills/amzn1.ask.skill.0470664c-672f-45e8-9047-be7c27783aa4)
+# [Snow Report for Mont Orford](http://alexa.amazon.com/#skills/amzn1.ask.skill.0470664c-672f-45e8-9047-be7c27783aa4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mont Orford skill, try saying...

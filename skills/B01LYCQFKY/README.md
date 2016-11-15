@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fancy Words icon" width="36"> [Fancy Words](http://alexa.amazon.com/#skills/amzn1.ask.skill.0d4741db-a342-4b9a-b6ed-c62ce34e03f6)
+# [Fancy Words](http://alexa.amazon.com/#skills/amzn1.ask.skill.0d4741db-a342-4b9a-b6ed-c62ce34e03f6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fancy Words skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Powderhorn Mountain icon" width="36"> [Snow Report for Powderhorn Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.0c45e5e5-29b0-424a-a763-d5de574e128a)
+# [Snow Report for Powderhorn Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.0c45e5e5-29b0-424a-a763-d5de574e128a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Powderhorn Mountain skill, try saying...

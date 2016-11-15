@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="AnyMote Smart Remote icon" width="36"> [AnyMote Smart Remote](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8490411f-89ee-4b91-bedc-44cf18e343ec)
+# [AnyMote Smart Remote](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8490411f-89ee-4b91-bedc-44cf18e343ec)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 59
 
 To use the AnyMote Smart Remote skill, try saying...

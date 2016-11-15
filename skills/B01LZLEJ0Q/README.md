@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="British History Quiz icon" width="36"> [British History Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.c425d705-863e-4761-8951-e867067f4677)
+# [British History Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.c425d705-863e-4761-8951-e867067f4677)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the British History Quiz skill, try saying...

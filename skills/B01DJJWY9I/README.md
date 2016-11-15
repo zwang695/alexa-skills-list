@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Rivers of Europe Trivia icon" width="36"> [Rivers of Europe Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a0d2c5e0-0478-4b4c-9b0b-76318f0eced6)
+# [Rivers of Europe Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a0d2c5e0-0478-4b4c-9b0b-76318f0eced6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Rivers of Europe Trivia skill, try saying...

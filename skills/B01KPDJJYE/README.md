@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Insect Facts icon" width="36"> [Insect Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.37c60bc7-267a-4786-96ad-923e4886261a)
+# [Insect Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.37c60bc7-267a-4786-96ad-923e4886261a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Insect Facts skill, try saying...

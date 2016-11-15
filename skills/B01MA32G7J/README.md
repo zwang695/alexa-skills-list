@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Crown Quiz icon" width="36"> [The Crown Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.c51336fd-52f3-4f28-9203-4d43b1b0ed9b)
+# [The Crown Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.c51336fd-52f3-4f28-9203-4d43b1b0ed9b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Crown Quiz skill, try saying...

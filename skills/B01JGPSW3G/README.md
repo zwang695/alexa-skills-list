@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mr Shark icon" width="36"> [Mr Shark](http://alexa.amazon.com/#skills/amzn1.ask.skill.6d3aace2-2382-45d5-b319-a580c65f0c0d)
+# [Mr Shark](http://alexa.amazon.com/#skills/amzn1.ask.skill.6d3aace2-2382-45d5-b319-a580c65f0c0d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mr Shark skill, try saying...

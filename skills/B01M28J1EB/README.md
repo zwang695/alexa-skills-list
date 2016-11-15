@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [HSV Fussball AG](http://alexa.amazon.com/#skills/amzn1.ask.skill.60b80e75-5796-42f7-b6b4-b351b767fb7b)
+# [HSV Fussball AG](http://alexa.amazon.com/#skills/amzn1.ask.skill.60b80e75-5796-42f7-b6b4-b351b767fb7b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

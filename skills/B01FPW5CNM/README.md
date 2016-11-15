@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tonight on a Very Special Episode: Trivia for Fans icon" width="36"> [Tonight on a Very Special Episode: Trivia for Fans](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1366e140-7b1e-400b-b08c-6c8c01dec826)
+# [Tonight on a Very Special Episode: Trivia for Fans](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1366e140-7b1e-400b-b08c-6c8c01dec826)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Tonight on a Very Special Episode: Trivia for Fans skill, try saying...

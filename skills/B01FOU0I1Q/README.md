@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="State Population icon" width="36"> [State Population](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.84f0658c-8e6d-49ef-b95d-c64c54b1fb55)
+# [State Population](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.84f0658c-8e6d-49ef-b95d-c64c54b1fb55)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the State Population skill, try saying...

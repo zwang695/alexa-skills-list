@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Bigrock Mountain icon" width="36"> [Snow Report for Bigrock Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.d6a9633f-25ee-482a-982c-e5cc7ebef703)
+# [Snow Report for Bigrock Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.d6a9633f-25ee-482a-982c-e5cc7ebef703)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Bigrock Mountain skill, try saying...

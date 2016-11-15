@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bin Buddy icon" width="36"> [Bin Buddy](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ea77090-ed50-4f4d-9b9a-9cf5f3cc74b9)
+# [Bin Buddy](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ea77090-ed50-4f4d-9b9a-9cf5f3cc74b9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bin Buddy skill, try saying...

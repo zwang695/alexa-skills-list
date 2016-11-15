@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Rachel Mitchell](http://alexa.amazon.com/#skills/amzn1.ask.skill.9ee1311e-bcba-442f-ba0b-03724b6b16c2)
+# [Rachel Mitchell](http://alexa.amazon.com/#skills/amzn1.ask.skill.9ee1311e-bcba-442f-ba0b-03724b6b16c2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

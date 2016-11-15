@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="swimming stroke briefing icon" width="36"> [swimming stroke briefing](http://alexa.amazon.com/#skills/amzn1.ask.skill.76fbef53-0422-47c8-808e-17c4c42731f8)
+# [swimming stroke briefing](http://alexa.amazon.com/#skills/amzn1.ask.skill.76fbef53-0422-47c8-808e-17c4c42731f8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the swimming stroke briefing skill, try saying...

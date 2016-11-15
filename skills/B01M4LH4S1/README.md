@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Sun Valley icon" width="36"> [Snow Report for Sun Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.0fa2d82e-e8e4-4cfb-b462-8358465c15ce)
+# [Snow Report for Sun Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.0fa2d82e-e8e4-4cfb-b462-8358465c15ce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Sun Valley skill, try saying...

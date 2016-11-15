@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lets Equate icon" width="36"> [Lets Equate](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.53cfca4d-5125-419f-aa5d-f1f493986167)
+# [Lets Equate](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.53cfca4d-5125-419f-aa5d-f1f493986167)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lets Equate skill, try saying...

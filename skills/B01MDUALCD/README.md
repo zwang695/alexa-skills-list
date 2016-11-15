@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Omaha Severe icon" width="36"> [Omaha Severe](http://alexa.amazon.com/#skills/amzn1.ask.skill.0a4895fc-7397-4835-ae9a-5abe51d5c2b8)
+# [Omaha Severe](http://alexa.amazon.com/#skills/amzn1.ask.skill.0a4895fc-7397-4835-ae9a-5abe51d5c2b8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Omaha Severe skill, try saying...

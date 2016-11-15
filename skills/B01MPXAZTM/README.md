@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Made up facts icon" width="36"> [Made up facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6bbdf8e9-3275-43d0-87bd-49b6fa981df7)
+# [Made up facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6bbdf8e9-3275-43d0-87bd-49b6fa981df7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Made up facts skill, try saying...

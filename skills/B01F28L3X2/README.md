@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Gamer Quiz for Metal Gear Solid icon" width="36"> [Gamer Quiz for Metal Gear Solid](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3a5fc51b-2622-4deb-a4a5-3eed9247c89d)
+# [Gamer Quiz for Metal Gear Solid](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3a5fc51b-2622-4deb-a4a5-3eed9247c89d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Gamer Quiz for Metal Gear Solid skill, try saying...

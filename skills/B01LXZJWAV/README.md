@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Receptionist Facts icon" width="36"> [Receptionist Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8a52bf68-54e2-47ab-b3b0-31175ed331b2)
+# [Receptionist Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8a52bf68-54e2-47ab-b3b0-31175ed331b2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Receptionist Facts skill, try saying...

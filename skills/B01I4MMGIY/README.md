@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ant facts icon" width="36"> [Ant facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.394b1d62-34cf-4098-acae-945126c41f9c)
+# [Ant facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.394b1d62-34cf-4098-acae-945126c41f9c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ant facts skill, try saying...

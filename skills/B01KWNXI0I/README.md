@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Running Guru icon" width="36"> [Running Guru](http://alexa.amazon.com/#skills/amzn1.ask.skill.bc0efbd3-034b-4413-83e8-488b63537df8)
+# [Running Guru](http://alexa.amazon.com/#skills/amzn1.ask.skill.bc0efbd3-034b-4413-83e8-488b63537df8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Running Guru skill, try saying...

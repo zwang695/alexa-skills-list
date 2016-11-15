@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="animalquiz icon" width="36"> [animalquiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.c9637d92-b323-4718-b2e8-763dd2c00bb2)
+# [animalquiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.c9637d92-b323-4718-b2e8-763dd2c00bb2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the animalquiz skill, try saying...

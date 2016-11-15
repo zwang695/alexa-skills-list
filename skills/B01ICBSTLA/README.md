@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hatch Baby icon" width="36"> [Hatch Baby](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec064f77-4155-446a-9b1a-93b65a47ab1e)
+# [Hatch Baby](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec064f77-4155-446a-9b1a-93b65a47ab1e)
 ![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Hatch Baby skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Meta icon" width="36"> [Meta](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.64272b27-7745-45f5-9cfc-8c0986c71932)
+# [Meta](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.64272b27-7745-45f5-9cfc-8c0986c71932)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Meta skill, try saying...

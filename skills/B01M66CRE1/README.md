@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Treetops Ski Resort icon" width="36"> [Snow Report for Treetops Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.7ff9c028-7f24-41e7-a38e-e6418e2d716e)
+# [Snow Report for Treetops Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.7ff9c028-7f24-41e7-a38e-e6418e2d716e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Treetops Ski Resort skill, try saying...

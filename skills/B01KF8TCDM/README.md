@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pregnancy Countdown icon" width="36"> [Pregnancy Countdown](http://alexa.amazon.com/#skills/amzn1.ask.skill.bc548160-8bf3-4ee5-9436-593749d0b14c)
+# [Pregnancy Countdown](http://alexa.amazon.com/#skills/amzn1.ask.skill.bc548160-8bf3-4ee5-9436-593749d0b14c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pregnancy Countdown skill, try saying...

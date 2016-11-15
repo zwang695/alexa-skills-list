@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CEIVA HomeView icon" width="36"> [CEIVA HomeView](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f893114c-1397-432f-a0d6-00723b3f3832)
+# [CEIVA HomeView](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f893114c-1397-432f-a0d6-00723b3f3832)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CEIVA HomeView skill, try saying...

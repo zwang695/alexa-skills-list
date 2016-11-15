@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Interesting Red Wine Trivia icon" width="36"> [Interesting Red Wine Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.b08dd9f9-2d44-461a-a2ac-d8afaa680bf0)
+# [Interesting Red Wine Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.b08dd9f9-2d44-461a-a2ac-d8afaa680bf0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Interesting Red Wine Trivia skill, try saying...

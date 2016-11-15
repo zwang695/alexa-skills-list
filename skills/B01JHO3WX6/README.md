@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="USPopulation icon" width="36"> [USPopulation](http://alexa.amazon.com/#skills/amzn1.ask.skill.b95b020c-4854-405f-ad6b-32ebe7677f6c)
+# [USPopulation](http://alexa.amazon.com/#skills/amzn1.ask.skill.b95b020c-4854-405f-ad6b-32ebe7677f6c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the USPopulation skill, try saying...

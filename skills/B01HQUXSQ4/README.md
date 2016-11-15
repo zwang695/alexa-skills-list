@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tips for new dad icon" width="36"> [Tips for new dad](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.203e874b-58c8-4c7f-a610-17bde1c87983)
+# [Tips for new dad](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.203e874b-58c8-4c7f-a610-17bde1c87983)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tips for new dad skill, try saying...

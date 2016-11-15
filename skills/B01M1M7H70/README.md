@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unoffiical GoT Trivia icon" width="36"> [Unoffiical GoT Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.20c36fcb-b140-40b8-aecc-35f7d6e55613)
+# [Unoffiical GoT Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.20c36fcb-b140-40b8-aecc-35f7d6e55613)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unoffiical GoT Trivia skill, try saying...

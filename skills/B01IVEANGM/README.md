@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Interactive Fiction icon" width="36"> [Interactive Fiction](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.75f0f37e-aa18-4db0-9976-23798670c600)
+# [Interactive Fiction](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.75f0f37e-aa18-4db0-9976-23798670c600)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Interactive Fiction skill, try saying...

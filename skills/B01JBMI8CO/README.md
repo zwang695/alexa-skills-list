@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ham Radio Tech icon" width="36"> [Ham Radio Tech](http://alexa.amazon.com/#skills/amzn1.ask.skill.8fd329ab-55cf-451d-ad85-4072e6e6e107)
+# [Ham Radio Tech](http://alexa.amazon.com/#skills/amzn1.ask.skill.8fd329ab-55cf-451d-ad85-4072e6e6e107)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ham Radio Tech skill, try saying...

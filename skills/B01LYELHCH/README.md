@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Northstar Mountain icon" width="36"> [Snow Report for Northstar Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.44fe977c-1a7d-40c7-879f-5d2a457acc10)
+# [Snow Report for Northstar Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.44fe977c-1a7d-40c7-879f-5d2a457acc10)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Northstar Mountain skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dice Bag icon" width="36"> [Dice Bag](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.61e700dd-f982-4b9c-bce6-5d4e9361fe80)
+# [Dice Bag](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.61e700dd-f982-4b9c-bce6-5d4e9361fe80)
 ![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Dice Bag skill, try saying...

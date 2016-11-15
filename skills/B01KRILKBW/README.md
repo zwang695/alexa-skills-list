@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Episode Generator icon" width="36"> [Random Episode Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.38133e26-fa18-43da-8870-119822723b28)
+# [Random Episode Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.38133e26-fa18-43da-8870-119822723b28)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Random Episode Generator skill, try saying...

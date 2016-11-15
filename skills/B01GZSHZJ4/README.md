@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BananaGeek icon" width="36"> [BananaGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.66620694-3824-44a2-9963-7133d9280d59)
+# [BananaGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.66620694-3824-44a2-9963-7133d9280d59)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BananaGeek skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Where is the Lansing River Trail Flooded icon" width="36"> [Where is the Lansing River Trail Flooded](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a68936c-5bbb-4374-a104-04d8ec8dba6a)
+# [Where is the Lansing River Trail Flooded](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a68936c-5bbb-4374-a104-04d8ec8dba6a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Where is the Lansing River Trail Flooded skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Revogi icon" width="36"> [Revogi](http://alexa.amazon.com/#skills/amzn1.ask.skill.d4a9ee1d-df48-4294-9e04-746539d4c51f)
+# [Revogi](http://alexa.amazon.com/#skills/amzn1.ask.skill.d4a9ee1d-df48-4294-9e04-746539d4c51f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 Ask Alexa to turn on or off fans,lamps or whatever is plugged into the Revogi power strip or power plug.When you enable this skill, you will be prompted to log into your RevogiHome  to link to your Amazon Echo account.Please make sure that you will use the same account  for your RevogiHome.

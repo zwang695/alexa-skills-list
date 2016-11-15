@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Why Quit Facts icon" width="36"> [Why Quit Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d0a57c5f-3f31-49b5-8e40-e27757d9867b)
+# [Why Quit Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d0a57c5f-3f31-49b5-8e40-e27757d9867b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Why Quit Facts skill, try saying...

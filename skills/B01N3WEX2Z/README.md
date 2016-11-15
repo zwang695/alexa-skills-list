@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fun Stuff icon" width="36"> [Fun Stuff](http://alexa.amazon.com/#skills/amzn1.ask.skill.b379ebb8-333c-4216-aefb-e2e74861bfff)
+# [Fun Stuff](http://alexa.amazon.com/#skills/amzn1.ask.skill.b379ebb8-333c-4216-aefb-e2e74861bfff)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fun Stuff skill, try saying...

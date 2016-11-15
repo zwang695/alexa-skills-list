@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="what kind of wine should i drink icon" width="36"> [what kind of wine should i drink](http://alexa.amazon.com/#skills/amzn1.ask.skill.8456e71a-c04a-4e8d-83bb-5bd4834ccb36)
+# [what kind of wine should i drink](http://alexa.amazon.com/#skills/amzn1.ask.skill.8456e71a-c04a-4e8d-83bb-5bd4834ccb36)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the what kind of wine should i drink skill, try saying...

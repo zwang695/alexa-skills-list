@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tech Caster icon" width="36"> [Tech Caster](http://alexa.amazon.com/#skills/amzn1.ask.skill.46c6d1f1-603a-4a7c-a9b9-2cf6170ad830)
+# [Tech Caster](http://alexa.amazon.com/#skills/amzn1.ask.skill.46c6d1f1-603a-4a7c-a9b9-2cf6170ad830)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tech Caster skill, try saying...

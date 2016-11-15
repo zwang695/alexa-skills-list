@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Solar System Planets Flash Cards icon" width="36"> [Solar System Planets Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.24640469-c4fc-432c-9cd8-32a89693247a)
+# [Solar System Planets Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.24640469-c4fc-432c-9cd8-32a89693247a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Solar System Planets Flash Cards skill, try saying...

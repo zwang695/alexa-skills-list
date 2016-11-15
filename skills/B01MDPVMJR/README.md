@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Education Stats icon" width="36"> [Education Stats](http://alexa.amazon.com/#skills/amzn1.ask.skill.272dc88c-49fd-47b3-bcf0-699d1cde52db)
+# [Education Stats](http://alexa.amazon.com/#skills/amzn1.ask.skill.272dc88c-49fd-47b3-bcf0-699d1cde52db)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Education Stats skill, try saying...

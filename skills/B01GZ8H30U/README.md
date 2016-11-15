@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The most Interesting Man in the World icon" width="36"> [The most Interesting Man in the World](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.99755648-1fd4-48ed-9c02-b92e46dedf70)
+# [The most Interesting Man in the World](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.99755648-1fd4-48ed-9c02-b92e46dedf70)
 ![1.9 stars](../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the The most Interesting Man in the World skill, try saying...

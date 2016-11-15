@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Upcoming Events for Hearthstone icon" width="36"> [Upcoming Events for Hearthstone](http://alexa.amazon.com/#skills/amzn1.ask.skill.8bfd4e2f-a2c6-4b88-a29a-333e7a969d2e)
+# [Upcoming Events for Hearthstone](http://alexa.amazon.com/#skills/amzn1.ask.skill.8bfd4e2f-a2c6-4b88-a29a-333e7a969d2e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Upcoming Events for Hearthstone skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Liver Facts icon" width="36"> [Liver Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.db222e08-57cd-463e-b6b0-9a364598814d)
+# [Liver Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.db222e08-57cd-463e-b6b0-9a364598814d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Liver Facts skill, try saying...

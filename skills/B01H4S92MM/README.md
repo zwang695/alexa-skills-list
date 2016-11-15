@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DailyBread icon" width="36"> [DailyBread](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2de3f82c-dbe4-445e-b53d-c3b0d5b2232b)
+# [DailyBread](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2de3f82c-dbe4-445e-b53d-c3b0d5b2232b)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the DailyBread skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Presidential Quotes icon" width="36"> [Presidential Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.324a2132-d3c1-42c4-88db-4cfd6d27aa64)
+# [Presidential Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.324a2132-d3c1-42c4-88db-4cfd6d27aa64)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Presidential Quotes skill, try saying...

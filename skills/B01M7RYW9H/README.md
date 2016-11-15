@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Giants Ridge icon" width="36"> [Snow Report for Giants Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.29051a96-3a7f-4e82-9fc0-9f4eecfdbee1)
+# [Snow Report for Giants Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.29051a96-3a7f-4e82-9fc0-9f4eecfdbee1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Giants Ridge skill, try saying...

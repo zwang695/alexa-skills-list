@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Eldora Resort icon" width="36"> [Snow Report for Eldora Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.b406dc9c-7f33-41e5-9fc3-a9e9f003fa3a)
+# [Snow Report for Eldora Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.b406dc9c-7f33-41e5-9fc3-a9e9f003fa3a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Eldora Resort skill, try saying...

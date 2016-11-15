@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Bay Mountain icon" width="36"> [Snow Report for Bay Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e9520f58-9dfb-4aa8-a9e2-5f87d70f37ec)
+# [Snow Report for Bay Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e9520f58-9dfb-4aa8-a9e2-5f87d70f37ec)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Bay Mountain skill, try saying...

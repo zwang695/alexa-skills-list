@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="cooking terms icon" width="36"> [cooking terms](http://alexa.amazon.com/#skills/amzn1.ask.skill.41d2be1b-0b29-4b54-8ea0-bc17e0f549d1)
+# [cooking terms](http://alexa.amazon.com/#skills/amzn1.ask.skill.41d2be1b-0b29-4b54-8ea0-bc17e0f549d1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the cooking terms skill, try saying...

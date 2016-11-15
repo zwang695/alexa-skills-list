@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Enlightening Banana Facts icon" width="36"> [Enlightening Banana Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.edc49b35-aea9-459f-adcc-4f463dbc7f5a)
+# [Enlightening Banana Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.edc49b35-aea9-459f-adcc-4f463dbc7f5a)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Enlightening Banana Facts skill, try saying...

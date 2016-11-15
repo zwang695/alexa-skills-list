@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Jesús Espejo](http://alexa.amazon.com/#skills/amzn1.ask.skill.20e41fcd-3ed2-45ae-abc8-22778a1d6e1a)
+# [Jesús Espejo](http://alexa.amazon.com/#skills/amzn1.ask.skill.20e41fcd-3ed2-45ae-abc8-22778a1d6e1a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

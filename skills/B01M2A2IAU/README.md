@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Al Bundy smarts icon" width="36"> [Al Bundy smarts](http://alexa.amazon.com/#skills/amzn1.ask.skill.458c355e-da3d-419b-8bb3-0ee716522d18)
+# [Al Bundy smarts](http://alexa.amazon.com/#skills/amzn1.ask.skill.458c355e-da3d-419b-8bb3-0ee716522d18)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Al Bundy smarts skill, try saying...

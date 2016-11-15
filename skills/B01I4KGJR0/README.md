@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Photographer icon" width="36"> [Photographer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0b30fdc9-8a2a-49a6-a20c-c32c0a90b79a)
+# [Photographer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0b30fdc9-8a2a-49a6-a20c-c32c0a90b79a)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Photographer skill, try saying...

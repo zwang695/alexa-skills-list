@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Myfox Security icon" width="36"> [Myfox Security](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1c2671d2-8b9f-4397-86e1-dbb45dc33b21)
+# [Myfox Security](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1c2671d2-8b9f-4397-86e1-dbb45dc33b21)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Myfox Security skill, try saying...

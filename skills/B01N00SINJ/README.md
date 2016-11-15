@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Camp 10 icon" width="36"> [Snow Report for Camp 10](http://alexa.amazon.com/#skills/amzn1.ask.skill.5cfe098b-58eb-481c-a13c-686dd81c090a)
+# [Snow Report for Camp 10](http://alexa.amazon.com/#skills/amzn1.ask.skill.5cfe098b-58eb-481c-a13c-686dd81c090a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Camp 10 skill, try saying...

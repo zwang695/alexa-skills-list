@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Inventors game icon" width="36"> [Inventors game](http://alexa.amazon.com/#skills/amzn1.ask.skill.7048d674-b5f8-42be-ae3b-4e58af8a5b32)
+# [Inventors game](http://alexa.amazon.com/#skills/amzn1.ask.skill.7048d674-b5f8-42be-ae3b-4e58af8a5b32)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Inventors game skill, try saying...

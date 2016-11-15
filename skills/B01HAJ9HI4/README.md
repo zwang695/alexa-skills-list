@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Beer Bot icon" width="36"> [Beer Bot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e14641d9-241d-4311-bc03-e897eb882328)
+# [Beer Bot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e14641d9-241d-4311-bc03-e897eb882328)
 ![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Beer Bot skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Who died today icon" width="36"> [Who died today](http://alexa.amazon.com/#skills/amzn1.ask.skill.602388f4-876b-44a3-b239-1e9a52df2eef)
+# [Who died today](http://alexa.amazon.com/#skills/amzn1.ask.skill.602388f4-876b-44a3-b239-1e9a52df2eef)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Who died today skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Vietnamese Fact Skill icon" width="36"> [Vietnamese Fact Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.334f340a-5345-4a4c-91f7-e79f0009bd0e)
+# [Vietnamese Fact Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.334f340a-5345-4a4c-91f7-e79f0009bd0e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Vietnamese Fact Skill skill, try saying...

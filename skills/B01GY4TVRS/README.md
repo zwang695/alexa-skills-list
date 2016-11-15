@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BeardTrivia icon" width="36"> [BeardTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8b71af47-e4c2-4565-ac1e-7d1c58254d26)
+# [BeardTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8b71af47-e4c2-4565-ac1e-7d1c58254d26)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BeardTrivia skill, try saying...

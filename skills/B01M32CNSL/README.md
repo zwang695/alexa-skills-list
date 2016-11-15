@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ask Purina icon" width="36"> [Ask Purina](http://alexa.amazon.com/#skills/amzn1.ask.skill.72fc72ea-fac6-42bc-83d2-355b4c256af3)
+# [Ask Purina](http://alexa.amazon.com/#skills/amzn1.ask.skill.72fc72ea-fac6-42bc-83d2-355b4c256af3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ask Purina skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MyIOTGeek icon" width="36"> [MyIOTGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.02d83897-d7a3-4799-837d-45c59d50a1af)
+# [MyIOTGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.02d83897-d7a3-4799-837d-45c59d50a1af)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the MyIOTGeek skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="viet nam facts icon" width="36"> [viet nam facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a5ac1237-9974-44a5-b824-b39a7e92fd56)
+# [viet nam facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a5ac1237-9974-44a5-b824-b39a7e92fd56)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the viet nam facts skill, try saying...

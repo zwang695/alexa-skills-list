@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts for NASCAR icon" width="36"> [Facts for NASCAR](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ce145d86-3f9e-4b1b-b93a-60015b6f50df)
+# [Facts for NASCAR](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ce145d86-3f9e-4b1b-b93a-60015b6f50df)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts for NASCAR skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Jack's Trivia icon" width="36"> [Jack's Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4e7d74b1-5808-4f00-9c36-61f2c484943f)
+# [Jack's Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4e7d74b1-5808-4f00-9c36-61f2c484943f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Jack's Trivia skill, try saying...

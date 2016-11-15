@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Train History icon" width="36"> [Train History](http://alexa.amazon.com/#skills/amzn1.ask.skill.5bb5302b-623a-4631-91bb-bb3ca13a25ef)
+# [Train History](http://alexa.amazon.com/#skills/amzn1.ask.skill.5bb5302b-623a-4631-91bb-bb3ca13a25ef)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Train History skill, try saying...

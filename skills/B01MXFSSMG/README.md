@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Cascade Mountain icon" width="36"> [Snow Report for Cascade Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.491a2481-62e6-4881-ab46-f87dbc4b9946)
+# [Snow Report for Cascade Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.491a2481-62e6-4881-ab46-f87dbc4b9946)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Cascade Mountain skill, try saying...

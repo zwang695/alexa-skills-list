@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unoficial Tao of Programming icon" width="36"> [Unoficial Tao of Programming](http://alexa.amazon.com/#skills/amzn1.ask.skill.2292237e-7bf6-4fcb-9541-655f70f95034)
+# [Unoficial Tao of Programming](http://alexa.amazon.com/#skills/amzn1.ask.skill.2292237e-7bf6-4fcb-9541-655f70f95034)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unoficial Tao of Programming skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="invention facts icon" width="36"> [invention facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c85e5049-af47-4059-ac19-7f304aee72f3)
+# [invention facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c85e5049-af47-4059-ac19-7f304aee72f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the invention facts skill, try saying...

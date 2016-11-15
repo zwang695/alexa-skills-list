@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Messer Cat Trivia icon" width="36"> [Messer Cat Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.da2c224d-7456-482c-b925-fb0b4e37d9d5)
+# [Messer Cat Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.da2c224d-7456-482c-b925-fb0b4e37d9d5)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Messer Cat Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Snow King icon" width="36"> [Snow Report for Snow King](http://alexa.amazon.com/#skills/amzn1.ask.skill.9cb2f6e0-40a2-42fd-b92b-7151ca559b78)
+# [Snow Report for Snow King](http://alexa.amazon.com/#skills/amzn1.ask.skill.9cb2f6e0-40a2-42fd-b92b-7151ca559b78)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Snow King skill, try saying...

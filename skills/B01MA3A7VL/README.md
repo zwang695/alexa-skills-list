@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Film Facts One icon" width="36"> [Film Facts One](http://alexa.amazon.com/#skills/amzn1.ask.skill.a32b97aa-47c6-4761-8fc8-f4c6ee03eee6)
+# [Film Facts One](http://alexa.amazon.com/#skills/amzn1.ask.skill.a32b97aa-47c6-4761-8fc8-f4c6ee03eee6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Film Facts One skill, try saying...

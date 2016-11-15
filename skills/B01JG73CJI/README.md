@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="spare the air icon" width="36"> [spare the air](http://alexa.amazon.com/#skills/amzn1.ask.skill.55e26c64-5eec-4e9f-b4e3-7d18a99d907c)
+# [spare the air](http://alexa.amazon.com/#skills/amzn1.ask.skill.55e26c64-5eec-4e9f-b4e3-7d18a99d907c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the spare the air skill, try saying...

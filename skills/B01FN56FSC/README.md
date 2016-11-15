@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="APHistory_Facts icon" width="36"> [APHistory_Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c65fdd0b-7a27-47ea-8fb1-10df0bc37174)
+# [APHistory_Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c65fdd0b-7a27-47ea-8fb1-10df0bc37174)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the APHistory_Facts skill, try saying...

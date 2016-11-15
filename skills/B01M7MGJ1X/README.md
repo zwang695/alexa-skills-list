@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pig Facts icon" width="36"> [Pig Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.375a4f9a-6256-47c8-a825-2911796c5435)
+# [Pig Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.375a4f9a-6256-47c8-a825-2911796c5435)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pig Facts skill, try saying...

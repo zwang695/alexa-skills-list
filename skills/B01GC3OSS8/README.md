@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="UK games icon" width="36"> [UK games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d7394806-0e54-44af-be20-b44bfbf4936e)
+# [UK games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d7394806-0e54-44af-be20-b44bfbf4936e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the UK games skill, try saying...

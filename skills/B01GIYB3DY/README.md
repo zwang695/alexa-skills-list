@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stump the Chump icon" width="36"> [Stump the Chump](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a69e942d-aba2-418d-80a0-b36c528a70ec)
+# [Stump the Chump](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a69e942d-aba2-418d-80a0-b36c528a70ec)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Stump the Chump skill, try saying...

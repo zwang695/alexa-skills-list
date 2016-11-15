@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Drizzle icon" width="36"> [Drizzle](http://alexa.amazon.com/#skills/amzn1.ask.skill.02fa7b5c-368c-4d7c-83e7-4a1c8723ee43)
+# [Drizzle](http://alexa.amazon.com/#skills/amzn1.ask.skill.02fa7b5c-368c-4d7c-83e7-4a1c8723ee43)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Drizzle skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="find a movie icon" width="36"> [find a movie](http://alexa.amazon.com/#skills/amzn1.ask.skill.c4219d69-fffe-4fb9-b4ee-c24754e26c1a)
+# [find a movie](http://alexa.amazon.com/#skills/amzn1.ask.skill.c4219d69-fffe-4fb9-b4ee-c24754e26c1a)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the find a movie skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Awair icon" width="36"> [Awair](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f0b5988b-e849-4357-8e7a-307d04d8f89e)
+# [Awair](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f0b5988b-e849-4357-8e7a-307d04d8f89e)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Awair skill, try saying...

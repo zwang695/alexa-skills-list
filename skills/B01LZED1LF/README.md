@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Social Media Conscience icon" width="36"> [Social Media Conscience](http://alexa.amazon.com/#skills/amzn1.ask.skill.eabb3f38-7cc0-4ed9-a7e5-1c9df7d58069)
+# [Social Media Conscience](http://alexa.amazon.com/#skills/amzn1.ask.skill.eabb3f38-7cc0-4ed9-a7e5-1c9df7d58069)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Social Media Conscience skill, try saying...

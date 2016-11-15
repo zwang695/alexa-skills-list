@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="YNAB icon" width="36"> [YNAB](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1afde774-2db3-45f7-acf7-f5d541ecc037)
+# [YNAB](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1afde774-2db3-45f7-acf7-f5d541ecc037)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the YNAB skill, try saying...

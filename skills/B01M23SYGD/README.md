@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Cash4Life Winning Numbers icon" width="36"> [Unofficial Cash4Life Winning Numbers](http://alexa.amazon.com/#skills/amzn1.ask.skill.f5515fa0-7473-461a-9338-bceef2e41de0)
+# [Unofficial Cash4Life Winning Numbers](http://alexa.amazon.com/#skills/amzn1.ask.skill.f5515fa0-7473-461a-9338-bceef2e41de0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Cash4Life Winning Numbers skill, try saying...

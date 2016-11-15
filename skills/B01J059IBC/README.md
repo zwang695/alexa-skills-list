@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="3-Dharma Inspirations icon" width="36"> [3-Dharma Inspirations](http://alexa.amazon.com/#skills/amzn1.ask.skill.8c0bd170-1083-4b3e-93f7-0899e963f46f)
+# [3-Dharma Inspirations](http://alexa.amazon.com/#skills/amzn1.ask.skill.8c0bd170-1083-4b3e-93f7-0899e963f46f)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the 3-Dharma Inspirations skill, try saying...

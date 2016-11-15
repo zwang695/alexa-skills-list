@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="seventies disco trivia icon" width="36"> [seventies disco trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.71a09eaa-f753-44cb-a06d-34e99ddd1115)
+# [seventies disco trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.71a09eaa-f753-44cb-a06d-34e99ddd1115)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the seventies disco trivia skill, try saying...

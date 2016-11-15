@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My BMI icon" width="36"> [My BMI](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cc5eb607-a75a-4b8f-96f5-ce9166bdccb4)
+# [My BMI](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cc5eb607-a75a-4b8f-96f5-ce9166bdccb4)
 ![1.7 stars](../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the My BMI skill, try saying...

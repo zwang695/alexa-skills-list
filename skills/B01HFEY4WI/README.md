@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Math Stream icon" width="36"> [Math Stream](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.12714fb0-74a2-4fd0-8921-6954adc533bb)
+# [Math Stream](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.12714fb0-74a2-4fd0-8921-6954adc533bb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Math Stream skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Square Dance icon" width="36"> [Square Dance](http://alexa.amazon.com/#skills/amzn1.ask.skill.c8ecfb7e-8775-4c7e-93e3-1b21af98ef8c)
+# [Square Dance](http://alexa.amazon.com/#skills/amzn1.ask.skill.c8ecfb7e-8775-4c7e-93e3-1b21af98ef8c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Square Dance skill, try saying...

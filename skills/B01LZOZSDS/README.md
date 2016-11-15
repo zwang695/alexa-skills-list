@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Super Random Facts icon" width="36"> [Super Random Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.59f445ae-d750-4d50-b74b-e22eb0c58c0c)
+# [Super Random Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.59f445ae-d750-4d50-b74b-e22eb0c58c0c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Super Random Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Castle Mountain icon" width="36"> [Snow Report for Castle Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e6afb4ae-b6cd-4db9-97f0-fb307b2c95fb)
+# [Snow Report for Castle Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e6afb4ae-b6cd-4db9-97f0-fb307b2c95fb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Castle Mountain skill, try saying...

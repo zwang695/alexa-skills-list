@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="fifty two week low icon" width="36"> [fifty two week low](http://alexa.amazon.com/#skills/amzn1.ask.skill.cc79d141-0712-4421-b43e-f1bc688f0fd0)
+# [fifty two week low](http://alexa.amazon.com/#skills/amzn1.ask.skill.cc79d141-0712-4421-b43e-f1bc688f0fd0)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the fifty two week low skill, try saying...

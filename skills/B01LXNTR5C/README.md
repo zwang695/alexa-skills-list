@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="tennisTrivia55 icon" width="36"> [tennisTrivia55](http://alexa.amazon.com/#skills/amzn1.ask.skill.b11bd671-3928-42d6-b44c-406b244817ea)
+# [tennisTrivia55](http://alexa.amazon.com/#skills/amzn1.ask.skill.b11bd671-3928-42d6-b44c-406b244817ea)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the tennisTrivia55 skill, try saying...

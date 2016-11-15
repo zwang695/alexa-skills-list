@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="London Food Facts icon" width="36"> [London Food Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5f49c9d3-a01f-4c5e-88e7-b1fa19c9ad19)
+# [London Food Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5f49c9d3-a01f-4c5e-88e7-b1fa19c9ad19)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the London Food Facts skill, try saying...

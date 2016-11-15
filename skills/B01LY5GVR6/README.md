@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What Should I Eat? (Singapore Version) icon" width="36"> [What Should I Eat? (Singapore Version)](http://alexa.amazon.com/#skills/amzn1.ask.skill.80a53f10-c515-4a1e-a530-3c8fc4cd3df3)
+# [What Should I Eat? (Singapore Version)](http://alexa.amazon.com/#skills/amzn1.ask.skill.80a53f10-c515-4a1e-a530-3c8fc4cd3df3)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the What Should I Eat? (Singapore Version) skill, try saying...

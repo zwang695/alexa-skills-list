@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Muzzley icon" width="36"> [Muzzley](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fe8f3ba4-1675-4a47-8fc0-b9b265c061cd)
+# [Muzzley](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fe8f3ba4-1675-4a47-8fc0-b9b265c061cd)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Muzzley skill, try saying...

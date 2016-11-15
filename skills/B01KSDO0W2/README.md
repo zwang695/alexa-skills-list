@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Status For Caltrain icon" width="36"> [Status For Caltrain](http://alexa.amazon.com/#skills/amzn1.ask.skill.00411592-cdea-4462-816a-3952563099c0)
+# [Status For Caltrain](http://alexa.amazon.com/#skills/amzn1.ask.skill.00411592-cdea-4462-816a-3952563099c0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Status For Caltrain skill, try saying...

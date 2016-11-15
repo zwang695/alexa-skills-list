@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Oatmeal Facts icon" width="36"> [Oatmeal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.89fbbcec-ef4f-41cb-98bc-b2910311b854)
+# [Oatmeal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.89fbbcec-ef4f-41cb-98bc-b2910311b854)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Oatmeal Facts skill, try saying...

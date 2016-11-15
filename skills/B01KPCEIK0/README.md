@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Riyadh Facts icon" width="36"> [Riyadh Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c7148a7e-e558-4658-93e9-03ae21a1249d)
+# [Riyadh Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c7148a7e-e558-4658-93e9-03ae21a1249d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Riyadh Facts skill, try saying...

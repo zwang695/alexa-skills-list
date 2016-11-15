@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Terry Peak icon" width="36"> [Snow Report for Terry Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.0e7714bb-d14a-4ad4-b132-57f7f46006f3)
+# [Snow Report for Terry Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.0e7714bb-d14a-4ad4-b132-57f7f46006f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Terry Peak skill, try saying...

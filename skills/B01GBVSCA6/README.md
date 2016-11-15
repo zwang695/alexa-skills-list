@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Periodic Table Games icon" width="36"> [Periodic Table Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.14f87551-e771-406c-9668-cf8e9f694320)
+# [Periodic Table Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.14f87551-e771-406c-9668-cf8e9f694320)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Periodic Table Games skill, try saying...

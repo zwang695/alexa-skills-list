@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Boat War icon" width="36"> [Boat War](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4bca183b-9938-4203-a19f-ce41c60b40f2)
+# [Boat War](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4bca183b-9938-4203-a19f-ce41c60b40f2)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Boat War skill, try saying...

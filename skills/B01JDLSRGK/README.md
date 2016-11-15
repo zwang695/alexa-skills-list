@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="General Knowledge Trivia Game icon" width="36"> [General Knowledge Trivia Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.769d4a36-8715-4e32-9428-0e51a0cee89c)
+# [General Knowledge Trivia Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.769d4a36-8715-4e32-9428-0e51a0cee89c)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the General Knowledge Trivia Game skill, try saying...

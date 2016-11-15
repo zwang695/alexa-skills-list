@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Boston Trivia icon" width="36"> [Boston Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.98a8d47d-e3db-43bc-b6f2-491674842fc7)
+# [Boston Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.98a8d47d-e3db-43bc-b6f2-491674842fc7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Boston Trivia skill, try saying...

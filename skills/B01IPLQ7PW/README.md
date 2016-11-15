@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Art of Manliness - Man Knowledge icon" width="36"> [The Art of Manliness - Man Knowledge](http://alexa.amazon.com/#skills/amzn1.ask.skill.1767c9b4-6ded-4eed-a29c-4fec919a46af)
+# [The Art of Manliness - Man Knowledge](http://alexa.amazon.com/#skills/amzn1.ask.skill.1767c9b4-6ded-4eed-a29c-4fec919a46af)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the The Art of Manliness - Man Knowledge skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Fernie Alpine icon" width="36"> [Snow Report for Fernie Alpine](http://alexa.amazon.com/#skills/amzn1.ask.skill.93cdac1d-19b5-4cf5-8372-890c3f68bd15)
+# [Snow Report for Fernie Alpine](http://alexa.amazon.com/#skills/amzn1.ask.skill.93cdac1d-19b5-4cf5-8372-890c3f68bd15)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Fernie Alpine skill, try saying...

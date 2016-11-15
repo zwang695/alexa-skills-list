@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Jim Wyatt Decision Tree icon" width="36"> [Jim Wyatt Decision Tree](http://alexa.amazon.com/#skills/amzn1.ask.skill.7267cd57-7bf8-4faa-9b2a-e1838c70a34a)
+# [Jim Wyatt Decision Tree](http://alexa.amazon.com/#skills/amzn1.ask.skill.7267cd57-7bf8-4faa-9b2a-e1838c70a34a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Jim Wyatt Decision Tree skill, try saying...

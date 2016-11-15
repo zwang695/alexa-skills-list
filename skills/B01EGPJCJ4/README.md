@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Roman History Facts icon" width="36"> [Roman History Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fa4c9328-7ab4-429e-b2be-4f421dc241a3)
+# [Roman History Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fa4c9328-7ab4-429e-b2be-4f421dc241a3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Roman History Facts skill, try saying...

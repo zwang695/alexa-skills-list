@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ultimate RK icon" width="36"> [Ultimate RK](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2e2e3a80-0f48-4c2f-a712-0eb879584131)
+# [Ultimate RK](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2e2e3a80-0f48-4c2f-a712-0eb879584131)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Ultimate RK skill, try saying...

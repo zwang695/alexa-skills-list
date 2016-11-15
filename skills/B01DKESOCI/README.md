@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="PokeyFinder icon" width="36"> [PokeyFinder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.71d22c4e-1c6d-41ef-9987-d7a5e06d351f)
+# [PokeyFinder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.71d22c4e-1c6d-41ef-9987-d7a5e06d351f)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the PokeyFinder skill, try saying...

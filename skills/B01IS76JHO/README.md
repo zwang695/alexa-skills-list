@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Take a hike icon" width="36"> [Take a hike](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.18c42dca-a0a8-4692-96c9-9351b523dc3c)
+# [Take a hike](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.18c42dca-a0a8-4692-96c9-9351b523dc3c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Take a hike skill, try saying...

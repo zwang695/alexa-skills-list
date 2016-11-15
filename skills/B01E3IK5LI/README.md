@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Vectrex Wiki icon" width="36"> [Vectrex Wiki](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ed68573c-f7f1-467d-94f1-53254b0e0fce)
+# [Vectrex Wiki](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ed68573c-f7f1-467d-94f1-53254b0e0fce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Vectrex Wiki skill, try saying...

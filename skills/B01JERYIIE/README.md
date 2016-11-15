@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="India States icon" width="36"> [India States](http://alexa.amazon.com/#skills/amzn1.ask.skill.fc80089e-5b1f-4f57-bb68-32acead42fb2)
+# [India States](http://alexa.amazon.com/#skills/amzn1.ask.skill.fc80089e-5b1f-4f57-bb68-32acead42fb2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the India States skill, try saying...

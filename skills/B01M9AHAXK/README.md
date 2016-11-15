@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Scriptures Every Day icon" width="36"> [Scriptures Every Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.b0b1fa6c-4f34-457f-9632-00dfae4c84ce)
+# [Scriptures Every Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.b0b1fa6c-4f34-457f-9632-00dfae4c84ce)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Scriptures Every Day skill, try saying...

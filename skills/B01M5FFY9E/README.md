@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Crotched Mountain icon" width="36"> [Snow Report for Crotched Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.f848896b-a9fe-40e1-9510-56e75d61025e)
+# [Snow Report for Crotched Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.f848896b-a9fe-40e1-9510-56e75d61025e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Crotched Mountain skill, try saying...

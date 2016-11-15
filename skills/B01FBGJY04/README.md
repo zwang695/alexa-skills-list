@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Egg Master icon" width="36"> [Egg Master](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.94436fc3-1391-4f7c-8112-ce4e4ea2251b)
+# [Egg Master](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.94436fc3-1391-4f7c-8112-ce4e4ea2251b)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Egg Master skill, try saying...

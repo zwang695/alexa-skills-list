@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Snow Trails icon" width="36"> [Snow Report for Snow Trails](http://alexa.amazon.com/#skills/amzn1.ask.skill.2aacfa24-2c30-4e42-813e-ba8661f8d1b0)
+# [Snow Report for Snow Trails](http://alexa.amazon.com/#skills/amzn1.ask.skill.2aacfa24-2c30-4e42-813e-ba8661f8d1b0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Snow Trails skill, try saying...

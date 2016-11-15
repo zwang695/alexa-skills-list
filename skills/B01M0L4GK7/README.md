@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lunar Phase Information icon" width="36"> [Lunar Phase Information](http://alexa.amazon.com/#skills/amzn1.ask.skill.24ea043d-8d43-471c-8fd0-668fdf818508)
+# [Lunar Phase Information](http://alexa.amazon.com/#skills/amzn1.ask.skill.24ea043d-8d43-471c-8fd0-668fdf818508)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lunar Phase Information skill, try saying...

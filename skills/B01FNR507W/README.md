@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Math Trivia icon" width="36"> [Math Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.77f482f1-1da5-4ad1-8e35-989d5faf5cc4)
+# [Math Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.77f482f1-1da5-4ad1-8e35-989d5faf5cc4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Math Trivia skill, try saying...

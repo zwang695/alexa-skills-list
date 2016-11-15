@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Florida Trivia game icon" width="36"> [Florida Trivia game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1730725c-9e18-439d-bd1e-93de84b69c26)
+# [Florida Trivia game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1730725c-9e18-439d-bd1e-93de84b69c26)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Florida Trivia game skill, try saying...

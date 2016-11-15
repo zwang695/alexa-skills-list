@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Capital Trivia icon" width="36"> [Capital Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf78d4c1-f395-44d3-a58e-8078650f49de)
+# [Capital Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf78d4c1-f395-44d3-a58e-8078650f49de)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Capital Trivia skill, try saying...

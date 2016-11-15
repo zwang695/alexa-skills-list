@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dark Brotherhood Trivia for Elder Scrolls icon" width="36"> [Dark Brotherhood Trivia for Elder Scrolls](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.da64bac1-78a7-4b8a-beae-ed8571d40381)
+# [Dark Brotherhood Trivia for Elder Scrolls](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.da64bac1-78a7-4b8a-beae-ed8571d40381)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dark Brotherhood Trivia for Elder Scrolls skill, try saying...

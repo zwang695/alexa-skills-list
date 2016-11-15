@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chapman Trivia icon" width="36"> [Chapman Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a3f81bd4-c7d0-47da-a6c9-2fb41bafe796)
+# [Chapman Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a3f81bd4-c7d0-47da-a6c9-2fb41bafe796)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chapman Trivia skill, try saying...

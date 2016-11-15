@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Boston Facts icon" width="36"> [Boston Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a8cebd7c-eb0e-4a4a-8b6d-494a3b49964d)
+# [Boston Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a8cebd7c-eb0e-4a4a-8b6d-494a3b49964d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Boston Facts skill, try saying...

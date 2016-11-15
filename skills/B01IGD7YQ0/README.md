@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Who Wants To be the smartest guy ? (trivia game) icon" width="36"> [Who Wants To be the smartest guy ? (trivia game)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.933c50c2-6648-4a7e-b10c-7c336025c6a7)
+# [Who Wants To be the smartest guy ? (trivia game)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.933c50c2-6648-4a7e-b10c-7c336025c6a7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Who Wants To be the smartest guy ? (trivia game) skill, try saying...

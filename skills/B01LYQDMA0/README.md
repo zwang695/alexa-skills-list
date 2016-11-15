@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Ski Granby Ranch icon" width="36"> [Snow Report for Ski Granby Ranch](http://alexa.amazon.com/#skills/amzn1.ask.skill.1a82922a-311d-43f1-9cea-4352890b1f7b)
+# [Snow Report for Ski Granby Ranch](http://alexa.amazon.com/#skills/amzn1.ask.skill.1a82922a-311d-43f1-9cea-4352890b1f7b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Ski Granby Ranch skill, try saying...

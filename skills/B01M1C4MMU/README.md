@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Bear Mountain icon" width="36"> [Snow Report for Bear Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.05dd2834-33c5-493f-b58b-a0f5b24814af)
+# [Snow Report for Bear Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.05dd2834-33c5-493f-b58b-a0f5b24814af)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Bear Mountain skill, try saying...

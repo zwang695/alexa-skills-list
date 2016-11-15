@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Better Life tips for modern living icon" width="36"> [Better Life tips for modern living](http://alexa.amazon.com/#skills/amzn1.ask.skill.d71b7423-28d9-4c2f-9b07-23358145d567)
+# [Better Life tips for modern living](http://alexa.amazon.com/#skills/amzn1.ask.skill.d71b7423-28d9-4c2f-9b07-23358145d567)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Better Life tips for modern living skill, try saying...

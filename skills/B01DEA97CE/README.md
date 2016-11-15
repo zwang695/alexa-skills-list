@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Calling the Hogs icon" width="36"> [Calling the Hogs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a6146902-585f-43ee-bc01-06aadaeca282)
+# [Calling the Hogs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a6146902-585f-43ee-bc01-06aadaeca282)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Calling the Hogs skill, try saying...

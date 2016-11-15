@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Peek n Peak icon" width="36"> [Snow Report for Peek n Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.a050887d-3ab4-48cb-9988-812c2b86f29e)
+# [Snow Report for Peek n Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.a050887d-3ab4-48cb-9988-812c2b86f29e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Peek n Peak skill, try saying...

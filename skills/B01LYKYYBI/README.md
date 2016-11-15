@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Giraffe A Day icon" width="36"> [Giraffe A Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.82640e6e-5b3d-4ee2-8ac6-ea46243e14dc)
+# [Giraffe A Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.82640e6e-5b3d-4ee2-8ac6-ea46243e14dc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Giraffe A Day skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Flavor Text for Hearthstone icon" width="36"> [Flavor Text for Hearthstone](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a5c7d9bd-2ba2-47a5-a1b1-0d783e1367e5)
+# [Flavor Text for Hearthstone](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a5c7d9bd-2ba2-47a5-a1b1-0d783e1367e5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Flavor Text for Hearthstone skill, try saying...

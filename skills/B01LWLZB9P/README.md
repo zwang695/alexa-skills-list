@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Work Excuse icon" width="36"> [Work Excuse](http://alexa.amazon.com/#skills/amzn1.ask.skill.2e16a366-418d-4877-b5f9-81bc38fdbb5b)
+# [Work Excuse](http://alexa.amazon.com/#skills/amzn1.ask.skill.2e16a366-418d-4877-b5f9-81bc38fdbb5b)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Work Excuse skill, try saying...

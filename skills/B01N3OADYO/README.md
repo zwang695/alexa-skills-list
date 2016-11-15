@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Herango](http://alexa.amazon.com/#skills/amzn1.ask.skill.935d357a-b1d1-41ff-b836-dfee4140e740)
+# [Herango](http://alexa.amazon.com/#skills/amzn1.ask.skill.935d357a-b1d1-41ff-b836-dfee4140e740)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

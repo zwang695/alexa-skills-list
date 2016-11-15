@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="rainy day fun icon" width="36"> [rainy day fun](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b8e8b1f3-2e5f-4c41-a91a-b01db9724ae3)
+# [rainy day fun](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b8e8b1f3-2e5f-4c41-a91a-b01db9724ae3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the rainy day fun skill, try saying...

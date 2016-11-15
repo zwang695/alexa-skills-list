@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BryansHockeyTrivia icon" width="36"> [BryansHockeyTrivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.c69e5b87-8740-4ceb-9eac-08e75749d873)
+# [BryansHockeyTrivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.c69e5b87-8740-4ceb-9eac-08e75749d873)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BryansHockeyTrivia skill, try saying...

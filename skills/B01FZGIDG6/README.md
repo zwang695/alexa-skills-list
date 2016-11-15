@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="FansOfMASH icon" width="36"> [FansOfMASH](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.24a6f2e7-9642-46c1-bc3d-4ef4a3ed5954)
+# [FansOfMASH](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.24a6f2e7-9642-46c1-bc3d-4ef4a3ed5954)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the FansOfMASH skill, try saying...

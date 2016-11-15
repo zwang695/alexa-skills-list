@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Haunted House icon" width="36"> [Haunted House](http://alexa.amazon.com/#skills/amzn1.ask.skill.3e9b888d-2090-456f-b7d3-ff5afb77c7f3)
+# [Haunted House](http://alexa.amazon.com/#skills/amzn1.ask.skill.3e9b888d-2090-456f-b7d3-ff5afb77c7f3)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Haunted House skill, try saying...

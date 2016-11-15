@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BibleTalk.tv icon" width="36"> [BibleTalk.tv](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ef26c72b-5e34-4a69-b512-94cbb9c45935)
+# [BibleTalk.tv](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ef26c72b-5e34-4a69-b512-94cbb9c45935)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BibleTalk.tv skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Home Remedy icon" width="36"> [Home Remedy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5417ad06-6656-48d6-876d-78981203995e)
+# [Home Remedy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5417ad06-6656-48d6-876d-78981203995e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Home Remedy skill, try saying...

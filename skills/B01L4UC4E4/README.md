@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Money Currency icon" width="36"> [Money Currency](http://alexa.amazon.com/#skills/amzn1.ask.skill.352b5715-b817-4832-918f-cc4810ccf414)
+# [Money Currency](http://alexa.amazon.com/#skills/amzn1.ask.skill.352b5715-b817-4832-918f-cc4810ccf414)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Money Currency skill, try saying...

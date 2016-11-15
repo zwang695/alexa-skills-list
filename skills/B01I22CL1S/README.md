@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ethics Exam icon" width="36"> [Ethics Exam](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a6467907-34df-45b0-a8b3-0ee638beabec)
+# [Ethics Exam](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a6467907-34df-45b0-a8b3-0ee638beabec)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ethics Exam skill, try saying...

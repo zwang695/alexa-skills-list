@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Georgia Trivia icon" width="36"> [Georgia Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.450ab863-0b56-4e41-9dee-79dbd8553373)
+# [Georgia Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.450ab863-0b56-4e41-9dee-79dbd8553373)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Georgia Trivia skill, try saying...

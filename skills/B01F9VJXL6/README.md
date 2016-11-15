@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Today's Ten icon" width="36"> [Today's Ten](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cad10f38-2f37-4d9a-8fcc-1ab1791ce3e4)
+# [Today's Ten](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cad10f38-2f37-4d9a-8fcc-1ab1791ce3e4)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Today's Ten skill, try saying...

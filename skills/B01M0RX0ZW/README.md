@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Natural Archive icon" width="36"> [Natural Archive](http://alexa.amazon.com/#skills/amzn1.ask.skill.1ac0ee01-707a-4600-ab35-238842c6c7eb)
+# [Natural Archive](http://alexa.amazon.com/#skills/amzn1.ask.skill.1ac0ee01-707a-4600-ab35-238842c6c7eb)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Natural Archive skill, try saying...

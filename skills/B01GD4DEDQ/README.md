@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pop Star Facts icon" width="36"> [Pop Star Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dce2fea1-ffeb-441f-8e58-9b9c6d5f8f56)
+# [Pop Star Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dce2fea1-ffeb-441f-8e58-9b9c6d5f8f56)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pop Star Facts skill, try saying...

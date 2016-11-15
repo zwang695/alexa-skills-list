@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Best Picture Oscars The Last 30 Years icon" width="36"> [Best Picture Oscars The Last 30 Years](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7141ab61-002b-42c0-b278-0efdaf46c2ff)
+# [Best Picture Oscars The Last 30 Years](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7141ab61-002b-42c0-b278-0efdaf46c2ff)
 ![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Best Picture Oscars The Last 30 Years skill, try saying...

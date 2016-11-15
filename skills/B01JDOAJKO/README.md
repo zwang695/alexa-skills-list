@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Portland Facts icon" width="36"> [Portland Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0f471c57-195e-4984-8772-8a55e5527781)
+# [Portland Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0f471c57-195e-4984-8772-8a55e5527781)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Portland Facts skill, try saying...

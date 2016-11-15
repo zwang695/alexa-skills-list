@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Puzzled Pint icon" width="36"> [Puzzled Pint](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a9597f5-bd5d-4bba-889f-ec173661de28)
+# [Puzzled Pint](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a9597f5-bd5d-4bba-889f-ec173661de28)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Puzzled Pint skill, try saying...

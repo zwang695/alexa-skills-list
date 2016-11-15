@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="C. I. C. Facts icon" width="36"> [C. I. C. Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.efbaf989-1a44-422d-93ab-c66f830901b8)
+# [C. I. C. Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.efbaf989-1a44-422d-93ab-c66f830901b8)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the C. I. C. Facts skill, try saying...

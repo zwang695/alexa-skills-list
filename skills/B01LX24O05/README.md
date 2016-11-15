@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CNN icon" width="36"> [CNN](http://alexa.amazon.com/#skills/amzn1.ask.skill.c9f682ae-2626-446f-82b1-c6641af24240)
+# [CNN](http://alexa.amazon.com/#skills/amzn1.ask.skill.c9f682ae-2626-446f-82b1-c6641af24240)
 ![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 18
 
 To use the CNN skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Red Lodge icon" width="36"> [Snow Report for Red Lodge](http://alexa.amazon.com/#skills/amzn1.ask.skill.094cd799-6721-49e9-8461-cca1cbb80c21)
+# [Snow Report for Red Lodge](http://alexa.amazon.com/#skills/amzn1.ask.skill.094cd799-6721-49e9-8461-cca1cbb80c21)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Red Lodge skill, try saying...

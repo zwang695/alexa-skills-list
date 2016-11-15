@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Box of Birds icon" width="36"> [Box of Birds](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c4b42dc3-8a42-4136-b8c9-5d4874d9fbe2)
+# [Box of Birds](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c4b42dc3-8a42-4136-b8c9-5d4874d9fbe2)
 ![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Box of Birds skill, try saying...

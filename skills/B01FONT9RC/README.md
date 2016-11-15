@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Football Crime icon" width="36"> [Football Crime](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a97dc92-2470-4080-a7bb-2667f3eb84f2)
+# [Football Crime](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a97dc92-2470-4080-a7bb-2667f3eb84f2)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Football Crime skill, try saying...

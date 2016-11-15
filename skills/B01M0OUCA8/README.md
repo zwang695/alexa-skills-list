@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Squirrel Facts icon" width="36"> [Squirrel Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e476663d-bc49-49d8-b650-74b670e761d8)
+# [Squirrel Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e476663d-bc49-49d8-b650-74b670e761d8)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Squirrel Facts skill, try saying...

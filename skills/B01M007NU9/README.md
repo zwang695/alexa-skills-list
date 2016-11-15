@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts about Wrestling icon" width="36"> [Facts about Wrestling](http://alexa.amazon.com/#skills/amzn1.ask.skill.729a0317-60c0-4559-a371-5ecc49df230e)
+# [Facts about Wrestling](http://alexa.amazon.com/#skills/amzn1.ask.skill.729a0317-60c0-4559-a371-5ecc49df230e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts about Wrestling skill, try saying...

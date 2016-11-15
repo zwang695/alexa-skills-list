@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="GigglesWare icon" width="36"> [GigglesWare](http://alexa.amazon.com/#skills/amzn1.ask.skill.89584c9a-32d0-4099-a674-d421e61afdb8)
+# [GigglesWare](http://alexa.amazon.com/#skills/amzn1.ask.skill.89584c9a-32d0-4099-a674-d421e61afdb8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the GigglesWare skill, try saying...

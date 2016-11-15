@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Vietnam Facts icon" width="36"> [Vietnam Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3dcc43fe-bd56-4148-ba65-ba0b2de7198b)
+# [Vietnam Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3dcc43fe-bd56-4148-ba65-ba0b2de7198b)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Vietnam Facts skill, try saying...

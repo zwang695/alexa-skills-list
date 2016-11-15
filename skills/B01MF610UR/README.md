@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Science Quiz icon" width="36"> [Science Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.86a02501-065a-4346-8c8f-89bdd7b6fccc)
+# [Science Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.86a02501-065a-4346-8c8f-89bdd7b6fccc)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Science Quiz skill, try saying...

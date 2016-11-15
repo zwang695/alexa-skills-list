@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Berkshire East icon" width="36"> [Snow Report for Berkshire East](http://alexa.amazon.com/#skills/amzn1.ask.skill.52266430-8928-47e0-aa66-bd27637c5f6e)
+# [Snow Report for Berkshire East](http://alexa.amazon.com/#skills/amzn1.ask.skill.52266430-8928-47e0-aa66-bd27637c5f6e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Berkshire East skill, try saying...

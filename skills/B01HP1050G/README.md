@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tennessee Trivia icon" width="36"> [Tennessee Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e64f71ef-5f57-4946-8987-be100fe3e09a)
+# [Tennessee Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e64f71ef-5f57-4946-8987-be100fe3e09a)
 ![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Tennessee Trivia skill, try saying...

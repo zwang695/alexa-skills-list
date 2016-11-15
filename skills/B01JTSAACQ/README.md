@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dragon Facts icon" width="36"> [Dragon Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3e27872b-3629-44d5-9ff5-f68ea39ca98f)
+# [Dragon Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3e27872b-3629-44d5-9ff5-f68ea39ca98f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dragon Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="New York Basketball Trivia icon" width="36"> [New York Basketball Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a94b9c11-ebe3-41b3-bd20-12e34372256f)
+# [New York Basketball Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a94b9c11-ebe3-41b3-bd20-12e34372256f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the New York Basketball Trivia skill, try saying...

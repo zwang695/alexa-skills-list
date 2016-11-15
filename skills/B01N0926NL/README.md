@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mont Olympia icon" width="36"> [Snow Report for Mont Olympia](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8873c05-2e0e-4413-9817-ccfd0e6e30f3)
+# [Snow Report for Mont Olympia](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8873c05-2e0e-4413-9817-ccfd0e6e30f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mont Olympia skill, try saying...

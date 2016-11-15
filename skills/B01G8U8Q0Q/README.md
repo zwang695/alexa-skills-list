@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ABFM Board Review icon" width="36"> [ABFM Board Review](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2a485f3a-680b-4337-827d-1772222125bc)
+# [ABFM Board Review](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2a485f3a-680b-4337-827d-1772222125bc)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the ABFM Board Review skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lutron Connect icon" width="36"> [Lutron Connect](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0f54a97-8925-4365-bda3-8e1357c223ae)
+# [Lutron Connect](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0f54a97-8925-4365-bda3-8e1357c223ae)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 Lutron Connect works seamlessly with Alexa to provide whole home control of your lights, shades and temperature via scenes in your Lutron RadioRA2 or Lutron HomeWorks QS system. *

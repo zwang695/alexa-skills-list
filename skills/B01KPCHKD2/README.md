@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="People Facts icon" width="36"> [People Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d58fdb5-ead0-4452-90c7-16bef3382c90)
+# [People Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d58fdb5-ead0-4452-90c7-16bef3382c90)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the People Facts skill, try saying...

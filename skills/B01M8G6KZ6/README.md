@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="PB Helper icon" width="36"> [PB Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.0ccdce82-8bdf-470a-b3ab-8f9a8978175f)
+# [PB Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.0ccdce82-8bdf-470a-b3ab-8f9a8978175f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the PB Helper skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CHS Quiz Bowl Challenge icon" width="36"> [CHS Quiz Bowl Challenge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.82cc95b3-3224-44a9-9f66-72e358894ab7)
+# [CHS Quiz Bowl Challenge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.82cc95b3-3224-44a9-9f66-72e358894ab7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CHS Quiz Bowl Challenge skill, try saying...

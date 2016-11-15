@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Movie Picker icon" width="36"> [Movie Picker](http://alexa.amazon.com/#skills/amzn1.ask.skill.d54adf30-587c-4b62-97f0-d29c9f763903)
+# [Movie Picker](http://alexa.amazon.com/#skills/amzn1.ask.skill.d54adf30-587c-4b62-97f0-d29c9f763903)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Movie Picker skill, try saying...

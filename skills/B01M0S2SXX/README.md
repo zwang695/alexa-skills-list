@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pickup LInes icon" width="36"> [Pickup LInes](http://alexa.amazon.com/#skills/amzn1.ask.skill.f411795b-cde9-438e-aa79-f43d3cacada7)
+# [Pickup LInes](http://alexa.amazon.com/#skills/amzn1.ask.skill.f411795b-cde9-438e-aa79-f43d3cacada7)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Pickup LInes skill, try saying...

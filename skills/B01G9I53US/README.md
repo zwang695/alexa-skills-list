@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SlaterBug icon" width="36"> [SlaterBug](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9d207d07-866c-4165-b270-865e6bc1c540)
+# [SlaterBug](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9d207d07-866c-4165-b270-865e6bc1c540)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the SlaterBug skill, try saying...

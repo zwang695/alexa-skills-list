@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Video Game Trivia icon" width="36"> [Video Game Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.2f7c6569-fe07-4d0d-8eb5-392488300735)
+# [Video Game Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.2f7c6569-fe07-4d0d-8eb5-392488300735)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Video Game Trivia skill, try saying...

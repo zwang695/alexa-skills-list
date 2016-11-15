@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sous Chef Recipes icon" width="36"> [Sous Chef Recipes](http://alexa.amazon.com/#skills/amzn1.ask.skill.39d8c2eb-b161-4249-80fa-c8a8c3960035)
+# [Sous Chef Recipes](http://alexa.amazon.com/#skills/amzn1.ask.skill.39d8c2eb-b161-4249-80fa-c8a8c3960035)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Sous Chef Recipes skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Telescope Tom icon" width="36"> [Telescope Tom](http://alexa.amazon.com/#skills/amzn1.ask.skill.91cd74c2-677e-4196-9631-7d82ea1f528b)
+# [Telescope Tom](http://alexa.amazon.com/#skills/amzn1.ask.skill.91cd74c2-677e-4196-9631-7d82ea1f528b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Telescope Tom skill, try saying...

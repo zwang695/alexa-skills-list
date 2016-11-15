@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Martial Art Trivia icon" width="36"> [Martial Art Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.14518985-6678-4fd3-8b8c-195b96482428)
+# [Martial Art Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.14518985-6678-4fd3-8b8c-195b96482428)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Martial Art Trivia skill, try saying...

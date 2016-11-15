@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="unofficialSimpsonsQuotes icon" width="36"> [unofficialSimpsonsQuotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.0fe5b452-136b-45a1-8e16-a76a8571350e)
+# [unofficialSimpsonsQuotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.0fe5b452-136b-45a1-8e16-a76a8571350e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the unofficialSimpsonsQuotes skill, try saying...

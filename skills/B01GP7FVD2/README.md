@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cheetah for Runkeeper icon" width="36"> [Cheetah for Runkeeper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e5cffef4-0ce6-45be-a58b-2f83d3c6c72c)
+# [Cheetah for Runkeeper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e5cffef4-0ce6-45be-a58b-2f83d3c6c72c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cheetah for Runkeeper skill, try saying...

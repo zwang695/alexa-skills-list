@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Caberfae Peaks icon" width="36"> [Snow Report for Caberfae Peaks](http://alexa.amazon.com/#skills/amzn1.ask.skill.a254305f-92df-475e-af40-bbc6b70fa20a)
+# [Snow Report for Caberfae Peaks](http://alexa.amazon.com/#skills/amzn1.ask.skill.a254305f-92df-475e-af40-bbc6b70fa20a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Caberfae Peaks skill, try saying...

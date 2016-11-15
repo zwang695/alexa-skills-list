@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Martian Facts icon" width="36"> [Martian Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1de1d861-ef0f-44b8-9d7c-cda512d53fbe)
+# [Martian Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1de1d861-ef0f-44b8-9d7c-cda512d53fbe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Martian Facts skill, try saying...

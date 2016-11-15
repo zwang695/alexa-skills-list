@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nag My Kids icon" width="36"> [Nag My Kids](http://alexa.amazon.com/#skills/amzn1.ask.skill.0ef283ef-25a1-43e7-862b-e597a0d1f2f1)
+# [Nag My Kids](http://alexa.amazon.com/#skills/amzn1.ask.skill.0ef283ef-25a1-43e7-862b-e597a0d1f2f1)
 ![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Nag My Kids skill, try saying...

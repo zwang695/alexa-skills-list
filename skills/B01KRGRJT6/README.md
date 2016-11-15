@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Facts icon" width="36"> [Random Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.07f3d31a-1edb-4b48-b337-628f6da90d3b)
+# [Random Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.07f3d31a-1edb-4b48-b337-628f6da90d3b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Facts skill, try saying...

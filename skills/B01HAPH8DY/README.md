@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Football Fun Facts icon" width="36"> [Football Fun Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4ecbe743-7690-42bd-a32c-7aeb07f62d42)
+# [Football Fun Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4ecbe743-7690-42bd-a32c-7aeb07f62d42)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Football Fun Facts skill, try saying...

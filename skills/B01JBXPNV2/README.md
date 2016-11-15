@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chuck Joke icon" width="36"> [Chuck Joke](http://alexa.amazon.com/#skills/amzn1.ask.skill.ffeb980c-a81f-4e42-80b6-a7f406b5365a)
+# [Chuck Joke](http://alexa.amazon.com/#skills/amzn1.ask.skill.ffeb980c-a81f-4e42-80b6-a7f406b5365a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chuck Joke skill, try saying...

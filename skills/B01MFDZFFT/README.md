@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hacker News Articles icon" width="36"> [Hacker News Articles](http://alexa.amazon.com/#skills/amzn1.ask.skill.c46cf73e-1e11-4c17-b2c9-b41748255436)
+# [Hacker News Articles](http://alexa.amazon.com/#skills/amzn1.ask.skill.c46cf73e-1e11-4c17-b2c9-b41748255436)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hacker News Articles skill, try saying...

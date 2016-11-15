@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Whitefish Mountain Resort icon" width="36"> [Snow Report for Whitefish Mountain Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.f9ef0126-0696-46bb-8b06-473ff69b4803)
+# [Snow Report for Whitefish Mountain Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.f9ef0126-0696-46bb-8b06-473ff69b4803)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Snow Report for Whitefish Mountain Resort skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Win your Interview icon" width="36"> [Win your Interview](http://alexa.amazon.com/#skills/amzn1.ask.skill.a56e641d-6563-44f9-9aaa-a7508fec3f11)
+# [Win your Interview](http://alexa.amazon.com/#skills/amzn1.ask.skill.a56e641d-6563-44f9-9aaa-a7508fec3f11)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Win your Interview skill, try saying...

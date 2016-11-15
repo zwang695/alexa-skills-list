@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Guessing Game icon" width="36"> [Guessing Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a38e36d4-5340-4597-872a-d831188bd3fb)
+# [Guessing Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a38e36d4-5340-4597-872a-d831188bd3fb)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Guessing Game skill, try saying...

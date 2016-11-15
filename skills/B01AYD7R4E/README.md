@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MyMessages icon" width="36"> [MyMessages](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.21a387d7-c230-46c6-b99b-4891708dee7b)
+# [MyMessages](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.21a387d7-c230-46c6-b99b-4891708dee7b)
 ![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 17
 
 To use the MyMessages skill, try saying...

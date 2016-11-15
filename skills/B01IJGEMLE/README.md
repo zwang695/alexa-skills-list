@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Country Guru icon" width="36"> [Country Guru](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9fde2fa8-2fe6-4703-b9ea-255340842c9e)
+# [Country Guru](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9fde2fa8-2fe6-4703-b9ea-255340842c9e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Country Guru skill, try saying...

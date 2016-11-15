@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sharing Economy icon" width="36"> [Sharing Economy](http://alexa.amazon.com/#skills/amzn1.ask.skill.5ed16dfd-faee-47c1-84b1-f2c124805cb0)
+# [Sharing Economy](http://alexa.amazon.com/#skills/amzn1.ask.skill.5ed16dfd-faee-47c1-84b1-f2c124805cb0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sharing Economy skill, try saying...

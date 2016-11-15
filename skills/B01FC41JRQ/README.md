@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lobste.rs Headlines icon" width="36"> [Lobste.rs Headlines](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.74bcdf60-755c-417d-9b87-7084ec91475f)
+# [Lobste.rs Headlines](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.74bcdf60-755c-417d-9b87-7084ec91475f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lobste.rs Headlines skill, try saying...

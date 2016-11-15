@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Portland Oregon Trivia icon" width="36"> [Portland Oregon Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.5fe9d3b2-c604-4235-a612-2750b21a4779)
+# [Portland Oregon Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.5fe9d3b2-c604-4235-a612-2750b21a4779)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Portland Oregon Trivia skill, try saying...

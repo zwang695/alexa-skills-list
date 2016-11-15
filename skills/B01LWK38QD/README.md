@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hive - Optimised for Smart Home icon" width="36"> [Hive - Optimised for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.f7e88bbf-bcdf-4727-a7f8-57f572677a37)
+# [Hive - Optimised for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.f7e88bbf-bcdf-4727-a7f8-57f572677a37)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 Welcome to the basic Hive skill for Alexa.  This skill will enable you to ask Alexa to control your connected Hive devices.

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nautical Terms Quiz icon" width="36"> [Nautical Terms Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bbef7200-54a5-43da-9ad6-5c5fabb99f2f)
+# [Nautical Terms Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bbef7200-54a5-43da-9ad6-5c5fabb99f2f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Nautical Terms Quiz skill, try saying...

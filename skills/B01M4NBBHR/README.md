@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for West Mountain icon" width="36"> [Snow Report for West Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.5e7d94df-067b-48eb-aa61-a9e2e0c6603a)
+# [Snow Report for West Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.5e7d94df-067b-48eb-aa61-a9e2e0c6603a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for West Mountain skill, try saying...

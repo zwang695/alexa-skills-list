@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Verse of the Day icon" width="36"> [Verse of the Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.104f1e89-0c12-4dea-9057-832e88b3b60e)
+# [Verse of the Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.104f1e89-0c12-4dea-9057-832e88b3b60e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Verse of the Day skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dark Cave icon" width="36"> [Dark Cave](http://alexa.amazon.com/#skills/amzn1.ask.skill.d17a8228-0018-408e-b31f-5ed20bcededf)
+# [Dark Cave](http://alexa.amazon.com/#skills/amzn1.ask.skill.d17a8228-0018-408e-b31f-5ed20bcededf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dark Cave skill, try saying...

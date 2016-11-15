@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Company Facts icon" width="36"> [Company Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.66c0fbbd-cc85-4e5f-b516-7d9cc5222fbd)
+# [Company Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.66c0fbbd-cc85-4e5f-b516-7d9cc5222fbd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Company Facts skill, try saying...

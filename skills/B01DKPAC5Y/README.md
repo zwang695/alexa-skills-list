@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Safety Tips Games icon" width="36"> [Safety Tips Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.89fee87f-cce6-4f30-9718-da9950898a1a)
+# [Safety Tips Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.89fee87f-cce6-4f30-9718-da9950898a1a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Safety Tips Games skill, try saying...

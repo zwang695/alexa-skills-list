@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Homewood Mountain icon" width="36"> [Snow Report for Homewood Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee83404f-91f6-4be6-bf77-1fbf16e56c42)
+# [Snow Report for Homewood Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee83404f-91f6-4be6-bf77-1fbf16e56c42)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Homewood Mountain skill, try saying...

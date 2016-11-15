@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Inspirational Women icon" width="36"> [Inspirational Women](http://alexa.amazon.com/#skills/amzn1.ask.skill.5d9c2785-fdb8-4a8d-b558-6c18ff46a2a4)
+# [Inspirational Women](http://alexa.amazon.com/#skills/amzn1.ask.skill.5d9c2785-fdb8-4a8d-b558-6c18ff46a2a4)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Inspirational Women skill, try saying...

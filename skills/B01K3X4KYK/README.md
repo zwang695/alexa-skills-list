@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Brain Teasers! icon" width="36"> [Brain Teasers!](http://alexa.amazon.com/#skills/amzn1.ask.skill.01c35950-a0bf-4acc-8cd1-c55fbc17950c)
+# [Brain Teasers!](http://alexa.amazon.com/#skills/amzn1.ask.skill.01c35950-a0bf-4acc-8cd1-c55fbc17950c)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Brain Teasers! skill, try saying...

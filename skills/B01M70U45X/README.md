@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Serverless Architecture icon" width="36"> [Serverless Architecture](http://alexa.amazon.com/#skills/amzn1.ask.skill.08d8942a-16f2-4a71-8e89-28d270ed6e13)
+# [Serverless Architecture](http://alexa.amazon.com/#skills/amzn1.ask.skill.08d8942a-16f2-4a71-8e89-28d270ed6e13)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Serverless Architecture skill, try saying...

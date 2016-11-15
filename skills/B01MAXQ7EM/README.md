@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Spanish Dream Places icon" width="36"> [Spanish Dream Places](http://alexa.amazon.com/#skills/amzn1.ask.skill.ddf25215-53df-4a2c-ad5b-48b209afd58e)
+# [Spanish Dream Places](http://alexa.amazon.com/#skills/amzn1.ask.skill.ddf25215-53df-4a2c-ad5b-48b209afd58e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Spanish Dream Places skill, try saying...

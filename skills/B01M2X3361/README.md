@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [David Smith](http://alexa.amazon.com/#skills/amzn1.ask.skill.013cb29b-03d8-43d3-9cdf-32bcdaa62bd9)
+# [David Smith](http://alexa.amazon.com/#skills/amzn1.ask.skill.013cb29b-03d8-43d3-9cdf-32bcdaa62bd9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

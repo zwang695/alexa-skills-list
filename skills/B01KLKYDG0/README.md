@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Techno Babble icon" width="36"> [Techno Babble](http://alexa.amazon.com/#skills/amzn1.ask.skill.07efac2f-093b-4c38-84ed-5ff60295577c)
+# [Techno Babble](http://alexa.amazon.com/#skills/amzn1.ask.skill.07efac2f-093b-4c38-84ed-5ff60295577c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Techno Babble skill, try saying...

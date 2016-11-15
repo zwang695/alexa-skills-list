@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ludo Helper icon" width="36"> [Ludo Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.78069a48-6f51-4441-b20a-a757c7c6362d)
+# [Ludo Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.78069a48-6f51-4441-b20a-a757c7c6362d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ludo Helper skill, try saying...

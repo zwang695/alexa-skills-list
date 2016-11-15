@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Memory Lane icon" width="36"> [Memory Lane](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0b3b6db6-ddb9-4a7d-a77a-8658f78bc031)
+# [Memory Lane](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0b3b6db6-ddb9-4a7d-a77a-8658f78bc031)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Memory Lane skill, try saying...

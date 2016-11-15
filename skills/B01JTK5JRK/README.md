@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The annoying parrot icon" width="36"> [The annoying parrot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d373f712-0b9f-4685-b9ac-e7e5cb11e54c)
+# [The annoying parrot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d373f712-0b9f-4685-b9ac-e7e5cb11e54c)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the The annoying parrot skill, try saying...

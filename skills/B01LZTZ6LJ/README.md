@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="GOT fact icon" width="36"> [GOT fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.7c4bb79f-9932-4494-bf6f-ebb047eb2eab)
+# [GOT fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.7c4bb79f-9932-4494-bf6f-ebb047eb2eab)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the GOT fact skill, try saying...

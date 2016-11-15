@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Brain Cage icon" width="36"> [Brain Cage](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f6d980c4-e4f0-496a-87ab-356df798b658)
+# [Brain Cage](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f6d980c4-e4f0-496a-87ab-356df798b658)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Brain Cage skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Blue Mountain Resort (ON) icon" width="36"> [Snow Report for Blue Mountain Resort (ON)](http://alexa.amazon.com/#skills/amzn1.ask.skill.76191426-4ef1-4926-a944-c3f80f93ad7a)
+# [Snow Report for Blue Mountain Resort (ON)](http://alexa.amazon.com/#skills/amzn1.ask.skill.76191426-4ef1-4926-a944-c3f80f93ad7a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Blue Mountain Resort (ON) skill, try saying...

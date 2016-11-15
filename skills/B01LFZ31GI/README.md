@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="General Class Ham Cram icon" width="36"> [General Class Ham Cram](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2d02e258-978d-46c7-a52c-ba35249dd50b)
+# [General Class Ham Cram](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2d02e258-978d-46c7-a52c-ba35249dd50b)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the General Class Ham Cram skill, try saying...

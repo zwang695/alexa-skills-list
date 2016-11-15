@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Solar System Trivia icon" width="36"> [Solar System Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.aa81f528-8873-4cb0-81ea-67c04d9cbf85)
+# [Solar System Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.aa81f528-8873-4cb0-81ea-67c04d9cbf85)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Solar System Trivia skill, try saying...

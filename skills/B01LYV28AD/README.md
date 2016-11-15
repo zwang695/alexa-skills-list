@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Quotes icon" width="36"> [Daily Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.2fad6963-5be4-45f8-9582-b4f74f2ecc28)
+# [Daily Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.2fad6963-5be4-45f8-9582-b4f74f2ecc28)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Daily Quotes skill, try saying...

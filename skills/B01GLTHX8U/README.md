@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Extended Selenium Two icon" width="36"> [Extended Selenium Two](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.42837a3d-73b9-4122-ad67-d1b859817129)
+# [Extended Selenium Two](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.42837a3d-73b9-4122-ad67-d1b859817129)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Extended Selenium Two skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Labyrinth icon" width="36"> [Unofficial Labyrinth](http://alexa.amazon.com/#skills/amzn1.ask.skill.130f67fc-6da4-493b-b93a-4d2c594e29c2)
+# [Unofficial Labyrinth](http://alexa.amazon.com/#skills/amzn1.ask.skill.130f67fc-6da4-493b-b93a-4d2c594e29c2)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Unofficial Labyrinth skill, try saying...

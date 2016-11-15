@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Quiz on Harry Potter icon" width="36"> [Quiz on Harry Potter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.93f95a5e-1b50-44b1-b7a0-be8d09a58fd9)
+# [Quiz on Harry Potter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.93f95a5e-1b50-44b1-b7a0-be8d09a58fd9)
 ![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Quiz on Harry Potter skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Magic Podcast icon" width="36"> [Magic Podcast](http://alexa.amazon.com/#skills/amzn1.ask.skill.7ca22c2a-8ca9-4930-a833-76c7dae6f1de)
+# [Magic Podcast](http://alexa.amazon.com/#skills/amzn1.ask.skill.7ca22c2a-8ca9-4930-a833-76c7dae6f1de)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Magic Podcast skill, try saying...

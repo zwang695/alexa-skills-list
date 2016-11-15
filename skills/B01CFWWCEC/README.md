@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Easter Trivia icon" width="36"> [Easter Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.57bca020-bcb4-473f-83fb-c7713f61a9a7)
+# [Easter Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.57bca020-bcb4-473f-83fb-c7713f61a9a7)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Easter Trivia skill, try saying...

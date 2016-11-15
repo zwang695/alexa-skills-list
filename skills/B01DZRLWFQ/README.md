@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="30Sec icon" width="36"> [30Sec](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dc1a72a8-7c6d-4679-b5f9-5356e1e71cca)
+# [30Sec](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dc1a72a8-7c6d-4679-b5f9-5356e1e71cca)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the 30Sec skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ghana Trivia icon" width="36"> [Ghana Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.df366aa7-11cd-4342-b360-0e797f02c10e)
+# [Ghana Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.df366aa7-11cd-4342-b360-0e797f02c10e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ghana Trivia skill, try saying...

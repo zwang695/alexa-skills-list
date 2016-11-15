@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="A Scout Is icon" width="36"> [A Scout Is](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c623d01d-626c-48db-994e-a4b98ec6a896)
+# [A Scout Is](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c623d01d-626c-48db-994e-a4b98ec6a896)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the A Scout Is skill, try saying...

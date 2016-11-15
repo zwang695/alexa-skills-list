@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Internet Nerd icon" width="36"> [Internet Nerd](http://alexa.amazon.com/#skills/amzn1.ask.skill.c3153cbc-a438-4a13-a19f-7b73fd2fa39a)
+# [Internet Nerd](http://alexa.amazon.com/#skills/amzn1.ask.skill.c3153cbc-a438-4a13-a19f-7b73fd2fa39a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Internet Nerd skill, try saying...

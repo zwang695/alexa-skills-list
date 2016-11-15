@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Soda Springs icon" width="36"> [Snow Report for Soda Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.da28b0fc-25e7-40fc-82b1-ac289e3c45e6)
+# [Snow Report for Soda Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.da28b0fc-25e7-40fc-82b1-ac289e3c45e6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Soda Springs skill, try saying...

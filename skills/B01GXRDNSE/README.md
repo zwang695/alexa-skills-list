@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Eddy Voice Remote icon" width="36"> [Eddy Voice Remote](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.194b7d6a-18e3-4c94-b4c9-6d921bd21a6d)
+# [Eddy Voice Remote](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.194b7d6a-18e3-4c94-b4c9-6d921bd21a6d)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Eddy Voice Remote skill, try saying...

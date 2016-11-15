@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SongTranslator icon" width="36"> [SongTranslator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.065f8e9c-d596-4e40-beea-f6935ea7e2b0)
+# [SongTranslator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.065f8e9c-d596-4e40-beea-f6935ea7e2b0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the SongTranslator skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Incorrect Facts icon" width="36"> [Incorrect Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4777403f-1391-408f-9174-5beba4e8a20d)
+# [Incorrect Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4777403f-1391-408f-9174-5beba4e8a20d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Incorrect Facts skill, try saying...

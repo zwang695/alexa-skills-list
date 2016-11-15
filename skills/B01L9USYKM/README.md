@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computer Science Fact icon" width="36"> [Computer Science Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.7234ebd1-30c8-485a-8de8-b399594afc2e)
+# [Computer Science Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.7234ebd1-30c8-485a-8de8-b399594afc2e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Computer Science Fact skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Operator Excuses icon" width="36"> [Operator Excuses](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e3af4e38-ea7d-4c6b-b651-f68c8e8cf5a0)
+# [Operator Excuses](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e3af4e38-ea7d-4c6b-b651-f68c8e8cf5a0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Operator Excuses skill, try saying...

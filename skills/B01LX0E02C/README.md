@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Loup Loup Ski Bowl icon" width="36"> [Snow Report for Loup Loup Ski Bowl](http://alexa.amazon.com/#skills/amzn1.ask.skill.c1c851bb-5321-4711-99b9-9ca236e08a85)
+# [Snow Report for Loup Loup Ski Bowl](http://alexa.amazon.com/#skills/amzn1.ask.skill.c1c851bb-5321-4711-99b9-9ca236e08a85)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Loup Loup Ski Bowl skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Spelling Alphabet icon" width="36"> [Spelling Alphabet](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3b56af3d-b274-46e7-b017-1e558ffd2401)
+# [Spelling Alphabet](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3b56af3d-b274-46e7-b017-1e558ffd2401)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Spelling Alphabet skill, try saying...

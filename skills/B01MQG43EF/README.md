@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Apex Facts icon" width="36"> [Apex Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.25fd181f-3e52-4865-b8d5-a5f928c06d1a)
+# [Apex Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.25fd181f-3e52-4865-b8d5-a5f928c06d1a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Apex Facts skill, try saying...

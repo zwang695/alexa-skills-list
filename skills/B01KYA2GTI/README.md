@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Zip Code Information icon" width="36"> [Zip Code Information](http://alexa.amazon.com/#skills/amzn1.ask.skill.c406302d-5a30-4bd3-8cf8-152b96d486de)
+# [Zip Code Information](http://alexa.amazon.com/#skills/amzn1.ask.skill.c406302d-5a30-4bd3-8cf8-152b96d486de)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Zip Code Information skill, try saying...

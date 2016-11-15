@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Yes or No Answer icon" width="36"> [Yes or No Answer](http://alexa.amazon.com/#skills/amzn1.ask.skill.a33c888d-ce17-4aef-b794-e61865479dd3)
+# [Yes or No Answer](http://alexa.amazon.com/#skills/amzn1.ask.skill.a33c888d-ce17-4aef-b794-e61865479dd3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Yes or No Answer skill, try saying...

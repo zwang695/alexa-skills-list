@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="FunnyDad icon" width="36"> [FunnyDad](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db589e23-eb65-45af-ac6b-f07613ddefa0)
+# [FunnyDad](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db589e23-eb65-45af-ac6b-f07613ddefa0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the FunnyDad skill, try saying...

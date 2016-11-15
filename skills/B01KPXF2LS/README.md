@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="FireBoard - Cloud Connected Smart Thermometer icon" width="36"> [FireBoard - Cloud Connected Smart Thermometer](http://alexa.amazon.com/#skills/amzn1.ask.skill.1ebaadc2-93e0-4f0f-9ea0-522aa9e5787c)
+# [FireBoard - Cloud Connected Smart Thermometer](http://alexa.amazon.com/#skills/amzn1.ask.skill.1ebaadc2-93e0-4f0f-9ea0-522aa9e5787c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the FireBoard - Cloud Connected Smart Thermometer skill, try saying...

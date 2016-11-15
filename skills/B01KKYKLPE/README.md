@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Football Teams icon" width="36"> [Football Teams](http://alexa.amazon.com/#skills/amzn1.ask.skill.821dc1f9-169f-443e-a5f9-33d18775afc1)
+# [Football Teams](http://alexa.amazon.com/#skills/amzn1.ask.skill.821dc1f9-169f-443e-a5f9-33d18775afc1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Football Teams skill, try saying...

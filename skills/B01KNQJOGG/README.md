@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="JokeBot icon" width="36"> [JokeBot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5bb80222-c823-498f-b4cf-e80e0970ac42)
+# [JokeBot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5bb80222-c823-498f-b4cf-e80e0970ac42)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the JokeBot skill, try saying...

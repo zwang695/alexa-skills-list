@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Debby Onsite icon" width="36"> [Debby Onsite](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c2abc186-90f1-4b5d-ad6f-534fd01eb940)
+# [Debby Onsite](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c2abc186-90f1-4b5d-ad6f-534fd01eb940)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Debby Onsite skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Seven Kingdoms icon" width="36"> [The Seven Kingdoms](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.62243547-0e42-4255-92b6-211ba40262f5)
+# [The Seven Kingdoms](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.62243547-0e42-4255-92b6-211ba40262f5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Seven Kingdoms skill, try saying...

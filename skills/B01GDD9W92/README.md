@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BodyGeek icon" width="36"> [BodyGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.505a58bf-f9fc-4710-b15c-64a172af9f61)
+# [BodyGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.505a58bf-f9fc-4710-b15c-64a172af9f61)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the BodyGeek skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="London Air Quality icon" width="36"> [London Air Quality](http://alexa.amazon.com/#skills/amzn1.ask.skill.2282934b-96f9-4af1-bd30-583a3530729f)
+# [London Air Quality](http://alexa.amazon.com/#skills/amzn1.ask.skill.2282934b-96f9-4af1-bd30-583a3530729f)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the London Air Quality skill, try saying...

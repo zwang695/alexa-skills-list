@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tr1v1@ G@m3 icon" width="36"> [Tr1v1@ G@m3](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cbde124b-3d3d-4e1f-b2d1-e149e9c26857)
+# [Tr1v1@ G@m3](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cbde124b-3d3d-4e1f-b2d1-e149e9c26857)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tr1v1@ G@m3 skill, try saying...

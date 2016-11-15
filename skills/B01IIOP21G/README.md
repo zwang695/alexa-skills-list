@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lansing River Trail icon" width="36"> [Lansing River Trail](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cb2187c7-6d88-4605-bdfb-15b76eef7f01)
+# [Lansing River Trail](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cb2187c7-6d88-4605-bdfb-15b76eef7f01)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lansing River Trail skill, try saying...

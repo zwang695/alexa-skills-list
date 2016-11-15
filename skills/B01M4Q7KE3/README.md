@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sint Maarten Quiz icon" width="36"> [Sint Maarten Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.9ff38b7a-acd2-43d3-b63f-ea173f990be2)
+# [Sint Maarten Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.9ff38b7a-acd2-43d3-b63f-ea173f990be2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sint Maarten Quiz skill, try saying...

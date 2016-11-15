@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DogGeek icon" width="36"> [DogGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dde28ba0-b8ac-46d2-909d-079c3a179674)
+# [DogGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dde28ba0-b8ac-46d2-909d-079c3a179674)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the DogGeek skill, try saying...

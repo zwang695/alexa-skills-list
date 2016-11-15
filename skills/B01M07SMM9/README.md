@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="How Should I Workout? icon" width="36"> [How Should I Workout?](http://alexa.amazon.com/#skills/amzn1.ask.skill.e4c761a7-37d2-423e-b328-5e3180472daf)
+# [How Should I Workout?](http://alexa.amazon.com/#skills/amzn1.ask.skill.e4c761a7-37d2-423e-b328-5e3180472daf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the How Should I Workout? skill, try saying...

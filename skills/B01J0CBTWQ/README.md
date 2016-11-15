@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="World Records icon" width="36"> [World Records](http://alexa.amazon.com/#skills/amzn1.ask.skill.9302c0a2-9c7e-4bbc-851f-2a1cdc49b4fc)
+# [World Records](http://alexa.amazon.com/#skills/amzn1.ask.skill.9302c0a2-9c7e-4bbc-851f-2a1cdc49b4fc)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the World Records skill, try saying...

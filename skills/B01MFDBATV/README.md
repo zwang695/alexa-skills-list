@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Brownie Points Skill icon" width="36"> [Brownie Points Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.2259e304-b4c7-4986-a2f3-8bf812bae384)
+# [Brownie Points Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.2259e304-b4c7-4986-a2f3-8bf812bae384)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Brownie Points Skill skill, try saying...

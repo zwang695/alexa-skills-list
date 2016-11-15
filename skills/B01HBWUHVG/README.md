@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Memory Game icon" width="36"> [Memory Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e44a39ba-6609-4542-8ee0-39524faee764)
+# [Memory Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e44a39ba-6609-4542-8ee0-39524faee764)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Memory Game skill, try saying...

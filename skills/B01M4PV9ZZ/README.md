@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Betta Status icon" width="36"> [Betta Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.9dbf689d-aced-4951-b25e-4c6b203689f2)
+# [Betta Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.9dbf689d-aced-4951-b25e-4c6b203689f2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Betta Status skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Niners Suck icon" width="36"> [Niners Suck](http://alexa.amazon.com/#skills/amzn1.ask.skill.756ebed2-7b7d-4f32-a689-f12a97ff1b5b)
+# [Niners Suck](http://alexa.amazon.com/#skills/amzn1.ask.skill.756ebed2-7b7d-4f32-a689-f12a97ff1b5b)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Niners Suck skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Magic Facts icon" width="36"> [Magic Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.56f22c24-ba7c-48c9-a2ce-efcd98a1c2a7)
+# [Magic Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.56f22c24-ba7c-48c9-a2ce-efcd98a1c2a7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Magic Facts skill, try saying...

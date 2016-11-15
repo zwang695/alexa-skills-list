@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Listening Comprehension Practice icon" width="36"> [Listening Comprehension Practice](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8f456c9-52a9-4819-a3d4-131823f18abe)
+# [Listening Comprehension Practice](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8f456c9-52a9-4819-a3d4-131823f18abe)
 ![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Listening Comprehension Practice skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="guess the song icon" width="36"> [guess the song](http://alexa.amazon.com/#skills/amzn1.ask.skill.e39cb796-7523-4b81-9114-4f51fc4a22de)
+# [guess the song](http://alexa.amazon.com/#skills/amzn1.ask.skill.e39cb796-7523-4b81-9114-4f51fc4a22de)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the guess the song skill, try saying...

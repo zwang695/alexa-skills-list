@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="New York Pro Baseball Quiz icon" width="36"> [New York Pro Baseball Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7d1fc95b-57a2-48c5-a537-4ba4fdf1d2f7)
+# [New York Pro Baseball Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7d1fc95b-57a2-48c5-a537-4ba4fdf1d2f7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the New York Pro Baseball Quiz skill, try saying...

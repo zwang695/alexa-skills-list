@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Gainesville, FL Bar Choice icon" width="36"> [Gainesville, FL Bar Choice](http://alexa.amazon.com/#skills/amzn1.ask.skill.365ce43a-2beb-440a-9e72-c7ff20712191)
+# [Gainesville, FL Bar Choice](http://alexa.amazon.com/#skills/amzn1.ask.skill.365ce43a-2beb-440a-9e72-c7ff20712191)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Gainesville, FL Bar Choice skill, try saying...

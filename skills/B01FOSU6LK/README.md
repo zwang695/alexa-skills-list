@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Top r/Technology for Reddit icon" width="36"> [Top r/Technology for Reddit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fcf7b546-1970-44ec-aab1-a32bcd94db7f)
+# [Top r/Technology for Reddit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fcf7b546-1970-44ec-aab1-a32bcd94db7f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Top r/Technology for Reddit skill, try saying...

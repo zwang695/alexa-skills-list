@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="GuessACard icon" width="36"> [GuessACard](http://alexa.amazon.com/#skills/amzn1.ask.skill.2c5dcd19-1b3a-4bd6-8a53-8a045259a3ed)
+# [GuessACard](http://alexa.amazon.com/#skills/amzn1.ask.skill.2c5dcd19-1b3a-4bd6-8a53-8a045259a3ed)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the GuessACard skill, try saying...

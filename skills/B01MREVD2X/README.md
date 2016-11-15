@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Snowbasin Resort icon" width="36"> [Snow Report for Snowbasin Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.bb1c1350-c4a2-4262-ab6e-b2d61ff1dcdf)
+# [Snow Report for Snowbasin Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.bb1c1350-c4a2-4262-ab6e-b2d61ff1dcdf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Snowbasin Resort skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Greek Peak icon" width="36"> [Snow Report for Greek Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.7f8c0b2e-21ad-47b4-ac2f-bda3029e5184)
+# [Snow Report for Greek Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.7f8c0b2e-21ad-47b4-ac2f-bda3029e5184)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Greek Peak skill, try saying...

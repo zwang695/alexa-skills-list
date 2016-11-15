@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Bluewood Mountain icon" width="36"> [Snow Report for Bluewood Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.d73440ea-8237-466d-90ab-7f1e52600c52)
+# [Snow Report for Bluewood Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.d73440ea-8237-466d-90ab-7f1e52600c52)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Bluewood Mountain skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Ski Apache icon" width="36"> [Snow Report for Ski Apache](http://alexa.amazon.com/#skills/amzn1.ask.skill.e100b1cd-bd8f-465f-9f17-1322a4082b2d)
+# [Snow Report for Ski Apache](http://alexa.amazon.com/#skills/amzn1.ask.skill.e100b1cd-bd8f-465f-9f17-1322a4082b2d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Ski Apache skill, try saying...

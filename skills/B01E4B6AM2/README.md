@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MARA Running Assistant icon" width="36"> [MARA Running Assistant](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.35f815dd-d117-4018-86b2-b8aaa263c927)
+# [MARA Running Assistant](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.35f815dd-d117-4018-86b2-b8aaa263c927)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the MARA Running Assistant skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computer Networking Facts icon" width="36"> [Computer Networking Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a84f8aab-089c-403c-b47c-73f3c2ead205)
+# [Computer Networking Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a84f8aab-089c-403c-b47c-73f3c2ead205)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Computer Networking Facts skill, try saying...

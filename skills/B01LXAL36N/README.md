@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Weird State Facts icon" width="36"> [Weird State Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b410a1a5-2396-42af-8a71-edf5970311a0)
+# [Weird State Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b410a1a5-2396-42af-8a71-edf5970311a0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Weird State Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mansfield Ski Club icon" width="36"> [Snow Report for Mansfield Ski Club](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef8ba13e-5da1-4a93-a48a-da212a3701ab)
+# [Snow Report for Mansfield Ski Club](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef8ba13e-5da1-4a93-a48a-da212a3701ab)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mansfield Ski Club skill, try saying...

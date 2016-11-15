@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="cold riddles icon" width="36"> [cold riddles](http://alexa.amazon.com/#skills/amzn1.ask.skill.bedbc5c6-95a6-4388-bffc-a2286b833a94)
+# [cold riddles](http://alexa.amazon.com/#skills/amzn1.ask.skill.bedbc5c6-95a6-4388-bffc-a2286b833a94)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the cold riddles skill, try saying...

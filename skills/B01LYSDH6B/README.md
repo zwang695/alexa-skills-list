@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Go Phrase icon" width="36"> [Go Phrase](http://alexa.amazon.com/#skills/amzn1.ask.skill.ba78fda9-4f1f-4f09-94a6-6d3ed1121222)
+# [Go Phrase](http://alexa.amazon.com/#skills/amzn1.ask.skill.ba78fda9-4f1f-4f09-94a6-6d3ed1121222)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Go Phrase skill, try saying...

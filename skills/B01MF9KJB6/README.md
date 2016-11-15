@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Anti-Joker icon" width="36"> [Anti-Joker](http://alexa.amazon.com/#skills/amzn1.ask.skill.4956d469-65cc-4993-9df0-b4246122cb02)
+# [Anti-Joker](http://alexa.amazon.com/#skills/amzn1.ask.skill.4956d469-65cc-4993-9df0-b4246122cb02)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Anti-Joker skill, try saying...

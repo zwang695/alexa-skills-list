@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lazy Day icon" width="36"> [Lazy Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.97217855-d08c-497f-b85a-ea0363bd79c6)
+# [Lazy Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.97217855-d08c-497f-b85a-ea0363bd79c6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lazy Day skill, try saying...

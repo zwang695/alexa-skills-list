@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What happened today icon" width="36"> [What happened today](http://alexa.amazon.com/#skills/amzn1.ask.skill.caeaf352-1b5b-4aca-9145-cfcb8092bb98)
+# [What happened today](http://alexa.amazon.com/#skills/amzn1.ask.skill.caeaf352-1b5b-4aca-9145-cfcb8092bb98)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the What happened today skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Elli icon" width="36"> [Elli](http://alexa.amazon.com/#skills/amzn1.ask.skill.10c1f093-391b-4aa0-b7bd-820955151b5e)
+# [Elli](http://alexa.amazon.com/#skills/amzn1.ask.skill.10c1f093-391b-4aa0-b7bd-820955151b5e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Elli skill, try saying...

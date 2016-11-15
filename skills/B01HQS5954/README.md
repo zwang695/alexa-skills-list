@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Grape Facts icon" width="36"> [Grape Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.38c110b0-94ba-44e9-9f58-f92d72315a7d)
+# [Grape Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.38c110b0-94ba-44e9-9f58-f92d72315a7d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Grape Facts skill, try saying...

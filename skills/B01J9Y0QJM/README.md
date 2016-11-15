@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Whitehall Ohio Facts icon" width="36"> [Whitehall Ohio Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.955cd093-5bf6-4a83-a5eb-0538f6ac83ca)
+# [Whitehall Ohio Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.955cd093-5bf6-4a83-a5eb-0538f6ac83ca)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Whitehall Ohio Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Seahawks Facts icon" width="36"> [Unofficial Seahawks Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.82315b21-dd49-4e77-8a8c-5ab73ddc6602)
+# [Unofficial Seahawks Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.82315b21-dd49-4e77-8a8c-5ab73ddc6602)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Unofficial Seahawks Facts skill, try saying...

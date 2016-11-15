@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="State Jokes icon" width="36"> [State Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.1dbea444-11ca-4c65-867a-02cfca0c249a)
+# [State Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.1dbea444-11ca-4c65-867a-02cfca0c249a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the State Jokes skill, try saying...

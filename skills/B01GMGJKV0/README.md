@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BibleVerses icon" width="36"> [BibleVerses](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.de21f67e-5eaf-43f4-b0a2-d3a0d713ad9d)
+# [BibleVerses](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.de21f67e-5eaf-43f4-b0a2-d3a0d713ad9d)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the BibleVerses skill, try saying...

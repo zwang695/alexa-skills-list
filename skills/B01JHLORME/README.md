@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Brand Trivia icon" width="36"> [Brand Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.b98e49d2-9b57-4e9f-8297-4a7264bd2d40)
+# [Brand Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.b98e49d2-9b57-4e9f-8297-4a7264bd2d40)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Brand Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Korean Air icon" width="36"> [Korean Air](http://alexa.amazon.com/#skills/amzn1.ask.skill.7f84143c-8e63-42b6-8f45-24882504fb54)
+# [Korean Air](http://alexa.amazon.com/#skills/amzn1.ask.skill.7f84143c-8e63-42b6-8f45-24882504fb54)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Korean Air skill, try saying...

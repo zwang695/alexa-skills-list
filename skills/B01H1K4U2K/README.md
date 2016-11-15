@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="FrogFactsMan icon" width="36"> [FrogFactsMan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.15f794ad-f300-4bc4-a6c3-bfb9ac05393a)
+# [FrogFactsMan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.15f794ad-f300-4bc4-a6c3-bfb9ac05393a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the FrogFactsMan skill, try saying...

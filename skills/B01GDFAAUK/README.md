@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Airport Info icon" width="36"> [Airport Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5aeb288b-49fc-4d47-8650-37884831ef85)
+# [Airport Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5aeb288b-49fc-4d47-8650-37884831ef85)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Airport Info skill, try saying...

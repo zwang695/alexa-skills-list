@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Northbridge MA History icon" width="36"> [Northbridge MA History](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e44ac4e5-b602-4356-92c3-969cd732e3af)
+# [Northbridge MA History](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e44ac4e5-b602-4356-92c3-969cd732e3af)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Northbridge MA History skill, try saying...

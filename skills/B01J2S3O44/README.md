@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My home icon" width="36"> [My home](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.29df0fdf-965f-4098-b9ad-193276397396)
+# [My home](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.29df0fdf-965f-4098-b9ad-193276397396)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My home skill, try saying...

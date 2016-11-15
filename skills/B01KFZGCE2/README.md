@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cryptocurrent icon" width="36"> [Cryptocurrent](http://alexa.amazon.com/#skills/amzn1.ask.skill.936c3512-5fdf-409b-819e-79a871ae927d)
+# [Cryptocurrent](http://alexa.amazon.com/#skills/amzn1.ask.skill.936c3512-5fdf-409b-819e-79a871ae927d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cryptocurrent skill, try saying...

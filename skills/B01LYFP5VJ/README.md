@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DOS Facts icon" width="36"> [DOS Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b7ada05f-c169-46c6-a330-0c1168ac52b9)
+# [DOS Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b7ada05f-c169-46c6-a330-0c1168ac52b9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the DOS Facts skill, try saying...

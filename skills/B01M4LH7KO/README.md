@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Chestnut Mountain icon" width="36"> [Snow Report for Chestnut Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.727a295b-6e9d-44b5-9e7f-e920711a1b1e)
+# [Snow Report for Chestnut Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.727a295b-6e9d-44b5-9e7f-e920711a1b1e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Chestnut Mountain skill, try saying...

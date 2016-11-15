@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Candy Facts icon" width="36"> [Candy Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.97ac1b23-f40b-4677-89f8-1728c8c79b1e)
+# [Candy Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.97ac1b23-f40b-4677-89f8-1728c8c79b1e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Candy Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Moon Facts icon" width="36"> [Moon Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ed98cbc8-0826-4354-a958-7abd222abd25)
+# [Moon Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ed98cbc8-0826-4354-a958-7abd222abd25)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Moon Facts skill, try saying...

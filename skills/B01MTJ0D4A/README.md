@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Christie Mountain icon" width="36"> [Snow Report for Christie Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.ace68e75-88f8-424b-b949-47364983aa6a)
+# [Snow Report for Christie Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.ace68e75-88f8-424b-b949-47364983aa6a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Christie Mountain skill, try saying...

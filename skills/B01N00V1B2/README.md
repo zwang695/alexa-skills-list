@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Camp Fortune icon" width="36"> [Snow Report for Camp Fortune](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c048be9-ac4b-4a42-be1d-96c1424f786a)
+# [Snow Report for Camp Fortune](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c048be9-ac4b-4a42-be1d-96c1424f786a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Camp Fortune skill, try saying...

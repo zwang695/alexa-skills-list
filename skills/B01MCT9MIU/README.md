@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Heavy Metal Facts icon" width="36"> [Heavy Metal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.02d9fd96-26d1-45f5-8d10-80a880695c3b)
+# [Heavy Metal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.02d9fd96-26d1-45f5-8d10-80a880695c3b)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Heavy Metal Facts skill, try saying...

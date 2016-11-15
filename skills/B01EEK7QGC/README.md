@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Movies for redbox icon" width="36"> [Movies for redbox](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e3300666-52f0-4e5f-969b-637d13c2a125)
+# [Movies for redbox](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e3300666-52f0-4e5f-969b-637d13c2a125)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Movies for redbox skill, try saying...

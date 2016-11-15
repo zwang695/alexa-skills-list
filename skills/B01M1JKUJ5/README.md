@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Highest Points in the United States icon" width="36"> [Highest Points in the United States](http://alexa.amazon.com/#skills/amzn1.ask.skill.2bc19080-62d5-4fe4-b3fc-cdafb61d9009)
+# [Highest Points in the United States](http://alexa.amazon.com/#skills/amzn1.ask.skill.2bc19080-62d5-4fe4-b3fc-cdafb61d9009)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Highest Points in the United States skill, try saying...

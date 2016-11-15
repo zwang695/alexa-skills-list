@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Panda fun facts icon" width="36"> [Panda fun facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.08ea2126-6bd1-46dc-88f6-466af7e6a715)
+# [Panda fun facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.08ea2126-6bd1-46dc-88f6-466af7e6a715)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Panda fun facts skill, try saying...

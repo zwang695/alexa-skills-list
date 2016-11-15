@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mont Sainte-Anne icon" width="36"> [Snow Report for Mont Sainte-Anne](http://alexa.amazon.com/#skills/amzn1.ask.skill.7dd3e3f2-cead-4f54-920d-5c22e76dd781)
+# [Snow Report for Mont Sainte-Anne](http://alexa.amazon.com/#skills/amzn1.ask.skill.7dd3e3f2-cead-4f54-920d-5c22e76dd781)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mont Sainte-Anne skill, try saying...

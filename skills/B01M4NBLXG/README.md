@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mount Bachelor icon" width="36"> [Snow Report for Mount Bachelor](http://alexa.amazon.com/#skills/amzn1.ask.skill.3db2bd3c-7f69-46e1-99cc-d442889a0823)
+# [Snow Report for Mount Bachelor](http://alexa.amazon.com/#skills/amzn1.ask.skill.3db2bd3c-7f69-46e1-99cc-d442889a0823)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mount Bachelor skill, try saying...

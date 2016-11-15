@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Boyne Highlands icon" width="36"> [Snow Report for Boyne Highlands](http://alexa.amazon.com/#skills/amzn1.ask.skill.5b0ca723-d165-4680-9917-28cbb768d257)
+# [Snow Report for Boyne Highlands](http://alexa.amazon.com/#skills/amzn1.ask.skill.5b0ca723-d165-4680-9917-28cbb768d257)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Boyne Highlands skill, try saying...

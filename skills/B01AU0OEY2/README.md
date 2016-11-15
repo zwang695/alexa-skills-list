@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hacking History Trivia icon" width="36"> [Hacking History Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3988e924-353f-47f4-b986-a84584a7bd6c)
+# [Hacking History Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3988e924-353f-47f4-b986-a84584a7bd6c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hacking History Trivia skill, try saying...

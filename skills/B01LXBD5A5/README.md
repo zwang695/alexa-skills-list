@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fun Math Facts icon" width="36"> [Fun Math Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.81ef84ea-dbc4-4fd6-9731-1d110eb677e5)
+# [Fun Math Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.81ef84ea-dbc4-4fd6-9731-1d110eb677e5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fun Math Facts skill, try saying...

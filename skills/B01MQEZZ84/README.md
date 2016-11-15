@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="College Helper icon" width="36"> [College Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.940cafe0-0af3-430b-936a-f0eb8d70bc51)
+# [College Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.940cafe0-0af3-430b-936a-f0eb8d70bc51)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the College Helper skill, try saying...

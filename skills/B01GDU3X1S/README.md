@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Splash Voyages Game icon" width="36"> [Splash Voyages Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1f9ff930-107b-415b-89bc-9e8619359793)
+# [Splash Voyages Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1f9ff930-107b-415b-89bc-9e8619359793)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Splash Voyages Game skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Beer Meister icon" width="36"> [Beer Meister](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f7104739-0419-4009-a960-f4dd6db0250a)
+# [Beer Meister](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f7104739-0419-4009-a960-f4dd6db0250a)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Beer Meister skill, try saying...

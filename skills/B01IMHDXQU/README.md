@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Marketing Flash Cards icon" width="36"> [Marketing Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.55370d06-8b0b-4eae-88c1-87943f49e9a1)
+# [Marketing Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.55370d06-8b0b-4eae-88c1-87943f49e9a1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Marketing Flash Cards skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="powerRangersGeek icon" width="36"> [powerRangersGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bbdff979-2717-4977-9014-9a1e727601cd)
+# [powerRangersGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bbdff979-2717-4977-9014-9a1e727601cd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the powerRangersGeek skill, try saying...

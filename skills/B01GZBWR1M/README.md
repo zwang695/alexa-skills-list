@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Football Trivia for Texas A&M icon" width="36"> [Football Trivia for Texas A&M](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.305ee248-08a6-42f2-aa99-dbdedf12e967)
+# [Football Trivia for Texas A&M](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.305ee248-08a6-42f2-aa99-dbdedf12e967)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Football Trivia for Texas A&M skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baseball Schedule icon" width="36"> [Baseball Schedule](http://alexa.amazon.com/#skills/amzn1.ask.skill.3b31d85a-f11e-4654-83d1-d7a04f920528)
+# [Baseball Schedule](http://alexa.amazon.com/#skills/amzn1.ask.skill.3b31d85a-f11e-4654-83d1-d7a04f920528)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Baseball Schedule skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="According to Bob icon" width="36"> [According to Bob](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4b5c58dc-369c-4302-b180-8a6ca1fe1610)
+# [According to Bob](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4b5c58dc-369c-4302-b180-8a6ca1fe1610)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the According to Bob skill, try saying...

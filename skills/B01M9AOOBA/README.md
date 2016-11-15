@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Quiz Master icon" width="36"> [Quiz Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.4f1b7c75-74f1-4bd9-94f1-1660bdf0aaa1)
+# [Quiz Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.4f1b7c75-74f1-4bd9-94f1-1660bdf0aaa1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Quiz Master skill, try saying...

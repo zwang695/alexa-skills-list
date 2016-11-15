@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Thirukkural icon" width="36"> [Thirukkural](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6eb8661d-0d33-4e25-b151-860253fae993)
+# [Thirukkural](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6eb8661d-0d33-4e25-b151-860253fae993)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Thirukkural skill, try saying...

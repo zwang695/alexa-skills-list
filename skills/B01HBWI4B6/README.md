@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Calculator icon" width="36"> [My Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.10f09e5b-99f8-4812-9ebe-2b817f5ce01f)
+# [My Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.10f09e5b-99f8-4812-9ebe-2b817f5ce01f)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the My Calculator skill, try saying...

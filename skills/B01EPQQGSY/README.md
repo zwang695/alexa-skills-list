@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Presidential Race 2016 Trivia icon" width="36"> [Presidential Race 2016 Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a64d90c0-64b2-4952-9a08-9ce3d930e409)
+# [Presidential Race 2016 Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a64d90c0-64b2-4952-9a08-9ce3d930e409)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Presidential Race 2016 Trivia skill, try saying...

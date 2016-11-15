@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fuzzy Science Language icon" width="36"> [Fuzzy Science Language](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7c5926dd-5b5c-4565-af27-9aebf18b2318)
+# [Fuzzy Science Language](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7c5926dd-5b5c-4565-af27-9aebf18b2318)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fuzzy Science Language skill, try saying...

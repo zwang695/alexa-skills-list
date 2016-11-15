@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Moblor icon" width="36"> [Moblor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6d73eeca-a38a-470c-bc6e-40b1d89c10f3)
+# [Moblor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6d73eeca-a38a-470c-bc6e-40b1d89c10f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Moblor skill, try saying...

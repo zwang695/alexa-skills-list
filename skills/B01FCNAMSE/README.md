@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bites & Snacks icon" width="36"> [Bites & Snacks](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.22b1578f-fcb5-4b37-9199-53118e68f70f)
+# [Bites & Snacks](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.22b1578f-fcb5-4b37-9199-53118e68f70f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bites & Snacks skill, try saying...

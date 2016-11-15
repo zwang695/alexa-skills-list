@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="FAQer icon" width="36"> [FAQer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.11dec342-858f-4aec-a6b7-b6f082aa5ea7)
+# [FAQer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.11dec342-858f-4aec-a6b7-b6f082aa5ea7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the FAQer skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computer History Facts icon" width="36"> [Computer History Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1a9edfec-ee9d-474d-a25d-b20649f90c76)
+# [Computer History Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1a9edfec-ee9d-474d-a25d-b20649f90c76)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Computer History Facts skill, try saying...

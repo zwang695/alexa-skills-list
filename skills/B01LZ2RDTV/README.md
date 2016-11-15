@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What Board Game to Play icon" width="36"> [What Board Game to Play](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f4bd958-282f-411e-a3f3-5577e52956ce)
+# [What Board Game to Play](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f4bd958-282f-411e-a3f3-5577e52956ce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the What Board Game to Play skill, try saying...

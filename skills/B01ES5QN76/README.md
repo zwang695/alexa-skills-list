@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Super Hero Trivia icon" width="36"> [Super Hero Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.56b87fef-5617-4b48-badd-c35499e97c6d)
+# [Super Hero Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.56b87fef-5617-4b48-badd-c35499e97c6d)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Super Hero Trivia skill, try saying...

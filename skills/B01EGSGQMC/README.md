@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts For Elder Scrolls icon" width="36"> [Facts For Elder Scrolls](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d66d4b0b-8ab2-488f-8287-81dd444de254)
+# [Facts For Elder Scrolls](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d66d4b0b-8ab2-488f-8287-81dd444de254)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts For Elder Scrolls skill, try saying...

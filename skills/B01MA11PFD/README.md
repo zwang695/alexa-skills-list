@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="reweather icon" width="36"> [reweather](http://alexa.amazon.com/#skills/amzn1.ask.skill.0d1a3143-8ed5-43ba-9fbe-f387f7a9d10d)
+# [reweather](http://alexa.amazon.com/#skills/amzn1.ask.skill.0d1a3143-8ed5-43ba-9fbe-f387f7a9d10d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the reweather skill, try saying...

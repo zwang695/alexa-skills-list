@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Christine Facts icon" width="36"> [Christine Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e0407d54-95a1-4207-8d4b-d09d1a7f99d2)
+# [Christine Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e0407d54-95a1-4207-8d4b-d09d1a7f99d2)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Christine Facts skill, try saying...

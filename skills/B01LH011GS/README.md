@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Whale Shark Facts icon" width="36"> [Whale Shark Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f69b9249-54da-4b9e-a7e6-a994feb20dc7)
+# [Whale Shark Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f69b9249-54da-4b9e-a7e6-a994feb20dc7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Whale Shark Facts skill, try saying...

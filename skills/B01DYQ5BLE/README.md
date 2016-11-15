@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Cutiemals icon" width="36"> [Daily Cutiemals](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dd8f6e8e-0aed-4178-91ca-ab7bf4f75ccf)
+# [Daily Cutiemals](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dd8f6e8e-0aed-4178-91ca-ab7bf4f75ccf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Daily Cutiemals skill, try saying...

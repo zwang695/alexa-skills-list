@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cat Facts icon" width="36"> [Cat Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.365c1bde-e29d-48b2-a784-50e45adb3ec5)
+# [Cat Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.365c1bde-e29d-48b2-a784-50e45adb3ec5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cat Facts skill, try saying...

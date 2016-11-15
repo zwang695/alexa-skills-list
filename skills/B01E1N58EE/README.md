@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hilma Spark icon" width="36"> [Hilma Spark](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1b067b45-92bd-42ad-979b-3a17571777fe)
+# [Hilma Spark](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1b067b45-92bd-42ad-979b-3a17571777fe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hilma Spark skill, try saying...

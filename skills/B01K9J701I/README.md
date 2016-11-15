@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Drum Corps Facts Unofficial icon" width="36"> [Drum Corps Facts Unofficial](http://alexa.amazon.com/#skills/amzn1.ask.skill.7486cd88-a276-4286-b0ae-f169dee67b70)
+# [Drum Corps Facts Unofficial](http://alexa.amazon.com/#skills/amzn1.ask.skill.7486cd88-a276-4286-b0ae-f169dee67b70)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Drum Corps Facts Unofficial skill, try saying...

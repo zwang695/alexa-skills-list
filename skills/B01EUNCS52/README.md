@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Color Convert icon" width="36"> [Color Convert](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e138b4ed-5171-414d-95a1-ca567ec7f2f1)
+# [Color Convert](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e138b4ed-5171-414d-95a1-ca567ec7f2f1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Color Convert skill, try saying...

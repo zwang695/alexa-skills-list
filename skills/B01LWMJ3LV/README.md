@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dare Ideas icon" width="36"> [Dare Ideas](http://alexa.amazon.com/#skills/amzn1.ask.skill.aaf549d4-5e22-4232-b484-239dcb9449e7)
+# [Dare Ideas](http://alexa.amazon.com/#skills/amzn1.ask.skill.aaf549d4-5e22-4232-b484-239dcb9449e7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dare Ideas skill, try saying...

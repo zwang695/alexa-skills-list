@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Which Food? icon" width="36"> [Which Food?](http://alexa.amazon.com/#skills/amzn1.ask.skill.56c2dcc3-f319-48ef-8ed0-c6fe484b3f0e)
+# [Which Food?](http://alexa.amazon.com/#skills/amzn1.ask.skill.56c2dcc3-f319-48ef-8ed0-c6fe484b3f0e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Which Food? skill, try saying...

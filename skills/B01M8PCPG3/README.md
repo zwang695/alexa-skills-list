@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Quotes icon" width="36"> [Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.62097450-b0fe-4672-967d-977cef8e88f4)
+# [Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.62097450-b0fe-4672-967d-977cef8e88f4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Quotes skill, try saying...

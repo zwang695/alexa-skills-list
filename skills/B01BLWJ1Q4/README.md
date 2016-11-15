@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SkyBell icon" width="36"> [SkyBell](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0dd1fcd6-d11e-4a48-af61-ceb366c03f50)
+# [SkyBell](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0dd1fcd6-d11e-4a48-af61-ceb366c03f50)
 ![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 12
 
 To use the SkyBell skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Speak Jamaican icon" width="36"> [Speak Jamaican](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2941ff6-56b1-453d-9f4d-53792cf8f16a)
+# [Speak Jamaican](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2941ff6-56b1-453d-9f4d-53792cf8f16a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Speak Jamaican skill, try saying...

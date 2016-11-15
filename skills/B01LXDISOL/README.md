@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Sipapu Resort icon" width="36"> [Snow Report for Sipapu Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.cfa705bd-9b3b-43b3-b379-000184a086d3)
+# [Snow Report for Sipapu Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.cfa705bd-9b3b-43b3-b379-000184a086d3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Sipapu Resort skill, try saying...

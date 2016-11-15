@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="handgun facts icon" width="36"> [handgun facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.460ba1a4-93fd-4fd1-883f-6fe1df41efe0)
+# [handgun facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.460ba1a4-93fd-4fd1-883f-6fe1df41efe0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the handgun facts skill, try saying...

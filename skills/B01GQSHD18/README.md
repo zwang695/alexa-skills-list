@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Happy Hour icon" width="36"> [Happy Hour](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.63c00ef6-cb22-4033-9fda-41626cae2646)
+# [Happy Hour](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.63c00ef6-cb22-4033-9fda-41626cae2646)
 ![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Happy Hour skill, try saying...

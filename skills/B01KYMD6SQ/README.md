@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Shakespearean Insulter icon" width="36"> [Shakespearean Insulter](http://alexa.amazon.com/#skills/amzn1.ask.skill.e87a3725-6d0c-4730-bac4-d5f42cd573df)
+# [Shakespearean Insulter](http://alexa.amazon.com/#skills/amzn1.ask.skill.e87a3725-6d0c-4730-bac4-d5f42cd573df)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Shakespearean Insulter skill, try saying...

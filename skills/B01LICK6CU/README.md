@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="pi number facts icon" width="36"> [pi number facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f9c8ccc5-de53-4f57-a2ac-58dcf129888e)
+# [pi number facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f9c8ccc5-de53-4f57-a2ac-58dcf129888e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the pi number facts skill, try saying...

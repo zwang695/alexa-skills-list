@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Montana Snowbowl icon" width="36"> [Snow Report for Montana Snowbowl](http://alexa.amazon.com/#skills/amzn1.ask.skill.9f65b8c3-6f38-4c4c-a15b-cf15cbfb0116)
+# [Snow Report for Montana Snowbowl](http://alexa.amazon.com/#skills/amzn1.ask.skill.9f65b8c3-6f38-4c4c-a15b-cf15cbfb0116)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Montana Snowbowl skill, try saying...

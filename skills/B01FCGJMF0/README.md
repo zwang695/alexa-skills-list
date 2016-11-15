@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unstuck icon" width="36"> [Unstuck](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c0baad8a-94b8-42a0-b5d0-0bd7e11a8bbd)
+# [Unstuck](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c0baad8a-94b8-42a0-b5d0-0bd7e11a8bbd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unstuck skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chicago Sports Trivia icon" width="36"> [Chicago Sports Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.9f6b0eb3-3889-46e9-98fa-a3c0e2838d5b)
+# [Chicago Sports Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.9f6b0eb3-3889-46e9-98fa-a3c0e2838d5b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chicago Sports Trivia skill, try saying...

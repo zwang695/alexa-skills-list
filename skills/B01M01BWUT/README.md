@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Tahoe Donner icon" width="36"> [Snow Report for Tahoe Donner](http://alexa.amazon.com/#skills/amzn1.ask.skill.bb611a01-c36d-47fd-892e-fda11397f023)
+# [Snow Report for Tahoe Donner](http://alexa.amazon.com/#skills/amzn1.ask.skill.bb611a01-c36d-47fd-892e-fda11397f023)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Tahoe Donner skill, try saying...

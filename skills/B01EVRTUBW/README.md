@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivial Trivia Game icon" width="36"> [Trivial Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0d0658f2-978a-4551-9cf5-0e62a59ed063)
+# [Trivial Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0d0658f2-978a-4551-9cf5-0e62a59ed063)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivial Trivia Game skill, try saying...

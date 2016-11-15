@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Currency Converter icon" width="36"> [Currency Converter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8ccf181d-4b2a-445d-8a86-beb9e3157296)
+# [Currency Converter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8ccf181d-4b2a-445d-8a86-beb9e3157296)
 ![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Currency Converter skill, try saying...

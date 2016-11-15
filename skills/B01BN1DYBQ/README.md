@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="1-Minute Mindfulness icon" width="36"> [1-Minute Mindfulness](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d5cd74c4-4884-41fe-a8af-d9330a2fd53e)
+# [1-Minute Mindfulness](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d5cd74c4-4884-41fe-a8af-d9330a2fd53e)
 ![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 327
 
 To use the 1-Minute Mindfulness skill, try saying...

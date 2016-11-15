@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Space Quotes icon" width="36"> [Space Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.14afd260-8d0d-4fee-a7eb-2993a65ad8a1)
+# [Space Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.14afd260-8d0d-4fee-a7eb-2993a65ad8a1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Space Quotes skill, try saying...

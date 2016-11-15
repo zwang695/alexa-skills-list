@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Sunday River icon" width="36"> [Snow Report for Sunday River](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad8f9db9-e27f-4371-9ab0-5227dffb9e6a)
+# [Snow Report for Sunday River](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad8f9db9-e27f-4371-9ab0-5227dffb9e6a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Sunday River skill, try saying...

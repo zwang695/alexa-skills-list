@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Viet Guy icon" width="36"> [Viet Guy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6b2f83dc-e507-48ce-b44d-0bd478242eec)
+# [Viet Guy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6b2f83dc-e507-48ce-b44d-0bd478242eec)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Viet Guy skill, try saying...

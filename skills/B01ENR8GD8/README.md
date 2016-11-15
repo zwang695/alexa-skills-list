@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Gratitude Power for Runners and Walkers icon" width="36"> [Gratitude Power for Runners and Walkers](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fa61106a-27c4-468e-aa3a-34b41e6232ff)
+# [Gratitude Power for Runners and Walkers](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fa61106a-27c4-468e-aa3a-34b41e6232ff)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Gratitude Power for Runners and Walkers skill, try saying...

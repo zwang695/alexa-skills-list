@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Miniature Schnauzer Facts icon" width="36"> [Miniature Schnauzer Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ca3b8b39-18ad-45ef-b1eb-9793ddd1b52b)
+# [Miniature Schnauzer Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ca3b8b39-18ad-45ef-b1eb-9793ddd1b52b)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Miniature Schnauzer Facts skill, try saying...

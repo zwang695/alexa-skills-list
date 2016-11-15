@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ultimate Formula One Fan icon" width="36"> [Ultimate Formula One Fan](http://alexa.amazon.com/#skills/amzn1.ask.skill.5e5de903-8253-4741-a671-115a599c6ce4)
+# [Ultimate Formula One Fan](http://alexa.amazon.com/#skills/amzn1.ask.skill.5e5de903-8253-4741-a671-115a599c6ce4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ultimate Formula One Fan skill, try saying...

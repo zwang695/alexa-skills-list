@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Word of the Day icon" width="36"> [Word of the Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.4fa379c0-8776-4e2e-a01f-d38a7f4422f4)
+# [Word of the Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.4fa379c0-8776-4e2e-a01f-d38a7f4422f4)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Word of the Day skill, try saying...

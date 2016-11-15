@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bugle Notes icon" width="36"> [Bugle Notes](http://alexa.amazon.com/#skills/amzn1.ask.skill.92dc0131-f7d5-4504-9d92-1cfca0afc58e)
+# [Bugle Notes](http://alexa.amazon.com/#skills/amzn1.ask.skill.92dc0131-f7d5-4504-9d92-1cfca0afc58e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bugle Notes skill, try saying...

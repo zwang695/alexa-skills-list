@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Umpire Insult icon" width="36"> [Umpire Insult](http://alexa.amazon.com/#skills/amzn1.ask.skill.299577df-4e07-4bc2-aabf-bb26a6a853c4)
+# [Umpire Insult](http://alexa.amazon.com/#skills/amzn1.ask.skill.299577df-4e07-4bc2-aabf-bb26a6a853c4)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Umpire Insult skill, try saying...

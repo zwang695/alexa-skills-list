@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Covisint Trivia icon" width="36"> [Covisint Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d7da65c8-f02e-47a8-82c0-984aa54e7c25)
+# [Covisint Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d7da65c8-f02e-47a8-82c0-984aa54e7c25)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Covisint Trivia skill, try saying...

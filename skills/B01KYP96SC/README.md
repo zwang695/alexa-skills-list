@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Seven Wonders Of The World Facts icon" width="36"> [Seven Wonders Of The World Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d3afcda-190e-4db9-a7aa-272fddc15aa9)
+# [Seven Wonders Of The World Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d3afcda-190e-4db9-a7aa-272fddc15aa9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Seven Wonders Of The World Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Irish Trivia icon" width="36"> [Irish Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.3dca598a-2edb-426a-ba62-8a7bc51d9bf0)
+# [Irish Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.3dca598a-2edb-426a-ba62-8a7bc51d9bf0)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Irish Trivia skill, try saying...

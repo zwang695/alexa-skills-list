@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dr. Pythagorus icon" width="36"> [Dr. Pythagorus](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.af8ef7ad-6126-4312-b078-b968952086af)
+# [Dr. Pythagorus](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.af8ef7ad-6126-4312-b078-b968952086af)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dr. Pythagorus skill, try saying...

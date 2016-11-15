@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Chefkoch GmbH](http://alexa.amazon.com/#skills/amzn1.ask.skill.dc415968-4066-4310-afe5-8a2f7aa10a4b)
+# [Chefkoch GmbH](http://alexa.amazon.com/#skills/amzn1.ask.skill.dc415968-4066-4310-afe5-8a2f7aa10a4b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

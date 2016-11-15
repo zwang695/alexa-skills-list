@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Movie Nerd icon" width="36"> [Movie Nerd](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4de935b2-0e60-4428-9499-e056da2d9d55)
+# [Movie Nerd](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4de935b2-0e60-4428-9499-e056da2d9d55)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Movie Nerd skill, try saying...

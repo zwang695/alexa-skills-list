@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Healthy Food Facts icon" width="36"> [Healthy Food Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8999a5a3-1307-4a69-9980-cb75d11badcc)
+# [Healthy Food Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8999a5a3-1307-4a69-9980-cb75d11badcc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Healthy Food Facts skill, try saying...

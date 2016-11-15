@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Movie Facts icon" width="36"> [Movie Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.02cde93f-f771-4470-aea1-0cb06aad79f8)
+# [Movie Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.02cde93f-f771-4470-aea1-0cb06aad79f8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Movie Facts skill, try saying...

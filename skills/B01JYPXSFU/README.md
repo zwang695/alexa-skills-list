@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sailing Guru icon" width="36"> [Sailing Guru](http://alexa.amazon.com/#skills/amzn1.ask.skill.1258c49d-536c-4c1e-9dfb-ae542294e729)
+# [Sailing Guru](http://alexa.amazon.com/#skills/amzn1.ask.skill.1258c49d-536c-4c1e-9dfb-ae542294e729)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Sailing Guru skill, try saying...

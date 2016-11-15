@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Slalom Facts icon" width="36"> [Slalom Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f54f0543-c359-4844-839b-37c06f5cc00c)
+# [Slalom Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f54f0543-c359-4844-839b-37c06f5cc00c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Slalom Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Single Quote icon" width="36"> [Single Quote](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8a187eaa-6e47-48d5-b2be-20e0501ca3b9)
+# [Single Quote](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8a187eaa-6e47-48d5-b2be-20e0501ca3b9)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Single Quote skill, try saying...

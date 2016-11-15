@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Rover icon" width="36"> [Rover](http://alexa.amazon.com/#skills/amzn1.ask.skill.548bacb7-bca3-49e7-9b38-517b98f2237a)
+# [Rover](http://alexa.amazon.com/#skills/amzn1.ask.skill.548bacb7-bca3-49e7-9b38-517b98f2237a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Rover skill, try saying...

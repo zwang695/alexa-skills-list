@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hail Mary icon" width="36"> [Hail Mary](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ccb39f16-3d9c-4594-b777-796ea02e3743)
+# [Hail Mary](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ccb39f16-3d9c-4594-b777-796ea02e3743)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Hail Mary skill, try saying...

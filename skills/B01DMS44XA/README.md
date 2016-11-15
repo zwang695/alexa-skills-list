@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lunch Menu for Gonzaga High School icon" width="36"> [Lunch Menu for Gonzaga High School](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.03f09916-eff9-4bd6-9c0e-17451e169526)
+# [Lunch Menu for Gonzaga High School](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.03f09916-eff9-4bd6-9c0e-17451e169526)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lunch Menu for Gonzaga High School skill, try saying...

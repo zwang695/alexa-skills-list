@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Board Games Answers icon" width="36"> [Board Games Answers](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c7c9f117-05f0-450f-9475-f5ef0166d795)
+# [Board Games Answers](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c7c9f117-05f0-450f-9475-f5ef0166d795)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Board Games Answers skill, try saying...

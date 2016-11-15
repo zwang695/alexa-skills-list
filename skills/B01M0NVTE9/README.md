@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Race Cast icon" width="36"> [Race Cast](http://alexa.amazon.com/#skills/amzn1.ask.skill.3982f72e-7574-452e-b807-ff6f5e30a03c)
+# [Race Cast](http://alexa.amazon.com/#skills/amzn1.ask.skill.3982f72e-7574-452e-b807-ff6f5e30a03c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Race Cast skill, try saying...

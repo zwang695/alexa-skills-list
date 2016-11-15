@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="digital photography facts icon" width="36"> [digital photography facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5d23af29-e047-4845-9f15-a587e4034a56)
+# [digital photography facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5d23af29-e047-4845-9f15-a587e4034a56)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the digital photography facts skill, try saying...

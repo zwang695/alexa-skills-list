@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Quote icon" width="36"> [Random Quote](http://alexa.amazon.com/#skills/amzn1.ask.skill.964630f8-773d-4727-8b86-3806779c3b9f)
+# [Random Quote](http://alexa.amazon.com/#skills/amzn1.ask.skill.964630f8-773d-4727-8b86-3806779c3b9f)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Random Quote skill, try saying...

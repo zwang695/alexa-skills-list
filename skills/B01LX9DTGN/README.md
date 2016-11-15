@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Quiz for America icon" width="36"> [Quiz for America](http://alexa.amazon.com/#skills/amzn1.ask.skill.1bdb2f75-259d-44a5-95a4-715c0da69ad0)
+# [Quiz for America](http://alexa.amazon.com/#skills/amzn1.ask.skill.1bdb2f75-259d-44a5-95a4-715c0da69ad0)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Quiz for America skill, try saying...

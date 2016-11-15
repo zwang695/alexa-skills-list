@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Deadlier Than Sharks icon" width="36"> [Deadlier Than Sharks](http://alexa.amazon.com/#skills/amzn1.ask.skill.c46f2c16-1f95-47b8-b680-828f7e68bf14)
+# [Deadlier Than Sharks](http://alexa.amazon.com/#skills/amzn1.ask.skill.c46f2c16-1f95-47b8-b680-828f7e68bf14)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Deadlier Than Sharks skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts about Martin Luther King icon" width="36"> [Facts about Martin Luther King](http://alexa.amazon.com/#skills/amzn1.ask.skill.10301835-be40-47b4-873e-90c74b2aea6c)
+# [Facts about Martin Luther King](http://alexa.amazon.com/#skills/amzn1.ask.skill.10301835-be40-47b4-873e-90c74b2aea6c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts about Martin Luther King skill, try saying...

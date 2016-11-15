@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bell Quotes icon" width="36"> [Bell Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.03f99ea5-7717-400c-8a09-19100f5bb5c4)
+# [Bell Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.03f99ea5-7717-400c-8a09-19100f5bb5c4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bell Quotes skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mica Fact icon" width="36"> [Mica Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.83d47a03-a703-419f-8282-87457947c832)
+# [Mica Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.83d47a03-a703-419f-8282-87457947c832)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mica Fact skill, try saying...

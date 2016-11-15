@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Platypus Geek icon" width="36"> [Platypus Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ff4c4e42-9d4b-412a-a22b-34b24dbe8f62)
+# [Platypus Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ff4c4e42-9d4b-412a-a22b-34b24dbe8f62)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Platypus Geek skill, try saying...

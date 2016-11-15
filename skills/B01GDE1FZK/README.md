@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Capital City Games icon" width="36"> [Capital City Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ac9ccf56-5be2-4923-867c-e25d31413f01)
+# [Capital City Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ac9ccf56-5be2-4923-867c-e25d31413f01)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Capital City Games skill, try saying...

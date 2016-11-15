@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HighLowBot icon" width="36"> [HighLowBot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.64226fcf-1e7b-4fcb-b2a8-165bafcc204f)
+# [HighLowBot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.64226fcf-1e7b-4fcb-b2a8-165bafcc204f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the HighLowBot skill, try saying...

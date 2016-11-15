@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nine Eleven Facts icon" width="36"> [Nine Eleven Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e60a0d96-675f-49a8-aac7-757354742bd2)
+# [Nine Eleven Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e60a0d96-675f-49a8-aac7-757354742bd2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Nine Eleven Facts skill, try saying...

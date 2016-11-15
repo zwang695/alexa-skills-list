@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Naturalization Test icon" width="36"> [Naturalization Test](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.453e9b50-26f3-44af-b986-150ed75eb52e)
+# [Naturalization Test](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.453e9b50-26f3-44af-b986-150ed75eb52e)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Naturalization Test skill, try saying...

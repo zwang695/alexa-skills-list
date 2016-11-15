@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Color Wheel Facts icon" width="36"> [Color Wheel Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e1487366-78f6-4c44-b549-21cb11d0d266)
+# [Color Wheel Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e1487366-78f6-4c44-b549-21cb11d0d266)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Color Wheel Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nexia icon" width="36"> [Nexia](http://alexa.amazon.com/#skills/amzn1.ask.skill.a7121797-b502-462e-bfe5-86e78ca42413)
+# [Nexia](http://alexa.amazon.com/#skills/amzn1.ask.skill.a7121797-b502-462e-bfe5-86e78ca42413)
 ![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 39
 
 This skills allows you to control your Nexia lights with simple voice commands, e.g. "Turn on kitchen lights".

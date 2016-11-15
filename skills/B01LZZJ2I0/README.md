@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="George Washington Quotes icon" width="36"> [George Washington Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.0c088f60-3c6e-4e44-8692-eb131f9f8856)
+# [George Washington Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.0c088f60-3c6e-4e44-8692-eb131f9f8856)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the George Washington Quotes skill, try saying...

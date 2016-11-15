@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="13 Month Cal icon" width="36"> [13 Month Cal](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0ad69485-a637-46a2-ac47-fac3a83d2d9f)
+# [13 Month Cal](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0ad69485-a637-46a2-ac47-fac3a83d2d9f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the 13 Month Cal skill, try saying...

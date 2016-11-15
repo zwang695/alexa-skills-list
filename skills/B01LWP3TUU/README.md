@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dog Breed Picker icon" width="36"> [Dog Breed Picker](http://alexa.amazon.com/#skills/amzn1.ask.skill.d3ccdf1e-631f-4328-9317-f48829362ad0)
+# [Dog Breed Picker](http://alexa.amazon.com/#skills/amzn1.ask.skill.d3ccdf1e-631f-4328-9317-f48829362ad0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dog Breed Picker skill, try saying...

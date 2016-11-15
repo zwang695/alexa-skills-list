@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Rap Facts icon" width="36"> [Rap Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3de24bb3-299f-4fa7-89c7-7da3b4c27084)
+# [Rap Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3de24bb3-299f-4fa7-89c7-7da3b4c27084)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Rap Facts skill, try saying...

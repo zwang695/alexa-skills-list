@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="White Springs icon" width="36"> [White Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.a3965626-6c18-456f-9dd9-3752743c5666)
+# [White Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.a3965626-6c18-456f-9dd9-3752743c5666)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the White Springs skill, try saying...

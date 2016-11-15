@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="New Musician icon" width="36"> [New Musician](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.36aec085-720b-43f9-8eb7-b11bc0f4bda2)
+# [New Musician](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.36aec085-720b-43f9-8eb7-b11bc0f4bda2)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the New Musician skill, try saying...

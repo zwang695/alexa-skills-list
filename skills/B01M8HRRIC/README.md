@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Let's Exercise icon" width="36"> [Let's Exercise](http://alexa.amazon.com/#skills/amzn1.ask.skill.b1346f86-28db-4827-a1e2-49dbfde4f153)
+# [Let's Exercise](http://alexa.amazon.com/#skills/amzn1.ask.skill.b1346f86-28db-4827-a1e2-49dbfde4f153)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Let's Exercise skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dinner Options icon" width="36"> [Dinner Options](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7c59a329-25f8-4f84-b246-140dc73e3587)
+# [Dinner Options](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7c59a329-25f8-4f84-b246-140dc73e3587)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Dinner Options skill, try saying...

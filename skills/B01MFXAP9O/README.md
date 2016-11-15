@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SmartEngine icon" width="36"> [SmartEngine](http://alexa.amazon.com/#skills/amzn1.ask.skill.016b7188-391a-4011-a803-0998a77a41ce)
+# [SmartEngine](http://alexa.amazon.com/#skills/amzn1.ask.skill.016b7188-391a-4011-a803-0998a77a41ce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the SmartEngine skill, try saying...

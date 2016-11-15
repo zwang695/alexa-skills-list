@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="I Sneezed icon" width="36"> [I Sneezed](http://alexa.amazon.com/#skills/amzn1.ask.skill.98085fe0-d223-44aa-9c61-61bd089a36a2)
+# [I Sneezed](http://alexa.amazon.com/#skills/amzn1.ask.skill.98085fe0-d223-44aa-9c61-61bd089a36a2)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the I Sneezed skill, try saying...

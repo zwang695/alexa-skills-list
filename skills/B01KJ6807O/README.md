@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Federal Holiday icon" width="36"> [Federal Holiday](http://alexa.amazon.com/#skills/amzn1.ask.skill.2abbeea2-8736-4725-a203-cba74fb1896d)
+# [Federal Holiday](http://alexa.amazon.com/#skills/amzn1.ask.skill.2abbeea2-8736-4725-a203-cba74fb1896d)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Federal Holiday skill, try saying...

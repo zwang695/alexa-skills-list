@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="USA Immigration Test icon" width="36"> [USA Immigration Test](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.93b6ffbb-94da-4d49-9844-5a0287b9cfc5)
+# [USA Immigration Test](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.93b6ffbb-94da-4d49-9844-5a0287b9cfc5)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the USA Immigration Test skill, try saying...

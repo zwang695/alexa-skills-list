@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Environmental Facts icon" width="36"> [Environmental Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a9237ceb-3b05-48f2-8e2b-de0381ed9808)
+# [Environmental Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a9237ceb-3b05-48f2-8e2b-de0381ed9808)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Environmental Facts skill, try saying...

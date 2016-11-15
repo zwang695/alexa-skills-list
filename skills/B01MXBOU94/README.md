@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Centennial Park icon" width="36"> [Snow Report for Centennial Park](http://alexa.amazon.com/#skills/amzn1.ask.skill.3cf55eb4-7fc9-47d7-8305-60fbe604f262)
+# [Snow Report for Centennial Park](http://alexa.amazon.com/#skills/amzn1.ask.skill.3cf55eb4-7fc9-47d7-8305-60fbe604f262)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Centennial Park skill, try saying...

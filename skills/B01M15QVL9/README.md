@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="French Bulldog Facts icon" width="36"> [French Bulldog Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.28cd39d5-1632-4832-8f81-ae79ba54bca7)
+# [French Bulldog Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.28cd39d5-1632-4832-8f81-ae79ba54bca7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the French Bulldog Facts skill, try saying...

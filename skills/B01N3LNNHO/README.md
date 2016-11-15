@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bremen information icon" width="36"> [Bremen information](http://alexa.amazon.com/#skills/amzn1.ask.skill.94be65f2-9d60-43f5-84d3-50d3ead69ce0)
+# [Bremen information](http://alexa.amazon.com/#skills/amzn1.ask.skill.94be65f2-9d60-43f5-84d3-50d3ead69ce0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bremen information skill, try saying...

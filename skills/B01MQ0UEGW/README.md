@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Huff Hills icon" width="36"> [Snow Report for Huff Hills](http://alexa.amazon.com/#skills/amzn1.ask.skill.707cb124-4e02-4be6-965f-20d2ea839368)
+# [Snow Report for Huff Hills](http://alexa.amazon.com/#skills/amzn1.ask.skill.707cb124-4e02-4be6-965f-20d2ea839368)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Huff Hills skill, try saying...

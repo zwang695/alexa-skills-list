@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Sugarbush Mountain icon" width="36"> [Snow Report for Sugarbush Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.8493dbe9-30df-4915-8e6a-c08deb27bf7e)
+# [Snow Report for Sugarbush Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.8493dbe9-30df-4915-8e6a-c08deb27bf7e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Sugarbush Mountain skill, try saying...

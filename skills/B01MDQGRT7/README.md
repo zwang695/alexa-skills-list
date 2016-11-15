@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Gore Mountain icon" width="36"> [Snow Report for Gore Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.1dd8167e-a429-47a7-b6ab-eea27343e61a)
+# [Snow Report for Gore Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.1dd8167e-a429-47a7-b6ab-eea27343e61a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Gore Mountain skill, try saying...

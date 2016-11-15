@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Space Kid icon" width="36"> [Space Kid](http://alexa.amazon.com/#skills/amzn1.ask.skill.50d7577d-31dc-463e-8302-b28053b1d7e7)
+# [Space Kid](http://alexa.amazon.com/#skills/amzn1.ask.skill.50d7577d-31dc-463e-8302-b28053b1d7e7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Space Kid skill, try saying...

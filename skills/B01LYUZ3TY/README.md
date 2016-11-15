@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="National Park Trivia icon" width="36"> [National Park Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.60142486-0959-49cc-be29-219c67517d75)
+# [National Park Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.60142486-0959-49cc-be29-219c67517d75)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the National Park Trivia skill, try saying...

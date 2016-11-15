@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia for Mobile Suit Gundam (tm) icon" width="36"> [Trivia for Mobile Suit Gundam (tm)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4316e8d0-c07b-4dee-a5a3-9ea9ae2bba9f)
+# [Trivia for Mobile Suit Gundam (tm)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4316e8d0-c07b-4dee-a5a3-9ea9ae2bba9f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia for Mobile Suit Gundam (tm) skill, try saying...

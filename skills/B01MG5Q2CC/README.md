@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Educational Technology for Teachers icon" width="36"> [Educational Technology for Teachers](http://alexa.amazon.com/#skills/amzn1.ask.skill.acea3650-9187-449c-8c33-8977f8a0de5c)
+# [Educational Technology for Teachers](http://alexa.amazon.com/#skills/amzn1.ask.skill.acea3650-9187-449c-8c33-8977f8a0de5c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Educational Technology for Teachers skill, try saying...

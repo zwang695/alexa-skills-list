@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Headlines From TsaTsaTzu icon" width="36"> [Headlines From TsaTsaTzu](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c1189ab1-a6e1-492a-9959-25eceb5dba3c)
+# [Headlines From TsaTsaTzu](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c1189ab1-a6e1-492a-9959-25eceb5dba3c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Headlines From TsaTsaTzu skill, try saying...

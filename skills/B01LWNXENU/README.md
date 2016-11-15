@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cockatiel Facts icon" width="36"> [Cockatiel Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.401a06e3-7290-4238-ae26-811ae74bf0dc)
+# [Cockatiel Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.401a06e3-7290-4238-ae26-811ae74bf0dc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cockatiel Facts skill, try saying...

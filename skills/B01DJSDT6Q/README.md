@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Geographic Adventure icon" width="36"> [Geographic Adventure](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b693dcd4-2013-45ca-bb35-c1b007270b2d)
+# [Geographic Adventure](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b693dcd4-2013-45ca-bb35-c1b007270b2d)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Geographic Adventure skill, try saying...

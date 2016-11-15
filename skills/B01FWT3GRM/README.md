@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="International Calling Codes Directory icon" width="36"> [International Calling Codes Directory](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec44a2ab-6a51-48e4-ad8f-963eb9546da0)
+# [International Calling Codes Directory](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec44a2ab-6a51-48e4-ad8f-963eb9546da0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the International Calling Codes Directory skill, try saying...

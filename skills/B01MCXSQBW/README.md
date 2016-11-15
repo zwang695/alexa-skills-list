@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Willard Mountain icon" width="36"> [Snow Report for Willard Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.80359d17-a3db-489b-8306-e1620a804a80)
+# [Snow Report for Willard Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.80359d17-a3db-489b-8306-e1620a804a80)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Willard Mountain skill, try saying...

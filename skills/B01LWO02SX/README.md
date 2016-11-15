@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Beatles Facts icon" width="36"> [Beatles Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.50e5d000-3c06-4095-88ae-b64cb35f4038)
+# [Beatles Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.50e5d000-3c06-4095-88ae-b64cb35f4038)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Beatles Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Who is Phillip Pham icon" width="36"> [Who is Phillip Pham](http://alexa.amazon.com/#skills/amzn1.ask.skill.4439160e-3f00-4bc6-9f7c-7adba93cdb13)
+# [Who is Phillip Pham](http://alexa.amazon.com/#skills/amzn1.ask.skill.4439160e-3f00-4bc6-9f7c-7adba93cdb13)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Who is Phillip Pham skill, try saying...

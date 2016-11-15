@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Hyland Hills Ski Area icon" width="36"> [Snow Report for Hyland Hills Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.f14df5b2-f97f-48e9-81d2-45ba02377a9e)
+# [Snow Report for Hyland Hills Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.f14df5b2-f97f-48e9-81d2-45ba02377a9e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Hyland Hills Ski Area skill, try saying...

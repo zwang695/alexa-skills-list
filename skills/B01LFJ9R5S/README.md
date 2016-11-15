@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Arlington Voter Guide icon" width="36"> [Arlington Voter Guide](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee65f684-4d9d-48db-9335-45f00b611a74)
+# [Arlington Voter Guide](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee65f684-4d9d-48db-9335-45f00b611a74)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Arlington Voter Guide skill, try saying...

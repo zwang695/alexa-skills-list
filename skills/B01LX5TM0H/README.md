@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fan Pokedex icon" width="36"> [Fan Pokedex](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e1d5eaf-c2c1-4912-86f2-69719245a967)
+# [Fan Pokedex](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e1d5eaf-c2c1-4912-86f2-69719245a967)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fan Pokedex skill, try saying...

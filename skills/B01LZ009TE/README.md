@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Vermont Trivia icon" width="36"> [Vermont Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.59d8a880-7b74-46c0-9668-7a816754e724)
+# [Vermont Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.59d8a880-7b74-46c0-9668-7a816754e724)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Vermont Trivia skill, try saying...

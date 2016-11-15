@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Gardening facts icon" width="36"> [Gardening facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.58f4ccfb-515b-4496-a30d-bc868b6471a0)
+# [Gardening facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.58f4ccfb-515b-4496-a30d-bc868b6471a0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Gardening facts skill, try saying...

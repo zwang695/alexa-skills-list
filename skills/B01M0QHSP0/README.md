@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dan's US History Facts icon" width="36"> [Dan's US History Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2eef26f0-21c8-4f13-b340-efa1e58a5d0e)
+# [Dan's US History Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2eef26f0-21c8-4f13-b340-efa1e58a5d0e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dan's US History Facts skill, try saying...

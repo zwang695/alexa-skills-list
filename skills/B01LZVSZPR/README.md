@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Texans Punting Stats icon" width="36"> [Unofficial Texans Punting Stats](http://alexa.amazon.com/#skills/amzn1.ask.skill.d7e9cfce-50f4-4802-a2d0-ca0c91a20917)
+# [Unofficial Texans Punting Stats](http://alexa.amazon.com/#skills/amzn1.ask.skill.d7e9cfce-50f4-4802-a2d0-ca0c91a20917)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Texans Punting Stats skill, try saying...

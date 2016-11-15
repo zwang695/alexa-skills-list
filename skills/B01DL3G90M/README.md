@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wine Trivia icon" width="36"> [Wine Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.784bd7e3-bfd7-4c61-9a72-6510c53e487e)
+# [Wine Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.784bd7e3-bfd7-4c61-9a72-6510c53e487e)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Wine Trivia skill, try saying...

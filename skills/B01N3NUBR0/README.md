@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Earl Bales Ski Centre icon" width="36"> [Snow Report for Earl Bales Ski Centre](http://alexa.amazon.com/#skills/amzn1.ask.skill.a59e408a-b1cd-4d26-9e9f-3daadd3902aa)
+# [Snow Report for Earl Bales Ski Centre](http://alexa.amazon.com/#skills/amzn1.ask.skill.a59e408a-b1cd-4d26-9e9f-3daadd3902aa)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Earl Bales Ski Centre skill, try saying...

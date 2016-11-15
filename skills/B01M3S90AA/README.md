@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Big Squaw icon" width="36"> [Snow Report for Big Squaw](http://alexa.amazon.com/#skills/amzn1.ask.skill.c232891e-ed62-4652-9300-facd21e53697)
+# [Snow Report for Big Squaw](http://alexa.amazon.com/#skills/amzn1.ask.skill.c232891e-ed62-4652-9300-facd21e53697)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Big Squaw skill, try saying...

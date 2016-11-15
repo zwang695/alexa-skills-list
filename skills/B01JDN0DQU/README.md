@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="space information icon" width="36"> [space information](http://alexa.amazon.com/#skills/amzn1.ask.skill.eabbe556-d212-460b-88a7-974271873070)
+# [space information](http://alexa.amazon.com/#skills/amzn1.ask.skill.eabbe556-d212-460b-88a7-974271873070)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the space information skill, try saying...

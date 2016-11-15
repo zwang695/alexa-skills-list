@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Shadowrun Dice Roller icon" width="36"> [Shadowrun Dice Roller](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.74af6e0b-1f7c-45d6-8a72-47f9091185c7)
+# [Shadowrun Dice Roller](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.74af6e0b-1f7c-45d6-8a72-47f9091185c7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Shadowrun Dice Roller skill, try saying...

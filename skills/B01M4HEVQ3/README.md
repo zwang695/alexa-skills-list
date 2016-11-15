@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Video Game Facts icon" width="36"> [Video Game Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.fa849008-541e-4a1f-b847-93134eee3ba7)
+# [Video Game Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.fa849008-541e-4a1f-b847-93134eee3ba7)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Video Game Facts skill, try saying...

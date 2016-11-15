@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Beaver Mountain icon" width="36"> [Snow Report for Beaver Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.ce02f15f-1306-4509-b0f3-1b2bd42cf8b8)
+# [Snow Report for Beaver Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.ce02f15f-1306-4509-b0f3-1b2bd42cf8b8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Beaver Mountain skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Kit icon" width="36"> [Kit](http://alexa.amazon.com/#skills/amzn1.ask.skill.f61050ea-e312-4cb7-aaa6-1d2ee8a64e01)
+# [Kit](http://alexa.amazon.com/#skills/amzn1.ask.skill.f61050ea-e312-4cb7-aaa6-1d2ee8a64e01)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Kit skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Useless Trivia icon" width="36"> [Useless Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c9f553df-3dd3-4877-b042-b63198b09376)
+# [Useless Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c9f553df-3dd3-4877-b042-b63198b09376)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Useless Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Shut Up Quotes icon" width="36"> [Shut Up Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1260974-0b6c-4c3e-ba94-528b7eadab81)
+# [Shut Up Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1260974-0b6c-4c3e-ba94-528b7eadab81)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Shut Up Quotes skill, try saying...

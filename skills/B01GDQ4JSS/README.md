@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Inspirational Quotes icon" width="36"> [Inspirational Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e429dea6-f3a8-43f4-9261-b0ae755e5b27)
+# [Inspirational Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e429dea6-f3a8-43f4-9261-b0ae755e5b27)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Inspirational Quotes skill, try saying...

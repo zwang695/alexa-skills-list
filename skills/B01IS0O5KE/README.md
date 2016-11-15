@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Believe-It-Or-Not Cat Facts icon" width="36"> [Believe-It-Or-Not Cat Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2cb7b54f-7394-44d6-9b9b-ed333a29f3c9)
+# [Believe-It-Or-Not Cat Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2cb7b54f-7394-44d6-9b9b-ed333a29f3c9)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Believe-It-Or-Not Cat Facts skill, try saying...

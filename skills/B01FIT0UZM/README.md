@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="TDV (Teen Dating Violence) Info icon" width="36"> [TDV (Teen Dating Violence) Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.169fc77a-d545-4faf-a78f-647bd2c78d41)
+# [TDV (Teen Dating Violence) Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.169fc77a-d545-4faf-a78f-647bd2c78d41)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the TDV (Teen Dating Violence) Info skill, try saying...

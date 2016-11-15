@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Brimacombe Mountain icon" width="36"> [Snow Report for Brimacombe Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.c788e193-d32e-401e-bd79-60ea94a46b79)
+# [Snow Report for Brimacombe Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.c788e193-d32e-401e-bd79-60ea94a46b79)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Brimacombe Mountain skill, try saying...

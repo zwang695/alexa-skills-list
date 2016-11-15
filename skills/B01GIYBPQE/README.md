@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wahoowa! icon" width="36"> [Wahoowa!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.45ab957b-e478-480c-a8d8-9c5e847bd388)
+# [Wahoowa!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.45ab957b-e478-480c-a8d8-9c5e847bd388)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Wahoowa! skill, try saying...

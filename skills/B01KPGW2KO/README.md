@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="World Facts icon" width="36"> [World Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4ac79578-c9ba-4e9b-81d3-6d1384ce332d)
+# [World Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4ac79578-c9ba-4e9b-81d3-6d1384ce332d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the World Facts skill, try saying...

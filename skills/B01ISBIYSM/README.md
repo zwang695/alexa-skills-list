@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unit of Measure Conversion Facts icon" width="36"> [Unit of Measure Conversion Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7e722e83-b5ad-4827-b660-bd27a2b88e43)
+# [Unit of Measure Conversion Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7e722e83-b5ad-4827-b660-bd27a2b88e43)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Unit of Measure Conversion Facts skill, try saying...

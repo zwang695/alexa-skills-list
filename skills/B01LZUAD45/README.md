@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Positive Affirmations icon" width="36"> [Positive Affirmations](http://alexa.amazon.com/#skills/amzn1.ask.skill.a2ada415-7dee-4e51-97cb-04562f7493ed)
+# [Positive Affirmations](http://alexa.amazon.com/#skills/amzn1.ask.skill.a2ada415-7dee-4e51-97cb-04562f7493ed)
 ![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Positive Affirmations skill, try saying...

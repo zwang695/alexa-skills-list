@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fencing Facts icon" width="36"> [Fencing Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.06fcf5a9-f365-4999-8a75-700dfdc9afaf)
+# [Fencing Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.06fcf5a9-f365-4999-8a75-700dfdc9afaf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fencing Facts skill, try saying...

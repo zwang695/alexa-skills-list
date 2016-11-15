@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia With Friends icon" width="36"> [Trivia With Friends](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cbca4dd5-4743-4895-9283-d45c644702b9)
+# [Trivia With Friends](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cbca4dd5-4743-4895-9283-d45c644702b9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia With Friends skill, try saying...

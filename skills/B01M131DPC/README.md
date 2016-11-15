@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Robot Facts icon" width="36"> [Robot Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.fe569c7c-0ca4-46bc-a6bf-570b8300305e)
+# [Robot Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.fe569c7c-0ca4-46bc-a6bf-570b8300305e)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Robot Facts skill, try saying...

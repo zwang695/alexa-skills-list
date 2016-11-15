@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wine Assistant icon" width="36"> [Wine Assistant](http://alexa.amazon.com/#skills/amzn1.ask.skill.4ef96a9b-cef2-4c84-8154-dac9e22cc722)
+# [Wine Assistant](http://alexa.amazon.com/#skills/amzn1.ask.skill.4ef96a9b-cef2-4c84-8154-dac9e22cc722)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Wine Assistant skill, try saying...

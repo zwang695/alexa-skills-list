@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trending Recipes & Food icon" width="36"> [Trending Recipes & Food](http://alexa.amazon.com/#skills/amzn1.ask.skill.98661ef5-0943-462c-baba-6537cc81c229)
+# [Trending Recipes & Food](http://alexa.amazon.com/#skills/amzn1.ask.skill.98661ef5-0943-462c-baba-6537cc81c229)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Trending Recipes & Food skill, try saying...

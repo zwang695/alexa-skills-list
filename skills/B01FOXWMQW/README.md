@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Facts icon" width="36"> [Trivia Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.75cb7803-9d8c-4295-81f7-023fb19d5e38)
+# [Trivia Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.75cb7803-9d8c-4295-81f7-023fb19d5e38)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia Facts skill, try saying...

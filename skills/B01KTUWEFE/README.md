@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Light Facts icon" width="36"> [Light Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e91196bd-db09-4631-bd0d-9ae6f8c18c76)
+# [Light Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e91196bd-db09-4631-bd0d-9ae6f8c18c76)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Light Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chemistry Professor icon" width="36"> [Chemistry Professor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b2da1712-5cf0-4aa7-813c-c46c1a36bf3d)
+# [Chemistry Professor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b2da1712-5cf0-4aa7-813c-c46c1a36bf3d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chemistry Professor skill, try saying...

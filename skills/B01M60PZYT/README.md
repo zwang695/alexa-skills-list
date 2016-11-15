@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="my solar power facts icon" width="36"> [my solar power facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6b2ec9e8-2096-476c-ab24-4be4b204b538)
+# [my solar power facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6b2ec9e8-2096-476c-ab24-4be4b204b538)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the my solar power facts skill, try saying...

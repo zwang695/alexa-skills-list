@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Repeat After Me icon" width="36"> [Repeat After Me](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8d344e62-4de5-4b8d-94f5-ec7737bc901d)
+# [Repeat After Me](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8d344e62-4de5-4b8d-94f5-ec7737bc901d)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Repeat After Me skill, try saying...

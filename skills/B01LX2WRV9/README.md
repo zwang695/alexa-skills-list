@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Most Important Decision icon" width="36"> [The Most Important Decision](http://alexa.amazon.com/#skills/amzn1.ask.skill.156e8fa5-f7c5-43e3-95d7-280983cccbb2)
+# [The Most Important Decision](http://alexa.amazon.com/#skills/amzn1.ask.skill.156e8fa5-f7c5-43e3-95d7-280983cccbb2)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the The Most Important Decision skill, try saying...

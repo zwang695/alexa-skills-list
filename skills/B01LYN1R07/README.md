@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Red Mountain Resort icon" width="36"> [Snow Report for Red Mountain Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.6caee15b-9f8b-4b8f-9d2c-3b094eaea7ea)
+# [Snow Report for Red Mountain Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.6caee15b-9f8b-4b8f-9d2c-3b094eaea7ea)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Red Mountain Resort skill, try saying...

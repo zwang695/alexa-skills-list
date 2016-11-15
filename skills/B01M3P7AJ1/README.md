@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stranger Things Fan Facts (Unofficial) icon" width="36"> [Stranger Things Fan Facts (Unofficial)](http://alexa.amazon.com/#skills/amzn1.ask.skill.9d9022d1-6ba9-4a85-a89c-b5cc51437b7c)
+# [Stranger Things Fan Facts (Unofficial)](http://alexa.amazon.com/#skills/amzn1.ask.skill.9d9022d1-6ba9-4a85-a89c-b5cc51437b7c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Stranger Things Fan Facts (Unofficial) skill, try saying...

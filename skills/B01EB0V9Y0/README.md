@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bollywood Trivia icon" width="36"> [Bollywood Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.315517f0-f31f-406d-8dc4-97a766f7aff9)
+# [Bollywood Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.315517f0-f31f-406d-8dc4-97a766f7aff9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bollywood Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What Country Should I Go icon" width="36"> [What Country Should I Go](http://alexa.amazon.com/#skills/amzn1.ask.skill.8dc32603-2ee4-4341-b239-eef6332f636e)
+# [What Country Should I Go](http://alexa.amazon.com/#skills/amzn1.ask.skill.8dc32603-2ee4-4341-b239-eef6332f636e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the What Country Should I Go skill, try saying...

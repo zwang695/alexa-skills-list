@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Creative Block icon" width="36"> [Creative Block](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.87c65a4f-0435-4bee-95e1-de66efd11f5a)
+# [Creative Block](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.87c65a4f-0435-4bee-95e1-de66efd11f5a)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Creative Block skill, try saying...

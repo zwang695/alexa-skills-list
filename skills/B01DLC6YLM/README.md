@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Howzzat! T20 Cricket Trivia icon" width="36"> [Howzzat! T20 Cricket Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.72c8352b-43f9-463f-992b-42cb9b06d792)
+# [Howzzat! T20 Cricket Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.72c8352b-43f9-463f-992b-42cb9b06d792)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Howzzat! T20 Cricket Trivia skill, try saying...

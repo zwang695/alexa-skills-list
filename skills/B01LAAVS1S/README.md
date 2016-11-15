@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sustainability Facts icon" width="36"> [Sustainability Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ab50acce-b0ad-41ce-8523-4f09363844aa)
+# [Sustainability Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ab50acce-b0ad-41ce-8523-4f09363844aa)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sustainability Facts skill, try saying...

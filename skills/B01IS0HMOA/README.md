@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bike Safety Tips icon" width="36"> [Bike Safety Tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.34035d63-fc33-4ed3-830e-a21035a6a1fe)
+# [Bike Safety Tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.34035d63-fc33-4ed3-830e-a21035a6a1fe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bike Safety Tips skill, try saying...

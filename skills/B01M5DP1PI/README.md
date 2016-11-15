@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Sundown Mountain icon" width="36"> [Snow Report for Sundown Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.0fe952a6-8f8e-43a3-acfb-64394a5b8775)
+# [Snow Report for Sundown Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.0fe952a6-8f8e-43a3-acfb-64394a5b8775)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Sundown Mountain skill, try saying...

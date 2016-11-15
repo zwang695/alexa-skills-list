@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="life quotes icon" width="36"> [life quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.36be127a-2e67-47b5-8978-362928d764c1)
+# [life quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.36be127a-2e67-47b5-8978-362928d764c1)
 ![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the life quotes skill, try saying...

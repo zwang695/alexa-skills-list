@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="GreenIQ icon" width="36"> [GreenIQ](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bc0ff183-e6d2-4dd3-8247-677c5194e47e)
+# [GreenIQ](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bc0ff183-e6d2-4dd3-8247-677c5194e47e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the GreenIQ skill, try saying...

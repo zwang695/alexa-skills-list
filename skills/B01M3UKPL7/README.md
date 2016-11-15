@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Periodic table icon" width="36"> [Periodic table](http://alexa.amazon.com/#skills/amzn1.ask.skill.21b87101-852b-4723-8b1a-7ef66f78e5ce)
+# [Periodic table](http://alexa.amazon.com/#skills/amzn1.ask.skill.21b87101-852b-4723-8b1a-7ef66f78e5ce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Periodic table skill, try saying...

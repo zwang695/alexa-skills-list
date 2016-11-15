@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Gauss Fun Facts icon" width="36"> [Gauss Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f8e52c23-10d4-4c37-b142-0fdf62238c07)
+# [Gauss Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f8e52c23-10d4-4c37-b142-0fdf62238c07)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Gauss Fun Facts skill, try saying...

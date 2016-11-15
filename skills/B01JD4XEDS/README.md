@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Prayer Zone Workout icon" width="36"> [Prayer Zone Workout](http://alexa.amazon.com/#skills/amzn1.ask.skill.f3cb48f9-5e4d-4543-8c87-ec8ef2c1f7dd)
+# [Prayer Zone Workout](http://alexa.amazon.com/#skills/amzn1.ask.skill.f3cb48f9-5e4d-4543-8c87-ec8ef2c1f7dd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Prayer Zone Workout skill, try saying...

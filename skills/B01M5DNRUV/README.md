@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Buck Hill icon" width="36"> [Snow Report for Buck Hill](http://alexa.amazon.com/#skills/amzn1.ask.skill.57229373-7777-4471-9d05-d7ca0ea02388)
+# [Snow Report for Buck Hill](http://alexa.amazon.com/#skills/amzn1.ask.skill.57229373-7777-4471-9d05-d7ca0ea02388)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Buck Hill skill, try saying...

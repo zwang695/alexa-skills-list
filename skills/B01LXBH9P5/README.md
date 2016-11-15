@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Project Manager Trivia icon" width="36"> [Unofficial Project Manager Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.14f15854-8533-4118-b3ec-66f674c64cc4)
+# [Unofficial Project Manager Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.14f15854-8533-4118-b3ec-66f674c64cc4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Project Manager Trivia skill, try saying...

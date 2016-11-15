@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Canaan Valley icon" width="36"> [Snow Report for Canaan Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.78ee0b68-c3c6-4d14-9738-b837a913aa56)
+# [Snow Report for Canaan Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.78ee0b68-c3c6-4d14-9738-b837a913aa56)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Canaan Valley skill, try saying...

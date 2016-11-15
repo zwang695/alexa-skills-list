@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CoffeeMachine icon" width="36"> [CoffeeMachine](http://alexa.amazon.com/#skills/amzn1.ask.skill.655a954d-862b-4699-8b38-28fe473f83aa)
+# [CoffeeMachine](http://alexa.amazon.com/#skills/amzn1.ask.skill.655a954d-862b-4699-8b38-28fe473f83aa)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CoffeeMachine skill, try saying...

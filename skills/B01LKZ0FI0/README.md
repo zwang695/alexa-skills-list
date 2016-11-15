@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random WOD by WIKIWOD icon" width="36"> [Random WOD by WIKIWOD](http://alexa.amazon.com/#skills/amzn1.ask.skill.2596947d-165b-4922-be2b-dcb23d6766a3)
+# [Random WOD by WIKIWOD](http://alexa.amazon.com/#skills/amzn1.ask.skill.2596947d-165b-4922-be2b-dcb23d6766a3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random WOD by WIKIWOD skill, try saying...

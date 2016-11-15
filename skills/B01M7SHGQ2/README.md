@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="US Facts icon" width="36"> [US Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.fb02156b-4db2-4bc5-911b-f3830e107c3c)
+# [US Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.fb02156b-4db2-4bc5-911b-f3830e107c3c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the US Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trust Builder icon" width="36"> [Trust Builder](http://alexa.amazon.com/#skills/amzn1.ask.skill.f3b17167-400b-48ed-9f91-fe66215a382a)
+# [Trust Builder](http://alexa.amazon.com/#skills/amzn1.ask.skill.f3b17167-400b-48ed-9f91-fe66215a382a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trust Builder skill, try saying...

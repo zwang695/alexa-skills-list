@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Amazon Facts icon" width="36"> [Unofficial Amazon Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.fab23b12-4b34-48d1-9028-8ddfb6f03416)
+# [Unofficial Amazon Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.fab23b12-4b34-48d1-9028-8ddfb6f03416)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Unofficial Amazon Facts skill, try saying...

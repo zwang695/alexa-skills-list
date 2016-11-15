@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [TorAlarm 3E](http://alexa.amazon.com/#skills/amzn1.ask.skill.24c6a905-0f7f-4597-b5e0-6eceab7210e1)
+# [TorAlarm 3E](http://alexa.amazon.com/#skills/amzn1.ask.skill.24c6a905-0f7f-4597-b5e0-6eceab7210e1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

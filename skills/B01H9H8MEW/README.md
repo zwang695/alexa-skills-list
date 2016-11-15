@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cloud Explorer Games icon" width="36"> [Cloud Explorer Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.52d175e7-79b1-48fd-b28f-091dd9ca16a5)
+# [Cloud Explorer Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.52d175e7-79b1-48fd-b28f-091dd9ca16a5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cloud Explorer Games skill, try saying...

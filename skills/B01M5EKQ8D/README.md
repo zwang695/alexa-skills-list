@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="PaperBoy icon" width="36"> [PaperBoy](http://alexa.amazon.com/#skills/amzn1.ask.skill.c063dca3-50f3-480f-a6d9-cc9aa35a9857)
+# [PaperBoy](http://alexa.amazon.com/#skills/amzn1.ask.skill.c063dca3-50f3-480f-a6d9-cc9aa35a9857)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the PaperBoy skill, try saying...

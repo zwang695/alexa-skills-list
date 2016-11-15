@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Guess the Inventor icon" width="36"> [Guess the Inventor](http://alexa.amazon.com/#skills/amzn1.ask.skill.402ba039-2218-4eab-a99a-ed0af0c156f0)
+# [Guess the Inventor](http://alexa.amazon.com/#skills/amzn1.ask.skill.402ba039-2218-4eab-a99a-ed0af0c156f0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Guess the Inventor skill, try saying...

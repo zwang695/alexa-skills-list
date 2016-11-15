@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Dota 2 Abilities Skill icon" width="36"> [Unofficial Dota 2 Abilities Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.c32661c7-67c0-4a7b-8a93-020628a69682)
+# [Unofficial Dota 2 Abilities Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.c32661c7-67c0-4a7b-8a93-020628a69682)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Dota 2 Abilities Skill skill, try saying...

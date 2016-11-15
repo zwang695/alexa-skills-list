@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Utah.Gov icon" width="36"> [Utah.Gov](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cd5eb78c-05b9-4b37-952a-00d9e18040ac)
+# [Utah.Gov](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cd5eb78c-05b9-4b37-952a-00d9e18040ac)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Utah.Gov skill, try saying...

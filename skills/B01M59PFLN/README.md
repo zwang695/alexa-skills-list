@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Animal Facts icon" width="36"> [Animal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.92e2c373-25fc-4938-b3bd-4b9afde18465)
+# [Animal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.92e2c373-25fc-4938-b3bd-4b9afde18465)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Animal Facts skill, try saying...

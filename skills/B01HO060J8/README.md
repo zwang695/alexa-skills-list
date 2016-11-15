@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Crime Tracker icon" width="36"> [Crime Tracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.286f6c18-e92e-4b49-89a3-8951d5f98ffd)
+# [Crime Tracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.286f6c18-e92e-4b49-89a3-8951d5f98ffd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Crime Tracker skill, try saying...

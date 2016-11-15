@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="National Parks Quiz icon" width="36"> [National Parks Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d1c69560-9e24-4269-bdaf-5ed1981d1562)
+# [National Parks Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d1c69560-9e24-4269-bdaf-5ed1981d1562)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the National Parks Quiz skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts About David icon" width="36"> [Facts About David](http://alexa.amazon.com/#skills/amzn1.ask.skill.33ad1777-0733-4fa6-9d4b-18f3ef2a1b87)
+# [Facts About David](http://alexa.amazon.com/#skills/amzn1.ask.skill.33ad1777-0733-4fa6-9d4b-18f3ef2a1b87)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts About David skill, try saying...

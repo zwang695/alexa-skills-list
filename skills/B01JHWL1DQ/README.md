@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Steve Jobs Trivia icon" width="36"> [Steve Jobs Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.66b45847-5c39-4464-9b2e-6d805e681a9b)
+# [Steve Jobs Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.66b45847-5c39-4464-9b2e-6d805e681a9b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Steve Jobs Trivia skill, try saying...

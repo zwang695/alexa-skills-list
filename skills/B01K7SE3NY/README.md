@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Circuit Warz Level one icon" width="36"> [Circuit Warz Level one](http://alexa.amazon.com/#skills/amzn1.ask.skill.38f3ce4c-0948-4346-b464-16a8e3233836)
+# [Circuit Warz Level one](http://alexa.amazon.com/#skills/amzn1.ask.skill.38f3ce4c-0948-4346-b464-16a8e3233836)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Circuit Warz Level one skill, try saying...

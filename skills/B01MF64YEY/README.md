@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Phase of the moon icon" width="36"> [Phase of the moon](http://alexa.amazon.com/#skills/amzn1.ask.skill.ac8c9e01-57a2-40f5-8906-bb9b8e184c46)
+# [Phase of the moon](http://alexa.amazon.com/#skills/amzn1.ask.skill.ac8c9e01-57a2-40f5-8906-bb9b8e184c46)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Phase of the moon skill, try saying...

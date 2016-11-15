@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pro Football Quiz icon" width="36"> [Pro Football Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.425589fc-a8f7-46ac-8f40-fa0033ee158e)
+# [Pro Football Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.425589fc-a8f7-46ac-8f40-fa0033ee158e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pro Football Quiz skill, try saying...

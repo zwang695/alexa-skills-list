@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tuya Smart icon" width="36"> [Tuya Smart](http://alexa.amazon.com/#skills/amzn1.ask.skill.d879feaf-c8f1-4c3a-a15c-aaad7b5a776d)
+# [Tuya Smart](http://alexa.amazon.com/#skills/amzn1.ask.skill.d879feaf-c8f1-4c3a-a15c-aaad7b5a776d)
 ![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 Amazon Alexa and the Tuya smart home products work together to help you control home appliance nice and easy.

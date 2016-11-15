@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CoWorking Night Facts icon" width="36"> [CoWorking Night Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8a107b5e-3611-403c-830f-db15647be45a)
+# [CoWorking Night Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8a107b5e-3611-403c-830f-db15647be45a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CoWorking Night Facts skill, try saying...

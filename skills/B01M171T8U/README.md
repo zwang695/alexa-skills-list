@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Texans Facts icon" width="36"> [Unofficial Texans Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.079a3eaa-639f-44e5-bf4c-d6c2ed579450)
+# [Unofficial Texans Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.079a3eaa-639f-44e5-bf4c-d6c2ed579450)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Texans Facts skill, try saying...

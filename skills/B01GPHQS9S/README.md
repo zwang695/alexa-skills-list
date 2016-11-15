@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Health Care Genius icon" width="36"> [Health Care Genius](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9b86c70f-f582-444a-a3f6-510b93c210dd)
+# [Health Care Genius](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9b86c70f-f582-444a-a3f6-510b93c210dd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Health Care Genius skill, try saying...

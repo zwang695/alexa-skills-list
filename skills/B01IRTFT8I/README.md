@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Flyers Trivia icon" width="36"> [Flyers Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.5f8f2ddc-98b6-43a2-bd2c-2a9e86c0d79e)
+# [Flyers Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.5f8f2ddc-98b6-43a2-bd2c-2a9e86c0d79e)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Flyers Trivia skill, try saying...

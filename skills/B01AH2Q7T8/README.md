@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bulls and Cows game icon" width="36"> [Bulls and Cows game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7d693144-d24f-4e4e-9416-9d853fb5c4d6)
+# [Bulls and Cows game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7d693144-d24f-4e4e-9416-9d853fb5c4d6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bulls and Cows game skill, try saying...

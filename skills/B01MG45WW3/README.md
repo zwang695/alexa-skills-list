@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Gunstock Ski Area icon" width="36"> [Snow Report for Gunstock Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.39832c48-4155-4114-bfb7-d23d5bb177c9)
+# [Snow Report for Gunstock Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.39832c48-4155-4114-bfb7-d23d5bb177c9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Gunstock Ski Area skill, try saying...

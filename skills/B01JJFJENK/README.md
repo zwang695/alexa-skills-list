@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wine Facts icon" width="36"> [Wine Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5ac2c65d-dbbd-4867-a5ff-e0ba24b84311)
+# [Wine Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5ac2c65d-dbbd-4867-a5ff-e0ba24b84311)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Wine Facts skill, try saying...

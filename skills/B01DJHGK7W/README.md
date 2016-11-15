@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Buddha Says icon" width="36"> [Buddha Says](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a155866b-810d-465f-9d0f-5f00dd3ce660)
+# [Buddha Says](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a155866b-810d-465f-9d0f-5f00dd3ce660)
 ![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Buddha Says skill, try saying...

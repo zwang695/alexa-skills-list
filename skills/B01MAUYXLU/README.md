@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Star Wars Unofficial icon" width="36"> [Star Wars Unofficial](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0063a71-4f9a-45e0-aa24-83aecf5f7cba)
+# [Star Wars Unofficial](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0063a71-4f9a-45e0-aa24-83aecf5f7cba)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Star Wars Unofficial skill, try saying...

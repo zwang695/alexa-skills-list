@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="PCT Facts icon" width="36"> [PCT Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.acf2b1e4-f810-4fba-81c5-be13d9d1f8ee)
+# [PCT Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.acf2b1e4-f810-4fba-81c5-be13d9d1f8ee)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the PCT Facts skill, try saying...

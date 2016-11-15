@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Holy Grail Trivia icon" width="36"> [Holy Grail Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.39024707-d305-46bd-a925-3c1c46271a5a)
+# [Holy Grail Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.39024707-d305-46bd-a925-3c1c46271a5a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Holy Grail Trivia skill, try saying...

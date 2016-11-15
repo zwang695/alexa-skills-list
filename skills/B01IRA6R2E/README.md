@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bearcat icon" width="36"> [Bearcat](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f9b92bbd-5006-46f6-bb9a-0bff8d89480c)
+# [Bearcat](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f9b92bbd-5006-46f6-bb9a-0bff8d89480c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bearcat skill, try saying...

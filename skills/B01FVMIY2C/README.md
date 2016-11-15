@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Have I been pwned? for Alexa icon" width="36"> [Have I been pwned? for Alexa](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.180188c8-23ad-4f79-9ca9-a59d0890484b)
+# [Have I been pwned? for Alexa](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.180188c8-23ad-4f79-9ca9-a59d0890484b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Have I been pwned? for Alexa skill, try saying...

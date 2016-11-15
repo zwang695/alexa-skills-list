@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chameleon Facts icon" width="36"> [Chameleon Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.00f86a15-7e87-4d89-87cb-58468be6cce0)
+# [Chameleon Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.00f86a15-7e87-4d89-87cb-58468be6cce0)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Chameleon Facts skill, try saying...

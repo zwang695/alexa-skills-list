@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Random Restaurant Picker for Cornell icon" width="36"> [Unofficial Random Restaurant Picker for Cornell](http://alexa.amazon.com/#skills/amzn1.ask.skill.983a21e4-8205-4614-9971-090a607e6484)
+# [Unofficial Random Restaurant Picker for Cornell](http://alexa.amazon.com/#skills/amzn1.ask.skill.983a21e4-8205-4614-9971-090a607e6484)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Random Restaurant Picker for Cornell skill, try saying...

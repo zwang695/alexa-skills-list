@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Tyrol Basin icon" width="36"> [Snow Report for Tyrol Basin](http://alexa.amazon.com/#skills/amzn1.ask.skill.1a6767a4-c17c-487f-9e66-68974e7408dd)
+# [Snow Report for Tyrol Basin](http://alexa.amazon.com/#skills/amzn1.ask.skill.1a6767a4-c17c-487f-9e66-68974e7408dd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Tyrol Basin skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="space fun facts icon" width="36"> [space fun facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.25271f3d-0327-438d-90f3-c8e023138db3)
+# [space fun facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.25271f3d-0327-438d-90f3-c8e023138db3)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the space fun facts skill, try saying...

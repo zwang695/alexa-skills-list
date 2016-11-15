@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="State Quarters icon" width="36"> [State Quarters](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d35ddede-0971-4501-99de-5b2dbc46b67d)
+# [State Quarters](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d35ddede-0971-4501-99de-5b2dbc46b67d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the State Quarters skill, try saying...

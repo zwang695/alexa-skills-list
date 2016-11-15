@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Laser Trivia icon" width="36"> [Laser Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f84f0f02-f966-4cd1-a96c-47823ffd3086)
+# [Laser Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f84f0f02-f966-4cd1-a96c-47823ffd3086)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Laser Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SciGuy icon" width="36"> [SciGuy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4413a57d-2eed-4ef8-a417-408ecf2e3923)
+# [SciGuy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4413a57d-2eed-4ef8-a417-408ecf2e3923)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the SciGuy skill, try saying...

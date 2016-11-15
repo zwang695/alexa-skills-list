@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="National Park Facts icon" width="36"> [National Park Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fbf251b7-bd7e-4ec9-a300-741d2f2d436f)
+# [National Park Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fbf251b7-bd7e-4ec9-a300-741d2f2d436f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the National Park Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nine month old baby facts icon" width="36"> [Nine month old baby facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bf7cb2d9-6b76-4259-a779-f12fedf5bc8b)
+# [Nine month old baby facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bf7cb2d9-6b76-4259-a779-f12fedf5bc8b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Nine month old baby facts skill, try saying...

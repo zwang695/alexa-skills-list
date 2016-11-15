@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="softball fact icon" width="36"> [softball fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.f5f4df75-57ea-4721-94e7-fe7b725fa174)
+# [softball fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.f5f4df75-57ea-4721-94e7-fe7b725fa174)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the softball fact skill, try saying...

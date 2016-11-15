@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Book Events icon" width="36"> [Book Events](http://alexa.amazon.com/#skills/amzn1.ask.skill.281adaac-3ddd-41c2-a4fd-e820ab833c11)
+# [Book Events](http://alexa.amazon.com/#skills/amzn1.ask.skill.281adaac-3ddd-41c2-a4fd-e820ab833c11)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Book Events skill, try saying...

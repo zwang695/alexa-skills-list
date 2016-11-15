@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [mKeRix](http://alexa.amazon.com/#skills/amzn1.ask.skill.06527f37-d3bd-45eb-9392-7db8e31c0f58)
+# [mKeRix](http://alexa.amazon.com/#skills/amzn1.ask.skill.06527f37-d3bd-45eb-9392-7db8e31c0f58)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

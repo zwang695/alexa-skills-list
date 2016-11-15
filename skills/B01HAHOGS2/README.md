@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mark Twain Quotes icon" width="36"> [Mark Twain Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.22061f61-62f5-4b47-afe0-a9091734bd3a)
+# [Mark Twain Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.22061f61-62f5-4b47-afe0-a9091734bd3a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mark Twain Quotes skill, try saying...

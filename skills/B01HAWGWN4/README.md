@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Portugal Squad Helper icon" width="36"> [Portugal Squad Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.40a7b1af-1a32-42c7-83f4-f0f387970b16)
+# [Portugal Squad Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.40a7b1af-1a32-42c7-83f4-f0f387970b16)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Portugal Squad Helper skill, try saying...

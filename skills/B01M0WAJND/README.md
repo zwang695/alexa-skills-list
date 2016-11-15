@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Make-Model Quiz icon" width="36"> [Make-Model Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.22056467-eefa-4a64-a56f-88fb2ab1afed)
+# [Make-Model Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.22056467-eefa-4a64-a56f-88fb2ab1afed)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Make-Model Quiz skill, try saying...

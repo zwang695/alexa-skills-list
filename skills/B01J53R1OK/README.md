@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Social Adviser icon" width="36"> [Social Adviser](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d386bf4-f5a7-4687-8d02-7f938b13501b)
+# [Social Adviser](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d386bf4-f5a7-4687-8d02-7f938b13501b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Social Adviser skill, try saying...

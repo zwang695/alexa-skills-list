@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Granite Gorge icon" width="36"> [Snow Report for Granite Gorge](http://alexa.amazon.com/#skills/amzn1.ask.skill.aa176610-4c36-4f39-bbc0-9610dc21bd8d)
+# [Snow Report for Granite Gorge](http://alexa.amazon.com/#skills/amzn1.ask.skill.aa176610-4c36-4f39-bbc0-9610dc21bd8d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Granite Gorge skill, try saying...

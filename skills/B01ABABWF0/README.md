@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="UncleShakespeare icon" width="36"> [UncleShakespeare](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d9914b13-4e04-4272-86bf-3cb1b2151d77)
+# [UncleShakespeare](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d9914b13-4e04-4272-86bf-3cb1b2151d77)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the UncleShakespeare skill, try saying...

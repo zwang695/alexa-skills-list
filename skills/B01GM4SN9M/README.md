@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SnakeCharmer icon" width="36"> [SnakeCharmer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c378e1ef-b8d4-41cc-a905-6c5a9af147a7)
+# [SnakeCharmer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c378e1ef-b8d4-41cc-a905-6c5a9af147a7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the SnakeCharmer skill, try saying...

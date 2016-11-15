@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Villa Olivia icon" width="36"> [Snow Report for Villa Olivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f717f70e-e2b6-4585-ba0c-79eeab0602d3)
+# [Snow Report for Villa Olivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f717f70e-e2b6-4585-ba0c-79eeab0602d3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Villa Olivia skill, try saying...

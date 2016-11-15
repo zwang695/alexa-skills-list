@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fun Facts icon" width="36"> [Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6fd57b97-d478-4370-a13e-4214e3f19bab)
+# [Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6fd57b97-d478-4370-a13e-4214e3f19bab)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Fun Facts skill, try saying...

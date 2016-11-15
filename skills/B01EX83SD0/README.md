@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Marine Life icon" width="36"> [Marine Life](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5eb8a5aa-ff04-4d61-a382-068d3512b53b)
+# [Marine Life](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5eb8a5aa-ff04-4d61-a382-068d3512b53b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Marine Life skill, try saying...

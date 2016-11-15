@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Yosemite Ski icon" width="36"> [Snow Report for Yosemite Ski](http://alexa.amazon.com/#skills/amzn1.ask.skill.d59fdaa8-3671-4ddd-9716-8f1a3cab11bd)
+# [Snow Report for Yosemite Ski](http://alexa.amazon.com/#skills/amzn1.ask.skill.d59fdaa8-3671-4ddd-9716-8f1a3cab11bd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Yosemite Ski skill, try saying...

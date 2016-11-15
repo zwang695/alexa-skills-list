@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Vinyl Facts icon" width="36"> [Vinyl Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1d52dfee-6fde-4576-b913-1e4485822376)
+# [Vinyl Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1d52dfee-6fde-4576-b913-1e4485822376)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Vinyl Facts skill, try saying...

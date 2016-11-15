@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Quiz For Thomas The Tank Engine Fans icon" width="36"> [Quiz For Thomas The Tank Engine Fans](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.21684b01-ac35-4c52-856a-ea6d838ed5f1)
+# [Quiz For Thomas The Tank Engine Fans](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.21684b01-ac35-4c52-856a-ea6d838ed5f1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Quiz For Thomas The Tank Engine Fans skill, try saying...

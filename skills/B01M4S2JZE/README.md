@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Snowbird Resort icon" width="36"> [Snow Report for Snowbird Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.67e1838d-23d4-467b-823f-3c8d06676ed6)
+# [Snow Report for Snowbird Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.67e1838d-23d4-467b-823f-3c8d06676ed6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Snowbird Resort skill, try saying...

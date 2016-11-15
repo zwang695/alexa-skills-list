@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Gravy Boat icon" width="36"> [Gravy Boat](http://alexa.amazon.com/#skills/amzn1.ask.skill.77ea7810-16f7-46b8-b815-724dc1513f3b)
+# [Gravy Boat](http://alexa.amazon.com/#skills/amzn1.ask.skill.77ea7810-16f7-46b8-b815-724dc1513f3b)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Gravy Boat skill, try saying...

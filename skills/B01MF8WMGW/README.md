@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Service Local icon" width="36"> [Service Local](http://alexa.amazon.com/#skills/amzn1.ask.skill.28c683ff-1c78-4b48-82ab-34a50e57daf8)
+# [Service Local](http://alexa.amazon.com/#skills/amzn1.ask.skill.28c683ff-1c78-4b48-82ab-34a50e57daf8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Service Local skill, try saying...

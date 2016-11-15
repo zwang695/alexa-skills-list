@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hamilton Facts icon" width="36"> [Hamilton Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b370e24a-7f3a-441a-b58c-8aebfd60f795)
+# [Hamilton Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b370e24a-7f3a-441a-b58c-8aebfd60f795)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hamilton Facts skill, try saying...

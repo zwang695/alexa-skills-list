@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Guitar Fact Skill icon" width="36"> [Guitar Fact Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0efbb8ae-9b1d-4fb3-bf6e-bfcee9a126b7)
+# [Guitar Fact Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0efbb8ae-9b1d-4fb3-bf6e-bfcee9a126b7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Guitar Fact Skill skill, try saying...

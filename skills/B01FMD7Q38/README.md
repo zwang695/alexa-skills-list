@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="It's Five O'Clock Now! icon" width="36"> [It's Five O'Clock Now!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.871249bf-e685-44a3-afcf-f6ce33d3669e)
+# [It's Five O'Clock Now!](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.871249bf-e685-44a3-afcf-f6ce33d3669e)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the It's Five O'Clock Now! skill, try saying...

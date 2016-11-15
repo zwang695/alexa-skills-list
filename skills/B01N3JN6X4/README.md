@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Whitecap Mountain icon" width="36"> [Snow Report for Whitecap Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.2ff92c61-dfd4-438f-9a74-514d7f9a98c3)
+# [Snow Report for Whitecap Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.2ff92c61-dfd4-438f-9a74-514d7f9a98c3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Whitecap Mountain skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Neolotto ](http://alexa.amazon.com/#skills/amzn1.ask.skill.db875ff3-57e1-4495-8417-e88509a3f002)
+# [Neolotto ](http://alexa.amazon.com/#skills/amzn1.ask.skill.db875ff3-57e1-4495-8417-e88509a3f002)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

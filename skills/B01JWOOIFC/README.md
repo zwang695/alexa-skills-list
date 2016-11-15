@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Liz Facts icon" width="36"> [Liz Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2d393804-7fd9-4a40-ac6d-34382d49782c)
+# [Liz Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2d393804-7fd9-4a40-ac6d-34382d49782c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Liz Facts skill, try saying...

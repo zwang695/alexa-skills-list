@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Zamunda Games icon" width="36"> [Zamunda Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f2b15e10-5646-4950-8f66-b70af7acfc14)
+# [Zamunda Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f2b15e10-5646-4950-8f66-b70af7acfc14)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Zamunda Games skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Before the Knot icon" width="36"> [Before the Knot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.515732fb-5305-42c1-91e9-d41366d79cba)
+# [Before the Knot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.515732fb-5305-42c1-91e9-d41366d79cba)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Before the Knot skill, try saying...

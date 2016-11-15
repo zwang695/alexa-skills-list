@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pro Football Team Game icon" width="36"> [Pro Football Team Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a36f665-6221-475e-9ce0-0f106809f09b)
+# [Pro Football Team Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a36f665-6221-475e-9ce0-0f106809f09b)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Pro Football Team Game skill, try saying...

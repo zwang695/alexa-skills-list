@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Robot Warfare icon" width="36"> [Robot Warfare](http://alexa.amazon.com/#skills/amzn1.ask.skill.a1fa8917-dad7-4081-96b1-36a573953e91)
+# [Robot Warfare](http://alexa.amazon.com/#skills/amzn1.ask.skill.a1fa8917-dad7-4081-96b1-36a573953e91)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Robot Warfare skill, try saying...

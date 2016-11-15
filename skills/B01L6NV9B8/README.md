@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baby Shot icon" width="36"> [Baby Shot](http://alexa.amazon.com/#skills/amzn1.ask.skill.83c483e2-7fee-419a-b0ca-d78d9a53cd19)
+# [Baby Shot](http://alexa.amazon.com/#skills/amzn1.ask.skill.83c483e2-7fee-419a-b0ca-d78d9a53cd19)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Baby Shot skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ingredient Sub icon" width="36"> [Ingredient Sub](http://alexa.amazon.com/#skills/amzn1.ask.skill.5354d2ae-a5d1-4024-add6-4f7dd12ace66)
+# [Ingredient Sub](http://alexa.amazon.com/#skills/amzn1.ask.skill.5354d2ae-a5d1-4024-add6-4f7dd12ace66)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Ingredient Sub skill, try saying...

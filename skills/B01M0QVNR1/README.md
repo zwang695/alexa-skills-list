@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Google Facts icon" width="36"> [Unofficial Google Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ba6945d-f923-42d9-bdf4-f4691833149c)
+# [Unofficial Google Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ba6945d-f923-42d9-bdf4-f4691833149c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Google Facts skill, try saying...

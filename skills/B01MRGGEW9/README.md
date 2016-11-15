@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Test my trivia icon" width="36"> [Test my trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.04057d0e-a343-4540-bdb0-0a7c65a4b871)
+# [Test my trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.04057d0e-a343-4540-bdb0-0a7c65a4b871)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Test my trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CFD Facts icon" width="36"> [CFD Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8a120b90-10e1-4ed9-90e4-39068ff50819)
+# [CFD Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8a120b90-10e1-4ed9-90e4-39068ff50819)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CFD Facts skill, try saying...

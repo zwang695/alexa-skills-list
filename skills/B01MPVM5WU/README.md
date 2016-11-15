@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="TechQuiz icon" width="36"> [TechQuiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.0ff0c95a-1916-48bd-95a6-aa6b56407429)
+# [TechQuiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.0ff0c95a-1916-48bd-95a6-aa6b56407429)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the TechQuiz skill, try saying...

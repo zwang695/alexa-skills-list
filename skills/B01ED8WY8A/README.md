@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="French Tutor icon" width="36"> [French Tutor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.13f5c5bd-290a-4717-9de1-1ff25f997f7c)
+# [French Tutor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.13f5c5bd-290a-4717-9de1-1ff25f997f7c)
 ![1.6 stars](../../images/ic_star_black_18dp_1x.png)![1.6 stars](../../images/ic_star_half_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the French Tutor skill, try saying...

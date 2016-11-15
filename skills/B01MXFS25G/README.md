@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Timberline Four Seasons icon" width="36"> [Snow Report for Timberline Four Seasons](http://alexa.amazon.com/#skills/amzn1.ask.skill.fdbff34e-495f-4f5c-acdf-a6853ae7f67b)
+# [Snow Report for Timberline Four Seasons](http://alexa.amazon.com/#skills/amzn1.ask.skill.fdbff34e-495f-4f5c-acdf-a6853ae7f67b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Timberline Four Seasons skill, try saying...

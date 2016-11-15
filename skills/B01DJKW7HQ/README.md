@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Color Game icon" width="36"> [The Color Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f0af7698-962b-43b5-a333-7ec2be581cab)
+# [The Color Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f0af7698-962b-43b5-a333-7ec2be581cab)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the The Color Game skill, try saying...

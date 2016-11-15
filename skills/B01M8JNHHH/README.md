@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Destiny Gamer Facts icon" width="36"> [Unofficial Destiny Gamer Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.13ca9c77-0bc4-4d06-b0ff-efcbcd2d530b)
+# [Unofficial Destiny Gamer Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.13ca9c77-0bc4-4d06-b0ff-efcbcd2d530b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Destiny Gamer Facts skill, try saying...

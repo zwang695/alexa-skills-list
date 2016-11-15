@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Therapist icon" width="36"> [Therapist](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a9ece2b-1d76-45de-810a-821cc08c97c1)
+# [Therapist](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a9ece2b-1d76-45de-810a-821cc08c97c1)
 ![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Therapist skill, try saying...

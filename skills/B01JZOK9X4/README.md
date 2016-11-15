@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fun Fair Positive Soccer icon" width="36"> [Fun Fair Positive Soccer](http://alexa.amazon.com/#skills/amzn1.ask.skill.f8e51b8d-4587-486d-9232-4572a9f71d9c)
+# [Fun Fair Positive Soccer](http://alexa.amazon.com/#skills/amzn1.ask.skill.f8e51b8d-4587-486d-9232-4572a9f71d9c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fun Fair Positive Soccer skill, try saying...

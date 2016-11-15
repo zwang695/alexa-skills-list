@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Funny Girl icon" width="36"> [Funny Girl](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.51103532-e136-41ee-b6a9-46ed0584bfcf)
+# [Funny Girl](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.51103532-e136-41ee-b6a9-46ed0584bfcf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Funny Girl skill, try saying...

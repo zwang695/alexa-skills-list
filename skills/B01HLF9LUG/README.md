@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Planning Ideas icon" width="36"> [Planning Ideas](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b7435afc-ab72-4512-81ce-9979b757a39f)
+# [Planning Ideas](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b7435afc-ab72-4512-81ce-9979b757a39f)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Planning Ideas skill, try saying...

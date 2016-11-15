@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Date Ideas icon" width="36"> [Date Ideas](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f2af0f0-b860-4313-9f54-35d3b986808e)
+# [Date Ideas](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f2af0f0-b860-4313-9f54-35d3b986808e)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Date Ideas skill, try saying...

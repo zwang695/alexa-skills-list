@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="France Facts icon" width="36"> [France Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a04cd06d-b459-4f7f-b874-69fc6711d1d2)
+# [France Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a04cd06d-b459-4f7f-b874-69fc6711d1d2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the France Facts skill, try saying...

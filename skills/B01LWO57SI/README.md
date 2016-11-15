@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="United States' Trivia Game icon" width="36"> [United States' Trivia Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.317c5a87-deda-464b-8a2b-0beaab49f586)
+# [United States' Trivia Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.317c5a87-deda-464b-8a2b-0beaab49f586)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the United States' Trivia Game skill, try saying...

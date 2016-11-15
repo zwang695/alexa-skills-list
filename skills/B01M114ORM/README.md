@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Detail Your Car icon" width="36"> [Detail Your Car](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d334ac5-2bb4-45e5-a1ab-1fa1331ecad5)
+# [Detail Your Car](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d334ac5-2bb4-45e5-a1ab-1fa1331ecad5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Detail Your Car skill, try saying...

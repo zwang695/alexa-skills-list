@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Flame Boss icon" width="36"> [Flame Boss](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a92ccede-60f8-4228-9168-fd030136607c)
+# [Flame Boss](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a92ccede-60f8-4228-9168-fd030136607c)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Flame Boss skill, try saying...

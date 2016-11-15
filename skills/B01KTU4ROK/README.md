@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Geek Star Trivia icon" width="36"> [Geek Star Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1591fde4-20ed-47e3-b12b-18b249fc5bb3)
+# [Geek Star Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1591fde4-20ed-47e3-b12b-18b249fc5bb3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Geek Star Trivia skill, try saying...

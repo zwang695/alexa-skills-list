@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Big Data Skills icon" width="36"> [Big Data Skills](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d015c273-246b-4490-bf0f-392529fb68b4)
+# [Big Data Skills](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d015c273-246b-4490-bf0f-392529fb68b4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Big Data Skills skill, try saying...

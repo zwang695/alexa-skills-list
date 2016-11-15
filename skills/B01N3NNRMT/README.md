@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Car Engine Facts icon" width="36"> [Car Engine Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad9a3f20-93d2-421f-8282-325593ace270)
+# [Car Engine Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad9a3f20-93d2-421f-8282-325593ace270)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Car Engine Facts skill, try saying...

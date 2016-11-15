@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Java Trivia icon" width="36"> [Java Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fb96883f-d2da-4a73-8946-24254ad88ab5)
+# [Java Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fb96883f-d2da-4a73-8946-24254ad88ab5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Java Trivia skill, try saying...

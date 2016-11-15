@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fact Master icon" width="36"> [Fact Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.800bb9ac-2fbe-4c86-a806-8885c183a183)
+# [Fact Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.800bb9ac-2fbe-4c86-a806-8885c183a183)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Fact Master skill, try saying...

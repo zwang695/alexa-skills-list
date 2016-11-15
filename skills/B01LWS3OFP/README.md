@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Cooper Mountain icon" width="36"> [Snow Report for Cooper Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0ff6da5-3f67-47f6-9721-125d07298855)
+# [Snow Report for Cooper Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0ff6da5-3f67-47f6-9721-125d07298855)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Cooper Mountain skill, try saying...

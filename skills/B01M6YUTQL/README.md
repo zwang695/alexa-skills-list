@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Oingo Boingo Fan Facts icon" width="36"> [Oingo Boingo Fan Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.03705a2d-e8ee-441a-8629-55a207e8bc1f)
+# [Oingo Boingo Fan Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.03705a2d-e8ee-441a-8629-55a207e8bc1f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Oingo Boingo Fan Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="spirit color icon" width="36"> [spirit color](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d1da9f0-febb-478f-a3e2-02c0e4d3fd89)
+# [spirit color](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d1da9f0-febb-478f-a3e2-02c0e4d3fd89)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the spirit color skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stuff Connie Says icon" width="36"> [Stuff Connie Says](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd01f05f-eea8-43b2-82d6-8c4f87ade203)
+# [Stuff Connie Says](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd01f05f-eea8-43b2-82d6-8c4f87ade203)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Stuff Connie Says skill, try saying...

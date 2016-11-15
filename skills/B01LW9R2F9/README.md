@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="TreycentSupplementAdvisor icon" width="36"> [TreycentSupplementAdvisor](http://alexa.amazon.com/#skills/amzn1.ask.skill.418b9915-ce48-45ff-b146-5ca162a28db4)
+# [TreycentSupplementAdvisor](http://alexa.amazon.com/#skills/amzn1.ask.skill.418b9915-ce48-45ff-b146-5ca162a28db4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the TreycentSupplementAdvisor skill, try saying...

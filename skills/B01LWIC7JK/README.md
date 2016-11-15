@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="War History icon" width="36"> [War History](http://alexa.amazon.com/#skills/amzn1.ask.skill.1e1926f3-fbaf-470b-81e7-6addc839ab80)
+# [War History](http://alexa.amazon.com/#skills/amzn1.ask.skill.1e1926f3-fbaf-470b-81e7-6addc839ab80)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the War History skill, try saying...

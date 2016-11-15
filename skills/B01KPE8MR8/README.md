@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Harry Potter Facts icon" width="36"> [Unofficial Harry Potter Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.636b4041-22d2-4546-a47d-63cc4c217cab)
+# [Unofficial Harry Potter Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.636b4041-22d2-4546-a47d-63cc4c217cab)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Harry Potter Facts skill, try saying...

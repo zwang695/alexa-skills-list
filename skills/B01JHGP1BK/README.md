@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="On This Day icon" width="36"> [On This Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.666d4d05-c91b-4386-a629-3977a6e04feb)
+# [On This Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.666d4d05-c91b-4386-a629-3977a6e04feb)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the On This Day skill, try saying...

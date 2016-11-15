@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Kissing Bridge icon" width="36"> [Snow Report for Kissing Bridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.2f3c9903-3b62-4987-97b2-d3fb9ae281a4)
+# [Snow Report for Kissing Bridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.2f3c9903-3b62-4987-97b2-d3fb9ae281a4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Kissing Bridge skill, try saying...

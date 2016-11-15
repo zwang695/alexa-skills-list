@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Interview Prep icon" width="36"> [Interview Prep](http://alexa.amazon.com/#skills/amzn1.ask.skill.c9ab158b-cffe-4466-8936-d590e08a45de)
+# [Interview Prep](http://alexa.amazon.com/#skills/amzn1.ask.skill.c9ab158b-cffe-4466-8936-d590e08a45de)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Interview Prep skill, try saying...

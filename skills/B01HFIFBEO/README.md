@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Scripture icon" width="36"> [Daily Scripture](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a3a8838-b261-4b7a-9f44-cbbe652ae2d1)
+# [Daily Scripture](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4a3a8838-b261-4b7a-9f44-cbbe652ae2d1)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Daily Scripture skill, try saying...

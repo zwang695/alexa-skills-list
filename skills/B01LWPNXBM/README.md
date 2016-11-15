@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Paintings Geek icon" width="36"> [Paintings Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.c606cbf3-cbd4-4818-9495-0eb415802d79)
+# [Paintings Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.c606cbf3-cbd4-4818-9495-0eb415802d79)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Paintings Geek skill, try saying...

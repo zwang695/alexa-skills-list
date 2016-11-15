@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Organic Carrot icon" width="36"> [Organic Carrot](http://alexa.amazon.com/#skills/amzn1.ask.skill.3fc9bde9-8774-4d8c-94f0-3ae1b4e9b6aa)
+# [Organic Carrot](http://alexa.amazon.com/#skills/amzn1.ask.skill.3fc9bde9-8774-4d8c-94f0-3ae1b4e9b6aa)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Organic Carrot skill, try saying...

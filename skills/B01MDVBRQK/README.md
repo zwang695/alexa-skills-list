@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Armen Facts icon" width="36"> [Armen Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd145b3f-ea5f-436f-8dfb-03571f882ab4)
+# [Armen Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd145b3f-ea5f-436f-8dfb-03571f882ab4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Armen Facts skill, try saying...

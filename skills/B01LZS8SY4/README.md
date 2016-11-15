@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fact Skil icon" width="36"> [Fact Skil](http://alexa.amazon.com/#skills/amzn1.ask.skill.71353064-d7bc-42d9-b3be-25cf4d6d83d9)
+# [Fact Skil](http://alexa.amazon.com/#skills/amzn1.ask.skill.71353064-d7bc-42d9-b3be-25cf4d6d83d9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fact Skil skill, try saying...

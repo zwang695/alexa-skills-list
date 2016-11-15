@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fencing Geek icon" width="36"> [Fencing Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2833edb9-d551-4976-a550-87d9fde21dcf)
+# [Fencing Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2833edb9-d551-4976-a550-87d9fde21dcf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fencing Geek skill, try saying...

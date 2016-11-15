@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MeditationFacts icon" width="36"> [MeditationFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2d942aef-a6e9-49a0-849b-ef88738da913)
+# [MeditationFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2d942aef-a6e9-49a0-849b-ef88738da913)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the MeditationFacts skill, try saying...

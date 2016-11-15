@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Workout Gears icon" width="36"> [Workout Gears](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7dd2623c-d5b8-496a-8da1-974c4d349d16)
+# [Workout Gears](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7dd2623c-d5b8-496a-8da1-974c4d349d16)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Workout Gears skill, try saying...

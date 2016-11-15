@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts For Northeastern icon" width="36"> [Facts For Northeastern](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.85fa0459-6423-4cb3-9903-ac5d39597071)
+# [Facts For Northeastern](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.85fa0459-6423-4cb3-9903-ac5d39597071)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts For Northeastern skill, try saying...

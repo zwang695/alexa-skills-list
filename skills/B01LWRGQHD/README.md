@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="World Capital Quiz icon" width="36"> [World Capital Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.e3a66b51-0a63-4af2-b947-380ec90762ea)
+# [World Capital Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.e3a66b51-0a63-4af2-b947-380ec90762ea)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the World Capital Quiz skill, try saying...

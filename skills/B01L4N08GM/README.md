@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Voice Wizard icon" width="36"> [Voice Wizard](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2aeb986-fddf-4c70-a309-e488388d7011)
+# [Voice Wizard](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2aeb986-fddf-4c70-a309-e488388d7011)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Voice Wizard skill, try saying...

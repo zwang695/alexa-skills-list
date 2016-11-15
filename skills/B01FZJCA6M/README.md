@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lambda calculus quiz icon" width="36"> [Lambda calculus quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.62cc5b99-53ec-48b4-ad23-1bc2e65610b2)
+# [Lambda calculus quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.62cc5b99-53ec-48b4-ad23-1bc2e65610b2)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Lambda calculus quiz skill, try saying...

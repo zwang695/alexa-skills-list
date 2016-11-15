@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="No from Around the World icon" width="36"> [No from Around the World](http://alexa.amazon.com/#skills/amzn1.ask.skill.7b91991d-d0fc-438e-a4e9-1a53fcd7d657)
+# [No from Around the World](http://alexa.amazon.com/#skills/amzn1.ask.skill.7b91991d-d0fc-438e-a4e9-1a53fcd7d657)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the No from Around the World skill, try saying...

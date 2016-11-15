@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Car Facts icon" width="36"> [Car Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eb15c293-e8ea-4982-a4f4-f150c51af6b2)
+# [Car Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eb15c293-e8ea-4982-a4f4-f150c51af6b2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Car Facts skill, try saying...

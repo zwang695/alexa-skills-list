@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="B and O Trivia Game icon" width="36"> [B and O Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.80e8c057-7e46-4d95-a9fd-ae5686463ee7)
+# [B and O Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.80e8c057-7e46-4d95-a9fd-ae5686463ee7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the B and O Trivia Game skill, try saying...

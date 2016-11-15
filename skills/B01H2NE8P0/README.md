@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia for Copa America icon" width="36"> [Trivia for Copa America](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bc54ad5c-9dac-436c-94e1-dd0f54805c4a)
+# [Trivia for Copa America](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bc54ad5c-9dac-436c-94e1-dd0f54805c4a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia for Copa America skill, try saying...

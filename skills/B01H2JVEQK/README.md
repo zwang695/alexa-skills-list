@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Comic Book Guide icon" width="36"> [Comic Book Guide](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5719c18c-9fec-4b83-bea8-03127ab2598b)
+# [Comic Book Guide](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5719c18c-9fec-4b83-bea8-03127ab2598b)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Comic Book Guide skill, try saying...

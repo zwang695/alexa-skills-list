@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Crystal Ball icon" width="36"> [Crystal Ball](http://alexa.amazon.com/#skills/amzn1.ask.skill.0656cdbf-3f48-4fa6-8f25-49907a25220c)
+# [Crystal Ball](http://alexa.amazon.com/#skills/amzn1.ask.skill.0656cdbf-3f48-4fa6-8f25-49907a25220c)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Crystal Ball skill, try saying...

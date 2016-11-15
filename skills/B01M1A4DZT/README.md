@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Formula One Race Information - Unofficial icon" width="36"> [Formula One Race Information - Unofficial](http://alexa.amazon.com/#skills/amzn1.ask.skill.596a20af-020c-4e9a-8327-a54d0b760041)
+# [Formula One Race Information - Unofficial](http://alexa.amazon.com/#skills/amzn1.ask.skill.596a20af-020c-4e9a-8327-a54d0b760041)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
 
 To use the Formula One Race Information - Unofficial skill, try saying...

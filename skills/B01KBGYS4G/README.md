@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Maestro icon" width="36"> [The Maestro](http://alexa.amazon.com/#skills/amzn1.ask.skill.3995e623-4bcf-4e3e-990d-3bee078a5508)
+# [The Maestro](http://alexa.amazon.com/#skills/amzn1.ask.skill.3995e623-4bcf-4e3e-990d-3bee078a5508)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Maestro skill, try saying...

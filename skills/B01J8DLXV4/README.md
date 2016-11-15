@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Availability for Pokemon GO icon" width="36"> [Availability for Pokemon GO](http://alexa.amazon.com/#skills/amzn1.ask.skill.affcbbbb-00e1-471f-ba3a-81a3d58a00ef)
+# [Availability for Pokemon GO](http://alexa.amazon.com/#skills/amzn1.ask.skill.affcbbbb-00e1-471f-ba3a-81a3d58a00ef)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Availability for Pokemon GO skill, try saying...

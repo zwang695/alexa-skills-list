@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Peaceful Habit icon" width="36"> [Peaceful Habit](http://alexa.amazon.com/#skills/amzn1.ask.skill.abd92245-b5be-4dab-8e19-7ed2ce06d0d2)
+# [Peaceful Habit](http://alexa.amazon.com/#skills/amzn1.ask.skill.abd92245-b5be-4dab-8e19-7ed2ce06d0d2)
 ![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 12
 
 To use the Peaceful Habit skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Terra Craft icon" width="36"> [Terra Craft](http://alexa.amazon.com/#skills/amzn1.ask.skill.667af6ed-8a8c-4e04-85e5-da57d237fccc)
+# [Terra Craft](http://alexa.amazon.com/#skills/amzn1.ask.skill.667af6ed-8a8c-4e04-85e5-da57d237fccc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Terra Craft skill, try saying...

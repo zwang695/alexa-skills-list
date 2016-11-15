@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baseball Facts icon" width="36"> [Baseball Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.360eb701-70e8-41e6-9303-853db0e4dd32)
+# [Baseball Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.360eb701-70e8-41e6-9303-853db0e4dd32)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Baseball Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ask Cloud Ninja icon" width="36"> [Ask Cloud Ninja](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8aecc41d-56c1-456c-9bbe-2f4cb13e110c)
+# [Ask Cloud Ninja](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8aecc41d-56c1-456c-9bbe-2f4cb13e110c)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Ask Cloud Ninja skill, try saying...

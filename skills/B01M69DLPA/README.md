@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Presidential Elections Trivia icon" width="36"> [Presidential Elections Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.c99fd69f-40db-4d88-ad96-46c5f8fed085)
+# [Presidential Elections Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.c99fd69f-40db-4d88-ad96-46c5f8fed085)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Presidential Elections Trivia skill, try saying...

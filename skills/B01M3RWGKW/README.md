@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Giraffe Facts icon" width="36"> [Giraffe Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4eb90661-a436-46a0-b14c-b370d8d41ec5)
+# [Giraffe Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4eb90661-a436-46a0-b14c-b370d8d41ec5)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Giraffe Facts skill, try saying...

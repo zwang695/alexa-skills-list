@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="State Birds Trivia icon" width="36"> [State Birds Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.82f750f3-de30-452e-87f5-51b5bd42731b)
+# [State Birds Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.82f750f3-de30-452e-87f5-51b5bd42731b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the State Birds Trivia skill, try saying...

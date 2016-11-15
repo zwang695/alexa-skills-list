@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Beech Mountain icon" width="36"> [Snow Report for Beech Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.0c683ecf-98a4-4044-8a10-e7d98918f6a0)
+# [Snow Report for Beech Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.0c683ecf-98a4-4044-8a10-e7d98918f6a0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Beech Mountain skill, try saying...

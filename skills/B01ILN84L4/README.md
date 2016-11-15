@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Love Calculator icon" width="36"> [Love Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.132f2757-5ee8-4db1-adfd-14374c00668e)
+# [Love Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.132f2757-5ee8-4db1-adfd-14374c00668e)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Love Calculator skill, try saying...

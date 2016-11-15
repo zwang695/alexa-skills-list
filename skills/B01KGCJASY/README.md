@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cinemate icon" width="36"> [Cinemate](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.46c90ce9-4635-4dc9-94a5-b002f36c7253)
+# [Cinemate](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.46c90ce9-4635-4dc9-94a5-b002f36c7253)
 ![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Cinemate skill, try saying...

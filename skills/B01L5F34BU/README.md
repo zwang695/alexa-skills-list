@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Multiplication Pop Quiz icon" width="36"> [Multiplication Pop Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.dfdf3f6b-f099-4432-9e53-6abe1d02a0d8)
+# [Multiplication Pop Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.dfdf3f6b-f099-4432-9e53-6abe1d02a0d8)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Multiplication Pop Quiz skill, try saying...

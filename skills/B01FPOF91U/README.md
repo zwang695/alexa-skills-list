@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cork Ornaments icon" width="36"> [Cork Ornaments](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b5a5f9f4-0c84-4105-a7a5-fc46ef0488dc)
+# [Cork Ornaments](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b5a5f9f4-0c84-4105-a7a5-fc46ef0488dc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cork Ornaments skill, try saying...

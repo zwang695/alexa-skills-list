@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hockey Facts icon" width="36"> [Hockey Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2d66e4a0-1def-4689-acdd-8c04f5284037)
+# [Hockey Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2d66e4a0-1def-4689-acdd-8c04f5284037)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hockey Facts skill, try saying...

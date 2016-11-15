@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Law icon" width="36"> [The Law](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3e2ce841-fa50-412a-a1c0-887df2585aa8)
+# [The Law](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3e2ce841-fa50-412a-a1c0-887df2585aa8)
 ![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the The Law skill, try saying...

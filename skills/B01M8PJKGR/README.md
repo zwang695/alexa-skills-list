@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="S. Watch icon" width="36"> [S. Watch](http://alexa.amazon.com/#skills/amzn1.ask.skill.1925fb17-06d3-4803-b3a9-a73f7f251d7f)
+# [S. Watch](http://alexa.amazon.com/#skills/amzn1.ask.skill.1925fb17-06d3-4803-b3a9-a73f7f251d7f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the S. Watch skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sports Facts icon" width="36"> [Sports Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8e535f6e-5f1c-4dd8-a6d6-cef148c20923)
+# [Sports Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8e535f6e-5f1c-4dd8-a6d6-cef148c20923)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sports Facts skill, try saying...

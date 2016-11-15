@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Swimming Facts icon" width="36"> [Swimming Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2ca5b944-82fb-4099-8533-20fc3bb2e791)
+# [Swimming Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2ca5b944-82fb-4099-8533-20fc3bb2e791)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Swimming Facts skill, try saying...

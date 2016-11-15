@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Space Trivia icon" width="36"> [Space Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.96629106-1b2c-42eb-a72e-b98cd8c1857d)
+# [Space Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.96629106-1b2c-42eb-a72e-b98cd8c1857d)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Space Trivia skill, try saying...

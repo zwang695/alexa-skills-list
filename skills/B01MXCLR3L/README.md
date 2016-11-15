@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Ski Morin Heights icon" width="36"> [Snow Report for Ski Morin Heights](http://alexa.amazon.com/#skills/amzn1.ask.skill.8518ab2a-1531-43e9-b73d-35d12acac214)
+# [Snow Report for Ski Morin Heights](http://alexa.amazon.com/#skills/amzn1.ask.skill.8518ab2a-1531-43e9-b73d-35d12acac214)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Ski Morin Heights skill, try saying...

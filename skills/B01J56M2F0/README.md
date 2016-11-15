@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Heart health trivia icon" width="36"> [Heart health trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0a1b3a0-b7dd-40f9-9cf5-9fe47d1a062d)
+# [Heart health trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0a1b3a0-b7dd-40f9-9cf5-9fe47d1a062d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Heart health trivia skill, try saying...

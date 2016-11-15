@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="PokEvolve for Pokemon GO icon" width="36"> [PokEvolve for Pokemon GO](http://alexa.amazon.com/#skills/amzn1.ask.skill.dbcb6ff5-f704-4caa-a4cc-c5ac041c2ec7)
+# [PokEvolve for Pokemon GO](http://alexa.amazon.com/#skills/amzn1.ask.skill.dbcb6ff5-f704-4caa-a4cc-c5ac041c2ec7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the PokEvolve for Pokemon GO skill, try saying...

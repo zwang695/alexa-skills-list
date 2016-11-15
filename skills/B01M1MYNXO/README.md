@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tube Planner icon" width="36"> [Tube Planner](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5e14757-b762-479f-b072-907db5f12819)
+# [Tube Planner](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5e14757-b762-479f-b072-907db5f12819)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tube Planner skill, try saying...

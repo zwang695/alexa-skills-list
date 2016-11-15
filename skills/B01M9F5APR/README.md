@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Swain Ski Center icon" width="36"> [Snow Report for Swain Ski Center](http://alexa.amazon.com/#skills/amzn1.ask.skill.6173f6db-4869-4170-9712-d2c03c11c609)
+# [Snow Report for Swain Ski Center](http://alexa.amazon.com/#skills/amzn1.ask.skill.6173f6db-4869-4170-9712-d2c03c11c609)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Swain Ski Center skill, try saying...

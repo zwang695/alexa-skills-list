@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Titcomb Mountain icon" width="36"> [Snow Report for Titcomb Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.4e022954-42e7-450d-b882-b80ce693b365)
+# [Snow Report for Titcomb Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.4e022954-42e7-450d-b882-b80ce693b365)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Titcomb Mountain skill, try saying...

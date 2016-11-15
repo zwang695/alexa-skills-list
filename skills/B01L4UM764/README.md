@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Flower Facts icon" width="36"> [Flower Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ff154b84-7fee-4c9c-bb9e-64163ba4acf8)
+# [Flower Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ff154b84-7fee-4c9c-bb9e-64163ba4acf8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Flower Facts skill, try saying...

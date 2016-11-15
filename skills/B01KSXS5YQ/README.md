@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Watchcounter icon" width="36"> [Watchcounter](http://alexa.amazon.com/#skills/amzn1.ask.skill.873a070c-95f1-44f6-8314-8459cdf9ebc4)
+# [Watchcounter](http://alexa.amazon.com/#skills/amzn1.ask.skill.873a070c-95f1-44f6-8314-8459cdf9ebc4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Watchcounter skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Myst Helper icon" width="36"> [Myst Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3b8a5b9b-0b2a-4f79-8750-4bacd42a7d0f)
+# [Myst Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3b8a5b9b-0b2a-4f79-8750-4bacd42a7d0f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Myst Helper skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Confucius Jokes icon" width="36"> [Confucius Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.d50ff092-ca0e-438e-b9b0-b4b6035312d5)
+# [Confucius Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.d50ff092-ca0e-438e-b9b0-b4b6035312d5)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Confucius Jokes skill, try saying...

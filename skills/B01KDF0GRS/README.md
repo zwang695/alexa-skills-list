@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="US Lotto icon" width="36"> [US Lotto](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5c8dcad-02e9-4096-839b-79aff1efed5d)
+# [US Lotto](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5c8dcad-02e9-4096-839b-79aff1efed5d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the US Lotto skill, try saying...

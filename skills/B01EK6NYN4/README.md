@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HomeSeer icon" width="36"> [HomeSeer](http://alexa.amazon.com/#skills/amzn1.ask.skill.4823145a-607e-4fd9-8435-0cd20e928c82)
+# [HomeSeer](http://alexa.amazon.com/#skills/amzn1.ask.skill.4823145a-607e-4fd9-8435-0cd20e928c82)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 13
 
 With the HomeSeer SmartHome Skill and Alexa, you can now interact with your HomeSeer lights, switches, dimmers, and thermostats by voice.

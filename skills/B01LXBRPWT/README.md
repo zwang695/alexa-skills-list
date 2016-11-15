@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Software Facts icon" width="36"> [Software Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c76c30a9-c810-452d-bed5-9a3a1af858fc)
+# [Software Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c76c30a9-c810-452d-bed5-9a3a1af858fc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Software Facts skill, try saying...

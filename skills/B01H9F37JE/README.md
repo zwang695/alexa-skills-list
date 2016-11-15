@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Heater Duct icon" width="36"> [Heater Duct](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1b852a82-6870-4882-a43c-c53aed2cc54b)
+# [Heater Duct](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1b852a82-6870-4882-a43c-c53aed2cc54b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Heater Duct skill, try saying...

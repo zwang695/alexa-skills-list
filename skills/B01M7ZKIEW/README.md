@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Banana Slug Facts icon" width="36"> [Banana Slug Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.740002c2-969b-42be-aedd-d4b5d9e25314)
+# [Banana Slug Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.740002c2-969b-42be-aedd-d4b5d9e25314)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Banana Slug Facts skill, try saying...

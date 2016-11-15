@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ukrainian Trivia icon" width="36"> [Ukrainian Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.685ebe7f-8fe7-4603-bc21-730ac1eb0331)
+# [Ukrainian Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.685ebe7f-8fe7-4603-bc21-730ac1eb0331)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ukrainian Trivia skill, try saying...

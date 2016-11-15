@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="duck hunter icon" width="36"> [duck hunter](http://alexa.amazon.com/#skills/amzn1.ask.skill.12aae8df-818a-4557-9182-7b86b96dded1)
+# [duck hunter](http://alexa.amazon.com/#skills/amzn1.ask.skill.12aae8df-818a-4557-9182-7b86b96dded1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the duck hunter skill, try saying...

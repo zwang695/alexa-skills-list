@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="myStateCards icon" width="36"> [myStateCards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fdb118b8-2e03-4ff0-8dea-57570c05cd10)
+# [myStateCards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fdb118b8-2e03-4ff0-8dea-57570c05cd10)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the myStateCards skill, try saying...

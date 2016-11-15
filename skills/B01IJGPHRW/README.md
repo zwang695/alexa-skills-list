@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cricket Nerd icon" width="36"> [Cricket Nerd](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.431744f3-a3b1-4d5f-b3a2-1bcabcb5f1c7)
+# [Cricket Nerd](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.431744f3-a3b1-4d5f-b3a2-1bcabcb5f1c7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cricket Nerd skill, try saying...

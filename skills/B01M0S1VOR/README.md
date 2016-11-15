@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Poke Go Gym Helper icon" width="36"> [Poke Go Gym Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.a367e3f9-3b29-4bcd-b98f-fd8359b816a1)
+# [Poke Go Gym Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.a367e3f9-3b29-4bcd-b98f-fd8359b816a1)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Poke Go Gym Helper skill, try saying...

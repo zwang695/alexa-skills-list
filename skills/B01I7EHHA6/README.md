@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Words of Wisdom icon" width="36"> [Words of Wisdom](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f9a90b84-7b2f-4036-a8e6-4f96562dd215)
+# [Words of Wisdom](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f9a90b84-7b2f-4036-a8e6-4f96562dd215)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Words of Wisdom skill, try saying...

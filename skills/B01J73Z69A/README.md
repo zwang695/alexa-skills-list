@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chicago Bikes icon" width="36"> [Chicago Bikes](http://alexa.amazon.com/#skills/amzn1.ask.skill.9af0ed34-5119-4af2-8954-106dc3690e9b)
+# [Chicago Bikes](http://alexa.amazon.com/#skills/amzn1.ask.skill.9af0ed34-5119-4af2-8954-106dc3690e9b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chicago Bikes skill, try saying...

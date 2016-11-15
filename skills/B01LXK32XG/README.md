@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Starting Football Quarterbacks icon" width="36"> [Starting Football Quarterbacks](http://alexa.amazon.com/#skills/amzn1.ask.skill.a5fab325-b7b0-4632-bcdc-cdc04b9e14ab)
+# [Starting Football Quarterbacks](http://alexa.amazon.com/#skills/amzn1.ask.skill.a5fab325-b7b0-4632-bcdc-cdc04b9e14ab)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Starting Football Quarterbacks skill, try saying...

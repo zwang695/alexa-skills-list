@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts for the Coast Guard icon" width="36"> [Facts for the Coast Guard](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1f9965dd-f042-44b9-8508-7eab56122f93)
+# [Facts for the Coast Guard](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1f9965dd-f042-44b9-8508-7eab56122f93)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts for the Coast Guard skill, try saying...

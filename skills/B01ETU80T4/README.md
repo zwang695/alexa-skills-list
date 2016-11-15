@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Learn International Geography icon" width="36"> [Learn International Geography](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7e5bb15a-be9f-4d5a-95b5-d8440f6fcf5b)
+# [Learn International Geography](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7e5bb15a-be9f-4d5a-95b5-d8440f6fcf5b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Learn International Geography skill, try saying...

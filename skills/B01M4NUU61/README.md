@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Crick Info icon" width="36"> [Crick Info](http://alexa.amazon.com/#skills/amzn1.ask.skill.77cb1065-7b42-46a7-8e1b-e3d2547702f4)
+# [Crick Info](http://alexa.amazon.com/#skills/amzn1.ask.skill.77cb1065-7b42-46a7-8e1b-e3d2547702f4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Crick Info skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Buffalo Trivia Game icon" width="36"> [Buffalo Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.582abef0-2e8d-404b-99ea-9845f364a67d)
+# [Buffalo Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.582abef0-2e8d-404b-99ea-9845f364a67d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Buffalo Trivia Game skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Movie Info icon" width="36"> [Movie Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bf3a02c0-c1e6-493f-894b-94dfd6798694)
+# [Movie Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bf3a02c0-c1e6-493f-894b-94dfd6798694)
 ![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Movie Info skill, try saying...

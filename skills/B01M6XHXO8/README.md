@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Election Odds icon" width="36"> [Election Odds](http://alexa.amazon.com/#skills/amzn1.ask.skill.36fe45c2-b5bb-4976-aedd-2593eb752e17)
+# [Election Odds](http://alexa.amazon.com/#skills/amzn1.ask.skill.36fe45c2-b5bb-4976-aedd-2593eb752e17)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Election Odds skill, try saying...

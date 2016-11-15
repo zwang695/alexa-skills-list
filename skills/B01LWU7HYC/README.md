@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baby Logs icon" width="36"> [Baby Logs](http://alexa.amazon.com/#skills/amzn1.ask.skill.e51bc7cc-f1d0-4e5a-84bf-6c583dbd0149)
+# [Baby Logs](http://alexa.amazon.com/#skills/amzn1.ask.skill.e51bc7cc-f1d0-4e5a-84bf-6c583dbd0149)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Baby Logs skill, try saying...

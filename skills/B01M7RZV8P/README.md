@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Otis Ridge icon" width="36"> [Snow Report for Otis Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.94b80420-cd8c-4d27-8c5f-c796737d1912)
+# [Snow Report for Otis Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.94b80420-cd8c-4d27-8c5f-c796737d1912)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Otis Ridge skill, try saying...

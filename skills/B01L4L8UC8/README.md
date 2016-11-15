@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="I Love Lamp icon" width="36"> [I Love Lamp](http://alexa.amazon.com/#skills/amzn1.ask.skill.d3d85e17-a627-4032-935b-bef542ff5862)
+# [I Love Lamp](http://alexa.amazon.com/#skills/amzn1.ask.skill.d3d85e17-a627-4032-935b-bef542ff5862)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the I Love Lamp skill, try saying...

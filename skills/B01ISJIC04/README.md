@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computer Science Fundamentals icon" width="36"> [Computer Science Fundamentals](http://alexa.amazon.com/#skills/amzn1.ask.skill.3f2aabd3-2786-41a3-a177-d1333c07de40)
+# [Computer Science Fundamentals](http://alexa.amazon.com/#skills/amzn1.ask.skill.3f2aabd3-2786-41a3-a177-d1333c07de40)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Computer Science Fundamentals skill, try saying...

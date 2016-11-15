@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mammoth Mountain icon" width="36"> [Snow Report for Mammoth Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.dadfef21-8f88-410b-8948-169c27c3aa7d)
+# [Snow Report for Mammoth Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.dadfef21-8f88-410b-8948-169c27c3aa7d)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Snow Report for Mammoth Mountain skill, try saying...

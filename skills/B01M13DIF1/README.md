@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Crazy Fact icon" width="36"> [Crazy Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.117fb70f-124b-4814-aff3-c0b0dc5b00d4)
+# [Crazy Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.117fb70f-124b-4814-aff3-c0b0dc5b00d4)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 5
 
 To use the Crazy Fact skill, try saying...

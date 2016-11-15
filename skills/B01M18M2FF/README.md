@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Nakiska Mountain icon" width="36"> [Snow Report for Nakiska Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e90695ba-0050-4453-8194-4a3eec98e98f)
+# [Snow Report for Nakiska Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e90695ba-0050-4453-8194-4a3eec98e98f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Nakiska Mountain skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Word Chain icon" width="36"> [Word Chain](http://alexa.amazon.com/#skills/amzn1.ask.skill.ccdf3429-9226-44fa-ae16-5066fd0b764c)
+# [Word Chain](http://alexa.amazon.com/#skills/amzn1.ask.skill.ccdf3429-9226-44fa-ae16-5066fd0b764c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Word Chain skill, try saying...

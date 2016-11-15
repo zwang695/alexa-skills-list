@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What To Eat For Lunch - Charlottesville icon" width="36"> [What To Eat For Lunch - Charlottesville](http://alexa.amazon.com/#skills/amzn1.ask.skill.d8918b50-2301-4421-b093-d0b7f0426ace)
+# [What To Eat For Lunch - Charlottesville](http://alexa.amazon.com/#skills/amzn1.ask.skill.d8918b50-2301-4421-b093-d0b7f0426ace)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the What To Eat For Lunch - Charlottesville skill, try saying...

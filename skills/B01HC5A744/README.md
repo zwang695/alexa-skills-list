@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BeerGeek icon" width="36"> [BeerGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ea329828-8000-45a9-a388-47105c60809b)
+# [BeerGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ea329828-8000-45a9-a388-47105c60809b)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the BeerGeek skill, try saying...

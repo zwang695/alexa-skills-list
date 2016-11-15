@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MobiLinc icon" width="36"> [MobiLinc](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.45649c46-4cc4-4971-a8d9-c7e184e2ccda)
+# [MobiLinc](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.45649c46-4cc4-4971-a8d9-c7e184e2ccda)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 12
 
 To use the MobiLinc skill, try saying...

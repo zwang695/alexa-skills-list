@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="QRS PNO icon" width="36"> [QRS PNO](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb728564-8876-454f-a8bc-a8aa2ae0795a)
+# [QRS PNO](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb728564-8876-454f-a8bc-a8aa2ae0795a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the QRS PNO skill, try saying...

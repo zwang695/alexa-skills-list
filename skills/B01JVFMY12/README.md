@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Arty Smartie icon" width="36"> [Arty Smartie](http://alexa.amazon.com/#skills/amzn1.ask.skill.6710da9a-6fa3-4050-92da-5563477155d2)
+# [Arty Smartie](http://alexa.amazon.com/#skills/amzn1.ask.skill.6710da9a-6fa3-4050-92da-5563477155d2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Arty Smartie skill, try saying...

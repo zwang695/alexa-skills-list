@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="E.P.L Matchday icon" width="36"> [E.P.L Matchday](http://alexa.amazon.com/#skills/amzn1.ask.skill.9a55b166-13ab-40fa-8347-fb8d4fd44e7f)
+# [E.P.L Matchday](http://alexa.amazon.com/#skills/amzn1.ask.skill.9a55b166-13ab-40fa-8347-fb8d4fd44e7f)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the E.P.L Matchday skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Egg Trivia icon" width="36"> [Egg Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.6e6e1cc4-2504-4243-b26a-d130ee46d5f0)
+# [Egg Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.6e6e1cc4-2504-4243-b26a-d130ee46d5f0)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Egg Trivia skill, try saying...

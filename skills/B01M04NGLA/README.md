@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Earthquake Forecast icon" width="36"> [Earthquake Forecast](http://alexa.amazon.com/#skills/amzn1.ask.skill.35ff0fa5-227f-4a2e-a1b8-9b2b5b328dea)
+# [Earthquake Forecast](http://alexa.amazon.com/#skills/amzn1.ask.skill.35ff0fa5-227f-4a2e-a1b8-9b2b5b328dea)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Earthquake Forecast skill, try saying...

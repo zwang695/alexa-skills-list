@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lets Subtract icon" width="36"> [Lets Subtract](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d16b9351-5fb5-43ff-94a6-56aff77d4f6d)
+# [Lets Subtract](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d16b9351-5fb5-43ff-94a6-56aff77d4f6d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lets Subtract skill, try saying...

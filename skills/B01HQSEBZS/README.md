@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Classic Film Trivia icon" width="36"> [Classic Film Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6826bb80-6795-4494-996b-f9d6135cd73f)
+# [Classic Film Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6826bb80-6795-4494-996b-f9d6135cd73f)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Classic Film Trivia skill, try saying...

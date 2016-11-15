@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Blue Hills Ski Area icon" width="36"> [Snow Report for Blue Hills Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.7fb979b4-6aaf-429d-b553-7667bc1417d3)
+# [Snow Report for Blue Hills Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.7fb979b4-6aaf-429d-b553-7667bc1417d3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Blue Hills Ski Area skill, try saying...

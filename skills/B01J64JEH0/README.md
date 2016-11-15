@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Palo Alto Facts icon" width="36"> [Palo Alto Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.59b98c4b-964c-4adf-8fc2-c674eb8bea0c)
+# [Palo Alto Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.59b98c4b-964c-4adf-8fc2-c674eb8bea0c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Palo Alto Facts skill, try saying...

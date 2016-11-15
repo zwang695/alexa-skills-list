@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Dodge Ridge icon" width="36"> [Snow Report for Dodge Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.5b4b808a-c0d5-4441-a309-2a61dc198881)
+# [Snow Report for Dodge Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.5b4b808a-c0d5-4441-a309-2a61dc198881)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Dodge Ridge skill, try saying...

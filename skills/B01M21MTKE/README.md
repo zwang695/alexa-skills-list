@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Strange Facts icon" width="36"> [Strange Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c1387439-d561-45e6-9989-6d0753b7bff8)
+# [Strange Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c1387439-d561-45e6-9989-6d0753b7bff8)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Strange Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Know Your Country icon" width="36"> [Know Your Country](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.deff8821-fb75-4acb-a79b-1c84d0de276c)
+# [Know Your Country](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.deff8821-fb75-4acb-a79b-1c84d0de276c)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Know Your Country skill, try saying...

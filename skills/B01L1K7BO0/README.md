@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tweets Feed icon" width="36"> [Tweets Feed](http://alexa.amazon.com/#skills/amzn1.ask.skill.e388d520-d5c7-4786-88b1-115db6addb59)
+# [Tweets Feed](http://alexa.amazon.com/#skills/amzn1.ask.skill.e388d520-d5c7-4786-88b1-115db6addb59)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Tweets Feed skill, try saying...

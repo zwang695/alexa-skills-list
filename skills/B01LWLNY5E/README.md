@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Who is Ahead 2016 icon" width="36"> [Who is Ahead 2016](http://alexa.amazon.com/#skills/amzn1.ask.skill.76e9466f-f8d5-49d7-908e-7a64849ebb39)
+# [Who is Ahead 2016](http://alexa.amazon.com/#skills/amzn1.ask.skill.76e9466f-f8d5-49d7-908e-7a64849ebb39)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Who is Ahead 2016 skill, try saying...

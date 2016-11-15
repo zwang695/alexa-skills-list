@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Basketball Facts icon" width="36"> [Basketball Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5c631418-e607-4287-bcbf-5c290d880062)
+# [Basketball Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5c631418-e607-4287-bcbf-5c290d880062)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Basketball Facts skill, try saying...

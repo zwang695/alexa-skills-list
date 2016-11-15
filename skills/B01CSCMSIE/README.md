@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Boo icon" width="36"> [Boo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cfd83644-000d-411e-b924-c5ab82900f6c)
+# [Boo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cfd83644-000d-411e-b924-c5ab82900f6c)
 ![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Boo skill, try saying...

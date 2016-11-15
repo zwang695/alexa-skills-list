@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Football Buddy icon" width="36"> [Football Buddy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.08fc8e35-010c-4028-b782-a16d85951b78)
+# [Football Buddy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.08fc8e35-010c-4028-b782-a16d85951b78)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Football Buddy skill, try saying...

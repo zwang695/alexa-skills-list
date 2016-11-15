@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bible Quiz icon" width="36"> [Bible Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.9abd441a-baf7-486a-a91c-eda3ca54fa7e)
+# [Bible Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.9abd441a-baf7-486a-a91c-eda3ca54fa7e)
 ![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Bible Quiz skill, try saying...

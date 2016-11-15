@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Human Resource Audit Assistant for New York icon" width="36"> [Human Resource Audit Assistant for New York](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bde074d5-9907-430f-8a49-c6b330e13dfe)
+# [Human Resource Audit Assistant for New York](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bde074d5-9907-430f-8a49-c6b330e13dfe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Human Resource Audit Assistant for New York skill, try saying...

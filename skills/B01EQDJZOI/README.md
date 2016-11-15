@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Connecticut Trivia icon" width="36"> [Connecticut Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.88806385-6338-419b-b3db-fb1b563416a5)
+# [Connecticut Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.88806385-6338-419b-b3db-fb1b563416a5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Connecticut Trivia skill, try saying...

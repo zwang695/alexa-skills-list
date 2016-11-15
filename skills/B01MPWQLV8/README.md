@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Brandywine Ski Resort icon" width="36"> [Snow Report for Brandywine Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.43a287e1-29e4-4d73-9adf-8a8801225331)
+# [Snow Report for Brandywine Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.43a287e1-29e4-4d73-9adf-8a8801225331)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Brandywine Ski Resort skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Snowmass Resort icon" width="36"> [Snow Report for Snowmass Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.b34c7926-8568-40fc-92f7-a5d9ab620b94)
+# [Snow Report for Snowmass Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.b34c7926-8568-40fc-92f7-a5d9ab620b94)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Snowmass Resort skill, try saying...

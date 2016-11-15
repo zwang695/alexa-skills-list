@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Exact Measure icon" width="36"> [Exact Measure](http://alexa.amazon.com/#skills/amzn1.ask.skill.8323c433-7db7-44b2-97c1-1126f5cfc5f5)
+# [Exact Measure](http://alexa.amazon.com/#skills/amzn1.ask.skill.8323c433-7db7-44b2-97c1-1126f5cfc5f5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Exact Measure skill, try saying...

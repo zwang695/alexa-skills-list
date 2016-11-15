@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Denmark Facts icon" width="36"> [Denmark Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.daa1d5a4-7e0d-4dad-bea8-6660f7833809)
+# [Denmark Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.daa1d5a4-7e0d-4dad-bea8-6660f7833809)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Denmark Facts skill, try saying...

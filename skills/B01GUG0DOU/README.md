@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cosmic Explosion icon" width="36"> [Cosmic Explosion](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.73091661-da06-44c8-bfac-2ee89b9b83ca)
+# [Cosmic Explosion](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.73091661-da06-44c8-bfac-2ee89b9b83ca)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cosmic Explosion skill, try saying...

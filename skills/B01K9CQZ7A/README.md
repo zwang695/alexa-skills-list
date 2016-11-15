@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="country currencies flashcards icon" width="36"> [country currencies flashcards](http://alexa.amazon.com/#skills/amzn1.ask.skill.2472e0c2-266c-45b0-b7ca-c365f4dce85d)
+# [country currencies flashcards](http://alexa.amazon.com/#skills/amzn1.ask.skill.2472e0c2-266c-45b0-b7ca-c365f4dce85d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the country currencies flashcards skill, try saying...

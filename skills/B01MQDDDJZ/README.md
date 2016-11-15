@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Bear Creek icon" width="36"> [Snow Report for Bear Creek](http://alexa.amazon.com/#skills/amzn1.ask.skill.a4ce74fb-a699-4bcb-af21-4e59fb4ce752)
+# [Snow Report for Bear Creek](http://alexa.amazon.com/#skills/amzn1.ask.skill.a4ce74fb-a699-4bcb-af21-4e59fb4ce752)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Bear Creek skill, try saying...

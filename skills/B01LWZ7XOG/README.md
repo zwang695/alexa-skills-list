@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="East Tides icon" width="36"> [East Tides](http://alexa.amazon.com/#skills/amzn1.ask.skill.d3a173a7-a4f2-4eff-b12f-d2970111d237)
+# [East Tides](http://alexa.amazon.com/#skills/amzn1.ask.skill.d3a173a7-a4f2-4eff-b12f-d2970111d237)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the East Tides skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chicago Java icon" width="36"> [Chicago Java](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.87a786e6-1101-4b8b-b9aa-1bbfa75ff884)
+# [Chicago Java](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.87a786e6-1101-4b8b-b9aa-1bbfa75ff884)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chicago Java skill, try saying...

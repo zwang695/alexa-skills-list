@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Fungi Facts icon" width="36"> [My Fungi Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.eb16de1b-7b51-48d0-85d3-52c41fe2db81)
+# [My Fungi Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.eb16de1b-7b51-48d0-85d3-52c41fe2db81)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My Fungi Facts skill, try saying...

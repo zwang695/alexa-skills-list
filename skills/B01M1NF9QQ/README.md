@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mt Rose icon" width="36"> [Snow Report for Mt Rose](http://alexa.amazon.com/#skills/amzn1.ask.skill.f040289e-e76d-4f73-98bd-c90a409e776e)
+# [Snow Report for Mt Rose](http://alexa.amazon.com/#skills/amzn1.ask.skill.f040289e-e76d-4f73-98bd-c90a409e776e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mt Rose skill, try saying...

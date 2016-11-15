@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Marquette Ski Resort icon" width="36"> [Snow Report for Marquette Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.d734dcc0-90bd-402b-ac51-f191470e99f3)
+# [Snow Report for Marquette Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.d734dcc0-90bd-402b-ac51-f191470e99f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Marquette Ski Resort skill, try saying...

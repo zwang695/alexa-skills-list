@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Porcelain Facts icon" width="36"> [Porcelain Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1436da5d-4bda-448f-bc7b-671c05ec8e06)
+# [Porcelain Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1436da5d-4bda-448f-bc7b-671c05ec8e06)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Porcelain Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Health Coach icon" width="36"> [My Health Coach](http://alexa.amazon.com/#skills/amzn1.ask.skill.16608dcb-7292-47af-bdb1-9d9182cc74cb)
+# [My Health Coach](http://alexa.amazon.com/#skills/amzn1.ask.skill.16608dcb-7292-47af-bdb1-9d9182cc74cb)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the My Health Coach skill, try saying...

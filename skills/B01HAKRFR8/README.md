@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Brewers Table icon" width="36"> [Brewers Table](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a666972e-6d9d-41b5-8e2a-90e0cae93658)
+# [Brewers Table](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a666972e-6d9d-41b5-8e2a-90e0cae93658)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Brewers Table skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lorem Ipsum icon" width="36"> [Lorem Ipsum](http://alexa.amazon.com/#skills/amzn1.ask.skill.32c63f67-ec33-4ff1-8df3-a1899d00aa07)
+# [Lorem Ipsum](http://alexa.amazon.com/#skills/amzn1.ask.skill.32c63f67-ec33-4ff1-8df3-a1899d00aa07)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lorem Ipsum skill, try saying...

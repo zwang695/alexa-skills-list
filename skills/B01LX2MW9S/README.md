@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="PewDiePie Fan icon" width="36"> [PewDiePie Fan](http://alexa.amazon.com/#skills/amzn1.ask.skill.5ceb639a-b820-48b8-968a-1efa3f37e749)
+# [PewDiePie Fan](http://alexa.amazon.com/#skills/amzn1.ask.skill.5ceb639a-b820-48b8-968a-1efa3f37e749)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the PewDiePie Fan skill, try saying...

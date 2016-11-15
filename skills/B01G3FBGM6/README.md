@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Almond for Smart Home icon" width="36"> [Almond for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.97f1457f-4da7-45f9-ba40-bf5e2dc3a060)
+# [Almond for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.97f1457f-4da7-45f9-ba40-bf5e2dc3a060)
 ![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 With the 'Almond for Smart Home' skill and Alexa, you can now interact with your lights, switches, dimmers, and thermostats by voice.

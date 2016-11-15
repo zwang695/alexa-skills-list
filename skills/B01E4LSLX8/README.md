@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wiggly Words icon" width="36"> [Wiggly Words](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c16bc166-5f73-4d2a-92ad-b0baf901aa96)
+# [Wiggly Words](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c16bc166-5f73-4d2a-92ad-b0baf901aa96)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Wiggly Words skill, try saying...

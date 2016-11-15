@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dinosaur Discovery icon" width="36"> [Dinosaur Discovery](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5da63d41-e3c9-4ffd-8d33-cc069943f05c)
+# [Dinosaur Discovery](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5da63d41-e3c9-4ffd-8d33-cc069943f05c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dinosaur Discovery skill, try saying...

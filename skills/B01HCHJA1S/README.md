@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Honey Bee Facts icon" width="36"> [Honey Bee Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.89210b21-c630-4019-bdff-9eceaf3488d3)
+# [Honey Bee Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.89210b21-c630-4019-bdff-9eceaf3488d3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Honey Bee Facts skill, try saying...

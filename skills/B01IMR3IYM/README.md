@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HTTP Status icon" width="36"> [HTTP Status](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c06b6b5f-66fa-44a0-91c4-ecd4e3653f54)
+# [HTTP Status](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c06b6b5f-66fa-44a0-91c4-ecd4e3653f54)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the HTTP Status skill, try saying...

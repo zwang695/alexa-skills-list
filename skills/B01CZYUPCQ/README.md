@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Star fish UK icon" width="36"> [Star fish UK](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.24aac441-d9c7-41a9-bbe8-31d2b327d863)
+# [Star fish UK](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.24aac441-d9c7-41a9-bbe8-31d2b327d863)
 ![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Star fish UK skill, try saying...

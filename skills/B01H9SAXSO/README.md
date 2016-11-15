@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dad-Bot icon" width="36"> [Dad-Bot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0562f095-c652-482d-a998-c1d2ba08d662)
+# [Dad-Bot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0562f095-c652-482d-a998-c1d2ba08d662)
 ![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Dad-Bot skill, try saying...

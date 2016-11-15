@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Spout Springs icon" width="36"> [Snow Report for Spout Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.000386d7-086c-478b-87ee-4557039fc7e1)
+# [Snow Report for Spout Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.000386d7-086c-478b-87ee-4557039fc7e1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Spout Springs skill, try saying...

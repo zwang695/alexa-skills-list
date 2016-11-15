@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Irish Triad icon" width="36"> [Irish Triad](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bc505268-5035-46a0-bd92-9b82ff5d8a09)
+# [Irish Triad](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bc505268-5035-46a0-bd92-9b82ff5d8a09)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Irish Triad skill, try saying...

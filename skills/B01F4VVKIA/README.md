@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tweets From The Donald icon" width="36"> [Tweets From The Donald](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.da577c38-6f7b-423e-ad97-17272af2dd72)
+# [Tweets From The Donald](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.da577c38-6f7b-423e-ad97-17272af2dd72)
 ![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the Tweets From The Donald skill, try saying...

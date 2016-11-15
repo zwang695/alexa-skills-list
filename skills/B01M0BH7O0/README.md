@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="India Facts icon" width="36"> [India Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.47e894cd-2798-4bea-85e8-d207ab5ebe30)
+# [India Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.47e894cd-2798-4bea-85e8-d207ab5ebe30)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the India Facts skill, try saying...

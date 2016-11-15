@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Portland restaurant tips icon" width="36"> [Portland restaurant tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.9a89b81c-7e39-414a-b6b5-5116153a4b86)
+# [Portland restaurant tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.9a89b81c-7e39-414a-b6b5-5116153a4b86)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Portland restaurant tips skill, try saying...

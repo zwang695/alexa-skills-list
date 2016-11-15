@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ayurvedic Snacking icon" width="36"> [Ayurvedic Snacking](http://alexa.amazon.com/#skills/amzn1.ask.skill.795be2e8-78e8-4379-a7b9-44c7891cfcc3)
+# [Ayurvedic Snacking](http://alexa.amazon.com/#skills/amzn1.ask.skill.795be2e8-78e8-4379-a7b9-44c7891cfcc3)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Ayurvedic Snacking skill, try saying...

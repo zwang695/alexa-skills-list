@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mexican Lotto icon" width="36"> [Mexican Lotto](http://alexa.amazon.com/#skills/amzn1.ask.skill.e9a4980c-61b7-450f-835e-11a648c5da9b)
+# [Mexican Lotto](http://alexa.amazon.com/#skills/amzn1.ask.skill.e9a4980c-61b7-450f-835e-11a648c5da9b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mexican Lotto skill, try saying...

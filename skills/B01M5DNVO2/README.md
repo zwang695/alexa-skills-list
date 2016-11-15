@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Otsego Ski Club icon" width="36"> [Snow Report for Otsego Ski Club](http://alexa.amazon.com/#skills/amzn1.ask.skill.ec72c0c5-1faf-4e7d-be39-d03091dedbb4)
+# [Snow Report for Otsego Ski Club](http://alexa.amazon.com/#skills/amzn1.ask.skill.ec72c0c5-1faf-4e7d-be39-d03091dedbb4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Otsego Ski Club skill, try saying...

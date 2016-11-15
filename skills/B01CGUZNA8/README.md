@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Good Samaritan icon" width="36"> [Good Samaritan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.728f32e2-3363-4aaf-8063-5cbd2a73960b)
+# [Good Samaritan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.728f32e2-3363-4aaf-8063-5cbd2a73960b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Good Samaritan skill, try saying...

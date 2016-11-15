@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Food icon" width="36"> [Daily Food](http://alexa.amazon.com/#skills/amzn1.ask.skill.53f1e2a8-820a-4c74-adfa-2e6253c6e9e8)
+# [Daily Food](http://alexa.amazon.com/#skills/amzn1.ask.skill.53f1e2a8-820a-4c74-adfa-2e6253c6e9e8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Daily Food skill, try saying...

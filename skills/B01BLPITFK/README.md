@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Almond icon" width="36"> [Almond](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0afff5d3-1615-4c87-af8d-f9e116998d33)
+# [Almond](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0afff5d3-1615-4c87-af8d-f9e116998d33)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Almond skill, try saying...

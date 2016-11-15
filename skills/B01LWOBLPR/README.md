@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hamiltrivia icon" width="36"> [Hamiltrivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.84bbee3d-4b14-41cb-99ec-38d76d799bbe)
+# [Hamiltrivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.84bbee3d-4b14-41cb-99ec-38d76d799bbe)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Hamiltrivia skill, try saying...

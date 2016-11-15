@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sushi Vocabulary Quiz icon" width="36"> [Sushi Vocabulary Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.0f739d3e-7b4d-40a8-936d-322ee5ab2b95)
+# [Sushi Vocabulary Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.0f739d3e-7b4d-40a8-936d-322ee5ab2b95)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sushi Vocabulary Quiz skill, try saying...

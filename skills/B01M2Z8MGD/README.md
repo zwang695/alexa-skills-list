@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Kombucha Facts icon" width="36"> [Kombucha Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd683c9f-b2ed-4ca8-b22e-351d13da866a)
+# [Kombucha Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd683c9f-b2ed-4ca8-b22e-351d13da866a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Kombucha Facts skill, try saying...

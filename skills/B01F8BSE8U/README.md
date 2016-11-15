@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Multiples icon" width="36"> [Multiples](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.347fb3b2-67d4-4861-af6a-df773db1187b)
+# [Multiples](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.347fb3b2-67d4-4861-af6a-df773db1187b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Multiples skill, try saying...

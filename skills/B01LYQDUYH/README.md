@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Sierra at Tahoe icon" width="36"> [Snow Report for Sierra at Tahoe](http://alexa.amazon.com/#skills/amzn1.ask.skill.87133f57-50f7-460c-8c00-d90e1f0c2b12)
+# [Snow Report for Sierra at Tahoe](http://alexa.amazon.com/#skills/amzn1.ask.skill.87133f57-50f7-460c-8c00-d90e1f0c2b12)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Sierra at Tahoe skill, try saying...

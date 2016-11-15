@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="National Park Finder icon" width="36"> [National Park Finder](http://alexa.amazon.com/#skills/amzn1.ask.skill.25b1a77b-ec79-4566-8674-f4192f66b549)
+# [National Park Finder](http://alexa.amazon.com/#skills/amzn1.ask.skill.25b1a77b-ec79-4566-8674-f4192f66b549)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the National Park Finder skill, try saying...

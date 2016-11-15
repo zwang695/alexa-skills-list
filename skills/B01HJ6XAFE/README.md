@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="VHR icon" width="36"> [VHR](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.40b02e37-e4a6-4115-aa76-9a340a8f45e4)
+# [VHR](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.40b02e37-e4a6-4115-aa76-9a340a8f45e4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the VHR skill, try saying...

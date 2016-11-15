@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Herb Guide icon" width="36"> [Herb Guide](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.942fd367-9af3-4ab0-86ed-ce8bacfbcb57)
+# [Herb Guide](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.942fd367-9af3-4ab0-86ed-ce8bacfbcb57)
 ![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Herb Guide skill, try saying...

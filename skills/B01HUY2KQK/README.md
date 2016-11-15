@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SoccerWorldCupFacts icon" width="36"> [SoccerWorldCupFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f5b8ddc-1880-4f0b-829b-e779a5eb51e9)
+# [SoccerWorldCupFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f5b8ddc-1880-4f0b-829b-e779a5eb51e9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the SoccerWorldCupFacts skill, try saying...

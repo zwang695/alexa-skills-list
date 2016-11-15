@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bernie Geek icon" width="36"> [Bernie Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d7278f18-8099-4539-8fce-07b8c27425dc)
+# [Bernie Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d7278f18-8099-4539-8fce-07b8c27425dc)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Bernie Geek skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dog Facts icon" width="36"> [Dog Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.68de8e3d-a081-445a-a371-b5363c051648)
+# [Dog Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.68de8e3d-a081-445a-a371-b5363c051648)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dog Facts skill, try saying...

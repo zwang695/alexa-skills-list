@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wine Expert icon" width="36"> [Wine Expert](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.67179793-b3b8-4257-9eba-6e72e0807e2d)
+# [Wine Expert](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.67179793-b3b8-4257-9eba-6e72e0807e2d)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Wine Expert skill, try saying...

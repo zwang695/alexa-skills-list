@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unix Fortune icon" width="36"> [Unix Fortune](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bec0fef9-376b-4418-90e4-0d9b26a85933)
+# [Unix Fortune](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bec0fef9-376b-4418-90e4-0d9b26a85933)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unix Fortune skill, try saying...

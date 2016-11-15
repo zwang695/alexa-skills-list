@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Grammar Quiz icon" width="36"> [Grammar Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.29090da1-8e24-4ef8-9092-9de6990c36a9)
+# [Grammar Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.29090da1-8e24-4ef8-9092-9de6990c36a9)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Grammar Quiz skill, try saying...

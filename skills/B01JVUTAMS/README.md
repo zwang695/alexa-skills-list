@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Human Body Facts icon" width="36"> [Human Body Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2e6107f-1ac5-4bd6-abf2-9234aefa4a61)
+# [Human Body Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2e6107f-1ac5-4bd6-abf2-9234aefa4a61)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Human Body Facts skill, try saying...

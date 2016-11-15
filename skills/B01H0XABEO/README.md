@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="China History Game icon" width="36"> [China History Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.23577ae0-6768-41bb-af4c-b7e880a00cb9)
+# [China History Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.23577ae0-6768-41bb-af4c-b7e880a00cb9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the China History Game skill, try saying...

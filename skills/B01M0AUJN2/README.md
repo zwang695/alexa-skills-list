@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Weald Creative](http://alexa.amazon.com/#skills/amzn1.ask.skill.fb07e6de-23c5-4337-aa14-4de04f75eeb4)
+# [Weald Creative](http://alexa.amazon.com/#skills/amzn1.ask.skill.fb07e6de-23c5-4337-aa14-4de04f75eeb4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

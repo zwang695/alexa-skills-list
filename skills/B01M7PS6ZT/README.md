@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Torso Muscle Revision icon" width="36"> [Torso Muscle Revision](http://alexa.amazon.com/#skills/amzn1.ask.skill.9371fc4e-4c6d-4e29-b02a-43c5d826a243)
+# [Torso Muscle Revision](http://alexa.amazon.com/#skills/amzn1.ask.skill.9371fc4e-4c6d-4e29-b02a-43c5d826a243)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Torso Muscle Revision skill, try saying...

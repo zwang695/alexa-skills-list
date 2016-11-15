@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Amazing Facts icon" width="36"> [Amazing Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bb883388-2794-4479-a502-3e49f40e72d0)
+# [Amazing Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bb883388-2794-4479-a502-3e49f40e72d0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Amazing Facts skill, try saying...

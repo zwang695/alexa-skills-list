@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Titan Trivia icon" width="36"> [Titan Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.d984e9d6-c885-4660-ac66-4548d588295c)
+# [Titan Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.d984e9d6-c885-4660-ac66-4548d588295c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Titan Trivia skill, try saying...

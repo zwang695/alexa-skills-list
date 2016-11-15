@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Kimberley Mountain icon" width="36"> [Snow Report for Kimberley Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e4ed2969-ddec-4def-9cf1-871cc0dcb9f8)
+# [Snow Report for Kimberley Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e4ed2969-ddec-4def-9cf1-871cc0dcb9f8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Kimberley Mountain skill, try saying...

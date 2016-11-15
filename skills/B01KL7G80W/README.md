@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hero Facts icon" width="36"> [Hero Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.615fdcbc-5768-4364-ba05-6b8edd55acab)
+# [Hero Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.615fdcbc-5768-4364-ba05-6b8edd55acab)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hero Facts skill, try saying...

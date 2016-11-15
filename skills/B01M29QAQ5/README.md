@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="red cross knowledge icon" width="36"> [red cross knowledge](http://alexa.amazon.com/#skills/amzn1.ask.skill.4fa04fc9-c2e3-4d97-9545-52897c05c527)
+# [red cross knowledge](http://alexa.amazon.com/#skills/amzn1.ask.skill.4fa04fc9-c2e3-4d97-9545-52897c05c527)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the red cross knowledge skill, try saying...

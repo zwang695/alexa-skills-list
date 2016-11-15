@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stains Be Gone icon" width="36"> [Stains Be Gone](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.10f2107b-5fbf-4a8f-8132-4442bb1eb832)
+# [Stains Be Gone](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.10f2107b-5fbf-4a8f-8132-4442bb1eb832)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Stains Be Gone skill, try saying...

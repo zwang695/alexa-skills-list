@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Modern Bard icon" width="36"> [Modern Bard](http://alexa.amazon.com/#skills/amzn1.ask.skill.541f2534-0d9c-4ce3-a5a9-1d0c9e449d49)
+# [Modern Bard](http://alexa.amazon.com/#skills/amzn1.ask.skill.541f2534-0d9c-4ce3-a5a9-1d0c9e449d49)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Modern Bard skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Waterville Valley icon" width="36"> [Snow Report for Waterville Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.c39cf831-dcdb-432b-8eb9-ca24843943eb)
+# [Snow Report for Waterville Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.c39cf831-dcdb-432b-8eb9-ca24843943eb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Waterville Valley skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computer History Trivia icon" width="36"> [Computer History Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd24b83f-dc86-4b84-99c2-8fe1b2c5cf0f)
+# [Computer History Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd24b83f-dc86-4b84-99c2-8fe1b2c5cf0f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Computer History Trivia skill, try saying...

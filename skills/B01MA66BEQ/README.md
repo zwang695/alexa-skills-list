@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Lost Valley icon" width="36"> [Snow Report for Lost Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.2ff80495-2675-493b-a10f-9f8623d9bf6b)
+# [Snow Report for Lost Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.2ff80495-2675-493b-a10f-9f8623d9bf6b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Lost Valley skill, try saying...

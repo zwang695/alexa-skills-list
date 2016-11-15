@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stage Names icon" width="36"> [Stage Names](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.008bc190-0917-4f70-89cd-b1281afb233c)
+# [Stage Names](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.008bc190-0917-4f70-89cd-b1281afb233c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Stage Names skill, try saying...

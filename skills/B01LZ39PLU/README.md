@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="League Status icon" width="36"> [League Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.6aa9f70d-13c8-412a-96a4-4dfa203c1996)
+# [League Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.6aa9f70d-13c8-412a-96a4-4dfa203c1996)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the League Status skill, try saying...

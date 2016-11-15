@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="funBulldogFacts icon" width="36"> [funBulldogFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.172c70d6-e45b-4da6-8908-020d7bf136e7)
+# [funBulldogFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.172c70d6-e45b-4da6-8908-020d7bf136e7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the funBulldogFacts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Princess Facts icon" width="36"> [Princess Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c2bdfa81-ee13-4b2a-9d43-527da490fbe7)
+# [Princess Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c2bdfa81-ee13-4b2a-9d43-527da490fbe7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Princess Facts skill, try saying...

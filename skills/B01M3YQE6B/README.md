@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Big Boulder icon" width="36"> [Snow Report for Big Boulder](http://alexa.amazon.com/#skills/amzn1.ask.skill.81636967-3c41-4a2d-a512-c458dfbcec0e)
+# [Snow Report for Big Boulder](http://alexa.amazon.com/#skills/amzn1.ask.skill.81636967-3c41-4a2d-a512-c458dfbcec0e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Big Boulder skill, try saying...

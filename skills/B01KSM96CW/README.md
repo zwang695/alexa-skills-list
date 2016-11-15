@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Meanie icon" width="36"> [Meanie](http://alexa.amazon.com/#skills/amzn1.ask.skill.e488fb57-aac0-4cf4-9270-026ea899af18)
+# [Meanie](http://alexa.amazon.com/#skills/amzn1.ask.skill.e488fb57-aac0-4cf4-9270-026ea899af18)
 ![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the Meanie skill, try saying...

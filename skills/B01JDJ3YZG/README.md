@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Liberty Trivia icon" width="36"> [Liberty Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.e4ff5e75-84c4-42dc-9a5b-0ce84b54e204)
+# [Liberty Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.e4ff5e75-84c4-42dc-9a5b-0ce84b54e204)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Liberty Trivia skill, try saying...

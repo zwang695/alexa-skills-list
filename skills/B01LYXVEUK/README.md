@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Book of John icon" width="36"> [Book of John](http://alexa.amazon.com/#skills/amzn1.ask.skill.e0c4dfd7-00dd-4033-95ba-efe74cd154dd)
+# [Book of John](http://alexa.amazon.com/#skills/amzn1.ask.skill.e0c4dfd7-00dd-4033-95ba-efe74cd154dd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Book of John skill, try saying...

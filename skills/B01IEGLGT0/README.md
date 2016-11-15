@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Division Flash Cards icon" width="36"> [Division Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c85b30b8-940f-4bc9-85bb-37b122ebe8cc)
+# [Division Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c85b30b8-940f-4bc9-85bb-37b122ebe8cc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Division Flash Cards skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Euro Helper icon" width="36"> [Euro Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8673d599-e3a8-44d1-a43b-dcbcb5b04898)
+# [Euro Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8673d599-e3a8-44d1-a43b-dcbcb5b04898)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Euro Helper skill, try saying...

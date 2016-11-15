@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Presidio Bus icon" width="36"> [Presidio Bus](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2e0271bc-0362-43cb-8e77-73f7daaef085)
+# [Presidio Bus](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2e0271bc-0362-43cb-8e77-73f7daaef085)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Presidio Bus skill, try saying...

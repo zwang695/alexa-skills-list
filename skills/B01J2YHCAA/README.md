@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Comments icon" width="36"> [Random Comments](http://alexa.amazon.com/#skills/amzn1.ask.skill.a66f93ea-6fab-4782-8687-b07fb98c1ccf)
+# [Random Comments](http://alexa.amazon.com/#skills/amzn1.ask.skill.a66f93ea-6fab-4782-8687-b07fb98c1ccf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Comments skill, try saying...

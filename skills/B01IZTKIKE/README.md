@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Quadratic Root Doctor icon" width="36"> [The Quadratic Root Doctor](http://alexa.amazon.com/#skills/amzn1.ask.skill.6cdd2ab9-2f84-4c36-9c6f-20100a7d5c9c)
+# [The Quadratic Root Doctor](http://alexa.amazon.com/#skills/amzn1.ask.skill.6cdd2ab9-2f84-4c36-9c6f-20100a7d5c9c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Quadratic Root Doctor skill, try saying...

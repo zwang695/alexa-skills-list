@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Flipper icon" width="36"> [Flipper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.06c32188-092c-4a06-9a10-46624a57f7d4)
+# [Flipper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.06c32188-092c-4a06-9a10-46624a57f7d4)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Flipper skill, try saying...

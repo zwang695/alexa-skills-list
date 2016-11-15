@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Quotes and Probes by Marshall McLuhan icon" width="36"> [Quotes and Probes by Marshall McLuhan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2697c128-1883-4067-9e43-63e7cba98440)
+# [Quotes and Probes by Marshall McLuhan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2697c128-1883-4067-9e43-63e7cba98440)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Quotes and Probes by Marshall McLuhan skill, try saying...

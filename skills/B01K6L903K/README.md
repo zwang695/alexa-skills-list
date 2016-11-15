@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Crazy State Laws icon" width="36"> [Crazy State Laws](http://alexa.amazon.com/#skills/amzn1.ask.skill.3bcc3809-e574-4304-b169-a5affade5d19)
+# [Crazy State Laws](http://alexa.amazon.com/#skills/amzn1.ask.skill.3bcc3809-e574-4304-b169-a5affade5d19)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Crazy State Laws skill, try saying...

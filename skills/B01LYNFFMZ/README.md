@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Puppy Master icon" width="36"> [Puppy Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.3c498fed-e36b-4a2b-a292-b0b715e6b9ba)
+# [Puppy Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.3c498fed-e36b-4a2b-a292-b0b715e6b9ba)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Puppy Master skill, try saying...

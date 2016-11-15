@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Shakespeare Geek icon" width="36"> [Shakespeare Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9b55145d-9643-4a44-9e99-c7069ed5eaf1)
+# [Shakespeare Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9b55145d-9643-4a44-9e99-c7069ed5eaf1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Shakespeare Geek skill, try saying...

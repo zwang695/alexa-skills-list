@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="We Are Social ‘Headline of the Day’ icon" width="36"> [We Are Social ‘Headline of the Day’](http://alexa.amazon.com/#skills/amzn1.ask.skill.60727f70-0aa5-4e9b-b7d1-46ec89c81d6d)
+# [We Are Social ‘Headline of the Day’](http://alexa.amazon.com/#skills/amzn1.ask.skill.60727f70-0aa5-4e9b-b7d1-46ec89c81d6d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the We Are Social ‘Headline of the Day’ skill, try saying...

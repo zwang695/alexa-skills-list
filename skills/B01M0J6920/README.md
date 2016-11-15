@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Truth Ideas icon" width="36"> [Truth Ideas](http://alexa.amazon.com/#skills/amzn1.ask.skill.7d78eaff-e0d6-4abb-9a33-c1af7217b261)
+# [Truth Ideas](http://alexa.amazon.com/#skills/amzn1.ask.skill.7d78eaff-e0d6-4abb-9a33-c1af7217b261)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Truth Ideas skill, try saying...

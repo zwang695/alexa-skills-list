@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Linux Facts icon" width="36"> [Linux Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6571684a-0896-404e-bd9e-5f25b8769250)
+# [Linux Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6571684a-0896-404e-bd9e-5f25b8769250)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Linux Facts skill, try saying...

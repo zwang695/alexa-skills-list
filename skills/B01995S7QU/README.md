@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Drive Time icon" width="36"> [Drive Time](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.47c169c1-abb9-46ca-acb7-2dae01ecc065)
+# [Drive Time](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.47c169c1-abb9-46ca-acb7-2dae01ecc065)
 ![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 31
 
 To use the Drive Time skill, try saying...

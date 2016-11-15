@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Spirit Animal Skill icon" width="36"> [My Spirit Animal Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d664886b-c4a5-4014-bf3c-cf5814370120)
+# [My Spirit Animal Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d664886b-c4a5-4014-bf3c-cf5814370120)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the My Spirit Animal Skill skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia for the Star Wars Universe icon" width="36"> [Trivia for the Star Wars Universe](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.17fbb6d9-1456-4add-be84-2cb6dff3008b)
+# [Trivia for the Star Wars Universe](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.17fbb6d9-1456-4add-be84-2cb6dff3008b)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Trivia for the Star Wars Universe skill, try saying...

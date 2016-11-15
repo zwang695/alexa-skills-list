@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="To be Continued icon" width="36"> [To be Continued](http://alexa.amazon.com/#skills/amzn1.ask.skill.aa4e2910-dcfd-45b6-8847-3e5144a434e5)
+# [To be Continued](http://alexa.amazon.com/#skills/amzn1.ask.skill.aa4e2910-dcfd-45b6-8847-3e5144a434e5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the To be Continued skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Oh Baby A Three icon" width="36"> [Oh Baby A Three](http://alexa.amazon.com/#skills/amzn1.ask.skill.28009576-33af-45c8-9c5a-34e9df686ced)
+# [Oh Baby A Three](http://alexa.amazon.com/#skills/amzn1.ask.skill.28009576-33af-45c8-9c5a-34e9df686ced)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Oh Baby A Three skill, try saying...

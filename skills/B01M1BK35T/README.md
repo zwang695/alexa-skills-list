@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Snow Summit icon" width="36"> [Snow Report for Snow Summit](http://alexa.amazon.com/#skills/amzn1.ask.skill.999d641e-f753-4511-bcce-993d65377b9c)
+# [Snow Report for Snow Summit](http://alexa.amazon.com/#skills/amzn1.ask.skill.999d641e-f753-4511-bcce-993d65377b9c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Snow Summit skill, try saying...

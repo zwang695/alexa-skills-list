@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="TV Wisdom icon" width="36"> [TV Wisdom](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f4425379-2585-48c3-8b62-c6564688f1ef)
+# [TV Wisdom](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f4425379-2585-48c3-8b62-c6564688f1ef)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the TV Wisdom skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Failed Future Predictions icon" width="36"> [Failed Future Predictions](http://alexa.amazon.com/#skills/amzn1.ask.skill.bb609761-9521-453c-b60c-3c48978192bc)
+# [Failed Future Predictions](http://alexa.amazon.com/#skills/amzn1.ask.skill.bb609761-9521-453c-b60c-3c48978192bc)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Failed Future Predictions skill, try saying...

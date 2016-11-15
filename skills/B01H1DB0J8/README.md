@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="GoatFactsMan icon" width="36"> [GoatFactsMan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db431df1-b7a8-4c96-94a3-6b0ddc02e79f)
+# [GoatFactsMan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db431df1-b7a8-4c96-94a3-6b0ddc02e79f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the GoatFactsMan skill, try saying...

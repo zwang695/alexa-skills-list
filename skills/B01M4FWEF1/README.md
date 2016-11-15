@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Magic Jukebox icon" width="36"> [Magic Jukebox](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1e5104b8-1397-4cab-accd-f890b2e018ec)
+# [Magic Jukebox](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1e5104b8-1397-4cab-accd-f890b2e018ec)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Magic Jukebox skill, try saying...

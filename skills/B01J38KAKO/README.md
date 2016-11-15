@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="mind-blowing movies fact icon" width="36"> [mind-blowing movies fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.e86348a1-0a08-4904-92d4-250eb268a6e1)
+# [mind-blowing movies fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.e86348a1-0a08-4904-92d4-250eb268a6e1)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the mind-blowing movies fact skill, try saying...

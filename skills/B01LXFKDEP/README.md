@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Heavenly Mountain icon" width="36"> [Snow Report for Heavenly Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8d50bb0-d6a3-4c66-880f-dfcbd4279699)
+# [Snow Report for Heavenly Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8d50bb0-d6a3-4c66-880f-dfcbd4279699)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Heavenly Mountain skill, try saying...

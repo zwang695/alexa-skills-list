@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chinese Zodiac icon" width="36"> [Chinese Zodiac](http://alexa.amazon.com/#skills/amzn1.ask.skill.1a7681da-833f-466d-ad19-c167134770d9)
+# [Chinese Zodiac](http://alexa.amazon.com/#skills/amzn1.ask.skill.1a7681da-833f-466d-ad19-c167134770d9)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Chinese Zodiac skill, try saying...

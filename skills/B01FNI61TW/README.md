@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Year-o-matic icon" width="36"> [Year-o-matic](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a6a24ced-bbd4-48c6-a369-011efb05e821)
+# [Year-o-matic](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a6a24ced-bbd4-48c6-a369-011efb05e821)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Year-o-matic skill, try saying...

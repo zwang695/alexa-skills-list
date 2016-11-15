@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sachin UnOfficial: 100 Questions icon" width="36"> [Sachin UnOfficial: 100 Questions](http://alexa.amazon.com/#skills/amzn1.ask.skill.8ab3bc54-4bab-4eae-8726-87939f41dcfa)
+# [Sachin UnOfficial: 100 Questions](http://alexa.amazon.com/#skills/amzn1.ask.skill.8ab3bc54-4bab-4eae-8726-87939f41dcfa)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sachin UnOfficial: 100 Questions skill, try saying...

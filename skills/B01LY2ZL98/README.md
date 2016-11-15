@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Aspen Mountain icon" width="36"> [Snow Report for Aspen Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.2263bb79-b178-4d5b-ae06-261193c1d7f3)
+# [Snow Report for Aspen Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.2263bb79-b178-4d5b-ae06-261193c1d7f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Aspen Mountain skill, try saying...

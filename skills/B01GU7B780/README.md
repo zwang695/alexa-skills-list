@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Animal Master icon" width="36"> [Animal Master](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.04a689a8-5681-4e2a-92ec-4156b849661d)
+# [Animal Master](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.04a689a8-5681-4e2a-92ec-4156b849661d)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Animal Master skill, try saying...

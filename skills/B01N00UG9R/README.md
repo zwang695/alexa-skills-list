@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Jackson Hole icon" width="36"> [Snow Report for Jackson Hole](http://alexa.amazon.com/#skills/amzn1.ask.skill.a85ba2cd-60c6-4634-bfea-af46cc240de6)
+# [Snow Report for Jackson Hole](http://alexa.amazon.com/#skills/amzn1.ask.skill.a85ba2cd-60c6-4634-bfea-af46cc240de6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Jackson Hole skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="German facts icon" width="36"> [German facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e657da64-7827-42d4-a663-c0a8a1512ac3)
+# [German facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e657da64-7827-42d4-a663-c0a8a1512ac3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the German facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Presidential Quiz icon" width="36"> [Presidential Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f07dcf98-7c16-426b-806e-a9e05c48591f)
+# [Presidential Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f07dcf98-7c16-426b-806e-a9e05c48591f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Presidential Quiz skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fun Bigfoot Facts icon" width="36"> [Fun Bigfoot Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.391ec750-7a2e-4948-b522-4e89f1685a9b)
+# [Fun Bigfoot Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.391ec750-7a2e-4948-b522-4e89f1685a9b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fun Bigfoot Facts skill, try saying...

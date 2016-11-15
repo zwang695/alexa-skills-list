@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Luther's Small Catechism icon" width="36"> [Luther's Small Catechism](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.22ccc337-65dd-4c00-9851-9ae9198ff25d)
+# [Luther's Small Catechism](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.22ccc337-65dd-4c00-9851-9ae9198ff25d)
 ![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Luther's Small Catechism skill, try saying...

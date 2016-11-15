@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Upper Limb Muscle Revision icon" width="36"> [Upper Limb Muscle Revision](http://alexa.amazon.com/#skills/amzn1.ask.skill.740e18b5-bda9-45bb-988e-373e9555f012)
+# [Upper Limb Muscle Revision](http://alexa.amazon.com/#skills/amzn1.ask.skill.740e18b5-bda9-45bb-988e-373e9555f012)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Upper Limb Muscle Revision skill, try saying...

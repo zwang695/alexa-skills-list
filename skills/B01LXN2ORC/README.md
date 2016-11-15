@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SeattleFacts icon" width="36"> [SeattleFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a9b2a64-9cd9-4c40-a3e9-6f8e58430bed)
+# [SeattleFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a9b2a64-9cd9-4c40-a3e9-6f8e58430bed)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the SeattleFacts skill, try saying...

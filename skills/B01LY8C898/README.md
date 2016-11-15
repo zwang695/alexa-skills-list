@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cornhole Nuggets icon" width="36"> [Cornhole Nuggets](http://alexa.amazon.com/#skills/amzn1.ask.skill.b50a3b6f-f075-4430-a000-3ec657889205)
+# [Cornhole Nuggets](http://alexa.amazon.com/#skills/amzn1.ask.skill.b50a3b6f-f075-4430-a000-3ec657889205)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cornhole Nuggets skill, try saying...

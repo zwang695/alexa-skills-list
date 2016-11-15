@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bitcoin Price icon" width="36"> [Bitcoin Price](http://alexa.amazon.com/#skills/amzn1.ask.skill.aee1222c-6cb6-4bb7-89b9-1070f021c06e)
+# [Bitcoin Price](http://alexa.amazon.com/#skills/amzn1.ask.skill.aee1222c-6cb6-4bb7-89b9-1070f021c06e)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Bitcoin Price skill, try saying...

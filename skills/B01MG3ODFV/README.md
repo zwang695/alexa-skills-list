@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Appalachian Ski icon" width="36"> [Snow Report for Appalachian Ski](http://alexa.amazon.com/#skills/amzn1.ask.skill.6dd3d4e7-1c77-46bf-8661-8606ed13a1f1)
+# [Snow Report for Appalachian Ski](http://alexa.amazon.com/#skills/amzn1.ask.skill.6dd3d4e7-1c77-46bf-8661-8606ed13a1f1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Appalachian Ski skill, try saying...

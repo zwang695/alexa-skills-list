@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Churchill Quotations icon" width="36"> [Churchill Quotations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec109eb4-85b7-477f-aae7-fd59a5656003)
+# [Churchill Quotations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec109eb4-85b7-477f-aae7-fd59a5656003)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Churchill Quotations skill, try saying...

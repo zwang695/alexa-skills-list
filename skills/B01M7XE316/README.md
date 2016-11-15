@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="UPS icon" width="36"> [UPS](http://alexa.amazon.com/#skills/amzn1.ask.skill.efdb82c9-17e8-448f-a784-79021cdf99f9)
+# [UPS](http://alexa.amazon.com/#skills/amzn1.ask.skill.efdb82c9-17e8-448f-a784-79021cdf99f9)
 ![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the UPS skill, try saying...

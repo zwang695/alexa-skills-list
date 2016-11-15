@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Find My Board Game icon" width="36"> [Find My Board Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.f51be784-c3fe-4199-9857-3cfed5a79e55)
+# [Find My Board Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.f51be784-c3fe-4199-9857-3cfed5a79e55)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Find My Board Game skill, try saying...

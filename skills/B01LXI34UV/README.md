@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Poke facts icon" width="36"> [Poke facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.53a81fdc-60b5-4c18-a97b-13b1f0e2cf24)
+# [Poke facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.53a81fdc-60b5-4c18-a97b-13b1f0e2cf24)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Poke facts skill, try saying...

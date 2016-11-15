@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="chicken facts icon" width="36"> [chicken facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bf3ced9b-dfc1-410e-828e-9fcbb7fe6741)
+# [chicken facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.bf3ced9b-dfc1-410e-828e-9fcbb7fe6741)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the chicken facts skill, try saying...

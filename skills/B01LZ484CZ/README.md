@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cardboard Box Facts icon" width="36"> [Cardboard Box Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d72f5e2f-a1f2-4f28-b2ad-cd2540832813)
+# [Cardboard Box Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d72f5e2f-a1f2-4f28-b2ad-cd2540832813)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cardboard Box Facts skill, try saying...

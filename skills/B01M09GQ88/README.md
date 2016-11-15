@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hive icon" width="36"> [Hive](http://alexa.amazon.com/#skills/amzn1.ask.skill.7464f78a-463c-4dc8-b88d-8ae6f16ece11)
+# [Hive](http://alexa.amazon.com/#skills/amzn1.ask.skill.7464f78a-463c-4dc8-b88d-8ae6f16ece11)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hive skill, try saying...

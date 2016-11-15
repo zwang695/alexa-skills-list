@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Honeywell](http://alexa.amazon.com/#skills/amzn1.ask.skill.98d6df0b-a2e0-4fd6-bc40-ba93ed0d632e)
+# [Honeywell](http://alexa.amazon.com/#skills/amzn1.ask.skill.98d6df0b-a2e0-4fd6-bc40-ba93ed0d632e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

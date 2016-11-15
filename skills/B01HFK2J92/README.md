@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="US National Poll Average Check icon" width="36"> [US National Poll Average Check](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dd41ebb2-31e9-4f68-9f3f-5706494118b9)
+# [US National Poll Average Check](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dd41ebb2-31e9-4f68-9f3f-5706494118b9)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the US National Poll Average Check skill, try saying...

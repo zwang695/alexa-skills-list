@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Teton Pass icon" width="36"> [Snow Report for Teton Pass](http://alexa.amazon.com/#skills/amzn1.ask.skill.20f4a534-b8fe-4aff-b0ba-46949f97525e)
+# [Snow Report for Teton Pass](http://alexa.amazon.com/#skills/amzn1.ask.skill.20f4a534-b8fe-4aff-b0ba-46949f97525e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Teton Pass skill, try saying...

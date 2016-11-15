@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Superbowl Facts icon" width="36"> [Superbowl Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cba46603-3b0f-4ccc-94be-44dec0ad57d4)
+# [Superbowl Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cba46603-3b0f-4ccc-94be-44dec0ad57d4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Superbowl Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="UK Deal Finder icon" width="36"> [UK Deal Finder](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8bea26a-fbb2-4fe3-982f-ebe47d473ec4)
+# [UK Deal Finder](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8bea26a-fbb2-4fe3-982f-ebe47d473ec4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the UK Deal Finder skill, try saying...

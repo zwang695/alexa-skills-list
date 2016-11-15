@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Elf Trivia icon" width="36"> [Elf Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.edfd9281-08a1-44ab-a2e6-698cbd38e8ba)
+# [Elf Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.edfd9281-08a1-44ab-a2e6-698cbd38e8ba)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Elf Trivia skill, try saying...

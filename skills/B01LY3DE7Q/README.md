@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sens Trivia icon" width="36"> [Sens Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.583d4e96-9a21-4a73-80f9-efc3389c8ad4)
+# [Sens Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.583d4e96-9a21-4a73-80f9-efc3389c8ad4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sens Trivia skill, try saying...

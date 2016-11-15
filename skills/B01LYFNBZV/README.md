@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sailboat Facts icon" width="36"> [Sailboat Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cba217b0-ade4-454f-b004-5c8abdd7cb09)
+# [Sailboat Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cba217b0-ade4-454f-b004-5c8abdd7cb09)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sailboat Facts skill, try saying...

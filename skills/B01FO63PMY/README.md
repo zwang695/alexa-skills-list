@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="You Don't Say icon" width="36"> [You Don't Say](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ab49be64-99f3-45cd-ad47-b820695fa6fe)
+# [You Don't Say](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ab49be64-99f3-45cd-ad47-b820695fa6fe)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the You Don't Say skill, try saying...

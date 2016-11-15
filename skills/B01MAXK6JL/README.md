@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Resistor Buddy icon" width="36"> [Resistor Buddy](http://alexa.amazon.com/#skills/amzn1.ask.skill.0e9659ae-8e17-4a00-82c3-672ce4fc64bb)
+# [Resistor Buddy](http://alexa.amazon.com/#skills/amzn1.ask.skill.0e9659ae-8e17-4a00-82c3-672ce4fc64bb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Resistor Buddy skill, try saying...

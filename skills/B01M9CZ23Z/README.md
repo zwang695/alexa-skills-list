@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Social Security Facts icon" width="36"> [Social Security Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b4fe362e-5847-495a-a445-b17724b44fce)
+# [Social Security Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b4fe362e-5847-495a-a445-b17724b44fce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Social Security Facts skill, try saying...

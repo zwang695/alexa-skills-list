@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Burrito Facts icon" width="36"> [Burrito Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf8e2faa-843b-4772-b115-44c2315b2afe)
+# [Burrito Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf8e2faa-843b-4772-b115-44c2315b2afe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Burrito Facts skill, try saying...

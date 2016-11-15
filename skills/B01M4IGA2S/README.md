@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Elliot Davies](http://alexa.amazon.com/#skills/amzn1.ask.skill.31e2cb52-0fc8-4052-b4de-45b5f9135f0a)
+# [Elliot Davies](http://alexa.amazon.com/#skills/amzn1.ask.skill.31e2cb52-0fc8-4052-b4de-45b5f9135f0a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

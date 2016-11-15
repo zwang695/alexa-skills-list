@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="News Reader icon" width="36"> [News Reader](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f53fcd27-caf5-4e4e-bc64-7faf58aa666a)
+# [News Reader](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f53fcd27-caf5-4e4e-bc64-7faf58aa666a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the News Reader skill, try saying...

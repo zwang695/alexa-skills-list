@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="College Football Roster Info icon" width="36"> [College Football Roster Info](http://alexa.amazon.com/#skills/amzn1.ask.skill.65714087-414f-4558-9bab-ff11a0c1fd70)
+# [College Football Roster Info](http://alexa.amazon.com/#skills/amzn1.ask.skill.65714087-414f-4558-9bab-ff11a0c1fd70)
 ![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the College Football Roster Info skill, try saying...

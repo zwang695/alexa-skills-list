@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="AikidoFacts icon" width="36"> [AikidoFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.42792318-2702-42cc-9bcc-936924263c9e)
+# [AikidoFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.42792318-2702-42cc-9bcc-936924263c9e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the AikidoFacts skill, try saying...

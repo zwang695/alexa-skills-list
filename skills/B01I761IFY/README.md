@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Name the State Capitals icon" width="36"> [Name the State Capitals](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5c3052d9-35f7-489d-bf12-84601eb64a47)
+# [Name the State Capitals](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5c3052d9-35f7-489d-bf12-84601eb64a47)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Name the State Capitals skill, try saying...

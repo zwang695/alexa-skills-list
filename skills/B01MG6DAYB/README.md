@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Paul Beardow](http://alexa.amazon.com/#skills/amzn1.ask.skill.976d9613-d5ca-40ec-b189-5b7f53e6e546)
+# [Paul Beardow](http://alexa.amazon.com/#skills/amzn1.ask.skill.976d9613-d5ca-40ec-b189-5b7f53e6e546)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

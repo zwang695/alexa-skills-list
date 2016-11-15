@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="myFactSkill icon" width="36"> [myFactSkill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8823de73-7a3b-473e-a0a2-5d5909beab36)
+# [myFactSkill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8823de73-7a3b-473e-a0a2-5d5909beab36)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the myFactSkill skill, try saying...

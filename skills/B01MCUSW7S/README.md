@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Neo Random icon" width="36"> [Neo Random](http://alexa.amazon.com/#skills/amzn1.ask.skill.6a6c3eaa-503c-4b39-a0b4-d0440953f340)
+# [Neo Random](http://alexa.amazon.com/#skills/amzn1.ask.skill.6a6c3eaa-503c-4b39-a0b4-d0440953f340)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Neo Random skill, try saying...

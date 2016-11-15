@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Train icon" width="36"> [My Train](http://alexa.amazon.com/#skills/amzn1.ask.skill.4397ceac-6b84-4729-855d-7de6ad37983d)
+# [My Train](http://alexa.amazon.com/#skills/amzn1.ask.skill.4397ceac-6b84-4729-855d-7de6ad37983d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My Train skill, try saying...

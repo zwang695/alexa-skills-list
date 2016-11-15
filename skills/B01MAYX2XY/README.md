@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Berlin Quiz icon" width="36"> [Berlin Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.16a07585-8905-4e51-a66d-cb091fa503d1)
+# [Berlin Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.16a07585-8905-4e51-a66d-cb091fa503d1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Berlin Quiz skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Sunrise Park icon" width="36"> [Snow Report for Sunrise Park](http://alexa.amazon.com/#skills/amzn1.ask.skill.af6644c3-407a-4115-bf78-803ad4ae560c)
+# [Snow Report for Sunrise Park](http://alexa.amazon.com/#skills/amzn1.ask.skill.af6644c3-407a-4115-bf78-803ad4ae560c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Sunrise Park skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="I am Bored icon" width="36"> [I am Bored](http://alexa.amazon.com/#skills/amzn1.ask.skill.05bcc281-7a1f-45a0-97bf-f2d51e0b0ba1)
+# [I am Bored](http://alexa.amazon.com/#skills/amzn1.ask.skill.05bcc281-7a1f-45a0-97bf-f2d51e0b0ba1)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the I am Bored skill, try saying...

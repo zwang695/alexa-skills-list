@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="States Trivia icon" width="36"> [States Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dea254be-1e64-402d-8af5-de9fd7717ad7)
+# [States Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dea254be-1e64-402d-8af5-de9fd7717ad7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the States Trivia skill, try saying...

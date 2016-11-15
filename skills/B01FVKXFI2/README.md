@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SineadTriviaGame icon" width="36"> [SineadTriviaGame](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b4091cb6-7ef8-45d2-b5d5-2b90927cc8f8)
+# [SineadTriviaGame](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b4091cb6-7ef8-45d2-b5d5-2b90927cc8f8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the SineadTriviaGame skill, try saying...

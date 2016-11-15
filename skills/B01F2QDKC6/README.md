@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sutter Health icon" width="36"> [Sutter Health](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b84dd64a-8fcf-46b1-b8f5-4786a5f314db)
+# [Sutter Health](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b84dd64a-8fcf-46b1-b8f5-4786a5f314db)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sutter Health skill, try saying...

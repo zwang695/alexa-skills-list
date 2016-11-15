@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wenger Speak icon" width="36"> [Wenger Speak](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef57219c-9734-4868-bb72-991c99b16054)
+# [Wenger Speak](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef57219c-9734-4868-bb72-991c99b16054)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Wenger Speak skill, try saying...

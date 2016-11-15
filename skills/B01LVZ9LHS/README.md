@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Atlas icon" width="36"> [Atlas](http://alexa.amazon.com/#skills/amzn1.ask.skill.4485a801-dba8-41be-a16a-55aac2623aae)
+# [Atlas](http://alexa.amazon.com/#skills/amzn1.ask.skill.4485a801-dba8-41be-a16a-55aac2623aae)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Atlas skill, try saying...

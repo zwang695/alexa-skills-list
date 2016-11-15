@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Time Lord Travels icon" width="36"> [Time Lord Travels](http://alexa.amazon.com/#skills/amzn1.ask.skill.8c5a013f-8ac8-4214-96f3-b084e7b44703)
+# [Time Lord Travels](http://alexa.amazon.com/#skills/amzn1.ask.skill.8c5a013f-8ac8-4214-96f3-b084e7b44703)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Time Lord Travels skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ancient Greek History Quiz icon" width="36"> [Ancient Greek History Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ce5dce50-7907-4560-8955-d37f0d83edc5)
+# [Ancient Greek History Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ce5dce50-7907-4560-8955-d37f0d83edc5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ancient Greek History Quiz skill, try saying...

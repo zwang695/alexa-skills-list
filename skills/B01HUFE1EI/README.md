@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dessert Fun icon" width="36"> [Dessert Fun](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.096b6818-fc00-4ca8-93f9-83fd578dad56)
+# [Dessert Fun](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.096b6818-fc00-4ca8-93f9-83fd578dad56)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dessert Fun skill, try saying...

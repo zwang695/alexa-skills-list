@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Telegraph News icon" width="36"> [Telegraph News](http://alexa.amazon.com/#skills/amzn1.ask.skill.3c6ce244-594d-4d7c-a198-2aec6eecd5cd)
+# [Telegraph News](http://alexa.amazon.com/#skills/amzn1.ask.skill.3c6ce244-594d-4d7c-a198-2aec6eecd5cd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Telegraph News skill, try saying...

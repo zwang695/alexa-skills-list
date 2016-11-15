@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CCS Insight icon" width="36"> [CCS Insight](http://alexa.amazon.com/#skills/amzn1.ask.skill.6b7a02df-bcf6-4515-8595-450e196c74c7)
+# [CCS Insight](http://alexa.amazon.com/#skills/amzn1.ask.skill.6b7a02df-bcf6-4515-8595-450e196c74c7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CCS Insight skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Capital Flash Cards icon" width="36"> [Capital Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7f174f00-42d4-42a9-a11a-0325c97f6270)
+# [Capital Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7f174f00-42d4-42a9-a11a-0325c97f6270)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Capital Flash Cards skill, try saying...

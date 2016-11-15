@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Alfa Bravo Charlie icon" width="36"> [Alfa Bravo Charlie](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.df2ed753-716d-4dcb-8cb3-806caa6ab52b)
+# [Alfa Bravo Charlie](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.df2ed753-716d-4dcb-8cb3-806caa6ab52b)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Alfa Bravo Charlie skill, try saying...

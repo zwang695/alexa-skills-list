@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mystic Mirror icon" width="36"> [Mystic Mirror](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3d64314a-4989-4bcf-a6a2-81f734c53084)
+# [Mystic Mirror](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3d64314a-4989-4bcf-a6a2-81f734c53084)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mystic Mirror skill, try saying...

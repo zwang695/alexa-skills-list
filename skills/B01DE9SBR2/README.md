@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Star Trivia icon" width="36"> [Star Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8425453a-b45d-4df9-9198-c8f0212f3d0b)
+# [Star Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8425453a-b45d-4df9-9198-c8f0212f3d0b)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Star Trivia skill, try saying...

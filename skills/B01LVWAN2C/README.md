@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Windows Shortcuts icon" width="36"> [Unofficial Windows Shortcuts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf1117e3-ffde-46e8-8224-e386b6fbd1bf)
+# [Unofficial Windows Shortcuts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf1117e3-ffde-46e8-8224-e386b6fbd1bf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Windows Shortcuts skill, try saying...

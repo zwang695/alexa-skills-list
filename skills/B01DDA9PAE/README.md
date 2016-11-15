@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ZooTrivia icon" width="36"> [ZooTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0722a9d4-39c3-4b6f-bbae-bd4a9041e0f0)
+# [ZooTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0722a9d4-39c3-4b6f-bbae-bd4a9041e0f0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ZooTrivia skill, try saying...

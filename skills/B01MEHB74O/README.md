@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Ski Brule icon" width="36"> [Snow Report for Ski Brule](http://alexa.amazon.com/#skills/amzn1.ask.skill.85294fd9-f328-46a9-bb64-a11af6ea267a)
+# [Snow Report for Ski Brule](http://alexa.amazon.com/#skills/amzn1.ask.skill.85294fd9-f328-46a9-bb64-a11af6ea267a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Ski Brule skill, try saying...

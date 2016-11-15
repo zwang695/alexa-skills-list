@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Professor Kay icon" width="36"> [Professor Kay](http://alexa.amazon.com/#skills/amzn1.ask.skill.38d803df-021d-437d-bedb-d14db7ab22f8)
+# [Professor Kay](http://alexa.amazon.com/#skills/amzn1.ask.skill.38d803df-021d-437d-bedb-d14db7ab22f8)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Professor Kay skill, try saying...

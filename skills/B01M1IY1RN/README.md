@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="House Type Catalog icon" width="36"> [House Type Catalog](http://alexa.amazon.com/#skills/amzn1.ask.skill.e89c33e4-71cb-4893-a0b2-0c1c1daeb234)
+# [House Type Catalog](http://alexa.amazon.com/#skills/amzn1.ask.skill.e89c33e4-71cb-4893-a0b2-0c1c1daeb234)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the House Type Catalog skill, try saying...

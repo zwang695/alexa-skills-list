@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Winter Park icon" width="36"> [Snow Report for Winter Park](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5764289-d2b3-4f42-9061-7a509716de62)
+# [Snow Report for Winter Park](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5764289-d2b3-4f42-9061-7a509716de62)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Winter Park skill, try saying...

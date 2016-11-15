@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Magic Dice icon" width="36"> [Magic Dice](http://alexa.amazon.com/#skills/amzn1.ask.skill.0395e9f6-f004-45c9-acbd-9ec8c12a48c7)
+# [Magic Dice](http://alexa.amazon.com/#skills/amzn1.ask.skill.0395e9f6-f004-45c9-acbd-9ec8c12a48c7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Magic Dice skill, try saying...

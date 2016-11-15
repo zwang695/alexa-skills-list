@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Vashon Island Trivia icon" width="36"> [Vashon Island Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.e8076410-2417-4fad-803a-fa6c7842f489)
+# [Vashon Island Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.e8076410-2417-4fad-803a-fa6c7842f489)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Vashon Island Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Intive office location icon" width="36"> [Intive office location](http://alexa.amazon.com/#skills/amzn1.ask.skill.119fd96b-5b7f-403b-a6b2-c349fdf01419)
+# [Intive office location](http://alexa.amazon.com/#skills/amzn1.ask.skill.119fd96b-5b7f-403b-a6b2-c349fdf01419)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Intive office location skill, try saying...

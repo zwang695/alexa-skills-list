@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pi Home Master icon" width="36"> [Pi Home Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b38790d-905a-4005-ad73-908f63e1622f)
+# [Pi Home Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b38790d-905a-4005-ad73-908f63e1622f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pi Home Master skill, try saying...

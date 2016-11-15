@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Know your cricket icon" width="36"> [Know your cricket](http://alexa.amazon.com/#skills/amzn1.ask.skill.4c62742b-3653-402d-8545-ef8698ba2bce)
+# [Know your cricket](http://alexa.amazon.com/#skills/amzn1.ask.skill.4c62742b-3653-402d-8545-ef8698ba2bce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Know your cricket skill, try saying...

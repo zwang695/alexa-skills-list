@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Calorie Steps icon" width="36"> [Calorie Steps](http://alexa.amazon.com/#skills/amzn1.ask.skill.291920cb-8063-42dc-80ed-b1f05669537f)
+# [Calorie Steps](http://alexa.amazon.com/#skills/amzn1.ask.skill.291920cb-8063-42dc-80ed-b1f05669537f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Calorie Steps skill, try saying...

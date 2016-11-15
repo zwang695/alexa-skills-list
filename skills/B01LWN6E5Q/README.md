@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Scrum Master Trivia icon" width="36"> [Unofficial Scrum Master Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.89f31692-285d-4ff0-8f9b-93f977941961)
+# [Unofficial Scrum Master Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.89f31692-285d-4ff0-8f9b-93f977941961)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Scrum Master Trivia skill, try saying...

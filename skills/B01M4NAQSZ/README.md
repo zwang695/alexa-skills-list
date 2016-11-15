@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for HoliMont Ski Area icon" width="36"> [Snow Report for HoliMont Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.67da182b-824c-4b6a-b98b-6c9a2a12b02d)
+# [Snow Report for HoliMont Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.67da182b-824c-4b6a-b98b-6c9a2a12b02d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for HoliMont Ski Area skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mormon Facts icon" width="36"> [Mormon Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.46d38262-631f-419b-a20e-27cc4f004732)
+# [Mormon Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.46d38262-631f-419b-a20e-27cc4f004732)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mormon Facts skill, try saying...

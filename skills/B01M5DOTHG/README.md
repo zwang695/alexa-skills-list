@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Paoli Peaks icon" width="36"> [Snow Report for Paoli Peaks](http://alexa.amazon.com/#skills/amzn1.ask.skill.7b240d6c-1184-450f-af75-6cc41c4965ce)
+# [Snow Report for Paoli Peaks](http://alexa.amazon.com/#skills/amzn1.ask.skill.7b240d6c-1184-450f-af75-6cc41c4965ce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Paoli Peaks skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MemoryChallenge icon" width="36"> [MemoryChallenge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8431aa0b-1be9-40bc-b59f-49830d18d968)
+# [MemoryChallenge](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8431aa0b-1be9-40bc-b59f-49830d18d968)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the MemoryChallenge skill, try saying...

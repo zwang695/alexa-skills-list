@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Canada Olympic Park icon" width="36"> [Snow Report for Canada Olympic Park](http://alexa.amazon.com/#skills/amzn1.ask.skill.a0b6cee0-1047-43c2-a058-a058a61af138)
+# [Snow Report for Canada Olympic Park](http://alexa.amazon.com/#skills/amzn1.ask.skill.a0b6cee0-1047-43c2-a058-a058a61af138)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Canada Olympic Park skill, try saying...

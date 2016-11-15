@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tech Trivia icon" width="36"> [Tech Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.5e366f07-2553-4804-86a3-080d54479a4a)
+# [Tech Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.5e366f07-2553-4804-86a3-080d54479a4a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tech Trivia skill, try saying...

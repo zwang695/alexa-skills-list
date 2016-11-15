@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Tony Lau](http://alexa.amazon.com/#skills/amzn1.ask.skill.a93df455-3daa-42bf-825d-4e428077d27b)
+# [Tony Lau](http://alexa.amazon.com/#skills/amzn1.ask.skill.a93df455-3daa-42bf-825d-4e428077d27b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

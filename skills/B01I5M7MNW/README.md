@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="African American Facts icon" width="36"> [African American Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.70f02254-2acc-4e82-bca6-072f47968e63)
+# [African American Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.70f02254-2acc-4e82-bca6-072f47968e63)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the African American Facts skill, try saying...

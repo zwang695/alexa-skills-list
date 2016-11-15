@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chicago Trivia icon" width="36"> [Chicago Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.5fb5415d-272e-4b6e-b197-8ed423e3822c)
+# [Chicago Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.5fb5415d-272e-4b6e-b197-8ed423e3822c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chicago Trivia skill, try saying...

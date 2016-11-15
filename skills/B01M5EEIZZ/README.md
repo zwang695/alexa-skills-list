@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Germany Trivia icon" width="36"> [Germany Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f10c0ab1-3951-4bb7-b3e6-313818d6f193)
+# [Germany Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f10c0ab1-3951-4bb7-b3e6-313818d6f193)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Germany Trivia skill, try saying...

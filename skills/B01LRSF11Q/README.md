@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tie Breaker icon" width="36"> [Tie Breaker](http://alexa.amazon.com/#skills/amzn1.ask.skill.0cdbe0db-cb51-45d8-948d-2a7c76b7802e)
+# [Tie Breaker](http://alexa.amazon.com/#skills/amzn1.ask.skill.0cdbe0db-cb51-45d8-948d-2a7c76b7802e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tie Breaker skill, try saying...

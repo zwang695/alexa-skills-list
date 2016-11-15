@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CF1N Workout icon" width="36"> [CF1N Workout](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0e7af247-78fa-4993-bff6-6e092f51c00f)
+# [CF1N Workout](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0e7af247-78fa-4993-bff6-6e092f51c00f)
 ![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the CF1N Workout skill, try saying...

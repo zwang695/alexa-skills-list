@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Coffee Facts icon" width="36"> [Coffee Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.53a345cc-16db-4ca8-8ed6-2cad136e384b)
+# [Coffee Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.53a345cc-16db-4ca8-8ed6-2cad136e384b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Coffee Facts skill, try saying...

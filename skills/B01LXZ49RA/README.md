@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Make Me Cry. icon" width="36"> [Make Me Cry.](http://alexa.amazon.com/#skills/amzn1.ask.skill.a4d1bdf3-6bd4-4c79-817e-3199583147b9)
+# [Make Me Cry.](http://alexa.amazon.com/#skills/amzn1.ask.skill.a4d1bdf3-6bd4-4c79-817e-3199583147b9)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Make Me Cry. skill, try saying...

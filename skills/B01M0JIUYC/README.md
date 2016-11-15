@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sammamish Facts icon" width="36"> [Sammamish Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e366b42-f5e4-43de-9e1e-57a2d8b4d7f7)
+# [Sammamish Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e366b42-f5e4-43de-9e1e-57a2d8b4d7f7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sammamish Facts skill, try saying...

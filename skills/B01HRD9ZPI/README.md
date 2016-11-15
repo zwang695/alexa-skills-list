@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Zombie Survival Tips icon" width="36"> [Zombie Survival Tips](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.43f8f78e-5423-4556-903c-cd29cb09b77d)
+# [Zombie Survival Tips](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.43f8f78e-5423-4556-903c-cd29cb09b77d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Zombie Survival Tips skill, try saying...

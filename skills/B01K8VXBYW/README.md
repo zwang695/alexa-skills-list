@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Doug-facts icon" width="36"> [Doug-facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e554ff6-f02c-47c5-a0fd-ea28845f25e3)
+# [Doug-facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e554ff6-f02c-47c5-a0fd-ea28845f25e3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Doug-facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="jamFact icon" width="36"> [jamFact](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b52cdc0-bfa1-46b0-baea-5a5dbad35e29)
+# [jamFact](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b52cdc0-bfa1-46b0-baea-5a5dbad35e29)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the jamFact skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="2016 Swimming Trials Standards icon" width="36"> [2016 Swimming Trials Standards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c5144150-3ec6-462a-928a-cd3cd36dd25f)
+# [2016 Swimming Trials Standards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c5144150-3ec6-462a-928a-cd3cd36dd25f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the 2016 Swimming Trials Standards skill, try saying...

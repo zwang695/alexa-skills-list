@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Food Network icon" width="36"> [Food Network](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d8846fea-2b08-4863-9d95-0fd83d7713c8)
+# [Food Network](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d8846fea-2b08-4863-9d95-0fd83d7713c8)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 28
 
 To use the Food Network skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mt Buller icon" width="36"> [Snow Report for Mt Buller](http://alexa.amazon.com/#skills/amzn1.ask.skill.a75ae366-c52d-4b52-939d-bb25e26b0a66)
+# [Snow Report for Mt Buller](http://alexa.amazon.com/#skills/amzn1.ask.skill.a75ae366-c52d-4b52-939d-bb25e26b0a66)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mt Buller skill, try saying...

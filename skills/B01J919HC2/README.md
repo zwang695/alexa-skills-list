@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Brandify Knowledge icon" width="36"> [Brandify Knowledge](http://alexa.amazon.com/#skills/amzn1.ask.skill.b9f8c5da-8b87-4833-bbd3-000e548c67f2)
+# [Brandify Knowledge](http://alexa.amazon.com/#skills/amzn1.ask.skill.b9f8c5da-8b87-4833-bbd3-000e548c67f2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Brandify Knowledge skill, try saying...

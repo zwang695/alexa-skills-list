@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mulligans Hollow icon" width="36"> [Snow Report for Mulligans Hollow](http://alexa.amazon.com/#skills/amzn1.ask.skill.693f3653-ae94-414e-af25-3b7a648be6be)
+# [Snow Report for Mulligans Hollow](http://alexa.amazon.com/#skills/amzn1.ask.skill.693f3653-ae94-414e-af25-3b7a648be6be)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mulligans Hollow skill, try saying...

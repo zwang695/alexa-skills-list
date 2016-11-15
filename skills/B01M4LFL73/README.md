@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Afton Alps icon" width="36"> [Snow Report for Afton Alps](http://alexa.amazon.com/#skills/amzn1.ask.skill.0398bd44-680f-4b9f-979d-dfa74388ccee)
+# [Snow Report for Afton Alps](http://alexa.amazon.com/#skills/amzn1.ask.skill.0398bd44-680f-4b9f-979d-dfa74388ccee)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Afton Alps skill, try saying...

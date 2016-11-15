@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Make me an Omelette icon" width="36"> [Make me an Omelette](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec0546ac-0d52-407c-af91-8da82b083c60)
+# [Make me an Omelette](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec0546ac-0d52-407c-af91-8da82b083c60)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Make me an Omelette skill, try saying...

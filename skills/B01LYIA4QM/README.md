@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Travel Fact of The Day icon" width="36"> [Travel Fact of The Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.fec99e96-5d2b-4b79-9e35-6d8ebd2e4137)
+# [Travel Fact of The Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.fec99e96-5d2b-4b79-9e35-6d8ebd2e4137)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Travel Fact of The Day skill, try saying...

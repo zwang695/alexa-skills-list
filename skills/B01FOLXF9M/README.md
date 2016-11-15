@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Species  Trivia icon" width="36"> [Species  Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.377840be-2dca-4a08-9a7c-977b6504b677)
+# [Species  Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.377840be-2dca-4a08-9a7c-977b6504b677)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Species  Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Drought Tips icon" width="36"> [Drought Tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.c90c4aef-a299-4778-af21-daf576fb0b5e)
+# [Drought Tips](http://alexa.amazon.com/#skills/amzn1.ask.skill.c90c4aef-a299-4778-af21-daf576fb0b5e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Drought Tips skill, try saying...

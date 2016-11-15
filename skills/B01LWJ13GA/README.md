@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Programming terms icon" width="36"> [Programming terms](http://alexa.amazon.com/#skills/amzn1.ask.skill.7833da6b-5a6f-4ece-8af8-dcede61f2552)
+# [Programming terms](http://alexa.amazon.com/#skills/amzn1.ask.skill.7833da6b-5a6f-4ece-8af8-dcede61f2552)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Programming terms skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bird Songs icon" width="36"> [Bird Songs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2bc5cf0-485b-4da9-8d10-16f4f380a901)
+# [Bird Songs](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2bc5cf0-485b-4da9-8d10-16f4f380a901)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bird Songs skill, try saying...

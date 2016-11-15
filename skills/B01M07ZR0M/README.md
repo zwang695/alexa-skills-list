@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Sheldon Cooper Facts icon" width="36"> [Unofficial Sheldon Cooper Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.49bcbf12-7a2f-4bfb-9834-f374b6a8440c)
+# [Unofficial Sheldon Cooper Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.49bcbf12-7a2f-4bfb-9834-f374b6a8440c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Sheldon Cooper Facts skill, try saying...

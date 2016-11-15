@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Renewables Patents icon" width="36"> [Renewables Patents](http://alexa.amazon.com/#skills/amzn1.ask.skill.e7d9e6d4-0d82-4fa8-b33b-b0e736694fe2)
+# [Renewables Patents](http://alexa.amazon.com/#skills/amzn1.ask.skill.e7d9e6d4-0d82-4fa8-b33b-b0e736694fe2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Renewables Patents skill, try saying...

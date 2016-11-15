@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Vocab Quiz icon" width="36"> [Vocab Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.f9136de4-87d4-419b-a047-473b9559e982)
+# [Vocab Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.f9136de4-87d4-419b-a047-473b9559e982)
 ![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Vocab Quiz skill, try saying...

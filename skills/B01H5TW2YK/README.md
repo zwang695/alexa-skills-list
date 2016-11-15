@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mortgage Calculator icon" width="36"> [Mortgage Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2d1b5bcb-28ed-460e-8fae-e5fb70457a80)
+# [Mortgage Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2d1b5bcb-28ed-460e-8fae-e5fb70457a80)
 ![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Mortgage Calculator skill, try saying...

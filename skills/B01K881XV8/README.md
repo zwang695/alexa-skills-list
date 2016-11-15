@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Paint Facts icon" width="36"> [Paint Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d104f477-6b7d-4ed8-9e6d-4b8bc45bec53)
+# [Paint Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d104f477-6b7d-4ed8-9e6d-4b8bc45bec53)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Paint Facts skill, try saying...

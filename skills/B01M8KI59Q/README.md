@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Drinking Questionnaire icon" width="36"> [Drinking Questionnaire](http://alexa.amazon.com/#skills/amzn1.ask.skill.26437cd5-ffa6-4782-88ab-00a1dc8e55e8)
+# [Drinking Questionnaire](http://alexa.amazon.com/#skills/amzn1.ask.skill.26437cd5-ffa6-4782-88ab-00a1dc8e55e8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Drinking Questionnaire skill, try saying...

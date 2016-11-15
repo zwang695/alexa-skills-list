@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="JS Facts icon" width="36"> [JS Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3e559d76-3e88-4545-ad1b-2a2b6a4ed947)
+# [JS Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3e559d76-3e88-4545-ad1b-2a2b6a4ed947)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the JS Facts skill, try saying...

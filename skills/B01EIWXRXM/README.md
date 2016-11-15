@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chocolate Trivia icon" width="36"> [Chocolate Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.74354e38-0298-4634-8d58-f01d92b033f2)
+# [Chocolate Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.74354e38-0298-4634-8d58-f01d92b033f2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chocolate Trivia skill, try saying...

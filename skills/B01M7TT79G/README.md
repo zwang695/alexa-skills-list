@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Boston Mills icon" width="36"> [Snow Report for Boston Mills](http://alexa.amazon.com/#skills/amzn1.ask.skill.0259cc40-b190-458a-8618-5607a5019f74)
+# [Snow Report for Boston Mills](http://alexa.amazon.com/#skills/amzn1.ask.skill.0259cc40-b190-458a-8618-5607a5019f74)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Boston Mills skill, try saying...

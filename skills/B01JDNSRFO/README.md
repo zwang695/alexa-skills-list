@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Name that Song from the 80s icon" width="36"> [Name that Song from the 80s](http://alexa.amazon.com/#skills/amzn1.ask.skill.35154b7f-8020-40ed-b096-08d562745d03)
+# [Name that Song from the 80s](http://alexa.amazon.com/#skills/amzn1.ask.skill.35154b7f-8020-40ed-b096-08d562745d03)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Name that Song from the 80s skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mount Bohemia icon" width="36"> [Snow Report for Mount Bohemia](http://alexa.amazon.com/#skills/amzn1.ask.skill.fcbb4f65-582b-471c-8d8d-9ebe446935bd)
+# [Snow Report for Mount Bohemia](http://alexa.amazon.com/#skills/amzn1.ask.skill.fcbb4f65-582b-471c-8d8d-9ebe446935bd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mount Bohemia skill, try saying...

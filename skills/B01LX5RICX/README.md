@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Seahawks Fan Trivia icon" width="36"> [Seahawks Fan Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.09fc8d76-857e-478f-8f34-a2dc9ae3771f)
+# [Seahawks Fan Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.09fc8d76-857e-478f-8f34-a2dc9ae3771f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Seahawks Fan Trivia skill, try saying...

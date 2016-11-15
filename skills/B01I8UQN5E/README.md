@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Madison Mountaineering icon" width="36"> [Madison Mountaineering](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4b6072bf-18e1-4fd7-8df2-61f3385c7806)
+# [Madison Mountaineering](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4b6072bf-18e1-4fd7-8df2-61f3385c7806)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Madison Mountaineering skill, try saying...

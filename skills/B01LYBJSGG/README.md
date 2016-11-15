@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cleaning Buddy icon" width="36"> [Cleaning Buddy](http://alexa.amazon.com/#skills/amzn1.ask.skill.42292a2a-8a1f-435e-ab49-9fb12e307201)
+# [Cleaning Buddy](http://alexa.amazon.com/#skills/amzn1.ask.skill.42292a2a-8a1f-435e-ab49-9fb12e307201)
 ![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Cleaning Buddy skill, try saying...

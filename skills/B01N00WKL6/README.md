@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Winterplace Ski Resort icon" width="36"> [Snow Report for Winterplace Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.767ffae7-4c36-4cde-9833-5b8d60bb04ef)
+# [Snow Report for Winterplace Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.767ffae7-4c36-4cde-9833-5b8d60bb04ef)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Winterplace Ski Resort skill, try saying...

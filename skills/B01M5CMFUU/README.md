@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Racing Facts icon" width="36"> [Racing Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c7f7a03c-c400-45dc-9efd-f6e6a80b0773)
+# [Racing Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c7f7a03c-c400-45dc-9efd-f6e6a80b0773)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Racing Facts skill, try saying...

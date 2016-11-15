@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Funny Cat Facts icon" width="36"> [Funny Cat Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.95767c7b-7857-42b1-9ea7-a0aa1e60d4d1)
+# [Funny Cat Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.95767c7b-7857-42b1-9ea7-a0aa1e60d4d1)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Funny Cat Facts skill, try saying...

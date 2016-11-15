@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Professor Oak (Unofficial) icon" width="36"> [Professor Oak (Unofficial)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3fadfc50-5b0e-463e-ba15-4ec17ade987c)
+# [Professor Oak (Unofficial)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3fadfc50-5b0e-463e-ba15-4ec17ade987c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Professor Oak (Unofficial) skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="California Facts icon" width="36"> [California Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.21dde6f3-7fc8-4a22-80e1-2c78adc86abe)
+# [California Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.21dde6f3-7fc8-4a22-80e1-2c78adc86abe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the California Facts skill, try saying...

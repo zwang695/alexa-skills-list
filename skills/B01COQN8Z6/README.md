@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia for Formula One icon" width="36"> [Trivia for Formula One](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.549c1d84-2262-4dac-9a9f-b2c6001ffc3f)
+# [Trivia for Formula One](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.549c1d84-2262-4dac-9a9f-b2c6001ffc3f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia for Formula One skill, try saying...

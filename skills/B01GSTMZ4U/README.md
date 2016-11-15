@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Combinations Calculator icon" width="36"> [Combinations Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6cad36bc-7702-4e7f-ab5b-d9ad223f9ff4)
+# [Combinations Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6cad36bc-7702-4e7f-ab5b-d9ad223f9ff4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Combinations Calculator skill, try saying...

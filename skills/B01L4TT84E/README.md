@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Juggling Teacher icon" width="36"> [Juggling Teacher](http://alexa.amazon.com/#skills/amzn1.ask.skill.381c9d85-2874-4313-9159-20b771191838)
+# [Juggling Teacher](http://alexa.amazon.com/#skills/amzn1.ask.skill.381c9d85-2874-4313-9159-20b771191838)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Juggling Teacher skill, try saying...

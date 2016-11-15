@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Deck of Cards icon" width="36"> [Deck of Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d111d1fe-fd21-498c-8a67-9a23019dc4cd)
+# [Deck of Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d111d1fe-fd21-498c-8a67-9a23019dc4cd)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Deck of Cards skill, try saying...

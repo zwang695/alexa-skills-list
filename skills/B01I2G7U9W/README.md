@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="World Cup Facts icon" width="36"> [World Cup Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8ca58bc1-ca70-48e0-9d1b-7ff8e00aa9cb)
+# [World Cup Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8ca58bc1-ca70-48e0-9d1b-7ff8e00aa9cb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the World Cup Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Dagmar Ski Resort icon" width="36"> [Snow Report for Dagmar Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.ec83947d-f902-4300-a5bd-ec09d17f1e41)
+# [Snow Report for Dagmar Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.ec83947d-f902-4300-a5bd-ec09d17f1e41)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Dagmar Ski Resort skill, try saying...

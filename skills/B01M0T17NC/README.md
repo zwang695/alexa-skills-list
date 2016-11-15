@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="French Fact Skill icon" width="36"> [French Fact Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.d42b93b2-669d-4063-801a-dd20c46aa7c4)
+# [French Fact Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.d42b93b2-669d-4063-801a-dd20c46aa7c4)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the French Fact Skill skill, try saying...

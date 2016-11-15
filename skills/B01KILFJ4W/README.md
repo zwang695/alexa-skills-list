@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="dog breeds flashcards icon" width="36"> [dog breeds flashcards](http://alexa.amazon.com/#skills/amzn1.ask.skill.735d897c-592d-437f-b768-395c379b3a14)
+# [dog breeds flashcards](http://alexa.amazon.com/#skills/amzn1.ask.skill.735d897c-592d-437f-b768-395c379b3a14)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the dog breeds flashcards skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pokemonfan Character Quiz icon" width="36"> [Pokemonfan Character Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.2e51f668-c53a-4a3e-b0ac-b4758f826224)
+# [Pokemonfan Character Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.2e51f668-c53a-4a3e-b0ac-b4758f826224)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pokemonfan Character Quiz skill, try saying...

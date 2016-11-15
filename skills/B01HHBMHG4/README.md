@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Food for Thought icon" width="36"> [Food for Thought](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.715230d4-28f8-4540-9cde-b6ce454da7a7)
+# [Food for Thought](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.715230d4-28f8-4540-9cde-b6ce454da7a7)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Food for Thought skill, try saying...

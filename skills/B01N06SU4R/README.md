@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BSD Fortune icon" width="36"> [BSD Fortune](http://alexa.amazon.com/#skills/amzn1.ask.skill.b927c400-750f-441d-a96e-02da911ba4bd)
+# [BSD Fortune](http://alexa.amazon.com/#skills/amzn1.ask.skill.b927c400-750f-441d-a96e-02da911ba4bd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BSD Fortune skill, try saying...

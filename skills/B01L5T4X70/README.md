@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts of Greece icon" width="36"> [Facts of Greece](http://alexa.amazon.com/#skills/amzn1.ask.skill.314ab13d-8c80-40db-ad8c-72d4805ca21f)
+# [Facts of Greece](http://alexa.amazon.com/#skills/amzn1.ask.skill.314ab13d-8c80-40db-ad8c-72d4805ca21f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts of Greece skill, try saying...

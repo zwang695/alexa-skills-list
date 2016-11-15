@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Ski Hidden Valley (ON) icon" width="36"> [Snow Report for Ski Hidden Valley (ON)](http://alexa.amazon.com/#skills/amzn1.ask.skill.f9efecd0-689d-499b-acef-b87393dc8328)
+# [Snow Report for Ski Hidden Valley (ON)](http://alexa.amazon.com/#skills/amzn1.ask.skill.f9efecd0-689d-499b-acef-b87393dc8328)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Ski Hidden Valley (ON) skill, try saying...

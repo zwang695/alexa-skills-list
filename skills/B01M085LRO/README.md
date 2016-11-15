@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Have a laugh icon" width="36"> [Have a laugh](http://alexa.amazon.com/#skills/amzn1.ask.skill.dfc4f843-2a55-4886-9be3-633ea7ee8b3b)
+# [Have a laugh](http://alexa.amazon.com/#skills/amzn1.ask.skill.dfc4f843-2a55-4886-9be3-633ea7ee8b3b)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Have a laugh skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stepper for Fitbit icon" width="36"> [Stepper for Fitbit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cb4390b6-1c5a-4778-9520-631008f80c49)
+# [Stepper for Fitbit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cb4390b6-1c5a-4778-9520-631008f80c49)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Stepper for Fitbit skill, try saying...

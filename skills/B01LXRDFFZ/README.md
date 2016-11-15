@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fun Psychology Facts icon" width="36"> [Fun Psychology Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9f3ae604-fe79-4f04-9a7e-cf20db347710)
+# [Fun Psychology Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9f3ae604-fe79-4f04-9a7e-cf20db347710)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fun Psychology Facts skill, try saying...

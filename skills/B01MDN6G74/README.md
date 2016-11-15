@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Soccer Nerd icon" width="36"> [Soccer Nerd](http://alexa.amazon.com/#skills/amzn1.ask.skill.93ee8d18-80f9-4581-9cd4-20132aaeffe3)
+# [Soccer Nerd](http://alexa.amazon.com/#skills/amzn1.ask.skill.93ee8d18-80f9-4581-9cd4-20132aaeffe3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Soccer Nerd skill, try saying...

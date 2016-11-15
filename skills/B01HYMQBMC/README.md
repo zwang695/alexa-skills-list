@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="EyeTriviaGame icon" width="36"> [EyeTriviaGame](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.10da6a5c-8f7a-4c98-911d-ca3da30a2322)
+# [EyeTriviaGame](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.10da6a5c-8f7a-4c98-911d-ca3da30a2322)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the EyeTriviaGame skill, try saying...

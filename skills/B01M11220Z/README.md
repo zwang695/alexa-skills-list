@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Willys wagon and truck year identifier icon" width="36"> [Unofficial Willys wagon and truck year identifier](http://alexa.amazon.com/#skills/amzn1.ask.skill.df5d88b1-7cd2-4bd3-b522-00a3505c36b8)
+# [Unofficial Willys wagon and truck year identifier](http://alexa.amazon.com/#skills/amzn1.ask.skill.df5d88b1-7cd2-4bd3-b522-00a3505c36b8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Willys wagon and truck year identifier skill, try saying...

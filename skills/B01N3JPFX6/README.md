@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Le Massif icon" width="36"> [Snow Report for Le Massif](http://alexa.amazon.com/#skills/amzn1.ask.skill.207b8849-d3ef-47da-a555-85dc7c4ffb5a)
+# [Snow Report for Le Massif](http://alexa.amazon.com/#skills/amzn1.ask.skill.207b8849-d3ef-47da-a555-85dc7c4ffb5a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Le Massif skill, try saying...

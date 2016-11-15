@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Seven Springs icon" width="36"> [Snow Report for Seven Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.2a418c16-9d05-445f-8cec-b86f8f6be1d8)
+# [Snow Report for Seven Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.2a418c16-9d05-445f-8cec-b86f8f6be1d8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Seven Springs skill, try saying...

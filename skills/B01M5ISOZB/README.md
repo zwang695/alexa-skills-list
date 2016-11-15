@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Oblique Strategies icon" width="36"> [Oblique Strategies](http://alexa.amazon.com/#skills/amzn1.ask.skill.fb698def-a648-4b4b-9168-40b9db152f86)
+# [Oblique Strategies](http://alexa.amazon.com/#skills/amzn1.ask.skill.fb698def-a648-4b4b-9168-40b9db152f86)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Oblique Strategies skill, try saying...

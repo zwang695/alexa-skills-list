@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sensibo Smart Air Conditioner icon" width="36"> [Sensibo Smart Air Conditioner](http://alexa.amazon.com/#skills/amzn1.ask.skill.3ffc4acd-a82d-4ee4-8d3c-6d12aaec33ac)
+# [Sensibo Smart Air Conditioner](http://alexa.amazon.com/#skills/amzn1.ask.skill.3ffc4acd-a82d-4ee4-8d3c-6d12aaec33ac)
 ![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 Control your Sensibo enabled air conditioner with Amazon Echo. You will need a Sensibo pod or a Sensibo enabled air conditioner.

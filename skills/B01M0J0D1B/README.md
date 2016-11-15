@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="LeBron Facts by J9stuart icon" width="36"> [LeBron Facts by J9stuart](http://alexa.amazon.com/#skills/amzn1.ask.skill.fd9671c7-4451-4ea6-abab-14206e86abae)
+# [LeBron Facts by J9stuart](http://alexa.amazon.com/#skills/amzn1.ask.skill.fd9671c7-4451-4ea6-abab-14206e86abae)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the LeBron Facts by J9stuart skill, try saying...

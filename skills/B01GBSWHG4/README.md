@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Llama Facts icon" width="36"> [Llama Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8357239-e30c-4950-8b49-ef8e6ffe00a6)
+# [Llama Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8357239-e30c-4950-8b49-ef8e6ffe00a6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Llama Facts skill, try saying...

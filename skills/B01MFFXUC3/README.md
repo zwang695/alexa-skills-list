@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dateline Quiz icon" width="36"> [Dateline Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.5bb6c047-90e2-45dd-b4ba-7f5ae1dd5d65)
+# [Dateline Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.5bb6c047-90e2-45dd-b4ba-7f5ae1dd5d65)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dateline Quiz skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Camping Trivia icon" width="36"> [Camping Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f403eff7-27d6-4ce5-a1cc-c569a18840ce)
+# [Camping Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f403eff7-27d6-4ce5-a1cc-c569a18840ce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Camping Trivia skill, try saying...

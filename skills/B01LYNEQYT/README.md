@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Resistor Assistant icon" width="36"> [Resistor Assistant](http://alexa.amazon.com/#skills/amzn1.ask.skill.b9dfb5cb-1a3a-42b8-90ac-78b16f165df2)
+# [Resistor Assistant](http://alexa.amazon.com/#skills/amzn1.ask.skill.b9dfb5cb-1a3a-42b8-90ac-78b16f165df2)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Resistor Assistant skill, try saying...

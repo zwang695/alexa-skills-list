@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nature Quiz icon" width="36"> [Nature Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.bdd88884-6ceb-4dbe-9fff-a6081b55d081)
+# [Nature Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.bdd88884-6ceb-4dbe-9fff-a6081b55d081)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Nature Quiz skill, try saying...

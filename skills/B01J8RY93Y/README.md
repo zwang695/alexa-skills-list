@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="American History Master icon" width="36"> [American History Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.478840e9-d043-45d6-9e0d-bafc55901b61)
+# [American History Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.478840e9-d043-45d6-9e0d-bafc55901b61)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the American History Master skill, try saying...

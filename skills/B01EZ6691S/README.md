@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Austin School Lunches icon" width="36"> [Austin School Lunches](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2072e620-df86-49b5-ae23-c7e0581f431b)
+# [Austin School Lunches](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2072e620-df86-49b5-ae23-c7e0581f431b)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Austin School Lunches skill, try saying...

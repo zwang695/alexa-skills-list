@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="OEIS-Skill icon" width="36"> [OEIS-Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7b636bb6-9c90-435e-932f-a6d1d12c2e58)
+# [OEIS-Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7b636bb6-9c90-435e-932f-a6d1d12c2e58)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the OEIS-Skill skill, try saying...

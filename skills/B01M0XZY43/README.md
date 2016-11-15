@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wine Recommender icon" width="36"> [Wine Recommender](http://alexa.amazon.com/#skills/amzn1.ask.skill.91ec4f47-ec90-42e5-b807-38eeca25cab0)
+# [Wine Recommender](http://alexa.amazon.com/#skills/amzn1.ask.skill.91ec4f47-ec90-42e5-b807-38eeca25cab0)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Wine Recommender skill, try saying...

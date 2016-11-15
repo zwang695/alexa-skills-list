@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Comp Sci Interview Facts icon" width="36"> [Comp Sci Interview Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9dde0318-dd46-4264-9607-50193f2942b5)
+# [Comp Sci Interview Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9dde0318-dd46-4264-9607-50193f2942b5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Comp Sci Interview Facts skill, try saying...

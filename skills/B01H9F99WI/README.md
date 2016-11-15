@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ConeyIslandGal icon" width="36"> [ConeyIslandGal](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.54e20612-f58e-48dd-95dd-653353657490)
+# [ConeyIslandGal](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.54e20612-f58e-48dd-95dd-653353657490)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ConeyIslandGal skill, try saying...

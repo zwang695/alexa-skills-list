@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Spacegeek02 icon" width="36"> [Spacegeek02](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6430cd6f-7715-4014-97f1-e030e81a5a56)
+# [Spacegeek02](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6430cd6f-7715-4014-97f1-e030e81a5a56)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Spacegeek02 skill, try saying...

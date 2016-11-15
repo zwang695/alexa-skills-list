@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HAM Radio Q Codes icon" width="36"> [HAM Radio Q Codes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f4ee558-e9b3-415b-878e-1f2cdb546206)
+# [HAM Radio Q Codes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f4ee558-e9b3-415b-878e-1f2cdb546206)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the HAM Radio Q Codes skill, try saying...

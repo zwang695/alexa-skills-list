@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Weight Check icon" width="36"> [Weight Check](http://alexa.amazon.com/#skills/amzn1.ask.skill.c846a8ee-635f-48f6-8b96-2de669889dac)
+# [Weight Check](http://alexa.amazon.com/#skills/amzn1.ask.skill.c846a8ee-635f-48f6-8b96-2de669889dac)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Weight Check skill, try saying...

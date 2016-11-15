@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Planting Time Zone 1 icon" width="36"> [Planting Time Zone 1](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1c682492-e3c8-42d6-b3f5-de2b3c336cc0)
+# [Planting Time Zone 1](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1c682492-e3c8-42d6-b3f5-de2b3c336cc0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Planting Time Zone 1 skill, try saying...

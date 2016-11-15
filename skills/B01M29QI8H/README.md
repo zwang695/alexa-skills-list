@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="First aid icon" width="36"> [First aid](http://alexa.amazon.com/#skills/amzn1.ask.skill.b36bf068-b2d4-4d2f-b3ef-f8bc1289147d)
+# [First aid](http://alexa.amazon.com/#skills/amzn1.ask.skill.b36bf068-b2d4-4d2f-b3ef-f8bc1289147d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the First aid skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Willamette Pass icon" width="36"> [Snow Report for Willamette Pass](http://alexa.amazon.com/#skills/amzn1.ask.skill.62e16395-da49-423d-89d6-1df2f261bd2b)
+# [Snow Report for Willamette Pass](http://alexa.amazon.com/#skills/amzn1.ask.skill.62e16395-da49-423d-89d6-1df2f261bd2b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Willamette Pass skill, try saying...

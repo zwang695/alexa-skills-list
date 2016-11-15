@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="suggest me a cocktail icon" width="36"> [suggest me a cocktail](http://alexa.amazon.com/#skills/amzn1.ask.skill.75ddb758-45e5-4462-81eb-f5d8dd68b50f)
+# [suggest me a cocktail](http://alexa.amazon.com/#skills/amzn1.ask.skill.75ddb758-45e5-4462-81eb-f5d8dd68b50f)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the suggest me a cocktail skill, try saying...

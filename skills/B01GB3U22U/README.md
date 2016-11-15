@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Best Time of Day to Workout Recommendation icon" width="36"> [Best Time of Day to Workout Recommendation](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.49ae8765-f94c-4bca-8dc3-1894a93b4f9c)
+# [Best Time of Day to Workout Recommendation](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.49ae8765-f94c-4bca-8dc3-1894a93b4f9c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Best Time of Day to Workout Recommendation skill, try saying...

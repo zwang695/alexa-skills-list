@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Indian Rocks Beach facts icon" width="36"> [Indian Rocks Beach facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b2b9ced0-795d-4c63-88ae-3aeee83ea57d)
+# [Indian Rocks Beach facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b2b9ced0-795d-4c63-88ae-3aeee83ea57d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Indian Rocks Beach facts skill, try saying...

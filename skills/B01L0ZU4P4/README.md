@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cloud Cards icon" width="36"> [Cloud Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.b34be065-b7f0-4dc5-87f2-14f98787f63c)
+# [Cloud Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.b34be065-b7f0-4dc5-87f2-14f98787f63c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cloud Cards skill, try saying...

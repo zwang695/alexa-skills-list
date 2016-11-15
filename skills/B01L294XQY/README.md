@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="joke me icon" width="36"> [joke me](http://alexa.amazon.com/#skills/amzn1.ask.skill.38adb754-d24d-4f7b-bd63-00665937aab6)
+# [joke me](http://alexa.amazon.com/#skills/amzn1.ask.skill.38adb754-d24d-4f7b-bd63-00665937aab6)
 ![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the joke me skill, try saying...

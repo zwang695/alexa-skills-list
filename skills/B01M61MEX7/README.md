@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bacon Facts icon" width="36"> [Bacon Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3efd367d-4342-44d7-8121-62daa7e6e832)
+# [Bacon Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.3efd367d-4342-44d7-8121-62daa7e6e832)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Bacon Facts skill, try saying...

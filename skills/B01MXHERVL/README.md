@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sassy Magic 8 icon" width="36"> [Sassy Magic 8](http://alexa.amazon.com/#skills/amzn1.ask.skill.6bcf15f9-c154-46e4-9860-1070c21a7e6c)
+# [Sassy Magic 8](http://alexa.amazon.com/#skills/amzn1.ask.skill.6bcf15f9-c154-46e4-9860-1070c21a7e6c)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Sassy Magic 8 skill, try saying...

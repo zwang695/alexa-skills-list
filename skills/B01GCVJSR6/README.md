@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Meditations icon" width="36"> [Daily Meditations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5ca039a5-25db-40d5-a402-d08c62b73be9)
+# [Daily Meditations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5ca039a5-25db-40d5-a402-d08c62b73be9)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Daily Meditations skill, try saying...

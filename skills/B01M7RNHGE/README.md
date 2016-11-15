@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Butterfly Facts icon" width="36"> [Butterfly Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2d7f7851-2ce1-4e07-8eeb-b7afe3c656a2)
+# [Butterfly Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2d7f7851-2ce1-4e07-8eeb-b7afe3c656a2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Butterfly Facts skill, try saying...

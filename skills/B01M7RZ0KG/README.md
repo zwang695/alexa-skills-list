@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mont Ripley icon" width="36"> [Snow Report for Mont Ripley](http://alexa.amazon.com/#skills/amzn1.ask.skill.a44b624b-f43c-48c4-813c-21ce3fe94431)
+# [Snow Report for Mont Ripley](http://alexa.amazon.com/#skills/amzn1.ask.skill.a44b624b-f43c-48c4-813c-21ce3fe94431)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mont Ripley skill, try saying...

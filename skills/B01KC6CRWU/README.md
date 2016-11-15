@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CloudTrivia icon" width="36"> [CloudTrivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.c35a6b0c-f9f4-4041-b5ce-651176d5dad4)
+# [CloudTrivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.c35a6b0c-f9f4-4041-b5ce-651176d5dad4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CloudTrivia skill, try saying...

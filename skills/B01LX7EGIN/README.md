@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Glad Recycler icon" width="36"> [Glad Recycler](http://alexa.amazon.com/#skills/amzn1.ask.skill.bf261af5-02db-4723-ac4e-6641f2edc0cd)
+# [Glad Recycler](http://alexa.amazon.com/#skills/amzn1.ask.skill.bf261af5-02db-4723-ac4e-6641f2edc0cd)
 ![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the Glad Recycler skill, try saying...

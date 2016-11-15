@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Eat Pray Get Well icon" width="36"> [Eat Pray Get Well](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9e3ed426-c66b-47cf-bea5-3a0cca070a06)
+# [Eat Pray Get Well](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9e3ed426-c66b-47cf-bea5-3a0cca070a06)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Eat Pray Get Well skill, try saying...

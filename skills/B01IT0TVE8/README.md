@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="famous quotes trivia icon" width="36"> [famous quotes trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.b7c7907b-ded3-4b4f-b3d3-f5ddab86b533)
+# [famous quotes trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.b7c7907b-ded3-4b4f-b3d3-f5ddab86b533)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the famous quotes trivia skill, try saying...

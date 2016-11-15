@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="golfwizard icon" width="36"> [golfwizard](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ac25924d-04a8-4d1d-9a7a-d512b6c4de10)
+# [golfwizard](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ac25924d-04a8-4d1d-9a7a-d512b6c4de10)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the golfwizard skill, try saying...

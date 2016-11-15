@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Horoscope icon" width="36"> [My Horoscope](http://alexa.amazon.com/#skills/amzn1.ask.skill.03e15d54-f607-4272-8936-3a45fc246918)
+# [My Horoscope](http://alexa.amazon.com/#skills/amzn1.ask.skill.03e15d54-f607-4272-8936-3a45fc246918)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the My Horoscope skill, try saying...

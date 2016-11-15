@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Narcos Facts icon" width="36"> [Unofficial Narcos Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c8fe6e18-cdea-45af-85cf-c00a93990833)
+# [Unofficial Narcos Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c8fe6e18-cdea-45af-85cf-c00a93990833)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Narcos Facts skill, try saying...

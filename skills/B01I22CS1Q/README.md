@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Theories Exam icon" width="36"> [Theories Exam](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.34563e20-d860-4cd6-8def-330479a645e0)
+# [Theories Exam](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.34563e20-d860-4cd6-8def-330479a645e0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Theories Exam skill, try saying...

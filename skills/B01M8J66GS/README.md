@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="St Andrews Facts icon" width="36"> [St Andrews Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a1c9b463-e978-4887-ba1a-b6c840ceb0a0)
+# [St Andrews Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a1c9b463-e978-4887-ba1a-b6c840ceb0a0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the St Andrews Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Ocean Facts icon" width="36"> [My Ocean Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.82e8322a-7efa-4d27-849d-c8d098470946)
+# [My Ocean Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.82e8322a-7efa-4d27-849d-c8d098470946)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the My Ocean Facts skill, try saying...

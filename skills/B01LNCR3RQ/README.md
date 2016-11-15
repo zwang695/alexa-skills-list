@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CPR icon" width="36"> [CPR](http://alexa.amazon.com/#skills/amzn1.ask.skill.8cd277ee-30de-4a98-a972-2bef8b3c7ddf)
+# [CPR](http://alexa.amazon.com/#skills/amzn1.ask.skill.8cd277ee-30de-4a98-a972-2bef8b3c7ddf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CPR skill, try saying...

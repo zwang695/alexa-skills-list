@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sloth Facts icon" width="36"> [Sloth Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8b2ac570-4e24-42b0-acd1-0ef6bf57fab3)
+# [Sloth Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8b2ac570-4e24-42b0-acd1-0ef6bf57fab3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sloth Facts skill, try saying...

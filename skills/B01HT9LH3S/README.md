@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ClearPass Info icon" width="36"> [ClearPass Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3705ba47-dc56-4fd8-b294-ef0191718663)
+# [ClearPass Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3705ba47-dc56-4fd8-b294-ef0191718663)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ClearPass Info skill, try saying...

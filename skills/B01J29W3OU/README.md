@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wales Facts icon" width="36"> [Wales Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.43e7da54-7852-44c1-b227-ae41a458dcbb)
+# [Wales Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.43e7da54-7852-44c1-b227-ae41a458dcbb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Wales Facts skill, try saying...

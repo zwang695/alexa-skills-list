@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Weird Movie icon" width="36"> [Weird Movie](http://alexa.amazon.com/#skills/amzn1.ask.skill.a8a7d8f5-e8cc-4872-bcc0-5795294bbf0c)
+# [Weird Movie](http://alexa.amazon.com/#skills/amzn1.ask.skill.a8a7d8f5-e8cc-4872-bcc0-5795294bbf0c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Weird Movie skill, try saying...

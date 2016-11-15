@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Silly Samba icon" width="36"> [Silly Samba](http://alexa.amazon.com/#skills/amzn1.ask.skill.57e1e386-ace9-4be2-aa0b-adefd0b1c427)
+# [Silly Samba](http://alexa.amazon.com/#skills/amzn1.ask.skill.57e1e386-ace9-4be2-aa0b-adefd0b1c427)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Silly Samba skill, try saying...

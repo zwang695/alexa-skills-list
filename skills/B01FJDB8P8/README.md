@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lets Divide icon" width="36"> [Lets Divide](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.63596161-9c5f-4086-ac3f-bb803c62928c)
+# [Lets Divide](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.63596161-9c5f-4086-ac3f-bb803c62928c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lets Divide skill, try saying...

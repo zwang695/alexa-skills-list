@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Quadrivia Vocabulary Quiz icon" width="36"> [Quadrivia Vocabulary Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7fe80e3b-6e69-47cf-8c98-44cf810a161a)
+# [Quadrivia Vocabulary Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7fe80e3b-6e69-47cf-8c98-44cf810a161a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Quadrivia Vocabulary Quiz skill, try saying...

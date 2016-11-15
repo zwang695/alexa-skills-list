@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="India Trivia Quiz icon" width="36"> [India Trivia Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.ce5f55f2-9366-4e60-a37f-b54086536122)
+# [India Trivia Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.ce5f55f2-9366-4e60-a37f-b54086536122)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the India Trivia Quiz skill, try saying...

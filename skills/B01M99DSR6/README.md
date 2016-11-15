@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Coding Fact icon" width="36"> [Coding Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.d48145a6-522f-4939-bb0e-5a3633ae4622)
+# [Coding Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.d48145a6-522f-4939-bb0e-5a3633ae4622)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Coding Fact skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="prayer Bible verses icon" width="36"> [prayer Bible verses](http://alexa.amazon.com/#skills/amzn1.ask.skill.215958a1-8c4d-4b19-8bb3-36572bb8d196)
+# [prayer Bible verses](http://alexa.amazon.com/#skills/amzn1.ask.skill.215958a1-8c4d-4b19-8bb3-36572bb8d196)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the prayer Bible verses skill, try saying...

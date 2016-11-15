@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fresh Digital Group icon" width="36"> [Fresh Digital Group](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2ef5747-554a-4039-b497-fc631ae3f523)
+# [Fresh Digital Group](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2ef5747-554a-4039-b497-fc631ae3f523)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fresh Digital Group skill, try saying...

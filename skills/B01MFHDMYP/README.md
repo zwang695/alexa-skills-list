@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Crack icon" width="36"> [Trivia Crack](http://alexa.amazon.com/#skills/amzn1.ask.skill.93562f51-9f7c-4831-ad3d-8156bf87e2e3)
+# [Trivia Crack](http://alexa.amazon.com/#skills/amzn1.ask.skill.93562f51-9f7c-4831-ad3d-8156bf87e2e3)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Trivia Crack skill, try saying...

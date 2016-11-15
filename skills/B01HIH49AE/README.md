@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="PoliticalGeek icon" width="36"> [PoliticalGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec7c178b-b1b7-43a4-b488-1c9cb3db2c46)
+# [PoliticalGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec7c178b-b1b7-43a4-b488-1c9cb3db2c46)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the PoliticalGeek skill, try saying...

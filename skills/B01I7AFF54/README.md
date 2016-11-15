@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Caper Trivia icon" width="36"> [Caper Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e650e936-cb2e-4e9c-b35e-53294d2f0639)
+# [Caper Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e650e936-cb2e-4e9c-b35e-53294d2f0639)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Caper Trivia skill, try saying...

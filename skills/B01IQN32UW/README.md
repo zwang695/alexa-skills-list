@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="State Cities icon" width="36"> [State Cities](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a60f198-9495-4d12-9b6b-1071153ffaea)
+# [State Cities](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a60f198-9495-4d12-9b6b-1071153ffaea)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the State Cities skill, try saying...

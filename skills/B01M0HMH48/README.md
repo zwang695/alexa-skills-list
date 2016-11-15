@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Yvonne Trivia Games icon" width="36"> [Yvonne Trivia Games](http://alexa.amazon.com/#skills/amzn1.ask.skill.5bd5d294-ce53-4dbd-827f-0975b0b3b494)
+# [Yvonne Trivia Games](http://alexa.amazon.com/#skills/amzn1.ask.skill.5bd5d294-ce53-4dbd-827f-0975b0b3b494)
 ![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Yvonne Trivia Games skill, try saying...

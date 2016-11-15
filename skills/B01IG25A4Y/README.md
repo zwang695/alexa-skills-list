@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="State Flash Cards icon" width="36"> [State Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f7c127b1-7f79-41b8-a17b-1c6eeb7c2960)
+# [State Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f7c127b1-7f79-41b8-a17b-1c6eeb7c2960)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the State Flash Cards skill, try saying...

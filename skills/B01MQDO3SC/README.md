@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mount Snow icon" width="36"> [Snow Report for Mount Snow](http://alexa.amazon.com/#skills/amzn1.ask.skill.9c1608b0-46c2-4216-85ef-d0a9ad40ba2a)
+# [Snow Report for Mount Snow](http://alexa.amazon.com/#skills/amzn1.ask.skill.9c1608b0-46c2-4216-85ef-d0a9ad40ba2a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mount Snow skill, try saying...

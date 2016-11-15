@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Benchmark WOD by WIKIWOD icon" width="36"> [Benchmark WOD by WIKIWOD](http://alexa.amazon.com/#skills/amzn1.ask.skill.fccdaf99-2ab6-4f6b-85f0-a1aedf2d9d1f)
+# [Benchmark WOD by WIKIWOD](http://alexa.amazon.com/#skills/amzn1.ask.skill.fccdaf99-2ab6-4f6b-85f0-a1aedf2d9d1f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Benchmark WOD by WIKIWOD skill, try saying...

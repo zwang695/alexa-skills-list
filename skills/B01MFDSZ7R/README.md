@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Corporate B.S. Generator icon" width="36"> [Corporate B.S. Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.7a645bd7-f7ce-4676-90fe-f551e5d3fc1d)
+# [Corporate B.S. Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.7a645bd7-f7ce-4676-90fe-f551e5d3fc1d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Corporate B.S. Generator skill, try saying...

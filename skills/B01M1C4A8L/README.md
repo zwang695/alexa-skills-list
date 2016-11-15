@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Keystone Resort icon" width="36"> [Snow Report for Keystone Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b0f91eb-1f8b-4a96-aa83-1aac6241a703)
+# [Snow Report for Keystone Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b0f91eb-1f8b-4a96-aa83-1aac6241a703)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Keystone Resort skill, try saying...

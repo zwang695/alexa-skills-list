@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Indonesian Facts icon" width="36"> [Indonesian Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.687cd562-f85c-4123-8283-10f0a2a28df2)
+# [Indonesian Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.687cd562-f85c-4123-8283-10f0a2a28df2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Indonesian Facts skill, try saying...

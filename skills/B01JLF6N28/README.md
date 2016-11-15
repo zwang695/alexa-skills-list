@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ChemicalNames flashcards icon" width="36"> [ChemicalNames flashcards](http://alexa.amazon.com/#skills/amzn1.ask.skill.910beaec-6f73-469a-8510-fbfb3ab6cd4d)
+# [ChemicalNames flashcards](http://alexa.amazon.com/#skills/amzn1.ask.skill.910beaec-6f73-469a-8510-fbfb3ab6cd4d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ChemicalNames flashcards skill, try saying...

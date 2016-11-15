@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Fact Sphere icon" width="36"> [Unofficial Fact Sphere](http://alexa.amazon.com/#skills/amzn1.ask.skill.019e03ec-4535-40fa-82cf-bd56f8c12c53)
+# [Unofficial Fact Sphere](http://alexa.amazon.com/#skills/amzn1.ask.skill.019e03ec-4535-40fa-82cf-bd56f8c12c53)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Fact Sphere skill, try saying...

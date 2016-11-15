@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Booze Trivia icon" width="36"> [Booze Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dfce44e1-0dd5-4a5e-84be-2e5d2e3b9b1a)
+# [Booze Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dfce44e1-0dd5-4a5e-84be-2e5d2e3b9b1a)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Booze Trivia skill, try saying...

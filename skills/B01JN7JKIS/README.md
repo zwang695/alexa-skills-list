@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Should I Ride icon" width="36"> [Should I Ride](http://alexa.amazon.com/#skills/amzn1.ask.skill.388673d3-63e6-4f69-b230-916e45490353)
+# [Should I Ride](http://alexa.amazon.com/#skills/amzn1.ask.skill.388673d3-63e6-4f69-b230-916e45490353)
 ![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Should I Ride skill, try saying...

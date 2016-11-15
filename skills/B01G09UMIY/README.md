@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Travel Tips icon" width="36"> [Travel Tips](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d3a54fc8-fdc0-4830-acf7-bddd417357f7)
+# [Travel Tips](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d3a54fc8-fdc0-4830-acf7-bddd417357f7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Travel Tips skill, try saying...

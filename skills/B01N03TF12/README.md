@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Christmas Checker icon" width="36"> [Christmas Checker](http://alexa.amazon.com/#skills/amzn1.ask.skill.f08a6f54-eeb1-4a1e-a049-6073056b7794)
+# [Christmas Checker](http://alexa.amazon.com/#skills/amzn1.ask.skill.f08a6f54-eeb1-4a1e-a049-6073056b7794)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Christmas Checker skill, try saying...

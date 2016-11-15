@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DailyAdvice icon" width="36"> [DailyAdvice](http://alexa.amazon.com/#skills/amzn1.ask.skill.f4da5aee-ab9d-4554-ba03-fbccfe7563b0)
+# [DailyAdvice](http://alexa.amazon.com/#skills/amzn1.ask.skill.f4da5aee-ab9d-4554-ba03-fbccfe7563b0)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the DailyAdvice skill, try saying...

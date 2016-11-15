@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fast Facts icon" width="36"> [Fast Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.af1c0272-d1b9-4f0a-a862-74a286eb54f4)
+# [Fast Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.af1c0272-d1b9-4f0a-a862-74a286eb54f4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fast Facts skill, try saying...

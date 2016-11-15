@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Hidden Valley icon" width="36"> [Snow Report for Hidden Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee49792d-3581-4b3f-b512-8502a1d6daab)
+# [Snow Report for Hidden Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee49792d-3581-4b3f-b512-8502a1d6daab)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Hidden Valley skill, try saying...

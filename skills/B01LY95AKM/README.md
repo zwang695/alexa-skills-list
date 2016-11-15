@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="hurricane facts icon" width="36"> [hurricane facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.34842265-6510-4fdf-b5eb-a1a393988663)
+# [hurricane facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.34842265-6510-4fdf-b5eb-a1a393988663)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the hurricane facts skill, try saying...

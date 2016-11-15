@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="United States Flag Status Skill icon" width="36"> [United States Flag Status Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.b23afce8-1ea5-4461-99b5-1dd9bfdc63d7)
+# [United States Flag Status Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.b23afce8-1ea5-4461-99b5-1dd9bfdc63d7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the United States Flag Status Skill skill, try saying...

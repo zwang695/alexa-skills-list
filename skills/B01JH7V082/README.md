@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dwelo icon" width="36"> [Dwelo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2b3bd9e2-8b28-4ef5-8ddc-4f7af6c83f4f)
+# [Dwelo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2b3bd9e2-8b28-4ef5-8ddc-4f7af6c83f4f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dwelo skill, try saying...

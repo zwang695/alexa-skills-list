@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Planting Time icon" width="36"> [Planting Time](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.38ad3061-ef04-4a19-8f8e-4968b424d24a)
+# [Planting Time](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.38ad3061-ef04-4a19-8f8e-4968b424d24a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Planting Time skill, try saying...

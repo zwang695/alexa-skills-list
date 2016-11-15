@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Game Geek icon" width="36"> [Game Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.89580cc5-b617-4db9-b180-0d141100eec4)
+# [Game Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.89580cc5-b617-4db9-b180-0d141100eec4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Game Geek skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Promptly icon" width="36"> [Promptly](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.be7fd8db-c74b-4daf-94ba-34ef03977529)
+# [Promptly](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.be7fd8db-c74b-4daf-94ba-34ef03977529)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Promptly skill, try saying...

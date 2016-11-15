@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Repeat me icon" width="36"> [Repeat me](http://alexa.amazon.com/#skills/amzn1.ask.skill.9ec366aa-9105-4626-915c-5992efdcd804)
+# [Repeat me](http://alexa.amazon.com/#skills/amzn1.ask.skill.9ec366aa-9105-4626-915c-5992efdcd804)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Repeat me skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Egg Facts icon" width="36"> [Egg Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee135261-a19a-4f45-8a83-876079831b04)
+# [Egg Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ee135261-a19a-4f45-8a83-876079831b04)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Egg Facts skill, try saying...

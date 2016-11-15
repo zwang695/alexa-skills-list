@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Baldy Mountain icon" width="36"> [Snow Report for Baldy Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd63d1c2-ff63-4655-930b-08019aa1387c)
+# [Snow Report for Baldy Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd63d1c2-ff63-4655-930b-08019aa1387c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Baldy Mountain skill, try saying...

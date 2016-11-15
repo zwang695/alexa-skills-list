@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Mandy Chan](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a91dc6e-2191-4d07-a297-8a33bd50ab56)
+# [Mandy Chan](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a91dc6e-2191-4d07-a297-8a33bd50ab56)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

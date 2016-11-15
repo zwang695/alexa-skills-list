@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Anthony Relle](http://alexa.amazon.com/#skills/amzn1.ask.skill.25ed1da4-5a8f-4f95-a82a-4d9c099d17bf)
+# [Anthony Relle](http://alexa.amazon.com/#skills/amzn1.ask.skill.25ed1da4-5a8f-4f95-a82a-4d9c099d17bf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

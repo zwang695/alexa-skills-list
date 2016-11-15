@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Challenge for fans of the Band (Unofficial) icon" width="36"> [Trivia Challenge for fans of the Band (Unofficial)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eaea0d18-8c10-4cc0-b5ec-31134949ee0b)
+# [Trivia Challenge for fans of the Band (Unofficial)](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eaea0d18-8c10-4cc0-b5ec-31134949ee0b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia Challenge for fans of the Band (Unofficial) skill, try saying...

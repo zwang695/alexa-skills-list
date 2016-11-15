@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Aggie Facts icon" width="36"> [Aggie Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.781950e1-2e7d-4370-b923-eae0751996ac)
+# [Aggie Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.781950e1-2e7d-4370-b923-eae0751996ac)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Aggie Facts skill, try saying...

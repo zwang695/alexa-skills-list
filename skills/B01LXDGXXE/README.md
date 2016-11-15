@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial TLC New Driver Application Status icon" width="36"> [Unofficial TLC New Driver Application Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.81a35920-b4bd-46d0-823a-bcac247f07ed)
+# [Unofficial TLC New Driver Application Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.81a35920-b4bd-46d0-823a-bcac247f07ed)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial TLC New Driver Application Status skill, try saying...

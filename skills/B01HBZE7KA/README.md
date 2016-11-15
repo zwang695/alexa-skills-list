@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Oscar Wilde Quotes icon" width="36"> [Oscar Wilde Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d5e5b7db-e639-4c8d-b453-1dc8654b9a2e)
+# [Oscar Wilde Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d5e5b7db-e639-4c8d-b453-1dc8654b9a2e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Oscar Wilde Quotes skill, try saying...

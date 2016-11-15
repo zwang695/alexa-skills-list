@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Oscar Wylde icon" width="36"> [Oscar Wylde](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2fc6cec1-19af-44c9-a76d-9b634172395a)
+# [Oscar Wylde](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2fc6cec1-19af-44c9-a76d-9b634172395a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Oscar Wylde skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Comedy Dog icon" width="36"> [Comedy Dog](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c3b1bf7a-0cc9-42b4-87da-1523412aaadd)
+# [Comedy Dog](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c3b1bf7a-0cc9-42b4-87da-1523412aaadd)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Comedy Dog skill, try saying...

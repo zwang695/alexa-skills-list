@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Slice of Cheese](http://alexa.amazon.com/#skills/amzn1.ask.skill.1827d554-4880-4cd9-a0f6-fdb37cfd7f68)
+# [Slice of Cheese](http://alexa.amazon.com/#skills/amzn1.ask.skill.1827d554-4880-4cd9-a0f6-fdb37cfd7f68)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

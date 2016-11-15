@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="National parks icon" width="36"> [National parks](http://alexa.amazon.com/#skills/amzn1.ask.skill.324f8037-2986-4d12-9d79-84da39816229)
+# [National parks](http://alexa.amazon.com/#skills/amzn1.ask.skill.324f8037-2986-4d12-9d79-84da39816229)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the National parks skill, try saying...

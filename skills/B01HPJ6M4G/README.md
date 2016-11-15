@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Recycling Reminder icon" width="36"> [Recycling Reminder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d1ed2ebe-4bc5-4df2-bf57-5b0a741b91c8)
+# [Recycling Reminder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d1ed2ebe-4bc5-4df2-bf57-5b0a741b91c8)
 ![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the Recycling Reminder skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Ski Santa Fe icon" width="36"> [Snow Report for Ski Santa Fe](http://alexa.amazon.com/#skills/amzn1.ask.skill.79deabb9-64ed-41c5-8b4a-9e05bebefd9a)
+# [Snow Report for Ski Santa Fe](http://alexa.amazon.com/#skills/amzn1.ask.skill.79deabb9-64ed-41c5-8b4a-9e05bebefd9a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Ski Santa Fe skill, try saying...

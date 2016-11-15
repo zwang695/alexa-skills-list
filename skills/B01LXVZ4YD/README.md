@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Anime Shows icon" width="36"> [Anime Shows](http://alexa.amazon.com/#skills/amzn1.ask.skill.76e2b81c-f18f-4f2e-946c-004a2d62a042)
+# [Anime Shows](http://alexa.amazon.com/#skills/amzn1.ask.skill.76e2b81c-f18f-4f2e-946c-004a2d62a042)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Anime Shows skill, try saying...

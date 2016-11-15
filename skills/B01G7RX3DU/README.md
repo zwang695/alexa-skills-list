@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Reporter for the U.S Federal Government Debt icon" width="36"> [Reporter for the U.S Federal Government Debt](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2e240862-679e-457b-b510-d4e3fde45536)
+# [Reporter for the U.S Federal Government Debt](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2e240862-679e-457b-b510-d4e3fde45536)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Reporter for the U.S Federal Government Debt skill, try saying...

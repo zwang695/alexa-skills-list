@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bodhisattva icon" width="36"> [Bodhisattva](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2f3aca4-81cf-462c-83e6-8eac4843134e)
+# [Bodhisattva](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2f3aca4-81cf-462c-83e6-8eac4843134e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bodhisattva skill, try saying...

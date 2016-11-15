@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Truth or Dare Unrated icon" width="36"> [Truth or Dare Unrated](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cce37bbd-59dc-44a5-989e-815c2a40ad18)
+# [Truth or Dare Unrated](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cce37bbd-59dc-44a5-989e-815c2a40ad18)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Truth or Dare Unrated skill, try saying...

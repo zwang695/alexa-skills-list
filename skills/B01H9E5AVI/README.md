@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Code Geek icon" width="36"> [Code Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.87554b19-9ae7-4aec-a3c3-0c33062f2487)
+# [Code Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.87554b19-9ae7-4aec-a3c3-0c33062f2487)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Code Geek skill, try saying...

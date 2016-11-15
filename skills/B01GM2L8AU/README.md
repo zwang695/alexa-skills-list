@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dangerous Field icon" width="36"> [Dangerous Field](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f97d1a7-f019-43f9-9340-e5d13e06b90c)
+# [Dangerous Field](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f97d1a7-f019-43f9-9340-e5d13e06b90c)
 ![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Dangerous Field skill, try saying...

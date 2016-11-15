@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Muslim Guide icon" width="36"> [Muslim Guide](http://alexa.amazon.com/#skills/amzn1.ask.skill.73653f4f-1fd3-4701-9763-b2dcc3ca4774)
+# [Muslim Guide](http://alexa.amazon.com/#skills/amzn1.ask.skill.73653f4f-1fd3-4701-9763-b2dcc3ca4774)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Muslim Guide skill, try saying...

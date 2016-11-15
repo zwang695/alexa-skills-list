@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BART Times icon" width="36"> [BART Times](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.af852511-50bf-447f-a692-36a4b6314ab2)
+# [BART Times](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.af852511-50bf-447f-a692-36a4b6314ab2)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the BART Times skill, try saying...

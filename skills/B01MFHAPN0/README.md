@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for White Pine icon" width="36"> [Snow Report for White Pine](http://alexa.amazon.com/#skills/amzn1.ask.skill.b90f3d3a-d3d6-4e48-915b-8563f08bfe8b)
+# [Snow Report for White Pine](http://alexa.amazon.com/#skills/amzn1.ask.skill.b90f3d3a-d3d6-4e48-915b-8563f08bfe8b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for White Pine skill, try saying...

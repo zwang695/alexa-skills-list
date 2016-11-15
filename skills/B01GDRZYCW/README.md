@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Programming Language Summaries icon" width="36"> [Programming Language Summaries](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b7955806-56cf-47d0-9dc5-b7f4cf15332f)
+# [Programming Language Summaries](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b7955806-56cf-47d0-9dc5-b7f4cf15332f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Programming Language Summaries skill, try saying...

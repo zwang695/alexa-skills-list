@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Key Finder icon" width="36"> [Key Finder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a7cd8c09-3ea3-4d5a-ae6c-1e9fa99c056b)
+# [Key Finder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a7cd8c09-3ea3-4d5a-ae6c-1e9fa99c056b)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Key Finder skill, try saying...

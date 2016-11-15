@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Narendra Modi Facts icon" width="36"> [Narendra Modi Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a8490bcc-e3b3-4ef9-ac9b-0469feaceb4c)
+# [Narendra Modi Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a8490bcc-e3b3-4ef9-ac9b-0469feaceb4c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Narendra Modi Facts skill, try saying...

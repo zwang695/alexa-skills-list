@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial USF Bulls Trivia icon" width="36"> [Unofficial USF Bulls Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.0e40cfab-e26f-4cb1-8abd-781c298663ba)
+# [Unofficial USF Bulls Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.0e40cfab-e26f-4cb1-8abd-781c298663ba)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial USF Bulls Trivia skill, try saying...

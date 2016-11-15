@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computers Storified in Viking History by Floki icon" width="36"> [Computers Storified in Viking History by Floki](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6c0a7537-cf83-452d-9261-680138995511)
+# [Computers Storified in Viking History by Floki](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6c0a7537-cf83-452d-9261-680138995511)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Computers Storified in Viking History by Floki skill, try saying...

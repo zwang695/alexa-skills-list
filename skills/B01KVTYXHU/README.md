@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Neural Net Facts icon" width="36"> [Neural Net Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.152a67fb-f9da-4eaa-a581-07196d1d14c6)
+# [Neural Net Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.152a67fb-f9da-4eaa-a581-07196d1d14c6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Neural Net Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Tobias Domhan](http://alexa.amazon.com/#skills/amzn1.ask.skill.0cc485af-0e26-490f-a7be-8d0483953315)
+# [Tobias Domhan](http://alexa.amazon.com/#skills/amzn1.ask.skill.0cc485af-0e26-490f-a7be-8d0483953315)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Lee Canyon icon" width="36"> [Snow Report for Lee Canyon](http://alexa.amazon.com/#skills/amzn1.ask.skill.b72a4c39-7c7c-421e-a1f1-bd30e04cdcd4)
+# [Snow Report for Lee Canyon](http://alexa.amazon.com/#skills/amzn1.ask.skill.b72a4c39-7c7c-421e-a1f1-bd30e04cdcd4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Lee Canyon skill, try saying...

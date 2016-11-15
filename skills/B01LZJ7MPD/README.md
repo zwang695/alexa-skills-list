@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="snake facts icon" width="36"> [snake facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9da8f502-46d9-46dd-be4e-29c4644904c8)
+# [snake facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9da8f502-46d9-46dd-be4e-29c4644904c8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the snake facts skill, try saying...

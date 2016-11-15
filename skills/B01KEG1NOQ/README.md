@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="2000s Movie Quotes icon" width="36"> [2000s Movie Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.f89f0ac1-d51f-40b4-b128-4cf7db471f4b)
+# [2000s Movie Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.f89f0ac1-d51f-40b4-b128-4cf7db471f4b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the 2000s Movie Quotes skill, try saying...

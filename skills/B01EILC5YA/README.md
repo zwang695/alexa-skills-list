@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Celebration Bar Review icon" width="36"> [Celebration Bar Review](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.332e31cb-2dda-4af5-9a15-fc1b941db870)
+# [Celebration Bar Review](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.332e31cb-2dda-4af5-9a15-fc1b941db870)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Celebration Bar Review skill, try saying...

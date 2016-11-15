@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Famous CEOs Quiz icon" width="36"> [Famous CEOs Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.4cd22bef-0b4a-478b-942b-46736919a5c6)
+# [Famous CEOs Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.4cd22bef-0b4a-478b-942b-46736919a5c6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Famous CEOs Quiz skill, try saying...

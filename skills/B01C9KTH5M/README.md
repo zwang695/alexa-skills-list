@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Conductor icon" width="36"> [Conductor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5bf0893d-81e3-4477-9941-f5901359e740)
+# [Conductor](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5bf0893d-81e3-4477-9941-f5901359e740)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Conductor skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Labrador Mountain icon" width="36"> [Snow Report for Labrador Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.f5085396-a211-4b77-9ddf-8aa14540414e)
+# [Snow Report for Labrador Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.f5085396-a211-4b77-9ddf-8aa14540414e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Labrador Mountain skill, try saying...

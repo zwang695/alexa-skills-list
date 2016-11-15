@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Six Month Old Baby Facts icon" width="36"> [Six Month Old Baby Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1df439d3-b6aa-4ddc-8aa7-fa53c9ccd5a8)
+# [Six Month Old Baby Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1df439d3-b6aa-4ddc-8aa7-fa53c9ccd5a8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Six Month Old Baby Facts skill, try saying...

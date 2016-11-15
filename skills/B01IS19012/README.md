@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Sounders Facts icon" width="36"> [Unofficial Sounders Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a808d066-9333-4417-885c-db9a038dd460)
+# [Unofficial Sounders Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a808d066-9333-4417-885c-db9a038dd460)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Sounders Facts skill, try saying...

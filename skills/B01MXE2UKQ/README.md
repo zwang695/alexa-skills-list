@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HuntWise icon" width="36"> [HuntWise](http://alexa.amazon.com/#skills/amzn1.ask.skill.a9b18417-285c-413c-8e54-0a3c571e847f)
+# [HuntWise](http://alexa.amazon.com/#skills/amzn1.ask.skill.a9b18417-285c-413c-8e54-0a3c571e847f)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the HuntWise skill, try saying...

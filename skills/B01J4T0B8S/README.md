@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="State Nicknames icon" width="36"> [State Nicknames](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8557b6b0-a1b9-46b1-a0c9-ecde22ea5910)
+# [State Nicknames](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8557b6b0-a1b9-46b1-a0c9-ecde22ea5910)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the State Nicknames skill, try saying...

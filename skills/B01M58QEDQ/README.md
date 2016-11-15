@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CloudClock icon" width="36"> [CloudClock](http://alexa.amazon.com/#skills/amzn1.ask.skill.aeb99915-9cf1-49a6-b850-3df5433ecb1a)
+# [CloudClock](http://alexa.amazon.com/#skills/amzn1.ask.skill.aeb99915-9cf1-49a6-b850-3df5433ecb1a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CloudClock skill, try saying...

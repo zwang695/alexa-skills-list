@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="what to eat icon" width="36"> [what to eat](http://alexa.amazon.com/#skills/amzn1.ask.skill.40d7fa0d-2966-4632-9983-7fc506bd1d74)
+# [what to eat](http://alexa.amazon.com/#skills/amzn1.ask.skill.40d7fa0d-2966-4632-9983-7fc506bd1d74)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the what to eat skill, try saying...

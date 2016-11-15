@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cricket Facts icon" width="36"> [Cricket Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.95e17d27-2c1c-48ef-93f4-5357776b26c1)
+# [Cricket Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.95e17d27-2c1c-48ef-93f4-5357776b26c1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cricket Facts skill, try saying...

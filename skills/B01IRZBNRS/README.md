@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="english system icon" width="36"> [english system](http://alexa.amazon.com/#skills/amzn1.ask.skill.18ae1961-5de6-4ff2-aaa1-a0b3ac3b15d9)
+# [english system](http://alexa.amazon.com/#skills/amzn1.ask.skill.18ae1961-5de6-4ff2-aaa1-a0b3ac3b15d9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the english system skill, try saying...

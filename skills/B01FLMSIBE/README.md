@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Date Fact icon" width="36"> [Date Fact](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3ea089e3-f862-4a45-a381-4d040cd21a13)
+# [Date Fact](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3ea089e3-f862-4a45-a381-4d040cd21a13)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Date Fact skill, try saying...

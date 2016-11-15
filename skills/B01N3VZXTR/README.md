@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Sunburst Mountain icon" width="36"> [Snow Report for Sunburst Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e1588724-0cf7-475c-ac75-373b74ddfdc0)
+# [Snow Report for Sunburst Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e1588724-0cf7-475c-ac75-373b74ddfdc0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Sunburst Mountain skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mt Timothy icon" width="36"> [Snow Report for Mt Timothy](http://alexa.amazon.com/#skills/amzn1.ask.skill.7ea715b5-67e1-4efb-89da-158ff15ad179)
+# [Snow Report for Mt Timothy](http://alexa.amazon.com/#skills/amzn1.ask.skill.7ea715b5-67e1-4efb-89da-158ff15ad179)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mt Timothy skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Chinese Trivia icon" width="36"> [Unofficial Chinese Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.41aa6a35-66a6-48f4-8842-298ec57e30a3)
+# [Unofficial Chinese Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.41aa6a35-66a6-48f4-8842-298ec57e30a3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Chinese Trivia skill, try saying...

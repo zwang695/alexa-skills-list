@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Alabama Facts icon" width="36"> [Alabama Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.fc035689-e61b-42ce-a5d1-079dc2c0fba4)
+# [Alabama Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.fc035689-e61b-42ce-a5d1-079dc2c0fba4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Alabama Facts skill, try saying...

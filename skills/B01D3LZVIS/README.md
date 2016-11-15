@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Japan icon" width="36"> [Trivia Japan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.746bf685-8991-4872-954d-4c2561d87925)
+# [Trivia Japan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.746bf685-8991-4872-954d-4c2561d87925)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia Japan skill, try saying...

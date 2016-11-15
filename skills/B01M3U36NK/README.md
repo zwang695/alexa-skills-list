@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mount Hood Skibowl icon" width="36"> [Snow Report for Mount Hood Skibowl](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad2f0d8c-44bc-4408-8069-c46a06623a45)
+# [Snow Report for Mount Hood Skibowl](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad2f0d8c-44bc-4408-8069-c46a06623a45)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mount Hood Skibowl skill, try saying...

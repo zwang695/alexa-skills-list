@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Mail and The Mail on Sunday icon" width="36"> [Daily Mail and The Mail on Sunday](http://alexa.amazon.com/#skills/amzn1.ask.skill.d20841ce-cc68-4185-9b70-5d70c57c46b7)
+# [Daily Mail and The Mail on Sunday](http://alexa.amazon.com/#skills/amzn1.ask.skill.d20841ce-cc68-4185-9b70-5d70c57c46b7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Daily Mail and The Mail on Sunday skill, try saying...

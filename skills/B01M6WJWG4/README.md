@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="News Feed icon" width="36"> [News Feed](http://alexa.amazon.com/#skills/amzn1.ask.skill.26052e1b-6021-44a4-9d19-0cf18dd1fd8c)
+# [News Feed](http://alexa.amazon.com/#skills/amzn1.ask.skill.26052e1b-6021-44a4-9d19-0cf18dd1fd8c)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the News Feed skill, try saying...

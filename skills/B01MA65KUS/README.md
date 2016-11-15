@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Hanson Hills icon" width="36"> [Snow Report for Hanson Hills](http://alexa.amazon.com/#skills/amzn1.ask.skill.f455f89d-df01-4677-b11e-b7df79c0af5b)
+# [Snow Report for Hanson Hills](http://alexa.amazon.com/#skills/amzn1.ask.skill.f455f89d-df01-4677-b11e-b7df79c0af5b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Hanson Hills skill, try saying...

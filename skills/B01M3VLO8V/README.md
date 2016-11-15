@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sixers Fan icon" width="36"> [Sixers Fan](http://alexa.amazon.com/#skills/amzn1.ask.skill.1ba9a8c0-95c2-4282-9fd6-056bf8349073)
+# [Sixers Fan](http://alexa.amazon.com/#skills/amzn1.ask.skill.1ba9a8c0-95c2-4282-9fd6-056bf8349073)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sixers Fan skill, try saying...

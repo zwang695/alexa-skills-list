@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Which Hikes You Want icon" width="36"> [Which Hikes You Want](http://alexa.amazon.com/#skills/amzn1.ask.skill.f06d7d59-2321-4bf0-83b7-49c3c956d288)
+# [Which Hikes You Want](http://alexa.amazon.com/#skills/amzn1.ask.skill.f06d7d59-2321-4bf0-83b7-49c3c956d288)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Which Hikes You Want skill, try saying...

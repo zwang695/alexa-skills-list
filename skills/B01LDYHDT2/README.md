@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="math constants icon" width="36"> [math constants](http://alexa.amazon.com/#skills/amzn1.ask.skill.da045648-afd1-40f9-9921-1c21f28b299b)
+# [math constants](http://alexa.amazon.com/#skills/amzn1.ask.skill.da045648-afd1-40f9-9921-1c21f28b299b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the math constants skill, try saying...

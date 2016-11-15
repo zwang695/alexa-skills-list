@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Raspberry Pi GPIO Challenge icon" width="36"> [The Raspberry Pi GPIO Challenge](http://alexa.amazon.com/#skills/amzn1.ask.skill.1953c952-847d-43a4-9296-7e1433aa17e1)
+# [The Raspberry Pi GPIO Challenge](http://alexa.amazon.com/#skills/amzn1.ask.skill.1953c952-847d-43a4-9296-7e1433aa17e1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Raspberry Pi GPIO Challenge skill, try saying...

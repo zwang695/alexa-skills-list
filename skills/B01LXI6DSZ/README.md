@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sunflower Facts icon" width="36"> [Sunflower Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.11094c80-c32c-44a9-a313-a6039a1b70ae)
+# [Sunflower Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.11094c80-c32c-44a9-a313-a6039a1b70ae)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sunflower Facts skill, try saying...

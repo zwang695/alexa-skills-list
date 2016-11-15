@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Poke Description icon" width="36"> [Poke Description](http://alexa.amazon.com/#skills/amzn1.ask.skill.7473720e-ee14-4d3f-8db4-3b1f5e4a9bcb)
+# [Poke Description](http://alexa.amazon.com/#skills/amzn1.ask.skill.7473720e-ee14-4d3f-8db4-3b1f5e4a9bcb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Poke Description skill, try saying...

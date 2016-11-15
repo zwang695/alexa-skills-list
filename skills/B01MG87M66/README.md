@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wolverhampton Facts icon" width="36"> [Wolverhampton Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.79cfa565-c5c6-4f29-95bc-03e54fa2df2a)
+# [Wolverhampton Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.79cfa565-c5c6-4f29-95bc-03e54fa2df2a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Wolverhampton Facts skill, try saying...

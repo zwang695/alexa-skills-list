@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Short Tales icon" width="36"> [Short Tales](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d387b6dc-3372-41c3-aaad-aced3a751ca3)
+# [Short Tales](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d387b6dc-3372-41c3-aaad-aced3a751ca3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Short Tales skill, try saying...

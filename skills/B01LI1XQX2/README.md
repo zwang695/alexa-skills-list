@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Music Note Quiz icon" width="36"> [Music Note Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.0a6f7f63-f12c-4c73-bb7d-4773a4788599)
+# [Music Note Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.0a6f7f63-f12c-4c73-bb7d-4773a4788599)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Music Note Quiz skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [David Levente Dozsa](http://alexa.amazon.com/#skills/amzn1.ask.skill.8464d2a4-1e25-4c7a-b18c-3acd9eb9e6e1)
+# [David Levente Dozsa](http://alexa.amazon.com/#skills/amzn1.ask.skill.8464d2a4-1e25-4c7a-b18c-3acd9eb9e6e1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

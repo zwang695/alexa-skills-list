@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Capitals Of Europe icon" width="36"> [Capitals Of Europe](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.32c740cc-ab47-4224-a55e-0ed9c964aa89)
+# [Capitals Of Europe](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.32c740cc-ab47-4224-a55e-0ed9c964aa89)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Capitals Of Europe skill, try saying...

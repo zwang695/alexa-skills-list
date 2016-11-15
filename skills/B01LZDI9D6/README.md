@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Plant Facts icon" width="36"> [Plant Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b692e507-b681-4412-90c8-f78dab8e13c4)
+# [Plant Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b692e507-b681-4412-90c8-f78dab8e13c4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Plant Facts skill, try saying...

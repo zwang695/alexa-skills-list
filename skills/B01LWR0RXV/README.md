@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="John Adams Quotes icon" width="36"> [John Adams Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.ceefa219-96db-4efa-8f6f-26cb95adb9b4)
+# [John Adams Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.ceefa219-96db-4efa-8f6f-26cb95adb9b4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the John Adams Quotes skill, try saying...

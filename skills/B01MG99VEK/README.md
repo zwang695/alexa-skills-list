@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Ski Big Bear (PA) icon" width="36"> [Snow Report for Ski Big Bear (PA)](http://alexa.amazon.com/#skills/amzn1.ask.skill.1bdeffcf-556b-4b7c-8baf-4d2894ddec39)
+# [Snow Report for Ski Big Bear (PA)](http://alexa.amazon.com/#skills/amzn1.ask.skill.1bdeffcf-556b-4b7c-8baf-4d2894ddec39)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Ski Big Bear (PA) skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Downtown Lunch Randomizer icon" width="36"> [Downtown Lunch Randomizer](http://alexa.amazon.com/#skills/amzn1.ask.skill.6cb8a65f-153f-4b4d-8c04-9258598ff4f7)
+# [Downtown Lunch Randomizer](http://alexa.amazon.com/#skills/amzn1.ask.skill.6cb8a65f-153f-4b4d-8c04-9258598ff4f7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Downtown Lunch Randomizer skill, try saying...

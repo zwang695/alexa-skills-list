@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mill Ponds Association icon" width="36"> [Mill Ponds Association](http://alexa.amazon.com/#skills/amzn1.ask.skill.8705eb74-dd32-4ba4-b2ab-7935ad8c461e)
+# [Mill Ponds Association](http://alexa.amazon.com/#skills/amzn1.ask.skill.8705eb74-dd32-4ba4-b2ab-7935ad8c461e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mill Ponds Association skill, try saying...

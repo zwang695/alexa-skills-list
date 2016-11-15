@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Patriots Fan icon" width="36"> [Patriots Fan](http://alexa.amazon.com/#skills/amzn1.ask.skill.407c4af4-176f-43dc-b488-d00fa45000f8)
+# [Patriots Fan](http://alexa.amazon.com/#skills/amzn1.ask.skill.407c4af4-176f-43dc-b488-d00fa45000f8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Patriots Fan skill, try saying...

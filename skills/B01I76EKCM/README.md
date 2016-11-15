@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SpaceJokester icon" width="36"> [SpaceJokester](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3cc0663d-d797-4b07-86ac-818e02268cea)
+# [SpaceJokester](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3cc0663d-d797-4b07-86ac-818e02268cea)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the SpaceJokester skill, try saying...

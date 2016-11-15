@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="JUST EAT icon" width="36"> [JUST EAT](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4feae63f-1c65-4939-81bd-6315d12cac4c)
+# [JUST EAT](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4feae63f-1c65-4939-81bd-6315d12cac4c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the JUST EAT skill, try saying...

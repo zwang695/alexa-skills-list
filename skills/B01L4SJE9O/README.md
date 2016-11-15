@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Words of Motivation icon" width="36"> [Words of Motivation](http://alexa.amazon.com/#skills/amzn1.ask.skill.f183916a-de30-46a1-9749-fec9427af800)
+# [Words of Motivation](http://alexa.amazon.com/#skills/amzn1.ask.skill.f183916a-de30-46a1-9749-fec9427af800)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Words of Motivation skill, try saying...

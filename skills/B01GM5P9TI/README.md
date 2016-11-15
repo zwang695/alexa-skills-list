@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Basic Statistics Terms icon" width="36"> [Basic Statistics Terms](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7517fbd6-de74-4d0c-8aa1-bc3c1af215a8)
+# [Basic Statistics Terms](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7517fbd6-de74-4d0c-8aa1-bc3c1af215a8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Basic Statistics Terms skill, try saying...

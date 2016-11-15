@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mobile Expert icon" width="36"> [Mobile Expert](http://alexa.amazon.com/#skills/amzn1.ask.skill.f5a93c0c-0070-430a-898c-b17734ed29cc)
+# [Mobile Expert](http://alexa.amazon.com/#skills/amzn1.ask.skill.f5a93c0c-0070-430a-898c-b17734ed29cc)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Mobile Expert skill, try saying...

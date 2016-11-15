@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Destiny Public Events icon" width="36"> [Destiny Public Events](http://alexa.amazon.com/#skills/amzn1.ask.skill.ffcb291c-5d2a-4183-bf9f-94aae636f5a4)
+# [Destiny Public Events](http://alexa.amazon.com/#skills/amzn1.ask.skill.ffcb291c-5d2a-4183-bf9f-94aae636f5a4)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 5
 
 To use the Destiny Public Events skill, try saying...

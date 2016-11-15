@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Angular Trivia icon" width="36"> [Angular Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.913faff0-7bb4-426a-860d-6b0f78784410)
+# [Angular Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.913faff0-7bb4-426a-860d-6b0f78784410)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Angular Trivia skill, try saying...

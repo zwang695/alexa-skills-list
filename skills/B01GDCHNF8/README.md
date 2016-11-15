@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="programmingGeek icon" width="36"> [programmingGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ca99492a-233c-4f19-b988-37fedefef161)
+# [programmingGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ca99492a-233c-4f19-b988-37fedefef161)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the programmingGeek skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="photography history buff icon" width="36"> [photography history buff](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb767b8e-6d96-44d7-a68c-aba3efea258e)
+# [photography history buff](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb767b8e-6d96-44d7-a68c-aba3efea258e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the photography history buff skill, try saying...

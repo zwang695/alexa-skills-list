@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Game of Galaxy icon" width="36"> [Game of Galaxy](http://alexa.amazon.com/#skills/amzn1.ask.skill.d12a4489-e66d-4ca9-8059-94f3153dde6b)
+# [Game of Galaxy](http://alexa.amazon.com/#skills/amzn1.ask.skill.d12a4489-e66d-4ca9-8059-94f3153dde6b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Game of Galaxy skill, try saying...

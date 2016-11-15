@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="my airplane facts icon" width="36"> [my airplane facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.66119dad-2e54-4107-9d61-50354c50df70)
+# [my airplane facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.66119dad-2e54-4107-9d61-50354c50df70)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the my airplane facts skill, try saying...

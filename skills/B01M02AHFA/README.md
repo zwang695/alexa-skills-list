@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Arbonne My Office icon" width="36"> [Arbonne My Office](http://alexa.amazon.com/#skills/amzn1.ask.skill.059b4ade-615a-497e-b0eb-a80d382c0f08)
+# [Arbonne My Office](http://alexa.amazon.com/#skills/amzn1.ask.skill.059b4ade-615a-497e-b0eb-a80d382c0f08)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
 
 To use the Arbonne My Office skill, try saying...

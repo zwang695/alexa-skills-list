@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Chicopee Ski Resort icon" width="36"> [Snow Report for Chicopee Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.33cb0036-08b5-4676-b4fb-06cfe51b6af4)
+# [Snow Report for Chicopee Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.33cb0036-08b5-4676-b4fb-06cfe51b6af4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Chicopee Ski Resort skill, try saying...

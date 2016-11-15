@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trending Searches icon" width="36"> [Trending Searches](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.289e0d4c-8605-4d14-9db1-5a8c4784fe1e)
+# [Trending Searches](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.289e0d4c-8605-4d14-9db1-5a8c4784fe1e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trending Searches skill, try saying...

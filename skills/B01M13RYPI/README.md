@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Harley Facts icon" width="36"> [Unofficial Harley Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.93f84752-a1bb-41fe-a403-11d4dd349ab6)
+# [Unofficial Harley Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.93f84752-a1bb-41fe-a403-11d4dd349ab6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Harley Facts skill, try saying...

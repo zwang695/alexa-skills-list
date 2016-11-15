@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stats Calculator icon" width="36"> [Stats Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.933bc225-337e-497c-be04-36d50994242b)
+# [Stats Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.933bc225-337e-497c-be04-36d50994242b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Stats Calculator skill, try saying...

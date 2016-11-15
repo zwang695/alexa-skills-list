@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Baker Mountain icon" width="36"> [Snow Report for Baker Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.03fb372f-5be2-4a1f-8400-da30f42ee4fa)
+# [Snow Report for Baker Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.03fb372f-5be2-4a1f-8400-da30f42ee4fa)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Baker Mountain skill, try saying...

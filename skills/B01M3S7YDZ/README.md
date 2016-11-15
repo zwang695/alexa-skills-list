@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Powder Ridge icon" width="36"> [Snow Report for Powder Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.6dfad044-092e-4f6a-a04f-4c37c2773384)
+# [Snow Report for Powder Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.6dfad044-092e-4f6a-a04f-4c37c2773384)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Powder Ridge skill, try saying...

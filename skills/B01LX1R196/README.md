@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Who was born today icon" width="36"> [Who was born today](http://alexa.amazon.com/#skills/amzn1.ask.skill.042fc281-f5a2-4525-bd95-f28c48988e87)
+# [Who was born today](http://alexa.amazon.com/#skills/amzn1.ask.skill.042fc281-f5a2-4525-bd95-f28c48988e87)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Who was born today skill, try saying...

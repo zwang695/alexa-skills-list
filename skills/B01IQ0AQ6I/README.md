@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Midas Gold icon" width="36"> [Midas Gold](http://alexa.amazon.com/#skills/amzn1.ask.skill.49e58c75-184f-4e37-b4c8-aadcc77651dc)
+# [Midas Gold](http://alexa.amazon.com/#skills/amzn1.ask.skill.49e58c75-184f-4e37-b4c8-aadcc77651dc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Midas Gold skill, try saying...

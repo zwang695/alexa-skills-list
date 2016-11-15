@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wizard Harry icon" width="36"> [Wizard Harry](http://alexa.amazon.com/#skills/amzn1.ask.skill.fb361b6e-6297-4ca8-b4f5-b59f266fa68f)
+# [Wizard Harry](http://alexa.amazon.com/#skills/amzn1.ask.skill.fb361b6e-6297-4ca8-b4f5-b59f266fa68f)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Wizard Harry skill, try saying...

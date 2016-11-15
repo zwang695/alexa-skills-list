@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sherlock Facts icon" width="36"> [Sherlock Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.20b6fea3-de46-4e91-91b8-8227259346cc)
+# [Sherlock Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.20b6fea3-de46-4e91-91b8-8227259346cc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sherlock Facts skill, try saying...

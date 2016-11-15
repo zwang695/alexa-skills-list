@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Perfect Pitch icon" width="36"> [Perfect Pitch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.aafc2f6e-acf6-4ef3-8a88-177e3b823347)
+# [Perfect Pitch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.aafc2f6e-acf6-4ef3-8a88-177e3b823347)
 ![1.9 stars](../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png) 15
 
 To use the Perfect Pitch skill, try saying...

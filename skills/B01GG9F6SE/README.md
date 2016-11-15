@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Binary Converter icon" width="36"> [Binary Converter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7df89789-e870-4792-951c-9bc1b98643bb)
+# [Binary Converter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7df89789-e870-4792-951c-9bc1b98643bb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Binary Converter skill, try saying...

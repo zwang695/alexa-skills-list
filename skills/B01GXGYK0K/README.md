@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="70s Music Quiz icon" width="36"> [70s Music Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.124bfe2e-bcc7-469c-b3e3-5989ba5fcc3f)
+# [70s Music Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.124bfe2e-bcc7-469c-b3e3-5989ba5fcc3f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the 70s Music Quiz skill, try saying...

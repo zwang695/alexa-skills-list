@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Diwali: Festival of Lights icon" width="36"> [Diwali: Festival of Lights](http://alexa.amazon.com/#skills/amzn1.ask.skill.1024ac06-fab8-4f5d-85be-bf0a4281b834)
+# [Diwali: Festival of Lights](http://alexa.amazon.com/#skills/amzn1.ask.skill.1024ac06-fab8-4f5d-85be-bf0a4281b834)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Diwali: Festival of Lights skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Blackjack Ski Resort icon" width="36"> [Snow Report for Blackjack Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.3c9b40a3-1316-4d2f-9547-520e08d1c0b8)
+# [Snow Report for Blackjack Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.3c9b40a3-1316-4d2f-9547-520e08d1c0b8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Blackjack Ski Resort skill, try saying...

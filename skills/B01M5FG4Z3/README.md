@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Loon Mountain icon" width="36"> [Snow Report for Loon Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.21ff0ffb-a052-4286-b7a8-70aa15833baf)
+# [Snow Report for Loon Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.21ff0ffb-a052-4286-b7a8-70aa15833baf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Loon Mountain skill, try saying...

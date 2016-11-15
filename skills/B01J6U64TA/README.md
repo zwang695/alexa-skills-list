@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="World Language Trivia icon" width="36"> [World Language Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.7ab3c9ff-5898-4112-bcf4-7b0536963a8c)
+# [World Language Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.7ab3c9ff-5898-4112-bcf4-7b0536963a8c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the World Language Trivia skill, try saying...

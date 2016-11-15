@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pretzel Man icon" width="36"> [Pretzel Man](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ecdabca0-0eb5-4b44-aec4-29da9fc0692d)
+# [Pretzel Man](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ecdabca0-0eb5-4b44-aec4-29da9fc0692d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pretzel Man skill, try saying...

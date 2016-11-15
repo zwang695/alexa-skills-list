@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Informed Voter icon" width="36"> [Informed Voter](http://alexa.amazon.com/#skills/amzn1.ask.skill.524dcf48-8c3b-41dd-bb60-5c6df0b0d276)
+# [Informed Voter](http://alexa.amazon.com/#skills/amzn1.ask.skill.524dcf48-8c3b-41dd-bb60-5c6df0b0d276)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Informed Voter skill, try saying...

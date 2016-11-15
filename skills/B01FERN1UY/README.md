@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Motivate Me icon" width="36"> [Motivate Me](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4b699841-00f7-48cf-bbfc-6b2bfbf1458d)
+# [Motivate Me](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4b699841-00f7-48cf-bbfc-6b2bfbf1458d)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Motivate Me skill, try saying...

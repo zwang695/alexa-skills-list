@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Football Winners icon" width="36"> [Football Winners](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a200957a-ed73-4f4c-a360-4c5d6b99016d)
+# [Football Winners](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a200957a-ed73-4f4c-a360-4c5d6b99016d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Football Winners skill, try saying...

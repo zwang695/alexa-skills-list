@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bitdog Voice icon" width="36"> [Bitdog Voice](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c4a3dbaf-d550-47a5-8311-733210aefdb1)
+# [Bitdog Voice](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c4a3dbaf-d550-47a5-8311-733210aefdb1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bitdog Voice skill, try saying...

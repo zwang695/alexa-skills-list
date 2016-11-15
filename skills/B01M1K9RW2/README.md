@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Eaglecrest icon" width="36"> [Snow Report for Eaglecrest](http://alexa.amazon.com/#skills/amzn1.ask.skill.b9d0573d-f4f9-43e7-8fdb-165e6c8b56d0)
+# [Snow Report for Eaglecrest](http://alexa.amazon.com/#skills/amzn1.ask.skill.b9d0573d-f4f9-43e7-8fdb-165e6c8b56d0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Eaglecrest skill, try saying...

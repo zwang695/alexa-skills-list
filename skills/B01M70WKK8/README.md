@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for King Pine icon" width="36"> [Snow Report for King Pine](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b1a660f-7c89-4ed0-95b3-a447507f1fdd)
+# [Snow Report for King Pine](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b1a660f-7c89-4ed0-95b3-a447507f1fdd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for King Pine skill, try saying...

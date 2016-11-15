@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Billy the Random Number Goat icon" width="36"> [Billy the Random Number Goat](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d7e5e31d-7170-4528-b392-72d3531b66d2)
+# [Billy the Random Number Goat](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d7e5e31d-7170-4528-b392-72d3531b66d2)
 ![1.8 stars](../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Billy the Random Number Goat skill, try saying...

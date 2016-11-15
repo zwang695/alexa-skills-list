@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fourth of July Checker icon" width="36"> [Fourth of July Checker](http://alexa.amazon.com/#skills/amzn1.ask.skill.62123842-9493-4f6c-8b19-fc73e695c55e)
+# [Fourth of July Checker](http://alexa.amazon.com/#skills/amzn1.ask.skill.62123842-9493-4f6c-8b19-fc73e695c55e)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Fourth of July Checker skill, try saying...

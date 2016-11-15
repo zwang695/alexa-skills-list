@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Alpine Valley Ohio icon" width="36"> [Snow Report for Alpine Valley Ohio](http://alexa.amazon.com/#skills/amzn1.ask.skill.19ed1e44-6472-4511-9ab5-d3c84324b394)
+# [Snow Report for Alpine Valley Ohio](http://alexa.amazon.com/#skills/amzn1.ask.skill.19ed1e44-6472-4511-9ab5-d3c84324b394)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Alpine Valley Ohio skill, try saying...

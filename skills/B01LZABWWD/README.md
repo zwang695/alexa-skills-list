@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Banff Norquay icon" width="36"> [Snow Report for Banff Norquay](http://alexa.amazon.com/#skills/amzn1.ask.skill.3654afbd-aabb-4cb4-890f-c621c122381c)
+# [Snow Report for Banff Norquay](http://alexa.amazon.com/#skills/amzn1.ask.skill.3654afbd-aabb-4cb4-890f-c621c122381c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Banff Norquay skill, try saying...

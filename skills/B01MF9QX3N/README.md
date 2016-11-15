@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Raging Buffalo icon" width="36"> [Snow Report for Raging Buffalo](http://alexa.amazon.com/#skills/amzn1.ask.skill.bc959d53-c8fd-445f-953b-fa6592346250)
+# [Snow Report for Raging Buffalo](http://alexa.amazon.com/#skills/amzn1.ask.skill.bc959d53-c8fd-445f-953b-fa6592346250)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Raging Buffalo skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Middle Earth Trivia icon" width="36"> [Middle Earth Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.037e6548-2ee3-45ef-b5c3-452acb0c5f7d)
+# [Middle Earth Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.037e6548-2ee3-45ef-b5c3-452acb0c5f7d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Middle Earth Trivia skill, try saying...

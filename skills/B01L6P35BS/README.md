@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Inspire ME icon" width="36"> [Inspire ME](http://alexa.amazon.com/#skills/amzn1.ask.skill.6e739c5b-84e8-42f4-a31e-366bd590e16e)
+# [Inspire ME](http://alexa.amazon.com/#skills/amzn1.ask.skill.6e739c5b-84e8-42f4-a31e-366bd590e16e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Inspire ME skill, try saying...

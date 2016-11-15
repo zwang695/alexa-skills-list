@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Top Stories icon" width="36"> [Top Stories](http://alexa.amazon.com/#skills/amzn1.ask.skill.465d2a8d-4efc-4a73-b3dd-a5b3d34c3d2b)
+# [Top Stories](http://alexa.amazon.com/#skills/amzn1.ask.skill.465d2a8d-4efc-4a73-b3dd-a5b3d34c3d2b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Top Stories skill, try saying...

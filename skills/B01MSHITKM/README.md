@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Nordic Mountain icon" width="36"> [Snow Report for Nordic Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2bf897f-eeb9-4fe5-bfc0-aec0aadef9cc)
+# [Snow Report for Nordic Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2bf897f-eeb9-4fe5-bfc0-aec0aadef9cc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Nordic Mountain skill, try saying...

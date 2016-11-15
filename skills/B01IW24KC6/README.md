@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Forms of Poetry Trivia icon" width="36"> [Forms of Poetry Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd766597-babb-4cfc-9a89-2272344f92c4)
+# [Forms of Poetry Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd766597-babb-4cfc-9a89-2272344f92c4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Forms of Poetry Trivia skill, try saying...

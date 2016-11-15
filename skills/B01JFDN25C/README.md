@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baseball Flash Cards icon" width="36"> [Baseball Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.24489b70-e490-42fd-b25f-ac0d836219a0)
+# [Baseball Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.24489b70-e490-42fd-b25f-ac0d836219a0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Baseball Flash Cards skill, try saying...

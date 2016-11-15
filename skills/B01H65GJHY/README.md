@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Learn Spanish icon" width="36"> [Learn Spanish](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.32020737-9cc0-4c2a-95eb-ba3de188a7e5)
+# [Learn Spanish](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.32020737-9cc0-4c2a-95eb-ba3de188a7e5)
 ![1.9 stars](../../images/ic_star_black_18dp_1x.png)![1.9 stars](../../images/ic_star_half_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png)![1.9 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Learn Spanish skill, try saying...

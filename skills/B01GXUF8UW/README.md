@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Crafting Trivia icon" width="36"> [Crafting Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dd9c3454-7c30-43a7-8353-4b106a2be64d)
+# [Crafting Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dd9c3454-7c30-43a7-8353-4b106a2be64d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Crafting Trivia skill, try saying...

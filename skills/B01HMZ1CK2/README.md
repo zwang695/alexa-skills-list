@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cat Genius icon" width="36"> [Cat Genius](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1af0f77-517c-4b77-919a-3bc73cf2657c)
+# [Cat Genius](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1af0f77-517c-4b77-919a-3bc73cf2657c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cat Genius skill, try saying...

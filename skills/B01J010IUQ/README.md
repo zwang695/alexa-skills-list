@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bodybuilding Geek icon" width="36"> [Bodybuilding Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.083e9c92-2d19-43e8-8089-4ba1a11e4eb8)
+# [Bodybuilding Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.083e9c92-2d19-43e8-8089-4ba1a11e4eb8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bodybuilding Geek skill, try saying...

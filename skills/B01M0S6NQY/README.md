@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Space Facts icon" width="36"> [Space Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.944019b6-fc6a-47ad-a1dd-8a550ad67ffd)
+# [Space Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.944019b6-fc6a-47ad-a1dd-8a550ad67ffd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Space Facts skill, try saying...

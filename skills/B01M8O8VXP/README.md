@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Atomic Weight Trivia icon" width="36"> [Atomic Weight Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.adcb1d8d-b252-4ce9-aacc-7e6dded18652)
+# [Atomic Weight Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.adcb1d8d-b252-4ce9-aacc-7e6dded18652)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Atomic Weight Trivia skill, try saying...

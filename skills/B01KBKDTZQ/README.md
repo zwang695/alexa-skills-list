@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Moto Time icon" width="36"> [Moto Time](http://alexa.amazon.com/#skills/amzn1.ask.skill.b528485b-fe24-42a8-bba8-c94a104a6b11)
+# [Moto Time](http://alexa.amazon.com/#skills/amzn1.ask.skill.b528485b-fe24-42a8-bba8-c94a104a6b11)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Moto Time skill, try saying...

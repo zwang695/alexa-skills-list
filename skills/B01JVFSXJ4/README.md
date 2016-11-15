@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Healthy Salads icon" width="36"> [Healthy Salads](http://alexa.amazon.com/#skills/amzn1.ask.skill.15e5c4be-3e61-4aa4-960e-3b87961804ed)
+# [Healthy Salads](http://alexa.amazon.com/#skills/amzn1.ask.skill.15e5c4be-3e61-4aa4-960e-3b87961804ed)
 ![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Healthy Salads skill, try saying...

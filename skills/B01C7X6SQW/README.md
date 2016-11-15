@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Phish Trivia Game icon" width="36"> [The Phish Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dacfc86a-8f33-4421-85b4-95a7eb07e4ad)
+# [The Phish Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dacfc86a-8f33-4421-85b4-95a7eb07e4ad)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the The Phish Trivia Game skill, try saying...

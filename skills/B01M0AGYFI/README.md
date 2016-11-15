@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tic Tac Toe Helper icon" width="36"> [Tic Tac Toe Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.45d0c853-b36f-4ca2-943e-b0f761af4812)
+# [Tic Tac Toe Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.45d0c853-b36f-4ca2-943e-b0f761af4812)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tic Tac Toe Helper skill, try saying...

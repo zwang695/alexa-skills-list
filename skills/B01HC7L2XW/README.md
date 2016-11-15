@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="One Rep Max icon" width="36"> [One Rep Max](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cc8662c7-7914-4cf4-a3ae-44b2c662be81)
+# [One Rep Max](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cc8662c7-7914-4cf4-a3ae-44b2c662be81)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the One Rep Max skill, try saying...

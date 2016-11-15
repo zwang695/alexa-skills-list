@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Distance Finder icon" width="36"> [Distance Finder](http://alexa.amazon.com/#skills/amzn1.ask.skill.6b18e35a-8fd1-4b20-9beb-3f0b6278ddf4)
+# [Distance Finder](http://alexa.amazon.com/#skills/amzn1.ask.skill.6b18e35a-8fd1-4b20-9beb-3f0b6278ddf4)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Distance Finder skill, try saying...

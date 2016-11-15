@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="A Cloud Guru Professional DevOps Quiz icon" width="36"> [A Cloud Guru Professional DevOps Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ebc5b60c-af27-4747-aebd-6284972f7f52)
+# [A Cloud Guru Professional DevOps Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ebc5b60c-af27-4747-aebd-6284972f7f52)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the A Cloud Guru Professional DevOps Quiz skill, try saying...

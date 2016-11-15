@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Remember The Milk icon" width="36"> [Remember The Milk](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cd197c8f-316d-45e0-b51a-243e00f01588)
+# [Remember The Milk](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cd197c8f-316d-45e0-b51a-243e00f01588)
 ![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Remember The Milk skill, try saying...

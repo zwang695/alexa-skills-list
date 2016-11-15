@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trainer Tips icon" width="36"> [Trainer Tips](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.473e332e-83b4-4234-b1ab-3a4f5776d041)
+# [Trainer Tips](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.473e332e-83b4-4234-b1ab-3a4f5776d041)
 ![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Trainer Tips skill, try saying...

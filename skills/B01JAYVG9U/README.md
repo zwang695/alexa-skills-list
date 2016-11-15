@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Economics Flash Cards icon" width="36"> [Economics Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9a3db8bd-944f-467a-a7c9-6baa3f2a6584)
+# [Economics Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9a3db8bd-944f-467a-a7c9-6baa3f2a6584)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Economics Flash Cards skill, try saying...

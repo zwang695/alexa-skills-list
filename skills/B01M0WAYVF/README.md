@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Leo's Carbohydrate Fact List icon" width="36"> [Leo's Carbohydrate Fact List](http://alexa.amazon.com/#skills/amzn1.ask.skill.ecb85202-3406-46eb-be98-6a10c56ed518)
+# [Leo's Carbohydrate Fact List](http://alexa.amazon.com/#skills/amzn1.ask.skill.ecb85202-3406-46eb-be98-6a10c56ed518)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Leo's Carbohydrate Fact List skill, try saying...

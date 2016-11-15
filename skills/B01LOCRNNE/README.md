@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="LA Facts icon" width="36"> [LA Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f7beccd2-3961-47e1-8928-2c5c226a47cc)
+# [LA Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f7beccd2-3961-47e1-8928-2c5c226a47cc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the LA Facts skill, try saying...

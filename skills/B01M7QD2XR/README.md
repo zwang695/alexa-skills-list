@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fun Food Facts icon" width="36"> [Fun Food Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b974d0e-7801-48a6-ab89-07aab512bece)
+# [Fun Food Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b974d0e-7801-48a6-ab89-07aab512bece)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fun Food Facts skill, try saying...

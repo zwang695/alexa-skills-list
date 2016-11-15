@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Microsoft .NET Framework Quiz icon" width="36"> [Unofficial Microsoft .NET Framework Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.fa59b810-b050-4c6f-a50b-f98dac0fdae5)
+# [Unofficial Microsoft .NET Framework Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.fa59b810-b050-4c6f-a50b-f98dac0fdae5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Microsoft .NET Framework Quiz skill, try saying...

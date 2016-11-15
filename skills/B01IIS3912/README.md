@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="State Capital Quiz icon" width="36"> [State Capital Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.407b0966-a1ac-4f79-b9ae-456f4414dcbd)
+# [State Capital Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.407b0966-a1ac-4f79-b9ae-456f4414dcbd)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the State Capital Quiz skill, try saying...

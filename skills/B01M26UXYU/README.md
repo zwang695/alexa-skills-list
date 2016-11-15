@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Shanty Creek icon" width="36"> [Snow Report for Shanty Creek](http://alexa.amazon.com/#skills/amzn1.ask.skill.2be96352-ecfb-42e7-8d14-6e52d29c953b)
+# [Snow Report for Shanty Creek](http://alexa.amazon.com/#skills/amzn1.ask.skill.2be96352-ecfb-42e7-8d14-6e52d29c953b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Shanty Creek skill, try saying...

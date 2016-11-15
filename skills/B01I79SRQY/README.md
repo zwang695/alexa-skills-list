@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wizard facts icon" width="36"> [Wizard facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.61fad107-3666-4473-8f37-b7ec41618a8d)
+# [Wizard facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.61fad107-3666-4473-8f37-b7ec41618a8d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Wizard facts skill, try saying...

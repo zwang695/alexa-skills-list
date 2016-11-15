@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Good News Bad News icon" width="36"> [Good News Bad News](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f540de1-1471-413d-8e12-2dfd2dcdaa1b)
+# [Good News Bad News](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f540de1-1471-413d-8e12-2dfd2dcdaa1b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Good News Bad News skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What beer? icon" width="36"> [What beer?](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.37bdc492-64b8-4272-94f6-28cdba52cff7)
+# [What beer?](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.37bdc492-64b8-4272-94f6-28cdba52cff7)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the What beer? skill, try saying...

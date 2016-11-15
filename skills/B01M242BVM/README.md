@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="World food icon" width="36"> [World food](http://alexa.amazon.com/#skills/amzn1.ask.skill.b9bc935b-ebc2-48b6-b599-b5d657d24c11)
+# [World food](http://alexa.amazon.com/#skills/amzn1.ask.skill.b9bc935b-ebc2-48b6-b599-b5d657d24c11)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the World food skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tide- Stain Remover icon" width="36"> [Tide- Stain Remover](http://alexa.amazon.com/#skills/amzn1.ask.skill.8e6b3a96-c1c5-43c5-b6f7-4e6b83ec42a7)
+# [Tide- Stain Remover](http://alexa.amazon.com/#skills/amzn1.ask.skill.8e6b3a96-c1c5-43c5-b6f7-4e6b83ec42a7)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 7
 
 To use the Tide- Stain Remover skill, try saying...

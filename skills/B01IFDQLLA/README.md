@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Carrier Côr Thermostat Control icon" width="36"> [Carrier Côr Thermostat Control](http://alexa.amazon.com/#skills/amzn1.ask.skill.db755ebd-44a8-407c-8217-97513897f318)
+# [Carrier Côr Thermostat Control](http://alexa.amazon.com/#skills/amzn1.ask.skill.db755ebd-44a8-407c-8217-97513897f318)
 ![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 11
 
 With the skill and Alexa, you can now interact with your Carrier® Côr™ thermostats by voice to control your home comfort.

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="best age of marriage icon" width="36"> [best age of marriage](http://alexa.amazon.com/#skills/amzn1.ask.skill.32d38159-cfdb-45fe-bcab-3adf408d41a3)
+# [best age of marriage](http://alexa.amazon.com/#skills/amzn1.ask.skill.32d38159-cfdb-45fe-bcab-3adf408d41a3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the best age of marriage skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Movie Trivia icon" width="36"> [Movie Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.91f64d51-b7d8-4b76-902e-4f4bd844c1e4)
+# [Movie Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.91f64d51-b7d8-4b76-902e-4f4bd844c1e4)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Movie Trivia skill, try saying...

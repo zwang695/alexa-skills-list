@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Word Count icon" width="36"> [Word Count](http://alexa.amazon.com/#skills/amzn1.ask.skill.8e0bf82b-e075-4bfa-86b5-d1325e36862f)
+# [Word Count](http://alexa.amazon.com/#skills/amzn1.ask.skill.8e0bf82b-e075-4bfa-86b5-d1325e36862f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Word Count skill, try saying...

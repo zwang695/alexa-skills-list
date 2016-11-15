@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Vinli icon" width="36"> [Vinli](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0d3eefb5-012a-4e20-858c-8c4f936969d8)
+# [Vinli](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0d3eefb5-012a-4e20-858c-8c4f936969d8)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Vinli skill, try saying...

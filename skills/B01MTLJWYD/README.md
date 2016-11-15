@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Glass Facts icon" width="36"> [Glass Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0069dd5a-8cbb-4cc1-8d3a-c944c191d5b9)
+# [Glass Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0069dd5a-8cbb-4cc1-8d3a-c944c191d5b9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Glass Facts skill, try saying...

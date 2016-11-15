@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bikes Facts icon" width="36"> [Bikes Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f276f6bb-f0f4-4557-97e9-90a23995fdf6)
+# [Bikes Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f276f6bb-f0f4-4557-97e9-90a23995fdf6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bikes Facts skill, try saying...

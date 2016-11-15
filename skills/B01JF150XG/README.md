@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Coventry Fact Skill icon" width="36"> [Coventry Fact Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.1b585e24-6acf-4af6-a318-66241dca2686)
+# [Coventry Fact Skill](http://alexa.amazon.com/#skills/amzn1.ask.skill.1b585e24-6acf-4af6-a318-66241dca2686)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Coventry Fact Skill skill, try saying...

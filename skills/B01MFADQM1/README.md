@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Markus Ulsass](http://alexa.amazon.com/#skills/amzn1.ask.skill.7c29ce90-1441-4fd5-9f5d-adaf7886f168)
+# [Markus Ulsass](http://alexa.amazon.com/#skills/amzn1.ask.skill.7c29ce90-1441-4fd5-9f5d-adaf7886f168)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

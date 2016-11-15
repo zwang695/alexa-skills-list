@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Baseball Trivia icon" width="36"> [Baseball Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f6aee670-f19e-456f-bce1-31760df0d666)
+# [Baseball Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f6aee670-f19e-456f-bce1-31760df0d666)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Baseball Trivia skill, try saying...

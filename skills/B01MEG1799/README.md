@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Phobias icon" width="36"> [Phobias](http://alexa.amazon.com/#skills/amzn1.ask.skill.3226a138-0424-4ad0-a92d-320d74effb15)
+# [Phobias](http://alexa.amazon.com/#skills/amzn1.ask.skill.3226a138-0424-4ad0-a92d-320d74effb15)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Phobias skill, try saying...

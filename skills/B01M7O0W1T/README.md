@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Monkey icon" width="36"> [Trivia Monkey](http://alexa.amazon.com/#skills/amzn1.ask.skill.834e3e55-beff-44e7-8998-d9abaab9e41b)
+# [Trivia Monkey](http://alexa.amazon.com/#skills/amzn1.ask.skill.834e3e55-beff-44e7-8998-d9abaab9e41b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia Monkey skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Marc's Trivia icon" width="36"> [Marc's Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b9893468-3697-40e6-b9fa-8f13b57131b9)
+# [Marc's Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b9893468-3697-40e6-b9fa-8f13b57131b9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Marc's Trivia skill, try saying...

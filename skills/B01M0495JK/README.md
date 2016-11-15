@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Soccer Geek icon" width="36"> [Soccer Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.2729d458-8fcb-4446-a20d-30cc0dc8ad03)
+# [Soccer Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.2729d458-8fcb-4446-a20d-30cc0dc8ad03)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Soccer Geek skill, try saying...

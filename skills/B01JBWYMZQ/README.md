@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="YC Startups icon" width="36"> [YC Startups](http://alexa.amazon.com/#skills/amzn1.ask.skill.8f3875d8-6ada-4ee8-9564-d94608209676)
+# [YC Startups](http://alexa.amazon.com/#skills/amzn1.ask.skill.8f3875d8-6ada-4ee8-9564-d94608209676)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the YC Startups skill, try saying...

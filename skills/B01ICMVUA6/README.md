@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="U.S. State Capitals Quiz icon" width="36"> [U.S. State Capitals Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e008ccd5-05cd-4079-a8a4-f025ca48bba6)
+# [U.S. State Capitals Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e008ccd5-05cd-4079-a8a4-f025ca48bba6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the U.S. State Capitals Quiz skill, try saying...

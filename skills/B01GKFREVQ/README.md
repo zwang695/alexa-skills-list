@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="AnimalFacts icon" width="36"> [AnimalFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8a9f21b3-4b35-4b22-8f8d-539ae45da2f0)
+# [AnimalFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8a9f21b3-4b35-4b22-8f8d-539ae45da2f0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the AnimalFacts skill, try saying...

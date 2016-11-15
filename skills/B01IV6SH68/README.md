@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Miguel Soccer Trivia icon" width="36"> [Miguel Soccer Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.68aede59-0091-4b37-9036-0e6ae12856be)
+# [Miguel Soccer Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.68aede59-0091-4b37-9036-0e6ae12856be)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Miguel Soccer Trivia skill, try saying...

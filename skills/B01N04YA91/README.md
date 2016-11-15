@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Trollhaugen Ski Resort icon" width="36"> [Snow Report for Trollhaugen Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0c5dab7-77b3-4dbe-a349-dd92c0562d4b)
+# [Snow Report for Trollhaugen Ski Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0c5dab7-77b3-4dbe-a349-dd92c0562d4b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Trollhaugen Ski Resort skill, try saying...

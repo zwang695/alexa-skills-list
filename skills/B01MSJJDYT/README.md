@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Get Fit icon" width="36"> [Get Fit](http://alexa.amazon.com/#skills/amzn1.ask.skill.6fd22d86-fd6a-4e13-b5c4-8c96066a5335)
+# [Get Fit](http://alexa.amazon.com/#skills/amzn1.ask.skill.6fd22d86-fd6a-4e13-b5c4-8c96066a5335)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Get Fit skill, try saying...

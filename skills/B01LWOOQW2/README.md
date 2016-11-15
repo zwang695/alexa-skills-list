@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Innovative Facts icon" width="36"> [Innovative Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.95277465-5dce-4620-bb56-d0f9048733b0)
+# [Innovative Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.95277465-5dce-4620-bb56-d0f9048733b0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Innovative Facts skill, try saying...

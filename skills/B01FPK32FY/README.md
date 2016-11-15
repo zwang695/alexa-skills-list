@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Beanie Boos Birthdays icon" width="36"> [Beanie Boos Birthdays](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c2d34127-15a8-4f3b-8810-0cad7b90c85b)
+# [Beanie Boos Birthdays](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c2d34127-15a8-4f3b-8810-0cad7b90c85b)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Beanie Boos Birthdays skill, try saying...

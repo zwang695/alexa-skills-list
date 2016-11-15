@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Chinese Food Pronunciation icon" width="36"> [Unofficial Chinese Food Pronunciation](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d32ac9f-65d4-49ca-9257-4a429d0e28a7)
+# [Unofficial Chinese Food Pronunciation](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d32ac9f-65d4-49ca-9257-4a429d0e28a7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Chinese Food Pronunciation skill, try saying...

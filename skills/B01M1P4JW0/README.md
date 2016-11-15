@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Berlin Fact icon" width="36"> [Berlin Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.68485101-e7fd-42a5-bde9-1308cf1c9194)
+# [Berlin Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.68485101-e7fd-42a5-bde9-1308cf1c9194)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Berlin Fact skill, try saying...

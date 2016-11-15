@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Racing Results icon" width="36"> [Racing Results](http://alexa.amazon.com/#skills/amzn1.ask.skill.77bb9db8-d0e9-43a5-8a4a-3d58ba2aad91)
+# [Racing Results](http://alexa.amazon.com/#skills/amzn1.ask.skill.77bb9db8-d0e9-43a5-8a4a-3d58ba2aad91)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Racing Results skill, try saying...

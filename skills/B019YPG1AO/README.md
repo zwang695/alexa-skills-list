@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Impossibly Hard Major League Baseball Quiz icon" width="36"> [Impossibly Hard Major League Baseball Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9654cfab-9629-40d9-8abc-c481be64df0c)
+# [Impossibly Hard Major League Baseball Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9654cfab-9629-40d9-8abc-c481be64df0c)
 ![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Impossibly Hard Major League Baseball Quiz skill, try saying...

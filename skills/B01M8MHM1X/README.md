@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Timberline Ski Area icon" width="36"> [Snow Report for Timberline Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a60cf41-74e7-422e-851b-c3367cd67610)
+# [Snow Report for Timberline Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a60cf41-74e7-422e-851b-c3367cd67610)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Timberline Ski Area skill, try saying...

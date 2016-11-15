@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dylan icon" width="36"> [Dylan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.aa9bfe9c-1b8f-4287-b03d-6f21436f7c35)
+# [Dylan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.aa9bfe9c-1b8f-4287-b03d-6f21436f7c35)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Dylan skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DiceBot icon" width="36"> [DiceBot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3d097710-9c2c-44bc-9598-ad74699f07cb)
+# [DiceBot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3d097710-9c2c-44bc-9598-ad74699f07cb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the DiceBot skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [AJNS New Media GMBH](http://alexa.amazon.com/#skills/amzn1.ask.skill.56ffed28-307b-431d-aeed-59c0bc06cffe)
+# [AJNS New Media GMBH](http://alexa.amazon.com/#skills/amzn1.ask.skill.56ffed28-307b-431d-aeed-59c0bc06cffe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

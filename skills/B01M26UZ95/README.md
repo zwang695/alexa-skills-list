@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Swiss Valley icon" width="36"> [Snow Report for Swiss Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.4fe16b64-5846-404c-bf23-6834f4b367f7)
+# [Snow Report for Swiss Valley](http://alexa.amazon.com/#skills/amzn1.ask.skill.4fe16b64-5846-404c-bf23-6834f4b367f7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Swiss Valley skill, try saying...

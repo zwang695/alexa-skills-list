@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="home8 icon" width="36"> [home8](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.359d7c1f-3d8e-4b3d-909a-d6871a5afe09)
+# [home8](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.359d7c1f-3d8e-4b3d-909a-d6871a5afe09)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the home8 skill, try saying...

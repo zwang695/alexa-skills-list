@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Jiminy Peak icon" width="36"> [Snow Report for Jiminy Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.c42d44ed-b6cc-4eb3-8a55-4f9467651d34)
+# [Snow Report for Jiminy Peak](http://alexa.amazon.com/#skills/amzn1.ask.skill.c42d44ed-b6cc-4eb3-8a55-4f9467651d34)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Jiminy Peak skill, try saying...

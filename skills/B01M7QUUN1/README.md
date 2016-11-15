@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Open Parking and Camera Violations in NYC icon" width="36"> [Open Parking and Camera Violations in NYC](http://alexa.amazon.com/#skills/amzn1.ask.skill.41b19db3-6b9d-413d-9fc2-db69c75fedd4)
+# [Open Parking and Camera Violations in NYC](http://alexa.amazon.com/#skills/amzn1.ask.skill.41b19db3-6b9d-413d-9fc2-db69c75fedd4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Open Parking and Camera Violations in NYC skill, try saying...

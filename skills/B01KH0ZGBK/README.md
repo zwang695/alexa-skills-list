@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ways to Soothe a Crying Baby icon" width="36"> [Ways to Soothe a Crying Baby](http://alexa.amazon.com/#skills/amzn1.ask.skill.97e51671-3b2b-42c0-95dd-f0c7fd0f56d6)
+# [Ways to Soothe a Crying Baby](http://alexa.amazon.com/#skills/amzn1.ask.skill.97e51671-3b2b-42c0-95dd-f0c7fd0f56d6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ways to Soothe a Crying Baby skill, try saying...

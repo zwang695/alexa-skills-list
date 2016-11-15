@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="U.S. State Capital Flashcards icon" width="36"> [U.S. State Capital Flashcards](http://alexa.amazon.com/#skills/amzn1.ask.skill.6bd3d68c-1d13-46d1-a972-b7e81da3a12f)
+# [U.S. State Capital Flashcards](http://alexa.amazon.com/#skills/amzn1.ask.skill.6bd3d68c-1d13-46d1-a972-b7e81da3a12f)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the U.S. State Capital Flashcards skill, try saying...

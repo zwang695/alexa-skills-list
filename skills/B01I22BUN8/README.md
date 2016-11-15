@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Content Exam icon" width="36"> [Daily Content Exam](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.57dbcf83-8099-4f6d-855a-9628d52ea9a3)
+# [Daily Content Exam](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.57dbcf83-8099-4f6d-855a-9628d52ea9a3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Daily Content Exam skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MobileRobot Brain Test icon" width="36"> [MobileRobot Brain Test](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5ce4b07b-3ac4-4aa6-bf66-b67aabe2cd1b)
+# [MobileRobot Brain Test](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5ce4b07b-3ac4-4aa6-bf66-b67aabe2cd1b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the MobileRobot Brain Test skill, try saying...

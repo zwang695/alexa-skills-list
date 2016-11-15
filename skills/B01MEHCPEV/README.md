@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mt Crescent icon" width="36"> [Snow Report for Mt Crescent](http://alexa.amazon.com/#skills/amzn1.ask.skill.dfc5aadf-93c2-4a52-b65f-baad51e47a7a)
+# [Snow Report for Mt Crescent](http://alexa.amazon.com/#skills/amzn1.ask.skill.dfc5aadf-93c2-4a52-b65f-baad51e47a7a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mt Crescent skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Game Helper for Clash Royale icon" width="36"> [Game Helper for Clash Royale](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4b2060eb-bd10-4931-a24c-2f50409fb47e)
+# [Game Helper for Clash Royale](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4b2060eb-bd10-4931-a24c-2f50409fb47e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Game Helper for Clash Royale skill, try saying...

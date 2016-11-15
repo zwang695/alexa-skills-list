@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="History Trivia Game icon" width="36"> [History Trivia Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ae14b9b-a363-4840-a33a-a436beed16fb)
+# [History Trivia Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ae14b9b-a363-4840-a33a-a436beed16fb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the History Trivia Game skill, try saying...

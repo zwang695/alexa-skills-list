@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="I. T. U. Holidays icon" width="36"> [I. T. U. Holidays](http://alexa.amazon.com/#skills/amzn1.ask.skill.649bf859-1114-49d4-9f61-c1627b2622e8)
+# [I. T. U. Holidays](http://alexa.amazon.com/#skills/amzn1.ask.skill.649bf859-1114-49d4-9f61-c1627b2622e8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the I. T. U. Holidays skill, try saying...

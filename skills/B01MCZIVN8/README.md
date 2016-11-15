@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Periodic Table Trivia icon" width="36"> [Periodic Table Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.7891b6a6-3336-4207-957d-10ad437abe1a)
+# [Periodic Table Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.7891b6a6-3336-4207-957d-10ad437abe1a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Periodic Table Trivia skill, try saying...

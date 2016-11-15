@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Richard Stallman Fun Facts icon" width="36"> [Richard Stallman Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4c498981-8790-4c8c-8792-3807722e2fc8)
+# [Richard Stallman Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4c498981-8790-4c8c-8792-3807722e2fc8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Richard Stallman Fun Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Golf Facts icon" width="36"> [Golf Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8bef3d57-7b10-461b-87a3-0b2d8a7e748a)
+# [Golf Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8bef3d57-7b10-461b-87a3-0b2d8a7e748a)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Golf Facts skill, try saying...

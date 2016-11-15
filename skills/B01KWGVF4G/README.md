@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Chef - Kitchen Assistant by Chefling icon" width="36"> [My Chef - Kitchen Assistant by Chefling](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a391899-82a9-4f7a-afb7-cc5a60cc550f)
+# [My Chef - Kitchen Assistant by Chefling](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a391899-82a9-4f7a-afb7-cc5a60cc550f)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 10
 
 To use the My Chef - Kitchen Assistant by Chefling skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Today I Learned icon" width="36"> [Today I Learned](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.08ea5327-3917-48bb-bf7e-c2e1c6389b4d)
+# [Today I Learned](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.08ea5327-3917-48bb-bf7e-c2e1c6389b4d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Today I Learned skill, try saying...

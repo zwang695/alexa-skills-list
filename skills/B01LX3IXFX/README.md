@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wishing Well icon" width="36"> [Wishing Well](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c333775-c5bb-4fc3-9027-4bd9debe3b42)
+# [Wishing Well](http://alexa.amazon.com/#skills/amzn1.ask.skill.1c333775-c5bb-4fc3-9027-4bd9debe3b42)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Wishing Well skill, try saying...

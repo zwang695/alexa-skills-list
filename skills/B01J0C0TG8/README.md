@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MultiPlayer icon" width="36"> [MultiPlayer](http://alexa.amazon.com/#skills/amzn1.ask.skill.d9b07b70-3e0c-4a80-a94e-1b6f6dd5800b)
+# [MultiPlayer](http://alexa.amazon.com/#skills/amzn1.ask.skill.d9b07b70-3e0c-4a80-a94e-1b6f6dd5800b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the MultiPlayer skill, try saying...

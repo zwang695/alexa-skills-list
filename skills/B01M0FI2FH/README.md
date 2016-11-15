@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Truckee Trivia icon" width="36"> [Truckee Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f79fa67a-6882-4f0d-9388-998c63ed296e)
+# [Truckee Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f79fa67a-6882-4f0d-9388-998c63ed296e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Truckee Trivia skill, try saying...

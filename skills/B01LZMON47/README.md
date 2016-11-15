@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Beagle Facts icon" width="36"> [Beagle Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0ac354e3-a31d-41ee-94bd-057b0f49daf5)
+# [Beagle Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0ac354e3-a31d-41ee-94bd-057b0f49daf5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Beagle Facts skill, try saying...

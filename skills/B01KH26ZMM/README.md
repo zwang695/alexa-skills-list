@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Voca Genius icon" width="36"> [Voca Genius](http://alexa.amazon.com/#skills/amzn1.ask.skill.de9ca67f-477b-48a3-b673-16d6a7928a5f)
+# [Voca Genius](http://alexa.amazon.com/#skills/amzn1.ask.skill.de9ca67f-477b-48a3-b673-16d6a7928a5f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Voca Genius skill, try saying...

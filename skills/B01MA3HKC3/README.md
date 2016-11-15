@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Name 10 icon" width="36"> [Name 10](http://alexa.amazon.com/#skills/amzn1.ask.skill.f36163da-bc49-4d28-803f-4491d12fc733)
+# [Name 10](http://alexa.amazon.com/#skills/amzn1.ask.skill.f36163da-bc49-4d28-803f-4491d12fc733)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Name 10 skill, try saying...

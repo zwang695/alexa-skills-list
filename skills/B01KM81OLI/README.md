@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Terrapin Nav icon" width="36"> [Terrapin Nav](http://alexa.amazon.com/#skills/amzn1.ask.skill.87888735-7c21-432c-8db0-fc18b027f2a4)
+# [Terrapin Nav](http://alexa.amazon.com/#skills/amzn1.ask.skill.87888735-7c21-432c-8db0-fc18b027f2a4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Terrapin Nav skill, try saying...

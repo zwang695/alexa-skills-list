@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Counterpicks for Overwatch icon" width="36"> [Counterpicks for Overwatch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.70412ad5-c2fa-44b7-98ad-aff9b3eee51d)
+# [Counterpicks for Overwatch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.70412ad5-c2fa-44b7-98ad-aff9b3eee51d)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Counterpicks for Overwatch skill, try saying...

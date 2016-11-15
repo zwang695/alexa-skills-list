@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for 49 Degrees North icon" width="36"> [Snow Report for 49 Degrees North](http://alexa.amazon.com/#skills/amzn1.ask.skill.1623c212-3b7a-4184-bc6f-d88e573a97f3)
+# [Snow Report for 49 Degrees North](http://alexa.amazon.com/#skills/amzn1.ask.skill.1623c212-3b7a-4184-bc6f-d88e573a97f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for 49 Degrees North skill, try saying...

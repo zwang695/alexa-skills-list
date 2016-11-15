@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pie Facts icon" width="36"> [Pie Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.40ceba5d-21bc-48bd-acf5-c01ef1389342)
+# [Pie Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.40ceba5d-21bc-48bd-acf5-c01ef1389342)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pie Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia Geek icon" width="36"> [Trivia Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.349681d1-8cca-45d3-a4d9-287605e388d8)
+# [Trivia Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.349681d1-8cca-45d3-a4d9-287605e388d8)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Trivia Geek skill, try saying...

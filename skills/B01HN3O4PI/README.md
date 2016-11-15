@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Soul Music Trivia icon" width="36"> [Soul Music Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.652951b2-3ac4-43a1-9b10-81f7f71643a6)
+# [Soul Music Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.652951b2-3ac4-43a1-9b10-81f7f71643a6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Soul Music Trivia skill, try saying...

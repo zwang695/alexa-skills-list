@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="River Gauge icon" width="36"> [River Gauge](http://alexa.amazon.com/#skills/amzn1.ask.skill.d7ad931d-6966-44e6-bafc-5de1cf48ab7c)
+# [River Gauge](http://alexa.amazon.com/#skills/amzn1.ask.skill.d7ad931d-6966-44e6-bafc-5de1cf48ab7c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the River Gauge skill, try saying...

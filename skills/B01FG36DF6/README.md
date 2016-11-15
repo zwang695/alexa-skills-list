@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What does your startup do? icon" width="36"> [What does your startup do?](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8017ed2b-fb50-44f5-86ba-c3b6fefcc64b)
+# [What does your startup do?](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8017ed2b-fb50-44f5-86ba-c3b6fefcc64b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the What does your startup do? skill, try saying...

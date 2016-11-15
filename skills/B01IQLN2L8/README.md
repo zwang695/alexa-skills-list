@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Movie Year Quiz icon" width="36"> [Movie Year Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a3c4f6b0-0591-4fc7-968f-6b8f45d04147)
+# [Movie Year Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a3c4f6b0-0591-4fc7-968f-6b8f45d04147)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Movie Year Quiz skill, try saying...

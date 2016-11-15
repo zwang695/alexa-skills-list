@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Air Quality icon" width="36"> [Air Quality](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf6d86b3-e34e-48ae-9dc4-8575aa8c3322)
+# [Air Quality](http://alexa.amazon.com/#skills/amzn1.ask.skill.cf6d86b3-e34e-48ae-9dc4-8575aa8c3322)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Air Quality skill, try saying...

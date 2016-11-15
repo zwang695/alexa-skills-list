@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Athan icon" width="36"> [Athan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.55ff625b-1564-4735-86fc-116486a0b175)
+# [Athan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.55ff625b-1564-4735-86fc-116486a0b175)
 ![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 9
 
 To use the Athan skill, try saying...

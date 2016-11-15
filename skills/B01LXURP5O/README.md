@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What a Joke icon" width="36"> [What a Joke](http://alexa.amazon.com/#skills/amzn1.ask.skill.3464a604-32d5-4cd1-8c55-59c4e8f06c67)
+# [What a Joke](http://alexa.amazon.com/#skills/amzn1.ask.skill.3464a604-32d5-4cd1-8c55-59c4e8f06c67)
 ![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the What a Joke skill, try saying...

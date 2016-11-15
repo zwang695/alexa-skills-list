@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Who is Thomas? icon" width="36"> [Who is Thomas?](http://alexa.amazon.com/#skills/amzn1.ask.skill.86f3f31d-6c48-4777-b532-98da30595a47)
+# [Who is Thomas?](http://alexa.amazon.com/#skills/amzn1.ask.skill.86f3f31d-6c48-4777-b532-98da30595a47)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Who is Thomas? skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pico Fermi Bagel icon" width="36"> [Pico Fermi Bagel](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f16d46cc-afc6-496c-b3d3-4229349af0ed)
+# [Pico Fermi Bagel](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f16d46cc-afc6-496c-b3d3-4229349af0ed)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pico Fermi Bagel skill, try saying...

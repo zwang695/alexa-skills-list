@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="theRealVoiceResponder icon" width="36"> [theRealVoiceResponder](http://alexa.amazon.com/#skills/amzn1.ask.skill.34af1f4c-12e6-4769-956a-5247de2279f4)
+# [theRealVoiceResponder](http://alexa.amazon.com/#skills/amzn1.ask.skill.34af1f4c-12e6-4769-956a-5247de2279f4)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the theRealVoiceResponder skill, try saying...

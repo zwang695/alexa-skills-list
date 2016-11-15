@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="US Presidents Facts icon" width="36"> [US Presidents Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8736b17a-595e-417a-9100-619ee497ca6f)
+# [US Presidents Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8736b17a-595e-417a-9100-619ee497ca6f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the US Presidents Facts skill, try saying...

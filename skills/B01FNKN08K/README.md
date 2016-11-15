@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Course Catalog for Miami Dade College icon" width="36"> [Course Catalog for Miami Dade College](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dd04e3cf-997a-468c-9381-879269da2653)
+# [Course Catalog for Miami Dade College](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dd04e3cf-997a-468c-9381-879269da2653)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Course Catalog for Miami Dade College skill, try saying...

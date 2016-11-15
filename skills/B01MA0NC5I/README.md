@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Anatomy Facts icon" width="36"> [Anatomy Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cbc90295-8a50-4ad4-8f2b-4432283a1838)
+# [Anatomy Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cbc90295-8a50-4ad4-8f2b-4432283a1838)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Anatomy Facts skill, try saying...

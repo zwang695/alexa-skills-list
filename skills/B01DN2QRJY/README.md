@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Cyberpunk Dictionary icon" width="36"> [The Cyberpunk Dictionary](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1a291230-7f25-48ed-b8b7-747205d072db)
+# [The Cyberpunk Dictionary](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1a291230-7f25-48ed-b8b7-747205d072db)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Cyberpunk Dictionary skill, try saying...

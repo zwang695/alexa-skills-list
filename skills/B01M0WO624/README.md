@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Share The Facts icon" width="36"> [Share The Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2a48f922-0f76-44da-b04a-861475fcdecd)
+# [Share The Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2a48f922-0f76-44da-b04a-861475fcdecd)
 ![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_black_18dp_1x.png)![2.1 stars](../../images/ic_star_half_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png)![2.1 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Share The Facts skill, try saying...

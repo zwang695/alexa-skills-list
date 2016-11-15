@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cricket Quiz icon" width="36"> [Cricket Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.752b92c6-eeeb-49de-b6b6-a6e21979f53d)
+# [Cricket Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.752b92c6-eeeb-49de-b6b6-a6e21979f53d)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Cricket Quiz skill, try saying...

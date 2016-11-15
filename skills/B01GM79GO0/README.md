@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="RideIdea icon" width="36"> [RideIdea](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c967cb9f-5487-425a-a543-bd92e650690b)
+# [RideIdea](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c967cb9f-5487-425a-a543-bd92e650690b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the RideIdea skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Physician Assistant Exam Trivia icon" width="36"> [Physician Assistant Exam Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.000f2627-411b-43af-aa14-fcdf927dfa1b)
+# [Physician Assistant Exam Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.000f2627-411b-43af-aa14-fcdf927dfa1b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Physician Assistant Exam Trivia skill, try saying...

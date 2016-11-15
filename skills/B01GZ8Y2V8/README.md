@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Vasundhara Fashions icon" width="36"> [Vasundhara Fashions](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0906a5eb-793a-4bbb-9e74-d60783b2ac15)
+# [Vasundhara Fashions](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0906a5eb-793a-4bbb-9e74-d60783b2ac15)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Vasundhara Fashions skill, try saying...

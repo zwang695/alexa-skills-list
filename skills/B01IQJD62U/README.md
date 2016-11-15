@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Broadway By Year icon" width="36"> [Broadway By Year](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8c223c98-6162-4a1f-a8e0-4c3cf123be93)
+# [Broadway By Year](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8c223c98-6162-4a1f-a8e0-4c3cf123be93)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Broadway By Year skill, try saying...

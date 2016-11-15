@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="myGorgeousTrainer icon" width="36"> [myGorgeousTrainer](http://alexa.amazon.com/#skills/amzn1.ask.skill.e682a3c6-2e7e-4d5b-8891-e3f80335c7ad)
+# [myGorgeousTrainer](http://alexa.amazon.com/#skills/amzn1.ask.skill.e682a3c6-2e7e-4d5b-8891-e3f80335c7ad)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the myGorgeousTrainer skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bacon Trivia icon" width="36"> [Bacon Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.49d23ddd-12ff-4715-bd32-bdae9e6409f5)
+# [Bacon Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.49d23ddd-12ff-4715-bd32-bdae9e6409f5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bacon Trivia skill, try saying...

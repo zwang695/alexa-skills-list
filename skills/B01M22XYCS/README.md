@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Arsenal Facts icon" width="36"> [Unofficial Arsenal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6831f39f-6a23-4161-9623-28dceb210392)
+# [Unofficial Arsenal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6831f39f-6a23-4161-9623-28dceb210392)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Arsenal Facts skill, try saying...

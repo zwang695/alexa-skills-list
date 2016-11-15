@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SwampTrivia icon" width="36"> [SwampTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.447f6065-b171-4e66-9279-c0c186c728ed)
+# [SwampTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.447f6065-b171-4e66-9279-c0c186c728ed)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the SwampTrivia skill, try saying...

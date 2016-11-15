@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pep Trivia icon" width="36"> [Pep Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.14430bcc-0b73-4835-bc0f-ab1275662d7a)
+# [Pep Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.14430bcc-0b73-4835-bc0f-ab1275662d7a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pep Trivia skill, try saying...

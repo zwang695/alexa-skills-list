@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mont Saint-Sauveur icon" width="36"> [Snow Report for Mont Saint-Sauveur](http://alexa.amazon.com/#skills/amzn1.ask.skill.fa528ea2-ea57-483c-8cb4-0e999586dc2a)
+# [Snow Report for Mont Saint-Sauveur](http://alexa.amazon.com/#skills/amzn1.ask.skill.fa528ea2-ea57-483c-8cb4-0e999586dc2a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mont Saint-Sauveur skill, try saying...

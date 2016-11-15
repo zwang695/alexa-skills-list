@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Records Rao icon" width="36"> [Records Rao](http://alexa.amazon.com/#skills/amzn1.ask.skill.51fa7e6a-2537-4256-9cde-8dfc55b6a9ce)
+# [Records Rao](http://alexa.amazon.com/#skills/amzn1.ask.skill.51fa7e6a-2537-4256-9cde-8dfc55b6a9ce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Records Rao skill, try saying...

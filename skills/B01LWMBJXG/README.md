@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What's on Tap at WT icon" width="36"> [What's on Tap at WT](http://alexa.amazon.com/#skills/amzn1.ask.skill.146e81f3-f7e7-4ef1-beb3-77b275f59809)
+# [What's on Tap at WT](http://alexa.amazon.com/#skills/amzn1.ask.skill.146e81f3-f7e7-4ef1-beb3-77b275f59809)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the What's on Tap at WT skill, try saying...

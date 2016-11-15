@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Play Blackjack icon" width="36"> [Play Blackjack](http://alexa.amazon.com/#skills/amzn1.ask.skill.8fb6e399-d431-4943-a797-7a6888e7c6ce)
+# [Play Blackjack](http://alexa.amazon.com/#skills/amzn1.ask.skill.8fb6e399-d431-4943-a797-7a6888e7c6ce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Play Blackjack skill, try saying...

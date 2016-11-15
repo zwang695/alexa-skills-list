@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Angel Fire icon" width="36"> [Snow Report for Angel Fire](http://alexa.amazon.com/#skills/amzn1.ask.skill.3065b2be-b8b4-457a-a0a1-2fe88ce3db0a)
+# [Snow Report for Angel Fire](http://alexa.amazon.com/#skills/amzn1.ask.skill.3065b2be-b8b4-457a-a0a1-2fe88ce3db0a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Angel Fire skill, try saying...

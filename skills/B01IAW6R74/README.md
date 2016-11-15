@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sushi Facts icon" width="36"> [Sushi Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.959cce93-985d-4c8a-86a9-f383516cc5f7)
+# [Sushi Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.959cce93-985d-4c8a-86a9-f383516cc5f7)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Sushi Facts skill, try saying...

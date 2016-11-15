@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What color dress should i wear icon" width="36"> [What color dress should i wear](http://alexa.amazon.com/#skills/amzn1.ask.skill.9683ec57-f3ca-45c8-a67d-98d30b983ff7)
+# [What color dress should i wear](http://alexa.amazon.com/#skills/amzn1.ask.skill.9683ec57-f3ca-45c8-a67d-98d30b983ff7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the What color dress should i wear skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mango Facts icon" width="36"> [Mango Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.caca004d-ae8e-4c2a-934a-bce78cedffe5)
+# [Mango Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.caca004d-ae8e-4c2a-934a-bce78cedffe5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mango Facts skill, try saying...

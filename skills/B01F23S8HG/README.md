@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Guide for the GVSU Technology Showcase icon" width="36"> [Guide for the GVSU Technology Showcase](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a318ff37-7332-4a87-acfa-acba00f87d09)
+# [Guide for the GVSU Technology Showcase](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a318ff37-7332-4a87-acfa-acba00f87d09)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Guide for the GVSU Technology Showcase skill, try saying...

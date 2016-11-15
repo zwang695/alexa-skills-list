@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Intive book conference room icon" width="36"> [Intive book conference room](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f78c7c8-5c1a-4322-8bdb-817165bd3f8a)
+# [Intive book conference room](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f78c7c8-5c1a-4322-8bdb-817165bd3f8a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Intive book conference room skill, try saying...

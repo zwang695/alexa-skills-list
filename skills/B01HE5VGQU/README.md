@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="World War Two Trivia icon" width="36"> [World War Two Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b004a996-fe83-4293-9401-ced050715520)
+# [World War Two Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b004a996-fe83-4293-9401-ced050715520)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the World War Two Trivia skill, try saying...

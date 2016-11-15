@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Bretton Woods icon" width="36"> [Snow Report for Bretton Woods](http://alexa.amazon.com/#skills/amzn1.ask.skill.f7b61d59-feec-4141-b36f-4b7ab99c422a)
+# [Snow Report for Bretton Woods](http://alexa.amazon.com/#skills/amzn1.ask.skill.f7b61d59-feec-4141-b36f-4b7ab99c422a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Bretton Woods skill, try saying...

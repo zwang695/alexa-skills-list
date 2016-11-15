@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Samsung ARTIK Cloud icon" width="36"> [Samsung ARTIK Cloud](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4eb4a5bf-5c51-4cd0-ba6b-a95ac8e8a38b)
+# [Samsung ARTIK Cloud](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4eb4a5bf-5c51-4cd0-ba6b-a95ac8e8a38b)
 ![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Samsung ARTIK Cloud skill, try saying...

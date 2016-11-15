@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Art of War Quotes icon" width="36"> [Art of War Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.54532127-adc3-4675-b25a-192f4bb84a65)
+# [Art of War Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.54532127-adc3-4675-b25a-192f4bb84a65)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Art of War Quotes skill, try saying...

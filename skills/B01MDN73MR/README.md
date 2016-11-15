@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Futurology News icon" width="36"> [Futurology News](http://alexa.amazon.com/#skills/amzn1.ask.skill.41156b09-678d-4f09-8b3f-1f23821ecc19)
+# [Futurology News](http://alexa.amazon.com/#skills/amzn1.ask.skill.41156b09-678d-4f09-8b3f-1f23821ecc19)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Futurology News skill, try saying...

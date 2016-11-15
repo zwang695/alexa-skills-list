@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Thoughts icon" width="36"> [Random Thoughts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a2ba5081-cdf8-457b-9cfe-977a58c8d03a)
+# [Random Thoughts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a2ba5081-cdf8-457b-9cfe-977a58c8d03a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Thoughts skill, try saying...

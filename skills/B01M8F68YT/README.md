@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Positive Quotes icon" width="36"> [Positive Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.c6cd54c0-224c-4cee-b2c5-9e36c50e7a87)
+# [Positive Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.c6cd54c0-224c-4cee-b2c5-9e36c50e7a87)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Positive Quotes skill, try saying...

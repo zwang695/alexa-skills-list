@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="RoundTuit To-Do List icon" width="36"> [RoundTuit To-Do List](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2e0c2cf-7e6e-4880-b894-c00784170090)
+# [RoundTuit To-Do List](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e2e0c2cf-7e6e-4880-b894-c00784170090)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the RoundTuit To-Do List skill, try saying...

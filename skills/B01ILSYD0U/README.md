@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wiki for Game of Thrones icon" width="36"> [Wiki for Game of Thrones](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c1225c01-57dc-41e3-8f04-1ba2e2740464)
+# [Wiki for Game of Thrones](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c1225c01-57dc-41e3-8f04-1ba2e2740464)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Wiki for Game of Thrones skill, try saying...

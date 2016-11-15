@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Prophet of Pizza icon" width="36"> [Prophet of Pizza](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.41f99781-d635-468b-8eff-8f6c2cd897e9)
+# [Prophet of Pizza](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.41f99781-d635-468b-8eff-8f6c2cd897e9)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Prophet of Pizza skill, try saying...

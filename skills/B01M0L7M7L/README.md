@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Grouse Mountain icon" width="36"> [Snow Report for Grouse Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.6e9759f6-28a0-45a9-a1c9-4a58fc82c862)
+# [Snow Report for Grouse Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.6e9759f6-28a0-45a9-a1c9-4a58fc82c862)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Grouse Mountain skill, try saying...

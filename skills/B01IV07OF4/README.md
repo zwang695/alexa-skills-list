@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Digestive System icon" width="36"> [Digestive System](http://alexa.amazon.com/#skills/amzn1.ask.skill.84e1b3fb-5c3a-42d2-acbc-f7039b60aee6)
+# [Digestive System](http://alexa.amazon.com/#skills/amzn1.ask.skill.84e1b3fb-5c3a-42d2-acbc-f7039b60aee6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Digestive System skill, try saying...

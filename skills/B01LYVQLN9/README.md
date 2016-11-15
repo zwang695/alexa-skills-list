@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mum Facts icon" width="36"> [Mum Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4bb38908-9f34-4a01-bfa1-a39c3f57433d)
+# [Mum Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4bb38908-9f34-4a01-bfa1-a39c3f57433d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mum Facts skill, try saying...

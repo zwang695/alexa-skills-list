@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="planoFacts icon" width="36"> [planoFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e6acf209-eada-4aaa-bd2e-154d9961dfaa)
+# [planoFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e6acf209-eada-4aaa-bd2e-154d9961dfaa)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the planoFacts skill, try saying...

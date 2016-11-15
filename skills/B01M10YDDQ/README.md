@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Turtle Facts icon" width="36"> [My Turtle Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a64935f9-30f2-4465-a7f8-4636a78a25ac)
+# [My Turtle Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a64935f9-30f2-4465-a7f8-4636a78a25ac)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My Turtle Facts skill, try saying...

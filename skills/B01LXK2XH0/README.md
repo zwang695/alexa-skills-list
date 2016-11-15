@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Vacation Picker icon" width="36"> [Vacation Picker](http://alexa.amazon.com/#skills/amzn1.ask.skill.34762fcb-b21e-4ba5-beb8-17b6164fc8e6)
+# [Vacation Picker](http://alexa.amazon.com/#skills/amzn1.ask.skill.34762fcb-b21e-4ba5-beb8-17b6164fc8e6)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Vacation Picker skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ear Trainer icon" width="36"> [Ear Trainer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.48e185d8-78f2-4abe-8d3c-2aff2606d40f)
+# [Ear Trainer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.48e185d8-78f2-4abe-8d3c-2aff2606d40f)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Ear Trainer skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Silicon Valley History icon" width="36"> [Silicon Valley History](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a4464cc-5ab3-4927-8973-444ad116c4fc)
+# [Silicon Valley History](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a4464cc-5ab3-4927-8973-444ad116c4fc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Silicon Valley History skill, try saying...

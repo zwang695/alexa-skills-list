@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hamburg Facts icon" width="36"> [Hamburg Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d2a97b5-5e70-493e-b894-c8f5915a1af5)
+# [Hamburg Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1d2a97b5-5e70-493e-b894-c8f5915a1af5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hamburg Facts skill, try saying...

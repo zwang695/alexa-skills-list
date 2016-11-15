@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Ski Snow Valley (ON) icon" width="36"> [Snow Report for Ski Snow Valley (ON)](http://alexa.amazon.com/#skills/amzn1.ask.skill.0d49282d-dc3d-45da-94d1-c3a8e58d6e5b)
+# [Snow Report for Ski Snow Valley (ON)](http://alexa.amazon.com/#skills/amzn1.ask.skill.0d49282d-dc3d-45da-94d1-c3a8e58d6e5b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Ski Snow Valley (ON) skill, try saying...

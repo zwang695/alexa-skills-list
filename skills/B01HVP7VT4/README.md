@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Civics Exam icon" width="36"> [Civics Exam](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6a62f1c7-c3b4-4685-be1e-c7971047e971)
+# [Civics Exam](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6a62f1c7-c3b4-4685-be1e-c7971047e971)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Civics Exam skill, try saying...

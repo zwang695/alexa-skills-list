@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia for The George Washington University icon" width="36"> [Trivia for The George Washington University](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d6882d38-5e5f-4b0c-88f0-3371b9286187)
+# [Trivia for The George Washington University](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d6882d38-5e5f-4b0c-88f0-3371b9286187)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Trivia for The George Washington University skill, try saying...

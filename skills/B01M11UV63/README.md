@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sand Creek Elementary Lunch icon" width="36"> [Sand Creek Elementary Lunch](http://alexa.amazon.com/#skills/amzn1.ask.skill.2c60854e-cb02-4a7d-95a1-39ba7719bf4f)
+# [Sand Creek Elementary Lunch](http://alexa.amazon.com/#skills/amzn1.ask.skill.2c60854e-cb02-4a7d-95a1-39ba7719bf4f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sand Creek Elementary Lunch skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="computer history buff icon" width="36"> [computer history buff](http://alexa.amazon.com/#skills/amzn1.ask.skill.bac304fd-10e9-460b-8c58-b76f492a24d6)
+# [computer history buff](http://alexa.amazon.com/#skills/amzn1.ask.skill.bac304fd-10e9-460b-8c58-b76f492a24d6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the computer history buff skill, try saying...

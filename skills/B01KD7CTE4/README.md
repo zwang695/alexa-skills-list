@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Easy Spelling Dictation icon" width="36"> [Easy Spelling Dictation](http://alexa.amazon.com/#skills/amzn1.ask.skill.bf419425-1cb2-4828-915d-552479c583bc)
+# [Easy Spelling Dictation](http://alexa.amazon.com/#skills/amzn1.ask.skill.bf419425-1cb2-4828-915d-552479c583bc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Easy Spelling Dictation skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Asessippi Ski Area icon" width="36"> [Snow Report for Asessippi Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.c55cebea-3040-4d5f-a8b2-2ee0e899cd0c)
+# [Snow Report for Asessippi Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.c55cebea-3040-4d5f-a8b2-2ee0e899cd0c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Asessippi Ski Area skill, try saying...

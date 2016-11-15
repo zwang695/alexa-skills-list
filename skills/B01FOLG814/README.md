@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Health Check for PowerChord API icon" width="36"> [Health Check for PowerChord API](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b6948949-fbfc-4e2e-9b27-e7e977662847)
+# [Health Check for PowerChord API](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b6948949-fbfc-4e2e-9b27-e7e977662847)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Health Check for PowerChord API skill, try saying...

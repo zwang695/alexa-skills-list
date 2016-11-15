@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Indian states capital icon" width="36"> [Indian states capital](http://alexa.amazon.com/#skills/amzn1.ask.skill.4751096f-affc-4428-91ec-4f15b074b50d)
+# [Indian states capital](http://alexa.amazon.com/#skills/amzn1.ask.skill.4751096f-affc-4428-91ec-4f15b074b50d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Indian states capital skill, try saying...

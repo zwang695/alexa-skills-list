@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Network Quiz icon" width="36"> [Network Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.51aef343-326b-455b-8f29-a5a4f91eb5bf)
+# [Network Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.51aef343-326b-455b-8f29-a5a4f91eb5bf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Network Quiz skill, try saying...

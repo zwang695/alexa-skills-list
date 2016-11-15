@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="TeaGuide icon" width="36"> [TeaGuide](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e204ef11-6614-473f-8aa3-02f11e4b3270)
+# [TeaGuide](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e204ef11-6614-473f-8aa3-02f11e4b3270)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the TeaGuide skill, try saying...

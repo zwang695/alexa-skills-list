@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Space news (from space.com) icon" width="36"> [Space news (from space.com)](http://alexa.amazon.com/#skills/amzn1.ask.skill.0d97b0a7-38cf-4228-add3-1c023fdfd6f9)
+# [Space news (from space.com)](http://alexa.amazon.com/#skills/amzn1.ask.skill.0d97b0a7-38cf-4228-add3-1c023fdfd6f9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Space news (from space.com) skill, try saying...

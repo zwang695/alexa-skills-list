@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Gismo icon" width="36"> [Gismo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.71e620aa-2df6-4754-b7e6-9d6aec9aad10)
+# [Gismo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.71e620aa-2df6-4754-b7e6-9d6aec9aad10)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Gismo skill, try saying...

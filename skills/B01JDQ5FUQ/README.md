@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="GeographyFlashCards icon" width="36"> [GeographyFlashCards](http://alexa.amazon.com/#skills/amzn1.ask.skill.8568e54c-3bab-479e-b751-d5289f99828c)
+# [GeographyFlashCards](http://alexa.amazon.com/#skills/amzn1.ask.skill.8568e54c-3bab-479e-b751-d5289f99828c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the GeographyFlashCards skill, try saying...

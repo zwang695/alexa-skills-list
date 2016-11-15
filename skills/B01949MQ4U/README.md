@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Woot icon" width="36"> [Woot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fdf85eaa-bfb1-4cd3-98c5-6860e92d5439)
+# [Woot](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fdf85eaa-bfb1-4cd3-98c5-6860e92d5439)
 ![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Woot skill, try saying...

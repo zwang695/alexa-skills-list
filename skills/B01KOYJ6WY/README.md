@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Net10 icon" width="36"> [Net10](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2b6675a8-a04f-4ec4-ac4e-f536ec501984)
+# [Net10](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2b6675a8-a04f-4ec4-ac4e-f536ec501984)
 ![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Net10 skill, try saying...

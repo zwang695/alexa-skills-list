@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Scots Words icon" width="36"> [Scots Words](http://alexa.amazon.com/#skills/amzn1.ask.skill.610d2477-42d1-433d-9474-efd4a8cb244f)
+# [Scots Words](http://alexa.amazon.com/#skills/amzn1.ask.skill.610d2477-42d1-433d-9474-efd4a8cb244f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Scots Words skill, try saying...

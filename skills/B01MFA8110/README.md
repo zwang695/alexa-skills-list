@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Spain Facts icon" width="36"> [Spain Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.608d7671-d619-4df6-b55f-d949ce081715)
+# [Spain Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.608d7671-d619-4df6-b55f-d949ce081715)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Spain Facts skill, try saying...

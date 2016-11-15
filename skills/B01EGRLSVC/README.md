@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Colorado Geek icon" width="36"> [Colorado Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d41f3925-7585-4d39-bb65-ba7263a835e1)
+# [Colorado Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d41f3925-7585-4d39-bb65-ba7263a835e1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Colorado Geek skill, try saying...

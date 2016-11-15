@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Trivia icon" width="36"> [Random Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.88e0e365-f566-4c47-b37a-4263ec75149f)
+# [Random Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.88e0e365-f566-4c47-b37a-4263ec75149f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Trivia skill, try saying...

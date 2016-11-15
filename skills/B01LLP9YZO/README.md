@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cat Person icon" width="36"> [Cat Person](http://alexa.amazon.com/#skills/amzn1.ask.skill.0ef04226-9025-405a-b2f8-1ee4b2afbcf6)
+# [Cat Person](http://alexa.amazon.com/#skills/amzn1.ask.skill.0ef04226-9025-405a-b2f8-1ee4b2afbcf6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cat Person skill, try saying...

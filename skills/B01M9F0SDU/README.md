@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Letter icon" width="36"> [Random Letter](http://alexa.amazon.com/#skills/amzn1.ask.skill.766efc08-a21c-4209-8b42-883396e7017a)
+# [Random Letter](http://alexa.amazon.com/#skills/amzn1.ask.skill.766efc08-a21c-4209-8b42-883396e7017a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Letter skill, try saying...

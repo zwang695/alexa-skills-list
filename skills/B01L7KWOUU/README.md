@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ferret Facts icon" width="36"> [Ferret Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4e57d6a7-7add-4d25-a1ec-9f0ea7117247)
+# [Ferret Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4e57d6a7-7add-4d25-a1ec-9f0ea7117247)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ferret Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tech Facts icon" width="36"> [Tech Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.91d37181-07cd-42de-9371-84d5f37ca5f4)
+# [Tech Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.91d37181-07cd-42de-9371-84d5f37ca5f4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tech Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Holiday Mountain icon" width="36"> [Snow Report for Holiday Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.fef51fe8-72fd-4a63-9a6a-f6231ed378de)
+# [Snow Report for Holiday Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.fef51fe8-72fd-4a63-9a6a-f6231ed378de)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Holiday Mountain skill, try saying...

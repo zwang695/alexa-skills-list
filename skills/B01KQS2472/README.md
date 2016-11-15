@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Funny Calc icon" width="36"> [Funny Calc](http://alexa.amazon.com/#skills/amzn1.ask.skill.599689a2-1648-42a0-8404-17006761c24c)
+# [Funny Calc](http://alexa.amazon.com/#skills/amzn1.ask.skill.599689a2-1648-42a0-8404-17006761c24c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Funny Calc skill, try saying...

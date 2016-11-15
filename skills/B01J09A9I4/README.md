@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="TechNoiser icon" width="36"> [TechNoiser](http://alexa.amazon.com/#skills/amzn1.ask.skill.0436b074-cd67-4284-ab03-af4fb901aad0)
+# [TechNoiser](http://alexa.amazon.com/#skills/amzn1.ask.skill.0436b074-cd67-4284-ab03-af4fb901aad0)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the TechNoiser skill, try saying...

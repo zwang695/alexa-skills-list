@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CouchPotato icon" width="36"> [CouchPotato](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8440896f-36e9-4be0-83ff-bacb7317aeec)
+# [CouchPotato](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8440896f-36e9-4be0-83ff-bacb7317aeec)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the CouchPotato skill, try saying...

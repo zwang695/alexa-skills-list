@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mythical Unicorn Trivia icon" width="36"> [Mythical Unicorn Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.977eb2cf-4132-42d9-8ede-ca7ae0999197)
+# [Mythical Unicorn Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.977eb2cf-4132-42d9-8ede-ca7ae0999197)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mythical Unicorn Trivia skill, try saying...

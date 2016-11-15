@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Teach Alexa new responses - Prank your friends icon" width="36"> [Teach Alexa new responses - Prank your friends](http://alexa.amazon.com/#skills/amzn1.ask.skill.c640caa0-d753-4ed6-8065-78c41b8047ff)
+# [Teach Alexa new responses - Prank your friends](http://alexa.amazon.com/#skills/amzn1.ask.skill.c640caa0-d753-4ed6-8065-78c41b8047ff)
 ![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 14
 
 To use the Teach Alexa new responses - Prank your friends skill, try saying...

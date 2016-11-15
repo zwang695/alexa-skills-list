@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Fairmont Hot Springs icon" width="36"> [Snow Report for Fairmont Hot Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad979102-3189-4bc1-9f1f-8f54a37a5d75)
+# [Snow Report for Fairmont Hot Springs](http://alexa.amazon.com/#skills/amzn1.ask.skill.ad979102-3189-4bc1-9f1f-8f54a37a5d75)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Fairmont Hot Springs skill, try saying...

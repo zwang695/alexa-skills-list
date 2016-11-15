@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Hot News icon" width="36"> [The Hot News](http://alexa.amazon.com/#skills/amzn1.ask.skill.ab8cc3a4-aa5d-49ab-a6a0-c01b3103c42e)
+# [The Hot News](http://alexa.amazon.com/#skills/amzn1.ask.skill.ab8cc3a4-aa5d-49ab-a6a0-c01b3103c42e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Hot News skill, try saying...

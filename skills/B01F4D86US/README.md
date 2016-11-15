@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Insult Skill icon" width="36"> [Insult Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fbdbe68c-7240-43f3-a5f7-b599daaa85eb)
+# [Insult Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fbdbe68c-7240-43f3-a5f7-b599daaa85eb)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Insult Skill skill, try saying...

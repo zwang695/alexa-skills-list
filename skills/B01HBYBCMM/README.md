@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Our Father icon" width="36"> [Our Father](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f24335b7-a536-4e42-9df8-de0427ee2063)
+# [Our Father](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f24335b7-a536-4e42-9df8-de0427ee2063)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Our Father skill, try saying...

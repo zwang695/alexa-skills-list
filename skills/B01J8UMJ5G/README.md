@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Meal Planner icon" width="36"> [Meal Planner](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f335aed-a5e5-43b6-b2ca-d61275383a73)
+# [Meal Planner](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f335aed-a5e5-43b6-b2ca-d61275383a73)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Meal Planner skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Bogus Basin icon" width="36"> [Snow Report for Bogus Basin](http://alexa.amazon.com/#skills/amzn1.ask.skill.d8936c5e-84a5-43af-8b56-8a26a02ffcf4)
+# [Snow Report for Bogus Basin](http://alexa.amazon.com/#skills/amzn1.ask.skill.d8936c5e-84a5-43af-8b56-8a26a02ffcf4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Bogus Basin skill, try saying...

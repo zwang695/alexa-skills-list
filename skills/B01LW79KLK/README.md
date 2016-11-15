@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="unofficialWhatSimpsonsCharacterAmI icon" width="36"> [unofficialWhatSimpsonsCharacterAmI](http://alexa.amazon.com/#skills/amzn1.ask.skill.67b5add8-2489-4128-95ca-9e3fc69ac60b)
+# [unofficialWhatSimpsonsCharacterAmI](http://alexa.amazon.com/#skills/amzn1.ask.skill.67b5add8-2489-4128-95ca-9e3fc69ac60b)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the unofficialWhatSimpsonsCharacterAmI skill, try saying...

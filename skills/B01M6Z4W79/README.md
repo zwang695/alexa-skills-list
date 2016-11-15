@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Hermon Mountain icon" width="36"> [Snow Report for Hermon Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e9fc5dea-14a5-477f-9057-6154626e45b6)
+# [Snow Report for Hermon Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e9fc5dea-14a5-477f-9057-6154626e45b6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Hermon Mountain skill, try saying...

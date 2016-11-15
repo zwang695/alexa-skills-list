@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wiser Air icon" width="36"> [Wiser Air](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3127b7f5-8b52-4fa8-8107-64ac08eea339)
+# [Wiser Air](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3127b7f5-8b52-4fa8-8107-64ac08eea339)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Wiser Air skill, try saying...

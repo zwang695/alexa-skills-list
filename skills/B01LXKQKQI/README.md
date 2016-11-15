@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mr. Robot Fan Trivia icon" width="36"> [Mr. Robot Fan Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.3c53ab9b-3503-42b3-aaaf-3d7bf137fa62)
+# [Mr. Robot Fan Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.3c53ab9b-3503-42b3-aaaf-3d7bf137fa62)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Mr. Robot Fan Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="RabbitFacts icon" width="36"> [RabbitFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d84bc82e-aecf-423d-ba35-9524be79ee50)
+# [RabbitFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d84bc82e-aecf-423d-ba35-9524be79ee50)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the RabbitFacts skill, try saying...

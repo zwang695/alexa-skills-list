@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts for Formula 1 icon" width="36"> [Facts for Formula 1](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.abc49f37-df32-41df-95e4-6d8981a0d4f7)
+# [Facts for Formula 1](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.abc49f37-df32-41df-95e4-6d8981a0d4f7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts for Formula 1 skill, try saying...

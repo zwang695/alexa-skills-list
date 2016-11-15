@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sage of Elements icon" width="36"> [Sage of Elements](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.87ab5ac7-9bc4-4d7a-bea3-1df75a178e31)
+# [Sage of Elements](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.87ab5ac7-9bc4-4d7a-bea3-1df75a178e31)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Sage of Elements skill, try saying...

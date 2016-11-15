@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lunar Date icon" width="36"> [Lunar Date](http://alexa.amazon.com/#skills/amzn1.ask.skill.3d020a14-653a-48af-9388-f6b6f4f7dbd2)
+# [Lunar Date](http://alexa.amazon.com/#skills/amzn1.ask.skill.3d020a14-653a-48af-9388-f6b6f4f7dbd2)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Lunar Date skill, try saying...

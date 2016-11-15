@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HockeyGeek icon" width="36"> [HockeyGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f1bf962b-b980-4a90-8269-0c701d3e0a0c)
+# [HockeyGeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f1bf962b-b980-4a90-8269-0c701d3e0a0c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the HockeyGeek skill, try saying...

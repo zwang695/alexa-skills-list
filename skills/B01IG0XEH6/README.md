@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Interesting Indian Facts icon" width="36"> [Interesting Indian Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dfdc6852-efa3-4c41-bbcd-cb40bb34cf14)
+# [Interesting Indian Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dfdc6852-efa3-4c41-bbcd-cb40bb34cf14)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Interesting Indian Facts skill, try saying...

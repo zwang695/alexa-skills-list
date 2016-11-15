@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Adam Pippert Fact Skill icon" width="36"> [Adam Pippert Fact Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5024c565-b6f9-4711-a1d9-fda80da53598)
+# [Adam Pippert Fact Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5024c565-b6f9-4711-a1d9-fda80da53598)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Adam Pippert Fact Skill skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Celebrity Page icon" width="36"> [Celebrity Page](http://alexa.amazon.com/#skills/amzn1.ask.skill.585b814d-833c-41f4-bf68-9330c599e994)
+# [Celebrity Page](http://alexa.amazon.com/#skills/amzn1.ask.skill.585b814d-833c-41f4-bf68-9330c599e994)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Celebrity Page skill, try saying...

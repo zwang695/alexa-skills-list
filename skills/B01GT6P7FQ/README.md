@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Ching icon" width="36"> [My Ching](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7ec98afa-a006-491f-a64f-067b2c90323e)
+# [My Ching](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7ec98afa-a006-491f-a64f-067b2c90323e)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the My Ching skill, try saying...

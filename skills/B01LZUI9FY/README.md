@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Programming Jokes icon" width="36"> [Programming Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b4c6b73-7676-4e41-ab21-702b1ee573de)
+# [Programming Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b4c6b73-7676-4e41-ab21-702b1ee573de)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Programming Jokes skill, try saying...

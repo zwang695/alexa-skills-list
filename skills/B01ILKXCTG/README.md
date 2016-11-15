@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Kitchen Tips icon" width="36"> [Kitchen Tips](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.56bc7c86-a6c2-46e9-9db4-06c3405a29c1)
+# [Kitchen Tips](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.56bc7c86-a6c2-46e9-9db4-06c3405a29c1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Kitchen Tips skill, try saying...

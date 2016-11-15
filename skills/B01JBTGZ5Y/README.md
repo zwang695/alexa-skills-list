@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Marco Polo icon" width="36"> [Marco Polo](http://alexa.amazon.com/#skills/amzn1.ask.skill.86c1b324-5722-4e80-a07a-3c4692984130)
+# [Marco Polo](http://alexa.amazon.com/#skills/amzn1.ask.skill.86c1b324-5722-4e80-a07a-3c4692984130)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Marco Polo skill, try saying...

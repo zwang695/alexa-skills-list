@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for McIntyre Ski Area icon" width="36"> [Snow Report for McIntyre Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.2a2a35ec-9cc5-4db2-8d1a-ee3a80445511)
+# [Snow Report for McIntyre Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.2a2a35ec-9cc5-4db2-8d1a-ee3a80445511)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for McIntyre Ski Area skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Friends Fan Quiz icon" width="36"> [Friends Fan Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.0c30530b-6573-43bd-8ba4-5e8f1d88aab1)
+# [Friends Fan Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.0c30530b-6573-43bd-8ba4-5e8f1d88aab1)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Friends Fan Quiz skill, try saying...

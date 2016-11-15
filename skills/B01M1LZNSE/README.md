@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Earth Object Watcher icon" width="36"> [Earth Object Watcher](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd8618d9-67c0-4fc1-a812-e3a5060c2e79)
+# [Earth Object Watcher](http://alexa.amazon.com/#skills/amzn1.ask.skill.bd8618d9-67c0-4fc1-a812-e3a5060c2e79)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Earth Object Watcher skill, try saying...

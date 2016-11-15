@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Texas Trivia icon" width="36"> [Texas Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.167485ac-36c8-4afd-90f5-ff7052248a19)
+# [Texas Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.167485ac-36c8-4afd-90f5-ff7052248a19)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Texas Trivia skill, try saying...

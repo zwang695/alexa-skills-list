@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Portugal Facts icon" width="36"> [Portugal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb4e5669-5702-4b01-9994-11675ed855a2)
+# [Portugal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb4e5669-5702-4b01-9994-11675ed855a2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Portugal Facts skill, try saying...

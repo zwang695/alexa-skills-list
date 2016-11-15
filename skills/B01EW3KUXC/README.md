@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Name My Grandkids icon" width="36"> [Name My Grandkids](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b7ba16b5-835d-48a4-8eef-b6c465a3e012)
+# [Name My Grandkids](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b7ba16b5-835d-48a4-8eef-b6c465a3e012)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Name My Grandkids skill, try saying...

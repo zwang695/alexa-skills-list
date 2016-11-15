@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Seymour Says icon" width="36"> [Seymour Says](http://alexa.amazon.com/#skills/amzn1.ask.skill.bb889f49-4580-45eb-b25c-c2dfaa253c11)
+# [Seymour Says](http://alexa.amazon.com/#skills/amzn1.ask.skill.bb889f49-4580-45eb-b25c-c2dfaa253c11)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Seymour Says skill, try saying...

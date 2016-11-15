@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ingrein Clock icon" width="36"> [Ingrein Clock](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7ba454bf-fc54-4140-ad10-3e429605ab95)
+# [Ingrein Clock](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7ba454bf-fc54-4140-ad10-3e429605ab95)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ingrein Clock skill, try saying...

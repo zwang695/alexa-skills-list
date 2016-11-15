@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Basket Savings icon" width="36"> [Basket Savings](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a54413d0-0f60-43ff-8274-d9ca923c48c2)
+# [Basket Savings](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a54413d0-0f60-43ff-8274-d9ca923c48c2)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Basket Savings skill, try saying...

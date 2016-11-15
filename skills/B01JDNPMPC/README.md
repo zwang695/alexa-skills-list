@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BasketballFlashCardsSJC icon" width="36"> [BasketballFlashCardsSJC](http://alexa.amazon.com/#skills/amzn1.ask.skill.30c871d2-5b9c-4112-8654-1a84a97be5ef)
+# [BasketballFlashCardsSJC](http://alexa.amazon.com/#skills/amzn1.ask.skill.30c871d2-5b9c-4112-8654-1a84a97be5ef)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BasketballFlashCardsSJC skill, try saying...

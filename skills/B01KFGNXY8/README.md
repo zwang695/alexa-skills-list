@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Guess My Number icon" width="36"> [Guess My Number](http://alexa.amazon.com/#skills/amzn1.ask.skill.adbe76d9-de01-452f-a87f-f6fa1b5006f3)
+# [Guess My Number](http://alexa.amazon.com/#skills/amzn1.ask.skill.adbe76d9-de01-452f-a87f-f6fa1b5006f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Guess My Number skill, try saying...

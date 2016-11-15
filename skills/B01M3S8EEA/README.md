@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Snow Snake icon" width="36"> [Snow Report for Snow Snake](http://alexa.amazon.com/#skills/amzn1.ask.skill.4a389cd5-e8d0-4bce-9de6-694226ac5bdb)
+# [Snow Report for Snow Snake](http://alexa.amazon.com/#skills/amzn1.ask.skill.4a389cd5-e8d0-4bce-9de6-694226ac5bdb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Snow Snake skill, try saying...

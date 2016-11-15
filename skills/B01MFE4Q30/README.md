@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ideas for saving energy icon" width="36"> [Ideas for saving energy](http://alexa.amazon.com/#skills/amzn1.ask.skill.9c9489c1-d70c-43fc-ab69-299d2d02673b)
+# [Ideas for saving energy](http://alexa.amazon.com/#skills/amzn1.ask.skill.9c9489c1-d70c-43fc-ab69-299d2d02673b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ideas for saving energy skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Das Örtliche Service- und Marketing GmbH](http://alexa.amazon.com/#skills/amzn1.ask.skill.73e4cdbd-0ec8-48e5-b6d0-7e48a013fbeb)
+# [Das Örtliche Service- und Marketing GmbH](http://alexa.amazon.com/#skills/amzn1.ask.skill.73e4cdbd-0ec8-48e5-b6d0-7e48a013fbeb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

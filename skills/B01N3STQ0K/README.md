@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Black Mountain of Maine icon" width="36"> [Snow Report for Black Mountain of Maine](http://alexa.amazon.com/#skills/amzn1.ask.skill.f16905f8-028c-4761-b1e6-4567b65137b2)
+# [Snow Report for Black Mountain of Maine](http://alexa.amazon.com/#skills/amzn1.ask.skill.f16905f8-028c-4761-b1e6-4567b65137b2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Black Mountain of Maine skill, try saying...

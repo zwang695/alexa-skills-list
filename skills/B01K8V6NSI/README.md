@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Earplay icon" width="36"> [Earplay](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1a4606a7-20cc-406b-be84-e98ee4b871c9)
+# [Earplay](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1a4606a7-20cc-406b-be84-e98ee4b871c9)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 71
 
 To use the Earplay skill, try saying...

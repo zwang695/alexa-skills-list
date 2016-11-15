@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Octo Assist icon" width="36"> [Octo Assist](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.27eb40b7-28bc-4a49-8b19-729165e132f3)
+# [Octo Assist](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.27eb40b7-28bc-4a49-8b19-729165e132f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Octo Assist skill, try saying...

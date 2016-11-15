@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sports hosts icon" width="36"> [Sports hosts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7d04c7f8-7aa0-4dc8-bbeb-763410fd0f3a)
+# [Sports hosts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7d04c7f8-7aa0-4dc8-bbeb-763410fd0f3a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sports hosts skill, try saying...

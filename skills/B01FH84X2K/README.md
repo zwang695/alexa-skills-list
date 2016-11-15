@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="EV Charging icon" width="36"> [EV Charging](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0296564c-0b79-4664-918f-ed78ddd8241d)
+# [EV Charging](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0296564c-0b79-4664-918f-ed78ddd8241d)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
 
 To use the EV Charging skill, try saying...

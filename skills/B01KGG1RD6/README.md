@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Day Assistant icon" width="36"> [Snow Day Assistant](http://alexa.amazon.com/#skills/amzn1.ask.skill.da7fccb6-312c-402f-a05a-4a935d508270)
+# [Snow Day Assistant](http://alexa.amazon.com/#skills/amzn1.ask.skill.da7fccb6-312c-402f-a05a-4a935d508270)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Day Assistant skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Top News icon" width="36"> [Top News](http://alexa.amazon.com/#skills/amzn1.ask.skill.36267067-d40c-460c-b07b-cc603b97be1b)
+# [Top News](http://alexa.amazon.com/#skills/amzn1.ask.skill.36267067-d40c-460c-b07b-cc603b97be1b)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Top News skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Silence is golden icon" width="36"> [Silence is golden](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.969ff171-14e5-4618-99a4-32eea363385d)
+# [Silence is golden](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.969ff171-14e5-4618-99a4-32eea363385d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Silence is golden skill, try saying...

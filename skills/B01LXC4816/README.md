@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What should I watch icon" width="36"> [What should I watch](http://alexa.amazon.com/#skills/amzn1.ask.skill.260e297b-3047-40be-9090-fa3aa3161023)
+# [What should I watch](http://alexa.amazon.com/#skills/amzn1.ask.skill.260e297b-3047-40be-9090-fa3aa3161023)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the What should I watch skill, try saying...

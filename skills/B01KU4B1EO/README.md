@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sayspring icon" width="36"> [Sayspring](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.144c0311-b0d8-4528-87fa-536911ebb95a)
+# [Sayspring](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.144c0311-b0d8-4528-87fa-536911ebb95a)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Sayspring skill, try saying...

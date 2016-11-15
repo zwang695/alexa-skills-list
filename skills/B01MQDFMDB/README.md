@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Hidden Valley Resort (PA) icon" width="36"> [Snow Report for Hidden Valley Resort (PA)](http://alexa.amazon.com/#skills/amzn1.ask.skill.22bee65f-3fb4-4f41-b4fa-7f2ebc5649f4)
+# [Snow Report for Hidden Valley Resort (PA)](http://alexa.amazon.com/#skills/amzn1.ask.skill.22bee65f-3fb4-4f41-b4fa-7f2ebc5649f4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Hidden Valley Resort (PA) skill, try saying...

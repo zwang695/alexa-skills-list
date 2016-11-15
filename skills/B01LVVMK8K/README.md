@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Yoga Facts icon" width="36"> [Yoga Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.874ba34c-72fa-4d3a-b446-fb4ce3086ece)
+# [Yoga Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.874ba34c-72fa-4d3a-b446-fb4ce3086ece)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Yoga Facts skill, try saying...

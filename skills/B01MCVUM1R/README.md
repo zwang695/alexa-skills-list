@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Ashley Medway](http://alexa.amazon.com/#skills/amzn1.ask.skill.4aa3496e-5c4e-413e-9154-e981ccf1506f)
+# [Ashley Medway](http://alexa.amazon.com/#skills/amzn1.ask.skill.4aa3496e-5c4e-413e-9154-e981ccf1506f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

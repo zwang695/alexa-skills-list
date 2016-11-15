@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="rugby facts icon" width="36"> [rugby facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.60d83d5a-9046-4ad9-8a1a-ef41084bdb76)
+# [rugby facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.60d83d5a-9046-4ad9-8a1a-ef41084bdb76)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the rugby facts skill, try saying...

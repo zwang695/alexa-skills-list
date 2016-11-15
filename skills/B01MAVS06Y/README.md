@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Batman Fan Facts icon" width="36"> [Batman Fan Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4262f44b-fa95-4971-b744-952196be1819)
+# [Batman Fan Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4262f44b-fa95-4971-b744-952196be1819)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Batman Fan Facts skill, try saying...

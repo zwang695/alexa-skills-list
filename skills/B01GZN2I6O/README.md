@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lebanon Trivia icon" width="36"> [Lebanon Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4de626e1-1136-4c9c-8dbe-da2f19e3d0b8)
+# [Lebanon Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4de626e1-1136-4c9c-8dbe-da2f19e3d0b8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lebanon Trivia skill, try saying...

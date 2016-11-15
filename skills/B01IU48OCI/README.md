@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Frigidaire icon" width="36"> [Frigidaire](http://alexa.amazon.com/#skills/amzn1.ask.skill.e862c0bc-54d1-46c0-940f-d0994407fafb)
+# [Frigidaire](http://alexa.amazon.com/#skills/amzn1.ask.skill.e862c0bc-54d1-46c0-940f-d0994407fafb)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 Alexa can help you control your Frigidaire Cool Connect Smart Air Conditioners.

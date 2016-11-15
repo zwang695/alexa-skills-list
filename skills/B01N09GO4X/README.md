@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="turtle facts icon" width="36"> [turtle facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8917f9a3-e29e-4a8e-a78a-11b5325718b3)
+# [turtle facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8917f9a3-e29e-4a8e-a78a-11b5325718b3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the turtle facts skill, try saying...

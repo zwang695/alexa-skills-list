@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Crystal Mountain Resort icon" width="36"> [Snow Report for Crystal Mountain Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.067ba248-708e-4e0f-b9fe-db27c53937d8)
+# [Snow Report for Crystal Mountain Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.067ba248-708e-4e0f-b9fe-db27c53937d8)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Snow Report for Crystal Mountain Resort skill, try saying...

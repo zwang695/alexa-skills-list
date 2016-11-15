@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="mySFacts icon" width="36"> [mySFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7ad8a2ee-4975-4fd0-a978-31c1aa6e9672)
+# [mySFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7ad8a2ee-4975-4fd0-a978-31c1aa6e9672)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the mySFacts skill, try saying...

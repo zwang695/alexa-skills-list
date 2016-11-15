@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="LDS Fun Facts icon" width="36"> [LDS Fun Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.958c8d41-a73f-4630-a8ad-26017659eeea)
+# [LDS Fun Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.958c8d41-a73f-4630-a8ad-26017659eeea)
 ![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the LDS Fun Facts skill, try saying...

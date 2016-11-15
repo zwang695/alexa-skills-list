@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Trivia for Taylor Swift icon" width="36"> [Trivia for Taylor Swift](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e7a04f23-1eab-4526-ac2f-2f8767841d05)
+# [Trivia for Taylor Swift](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e7a04f23-1eab-4526-ac2f-2f8767841d05)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Trivia for Taylor Swift skill, try saying...

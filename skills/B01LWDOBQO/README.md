@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Vegan Facts icon" width="36"> [Vegan Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.aff200f1-6c63-4e43-a70f-aa3225801e4e)
+# [Vegan Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.aff200f1-6c63-4e43-a70f-aa3225801e4e)
 ![1.7 stars](../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Vegan Facts skill, try saying...

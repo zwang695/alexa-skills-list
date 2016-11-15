@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="GameTracker icon" width="36"> [GameTracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.61c0eba3-1d90-4f59-bbe5-95ad7ab636ee)
+# [GameTracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.61c0eba3-1d90-4f59-bbe5-95ad7ab636ee)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the GameTracker skill, try saying...

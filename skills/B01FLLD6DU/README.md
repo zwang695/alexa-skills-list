@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Instant Inspiration icon" width="36"> [Instant Inspiration](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b446c957-f438-4aa0-bc87-508b47c6472f)
+# [Instant Inspiration](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b446c957-f438-4aa0-bc87-508b47c6472f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Instant Inspiration skill, try saying...

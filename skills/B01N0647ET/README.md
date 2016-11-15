@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Whale Facts icon" width="36"> [Whale Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d44981a-1abc-4a0a-bfee-59bc5a73db3c)
+# [Whale Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d44981a-1abc-4a0a-bfee-59bc5a73db3c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Whale Facts skill, try saying...

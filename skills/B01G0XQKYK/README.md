@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CodeBreaker icon" width="36"> [CodeBreaker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e00705b8-73c0-44fe-8e93-8fd65dea8968)
+# [CodeBreaker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e00705b8-73c0-44fe-8e93-8fd65dea8968)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the CodeBreaker skill, try saying...

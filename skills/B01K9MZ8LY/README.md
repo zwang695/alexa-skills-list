@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random NYC Museum icon" width="36"> [Random NYC Museum](http://alexa.amazon.com/#skills/amzn1.ask.skill.afcc517b-35fa-431d-bb7b-ab1a56603639)
+# [Random NYC Museum](http://alexa.amazon.com/#skills/amzn1.ask.skill.afcc517b-35fa-431d-bb7b-ab1a56603639)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random NYC Museum skill, try saying...

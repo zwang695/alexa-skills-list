@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Troy Oz Quotes icon" width="36"> [Troy Oz Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.8337a906-3689-4c69-a0ab-3d4db1d2a82c)
+# [Troy Oz Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.8337a906-3689-4c69-a0ab-3d4db1d2a82c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Troy Oz Quotes skill, try saying...

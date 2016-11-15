@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Val D'Irene icon" width="36"> [Snow Report for Val D'Irene](http://alexa.amazon.com/#skills/amzn1.ask.skill.06beb365-f4ba-49f5-ac61-47518c785dca)
+# [Snow Report for Val D'Irene](http://alexa.amazon.com/#skills/amzn1.ask.skill.06beb365-f4ba-49f5-ac61-47518c785dca)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Val D'Irene skill, try saying...

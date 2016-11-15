@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bomb Diffuser icon" width="36"> [Bomb Diffuser](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.123b9260-d4e8-4daf-abe9-5b49d9764f8d)
+# [Bomb Diffuser](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.123b9260-d4e8-4daf-abe9-5b49d9764f8d)
 ![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Bomb Diffuser skill, try saying...

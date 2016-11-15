@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Developer Games icon" width="36"> [Developer Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db598a70-ed8d-4777-89f9-22b2511964dd)
+# [Developer Games](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db598a70-ed8d-4777-89f9-22b2511964dd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Developer Games skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Converge icon" width="36"> [Converge](http://alexa.amazon.com/#skills/amzn1.ask.skill.c0ebffad-71e6-4517-b11e-ec0846624b60)
+# [Converge](http://alexa.amazon.com/#skills/amzn1.ask.skill.c0ebffad-71e6-4517-b11e-ec0846624b60)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Converge skill, try saying...

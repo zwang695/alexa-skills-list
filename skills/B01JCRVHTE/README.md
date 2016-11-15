@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Robotics and AI icon" width="36"> [Robotics and AI](http://alexa.amazon.com/#skills/amzn1.ask.skill.afd16932-db4e-42a4-a5f7-c8c1c5ba0679)
+# [Robotics and AI](http://alexa.amazon.com/#skills/amzn1.ask.skill.afd16932-db4e-42a4-a5f7-c8c1c5ba0679)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Robotics and AI skill, try saying...

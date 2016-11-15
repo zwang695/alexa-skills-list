@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Couch Hunter icon" width="36"> [The Couch Hunter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6572f404-e6bd-412d-b087-433e65e91339)
+# [The Couch Hunter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6572f404-e6bd-412d-b087-433e65e91339)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Couch Hunter skill, try saying...

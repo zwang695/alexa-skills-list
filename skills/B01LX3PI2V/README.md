@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Wolf Creek icon" width="36"> [Snow Report for Wolf Creek](http://alexa.amazon.com/#skills/amzn1.ask.skill.a12307d2-3934-409f-8c9e-fbce7d2632a0)
+# [Snow Report for Wolf Creek](http://alexa.amazon.com/#skills/amzn1.ask.skill.a12307d2-3934-409f-8c9e-fbce7d2632a0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Wolf Creek skill, try saying...

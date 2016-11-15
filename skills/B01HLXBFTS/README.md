@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computer Science Flash Cards icon" width="36"> [Computer Science Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.00b028bb-a9af-4e8a-bccb-8fe234a9ad15)
+# [Computer Science Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.00b028bb-a9af-4e8a-bccb-8fe234a9ad15)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Computer Science Flash Cards skill, try saying...

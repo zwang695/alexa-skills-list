@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Science News icon" width="36"> [Science News](http://alexa.amazon.com/#skills/amzn1.ask.skill.b32619bc-b7a1-4438-a04b-bcf05a8b52a4)
+# [Science News](http://alexa.amazon.com/#skills/amzn1.ask.skill.b32619bc-b7a1-4438-a04b-bcf05a8b52a4)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Science News skill, try saying...

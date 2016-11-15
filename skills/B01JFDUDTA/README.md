@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Life on Mars Facts icon" width="36"> [Life on Mars Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.eaa17ddd-d17e-4e79-8496-18e669566899)
+# [Life on Mars Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.eaa17ddd-d17e-4e79-8496-18e669566899)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Life on Mars Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Doctor Types Flash Cards icon" width="36"> [Doctor Types Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.610a1e25-8a8c-4304-b052-45f959662204)
+# [Doctor Types Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.610a1e25-8a8c-4304-b052-45f959662204)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Doctor Types Flash Cards skill, try saying...

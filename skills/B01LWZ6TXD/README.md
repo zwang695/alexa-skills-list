@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="RollerCoaster Trivia icon" width="36"> [RollerCoaster Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.e96bad5f-ef5e-4fe4-ba0c-92a76f58c64b)
+# [RollerCoaster Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.e96bad5f-ef5e-4fe4-ba0c-92a76f58c64b)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the RollerCoaster Trivia skill, try saying...

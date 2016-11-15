@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="AP US History quiz icon" width="36"> [AP US History quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.8cd65e82-fa31-437b-89ae-8271ae9e03e7)
+# [AP US History quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.8cd65e82-fa31-437b-89ae-8271ae9e03e7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the AP US History quiz skill, try saying...

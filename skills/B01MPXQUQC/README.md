@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="RPG Human Name Generator icon" width="36"> [RPG Human Name Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.54ed7aa9-3b1b-4941-b0ed-2140f0ea5ffe)
+# [RPG Human Name Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.54ed7aa9-3b1b-4941-b0ed-2140f0ea5ffe)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the RPG Human Name Generator skill, try saying...

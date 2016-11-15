@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="FlightFactSkill icon" width="36"> [FlightFactSkill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9694e31c-ba60-4ce7-adda-6ac69b81e637)
+# [FlightFactSkill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9694e31c-ba60-4ce7-adda-6ac69b81e637)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the FlightFactSkill skill, try saying...

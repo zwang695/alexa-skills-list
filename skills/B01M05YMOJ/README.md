@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Japanese Movies icon" width="36"> [Japanese Movies](http://alexa.amazon.com/#skills/amzn1.ask.skill.e3d3c7af-01e4-4be2-af18-365ac14f2052)
+# [Japanese Movies](http://alexa.amazon.com/#skills/amzn1.ask.skill.e3d3c7af-01e4-4be2-af18-365ac14f2052)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Japanese Movies skill, try saying...

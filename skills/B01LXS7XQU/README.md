@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HacksterSEA Facts icon" width="36"> [HacksterSEA Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5bd6de6a-45cf-4a1f-babd-5685a9e012c5)
+# [HacksterSEA Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5bd6de6a-45cf-4a1f-babd-5685a9e012c5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the HacksterSEA Facts skill, try saying...

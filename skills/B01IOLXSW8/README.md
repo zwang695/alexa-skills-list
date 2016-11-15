@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Robot Roxie icon" width="36"> [Robot Roxie](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.be12c091-892e-4c70-a548-73ba6e137ce9)
+# [Robot Roxie](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.be12c091-892e-4c70-a548-73ba6e137ce9)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Robot Roxie skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Critical Hit icon" width="36"> [Critical Hit](http://alexa.amazon.com/#skills/amzn1.ask.skill.6724b2ec-54cc-443a-8435-782336faa24d)
+# [Critical Hit](http://alexa.amazon.com/#skills/amzn1.ask.skill.6724b2ec-54cc-443a-8435-782336faa24d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Critical Hit skill, try saying...

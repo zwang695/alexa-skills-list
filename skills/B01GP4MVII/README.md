@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BourbonHelper icon" width="36"> [BourbonHelper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d5f481ca-24f1-476e-b447-8288dd4d0e59)
+# [BourbonHelper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d5f481ca-24f1-476e-b447-8288dd4d0e59)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the BourbonHelper skill, try saying...

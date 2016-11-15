@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Dry Hill icon" width="36"> [Snow Report for Dry Hill](http://alexa.amazon.com/#skills/amzn1.ask.skill.a3e46a0a-7fce-47f8-bd16-38f5bdebcff2)
+# [Snow Report for Dry Hill](http://alexa.amazon.com/#skills/amzn1.ask.skill.a3e46a0a-7fce-47f8-bd16-38f5bdebcff2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Dry Hill skill, try saying...

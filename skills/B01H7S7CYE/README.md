@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="WigWag Skill icon" width="36"> [WigWag Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1e416271-36c5-46e2-b463-9644eed03421)
+# [WigWag Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1e416271-36c5-46e2-b463-9644eed03421)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the WigWag Skill skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Poker Stats icon" width="36"> [Poker Stats](http://alexa.amazon.com/#skills/amzn1.ask.skill.a24fe11a-2ce2-4cf0-bc58-ff5bc3c1e930)
+# [Poker Stats](http://alexa.amazon.com/#skills/amzn1.ask.skill.a24fe11a-2ce2-4cf0-bc58-ff5bc3c1e930)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Poker Stats skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tricities Karaoke icon" width="36"> [Tricities Karaoke](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.946cf7f2-dc74-400b-a101-9a71e9c83e95)
+# [Tricities Karaoke](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.946cf7f2-dc74-400b-a101-9a71e9c83e95)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Tricities Karaoke skill, try saying...

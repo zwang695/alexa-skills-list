@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="State Capitals  Flash Cards icon" width="36"> [State Capitals  Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.34400ea0-0027-436e-9859-84ce324c2dd4)
+# [State Capitals  Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.34400ea0-0027-436e-9859-84ce324c2dd4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the State Capitals  Flash Cards skill, try saying...

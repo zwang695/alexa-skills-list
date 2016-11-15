@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="smartzen icon" width="36"> [smartzen](http://alexa.amazon.com/#skills/amzn1.ask.skill.eff3973f-c005-4fee-9b9f-89fd1ee892e1)
+# [smartzen](http://alexa.amazon.com/#skills/amzn1.ask.skill.eff3973f-c005-4fee-9b9f-89fd1ee892e1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the smartzen skill, try saying...

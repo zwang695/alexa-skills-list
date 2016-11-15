@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Filmmaking Trivia icon" width="36"> [Filmmaking Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f2597ee3-9561-450c-9fc2-e78c5c6bb900)
+# [Filmmaking Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.f2597ee3-9561-450c-9fc2-e78c5c6bb900)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Filmmaking Trivia skill, try saying...

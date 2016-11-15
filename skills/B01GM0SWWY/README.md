@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="WeirdFacter icon" width="36"> [WeirdFacter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a0ef1aae-d4cc-4fa9-a0cc-fa2ebce66464)
+# [WeirdFacter](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a0ef1aae-d4cc-4fa9-a0cc-fa2ebce66464)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the WeirdFacter skill, try saying...

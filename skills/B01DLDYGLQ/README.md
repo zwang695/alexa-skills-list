@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stats for FRC icon" width="36"> [Stats for FRC](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5492e6f7-6082-4944-b5e0-ac57522466ea)
+# [Stats for FRC](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5492e6f7-6082-4944-b5e0-ac57522466ea)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Stats for FRC skill, try saying...

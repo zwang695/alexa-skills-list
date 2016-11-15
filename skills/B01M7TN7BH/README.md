@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Duck Riddle icon" width="36"> [Duck Riddle](http://alexa.amazon.com/#skills/amzn1.ask.skill.2aa2c95c-9665-4169-8c5b-acbc6990872b)
+# [Duck Riddle](http://alexa.amazon.com/#skills/amzn1.ask.skill.2aa2c95c-9665-4169-8c5b-acbc6990872b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Duck Riddle skill, try saying...

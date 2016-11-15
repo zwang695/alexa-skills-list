@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ChackNorisFan icon" width="36"> [ChackNorisFan](http://alexa.amazon.com/#skills/amzn1.ask.skill.f7c17690-4e3f-457e-9bdd-88bbd0f8d14f)
+# [ChackNorisFan](http://alexa.amazon.com/#skills/amzn1.ask.skill.f7c17690-4e3f-457e-9bdd-88bbd0f8d14f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ChackNorisFan skill, try saying...

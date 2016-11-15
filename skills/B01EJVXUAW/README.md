@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="State Trees Quiz icon" width="36"> [State Trees Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.71db75ed-0fa0-474e-a4ee-8e9438e39aae)
+# [State Trees Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.71db75ed-0fa0-474e-a4ee-8e9438e39aae)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the State Trees Quiz skill, try saying...

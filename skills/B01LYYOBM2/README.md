@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Summit at Snoqualmie-West icon" width="36"> [Snow Report for Summit at Snoqualmie-West](http://alexa.amazon.com/#skills/amzn1.ask.skill.88f32e93-0517-4509-ad5d-a3aab8a479c2)
+# [Snow Report for Summit at Snoqualmie-West](http://alexa.amazon.com/#skills/amzn1.ask.skill.88f32e93-0517-4509-ad5d-a3aab8a479c2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Summit at Snoqualmie-West skill, try saying...

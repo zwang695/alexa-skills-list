@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tea Trivia icon" width="36"> [Tea Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3118e68b-b233-4d0a-982c-bb18b2d018b6)
+# [Tea Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3118e68b-b233-4d0a-982c-bb18b2d018b6)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Tea Trivia skill, try saying...

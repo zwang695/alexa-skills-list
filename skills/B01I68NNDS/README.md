@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Teaching Craft: Tips for Inclusive Learning icon" width="36"> [Teaching Craft: Tips for Inclusive Learning](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e574aea5-e891-4f69-8b94-cfbcd1e92d60)
+# [Teaching Craft: Tips for Inclusive Learning](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e574aea5-e891-4f69-8b94-cfbcd1e92d60)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Teaching Craft: Tips for Inclusive Learning skill, try saying...

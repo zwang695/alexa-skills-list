@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tim's Nebraska Facts icon" width="36"> [Tim's Nebraska Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d40539b9-7e71-4168-be52-c1ed1064ee17)
+# [Tim's Nebraska Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d40539b9-7e71-4168-be52-c1ed1064ee17)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tim's Nebraska Facts skill, try saying...

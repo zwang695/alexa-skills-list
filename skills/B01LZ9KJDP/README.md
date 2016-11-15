@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="unofficalDNDRace icon" width="36"> [unofficalDNDRace](http://alexa.amazon.com/#skills/amzn1.ask.skill.cc66ceb6-990e-492c-94b3-2c3b017a28c1)
+# [unofficalDNDRace](http://alexa.amazon.com/#skills/amzn1.ask.skill.cc66ceb6-990e-492c-94b3-2c3b017a28c1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the unofficalDNDRace skill, try saying...

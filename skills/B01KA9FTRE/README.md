@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ShakesPartner icon" width="36"> [ShakesPartner](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b2ae6c71-2df8-496b-b62f-f18fc4f05c0b)
+# [ShakesPartner](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b2ae6c71-2df8-496b-b62f-f18fc4f05c0b)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the ShakesPartner skill, try saying...

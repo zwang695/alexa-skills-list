@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Civil War Facts icon" width="36"> [Civil War Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e521234a-ecfd-4cf3-b749-42065fdadc60)
+# [Civil War Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e521234a-ecfd-4cf3-b749-42065fdadc60)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Civil War Facts skill, try saying...

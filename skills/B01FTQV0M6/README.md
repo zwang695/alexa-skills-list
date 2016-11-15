@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bitcoin Price Finder icon" width="36"> [Bitcoin Price Finder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.200970e1-028c-46dc-828c-c627c9cb4509)
+# [Bitcoin Price Finder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.200970e1-028c-46dc-828c-c627c9cb4509)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bitcoin Price Finder skill, try saying...

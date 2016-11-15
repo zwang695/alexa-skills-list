@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Funny Quotes icon" width="36"> [Funny Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.11022c26-8725-4c14-a8f8-b6f1e1b6107b)
+# [Funny Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.11022c26-8725-4c14-a8f8-b6f1e1b6107b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Funny Quotes skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wombat Facts icon" width="36"> [Wombat Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4e5b196b-29e8-415e-a1a3-075c9095e4e4)
+# [Wombat Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4e5b196b-29e8-415e-a1a3-075c9095e4e4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Wombat Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Breakfast Facts icon" width="36"> [Random Breakfast Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5a131350-159b-44da-a424-72cd541fc061)
+# [Random Breakfast Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5a131350-159b-44da-a424-72cd541fc061)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Random Breakfast Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Parks Explore icon" width="36"> [Parks Explore](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.62e85240-720f-4dfc-af6b-fa0d03bfd2a5)
+# [Parks Explore](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.62e85240-720f-4dfc-af6b-fa0d03bfd2a5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Parks Explore skill, try saying...

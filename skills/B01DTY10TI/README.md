@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Capitals and Countries icon" width="36"> [Capitals and Countries](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1a23336-6ac5-405d-8c4d-0e1f4edab06e)
+# [Capitals and Countries](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b1a23336-6ac5-405d-8c4d-0e1f4edab06e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Capitals and Countries skill, try saying...

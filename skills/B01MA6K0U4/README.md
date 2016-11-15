@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Counter icon" width="36"> [Counter](http://alexa.amazon.com/#skills/amzn1.ask.skill.7a93d6bf-cd28-493a-8af1-ca1a2ffa78d1)
+# [Counter](http://alexa.amazon.com/#skills/amzn1.ask.skill.7a93d6bf-cd28-493a-8af1-ca1a2ffa78d1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Counter skill, try saying...

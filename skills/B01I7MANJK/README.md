@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CPUFacts icon" width="36"> [CPUFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4ea78b05-ee0d-46e2-ac43-4386f7bf8014)
+# [CPUFacts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4ea78b05-ee0d-46e2-ac43-4386f7bf8014)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CPUFacts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Wordsmith Trivia Game icon" width="36"> [Wordsmith Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ef7b18fa-64af-4f0d-b00c-15259a21e062)
+# [Wordsmith Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ef7b18fa-64af-4f0d-b00c-15259a21e062)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Wordsmith Trivia Game skill, try saying...

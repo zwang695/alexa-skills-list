@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="proverb teller icon" width="36"> [proverb teller](http://alexa.amazon.com/#skills/amzn1.ask.skill.a70691e5-7918-4ace-869e-28f6c74f3345)
+# [proverb teller](http://alexa.amazon.com/#skills/amzn1.ask.skill.a70691e5-7918-4ace-869e-28f6c74f3345)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the proverb teller skill, try saying...

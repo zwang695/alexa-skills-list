@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mars Facts icon" width="36"> [Mars Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3b0c16f9-213b-4bf0-b063-1c85a9dc7887)
+# [Mars Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3b0c16f9-213b-4bf0-b063-1c85a9dc7887)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mars Facts skill, try saying...

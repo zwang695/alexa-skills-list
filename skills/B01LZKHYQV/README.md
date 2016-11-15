@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="daily laugh icon" width="36"> [daily laugh](http://alexa.amazon.com/#skills/amzn1.ask.skill.d7a3dd2c-3fb6-4f63-a228-66b4f21e21d3)
+# [daily laugh](http://alexa.amazon.com/#skills/amzn1.ask.skill.d7a3dd2c-3fb6-4f63-a228-66b4f21e21d3)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the daily laugh skill, try saying...

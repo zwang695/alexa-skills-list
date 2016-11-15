@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Computer Facts icon" width="36"> [Computer Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f093a3e2-61b8-4ced-a761-83b4533f0417)
+# [Computer Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f093a3e2-61b8-4ced-a761-83b4533f0417)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Computer Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Indicators icon" width="36"> [Indicators](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2eb650d7-cc8f-47c6-9f8b-843e479b64bd)
+# [Indicators](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2eb650d7-cc8f-47c6-9f8b-843e479b64bd)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Indicators skill, try saying...

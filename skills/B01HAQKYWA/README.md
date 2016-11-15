@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Which Demagogue icon" width="36"> [Which Demagogue](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ab6dd4a1-4593-41a3-9f11-fc2bcfbe23fb)
+# [Which Demagogue](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ab6dd4a1-4593-41a3-9f11-fc2bcfbe23fb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Which Demagogue skill, try saying...

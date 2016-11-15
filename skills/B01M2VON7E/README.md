@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="City Gripe icon" width="36"> [City Gripe](http://alexa.amazon.com/#skills/amzn1.ask.skill.52d20bcf-7364-44c7-ab61-dd95c93bbc62)
+# [City Gripe](http://alexa.amazon.com/#skills/amzn1.ask.skill.52d20bcf-7364-44c7-ab61-dd95c93bbc62)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the City Gripe skill, try saying...

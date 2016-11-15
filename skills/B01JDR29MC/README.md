@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Portland Tourism icon" width="36"> [Portland Tourism](http://alexa.amazon.com/#skills/amzn1.ask.skill.e338c5fd-ba96-4037-90c3-438cc22d6b14)
+# [Portland Tourism](http://alexa.amazon.com/#skills/amzn1.ask.skill.e338c5fd-ba96-4037-90c3-438cc22d6b14)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Portland Tourism skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Daily Words icon" width="36"> [Daily Words](http://alexa.amazon.com/#skills/amzn1.ask.skill.2e41a703-cf14-4553-a084-34096ad895a2)
+# [Daily Words](http://alexa.amazon.com/#skills/amzn1.ask.skill.2e41a703-cf14-4553-a084-34096ad895a2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Daily Words skill, try saying...

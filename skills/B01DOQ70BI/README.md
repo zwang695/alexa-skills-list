@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mr Brown icon" width="36"> [Mr Brown](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1877e31b-c0c9-4b2c-9ac6-f76472a1bbbc)
+# [Mr Brown](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1877e31b-c0c9-4b2c-9ac6-f76472a1bbbc)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Mr Brown skill, try saying...

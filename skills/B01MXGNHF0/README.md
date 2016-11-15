@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Devil's Elbow icon" width="36"> [Snow Report for Devil's Elbow](http://alexa.amazon.com/#skills/amzn1.ask.skill.e567b0b2-fbc3-45a3-97d2-98bbe60f60e9)
+# [Snow Report for Devil's Elbow](http://alexa.amazon.com/#skills/amzn1.ask.skill.e567b0b2-fbc3-45a3-97d2-98bbe60f60e9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Devil's Elbow skill, try saying...

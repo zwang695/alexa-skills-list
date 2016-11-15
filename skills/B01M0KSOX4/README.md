@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts from my Sahara dual crossing in 1982 icon" width="36"> [Facts from my Sahara dual crossing in 1982](http://alexa.amazon.com/#skills/amzn1.ask.skill.d80cb5f4-67fe-4fd2-ade6-fbd6c5931746)
+# [Facts from my Sahara dual crossing in 1982](http://alexa.amazon.com/#skills/amzn1.ask.skill.d80cb5f4-67fe-4fd2-ade6-fbd6c5931746)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts from my Sahara dual crossing in 1982 skill, try saying...

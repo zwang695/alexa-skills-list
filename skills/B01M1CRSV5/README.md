@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Draw A Card icon" width="36"> [Draw A Card](http://alexa.amazon.com/#skills/amzn1.ask.skill.cbb5e8c0-1335-461d-bc23-98d83b97f547)
+# [Draw A Card](http://alexa.amazon.com/#skills/amzn1.ask.skill.cbb5e8c0-1335-461d-bc23-98d83b97f547)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Draw A Card skill, try saying...

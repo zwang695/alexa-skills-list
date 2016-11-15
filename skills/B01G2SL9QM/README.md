@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Pop Music Trivia Game icon" width="36"> [Random Pop Music Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2be8e2f8-2f0c-434e-9788-a33e3b0261b0)
+# [Random Pop Music Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2be8e2f8-2f0c-434e-9788-a33e3b0261b0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Pop Music Trivia Game skill, try saying...

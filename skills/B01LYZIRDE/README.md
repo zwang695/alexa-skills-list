@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nag A Ram icon" width="36"> [Nag A Ram](http://alexa.amazon.com/#skills/amzn1.ask.skill.fd7b11ac-1328-4f39-af1a-5d26db090d54)
+# [Nag A Ram](http://alexa.amazon.com/#skills/amzn1.ask.skill.fd7b11ac-1328-4f39-af1a-5d26db090d54)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Nag A Ram skill, try saying...

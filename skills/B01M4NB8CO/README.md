@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Thunder Ridge icon" width="36"> [Snow Report for Thunder Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.445b0c00-6c81-4e77-b3e0-e5f97073256b)
+# [Snow Report for Thunder Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.445b0c00-6c81-4e77-b3e0-e5f97073256b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Thunder Ridge skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="WhereToPark icon" width="36"> [WhereToPark](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ab43dc0c-4c95-49c1-8104-0011c7c539e0)
+# [WhereToPark](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ab43dc0c-4c95-49c1-8104-0011c7c539e0)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the WhereToPark skill, try saying...

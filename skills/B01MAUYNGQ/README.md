@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Comic Book Trivia icon" width="36"> [Comic Book Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.17b0f61a-6ff0-495a-847f-ebf3fd7bc24f)
+# [Comic Book Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.17b0f61a-6ff0-495a-847f-ebf3fd7bc24f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Comic Book Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Kicking Horse icon" width="36"> [Snow Report for Kicking Horse](http://alexa.amazon.com/#skills/amzn1.ask.skill.d36080ef-d6c0-4ed1-a69f-89561271e54b)
+# [Snow Report for Kicking Horse](http://alexa.amazon.com/#skills/amzn1.ask.skill.d36080ef-d6c0-4ed1-a69f-89561271e54b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Kicking Horse skill, try saying...

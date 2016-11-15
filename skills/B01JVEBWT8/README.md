@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="React Flash Cards icon" width="36"> [React Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.98464376-fb6b-4ce3-b454-400af65ec878)
+# [React Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.98464376-fb6b-4ce3-b454-400af65ec878)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the React Flash Cards skill, try saying...

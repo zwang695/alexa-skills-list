@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Extra Class Ham Cram icon" width="36"> [Extra Class Ham Cram](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7b5922be-f141-4eae-af08-1e7978bf0dd1)
+# [Extra Class Ham Cram](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7b5922be-f141-4eae-af08-1e7978bf0dd1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Extra Class Ham Cram skill, try saying...

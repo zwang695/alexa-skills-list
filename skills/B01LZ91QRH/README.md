@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Chuck Norris Jokes icon" width="36"> [Unofficial Chuck Norris Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.66ff61f9-f17d-46e6-818f-3be7721d57e1)
+# [Unofficial Chuck Norris Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.66ff61f9-f17d-46e6-818f-3be7721d57e1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Chuck Norris Jokes skill, try saying...

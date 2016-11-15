@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Jocasta icon" width="36"> [Jocasta](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.85ed9e83-60dc-433f-95fd-8f324e4e2e55)
+# [Jocasta](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.85ed9e83-60dc-433f-95fd-8f324e4e2e55)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Jocasta skill, try saying...

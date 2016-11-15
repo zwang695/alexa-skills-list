@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stream Guide for Twitch icon" width="36"> [Stream Guide for Twitch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.714e8939-1d5e-442f-9c08-4ba697c12699)
+# [Stream Guide for Twitch](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.714e8939-1d5e-442f-9c08-4ba697c12699)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Stream Guide for Twitch skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Ben James](http://alexa.amazon.com/#skills/amzn1.ask.skill.abe33527-5767-4c3f-92ae-2395653c6264)
+# [Ben James](http://alexa.amazon.com/#skills/amzn1.ask.skill.abe33527-5767-4c3f-92ae-2395653c6264)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

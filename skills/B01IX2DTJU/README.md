@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="robot eggs icon" width="36"> [robot eggs](http://alexa.amazon.com/#skills/amzn1.ask.skill.d1dd5b70-e225-457f-8fee-db61771cf8d3)
+# [robot eggs](http://alexa.amazon.com/#skills/amzn1.ask.skill.d1dd5b70-e225-457f-8fee-db61771cf8d3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the robot eggs skill, try saying...

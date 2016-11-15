@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="TWO SECRET NUMBERS icon" width="36"> [TWO SECRET NUMBERS](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9593c17c-e4a1-41b6-94f7-39ca0a155a90)
+# [TWO SECRET NUMBERS](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9593c17c-e4a1-41b6-94f7-39ca0a155a90)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the TWO SECRET NUMBERS skill, try saying...

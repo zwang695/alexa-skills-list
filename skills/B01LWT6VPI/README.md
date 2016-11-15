@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Operatic Facts icon" width="36"> [Operatic Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d750334c-7fb7-4443-8356-9da24487e28e)
+# [Operatic Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d750334c-7fb7-4443-8356-9da24487e28e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Operatic Facts skill, try saying...

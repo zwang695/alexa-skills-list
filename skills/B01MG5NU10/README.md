@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Festival icon" width="36"> [Festival](http://alexa.amazon.com/#skills/amzn1.ask.skill.dadb6c48-cd4a-4644-bc92-4a451328e2ad)
+# [Festival](http://alexa.amazon.com/#skills/amzn1.ask.skill.dadb6c48-cd4a-4644-bc92-4a451328e2ad)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Festival skill, try saying...

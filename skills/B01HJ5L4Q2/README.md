@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="shopper icon" width="36"> [shopper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d61bc2fe-a75a-4d84-aaf5-8a63549639e2)
+# [shopper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d61bc2fe-a75a-4d84-aaf5-8a63549639e2)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the shopper skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="West Virginia Facts icon" width="36"> [West Virginia Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.afaeb504-8859-472b-b818-0b432a352044)
+# [West Virginia Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.afaeb504-8859-472b-b818-0b432a352044)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the West Virginia Facts skill, try saying...

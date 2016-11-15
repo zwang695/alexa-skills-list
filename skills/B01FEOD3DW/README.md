@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="New Parent Quiz icon" width="36"> [New Parent Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8047544-7407-4062-b980-b308fd4a2a20)
+# [New Parent Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a8047544-7407-4062-b980-b308fd4a2a20)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the New Parent Quiz skill, try saying...

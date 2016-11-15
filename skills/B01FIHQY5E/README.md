@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ducks Football Trivia icon" width="36"> [Ducks Football Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f6d1ccc-51a7-44b7-9336-246f70b9eba8)
+# [Ducks Football Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f6d1ccc-51a7-44b7-9336-246f70b9eba8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ducks Football Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Spooky Airhorns icon" width="36"> [Spooky Airhorns](http://alexa.amazon.com/#skills/amzn1.ask.skill.c24ca873-39da-4e52-9cfd-ec423b370ded)
+# [Spooky Airhorns](http://alexa.amazon.com/#skills/amzn1.ask.skill.c24ca873-39da-4e52-9cfd-ec423b370ded)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Spooky Airhorns skill, try saying...

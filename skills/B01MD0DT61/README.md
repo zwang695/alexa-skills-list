@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Courtney Shek](http://alexa.amazon.com/#skills/amzn1.ask.skill.739f988d-3337-41c7-8bf5-ec63c1949d99)
+# [Courtney Shek](http://alexa.amazon.com/#skills/amzn1.ask.skill.739f988d-3337-41c7-8bf5-ec63c1949d99)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

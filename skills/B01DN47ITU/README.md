@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SCUBA Diving Trivia icon" width="36"> [SCUBA Diving Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7fdb7e87-c8a7-4ef1-b4f7-434c08ce7993)
+# [SCUBA Diving Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7fdb7e87-c8a7-4ef1-b4f7-434c08ce7993)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the SCUBA Diving Trivia skill, try saying...

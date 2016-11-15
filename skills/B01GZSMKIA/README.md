@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Gyropedia Quiz icon" width="36"> [Gyropedia Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1a066cd8-5fac-44c1-aac9-fdda79c80fca)
+# [Gyropedia Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1a066cd8-5fac-44c1-aac9-fdda79c80fca)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Gyropedia Quiz skill, try saying...

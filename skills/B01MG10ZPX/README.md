@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="GrandRapidsFact icon" width="36"> [GrandRapidsFact](http://alexa.amazon.com/#skills/amzn1.ask.skill.2946fd56-6569-4267-9bbb-83adb19f8e49)
+# [GrandRapidsFact](http://alexa.amazon.com/#skills/amzn1.ask.skill.2946fd56-6569-4267-9bbb-83adb19f8e49)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the GrandRapidsFact skill, try saying...

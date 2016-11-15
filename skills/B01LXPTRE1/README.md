@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Banana Trivia icon" width="36"> [Banana Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.c3058f05-77fe-4579-b45e-8ff0a56ddc53)
+# [Banana Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.c3058f05-77fe-4579-b45e-8ff0a56ddc53)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Banana Trivia skill, try saying...

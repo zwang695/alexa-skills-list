@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="New York Running Calendar icon" width="36"> [New York Running Calendar](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ae8d30f8-96ad-4cf3-8bb6-c3ca94facf67)
+# [New York Running Calendar](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ae8d30f8-96ad-4cf3-8bb6-c3ca94facf67)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the New York Running Calendar skill, try saying...

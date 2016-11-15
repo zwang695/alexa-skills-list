@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Citizenship Game icon" width="36"> [Citizenship Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c0f1b63b-0c44-472d-9a3e-bc9ae59ada5f)
+# [Citizenship Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c0f1b63b-0c44-472d-9a3e-bc9ae59ada5f)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Citizenship Game skill, try saying...

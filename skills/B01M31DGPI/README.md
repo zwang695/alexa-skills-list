@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Oak Mountain icon" width="36"> [Snow Report for Oak Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.a7fe69af-874f-4d78-a331-f7a38bd60fdc)
+# [Snow Report for Oak Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.a7fe69af-874f-4d78-a331-f7a38bd60fdc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Oak Mountain skill, try saying...

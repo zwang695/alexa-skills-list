@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="QVine icon" width="36"> [QVine](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cff2ad4c-5345-44ec-9446-ec077c46e6e7)
+# [QVine](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.cff2ad4c-5345-44ec-9446-ec077c46e6e7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the QVine skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Basketball Statistic icon" width="36"> [Basketball Statistic](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f5e49989-f1d1-4e04-8802-e42c3b50cb73)
+# [Basketball Statistic](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f5e49989-f1d1-4e04-8802-e42c3b50cb73)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Basketball Statistic skill, try saying...

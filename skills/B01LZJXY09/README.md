@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hackerspace Status icon" width="36"> [Hackerspace Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.f1ec4878-8e2f-4b7b-a9fb-3303467470f0)
+# [Hackerspace Status](http://alexa.amazon.com/#skills/amzn1.ask.skill.f1ec4878-8e2f-4b7b-a9fb-3303467470f0)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Hackerspace Status skill, try saying...

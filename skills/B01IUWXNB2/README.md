@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Network Fun Facts icon" width="36"> [Network Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c870687f-2258-4f2b-8165-f6108be85837)
+# [Network Fun Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.c870687f-2258-4f2b-8165-f6108be85837)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Network Fun Facts skill, try saying...

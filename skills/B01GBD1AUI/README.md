@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Moon Age icon" width="36"> [Moon Age](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.92df80e5-0ad8-406d-9057-b996c8f0b6f3)
+# [Moon Age](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.92df80e5-0ad8-406d-9057-b996c8f0b6f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Moon Age skill, try saying...

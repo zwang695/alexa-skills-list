@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Farm Markets icon" width="36"> [Farm Markets](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.045d23c7-7973-41c3-8284-29224691e33b)
+# [Farm Markets](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.045d23c7-7973-41c3-8284-29224691e33b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Farm Markets skill, try saying...

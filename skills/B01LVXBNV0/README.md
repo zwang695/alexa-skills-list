@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Census Data icon" width="36"> [Census Data](http://alexa.amazon.com/#skills/amzn1.ask.skill.63f59230-646f-498a-bbb2-9b9fd0374e5a)
+# [Census Data](http://alexa.amazon.com/#skills/amzn1.ask.skill.63f59230-646f-498a-bbb2-9b9fd0374e5a)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Census Data skill, try saying...

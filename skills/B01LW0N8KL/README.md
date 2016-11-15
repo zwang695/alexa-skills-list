@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Blackjack Dealer icon" width="36"> [Blackjack Dealer](http://alexa.amazon.com/#skills/amzn1.ask.skill.4cd2e1ba-858c-4355-92df-67fe6a9e68a0)
+# [Blackjack Dealer](http://alexa.amazon.com/#skills/amzn1.ask.skill.4cd2e1ba-858c-4355-92df-67fe6a9e68a0)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Blackjack Dealer skill, try saying...

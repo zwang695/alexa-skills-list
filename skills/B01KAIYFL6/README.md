@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Distance Guesser icon" width="36"> [Distance Guesser](http://alexa.amazon.com/#skills/amzn1.ask.skill.87519431-49c0-4ea9-99e1-4168d3446642)
+# [Distance Guesser](http://alexa.amazon.com/#skills/amzn1.ask.skill.87519431-49c0-4ea9-99e1-4168d3446642)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Distance Guesser skill, try saying...

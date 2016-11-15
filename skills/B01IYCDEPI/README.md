@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Green Bus icon" width="36"> [Green Bus](http://alexa.amazon.com/#skills/amzn1.ask.skill.00ccdc1b-0b56-4be7-a1b0-cc45e245b46a)
+# [Green Bus](http://alexa.amazon.com/#skills/amzn1.ask.skill.00ccdc1b-0b56-4be7-a1b0-cc45e245b46a)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Green Bus skill, try saying...

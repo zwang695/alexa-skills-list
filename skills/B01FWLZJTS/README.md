@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tyler's TV Trivia icon" width="36"> [Tyler's TV Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ea8434d2-121e-40b4-9023-e2932814bbf9)
+# [Tyler's TV Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ea8434d2-121e-40b4-9023-e2932814bbf9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tyler's TV Trivia skill, try saying...

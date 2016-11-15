@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sour Dough icon" width="36"> [Sour Dough](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1b513ae5-67b2-444c-8af6-7b3b68857a20)
+# [Sour Dough](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1b513ae5-67b2-444c-8af6-7b3b68857a20)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Sour Dough skill, try saying...

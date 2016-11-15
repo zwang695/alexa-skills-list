@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Conference Helper icon" width="36"> [Conference Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.e0538a69-c307-493c-b08f-fc15ccebdf66)
+# [Conference Helper](http://alexa.amazon.com/#skills/amzn1.ask.skill.e0538a69-c307-493c-b08f-fc15ccebdf66)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Conference Helper skill, try saying...

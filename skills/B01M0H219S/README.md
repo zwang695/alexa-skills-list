@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Belfast Facts icon" width="36"> [Belfast Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d7752344-2d46-4bd1-a913-050709fc94d7)
+# [Belfast Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d7752344-2d46-4bd1-a913-050709fc94d7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Belfast Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts about Olympics icon" width="36"> [Facts about Olympics](http://alexa.amazon.com/#skills/amzn1.ask.skill.29004f39-791d-4d73-9988-ce1ad5cb39a3)
+# [Facts about Olympics](http://alexa.amazon.com/#skills/amzn1.ask.skill.29004f39-791d-4d73-9988-ce1ad5cb39a3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts about Olympics skill, try saying...

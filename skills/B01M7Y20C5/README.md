@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [Appsherpas Limited](http://alexa.amazon.com/#skills/amzn1.ask.skill.a7bda702-3603-4ddf-8b52-2a8c5c14f842)
+# [Appsherpas Limited](http://alexa.amazon.com/#skills/amzn1.ask.skill.a7bda702-3603-4ddf-8b52-2a8c5c14f842)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

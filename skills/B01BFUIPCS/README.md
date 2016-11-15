@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="BF Helper icon" width="36"> [BF Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.06cf0646-0133-4345-8205-3b35a326568d)
+# [BF Helper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.06cf0646-0133-4345-8205-3b35a326568d)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the BF Helper skill, try saying...

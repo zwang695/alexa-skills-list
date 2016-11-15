@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Is it the weekend icon" width="36"> [Is it the weekend](http://alexa.amazon.com/#skills/amzn1.ask.skill.e9fd838d-bb48-42f6-a248-0272a6cd8982)
+# [Is it the weekend](http://alexa.amazon.com/#skills/amzn1.ask.skill.e9fd838d-bb48-42f6-a248-0272a6cd8982)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Is it the weekend skill, try saying...

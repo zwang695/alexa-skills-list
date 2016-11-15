@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="American Elections icon" width="36"> [American Elections](http://alexa.amazon.com/#skills/amzn1.ask.skill.4b0d2e1a-bb1e-4f95-9eec-9be70ab6e53f)
+# [American Elections](http://alexa.amazon.com/#skills/amzn1.ask.skill.4b0d2e1a-bb1e-4f95-9eec-9be70ab6e53f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the American Elections skill, try saying...

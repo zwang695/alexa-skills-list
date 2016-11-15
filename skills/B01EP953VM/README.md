@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Creative Strategies icon" width="36"> [Creative Strategies](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.087ca523-0737-4ada-a083-89bb8b592cd0)
+# [Creative Strategies](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.087ca523-0737-4ada-a083-89bb8b592cd0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Creative Strategies skill, try saying...

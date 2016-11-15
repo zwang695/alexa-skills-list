@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Scripps College Facts icon" width="36"> [Unofficial Scripps College Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.384e495c-557b-4cab-be2a-21a2af8be08a)
+# [Unofficial Scripps College Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.384e495c-557b-4cab-be2a-21a2af8be08a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Scripps College Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="eat smart icon" width="36"> [eat smart](http://alexa.amazon.com/#skills/amzn1.ask.skill.7aaa9cca-302c-4392-a474-de9f521baac5)
+# [eat smart](http://alexa.amazon.com/#skills/amzn1.ask.skill.7aaa9cca-302c-4392-a474-de9f521baac5)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the eat smart skill, try saying...

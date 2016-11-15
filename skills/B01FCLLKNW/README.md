@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Discover Artist icon" width="36"> [Discover Artist](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.384940e4-e436-42b6-9258-014377e5c870)
+# [Discover Artist](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.384940e4-e436-42b6-9258-014377e5c870)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Discover Artist skill, try saying...

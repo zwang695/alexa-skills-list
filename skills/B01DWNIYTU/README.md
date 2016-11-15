@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SmartLink icon" width="36"> [SmartLink](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db91e5a5-46a1-49b7-acce-def90268d006)
+# [SmartLink](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db91e5a5-46a1-49b7-acce-def90268d006)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the SmartLink skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mad River Glen icon" width="36"> [Snow Report for Mad River Glen](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd5aa817-b456-4e63-9c5f-87371b39eeea)
+# [Snow Report for Mad River Glen](http://alexa.amazon.com/#skills/amzn1.ask.skill.cd5aa817-b456-4e63-9c5f-87371b39eeea)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mad River Glen skill, try saying...

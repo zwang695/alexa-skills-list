@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Critical Fumble icon" width="36"> [Critical Fumble](http://alexa.amazon.com/#skills/amzn1.ask.skill.11849a6f-4c4f-4ac3-b8cc-7b8d331894df)
+# [Critical Fumble](http://alexa.amazon.com/#skills/amzn1.ask.skill.11849a6f-4c4f-4ac3-b8cc-7b8d331894df)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Critical Fumble skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Donald Quiz icon" width="36"> [Unofficial Donald Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.8a2c9051-b94e-4972-9391-9fa17a3a8fad)
+# [Unofficial Donald Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.8a2c9051-b94e-4972-9391-9fa17a3a8fad)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Donald Quiz skill, try saying...

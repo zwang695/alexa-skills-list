@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="my Favorite Restaurants icon" width="36"> [my Favorite Restaurants](http://alexa.amazon.com/#skills/amzn1.ask.skill.db54ae21-2a09-4575-9d46-d3fd511d65a0)
+# [my Favorite Restaurants](http://alexa.amazon.com/#skills/amzn1.ask.skill.db54ae21-2a09-4575-9d46-d3fd511d65a0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the my Favorite Restaurants skill, try saying...

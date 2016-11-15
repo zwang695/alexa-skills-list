@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="A Magic Trick icon" width="36"> [A Magic Trick](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a79f3b26-707e-4bf2-bcd0-a5328dfc4195)
+# [A Magic Trick](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a79f3b26-707e-4bf2-bcd0-a5328dfc4195)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the A Magic Trick skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Car Maker Quiz icon" width="36"> [Car Maker Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3571781b-4490-43e6-a429-c2631f12103d)
+# [Car Maker Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3571781b-4490-43e6-a429-c2631f12103d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Car Maker Quiz skill, try saying...

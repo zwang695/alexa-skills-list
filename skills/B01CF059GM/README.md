@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="15-122 Queue Times icon" width="36"> [15-122 Queue Times](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c1ebf7ae-be1e-45dc-878e-2d3fac18cffb)
+# [15-122 Queue Times](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c1ebf7ae-be1e-45dc-878e-2d3fac18cffb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the 15-122 Queue Times skill, try saying...

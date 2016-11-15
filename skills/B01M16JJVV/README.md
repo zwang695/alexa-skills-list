@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="fun country facts icon" width="36"> [fun country facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.22c5fedc-e3aa-41ba-a80a-4fba0900a9f9)
+# [fun country facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.22c5fedc-e3aa-41ba-a80a-4fba0900a9f9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the fun country facts skill, try saying...

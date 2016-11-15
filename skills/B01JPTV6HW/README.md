@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tennis Facts icon" width="36"> [Tennis Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d53d30d0-e4ab-49d3-bccf-f1f624ed9036)
+# [Tennis Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d53d30d0-e4ab-49d3-bccf-f1f624ed9036)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tennis Facts skill, try saying...

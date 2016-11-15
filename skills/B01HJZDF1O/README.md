@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="When is My Train icon" width="36"> [When is My Train](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.21b3f1c4-2eaf-4e3e-af30-dc98c483043c)
+# [When is My Train](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.21b3f1c4-2eaf-4e3e-af30-dc98c483043c)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the When is My Train skill, try saying...

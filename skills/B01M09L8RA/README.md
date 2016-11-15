@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Manning Park Resort icon" width="36"> [Snow Report for Manning Park Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.a07b8ad2-655b-4356-b9c5-91f6a6822abc)
+# [Snow Report for Manning Park Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.a07b8ad2-655b-4356-b9c5-91f6a6822abc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Manning Park Resort skill, try saying...

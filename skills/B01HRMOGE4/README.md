@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CloudStatus icon" width="36"> [CloudStatus](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7df152ec-4599-4aaf-be89-75f1caa87c56)
+# [CloudStatus](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7df152ec-4599-4aaf-be89-75f1caa87c56)
 ![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the CloudStatus skill, try saying...

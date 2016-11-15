@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Brighton Resort icon" width="36"> [Snow Report for Brighton Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.d34c4742-7be6-4462-8d7a-376868e360ce)
+# [Snow Report for Brighton Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.d34c4742-7be6-4462-8d7a-376868e360ce)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Brighton Resort skill, try saying...

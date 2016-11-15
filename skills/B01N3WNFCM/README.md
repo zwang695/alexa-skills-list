@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Maryland Facts icon" width="36"> [Maryland Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e976dca0-691a-4e90-bc32-9230951c1689)
+# [Maryland Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.e976dca0-691a-4e90-bc32-9230951c1689)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Maryland Facts skill, try saying...

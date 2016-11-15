@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Arnold Quotes icon" width="36"> [Unofficial Arnold Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.218af940-1965-457b-a7bf-cc6a589407e2)
+# [Unofficial Arnold Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.218af940-1965-457b-a7bf-cc6a589407e2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Arnold Quotes skill, try saying...

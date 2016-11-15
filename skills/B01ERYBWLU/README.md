@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Growler Info icon" width="36"> [Growler Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d0322e06-866c-4f47-b5f2-94747dd034d3)
+# [Growler Info](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d0322e06-866c-4f47-b5f2-94747dd034d3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Growler Info skill, try saying...

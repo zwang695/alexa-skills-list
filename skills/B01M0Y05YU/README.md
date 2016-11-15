@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="my sun facts icon" width="36"> [my sun facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8b745c78-6931-4327-b64a-5553e94ee050)
+# [my sun facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8b745c78-6931-4327-b64a-5553e94ee050)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the my sun facts skill, try saying...

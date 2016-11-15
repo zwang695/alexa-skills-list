@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dice Roller & Coin Flipper icon" width="36"> [Dice Roller & Coin Flipper](http://alexa.amazon.com/#skills/amzn1.ask.skill.3e10ee12-38aa-4d67-977a-b9444863a90b)
+# [Dice Roller & Coin Flipper](http://alexa.amazon.com/#skills/amzn1.ask.skill.3e10ee12-38aa-4d67-977a-b9444863a90b)
 ![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Dice Roller & Coin Flipper skill, try saying...

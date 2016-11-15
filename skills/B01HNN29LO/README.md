@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="body facts icon" width="36"> [body facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f19cefb-0eb6-42f8-b4f5-a83d62181d4b)
+# [body facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f19cefb-0eb6-42f8-b4f5-a83d62181d4b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the body facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ukulele Tuner icon" width="36"> [Ukulele Tuner](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.453c1f5b-6012-4537-87a1-ebf9d600c894)
+# [Ukulele Tuner](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.453c1f5b-6012-4537-87a1-ebf9d600c894)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Ukulele Tuner skill, try saying...

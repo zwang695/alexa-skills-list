@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pizza Types icon" width="36"> [Pizza Types](http://alexa.amazon.com/#skills/amzn1.ask.skill.d43b4941-ab97-45e8-89b4-1a5496e5ce75)
+# [Pizza Types](http://alexa.amazon.com/#skills/amzn1.ask.skill.d43b4941-ab97-45e8-89b4-1a5496e5ce75)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Pizza Types skill, try saying...

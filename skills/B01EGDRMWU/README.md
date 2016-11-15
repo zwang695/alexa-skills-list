@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Just Energy icon" width="36"> [Just Energy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3fc661bb-f9b8-435b-856d-e3bc97fc32db)
+# [Just Energy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3fc661bb-f9b8-435b-856d-e3bc97fc32db)
 ![1.7 stars](../../images/ic_star_black_18dp_1x.png)![1.7 stars](../../images/ic_star_half_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png)![1.7 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Just Energy skill, try saying...

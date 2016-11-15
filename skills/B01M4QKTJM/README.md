@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [eko_se7en](http://alexa.amazon.com/#skills/amzn1.ask.skill.7acd25f2-50e5-4831-977b-1c660f49b103)
+# [eko_se7en](http://alexa.amazon.com/#skills/amzn1.ask.skill.7acd25f2-50e5-4831-977b-1c660f49b103)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

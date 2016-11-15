@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Teen Driving Facts icon" width="36"> [Teen Driving Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d4f7ea27-a3c1-4d0e-b15c-17d77838ebde)
+# [Teen Driving Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d4f7ea27-a3c1-4d0e-b15c-17d77838ebde)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Teen Driving Facts skill, try saying...

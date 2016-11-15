@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Thunderstorm Sounds icon" width="36"> [Thunderstorm Sounds](http://alexa.amazon.com/#skills/amzn1.ask.skill.14de8e11-7b5c-490d-b145-ae5a9819dede)
+# [Thunderstorm Sounds](http://alexa.amazon.com/#skills/amzn1.ask.skill.14de8e11-7b5c-490d-b145-ae5a9819dede)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 33
 
 To use the Thunderstorm Sounds skill, try saying...

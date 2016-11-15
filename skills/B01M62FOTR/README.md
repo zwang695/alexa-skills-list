@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lewis Facts icon" width="36"> [Lewis Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8650fbc7-12ce-40fb-a641-077be5feb12d)
+# [Lewis Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.8650fbc7-12ce-40fb-a641-077be5feb12d)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Lewis Facts skill, try saying...

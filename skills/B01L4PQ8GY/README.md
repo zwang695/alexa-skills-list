@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial EC2 Container Service Glossary icon" width="36"> [Unofficial EC2 Container Service Glossary](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2430097-0af8-432f-8016-c7ca913fe5be)
+# [Unofficial EC2 Container Service Glossary](http://alexa.amazon.com/#skills/amzn1.ask.skill.d2430097-0af8-432f-8016-c7ca913fe5be)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial EC2 Container Service Glossary skill, try saying...

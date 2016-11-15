@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="UMich Facts icon" width="36"> [UMich Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7384e296-72f9-43c3-8a66-c2dd3d7a3c6c)
+# [UMich Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.7384e296-72f9-43c3-8a66-c2dd3d7a3c6c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the UMich Facts skill, try saying...

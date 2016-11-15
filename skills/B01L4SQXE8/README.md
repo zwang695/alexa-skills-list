@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dad Jokes icon" width="36"> [Dad Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.7782281f-c7a6-4075-8dfc-1f7f42f75d89)
+# [Dad Jokes](http://alexa.amazon.com/#skills/amzn1.ask.skill.7782281f-c7a6-4075-8dfc-1f7f42f75d89)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Dad Jokes skill, try saying...

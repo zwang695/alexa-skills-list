@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Healthy Day icon" width="36"> [Healthy Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.0645e14d-24b6-4f3b-b7c7-363054166868)
+# [Healthy Day](http://alexa.amazon.com/#skills/amzn1.ask.skill.0645e14d-24b6-4f3b-b7c7-363054166868)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Healthy Day skill, try saying...

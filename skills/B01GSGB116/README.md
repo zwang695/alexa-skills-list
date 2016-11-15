@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Washington Insider icon" width="36"> [Washington Insider](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.150d504d-a9bd-40b7-8631-b1c931c812d6)
+# [Washington Insider](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.150d504d-a9bd-40b7-8631-b1c931c812d6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Washington Insider skill, try saying...

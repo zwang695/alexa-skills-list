@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Truth or Dare icon" width="36"> [Truth or Dare](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.89cbc0eb-e210-4876-baf4-c540aedbea10)
+# [Truth or Dare](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.89cbc0eb-e210-4876-baf4-c540aedbea10)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Truth or Dare skill, try saying...

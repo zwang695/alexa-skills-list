@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Electric Car Questions icon" width="36"> [Electric Car Questions](http://alexa.amazon.com/#skills/amzn1.ask.skill.274d86a1-3954-465a-b631-d5b42edcd359)
+# [Electric Car Questions](http://alexa.amazon.com/#skills/amzn1.ask.skill.274d86a1-3954-465a-b631-d5b42edcd359)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Electric Car Questions skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fact or Fiction icon" width="36"> [Fact or Fiction](http://alexa.amazon.com/#skills/amzn1.ask.skill.ca8c93a3-a4df-4221-81b4-4241332d9f1a)
+# [Fact or Fiction](http://alexa.amazon.com/#skills/amzn1.ask.skill.ca8c93a3-a4df-4221-81b4-4241332d9f1a)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Fact or Fiction skill, try saying...

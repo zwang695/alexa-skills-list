@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Thirteen icon" width="36"> [Thirteen](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eab87f32-c2dc-499b-83c5-ff63c3ddb255)
+# [Thirteen](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.eab87f32-c2dc-499b-83c5-ff63c3ddb255)
 ![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Thirteen skill, try saying...

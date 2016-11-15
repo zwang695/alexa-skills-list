@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chanakya Says icon" width="36"> [Chanakya Says](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8d139911-76ed-4a0b-b47e-b838a0aaf960)
+# [Chanakya Says](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8d139911-76ed-4a0b-b47e-b838a0aaf960)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Chanakya Says skill, try saying...

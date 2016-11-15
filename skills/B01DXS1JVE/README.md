@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Remember Your Keys icon" width="36"> [Remember Your Keys](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f02daa1-7b3d-4a8b-a6a3-8f642c1fa25a)
+# [Remember Your Keys](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0f02daa1-7b3d-4a8b-a6a3-8f642c1fa25a)
 ![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Remember Your Keys skill, try saying...

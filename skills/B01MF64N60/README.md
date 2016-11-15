@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="UK Postcode icon" width="36"> [UK Postcode](http://alexa.amazon.com/#skills/amzn1.ask.skill.85b0a1d8-ee1d-4541-add0-46b5c1f1a493)
+# [UK Postcode](http://alexa.amazon.com/#skills/amzn1.ask.skill.85b0a1d8-ee1d-4541-add0-46b5c1f1a493)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the UK Postcode skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fire Trivia Game icon" width="36"> [Fire Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.61410c21-6492-48ec-ae1d-edbd84870d5b)
+# [Fire Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.61410c21-6492-48ec-ae1d-edbd84870d5b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fire Trivia Game skill, try saying...

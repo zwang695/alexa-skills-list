@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Gary Johnson Facts icon" width="36"> [Gary Johnson Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a85316fc-52a1-4bfc-94df-2b9808a34f30)
+# [Gary Johnson Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.a85316fc-52a1-4bfc-94df-2b9808a34f30)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Gary Johnson Facts skill, try saying...

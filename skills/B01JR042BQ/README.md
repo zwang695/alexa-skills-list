@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Soccer Showdown icon" width="36"> [Soccer Showdown](http://alexa.amazon.com/#skills/amzn1.ask.skill.fb421dde-45ee-43b9-94b2-47b9b5753f9f)
+# [Soccer Showdown](http://alexa.amazon.com/#skills/amzn1.ask.skill.fb421dde-45ee-43b9-94b2-47b9b5753f9f)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Soccer Showdown skill, try saying...

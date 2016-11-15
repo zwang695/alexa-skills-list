@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="salsaMusicDance icon" width="36"> [salsaMusicDance](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db92c9bb-5fe9-43e5-9fc3-4e85543e3118)
+# [salsaMusicDance](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db92c9bb-5fe9-43e5-9fc3-4e85543e3118)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the salsaMusicDance skill, try saying...

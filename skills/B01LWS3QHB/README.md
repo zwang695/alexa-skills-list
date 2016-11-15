@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Telluride Resort icon" width="36"> [Snow Report for Telluride Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.754bd9c3-aed9-4845-b921-5821f3fe8a40)
+# [Snow Report for Telluride Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.754bd9c3-aed9-4845-b921-5821f3fe8a40)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Telluride Resort skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Posh Trivia icon" width="36"> [Posh Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec1bff9d-15a5-4c65-b5b5-bd50221c700d)
+# [Posh Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec1bff9d-15a5-4c65-b5b5-bd50221c700d)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Posh Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Surf Stat icon" width="36"> [Surf Stat](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a937071-4d95-4f20-af7a-8d50bb9cfe59)
+# [Surf Stat](http://alexa.amazon.com/#skills/amzn1.ask.skill.3a937071-4d95-4f20-af7a-8d50bb9cfe59)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Surf Stat skill, try saying...

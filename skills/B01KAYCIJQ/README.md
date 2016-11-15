@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nim icon" width="36"> [Nim](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.04079759-81a8-41c6-b145-1ac293964e71)
+# [Nim](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.04079759-81a8-41c6-b145-1ac293964e71)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Nim skill, try saying...

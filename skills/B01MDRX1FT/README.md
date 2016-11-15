@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Stupid Deal icon" width="36"> [Stupid Deal](http://alexa.amazon.com/#skills/amzn1.ask.skill.2d7f2aff-b17b-4838-8e5d-af172c946fa3)
+# [Stupid Deal](http://alexa.amazon.com/#skills/amzn1.ask.skill.2d7f2aff-b17b-4838-8e5d-af172c946fa3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Stupid Deal skill, try saying...

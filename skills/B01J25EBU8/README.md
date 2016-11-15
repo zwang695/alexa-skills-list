@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cat Lady icon" width="36"> [Cat Lady](http://alexa.amazon.com/#skills/amzn1.ask.skill.114da8f2-a002-4640-b4ab-bececdd938d0)
+# [Cat Lady](http://alexa.amazon.com/#skills/amzn1.ask.skill.114da8f2-a002-4640-b4ab-bececdd938d0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cat Lady skill, try saying...

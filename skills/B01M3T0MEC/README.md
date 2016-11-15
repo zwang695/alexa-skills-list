@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="It Starts With Me - National HIV Test Week icon" width="36"> [It Starts With Me - National HIV Test Week](http://alexa.amazon.com/#skills/amzn1.ask.skill.8ad99b21-60ea-4381-8d18-6275fde9ee52)
+# [It Starts With Me - National HIV Test Week](http://alexa.amazon.com/#skills/amzn1.ask.skill.8ad99b21-60ea-4381-8d18-6275fde9ee52)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the It Starts With Me - National HIV Test Week skill, try saying...

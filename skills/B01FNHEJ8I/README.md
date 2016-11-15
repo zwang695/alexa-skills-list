@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Number Trivia icon" width="36"> [Number Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.43241783-26d0-44be-af4c-80067cd9b009)
+# [Number Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.43241783-26d0-44be-af4c-80067cd9b009)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Number Trivia skill, try saying...

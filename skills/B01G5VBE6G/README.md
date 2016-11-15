@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Buttery - Beer, Wine & Liquor Delivery icon" width="36"> [Buttery - Beer, Wine & Liquor Delivery](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.08b4b620-6592-4d8d-b5c6-e2e8e4ad04be)
+# [Buttery - Beer, Wine & Liquor Delivery](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.08b4b620-6592-4d8d-b5c6-e2e8e4ad04be)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Buttery - Beer, Wine & Liquor Delivery skill, try saying...

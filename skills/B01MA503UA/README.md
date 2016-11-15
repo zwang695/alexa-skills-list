@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Neo Trivia icon" width="36"> [Neo Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.e65dcfbf-53d4-47ab-973e-b12b37980d99)
+# [Neo Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.e65dcfbf-53d4-47ab-973e-b12b37980d99)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Neo Trivia skill, try saying...

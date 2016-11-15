@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hipchat Down Detector icon" width="36"> [Hipchat Down Detector](http://alexa.amazon.com/#skills/amzn1.ask.skill.4dc0a3f6-c72d-41ee-99c9-dd295a7f98f3)
+# [Hipchat Down Detector](http://alexa.amazon.com/#skills/amzn1.ask.skill.4dc0a3f6-c72d-41ee-99c9-dd295a7f98f3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hipchat Down Detector skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="yvonne state capital facts icon" width="36"> [yvonne state capital facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef87d24d-b894-46e0-9e96-7b26be2f025e)
+# [yvonne state capital facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef87d24d-b894-46e0-9e96-7b26be2f025e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the yvonne state capital facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="River Runner icon" width="36"> [River Runner](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8441ca7-8615-4123-9027-5042975f014d)
+# [River Runner](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8441ca7-8615-4123-9027-5042975f014d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the River Runner skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Planting Time Zones 7 and 8 icon" width="36"> [Planting Time Zones 7 and 8](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f1220941-407b-4cc9-9221-4b30de04a4a3)
+# [Planting Time Zones 7 and 8](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f1220941-407b-4cc9-9221-4b30de04a4a3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Planting Time Zones 7 and 8 skill, try saying...

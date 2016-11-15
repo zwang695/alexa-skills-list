@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="shark facts icon" width="36"> [shark facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f964c24-8157-4a1d-953f-714ea630deba)
+# [shark facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.4f964c24-8157-4a1d-953f-714ea630deba)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the shark facts skill, try saying...

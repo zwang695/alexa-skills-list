@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Times for Caltrain icon" width="36"> [Times for Caltrain](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ccb8c546-2029-4a79-970c-00115dbaaca1)
+# [Times for Caltrain](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ccb8c546-2029-4a79-970c-00115dbaaca1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Times for Caltrain skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Super Dice bot icon" width="36"> [Super Dice bot](http://alexa.amazon.com/#skills/amzn1.ask.skill.d1eb94f9-65df-404c-bb1d-38ae93093821)
+# [Super Dice bot](http://alexa.amazon.com/#skills/amzn1.ask.skill.d1eb94f9-65df-404c-bb1d-38ae93093821)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Super Dice bot skill, try saying...

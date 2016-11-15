@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Pogonotrophy - Beard Me icon" width="36"> [Pogonotrophy - Beard Me](http://alexa.amazon.com/#skills/amzn1.ask.skill.43d7af6c-177d-46b1-b05c-21f9c868fffa)
+# [Pogonotrophy - Beard Me](http://alexa.amazon.com/#skills/amzn1.ask.skill.43d7af6c-177d-46b1-b05c-21f9c868fffa)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Pogonotrophy - Beard Me skill, try saying...

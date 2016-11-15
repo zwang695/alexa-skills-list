@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ASCII Geek icon" width="36"> [ASCII Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.00809b97-f5dd-437e-bc41-1b38453b7433)
+# [ASCII Geek](http://alexa.amazon.com/#skills/amzn1.ask.skill.00809b97-f5dd-437e-bc41-1b38453b7433)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ASCII Geek skill, try saying...

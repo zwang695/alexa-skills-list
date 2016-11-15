@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cloud Acronym Quiz icon" width="36"> [Cloud Acronym Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b16ec8dc-e9aa-4909-8786-2c87cc3542db)
+# [Cloud Acronym Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b16ec8dc-e9aa-4909-8786-2c87cc3542db)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cloud Acronym Quiz skill, try saying...

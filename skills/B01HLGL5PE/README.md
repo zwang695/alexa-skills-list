@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Luxembourg Trivia Game icon" width="36"> [Luxembourg Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f72054cc-a576-455c-b5b0-727c2c797587)
+# [Luxembourg Trivia Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f72054cc-a576-455c-b5b0-727c2c797587)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Luxembourg Trivia Game skill, try saying...

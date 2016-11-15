@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Revel Digital icon" width="36"> [Revel Digital](http://alexa.amazon.com/#skills/amzn1.ask.skill.5ff2a40b-2531-4f6d-bc24-ecc4f5bc3d13)
+# [Revel Digital](http://alexa.amazon.com/#skills/amzn1.ask.skill.5ff2a40b-2531-4f6d-bc24-ecc4f5bc3d13)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Revel Digital skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Investing Facts icon" width="36"> [Investing Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b20a06d9-eae5-4ad5-8edc-76acb08d57d6)
+# [Investing Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b20a06d9-eae5-4ad5-8edc-76acb08d57d6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Investing Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Game Of Irvine icon" width="36"> [Game Of Irvine](http://alexa.amazon.com/#skills/amzn1.ask.skill.516b1052-d004-424e-aae8-42d3a2fe0839)
+# [Game Of Irvine](http://alexa.amazon.com/#skills/amzn1.ask.skill.516b1052-d004-424e-aae8-42d3a2fe0839)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Game Of Irvine skill, try saying...

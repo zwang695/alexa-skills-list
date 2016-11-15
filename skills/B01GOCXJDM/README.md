@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="HealthBuddy icon" width="36"> [HealthBuddy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a89d0ae9-1640-46f4-ac9c-789cce4a4b14)
+# [HealthBuddy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a89d0ae9-1640-46f4-ac9c-789cce4a4b14)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the HealthBuddy skill, try saying...

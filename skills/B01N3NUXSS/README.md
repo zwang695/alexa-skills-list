@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mount LaCrosse icon" width="36"> [Snow Report for Mount LaCrosse](http://alexa.amazon.com/#skills/amzn1.ask.skill.53920c1b-8eec-43d2-8248-d12e0356fb35)
+# [Snow Report for Mount LaCrosse](http://alexa.amazon.com/#skills/amzn1.ask.skill.53920c1b-8eec-43d2-8248-d12e0356fb35)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mount LaCrosse skill, try saying...

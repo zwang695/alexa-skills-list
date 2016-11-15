@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Human Body icon" width="36"> [Human Body](http://alexa.amazon.com/#skills/amzn1.ask.skill.98ecfd41-68b0-43b6-b410-92b39e769e3e)
+# [Human Body](http://alexa.amazon.com/#skills/amzn1.ask.skill.98ecfd41-68b0-43b6-b410-92b39e769e3e)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Human Body skill, try saying...

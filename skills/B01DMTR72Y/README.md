@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SwedenFactSkill icon" width="36"> [SwedenFactSkill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.72182b68-0f68-44d5-bf62-99c994094960)
+# [SwedenFactSkill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.72182b68-0f68-44d5-bf62-99c994094960)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the SwedenFactSkill skill, try saying...

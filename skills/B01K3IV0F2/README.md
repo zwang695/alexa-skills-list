@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Memorable Password Generator icon" width="36"> [Memorable Password Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.974e25f1-6942-4d9c-9a64-f25de680a42e)
+# [Memorable Password Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.974e25f1-6942-4d9c-9a64-f25de680a42e)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Memorable Password Generator skill, try saying...

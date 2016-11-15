@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hackster Contests icon" width="36"> [Hackster Contests](http://alexa.amazon.com/#skills/amzn1.ask.skill.3789026d-0f3d-42dc-b3d6-cd8bde4abd0f)
+# [Hackster Contests](http://alexa.amazon.com/#skills/amzn1.ask.skill.3789026d-0f3d-42dc-b3d6-cd8bde4abd0f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hackster Contests skill, try saying...

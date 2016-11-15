@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Citizen Pass icon" width="36"> [Citizen Pass](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.61895dc1-5cea-4c73-9bc5-39620303af38)
+# [Citizen Pass](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.61895dc1-5cea-4c73-9bc5-39620303af38)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Citizen Pass skill, try saying...

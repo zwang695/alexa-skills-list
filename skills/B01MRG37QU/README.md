@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Stoneham Mountain Resort icon" width="36"> [Snow Report for Stoneham Mountain Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.e324b42c-597b-4ef0-a900-ad5819968984)
+# [Snow Report for Stoneham Mountain Resort](http://alexa.amazon.com/#skills/amzn1.ask.skill.e324b42c-597b-4ef0-a900-ad5819968984)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Stoneham Mountain Resort skill, try saying...

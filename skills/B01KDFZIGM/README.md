@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Laundry Buddy icon" width="36"> [Laundry Buddy](http://alexa.amazon.com/#skills/amzn1.ask.skill.c1a35c4d-7af2-4597-836c-4a5ff3c64998)
+# [Laundry Buddy](http://alexa.amazon.com/#skills/amzn1.ask.skill.c1a35c4d-7af2-4597-836c-4a5ff3c64998)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Laundry Buddy skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Chilling Facts icon" width="36"> [Chilling Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f8c7a71c-45e1-42c4-9a34-22879fe2c574)
+# [Chilling Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.f8c7a71c-45e1-42c4-9a34-22879fe2c574)
 ![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Chilling Facts skill, try saying...

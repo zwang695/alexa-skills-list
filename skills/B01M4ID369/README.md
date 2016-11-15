@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Steam Engines icon" width="36"> [Steam Engines](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d77ab37-448d-4535-b105-ea9ed226e37b)
+# [Steam Engines](http://alexa.amazon.com/#skills/amzn1.ask.skill.4d77ab37-448d-4535-b105-ea9ed226e37b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Steam Engines skill, try saying...

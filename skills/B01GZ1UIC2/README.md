@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Windcast icon" width="36"> [Windcast](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dca717d0-f91d-4bb1-95cb-624d70eab112)
+# [Windcast](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dca717d0-f91d-4bb1-95cb-624d70eab112)
 ![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Windcast skill, try saying...

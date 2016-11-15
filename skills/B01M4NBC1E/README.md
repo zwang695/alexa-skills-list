@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Tuxedo Ridge icon" width="36"> [Snow Report for Tuxedo Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.5c1e89ee-12a6-4cd2-a0f7-a027b384f55b)
+# [Snow Report for Tuxedo Ridge](http://alexa.amazon.com/#skills/amzn1.ask.skill.5c1e89ee-12a6-4cd2-a0f7-a027b384f55b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Tuxedo Ridge skill, try saying...

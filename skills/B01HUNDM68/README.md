@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="water fact icon" width="36"> [water fact](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.827345f9-f811-4228-868f-8f756da46e05)
+# [water fact](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.827345f9-f811-4228-868f-8f756da46e05)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the water fact skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Blackjack Coach icon" width="36"> [Blackjack Coach](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d94c3b2b-40f1-42da-8cb2-5de2f999f717)
+# [Blackjack Coach](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d94c3b2b-40f1-42da-8cb2-5de2f999f717)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Blackjack Coach skill, try saying...

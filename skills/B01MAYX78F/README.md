@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Wild Mountain icon" width="36"> [Snow Report for Wild Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e6803d20-a7cd-41d9-a71f-001619379828)
+# [Snow Report for Wild Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.e6803d20-a7cd-41d9-a71f-001619379828)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Wild Mountain skill, try saying...

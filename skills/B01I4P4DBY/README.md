@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fisherman icon" width="36"> [Fisherman](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a7e4c5ea-50bd-45d7-bd29-3df8aaa55d2d)
+# [Fisherman](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a7e4c5ea-50bd-45d7-bd29-3df8aaa55d2d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fisherman skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Volunteer Facts icon" width="36"> [Volunteer Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.acd815d8-63d8-4925-8fe7-ee7c7364ced0)
+# [Volunteer Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.acd815d8-63d8-4925-8fe7-ee7c7364ced0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Volunteer Facts skill, try saying...

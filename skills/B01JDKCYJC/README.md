@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DOM Trivia icon" width="36"> [DOM Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.7fff23f7-884c-4d17-8da4-16ea998866ab)
+# [DOM Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.7fff23f7-884c-4d17-8da4-16ea998866ab)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the DOM Trivia skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Learn the Elements icon" width="36"> [Learn the Elements](http://alexa.amazon.com/#skills/amzn1.ask.skill.858e2298-eee4-4771-9414-f21e348a6e95)
+# [Learn the Elements](http://alexa.amazon.com/#skills/amzn1.ask.skill.858e2298-eee4-4771-9414-f21e348a6e95)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Learn the Elements skill, try saying...

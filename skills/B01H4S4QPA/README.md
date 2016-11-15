@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Who Wrote It? icon" width="36"> [Who Wrote It?](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ff5cb486-c63c-473c-bbfb-d7d0aeea3d95)
+# [Who Wrote It?](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ff5cb486-c63c-473c-bbfb-d7d0aeea3d95)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Who Wrote It? skill, try saying...

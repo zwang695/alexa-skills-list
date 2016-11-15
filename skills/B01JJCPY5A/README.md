@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="EV Curious icon" width="36"> [EV Curious](http://alexa.amazon.com/#skills/amzn1.ask.skill.3cd07971-d350-49b3-8545-692dfd3748fd)
+# [EV Curious](http://alexa.amazon.com/#skills/amzn1.ask.skill.3cd07971-d350-49b3-8545-692dfd3748fd)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the EV Curious skill, try saying...

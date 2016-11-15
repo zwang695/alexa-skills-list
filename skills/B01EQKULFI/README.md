@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Biggest Fan icon" width="36"> [My Biggest Fan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.44ec188b-5519-4694-9630-7ba3a09383ea)
+# [My Biggest Fan](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.44ec188b-5519-4694-9630-7ba3a09383ea)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My Biggest Fan skill, try saying...

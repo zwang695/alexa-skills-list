@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Simple Trivia about Pratt Institute icon" width="36"> [Simple Trivia about Pratt Institute](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.14f8d130-df33-4575-a668-b0865c120c37)
+# [Simple Trivia about Pratt Institute](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.14f8d130-df33-4575-a668-b0865c120c37)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Simple Trivia about Pratt Institute skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lunch Suggestions icon" width="36"> [Lunch Suggestions](http://alexa.amazon.com/#skills/amzn1.ask.skill.717e189e-c499-4bd8-bd8a-a073c1bd7c92)
+# [Lunch Suggestions](http://alexa.amazon.com/#skills/amzn1.ask.skill.717e189e-c499-4bd8-bd8a-a073c1bd7c92)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Lunch Suggestions skill, try saying...

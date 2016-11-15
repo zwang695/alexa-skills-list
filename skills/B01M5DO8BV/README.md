@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="null" width="36"> [BMW Technology Group](http://alexa.amazon.com/#skills/amzn1.ask.skill.378f141d-aae2-42c2-8b20-88ac63a125e4)
+# [BMW Technology Group](http://alexa.amazon.com/#skills/amzn1.ask.skill.378f141d-aae2-42c2-8b20-88ac63a125e4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 null

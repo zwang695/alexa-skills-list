@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Beatrice Nebraska News 68310 icon" width="36"> [Beatrice Nebraska News 68310](http://alexa.amazon.com/#skills/amzn1.ask.skill.8ea51f2f-2af1-4f89-aefc-eebeec5b48d1)
+# [Beatrice Nebraska News 68310](http://alexa.amazon.com/#skills/amzn1.ask.skill.8ea51f2f-2af1-4f89-aefc-eebeec5b48d1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Beatrice Nebraska News 68310 skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Basketball quiz icon" width="36"> [Basketball quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.5037f6ea-dd48-4719-b29f-3c893d0d3ad1)
+# [Basketball quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.5037f6ea-dd48-4719-b29f-3c893d0d3ad1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Basketball quiz skill, try saying...

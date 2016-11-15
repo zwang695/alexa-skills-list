@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bollywood Insider icon" width="36"> [Bollywood Insider](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5e5e90f5-506b-4d83-a46b-d640b6652ea8)
+# [Bollywood Insider](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5e5e90f5-506b-4d83-a46b-d640b6652ea8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bollywood Insider skill, try saying...

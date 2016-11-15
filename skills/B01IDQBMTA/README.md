@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="car quiz icon" width="36"> [car quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fdb4157f-1564-493e-89c2-4a50b5dc8011)
+# [car quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fdb4157f-1564-493e-89c2-4a50b5dc8011)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the car quiz skill, try saying...

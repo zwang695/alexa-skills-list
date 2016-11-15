@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="House Rules icon" width="36"> [House Rules](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a030169e-8615-4672-bef2-e40ac20de322)
+# [House Rules](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a030169e-8615-4672-bef2-e40ac20de322)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the House Rules skill, try saying...

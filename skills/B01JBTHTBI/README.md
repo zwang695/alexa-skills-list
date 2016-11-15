@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Water Bear (Tardigrade) Facts icon" width="36"> [Water Bear (Tardigrade) Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e97675f9-7ada-4343-a00d-047f8d76b259)
+# [Water Bear (Tardigrade) Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e97675f9-7ada-4343-a00d-047f8d76b259)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Water Bear (Tardigrade) Facts skill, try saying...

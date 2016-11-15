@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Teenager Facts icon" width="36"> [Teenager Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6e263e24-205f-44f6-a10c-cbc0ef305129)
+# [Teenager Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6e263e24-205f-44f6-a10c-cbc0ef305129)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Teenager Facts skill, try saying...

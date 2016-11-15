@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Knock Knock icon" width="36"> [Knock Knock](http://alexa.amazon.com/#skills/amzn1.ask.skill.546e84c9-95f8-405a-b6d4-c758e8135ad3)
+# [Knock Knock](http://alexa.amazon.com/#skills/amzn1.ask.skill.546e84c9-95f8-405a-b6d4-c758e8135ad3)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Knock Knock skill, try saying...

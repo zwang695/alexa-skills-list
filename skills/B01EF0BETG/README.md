@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tyria Scout for Guild Wars 2 icon" width="36"> [Tyria Scout for Guild Wars 2](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b5c231e6-fbf0-4d89-9c3f-a4e872fa6562)
+# [Tyria Scout for Guild Wars 2](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b5c231e6-fbf0-4d89-9c3f-a4e872fa6562)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tyria Scout for Guild Wars 2 skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Dr. Dog icon" width="36"> [Dr. Dog](http://alexa.amazon.com/#skills/amzn1.ask.skill.22226f11-ebc0-4b0d-afd7-02ac0b126ea7)
+# [Dr. Dog](http://alexa.amazon.com/#skills/amzn1.ask.skill.22226f11-ebc0-4b0d-afd7-02ac0b126ea7)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Dr. Dog skill, try saying...

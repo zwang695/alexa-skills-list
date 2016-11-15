@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Failed Technology Predictions icon" width="36"> [Failed Technology Predictions](http://alexa.amazon.com/#skills/amzn1.ask.skill.22d898c9-4f73-404f-b871-d1aae1b79c0f)
+# [Failed Technology Predictions](http://alexa.amazon.com/#skills/amzn1.ask.skill.22d898c9-4f73-404f-b871-d1aae1b79c0f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Failed Technology Predictions skill, try saying...

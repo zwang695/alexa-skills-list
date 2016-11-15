@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Upcoming Events for Overwatch icon" width="36"> [Upcoming Events for Overwatch](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0973bf2-118b-446d-9eed-7c02b3332479)
+# [Upcoming Events for Overwatch](http://alexa.amazon.com/#skills/amzn1.ask.skill.f0973bf2-118b-446d-9eed-7c02b3332479)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Upcoming Events for Overwatch skill, try saying...

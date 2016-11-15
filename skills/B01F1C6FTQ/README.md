@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Boo Boo Statistics icon" width="36"> [Boo Boo Statistics](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.945a0ff6-0826-4565-83c8-914affb8536f)
+# [Boo Boo Statistics](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.945a0ff6-0826-4565-83c8-914affb8536f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Boo Boo Statistics skill, try saying...

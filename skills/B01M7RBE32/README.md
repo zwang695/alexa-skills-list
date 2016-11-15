@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Minecraft Quiz icon" width="36"> [Unofficial Minecraft Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.369e3d3d-dd44-4110-9e2f-a5b476a6d2f5)
+# [Unofficial Minecraft Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.369e3d3d-dd44-4110-9e2f-a5b476a6d2f5)
 ![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Unofficial Minecraft Quiz skill, try saying...

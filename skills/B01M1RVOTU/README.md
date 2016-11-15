@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Geo Teacher icon" width="36"> [Geo Teacher](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb1bcb77-9af2-4a3a-99f6-afad2aa5d49d)
+# [Geo Teacher](http://alexa.amazon.com/#skills/amzn1.ask.skill.cb1bcb77-9af2-4a3a-99f6-afad2aa5d49d)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Geo Teacher skill, try saying...

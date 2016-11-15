@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="American Trivia icon" width="36"> [American Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.383bb406-a26d-418e-9979-6da060e08e2c)
+# [American Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.383bb406-a26d-418e-9979-6da060e08e2c)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the American Trivia skill, try saying...

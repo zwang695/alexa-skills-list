@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Focus Word icon" width="36"> [Focus Word](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.705404af-499b-4e41-b6c6-4ef3b66383e5)
+# [Focus Word](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.705404af-499b-4e41-b6c6-4ef3b66383e5)
 ![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 21
 
 To use the Focus Word skill, try saying...

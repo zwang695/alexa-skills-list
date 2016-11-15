@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Isobar Locations icon" width="36"> [Isobar Locations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8476383c-89cf-4381-aeda-5e01ef207fb9)
+# [Isobar Locations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8476383c-89cf-4381-aeda-5e01ef207fb9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Isobar Locations skill, try saying...

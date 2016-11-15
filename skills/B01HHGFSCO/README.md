@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fun Facts for Euro 2016 icon" width="36"> [Fun Facts for Euro 2016](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fd4ad53f-ffe6-4589-8409-74a9285b1508)
+# [Fun Facts for Euro 2016](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.fd4ad53f-ffe6-4589-8409-74a9285b1508)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Fun Facts for Euro 2016 skill, try saying...

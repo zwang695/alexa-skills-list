@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ExistentialQuotes icon" width="36"> [ExistentialQuotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.ab5d8c88-55d8-45b2-85a2-52d0e0bcc3d3)
+# [ExistentialQuotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.ab5d8c88-55d8-45b2-85a2-52d0e0bcc3d3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ExistentialQuotes skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Blood Pressure Log icon" width="36"> [Blood Pressure Log](http://alexa.amazon.com/#skills/amzn1.ask.skill.4a0b2f6c-a65e-4b99-ad8c-c5a8bc783f15)
+# [Blood Pressure Log](http://alexa.amazon.com/#skills/amzn1.ask.skill.4a0b2f6c-a65e-4b99-ad8c-c5a8bc783f15)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Blood Pressure Log skill, try saying...

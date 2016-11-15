@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mount Pakenham icon" width="36"> [Snow Report for Mount Pakenham](http://alexa.amazon.com/#skills/amzn1.ask.skill.35ba6c29-436a-47f3-98e4-e1a32eee6bcf)
+# [Snow Report for Mount Pakenham](http://alexa.amazon.com/#skills/amzn1.ask.skill.35ba6c29-436a-47f3-98e4-e1a32eee6bcf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mount Pakenham skill, try saying...

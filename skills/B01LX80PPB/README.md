@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Die Hard Facts icon" width="36"> [Unofficial Die Hard Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.efbdae70-d3b3-4f28-9d7b-de8660479953)
+# [Unofficial Die Hard Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.efbdae70-d3b3-4f28-9d7b-de8660479953)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Die Hard Facts skill, try saying...

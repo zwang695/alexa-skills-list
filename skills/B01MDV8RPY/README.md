@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Pico Mountain icon" width="36"> [Snow Report for Pico Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.f9858d6c-89d4-4d81-a294-f27ff1ad1fd9)
+# [Snow Report for Pico Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.f9858d6c-89d4-4d81-a294-f27ff1ad1fd9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Pico Mountain skill, try saying...

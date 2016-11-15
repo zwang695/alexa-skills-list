@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Logan Square Facts icon" width="36"> [Logan Square Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1ee66bf6-9577-47f8-80eb-e9e6e1509491)
+# [Logan Square Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1ee66bf6-9577-47f8-80eb-e9e6e1509491)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Logan Square Facts skill, try saying...

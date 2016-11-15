@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Curly Brace icon" width="36"> [Curly Brace](http://alexa.amazon.com/#skills/amzn1.ask.skill.507262f8-f9f8-4ae2-915e-6e3febce4b99)
+# [Curly Brace](http://alexa.amazon.com/#skills/amzn1.ask.skill.507262f8-f9f8-4ae2-915e-6e3febce4b99)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Curly Brace skill, try saying...

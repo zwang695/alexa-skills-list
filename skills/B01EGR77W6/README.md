@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Food Holiday icon" width="36"> [Food Holiday](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.23323256-f45f-4420-9df7-556010be5973)
+# [Food Holiday](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.23323256-f45f-4420-9df7-556010be5973)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Food Holiday skill, try saying...

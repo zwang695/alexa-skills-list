@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ChessOpeningHelper icon" width="36"> [ChessOpeningHelper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ddb141aa-5c06-4f84-a685-24dc2cd998d9)
+# [ChessOpeningHelper](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ddb141aa-5c06-4f84-a685-24dc2cd998d9)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the ChessOpeningHelper skill, try saying...

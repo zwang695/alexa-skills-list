@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="impro icon" width="36"> [impro](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dfb83cdb-6e32-4855-b93c-5be2392987a9)
+# [impro](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.dfb83cdb-6e32-4855-b93c-5be2392987a9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the impro skill, try saying...

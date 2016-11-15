@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="State Abbreviations icon" width="36"> [State Abbreviations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.77eb3611-3810-4b2c-b348-a5960e34ee14)
+# [State Abbreviations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.77eb3611-3810-4b2c-b348-a5960e34ee14)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the State Abbreviations skill, try saying...

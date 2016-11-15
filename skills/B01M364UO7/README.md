@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mount Pleasant icon" width="36"> [Snow Report for Mount Pleasant](http://alexa.amazon.com/#skills/amzn1.ask.skill.27c799ad-b83d-4e14-b607-de3cc77e89a4)
+# [Snow Report for Mount Pleasant](http://alexa.amazon.com/#skills/amzn1.ask.skill.27c799ad-b83d-4e14-b607-de3cc77e89a4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mount Pleasant skill, try saying...

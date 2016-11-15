@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Inspiring Quotes icon" width="36"> [Inspiring Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.4dc7f7e5-3397-4b31-8292-a435a4b81793)
+# [Inspiring Quotes](http://alexa.amazon.com/#skills/amzn1.ask.skill.4dc7f7e5-3397-4b31-8292-a435a4b81793)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Inspiring Quotes skill, try saying...

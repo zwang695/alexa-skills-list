@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ocean Facts icon" width="36"> [Ocean Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2c5d23f3-9b7f-4e93-a815-335b702eaae7)
+# [Ocean Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.2c5d23f3-9b7f-4e93-a815-335b702eaae7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ocean Facts skill, try saying...

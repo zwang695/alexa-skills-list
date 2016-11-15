@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Password Generator icon" width="36"> [Random Password Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.f6dead19-2919-4826-a9e2-3a26372ba70a)
+# [Random Password Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.f6dead19-2919-4826-a9e2-3a26372ba70a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Password Generator skill, try saying...

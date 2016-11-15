@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cerebral Palsy Facts icon" width="36"> [Cerebral Palsy Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.292e34d2-9deb-46aa-b7cd-72d6c26e4f25)
+# [Cerebral Palsy Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.292e34d2-9deb-46aa-b7cd-72d6c26e4f25)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Cerebral Palsy Facts skill, try saying...

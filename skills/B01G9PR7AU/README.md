@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Your personal fitness trainer icon" width="36"> [Your personal fitness trainer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.12493793-887a-4e65-9698-3eef444a6b9e)
+# [Your personal fitness trainer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.12493793-887a-4e65-9698-3eef444a6b9e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Your personal fitness trainer skill, try saying...

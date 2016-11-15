@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Cat Facts icon" width="36"> [Random Cat Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.16b636fd-b68e-4414-a873-6d0ee9ca1c4a)
+# [Random Cat Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.16b636fd-b68e-4414-a873-6d0ee9ca1c4a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Cat Facts skill, try saying...

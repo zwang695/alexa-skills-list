@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lottery Numbers Take 5 icon" width="36"> [Lottery Numbers Take 5](http://alexa.amazon.com/#skills/amzn1.ask.skill.67150d25-c2a6-4dda-9d3a-72c660c2aff1)
+# [Lottery Numbers Take 5](http://alexa.amazon.com/#skills/amzn1.ask.skill.67150d25-c2a6-4dda-9d3a-72c660c2aff1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lottery Numbers Take 5 skill, try saying...

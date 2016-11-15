@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="state capital quiz - multiple choice icon" width="36"> [state capital quiz - multiple choice](http://alexa.amazon.com/#skills/amzn1.ask.skill.b1fa24b2-58d9-4fb6-8bc4-e32795a41339)
+# [state capital quiz - multiple choice](http://alexa.amazon.com/#skills/amzn1.ask.skill.b1fa24b2-58d9-4fb6-8bc4-e32795a41339)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the state capital quiz - multiple choice skill, try saying...

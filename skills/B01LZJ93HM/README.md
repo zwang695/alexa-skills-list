@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Donald versus Hillary icon" width="36"> [Donald versus Hillary](http://alexa.amazon.com/#skills/amzn1.ask.skill.97899578-48c7-45f2-a600-3ca8e63f2405)
+# [Donald versus Hillary](http://alexa.amazon.com/#skills/amzn1.ask.skill.97899578-48c7-45f2-a600-3ca8e63f2405)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Donald versus Hillary skill, try saying...

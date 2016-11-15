@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Word icon" width="36"> [Random Word](http://alexa.amazon.com/#skills/amzn1.ask.skill.875800f7-abe7-4947-bc11-8b0a60102334)
+# [Random Word](http://alexa.amazon.com/#skills/amzn1.ask.skill.875800f7-abe7-4947-bc11-8b0a60102334)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Word skill, try saying...

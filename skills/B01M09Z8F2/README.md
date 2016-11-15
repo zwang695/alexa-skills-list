@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MLB.com Gameday Audio icon" width="36"> [MLB.com Gameday Audio](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1f027480-c2cc-480f-98d6-c9485d863ca9)
+# [MLB.com Gameday Audio](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1f027480-c2cc-480f-98d6-c9485d863ca9)
 ![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 17
 
 To use the MLB.com Gameday Audio skill, try saying...

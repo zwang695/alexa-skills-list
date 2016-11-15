@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Guess The Planet icon" width="36"> [Guess The Planet](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e9330856-e162-474b-9843-3ffa9b4f1cde)
+# [Guess The Planet](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e9330856-e162-474b-9843-3ffa9b4f1cde)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Guess The Planet skill, try saying...

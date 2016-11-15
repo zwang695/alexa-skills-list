@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="How to Make A Cupcake icon" width="36"> [How to Make A Cupcake](http://alexa.amazon.com/#skills/amzn1.ask.skill.acc886b7-3019-4581-88cb-a3fa3bf55edc)
+# [How to Make A Cupcake](http://alexa.amazon.com/#skills/amzn1.ask.skill.acc886b7-3019-4581-88cb-a3fa3bf55edc)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the How to Make A Cupcake skill, try saying...

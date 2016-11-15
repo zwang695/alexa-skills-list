@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Good Housekeeping icon" width="36"> [Good Housekeeping](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bc6eb6cb-4182-4b83-9f15-363f682192b2)
+# [Good Housekeeping](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bc6eb6cb-4182-4b83-9f15-363f682192b2)
 ![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the Good Housekeeping skill, try saying...

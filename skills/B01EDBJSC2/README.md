@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ability Trivia for League of Legends icon" width="36"> [Ability Trivia for League of Legends](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d923812e-8c0f-49dc-8a36-a1fc2b44ddb5)
+# [Ability Trivia for League of Legends](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d923812e-8c0f-49dc-8a36-a1fc2b44ddb5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ability Trivia for League of Legends skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Alphabet Food icon" width="36"> [Alphabet Food](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8c7f3c54-5bdb-4186-8cec-df7319209065)
+# [Alphabet Food](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8c7f3c54-5bdb-4186-8cec-df7319209065)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Alphabet Food skill, try saying...

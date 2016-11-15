@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="American Presidential Election Trivia Quiz icon" width="36"> [American Presidential Election Trivia Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b78b0fc-a7ff-4d67-8a64-e090a6dec677)
+# [American Presidential Election Trivia Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.0b78b0fc-a7ff-4d67-8a64-e090a6dec677)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the American Presidential Election Trivia Quiz skill, try saying...

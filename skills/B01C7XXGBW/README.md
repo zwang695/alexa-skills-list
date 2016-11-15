@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Rick's School Tools State Capitals icon" width="36"> [Rick's School Tools State Capitals](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7e602bb6-0427-4997-a134-123a512e704b)
+# [Rick's School Tools State Capitals](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7e602bb6-0427-4997-a134-123a512e704b)
 ![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Rick's School Tools State Capitals skill, try saying...

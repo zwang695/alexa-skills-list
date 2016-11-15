@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Cataloochee Ski Area icon" width="36"> [Snow Report for Cataloochee Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.4aa44f99-f36d-4db3-8d94-6c533c49c6f8)
+# [Snow Report for Cataloochee Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.4aa44f99-f36d-4db3-8d94-6c533c49c6f8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Cataloochee Ski Area skill, try saying...

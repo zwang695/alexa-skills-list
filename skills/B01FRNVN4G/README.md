@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="IndieCred icon" width="36"> [IndieCred](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8f616f2b-3330-443e-b20b-511fd981609e)
+# [IndieCred](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8f616f2b-3330-443e-b20b-511fd981609e)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the IndieCred skill, try saying...

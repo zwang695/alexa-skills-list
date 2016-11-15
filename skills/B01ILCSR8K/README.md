@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="AminoAcidFlashCards icon" width="36"> [AminoAcidFlashCards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a991b92-cff4-47f6-b930-23e8aa546a81)
+# [AminoAcidFlashCards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a991b92-cff4-47f6-b930-23e8aa546a81)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the AminoAcidFlashCards skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nepal Facts icon" width="36"> [Nepal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6c0ca104-9cbb-404d-9d56-e8352328def5)
+# [Nepal Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6c0ca104-9cbb-404d-9d56-e8352328def5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Nepal Facts skill, try saying...

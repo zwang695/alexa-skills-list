@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="awesome hair tips icon" width="36"> [awesome hair tips](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b57e4126-efca-4712-8910-eda123501ec8)
+# [awesome hair tips](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b57e4126-efca-4712-8910-eda123501ec8)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the awesome hair tips skill, try saying...

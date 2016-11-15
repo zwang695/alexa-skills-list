@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hopstand icon" width="36"> [Hopstand](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5c89c34c-5dc7-4287-a116-9b080d523c0a)
+# [Hopstand](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5c89c34c-5dc7-4287-a116-9b080d523c0a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hopstand skill, try saying...

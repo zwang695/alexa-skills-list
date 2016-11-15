@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hungary facts icon" width="36"> [Hungary facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.be3d0404-0761-4613-84ea-9d66f0c7cc74)
+# [Hungary facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.be3d0404-0761-4613-84ea-9d66f0c7cc74)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hungary facts skill, try saying...

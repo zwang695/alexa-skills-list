@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Indiana Basketball Facts icon" width="36"> [Indiana Basketball Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.63e65145-326e-408d-b99a-202596a6b5bb)
+# [Indiana Basketball Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.63e65145-326e-408d-b99a-202596a6b5bb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Indiana Basketball Facts skill, try saying...

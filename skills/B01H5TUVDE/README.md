@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Portland Trivia icon" width="36"> [Portland Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c9f6da5e-55e4-413f-9ba9-2e4b92da9208)
+# [Portland Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c9f6da5e-55e4-413f-9ba9-2e4b92da9208)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Portland Trivia skill, try saying...

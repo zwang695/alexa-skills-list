@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ankuoo REC icon" width="36"> [Ankuoo REC](http://alexa.amazon.com/#skills/amzn1.ask.skill.20dd4ecc-9b08-4e38-9c81-dedf76855c68)
+# [Ankuoo REC](http://alexa.amazon.com/#skills/amzn1.ask.skill.20dd4ecc-9b08-4e38-9c81-dedf76855c68)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 With the Ankuoo REC skill and Alexa, you can now interact with your Ankuoo smart switches, dimmer switches and other products in the Ankuoo REC family. To get started, select the ‘Enable Skill’ button in the Alexa App to link your Ankuoo account and discover your device(s). Find more information about connecting Smart Home devices at http://amzn.to/291lR7u.

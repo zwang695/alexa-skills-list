@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="MS Trivia icon" width="36"> [MS Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.dc90588f-cbe6-4262-ac08-04597e5707dc)
+# [MS Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.dc90588f-cbe6-4262-ac08-04597e5707dc)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the MS Trivia skill, try saying...

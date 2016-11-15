@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Chinese Eat icon" width="36"> [Unofficial Chinese Eat](http://alexa.amazon.com/#skills/amzn1.ask.skill.7dbfa969-6944-4761-b745-9316097d828d)
+# [Unofficial Chinese Eat](http://alexa.amazon.com/#skills/amzn1.ask.skill.7dbfa969-6944-4761-b745-9316097d828d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Chinese Eat skill, try saying...

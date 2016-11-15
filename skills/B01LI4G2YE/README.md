@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Feet2Meters icon" width="36"> [Feet2Meters](http://alexa.amazon.com/#skills/amzn1.ask.skill.ec0cb951-d82b-44e5-beb2-f77f63bf43c9)
+# [Feet2Meters](http://alexa.amazon.com/#skills/amzn1.ask.skill.ec0cb951-d82b-44e5-beb2-f77f63bf43c9)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Feet2Meters skill, try saying...

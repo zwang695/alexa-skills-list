@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DogTrivia icon" width="36"> [DogTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2ea4dd88-b0c0-4db4-9dee-17140f44e5e5)
+# [DogTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2ea4dd88-b0c0-4db4-9dee-17140f44e5e5)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the DogTrivia skill, try saying...

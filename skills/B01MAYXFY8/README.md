@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Bradford Ski Area icon" width="36"> [Snow Report for Bradford Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.a3bbbc22-345f-4ba8-9f19-c016a4b49047)
+# [Snow Report for Bradford Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.a3bbbc22-345f-4ba8-9f19-c016a4b49047)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Bradford Ski Area skill, try saying...

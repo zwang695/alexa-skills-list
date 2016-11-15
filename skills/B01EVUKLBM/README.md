@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Facts about Donald icon" width="36"> [Facts about Donald](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8d4b9a98-2fe0-496d-acac-1927efbebbb5)
+# [Facts about Donald](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8d4b9a98-2fe0-496d-acac-1927efbebbb5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Facts about Donald skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="The Arlen Bystander icon" width="36"> [The Arlen Bystander](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.df7d1fa7-b1ce-4c2e-87f8-09eba539ac9f)
+# [The Arlen Bystander](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.df7d1fa7-b1ce-4c2e-87f8-09eba539ac9f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the The Arlen Bystander skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Nutrient Facts icon" width="36"> [Nutrient Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6a961256-7950-4472-bdb3-e7e45615ef0f)
+# [Nutrient Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.6a961256-7950-4472-bdb3-e7e45615ef0f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Nutrient Facts skill, try saying...

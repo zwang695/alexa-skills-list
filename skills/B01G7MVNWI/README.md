@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="WaPo Elections icon" width="36"> [WaPo Elections](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.65bad75f-5039-4ba6-ae57-adc11d596964)
+# [WaPo Elections](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.65bad75f-5039-4ba6-ae57-adc11d596964)
 ![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 23
 
 To use the WaPo Elections skill, try saying...

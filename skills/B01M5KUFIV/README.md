@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mont Blanc icon" width="36"> [Snow Report for Mont Blanc](http://alexa.amazon.com/#skills/amzn1.ask.skill.e662c07f-2917-481c-a6fe-4307f0d37bd7)
+# [Snow Report for Mont Blanc](http://alexa.amazon.com/#skills/amzn1.ask.skill.e662c07f-2917-481c-a6fe-4307f0d37bd7)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mont Blanc skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Ice Cream Recipe 2 Bowls icon" width="36"> [Ice Cream Recipe 2 Bowls](http://alexa.amazon.com/#skills/amzn1.ask.skill.52fd9a41-afa8-4c1f-9e8a-87a038c4a635)
+# [Ice Cream Recipe 2 Bowls](http://alexa.amazon.com/#skills/amzn1.ask.skill.52fd9a41-afa8-4c1f-9e8a-87a038c4a635)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Ice Cream Recipe 2 Bowls skill, try saying...

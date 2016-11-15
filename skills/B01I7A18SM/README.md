@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Connecticut Facts icon" width="36"> [Connecticut Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a668e54b-f84e-413b-ba77-c97f97607588)
+# [Connecticut Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a668e54b-f84e-413b-ba77-c97f97607588)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Connecticut Facts skill, try saying...

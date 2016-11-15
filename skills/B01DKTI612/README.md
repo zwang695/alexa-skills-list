@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="StartupInfo icon" width="36"> [StartupInfo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.682f933f-69de-4dd4-8538-796c47ac26ca)
+# [StartupInfo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.682f933f-69de-4dd4-8538-796c47ac26ca)
 ![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the StartupInfo skill, try saying...

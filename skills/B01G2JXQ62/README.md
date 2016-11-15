@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Tomatonator Trivia icon" width="36"> [Tomatonator Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.850a9d89-445e-4dcf-95ad-a9730feefe5f)
+# [Tomatonator Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.850a9d89-445e-4dcf-95ad-a9730feefe5f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Tomatonator Trivia skill, try saying...

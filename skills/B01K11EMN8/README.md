@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Geek Humor icon" width="36"> [Geek Humor](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ca4e8e7-46b4-4077-ae3d-008391f62268)
+# [Geek Humor](http://alexa.amazon.com/#skills/amzn1.ask.skill.6ca4e8e7-46b4-4077-ae3d-008391f62268)
 ![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Geek Humor skill, try saying...

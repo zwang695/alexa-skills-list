@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Life Pro Tips for Reddit icon" width="36"> [Life Pro Tips for Reddit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.39e08b4e-ad67-4817-8cd1-b6f05f1afeb0)
+# [Life Pro Tips for Reddit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.39e08b4e-ad67-4817-8cd1-b6f05f1afeb0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Life Pro Tips for Reddit skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Lawn icon" width="36"> [My Lawn](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db5d9b5d-4c82-4806-975e-29e3f2ab06e1)
+# [My Lawn](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.db5d9b5d-4c82-4806-975e-29e3f2ab06e1)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the My Lawn skill, try saying...

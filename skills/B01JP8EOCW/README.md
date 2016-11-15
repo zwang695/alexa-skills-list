@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Honeywell Lyric Round Thermostat icon" width="36"> [Honeywell Lyric Round Thermostat](http://alexa.amazon.com/#skills/amzn1.ask.skill.c4c85c7d-f4f9-480b-b66c-03f7f8c1960e)
+# [Honeywell Lyric Round Thermostat](http://alexa.amazon.com/#skills/amzn1.ask.skill.c4c85c7d-f4f9-480b-b66c-03f7f8c1960e)
 ![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 11
 
 With the Honeywell skill and Alexa, you can now interact with your Honeywell Lyric thermostat(s) with your voice.  

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Presidential Flash Cards icon" width="36"> [Presidential Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.28a85226-87e5-44bb-8ea5-8214a6ca24a4)
+# [Presidential Flash Cards](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.28a85226-87e5-44bb-8ea5-8214a6ca24a4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Presidential Flash Cards skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Lebanon Facts icon" width="36"> [Lebanon Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8847abc8-780d-426d-ad76-8da34cb6459f)
+# [Lebanon Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8847abc8-780d-426d-ad76-8da34cb6459f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Lebanon Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hockey Master icon" width="36"> [Hockey Master](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.93b512e8-586a-4b7b-b8b3-9c9c6729836e)
+# [Hockey Master](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.93b512e8-586a-4b7b-b8b3-9c9c6729836e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Hockey Master skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Skill Finder icon" width="36"> [Skill Finder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1cd73001-e0fb-4e3d-bd09-38d70f3bd6aa)
+# [Skill Finder](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1cd73001-e0fb-4e3d-bd09-38d70f3bd6aa)
 ![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the Skill Finder skill, try saying...

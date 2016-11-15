@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Rollins-Carlson Family Facts icon" width="36"> [Rollins-Carlson Family Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8d629775-9b08-4fe9-b134-d63b03f7fc3f)
+# [Rollins-Carlson Family Facts](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8d629775-9b08-4fe9-b134-d63b03f7fc3f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Rollins-Carlson Family Facts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CalPal icon" width="36"> [CalPal](http://alexa.amazon.com/#skills/amzn1.ask.skill.91d84586-21d7-44d9-b8c9-3682e9005e5a)
+# [CalPal](http://alexa.amazon.com/#skills/amzn1.ask.skill.91d84586-21d7-44d9-b8c9-3682e9005e5a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CalPal skill, try saying...

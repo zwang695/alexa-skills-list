@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Crystal Mountain Michigan icon" width="36"> [Snow Report for Crystal Mountain Michigan](http://alexa.amazon.com/#skills/amzn1.ask.skill.0c2f96f9-e240-408a-a300-088ef9cbde62)
+# [Snow Report for Crystal Mountain Michigan](http://alexa.amazon.com/#skills/amzn1.ask.skill.0c2f96f9-e240-408a-a300-088ef9cbde62)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Crystal Mountain Michigan skill, try saying...

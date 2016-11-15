@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Angry Quotes icon" width="36"> [Angry Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f67eb104-3e7b-47b4-85b3-58a54b245b93)
+# [Angry Quotes](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.f67eb104-3e7b-47b4-85b3-58a54b245b93)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Angry Quotes skill, try saying...

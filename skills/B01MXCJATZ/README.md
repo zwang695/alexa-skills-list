@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Bruce Mound icon" width="36"> [Snow Report for Bruce Mound](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef5bd0a5-6f97-4a23-b0ef-d65250cd858b)
+# [Snow Report for Bruce Mound](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef5bd0a5-6f97-4a23-b0ef-d65250cd858b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Bruce Mound skill, try saying...

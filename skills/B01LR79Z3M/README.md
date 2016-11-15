@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Whistler Blackcomb icon" width="36"> [Snow Report for Whistler Blackcomb](http://alexa.amazon.com/#skills/amzn1.ask.skill.5da6bc5f-4f09-4315-8809-085792aaf2f1)
+# [Snow Report for Whistler Blackcomb](http://alexa.amazon.com/#skills/amzn1.ask.skill.5da6bc5f-4f09-4315-8809-085792aaf2f1)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Whistler Blackcomb skill, try saying...

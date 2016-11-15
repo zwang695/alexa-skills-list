@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Snowhaven Ski Area icon" width="36"> [Snow Report for Snowhaven Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.d4d01b72-9bcd-4445-8a94-fe91fbda4369)
+# [Snow Report for Snowhaven Ski Area](http://alexa.amazon.com/#skills/amzn1.ask.skill.d4d01b72-9bcd-4445-8a94-fe91fbda4369)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Snowhaven Ski Area skill, try saying...

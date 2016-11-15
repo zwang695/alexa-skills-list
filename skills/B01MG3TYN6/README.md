@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="News Buddy icon" width="36"> [News Buddy](http://alexa.amazon.com/#skills/amzn1.ask.skill.085c9caa-3eee-4cb2-bf8f-9e2d08a300aa)
+# [News Buddy](http://alexa.amazon.com/#skills/amzn1.ask.skill.085c9caa-3eee-4cb2-bf8f-9e2d08a300aa)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the News Buddy skill, try saying...

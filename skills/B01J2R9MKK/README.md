@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="RioFacts icon" width="36"> [RioFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5e0355b-d2a6-4c89-93e9-be97a3aed89c)
+# [RioFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.d5e0355b-d2a6-4c89-93e9-be97a3aed89c)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the RioFacts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Next President icon" width="36"> [Next President](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.59a22aa4-95a6-4a4d-8cb0-0f4c4812d348)
+# [Next President](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.59a22aa4-95a6-4a4d-8cb0-0f4c4812d348)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Next President skill, try saying...

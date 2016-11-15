@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Free Champs icon" width="36"> [Free Champs](http://alexa.amazon.com/#skills/amzn1.ask.skill.99614cfb-5bcb-49fd-aa3d-fd3dd2f8ac09)
+# [Free Champs](http://alexa.amazon.com/#skills/amzn1.ask.skill.99614cfb-5bcb-49fd-aa3d-fd3dd2f8ac09)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Free Champs skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Brad Pitt Facts icon" width="36"> [Brad Pitt Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0888ec41-4e2e-482f-a365-694d6d79f0b3)
+# [Brad Pitt Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.0888ec41-4e2e-482f-a365-694d6d79f0b3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Brad Pitt Facts skill, try saying...

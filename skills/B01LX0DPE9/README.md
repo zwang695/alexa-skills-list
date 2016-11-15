@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Canyon Mountain icon" width="36"> [Snow Report for Canyon Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.16321dee-29ee-4e42-bed2-715da39b479e)
+# [Snow Report for Canyon Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.16321dee-29ee-4e42-bed2-715da39b479e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Canyon Mountain skill, try saying...

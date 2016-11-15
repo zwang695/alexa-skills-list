@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Apple Mountain icon" width="36"> [Snow Report for Apple Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.740f166b-abb4-47e3-9780-718aae62b31a)
+# [Snow Report for Apple Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.740f166b-abb4-47e3-9780-718aae62b31a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Apple Mountain skill, try saying...

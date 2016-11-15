@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="City of Las Vegas Information icon" width="36"> [City of Las Vegas Information](http://alexa.amazon.com/#skills/amzn1.ask.skill.503b0ec0-59f9-4dba-9810-7f37fc91ed81)
+# [City of Las Vegas Information](http://alexa.amazon.com/#skills/amzn1.ask.skill.503b0ec0-59f9-4dba-9810-7f37fc91ed81)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the City of Las Vegas Information skill, try saying...

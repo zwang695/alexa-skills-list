@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Beginners Method Cube Solver icon" width="36"> [Beginners Method Cube Solver](http://alexa.amazon.com/#skills/amzn1.ask.skill.bfe50318-bd21-4d11-8d87-c41ee323c29a)
+# [Beginners Method Cube Solver](http://alexa.amazon.com/#skills/amzn1.ask.skill.bfe50318-bd21-4d11-8d87-c41ee323c29a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Beginners Method Cube Solver skill, try saying...

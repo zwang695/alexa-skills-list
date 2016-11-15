@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Genesis icon" width="36"> [Genesis](http://alexa.amazon.com/#skills/amzn1.ask.skill.0309a295-2b96-4d22-b38e-d80c4b5530ba)
+# [Genesis](http://alexa.amazon.com/#skills/amzn1.ask.skill.0309a295-2b96-4d22-b38e-d80c4b5530ba)
 ![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 19
 
 To use the Genesis skill, try saying...

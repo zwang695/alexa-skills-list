@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Communication Styles icon" width="36"> [Communication Styles](http://alexa.amazon.com/#skills/amzn1.ask.skill.45f6f712-e644-490c-bc9e-29a5acfd4895)
+# [Communication Styles](http://alexa.amazon.com/#skills/amzn1.ask.skill.45f6f712-e644-490c-bc9e-29a5acfd4895)
 ![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Communication Styles skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What pet should I get? icon" width="36"> [What pet should I get?](http://alexa.amazon.com/#skills/amzn1.ask.skill.7f7a1687-3d9a-4a5c-8ce1-687ded92af9b)
+# [What pet should I get?](http://alexa.amazon.com/#skills/amzn1.ask.skill.7f7a1687-3d9a-4a5c-8ce1-687ded92af9b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the What pet should I get? skill, try saying...

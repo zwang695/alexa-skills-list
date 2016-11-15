@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Mt Shasta icon" width="36"> [Snow Report for Mt Shasta](http://alexa.amazon.com/#skills/amzn1.ask.skill.5ea5c74a-5b6b-485b-9ba4-8d1996dfa64e)
+# [Snow Report for Mt Shasta](http://alexa.amazon.com/#skills/amzn1.ask.skill.5ea5c74a-5b6b-485b-9ba4-8d1996dfa64e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Mt Shasta skill, try saying...

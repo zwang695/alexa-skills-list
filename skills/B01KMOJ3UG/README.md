@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="WOWTrivia icon" width="36"> [WOWTrivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.d67bc693-fbd3-416d-9c98-5bb09bfd0a3d)
+# [WOWTrivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.d67bc693-fbd3-416d-9c98-5bb09bfd0a3d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the WOWTrivia skill, try saying...

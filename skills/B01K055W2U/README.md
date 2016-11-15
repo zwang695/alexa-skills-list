@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Marvee icon" width="36"> [Marvee](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a81ae255-5ca4-49ef-aceb-c14954fa39fa)
+# [Marvee](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a81ae255-5ca4-49ef-aceb-c14954fa39fa)
 ![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Marvee skill, try saying...

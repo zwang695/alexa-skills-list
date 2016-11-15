@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Translator by Vonage icon" width="36"> [My Translator by Vonage](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.aeb7f0f3-44a6-4146-88de-c42daa94aa34)
+# [My Translator by Vonage](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.aeb7f0f3-44a6-4146-88de-c42daa94aa34)
 ![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 18
 
 To use the My Translator by Vonage skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="SheppyBrew icon" width="36"> [SheppyBrew](http://alexa.amazon.com/#skills/amzn1.ask.skill.1e73da98-4ffa-4cfa-b9c8-2a9e55ce4e4a)
+# [SheppyBrew](http://alexa.amazon.com/#skills/amzn1.ask.skill.1e73da98-4ffa-4cfa-b9c8-2a9e55ce4e4a)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the SheppyBrew skill, try saying...

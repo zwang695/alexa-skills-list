@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="DailyDeal icon" width="36"> [DailyDeal](http://alexa.amazon.com/#skills/amzn1.ask.skill.3827c04e-6747-43fe-aaec-c51af74b0780)
+# [DailyDeal](http://alexa.amazon.com/#skills/amzn1.ask.skill.3827c04e-6747-43fe-aaec-c51af74b0780)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the DailyDeal skill, try saying...

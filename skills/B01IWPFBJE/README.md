@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Q and A Trivia Questions icon" width="36"> [Q and A Trivia Questions](http://alexa.amazon.com/#skills/amzn1.ask.skill.a13f784c-3789-49f7-ad51-926feca294d3)
+# [Q and A Trivia Questions](http://alexa.amazon.com/#skills/amzn1.ask.skill.a13f784c-3789-49f7-ad51-926feca294d3)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Q and A Trivia Questions skill, try saying...

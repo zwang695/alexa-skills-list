@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Weight Loss Tracker icon" width="36"> [Weight Loss Tracker](http://alexa.amazon.com/#skills/amzn1.ask.skill.acd03824-29eb-4cca-9597-fcf23b1675a6)
+# [Weight Loss Tracker](http://alexa.amazon.com/#skills/amzn1.ask.skill.acd03824-29eb-4cca-9597-fcf23b1675a6)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Weight Loss Tracker skill, try saying...

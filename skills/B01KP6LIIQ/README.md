@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="env icon" width="36"> [env](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef96f00e-1916-4e52-bbaa-83b1f261a62a)
+# [env](http://alexa.amazon.com/#skills/amzn1.ask.skill.ef96f00e-1916-4e52-bbaa-83b1f261a62a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the env skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Volleyball Fact icon" width="36"> [Volleyball Fact](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.942e32b9-c5a3-4d64-b61d-6445ed959592)
+# [Volleyball Fact](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.942e32b9-c5a3-4d64-b61d-6445ed959592)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Volleyball Fact skill, try saying...

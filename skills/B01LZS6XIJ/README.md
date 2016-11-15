@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Robot Pick Up Lines icon" width="36"> [Robot Pick Up Lines](http://alexa.amazon.com/#skills/amzn1.ask.skill.c719d1e7-db98-4b13-8c16-6eb926609d2e)
+# [Robot Pick Up Lines](http://alexa.amazon.com/#skills/amzn1.ask.skill.c719d1e7-db98-4b13-8c16-6eb926609d2e)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Robot Pick Up Lines skill, try saying...

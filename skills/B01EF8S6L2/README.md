@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Horror Movie Taglines icon" width="36"> [Horror Movie Taglines](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.36632c42-6063-45a2-9a4d-6da93220c04a)
+# [Horror Movie Taglines](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.36632c42-6063-45a2-9a4d-6da93220c04a)
 ![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Horror Movie Taglines skill, try saying...

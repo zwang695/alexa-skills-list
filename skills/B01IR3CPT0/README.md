@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Cave Master icon" width="36"> [Cave Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.a1991ae3-7761-42b7-973f-ec910e245967)
+# [Cave Master](http://alexa.amazon.com/#skills/amzn1.ask.skill.a1991ae3-7761-42b7-973f-ec910e245967)
 ![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 7
 
 To use the Cave Master skill, try saying...

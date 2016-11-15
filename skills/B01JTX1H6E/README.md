@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Boy Names icon" width="36"> [Boy Names](http://alexa.amazon.com/#skills/amzn1.ask.skill.8b3e901a-da34-4246-a61d-9eb369e34a23)
+# [Boy Names](http://alexa.amazon.com/#skills/amzn1.ask.skill.8b3e901a-da34-4246-a61d-9eb369e34a23)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Boy Names skill, try saying...

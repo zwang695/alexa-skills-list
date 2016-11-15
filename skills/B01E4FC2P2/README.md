@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Butterfleye icon" width="36"> [Butterfleye](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7d593f1e-8d6e-4e29-9ee5-2f0be429acda)
+# [Butterfleye](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7d593f1e-8d6e-4e29-9ee5-2f0be429acda)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Butterfleye skill, try saying...

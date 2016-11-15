@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Drone Geek icon" width="36"> [Drone Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.42cc0cfe-8019-4c10-b4de-5f07fbd171cf)
+# [Drone Geek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.42cc0cfe-8019-4c10-b4de-5f07fbd171cf)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Drone Geek skill, try saying...

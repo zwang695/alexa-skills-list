@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Fake Fact Game icon" width="36"> [Fake Fact Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2f9a0860-a0d7-4761-bafc-d50620c047e9)
+# [Fake Fact Game](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2f9a0860-a0d7-4761-bafc-d50620c047e9)
 ![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Fake Fact Game skill, try saying...

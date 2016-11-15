@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Blockchain Ticker icon" width="36"> [Blockchain Ticker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b470d7ec-14e8-49d2-b3b9-f730e8fd5a98)
+# [Blockchain Ticker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b470d7ec-14e8-49d2-b3b9-f730e8fd5a98)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Blockchain Ticker skill, try saying...

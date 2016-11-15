@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Practice Logger icon" width="36"> [Practice Logger](http://alexa.amazon.com/#skills/amzn1.ask.skill.a37c0dee-8d07-423e-9ee1-85d954e1d0ac)
+# [Practice Logger](http://alexa.amazon.com/#skills/amzn1.ask.skill.a37c0dee-8d07-423e-9ee1-85d954e1d0ac)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Practice Logger skill, try saying...

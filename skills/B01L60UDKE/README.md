@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Skill Fact icon" width="36"> [My Skill Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f348f04-2e9d-4b95-8810-1d8b8df9e6db)
+# [My Skill Fact](http://alexa.amazon.com/#skills/amzn1.ask.skill.6f348f04-2e9d-4b95-8810-1d8b8df9e6db)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the My Skill Fact skill, try saying...

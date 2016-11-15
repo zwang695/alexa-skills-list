@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Banana Facts icon" width="36"> [Banana Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5f5e1c9a-4847-4816-be39-0305bde60059)
+# [Banana Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.5f5e1c9a-4847-4816-be39-0305bde60059)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Banana Facts skill, try saying...

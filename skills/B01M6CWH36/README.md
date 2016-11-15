@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Suicide Six icon" width="36"> [Snow Report for Suicide Six](http://alexa.amazon.com/#skills/amzn1.ask.skill.3c090474-8237-4f8c-a790-838f2ec6f6f6)
+# [Snow Report for Suicide Six](http://alexa.amazon.com/#skills/amzn1.ask.skill.3c090474-8237-4f8c-a790-838f2ec6f6f6)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Suicide Six skill, try saying...

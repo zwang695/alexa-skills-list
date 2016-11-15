@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="ElectronicsTrivia icon" width="36"> [ElectronicsTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5335743a-bedd-4c36-8cf5-01152c618b43)
+# [ElectronicsTrivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5335743a-bedd-4c36-8cf5-01152c618b43)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the ElectronicsTrivia skill, try saying...

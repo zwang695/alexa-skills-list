@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Permutations Calculator icon" width="36"> [Permutations Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.46fa19e2-156a-4c98-a86d-ed1f6a506738)
+# [Permutations Calculator](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.46fa19e2-156a-4c98-a86d-ed1f6a506738)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Permutations Calculator skill, try saying...

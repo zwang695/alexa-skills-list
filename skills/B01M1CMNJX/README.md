@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="My Food Facts icon" width="36"> [My Food Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9eaafdd0-e9c0-4917-ad41-80c36c3b7d64)
+# [My Food Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.9eaafdd0-e9c0-4917-ad41-80c36c3b7d64)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the My Food Facts skill, try saying...

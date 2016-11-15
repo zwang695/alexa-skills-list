@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="RamayanExpert icon" width="36"> [RamayanExpert](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.810f7174-6542-4911-90ad-4b6e76e3d72f)
+# [RamayanExpert](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.810f7174-6542-4911-90ad-4b6e76e3d72f)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the RamayanExpert skill, try saying...

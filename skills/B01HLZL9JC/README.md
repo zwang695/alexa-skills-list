@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Hero Quiz icon" width="36"> [Hero Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9955b0ce-501e-48e0-80b3-093ec393681b)
+# [Hero Quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9955b0ce-501e-48e0-80b3-093ec393681b)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Hero Quiz skill, try saying...

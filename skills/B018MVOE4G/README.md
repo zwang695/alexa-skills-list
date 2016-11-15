@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sassy Persona icon" width="36"> [Sassy Persona](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.683cf809-583c-4f4b-a2da-7703623d97f6)
+# [Sassy Persona](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.683cf809-583c-4f4b-a2da-7703623d97f6)
 ![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Sassy Persona skill, try saying...

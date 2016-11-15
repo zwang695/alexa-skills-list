@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="10 Facts about Germany icon" width="36"> [10 Facts about Germany](http://alexa.amazon.com/#skills/amzn1.ask.skill.7322d00d-c3b8-46f5-9560-6b47a3466c8b)
+# [10 Facts about Germany](http://alexa.amazon.com/#skills/amzn1.ask.skill.7322d00d-c3b8-46f5-9560-6b47a3466c8b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the 10 Facts about Germany skill, try saying...

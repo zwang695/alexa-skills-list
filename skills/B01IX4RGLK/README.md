@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Voice Controlled Car Control icon" width="36"> [Voice Controlled Car Control](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6e1ee6be-a692-407e-8373-f978b7314f18)
+# [Voice Controlled Car Control](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6e1ee6be-a692-407e-8373-f978b7314f18)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Voice Controlled Car Control skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="World Capitals icon" width="36"> [World Capitals](http://alexa.amazon.com/#skills/amzn1.ask.skill.0fdb7a03-48af-4deb-881c-c92184a8a4c5)
+# [World Capitals](http://alexa.amazon.com/#skills/amzn1.ask.skill.0fdb7a03-48af-4deb-881c-c92184a8a4c5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the World Capitals skill, try saying...

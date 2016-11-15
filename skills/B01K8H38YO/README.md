@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Bodybuilding Trivia icon" width="36"> [Bodybuilding Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.06a80be6-80e2-49e2-9bca-fbed30398478)
+# [Bodybuilding Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.06a80be6-80e2-49e2-9bca-fbed30398478)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Bodybuilding Trivia skill, try saying...

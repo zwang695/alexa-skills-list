@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="3D printing facts icon" width="36"> [3D printing facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1f0df877-901e-4c83-84ee-b080996f880d)
+# [3D printing facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.1f0df877-901e-4c83-84ee-b080996f880d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the 3D printing facts skill, try saying...

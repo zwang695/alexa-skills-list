@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Pine Knob icon" width="36"> [Snow Report for Pine Knob](http://alexa.amazon.com/#skills/amzn1.ask.skill.c54c42af-cbaa-423b-ae22-a7ab775e0d64)
+# [Snow Report for Pine Knob](http://alexa.amazon.com/#skills/amzn1.ask.skill.c54c42af-cbaa-423b-ae22-a7ab775e0d64)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Pine Knob skill, try saying...

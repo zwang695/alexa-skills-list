@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="QuoteMachine icon" width="36"> [QuoteMachine](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8094b883-55e5-4ab5-ad9d-5364f81977b5)
+# [QuoteMachine](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8094b883-55e5-4ab5-ad9d-5364f81977b5)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the QuoteMachine skill, try saying...

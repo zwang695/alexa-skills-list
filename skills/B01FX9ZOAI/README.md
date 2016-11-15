@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Therapy icon" width="36"> [Therapy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9c619e27-5399-4fab-9e66-cb1ad14f99e8)
+# [Therapy](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9c619e27-5399-4fab-9e66-cb1ad14f99e8)
 ![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 4
 
 To use the Therapy skill, try saying...

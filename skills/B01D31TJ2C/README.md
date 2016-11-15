@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Mid Century Designer Trivia icon" width="36"> [Mid Century Designer Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.01250dac-6d98-4159-aae1-90b4880e793b)
+# [Mid Century Designer Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.01250dac-6d98-4159-aae1-90b4880e793b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Mid Century Designer Trivia skill, try saying...

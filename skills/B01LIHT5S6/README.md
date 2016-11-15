@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Airplane Amy icon" width="36"> [Airplane Amy](http://alexa.amazon.com/#skills/amzn1.ask.skill.0fe2c347-78ac-4383-b45d-3f62cf8372eb)
+# [Airplane Amy](http://alexa.amazon.com/#skills/amzn1.ask.skill.0fe2c347-78ac-4383-b45d-3f62cf8372eb)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Airplane Amy skill, try saying...

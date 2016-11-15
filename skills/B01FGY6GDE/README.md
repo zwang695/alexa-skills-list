@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="CodeCracker icon" width="36"> [CodeCracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0a451042-8329-4c1d-b61b-3d79964a969e)
+# [CodeCracker](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0a451042-8329-4c1d-b61b-3d79964a969e)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the CodeCracker skill, try saying...

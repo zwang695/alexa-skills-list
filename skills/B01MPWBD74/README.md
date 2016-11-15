@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="RPG Dwarf Name Generator icon" width="36"> [RPG Dwarf Name Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.a7a4cec8-79ad-407c-bd63-406639180824)
+# [RPG Dwarf Name Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.a7a4cec8-79ad-407c-bd63-406639180824)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the RPG Dwarf Name Generator skill, try saying...

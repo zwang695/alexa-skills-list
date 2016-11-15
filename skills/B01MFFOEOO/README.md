@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="I. T. U. Leadership icon" width="36"> [I. T. U. Leadership](http://alexa.amazon.com/#skills/amzn1.ask.skill.f76d763f-f931-477e-b208-a8d080f949df)
+# [I. T. U. Leadership](http://alexa.amazon.com/#skills/amzn1.ask.skill.f76d763f-f931-477e-b208-a8d080f949df)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the I. T. U. Leadership skill, try saying...

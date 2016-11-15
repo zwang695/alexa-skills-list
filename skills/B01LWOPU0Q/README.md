@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="What do you need right now icon" width="36"> [What do you need right now](http://alexa.amazon.com/#skills/amzn1.ask.skill.b413d1fe-67fb-4348-8828-05dd0f566734)
+# [What do you need right now](http://alexa.amazon.com/#skills/amzn1.ask.skill.b413d1fe-67fb-4348-8828-05dd0f566734)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the What do you need right now skill, try saying...

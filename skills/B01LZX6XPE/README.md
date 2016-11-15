@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Unofficial Star Wars Facts icon" width="36"> [Unofficial Star Wars Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.158a90a6-81fe-4edf-add6-a171aafdd37d)
+# [Unofficial Star Wars Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.158a90a6-81fe-4edf-add6-a171aafdd37d)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Unofficial Star Wars Facts skill, try saying...

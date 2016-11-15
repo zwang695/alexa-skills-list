@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Basketball Trivia icon" width="36"> [Basketball Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3ee7e5d3-9dc5-4f1c-9714-283167f133ae)
+# [Basketball Trivia](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3ee7e5d3-9dc5-4f1c-9714-283167f133ae)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Basketball Trivia skill, try saying...

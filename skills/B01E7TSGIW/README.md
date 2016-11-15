@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="1-800-Flowers icon" width="36"> [1-800-Flowers](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6b600e79-2603-40ad-a959-81a74feefd4c)
+# [1-800-Flowers](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.6b600e79-2603-40ad-a959-81a74feefd4c)
 ![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 6
 
 To use the 1-800-Flowers skill, try saying...

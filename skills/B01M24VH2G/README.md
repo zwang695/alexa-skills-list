@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Motivational Quote icon" width="36"> [Motivational Quote](http://alexa.amazon.com/#skills/amzn1.ask.skill.33c4e06f-5f36-4b39-a5dc-56c7cea00dca)
+# [Motivational Quote](http://alexa.amazon.com/#skills/amzn1.ask.skill.33c4e06f-5f36-4b39-a5dc-56c7cea00dca)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Motivational Quote skill, try saying...

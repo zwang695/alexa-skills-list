@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="bloregeek icon" width="36"> [bloregeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3d273cce-9601-46ab-a95c-0b2365ff31a4)
+# [bloregeek](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.3d273cce-9601-46ab-a95c-0b2365ff31a4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the bloregeek skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Football Team Flash Cards icon" width="36"> [Football Team Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.2cb4081e-9efc-4de8-bac4-9f1acefeaa99)
+# [Football Team Flash Cards](http://alexa.amazon.com/#skills/amzn1.ask.skill.2cb4081e-9efc-4de8-bac4-9f1acefeaa99)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Football Team Flash Cards skill, try saying...

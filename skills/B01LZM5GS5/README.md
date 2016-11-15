@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Snow Report for Apex Mountain icon" width="36"> [Snow Report for Apex Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.bad10048-7357-438c-bc02-46d9ad74ab4a)
+# [Snow Report for Apex Mountain](http://alexa.amazon.com/#skills/amzn1.ask.skill.bad10048-7357-438c-bc02-46d9ad74ab4a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Snow Report for Apex Mountain skill, try saying...

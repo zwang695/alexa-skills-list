@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Chord Progressions icon" width="36"> [Random Chord Progressions](http://alexa.amazon.com/#skills/amzn1.ask.skill.6b345551-f1ba-46cd-9647-c4941a7cd3c2)
+# [Random Chord Progressions](http://alexa.amazon.com/#skills/amzn1.ask.skill.6b345551-f1ba-46cd-9647-c4941a7cd3c2)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Chord Progressions skill, try saying...

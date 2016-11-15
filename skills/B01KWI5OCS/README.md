@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Network Subnet Trivia icon" width="36"> [Network Subnet Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.9bab7cf4-920d-4a9d-948a-d0cd994e095a)
+# [Network Subnet Trivia](http://alexa.amazon.com/#skills/amzn1.ask.skill.9bab7cf4-920d-4a9d-948a-d0cd994e095a)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Network Subnet Trivia skill, try saying...

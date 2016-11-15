@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Sunny Quote icon" width="36"> [Sunny Quote](http://alexa.amazon.com/#skills/amzn1.ask.skill.8280897f-5efd-4a2e-9aa8-7fc46a14508b)
+# [Sunny Quote](http://alexa.amazon.com/#skills/amzn1.ask.skill.8280897f-5efd-4a2e-9aa8-7fc46a14508b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Sunny Quote skill, try saying...

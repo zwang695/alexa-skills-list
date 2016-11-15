@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="TechieFacts icon" width="36"> [TechieFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8c4924e-970f-48d8-bae8-b60e17596275)
+# [TechieFacts](http://alexa.amazon.com/#skills/amzn1.ask.skill.b8c4924e-970f-48d8-bae8-b60e17596275)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the TechieFacts skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="WoW Token Price (Unofficial) icon" width="36"> [WoW Token Price (Unofficial)](http://alexa.amazon.com/#skills/amzn1.ask.skill.563730b2-e2c4-492d-aa37-4081439a8e86)
+# [WoW Token Price (Unofficial)](http://alexa.amazon.com/#skills/amzn1.ask.skill.563730b2-e2c4-492d-aa37-4081439a8e86)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the WoW Token Price (Unofficial) skill, try saying...

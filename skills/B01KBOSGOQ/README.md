@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Leonardo da Vinci Facts icon" width="36"> [Leonardo da Vinci Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4c2a18cb-e4b6-4196-b622-bccdb60d072b)
+# [Leonardo da Vinci Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.4c2a18cb-e4b6-4196-b622-bccdb60d072b)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Leonardo da Vinci Facts skill, try saying...

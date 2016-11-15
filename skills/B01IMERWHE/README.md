@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Shiv Mantra icon" width="36"> [Shiv Mantra](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0c090dec-282e-41b4-a298-a12a3d038b37)
+# [Shiv Mantra](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.0c090dec-282e-41b4-a298-a12a3d038b37)
 ![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Shiv Mantra skill, try saying...

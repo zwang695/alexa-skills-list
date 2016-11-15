@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Inspire icon" width="36"> [Inspire](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.63d30f55-7dde-44a4-bb49-86057515f708)
+# [Inspire](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.63d30f55-7dde-44a4-bb49-86057515f708)
 ![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Inspire skill, try saying...

@@ -1,4 +1,4 @@
-# &nbsp;<img src="skill_icon" alt="Random Baby Name icon" width="36"> [Random Baby Name](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.066eb345-f64b-4ecd-9970-9a7847fed2e0)
+# [Random Baby Name](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.066eb345-f64b-4ecd-9970-9a7847fed2e0)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
 To use the Random Baby Name skill, try saying...
