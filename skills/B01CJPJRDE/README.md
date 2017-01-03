@@ -1,5 +1,5 @@
 # [Long Island Train Information](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.8e0cc1a3-5c5d-4b92-9f32-6cb6351723ce)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 8
 
 To use the Long Island Train Information skill, try saying...
 

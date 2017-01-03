@@ -1,5 +1,5 @@
 # [music quiz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.b7a1c018-0b6b-46f7-9bcd-08a4f8c2b7f5)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1.4 stars](../../images/ic_star_black_18dp_1x.png)![1.4 stars](../../images/ic_star_half_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the music quiz skill, try saying...
 

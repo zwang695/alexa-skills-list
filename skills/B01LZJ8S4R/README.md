@@ -1,5 +1,5 @@
 # [Netatmo Energy](http://alexa.amazon.com/#skills/amzn1.ask.skill.f6c9bbce-6c7c-4d22-b110-530c463659b6)
-![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 With Amazon Alexa, control your Netatmo Smart Thermostat just using your voice.<br/>
 At home, ask Alexa to increase, decrease or set the desired temperature effortlessly and keep on focusing on what really matters. <br/>

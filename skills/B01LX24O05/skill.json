@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01LX24O05",
-  "averageRating": 4.1,
+  "averageRating": 3.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "cnn",
   "name": "CNN",
-  "numberOfReviews": 18,
+  "numberOfReviews": 36,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.cnn.com/privacy",

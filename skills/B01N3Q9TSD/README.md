@@ -19,6 +19,6 @@ Simply say a phrase such as "give me a dog fact" or "tell me a fact" and this sk
 * **Category:** null
 * **ID:** amzn1.ask.skill.027b5c92-a26c-45b9-b221-ec07d4ecdc04
 * **ASIN:** B01N3Q9TSD
-* **Author:** Elle
+* **Author:** Elle Nguyen
 * **Release Date:** November 13, 2016 @ 07:43:06
 * **In-App Purchasing:** No

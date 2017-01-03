@@ -1,5 +1,5 @@
 # [Trump (unauthorized and unfiltered)](http://alexa.amazon.com/#skills/amzn1.ask.skill.3c9d0c2d-b6fe-483c-8d4f-e34de4f3015b)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
+![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Trump (unauthorized and unfiltered) skill, try saying...
 

@@ -1,5 +1,5 @@
 # [Caséta Wireless](http://alexa.amazon.com/#skills/amzn1.ask.skill.9580dbe1-649a-4d30-bff6-9e790c26d4fe)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 29
+![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_black_18dp_1x.png)![4.1 stars](../../images/ic_star_half_black_18dp_1x.png) 39
 
 Caséta Wireless brings the convenience of smart lighting control to your home while working seamlessly with Alexa to get the lights for you.
 

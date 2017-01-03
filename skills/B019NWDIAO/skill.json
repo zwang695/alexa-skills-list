@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019NWDIAO",
-  "averageRating": 2.6,
+  "averageRating": 2.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "cat raiser",
   "name": "Cat Raiser",
-  "numberOfReviews": 10,
+  "numberOfReviews": 11,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

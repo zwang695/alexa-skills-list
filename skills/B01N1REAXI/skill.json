@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N1REAXI",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skill is mainly for electronic shoppers who wants to know the experts' opinions on a certain device/product, including the rating, the good/bad parts, the msrp and sometimes the lowest price",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa open expert review"
+  ],
+  "firstReleaseDate": 1481714387.774,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.a4ca5824-0a4a-4420-9e38-a95c0cd1386c",
+  "imageAltText": "Expert Review icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N1REAXI/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "expert review",
+  "name": "Expert Review",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Get review for a product",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2NZCPG2IZCLP8",
+  "vendorName": "Yichao"
+}

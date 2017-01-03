@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "dialog-web.us-west-2.prod.expedia.com"
+  ],
+  "asin": "B01M7TT1O8",
+  "averageRating": 3.2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Expedia for Alexa can give details for your upcoming trips, check your flight status, book you a rental car, remind you what to pack, and check your loyalty points. Requires linking with an Expedia account. Learn what else the Expedia skill can do at www.expedia.com/alexa.\n\nBooking a hotel or a flight are not yet available. We are working hard to bring these exciting features to you soon!\n\nExpedia for Alexa gives customers the ability to make reservations. Reservations made through the Expedia skill may be cancelled by contacting Expedia directly. Reservations must be cancelled 24 hours before booking date. Reservations made within 24 hours of the booking date may not be cancellable.\n\nCall us any time at 1-800-EXPEDIA.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Expedia.",
+    "Alexa, ask Expedia when is my flight?",
+    "Alexa, ask Expedia to reserve a car."
+  ],
+  "firstReleaseDate": 1480462530.536,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.d89dc976-8c69-45f7-9e69-032077a7e93b",
+  "imageAltText": "Expedia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M7TT1O8/skill_icon",
+  "inAppPurchasingSupported": true,
+  "launchPhrase": "expedia",
+  "name": "Expedia",
+  "numberOfReviews": 14,
+  "pamsPartnerId": "f7kA7tdit6fbno1rDHt8rhHZG",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.expedia.com/privacy",
+  "shortDescription": "The Expedia skill for Amazon Alexa lets you hear quick details on your upcoming trip, get your flight status, rent a car, check your loyalty points, and more!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.expedia.com/terms",
+  "vendorId": "M2C9AWH40YREK4",
+  "vendorName": "Expedia Inc."
+}

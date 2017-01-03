@@ -1,5 +1,5 @@
 # [Random Password Generator](http://alexa.amazon.com/#skills/amzn1.ask.skill.f6dead19-2919-4826-a9e2-3a26372ba70a)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 1
 
 To use the Random Password Generator skill, try saying...
 
@@ -9,9 +9,13 @@ To use the Random Password Generator skill, try saying...
 
 * *Alexa, ask Random Password Generator for 20 characters*
 
-Random Password Generator is here to give you a completely unique string of alphanumeric characters. Simply say a number between 1 and 100 and you'll be given a string with that many characters.
+Random Password Generator is here to give you a completely unique string of alphanumeric characters. Simply say a number between 1 - 100 and you'll be given a string which could be used as a password to that value.
 
-Please note: these are not stored anywhere except for the Alexa companion app; you can also remove the card.
+Please note:
+- These are not stored anywhere except for the Alexa companion app; you can also remove the card they're saved on
+- Alexa companion app can be accessed via alexa.amazon.com, or downloaded; more info here:
+
+https://www.amazon.com/gp/help/customer/display.html?nodeId=201602060
 
 ***
 

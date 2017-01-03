@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "cloudcookbook.jeffdelaney.com"
+  ],
+  "asin": "B01N482KOY",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Jeff Delaney's CloudCookbook allows you to search, browse, add, and share your favorite recipes.\n\nWith this skill, Alexa can find your favorite recipes saved on https://cloudcookbook.jeffdelaney.com and read them aloud while you cook.\n\nCan't decide what to make? Ask Alexa what you should eat and she will suggest recipes for you to try.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Cloud Cookbook what I should have for dinner.",
+    "Alexa, ask Cloud Cookbook to search for waffle recipes.",
+    "Alexa, ask Cloud Cookbook for a random recipe."
+  ],
+  "firstReleaseDate": 1481977143.143,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.1f095233-5c82-4d8c-af33-50a828e12f8f",
+  "imageAltText": "CloudCookbook icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N482KOY/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "cloud cookbook",
+  "name": "CloudCookbook",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "FUI64i4KxPjhaOVEqgAsW5XGS",
+  "permissions": null,
+  "privacyPolicyUrl": "https://cloudcookbook.jeffdelaney.com/legal/privacy",
+  "shortDescription": "Get recipe ideas or hear your favorite recipes read aloud while you cook.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1WF59KA65HEPH",
+  "vendorName": "Jeff Delaney"
+}

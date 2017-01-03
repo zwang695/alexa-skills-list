@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01M999C8Y",
+  "averageRating": 1,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "In order to use this skill, first you have to own COOLTOUCH smart switch or other COOLTOUCH products.\nThen you need to activate products first in COOLTOUCH ios/android APP.\nThen enable this skill with your COOLTOUCH APP phone number and password, your devices and scenarios will list in Discovered Devices.\nIn order to control device, try to speak like this:\nAlexa, turn on/off the device name.\nIn order to control scenario, try to speak like this:\nAlexa, turn on the scenario name.\nGerman is not supported yet.\nEnjoy it!",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1480714503.499,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.163d0180-b370-4dd4-9daa-76890e31d0d1",
+  "imageAltText": "COOLTOUCH smart switch control icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M999C8Y/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "COOLTOUCH smart switch control",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "cgZeFHcBtwqjZUS5xP7kb2UoX",
+  "permissions": null,
+  "privacyPolicyUrl": "https://coolcloud.chengputech.com/api/page/privacy_policy",
+  "shortDescription": "Cooltouch Smart Home device control. Device and Scenario are both controllable.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1DEG0JVQPQB2F",
+  "vendorName": "橙朴(上海)智能科技有限公司"
+}

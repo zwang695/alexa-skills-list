@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MRO0YMH",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Ask Alexa to open the fast conversion \"Kilometers to miles\". You have the options to convert from either Kilometers to Miles or vice versa. When prompted just say any number that you wish to convert and remember to include the units.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask kilometers To Miles convert ten miles to kilometers"
+  ],
+  "firstReleaseDate": 1480068353.09,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.98c46c00-9f6b-4b47-b8e2-bb9768c9b56f",
+  "imageAltText": "Kilometers2Miles icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MRO0YMH/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "kilometers to miles",
+  "name": "Kilometers2Miles",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Fast and Easy conversion between Kilometers - Miles and Miles to Kilometers",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2UZ7S08HGUDU",
+  "vendorName": "gdragoste"
+}

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01KKZ5TP0",
-  "averageRating": 4.4,
+  "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "audio hangman",
   "name": "Audio Hangman",
-  "numberOfReviews": 7,
+  "numberOfReviews": 24,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

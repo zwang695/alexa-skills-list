@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01M1GE8CF",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Welcome to the basic Energenie MiHome skill for Alexa. This skill will enable you to ask Alexa to control your MiHome devices.\n\nTo get started, ensure that your Energenie MiHome gateway and associated devices are connected and online. You’ll then need to enable the Energenie MiHome skill by tapping ‘Enable skill’ at the top of this screen. Then, you’ll be asked to provide your MiHome login details so that Alexa can control your devices for you.\n\nThe MiHome Alexa skill works with the following MiHome devices:\n\nMiHome Adapter\nMiHome Adapter plus\nMiHome Socket\nMiHome Light\nMiHome Relay\n\nFor each product you can use these commands:\n\n\"Alexa, turn on <<device>>\"\n\"Alexa, turn off <<device>>\"\n\n<<device>> is the name you have given to your device in the MiHome app.\n\nRequirements:\n\nEnergenie MiHome account, password, and MiHome gateway.\nOne or more of the MiHome devices listed above.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1479431104.893,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.2d89b675-cf1e-4575-a74f-5d02ba3140c3",
+  "imageAltText": "Energenie - Mi|Home icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M1GE8CF/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Energenie - Mi|Home",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "ZpwfmuM86mALtAyKDrDjkYioT",
+  "permissions": null,
+  "privacyPolicyUrl": "https://mihome4u.co.uk/privacy",
+  "shortDescription": "This skill allows MiHome devices to be powered on and off using Alexa.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1646NWCSB1PCB",
+  "vendorName": "Energenie"
+}

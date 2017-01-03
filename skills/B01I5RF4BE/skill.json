@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01I5RF4BE",
-  "averageRating": 1.9,
+  "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "today's horoscopes",
   "name": "Horoscopes",
-  "numberOfReviews": 13,
+  "numberOfReviews": 19,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "",

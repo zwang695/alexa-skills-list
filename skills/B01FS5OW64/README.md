@@ -1,5 +1,5 @@
 # [Airport Security Wait Times](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ca0341cd-ab3d-44d1-aed8-164217e05ec3)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![1.3 stars](../../images/ic_star_black_18dp_1x.png)![1.3 stars](../../images/ic_star_half_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Airport Security Wait Times skill, try saying...
 

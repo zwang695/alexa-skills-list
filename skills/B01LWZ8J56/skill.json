@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01LWZ8J56",
+  "averageRating": 5,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Stringify app connects your smart home, wearable devices, and services to create truly automated experiences. Stringify is the only automation platform built specifically for the Internet of Things (IoT). Now with Alexa, all of your Flows can be run by using your voice. Simply download the Stringify app, create an account, add Amazon Alexa and build a Flow using Alexa as the trigger.\n\nFor example, in the Stringify App you can create a flow with trigger phrase - “Meeting Mode” and tell “Alexa, turn on Meeting Mode”.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1481068150.18,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.d954402f-c5d9-4115-9238-d643e7dd613f",
+  "imageAltText": "Stringify - Smart Automation Home, Work, Life, IoT icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LWZ8J56/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Stringify - Smart Automation Home, Work, Life, IoT",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "1G3iCyqo4UmqyTjGicxl4kb59",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.stringify.com/privacy",
+  "shortDescription": "Stringify connects your smart home, wearable devices, and services to create truly automated experiences. Requires free Stringify app.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MBHWCB7DNK0LN",
+  "vendorName": "Stringify, Inc"
+}

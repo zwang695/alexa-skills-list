@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "na-s01-oauth.arrayent.io",
+    "alexa-devkit-ws.arrayent.io",
+    "na-s01-api.arrayent.io"
+  ],
+  "asin": "B01N6E0G3R",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skill requires an Arrayent DevKit along with an Arrayent Account. The DevKit is meant for developers at consumer products companies to allow them to gain familiarity with the Arrayent platform and tools.\n\nThis skill demonstrates the capabilities of the Arrayent EcoAdaptor™ for Amazon Alexa. The Arrayent EcoAdaptor Service enables products to gain interoperability with other products and services via cloud-to-cloud connections, such as Amazon Alexa.\n\nYou can ask Alexa the following: “Alexa, ask Arrayent DevKit…”\n- To turn on the red light\n- To turn off the red light\n- To turn on the green light\n- To turn off the green light\n- If the red light is on\n- If the red light is off\n- If the green light is on\n- If the green light is off\n- What the temperature is\n- To use Celsius or Fahrenheit\n- The current ‘counter’ value\n\nABOUT ARRAYENT: \nArrayent enables brand manufacturers to develop new market opportunities for innovative connected products. We provide an end-to-end solution for developing, supporting, and controlling connected devices that can be remotely managed anywhere in the world. The Arrayent platform is secure and scalable, globally compliant, and has averaged six months from idea to on-the-shelf, helping 17 brands launch over 65 products across five continents.   \n\nThe Arrayent IoT Platform is comprised of three component Cloud Services:\n1. Connect™ Service – Create connected products quickly across global markets.\n2. Insight™ Service – Serve customers better through insights gained from user and product usage data. \n3. EcoAdaptor™ Service – Enhance product benefits through compatibility with other products and services such as Alexa, NEST, Salesforce, etc. \n\nPlease contact us at www.arrayent.com for more information.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Arrayent DevKit to turn off the green light",
+    "Alexa, ask Arrayent DevKit if the red light is on",
+    "Alexa, ask Arrayent DevKit what is the temperature"
+  ],
+  "firstReleaseDate": 1483100353.425,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.25f3ed8d-f5ca-4a4c-9a32-d73777cd24a1",
+  "imageAltText": "Arrayent DevKit icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N6E0G3R/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "arrayent dev kit",
+  "name": "Arrayent DevKit",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "ktLUDYE4dKghUzR4x4TaIKjdJ",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.arrayent.com/privacy-policy/",
+  "shortDescription": "Use this skill with the Arrayent Development Kit (DevKit). The Arrayent IoT platform enables consumer brands to quickly & easily develop connected products.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M24EFU6IKCSBMN",
+  "vendorName": "Arrayent"
+}

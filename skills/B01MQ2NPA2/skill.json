@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01MQ2NPA2",
+  "averageRating": 4.6,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "An Alexa enabled Crestron Home Automation system allows you to do more than just control lights and thermostats. It allows you to talk to your house. Use the full range of Amazon SmartHome commands to control your Crestron system.\n\nSome example requests:\n\"Alexa, turn on the kitchen lights\"\n\"Alexa, raise the living room lights by fifty percent\"\n\"Alexa, set the basement thermostat to 70 degrees\"\n\nFor more help with controlling your Crestron system with Alexa, go to http://partners.crestron.com/alexa/faq\n\nTalk to your integrator to enable your Crestron 3-Series processor for Alexa control.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1479960330.506,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.29acc709-f283-49f6-8dc2-4b5b838826e7",
+  "imageAltText": "Crestron Home Automation for SmartHome icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MQ2NPA2/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Crestron Home Automation for SmartHome",
+  "numberOfReviews": 22,
+  "pamsPartnerId": "Ym6tdmPQzsh9ZjydsNHs9PWMO",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.crestron.com/legal/privacy-policy",
+  "shortDescription": "Use Alexa to control your Crestron Home Automation system.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3LYVXAMA7EF3G",
+  "vendorName": "Crestron Electronics, Inc."
+}

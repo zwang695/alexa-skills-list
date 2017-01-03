@@ -1,0 +1,16 @@
+# [kaybit](http://alexa.amazon.com/#skills/amzn1.ask.skill.4174aafe-6f13-4a68-98fd-b735beb0f393)
+![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+
+null
+
+***
+
+### Skill Details
+
+* **Invocation Name:** null
+* **Category:** null
+* **ID:** amzn1.ask.skill.4174aafe-6f13-4a68-98fd-b735beb0f393
+* **ASIN:** B01MRPNPA2
+* **Author:** kaybit
+* **Release Date:** November 29, 2016 @ 02:05:54
+* **In-App Purchasing:** No

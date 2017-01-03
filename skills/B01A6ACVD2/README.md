@@ -1,5 +1,5 @@
 # [Vivint.SmartHome - Complete](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.60786130-18f6-476f-b716-d0a109fe6b1c)
-![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 76
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 82
 
 To use the Vivint.SmartHome - Complete skill, try saying...
 

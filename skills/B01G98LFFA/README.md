@@ -1,5 +1,5 @@
 # [iDevices](http://alexa.amazon.com/#skills/amzn1.ask.skill.cbeef66c-d356-474e-b8f6-ccfb22cc72b0)
-![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 19
+![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 33
 
 With the iDevices skill, you can now use Alexa to interact with your iDevices Switch, Outdoor Switch, Socket and Thermostat by voice. To get started, select the ‘Enable Skill’ button in the Alexa App. Login into your Amazon account in the iDevices Connected app to link and discover your products. Find more information about connecting Smart Home devices at http://amzn.to/291lR7u.
 

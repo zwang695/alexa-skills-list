@@ -1,5 +1,5 @@
 # [21 Dayz](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a4055920-713d-4665-bb6b-ac6a90cc0f71)
-![1.3 stars](../../images/ic_star_black_18dp_1x.png)![1.3 stars](../../images/ic_star_half_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![1.3 stars](../../images/ic_star_black_18dp_1x.png)![1.3 stars](../../images/ic_star_half_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the 21 Dayz skill, try saying...
 

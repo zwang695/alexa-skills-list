@@ -1,13 +1,13 @@
-# [Tide- Stain Remover](http://alexa.amazon.com/#skills/amzn1.ask.skill.8e6b3a96-c1c5-43c5-b6f7-4e6b83ec42a7)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 7
+# [Tide - Stain Remover](http://alexa.amazon.com/#skills/amzn1.ask.skill.8e6b3a96-c1c5-43c5-b6f7-4e6b83ec42a7)
+![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_black_18dp_1x.png)![3.5 stars](../../images/ic_star_half_black_18dp_1x.png)![3.5 stars](../../images/ic_star_border_black_18dp_1x.png) 17
 
-To use the Tide- Stain Remover skill, try saying...
+To use the Tide - Stain Remover skill, try saying...
 
-* *Alexa, open tide*
+* *Alexa, open Tide.*
 
-* *Alexa, tell tide i have a bad stain*
+* *Alexa, tell Tide I have a juice stain.*
 
-* *Alexa, ask tide how to clean a grass stain*
+* *Alexa, ask Tide how to clean a grass stain.*
 
 Tide Laundry Line helps you tackle tough stains like coffee, ink, and wine in no time. It’s easy! Just ask Alexa and she’ll give you step-by-step instructions on how to get stains out for good.
 

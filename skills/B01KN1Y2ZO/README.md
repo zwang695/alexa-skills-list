@@ -1,5 +1,5 @@
 # [Iris - Optimized for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.1f85bc42-34d5-482a-afe8-6dc345913d4f)
-![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 51
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 81
 
 By connecting Iris and Alexa, you're about to experience a whole new way to interact with your connected home. Use the Iris Smart Home Skill to set thermostats and adjust lights & switches.<br/> 
 <br/>

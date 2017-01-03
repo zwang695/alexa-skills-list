@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01M3S8CCY",
-  "averageRating": 3.5,
+  "averageRating": 2.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "lost things",
   "name": "LostThings",
-  "numberOfReviews": 3,
+  "numberOfReviews": 16,
   "pamsPartnerId": "jR51S5fKBa5UoFwRM51J46sVi",
   "permissions": null,
   "privacyPolicyUrl": "https://trinixcreative.com/alexa/privacy.php",

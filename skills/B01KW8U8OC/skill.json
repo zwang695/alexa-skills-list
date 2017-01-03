@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01KW8U8OC",
-  "averageRating": 3,
+  "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "The Wiser skill enables voice control of Wiser Air.\n<br>\nGetting Started:\n<br>\n- Enable this skill by clicking the enable button or by saying \"Alexa, enable Wiser Air skill\"\n<br>\n- Link your wiserair.com account to Alexa. Ensure that your account has at least 1 Wiser Air thermostat.\n<br> <br>\nHow to Use:\n<br>\nOnce your account is linked and you have discovered devices, you can say things like:\n<br>\n- \"Alexa, ask Wiser Air to set the temperature to 71 degrees\"\n<br>\n- \"Alexa, ask Wiser Air what the inside temperature is\"\n<br> <br>\nAlexa will currently control the first thermostat listed on your account.\n<br> <br>\nIn the near future, expect voice control of unique Wiser Air features like Comfort Boost and Eco IQ, as well as support for multiple thermostats.\n<br> <br>\nFor help with the Wiser Air Alexa skill, please visit www.wiserair.com/support or email us at wiser_support@schneider-electric.com",
+  "description": "The Wiser skill enables voice control of Wiser Air.\n<br>\nGetting Started:\n<br>\n- Enable this skill by clicking the enable button or by saying \"Alexa, enable Wiser Air skill\"\n<br>\n- Link your wiserair.com account to Alexa. Ensure that your account has at least 1 Wiser Air thermostat.\n<br> <br>\nHow to Use:\n<br>\nOnce your account is linked and you have discovered devices, you can say things like:\n<br>\n- \"Alexa, ask Wiser Air to set the temperature to 71 degrees\"\n<br>\n- \"Alexa, ask Wiser Air what the inside temperature is\"\n<br>\n- \"Alexa, enable a Cool Boost for 15 minutes in Wiser Air\"\n<br> <br>\nFor help with the Wiser Air Alexa skill, please visit www.wiserair.com/support or email us at wiser_support@schneider-electric.com",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask Wiser Air to discover devices",
-    "Alexa, ask Wiser Air what the inside temperature is",
-    "Alexa, ask Wiser Air to increase temperature by 2 degrees"
+    "Alexa, tell Wiser Air to discover devices",
+    "Alexa, enable a Cool Boost for 15 minutes in Wiser Air",
+    "Alexa, tell Wiser Air that I'm Home."
   ],
   "firstReleaseDate": 1473988291.597,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "wiser air",
   "name": "Wiser Air",
-  "numberOfReviews": 3,
+  "numberOfReviews": 6,
   "pamsPartnerId": "7hfffpRHZQufwofiwf2hKHuu2",
   "permissions": null,
   "privacyPolicyUrl": "http://www2.schneider-electric.com/sites/corporate/en/general/legal-information/data-privacy.page",

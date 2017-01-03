@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01J9YMXWU",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my brick bot",
   "name": "MyBrickBot",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "Zu7jgzK9q4E1HdVhINCV6Notl",
   "permissions": null,
   "privacyPolicyUrl": "http://www.extentia.com/privacy-policy",

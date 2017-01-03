@@ -7,7 +7,7 @@ To use the Baseball Flash Cards skill, try saying...
 
 * *Alexa, launch Baseball Flash Cards.*
 
-* *Alexa, open Baseball Flash Cards and start a new game.*
+* *Alexa, open Baseball Flash Cards and start new game.*
 
 Think you know everything about The Bigs?
 

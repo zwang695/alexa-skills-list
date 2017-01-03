@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01M9AHAXK",
-  "averageRating": 4.5,
+  "averageRating": 4.1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "This skill lets Alexa read a daily passage from the Old Testament, New Testament, Book of Mormon, Doctrine & Covenants, or Pearl of Great Price. \n\nBy default, the schedule is set as if you had started the volume on January 1st and plan on completing it by December 31st. In the future this will integrate with ScripturesEveryDay.com, where you'll be able to sign in and sync your schedules across multiple devices, so you can receive some spiritual nourishment by reading or by audio, wherever you are.",
+  "description": "This skill lets Alexa read a daily scheduled passage from the King James Version of the Old and New Testament, the Book of Mormon, the Doctrine & Covenants, or the Pearl of Great Price.\n\nIt will default to reading the Book of Mormon. If you are not Mormon or you are interested in listening to a volume besides the Book of Mormon, you will have to ask for it each time (e.g. \"Alexa, read the Old Testament from Scriptures Every Day\", or \"Alexa, ask Scriptures Every Day to read the New Testament\"). I am working on a way to have it remember your preferred volume, so stay tuned for updates.\n\nBy default, the schedule is set as if you had started the volume on January 1st and plan on completing it by December 31st. In the future this will integrate with ScripturesEveryDay.com, where you'll be able to sign in and sync your schedules across multiple devices, so you can receive some spiritual nourishment by reading or by audio, wherever you are.\n\nOther ways to phrase your interaction:\n\n-- Read today's Book of Mormon reading --\nAlexa, ask Scriptures Every Day to read today's scriptures.\nAlexa, ask Scriptures Every Day to read.\nAlexa, read from Scriptures Every Day.\nAlexa, read the Book of Mormon from Scriptures Every Day.\nAlexa, ask Scriptures Every Day for today’s reading.\n\n-- Read today's reading for another volume --\nAlexa, tell Scriptures Every Day to read the Doctrine and Covenants.\nAlexa, ask Scriptures Every Day for the Bible.\nAlexa, read the Old Testament from Scriptures Every Day.\nAlexa, read the Pearl of Great Price from Scriptures Every Day.\n\n-- Read the scriptures for another date --\nAlexa, ask Scriptures Every Day to read me the scriptures for tomorrow.\nAlexa, ask Scriptures Every Day to read the New Testament for yesterday.\nAlexa, ask Scriptures Every Day to read the Doctrine and Covenants for December 29th.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask Scriptures Every Day to read today's scriptures",
-    "Alexa, tell Scriptures Every Day to read the New Testament for October 3rd",
-    "Alexa, tell Scriptures Every Day to read the Doctrine & Covenants"
+    "Alexa, open Scriptures Every Day",
+    "Alexa, ask Scriptures Every Day for today's reading",
+    "Alexa, tell Scriptures Every Day to read the New Testament for October 3rd"
   ],
   "firstReleaseDate": 1478331797.886,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "scriptures every day",
   "name": "Scriptures Every Day",
-  "numberOfReviews": 2,
+  "numberOfReviews": 8,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.scriptureseveryday.com/#/privacy",

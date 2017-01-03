@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01H88SIVO",
-  "averageRating": 3.7,
+  "averageRating": 3.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "potterhead",
   "name": "Potterhead Quiz",
-  "numberOfReviews": 14,
+  "numberOfReviews": 17,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

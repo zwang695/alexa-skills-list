@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01KA9NJ8K",
+  "averageRating": 5,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Control your Houm connected lights via Alexa. You can activate scenes and switch the lights on and off in individual rooms. In order to use this skill, you need a Houm site key, which is provided to you when purchasing a Houm lighting control system. Visit our store at https://store.houm.io",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1480620963.105,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.7ca18cb6-d1ff-415f-b0fd-5286d862d52f",
+  "imageAltText": "Houm icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01KA9NJ8K/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Houm",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "ZWUo8ky8DTBrJPOjWZPgMMp9A",
+  "permissions": null,
+  "privacyPolicyUrl": "https://alexa.houm.io/privacy",
+  "shortDescription": "Control your Houm connected lights via Alexa.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M23V0LR0780HQR",
+  "vendorName": "Houmio Oy"
+}

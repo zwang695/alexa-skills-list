@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MQKPNAO",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skill will tell you random fun facts about India. You can use this skill to learn facts and history about an amazing country called India.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask India Facts to tell me a fact about india"
+  ],
+  "firstReleaseDate": 1479708376.455,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.5b533390-7c3c-45b5-8429-6cb7cc340355",
+  "imageAltText": "India Facts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MQKPNAO/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "india facts",
+  "name": "India Facts",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "India facts",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3I3GIT7UD7KYU",
+  "vendorName": "AGupta"
+}

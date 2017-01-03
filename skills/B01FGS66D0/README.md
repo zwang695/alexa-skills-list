@@ -1,5 +1,5 @@
 # [ISY Optimized for Smart Home V2](http://alexa.amazon.com/#skills/amzn1.ask.skill.f6d6c5e1-65db-4d08-ab8c-25c1fb38ca0e)
-![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 20
+![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 35
 
 The ISY Smart Home skill allows you to control your ISY home-automation controller from Universal Devices. This enables you to control your devices, thermostats, scenes and even programs from your Echo. 
 

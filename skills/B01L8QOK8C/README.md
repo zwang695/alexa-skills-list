@@ -1,5 +1,5 @@
 # [Almanac](http://alexa.amazon.com/#skills/amzn1.ask.skill.27a1e8e3-0d23-414d-a8e6-1de3c99d7820)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
 
 To use the Almanac skill, try saying...
 
@@ -21,6 +21,6 @@ Invoke the skill by saying , "Alexa,open almanac info" . Then say a city , for e
 * **Category:** null
 * **ID:** amzn1.ask.skill.27a1e8e3-0d23-414d-a8e6-1de3c99d7820
 * **ASIN:** B01L8QOK8C
-* **Author:** Tankbell Apps
+* **Author:** TankBell Technologies LLC
 * **Release Date:** September 3, 2016 @ 05:03:11
 * **In-App Purchasing:** No

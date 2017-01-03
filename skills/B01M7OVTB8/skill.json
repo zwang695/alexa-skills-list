@@ -16,7 +16,7 @@
   "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M7OVTB8/skill_icon",
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
-  "name": "brent-hunter.com",
+  "name": "Brent Hunter",
   "numberOfReviews": 0,
   "pamsPartnerId": null,
   "permissions": null,
@@ -26,5 +26,5 @@
   "stage": "live",
   "termsOfUseUrl": null,
   "vendorId": "M4RVE91VP3JJW",
-  "vendorName": "brent-hunter.com"
+  "vendorName": "Brent Hunter"
 }

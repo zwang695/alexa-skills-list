@@ -21,6 +21,6 @@ Use Fare(well) to get a fare estimate for any Uber ride in your city! Ask for a 
 * **Category:** null
 * **ID:** amzn1.ask.skill.55f9bf03-6870-4280-b561-9985def8530e
 * **ASIN:** B01M35IOJW
-* **Author:** Advanced Computer Science
+* **Author:** Beni Shafer-Sull
 * **Release Date:** November 11, 2016 @ 00:44:12
 * **In-App Purchasing:** No

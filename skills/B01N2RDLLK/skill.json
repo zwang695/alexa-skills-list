@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "api.home-connect.com"
+  ],
+  "asin": "B01N2RDLLK",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": null,
+  "enablement": null,
+  "exampleInteractions": null,
+  "firstReleaseDate": 1482259806.608,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.d8cd5c84-fcc0-4147-ac67-14dc74c76132",
+  "imageAltText": null,
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N2RDLLK/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Home Connect GmbH",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "JmWs2ApSjijV1SDW1WD1xP3sO",
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": null,
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2790L5JY8NG29",
+  "vendorName": "Home Connect GmbH"
+}

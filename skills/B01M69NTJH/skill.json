@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "api.twitter.com",
+    "alexa-twitter.ditty.co",
+    "zyamusic.com",
+    "twitter.com",
+    "mobile.twitter.com"
+  ],
+  "asin": "B01M69NTJH",
+  "averageRating": 4.6,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "You say it. Ditty will sing it. This NEW Ditty skill will turn your messages into HIT SONGS via Alexa. \nThe Ditty skill takes simples messages you speak like, “I miss you” or “What’s for dinner” and uses famous songs to make musical dittys. Link your Twitter account to share these dittys with friends and family. It’s so fun and easy!\n\nSpecial Holiday Promotions:\n“Let’s Go Caroling”\nNow through December 30th. \nTell Ditty “let’s go caroling” and unlock more than a dozen classic holiday songs including “Jingle Bells”, “We Wish You A Merry Christmas”, “Silent Night”, “Up On A Housetop” and many more. \n\n“Bring In The New Year”\nDecember 31st through January 2nd. \nTell Ditty “bring in the new year” and unlock the traditional new year’s theme “Auld Lang Syne”. \n\nAccount linking is not required for use, and only required if you want to post to Twitter.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Open Ditty",
+    "Alexa, ask Ditty to make a fast song",
+    "Alexa, ask Ditty to play a saved Ditty"
+  ],
+  "firstReleaseDate": 1482275971.455,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.b74fca66-98b2-4bde-ac10-283d9e91a111",
+  "imageAltText": "Ditty icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M69NTJH/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "ditty",
+  "name": "Ditty",
+  "numberOfReviews": 20,
+  "pamsPartnerId": "Z1J2oNvzgIkrX2bJE6qWAR2Qy",
+  "permissions": null,
+  "privacyPolicyUrl": "http://zyamusic.com/ditty/legal/privacypolicy",
+  "shortDescription": "Ditty sings anything you say",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3SSL7S2NSTF9B",
+  "vendorName": "Zya Inc."
+}

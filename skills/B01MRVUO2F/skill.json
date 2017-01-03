@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "inoahguy.com.au"
+  ],
+  "asin": "B01MRVUO2F",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "With this skill you can control any system that is currently controlled via your RTI system.\nE.g: Audio Visual, Lighting, Blinds, HVAC, even the Garage Door.\n\nYou MUST have an RTI XPx Processor and Driver connected to the internet to use this skill or it will not work.\n(Other control systems may be added in the future)\n\nPlease Note: This is an unofficial skill and is not sponsored or endorsed by Remote Technologies Inc.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa tell home butler turn on the master bedroom to apple tv",
+    "what is on in the master bedroom",
+    "turn on the lounge lights"
+  ],
+  "firstReleaseDate": 1482052745.34,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.ac33f837-d45d-4ef4-a70d-e4223e9119a5",
+  "imageAltText": "Home Butler icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MRVUO2F/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "home butler",
+  "name": "Home Butler",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "WYnemF2llxfFiXMybOJMameBN",
+  "permissions": null,
+  "privacyPolicyUrl": "https://inoahguy.com.au/#Privacy",
+  "shortDescription": "Unofficially add Alexa voice control to your RTI control systems.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3PQ1UDGXHTJH3",
+  "vendorName": "Nozza87"
+}

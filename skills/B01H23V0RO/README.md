@@ -1,5 +1,5 @@
 # [iHome SmartPlug Control](http://alexa.amazon.com/#skills/amzn1.ask.skill.ebb126c9-bc7c-4d6c-a8fe-8d514d032ae0)
-![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 20
+![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 32
 
 Ask Alexa to turn on or off lamps, fans or whatever you have plugged into your iHome SmartPlug. Create groups to control multiple SmartPlugs with a single command.
 After enabling the Skill you’ll be prompted to log in to your iHome account. Be sure to use the same account credentials used in your iHome Control app. To learn more about compatible iHome Control products visit: www.ihome.com

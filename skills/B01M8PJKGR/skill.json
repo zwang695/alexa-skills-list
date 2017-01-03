@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01M8PJKGR",
-  "averageRating": 0,
+  "averageRating": 4.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
   "description": "S. Watch is your all-purpose stopwatch.  Just start it and it will track how long it has been since it started.  Feel free to do other things with Alexa while S. Watch is running.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, start S. Watch",
+    "Alexa, open S. Watch",
     "Alexa, ask S. Watch for it's status",
-    "Alexa, tell S. Watch to stop"
+    "Alexa, tell S. Watch to end"
   ],
   "firstReleaseDate": 1478674000.308,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "s. watch",
   "name": "S. Watch",
-  "numberOfReviews": 0,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

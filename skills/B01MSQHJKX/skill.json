@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "www.evernote.com",
+    "login.live.com",
+    "account.live.com"
+  ],
+  "asin": "B01MSQHJKX",
+  "averageRating": 2.9,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Create notes in your favorite note-taking services, such as Evernote and OneNote\n\nNever forget those brilliant thoughts or mundane to-do items.  Seamlessly capture notes without giving a second thought.\n\nThis skill is in no way associated with, nor endorsed by Evernote or Microsoft.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa tell My Notebook The wine I liked is called zinfandel",
+    "Alexa tell My Notebook I must remember to buy theater tickets for tomorrow",
+    "Alexa ask My Notebook to note Say hello to Jason Isaacs"
+  ],
+  "firstReleaseDate": 1480491373.049,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.ceff470e-481c-4c69-ba89-769c320ed340",
+  "imageAltText": "My Notebook note taking skill icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MSQHJKX/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "my notebook",
+  "name": "My Notebook note taking skill",
+  "numberOfReviews": 10,
+  "pamsPartnerId": "HIgKHEhGtVSwutnjHVRTivE5V",
+  "permissions": null,
+  "privacyPolicyUrl": "https://s3.amazonaws.com/com.atadore.alexanote/pp.txt",
+  "shortDescription": "Create notes in your favorite note-taking services, such as Evernote and OneNote",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://s3.amazonaws.com/com.atadore.alexanote/tos.txt",
+  "vendorId": "MAOPYAKW0B2HU",
+  "vendorName": "Atadore SARL"
+}

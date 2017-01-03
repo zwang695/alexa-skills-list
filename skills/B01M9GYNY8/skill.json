@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "my.eyedro.com"
+  ],
+  "asin": "B01M9GYNY8",
+  "averageRating": 3,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "The MyEyedro electricity monitoring cloud service presents your electricity data in ways that are engaging, informative and easy to understand. See real-time electricity usage and gain access to many helpful features that help you uncover waste, manage costs and take control of your electricity use. Now you can even access your electricity information through your Amazon Echo simply by uttering \"Alexa, ask MyEyedro ...\"\n\nThis skill requires that the user has a valid MyEyedro user account with a supported Eyedro electricity monitor installed. Visit http://eyedro.com/amazon-echo for more information.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask MyEyedro for today's highlights.",
+    "Alexa, ask MyEyedro for my current demand.",
+    "Alexa, ask MyEyedro for the last change."
+  ],
+  "firstReleaseDate": 1479366352.991,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.22224fbb-f32a-40e7-85c2-faa4eb95b983",
+  "imageAltText": "MyEyedro: Electricity Info icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M9GYNY8/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "my eye dro",
+  "name": "MyEyedro: Electricity Info",
+  "numberOfReviews": 3,
+  "pamsPartnerId": "agiYf9p2z4i558cg7WSYatPHZ",
+  "permissions": null,
+  "privacyPolicyUrl": "http://eyedro.com/privacy-policy/",
+  "shortDescription": "This skill provides electricity usage and cost information for a user's home or office when linked to an existing MyEyedro user account.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://eyedro.com/terms-of-use/",
+  "vendorId": "M1D2XJU60H0U5M",
+  "vendorName": "Eyedro.com"
+}

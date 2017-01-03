@@ -1,5 +1,5 @@
 # [Positive Prayer | Silent Unity](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c9cb7694-b9fb-4766-b91b-ac8ede5fea55)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 6
+![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_black_18dp_1x.png)![4.7 stars](../../images/ic_star_half_black_18dp_1x.png) 13
 
 To use the Positive Prayer | Silent Unity skill, try saying...
 

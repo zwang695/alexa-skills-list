@@ -35,7 +35,7 @@ California:
 -Topanga
 -Santa Monica
 
-All courtesy of Magic Seaweed. For more information please visit www.magicseaweed.com
+All data courtesy of Magic Seaweed. For more information please visit www.magicseaweed.com
 
 ***
 

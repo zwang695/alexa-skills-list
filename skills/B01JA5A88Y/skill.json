@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01JA5A88Y",
-  "averageRating": 1,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "still on",
   "name": "Still On",
-  "numberOfReviews": 2,
+  "numberOfReviews": 4,
   "pamsPartnerId": "Bk8wyJCK6Sz5ON3XbOZ87Rshl",
   "permissions": null,
   "privacyPolicyUrl": "https://s3.amazonaws.com/cdn.andresmeza.com/Alexa/StillOpen/privacy.html",

@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N8S5BOE",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skill will recite facts about American prisons. Topics include history, current events, and statistics.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask American Prison facts to give me an american prison fact.",
+    "Alexa, tell American Prison facts to tell me something about american prisons"
+  ],
+  "firstReleaseDate": 1479371939.224,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.913bd8f0-f6d1-42b4-a06a-61831e4292ad",
+  "imageAltText": "American Prison Facts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N8S5BOE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "american prison facts",
+  "name": "American Prison Facts",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "A skill that will recite facts about American prisons.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1N6JHGTCVBS3B",
+  "vendorName": "Michelle Wiginton"
+}

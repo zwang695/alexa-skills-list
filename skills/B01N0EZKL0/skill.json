@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N0EZKL0",
+  "averageRating": 3.7,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Complexity Helper - gives you best/worst/average case time complexities for all sorting algorithms and worst case complexities of access/search/insertion/deletion operations on all major data structures.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask complexity helper to remind the complexity of hash table"
+  ],
+  "firstReleaseDate": 1480161910.089,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.2510bee1-c5ba-4457-8716-189afb6300a5",
+  "imageAltText": "complexity helper icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N0EZKL0/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "complexity helper",
+  "name": "complexity helper",
+  "numberOfReviews": 3,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "This skill helps you remind the time complexities of any famous data structure and well-known algorithm.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MFTVK2SDLHA8Q",
+  "vendorName": "lohithparipati.github.io"
+}

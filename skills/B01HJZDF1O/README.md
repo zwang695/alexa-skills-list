@@ -9,7 +9,7 @@ To use the When is My Train skill, try saying...
 
 * *later trains*
 
-Find the times and routes for your trains on the London Underground.
+Find the status of line and train times and routes for your trains on the London Underground.
 
 If you ask "Whens my train" you are taken through a setup where you define your home and work(usual destination) station.
 
@@ -18,6 +18,10 @@ Alternatively you can ask "Train from Baker Street to Oval" which will set the h
 Individually you can change your home station with "Make my home station Baker Street".
 
 Once you have defined your home and work stations you can then ask "when", "later", "earlier", "train at 14:00" etc
+
+On startup the live status of all lines is given or if your own line has a problem it will tell you  that.
+
+At any time you can ask "What's up with the Bakerloo line" or use a different line name and it will tell you state of the line you ask.
 
 ***
 

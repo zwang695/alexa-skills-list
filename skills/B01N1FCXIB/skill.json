@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N1FCXIB",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Trivia quiz based on Harvard's CS50 class. Respond to 5 randomly-chosen questions by choosing from 4 possible multiple-choice answers for each question.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask C. S. Fifty Trivia to play a game"
+  ],
+  "firstReleaseDate": 1479362722.474,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.7ddfdbff-8e44-425f-9108-4f927f95c5ef",
+  "imageAltText": "CS50 Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N1FCXIB/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "c. s. fifty trivia",
+  "name": "CS50 Trivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Trivia quiz based on Harvard's CS50 class. Respond to 5 randomly-chosen questions by choosing from 4 possible multiple-choice answers.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MUO2DNTNT87V7",
+  "vendorName": "Jay Barr"
+}

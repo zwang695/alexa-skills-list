@@ -5,7 +5,7 @@
     "auth.alexa.weightgurus.com"
   ],
   "asin": "B01LYWTQZA",
-  "averageRating": 1,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -25,7 +25,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "weight gurus",
   "name": "Weight Gurus",
-  "numberOfReviews": 1,
+  "numberOfReviews": 5,
   "pamsPartnerId": "PUxxh7MSEmcM1KHkXjhfXCnqD",
   "permissions": null,
   "privacyPolicyUrl": "https://greatergoods.com/privacy",

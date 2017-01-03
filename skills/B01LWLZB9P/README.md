@@ -3,9 +3,11 @@
 
 To use the Work Excuse skill, try saying...
 
-* *Alexa, ask Work Excuse to say a work excuse*
+* *Alexa, ask work excuse to give me a work excuse*
 
-* *Alexa, ask Work Excuse to tell me a work excuse*
+* *say a work alibi*
+
+* *tell me a work cover*
 
 This is a funny application that announces the typical excuses people use at work. Some excuses are funny and some are usual excuse to serve as ideas for those needing an excuse.
 

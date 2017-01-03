@@ -1,5 +1,13 @@
 # [TP-LINK Kasa](http://alexa.amazon.com/#skills/amzn1.ask.skill.b4bf2b4d-5f4e-458b-a3b4-5e900cea5fd9)
-![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 108
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 274
+
+To use the TP-LINK Kasa skill, try saying...
+
+* *Alexa, turn on Christmas Tree Light*
+
+* *Alexa, turn on my Bedroom lights*
+
+* *Alexa, brighten Downstairs to 60 percent*
 
 With the TP-LINK Kasa skill and Alexa, you can now interact with your TP-LINK Kasa lights and switches by voice. To get started, select the ‘Enable Skill’ button in the Alexa App to link your TP-LINK Kasa account and discover your device(s). Find more information about connecting Smart Home devices at http://amzn.to/291lR7u.
 

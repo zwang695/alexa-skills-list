@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "whosonsteam.com"
+  ],
+  "asin": "B01MQXAZTL",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skill is not sponsored or endorsed by Steam in anyway.\n\nNew!! now you can also ask 'what havn't I played' to see what games in your library you havn't played!\n\nEasily find out which of your friends are on steam by asking 'whos on line'. You will get the number of friends online and then alexa will try to read out all their nick names! Also you get a card in the alexa app with all the details.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa Open unofficial steam",
+    "Alexa Open unofficial steam",
+    "Alexa ask unofficial steam what games havn't i played"
+  ],
+  "firstReleaseDate": 1482405540.32,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.ad3bd7d7-ca6e-4b66-8d38-33859ea5b06c",
+  "imageAltText": "unofficial steam icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MQXAZTL/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "unofficial steam",
+  "name": "unofficial steam",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "hIK6DH5DDiBoW3cepYOV9JRkC",
+  "permissions": null,
+  "privacyPolicyUrl": "https://whosonsteam.com/Home/DataPrivacy",
+  "shortDescription": "\"Alexa, open unofficial steam\"",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M6TX3SZZABVBF",
+  "vendorName": "Lee Dyche"
+}

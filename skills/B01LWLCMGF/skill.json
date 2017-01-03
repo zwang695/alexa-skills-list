@@ -5,7 +5,7 @@
     "btccontentserver.bmwgroup.com"
   ],
   "asin": "B01LWLCMGF",
-  "averageRating": 2.2,
+  "averageRating": 2.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -25,7 +25,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "b. m. w.",
   "name": "BMW Connected",
-  "numberOfReviews": 40,
+  "numberOfReviews": 52,
   "pamsPartnerId": "2qyy4n6fwP9yjJO7TPYUX4Vtf",
   "permissions": null,
   "privacyPolicyUrl": "https://myc-profile.bmwusa.com/api/gateway/contentserver/staticcontent/amazonAlexa/privacyPolicy/en-us/privacyPolicy.html",

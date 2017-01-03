@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01AVKM8NU",
-  "averageRating": 4.2,
+  "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "complibot",
   "name": "CompliBot",
-  "numberOfReviews": 13,
+  "numberOfReviews": 33,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

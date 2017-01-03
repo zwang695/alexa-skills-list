@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B0193ZD0EU",
-  "averageRating": 3.3,
+  "averageRating": 3.1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "me a dog fact",
   "name": "Dog Facts",
-  "numberOfReviews": 17,
+  "numberOfReviews": 36,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

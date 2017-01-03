@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "mailboxskill.xyz"
+  ],
+  "asin": "B01LMLFNB6",
+  "averageRating": 3.1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "With Mail Box skill, Alexa can help you read and send emails. After enabling this skill, please check out your Alexa App's home feed to link your Gmail account. You can also visit http://mailboxskill.xyz to see a list of commands and add some contacts. Using Google Voice's feature that forwards SMS to your Gmail, you can also send SMS messages through Alexa. This skill can be passcode protected. Please email hi@mailboxskill.xyz with any questions or feedback. Enjoy!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Mail Box",
+    "Alexa, open Mail Box and read my emails",
+    "Alexa, open Mail Box and read my SMS"
+  ],
+  "firstReleaseDate": 1482662957.906,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.ad5553ad-27ac-4643-bf07-f7ff05053282",
+  "imageAltText": "Mail Box icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LMLFNB6/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "mail box",
+  "name": "Mail Box",
+  "numberOfReviews": 11,
+  "pamsPartnerId": "CGoQr3njJEm6Jcsz6ZSjX3iEA",
+  "permissions": null,
+  "privacyPolicyUrl": "https://mailboxskill.xyz/policy",
+  "shortDescription": "Access your Gmail account with the Mail Box skill. Read & send emails and SMS messages.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M5FSNM1BUVSUX",
+  "vendorName": "NeuralFirings"
+}

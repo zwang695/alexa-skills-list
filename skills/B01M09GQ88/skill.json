@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01M09GQ88",
-  "averageRating": 0,
+  "averageRating": 2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Welcome to the complete Hive skill for Amazon Echo.  This skill will enable you to ask Alexa to control your connected Hive devices.\n\nTo get started, ensure that your Hive Hub and associated devices are connected and online.  You’ll then need to enable the Hive skill by tapping ‘Enable skill’ at the top of this screen.  Then, you’ll be asked to provide your Hive login details so that Alexa can control your devices for you. Now we’re talking! \n\nHere’s a handy list of the current commands you can use with Alexa and Hive to control your home:\n\nHive Active Heating™\nSet the temperature of your heating  (We currently only support whole number ºC requests)\n\nAlexa, tell hive to turn the heating on to 20 degrees\nAlexa, tell hive to turn the heating off\nAlexa, tell hive to boost my heating\n\nHive Active Light™\nAlexa, tell Hive to switch my 'landing light on'\nAlexa, tell Hive to turn my 'living room lamp' off\n\nHive Active Plug™\nAlexa, tell Hive to turn my 'kettle' on\nAlexa, tell Hive to turn my 'TV' off\n\nTip - Hive and Alexa use the name of your device to control it. You can check your device names from your hive app in the manage device section.\n\nRequirements:\nHive user account, password, and Hive Hub.\nOne or more of the following Hive devices: Hive Active Heating™, Hive Active Light™, Hive Active Plug™",
+  "description": "Welcome to the advanced Hive skill for Amazon Echo.  This skill will enable you to ask Alexa to control your connected Hive devices.\n\nNew! You can now use your Echo and Amazon Alexa to control your Colour Changing Hive Active Light™. Using the Hive skill, you'll be able to use your voice to turn them on and off!\n\n\nTo get started, make sure that your Hive Hub and (Hive devices) associated devices are connected and online.  You’ll then need to enable the Hive skill by tapping ‘Enable skill’ at the top right of this screen.  After the skill is enabled, you'll be asked to provide your Hive login details so that Alexa can control your devices for you. \n\nHere’s a handy list of the commands you can use to control your home with Alexa and Hive. These will be updated as we add more! \n\nHive Active Heating™\nSet the temperature of your heating  \n(We currently only support whole number degree requests)\nAlexa, tell Hive to turn the heating on\nAlexa, tell Hive to turn the heating on to 20 degrees\nAlexa, tell Hive to turn the heating off\nAlexa, tell Hive to boost my heating \n(Currently boosts to a default 22 degrees for 1 hour)\n\nHive Hot Water Features\nAlexa, tell Hive to boost my hot water \n(Currently defaults to 1 hour)\n\nHive Active Light™\nAlexa, tell Hive to switch my landing light on\nAlexa, tell Hive to turn my living room lamp off\n\nHive Active Plug™\nAlexa, tell Hive to turn my kettle on\nAlexa, tell Hive to turn my TV off\n\n\n\nTip - Remember to name your devices things that Alexa will be able to understand. You can check device names in the Hive app in the ‘manage devices’ section. \n\nWe’ll continually improve the skill to ensure you’re getting the most from your Hive Connected Home. We’re already working on adding more features, and if you’d like to give us your feedback on what you want to see next from Hive head to www.hivehome.com/Alexa \n\nIn order you use Alexa and Hive you’ll need: \n\nHive account with your username and password\nHive Hub \nOne or more of the following Hive devices: Hive Active Heating™, Hive Active Light™, Hive Active Plug™\n\nAlexa is compatible with Hive1 and Hive2 thermostats.  Not compatible with British Gas Remote Heating Control.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, tell Hive to turn my heating on to 20 degrees",
@@ -21,14 +21,14 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "hive",
   "name": "Hive",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": "7uMgdrXuOmielnklcV8f55vbZ",
   "permissions": null,
   "privacyPolicyUrl": "https://www.hivehome.com/privacy",
   "shortDescription": "Use Echo to control your Hive devices by saying…\n‘Alexa, tell hive to turn my heating to 20ºC'\n‘Alexa, tell hive to switch my bedroom light on’",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "https://www.hivehome.com/terms",
   "vendorId": "M1SA34B21V2L5T",
   "vendorName": "British Gas"
 }

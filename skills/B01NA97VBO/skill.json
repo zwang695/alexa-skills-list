@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01NA97VBO",
+  "averageRating": 4.2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Life’s hectic; pulling you in all sorts of directions.  Devotionals Daily is here to bring joy and encouragement each day with handpicked devotions by some of the best Christian thought leaders. Audiobook excerpts from Sarah Young’s Jesus Calling, Rick Warren’s New York Times bestselling The Purpose Driven Life, and other bestsellers from Max Lucado, Lysa TerKeurst, Ann Voskamp, Shauna Niequest, Lee Strobel, Jefferson Bethke and many more!  You’ll hear a different devotion every day with excellent sound quality from professional audiobook recordings.\nFind the meaning in each day by starting with Devotionals Daily. Listen to an uplifting message, nourish your soul and be strengthened in your faith.\n\nFor more information and to receive the Devotionals Daily email version, visit DevotionalsDaily.com.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Devotionals to read my devotional",
+    "Alexa, ask Devotionals to play today's devotional"
+  ],
+  "firstReleaseDate": 1481069947.62,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.846fa0aa-8a59-4b29-b0c4-e3ffb00bfc3c",
+  "imageAltText": "Devotionals icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01NA97VBO/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "devotionals",
+  "name": "Devotionals",
+  "numberOfReviews": 13,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.harpercollinschristian.com/privacy",
+  "shortDescription": "Hear an uplifting devotion and be strengthened in your faith! Each day you’ll hear a devotion handpicked from audiobooks by bestselling Christian authors.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://www.harpercollinschristian.com/terms",
+  "vendorId": "MVH9BRIMUOQLN",
+  "vendorName": "HarperCollins Christian Publishing"
+}

@@ -1,11 +1,14 @@
 {
-  "accountLinkingWhitelistedDomains": null,
+  "accountLinkingWhitelistedDomains": [
+    "ear-play.com",
+    "access.ear-play.com"
+  ],
   "asin": "B01K8V6NSI",
-  "averageRating": 4.5,
+  "averageRating": 4.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "With Earplay, you can enjoy interactive audio stories you play with your voice, featuring voice acting and sound effects like in a radio drama. Experience this exciting new storytelling medium where you become part of the story, interacting with characters to affect how the events unfold. \n<br>\n<br>\nMore is on the way, and for right now we have two short experiences for you to try out: The Earplay Demo and Codename Cygnus. Email us at hello@ear-play.com to tell us what you think. Be sure to let us know what you'd like to hear next!\n<br>\n<br>\nTHE EARPLAY DEMO\n<br>\nThe Earplay Demo is an introductory demonstration of Earplay storytelling and style. It is written and hosted by the legendary Dave Grossman, Earplay's creative lead, and one of the most prominent interactive story writers in the games industry. To learn more about Dave and Earplay, visit us at http://www.ear-play.com\n<br>\n<br>\nCODENAME CYGNUS\n<br>\nThis is the Prologue chapter of the first ever voice-operated interactive audio story, a spy thriller where you play the secret agent. Originally launched in August 2013, eight chapters of the story have been released so far for mobile devices. Stay tuned, because we're planning to bring a new and improved version to Alexa. Learn more at http://codenamecygnus.com\n<br>\n<br>\nSTARTING EARPLAY\n<br>\nOnce you enable our skill, you can use the invocation \"Earplay\" to go the welcome menu. If Alexa has any difficulty understanding the way you say Earplay, go to the menu in the Alexa app, tap on Settings, and then tap Voice Training to start a session that helps Alexa to hear you better.\n<br>\n<br>\nSUPPORT\n<br>\nEmail us at support@ear-play.com if you have any difficulties.\n<br>\nVisit http://www.ear-play.com to learn more about Earplay.\n<br>\n<br>\nNOTE TO PARENTS\n<br>\nNot all stories in the Earplay skill will be suitable for all ages. Please use your own discretion, as parental review and guidance regarding Earplay content may be necessary.",
+  "description": "With Earplay, you can enjoy interactive audio stories you play with your voice, featuring voice acting and sound effects like in a radio drama. Experience this exciting new storytelling medium where you become part of the story, interacting with characters to affect how the events unfold. \n\nMore is on the way, and for right now we have two short experiences for you to try out for free: the Earplay Demo and the Prologue chapter of Codename Cygnus. Email us at hello@ear-play.com to tell us what you think and let us know what you'd like to hear next!\n\nTHE EARPLAY DEMO\nThe Earplay Demo is an introductory demonstration of Earplay storytelling and style. It is written and hosted by the legendary Dave Grossman, Earplay's creative lead, and one of the most prominent interactive story writers in the games industry. To learn more about Dave and Earplay, visit us at http://ear-play.com\n\nCODENAME CYGNUS\nThis is the Prologue chapter of the first ever voice-operated interactive audio story, a spy thriller where you play the secret agent. Originally launched in August 2013, eight chapters of the story have been released so far on mobile devices. Stay tuned, because we're planning to bring a new and improved version to Alexa soon. Learn more at http://codenamecygnus.com and http://www.ear-play.com\n\nSTARTING EARPLAY\nOnce you enable our skill, you can use the invocation \"Earplay\" to go the welcome menu. Try saying it clearly as two words Ear Play if there's an issue. If Alexa has any difficulty understanding the way you say Earplay, go to the menu in the Alexa app, tap on Settings, and then tap Voice Training to start a session that helps Alexa to hear you better. Make sure you have enabled the skill first!\n\nNOTE TO PARENTS\nNot all stories in the Earplay skill will be suitable for all ages. Please use your own discretion, as parental review and guidance regarding Earplay content may be necessary. All content that contains material of a restricted nature will be accessible only with a registered and linked Earplay account. You can unlink a registered account at any time by disabling and re-enabling the skill without linking it to your account.\n\nSUPPORT\nEmail us at support@ear-play.com if you have any difficulties.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, start Earplay",
@@ -21,14 +24,14 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "ear play",
   "name": "Earplay",
-  "numberOfReviews": 71,
-  "pamsPartnerId": null,
+  "numberOfReviews": 301,
+  "pamsPartnerId": "8BIvpnRax6OOeJprxECyHbTfn",
   "permissions": null,
-  "privacyPolicyUrl": null,
-  "shortDescription": "Interactive audio stories you play with your voice. Earplay.",
+  "privacyPolicyUrl": "https://www.ear-play.com/privacy/",
+  "shortDescription": "Interactive audio stories you play with your voice",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "https://www.ear-play.com/tos/",
   "vendorId": "M3NEH1Y4AGW5AB",
   "vendorName": "Earplay"
 }

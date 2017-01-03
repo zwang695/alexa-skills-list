@@ -1,5 +1,5 @@
 # [Hue](http://alexa.amazon.com/#skills/amzn1.ask.skill.561d802b-454e-4808-9e23-750ef4273b12)
-![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_black_18dp_1x.png)![2.2 stars](../../images/ic_star_half_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png)![2.2 stars](../../images/ic_star_border_black_18dp_1x.png) 143
+![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_black_18dp_1x.png)![2.3 stars](../../images/ic_star_half_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png)![2.3 stars](../../images/ic_star_border_black_18dp_1x.png) 412
 
 With the Philips Hue skill and Alexa, you can now interact with your Philips Hue lights and scenes. To get started, select the "Enable Skill" button in the Alexa App to link your Philips Hue account and say, "Alexa, discover devices". Find more information about connecting Smart Home devices at http://amzn.to/291lR7u. See below for directions*.
 

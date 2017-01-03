@@ -8,7 +8,7 @@
     "s3.amazonaws.com"
   ],
   "asin": "B01GB3U22U",
-  "averageRating": 0,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -28,7 +28,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "workout recommendation",
   "name": "Best Time of Day to Workout Recommendation",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "igF4dWwY2Sb3nRn4L94LWUMuv",
   "permissions": null,
   "privacyPolicyUrl": "https://s3.amazonaws.com/darianbjohnson/Workout-Recommendation/privacy_policy.html",

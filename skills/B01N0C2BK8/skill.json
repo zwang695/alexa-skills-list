@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N0C2BK8",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Ask Magic History is a skill for magicians and magic history buffs.\n\nIt can tell you magic related events that happened on a certain day in history or  give you a magic quote of the day . For both the quote of the day and events say \"ask Magic History for my daily dose of magic\". Examples:\n\nMagician: Alexa, ask Magic History what happened today.\nAlexa:  For November 29th, in 1900 ....\n\nMagician: Alexa, ask Magic History  what happened on October 2nd.\nAlexa:  For October 2nd, in 1975 ....  \n\n\nThis skill is assisted, but not endorsed, by:\n* Magicpedia, the free encyclopedia about magic by magicians for magicians. http://www.magicpedia.net\n\nFor more info on what Magic History can do or to provide suggestions see http://geniimagazine.com/magicpedia/Ask_Magic_History",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Magic History what happened on August thirtieth."
+  ],
+  "firstReleaseDate": 1480068480.193,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.b2ed93de-81bd-462a-90a7-8240c8146077",
+  "imageAltText": "Magic History icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N0C2BK8/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "magic history",
+  "name": "Magic History",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "",
+  "shortDescription": "Ask Magic History is a skill for magicians and magic history buffs.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "",
+  "vendorId": "M3VEMDRVT33A90",
+  "vendorName": "Joseph Pecore"
+}

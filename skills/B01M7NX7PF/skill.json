@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01M7NX7PF",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "A neo Professional matrix must be installed in your home, installed by a certified custom install professional. Once installed you can link the matrix to the monitoring cloud service which integrates directly with Alexa.\n\nOnce configured you can turn on or off your TV and/or change the input just by asking Alexa!\n\nFor support, contact pulse-eight direct at www.pulse-eight.com",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, turn on lounge tv",
+    "Alexa, turn on amazon fire on kitchen tv",
+    "Alexa, turn off bedroom tv"
+  ],
+  "firstReleaseDate": 1482185967.379,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.1287aef7-422f-4ab3-bbd5-844b487e0924",
+  "imageAltText": "neo Matrix icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M7NX7PF/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "neo Matrix",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "u2JT1u8qW1Gurf8AXhQCZ5WIP",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.pulse-eight.com/privacy",
+  "shortDescription": "neo Matrix Voice Control, Turn your TV on or off and change the input by voice",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3AKMA6R50WBQX",
+  "vendorName": "Pulse-Eight Limited"
+}

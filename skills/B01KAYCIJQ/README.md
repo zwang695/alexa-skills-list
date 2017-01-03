@@ -19,6 +19,6 @@ Nim is a classic game popular in game theory due to some of its interesting math
 * **Category:** null
 * **ID:** amzn1.echo-sdk-ams.app.04079759-81a8-41c6-b145-1ac293964e71
 * **ASIN:** B01KAYCIJQ
-* **Author:** Sally Wolcott
+* **Author:** Elvis Wolcott
 * **Release Date:** August 19, 2016 @ 08:20:52
 * **In-App Purchasing:** No

@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01L0ALM50",
-  "averageRating": 3,
+  "averageRating": 3.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Have Alexa help you gain total control of your money! The YNAB Alexa Skill makes checking a category balance or recording new spending a breeze!\n\nNever heard of YNAB? (Alexa pronounces it \"Why Nab\" and you should too.) It stands for You Need A Budget. It’s a powerful methodology coupled with award-winning software on the web, mobile, and now this companion Alexa Skill.\n\nThis is a companion skill for YNAB. It requires that you first set things up with YNAB at YouNeedABudget.com. Once you have have a YNAB account, have enabled the skill and linked your YNAB account, you are ready to budget like a pro.\n\nTo check a category balance:\n· “Alexa, ask Why Nab What’s the balance of Transportation?”\n· “Alexa, ask Why Nab for the balance of Eating Out”\n· “Alexa, ask Why Nab are we able to spend any money on Gifts?”\n· “Alexa, ask Why Nab how much cash do we have available to spend in our Gas category?”\n\nTo record new spending:\n· “Alexa, tell Why Nab to record a new transaction.”\n· “Alexa, tell Why Nab I just spent 9 dollars and 32 cents.”\n· “Alexa, tell Why Nab I just received 10 bucks.”\n· “Alexa, tell Why Nab I received 5 dollars yesterday.”\n\nAt any time you can say:\n· \"I'm done\"\n· \"Help\"\n· \"Start over\"\n· \"Quit\"\n\nTo get started, we'll ask you to securely sign in with your YNAB email and password and select a budget for Alexa to access. You can revoke this access at any time from the \"My Account\" page.\n\nDisclaimer: This skill may not be suitable for all ages so parental discretion is advised.",
+  "description": "Have Alexa help you gain total control of your money! The YNAB Alexa Skill makes checking a category balance or recording new spending a breeze!\n\nNever heard of YNAB? (Alexa pronounces it \"Why Nab\" and you should too.) It stands for You Need A Budget. It’s a powerful methodology coupled with award-winning software on the web, mobile, and now this companion Alexa Skill.\n\nThis is a companion skill for YNAB. It requires that you first set things up with YNAB at YouNeedABudget.com. Once you have have a YNAB account, have enabled the skill and linked your YNAB account, you are ready to budget like a pro.\n\nTo check a category balance:\n· “Alexa, ask Why Nab What’s the balance of Transportation?”\n· “Alexa, ask Why Nab for the balance of Eating Out”\n· “Alexa, ask Why Nab are we able to spend any money on Gifts?”\n· “Alexa, ask Why Nab how much cash do we have available to spend in our Gas category?”\n\nTo record new spending:\n· “Alexa, tell Why Nab to record a new transaction.”\n· “Alexa, tell Why Nab to log 25 dollars and 64 cents in Eating Out from Checking.”\n· “Alexa, tell Why Nab I just spent 9 dollars and 32 cents.”\n· “Alexa, tell Why Nab I just received 10 bucks.”\n· “Alexa, tell Why Nab I received 5 dollars yesterday.”\n\nAt any time you can say:\n· \"I'm done\"\n· \"Help\"\n· \"Start over\"\n· \"Quit\"\n\nTo get started, we'll ask you to securely sign in with your YNAB email and password and select a budget for Alexa to access. You can revoke this access at any time from the \"My Account\" page.\n\nDisclaimer: This skill may not be suitable for all ages so parental discretion is advised.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Why Nab for the balance of Groceries",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "why nab",
   "name": "YNAB",
-  "numberOfReviews": 8,
+  "numberOfReviews": 13,
   "pamsPartnerId": "nzPtdnQoPj2mDAFtpyInTBQ1A",
   "permissions": null,
   "privacyPolicyUrl": "https://www.youneedabudget.com/privacy-policy",

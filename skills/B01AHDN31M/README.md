@@ -1,5 +1,5 @@
 # [Stringify](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.d9bae870-d8dd-44ca-a628-d82953d5a20e)
-![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 9
+![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_black_18dp_1x.png)![3.1 stars](../../images/ic_star_half_black_18dp_1x.png)![3.1 stars](../../images/ic_star_border_black_18dp_1x.png) 10
 
 To use the Stringify skill, try saying...
 
@@ -9,7 +9,7 @@ To use the Stringify skill, try saying...
 
 * *Alexa, ask Stringify to list all my triggers.*
 
-Stringify transforms the way you connect your life, by bringing your physical and digital Things together to create Flows. By working together, your Things can help you save time, save money, stay healthy and maybe have a little fun. Now with Alexa, all of your Flows can be run by using your voice. Simply download the Stringify app and create an account, add Amazon Alexa and build a Flow using it as the trigger.
+Stringify app connects your smart home, wearable devices, and services to create truly automated experiences. Stringify is the only automation platform built specifically for the Internet of Things (IoT). Now with Alexa, all of your Flows can be run by using your voice. Simply download the Stringify app, create an account, add Amazon Alexa and build a Flow using Alexa as the trigger.
 
 Stringify also works well with: SmartThings, Fitbit, Nest, Jawbone Up, Phillips Hue, Homeboy, LIFX, Netatmo, Withings,  Dropbox, Twitter, Yahoo News, Yelp, Instagram, Google Drive, Slack, CNN, CNET, Craigslist, Flickr and many, many more.
 

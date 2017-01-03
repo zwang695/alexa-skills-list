@@ -1,5 +1,5 @@
-# &nbsp;<img src="skill_icon" alt="Still On icon" width="36"> [Still On](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c8b01f2f-7cfd-4da8-8f1c-8c6f40f0b65e)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+# [Still On](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c8b01f2f-7cfd-4da8-8f1c-8c6f40f0b65e)
+![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 4
 
 To use the Still On skill, try saying...
 

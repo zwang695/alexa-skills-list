@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01MDLG0YL",
-  "averageRating": 5,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "starfish audio",
   "name": "Starfish Audio",
-  "numberOfReviews": 2,
+  "numberOfReviews": 5,
   "pamsPartnerId": "5dKBnDMvolKwOITaLyVfY3u6t",
   "permissions": null,
   "privacyPolicyUrl": "http://www.starfishmint.com/policy/privacy-starfish-mp3.html",

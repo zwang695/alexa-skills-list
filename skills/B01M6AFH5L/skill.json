@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01M6AFH5L",
-  "averageRating": 3.8,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "where's my phone",
   "name": "Where'sMyPhone",
-  "numberOfReviews": 8,
+  "numberOfReviews": 71,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://wheresmyphone.jesse.ws/privacy/",

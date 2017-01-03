@@ -3,7 +3,7 @@
     "server.revogi.com"
   ],
   "asin": "B01KLKM32Q",
-  "averageRating": 0,
+  "averageRating": 1.5,
   "canDisable": false,
   "capabilities": null,
   "category": null,
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Revogi",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": "8KZq51fYenztZ25LGeaKXPSBp",
   "permissions": null,
   "privacyPolicyUrl": "http://www.revogi.com",

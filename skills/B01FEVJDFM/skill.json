@@ -5,7 +5,7 @@
     "herokuapp.com"
   ],
   "asin": "B01FEVJDFM",
-  "averageRating": 1.7,
+  "averageRating": 1.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -25,7 +25,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "chat bot",
   "name": "Chat Bot for Slack",
-  "numberOfReviews": 4,
+  "numberOfReviews": 8,
   "pamsPartnerId": "uNS9G3Em1SlCgBL28rId7qvZY",
   "permissions": null,
   "privacyPolicyUrl": "https://alexa-slack.herokuapp.com/privacy",

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01LM4SYHI",
-  "averageRating": 4.7,
+  "averageRating": 4.1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "classical study music",
   "name": "Classical Study Music",
-  "numberOfReviews": 5,
+  "numberOfReviews": 19,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://github.com/DrianHillman/alexa-classical-study-music",

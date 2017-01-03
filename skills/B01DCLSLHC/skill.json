@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01DCLSLHC",
-  "averageRating": 4.3,
+  "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "event seeker",
   "name": "Eventseeker",
-  "numberOfReviews": 4,
+  "numberOfReviews": 11,
   "pamsPartnerId": "sKHqn2ZvBAJBsxkBG2L7mPNaS",
   "permissions": null,
   "privacyPolicyUrl": "http://eventseeker.com/docs/wCities-Privacy_Policy_2015.doc",

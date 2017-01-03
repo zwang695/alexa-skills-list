@@ -1,17 +1,15 @@
-# [Audio Chef](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a612aa54-429e-40f4-8df8-06b2a2105c70)
+# [The Audio Chef](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a612aa54-429e-40f4-8df8-06b2a2105c70)
 ![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
-To use the Audio Chef skill, try saying...
+To use the The Audio Chef skill, try saying...
 
 * *Alexa, open Audio Chef*
 
-* *Alexa, ask Audio Chef to load recipe beef tacos*
+* *Alexa, ask Audio Chef to load the recipe pancakes*
 
 * *Alexa, ask Audio Chef for the next step*
 
-Audio Chef will be your new guide in the kitchen. Are you tired of going back to the recipe text to find where you left off? Despair no more! 
-
-Using audio prompts, Audio Chef can guide you through a recipe while your hands do the cooking. To get started, say "Alexa, open Audio Chef." For additional information, visit theaudiochef.com
+The Audio Chef allows you to load your favorite recipes from supported websites into an interactive audio format. Using audio prompts, Audio Chef can guide you through the recipe, freeing your hands to do the cooking. To load a recipe, go to theaudiochef.com and log in with your Amazon account.
 
 ***
 
@@ -23,4 +21,6 @@ Using audio prompts, Audio Chef can guide you through a recipe while your hands 
 * **ASIN:** B01FROPJ4K
 * **Author:** Emerson
 * **Release Date:** May 25, 2016 @ 06:38:32
+* **Privacy Policy:** https://theaudiochef.com/privacy
+* **Account Linking Domains:** www.amazon.com, api.amazon.com, pitangui.amazon.com, na.account.amazon.com
 * **In-App Purchasing:** No

@@ -1,13 +1,13 @@
-# [TreycentSupplementAdvisor](http://alexa.amazon.com/#skills/amzn1.ask.skill.418b9915-ce48-45ff-b146-5ca162a28db4)
+# [Supplement Advisor](http://alexa.amazon.com/#skills/amzn1.ask.skill.418b9915-ce48-45ff-b146-5ca162a28db4)
 ![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
 
-To use the TreycentSupplementAdvisor skill, try saying...
+To use the Supplement Advisor skill, try saying...
 
-* *Alexa, Ask The Supplement Advisor what supplements are good for anxiety*
+* *Alexa, ask the supplement advisor what supplements are good for anxiety*
 
-* *what vitamins help with eczema*
+* *ask the supplement advisor what vitamins help with eczema*
 
-* *what supplement is good for joints*
+* *ask the supplement advisor what supplement is good for joints*
 
 The Supplement Advisor answers questions regarding which vitamins and supplements are recommended for certain conditions.
 

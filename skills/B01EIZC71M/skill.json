@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01EIZC71M",
-  "averageRating": 3.9,
+  "averageRating": 3.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "the dishwasher",
   "name": "The Dishwasher",
-  "numberOfReviews": 9,
+  "numberOfReviews": 19,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

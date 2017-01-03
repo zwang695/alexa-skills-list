@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Find the times and routes for your trains on the London Underground.\n\nIf you ask \"Whens my train\" you are taken through a setup where you define your home and work(usual destination) station.\n\nAlternatively you can ask \"Train from Baker Street to Oval\" which will set the home station to Baker Street and work station to Oval.\n\nIndividually you can change your home station with \"Make my home station Baker Street\".\n\nOnce you have defined your home and work stations you can then ask \"when\", \"later\", \"earlier\", \"train at 14:00\" etc",
+  "description": "Find the status of line and train times and routes for your trains on the London Underground.\n\nIf you ask \"Whens my train\" you are taken through a setup where you define your home and work(usual destination) station.\n\nAlternatively you can ask \"Train from Baker Street to Oval\" which will set the home station to Baker Street and work station to Oval.\n\nIndividually you can change your home station with \"Make my home station Baker Street\".\n\nOnce you have defined your home and work stations you can then ask \"when\", \"later\", \"earlier\", \"train at 14:00\" etc\n\nOn startup the live status of all lines is given or if your own line has a problem it will tell you  that.\n\nAt any time you can ask \"What's up with the Bakerloo line\" or use a different line name and it will tell you state of the line you ask.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa Ask When is my train when is it",

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01JRE35FG",
-  "averageRating": 4.6,
+  "averageRating": 4.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "yeti hunt game",
   "name": "Hunt the Yeti",
-  "numberOfReviews": 13,
+  "numberOfReviews": 25,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "",

@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "controlnightingale.com"
+  ],
+  "asin": "B01KP2U2NC",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Nightingale is the first smart home sleep system designed to ensure better and more restful sleep.  With 15 different ‘sound blankets’, Nightingale can reduce wake occurrences by masking common outdoor and indoor noises. Nightingale can be controlled via the mobile app and send weather and traffic alerts.  \n\nNightingale is the first smart home sleep system that can connect to devices such as Nest, Ring, Amazon Alexa, and Philips Hue via IFTTT. Taking sleep to the next level, Nightingale is engineered for sleep by acoustic experts and the leader in sound masking, Cambridge Sound Management. It can be customized to a room’s architecture and acoustics with 15 different ambient noise sound blankets that reduces wake occurrences by masking common outdoor and indoor noises.\n\nIf you enjoy the sound of nature, Nightingale can also play different nature sounds to help ease you to sleep. Automatic scheduling allows you to program Nightingale to turn on before bedtime and turn off before you wake up.\n\nYou must log into your Control Nightingale account to use this skill.\n\nDisclaimer: This skill may not be suitable for all ages.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Control Nightingale",
+    "Play Crickets",
+    "Set Night Light to Green"
+  ],
+  "firstReleaseDate": 1481021379.557,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.def4743d-5f40-404b-814d-b3c39a17f193",
+  "imageAltText": "Nightingale icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01KP2U2NC/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "control nightingale",
+  "name": "Nightingale",
+  "numberOfReviews": 2,
+  "pamsPartnerId": "sahjlmkikr5j94vGQNkd8jPbJ",
+  "permissions": null,
+  "privacyPolicyUrl": "https://controlnightingale.com/privacy.html",
+  "shortDescription": "Nightingale is the first smart home sleep system designed to ensure better and more restful sleep.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://controlnightingale.com/terms.html",
+  "vendorId": "MGIDS9BX8375J",
+  "vendorName": "Cambridge Sound"
+}

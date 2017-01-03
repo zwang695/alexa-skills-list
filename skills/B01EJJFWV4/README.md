@@ -1,5 +1,5 @@
 # [tado°](http://alexa.amazon.com/#skills/amzn1.ask.skill.72a98e74-431b-47a2-bc91-c0723f866d5e)
-![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 9
 
 With the tado° Skill and Alexa, you can now interact with your tado° thermostats by voice. To get started, select the ‘Enable Skill’ button in the Alexa App to link your tado° account and discover your thermostat(s). Find more information about connecting Smart Home devices at http://amzn.to/291lR7u.
 

@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N787STJ",
+  "averageRating": 4.2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Ask Alexa to tell you an amazing fact about the human body",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa Open Body Facts"
+  ],
+  "firstReleaseDate": 1480066642.365,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.4dca4e0e-a593-4e06-840e-1ac676b19dce",
+  "imageAltText": "Body Facts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N787STJ/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "body facts",
+  "name": "Body Facts",
+  "numberOfReviews": 3,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Alexa tell me a body fact",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MI8V5VR9VXQDU",
+  "vendorName": "Reply GmbH"
+}

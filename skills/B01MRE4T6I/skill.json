@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01MRE4T6I",
-  "averageRating": 5,
+  "averageRating": 4.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Written by the City of Las Vegas, the Alexa My Vegas skill will provide information about the city of Las Vegas, including fun facts, council meetings, and planning commission meetings. You can also ask My Vegas about who is part of city management, including the mayor, city manager, and elected council members.",
+  "description": "Written by the City of Las Vegas, the Alexa My Vegas skill will provide information about the city of Las Vegas, including fun facts, council meetings, and planning commission meetings. You can also ask My Vegas about who is part of city management, including the mayor, city manager, and elected council members. You can obtain information on city parks, as well as how to report problems or contact departments.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa ask My Vegas when is the next council meeting",
-    "Alexa ask My Vegas when is the next planning commission meeting",
-    "Alexa ask My Vegas to tell me something about Las Vegas"
+    "Alexa ask My Vegas when is the next council meeting?",
+    "Alexa ask My Vegas what parks have tennis?",
+    "Alexa ask My Vegas how do I report graffiti?"
   ],
   "firstReleaseDate": 1478873559.804,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my vegas",
   "name": "City of Las Vegas Information",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://opendata.lasvegasnevada.gov/privacy-policy",

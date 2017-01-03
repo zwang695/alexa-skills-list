@@ -3,11 +3,11 @@
 
 To use the Service Local skill, try saying...
 
-* *Alexa, tell Service Local I need a plumber*
+* *Alexa, ask Service Local for a plumber*
 
 * *Alexa, tell Service Local I need an electrician*
 
-* *Alexa, ask Service Local for an electrician near 94607*
+* *Alexa, ask Service Local for a locksmith in Berkeley*
 
 Service Local is a quick and easy way to find quality local service providers near you with Yelp!
 

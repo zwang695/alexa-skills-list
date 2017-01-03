@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N1HWVIB",
+  "averageRating": 4,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Status Check is an Alexa skill that makes it easy to check whether a website is up or not. Currently checks the top 100 most popular websites according to Alexa rank.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Status Check if Google is up right now",
+    "Is Facebook working"
+  ],
+  "firstReleaseDate": 1480068580.963,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.7b5fba2a-3375-441d-bcfe-49ee338cbe56",
+  "imageAltText": "Status Check icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N1HWVIB/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "status check",
+  "name": "Status Check",
+  "numberOfReviews": 2,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Monitor the status of your favorite websites.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2BBXDQHGUI0XU",
+  "vendorName": "Cuttarug"
+}

@@ -1,5 +1,5 @@
 # [Today's Featured on Product Hunt](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a5c00e5b-91c4-4b8d-a720-79e1cce84b53)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Today's Featured on Product Hunt skill, try saying...
 

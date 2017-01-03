@@ -8,9 +8,9 @@
   "description": "Service Local is a quick and easy way to find quality local service providers near you with Yelp!\n\nWe can help you find a plumber, electrician, carpenter, accountant, handyman, cleaner, locksmith and many other home and professional services.\n\nAfter installing the skill, start by telling Alexa the type of service you're looking for.\n\n*** We greatly appreciate any positive ratings or feedback you may have on how to make our skill the best it can be! ***",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, tell Service Local I need a plumber",
+    "Alexa, ask Service Local for a plumber",
     "Alexa, tell Service Local I need an electrician",
-    "Alexa, ask Service Local for an electrician near 94607"
+    "Alexa, ask Service Local for a locksmith in Berkeley"
   ],
   "firstReleaseDate": 1477379714.273,
   "homepageLinkText": null,

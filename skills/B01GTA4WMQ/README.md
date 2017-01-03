@@ -1,13 +1,13 @@
 # [Word Source](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9d12620e-b77d-4574-875a-1d4216238838)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 2
 
 To use the Word Source skill, try saying...
 
-* *Alexa, ask Word Source what is the etymology of plant*
+* *Alexa, ask Word Source about the word car*
 
 * *Alexa, ask Word Source about the origin of the word colony*
 
-* *Alexa, ask Word Source about the word car*
+* *Alexa, ask Word Source what is the etymology of plant*
 
 Learn more about the origins of words with the Word Source skill.
 

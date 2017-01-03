@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "iobroker.net"
+  ],
+  "asin": "B01MRXCC3J",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Man braucht laufende Installation von ioBroker (sehe hier http://iobroker.net) und es wird ein installierten \"cloud\" Adapter nötig sein.\n\nGehe auf https://iobroker.net und registriere ein Account. \nDanach auf \"Create App-Key\" drücken und generierte Schlüssel dann in Einstellungen von cloud Adapter eintragen. Fertig.\n\nAnhand  von bestehenden Aufzählungen (rooms und functions) es werden automatisch die Gerätenamen erzeugt und beim \"Geräte suchen\" an Alexa geliefert.\nDer Anwender kann einzelne Geräte mit der Hilfe von \"smartName\" extra für Alexa benennen.\n\nWas geht:\n- Alexa, schalte \"Gerätename\" ein\n- Alexa, schalte \"Gerätename\" aus\n- Alexa, stelle \"Gerätename\" auf \"Anzahl\" Prozent\n- Alexa, erhöhe \"Gerätename\" um \"Anzahl\" Prozent\n- Alexa, reduziere \"Gerätename\" um \"Anzahl\" Prozent\n- Alexa, stelle \"Gerätename\" auf \"Anzahl\" Grad\n- Alexa, erhöhe \"Gerätename\" um \"Anzahl\" Grad\n- Alexa, reduziere \"Gerätename\" um \"Anzahl\" Grad",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa schalte Wohnzimmer Licht an",
+    "Alexa schalte Bad Beleuchtung aus",
+    "Alexa stelle Arbeitszimmer Rolladen auf 40 Prozent"
+  ],
+  "firstReleaseDate": 1482868156.905,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.49445c43-0863-40de-8ea2-89b99a0618bb",
+  "imageAltText": "ioBroker SmartHome icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MRXCC3J/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "ioBroker SmartHome",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "yxti5zrhSstnZpNw525BOrIwT",
+  "permissions": null,
+  "privacyPolicyUrl": "https://iobroker.net/policy",
+  "shortDescription": "Es wird möglich die Geräte zu steuern, die von ioBroker unterstützt sind. Genaue Beschreibung für ioBroker kann man hier finden: http://iobroker.net",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M34ECFRA6QLN06",
+  "vendorName": "ioBroker"
+}

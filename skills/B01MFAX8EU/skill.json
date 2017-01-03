@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01MFAX8EU",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Random Password Generator is here to give you a completely unique string of alphanumeric characters. Simply say a number between 1 and 100 and you'll be given a string with that many characters.\n\nPlease note: these are not stored anywhere except for the Alexa companion app; you can also remove the card.",
+  "description": "Random Password Generator is here to give you a completely unique string of alphanumeric characters. Simply say a number between 1 - 100 and you'll be given a string which could be used as a password to that value.\n\nPlease note:\n- These are not stored anywhere except for the Alexa companion app; you can also remove the card they're saved on\n- Alexa companion app can be accessed via alexa.amazon.com, or downloaded; more info here:\n\nhttps://www.amazon.com/gp/help/customer/display.html?nodeId=201602060",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open Random Password Generator",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "random password generator",
   "name": "Random Password Generator",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

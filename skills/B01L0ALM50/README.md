@@ -1,5 +1,5 @@
 # [YNAB](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.1afde774-2db3-45f7-acf7-f5d541ecc037)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 8
+![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 13
 
 To use the YNAB skill, try saying...
 
@@ -23,6 +23,7 @@ To check a category balance:
 
 To record new spending:
 · “Alexa, tell Why Nab to record a new transaction.”
+· “Alexa, tell Why Nab to log 25 dollars and 64 cents in Eating Out from Checking.”
 · “Alexa, tell Why Nab I just spent 9 dollars and 32 cents.”
 · “Alexa, tell Why Nab I just received 10 bucks.”
 · “Alexa, tell Why Nab I received 5 dollars yesterday.”

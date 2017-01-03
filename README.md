@@ -1,7 +1,15 @@
 # Alexa Skills List
 A complete list of all available Alexa Skills
 
-**Total Skills Available:** 4271
+**Total Skills Available:** 5817
+
+***
+
+## [ Digital Warhound](skills/B01N8ZS24B)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -18,6 +26,30 @@ Alexa leads you in the iconic 'We Are' cheer.
 *Alexa, open Coffee Talk Trivia*
 
 Test your knowledge of fun trivia from this awesome hit show.
+
+***
+
+## ["Rub & Miri" Trivia](skills/B01NBB2GQF)
+
+*Alexa Open rub n. miri trivia*
+
+A trivia of Rub & Miri for Alexa
+
+***
+
+## [/r/frontpage](skills/B01MTJRCY2)
+
+*Alexa Ask Frontpage top six*
+
+Ask Trending on Reddit for the top ten titles from the front page
+
+***
+
+## [0xfe](skills/B01N6LB0AQ)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -85,14 +117,6 @@ Provides a 2000s movie quote
 
 ***
 
-## [2016 Presidential Race](skills/B01FV1IVY4)
-
-*Alexa ask Presidential Race who is winning*
-
-Presidential Race give you up to date results on the current status of the 2016 US presidential election polls between Hillary Clinton and Donald Trump.
-
-***
-
 ## [2016 Swimming Trials Standards](skills/B01HH0G8I8)
 
 *Alexa, ask swimming trials what is the time standard for the 200 free*
@@ -117,6 +141,22 @@ As the saying goes, it takes at least 21 days to build a habit. Use 21 Dayz to h
 
 ***
 
+## [24G Holiday Trivia](skills/B01NCJ8VMJ)
+
+*Alexa open 24 G Holiday Trivia*
+
+test your holiday trivia knowledge with our quick five question game
+
+***
+
+## [25 Facts about Christmas](skills/B01MT326S3)
+
+*Alexa, ask christmas facts to give me a fact*
+
+25 Random facts about Christmas
+
+***
+
 ## [3 Minute Hero song lyrics](skills/B01KB6686M)
 
 *Alexa open three minute hero and tell me a lyric*
@@ -130,14 +170,6 @@ Ask Alexa to tell you a lyric from a 3 Minute Hero song
 *Alexa, launch dharma inspirations*
 
 3-Dharma Inspirations dispenses 3 sayings of the Buddha with one request. It is insightful & inspirational each time.
-
-***
-
-## [30Sec](skills/B01DZRLWFQ)
-
-*Alexa, ask thirty sec to play Jerry Rice*
-
-ThirtySec provides real voices of people.
 
 ***
 
@@ -157,11 +189,36 @@ The best reason yet to own an Echo! Have all the fun of a fart without any of th
 
 ***
 
+## [4D Checker](skills/B01N6H8TBR)
+
+*Alexa ask four d. to check number one two three four*
+
+Check results for 4D Magnum, Toto and Damacai games.
+Just ask "Alexa, ask Four D to check number [1234]"
+
+***
+
+## [4D Results Singapore - AsiaOne](skills/B01N01ULIV)
+
+*Alexa ask four D. results*
+
+Winning 4D numbers skill brought to you by AsiaOne, Singapore Press Holdings
+
+***
+
 ## [5 Hot Trends](skills/B01M1CGD1E)
 
 *Alexa, ask Hot Trends for the top five keywords.*
 
 This skill gives what are the top 5 trend keywords that are mostly asked by people now.
+
+***
+
+## [60db](skills/B01N2T9X06)
+
+*Alexa ask sixty d. b. to play*
+
+60dB brings you today's best short audio stories – news, sports, entertainment, business and technology, all personalized for you.
 
 ***
 
@@ -213,6 +270,14 @@ flash cards for 9 times table
 
 ***
 
+## [99 Bottles](skills/B01N0VTLCW)
+
+*Alexa, Open Ninety Nine Bottles*
+
+Want to know more about beer? 99 Bottles will give you a random fact about beer each time you open the app.
+
+***
+
 ## [9Cookies GmbH](skills/B01M0PEQVE)
 
 *There are no example interactions for this skill.*
@@ -234,6 +299,14 @@ Are you studying for an Amazon Web Services Certification exam? This Skill helps
 *Alexa, start A Cloud Guru Professional*
 
 Are you studying for your Amazon Web Services Professional DevOps Engineer exam? This Alexa app will help you study by asking you practice exam questions.
+
+***
+
+## [A compliment please](skills/B01MXY9WD1)
+
+*Alexa Open a compliment please*
+
+Some words to make your day better.
 
 ***
 
@@ -269,11 +342,27 @@ This skill will randomly pick from over 2,000 Yo Mama Jokes.
 
 ***
 
+## [Aaron Redmond](skills/B01MU2DI98)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Abe Facts](skills/B01KIWT9EW)
 
 *Alexa open abe facts*
 
 Abraham Lincoln Facts Skill
+
+***
+
+## [Abe Lincoln](skills/B01N0OJUZG)
+
+*Alexa Abe Lincoln*
+
+Abe Lincoln gets Buff with Quotes & Facts & Zingers
 
 ***
 
@@ -325,11 +414,35 @@ Abra is a character-guessing game. Think of a character, real or fictional, and 
 
 ***
 
+## [AccuTracking](skills/B01N1WOIIS)
+
+*Alexa, ask Accutracking, where's my car?*
+
+Get the location of your car equipped with an Accutracking GPS tracker.
+
+***
+
 ## [AccuWeather](skills/B01A06BU8E)
 
 *Alexa, start AccuWeather.*
 
 Stay connected to the latest in weather forecasting with AccuWeather. Ask for weather forecasts up to 15 days, for global locations, to better plan your life.
+
+***
+
+## [acd_cli](skills/B01MXYJU9G)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [acd_cli](skills/B01NBKYBCI)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -365,11 +478,28 @@ a trivia game that asks the player to solve the words to a acronym
 
 ***
 
+## [activity finder](skills/B01N4EKUOI)
+
+*There are no example interactions for this skill.*
+
+find a fun activity to do if you are bored
+
+***
+
 ## [Activity Selector](skills/B01MAUL1MB)
 
 *alexa open activity selector*
 
 help select an activity for the day
+
+***
+
+## [Activity Tracker](skills/B01MTQ6RSA)
+
+*Alexa, ask activity tracker how many miles did I run today?*
+
+Keep up with your running activities on Strava. 
+Ask Alexa how many miles you ran yesterday or check in on your total monthly or weekly milage.
 
 ***
 
@@ -386,6 +516,30 @@ Use ActualCalorie to keep track of you calories.
 *Alexa, ask Adam Pippert Facts to tell me trivia*
 
 Alexa knows about Adam Pippert
+
+***
+
+## [Adam's Brain](skills/B01N4EX9YB)
+
+*Alexa ask Adam's Brain what the square root of pi is*
+
+Adam knows a few things and forgets the rest. Ask Adam a question, but expect that he doesn't know the answer.
+
+***
+
+## [addition practice](skills/B01MXHE21H)
+
+*Alexa open addition practice*
+
+Practice Adding Numbers
+
+***
+
+## [Adhaan Times](skills/B01NGZRTOI)
+
+*Alexa ask Prayer Times to get prayer times for new york*
+
+Get muslim prayer times for cities in USA. Prayer times use ISNA method, Hanafi school and one seventh latitude adjustment
 
 ***
 
@@ -407,11 +561,27 @@ Make your day better with a compliment!
 
 ***
 
+## [Adulate Me](skills/B01MU4JRTC)
+
+*Alexa Start Adulate Me*
+
+Make yourself feel better!
+
+***
+
 ## [Advent Calendar](skills/B01N00XKGK)
 
 *Alexa Open Advent Calendar*
 
 Let Advent Calendar read you the verse of the day during the holiday season.
+
+***
+
+## [Advent Calendar](skills/B01N45C386)
+
+*Alexa, open advent calendar*
+
+A virtual advent calendar. Have Alexa read you the daily advent verse leading up to Christmas.
 
 ***
 
@@ -428,6 +598,14 @@ The Adventure skill enables you to interact with stories and change their ending
 *alexa, start advertising technology quiz*
 
 Advertising technology terms multiple choice quiz
+
+***
+
+## [Aeomer.com](skills/B01M4S1L41)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -480,6 +658,14 @@ Who doesn't like a good aggie joke. Here is a random aggie joke at your command!
 
 ***
 
+## [Agile Assistant](skills/B01N3SQARV)
+
+*alexa Ask Agile Assistant What are the core agile values*
+
+This is an assistant to help you remember your core agile values and principles
+
+***
+
 ## [Agog Reader](skills/B019YOS8TM)
 
 *Alexa, ask Agog Reader for Barack Obama.*
@@ -522,6 +708,14 @@ This skill queries the national weather service to figure out the air quality in
 
 ***
 
+## [Air Quality](skills/B01N1GU3XX)
+
+*Alexa ask Air Quality is it worth going to Paris*
+
+Find out the air quality, some recommendations and information about air pollutants using the Air Quality Alexa skill.
+
+***
+
 ## [Air Quality Meter](skills/B01DOFHDWA)
 
 *Alexa, launch Air Quality Meter*
@@ -546,11 +740,19 @@ Check the wait times at any airport in the country.
 
 ***
 
-## [Airplane Amy](skills/B01LIHT5S6)
+## [Air Traffic Control](skills/B01MQK7UZ8)
 
-*Alexa, ask airplane amy a fact*
+*Alexa, open air traffic control*
 
-This  skill  gives  you  a  airplane facts
+Gives information about the lowest aircraft for a given location.
+
+***
+
+## [AIRHORN](skills/B01NCP8NAN)
+
+*Alexa, open air horn*
+
+You want air horn? We've got air horn!
 
 ***
 
@@ -634,6 +836,14 @@ Learn interesting facts about the State of Alabama.
 
 ***
 
+## [Alabama Facts](skills/B01N49W4ZU)
+
+*Alexa open Alabama Facts*
+
+Get interesting facts about good ole' Sweet Home Alabama
+
+***
+
 ## [Alan Drinks](skills/B01FL7PGKK)
 
 *Alexa, ask Alan Drinks how can I make a Margarita*
@@ -647,6 +857,14 @@ Alan Drinks is a skill that gives you the ingredients for a few popular cocktail
 *Alexa, ask computer geek for a quote.*
 
 Alan Perlis Quotes
+
+***
+
+## [Alan Turing Quiz](skills/B01N4EI3PR)
+
+*Alexa open alan turing quiz*
+
+A short quiz on the history of Alan Turing made by someone who admires his work.
 
 ***
 
@@ -674,11 +892,51 @@ Albert Einstein Facts is a skill that tells a fact about Albert Einstein.
 
 ***
 
+## [Alec facts](skills/B01N3MR0CU)
+
+*Alexa, ask Alec Facts for a fact about Alec*
+
+Have Alexa tell you facts about Alec, the random guy who created this skill!
+
+***
+
+## [Alexandre Nicol](skills/B01N2UF9BK)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Alexandria Guide](skills/B01N2YPG3N)
+
+*Alexa, open Alexandria Guide*
+
+Plan you next visit with the Alexandria Guide.  Whether this is your first trip or you are a returning visitor there is always something interesting to explore.
+
+***
+
 ## [Alfa Bravo Charlie](skills/B01FYMWWQS)
 
 *Alexa ask Alfa Bravo Charlie to start a game*
 
 A fun quiz game to test your knowledge of the phonetic alphabet used by NATO and aviation professionals around the world. Can you get a perfect score?
+
+***
+
+## [Algerian Facts](skills/B01MYWZ762)
+
+*Alexa, Open Algerian Facts*
+
+Funny facts about the Algerian culture and history
+
+***
+
+## [Alibro Ltd](skills/B01MT1QBEG)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -695,6 +953,22 @@ The All Knowing 8 Ball can answer life's vexing questions for you, without all t
 *Alexa, start united states*
 
 This skill will tell you a random state in the United States of America
+
+***
+
+## [Alliant Credit Union](skills/B01N0SDX9L)
+
+*Alexa Ask Alliant about credit union*
+
+Alliant Credit Union Information
+
+***
+
+## [Allrecipes](skills/B01N3MS7AV)
+
+*Alexa, open Allrecipes.*
+
+The cooks you trust, recipes you love, and step-by-step instructions you need to prepare more than 60,000 dishes from the world’s #1 food site - all hands free.
 
 ***
 
@@ -722,7 +996,7 @@ Almond and Alexa work together to make your home smarter. Enable this skill to c
 
 ***
 
-## [ALOP-Pilates-Class-Skill](skills/B01DKH76EC)
+## [ALOP Pilates Class](skills/B01DKH76EC)
 
 *Alexa, start pilates class*
 
@@ -735,6 +1009,38 @@ Take traditional Pilates mat classes from ALotOfPilates.com with Amazon Echo. Le
 *Alexa, ask Alphabet Food for foods that start with the letter A.*
 
 This skill provides a list of foods for any letter in the alphabet.
+
+***
+
+## [Altiros](skills/B01MTUEYFL)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Altiros](skills/B01MZWMP7O)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Altiros](skills/B01MZZ3JPS)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Amazing Brain](skills/B01N94QTJD)
+
+*Alexa ask amazing brain for a fact*
+
+Amazing Brain facts
 
 ***
 
@@ -767,6 +1073,38 @@ To Know about India and India's History and amazing facts about India.
 *Alexa, ask Word Master to play a game*
 
 Word Master is an interactive way to learn and challenge yourself with words, while having fun with competing scores. Score higher to win!
+
+***
+
+## [Amazon Restaurants](skills/B01M2CXB4G)
+
+*Alexa, order pizza from Amazon Restaurants.*
+
+Reorder food delivery with the Amazon Restaurants skill. You must be a Prime member in an eligible location and have placed an Amazon Restaurants order before.
+
+***
+
+## [Ambient Noise: Ocean Sounds](skills/B01M5E92TH)
+
+*Alexa, open ocean sounds*
+
+Ambient noise of small ocean waves to help you focus, sleep, or relax.
+
+***
+
+## [Ambient Noise: Rain Sounds](skills/B01LXQXW3G)
+
+*Alexa, open Rain Sounds*
+
+Ambient noise of light rainfall to help you focus, sleep, or relax.
+
+***
+
+## [Ambient Noise: Thunderstorm Sounds](skills/B01M3RCM3B)
+
+*Alexa, open Thunderstorm Sounds*
+
+Ambient noise of a thunderstorm to help you focus, sleep, or relax.
 
 ***
 
@@ -826,6 +1164,14 @@ American Presidents Trivia game is a fun skill to help students master basic tri
 
 ***
 
+## [American Prison Facts](skills/B01N8S5BOE)
+
+*Alexa, ask American Prison facts to give me an american prison fact.*
+
+A skill that will recite facts about American prisons.
+
+***
+
 ## [American Trivia](skills/B01KHEFGIO)
 
 *Alexa, Open American trivia*
@@ -855,6 +1201,14 @@ Amino Acid Quiz is a game to test your knowledge of amino acid symbols.
 *Alexa, open anatomy facts*
 
 Fun Anatomy Facts!
+
+***
+
+## [Anchorage Guide](skills/B01N0U8H56)
+
+*Alexa, open Anchorage Guide*
+
+From city to summit, your journey beings in Anchorage.
 
 ***
 
@@ -890,7 +1244,47 @@ null
 
 ***
 
+## [Andrii's Facts](skills/B01N9I3QOI)
+
+*Alexa Open Andrii's Facts*
+
+Facts about Andrii Shchavinskyi
+
+***
+
+## [Andy Henderson](skills/B01N8V1UX7)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Andy K.](skills/B01LZ8LXLT)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Andy K.](skills/B01MQRPCBY)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Andy K.](skills/B01N5AZSOE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Andy K.](skills/B01N6DZ5WW)
 
 *There are no example interactions for this skill.*
 
@@ -938,11 +1332,27 @@ A list of irreverent animal fact, some true, some not so true, can you tell whic
 
 ***
 
+## [Animal Facts](skills/B01MSQGZHU)
+
+*Alexa Open Animopedia*
+
+Get Interesting Animal Facts with Animpoedia
+
+***
+
 ## [Animal Game](skills/B017OBYNZU)
 
 *Alexa, start Animal Game*
 
 Play the guess-an-animal game with Alexa. Think of an animal and Alexa will guess it by asking questions.
+
+***
+
+## [Animal Letters](skills/B01N2ML4V5)
+
+*Alexa, open animal letters*
+
+Alexa and you take turns guessing the names of animals beginning with a letter of the alphabet that Alexa randomly selects.
 
 ***
 
@@ -1042,6 +1452,38 @@ flashcards for acronyms that are common in today's world
 
 ***
 
+## [AnotherFact](skills/B01N7FRHV1)
+
+*Alexa, open another fact*
+
+Fun and novel random
+
+***
+
+## [Ansgar Schmidt](skills/B01MQZCFM7)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Ansgar Schmidt](skills/B01N2ODAMA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Ansgar Schmidt](skills/B01N7LHVUL)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Ant facts](skills/B01I4MMGIY)
 
 *Alexa, ask ant queen a fact*
@@ -1063,6 +1505,30 @@ This skill tells you ant jokes!
 *There are no example interactions for this skill.*
 
 null
+
+***
+
+## [Anthony Sibley](skills/B01MQU7DRT)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Anthony Sibley](skills/B01MRKEX4Z)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Anti Jokes](skills/B01N0I6FJT)
+
+*Alexa ask Anti Jokes Give me an anti joke*
+
+Listen to some Anti Jokes!
 
 ***
 
@@ -1090,14 +1556,6 @@ Turn your voice into a real universal remote! Alexa, tell AnyMote to power on my
 
 ***
 
-## [Anythings](skills/B01CZ3JZ7I)
-
-*Alexa, ask anythings what are the best new smart devices*
-
-Anythings lists the best new smart devices and their compatibilities. Discover the most popular products curated by IoT Lovers.
-
-***
-
 ## [AOL](skills/B018MQKSTQ)
 
 *Alexa, ask AOL for the top headlines*
@@ -1111,6 +1569,14 @@ AOL provides you the information that you need to know to stay informed and up t
 *Alexa ask  quiz master to start the quiz*
 
 A quizlet that tests the important dates in US history as in the AP US History curriculum
+
+***
+
+## [Apache Trash Day](skills/B01M72SL8L)
+
+*Alexa, ask Trash day when is the next trash day*
+
+Tells you when the next trash and/or recycle day is in the neighborhood
 
 ***
 
@@ -1130,11 +1596,27 @@ Study aid for the AP History Exam that lists facts aloud.
 
 ***
 
+## [Appenheimer](skills/B01NBAJXZ8)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Applause](skills/B01CSBIXWU)
 
 *Alexa open applause*
 
 Get a round of applause in any situation with the Alexa Applause Skill.
+
+***
+
+## [Apple facts](skills/B01MQT4NDA)
+
+*Alexa, open apple fact*
+
+A skill that delivers a random fact about apples
 
 ***
 
@@ -1186,6 +1668,22 @@ Area Code Lookup
 
 ***
 
+## [Area Code Skill](skills/B01MRHYT4G)
+
+*Alexa, ask area code finder to lookup area code for seven zero four*
+
+Looks up Region associated to telephone area code
+
+***
+
+## [Argentina Facts](skills/B01MYZ7GD0)
+
+*Alexa Open argentina facts*
+
+Fun and interesting facts about Argentina.
+
+***
+
 ## [Arithlistic](skills/B01JWO3A38)
 
 *Alexa, open Quiz Mathematics*
@@ -1234,6 +1732,14 @@ Facts about Armen.
 
 ***
 
+## [Armenian Recipes](skills/B01N5JGTZA)
+
+*Alexa open Armenian Recipes*
+
+Armenian Recipes
+
+***
+
 ## [Aromatherapy](skills/B01EKX7WKS)
 
 *Alexa, Ask Aromatherapy for a recipe for focus.*
@@ -1250,11 +1756,35 @@ Aromatherapy is a skill that can help you with some common diffuser recipes for 
 
 ***
 
+## [Arrayent DevKit](skills/B01N6E0G3R)
+
+*Alexa, ask Arrayent DevKit to turn off the green light*
+
+Use this skill with the Arrayent Development Kit (DevKit). The Arrayent IoT platform enables consumer brands to quickly & easily develop connected products.
+
+***
+
+## [Art Facts](skills/B01N7BRFCD)
+
+*Alexa, ask Art Facts to give me an art fact*
+
+Quick and Fun Art Facts
+
+***
+
 ## [Art of War](skills/B01GM3UYF4)
 
 *Alexa, ask Sun Tzu to give me a quote*
 
 Get inspired by a hand-selected quote from the master of The Art of War, Sun Tzu.
+
+***
+
+## [Art of War](skills/B01N6G87SX)
+
+*Alexa, start The Art of War*
+
+Hear the wise sayings of Sun Tzu.
 
 ***
 
@@ -1299,6 +1829,14 @@ A guide to Article XII of the U.S. Constitution.
 
 ***
 
+## [Articles of Faith (Unofficial)](skills/B01N1RNHBB)
+
+*Alexa Open articles of faith*
+
+Will speak an Article of Faith at random. Useful for memorization or as a thought for the day.
+
+***
+
 ## [Artie](skills/B01E2DTXVC)
 
 *Alexa, talk to Artie*
@@ -1320,6 +1858,14 @@ Have you ever wanted to get to know Arturo on a deeper level? With Artie's World
 *Alexa, open artist quote*
 
 Artist Way Quotes is a collection of inspirational quotes about rediscovering your creativity - quotes are from the book The Artist's Way by Julia Cameron.
+
+***
+
+## [Artsy](skills/B01MYLJO1N)
+
+*Alexa, ask Artsy about Andy Warhol*
+
+Ask Artsy about artists and current shows.
 
 ***
 
@@ -1387,11 +1933,19 @@ Ask Grandmom provides comic relief as it realistically responds to questions ask
 
 ***
 
+## [Ask Hermione](skills/B01N6KGHNG)
+
+*Alexa, ask Hermione Info who is Harry Potter*
+
+Ask Hermione anything you wan to know about Harry Potter and Fantastic Beasts films.
+
+***
+
 ## [Ask My Buddy](skills/B017YAF22Y)
 
 *Alexa, ask My Buddy to help me get started*
 
-Ask My Buddy provides an easy and immediate way to send a text message, Voice call, and an email alert message to any or all of your contacts.
+You can't predict when you'll need help, use Ask My Buddy to send a 'check on me' text message, voice call, and an email to any or all of your contacts
 
 ***
 
@@ -1400,6 +1954,14 @@ Ask My Buddy provides an easy and immediate way to send a text message, Voice ca
 *Alexa, ask Purina.*
 
 Use Purina’s guided search to learn more about dog breeds and help narrow down what type of dog might be right for you and your family.
+
+***
+
+## [Ask the TDLG](skills/B01MZZUETN)
+
+*Alexa, ask the TDLG for legal advice.*
+
+Ask the TDLG (Technology & Digital Law Group) for legal advice and receive a tongue-in-cheek response.  Novelty purposes only.
 
 ***
 
@@ -1432,6 +1994,14 @@ Get your head out of the clouds, and launch up into orbit with AstroBot.
 *alexa ask astro pic for the picture*
 
 Do you love space? Then check out the Astronomy Picture of the Day. Check back daily for new pictures!
+
+***
+
+## [AT&T Send Message](skills/B01N3NPMHL)
+
+*Alexa, ask AT&T to text Mike*
+
+With the AT&T Send Message skill, you can send text messages to up to 10 preconfigured contacts. Once contacts are entered, start by saying “Alexa, open AT&T”.
 
 ***
 
@@ -1483,6 +2053,14 @@ Atomic Weight Trivia
 
 ***
 
+## [Attic-Studio](skills/B01N6EQRWW)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [ATX Dillo](skills/B01FT8TRV0)
 
 *Alexa, ask Dillo to dig me up a happy hour.*
@@ -1504,14 +2082,6 @@ Test your knowledge of Auckland City across a range of questions. Learn somethin
 *Alexa, start Audio Battleship*
 
 Single player game of battleship. Exercise your memory by playing paperless!
-
-***
-
-## [Audio Chef](skills/B01FROPJ4K)
-
-*Alexa, open Audio Chef*
-
-Audio Chef is your virtual cooking assistant that helps free your hands for cooking while guiding you through the steps of recipes. Visit theaudiochef.com
 
 ***
 
@@ -1555,6 +2125,14 @@ Control your August Home Smart Locks and check their status.
 
 ***
 
+## [Auron Media Ltd](skills/B01MRRKRJI)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Aussie Facts](skills/B01DSMSY7C)
 
 *Alexa, Open Aussie Fact*
@@ -1568,6 +2146,14 @@ Learn about the exciting continent in the south called Australia.
 *Alexa, ask aussie facts to give me some information about Australia*
 
 Learn some really interesting facts about Australia you didn't know before!
+
+***
+
+## [Austin Facts](skills/B01MZ43OMB)
+
+*Alexa open Austin Facts*
+
+Austin, Texas Facts
 
 ***
 
@@ -1595,11 +2181,35 @@ Test your Austin, Texas, knowledge with this simple trivia game.
 
 ***
 
+## [Australia Public Holiday Calendar](skills/B01N0MY1B6)
+
+*Alexa open Australia Calendar*
+
+Australia Calendar  is an alexa skill designed to always keep you up to date on nationally celebrated public holidays, by state and territory in Australia.
+
+***
+
+## [Authentic Digital Marketing Tips](skills/B01MXMAEPX)
+
+*Alexa, ask Authentic for a daily tip*
+
+Give your digital marketing an authentic boost one tip at a time. Just ask Alexa for today' Authentic tip.
+
+***
+
 ## [Automatic](skills/B017OJL1IE)
 
 *Alexa, ask Automatic where my car is.*
 
 Find out where your car is parked, how much gas you have left, or how far you've driven recently. This skill requires an Automatic adapter.
+
+***
+
+## [Automobile Geek.](skills/B01N4I4W4K)
+
+*Alexa Open Automobile Geek*
+
+Automobile Geek. tells the user random facts about automobiles.
 
 ***
 
@@ -1619,11 +2229,27 @@ Ask Alexa if Pokémon GO is available in your country of region.
 
 ***
 
+## [Avalon Reader](skills/B01N7DLCEK)
+
+*Alexa, start Avalon reader*
+
+An unofficial reader for the Avalon game
+
+***
+
 ## [Aviation Weather Brief](skills/B01C67LF58)
 
 *Alexa, ask Aviation Weather what is the metar for KSMO*
 
 Aviation Weather METAR's & Flight Rules
+
+***
+
+## [Aviva](skills/B01N6AVUOD)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -1651,7 +2277,33 @@ Ask awesome hair tips for tips on the best ways to care for your hair.
 
 ***
 
+## [AWFUL Space Facts](skills/B01MS1EELM)
+
+*Alexa, AWFUL SPACE FACTS*
+
+AWFUL space facts!
+
+A perfect way to get some AWFUL space facts. . . These facts are from a whole new world and will BLOW. YOU. AWAY. with how awful they are!
+
+***
+
 ## [Axelisys Limited](skills/B01N8YPEDZ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Axolotl_Facts](skills/B01MTTTK0J)
+
+*Alexa Open Axolotl Facts*
+
+A skill that provides facts on the magnificent axolotl
+
+***
+
+## [Aykut Çevik](skills/B01N47CIV0)
 
 *There are no example interactions for this skill.*
 
@@ -1664,6 +2316,22 @@ null
 *Alexa, ask ayurvedic snacking to recommend one*
 
 An ayurvedic snack recommendation app.
+
+***
+
+## [Azimo](skills/B01MSJU49H)
+
+*Alexa, ask Azimo for a rate for Poland*
+
+Get the most recent currency rate from Azimo.
+
+***
+
+## [Azure Status (Unofficial)](skills/B01M99BJWH)
+
+*Alexa, open Azure Status*
+
+The Azure Status (Unofficial) skill provides you with up to the minute service status information for the Microsoft Azure cloud platform.
 
 ***
 
@@ -1688,6 +2356,14 @@ Test your knowledge of the names of baby animals in our fun quiz. Ask your Amazo
 *Alexa tell baby logs to keep logs for Mary*
 
 Baby Logs is the perfect app for parents with newborns to toddlers to keep track of the child's naps, feedings, and dirty diapers.
+
+***
+
+## [Baby Name](skills/B01N94A1A6)
+
+*Alexa ask Baby Name a girl name*
+
+Skill That Helps Parents find a good name for their new baby
 
 ***
 
@@ -1733,7 +2409,7 @@ Baby Shot is your one stop immunization or vaccine guide for kids in United Stat
 
 ## [Baby Stats](skills/B01CJRUAF6)
 
-*Alexa ask baby stats to add poop and pee*
+*Alexa tell baby stats she pooped again*
 
 Baby stats is a skill that counts stats for your baby (feeding, stool, wet, weight, or others). You can then view them online, or on a mobile app.
 
@@ -1752,6 +2428,14 @@ Baby trivia!
 *Alexa, ask Baby Names*
 
 Tells you baby names that begin with a letter of your choice.
+
+***
+
+## [Bach facts](skills/B01N5BOK7R)
+
+*Alexa, ask bach facts for a fact*
+
+Some facts about the composer J.S. Bach
 
 ***
 
@@ -1795,19 +2479,27 @@ Selects from a random list of groan worthy bad dad jokes!
 
 ***
 
+## [Bad Jokes](skills/B01N7CL31A)
+
+*Alexa open Bad Jokes*
+
+MyBadJokes
+
+***
+
+## [Badminton Facts](skills/B01NAD6MEK)
+
+*Alexa, start badminton facts.*
+
+tells badminton facts
+
+***
+
 ## [Baker Street Experience](skills/B01L7SG7QE)
 
 *Alexa, play Baker Street Experience*
 
 The Bakerstreet Experience Players Present “Two Days Later: A Sherlock Holmes Mystery” an interactive radioplay for Amazon Echo developed by Schell Games LLC.
-
-***
-
-## [Baking Helper](skills/B01HJ5SK46)
-
-*Alexa open Baking Helper*
-
-The Baking Helper has information on nearly 3,000 baking recipes. A user can search by food type or ingredients to find a recipe to bake.
 
 ***
 
@@ -1864,6 +2556,30 @@ A quiz about banjos.
 *Alexa, ask  bank a. t. m. finder*
 
 Find bank institution atm's in New York State.  By County, City or Zip Code.  to get started simply say Alexa, ask  Bank A. T. M finder
+
+***
+
+## [Bar 137](skills/B01M3TKEW6)
+
+*Alexa, open bar one three seven*
+
+This skill will test your knowledge of Bar 137, a small neighborhood establishment in the suburbs of Chicago.
+
+***
+
+## [bar jokes](skills/B01N481M86)
+
+*Alexa, open bar jokes*
+
+Alexa tells a random walk-into-a-bar joke
+
+***
+
+## [Bar Trivia Fun](skills/B01N4BZV63)
+
+*Alexa open bar trivia*
+
+A simple bar trivia skill to test your knowledge on some basic drinks.
 
 ***
 
@@ -1947,6 +2663,14 @@ Ask baseball facts for an interesting fact about baseball.
 
 ***
 
+## [Baseball Facts](skills/B01N08O7RU)
+
+*Alexa, open Baseball Facts*
+
+A skill that gives you interesting facts related to baseball.
+
+***
+
 ## [Baseball Flash Cards](skills/B01JFDN25C)
 
 *Alexa, open Baseball Flash Cards.*
@@ -1968,6 +2692,14 @@ This alexa app tells the user some fun baseball facts
 *Alexa, ask Baseball Live who is pitching for the Phillies today?*
 
 Detailed information about current major league baseball games and teams
+
+***
+
+## [Baseball Reference](skills/B01N0LGUJA)
+
+*Alexa, ask Baseball Reference who led the league in doubles.*
+
+A baseball statistics app that returns the names of players based on your request. You can specify the statistic request by year, league and rank.
 
 ***
 
@@ -2043,6 +2775,22 @@ basic Hindi language tutor
 
 ***
 
+## [Basic Measurements Trivia](skills/B01N4BZ953)
+
+*Alexa Open basic measurements trivia*
+
+Simple trivia game about basic US measurements
+
+***
+
+## [Basic Physics Laws](skills/B01N0I7XN1)
+
+*Alexa, ask alpha particle what is ohm's law*
+
+States basic laws of physics
+
+***
+
 ## [Basic Statistics Terms](skills/B01GM5P9TI)
 
 *Alexa, ask basic statistics terms to tell me a term*
@@ -2091,6 +2839,14 @@ This lists basketball fun facts
 
 ***
 
+## [Basketball Player Points](skills/B01M7XZTEK)
+
+*Alexa, ask basketball points how many points Russell Westbrook scored.*
+
+An Alexa skill that tells you how many points an NBA player scored in their most recent game.
+
+***
+
 ## [Basketball quiz](skills/B01JDT02JC)
 
 *alexa ask basketball quiz to start game*
@@ -2101,9 +2857,17 @@ Quiz on basketball facts
 
 ## [Basketball Schedule](skills/B01M2ZFPA0)
 
-*Alexa, ask Basketball Schedule for the Golden State Warriors*
+*Alexa, open Basketball Schedule*
 
 Basketball Schedule
+
+***
+
+## [Basketball State Trivia](skills/B01N2INU25)
+
+*Alexa, open Basketball State Trivia*
+
+Basketball State Trivia is great way to test your knowledge about the states NBA teams call home.
 
 ***
 
@@ -2155,11 +2919,35 @@ This skill lets Alexa tell you a few bits of trivia about 'Batman'. This a fan m
 
 ***
 
+## [batman nerd](skills/B01IWR0GJ2)
+
+*Alexa, ask batman nerd start game.*
+
+Batman Nerd will test you knowledge of Batman.
+
+***
+
+## [Battery State of Charge](skills/B01N2XB5ZQ)
+
+*Alexa, ask battery state of charge 12 point 5 volts*
+
+Convert a measured battery voltage (number) into a state of charge percentage.
+
+***
+
 ## [BatteryBoot](skills/B01BKYR0WK)
 
 *Alexa, ask battery boot  where to buy it?*
 
 Everything you need to know about the Battery Boot which is the best and only battery Boot for your  Echo.
+
+***
+
+## [Bay Area Surf Bot](skills/B01N3KHHBF)
+
+*Alexa ask Bay Area Surf Bot how are the waves at Mavericks*
+
+Check the wave, tide and wind conditions at top surf spots near San Francisco, including Mavericks, Ocean Beach and Pacifica.
 
 ***
 
@@ -2184,6 +2972,14 @@ BBN info will give you some information about the Gospel. BBN is a Christian Bro
 *Alexa, ask b. c. d. recommender what style bcd I should buy*
 
 BCD Style Recommender
+
+***
+
+## [BCO10](skills/B01N6KH0FI)
+
+*Alexa open c.c.l. helper*
+
+Simulation of how to book a cruise
 
 ***
 
@@ -2216,6 +3012,14 @@ Fun facts about the Beagle dog.
 *Alexa, tell Bean Jar to add ten points to Gryffindor*
 
 Manage a family or group rewards system, keeps track of points like a virtual "bean jar" for motivation.  See beanjar.net
+
+***
+
+## [Bean Stock](skills/B01MXY33MP)
+
+*Alexa, ask Bean Stock for the price of Chevron*
+
+A simulated stock environment for polishing your trading skills based on real companies, real prices and real market movements.
 
 ***
 
@@ -2283,6 +3087,14 @@ Local news, events, and happenings from Beatrice Nebraska and the surrounding ar
 
 ***
 
+## [Becca's Sloth Facts](skills/B01MQXRLTR)
+
+*Alexa open sloth facts*
+
+Love sloths? Listen to all the sloth facts your heart can handle.
+
+***
+
 ## [Bedtime](skills/B01J9F3DKK)
 
 *Alexa, open bed time.*
@@ -2296,6 +3108,14 @@ Find out when to go to sleep to get the best rest.
 *Alexa, ask bee facts for a fact*
 
 Generate honey bee facts.
+
+***
+
+## [Beeline's Hiring Assistant (unofficial)](skills/B01MY02X9L)
+
+*Alexa, ask My Hiring Assistant about latest trends on Data Scientist*
+
+Beeline's Hiring Assistant (unofficial) lets managers relay hiring needs & get insights on the temp talent they need to fill with Beeline's VMS.
 
 ***
 
@@ -2331,6 +3151,14 @@ Ask beer geek for a beer fact!
 
 ***
 
+## [Beer Genius](skills/B01NACTWUH)
+
+*Alexa, ask Beer Genius about Pliny the Elder*
+
+A skill that will quickly tell you about beer given the beer name
+
+***
+
 ## [Beer Goggles](skills/B01KDDQG6U)
 
 *Alexa, start Beer Goggles*
@@ -2352,6 +3180,22 @@ Beer inspiration, quotes, and facts for lovers of brew.
 *Alexa, open Beer Meister and surprise me.*
 
 Randomly suggest a beer from a specific style of beer. (21+)
+
+***
+
+## [Beer Style](skills/B01MZYXYVK)
+
+*Alexa, ask Beer Style can you describe a Cream Ale*
+
+Gives the user basic information about different styles of beer. Short descriptions, alcohol levels and countries of origin.
+
+***
+
+## [Beer Styles](skills/B01N42JB8U)
+
+*Alexa open beer styles*
+
+Searches the BA beer styles to give description and specifications of beer styles. (skill is not associated with Brewers Association)
 
 ***
 
@@ -2384,6 +3228,14 @@ Prove your mastery of all things beer. Cheers!
 *Alexa ask beer geek*
 
 An alexa skill made to inform you all about the world of beer.
+
+***
+
+## [Bees](skills/B01N4IL1FL)
+
+*Alexa, ask bee facts to tell me a bee trivia*
+
+Tells facts about bees
 
 ***
 
@@ -2451,6 +3303,30 @@ Get suggestions or tips on great locations for common activities in Bellingham, 
 
 ***
 
+## [Ben](skills/B01MRTOJRB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Ben](skills/B01N77B0AW)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Ben](skills/B01N94YJDO)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Ben Facts](skills/B01KF48WEQ)
 
 *Alexa, open ben facts*
@@ -2459,7 +3335,7 @@ Benjamin Franklin Facts Skill
 
 ***
 
-## [Ben James](skills/B01M5CMBHN)
+## [Ben Pearson](skills/B01MZ1YD0T)
 
 *There are no example interactions for this skill.*
 
@@ -2472,6 +3348,38 @@ null
 *Alexa, ask WIKIWOD benchmarks what is Chelsea?*
 
 Benchmark and Hero series workouts from WIKIWOD database.
+
+***
+
+## [Benjamin Franklin Quotes](skills/B01N7IF9AY)
+
+*Alexa Open franklin quotes*
+
+Quotes from Benjamin Franklin
+
+***
+
+## [Benjamin Kleine](skills/B01N58X4EI)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Benjamin Kleine](skills/B01N6FLDFJ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Benjamin Kleine](skills/B01NADOE7X)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -2547,6 +3455,22 @@ Best Picture Oscars: The Last 30 Years
 
 ***
 
+## [Best Recipes](skills/B01MRISWRV)
+
+*Alexa, open best recipes.*
+
+Don't just stare at the fridge. When you know you're hungry, but you don't know what to make, just pick 3 ingredients. The Best Recipes skill will do the rest.
+
+***
+
+## [Best Sellers](skills/B01MRHVLAC)
+
+*Alexa, ask Best Sellers*
+
+Get lists of the New York Times best selling titles by categories and get a list of the Best Selling Categories.  Book details and Reviews.
+
+***
+
 ## [Best Time of Day to Workout Recommendation](skills/B01GB3U22U)
 
 *Alexa, ask workout recommendation what is the best time to go running today*
@@ -2595,6 +3519,30 @@ A companion Skill for Basic Fantasy RPG players.
 
 ***
 
+## [bfour](skills/B01MRSSKOJ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [bfour](skills/B01N79JM4Z)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [bfour](skills/B01N9CETY7)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Bible](skills/B017RXFNKY)
 
 *Alexa, ask the Bible App to read John 3 verse 16*
@@ -2619,6 +3567,14 @@ Gets information for a person named in the bible
 
 ***
 
+## [Bible Facts](skills/B01MT0O3ZL)
+
+*Alexa Open biblebee*
+
+A wonderful skill called BibleBee which tells you amazing unknown facts about THE GREATEST BOOK - THE HOLY BIBLE
+
+***
+
 ## [Bible Game](skills/B01KKRTU8A)
 
 *Alexa, Play the Bible Game*
@@ -2635,11 +3591,27 @@ Welcome to the Bible Glossary
 
 ***
 
+## [Bible Hope](skills/B01MRPGQ9W)
+
+*Alexa, ask Bible Hope to give me a bible verse*
+
+Do you read the Bible? Bible Hope gives you hope inspiring bible verse to read.
+
+***
+
 ## [Bible Quiz](skills/B01KESY6FW)
 
 *Alexa, start bible quiz*
 
 Bible quiz
+
+***
+
+## [Bible Quiz - Old Testament](skills/B01NCPXN9L)
+
+*Alexa play Bible Quiz*
+
+Test your knowledge of the Old Testament with this simple, multiple-choice bible quiz.
 
 ***
 
@@ -2805,6 +3777,14 @@ Are you interested in bikes? Jus use Bikes Facts to Know about the bikes.
 
 ***
 
+## [Biking Facts](skills/B01NCQW488)
+
+*Alexa open Biking Facts*
+
+This skill provides biking related facts for places in the continental USA
+
+***
+
 ## [Biking Wizard](skills/B01DD9OXDO)
 
 *Alexa, ask The Biking Wizard if I should go biking in Whistler today*
@@ -2829,6 +3809,22 @@ Bin Buddy helps San Francisco residents know what goes in what bin.
 
 ***
 
+## [Bin4ry](skills/B01NBHJZII)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Bin4ry](skills/B01NCNTHKF)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Binary Clock](skills/B01FG7NHQU)
 
 *Alexa, ask Binary Clock what time it is*
@@ -2845,11 +3841,35 @@ Quickly convert numbers into binary.
 
 ***
 
+## [Bingeable TV Shows](skills/B01N4DO6E2)
+
+*There are no example interactions for this skill.*
+
+Ask me to suggest shows to binge watch!
+
+***
+
 ## [Bingo](skills/B017OBN1FI)
 
 *Alexa, open Bingo.*
 
 With the Bingo skill, Alexa will call the numbers for you. Each number is repeated and sent to the Alexa app as well. Get a free Bingo card at lovemyecho.com.
+
+***
+
+## [Bingo Facts](skills/B01N2XB4MI)
+
+*Alexa open bingo facts*
+
+Learn interesting facts about Bingo, the popular family-friendly game enjoyed around the world.
+
+***
+
+## [binspeak](skills/B01MT4Z2AR)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -2885,6 +3905,14 @@ Flashcards to learn biology.
 
 ***
 
+## [Biomes Facts](skills/B01N69H337)
+
+*Alexa, open biomes facts and give me a fact*
+
+Have fun learning about the biomes we live in with.
+
+***
+
 ## [BioRhythm](skills/B018YJUQ3Y)
 
 *Alexa, open BioRhythm.*
@@ -2914,6 +3942,14 @@ Bird facts skill gives you interesting facts about our fine feathered friends.
 *Alexa, ask bird keeper a bird fact*
 
 This skill helps you learn some interesting facts about Birds.
+
+***
+
+## [Bird Fetcher](skills/B01MXEYAGN)
+
+*Alexa, ask Bird Fetcher for birds near Binghamton*
+
+Calls the eBird API to retrieve the 10 most recent bird sightings in a specified city.
 
 ***
 
@@ -2957,6 +3993,15 @@ Find the names of famous people born on any given date
 
 ***
 
+## [birthday reminder](skills/B01N8USH7G)
+
+*Alexa open birthday reminder*
+
+Remember and remind you about the birthday of your friend, family and relatives.
+You can never forget your precious person's birthday!
+
+***
+
 ## [Bit Exchange](skills/B01I6BQ63E)
 
 *Alexa, ask bit exchange what the current rate is*
@@ -2978,6 +4023,14 @@ Bitcoin+Blockchain Facts is an introduction to digital currency and the Blockcha
 *Alexa, open bitcoin exchange*
 
 Bitcoin stock exchange rate and currency converter
+
+***
+
+## [Bitcoin Geek](skills/B01N5JJT83)
+
+*Alexa, open Bitcoin Geek*
+
+Bitcoin Geek
 
 ***
 
@@ -3037,6 +4090,30 @@ An Amazon Alexa skill to get a healthy snack idea to complement your daily nutri
 
 ***
 
+## [bitTRA.DE Bitcoin Price](skills/B01N41FCIH)
+
+*Alexa Open BitTrade*
+
+bitTRA.DE Bitcoin Price
+
+***
+
+## [BizTalk](skills/B01N2JJIDG)
+
+*Alexa Ask BizTalk to tell me about google*
+
+Get instant updates on the most recent business news and information from the best business source - BizTalk Radio.
+
+***
+
+## [Black Friday Calendar](skills/B01N66C9E0)
+
+*Alexa ask Black Friday Calendar for Walmart hours*
+
+Black Friday Calendar can tell you when major retailers start their Thanksgiving and Black Friday deals
+
+***
+
 ## [Black History Facts](skills/B01JL5H21O)
 
 *Alexa, ask Black History Facts to tell me a fact*
@@ -3069,6 +4146,22 @@ Play the game of Blackjack with Blackjack Dealer as the dealer.
 
 ***
 
+## [Blackjack Strategy](skills/B01MRWTPRH)
+
+*Alexa Open blackjack strategy*
+
+A simple skill to get strategic advice on various Blackjack hands
+
+***
+
+## [Blacky22](skills/B01N1HTOXL)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Blink for Home](skills/B01K0KC7PU)
 
 *Alexa ask Blink to arm my Home system*
@@ -3090,6 +4183,14 @@ Ask Alexa to help you show off your crafting skills by answering over 30 differe
 *Alexa, ask block chain ticker what's the price of bitcoin*
 
 Have an interest in the booming crypto-currency markets? Block chain ticker lets you check the price and market cap of many of the popular cryptos.
+
+***
+
+## [Blog Helper](skills/B01N1O4M4G)
+
+*Alexa, ask Blog Helper for my notifications.*
+
+Blog Helper allows you to check your WordPress.com notifications, moderate pending comments, and save blog post ideas as drafts -- no typing required.
 
 ***
 
@@ -3141,6 +4242,30 @@ Gives users a mind-blowing fact.
 
 ***
 
+## [Blue Jeans](skills/B01MY27KFE)
+
+*Alexa, ask daily denim what jeans should i wear?*
+
+Looking for denim advice? Daily denim knows all about the best jeans.
+
+***
+
+## [Blue Steel IT Ltd](skills/B01MQPMX0K)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Bluetip Software](skills/B01M5IH5PI)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Blumoo](skills/B01DANIWI0)
 
 *Alexa, tell Blue moo to press Watch TV*
@@ -3154,6 +4279,14 @@ Make your voice a simple and powerful universal remote control.  Change channels
 *Alexa, ask blue player to skip this song*
 
 The skill allows you control your Bluesound HiFi system with your voice.
+
+***
+
+## [BMI Calculator](skills/B01N3Z7FCM)
+
+*Alexa, open bmi calculator*
+
+BMI Calculator
 
 ***
 
@@ -3237,6 +4370,14 @@ This skill provides fun facts about the human body.
 
 ***
 
+## [Body Facts](skills/B01N787STJ)
+
+*Alexa Open Body Facts*
+
+Alexa tell me a body fact
+
+***
+
 ## [Bodybuilding Geek](skills/B01J010IUQ)
 
 *Alexa, Ask Bodybuilding Geek for a bodybuilding fact*
@@ -3317,6 +4458,14 @@ Bollywood Trivia is a fun-filled trivia game to test your knowledge on the Hindi
 
 ***
 
+## [Bollywood Trivia](skills/B01N79QMN3)
+
+*Alexa Open Bollywood Trivia*
+
+Discover rare and awesome Bollywood facts and trivia!
+
+***
+
 ## [Bollywood Trivia Game](skills/B01EIX0CFW)
 
 *Alexa, ask bollywood trivia to start game*
@@ -3349,11 +4498,27 @@ A Toy Science Fiction Trivia Quiz.
 
 ***
 
+## [Book Buddy](skills/B01NAC6V8A)
+
+*Alexa, open Book Buddy*
+
+Find the author, description, and rating for your favorite books.
+
+***
+
 ## [Book Events](skills/B01M8KVRY0)
 
 *Alexa open Book Events*
 
 Book, signing & author event finder - provides events and venues for upcoming popular book events!
+
+***
+
+## [Book Finder](skills/B01MQEH0J2)
+
+*Alexa ask Book Finder to find me a book*
+
+Need help finding a good book? Use Book Finder to discover the latest best-sellers in various genres.
 
 ***
 
@@ -3389,11 +4554,35 @@ Get advice from the Book of Wisdom
 
 ***
 
+## [Book Suggester](skills/B01N4IZ586)
+
+*Alexa, ask book suggester to give me a book*
+
+This skill suggests a good book for you to read.
+
+***
+
 ## [Boom Boom](skills/B01LR1LFF4)
 
 *Alexa, start boom boom*
 
 Tells you funny and interesting one lines
+
+***
+
+## [boom-test](skills/B01N6CM04F)
+
+*Alexa open boom test*
+
+Interesting facts
+
+***
+
+## [Boomer Sooner](skills/B01N994INS)
+
+*Alexa, i say boomer*
+
+When you really need a Sooner for your Boomer, Alexa will be there for you!
 
 ***
 
@@ -3413,11 +4602,35 @@ Bored tasks
 
 ***
 
+## [Boredom's Thoughts](skills/B01MT2Z5H0)
+
+*Alexa Ask Boredom's Thoughts for a joke*
+
+Random thoughts
+
+***
+
+## [Boricua Family Quotes](skills/B01NAMICLO)
+
+*Alexa, ask Boricua Family Quotes to tell me something*
+
+Collection of quotes from Pacheco/Marquez/Otero family members.
+
+***
+
 ## [BortRenfro](skills/B01MAWDY33)
 
 *Alexa, open best yellow character*
 
 A set of 4 statements about Bort, the best cameo character from The Simpsons.
+
+***
+
+## [Borussia Dortmund GmbH & Co KGaA](skills/B01MQVJHGU)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -3527,9 +4740,9 @@ This skill helps to find movie ratings. It tells you rating on a scale of 10. Wh
 
 ## [Boy Friend](skills/B01M4FP8FM)
 
-*Alexa ask boy friend*
+*Alexa open boy friend*
 
-skills for virtual boy friend.
+Your sweet Boy Friend who is polite and romantic and always listening
 
 ***
 
@@ -3589,6 +4802,14 @@ A quick fun trivia game to test your common knowledge and quick thinking ability
 
 ***
 
+## [Brainy Bee](skills/B01NCKK79B)
+
+*Alexa Ask Brainy Bee*
+
+Brainy Bee is the most comprehensive Maths and Science Quiz skill on Alexa today. Its fun and engaging. Happy Quizzing!
+
+***
+
 ## [Brand Haiku](skills/B01LXAZPPB)
 
 *Alexa, open Brand Haiku.*
@@ -3621,6 +4842,14 @@ A short little question game to get to know more about Brandify.
 
 ***
 
+## [Bravelocation Software Ltd.](skills/B01MTJOHBY)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Breath Analyzer](skills/B01MXDJ56F)
 
 *Alexa, open breath analyzer*
@@ -3646,6 +4875,14 @@ Information about Bremen
 
 ***
 
+## [Bremer Tageszeitungen AG](skills/B01MFBSS1C)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Bremer Tageszeitungen AG](skills/B01MQ0SEOF)
 
 *There are no example interactions for this skill.*
@@ -3654,7 +4891,7 @@ null
 
 ***
 
-## [brent-hunter.com](skills/B01M7OVTB8)
+## [Brent Hunter](skills/B01M7OVTB8)
 
 *There are no example interactions for this skill.*
 
@@ -3702,6 +4939,14 @@ Crazy about collecting LEGO® sets? Get the latest updates on available sets, se
 
 ***
 
+## [brightpeak financial](skills/B01N0511M0)
+
+*Alexa ask brightpeak for savings advice*
+
+The brightpeak financial skill allows you to ask brightpeak for advice on key money topics like debt, insurance, savings and retirement.
+
+***
+
 ## [British History Quiz](skills/B01LZLEJ0Q)
 
 *Alexa, play British History Quiz*
@@ -3734,6 +4979,14 @@ Trivia for some of Broadway and film's greatest musicals. See how many you can g
 
 ***
 
+## [Brooklyn Basketball](skills/B01NBFJXZ3)
+
+*Alexa, open brooklyn basketball*
+
+Facts related to the history of Brooklyn Basketball.
+
+***
+
 ## [Brownie Points Skill](skills/B01MFDBATV)
 
 *Alexa, Ask Brownie Points to add David to the chart*
@@ -3763,6 +5016,14 @@ This is a trivia game with a random set of hockey questions.
 *There are no example interactions for this skill.*
 
 Control your Bryant Housewise thermostat using your Amazon Alexa.
+
+***
+
+## [BSAdvisor](skills/B01N3OGDHD)
+
+*Alexa, open my advisor*
+
+A silly but helpful advisor
 
 ***
 
@@ -3822,6 +5083,14 @@ Trivia about the world's most amazing couple! You cannot live without this skill
 
 ***
 
+## [Buffalo Facts](skills/B01N2YJBRK)
+
+*Alexa open Buffalo Facts and give me a fact*
+
+Buffalo Facts is an Alexa skill about, what else, Buffalo, NY.
+
+***
+
 ## [Buffalo Trivia Game](skills/B01I5YYBYS)
 
 *Alexa, open Buffalo Trivia Game*
@@ -3846,11 +5115,35 @@ Bugle Notes - The Handbook of the United States Corps of Cadets (West Point Pleb
 
 ***
 
+## [Building Facts](skills/B01N0NAHQ2)
+
+*Alexa, ask Building Facts for a fact*
+
+Curious about buildings - learn more with Building Facts
+
+***
+
+## [BuildingLink](skills/B01LXZ56BY)
+
+*Alexa, open building link*
+
+BuildingLink Aware.  Making residential buildings intelligent — one smart sensor at a time.
+
+***
+
 ## [BUILTR Daily by BUILTR Labs](skills/B01FFW0BBK)
 
 *Alexa ask BUILTER LABS for the daily news*
 
 BUILTR Daily news updates from AEC industry, by BUILTR Labs
+
+***
+
+## [Bulletin Board](skills/B01N6LHDLF)
+
+*Alexa, ask Bulletin Board to start a new board.*
+
+Leave short messages for the people around you!
 
 ***
 
@@ -3860,6 +5153,14 @@ BUILTR Daily news updates from AEC industry, by BUILTR Labs
 
 Bulls and Cows game as described here
 https://en.wikipedia.org/wiki/Bulls_and_Cows
+
+***
+
+## [Buoy](skills/B01MQIG7CF)
+
+*Alexa, ask Buoy how much water I used today*
+
+Get realtime information about your household water use
 
 ***
 
@@ -3903,11 +5204,35 @@ Craft beer, wine & spirits delivered to you in 60 mins or less.
 
 ***
 
+## [buzz](skills/B01MTR0Q57)
+
+*Alexa open buzz game*
+
+Buzz is a single-player game based on the factor counting game fizz buzz. It includes many combinations and difficulty levels.
+
+***
+
+## [by staRpauSe](skills/B01NBDFBBG)
+
+*Alexa, ask staRpauSe for a haiku*
+
+Recite poetry by staRpauSe, who has been crystalizing his consciousness in haiku since being introduced to the Japanese poetry form in grade school.
+
+***
+
 ## [C. I. C. Facts](skills/B01ICF7U4S)
 
 *Alexa, ask C. I. C. facts to tell me a fact.*
 
 This skill will give you various facts about the Connecticut Invention Convention
+
+***
+
+## [C# Quiz](skills/B01N4ATE0H)
+
+*Alexa, open C Sharp Quiz*
+
+A quiz game designed to enhance and reinforce your knowledge of C#, .Net, and Object Oriented Programming principles
 
 ***
 
@@ -3967,19 +5292,19 @@ California Trivia is a fun and educational multiple choice trivia game covering 
 
 ***
 
-## [Call Sign](skills/B0197GDSL0)
-
-*Alexa load Call Sign and find november zero uniform sierra mike*
-
-Look up Amateur (HAM) radio call sign information from the call sign database.
-
-***
-
 ## [Calling the Hogs](skills/B01DEA97CE)
 
 *Alexa  START calling the hogs*
 
 Have Alexa call the hogs by saying:   "Alexa, Start Calling the Hogs".  Alexa will then call the hogs: "woo pig sooie"
+
+***
+
+## [Calorie Checker](skills/B01N2SYIKS)
+
+*Alexa, Open calorie checker*
+
+Ask for a type of food, and it will tell you the calories of it.
 
 ***
 
@@ -3996,6 +5321,14 @@ Get calorie information for common foods and then find out how many steps are ne
 *Alexa Start CalPal*
 
 A tool that helps you convert calories to time exercise.
+
+***
+
+## [CameraGW](skills/B01M2ZATT8)
+
+*There are no example interactions for this skill.*
+
+CameraGW is an Alexa Skill for connecting Smart Home Z-wave Camera with Amazon Smart Home Skill.
 
 ***
 
@@ -4020,6 +5353,14 @@ This skill gives brief instructions on how to perform a number of activities aro
 *Alexa, play Camping Trivia*
 
 This Alexa App gives a random set of questions related to camping an parks.
+
+***
+
+## [can i still eat it](skills/B01MXCZB4F)
+
+*Alexa open can i still eat it*
+
+Alexa Can i still eat something i dropped on the floor?
 
 ***
 
@@ -4079,6 +5420,14 @@ Fun facts about dogs!!!
 
 ***
 
+## [Canna History](skills/B01N583R63)
+
+*Alexa ask Canna History some history*
+
+Mankind's strange history to Cannabis.
+
+***
+
 ## [Caper Flashcards](skills/B01I7CBQY6)
 
 *Alexa, launch caper quiz*
@@ -4116,6 +5465,14 @@ Capital City Games is a game that will help you remember capital cities of the w
 *Alexa, open Capital Flash Cards.*
 
 Learn the name of the capital of a country in the world.  You will be given the name of a country and you provide the name of the capital.
+
+***
+
+## [Capital Of Countries Trivia](skills/B01MXY2063)
+
+*There are no example interactions for this skill.*
+
+Trivia questions to test your knowledge on capital names for the countries around the world.
 
 ***
 
@@ -4207,6 +5564,14 @@ A nice trivia about US Capitals of the state. Enjoy doing this game with your fa
 
 ***
 
+## [Capybara Facts](skills/B01MZYUWM5)
+
+*Alexa, open capybara facts*
+
+Capybara Facts
+
+***
+
 ## [Car Engine Facts](skills/B01N3NNRMT)
 
 *Alexa ask engine facts for a fact*
@@ -4244,6 +5609,14 @@ Increase Your Knowledge About Car Facts
 *Alexa, Open Car Facts*
 
 Random facts about cars.
+
+***
+
+## [Car Facts](skills/B01N91OVF9)
+
+*Alexa open car facts*
+
+Car Facts gives us cool info about cars.
 
 ***
 
@@ -4343,6 +5716,30 @@ Control your Côr thermostat using your Amazon Alexa.
 
 ***
 
+## [Carsten Krebs](skills/B01N4B3E3P)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Carsten Krebs](skills/B01N5C4ECE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Carsten Reinke](skills/B01NCHZR2T)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [CARVIS: Find the Perfect Ride](skills/B01KNE8Z9K)
 
 *Alexa, ask car vis how much is a taxi from Marriott San Francisco to SFO airport*
@@ -4359,11 +5756,35 @@ Control your Lutron Caséta Wireless lights from anywhere!
 
 ***
 
+## [Cashew Craze](skills/B01N6KV7P3)
+
+*Alexa, ask cashew craze to tell me a cashew fact*
+
+This is a skill that tells you random cashew facts.
+
+***
+
+## [casino](skills/B01N1G1W78)
+
+*Alexa, ask casino game to bet on 5*
+
+Enjoy a bit of roulette with Amazon Echo
+
+***
+
 ## [Castle Adventure](skills/B01M6UF6WS)
 
 *Alexa, open castle adventure*
 
 A short adventure game that allows you to try to escape a castle.
+
+***
+
+## [Casual Compliment Machine](skills/B01MT164Z8)
+
+*Alexa start casual compliment machine*
+
+This skill provides you with a nice, sincere compliment whenever you are in need of one.
 
 ***
 
@@ -4519,11 +5940,99 @@ This gives you facts about cats
 
 ***
 
+## [Cat Facts](skills/B01MR023R6)
+
+*Alexa Open Cat Facts*
+
+Cat Facts!
+
+***
+
 ## [Cat Facts](skills/B01MRITYYG)
 
 *Alexa Open Cat Facts*
 
 Get a lot of interesting facts about cats.
+
+***
+
+## [Cat Facts](skills/B01MXDAT7C)
+
+*alexa, open cat facts*
+
+Learn something new about your favorite felines!
+
+***
+
+## [Cat Facts](skills/B01N1JSTWW)
+
+*Alexa, ask Cat Facts a fact*
+
+Ask Alexa for some awesome cat facts!
+
+***
+
+## [Cat Facts](skills/B01N1WLCNF)
+
+*Alexa, ask cat facts to give me a fact.*
+
+Learn random cat facts!
+
+***
+
+## [Cat Facts](skills/B01N7CR6Z0)
+
+*Alexa, open cat facts and tell me a fact*
+
+This skill tells interesting facts about cats.
+
+***
+
+## [Cat Facts](skills/B01N7MWSX6)
+
+*Alexa, ask Cat Facts to tell me a cat fact*
+
+On command, this will tell you a cat fact.
+
+***
+
+## [Cat Facts](skills/B01N991668)
+
+*Alexa, ask Cat Facts to tell me a fact*
+
+Gives you random facts about cats
+
+***
+
+## [Cat Facts](skills/B01NAIJLDB)
+
+*Alexa Open Cat Facts*
+
+Cat Facts for Alexa. Because you need your hands to pet the cat.
+
+***
+
+## [Cat Facts](skills/B01NAMCXM6)
+
+*Alexa Open Cat facts*
+
+Get a cat fact whenever you need it!
+
+***
+
+## [Cat Facts](skills/B01NCOM9R6)
+
+*Alexa, ask cat facts to give me a fact*
+
+Cat Facts
+
+***
+
+## [Cat Feeder](skills/B01N2OS3M8)
+
+*Alexa ask cat feeder to feed my cats*
+
+This skill interacts with an built-it-yourself raspberry pi pet feeder to dispense food to your pets. You can get more information here: https://goo.gl/73uAW8
 
 ***
 
@@ -4567,11 +6076,19 @@ Cat Lady is a skill that gives you interesting facts on cats.
 
 ***
 
-## [CAT Lover](skills/B01LIJ8H10)
+## [Cat Names](skills/B01MU3F75H)
 
-*Alexa, ask cat lover a fact*
+*Alexa Open Cat Names*
 
-This  skill  gives facts  about cats
+Get a random cat name
+
+***
+
+## [Cat or dog](skills/B01N2KCN1H)
+
+*Alexa, ask cat or dog if cats are better*
+
+Determines whether cats are better than dogs or not
 
 ***
 
@@ -4588,6 +6105,22 @@ this  skill  tells  facts  about  cats.
 *Alexa, ask cat raiser how is my cat*
 
 Raise your e-cat living in Alexa!
+
+***
+
+## [Catch Me Out](skills/B01MYSRB6P)
+
+*alexa play catch me out*
+
+Test you nerve with a game of 'Catch me out' with Alexa! See how long you can last with out answering yes or no.
+
+***
+
+## [Catch Sports](skills/B01NCJ0MAM)
+
+*Alexa, ask Catch Sports what channel the Florida State football game is on*
+
+Catch Sports is your digital personal assistant for live sports.  We can tell you how to watch on your TV, phone or computer.
 
 ***
 
@@ -4620,6 +6153,14 @@ Cat Facts Trivia - test your knowledge of cat facts!
 *Alexa, ask Catholic Daily for today's readings*
 
 Hear the daily Mass readings from the convenience of your Alexa-enabled device. Pick today's date or any date you choose.
+
+***
+
+## [Catholic Pickup Lines](skills/B01MXQBANM)
+
+*Alexa, launch Catholic Pickup Lines*
+
+Swooning love interest, the Lord's way
 
 ***
 
@@ -4679,6 +6220,14 @@ Get a study tip for the MBE.
 
 ***
 
+## [Celebrity Deaths](skills/B01NANU984)
+
+*Alexa, ask celebrity death a celebrity death fact*
+
+Randomly reads from a short list of the most notable celebrity deaths of 2016
+
+***
+
 ## [Celebrity Page](skills/B01M1OCMN2)
 
 *Alexa, start Celebrity Page*
@@ -4692,6 +6241,14 @@ Alexa will give updates about Celebrities who were on show recently
 *alexa, ask census data, what is the population of maryland*
 
 Learn about the United States through data from the U.S. Census Bureau.
+
+***
+
+## [Census Stats](skills/B01N2WNYVO)
+
+*Alexa, ask Census Stats, what is the population of Dallas, Texas*
+
+Learn about every city in the United States through data from the U.S. Census Bureau.
 
 ***
 
@@ -4759,6 +6316,14 @@ Fun facts about Chameleons
 
 ***
 
+## [champions league trivia](skills/B01MY3N5DJ)
+
+*Alexa open champions league trivia*
+
+This is an Alexa trivia skill about the UEFA champions league.
+
+***
+
 ## [Chanakya Says](skills/B01HUXZHQQ)
 
 *Alexa ask chanakya says tell me  fact*
@@ -4815,6 +6380,38 @@ Hear quotes from Charles Bukowski and his writings.
 
 ***
 
+## [chasd-one](skills/B01N1SSKRE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [chasd-one](skills/B01N9I35A3)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [chasd-one](skills/B01NCMMMZM)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Chat Bot](skills/B01N75TWP3)
+
+*Alexa, ask Chat Bot to insult me*
+
+Chat Bot lets you talk to it, you can say whatever you like and it will generate a random insult or compliment response! Hundreds of possible answers!
+
+***
+
 ## [Chat Bot for Slack](skills/B01FEVJDFM)
 
 *Alexa, start Chat bot*
@@ -4823,11 +6420,35 @@ Post to Slack using your Alexa device.
 
 ***
 
+## [chatShopper](skills/B01M3UC8TQ)
+
+*Alexa, ask chatShopper to show me dresses for women*
+
+chatShopper can show you different fashion products. Just say what you´re looking for "Alexa, ask chatShopper to show me sneakers for women"
+
+***
+
 ## [CheerLights](skills/B01BFXE0RO)
 
 *Alexa open cheer lights*
 
 Find out what color the World feels like right now.
+
+***
+
+## [CheerLights](skills/B01NAHSZEE)
+
+*Alexa Ask Cheer lights to turn green*
+
+This skill allows you to set the CheerLights colour
+
+***
+
+## [Cheers Me](skills/B01N6BBDLI)
+
+*Alexa, open Cheers Me*
+
+Cheers Me is an entertaining way to toast to things that matter, giving you choices for whichever social environment you are in.
 
 ***
 
@@ -4844,14 +6465,6 @@ Cheese Facts
 *Alexa, Open Cheese Facts*
 
 Fun facts about cheese.
-
-***
-
-## [Cheese Of The Day](skills/B01LYRKGCC)
-
-*Alexa, open cheese of the day*
-
-Cheese of the Day gives you a cheese recommendation from some of the most delicious, popular cheese around the world.
 
 ***
 
@@ -4879,6 +6492,14 @@ Cook your favorite recipes hands-free with the Amazon Alexa.
 
 ***
 
+## [Chef Bridgette](skills/B01MSM6Z1E)
+
+*Alexa Open Chef Bridgette*
+
+Get the Berkeley Carroll lunch menu from Chef Bridgette.
+
+***
+
 ## [Chef Sheffey](skills/B01E9HYFIC)
 
 *Alexa, open Chef Sheffey.*
@@ -4903,11 +6524,35 @@ Chef Thai knows how to cook the most famous dishes in Thailand!
 
 ***
 
+## [Chelsea Geek unofficial trivia](skills/B01N7HIYNA)
+
+*Alexa Open chelsea geek unofficial trivia*
+
+Interesting facts about Chelsea Football Club. Unofficial application. These facts have been written by Mayank Saxena.
+
+***
+
+## [Chem Geek](skills/B01NA9OD0U)
+
+*Alexa, open Chem Geek*
+
+Chemistry Facts!
+
+***
+
 ## [ChemicalNames flashcards](skills/B01JLF6N28)
 
 *Alexa, ask chemical names*
 
 Chemical Names
+
+***
+
+## [Chemistry Choice](skills/B01NA7LHTS)
+
+*Alexa Open Chemistry Choice*
+
+This stirring app was created by a high schooler. It's a mostly true story about my last day of freshman year. Please enjoy and comment if you want a sequel.
 
 ***
 
@@ -5031,6 +6676,14 @@ Test your knowledge of the city of Chicago with this trivia quiz. See how many q
 
 ***
 
+## [Chicagoland Trivia](skills/B01N6M7OUA)
+
+*alexa, open chicagoland trivia*
+
+Offers interesting trivia about the Windy City of Chicago and its environs.
+
+***
+
 ## [chicken facts](skills/B01LXJ47I1)
 
 *Alexa open chicken facts*
@@ -5047,11 +6700,27 @@ Amazing facts about chickens and eggs
 
 ***
 
+## [Chicken Nuggetry](skills/B01MSM7IJF)
+
+*Alexa, ask nugget haikus for a haiku*
+
+Love chicken nuggets? Listen to all the chicken nugget haikus your heart can handle.
+
+***
+
 ## [Chili Pepper Nut](skills/B01DMFK7H0)
 
 *Alexa, ask chili pepper nut a pepper fact*
 
 Chili Pepper Nut is fun trivia about chili peppers.
+
+***
+
+## [ChillFlix](skills/B01MZZNWJW)
+
+*Alexa ask spawn guide to search for shows*
+
+Ask Alexa if there is a show or a movie in Netflix.
 
 ***
 
@@ -5079,11 +6748,35 @@ China History Game is a simple set of questions about the history of the ancient
 
 ***
 
+## [Chineasy](skills/B01N6AYBMU)
+
+*Alexa, ask Chineasy for today's lesson.*
+
+Learning Chinese is easy with Talk Chineasy for Alexa. Learn a useful Chinese sentence, along with cultural insights and stories, in just 10 minutes every day.
+
+***
+
+## [Chinese Food](skills/B01N7BTP7U)
+
+*Alexa, ask chinese food for Chow Fun*
+
+Speak a Chinese food menu item, Alexa will tell you the detail
+
+***
+
 ## [Chinese Zodiac](skills/B01KDG8QVK)
 
 *Alexa, ask the Chinese Zodiac to tell me the sign for people born on May 29th, 1977*
 
 There are 12 animal signs in the Chinese zodiac. Learn all about yours.
+
+***
+
+## [Chloe McMullan](skills/B01MSFF9NP)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -5103,6 +6796,14 @@ A fun trivia to test your knowledge in chocolate.
 
 ***
 
+## [Choice Master](skills/B01N9A4XIT)
+
+*Alexa, ask Choice Master if I should call my ex.*
+
+Ask Alexa if you should do something or you shouldn't
+
+***
+
 ## [Choose a European Vacation](skills/B01HHC86Q8)
 
 *Alexa open European vacation*
@@ -5116,6 +6817,22 @@ Let Alexa help you choose somewhere in Europe to go on vacation!
 *Alexa, open choose my food*
 
 Helps you select a food to eat
+
+***
+
+## [Chord Notes](skills/B01N2X8E52)
+
+*Alexa, ask Chord Notes the notes in E major*
+
+Quick, hands-free, lookup of the notes in major, minor, 7th and augmented chords.
+
+***
+
+## [Chore Roulette](skills/B01N9IMZTU)
+
+*Alexa Open Chore Roulette*
+
+Chore Roulette is a simple game to inspire you to do your chores. Play by yourself or with others.
 
 ***
 
@@ -5143,11 +6860,139 @@ Using advanced AI technology, this skill allows you determine whether the curren
 
 ***
 
+## [Christmas Cheer](skills/B01N4ABZGT)
+
+*Alexa, start christmas cheer*
+
+This app spreads Christmas cheer with a song.
+
+***
+
 ## [Christmas Countdown](skills/B01GWCNPWE)
 
 *Alexa, ask Christmas Countdown how much longer until Christmas*
 
 Tells the number of seconds until Christmas
+
+***
+
+## [Christmas Countdown](skills/B01MQX3LK0)
+
+*There are no example interactions for this skill.*
+
+This visionary skill tells you how many days remain until Christmas, and whether or not it's Christmas yet.
+
+***
+
+## [Christmas Countdown](skills/B01MYT8471)
+
+*Alexa, ask Santa Countdown how long until Christmas*
+
+A skill that allows you to ask how many days until the next Christmas!
+
+***
+
+## [Christmas cracker jokes from I am the Cold Man](skills/B01NBG8PH6)
+
+*Alexa, ask Christmas Dreams for a christmas joke*
+
+Folk duo 'I am the Cold Man' tell Christmas Cracker jokes to help you be your most merry self in the run up to Christmas!
+
+***
+
+## [Christmas Facts](skills/B01MYNRRRV)
+
+*Alexa, open Christmas Facts*
+
+Christmas Facts is the perfect skill for learning new interesting things about Xmas & showing off Alexa to coworkers, friends & family at the holiday party!
+
+***
+
+## [Christmas History](skills/B01MQSR7AA)
+
+*Alexa, ask Christmas History for a fact*
+
+Have fun with some Christmas Trivia!
+
+***
+
+## [Christmas Jokes](skills/B01N1PT5KN)
+
+*Alexa, ask christmas joke to tell me a Christmas joke*
+
+Christmas Jokes
+
+***
+
+## [Christmas Kindness](skills/B01MSRTTES)
+
+*Alexa, Open Christmas Kindness*
+
+Christmas Kindness is an Alexa skill that provides you with a daily suggested act of kindness. Use this skill to be inspired to act kindly this holiday season.
+
+***
+
+## [Christmas Movies](skills/B01MU4JX7Q)
+
+*Alexa, ask Christmas Movies for a fact*
+
+Random overlooked and underrated Christmas movies.
+
+***
+
+## [Christmas Trivia](skills/B01MQWI9ID)
+
+*Alexa, start christmas trivia*
+
+Come test your Yuletide knowledge with our Christmas Trivia game. With 22 random questions, keep the eggnog flowing and keep on guessing!
+
+***
+
+## [Christmas Trivia 2016](skills/B01NAILF2L)
+
+*Alexa Open Christmas Trivia*
+
+Rudolf, Dickens, Harry Potter, and more! Test your Christmas knowledge with Christmas Trivia.
+
+***
+
+## [Christmas Trivia Game](skills/B01MRXZD09)
+
+*Alexa Open Christmas Trivia*
+
+This is a game with lighthearted Christmas trivia.
+
+***
+
+## [Christmas Vacation Trivia](skills/B01N4B074S)
+
+*Alexa Open Christmas Vacation Trivia*
+
+A fun trivia game based on one of the Christmas movie classics.
+
+***
+
+## [Christoph](skills/B01MZ1VC5S)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Christoph](skills/B01N0SNJXB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Christoph](skills/B01N5GANAE)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -5183,14 +7028,6 @@ Jokes for Chuck!!
 
 ***
 
-## [Chuck Jokes](skills/B01KCZ11NC)
-
-*Alexa, ask chuck jokes for a random chuck norris joke*
-
-This is a simple skill that will give you the best chuck norris jokes out there.
-
-***
-
 ## [Chuck Jokes](skills/B01LXA63UU)
 
 *Alexa, ask Chuck Jokes to tell me a joke*
@@ -5207,6 +7044,16 @@ Hear some Chuck Norris Facts.
 
 ***
 
+## [ChuckNorrisFan](skills/B01NAGD99A)
+
+*Alexa, ask chuck norris fan a joke*
+
+Ask chuck norris fan a joke and you will get a random joke from http://www.icndb.com/
+
+This skill is not sponsored or endorsed by Top Kick Productions.
+
+***
+
 ## [Churchill Quotations](skills/B01EM7BIWU)
 
 *Alexa ask Churchill Quotes for his thoughts*
@@ -5215,9 +7062,17 @@ Produces random quotations from Winston Churchill
 
 ***
 
+## [Cinci Guide](skills/B01N6M58JJ)
+
+*alexa open cinci guide*
+
+Cinci Guide
+
+***
+
 ## [Cinemate](skills/B01KGCJASY)
 
-*Alexa, ask movie guide to tell me what movies Walter Matthau and Jack Lemmon are in together*
+*Alexa, ask movie guide where can I watch Interstellar*
 
 This skill provides a vast amount of movie information for all movie, lovers, including common movies between two actors.
 
@@ -5239,6 +7094,14 @@ Find the arrival times for upcoming buses on Baltimore's Charm City Circulator
 
 ***
 
+## [Cities Game](skills/B01MQTCKAL)
+
+*Alexa, Play cities game*
+
+A word game where you take turns naming US cities. First letter of your city must be the same as the last letter of previously said city.
+
+***
+
 ## [Citizen Pass](skills/B01F0M1KD8)
 
 *Alexa, open citizen pass*
@@ -5255,11 +7118,27 @@ Need to study for the Citizenship test? Let Alexa help you. She will ask you 10 
 
 ***
 
+## [City Cost](skills/B01N6AYRNC)
+
+*Alexa, Ask City Cost Where should I move to?*
+
+Quickly learn how expensive a city is, or get a random city to move to with cost.
+
+***
+
 ## [City Driving](skills/B01JKVGVIY)
 
 *Alexa, ask City Driving*
 
 Find the distance and time to drive between 2 U.S. cities!
+
+***
+
+## [City Elevation](skills/B01N0JTJ5M)
+
+*Alexa, ask City Elevation*
+
+Find the precise elevation of a U.S. city!
 
 ***
 
@@ -5273,9 +7152,17 @@ Welcome to City Gripe where you can complain to Alexa, about your love life, com
 
 ## [City of Las Vegas Information](skills/B01MRE4T6I)
 
-*Alexa ask My Vegas when is the next council meeting*
+*Alexa ask My Vegas when is the next council meeting?*
 
 Information about the city of Las Vegas
+
+***
+
+## [City Services](skills/B01NAMHHDY)
+
+*Alexa, open city services*
+
+Know when the next junk pickup is going to be in your area.
 
 ***
 
@@ -5311,6 +7198,14 @@ Fun quiz to test your US civics knowledge!
 
 ***
 
+## [Civics Trivia](skills/B01N7HH3G2)
+
+*Alexa Open civics trivia*
+
+Civics Questions for the Naturalization Test
+
+***
+
 ## [Civil War Buff](skills/B01FGG0ONU)
 
 *Alexa, Open Civil War Buff*
@@ -5335,6 +7230,14 @@ Test your knowledge of the Civil War with this trivia game.
 
 ***
 
+## [Clash Royale fan facts](skills/B01MQQM0BL)
+
+*Alexa, open clash royal fan facts*
+
+Some facts about Clash Royale. This is a fan project.
+
+***
+
 ## [Classic Book Authors](skills/B01JNOIH4O)
 
 *Alexa, Start Classic Book Authors*
@@ -5348,6 +7251,14 @@ Gives a list of classic books with their authors
 *Alexa, open Classic Film Trivia*
 
 A simple trivia game about classic or iconic films.
+
+***
+
+## [Classic TV Catchphrases](skills/B01MRW4Y8P)
+
+*Alexa Open classic catchphrase*
+
+Classic TV Catchphrases
 
 ***
 
@@ -5367,6 +7278,14 @@ Classroom Management Facts
 
 ***
 
+## [Clean Jokes](skills/B01MSJY2XX)
+
+*Alexa, ask Clean Jokes to tell me a joke.*
+
+Clean Jokes that the whole family can enjoy!
+
+***
+
 ## [Cleaning Buddy](skills/B01LYBJSGG)
 
 *Alexa, start cleaning buddy*
@@ -5383,6 +7302,14 @@ The ClearPass Info skill allows you to interact with your ClearPass deployment t
 
 ***
 
+## [cleveland facts](skills/B01NCMOTM1)
+
+*Alexa, ask cleveland facts for a fact*
+
+Cleveland facts
+
+***
+
 ## [Clock Facts](skills/B01KPBOY0K)
 
 *Alexa, open clock facts*
@@ -5396,6 +7323,14 @@ Clock Facts
 *Alexa, open clock trivia*
 
 Trivia game based on clocks and facts about time
+
+***
+
+## [Closet Cleanup](skills/B01M6CVCB3)
+
+*Alexa open clean up*
+
+Skill to help you decide what cloth to keep, donate or throw away.
 
 ***
 
@@ -5447,6 +7382,14 @@ Learn about announcements, launches, news, innovation and more from Amazon Web S
 
 ***
 
+## [Cloud News](skills/B01NCMQ16W)
+
+*Alexa open cloud news*
+
+alexa cloud news reader - keep track of the cloud news everyday
+
+***
+
 ## [Cloud Quiz](skills/B01ISAXHYE)
 
 *Alexa, play cloud quiz*
@@ -5468,6 +7411,14 @@ Cloud Trivia
 *Alexa get date time from cloud clock*
 
 Speaks Cloud time
+
+***
+
+## [CloudCookbook](skills/B01N482KOY)
+
+*Alexa, ask Cloud Cookbook what I should have for dinner.*
+
+Get recipe ideas or hear your favorite recipes read aloud while you cook.
 
 ***
 
@@ -5529,11 +7480,43 @@ This skill contains some known and lesser known facts about the wonderful cockat
 
 ***
 
+## [cocoate.com](skills/B01N2WJM7U)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [cocoate.com](skills/B01N9I8ZVO)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Code Comments](skills/B01MQXAZAA)
+
+*Alexa open CodeComments*
+
+This Alexa Skill provides an explanation of how to comment in a user-supplied programming language
+
+***
+
 ## [Code Geek](skills/B01H9E5AVI)
 
 *Alexa, ask Code Geek for a fact*
 
 Coding Trivia Facts created during the Alexa Skills 101 in Seattle
+
+***
+
+## [Code Geek.](skills/B01MU4MAX1)
+
+*Alexa, open code geek*
+
+My Code Facts
 
 ***
 
@@ -5569,11 +7552,27 @@ Puzzle game based on Mastermind.
 
 ***
 
+## [CodenameGenerator](skills/B01MU40GL4)
+
+*Alexa, ask code name generator to generate a code name*
+
+Generates a random 2-word code name
+
+***
+
 ## [Coding Fact](skills/B01M99DSR6)
 
 *Alexa, launch coding fact.*
 
 Random Coding Facts - Fun for Programmers
+
+***
+
+## [Coding Thoughts](skills/B01N4INN6J)
+
+*Alexa, open coding thoughts*
+
+Hear thoughts about coding!
 
 ***
 
@@ -5609,6 +7608,14 @@ A range of different interesting facts about coffee.
 
 ***
 
+## [Coffee Facts](skills/B01MSYTJD6)
+
+*Alexa Open coffee facts*
+
+Learn all about coffee through this fun trivia skill!
+
+***
+
 ## [Coffee Geek](skills/B01JWP8KNM)
 
 *Alexa, ask coffee geek to give me a coffee fact*
@@ -5622,6 +7629,14 @@ Random facts about coffee.
 *Alexa, ask coffee local what is the list of all coffee shops*
 
 Coffee Local is a guide to the 50 best coffee shops in America;
+
+***
+
+## [Coffee Quotes](skills/B01N4C6V57)
+
+*There are no example interactions for this skill.*
+
+Get a fresh coffee quote, while enjoying a cup.
 
 ***
 
@@ -5665,11 +7680,27 @@ Configurable coin flipper
 
 ***
 
-## [cold riddles](skills/B01LXJHP0G)
+## [Coin Toss](skills/B01N6CDYEK)
 
-*Alexa, open cold riddles*
+*Alexa, open toss a coin*
 
-Cold riddles with multiple choice answers - Suitable for all ages.
+This skill enables Alexa to toss a coin for you.
+
+***
+
+## [CoinFlip](skills/B01MS186NT)
+
+*Alexa, open Coin Flip.*
+
+Flips a coin and randomly chooses heads or tails.
+
+***
+
+## [CoinWatch](skills/B01N3RAD6F)
+
+*Alexa, ask coin watch what the price of Bitcoin is*
+
+Get current prices of various cryptocurrencies
 
 ***
 
@@ -5697,6 +7728,14 @@ Test your College Basketball knowledge with a series of trivia questions surroun
 
 ***
 
+## [College Facts](skills/B01N1L9HUG)
+
+*Alexa, open college facts and tell me about college.*
+
+Get a fact about college
+
+***
+
 ## [College Football Roster Info](skills/B01LKNBCOI)
 
 *Alexa, ask College Football Info who wears number Two for Alabama.*
@@ -5721,6 +7760,30 @@ Best Colleges for majors!
 
 ***
 
+## [College Knowledge](skills/B01EPG5CCU)
+
+*"Alexa, ask College Knowledge for the tuition at Boston University."*
+
+College Knowledge lets you find the tuition for U.S. colleges universities. Just say, "What is the tuition at ", followed by the name of your institution.
+
+***
+
+## [College Motivation](skills/B01N4HUNEY)
+
+*Alexa open College Motivation*
+
+Motivational and snarky phrases from Alexa to compel you to be productive at college
+
+***
+
+## [College Teams](skills/B01MSPBU8T)
+
+*Alexa, ask College Teams for Arizona*
+
+Quickly lookup the team names for over 900 American colleges and universities.
+
+***
+
 ## [Colonial History](skills/B01LX57ZYF)
 
 *Alexa, ask Colonial History to Read me a Biography*
@@ -5742,6 +7805,14 @@ Allows you to give Alexa a color in hex, rgb, or hsl format and have it converte
 *alexa open color game*
 
 Memorize the color order
+
+***
+
+## [Color Me Random](skills/B01N6L3DBM)
+
+*Alexa, ask Color me Random to give me a random color*
+
+Gives a random color
 
 ***
 
@@ -5777,11 +7848,35 @@ Hey Colorado Locals! Colorado Geek is packed with fun facts about Colorado. Lear
 
 ***
 
+## [Colorado Joad](skills/B01NGZ8C3N)
+
+*Alexa Open Colorado Joad*
+
+This skill allows users to find information on the next JOAD tournament in the Colorado Front Range area.
+
+***
+
 ## [ColorHex](skills/B01ENNBNCI)
 
 *alexa ask colorhex to convert red*
 
 A tool for converting between color names and hex values.
+
+***
+
+## [Coloring Pages](skills/B01N9HTKVG)
+
+*Alexa open coloring pages*
+
+Want to color something? Just think of something you might want to color and ask Alexa to print it out on your home printer.
+
+***
+
+## [Columbus Bike Share Status](skills/B01N2WV0OO)
+
+*Alexa, ask Columbus Bikeshare how many bikes are at the Fourth Street and Rich Street station.*
+
+Check the status of stations in the Columbus CoGo bike sharing system
 
 ***
 
@@ -5817,6 +7912,14 @@ Alexa will say the name of comic book characters, you need to respond with the c
 
 ***
 
+## [comic book facts](skills/B01N6FL8JD)
+
+*Alexa Open Comic Book Facts*
+
+This skill lists out some interesting facts about comic books you might not have known.
+
+***
+
 ## [Comic Book Guide](skills/B01H2JVEQK)
 
 *Alexa, ask Comic Book Guide who Batman is.*
@@ -5849,6 +7952,22 @@ This skill is a quick efficient way to retrieve minecraft block ids to help spee
 
 ***
 
+## [Common Misconceptions](skills/B01MY2B691)
+
+*Alexa, ask common misconceptions for a misconception*
+
+Some common misconceptions debunked
+
+***
+
+## [CommonUnitConversion](skills/B01N0BTJUE)
+
+*Alexa, ask common unit conversion unit digital*
+
+common unit conversion
+
+***
+
 ## [Communication Styles](skills/B01LLCVGSA)
 
 *Alexa, open Communication Styles*
@@ -5873,11 +7992,35 @@ Random Company Facts
 
 ***
 
+## [complexity helper](skills/B01N0EZKL0)
+
+*Alexa, ask complexity helper to remind the complexity of hash table*
+
+This skill helps you remind the time complexities of any famous data structure and well-known algorithm.
+
+***
+
 ## [CompliBot](skills/B01AVKM8NU)
 
 *"Alexa, open CompliBot"*
 
 CompliBot is your best bud.  It wants nothing more than to make your day a little bit better.
+
+***
+
+## [Compliment Booster of the Day](skills/B01M5LAZNE)
+
+*Alexa Open ComplimentoftheDay*
+
+If you ask Alexa will compliment you, if you ask.
+
+***
+
+## [Compliment me](skills/B01NAF6SOZ)
+
+*Alexa, open Compliment me*
+
+Boosts the listener's ego with positive comments
 
 ***
 
@@ -5902,6 +8045,22 @@ Self esteem machine allows users to receive praise from Alexa.
 *Alexa, ask Compliment giver to give me a compliment.*
 
 A skill to give you compliments.
+
+***
+
+## [Composer Facts](skills/B01MXRTFG1)
+
+*Alexa, open Composer Facts.*
+
+Alexa, ask Composer Facts for a fact.
+
+***
+
+## [Computer Acronyms](skills/B01N1INAX7)
+
+*Alexa, open Computer Acronyms*
+
+Explains common computer acronyms.
 
 ***
 
@@ -5953,11 +8112,51 @@ Asking Alexa for a fact.
 
 ***
 
+## [Computer Facts](skills/B01MSSQ1GV)
+
+*Alexa ask geek facts*
+
+Interesting facts about computer for all users.
+
+***
+
+## [Computer Facts](skills/B01MYZYZ14)
+
+*Alexa, Open computer facts*
+
+Ask Alexa to give you interesting computer facts
+
+***
+
+## [Computer Facts](skills/B01N8W48DR)
+
+*Alexa, open computer facts*
+
+Facts about computers!
+
+***
+
 ## [Computer Geek](skills/B01HCIVFKQ)
 
 *Alexa, ask computer geek for a computer fact*
 
 This skill tells a fun fact about Computers
+
+***
+
+## [Computer Geek](skills/B01N0VIRTF)
+
+*Alexa, ask Computer Geek for a fact*
+
+Random Computer Facts
+
+***
+
+## [Computer Geek](skills/B01NBNMUMF)
+
+*Alexa, ask Computer Geek to give me a fact*
+
+Learn computer facts!
 
 ***
 
@@ -6033,6 +8232,14 @@ Learn computer science fundamentals with this flashcard skill
 
 ***
 
+## [Computer Terminology](skills/B01N47LCE6)
+
+*Alexa, Start Computer Terminology*
+
+This skill will test your understanding of key computer terms.
+
+***
+
 ## [Computer Trivia](skills/B01EX7A1TA)
 
 *Alexa, launch computer trivia*
@@ -6062,6 +8269,14 @@ Computer Trivia!
 *Alexa, ask Floki to tell me something*
 
 Computer concepts illustrated through the Viking history.
+
+***
+
+## [Concarion Design Studios](skills/B01NBC9HC9)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -6193,11 +8408,35 @@ Connecticut Trivia tests your knowledge about important facts, people, and place
 
 ***
 
+## [Connector Schedule](skills/B01NANDOSW)
+
+*Alexa ask Connector Schedule what's the next connector I can take*
+
+What time is the next connector?
+
+***
+
 ## [Connie's Facts about Golden State Warriors](skills/B01L4S3H7O)
 
 *Alexa, start my warriors love*
 
 Personal Known Facts about Golden State Warriors
+
+***
+
+## [Connor Roast](skills/B01MSTRU7V)
+
+*Alexa, ask Roast Connor to roast Connor.*
+
+A small experimental skill that roasts(hardly) or compliments Connor.
+
+***
+
+## [Conserve Animalia](skills/B01N4DZ4LM)
+
+*Alexa, open Conserve Animalia*
+
+Get relevant information about endangered species of the animal kingdom.
 
 ***
 
@@ -6241,6 +8480,22 @@ Very simple skill with one purpose: encourage human interaction.
 
 ***
 
+## [Conversation Starters](skills/B01N7AXE9W)
+
+*Alexa, ask conversation starters to give me a starter*
+
+Need a topic to talk about?  Ask conversation starter
+
+***
+
+## [Conversation Topics](skills/B01NBHAS4P)
+
+*Alexa, conversation topics*
+
+A skill which recites a random conversation topic.
+
+***
+
 ## [convrge](skills/B01AYLDILW)
 
 *Alexa, ask Convrge, who's online*
@@ -6254,6 +8509,14 @@ Find out who's online at in Convrge
 *Alexa, ask cook book how to make a burger*
 
 This skills allow users to find recipes - ingredients, cook steps, health info etc
+
+***
+
+## [Cookie Cutter](skills/B01N0IFGI0)
+
+*Alexa Open cookie cutter*
+
+CookieFacts
 
 ***
 
@@ -6273,6 +8536,22 @@ A skill that gives you a cooking tip every time you call it.
 
 ***
 
+## [Cool Developer](skills/B01MYQ3ZYW)
+
+*Alexa, ask cool developer a fact*
+
+Cool Developer facts
+
+***
+
+## [Cool Facts](skills/B01N3VNCBS)
+
+*Alexa, ask Cool Facts to tell me something interesting.*
+
+A simple fact skill with some interesting information.
+
+***
+
 ## [Cool Slang](skills/B01M08XPJN)
 
 *Alexa Open Cool Slang*
@@ -6289,11 +8568,51 @@ Trivia Games
 
 ***
 
+## [Coolsurfer](skills/B01LXY4VGX)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Coolsurfer](skills/B01LZ8XNP4)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [COOLTOUCH smart switch control](skills/B01M999C8Y)
+
+*There are no example interactions for this skill.*
+
+Cooltouch Smart Home device control. Device and Scenario are both controllable.
+
+***
+
+## [Coppelia](skills/B01MSUS0A2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Corgi Facts](skills/B01M1FFM8K)
 
 *Alexa, ask Corgi Facts to give me a corgi fact.*
 
 A skill that will recite facts about corgis.
+
+***
+
+## [Corgi Facts](skills/B01MT330N8)
+
+*Alexa, ask Corgi Facts to tell me a fact*
+
+Corgi Facts is a trivia skill that allows Alexa to tell you random facts about corgis. Just ask Alexa to tell you corgi fact!
 
 ***
 
@@ -6371,19 +8690,19 @@ Count ME is a helper skill to simply count anything you want.
 
 ***
 
-## [Counter](skills/B01MA6K0U4)
-
-*Alexa, open counter tool*
-
-Easily keep track of a number
-
-***
-
 ## [Counterpicks for Overwatch](skills/B01I96GYYW)
 
 *Alexa, ask Counter Picks, what counters Tracer?*
 
 Suggests counterpicks for Overwatch heroes
+
+***
+
+## [Counterwatch (Unofficial Overwatch Hero Counters)](skills/B01MS144C4)
+
+*Alexa, ask Counterwatch for Winston's counters*
+
+Get counterpicks for Overwatch Heros
 
 ***
 
@@ -6395,11 +8714,27 @@ Flashcard that provides fun facts while quizzing about countries
 
 ***
 
+## [Country Abbreviations](skills/B01MTKB7XM)
+
+*Alexa, Open Country Abbreviations*
+
+Learn two letter country abbreviations for corresponding country names with this fun flash card skill.
+
+***
+
 ## [country capital](skills/B01M0Q4W8V)
 
 *Alexa, open country capital*
 
 Ask Alexa facts about capitals of countries
+
+***
+
+## [Country Capital](skills/B01N2H5V1N)
+
+*Alexa ask country capital what is the capital of Australia*
+
+Ask Alexa the capital city of a country
 
 ***
 
@@ -6451,6 +8786,14 @@ Country Guru gives you a varied set of country specific facts.
 
 ***
 
+## [Country Nerd Trivia (CIA Factbook 2016)](skills/B01N0QLO1F)
+
+*There are no example interactions for this skill.*
+
+Are you a geopolitical know-it-all?  Test and impress your family and friends with this trivia game using information from the 2016 CIA Factbook.
+
+***
+
 ## [Coupland Trivia Skill](skills/B01HQRK1TO)
 
 *Alexa, open Coupland Trivia*
@@ -6464,6 +8807,14 @@ Trivia about Coupland, the old man pomeranian who just doesn't learn.
 *Alexa, ask My Course Catalog what is CHM 1025*
 
 Course Catalog for Miami Dade College provides information on  courses, descriptions, pre/co-requisites, and credit counts of offerings at Miami Dade College
+
+***
+
+## [CourseTracker](skills/B01N9HQ6C6)
+
+*Alexa open Course Tracker*
+
+Course Tracker lets students manage their assignments through Alexa! Course Tracker can help students remember upcoming assignments and show what to work on.
 
 ***
 
@@ -6504,6 +8855,14 @@ Facts about Coventry Connecticut
 *Alexa, launch Cove Trivia*
 
 Covisint Trivia is a game that will test your knowledge about the Covisint company.  Good luck.
+
+***
+
+## [Cowboys Fan](skills/B01MZ2SK1X)
+
+*Alexa, Ask Cowboys Fan whats my flash briefing on the Cowboys?*
+
+Get unofficial to-the-minute stats & fun facts on the Steelers supplied by Fresh Digital Group. This is not sponsored or endorsed by the Dallas Cowboys.
 
 ***
 
@@ -6597,11 +8956,27 @@ Ask for a 'Crazy Fact' and Alexa will give a fact that can make you laugh or cry
 
 ***
 
+## [Crazy History Facts](skills/B01MU4J28R)
+
+*Alexa, Open Crazy History Facts*
+
+Learn history facts that you learned in school!!!
+
+***
+
 ## [Crazy Lawer](skills/B01LIU4TE8)
 
 *Alexa, ask crazy lawer for a law*
 
 This  skill  gives random Crazy laws
+
+***
+
+## [Crazy Laws](skills/B01N1W0GSM)
+
+*Alexa, ask crazy law to tell me a crazy law*
+
+Crazy Laws
 
 ***
 
@@ -6637,19 +9012,27 @@ Cashback for Credit Cards
 
 ***
 
+## [Crestron Home Automation](skills/B01M1DRK54)
+
+*Alexa, launch Crestron*
+
+Use Alexa to control your Crestron Home Automation system.
+
+***
+
+## [Crestron Home Automation for SmartHome](skills/B01MQ2NPA2)
+
+*There are no example interactions for this skill.*
+
+Use Alexa to control your Crestron Home Automation system.
+
+***
+
 ## [Cribbage Hand Counter](skills/B01F6Q1N4Y)
 
 *Alexa, open cribbage counter*
 
 Need to count up a cribbage hand?  Just tell Alexa your hand and she can add it up for you.
-
-***
-
-## [Crick Info](skills/B01M4NUU61)
-
-*Alexa Ask Cricket Information for the upcoming games*
-
-Ask me for upcoming cricket matches and match score
 
 ***
 
@@ -6674,6 +9057,22 @@ Cricket is a sport that is played worldwide and this skill has some interesting 
 *Alexa, open cricket facts*
 
 This is a Cricket Fact skill used to tell some interesting facts about Cricket sports
+
+***
+
+## [Cricket Facts](skills/B01N7JU918)
+
+*There are no example interactions for this skill.*
+
+Amazing and Unique Cricket Fun Facts
+
+***
+
+## [Cricket Information](skills/B01M4NUU61)
+
+*Alexa Ask Cricket Information the score of India vs England*
+
+Ask me for upcoming cricket matches and match score
 
 ***
 
@@ -6722,6 +9121,14 @@ Cricket quiz to have fun with all cricket lovers and to test their knowledge abo
 *Alexa, launch cricket quizzer*
 
 Cricket is build to test the knowledge in Cricket. It is a great fun knowing about the Cricket.
+
+***
+
+## [Cricket Trivia Game](skills/B01MYVTB9A)
+
+*Alexa open cricket trivia game*
+
+Cricket World Cup Trivia Game
 
 ***
 
@@ -6781,6 +9188,14 @@ Crow Facts provides fun and interesting facts about crows.
 
 ***
 
+## [CryptoCoin](skills/B01N0UFK32)
+
+*Alexa, ask CryptoCoin what's bitcoin's price?*
+
+Get the current price of bitcoin in US Dollars
+
+***
+
 ## [CryptoCurrency](skills/B01BPSQ860)
 
 *Alexa, ask my crypto what is the price of bitcoin?*
@@ -6821,6 +9236,14 @@ Crystal Plate - A Raspberry Pi IoT Memo Manager
 
 ***
 
+## [CS50 Trivia](skills/B01N1FCXIB)
+
+*Alexa, ask C. S. Fifty Trivia to play a game*
+
+Trivia quiz based on Harvard's CS50 class. Respond to 5 randomly-chosen questions by choosing from 4 possible multiple-choice answers.
+
+***
+
 ## [csQuiz](skills/B01LC0U5CO)
 
 *Alexa launch computer quiz*
@@ -6837,11 +9260,51 @@ Track trains on the CTA
 
 ***
 
+## [CueFit](skills/B01DL0N8X6)
+
+*Alexa, ask cue fit for my daily summary*
+
+Keep track of your daily step count and calories burned by accessing your Google Fit data via Alexa!
+
+***
+
+## [Cuisine Picker](skills/B01MZ4GZW9)
+
+*Alexa, ask Cuisine Picker what should I eat today*
+
+Cuisine Picker helps decide on what cuisine to eat when you are having trouble choosing. This is especially useful for deciding which restaurants to order from.
+
+***
+
+## [Cultural District](skills/B01M29PPRS)
+
+*Alexa, open Cultural District.*
+
+Find out what's going on in Pittsburgh's Cultural District
+
+***
+
+## [Curiosity](skills/B01MT1GPWX)
+
+*Alexa, open Curiosity.*
+
+Join millions of people getting smarter, daily. Now it's easy— and more fun than ever — to discover interesting topics that inspire you most.
+
+***
+
 ## [Curious Cat](skills/B01GNU5ZI2)
 
 *Alexa, ask curious cat to tell me a fact*
 
 Curious Cat increases your knowledge and appreciation of cats by telling you a random fact about cats when asked.
+
+***
+
+## [Curious Keanu](skills/B01N0EJ7ET)
+
+*Alexa, open curious Keanu*
+
+This skill is made to to make people laugh and smile by asking eccentric questions.
 
 ***
 
@@ -6877,6 +9340,14 @@ Simple currency converter to convert US dollars to different currencies, and vic
 
 ***
 
+## [Currency Converter](skills/B01MS27WLR)
+
+*Alexa, ask Currency Converter how much is one bitcoin in united states dollars*
+
+Quickly and easily convert between two currencies. Over 150 currencies are supported, and rates are updated hourly.
+
+***
+
 ## [Currency Monitor](skills/B01DRLPHQK)
 
 *Alexa, open currency monitor*
@@ -6893,9 +9364,17 @@ Currency conversion tool for the major currencies around the world.
 
 ***
 
+## [CurrencyExchange](skills/B01N3UXT4D)
+
+*Alexa ask currency exchange to get me the exchange rate bulgarian lev pound sterling*
+
+Alexa skill to provide you with the currency exchange rate between two given currencies.
+
+***
+
 ## [CurrencyGuy](skills/B01DO8TXSO)
 
-*Alexa, ask Currency Guy what is the rate of USD to CNY*
+*Alexa, ask Currency Guy USD to CNY*
 
 Currency Guy can get you the exchange rate between two specified currencies based on today's date.
 
@@ -6906,6 +9385,54 @@ Currency Guy can get you the exchange rate between two specified currencies base
 *Alexa, open India time*
 
 India Time skill is used to get the current local time of India
+
+***
+
+## [Curse Generator](skills/B01MSVF1R3)
+
+*Alexa, ask Curse Generator for a Curse*
+
+Random Clean Cuss Generator
+
+***
+
+## [Cycling Etiquette](skills/B01N8VAV8J)
+
+*Alexa, launch cycling etiquette*
+
+"The Rules" of the Velominati: the simple truths of cycling etiquette.
+
+***
+
+## [Cycling Trivia](skills/B01MQY3WIF)
+
+*Alexa play cycling trivia*
+
+Trivia game about cycling.
+
+***
+
+## [cyconical](skills/B01N48WRHQ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [cyconical](skills/B01N6FDE4G)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [cyconical](skills/B01NAGMQAH)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -6925,6 +9452,14 @@ Learn a well or less known fact about the greatest Renaissance man of all time, 
 
 ***
 
+## [Dad is a Trekkie](skills/B01N7CSEPJ)
+
+*Alexa, Open Dad is a Trekkie*
+
+Just a few reasons why Star Trek still rules. (Unofficial)
+
+***
+
 ## [Dad Jokes](skills/B01L4SQXE8)
 
 *Alexa, open dad jokes and tell me a joke*
@@ -6938,6 +9473,14 @@ Have Alexa tell you a dad joke
 *Alexa, ask dad jokes to tell me a joke.*
 
 Dad Jokes is exactly what you think it is. A collection of over 150 dad jokes so bad they're actually good.
+
+***
+
+## [Dad Jokes](skills/B01N8ZJXXD)
+
+*Alexa, ask dad jokes to tell me a joke*
+
+Only the best types of jokes - dad jokes.
 
 ***
 
@@ -6962,6 +9505,14 @@ The Walking Affirmations Daily Affirmation skill provides a daily uplifting, pos
 *Alexa open daily bible verse*
 
 Provides the Daily Bible Verse
+
+***
+
+## [Daily Bible Verse](skills/B01MRT24EY)
+
+*Alexa, ask Daily Bible Verse to read me a verse.*
+
+Daily Bible Verse
 
 ***
 
@@ -6997,11 +9548,35 @@ Daily Cutiemals will send cute animal pictures to your email!
 
 ***
 
+## [Daily Encouragement](skills/B01N4CVWQ9)
+
+*Alexa Open daily encouragement*
+
+Daily Encouragement for Buddhists
+
+***
+
+## [Daily Fact](skills/B01NAJ9GNS)
+
+*Alexa Open daily fact*
+
+Alexa will deliver pre determined facts from the code
+
+***
+
 ## [Daily Food](skills/B01J70506M)
 
 *Alexa, ask Daily Food for Saturday*
 
 Daily Food keeps you informed on national food/drinks celebrated throughout the year in the United States.
+
+***
+
+## [Daily Inspiration](skills/B01NAK48DC)
+
+*Alexa Open daily inspiration*
+
+Get inspired daily with quotes from world leaders, business experts, and innovative thinkers.
 
 ***
 
@@ -7045,11 +9620,35 @@ Random quotes from Marcus Aurelius' Meditations.
 
 ***
 
+## [Daily Nutrients](skills/B01NGZRYRG)
+
+*Alexa, launch Daily Nutrients.*
+
+Daily recommended intake for the most important nutrients.
+
+***
+
+## [Daily Office](skills/B01MZ3OG92)
+
+*Alexa, open the daily office*
+
+Listen to morning and evening prayer
+
+***
+
 ## [Daily Pledge](skills/B01F4J0C9K)
 
 *Alexa, ask daily pledge what's my daily pledge?*
 
 Take a daily pledge to better health. Every day get tips and a clear goal for improving your health
+
+***
+
+## [Daily Puns](skills/B01N2XVXTZ)
+
+*Alexa open daily puns*
+
+Replies with puns.
 
 ***
 
@@ -7066,6 +9665,14 @@ Daily Quote
 *Alexa, ask today's quote for today's quote*
 
 Daily Quotes provides you with a daily quote to provide insight or just fun to your day. You can just ask for a quote to get a general daily quote or ask for a
+
+***
+
+## [Daily Quote](skills/B01MRUWM3L)
+
+*Alexa, Open Daily Quote*
+
+Daily Quote
 
 ***
 
@@ -7093,11 +9700,35 @@ A quick way to get an LDS daily scripture.  Simply say "Open Daily Scripture".
 
 ***
 
+## [Daily Seneca](skills/B01N1VDN0R)
+
+*Alexa ask daily seneca for seneca quote*
+
+Get your daily dose of Stoicism with a quote from Seneca.
+
+***
+
 ## [Daily Specials](skills/B01LYOV9TW)
 
 *Alexa, ask Daily Specials for Cafe Metro*
 
 Get daily specials menu for restaurants using the emenuPlus system.
+
+***
+
+## [Daily wear](skills/B01MRS0Z78)
+
+*Alexa, start daily wear*
+
+Get suggestion about what to wear today depending on weather condition.
+
+***
+
+## [Daily Wiki](skills/B01N2MAHX5)
+
+*Alexa open Daily Wiki*
+
+Get the daily Wikipedia featured article.
 
 ***
 
@@ -7189,6 +9820,14 @@ Dan's US History Facts lets you ask Alexa for random facts about U.S. history.
 
 ***
 
+## [Dance Facts](skills/B01N9CWT63)
+
+*Alexa, ask Dance Facts for a fact*
+
+Tells you some facts about dance
+
+***
+
 ## [Dance Moves](skills/B01FORC8IA)
 
 *Alexa, ask dance moves how can I do the moonwalk*
@@ -7202,6 +9841,78 @@ A skill that describes dance moves.
 *Alexa, start Dangerous Field*
 
 In Dangerous Field you try to escape from a field filled with danger.
+
+***
+
+## [Daniel Bedarf](skills/B01NBEMCQW)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Daniel Burtenshaw](skills/B01MYU7N38)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Daniel Pöllmann](skills/B01MTSHD48)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Daniel Wenzel](skills/B01N1L0UUN)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Daniel Wenzel](skills/B01N2LPX37)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Daniel Wenzel](skills/B01N69K4WJ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Daniela Sofrone](skills/B01MRVCEDG)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Daniela Sofrone](skills/B01NAJN27D)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Daniela Sofrone](skills/B01NCLBEZ9)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -7256,6 +9967,14 @@ Enjoy! and may the force be with you!
 
 ***
 
+## [darren daly](skills/B01N2W5LM5)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Das Örtliche Service- und Marketing GmbH](skills/B01M2X05DE)
 
 *There are no example interactions for this skill.*
@@ -7277,6 +9996,14 @@ Quick reference guide to computer science data structures
 *Alexa, Start Zodiac Trivia*
 
 Zodiac Trivia
+
+***
+
+## [Date Calculator](skills/B01N0IEKB9)
+
+*Alexa, Open Date Calculator*
+
+Calculate the number of days between any two dates
 
 ***
 
@@ -7344,6 +10071,22 @@ null
 
 ***
 
+## [Dave Payne](skills/B01MSRDOA1)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Dave Payne](skills/B01N3R75R5)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [David Levente Dozsa](skills/B01M22ZHY3)
 
 *There are no example interactions for this skill.*
@@ -7381,6 +10124,22 @@ null
 *There are no example interactions for this skill.*
 
 null
+
+***
+
+## [Davids Heart](skills/B01NAESOA0)
+
+*Alexa, ask Davids Heart, Who does he love*
+
+DC Heart
+
+***
+
+## [Davina Geek](skills/B01N0JKCX3)
+
+*Alexa, tell Davina Geek to give me a fact*
+
+I return a fact about Davina.
 
 ***
 
@@ -7488,6 +10247,14 @@ Draw a random card from a standard deck of 52 playing cards.
 
 ***
 
+## [Deep Breath](skills/B01N1NFN44)
+
+*Alexa, Deep Breath*
+
+How often do you find yourself overwhelmed? Do you ever need to just take a breath and recompose yourself? Then ask Alexa!
+
+***
+
 ## [Deep Thoughts](skills/B01IXGKVEM)
 
 *Alexa, open Deep Thoughts*
@@ -7512,6 +10279,22 @@ Bringing the wisdom of Kanye West to the interwebs via Echo
 
 ***
 
+## [Deer Geek](skills/B01N2VY7NO)
+
+*Alexa Open deer geek*
+
+My Deer Facts
+
+***
+
+## [Defiance Ohio Facts](skills/B01MXY1S7A)
+
+*Alexa Open Defiance Ohio Facts*
+
+Facts about Defiance Ohio
+
+***
+
 ## [Demotivate Me](skills/B018EVHE28)
 
 *Alexa, open demotivate*
@@ -7525,6 +10308,30 @@ Tired of everyone lying to you? This skill will tell you the truth.
 *alexa, open denmark facts*
 
 Fun trivia about Denmark.
+
+***
+
+## [Dennis Facts](skills/B01N9LMT12)
+
+*Alexa get trivia from Dennis Facts*
+
+Dennis Facts
+
+***
+
+## [Describe Adam Kempa](skills/B01MR0UCG1)
+
+*Alexa Open describe adam kempa*
+
+A skill that describes Adam Kempa on demand.
+
+***
+
+## [Desdemona Despair](skills/B01N0TX06S)
+
+*Alexa, open Desdemona Despair*
+
+Latest news from the Desdemona Despair blog.
 
 ***
 
@@ -7576,6 +10383,14 @@ null
 
 ***
 
+## [Developer Excuses](skills/B01N1O0TYZ)
+
+*alexa, developer excuse*
+
+Get a programmer/developer excuse
+
+***
+
 ## [Developer Games](skills/B01DO6II5K)
 
 *Alexa, start developer games*
@@ -7592,11 +10407,27 @@ Get a fact about DeVito and his surroundings at his workplace.
 
 ***
 
+## [Devotionals](skills/B01NA97VBO)
+
+*Alexa, ask Devotionals to read my devotional*
+
+Hear an uplifting devotion and be strengthened in your faith! Each day you’ll hear a devotion handpicked from audiobooks by bestselling Christian authors.
+
+***
+
 ## [Dex Trivia](skills/B01EGB0FNU)
 
 *Alexa, start dex trivia*
 
 Are you a Pokemon Master?  Find out in the toughest Pokemon trivia game yet!
+
+***
+
+## [DG Racing](skills/B01NCHVNRI)
+
+*Alexa, ask d. g. racing what races went on last weekend*
+
+The DG Racing skill is used to find out things about the events that DG has timed and scored to see how you placed as well as your friends and competitor.
 
 ***
 
@@ -7640,6 +10471,14 @@ Board game missing dice?  Random encounter?  Dice Bag will roll for you, complet
 
 ***
 
+## [Dice Master](skills/B01N76096K)
+
+*Alexa, launch Dice Master*
+
+Roll a standard 6-sided dice using your voice!
+
+***
+
 ## [Dice Roller](skills/B01G2M7RB4)
 
 *Alexa, tell Dice Roller to roll a dice*
@@ -7653,6 +10492,14 @@ Return a random number for 1 to 6.
 *Alexa open dice roller*
 
 Dice Roller is an application to allow you to ask Alexa to roll a dice for you ! Useful if you do not have a dice and you want to play games.
+
+***
+
+## [Dice Roller](skills/B01MYYDWVI)
+
+*Alexa, open dice roller*
+
+Alexa rolls a die or two dice for you.
 
 ***
 
@@ -7688,11 +10535,59 @@ Alexa Did the Hadron Collider destroy the world yet?
 
 ***
 
+## [did you know facts](skills/B01N4HDJ89)
+
+*Alexa, open did you know facts*
+
+Facts you may never have heard of.
+
+***
+
+## [Dierk](skills/B01MQQEZDP)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Dierk](skills/B01N9BY6RS)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [DieRoller](skills/B01GUKL2G4)
 
 *Alexa, ask Die Roller to roll a D 8*
 
 Rolls a die of user-specified number of sides
+
+***
+
+## [Dieter](skills/B01MXZ356L)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Dieter](skills/B01N1STCRS)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Dieter](skills/B01N7IX2LB)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -7704,11 +10599,27 @@ Quiz yourself on the definitions of very difficult words
 
 ***
 
+## [Diffuser Blends](skills/B01N9N308T)
+
+*Alexa, open Diffuser Blends.*
+
+Alexa and Diffuser Blends work together to help you easily create essential oil blends for your diffuser.
+
+***
+
 ## [Digestive System](skills/B01IV07OF4)
 
 *Alexa, open Digestive System*
 
 This trivia game tests your knowledge of the human digestive system..
+
+***
+
+## [Digital Pet](skills/B01N0LD8WS)
+
+*Alexa, Ask Digital Pet to feed Dazzle*
+
+Take care of Alexa's pet dog, Dazzle! Check in every day to feed her, talk her for walks, and play fetch!
 
 ***
 
@@ -7725,6 +10636,30 @@ Digital Photography terminology.
 *Alexa, tell My Butler to turn on the lights in the living room.*
 
 Control your digitalSTROM smart home using Alexa. Now you can use your voice to get information, call scenes, set thermostat temperature, or turn on lights.
+
+***
+
+## [Digits of Pi](skills/B01N1WOCKJ)
+
+*Alexa, ask Digits of Pi what is pi to the first digit*
+
+Allows you to ask Alexa to round pi to a certain number of digits
+
+***
+
+## [DineTime](skills/B01MXWIUQB)
+
+*Alexa Ask DineTime for the wait at Red Robin*
+
+Get wait times at nearby DineTime restaurants using Alexa.
+
+***
+
+## [Dinner Decider](skills/B01MXYMZ8Y)
+
+*Alexa Open dinner decider*
+
+Voice control your way to finding a dinner for tonight.
 
 ***
 
@@ -7777,6 +10712,38 @@ Do you like Dinosaurs? Of course you down. Enable this skill to learn even MORE 
 
 ***
 
+## [Dinosaur Facts](skills/B01NCHJBLO)
+
+*Alexa Open Dinosaur Facts*
+
+DinoFacts
+
+***
+
+## [Dirk Pueschel](skills/B01MRWD5LV)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Dirk Pueschel](skills/B01N5DRB1T)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Dirty Dozen (Vegetables and Fruits)](skills/B01NCKI474)
+
+*Alexa open Dirty Dozen*
+
+Learn which fruits and vegetables are on the dirty dozen list and pesticide contaminated.
+
+***
+
 ## [Discover Artist](skills/B01FCLLKNW)
 
 *Alexa, ask Discover Artist to find me a new artist*
@@ -7785,11 +10752,27 @@ Discover a new artist every day
 
 ***
 
+## [Discover Kaladesh](skills/B01MQPOOZA)
+
+*Alexa, ask discover kala desh to tell me a fact*
+
+Discover information about the latest creatures from Magic: The Gathering skill set Kaladesh.
+
+***
+
 ## [Discovery Channel's Shark Week](skills/B01G5VHY2O)
 
 *Alexa, ask shark week for a fact.*
 
 #SharkWeek returns early this year, Sunday June 26th at 8/7c! Ask Alexa for shark facts, a countdown for when shark week begins, and more!
+
+***
+
+## [Disney Fan Quiz](skills/B01NBLTQXZ)
+
+*There are no example interactions for this skill.*
+
+A Disney quiz by fans for fans.
 
 ***
 
@@ -7825,6 +10808,14 @@ This is a fun simple geography game where you try to guess how far you are from 
 
 ***
 
+## [Ditty](skills/B01M69NTJH)
+
+*Alexa, Open Ditty*
+
+Ditty sings anything you say
+
+***
+
 ## [Division Flash Cards](skills/B01IEGLGT0)
 
 *Alexa start Division Flash Cards*
@@ -7857,11 +10848,27 @@ Practice for the California DMV driver license test.
 
 ***
 
+## [Do I have internet?](skills/B01MY2ZFXN)
+
+*Alexa, open connection check.*
+
+Check if your internet is down!
+
+***
+
 ## [DO IT](skills/B01JT8N8P2)
 
 *Alexa, give me inspiration*
 
 The skill provides inspiration for when you're feeling down.
+
+***
+
+## [Doc Holiday](skills/B01MDQ1EJL)
+
+*Alexa. Ask Doc Holiday What is todays holiday?*
+
+Find out about fun holidays and when to celebrate them
 
 ***
 
@@ -7953,6 +10960,38 @@ Learn some interesting, fun, and new facts about dogs.
 
 ***
 
+## [Dog Facts](skills/B01MRPQG6K)
+
+*Alexa open Dog Facts*
+
+This skill tells you an interesting dog fact!
+
+***
+
+## [Dog Facts](skills/B01MY02TNV)
+
+*Alexa Open Dog Facts*
+
+Learn about man's best friend!
+
+***
+
+## [Dog Facts](skills/B01N6L044R)
+
+*Alexa open Dog Facts*
+
+Dog Facts
+
+***
+
+## [Dog Facts](skills/B01NCID5MW)
+
+*alexa open dog facts*
+
+Dog Facts
+
+***
+
 ## [Dog Trivia](skills/B01K5JXPKM)
 
 *Alexa, start Dog Trivia*
@@ -7961,11 +11000,27 @@ This trivia game lets players test their knowledge of dogs.
 
 ***
 
+## [Dog Whisperer](skills/B01MXX19JL)
+
+*Alexa, ask Dog Whisperer how much max slept yesterday.*
+
+Talk to your dog through Alexa using FitBark! Find out what they did yesterday, when their birthday is, or if they have any medical conditions.
+
+***
+
 ## [Dog-Cat Trivia](skills/B01DDL3Z04)
 
 *Alexa, launch Dog Cat Trivia*
 
 See how much you know about cats and dogs. Questions will be both general and specific. Dog Cat Trivia is a game built from a template.
+
+***
+
+## [Doge Speak](skills/B01N1WCJ44)
+
+*Alexa ask doge speak wow*
+
+very Alexa. Such skill. wow.
 
 ***
 
@@ -7993,11 +11048,35 @@ Dog Geek gives interesting facts about dogs.
 
 ***
 
+## [Dogs facts](skills/B01N9BRH9S)
+
+*Alexa, ask dogs facts to tell me a dogs fact*
+
+This skill will tell you about facts about dogs.
+
+***
+
 ## [DogTrivia](skills/B01GM5LCEE)
 
 *Alexa start Dog Trivia*
 
 A trivia game about dogs
+
+***
+
+## [Dollar Now](skills/B01N680FB9)
+
+*Alexa open dollar now*
+
+Gives the price of the dollar in Argentina pesos.
+
+***
+
+## [Dollar-to-Rupee Conversion Tracker](skills/B01N0UT62X)
+
+*Alexa, Open Rupee Monitor*
+
+This simple skill will provide you the up to date Dollar to Rupee Conversion rate, with just a simple phrase of "Alexa, open Rupee Monitor"
 
 ***
 
@@ -8025,6 +11104,15 @@ Place your Domino's Easy Order or your most recent order. You can also ask for D
 
 ***
 
+## [Don't Starve CrockPot Helper](skills/B01MTNT2RN)
+
+*Alexa, Ask Don't Starve CrockPot Helper, how do you make a dragon pie*
+
+Don't Starve Crock Pot Recipe Guide.
+The helper help you list all the ingredients you need for a recipe.
+
+***
+
 ## [Donald Trump Fact](skills/B01KYP5UWI)
 
 *Alexa, open trump fact*
@@ -8033,11 +11121,35 @@ Get trivia facts about Donald Trump.
 
 ***
 
+## [Donald Trump Facts Unofficial](skills/B01N4EN3K3)
+
+*Alexa Open donald trump facts unofficial*
+
+Donald trump facts unofficial
+
+***
+
 ## [Donald versus Hillary](skills/B01LZJ93HM)
 
 *Alexa, Ask Donald versus Hillary*
 
 Fun facts about Donald Trump and Hillary Clinton
+
+***
+
+## [Donut Fun Facts](skills/B01MYTENFZ)
+
+*Alexa, ask Donut Fun Facts to tell me a fun donut fact.*
+
+Alexa will tell you fun facts about donuts!
+
+***
+
+## [Doomsday Clock](skills/B01N2LZD48)
+
+*Alexa, ask Doomsday Clock how many minutes till midnight*
+
+This skill lets you know the status of the doomsday clock.
 
 ***
 
@@ -8054,6 +11166,14 @@ Facts about the DOS operating system that was widely used in the 80's and early 
 *There are no example interactions for this skill.*
 
 null
+
+***
+
+## [Dota Fan](skills/B01NGTQ71M)
+
+*Alexa ask Dota Fan for a tip*
+
+Tips for all Dota players (unofficial)
 
 ***
 
@@ -8101,7 +11221,7 @@ Dr Speech is designed to help people who speak English as a second language to i
 
 *Alexa, ask doctor dog if my dog can eat apples.*
 
-find out if your dog can eat foods.
+find out if it's safe for your dog to eat different foods.
 
 ***
 
@@ -8141,6 +11261,16 @@ Have Alexa draw a random card for you. Optionally specify a suit or ask her to d
 
 ***
 
+## [Draw A Card](skills/B01N0076NB)
+
+*Alexa, open draw card*
+
+Draws a random card from a full deck
+Output example:
+"Here is your card: 7 Hearts"
+
+***
+
 ## [Dress Me](skills/B01M7Z6DSM)
 
 *Alexa, open Dress me*
@@ -8149,19 +11279,19 @@ Based on weather in Seattle, WA this skill suggests what to wear for Men.
 
 ***
 
-## [Drew Firment](skills/B01M0KSFWE)
-
-*There are no example interactions for this skill.*
-
-null
-
-***
-
 ## [DrinkBoy](skills/B01C9JQFFI)
 
 *Alexa, ask Drink Boy what is the recipe for a Sidecar*
 
 DrinkBoy provides recipes for over 200 popular cocktails.
+
+***
+
+## [Drinking Gods - Drinking Game](skills/B01MTNC0L0)
+
+*Alexa, open the drinking gods*
+
+The best drinking game for Echo! Get the party started! Say "Alexa, ask the drinking gods!" and Alexa will say who drinks!
 
 ***
 
@@ -8189,20 +11319,20 @@ Mature Audiences: Let Alexa curate your next party with a series of drinking gam
 
 ***
 
-## [Drive Time](skills/B01995S7QU)
-
-*"Alexa, launch Drive Time."*
-
-Drive Time gets you the travel time to your destinations.
-
-***
-
 ## [Driver Helper for NASCAR](skills/B01FPDROPU)
 
 *Alexa, ask driver helper who drives the number nineteen car?*
 
 Do you ever forget who drives which car?
 This skill returns the NASCAR driver name for a given number or the number for a given driver.
+
+***
+
+## [Drivers Education Trivia](skills/B01N2YJKHJ)
+
+*Alexa Open Drivers Education Trivia*
+
+Study for your Driving Exam with the Drivers Education Trivia game! Test yourself with multiple choice questions to prepare.
 
 ***
 
@@ -8238,6 +11368,14 @@ Uses the Google Knowledge Graph API to drop some knowledge about anyone / anythi
 
 ***
 
+## [Dropzone Commander Stats (Unofficial)](skills/B01N9ECI0I)
+
+*Alexa, ask dropzone what the stats are for an Albatross*
+
+Quick stats information about current Dropzone Commander Units.
+
+***
+
 ## [Drought Tips](skills/B01IZ9R0HS)
 
 *Alexa, ask Drought Tips for a tip*
@@ -8262,11 +11400,27 @@ Get random drum corps facts
 
 ***
 
+## [Drunk Santa](skills/B01N5GAQ0N)
+
+*Alexa, start Drunk Santa*
+
+Drunk Santa will let you know if you've been naughty or nice!
+
+***
+
 ## [DSM5 Exam](skills/B01I22E5VC)
 
 *Alexa, open dsm five exam*
 
 The DSM-5 Exam skill provides you with a review of the disorders in the DSM-5.
+
+***
+
+## [DT Apps](skills/B01MFB7OE9)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -8291,6 +11445,14 @@ Duck hunter shooting game player is having 5 bullet
 *Alexa, ask Duck Riddle "What's the difference between a duck?"*
 
 Alexa knows the secret do you?
+
+***
+
+## [Duck Trivia](skills/B01MYTDXO1)
+
+*Alexa, start duck trivia*
+
+How well do you think you know ducks? Time to test that knowledge!
 
 ***
 
@@ -8366,6 +11528,14 @@ Dylan Punster will tell you a pun based on what you ask him.
 
 ***
 
+## [Dynamite's Unofficial Google Analytics Quiz](skills/B01N2W3D1G)
+
+*Alexa, launch Dynamite's Unofficial Google Analytics Quiz*
+
+Test your Google Analytics knowledge with 5ft of Dynamite's Unofficial Google Analytics Quiz, a trivia game based on the Google Analytics platform.
+
+***
+
 ## [E.P.L Matchday](skills/B01J26ONNC)
 
 *Alexa ask E.P.L Match Day for the matches*
@@ -8382,11 +11552,19 @@ Play any musical interval in an octave to improve your ear training
 
 ***
 
+## [Earnings Calculator](skills/B01MT13RKU)
+
+*Alexa ask earnings calculator how many downloads do I need to earn 1,000 dollars*
+
+Lets you calculate how much paid downloads you need to earn a certain amount.
+
+***
+
 ## [Earplay](skills/B01K8V6NSI)
 
 *Alexa, start Earplay*
 
-Interactive audio stories you play with your voice. Earplay.
+Interactive audio stories you play with your voice
 
 ***
 
@@ -8406,11 +11584,27 @@ Earth Facts! Learn more about the world you live in.
 
 ***
 
+## [Earth Facts](skills/B01NCN41NK)
+
+*There are no example interactions for this skill.*
+
+This skill gives you some interesting facts about planet Earth.
+
+***
+
 ## [Earth Object Watcher](skills/B01M1LZNSE)
 
 *Alexa, ask Earth Object Watcher for the number of near earth objects.*
 
 This skill tells the number of near earth objects or close approach objects.
+
+***
+
+## [Earth, Moon and Sun Facts!](skills/B01N9LOI4D)
+
+*Alexa Open teach me space*
+
+Amazon Echo knows about space!
 
 ***
 
@@ -8478,6 +11672,14 @@ This skill helps people (especially those who are learning English) practice spe
 
 ***
 
+## [easydatamanager](skills/B01N4HZKPJ)
+
+*Alexa ask easy data manager to tell me a data fact*
+
+Easydatamanager is introduced on Alexa
+
+***
+
 ## [Eat Pray Get Well](skills/B01EEC51XA)
 
 *Alexa ask Eat Pray Get Well for the latest dessert recipe*
@@ -8491,6 +11693,14 @@ Get the latest information from the premier healthy eating blog Eat, Pray, Get W
 *Alexa, start eat smart*
 
 Daily tips to eat smart.
+
+***
+
+## [eBags](skills/B01MSJ60ID)
+
+*Alexa, ask e. bags where is my order?*
+
+Always be up to date on the status of your orders from online shopping. You can also return your items and get a shipping label.
 
 ***
 
@@ -8522,7 +11732,7 @@ Flashcards for Basic Macroeconomics Review
 
 *Alexa, ask Voice Remote What are My Activities*
 
-Eddy is your Voice Remote companion for Amazon Echo
+Eddy is your Voice Remote companion for InfraRed devices.
 
 ***
 
@@ -8542,12 +11752,36 @@ Edgar Facts is for anyone who loves Edgar the dog and can't get enough of that a
 
 ***
 
+## [Edit Docs](skills/B01MYOGRD5)
+
+*Alexa, ask Edit Docs to list my files please*
+
+An Amazon Alexa skill to open and edit google docs through voice.
+
+***
+
 ## [EDM Trivia](skills/B01FOKTIKS)
 
 *Alexa, start e. d. m. trivia*
 
 EDM Trivia is a fun way to test your knowledge of Electronic Dance Music. You'll enjoy learning some bizarre facts about the genre!
 Alexa, start EDM Trivia.
+
+***
+
+## [Edmunds](skills/B01MT03HSZ)
+
+*Alexa, ask Edmunds about the Tesla Model S*
+
+Use the Edmunds skill to answer your automotive questions. Hear expert reviews, ask about features and specs, and find lease deals near you.
+
+***
+
+## [Education Facts](skills/B01MROY4CD)
+
+*Alexa, open education facts*
+
+It tells a education fact in the world.
 
 ***
 
@@ -8564,6 +11798,14 @@ Education Stats provides real time voice business intelligence
 *Alexa, open Education Tech*
 
 Receive recommendations of educational technologies or apps for use in the classroom.
+
+***
+
+## [eero](skills/B01N0EF67B)
+
+*Alexa, ask eero to find my phone.*
+
+Use eero’s Alexa skill to control your WiFi and find devices throughout your home -- all with simple voice commands.
 
 ***
 
@@ -8607,6 +11849,14 @@ This skills allows you to control your eGlu devices with simple voice commands, 
 
 ***
 
+## [EGR Lunch Bot](skills/B01B3PU7UI)
+
+*Alexa, ask lunch bot what's for lunch today*
+
+Hot lunch for East Grand Rapids Public Schools (all elementary schools).
+
+***
+
 ## [Einstein Quotes](skills/B01HPQU3LW)
 
 *Alexa, Ask Einstein Quotes for a quote*
@@ -8639,6 +11889,22 @@ null
 
 ***
 
+## [eko_se7en](skills/B01MRGDI76)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Elder Scrolls Fan Trivia](skills/B01N0JJEYY)
+
+*Alexa, Open Elder Scrolls Fan Trivia*
+
+Test your knowledge of the bewitching world of Elder Scrolls and become unbeatable on the rich lore of Tamriel
+
+***
+
 ## [Election History Facts](skills/B01MXBQRD7)
 
 *Alexa, ask Election History for a fact*
@@ -8655,11 +11921,27 @@ Simple skill to tell you the current Polls-plus forecast from 538 for the US Pre
 
 ***
 
+## [Electoral College Facts](skills/B01NALBNPB)
+
+*Alexa, open electoral college facts*
+
+Electoral College Facts contains interesting facts about the United States electoral college.
+
+***
+
 ## [Electric Car Questions](skills/B01JDN4DNY)
 
 *Alexa, ask Electric Car Questions*
 
 Question answering game about electric cars
+
+***
+
+## [Electrical telegraph](skills/B01NAF5UTQ)
+
+*Alexa, ask electrical telegraph for the letter F*
+
+Translates characters to morse code and vice versa.
 
 ***
 
@@ -8684,6 +11966,14 @@ Learn about electronics with trivia
 *Alexa, start Element Quiz*
 
 Elements Quiz is a basic quiz that will test you knowledge of 25 of the most common elements in the periodic table.
+
+***
+
+## [Elephant Jokes](skills/B01MRZWY9B)
+
+*Alexa Open Elephant Jokes*
+
+If you're one of the special people who doesn't cringe at the thought of hearing an elephant joke, then this is the app for you.
 
 ***
 
@@ -8743,11 +12033,83 @@ null
 
 ***
 
+## [ELS Media Marketing Ltd](skills/B01MU4T4WT)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Email Assistant](skills/B01BW5A4EI)
 
 *Alexa, open Email Assistant*
 
 Alexa + Email = the only assistant you can ask about upcoming travel info from mail. Flights, Hotels and Rental Car info is all available!
+
+***
+
+## [emats](skills/B01MYRP6XY)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [emats](skills/B01N2PL8AZ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [emats](skills/B01N5B0GQY)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [emberlight](skills/B01M7U7EL7)
+
+*There are no example interactions for this skill.*
+
+emberlight Smart Light Socket - Turn any light into a smart light
+
+***
+
+## [Emoticart GmbH](skills/B01N2U6PXZ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Emoticart GmbH](skills/B01N6FTC35)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Emoticart GmbH](skills/B01N7CVDB3)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Emoticart GmbH](skills/B01N9G586D)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -8759,6 +12121,14 @@ Hear what colors the Empire State Building is displaying tonight.
 
 ***
 
+## [Empire State Building Quiz](skills/B01N6EXZD7)
+
+*Alexa open empire state building quiz*
+
+Empire State Building Quiz
+
+***
+
 ## [empowerMe](skills/B01I7FF6UI)
 
 *Alexa, ask empower me to give me a quote*
@@ -8767,11 +12137,43 @@ A skill to brighten/inspire someones day when they need inspiration.
 
 ***
 
+## [Encouragement](skills/B01N7CRXU4)
+
+*Alexa ask daily encouragement for an inspirational quote*
+
+This is a basic skill to give you some encouragement whenever you need it. Just ask alexa for an inspirational quote and she will give you motivation.
+
+***
+
+## [Encouraging Quote](skills/B01N1IWZ2J)
+
+*Alexa Ask Encouraging Quote*
+
+This application provides encouraging quotes so that you are always encourage to perform.
+
+***
+
+## [Encyclopedia of Philosophy](skills/B01MXFDYSN)
+
+*Alexa Ask Encyclopedia of Philosophy for a quote*
+
+Stanford Encyclopedia.of Philosophy.
+
+***
+
 ## [endocrineFlashCards](skills/B01HLMDQ9Q)
 
 *Alexa, launch endocrine flash cards.*
 
 This is a flash card app that matches hormones to endocrine glands.
+
+***
+
+## [Energenie - Mi|Home](skills/B01M1GE8CF)
+
+*There are no example interactions for this skill.*
+
+This skill allows MiHome devices to be powered on and off using Alexa.
 
 ***
 
@@ -8807,6 +12209,14 @@ Educational skill that lists the days of the week and the months of the year.
 
 ***
 
+## [Enlightened Helper](skills/B01N2R6J69)
+
+*Alexa, ask enlightened helper when is the next checkpoint?*
+
+An unofficial skill for Ingress
+
+***
+
 ## [Enlightening Banana Facts](skills/B01M04B2I9)
 
 *Alexa, ask Banana Facts for a fact.*
@@ -8832,6 +12242,38 @@ Learn about our environment with this skill.
 ***
 
 ## [Eoin Bailey](skills/B01MFE0PBB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Eric Schumann](skills/B01MYY27HM)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Eric Schumann](skills/B01N0P5IKC)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Eric Schumann](skills/B01N2S7VH3)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Eric Schumann](skills/B01N4C91DZ)
 
 *There are no example interactions for this skill.*
 
@@ -8919,6 +12361,14 @@ Simple Europe knowledge trivialgame
 
 ***
 
+## [European Wax](skills/B01N76MPVO)
+
+*Alexa, open my EWC*
+
+Reveal Beautiful Skin with the European Wax Alexa Skill
+
+***
+
 ## [EV Charging](skills/B01FH84X2K)
 
 *Alexa, ask JuiceBox to get status*
@@ -8932,6 +12382,14 @@ eMotorWerks JuiceBox Alexa Skill - teach your Alexa to talk to your EV charging 
 *Alexa, ask e. v. curious*
 
 Tells you random facts about electric vehicles.
+
+***
+
+## [Event Master](skills/B01MQPH0ZM)
+
+*Alexa, open Event Master*
+
+Search the events that are scheduled in your city!
 
 ***
 
@@ -8959,6 +12417,14 @@ Exact Measure converts distance measurements from Metric to Imperial and back ag
 
 ***
 
+## [Exam Grade Estimator](skills/B01N3NR4HJ)
+
+*Alexa ask grade estimator I am going into the exam with a eighty percent what do I need on the thirty percent exam to get eighty five percent in the course*
+
+Determine what you need on the final exam to get your desired mark in the course
+
+***
+
 ## [Examining the Scriptures Daily](skills/B01FB6A31I)
 
 *Alexa, open my daily text for today*
@@ -8977,11 +12443,27 @@ Get the latest, up to the minute, currency exchange rates
 
 ***
 
+## [Exercise Helper](skills/B01N2XROUR)
+
+*Alexa, ask Exercise Helper how to build muscle*
+
+Exercise Motivator builds on Minecraft Helper to teach you how to build fitness
+
+***
+
 ## [Existential Despair](skills/B01DK38RPI)
 
 *Alexa, tell me some despair*
 
 Listen to Alexa speak famous quotes of utter despair. And then cry along with her.
+
+***
+
+## [Existential Quotes](skills/B01N3RNBQX)
+
+*Alexa, open existential meaning*
+
+Have Alexa say some existential quotes.
 
 ***
 
@@ -8993,11 +12475,51 @@ Existential Quotes can read a random quote from an existentialist philosopher of
 
 ***
 
+## [Expedia](skills/B01M7TT1O8)
+
+*Alexa, open Expedia.*
+
+The Expedia skill for Amazon Alexa lets you hear quick details on your upcoming trip, get your flight status, rent a car, check your loyalty points, and more!
+
+***
+
+## [expense tracker](skills/B01MXMEJEY)
+
+*Alexa, ask expense tracker to create a new report*
+
+This skill helps you to track the money you lend to your friends.
+
+***
+
 ## [Expense Tracker](skills/B01DC0VZZI)
 
 *Alexa, tell Expense Tracker that I paid 10 dollars for food.*
 
 Expense Tracker can help you keep track of your costs. Just add all your spendings to certain categories and ask Expense Tracker to create your report.
+
+***
+
+## [Expert Review](skills/B01N1REAXI)
+
+*Alexa open expert review*
+
+Get review for a product
+
+***
+
+## [Explorer Trivia Games](skills/B01NBFLWM6)
+
+*Alexa open explorer trivia*
+
+Explorers Trivia
+
+***
+
+## [Express assistant](skills/B01MF9O56H)
+
+*Alexa Open express assistant*
+
+Triage and respond to email from gmail or Office365.
 
 ***
 
@@ -9009,11 +12531,27 @@ Extended Selenium Two is a skill that can help you with keyword documentation fo
 
 ***
 
+## [ExtinctionFacts](skills/B01MU6KF9Z)
+
+*Alexa  Open Extinction Facts*
+
+Facts about species extinction.
+
+***
+
 ## [Extra Class Ham Cram](skills/B01LXFUPFJ)
 
 *Alexa, Start extra ham cram*
 
 A quick quiz on the Extra Class Ham License Exam
+
+***
+
+## [Eyes On You](skills/B01N7IMIMF)
+
+*Alexa, ask Eyes On You to watch Alex*
+
+Alexa will repeat the name of the person you ask her to watch.
 
 ***
 
@@ -9041,6 +12579,46 @@ Ezlynx- Agency Pulse and Daily News
 
 ***
 
+## [Ezzy Elliott](skills/B01NCHKDWT)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Fab Four Fan Quiz](skills/B01M0KSFWE)
+
+*Alexa, open Fab Four Fan*
+
+Play Fab Four Fan eight days a week
+
+***
+
+## [fabian](skills/B01MQODQJY)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [fabian](skills/B01MZXL0C7)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [fabian](skills/B01N5GTGEA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Fact Master](skills/B01KVU2B8W)
 
 *Alexa ask fact master*
@@ -9065,11 +12643,11 @@ Trivia information regarding geometry.
 
 ***
 
-## [Fact Skill](skills/B01LX6ERKZ)
+## [Fact-Skill-Test](skills/B01MEFVHKU)
 
-*Alexa, open united states history facts*
+*Alexa ask food facts for a fact*
 
-Get United States History Facts
+Fun food facts!
 
 ***
 
@@ -9105,6 +12683,14 @@ This tells you a random interesting history fact.
 
 ***
 
+## [Facts about Counter Strike](skills/B01N6FLO61)
+
+*Alexa open c. s. fan facts*
+
+Random fun facts about Counter Strike.
+
+***
+
 ## [Facts About David](skills/B01LZ9J6KH)
 
 *Alexa, launch david facts*
@@ -9134,6 +12720,14 @@ Donald Trivia Game
 *Alexa Open Iran Facts.*
 
 Fun facts about Iran and its history, culture, and geography.
+
+***
+
+## [Facts about Ireland](skills/B01N5HPJV8)
+
+*Alexa, open irish facts*
+
+Facts about Ireland will tell you lots of interesting facts about the Emerald Isle.
 
 ***
 
@@ -9182,6 +12776,14 @@ In this skill you will learn facts about Tigers.
 *Alexa start wrestling facts.*
 
 Delivers a random fact about Wrestling.
+
+***
+
+## [Facts and trivia about New Zealand](skills/B01N0T66XR)
+
+*Alexa, ask New Zealand facts for something*
+
+Facts and trivia about wonderful New Zealand
 
 ***
 
@@ -9270,6 +12872,14 @@ Facts on wine
 *Alexa, open fact today*
 
 Gathering here are some fun and enlightening facts about life.
+
+***
+
+## [Failed Climate Predictions](skills/B01N667FMQ)
+
+*Alexa, Failed Climate Predictions*
+
+Tells a failed climate prediction at a time
 
 ***
 
@@ -9377,6 +12987,14 @@ Simple skill that reads you famous quotes from history and movies.
 
 ***
 
+## [Famous Quotes](skills/B01MTRY21F)
+
+*Alexa, open Famous Quotes*
+
+Tells you a random quote from famous persons
+
+***
+
 ## [Famous Quotes by Steve Jobs - A Tribute](skills/B01E6QENNS)
 
 *Alexa ask Steve Jobs Quotes to inspire me*
@@ -9401,11 +13019,27 @@ Are you interested in learning a Famous Sonnet? Rely on Famous Sonnet for all of
 
 ***
 
+## [Fan League of Legends Facts](skills/B01N631W7Z)
+
+*Alexa open Unofficial League Facts*
+
+Ask Alexa to tell various fan trivia and facts about League of Legends!
+
+***
+
 ## [Fan Pokedex](skills/B01LX5TM0H)
 
 *alexa, open fan pokedex*
 
 Fan Project for Pokedex Entries
+
+***
+
+## [fan pokemon go fact](skills/B01N3KF7Q6)
+
+*Alexa, launch fan pokemon go fact*
+
+Provides a fact about Pokemon Go "Persona"
 
 ***
 
@@ -9417,11 +13051,43 @@ Tells you about hot, top, and new posts on various subreddits.
 
 ***
 
+## [Fan Trump Facts](skills/B01MYTQVYG)
+
+*Alexa, start fan trump facts.*
+
+This skill gives random facts about the Donald (some may be wrong, Mr. Trump, pls don't sue me.)
+
+***
+
+## [Fancy Bartender](skills/B01N08OS0D)
+
+*Alexa, ask fancy bartender what I need to make six long islands*
+
+Want to wind down or turn up with a nice cocktail? Ask fancy bartender how to make one!
+
+***
+
 ## [Fancy Words](skills/B01LYCQFKY)
 
 *alexa, open fancy words*
 
 Gives a random definition of an uncommon word.
+
+***
+
+## [FanDailyTrumpTweet](skills/B01MT481SN)
+
+*alexa ask fan trump tweets what is last tweet from trump*
+
+This fan skill will tell you the last tweet from Trump as well as the most retweeted, replied and liked tweets.
+
+***
+
+## [Fandango](skills/B01N5FH66U)
+
+*Alexa, Open Fandango*
+
+Fandango on Alexa makes movie going even easier! With the Fandango skill, you can discover new movies, browse movie times and guarantee tickets.
 
 ***
 
@@ -9457,11 +13123,43 @@ Fantasy Football metrics for those who have the sickness
 
 ***
 
+## [Fapprik / Fapptory](skills/B01MSY2EUK)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Fapprik / Fapptory](skills/B01N4CYNXT)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Fapprik / Fapptory](skills/B01NAHX1CE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [FAQer](skills/B01JLE96MS)
 
 *Alexa, ask zany facts what was last month's churn ?*
 
 A skill that allows answering of common FAQ from a Google Spreadsheet
+
+***
+
+## [Far Out Facts](skills/B01MQYMR37)
+
+*Alexa ask farout facts to tell me a fact*
+
+100 cool facts about space
 
 ***
 
@@ -9498,6 +13196,14 @@ This skill gives very unique facts about the history of Farmington, Connecticut.
 
 ***
 
+## [Fart Detective](skills/B01MXRMJ2C)
+
+*Alexa ask fart detective who farted*
+
+A science driven fart detective that can analyze farts and determine who the culprit in the room is.
+
+***
+
 ## [Fart Sound Jokes](skills/B01HUTWTRK)
 
 *Alexa, ask fart sound to fart jokes*
@@ -9530,6 +13236,14 @@ Test your knowledge of all things fast food!
 
 ***
 
+## [Fast Foot Work](skills/B01N64LK3O)
+
+*Alexa, open fast foot work*
+
+Time to improve your soccer foot skills! Complete this training every day to become the next star player.
+
+***
+
 ## [Fast Watch (StopWatch)](skills/B01IQPDMSM)
 
 *Alexa, open Fast Watch*
@@ -9538,11 +13252,35 @@ Fast Watch is a stopwatch that allows you to time your activities: workouts, wor
 
 ***
 
+## [Federal Government Operating Status](skills/B01N6L13BT)
+
+*Alexa, Open Federal Government Status*
+
+DC Area Federal Government Operating Status
+
+***
+
 ## [Federal Holiday](skills/B01KJ6807O)
 
 *Alexa, open federal holiday.*
 
 US Federal Holiday List
+
+***
+
+## [Federal Status](skills/B01NBDSI9G)
+
+*Alexa, open federal status*
+
+Are you a federal government employee in Washington, DC?  Do yo want a quick answer to "is the government open today?"  Ask Federal Status and find out!
+
+***
+
+## [feedme](skills/B01MQF42JX)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -9559,6 +13297,14 @@ null
 *Alexa, ask convert quick to convert three meters to feet*
 
 A quick and easy conversion tool between feet and meters.
+
+***
+
+## [Felix K](skills/B01M8EXJV1)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -9586,6 +13332,22 @@ Simple How-to for certain fencing moves, including some definitions for technica
 
 ***
 
+## [Ferenc Hechler](skills/B01N9IC6LD)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Fermi Paradox](skills/B01N3Y9ZXV)
+
+*Alexa Open Fermi Paradox*
+
+The Fermi Paradox Explained
+
+***
+
 ## [Ferret Facts](skills/B01L7KWOUU)
 
 *Alexa, ask ferret facts for a fact*
@@ -9607,6 +13369,14 @@ This is a trivia game about ferrets.
 *Alexa, launch Indian festival*
 
 This skill provides you the facts about the festivals
+
+***
+
+## [Fibonacci](skills/B01MU4MOQB)
+
+*Alexa, open fibonacci number*
+
+Get Fibonacci numbers (currently only the 4th)
 
 ***
 
@@ -9634,6 +13404,14 @@ List US stocks that hit fifty two week low in the current trading session.
 
 ***
 
+## [Filipino Trivia](skills/B01MZ0NCHJ)
+
+*Alexa Open Filipino Trivia*
+
+Filipino Trivia recites fun facts about the Philippine Islands!
+
+***
+
 ## [Film Facts One](skills/B01MA3A7VL)
 
 *Alexa, Open, Film Facts One*
@@ -9655,6 +13433,14 @@ Let me tell you a quick fact about films!
 *Alexa, open Filmmaking Trivia.*
 
 A challenging trivia game about filmmaking.
+
+***
+
+## [Finance Terms](skills/B01NBKT6I7)
+
+*Alexa, open Finance Terms and give me a finance term*
+
+Do you want to talk like a CFO? Finance Terms will teach you the fundamentals of finance and beyond. Almost one hundred finance terms available.
 
 ***
 
@@ -9690,11 +13476,35 @@ This skill lets you ask for the President of the USA based on year.
 
 ***
 
+## [Find the Day](skills/B01MRQOY2V)
+
+*Alexa Start Find the Day*
+
+Impress your friends with mental math by learning to calculate the day of the week for any date in the past or future.
+
+***
+
 ## [Find Where to Eat](skills/B01LDGDBYG)
 
 *Alexa, ask food finder*
 
 Find a restaurant for dinner in North Beach, San Francisco.
+
+***
+
+## [Finnish Facts](skills/B01MTTCPD8)
+
+*Alexa, start finnish facts*
+
+Learn facts about Finland!
+
+***
+
+## [Fire Department Facts - Los Angeles Area](skills/B01MQYKGCK)
+
+*Alexa, Open Fire Facts.*
+
+Facts about the fire department.
 
 ***
 
@@ -9794,6 +13604,14 @@ Did you know that you should not put fish directly in a new tank? With this app 
 
 ***
 
+## [FishWise](skills/B01NCHWH6U)
+
+*Alexa, open FishWise*
+
+FishWise helps you determine the best times and places to fish
+
+***
+
 ## [Fit Assist](skills/B01DV7E6XA)
 
 *Alexa, tell fit assist to give me some health advice*
@@ -9834,11 +13652,27 @@ Fitness Facts
 
 ***
 
+## [Fitness Helper](skills/B01MY2KBL2)
+
+*Alexa open Fitness Helper*
+
+Fitness Guru
+
+***
+
 ## [Fitness Motivation Quote](skills/B01KJPISEK)
 
 *Alexa, Ask fit coach to motivate me*
 
 Motivation quote that encourage you to workout.
+
+***
+
+## [Fitness Tracker](skills/B01MT1RYPU)
+
+*Alexa, launch Fitness Tracker*
+
+Gets your activity information from your Google Fit account.
 
 ***
 
@@ -9855,6 +13689,14 @@ FitnessLogger is an Alexa skill to keep track of your daily exercises. You can s
 *Alexa, start Five Card Draw*
 
 Five Card Draw
+
+***
+
+## [Flagstaff City guide](skills/B01MQZEQ4V)
+
+*Alexa, open Flagstaff Guide*
+
+Flagstaff city guide
 
 ***
 
@@ -9898,6 +13740,14 @@ Offers some insight into the shape of the world by giving you a random flat eart
 
 ***
 
+## [Flatter Me](skills/B01MT2H41N)
+
+*Alexa Flatter Me*
+
+This is used to get flattering compliments from Alexa.
+
+***
+
 ## [Flavor Text for Hearthstone](skills/B01DBIH0JQ)
 
 *Alexa, open Flavor Text*
@@ -9919,6 +13769,22 @@ Have the flavor text of a random card read to you
 *Alexa, ask Flight Awards for Chicago to London*
 
 Ever wondered how many award miles you need to travel using miles in certain airline ?  Flight Awards can answer this for you quickly.
+
+***
+
+## [Flight Check](skills/B01N2X243K)
+
+*Alexa ask Flight Check what is the status of Emirates flight 208*
+
+Alexa skill to check real time flight status and announce the estimated arrival time.
+
+***
+
+## [Flight Facts](skills/B01N3OGI83)
+
+*Alexa, ask flight facts to give me an aviation fact*
+
+Flight Facts
 
 ***
 
@@ -9962,6 +13828,14 @@ Flip Multiple Coins
 
 ***
 
+## [flobbie](skills/B01N7B7I2A)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Flora Facts](skills/B01L5ZE8N8)
 
 *Alexa, start flora facts*
@@ -10002,6 +13876,22 @@ The Fluffy Radio skill allows you to request songs to play on FluffyRadio.com
 
 ***
 
+## [Flux WiFi](skills/B01LPOEHW6)
+
+*There are no example interactions for this skill.*
+
+Flux WiFi allows you to fill your home with millions of bright right colors and white tones. And now you can control your Flux WiFi smart lights with Alexa.
+
+***
+
+## [Fly a kite](skills/B01N4CW4L7)
+
+*Alexa Open fly a kite*
+
+Get to know all about kite flying. Just ask "Alexa, open fly a kite"
+
+***
+
 ## [Flyers Fan](skills/B01M2AR9RK)
 
 *Alexa ask flyers fan what's up*
@@ -10031,6 +13921,14 @@ This app will ask 18  questions from DSM-IV-TR criteria symptom checklist.
 *Alexa, open Focus Word.*
 
 Focus Word provides an inspirational word and statement about the word to serve as a point of focus for meditation or for the day.
+
+***
+
+## [FODMAP Diet Check](skills/B01N5JVN8F)
+
+*Alexa, ask Diet check is banana a low fodmap food*
+
+Diet check - for IBS sufferers, use the FODMAP diet check to see if a food is allowed on the low FODMAP diet
 
 ***
 
@@ -10130,19 +14028,19 @@ This skill provides Calories information for food items.
 
 ***
 
-## [Food Trivia](skills/B01KYPJ2HW)
-
-*Alexa, start Food Trivia*
-
-Food Trivia
-
-***
-
 ## [Foodie Trivia](skills/B01DTGEX7C)
 
 *Alexa, start foodie trivia*
 
 A trivia game for foodies
+
+***
+
+## [Foody](skills/B01MSPK6VX)
+
+*Alexa Open Food Nerd*
+
+Get interesting nutrition about your everyday food
 
 ***
 
@@ -10170,6 +14068,14 @@ Football facts
 
 ***
 
+## [Football Facts](skills/B01MS1ECJX)
+
+*Alexa, ask football facts to give me a football fact*
+
+Football facts on demand for the stat-oriented viewer.
+
+***
+
 ## [Football Fun Fact](skills/B01HLE3WSY)
 
 *Alexa, open football fun fact*
@@ -10188,7 +14094,7 @@ Fun facts and trivia of football
 
 ## [Football Schedule](skills/B01M3O8YHP)
 
-*Alexa, ask Football Schedule for Denver Broncos*
+*Alexa, open Football Schedule*
 
 Football Schedule
 
@@ -10215,6 +14121,14 @@ This game lets players test their knowledge of the locations of NFL football tea
 *Alexa, start football teams*
 
 This unofficial app lists football teams
+
+***
+
+## [Football Teams](skills/B01N6CTKYH)
+
+*Alexa open Unofficial NFL*
+
+FootballTeams. Unofficial, not endorsed by NFL Enterprises LLC.
 
 ***
 
@@ -10266,6 +14180,14 @@ The Loft Cinema Skill allows users to inquire about movies playing at the Loft C
 
 ***
 
+## [forecast buddy](skills/B01MRUZ1EY)
+
+*Alexa, open Forecast Buddy*
+
+Simple skill that gives you the weather based on a city name
+
+***
+
 ## [Forms of Poetry Trivia](skills/B01IW24KC6)
 
 *Alexa, start forms of poetry*
@@ -10308,7 +14230,7 @@ Get a fortune cookie, read to you and receive your own Mega Millions or Powerbal
 
 ## [Fortune Cookie](skills/B01FS5NG7K)
 
-*Alexa, open Fortune Cookie.*
+*Alexa, start fortune cookie.*
 
 All the fortunes you want - without the calories!
 
@@ -10327,6 +14249,46 @@ This Alexa application randomly tells sayings from fortune cookies.
 *Alexa, launch fortune cookie*
 
 Fortune cookie
+
+***
+
+## [Fortune Cookie](skills/B01MU2HU8U)
+
+*Alexa ask Fortune Cookie for quote*
+
+The fortune cookie gives you the answer to your important questions. Find out what your fate has in store for you today.
+
+***
+
+## [Fortune Cookie](skills/B01N1L6BEB)
+
+*Alexa Open Fortune Cookie*
+
+Ask Fortune Cookie for your fortune!
+
+***
+
+## [Fortune Cookie](skills/B01NACD0F0)
+
+*Alexa ask Fortune Cookie to give me a fortune cookie*
+
+Turn Alexa into a fortune teller with this fun fortune cookie app!
+
+***
+
+## [Fortune Cookie](skills/B01NCJ6CAY)
+
+*Alexa, ask Fortune Cookie to open a cookie*
+
+Ask Alexa to open a fortune cookie and listen to the quote.
+
+***
+
+## [Fortune cookies](skills/B01NACTV3Q)
+
+*Alexa, ask fortune cookies for a fortune cookie*
+
+Fortune cookies
 
 ***
 
@@ -10370,6 +14332,14 @@ Get quotes from our Founding Fathers, the political philosophers who inspired th
 
 ***
 
+## [Founding Father Wisdom](skills/B01N64EUFI)
+
+*Alexa Open Founders Wisdom*
+
+Quotes and Wisdom from the American Revolutions Founding Fathers. Quotes for Inspiration and sage advice for life.
+
+***
+
 ## [Fourth of July Checker](skills/B01M3RU888)
 
 *Alexa, ask Fourth of July Checker is it the Fourth of July*
@@ -10404,6 +14374,46 @@ Some fun facts about France.
 
 ***
 
+## [Fränz Friederes](skills/B01NCF8AMK)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Franz Heinfling](skills/B01MRR1H8I)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Franz Heinfling](skills/B01MSSOY2E)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Franz Heinfling](skills/B01N7BTKDB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Fredericksgrove](skills/B01MXXVETM)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Free Champs](skills/B01LWHX1XW)
 
 *Alexa, Ask Free Champs to tell me this weeks free champions?*
@@ -10412,11 +14422,19 @@ Get a list of the current free champions on League of Legends
 
 ***
 
-## [FreeBusy Scheduling Buddy](skills/B017OBE2NI)
+## [FreeBusy Scheduling Assistant](skills/B017OBE2NI)
 
-*Alexa, ask FreeBusy to see if Paula is free Tuesday*
+*Alexa, ask FreeBusy to schedule a phone call for Thursday*
 
-Easiest way to share availability across calendars and coordinate meetings (for free). Check when you own contacts are available!
+FreeBusy enables Alexa to work with all calendars: iCloud, Office 365, Exchange, Google, Outlook.com, Facebook, Yahoo, and many others.
+
+***
+
+## [FreeDays](skills/B01MYV7DST)
+
+*Alexa, ask bank holidays for the next free day in Poland*
+
+Easily find when is the next free day in your Country and find out when is the next date to sleep till noon!
 
 ***
 
@@ -10425,6 +14443,22 @@ Easiest way to share availability across calendars and coordinate meetings (for 
 *Alexa, ask Freedom Quotes for a quote*
 
 Get freedom-themed quotes
+
+***
+
+## [Freepoc](skills/B01MZ090OB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Freepoc](skills/B01N9BHWBA)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -10468,11 +14502,59 @@ This is a skill is to describe more about Fresh Digital Group
 
 ***
 
+## [freshest.me](skills/B01MZWMN0Z)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [freshest.me](skills/B01N48E1WB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [freshest.me](skills/B01N4BEKBV)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [FridgeStorageTimesHelper](skills/B01HQW7016)
 
 *Alexa ask fridge storage times how long can I keep a steak*
 
 Provides guidelines on how long food can be safely kept in refrigeration. For example, you can say "Alexa, ask fridge storage times how long can I keep a steak"
+
+***
+
+## [Friedrich Lasnia](skills/B01N1MC1YV)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Friedrich Lasnia](skills/B01N578P0U)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Friedrich Lasnia](skills/B01N79KBRS)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -10516,6 +14598,14 @@ Frontend Quiz is an educational skill for Amazon Echo. It will ask 10 questions 
 
 ***
 
+## [Frugal Activity](skills/B01MRMO60V)
+
+*Alexa, open Frugal Activity*
+
+Frugal Activity
+
+***
+
 ## [Fruit Facts](skills/B01FON5LUG)
 
 *Alexa, open fruit facts*
@@ -10542,9 +14632,9 @@ Fruit Nut gives basic and approximate nutrition value information for typical se
 
 ## [Fruit Stand](skills/B01LWZWFK1)
 
-*Alexa, ask Fruit Stand, how do I store apples?*
+*Alexa, ask Fruit Stand, how do I store parsley?*
 
-Helps you store fruits and vegetables
+Helps you store fruits and vegetables in the right place
 
 ***
 
@@ -10553,6 +14643,14 @@ Helps you store fruits and vegetables
 *Alexa, open fruit facts*
 
 This is a fact skill that gets various facts about fruit
+
+***
+
+## [Fuel Me](skills/B01N7J3YC2)
+
+*Alexa ask fuel me*
+
+Find a car's fuel economy easily!
 
 ***
 
@@ -10684,6 +14782,14 @@ Fun Hal is a parody of HAL 9000 from 2001 A Space Odyssey
 
 ***
 
+## [Fun Hoodie Facts](skills/B01MXSSCB5)
+
+*Alexa, ask hoodie now to tell me a hoodie fact*
+
+Learn fun facts about hoodies!
+
+***
+
 ## [Fun Math Facts](skills/B01LXBD5A5)
 
 *Alexa, launch fun math facts*
@@ -10724,6 +14830,14 @@ Fun Tech Facts
 
 ***
 
+## [Fun Trivia](skills/B01MXH0D5I)
+
+*Alexa ask fun trivia to start new game*
+
+Fun Trivia
+
+***
+
 ## [funBulldogFacts](skills/B01DZHDMDG)
 
 *Alexa, launch Fun Bulldog Facts*
@@ -10732,11 +14846,27 @@ Interesting and fun facts about the amazing dog breed known as the Bulldog!
 
 ***
 
+## [Funny and Weird Facts](skills/B01MU4NMV0)
+
+*alexa, open weird facts*
+
+Weird and funny facts
+
+***
+
 ## [Funny Batman Trivia](skills/B01E81WBHG)
 
 *Alexa, open Funny Batman Trivia*
 
 Test your knowledge with this funny Batman based trivia game!
+
+***
+
+## [Funny Bone](skills/B01NCNOC4K)
+
+*Alexa, open funny bone*
+
+Ever wanted Alexa to tell you a joke? Now she can tell you a very corny joke with this app. Be prepared.
 
 ***
 
@@ -10770,6 +14900,14 @@ Jokes for engineers
 
 Talk to funny girl for some laughs.
 Disclaimer:  This skill may not be suitable for all ages.
+
+***
+
+## [Funny man](skills/B01N2JN70L)
+
+*Alexa open Funnyman*
+
+Alexa will be able to tell you some jokes.
 
 ***
 
@@ -10837,6 +14975,38 @@ Explain fuzzy language found in science and medicine.
 
 ***
 
+## [G+J Parenting Media GmbH](skills/B01LXUQ6UT)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [gaedicke](skills/B01MZ07G67)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [gaedicke](skills/B01N7IMVD9)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [gaedicke](skills/B01NCMPGI2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Gainesville Bus](skills/B01JDIPUK4)
 
 *Alexa, ask Bus Bus for the next twelve at rawlings hall*
@@ -10850,6 +15020,22 @@ Get the next bus(es) for any stop in the Gainesville, FL bus system. Ask for a p
 *Alexa, open gainesville bar choice*
 
 Help figure out where to go out at night in gainesville
+
+***
+
+## [Galaxy Explorer](skills/B01MRUZMOA)
+
+*Alexa open galaxy explorer for a fact*
+
+Explore the galaxies with interesting and never known facts.
+
+***
+
+## [Game Deals](skills/B01N45QVWH)
+
+*Alexa, ask Game Deals for recent deals*
+
+Ask Alexa for the latest game deals, and she will tell you what, where and for how much recent game deals are.
 
 ***
 
@@ -10941,6 +15127,46 @@ Keep track of games you need to get around to finishing.
 
 ***
 
+## [Gamez Facts](skills/B01NAL1EHF)
+
+*Alexa, open gamez fact*
+
+A Gamez Facts App for sharing facts for games.
+
+***
+
+## [ganddev](skills/B01MQTL1EW)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [ganddev](skills/B01N6I8MN7)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [ganddev](skills/B01NBN1NPR)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Gandhi Quotes](skills/B01MZZYKL9)
+
+*Alexa, start Gandhi Quotes*
+
+Gandhi Quotes.
+
+***
+
 ## [Garageio](skills/B017OBI3AQ)
 
 *Alexa, tell Garageio to close my door.*
@@ -10989,11 +15215,27 @@ Get's the latest price of gas by US state from AAA.
 
 ***
 
+## [Gasteig](skills/B01MS023OE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Gauss Fun Facts](skills/B01KGPDBVS)
 
 *Alexa tell Gauss Fact*
 
 Fun Facts about Carl Friedrich Gauss
+
+***
+
+## [Gautama Buddha Quotes](skills/B01MRZM3V7)
+
+*Alexa, open Gautama Buddha Quotes*
+
+Daily Gautama Buddha Quotes
 
 ***
 
@@ -11053,6 +15295,14 @@ Geeky Calculator can do geeky calculations for you
 
 ***
 
+## [Gelbe Seiten Marketing Gesellschaft mbH](skills/B01MA3KKTJ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Gender Facts](skills/B01K3CBPNU)
 
 *Alexa, ask Gender Facts for a fact*
@@ -11061,11 +15311,27 @@ Gender Facts gives interesting trivia facts about men and women.
 
 ***
 
+## [Genealogy Facts](skills/B01N0K3Z6E)
+
+*Alexa, open Genealogy Facts*
+
+Genealogy Facts
+
+***
+
 ## [General Class Ham Cram](skills/B01LFZ31GI)
 
 *Alexa, Start general ham cram*
 
 A quick quiz on the General Class Ham License Exam
+
+***
+
+## [General Electric Podcast Theater](skills/B01N2R3BN9)
+
+*Alexa, open GE Podcast Theater.*
+
+When you’re ready for your favorite podcasts, all you have to do is ask. Listen to The Message and LifeAfter with General Electric Podcast Theater for Alexa.
 
 ***
 
@@ -11117,6 +15383,14 @@ Get geography facts
 
 ***
 
+## [Geography Facts](skills/B01N1WX5WN)
+
+*Alexa, open Geography Facts*
+
+Geography Facts
+
+***
+
 ## [Geography Quiz](skills/B01J14QSUQ)
 
 *Alexa, start geography quiz*
@@ -11149,11 +15423,43 @@ A flash card game of the US capitals
 
 ***
 
+## [George Quotestanza (FANMADE)](skills/B01N9FWK70)
+
+*Alexa Open george quote stanza*
+
+Quotes from George Costanza - NOTE: this skill is not sponsored or endorsed by NBC.
+
+***
+
 ## [George Washington Quotes](skills/B01LZZJ2I0)
 
 *Alexa open George Washington Quotes*
 
 This is a skill to give quotes from the 1st president of the United States.
+
+***
+
+## [Georgia Tech Buses (Unofficial)](skills/B01N2SPQ8S)
+
+*Alexa, ask G. T. Buses for the next red bus*
+
+Ask Alexa for bus times and service alerts for Georgia Tech buses.
+
+***
+
+## [Georgia Tech Facts](skills/B01MTWXNP6)
+
+*Alexa, start Georgia Tech Facts*
+
+Gives a randomly selected Georgia Tech Fact
+
+***
+
+## [Georgia Tech Traditions](skills/B01MTTS6F3)
+
+*Alexa, launch Rambling Wreck*
+
+This skill will answer the question, “What’s the Good Word?” and share facts about Georgia Tech traditions. Mild profanity may be used.
 
 ***
 
@@ -11181,6 +15487,14 @@ knows all german license plate abbreviations and their cities.
 
 ***
 
+## [Germany Facts](skills/B01N9BMVWX)
+
+*Alexa, start germany facts.*
+
+The app gives some random facts about germany.
+
+***
+
 ## [Germany Trivia](skills/B01M5EEIZZ)
 
 *Alexa, open Germany trivia*
@@ -11194,6 +15508,22 @@ Trivia about Germany
 *There are no example interactions for this skill.*
 
 null
+
+***
+
+## [Get Burned!](skills/B01N1T9Y2Z)
+
+*Alexa Open Get Burned*
+
+Listen to some sick insults!
+
+***
+
+## [Get Expectation](skills/B01N4GSQMW)
+
+*Alexa Open Get Expectation*
+
+Get Expectation
 
 ***
 
@@ -11245,6 +15575,22 @@ The world class Giant Spoon app allows you to ask for world class marketing idea
 
 ***
 
+## [Gift Genie](skills/B01N01I1I4)
+
+*Alexa, ask Gift Genie, to help me find a gift for mom*
+
+Help randomly generate a gift idea.
+
+***
+
+## [Gift Ideas](skills/B01N1WW4TN)
+
+*Alexa Open Gift Ideas*
+
+Gift ideas
+
+***
+
 ## [GigglesWare](skills/B01KBV1SVM)
 
 *Alexa, Tell giggles John slept for two hours*
@@ -11277,6 +15623,22 @@ This is a skill full of facts of one of earth's most interesting mammals, the gi
 
 ***
 
+## [Giraffe Facts](skills/B01MYSZ6MH)
+
+*Alexa, ask Giraffe Facts for a fact about giraffes*
+
+fun facts about giraffes!
+
+***
+
+## [Giraffe Geek](skills/B01N9LZ94S)
+
+*Alexa, open Giraffe Geek*
+
+Learn all there is to know about giraffes!
+
+***
+
 ## [Girl Names](skills/B01I79048I)
 
 *Alexa, ask Girl Names to say a name*
@@ -11293,6 +15655,30 @@ Stanford Gismo lab demo
 
 ***
 
+## [Git Facts](skills/B01MYR44D8)
+
+*Alexa, ask GitFacts to tell me a fact*
+
+Some facts about git you should know.
+
+***
+
+## [GiveDirectly Fan (unofficial)](skills/B01N5GV6S5)
+
+*Alexa Open GiveDirectly Fan*
+
+Easily hear what GiveDirectly recipients are doing with their cash transfers
+
+***
+
+## [Glad Leftovers](skills/B01MSK0GFN)
+
+*Alexa, talk to Glad Leftovers*
+
+Glad Leftovers is a simple way to keep track of your food and pantry items in your kitchen.
+
+***
+
 ## [Glad Recycler](skills/B01LX7EGIN)
 
 *Alexa, talk to Glad Recycler*
@@ -11306,6 +15692,14 @@ Glad Recycler is a simple and fun way to quickly check if an item is recyclable 
 *Alexa, ask Glados to tell me something*
 
 Alexa quotes GLaDOS from Valve's Portal.
+
+***
+
+## [Glaring Importance](skills/B01MROPN5A)
+
+*Alexa, ask Glaring Importance for a fact*
+
+A collection of Christmas facts
 
 ***
 
@@ -11341,6 +15735,30 @@ Glympse allows family and friends to temporarily share their live location and E
 
 ***
 
+## [gmkaizen designs](skills/B01MQQIM6J)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [gmkaizen designs](skills/B01MTS7Z92)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [gmkaizen designs](skills/B01N5AFOG5)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Go Blue Football Trivia](skills/B01K8S2ELQ)
 
 *Alexa, launch Go Blue Football Trivia*
@@ -11373,6 +15791,22 @@ Are you interested in proverbial phrases? Rely on Go Phrase for hundreds of wide
 
 ***
 
+## [Go Proverbs](skills/B01MZZH05P)
+
+*Alexa, tell me a golang proverb from Go Proverbs*
+
+Learn the Go Proverbs.
+
+***
+
+## [Goal Tracker by Hoogalit](skills/B01N0OOPAR)
+
+*Alexa, open Goal Tracker*
+
+Keep track of your goals. Decide on a goal and target e.g. jogging, 4 times a week. Track your goal by telling Alexa each time you jog. Can you reach your goal?
+
+***
+
 ## [Goat Compliments](skills/B01M67TRVS)
 
 *Alexa ask Goat Compliments to compliment*
@@ -11397,19 +15831,19 @@ Test your knowledge of Greek and Roman mythological characters
 
 ***
 
+## [Golden Ticket](skills/B01NAH58TZ)
+
+*Alexa, open golden ticket*
+
+Given two movies, can you name the actor or actress that is in both?  Golden Ticket is a new movie trivia game that tests your film relational skills.
+
+***
+
 ## [Golf Facts](skills/B01EVTB5PY)
 
 *Alexa, Open Golf Fact*
 
 Golf Fact is an Alexa skill about, what else, GOLF!
-
-***
-
-## [Golf Info](skills/B01MCX9L58)
-
-*Alexa, ask golf info to give me some golf information*
-
-Golf informations
 
 ***
 
@@ -11437,6 +15871,14 @@ Good Advice inspires your everyday.
 
 ***
 
+## [Good Eats](skills/B01N9KMJRY)
+
+*Alexa ask Good Eats Is broccoli healthy*
+
+Service that helps people to find out if food is healthy or no.
+
+***
+
 ## [Good Housekeeping](skills/B01M0MKCZX)
 
 *Alexa, open Good Housekeeping.*
@@ -11445,11 +15887,27 @@ The Good Housekeeping experts will provide recommendations for how to remove the
 
 ***
 
+## [Good Housewife](skills/B01MSMA67A)
+
+*Alexa, open good housewife*
+
+This is an unofficial flash briefing that tells you different headlines from the good housekeeping
+
+***
+
 ## [Good Men](skills/B01HBZWDPG)
 
 *Alexa, ask goodmen where have the good men gone*
 
 Ask Alexa your troubles, where have the good men gone?
+
+***
+
+## [Good Morning](skills/B01MZ3YOTR)
+
+*alexa good morning*
+
+Good Morning
 
 ***
 
@@ -11493,14 +15951,6 @@ Will tell you if a character like "Batman" is a Good Guy or a Bad Guy.
 
 ***
 
-## [Gospel Library Reader](skills/B01IOY9N3I)
-
-*Alexa ask Gospel Library to Read Mosiah 3 verse 16*
-
-Scripture reader that is fast and easy!
-
-***
-
 ## [GoSpursTrivia](skills/B01DJ4ARKG)
 
 *Alexa, open go spurs trivia*
@@ -11533,11 +15983,35 @@ Test your English Grammar skills
 
 ***
 
+## [Grand Rapids Facts](skills/B01MT21O96)
+
+*Alexa, ask Grand Rapids Facts for a fact*
+
+Grand Rapids Facts gives interesting trivia facts about Grand Rapids, Michigan.
+
+***
+
+## [Grandmother's Cleaning Advice](skills/B01NADZLT7)
+
+*Alexa, Start Grandmother's Cleaning Advice*
+
+Don't you want to use and expensive house cleaning stuff? Then you can just ask the grandmother for a cleaning advice!
+
+***
+
 ## [GrandRapidsFact](skills/B01MG10ZPX)
 
 *Alexa Open Cello Facts*
 
 Find out facts about cellos.
+
+***
+
+## [Grange Insurance](skills/B01N2W1ICM)
+
+*Alexa ask Grange to locate my nearest agent.*
+
+Learn more about Grange Insurance and the insurance products offered by Grange Insurance.  Locate an independent agent that sells Grange Insurance.  Receive tips.  Grange Insurance: Providing Peace of mind during Life’s unexpected events
 
 ***
 
@@ -11606,11 +16080,11 @@ Greek Mythology Trivia
 
 ***
 
-## [Green Bus](skills/B01IYCDEPI)
+## [Greek Words](skills/B01N6JAH7U)
 
-*Alexa, open green bus*
+*Alexa, start Greek Words.*
 
-Ask Green Bus to get you arrival times for bus or train services
+A skill offering words with greek origin.
 
 ***
 
@@ -11619,6 +16093,14 @@ Ask Green Bus to get you arrival times for bus or train services
 *Alexa open Green Glass Door*
 
 Green Glass Door
+
+***
+
+## [Green Mystic Orb](skills/B01N1MXHZT)
+
+*Alexa, ask Mystic Orb for a tip*
+
+Get some useful wisdom from the Green Mystic Orb
 
 ***
 
@@ -11662,6 +16144,14 @@ Tells GMT or Greenwich Mean Time
 
 ***
 
+## [Greetings Galaxy](skills/B01MT38091)
+
+*Alexa, open greetings galaxy*
+
+This application will give you a polite space-themed greeting and present you with a random space fact.
+
+***
+
 ## [Gregory Roodt](skills/B01M9FEHJD)
 
 *There are no example interactions for this skill.*
@@ -11686,11 +16176,27 @@ Test your knowledge of the Gridiron's winners and MVPs.
 
 ***
 
+## [Grilling Guide](skills/B01N2NWEZF)
+
+*alexa open grill guide*
+
+Unofficial USDA Minimum internal cooking temperatures for a variety of meats.
+
+***
+
 ## [Grilling Time And Heat Settings](skills/B01HN4NUKW)
 
 *Alexa, launch grilling guide.*
 
 Grilling Guide asks you what you would like to grill, and returns the time and grilling method
+
+***
+
+## [Grove Trivia](skills/B01MRRIY6X)
+
+*Alexa start grove trivia*
+
+Grove Trivia Quiz
 
 ***
 
@@ -11862,6 +16368,14 @@ Use Guitar Tuner to tune your guitar.
 
 ***
 
+## [Gujarati geek](skills/B01N7MEGE6)
+
+*Alexa, ask Gujarati Geek a fact*
+
+GujaratiGeek
+
+***
+
 ## [Gumptown](skills/B01J97MC6E)
 
 *Alexa, ask gump town what's going on today*
@@ -11883,6 +16397,14 @@ Gyropedia Quiz.  Challenge yourself to answer 5 random questions on gyroplane kn
 *Alexa, ask H2O-Pal how much did I drink today.*
 
 The best way to track your water intake throughout the day. Works with companion H2O-Pal iPhone app and easily syncs with your H2O-Pal water bottle.
+
+***
+
+## [Habit Log](skills/B01N59YZK1)
+
+*Alexa tell Habit Log to add Workout*
+
+Easily track habits using Alexa and try to keep the chain!
 
 ***
 
@@ -11974,11 +16496,35 @@ Tell me the hail Mary
 
 ***
 
+## [Halloween Countdown](skills/B01MYSHROZ)
+
+*Alexa, open Halloween Countdown*
+
+Tells the number of days until Halloween.
+
+***
+
+## [Halo Fan Geek](skills/B01N3SOCWR)
+
+*Alexa Open Halo Fan Geek*
+
+An unofficial skill with facts about Halo. Not sponsored by Microsoft.
+
+***
+
 ## [Halo Fan Trivia Game](skills/B01N01F76Q)
 
 *Alexa Open Halo Fan Trivia Game*
 
 This is an unofficial trivia game for Halo.
+
+***
+
+## [Ham Radio General Class Exam Test](skills/B01N1U3EGJ)
+
+*Alexa Open ham radio exam*
+
+General Class Ham Radio Practice Exam
 
 ***
 
@@ -12003,6 +16549,14 @@ Test your knowledge of Ham Radio Technician Class concepts!
 *Alexa, ask Hamburg Facts to tell me something.*
 
 Hamburg Facts
+
+***
+
+## [HamilQuiz](skills/B01N9FXYEP)
+
+*Alexa Open hamilton quiz*
+
+Simple trivia game about the life of Alexander Hamilton
 
 ***
 
@@ -12051,6 +16605,14 @@ Fun facts about hamsters
 *Alexa open Hamurabi's Kingdom*
 
 Rule your kingdom, trying to keep your subjects alive year after year through famines and plagues.
+
+***
+
+## [Handee](skills/B01MSSQX9P)
+
+*Alexa Tell Handee my toilet is clogged*
+
+Add to your home to-do list.  Get pricing and availability information on some services.
 
 ***
 
@@ -12103,6 +16665,46 @@ Hanker is your go to local event guide for all that's happening in your city. Fr
 
 ***
 
+## [Hannover  Facts](skills/B01MZWKKUL)
+
+*Alexa open hannover facts*
+
+Fact Skill about the city Hanover , Germany
+
+***
+
+## [Hanselminutes Fan Podcast](skills/B01MA1LWQU)
+
+*Alexa, ask Hanselminutes fan for the latest episode.*
+
+Skill made by Hanselminutes fan to bring you your favorite show on Alexa enabled devices.
+
+***
+
+## [Hanukkah Facts](skills/B01N5COOWU)
+
+*Alexa, open Hanukkah Facts*
+
+It doesn't matter if you spell it Hanukkah or Chanukah, we are all here to celebrate! This fact skill is both festive & educational for the entire family.
+
+***
+
+## [Hanukkah Trivia - Jewish Holiday Quiz Game](skills/B01N0UEBNY)
+
+*Alexa play Hanukkah Trivia*
+
+Test your knowledge of Hanukkah and Jewish holiday history with this fun, multiple-choice quiz.
+
+***
+
+## [Happy Days](skills/B01MSY5HJF)
+
+*Alexa, open Happy Days*
+
+Gives a random positive quote.
+
+***
+
 ## [Happy Hour](skills/B01GQSHD18)
 
 *Alexa, ask the Bar Maid what's in a margarita.*
@@ -12119,6 +16721,22 @@ Do you know some of the ingredients to a Happy Marriage?  See if Alexa can help!
 
 ***
 
+## [Happy Quotes](skills/B01N6F3V6Y)
+
+*There are no example interactions for this skill.*
+
+Life is good, get a happy quote every day.
+
+***
+
+## [Hardcore History](skills/B01N8TOMI9)
+
+*Alexa, play Hardcore History*
+
+Was Alexander the Great as bad a person as Hitler? What was the greatest army of all time? Which US President was the worst? Hardcore History for history fans.
+
+***
+
 ## [Hardeep Sharma](skills/B01MEFDNO2)
 
 *There are no example interactions for this skill.*
@@ -12127,11 +16745,27 @@ null
 
 ***
 
+## [Harmony](skills/B01N4DMQ5P)
+
+*Alexa, tell Harmony to turn on the TV*
+
+Use Amazon Alexa with your Logitech Harmony hub-based remote to start and stop Harmony Activities, or to turn on your television to your favorite channel.
+
+***
+
 ## [Harmony — Optimized for Smart Home](skills/B01M4LDPX3)
 
 *There are no example interactions for this skill.*
 
 Use Amazon Alexa with your Logitech Harmony hub-based remote to start and stop Harmony Activities or tune to your favorite TV channel.
+
+***
+
+## [Harry Potter Fan Game](skills/B01MZ3OS4L)
+
+*alexa open harry potter fan game*
+
+A quick but challenging Harry Potter Fan trivia game to test your worth!
 
 ***
 
@@ -12183,6 +16817,14 @@ Check if you have an account that has been compromised in a data breach via the 
 
 ***
 
+## [Hawaii Facts](skills/B01N6L7MVZ)
+
+*Alexa, start Hawaii fact*
+
+Fun facts about the state of Hawaii.
+
+***
+
 ## [Hawaiian Time](skills/B01F6844R0)
 
 *Alexa, ask hawaiian time to tell me something*
@@ -12228,6 +16870,22 @@ Health Care Genius can help you understand strange terms in health care. For exa
 *Alexa, ask server status to perform a health check*
 
 A voice-triggered status check for the PowerChord PC6 API.
+
+***
+
+## [Health Facts](skills/B01MRY1CT7)
+
+*Alexa Open health Fact*
+
+This skill gives you some interesting health or nutrition info.
+
+***
+
+## [Health Nut](skills/B01NGZYR7U)
+
+*Alexa Open Health Nut*
+
+Health Nut gives you interesting relevant health and nutrition information.
 
 ***
 
@@ -12311,6 +16969,30 @@ Enable this skill for facts, encouragement, and motivation to help you meet your
 
 ***
 
+## [Henk's ISS finder](skills/B01NBGI5HM)
+
+*Alexa, ask henk's i.s.s finder where is the ISS*
+
+Retrieve the current location of the International Space Station
+
+***
+
+## [hennroja](skills/B01MSTMXSG)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [hennroja](skills/B01N9D8CZZ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Herango](skills/B01N3OADYO)
 
 *There are no example interactions for this skill.*
@@ -12319,11 +17001,19 @@ null
 
 ***
 
-## [Herb Guide](skills/B01GNNQU1A)
+## [Herky the Hawk](skills/B01N561IZU)
 
-*alexa ask  herb guide to tell about ginger*
+*Alexa ask Herky the Hawk to play*
 
-nutrition facts about multiple herbs
+Herky
+
+***
+
+## [Hermit Crab Facts](skills/B01MYXZS1M)
+
+*Alexa ask mister crabs for a crab fact*
+
+Random facts about Hermit Crabs
 
 ***
 
@@ -12332,6 +17022,14 @@ nutrition facts about multiple herbs
 *Alexa open hero facts*
 
 Hero Facts Skill
+
+***
+
+## [Hero Facts](skills/B01MXT6VTK)
+
+*Alexa, ask Hero facts to tell me a fact*
+
+Hero Facts
 
 ***
 
@@ -12348,6 +17046,30 @@ Test your super hero trivia knowledge and gain real geek cred with your friends.
 *Alexa open Hero Trivia*
 
 Hero Trivia is a game designed to increase your super hero knowledge because knowledge is power!
+
+***
+
+## [HerodotThukydides](skills/B01MSS7O71)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [HerodotThukydides](skills/B01N6G5ZFF)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [HerodotThukydides](skills/B01NAEUUZV)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -12375,6 +17097,30 @@ This is the number guessing game of “higher or lower.” In this game, you cho
 
 ***
 
+## [High School Band Facts](skills/B01MXOPYY9)
+
+*Alexa open high school band facts*
+
+Facts about being a member of a group where you perform as one body.
+
+***
+
+## [Higher or Lower](skills/B01MR0MIP1)
+
+*Alexa, start Higher or Lower*
+
+Guess the number Alexa is thinking of in this simple guessing game.
+
+***
+
+## [Higher Self](skills/B01N7EYODX)
+
+*Alexa, ask Higher Self to inspire me.*
+
+Focus your intention with non-denominational inspirational thoughts
+
+***
+
 ## [Highest Points in the United States](skills/B01M1JKUJ5)
 
 *Alexa, ask United States Highest Points, to give me one of the highest points in the country of United States of America*
@@ -12388,6 +17134,14 @@ Gives you information about the highest elevation point in one of the states in 
 *Alexa, start HighLowBot*
 
 Play a simple game with Alexa! Alexa picks a number from 0 to 100, and you have to guess it.
+
+***
+
+## [HighOrLow](skills/B01MYMX7MX)
+
+*Alexa, open high or low*
+
+This skill is a neat little high/low game.
 
 ***
 
@@ -12431,6 +17185,14 @@ A parody app based on http://ishipchatdown.com/
 
 ***
 
+## [Hippo Facts](skills/B01M6DJTBQ)
+
+*Alexa open Hippo Facts*
+
+Fun Facts About Hippos
+
+***
+
 ## [Hipster Jokes](skills/B01ELE3KZM)
 
 *Alexa, open Hipster Jokes.*
@@ -12452,6 +17214,22 @@ Learn more about famous women in history with this fact skill.
 *Alexa, ask History Bot what happened today*
 
 Receive history facts for any provided date.
+
+***
+
+## [History Facts](skills/B01NB9Y3C5)
+
+*Alexa ask history facts for a fact.*
+
+A set of historical facts based on misconceptions
+
+***
+
+## [History Today](skills/B01MT0G76N)
+
+*Alexa, ask History Today.*
+
+Find out what happened on this date.
 
 ***
 
@@ -12505,11 +17283,19 @@ This app gives you random facts about hockey.
 
 ***
 
+## [Hockey Fan](skills/B01NBK1G34)
+
+*Alexa ask hockey team for Kings*
+
+This skill will return you the last 5 plays in your favorite hockey game.
+
+***
+
 ## [Hockey Goals](skills/B01M227F59)
 
 *Alexa, Ask Hockey Goals for the Washington Capitals*
 
-Hockey Goals will play the goal celebration horn and sound of every major hockey team.
+Hockey Goals will play the goal celebration horn and sound of every NHL hockey team.
 
 ***
 
@@ -12518,6 +17304,14 @@ Hockey Goals will play the goal celebration horn and sound of every major hockey
 *Alexa ask hockey master*
 
 To Know about Ice Hockey and Ice hockey history.
+
+***
+
+## [Hockey Schedule and Score Checker](skills/B01N4GIDKQ)
+
+*Alexa ask Hockey Reference for the score for the Stars yesterday*
+
+Get score updates, future opponents, and stat leaders for every NHL team.
 
 ***
 
@@ -12545,6 +17339,30 @@ A Trivia about Harry Potter books & movies
 
 ***
 
+## [Hokie Helper](skills/B01NBP6V8H)
+
+*Alexa, ask Hokie Helper where can I go hiking?*
+
+A Hokie Ambassador designed to answer questions from Virginia Tech students.
+
+***
+
+## [Holiday Destination Finder](skills/B01N6I3PXE)
+
+*Alexa Open holiday finder*
+
+Helps to find out holiday destinations at one shot
+
+***
+
+## [Holiday Destinations](skills/B01N9F2BHQ)
+
+*Alexa, open Holiday Destinations*
+
+Holiday Destinations helps you to decide what could be the best place to go on a vacation.
+
+***
+
 ## [Holiday Freak](skills/B01GLRZRLM)
 
 *Alexa, ask Holiday Freak to give me today's holidays*
@@ -12569,6 +17387,14 @@ Holy Grail Trivia Questions
 
 ***
 
+## [Holy Quraan](skills/B01NA9OQPA)
+
+*Alexa open holy quraan*
+
+Play the Holy Quraan by just playing the chapter reference number.
+
+***
+
 ## [Holy Rosary](skills/B01JZNXEEG)
 
 *Alexa ask Holy Rosary to pray the Joyful Mysteries*
@@ -12582,6 +17408,30 @@ Holy Rosary allows you to pray the Holy Rosary along with Alexa. Simply say the 
 *Alexa launch home bartender*
 
 Alexa will help you make one of several mixed drinks.
+
+***
+
+## [Home Butler](skills/B01MRVUO2F)
+
+*Alexa tell home butler turn on the master bedroom to apple tv*
+
+Unofficially add Alexa voice control to your RTI control systems.
+
+***
+
+## [Home Connect GmbH](skills/B01N2RDLLK)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Home Connect GmbH](skills/B01N5CUPTA)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -12619,11 +17469,35 @@ Instantly connect with pre-screened home service professionals for hundreds of h
 
 ***
 
+## [Homeboy](skills/B01MRTSAOS)
+
+*Alexa Open Homeboy*
+
+Homeboy is the world’s most accessible home security system. Control your Homeboy devices through Alexa with this skill.
+
+***
+
+## [HomeMate](skills/B01N0H1YUH)
+
+*Alexa,ask home mate to turn on the light at seven twenty*
+
+Use HomeMate to control your devices through the Amazon's Echo.
+
+***
+
 ## [Homeopathy](skills/B01JBJNCA0)
 
 *Alexa, ask doctor remigio for common cold*
 
 Home made natural remedies for common symptoms.
+
+***
+
+## [HomeRepairAdvisor](skills/B01N3YGZ1S)
+
+*alexa ask the home repair advisor how do i calculate square footage*
+
+The Home Repair Advisor Skill answers questions on how to may simple home repairs.
 
 ***
 
@@ -12659,11 +17533,19 @@ This skill gives the user interesting honey bee facts.
 
 ***
 
-## [Honeywell](skills/B01LXC3V58)
+## [Honeydew](skills/B01NCJQGUV)
 
-*There are no example interactions for this skill.*
+*Alexa, ask my Honeydew to add milk.*
 
-null
+Honeydew is a grocery list designed for families.
+
+***
+
+## [Honeywell Lyric](skills/B01NBB0W8G)
+
+*Alexa, set Living Room to 20 degrees*
+
+Honeywell Lyric T6
 
 ***
 
@@ -12683,11 +17565,27 @@ Control your Honeywell Total Connect Comfort thermostat
 
 ***
 
+## [Honeywell Total Connect Comfort International](skills/B01LXC3V58)
+
+*Alexa, set Living Room to 20 degrees*
+
+With the Honeywell skill and Alexa, you can now interact with your Honeywell evoHome and Single Zone Thermostats with your voice.
+
+***
+
 ## [hong kong facts](skills/B01KDGK4AG)
 
 *Alexa, Open hong kong facts*
 
 hong kong facts
+
+***
+
+## [Hoop Trivia](skills/B01N1WDLPO)
+
+*Alexa, ask hoop trivia to tell me a hoop fact*
+
+Tells you a fact about basketball.
 
 ***
 
@@ -12756,6 +17654,14 @@ Find out about the top trending micro brew.
 
 ***
 
+## [Houm](skills/B01KA9NJ8K)
+
+*There are no example interactions for this skill.*
+
+Control your Houm connected lights via Alexa.
+
+***
+
 ## [HoundMe by Argusware](skills/B01L9C47MO)
 
 *Alexa, ask hound me who is the best dog in the world.*
@@ -12809,6 +17715,14 @@ This skill allows HouseBot home automation system users to control and monitor s
 *Alexa, start thrones trivia*
 
 Test your knowledge of Westeros. A multiple-choice trivia game where you have to match a place in Westeros to its corresponding ruling House. Valar morghulis
+
+***
+
+## [How Many Sleeps](skills/B01N9APXL7)
+
+*Alexa open how many sleeps*
+
+Ask Alexa how many sleeps are left until Christmas Day!
 
 ***
 
@@ -12881,6 +17795,22 @@ Ask if Hubble is visible in the sky in your city!
 *There are no example interactions for this skill.*
 
 With Alexa and Philips Hue you can easily set the lights for your daily activities and enhance your special moments. All you have to do is ask.
+
+***
+
+## [Hue](skills/B01LYQA2RR)
+
+*There are no example interactions for this skill.*
+
+With Alexa and Philips Hue you can easily set the lights for your daily activities and enhance your special moments. All you have to do is ask.
+
+***
+
+## [Hue](skills/B01MPX3JNE)
+
+*There are no example interactions for this skill.*
+
+Mit Alexa und Philips Hue können Sie ganz einfach Ihr Licht für alltägliche Aktivitäten einstellen und besondere Momente unterstreichen. Alles was Sie tun müsse
 
 ***
 
@@ -13020,6 +17950,22 @@ Hunter Helper tells you where monsters go to sleep.
 
 ***
 
+## [Huntington Beach Facts](skills/B01N6GNS5I)
+
+*Alexa Open huntington beach facts*
+
+Facts about Huntington Beach, California.
+
+***
+
+## [Huntsville Facts](skills/B01N1EZ00M)
+
+*Alexa, ask Huntsville Facts to tell me a fact about Huntsville.*
+
+Learn interesting facts about Huntsville.
+
+***
+
 ## [HuntWise](skills/B01MXE2UKQ)
 
 *Alexa, open HuntWise*
@@ -13049,6 +17995,22 @@ Ask Alexa to tell you facts about hurricanes
 *Alexa, ask husky pro for a fact*
 
 Fun facts about the University of Connecticut
+
+***
+
+## [Husseini Islamic Center](skills/B01NBJP14J)
+
+*Alexa, Ask H. I. C. if the live stream is playing*
+
+Husseini Islamic Center Orlando
+
+***
+
+## [HydroTrivia](skills/B01N7IYZEM)
+
+*Alexa Play My hydro trivia*
+
+Hydro Trivia
 
 ***
 
@@ -13084,11 +18046,27 @@ Play this fun Pokemon guessing game!
 
 ***
 
+## [I Just Sneezed](skills/B01N8S6F2I)
+
+*Alexa, I just sneezed*
+
+This skill blesses you when you sneeze and there's no one around
+
+***
+
 ## [I Love Lamp](skills/B01L4L8UC8)
 
 *Alexa, start i love lamp*
 
 This skill gives you random facts about different kinds of lamps.
+
+***
+
+## [I miss him](skills/B01NABPUJQ)
+
+*Alexa ask i miss you I miss her*
+
+Long distance bumming you out? Maybe this will help!
 
 ***
 
@@ -13113,6 +18091,22 @@ I. T. U. holiday list
 *Alexa, start i. t. u. leadership*
 
 List of officers at ITU
+
+***
+
+## [icanhazdadjoke](skills/B01N6CQ3NZ)
+
+*Alexa, dad joke*
+
+Teach Alexa how to tell dad jokes.
+
+***
+
+## [Ice Breaker](skills/B01N2YBWZK)
+
+*Alexa, launch Ice Breaker.*
+
+Break the ice with this party skill!
 
 ***
 
@@ -13196,6 +18190,30 @@ Helps you get your day going by telling you a saying to help improve yourself.
 
 ***
 
+## [Improved Trivia](skills/B01N4CZL66)
+
+*Alexa Open Improved Trivia*
+
+This application allows you to test your knowledge in your area of interest. The application asks questions and scores you.
+
+***
+
+## [Inbound Asteroid](skills/B01N0TW4V0)
+
+*Alexa, tell Inbound Asteroid to find meteors for tomorrow*
+
+Find the comet, asteroid, or meteor nearest to you!
+
+***
+
+## [Inconceivable Quotes](skills/B01N56RJHQ)
+
+*Alexa, open Inconceivable Quotes*
+
+Unofficial fan tribute to the "inconceivable" quotes of The Princess Bride
+
+***
+
 ## [InControlHA](skills/B01DW7TVQ6)
 
 *Alexa, ask InControl to activate the scene leaving home.*
@@ -13260,6 +18278,22 @@ Facts about India
 
 ***
 
+## [India Facts](skills/B01MQKPNAO)
+
+*Alexa, ask India Facts to tell me a fact about india*
+
+India facts
+
+***
+
+## [India Facts](skills/B01N5GED41)
+
+*Alexa Open india facts*
+
+Interesting facts about India
+
+***
+
 ## [India News](skills/B01DBF7SJG)
 
 *Alexa, ask india news*
@@ -13300,11 +18334,27 @@ India Facts
 
 ***
 
+## [Indian Cricket Facts](skills/B01N0RCXPJ)
+
+*alexa open turbo guy*
+
+interesting facts on indian cricket history
+
+***
+
 ## [Indian Facts](skills/B01M99GCYT)
 
 *Alexa, open Indian facts*
 
 Indian Fact - Learn interesting facts about india
+
+***
+
+## [Indian Fest](skills/B01MXNKSWC)
+
+*Alexa, open Indian Fest*
+
+Welcome to Indian Fest. Your calendar for indian festivals. I can tell you about major upcoming indian festivals throughout the year.
 
 ***
 
@@ -13388,6 +18438,14 @@ Random facts about indie music.
 
 ***
 
+## [Indira Info](skills/B01N4HE4IL)
+
+*Alexa open indira info*
+
+Information on the name Indira
+
+***
+
 ## [Indonesian Facts](skills/B01DQJVQ54)
 
 *Alexa, ask Indonesian facts to tell me a fact*
@@ -13396,11 +18454,59 @@ Indonesian Facts: All fun, cool, interesting, and educative information about In
 
 ***
 
+## [Indonesian Trivia](skills/B01N2UB15W)
+
+*There are no example interactions for this skill.*
+
+Trivia game about Indonesia.
+
+***
+
+## [Infinite Memory Game](skills/B01N4BX8CC)
+
+*Alexa, start the infinite memory game*
+
+Tests your memory retention ability by asking you to repeat a series of numbers in reverse.
+
+***
+
 ## [Informed Voter](skills/B01M31P60O)
 
 *Alexa, ask Informed Voter where I can vote*
 
 The Informed Voter let's you know where you can vote for this year's election.
+
+***
+
+## [Infostretch Nest](skills/B01MST11HR)
+
+*Alexa, ask Infostretch Nest to check my PTO balance*
+
+Ask Infostretch Nest about your leave balance, holidays, birthdays, trainings, expense request status & your team's planned, scheduled leaves & expense requests
+
+***
+
+## [Ingo Larch](skills/B01MYSPO0B)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Ingo Larch](skills/B01N7B7L10)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Ingo Larch](skills/B01NABA470)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -13428,11 +18534,11 @@ Integration with the Ingrein Clock that allows to switch in between passive mode
 
 ***
 
-## [innogy SE](skills/B01LYA1NI7)
+## [innogy SmartHome](skills/B01LYA1NI7)
 
 *There are no example interactions for this skill.*
 
-null
+Mit Amazon Alexa und innogy SmartHome können Sie jetzt bequem per Sprache Ihr Zuhause steuern.
 
 ***
 
@@ -13468,11 +18574,35 @@ The Inspiration From Daily Word skill offers samples of affirmations, messages, 
 
 ***
 
+## [Inspirational Bible Verses](skills/B01N48F2SE)
+
+*Alexa, ask Inspirational Bible Verses to tell me a verse*
+
+Get daily encouragement from inspirational Bible verses
+
+***
+
 ## [Inspirational Mormon Quotes](skills/B01HLGD6AQ)
 
 *Alexa, ask mormon quotes to inspire me*
 
 Random inspirational quotes from LDS leaders and other figures in history.
+
+***
+
+## [Inspirational Quote](skills/B01LY5DBKH)
+
+*Alexa, tell me an inspirational quote*
+
+Get a daily Inspirational Quote from Alexa
+
+***
+
+## [inspirational quotes](skills/B01MQNGO54)
+
+*Alexa open inspirational quotes.*
+
+Inspirational quotes
 
 ***
 
@@ -13556,6 +18686,14 @@ Use Inspire with your Alexa App to INSPIRE ME yourself! It'll give you the littl
 
 ***
 
+## [Inspire Fire](skills/B01N7LJQ8H)
+
+*Alexa Open Inspire Fire*
+
+This skill presents profound self-improvement sentiments in concise statements by Alexa.
+
+***
+
 ## [Inspire Me](skills/B01FOC3LCM)
 
 *Alexa, Inspire Me.*
@@ -13564,11 +18702,35 @@ Start your day with inspirational audio from Alexa!
 
 ***
 
+## [Inspire Me](skills/B01MRNF89Y)
+
+*Alexa open Inspire Me*
+
+Inspire Me - get an inspiring quote of the day
+
+***
+
+## [Inspire Me](skills/B01N7COHNE)
+
+*Alexa open Inspire Me*
+
+Get inspired by a movie quote
+
+***
+
 ## [Inspire ME](skills/B01L6P35BS)
 
 *Alexa, inspire me*
 
 Inspire me is an app that you tell you inspirational quote. Use it to get your day started or after a long hectic day.
+
+***
+
+## [Inspiring lines](skills/B01N2T2PUS)
+
+*Alexa tell some inspiring words*
+
+Gives you some inspiring lines.
 
 ***
 
@@ -13585,6 +18747,14 @@ An inspiring quote for the day.
 *Alexa, open inspiring quotes*
 
 Inspiring quotes
+
+***
+
+## [Instant Analytics Brooklyn Queens Connector Facts](skills/B01NAE3KUD)
+
+*Alexa, open i. a. b. q. x.*
+
+Instant Analytics Presents: Facts about the proposed Brooklyn Queens Connector (BQX)
 
 ***
 
@@ -13609,6 +18779,14 @@ The most affordable, complete, connected home solution
 *Alexa ask Insult Generator to generate an insult*
 
 This skill is a simple insult generator. There are currently 90+ insults available for Alexa to randomly say.
+
+***
+
+## [insult me](skills/B01MSWC90W)
+
+*alexa insult me*
+
+spits out a random (PG) insult
 
 ***
 
@@ -13670,7 +18848,7 @@ null
 
 ## [Interactive Fiction](skills/B01IVEANGM)
 
-*Alexa, ask Interactive Fiction to open Galatea*
+*Alexa, ask Interactive Fiction to download Galatea*
 
 Alexa Z-machine for interactive fiction
 
@@ -13713,6 +18891,14 @@ This skill gives very interesting facts about the country of India.
 *Alexa, tell me an interesting quote about Bill from Interesting Man*
 
 Most Interesting Man quotes about anyone.
+
+***
+
+## [Interesting Owl Facts](skills/B01MTIX9SG)
+
+*Alexa, open interesting owl facts.*
+
+Tell You an Interesting Owl Fact
 
 ***
 
@@ -13844,6 +19030,14 @@ Invention Facts is a skill of the top inventions that have changed our way of li
 
 ***
 
+## [Invention of the Day](skills/B01M9I16P9)
+
+*Alexa Open Invention of the Day*
+
+Ask Inventazon for a daily invention fact.
+
+***
+
 ## [Inventors game](skills/B01M3W0533)
 
 *Alexa open inventors game*
@@ -13865,6 +19059,14 @@ Investing Facts contains interesting facts about the art of investing.
 *Alexa, open investing quotes.*
 
 Learn famous Investing Quotes with this Alexa skill.
+
+***
+
+## [ioBroker SmartHome](skills/B01MRXCC3J)
+
+*Alexa schalte Wohnzimmer Licht an*
+
+Es wird möglich die Geräte zu steuern, die von ioBroker unterstützt sind. Genaue Beschreibung für ioBroker kann man hier finden: http://iobroker.net
 
 ***
 
@@ -13932,6 +19134,14 @@ This skill allows Alexa to provide you with some fun and interesting facts about
 
 ***
 
+## [Is it Gluten Free?](skills/B01MXNAU61)
+
+*Alexa, ask gluten free if oats are gluten free*
+
+Trying to eat, cook or serve gluten free? Need to check your ingredients? Just ask your Echo if an ingredient is gluten free and she'll tell you.
+
+***
+
 ## [Is it the weekend](skills/B01LWKA8KB)
 
 *Alexa open Is it the weekend*
@@ -13945,6 +19155,14 @@ You need to know if it's time to go in weekend ? Ask to Alexa!
 *Alexa, ask Lake Travis if it's full yet*
 
 Is The Lake Full Yet?. Ask Lake Travis if the lake is full yet.
+
+***
+
+## [isitdown](skills/B01MZ2UR12)
+
+*Alexa ask is it down to check amazon dot com*
+
+Check if a given website is down for just you or not.
 
 ***
 
@@ -13977,6 +19195,22 @@ International Space Station companion App for the ISS-Above
 *Alexa, ask Issac for the Daily Missions*
 
 Issac provides useful information for The Division video game.
+
+***
+
+## [istavrak](skills/B01N7GJQYD)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [IsTaxationTheft](skills/B01NANQ70O)
+
+*Alexa, is taxation theft*
+
+Answers the age old question of if taxation is theft
 
 ***
 
@@ -14036,6 +19270,14 @@ Send and receive messages from Alexa.
 
 ***
 
+## [Jack Facts](skills/B01MXWHPZZ)
+
+*Alexa Open jack facts*
+
+All the facts about Jack
+
+***
+
 ## [Jack's Trivia](skills/B01DJC8RZA)
 
 *Alexa, open jack's trivia*
@@ -14060,11 +19302,35 @@ null
 
 ***
 
+## [jacobsHack](skills/B01MTMKMMG)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Jacques Botha](skills/B01MTRY93G)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Jamaica Facts](skills/B01MG3Q8C6)
 
 *Alexa, open Jamaica Facts*
 
 Facts About Jamaica
+
+***
+
+## [Jamaican Trivia Game](skills/B01N9HMZNA)
+
+*Alexa Open Jamaican Trivia*
+
+Test Your Knowledge On Jamaica!
 
 ***
 
@@ -14124,6 +19390,22 @@ This skill gives a random fact about Java.
 
 ***
 
+## [Java Fundamentals Quiz](skills/B01N9D4JB2)
+
+*Alexa, play Java Fundamentals Quiz*
+
+Test your knowledge of Java Fundamentals!
+
+***
+
+## [Java Nerd](skills/B01N2V6GGX)
+
+*Alexa Open java nerd*
+
+Java tips
+
+***
+
 ## [Java Quiz Game](skills/B01FNPFJOI)
 
 *Alexa, open java quiz*
@@ -14145,6 +19427,14 @@ Are you learning how to use programming language Java? Now you can test the fund
 *Alexa, open java trivia.*
 
 Java trivia
+
+***
+
+## [Javascript Geek](skills/B01MS30JYF)
+
+*Alexa Open Javascript Geek*
+
+Javascript Facts
 
 ***
 
@@ -14172,6 +19462,22 @@ Trivia for Javascript.
 
 ***
 
+## [Javier Today](skills/B01N4H6L0G)
+
+*Alexa, launch Javier Today*
+
+Javier Today
+
+***
+
+## [jaywayco](skills/B01MZ0QFT7)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Jazz Trivia](skills/B01C7XTYR2)
 
 *Alexa, start Jazz Trivia*
@@ -14185,6 +19491,14 @@ Test your knowledge of jazz music!
 *Alexa, start jazz trivia game*
 
 A game that tests knowledge about jazz
+
+***
+
+## [JCCC Kid Trivia](skills/B01MY2PP8K)
+
+*alexa ask Chinese School Trivia to start*
+
+Trivia about Chinese students at the Joyous Chinese Cultural Center.
 
 ***
 
@@ -14212,6 +19526,14 @@ Jessica Sanchez Trivia is a trivia game about Jessica Sanchez, finalist in Ameri
 
 ***
 
+## [Jesus Christ](skills/B01N4FK7G9)
+
+*Alexa Open jesus gizmo*
+
+A great app which tells you amazing unknown facts about THE GREATEST MAN WHO EVER LIVED ON THE EARTH - JESUS CHRIST. Learn and have Fun with Alexa Jesus Gizmo.
+
+***
+
 ## [Jesús Espejo](skills/B01M23OVVR)
 
 *There are no example interactions for this skill.*
@@ -14228,19 +19550,43 @@ null
 
 ***
 
-## [Jewish Music](skills/B01L5Z0ZX0)
+## [Jewish Music](skills/B01M8QKQEY)
 
-*Alexa, ask JewishMusic Stream to play*
+*Alexa, ask Jewish Music to play*
 
 Streaming the best Jewish music online!
 
 ***
 
-## [Jewish Music](skills/B01M8QKQEY)
+## [Jewish Radio](skills/B01NBAGCGO)
 
-*Alexa, ask JewishMusic to play*
+*Alexa, ask Jewish Radio to play*
 
-Streaming the best Jewish music online!
+Streaming the best Jewish content online!
+
+***
+
+## [jgontrum](skills/B01MST70AN)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [jgontrum](skills/B01N9CHCE5)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [jgontrum](skills/B01N9FDO4C)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -14276,6 +19622,22 @@ Ten facts about Jim Wyatt
 
 ***
 
+## [Joao Duarte](skills/B01N2W9TG1)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Job Info](skills/B01N6D7N6L)
+
+*Alexa, ask Job Info how much web developers earn*
+
+Learn about any career instantly with only your voice
+
+***
+
 ## [Job Search by ZipRecruiter](skills/B01IFZFQQO)
 
 *Alexa, ask Zip Recruiter to find me a developer job in San Francisco*
@@ -14293,6 +19655,46 @@ Search Marvel Comics' online database of characters and comics
 ***
 
 ## [Joel Elliston](skills/B01MTKFFOF)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Johannes](skills/B01MQRLDP6)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Johannes](skills/B01MXZI74L)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Johannes](skills/B01N49H904)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Johannes Jaeger](skills/B01N2NWKJE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Johannes Jaeger](skills/B01NBHMY23)
 
 *There are no example interactions for this skill.*
 
@@ -14324,6 +19726,14 @@ From guided tastings to blend recommendations, explore nearly two centuries of w
 
 ***
 
+## [Joke Fairy (unofficial Reddit joke search)](skills/B01N6IMCAP)
+
+*Alexa ask joke fairy to tell me a joke about russia*
+
+Ask joke fairy to tell you a joke about anything you like. Have fun!
+
+***
+
 ## [joke me](skills/B01L294XQY)
 
 *Alexa, start joke me*
@@ -14332,11 +19742,27 @@ jokeme allows you to listen to a joke.
 
 ***
 
+## [Joke Monkey](skills/B01MXEYPEP)
+
+*Alexa, open Joke Monkey*
+
+Joke Monkey tells you a random bad joke.
+
+***
+
 ## [Joke of the day](skills/B01L2BWNXC)
 
 *Alexa, start Joke of the day.*
 
 Joke of the day
+
+***
+
+## [Joke Responder](skills/B01MU3YL0G)
+
+*Alexa, ask Joke Responder for 'knock knock'*
+
+You can tell Alexa jokes and have her play along
 
 ***
 
@@ -14364,6 +19790,14 @@ Alexa tells knock knock jokes!
 
 ***
 
+## [Jokes and Puns](skills/B01MTTQ4NE)
+
+*Alexa, ask Teddy's Jokes to tell me a joke.*
+
+MyJokesAndPuns
+
+***
+
 ## [Jokes Galore](skills/B01M70Z5AY)
 
 *Alexa, open Jokes Galore*
@@ -14377,6 +19811,14 @@ Funny puns and jokes for any one looking for a chuckle.
 *Alexa, ask Jokes Plus Plus for a computer science joke.*
 
 An expansion of Alexa's cheesy jokes for all you CS majors out there.
+
+***
+
+## [Jokester](skills/B01MS1VY8V)
+
+*Alexa ask joke teller for a joke*
+
+Tells some clean, but pretty cheesy jokes.
 
 ***
 
@@ -14397,7 +19839,55 @@ Everybody wants short and quick funny sayings to cheer them up.
 
 ***
 
+## [jonaskeutel](skills/B01MRPEKRL)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [jonaskeutel](skills/B01MTUPB0J)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [jonaskeutel](skills/B01N0I6WZW)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [jonaskeutel](skills/B01NCI8Z8X)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Jonny Wilson](skills/B01M20X4UP)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Jordi Trip](skills/B01NCL6JAS)
+
+*Alexa, open jordi trip*
+
+Travel Echo function, it will tell you a diferents destinations
+
+***
+
+## [Joseph Douce](skills/B01N8QC1CF)
 
 *There are no example interactions for this skill.*
 
@@ -14421,11 +19911,51 @@ Tells you a few facts about JavaScript.
 
 ***
 
+## [jtolksdo](skills/B01MQNZQL2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [jtolksdo](skills/B01MYR2TM9)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [JudgeOutfit](skills/B01NBQL1TW)
+
+*Alexa, how's my outfit*
+
+Gets outfit recommendation from server
+
+***
+
 ## [Juggling Teacher](skills/B01L4TT84E)
 
 *Alexa, start juggling teacher.*
 
 Teaches users to juggle with basic instructions
+
+***
+
+## [Juke Box](skills/B01LXCKTS7)
+
+*Alexa, play Jukebox*
+
+Play short sounds recorded by the community of Echo users.
+
+***
+
+## [Jürgen Carstensen](skills/B01MXU6CJN)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -14445,11 +19975,75 @@ Allows Just Energy customers to get bill details and ask for random energy fact
 
 ***
 
+## [Juwelo TV Deutschland GmbH](skills/B01MTTOUJF)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Juwelo TV Deutschland GmbH](skills/B01N2L6YQ9)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [K42](skills/B01NA8LA2E)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Kay Lerch](skills/B01NCLI9UF)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [KAYAK](skills/B01EILLOXI)
 
 *Alexa, ask KAYAK how much it costs to fly from New York to Boston*
 
 Alexa + KAYAK = hands-free travel planning. Get information on flights, hotels & rental cars. Hear flight status updates, destination suggestions & more.
+
+***
+
+## [kaybit](skills/B01MROU0ZG)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [kaybit](skills/B01MRPNPA2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [kaybit](skills/B01N1KL7EO)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [KC Trivia](skills/B01N67E9R2)
+
+*Alexa Open Kansas City Trivia*
+
+Kansas City Trivia Game
 
 ***
 
@@ -14485,6 +20079,14 @@ This skill provides facts about the Kentucky Legislature.
 
 ***
 
+## [KetchupDip.com](skills/B01N4G4P31)
+
+*Alexa ask ketchup dip dot com for the recipe*
+
+Provides the ketchup dip recipe from ketchupdip.com
+
+***
+
 ## [Keto Pal](skills/B01HGYLRC2)
 
 *Alexa, open Keto Pal*
@@ -14511,11 +20113,35 @@ Key Finder will assist you in remembering the last location of your key.
 
 ***
 
+## [Keyboard Geek](skills/B01MU36EL9)
+
+*Alexa, open Keyboard Geek.*
+
+gives you facts about keyboards
+
+***
+
+## [Kharkiv's Facts](skills/B01MXYQS2Y)
+
+*There are no example interactions for this skill.*
+
+Facts about Kharkiv, city of Ukraine
+
+***
+
 ## [KidsMD](skills/B01E3F0AUC)
 
 *Alexa, ask Kids M.D.*
 
 Seek general health information for common ailments and medication dosing from Boston Children's Hospital. Does not provide individual medical advice.
+
+***
+
+## [Kilometers2Miles](skills/B01MRO0YMH)
+
+*Alexa, ask kilometers To Miles convert ten miles to kilometers*
+
+Fast and Easy conversion between Kilometers - Miles and Miles to Kilometers
 
 ***
 
@@ -14551,6 +20177,22 @@ Discover the best products and gear recommended by experts and influencers.
 
 ***
 
+## [Kitchen Scale](skills/B01MY0DSEE)
+
+*Alexa ask Kitchen Scale how much does one cup of honey weigh*
+
+This app tells you the weight of common baking ingredients.
+
+***
+
+## [Kitchen Sink](skills/B01MD1IGWD)
+
+*Alexa, ask kitchen sink what can I make with avocado.*
+
+Want to cook but not sure what? Tell Alexa what's on hand and get a list of recipes!
+
+***
+
 ## [Kitchen Tips](skills/B01ILKXCTG)
 
 *Alexa, ask Kitchen Tips to tell me a kitchen tip*
@@ -14572,6 +20214,22 @@ Alexa tells facts about kites
 *Alexa, open kitty lover test*
 
 A test for true kitty lovers or lovers wannabe.
+
+***
+
+## [Klaus Breuer](skills/B01MZY0Q9Q)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Klingon Dictionary](skills/B01NCQOLNS)
+
+*alexa open klingon dictionary*
+
+Gives access to Klingon language resources
 
 ***
 
@@ -14607,6 +20265,14 @@ Knock, knock! Who's there? The best collection of knock-knock jokes for the Amaz
 
 ***
 
+## [Know Bangladesh](skills/B01MZ00FXV)
+
+*Alexa, open b. d. facts*
+
+Use this skill to know about Bangladesh which is home to 700 rivers; royal bengal tiger; most of the Sundarbans and 170 million people.
+
+***
+
 ## [Know India](skills/B01LHWNV8W)
 
 *Alexa launch simply india*
@@ -14639,11 +20305,27 @@ Query any knowledge base article in confluence instance
 
 ***
 
+## [Knowledge of the Gods](skills/B01NBK725L)
+
+*Alexa Open knowledge of the gods*
+
+A little quiz on all things Greek Mythology.
+
+***
+
 ## [Koala Facts](skills/B01LZAAZI2)
 
 *Alexa, open koala facts*
 
 Koala Facts
+
+***
+
+## [koi fish facts](skills/B01MT3003E)
+
+*Alexa, open koi fish facts*
+
+Random facts about koi fish
 
 ***
 
@@ -14663,11 +20345,19 @@ Facts about Korea
 
 ***
 
-## [Korean Air](skills/B01J4OBZ1K)
+## [KoreaGeek](skills/B01N1WNXF1)
+
+*Alexa ask korea geek for a korea fact*
+
+Simple facts about Korea
+
+***
+
+## [Korean Air](skills/B01N0HCUBJ)
 
 *Alexa, ask Korean Air*
 
-Get flight status for any Korean Air flight.
+Get flight status for any Korean Air flight by flight number or by route
 
 ***
 
@@ -14684,6 +20374,14 @@ Korean Facts allows you to learn facts about Korea.
 *Alexa, open korean food facts*
 
 Korean Food Facts contains interesting tidbits about Korean cuisine!
+
+***
+
+## [Korean Food Helper](skills/B01N9EEF19)
+
+*Alexa, ask korean food helper to How can I build a kimchi*
+
+Provides information about Korean traditional food.
 
 ***
 
@@ -14727,6 +20425,30 @@ Control Korner Home Security with commands such as Arm.
 
 ***
 
+## [KruegerHistory](skills/B01MT1GJ96)
+
+*Alexa, play Krueger History*
+
+Quiz about the famous Krueger family.
+
+***
+
+## [KS-Research](skills/B01MTYK20N)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Kuna](skills/B01NCA71CF)
+
+*There are no example interactions for this skill.*
+
+Alexa Can Now Control Your Kuna Powered Smart Light(s)
+
+***
+
 ## [Kwok](skills/B01M4IHBH3)
 
 *There are no example interactions for this skill.*
@@ -14740,6 +20462,14 @@ null
 *Alexa, ask the L Train when it's coming?*
 
 Ask Alexa when the next train is coming to your NYC MTA L train stop, and listen to the current L train status.
+
+***
+
+## [L.A. City](skills/B01MXYESZY)
+
+*Alexa Open L. A. City*
+
+Alexa, open L.A. City
 
 ***
 
@@ -14759,6 +20489,14 @@ Ask LA Surf Bot for current conditions, including wind and tide, at top LA surf 
 
 ***
 
+## [Labracadabra](skills/B01N2PL7B9)
+
+*Alexa, open Labracadabra.*
+
+Guided experiments that captivate and inspire the scientist in all. It’s the magic of science, made simple. Imagined by the scientists at GE.
+
+***
+
 ## [Ladybird facts](skills/B01M2WWGD7)
 
 *Alexa Ask ladybird facts To give me a ladybird fact*
@@ -14767,11 +20505,59 @@ Interesting facts about the Ladybird inspect.
 
 ***
 
+## [LAGCOX](skills/B01MRRW7EO)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [LAGCOX](skills/B01MSU1J0T)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [LAGCOX](skills/B01N5AA2F3)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Laguna Beach Facts](skills/B01MU6BFYG)
+
+*Alexa Open laguna beach facts*
+
+Facts about Laguna Beach, California.
+
+***
+
+## [LagunaGeek](skills/B01MQZ0TUS)
+
+*Alexa Open LagunaGeek*
+
+LagunaGeek
+
+***
+
 ## [Lambda calculus quiz](skills/B01FZJCA6M)
 
 *Alexa lambda games*
 
 A brief quiz on the history and modern naming of lambda calculus, a formalized language for effective computability.
+
+***
+
+## [Landing Times](skills/B01N2VRFS2)
+
+*Alexa, ask Landing Times when American flight three forty lands*
+
+Tasked with picking someone up from the airport? Just get their flight number and you can ask Landing Times for updated arrival information throughout the day.
 
 ***
 
@@ -14831,6 +20617,14 @@ Laugh box will play and describe different laughs. You should be laughing as a r
 
 ***
 
+## [Laugh Machine](skills/B01N1NAJFH)
+
+*Alexa, tell Laugh Machine to give me a joke*
+
+Ask Laugh Machine for a quick joke to get you through your day!
+
+***
+
 ## [Laundrapp Limited](skills/B01LXVHKWK)
 
 *There are no example interactions for this skill.*
@@ -14852,6 +20646,30 @@ A skill that provides help when you do laundry.
 *Alexa, launch laurence urban channel's subscribers*
 
 Laurence and Urban Music Youtube Channel Subscribers
+
+***
+
+## [Lawnetix](skills/B01MXZQHPS)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Lawnetix](skills/B01N0OZ90V)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Lawnetix](skills/B01N9F4KUL)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -15023,11 +20841,35 @@ Leonardo da Vinci Facts
 
 ***
 
+## [Let-handed Facts](skills/B01NBPAYTY)
+
+*Alexa, open left handed facts*
+
+Facts about left hands and left-handedness.
+
+***
+
 ## [Let's Exercise](skills/B01M8HRRIC)
 
 *Alexa, Let's exercise*
 
 This skill gives you a new micro-workout to do every time!
+
+***
+
+## [Let's Talk](skills/B01N9C9177)
+
+*Alexa, Let's talk*
+
+Everyday conversation!
+
+***
+
+## [LETO](skills/B01MSMHRHB)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -15071,19 +20913,19 @@ A simple skill for counting the total number of letters in a word
 
 ***
 
-## [letters to word](skills/B01EMTFKEU)
-
-*Alexa, start Letters to Word*
-
-It's your turn to be a cheerleader.  Tell Alexa what letters to say and when you are done spelling out a word, she will say what you spelled!
-
-***
-
 ## [Lewis Facts](skills/B01M62FOTR)
 
 *Alexa, open lewis facts*
 
 Ask Lewis about fun and interesting facts about the great city of London
+
+***
+
+## [Lewis Wilcock](skills/B01N5IQXZR)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -15143,6 +20985,14 @@ Use Alexa to hear helpful life hacks!
 
 ***
 
+## [Life Notifications](skills/B01L6PM35M)
+
+*Alexa ask life notifications for last notifications*
+
+Get your mobile notifications
+
+***
+
 ## [Life on Mars Facts](skills/B01JFDUDTA)
 
 *Alexa, ask life on mars to give me something about life on Mars*
@@ -15164,6 +21014,14 @@ The top submission from the last 24 hours from r/LifeProTips from Reddit.
 *Alexa, start life quotes.*
 
 Life quotes to live happy life.
+
+***
+
+## [LifeLink Facts](skills/B01MXO72SM)
+
+*Alexa, open LifeLink*
+
+Provides facts about patient engagement.
 
 ***
 
@@ -15199,7 +21057,31 @@ Facts about Light
 
 ***
 
+## [Light the World](skills/B01N6B02W9)
+
+*Alexa, open Light the World*
+
+Displays inspirational ideas on how we can follow Jesus Christ's examples to light the world.
+
+***
+
+## [Lightening Math Training](skills/B01N3QV8V1)
+
+*Alexa Open lightening math*
+
+Lightning math (mental math) training
+
+***
+
 ## [LIGHTIFY](skills/B01HCYSG84)
+
+*There are no example interactions for this skill.*
+
+Voice Control LIGHTIFY in your home and control your lighting through Amazon Echo and the Alexa Skills Kit
+
+***
+
+## [LIGHTIFY](skills/B01MQ4O95Q)
 
 *There are no example interactions for this skill.*
 
@@ -15215,11 +21097,19 @@ A fun and evolving game for the McJilton family.
 
 ***
 
-## [Lightwave RF](skills/B01M5C987C)
+## [LightwaveRF](skills/B01M5C987C)
 
-*There are no example interactions for this skill.*
+*Alexa, set living room main light to 75%*
 
-null
+LightwaveRF provides remote lighting, power and heating control all from one App. You can now use Alexa to control your LightwaveRF home.
+
+***
+
+## [Lily the Beagle Facts](skills/B01MQL1V3H)
+
+*Alexa Ask Lily Facts for a fact.*
+
+Lily the Beagle
 
 ***
 
@@ -15236,6 +21126,22 @@ Learn interesting facts about languages from around the world!
 *Alexa, open linux facts*
 
 Linux Facts
+
+***
+
+## [Linux Geek](skills/B01N4726YQ)
+
+*Alexa open linux geek*
+
+Facts about Linux
+
+***
+
+## [lirrbits](skills/B01N7CIUIU)
+
+*Alexa, ask lirr bits to get the next trains from Great Neck to Penn Station*
+
+Use your Alexa to find information about your LIRR times
 
 ***
 
@@ -15260,6 +21166,14 @@ Littera Report hosts the best independent journalism in the world!
 *Alexa, ask liver facts to give me a liver fact*
 
 Facts on human liver
+
+***
+
+## [Living Healthy](skills/B01NBIKIWT)
+
+*Alexa, start living healthy*
+
+Learn how to stay healthy and take the best care of yourself possible.
 
 ***
 
@@ -15319,11 +21233,28 @@ Returns a random fact about the Logan Square neighborhood in Chicago.
 
 ***
 
+## [Logix Controller Trivia](skills/B01N5GXMHU)
+
+*Alexa Open Logix Trivia*
+
+ControlLogix / CompactLogix Trivia
+
+***
+
 ## [London Air Quality](skills/B01M4P5IJ6)
 
 *Alexa, ask London Air Quality for the forecast*
 
 Find out the current or forecast air quality conditions for London, including information on pollutants, and weather affecting these.
+
+***
+
+## [London Bus Arrivals](skills/B01MA4MA1D)
+
+*Alexa open London Bus*
+
+ask London Bus for arrival times for all london bus routes and bus numbers. For example ask,
+when will the two one nine arrive at clapham going to Wimbledon
 
 ***
 
@@ -15335,11 +21266,27 @@ Learn more about fun and interesting facts about London's food scene.
 
 ***
 
+## [London Guide](skills/B01NCNOFR3)
+
+*Alexa, ask London Guide for the Top Five Things to Do*
+
+What to do in London, plus current news.
+
+***
+
 ## [London Scholar](skills/B01DCQIVDQ)
 
 *Alexa, ask London Scholar to tell me a fact*
 
 Learn facts about the great city of London from the London Scholar.
+
+***
+
+## [long board geek](skills/B01N1OD3EH)
+
+*Alexa ask long board geek to give me a long board geek fact*
+
+MyLongBoardFacts
 
 ***
 
@@ -15399,6 +21346,14 @@ Lotus Apple
 
 ***
 
+## [Love and Lemons](skills/B01MQPMHOF)
+
+*Alexa ask Love and Lemons for recent recipes*
+
+Cook recipes from the award-winning vegetarian food blog, Love and Lemons
+
+***
+
 ## [Love Calculator](skills/B01ILN84L4)
 
 *Alexa, ask Love Calculator*
@@ -15431,6 +21386,22 @@ Anatomy revision for muscles in the lower limbs.
 
 ***
 
+## [Lucky Italian Numbers](skills/B01N6JWOI7)
+
+*Alexa, ask Lucky Italian Numbers to Give me my lucky number.*
+
+Get a lucky number at random or get X amount of lucky numbers
+
+***
+
+## [Lucky Lotto Numbers](skills/B01N6A8V7B)
+
+*Alexa, open Lucky Lotto Numbers*
+
+Lucky Lotto Numbers can select lotto numbers for you! Just tell Alexa how many numbers you need and the range of the numbers. Hope Alexa will bring you luck!
+
+***
+
 ## [Lucky Number](skills/B01I7QQWYG)
 
 *Alexa, ask Lucky Number what is my lucky number*
@@ -15447,11 +21418,27 @@ Ask Alexa for your lucky numbers.
 
 ***
 
+## [LuckyKokeshi](skills/B01N9JTCXV)
+
+*Alexa Ask LuckyKokeshi*
+
+You can know your "Lucky Kokeshi"
+
+***
+
 ## [Ludo Helper](skills/B01LR94BTS)
 
 *Alexa, ask Ludo Helper How do I play ludo ?*
 
 Ludo Helper skill describes the rules of the game Ludo, tips on strategies, game setup and much more. Use this skill to get an in depth understanding of Ludo.
+
+***
+
+## [Lukas Masuch](skills/B01N1MC2WB)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -15487,6 +21474,14 @@ Responds with the Gonzaga High School menu items for a given day
 
 ***
 
+## [Lunch Spinner](skills/B01N65XQ5Y)
+
+*Alexa, ask lunch spinner*
+
+A wheel of fortune spinner that picks a random lunch and restaurant for you. You also get a feel-good fortune cookie quote.
+
+***
+
 ## [Lunch Suggestions](skills/B01KF9VPS6)
 
 *Alexa, ask lunch suggestions for lunch suggestions*
@@ -15516,6 +21511,14 @@ Control your Lutron RadioRA 2 or HomeWorks QS system’s lights, shades and temp
 *Alexa, start the Luxembourg Trivia Game*
 
 Learn about Luxembourg, a small country in Europe, by playing this trivia game.
+
+***
+
+## [Lviv's facts](skills/B01NCL8358)
+
+*Alexa Open Lviv's Facts*
+
+Facts about Lviv, city of Ukraine
 
 ***
 
@@ -15551,6 +21554,22 @@ Give random machine learning approaches from Wikipedia
 
 ***
 
+## [Machine Learning Facts](skills/B01MYOOXEF)
+
+*'Alexa, open machine learning facts'*
+
+Machine Learning facts and quotes
+
+***
+
+## [Macro Meal](skills/B01MZ5Q7O4)
+
+*Alexa, ask macro meal what I should eat for dinner.*
+
+Can't decide to was to cook, ask macro meal what you should eat, and it will choose you a healthy recipe, and put a recipe suggestion card in your alexa app.
+
+***
+
 ## [Made up facts](skills/B01MPXAZTM)
 
 *Alexa Open Made Up Facts*
@@ -15572,6 +21591,22 @@ Get up-to-the-minute, expedition location status for Madison Mountaineering guid
 *Alexa, open madonna quiz.*
 
 Madonna Song Quiz - Test your knowledge of the Queen of Pop
+
+***
+
+## [Maestro](skills/B01N0OP53A)
+
+*Alexa open opera maestro*
+
+Alexa, what is playing at the opera house today?
+
+***
+
+## [Maggie Tribute](skills/B01N0RR3RE)
+
+*Alexa Open yer self*
+
+Humor test app designed as a "thank you" Easter Egg for the person who gifted me their Echo.
 
 ***
 
@@ -15631,6 +21666,14 @@ Did you know that magic is also called conjuring, hocus pocus, sorcery and wizar
 
 ***
 
+## [Magic History](skills/B01N0C2BK8)
+
+*Alexa, ask Magic History what happened on August thirtieth.*
+
+Ask Magic History is a skill for magicians and magic history buffs.
+
+***
+
 ## [Magic Home](skills/B01HFZI9AK)
 
 *There are no example interactions for this skill.*
@@ -15643,7 +21686,7 @@ The Wi-Fi LED smart lights, no cables or hub needed! Light your home in millions
 
 *Alexa, ask Magic Jukebox to Play Cool Jazz*
 
-Stream music Powered by SoundCloud.  Magic Jukebox will find and play music based on genre.  Cool Jazz, Metal, Soundtrack, what ever your heart desires.
+Stream music Powered by SoundCloud.  Magic Jukebox will find and play music based on type of music or artist.
 
 ***
 
@@ -15671,11 +21714,27 @@ Get definitions and examples of Magic card game abilities. **Fan Made**
 
 ***
 
+## [Magical Black Cylinder](skills/B01DT454X6)
+
+*Alexa, open Magical Black Cylinder*
+
+Turn Alexa into a fortune teller
+
+***
+
 ## [MagicCube facts](skills/B01J2SB40U)
 
 *Alexa, launch magic cube*
 
 Facts about rubik's cube
+
+***
+
+## [Mail Box](skills/B01LMLFNB6)
+
+*Alexa, open Mail Box*
+
+Access your Gmail account with the Mail Box skill. Read & send emails and SMS messages.
 
 ***
 
@@ -15692,6 +21751,14 @@ Get a random Maine trivia fact! "Ask Maine trivia, tell me something"
 *Alexa launch maine facts*
 
 Random facts about Maine.
+
+***
+
+## [Maine Tidal Information](skills/B01N0APHA1)
+
+*'Alexa Launch Maine Tides'*
+
+Provides tidal information for the entire Maine coast, based on the city closest to you.
 
 ***
 
@@ -15743,6 +21810,14 @@ How well do you know your car models?
 
 ***
 
+## [MakingASweetPotatoPie](skills/B01N7FQXB1)
+
+*Alexa, open making a sweet potato pie*
+
+This skill tells you how to make a sweet potato pie.
+
+***
+
 ## [Malayala Manorama](skills/B01D28TLRY)
 
 *Alexa, ask manorama for kerala news*
@@ -15760,6 +21835,14 @@ Malaysia Facts
 
 ***
 
+## [Mama Schack](skills/B01N4ELOO9)
+
+*Alexa open Mama Shack*
+
+A fun app that lets you ask about Jewish recipes; like how to cook latkes and everyday recipes that are hard to remember like how to boil eggs.
+
+***
+
 ## [Mandy Chan](skills/B01M59GMG8)
 
 *There are no example interactions for this skill.*
@@ -15773,6 +21856,30 @@ null
 *Alexa, ask mango facts to give me mango fact*
 
 Mango Facts
+
+***
+
+## [Mangrove Facts](skills/B01N2OH2PQ)
+
+*Alexa, open mangrove facts*
+
+MangroveFact
+
+***
+
+## [Manor View Labs](skills/B01MZX4GQ4)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [MappleStore](skills/B01N1U5FLV)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -15805,6 +21912,22 @@ Trivia game asking questions about historical March basketball tournaments.
 *Alexa, ask Marco Polo, start game*
 
 Play Marco Polo.  Keep your eyes closed and your ears open.  If you tag Alexa you win!
+
+***
+
+## [Marco Spittka](skills/B01N3PHBSG)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Marian Condurache](skills/B01NBDL058)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -15856,11 +21979,51 @@ This skill will return several facts about Marks house
 
 ***
 
+## [Markus Stein](skills/B01MSTLHCD)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Markus Stein](skills/B01MXQ69VI)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Markus Stein](skills/B01N1N9JYL)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Markus Stein](skills/B01N2LPUI1)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Markus Ulsass](skills/B01MFADQM1)
 
 *There are no example interactions for this skill.*
 
 null
+
+***
+
+## [Marquee Rochester](skills/B01MTXBRU7)
+
+*Alexa, ask Marquee Rochester what's happening April 19th*
+
+Discover what's happening in Rochester, Minnesota!
 
 ***
 
@@ -15904,6 +22067,14 @@ Facts and figures about the planet Mars.
 
 ***
 
+## [Mars Rover Mission](skills/B01N002EZY)
+
+*Alexa, play Mars Rover Mission*
+
+Slow-paced adventure game controlling a Mars exploration rover.
+
+***
+
 ## [mars the planet](skills/B01ICFOS0W)
 
 *Alexa, open mars the planet and give me a fact*
@@ -15912,11 +22083,27 @@ This a Mars Fact Talk
 
 ***
 
+## [Mars Trivia](skills/B01N58LTMP)
+
+*Alexa, open Mars Trivia*
+
+A cool trivia for Mars Savvy people
+
+***
+
 ## [Mars Weather](skills/B01M6EBMUM)
 
 *Alexa, ask Mars weather caster for the current weather*
 
 This skill gives the current Mars weather including low and high temperature.
+
+***
+
+## [Marshawn Lynch's BeastMode](skills/B01LWSADGE)
+
+*Alexa, Open BeastMode*
+
+The BeastMode Skill is a fun and informative skill. You can ask things like... Alexa, Ask BeastMode...  what's your favorite candy or how was the game?
 
 ***
 
@@ -15960,6 +22147,14 @@ Marvee is a care companion and concierge that gives those hindered by limited vi
 
 ***
 
+## [Marvin's favorite skills](skills/B01NBKQVVS)
+
+*Alexa Open Marvin's favorite skills*
+
+Haaaaaaave... you met Marvin? He has a thing for Alexa Skills and wants to share that with you. This skill is your gateway to his approved list of awesomeness.
+
+***
+
 ## [Mary Kay Quote](skills/B01KAX78C4)
 
 *Alexa open Mary Kay Quote*
@@ -15968,11 +22163,35 @@ Inspirational quotes by Mary Kay Ash
 
 ***
 
+## [Maryland Facts](skills/B01N1WKU31)
+
+*Alexa Open Maryland Facts*
+
+Get Interesting facts about State of Maryland
+
+***
+
 ## [Maryland Facts](skills/B01N3WNFCM)
 
 *Alexa open maryland facts and give me a fact*
 
 Maryland Facts provides fun facts about the Maryland.
+
+***
+
+## [Maryland Facts!](skills/B01N6M0YJ0)
+
+*Alexa, ask Maryland Facts to tell me a Maryland fact.*
+
+Maryland Facts! is a trivia app that tells you interesting facts about Maryland. Use it to learn cool facts to impress your friends.
+
+***
+
+## [Mastermind Bot](skills/B01N0HFLPG)
+
+*Alexa, Ask Mastermind to Get My Notifications*
+
+Text messaging, notifications, caller id, contact lookup, phone calls, chromecast TV integration and more. Requires the companion Mastermind Android app.
 
 ***
 
@@ -15992,11 +22211,11 @@ Math constants provides users fast and easy access to some important math consta
 
 ***
 
-## [Math Facts](skills/B01IX8VG3A)
+## [Math Facts](skills/B01N1SGL81)
 
-*Alexa, start math facts*
+*Alexa Open math facts*
 
-Facts about math
+Math facts. Sharpen your math facts. Learn a new fact or test your math fact skill
 
 ***
 
@@ -16040,6 +22259,14 @@ Math Puzzles is a fun way to challenge yourself and your friends. You’ll hear 
 
 ***
 
+## [Math Quiz](skills/B01MT0AQUB)
+
+*Alexa, open Math Quiz*
+
+Test your arithmetic skill.
+
+***
+
 ## [Math Stream](skills/B01HFEY4WI)
 
 *Alexa, open Math Stream*
@@ -16064,11 +22291,123 @@ Learn about some maths trivia facts.
 
 ***
 
+## [Matt Polk](skills/B01MRNEEP4)
+
+*Alexa, ask Matt Polk to tell me a fact about sound*
+
+Interesting facts about sound and audio from the audio specialists at Polk
+
+***
+
+## [Matt's Nerd Facts](skills/B01N48F19Y)
+
+*Alexa Open Nerd Facts*
+
+Random nerdy facts about nerdy topics
+
+***
+
+## [Matthias](skills/B01N2T6AUP)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Matthias](skills/B01N2XTC6C)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Matthias](skills/B01N7JVD9H)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Matthias Pfeil](skills/B01MQVKYO9)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Matthias Pfeil](skills/B01MXSR4IE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Matthias Pfeil](skills/B01MYR2SJR)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [matze.developer](skills/B01N0RAR6M)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Max Schönberger](skills/B01MSRPLCR)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Max Schönberger](skills/B01MTQXCWK)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Max Schönberger](skills/B01N7BSDWL)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Max Trivia](skills/B01FX9B2UY)
 
 *Alexa open max trivia*
 
 Trivia game about Max
+
+***
+
+## [Max's Facts](skills/B01NBJCC57)
+
+*Alexa, Open Max's Facts*
+
+Fun facts about Maksym Gladysh
+
+***
+
+## [Maze Game](skills/B01N1WABFZ)
+
+*Alexa Open Maze Game*
+
+A maze game which randomly generates the walls each new game.
 
 ***
 
@@ -16145,14 +22484,6 @@ Disclaimer: This skill may not be suitable for all ages.
 
 ***
 
-## [Mean Koala](skills/B01MSI348L)
-
-*Alexa ask mean koala*
-
-Random Insults!
-
-***
-
 ## [Meanie](skills/B01KSM96CW)
 
 *Alexa start being mean*
@@ -16170,6 +22501,14 @@ This skill is perfect for the everyday kitchen dish, summer bbq, or the big meal
 
 ***
 
+## [Meat Thermometer](skills/B01MRYWBBJ)
+
+*Alexa Open Meat Thermometer*
+
+Ask Alexa for the cooking temperature for different kinds of meat
+
+***
+
 ## [MeatButler](skills/B01DN2JN9U)
 
 *Alexa, ask Meat Butler to help me prepare steak?*
@@ -16183,6 +22522,14 @@ This butler tells the perfect internal temperature to achieve when cooking based
 *Alexa, open media monk*
 
 Skill for getting information about movies and tv shows
+
+***
+
+## [Medical Facts by Dex](skills/B01N1WA9YG)
+
+*Alexa, open medical facts*
+
+Random medical facts to get you through your day.
 
 ***
 
@@ -16210,11 +22557,67 @@ Medusa Myth tells you many interesting facts about Medusa.
 
 ***
 
+## [MEEN/MSEN 222 Finals Flash Cards](skills/B01MXWA76N)
+
+*Alexa, open material science helper*
+
+This lets you practice materials science questions and covers thermal, optical, and electrical properties.
+
+***
+
+## [Meep Personal News Radio](skills/B01N75RKCH)
+
+*Alexa, ask Meep about Politics*
+
+Have the most recent news read to you!
+
+***
+
+## [Meh deal of the day (unofficial)](skills/B01MG4EN4G)
+
+*Alexa ask deal of the day whats the deal*
+
+Quickly get information on the Meh.com deal of the day!
+
+***
+
 ## [Meh Voice](skills/B01DKXAZV2)
 
 *Alexa, ask meh voice what the deal is*
 
 Ask Alexa to tell you the deal today on meh.com's website
+
+***
+
+## [meinsen.net](skills/B01MT0L01D)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [meinsen.net](skills/B01N7JOH0H)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [meinsen.net](skills/B01N9IW89R)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Melbourne Timetable](skills/B01NAGYEKG)
+
+*Alexa ask Melbourne time table for trains leaving Richmond*
+
+Get updates on the next trains leaving Melbourne stations
 
 ***
 
@@ -16234,11 +22637,27 @@ This is a simple game where Alexa will state a series of colors and you keep cou
 
 ***
 
+## [Meme Facts](skills/B01N4DBFPH)
+
+*There are no example interactions for this skill.*
+
+Shares facts about memes!
+
+***
+
 ## [Memorable Password Generator](skills/B01K3IV0F2)
 
 *Alexa, ask password generator to generate a password*
 
 Ask Password Generator to generate a memorable four word password.
+
+***
+
+## [Memory Flow](skills/B01N9J1I9W)
+
+*Alexa Open Memory Flow*
+
+Memory flow is a skill that allows you to see how many words in a sequence you can remember, and then repeat those words back to me in the same order.
 
 ***
 
@@ -16274,11 +22693,43 @@ Come and check how good your memory is!
 
 ***
 
+## [meow cat](skills/B01N3KE7Q3)
+
+*Alexa ask meow cat*
+
+a meow for every occasion!
+
+***
+
 ## [Meow!](skills/B01GOSN706)
 
 *Alexa, meow meow*
 
 Meow to Alexa
+
+***
+
+## [Mercer of Durham beta](skills/B01NA9U9V0)
+
+*Alexa, open the mercer of durham*
+
+adventure game
+
+***
+
+## [Merry Christmas](skills/B01MXPI8DK)
+
+*Alexa, ask Merry Christmas for a blessing*
+
+Merry Christmas will share some cheer for all to hear!
+
+***
+
+## [Message Presenter](skills/B01NCBAEWS)
+
+*Alexa Open Message Presenter*
+
+Let alexa read out messages, notes, etc. which you can easily add or edit in a web interface
 
 ***
 
@@ -16303,6 +22754,30 @@ Get to know a little more about our family's cats with this quiz game.
 *Alexa ask Meta for messages from Mike*
 
 Skill for use with Metaswitch Accession business communications services
+
+***
+
+## [MetaViewSoft](skills/B01MXPLDD2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [MetaViewSoft](skills/B01MZWZZNA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [MetaViewSoft](skills/B01N7AWFYA)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -16344,6 +22819,30 @@ Example: Alexa, open Viva Mexico and tell me a fact
 *Alexa, ask mica fact to give me a mica fact*
 
 Fact about mineral mica
+
+***
+
+## [Michael Achmann](skills/B01N6L9B1Z)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Michael Bazos](skills/B01N0LBWMF)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Michael Kleinhenz](skills/B01MXNZD3D)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -16419,6 +22918,14 @@ Trivia on famous Michiganders... people from Michigan
 
 ***
 
+## [Michiimweb](skills/B01M4PJ6U2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Microcontroller Assist](skills/B01FVJ70AW)
 
 *Alexa, ask Microcontroller Assist to start the step*
@@ -16475,7 +22982,31 @@ Soccer Trivia Game
 
 ***
 
+## [Mike Croall](skills/B01MZ3XTS1)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Mike Hibbert](skills/B01N0GMVOZ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Mike Hole](skills/B01M09TXW7)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [mikesullivan0](skills/B01N1VTAIN)
 
 *There are no example interactions for this skill.*
 
@@ -16499,11 +23030,27 @@ Information for Mill Ponds HOA
 
 ***
 
+## [Miller](skills/B01N2SJVGF)
+
+*Alexa Open miller's bagel*
+
+Displays facts about my good friend Adam David Miller
+
+***
+
 ## [Milo](skills/B01CP6PFLK)
 
 *Alexa, ask Milo to find Back to the Future Part Three*
 
 Find where you can view your favorite movie on free, paid and subscription services like Amazon Prime or Crackle.
+
+***
+
+## [Mind Blowing Facts](skills/B01N6FHUB4)
+
+*Alexa Open Mind Blowing Facts*
+
+This fun skill will tell you a cool mind blowing fact!
 
 ***
 
@@ -16536,6 +23083,22 @@ mind-blowing movies fact
 *Alexa, open Mindfulness Helper*
 
 Learn how to achieve a mindful state
+
+***
+
+## [Mindfulness Quotes](skills/B01N7BEHXX)
+
+*Alexa, ask Mindfulness Quotes for a quote*
+
+Calm and focus yourself with mindfulness quotes.
+
+***
+
+## [Minecraft Server Tracker (unofficial)](skills/B01MQMJGKS)
+
+*Alexa, ask server tracker for message of the day of cube*
+
+a unofficial minecraft server tracker to get player count max player count and motd of a server
 
 ***
 
@@ -16579,6 +23142,22 @@ State of Minnesota Trivia
 
 ***
 
+## [MinnesotaFunFactsTrivia](skills/B01N0WPIQW)
+
+*Alexa ask Minnesota Fun Facts*
+
+Test your knowledge of Minnesota Trivia.
+
+***
+
+## [Mirror](skills/B01M0MYZJ4)
+
+*Alexa ask my mirror who is the fairest one of all?*
+
+Smart Mirror
+
+***
+
 ## [Mirror Mirror](skills/B01B3R17S2)
 
 *Alexa, tell mirror mirror*
@@ -16611,6 +23190,22 @@ Ask Miss Diss for a diss
 
 ***
 
+## [Mission Neptune](skills/B01N6IPLXI)
+
+*Alexa Open MissionNeptune*
+
+Facts about planet Neptune taken from the public domain
+
+***
+
+## [Mission Uranus](skills/B01N2XXE26)
+
+*Alexa Open Mission Uranus*
+
+This is a fun, educational fact skill aimed to teach the user random scientific facts about the planet Uranus. Check out Mission Neptune for ice planet news.
+
+***
+
 ## [Missouri Football Trivia](skills/B01BH4QK60)
 
 *Alexa, open Missouri football*
@@ -16619,11 +23214,27 @@ Test your knowledge of University of Missouri football. Find out if you're a tru
 
 ***
 
+## [Mister Twist](skills/B01N4HWO64)
+
+*Alexa, Tell Mister Twist to Spin the Wheel*
+
+Everyone wants to play, no one wants to spin!
+
+***
+
 ## [Mitch Mania Labs Trivia Game](skills/B01JFVGZW6)
 
 *Alexa, launch MitchMania Labs trivia*
 
 A trivia game testing your knowledge of MitchMania Labs.
+
+***
+
+## [Mix&Match](skills/B01N4HLJ9U)
+
+*Alexa ask mix match what i can make with gin*
+
+Find out what mixed drinks can be made with an ingredient. Useful for providing a wide variety of drink choices.
 
 ***
 
@@ -16643,6 +23254,14 @@ Skill to learn more about Mixpo's business health.
 
 ***
 
+## [MK Tech](skills/B01MU1SQZJ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [mKeRix](skills/B01LXOK87J)
 
 *There are no example interactions for this skill.*
@@ -16659,6 +23278,22 @@ Use MLB.com Gameday Audio to listen to every Major League Baseball game live.
 
 ***
 
+## [MMA Facts](skills/B01N8TGAUM)
+
+*Alexa, ask m. m. a. facts to give me a fact*
+
+Get your dose of MMA facts to impress your friends
+
+***
+
+## [MMW](skills/B01M9JLJDN)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [MMW](skills/B01N05PKSC)
 
 *There are no example interactions for this skill.*
@@ -16667,11 +23302,11 @@ null
 
 ***
 
-## [Mobile Expert](skills/B01LQM8U2U)
+## [MobiCycle Ltd](skills/B01MSI87FV)
 
-*Alexa Ask Mobile Expert, what are the features of iPhone 7*
+*There are no example interactions for this skill.*
 
-Use Mobile Expert  to find out information on the latest and upcoming smart phones and wearable devices.
+null
 
 ***
 
@@ -16723,6 +23358,14 @@ Shows recipes from "Mom's Cooking," a cookbook that a mother wrote for her child
 
 ***
 
+## [Mommy Facts](skills/B01NBL9TPG)
+
+*There are no example interactions for this skill.*
+
+facts about mommy
+
+***
+
 ## [money Bible verses](skills/B01M01Y2V1)
 
 *Alexa ask money Bible verses*
@@ -16744,6 +23387,94 @@ Money Converter
 *Alexa, start money currency.*
 
 In this skill, Alexa will inform you about random country's currencies!
+
+***
+
+## [Money Transfers](skills/B01NAH3TED)
+
+*Alexa, ask send money to tell me a MoneyGram fact*
+
+MoneyGram Facts
+
+***
+
+## [Money Weight](skills/B01N4H3JH8)
+
+*Alexa start Money Weight*
+
+Tell Alexa a dollar amount (with or without cents) and she will tell you how much it would weigh in grams and pounds.
+
+***
+
+## [Mongols Facts](skills/B01LX5YTAP)
+
+*Alexa open the cool mongols facts*
+
+fun facts about the mongols
+
+***
+
+## [Monika Wiest](skills/B01N2SYTT0)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Monika Wiest](skills/B01NAOCBVA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Monstakind](skills/B01MTWIIEX)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Monstakind](skills/B01N5A8DHJ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Montana Facts](skills/B01MU4BXKG)
+
+*Alexa Ask Montana Fact*
+
+A skill that highlights facts and trivia regarding the state of Montana.
+
+***
+
+## [Montevideo Guide](skills/B01NCPN27G)
+
+*Alexa, open Montevideo Guide*
+
+A tourist guide to the city of Montevideo.
+
+***
+
+## [Montgomery County Incident Monitor](skills/B01NAM7ADS)
+
+*Alexa Open MontCo Monitor*
+
+Find out about the active Fire, EMS, and traffic incidents in Montgomery County, Pennsylvania.
+
+***
+
+## [Montgomery County Incidents](skills/B01MTZHHV8)
+
+*Alexa, open Montgomery County Incidents*
+
+Find out about the active Fire, EMS, and traffic incidents in Montgomery County, Pennsylvania.
 
 ***
 
@@ -16771,6 +23502,62 @@ Moon Facts skill for Alexa.
 
 ***
 
+## [Moon Geek](skills/B01N9CMSR4)
+
+*Alexa open moon geek and tell me a moon fact*
+
+Learn more about our Moon!
+
+***
+
+## [Moon Phaser](skills/B01MQP5S2H)
+
+*Alexa Launch Moon Phaser.*
+
+Moon Phaser will highlight the current, future and recent phases of the moon.
+
+***
+
+## [Mopany](skills/B01MTT9BKG)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Mopany](skills/B01MXQUURD)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Mopany](skills/B01N7AVRGN)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Moritz Strube](skills/B01N4D5GS6)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Moritz Strube](skills/B01N7G04J8)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Mormon Facts](skills/B01FGYHZTS)
 
 *Alexa, Open Mormon Facts*
@@ -16784,6 +23571,14 @@ Have Alexa tell you basic Mormon facts and beliefs.
 *Alexa, launch Mormon Trivia*
 
 Mormon trivia from the Book of Mormon and The Church of Jesus Christ of Latter-day Saints history.
+
+***
+
+## [Morning Haikus](skills/B01N2Y8BGK)
+
+*Alexa, open Morning Haikus*
+
+Start your morning off right with a fun haiku. Morning Haikus are short, sweet, and highlight the highs and lows of waking up and starting the day!
 
 ***
 
@@ -16843,6 +23638,14 @@ Discover the timeless advice that the world's great thinkers, billionaires, writ
 
 ***
 
+## [Motivate Me](skills/B01NAKTIOS)
+
+*Alexa, Motivate Me.*
+
+Motivate Me gives you the best motivational quotes!
+
+***
+
 ## [Motivate Me - By SexyHackers.com](skills/B01G6LOP9S)
 
 *Alexa, motivate me*
@@ -16864,6 +23667,14 @@ Ask Alexa for some motivation to get you through any task
 *Alexa, start give motivation*
 
 Ask Alexa for motivation to spark your inner fire.
+
+***
+
+## [Motivation Today](skills/B01MSZ87HB)
+
+*Alexa open Motivation Today and give me a quote*
+
+Motivation Today give you the confidence boost that you need with the inspiration quote. 365 days with 365 quote for an inspirational year
 
 ***
 
@@ -16899,6 +23710,14 @@ Ask Alexa to give you a motivational quote when you need inspiration.
 
 ***
 
+## [Motivational Quotes](skills/B01MYZSP93)
+
+*Alexa Open motivate me*
+
+Motivation/Inspirational  Quotes
+
+***
+
 ## [Motivational Quotes](skills/B01N8SGWZU)
 
 *Alexa, open motivational quotes*
@@ -16907,11 +23726,27 @@ Quotes to get you motivated!
 
 ***
 
+## [Motivationcast.com](skills/B01N0TWUQP)
+
+*Alexa, open Motivationcast*
+
+Let Alexa boost your energy level, and pump you up by providing you with inspirational quotes and tips. Simply say "Alexa, open Motivationcast" to get started!
+
+***
+
 ## [Motivator](skills/B01MSK5ST7)
 
 *Alexa start cheesy motivator*
 
 Reads cheesy motivational/inspirational quotes
+
+***
+
+## [motivator4lit](skills/B01N7MEGKI)
+
+*Alexa, ask lit motivator what's lit*
+
+Need a motivation for the day, ask the lit motivator. It is truly lit.
 
 ***
 
@@ -16931,6 +23766,30 @@ Get your daily motivational quote from Alexa.
 
 ***
 
+## [Motorcycle Facts](skills/B01MQY73VG)
+
+*Alexa open Motorcycle Facts*
+
+Motorcycle Facts
+
+***
+
+## [Motorcycle Forecast](skills/B01N2T9RGC)
+
+*Alexa Open motorcycle forecast*
+
+Wondering if it's a good day for your motorcycle? Just ask Motorcycle forecast!
+
+***
+
+## [Mount Sinai](skills/B01N7CQ69K)
+
+*Alexa, open mount sinai*
+
+Use this skill to find physicians linked to the Mount Sinai Health Partners program.
+
+***
+
 ## [Mountain Bike Facts](skills/B01KPD52TA)
 
 *Alexa, ask mountain bike facts for a mountain bike fact*
@@ -16939,11 +23798,27 @@ Mountain bike facts
 
 ***
 
+## [Mountain Top for Strava (Unofficial App)](skills/B01MQ09OUO)
+
+*Alexa Open Mountain Top*
+
+With Mountain Top, get your recent Strava updates instantly.
+
+***
+
 ## [Mountaineering Facts](skills/B01KPE0SMA)
 
 *Alexa, open moutaineering facts*
 
 facts about mountaineerings and climbings
+
+***
+
+## [Movie Classics Quiz](skills/B01MQUZP3Z)
+
+*Alexa, open Movie Classics*
+
+Test your knowledge about movie classics with this interactive quiz skill.
 
 ***
 
@@ -16960,6 +23835,22 @@ Tell me a random movie fact!
 *Alexa, ask movie facts to tell me a fact*
 
 Want to know some interesting movie facts? Ask Alexa!
+
+***
+
+## [Movie Geek](skills/B01NBPA1IX)
+
+*Alexa, open Movie Geek*
+
+Movie Geek
+
+***
+
+## [Movie Genre](skills/B01N79T0FR)
+
+*Alexa, open movie genre*
+
+To identify what movies genre you like the most
 
 ***
 
@@ -17067,6 +23958,22 @@ Movie award quiz. Guess the year of the movie.
 
 ***
 
+## [MovieBot](skills/B01MRKGF5W)
+
+*Alexa, open Movie Bot*
+
+MovieBot converses about new and forthcoming movies and can also answer questions about plot, ratings, cast, and director. It’s a fun way to explore IMDb data!
+
+***
+
+## [MoviePicker](skills/B01MG6KXAL)
+
+*Alexa open movie picker*
+
+Bored? Undecided on what movie to pick? Use this skill. The skill picks movies randomly from different genres.
+
+***
+
 ## [Movies Database](skills/B01M9EFLVZ)
 
 *Alexa Open movies database*
@@ -17080,6 +23987,22 @@ Movie plot search
 *Alexa, ask Movies for redbox for latest movies*
 
 Movies for redbox tells you the latest and popular movies you can rent from redbox.
+
+***
+
+## [MovQuiz](skills/B01NAHICVC)
+
+*Alexa Open movie quiz*
+
+It is a fun-time hollywood movie quiz.
+
+***
+
+## [MozFacts](skills/B01NCJVIFP)
+
+*Alexa, ask MozFacts for a fact*
+
+Learn some facts about Morrissey.
 
 ***
 
@@ -17124,11 +24047,35 @@ Test your knowledge of the TV show Mr. Robot with this unofficial skill.
 
 ***
 
+## [Mr. Robot Trivia (Unofficial)](skills/B01MQI3UGG)
+
+*Alexa, open unofficial mr. robot trivia*
+
+An unofficial Mr. Robot Trivia Game.
+
+***
+
+## [mrSqueak](skills/B01MS1KKKM)
+
+*Alexa, ask mr. squeak to tell me about squeaking*
+
+Learn how to squeak!
+
+***
+
 ## [MS Trivia](skills/B01M7MFFRN)
 
 *Alexa, Open MS Trivia*
 
 Trivia about Microsoft
+
+***
+
+## [Ms. Maven](skills/B01N9K0QX7)
+
+*Alexa, ask Miss Maven to define a transitive dependency.*
+
+Ms. Maven - a tool for learning about Apache Maven
 
 ***
 
@@ -17196,6 +24143,14 @@ Facts about Mums
 
 ***
 
+## [Muscle Flash Cards](skills/B01N0MWCMW)
+
+*Alexa, open muscle flash cards*
+
+Do you know the names of the muscles in your body. Learn them now with Muscle Flash Cards!
+
+***
+
 ## [Mushroom Facts](skills/B01J4JWHP8)
 
 *Alexa, ask mushroom facts to give me some information.*
@@ -17212,6 +24167,14 @@ Gets the current song and artist charts from LastFM.
 
 ***
 
+## [Music Charts](skills/B01NCO2TER)
+
+*Alexa, open music charts*
+
+Get to know the global music charts
+
+***
+
 ## [Music Facts](skills/B01LAOSFJ2)
 
 *Alexa, open Music Facts*
@@ -17220,11 +24183,44 @@ This app will tell you a random music fact
 
 ***
 
+## [Music Geek](skills/B01N2XUV2X)
+
+*Alexa Open Music Geek*
+
+Music Facts
+
+***
+
 ## [Music Jokes](skills/B01CFXBVQ6)
 
 *Alexa, ask Music Jokes for a joke*
 
 Musician jokes
+
+***
+
+## [Music Maker](skills/B01N9GIX1J)
+
+*Alexa, open music maker*
+
+Interested in creating music?  Let Alexa help you out, and soon you will be playing songs on your own!
+
+***
+
+## [Music Nerd.](skills/B01MY0ATOF)
+
+*Alexa open Music Nerd*
+
+Music Nerd is a skill for generating interesting music facts. 
+Indulge your inner music nerd!
+
+***
+
+## [Music Note](skills/B01NCMVV5U)
+
+*There are no example interactions for this skill.*
+
+Play individual music notes
 
 ***
 
@@ -17241,6 +24237,14 @@ Listening skill builder for identifying music note key
 *alexa start music quiz*
 
 This is a music artist quiz
+
+***
+
+## [Music Teacher](skills/B01MZ19IQE)
+
+*Alexa, open music teacher*
+
+Trying to learn the basics on how to play the piano?  Let Alexa help you out, and soon you will be playing songs on your own!
 
 ***
 
@@ -17265,6 +24269,14 @@ This is a music trivia game
 *Alexa, launch musical instrument trivia*
 
 A fun trivia game including fun facts about musical instruments.
+
+***
+
+## [Musical Scale Assistant](skills/B01N0K75TB)
+
+*Alexa ask scale helper for notes in C Major*
+
+Musical Scale Helper was made to assist. Ask Scale Helper for notes in any major, minor, harmonic, or melodic minor scale, and hear Alexa's answer.
 
 ***
 
@@ -17300,6 +24312,14 @@ Muslim Guide Skill app tells you prayer times, open (azan/athan)  plus more comi
 
 ***
 
+## [Mustache Facts](skills/B01MRJYYMN)
+
+*Alexa, open Mustache Facts*
+
+Some facts about mustaches !
+
+***
+
 ## [Muzzley](skills/B01CKGPA06)
 
 *Alexa, start Muzzley.*
@@ -17324,12 +24344,36 @@ My Airport Info provides you with status and delays at Major US airports.
 
 ***
 
+## [My Allergy Assistant](skills/B01N99XUGB)
+
+*Alexa, ask My Allergy Assistant for the pollen count in McAllen, Texas.*
+
+My Allergy Assistant provides current pollen counts in your area to aid in allergy research.
+
+***
+
 ## [My Applause](skills/B01M9IFA3S)
 
 *Alexa, begin My Applause*
 
 You know you deserve some applause.  
 "Alexa, begin My Applause"
+
+***
+
+## [My Barista](skills/B01N44EN0W)
+
+*Alexa, ask My Barista what drink I should order today.*
+
+Have Alexa help you make up your mind, when choosing a drink order using an unofficial menu from A Cup of Commonwealth
+
+***
+
+## [My Bible Study](skills/B01MQVOIAV)
+
+*Alexa Open My Bible Study*
+
+Tool to help members of a home Bible study in Hawthorne, CA memorize key Bible verses.
 
 ***
 
@@ -17381,6 +24425,14 @@ Random Bollywood Facts
 
 ***
 
+## [My Bookmarks](skills/B01IDO17ZG)
+
+*alexa start my bookmarks*
+
+We all love the Kindle but still have a few physical books around. Get Alexa to keep track of your bookmarks with My Bookmarks!
+
+***
+
 ## [My British Life](skills/B01KDAS7B0)
 
 *Alexa, start my british life*
@@ -17405,9 +24457,25 @@ Facts about California
 
 ***
 
+## [My Cat Facts](skills/B01MYUF9ZG)
+
+*Alexa, ask cat trivia to give me a cat fact*
+
+Ever find yourself wondering about cats? Curious to learn some interesting trivia? Looking to pass time? This is the skill set for you!
+
+***
+
+## [My Cheerleader](skills/B01MQOGXNE)
+
+*Alexa, open My Cheerleader*
+
+My Cheerleader is an Alexa skill designed to increase your positive mindset. Simply say “Alexa, open My Cheerleader” and Alexa will cheer you on with positive a
+
+***
+
 ## [My Chef - Kitchen Assistant by Chefling](skills/B01KWGVF4G)
 
-*Alexa, open My Chef*
+*Alexa, ask My Chef what's expiring*
 
 My Chef is developed by Chefling, Inc. It can help you with inventory management, recipe searching, shopping list creation using a human-like interaction.
 
@@ -17453,6 +24521,14 @@ My Dermatologist is designed for your skin health. At My Dermatologist we will p
 
 ***
 
+## [My Disney Visit](skills/B01MXQOEUC)
+
+*Alexa, ask My Disney Visit how long until we go to Disney World*
+
+My Disney Visit
+
+***
+
 ## [My Dog Facts](skills/B01N3Q9TSD)
 
 *Alexa, ask doggo trivia to give me a dog fact*
@@ -17466,6 +24542,14 @@ Ever find yourself itching to learn some random facts about dogs? Ever wonder ho
 *Alexa, start my earth facts.*
 
 Earth Facts
+
+***
+
+## [my email](skills/B01NAK87B2)
+
+*Alexa open my email*
+
+Read, manage and print your GMail using your voice
 
 ***
 
@@ -17506,6 +24590,14 @@ Facts about food
 *Alexa, start my fungi facts*
 
 My Fungi Facts
+
+***
+
+## [My Galaxy](skills/B01N8ZGISZ)
+
+*Alexa, ask my galaxy*
+
+Get ready to test your knowledge of our galaxy and universe. You will be asked 10 questions and based on your answer, you will be provided with the final score.
 
 ***
 
@@ -17597,6 +24689,38 @@ Provide water and mowing advice based on your local weather.
 
 ***
 
+## [My Lemur Facts](skills/B01N5A34H6)
+
+*Alexa, ask lemur trivia to give me a lemur fact*
+
+Ever find yourself wondering about lemurs? Hoping to expand your trivia knowledge? Looking to pass time? This is the skill set for you!
+
+***
+
+## [My Library](skills/B01N63W7IQ)
+
+*Alexa ask my library for a fact*
+
+A library of facts about electric cars, drones, virtual reality, augmented reality, driverless cars updated every week.
+
+***
+
+## [My Locator](skills/B01M1GQ482)
+
+*Alexa, open My Locator*
+
+Locating your family just got a whole lot easier with GPSOnIt's My Locator and Alexa! My Locator by GPSOnIt.com is a service for everything you care about.
+
+***
+
+## [My Mediator](skills/B01N2UC5ZA)
+
+*Alexa Open my mediator*
+
+My Mediator for Alexa can give details on how to resolve California Real Estate Disputes via the Mediation Process versus Litigation
+
+***
+
 ## [My Memory](skills/B01DMMQZ2O)
 
 *Alexa, tell My Memory that on Tuesday I water the plants.*
@@ -17613,11 +24737,35 @@ Modern Art Facts
 
 ***
 
+## [My Notebook note taking skill](skills/B01MSQHJKX)
+
+*Alexa tell My Notebook The wine I liked is called zinfandel*
+
+Create notes in your favorite note-taking services, such as Evernote and OneNote
+
+***
+
+## [My Nurse Bot](skills/B01NAAJ43F)
+
+*Alexa ask My Nurse bot to add a symptom*
+
+Alexa, ask MyNursebot to add a symptom, reading or a medication.
+
+***
+
 ## [My Ocean Facts](skills/B01M7MJG7V)
 
 *Alexa, open my ocean facts*
 
 Fun Ocean Facts
+
+***
+
+## [My Paper](skills/B01N7ML92J)
+
+*Alexa, ask my paper for a decision from the journal*
+
+My Paper will give you an answer, that you might have heard in your entire academic career, from more than 15,000 academic journals.
 
 ***
 
@@ -17637,6 +24785,14 @@ Plant Trivia
 
 ***
 
+## [My Pokedex Unofficial](skills/B01MRSM0O0)
+
+*Alexa, ask my pokedex unofficial who is that pokemon*
+
+My Pokedex Unofficial provides a quick and funny way to ask Alexa: who is that pokemon? Or which is the pokemon number 10?
+
+***
+
 ## [My Pregnancy from BabyCenter](skills/B01L2VVWYI)
 
 *Alexa, ask My Pregnancy for my weekly update*
@@ -17653,11 +24809,11 @@ Keep up to date on the latest polls in the 2016 U.S. Presidential Race!
 
 ***
 
-## [My Recipes](skills/B01LYIPFAR)
+## [My Realtor](skills/B01NA9LPM1)
 
-*Alexa, ask my recipes how do you make salsa*
+*Alexa, open My Realtor.*
 
-Ask Alexa for the ingredients to my favorite recipes
+My Realtor can provide you with current and detail information of any property for sale or rental in your area.
 
 ***
 
@@ -17734,19 +24890,35 @@ They order the same things all the time. The skill can give you some Thai dishes
 
 ***
 
+## [My Time Facts](skills/B01MTNKVNX)
+
+*Alexa, start my time facts.*
+
+My Time Facts
+
+***
+
+## [my Timer](skills/B01MRR81DC)
+
+*Alexa,ask my timer to start.*
+
+You can use the timer to count the time difference.
+
+***
+
+## [my toy facts](skills/B01M0LOKSE)
+
+*Alexa, start my toy facts*
+
+Facts About Toys
+
+***
+
 ## [My Train](skills/B01M8LZ0RT)
 
 *Alexa, open my train*
 
 Provides live schedule information on a Northern Ireland direct train journey of your choice.
-
-***
-
-## [My Translator by Vonage](skills/B01EBP9KOQ)
-
-*Alexa, ask My Translator to translate water into Spanish*
-
-Use your Echo to translate words and phrases.
 
 ***
 
@@ -17758,6 +24930,14 @@ A simple trivia based quiz app
 
 ***
 
+## [My Tuning Oboe](skills/B01N6BSE23)
+
+*Alexa, ask My Tuning Oboe to give me an A.*
+
+Play a note for tuning an instrument.
+
+***
+
 ## [My Turtle Facts](skills/B01M10YDDQ)
 
 *Alexa, start my turtle facts*
@@ -17766,11 +24946,35 @@ Facts about turtles
 
 ***
 
+## [My Weekend](skills/B01MYVCL0E)
+
+*Alexa Ask My Weekend if I have Johnny next weekend*
+
+My Weekend helps divorced parents track if they have their kids when planning future events.
+
+***
+
 ## [My Wine Fact](skills/B01LZK17SN)
 
 *Alexa, open my wine fact*
 
 Wine Fact provides random fact to educate curious user.
+
+***
+
+## [My World Capitals](skills/B01MSX5Z9E)
+
+*Alexa, ask My World Capitals*
+
+This skill will test your knowledge of capital cities of the world. You will be asked 10 questions and for each correct answer, you will earn 1 point.
+
+***
+
+## [myAwesomeFacts](skills/B01MRW6BFU)
+
+*There are no example interactions for this skill.*
+
+Just an app that tells you fun stuff. Hold on tight, these facts will blow your mind!
 
 ***
 
@@ -17798,11 +25002,35 @@ Crazy about collecting LEGO® sets? Get the latest updates on available sets, se
 
 ***
 
+## [myCoolFacts](skills/B01NCOB802)
+
+*Alexa, open cool facts now*
+
+A skill that tells cool facts
+
+***
+
 ## [mydlink Home - Optimized for Smart Home](skills/B01F4WFJ5Y)
+
+*Alexa, turn on bedroom lights*
+
+Controlling D-Link Smart Plugs by speaking to Alexa, directly connected to the mydlink Wi-Fi Smart Plug to help you turn on/off the plug.
+
+***
+
+## [Myers Design](skills/B01N99TJ7I)
 
 *There are no example interactions for this skill.*
 
-Controlling D-Link Smart Plugs by speaking to Alexa, directly connected to the mydlink Wi-Fi Smart Plug to help you turn on/off the plug.
+null
+
+***
+
+## [MyEyedro: Electricity Info](skills/B01M9GYNY8)
+
+*Alexa, ask MyEyedro for today's highlights.*
+
+This skill provides electricity usage and cost information for a user's home or office when linked to an existing MyEyedro user account.
 
 ***
 
@@ -17838,6 +25066,14 @@ Gives health facts or tips
 
 ***
 
+## [MyHydroTrivia](skills/B01N9490YU)
+
+*Alexa london hydro trivia*
+
+Hydro Trivia
+
+***
+
 ## [MyIOTGeek](skills/B01DQQWJ08)
 
 *Alexa , open  i. o. t. fact*
@@ -17862,6 +25098,14 @@ A messaging service used to send short messages to others (or yourself) using yo
 
 ***
 
+## [MyParis Guide](skills/B01MT2T4O6)
+
+*Alexa, ask my paris guide for tell me some facts about paris*
+
+My Paris City Guide
+
+***
+
 ## [Myrtle Fillmore's Daily Thoughts on Truth](skills/B01FBHXPGM)
 
 *Alexa, Open Myrtle Fillmore*
@@ -17875,6 +25119,14 @@ This skill allows you to get a daily thought from the writings of Myrtle Fillmor
 *Alexa, ask facts demo to tell me a San Francisco trivia*
 
 Facts about San Francisco
+
+***
+
+## [mySnakeFacts](skills/B01MXYE3VL)
+
+*Alexa Open snake facts*
+
+Get amazing Snake facts
 
 ***
 
@@ -17910,6 +25162,14 @@ State  Flash Cards
 
 ***
 
+## [Mysterious House](skills/B01MSLNG8J)
+
+*Alexa play Mysterious House*
+
+Find the secret of the Mysterious House.
+
+***
+
 ## [Mystery Castle](skills/B01BUJ7R9G)
 
 *Alexa, launch Mystery Castle*
@@ -17923,6 +25183,14 @@ Explore a mysterious castle, collecting items and solving puzzles.
 *Alexa ask mystic mirror what is the weather in Dallas Texas*
 
 The Mystic Mirror skill provides helpful information to a user as they start their day - such as weather, traffic, and major news stories.
+
+***
+
+## [Mythic+ Affixes for WoW](skills/B01NBJRJ8I)
+
+*Alexa Ask cue mythic for the affix*
+
+Ask for this week's mythic+ affixes in World of Warcraft!
 
 ***
 
@@ -17950,11 +25218,75 @@ Small trivia game
 
 ***
 
+## [myXiaoTong](skills/B01MG4CP0A)
+
+*Alexa open through reports*
+
+support social service
+
+***
+
 ## [N.Y.C. Status](skills/B01DX5RWU4)
 
 *Alexa, ask N. Y. C. Status if alternate side is in effect.*
 
 NYC Status give info about parking rules, school closings and garbage collection in New York City. Example: 'Alexa, ask NYC Status about parking tomorrow.'
+
+***
+
+## [Nadine](skills/B01MYR2QDE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Nadine](skills/B01N2M1PK3)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Nadine](skills/B01NAAHWYN)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Nadinika](skills/B01N0KUVKI)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Nadinika](skills/B01N47HWT5)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Nadinika](skills/B01NAEDWUU)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Nadinika](skills/B01NCEDM3Q)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -17987,6 +25319,14 @@ A match the song to the album game for Steely Dan.
 *Alexa, start Name 10.*
 
 Alexa challenges you to name ten things!
+
+***
+
+## [Name Generator](skills/B01MXV56BA)
+
+*Alexa, ask Name Generator for a name.*
+
+Generate random plan or objective names.
 
 ***
 
@@ -18038,6 +25378,30 @@ Cool facts about Bangalore
 
 ***
 
+## [NanavApps](skills/B01N0LBIRQ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [NanavApps](skills/B01N1MSRNT)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [NanavApps](skills/B01NBIXGS2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Narcissism Test](skills/B01KCXTY7Y)
 
 *Alexa, start Narcissism Test*
@@ -18051,6 +25415,22 @@ Narcissism Test
 *Alexa, ask namo  namaha*
 
 Interesting facts about  current India's prime minister Narendra Modi
+
+***
+
+## [Narendra Modi Tweets unofficial](skills/B01N67DA99)
+
+*Alexa, ask top tweet*
+
+Skill reads the latest tweet from Prime Minister of India - Narendar Modi. Created by a fan.
+
+***
+
+## [NASA Mars](skills/B01LYTB0MS)
+
+*Alexa, open NASA Mars.*
+
+Get Mars rover updates directly from NASA, plus fun facts about the planet Mars and all Mars missions.
 
 ***
 
@@ -18182,14 +25562,6 @@ Play a game of Navy Wars with your Alexa! Inspired by Hasbro's game of Battleshi
 
 ***
 
-## [NBA stats by iknow.io](skills/B01DKTNECI)
-
-*Alexa, ask I Know NBA for the Cavs stats in the last 5 games*
-
-NBA statistics, powered by iknow.io
-
-***
-
 ## [NBC](skills/B01FGSGIHO)
 
 *Alexa, start NBC.*
@@ -18206,11 +25578,75 @@ NBC News 2016 United States presidential elections information.
 
 ***
 
+## [ne0r](skills/B01N1SYPJ3)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Neal Family Quiz](skills/B01N0KSGUM)
+
+*Alexa launch Neal Family Quiz*
+
+Quiz about the Neal Family
+
+***
+
+## [Near Earth Object Forecaster](skills/B01MSYWFNW)
+
+*Alexa Ask neo forecaster for todays forecast*
+
+This skill forecasts near earth objects for today or seven days and will list any that are hazardous according to NASA's rating in their api.
+
+***
+
+## [Nearby Aircraft](skills/B01N2W6OFO)
+
+*Alexa, open nearby aircraft*
+
+Ask Alexa for information about aircraft flying near you right now
+
+***
+
+## [Neato](skills/B01MXI58Y7)
+
+*Alexa, ask Neato to start cleaning*
+
+Alexa and Neato Botvac Connected work together to keep your home clean, without lifting a finger. Simply say, “Alexa, ask Neato to start cleaning.”
+
+***
+
+## [Neighborly](skills/B01MRZSJWL)
+
+*Alexa, Ask Neighborly to book an hour of housework.*
+
+Connect to your Neighborly account to book directly from Alexa.
+
+***
+
+## [Neil Stewart](skills/B01N0MYYF5)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Neo - Voice Analytic solution for Shopify](skills/B01J9R6FB2)
 
 *Alexa, ask Neo to tell me total sales this week*
 
 Instant Voice Analytic solution for Shopify. Ask Neo in your own language about sales, product or customer of your own store.
+
+***
+
+## [neo Matrix](skills/B01M7NX7PF)
+
+*Alexa, turn on lounge tv*
+
+neo Matrix Voice Control, Turn your TV on or off and change the input by voice
 
 ***
 
@@ -18263,6 +25699,14 @@ Nepal Facts
 
 ***
 
+## [Nepal Facts Skill](skills/B01MSKE089)
+
+*Alexa, Open Nepal Facts*
+
+This skill will give you interesting facts about Nepal.
+
+***
+
 ## [Nerd Quiz](skills/B01DT4HAQK)
 
 *Alexa, ask Nerd Quiz to start a new game.*
@@ -18295,11 +25739,19 @@ Alexa and Nest work together to help you set the perfect temperature - without h
 
 ***
 
-## [Nest Labs, Inc.](skills/B01LXYILGF)
+## [Nest](skills/B01LXYILGF)
 
 *There are no example interactions for this skill.*
 
-null
+Alexa and Nest work together to help you set the perfect temperature - without having to lift a finger.
+
+***
+
+## [Net Flicks Browser by Amogh Consultants](skills/B01N2O1OO1)
+
+*Alexa ask Net Flicks Browser Does Netflix play movies acted by Akshay Kumar.*
+
+Net Flicks Browser by Amogh Consultants, a fan of Netflix, is an unofficial skill that enables Alexa to search movies featuring favorite actors and actresses.
 
 ***
 
@@ -18311,11 +25763,27 @@ Have a Net10 Wireless Smartphone? Then this skill will make it easy for you to g
 
 ***
 
+## [Netatmo](skills/B01NA9KO1P)
+
+*Alexa, ask Netatmo is it noisy at Home?*
+
+“Alexa, ask Netatmo what’s the temperature outside”
+
+***
+
 ## [Netatmo Energy](skills/B01LZJ8S4R)
 
 *There are no example interactions for this skill.*
 
 "Alexa, set my thermostat to 20°C"
+
+***
+
+## [NetHack Fortune Cookies (Unofficial)](skills/B01MS06P0V)
+
+*Alexa, tell NetHack Fortune Cookies to give me a fortune*
+
+Unofficial fortune cookies from the classic game NetHack
 
 ***
 
@@ -18343,6 +25811,14 @@ Quiz on basic network concepts.
 
 ***
 
+## [Network Security Geek](skills/B01NBPELUM)
+
+*Alexa ask Network Security Geek to tell me a fact*
+
+Interesting network security facts.
+
+***
+
 ## [Network Subnet Trivia](skills/B01KWI5OCS)
 
 *Alexa ask Subnet Trivia to start a new game.*
@@ -18351,11 +25827,43 @@ Use Network Subnet Trivia to quickly learn the available hosts in class B and C 
 
 ***
 
+## [neulandherzer](skills/B01N0I6YMA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [neulandherzer](skills/B01N5F80V2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [neulandherzer](skills/B01NAJ0595)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Neural Net Facts](skills/B01KVTYXHU)
 
 *Alexa, ask neural net facts to tell me something about neural networks*
 
 Teaches people facts about neural nets, or also known as artificial neural networks.
+
+***
+
+## [Never Have I Ever](skills/B01NBHDQX5)
+
+*Alexa, Never Have I Ever*
+
+Let Alexa MC your favorite drinking game.
 
 ***
 
@@ -18391,11 +25899,35 @@ This skill is a quiz to encourage new parents and provide tips on parenting arou
 
 ***
 
+## [New Parents](skills/B01MY35801)
+
+*Alexa Ask New Parents for some advice*
+
+Tips and Advice for New Parents
+
+***
+
+## [New Year Countdown](skills/B01N1W6DYX)
+
+*Alexa, ask new year the time left in miami*
+
+Ask the time for the new year
+
+***
+
 ## [New York Basketball Trivia](skills/B01HHH4VR6)
 
 *Alexa open New York Basketball Trivia*
 
 How well do you know your New York Basketball? Prove it by scoring big on this 10 question multiple choice trivia quiz!
+
+***
+
+## [New York City Facts](skills/B01NBNC6RU)
+
+*Alexa, open New York City Facts*
+
+A fun skill that tells you many known and unknown facts about New York City.
 
 ***
 
@@ -18412,6 +25944,14 @@ Know the latest (2012) average SAT scores of New York City Schools. Search by Bo
 *Alexa, ask Green Markets for county Westchester*
 
 Search New York State Data for Farmer's Markets.  Search by County, City or Zip Code.    Alexa, ask Green Markets for County Westchester
+
+***
+
+## [New York Guide](skills/B01NCQCWVR)
+
+*Alexa, open new york guide*
+
+This guide will help you get around New York and supply you with all the daily scoops!
 
 ***
 
@@ -18447,6 +25987,14 @@ Informative facts about the Newfoundland Dogs
 
 ***
 
+## [Newport Beach Facts](skills/B01MR1P1J5)
+
+*Alexa Open newport beach facts*
+
+Facts about Newport Beach, California.
+
+***
+
 ## [News Anchor](skills/B01F5ZT2SA)
 
 *Alexa, ask News Anchor for news*
@@ -18466,7 +26014,7 @@ Read headlines and complete articles from Google News
 
 ## [News Feed](skills/B01M6WJWG4)
 
-*Alexa Ask News Feed What is the latest on the presidential elections*
+*Alexa Ask News Feed What's the latest on Donald Trump*
 
 Get instant updates on the most recent news, on any topic you're interested in.
 
@@ -18496,6 +26044,22 @@ Control your Nexia devices with Alexa
 
 ***
 
+## [Next Bowl Game](skills/B01NBK1DR1)
+
+*Alexa ask next game who plays next week?*
+
+Event Information For College Football Bowl Games In The 2016-2017 Season
+
+***
+
+## [Next Bus](skills/B01N488SN5)
+
+*Alexa, ask next bus for one zero six eight*
+
+Next Bus will search buses by a stop number in Dublin Ireland.
+
+***
+
 ## [Next President](skills/B01JTRAHCK)
 
 *Alexa, ask Next President what does Trump think about immigration?*
@@ -18509,6 +26073,14 @@ Ask Next President what Clinton or Trump thinks about a political issue.
 *Alexa, Ask The Next Train from Palo Alto to San Francisco*
 
 Real-time info on the next Caltrain
+
+***
+
+## [Next Transit](skills/B01M4NG0LE)
+
+*Alexa, ask Next Transit to set home address*
+
+Next Transit helps provide the next available transit option from your home. Please add home address and any other address.
 
 ***
 
@@ -18528,11 +26100,43 @@ Nice words
 
 ***
 
+## [Nicole Simon](skills/B01MQX02DA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Nicole Simon](skills/B01N6IZ6TH)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Nicole Simon](skills/B01N7FTH31)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Niesje Trivia](skills/B01GEI559M)
 
 *Alexa, Start Neesha Trivia.*
 
 Trivia Game about Niesje
+
+***
+
+## [Nietzsche Quotes](skills/B01N7M2EHM)
+
+*Alexa, ask Nietzsche Quotes for a quote*
+
+Random Nietzsche quotes
 
 ***
 
@@ -18546,9 +26150,25 @@ Nigeria Facts, tells you some basic facts about Nigeria
 
 ## [Night Light](skills/B01MCUDBVP)
 
-*Alexa, tell night light to turn on*
+*Alexa, tell night light on*
 
 Turn Alexa into a nightlight.
+
+***
+
+## [Nightingale](skills/B01KP2U2NC)
+
+*Alexa, Control Nightingale*
+
+Nightingale is the first smart home sleep system designed to ensure better and more restful sleep.
+
+***
+
+## [Nikola Tesla Facts](skills/B01N53XND4)
+
+*Alexa open Nikola Tesla Facts*
+
+Nikola Tesla Facts highlights the greatness of Nikola Tesla.
 
 ***
 
@@ -18576,6 +26196,14 @@ Nim is a simple game played with piles of objects. The objective is to beat the 
 
 ***
 
+## [Nine Cats](skills/B01MQY5GS2)
+
+*Alexa, ask 9 Cats for Russell Westbrook's steals per game in 2014*
+
+NBA statistics for those who have the sickness
+
+***
+
 ## [Nine Eleven Facts](skills/B01M9H2EO8)
 
 *Alexa, open nine eleven facts*
@@ -18600,6 +26228,14 @@ An insult skill to provide humorous insults for the San Francisco 49ers football
 
 ***
 
+## [ninja facts](skills/B01MTM7SJV)
+
+*Alexa open ninja facts*
+
+My Ninja Facts
+
+***
+
 ## [NJMyBusSchedule](skills/B01DLNW2AS)
 
 *Alexa, ask new jersey bus when is the next bus one eight two for bus stop one two four one four*
@@ -18616,11 +26252,27 @@ Learn to say "No" in many Languages!
 
 ***
 
+## [No Nerd Quiz](skills/B01NAHL0ME)
+
+*Alexa Open no nerd quiz*
+
+Trivia game
+
+***
+
 ## [Nocturnal Ninja](skills/B01GGINX3U)
 
 *Alexa, ask Nocturnal Ninja who is on The Late Show*
 
 Your guide to guest information on late night talk shows
+
+***
+
+## [Nolan Facts](skills/B01MS1G6QP)
+
+*Alexa Open Nolan Facts*
+
+Christopher Nolan Facts
 
 ***
 
@@ -18712,11 +26364,67 @@ Aurora skill will provide detailed information about the auroral activity over N
 
 ***
 
+## [Norway Facts](skills/B01MTQGAB6)
+
+*Alexa, open Norway Facts*
+
+This skill is purely made to give insight into Norway, a fascinating country.
+
+***
+
+## [Nostra Pompous](skills/B01NAKYHSQ)
+
+*Alexa Ask Nostra Pompous if I will ever get filthy rich*
+
+Nostra Pompous is based on a ridiculous 1919 book of outdated expressions and thinking. Nostra Pompus will answer your question - or make you scratch your head.
+
+***
+
+## [Noteboard](skills/B01MRO011Z)
+
+*Alexa, ask Noteboard when was the cat fed?*
+
+Noteboard helps you keep track of basic household tasks, like feeding your pet, or running the dish washer.
+
+***
+
 ## [Noteworthy Quotes](skills/B01DL10338)
 
 *Alexa, ask Noteworthy Quotes to read me a quote*
 
 A simple skill that reads you a noteworthy quote
+
+***
+
+## [Notion - Talk to your Email](skills/B01LY6E9E3)
+
+*Alexa, ask Notion what is new.*
+
+Talk to your email! Powered by Notion's intelligence, you can ask Alexa about important messages, what's waiting for your response, clean your inbox, and more.
+
+***
+
+## [Noval Magic](skills/B01MU4O3O7)
+
+*Alexa ask noval magic for a magic fact*
+
+The Noval Magic App will tell facts about Magic
+
+***
+
+## [Num Facts](skills/B01N7HIECT)
+
+*Alexa Open num facts*
+
+A handy skill for interesting facts about numbers.
+
+***
+
+## [Num Rand](skills/B01NBENK2G)
+
+*Alexa, ask Num Rand for a number between one and ten.*
+
+A random number generator for dice rolling or decision making.
 
 ***
 
@@ -18757,6 +26465,14 @@ A fun app to tell you facts about any number you could be curious about.
 *Alexa, ask number facts*
 
 Number Facts, tells you the facts associated to any number.
+
+***
+
+## [Number Flex](skills/B01NBONJIA)
+
+*Alexa, ask Number Flex to Start*
+
+Number Flex provides a challenge to combine 3 numbers into a goal number using the four basic operations.
 
 ***
 
@@ -18848,6 +26564,22 @@ Not sure where to eat in NYC? This skill has all the best curated answers. Just 
 
 ***
 
+## [NYC Guide](skills/B01MZ41V59)
+
+*Alexa Open New York Guide.*
+
+Get attractions, top five things to do, and local news for New York City.
+
+***
+
+## [NYC Running Events Fun Facts](skills/B01N1N8DK8)
+
+*Alexa, open n. y. c. running*
+
+A variety of facts about NYC Long Distance Races
+
+***
+
 ## [NYC Subway Status](skills/B01A1GTOE0)
 
 *Alexa, open subway*
@@ -18896,6 +26628,14 @@ Ask Alexa for an oblique strategy to help you solve a problem.
 
 ***
 
+## [obreit](skills/B01MSXQZCB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [OC Transpo](skills/B01DLMFW06)
 
 *Alexa, ask Oh See Transpo when is the next route 95 at halt 3047*
@@ -18920,11 +26660,11 @@ Are you interested in oceans? Just use Ocean Facts to know about the oceans.
 
 ***
 
-## [Ocean Sounds](skills/B01M5E92TH)
+## [Ocean Geek](skills/B01MRQ7QO6)
 
-*Alexa, open ocean sounds*
+*Alexa open ocean geek*
 
-Ambient noise of small ocean waves to help you focus, sleep, or relax.
+MyOceanFacts
 
 ***
 
@@ -18933,6 +26673,14 @@ Ambient noise of small ocean waves to help you focus, sleep, or relax.
 *Alexa, ask Octo Assist what my username is*
 
 Provides information about your GitHub profile
+
+***
+
+## [October Heroes](skills/B01N7EN4BM)
+
+*Alexa, ask October heroes to tell me a baseball story*
+
+Tales of October Heroes
 
 ***
 
@@ -18952,6 +26700,30 @@ Odd Facts is a fact list created from the Space Geek template.
 
 ***
 
+## [Odd Laws](skills/B01N0VGCZW)
+
+*Alexa, ask Odd Laws for a law*
+
+Odd laws from around the US!
+
+***
+
+## [Odense Football Facts](skills/B01N65HKCZ)
+
+*Alexa, launch odense football facts*
+
+This unofficial skill will give you facts about Odense Boldklub called OB from Denmark
+
+***
+
+## [Odesa's Facts](skills/B01MRXZLC3)
+
+*There are no example interactions for this skill.*
+
+Facts about Odesa, city of Ukraine
+
+***
+
 ## [OEIS-Skill](skills/B01DC4OET8)
 
 *Alexa, ask o. e. i. s. for a nice sequence*
@@ -18965,6 +26737,14 @@ OEIS: The On-Line Encyclopedia of Integer Sequences
 *Alexa, ask Office Friends Trivia to start new game*
 
 Test your knowledge of the The Office (US version) TV series with Office Friends Trivia.
+
+***
+
+## [Office Supplies Memory](skills/B01NBK5XFK)
+
+*Alexa Open office supplies memory*
+
+Memorize your daily used office supplies.
 
 ***
 
@@ -19000,6 +26780,46 @@ The Viking Havamals were bits of wisdom collected from the Norse.
 
 ***
 
+## [Old Time Radio Facts](skills/B01MYQ81YP)
+
+*Alexa, ask Old Time Radio to tell me a fact*
+
+Interesting facts about the Golden Age of Radio.
+
+***
+
+## [Oleh's Facts](skills/B01MSZHD5J)
+
+*There are no example interactions for this skill.*
+
+Fun facts about Oleh Pylypchak
+
+***
+
+## [Oliver Buschjost](skills/B01N4GQHQH)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Oliver Buschjost](skills/B01N5C3V61)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Oliver Buschjost](skills/B01NALX7ZT)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [olympus mountain helper](skills/B01IZ5NERC)
 
 *Alexa, ask olympus mountain what is the elevation?*
@@ -19016,6 +26836,14 @@ Take a quiz to determine which Greek God you are most like.
 
 ***
 
+## [Om Sai Ram](skills/B01MXZSHZH)
+
+*Alexa Open Sigh Ram*
+
+This skill invokes several short Sai Baba hymns. All these are publicly available hymns distributed by Shri Saibaba Sansthan Trust, Shirdi.
+
+***
+
 ## [Omaha Severe](skills/B01MDUALCD)
 
 *Alexa, ask Omaha Severe if I'm in severe weather.*
@@ -19029,6 +26857,22 @@ Will read the current severe weather conditions for Omaha Douglas County Nebrask
 *Alexa, open On This Day.*
 
 Are you interested in what happened on this day? With On This Day you get the most important world events that happened on this day for every day of the year.
+
+***
+
+## [One Card Poker](skills/B01NBIOI25)
+
+*Alexa, play One Card Poker*
+
+One Card Poker is a simple, fast-paced card game where you guess if your unrevealed card is better than your known opponent's card.
+
+***
+
+## [One Fact a Day](skills/B01NCJOVRA)
+
+*Alexa, open fact a day*
+
+This skill will provide you with a random fact.
 
 ***
 
@@ -19096,11 +26940,27 @@ Search New York City Open Data for Open Parking and Camera Violations.  Search b
 
 ***
 
+## [Open Study - Chemistry](skills/B01N2WOVAN)
+
+*Alexa launch study chemistry*
+
+A simple skill that demonstrates Quizlet's API functions and reads you a specific sets' term and definition on the subject of chemistry
+
+***
+
 ## [Opening Bell](skills/B01E9Z3UVC)
 
 *Alexa, ask Opening Bell for Tesla.*
 
 Retrieve stock quotes of publicly traded companies (on NASDAQ & NYSE exchanges) using the company name, not the ticker symbol.
+
+***
+
+## [OpenTable for Alexa](skills/B01N6DP80X)
+
+*Alexa, launch OpenTable*
+
+Make restaurant reservations with your voice using Alexa
 
 ***
 
@@ -19128,11 +26988,35 @@ Ask the operator for the technical excuse for the day.
 
 ***
 
+## [Ophthalmic Assistant](skills/B01MQSJQED)
+
+*Alexa, ask my ophthalmic assistant to tell me about laser scanning*
+
+The Ophthalmic Assistant finds articles assist in research and understanding for ophthalmologists.
+
+***
+
+## [opossum facts](skills/B01NH0I9WY)
+
+*Alexa, ask opossum facts to tell me a random opossum fact*
+
+Tells random facts about opossums
+
+***
+
 ## [Optic Trivia Game](skills/B01MEEH8VA)
 
 *Alexa Open Optic Trivia Game*
 
 A tribute Optic Trivia game.
+
+***
+
+## [Oradell Recycling](skills/B01MZXKW6K)
+
+*Alexa, Ask Oradell recycling what week is it*
+
+Oradell New Jersey Recycling Schedule
 
 ***
 
@@ -19160,6 +27044,14 @@ Find farmers' markets around any US city.
 
 ***
 
+## [Orlando Facts](skills/B01N0W6M9I)
+
+*Alexa, open Orlando Facts.*
+
+Orlando Facts provides a random fact about the city of Orlando, Florida.
+
+***
+
 ## [Oscar Wilde Quotes](skills/B01HBZE7KA)
 
 *Alexa ask oscar wilde quotes to tell me an oscar wilde quote*
@@ -19173,6 +27065,14 @@ Oscar Wilde quotes
 *Alexa, ask Oscar's quotes for a quote.*
 
 Ask Oscar Wilde and he will give you one of his many favorite quotes that will have you rethinking and pondering the wonderments of life.
+
+***
+
+## [Oscar Wilde Quotes](skills/B01N9HBO1C)
+
+*There are no example interactions for this skill.*
+
+Listen to random Oscar Wilde quotes
 
 ***
 
@@ -19205,6 +27105,22 @@ Have Alexa, pray with you
 *Alexa, ask OurGroceries to add milk to shopping list.*
 
 OurGroceries is the simplest way to keep your grocery lists instantly synchronized on all the smartphones in your household—and it’s free!
+
+***
+
+## [Overwatch Trivia Game](skills/B01NH0DE8L)
+
+*Alexa launch Overwatch Trivia Game*
+
+A 5-question Overwatch trivia game
+
+***
+
+## [OxWOD](skills/B01N9FCHU4)
+
+*Alexa, ask Ox WOD give me the wod*
+
+OxWod reads out the Workout of the day
 
 ***
 
@@ -19264,6 +27180,22 @@ Do you know your Da Vincis from your Picassos?
 
 ***
 
+## [Palak Paneer Recipe](skills/B01N78OCE2)
+
+*Alexa, open Palak Paneer Recipe and start recipe*
+
+'Palak Paneer Recipe' skill allows users to prepare 'Palak(Spinach) Paneer(Cottage Cheese)', a vegetarian delicious, healthy dish originated in northern India.
+
+***
+
+## [Palindrome Deck](skills/B01MYXXGZW)
+
+*Alexa Open Palindrome Deck*
+
+A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward, such as madam or kayak.
+
+***
+
 ## [Palindromes](skills/B01DQF8X4K)
 
 *Alexa, ask palindromes to say a palindrome*
@@ -19277,6 +27209,14 @@ Says random palindromes
 *Alexa, open palo alto facts*
 
 A simple fact dispenser for people who'd like to learn about Palo Alto.
+
+***
+
+## [panda facts](skills/B01N6IEDTH)
+
+*Alexa, ask panda facts for a fact*
+
+panda facts
 
 ***
 
@@ -19320,6 +27260,22 @@ Gives you a paradox
 
 ***
 
+## [Parent Geek](skills/B01N7CIMLF)
+
+*Alexa Open Parent Geek*
+
+Some random fun trivia about kids.  Not sponsored or endorsed by VWorks Software Pvt. Ltd. in anyway.
+
+***
+
+## [Parisian Facts](skills/B01MTV2DVA)
+
+*Alexa, Open Parisian Facts*
+
+Funny facts about Paris the city of love and lights
+
+***
+
 ## [Parks And Recreation Trivia (Unofficial)](skills/B01M4IDXBZ)
 
 *Alexa, open parks rec trivia*
@@ -19333,6 +27289,46 @@ Unofficial trivia game about the TV show Parks and Recreation!
 *Alexa, ask parks explore what is the list for all national parks*
 
 Parks Explore is a guide the outdoors - with details & insight of the most popular national parks in North America;
+
+***
+
+## [Party Bouncer](skills/B01MZWNSZJ)
+
+*Alexa open Party Bouncer*
+
+This skill create a host and guest list for a party. Then, visitors can ask if they are able to come in by asking Alexa.
+
+***
+
+## [Party Time](skills/B01N2OCSXS)
+
+*Alexa, ask Party Time is today a holiday*
+
+Party Time can tell you if a given date is a Holiday, what holiday is coming up next, or what the last holiday was.
+
+***
+
+## [Passover Trivia Game](skills/B01MT2R8JD)
+
+*Alexa, Play Passover Trivia*
+
+During the 7 nights of Passover test your knowledge of the holiday. Play with friends and family before or after dinner.
+
+***
+
+## [Password Generator](skills/B01MREIMJ8)
+
+*Alexa open password generator*
+
+Generate a random password
+
+***
+
+## [Pat Facts](skills/B01N4DCNXI)
+
+*Alexa Open pat facts*
+
+Facts all about Pat!
 
 ***
 
@@ -19384,11 +27380,60 @@ null
 
 ***
 
+## [Paul Burden](skills/B01MU2SJH1)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [PawBoost Lost and Found Pets](skills/B01MQW0BC0)
+
+*Alexa Ask paw boost for lost pets*
+
+Get the most recent PawBoost lost and found pet info in any city!
+
+***
+
 ## [PB Helper](skills/B01M8G6KZ6)
 
 *Alexa, ask PB Helper when are tomorrow's classes?*
 
 PB Helper is an unofficial companion skill providing information on class times and instructors for Pure Barre San Antonio.
+
+***
+
+## [pbkind](skills/B01NCQEKB0)
+
+*Alexa, open act kind*
+
+Acts of kindness
+
+***
+
+## [pblaten](skills/B01MY0TMFG)
+
+*Alexa, launch Laten Verses*
+
+(L)ord (A)lfred (Ten)nyson
+Ask "Laten Verses"
+
+***
+
+## [pbpass](skills/B01NGZUBQ3)
+
+*Alexa, open bad pass*
+
+Generate bad passwords
+
+***
+
+## [pbplease](skills/B01MU4VPXD)
+
+*Alexa, open please no*
+
+Obvious facts and one liners
 
 ***
 
@@ -19432,11 +27477,27 @@ Peaceful Habit helps you meditate for 5, 10, 20, or 40 minutes every day.
 
 ***
 
+## [Peer David](skills/B01MY1J0PP)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Penalty Box](skills/B01EINIFA6)
 
 *Alexa, ask the Penalty Box to tell me a hockey fact.*
 
 Get a fun hockey fact from a grab-bag of trivia about the sport that uses a stick and a puck!
+
+***
+
+## [Penguin Facts](skills/B01MXXK0II)
+
+*There are no example interactions for this skill.*
+
+Returns a Penguin Fact
 
 ***
 
@@ -19489,14 +27550,6 @@ Based on the Standard Days Method by Georgetown University.
 
 ***
 
-## [Periodic table](skills/B01M3UKPL7)
-
-*Alexa, ask periodic table about hydrogen*
-
-Ask alexa about elements and their atomic numbers
-
-***
-
 ## [Periodic Table](skills/B01HNN8ONQ)
 
 *Alexa ask simple periodic table*
@@ -19510,6 +27563,14 @@ Periodic Table
 *Alexa, launch Periodic Table Games*
 
 Periodic Table Games is a fun skill to help students master basic trivia about periodic tables.
+
+***
+
+## [Periodic Table Quiz](skills/B01N9D82Y7)
+
+*Alexa, play Periodic Table quiz*
+
+Your rusty high school chemistry class knowledge might not be enough to help you win a Au metal in this challenging quiz about the Periodic Table!
 
 ***
 
@@ -19561,6 +27622,54 @@ This skill gives you some useful tips to take care of your lovely Pets.
 
 ***
 
+## [Pet facts](skills/B01NBJ5K1M)
+
+*Alexa Open pet fact*
+
+Pet facts
+
+***
+
+## [Pet Finder](skills/B01N7M3DKY)
+
+*Alexa Open Pet Finder*
+
+We will help you to find the perfect pet for you based on a few questions.
+
+***
+
+## [Peter](skills/B01M67PWWC)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [peter.schrott](skills/B01N0OO98H)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [peter.schrott](skills/B01N2VRZNH)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [peter.schrott](skills/B01N9KWME5)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [PewDiePie Fan](skills/B01LX2MW9S)
 
 *Alexa, launch PewDiePie Fan*
@@ -19593,19 +27702,11 @@ phase of the moon
 
 ***
 
-## [Philips Hue](skills/B01LYQA2RR)
+## [Philadelphia Cheesecake Recipes](skills/B01N5ENTKK)
 
-*There are no example interactions for this skill.*
+*Alexa, open Cheesecake Recipes*
 
-null
-
-***
-
-## [Philips Hue](skills/B01MPX3JNE)
-
-*There are no example interactions for this skill.*
-
-null
+Find recipes and follow Alexa’s step-by-step instructions to make 15 delicious Philadelphia cheesecakes.
 
 ***
 
@@ -19614,6 +27715,14 @@ null
 *Alexa, ask Philly Rail, when is the next departure from Wayne?*
 
 The Philly Rail skill will provide Alexa access to regional rail train schedules around the Philly metro area.
+
+***
+
+## [philosophy trivia](skills/B01NCPA6O3)
+
+*Alexa ask philosophy trivia to start game*
+
+Philosophy trivia
 
 ***
 
@@ -19673,11 +27782,27 @@ Learn about various photography terms
 
 ***
 
+## [Photography Facts](skills/B01N0KK5E1)
+
+*Alexa, ask Photo Facts to tell me something*
+
+A simple app that spouts interesting photography facts!
+
+***
+
 ## [photography history buff](skills/B01IUQRGXO)
 
 *Alexa, ask photography history buff to tell me a photography history fact.*
 
 photography history buff
+
+***
+
+## [Photosynthesis Facts](skills/B01MTT3CSI)
+
+*Alexa, start photosynthesis facts and give me a fact*
+
+Interested in quick photosynthesis facts? Look no further than this skill for some quick biology info!
 
 ***
 
@@ -19694,6 +27819,14 @@ Practice multiple choice questions for the Physician Assistant Certification Exa
 *Alexa, open physics bowl.*
 
 A quiz game that will test your physics might!
+
+***
+
+## [Physics Formulas](skills/B01N7MFXXO)
+
+*Alexa, ask Physics Formulas for a random formula.*
+
+Provides physics formulas for you when you need them
 
 ***
 
@@ -19763,6 +27896,14 @@ Pick a Brain is a trivia game base on general knowledge. It is develop as traini
 
 ***
 
+## [Pick Me Up](skills/B01N4JLEDQ)
+
+*Alexa open pick me up*
+
+Get funny pick up lines! Only cheesy or inappropriate ones are included.
+
+***
+
 ## [Pick My Pet](skills/B01JTT4JKO)
 
 *Alexa, open pet picks*
@@ -19776,6 +27917,14 @@ Use Pick My Pet to quickly find your best pet match.
 *Alexa, ask pick someone to add John*
 
 Randomly choose someone in your list
+
+***
+
+## [PickFlick](skills/B01N1LKRJQ)
+
+*Alexa, ask Pick Flick for a movie starring Tom Hanks*
+
+Pick Flick provides movie recommendations based on an actor or director suggestion
 
 ***
 
@@ -19819,11 +27968,43 @@ Start your day by hearing some fun pie facts!
 
 ***
 
+## [Pie Number Facts](skills/B01NALAS5P)
+
+*Alexa ask pie facts for a fact about the number twenty three*
+
+Get random number, date and year facts
+
+***
+
+## [Pig](skills/B01MQZ7HRE)
+
+*Alexa, play the game pig dice*
+
+Pig Dice Game
+
+***
+
 ## [Pig Facts](skills/B01M7MGJ1X)
 
 *Alexa, launch Pig Facts.*
 
 Uncontroversial facts about pigs, our porcine buddies.
+
+***
+
+## [Pinball Bingo](skills/B01MS21GSC)
+
+*Alexa, Play Pinball Bingo.*
+
+A combination of pinball and bingo, this game is fun for the whole family.  You've never played BINGO like this before!
+
+***
+
+## [Pinball Machine](skills/B01MU5KE4C)
+
+*Alexa Open Pinball Machine*
+
+Gives facts about pinball machines
 
 ***
 
@@ -19840,6 +28021,22 @@ The pineapple is a tropical plant with edible multiple fruit consisting of coale
 *Alexa, use pingpong and start a match*
 
 Got a ping pong table? Let Alexa keep score and make the game even more fun with her wisecracks. This is a full featured skill with more than 25 interactions.
+
+***
+
+## [PingRing.com](skills/B01NGTXE70)
+
+*Alexa, tell PingRing I lost my phone*
+
+Alexa, tell PingRing I lost my phone.
+
+***
+
+## [Pinoy Facts](skills/B01N1S24Z6)
+
+*Alexa open pinoy facts*
+
+Pinoy fact is meant to give you informative informations about the history of the country Philippines. Watch out for some funny Pilipino jokes we all know!
 
 ***
 
@@ -19899,11 +28096,27 @@ Informative facts about the city of Pittsburgh, Pennsylvania
 
 ***
 
+## [Pittsburgh Recyling (Central & East divisions)](skills/B01N472S9N)
+
+*Alexa ask Pittsburgh Recycling is today recycling day*
+
+Tells you if it's recycling week in Pittsburgh (Central & East divisions)
+
+***
+
 ## [Pixar Fan Trivia](skills/B01HK8V36Y)
 
 *Alexa, open Pixar Fan Trivia*
 
 Are you a fan of Pixar movies? Play this fun trivia game to test your knowledge!
+
+***
+
+## [Pizza Hut](skills/B01MSXEBMC)
+
+*Alexa, open Pizza Hut*
+
+Ordering your favorite pizza just got even easier with Alexa!
 
 ***
 
@@ -19928,6 +28141,14 @@ Learn about different types of pizza, and what toppings they have.
 *Alexa, ask Nearby Places for directions to the closest Target*
 
 Places allows you to ask Alexa for directions to a location (store, restaurant, etc.) and gather information like phone number, and hours of operation.
+
+***
+
+## [Planet Friday](skills/B01N6CIA24)
+
+*Alexa, open planet friday*
+
+Planet Friday
 
 ***
 
@@ -19968,6 +28189,22 @@ Get a fact about Plano
 *Alexa, open plant facts*
 
 Ask Alexa to tell you about plants
+
+***
+
+## [Plant Facts](skills/B01N53ZX6E)
+
+*Alexa, Open Plant Facts*
+
+Skill gives facts about Herbaceous Ornamental Plants
+
+***
+
+## [Plant Facts by Benjamin](skills/B01N9LPAC0)
+
+*'Alexa, ask plant fact robot for a fact'*
+
+Ask for a fact about plants!
 
 ***
 
@@ -20019,11 +28256,59 @@ Play a game of blackjack, including the ability to double, split, and surrender
 
 ***
 
+## [Plinko Bingo](skills/B01N6JBB8L)
+
+*Alexa, Play Plinko Bingo.*
+
+A combination of pinball and bingo, this game is fun for the whole family.  You've never played BINGO like this before!
+
+***
+
+## [Plume Labs](skills/B01MSUO03O)
+
+*Alexa, ask Plume for pollution level in Los Angeles today*
+
+Know what you’re breathing on a daily basis! Plume gives you real-time pollution levels in your city, including the current Plume Index and the main pollutant.
+
+***
+
+## [PMP Quiz by TheProjectManagement.Guru LLC](skills/B01MR0VP75)
+
+*Alexa Ask p. m. p. quiz to start game*
+
+TheProjectManagement.Guru LLC - PMP Quiz
+
+***
+
+## [Pod Buddy](skills/B01NGTTOPK)
+
+*Alexa, Ask pod buddy to play Ted Radio Hour podcast*
+
+A one stop shop of 1200+ plus podcast feeds for Alexa. Includes the capability to search a podcast for recent guest or keyword, list the 10 most recent episodes
+
+***
+
+## [podcast.de](skills/B01N56QZKO)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Poetry](skills/B01GZ3K5CI)
 
 *Alexa, ask any poet about life*
 
 Famous and aspiring poets on life, nature and earth.
+
+***
+
+## [PoffinDex](skills/B01MXHS307)
+
+*Alexa, start PoffinDex*
+
+PoffinDex helps trainers keep track of which berries will help their Pokemon grow to reach their full contest potential.
 
 ***
 
@@ -20067,6 +28352,14 @@ PokemonFan Character Quiz
 
 ***
 
+## [Poker Pro](skills/B01MU5MAOB)
+
+*Alexa, start Poker Pro*
+
+Poker Pro helps you become a better No Limt Hold'Em player by providing you with hand scenarios and insightful feedback based on the action you take.
+
+***
+
 ## [Poker Stats](skills/B01M4IIOHH)
 
 *Alexa, open poker stats*
@@ -20107,11 +28400,27 @@ Brush up on your government facts with Political Geek! Get started by saying to 
 
 ***
 
+## [Polyatomic Ions](skills/B01N0UTN57)
+
+*Alexa, open Polyatomic Ions*
+
+With this skill you can home your Chemistry knowledge by memorizing the polyatomic ions.
+
+***
+
 ## [Pony Games](skills/B01HWY72KM)
 
 *Alexa, ask pony games to start game*
 
 Pony skills trivia game
+
+***
+
+## [Poodle Fun](skills/B01NBM48TL)
+
+*Alexa Open Poodle Fun*
+
+Ask Alexa for entertaining facts and information about poodles.
 
 ***
 
@@ -20152,6 +28461,14 @@ See how well you know Pope Francis with this quick game!
 *Alexa open porcelain facts*
 
 Porcelain facts
+
+***
+
+## [Portable NYC](skills/B01N0MJHWE)
+
+*Alexa ask New York facts*
+
+Little handy encyclopedia of New York City facts, statistics and dates.
 
 ***
 
@@ -20267,6 +28584,22 @@ Gives you positive quotes to uplift your spirit.
 
 ***
 
+## [Possibly Interesting Facts](skills/B01N07ZL1W)
+
+*Alexa ask possibly interesting facts to tell me a possibly interesting fact*
+
+A skill that provides simple fun facts.
+
+***
+
+## [Posted Messages](skills/B01N8YM05O)
+
+*Alexa, open Posted Messages*
+
+Post messages to your personal message board from anywhere (e.g. connected devices or web services) and have Alexa read the messages to you.
+
+***
+
 ## [Potassium Frog Ltd](skills/B01LWS0IQA)
 
 *There are no example interactions for this skill.*
@@ -20283,6 +28616,22 @@ Potato dude facts
 
 ***
 
+## [Potato Me](skills/B01N7MDLND)
+
+*Alexa open potato me*
+
+tells random potato facts
+
+***
+
+## [Potato Trivia](skills/B01N6MLREF)
+
+*Alexa, launch Potato Trivia*
+
+Test your knowledge about potatoes with this potato trivia quiz, and learn something along the way!
+
+***
+
 ## [Potter Trivia](skills/B01DKL42S6)
 
 *Alexa, launch Potter Trivia*
@@ -20296,6 +28645,14 @@ Test your knowledge of the Wizarding world with this Harry Potter Trivia Skill.
 *Alexa, open Potterhead*
 
 Are you a muggle or a wizard?
+
+***
+
+## [Potterhead Sorting Ceremony](skills/B01N2WOK43)
+
+*Alexa, ask Sorting Ceremony to sort me*
+
+The enchanted PotterHead Sorting Ceremony looks into the head of the wearer to sort a student into one of the four Hogwarts houses,
 
 ***
 
@@ -20387,6 +28744,22 @@ Skill to provide a prayer
 
 ***
 
+## [precompiled](skills/B01N9D5L9N)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [precompiled](skills/B01N9EBGLS)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Pregnancy Countdown](skills/B01KF8TCDM)
 
 *Alexa, tell pregnancy countdown I am having a baby*
@@ -20427,6 +28800,14 @@ If you know someone named Chris on Facebook that's running for president, this s
 
 ***
 
+## [President Tweets](skills/B01N8OOFJ1)
+
+*Alexa, ask President Tweets to read me his latest tweet*
+
+This is an Alexa Skill that reads back Donald Trump tweets
+
+***
+
 ## [Presidential Elections Trivia](skills/B01M69DLPA)
 
 *Alexa launch Presidential Elections trivia*
@@ -20440,6 +28821,14 @@ Trivia questions on U.S. Presidential elections
 *alexa, open presidential facts*
 
 2016 Presidential Candidates Fun Facts
+
+***
+
+## [Presidential Facts](skills/B01MR0TW2B)
+
+*Alexa Open Presidential Facts*
+
+Recites Presidential Trivia and Facts
 
 ***
 
@@ -20507,6 +28896,14 @@ Get in the campaign spirit and test your US President trivia knowledge.
 
 ***
 
+## [Presidential Tweets](skills/B01N54GHTE)
+
+*Alexa, open presidential tweets*
+
+Get Alexa to recite one of the Donald's greatest hits from Twitter
+
+***
+
 ## [Presidents Trivia](skills/B01DOX4U4Q)
 
 *Alexa, launch Presidents*
@@ -20555,11 +28952,27 @@ Quiz questions about prime numbers
 
 ***
 
+## [PrimeCreation](skills/B01NGYXJ8U)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Princess Facts](skills/B01M2BBZ3Z)
 
 *Alexa, Start princess facts*
 
 Interesting facts about pop-culture princesses
+
+***
+
+## [Priority board](skills/B01N2OLHS4)
+
+*Alexa launch priority board*
+
+Priority Board helps you focus and prioritize on the top 5 important tasks for the day
 
 ***
 
@@ -20691,6 +29104,14 @@ Helps you learn about Java programming keywords, datatypes, and modifiers
 
 ***
 
+## [Programming Quotes](skills/B01N9N9CSV)
+
+*Alexa, open Programming Quotes*
+
+Programming quotes galore!
+
+***
+
 ## [Programming terms](skills/B01LWJ13GA)
 
 *Alexa, open programming terms*
@@ -20707,6 +29128,14 @@ A great way to gain some familiarity with Ruby and get started with this program
 
 ***
 
+## [ProhibitionEraCocktails](skills/B01N53NEQ1)
+
+*Alexa, open  prohibition cocktail*
+
+Tells recipes for the prohibition era cocktails and their short stories.
+
+***
+
 ## [Project+ Quiz](skills/B01C6DTKDG)
 
 *Alexa, open Project Plus Quiz.*
@@ -20715,19 +29144,19 @@ Sharpen your Project+ knowledge or supplement your certification preparation wit
 
 ***
 
+## [ProjectCoaching](skills/B01MRXZHKJ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Promptly](skills/B01DPVOR9K)
 
 *Alexa, ask Promptly for the current prompt*
 
 Jump start your creativity with weekly writing prompts
-
-***
-
-## [Pronto.ai](skills/B01EWGOT6S)
-
-*Alexa, ask Pronto to call 510.378.6712*
-
-Pronto makes phone calls for you. Your phone assistant bot!
 
 ***
 
@@ -20771,6 +29200,14 @@ Ask Alexa for facts about Human Psychology!
 
 ***
 
+## [Pub Quiz Questions HQ](skills/B01N5J1QDX)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [puffin facts](skills/B01JHC8TZO)
 
 *Alexa, open puffin facts*
@@ -20803,11 +29240,35 @@ A way to find local information in the Washington State Puget Sound area.
 
 ***
 
+## [Pun Fun](skills/B01N8VZ31B)
+
+*Alexa, open Pun Fun.*
+
+Are you interested in puns? Rely on Pun Fun for hundreds of common and peculiar puns.
+
+***
+
+## [Puppy Facts](skills/B01N2TDHBE)
+
+*Alexa Open Puppy Facts*
+
+Get awesome facts about cute little puppies
+
+***
+
 ## [Puppy Master](skills/B01LYNFFMZ)
 
 *Alexa, Open Puppy Master.*
 
 Puppy Master gives you trivia facts about dogs.
+
+***
+
+## [Purim Trivia Game](skills/B01N7M5PTS)
+
+*Alexa, Open Purim Trivia*
+
+How well do you know your Purim Holiday Trivia? This game is fun for all ages!
 
 ***
 
@@ -20840,6 +29301,22 @@ Ask Alexa when the next Puzzled Pint event is.
 *Alexa,question trivia*
 
 Play a trivia game
+
+***
+
+## [Q.R.S. Skill](skills/B01N02HVK7)
+
+*Alexa, tell QRS to play*
+
+QRS Piano Skill
+
+***
+
+## [Qambar Raza](skills/B01M5GICSP)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -20887,6 +29364,14 @@ To use the Quaker Alexa skill, try saying…
 
 ***
 
+## [Quality Jokes (Unofficial Reddit joke client)](skills/B01NAMU7TH)
+
+*Alexa, open Quality Jokes*
+
+Popular jokes unofficially obtained from Reddit.
+
+***
+
 ## [Queen Facts](skills/B01M7TNTUT)
 
 *Alexa, launch Queen Facts*
@@ -20900,6 +29385,14 @@ Learn about one of the world's greatest bands, Queen, one fact at a time.
 *Alexa, Launch Madonna Trivia*
 
 A fun trivia for fans of Madonna, the Queen of Pop. Alexa, launch Madonna Trivia
+
+***
+
+## [Questionable Year](skills/B01N7L13I2)
+
+*Alexa, ask Questionable Year for a fact*
+
+Curious about a year in history? Ask Alexa!
 
 ***
 
@@ -20940,6 +29433,22 @@ Quickly add events to your primary Google Calendar. Quick Events will notify you
 *Alexa, open Quick Fun Facts*
 
 Gives a random fun fact
+
+***
+
+## [quick pick](skills/B01MY1MZWB)
+
+*Alexa open quick pick*
+
+unofficial powerball number generator.
+
+***
+
+## [Quick word spell](skills/B01NCLVOI4)
+
+*Alexa Ask quick word spell to spell toaster*
+
+This skill helps users spell words that they know how to say but forget to spell.
 
 ***
 
@@ -20999,11 +29508,35 @@ Harry Potter quiz to play with friends.
 
 ***
 
+## [Quora](skills/B01N5F26DM)
+
+*Alexa, ask Quora*
+
+Ask questions and get answers from experts on Quora.
+
+***
+
+## [Quote Box](skills/B01MSY7SFQ)
+
+*Alexa open quote box and give me a quote*
+
+Get a quote or a verse to enlighten the day or the mind
+
+***
+
 ## [Quote Machine](skills/B01LXXV8MZ)
 
 *Alexa Open Quote Machine*
 
 Gives random quotes from famous people.
+
+***
+
+## [Quote master](skills/B01N9BOKMF)
+
+*Alexa, ask quote master for a quote.*
+
+Says a funny quote.
 
 ***
 
@@ -21020,6 +29553,22 @@ Just a simple app that give you access to over 75,000 random quotes.
 *Alexa, open Quote of the Day*
 
 Get a new quote of the day!
+
+***
+
+## [Quote of the Day](skills/B01N1QMH2R)
+
+*Alexa Ask quote of the day a daily quote*
+
+Get an inspiring quote of the day
+
+***
+
+## [Quote Trivia](skills/B01N6311R8)
+
+*Alexa, open quote trivia*
+
+Test your knowledge of famous quotes by playing our game!
 
 ***
 
@@ -21063,6 +29612,14 @@ Quotes from Marshall McLuhan
 
 ***
 
+## [Quotes from Abe](skills/B01MRR5KOL)
+
+*Alexa ask president abe tell me a quote*
+
+Ask Alexa for a quotation from the 16th President of the USA, Abraham Lincoln.
+
+***
+
 ## [Quotes from Charles Fillmore](skills/B01FA2IPHC)
 
 *Alexa, Ask Papa Charlie*
@@ -21071,11 +29628,43 @@ This is a skill that allows you to ask Alexa for quotes from Charles Fillmore. S
 
 ***
 
+## [QusaWare](skills/B01MYSDM6L)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [QVine](skills/B019R0JRDE)
 
 *Alexa, ask QVine, when is the next quarterly meeting?*
 
 This app allows QVine employees to ask about upcoming events on the QVine calendar.
+
+***
+
+## [r. facts unofficial](skills/B01NAFEDA6)
+
+*Alexa, open r. facts unofficial.*
+
+The unofficial finest facts from Reddit, courtesy of r/todayilearned. Not endorsed by Reddit, Inc.
+
+***
+
+## [r. jokes](skills/B01MTKPG8V)
+
+*Alexa, open r. jokes.*
+
+The finest jokes from Reddit, courtesy of r/jokes.
+
+***
+
+## [r. news unofficial](skills/B01N9EBFZP)
+
+*Alexa, open r. news unofficial.*
+
+The unofficial finest news from Reddit, courtesy of r/nottheonion. Not endorsed by Reddit, Inc.
 
 ***
 
@@ -21143,6 +29732,94 @@ Facts about Radford, VA
 
 ***
 
+## [Radio Challenge Yukon](skills/B01NALPZAM)
+
+*Alexa open Radio Challenge Yukon*
+
+Are you interested in the old-time radio show Challenge of the Yukon? Rely on Radio Challenge Yukon to listen to this adult drama in the golden age of radio.
+
+***
+
+## [Radio Dragnet](skills/B01MY0RZXI)
+
+*Alexa open Radio Dragnet*
+
+Are you interested in the old-time radio show Dragnet? Rely on Radio Dragnet to listen to this top-rated adult police drama in the golden age of radio.
+
+***
+
+## [Radio Gunsmoke](skills/B01MRSQTZ2)
+
+*Alexa, open Radio Gunsmoke.*
+
+Are you interested in the old-time radio show Gunsmoke? Rely on Radio Gunsmoke to listen to this long-running adult western classic in the golden age of radio.
+
+***
+
+## [Radio Inner Sanctum](skills/B01MT1LTF7)
+
+*Alexa open Radio Inner Sanctum*
+
+Are you interested in the old-time radio show Inner Sanctum Mysteries? Rely on Radio Inner Sanctum to listen to this adult drama in the golden age of radio.
+
+***
+
+## [Radio Johnny Dollar](skills/B01NBMH2WE)
+
+*Alexa open Radio Johnny Dollar*
+
+Are you interested in the old-time radio show Yours Truly, Johnny Dollar? Rely on Radio Johnny Dollar to listen to this adult drama in the golden age of radio.
+
+***
+
+## [Radio Locator](skills/B01MQFPCI9)
+
+*Alexa, open radio stations*
+
+Find local radio stations and their frequencies
+
+***
+
+## [Radio Lux Theatre](skills/B01N7K1UA0)
+
+*Alexa open Radio Lux Theatre*
+
+Are you interested in the old-time radio show Lux Radio Theatre? Rely on Radio Lux Theatre to listen to this preeminent adult drama in the golden age of radio.
+
+***
+
+## [Radio Philip Marlowe](skills/B01NCOP0GJ)
+
+*Alexa open Radio Philip Marlowe*
+
+Are you interested in the old-time radio show Adventures of Philip Marlowe? Rely on Radio Philip Marlowe to listen to this top drama in the golden age of radio.
+
+***
+
+## [Radio Six Shooter](skills/B01N9JGXO0)
+
+*Alexa open Radio Six Shooter*
+
+Are you interested in the old-time radio show The Six Shooter? Rely on Radio Six Shooter to listen to this top adult western drama in the golden age of radio.
+
+***
+
+## [Radio Suspense](skills/B01MRYCAC7)
+
+*Alexa open Radio Suspense*
+
+Are you interested in the old-time radio show Suspense? Rely on Radio Suspense to listen to this long-running premier adult drama in the golden age of radio.
+
+***
+
+## [Radio The Whistler](skills/B01MY0RWJW)
+
+*Alexa open Radio The Whistler*
+
+Are you interested in the old-time radio show The Whistler? Rely on Radio The Whistler to listen to this top adult mystery drama in the golden age of radio.
+
+***
+
 ## [Radioplayer](skills/B01M13BOP1)
 
 *Alexa, ask Radioplayer to start*
@@ -21151,11 +29828,43 @@ Listen to more than 460 UK radio stations from Radioplayer on your Alexa-enabled
 
 ***
 
-## [Rain Sounds](skills/B01LXQXW3G)
+## [Radioplayer Deutschland GmbH](skills/B01NBMCX9D)
 
-*Alexa, open rain sounds*
+*There are no example interactions for this skill.*
 
-Ambient noise of light rainfall to help you focus, sleep, or relax.
+null
+
+***
+
+## [raethlein](skills/B01MRYW4MR)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [raethlein](skills/B01MXZPPI9)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [raethlein](skills/B01N0KVDTU)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Raiders Fan](skills/B01NBJX3H6)
+
+*Alexa, Ask Raiders Fan give me a flash briefing on the Raiders*
+
+Get unofficial to-the-minute stats & fun facts on the Raiders supplied by Fresh Digital Group. This skill isn’t sponsored or endorsed by the Oakland Raiders.
 
 ***
 
@@ -21164,6 +29873,14 @@ Ambient noise of light rainfall to help you focus, sleep, or relax.
 *Alexa, ask Rainy Day Fun what can I do today?*
 
 Not sure what to do inside on a rainy day? This skill contains 14 possible things to do like make your own volcano or experiment with non-newtonian fluids.
+
+***
+
+## [Raising Healthy Kids](skills/B01MSRSL4U)
+
+*Alexa Open Raising Healthy Kids*
+
+Raising Healthy Kids
 
 ***
 
@@ -21180,6 +29897,14 @@ Raj's trivia pursuit tests your knowledge of how well you know him.
 *Alexa, ask Ramayan Expert start new game*
 
 Quiz from Indian Epic Ramayana
+
+***
+
+## [Ramen Geek](skills/B01N2YZY9X)
+
+*Alexa, ask Ramen Geek to tell me a ramen fact*
+
+Ramen Geek
 
 ***
 
@@ -21239,11 +29964,11 @@ Chess 960 Random Chess layout generator.
 
 ***
 
-## [Random Chord Progressions](skills/B01LYM1DY2)
+## [Random Comic Facts](skills/B01N3RESD1)
 
-*Alexa, open random chord progressions*
+*Alexa, ask random comic facts to tell me a comic fact*
 
-Don't know what chords to play? Ask Alexa! With the Random Chord Progressions skill you will get inspiration just by asking for it!
+Random Comic Fact
 
 ***
 
@@ -21252,6 +29977,14 @@ Don't know what chords to play? Ask Alexa! With the Random Chord Progressions sk
 *Alexa, ask Random Comments to start new game.*
 
 This is a simple game where Alexa will state a random comment and you determine whether the random comment is true or false.  At the end you will get a score.
+
+***
+
+## [Random Compliments](skills/B01MSQGGBY)
+
+*Alexa ask Random Compliments for a Compliment*
+
+Ask and you shall receive a beautiful compliment
 
 ***
 
@@ -21276,6 +30009,38 @@ Have Alexa tell a random joke
 *Alexa, ask Random Episode Generator to generate a random episode of Seinfeld*
 
 A random episode generator for any show that lets users know where to stream the episode.
+
+***
+
+## [random fact](skills/B01MSJMQ85)
+
+*Alexa ask random facts for a fact*
+
+Random Facts has a list of, well, random facts. Simply say "give me a fact" to receive a random fact.
+
+***
+
+## [Random Fact](skills/B01N2L6YKZ)
+
+*Alexa, start random fact.*
+
+The skill will speak out random facts
+
+***
+
+## [Random Fact Generator](skills/B01N459KKK)
+
+*Alexa, ask random fact to tell me a random fact*
+
+Random Fact Generator
+
+***
+
+## [random facts](skills/B01MS1WP06)
+
+*Alexa, ask random facts to tell me a random fact*
+
+Alexa recites totally random interesting facts
 
 ***
 
@@ -21343,6 +30108,14 @@ Random True Facts
 
 ***
 
+## [Random Facts!](skills/B01N0V0DZR)
+
+*Alexa, ask random facts to get new fact*
+
+Random Facts!
+
+***
+
 ## [Random Flyers Facts](skills/B01IS13NKQ)
 
 *Alexa, start random Flyers facts*
@@ -21364,6 +30137,14 @@ Just a random food for your thoughts.
 *Alexa, open random fun facts*
 
 Random Fun Facts
+
+***
+
+## [Random Interesting Facts](skills/B01N5KHHAY)
+
+*Alexa, ask random interesting facts to give me a fact*
+
+Random Interesting Facts gives you random interesting facts when asked. It has many interesting facts that you would want to share with your friends and family!
 
 ***
 
@@ -21392,6 +30173,30 @@ If you need a quickly char, just use Random Letter and enjoy.
 
 ***
 
+## [Random Misconception](skills/B01N56VYOU)
+
+*Alexa, ask Random Misconception for a fact*
+
+Get a random misconception
+
+***
+
+## [Random Movie](skills/B01N4724AB)
+
+*Alexa, ask Random Movie to give me a random Stallone movie*
+
+Gives you a random movie to watch
+
+***
+
+## [Random Movie Quote](skills/B01N0KYLDW)
+
+*Alexa, random movie quote*
+
+Provides a random movie quote on request
+
+***
+
 ## [Random Movie Trivia](skills/B01M7WBPGM)
 
 *Alexa,  ask movie trivia to start game*
@@ -21408,19 +30213,19 @@ Randomized ideas for writers, artists, and anyone else who needs a place to star
 
 ***
 
-## [Random number](skills/B01M3TX1FP)
-
-*Alexa, ask random number for a random number between one and five*
-
-Quickly get random numbers in a specific range.
-
-***
-
 ## [Random Number](skills/B01AB0IK96)
 
 *Alexa ask Random Number for a number*
 
 Ask for a random number between 1 and 100
+
+***
+
+## [Random number generator](skills/B01NBKP13Y)
+
+*Alexa Open random number generator*
+
+Generate random numbers directly in Alexa
 
 ***
 
@@ -21453,6 +30258,14 @@ Random NYC Museum
 *Alexa, open Random Password Generator*
 
 Need a completely unique random password? You've come to the right skill!
+
+***
+
+## [Random Password Generator](skills/B01N7IAR6C)
+
+*Alexa Open random password generator*
+
+Generate random passwords with Alexa.
 
 ***
 
@@ -21520,6 +30333,14 @@ Have Alexa tell you a random thought, the kind you would come up with in the sho
 
 ***
 
+## [random trivia](skills/B01N1T6OKB)
+
+*Alexa, open random trivia*
+
+trivia skill
+
+***
+
 ## [Random Trivia](skills/B01F6ZLS90)
 
 *Alexa, open Random Trivia*
@@ -21576,6 +30397,14 @@ Want Alexa to say a random word?
 
 ***
 
+## [Random Word Generator](skills/B01MZ4U30Y)
+
+*Alexa, open random word generator*
+
+Learn new, interesting and random words.
+
+***
+
 ## [Random World Facts](skills/B01F4TRG9E)
 
 *Alexa, Open world geek*
@@ -21608,6 +30437,30 @@ Use the Randomizer skill for all of your Random Number Needs!  Simply ask Alexa!
 
 ***
 
+## [RandomNumberCalculator](skills/B01NABFJOF)
+
+*Alexa, ask Random Calculator to get me a random number*
+
+Get a random number from Alexa
+
+***
+
+## [RandomVocab](skills/B01N0P3KL9)
+
+*Alexa ask random vocab a word*
+
+request a random word with optional parameter 3-20 characters length
+
+***
+
+## [RandomWordGenerator](skills/B01N7KKCRK)
+
+*Alexa, ask word gen to give me a five letter word*
+
+App to generate random words of length 3 to 20.
+
+***
+
 ## [Rap Facts](skills/B01IRTY6E6)
 
 *Alexa, open rap facts*
@@ -21632,6 +30485,14 @@ This skill tells you the facts about the credit card size computer called Raspbe
 
 ***
 
+## [Rat Facts](skills/B01MSTOX15)
+
+*Alexa, open rat facts.*
+
+get interesting facts about rats
+
+***
+
 ## [Rat Terrier Facts](skills/B01LX2M0ON)
 
 *Alexa start rat terrier facts*
@@ -21645,6 +30506,14 @@ Get a fun fact about the Rat Terrier dog breed.
 *Alexa, ask Rational Eight Ball if I should go to work*
 
 Rational 8-Ball
+
+***
+
+## [re:Invent 2016](skills/B01MQK6PNC)
+
+*Alexa, ask re:Invent who is the next Keynote speaker?*
+
+The companion skill for the AWS re:Invent 2016 Conference.
 
 ***
 
@@ -21672,11 +30541,91 @@ A skill to read posts from Fred Wilson's blog (www.avc.com)
 
 ***
 
+## [Read Me a Haiku](skills/B01N2SL5WW)
+
+*Alexa open Haiku Reader*
+
+Reads a random Haiku poem to you
+
+***
+
+## [Read the Book of Mormon This Year](skills/B01MXUKDFJ)
+
+*Alexa, open the Book of Mormon*
+
+Have Alexa read you the Book of Mormon every day this year.
+
+***
+
+## [Read the Doctrine and Covenants This Year](skills/B01MRTSRHU)
+
+*Alexa, open Doctrine Covenants*
+
+Have Alexa read you the Doctrine and Covenants every day this year.
+
+***
+
+## [Read the New Testament This Year](skills/B01N1OOBAO)
+
+*Alexa, open the New Testament*
+
+Have Alexa read you the New Testament (KVJ) every day this year.
+
+***
+
+## [Read the Old Testament This Year](skills/B01NBGZENP)
+
+*Alexa, open the Old Testament*
+
+Have Alexa read you the Old Testament (KJV) every day this year.
+
+***
+
+## [Read the Pearl of Great Price This Year](skills/B01N4AABV4)
+
+*Alexa, open the Pearl of Great Price*
+
+Have Alexa read you the Pearl of Great Price every day this year.
+
+***
+
 ## [Reagan Quotes](skills/B01L18OU78)
 
 *Alexa, start Reagan quotes*
 
 This Alexa application  randomly tells Reagan quotes.
+
+***
+
+## [Real Buddha Quotes](skills/B01MQQDZHU)
+
+*Alexa, start real buddha quotes*
+
+Real Buddha Quotes.
+
+***
+
+## [Real Estate](skills/B01MQOXDR4)
+
+*Alexa, open Real Estate.*
+
+An app where you can search for houses to buy and rent, and get in touch with local real estate agents.
+
+***
+
+## [Really? True Facts](skills/B01MZ3U3ME)
+
+*Alexa, open really true facts*
+
+Ask Really? True Facts to receive an random, interesting fact!
+
+***
+
+## [Recent Earthquakes](skills/B01NBNZ1HT)
+
+*Alexa Open Recent Earthquakes*
+
+Recent Earthquakes
 
 ***
 
@@ -21696,6 +30645,14 @@ Find recipes and ingredients for thousands of dishes.
 
 ***
 
+## [Recipe Finder By Ingredients](skills/B01MTM9MUZ)
+
+*Alexa Ask recipe finder what I can make with beef and rice*
+
+Recipe Finder can help you find a good recipe based on what you have in your fridge.
+
+***
+
 ## [Recipe Helper](skills/B01II5XWGM)
 
 *Alexa, ask Recipe Helper what is the recipe for Thai Shrimp Soup*
@@ -21712,6 +30669,22 @@ What is the recipe for common dishes?
 
 ***
 
+## [RecipeBox](skills/B01MYQDK47)
+
+*Alexa Open RecipeBox*
+
+Search recipes by name and hear how to prepare them.
+
+***
+
+## [Recommend Me A Book Skill](skills/B01N6LB5SY)
+
+*Alexa, open Recommend me a book*
+
+Alexa skill for book recommendations in a specific field/category, e.g. top books in 'business'.
+
+***
+
 ## [Record of the Year](skills/B01G6BGGBI)
 
 *Alexa, ask record of the year what was the record of the year in 1988*
@@ -21725,6 +30698,14 @@ Flashback to the greatest hits of today and the past decades with Record of the 
 *Alexa  ask Records Rao to tell a record*
 
 This  skills  gives  records  information  in random.
+
+***
+
+## [Recruiter](skills/B01N47DAFB)
+
+*Alexa, open personal recruiter.*
+
+Recruiter is created for test interview.
 
 ***
 
@@ -21768,6 +30749,38 @@ Facts about redheads
 
 ***
 
+## [reekoh](skills/B01LZNMS66)
+
+*Alexa, open riko support.*
+
+A skill to provide utilities for reekoh.
+
+***
+
+## [RefNet Christian Radio](skills/B01NBJRHV5)
+
+*Alexa, play Ref Net*
+
+RefNet Christian Radio
+
+***
+
+## [Refson Family Quiz](skills/B01M6E7QEK)
+
+*Alexa, Open Refson Trivia*
+
+Refson Family Quiz
+
+***
+
+## [Regents on University Bus (Unofficial)](skills/B01NCL1F1S)
+
+*Alexa, ask Unofficial Regents bus about departure times*
+
+This skill announces departure times of the RU Shuttle (Regents on University).
+
+***
+
 ## [Relationary](skills/B01CKI96DG)
 
 *Alexa, open relationary*
@@ -21792,6 +30805,30 @@ Say a musical key and Alexa will tell you key signature and relative key.
 
 ***
 
+## [Relativity](skills/B01N57AUV6)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Remedy Help](skills/B01N5DKZ80)
+
+*Alexa Open remedy help*
+
+designed for Alexa contest and should be used in educational purpose only. user will be asked some questions related to disease symptoms he has
+
+***
+
+## [Remedy Support](skills/B01N7GEJJT)
+
+*Alexa Open remedy support*
+
+designed for Alexa contest and should be used in educational purpose only.  Give dummy feedback regarding some saved inquiries
+
+***
+
 ## [Remember The Milk](skills/B01FH67HDE)
 
 *Alexa, ask Remember The Milk what's due today.*
@@ -21808,11 +30845,27 @@ Quick checklist to make sure that you have everything you need before you leave 
 
 ***
 
+## [Renaissance Art Quiz](skills/B01N68M2OM)
+
+*Alexa, play Renaissance Art Quiz*
+
+Test your knowledge of Renaissance Art and Artists!
+
+***
+
 ## [Renewables Patents](skills/B01JIBY4E4)
 
 *Alexa, ask renewables patents*
 
 Get info about renewable energy patents
+
+***
+
+## [Rentokil Pest Experts](skills/B01NBN1VI1)
+
+*Alexa, ask Rentokil Experts how to get rid of ants.*
+
+Ask the Pest Experts for tips on the prevention of common household pests such as mice, cockroaches, and flies.
 
 ***
 
@@ -21888,6 +30941,14 @@ Resistor Buddy helps you calculate the value of a resistor based on its colour b
 
 ***
 
+## [Resistor Color Decoder](skills/B01MTR8DS0)
+
+*Alexa open resistor color decoder*
+
+Find the value of a resistor from its color code
+
+***
+
 ## [Resistor Decoder](skills/B019YGPC1M)
 
 *Alexa, open Resistor Decoder.*
@@ -21914,9 +30975,25 @@ Decode the color codes on a resistor.
 
 ## [Restaurant Explorer](skills/B01MG1T4JM)
 
-*Alexa, Ask Restaurant Explorer to find nearest Chinese restaurants*
+*Alexa, Ask Restaurant Explorer to find Thai restaurants near zero eight eight one seven*
 
-This application gives you the information about nearest good restaurants in you location.
+This skill will help you find good restaurants around the zip code you have entered.
+
+***
+
+## [Restaurant Finder](skills/B01N76G9H5)
+
+*Alexa, ask restaurant finder to find good Italian restaurants in Boise*
+
+Find restaurants in a location based on cuisine type, or filter by price or Yelp rating
+
+***
+
+## [Restaurant FInder](skills/B01N0UH1NM)
+
+*Alexa, ask restaurant finder to find mexican around London*
+
+This skill is to provide information about the restaurant near the city.
 
 ***
 
@@ -21944,11 +31021,35 @@ A trivia skill focused on retro gaming, including both games & consoles
 
 ***
 
+## [Retro Rap Trivia](skills/B01N69UZA7)
+
+*Alexa, play Retro Rap Trivia*
+
+Retro Rap Trivia tests your knowledge of Rap/Hiphop music from the 1980s.
+
+***
+
+## [Retronerds Podcast](skills/B01N49SV32)
+
+*Alexa, start retro nerds podcast*
+
+Listen to the Retronerds 252 Podcast
+
+***
+
 ## [Reusable](skills/B01IUZFKGA)
 
 *Alexa, open Easy Reuses.*
 
 Reusable gives you an alternative to throwing away many household items.
+
+***
+
+## [Revcontent](skills/B01MQROSVN)
+
+*Alexa, Open Revcontent*
+
+Allows Revcontent's users to ask Alexa for today's stats for RPM, Spend & Revenue.
 
 ***
 
@@ -21981,6 +31082,22 @@ Ask Alexa to turn on or off fans,lamps or whatever is plugged into the Revogi po
 *alexa, ask reverse climate to change the temperature to 15 degrees.*
 
 reweather is the first weather app with write permission
+
+***
+
+## [Rhino Fleet Tracking](skills/B01NCP616R)
+
+*Alexa, open Rhino*
+
+Official Skill for Rhino Fleet Tracking
+
+***
+
+## [Rhyme Detective](skills/B01N58UASK)
+
+*Alexa Play Rhyme Detective*
+
+A Bidirectional Rhyming Word Guessing Game
 
 ***
 
@@ -22040,6 +31157,30 @@ This is a quiz on the state capitals for the United States of America.
 
 ***
 
+## [RickorMorty (Fan-made)](skills/B01MT1UTRX)
+
+*Alexa, lanuch rick quotes*
+
+Ask RickOrMorty (Fan-made) for a quote, and you guess which Rick and Morty character the quote is from.
+
+***
+
+## [Rickroll Trivia](skills/B01MU0TI08)
+
+*Alexa Open rickroll*
+
+Rickroll Trivia
+
+***
+
+## [Riddle Me This](skills/B01N6LF3RZ)
+
+*Alexa, ask Riddle Me This to tell me a riddle.*
+
+Riddle Me This
+
+***
+
 ## [RiddleMeThis](skills/B01ISB25OG)
 
 *Alexa, ask riddle me to give me some riddles*
@@ -22069,6 +31210,30 @@ Rio de Janeiro Trivia Game
 *Alexa, ask RioFacts to give me a fact*
 
 RioFacts provides 11 Fun Facts About Rio.
+
+***
+
+## [Rise Above](skills/B01M4NSJHD)
+
+*Alexa, open Rise Above.*
+
+Provides daily healthy lifestyle tips to inspire active people to eat simply and rise above in life, sport, business & life. Brought to you by Rise Bar.
+
+***
+
+## [Rise up](skills/B01N0AWW0Q)
+
+*Alexa ask rise up to tell a quote*
+
+Great collection of Inspirational quotes with their authors or origins.
+
+***
+
+## [Risky Rollers](skills/B01NCP2EFM)
+
+*Alexa play Risky Rollers*
+
+Risky Rollers is a simple dice game. You play against Alexa. Be the first to reach 100 points. Getting a 1 will lose your turn and points.
 
 ***
 
@@ -22109,6 +31274,46 @@ Trivia contest for European rivers.  Test your knowledge of European rivers.  It
 *Alexa, open riyadh facts*
 
 Ask Alexa to tell you a few facts about Riyadh.
+
+***
+
+## [Roanoke, Virginia Guide](skills/B01MS19CZ7)
+
+*"Alexa, Ask Roanoke Guide to tell me about Roanoke."*
+
+A skill to learn more about the Star City of Virginia, Roanoke.
+
+***
+
+## [Roast Me](skills/B01MTR928B)
+
+*Alexa ask Roast Me to roast me*
+
+This skill roasts you with a quick question
+
+***
+
+## [RoastCalculator](skills/B01MQUL2Y0)
+
+*Alexa Ask Roast Calculator how long for one and a half pounds of beef*
+
+Roast Calculator will let you know how long to cook your meat for in minutes.
+
+***
+
+## [Robert Giffin](skills/B01N7MMWQP)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Robo 2.0](skills/B01NH0HKM0)
+
+*Alexa ask robo facts about rajinikanth*
+
+Robo 2.0 is a simple fact skill which tells some interesting facts about South Indian Superstar Rajinikanth
 
 ***
 
@@ -22216,11 +31421,27 @@ Play rock, paper, scissors against a virtual opponent.
 
 ***
 
+## [Rocket Coach](skills/B01N6L3J72)
+
+*Alexa, ask Rocket Coach for a tip*
+
+Rocket League tips, advice and random mode selector
+
+***
+
 ## [rocket launch manfiest](skills/B01M0WF3IM)
 
 *Alexa, ask Rocket Manifest what's next.*
 
 Provide details of upcoming rocket launches
+
+***
+
+## [Rocket Launches](skills/B01N0QWIVX)
+
+*Alexa open Rocket Launches*
+
+Easily find out when rocket launches are happening worldwide.
 
 ***
 
@@ -22240,6 +31461,22 @@ Roddenberry's Trek Quotes is a fun, fast, and fabulous way to reminisce about yo
 
 ***
 
+## [Roll 20](skills/B01MT34420)
+
+*Alexa open Roll Twenty and roll*
+
+Roll a twenty sided die.
+
+***
+
+## [Roll A Dice](skills/B01N0LRJ62)
+
+*Alexa, open roll a dice*
+
+This skill rolls a dice and returns the result
+
+***
+
 ## [Roller Coaster Geek](skills/B01LYQHD3S)
 
 *Alexa open Roller Coaster Geek*
@@ -22248,19 +31485,19 @@ RollerCoasterFacts
 
 ***
 
-## [RollerCoaster Trivia](skills/B01LWZ6TXD)
-
-*Alexa, open RollerCoaster Trivia*
-
-Test your knowledge about RollerCoasters! Do you know the fastest the tallest? And do you know which park has the most rollercoasters? Test yourself today!
-
-***
-
 ## [Rollins-Carlson Family Facts](skills/B01HR5O7AY)
 
 *Alexa, ask family facts*
 
 Rollins Carlson Family Facts
+
+***
+
+## [Roman Berla](skills/B01MTV2MNW)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -22301,6 +31538,14 @@ Have Alexa read you the most romantic movie lines of all time!
 *Alexa, tell Round To It to create task pickup dry cleaning due on december fourth at three thirty pm*
 
 Simple task reminder service
+
+***
+
+## [Route Planner](skills/B01N2VE2LQ)
+
+*Alexa, ask route planner to find journey time from Bank to Westminster*
+
+This skill is to provide travel journey duration from one place to another place in London.
 
 ***
 
@@ -22440,9 +31685,17 @@ Learn about all things Rusty!
 
 ***
 
+## [Ryan Facts](skills/B01N0RO128)
+
+*There are no example interactions for this skill.*
+
+facts about Ryan
+
+***
+
 ## [S. Watch](skills/B01M8PJKGR)
 
-*Alexa, start S. Watch*
+*Alexa, open S. Watch*
 
 A stopwatch that allows you to do other things while it's running.
 
@@ -22496,11 +31749,27 @@ A few facts about sailboats
 
 ***
 
+## [Sailing Forecast](skills/B01NCONVON)
+
+*Alexa Open sailing forecast*
+
+This skill returns wind speed data from the Chesapeake Bay Interpretive Buoy System specifically designed for sailing community.
+
+***
+
 ## [Sailing Guru](skills/B01JYPXSFU)
 
 *Alexa, start Sailing Guru and start a game*
 
 A skill for sailors to test their knowledge in nautical vocabulary, or non-sailors to learn some!
+
+***
+
+## [Sailmate](skills/B01MTLWSY4)
+
+*alexa open captain jack*
+
+Is today going to be a good day to go sailing?
 
 ***
 
@@ -22512,11 +31781,35 @@ Salad Bar provides you the recipes of over 50 different salads. Like "Caesar Sal
 
 ***
 
+## [Sales Tax Calculator](skills/B01NADD55R)
+
+*Alexa, ask Sales Tax Calculator one thousand and thirty seven dollars at eight percent*
+
+Simple skill to find the sales tax based on a tax percentage and the amount.
+
+***
+
 ## [salsaMusicDance](skills/B01I7CETZY)
 
 *Alexa, ask salsa dance to tell me about salsa dance.*
 
 salsaMusicDance
+
+***
+
+## [Sam Stenner](skills/B01MY2SXMB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sam's Pick 'em Facts](skills/B01NBBVWZN)
+
+*Alexa, Open Sam's Pick 'em Facts*
+
+Some facts about Sam's football Pick 'em league
 
 ***
 
@@ -22536,7 +31829,7 @@ Command by voice all your devices connected on Samsung ARTIK Cloud!
 
 ***
 
-## [Samsung Smart Home](skills/B01GZDOJOI)
+## [Samsung Smart Home - Basic](skills/B01GZDOJOI)
 
 *There are no example interactions for this skill.*
 
@@ -22546,11 +31839,28 @@ Compatible with Samsung Smart Robot Vacuum and AC, and more to come.
 
 ***
 
-## [Samsung Smart Home](skills/B01M6ZNLBA)
+## [Samsung Smart Home - Complete](skills/B01M6ZNLBA)
 
 *Alexa, ask Samsung to start robot vacuum.*
 
 You can use voice commands to control your Samsung Smart Home appliances with Alexa.
+Robot vacuum and air conditioner are currently available and more to come!
+
+***
+
+## [San Diego Local](skills/B01N483SAM)
+
+*Alexa, ask San Diego Local for a fact*
+
+Fun and interesting facts about America's Finest City, San Diego!
+
+***
+
+## [San Francisco City Guide](skills/B01MT22WXA)
+
+*Alexa, open San Francisco Guide*
+
+This travel guide helps you plan your trip to San Francisco and know more about the city!
 
 ***
 
@@ -22586,6 +31896,14 @@ A trivia game featuring musicians and bands from the San Francisco Bay Area.
 
 ***
 
+## [San Francisco Transit Predictions](skills/B01NAFQNXA)
+
+*Alexa, open s. f. transit*
+
+Next arrivals for the Muni route and stop you specify. Not authorized, sponsored, or endorsed by SFMTA.
+
+***
+
 ## [Sand Creek Elementary Lunch](skills/B01M11UV63)
 
 *Alexa, ask Sand Creek lunch lady what's for lunch today?*
@@ -22607,6 +31925,22 @@ Get you Sandler Training Rule of the Day
 *Alexa, open daily mantra*
 
 This skill plays sankrit short mantras. At this point, it only plays mp3 files
+
+***
+
+## [Santa Adventure](skills/B01N58W641)
+
+*Alexa, launch Santa Adventure*
+
+Welcome to Santa's Adventure.  Try to find Santa's Workshop, but be careful, not all doors lead to Santa, some are even secret.
+
+***
+
+## [Santa's Reindeer](skills/B01NAD6B5M)
+
+*Alexa Ask Santas Deer Master for a fact*
+
+Random facts about Santa's reindeer
 
 ***
 
@@ -22642,6 +31976,14 @@ A short SAT vocabulary quiz.
 
 ***
 
+## [Satellite Finder](skills/B01MTXTG20)
+
+*Alexa ask satellite finder where the international space station is*
+
+Hear the location of various satellites.
+
+***
+
 ## [Satoshi's Bitcoin Quote](skills/B017OBVZ74)
 
 *Alexa, talk to Satoshi.*
@@ -22666,6 +32008,30 @@ This skill lets you interact with your Sayspring prototyping projects.
 
 ***
 
+## [sbormueller](skills/B01MSZ2DHR)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [sbormueller](skills/B01MU08S54)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [sbormueller](skills/B01N1TTUEM)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [School Closings](skills/B01LX8527T)
 
 *Alexa, ask School Closings if Burlington High School is open today.*
@@ -22687,6 +32053,14 @@ Ask if a Vermont or New Hampshire school has a delayed opening or closure.
 *Alexa, ask science fiction facts to give me a science fiction fact*
 
 Science Fiction Facts
+
+***
+
+## [Science Guru](skills/B01N6KD10D)
+
+*Alexa open science guru*
+
+A science trivia game guaranteed to turn you into a Science Guru...or something close to it.
 
 ***
 
@@ -22786,6 +32160,14 @@ Learn the Scots dialect, with over a hundred words translated into regular Engli
 
 ***
 
+## [Scottish Skier](skills/B01NA9OK65)
+
+*Alexa, open scottishskier*
+
+Want to know about the Scottish ski areas? This can tell you the open lifts, and other useful info on each area. Try asking the skill to 'suggest a  question'
+
+***
+
 ## [Scout Alarm](skills/B017OBHGZO)
 
 *Alexa, ask Scout to arm home mode.*
@@ -22802,9 +32184,17 @@ tell user what is the recipe for scrambling
 
 ***
 
+## [Scripture Mastery](skills/B01MTPQ6JL)
+
+*Alexa, open Scripture Mastery*
+
+Scripture Mastery
+
+***
+
 ## [Scriptures Every Day](skills/B01M9AHAXK)
 
-*Alexa, ask Scriptures Every Day to read today's scriptures*
+*Alexa, open Scriptures Every Day*
 
 Have Alexa read a daily passage from the Bible or Book of Mormon.
 
@@ -22847,6 +32237,14 @@ Challenging Seattle Seahawk Trivia
 *Alexa, play Seahawks Fan Trivia*
 
 Are you a true Seahawks fan? Are you tired of people calling Seahawks fans bandwagoners? Test your Seahawks knowledge and play the Seahawks Trivia Game!
+
+***
+
+## [Seahorse Facts](skills/B01MQQBHOG)
+
+*Alexa, Seahorse Facts*
+
+Seahorse facts - learn all about one of the ocean's coolest critters
 
 ***
 
@@ -22922,6 +32320,14 @@ Get step-by-step transit directions between neighborhoods in Seattle.
 
 ***
 
+## [Seattle Trivia](skills/B01N4I13V4)
+
+*Alexa, open seattle trivia*
+
+Test your Seattle trivia. Alexa will ask you questions about Seattle, WA. See if you can get them all correct!
+
+***
+
 ## [SeattleFacts](skills/B01KPELB30)
 
 *Alexa, open Seattle Facts*
@@ -22935,6 +32341,94 @@ Seattle Facts
 *Alexa, launch seattle facts*
 
 Quickly learn a fact about the city of Seattle.
+
+***
+
+## [Sebastian Kliem ](skills/B01MQTH9LX)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sebastian Kliem ](skills/B01N0ODMY7)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sebastian Kliem ](skills/B01N98YHZA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sebastian Thiele](skills/B01MYTZVUY)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sebastian Thiele](skills/B01N2NMPOI)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sebastian Thiele](skills/B01N7C3767)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sebastian Werner](skills/B01MQQDTLA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sebastian Werner](skills/B01MYU0XYQ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sebastien Jouhans](skills/B01MSWNL3M)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [SebBecks](skills/B01N47YN7X)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [SebBecks](skills/B01N6DUZL7)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -22996,6 +32490,14 @@ Free Financial Data from the World's Most Advanced Equity Research Platform
 
 ***
 
+## [Sergej Müller](skills/B01N940L8N)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Server Status](skills/B01MA65OAW)
 
 *Alexa, ask Server Status if google.com is up*
@@ -23030,7 +32532,7 @@ Serverles
 
 ## [Service Local](skills/B01MF8WMGW)
 
-*Alexa, tell Service Local I need a plumber*
+*Alexa, ask Service Local for a plumber*
 
 Find local service providers near you quickly and easily. Find a plumber, electrician, handyman, locksmith, hair dresser and many more.
 
@@ -23060,11 +32562,35 @@ Seymour Papert had wonderful quotes regarding education. Take a listen.
 
 ***
 
+## [SF Trivia](skills/B01MRZ68Q8)
+
+*Alexa Open san francisco trivia*
+
+Trivia questions about San Francisco
+
+***
+
+## [SG](skills/B01N8ZFV08)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [SG Buses](skills/B01GGDBR88)
 
 *Alexa, launch SG Buses*
 
 Get live estimates of arrival time for public buses in Singapore. Alexa, when is the next bus 33 arriving?
+
+***
+
+## [Shadow Realm](skills/B01N01YZGF)
+
+*Alexa, launch Shadow Realm*
+
+Realm of Shadows is a fantasy role-playing game. You are an adventurer on a great quest who is transported to a realm of magic, treasure, combat, and puzzles.
 
 ***
 
@@ -23092,11 +32618,27 @@ Make learning about Shakespeare fun and interesting with Shakespeare Geek's triv
 
 ***
 
+## [Shakespeare Insults](skills/B01MY32OMO)
+
+*Alexa, open shakespeare insults*
+
+Get your Alexa to insult others -- Shakespeare style!
+
+***
+
 ## [Shakespeare Quotes](skills/B01DV5OZR4)
 
 *Alexa ask a quote from shakespeare*
 
 Hear a shakespeare quote and be delighted and enriched.
+
+***
+
+## [Shakespearean Insult](skills/B01NBQH4MM)
+
+*Alexa, ask the bard to insult me*
+
+Randomly chosen Shakespearean Insults.
 
 ***
 
@@ -23145,6 +32687,22 @@ Ask me for a random shark fact!
 *Alexa ask shark facts for a fact*
 
 A random shark fact skill for Alexa.
+
+***
+
+## [Shark Facts](skills/B01N0B0EAG)
+
+*Alexa open shark facts*
+
+Learn about sharks with shark facts
+
+***
+
+## [Shark Geek](skills/B01MY3JSPK)
+
+*Alexa, open Shark Geek*
+
+Get some "random" shark facts.
 
 ***
 
@@ -23252,11 +32810,35 @@ Not sure if you should ride your bike to work today? The Should I Ride Skill wil
 
 ***
 
+## [Should I take Mums advice?](skills/B01N7HX4BV)
+
+*Alexa Open take mums advice*
+
+Alexa should I take Mums advice?
+
+***
+
 ## [Shower Thoughts](skills/B017OBXIEC)
 
 *Alexa, open Shower Thoughts.*
 
 Shower Thoughts are itty-bitty witty bite-sized clever thoughts. This skill will automatically fetch the Internet's most popular Shower Thought each day.
+
+***
+
+## [Shower Thoughts](skills/B01MY28NBF)
+
+*Alexa, run Shower Thoughts.*
+
+The Shower Thoughts Alexa Skill allows users to hear all those thoughts, ideas, or philosophical questions that race through other's minds when in the shower.
+
+***
+
+## [Shower Thoughts](skills/B01N2QN787)
+
+*Alexa, open shower thoughts and give me today's thought*
+
+Gets shower thoughts from the ShowerThoughts subreddit
 
 ***
 
@@ -23273,6 +32855,22 @@ Shower Thoughts from the subreddit r/ShowerThoughts
 *Alexa, ask a cyclist for a quote*
 
 Hear a wide variety of entertaining recorded quotes from Jens Voigt (the most feared rider in the world!) and other professional bicycle racers.
+
+***
+
+## [Sidekick](skills/B01N6I1DAD)
+
+*Alexa, tell side kick to set timer for chicken to five minutes in the kitchen*
+
+Use your Echo device to bring up YouTube videos, Timers, Recipes, Security cameras, and send message to other SideKick devices.
+
+***
+
+## [Sierra Bible Church Podcast](skills/B01N54DB6N)
+
+*Alexa, tell Sierra Bible Church podcast to play*
+
+Listen to the weekly Sunday services for Sierra Bible Church in Sonora, California.
 
 ***
 
@@ -23345,6 +32943,62 @@ Get some silly jokes.
 *Alexa, ask silverbug what's the price of Silver?*
 
 This application can be used to lookup the price of Silver, Gold, and Bitcoin.
+
+***
+
+## [SimilarWeb](skills/B01N1SY7JZ)
+
+*alexa, open similar web*
+
+This action enables you to find out basic statistics about every website and every search keyword.
+
+***
+
+## [Simmons Shuttles](skills/B01N2T308Q)
+
+*Alexa ask simmons shuttles when's the next shuttle*
+
+Responds with upcoming shuttle (and Saferide) schedule for Simmons Hall. This skill is not sponsored or endorsed by Simmons Hall.
+
+***
+
+## [Simon Coope](skills/B01M4S1Z3G)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Simon Müller](skills/B01N6BSNUD)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Simon Müller](skills/B01N6GDBGU)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Simon Müller](skills/B01N9BXJTC)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Simon Says](skills/B01NBLMM84)
+
+*Alexa, open Simon Says*
+
+Simon Says provides free business advice that's worth millions.
 
 ***
 
@@ -23421,6 +33075,14 @@ This skill lets you learn more about Singapore
 
 ***
 
+## [Singapore Weather](skills/B01N0UZI4P)
+
+*Alexa Open Singapore Weather*
+
+This skill gives today's forecast for Singapore from the island's National Environment Agency
+
+***
+
 ## [Single Quote](skills/B01E7KNQF4)
 
 *Alexa, ask Single Quote for the price of AMZN*
@@ -23453,11 +33115,27 @@ Facts about the Sit Family
 
 ***
 
+## [Sit Up Century Club](skills/B01MQL52ST)
+
+*Alexa, start sit ups*
+
+Join the elite fitness century club. Many people can do sit ups, few can do 100! Are you up for the challenge?
+
+***
+
 ## [Site Information](skills/B01F2L0IBM)
 
 *Alexa, begin site information*
 
 Ask Alexa to describe a website.
+
+***
+
+## [Six degrees of Kevin Bacon](skills/B01NAC6YHQ)
+
+*Alexa Ask bacon number for Hugh Jackman*
+
+The "Bacon Game" for Alexa.
 
 ***
 
@@ -23485,6 +33163,14 @@ Skateboard Studio details the 25 best skate parks in America;
 
 ***
 
+## [Ski Conditions Buddy](skills/B01NCHKD66)
+
+*Alexa, ask ski buddy for the current conditions at bristol*
+
+Unofficial ski and weather conditions for some NY ski resorts.
+
+***
+
 ## [Ski Tip](skills/B01HN5GKVC)
 
 *Alexa, ask ski tip to tell me a ski tip*
@@ -23498,6 +33184,14 @@ Let Alexa help you ski better by asking her for a ski tip
 *Alexa, open Skill Finder*
 
 Amazon’s Skill Finder is a new way to discover Alexa skills. Open Skill Finder and learn about the skill of the day, the newest skills, and the top skills.
+
+***
+
+## [skillz](skills/B01MZ47BOJ)
+
+*Alexa, open Fun Facts*
+
+Random Fun Facts!
 
 ***
 
@@ -23522,6 +33216,22 @@ Search for flight prices anywhere in the world, by conversing with Alexa.
 *Alexa, ask slalom facts for a fact*
 
 Learn about slalom ski racing
+
+***
+
+## [Slang Abbreviation Expander](skills/B01NCAIYFK)
+
+*Alexa ask slang expander what is the expanded form of asap*
+
+Expand an abbreviated internet slang word.
+
+***
+
+## [Slapshot](skills/B01M28LSPT)
+
+*Alexa, ask Slapshot when is Vancouver's next match*
+
+A bot that can tell you about current NHL stats, fixtures and match results.
 
 ***
 
@@ -23615,6 +33325,22 @@ Allows check in for Revon patients
 
 ***
 
+## [Smart Synonyms](skills/B01N2OUAJL)
+
+*Alexa, start Smart Synonyms*
+
+Helps you to find a synonym for a specific word.
+
+***
+
+## [Smart Women](skills/B01NBOMQFX)
+
+*Alexa, Open Smart Women*
+
+Smart Women
+
+***
+
 ## [smartdesign](skills/B01JF0HYMW)
 
 *Alexa, ask smart design for a fact*
@@ -23628,6 +33354,30 @@ Simple design principles
 *Alexa ask SmartEngine Turn on the light*
 
 Controls your SmartEngine lighting system
+
+***
+
+## [SmartHome Austria](skills/B01N0OXGKP)
+
+*Alexa, stelle das Raumklima Wohnzimmer auf 23°C.*
+
+Mit Amazon Alexa und SmartHome Austria können Sie jetzt bequem per Sprache Ihr Zuhause steuern.
+
+***
+
+## [Smartika](skills/B01N3NR08Q)
+
+*There are no example interactions for this skill.*
+
+The Smartika Skill complements your existing Smartika Ecosystem, allowing you to use voice commands to alter, or dim, the lights, and activate scenes.
+
+***
+
+## [SmartikaColors](skills/B01N091KMB)
+
+*Alexa, ask Smartika to switch all lights in Kitchen to Blue.*
+
+The SmartikaColors Skill complements your existing Smartika Ecosystem, allowing you to use voice commands to alter, or dim, the lights, and activate scenes.
 
 ***
 
@@ -23654,7 +33404,7 @@ With the SmartThings skills for Alexa, you can now control a wide range of conne
 
 *There are no example interactions for this skill.*
 
-null
+With the SmartThings skills for Alexa, you can now control a wide range of connected lights and outlets with your voice.
 
 ***
 
@@ -23682,11 +33432,27 @@ Favorite quotes from Tao Te Ching translated by Ching Gia-Fu Feng and Jane Engli
 
 ***
 
+## [Smash Facts](skills/B01N6LC4NE)
+
+*Alexa, open Smash Facts*
+
+MySmashFacts
+
+***
+
 ## [Smoothie Recipes](skills/B01G8IKKA2)
 
 *Alexa, start Smoothie Recipes*
 
 This skill will list out ingredients needed for some top smoothie recipes on NutriLiving
+
+***
+
+## [Smoothies Recipe](skills/B01MSQQ6XC)
+
+*Alexa, open smoothies recipe*
+
+It provides some recipes to make smoothies.
 
 ***
 
@@ -23706,6 +33472,22 @@ Send Free Text Messages With Amazon Echo.
 
 ***
 
+## [snack recipes](skills/B01N4824ZL)
+
+*Alexa, open snack recipes*
+
+Healthy snack recipes
+
+***
+
+## [Snack Time](skills/B01MYNGHTK)
+
+*Alexa, ask Snack Time for a snack.*
+
+Recommends snacks that are under 100 calories.
+
+***
+
 ## [snake facts](skills/B01LZJ7MPD)
 
 *"Alexa, open snake facts."*
@@ -23714,11 +33496,43 @@ Facts about snakes
 
 ***
 
+## [Snake Facts](skills/B01NBEN4CU)
+
+*Alexa, open Snake Facts*
+
+Interesting facts about snakes
+
+***
+
 ## [SnakeCharmer](skills/B01GM4SN9M)
 
 *Alexa, ask snake charmer to give me a snake fact*
 
 Get some interesting snake trivia
+
+***
+
+## [Snarky Fortune](skills/B01N9642V4)
+
+*Alexa Open Snarky Fortune*
+
+This skill gives sarcastic, snarky fortunes.
+
+***
+
+## [Sneaker Trivia](skills/B01MRIR0O4)
+
+*Alexa, Open Sneaker Trivia*
+
+Test how much you know about sneaker culture
+
+***
+
+## [Snow Day](skills/B01N0VEE7I)
+
+*Alexa Ask Snow Day*
+
+School cancellations/closings/delays in upstate NY & PA
 
 ***
 
@@ -23786,11 +33600,11 @@ The Alpine Valley Resort Snow Report brought to you by SnoCountry provides the l
 
 ***
 
-## [Snow Report for Alta Mountain](skills/B01M2DDHIQ)
+## [Snow Report for Alta Ski Area](skills/B01MRUL0EH)
 
-*Alexa, open Alta Mountain*
+*Alexa, open Alta Ski Area*
 
-The Alta Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Alta Mountain.
+The Alta Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Alta Ski Area.
 
 ***
 
@@ -23850,6 +33664,14 @@ The Apple Mountain Snow Report brought to you by SnoCountry provides the latest 
 
 ***
 
+## [Snow Report for Arapahoe Basin](skills/B01N0GUIDC)
+
+*Alexa, open Arapahoe Basin*
+
+The Arapahoe Basin Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Arapahoe Basin.
+
+***
+
 ## [Snow Report for Arizona Snowbowl](skills/B01LZM5BR4)
 
 *Alexa, ask Arizona Snowbowl for the snow report*
@@ -23871,6 +33693,14 @@ The Arrowhead Ski Area Snow Report brought to you by SnoCountry provides the lat
 *Alexa, open Asessippi Ski Area*
 
 The Asessippi Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Asessippi Ski Area.
+
+***
+
+## [Snow Report for Aspen Highlands](skills/B01N0GTZNY)
+
+*Alexa, open Aspen Highlands*
+
+The Aspen Highlands Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Aspen Highlands.
 
 ***
 
@@ -23986,11 +33816,11 @@ The Beech Mountain Snow Report brought to you by SnoCountry provides the latest 
 
 ***
 
-## [Snow Report for Belleayre Ski Center](skills/B01M6867GI)
+## [Snow Report for Belleayre Mountain](skills/B01MQT6ZMX)
 
-*Alexa, open Belleayre Ski Center*
+*Alexa, open Belleayre Mountain*
 
-The Belleayre Ski Center Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Belleayre Ski Center.
+The Belleayre Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Belleayre Mountain.
 
 ***
 
@@ -24023,6 +33853,14 @@ The Big Powderhorn Snow Report brought to you by SnoCountry provides the latest 
 *Alexa, open Big Sky*
 
 The Big Sky Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Big Sky.
+
+***
+
+## [Snow Report for Big Snow Resort](skills/B01N43WXWM)
+
+*Alexa, open Big Snow Resort*
+
+The Big Snow Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Big Snow Resort.
 
 ***
 
@@ -24071,14 +33909,6 @@ The Black Mountain Snow Report brought to you by SnoCountry provides the latest 
 *Alexa, open Black Mountain of Maine*
 
 The Black Mountain of Maine Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Black Mountain of Maine.
-
-***
-
-## [Snow Report for Blackjack Ski Resort](skills/B01MDONHUN)
-
-*Alexa, open Blackjack Ski Resort*
-
-The Blackjack Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Blackjack Ski Resort.
 
 ***
 
@@ -24207,14 +34037,6 @@ The Boyne Mountain Snow Report brought to you by SnoCountry provides the latest 
 *Alexa, open Bradford Ski Area*
 
 The Bradford Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Bradford Ski Area.
-
-***
-
-## [Snow Report for Brandywine Ski Resort](skills/B01MPWQLV8)
-
-*Alexa, open Brandywine Ski Resort*
-
-The Brandywine Ski Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Brandywine Ski Resort.
 
 ***
 
@@ -24546,14 +34368,6 @@ The Cloudmont Mountain Snow Report brought to you by SnoCountry provides the lat
 
 ***
 
-## [Snow Report for Cooper Mountain](skills/B01LWS3OFP)
-
-*Alexa, open Cooper Mountain*
-
-The Cooper Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Cooper Mountain.
-
-***
-
 ## [Snow Report for Cooper Spur](skills/B01M70YBJI)
 
 *Alexa, open Cooper Spur*
@@ -24674,11 +34488,11 @@ The Diamond Peak Snow Report brought to you by SnoCountry provides the latest sk
 
 ***
 
-## [Snow Report for Discovery Mountain](skills/B01M6Z4ELI)
+## [Snow Report for Discovery Ski Area](skills/B01MRUL00G)
 
-*Alexa, open Discovery Mountain*
+*Alexa, open Discovery Ski Area*
 
-The Discovery Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Discovery Mountain.
+The Discovery Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Discovery Ski Area.
 
 ***
 
@@ -24703,6 +34517,14 @@ The Donner Ski Ranch Snow Report brought to you by SnoCountry provides the lates
 *Alexa, open Dry Hill*
 
 The Dry Hill Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Dry Hill.
+
+***
+
+## [Snow Report for Duck Mountain](skills/B01MXO8UX5)
+
+*Alexa, open Duck Mountain*
+
+The Duck Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Duck Mountain.
 
 ***
 
@@ -24735,6 +34557,14 @@ The Eaglecrest Mountain Snow Report brought to you by SnoCountry provides the la
 *Alexa, open Earl Bales Ski Centre*
 
 The Earl Bales Ski Centre Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Earl Bales Ski Centre.
+
+***
+
+## [Snow Report for Echo Mountain/Front Range Ski Club](skills/B01MSP3BI2)
+
+*Alexa, open Front Range Ski Club*
+
+The Echo Mountain (Front Range Ski Club) Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Echo Mountain.
 
 ***
 
@@ -24890,11 +34720,11 @@ The Grouse Mountain Snow Report brought to you by SnoCountry provides the latest
 
 ***
 
-## [Snow Report for Gunstock Ski Area](skills/B01MG45WW3)
+## [Snow Report for Gunstock Mountain Resort](skills/B01MXVCJVS)
 
-*Alexa, open Gunstock Ski Area*
+*Alexa, open Gunstock Mountain Resort*
 
-The Gunstock Ski Area Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Gunstock Ski Area.
+The Gunstock Mountain Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Gunstock Mountain Resort.
 
 ***
 
@@ -25058,14 +34888,6 @@ The Hyland Hills Ski Area Snow Report brought to you by SnoCountry provides the 
 
 ***
 
-## [Snow Report for Indianhead Mountain](skills/B01M8KMS4I)
-
-*Alexa, open Indianhead Mountain*
-
-The Indianhead Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Indianhead Mountain.
-
-***
-
 ## [Snow Report for Jack Frost](skills/B01MDUWLOH)
 
 *Alexa, open Jack Frost*
@@ -25130,11 +34952,11 @@ The Kicking Horse Snow Report brought to you by SnoCountry provides the latest s
 
 ***
 
-## [Snow Report for Killington Mountain](skills/B01M6CW5IU)
+## [Snow Report for Killington Resort](skills/B01N0NYNFC)
 
-*Alexa, open Killington Mountain*
+*Alexa, open Killington Resort*
 
-The Killington Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Killington Mountain.
+The Killington Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Killington Resort.
 
 ***
 
@@ -25386,11 +35208,11 @@ The Marquette Ski Resort Snow Report brought to you by SnoCountry provides the l
 
 ***
 
-## [Snow Report for Massanutten Mountain](skills/B01MQDRBCX)
+## [Snow Report for Massanutten Resort](skills/B01NAGCUIY)
 
-*Alexa, open Massanutten Mountain*
+*Alexa, open Massanutten Resort*
 
-The Massanutten Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Massanutten Mountain.
+The Massanutten Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Massanutten Resort.
 
 ***
 
@@ -25439,6 +35261,14 @@ The Middlebury Snow Bowl Snow Report brought to you by SnoCountry provides the l
 *Alexa, ask Mission Ridge for the snow report*
 
 The Mission Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mission Ridge.
+
+***
+
+## [Snow Report for Mohawk Mountain](skills/B01N43WOAF)
+
+*Alexa, open Mohawk Mountain*
+
+The Mohawk Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Mohawk Mountain.
 
 ***
 
@@ -25890,11 +35720,11 @@ The Nordic Valley Snow Report brought to you by SnoCountry provides the latest s
 
 ***
 
-## [Snow Report for Northstar Mountain](skills/B01LYELHCH)
+## [Snow Report for Northstar California](skills/B01MXVCLLV)
 
-*Alexa, ask Northstar Mountain for the snow report*
+*Alexa, open Northstar California*
 
-The Northstar Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Northstar.
+The Northstar California Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Northstar California.
 
 ***
 
@@ -25930,11 +35760,11 @@ The Ober Gatlinburg Snow Report brought to you by SnoCountry provides the latest
 
 ***
 
-## [Snow Report for Okemo Mountain](skills/B01MQDL4LH)
+## [Snow Report for Okemo Mountain Resort](skills/B01MXVCIFT)
 
-*Alexa, open Okemo Mountain*
+*Alexa, open Okemo Mountain Resort*
 
-The Okemo Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Okemo Mountain.
+The Okemo Mountain Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Okemo Mountain Resort.
 
 ***
 
@@ -26095,6 +35925,14 @@ The Powder Mountain Snow Report brought to you by SnoCountry provides the latest
 *Alexa, open Powder Ridge*
 
 The Powder Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Powder Ridge.
+
+***
+
+## [Snow Report for Powder Ridge Park (CT)](skills/B01N43WLW0)
+
+*Alexa, open Powder Ridge Park*
+
+The Powder Ridge Park Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Powder Ridge Park.
 
 ***
 
@@ -26362,6 +36200,14 @@ The Ski Butternut Snow Report brought to you by SnoCountry provides the latest s
 
 ***
 
+## [Snow Report for Ski Cooper](skills/B01N4B2Q2C)
+
+*Alexa, open Ski Cooper*
+
+The Ski Cooper Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Cooper.
+
+***
+
 ## [Snow Report for Ski Granby Ranch](skills/B01LYQDMA0)
 
 *Alexa, open Ski Granby Ranch*
@@ -26442,6 +36288,22 @@ The Ski Snowstar Snow Report brought to you by SnoCountry provides the latest sk
 
 ***
 
+## [Snow Report for Ski Sundown](skills/B01N55DLA3)
+
+*Alexa, open Ski Sundown*
+
+The Ski Sundown Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Sundown.
+
+***
+
+## [Snow Report for Ski Ward](skills/B01MSP36KW)
+
+*Alexa, open Ski Ward*
+
+The Ski Ward Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Ski Ward.
+
+***
+
 ## [Snow Report for Skyloft Ski Club](skills/B01N3NUWFY)
 
 *Alexa, open Skyloft Ski Club*
@@ -26519,6 +36381,14 @@ The Snow Trails Snow Report brought to you by SnoCountry provides the latest ski
 *Alexa, ask Snow Valley for the snow report*
 
 The Snow Valley Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snow Valley.
+
+***
+
+## [Snow Report for Snow Valley Ontario](skills/B01N43WOPG)
+
+*Alexa, open Snow Valley Ontario*
+
+The Snow Valley Ontario Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Snow Valley Ontario.
 
 ***
 
@@ -26658,11 +36528,11 @@ The Stoneham Mountain Resort Snow Report brought to you by SnoCountry provides t
 
 ***
 
-## [Snow Report for Stowe Mountain](skills/B01M3YTAPI)
+## [Snow Report for Stowe Mountain Resort](skills/B01MRUL4N1)
 
-*Alexa, open Stowe Mountain*
+*Alexa, open Stowe Mountain Resort*
 
-The Stowe Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Stowe Mountain.
+The Stowe Mountain Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Stowe Mountain Resort.
 
 ***
 
@@ -26690,11 +36560,11 @@ The Sugar Mountain Snow Report brought to you by SnoCountry provides the latest 
 
 ***
 
-## [Snow Report for Sugarbush Mountain](skills/B01M363BFS)
+## [Snow Report for Sugarbush Resort](skills/B01N5CJ4SX)
 
-*Alexa, open Sugarbush Mountain*
+*Alexa, open Sugarbush Resort*
 
-The Sugarbush Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sugarbush Mountain.
+The Sugarbush Resort Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Sugarbush Resort.
 
 ***
 
@@ -26978,14 +36848,6 @@ The Tussey Mountain Snow Report brought to you by SnoCountry provides the latest
 
 ***
 
-## [Snow Report for Tuxedo Ridge](skills/B01M4NBC1E)
-
-*Alexa, open Tuxedo Ridge*
-
-The Tuxedo Ridge Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Tuxedo Ridge.
-
-***
-
 ## [Snow Report for Tyrol Basin](skills/B01N00WKCO)
 
 *Alexa, open Tyrol Basin*
@@ -27058,11 +36920,11 @@ The West Mountain Snow Report brought to you by SnoCountry provides the latest s
 
 ***
 
-## [Snow Report for Whaleback Ski Club](skills/B01M5FGD3O)
+## [Snow Report for Whaleback Mountain](skills/B01N1PH4HG)
 
-*Alexa, open Whaleback Ski Club*
+*Alexa, open Whaleback Mountain*
 
-The Whaleback Ski Club Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Whaleback Ski Club.
+The Whaleback Mountain Snow Report brought to you by SnoCountry provides the latest ski and snowboarding conditions for Whaleback Mountain.
 
 ***
 
@@ -27266,6 +37128,14 @@ You think you know America, but do you really? Take this quiz to find out!
 
 ***
 
+## [SoCal Challengers Facts](skills/B01N9LTPVB)
+
+*Alexa, open SoCal Challengers.*
+
+Get facts and information about the SoCal Challengers car club.
+
+***
+
 ## [Soccer Fact](skills/B01I7IHZNG)
 
 *Alexa, ask soccer fact to tell me a soccer fact*
@@ -27330,6 +37200,14 @@ Soccer Showdown
 
 ***
 
+## [Soccer Team Memory](skills/B01N2RQAAR)
+
+*Alexa, start soccer team memory.*
+
+Checks your memory on german Bundesliga clubs.
+
+***
+
 ## [soccerfacts](skills/B01I8CSG48)
 
 *Alexa open amazing soccer facts*
@@ -27375,6 +37253,22 @@ This is a random fact skill providing information from the Social Security Admin
 *Alexa, open social work exam*
 
 The Social Work Exam skill provides you with review material as you study for the national social work exam.
+
+***
+
+## [socialised.de](skills/B01N3M2UEA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [socialised.de](skills/B01N4AXRNR)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -27431,6 +37325,30 @@ Solar System Trivia
 *Alexa, ask SolarFacts to give me a fact*
 
 Solar Energy Facts
+
+***
+
+## [SolitaryStone](skills/B01N9IIEJ4)
+
+*Alexa Open solitary stone*
+
+Unauthorized. Provides basic information about SingleStone Consulting
+
+***
+
+## [Some strange facts](skills/B01MS1KPFN)
+
+*Alexa open some strange facts*
+
+My strange facts
+
+***
+
+## [Song Genius](skills/B01MRHJI6R)
+
+*Alexa, ask Song Genius to look up lyrics*
+
+Uses the Genius API to find lyrics definitions
 
 ***
 
@@ -27530,11 +37448,27 @@ A short and simple quiz of South America's capital cities.
 
 ***
 
+## [South Park quotes](skills/B01N1UZ5M2)
+
+*Alexa, ask South Park quotes*
+
+This skill gives you a random quote from South Park.
+
+***
+
 ## [Southington Facts](skills/B01IJ6OG92)
 
 *Alexa, open Southington Facts and tell me a fact*
 
 A skill that gives you facts about Southington, Connecticut.
+
+***
+
+## [Space Captain](skills/B01MTSFNQQ)
+
+*Alexa, open Space Captain and tell me a fact*
+
+Become a Space Captain
 
 ***
 
@@ -27554,11 +37488,35 @@ Space Facts
 
 ***
 
+## [Space Facts](skills/B01MY2EOQV)
+
+*Alexa, ask space facts to give me a fact*
+
+A basic skill to recall facts about space
+
+***
+
+## [Space Facts](skills/B01NAOI007)
+
+*Alexa Open Space Facts*
+
+Random Space Facts
+
+***
+
 ## [Space Facts!](skills/B01MF7D3KM)
 
 *Alexa, ask space boy for a space fact*
 
 Learn random space facts!
+
+***
+
+## [Space Facts!](skills/B01MU5FSOU)
+
+*Alexa, ask space facts to tell me a space fact.*
+
+Provides random Space facts to the user.
 
 ***
 
@@ -27570,6 +37528,22 @@ space funfacts
 
 ***
 
+## [Space Geek](skills/B01N5KKXWU)
+
+*Alexa Open Space Geek*
+
+Space Facts gives you facts about space. Amazing.
+
+***
+
+## [Space Geek](skills/B01NACBW2E)
+
+*Alexa, ask space geek to give me a space trivia*
+
+Space Trivia on demand
+
+***
+
 ## [space information](skills/B01JDN0DQU)
 
 *Alexa, open space info*
@@ -27578,11 +37552,19 @@ short and quick information about space
 
 ***
 
-## [Space Kid](skills/B01JD5ALBU)
+## [Space Lies](skills/B01MR08AEA)
 
-*Alexa, ask space kid for  sun*
+*alexa, open space lies*
 
-This  skills  shares  knowledge  about  solar system.
+Ask for a lie, and receive humorous false facts about space.
+
+***
+
+## [Space Lover](skills/B01MZ4QPR8)
+
+*Alexa, open Space Lover*
+
+Space Facts
 
 ***
 
@@ -27610,6 +37592,30 @@ Space quotes (SpaceGeek tutorial app)
 
 ***
 
+## [Space Race Trivia](skills/B01MU40LG9)
+
+*Alexa, open space race trivia*
+
+Test your knowledge of the space race with Space Race Trivia!
+
+***
+
+## [Space Station](skills/B01MZ2ONRB)
+
+*Alexa, ask Space Station where it is*
+
+Find out where the international space station is right now
+
+***
+
+## [Space Status](skills/B01N6EOG4E)
+
+*Alexa, ask space status if Level Two is open*
+
+Ask space status if you want to know if your hackerspace or lab is currently open.
+
+***
+
 ## [Space Trivia](skills/B01BLUPQEC)
 
 *Alexa, launch Space Trivia*
@@ -27631,6 +37637,14 @@ Space Trivia Questions
 *Alexa, open Space Weather*
 
 The Space Weather skill for Alexa will tell you the current conditions in space.
+
+***
+
+## [space150](skills/B01MT0Y1PZ)
+
+*Alexa ask space one fifty to tell me something*
+
+Provides users velvet rope access to the history and culture of space150.
 
 ***
 
@@ -27722,6 +37736,14 @@ Plays a game of trivia.
 
 ***
 
+## [Speech Snippets](skills/B01MZZQ8HX)
+
+*Alexa, ask speech snippets to recite a speech*
+
+Recites speech snippets
+
+***
+
 ## [Speed Test](skills/B01MPVQXEN)
 
 *Alexa, ask Speed Test to run*
@@ -27735,6 +37757,30 @@ Ask Alexa to test your Internet Speed
 *Alexa, Open Speed Lighter.*
 
 Reads out the latest posts from SpeedLighter.ca
+
+***
+
+## [SpeedyMarks](skills/B01MRVPZW3)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [SpeedyMarks](skills/B01N1JO0IF)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [SpeedyMarks](skills/B01N7AJLJ7)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -27778,11 +37824,35 @@ Super fun level based Spelling game for Alexa! 100s of levels with increasing di
 
 ***
 
+## [Spice Translate](skills/B01N407XDH)
+
+*Alexa ask spice translate to translate basil to spanish*
+
+An use-full Alexa Skill which uses Google Translate to translate list of Spices in World to different language.
+
+***
+
+## [SpiceHelper](skills/B01N5EYKZA)
+
+*Alexa Open spicehelper*
+
+Gives hindi names for common spices
+
+***
+
 ## [Spicy Chutney](skills/B01I15Y50G)
 
 *Alexa, ask Spicy Chutney what's the recipe for coconut chutney*
 
 Welcome to the Spicy Chutney. This skill gives you the recipe for spicy Indian chutneys that you can accompany with various cuisines both veg and non veg.
+
+***
+
+## [Spider Fact](skills/B01MS02AFK)
+
+*Alexa, tell spider fact, give me a fact*
+
+Provides spider facts.
 
 ***
 
@@ -27799,6 +37869,14 @@ With Spin the Wheel you can easily settle the discussion who clears the table, t
 *alexa, open spirit color*
 
 Learn what you color you resonate with. What's your spirit color?
+
+***
+
+## [Spirit Seance](skills/B01MU1YKPU)
+
+*Alexa start spirit seance*
+
+Start a Seance and channel different spirits that you can talk to!
 
 ***
 
@@ -27826,11 +37904,27 @@ Cruise Trivia Game
 
 ***
 
+## [Spoiler](skills/B01MZZS2E6)
+
+*Alexa open movie spoiler*
+
+Spoiler reveals random movie endings upon request. Ask for a specific spoiler (like Star Wars) or just get her to spoil a random movie by asking for an ending.
+
+***
+
 ## [Spooky Airhorns](skills/B01LWRGG50)
 
 *Alexa, start spooky air horns*
 
 Spooky Airhorns are Spooky
+
+***
+
+## [Spooky Scream](skills/B01N0RWGJX)
+
+*Alexa, start Spooky Scream*
+
+Scare your friends with spooky scream sounds. Set the number of seconds or minutes you want Alexa to start screaming.
 
 ***
 
@@ -27890,6 +37984,14 @@ Square Dance is a easy way ask for a Mainstream, Plus or Advanced call or ask fo
 
 ***
 
+## [Square the Number Quiz](skills/B01N421V6A)
+
+*Alexa start Square the Number Quiz*
+
+Get practice squaring numbers.
+
+***
+
 ## [Squirrel Facts](skills/B01IZ4R6SQ)
 
 *Alexa, Open squirrel facts*
@@ -27914,6 +38016,14 @@ Squirrel Facts
 
 ***
 
+## [SSG Smart Alarm](skills/B01L6S6YBS)
+
+*Alexa, tell Blue Dog arm please*
+
+Control Xiao-An Arm, Disarm, Ringing, Alarming, Mute etc.
+
+***
+
 ## [St Andrews Facts](skills/B01M8J66GS)
 
 *Alexa, open saint andrews facts.*
@@ -27927,6 +38037,14 @@ Reads random facts about the beautiful and historic town of St Andrews, Scotland
 *There are no example interactions for this skill.*
 
 Stack lights use embedded sensors to automatically adjust to the rhythm of your life and home. Now you can control your lights with Alexa!
+
+***
+
+## [Stadtwerke SmartHome](skills/B01MTYRKZ4)
+
+*Alexa, stelle das Raumklima Wohnzimmer auf 23°C.*
+
+Mit Amazon Alexa und innogy SmartHome können Sie jetzt bequem per Sprache Ihr Zuhause steuern.
 
 ***
 
@@ -27954,6 +38072,14 @@ Stain removal instructions for your everyday spills
 
 ***
 
+## [Stand Up Facts](skills/B01MRS11MP)
+
+*Alexa, ask stand up facts*
+
+A skill that gives out short facts on stand up comedy
+
+***
+
 ## [Star Archives](skills/B01H2JVA96)
 
 *Alexa, ask star archives tell me about Luke Skywalker.*
@@ -27967,6 +38093,22 @@ Star Archives is your source of information for the world of Star Wars including
 *Alexa, ask Star Citizen facts*
 
 Star Citizen facts
+
+***
+
+## [Star Date Converter](skills/B01MRJKX2C)
+
+*Alexa, ask Star Date Converter to get today's star date*
+
+Find the Star Date equivalent for an Earth Date
+
+***
+
+## [Star Facts](skills/B01NANYXDS)
+
+*Alexa, open star facts*
+
+Interesting facts about stars.
 
 ***
 
@@ -28058,6 +38200,22 @@ A simple skill to personalize alexa or use it as your personal diary. You can st
 
 ***
 
+## [Starfish Peeps](skills/B01MTXSAKZ)
+
+*Alexa, ask starfish peeps who is Walter*
+
+You can ask all about characters from popular TV shows.
+
+***
+
+## [Starfleet Database (Unofficial)](skills/B01N0OT9KL)
+
+*Alexa ask the starfleet unofficial database to lookup Captain Kirk*
+
+Ask Alexa to access information from the (unofficial) Starfleet Database.
+
+***
+
 ## [Starlanes](skills/B017OBOGTS)
 
 *Alexa, open Starlanes*
@@ -28095,6 +38253,14 @@ The Startup Quotation skill will deliver a random quotation regarding startups a
 *Alexa, ask startup quotes for a quote*
 
 Inspirational quotes from leading figures in the startup and technology world.
+
+***
+
+## [Startup Quotes](skills/B01MTLNLMZ)
+
+*Alexa Open Startup Quotes*
+
+We all need hustle,  inspiration, and motivation, get yours here with startup quotes.
 
 ***
 
@@ -28194,6 +38360,14 @@ A list of all state capitals
 
 ***
 
+## [State Capitals](skills/B01N9M8Z2G)
+
+*Alexa open state capitals*
+
+Upon request, it will give you a random fact which tells you a US state's capital.
+
+***
+
 ## [State Capitals  Flash Cards](skills/B01JE55V1O)
 
 *Alexa ask State Capitals*
@@ -28218,11 +38392,11 @@ Quiz yourself on U.S. state capitals to memorize all of them!
 
 ***
 
-## [State Capitols Quiz](skills/B01M0A0PO1)
+## [State Capitals Quiz](skills/B01M0A0PO1)
 
 *Alexa open state capitols*
 
-This is a quiz of the capitol cities in the United States.
+This is a quiz of the capitol cities in the United States. I fixed the bug with a few of the cities.
 
 ***
 
@@ -28332,6 +38506,14 @@ Get information and stats about FIRST Robotics Compeititon Teams
 
 ***
 
+## [Status Check](skills/B01N1HWVIB)
+
+*Alexa, ask Status Check if Google is up right now*
+
+Monitor the status of your favorite websites.
+
+***
+
 ## [Status For Caltrain](skills/B01KSDO0W2)
 
 *Alexa, ask caltrain checker for the status*
@@ -28340,11 +38522,27 @@ Caltrain! It doesn't give great updates, but Twitter often knows when things go 
 
 ***
 
+## [Stay or Go?](skills/B01N0LE6W9)
+
+*Alexa ask should i go get coffee?*
+
+Simple multi-response app to assist you in deciding if you should go do something.
+
+***
+
 ## [Steam Engines](skills/B01M4ID369)
 
 *Alexa, open steam engines*
 
 Discover interesting facts about Steam Engines.
+
+***
+
+## [Steelers Fan](skills/B01MQYGZ5S)
+
+*Alexa, Ask steelers fan whats my flash briefing on the Steelers*
+
+Get unofficial to-the-minute stats & fun facts on the Steelers supplied by Fresh Digital Group. This is not sponsored or endorsed by the Pittsburgh Steelers.
 
 ***
 
@@ -28364,6 +38562,134 @@ a fact skill to share local Steemit knowledge. This is not endorsed by Steemit. 
 
 ***
 
+## [Stefan Doering](skills/B01MY0WMNA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Stefan Doering](skills/B01MZ2IWI2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Stefan Doering](skills/B01N5HRUIX)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Stefan Jerichow](skills/B01N0R5M3T)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Stefan Jerichow](skills/B01NAIPGCJ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Stefan Jerichow](skills/B01NBJYAN5)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Stefan Ludwig](skills/B01NCB5JLR)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Stefan Siegl](skills/B01MRP5D25)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Stefan Siegl](skills/B01MYQ7GW1)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Stefan Siegl](skills/B01MZYFEGR)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Stefan Siegl](skills/B01N2M60NH)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Stella Boo](skills/B01N1VGZ73)
+
+*Alexa Open Stella Boo*
+
+Stella Boo Facts
+
+***
+
+## [Stephan Giesen](skills/B01NGTSCGH)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [StephanGlaß](skills/B01MQNF7MI)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [StephanGlaß](skills/B01N2LIWRT)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [StephanGlaß](skills/B01N57L0DG)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Stepper for Fitbit](skills/B01M2WIM6X)
 
 *Alexa, ask Stepper Exercise how many steps did Tyler do this week*
@@ -28377,6 +38703,30 @@ Accesses Fitbit leaderboard information from your Fitbit account.
 *Alexa, ask Steve Jobs Trivia for a fact*
 
 Trivia and facts about Steve Jobs.
+
+***
+
+## [Steve Trivia](skills/B01N916OD6)
+
+*Alexa open Steve Trivia*
+
+Random trivia questions
+
+***
+
+## [Stevens Point Guide](skills/B01NBNR4CU)
+
+*Alexa, open Point Guide*
+
+Find out things about Stevens Point, WI.
+
+***
+
+## [Still On](skills/B01JA5A88Y)
+
+*Alexa, ask still on if McDonald's is still open*
+
+A world wide tool to Find Store Hours and Business Information in your area, tells you if a business or restaurant is still open and how far is it.
 
 ***
 
@@ -28396,14 +38746,6 @@ Real-time stock quotes from NASDAQ and NYSE, market summaries from S&P 500, DJIA
 
 ***
 
-## [Stock Market Sensei](skills/B01DKO07TQ)
-
-*Alexa, ask Stock Market Sensei how does AMZN look today.*
-
-Stock Market Sensei,the #1 Stock Trading & Investment Finance Prediction Platform. Get current stock prices and likely low,high,opening & closing prices - daily
-
-***
-
 ## [Stock Quote](skills/B01DYSEKSC)
 
 *Alexa, ask Stock Quote to get quote for MSFT*
@@ -28417,6 +38759,54 @@ Have Alexa fetch stock quotes for you....
 *Alexa open stockholm facts*
 
 An app which gives you trivia on Stockholm
+
+***
+
+## [StockQuoter](skills/B01MTO5EZH)
+
+*Alexa, ask Stock Quoter for Tesla*
+
+Quick and easy near real-time stock quotes.
+
+***
+
+## [StockTicker](skills/B01N5K4IUV)
+
+*Alexa, ask Stock Ticker for Tesla*
+
+Quick and easy near real-time stock quotes.
+
+***
+
+## [StockTrigger](skills/B01N578BV4)
+
+*Alexa, ask Stock Trigger to notify me on Amazon at 789.42*
+
+Set notifications on US stocks. Get notified in realtime when your triggers are crossed. Get stock quotes or add stocks as favorites, query for stoprice changes
+
+***
+
+## [Stoic Living](skills/B01N1TN8FC)
+
+*Alexa Open Stoic Living*
+
+Hand-pick quotes from the classic Stoic philosophers - Marcus Aurelius, Epictetus, and Seneca.
+
+***
+
+## [Stoic quotes](skills/B01NCP8L2B)
+
+*Alexa, ask stoic quotes to give me stoic*
+
+Stoic quotes to motivate you and prepare you for your day!
+
+***
+
+## [Stoic Quotes](skills/B01MU3P2O1)
+
+*Alexa Open stoic quotes*
+
+A simple skill to read a few Stoic quotes
 
 ***
 
@@ -28436,11 +38826,35 @@ Tells users the Stone Ridge School's entree menu for a given day
 
 ***
 
+## [Stop Game Fan](skills/B01N0JMEWZ)
+
+*Alexa, open stop game fan*
+
+Random letter generator. (Unofficial game).
+
+***
+
+## [Stop, Breathe & Think](skills/B01N9959LC)
+
+*Alexa, open Stop Breathe Think*
+
+Daily guided meditations to help you reduce stress and feel the calm.
+
+***
+
 ## [stopwatch](skills/B019DB6YNI)
 
 *Alexa, open stopwatch and start*
 
 A stopwatch for timing the duration of things.
+
+***
+
+## [Story Teller](skills/B01MY1M9MP)
+
+*Alexa ask story teller for a scary story*
+
+StoryTeller can tell lots of different kinds of stories.  What kind of story would you like to hear?
 
 ***
 
@@ -28460,6 +38874,14 @@ Unofficial facts about the Netflix series Stranger Things.
 
 ***
 
+## [Stranger Trivia](skills/B01N1OS29W)
+
+*Alexa start Stranger Trivia*
+
+This is a fan made trivia game.
+
+***
+
 ## [Stream Guide for Twitch](skills/B01FKNPL2I)
 
 *Alexa, ask Stream Guide what are the top games*
@@ -28468,11 +38890,27 @@ This skill can find the top games and channels being streamed on Twitch.tv
 
 ***
 
+## [Stream Watcher](skills/B01N9BPE72)
+
+*Alexa, open Stream Watcher.*
+
+Want to watch a movie? Find out if you can stream it with Stream Watcher!
+
+***
+
 ## [StreamBot for Twitch](skills/B01EMNHT1S)
 
 *Alexa, ask Streambot what's featured on Twitch*
 
 Ask Alexa for some featured streams or top streams for a game on Twitch.tv
+
+***
+
+## [Street Wizard](skills/B01MXKZQ7I)
+
+*alexa ask street wizard will I become rich*
+
+Let Street Wizard answer your questions.
 
 ***
 
@@ -28488,7 +38926,15 @@ A skill that provides you with stretches before any of your exercises. It will h
 
 *Alexa, tell Stringify to run movie night.*
 
-Run connected experiences that include things like Fitbit, SmartThings, Nest, Hue, Dropbox, Twitter and many more.  This skill requires the free Stringify app.
+Stringify connects your smart home, wearable devices, and services to create truly automated experiences. Requires free Stringify app.
+
+***
+
+## [Stringify - Smart Automation Home, Work, Life, IoT](skills/B01LWZ8J56)
+
+*There are no example interactions for this skill.*
+
+Stringify connects your smart home, wearable devices, and services to create truly automated experiences. Requires free Stringify app.
 
 ***
 
@@ -28497,6 +38943,14 @@ Run connected experiences that include things like Fitbit, SmartThings, Nest, Hu
 *Alexa, ask StubHub what’s happening this weekend.*
 
 What's going on this weekend? Ask Alexa to find out from StubHub!
+
+***
+
+## [Studyspo Geeks](skills/B01MTSI5UW)
+
+*Alexa, ask study geeks a fact*
+
+Ask Alexa about Studyspo
 
 ***
 
@@ -28521,6 +38975,14 @@ Stuff Sharon Says
 *Alexa, open Stump the Chump*
 
 Are you a sports trivia buff? Prove it by competing against Alexa in 'Stump the Chump'!
+
+***
+
+## [Stupid Cat Facts](skills/B01MT32L86)
+
+*Alexa, open cat facts*
+
+Presents user with a silly, often obvious fact about cats.
 
 ***
 
@@ -28588,6 +39050,14 @@ Suggests good movies to watch
 
 ***
 
+## [Summer Fun](skills/B01MQFLXIO)
+
+*Alexa ask summer fun*
+
+get activities for summertime fun. get recipes for summer treats.
+
+***
+
 ## [sun salutation steps](skills/B01M97Z3N6)
 
 *Alexa steps from sun salutation*
@@ -28620,6 +39090,40 @@ Provides quotes from the tv show "It's Always Sunny In Philadelphia"
 
 ***
 
+## [Sunrise Sunset](skills/B01N2LW1R0)
+
+*Alexa, ask sunrise sunset when is sunrise in Denver*
+
+Sunrise and Sunset times for U.S. Cities
+
+***
+
+## [SunstoneYogaSouthlakeVillageUnofficial](skills/B01MSTJDZ5)
+
+*Alexa, open Yoga Schedule*
+
+List the scheduled times of a specified yoga class
+
+***
+
+## [Supehero Quiz](skills/B01N1TE0J8)
+
+*Alexa Open superhero quiz*
+
+A simple DC and Marvel comic quiz to test your knowledge.
+
+***
+
+## [Super Bowl Fan Quiz](skills/B01N0VX6RF)
+
+*Alexa, begin Super Bowl Fan Quiz*
+
+Brush up on your Super Bowl knowledge or challenge your friends!  It's a short quiz about the Super Bowl Winners.
+
+Not sponsored or endorsed by NFL Enterprises
+
+***
+
 ## [Super Brain](skills/B01IH3F4FC)
 
 *"Alexa, launch super brain."*
@@ -28633,6 +39137,14 @@ a skill to relax and challenge your brain.
 *Alexa, Ask Dice bot to roll me a twenty sided die*
 
 A great Dice roller, that random picks a number for you.
+
+***
+
+## [Super Hero Sidekick](skills/B01NH05YX0)
+
+*Alexa tell my sidekick to give me a phrase.*
+
+Need some encouragement?  Ask your super hero sidekick for inspiration.
 
 ***
 
@@ -28684,6 +39196,22 @@ With Superpower, you can get an interesting conversation topic to start an engag
 
 ***
 
+## [SuperStudio Berlin](skills/B01MQXUJUY)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Supplement Advisor](skills/B01LW9R2F9)
+
+*Alexa, ask the supplement advisor what supplements are good for anxiety*
+
+The Supplement Advisor by Treycent
+
+***
+
 ## [Surf Stat](skills/B01N00S0WP)
 
 *Alexa ask surf stat what is the surf report at rockaway*
@@ -28732,6 +39260,70 @@ Learn about different ways to improve your overall health via our new health tip
 
 ***
 
+## [Sven Seiler](skills/B01N0S6ILT)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sven Seiler](skills/B01N4FBIMI)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sven Seiler](skills/B01N9HY355)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sven Westphal Consulting](skills/B01MQNYQIA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sven Westphal Consulting](skills/B01MSR01PA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Sven Westphal Consulting](skills/B01NAAJPBV)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [SwagExpert.com](skills/B01NH0HZVT)
+
+*Alexa, open Swag Expert.*
+
+Tips and ideas for using branded merchandise to boost your brand with swag!
+
+***
+
+## [Swahili](skills/B01MRRZSI2)
+
+*Alexa Open Swahili Speaker*
+
+Responds with today's day in Swahili language
+
+***
+
 ## [SwampTrivia](skills/B01DJCMFPI)
 
 *Alexa, play Swamp Trivia.*
@@ -28745,6 +39337,30 @@ Do you think you've mastered the Swamp audio game? Test your knowledge of all th
 *Alexa, Open swara Facts*
 
 Based on the SpaceGeek template. This skill returns 1 of the 20 random facts about 1 of my friends
+
+***
+
+## [SwashApps](skills/B01MU4TYMC)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [SwashApps](skills/B01N6L1WXU)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [SwashApps](skills/B01N6L1ZG4)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -28804,6 +39420,14 @@ Some fun facts about swimming
 
 ***
 
+## [Swimming Lengths Conversion](skills/B01N4F832X)
+
+*Alexa open swimming lengths conversion*
+
+Swimming Lengths, Convert from Lengths to Meters & Meters to Swimming Lengths
+
+***
+
 ## [swimming stroke briefing](skills/B01LWOUG7G)
 
 *alexa, open swimming stroke briefing*
@@ -28852,11 +39476,27 @@ This Alexa App provides fun facts about tacos.
 
 ***
 
+## [Tacoma Facts](skills/B01NABFE8D)
+
+*Alexa, open Tacoma facts*
+
+Facts about Tacoma, WA
+
+***
+
 ## [tado°](skills/B01EJJFWV4)
 
 *There are no example interactions for this skill.*
 
 Use your voice to control your tado° Smart Thermostat and Smart AC Control
+
+***
+
+## [Taiwan Facts](skills/B01MXLJUP1)
+
+*Alexa, open taiwan facts*
+
+Want to know more about Taiwan? Come ask me!
 
 ***
 
@@ -28868,6 +39508,14 @@ Hiking tips and skills
 
 ***
 
+## [Talk Hipster](skills/B01M69C491)
+
+*Alexa, talk hipster.*
+
+This skill is on the DL, you probably haven't heard of it. Enable this and Alexa can out-hipster the kitschiest of your plaid friends!
+
+***
+
 ## [TalkLocal](skills/B01EIT5YHM)
 
 *Alexa, ask Talk Local to repair my toilet that keeps running*
@@ -28876,11 +39524,83 @@ Connect with, and get estimates from the best local service professionals within
 
 ***
 
+## [Tamil Prayer](skills/B01NAN4YXM)
+
+*alexa, ask tamil devotion to play*
+
+Tamil bhakthi is hindu devotional songs in tamil language to praise lord Muruga, seeking to shower his grace.It plays Kandha Sasti Kavasam and Kandha Guru Kavas
+
+***
+
+## [Tap & Drill Sizes Chart Reference](skills/B01MTNNXAC)
+
+*Alexa, ask tap chart what kind of drill do I need for ten twenty four tap*
+
+Look up drill sizes for imperial taps and threads from 0 to 1 inch.
+
+***
+
+## [TapasPicker](skills/B01MTYQJ1K)
+
+*Alexa open tapas picker*
+
+This skill will ask you questions to help you decide which tapa is right for you.
+
+***
+
+## [Tapir Info](skills/B01N4GEVUE)
+
+*Alexa, open tapir info*
+
+Tells short facts about tapirs.
+
+***
+
+## [Task Master](skills/B01N0EYAUA)
+
+*Alexa ask task master what is due today?*
+
+Access Wunderlist with Alexa!
+
+***
+
 ## [Task Penguin](skills/B01LZV42P7)
 
 *Alexa, ask Task Penguin how many tasks do I have*
 
 Create and manage simple to-do lists or shopping lists straight from Alexa and have the list send as a card to your app.
+
+***
+
+## [TaskRabbit](skills/B01MSUHUK4)
+
+*Alexa, ask TaskRabbit to find me a handyman.*
+
+Have Alexa find you a great handyman, cleaner, and more with TaskRabbit.
+
+***
+
+## [Tater Trivia](skills/B01MY2S4PK)
+
+*Alexa start Tater Trivia*
+
+This game is trivia facts about people and event of Ashton-Tate. It is unauthorized and not sponsored by Ashton-Tate. But it sure is fun.
+
+***
+
+## [Taxhamster](skills/B01MR0HHRJ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [TD Ameritrade](skills/B01M0MTS8R)
+
+*Alexa, ask TD Ameritrade for the price of Amazon*
+
+Alexa, ask TD Ameritrade
 
 ***
 
@@ -28940,6 +39660,14 @@ This  skills gives delicious facts  about  tea
 
 ***
 
+## [Tea Steeper](skills/B01M283C22)
+
+*Alexa, open Tea Steeper*
+
+A tea timer that plays music and alerts you when your tea is finished steeping.
+
+***
+
 ## [Tea Trivia](skills/B01C6BNM14)
 
 *Alexa, start Tea Trivia.*
@@ -28996,6 +39724,30 @@ Cool facts about the tech world
 
 ***
 
+## [Tech Facts](skills/B01MSLLHKQ)
+
+*Alexa, open tech facts*
+
+Get a taste of some interesting technology related facts.
+
+***
+
+## [Tech Facts](skills/B01N6LOK09)
+
+*Alexa Open tech Facts*
+
+Tech Facts
+
+***
+
+## [Tech Facts](skills/B01N9HCLA2)
+
+*Alexa Open tech facts*
+
+Generates a random facts about technology.
+
+***
+
 ## [Tech Hunt](skills/B01G7CQPUS)
 
 *Alexa, ask Tech Hunt for top products*
@@ -29026,6 +39778,22 @@ The latest technology news and information on startups.
 *Alexa, ask techie facts for a fact*
 
 This is an Alexa Skill that gives the user a tech fact.
+
+***
+
+## [TechKnow](skills/B01N1P6WV8)
+
+*Alexa, ask TechKnow*
+
+TechKnow is a trivia game mean to test your knowledge on some of the largest technology companies in the world!
+
+***
+
+## [Technically Living Podcast](skills/B01NAMAAZK)
+
+*Alexa, ask Technically Living to tell me about Technically Living*
+
+The Technically Living Podcast helps people get the best use out of their technology.
 
 ***
 
@@ -29093,6 +39861,14 @@ Facts about teenagers
 
 ***
 
+## [Teku Tavern](skills/B01NA9BUQY)
+
+*Alexa, ask Teku Tavern what is on tap*
+
+Find out whats on tap at Teku Tavern in Seattle.
+
+***
+
 ## [Telegraph News](skills/B01LZVYI07)
 
 *Alexa, open The Telegraph.*
@@ -29133,6 +39909,14 @@ Know Telugu months by saying, Alexa, Ask Telugu months teller about Telugu month
 
 ***
 
+## [Temperature converter](skills/B01N78SUUM)
+
+*Alexa, ask temperature converter what is ten converted to fahrenheit*
+
+This is a fahrenheit / celsius converter
+
+***
+
 ## [Ten Famous Painters](skills/B01L0P0KS0)
 
 *Alexa, open Famous Painters*
@@ -29162,6 +39946,14 @@ Learn interesting facts and terms related to tennis with this Alexa skill.
 *Alexa, use keeper and start a singles match with red team's serve*
 
 Get the tennis experience of pros - coordinated match play and scoring, all your data stored, & statistics and analysis on every point you play from now on.
+
+***
+
+## [Tennis Simulator](skills/B01N4BZU4E)
+
+*There are no example interactions for this skill.*
+
+Performs a quick match simulation between two professional tennis players and tells you the final score instantly.
 
 ***
 
@@ -29221,6 +40013,22 @@ Demonstrate if you are a true Texan by answering correctly trivia questions abou
 
 ***
 
+## [Thanks Ants](skills/B01MTS2MN6)
+
+*Alexa, tell Ant Thanker to thank ants*
+
+Create a portmanteau to humorously thank your favorite things.
+
+***
+
+## [Thanksgiving Facts](skills/B01MTRBN4R)
+
+*Alexa, open Thanksgiving Facts*
+
+A great way to learn about Thanksgiving Day tradition
+
+***
+
 ## [The annoying parrot](skills/B01JTK5JRK)
 
 *Alexa, start the annoying parrot*
@@ -29261,11 +40069,35 @@ Glean strategic insight and actionable intelligence from Sun Tzu's ancient Chine
 
 ***
 
+## [The Art of War](skills/B01NCK6FGG)
+
+*Alexa, open The Art of War*
+
+Quotes from The Art of War
+
+***
+
+## [The Audio Chef](skills/B01FROPJ4K)
+
+*Alexa, open Audio Chef*
+
+The Audio Chef is your virtual cooking assistant. To load your favorite recipes from supported websites, go to theaudiochef.com
+
+***
+
 ## [The Bartender](skills/B019D6LR8U)
 
 *Alexa, ask the bartender, what's in a Tom Collins?*
 
 Gives Alexa access to over 12,000 cocktail recipes and instructions on how to make them. You can now ask for a recipe by name, or by ingredients!
+
+***
+
+## [The Beer Ignoramus Quiz](skills/B01NH02MNN)
+
+*Alexa, open beer ignoramus*
+
+A quiz fit for the true beer ignoramus.
 
 ***
 
@@ -29349,6 +40181,14 @@ Get all of your Daily Show needs met without lifting a finger.
 
 ***
 
+## [The Dave Ramsey Show](skills/B01N8TMZAK)
+
+*Alexa, play The Dave Ramsey Show*
+
+The Dave Ramsey Show is about real life and how it revolves around money.
+
+***
+
 ## [The Dice Game](skills/B01M12EP5B)
 
 *Alexa, Start the dice game*
@@ -29389,11 +40229,51 @@ Converse with The Dude! Engage in conversations with The Dude from the movie The
 
 ***
 
+## [The Dutchman](skills/B01MQNLBWL)
+
+*Alexa, ask the dutchman for a fact.*
+
+This skill will tell you random interesting facts about the Dutchman and the Netherlands.
+
+***
+
+## [The Eight Ball](skills/B01NCMA9US)
+
+*Alexa ask Eight Ball Am I smart?*
+
+Allow the the eight ball to answer all of your toughest questions.
+
+***
+
+## [The Farm Group](skills/B01MQU9N9W)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [The Fire Fighter's Prayer](skills/B01L88SCMU)
 
 *Alexa, ask the fire fighters prayer*
 
 The Firefighter's Prayer
+
+***
+
+## [The Future of Amerika](skills/B01N1RYE51)
+
+*Alexa open the future of america*
+
+Hear United States President Elect's inspiring quotes on the subject of making the future of America great again.
+
+***
+
+## [The Game Guy](skills/B01LY0HDQV)
+
+*Alexa, ask The Game Guy for the spread on the Kentucky Wildcats game.*
+
+The Game Guy provides current Vegas odds, event details, and more about upcoming NFL, NBA, MLB, NCAA Football, NCAA Basketball, and NHL games.
 
 ***
 
@@ -29410,6 +40290,14 @@ Spell Words in telephony or Morse Code
 *Alexa, open The Grand Tour*
 
 The Grand Tour Skill tests your knowledge of the latest episode of The Grand Tour on Amazon Prime Video. Watch, play and unlock exclusive video.
+
+***
+
+## [The Groovy Podcast Player](skills/B01N02OEKR)
+
+*alexa open groovy podcast*
+
+Groovy Podcast Player - Plays episodes from 'The Groovy Podcast'
 
 ***
 
@@ -29453,6 +40341,22 @@ Have Alexa Tell you a fact that is guaranteed to be 100% true or your money back
 
 ***
 
+## [The Joe Rogan Experience](skills/B01N02VFJG)
+
+*Alexa, play The Joe Rogan Experience*
+
+The podcast of Comedian Joe Rogan
+
+***
+
+## [The Kural](skills/B01MQS5NNI)
+
+*Alexa ask tamil wisdom*
+
+Start your day with inspirational wisdom quotes from Alexa!
+
+***
+
 ## [The Law](skills/B01B7AHS8I)
 
 *Alexa, open The Law*
@@ -29474,14 +40378,6 @@ The Listeners is a conversational performance offering interaction with Alexa, w
 *Alexa start The Lord's Prayer*
 
 Recite The Lord's Prayer along with Alexa
-
-***
-
-## [The Maestro](skills/B01KBGYS4G)
-
-*Alexa, ask quiz maestro to start a new game.*
-
-The Maestro is your Classical Music Quizmaster, here to ask you questions about composers, conductors, and musicians.
 
 ***
 
@@ -29514,6 +40410,14 @@ This is the Most Important Decision you will ever make in your entire life! Say 
 *Alexa, ask interesting man a joke*
 
 Tells 'The Most Interesting Man in the World' jokes
+
+***
+
+## [The Motley Fool](skills/B01M26URT4)
+
+*Alexa, ask The Fool for Apple.*
+
+Check the market and the stocks that matter to you, and build a watchlist of the companies you want to track … all in plain English.
 
 ***
 
@@ -29554,6 +40458,14 @@ Play the Name Game song
 *Alexa, launch Ohio State*
 
 The Ohio State University's Official Amazon Echo Skill, provided as a utility for students to make their day a little easier.
+
+***
+
+## [The Omniscient Oracle](skills/B01N7CC51Q)
+
+*Alexa, ask the omniscient oracle if I should eat pizza today.*
+
+The omniscient oracle will tell you yes or no to all your questions.
 
 ***
 
@@ -29632,6 +40544,14 @@ The Telephone Game is a game about Echoing messages. Hear a message, and try to 
 
 ***
 
+## [The Tim Ferriss Show](skills/B01MRHUNYY)
+
+*Alexa, play The Tim Ferriss Show*
+
+Tim Ferriss in this show deconstructs world-class performers from eclectic areas, digging deep to find the tools, tactics, and tricks that listeners can use.
+
+***
+
 ## [The Tube](skills/B01BFQVO1G)
 
 *Alexa ask The Tube what's happening on the District*
@@ -29664,6 +40584,22 @@ Go inside NBC’s immensely popular musical competition series, The Voice! Get t
 
 ***
 
+## [The Wall Street Journal](skills/B01NBC07Z2)
+
+*Alexa, ask The Wall Street Journal for a news summary*
+
+Coverage you trust, insights you need. Here you will find the latest news, podcasts and market updates from The Wall Street Journal.
+
+***
+
+## [The Washington Post](skills/B01N2IDHFF)
+
+*Alexa, open Washington Post*
+
+News headlines, political analysis, and a weekly news quiz.
+
+***
+
 ## [The Wayne Investigation](skills/B01C9AX5VY)
 
 *Alexa, open the Wayne Investigation*
@@ -29677,6 +40613,14 @@ In this Batman-themed choose-your-own-adventure mystery game, you play a detecti
 *Alexa, open the wizard*
 
 Meet the wizard. He's about to do some pretty wild magic...
+
+***
+
+## [TheGreatDictator](skills/B01MZ40MLB)
+
+*alexa open TheGreatDictator*
+
+Charlie Chaplins monologue from The Great Dictator
 
 ***
 
@@ -29696,6 +40640,14 @@ The Theories Exam skill provides you with information about the major theories u
 
 ***
 
+## [Theory Me](skills/B01N5K9MRF)
+
+*Alexa, ask Theory Me for a music theory fact.*
+
+Get random music theory facts - fast!
+
+***
+
 ## [Therapist](skills/B01D8C095W)
 
 *Alexa, tell Eliza that I am sad*
@@ -29709,14 +40661,6 @@ A fun program that pretends to be a psycho therapist. Not to be taken seriously,
 *Alexa, tell My Therapist I am excited.*
 
 Therapy is your therapist for Alexa.  Tell therapist your mood and she will give you words of encouragements.  Alexa, tell my therapist I am excited.
-
-***
-
-## [theRealVoiceResponder](skills/B01M30OJWB)
-
-*Alexa, open fourty one oh five trivia*
-
-A fun trivia game to test your knowledge.
 
 ***
 
@@ -29760,11 +40704,11 @@ This Alexa  Skill will enlighten you with a proverb(kural) written by Thiruvallu
 
 ***
 
-## [This Day in History](skills/B01EXUGAME)
+## [This Day in History](skills/B01N92PFXG)
 
-*Alexa ask This Day In History*
+*Alexa, launch This Day in History*
 
-This Day in History tells you events that happened today -or any day- in the past.
+History happens every day! Check in with Alexa to find out about the historical events that happened on this day and every other day of the year.
 
 ***
 
@@ -29773,6 +40717,38 @@ This Day in History tells you events that happened today -or any day- in the pas
 *Alexa, Navy History*
 
 In keeping with the heritage of the Navy this skill will let you know the significant events from US Naval history that occurred today.
+
+***
+
+## [Thomas Scott](skills/B01MQEY7VQ)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Thomas Tursics](skills/B01N4GY9LY)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Thomas Tursics](skills/B01N79KEBB)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Thought Of The Day](skills/B01N1RGYBI)
+
+*Alexa, open thought of the day*
+
+Thought Of The Day provides amazing inspirational thoughts from scholars around the world
 
 ***
 
@@ -29800,11 +40776,19 @@ Consult the Three Eyed Raven about the Seven Kingdoms and their history.
 
 ***
 
-## [Thunderstorm Sounds](skills/B01M3RCM3B)
+## [Thrive Global](skills/B01MYNPU4S)
 
-*Alexa, open thunderstorm sounds*
+*Alexa, open Thrive.*
 
-Ambient noise of a thunderstorm to help you focus, sleep, or relax.
+Thrive for Alexa from Thrive Global offers an 8 minute guided meditation from Agapi Stassinopoulos to help you get a good night’s sleep and wake up refreshed.
+
+***
+
+## [Throwback Facts](skills/B01N7BX103)
+
+*Alexa, ask throwback facts for a fact*
+
+This skill gives you facts to throw you back!
 
 ***
 
@@ -29821,6 +40805,14 @@ Take on Alexa in a classic game of Tic Tac Toe.
 *Alexa, Ask Tic Tac Toe Helper, How do I play*
 
 A Tic Tac Toe Game Helper
+
+***
+
+## [Tide - Stain Remover](skills/B01M9B7ZTB)
+
+*Alexa, open Tide.*
+
+Stains are a pain, but Tide has you covered! Get step-by-step instructions for over 200 different stain types with Tide Laundry Line.
 
 ***
 
@@ -29856,19 +40848,19 @@ Are you interested in tide information? Rely on Tide Report for High and Low Tid
 
 ***
 
-## [Tide- Stain Remover](skills/B01M9B7ZTB)
-
-*Alexa, open tide*
-
-Stains are a pain, but Tide has you covered! Get step-by-step instructions for over 200 different stain types with Tide Laundry Line.
-
-***
-
 ## [TideGuide](skills/B01C3BJBJE)
 
 *Alexa, ask tide guide for the tides in Santa Barbara, California*
 
 This skill will give the tide report for most locations (city and state/country) with a NOAA station.
+
+***
+
+## [tidy closet](skills/B01NADBVVD)
+
+*Alexa, open tidy closet*
+
+help tidy closet
 
 ***
 
@@ -29880,6 +40872,14 @@ Have Tie Breaker settle your disputes. Ask who is right, and she'll tell you eit
 
 ***
 
+## [Tik Crunch](skills/B01NAKQZS7)
+
+*Alexa Open tik crunch*
+
+Fan application for reading TechCrunch online
+
+***
+
 ## [TIL Me More](skills/B01F0I5F1U)
 
 *Alexa, ask TIL Me More to teach me something*
@@ -29888,11 +40888,27 @@ Learn something new every day
 
 ***
 
+## [Till Friebe](skills/B01N1LD8XC)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [Tim Hale](skills/B01M3QEP67)
 
 *There are no example interactions for this skill.*
 
 null
+
+***
+
+## [Tim Stuart](skills/B01MSK3BMC)
+
+*Alexa, Ask Tim's brain for a quote*
+
+Tim Stuart Quotes
 
 ***
 
@@ -29941,6 +40957,14 @@ An app for Bay Area commuters for getting Caltrain information regarding fare an
 *Alexa ask Times for Marta what are the times for the airport?*
 
 Times for MARTA will tell you how soon the next train will arrive at different stations within the MARTA subway system in Atlanta.
+
+***
+
+## [Tino Nitze](skills/B01MYYAWUF)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -29993,6 +41017,14 @@ Titan Trivia gives you a quote from a titan of industry and your job is to guess
 
 ***
 
+## [Tithing Calculator](skills/B01M33A5KF)
+
+*Alexa, ask tithing calculator what is tithing of one thousand dollars*
+
+tithing calculator
+
+***
+
 ## [Titus](skills/B01DJT93IS)
 
 *Alexa, ask Titus to find Seinfeld*
@@ -30001,11 +41033,59 @@ Find where you can view your favorite TV shows on free, paid and subscription se
 
 ***
 
+## [TMI-Webdesign](skills/B01MT1FMOA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [TMI-Webdesign](skills/B01N6KZEGL)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [To be Continued](skills/B01LWM1UV2)
 
 *Alexa, an enemy stand*
 
 Plays a random quote from JoJo's Bizarre Adventure.
+
+***
+
+## [To Play For](skills/B01M5CMBHN)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Tobias](skills/B01N7DOALT)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Tobias](skills/B01N9EQK5R)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Tobias](skills/B01NBHD1BY)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -30049,6 +41129,14 @@ Hear what happened on today's date in Washington State history, from HistoryLink
 
 ***
 
+## [Today Menu](skills/B01N9GEEJD)
+
+*Alexa Open today menu*
+
+This skill is designed for Alexa contest. Choose your favorite dish from hotel menu
+
+***
+
 ## [Today's Activity Quiz](skills/B01M8I28IL)
 
 *Alexa, open Today's Activity Quiz*
@@ -30081,11 +41169,35 @@ Historical Facts picked for today!
 
 ***
 
+## [Today's statement](skills/B01N8R11LZ)
+
+*Alexa open todays statement*
+
+With Today's statement you will get a surprise statement to agree or disagree with each day of the year and get to compare it against the peoples majority vote.
+
+***
+
+## [Today's Strength by Hoogalit.com](skills/B01MXW37PI)
+
+*Alexa, open today's strength*
+
+Build up yours and your family’s well-being and resilience, by unlocking the power of character strengths.
+
+***
+
 ## [Today's Ten](skills/B01F9VJXL6)
 
 *Alexa, open Today's Ten*
 
 Have Alexa read you Business Insider's daily lists of tech and world events
+
+***
+
+## [Today's Word](skills/B01MRNYNAQ)
+
+*Alexa, ask today's word for a word*
+
+A skill that gives you a new word to learn every day.
 
 ***
 
@@ -30102,6 +41214,14 @@ Some real fun facts about toilets!
 *Alexa, ask cue token for the price*
 
 Ask for the most current game token price in gold for World of Warcraft!
+
+***
+
+## [Tomasz Janeczko](skills/B01MXE3WIY)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -30201,6 +41321,14 @@ Find out the top 10 songs on the Billboard Hot 100.
 
 ***
 
+## [Top Three Fresh](skills/B01MST1TCC)
+
+*Alexa ask Top Three Fresh to tell me the freshest*
+
+Ask Alexa for the three freshest (or most rotten!) movies in the theaters!
+
+***
+
 ## [TorAlarm 3E](skills/B01M8HJPOV)
 
 *There are no example interactions for this skill.*
@@ -30214,6 +41342,14 @@ null
 *Alexa open tornado sirens*
 
 Sound the sirens, a tornado is near!
+
+***
+
+## [Toronto Guide](skills/B01MY283GM)
+
+*Alexa, ask toronto guide to tell me the top five things*
+
+Toronto Attraction Information for tourists
 
 ***
 
@@ -30267,9 +41403,17 @@ Test your knowledge of the college basketball tournament.
 
 ## [TP-LINK Kasa](skills/B01EIQX6Y8)
 
-*There are no example interactions for this skill.*
+*Alexa, turn on Christmas Tree Light*
 
 Kasa is a simple way to manage your home from anywhere.
+
+***
+
+## [TPMG-PMP-QUESTION-BANK-FREE](skills/B01N4HDCX8)
+
+*Alexa Ask the project management dot guru free question bank to start a game*
+
+Free PMP Question Bank Game
 
 ***
 
@@ -30305,11 +41449,27 @@ Tracker's Election Odds is the premier way to get the inside scoop on who is lik
 
 ***
 
+## [Trading Symbols](skills/B01M3XV6BL)
+
+*Alexa, start trading symbols*
+
+Alexa asks Ticker Symbol questions
+
+***
+
 ## [Train History](skills/B01LX5TCQ1)
 
 *Alexa, open Train History.*
 
 Are you interested in train history? Rely on Train History for notable events in train history for every day of the year.
+
+***
+
+## [Train Status](skills/B01MSMFZLF)
+
+*Alexa, open train status*
+
+Get up-to-data MTA subway information
 
 ***
 
@@ -30337,11 +41497,43 @@ trainingTips is a small list of common gym and workout tips.
 
 ***
 
+## [Trakt](skills/B01LXGK3RP)
+
+*Alexa, ask Trakt t.v. what is on TV today?*
+
+Combined with a trakt.tv account, Alexa can now update you on what shows and movies are on your calendar!
+
+***
+
+## [Transit Tracker](skills/B01N4DY492)
+
+*Alexa Open transit tracker*
+
+Ask Transit Tracker  to get you arrival times for bus or train services. Use presets for default STOP and ROUTE so you don't have to repeat them each time
+
+***
+
+## [Translated](skills/B01N9BZJPZ)
+
+*Alexa open Translated*
+
+Translate in more than 100 languages and listen to the translation with the correct pronunciation
+
+***
+
 ## [Translator for Alexa](skills/B017OC0DX0)
 
 *"Alexa, ask Translator to say  'it's raining' in Italian"*
 
 Use Translator for Alexa to translate English words and phrases into over 50 languages.
+
+***
+
+## [trash decompose times](skills/B01NCLAN6T)
+
+*Alexa Open trash decompose times*
+
+Alexa ask Trash Decompose times for a fact
 
 ***
 
@@ -30366,6 +41558,14 @@ Get a fun Travel Fact each day to keep you inspired.
 *Alexa, open Travel Tips*
 
 Get a useful travel tip.
+
+***
+
+## [Travel Warning](skills/B01N7JFSOP)
+
+*Alexa ask Travel Warning is Canada safe?*
+
+Discover State Department travel warnings from the Alexa app
 
 ***
 
@@ -30409,14 +41609,6 @@ Trending Searches will list off the top four internet searches of the day.
 
 ***
 
-## [TreycentSupplementAdvisor](skills/B01LW9R2F9)
-
-*Alexa, Ask The Supplement Advisor what supplements are good for anxiety*
-
-The Supplement Advisor by Treycent
-
-***
-
 ## [Tricities Karaoke](skills/B01EQXQVSQ)
 
 *Alexa, ask Tricities Karaoke where can I sing tonight*
@@ -30446,6 +41638,14 @@ Think you can outsmart the tricky genie? Try this game of skill and luck that’
 *Alexa, tell Trig Identities to tell me an identity*
 
 Get a random trig identity
+
+***
+
+## [TripCase](skills/B01LYIMNB5)
+
+*Alexa, ask TripCase when does my flight leave?*
+
+Keep track your flight and lodging itinerary using the TripCase skill for Alexa.
 
 ***
 
@@ -30729,6 +41929,14 @@ Get the free answer of the day for America's Pub Quiz trivia.
 
 ***
 
+## [TriviaGame](skills/B01N9HOMBB)
+
+*Alexa Open trivia game*
+
+a short trivia game to play with alexa
+
+***
+
 ## [Trivial Trivia Game](skills/B01EVRTUBW)
 
 *Alexa launch trivial trivia*
@@ -30761,6 +41969,14 @@ Truckee Trivia is a trivia game built as a template for developer to use in crea
 
 ***
 
+## [True Friend](skills/B01MXZTYIO)
+
+*Alexa Open True Friend*
+
+A teacher about the Holy Spirit who’s the BEST HELP available to everyone.Learn more about what the Holy Spirit DOES THROUGH THIS APP.
+
+***
+
 ## [Trump (unauthorized and unfiltered)](skills/B01LG95NJG)
 
 *Alexa, open Trump Unauthorized*
@@ -30774,6 +41990,14 @@ Plays Trump quotes, as spoken by The Donald himself.  New quotes added frequentl
 *Alexa ask Trump Facts for a fact*
 
 Facts about Donald Trump.
+
+***
+
+## [Trump News Unofficial](skills/B01N7MGFYV)
+
+*Alexa open Trump News Unofficial*
+
+Trump News
 
 ***
 
@@ -30801,6 +42025,30 @@ Trump answers your most burning questions.
 
 ***
 
+## [Trump versus Trump](skills/B01N1LZEEC)
+
+*Alexa launch Trump versus Trump.*
+
+Trump vs Trump. Enjoy a one man debate.
+
+***
+
+## [Trumpdown unofficial](skills/B01N0UP882)
+
+*Alexa, ask trump down unofficial how much longer*
+
+Countdown until Trump is out of office, unofficial
+
+***
+
+## [Trumpet Fingerings](skills/B01N4H4593)
+
+*Alexa, ask Trumpet Fingerings how to play B flat.*
+
+Learn the fingerings for notes on a standard, concert B♭ trumpet, cornet, flugelhorn, or mellophone.
+
+***
+
 ## [Trust Builder](skills/B01M7XTZSF)
 
 *Alexa, open Trust Builder*
@@ -30822,6 +42070,14 @@ This application will give you some very fun truth ideas to play to Truth or dar
 *Alexa open Truth or Dare*
 
 Truth or Dare Party Game (PG-13)
+
+***
+
+## [Truth or Dare Game](skills/B01NGWPT4I)
+
+*Alexa Open truth or dare*
+
+Truth or dare game is a simple implementation of the classic party game.
 
 ***
 
@@ -30865,11 +42121,27 @@ Thanksgiving Day related facts
 
 ***
 
+## [Turkey Planner](skills/B01NCB06P8)
+
+*Alexa Ask Turkey Planner How many pounds of turkey is needed for fifteen people*
+
+Ask how many pounds of turkey is needed for a certain number of people. Or ask how long it takes to cook a turkey.
+
+***
+
 ## [Turn Master](skills/B01M9ASYAZ)
 
 *Alexa open Turn Master*
 
 Choose one or more people from your group.
+
+***
+
+## [Turn Up](skills/B01MS1E4HZ)
+
+*Alexa, ask turn up*
+
+Randomly outputs psychology trivia when prompted
 
 ***
 
@@ -30907,11 +42179,35 @@ Alexa, set my smart heater to 25.
 
 ***
 
+## [TV Guide](skills/B01MU3P7B8)
+
+*Alexa, ask tv guide which channel shows drama*
+
+This skill is to provide show information & its playing time.
+
+***
+
+## [TV Info](skills/B01N1LIOMC)
+
+*Alexa, ask TV Info about the Walking Dead*
+
+Ask where and when to watch television programs
+
+***
+
 ## [TV Shows](skills/B018EWAOOW)
 
 *Alexa, ask TV Shows when is American Idol on?*
 
 TV Shows provides the time and network for the next episode of any TV show. Episode details including show summaries are also provided in the Alexa App.
+
+***
+
+## [TV Time](skills/B01MRND2M3)
+
+*Alexa, ask TV Time, Any Tom Cruise movies today?*
+
+Have fun surfing your TV using TV Time! Get TV showtimes, movies schedules and personalized recommendations so you never miss out on your favorite shows!
 
 ***
 
@@ -30939,19 +42235,11 @@ Tweech - the tweet reader - reads your twitter timeline to you.
 
 ***
 
-## [Tweets Feed](skills/B01L1K7BO0)
+## [twenty questions](skills/B01N6I0G8D)
 
-*Alexa, ask tweets feed what's Taylor Swift doing now*
+*Alexa, play twenty questions*
 
-Want to get a quick feed of tweets from celebrities? Just ask a famous name to Tweets Feed and you will have Alexa tell you the rest.
-
-***
-
-## [Tweets From The Donald](skills/B01F4VVKIA)
-
-*Alexa, open Mister Trump.*
-
-Donald Trump's latest and best tweets as read by Alexa.
+20 Questions
 
 ***
 
@@ -30987,6 +42275,14 @@ Get Alexa to give you a fortune cookie with a funny saying!
 
 ***
 
+## [Twisted Game](skills/B01N94UXNQ)
+
+*Alexa ask twisted game to start.*
+
+Alexa can call out motions for a game of Twisted with you.  This skill is not sponsored by or affiliated with Milton Bradley or Hasbro.
+
+***
+
 ## [Twitter Reader](skills/B01LFJO3M0)
 
 *Alexa, open Twitter*
@@ -31008,6 +42304,14 @@ Choose two numbers by yourself and let alexa guess these numbers as you proceed 
 *There are no example interactions for this skill.*
 
 null
+
+***
+
+## [TXU Energy](skills/B01N43WGK6)
+
+*Alexa, ask TXU Energy for my account balance*
+
+This Skill allows you to manage your TXU Energy account and lets you get your account balance, make a payment, learn ways to use less energy and more.
 
 ***
 
@@ -31047,9 +42351,7 @@ Twenty-one questions about the history of writing and basic typography.
 
 *Alexa, ask Tyria Scout what's next*
 
-Move easily from boss to boss in Guild Wars 2.  Ask for the current or next boss, next boss by name, or find a boss location.  
-
-Magee knows what's going on!
+Move easily from boss to boss in Guild Wars 2.  Ask for the current or next boss, next boss by name, get the dailies, and more!
 
 ***
 
@@ -31093,11 +42395,27 @@ Fun and education facts about US History
 
 ***
 
+## [U.S. National Parks](skills/B01N6ERAWU)
+
+*Alexa, ask National Parks for Yosemite.*
+
+Learn more about the U.S. national parks.
+
+***
+
 ## [U.S. Presidential Trivia](skills/B01H9G0R4Q)
 
 *"Alexa, open Presidential Trivia."*
 
 A trivia game about U.S. Presidents
+
+***
+
+## [U.S. Presidents](skills/B01NCM6KP3)
+
+*Alexa Open u s presidents*
+
+Ask about US Presidents or Vice Presidents
 
 ***
 
@@ -31141,6 +42459,14 @@ Ubi Portal Voice Prototyping Tool allows for very quickly showcasing interaction
 
 ***
 
+## [UCSD Bus Updates (Unofficial)](skills/B01NGU74S2)
+
+*Alexa Open bus schedule*
+
+UCSD Bus Updates gives your Echo live updates for all on-campus shuttles at University of California, San Diego.
+
+***
+
 ## [UK Deal Finder](skills/B01MEC16XB)
 
 *Alexa Ask UK Deal Finder to get deals*
@@ -31165,6 +42491,14 @@ Find Postcode by Address
 
 ***
 
+## [UK Top 40](skills/B01N1KQZN0)
+
+*Alexa, ask U. K. Top 40 who's the top three*
+
+Uk Top 40 - Get this weeks number one song and artist.
+
+***
+
 ## [Ukrainian Trivia](skills/B01J2H6NHA)
 
 *Alexa open Ukrainian Trivia*
@@ -31173,11 +42507,43 @@ Ukrainian Trivia tests your knowledge of Ukraine ranging from famous actors to g
 
 ***
 
+## [Ukrainian Trivia](skills/B01N5F1QSG)
+
+*Alexa, Open Ukrainian Trivia*
+
+Ukrainian Trivia Game
+
+***
+
 ## [Ukulele Tuner](skills/B01ETLTP56)
 
 *Alexa, open Ukulele Tuner.*
 
 Tune your ukulele with Ukulele Tuner.
+
+***
+
+## [Ulrich Pech](skills/B01MQOTLUX)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Ulrich Pech](skills/B01N6DVV63)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Ulrich Pech](skills/B01NBH8Z5I)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -31223,9 +42589,17 @@ UMich Facts tells you interesting facts about the University of Michigan, Ann Ar
 
 ## [Umpire Insult](skills/B01LWLSLL6)
 
-*Alexa, ask drunk fan for an insult*
+*Alexa Open drunk fan*
 
 Funny umpire insults.
+
+***
+
+## [Unauthorized Trek Characters](skills/B01N1UT7CK)
+
+*Alexa, ask trek characters to tell me a fact*
+
+Learn facts about your favorite Star Trek characters. Covers all five television series. Unauthorized.
 
 ***
 
@@ -31234,6 +42608,14 @@ Funny umpire insults.
 *Alexa, Tell Uncle Shakespeare to insult me!*
 
 Let Uncle Shakespeare insult you. These jibes are randomly composed from adjectives and nouns taken from Shakespeare's works.
+
+***
+
+## [unfair game](skills/B01N0MIGYC)
+
+*Alexa, open unfair game*
+
+Absolutely unfair game. Will you try to make a number greater than game's?
 
 ***
 
@@ -31250,6 +42632,22 @@ Unicorns are more than mythical creatures! Test your knowledge of $1 billion com
 *Alexa, Start Unicorn Trivia*
 
 Unicorn Trivia is a fun way to test your knowledge of the legends and folklore around unicorns. Take the quiz and see if you are a Unicorn expert.
+
+***
+
+## [Union City Guide](skills/B01N1VTXOP)
+
+*Alexa Open Union City Guide*
+
+Get top attractions list or local news about Union City, California
+
+***
+
+## [Unique Daily Affirmations](skills/B01NAN1NH1)
+
+*Alexa Ask unique daily affirmations to tell me today's affirmation*
+
+A creative affirmation tool that helps you succeed in your endeavors, bring you out from under the clouds, and make positive changes in your life
 
 ***
 
@@ -31285,6 +42683,14 @@ With U.S. Flag Status skill you can find out whether or not the State and Nation
 
 ***
 
+## [United States History Facts](skills/B01LX6ERKZ)
+
+*Alexa, open united states history facts*
+
+Get United States History Facts
+
+***
+
 ## [United States Naturalization Practice Quiz](skills/B01CKCK4TW)
 
 *Alexa, launch Immigration Quiz*
@@ -31301,11 +42707,36 @@ List of United States Presidents
 
 ***
 
+## [United States Trivia Master](skills/B01N64IDSR)
+
+*Alexa , ask u. s. a. trivia master to start a game*
+
+Test your knowledge about USA and learn new things along the way !
+
+***
+
 ## [United States' Trivia Game](skills/B01LWO57SI)
 
 *Alexa, open u. s. trivia game*
 
 A game that test people's knowledge of United States' History. An educational and fun game that people of all ages can play.
+
+***
+
+## [University of San Diego](skills/B01MSHH1KS)
+
+*Alexa, open USD*
+
+The University of San Diego skill for the Amazon Echo
+keeps you connected to Campus Resources and Activities. Get started by telling Alexa: “Ask USD”.
+
+***
+
+## [University of Washington Facts Unofficial](skills/B01MS1GUH8)
+
+*Alexa, ask U. Dub Facts for a fact*
+
+University of Washington Facts (Unofficial)
 
 ***
 
@@ -31317,11 +42748,27 @@ Linux fans among us will appreciate this skill which brings Unix fortune to Alex
 
 ***
 
+## [unoffical Minecraft PlayerChecker](skills/B01MXMUWNQ)
+
+*Alexa open player checker*
+
+This is a fan made skill that  will allow you to check how many players are on a MineCraft server
+
+***
+
 ## [unofficalDNDRace](skills/B01LZ9KJDP)
 
 *Alexa, launch unofficial d. n. d. chooser*
 
 DnD 5th edition decision tree to help choose the race for your character.
+
+***
+
+## [Unofficial Advice Slip](skills/B01N6IXO7L)
+
+*Alexa ask advice slip for some advice*
+
+Unofficial app to ask for some advice from advice slip.  Note:  this app is not affiliated with the advice slip website.
 
 ***
 
@@ -31346,6 +42793,14 @@ Unofficial Random Arnold quote generator
 *Alexa, open unofficial arsenal facts*
 
 Quick unofficial facts about Arsenal Football Club.
+
+***
+
+## [Unofficial Bellarmine Calendar](skills/B01N1IHBFO)
+
+*Alexa, open unofficial bell calendar*
+
+Interactive calendar for Bellarmine College Prep
 
 ***
 
@@ -31381,11 +42836,35 @@ Chinese trivia quiz, not sponsored or endorsed by Accenture
 
 ***
 
+## [Unofficial Chuck Facts](skills/B01N2U9883)
+
+*Alexa Open unofficial chuck facts*
+
+Get phrases from chuck (Unofficial)
+
+***
+
+## [Unofficial Chuck Facts](skills/B01NBIJE5F)
+
+*Alexa Start unofficial chuck facts*
+
+Random Tschuck facts.
+
+***
+
 ## [Unofficial Chuck Norris](skills/B01M32JOET)
 
 *Alexa, ask Unofficial Chuck Norris for a joke*
 
 Unofficial Chuck Norris jokes, on demand!
+
+***
+
+## [Unofficial Chuck Norris](skills/B01N4EW1PB)
+
+*Alexa Open Unofficial Chuck Norris*
+
+Best Chuck jokes. Skill is not sponsored or endorsed by Chuck Norris
 
 ***
 
@@ -31402,6 +42881,22 @@ Learn facts about Chuck Norris.  Not sponsored by Chuck Norris.
 *Alexa, ask unofficial chuck norris jokes to tell me a chuck norris joke*
 
 A skill to tell a random Chuck Norris joke!
+
+***
+
+## [Unofficial Cubs Slogans](skills/B01M0BIVB9)
+
+*Alexa, Open Cubs Slogans*
+
+This skill tells you humorous mock slogans for the Cubs.
+
+***
+
+## [Unofficial Denver Broncos Game](skills/B01N7EB9PQ)
+
+*Alexa Open unofficial denver broncos game*
+
+This application provides information regarding the next Denver Broncos game. Note: This skill is not sponsored or endorsed by Denver Broncos
 
 ***
 
@@ -31429,6 +42924,14 @@ It reads a quote at a time and the user should answer whether it is The Donald's
 
 ***
 
+## [Unofficial DontStarve Helper](skills/B01MQI6SHF)
+
+*Alexa, ask dont starve helper about bones*
+
+The entire Don't Starve Wikia on Alexa
+
+***
+
 ## [Unofficial Dota 2 Abilities Skill](skills/B01LYJD2K5)
 
 *Alexa, start Unofficial Dota 2*
@@ -31445,6 +42948,30 @@ Unofficial glossary for ECS terminology
 
 ***
 
+## [Unofficial Einstein Facts](skills/B01NBEZ7JZ)
+
+*Alexa, start Einstein facts*
+
+Gives some random facts about Albert Einstein
+
+***
+
+## [Unofficial Elite Dangerous Ship AI](skills/B01NA9AJES)
+
+*Alexa, ask ship assistant to raise landing gear.*
+
+Explore the depths of the Milky Way Galaxy, with assistance from your ship's new AI, Amazon's Alexa.
+
+***
+
+## [Unofficial F. C. Barcelona Facts](skills/B01MRSUPD2)
+
+*Alexa open unofficial f. c. barcelona facts*
+
+Soccer/football fan? Mad about FC Barcelona? Think Leo Messi is the best? Here's more fun facts that you'd like to know! Unofficial, created by a fan.
+
+***
+
 ## [Unofficial Fact Sphere](skills/B01LWHYECV)
 
 *Alexa, ask Unofficial Fact Sphere for a fact.*
@@ -31458,6 +42985,23 @@ Fact sphere's facts
 *Alexa, open unofficial futurama facts.*
 
 Alexa gives facts about the great show of Futurama
+
+***
+
+## [Unofficial Game of Thrones Trivia](skills/B01N91JZ31)
+
+*Alexa, ask series trivia who is arya stark*
+
+It is an unofficial Game of Thrones Trivia.
+
+***
+
+## [Unofficial Gandhi Facts](skills/B01MTV0FR6)
+
+*Alexa, start unofficial Gandhi facts.*
+
+Gives some random facts about Gandhi
+(the skill is not sponsored or endorsed by Gandhi)
 
 ***
 
@@ -31485,6 +43029,14 @@ Unofficial Google Facts skill for Alexa
 
 ***
 
+## [Unofficial Gorillaz Facts](skills/B01N3TTZLO)
+
+*Alexa, open gorillaz fan facts*
+
+Gorillaz Facts about the members of the band compiled by a fan.
+
+***
+
 ## [Unofficial Harley Facts](skills/B01M13RYPI)
 
 *Alexa, open unofficial harley facts*
@@ -31509,11 +43061,59 @@ Hear unofficial random facts about Harry Potter.
 
 ***
 
+## [Unofficial Hearthstone Tips for Edgy Teens](skills/B01MR0E0AT)
+
+*Alexa Open Unofficial Hearthstone Tips*
+
+Unofficial Hearthstone Tips for Edgy Teens: Keeping up with the latest hearthstone strategies and memes.
+
+***
+
+## [Unofficial Hero Recommender](skills/B01NCQ56CZ)
+
+*Alexa, open Hero Recommender*
+
+hero recommender
+
+***
+
+## [Unofficial HFL School Information](skills/B01M67H8KS)
+
+*Alexa, ask Cougar Info what is for lunch this week.*
+
+Gives you unofficial information about different aspects of the Honeoye Falls Lima High School including lunch information, sports, and music schedules
+
+***
+
+## [Unofficial Hogwarts House Sorter](skills/B01N5GVLRW)
+
+*Alexa Open house sorter*
+
+Unofficial Hogwarts House Sorter for Harry Potter Fans
+
+***
+
+## [Unofficial Java Man Facts](skills/B01N9K2N2K)
+
+*Alexa, Open Unofficial Java Man*
+
+Ask Alexa for unofficial facts about the Java Man coffee shop in Hermosa Beach, CA.
+
+***
+
 ## [Unofficial Kancolle Helper](skills/B01MFCV6P1)
 
 *Alexa, ask Unofficial Kancolle Helper*
 
 A fan-made basic helper that gives details of the main recipes used in the browser game KanColle: Kantai Collection.
+
+***
+
+## [Unofficial Kings Fan](skills/B01NBJIOTG)
+
+*Alexa ask hockey fan for plays*
+
+This will tell you the last 5 plays of the NHL Kings game.
 
 ***
 
@@ -31525,11 +43125,35 @@ Labyrinth (Unofficial) - Remind me of the babe
 
 ***
 
+## [Unofficial Land of the Lost Trivia](skills/B01N0QLKXF)
+
+*Alexa Open sleestak trivia*
+
+Unoffical Land Of The Lost Trivia - Test your knowledge of great TV.
+
+***
+
+## [Unofficial League of Legends Random Champ Picker](skills/B01NCLR53R)
+
+*Alexa Open champion picker*
+
+Provides the requester with a random champion from a list of all champions currently in the game League of Legends
+
+***
+
 ## [Unofficial League of Legends Trivia Game](skills/B01MG65UJ9)
 
 *Alexa Open Unofficial League of Legends Trivia*
 
 Unofficial Trivia Game on League of Legends Quotes
+
+***
+
+## [Unofficial Mandela Facts](skills/B01N9BZ9SH)
+
+*Alexa, start unofficial Mandela facts.*
+
+Gives some random facts about Nelson Mandela ( the skill is not sponsored or endorsed by Nelson Mandela.)
 
 ***
 
@@ -31541,11 +43165,11 @@ An unofficial Microsoft .NET Framework quiz made by someone who enjoys working w
 
 ***
 
-## [Unofficial Minecraft Quiz](skills/B01M7RBE32)
+## [Unofficial Mitch Hedberg Quotes](skills/B01N4B9VSY)
 
-*Alexa, start unofficial minecraft quiz*
+*Alexa open unofficial mitch hedberg quotes*
 
-Test your knowledge about the computer game Minecraft
+The Unofficial Mitch Hedberg Quote Skill
 
 ***
 
@@ -31565,11 +43189,36 @@ Unofficial facts for the Netflix show "Narcos"
 
 ***
 
+## [Unofficial Peaky Blinders](skills/B01N08E3KK)
+
+*Alexa, ask Pokey Blinders to give me a quote*
+
+Gives quotes from the Peaky Blinders (Unofficial)
+
+***
+
+## [Unofficial Pokedex](skills/B01N8V5JAE)
+
+*Alexa, ask Unofficial Pokedex information of charmander*
+
+Unofficial Pokedex, show basic information about pokemon from Indigo League.
+
+***
+
 ## [Unofficial Pokemon Facts](skills/B01L6F2C8A)
 
 *Alexa, open unofficial pokemon facts*
 
 A Pokemon Fact a day... An unofficial Pokemon Fact App for Alexa users.
+
+***
+
+## [Unofficial Pokemon of the day](skills/B01N41H1NI)
+
+*Alexa Open pokemon fan*
+
+Everyday you will learn about another pokemon.
+This skill is not sponsored or endorsed by Pokemon.
 
 ***
 
@@ -31621,11 +43270,51 @@ Unofficial Seahawks Facts tells the user a random fact about the Seahawks.
 
 ***
 
+## [Unofficial Seahawks Football](skills/B01N1PGO2J)
+
+*Alexa ask fan football for stories*
+
+Unofficlal last five footballs plays for seattle
+
+***
+
+## [Unofficial Seahawks Football Plays](skills/B01MTZZE0Z)
+
+*Alexa ask football fan for stories*
+
+Unofficial last five football plays for Seattle.
+
+***
+
 ## [Unofficial Sheldon Cooper Facts](skills/B01M07ZR0M)
 
 *Alexa, Begin Unofficial Sheldon Cooper Facts*
 
 Hear an unofficial fun fact from Sheldon Cooper of The Big Bang Theory.
+
+***
+
+## [Unofficial Simpson's Quote Finder](skills/B01N1PW65M)
+
+*Alexa Launch Simpson's Quote Finder*
+
+Give us a Simpson's Quote and we'll find the episode it belongs to
+
+***
+
+## [Unofficial SITO](skills/B01NCM17LV)
+
+*Alexa Open Unofficial SITO*
+
+Get information from the unofficial SITO Mobile. This includes business information, product details and a holiday toast to our clients and partners.partners.
+
+***
+
+## [Unofficial Social Likes](skills/B01M3X8CQK)
+
+*Alexa Open Social Likes*
+
+This skill help you get unofficial social likes for a page name.
 
 ***
 
@@ -31653,6 +43342,46 @@ Unofficial Star Wars facts that you did may not have known.
 
 ***
 
+## [Unofficial Star Wars Trivia](skills/B01NH0WQY4)
+
+*Alexa Open Unofficial Star Wars Trivia*
+
+Test your knowledge of the Star Wars universe with this fan-made trivia game.
+
+***
+
+## [Unofficial Star Wars Trivia Game](skills/B01N78R260)
+
+*Alexa, open unofficial star wars trivia*
+
+Fan made unofficial questions about the starwars universe
+
+***
+
+## [unofficial steam](skills/B01MQXAZTL)
+
+*Alexa Open unofficial steam*
+
+"Alexa, open unofficial steam"
+
+***
+
+## [Unofficial Superhero Tabletop Game Assistant](skills/B01NBA23UP)
+
+*Alexa,  Open Superhero Tabletop Assistant*
+
+An unofficial, fan-made companion skill for the Marvel and DC Superhero Universe Miniature game. Simply ask for an ability or rule to be read to you.
+
+***
+
+## [Unofficial Supernatural Trivia](skills/B01MQS0RVZ)
+
+*Alexa, Start Supernatural Trivia*
+
+Prove how much of a Super-fan you are with your Supernatural Trivia prowess. Answer 10 questions about the show, cast and crew.
+
+***
+
 ## [Unofficial Texans Facts](skills/B01M171T8U)
 
 *alexa, open team facts*
@@ -31666,6 +43395,14 @@ Unofficial Texans Team Facts
 *alexa, open punting stats*
 
 Unofficial Texans Punting Statistics
+
+***
+
+## [Unofficial The Walking Dead Quiz](skills/B01N5GWLAV)
+
+*Alexa Open Dead quiz*
+
+This is a quiz of The Walking Dead  TV Show on AMC.
 
 ***
 
@@ -31725,6 +43462,14 @@ Unofficial characters quiz for the Netflix show "Narcos"
 
 ***
 
+## [unofficial wild facts](skills/B01MRSHRG7)
+
+*Alexa, ask unofficial wild facts for a fact*
+
+An unofficial fan skill that tells facts about the Minnesota Wild. Not sponsored or endorsed by Minnesota Sports & Entertainment.
+
+***
+
 ## [Unofficial Willys wagon and truck year identifier](skills/B01M11220Z)
 
 *Alexa start unofficial willys year*
@@ -31738,6 +43483,22 @@ This will assist in determining the model year of a Willys wagon or pickup truck
 *alexa, open unofficial windows shortcuts*
 
 Quickly figure out the keyboard shortcuts for common Windows tasks. This skill is not sponsored or endorsed by Microsoft.
+
+***
+
+## [Unofficial WoW World Event Calendar](skills/B01NBLI2DO)
+
+*Alexa open unofficial wow calendar*
+
+Unofficial World of Warcraft world event calendar
+
+***
+
+## [Unofficial Zeldathon Total](skills/B01MT22FV2)
+
+*Alexa, ask Zelda Total for the donation total*
+
+Get the donation total for Zeldathon, a charity gaming marathon!
 
 ***
 
@@ -31805,6 +43566,14 @@ Get upcoming tournament events for Overwatch
 
 ***
 
+## [Uplifting News](skills/B01N0S3E73)
+
+*Alexa ask uplifting news to cheer me up*
+
+This skill provides uplifting news whenever you need to be cheered up.
+
+***
+
 ## [Upper Limb Muscle Revision](skills/B01M3PR7NC)
 
 *Alexa, open Upper Limb Muscles*
@@ -31866,14 +43635,6 @@ This skill tells you some interesting facts about US National Parks.
 *Alexa, tell National Parks game to start new game*
 
 US National Parks quiz game
-
-***
-
-## [US National Poll Average Check](skills/B01HFK2J92)
-
-*Alexa ask u.s. poll checker who is leading*
-
-This app checks the current U.S. Presidential race national polling average leader from realclearpolitics.com.
 
 ***
 
@@ -32003,6 +43764,14 @@ Star Wars trivia game.
 *Alexa, open useless facts.*
 
 Gives a random, useless fact.
+
+***
+
+## [Useless facts about James Blankenship](skills/B01N7K467K)
+
+*Alexa, That's a Fact Jack*
+
+James Blankenship Facts
 
 ***
 
@@ -32142,6 +43911,14 @@ Broaden your vocabulary with Verbivore. This skill, perfect for scholars, educat
 
 ***
 
+## [Vermont Facts](skills/B01N1S4U1Q)
+
+*Alexa Open vermont facts*
+
+Facts about the state of Vermont
+
+***
+
 ## [Vermont Trivia](skills/B01LZ009TE)
 
 *Alexa Open Vermont Trivia*
@@ -32179,6 +43956,14 @@ Want to know some video game facts? Ask Alexa!
 *Alexa ask Video Game Facts to tell me something*
 
 Let me tell you a quick fact about video games!
+
+***
+
+## [Video Game Quotes](skills/B01N9EUXH4)
+
+*Alexa Open Video Game Quotes*
+
+Gives users a random quote from a video game.
 
 ***
 
@@ -32222,6 +44007,14 @@ Vietnam Fact
 
 ***
 
+## [Vietnam Facts](skills/B01N7JYA6Q)
+
+*Alexa Open vietnam facts*
+
+An Alexa skill with fun facts about Vietnam
+
+***
+
 ## [Vietnamese Fact Skill](skills/B01M19827Z)
 
 *Alexa, launch vietnamese facts*
@@ -32254,6 +44047,14 @@ Learn about vinyl here.
 
 ***
 
+## [Virginia Credit Union](skills/B01N9CS0CL)
+
+*Alexa, ask Virginia Credit Union what is the routing number?*
+
+Get information about Virginia Credit Union branches, products and services.
+
+***
+
 ## [Virginia facts](skills/B01M4IK8CM)
 
 *Alexa open Virginia Facts*
@@ -32270,6 +44071,22 @@ Ask Virtual Academy about upcoming events, courses and holidays.
 
 ***
 
+## [Virtual Librarian](skills/B01N670UOU)
+
+*Alexa ask the virtual librarian to recommend a book*
+
+The Virtual Librarian provides reading recommendations based on best seller lists, award nominee lists, user reviews, and user purchases.
+
+***
+
+## [Virtual Reality Facts by SFVRCC](skills/B01MU2SZ0E)
+
+*Alexa, open VR Facts*
+
+Virtual, Augmented and Mixed Reality Facts curated by SFVRCC
+
+***
+
 ## [Visybl](skills/B01KKJLENM)
 
 *Alexa, Open Visible Cloud*
@@ -32283,6 +44100,14 @@ Visybl Alexa Skill lets you get status of Visybl beacons attached to your asset
 *Alexa open vitamin cards*
 
 Test your knowledge of FDA recommended daily allowances of vitamins and minerals for adults.
+
+***
+
+## [vivekananda quotes](skills/B01MXWMFAV)
+
+*There are no example interactions for this skill.*
+
+Vivekananda Quotes
 
 ***
 
@@ -32326,6 +44151,14 @@ helps in learning most common 400 english words
 
 ***
 
+## [Vocabulary Words](skills/B01M367KF8)
+
+*Alexa, open Vocabulary Words*
+
+Vocabulary Words provides flashcards for learning difficult English words.
+
+***
+
 ## [Voice Controlled Car Control](skills/B01IX4RGLK)
 
 *Alexa, open unoffical raspberry pi car*
@@ -32366,6 +44199,14 @@ Volunteer Facts
 
 ***
 
+## [voter registration](skills/B01NCQRCQ1)
+
+*Alexa Open Voter Registration*
+
+Let's you know how to vote in the United States
+
+***
+
 ## [vox bot](skills/B01K0X4PQG)
 
 *alexa, launch vox bot*
@@ -32374,7 +44215,39 @@ Vox Bot enables to provide description of item, after browsing with next/previou
 
 ***
 
+## [VUI Apps](skills/B01M63D9JX)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [VUI Apps](skills/B01MAVVZE2)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [VUI Apps](skills/B01MDTJP6B)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [VUI Apps](skills/B01MEE5F82)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [VUI Apps](skills/B01N1KV6AY)
 
 *There are no example interactions for this skill.*
 
@@ -32395,6 +44268,14 @@ Wacky Fact-ory: learn little-known facts that may seem hard to believe!
 *Alexa, open wahoo wa*
 
 University of Virginia fans can get their daily dose of Wahoo pride by asking wahoo wa!
+
+***
+
+## [Wailord Facts](skills/B01NH0XOX1)
+
+*Alexa, ask Wailord Facts to give me a fact*
+
+Facts about the Pokemon, Wailord.
 
 ***
 
@@ -32422,19 +44303,19 @@ Daily tips to walk more.
 
 ***
 
+## [Walking Dead Fan Trivia by VSI](skills/B01MXWXRGU)
+
+*Alexa ask walking dead fan trivia*
+
+Walking Dead Fan Trivia
+
+***
+
 ## [Walking Horse Fact Skill](skills/B01DOQ1ZMS)
 
 *Alexa, Open Horse Geek*
 
 Tennessee Walking Horse Facts
-
-***
-
-## [WaPo Elections](skills/B01G7MVNWI)
-
-*Alexa, ask WaPo Elections for the Politics Brief*
-
-Stay informed with primary and caucus election results, candidate information, general election poll data and an overview from our daily politics brief.
 
 ***
 
@@ -32462,6 +44343,22 @@ Warren Buffett Quotes is an Alexa service that tells you quotes the Oracle of Om
 
 ***
 
+## [Warship Helper](skills/B01N1ND20P)
+
+*Alexa open Warship Helper.*
+
+Quick facts about German Warships
+
+***
+
+## [Washington Computer Science Calendar](skills/B01MYZUW6W)
+
+*Alexa open c s calendar*
+
+Reads the UW CSE public calendar for events such as talks and colloguia.
+
+***
+
 ## [Washington Insider](skills/B01GSGB116)
 
 *Alexa, ask washington insider about new policies for economy*
@@ -32483,6 +44380,14 @@ Facts about Washington State
 *Alexa, ask Washington State Ferry when is the next ferry from Seattle to Bainbridge.*
 
 Use Washington State Ferry to get departure information for the Washington State Ferries.
+
+***
+
+## [Waste Management](skills/B01N2VS4IC)
+
+*Alexa, ask Waste Management how big it is*
+
+Ask Waste Management different questions about its business and services.
 
 ***
 
@@ -32550,6 +44455,14 @@ Watercolor Facts provides general facts about watercolor painting so new painter
 
 ***
 
+## [Wavycloud Issue Reporting](skills/B01JDP07IW)
+
+*alexa launch wavy issue*
+
+Wavycloud Customer Support
+
+***
+
 ## [WavycloudInfo](skills/B01JDLQ9N8)
 
 *Alexa launch cloud info and tell me a fact*
@@ -32566,6 +44479,14 @@ This skill offers tips to soothe a crying baby.
 
 ***
 
+## [WD40 or Duct Tape](skills/B01MRU58VM)
+
+*Alexa, open WD or Duct Tape*
+
+WD40 or Duct Tape
+
+***
+
 ## [We Are Social ‘Headline of the Day’](skills/B01MQ6AGX7)
 
 *Alexa, Social Headline*
@@ -32574,11 +44495,43 @@ Alexa, play Social Headline.
 
 ***
 
+## [We Feel Fine](skills/B01NA9TVZX)
+
+*Alexa, ask we feel fine what are people feeling?*
+
+Listen to real sentiments from across the globe and see beauty in the everyday ups and downs of life.
+
+***
+
+## [We Study Billionaires](skills/B01M362LIL)
+
+*Alexa open We Study Billionaires*
+
+The Investors Podcast - We Study Billionaires from Preston Pysh and Stig Brodersen
+
+***
+
 ## [Weald Creative](skills/B01M0AUJN2)
 
 *There are no example interactions for this skill.*
 
 null
+
+***
+
+## [Weather Geek](skills/B01MTV0ZXZ)
+
+*Alexa open weather geek and give me a weather fact*
+
+Are you a weather geek? Get interesting weather trivia here!
+
+***
+
+## [Weather Sky](skills/B01N0UQJ9Z)
+
+*Alexa, start Weather Sky*
+
+Detailed weather conditions, weather alerts, time travel, and the power to change the weather.
 
 ***
 
@@ -32598,6 +44551,22 @@ tells fun weather facts
 
 ***
 
+## [Web Analytics](skills/B01N0R0GFR)
+
+*Alexa, ask web analytics for the report*
+
+Get Google Analytics reports right from your Echo. Enable the skill, link it to your Analytics account, and say "Alexa, ask Web Analytics for the report."
+
+***
+
+## [WebDevFacts](skills/B01N2S5RSZ)
+
+*Alexa Open web dev facts*
+
+Learn some facts about Web Development!
+
+***
+
 ## [Webster Ma History](skills/B01J4N3CG2)
 
 *Alexa ask Town of Webster History a fact*
@@ -32611,6 +44580,22 @@ Webster Ma history facts.
 *Alexa, ask Wedding Countdown to set my wedding date as May 14th, 2016.*
 
 Countdown the number of days until your wedding date.
+
+***
+
+## [Weed Buddy](skills/B01MU1GYOX)
+
+*Alexa ask Weed Buddy to look up Purple Haze*
+
+The #1 marijuana app!
+
+***
+
+## [Weekday Finder](skills/B01N57PF9Z)
+
+*Alexa start weekday finder*
+
+Ask for the weekday for any date
 
 ***
 
@@ -32643,6 +44628,14 @@ Keep track of your weight loss and get real-time feedback about your body.
 *Alexa ask weight tracker to store one hundred sixty four pounds*
 
 Helps you to keep track of your weight. Just stand on a scale and tell Alexa to store your weight. You can also set a target and get reports.
+
+***
+
+## [Weird Canada Facts](skills/B01N7CS97B)
+
+*Alexa, open Weird Canada Facts*
+
+Weird Canada Facts - Whacky, Weird, and Wild eh?
 
 ***
 
@@ -32694,6 +44687,14 @@ WeirdFacter tells you a weird fact.
 
 ***
 
+## [Welcome to Night Vale](skills/B01N3U0P11)
+
+*Alexa, play Welcome to Nightvale*
+
+Twice-monthly community updates for the small desert town of Night Vale, featuring local weather, news, mysterious lights in the night sky, and cultural events.
+
+***
+
 ## [Wemo](skills/B01JTQCD3W)
 
 *There are no example interactions for this skill.*
@@ -32742,6 +44743,14 @@ Displays facts about whales
 
 ***
 
+## [Whale Facts](skills/B01N2Y4I5V)
+
+*Alexa ask whale facts to tell me a fact*
+
+WhaleFacts
+
+***
+
 ## [Whale Shark Facts](skills/B01LH011GS)
 
 *Alexa, open whale shark facts.*
@@ -32779,6 +44788,14 @@ A skill to tell funny and not-so-funny one liner jokes.
 *Alexa launch board game picker*
 
 Have Alexa help you pick out a board game to play!
+
+***
+
+## [What Breed Am I?](skills/B01N1KCBG1)
+
+*Alexa, open The Dog Breed Quiz*
+
+Find out what type of dog you are!
 
 ***
 
@@ -32958,6 +44975,14 @@ Ask Alexa what you should cook.
 
 ***
 
+## [What's Cooking](skills/B01N1TVIMU)
+
+*Alexa Open what's cooking*
+
+What's Cooking finds recipes that use as many of the given ingredients as possible and have as little as possible missing ingredients.
+
+***
+
 ## [What's My Sign](skills/B01E372OSQ)
 
 *Alexa, ask what's my sign for Sagittarius*
@@ -32971,6 +44996,14 @@ A daily horoscope.
 *Alexa, open w. t. on tap*
 
 Find out what's on tap at WillowTree HQ! Note: May not be suitable for all ages.
+
+***
+
+## [Whats On Tap at The Lounging Dutchman](skills/B01N8VCO0Z)
+
+*Alexa ask The Lounging Dutchman what is on tap*
+
+What's On Tap at The Lounging Dutchman
 
 ***
 
@@ -32998,27 +45031,11 @@ Finds out where the Lansing River Trail is flooded.
 
 ***
 
-## [Where Should I Travel](skills/B01KAJO8TO)
-
-*Alexa, open where should i travel*
-
-Try to make a decision of where to go
-
-***
-
 ## [Where'sMyPhone](skills/B01M6AFH5L)
 
 *Alexa, open Where'sMyPhone*
 
 Ever lose your phone under the couch? Find any mobile phone in seconds with Where'sMyPhone.
-
-***
-
-## [WhereToPark](skills/B01DRKF6VW)
-
-*Alexa, ask Parking Near Me for "Good parking in New York City."*
-
-Where To Park
 
 ***
 
@@ -33043,6 +45060,22 @@ Answer a series of questions to find out which food you should eat!  Simple, fas
 *Alexa, open Which Hikes You Want*
 
 help user decide which hikes the user want
+
+***
+
+## [Which Pet](skills/B01N9JQ4JJ)
+
+*Alexa open which pet*
+
+Alexa open which pet
+
+***
+
+## [Which Sport](skills/B01N0772V2)
+
+*Alexa open which sport*
+
+ask questions that will identify what sport user would be best at.
 
 ***
 
@@ -33094,6 +45127,14 @@ Do you live near North Florida, and enjoy spending time on the water?  Rely on W
 
 ***
 
+## [White Stallions](skills/B01MU4NETR)
+
+*Alexa ask white stallions to give me a fact*
+
+MyBetaFacts
+
+***
+
 ## [Whiteboard](skills/B01HEKBWW8)
 
 *"Alexa, open white board"*
@@ -33110,11 +45151,35 @@ Facts about Whitehall, Ohio.
 
 ***
 
+## [Whitetail Facts](skills/B01MTPY7KV)
+
+*Alexa, ask whitetail facts to tell me a whitetail fact*
+
+Learn facts about the Whitetail Deer of North America.
+
+***
+
+## [Whitney Bond's Recipe Search](skills/B01MRGPVXU)
+
+*Alexa, ask Whitney Bond how to make Buffalo Chicken Dip.*
+
+Looking for a recipe on the go or while you have your hands full?  Have Alexa ask Whitney Bond to send your favorite recipes or have her walk you through them!
+
+***
+
 ## [Whizzy Labs](skills/B01M0YKN3Y)
 
 *There are no example interactions for this skill.*
 
 null
+
+***
+
+## [Who are you](skills/B01MRQ1UDR)
+
+*Alexa, start who are you*
+
+Hello, I want to tell you about me
 
 ***
 
@@ -33134,6 +45199,22 @@ Find Out Who You Like
 
 ***
 
+## [Who Drinks](skills/B01NA87JOE)
+
+*Alexa open who drinks*
+
+The best drinking game for Echo!
+
+***
+
+## [Who Goes First?](skills/B01MRZJQ07)
+
+*Alexa Open Who Goes First*
+
+For when you're sitting around the table on game night and need to decide who goes first. It's simple and definitive. You'll be playing in seconds.
+
+***
+
 ## [Who is Ahead 2016](skills/B01LWLNY5E)
 
 *Alexa, Ask Who Is Ahead*
@@ -33147,14 +45228,6 @@ Who is ahead in the 2016 Presidential Race?
 *Alexa, open who is Phillip Pham*
 
 Fun Facts about Phillip Pham (me, student and entrepreneur)
-
-***
-
-## [Who is Thomas?](skills/B01LWMJY2L)
-
-*Alexa, open who is Thomas*
-
-Who is Thomas provides fun facts about Thomas Geelens.
 
 ***
 
@@ -33202,7 +45275,7 @@ Did you pay attention in English Literature class? Put your knowledge to the tes
 
 *Alexa, ask who's first*
 
-Helps you decide who gets the first turn when you are starting a card or board game.
+Who's First helps you decide who gets the first turn when you are starting a card or board game.
 
 ***
 
@@ -33246,6 +45319,14 @@ The wife manual, everything you need to know to maintain a happy wife
 
 ***
 
+## [WIFIPLUG](skills/B01MDMVF3Z)
+
+*Alexa, turn on Lamp*
+
+Control your devices with WIFIPLUG, the world's smallest app controlled smart plug.
+
+***
+
 ## [Wiggly Words](skills/B01E4LSLX8)
 
 *Alexa, ask Wiggly Words to tell me a funny word*
@@ -33272,7 +45353,7 @@ Wiki Brains can read you many of the 5000 most accessed articles on the English 
 
 ## [Wiki for Game of Thrones](skills/B01ILSYD0U)
 
-*Alexa ask king's landing what house is Jon Snow from*
+*Alexa ask kings landing what house is Jon Snow from*
 
 Ask King's Landing to learn about your favorite Game of Thrones characters
 
@@ -33359,14 +45440,6 @@ Facts about wine, delicious for your ears as well as your taste buds. Just ask.
 
 ***
 
-## [Wine Recommender](skills/B01M0XZY43)
-
-*Alexa, open wine recommender*
-
-This skill helps you select a suitable wine for any meal or occasion!
-
-***
-
 ## [Wine Trivia](skills/B01DL3G90M)
 
 *Alexa, play Wine Trivia*
@@ -33391,6 +45464,14 @@ Find the perfect wine for a type of food, or vice versa.
 
 ***
 
+## [Wingstop](skills/B01MCYY3AU)
+
+*Alexa, ask Wingstop to order wings*
+
+Alexa makes it easier than ever to order Wingstop’s made-to-order classic and boneless wings and fresh cut fries. Using the Wingstop skill lets you order ahead
+
+***
+
 ## [Wink](skills/B01EIQYF3E)
 
 *There are no example interactions for this skill.*
@@ -33404,6 +45485,14 @@ With Amazon Alexa, Wink smart home users can use simple voice commands to contro
 *Alexa, ask Winston Churchill for a quote*
 
 Ask Sir Winston Churchill himself to tell you one of his famous quotes
+
+***
+
+## [Winter Holiday Facts](skills/B01MXV206K)
+
+*Alexa, open winter holiday facts*
+
+Gives interesting facts about the winter holidays
 
 ***
 
@@ -33423,6 +45512,14 @@ Wireless Sensor Tags
 
 ***
 
+## [Wireless Tag (Informational)](skills/B01MYZTQ15)
+
+*Alexa ask wireless tag what happened today*
+
+Wireless Sensor Tags (Informational)
+
+***
+
 ## [Wise Cracks](skills/B01IWPAJ1Y)
 
 *Alexa Open Wise Cracks*
@@ -33431,9 +45528,17 @@ This is a really cool small collection of knock knock jokes
 
 ***
 
+## [WiseGuy](skills/B01N5IFFEU)
+
+*Alexa, ask wise guy to tell me a saying*
+
+Brighten your day with insightful sayings. Ask a wise guy to tell one whenever you want.
+
+***
+
 ## [Wiser Air](skills/B01KW8U8OC)
 
-*Alexa, ask Wiser Air to discover devices*
+*Alexa, tell Wiser Air to discover devices*
 
 The Wiser skill enables voice control of Wiser Air. In this release, users can control their setpoint and query the indoor temperature on a single thermostat.
 
@@ -33463,6 +45568,14 @@ Recites Shakespeare quotes and various famous proverbs, spoken by a pleasant mal
 
 ***
 
+## [wiz-morse-code](skills/B01N6LHQS0)
+
+*Alexa ask morse code to say a fact*
+
+obtains random world war two facts and repeats them in morse code
+
+***
+
 ## [Wizard facts](skills/B01I79SRQY)
 
 *Alexa open Wizard facts and give me a fact*
@@ -33476,6 +45589,14 @@ Gives random facts
 *Alexa, ask wizard Harry for a fact*
 
 This  skill  give  you  random magical  facts of Harry Potter
+
+***
+
+## [Wizarding Facts](skills/B01N9004IZ)
+
+*Alexa, open wizarding facts*
+
+unofficial hogwarts wizarding facts
 
 ***
 
@@ -33519,6 +45640,15 @@ Alexa is able to calculate your perfect bra size, according to your bust and ban
 
 ***
 
+## [Woody or Tinny](skills/B01MQSE3QV)
+
+*Alexa, ask woody or tinny for a word*
+
+Think you know if a word is woody or tinny? Best prove it, Becky old chap!
+Let Alexa know what type of work it is and see how you compare to other Alexa users!
+
+***
+
 ## [Woof!](skills/B01GQOYNVK)
 
 *Alexa, woof woof  (or begin woof woof)*
@@ -33532,6 +45662,14 @@ Woof to Alexa
 *Alexa, ask Woot what is the deal on electronics?*
 
 Get Woot's daily deals straight from Alexa, just ask Woot "What is today's deal?"
+
+***
+
+## [Word Associations](skills/B01N9JG8EQ)
+
+*Alexa, play Word Associations*
+
+The rules are simple: quickly say a word that is related to all three of the words given by Alexa.
 
 ***
 
@@ -33594,9 +45732,17 @@ Alexa will mix up your sentence
 
 ## [Word Source](skills/B01GTA4WMQ)
 
-*Alexa, ask Word Source what is the etymology of plant*
+*Alexa, ask Word Source about the word car*
 
 Simply ask Alexa about any word to learn about its origins.
+
+***
+
+## [Word Study](skills/B01MSOFQFR)
+
+*Alexa, open word study*
+
+Word Study
 
 ***
 
@@ -33626,7 +45772,7 @@ A word trivia game to test and broaden your vocabulary.
 
 ## [Work Excuse](skills/B01LWLZB9P)
 
-*Alexa, ask Work Excuse to say a work excuse*
+*Alexa, ask work excuse to give me a work excuse*
 
 Funny skill for those wanting to hear funny office excuses. Informative for those who want to use it.
 
@@ -33696,6 +45842,14 @@ Get to know what time it is anywhere in the world!
 
 ***
 
+## [World Countries](skills/B01N04J81O)
+
+*Alexa Open World Countries*
+
+Find countries in a particular region of the world
+
+***
+
 ## [World Cup Facts](skills/B01I2G7U9W)
 
 *Alexa, open World Cup Facts.*
@@ -33717,6 +45871,14 @@ Test your  knowledge of soccer with a series of questions around the world cup a
 *Alexa, ask world currencies to start game*
 
 Trivia skill for world currencies.
+
+***
+
+## [World Domination](skills/B01N0PWLX0)
+
+*Alexa Begin World Domination*
+
+A silly skill.
 
 ***
 
@@ -33800,6 +45962,14 @@ A simple quiz game about world's largest and smallest things. Alexa will ask you
 
 ***
 
+## [World News](skills/B01MU4N9EU)
+
+*Alexa open world news*
+
+This skill delivers the the most important news to keep you in the loop 24/7.
+
+***
+
 ## [World Records](skills/B01J0CBTWQ)
 
 *Alexa  open world Records*
@@ -33832,6 +46002,14 @@ Baseball multiple choice trivia of the World Series champs.  Question is the yea
 
 ***
 
+## [World War 1 Trivia](skills/B01MXZW99W)
+
+*Alexa ask war trivia to tell me a war fact*
+
+This skill presents random world war 1 trivia to the user.
+
+***
+
 ## [World War Two Trivia](skills/B01HE5VGQU)
 
 *Alexa, open world war two trivia*
@@ -33850,6 +46028,14 @@ Random facts about the world's biggest things.
 
 ***
 
+## [WorldCapitals](skills/B01N2Q9XOG)
+
+*Alexa, open world capitals*
+
+learn & play world capitals
+
+***
+
 ## [Worlds Best Knock Knock Jokes](skills/B01JYQFPIM)
 
 *Alexa, ask best knock knock to tell me a joke*
@@ -33858,11 +46044,27 @@ Worlds Best Knock Knock Jokes
 
 ***
 
+## [Worldtime](skills/B01M4S1QLA)
+
+*Alexa Open Worldtime*
+
+What time is it in ..?
+
+***
+
 ## [WorldTrivia](skills/B01GN6SV2S)
 
 *Alexa ask world trivia to start new game*
 
 This game presents five questions about world.
+
+***
+
+## [Worldwide Surf Report](skills/B01N6A068E)
+
+*Alexa Open Surf Report*
+
+Get the surf report for over 4000 locations all over the world with descriptions for each break. The most fully featured surfing skill available on Alexa.
 
 ***
 
@@ -33898,6 +46100,14 @@ This is an Alexa skill that test user on knowledge about online game video game 
 
 ***
 
+## [WRAL](skills/B01LX26YBK)
+
+*Alexa open WRAL...*
+
+“Alexa, ask WRAL for the weather forecast.”.
+
+***
+
 ## [Wrestling Facts](skills/B01FH2MW42)
 
 *Alexa, ask Wrestling Facts to tell me a fact about wrestling.*
@@ -33911,6 +46121,42 @@ Learn fun and exciting facts about the history of the sport of Wrestling.
 *Alexa, launch writing prompt*
 
 Sample writing prompts for stories and poems.
+
+***
+
+## [WritingCards Screenwriting Quotes](skills/B01N1QRN78)
+
+*Alexa, open writing quotes*
+
+Ask Alexa for inspirational screenwriting quotes from the best filmmakers in the industry.
+
+Just say "writing quotes" after enabling the skill.
+
+180 total
+
+***
+
+## [xTools](skills/B01MXKBIVL)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [xTools](skills/B01N75R8Q4)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [xTools](skills/B01N8R6ZDO)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -33938,6 +46184,14 @@ YC Startup Quiz
 
 ***
 
+## [Yea Man](skills/B01MU336I0)
+
+*Alexa, start Yea Man.*
+
+Everyone needs a yea man in their life. Just ask yea man any questions and it will give you a answer.
+
+***
+
 ## [Year-o-matic](skills/B01FNI61TW)
 
 *Alexa ask year facts about 1971*
@@ -33951,6 +46205,14 @@ Year facts, say a year, get a fact.
 *Alexa, launch yellowstone predictions*
 
 Find out when your favorite Yellowstone geyser will erupt!
+
+***
+
+## [Yes Factory](skills/B01N1KPYRK)
+
+*Alexa, launch Yes Factory*
+
+Ask Alexa to say Yes. Always answers Yes!.
 
 ***
 
@@ -34002,11 +46264,27 @@ Yo Mama Jokes
 
 ***
 
+## [Yo Mama Jokes](skills/B01N0DD920)
+
+*Alexa, open yo mama jokes*
+
+Listen to some of the funniest Yo Mama jokes around
+
+***
+
 ## [Yo Momma Jokes](skills/B019SDNNC6)
 
 *Alexa, ask Mom Jokes to tell me a joke.*
 
 Tells a "yo momma" joke. Have Alexa start it, or ask it for a joke by saying "Alexa, ask Mom Jokes to tell me a joke." May not be appropriate for all ages.
+
+***
+
+## [Yoda Translator](skills/B01N1WXKGK)
+
+*Alexa, ask Yoda Translator to translate "How are you, today?"*
+
+With the Yoda Translator, you can ask Alexa to translate a sentence from English to Yodish!
 
 ***
 
@@ -34044,9 +46322,9 @@ Yo Mama jokes
 
 ## [Yonomi](skills/B01E7TYGFO)
 
-*There are no example interactions for this skill.*
+*Alexa, turn on my Television*
 
-Yonomi connects all of your devices under one roof for free, like Sonos, Harmony,  Hue, and more. Control your devices with just your voice - no hub required!
+Yonomi connects your devices under one roof for free, like Logitech Harmony, Sonos, Hue, & more. Control your devices with just your voice, no hub required!
 
 ***
 
@@ -34055,6 +46333,22 @@ Yonomi connects all of your devices under one roof for free, like Sonos, Harmony
 *Alexa, launch you don't say*
 
 Getting know facts is FUN
+
+***
+
+## [You_Might_Fact](skills/B01I79HO90)
+
+*Alexa, ask i might to tell me a fact*
+
+Facts that might be about you
+
+***
+
+## [Young Bug](skills/B01MQKBWEA)
+
+*Alexa, open Young Bug*
+
+Learn about the wonderful life of Young Bug!
 
 ***
 
@@ -34074,6 +46368,30 @@ I am your daily friend and can do many things for you.  Such as play fun games a
 
 ***
 
+## [yumidev](skills/B01MTU5GHX)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [yumidev](skills/B01N7BRIAC)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [yumidev](skills/B01NACRCUO)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [yvonne state capital facts](skills/B01LWVOU0H)
 
 *alexa, open yvonne state capitals*
@@ -34090,11 +46408,43 @@ A fun trivia game with questions hand picked by the author of this skill, Yvonne
 
 ***
 
+## [z Horo](skills/B01NCDY876)
+
+*Alexa Open zee horo*
+
+this skills give horoscope of users for daily weekly monthly and year time period
+
+***
+
 ## [Zamunda Games](skills/B01IAYJEBS)
 
 *Alexa, open Zamunda Games*
 
 Trivia game for the 1988 Eddie Murphy Class movie, Coming to America.
+
+***
+
+## [Zanamivir](skills/B01MQIMX73)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Zanamivir](skills/B01MYMEXNA)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Zanamivir](skills/B01N0DF4NG)
+
+*There are no example interactions for this skill.*
+
+null
 
 ***
 
@@ -34106,6 +46456,30 @@ Tells you fun facts about Zebras
 
 ***
 
+## [Zeitsprung GmbH & Co. KG](skills/B01N4BEN3B)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Zenfulfillment](skills/B01N0O9C82)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
+## [Zenfulfillment](skills/B01N6E9UGE)
+
+*There are no example interactions for this skill.*
+
+null
+
+***
+
 ## [ZenMaster](skills/B01EXKMP7I)
 
 *Alexa, ask ZenMaster for a koan*
@@ -34114,11 +46488,27 @@ ZenMaster tells you a koan that will help you practice meditation.
 
 ***
 
+## [Zika Facts](skills/B01MFDQ3JD)
+
+*Alexa, open Zika Facts.*
+
+Zika Facts educates people about the Zika Virus.  It provides answers to common questions about Zika, and guidance on prevention and risk reduction.
+
+***
+
 ## [Zika Health Facts](skills/B01ICJG568)
 
 *Alexa, ask Zika Health to tell me a fact.*
 
 Zika Health Facts: Get information on Zika for your health and safety
+
+***
+
+## [Zimbabwean Trivia](skills/B01N2UD2AA)
+
+*Alexa Open zimbabwean trivia*
+
+Trivia game about Zimbabwe
 
 ***
 
@@ -34175,14 +46565,6 @@ Find out the Zodiac sign for any date
 *Alexa, begin zodiac dates.*
 
 Zodiac Dates!
-
-***
-
-## [Zodiac Sun Signs](skills/B01L1D9154)
-
-*Alexa, open Sun Signs*
-
-Zodiac Sun Signs
 
 ***
 
@@ -34255,3 +46637,11 @@ Zubie makes driving safer, easier and less expensive by connecting you with your
 *Alexa open zumba facts*
 
 This skill gives you a random fact about Zumba
+
+***
+
+## [Zythophile](skills/B01N3ZGZWA)
+
+*Alexa, ask beer questions*
+
+Grow your beer knowledge with Zythophile.

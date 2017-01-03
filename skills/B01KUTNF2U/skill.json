@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01KUTNF2U",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "b. p. log",
   "name": "Blood Pressure Log",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "Vo3NAYpSH8IPjHroeqZbMJmaO",
   "permissions": null,
   "privacyPolicyUrl": "https://s3.amazonaws.com/darianbjohnson/Magic-Mirror/bp-privacy_policy.html",

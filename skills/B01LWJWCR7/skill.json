@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01LWJWCR7",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "home eight",
   "name": "home8",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": "XqeQh6CjTCOu7kjXntGhh3LFG",
   "permissions": null,
   "privacyPolicyUrl": "https://www.home8systems.com/privacy/",

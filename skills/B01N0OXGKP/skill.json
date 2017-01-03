@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N0OXGKP",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Mit Amazon Alexa und SmartHome Austria können Sie jetzt bequem per Sprache Ihr Zuhause steuern.<br/>\n\nAnforderungen<br/>\n-----------------<br/>\n• Sie benötigen ein SmartHome Austria Benutzerkonto.<br/>\n• Sie müssen eine SmartHome Austria Zentrale auf Ihrem Benutzerkonto registriert haben.<br/>\n• Sie müssen mindestens eines der im folgenden erwähnten Geräte in Ihrem SmartHome Austria System eingebunden haben.<br/><br/>\n\nInstallation<br/>\n-------------<br/>\n1. Aktivieren Sie den SmartHome Austria Alexa Skill.<br/>\n2. Melden Sie sich mit Ihrem Benutzernamen und Password an. Anschließend wird Ihr SmartHome Austria mit der Alexa-Sprachsteuerung automatisch verbunden.<br/>\n3. Sagen Sie \"Alexa, bitte suche nach meinen Geräten\". Alternativ können Sie auch im Reiter \"Smart Home\" innerhalb der Alexa App auf \"Geräte suchen\" klicken.<br/>\n4. Anschießend erhalten Sie eine Rückmeldung von Alexa wie viele Geräte gefunden wurden. Zudem werden erkannte Geräte auch der Alexa App im Menü unter \"Smart Home\" angezeigt.<br/><br/>\n\nBenutzung und unterstütze Geräte<br/>\n----------------------------------------<br/>\n\n» SmartHome Austria Heizkörperthermostat<br/>\n» SmartHome Austria Raumthermostat<br/><br/>\nBeispiele:<br/>\n\"Alexa, stelle das Raumklima Wohnzimmer auf 23°C.\"<br/>\n\"Alexa, erhöhe das Raumklima Küche um 2°C.\"<br/>\n\"Alexa, senke das Raumklima Bad um 3°C.\"<br/>\nFormel für Sprachbefehl:<br/>\n\"Alexa, stelle [Gerätename] auf [Anzahl] °C\"<br/><br/>\n\n» SmartHome Austria Zwischenstecker<br/>\n» SmartHome Austria Zwischenstecker (außen)<br/>\n» SmartHome Austria Unterputz-Lichtschalter<br/><br/>\nBeispiele:<br/>\n\"Alexa, schalte die Deckenleuchte Wohnzimmer ein.\"<br/>\n\"Alexa, schalte den Fernseher Wohnzimmer aus.\"<br/>\nFormel für Sprachbefehl:<br/>\n\"Alexa, schalte [Gerätename] ein.\"<br/><br/>\n\n» SmartHome Austria Zwischenstecker (dimmbar)<br/>\n» SmartHome Austria Unterputz-Dimmer<br/><br/>\nBeispiele:<br/>\n\"Alexa, schalte die Deckenleuchte Wohnzimmer ein.\"<br/>\n\"Alexa, schalte die Deckenleuchte Wohnzimmer aus.\"<br/>\n\"Alexa, stelle die Deckenleuchte Wohnzimmer auf 40%.\"<br/>\n\"Alexa, dimme die Deckenleuchte Wohnzimmer um 15%.\"<br/>\nFormel für Sprachbefehl:<br/>\n\"Alexa, schalte [Gerätename] ein.\"<br/><br/>\n\n» SmartHome Austria Unterputz-Rollladensteuerung<br/><br/>\nBeispiele:<br/>\n\"Alexa, stelle die Rollladen Wohnzimmer auf 40%.\"<br/>\nFormel für Sprachbefehl:<br/>\n\"Alexa, stelle [Gerätename] auf [Anzahl]%.\"<br/><br/>\n\nTipps<br/>\n-------<br/>\n• Erstellen Sie Gruppen innerhalb der Sektion \"Smart Home\" der Alexa App um zum Beispiel \"Alle Leuchten\" zu schalten.<br/>\n• Sie können Gruppen auch benutzen um einem einzelnen Gerät mehrere Namen zu geben.<br/>",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, stelle das Raumklima Wohnzimmer auf 23°C.",
+    "Alexa, schalte die Deckenleuchte Wohnzimmer ein.",
+    "Alexa, stelle die Rollladen Wohnzimmer auf 40%."
+  ],
+  "firstReleaseDate": 1481739578.412,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.248453ca-4a6c-4237-bb9c-3a7bd35c5ef8",
+  "imageAltText": "SmartHome Austria icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N0OXGKP/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "SmartHome Austria",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "LHLz9MmyK6EFbfpSnLAoIv32S",
+  "permissions": null,
+  "privacyPolicyUrl": "https://service.startsmarthome.de/de/index/legal/data-protection-and-security",
+  "shortDescription": "Mit Amazon Alexa und SmartHome Austria können Sie jetzt bequem per Sprache Ihr Zuhause steuern.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "https://service.startsmarthome.de/de/index/legal/terms-of-use",
+  "vendorId": "M3AISJNF80CM6F",
+  "vendorName": "KELAG-Kärntner Elektrizitäts-Aktiengesellschaft"
+}

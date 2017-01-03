@@ -1,5 +1,5 @@
 # [Pronunciations](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.22799827-aae1-4115-9b48-e2b74e33ee03)
-![1.4 stars](../../images/ic_star_black_18dp_1x.png)![1.4 stars](../../images/ic_star_half_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![1.6 stars](../../images/ic_star_black_18dp_1x.png)![1.6 stars](../../images/ic_star_half_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png)![1.6 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Pronunciations skill, try saying...
 

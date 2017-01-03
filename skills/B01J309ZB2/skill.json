@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01J309ZB2",
-  "averageRating": 5,
+  "averageRating": 4.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "bike finder",
   "name": "Bike Finder",
-  "numberOfReviews": 2,
+  "numberOfReviews": 3,
   "pamsPartnerId": "V4HHWZFNMaQx2cSRHpqOVe6ox",
   "permissions": null,
   "privacyPolicyUrl": "https://www.rsbaskin.com/bikefinder/privacy.html",

@@ -1,15 +1,15 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01M2ZFPA0",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Find out about the next games scheduled for teams in the NBA.\n\nThis skill is not sponsored by or endorsed by the National Basketball Association (NBA). Game information is provided by Stattleship.",
+  "description": "Find out about the next games scheduled for teams in the NBA.\n\nThis skill is not sponsored by or endorsed by the National Basketball Association (NBA).\n\nIf you have any issues or suggestions, please contact us at basketballschedule@systemzwei.com",
   "enablement": null,
   "exampleInteractions": [
+    "Alexa, open Basketball Schedule",
     "Alexa, ask Basketball Schedule for the Golden State Warriors",
-    "Alexa, ask Basketball Schedule for Mavericks games",
     "Alexa, ask Basketball Schedule to give me the next games for Cleveland"
   ],
   "firstReleaseDate": 1477550781.301,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "basketball schedule",
   "name": "Basketball Schedule",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

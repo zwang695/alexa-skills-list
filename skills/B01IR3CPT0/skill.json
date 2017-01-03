@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01IR3CPT0",
-  "averageRating": 4.8,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "cave master",
   "name": "Cave Master",
-  "numberOfReviews": 7,
+  "numberOfReviews": 25,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "",

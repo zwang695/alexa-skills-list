@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MDMVF3Z",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Use Echo to control your WIFIPLUG devices by saying ”Alexa, turn my lamp on\"\n\nWelcome to the WIFIPLUG skill for Amazon Echo. This skill will enable you to ask Alexa to control your connected WIFIPLUG devices.\n\nTo get started, ensure that your WIFIPLUG devices are connected and online.  You’ll then need to enable the WIFIPLUG skill by tapping ‘Enable WIFIPLUG Skill’ at the top of this screen.  Then, you simply provide your WIFIPLUG login details so that Alexa can control your devices for you.\n\nOnce you enable the skill, you will be able to use the devices listed name as the command. Here’s a list of the current commands you can use with Alexa and WIFIPLUG to control your home:\n\nAlexa, turn on Lamp\nAlexa, turn off Lamp\n\nWIFIPLUG uses the name of your device to control it. You can check your device names from your WIFIPLUG app, or from the Smart Home part of the Alexa app.\n\nRequirements:\nWIFIPLUG user account, password, and device.\nWIFIPLUG MINI, POWER, or Home.\n\nThis release is compatible with WIFIPLUG POWER, MINI, and Home (coming soon: see http://www.wifiplug.co.uk/homekit.html for more details).",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, turn on Lamp",
+    "Alexa, turn off Heater",
+    null
+  ],
+  "firstReleaseDate": 1482887948.365,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.d15af75c-310a-480b-b88e-3685360ff9ea",
+  "imageAltText": "WIFIPLUG icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MDMVF3Z/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "WIFIPLUG",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "179ETynnTXs4PZ2TUeolBQPUE",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.wifiplug.co.uk/terms.html",
+  "shortDescription": "Control your devices with WIFIPLUG, the world's smallest app controlled smart plug.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "http://www.wifiplug.co.uk/terms.html",
+  "vendorId": "M3AWFIX6K85SCE",
+  "vendorName": "Karambyte Ltd."
+}

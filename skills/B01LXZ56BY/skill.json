@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "buildinglink.com"
+  ],
+  "asin": "B01LXZ56BY",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "A BuildingLink account is needed before you can use the skill. BuildingLink aware connects you with the amenities of your smart building.\nYou can activate building Link  by saying \"Alexa, open Building link\". Then you can interact with the skill by saying things such as \"Alexa ask Building Link  Tell me about the machines \"\n\"Alexa ask Building Link   Tell me about the gym\"\n\"Alexa ask Building Link   What kind of equipment is at the gym\"\n\"Alexa ask Building Link   What kind of machines are at the gym\"\n\"Alexa ask Building Link   What's at the gym\"\n\"Alexa ask Building Link  How is the gym today\"\n\"Alexa ask Building Link  Is a Treadmill  available\"\n\"Alexa ask Building Link  How many Treadmills are at the gym\" etc.\n\nDisclaimer: This skill may not be suitable for all ages.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open building link",
+    "Alexa, ask building link tell me about the gym",
+    "Alexa, ask building link Is a Treadmill  available"
+  ],
+  "firstReleaseDate": 1480255533.835,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.bb156449-dcbf-4162-a208-c8063d9ffca7",
+  "imageAltText": "BuildingLink icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LXZ56BY/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "building link",
+  "name": "BuildingLink",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "GoLoj4qKu7HyifC5DYlbJgREC",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.buildinglink.com/Public/PrivacyPolicy.aspx",
+  "shortDescription": "BuildingLink Aware.  Making residential buildings intelligent — one smart sensor at a time.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.buildinglink.com/Public/Terms.aspx",
+  "vendorId": "M23FMEE7I7ILUP",
+  "vendorName": "BuildingLink.com"
+}

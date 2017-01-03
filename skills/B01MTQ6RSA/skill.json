@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "strava.com",
+    "s3.amazonaws.com",
+    "www.strava.com"
+  ],
+  "asin": "B01MTQ6RSA",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Keep up with your running activities on Strava. \nAsk Alexa how many miles you ran yesterday or check in on your total monthly or weekly milage. \n\nTo use this skill you must have an Strava account. To sign up for an account go to https://www.strava.com.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask activity tracker how many miles did I run today?",
+    "Alexa, ask activity tracker what is my total milage for this month?",
+    "Alexa, ask activity tracker how long did I run yesterday?"
+  ],
+  "firstReleaseDate": 1481527169.334,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.f69eb30c-15d5-4746-ab40-680cec1e4963",
+  "imageAltText": "Activity Tracker icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MTQ6RSA/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "activity tracker",
+  "name": "Activity Tracker",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "LQkJNMZYbIDnUCf4xSJRExB7b",
+  "permissions": null,
+  "privacyPolicyUrl": "https://s3.amazonaws.com/oostergo.net/privacy.txt",
+  "shortDescription": "Keep up with your running activities on Strava. \nAsk Alexa how many miles you ran yesterday or check in on your total monthly or weekly milage.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M7Z9M3ELMSHGY",
+  "vendorName": "Milo Oostergo"
+}

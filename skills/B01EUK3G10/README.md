@@ -1,5 +1,5 @@
 # [Eric's Integration for Logitech Harmony](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.a348d7dd-7f84-4d1d-9d51-b9c5896b66c0)
-![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 34
+![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 38
 
 To use the Eric's Integration for Logitech Harmony skill, try saying...
 

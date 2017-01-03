@@ -5,7 +5,7 @@
     "auth.netatmo.com"
   ],
   "asin": "B01LZJ8S4R",
-  "averageRating": 3.1,
+  "averageRating": 2.9,
   "canDisable": false,
   "capabilities": null,
   "category": null,
@@ -25,7 +25,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Netatmo Energy",
-  "numberOfReviews": 5,
+  "numberOfReviews": 6,
   "pamsPartnerId": "NHjVyOUL7axWe37ac88vnyQgv",
   "permissions": null,
   "privacyPolicyUrl": "https://www.netatmo.net/site/terms#div_privacy",

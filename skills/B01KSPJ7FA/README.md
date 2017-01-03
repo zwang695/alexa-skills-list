@@ -1,5 +1,5 @@
 # [Wireless Tag](http://alexa.amazon.com/#skills/amzn1.ask.skill.422d2396-b446-4fd5-9c55-0a1fef52949d)
-![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 3
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use this skill, you need to purchase one or more Wireless Sensor Tags and an Ethernet Tag Manager (these are available at http://store.wirelesstag.net), and have created an account using our iOS app (https://itunes.apple.com/us/app/wireless-tag-list/id508973799), Android app (https://play.google.com/store/apps/details?id=com.wirelesstag.android3) or the web interface (https://www.mytaglist.com/). 
 

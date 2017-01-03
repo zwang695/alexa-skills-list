@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "daysfly.com",
+    "fonts.googleapis.com",
+    "code.jquery.com"
+  ],
+  "asin": "B01N01YZGF",
+  "averageRating": 3.5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "The Land has been wounded by the evil power of Beira, the Stone Queen. You have been summoned from our world to enter a mysterious realm that begins under the roots of a magical forest, but extends to caverns, castles, and enchanted lands beyond. Those who do her dark bidding stand to oppose you -- the Goblin King, the Wizard of Ice and Shadow, the Great Spider, the Ancient Lich. It will require all your strength and ingenuity, and some words of tremendous magical power, to find victory in battle and complete your quest. Along the way you will face riddles and puzzles to test your insight and avoid the deadliest of traps. You will locate legendary magical items, like the sword Graywinter and the Cloak of Shadow, and you will join forces with other characters who fight beside you in pursuit of your quest to save the Land.\n\nRealm of Shadows is a fantasy role-playing game. You become an adventurer who is transported to a realm of magic, treasure, dragons, combat, and puzzles to solve a great quest. The more you play, the stronger you become. You will learn new and amazing spells, discover items of incredible power, and become the champion whose coming is foretold in legend. This is a classic role-playing game in the style of the original Bard's Tale, but you won't be tied up with dice rolls or stats. The character you play is yourself (you can name yourself at any time), and you are caught up in a grand adventure from the moment you start playing.\n\nBy registering at https://daysfly.com, you gain the ability to have multiple characters and receive information about your character's progress. Play it on your own, with a group, or let everyone in your household manage their own character. The web site offers tips and suggestions, a complete list of commands, and the ability to upgrade your account to handle even more characters, extend your adventure, and create multiple saved versions of your game at different stages of progress (which might help you to get past a particularly difficult trap or battle). This adventure promises many hours of entertainment for you and your family. And the hero that you become in Shadow Realm can bring their best spells and magical items with them into the sequel adventure.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, launch Shadow Realm",
+    "What can I do",
+    "Alexa, tell Shadow Realm I want to play Gandalf"
+  ],
+  "firstReleaseDate": 1480334724.816,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.1b30a473-a0bc-40dc-b3c1-f619afb14a33",
+  "imageAltText": "Shadow Realm icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N01YZGF/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "shadow realm",
+  "name": "Shadow Realm",
+  "numberOfReviews": 5,
+  "pamsPartnerId": "UNOz2Qa9J4dCnlBWxrZGkhDmo",
+  "permissions": null,
+  "privacyPolicyUrl": "http://daysfly.com/About/Privacy-Policy",
+  "shortDescription": "Realm of Shadows is a fantasy role-playing game. You are an adventurer on a great quest who is transported to a realm of magic, treasure, combat, and puzzles.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1FNE05QE1ZIAT",
+  "vendorName": "DaysFly"
+}

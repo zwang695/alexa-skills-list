@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N54DB6N",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Listen to the weekly Sunday services for Sierra Bible Church in Sonora, California.  This skill allows you to listen to the sermons of Sierra Bible Church pastors and guests for the Sunday morning services.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell Sierra Bible Church podcast to play",
+    "Alexa, tell Sierra Bible Church podcast to play next podcast"
+  ],
+  "firstReleaseDate": 1480496715.202,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.1f4d4d3d-8dce-4e0a-aa4f-703ebe226cd1",
+  "imageAltText": "Sierra Bible Church Podcast icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N54DB6N/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "sierra bible church podcast",
+  "name": "Sierra Bible Church Podcast",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Listen to the weekly Sunday services for Sierra Bible Church in Sonora, California.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MVFKUXDC5ZD0Y",
+  "vendorName": "Derek Maxson"
+}

@@ -3,7 +3,7 @@
     "alexa.bluelink.hyundaiusa.com"
   ],
   "asin": "B01M9H2JCK",
-  "averageRating": 5,
+  "averageRating": 2.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "blue link",
   "name": "Hyundai Blue Link",
-  "numberOfReviews": 1,
+  "numberOfReviews": 60,
   "pamsPartnerId": "7Vd2PSN8kLQskif9L1GFSkGaK",
   "permissions": null,
   "privacyPolicyUrl": "https://www.hyundaiusa.com/bluelink-privacy-policy.aspx",

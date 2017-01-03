@@ -3,9 +3,9 @@
 
 To use the CurrencyGuy skill, try saying...
 
-* *Alexa, ask Currency Guy what is the rate of USD to CNY*
+* *Alexa, ask Currency Guy USD to CNY*
 
-* *Alexa, ask Currency Guy to find me the rate of Australian Dollar to USD*
+* *Alexa, ask Currency Guy Australian Dollar and USD*
 
 * *Alexa, ask Currency Guy to tell me the rate of Euro to Japanese Yen*
 

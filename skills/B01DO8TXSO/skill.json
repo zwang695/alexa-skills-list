@@ -8,8 +8,8 @@
   "description": "Currency Guy can get you the exchange rate between two specified currencies based on today's date.By saying\" What is the rate of US Dollar to Chinese Yuan\", there would be a voice response returned with something like \"Based on 4/1/2016, 1 USD = 6.45 CNY\" and meanwhile a card would be generated in Alexa app in case you want to see the returned result visually.\nPS: Currently not all currencies are listed, more work to be done in the future, hope you like it!!!",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask Currency Guy what is the rate of USD to CNY",
-    "Alexa, ask Currency Guy to find me the rate of Australian Dollar to USD",
+    "Alexa, ask Currency Guy USD to CNY",
+    "Alexa, ask Currency Guy Australian Dollar and USD",
     "Alexa, ask Currency Guy to tell me the rate of Euro to Japanese Yen"
   ],
   "firstReleaseDate": 1459953180.647,

@@ -1,5 +1,5 @@
 # [Eddy Voice Remote](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.194b7d6a-18e3-4c94-b4c9-6d921bd21a6d)
-![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_black_18dp_1x.png)![2.5 stars](../../images/ic_star_half_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png)![2.5 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Eddy Voice Remote skill, try saying...
 
@@ -9,7 +9,7 @@ To use the Eddy Voice Remote skill, try saying...
 
 * *Alexa, tell Voice Remote to Press the Power button on my TV*
 
-Control all your home electronics over InfraRed through the Eddy Voice Remote skill for Amazon Echo. Say "What are my Activities?" To get a list of activities to perform or say "Watch TV" To perform the sequential  button presses defined on the companion website. 
+Control all your home electronics over InfraRed through the Eddy Voice Remote skill for Amazon Alexa. Say "What are my Activities?" To get a list of activities to perform or say "Watch TV" To perform the sequential  button presses defined on the companion website. Control Multiple Controllers by saying the Room name after the action, for instance say "Watch TV in Living Room" to call the activity of "Watch TV."
 <br>
 <br>
 Disclaimer: Eddy Voice Remote may not suitable for all ages.
@@ -22,7 +22,7 @@ What can you say?
 There are 5 core commands you can say: <br>
 1.  What are my Activities? <br>
 2.  Call Activity by name, such as :<br>
-     Watch TV or Increase Volume <br>
+     Turn TV On or Increase Volume <br>
 3.  Press any button on your device, by saying <br>
      Press Volume button on my Soundbar or <br>
      Press Volume button on my Soundbar 5 Times<br>

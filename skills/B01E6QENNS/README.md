@@ -1,5 +1,5 @@
 # [Famous Quotes by Steve Jobs - A Tribute](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.e5319c52-e413-497b-b6e1-737c8c161376)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 3
 
 To use the Famous Quotes by Steve Jobs - A Tribute skill, try saying...
 

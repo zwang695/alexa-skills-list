@@ -1,5 +1,5 @@
 # [Flight Guru](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c19f241c-4cb0-4a89-9505-0393afd399e5)
-![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 8
+![1.2 stars](../../images/ic_star_black_18dp_1x.png)![1.2 stars](../../images/ic_star_half_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png) 17
 
 To use the Flight Guru skill, try saying...
 

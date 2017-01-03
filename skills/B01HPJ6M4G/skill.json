@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01HPJ6M4G",
-  "averageRating": 2.1,
+  "averageRating": 1.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "recycling reminder",
   "name": "Recycling Reminder",
-  "numberOfReviews": 9,
+  "numberOfReviews": 15,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

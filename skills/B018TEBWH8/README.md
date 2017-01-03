@@ -1,5 +1,5 @@
 # [The Rabbi](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.ec9cc97e-8eb3-4583-b8b0-9ef589d58775)
-![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 12
+![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 18
 
 To use the The Rabbi skill, try saying...
 
@@ -9,9 +9,20 @@ To use the The Rabbi skill, try saying...
 
 * *Alexa, ask The Rabbi what's the next holiday?*
 
-Gives you the start and end times for Shabbos by city, the Hebrew (Jewish) date for today, tomorrow, any day this week or next (ie:a week from today), and the Torah portion of this week.
+Gives you the start and end times for Shabbos by city (user definable), the Hebrew (Jewish) date for today, tomorrow, any day this week or next (ie:a week from today), and the Torah portion of this week.
 
-The Rabbi v1.3.0 release notes
+NEW!!! Set your default location!
+
+The Rabbi v1.4.0 release notes
+
+Added ability for users to set/change default location:
+
+ALEXA, ask the Rabbi to set my location to {city}
+ALEXA, ask the Rabbi to set my location...
+ALEXA, ask the Rabbi to change my location...
+ALEXA, ask the Rabbi what's my location...
+
+v1.3.0 release notes
 
 NEW! SEFIRAT HAOMER - The Counting of the Omer
 "Alexa, ask the Rabbi for the Omer" will give you last night's count and display tonight's count on the card in the Alexa app.
@@ -20,8 +31,7 @@ Switched to Chabad.org API for Torah readings and added weekday Holiday readings
 
 Now when you "Ask the Rabbi for the KRIAH" you will get the next Holiday reading and when you "Ask the Rabbi for the Parshah" you will get the Torah and Haftarah readings for the coming Shabbat.
 
-Ver 1.2.0
-Added features:
+Ver 1.2.0 Added features:
 You can now
 	Ask The Rabbi for Shabbos times in 2 weeks (or any future date ie: in 3 weeks or 2 months from now, etc)
 	Ask The Rabbi when is Rosh Chodesh (New Month)

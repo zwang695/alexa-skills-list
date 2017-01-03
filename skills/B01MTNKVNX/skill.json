@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MTNKVNX",
+  "averageRating": 4,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "It's about time!  Here is a collection of fun facts that will leave you bewildered and amazed about time!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, start my time facts.",
+    "Alexa, ask my time facts for a fact."
+  ],
+  "firstReleaseDate": 1479364541.964,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.daf55eba-6260-49c8-acbf-0a6d7ea865fc",
+  "imageAltText": "My Time Facts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MTNKVNX/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "my time facts",
+  "name": "My Time Facts",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "My Time Facts",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MYJTILYLXARLO",
+  "vendorName": "JustinCadburyWong"
+}

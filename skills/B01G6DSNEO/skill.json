@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "**********Update August 22, 2016 *******************\nQuotes from Mark Twain read by a professional voice actor are now available.\n*********************************************************\nThis skill recites Shakespeare quotes and various famous proverbs, spoken by a pleasant male British voice artist. This skill now also recites quotes from Mark Twain spoken by a gentleman with a Southern accent. The skill is a great way to become familiar with, and to start learning and memorizing, such quotes and proverbs.",
+  "description": "**********Update December 26, 2016****************\nAnimal sounds are now available. Listen to a series of your favorite animals sounds.\n\n**********Update August 22, 2016 *******************\nQuotes from Mark Twain read by a professional voice actor are now available.\n*********************************************************\nThis skill recites Shakespeare quotes and various famous proverbs, spoken by a pleasant male British voice artist. This skill now also recites quotes from Mark Twain spoken by a gentleman with a Southern accent. The skill is a great way to become familiar with, and to start learning and memorizing, such quotes and proverbs.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask witlingo for proverbs",
     "Alexa, ask witlingo for twain",
-    "Alexa, open witlingo"
+    "Alexa, ask witlingo for animal sounds"
   ],
   "firstReleaseDate": 1464853112.946,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "witlingo",
   "name": "Witlingo",
-  "numberOfReviews": 4,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

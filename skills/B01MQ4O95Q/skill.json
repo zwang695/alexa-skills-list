@@ -1,0 +1,39 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "lightify-api.org",
+    "eu.lightify-api.org"
+  ],
+  "asin": "B01MQ4O95Q",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "Start making your home more intelligent and use LIGHTIFY as a new dimension of light. Smart connected LED lamps or luminaires can be controlled through your smartphone or tablet using the LIGHTIFY app. Now you can use Alexa to control your LIGHTIFY smart lamps, luminaires, flexible LED strips for indoors and Gardenspots for outdoors.\n<br>\nIndividually or grouped together, fully automated or manually controlled, just the way you need it. Discover completely new lighting possibilities and stay connected wherever you go. Customize your home according to your moods and wishes. Transform an evening with friends into an unforgettable experience for everyone or make use of your lights to calm down after an exhausting working day.\n<br>\n<b>With the LIGHTIFY skill and Alexa, you can now interact with your LIGHTIFY lights by voice.</b>\n<br>\nSetup\n\nTo get started, select the <i>‘Enable Skill’</i> button in the Alexa App to link your LIGHTIFY account and discover your device(s). More information: http://amzn.to/291lR7u\n<br>\n\nGiving Names\n\nWhen using the skill, you need to specify by name which device to use. There are two ways to define this/these names:\n\t- Use the name(s) you set up already – these are shown in the LIGHTIFY app and can be changed, or\n\t- Create an Alexa group, like Bedroom or Downstairs, and add the device to the group. More information: http://amzn.to/2965dCE \n<br>\n\nGive it a try!\n\nOnce you know the name or group of your device(s), you can say the following:\n\t- If you have switches or non-dimmable lights, you can turn them on/off, for example: <i>“Alexa, turn on Bedroom”.</i>\n\t- If you have dimmable lights, you can change the brightness, for example: <i>“Alexa, set Downstairs to 60 percent\"</i>, or <i>\"Alexa, brighten Living Room\".</i>\n<br>\nIf you have any questions, please also visit the LIGHTIFY FAQ: http://www.osram.com/osram_com/tools-and-services/tools/lightify---smart-connected-light/lightify-for-home---what-is-light-to-you/faqs/index.jsp",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1481755758.58,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.2fad1853-1fc7-40dc-a99c-b8a5ccaa5657",
+  "imageAltText": "LIGHTIFY icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MQ4O95Q/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "LIGHTIFY",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "InQLZtBP4wKxXWbdpfqvUwbeC",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.osram.com/osram_com/landingpage/osram-lightify-privacy-policy/index.jsp?mkturl=lightify-privacy-policy",
+  "shortDescription": "Voice Control LIGHTIFY in your home and control your lighting through Amazon Echo and the Alexa Skills Kit",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "http://www.osram.com/osram_com/landingpage/osram-lightify-terms-of-use/index.jsp?mkturl=lightify-terms-of-use",
+  "vendorId": "M3QGKXZ0DD3YVO",
+  "vendorName": "OSRAM LIGHTIFY"
+}

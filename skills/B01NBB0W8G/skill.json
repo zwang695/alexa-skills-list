@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01NBB0W8G",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "With the Honeywell skill and Alexa, you can now interact with your Honeywell Lyric T6 Thermostat with your voice.  \n\nTo get started, select the ‘Enable Skill’ button in the Alexa App to link your Honeywell account and discover your thermostat(s). Find more information about connecting Smart Home devices at http://amzn.to/291lR7u\n\nWhen using the skill, you need to specify by name which thermostat/sensor to use. There are two ways to define this/these names:\n- Use the name(s) you set up already – these are shown and can be changed in the Lyric app, or\n- Create an Alexa group, like “Bedroom” or “Downstairs”, and add the thermostat and/or one or more sensors to the group. More information at http://amzn.to/2965dCE\n\nOnce you know the name or group of your thermostat, you can say the following: “Alexa, lower Bedroom by 3 degrees”, or “Alexa, set ‘my home’ temperature to 21 degrees”.\nA list of example commands includes:\n- “Alexa, set [group/zone or thermostat name] to X degrees”\n- “Alexa, raise [group/zone or thermostat name] by X degrees”\n- “Alexa, lower [group/zone or thermostat name] by X degrees”",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, set Living Room to 20 degrees",
+    null,
+    null
+  ],
+  "firstReleaseDate": 1481860194.4,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.3be844fa-242a-404b-8c76-9094b875dcb1",
+  "imageAltText": "Honeywell Lyric icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01NBB0W8G/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Honeywell Lyric",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "qUHEE8nbsUZTMdvPsU2BOM91x",
+  "permissions": null,
+  "privacyPolicyUrl": "http://yourhome.honeywell.com/privacy-statement",
+  "shortDescription": "Honeywell Lyric T6",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "http://yourhome.honeywell.com/terms-and-conditions",
+  "vendorId": "M13JMZ24QSCF83",
+  "vendorName": "Honeywell"
+}

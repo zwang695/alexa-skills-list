@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01C3BJBJE",
-  "averageRating": 3.4,
+  "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "tide guide",
   "name": "TideGuide",
-  "numberOfReviews": 20,
+  "numberOfReviews": 28,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -3,7 +3,7 @@
 
 To use the Fruit Stand skill, try saying...
 
-* *Alexa, ask Fruit Stand, how do I store apples?*
+* *Alexa, ask Fruit Stand, how do I store parsley?*
 
 * *Alexa, ask Fruit Stand, how do I store these bananas?*
 

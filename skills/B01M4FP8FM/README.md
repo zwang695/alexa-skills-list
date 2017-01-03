@@ -1,15 +1,17 @@
 # [Boy Friend](http://alexa.amazon.com/#skills/amzn1.ask.skill.9e325a96-1c7f-4e68-ad07-5ee8c79ec799)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the Boy Friend skill, try saying...
 
-* *Alexa ask boy friend*
+* *Alexa open boy friend*
 
 * *hello*
 
 * *tell me something*
 
-Boy friend says humorous and romantic random responses
+Boy Friend is always listening and has romantic words for you.
+He talks to you, sings and says poetry.
+He has many romantic words to say to you.
 
 ***
 

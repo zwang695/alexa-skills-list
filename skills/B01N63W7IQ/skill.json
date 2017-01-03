@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N63W7IQ",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Ever wondered how many drones are out there in the sky?\nEver asked yourself who built the first electric car?\nWhat in the world is virtual reality ?\nWhen can I buy a driverless car?\nWhat are drones?\nIf you have asked yourself these questions - this skill would be a good way to learn more about the facts in these newly budding hobbies/technologies that are going to change the world!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask my library for a fact"
+  ],
+  "firstReleaseDate": 1483004963.081,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.57b6be46-d79e-4a8d-8dc5-f7c871561d64",
+  "imageAltText": "My Library icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N63W7IQ/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "my library",
+  "name": "My Library",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "A library of facts about electric cars, drones, virtual reality, augmented reality, driverless cars updated every week.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2RM3OHL6EGPGE",
+  "vendorName": "Srikanth Deshpande"
+}

@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "app.qrspno.com"
+  ],
+  "asin": "B01N02HVK7",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "The QRS piano skill allows you to control your QRS Piano from any location once paired to your alexa app.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, tell QRS to play",
+    "Alexa, open QRS",
+    "Alexa, ask QRS to play my favorite's playlist"
+  ],
+  "firstReleaseDate": 1479285362.399,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.ebe2b8a3-0623-420c-b312-4512ead8743e",
+  "imageAltText": "Q.R.S. Skill icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N02HVK7/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "q. r. s.",
+  "name": "Q.R.S. Skill",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "VFee68GWEAP7WZjnbWV7eHBTU",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.qrsmusic.com/privacy.asp",
+  "shortDescription": "QRS Piano Skill",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2H8QYIS47Q7TY",
+  "vendorName": "QRS Music"
+}

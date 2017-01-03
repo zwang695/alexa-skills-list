@@ -9,7 +9,7 @@ To use the Who's First? skill, try saying...
 
 * *Alexa, run who's first*
 
-Helps you decide who gets the first turn when you are starting a card or board game.
+Who's First helps you decide who gets the first turn when you are starting a card or board game.
 
 ***
 

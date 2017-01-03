@@ -3,7 +3,7 @@
     "fitbit.com"
   ],
   "asin": "B01M2WIM6X",
-  "averageRating": 1,
+  "averageRating": 1.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -23,7 +23,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "stepper exercise",
   "name": "Stepper for Fitbit",
-  "numberOfReviews": 1,
+  "numberOfReviews": 4,
   "pamsPartnerId": "voCdva5THH7DeGdg1ATLJm3J2",
   "permissions": null,
   "privacyPolicyUrl": "http://s3.amazonaws.com/smooth_test/privacy.txt",

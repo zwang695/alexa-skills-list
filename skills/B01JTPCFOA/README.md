@@ -1,5 +1,5 @@
 # [I Choose You - An Unofficial Pokemon Guessing Game](http://alexa.amazon.com/#skills/amzn1.ask.skill.97ea3a1b-6ae1-440f-a5ca-a69e8dd6b8ac)
-![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![1 stars](../../images/ic_star_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png)![1 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the I Choose You - An Unofficial Pokemon Guessing Game skill, try saying...
 

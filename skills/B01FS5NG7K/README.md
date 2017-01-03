@@ -3,11 +3,11 @@
 
 To use the Fortune Cookie skill, try saying...
 
-* *Alexa, open Fortune Cookie.*
+* *Alexa, start fortune cookie.*
 
-* *Alexa, ask Fortune Cookie to give me a fortune.*
+* *Alexa, open fortune cookie.*
 
-* *Alexa, ask Fortune Cookie to tell me my fortune.*
+* *Alexa, ask fortune cookie for a fortune.*
 
 We are regularly adding new fortunes and sayings to this skill. So check back often for predictions impacting your immediate future.
 

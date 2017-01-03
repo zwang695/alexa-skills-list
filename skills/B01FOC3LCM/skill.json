@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FOC3LCM",
-  "averageRating": 3.9,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "inspire me",
   "name": "Inspire Me",
-  "numberOfReviews": 24,
+  "numberOfReviews": 76,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

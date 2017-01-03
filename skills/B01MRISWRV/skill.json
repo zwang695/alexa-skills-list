@@ -1,0 +1,39 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "bestrecipes.unileversolutions.com",
+    "unilever.com",
+    "unileverprivacypolicy.com",
+    "unilever.skill-account-linking.com"
+  ],
+  "asin": "B01MRISWRV",
+  "averageRating": 3.6,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Hungry? Not sure what to make with the ingredients you have on hand? We can help! Just tell us what you have to work with, and we'll share 3 delicious recipes that match your ingredients.\nUse the Best Recipes skill to:\n- get up to 3 recipes that match your 3 chosen ingredients.\n- narrow down recipe options by dish, like breakfast, lunch or dinner.\n- browse recipes and descriptions to choose the one you like the most.\n- receive an email with a link to your selected recipe and ingredient list.\nEnable the Best Recipes skill, brought to you by Hellmann's and Best Foods, and we'll share the best of our perfected recipes for your ingredients!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open best recipes.",
+    "Alexa, tell Best Recipes I am hungry.",
+    "Alexa, ask Best Recipes what's for dinner."
+  ],
+  "firstReleaseDate": 1481080772.491,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.43d2d75f-523e-4136-9e5b-d48aa848de09",
+  "imageAltText": "Best Recipes icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MRISWRV/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "best recipes",
+  "name": "Best Recipes",
+  "numberOfReviews": 9,
+  "pamsPartnerId": "6JEvnR77scxZkdwZY3vzokjUp",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.unileverprivacypolicy.com/en_us/policy.aspx",
+  "shortDescription": "Don't just stare at the fridge. When you know you're hungry, but you don't know what to make, just pick 3 ingredients. The Best Recipes skill will do the rest.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M33YZE1FWNO4Y3",
+  "vendorName": "Unilever"
+}

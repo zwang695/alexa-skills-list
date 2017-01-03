@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N08O7RU",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skill will inform you of facts related to the baseball. It informs you of past achievements of teams, streaks of winning and losing, and various tidbits. Just ask Alexa to tell you a fact.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Baseball Facts",
+    "Alexa, ask Baseball Facts to tell me a fact."
+  ],
+  "firstReleaseDate": 1479792912.313,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.b4a651d0-60d7-4b29-afce-81ac660d7f0b",
+  "imageAltText": "Baseball Facts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N08O7RU/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "baseball facts",
+  "name": "Baseball Facts",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "A skill that gives you interesting facts related to baseball.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M27M2VFH2XLD5L",
+  "vendorName": "Alex Hoekstra"
+}

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01GQOYNVK",
-  "averageRating": 3.3,
+  "averageRating": 3.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "woof woof",
   "name": "Woof!",
-  "numberOfReviews": 7,
+  "numberOfReviews": 27,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

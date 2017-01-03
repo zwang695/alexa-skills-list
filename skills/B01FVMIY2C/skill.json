@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01FVMIY2C",
-  "averageRating": 0,
+  "averageRating": 2.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "have i been poned",
   "name": "Have I been pwned? for Alexa",
-  "numberOfReviews": 0,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://s3.amazonaws.com/patrickmollohan/Privacy+Policies/Have+I+been+pwned+for+Alexa+Privacy+Policy.txt",

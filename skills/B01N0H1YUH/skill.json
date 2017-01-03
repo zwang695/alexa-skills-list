@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "alexa.orvibo.com"
+  ],
+  "asin": "B01N0H1YUH",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "The HomeMate Connect skill allows you to control your home-automation controller from Universal Devices.This enables you to control your devices,light,switch,smart socket from your echo.For example, you can turn on or off the device at some point in the future.You can also turn on or turn off the device after a few minutes.Of course, you can immediately open or close your device.\n\nTo use this skill,you need to have a HomeMate account through the HomeMate official website(url:http://www.orvibo.com/en/index.html),or HomeMate app on iOS or Android devices,and install the HomeMate app on your smart phone,and you have purchased HomeMate's smart socket product,such as Smart Socket S31US.You need to have an Amazon account through Amazon App Store,or Amazon official website,and install the Amazon's Alexa app from the Amazon App Store,You have purchased Amazon's echo.\n\nWhen you enable this skill,you will be prompted to link your echo to your HomeMate account.You will have to provide your HomeMate email or username and password.Once you log in and authorization successfully,the Alexa Echo can control your device.\n\nHere's the complete capability list:\n\nTurn on/off the device name.\n\nTurn on/off the device name at some time today.\n\nTurn on/off the device name at some time for tomorrow.\n\nTurn on/off the device name at some time for some day of the week.\n\nTurn on/off the device name after a few minutes or hours today.\n\nNote:the 'device name' is the name of the device in the device list of your HomeMate App.You need to add all the devices to your HomeMate app,and then each device has a separate name,each device name can have one to three English words,cannot contain numbers,do not contain special characters,do not use English numbers.For example, if your kitchen has a number of smart plug, you can name them as smoke machine plug, kitchen Liquidizer plug, Microwave Oven plug,etc.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa,ask home mate to turn on the light at seven twenty",
+    "Alexa,ask home mate to turn off the light",
+    "Alexa,ask home mate to turn on the light after ten minutes"
+  ],
+  "firstReleaseDate": 1480914317.712,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.a26fcb9e-0e86-4c20-a507-5138d802926c",
+  "imageAltText": "HomeMate icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N0H1YUH/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "home mate",
+  "name": "HomeMate",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "KAaWVl4IyLc2yKR2yYIWX2CAg",
+  "permissions": null,
+  "privacyPolicyUrl": "http://homemate.orvibo.com/agreement_en.html",
+  "shortDescription": "Use HomeMate to control your devices through the Amazon's Echo.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MYJRQA7A0WPJ9",
+  "vendorName": "深圳市欧瑞博电子有限公司"
+}

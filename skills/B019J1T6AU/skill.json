@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019J1T6AU",
-  "averageRating": 2.8,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "horoscope",
   "name": "ELLE Horoscopes by The Astro Twins",
-  "numberOfReviews": 39,
+  "numberOfReviews": 40,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://www.elle.com/about/privacy-policy",

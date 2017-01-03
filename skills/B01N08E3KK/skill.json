@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N08E3KK",
+  "averageRating": 2.5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This is an unofficial fan-made skill that returns a random quote from the hit Netflix series, Peaky Blinders.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Pokey Blinders to give me a quote"
+  ],
+  "firstReleaseDate": 1480169114.946,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.3933363d-4e34-4f1c-9a38-6551a4cbb3a1",
+  "imageAltText": "Unofficial Peaky Blinders icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N08E3KK/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "pokey blinders",
+  "name": "Unofficial Peaky Blinders",
+  "numberOfReviews": 3,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Gives quotes from the Peaky Blinders (Unofficial)",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MA6VIJ2QY7YMO",
+  "vendorName": "Andre"
+}

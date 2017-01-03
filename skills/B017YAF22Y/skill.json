@@ -1,11 +1,13 @@
 {
-  "accountLinkingWhitelistedDomains": [],
+  "accountLinkingWhitelistedDomains": [
+    "askmybuddy.net"
+  ],
   "asin": "B017YAF22Y",
-  "averageRating": 4.5,
+  "averageRating": 4.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "If you have fallen, or need help, Ask My Buddy is designed to let you immediately alert friends and family that you have an urgent need.  Simply say, 'Alexa, Ask My Buddy to alert everyone', and Ask My Buddy will send an alert to everyone on your list, notifying them to check on you right away.  Alerts will be sent by text message / SMS, an email, and even a voice telephone call.  \n\nAdding friends and family to your contacts is easy.  Once you link Alexa with the Ask My Buddy skill, select to Register, then add the names and information for those you would like contacted in the event of an emergency.  That's it!  Ask My Buddy is there for you.",
+  "description": "Ask My Buddy  Personal Alert ⨁ Network\nAll of us are alone sometimes and we can't always reach our phones or press a button to get assistance. This is why everyone needs Ask My Buddy cause you can't predict when you'll need help.\n\nIf you have fallen, or need help, Ask My Buddy lets you immediately alert someone in your Personal Alert Network that you need them to check on you.  You may alert just 1 contact or all of your friends or family with just one command.  Simply say, 'Alexa, Ask My Buddy to alert YourContact' or 'Alexa, Ask My Buddy to everyone', and Ask My Buddy will immediately send an alert, notifying them to check on you right away.  Alerts will be sent by text message / SMS, an email, and even a voice telephone call.  Ask My Buddy is not a substitute for 911, but rather an additional tool offering the security of knowing help is just a shout away.\n\nIf you need any help please send email to support@askmybuddy.net (please be sure to check your email spam folder)\nFor hands on demonstrations and how-to videos, visit us at https://www.youtube.com/AskMyBuddy \n\nThere are 2 parts to setting up Ask My Buddy.  Enable and Link Accounts, here in the Alexa companion application. Add/Edit  Contacts at the AskMyBuddy.net website.\n\nEnable Ask My Buddy:\n\t1. Click on Enable Skill button on this page\n\nLink Alexa and Ask My Buddy:\n\t2. Then tap on the button that says Link Account (will be below a button that says Disable)\n        (if on a desktop and don't see the login, check here: https://www.askmybuddy.net/help.php#h.qejfgul34bhk_New2)\n\t3. The Ask My Buddy Login page will display\n\n   \tIf you have not created an Ask My Buddy account yet,\n     \t    a. Scroll down a little and press the button that says Register.\n   \t    b. Enter your information and then press the Register button at the bottom.\n \t    c. After you Register, be sure to check your email for a Welcome letter from us.  If you do not see an email from us, please check your spam folder.\n \t    \n    If you already have an account with Ask My Buddy or just Registered,\n\t7. Enter your email and password\n\t8. Press Login\n\t9. A screen should display saying 'Account linking successful'\nYou may now exit the Alexa companion application and go to www.AskMyBuddy.net to add your Contacts.\n \nAdd Contacts\n\tIn your internet browser, go to www.askmybuddy.net,\n\tClick on the Login menu item (if you are on a mobile device, tap on the 3 lines in the upper left corner).\n\tEnter the login information that you used when you registered (email and password) then press Login button.\n\tOnce logged in you will be at the Settings page.\n\tEnter any additional information, then press Save Changes\n\tSelect menu item Contacts from the menu at the top (mobile device, tap the 3 lines in the upper left corner)\n\tFill in each field for a contact then click the Save Changes button at the bottom. Always press Save Changes after each new contact is entered.  If there are any errors you will see them in the blue title bar area.\n \nOnce complete you are ready to use Ask My Buddy.\n\tTalk to your Alexa device and say, 'Alexa, Ask My Buddy to Alert Bob' (instead of Bob use the first name of the contact you added). Alexa will alert that person and let you know that she did.\n\nTo alert all of your contacts at once say:\n\tAlexa Ask My Buddy to Alert All\n\tAlexa Ask My Buddy to Alert Everyone\n\tAlexa Ask My Buddy to Alert Everybody\n\tAlexa Ask My Buddy to Alert My Family\n\tAlexa Ask My Buddy to Send Help\n\nTo alert only one contact say:\n\tAlexa Ask My Buddy to Alert yourContactFirstName\n \nAsk My Buddy is a free service that leverages the Alexa Voice Platform to connect a user to their Personal Alert Network using only their voice.  \n\nAsk My Buddy is not a substitute for 911, but rather an additional tool offering the security of knowing help is just a shout away. 'Alexa, Ask My Buddy to Alert Everyone'\n\nLook for the monthly newsletter to learn about new names to alert - to help you and your Personal Alert Network stay in practice.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask My Buddy to help me get started",
@@ -21,11 +23,11 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my buddy",
   "name": "Ask My Buddy",
-  "numberOfReviews": 131,
+  "numberOfReviews": 337,
   "pamsPartnerId": "t4SV54Wu6me9EmYLE3Wabrgpf",
   "permissions": null,
   "privacyPolicyUrl": "http://www.askmybuddy.net/privacy.html",
-  "shortDescription": "Ask My Buddy provides an easy and immediate way to send a text message, Voice call, and an email alert message to any or all of your contacts.",
+  "shortDescription": "You can't predict when you'll need help, use Ask My Buddy to send a 'check on me' text message, voice call, and an email to any or all of your contacts",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": "http://www.askmybuddy.net/tos.html",

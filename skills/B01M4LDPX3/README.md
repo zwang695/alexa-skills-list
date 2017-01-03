@@ -1,5 +1,5 @@
 # [Harmony — Optimized for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.c5f32b0b-92c4-473a-b0ad-3a2e83d777bd)
-![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 394
+![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 564
 
 Use Amazon Alexa with your Logitech Harmony hub-based remote to start and stop Harmony Activities. Use your voice to jump to your favorite TV station or directly into a Roku channel. For example, say "Alexa, turn on the TV" to power on your TV, AV receiver and cable box and set them all to the right inputs. You can also set up friendly names, allowing you to say "Alexa, turn on the Xbox" to trigger your Harmony Play Game Activity. This skill currently supports one Harmony hub and doesn't yet allow for adjusting volume or play/pause.
 

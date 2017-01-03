@@ -1,5 +1,5 @@
 # [Witlingo](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.2628c7d2-d5f8-4464-9c5b-dc623e63ae98)
-![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 4
+![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_black_18dp_1x.png)![4.8 stars](../../images/ic_star_half_black_18dp_1x.png) 5
 
 To use the Witlingo skill, try saying...
 
@@ -7,7 +7,10 @@ To use the Witlingo skill, try saying...
 
 * *Alexa, ask witlingo for twain*
 
-* *Alexa, open witlingo*
+* *Alexa, ask witlingo for animal sounds*
+
+**********Update December 26, 2016****************
+Animal sounds are now available. Listen to a series of your favorite animals sounds.
 
 **********Update August 22, 2016 *******************
 Quotes from Mark Twain read by a professional voice actor are now available.

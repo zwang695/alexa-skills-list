@@ -1,5 +1,5 @@
 # [Miniature Schnauzer Facts](http://alexa.amazon.com/#skills/amzn1.ask.skill.ca3b8b39-18ad-45ef-b1eb-9793ddd1b52b)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 2
+![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the Miniature Schnauzer Facts skill, try saying...
 

@@ -1,5 +1,5 @@
 # [Cleaning Buddy](http://alexa.amazon.com/#skills/amzn1.ask.skill.42292a2a-8a1f-435e-ab49-9fb12e307201)
-![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_black_18dp_1x.png)![3.7 stars](../../images/ic_star_half_black_18dp_1x.png)![3.7 stars](../../images/ic_star_border_black_18dp_1x.png) 7
+![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 20
 
 To use the Cleaning Buddy skill, try saying...
 
@@ -12,6 +12,9 @@ To use the Cleaning Buddy skill, try saying...
 Fully clean your home with step-by-by step cleaning tasks given to you by Alexa. There are 4 cleaning modes to choose from: daily, weekly, monthly, and seasonally.  Alexa will motivate you with uplifting music when you complete a cleaning mode.  Take the guesswork out of cleaning, and let Alexa be your cleaning buddy.
 
 You can now compete against other players! See update information.
+
+*Update 2*
+-Fixed expired cleaning sessions not restarting.
 
 *Update 1*
 -Added a points system. Points are gained through completing cleaning tasks. Points are used to add new songs and to earn cleaning facts and tips.

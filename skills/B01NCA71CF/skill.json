@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01NCA71CF",
+  "averageRating": 4.5,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "With our new Alexa integration, you can now use voice to control the light(s) on your Kuna Powered security device(s).\n\nTo get started, select the ‘Enable Skill’ button in the Alexa App to link your Kuna account and discover your device(s). Once enabled, you can tell Alexa to turn your light(s) on and off with voice commands.\n\nWhen using the skill, you’ll need to specify by name which device to use. For example, if you named one of your devices “Smart Security Light”, you can say, “Alexa, turn off my Smart Security Light.” There are two ways to define these name(s): Use the name(s) you set up already – these are shown in the Kuna app device settings and can be changed at anytime. Or you can create groups in the Alexa app, like “Backyard Lights”, to control multiple devices (even devices that are not Kuna Powered) at the same time.\n\nIf you add more devices from the Kuna App, you can rediscover them with Alexa by asking it to “Discover my devices”.\n\nFor more information, please visit our FAQ at: help.getkuna.com.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1479861425.901,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.7847d8fa-0073-4a40-b07f-34b8a475bcac",
+  "imageAltText": "Kuna icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01NCA71CF/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Kuna",
+  "numberOfReviews": 8,
+  "pamsPartnerId": "62rL2uLNdzGH7utcGjNFISGDm",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.getkuna.com/privacy",
+  "shortDescription": "Alexa Can Now Control Your Kuna Powered Smart Light(s)",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3JVDMRDXNFSA1",
+  "vendorName": "Kuna"
+}

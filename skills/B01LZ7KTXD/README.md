@@ -1,5 +1,5 @@
 # [Joule: Sous Vide by ChefSteps](http://alexa.amazon.com/#skills/amzn1.ask.skill.2b5fe3c7-618e-48b0-a67c-98a689eedb5b)
-![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_black_18dp_1x.png)![4.2 stars](../../images/ic_star_half_black_18dp_1x.png) 9
+![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 13
 
 To use the Joule: Sous Vide by ChefSteps skill, try saying...
 

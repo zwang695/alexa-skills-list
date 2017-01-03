@@ -11,10 +11,10 @@ To use the Beer Bot skill, try saying...
 
 Do you need an assistant to help you with what beers to try out?  The Beer Bot is a helper that performs research for you on what types of beers are available as well as what microbreweries serve it up.  With data from more than one thousand microbreweries from across the United States, the Beer Bot application can be your own personal assistant.
 
+- Do you already have a favorite microbrewery? Then just say "What's on tap" and the name of the microbrewery, and the response will include all of the different beers currently available.  There are five thousand microbreweries to choose from, so 
 - Say "Find me a beer". This provides a selector guide of more than 100 beers. The skill will drill down into beer categories and styles, providing details to wet your appetite!
-- Say "List for me the microbreweries in Chicago" or "List for me the microbreweries in Portland". There are more than 50 different locations to choose from, covering more than 1000 microbreweries.
-- After listening to the microbreweries in a location, say "More details on Legend Brewery" or any other location on the list.  This will list all of the beers that are currently known for that microbrewery.
-- If you say "List for me locations", it will give you a list of all the cities that we have collected microbrewery detail on.  As of this release, it's more than 50 cities in the United States.
+- Say "List for me the microbreweries in Chicago" or "List for me the microbreweries in Portland". There are microbrewery listings in all fifty states, so plenty of choices.
+- After listening to the microbreweries in a location, say "More details on " and the brewery name.  This will list all of the beers that are currently known for that microbrewery.
 
 Disclaimer: the skill may not be suitable for all ages.
 

@@ -1,5 +1,5 @@
 # [Wemo](http://alexa.amazon.com/#skills/amzn1.ask.skill.e0c3be4f-6a06-4ffe-9344-7ea6979f62b7)
-![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_black_18dp_1x.png)![3.8 stars](../../images/ic_star_half_black_18dp_1x.png)![3.8 stars](../../images/ic_star_border_black_18dp_1x.png) 33
+![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 121
 
 Look, ma—no app! Control your Wemo home automation switches with your voice using Amazon Alexa and this Alexa skill.  The skill will work with Wemo Switch, Wemo Insight Switch, and Wemo Light Switch, enabling ON/OFF voice commands from your Alexa-enabled devices.
 

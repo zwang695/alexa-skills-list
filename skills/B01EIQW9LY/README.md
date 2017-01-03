@@ -1,5 +1,5 @@
 # [Nest](http://alexa.amazon.com/#skills/amzn1.ask.skill.0119b1f9-a8df-47f4-8f39-d2f054e3a457)
-![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_black_18dp_1x.png)![2.6 stars](../../images/ic_star_half_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png)![2.6 stars](../../images/ic_star_border_black_18dp_1x.png) 270
+![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 416
 
 Amazon Alexa and the Nest Learning Thermostat work together to help you set the perfect temperature - without having to lift a finger.
  

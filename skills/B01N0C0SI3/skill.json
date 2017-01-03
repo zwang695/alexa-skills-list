@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01N0C0SI3",
-  "averageRating": 5,
+  "averageRating": 4.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Your health coaching partner to improve your quality of life.",
+  "description": "Your health coaching partner to improve your quality of life.  Use your Echo to improve your well-being.  Hundreds of health and wellness tips and lifestyle improvement suggestions at your command!",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open My Health Coach"
@@ -19,7 +19,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my health coach",
   "name": "My Health Coach",
-  "numberOfReviews": 1,
+  "numberOfReviews": 3,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

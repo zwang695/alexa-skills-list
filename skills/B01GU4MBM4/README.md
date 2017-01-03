@@ -1,5 +1,5 @@
 # [Big Sky](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.06a72621-54b9-4767-a2e9-db3837fe9aae)
-![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 111
+![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 163
 
 To use the Big Sky skill, try saying...
 
@@ -22,8 +22,6 @@ Big Sky gives you quick access to weather information you need the most.
 
 WHAT'S NEW?
 -- You can now get wind and humidity information for any hour in the next 24 hours!
-
--- Stability Fix. Crash under heavy loads fixed. Sorry for the inconvenience! Try it/Review it again if you experienced trouble in the past!
 
 "Alexa, ask Big Sky..."
 

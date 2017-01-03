@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01MFXAP9O",
-  "averageRating": 0,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "smart engine",
   "name": "SmartEngine",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "dqYKeDgej4pdgWNxjxJvZMVzG",
   "permissions": null,
   "privacyPolicyUrl": "https://smartcloud.wtec.ag/alexa/policy.php",

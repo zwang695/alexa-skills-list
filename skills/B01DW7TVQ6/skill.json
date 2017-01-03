@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01DW7TVQ6",
-  "averageRating": 3.7,
+  "averageRating": 3.4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "in control",
   "name": "InControlHA",
-  "numberOfReviews": 3,
+  "numberOfReviews": 5,
   "pamsPartnerId": "Ykx6udlEfCD7sqQgAyexKIErT",
   "permissions": null,
   "privacyPolicyUrl": "http://www.incontrolha.com/Home/Privacy",

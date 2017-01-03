@@ -1,0 +1,39 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "www.cameragw.com",
+    "cameragw.com"
+  ],
+  "asin": "B01M2ZATT8",
+  "averageRating": 4,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "CameraGW is an Alexa Skill for connecting Smart Home Z-wave Camera with Amazon Smart Home Skill.\nLogin and enable CameraGW will allow your Z-Wave Camera to connect with Alexa.\nWith the CameraGW Smart Home Skill, if you have any connected lights, switches or other z-wave devices attached to your Smart Home Z-Wave Camera, you can activate them simply by saying \"Alexa, turn on the kitchen light\", Alexa and Smart Home Z-Wave Camera will then make it happen. \n\nTry saying...\n\"Alexa, turn on the bathroom light.\"\n\"Alexa, set the curtain to 50%\"\n\"Alexa, dim the living room light to 20%.\"",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1480629930.942,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.7a1ff98a-149d-4ac1-8c53-a107d2796352",
+  "imageAltText": "CameraGW icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M2ZATT8/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "CameraGW",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "8icPiwBu4MVcrCAMxUSUvAi1g",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.cameragw.com/pricacy/privacy.html",
+  "shortDescription": "CameraGW is an Alexa Skill for connecting Smart Home Z-wave Camera with Amazon Smart Home Skill.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1A5N7Q91FWX3N",
+  "vendorName": "Steven"
+}

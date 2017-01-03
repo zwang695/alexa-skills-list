@@ -1,5 +1,5 @@
 # [Scotch Whisky Quiz by Inside the Cask](http://alexa.amazon.com/#skills/amzn1.ask.skill.012b54ec-27eb-419c-a4a8-e71d1ba7aebf)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Scotch Whisky Quiz by Inside the Cask skill, try saying...
 

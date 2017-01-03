@@ -1,5 +1,5 @@
 # [Breathe](http://alexa.amazon.com/#skills/amzn1.ask.skill.5d4050c4-384c-41c2-8697-844fbc50dfd4)
-![1.2 stars](../../images/ic_star_black_18dp_1x.png)![1.2 stars](../../images/ic_star_half_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png)![1.2 stars](../../images/ic_star_border_black_18dp_1x.png) 6
+![1.8 stars](../../images/ic_star_black_18dp_1x.png)![1.8 stars](../../images/ic_star_half_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png)![1.8 stars](../../images/ic_star_border_black_18dp_1x.png) 7
 
 To use the Breathe skill, try saying...
 

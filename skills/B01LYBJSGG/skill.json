@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01LYBJSGG",
-  "averageRating": 3.7,
+  "averageRating": 2.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Fully clean your home with step-by-by step cleaning tasks given to you by Alexa. There are 4 cleaning modes to choose from: daily, weekly, monthly, and seasonally.  Alexa will motivate you with uplifting music when you complete a cleaning mode.  Take the guesswork out of cleaning, and let Alexa be your cleaning buddy.\n\nYou can now compete against other players! See update information.\n\n*Update 1*\n-Added a points system. Points are gained through completing cleaning tasks. Points are used to add new songs and to earn cleaning facts and tips.\n-Play against other users and find out what your rank is when you level up.\n-Cleaning is done on schedule according to the timezone of the user. For example, a user can only complete the daily clean once per day, so the points system is fair and balanced.\n\nCleaning tasks were inspired by Rachel Hoffman's awesome book: https://www.goodreads.com/book/show/29939402-unf-ck-your-habitat\n\nSpecial thanks to sound contributors: http://www.bensound.com\n\nDisclaimer: This skill may not be suitable for all ages. This skill is for entertainment purposes only.  It is recommended that you speak with a medical doctor before performing any strenuous physical activities.",
+  "description": "Fully clean your home with step-by-by step cleaning tasks given to you by Alexa. There are 4 cleaning modes to choose from: daily, weekly, monthly, and seasonally.  Alexa will motivate you with uplifting music when you complete a cleaning mode.  Take the guesswork out of cleaning, and let Alexa be your cleaning buddy.\n\nYou can now compete against other players! See update information.\n\n*Update 2*\n-Fixed expired cleaning sessions not restarting.\n\n*Update 1*\n-Added a points system. Points are gained through completing cleaning tasks. Points are used to add new songs and to earn cleaning facts and tips.\n-Play against other users and find out what your rank is when you level up.\n-Cleaning is done on schedule according to the timezone of the user. For example, a user can only complete the daily clean once per day, so the points system is fair and balanced.\n\nCleaning tasks were inspired by Rachel Hoffman's awesome book: https://www.goodreads.com/book/show/29939402-unf-ck-your-habitat\n\nSpecial thanks to sound contributors: http://www.bensound.com\n\nDisclaimer: This skill may not be suitable for all ages. This skill is for entertainment purposes only.  It is recommended that you speak with a medical doctor before performing any strenuous physical activities.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, start cleaning buddy",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "cleaning buddy",
   "name": "Cleaning Buddy",
-  "numberOfReviews": 7,
+  "numberOfReviews": 20,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

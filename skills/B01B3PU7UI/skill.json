@@ -9,7 +9,7 @@
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask lunch bot what's for lunch today",
-    "Alexa, ask lunch bot what's for lunch on January 20th",
+    "Alexa, ask lunch bot what's for lunch on December 20th",
     "Alexa, ask lunch bot what will I be eating today"
   ],
   "firstReleaseDate": 1453850620.815,

@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N0B0EAG",
+  "averageRating": 2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Did you know that sharks have been around for more than 400 years? It's true, learn more about sharks with this skill.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa open shark facts",
+    "Alexa launch shark facts"
+  ],
+  "firstReleaseDate": 1480759528.939,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.31030ce7-cb9d-41ea-a736-f8fe2aa08ed3",
+  "imageAltText": "Shark Facts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N0B0EAG/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "shark facts",
+  "name": "Shark Facts",
+  "numberOfReviews": 2,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Learn about sharks with shark facts",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1LCDD7G5D80A7",
+  "vendorName": "Yodelling in a cave"
+}

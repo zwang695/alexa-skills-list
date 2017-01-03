@@ -1,5 +1,5 @@
 # [LIGHTIFY](http://alexa.amazon.com/#skills/amzn1.ask.skill.d4cd8bb8-91d3-4a66-9960-5ccb4b3a92bb)
-![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 27
+![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 61
 
 <br><br>
 Start making your home more intelligent and use LIGHTIFY as a new dimension of light. Smart connected LED lamps or luminaires can be controlled through your smartphone or tablet using the LIGHTIFY app. Now you can use Alexa to control your LIGHTIFY smart lamps, luminaires, flexible LED strips for indoors and Gardenspots for outdoors.

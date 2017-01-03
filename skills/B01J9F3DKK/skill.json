@@ -1,11 +1,11 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01J9F3DKK",
-  "averageRating": 2.5,
+  "averageRating": 2.3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Bedtime counts sleep cycles to help time when you should go to bed or wake up. Waking up in the middle of a sleep cycle makes you feel tired but waking up in between cycles will make you feel energized and ready to spring out of bed.\n<br/>\n<br/>\n<br/>\n- \"I want to go to sleep at 8:00 pm.\"\n<br/>\n<br/>\n- \"I'm going to bed at 10:30 pm\"\n<br/>\n<br/>\n- \"I need to wake up at 7:30 am\"\n<br/>\n<br/>\n- \"When should I go to bed to wake up at 5:30 am?\"\n<br/>\n<br/>\n- \"When should I wake up if I go to sleep at 11:55 pm?\"",
+  "description": "Bedtime counts sleep cycles to help time when you should go to bed or wake up. Waking up in the middle of a sleep cycle makes you feel tired but waking up in between cycles will make you feel energized and ready to spring out of bed.\n\n<br/>\n- \"Alexa, tell bed time I want to go to sleep at 8:00 pm.\"\n<br/>\n<br/>\n- \"Alexa, tell bed time I'm going to bed at 10:30 pm\"\n<br/>\n<br/>\n- \"Alexa, tell bed time I need to wake up at 7:30 am\"\n<br/>\n<br/>\n- \"Alexa, ask bed time when should I go to bed to wake up at 5:30 am?\"\n<br/>\n<br/>\n- \"Alexa, ask bed time when should I wake up if I go to sleep at 11:55 pm?\"",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, open bed time.",
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "bed time",
   "name": "Bedtime",
-  "numberOfReviews": 5,
+  "numberOfReviews": 6,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

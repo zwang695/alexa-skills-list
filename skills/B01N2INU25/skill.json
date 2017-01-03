@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N2INU25",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "You'll begin the quiz by enabling the skill and saying \"Alexa, open Basketball State Trivia\"   \n\nIn this skill you'll be given four states to select form for each NBA team you're asked about. Do your best to select the number that is assigned to the correct state.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open Basketball State Trivia",
+    "Alexa, launch Basketball State Trivia"
+  ],
+  "firstReleaseDate": 1480680324.438,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.a0a7e482-0ab3-4994-8eb8-489cd11bfde1",
+  "imageAltText": "Basketball State Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N2INU25/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "basketball state trivia",
+  "name": "Basketball State Trivia",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Basketball State Trivia is great way to test your knowledge about the states NBA teams call home.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MJTLYWTA86GDA",
+  "vendorName": "Derek Afriyie"
+}

@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "almanac info",
   "name": "Almanac",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "",
@@ -30,5 +30,5 @@
   "stage": "live",
   "termsOfUseUrl": "",
   "vendorId": "M2JYTU5UF2B71Y",
-  "vendorName": "Tankbell Apps"
+  "vendorName": "TankBell Technologies LLC"
 }

@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N3NR08Q",
+  "averageRating": 0,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "The Smartika Skill complements your existing Smartika Ecosystem, allowing you to use voice commands to alter, or dim, the lights, and activate scenes. \n\nTo provide you with the best experience possible, we’ll need you to: \n1.\tDownload the iOS / Android app, which can be found in the Apple App Store / Google Play Store. \n2.\tCreate a Smartika account using the mobile app. \n3.\tFollow the on-screen instructions to setup the hub and pair your devices.\n\nOnce you’ve created your Smartika account and setup your devices, you’ll need to link the Smartika Alexa Skill with your account. To do so, follow the instructions: \n1.\tGo back to the Smartika Alexa Skill Page.\n2.\tClick on ‘Enable Skill’, followed by ‘Link Account’.\n3.\tLog in, using your Smartika Account. \n4.\tAuthorize the Smartika Alexa Skill app to access your account. \n\nThe Smartika Alexa Skill should now be able to discover all of your devices. \n5.\tClick on ‘Discover Devices’, or say, “Alexa, discover my devices”. \nTo learn more about connecting Smart Home devices, visit http://amzn.to/291lR7u.\n\nSmooth sailing from here on out. \n\n-You can turn devices on and off. \nFor example, you can turn on a device called ‘Kitchen Lights’, by saying, ‘Alexa, turn on Kitchen Lights’, or off by saying, ‘Alexa, turn off Kitchen Lights’. \n-You can set lights to a specific percentage. \nFor example, you can set ‘Office Lights’ to 30%, by saying, ‘Alexa, set Office Lights to 30%’. \n-You can increment lights by a specific percentage. \nFor example, you can increment ‘Office Lights’ by 15%, by saying, ‘Alexa, increase Office Lights by 15%’. \n-You can decrement lights by a specific percentage. \nFor example, you can decrement ‘Office Lights’ by 15%, by saying, ‘Alexa, decrease Office Lights by 15%’. \n-You can activate a scene. \nFor example, you can activate the ‘Home’ scene, by saying, ‘Alexa, turn on Home’, which activates the home mood on all devices configured to the home scene.\n\nPlease feel free to contact us at smartika.com for any further questions.",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1480442754.24,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.d620eef4-35f8-4250-a57b-5d41731065a5",
+  "imageAltText": "Smartika icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N3NR08Q/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "Smartika",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "EgrEInxGFv9QqnnfCMvVFZEa4",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.smartika.com/en/application-privacy-statement",
+  "shortDescription": "The Smartika Skill complements your existing Smartika Ecosystem, allowing you to use voice commands to alter, or dim, the lights, and activate scenes.",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": "http://www.smartika.com/en/application-terms-of-use",
+  "vendorId": "M1PUOEF6MBY4NG",
+  "vendorName": "Smartika"
+}

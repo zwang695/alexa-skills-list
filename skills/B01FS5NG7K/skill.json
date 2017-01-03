@@ -8,9 +8,9 @@
   "description": "We are regularly adding new fortunes and sayings to this skill. So check back often for predictions impacting your immediate future.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, open Fortune Cookie.",
-    "Alexa, ask Fortune Cookie to give me a fortune.",
-    "Alexa, ask Fortune Cookie to tell me my fortune."
+    "Alexa, start fortune cookie.",
+    "Alexa, open fortune cookie.",
+    "Alexa, ask fortune cookie for a fortune."
   ],
   "firstReleaseDate": 1464095317.295,
   "homepageLinkText": null,

@@ -1,11 +1,11 @@
 # [My Chef - Kitchen Assistant by Chefling](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7a391899-82a9-4f7a-afb7-cc5a60cc550f)
-![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_black_18dp_1x.png)![4.5 stars](../../images/ic_star_half_black_18dp_1x.png) 10
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 54
 
 To use the My Chef - Kitchen Assistant by Chefling skill, try saying...
 
-* *Alexa, open My Chef*
-
 * *Alexa, ask My Chef what's expiring*
+
+* *Alexa, open My Chef*
 
 * *Alexa, ask My Chef to add the expired items to my shopping list*
 

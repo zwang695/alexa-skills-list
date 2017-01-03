@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01C4M3FX0",
-  "averageRating": 2.5,
+  "averageRating": 2.1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "q. r. z.",
   "name": "QRZ",
-  "numberOfReviews": 14,
+  "numberOfReviews": 24,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

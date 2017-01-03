@@ -1,0 +1,42 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "ngrok.io",
+    "google.com",
+    "googleapis.com",
+    "02c2095a.ngrok.io",
+    "api-alexa.notion.co",
+    "api-alexa.notion.ai",
+    "notion.ai"
+  ],
+  "asin": "B01LY6E9E3",
+  "averageRating": 2.8,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "The Notion skill for Alexa lets you talk to your email!\n\nStart by connecting your Gmail or Google apps email address to the Notion skill on your Alexa. Then you can use the Notion mobile app on Android (on Play store) or iOS (on iOS App store) to enable any of your other email addresses. Go to www.notion.ai/alexa to learn more about how the Notion skill for Alexa works.\n\nThis skill is SO much more than just reading all of the messages in your inbox!\n\nSee it in action here...\n\nhttps://www.youtube.com/watch?v=ux-uzPFE4rI\n\nFocused Inbox:\n\nNotion's intelligence layer on your email automatically focuses on the messages most important to you. Now you can use Alexa effectively to stay on top of your inbox without being overwhelmed. As you go through your important message list, you can \"Read\", \"Respond\", \"Archive\", \"Delete\", and even \"Snooze\" each message.\n\nWaiting Questions:\n\nYou can even ask Alexa \"what is waiting.\" Notion detects messages you need to respond to and conveniently pulls out questions in them for you. Just ask Notion to \"Respond [with your message]\" to get them off your list.\n\nClean your Inbox:\n\nIf you've got some extra hands-free time on your hands (pealing potatoes tonight?), ask Notion to \"clean your inbox.\" Notion will cycle through your list of less important emails so you can \"Read\", \"Archive\" or \"Delete\" them.\n\nGet the Whole Story:\n\nIf you need a little more information about a sender, ask Notion \"who introduced us?\" Notion will reveal how you met the sender from your email's perspective. How cool is that?\n\nWhen you are curious about how your network is growing, try asking Notion \"who have I recently met?\" Notion will tell you about your most recent new connections and provide details about them.\n\nAdd some Security:\n\nAre you worried who might walk up and ask Alexa about your email? Add a security pin. Just ask Notion to \"Lock my inbox\" and enter a pin until your ready to use the skill again.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Notion what is new.",
+    "Alexa, ask Notion to clean my email.",
+    "Alexa, ask Notion who have I recently met?"
+  ],
+  "firstReleaseDate": 1480066673.304,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.0e2cd7e2-6109-4e2d-8d84-dc066d50af3e",
+  "imageAltText": "Notion - Talk to your Email icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LY6E9E3/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "notion",
+  "name": "Notion - Talk to your Email",
+  "numberOfReviews": 18,
+  "pamsPartnerId": "xJrEmo7GJckSIcImtyjUiPUDw",
+  "permissions": null,
+  "privacyPolicyUrl": "https://notion.ai/trust",
+  "shortDescription": "Talk to your email! Powered by Notion's intelligence, you can ask Alexa about important messages, what's waiting for your response, clean your inbox, and more.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3PXRSB89PPED6",
+  "vendorName": "Notion"
+}

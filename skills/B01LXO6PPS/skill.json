@@ -5,14 +5,18 @@
   "canDisable": false,
   "capabilities": null,
   "category": null,
-  "description": null,
+  "description": "With the SmartThings skills for Alexa, you can now control a wide range of connected lights and outlets with your voice.\n\nConnected lights from Philips Hue, LIFX, and OSRAM Lightify:\n · Alexa, turn on the Bedroom light\n · Alexa, turn off the Hallway lights\n · Alexa, dim the Living Room lights\n · Alexa, dim the Living Room lights to 25%\n · Alexa, brighten the Kitchen lights\n · Alexa, brighten the Kitchen lights to 75%\n\nConnected outlets from SmartThings:\n · Alexa, turn on the Bedroom fan\n · Alexa, turn on the Coffee Machine\n · Alexa, turn off the Living Room lamp\n\nVisit Support.SmartThings.com for more information on the SmartThings skills for Alexa. \n\nSmartThings works with a wide range of connected devices including lights, speakers, locks, thermostats, sensors and more.\n\nVisit SmartThings.com to see the full list of compatible devices or to learn more about SmartThings.\n\nGETTING STARTED\n\nTo get started, select the “Enable Skill” button in the Alexa App to link your SmartThings account and discover your devices.\n\nThere are three ways that you can control devices using the SmartThings skills for Alexa:\n\n1. SmartThings Devices: You can use the device names you set up already in the SmartThings app to control individual devices. For example:\n · Alexa, turn on the Bedroom Fan\n · Alexa, turn off the Living Room Lamp\n · Alexa, brighten the Kitchen Light\n\n2. SmartThings Routines: You can use the routine names you set up already in the SmartThings app to control multiple devices. \nFor example:\n · Alexa, turn on Good Morning\n · Alexa, turn on Good Night\n · Alexa, turn on Party Time\n\n3. Alexa Groups: You can also use Alexa groups to control multiple devices, though it is recommended to only include similar types of devices with an Alexa group. For example:\n · Alexa, turn on the Bedroom Lights\n · Alexa, dim the Living Room Lights\n · Alexa, brighten the Kitchen Lights\n\nNote: The SmartThings skill for Alexa can use SmartThings Routines to control compatible lights and outlets. Routines that include devices such as door locks are not supported at this time. \n\nVisit Support.SmartThings.com for more information on the SmartThings skills for Alexa.",
   "enablement": null,
-  "exampleInteractions": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
   "firstReleaseDate": 1475023329.263,
   "homepageLinkText": null,
   "homepageLinkUrl": null,
   "id": "amzn1.ask.skill.ef172d0e-8408-4120-b0f9-deab2d0572c1",
-  "imageAltText": null,
+  "imageAltText": "SmartThings icon",
   "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LXO6PPS/skill_icon",
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
@@ -20,8 +24,8 @@
   "numberOfReviews": 0,
   "pamsPartnerId": "B4gzzzjfbjKx45XBsQUopSwYt",
   "permissions": null,
-  "privacyPolicyUrl": null,
-  "shortDescription": null,
+  "privacyPolicyUrl": "https://www.smartthings.com/privacy",
+  "shortDescription": "With the SmartThings skills for Alexa, you can now control a wide range of connected lights and outlets with your voice.",
   "skillTypes": [
     "SMART_HOME"
   ],

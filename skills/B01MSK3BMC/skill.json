@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MSK3BMC",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This is a skill that returns random quotes.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Ask Tim's brain for a quote",
+    "Alexa, Ask Tim's brain to give me a quote"
+  ],
+  "firstReleaseDate": 1480066799.105,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.c416b208-081b-448f-ab4a-13a2158cec73",
+  "imageAltText": "Tim Stuart icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MSK3BMC/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "tim's brain",
+  "name": "Tim Stuart",
+  "numberOfReviews": 1,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Tim Stuart Quotes",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M5JWKGSXNIFCX",
+  "vendorName": "Tim Stuart"
+}

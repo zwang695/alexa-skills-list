@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01M4QGP3C",
-  "averageRating": 4.3,
+  "averageRating": 4,
   "canDisable": false,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Lutron Connect",
-  "numberOfReviews": 6,
+  "numberOfReviews": 18,
   "pamsPartnerId": "JeYf3NVM5vgpgqcPkygWNrXgB",
   "permissions": null,
   "privacyPolicyUrl": "http://www.lutron.com/en-US/Pages/PrivacyPolicy.aspx",

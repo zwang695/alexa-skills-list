@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "www.mytaglist.com",
+    "mytaglist.com",
+    "wirelesstag.net",
+    "my.wirelesstag.net",
+    "www.wirelesstag.net"
+  ],
+  "asin": "B01MYZTQ15",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "To use this skill, you need to purchase one or more Wireless Sensor Tags and an Ethernet Tag Manager (these are available at http://store.wirelesstag.net), and have created an account using our iOS app (https://itunes.apple.com/us/app/wireless-tag-list/id508973799), Android app (https://play.google.com/store/apps/details?id=com.wirelesstag.android3) or the web interface (https://www.mytaglist.com/). \n\nA Wireless Sensor Tag can be used to record temperature, humidity, ambient light or soil moisture. It can also be used to record motion events such as door open or close. \n\nTry saying:  \"Alexa, ask Wireless Tag for the lowest temperature last week.\"  to know which sensor recorded the lowest temperature and how much.\n\n\"Alexa, ask Wireless Tag for the temperature at boiler room yesterday.\"  to know the average temperature yesterday there.\n\n\"Alexa, ask Wireless Tag what happened Yesterday\" to have Alexa read back event history, or \"Alexa, ask Wireless Tag what happened for Fridge Yesterday\" to have Alexa read back what time Fridge was opened or about any temperature abnormalities. \n\nYou can also say...\n\"Alexa, ask Wireless Tag if Front Door is open\" \n\"Alexa, ask Wireless Tag if Tag 91 is out of range\"\n\nDisclaimer:\nThis skill may not be suitable for all ages as it allows new user sign up and/or links personal accounts. If you are minor, guidance is suggested due to this skill's ability to link personal accounts. This skill is not sponsored or endorsed by Cao Gadgets LLC.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask wireless tag what happened today",
+    "Alexa ask wireless tag for the temperature at Fridge yesterday",
+    "Alexa ask wireless tag if front door is open"
+  ],
+  "firstReleaseDate": 1482841140.635,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.03ff8cfd-f32e-4660-94d9-380ec5b8b779",
+  "imageAltText": "Wireless Tag (Informational) icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MYZTQ15/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "wireless tag",
+  "name": "Wireless Tag (Informational)",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "erf7kUdh4sNJVC8DbYvCjHwOt",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.mytaglist.com/about.html#privacy",
+  "shortDescription": "Wireless Sensor Tags (Informational)",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M320NV90GIGIHS",
+  "vendorName": "CAO Gadgets, LLC"
+}

@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": [],
+  "asin": "B01MQOGXNE",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "My Cheerleader is an Alexa skill designed to increase your positive mindset. Studies show that having a positive outlook increases your success by increasing Amygdala activity in your brain - affecting your ability to be creative, handle challenges, and process information quickly and accurately.\n\nThinking positively and having a happier outlook also increases overall longevity by improving heart function and increasing resiliency (one's ability to bounce back after a trauma).\n\nMy Cheerleader turns your Amazon Echo into your personal tool to increase mental strength and build mental resilience.\n\nWith a free forever cheer pack of 100 positive affirming statements, My Cheerleader is ready to encourage immediately. Expanded features are available though your MyCheerleader login at www.MyCheerleader.net including having Alexa encourage you by name and create custom cheer packs.\n\nTo use My Cheerleader, simply install the skill, then say, \"Alexa, open My Cheerleader.\"\n\nMy Cheerleader will play a randomized selection from your active cheer pack(s).\n\nAdditional applications for My Cheerleader:\n\nLife coaching and mental health counseling professionals can utilize the share feature with clients to reinforce throughout the week positive messaging customized to each client’s needs.\n\nSales professionals can pump themselves up with positive messaging before and between sales calls.\n\nMeditation practitioners can program meditation prompts.\n\nDiscover how MyCheerleader can help you be your best self, today!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open My Cheerleader"
+  ],
+  "firstReleaseDate": 1481631637.283,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.1437a025-e6e7-4383-9f57-427ce84105c5",
+  "imageAltText": "My Cheerleader icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MQOGXNE/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "my cheerleader",
+  "name": "My Cheerleader",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "EhYMy3tJHU9mZlTUR9EdQM54J",
+  "permissions": null,
+  "privacyPolicyUrl": "https://mycheerleader.net/privacy_policy.php",
+  "shortDescription": "My Cheerleader is an Alexa skill designed to increase your positive mindset. Simply say “Alexa, open My Cheerleader” and Alexa will cheer you on with positive a",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://mycheerleader.net/terms_of_use.php",
+  "vendorId": "M19WECZHBUYVJY",
+  "vendorName": "MassInflux, LLC"
+}

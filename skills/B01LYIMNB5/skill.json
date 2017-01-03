@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "tripcase.com"
+  ],
+  "asin": "B01LYIMNB5",
+  "averageRating": 3.1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Want to talk travel with Alexa? With the TripCase, you can easily keep track your flight and lodging information.\n\nOnce you’ve enabled the TripCase skill, start by asking “Alexa, ask TripCase…”\n\nFlight information:\n-“When does my flight depart?”\n-“What is my departure terminal?”\n\nLodging information:\n-“When do I check in to my hotel?”\n-“What’s my hotel’s address?”\n\n\nTo start the setup process, you’ll sign in using your TripCase login credentials and authenticate your TripCase account for Alexa usage.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask TripCase when does my flight leave?",
+    "When is my hotel check in?",
+    "What is the phone number for my hotel?"
+  ],
+  "firstReleaseDate": 1480646173.115,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.5d812564-0b5c-44ad-82fa-dac3273d6816",
+  "imageAltText": "TripCase icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01LYIMNB5/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "trip case",
+  "name": "TripCase",
+  "numberOfReviews": 4,
+  "pamsPartnerId": "p8aYT2d6xTFJAYeQsIcENv7oy",
+  "permissions": null,
+  "privacyPolicyUrl": "http://travel.tripcase.com/privacy/",
+  "shortDescription": "Keep track your flight and lodging itinerary using the TripCase skill for Alexa.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://travel.tripcase.com/terms",
+  "vendorId": "M2QT8A1QDBGQO2",
+  "vendorName": "TripCase"
+}

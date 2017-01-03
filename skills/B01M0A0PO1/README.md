@@ -1,7 +1,7 @@
-# [State Capitols Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.369718af-75c6-484b-a833-b34e087afdf8)
-![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png)![2 stars](../../images/ic_star_border_black_18dp_1x.png) 2
+# [State Capitals Quiz](http://alexa.amazon.com/#skills/amzn1.ask.skill.369718af-75c6-484b-a833-b34e087afdf8)
+![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_black_18dp_1x.png)![2.4 stars](../../images/ic_star_half_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png)![2.4 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
-To use the State Capitols Quiz skill, try saying...
+To use the State Capitals Quiz skill, try saying...
 
 * *Alexa open state capitols*
 

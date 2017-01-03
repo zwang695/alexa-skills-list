@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01LXZM7QV",
-  "averageRating": 5,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "weatherbug",
   "name": "WeatherBug",
-  "numberOfReviews": 3,
+  "numberOfReviews": 20,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://weather.weatherbug.com/legal/privacy",

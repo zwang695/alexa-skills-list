@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01CTJ1XY6",
-  "averageRating": 4,
+  "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "capital one",
   "name": "Capital One",
-  "numberOfReviews": 76,
+  "numberOfReviews": 105,
   "pamsPartnerId": "4V95hRYBrzTTjdVhCnQjvjfgP",
   "permissions": null,
   "privacyPolicyUrl": "https://www.capitalone.com/identity-protection/privacy",

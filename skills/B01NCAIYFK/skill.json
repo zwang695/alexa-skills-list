@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01NCAIYFK",
+  "averageRating": 1,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "We've all wondered about internet slangs and what they mean at some point of time. Now just say an abbreviation to Alexa and instantly know what it means!\n\nNote: This skill is in no way related or affiliated to internetslang.com or its owners.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask slang expander what is the expanded form of asap",
+    "Alexa ask slang expander what is the full form of brb"
+  ],
+  "firstReleaseDate": 1480068350.546,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.45b2c9be-46ff-49fa-a417-8b042ed4d747",
+  "imageAltText": "Slang Abbreviation Expander icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01NCAIYFK/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "slang expander",
+  "name": "Slang Abbreviation Expander",
+  "numberOfReviews": 2,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Expand an abbreviated internet slang word.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MGRMB8LP0J1FG",
+  "vendorName": " Kousik Kumar"
+}

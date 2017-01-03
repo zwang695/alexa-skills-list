@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MQL1V3H",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Provides facts about Lily, an adorable Lemon Beagle",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa Ask Lily Facts for a fact."
+  ],
+  "firstReleaseDate": 1480066659.806,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.038664ce-8e93-4bc5-80e0-0f2a0d7f91a4",
+  "imageAltText": "Lily the Beagle Facts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MQL1V3H/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "lily facts",
+  "name": "Lily the Beagle Facts",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Lily the Beagle",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1ZGZJ3L52OD7L",
+  "vendorName": "JASDJS_Concept"
+}

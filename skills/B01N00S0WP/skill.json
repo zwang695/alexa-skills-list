@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Surf  Stat gives you current surf conditions for beaches in New York, New Jersey and California with many more spots to come. You can get the surf report by saying something like \"Alexa, ask Surf Stat what are the conditions at Manasquan\".\nSurf Stat currently has information for the following spots:\nNew York:\n-Rockaway \n-Long Beach\n-Ditch Plains\n-Turtle Cove\n-Georgica (East Hampton)\n-Lido \n\nNew Jersey:\n-Belmar \n-Asbury Park\n-Manasquan \n-Jenkinsons\n-Holyoke\n-Deal\n\nCalifornia:\n-Rincon\n-Malibu\n-Venice\n-Hermosa\n-Topanga\n-Santa Monica\n\nAll courtesy of Magic Seaweed. For more information please visit www.magicseaweed.com",
+  "description": "Surf  Stat gives you current surf conditions for beaches in New York, New Jersey and California with many more spots to come. You can get the surf report by saying something like \"Alexa, ask Surf Stat what are the conditions at Manasquan\".\nSurf Stat currently has information for the following spots:\nNew York:\n-Rockaway \n-Long Beach\n-Ditch Plains\n-Turtle Cove\n-Georgica (East Hampton)\n-Lido \n\nNew Jersey:\n-Belmar \n-Asbury Park\n-Manasquan \n-Jenkinsons\n-Holyoke\n-Deal\n\nCalifornia:\n-Rincon\n-Malibu\n-Venice\n-Hermosa\n-Topanga\n-Santa Monica\n\nAll data courtesy of Magic Seaweed. For more information please visit www.magicseaweed.com",
   "enablement": null,
   "exampleInteractions": [
     "Alexa ask surf stat what is the surf report at rockaway",

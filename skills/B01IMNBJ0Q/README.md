@@ -1,5 +1,5 @@
 # [Patrón Tequila](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.bd8d923f-547f-4dba-b0aa-2404062553f8)
-![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_black_18dp_1x.png)![4.6 stars](../../images/ic_star_half_black_18dp_1x.png) 20
+![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_black_18dp_1x.png)![3.6 stars](../../images/ic_star_half_black_18dp_1x.png)![3.6 stars](../../images/ic_star_border_black_18dp_1x.png) 33
 
 To use the Patrón Tequila skill, try saying...
 
@@ -9,26 +9,28 @@ To use the Patrón Tequila skill, try saying...
 
 * *Alexa, ask Patron to surprise me!*
 
-Patrón on Alexa allows you to easily find and make tequila cocktails from the comfort of home. You can begin using the skill by saying “Alexa, ask Patrón” followed by a cocktail request based on type, flavor, occasion or ingredients you have on hand. Then easily make the drink by listening to the recipe. You can also learn about tequila and get cocktail-making tips from bartenders.<br><br>
+Patrón on Alexa allows you to easily find and make tequila cocktails, and in the spirit of the season, to find the perfect tequila gift. Begin using the skill by saying “Alexa, ask Patrón” followed by a cocktail request based on type, flavor, occasion or ingredients you have on hand. You can also ask for the perfect gift to get a recommendation and find out how it can be purchased. You can also learn about tequila and get cocktail-making tips from bartenders<br/><br/>
 
-NOTICE: <br>
-Mature audiences only. This skill may not be suitable for all ages. Patrón provides instructions for making alcoholic drinks and is intended for adults over the age of 21. You will need to verify your age by entering your email address and birthdate before using this skill.<br><br>
+NOTICE: <br/>
+Mature audiences only. This skill may not be suitable for all ages. Patrón provides instructions for making alcoholic drinks and is intended for adults over the age of 21. You will need to verify your age by entering your email address and birthdate before using this skill.<br/><br/>
 
-To find cocktails and more with Patrón, try saying…<br>
+To find cocktails and more with Patrón, try saying…<br/>
 
-Alexa, ask Patrón to find a spicy margarita.<br>
+Alexa, ask Patrón to find the perfect gift.<br/>
 
-Alexa, ask Patrón what summer cocktails do you have?<br>
+Alexa, ask Patrón to find a spicy margarita.<br/>
 
-Alexa, ask Patrón what is muddling?<br>
+Alexa, ask Patrón what summer cocktails do you have?<br/>
 
-Alexa, ask Patrón to tell me a fun fact.<br>
+Alexa, ask Patrón what is muddling?<br/>
 
-Alexa, ask Patrón what is in Bloody Maria?<br>
+Alexa, ask Patrón to tell me a fun fact.<br/>
 
-Alexa, ask Patrón What do you recommend?<br>
+Alexa, ask Patrón what is in Bloody Maria?<br/>
 
-Alexa, ask Patrón about Making and Mixing Tequila<br>
+Alexa, ask Patrón What do you recommend?<br/>
+
+Alexa, ask Patrón about Making and Mixing Tequila<br/>
 
 Alexa, ask Patrón What cocktail can I make with Patrón Silver?
 

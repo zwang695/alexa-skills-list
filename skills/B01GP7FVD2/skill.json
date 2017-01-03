@@ -7,7 +7,7 @@
     "amazonaws.com"
   ],
   "asin": "B01GP7FVD2",
-  "averageRating": 0,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -27,7 +27,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "cheetah exercise",
   "name": "Cheetah for Runkeeper",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": "XOcoUEankLghUyn3BDtkVqpvm",
   "permissions": null,
   "privacyPolicyUrl": "http://s3.amazonaws.com/smooth_test/privacy.txt",

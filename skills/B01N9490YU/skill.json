@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N9490YU",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Hydro Trivia",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa london hydro trivia"
+  ],
+  "firstReleaseDate": 1479710162.215,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.9c579f75-86df-4ed4-83d9-00297d28ddbc",
+  "imageAltText": "MyHydroTrivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N9490YU/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "london hydro trivia",
+  "name": "MyHydroTrivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": "",
+  "shortDescription": "Hydro Trivia",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "",
+  "vendorId": "M26JDBW5JDRLT5",
+  "vendorName": "Home"
+}

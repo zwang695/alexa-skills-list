@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01KGCJASY",
-  "averageRating": 3.8,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Version 2.0: Cinemate can now give you common movies between two actors.  You can ask it any variation of \"tell me the movies that Brad Pitt and Matt Damon are in\".\n\nWith this skill the Amazon Echo can provide you with all of the important information on a movie.  This not only includes, plot, cast list, and release date, but also the director, producers, and original music composer.\n\nCinemate provides an intuitive and natural user interface to make it as easy as possible for anyone to get movie information quickly.\n\nThis product uses the TMDb API but is not endorsed or certified by TMDb.",
+  "description": "Cinemate is a powerful movie search skill that allows you to access all kinds of movie information.  With your voice you can ask it to tell you a movie's plot, director, release date, run time, composer, cast and so much more.  You can now ask it where a movie is available for streaming.  Cinemate searches through the four main subscription streaming sites: Netflix, Amazon Prime, Hulu, and HBO Now (same as HBO Go).  More sites coming soon.  \n\nCinemate also remembers what movie you have selected and will be able to properly answer questions like \"Who's in it?\" or \"Where can I watch it?\"\n\nAnother key feature is the ability to ask for the common movies between two actors.  \n\nThis latest version comes equipped with the ability to search for a movie's streaming source as well as an improved search mechanism.  Advanced text comparison logic is now used to find the result that best matches the title or actors you asked for.  If more than one result are equally good, Cinemate will read them back to you and allow you to pick which one you want.  \n\nFinally, all of your movie information needs are fulfilled in one single skill that is intuitive and friendly to use.  What are you waiting for.  Enable the skill and give it a try.\n\nAvailable Features: \nYou can ask Cinemate to for the following information on any movie:\n 1.  Movie Information  - Provides general movie information such as release date, run time, and plot.\n 2.  Movie Plot\n 3.  Movie Release Date\n 4.  Movie Run Time\n 5.  Movie Cast\n 6.  Movie Director\n 7.  Movie Writer\n 8.  Movie Producer\n 9.  Movie Composer\n 10.  Movie Streaming Sources\n 11.  Common Movies between Two Actors.\n... more to come\n\nThis product uses the TMDb API but is not endorsed or certified by TMDb.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask movie guide to tell me what movies Walter Matthau and Jack Lemmon are in together",
-    "Alexa, ask movie guide to tell me about Rocky 4",
-    "Alexa, ask movie guide to give me the cast of Suicide Squad"
+    "Alexa, ask movie guide where can I watch Interstellar",
+    "Alexa, ask movie guide to give me information on Doctor Strange",
+    "Alexa, ask movie guide to tell me what movies Walter Matthau and Jack Lemmon are in together"
   ],
   "firstReleaseDate": 1471954817.06,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "movie guide",
   "name": "Cinemate",
-  "numberOfReviews": 4,
+  "numberOfReviews": 6,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

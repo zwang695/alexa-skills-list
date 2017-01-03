@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "api.dsservers.net"
+  ],
+  "asin": "B01MRTSAOS",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Control your Homeboy devices using commands such as \"ask Homeboy to arm\"\n\nDon't have a Homeboy camera? Get one at homeboy.com",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa Open Homeboy",
+    "Alexa ask Homeboy to arm",
+    "Alexa ask Homeboy to disarm"
+  ],
+  "firstReleaseDate": 1481271585.048,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.155b1802-71ea-4af1-954a-e5f0504e4d3e",
+  "imageAltText": "Homeboy icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MRTSAOS/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "homeboy",
+  "name": "Homeboy",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "d8ifCJjHDsBFkEqe2ogk4K3GZ",
+  "permissions": null,
+  "privacyPolicyUrl": "https://homeboy.helpshift.com/a/homeboy/?s=legal&f=privacy-policy",
+  "shortDescription": "Homeboy is the world’s most accessible home security system. Control your Homeboy devices through Alexa with this skill.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://homeboy.helpshift.com/a/homeboy/?s=legal&f=terms-of-service",
+  "vendorId": "MT5BLXYH29565",
+  "vendorName": "Homeboy"
+}

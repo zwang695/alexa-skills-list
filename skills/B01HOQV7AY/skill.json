@@ -1,11 +1,14 @@
 {
-  "accountLinkingWhitelistedDomains": [],
+  "accountLinkingWhitelistedDomains": [
+    "www.scrippsnetworksinteractive.com",
+    "scrippsnetworksinteractive.com"
+  ],
   "asin": "B01HOQV7AY",
-  "averageRating": 2.5,
+  "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Alexa is now your ultimate Food Network companion.! If you've ever watched Food Network and found yourself thinking, \"I'd love to make that,\" it'll be a snap — just ask your Echo for the recipe.\n\nWith the new Food Network skill, it's quick and easy to get the recipes you've seen on TV. Ask for recent or popular recipes from your favorite shows or chefs, and you'll receive them in your inbox to open at your convenience. You can also search our TV schedule by show name, chef name and time/date to find showtimes and episode details.\n\nHere are some things you could ask for:\n· What's on Food Network now?\n· What show is on next?\n· What will be on tomorrow night?\n· When will Giada be on next?\n· When will Barefoot Contessa be on?\n· Give me the recipes on TV right now.\n· Give me recipes from The Pioneer Woman.\n· Give me popular recipes from Alton Brown.\n· You can change the time zone by saying \"time zone\".\n\nAn e-mail address is required during installation to get recipe details and links sent to you, and is NOT used for any other purpose.\n\nAlso, if you have comments, questions or suggestions for the skill, reach out to us at alexahelp@foodnetwork.com. We'd love to hear from you.\n\nHappy cooking!",
+  "description": "Alexa is now your ultimate Food Network companion! If you've ever watched Food Network and found yourself thinking, \"I'd love to make that,\" it'll be a snap — just ask your Amazon Echo for the recipe.\n\nWith the new Food Network skill, it's quick and easy to get the recipes you've seen on TV. Ask for recent or popular recipes from your favorite shows or chefs, and you'll receive them in your inbox to open at your convenience. You can also search our TV schedule by show name, chef name and time/date to find showtimes and episode details.\n\nHere are some things you could ask for:\n· What's on Food Network now?\n· What show is on next?\n· What will be on tomorrow night?\n· When will Giada be on next?\n· When will Barefoot Contessa be on?\n· Give me the recipes on TV right now.\n· Find me the best holiday cookie recipes.\n· What's the easiest holiday appetizer recipe?\n· Give me recipes from The Pioneer Woman.\n· Give me popular recipes from Alton Brown.\n· You can change the time zone by saying \"time zone\".\n\nAn e-mail address is required during installation to get recipe details and links sent to you, and is NOT used for any other purpose.\n\nIf you have comments, questions or suggestions for the skill, reach out to us at alexahelp@foodnetwork.com. We'd love to hear from you.\n\nHappy cooking!",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask Food Network for the recipes on TV right now.",
@@ -21,7 +24,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "food network",
   "name": "Food Network",
-  "numberOfReviews": 28,
+  "numberOfReviews": 59,
   "pamsPartnerId": "cJBYSWDf6HnRfXHpZzVCerHxV",
   "permissions": null,
   "privacyPolicyUrl": "http://www.scrippsnetworksinteractive.com/privacy-policy/",

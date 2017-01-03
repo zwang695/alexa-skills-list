@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "api.meep.com",
+    "www.facebook.com",
+    "www.meep.com"
+  ],
+  "asin": "B01N75RKCH",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Use Meep's Alexa skill to stay current on today's latest news stories.\n\nComplete account linking to include your personalization settings.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Meep about Politics",
+    "Alexa, ask Meep about Business",
+    "Alexa, ask Meep about Entertainment"
+  ],
+  "firstReleaseDate": 1480068509.174,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.3cfc328b-aa7b-48b3-8706-7eb77e9887bf",
+  "imageAltText": "Meep Personal News Radio icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N75RKCH/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "meep",
+  "name": "Meep Personal News Radio",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "912vwH8jRnjwsa7FoHFMZlERp",
+  "permissions": null,
+  "privacyPolicyUrl": "http://www.meep.com/privacy/?source=alexa&topic=privacy",
+  "shortDescription": "Have the most recent news read to you!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://www.meep.com/privacy/?source=alexa&topic=tos",
+  "vendorId": "M2RMZPYB439E6F",
+  "vendorName": "Meep, LLC"
+}

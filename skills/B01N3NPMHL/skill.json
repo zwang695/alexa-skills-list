@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "api.att.com",
+    "dfw3-auth-api.att.com",
+    "sql1-auth-api.att.com",
+    "ewr2-auth-api.att.com",
+    "san3-auth-api.att.com"
+  ],
+  "asin": "B01N3NPMHL",
+  "averageRating": 2.3,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "To use this skill, you need a post-paid AT&T mobile phone with messaging feature enabled.\n\nStep 1: Enable the skill; you will be prompted to text a word from your mobile device to link your AT&T wireless account to the skill. \nStep 2: Add up to 10 contacts and click on “Save & Link” button to finish linking. \nStep 3: Now you can use the skill to text your contacts!\n\nManage contacts: For future contact updates please go to http://alexa.andyet.io. You may be prompted to text a word from your mobile device for authentication.\nWant to inform your friend that you’ll be a few mins late? Just ask Alexa to send a message in seconds as you are running out of the door. \nBusy cooking when you realize you are out of milk? Just ask Alexa to text your spouse to pick it up on the way home.\n\nAsk Alexa to send hands-free messages to family and friends; it’s so easy and convenient, plus they will recognize you as the sender. Alexa is great at understanding and sending quick short messages like “I am running late, but will be there in 30 minutes,” or “Want to meet for coffee?” \nGet started now. Enable/Link the skill, add up to ten of your frequent contacts, and you are ready to start sending text messages using voice commands to Alexa. To get started say, “Alexa, ask AT&T to text <contact name>”.\n\nFor more information, please visit us at https://att.com/SendMessageSkill",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask AT&T to text Mike",
+    "Alexa, open AT&T",
+    "Alexa, ask AT&T for Help"
+  ],
+  "firstReleaseDate": 1479449151.39,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.66f61fd6-b1bd-4bd0-b7c7-68d4426e91ed",
+  "imageAltText": "AT&T Send Message icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N3NPMHL/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "a. t. and t.",
+  "name": "AT&T Send Message",
+  "numberOfReviews": 202,
+  "pamsPartnerId": "JQPzfFy4ulF1z4zXDeiUVgQyW",
+  "permissions": null,
+  "privacyPolicyUrl": "http://about.att.com/sites/privacy_policy",
+  "shortDescription": "With the AT&T Send Message skill, you can send text messages to up to 10 preconfigured contacts. Once contacts are entered, start by saying “Alexa, open AT&T”.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "https://www.att.com/legal/terms.sendMessageEULA.html",
+  "vendorId": "M23V6OT6QDB7W9",
+  "vendorName": "AT&T Services, Inc."
+}

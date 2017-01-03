@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01LMN5RGU",
-  "averageRating": 5,
+  "averageRating": 0,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "fish geek",
   "name": "Fish Geek",
-  "numberOfReviews": 2,
+  "numberOfReviews": 0,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

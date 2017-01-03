@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B017YBAFW0",
-  "averageRating": 4.1,
+  "averageRating": 3.8,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": true,
   "launchPhrase": "quick events",
   "name": "Quick Events",
-  "numberOfReviews": 41,
+  "numberOfReviews": 58,
   "pamsPartnerId": "WveL2sgNHuRVTQcFjCo8NFgb3",
   "permissions": null,
   "privacyPolicyUrl": "http://sarkonovich-2.elasticbeanstalk.com/privacy",

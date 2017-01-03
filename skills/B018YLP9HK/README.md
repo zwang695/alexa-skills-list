@@ -1,5 +1,5 @@
 # [HomeSeer Home Automation Skill](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.9f7a4553-4530-4c26-904a-aeb7342ce833)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 22
+![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 23
 
 To use the HomeSeer Home Automation Skill skill, try saying...
 

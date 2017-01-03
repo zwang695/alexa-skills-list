@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01N06VJE1",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -17,7 +17,7 @@
   "inAppPurchasingSupported": true,
   "launchPhrase": null,
   "name": "Intelligent Apps GmbH",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "q9d7fQqqccwjtbBDjlkviv5OM",
   "permissions": null,
   "privacyPolicyUrl": null,

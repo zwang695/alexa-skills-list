@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B019G0TI52",
-  "averageRating": 2.3,
+  "averageRating": 2.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "star wars quiz",
   "name": "Star Wars Quiz",
-  "numberOfReviews": 15,
+  "numberOfReviews": 19,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://disneyprivacycenter.com/",

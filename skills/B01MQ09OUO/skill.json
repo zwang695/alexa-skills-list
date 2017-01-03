@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "strava.com"
+  ],
+  "asin": "B01MQ09OUO",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "With Mountain Top, check your Strava.com activities, friend updates, recent information, and stats using the Skill.\n\nStrava.com account required.\n\nThis skill is unofficial and not sponsored or endorsed by Strava.com.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa Open Mountain Top",
+    "Alexa Ask Mountain Top for my summary",
+    "Alexa Ask Mountain Top for my recent activities"
+  ],
+  "firstReleaseDate": 1480327554.229,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.d215af2e-98fd-49ca-a42d-3fe8b5880174",
+  "imageAltText": "Mountain Top for Strava (Unofficial App) icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MQ09OUO/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "mountain top",
+  "name": "Mountain Top for Strava (Unofficial App)",
+  "numberOfReviews": 2,
+  "pamsPartnerId": "OO1MTGmVNIY44nmdBZb768z45",
+  "permissions": null,
+  "privacyPolicyUrl": "https://s3.amazonaws.com/mountaintop/privacy-policy.html",
+  "shortDescription": "With Mountain Top, get your recent Strava updates instantly.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1L96M3W91RXCC",
+  "vendorName": "Nick Coury"
+}

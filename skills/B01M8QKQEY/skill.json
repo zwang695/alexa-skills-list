@@ -5,12 +5,12 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Play JewishMusic Stream (JewishMusicStream.com), the  the best Jewish music online.",
+  "description": "Play JewishMusic Stream (JewishMusicStream.com),  the best Jewish music online.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask JewishMusic to play",
-    "Alexa, ask JewishMusic which song is playing",
-    "Alexa, tell JewishMusic to start playing"
+    "Alexa, ask Jewish Music to play",
+    "Alexa, ask Jewish Music which song is playing",
+    "Alexa, tell Jewish Music to start playing"
   ],
   "firstReleaseDate": 1478684594.221,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "jewish music",
   "name": "Jewish Music",
-  "numberOfReviews": 3,
+  "numberOfReviews": 4,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
@@ -30,5 +30,5 @@
   "stage": "live",
   "termsOfUseUrl": null,
   "vendorId": "M3GKEEXQXCDF8Y",
-  "vendorName": "JewishMusic Stream"
+  "vendorName": "LevTec"
 }

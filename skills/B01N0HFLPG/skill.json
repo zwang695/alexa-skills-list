@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "server.mastermindbot.com",
+    "mastermindbot.com",
+    "apis.google.com",
+    "accounts.google.com",
+    "ssl.gstatic.com"
+  ],
+  "asin": "B01N0HFLPG",
+  "averageRating": 2.9,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Mastermind connects your smartphone, TV and PC to Alexa. \n\nGet your notifications, send text messages, make phone calls, get caller ID, launch apps, and more. \n\nMastermind also enables you to stream your notifications, text messages, caller ID, and photos to your TV. \n\n5 reasons to try out Mastermind:\n\n* You are relaxing at home. Your phone is in the other room. It's ringing. You just say \"Alexa, Ask Mastermind Who's Calling?\" \n\n* First thing in the morning, \"Alexa, Ask Mastermind to Get My Status Update\". Phone Battery charge status, new text messages, notifications, calendar events. All read out to you while you are still in bed!\n\n* Want send a text to someone and your hands are busy? No problem. \"Alexa, Ask Mastermind to Send Text\". Name the person, say the message, and let Mastermind send the text. Using your real number through your phone. \n\n* What about phone calls? Same thing. \"Alexa, Ask Mastermind to Make Phonecall\". Mastermind makes the call using your very own phone.\n\n* Own a Chromecast? Just say \"Ask Mastermind to Start Casting\" and see your notifications, calls and text messages on your TV in real time. \n\nMastermind currently works on the following platforms:\n\n* Amazon Echo, Amazon Dot, Amazon Tap\n* Google Android Phones and Tablets (5.0 and above)\n* Google Chromecast\n* Google Chrome Browser (extension)\n* Amazon Fire TV",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Ask Mastermind to Get My Notifications",
+    "Alexa, Ask Mastermind to Send Message",
+    "Alexa, Ask Mastermind What Was That?"
+  ],
+  "firstReleaseDate": 1481872926.905,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.ef59402e-dfc6-42fd-8d34-600302f0f04a",
+  "imageAltText": "Mastermind Bot icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N0HFLPG/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "mastermind",
+  "name": "Mastermind Bot",
+  "numberOfReviews": 9,
+  "pamsPartnerId": "M1t2vnmRZSeHCB3bK8F9EKAii",
+  "permissions": null,
+  "privacyPolicyUrl": "http://mastermindbot.com/privacy/",
+  "shortDescription": "Text messaging, notifications, caller id, contact lookup, phone calls, chromecast TV integration and more. Requires the companion Mastermind Android app.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://mastermindbot.com/tos/",
+  "vendorId": "M2GYIW1G70RUT",
+  "vendorName": "Convessa, Inc."
+}

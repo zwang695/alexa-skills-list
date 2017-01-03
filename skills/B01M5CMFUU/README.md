@@ -21,6 +21,6 @@ This Alexa skill is unofficial and is not associated in any way with the Formula
 * **Category:** null
 * **ID:** amzn1.ask.skill.c7f7a03c-c400-45dc-9efd-f6e6a80b0773
 * **ASIN:** B01M5CMFUU
-* **Author:** Ben James
+* **Author:** To Play For
 * **Release Date:** November 2, 2016 @ 01:43:08
 * **In-App Purchasing:** No

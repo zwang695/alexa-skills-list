@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MRIR0O4",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Test how much you know about sneaker culture ranging from the most iconic shoes to the famous athletes that wore them. Alexa will ask you five questions. Your job is to respond with the number that matches the answer you think is correct. Good luck!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Open Sneaker Trivia",
+    "Alexa, Start Sneaker Trivia"
+  ],
+  "firstReleaseDate": 1479285345.518,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.fa5f3871-54b6-4722-a664-cf98e678e253",
+  "imageAltText": "Sneaker Trivia icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MRIR0O4/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "sneaker trivia",
+  "name": "Sneaker Trivia",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Test how much you know about sneaker culture",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M16ZYHRYQQUA8M",
+  "vendorName": "Jeff Consing"
+}

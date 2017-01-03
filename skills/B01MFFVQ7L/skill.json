@@ -5,7 +5,7 @@
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Helps you decide who gets the first turn when you are starting a card or board game.",
+  "description": "Who's First helps you decide who gets the first turn when you are starting a card or board game.",
   "enablement": null,
   "exampleInteractions": [
     "Alexa, ask who's first",
@@ -25,7 +25,7 @@
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,
-  "shortDescription": "Helps you decide who gets the first turn when you are starting a card or board game.",
+  "shortDescription": "Who's First helps you decide who gets the first turn when you are starting a card or board game.",
   "skillTypes": null,
   "stage": "live",
   "termsOfUseUrl": null,

@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B018YJUQ3Y",
-  "averageRating": 3.8,
+  "averageRating": 3,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "biorhythm",
   "name": "BioRhythm",
-  "numberOfReviews": 18,
+  "numberOfReviews": 24,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

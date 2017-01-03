@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01GB28COG",
-  "averageRating": 3.1,
+  "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "zoo keeper",
   "name": "Zoo Keeper",
-  "numberOfReviews": 7,
+  "numberOfReviews": 35,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

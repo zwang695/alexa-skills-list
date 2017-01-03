@@ -1,13 +1,13 @@
 # [Umpire Insult](http://alexa.amazon.com/#skills/amzn1.ask.skill.299577df-4e07-4bc2-aabf-bb26a6a853c4)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_black_18dp_1x.png)![4 stars](../../images/ic_star_border_black_18dp_1x.png) 2
 
 To use the Umpire Insult skill, try saying...
 
-* *Alexa, ask drunk fan for an insult*
+* *Alexa Open drunk fan*
+
+* *Alexa, ask drunk fan for an insult.*
 
 * *Alexa, ask drunk fan for an umpire insult.*
-
-* *Alexa, ask drunk fan to tell me an umpire insult.*
 
 This skill will provide some of the more popular umpire insults.
 

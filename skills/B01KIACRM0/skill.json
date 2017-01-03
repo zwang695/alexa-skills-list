@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01KIACRM0",
-  "averageRating": 0,
+  "averageRating": 5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "calorie counter",
   "name": "ActualCalorie",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "Eqcig7f8WjdvB2TnslGlxbwK7",
   "permissions": null,
   "privacyPolicyUrl": "http://actualcalorie.com/privacy.php",

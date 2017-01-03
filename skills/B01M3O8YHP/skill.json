@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01M3O8YHP",
-  "averageRating": 5,
+  "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "Find out about the next games scheduled for teams in the NFL.\n\nThis skill is not sponsored by or endorsed by the National Football League (NFL).",
+  "description": "Find out about the next games scheduled for teams in the NFL.\n\nThis skill is not sponsored by or endorsed by the National Football League (NFL). If you have any issues or suggestions, please contact us at footballschedule@systemzwei.com",
   "enablement": null,
   "exampleInteractions": [
+    "Alexa, open Football Schedule",
     "Alexa, ask Football Schedule for Denver Broncos",
-    "Alexa, ask Football Schedule for Giants games",
-    "Alexa, ask Football Schedule to give me the next games for San Francisco"
+    "Alexa, ask Football Schedule for Giants games"
   ],
   "firstReleaseDate": 1476859442.104,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "football schedule",
   "name": "Football Schedule",
-  "numberOfReviews": 1,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

@@ -1,11 +1,11 @@
 # [My Health Coach](http://alexa.amazon.com/#skills/amzn1.ask.skill.16608dcb-7292-47af-bdb1-9d9182cc74cb)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
+![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_black_18dp_1x.png)![4.4 stars](../../images/ic_star_half_black_18dp_1x.png) 3
 
 To use the My Health Coach skill, try saying...
 
 * *Alexa, open My Health Coach*
 
-Your health coaching partner to improve your quality of life.
+Your health coaching partner to improve your quality of life.  Use your Echo to improve your well-being.  Hundreds of health and wellness tips and lifestyle improvement suggestions at your command!
 
 ***
 

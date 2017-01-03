@@ -1,0 +1,40 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "userservice.tinygaragelabs.com",
+    "staging.60db.co",
+    "60db.auth0.com",
+    "api.twitter.com",
+    "www.facebook.com"
+  ],
+  "asin": "B01N2T9X06",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "60dB brings you today's best short audio stories – news, sports, entertainment, business and technology, all personalized for you.\n\nIf you're new to 60db, please create an account at https://60db.co or if you're an iPhone user, download our app from the Apple store.  If you've already created an account with us, go ahead and link your account to this skill.  You can start listening to your personalized playlist of news and stories by enabling this skill and saying \"Alexa, ask sixty d.b. to play\".  You can navigate through your playlist by saying \"Next\" or \"Previous\".  You can stop and restart by saying \"Pause\" and \"Resume\".  \n\nWe're happy to have you on board!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask sixty d. b. to play",
+    "Alexa ask sixty d. b. to play stories",
+    "Alexa ask sixty d.b. to play audio"
+  ],
+  "firstReleaseDate": 1482905971.691,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.3630b6a9-28d3-4744-8f72-c0ad9ac7e1c7",
+  "imageAltText": "60db icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N2T9X06/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "sixty d. b.",
+  "name": "60db",
+  "numberOfReviews": 1,
+  "pamsPartnerId": "geBrOdJoNteVCRGORlejVfTjX",
+  "permissions": null,
+  "privacyPolicyUrl": "https://60db.co/privacy/",
+  "shortDescription": "60dB brings you today's best short audio stories – news, sports, entertainment, business and technology, all personalized for you.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M7TDQ8TZ206A1",
+  "vendorName": "60db"
+}

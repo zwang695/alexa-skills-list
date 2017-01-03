@@ -12,9 +12,9 @@
   "description": "The Yonomi Smart Home skill makes it easy to control all of your favorite connected devices. Add your devices to Yonomi Routines, then simply control them by asking Alexa. For example, you can create a Yonomi Routine called “Fall Asleep” then tell Alexa to \"Turn on Fall Asleep” and your TV shuts off via the Logitech Harmony Hub, your lights turn out, the door locks – and you're ready for bed.\n\nWith Yonomi, you can even run your Sonos via Alexa – just say \"Alexa, Turn on My Jams\" to switch your Sonos speakers to any radio station, channel, or source you like all with just your voice. Or simply say “Alexa, turn on my Living Room Sonos” to add a little atmosphere. Other devices like your TV and Fire TV can be controlled directly via your Logitech Harmony Hub -- just say \"Alexa, turn on Watch TV\" and you now have voice control over your television!\n\nYou can even use both \"Turn On\" and \"Turn Off\" commands with the same Routine name to accomplish different actions.  For example, create Routines called \"Everything On\" and \"Everything Off\" and you can ask Alexa to \"Turn on everything\" or \"Turn off everything\" and Yonomi will take care of the rest.\n\nYonomi is a free software-only mobile app that plays well with over 60 of the most popular connected home devices including Logitech Harmony, Sonos, Belkin Wemo, Philips Hue, LIFX, Nest, Wink, Schlage Connect, Honeywell Lyric & Total Connect Comfort and many more.  There is no hub, router, or other hardware to buy or servers to set up.  The app is available for both iOS and Android – so download Yonomi today and start controlling all of your home devices with just a single quick voice command.\n\nVisit www.yonomi.co to get started now!\n\nNeed help? Check our our support page at https://www.yonomi.co/support or email us at support@yonomi.co and we'll be happy to assist.\n\nSee our full list of supported devices here: https://www.yonomi.co/supported-devices",
   "enablement": null,
   "exampleInteractions": [
-    null,
-    null,
-    null
+    "Alexa, turn on my Television",
+    "Alexa, turn off All Lights",
+    "Alexa, turn on Sonos"
   ],
   "firstReleaseDate": 1461106042.469,
   "homepageLinkText": null,
@@ -25,11 +25,11 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "Yonomi",
-  "numberOfReviews": 53,
+  "numberOfReviews": 61,
   "pamsPartnerId": "k3eprViSlQBRlZ7QoDvWiqSqc",
   "permissions": null,
   "privacyPolicyUrl": "https://www.yonomi.co/privacy.html",
-  "shortDescription": "Yonomi connects all of your devices under one roof for free, like Sonos, Harmony,  Hue, and more. Control your devices with just your voice - no hub required!",
+  "shortDescription": "Yonomi connects your devices under one roof for free, like Logitech Harmony, Sonos, Hue, & more. Control your devices with just your voice, no hub required!",
   "skillTypes": [
     "SMART_HOME"
   ],

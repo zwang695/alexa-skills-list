@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "buoy.calliopewater.com"
+  ],
+  "asin": "B01MQIG7CF",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "The Buoy™ by Calliope connected device allows you to take control of your home’s water use.  Water rates have risen 50% since 2010, and they keep rising.  With Buoy you can see where all that money is going, take action to eliminate leaks, and use water only in the ways that matter most to you.\n\nThis Alexa skill allows you to ask how long the water has been running, or how you've used water for a given day, week, or month.\n\n\nLearn more at calliopewater.com",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Buoy how much water I used today",
+    "Alexa, ask Buoy how long the shower has been running",
+    "Alexa, ask Buoy how much water I used for laundry last month"
+  ],
+  "firstReleaseDate": 1480489512.838,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.405b6df1-ba0f-4a55-8933-968175f7a482",
+  "imageAltText": "Buoy icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MQIG7CF/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "buoy",
+  "name": "Buoy",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "gpX8TgXcpjzDN3FlsaiFVTPmc",
+  "permissions": null,
+  "privacyPolicyUrl": "http://calliopewater.com/privacy-policy/",
+  "shortDescription": "Get realtime information about your household water use",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "http://calliopewater.com/terms-conditions/",
+  "vendorId": "M10JCJAS9WDAQ9",
+  "vendorName": "Calliope Waterworks"
+}

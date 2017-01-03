@@ -1,5 +1,5 @@
 # [ZOMA Worry Free Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.c0a08fa1-b6e5-4589-9cac-e8b518b867f1)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 With this skill enabled you can ask Alexa to control all your ZOMA connected devices. You can also setup groups like "Livingroom" or "Office" and have Alexa turn the whole group on or off. 
 

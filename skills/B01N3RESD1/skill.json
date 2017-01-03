@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N3RESD1",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skills responds with a random comic fact about super heroes or villians.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask random comic facts to tell me a comic fact",
+    "Alexa, ask random comic facts to tell me a comic trivia"
+  ],
+  "firstReleaseDate": 1480068534.326,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.e1b808e2-ace4-4d2d-b717-4889183e6242",
+  "imageAltText": "Random Comic Facts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N3RESD1/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "random comic facts",
+  "name": "Random Comic Facts",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Random Comic Fact",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M16G1ZHTSGWAY4",
+  "vendorName": "zhaobe"
+}

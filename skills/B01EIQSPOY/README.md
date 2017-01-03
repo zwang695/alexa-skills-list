@@ -1,5 +1,5 @@
 # [LIFX Optimized for Smart Home](http://alexa.amazon.com/#skills/amzn1.ask.skill.aba7feac-6231-4e5c-95ce-e05195803691)
-![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_black_18dp_1x.png)![3.3 stars](../../images/ic_star_half_black_18dp_1x.png)![3.3 stars](../../images/ic_star_border_black_18dp_1x.png) 49
+![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_black_18dp_1x.png)![3.4 stars](../../images/ic_star_half_black_18dp_1x.png)![3.4 stars](../../images/ic_star_border_black_18dp_1x.png) 80
 
 Control LIFX with Alexa. Your LIFX Lights now talk directly to the Amazon Echo through the Alexa Connected Home. After a few easy setup steps you can control your LIFX lights with simple statements like:
 
@@ -8,8 +8,9 @@ Alexa, turn the kitchen light off
 Alexa, set lights to 50% brightness
 Alexa, brighten the kitchen lights
 Alexa, dim bedroom lights by 25%
+Alexa, turn on mood lighting
 
-Skills that are “Optimized for Smart Home” allow you to control your smart devices without saying “Ask” or “tell”. For example, if you have named your smart light bulb “Kitchen Lights”, you can say “Alexa, turn on the kitchen lights”
+Skills that are “Optimized for Smart Home” allow you to control your smart devices without saying “Ask” or “tell”. For example, if you have named your smart light bulb “Kitchen Lights”, you can say “Alexa, turn on the kitchen lights”. Alexa can also activate your scenes, first run discovery to update the available scenes, then for a scene named "mood lighting" say "Alexa turn on mood lighting".
 
 HOW TO GET CONNECTED
 

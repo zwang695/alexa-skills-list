@@ -1,5 +1,5 @@
 # [The Lord's Prayer](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.7071bcb0-863c-4c36-bf1d-eecbc3e11852)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 6
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 10
 
 To use the The Lord's Prayer skill, try saying...
 

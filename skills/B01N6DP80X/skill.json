@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "2uajnh7axb.execute-api.us-east-1.amazonaws.com"
+  ],
+  "asin": "B01N6DP80X",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Book a table in seconds by asking OpenTable to make a restaurant reservation. You'll need to provide your name, email address, and phone number to get started. \n\nAlexa will ask you for the restaurant name, date and time, and size of your party.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, launch OpenTable",
+    "Alexa, ask OpenTable to make a reservation",
+    "Alexa, ask OpenTable to make a reservation at Ray's Boathouse on Friday"
+  ],
+  "firstReleaseDate": 1481012126.91,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.echo-sdk-ams.app.745d74fa-c3c8-46c4-befe-c9305b7de667",
+  "imageAltText": "OpenTable for Alexa icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N6DP80X/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "open table",
+  "name": "OpenTable for Alexa",
+  "numberOfReviews": 0,
+  "pamsPartnerId": "cyvPk7ncYuNCd3DS3KBLElTEi",
+  "permissions": null,
+  "privacyPolicyUrl": "Http://www.opentable.com/privacy",
+  "shortDescription": "Make restaurant reservations with your voice using Alexa",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": "Http://www.opentable.com/tou",
+  "vendorId": "M1J8YDWF6VB440",
+  "vendorName": "OpenTable"
+}

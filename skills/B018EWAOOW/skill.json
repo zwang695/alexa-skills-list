@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B018EWAOOW",
-  "averageRating": 1.9,
+  "averageRating": 1.7,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "t. v. shows",
   "name": "TV Shows",
-  "numberOfReviews": 42,
+  "numberOfReviews": 62,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "http://gobbyapps.com/privacy",

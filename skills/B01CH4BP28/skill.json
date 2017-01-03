@@ -6,7 +6,7 @@
     "google.com"
   ],
   "asin": "B01CH4BP28",
-  "averageRating": 3.2,
+  "averageRating": 2.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -15,7 +15,7 @@
   "exampleInteractions": [
     "Alexa, ask Fitbit how I'm doing today.",
     "Alexa, ask Fitbit how I slept last night.",
-    "Alexa, ask Fitbit how many steps I've taken"
+    "Alexa, ask Fitbit how many steps I've taken."
   ],
   "firstReleaseDate": 1456958015.96,
   "homepageLinkText": null,
@@ -26,8 +26,8 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "fitbit",
   "name": "Fitbit",
-  "numberOfReviews": 98,
-  "pamsPartnerId": "fGVaeqRO2uEX7xMf2fOnRpXYr",
+  "numberOfReviews": 145,
+  "pamsPartnerId": "F494hCfOBz7oJ9Yefut8QzqBK",
   "permissions": null,
   "privacyPolicyUrl": "https://www.fitbit.com/legal/privacy",
   "shortDescription": "Keep up with your fitness goals by checking Fitbit with Alexa. Stay in touch with your progress and get motivated as you go about your day.",

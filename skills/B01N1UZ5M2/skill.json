@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N1UZ5M2",
+  "averageRating": 2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "This skill gives you a random quote from South Park.\nI do not own any of the rights of South Park or the characters or the voices. I'm just a fan...",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask South Park quotes"
+  ],
+  "firstReleaseDate": 1482837583.382,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.acb3ec34-a2cd-4680-b33c-b48714cf8980",
+  "imageAltText": "South Park quotes icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N1UZ5M2/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "south park quotes",
+  "name": "South Park quotes",
+  "numberOfReviews": 2,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "This skill gives you a random quote from South Park.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MHASIJYZKHIS4",
+  "vendorName": "Gukke3000"
+}

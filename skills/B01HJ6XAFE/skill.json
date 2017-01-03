@@ -24,13 +24,13 @@
   "launchPhrase": "v. h. r.",
   "name": "VHR",
   "numberOfReviews": 0,
-  "pamsPartnerId": "kuBSeBcrQG3F1dlkmbOg8ySGJ",
+  "pamsPartnerId": "RUrJeybKuJ9AV685VsBkEwYVO",
   "permissions": null,
   "privacyPolicyUrl": "http://www.echoman.com/privacy/",
   "shortDescription": "A convenience tool for staff members to access their schedules and productivity information from The Echo Group's services",
   "skillTypes": null,
   "stage": "live",
-  "termsOfUseUrl": null,
+  "termsOfUseUrl": "",
   "vendorId": "M3UFDFOB0LTJP2",
   "vendorName": "The Echo Group"
 }

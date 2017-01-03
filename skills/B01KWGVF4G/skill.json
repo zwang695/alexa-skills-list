@@ -1,15 +1,15 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01KWGVF4G",
-  "averageRating": 4.5,
+  "averageRating": 3.9,
   "canDisable": true,
   "capabilities": null,
   "category": null,
   "description": "My Chef is a skill developed by Chefling,Inc, a company who is determined to bring you the future kitchen experience.  My Chef allows you to do inventory management, shopping list creating/sharing, and recipe searching. You can activate My Chef by saying “Alexa, open my chef”. Then you can interact with the skill by saying things such as “What protein do I have in the fridge?” “How old is the chicken breast?” “What’s expiring” “Send the shopping list to Mark” etc.\n<br><br>\nNotice:<br>\nMy Chef only works well with the mobile APP Chefling. Chefling is a high-rated APP to meet all your kitchen needs, which include shopping list, inventory management and recipe match based on what you have, and yet is very clearly designed, and easy to use.  To view your shopping list or choose a recipe, please download APP Chefling.\n<br><br>\nHere are some questions you can ask My Chef:<br>\nWhat’s in my Pantry/Shopping list?<br>\nWhat fruit do I have?<br>\nHow old is shrimp?<br>\nWhat’s expiring?<br>\nAdd the expired items to shopping list.<br>\nAdd apples, bananas and milk to my shopping list.<br>\nMilk is running low.<br>\nSend my shopping list to Mark.<br>\nFind me a chicken recipe<br>\nShare this recipe<br>\nSend this recipe to my phone<br>\nGet the cooking steps<br>\nEmail me this recipe<br>\n<br>\nDisclaimer: This skill may not be suitable for all ages.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, open My Chef",
     "Alexa, ask My Chef what's expiring",
+    "Alexa, open My Chef",
     "Alexa, ask My Chef to add the expired items to my shopping list"
   ],
   "firstReleaseDate": 1474627315.506,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my chef",
   "name": "My Chef - Kitchen Assistant by Chefling",
-  "numberOfReviews": 10,
+  "numberOfReviews": 54,
   "pamsPartnerId": "Lz17TacPZW7xxGJlJ1yezcHXk",
   "permissions": null,
   "privacyPolicyUrl": "http://www.chefling.net/privacy-policy/",

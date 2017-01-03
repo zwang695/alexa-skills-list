@@ -1,5 +1,5 @@
 # [Fitbit](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.297bd7f9-6659-4e55-8535-b8e8efff8f64)
-![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_black_18dp_1x.png)![3.2 stars](../../images/ic_star_half_black_18dp_1x.png)![3.2 stars](../../images/ic_star_border_black_18dp_1x.png) 98
+![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_black_18dp_1x.png)![2.9 stars](../../images/ic_star_half_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png)![2.9 stars](../../images/ic_star_border_black_18dp_1x.png) 145
 
 To use the Fitbit skill, try saying...
 
@@ -7,7 +7,7 @@ To use the Fitbit skill, try saying...
 
 * *Alexa, ask Fitbit how I slept last night.*
 
-* *Alexa, ask Fitbit how many steps I've taken*
+* *Alexa, ask Fitbit how many steps I've taken.*
 
 Keep up with your fitness goals by checking Fitbit with Alexa. Stay in touch with your progress and get motivated as you go about your day.
 Check in on your daily Fitbit progress with Alexa. Ask Alexa if you hit your sleep goal, how you did yesterday, or just get a quick update on the stats you care about the most.

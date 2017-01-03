@@ -1,5 +1,5 @@
 # [Myrtle Fillmore's Daily Thoughts on Truth](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.5b0293ca-b051-4cb3-8c60-f41fc89d24bb)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 1
 
 To use the Myrtle Fillmore's Daily Thoughts on Truth skill, try saying...
 

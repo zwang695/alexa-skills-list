@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01DJXEA14",
-  "averageRating": 2.5,
+  "averageRating": 2.6,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "box office",
   "name": "BoxOffice",
-  "numberOfReviews": 13,
+  "numberOfReviews": 15,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

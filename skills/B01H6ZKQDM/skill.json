@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01H6ZKQDM",
-  "averageRating": 0,
+  "averageRating": 1,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "moblor",
   "name": "Moblor",
-  "numberOfReviews": 0,
+  "numberOfReviews": 1,
   "pamsPartnerId": "x8TKbVecOLpGo9sXoMCJ3Hy6m",
   "permissions": null,
   "privacyPolicyUrl": "https://www.moblor.com/amazon-echo/privacy-policy",

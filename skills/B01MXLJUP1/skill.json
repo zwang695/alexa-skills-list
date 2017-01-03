@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MXLJUP1",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Want to know more about Taiwan? Come ask me!",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open taiwan facts"
+  ],
+  "firstReleaseDate": 1479445519.771,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.c0c04e46-c7f5-47f2-842d-806bbcd024f8",
+  "imageAltText": "Taiwan Facts icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MXLJUP1/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "taiwan facts",
+  "name": "Taiwan Facts",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Want to know more about Taiwan? Come ask me!",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M5WUQ7ZUYT1X9",
+  "vendorName": "ssvictorlin"
+}

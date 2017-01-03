@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N8S6F2I",
+  "averageRating": 4.5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "If no one's around tell Alexa you just sneezed and she'll bless you. No other hardware required, just say \"Alexa, I just sneezed\"\n\nIcon made by Roundicons from www.flaticon.com",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, I just sneezed"
+  ],
+  "firstReleaseDate": 1479364555.798,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.5f8559aa-9af7-45be-8283-6d4a2589228f",
+  "imageAltText": "I Just Sneezed icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N8S6F2I/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "i just sneezed",
+  "name": "I Just Sneezed",
+  "numberOfReviews": 4,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "This skill blesses you when you sneeze and there's no one around",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3KX3CEXUV168O",
+  "vendorName": "Adam Socik"
+}

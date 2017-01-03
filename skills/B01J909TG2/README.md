@@ -1,5 +1,5 @@
 # [Control4](http://alexa.amazon.com/#skills/amzn1.ask.skill.12a68d70-f9b3-4c57-8156-c120d36ddef7)
-![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_black_18dp_1x.png)![4.3 stars](../../images/ic_star_half_black_18dp_1x.png) 34
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 44
 
 Add Alexa to your Control4 Smart Home for added convenience of whole-home automation through voice control. Simple and intuitive voice commands activate smart home scenes and allow you to control individual or groups of devices.
 

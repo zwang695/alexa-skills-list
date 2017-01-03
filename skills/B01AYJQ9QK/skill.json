@@ -12,7 +12,7 @@
     "www.google.com"
   ],
   "asin": "B01AYJQ9QK",
-  "averageRating": 2.3,
+  "averageRating": 2.2,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -32,7 +32,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "uber",
   "name": "Uber",
-  "numberOfReviews": 107,
+  "numberOfReviews": 133,
   "pamsPartnerId": "U93y5RziEgPHOhmphQmU2CW9C",
   "permissions": [
     "ACCESS_DEVICE_ADDRESS"

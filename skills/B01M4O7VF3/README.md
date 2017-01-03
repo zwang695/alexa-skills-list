@@ -1,5 +1,5 @@
 # [WineAdvisor](http://alexa.amazon.com/#skills/amzn1.ask.skill.a853e193-b9ef-4734-ac52-371bdc9e0e81)
-![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png)![0 stars](../../images/ic_star_border_black_18dp_1x.png) 0
+![1.4 stars](../../images/ic_star_black_18dp_1x.png)![1.4 stars](../../images/ic_star_half_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png) 3
 
 To use the WineAdvisor skill, try saying...
 

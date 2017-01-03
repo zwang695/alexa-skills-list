@@ -1,5 +1,5 @@
 # [ELLE Horoscopes by The Astro Twins](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.34bc742c-a411-4bc3-99cd-3feb21ab783d)
-![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 39
+![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_black_18dp_1x.png)![2.7 stars](../../images/ic_star_half_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png)![2.7 stars](../../images/ic_star_border_black_18dp_1x.png) 40
 
 To use the ELLE Horoscopes by The Astro Twins skill, try saying...
 

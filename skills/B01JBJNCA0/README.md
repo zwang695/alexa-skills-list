@@ -1,5 +1,5 @@
 # [Homeopathy](http://alexa.amazon.com/#skills/amzn1.ask.skill.23206320-08e9-462b-8d3a-ce4d0570f9bb)
-![1.3 stars](../../images/ic_star_black_18dp_1x.png)![1.3 stars](../../images/ic_star_half_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png)![1.3 stars](../../images/ic_star_border_black_18dp_1x.png) 5
+![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 5
 
 To use the Homeopathy skill, try saying...
 

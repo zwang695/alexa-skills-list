@@ -1,5 +1,5 @@
 # [Spell Book for Dungeons and Dragons](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.36e6deff-7ed7-40c3-9709-8ce978e57533)
-![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png)![5 stars](../../images/ic_star_black_18dp_1x.png) 4
+![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_black_18dp_1x.png)![3.9 stars](../../images/ic_star_half_black_18dp_1x.png)![3.9 stars](../../images/ic_star_border_black_18dp_1x.png) 6
 
 To use the Spell Book for Dungeons and Dragons skill, try saying...
 

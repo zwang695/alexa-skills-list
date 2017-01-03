@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01JQ2BWRM",
-  "averageRating": 0,
+  "averageRating": 4.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "my physics",
   "name": "Physics Systems Server",
-  "numberOfReviews": 0,
+  "numberOfReviews": 2,
   "pamsPartnerId": "ODOHnlbaMolHFX1YTXUoAMulQ",
   "permissions": null,
   "privacyPolicyUrl": "https://physicssystems.net/psnet/privacy.jsp",

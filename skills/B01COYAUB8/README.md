@@ -1,5 +1,5 @@
 # [Ubi Portal Voice Prototyping Tool](http://alexa.amazon.com/#skills/amzn1.echo-sdk-ams.app.c3dffce7-9211-4623-a7d0-5c94592af20f)
-![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png)![3 stars](../../images/ic_star_border_black_18dp_1x.png) 7
+![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_black_18dp_1x.png)![2.8 stars](../../images/ic_star_half_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png)![2.8 stars](../../images/ic_star_border_black_18dp_1x.png) 9
 
 To use the Ubi Portal Voice Prototyping Tool skill, try saying...
 

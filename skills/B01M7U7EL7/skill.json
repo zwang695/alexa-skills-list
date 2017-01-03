@@ -1,0 +1,38 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "api.emberlight.co"
+  ],
+  "asin": "B01M7U7EL7",
+  "averageRating": 5,
+  "canDisable": false,
+  "capabilities": null,
+  "category": null,
+  "description": "The emberlight Socket turns any light into a smart light, with no extra hub required. Control your emberlight Sockets by voice using an the Amazon Echo or other Alexa-enabled product. \n\nYou'll find having the ability to control your lights with your voice to be a lifesaver when you get home with your hands full, or can't find your phone. You can use simple statements like:\n\nAlexa, turn on the kitchen light\nAlexa, turn off the porch light\nAlexa, turn down the bedroom light to 50%\n\nTo get connected,\n\n1. We first recommend making sure the names of the lights in the emberlight app are easy to say and understand. Numbers typically don't do well, so you'll want to change names like the default \"emberlight 1\" to something like \"kitchen light\" or \"bedroom lamp\".\n2. Click the \"Enable Skill\" button located on this page.\n3. Log into your emberlight account. This is the same login used in the emberlight mobile app.\n4. Say, \"Alexa, discover new devices\". \n5. The individual light names and also the group names will appear under Smart Home in the Alexa app.  You can optionally create groups in the Alexa app as well.\n6. That's it! Now, tell Alexa to turn on the lights!\n\nFor support visit https://www.emberlight.co\n\nThis Alexa skill is powered by BinaryForge.co. \nQuestions, comments, or inquiries? Email hello@binaryforge.co. We'd love to hear from you!",
+  "enablement": null,
+  "exampleInteractions": [
+    null,
+    null,
+    null
+  ],
+  "firstReleaseDate": 1480637124.408,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.cc20ad56-766d-4e5d-bf4b-55dc877d0eb6",
+  "imageAltText": "emberlight icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01M7U7EL7/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": null,
+  "name": "emberlight",
+  "numberOfReviews": 2,
+  "pamsPartnerId": "wkW7jv46V4DhHktzvhaJQuq4V",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.emberlight.co/pages/privacy-policy",
+  "shortDescription": "emberlight Smart Light Socket - Turn any light into a smart light",
+  "skillTypes": [
+    "SMART_HOME"
+  ],
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1WLRSPH5FOSIL",
+  "vendorName": "Binary Forge"
+}

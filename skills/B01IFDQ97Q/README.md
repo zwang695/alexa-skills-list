@@ -1,5 +1,5 @@
 # [Bryant Housewise Thermostat Control](http://alexa.amazon.com/#skills/amzn1.ask.skill.d631520b-b94c-472d-aecc-c38d5107e22a)
-![1.5 stars](../../images/ic_star_black_18dp_1x.png)![1.5 stars](../../images/ic_star_half_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png)![1.5 stars](../../images/ic_star_border_black_18dp_1x.png) 11
+![1.4 stars](../../images/ic_star_black_18dp_1x.png)![1.4 stars](../../images/ic_star_half_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png)![1.4 stars](../../images/ic_star_border_black_18dp_1x.png) 23
 
 With the skill and Alexa, you can now interact with your Bryant® Housewise™ thermostats by voice to control your home comfort.
 

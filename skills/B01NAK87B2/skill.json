@@ -1,0 +1,37 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "google.com",
+    "googleapis.com"
+  ],
+  "asin": "B01NAK87B2",
+  "averageRating": 3.2,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Elderly people and others with difficulty using computers and tablets may prefer a voice interface to review email messages.  This skill is designed to be similar to voice mail, but it can print.  Full instructions are available online at http://email-skill.blogspot.com",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa open my email",
+    "Alexa Ask my email to find messages from the last two weeks",
+    "Alexa Ask my email to find all my starred messages"
+  ],
+  "firstReleaseDate": 1483165193.806,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.bed051c4-26ec-4a31-9656-20d282ab4d95",
+  "imageAltText": "my email icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01NAK87B2/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "my email",
+  "name": "my email",
+  "numberOfReviews": 6,
+  "pamsPartnerId": "Nzr9KDgV4hHhVBmueo4tblCwS",
+  "permissions": null,
+  "privacyPolicyUrl": "http://email-skill.blogspot.com/p/privacy-policy.html",
+  "shortDescription": "Read, manage and print your GMail using your voice",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2WMXUF14L8GG7",
+  "vendorName": "R Onuschak"
+}

@@ -1,0 +1,32 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01N8VCO0Z",
+  "averageRating": 0,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Find out what is on tap at The Lounging Dutchman. \n\nThe Lounging Dutchman is not a real brewery, but the beer is good.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa ask The Lounging Dutchman what is on tap"
+  ],
+  "firstReleaseDate": 1479708320.23,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.08329059-0375-4707-b806-f4209efcbc9c",
+  "imageAltText": "Whats On Tap at The Lounging Dutchman icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N8VCO0Z/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "the lounging dutchman",
+  "name": "Whats On Tap at The Lounging Dutchman",
+  "numberOfReviews": 0,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "What's On Tap at The Lounging Dutchman",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M2N7HMO5LVQGOV",
+  "vendorName": "Mirmillo"
+}

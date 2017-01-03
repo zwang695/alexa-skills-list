@@ -1,0 +1,41 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "identityadapter.services.fandango.com",
+    "mobile.fandango.com",
+    "www.fandango.com",
+    "www.google.com",
+    "fonts.fandango.com",
+    "images.fandango.com"
+  ],
+  "asin": "B01N5FH66U",
+  "averageRating": 2.6,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Fandango is now available on Alexa to make your movie going experience even easier! With the Fandango skill, you can discover new movies, browse movie times and guarantee tickets.\n\nGet started on Alexa by saying, “Alexa, open Fandango.” Alexa will connect you to Fandango to start searching movies and movie times. You can say things like: “Alexa, ask Fandango to search for Rogue One” or, “Alexa, ask Fandango what movies are playing near me?” or, “Alexa, ask Fandango what movies are playing at Regal Cinemas?”\n\nTo buy movie tickets with Alexa, you’ll need a Fandango VIP account. Don’t have a Fandango VIP account? No problem. You can visit fandango.com or the Fandango app to sign up for free. \n\nLearn more about the Fandango skill at www.fandango.com/alexa.",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, Open Fandango",
+    "Alexa, Ask Fandango what's playing at a nearby theater",
+    "Alexa, Ask Fandango to search for Rogue One: A Star Wars Story"
+  ],
+  "firstReleaseDate": 1481836843.428,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.65665004-7009-412b-85dc-4b559fd37196",
+  "imageAltText": "Fandango icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N5FH66U/skill_icon",
+  "inAppPurchasingSupported": true,
+  "launchPhrase": "fandango",
+  "name": "Fandango",
+  "numberOfReviews": 10,
+  "pamsPartnerId": "8NZzoh7iQrppAhxC9jK7yXIrI",
+  "permissions": null,
+  "privacyPolicyUrl": "https://www.fandango.com/policies/privacy-policy",
+  "shortDescription": "Fandango on Alexa makes movie going even easier! With the Fandango skill, you can discover new movies, browse movie times and guarantee tickets.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M1SIC14XB943M1",
+  "vendorName": "Fandango, Inc"
+}

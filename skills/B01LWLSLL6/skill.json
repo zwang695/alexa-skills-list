@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01LWLSLL6",
-  "averageRating": 5,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
   "description": "This skill will provide some of the more popular umpire insults.",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa, ask drunk fan for an insult",
-    "Alexa, ask drunk fan for an umpire insult.",
-    "Alexa, ask drunk fan to tell me an umpire insult."
+    "Alexa Open drunk fan",
+    "Alexa, ask drunk fan for an insult.",
+    "Alexa, ask drunk fan for an umpire insult."
   ],
   "firstReleaseDate": 1474531928.195,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "drunk fan",
   "name": "Umpire Insult",
-  "numberOfReviews": 1,
+  "numberOfReviews": 2,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": null,

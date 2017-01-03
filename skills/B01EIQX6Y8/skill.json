@@ -8,9 +8,9 @@
   "description": "With the TP-LINK Kasa skill and Alexa, you can now interact with your TP-LINK Kasa lights and switches by voice. To get started, select the ‘Enable Skill’ button in the Alexa App to link your TP-LINK Kasa account and discover your device(s). Find more information about connecting Smart Home devices at http://amzn.to/291lR7u.\n\nWhen using the skill, you need to specify by name which device to use. There are two ways to define this/these name(s):\n* Use the name(s) you set up already – these are shown in the TP-LINK Kasa app and can be changed, or\n* Create an Alexa group, like Bedroom or Downstairs, and add the device to the group. More information is available at http://amzn.to/2965dCE.\n\nOnce you know the name or group of your device(s), you can say the following: \n* If you have switches or non-dimmable lights, you can turn them on/off, for example: “Alexa, turn on my Bedroom lights”.\n* If you have dimmable lights, you can change the brightness, for example: “Alexa, brighten Downstairs to 60 percent\", or \"Alexa, dim the Living Room lights\".\n\nIf you have any questions, please visit the TP-LINK Kasa Alexa FAQ at http://bit.ly/290cIcf.",
   "enablement": null,
   "exampleInteractions": [
-    null,
-    null,
-    null
+    "Alexa, turn on Christmas Tree Light",
+    "Alexa, turn on my Bedroom lights",
+    "Alexa, brighten Downstairs to 60 percent"
   ],
   "firstReleaseDate": 1461105908.805,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": null,
   "name": "TP-LINK Kasa",
-  "numberOfReviews": 108,
+  "numberOfReviews": 274,
   "pamsPartnerId": "mluOsPBDjLWEujYiaTMsOstIm",
   "permissions": null,
   "privacyPolicyUrl": "https://www.tplinkcloud.com/PrivacyPolicy.php",

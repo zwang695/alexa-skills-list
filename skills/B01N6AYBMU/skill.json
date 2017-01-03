@@ -1,0 +1,36 @@
+{
+  "accountLinkingWhitelistedDomains": [
+    "skill-account-linking.com"
+  ],
+  "asin": "B01N6AYBMU",
+  "averageRating": 5,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Learn Chinese with ease! In Talk Chineasy for Alexa, ShaoLan and a special guest share interesting stories as they teach you a new Chinese sentence each day. Our amazing guests are experts at what they do, and include rock stars, artists, CEOs, professors, adventurists, scientists, and more. You’ll discover the rich culture behind the most widely spoken language, while you learn how to converse in basic Mandarin Chinese. \n\n\nUse Talk Chineasy to:\n– Learn a new Chinese sentence each day\n– Discover cultural insights and stories\n– Be inspired by our extraordinary guests",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, ask Chineasy for today's lesson.",
+    "Alexa, ask Chineasy what tomorrow's lesson is about.",
+    "Alexa, tell Chineasy to play yesterday's lesson."
+  ],
+  "firstReleaseDate": 1483303726.452,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.4be0b747-0a08-4497-ab91-b4ade4b0193f",
+  "imageAltText": "Chineasy icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01N6AYBMU/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "chineasy",
+  "name": "Chineasy",
+  "numberOfReviews": 3,
+  "pamsPartnerId": "oE2eEOAY42qZNne7yIvEtZBLC",
+  "permissions": null,
+  "privacyPolicyUrl": "https://skill-account-linking.com/chineasy/privacy-policy",
+  "shortDescription": "Learning Chinese is easy with Talk Chineasy for Alexa. Learn a useful Chinese sentence, along with cultural insights and stories, in just 10 minutes every day.",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "MGXFAXU6NOQT3",
+  "vendorName": "Chineasy"
+}

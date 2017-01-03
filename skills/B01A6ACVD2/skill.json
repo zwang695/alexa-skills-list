@@ -1,7 +1,7 @@
 {
   "accountLinkingWhitelistedDomains": [],
   "asin": "B01A6ACVD2",
-  "averageRating": 3.6,
+  "averageRating": 3.5,
   "canDisable": true,
   "capabilities": null,
   "category": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "vivint",
   "name": "Vivint.SmartHome - Complete",
-  "numberOfReviews": 76,
+  "numberOfReviews": 82,
   "pamsPartnerId": "CQsQOkqXwoQiLbJbAJGiTRTgv",
   "permissions": null,
   "privacyPolicyUrl": "http://www.vivint.com/company/policies/privacy",

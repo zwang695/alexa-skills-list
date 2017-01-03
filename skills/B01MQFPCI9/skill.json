@@ -1,0 +1,33 @@
+{
+  "accountLinkingWhitelistedDomains": null,
+  "asin": "B01MQFPCI9",
+  "averageRating": 2.4,
+  "canDisable": true,
+  "capabilities": null,
+  "category": null,
+  "description": "Find the frequency of your local radio stations in U.S. cities",
+  "enablement": null,
+  "exampleInteractions": [
+    "Alexa, open radio stations",
+    "Alexa launch radio stations"
+  ],
+  "firstReleaseDate": 1479369976.525,
+  "homepageLinkText": null,
+  "homepageLinkUrl": null,
+  "id": "amzn1.ask.skill.d5f064c1-1878-4ad3-8c25-7319e1edf74f",
+  "imageAltText": "Radio Locator icon",
+  "imageUrl": "https://github.com/dale3h/alexa-skills-list/raw/master/skills/B01MQFPCI9/skill_icon",
+  "inAppPurchasingSupported": false,
+  "launchPhrase": "radio stations",
+  "name": "Radio Locator",
+  "numberOfReviews": 31,
+  "pamsPartnerId": null,
+  "permissions": null,
+  "privacyPolicyUrl": null,
+  "shortDescription": "Find local radio stations and their frequencies",
+  "skillTypes": null,
+  "stage": "live",
+  "termsOfUseUrl": null,
+  "vendorId": "M3GZVXFZ5Q1DGZ",
+  "vendorName": "MrE"
+}

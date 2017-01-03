@@ -1,16 +1,16 @@
 {
   "accountLinkingWhitelistedDomains": null,
   "asin": "B01M6WJWG4",
-  "averageRating": 5,
+  "averageRating": 4,
   "canDisable": true,
   "capabilities": null,
   "category": null,
-  "description": "- Ask alexa for the latest news on any topic, and instantly get a live update of recent, relevant news from the best news outlets, radio stations and podcasts in the world.  \n- Use Alexa to stay up to date on any topic just by asking alexa for \"\"The latest on ____\"\".  Alexa will fire back with audio-bursts from top newscasts and radio stations, in a close-to-live response time.\n\n- An email address is required during installation for personalization and updates - we will not use your email for any other reason.\n- For more information on the skill, contact us via info@audioburst.com, or the comments section!\n- Newsfeed is an Alexa skill developed by Audioburst.\"",
+  "description": "Ask ’News Feed’ for the latest on any topic and get live updates from the best news outlets, radio stations and podcasts in the world. \n\nWhen you first open News Feed Alexa will start playing your daily Top Stories - a selection of short live audio bursts selected from the most trusted and relevant audio sources. You can say \"Next\" to skip between each audio burst. \n\nHave a specific question in mind? Need to get the latest on your favorite NBA player? Just ask News Feed \"what's the latest on\" and your topic and get fresh, audio bursts in a close-to-live response time.\n\nAn email address is required during installation for personalization and updates - we will not use your email for any other reason.\n\nFor more information, feedback or just to say hello - info@audioburst.com. Let us know what you think about News Feed in the comments section.\n\nNews Feed is an Alexa skill developed by AudioBurst",
   "enablement": null,
   "exampleInteractions": [
-    "Alexa Ask News Feed What is the latest on the presidential elections",
-    "What's the latest on Wall Street",
-    "Latest news on LeBron James"
+    "Alexa Ask News Feed What's the latest on Donald Trump",
+    "Any news on Lebron James",
+    "Play my top stories"
   ],
   "firstReleaseDate": 1477462498.108,
   "homepageLinkText": null,
@@ -21,7 +21,7 @@
   "inAppPurchasingSupported": false,
   "launchPhrase": "news feed",
   "name": "News Feed",
-  "numberOfReviews": 2,
+  "numberOfReviews": 5,
   "pamsPartnerId": null,
   "permissions": null,
   "privacyPolicyUrl": "https://www.audioburst.com/pages/privacy",
