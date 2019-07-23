@@ -20,5 +20,5 @@ The Ski Ward Snow Report brought to you by SnoCountry brings you the latest snow
 * **ID:** amzn1.ask.skill.8feb6dd8-00d6-43db-bb68-d8852af12552
 * **ASIN:** B01MSP36KW
 * **Author:** SnoCountry
-* **Release Date:** November 22, 2016 @ 08:36:35
+* **Release Date:** November 22, 2016 @ 09:36:35
 * **In-App Purchasing:** No

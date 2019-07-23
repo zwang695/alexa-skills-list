@@ -26,7 +26,7 @@ It can prepare and email your health summary which you can share with your docto
 * **ID:** amzn1.ask.skill.065dd48f-bcdc-410b-a4e5-a23421d1b0fb
 * **ASIN:** B01NAAJ43F
 * **Author:** Appemble LLC
-* **Release Date:** December 13, 2016 @ 00:50:06
+* **Release Date:** December 13, 2016 @ 01:50:06
 * **Privacy Policy:** https://www.mynursebot.com/privacypolicy.html
 * **Terms of Use:** https://www.mynursebot.com/eula.html
 * **In-App Purchasing:** No

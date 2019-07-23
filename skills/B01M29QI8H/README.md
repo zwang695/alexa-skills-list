@@ -21,6 +21,6 @@ There are no guarantees on correctness
 * **ID:** amzn1.ask.skill.b36bf068-b2d4-4d2f-b3ef-f8bc1289147d
 * **ASIN:** B01M29QI8H
 * **Author:** CKundel
-* **Release Date:** November 2, 2016 @ 08:42:55
+* **Release Date:** November 2, 2016 @ 09:42:55
 * **Privacy Policy:** http://ckundel.de/alexa/privacy.html
 * **In-App Purchasing:** No

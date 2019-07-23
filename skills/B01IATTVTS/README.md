@@ -20,5 +20,5 @@ Dubai is a city in the United Arab emirates known for its luxury, hotels, rich h
 * **ID:** amzn1.echo-sdk-ams.app.316751b8-b230-49d6-ae7c-a8ca3264cd4f
 * **ASIN:** B01IATTVTS
 * **Author:** iamsanch
-* **Release Date:** July 13, 2016 @ 05:27:30
+* **Release Date:** July 13, 2016 @ 06:27:30
 * **In-App Purchasing:** No

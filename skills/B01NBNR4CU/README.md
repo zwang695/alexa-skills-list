@@ -24,5 +24,5 @@ Find out more things about Stevens Point, WI by using this skill.
 * **ID:** amzn1.ask.skill.68a2de68-423a-43ba-8cea-9df8a5e59ec3
 * **ASIN:** B01NBNR4CU
 * **Author:** designedbyRaz
-* **Release Date:** December 25, 2016 @ 06:18:47
+* **Release Date:** December 25, 2016 @ 07:18:47
 * **In-App Purchasing:** No

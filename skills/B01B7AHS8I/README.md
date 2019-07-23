@@ -24,5 +24,5 @@ Simply say: "Alexa, open The Law!"
 * **ID:** amzn1.echo-sdk-ams.app.3e2ce841-fa50-412a-a1c0-887df2585aa8
 * **ASIN:** B01B7AHS8I
 * **Author:** Troogle
-* **Release Date:** January 28, 2016 @ 23:36:13
+* **Release Date:** January 29, 2016 @ 00:36:13
 * **In-App Purchasing:** No

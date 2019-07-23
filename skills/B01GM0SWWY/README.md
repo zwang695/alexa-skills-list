@@ -20,5 +20,5 @@ Ask WeirdFacter for a weird fact, and you'll get a weird fact. Try it!
 * **ID:** amzn1.echo-sdk-ams.app.a0ef1aae-d4cc-4fa9-a0cc-fa2ebce66464
 * **ASIN:** B01GM0SWWY
 * **Author:** AWzone
-* **Release Date:** June 7, 2016 @ 10:08:30
+* **Release Date:** June 7, 2016 @ 11:08:30
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ National Day Tracker is an app designed to always keep you up to date on nationa
 * **ID:** amzn1.echo-sdk-ams.app.71fe4a83-a8b7-4e1e-8cad-c0ebeb730279
 * **ASIN:** B01EWF3K3W
 * **Author:** Diamond Fork Software
-* **Release Date:** May 25, 2016 @ 07:08:33
+* **Release Date:** May 25, 2016 @ 08:08:33
 * **In-App Purchasing:** No

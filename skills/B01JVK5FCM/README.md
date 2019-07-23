@@ -22,5 +22,5 @@ Whether you're a designer who needs a little reminding, or someone who just like
 * **ID:** amzn1.ask.skill.562c8e15-b9f1-4cbe-a5fc-d11cb0cc842a
 * **ASIN:** B01JVK5FCM
 * **Author:** Batool
-* **Release Date:** August 9, 2016 @ 04:37:30
+* **Release Date:** August 9, 2016 @ 05:37:30
 * **In-App Purchasing:** No

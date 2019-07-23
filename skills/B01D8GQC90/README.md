@@ -20,7 +20,7 @@ Positive affirmations repeated regularly are said to reflect your life.  Whateve
 * **ID:** amzn1.echo-sdk-ams.app.af25c298-d5de-459a-811c-9b30847e8e91
 * **ASIN:** B01D8GQC90
 * **Author:** NTP
-* **Release Date:** March 21, 2016 @ 04:05:25
+* **Release Date:** March 21, 2016 @ 05:05:25
 * **Privacy Policy:** http://www.ntpdev.com/privacypolicy.htm
 * **Terms of Use:** http://www.ntpdev.com/TermsOfUse.html
 * **In-App Purchasing:** No

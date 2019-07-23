@@ -20,5 +20,5 @@ Fun facts about Donald Trump and Hillary Clinton.  Get a different fact every ti
 * **ID:** amzn1.ask.skill.97899578-48c7-45f2-a600-3ca8e63f2405
 * **ASIN:** B01LZJ93HM
 * **Author:** GeezerNetwork
-* **Release Date:** October 5, 2016 @ 00:13:16
+* **Release Date:** October 5, 2016 @ 01:13:16
 * **In-App Purchasing:** No

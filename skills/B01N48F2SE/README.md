@@ -20,5 +20,5 @@ Have Alexa speak to you inspirational Bible verses when you most need the encour
 * **ID:** amzn1.ask.skill.1fcc059f-c4c7-49f9-bad7-e989283366ab
 * **ASIN:** B01N48F2SE
 * **Author:** Kyle Hayes
-* **Release Date:** December 1, 2016 @ 09:35:27
+* **Release Date:** December 1, 2016 @ 10:35:27
 * **In-App Purchasing:** No

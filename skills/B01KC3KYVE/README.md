@@ -22,5 +22,5 @@ The list of items will be added from times to times, please check back frequentl
 * **ID:** amzn1.ask.skill.667af6ed-8a8c-4e04-85e5-da57d237fccc
 * **ASIN:** B01KC3KYVE
 * **Author:** N/A
-* **Release Date:** August 17, 2016 @ 06:52:44
+* **Release Date:** August 17, 2016 @ 07:52:44
 * **In-App Purchasing:** No

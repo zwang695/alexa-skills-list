@@ -20,5 +20,5 @@ This is 5 questions quiz to answer the capitals of countries. Helps one to learn
 * **ID:** amzn1.ask.skill.d97525ba-9c58-4636-998e-827cb94bcc02
 * **ASIN:** B01M9B9R3I
 * **Author:** RajeevGM
-* **Release Date:** October 22, 2016 @ 02:42:50
+* **Release Date:** October 22, 2016 @ 03:42:50
 * **In-App Purchasing:** No

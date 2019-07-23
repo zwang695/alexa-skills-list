@@ -20,5 +20,5 @@ This really is about being narcissistic with this first Echo app. No one in the 
 * **ID:** amzn1.echo-sdk-ams.app.dfbdabb0-7c16-4872-85de-b6e287cc4745
 * **ASIN:** B01E24GB9I
 * **Author:** Enterprise Code Corp
-* **Release Date:** April 12, 2016 @ 02:02:29
+* **Release Date:** April 12, 2016 @ 03:02:29
 * **In-App Purchasing:** No

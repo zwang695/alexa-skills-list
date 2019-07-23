@@ -20,5 +20,5 @@ Mindfulness Quotes provides random mindfulness quotes on demand to help calm and
 * **ID:** amzn1.ask.skill.a0e56051-8472-4271-9423-670750ba1972
 * **ASIN:** B01N7BEHXX
 * **Author:** Duke mDev
-* **Release Date:** November 29, 2016 @ 04:05:36
+* **Release Date:** November 29, 2016 @ 05:05:36
 * **In-App Purchasing:** No

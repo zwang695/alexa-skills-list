@@ -20,5 +20,5 @@ Interested in learning more about desserts? Ask Alexa about some fun facts. Hear
 * **ID:** amzn1.echo-sdk-ams.app.096b6818-fc00-4ca8-93f9-83fd578dad56
 * **ASIN:** B01HUFE1EI
 * **Author:** SYF
-* **Release Date:** July 5, 2016 @ 05:57:30
+* **Release Date:** July 5, 2016 @ 06:57:30
 * **In-App Purchasing:** No

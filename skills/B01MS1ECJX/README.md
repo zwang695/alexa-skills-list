@@ -20,5 +20,5 @@ Football facts on demand for the stat-oriented viewer, providing information abo
 * **ID:** amzn1.ask.skill.43484e59-bdf5-4dc3-8829-11d748fe0e60
 * **ASIN:** B01MS1ECJX
 * **Author:** Pilot
-* **Release Date:** December 28, 2016 @ 05:49:14
+* **Release Date:** December 28, 2016 @ 06:49:14
 * **In-App Purchasing:** No

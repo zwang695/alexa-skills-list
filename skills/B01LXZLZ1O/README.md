@@ -20,5 +20,5 @@ The Sunshine Village Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.3a1d29e0-5e6b-4620-80dd-c348a1f815f3
 * **ASIN:** B01LXZLZ1O
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:46:33
+* **Release Date:** October 20, 2016 @ 04:46:33
 * **In-App Purchasing:** No

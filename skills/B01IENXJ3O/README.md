@@ -20,5 +20,5 @@ this is a fun guessing game to learn about the planets in the solar system. This
 * **ID:** amzn1.echo-sdk-ams.app.e9330856-e162-474b-9843-3ffa9b4f1cde
 * **ASIN:** B01IENXJ3O
 * **Author:** Sakshum
-* **Release Date:** July 20, 2016 @ 06:27:32
+* **Release Date:** July 20, 2016 @ 07:27:32
 * **In-App Purchasing:** No

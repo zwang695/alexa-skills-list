@@ -20,5 +20,5 @@ The Keystone Resort Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.2b0f91eb-1f8b-4a96-aa83-1aac6241a703
 * **ASIN:** B01M1C4A8L
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:44:00
+* **Release Date:** October 19, 2016 @ 11:44:00
 * **In-App Purchasing:** No

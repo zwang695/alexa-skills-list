@@ -20,5 +20,5 @@ Are you interested in world holidays? Rely on World Holidays for dozens of world
 * **ID:** amzn1.echo-sdk-ams.app.04804500-f525-41b9-bd52-10ee804af859
 * **ASIN:** B01G106OF2
 * **Author:** Appbly.com
-* **Release Date:** May 25, 2016 @ 06:38:34
+* **Release Date:** May 25, 2016 @ 07:38:34
 * **In-App Purchasing:** No

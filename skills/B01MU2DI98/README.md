@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.c3c32c35-d6fe-496f-b4bc-a2d03ad06edf
 * **ASIN:** B01MU2DI98
 * **Author:** Aaron Redmond
-* **Release Date:** December 21, 2016 @ 08:49:28
+* **Release Date:** December 21, 2016 @ 09:49:28
 * **In-App Purchasing:** No

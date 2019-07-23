@@ -20,5 +20,5 @@ The Chestnut Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.727a295b-6e9d-44b5-9e7f-e920711a1b1e
 * **ASIN:** B01M4LH7KO
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:17:02
+* **Release Date:** October 21, 2016 @ 15:17:02
 * **In-App Purchasing:** No

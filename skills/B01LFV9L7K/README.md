@@ -20,5 +20,5 @@ just open the skill and ask question about how to build a scrambling and it will
 * **ID:** amzn1.ask.skill.7bfd17d1-d3dc-4975-b763-61f7ff04ea2e
 * **ASIN:** B01LFV9L7K
 * **Author:** Zealinz
-* **Release Date:** September 3, 2016 @ 03:03:29
+* **Release Date:** September 3, 2016 @ 04:03:29
 * **In-App Purchasing:** No

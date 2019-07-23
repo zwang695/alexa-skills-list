@@ -20,5 +20,5 @@ Tasked with picking someone up from the airport? Just get their flight number an
 * **ID:** amzn1.ask.skill.db529a66-e59a-47c4-a1cb-56aff233c382
 * **ASIN:** B01N2VRFS2
 * **Author:** Nolan Clark
-* **Release Date:** December 22, 2016 @ 08:49:10
+* **Release Date:** December 22, 2016 @ 09:49:10
 * **In-App Purchasing:** No

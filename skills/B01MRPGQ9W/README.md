@@ -24,5 +24,5 @@ etc.
 * **ID:** amzn1.ask.skill.3faa9c65-2754-40d5-ba61-41f51761c82b
 * **ASIN:** B01MRPGQ9W
 * **Author:** NPK Mobile
-* **Release Date:** November 26, 2016 @ 02:35:48
+* **Release Date:** November 26, 2016 @ 03:35:48
 * **In-App Purchasing:** No

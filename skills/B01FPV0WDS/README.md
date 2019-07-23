@@ -20,5 +20,5 @@ Simple Demo for a hack night. If you ask Alexa to flip the relay you will toggle
 * **ID:** amzn1.echo-sdk-ams.app.b01e4da5-4d8c-4224-a7e7-5398e5fa6730
 * **ASIN:** B01FPV0WDS
 * **Author:** Ovc
-* **Release Date:** June 3, 2016 @ 05:38:46
+* **Release Date:** June 3, 2016 @ 06:38:46
 * **In-App Purchasing:** No

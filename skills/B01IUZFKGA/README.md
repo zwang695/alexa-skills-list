@@ -56,5 +56,5 @@ If you need help or you want to cancel or stop, just say it!
 * **ID:** amzn1.ask.skill.46d33ca2-e613-4c60-ba70-0cedf88f6b0c
 * **ASIN:** B01IUZFKGA
 * **Author:** Mahika Gupta
-* **Release Date:** July 27, 2016 @ 09:56:58
+* **Release Date:** July 27, 2016 @ 10:56:58
 * **In-App Purchasing:** No

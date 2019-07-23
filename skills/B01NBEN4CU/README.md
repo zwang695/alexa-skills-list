@@ -22,5 +22,5 @@ Use this skill to get some insights about the beautiful reptiles.
 * **ID:** amzn1.ask.skill.b78d08b5-8165-4ed1-86d0-cb1cd848f939
 * **ASIN:** B01NBEN4CU
 * **Author:** abhi
-* **Release Date:** December 1, 2016 @ 05:05:08
+* **Release Date:** December 1, 2016 @ 06:05:08
 * **In-App Purchasing:** No

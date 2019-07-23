@@ -20,5 +20,5 @@ The Hurricane Ridge Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.0a7eb295-5045-4cde-aa91-086588979643
 * **ASIN:** B01LZAC65N
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:14:12
+* **Release Date:** October 19, 2016 @ 12:14:12
 * **In-App Purchasing:** No

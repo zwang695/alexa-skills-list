@@ -20,5 +20,5 @@ When we ask Alexa to tell a bar joke, Alexa will tell a random walk-into-a-bar j
 * **ID:** amzn1.ask.skill.e03f2f63-b800-42d4-8170-3344ac2afa41
 * **ASIN:** B01N481M86
 * **Author:** Danny co
-* **Release Date:** December 5, 2016 @ 05:35:15
+* **Release Date:** December 5, 2016 @ 06:35:15
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a list list of interesting insect facts.
 * **ID:** amzn1.echo-sdk-ams.app.9725cd37-61c9-45d7-b5f6-66dc1769ef44
 * **ASIN:** B01H1R1CNI
 * **Author:** Sean
-* **Release Date:** June 16, 2016 @ 07:15:32
+* **Release Date:** June 16, 2016 @ 08:15:32
 * **In-App Purchasing:** No

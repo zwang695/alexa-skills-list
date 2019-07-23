@@ -20,5 +20,5 @@ The universe is much larger than you can possibly ever imagine. Alexa will spit 
 * **ID:** amzn1.echo-sdk-ams.app.73091661-da06-44c8-bfac-2ee89b9b83ca
 * **ASIN:** B01GUG0DOU
 * **Author:** mehtaculous
-* **Release Date:** June 10, 2016 @ 07:09:38
+* **Release Date:** June 10, 2016 @ 08:09:38
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask alexa for a joke. All jokes are based on US states.  For example say "Alexa,
 * **ID:** amzn1.ask.skill.1dbea444-11ca-4c65-867a-02cfca0c249a
 * **ASIN:** B01M0XHLOW
 * **Author:** Beau Rushton
-* **Release Date:** October 5, 2016 @ 00:13:10
+* **Release Date:** October 5, 2016 @ 01:13:10
 * **In-App Purchasing:** No

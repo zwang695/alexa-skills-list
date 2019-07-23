@@ -20,5 +20,5 @@ Is your lore of the Dark Brotherhood up to par?  Test your knowledge by playing 
 * **ID:** amzn1.echo-sdk-ams.app.da64bac1-78a7-4b8a-beae-ed8571d40381
 * **ASIN:** B01GD7UQ1Q
 * **Author:** mastash3ff
-* **Release Date:** June 3, 2016 @ 09:08:30
+* **Release Date:** June 3, 2016 @ 10:08:30
 * **In-App Purchasing:** No

@@ -25,5 +25,5 @@ Note: You'll need a Raspberry Pi to make your own.
 * **ID:** amzn1.echo-sdk-ams.app.f301f81c-ad1d-4cb5-904d-892a5cc31d3e
 * **ASIN:** B01HR2AJ8Q
 * **Author:** Alan Zhang
-* **Release Date:** August 18, 2016 @ 07:52:16
+* **Release Date:** August 18, 2016 @ 08:52:16
 * **In-App Purchasing:** No

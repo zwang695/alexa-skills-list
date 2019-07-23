@@ -22,5 +22,5 @@ _Not affiliated with the NBA, Golden State Warriors, or any other NBA team _
 * **ID:** amzn1.ask.skill.5c631418-e607-4287-bcbf-5c290d880062
 * **ASIN:** B01KPD1FKU
 * **Author:** dilraj
-* **Release Date:** August 24, 2016 @ 05:32:00
+* **Release Date:** August 24, 2016 @ 06:32:00
 * **In-App Purchasing:** No

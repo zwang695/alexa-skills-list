@@ -23,7 +23,7 @@ If You Like It Please Show Your Love and Rate This Skill.
 * **ID:** amzn1.echo-sdk-ams.app.c3d2c07c-9186-480b-9fcf-84052a0cc08f
 * **ASIN:** B01CPBFDH6
 * **Author:** COMM
-* **Release Date:** March 8, 2016 @ 07:07:27
+* **Release Date:** March 8, 2016 @ 08:07:27
 * **Privacy Policy:** http://commpublishing.com/privacy-policy
 * **Terms of Use:** http://commpublishing.com/terms-of-use
 * **In-App Purchasing:** No

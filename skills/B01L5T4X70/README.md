@@ -22,5 +22,5 @@ More facts to be added over time.
 * **ID:** amzn1.ask.skill.314ab13d-8c80-40db-ad8c-72d4805ca21f
 * **ASIN:** B01L5T4X70
 * **Author:** chrisdats
-* **Release Date:** August 30, 2016 @ 02:32:43
+* **Release Date:** August 30, 2016 @ 03:32:43
 * **In-App Purchasing:** No

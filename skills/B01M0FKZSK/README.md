@@ -16,5 +16,5 @@ Learn random facts to make you seem smarter in conversations.
 * **ID:** amzn1.ask.skill.e1d4c09a-e0b1-4381-b591-83126eef5673
 * **ASIN:** B01M0FKZSK
 * **Author:** Jarrod LaRocco
-* **Release Date:** September 16, 2016 @ 04:11:45
+* **Release Date:** September 16, 2016 @ 05:11:45
 * **In-App Purchasing:** No

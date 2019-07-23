@@ -20,5 +20,5 @@ Get a quick pop culture fix by asking for a random movie quote.
 * **ID:** amzn1.ask.skill.21ba88f7-11d1-4c49-8c70-5073da600ea6
 * **ASIN:** B01N0KYLDW
 * **Author:** Reductive Media
-* **Release Date:** December 2, 2016 @ 23:35:35
+* **Release Date:** December 3, 2016 @ 00:35:35
 * **In-App Purchasing:** No

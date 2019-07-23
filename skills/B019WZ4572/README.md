@@ -20,5 +20,5 @@ Conversation Starter is a great way to get suggested conversation topics for you
 * **ID:** amzn1.echo-sdk-ams.app.82ece337-c1c5-400e-8a95-34b58c3d79b8
 * **ASIN:** B019WZ4572
 * **Author:** Haxio
-* **Release Date:** December 28, 2015 @ 15:50:52
+* **Release Date:** December 28, 2015 @ 16:50:52
 * **In-App Purchasing:** No

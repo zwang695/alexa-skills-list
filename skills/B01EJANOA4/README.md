@@ -20,5 +20,5 @@ Cat Fact will tell you over 100 interesting things about cats. This skill will g
 * **ID:** amzn1.echo-sdk-ams.app.c67042d2-4546-49ad-bfb5-f8d73db0a20e
 * **ASIN:** B01EJANOA4
 * **Author:** Alistair Wong
-* **Release Date:** April 26, 2016 @ 08:38:36
+* **Release Date:** April 26, 2016 @ 09:38:36
 * **In-App Purchasing:** No

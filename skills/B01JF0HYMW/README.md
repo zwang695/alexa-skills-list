@@ -20,5 +20,5 @@ Sharing simple design principles that drive design success
 * **ID:** amzn1.ask.skill.4ac0cddc-f2ec-4beb-8aa0-dd80000e4fff
 * **ASIN:** B01JF0HYMW
 * **Author:** StoneTomato
-* **Release Date:** August 9, 2016 @ 02:37:40
+* **Release Date:** August 9, 2016 @ 03:37:40
 * **In-App Purchasing:** No

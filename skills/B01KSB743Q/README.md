@@ -23,5 +23,5 @@ As stated above some of the compliments can be sour, as in this is not a skill f
 * **ID:** amzn1.ask.skill.da0e446e-646c-47ef-8fcc-8b364172cfc4
 * **ASIN:** B01KSB743Q
 * **Author:** Keren Tseytlin
-* **Release Date:** August 26, 2016 @ 04:32:52
+* **Release Date:** August 26, 2016 @ 05:32:52
 * **In-App Purchasing:** No

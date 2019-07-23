@@ -20,5 +20,5 @@ get facts on mushrooms
 * **ID:** amzn1.ask.skill.98398f25-ea7b-425e-8be6-1cd2c136e2ad
 * **ASIN:** B01J4JWHP8
 * **Author:** ElanidKite
-* **Release Date:** July 28, 2016 @ 01:56:43
+* **Release Date:** July 28, 2016 @ 02:56:43
 * **In-App Purchasing:** No

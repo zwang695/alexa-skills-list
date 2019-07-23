@@ -24,7 +24,7 @@ All prices come with the lowest recent price found for the route and dates, the 
 * **ID:** amzn1.ask.skill.5f8671e3-249d-488e-b64c-9fbcaf7021cf
 * **ASIN:** B01LZ93OVC
 * **Author:** Skyscanner.net
-* **Release Date:** September 28, 2016 @ 15:33:24
+* **Release Date:** September 28, 2016 @ 16:33:24
 * **Privacy Policy:** http://www.skyscanner.net/privacypolicy.aspx
 * **Terms of Use:** http://www.skyscanner.net/termsofservice.aspx
 * **In-App Purchasing:** No

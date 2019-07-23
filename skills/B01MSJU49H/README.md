@@ -20,7 +20,7 @@ Keep up with current rates by checking Azimo. Simply say "Alexa, ask Azimo for a
 * **ID:** amzn1.ask.skill.7289f169-f079-4f28-b0a9-e623dbd36ee2
 * **ASIN:** B01MSJU49H
 * **Author:** Azimo
-* **Release Date:** November 21, 2016 @ 23:35:18
+* **Release Date:** November 22, 2016 @ 00:35:18
 * **Privacy Policy:** https://azimo.com/en/privacy-policy
 * **Terms of Use:** https://azimo.com/en/terms-and-conditions
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Get unknown and interesting facts about the State of Maryland, USA. This app is 
 * **ID:** amzn1.ask.skill.1583adf9-0c31-46f3-b6af-1116403d2938
 * **ASIN:** B01N1WKU31
 * **Author:** Darpan Shah
-* **Release Date:** December 29, 2016 @ 04:20:13
+* **Release Date:** December 29, 2016 @ 05:20:13
 * **In-App Purchasing:** No

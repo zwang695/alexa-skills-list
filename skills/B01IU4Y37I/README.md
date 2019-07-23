@@ -53,5 +53,5 @@ start new game
 * **ID:** amzn1.ask.skill.0b763eba-7616-4602-9019-754abbf535b2
 * **ASIN:** B01IU4Y37I
 * **Author:** Mahika Gupta
-* **Release Date:** July 25, 2016 @ 01:26:34
+* **Release Date:** July 25, 2016 @ 02:26:34
 * **In-App Purchasing:** No

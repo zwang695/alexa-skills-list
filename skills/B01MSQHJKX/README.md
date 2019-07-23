@@ -24,7 +24,7 @@ This skill is in no way associated with, nor endorsed by Evernote or Microsoft.
 * **ID:** amzn1.ask.skill.ceff470e-481c-4c69-ba89-769c320ed340
 * **ASIN:** B01MSQHJKX
 * **Author:** Atadore SARL
-* **Release Date:** November 30, 2016 @ 01:36:13
+* **Release Date:** November 30, 2016 @ 02:36:13
 * **Privacy Policy:** https://s3.amazonaws.com/com.atadore.alexanote/pp.txt
 * **Terms of Use:** https://s3.amazonaws.com/com.atadore.alexanote/tos.txt
 * **Account Linking Domains:** www.evernote.com, login.live.com, account.live.com

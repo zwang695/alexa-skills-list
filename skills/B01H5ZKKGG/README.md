@@ -22,6 +22,6 @@ Lee Hecht Harrison helps companies simplify the complexity associated with trans
 * **ID:** amzn1.echo-sdk-ams.app.456fc638-ab37-4063-ba2c-b76f7207e697
 * **ASIN:** B01H5ZKKGG
 * **Author:** LHH
-* **Release Date:** June 23, 2016 @ 02:47:06
+* **Release Date:** June 23, 2016 @ 03:47:06
 * **Privacy Policy:** http://www.lhh.com/privacy-policy
 * **In-App Purchasing:** No

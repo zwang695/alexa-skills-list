@@ -30,5 +30,5 @@ Sources: Arlington County, Huffington Post, Google Civic API, Federal Election C
 * **ID:** amzn1.ask.skill.ee65f684-4d9d-48db-9335-45f00b611a74
 * **ASIN:** B01LFJ9R5S
 * **Author:** css
-* **Release Date:** September 3, 2016 @ 02:03:33
+* **Release Date:** September 3, 2016 @ 03:03:33
 * **In-App Purchasing:** No

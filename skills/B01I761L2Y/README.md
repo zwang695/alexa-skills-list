@@ -22,5 +22,5 @@ Provides a random Power Rangers fact.
 * **ID:** amzn1.echo-sdk-ams.app.bbdff979-2717-4977-9014-9a1e727601cd
 * **ASIN:** B01I761L2Y
 * **Author:** vsmalladi
-* **Release Date:** July 11, 2016 @ 05:27:31
+* **Release Date:** July 11, 2016 @ 06:27:31
 * **In-App Purchasing:** No

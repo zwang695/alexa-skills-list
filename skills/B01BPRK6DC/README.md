@@ -22,7 +22,7 @@ Powered by TfL Open Data.
 * **ID:** amzn1.echo-sdk-ams.app.b6cfbb3b-f6d2-4bdd-95cf-fa58b25e35bd
 * **ASIN:** B01BPRK6DC
 * **Author:** Simon Cross
-* **Release Date:** February 12, 2016 @ 18:22:34
+* **Release Date:** February 12, 2016 @ 19:22:34
 * **Privacy Policy:** http://www.tfl.gov.uk/corporate/terms-and-conditions/transport-data-service
 * **Terms of Use:** http://www.tfl.gov.uk/corporate/terms-and-conditions/transport-data-service
 * **In-App Purchasing:** No

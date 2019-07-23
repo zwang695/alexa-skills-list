@@ -20,5 +20,5 @@ Facts about the Pokemon, Wailord.
 * **ID:** amzn1.ask.skill.1c710624-d689-45b9-8b99-b20647750035
 * **ASIN:** B01NH0XOX1
 * **Author:** Lady Whaleton
-* **Release Date:** January 2, 2017 @ 05:49:10
+* **Release Date:** January 2, 2017 @ 06:49:10
 * **In-App Purchasing:** No

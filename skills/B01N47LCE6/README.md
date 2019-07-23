@@ -24,5 +24,5 @@ More terms will be added on a  regular basis to expand the scope of questions fo
 * **ID:** amzn1.ask.skill.76f2796e-c8b3-4f86-b049-91005076e429
 * **ASIN:** B01N47LCE6
 * **Author:** PeytonAdell
-* **Release Date:** December 2, 2016 @ 07:05:29
+* **Release Date:** December 2, 2016 @ 08:05:29
 * **In-App Purchasing:** No

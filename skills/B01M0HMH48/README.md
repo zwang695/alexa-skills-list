@@ -16,5 +16,5 @@ This trivia game is filled with really random questions. If you feel like testin
 * **ID:** amzn1.ask.skill.5bd5d294-ce53-4dbd-827f-0975b0b3b494
 * **ASIN:** B01M0HMH48
 * **Author:** Yvonne Uwah
-* **Release Date:** September 21, 2016 @ 00:43:29
+* **Release Date:** September 21, 2016 @ 01:43:29
 * **In-App Purchasing:** No

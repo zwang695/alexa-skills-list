@@ -20,5 +20,5 @@ Fun facts about Austin, TX
 * **ID:** amzn1.ask.skill.01fe49cc-a93b-4b46-a401-3fc4a2770a78
 * **ASIN:** B01MZ43OMB
 * **Author:** Penguin
-* **Release Date:** December 30, 2016 @ 00:49:40
+* **Release Date:** December 30, 2016 @ 01:49:40
 * **In-App Purchasing:** No

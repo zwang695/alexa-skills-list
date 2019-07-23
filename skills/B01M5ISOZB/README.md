@@ -20,5 +20,5 @@ First published in 1975, the Oblique Strategies are a collection of brief aphori
 * **ID:** amzn1.ask.skill.fb698def-a648-4b4b-9168-40b9db152f86
 * **ASIN:** B01M5ISOZB
 * **Author:** Major Version
-* **Release Date:** November 2, 2016 @ 09:14:00
+* **Release Date:** November 2, 2016 @ 10:14:00
 * **In-App Purchasing:** No

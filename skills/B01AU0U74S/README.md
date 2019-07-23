@@ -34,6 +34,6 @@ To use the TDV (Teen Dating Violence) Quiz skill, try saying...
 * **ID:** amzn1.echo-sdk-ams.app.e689c20a-b058-4c2e-9d78-3fe91956fd38
 * **ASIN:** B01AU0U74S
 * **Author:** Jennifer Ann's Group
-* **Release Date:** January 19, 2016 @ 18:00:40
+* **Release Date:** January 19, 2016 @ 19:00:40
 * **Privacy Policy:** http://JenniferAnn.org/privacy
 * **In-App Purchasing:** No

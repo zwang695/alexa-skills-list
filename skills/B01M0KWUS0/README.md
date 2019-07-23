@@ -22,5 +22,5 @@ This application's goal is to teach you a bit more about the curious art of knit
 * **ID:** amzn1.ask.skill.b7ba8258-d1fe-4f91-b149-af2a6a99970b
 * **ASIN:** B01M0KWUS0
 * **Author:** Nerus
-* **Release Date:** October 5, 2016 @ 00:13:24
+* **Release Date:** October 5, 2016 @ 01:13:24
 * **In-App Purchasing:** No

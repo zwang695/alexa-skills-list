@@ -22,5 +22,5 @@ To know about India, India's state and capital and amazing facts about India. We
 * **ID:** amzn1.echo-sdk-ams.app.60ed1ee7-1b8a-4216-b485-37a3c62ec6c6
 * **ASIN:** B01HLODGXU
 * **Author:** Selvakumar
-* **Release Date:** July 8, 2016 @ 02:27:35
+* **Release Date:** July 8, 2016 @ 03:27:35
 * **In-App Purchasing:** No

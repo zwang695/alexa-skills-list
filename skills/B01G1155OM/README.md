@@ -20,5 +20,5 @@ DebateTopic is a debate topic generator which can give you a randomly generated 
 * **ID:** amzn1.echo-sdk-ams.app.79df9daa-0fc1-4bfa-b52e-bc112ede768d
 * **ASIN:** B01G1155OM
 * **Author:** J 
-* **Release Date:** May 26, 2016 @ 10:08:44
+* **Release Date:** May 26, 2016 @ 11:08:44
 * **In-App Purchasing:** No

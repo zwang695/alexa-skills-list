@@ -20,5 +20,5 @@ To start playing Geek Trivia just say “Alexa, ask a geek.”  Alexa will ask y
 * **ID:** amzn1.echo-sdk-ams.app.3fe76d44-d92f-4c16-a9b3-79dd944fd726
 * **ASIN:** B01C9K7JBG
 * **Author:** Yeti Media
-* **Release Date:** February 26, 2016 @ 18:10:02
+* **Release Date:** February 26, 2016 @ 19:10:02
 * **In-App Purchasing:** No

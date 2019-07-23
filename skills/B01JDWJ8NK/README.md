@@ -20,5 +20,5 @@ Sharpen your tongue while you sharpen your sword with this Monkey Island-style i
 * **ID:** amzn1.ask.skill.f55c22b5-1f98-4b2a-b268-67d374733175
 * **ASIN:** B01JDWJ8NK
 * **Author:** John Carney
-* **Release Date:** August 5, 2016 @ 01:37:48
+* **Release Date:** August 5, 2016 @ 02:37:48
 * **In-App Purchasing:** No

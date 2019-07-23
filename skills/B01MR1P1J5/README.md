@@ -20,5 +20,5 @@ Ask Alexa to tell you facts about Newport Beach, California.
 * **ID:** amzn1.ask.skill.eb8cacac-2916-47ec-bf11-a13ef08805fb
 * **ASIN:** B01MR1P1J5
 * **Author:** Andrew Khoury
-* **Release Date:** January 2, 2017 @ 23:19:50
+* **Release Date:** January 3, 2017 @ 00:19:50
 * **In-App Purchasing:** No

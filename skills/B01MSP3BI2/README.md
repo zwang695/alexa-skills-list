@@ -20,5 +20,5 @@ The Echo Mountain (Front Range Ski Club) Snow Report brought to you by SnoCountr
 * **ID:** amzn1.ask.skill.238bde26-accb-4227-8429-d94503fd35c7
 * **ASIN:** B01MSP3BI2
 * **Author:** SnoCountry
-* **Release Date:** November 22, 2016 @ 08:36:41
+* **Release Date:** November 22, 2016 @ 09:36:41
 * **In-App Purchasing:** No

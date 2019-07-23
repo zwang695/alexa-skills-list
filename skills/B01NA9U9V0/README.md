@@ -20,5 +20,5 @@ Choose your own adventure beta
 * **ID:** amzn1.ask.skill.c0e57028-3280-4ef5-935c-cc010243c5c6
 * **ASIN:** B01NA9U9V0
 * **Author:** iguana
-* **Release Date:** November 26, 2016 @ 07:35:20
+* **Release Date:** November 26, 2016 @ 08:35:20
 * **In-App Purchasing:** No

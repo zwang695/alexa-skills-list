@@ -20,5 +20,5 @@ A short quiz on DJ's. I will list the song and you will say the artist.
 * **ID:** amzn1.echo-sdk-ams.app.a883d33e-4a00-44d3-84f2-062919bd0133
 * **ASIN:** B01IASW1DM
 * **Author:** Aaron Johnson
-* **Release Date:** July 25, 2016 @ 07:26:26
+* **Release Date:** July 25, 2016 @ 08:26:26
 * **In-App Purchasing:** No

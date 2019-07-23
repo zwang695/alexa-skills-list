@@ -20,5 +20,5 @@ You can now enjoy the posts from Fred Wilson's blog, narrated by Amazon Alexa. I
 * **ID:** amzn1.echo-sdk-ams.app.d0dd1b18-30b9-4a4b-8f20-256ba64abcae
 * **ASIN:** B01GDRPWO2
 * **Author:** Wayne
-* **Release Date:** June 7, 2016 @ 05:38:31
+* **Release Date:** June 7, 2016 @ 06:38:31
 * **In-App Purchasing:** No

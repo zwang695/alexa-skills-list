@@ -20,5 +20,5 @@ This skill provides educational entertainment by providing fun facts about compu
 * **ID:** amzn1.echo-sdk-ams.app.42e0b073-8b93-4686-983c-77c8d892e721
 * **ASIN:** B01ILDL3RG
 * **Author:** BeeSprout
-* **Release Date:** July 18, 2016 @ 09:27:27
+* **Release Date:** July 18, 2016 @ 10:27:27
 * **In-App Purchasing:** No

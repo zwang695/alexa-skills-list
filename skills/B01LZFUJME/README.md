@@ -20,5 +20,5 @@ Ever wonder about what could happen tomorrow? Next week? Next Month? Well this i
 * **ID:** amzn1.ask.skill.30e9629b-9154-4ac7-a238-e470cfcef044
 * **ASIN:** B01LZFUJME
 * **Author:** bryyeh
-* **Release Date:** September 18, 2016 @ 01:42:12
+* **Release Date:** September 18, 2016 @ 02:42:12
 * **In-App Purchasing:** No

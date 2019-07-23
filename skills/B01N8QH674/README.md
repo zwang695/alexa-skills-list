@@ -20,5 +20,5 @@ Recites facts about Ultimate Frisbee
 * **ID:** amzn1.ask.skill.07485d37-1cab-4519-818f-248bc55de1f4
 * **ASIN:** B01N8QH674
 * **Author:** Benasoft
-* **Release Date:** November 13, 2016 @ 00:43:27
+* **Release Date:** November 13, 2016 @ 01:43:27
 * **In-App Purchasing:** No

@@ -25,5 +25,5 @@ This was fun, I'll include stats and/or player bests if I get enough interest
 * **ID:** amzn1.ask.skill.e3d43ee3-6817-47f9-8211-9a844170d09b
 * **ASIN:** B01N0VX6RF
 * **Author:** The Fabulous Cube
-* **Release Date:** January 2, 2017 @ 23:19:20
+* **Release Date:** January 3, 2017 @ 00:19:20
 * **In-App Purchasing:** No

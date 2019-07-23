@@ -35,5 +35,5 @@ give me something
 * **ID:** amzn1.ask.skill.032b771e-1dec-436d-aa83-82fefc78f59d
 * **ASIN:** B01N6M0YJ0
 * **Author:** Mira Baliga
-* **Release Date:** December 31, 2016 @ 03:48:52
+* **Release Date:** December 31, 2016 @ 04:48:52
 * **In-App Purchasing:** No

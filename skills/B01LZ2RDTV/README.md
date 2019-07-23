@@ -24,5 +24,5 @@ Game titles used within the app are owned by their respective publishers.
 * **ID:** amzn1.ask.skill.6f4bd958-282f-411e-a3f3-5577e52956ce
 * **ASIN:** B01LZ2RDTV
 * **Author:** Self
-* **Release Date:** October 10, 2016 @ 01:41:54
+* **Release Date:** October 10, 2016 @ 02:41:54
 * **In-App Purchasing:** No

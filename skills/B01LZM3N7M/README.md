@@ -20,5 +20,5 @@ Have Alexa tell you fun facts about Scripps College with this unofficial fact co
 * **ID:** amzn1.ask.skill.384e495c-557b-4cab-be2a-21a2af8be08a
 * **ASIN:** B01LZM3N7M
 * **Author:** A. C. Gould
-* **Release Date:** October 6, 2016 @ 04:42:13
+* **Release Date:** October 6, 2016 @ 05:42:13
 * **In-App Purchasing:** No

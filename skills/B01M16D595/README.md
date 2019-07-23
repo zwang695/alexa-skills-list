@@ -26,5 +26,5 @@ https://github.com/orthros/alexa-tao-of-programming
 * **ID:** amzn1.ask.skill.2292237e-7bf6-4fcb-9541-655f70f95034
 * **ASIN:** B01M16D595
 * **Author:** orthros
-* **Release Date:** October 8, 2016 @ 04:41:40
+* **Release Date:** October 8, 2016 @ 05:41:40
 * **In-App Purchasing:** No

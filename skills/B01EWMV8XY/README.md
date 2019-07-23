@@ -20,5 +20,5 @@ Ask for a "word", "relationship" or "location" and improvise with Alexa.
 * **ID:** amzn1.echo-sdk-ams.app.dfb83cdb-6e32-4855-b93c-5be2392987a9
 * **ASIN:** B01EWMV8XY
 * **Author:** Kevin S Lin
-* **Release Date:** July 13, 2016 @ 03:57:34
+* **Release Date:** July 13, 2016 @ 04:57:34
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill, Buddha Quotes, offer a quick moment of meditation and reflection for
 * **ID:** amzn1.echo-sdk-ams.app.4aba7eb0-fc36-409d-9e11-8075926e8566
 * **ASIN:** B01H9HYB74
 * **Author:** Leaflet
-* **Release Date:** June 21, 2016 @ 05:45:49
+* **Release Date:** June 21, 2016 @ 06:45:49
 * **In-App Purchasing:** No

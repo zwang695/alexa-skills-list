@@ -134,7 +134,7 @@ https://www.chefsheffey.com/page/chef-sheffey-announcements
 * **ID:** amzn1.echo-sdk-ams.app.6afc0e51-460f-4cb8-97df-3f1eeaddb502
 * **ASIN:** B01E9HYFIC
 * **Author:** Hynes Internet Publishing
-* **Release Date:** May 23, 2016 @ 14:08:38
+* **Release Date:** May 23, 2016 @ 15:08:38
 * **Privacy Policy:** https://www.chefsheffey.com/page/privacy-policy
 * **Terms of Use:** https://www.chefsheffey.com/page/terms-of-service
 * **Account Linking Domains:** chefsheffey.com

@@ -20,5 +20,5 @@ A comprehensive trivia game full of questions and information for ALL shows and 
 * **ID:** amzn1.echo-sdk-ams.app.1591fde4-20ed-47e3-b12b-18b249fc5bb3
 * **ASIN:** B01KTU4ROK
 * **Author:** Connecting People Software Co.
-* **Release Date:** August 25, 2016 @ 06:31:24
+* **Release Date:** August 25, 2016 @ 07:31:24
 * **In-App Purchasing:** No

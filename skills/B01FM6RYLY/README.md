@@ -34,7 +34,7 @@ Netatmo is a registered trademark of Netatmo. Atmo is not a partner, affiliate, 
 * **ID:** amzn1.echo-sdk-ams.app.d359e898-36c6-492d-baa0-02b52825d195
 * **ASIN:** B01FM6RYLY
 * **Author:** fourteenislands.io
-* **Release Date:** September 18, 2016 @ 02:41:40
+* **Release Date:** September 18, 2016 @ 03:41:40
 * **Privacy Policy:** https://atmo.fourteenislands.io/privacy-policy
 * **Account Linking Domains:** apiaws.netatmo.com, auth.netatmo.com, raw.githubusercontent.com, api.netatmo.net, atmo.fourteenislands.io
 * **In-App Purchasing:** No

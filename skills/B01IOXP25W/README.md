@@ -20,5 +20,5 @@ This skills trivia will cover general facts about the sports along with historic
 * **ID:** amzn1.ask.skill.c8b1c183-1924-4957-83c5-fd1a8ab57ee2
 * **ASIN:** B01IOXP25W
 * **Author:** Radhika Gathwala
-* **Release Date:** July 25, 2016 @ 04:56:34
+* **Release Date:** July 25, 2016 @ 05:56:34
 * **In-App Purchasing:** No

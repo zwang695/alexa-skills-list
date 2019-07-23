@@ -20,5 +20,5 @@ Tell You an Interesting Owl Fact
 * **ID:** amzn1.ask.skill.81f56271-5afa-474f-a103-1d47d520106f
 * **ASIN:** B01MTIX9SG
 * **Author:** Network Automation Nerds LLC.
-* **Release Date:** November 21, 2016 @ 01:05:48
+* **Release Date:** November 21, 2016 @ 02:05:48
 * **In-App Purchasing:** No

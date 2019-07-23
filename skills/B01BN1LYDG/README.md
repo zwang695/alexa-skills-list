@@ -20,5 +20,5 @@ This skill will generate a technology statement using a large collection of buzz
 * **ID:** amzn1.echo-sdk-ams.app.75cb1342-1c6d-4346-a560-4951228cdaf1
 * **ASIN:** B01BN1LYDG
 * **Author:** Kevin Kazmierczak
-* **Release Date:** February 10, 2016 @ 17:46:18
+* **Release Date:** February 10, 2016 @ 18:46:18
 * **In-App Purchasing:** No

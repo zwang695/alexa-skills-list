@@ -20,5 +20,5 @@ Red wine trivia that ranges from fairly easy to very difficult! Having a glass o
 * **ID:** amzn1.ask.skill.b08dd9f9-2d44-461a-a2ac-d8afaa680bf0
 * **ASIN:** B01LZ3PVZB
 * **Author:** Blizzysip Apps
-* **Release Date:** September 14, 2016 @ 21:44:13
+* **Release Date:** September 14, 2016 @ 22:44:13
 * **In-App Purchasing:** No

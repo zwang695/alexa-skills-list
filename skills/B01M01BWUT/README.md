@@ -20,5 +20,5 @@ The Tahoe Donner Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.bb611a01-c36d-47fd-892e-fda11397f023
 * **ASIN:** B01M01BWUT
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:15:34
+* **Release Date:** October 20, 2016 @ 04:15:34
 * **In-App Purchasing:** No

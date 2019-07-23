@@ -20,5 +20,5 @@ This skill is to provide show information & its playing time.
 * **ID:** amzn1.ask.skill.f8db75a0-d993-4140-8468-25db26307c84
 * **ASIN:** B01MU3P7B8
 * **Author:** kuldeep
-* **Release Date:** December 27, 2016 @ 04:48:50
+* **Release Date:** December 27, 2016 @ 05:48:50
 * **In-App Purchasing:** No

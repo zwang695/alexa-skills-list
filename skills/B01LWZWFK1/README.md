@@ -20,5 +20,5 @@ This skill helps you find out whether you should put fruits or vegetables in the
 * **ID:** amzn1.ask.skill.81a9a971-dae1-4b4a-950c-923e2cc7b816
 * **ASIN:** B01LWZWFK1
 * **Author:** uncompiled
-* **Release Date:** October 3, 2016 @ 05:41:54
+* **Release Date:** October 3, 2016 @ 06:41:54
 * **In-App Purchasing:** No

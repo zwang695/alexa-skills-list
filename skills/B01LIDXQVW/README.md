@@ -20,5 +20,5 @@ This  skills  gives a your  interesting fun facts  about  fireworks.
 * **ID:** amzn1.ask.skill.54a6289e-f5f1-4a09-b862-7308fc2b867a
 * **ASIN:** B01LIDXQVW
 * **Author:** DCOM
-* **Release Date:** September 5, 2016 @ 03:33:16
+* **Release Date:** September 5, 2016 @ 04:33:16
 * **In-App Purchasing:** No

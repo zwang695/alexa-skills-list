@@ -18,5 +18,5 @@ Some of the predefined audio samples will be played
 * **ID:** amzn1.echo-sdk-ams.app.eddd0859-aa36-4145-a138-0a1465b8cc4c
 * **ASIN:** B01N8ZLZU4
 * **Author:** amazon.com
-* **Release Date:** November 15, 2016 @ 14:35:05
+* **Release Date:** November 15, 2016 @ 15:35:05
 * **In-App Purchasing:** No

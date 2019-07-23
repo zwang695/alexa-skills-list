@@ -20,5 +20,5 @@ A Tic Tac Toe Game Helper that teaches players how to play Tic Tac Toe
 * **ID:** amzn1.ask.skill.45d0c853-b36f-4ca2-943e-b0f761af4812
 * **ASIN:** B01M0AGYFI
 * **Author:** Jeff Mosteller
-* **Release Date:** October 19, 2016 @ 02:12:27
+* **Release Date:** October 19, 2016 @ 03:12:27
 * **In-App Purchasing:** No

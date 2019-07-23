@@ -18,5 +18,5 @@ The Ethereum Ticker skill will allow you to stay up to date with the current Eth
 * **ID:** amzn1.echo-sdk-ams.app.a8ac77f4-29d4-4bb4-be3b-c36d8509e818
 * **ASIN:** B01DWOH7HY
 * **Author:** Rubix Consulting LLC
-* **Release Date:** April 8, 2016 @ 03:32:28
+* **Release Date:** April 8, 2016 @ 04:32:28
 * **In-App Purchasing:** No

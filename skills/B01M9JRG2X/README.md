@@ -20,5 +20,5 @@ The Camelback Mountain Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.42b09fb8-ce90-4185-8de8-fd90052f364f
 * **ASIN:** B01M9JRG2X
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:14:57
+* **Release Date:** November 4, 2016 @ 09:14:57
 * **In-App Purchasing:** No

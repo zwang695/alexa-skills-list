@@ -20,5 +20,5 @@ The Pico Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.f9858d6c-89d4-4d81-a294-f27ff1ad1fd9
 * **ASIN:** B01MDV8RPY
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:13:03
+* **Release Date:** November 4, 2016 @ 09:13:03
 * **In-App Purchasing:** No

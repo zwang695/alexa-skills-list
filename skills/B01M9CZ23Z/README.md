@@ -20,5 +20,5 @@ This is a random fact skill providing information from the Social Security Admin
 * **ID:** amzn1.ask.skill.b4fe362e-5847-495a-a445-b17724b44fce
 * **ASIN:** B01M9CZ23Z
 * **Author:** Mark Byers
-* **Release Date:** October 26, 2016 @ 01:44:46
+* **Release Date:** October 26, 2016 @ 02:44:46
 * **In-App Purchasing:** No

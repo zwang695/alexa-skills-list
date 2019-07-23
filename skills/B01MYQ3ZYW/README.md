@@ -20,5 +20,5 @@ Facts that developers will love and laugh about
 * **ID:** amzn1.ask.skill.d02baa35-f029-42c4-aafc-696635855bf8
 * **ASIN:** B01MYQ3ZYW
 * **Author:** Diego Negrelli
-* **Release Date:** November 25, 2016 @ 04:35:40
+* **Release Date:** November 25, 2016 @ 05:35:40
 * **In-App Purchasing:** No

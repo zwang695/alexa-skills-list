@@ -20,5 +20,5 @@ Facts about the small town of Defiance, Ohio.
 * **ID:** amzn1.ask.skill.98179d8d-6098-4c10-b74c-6044ce3792ea
 * **ASIN:** B01MXY1S7A
 * **Author:** Nicholas S Wilhelm
-* **Release Date:** December 15, 2016 @ 03:19:25
+* **Release Date:** December 15, 2016 @ 04:19:25
 * **In-App Purchasing:** No

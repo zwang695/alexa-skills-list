@@ -22,5 +22,5 @@ Topics covered include, crafting, villagers, edibles, enchanting, achievements a
 * **ID:** amzn1.echo-sdk-ams.app.85d1d7aa-4080-46d2-873d-eb7397406fb7
 * **ASIN:** B01BKXW094
 * **Author:** Something From Nothing
-* **Release Date:** February 8, 2016 @ 16:27:45
+* **Release Date:** February 8, 2016 @ 17:27:45
 * **In-App Purchasing:** No

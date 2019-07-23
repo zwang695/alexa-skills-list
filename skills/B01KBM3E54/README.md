@@ -20,5 +20,5 @@ Fun way to learn many interesting facts about cats from various sources online.
 * **ID:** amzn1.ask.skill.160522ae-a0fd-4809-9f06-1e89d86f2b12
 * **ASIN:** B01KBM3E54
 * **Author:** Howard Yunghao Jiang
-* **Release Date:** August 13, 2016 @ 07:08:10
+* **Release Date:** August 13, 2016 @ 08:08:10
 * **In-App Purchasing:** No

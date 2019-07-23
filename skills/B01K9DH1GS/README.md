@@ -20,5 +20,5 @@ To use the SolarFacts skill, try saying...
 * **ID:** amzn1.ask.skill.b9d58328-607e-44ee-8846-341496f7921d
 * **ASIN:** B01K9DH1GS
 * **Author:** Andrew
-* **Release Date:** August 12, 2016 @ 03:07:41
+* **Release Date:** August 12, 2016 @ 04:07:41
 * **In-App Purchasing:** No

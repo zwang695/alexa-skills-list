@@ -23,5 +23,5 @@ The author of this Skill is the registered owner of Spacecraft Digital LLC https
 * **ID:** amzn1.ask.skill.82315b21-dd49-4e77-8a8c-5ab73ddc6602
 * **ASIN:** B01M0JJJ1I
 * **Author:** Spacecraft Digital
-* **Release Date:** October 3, 2016 @ 06:42:09
+* **Release Date:** October 3, 2016 @ 07:42:09
 * **In-App Purchasing:** No

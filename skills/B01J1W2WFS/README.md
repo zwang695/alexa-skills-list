@@ -20,5 +20,5 @@ This is a simple quiz game. Alexa will ask 10 questions and you have answer each
 * **ID:** amzn1.ask.skill.d48fc4cf-e8e2-4bab-a999-d951f34dafa5
 * **ASIN:** B01J1W2WFS
 * **Author:** Md. Khairul Alam
-* **Release Date:** July 29, 2016 @ 05:26:50
+* **Release Date:** July 29, 2016 @ 06:26:50
 * **In-App Purchasing:** No

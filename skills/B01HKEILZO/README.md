@@ -22,5 +22,5 @@ Use Game Tracker to add games to your collection and note when you've started an
 * **ID:** amzn1.echo-sdk-ams.app.61c0eba3-1d90-4f59-bbe5-95ad7ab636ee
 * **ASIN:** B01HKEILZO
 * **Author:** Eric Quinones
-* **Release Date:** June 28, 2016 @ 04:45:42
+* **Release Date:** June 28, 2016 @ 05:45:42
 * **In-App Purchasing:** No

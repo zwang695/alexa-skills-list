@@ -16,5 +16,5 @@ Get your Alexa to insult others -- Shakespeare style! With Shakespeare Insults, 
 * **ID:** amzn1.ask.skill.cbfa5a27-fdc7-4338-bf4d-0ad0e717b9ab
 * **ASIN:** B01MY32OMO
 * **Author:** WRV Co
-* **Release Date:** January 2, 2017 @ 22:19:05
+* **Release Date:** January 2, 2017 @ 23:19:05
 * **In-App Purchasing:** No

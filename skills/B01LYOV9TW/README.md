@@ -20,5 +20,5 @@ Use Daily Specials to get the daily specials menu from restaurants that use the 
 * **ID:** amzn1.ask.skill.70411f7f-b665-49d7-97b8-280a962dff5b
 * **ASIN:** B01LYOV9TW
 * **Author:** Atware Tech
-* **Release Date:** October 6, 2016 @ 02:12:19
+* **Release Date:** October 6, 2016 @ 03:12:19
 * **In-App Purchasing:** No

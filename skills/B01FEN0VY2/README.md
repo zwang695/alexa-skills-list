@@ -20,5 +20,5 @@ This is a skill to read back ingredients and steps to make different sour dough 
 * **ID:** amzn1.echo-sdk-ams.app.1b513ae5-67b2-444c-8af6-7b3b68857a20
 * **ASIN:** B01FEN0VY2
 * **Author:** Darin C.
-* **Release Date:** May 10, 2016 @ 19:08:29
+* **Release Date:** May 10, 2016 @ 20:08:29
 * **In-App Purchasing:** No

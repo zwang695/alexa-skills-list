@@ -22,5 +22,5 @@ You can get 4 digit stop or halt number from http://www.octranspo1.com/maps
 * **ID:** amzn1.echo-sdk-ams.app.ada4a08e-0660-41c5-9de8-2e650b21fa77
 * **ASIN:** B01DLMFW06
 * **Author:** Surfacesoft
-* **Release Date:** April 6, 2016 @ 05:02:23
+* **Release Date:** April 6, 2016 @ 06:02:23
 * **In-App Purchasing:** No

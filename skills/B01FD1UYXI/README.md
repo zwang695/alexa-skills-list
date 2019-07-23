@@ -24,5 +24,5 @@ DISCLAIMERS: This skill may not be suitable for all ages. This skill is not desi
 * **ID:** amzn1.echo-sdk-ams.app.136e09a7-27cb-4724-a665-63465321b9f9
 * **ASIN:** B01FD1UYXI
 * **Author:** Supernova
-* **Release Date:** May 13, 2016 @ 07:08:31
+* **Release Date:** May 13, 2016 @ 08:08:31
 * **In-App Purchasing:** No

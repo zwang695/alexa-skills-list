@@ -20,5 +20,5 @@ Want to know what active challenges and contests are available at Hackster.io. a
 * **ID:** amzn1.ask.skill.3789026d-0f3d-42dc-b3d6-cd8bde4abd0f
 * **ASIN:** B01L90YPR8
 * **Author:** BLT Robotics
-* **Release Date:** August 31, 2016 @ 03:02:46
+* **Release Date:** August 31, 2016 @ 04:02:46
 * **In-App Purchasing:** No

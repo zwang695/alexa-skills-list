@@ -20,5 +20,5 @@ Provides random soccer facts.
 * **ID:** amzn1.echo-sdk-ams.app.5f80e800-92ae-4af7-b75a-b849e6351350
 * **ASIN:** B01I79VBP8
 * **Author:** Greg Szczygiel
-* **Release Date:** July 20, 2016 @ 02:28:06
+* **Release Date:** July 20, 2016 @ 03:28:06
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ With a streamlined ordering process, you can quickly send flowers to your loved 
 * **ID:** amzn1.echo-sdk-ams.app.6b600e79-2603-40ad-a959-81a74feefd4c
 * **ASIN:** B01E7TSGIW
 * **Author:** www.1800flowers.com
-* **Release Date:** April 20, 2016 @ 12:09:28
+* **Release Date:** April 20, 2016 @ 13:09:28
 * **Privacy Policy:** http://www.1800flowers.com/About-Us-Privacy-Policy
 * **Account Linking Domains:** flowerskill.com, www.google-analytics.com, itunes.apple.com
 * **In-App Purchasing:** Yes

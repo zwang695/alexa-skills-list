@@ -27,5 +27,5 @@ This content is user generated, and although it is heavily moderated, it may not
 * **ID:** amzn1.ask.skill.41156b09-678d-4f09-8b3f-1f23821ecc19
 * **ASIN:** B01MDN73MR
 * **Author:** Noah's Arc Development
-* **Release Date:** October 21, 2016 @ 15:15:28
+* **Release Date:** October 21, 2016 @ 16:15:28
 * **In-App Purchasing:** No

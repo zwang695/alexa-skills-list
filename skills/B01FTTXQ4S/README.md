@@ -20,5 +20,5 @@ This skill was built for Kirkland Middle School for the STEM event. If you want 
 * **ID:** amzn1.echo-sdk-ams.app.17eeebf2-d0fc-4a2e-accb-ffb6647a2403
 * **ASIN:** B01FTTXQ4S
 * **Author:** Unity
-* **Release Date:** May 20, 2016 @ 04:08:45
+* **Release Date:** May 20, 2016 @ 05:08:45
 * **In-App Purchasing:** No

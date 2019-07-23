@@ -20,5 +20,5 @@ A simple biology game.
 * **ID:** amzn1.ask.skill.e21a8ee7-dc02-4ad8-a7be-18cf316cf876
 * **ASIN:** B01JGYWCLK
 * **Author:** Mary Dang
-* **Release Date:** August 8, 2016 @ 06:07:52
+* **Release Date:** August 8, 2016 @ 07:07:52
 * **In-App Purchasing:** No

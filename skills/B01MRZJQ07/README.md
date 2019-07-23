@@ -20,5 +20,5 @@ You know when you're sitting around the table on game night and someone asks "so
 * **ID:** amzn1.ask.skill.6c7f77dc-d510-4fe4-8ad6-2a47dd2878d8
 * **ASIN:** B01MRZJQ07
 * **Author:** Christopher Pierce
-* **Release Date:** December 24, 2016 @ 02:19:10
+* **Release Date:** December 24, 2016 @ 03:19:10
 * **In-App Purchasing:** No

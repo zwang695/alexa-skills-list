@@ -22,5 +22,5 @@ Alexa will ask you random questions from an inventory of questions, so be sure t
 * **ID:** amzn1.echo-sdk-ams.app.a94b9c11-ebe3-41b3-bd20-12e34372256f
 * **ASIN:** B01HHH4VR6
 * **Author:** Daniel Kim
-* **Release Date:** June 27, 2016 @ 05:15:36
+* **Release Date:** June 27, 2016 @ 06:15:36
 * **In-App Purchasing:** No

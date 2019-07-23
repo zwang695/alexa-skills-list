@@ -20,5 +20,5 @@ Everything about New York is fascinating, including its statistics. If you're cu
 * **ID:** amzn1.ask.skill.3283470d-d5cd-4ab0-83be-9be721653737
 * **ASIN:** B01N0MJHWE
 * **Author:** ArtsInteractive.net
-* **Release Date:** December 11, 2016 @ 03:49:00
+* **Release Date:** December 11, 2016 @ 04:49:00
 * **In-App Purchasing:** No

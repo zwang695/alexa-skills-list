@@ -20,5 +20,5 @@ Question about State Capitals
 * **ID:** amzn1.echo-sdk-ams.app.5c3052d9-35f7-489d-bf12-84601eb64a47
 * **ASIN:** B01I761IFY
 * **Author:** homecenter.io
-* **Release Date:** July 14, 2016 @ 05:27:33
+* **Release Date:** July 14, 2016 @ 06:27:33
 * **In-App Purchasing:** No

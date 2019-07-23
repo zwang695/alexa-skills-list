@@ -16,5 +16,5 @@ Visybl  built a completely new Asset tracking system using Visybl's Asset beacon
 * **ID:** amzn1.ask.skill.4d3bb8ff-7157-432a-a2e7-652cc9fb5f81
 * **ASIN:** B01KKJLENM
 * **Author:** Visybl Inc
-* **Release Date:** August 24, 2016 @ 01:31:31
+* **Release Date:** August 24, 2016 @ 02:31:31
 * **In-App Purchasing:** No

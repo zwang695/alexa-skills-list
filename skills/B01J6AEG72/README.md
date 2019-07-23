@@ -20,5 +20,5 @@ With Guess What I'm Thinking, you can try to get inside Alexa's brain. Simply as
 * **ID:** amzn1.ask.skill.05dfa6ed-27e8-4a23-9e62-8521175c8cd6
 * **ASIN:** B01J6AEG72
 * **Author:** Ink Blots by TRD
-* **Release Date:** July 29, 2016 @ 01:26:44
+* **Release Date:** July 29, 2016 @ 02:26:44
 * **In-App Purchasing:** No

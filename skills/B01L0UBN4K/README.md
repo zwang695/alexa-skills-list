@@ -20,5 +20,5 @@ The word game begins by choosing a category (either countries, or US States and 
 * **ID:** amzn1.ask.skill.ccdf3429-9226-44fa-ae16-5066fd0b764c
 * **ASIN:** B01L0UBN4K
 * **Author:** Sanjeev Bhalla
-* **Release Date:** October 19, 2016 @ 01:12:42
+* **Release Date:** October 19, 2016 @ 02:12:42
 * **In-App Purchasing:** No

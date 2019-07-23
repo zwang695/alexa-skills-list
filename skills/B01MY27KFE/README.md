@@ -20,5 +20,5 @@ Want to know what jean color to wear, or maybe you are wondering which jean colo
 * **ID:** amzn1.ask.skill.2262ea28-3c82-4259-b13f-1a02699133e0
 * **ASIN:** B01MY27KFE
 * **Author:** Michael Geatz
-* **Release Date:** December 29, 2016 @ 01:49:31
+* **Release Date:** December 29, 2016 @ 02:49:31
 * **In-App Purchasing:** No

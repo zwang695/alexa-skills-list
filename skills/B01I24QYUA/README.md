@@ -20,5 +20,5 @@ A set of trivia question to refresh that requires knowledge of world capitals, r
 * **ID:** amzn1.echo-sdk-ams.app.269155e5-f6b7-4c3b-9de8-4f08efdaa80d
 * **ASIN:** B01I24QYUA
 * **Author:** Kids game area
-* **Release Date:** July 13, 2016 @ 09:27:27
+* **Release Date:** July 13, 2016 @ 10:27:27
 * **In-App Purchasing:** No

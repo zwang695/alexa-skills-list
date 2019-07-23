@@ -20,5 +20,5 @@ My Sensei is a skill that you can always some to for a great quote to uplift you
 * **ID:** amzn1.ask.skill.dca83f5d-2677-4481-8960-edbcc8da93a5
 * **ASIN:** B01ISJ9BYA
 * **Author:** Pariece McKinney
-* **Release Date:** July 25, 2016 @ 07:56:56
+* **Release Date:** July 25, 2016 @ 08:56:56
 * **In-App Purchasing:** No

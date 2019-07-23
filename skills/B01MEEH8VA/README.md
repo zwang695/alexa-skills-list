@@ -20,5 +20,5 @@ A tribute Optic Trivia game.
 * **ID:** amzn1.ask.skill.b5744bf7-f52c-4e26-9649-d4a2477ee52c
 * **ASIN:** B01MEEH8VA
 * **Author:** Ethan Rivett
-* **Release Date:** October 26, 2016 @ 01:45:19
+* **Release Date:** October 26, 2016 @ 02:45:19
 * **In-App Purchasing:** No

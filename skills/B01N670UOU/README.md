@@ -22,5 +22,5 @@ Note: Information is provided from the following APIs/Services - New York Times 
 * **ID:** amzn1.ask.skill.5adcf0d7-9491-4554-8a7d-c38133aeb64d
 * **ASIN:** B01N670UOU
 * **Author:** Darian Johnson
-* **Release Date:** November 25, 2016 @ 07:05:50
+* **Release Date:** November 25, 2016 @ 08:05:50
 * **In-App Purchasing:** No

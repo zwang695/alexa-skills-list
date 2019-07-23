@@ -22,5 +22,5 @@ Tech Caster is not  affiliated with TWiT.tv.  For more information, about TWiT s
 * **ID:** amzn1.ask.skill.46c6d1f1-603a-4a7c-a9b9-2cf6170ad830
 * **ASIN:** B01L7HPB4O
 * **Author:** Mark Fogle
-* **Release Date:** September 10, 2016 @ 09:12:18
+* **Release Date:** September 10, 2016 @ 10:12:18
 * **In-App Purchasing:** No

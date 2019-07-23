@@ -24,5 +24,5 @@ All responses use real time information.
 * **ID:** amzn1.echo-sdk-ams.app.483e7841-1cca-4adc-b14c-14d4482a85b3
 * **ASIN:** B01I7531WS
 * **Author:** Nic Raboy
-* **Release Date:** July 13, 2016 @ 03:57:47
+* **Release Date:** July 13, 2016 @ 04:57:47
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Get the unique sounds of Better with Bacon.  You know that everything is Better 
 * **ID:** amzn1.ask.skill.9f166263-4ea8-4f94-b362-06c7653a87a9
 * **ASIN:** B01LXRDRHV
 * **Author:** Blue Lobster Studios
-* **Release Date:** October 21, 2016 @ 15:14:34
+* **Release Date:** October 21, 2016 @ 16:14:34
 * **In-App Purchasing:** No

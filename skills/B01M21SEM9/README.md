@@ -22,5 +22,5 @@ Y stands for Bundeswehr.
 * **ID:** amzn1.ask.skill.41a17005-f6b5-41e3-8f30-624670059758
 * **ASIN:** B01M21SEM9
 * **Author:** Telesherpa
-* **Release Date:** October 18, 2016 @ 05:41:56
+* **Release Date:** October 18, 2016 @ 06:41:56
 * **In-App Purchasing:** No

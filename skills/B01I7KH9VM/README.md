@@ -20,5 +20,5 @@ insight and quotes for the information technology professional
 * **ID:** amzn1.echo-sdk-ams.app.27ff32e4-cd0e-44ae-86ec-14276163df41
 * **ASIN:** B01I7KH9VM
 * **Author:** vince_v
-* **Release Date:** August 10, 2016 @ 02:08:18
+* **Release Date:** August 10, 2016 @ 03:08:18
 * **In-App Purchasing:** No

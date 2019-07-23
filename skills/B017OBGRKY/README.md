@@ -20,7 +20,7 @@ Retrieve fantasy football news, player updates, sit/start advice, and trade anal
 * **ID:** amzn1.echo-sdk-ams.app.bd4acc9c-8b9d-418d-b1c5-0fdf47c7cd9b
 * **ASIN:** B017OBGRKY
 * **Author:** TayTech, LLC
-* **Release Date:** November 6, 2015 @ 14:07:12
+* **Release Date:** November 6, 2015 @ 15:07:12
 * **Privacy Policy:** http://www.fantasyfootballnerd.com/privacy
 * **Terms of Use:** http://www.fantasyfootballnerd.com/terms
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ get fibonacci numbers starting from 1 up to number specified
 * **ID:** amzn1.echo-sdk-ams.app.709c8142-aaf8-4d4f-8e0d-bf4c9373d1b1
 * **ASIN:** B01G0ZFMYW
 * **Author:** Diana
-* **Release Date:** May 31, 2016 @ 02:38:30
+* **Release Date:** May 31, 2016 @ 03:38:30
 * **In-App Purchasing:** No

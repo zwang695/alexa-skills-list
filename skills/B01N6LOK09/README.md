@@ -20,5 +20,5 @@ Gives random tech facts to anyone who asks. Facts came from thefactsite.com/2013
 * **ID:** amzn1.ask.skill.2d27e582-7b26-42bd-9edb-3dd1339fd7a9
 * **ASIN:** B01N6LOK09
 * **Author:** Adkins developing 
-* **Release Date:** December 30, 2016 @ 06:19:24
+* **Release Date:** December 30, 2016 @ 07:19:24
 * **In-App Purchasing:** No

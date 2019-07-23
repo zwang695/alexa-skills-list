@@ -20,5 +20,5 @@ A simple five-question quiz game on Lebanese culture, history, geography, and mo
 * **ID:** amzn1.echo-sdk-ams.app.4de626e1-1136-4c9c-8dbe-da2f19e3d0b8
 * **ASIN:** B01GZN2I6O
 * **Author:** Sami Jawhar
-* **Release Date:** June 15, 2016 @ 02:45:43
+* **Release Date:** June 15, 2016 @ 03:45:43
 * **In-App Purchasing:** No

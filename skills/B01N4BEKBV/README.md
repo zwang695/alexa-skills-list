@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.17ead4e9-1c8c-421a-a891-9eba234b312c
 * **ASIN:** B01N4BEKBV
 * **Author:** freshest.me
-* **Release Date:** December 13, 2016 @ 08:19:44
+* **Release Date:** December 13, 2016 @ 09:19:44
 * **In-App Purchasing:** No

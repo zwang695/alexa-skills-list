@@ -29,5 +29,5 @@ This skill will be updated at least twice a month with new questions that'll mak
 * **ID:** amzn1.echo-sdk-ams.app.548eb573-4f85-4732-88d0-160ea2b085ca
 * **ASIN:** B01ICU2L2E
 * **Author:** Olivia Avenue Projects
-* **Release Date:** July 14, 2016 @ 02:27:34
+* **Release Date:** July 14, 2016 @ 03:27:34
 * **In-App Purchasing:** No

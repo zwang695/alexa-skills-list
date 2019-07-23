@@ -72,7 +72,7 @@ For reporting bugs or suggestions, please email m@moogs.io
 * **ID:** amzn1.echo-sdk-ams.app.8ac72bd2-31ba-4cab-af66-57166bf609b6
 * **ASIN:** B01BKVO2II
 * **Author:** Moogs
-* **Release Date:** February 8, 2016 @ 14:41:37
+* **Release Date:** February 8, 2016 @ 15:41:37
 * **Privacy Policy:** https://github.com/miguelmota/ASK-HackerNews/wiki/Privacy-Policy
 * **Terms of Use:** https://github.com/miguelmota/ASK-HackerNews/wiki/Terms-of-Use
 * **In-App Purchasing:** No

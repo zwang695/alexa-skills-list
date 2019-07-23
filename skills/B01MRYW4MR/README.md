@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.8502ca3c-9173-40f6-842e-4c7177b965a7
 * **ASIN:** B01MRYW4MR
 * **Author:** raethlein
-* **Release Date:** December 22, 2016 @ 00:48:58
+* **Release Date:** December 22, 2016 @ 01:48:58
 * **In-App Purchasing:** No

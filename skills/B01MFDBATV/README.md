@@ -30,5 +30,5 @@ You can say things like:
 * **ID:** amzn1.ask.skill.2259e304-b4c7-4986-a2f3-8bf812bae384
 * **ASIN:** B01MFDBATV
 * **Author:** ArunM
-* **Release Date:** November 14, 2016 @ 07:12:56
+* **Release Date:** November 14, 2016 @ 08:12:56
 * **In-App Purchasing:** No

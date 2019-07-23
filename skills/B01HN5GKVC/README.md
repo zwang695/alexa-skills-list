@@ -20,5 +20,5 @@ With this skill you can ask Alexa for a ski tip before hitting the slopes.  She 
 * **ID:** amzn1.echo-sdk-ams.app.f9919e8a-8ee4-41c5-8b14-4b44da4cbe5a
 * **ASIN:** B01HN5GKVC
 * **Author:** Sol Art
-* **Release Date:** June 30, 2016 @ 06:27:32
+* **Release Date:** June 30, 2016 @ 07:27:32
 * **In-App Purchasing:** No

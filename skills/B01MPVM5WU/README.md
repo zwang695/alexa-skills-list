@@ -20,5 +20,5 @@ Test how good your technology knowledge is. Alexa will ask a series of questions
 * **ID:** amzn1.ask.skill.0ff0c95a-1916-48bd-95a6-aa6b56407429
 * **ASIN:** B01MPVM5WU
 * **Author:** Sarim Studios
-* **Release Date:** October 25, 2016 @ 01:49:20
+* **Release Date:** October 25, 2016 @ 02:49:20
 * **In-App Purchasing:** No

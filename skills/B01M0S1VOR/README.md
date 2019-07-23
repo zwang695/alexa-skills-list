@@ -20,5 +20,5 @@ Every single Pokemon in Pokemon Go has an elemental type. Types are categories a
 * **ID:** amzn1.ask.skill.a367e3f9-3b29-4bcd-b98f-fd8359b816a1
 * **ASIN:** B01M0S1VOR
 * **Author:** imirai
-* **Release Date:** October 19, 2016 @ 01:12:31
+* **Release Date:** October 19, 2016 @ 02:12:31
 * **In-App Purchasing:** No

@@ -25,7 +25,7 @@ And, stay tuned—we’ll let you know as we add support for more requests about
 * **ID:** amzn1.ask.skill.79f92eeb-0add-40ff-a860-f227d411daf8
 * **ASIN:** B01M0MTS8R
 * **Author:** TD Ameritrade, Inc.
-* **Release Date:** November 30, 2016 @ 19:36:45
+* **Release Date:** November 30, 2016 @ 20:36:45
 * **Privacy Policy:** https://www.tdameritrade.com/privacy
 * **Terms of Use:** https://s3.amazonaws.com/tdameritrade-voice/AlexaEULA.html
 * **In-App Purchasing:** No

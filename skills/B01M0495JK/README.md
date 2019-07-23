@@ -20,5 +20,5 @@ Soccer geek will provide a random fact about soccer
 * **ID:** amzn1.ask.skill.2729d458-8fcb-4446-a20d-30cc0dc8ad03
 * **ASIN:** B01M0495JK
 * **Author:** Dave Sick
-* **Release Date:** September 18, 2016 @ 02:12:12
+* **Release Date:** September 18, 2016 @ 03:12:12
 * **In-App Purchasing:** No

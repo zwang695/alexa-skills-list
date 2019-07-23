@@ -24,5 +24,5 @@ It will help you to prepare verbal tests like SAT, GRE, and so on.
 * **ID:** amzn1.ask.skill.de9ca67f-477b-48a3-b673-16d6a7928a5f
 * **ASIN:** B01KH26ZMM
 * **Author:** tong-dar
-* **Release Date:** August 19, 2016 @ 02:22:35
+* **Release Date:** August 19, 2016 @ 03:22:35
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Lorem Ipsum is very commonly found in many wireframes and mockups. Use this app 
 * **ID:** amzn1.echo-sdk-ams.app.7ef8cfbb-127a-4f2d-8fc3-c859278794f8
 * **ASIN:** B01G0UV4GM
 * **Author:** Ted Whang
-* **Release Date:** May 25, 2016 @ 02:38:43
+* **Release Date:** May 25, 2016 @ 03:38:43
 * **In-App Purchasing:** No

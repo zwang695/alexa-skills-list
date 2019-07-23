@@ -22,5 +22,5 @@ Not affiliated with the books or TV series in any way.
 * **ID:** amzn1.echo-sdk-ams.app.42d40dad-0baa-415c-8f75-4935935a6534
 * **ASIN:** B01EQSP3GM
 * **Author:** thewbman
-* **Release Date:** April 28, 2016 @ 23:38:47
+* **Release Date:** April 29, 2016 @ 00:38:47
 * **In-App Purchasing:** No

@@ -25,5 +25,5 @@ Icon image credits: www.candysnob.com and Göttlich
 * **ID:** amzn1.echo-sdk-ams.app.26aed0cd-c894-4e97-a888-ac16c9e6a244
 * **ASIN:** B01ILCBYVC
 * **Author:** davefogo
-* **Release Date:** July 20, 2016 @ 02:57:26
+* **Release Date:** July 20, 2016 @ 03:57:26
 * **In-App Purchasing:** No

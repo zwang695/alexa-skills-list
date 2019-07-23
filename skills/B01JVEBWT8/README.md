@@ -20,5 +20,5 @@ React is difficult to learn at time, especially when there are so many terminolo
 * **ID:** amzn1.ask.skill.98464376-fb6b-4ce3-b454-400af65ec878
 * **ASIN:** B01JVEBWT8
 * **Author:** N/A
-* **Release Date:** August 9, 2016 @ 06:37:35
+* **Release Date:** August 9, 2016 @ 07:37:35
 * **In-App Purchasing:** No

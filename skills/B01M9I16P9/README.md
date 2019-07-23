@@ -20,5 +20,5 @@ When asked, Invention of the Day will randomly give details about a particular i
 * **ID:** amzn1.ask.skill.789cda88-d3d4-4536-bc1b-21164b6a2a05
 * **ASIN:** B01M9I16P9
 * **Author:** Brian Cottrell
-* **Release Date:** November 16, 2016 @ 02:36:09
+* **Release Date:** November 16, 2016 @ 03:36:09
 * **In-App Purchasing:** No

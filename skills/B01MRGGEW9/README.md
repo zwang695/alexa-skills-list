@@ -20,5 +20,5 @@ Challenge me trivia is a trivia skill of over 500 questions ensuring a broad tes
 * **ID:** amzn1.ask.skill.04057d0e-a343-4540-bdb0-0a7c65a4b871
 * **ASIN:** B01MRGGEW9
 * **Author:** Alan Duncan
-* **Release Date:** November 9, 2016 @ 03:12:51
+* **Release Date:** November 9, 2016 @ 04:12:51
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.0674d140-c390-4e75-8a90-87a8cc41a424
 * **ASIN:** B01NCF8AMK
 * **Author:** Fränz Friederes
-* **Release Date:** December 5, 2016 @ 06:35:32
+* **Release Date:** December 5, 2016 @ 07:35:32
 * **In-App Purchasing:** No

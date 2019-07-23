@@ -20,5 +20,5 @@ A funny skill with random challenges for breaking the ice and getting to know pe
 * **ID:** amzn1.ask.skill.c9add849-9376-4135-94b2-ef1d80235e2e
 * **ASIN:** B01N2YBWZK
 * **Author:** ChristosZac
-* **Release Date:** December 29, 2016 @ 22:49:09
+* **Release Date:** December 29, 2016 @ 23:49:09
 * **In-App Purchasing:** No

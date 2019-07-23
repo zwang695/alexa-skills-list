@@ -20,5 +20,5 @@ This Super Random Facts skill! I would like to tell you over 100+ Super Random F
 * **ID:** amzn1.ask.skill.59f445ae-d750-4d50-b74b-e22eb0c58c0c
 * **ASIN:** B01LZOZSDS
 * **Author:** helloworld
-* **Release Date:** October 7, 2016 @ 03:42:05
+* **Release Date:** October 7, 2016 @ 04:42:05
 * **In-App Purchasing:** No

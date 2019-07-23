@@ -20,5 +20,5 @@ The axolotl are mysterious and poorly understood creatures.  This reference will
 * **ID:** amzn1.ask.skill.2e1c6d4b-961a-46ea-a996-14953031e9ca
 * **ASIN:** B01MTTTK0J
 * **Author:** Axolotl
-* **Release Date:** December 2, 2016 @ 05:35:07
+* **Release Date:** December 2, 2016 @ 06:35:07
 * **In-App Purchasing:** No

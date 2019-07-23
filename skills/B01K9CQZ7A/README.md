@@ -21,5 +21,5 @@ The skill starts with asking you the currency of one of, some of the most traded
 * **ID:** amzn1.ask.skill.2472e0c2-266c-45b0-b7ca-c365f4dce85d
 * **ASIN:** B01K9CQZ7A
 * **Author:** FindGoose
-* **Release Date:** August 16, 2016 @ 05:09:33
+* **Release Date:** August 16, 2016 @ 06:09:33
 * **In-App Purchasing:** No

@@ -21,5 +21,5 @@ This app tells interesting facts about Cats. To initialise just ask alexa anythi
 * **ID:** amzn1.echo-sdk-ams.app.8db22964-b0e9-485d-8023-2184a66326ca
 * **ASIN:** B01HEX0SQ6
 * **Author:** Kartik Bholla
-* **Release Date:** June 23, 2016 @ 04:15:32
+* **Release Date:** June 23, 2016 @ 05:15:32
 * **In-App Purchasing:** No

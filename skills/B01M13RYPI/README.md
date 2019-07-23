@@ -16,5 +16,5 @@ have some fun learning about harley facts.
 * **ID:** amzn1.ask.skill.93f84752-a1bb-41fe-a403-11d4dd349ab6
 * **ASIN:** B01M13RYPI
 * **Author:** Roopesh
-* **Release Date:** September 22, 2016 @ 02:42:24
+* **Release Date:** September 22, 2016 @ 03:42:24
 * **In-App Purchasing:** No

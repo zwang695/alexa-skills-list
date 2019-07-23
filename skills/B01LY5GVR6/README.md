@@ -22,5 +22,5 @@ This edition focus on Singapore food. So start now by asking Alexa, what should 
 * **ID:** amzn1.ask.skill.80a53f10-c515-4a1e-a530-3c8fc4cd3df3
 * **ASIN:** B01LY5GVR6
 * **Author:** Plug and Play
-* **Release Date:** September 20, 2016 @ 02:43:06
+* **Release Date:** September 20, 2016 @ 03:43:06
 * **In-App Purchasing:** No

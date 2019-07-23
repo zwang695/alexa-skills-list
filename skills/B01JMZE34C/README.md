@@ -20,5 +20,5 @@ Alexa will quiz user on the nine multiplication table anywhere from 9x0 to 9x15
 * **ID:** amzn1.ask.skill.30e7b461-27c9-48c1-9361-9987463bb34b
 * **ASIN:** B01JMZE34C
 * **Author:** Anthony Montuori
-* **Release Date:** August 5, 2016 @ 04:37:41
+* **Release Date:** August 5, 2016 @ 05:37:41
 * **In-App Purchasing:** No

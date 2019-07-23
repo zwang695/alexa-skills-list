@@ -20,5 +20,5 @@ Healthy Salads Skill gives you the recipe for nutritious vegetarian and non-vege
 * **ID:** amzn1.ask.skill.15e5c4be-3e61-4aa4-960e-3b87961804ed
 * **ASIN:** B01JVFSXJ4
 * **Author:** sandy1609
-* **Release Date:** August 8, 2016 @ 05:07:38
+* **Release Date:** August 8, 2016 @ 06:07:38
 * **In-App Purchasing:** No

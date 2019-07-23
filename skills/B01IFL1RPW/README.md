@@ -20,5 +20,5 @@ Everyone likes to look smart, this skill will make you the envy of all your frie
 * **ID:** amzn1.echo-sdk-ams.app.c3bc0109-c363-4a2d-b870-2c933292a7a4
 * **ASIN:** B01IFL1RPW
 * **Author:** BLT Robotics
-* **Release Date:** July 15, 2016 @ 01:57:33
+* **Release Date:** July 15, 2016 @ 02:57:33
 * **In-App Purchasing:** No

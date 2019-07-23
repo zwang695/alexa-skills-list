@@ -20,5 +20,5 @@ Pope Francis is one of the most popular religious leaders of our time. But did y
 * **ID:** amzn1.echo-sdk-ams.app.5cd37b70-74f1-414e-b74a-4e49a2a9873e
 * **ASIN:** B01DKKUR54
 * **Author:** jacobajit
-* **Release Date:** March 29, 2016 @ 05:57:37
+* **Release Date:** March 29, 2016 @ 06:57:37
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill gives an inspiring quote to start off your day.
 * **ID:** amzn1.ask.skill.6e9703e6-34ad-45b3-9254-a352a26e52a1
 * **ASIN:** B01L0W32EM
 * **Author:** Househelp
-* **Release Date:** August 26, 2016 @ 02:33:18
+* **Release Date:** August 26, 2016 @ 03:33:18
 * **In-App Purchasing:** No

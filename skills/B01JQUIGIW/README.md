@@ -22,5 +22,5 @@ You can start by asking Doctor Pharmacy a fact!
 * **ID:** amzn1.ask.skill.94b6103b-8b64-4bdd-85c6-c86534116702
 * **ASIN:** B01JQUIGIW
 * **Author:** MasterBo
-* **Release Date:** August 11, 2016 @ 02:37:53
+* **Release Date:** August 11, 2016 @ 03:37:53
 * **In-App Purchasing:** No

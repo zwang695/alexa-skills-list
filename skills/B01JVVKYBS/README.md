@@ -20,5 +20,5 @@ This skill helps you learn some interesting facts about Birds.
 * **ID:** amzn1.ask.skill.5b60ac24-ae2c-49bb-a9c0-025fd9984516
 * **ASIN:** B01JVVKYBS
 * **Author:** ST
-* **Release Date:** August 8, 2016 @ 06:07:31
+* **Release Date:** August 8, 2016 @ 07:07:31
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A basic skill to recall facts about space. This is made just to get a feel for t
 * **ID:** amzn1.ask.skill.3e8cc4fe-28d7-454a-8dfa-c1e84be7770d
 * **ASIN:** B01MY2EOQV
 * **Author:** Kaushik Mahadevan
-* **Release Date:** December 30, 2016 @ 01:19:25
+* **Release Date:** December 30, 2016 @ 02:19:25
 * **In-App Purchasing:** No

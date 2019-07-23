@@ -20,5 +20,5 @@ The Discovery Ski Area Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.7d8a7814-0521-44d4-958d-e206b27102ca
 * **ASIN:** B01MRUL00G
 * **Author:** SnoCountry
-* **Release Date:** December 6, 2016 @ 19:19:57
+* **Release Date:** December 6, 2016 @ 20:19:57
 * **In-App Purchasing:** No

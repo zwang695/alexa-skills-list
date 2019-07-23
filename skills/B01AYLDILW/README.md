@@ -20,5 +20,5 @@ Check to see who's online within Convrge. For more information regarding converg
 * **ID:** amzn1.echo-sdk-ams.app.e0b16c48-459a-46ec-b85a-7cb31a760e75
 * **ASIN:** B01AYLDILW
 * **Author:** Jay Wallace
-* **Release Date:** January 22, 2016 @ 15:28:47
+* **Release Date:** January 22, 2016 @ 16:28:47
 * **In-App Purchasing:** No

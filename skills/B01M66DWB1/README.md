@@ -20,5 +20,5 @@ The Bigrock Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.d6a9633f-25ee-482a-982c-e5cc7ebef703
 * **ASIN:** B01M66DWB1
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:47:37
+* **Release Date:** October 21, 2016 @ 15:47:37
 * **In-App Purchasing:** No

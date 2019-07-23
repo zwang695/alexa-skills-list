@@ -20,5 +20,5 @@ Sometimes we can all use an encouraging word, and these selected verses will hop
 * **ID:** amzn1.echo-sdk-ams.app.2de3f82c-dbe4-445e-b53d-c3b0d5b2232b
 * **ASIN:** B01H4S92MM
 * **Author:** David-made
-* **Release Date:** June 20, 2016 @ 01:15:33
+* **Release Date:** June 20, 2016 @ 02:15:33
 * **In-App Purchasing:** No

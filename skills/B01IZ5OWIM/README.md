@@ -20,5 +20,5 @@ Prepare for the driver license test for the state of California. You can also us
 * **ID:** amzn1.ask.skill.9e51d5f2-b46f-48e0-8413-0647d363daae
 * **ASIN:** B01IZ5OWIM
 * **Author:** Chirpy Cali
-* **Release Date:** July 28, 2016 @ 01:56:34
+* **Release Date:** July 28, 2016 @ 02:56:34
 * **In-App Purchasing:** No

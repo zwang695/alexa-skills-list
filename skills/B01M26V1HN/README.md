@@ -20,5 +20,5 @@ The Mount Holly Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.8316d82b-ff10-45d0-a591-df42372574d4
 * **ASIN:** B01M26V1HN
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:13:45
+* **Release Date:** October 21, 2016 @ 16:13:45
 * **In-App Purchasing:** No

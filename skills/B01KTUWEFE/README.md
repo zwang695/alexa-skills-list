@@ -16,5 +16,5 @@ Interesting Facts about Light
 * **ID:** amzn1.ask.skill.e91196bd-db09-4631-bd0d-9ae6f8c18c76
 * **ASIN:** B01KTUWEFE
 * **Author:** Suzanne Durocher
-* **Release Date:** August 23, 2016 @ 04:48:35
+* **Release Date:** August 23, 2016 @ 05:48:35
 * **In-App Purchasing:** No

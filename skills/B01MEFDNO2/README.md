@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.a0964ee7-c3ca-4599-94d0-07527e9cacbb
 * **ASIN:** B01MEFDNO2
 * **Author:** Hardeep Sharma
-* **Release Date:** October 31, 2016 @ 13:43:43
+* **Release Date:** October 31, 2016 @ 14:43:43
 * **In-App Purchasing:** No

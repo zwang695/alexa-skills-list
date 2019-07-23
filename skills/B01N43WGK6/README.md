@@ -31,7 +31,7 @@ Check out http://www.txu.com/alexa-faq for help and FAQ’s.
 * **ID:** amzn1.ask.skill.cd714cba-7ec4-417b-ba29-3fd0b3bfdd4f
 * **ASIN:** B01N43WGK6
 * **Author:** TXU Energy
-* **Release Date:** December 4, 2016 @ 23:35:21
+* **Release Date:** December 5, 2016 @ 00:35:21
 * **Privacy Policy:** http://www.txu.com/en/legal/privacy-policy.aspx
 * **Account Linking Domains:** services.txmkt.txu.com, txu.com
 * **In-App Purchasing:** No

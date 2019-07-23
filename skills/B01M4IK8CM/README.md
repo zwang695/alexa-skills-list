@@ -20,5 +20,5 @@ this skill gives facts about virginia to the user.
 * **ID:** amzn1.ask.skill.de09142f-ce82-43f5-a012-21ea1460bbf8
 * **ASIN:** B01M4IK8CM
 * **Author:** j9stuart
-* **Release Date:** October 18, 2016 @ 02:42:24
+* **Release Date:** October 18, 2016 @ 03:42:24
 * **In-App Purchasing:** No

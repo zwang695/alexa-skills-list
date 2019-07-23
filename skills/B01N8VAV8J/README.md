@@ -22,5 +22,5 @@ This skill is not sponsored or endorsed by the Velominati.
 * **ID:** amzn1.ask.skill.fa4ef4ee-c069-481d-8743-af6f3ac18faf
 * **ASIN:** B01N8VAV8J
 * **Author:** Andrew Wu
-* **Release Date:** November 21, 2016 @ 23:05:58
+* **Release Date:** November 22, 2016 @ 00:05:58
 * **In-App Purchasing:** No

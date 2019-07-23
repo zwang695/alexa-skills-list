@@ -24,5 +24,5 @@ Just say: "Alexa, ask Today I Learned to..."
 * **ID:** amzn1.echo-sdk-ams.app.08ea5327-3917-48bb-bf7e-c2e1c6389b4d
 * **ASIN:** B01HPJ43TM
 * **Author:** Dalton Claybrook
-* **Release Date:** July 5, 2016 @ 08:57:29
+* **Release Date:** July 5, 2016 @ 09:57:29
 * **In-App Purchasing:** No

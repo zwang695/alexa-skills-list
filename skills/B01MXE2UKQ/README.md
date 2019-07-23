@@ -26,7 +26,7 @@ Find out more at https://huntwise.com
 * **ID:** amzn1.ask.skill.a9b18417-285c-413c-8e54-0a3c571e847f
 * **ASIN:** B01MXE2UKQ
 * **Author:** Sportsman Tracker
-* **Release Date:** November 11, 2016 @ 01:15:17
+* **Release Date:** November 11, 2016 @ 02:15:17
 * **Privacy Policy:** https://sportsmantracker.com/privacy-policy
 * **Terms of Use:** https://sportsmantracker.com/terms-of-use
 * **In-App Purchasing:** No

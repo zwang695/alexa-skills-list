@@ -20,5 +20,5 @@ mind-blowing movies fact is a skill that tells you a new mind-blowing fact about
 * **ID:** amzn1.ask.skill.e86348a1-0a08-4904-92d4-250eb268a6e1
 * **ASIN:** B01J38KAKO
 * **Author:** gamemania
-* **Release Date:** July 27, 2016 @ 04:26:47
+* **Release Date:** July 27, 2016 @ 05:26:47
 * **In-App Purchasing:** No

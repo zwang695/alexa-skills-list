@@ -20,5 +20,5 @@ South Africa Facts, tells you some basic facts about South Africa
 * **ID:** amzn1.ask.skill.6976e04d-70d4-467b-9ed3-b341f5266394
 * **ASIN:** B01JDO5KS0
 * **Author:** Afrilogic
-* **Release Date:** August 3, 2016 @ 02:41:33
+* **Release Date:** August 3, 2016 @ 03:41:33
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Feel good with happy quotes, get a new happy quote each day. Simply say 'Alexa s
 * **ID:** amzn1.ask.skill.565d92cb-6a53-41ec-b7b1-23d45bc7bce3
 * **ASIN:** B01N6F3V6Y
 * **Author:** pverkhovskyi
-* **Release Date:** December 10, 2016 @ 04:19:21
+* **Release Date:** December 10, 2016 @ 05:19:21
 * **In-App Purchasing:** No

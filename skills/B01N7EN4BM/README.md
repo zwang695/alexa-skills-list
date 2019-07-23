@@ -20,5 +20,5 @@ An example of a Fact skill, which states random facts about baseball's October h
 * **ID:** amzn1.ask.skill.c8208c48-02bb-4b9e-91b5-450be1436100
 * **ASIN:** B01N7EN4BM
 * **Author:** Chip DiMarco
-* **Release Date:** December 6, 2016 @ 22:49:14
+* **Release Date:** December 6, 2016 @ 23:49:14
 * **In-App Purchasing:** No

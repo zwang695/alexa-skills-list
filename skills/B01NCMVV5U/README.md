@@ -18,5 +18,5 @@ Music note helps beginner musicians get familiar with music notes.  Ask for a mu
 * **ID:** amzn1.ask.skill.617b99d0-f373-44ec-908d-7d9c169c065e
 * **ASIN:** B01NCMVV5U
 * **Author:** Mobioly LLC
-* **Release Date:** December 26, 2016 @ 00:19:04
+* **Release Date:** December 26, 2016 @ 01:19:04
 * **In-App Purchasing:** No

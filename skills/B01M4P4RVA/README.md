@@ -20,5 +20,5 @@ Find out the meaning of over hundred Scots words and short phrases, just ask Sco
 * **ID:** amzn1.ask.skill.610d2477-42d1-433d-9474-efd4a8cb244f
 * **ASIN:** B01M4P4RVA
 * **Author:** OOMap
-* **Release Date:** November 2, 2016 @ 00:42:40
+* **Release Date:** November 2, 2016 @ 01:42:40
 * **In-App Purchasing:** No

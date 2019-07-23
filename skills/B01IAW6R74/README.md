@@ -22,5 +22,5 @@ These interesting facts about sushi will make you even more excited about your n
 * **ID:** amzn1.echo-sdk-ams.app.959cce93-985d-4c8a-86a9-f383516cc5f7
 * **ASIN:** B01IAW6R74
 * **Author:** Andrew
-* **Release Date:** July 15, 2016 @ 04:57:49
+* **Release Date:** July 15, 2016 @ 05:57:49
 * **In-App Purchasing:** No

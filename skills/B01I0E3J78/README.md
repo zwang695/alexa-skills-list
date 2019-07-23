@@ -22,5 +22,5 @@ ask alexa for a new verse each time
 * **ID:** amzn1.echo-sdk-ams.app.8f91d91a-31fe-474b-9a9f-9817aaae1634
 * **ASIN:** B01I0E3J78
 * **Author:** kylehader
-* **Release Date:** July 7, 2016 @ 02:27:28
+* **Release Date:** July 7, 2016 @ 03:27:28
 * **In-App Purchasing:** No

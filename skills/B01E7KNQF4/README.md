@@ -22,5 +22,5 @@ Most (but not all) widely traded comapny stocks are supported.  ETFs, mutual fun
 * **ID:** amzn1.echo-sdk-ams.app.8a187eaa-6e47-48d5-b2be-20e0501ca3b9
 * **ASIN:** B01E7KNQF4
 * **Author:** gitbnw
-* **Release Date:** April 22, 2016 @ 09:08:35
+* **Release Date:** April 22, 2016 @ 10:08:35
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ With this skill you will be able to combine any ingredient in your kitchen. Just
 * **ID:** amzn1.ask.skill.e54346b1-b521-4526-9e79-cd1daacdefa8
 * **ASIN:** B01LWEHITJ
 * **Author:** Sacha Arozarena
-* **Release Date:** September 22, 2016 @ 04:42:17
+* **Release Date:** September 22, 2016 @ 05:42:17
 * **Privacy Policy:** http://whatcombines.azurewebsites.net/info/privacy.html
 * **Terms of Use:** http://whatcombines.azurewebsites.net/info/termsofuse.html
 * **In-App Purchasing:** No

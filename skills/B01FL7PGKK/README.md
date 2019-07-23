@@ -22,5 +22,5 @@ NOTICE: This skill may not be suitable for all ages. This skill provides instruc
 * **ID:** amzn1.echo-sdk-ams.app.4eb4f2b9-30ee-415e-96e1-385d927e3764
 * **ASIN:** B01FL7PGKK
 * **Author:** LearnedH
-* **Release Date:** May 17, 2016 @ 05:08:35
+* **Release Date:** May 17, 2016 @ 06:08:35
 * **In-App Purchasing:** No

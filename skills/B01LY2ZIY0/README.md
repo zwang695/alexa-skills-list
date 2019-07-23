@@ -20,5 +20,5 @@ The Copper Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.8a934de4-9947-42ef-816a-e47875a993ec
 * **ASIN:** B01LY2ZIY0
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:43:00
+* **Release Date:** October 19, 2016 @ 11:43:00
 * **In-App Purchasing:** No

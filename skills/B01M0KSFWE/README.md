@@ -22,5 +22,5 @@ Disclaimer: The Fab Four skill is not sponsored or endorsed by The Fab Four Corp
 * **ID:** amzn1.ask.skill.2b98f13c-8c8b-4f6c-a5a0-3d39dfee0119
 * **ASIN:** B01M0KSFWE
 * **Author:** Drew Firment
-* **Release Date:** October 5, 2016 @ 01:12:54
+* **Release Date:** October 5, 2016 @ 02:12:54
 * **In-App Purchasing:** No

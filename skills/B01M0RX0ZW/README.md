@@ -26,7 +26,7 @@ DISCLAIMER: The information pro­vided in this app, and in any linked mate­ri­
 * **ID:** amzn1.ask.skill.1ac0ee01-707a-4600-ab35-238842c6c7eb
 * **ASIN:** B01M0RX0ZW
 * **Author:** iomarcovalente
-* **Release Date:** September 29, 2016 @ 06:42:21
+* **Release Date:** September 29, 2016 @ 07:42:21
 * **Privacy Policy:** https://s3.amazonaws.com/herbalist-bucket/privacy-policy-september-24-2016.html
 * **Terms of Use:** https://s3.amazonaws.com/herbalist-bucket/terms-and-conditions-september-24-2016.html
 * **In-App Purchasing:** No

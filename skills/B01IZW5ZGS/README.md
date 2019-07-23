@@ -20,5 +20,5 @@ This skill will test your knowledge of the 70's music sensation known as Disco! 
 * **ID:** amzn1.ask.skill.71a09eaa-f753-44cb-a06d-34e99ddd1115
 * **ASIN:** B01IZW5ZGS
 * **Author:** Belgarion Apps
-* **Release Date:** July 26, 2016 @ 03:26:28
+* **Release Date:** July 26, 2016 @ 04:26:28
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ D-day Counter simply can tell you how many weeks and days left until the date yo
 * **ID:** amzn1.ask.skill.8eceba64-c029-4c26-9674-a41dcea09778
 * **ASIN:** B01J1056R6
 * **Author:** TheCodeBooth
-* **Release Date:** July 29, 2016 @ 09:26:33
+* **Release Date:** July 29, 2016 @ 10:26:33
 * **In-App Purchasing:** No

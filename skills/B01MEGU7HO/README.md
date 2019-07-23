@@ -20,5 +20,5 @@ The Find Presidents skill allows you to ask Alexa who was President of the Unite
 * **ID:** amzn1.ask.skill.62f50ee0-7045-423a-9130-b20f8ddd0b9c
 * **ASIN:** B01MEGU7HO
 * **Author:** Don Mills
-* **Release Date:** October 27, 2016 @ 01:46:13
+* **Release Date:** October 27, 2016 @ 02:46:13
 * **In-App Purchasing:** No

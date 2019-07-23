@@ -24,5 +24,5 @@ Entertain your friends and family by enabling this skill today!
 * **ID:** amzn1.ask.skill.4a9ecbb9-1882-460b-82ec-8cbbfcb5d4ca
 * **ASIN:** B01M67TRVS
 * **Author:** BoiledApps
-* **Release Date:** October 26, 2016 @ 01:45:28
+* **Release Date:** October 26, 2016 @ 02:45:28
 * **In-App Purchasing:** No

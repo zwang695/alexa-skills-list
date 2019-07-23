@@ -20,6 +20,6 @@ In order to use tracking and return features, you must first link your account o
 * **ID:** amzn1.ask.skill.63e130bc-2ccf-4940-9dc1-dcc7b3d776ca
 * **ASIN:** B01MSJ60ID
 * **Author:** Linc Global
-* **Release Date:** November 21, 2016 @ 23:35:36
+* **Release Date:** November 22, 2016 @ 00:35:36
 * **Privacy Policy:** http://www.letslinc.com/privacy-policy
 * **In-App Purchasing:** No

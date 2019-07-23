@@ -20,5 +20,5 @@ A live updating skill which will give the last five football plays for Seattle. 
 * **ID:** amzn1.echo-sdk-ams.app.22956fb8-0ebb-42b8-912c-4ede0f7e74d0
 * **ASIN:** B01MTZZE0Z
 * **Author:** Mr. CatNaps
-* **Release Date:** December 14, 2016 @ 02:49:56
+* **Release Date:** December 14, 2016 @ 03:49:56
 * **In-App Purchasing:** No

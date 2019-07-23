@@ -20,5 +20,5 @@ Reduce your utility bills by following these home energy tips.
 * **ID:** amzn1.ask.skill.85cc71d8-0271-4cc4-b4fd-1113a184a3e0
 * **ASIN:** B01IZCCQ60
 * **Author:** Chirpy Cali
-* **Release Date:** July 26, 2016 @ 06:26:23
+* **Release Date:** July 26, 2016 @ 07:26:23
 * **In-App Purchasing:** No

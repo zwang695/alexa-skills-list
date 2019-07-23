@@ -20,5 +20,5 @@ This is a really, cool small collection of knock knock jokes. Have a fun interac
 * **ID:** amzn1.ask.skill.9a7fc9fe-5af1-4458-9a7b-f40c0e02b700
 * **ASIN:** B01IWPAJ1Y
 * **Author:** RCPTFit
-* **Release Date:** August 4, 2016 @ 07:41:38
+* **Release Date:** August 4, 2016 @ 08:41:38
 * **In-App Purchasing:** No

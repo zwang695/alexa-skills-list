@@ -18,5 +18,5 @@ Gets 100 different compliments from Alexa.
 * **ID:** amzn1.ask.skill.999b0363-a022-47b0-9ba9-f5723bdcc190
 * **ASIN:** B01MT2H41N
 * **Author:** gageviola
-* **Release Date:** December 26, 2016 @ 00:49:18
+* **Release Date:** December 26, 2016 @ 01:49:18
 * **In-App Purchasing:** No

@@ -23,5 +23,5 @@ Compete answering 5 questions and try to see who gets the most answers right, or
 * **ID:** amzn1.ask.skill.92b3a4ea-67d0-43b1-b682-bd2bf384a967
 * **ASIN:** B01JKJ4QJC
 * **Author:** Shipra Arora
-* **Release Date:** August 8, 2016 @ 04:07:35
+* **Release Date:** August 8, 2016 @ 05:07:35
 * **In-App Purchasing:** No

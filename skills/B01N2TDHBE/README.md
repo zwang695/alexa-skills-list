@@ -20,5 +20,5 @@ This Alexa has multiple facts that it can recite about puppies. who doesn't want
 * **ID:** amzn1.ask.skill.282c0bcc-599c-4948-900d-ef7e33549c08
 * **ASIN:** B01N2TDHBE
 * **Author:** Pebkac Services
-* **Release Date:** December 15, 2016 @ 05:49:45
+* **Release Date:** December 15, 2016 @ 06:49:45
 * **In-App Purchasing:** No

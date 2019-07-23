@@ -21,5 +21,5 @@ Become an expert in the startup world thanks to Alexa
 * **ID:** amzn1.echo-sdk-ams.app.682f933f-69de-4dd4-8538-796c47ac26ca
 * **ASIN:** B01DKTI612
 * **Author:** Nicolas Grenié
-* **Release Date:** May 4, 2016 @ 16:08:37
+* **Release Date:** May 4, 2016 @ 17:08:37
 * **In-App Purchasing:** No

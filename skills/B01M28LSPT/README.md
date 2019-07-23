@@ -26,5 +26,5 @@ A large list of nicknames for the teams is included, but please let me know if a
 * **ID:** amzn1.ask.skill.e566ce21-0d91-4c64-81e1-fcc7c6a28411
 * **ASIN:** B01M28LSPT
 * **Author:** Matt North
-* **Release Date:** November 25, 2016 @ 04:36:17
+* **Release Date:** November 25, 2016 @ 05:36:17
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a trivia about movies.
 * **ID:** amzn1.ask.skill.f69eca3b-c05c-4da8-92b4-c091a6b0912e
 * **ASIN:** B01M7WBPGM
 * **Author:** student
-* **Release Date:** November 2, 2016 @ 01:43:26
+* **Release Date:** November 2, 2016 @ 02:43:26
 * **In-App Purchasing:** No

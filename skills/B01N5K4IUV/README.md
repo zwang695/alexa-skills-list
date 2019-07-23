@@ -25,5 +25,5 @@ Disclaimer: StockTicker and it's developers expressly disclaim the accuracy, ade
 * **ID:** amzn1.ask.skill.69f8b53f-7869-48db-ade8-ef31a1b71405
 * **ASIN:** B01N5K4IUV
 * **Author:** RoyEr
-* **Release Date:** December 30, 2016 @ 05:23:11
+* **Release Date:** December 30, 2016 @ 06:23:11
 * **In-App Purchasing:** No

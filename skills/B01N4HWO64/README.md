@@ -20,5 +20,5 @@ Mister Twist solves the classic problem: everyone wants to play, but no one want
 * **ID:** amzn1.ask.skill.8b6a1cbb-754a-4d61-8776-1ca0cac2c45b
 * **ASIN:** B01N4HWO64
 * **Author:** Nick Peth
-* **Release Date:** December 30, 2016 @ 04:49:15
+* **Release Date:** December 30, 2016 @ 05:49:15
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Seattle Transit provides step-by-step transit directions for getting from one ne
 * **ID:** amzn1.echo-sdk-ams.app.17952b33-3e63-4b70-9594-45ca63ee86dc
 * **ASIN:** B01BLYBPBQ
 * **Author:** Anton Babadjanov
-* **Release Date:** February 9, 2016 @ 18:54:51
+* **Release Date:** February 9, 2016 @ 19:54:51
 * **In-App Purchasing:** No

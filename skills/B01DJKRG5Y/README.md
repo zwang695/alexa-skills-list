@@ -20,5 +20,5 @@ Turtle Trivia is a short word game that asks 5 random questions about turtles an
 * **ID:** amzn1.echo-sdk-ams.app.1eae487b-5575-4231-a92d-3e0a9558e9fe
 * **ASIN:** B01DJKRG5Y
 * **Author:** Testingstuff
-* **Release Date:** March 28, 2016 @ 14:42:16
+* **Release Date:** March 28, 2016 @ 15:42:16
 * **In-App Purchasing:** No

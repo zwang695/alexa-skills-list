@@ -20,5 +20,5 @@ Who's First helps you decide who gets the first turn when you are starting a car
 * **ID:** amzn1.ask.skill.27a4a747-2106-4e69-b606-4e6e210978c8
 * **ASIN:** B01MFFVQ7L
 * **Author:** RedB1N0ME
-* **Release Date:** November 4, 2016 @ 03:12:34
+* **Release Date:** November 4, 2016 @ 04:12:34
 * **In-App Purchasing:** No

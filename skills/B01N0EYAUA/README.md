@@ -20,6 +20,6 @@ With Task Master you can now access your Wunderlist with your voice! Quickly rev
 * **ID:** amzn1.ask.skill.f0cbd30c-acec-427c-99f6-27dc60f7d116
 * **ASIN:** B01N0EYAUA
 * **Author:** BDM Enterprises, Inc.
-* **Release Date:** December 5, 2016 @ 03:35:50
+* **Release Date:** December 5, 2016 @ 04:35:50
 * **Privacy Policy:** http://www.bdmenterprises.com/privacy.html
 * **In-App Purchasing:** No

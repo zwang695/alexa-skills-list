@@ -26,7 +26,7 @@ If you like this skill, check out Next Pass on the iTunes App Store.
 * **ID:** amzn1.echo-sdk-ams.app.74af6e0b-1f7c-45d6-8a72-47f9091185c7
 * **ASIN:** B01GB08DI8
 * **Author:** Eiger Tech LLC
-* **Release Date:** June 20, 2016 @ 03:45:39
+* **Release Date:** June 20, 2016 @ 04:45:39
 * **Privacy Policy:** http://www.eiger-tech.com/about
 * **Terms of Use:** http://www.eiger-tech.com/about
 * **In-App Purchasing:** No

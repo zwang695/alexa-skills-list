@@ -20,5 +20,5 @@ Geography of India - Flash card application for state abbreviations on Indian st
 * **ID:** amzn1.ask.skill.fc80089e-5b1f-4f57-bb68-32acead42fb2
 * **ASIN:** B01JERYIIE
 * **Author:** Jogesh Palenkara
-* **Release Date:** August 5, 2016 @ 05:07:29
+* **Release Date:** August 5, 2016 @ 06:07:29
 * **In-App Purchasing:** No

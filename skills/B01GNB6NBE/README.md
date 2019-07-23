@@ -20,5 +20,5 @@ Ever wonder what the most expensive dog is, or if male dogs are stronger than fe
 * **ID:** amzn1.echo-sdk-ams.app.4221b08b-9305-4ec0-b5da-6bdec3a4cd03
 * **ASIN:** B01GNB6NBE
 * **Author:** rickypwnage
-* **Release Date:** June 8, 2016 @ 07:41:18
+* **Release Date:** June 8, 2016 @ 08:41:18
 * **In-App Purchasing:** No

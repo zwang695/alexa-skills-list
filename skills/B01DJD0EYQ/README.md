@@ -20,5 +20,5 @@ Save your commute by learning about delays in the Washington DC Metro system bef
 * **ID:** amzn1.echo-sdk-ams.app.14b27f1c-ca7b-4932-8f62-064c34261a6f
 * **ASIN:** B01DJD0EYQ
 * **Author:** Nat Burgwyn
-* **Release Date:** March 29, 2016 @ 19:33:46
+* **Release Date:** March 29, 2016 @ 20:33:46
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ To use the Jim Wyatt Fact skill, try saying...
 * **ID:** amzn1.ask.skill.ac489385-89b1-42f4-8e22-35e906a156a9
 * **ASIN:** B01LYP1B58
 * **Author:** 4SITE Inc
-* **Release Date:** October 6, 2016 @ 08:12:06
+* **Release Date:** October 6, 2016 @ 09:12:06
 * **In-App Purchasing:** No

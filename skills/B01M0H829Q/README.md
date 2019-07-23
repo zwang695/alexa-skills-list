@@ -16,5 +16,5 @@ Facts on wine is a simple program that can deliver neat facts about wine.  Every
 * **ID:** amzn1.ask.skill.d349a9e7-381d-4e88-ab32-45d242030607
 * **ASIN:** B01M0H829Q
 * **Author:** JustinCadburyWong
-* **Release Date:** October 5, 2016 @ 00:12:12
+* **Release Date:** October 5, 2016 @ 01:12:12
 * **In-App Purchasing:** No

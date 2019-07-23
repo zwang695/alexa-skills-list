@@ -16,5 +16,5 @@ Gives you facts about India
 * **ID:** amzn1.ask.skill.66c7ade6-6ce5-4758-939c-19b8d434e7be
 * **ASIN:** B01LP8FLQ8
 * **Author:** Shanthan Kesharaju
-* **Release Date:** September 8, 2016 @ 02:33:50
+* **Release Date:** September 8, 2016 @ 03:33:50
 * **In-App Purchasing:** No

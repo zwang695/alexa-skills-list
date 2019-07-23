@@ -16,5 +16,5 @@ BART Status gets current service advisories from the official BART website.
 * **ID:** amzn1.echo-sdk-ams.app.5d24a9a0-d8ea-4867-b842-efc09f65b849
 * **ASIN:** B01BCU8QPW
 * **Author:** Tapgods
-* **Release Date:** February 1, 2016 @ 17:36:41
+* **Release Date:** February 1, 2016 @ 18:36:41
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask Alexa to flip a coin or roll differnet kinds of dice
 * **ID:** amzn1.ask.skill.3e10ee12-38aa-4d67-977a-b9444863a90b
 * **ASIN:** B01M0JCL07
 * **Author:** orthros
-* **Release Date:** October 3, 2016 @ 03:42:19
+* **Release Date:** October 3, 2016 @ 04:42:19
 * **In-App Purchasing:** No

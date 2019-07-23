@@ -30,6 +30,6 @@ You can specify which device to send the information to by saying, Alexa, tell s
 * **ID:** amzn1.ask.skill.aa54f3db-8eeb-4799-ba54-a22717752468
 * **ASIN:** B01N6I1DAD
 * **Author:** Renovo Technologies LLC
-* **Release Date:** December 28, 2016 @ 23:49:12
+* **Release Date:** December 29, 2016 @ 00:49:12
 * **Privacy Policy:** http://renovotechnologies.com/privacy
 * **In-App Purchasing:** No

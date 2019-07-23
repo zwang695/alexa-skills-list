@@ -20,5 +20,5 @@ Gain fun trivia knowledge from Alexa related to food
 * **ID:** amzn1.ask.skill.16475c3b-2ade-44bb-875e-7e8ba52e80e4
 * **ASIN:** B01MEFVHKU
 * **Author:** Chris Wallace
-* **Release Date:** November 21, 2016 @ 09:05:16
+* **Release Date:** November 21, 2016 @ 10:05:16
 * **In-App Purchasing:** No

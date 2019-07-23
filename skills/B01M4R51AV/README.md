@@ -22,5 +22,5 @@ You can stop and resume the sirens by asking 'Alexa Pause', 'Alexa Resume'. Simi
 * **ID:** amzn1.ask.skill.47b33aca-d1a3-4938-ae52-1a94b02c287e
 * **ASIN:** B01M4R51AV
 * **Author:** oisin
-* **Release Date:** November 10, 2016 @ 01:12:43
+* **Release Date:** November 10, 2016 @ 02:12:43
 * **In-App Purchasing:** No

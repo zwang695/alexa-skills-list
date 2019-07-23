@@ -22,5 +22,5 @@ To start, ask football trivia to kickoff!
 * **ID:** amzn1.echo-sdk-ams.app.71f1fd72-3290-4c1d-a677-d2e6830e9710
 * **ASIN:** B01HN2WB90
 * **Author:** Winston Frick
-* **Release Date:** June 29, 2016 @ 09:57:47
+* **Release Date:** June 29, 2016 @ 10:57:47
 * **In-App Purchasing:** No

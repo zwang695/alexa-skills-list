@@ -20,5 +20,5 @@ This  skill  give  you  random magical  facts of Harry Potter
 * **ID:** amzn1.ask.skill.fb361b6e-6297-4ca8-b4f5-b59f266fa68f
 * **ASIN:** B01LJUN3VC
 * **Author:** DCOM
-* **Release Date:** September 6, 2016 @ 02:33:54
+* **Release Date:** September 6, 2016 @ 03:33:54
 * **In-App Purchasing:** No

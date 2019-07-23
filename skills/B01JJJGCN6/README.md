@@ -25,5 +25,5 @@ Logo Based on designs from Icon Fair and alican used under Creative Commons 3.0 
 * **ID:** amzn1.ask.skill.ab8cc3a4-aa5d-49ab-a6a0-c01b3103c42e
 * **ASIN:** B01JJJGCN6
 * **Author:** We Right Software
-* **Release Date:** August 17, 2016 @ 04:52:41
+* **Release Date:** August 17, 2016 @ 05:52:41
 * **In-App Purchasing:** No

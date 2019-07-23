@@ -20,5 +20,5 @@ Debt Discouragement is a Skill that allows you to get some financial tips from A
 * **ID:** amzn1.ask.skill.44065039-014f-4846-9c81-c8718ad8c353
 * **ASIN:** B01LZXY31C
 * **Author:** Aspire Creations LLC
-* **Release Date:** November 2, 2016 @ 07:12:20
+* **Release Date:** November 2, 2016 @ 08:12:20
 * **In-App Purchasing:** No

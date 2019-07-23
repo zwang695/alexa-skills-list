@@ -26,7 +26,7 @@ Learn more at curiosity.com.
 * **ID:** amzn1.ask.skill.e3c4d6bb-69a2-49ec-8988-7f27a13cf371
 * **ASIN:** B01MT1GPWX
 * **Author:** Curiosity.com
-* **Release Date:** December 28, 2016 @ 23:19:18
+* **Release Date:** December 29, 2016 @ 00:19:18
 * **Privacy Policy:** https://curiosity.com/privacy/
 * **Terms of Use:** https://curiosity.com/terms/
 * **In-App Purchasing:** No

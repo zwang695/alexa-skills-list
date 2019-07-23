@@ -20,5 +20,5 @@ Tell You an Interesting Dog Facts
 * **ID:** amzn1.ask.skill.db4d1b00-2c4c-409f-936c-2beaae35d5cf
 * **ASIN:** B01IW0G8H8
 * **Author:** Network Automation Nerds LLC.
-* **Release Date:** July 28, 2016 @ 00:56:42
+* **Release Date:** July 28, 2016 @ 01:56:42
 * **In-App Purchasing:** No

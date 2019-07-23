@@ -16,5 +16,5 @@ Get tv show recommendations and descriptions from Korean entertainment.
 * **ID:** amzn1.ask.skill.4d42e7bb-ffd0-45e5-9438-a5eaa2c759b7
 * **ASIN:** B01LXVZ4JC
 * **Author:** diazelena
-* **Release Date:** September 22, 2016 @ 05:41:53
+* **Release Date:** September 22, 2016 @ 06:41:53
 * **In-App Purchasing:** No

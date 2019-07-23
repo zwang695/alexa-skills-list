@@ -46,6 +46,6 @@ One technical note is that you need to open a port on your router for the signal
 * **ID:** amzn1.echo-sdk-ams.app.194b7d6a-18e3-4c94-b4c9-6d921bd21a6d
 * **ASIN:** B01GXRDNSE
 * **Author:** Dengineer
-* **Release Date:** September 2, 2016 @ 02:05:00
+* **Release Date:** September 2, 2016 @ 03:05:00
 * **Privacy Policy:** https://eddy.tinyelectrons.com/index.php/users/privacy
 * **In-App Purchasing:** No

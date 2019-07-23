@@ -31,5 +31,5 @@ Twitter: @Dr_Blankenstein
 * **ID:** amzn1.ask.skill.474fd648-1069-4c6d-9977-ec7165951bb9
 * **ASIN:** B01N5COOWU
 * **Author:** www.drBlankenstein.com
-* **Release Date:** December 10, 2016 @ 05:19:27
+* **Release Date:** December 10, 2016 @ 06:19:27
 * **In-App Purchasing:** No

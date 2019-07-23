@@ -20,5 +20,5 @@ This skill asks you multiple choice trivia questions about Iceland. Answer to th
 * **ID:** amzn1.ask.skill.61aa3423-03e2-41c9-a41a-346d0c7b1e48
 * **ASIN:** B01J0JQURS
 * **Author:** Lauren Milne
-* **Release Date:** July 27, 2016 @ 02:56:58
+* **Release Date:** July 27, 2016 @ 03:56:58
 * **In-App Purchasing:** No

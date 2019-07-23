@@ -20,5 +20,5 @@ The Earl Bales Ski Centre Snow Report brought to you by SnoCountry brings you th
 * **ID:** amzn1.ask.skill.a59e408a-b1cd-4d26-9e9f-3daadd3902aa
 * **ASIN:** B01N3NUBR0
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:15:31
+* **Release Date:** November 5, 2016 @ 12:15:31
 * **In-App Purchasing:** No

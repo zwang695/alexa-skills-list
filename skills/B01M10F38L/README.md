@@ -20,5 +20,5 @@ The Mammoth Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.dadfef21-8f88-410b-8948-169c27c3aa7d
 * **ASIN:** B01M10F38L
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:16:03
+* **Release Date:** October 20, 2016 @ 04:16:03
 * **In-App Purchasing:** No

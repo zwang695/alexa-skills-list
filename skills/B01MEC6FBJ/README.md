@@ -20,5 +20,5 @@ Give Alex a Bible verse reference and she will read you the text of the verse fr
 * **ID:** amzn1.ask.skill.568af21d-ebe3-494b-9c82-2a8eb17f5984
 * **ASIN:** B01MEC6FBJ
 * **Author:** Inspired Web Design Ltd
-* **Release Date:** October 25, 2016 @ 01:14:28
+* **Release Date:** October 25, 2016 @ 02:14:28
 * **In-App Purchasing:** No

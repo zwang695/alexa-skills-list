@@ -16,5 +16,5 @@ Your health coaching partner to improve your quality of life.  Use your Echo to 
 * **ID:** amzn1.ask.skill.16608dcb-7292-47af-bdb1-9d9182cc74cb
 * **ASIN:** B01N0C0SI3
 * **Author:** Bimini V
-* **Release Date:** November 15, 2016 @ 00:05:22
+* **Release Date:** November 15, 2016 @ 01:05:22
 * **In-App Purchasing:** No

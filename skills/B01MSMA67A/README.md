@@ -20,5 +20,5 @@ The skill reads the latest headlines from Good Housekeeping. Categories include 
 * **ID:** amzn1.ask.skill.3f99f627-3050-4697-b642-70afe9607af6
 * **ASIN:** B01MSMA67A
 * **Author:** Mandy Chan
-* **Release Date:** November 17, 2016 @ 00:05:19
+* **Release Date:** November 17, 2016 @ 01:05:19
 * **In-App Purchasing:** No

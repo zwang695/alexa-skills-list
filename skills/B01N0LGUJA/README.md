@@ -108,5 +108,5 @@ If you have any questions or comments regarding this application please feel fre
 * **ID:** amzn1.ask.skill.d4f9289b-8940-49c4-9547-0a7531d624c3
 * **ASIN:** B01N0LGUJA
 * **Author:** Francis Ottomanelli
-* **Release Date:** December 17, 2016 @ 02:50:18
+* **Release Date:** December 17, 2016 @ 03:50:18
 * **In-App Purchasing:** No

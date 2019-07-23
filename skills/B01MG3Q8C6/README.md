@@ -18,5 +18,5 @@ Interesting facts about Jamaica that will grow over time.
 * **ID:** amzn1.ask.skill.6a7db29e-33f8-456b-aa52-373b837c1535
 * **ASIN:** B01MG3Q8C6
 * **Author:** Loi-Natalie Laing
-* **Release Date:** October 29, 2016 @ 08:42:14
+* **Release Date:** October 29, 2016 @ 09:42:14
 * **In-App Purchasing:** No

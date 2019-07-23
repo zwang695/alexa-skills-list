@@ -20,5 +20,5 @@ Food Flash tests your knowledge of food and the world by asking you questions an
 * **ID:** amzn1.echo-sdk-ams.app.6bc2cf8f-b309-4d8c-8dc9-bb115f611b1a
 * **ASIN:** B01GW98LT4
 * **Author:** bobasoba LLC
-* **Release Date:** June 17, 2016 @ 09:45:32
+* **Release Date:** June 17, 2016 @ 10:45:32
 * **In-App Purchasing:** No

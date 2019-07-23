@@ -20,5 +20,5 @@ a few more space facts
 * **ID:** amzn1.ask.skill.771d00b1-b723-458a-9d5b-7e28ec220843
 * **ASIN:** B01MDV7X67
 * **Author:** Brombomb
-* **Release Date:** November 6, 2016 @ 01:42:48
+* **Release Date:** November 6, 2016 @ 02:42:48
 * **In-App Purchasing:** No

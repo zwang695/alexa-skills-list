@@ -20,5 +20,5 @@ Provides tidal information for the entire Maine coast, based on the city closest
 * **ID:** amzn1.ask.skill.e142fa86-3d22-46d2-b16a-5bbba88283d7
 * **ASIN:** B01N0APHA1
 * **Author:** Mark Willis
-* **Release Date:** November 16, 2016 @ 02:35:56
+* **Release Date:** November 16, 2016 @ 03:35:56
 * **In-App Purchasing:** No

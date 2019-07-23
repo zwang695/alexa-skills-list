@@ -16,5 +16,5 @@ A quiz about the Kings and Queens of the United Kingdom. Learn about the Kings a
 * **ID:** amzn1.ask.skill.c51336fd-52f3-4f28-9203-4d43b1b0ed9b
 * **ASIN:** B01MA32G7J
 * **Author:** Jack Davis
-* **Release Date:** October 19, 2016 @ 01:43:50
+* **Release Date:** October 19, 2016 @ 02:43:50
 * **In-App Purchasing:** No

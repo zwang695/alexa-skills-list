@@ -20,5 +20,5 @@ Summon an interesting random fact about cats.
 * **ID:** amzn1.echo-sdk-ams.app.6f97ae95-04de-4dbb-b5e4-42c967543876
 * **ASIN:** B01EL5O3SE
 * **Author:** Sanny Lin
-* **Release Date:** April 28, 2016 @ 18:08:27
+* **Release Date:** April 28, 2016 @ 19:08:27
 * **In-App Purchasing:** No

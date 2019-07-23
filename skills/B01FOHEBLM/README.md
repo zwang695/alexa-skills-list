@@ -20,5 +20,5 @@ Ferrets are cute fuzzy friends that the whole family can enjoy. Now there is a f
 * **ID:** amzn1.echo-sdk-ams.app.accbab25-eecd-4d55-9383-ed18e7a203d4
 * **ASIN:** B01FOHEBLM
 * **Author:** AngelAsman
-* **Release Date:** May 16, 2016 @ 15:38:41
+* **Release Date:** May 16, 2016 @ 16:38:41
 * **In-App Purchasing:** No

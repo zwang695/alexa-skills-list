@@ -20,5 +20,5 @@ Carelessly discarded trash puts a huge burden on the environment.  Ask the Trash
 * **ID:** amzn1.ask.skill.bfd1e587-3839-4064-8674-ae7eddaa497b
 * **ASIN:** B01NCLAN6T
 * **Author:** ELS
-* **Release Date:** December 15, 2016 @ 07:19:13
+* **Release Date:** December 15, 2016 @ 08:19:13
 * **In-App Purchasing:** No

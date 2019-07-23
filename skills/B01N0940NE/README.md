@@ -20,5 +20,5 @@ The Calabogie Peaks Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.f81d496e-40e6-4ed4-a5e8-07297f1f0ca9
 * **ASIN:** B01N0940NE
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:14:38
+* **Release Date:** November 5, 2016 @ 12:14:38
 * **In-App Purchasing:** No

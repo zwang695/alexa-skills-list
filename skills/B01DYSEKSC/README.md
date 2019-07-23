@@ -20,5 +20,5 @@ With Stock Quote you can have Alexa tell you the recent price of any stock liste
 * **ID:** amzn1.echo-sdk-ams.app.35677929-49af-489d-b7b2-159fa590cb2f
 * **ASIN:** B01DYSEKSC
 * **Author:** playdumbo.nyc
-* **Release Date:** May 2, 2016 @ 05:38:37
+* **Release Date:** May 2, 2016 @ 06:38:37
 * **In-App Purchasing:** No

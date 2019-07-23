@@ -18,5 +18,5 @@ Some fun Oingo Boingo Fan Facts, to amuse & inform you :)  This unauthorized ski
 * **ID:** amzn1.ask.skill.03705a2d-e8ee-441a-8629-55a207e8bc1f
 * **ASIN:** B01M6YUTQL
 * **Author:** Ed Mechem
-* **Release Date:** October 31, 2016 @ 12:42:47
+* **Release Date:** October 31, 2016 @ 13:42:47
 * **In-App Purchasing:** No

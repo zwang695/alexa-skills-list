@@ -23,5 +23,5 @@ This skill is fun to play alone or with family and friends.
 * **ID:** amzn1.ask.skill.84e1b3fb-5c3a-42d2-acbc-f7039b60aee6
 * **ASIN:** B01IV07OF4
 * **Author:** wesee
-* **Release Date:** July 26, 2016 @ 07:26:32
+* **Release Date:** July 26, 2016 @ 08:26:32
 * **In-App Purchasing:** No

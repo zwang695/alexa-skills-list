@@ -30,5 +30,5 @@ Requires: Amazon echo, echo dot, or any Alexa enabled device.
 * **ID:** amzn1.ask.skill.7c5b9ceb-088b-40fc-8db2-ad826f771bc7
 * **ASIN:** B01N6LB5SY
 * **Author:** Vytautas Alech
-* **Release Date:** December 30, 2016 @ 04:49:39
+* **Release Date:** December 30, 2016 @ 05:49:39
 * **In-App Purchasing:** No

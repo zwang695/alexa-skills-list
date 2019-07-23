@@ -20,5 +20,5 @@ This skill will tell you a random interesting and fun fact. Any inquisitive pers
 * **ID:** amzn1.ask.skill.f7c45847-c084-4a6b-801f-16aadcc1426c
 * **ASIN:** B01IVZ1L26
 * **Author:** Rick Schrader
-* **Release Date:** August 2, 2016 @ 08:41:43
+* **Release Date:** August 2, 2016 @ 09:41:43
 * **In-App Purchasing:** No

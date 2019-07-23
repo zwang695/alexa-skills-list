@@ -24,5 +24,5 @@ Parental guidance suggested. The Wayne Investigation contains content that may n
 * **ID:** amzn1.echo-sdk-ams.app.25d585a4-e73e-472a-992d-fd6df560785b
 * **ASIN:** B01C9AX5VY
 * **Author:** Warner Bros
-* **Release Date:** February 26, 2016 @ 14:30:20
+* **Release Date:** February 26, 2016 @ 15:30:20
 * **In-App Purchasing:** No

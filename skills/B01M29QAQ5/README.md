@@ -18,5 +18,5 @@ This Skill tells you something about the history of the Red Cross
 * **ID:** amzn1.ask.skill.4fa04fc9-c2e3-4d97-9545-52897c05c527
 * **ASIN:** B01M29QAQ5
 * **Author:** CKundel
-* **Release Date:** November 9, 2016 @ 00:44:10
+* **Release Date:** November 9, 2016 @ 01:44:10
 * **In-App Purchasing:** No

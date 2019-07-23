@@ -49,6 +49,6 @@ Is the skill having trouble picking up some of your devices? Try changing the na
 * **ID:** amzn1.echo-sdk-ams.app.177a1019-e465-44f1-b4fd-cdf3d76bfb40
 * **ASIN:** B01DOP9H2O
 * **Author:** Alarm.com
-* **Release Date:** March 31, 2016 @ 18:34:50
+* **Release Date:** March 31, 2016 @ 19:34:50
 * **Privacy Policy:** http://www.alarm.com/privacy_policy.aspx
 * **In-App Purchasing:** No

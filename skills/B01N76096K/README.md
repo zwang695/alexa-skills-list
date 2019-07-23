@@ -20,5 +20,5 @@ Dice Master simulates a standard dice roll and will return a random number betwe
 * **ID:** amzn1.ask.skill.e6db5ff0-6083-498b-b0c4-0a736a7cae79
 * **ASIN:** B01N76096K
 * **Author:** Dickson Tse
-* **Release Date:** November 21, 2016 @ 00:06:21
+* **Release Date:** November 21, 2016 @ 01:06:21
 * **In-App Purchasing:** No

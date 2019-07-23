@@ -22,5 +22,5 @@ Disclaimer :  The skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.d0fb5aeb-e266-4dee-9bf2-4ce315b01fdd
 * **ASIN:** B01G4T8TQW
 * **Author:** smashing garlic
-* **Release Date:** June 3, 2016 @ 05:38:34
+* **Release Date:** June 3, 2016 @ 06:38:34
 * **In-App Purchasing:** No

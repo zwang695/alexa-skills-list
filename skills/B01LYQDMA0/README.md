@@ -20,5 +20,5 @@ The Ski Granby Ranch Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.1a82922a-311d-43f1-9cea-4352890b1f7b
 * **ASIN:** B01LYQDMA0
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:44:42
+* **Release Date:** October 19, 2016 @ 11:44:42
 * **In-App Purchasing:** No

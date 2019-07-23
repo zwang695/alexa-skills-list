@@ -20,5 +20,5 @@ Pie number facts delivers you random facts about all things with numbers. Whethe
 * **ID:** amzn1.ask.skill.3b72002b-15a3-4a63-a11a-559e9ba580b9
 * **ASIN:** B01NALAS5P
 * **Author:** Breadbox
-* **Release Date:** December 25, 2016 @ 04:49:11
+* **Release Date:** December 25, 2016 @ 05:49:11
 * **In-App Purchasing:** No

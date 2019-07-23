@@ -20,5 +20,5 @@ This skill will give you a list of US Federal Holiday List
 * **ID:** amzn1.ask.skill.2abbeea2-8736-4725-a203-cba74fb1896d
 * **ASIN:** B01KJ6807O
 * **Author:** Ilamparithi
-* **Release Date:** August 18, 2016 @ 04:52:24
+* **Release Date:** August 18, 2016 @ 05:52:24
 * **In-App Purchasing:** No

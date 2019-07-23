@@ -20,6 +20,6 @@ This skill lets you ask Alexa what ranger events are happening in any of the nat
 * **ID:** amzn1.echo-sdk-ams.app.edee5350-12dd-416a-a5ef-0dbea6f55648
 * **ASIN:** B01DKZSOKO
 * **Author:** Chimani, LLC
-* **Release Date:** April 5, 2016 @ 08:02:25
+* **Release Date:** April 5, 2016 @ 09:02:25
 * **Privacy Policy:** https://www.chimani.com/privacy.html
 * **In-App Purchasing:** No

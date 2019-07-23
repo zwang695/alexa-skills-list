@@ -20,5 +20,5 @@ Fast Food trivia tests your knowledge of the origins and characteristics of your
 * **ID:** amzn1.ask.skill.8ded8e97-3e46-44ee-86e2-1ab973ed23b8
 * **ASIN:** B01LY4LJBA
 * **Author:** Blizzysip Apps
-* **Release Date:** September 12, 2016 @ 04:12:29
+* **Release Date:** September 12, 2016 @ 05:12:29
 * **In-App Purchasing:** No

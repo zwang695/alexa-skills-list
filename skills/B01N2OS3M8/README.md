@@ -22,6 +22,6 @@ The user can get instructions on how to build and configure the pet feeder here:
 * **ID:** amzn1.ask.skill.bd90e946-6a6e-4f9c-b6f0-2698b4c5f37b
 * **ASIN:** B01N2OS3M8
 * **Author:** Darian Johnson
-* **Release Date:** December 4, 2016 @ 07:05:07
+* **Release Date:** December 4, 2016 @ 08:05:07
 * **Privacy Policy:** https://s3.amazonaws.com/catfeeder/cat_feeder_privacy_policy.html
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A few of my Favorite Restaurants, currently in Los Gatos, CA offers cuisine, pro
 * **ID:** amzn1.ask.skill.db54ae21-2a09-4575-9d46-d3fd511d65a0
 * **ASIN:** B01L2X2O4S
 * **Author:** aventir
-* **Release Date:** August 29, 2016 @ 06:02:52
+* **Release Date:** August 29, 2016 @ 07:02:52
 * **In-App Purchasing:** No

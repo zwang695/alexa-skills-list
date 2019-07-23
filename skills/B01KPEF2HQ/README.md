@@ -16,5 +16,5 @@ To use the Computer Facts skill, try saying...
 * **ID:** amzn1.ask.skill.dd8603bb-9ba8-4a6b-a37c-2a579c49c734
 * **ASIN:** B01KPEF2HQ
 * **Author:** NineFu
-* **Release Date:** August 22, 2016 @ 01:37:41
+* **Release Date:** August 22, 2016 @ 02:37:41
 * **In-App Purchasing:** No

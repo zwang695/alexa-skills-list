@@ -35,5 +35,5 @@ Please support this game and its fans by visiting, http://eclipsephase.com. Than
 * **ID:** amzn1.echo-sdk-ams.app.209352a4-5fea-45c1-b548-fe3a0b31a5d9
 * **ASIN:** B01DQCC1R8
 * **Author:** SILVR
-* **Release Date:** April 11, 2016 @ 06:32:29
+* **Release Date:** April 11, 2016 @ 07:32:29
 * **In-App Purchasing:** No

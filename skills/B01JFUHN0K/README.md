@@ -20,5 +20,5 @@ To use the School Menus By Nutrislice skill, try saying...
 * **ID:** amzn1.ask.skill.6a7de283-fd79-43e3-b9a4-d145aaa326b4
 * **ASIN:** B01JFUHN0K
 * **Author:** Nutrislice, Inc.
-* **Release Date:** November 9, 2016 @ 00:45:15
+* **Release Date:** November 9, 2016 @ 01:45:15
 * **In-App Purchasing:** No

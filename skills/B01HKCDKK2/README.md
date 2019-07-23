@@ -20,5 +20,5 @@ Get the day's news broken down by good news or bad news
 * **ID:** amzn1.echo-sdk-ams.app.4f540de1-1471-413d-8e12-2dfd2dcdaa1b
 * **ASIN:** B01HKCDKK2
 * **Author:** Santiago Suarez Ordoñez
-* **Release Date:** July 6, 2016 @ 08:27:36
+* **Release Date:** July 6, 2016 @ 09:27:36
 * **In-App Purchasing:** No

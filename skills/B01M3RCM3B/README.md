@@ -28,5 +28,5 @@ Questions or comments? Contact the developer via email: alexaskills@nickschwab.c
 * **ID:** amzn1.ask.skill.14de8e11-7b5c-490d-b145-ae5a9819dede
 * **ASIN:** B01M3RCM3B
 * **Author:** Nick Schwab
-* **Release Date:** October 22, 2016 @ 02:13:00
+* **Release Date:** October 22, 2016 @ 03:13:00
 * **In-App Purchasing:** No

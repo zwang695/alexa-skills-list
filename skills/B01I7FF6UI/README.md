@@ -20,5 +20,5 @@ This is beneficial because when the customer is in a good mood they will feel be
 * **ID:** amzn1.echo-sdk-ams.app.c6180462-cb32-4532-96ea-f9408e785ae0
 * **ASIN:** B01I7FF6UI
 * **Author:** AjitM
-* **Release Date:** July 29, 2016 @ 06:56:38
+* **Release Date:** July 29, 2016 @ 07:56:38
 * **In-App Purchasing:** No

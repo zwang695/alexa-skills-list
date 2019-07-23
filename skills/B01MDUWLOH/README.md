@@ -20,5 +20,5 @@ The Jack Frost Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.1a38f90e-4fe4-4b1e-9c03-74fb01492fe8
 * **ASIN:** B01MDUWLOH
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:13:47
+* **Release Date:** November 4, 2016 @ 09:13:47
 * **In-App Purchasing:** No

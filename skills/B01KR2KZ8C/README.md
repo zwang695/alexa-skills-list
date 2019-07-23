@@ -21,5 +21,5 @@ Please note, this is a fun skill and was developed by an individual developer. I
 * **ID:** amzn1.ask.skill.69e7807e-bd2f-4d25-a750-6d17aba4a874
 * **ASIN:** B01KR2KZ8C
 * **Author:** Dharmil Chandarana
-* **Release Date:** September 8, 2016 @ 01:33:44
+* **Release Date:** September 8, 2016 @ 02:33:44
 * **In-App Purchasing:** No

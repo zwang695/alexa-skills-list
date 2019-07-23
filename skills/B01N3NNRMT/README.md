@@ -20,5 +20,5 @@ This skill will read out random car engine facts. It'll tell you how internal co
 * **ID:** amzn1.ask.skill.ad9a3f20-93d2-421f-8282-325593ace270
 * **ASIN:** B01N3NNRMT
 * **Author:** odannyc
-* **Release Date:** November 9, 2016 @ 00:44:41
+* **Release Date:** November 9, 2016 @ 01:44:41
 * **In-App Purchasing:** No

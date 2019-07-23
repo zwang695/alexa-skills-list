@@ -18,5 +18,5 @@ Explore important events and famous birthdays that happened today in history. Ga
 * **ID:** amzn1.echo-sdk-ams.app.9f97412f-e15e-482c-9f6b-deb735a89e92
 * **ASIN:** B01EWECCWS
 * **Author:** Cuttarug
-* **Release Date:** May 2, 2016 @ 03:08:32
+* **Release Date:** May 2, 2016 @ 04:08:32
 * **In-App Purchasing:** No

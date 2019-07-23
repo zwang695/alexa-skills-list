@@ -20,5 +20,5 @@ This skill tests your knowledge by asking you three questions, what car number b
 * **ID:** amzn1.echo-sdk-ams.app.fdb4157f-1564-493e-89c2-4a50b5dc8011
 * **ASIN:** B01IDQBMTA
 * **Author:** Mark Wolkon
-* **Release Date:** July 14, 2016 @ 03:57:32
+* **Release Date:** July 14, 2016 @ 04:57:32
 * **In-App Purchasing:** No

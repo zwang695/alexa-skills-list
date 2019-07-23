@@ -20,5 +20,5 @@ Audacy is a new space startup that builds satellites to allow inter-satellite co
 * **ID:** amzn1.echo-sdk-ams.app.b1c46443-b819-483c-8f71-aed5b9ca9331
 * **ASIN:** B01EB2UM8M
 * **Author:** ourhome
-* **Release Date:** May 20, 2016 @ 17:08:33
+* **Release Date:** May 20, 2016 @ 18:08:33
 * **In-App Purchasing:** No

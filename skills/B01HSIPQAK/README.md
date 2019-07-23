@@ -22,5 +22,5 @@ Disclaimer: This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.b146e653-3dfb-4ddf-94fb-791c1deb067e
 * **ASIN:** B01HSIPQAK
 * **Author:** Mr. CatNaps
-* **Release Date:** July 11, 2016 @ 05:27:35
+* **Release Date:** July 11, 2016 @ 06:27:35
 * **In-App Purchasing:** No

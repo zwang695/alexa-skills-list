@@ -20,5 +20,5 @@ Sandler Training is the worldwide leader in sales and sales management training,
 * **ID:** amzn1.echo-sdk-ams.app.c6e61b48-b9e5-477e-ac37-7f1cef9879ab
 * **ASIN:** B01HJYPCUM
 * **Author:** John Rosso
-* **Release Date:** June 28, 2016 @ 04:45:35
+* **Release Date:** June 28, 2016 @ 05:45:35
 * **In-App Purchasing:** No

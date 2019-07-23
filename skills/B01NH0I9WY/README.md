@@ -20,5 +20,5 @@ Alexa gives random facts about opossums
 * **ID:** amzn1.ask.skill.2b80afa4-24f8-4a68-8cd6-e4ea8f90748d
 * **ASIN:** B01NH0I9WY
 * **Author:** Andy Cao
-* **Release Date:** December 30, 2016 @ 05:18:55
+* **Release Date:** December 30, 2016 @ 06:18:55
 * **In-App Purchasing:** No

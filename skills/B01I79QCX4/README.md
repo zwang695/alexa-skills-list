@@ -20,5 +20,5 @@ Simply ask Alexa for a fact about Mars.  Start the application and ask for a fac
 * **ID:** amzn1.echo-sdk-ams.app.3b0c16f9-213b-4bf0-b063-1c85a9dc7887
 * **ASIN:** B01I79QCX4
 * **Author:** Jordan Franklin
-* **Release Date:** August 4, 2016 @ 04:41:39
+* **Release Date:** August 4, 2016 @ 05:41:39
 * **In-App Purchasing:** No

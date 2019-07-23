@@ -20,5 +20,5 @@ Absolutely unfair game. Will you try to make a number greater than game's?
 * **ID:** amzn1.ask.skill.597afbc9-1c0e-423b-bcf3-6fe0f18f77ff
 * **ASIN:** B01N0MIGYC
 * **Author:** maximsadym
-* **Release Date:** December 27, 2016 @ 05:48:56
+* **Release Date:** December 27, 2016 @ 06:48:56
 * **In-App Purchasing:** No

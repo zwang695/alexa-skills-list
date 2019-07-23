@@ -20,5 +20,5 @@ This skill provides random interesting Space facts! Never hurts to learn somethi
 * **ID:** amzn1.ask.skill.dbafcdc8-c89e-40e0-ac1e-2e913b0a1d43
 * **ASIN:** B01MU5FSOU
 * **Author:** Jorge Martin
-* **Release Date:** December 31, 2016 @ 00:19:25
+* **Release Date:** December 31, 2016 @ 01:19:25
 * **In-App Purchasing:** No

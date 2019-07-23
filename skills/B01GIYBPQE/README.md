@@ -20,5 +20,5 @@ Wahoos is the unofficial nickname for the University of Virginia sports teams. T
 * **ID:** amzn1.echo-sdk-ams.app.45ab957b-e478-480c-a8d8-9c5e847bd388
 * **ASIN:** B01GIYBPQE
 * **Author:** Winston Frick
-* **Release Date:** June 8, 2016 @ 08:39:47
+* **Release Date:** June 8, 2016 @ 09:39:47
 * **In-App Purchasing:** No

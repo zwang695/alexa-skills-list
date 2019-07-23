@@ -24,5 +24,5 @@ This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.d94c3b2b-40f1-42da-8cb2-5de2f999f717
 * **ASIN:** B01IA5WVJY
 * **Author:** Matt Swatzell
-* **Release Date:** July 15, 2016 @ 05:27:30
+* **Release Date:** July 15, 2016 @ 06:27:30
 * **In-App Purchasing:** No

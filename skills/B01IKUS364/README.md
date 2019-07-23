@@ -20,5 +20,5 @@ Learning about electronics can be fun, simply ask Alexa to open Electronics Triv
 * **ID:** amzn1.echo-sdk-ams.app.5335743a-bedd-4c36-8cf5-01152c618b43
 * **ASIN:** B01IKUS364
 * **Author:** ElectronHacks
-* **Release Date:** July 18, 2016 @ 09:57:40
+* **Release Date:** July 18, 2016 @ 10:57:40
 * **In-App Purchasing:** No

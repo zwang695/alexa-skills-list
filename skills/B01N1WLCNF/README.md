@@ -22,5 +22,5 @@ No extra hardware or setup is necessary!
 * **ID:** amzn1.ask.skill.7ffb3cc8-5b1c-491c-9662-ec4193a1a585
 * **ASIN:** B01N1WLCNF
 * **Author:** apacible
-* **Release Date:** December 30, 2016 @ 03:49:13
+* **Release Date:** December 30, 2016 @ 04:49:13
 * **In-App Purchasing:** No

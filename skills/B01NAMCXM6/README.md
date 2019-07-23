@@ -20,5 +20,5 @@ Simply ask for a cat fact, and we'll provide one!
 * **ID:** amzn1.ask.skill.198926ab-6b17-4b22-a71b-244ae8abeaed
 * **ASIN:** B01NAMCXM6
 * **Author:** FS labs
-* **Release Date:** December 27, 2016 @ 05:19:31
+* **Release Date:** December 27, 2016 @ 06:19:31
 * **In-App Purchasing:** No

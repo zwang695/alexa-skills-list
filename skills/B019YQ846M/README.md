@@ -28,6 +28,6 @@ This skill works for every L train stop in New York City, including Brooklyn and
 * **ID:** amzn1.echo-sdk-ams.app.90c30b6a-6ff7-499c-be12-86a8516cea8b
 * **ASIN:** B019YQ846M
 * **Author:** Nick Mercer
-* **Release Date:** December 29, 2015 @ 18:40:51
+* **Release Date:** December 29, 2015 @ 19:40:51
 * **Privacy Policy:** http://nmercer.github.io/TheLTrainPrivacyPolicy/
 * **In-App Purchasing:** No

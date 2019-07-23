@@ -20,5 +20,5 @@ This is a simple trivia game which asks the player questions along a Liberty and
 * **ID:** amzn1.ask.skill.e4ff5e75-84c4-42dc-9a5b-0ce84b54e204
 * **ASIN:** B01JDJ3YZG
 * **Author:** Shipley Ideas
-* **Release Date:** August 1, 2016 @ 05:56:29
+* **Release Date:** August 1, 2016 @ 06:56:29
 * **In-App Purchasing:** No

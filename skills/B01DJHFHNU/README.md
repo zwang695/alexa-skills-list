@@ -23,5 +23,5 @@ Random odd facts for your amusement and bemusement.
 * **ID:** amzn1.echo-sdk-ams.app.8bea169b-82ba-4004-98bb-a6353c2c1376
 * **ASIN:** B01DJHFHNU
 * **Author:** gitbnw
-* **Release Date:** April 6, 2016 @ 08:33:52
+* **Release Date:** April 6, 2016 @ 09:33:52
 * **In-App Purchasing:** No

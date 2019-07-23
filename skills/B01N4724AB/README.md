@@ -20,5 +20,5 @@ Ask RandomMovie for a movie to watch, and one will be given to you. If you would
 * **ID:** amzn1.ask.skill.b0ba8704-d31e-4d5a-b3ed-4e683e7709c7
 * **ASIN:** B01N4724AB
 * **Author:** David Ragsdale
-* **Release Date:** December 3, 2016 @ 04:35:36
+* **Release Date:** December 3, 2016 @ 05:35:36
 * **In-App Purchasing:** No

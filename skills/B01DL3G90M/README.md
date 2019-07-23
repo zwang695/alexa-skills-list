@@ -20,5 +20,5 @@ This is a trivia game that will ask 5 random fact questions in a multiple choice
 * **ID:** amzn1.echo-sdk-ams.app.784bd7e3-bfd7-4c61-9a72-6510c53e487e
 * **ASIN:** B01DL3G90M
 * **Author:** Allen Kramer
-* **Release Date:** March 31, 2016 @ 15:32:25
+* **Release Date:** March 31, 2016 @ 16:32:25
 * **In-App Purchasing:** No

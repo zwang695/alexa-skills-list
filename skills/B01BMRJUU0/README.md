@@ -23,5 +23,5 @@ Market News logo designed by Starline, Freepik.
 * **ID:** amzn1.echo-sdk-ams.app.5125475f-24f4-4132-a898-06423d663020
 * **ASIN:** B01BMRJUU0
 * **Author:** Derek Shi
-* **Release Date:** February 10, 2016 @ 11:34:01
+* **Release Date:** February 10, 2016 @ 12:34:01
 * **In-App Purchasing:** No

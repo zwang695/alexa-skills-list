@@ -16,5 +16,5 @@ A fun app that helps you learn about the flightless birds that are penguins!
 * **ID:** amzn1.ask.skill.40692401-2372-414d-8c4c-fde0899a877e
 * **ASIN:** B01MXXK0II
 * **Author:** MaorSG
-* **Release Date:** December 14, 2016 @ 03:19:57
+* **Release Date:** December 14, 2016 @ 04:19:57
 * **In-App Purchasing:** No

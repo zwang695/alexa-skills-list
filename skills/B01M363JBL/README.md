@@ -20,5 +20,5 @@ There was basketball long before Seth Curry played!  You'll need to reach back t
 * **ID:** amzn1.ask.skill.e8dae414-8861-4a42-ad31-4de17c13ab97
 * **ASIN:** B01M363JBL
 * **Author:** Christopher Roemer
-* **Release Date:** November 9, 2016 @ 00:43:53
+* **Release Date:** November 9, 2016 @ 01:43:53
 * **In-App Purchasing:** No

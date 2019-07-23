@@ -18,5 +18,5 @@ Disclaimer: This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.f4425379-2585-48c3-8b62-c6564688f1ef
 * **ASIN:** B01GR0D12K
 * **Author:** Rutul Dave
-* **Release Date:** June 23, 2016 @ 07:45:50
+* **Release Date:** June 23, 2016 @ 08:45:50
 * **In-App Purchasing:** No

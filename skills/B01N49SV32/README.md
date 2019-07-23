@@ -20,5 +20,5 @@ Listen to the current episode of Retronerds 252 - the podcast for the discerning
 * **ID:** amzn1.ask.skill.0a21e19d-73cd-4f39-ac40-230cc256600d
 * **ASIN:** B01N49SV32
 * **Author:** Reductive Media
-* **Release Date:** December 8, 2016 @ 08:20:00
+* **Release Date:** December 8, 2016 @ 09:20:00
 * **In-App Purchasing:** No

@@ -67,7 +67,7 @@ Tipps<br/>
 * **ID:** amzn1.ask.skill.bf6ff37b-6f1d-4779-ab92-80ab9b1d2cc3
 * **ASIN:** B01LYA1NI7
 * **Author:** innogy SE
-* **Release Date:** October 26, 2016 @ 06:14:02
+* **Release Date:** October 26, 2016 @ 07:14:02
 * **Privacy Policy:** https://service.startsmarthome.de/de/index/legal/data-protection-and-security
 * **Terms of Use:** https://service.startsmarthome.de/de/index/legal/terms-of-use
 * **In-App Purchasing:** No

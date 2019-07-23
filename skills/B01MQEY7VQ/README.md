@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.3d42eb18-5656-4273-b56f-42af9740717b
 * **ASIN:** B01MQEY7VQ
 * **Author:** Thomas Scott
-* **Release Date:** December 1, 2016 @ 09:05:48
+* **Release Date:** December 1, 2016 @ 10:05:48
 * **In-App Purchasing:** No

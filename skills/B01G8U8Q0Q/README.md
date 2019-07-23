@@ -28,5 +28,5 @@ Developed by Christopher Rock, D.O in collaboration with the American Board of F
 * **ID:** amzn1.echo-sdk-ams.app.2a485f3a-680b-4337-827d-1772222125bc
 * **ASIN:** B01G8U8Q0Q
 * **Author:** American Board of Family Medicine
-* **Release Date:** June 17, 2016 @ 06:15:35
+* **Release Date:** June 17, 2016 @ 07:15:35
 * **In-App Purchasing:** No

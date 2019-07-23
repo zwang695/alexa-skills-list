@@ -20,5 +20,5 @@ Ask Alexa for random girl names
 * **ID:** amzn1.echo-sdk-ams.app.4a6268dd-1626-4a66-b8e1-48b8b7797d77
 * **ASIN:** B01I79048I
 * **Author:** Soccer Frisbee
-* **Release Date:** August 10, 2016 @ 07:20:49
+* **Release Date:** August 10, 2016 @ 08:20:49
 * **In-App Purchasing:** No

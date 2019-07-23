@@ -20,5 +20,5 @@ A kinder-guardian can ask How To Destiny where to find certain materials, how to
 * **ID:** amzn1.echo-sdk-ams.app.605ca609-9609-42a3-ace2-65d6628ef29e
 * **ASIN:** B01FG1HKAU
 * **Author:** Flint Creek
-* **Release Date:** May 16, 2016 @ 02:38:34
+* **Release Date:** May 16, 2016 @ 03:38:34
 * **In-App Purchasing:** No

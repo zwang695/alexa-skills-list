@@ -20,7 +20,7 @@ Ezekiel 25:17 just like how Jules says it. Hear Alexa say your favorite movie qu
 * **ID:** amzn1.ask.skill.b32a3c78-5947-4ca3-9708-7c528f9e01cb
 * **ASIN:** B01L56WHZS
 * **Author:** A Little Spark
-* **Release Date:** August 31, 2016 @ 08:02:39
+* **Release Date:** August 31, 2016 @ 09:02:39
 * **Privacy Policy:** http://pastebin.com/raw/Fzn6YHuu
 * **Terms of Use:** http://pastebin.com/raw/Fzn6YHuu
 * **In-App Purchasing:** No

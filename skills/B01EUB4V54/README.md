@@ -20,5 +20,5 @@ Challenge your knowledge about newborns and learn something new in the process!
 * **ID:** amzn1.echo-sdk-ams.app.b7be8b07-d6ff-4316-bcb1-3c0f23008000
 * **ASIN:** B01EUB4V54
 * **Author:** dkapps
-* **Release Date:** April 29, 2016 @ 06:08:33
+* **Release Date:** April 29, 2016 @ 07:08:33
 * **In-App Purchasing:** No

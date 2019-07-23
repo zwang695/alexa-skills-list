@@ -18,5 +18,5 @@ Ranging from botany to chemistry, this trivia game will test your knowledge of s
 * **ID:** amzn1.ask.skill.d1dd3fd6-7cd3-4265-9f0b-34a9cce6f7b8
 * **ASIN:** B01N8TYCQQ
 * **Author:** Thanut (Art) Parkeenvincha
-* **Release Date:** November 12, 2016 @ 00:14:27
+* **Release Date:** November 12, 2016 @ 01:14:27
 * **In-App Purchasing:** No

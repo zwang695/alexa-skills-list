@@ -16,5 +16,5 @@ This app will say a random funny quote
 * **ID:** amzn1.ask.skill.03f99ea5-7717-400c-8a09-19100f5bb5c4
 * **ASIN:** B01L4RVE20
 * **Author:** Alex Shortt
-* **Release Date:** August 31, 2016 @ 02:02:47
+* **Release Date:** August 31, 2016 @ 03:02:47
 * **In-App Purchasing:** No

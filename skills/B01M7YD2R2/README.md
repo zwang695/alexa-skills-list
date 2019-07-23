@@ -20,5 +20,5 @@ Find National Parks by state in the United States.
 * **ID:** amzn1.ask.skill.25b1a77b-ec79-4566-8674-f4192f66b549
 * **ASIN:** B01M7YD2R2
 * **Author:** Brian Wyka
-* **Release Date:** November 15, 2016 @ 03:34:59
+* **Release Date:** November 15, 2016 @ 04:34:59
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Learn about capybara with capybara facts!
 * **ID:** amzn1.ask.skill.535e9d4b-932e-49cf-8552-5aa59783fbd1
 * **ASIN:** B01MZYUWM5
 * **Author:** Zak Strassberg
-* **Release Date:** November 29, 2016 @ 05:35:33
+* **Release Date:** November 29, 2016 @ 06:35:33
 * **In-App Purchasing:** No

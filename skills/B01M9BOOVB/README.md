@@ -21,5 +21,5 @@ If you are the person who order the same Thai dish every time, this skill will e
 * **ID:** amzn1.ask.skill.c0c56a03-e1b2-472e-a379-04e7a1cc8f8e
 * **ASIN:** B01M9BOOVB
 * **Author:** Mark
-* **Release Date:** October 21, 2016 @ 02:13:08
+* **Release Date:** October 21, 2016 @ 03:13:08
 * **In-App Purchasing:** No

@@ -26,5 +26,5 @@ Alexa, give me something to watch
 * **ID:** amzn1.ask.skill.d54adf30-587c-4b62-97f0-d29c9f763903
 * **ASIN:** B01LXN2TUL
 * **Author:** inniss.co
-* **Release Date:** October 10, 2016 @ 07:11:50
+* **Release Date:** October 10, 2016 @ 08:11:50
 * **In-App Purchasing:** No

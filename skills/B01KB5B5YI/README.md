@@ -20,5 +20,5 @@ The add the skill of retrieving some fun facts about computers.
 * **ID:** amzn1.ask.skill.d588a969-9bbe-46f4-8ec0-079e7aebd671
 * **ASIN:** B01KB5B5YI
 * **Author:** Mauro Restuccia
-* **Release Date:** August 22, 2016 @ 03:07:39
+* **Release Date:** August 22, 2016 @ 04:07:39
 * **In-App Purchasing:** No

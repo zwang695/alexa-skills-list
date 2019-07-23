@@ -23,5 +23,5 @@ Prove you're really part of Cardinal Nation and take the quiz!
 * **ID:** amzn1.echo-sdk-ams.app.e5aeb71e-628b-4fd3-808a-ede87a762364
 * **ASIN:** B01DJD8Z3S
 * **Author:** gitbnw
-* **Release Date:** March 28, 2016 @ 10:21:44
+* **Release Date:** March 28, 2016 @ 11:21:44
 * **In-App Purchasing:** No

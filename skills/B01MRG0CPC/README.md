@@ -20,5 +20,5 @@ The Devils Head Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.7ac22470-9aaa-4872-ae9a-74c74d5ed469
 * **ASIN:** B01MRG0CPC
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:44:10
+* **Release Date:** November 5, 2016 @ 11:44:10
 * **In-App Purchasing:** No

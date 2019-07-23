@@ -20,5 +20,5 @@ Dog Facts gives a randomized dog fact whenever asked.
 * **ID:** amzn1.ask.skill.b8a547f5-7dec-427f-9cd5-78c8abd4312a
 * **ASIN:** B01N6L044R
 * **Author:** Trotz
-* **Release Date:** December 29, 2016 @ 01:49:03
+* **Release Date:** December 29, 2016 @ 02:49:03
 * **In-App Purchasing:** No

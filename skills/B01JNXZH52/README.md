@@ -20,5 +20,5 @@ Trivia on the Capital Cities of the States of United States. To help improve the
 * **ID:** amzn1.ask.skill.59c6a30a-b29c-446b-beb4-b90c4daae73e
 * **ASIN:** B01JNXZH52
 * **Author:** Jogesh Palenkara
-* **Release Date:** August 5, 2016 @ 05:37:26
+* **Release Date:** August 5, 2016 @ 06:37:26
 * **In-App Purchasing:** No

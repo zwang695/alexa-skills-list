@@ -22,5 +22,5 @@ Simply choose one of the 4 answer options after a question.
 * **ID:** amzn1.ask.skill.8ab3bc54-4bab-4eae-8726-87939f41dcfa
 * **ASIN:** B01MSH4QTP
 * **Author:** ABS
-* **Release Date:** November 9, 2016 @ 02:43:33
+* **Release Date:** November 9, 2016 @ 03:43:33
 * **In-App Purchasing:** No

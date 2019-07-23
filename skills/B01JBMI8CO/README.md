@@ -20,5 +20,5 @@ Do you have what it takes to get your Ham Radio Technicians class license? See h
 * **ID:** amzn1.ask.skill.8fd329ab-55cf-451d-ad85-4072e6e6e107
 * **ASIN:** B01JBMI8CO
 * **Author:** Cornerstone Software Creations LLC
-* **Release Date:** August 2, 2016 @ 07:36:11
+* **Release Date:** August 2, 2016 @ 08:36:11
 * **In-App Purchasing:** No

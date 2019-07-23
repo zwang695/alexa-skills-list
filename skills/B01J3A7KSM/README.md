@@ -20,5 +20,5 @@ Most people love summer -- hockey fans know otherwise. The time between June and
 * **ID:** amzn1.ask.skill.d33fb23e-bee9-4341-9c7e-bf5f5f13a6c4
 * **ASIN:** B01J3A7KSM
 * **Author:** TonicCat
-* **Release Date:** October 6, 2016 @ 02:12:12
+* **Release Date:** October 6, 2016 @ 03:12:12
 * **In-App Purchasing:** No

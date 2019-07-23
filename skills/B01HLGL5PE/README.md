@@ -24,5 +24,5 @@ If you can't remember all of the options, you can ask Alexa to 'Repeat' the ques
 * **ID:** amzn1.echo-sdk-ams.app.f72054cc-a576-455c-b5b0-727c2c797587
 * **ASIN:** B01HLGL5PE
 * **Author:** Shankx Web Development LLC
-* **Release Date:** June 27, 2016 @ 07:15:38
+* **Release Date:** June 27, 2016 @ 08:15:38
 * **In-App Purchasing:** No

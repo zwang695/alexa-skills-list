@@ -20,5 +20,5 @@ For any teachers who plan to implement technologies in the classroom, finding ne
 * **ID:** amzn1.ask.skill.acea3650-9187-449c-8c33-8977f8a0de5c
 * **ASIN:** B01MG5Q2CC
 * **Author:** University of Utah
-* **Release Date:** November 2, 2016 @ 03:14:18
+* **Release Date:** November 2, 2016 @ 04:14:18
 * **In-App Purchasing:** No

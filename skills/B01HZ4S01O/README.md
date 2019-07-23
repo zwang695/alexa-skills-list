@@ -45,5 +45,5 @@ Vaniglia - vanilla
 * **ID:** amzn1.echo-sdk-ams.app.97499a04-51b6-44ef-bcb3-7fdf87e52ace
 * **ASIN:** B01HZ4S01O
 * **Author:** Myers Design
-* **Release Date:** July 8, 2016 @ 02:57:57
+* **Release Date:** July 8, 2016 @ 03:57:57
 * **In-App Purchasing:** No

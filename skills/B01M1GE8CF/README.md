@@ -34,6 +34,6 @@ One or more of the MiHome devices listed above.
 * **ID:** amzn1.ask.skill.2d89b675-cf1e-4575-a74f-5d02ba3140c3
 * **ASIN:** B01M1GE8CF
 * **Author:** Energenie
-* **Release Date:** November 17, 2016 @ 19:05:04
+* **Release Date:** November 17, 2016 @ 20:05:04
 * **Privacy Policy:** https://mihome4u.co.uk/privacy
 * **In-App Purchasing:** No

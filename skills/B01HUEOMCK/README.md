@@ -20,5 +20,5 @@ This list contains angry quotes from Alexa. They are meant to be funny and adds 
 * **ID:** amzn1.echo-sdk-ams.app.f67eb104-3e7b-47b4-85b3-58a54b245b93
 * **ASIN:** B01HUEOMCK
 * **Author:** ALPHABETO
-* **Release Date:** July 7, 2016 @ 08:27:32
+* **Release Date:** July 7, 2016 @ 09:27:32
 * **In-App Purchasing:** No

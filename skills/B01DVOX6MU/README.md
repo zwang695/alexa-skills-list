@@ -20,5 +20,5 @@ Some days it's better to just stay in; ask Couch Potato if today is one of those
 * **ID:** amzn1.echo-sdk-ams.app.8440896f-36e9-4be0-83ff-bacb7317aeec
 * **ASIN:** B01DVOX6MU
 * **Author:** ncave
-* **Release Date:** April 13, 2016 @ 04:32:38
+* **Release Date:** April 13, 2016 @ 05:32:38
 * **In-App Purchasing:** No

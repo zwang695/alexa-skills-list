@@ -20,5 +20,5 @@ Turn Alexa into a fortune teller.  Ask her any "Yes" or "No" based question and 
 * **ID:** amzn1.echo-sdk-ams.app.ab67e9e1-8a79-4714-b918-cef2669b6524
 * **ASIN:** B01DT454X6
 * **Author:** Avery
-* **Release Date:** November 20, 2016 @ 23:36:02
+* **Release Date:** November 21, 2016 @ 00:36:02
 * **In-App Purchasing:** No

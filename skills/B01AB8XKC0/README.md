@@ -22,5 +22,5 @@ When launched this skill will greet you as The Dude. From there you can begin on
 * **ID:** amzn1.echo-sdk-ams.app.24f14c2d-5b34-4253-9c62-fa019a4efc7b
 * **ASIN:** B01AB8XKC0
 * **Author:** TonyAngelo
-* **Release Date:** January 7, 2016 @ 19:55:41
+* **Release Date:** January 7, 2016 @ 20:55:41
 * **In-App Purchasing:** No

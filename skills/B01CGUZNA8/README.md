@@ -20,5 +20,5 @@ Recently, we’ve begun to challenge ourselves to go the extra mile in finding n
 * **ID:** amzn1.echo-sdk-ams.app.728f32e2-3363-4aaf-8063-5cbd2a73960b
 * **ASIN:** B01CGUZNA8
 * **Author:** Good Samaritan Society
-* **Release Date:** March 2, 2016 @ 12:47:27
+* **Release Date:** March 2, 2016 @ 13:47:27
 * **In-App Purchasing:** No

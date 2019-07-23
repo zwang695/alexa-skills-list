@@ -21,5 +21,5 @@ Say "Alexa, enable the Liberal Lord skill," then you can get to your Bible verse
 * **ID:** amzn1.ask.skill.514c4732-a418-415e-bfb3-8578f195798d
 * **ASIN:** B01LYUZ33B
 * **Author:** Ethan Kenneth Technologies
-* **Release Date:** September 22, 2016 @ 06:42:32
+* **Release Date:** September 22, 2016 @ 07:42:32
 * **In-App Purchasing:** No

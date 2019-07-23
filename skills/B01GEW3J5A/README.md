@@ -20,5 +20,5 @@ Alexa tells you things you didn't know about San Francisco.
 * **ID:** amzn1.echo-sdk-ams.app.59a9a6d7-ccd8-4d28-b0a9-3a3cd74838b0
 * **ASIN:** B01GEW3J5A
 * **Author:** Office Grooves
-* **Release Date:** June 1, 2016 @ 06:38:39
+* **Release Date:** June 1, 2016 @ 07:38:39
 * **In-App Purchasing:** No

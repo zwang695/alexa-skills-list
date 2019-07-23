@@ -22,7 +22,7 @@ More information about using your Rachio with Echo can be found at: http://suppo
 * **ID:** amzn1.echo-sdk-ams.app.2c74bf75-9246-418d-8934-a25dc938e29b
 * **ASIN:** B01AIZVCGW
 * **Author:** Rachio
-* **Release Date:** January 12, 2016 @ 18:54:24
+* **Release Date:** January 12, 2016 @ 19:54:24
 * **Privacy Policy:** http://rachio.com/privacy-policy
 * **Terms of Use:** http://rachio.com/terms-and-conditions
 * **Account Linking Domains:** rach.io, rachio.com

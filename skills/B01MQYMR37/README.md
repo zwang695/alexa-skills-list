@@ -20,5 +20,5 @@ To use the Far Out Facts skill, try saying...
 * **ID:** amzn1.ask.skill.fe04ca1e-3070-420d-8b59-9d13543fd66c
 * **ASIN:** B01MQYMR37
 * **Author:** AHeinonen
-* **Release Date:** December 25, 2016 @ 02:19:13
+* **Release Date:** December 25, 2016 @ 03:19:13
 * **In-App Purchasing:** No

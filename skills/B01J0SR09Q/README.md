@@ -22,5 +22,5 @@ This skill does not provide health information or advice. It will only provide y
 * **ID:** amzn1.ask.skill.c846a8ee-635f-48f6-8b96-2de669889dac
 * **ASIN:** B01J0SR09Q
 * **Author:** Tree Frog Labs
-* **Release Date:** August 4, 2016 @ 05:11:31
+* **Release Date:** August 4, 2016 @ 06:11:31
 * **In-App Purchasing:** No

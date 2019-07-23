@@ -20,5 +20,5 @@ A trivia game that tests the player's knowledge about horses and ponies.
 * **ID:** amzn1.echo-sdk-ams.app.e7dc84fc-5032-4689-a929-b89c4f4cc049
 * **ASIN:** B01HWY72KM
 * **Author:** Chris Teplovs
-* **Release Date:** July 4, 2016 @ 07:27:41
+* **Release Date:** July 4, 2016 @ 08:27:41
 * **In-App Purchasing:** No

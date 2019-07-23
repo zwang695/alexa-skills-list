@@ -20,5 +20,5 @@ Grand Rapids Facts gives fun and interesting trivia facts about Grand Rapids, Mi
 * **ID:** amzn1.ask.skill.e338cf6a-5a4c-4100-bcc9-556775973f80
 * **ASIN:** B01MT21O96
 * **Author:** WorkSmart Database Masters, LLC
-* **Release Date:** December 25, 2016 @ 04:48:53
+* **Release Date:** December 25, 2016 @ 05:48:53
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Created on International Cat day (August 8th, 2016) this Alexa skill is a short 
 * **ID:** amzn1.ask.skill.da2c224d-7456-482c-b925-fb0b4e37d9d5
 * **ASIN:** B01KTWB05C
 * **Author:** Johntastic Solutions
-* **Release Date:** August 25, 2016 @ 06:31:18
+* **Release Date:** August 25, 2016 @ 07:31:18
 * **In-App Purchasing:** No

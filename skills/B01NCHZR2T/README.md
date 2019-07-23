@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.663073c1-5d97-4a28-b565-3617094128f0
 * **ASIN:** B01NCHZR2T
 * **Author:** Carsten Reinke
-* **Release Date:** December 6, 2016 @ 04:49:53
+* **Release Date:** December 6, 2016 @ 05:49:53
 * **In-App Purchasing:** No

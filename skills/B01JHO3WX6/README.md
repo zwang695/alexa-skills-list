@@ -20,5 +20,5 @@ This skill will provide the us population for today or end of last year.  The da
 * **ID:** amzn1.ask.skill.b95b020c-4854-405f-ad6b-32ebe7677f6c
 * **ASIN:** B01JHO3WX6
 * **Author:** Jim Carter
-* **Release Date:** August 12, 2016 @ 04:37:26
+* **Release Date:** August 12, 2016 @ 05:37:26
 * **In-App Purchasing:** No

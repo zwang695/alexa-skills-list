@@ -22,5 +22,5 @@ System of units asks five questions per game.
 * **ID:** amzn1.ask.skill.ad381765-148d-47c8-89c7-301eed0724d4
 * **ASIN:** B01JMS9L2S
 * **Author:** suvarna
-* **Release Date:** August 9, 2016 @ 07:07:40
+* **Release Date:** August 9, 2016 @ 08:07:40
 * **In-App Purchasing:** No

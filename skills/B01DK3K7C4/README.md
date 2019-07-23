@@ -29,5 +29,5 @@ Ask things like<br>
 * **ID:** amzn1.echo-sdk-ams.app.de56dd7c-b2f1-4195-8ac5-7853b03bdc4a
 * **ASIN:** B01DK3K7C4
 * **Author:** Don Hoellein
-* **Release Date:** March 30, 2016 @ 03:02:40
+* **Release Date:** March 30, 2016 @ 04:02:40
 * **In-App Purchasing:** No

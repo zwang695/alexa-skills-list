@@ -20,5 +20,5 @@ Questions about Java Development Kit release history.
 * **ID:** amzn1.echo-sdk-ams.app.df9e5d95-cafd-48bb-8126-ee458e62445c
 * **ASIN:** B01I7HDEW8
 * **Author:** homecenter.io
-* **Release Date:** July 19, 2016 @ 08:27:33
+* **Release Date:** July 19, 2016 @ 09:27:33
 * **In-App Purchasing:** No

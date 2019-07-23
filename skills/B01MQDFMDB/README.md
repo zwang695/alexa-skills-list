@@ -20,5 +20,5 @@ The Hidden Valley Resort Snow Report brought to you by SnoCountry brings you the
 * **ID:** amzn1.ask.skill.22bee65f-3fb4-4f41-b4fa-7f2ebc5649f4
 * **ASIN:** B01MQDFMDB
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:15:15
+* **Release Date:** November 4, 2016 @ 09:15:15
 * **In-App Purchasing:** No

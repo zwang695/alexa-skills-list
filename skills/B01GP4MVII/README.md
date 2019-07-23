@@ -21,5 +21,5 @@ Inside the Bartenders helper you will find some of the most popular mixed drinks
 * **ID:** amzn1.echo-sdk-ams.app.d5f481ca-24f1-476e-b447-8288dd4d0e59
 * **ASIN:** B01GP4MVII
 * **Author:** rickypwnage
-* **Release Date:** June 10, 2016 @ 05:09:39
+* **Release Date:** June 10, 2016 @ 06:09:39
 * **In-App Purchasing:** No

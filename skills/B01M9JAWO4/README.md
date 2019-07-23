@@ -20,5 +20,5 @@ This app allows the user to learn more facts about cats.
 * **ID:** amzn1.ask.skill.df42d34f-12d1-40d7-ac18-2286810ba87e
 * **ASIN:** B01M9JAWO4
 * **Author:** Michael Chen
-* **Release Date:** November 6, 2016 @ 01:42:36
+* **Release Date:** November 6, 2016 @ 02:42:36
 * **In-App Purchasing:** No

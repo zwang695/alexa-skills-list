@@ -20,5 +20,5 @@ This skill gives a random fact about Banana Slugs.
 * **ID:** amzn1.ask.skill.740002c2-969b-42be-aedd-d4b5d9e25314
 * **ASIN:** B01M7ZKIEW
 * **Author:** Kevin Lim
-* **Release Date:** November 11, 2016 @ 01:15:26
+* **Release Date:** November 11, 2016 @ 02:15:26
 * **In-App Purchasing:** No

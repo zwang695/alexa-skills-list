@@ -20,5 +20,5 @@ Chanakya was an Indian teacher, philosopher, economist, jurist and royal advisor
 * **ID:** amzn1.echo-sdk-ams.app.8d139911-76ed-4a0b-b47e-b838a0aaf960
 * **ASIN:** B01HUXZHQQ
 * **Author:** Selvakumar
-* **Release Date:** July 6, 2016 @ 06:27:26
+* **Release Date:** July 6, 2016 @ 07:27:26
 * **In-App Purchasing:** No

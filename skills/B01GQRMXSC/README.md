@@ -26,5 +26,5 @@ If you want to specify criteria, you can ask for any size set of numbers within 
 * **ID:** amzn1.echo-sdk-ams.app.fbb83b94-7c04-4b9b-b807-e13a45606d37
 * **ASIN:** B01GQRMXSC
 * **Author:** worldengine
-* **Release Date:** June 10, 2016 @ 06:09:50
+* **Release Date:** June 10, 2016 @ 07:09:50
 * **In-App Purchasing:** No

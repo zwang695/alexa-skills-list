@@ -20,5 +20,5 @@ The truth is here.  Chilling Facts gives you bone-chilling, horrifying, and cree
 * **ID:** amzn1.ask.skill.f8c7a71c-45e1-42c4-9a34-22879fe2c574
 * **ASIN:** B01M7MXTNO
 * **Author:** Hamboning Films, LLC
-* **Release Date:** October 10, 2016 @ 02:11:50
+* **Release Date:** October 10, 2016 @ 03:11:50
 * **In-App Purchasing:** No

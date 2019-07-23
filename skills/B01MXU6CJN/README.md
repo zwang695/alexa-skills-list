@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.2ba56676-44aa-4ad9-acfa-f75e087529de
 * **ASIN:** B01MXU6CJN
 * **Author:** Jürgen Carstensen
-* **Release Date:** December 16, 2016 @ 05:50:22
+* **Release Date:** December 16, 2016 @ 06:50:22
 * **In-App Purchasing:** No

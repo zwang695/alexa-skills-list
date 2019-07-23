@@ -20,5 +20,5 @@ Since its first broadcast in 1963, Doctor Who has traveled across a large list o
 * **ID:** amzn1.ask.skill.8c5a013f-8ac8-4214-96f3-b084e7b44703
 * **ASIN:** B01JFA2K58
 * **Author:** Castellan Technologies LLC
-* **Release Date:** August 10, 2016 @ 01:37:52
+* **Release Date:** August 10, 2016 @ 02:37:52
 * **In-App Purchasing:** No

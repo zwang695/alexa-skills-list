@@ -20,5 +20,5 @@ Ask Alexa to tell you facts about Laguna Beach, California.
 * **ID:** amzn1.ask.skill.91283662-f5f1-4cce-8424-fc87ade9d0f2
 * **ASIN:** B01MU6BFYG
 * **Author:** Andrew Khoury
-* **Release Date:** January 2, 2017 @ 21:49:17
+* **Release Date:** January 2, 2017 @ 22:49:17
 * **In-App Purchasing:** No

@@ -21,5 +21,5 @@ If you need a quickly number, just tell Alexa to use Neo Random to give you a ra
 * **ID:** amzn1.ask.skill.6a6c3eaa-503c-4b39-a0b4-d0440953f340
 * **ASIN:** B01MCUSW7S
 * **Author:** Javier Pita
-* **Release Date:** October 21, 2016 @ 02:13:01
+* **Release Date:** October 21, 2016 @ 03:13:01
 * **In-App Purchasing:** No

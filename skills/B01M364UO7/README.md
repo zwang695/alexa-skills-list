@@ -20,5 +20,5 @@ The Mount Pleasant Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.27c799ad-b83d-4e14-b607-de3cc77e89a4
 * **ASIN:** B01M364UO7
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:13:22
+* **Release Date:** November 4, 2016 @ 09:13:22
 * **In-App Purchasing:** No

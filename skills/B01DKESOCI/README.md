@@ -22,5 +22,5 @@ You can also ask alexa, "Ask pokey finder to find some pokemon”
 * **ID:** amzn1.echo-sdk-ams.app.71d22c4e-1c6d-41ef-9987-d7a5e06d351f
 * **ASIN:** B01DKESOCI
 * **Author:** AVR APPS
-* **Release Date:** April 18, 2016 @ 15:32:33
+* **Release Date:** April 18, 2016 @ 16:32:33
 * **In-App Purchasing:** No

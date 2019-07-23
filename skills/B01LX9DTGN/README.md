@@ -35,5 +35,5 @@ To repeat a question, say "repeat".  After 10 questions, you'll get a scorecard 
 * **ID:** amzn1.ask.skill.1bdb2f75-259d-44a5-95a4-715c0da69ad0
 * **ASIN:** B01LX9DTGN
 * **Author:** DevProgress
-* **Release Date:** September 28, 2016 @ 18:13:15
+* **Release Date:** September 28, 2016 @ 19:13:15
 * **In-App Purchasing:** No

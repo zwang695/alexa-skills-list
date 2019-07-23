@@ -24,5 +24,5 @@ Although this skill was designed for the purpose of playing football squares, it
 * **ID:** amzn1.echo-sdk-ams.app.b86e3e17-f4df-4690-b373-4e945146b334
 * **ASIN:** B01IGEPGNM
 * **Author:** Mike Commendatore
-* **Release Date:** July 15, 2016 @ 06:27:31
+* **Release Date:** July 15, 2016 @ 07:27:31
 * **In-App Purchasing:** No

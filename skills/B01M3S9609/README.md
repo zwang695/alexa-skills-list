@@ -20,5 +20,5 @@ The Pebble Creek Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.7601c698-3a69-4e2a-b1f6-c6e05797eb8c
 * **ASIN:** B01M3S9609
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:17:20
+* **Release Date:** October 21, 2016 @ 15:17:20
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A short quiz on how well you know ducks!
 * **ID:** amzn1.ask.skill.b5c85b9b-44e8-4508-9120-f03b838df7c6
 * **ASIN:** B01MYTDXO1
 * **Author:** Duck Labz
-* **Release Date:** November 30, 2016 @ 01:05:19
+* **Release Date:** November 30, 2016 @ 02:05:19
 * **In-App Purchasing:** No

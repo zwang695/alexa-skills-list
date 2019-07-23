@@ -20,5 +20,5 @@ Learn more about the professional baseball team from Seattle with Mariners trivi
 * **ID:** amzn1.ask.skill.856eada8-10d6-4c97-bec0-684054e71205
 * **ASIN:** B01LXMKYM4
 * **Author:** evanyfc
-* **Release Date:** October 5, 2016 @ 01:12:18
+* **Release Date:** October 5, 2016 @ 02:12:18
 * **In-App Purchasing:** No

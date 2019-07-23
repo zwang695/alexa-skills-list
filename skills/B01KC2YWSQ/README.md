@@ -20,5 +20,5 @@ Christine is a quirky and unconventional character. As you learn facts about her
 * **ID:** amzn1.ask.skill.e0407d54-95a1-4207-8d4b-d09d1a7f99d2
 * **ASIN:** B01KC2YWSQ
 * **Author:** EmptyLaughter
-* **Release Date:** August 16, 2016 @ 01:38:41
+* **Release Date:** August 16, 2016 @ 02:38:41
 * **In-App Purchasing:** No

@@ -20,6 +20,6 @@ Just set up a list of participants via the Alexa app (e.g. "Mom", "Dad", "The Do
 * **ID:** amzn1.echo-sdk-ams.app.4c26c3ae-dfaf-45e4-991c-20183c781e49
 * **ASIN:** B01IM8UA1K
 * **Author:** askquickly.org
-* **Release Date:** July 27, 2016 @ 06:56:31
+* **Release Date:** July 27, 2016 @ 07:56:31
 * **Privacy Policy:** http://askquickly.org/privacy.html
 * **In-App Purchasing:** No

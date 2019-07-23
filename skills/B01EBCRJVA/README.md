@@ -22,5 +22,5 @@ This skill may not be suitable for all ages as it contains information about alc
 * **ID:** amzn1.echo-sdk-ams.app.820cd06a-23b5-4b88-a404-acaccef5dc72
 * **ASIN:** B01EBCRJVA
 * **Author:** tina orooji
-* **Release Date:** May 19, 2016 @ 09:38:30
+* **Release Date:** May 19, 2016 @ 10:38:30
 * **In-App Purchasing:** No

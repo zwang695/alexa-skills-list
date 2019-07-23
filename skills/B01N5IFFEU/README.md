@@ -20,5 +20,5 @@ Including sayings from Gandhi, Martin Luther King, Aristotle, and a wide variety
 * **ID:** amzn1.ask.skill.5917c312-fbba-4881-b114-f11cb4e4f297
 * **ASIN:** B01N5IFFEU
 * **Author:** UltimateOgee
-* **Release Date:** December 26, 2016 @ 01:49:10
+* **Release Date:** December 26, 2016 @ 02:49:10
 * **In-App Purchasing:** No

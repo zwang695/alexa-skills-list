@@ -20,5 +20,5 @@ The Dry Hill Snow Report brought to you by SnoCountry brings you the latest snow
 * **ID:** amzn1.ask.skill.a3e46a0a-7fce-47f8-bd16-38f5bdebcff2
 * **ASIN:** B01M5FGLI9
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:45:45
+* **Release Date:** October 26, 2016 @ 03:45:45
 * **In-App Purchasing:** No

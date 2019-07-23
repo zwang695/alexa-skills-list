@@ -20,5 +20,5 @@ This multiple-choice game is a fun way to challenge what you know about the movi
 * **ID:** amzn1.echo-sdk-ams.app.8bbc51de-0770-47a7-8bc5-a7f0df5208c1
 * **ASIN:** B01C9JJ64U
 * **Author:** onetwentyseven inc
-* **Release Date:** February 26, 2016 @ 17:42:43
+* **Release Date:** February 26, 2016 @ 18:42:43
 * **In-App Purchasing:** No

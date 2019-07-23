@@ -16,5 +16,5 @@ An unofficial witcher fact application. Ask Alexa for some interesting facts abo
 * **ID:** amzn1.ask.skill.05cbf509-34e5-4195-ba09-2fa345306606
 * **ASIN:** B01LY4JD6O
 * **Author:** Samir
-* **Release Date:** September 12, 2016 @ 02:42:39
+* **Release Date:** September 12, 2016 @ 03:42:39
 * **In-App Purchasing:** No

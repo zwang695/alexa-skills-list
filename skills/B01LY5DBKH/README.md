@@ -22,5 +22,5 @@ This skill will be updated often.
 * **ID:** amzn1.ask.skill.1bce3c6b-21bd-4fe3-bd0a-6b51935b0d8c
 * **ASIN:** B01LY5DBKH
 * **Author:** Connecting People Software Co.
-* **Release Date:** December 21, 2016 @ 23:55:22
+* **Release Date:** December 22, 2016 @ 00:55:22
 * **In-App Purchasing:** No

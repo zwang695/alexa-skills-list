@@ -20,5 +20,5 @@ The Sun Peaks Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.befda6eb-7e3e-4510-a24c-b0a063c1df95
 * **ASIN:** B01M0X2IFO
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:45:58
+* **Release Date:** October 20, 2016 @ 04:45:58
 * **In-App Purchasing:** No

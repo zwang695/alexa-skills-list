@@ -20,5 +20,5 @@ Learn interesting facts about Dali that will blow your mind
 * **ID:** amzn1.ask.skill.799b3875-ef84-499a-a8e8-9ab237ee557f
 * **ASIN:** B01M3POXLO
 * **Author:** pdkn
-* **Release Date:** October 18, 2016 @ 04:42:57
+* **Release Date:** October 18, 2016 @ 05:42:57
 * **In-App Purchasing:** No

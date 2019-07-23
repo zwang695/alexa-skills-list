@@ -20,5 +20,5 @@ Based on the flash cards template, this skill asks random movie questions and ha
 * **ID:** amzn1.ask.skill.62943c85-9b89-4c21-bb6b-4c9550758ee6
 * **ASIN:** B01IUKXEJK
 * **Author:** Mike Hansen
-* **Release Date:** July 27, 2016 @ 04:56:33
+* **Release Date:** July 27, 2016 @ 05:56:33
 * **In-App Purchasing:** No

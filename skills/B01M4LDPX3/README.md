@@ -23,7 +23,7 @@ For additional information, support or help linking your accounts together, visi
 * **ID:** amzn1.ask.skill.c5f32b0b-92c4-473a-b0ad-3a2e83d777bd
 * **ASIN:** B01M4LDPX3
 * **Author:** Logitech
-* **Release Date:** October 25, 2016 @ 04:14:44
+* **Release Date:** October 25, 2016 @ 05:14:44
 * **Privacy Policy:** https://files.myharmony.com/Assets/legal/en/privacypolicy.html
 * **Terms of Use:** https://files.myharmony.com/Assets/legal/en/termsofuse.html
 * **Account Linking Domains:** accounts.logi.com, accounts.google.com, graph.facebook.com, facebook.com, static.xx.fbcdn.net, m.facebook.com, www.facebook.com, fonts.gstatic.com, www.google.com, sso.logitech.com, accounts.google.co.in, accounts.google.ca, logi.my.salesforce.com, delauth.secure.force.com, na24.salesforce.com

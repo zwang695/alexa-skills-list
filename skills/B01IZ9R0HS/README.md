@@ -20,5 +20,5 @@ Live in drought-stricken California or Nevada? Or simply care about the environm
 * **ID:** amzn1.ask.skill.c90c4aef-a299-4778-af21-daf576fb0b5e
 * **ASIN:** B01IZ9R0HS
 * **Author:** Chirpy Cali
-* **Release Date:** July 27, 2016 @ 08:57:04
+* **Release Date:** July 27, 2016 @ 09:57:04
 * **In-App Purchasing:** No

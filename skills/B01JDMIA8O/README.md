@@ -20,5 +20,5 @@ A Quiz game that ask the user for capital city of a given US state.
 * **ID:** amzn1.ask.skill.78f2c4d3-b685-4d59-bfe7-dc816f635eeb
 * **ASIN:** B01JDMIA8O
 * **Author:** NWOps
-* **Release Date:** August 18, 2016 @ 01:52:29
+* **Release Date:** August 18, 2016 @ 02:52:29
 * **In-App Purchasing:** No

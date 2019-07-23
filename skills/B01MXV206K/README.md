@@ -20,5 +20,5 @@ This skill will give you an interesting fact about the winter holidays (Christma
 * **ID:** amzn1.ask.skill.c108082b-12b4-4d45-a36a-e6900e5284ab
 * **ASIN:** B01MXV206K
 * **Author:** Rick Schrader
-* **Release Date:** December 7, 2016 @ 01:50:12
+* **Release Date:** December 7, 2016 @ 02:50:12
 * **In-App Purchasing:** No

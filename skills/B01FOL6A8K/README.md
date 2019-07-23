@@ -27,5 +27,5 @@ Historical questions and basic typographic categories are covered in this trivia
 * **ID:** amzn1.echo-sdk-ams.app.3a4e7f2a-c3ad-4713-8b5e-e9541701316a
 * **ASIN:** B01FOL6A8K
 * **Author:** BlueDev
-* **Release Date:** May 16, 2016 @ 15:08:45
+* **Release Date:** May 16, 2016 @ 16:08:45
 * **In-App Purchasing:** No

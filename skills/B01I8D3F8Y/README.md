@@ -20,5 +20,5 @@ This skill teaches the values presented in the Scout Law.  These Laws are a  'co
 * **ID:** amzn1.echo-sdk-ams.app.c623d01d-626c-48db-994e-a4b98ec6a896
 * **ASIN:** B01I8D3F8Y
 * **Author:** imagine that
-* **Release Date:** July 26, 2016 @ 02:56:35
+* **Release Date:** July 26, 2016 @ 03:56:35
 * **In-App Purchasing:** No

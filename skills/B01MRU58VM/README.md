@@ -19,5 +19,5 @@ WD40 or Duct tape is the solution. Find out what you need.
 * **ID:** amzn1.ask.skill.78ddd45b-d63a-4025-bdaa-41fccbd2a53b
 * **ASIN:** B01MRU58VM
 * **Author:** o9k
-* **Release Date:** December 7, 2016 @ 01:50:01
+* **Release Date:** December 7, 2016 @ 02:50:01
 * **In-App Purchasing:** No

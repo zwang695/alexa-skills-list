@@ -16,5 +16,5 @@ Most non-native speakers struggle with spoken English in the beginning. This Ski
 * **ID:** amzn1.ask.skill.04ebc11a-eee7-414e-bf76-fcae38712257
 * **ASIN:** B01IXM791O
 * **Author:** Network Automation Nerds LLC.
-* **Release Date:** July 26, 2016 @ 03:56:32
+* **Release Date:** July 26, 2016 @ 04:56:32
 * **In-App Purchasing:** No

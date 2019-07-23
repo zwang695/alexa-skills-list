@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.b8b64b68-5bed-4088-85ca-c5a8970319a8
 * **ASIN:** B01N06VJE1
 * **Author:** Intelligent Apps GmbH
-* **Release Date:** November 9, 2016 @ 14:42:47
+* **Release Date:** November 9, 2016 @ 15:42:47
 * **In-App Purchasing:** Yes

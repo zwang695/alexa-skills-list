@@ -20,5 +20,5 @@ Improve you knowledge about Portland, Oregon with this skill, filled with facts,
 * **ID:** amzn1.ask.skill.5fe9d3b2-c604-4235-a612-2750b21a4779
 * **ASIN:** B01JDJ8QGI
 * **Author:** Stephen Cook
-* **Release Date:** August 1, 2016 @ 06:56:25
+* **Release Date:** August 1, 2016 @ 07:56:25
 * **In-App Purchasing:** No

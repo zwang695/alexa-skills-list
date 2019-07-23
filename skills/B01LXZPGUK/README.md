@@ -20,5 +20,5 @@ A fun set of random motorcycle facts.  This skill requires no prerequisite or sp
 * **ID:** amzn1.ask.skill.cffc9558-790e-492d-b8ae-d3b246a79907
 * **ASIN:** B01LXZPGUK
 * **Author:** Scott sipe
-* **Release Date:** October 4, 2016 @ 02:43:11
+* **Release Date:** October 4, 2016 @ 03:43:11
 * **In-App Purchasing:** No

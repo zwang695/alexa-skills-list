@@ -20,5 +20,5 @@ This skill gives suggestions for bicycle rides in the Portland area.  The user a
 * **ID:** amzn1.echo-sdk-ams.app.c967cb9f-5487-425a-a543-bd92e650690b
 * **ASIN:** B01GM79GO0
 * **Author:** Alan Zimmerman
-* **Release Date:** June 13, 2016 @ 05:09:32
+* **Release Date:** June 13, 2016 @ 06:09:32
 * **In-App Purchasing:** No

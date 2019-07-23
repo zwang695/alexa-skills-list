@@ -20,5 +20,5 @@ The Treetops Ski Resort Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.7ff9c028-7f24-41e7-a38e-e6418e2d716e
 * **ASIN:** B01M66CRE1
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:44:13
+* **Release Date:** October 21, 2016 @ 15:44:13
 * **In-App Purchasing:** No

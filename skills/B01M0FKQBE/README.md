@@ -20,5 +20,5 @@ This skill would tell you a joke!
 * **ID:** amzn1.ask.skill.d6e0eb28-2100-4579-99be-cb1721139a57
 * **ASIN:** B01M0FKQBE
 * **Author:** Manish Dwibedy
-* **Release Date:** September 21, 2016 @ 00:43:47
+* **Release Date:** September 21, 2016 @ 01:43:47
 * **In-App Purchasing:** No

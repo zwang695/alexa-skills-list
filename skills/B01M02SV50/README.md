@@ -20,5 +20,5 @@ This skill gives randoms fact about the world's largest structures, vehicles, an
 * **ID:** amzn1.ask.skill.1cfe2f5d-efd7-46b3-986b-8c014ca6385a
 * **ASIN:** B01M02SV50
 * **Author:** Daniel Rings
-* **Release Date:** September 12, 2016 @ 02:12:47
+* **Release Date:** September 12, 2016 @ 03:12:47
 * **In-App Purchasing:** No

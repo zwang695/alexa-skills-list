@@ -20,5 +20,5 @@ The Catamount Ski Area Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.305c6aa1-eaad-4cef-9224-34179e4d12b3
 * **ASIN:** B01M7RZR9T
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:17:14
+* **Release Date:** October 21, 2016 @ 15:17:14
 * **In-App Purchasing:** No

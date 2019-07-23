@@ -20,5 +20,5 @@ This skill offers tips and techniques to soothe a crying baby, as well as import
 * **ID:** amzn1.ask.skill.97e51671-3b2b-42c0-95dd-f0c7fd0f56d6
 * **ASIN:** B01KH0ZGBK
 * **Author:** Amy Rose Karr
-* **Release Date:** August 18, 2016 @ 02:22:21
+* **Release Date:** August 18, 2016 @ 03:22:21
 * **In-App Purchasing:** No

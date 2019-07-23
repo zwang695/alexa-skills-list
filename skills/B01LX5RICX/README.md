@@ -22,5 +22,5 @@ This skill is fun to play alone as well as compete with other fellow Seahawks fa
 * **ID:** amzn1.ask.skill.09fc8d76-857e-478f-8f34-a2dc9ae3771f
 * **ASIN:** B01LX5RICX
 * **Author:** JP Dev & Design
-* **Release Date:** September 22, 2016 @ 02:42:11
+* **Release Date:** September 22, 2016 @ 03:42:11
 * **In-App Purchasing:** No

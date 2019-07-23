@@ -22,5 +22,5 @@ Just say, "Alexa, tell Poodle Fun to give me a fact."
 * **ID:** amzn1.ask.skill.4e63a724-e5d1-45f7-8f84-a0276a361d92
 * **ASIN:** B01NBM48TL
 * **Author:** Sara Schertz
-* **Release Date:** December 19, 2016 @ 07:50:09
+* **Release Date:** December 19, 2016 @ 08:50:09
 * **In-App Purchasing:** No

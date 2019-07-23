@@ -24,7 +24,7 @@ The skill provides general guidelines and is intended for informational and educ
 * **ID:** amzn1.echo-sdk-ams.app.3f5f7bd8-5b9d-40e7-8463-eef44329e29d
 * **ASIN:** B01E3F0AUC
 * **Author:** Boston Children's Hospital
-* **Release Date:** April 11, 2016 @ 10:02:30
+* **Release Date:** April 11, 2016 @ 11:02:30
 * **Privacy Policy:** http://thermia.io/about/
 * **Terms of Use:** http://thermia.io/about/
 * **In-App Purchasing:** No

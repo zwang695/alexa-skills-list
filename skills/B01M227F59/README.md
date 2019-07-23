@@ -24,5 +24,5 @@ Enable the skill and then just say "Alexa, Launch Hockey Goals".
 * **ID:** amzn1.echo-sdk-ams.app.2a3b61ed-e60e-453b-8076-a9b95cb8dd7a
 * **ASIN:** B01M227F59
 * **Author:** TV Talk Network, LLC
-* **Release Date:** October 27, 2016 @ 11:15:15
+* **Release Date:** October 27, 2016 @ 12:15:15
 * **In-App Purchasing:** No

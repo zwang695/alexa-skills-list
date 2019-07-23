@@ -20,5 +20,5 @@ The Powderhorn Mountain Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.0c45e5e5-29b0-424a-a763-d5de574e128a
 * **ASIN:** B01LYEL6AP
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:43:48
+* **Release Date:** October 19, 2016 @ 11:43:48
 * **In-App Purchasing:** No

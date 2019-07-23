@@ -20,5 +20,5 @@ These are some fun facts about Golden State Warriors. You may know some of these
 * **ID:** amzn1.ask.skill.29b3ae0a-9767-4b32-b2d8-fd0f2bf98577
 * **ASIN:** B01KBNKJJW
 * **Author:** Adi Surya
-* **Release Date:** August 17, 2016 @ 02:23:05
+* **Release Date:** August 17, 2016 @ 03:23:05
 * **In-App Purchasing:** No

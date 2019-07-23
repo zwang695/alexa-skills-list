@@ -21,5 +21,5 @@ User: "Ask Trump Facts for a Trump fact"
 * **ID:** amzn1.ask.skill.4d2f9631-744f-49b5-a4e2-e54a0b022dde
 * **ASIN:** B01JDLGCJE
 * **Author:** Hannah  Smith
-* **Release Date:** August 3, 2016 @ 01:41:49
+* **Release Date:** August 3, 2016 @ 02:41:49
 * **In-App Purchasing:** No

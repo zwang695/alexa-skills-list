@@ -22,7 +22,7 @@ Get your daily recommendations by asking Alexa and hear the response from Mr Jun
 * **ID:** amzn1.echo-sdk-ams.app.e8816183-8387-4908-aa0d-1cf6a9eea555
 * **ASIN:** B01BKT64QI
 * **Author:** Simply Useful Apps
-* **Release Date:** February 8, 2016 @ 12:35:31
+* **Release Date:** February 8, 2016 @ 13:35:31
 * **Privacy Policy:** http://mrjunkyfood.com/privacypolicy.html
 * **Terms of Use:** http://mrjunkyfood.com/termsofuse.html
 * **In-App Purchasing:** No

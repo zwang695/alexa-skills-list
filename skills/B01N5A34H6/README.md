@@ -20,5 +20,5 @@ Simply say a phrase such as "give me a lemur fact" or "tell me a fact" and this 
 * **ID:** amzn1.ask.skill.539fc08f-0c2b-487e-90fe-5d2e907258ed
 * **ASIN:** B01N5A34H6
 * **Author:** Elle Nguyen
-* **Release Date:** December 5, 2016 @ 04:35:55
+* **Release Date:** December 5, 2016 @ 05:35:55
 * **In-App Purchasing:** No

@@ -35,6 +35,6 @@ Hebcal is pronounced HEEB-kal, as in HEBrew CALendar.
 * **ID:** amzn1.echo-sdk-ams.app.24d6d476-8351-403f-9047-f08e42a9f623
 * **ASIN:** B01BMWLJ2W
 * **Author:** Hebcal
-* **Release Date:** February 10, 2016 @ 14:13:38
+* **Release Date:** February 10, 2016 @ 15:13:38
 * **Privacy Policy:** https://www.hebcal.com/home/about/privacy-policy
 * **In-App Purchasing:** No

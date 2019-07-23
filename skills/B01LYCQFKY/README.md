@@ -20,5 +20,5 @@ Gives a random definition of an uncommon word. Definitions taken from wordsmith.
 * **ID:** amzn1.ask.skill.0d4741db-a342-4b9a-b6ed-c62ce34e03f6
 * **ASIN:** B01LYCQFKY
 * **Author:** Omar Saleem
-* **Release Date:** October 5, 2016 @ 01:12:06
+* **Release Date:** October 5, 2016 @ 02:12:06
 * **In-App Purchasing:** No

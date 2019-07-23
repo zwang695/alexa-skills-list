@@ -20,5 +20,5 @@ In this app you will learn how to bake a batch of your very own cupcakes. If you
 * **ID:** amzn1.ask.skill.acc886b7-3019-4581-88cb-a3fa3bf55edc
 * **ASIN:** B01J9MBRLU
 * **Author:** Personal
-* **Release Date:** August 10, 2016 @ 02:37:35
+* **Release Date:** August 10, 2016 @ 03:37:35
 * **In-App Purchasing:** No

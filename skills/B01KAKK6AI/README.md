@@ -18,5 +18,5 @@ Pool and Tennis hours for the Roxbury Run Country Club
 * **ID:** amzn1.ask.skill.1790d938-1415-4895-9da8-aa324924df95
 * **ASIN:** B01KAKK6AI
 * **Author:** kable industries
-* **Release Date:** August 22, 2016 @ 02:37:39
+* **Release Date:** August 22, 2016 @ 03:37:39
 * **In-App Purchasing:** No

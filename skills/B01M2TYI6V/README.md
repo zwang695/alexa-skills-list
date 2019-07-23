@@ -20,5 +20,5 @@ This skill currently gives you 10 facts about Germany. It is supposed to keep on
 * **ID:** amzn1.ask.skill.7322d00d-c3b8-46f5-9560-6b47a3466c8b
 * **ASIN:** B01M2TYI6V
 * **Author:** Vox909
-* **Release Date:** October 25, 2016 @ 01:48:33
+* **Release Date:** October 25, 2016 @ 02:48:33
 * **In-App Purchasing:** No

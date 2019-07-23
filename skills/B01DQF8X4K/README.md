@@ -20,5 +20,5 @@ Ask the palindrome skill for a random palindrome.  It has a library of 50 palind
 * **ID:** amzn1.echo-sdk-ams.app.83016eeb-8918-4c7b-8d22-5ff570877049
 * **ASIN:** B01DQF8X4K
 * **Author:** demiurge
-* **Release Date:** April 11, 2016 @ 06:32:33
+* **Release Date:** April 11, 2016 @ 07:32:33
 * **In-App Purchasing:** No

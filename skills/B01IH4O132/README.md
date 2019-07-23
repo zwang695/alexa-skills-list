@@ -20,5 +20,5 @@ The JavaScript master will test your acquaintance of JavaScript programming lang
 * **ID:** amzn1.echo-sdk-ams.app.df4667da-5db3-4221-bb8f-66c0e1c90f76
 * **ASIN:** B01IH4O132
 * **Author:** Liang Zhang
-* **Release Date:** July 15, 2016 @ 05:57:29
+* **Release Date:** July 15, 2016 @ 06:57:29
 * **In-App Purchasing:** No

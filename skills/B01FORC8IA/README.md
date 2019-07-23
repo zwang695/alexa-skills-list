@@ -20,5 +20,5 @@ Ask Alexa how to perform a dance move, and Alexa will help users bust out moves.
 * **ID:** amzn1.echo-sdk-ams.app.3769bafb-d806-43cf-afca-feb3133c6bd7
 * **ASIN:** B01FORC8IA
 * **Author:** AngelAsman
-* **Release Date:** May 19, 2016 @ 09:08:37
+* **Release Date:** May 19, 2016 @ 10:08:37
 * **In-App Purchasing:** No

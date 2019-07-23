@@ -21,5 +21,5 @@ You can also ask for a city "Alexa tell me if is it the weekend in San Francisco
 * **ID:** amzn1.ask.skill.e9fd838d-bb48-42f6-a248-0272a6cd8982
 * **ASIN:** B01LWKA8KB
 * **Author:** SupHerman
-* **Release Date:** October 3, 2016 @ 08:42:06
+* **Release Date:** October 3, 2016 @ 09:42:06
 * **In-App Purchasing:** No

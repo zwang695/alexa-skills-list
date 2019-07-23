@@ -20,5 +20,5 @@ Are you interested in proverbial phrases? Rely on Go Phrase for hundreds of wide
 * **ID:** amzn1.ask.skill.ba78fda9-4f1f-4f09-94a6-6d3ed1121222
 * **ASIN:** B01LYSDH6B
 * **Author:** Appbly.com
-* **Release Date:** September 16, 2016 @ 03:41:42
+* **Release Date:** September 16, 2016 @ 04:41:42
 * **In-App Purchasing:** No

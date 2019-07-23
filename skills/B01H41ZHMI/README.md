@@ -28,5 +28,5 @@ Just ask the app for a daily fact about Roman history!
 * **ID:** amzn1.echo-sdk-ams.app.b4560089-88bf-4e7e-add9-71171363ff70
 * **ASIN:** B01H41ZHMI
 * **Author:** Didius5 Studios
-* **Release Date:** June 16, 2016 @ 08:15:32
+* **Release Date:** June 16, 2016 @ 09:15:32
 * **In-App Purchasing:** No

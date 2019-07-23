@@ -20,5 +20,5 @@ The state capitals quiz asks you multiple choice questions on state capitals.  F
 * **ID:** amzn1.echo-sdk-ams.app.bd5b2264-af75-4e92-b68b-26a270d2cc67
 * **ASIN:** B01EKQTM2Q
 * **Author:** Christopher Colicino
-* **Release Date:** April 21, 2016 @ 19:08:44
+* **Release Date:** April 21, 2016 @ 20:08:44
 * **In-App Purchasing:** No

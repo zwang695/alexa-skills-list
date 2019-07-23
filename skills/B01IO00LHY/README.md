@@ -20,5 +20,5 @@ Thinking about joining a crew, but know not how to pirate-speak? You wouldn't wa
 * **ID:** amzn1.echo-sdk-ams.app.e2345556-cd5f-4364-a78f-95e8c76e3fee
 * **ASIN:** B01IO00LHY
 * **Author:** Patrick Mollohan
-* **Release Date:** July 21, 2016 @ 01:27:43
+* **Release Date:** July 21, 2016 @ 02:27:43
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Every Runner experiences some low days when he/she needs just a little push to g
 * **ID:** amzn1.ask.skill.bc0efbd3-034b-4413-83e8-488b63537df8
 * **ASIN:** B01KWNXI0I
 * **Author:** Ritika Borkar
-* **Release Date:** August 24, 2016 @ 05:01:59
+* **Release Date:** August 24, 2016 @ 06:01:59
 * **In-App Purchasing:** No

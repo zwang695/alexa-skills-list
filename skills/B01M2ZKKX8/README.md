@@ -20,5 +20,5 @@ The Kelly Canyon Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.eb149421-fb65-484c-93bf-03a59cca1f05
 * **ASIN:** B01M2ZKKX8
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:17:33
+* **Release Date:** October 21, 2016 @ 15:17:33
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ An Alexa Skill for interacting with Product Hunt using their API. This skill all
 * **ID:** amzn1.echo-sdk-ams.app.a5c00e5b-91c4-4b8d-a720-79e1cce84b53
 * **ASIN:** B01A65ASNM
 * **Author:** John Carmichael
-* **Release Date:** January 4, 2016 @ 16:54:42
+* **Release Date:** January 4, 2016 @ 17:54:42
 * **In-App Purchasing:** No

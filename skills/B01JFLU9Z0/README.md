@@ -20,5 +20,5 @@ Cool Environment Facts to make a person cautious about the need to preserve our 
 * **ID:** amzn1.ask.skill.f0cade57-c65a-4d74-979b-060f059db72d
 * **ASIN:** B01JFLU9Z0
 * **Author:** Jogesh Palenkara
-* **Release Date:** August 4, 2016 @ 06:11:30
+* **Release Date:** August 4, 2016 @ 07:11:30
 * **In-App Purchasing:** No

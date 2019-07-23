@@ -20,5 +20,5 @@ Have a whale of a time with this whale themed trivia skill!
 * **ID:** amzn1.echo-sdk-ams.app.7aa469fc-63f2-458e-a073-828c2ecbd0ca
 * **ASIN:** B01DL568EM
 * **Author:** DPT2
-* **Release Date:** April 6, 2016 @ 07:33:42
+* **Release Date:** April 6, 2016 @ 08:33:42
 * **In-App Purchasing:** No

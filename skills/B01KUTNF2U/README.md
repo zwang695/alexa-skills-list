@@ -22,6 +22,6 @@ Note: This skill may not be suitable/appropriate for all ages. This skill is mos
 * **ID:** amzn1.ask.skill.4a0b2f6c-a65e-4b99-ad8c-c5a8bc783f15
 * **ASIN:** B01KUTNF2U
 * **Author:** Darian Johnson
-* **Release Date:** August 30, 2016 @ 02:32:41
+* **Release Date:** August 30, 2016 @ 03:32:41
 * **Privacy Policy:** https://s3.amazonaws.com/darianbjohnson/Magic-Mirror/bp-privacy_policy.html
 * **In-App Purchasing:** No

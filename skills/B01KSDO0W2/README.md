@@ -24,5 +24,5 @@ Check out: https://caltraincrash.appspot.com for a text feed.
 * **ID:** amzn1.ask.skill.00411592-cdea-4462-816a-3952563099c0
 * **ASIN:** B01KSDO0W2
 * **Author:** Eiger Tech LLC
-* **Release Date:** August 29, 2016 @ 01:33:13
+* **Release Date:** August 29, 2016 @ 02:33:13
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.b254836a-769d-4179-aa59-1854159d24e4
 * **ASIN:** B01MSUS0A2
 * **Author:** Coppelia
-* **Release Date:** December 6, 2016 @ 01:36:07
+* **Release Date:** December 6, 2016 @ 02:36:07
 * **In-App Purchasing:** No

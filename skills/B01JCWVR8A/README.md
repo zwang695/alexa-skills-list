@@ -20,5 +20,5 @@ This skill returns a fact about hockey. There are no hardware or account require
 * **ID:** amzn1.ask.skill.f42c81f7-3856-4132-90eb-e96ee525ddf4
 * **ASIN:** B01JCWVR8A
 * **Author:** Jason Fabi
-* **Release Date:** August 8, 2016 @ 05:07:51
+* **Release Date:** August 8, 2016 @ 06:07:51
 * **In-App Purchasing:** No

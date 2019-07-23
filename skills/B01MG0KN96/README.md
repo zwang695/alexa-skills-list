@@ -20,5 +20,5 @@ The Ski Butternut Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.576693ba-01e9-4f60-bf2d-6d1128c151b0
 * **ASIN:** B01MG0KN96
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:15:50
+* **Release Date:** October 21, 2016 @ 15:15:50
 * **In-App Purchasing:** No

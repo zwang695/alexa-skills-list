@@ -20,5 +20,5 @@ Alexa gives a random fact about pandas
 * **ID:** amzn1.ask.skill.2ced05ae-87bc-4692-8fde-6ad3aa063ff6
 * **ASIN:** B01N6IEDTH
 * **Author:** Anita Wong
-* **Release Date:** December 19, 2016 @ 07:19:44
+* **Release Date:** December 19, 2016 @ 08:19:44
 * **In-App Purchasing:** No

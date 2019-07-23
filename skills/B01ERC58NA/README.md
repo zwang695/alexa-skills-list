@@ -30,5 +30,5 @@ FitnessLogger currently supports a pre-defined list of exercises. You can say "A
 * **ID:** amzn1.echo-sdk-ams.app.9b697aa4-e375-4f15-b2af-5ba120e950ab
 * **ASIN:** B01ERC58NA
 * **Author:** Arniz
-* **Release Date:** May 2, 2016 @ 02:38:38
+* **Release Date:** May 2, 2016 @ 03:38:38
 * **In-App Purchasing:** No

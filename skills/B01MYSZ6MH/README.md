@@ -20,5 +20,5 @@ This skill will give users fun facts about giraffes! Just ask Alexa about it!
 * **ID:** amzn1.ask.skill.a15d8dcd-bc8c-4dd7-815b-104031ff48f7
 * **ASIN:** B01MYSZ6MH
 * **Author:** TriChampion Development
-* **Release Date:** November 28, 2016 @ 05:35:15
+* **Release Date:** November 28, 2016 @ 06:35:15
 * **In-App Purchasing:** No

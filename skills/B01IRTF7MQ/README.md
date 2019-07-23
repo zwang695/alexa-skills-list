@@ -20,5 +20,5 @@ Sounders Trivia is a simple question and answer trivia game about the Seattle So
 * **ID:** amzn1.ask.skill.ce29f706-0716-4265-9312-38f6676aace9
 * **ASIN:** B01IRTF7MQ
 * **Author:** Facet Digital, LLC
-* **Release Date:** July 26, 2016 @ 05:56:47
+* **Release Date:** July 26, 2016 @ 06:56:47
 * **In-App Purchasing:** No

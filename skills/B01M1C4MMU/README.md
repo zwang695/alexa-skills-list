@@ -20,5 +20,5 @@ The Bear Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.05dd2834-33c5-493f-b58b-a0f5b24814af
 * **ASIN:** B01M1C4MMU
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:14:58
+* **Release Date:** October 20, 2016 @ 04:14:58
 * **In-App Purchasing:** No

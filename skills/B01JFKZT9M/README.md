@@ -16,5 +16,5 @@ Despite what you may have heard, Article XII of the U.S. Constitution doesn't ex
 * **ID:** amzn1.ask.skill.8be70687-ce2d-4bfe-9b84-b3974a225cb8
 * **ASIN:** B01JFKZT9M
 * **Author:** Bryan Shepherd
-* **Release Date:** August 5, 2016 @ 01:37:30
+* **Release Date:** August 5, 2016 @ 02:37:30
 * **In-App Purchasing:** No

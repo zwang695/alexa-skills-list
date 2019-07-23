@@ -20,5 +20,5 @@ This skill gives you unique facts about soccer. When you ask Alexa the invocatio
 * **ID:** amzn1.echo-sdk-ams.app.d2af5412-4f14-4e91-a1d4-3a03a22cf582
 * **ASIN:** B01I8CSG48
 * **Author:** Sanmati Choudhary
-* **Release Date:** July 14, 2016 @ 04:57:35
+* **Release Date:** July 14, 2016 @ 05:57:35
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Disclaimer: Skill may not be suitable for all ages
 * **ID:** amzn1.echo-sdk-ams.app.99755648-1fd4-48ed-9c02-b92e46dedf70
 * **ASIN:** B01GZ8H30U
 * **Author:** Qubz, LLC
-* **Release Date:** June 17, 2016 @ 02:15:38
+* **Release Date:** June 17, 2016 @ 03:15:38
 * **In-App Purchasing:** No

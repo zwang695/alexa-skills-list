@@ -24,5 +24,5 @@ Merry Christmas!
 * **ID:** amzn1.ask.skill.3014babb-2566-4ca4-82a5-c78902b80af6
 * **ASIN:** B01NBG8PH6
 * **Author:** I am the Cold Man
-* **Release Date:** December 16, 2016 @ 07:20:00
+* **Release Date:** December 16, 2016 @ 08:20:00
 * **In-App Purchasing:** No

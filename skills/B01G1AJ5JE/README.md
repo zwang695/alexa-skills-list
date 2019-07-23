@@ -26,6 +26,6 @@ Currently, this app can convert refractometer readings to Original Gravity, and 
 * **ID:** amzn1.echo-sdk-ams.app.5c89c34c-5dc7-4287-a116-9b080d523c0a
 * **ASIN:** B01G1AJ5JE
 * **Author:** Optictheory
-* **Release Date:** June 1, 2016 @ 01:08:37
+* **Release Date:** June 1, 2016 @ 02:08:37
 * **Terms of Use:** https://alexa.optictheory.com/display_terms/
 * **In-App Purchasing:** No

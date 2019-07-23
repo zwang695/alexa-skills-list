@@ -22,7 +22,7 @@ Now sit back and ask alexa to start playing your music by saying alexa ask starf
 * **ID:** amzn1.ask.skill.0e9a7fa7-7703-427a-88d9-44f80cd5a5e9
 * **ASIN:** B01MDLG0YL
 * **Author:** Rai Integration Ltd
-* **Release Date:** October 27, 2016 @ 03:46:29
+* **Release Date:** October 27, 2016 @ 04:46:29
 * **Privacy Policy:** http://www.starfishmint.com/policy/privacy-starfish-mp3.html
 * **Terms of Use:** http://www.starfishmint.com/policy/terms-starfish-mp3.html
 * **In-App Purchasing:** No

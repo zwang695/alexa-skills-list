@@ -20,5 +20,5 @@ Features a number of random bodybuilding, workout, and supplement facts
 * **ID:** amzn1.echo-sdk-ams.app.083e9c92-2d19-43e8-8089-4ba1a11e4eb8
 * **ASIN:** B01J010IUQ
 * **Author:** Liz Miller Fit
-* **Release Date:** July 28, 2016 @ 03:56:26
+* **Release Date:** July 28, 2016 @ 04:56:26
 * **In-App Purchasing:** No

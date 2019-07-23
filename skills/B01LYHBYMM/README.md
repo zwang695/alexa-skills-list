@@ -22,5 +22,5 @@ Parental Discretion Advised - May contain references to violence and/or sexualit
 * **ID:** amzn1.ask.skill.a8a7d8f5-e8cc-4872-bcc0-5795294bbf0c
 * **ASIN:** B01LYHBYMM
 * **Author:** Hamboning Films, LLC
-* **Release Date:** October 3, 2016 @ 06:12:02
+* **Release Date:** October 3, 2016 @ 07:12:02
 * **In-App Purchasing:** No

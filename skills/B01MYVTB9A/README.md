@@ -20,5 +20,5 @@ A trivia game on Cricket World Cups. A single player game with each  round consi
 * **ID:** amzn1.ask.skill.b3dcd0a9-1f1a-4163-858c-b4229f089cd7
 * **ASIN:** B01MYVTB9A
 * **Author:** Sughosh Divanji
-* **Release Date:** December 5, 2016 @ 00:36:21
+* **Release Date:** December 5, 2016 @ 01:36:21
 * **In-App Purchasing:** No

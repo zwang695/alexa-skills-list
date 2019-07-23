@@ -20,5 +20,5 @@ With Kentucky Facts, you can learn about the state of Kentucky. Simply ask Alexa
 * **ID:** amzn1.ask.skill.10095802-c81c-4913-8bb2-51684c64e974
 * **ASIN:** B01J77F70Y
 * **Author:** Ink Blots by TRD
-* **Release Date:** August 1, 2016 @ 04:26:26
+* **Release Date:** August 1, 2016 @ 05:26:26
 * **In-App Purchasing:** No

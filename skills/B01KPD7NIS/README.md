@@ -16,5 +16,5 @@ This skill is here to spread some great knowledge and fun facts about toilets.
 * **ID:** amzn1.ask.skill.1ef025da-4328-4eed-96e4-786c1bb265f2
 * **ASIN:** B01KPD7NIS
 * **Author:** Zoe
-* **Release Date:** August 22, 2016 @ 07:45:14
+* **Release Date:** August 22, 2016 @ 08:45:14
 * **In-App Purchasing:** No

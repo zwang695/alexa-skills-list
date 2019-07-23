@@ -20,5 +20,5 @@ This allows you to ask yes or no questions and get a randomized answer.
 * **ID:** amzn1.ask.skill.4fc564a6-f112-4f1b-bae3-c889b8521c5b
 * **ASIN:** B01NCMA9US
 * **Author:** Andrew Williamson
-* **Release Date:** December 17, 2016 @ 02:50:12
+* **Release Date:** December 17, 2016 @ 03:50:12
 * **In-App Purchasing:** No

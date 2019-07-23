@@ -20,5 +20,5 @@ The Donner Ski Ranch Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.77cffea9-497f-4a02-8ba5-ebb04d5360af
 * **ASIN:** B01LYELN8T
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:15:51
+* **Release Date:** October 20, 2016 @ 04:15:51
 * **In-App Purchasing:** No

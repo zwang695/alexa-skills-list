@@ -17,5 +17,5 @@ Punts, Avg, Touchbacks, IN 20, Long and BLK.
 * **ID:** amzn1.ask.skill.d7e9cfce-50f4-4802-a2d0-ca0c91a20917
 * **ASIN:** B01LZVSZPR
 * **Author:** Cubangt
-* **Release Date:** September 29, 2016 @ 06:42:32
+* **Release Date:** September 29, 2016 @ 07:42:32
 * **In-App Purchasing:** No

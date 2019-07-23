@@ -20,5 +20,5 @@ It will tell nice proverbs.
 * **ID:** amzn1.ask.skill.a70691e5-7918-4ace-869e-28f6c74f3345
 * **ASIN:** B01KEAU6GS
 * **Author:** invotive
-* **Release Date:** August 16, 2016 @ 07:26:04
+* **Release Date:** August 16, 2016 @ 08:26:04
 * **In-App Purchasing:** No

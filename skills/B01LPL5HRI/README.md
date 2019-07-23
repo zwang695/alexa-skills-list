@@ -30,5 +30,5 @@ More about Benchmark and Hero series workouts on www.wikiwod.com
 * **ID:** amzn1.ask.skill.fccdaf99-2ab6-4f6b-85f0-a1aedf2d9d1f
 * **ASIN:** B01LPL5HRI
 * **Author:** Aliaksei Zhurankou
-* **Release Date:** September 17, 2016 @ 04:11:56
+* **Release Date:** September 17, 2016 @ 05:11:56
 * **In-App Purchasing:** No

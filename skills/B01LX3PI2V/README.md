@@ -20,5 +20,5 @@ The Wolf Creek Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.a12307d2-3934-409f-8c9e-fbce7d2632a0
 * **ASIN:** B01LX3PI2V
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:43:30
+* **Release Date:** October 19, 2016 @ 11:43:30
 * **In-App Purchasing:** No

@@ -22,7 +22,7 @@ Please note this skill is designed for people ages 18 and older, and may not be 
 * **ID:** amzn1.echo-sdk-ams.app.26dd6058-d85a-41fc-bb23-9d6b63f68890
 * **ASIN:** B01JKI57LY
 * **Author:** Brian Donohue
-* **Release Date:** August 5, 2016 @ 03:07:42
+* **Release Date:** August 5, 2016 @ 04:07:42
 * **Privacy Policy:** https://github.com/Donohue/nonsmoker/blob/master/policy/privacy.md
 * **Terms of Use:** https://github.com/Donohue/nonsmoker/blob/master/policy/tos.md
 * **In-App Purchasing:** No

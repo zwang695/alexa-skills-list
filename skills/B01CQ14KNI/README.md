@@ -22,5 +22,5 @@ For suggestions or to contact please send email to:  brothersgrimmsoftware@gmail
 * **ID:** amzn1.echo-sdk-ams.app.84b78272-1cd7-4abc-9b7a-cdcf0ed1d5dc
 * **ASIN:** B01CQ14KNI
 * **Author:** Brothers Grimm Software
-* **Release Date:** March 8, 2016 @ 17:21:02
+* **Release Date:** March 8, 2016 @ 18:21:02
 * **In-App Purchasing:** No

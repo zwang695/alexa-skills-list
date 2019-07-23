@@ -22,5 +22,5 @@ Disclaimer: This skill not suitable for all ages.  Drunk Santa is recommended fo
 * **ID:** amzn1.ask.skill.06c776e5-2540-4435-ba54-8c7e0208030c
 * **ASIN:** B01N5GAQ0N
 * **Author:** Drew Firment
-* **Release Date:** December 20, 2016 @ 07:49:19
+* **Release Date:** December 20, 2016 @ 08:49:19
 * **In-App Purchasing:** No

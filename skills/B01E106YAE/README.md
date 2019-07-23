@@ -28,7 +28,7 @@ Or say,
 * **ID:** amzn1.echo-sdk-ams.app.2a53b958-2507-45bf-a7d8-d71396dc845d
 * **ASIN:** B01E106YAE
 * **Author:** TheoTech
-* **Release Date:** April 13, 2016 @ 06:32:39
+* **Release Date:** April 13, 2016 @ 07:32:39
 * **Privacy Policy:** http://www.ceaselessprayer.com/privacy.html
 * **Terms of Use:** http://www.ceaselessprayer.com/tou.html
 * **In-App Purchasing:** No

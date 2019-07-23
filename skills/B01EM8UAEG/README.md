@@ -20,5 +20,5 @@ Are you interested in world history? Rely on World History for hundreds of event
 * **ID:** amzn1.echo-sdk-ams.app.7caddada-6740-4895-a0bc-3fd5f6bbc2eb
 * **ASIN:** B01EM8UAEG
 * **Author:** Appbly.com
-* **Release Date:** April 25, 2016 @ 13:38:33
+* **Release Date:** April 25, 2016 @ 14:38:33
 * **In-App Purchasing:** No

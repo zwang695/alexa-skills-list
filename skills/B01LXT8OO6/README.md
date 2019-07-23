@@ -30,7 +30,7 @@ NOTE: This skill currently SUPPORTS Head-to-Head fantasy leagues only. It DOES N
 * **ID:** amzn1.ask.skill.fecb7146-4e3f-401e-aed6-71240388c5d7
 * **ASIN:** B01LXT8OO6
 * **Author:** Yahoo Inc.
-* **Release Date:** October 5, 2016 @ 16:41:50
+* **Release Date:** October 5, 2016 @ 17:41:50
 * **Privacy Policy:** https://policies.yahoo.com/us/en/yahoo/privacy/index.htm
 * **Terms of Use:** https://policies.yahoo.com/us/en/yahoo/terms/utos/index.htm
 * **Account Linking Domains:** api.login.yahoo.com, yahoo.com, login.yahoo.com, s.yimg.com, yimg.com

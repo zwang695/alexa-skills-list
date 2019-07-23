@@ -31,7 +31,7 @@ CAUTION:
 * **ID:** amzn1.ask.skill.3dbb3a03-a910-4ad8-82a0-cb6fd97e94a3
 * **ASIN:** B01M9H2JCK
 * **Author:** Hyundai Motor America
-* **Release Date:** November 14, 2016 @ 14:12:43
+* **Release Date:** November 14, 2016 @ 15:12:43
 * **Privacy Policy:** https://www.hyundaiusa.com/bluelink-privacy-policy.aspx
 * **Terms of Use:** https://www.genesismotorsusa.com/connectedservices-terms-condition.html
 * **Account Linking Domains:** alexa.bluelink.hyundaiusa.com

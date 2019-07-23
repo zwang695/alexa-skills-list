@@ -20,5 +20,5 @@ When you have a difference of opinion with your Mum, ask Alexa for help deciding
 * **ID:** amzn1.ask.skill.6a1003c0-e1a7-40f4-852a-dea4fbb82568
 * **ASIN:** B01N7HX4BV
 * **Author:** ELS
-* **Release Date:** December 16, 2016 @ 06:19:19
+* **Release Date:** December 16, 2016 @ 07:19:19
 * **In-App Purchasing:** No

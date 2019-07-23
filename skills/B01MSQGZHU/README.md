@@ -20,5 +20,5 @@ Fun Facts to know about Animal for educational purpose
 * **ID:** amzn1.ask.skill.c393f497-8140-4b87-a0ac-375fd621fde0
 * **ASIN:** B01MSQGZHU
 * **Author:** ABI Co
-* **Release Date:** December 14, 2016 @ 03:50:03
+* **Release Date:** December 14, 2016 @ 04:50:03
 * **In-App Purchasing:** No

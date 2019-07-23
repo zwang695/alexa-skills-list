@@ -20,5 +20,5 @@ The Campgaw Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.dc8aa785-aa59-4433-9364-39c9c3b38eb9
 * **ASIN:** B01MG4L1NB
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:44:57
+* **Release Date:** October 26, 2016 @ 03:44:57
 * **In-App Purchasing:** No

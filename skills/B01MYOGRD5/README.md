@@ -23,6 +23,6 @@ This skill is not sponsored or endorsed by Amazon.
 * **ID:** amzn1.ask.skill.9fadc9b7-4377-44f0-9d40-9e7f015a8bf7
 * **ASIN:** B01MYOGRD5
 * **Author:** Antonio Cucciniello
-* **Release Date:** December 6, 2016 @ 06:49:13
+* **Release Date:** December 6, 2016 @ 07:49:13
 * **Privacy Policy:** https://www.google.com/policies/privacy/
 * **In-App Purchasing:** No

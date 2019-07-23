@@ -20,5 +20,5 @@ The Kissing Bridge Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.2f3c9903-3b62-4987-97b2-d3fb9ae281a4
 * **ASIN:** B01M28OXE3
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:44:06
+* **Release Date:** October 26, 2016 @ 04:44:06
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Human Body Geek is a daily dose of how awesome the human body is. Its also incre
 * **ID:** amzn1.ask.skill.1f0dfa69-e709-4d14-abf2-7be3f032c2a6
 * **ASIN:** B01K8B7UAS
 * **Author:** Smeads
-* **Release Date:** August 12, 2016 @ 01:37:46
+* **Release Date:** August 12, 2016 @ 02:37:46
 * **In-App Purchasing:** No

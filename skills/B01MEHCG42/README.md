@@ -20,5 +20,5 @@ The Seven Oaks Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.746e8380-b8e3-4d5b-9773-edc5610743cc
 * **ASIN:** B01MEHCG42
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:48:44
+* **Release Date:** October 21, 2016 @ 15:48:44
 * **In-App Purchasing:** No

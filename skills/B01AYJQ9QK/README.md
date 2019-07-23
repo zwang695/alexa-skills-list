@@ -24,7 +24,7 @@ Supported Uber Services: UberX, UberBlack, UberSUV, UberXL, UberSelect
 * **ID:** amzn1.echo-sdk-ams.app.f9e938dc-cded-45dc-bf9d-2029d4de1aa3
 * **ASIN:** B01AYJQ9QK
 * **Author:** Uber Technologies, Inc.
-* **Release Date:** January 22, 2016 @ 14:27:23
+* **Release Date:** January 22, 2016 @ 15:27:23
 * **Privacy Policy:** https://www.uber.com/legal/privacy/users/en
 * **Terms of Use:** https://www.uber.com/legal/usa/terms
 * **Account Linking Domains:** facebook.com, uber.com, get.uber.com, m.facebook.com, connect.facebook.net, d1a3f4spazzrp4.cloudfront.net, www.gstatic.com, auth.uber.com, login.uber.com, www.google.com

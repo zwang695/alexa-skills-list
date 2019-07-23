@@ -22,5 +22,5 @@ she will respond with one.
 * **ID:** amzn1.ask.skill.7fd106d9-8bf8-4df2-98e9-4bcc40979e03
 * **ASIN:** B01N7CRXU4
 * **Author:** Rami Shahatit
-* **Release Date:** December 6, 2016 @ 02:06:14
+* **Release Date:** December 6, 2016 @ 03:06:14
 * **In-App Purchasing:** No

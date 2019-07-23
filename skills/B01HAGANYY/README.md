@@ -20,5 +20,5 @@ Ever wanted to easily figure out what color combinations are needed for primary,
 * **ID:** amzn1.echo-sdk-ams.app.55aec337-77ce-4c73-8599-5efa7b02da45
 * **ASIN:** B01HAGANYY
 * **Author:** Keji Xu
-* **Release Date:** June 25, 2016 @ 08:45:36
+* **Release Date:** June 25, 2016 @ 09:45:36
 * **In-App Purchasing:** No

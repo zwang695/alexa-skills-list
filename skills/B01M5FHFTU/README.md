@@ -20,5 +20,5 @@ This skill tells about list of Telugu months. Know Telugu months by saying, Alex
 * **ID:** amzn1.ask.skill.fa72b3d0-7a8d-428e-b6a7-3c0402ff5a66
 * **ASIN:** B01M5FHFTU
 * **Author:** Prasanna
-* **Release Date:** November 2, 2016 @ 09:12:54
+* **Release Date:** November 2, 2016 @ 10:12:54
 * **In-App Purchasing:** No

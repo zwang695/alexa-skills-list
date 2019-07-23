@@ -34,5 +34,5 @@ This might help you to understand ally and enemy champ during loading. Good luck
 * **ID:** amzn1.ask.skill.0b758295-4088-4d3d-979c-cdc83904e20e
 * **ASIN:** B01JVV2FBA
 * **Author:** Arine
-* **Release Date:** August 12, 2016 @ 06:07:23
+* **Release Date:** August 12, 2016 @ 07:07:23
 * **In-App Purchasing:** No

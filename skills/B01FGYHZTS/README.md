@@ -20,5 +20,5 @@ Mormons are members of The Church of Jesus Christ of Latter-day Saints.  This ap
 * **ID:** amzn1.echo-sdk-ams.app.46d38262-631f-419b-a20e-27cc4f004732
 * **ASIN:** B01FGYHZTS
 * **Author:** Spriton Systems LLC
-* **Release Date:** May 12, 2016 @ 04:38:45
+* **Release Date:** May 12, 2016 @ 05:38:45
 * **In-App Purchasing:** No

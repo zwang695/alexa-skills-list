@@ -20,5 +20,5 @@ Ever frustrated which place to get pizza? The Prophet of Pizza will choose the r
 * **ID:** amzn1.echo-sdk-ams.app.41f99781-d635-468b-8eff-8f6c2cd897e9
 * **ASIN:** B01H3DYOAS
 * **Author:** Hinnes Lung
-* **Release Date:** June 20, 2016 @ 09:15:31
+* **Release Date:** June 20, 2016 @ 10:15:31
 * **In-App Purchasing:** No

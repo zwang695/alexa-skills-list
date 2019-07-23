@@ -20,5 +20,5 @@ The Magic Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.5e53901b-3bdc-46f5-855e-7c73e121ddd5
 * **ASIN:** B01MCVZIOM
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:13:35
+* **Release Date:** October 21, 2016 @ 16:13:35
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This unofficial skill shares facts and observations of the developer (Phil Lawre
 * **ID:** amzn1.ask.skill.91b3ee6c-0030-429c-b87e-62150526aedb
 * **ASIN:** B01N9K2N2K
 * **Author:** Phil Lawrence
-* **Release Date:** December 29, 2016 @ 03:19:32
+* **Release Date:** December 29, 2016 @ 04:19:32
 * **In-App Purchasing:** No

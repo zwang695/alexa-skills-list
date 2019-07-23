@@ -22,5 +22,5 @@ To use the Hockey Schedule and Score Checker skill, try saying...
 * **ID:** amzn1.ask.skill.a6ba2ce4-528b-4510-8d66-72c7f4746057
 * **ASIN:** B01N4GIDKQ
 * **Author:** GS
-* **Release Date:** December 28, 2016 @ 04:48:56
+* **Release Date:** December 28, 2016 @ 05:48:56
 * **In-App Purchasing:** No

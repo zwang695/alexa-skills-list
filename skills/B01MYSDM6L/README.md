@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.c433658f-7f98-45f7-a958-160c13b6a474
 * **ASIN:** B01MYSDM6L
 * **Author:** QusaWare
-* **Release Date:** December 6, 2016 @ 02:05:31
+* **Release Date:** December 6, 2016 @ 03:05:31
 * **In-App Purchasing:** No

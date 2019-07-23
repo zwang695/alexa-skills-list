@@ -20,5 +20,5 @@ The Eagle Point Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.77590003-053f-4718-aa82-faea25fdc4fa
 * **ASIN:** B01MG9C1F5
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:43:46
+* **Release Date:** November 4, 2016 @ 09:43:46
 * **In-App Purchasing:** No

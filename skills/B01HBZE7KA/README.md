@@ -21,5 +21,5 @@ Start your day off with quotes from Oscar Wilde.
 * **ID:** amzn1.echo-sdk-ams.app.d5e5b7db-e639-4c8d-b453-1dc8654b9a2e
 * **ASIN:** B01HBZE7KA
 * **Author:** rickypwnage
-* **Release Date:** June 23, 2016 @ 05:45:56
+* **Release Date:** June 23, 2016 @ 06:45:56
 * **In-App Purchasing:** No

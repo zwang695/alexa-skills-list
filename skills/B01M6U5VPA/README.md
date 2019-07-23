@@ -20,5 +20,5 @@ A simple modem skill that simulates connecting to an internet service in the 20t
 * **ID:** amzn1.ask.skill.fdaff2bc-c790-4d69-98d7-2e98d99bc524
 * **ASIN:** B01M6U5VPA
 * **Author:** J. Nunn
-* **Release Date:** November 11, 2016 @ 01:13:54
+* **Release Date:** November 11, 2016 @ 02:13:54
 * **In-App Purchasing:** No

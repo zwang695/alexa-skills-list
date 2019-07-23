@@ -20,5 +20,5 @@ This skill gives you a cooking tip every time you ask for one. Improve your cook
 * **ID:** amzn1.ask.skill.374904d3-f7c0-4aa1-b68b-ae0d362b30ee
 * **ASIN:** B01K9DDUEU
 * **Author:** Michelle Chan
-* **Release Date:** August 12, 2016 @ 03:07:35
+* **Release Date:** August 12, 2016 @ 04:07:35
 * **In-App Purchasing:** No

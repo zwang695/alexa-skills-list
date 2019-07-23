@@ -20,5 +20,5 @@ Dice bot is a bot that rolls virtual dice for you. Great for extended games of D
 * **ID:** amzn1.ask.skill.d1eb94f9-65df-404c-bb1d-38ae93093821
 * **ASIN:** B01M9FO5HZ
 * **Author:** Snapvids
-* **Release Date:** November 2, 2016 @ 09:43:06
+* **Release Date:** November 2, 2016 @ 10:43:06
 * **In-App Purchasing:** No

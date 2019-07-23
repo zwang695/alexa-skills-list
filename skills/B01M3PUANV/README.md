@@ -18,5 +18,5 @@ Some fun facts about fungi, that will amuse & inform you :)
 * **ID:** amzn1.ask.skill.eb16de1b-7b51-48d0-85d3-52c41fe2db81
 * **ASIN:** B01M3PUANV
 * **Author:** Ed Mechem
-* **Release Date:** October 18, 2016 @ 05:42:02
+* **Release Date:** October 18, 2016 @ 06:42:02
 * **In-App Purchasing:** No

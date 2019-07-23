@@ -18,5 +18,5 @@ Tim's Nebraska Facts was developed as part of a General Assembly Hackathon tutor
 * **ID:** amzn1.ask.skill.d40539b9-7e71-4168-be52-c1ed1064ee17
 * **ASIN:** B01LZX4SMC
 * **Author:** timcmiller
-* **Release Date:** October 6, 2016 @ 04:41:58
+* **Release Date:** October 6, 2016 @ 05:41:58
 * **In-App Purchasing:** No

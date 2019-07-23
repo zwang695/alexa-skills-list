@@ -20,5 +20,5 @@ The Pats Peak Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.406c1c04-0fa5-457a-8d10-79d370b7018e
 * **ASIN:** B01M4N9YQI
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:13:45
+* **Release Date:** October 26, 2016 @ 03:13:45
 * **In-App Purchasing:** No

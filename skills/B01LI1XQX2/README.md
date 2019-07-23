@@ -44,5 +44,5 @@ Please listen carefully and answer with the index number of the key and not the 
 * **ID:** amzn1.ask.skill.0a6f7f63-f12c-4c73-bb7d-4773a4788599
 * **ASIN:** B01LI1XQX2
 * **Author:** d.clin.design
-* **Release Date:** September 7, 2016 @ 04:33:26
+* **Release Date:** September 7, 2016 @ 05:33:26
 * **In-App Purchasing:** No

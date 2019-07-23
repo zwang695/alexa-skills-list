@@ -20,5 +20,5 @@ Celebrate a goal - or anything else - with a classic audio "GOOOOOL" sound.  Try
 * **ID:** amzn1.echo-sdk-ams.app.bfca5696-4914-4d3f-ac01-d882e72f329a
 * **ASIN:** B019DAF4D0
 * **Author:** RJ Duckburgh
-* **Release Date:** December 14, 2015 @ 19:30:04
+* **Release Date:** December 14, 2015 @ 20:30:04
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill asks for your zipcode and then can convert it to latitude and longitu
 * **ID:** amzn1.echo-sdk-ams.app.b49cbbfb-3b5b-4aac-b35d-463f72d95338
 * **ASIN:** B01FVANNYS
 * **Author:** FiveNets
-* **Release Date:** June 15, 2016 @ 05:15:32
+* **Release Date:** June 15, 2016 @ 06:15:32
 * **In-App Purchasing:** No

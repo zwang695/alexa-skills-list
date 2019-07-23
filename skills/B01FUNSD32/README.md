@@ -20,5 +20,5 @@ Economies around the world change in an instant. As such, it can be difficult to
 * **ID:** amzn1.echo-sdk-ams.app.2eb650d7-cc8f-47c6-9f8b-843e479b64bd
 * **ASIN:** B01FUNSD32
 * **Author:** National Association of REALTORS
-* **Release Date:** May 27, 2016 @ 03:38:47
+* **Release Date:** May 27, 2016 @ 04:38:47
 * **In-App Purchasing:** No

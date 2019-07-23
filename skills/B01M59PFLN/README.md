@@ -20,5 +20,5 @@ Animals brighten our days. Allow these facts to do the same, are they real? Who 
 * **ID:** amzn1.ask.skill.92e2c373-25fc-4938-b3bd-4b9afde18465
 * **ASIN:** B01M59PFLN
 * **Author:** AdzVentures
-* **Release Date:** October 13, 2016 @ 01:47:26
+* **Release Date:** October 13, 2016 @ 02:47:26
 * **In-App Purchasing:** No

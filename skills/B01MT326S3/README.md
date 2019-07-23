@@ -22,5 +22,5 @@ http://www.softschools.com/facts/holidays/christmas_facts/144/
 * **ID:** amzn1.ask.skill.cd3d7ce4-2185-4791-91b3-0861f72961f3
 * **ASIN:** B01MT326S3
 * **Author:** ynotApps
-* **Release Date:** December 29, 2016 @ 00:19:22
+* **Release Date:** December 29, 2016 @ 01:19:22
 * **In-App Purchasing:** No

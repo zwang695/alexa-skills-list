@@ -20,5 +20,5 @@ Simple Trivia questions based on Periodic Table elements
 * **ID:** amzn1.echo-sdk-ams.app.9f907f0b-dad0-48e7-871c-cfe60152534b
 * **ASIN:** B01HNN8ONQ
 * **Author:** dbstek
-* **Release Date:** July 4, 2016 @ 05:57:32
+* **Release Date:** July 4, 2016 @ 06:57:32
 * **In-App Purchasing:** No

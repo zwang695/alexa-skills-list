@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.b69e4a8f-35ed-4584-86bf-a2ff452b8aa1
 * **ASIN:** B01NCLI9UF
 * **Author:** Kay Lerch
-* **Release Date:** December 28, 2016 @ 23:49:07
+* **Release Date:** December 29, 2016 @ 00:49:07
 * **In-App Purchasing:** No

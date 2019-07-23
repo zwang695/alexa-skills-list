@@ -22,5 +22,5 @@ For assistance, say "Alexa, ask Composer Facts for Help."
 * **ID:** amzn1.ask.skill.a4204730-3213-433b-be6e-9ef0014a1ea8
 * **ASIN:** B01MXRTFG1
 * **Author:** BlackCatBonifide
-* **Release Date:** December 1, 2016 @ 06:05:23
+* **Release Date:** December 1, 2016 @ 07:05:23
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a quick list of science fiction facts.
 * **ID:** amzn1.echo-sdk-ams.app.e452e72c-165a-46bb-a252-b97b76d89ffd
 * **ASIN:** B01IUQZ848
 * **Author:** LJohnson
-* **Release Date:** July 27, 2016 @ 03:56:32
+* **Release Date:** July 27, 2016 @ 04:56:32
 * **In-App Purchasing:** No

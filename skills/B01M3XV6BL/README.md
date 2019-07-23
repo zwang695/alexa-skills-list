@@ -20,5 +20,5 @@ Alexa gives user a ticker symbol for a public company that trades on US exchange
 * **ID:** amzn1.ask.skill.5ff18f5a-6832-4c6c-8119-d4a6598692b2
 * **ASIN:** B01M3XV6BL
 * **Author:** Daniel McGlinchey
-* **Release Date:** November 21, 2016 @ 00:05:56
+* **Release Date:** November 21, 2016 @ 01:05:56
 * **In-App Purchasing:** No

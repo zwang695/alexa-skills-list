@@ -20,5 +20,5 @@ A basic Rogerian (Person-centered therapy or PCT) psychotherapy simulator (or ju
 * **ID:** amzn1.echo-sdk-ams.app.f3c15feb-9dfe-4d3c-82b5-c258bcdeb3cb
 * **ASIN:** B01DAKTXMM
 * **Author:** Philip Lamoreaux
-* **Release Date:** March 22, 2016 @ 12:31:08
+* **Release Date:** March 22, 2016 @ 13:31:08
 * **In-App Purchasing:** No

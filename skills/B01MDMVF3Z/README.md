@@ -35,7 +35,7 @@ This release is compatible with WIFIPLUG POWER, MINI, and Home (coming soon: see
 * **ID:** amzn1.ask.skill.d15af75c-310a-480b-b88e-3685360ff9ea
 * **ASIN:** B01MDMVF3Z
 * **Author:** Karambyte Ltd.
-* **Release Date:** December 27, 2016 @ 19:19:08
+* **Release Date:** December 27, 2016 @ 20:19:08
 * **Privacy Policy:** http://www.wifiplug.co.uk/terms.html
 * **Terms of Use:** http://www.wifiplug.co.uk/terms.html
 * **In-App Purchasing:** No

@@ -39,5 +39,5 @@ Contact me or suggest improvements: ashah.devo@gmail.com
 * **ID:** amzn1.echo-sdk-ams.app.f53fcd27-caf5-4e4e-bc64-7faf58aa666a
 * **ASIN:** B01I8RAAYM
 * **Author:** akshat-shah
-* **Release Date:** July 14, 2016 @ 04:57:56
+* **Release Date:** July 14, 2016 @ 05:57:56
 * **In-App Purchasing:** No

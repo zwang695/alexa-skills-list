@@ -28,5 +28,5 @@ Alexa, ask Skateboard Studio what is the list for skate parks;
 * **ID:** amzn1.echo-sdk-ams.app.18ef6dd4-292e-4575-b2b9-4ef720f4c6d1
 * **ASIN:** B01HE17GVI
 * **Author:** Robert Hellestrae
-* **Release Date:** June 25, 2016 @ 02:16:14
+* **Release Date:** June 25, 2016 @ 03:16:14
 * **In-App Purchasing:** No

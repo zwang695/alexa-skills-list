@@ -20,5 +20,5 @@ This  skill will  give  you various  interesting  facts  about  the  number  pi 
 * **ID:** amzn1.ask.skill.f9c8ccc5-de53-4f57-a2ac-58dcf129888e
 * **ASIN:** B01LICK6CU
 * **Author:** DCOM
-* **Release Date:** September 4, 2016 @ 08:33:16
+* **Release Date:** September 4, 2016 @ 09:33:16
 * **In-App Purchasing:** No

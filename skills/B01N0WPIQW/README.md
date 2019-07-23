@@ -16,5 +16,5 @@ A simple trivia quiz where you answer 5 random multiple choice questions about t
 * **ID:** amzn1.ask.skill.fdf8e4c1-eef9-454b-be29-fa89d927eee1
 * **ASIN:** B01N0WPIQW
 * **Author:** RipplinRiverTech
-* **Release Date:** January 3, 2017 @ 08:23:25
+* **Release Date:** January 3, 2017 @ 09:23:25
 * **In-App Purchasing:** No

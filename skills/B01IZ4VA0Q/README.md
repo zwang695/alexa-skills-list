@@ -24,5 +24,5 @@ Note: Flashtender is intended for adults of legal drinking age and, as such, mig
 * **ID:** amzn1.ask.skill.35b14e8a-d255-43b3-850e-409966d0a8de
 * **ASIN:** B01IZ4VA0Q
 * **Author:** John Carney
-* **Release Date:** August 17, 2016 @ 06:52:40
+* **Release Date:** August 17, 2016 @ 07:52:40
 * **In-App Purchasing:** No

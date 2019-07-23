@@ -22,5 +22,5 @@ At any time, you can ask for help or ask to quit.
 * **ID:** amzn1.ask.skill.56c2dcc3-f319-48ef-8ed0-c6fe484b3f0e
 * **ASIN:** B01M4IIMJ3
 * **Author:** Andrew Corum
-* **Release Date:** November 2, 2016 @ 08:43:02
+* **Release Date:** November 2, 2016 @ 09:43:02
 * **In-App Purchasing:** No

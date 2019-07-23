@@ -20,5 +20,5 @@ The Yosemite Ski Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.d59fdaa8-3671-4ddd-9716-8f1a3cab11bd
 * **ASIN:** B01M10F6QZ
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:16:25
+* **Release Date:** October 20, 2016 @ 04:16:25
 * **In-App Purchasing:** No

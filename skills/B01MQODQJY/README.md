@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.6b419c1d-c4dc-4d47-a567-d702b5e6d4cb
 * **ASIN:** B01MQODQJY
 * **Author:** fabian
-* **Release Date:** December 8, 2016 @ 05:50:16
+* **Release Date:** December 8, 2016 @ 06:50:16
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Bit Exchange allows you to query for the current bitcoin exchange price.
 * **ID:** amzn1.echo-sdk-ams.app.8913dd63-4d5c-4937-a660-c51918fe4e4b
 * **ASIN:** B01I6BQ63E
 * **Author:** Leo Correa
-* **Release Date:** July 12, 2016 @ 06:27:49
+* **Release Date:** July 12, 2016 @ 07:27:49
 * **In-App Purchasing:** No

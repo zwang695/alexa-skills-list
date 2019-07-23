@@ -34,5 +34,5 @@ Further examples and instructions can be found at www.derpgroup.com/bots.html#2
 * **ID:** amzn1.echo-sdk-ams.app.3d097710-9c2c-44bc-9598-ad74699f07cb
 * **ASIN:** B01EUNE3W8
 * **Author:** 3PO Labs
-* **Release Date:** April 27, 2016 @ 15:38:33
+* **Release Date:** April 27, 2016 @ 16:38:33
 * **In-App Purchasing:** No

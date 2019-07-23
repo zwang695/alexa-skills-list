@@ -20,5 +20,5 @@ The Powderhouse Hill Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.13e93830-01a2-4b9c-acc9-59d067f4f435
 * **ASIN:** B01M3S8XO2
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:14:21
+* **Release Date:** October 21, 2016 @ 15:14:21
 * **In-App Purchasing:** No

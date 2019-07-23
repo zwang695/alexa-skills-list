@@ -25,5 +25,5 @@ See https://www.soa.org/News-and-Publications/Newsletters/Compact/2013/july/Ment
 * **ID:** amzn1.ask.skill.c11487f5-daf7-4cf9-86c0-17b7a27d393b
 * **ASIN:** B01MRQOY2V
 * **Author:** Expertif
-* **Release Date:** November 29, 2016 @ 08:06:15
+* **Release Date:** November 29, 2016 @ 09:06:15
 * **In-App Purchasing:** No

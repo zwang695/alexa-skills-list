@@ -20,5 +20,5 @@ Gets current phase of the moon and tells you.
 * **ID:** amzn1.ask.skill.ac8c9e01-57a2-40f5-8906-bb9b8e184c46
 * **ASIN:** B01MF64YEY
 * **Author:** myjanky
-* **Release Date:** November 9, 2016 @ 00:46:04
+* **Release Date:** November 9, 2016 @ 01:46:04
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask Alexa for quail facts and you'll get an assortment of super neato facts abou
 * **ID:** amzn1.echo-sdk-ams.app.4158bf9e-2b87-446e-b929-20a19cceb1b9
 * **ASIN:** B01HAO895G
 * **Author:** bradford_hamilton
-* **Release Date:** June 22, 2016 @ 04:45:31
+* **Release Date:** June 22, 2016 @ 05:45:31
 * **In-App Purchasing:** No

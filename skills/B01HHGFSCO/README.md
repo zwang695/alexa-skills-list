@@ -20,5 +20,5 @@ Find out many facts about  the Euro 2016 from this application by simply asking 
 * **ID:** amzn1.echo-sdk-ams.app.fd4ad53f-ffe6-4589-8409-74a9285b1508
 * **ASIN:** B01HHGFSCO
 * **Author:** Mustang Designs
-* **Release Date:** June 27, 2016 @ 08:15:40
+* **Release Date:** June 27, 2016 @ 09:15:40
 * **In-App Purchasing:** No

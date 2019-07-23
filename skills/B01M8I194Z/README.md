@@ -20,5 +20,5 @@ Did you know? In China, they are known as ‘da xiong mao’, which means giant 
 * **ID:** amzn1.ask.skill.08ea2126-6bd1-46dc-88f6-466af7e6a715
 * **ASIN:** B01M8I194Z
 * **Author:** Tobias Domhan
-* **Release Date:** October 19, 2016 @ 09:12:48
+* **Release Date:** October 19, 2016 @ 10:12:48
 * **In-App Purchasing:** No

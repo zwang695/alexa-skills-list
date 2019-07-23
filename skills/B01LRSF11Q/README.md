@@ -23,5 +23,5 @@ Icon created by Gianni - Dolce Merda from Noun Project
 * **ID:** amzn1.ask.skill.0cdbe0db-cb51-45d8-948d-2a7c76b7802e
 * **ASIN:** B01LRSF11Q
 * **Author:** Adam Mosam
-* **Release Date:** September 10, 2016 @ 04:42:27
+* **Release Date:** September 10, 2016 @ 05:42:27
 * **In-App Purchasing:** No

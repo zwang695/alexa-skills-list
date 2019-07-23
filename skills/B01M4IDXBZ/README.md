@@ -34,5 +34,5 @@ This skill is not sponsored or endorsed by NBCUniversal Television Distribution
 * **ID:** amzn1.ask.skill.82071acc-391f-4ede-9bde-5bbc391dbb1d
 * **ASIN:** B01M4IDXBZ
 * **Author:** Kathryn L Webb
-* **Release Date:** October 26, 2016 @ 01:45:48
+* **Release Date:** October 26, 2016 @ 02:45:48
 * **In-App Purchasing:** No

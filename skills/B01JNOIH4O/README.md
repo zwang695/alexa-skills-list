@@ -20,5 +20,5 @@ Ask Alexa for a Classic Book Authors Fact and she will tell you the title of a c
 * **ID:** amzn1.ask.skill.fefac29a-89f4-463f-a793-97e44830422c
 * **ASIN:** B01JNOIH4O
 * **Author:** Amanda Horn
-* **Release Date:** August 5, 2016 @ 01:07:44
+* **Release Date:** August 5, 2016 @ 02:07:44
 * **In-App Purchasing:** No

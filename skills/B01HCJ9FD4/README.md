@@ -20,5 +20,5 @@ Dog Geek gives interesting facts about dogs.  This is a list of facts on the dog
 * **ID:** amzn1.echo-sdk-ams.app.dde28ba0-b8ac-46d2-909d-079c3a179674
 * **ASIN:** B01HCJ9FD4
 * **Author:** Calvin Settachatgul
-* **Release Date:** June 22, 2016 @ 07:48:06
+* **Release Date:** June 22, 2016 @ 08:48:06
 * **In-App Purchasing:** No

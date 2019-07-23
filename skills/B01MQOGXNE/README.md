@@ -36,7 +36,7 @@ Discover how MyCheerleader can help you be your best self, today!
 * **ID:** amzn1.ask.skill.1437a025-e6e7-4383-9f57-427ce84105c5
 * **ASIN:** B01MQOGXNE
 * **Author:** MassInflux, LLC
-* **Release Date:** December 13, 2016 @ 06:20:37
+* **Release Date:** December 13, 2016 @ 07:20:37
 * **Privacy Policy:** https://mycheerleader.net/privacy_policy.php
 * **Terms of Use:** https://mycheerleader.net/terms_of_use.php
 * **In-App Purchasing:** No

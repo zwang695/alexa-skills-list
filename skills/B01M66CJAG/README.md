@@ -20,5 +20,5 @@ The Bridger Bowl Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.1b73459d-4a23-486d-988c-31836e997033
 * **ASIN:** B01M66CJAG
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:46:26
+* **Release Date:** October 21, 2016 @ 15:46:26
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.fc6be317-33be-4cb2-8f1d-63df6de03320
 * **ASIN:** B01MEGC2HK
 * **Author:** michaelgrundie
-* **Release Date:** October 25, 2016 @ 01:48:14
+* **Release Date:** October 25, 2016 @ 02:48:14
 * **In-App Purchasing:** No

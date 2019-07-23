@@ -20,5 +20,5 @@ Learn how to make your digital marketing more authentic with a daily tip from Au
 * **ID:** amzn1.ask.skill.58b67c6d-0cd5-4d33-a8b4-aacb45e7a2ec
 * **ASIN:** B01MXMAEPX
 * **Author:** Authentic
-* **Release Date:** November 21, 2016 @ 00:05:26
+* **Release Date:** November 21, 2016 @ 01:05:26
 * **In-App Purchasing:** No

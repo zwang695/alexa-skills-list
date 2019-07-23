@@ -20,5 +20,5 @@ Say: "Alexa ask D.C. Tech for news" or "Alexa, ask D.C. Tech for events"
 * **ID:** amzn1.echo-sdk-ams.app.9920a638-5e86-4ee4-9802-cbe14d60d969
 * **ASIN:** B01C9LRW76
 * **Author:** Troy Crosby
-* **Release Date:** February 26, 2016 @ 19:04:29
+* **Release Date:** February 26, 2016 @ 20:04:29
 * **In-App Purchasing:** No

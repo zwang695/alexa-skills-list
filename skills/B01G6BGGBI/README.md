@@ -23,5 +23,5 @@ Alexa, ask record of the year what was the record of the year in 1988
 * **ID:** amzn1.echo-sdk-ams.app.1156f02c-50bc-4cb2-95fb-38c454e17dc9
 * **ASIN:** B01G6BGGBI
 * **Author:** Team Luna
-* **Release Date:** May 26, 2016 @ 09:38:39
+* **Release Date:** May 26, 2016 @ 10:38:39
 * **In-App Purchasing:** No

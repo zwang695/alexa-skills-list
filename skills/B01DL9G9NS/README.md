@@ -20,5 +20,5 @@ This skill asks the user a round of 3 questions about the author of the applicat
 * **ID:** amzn1.echo-sdk-ams.app.16f71366-1ffe-4874-a64f-148ae17cd23d
 * **ASIN:** B01DL9G9NS
 * **Author:** Monarch, LLC
-* **Release Date:** March 31, 2016 @ 17:32:25
+* **Release Date:** March 31, 2016 @ 18:32:25
 * **In-App Purchasing:** No

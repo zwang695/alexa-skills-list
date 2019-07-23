@@ -20,5 +20,5 @@ This skill helps to find movie rating. It is straight forward to use this skill 
 * **ID:** amzn1.echo-sdk-ams.app.b61ea984-cb40-451b-bfaf-62ec8e9f8209
 * **ASIN:** B01DJXEA14
 * **Author:** Shaleen
-* **Release Date:** April 6, 2016 @ 17:32:22
+* **Release Date:** April 6, 2016 @ 18:32:22
 * **In-App Purchasing:** No

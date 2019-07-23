@@ -22,5 +22,5 @@ Give it a try!
 * **ID:** amzn1.ask.skill.001e10ba-56a1-4c36-baf3-1311251aea62
 * **ASIN:** B01M178VBQ
 * **Author:** Joshua Speight
-* **Release Date:** October 3, 2016 @ 06:11:57
+* **Release Date:** October 3, 2016 @ 07:11:57
 * **In-App Purchasing:** No

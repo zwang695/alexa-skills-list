@@ -20,5 +20,5 @@ Ever sneeze alone and no one is around to bless you? Just tell Alexa "I sneezed"
 * **ID:** amzn1.ask.skill.98085fe0-d223-44aa-9c61-61bd089a36a2
 * **ASIN:** B01M63EBQ6
 * **Author:** IDK UNO
-* **Release Date:** October 17, 2016 @ 23:12:03
+* **Release Date:** October 18, 2016 @ 00:12:03
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Ask Alexa about space related facts. Learn something new every day!
 * **ID:** amzn1.ask.skill.fdfddc7a-335f-499c-8888-fc5411e28f30
 * **ASIN:** B01MZ4QPR8
 * **Author:** Alonzo Moses
-* **Release Date:** December 30, 2016 @ 06:19:42
+* **Release Date:** December 30, 2016 @ 07:19:42
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Alexa will ask you a language, and you have to tell her how you say yes in that 
 * **ID:** amzn1.ask.skill.3462b161-f22f-46b2-80e4-35f634421e51
 * **ASIN:** B01MREEMZ1
 * **Author:** Chloe McMullan
-* **Release Date:** November 4, 2016 @ 02:44:22
+* **Release Date:** November 4, 2016 @ 03:44:22
 * **In-App Purchasing:** No

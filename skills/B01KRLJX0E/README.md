@@ -20,5 +20,5 @@ A simple app that tells you a random chack noris fan fun fact as a joke. This sk
 * **ID:** amzn1.ask.skill.f7c17690-4e3f-457e-9bdd-88bbd0f8d14f
 * **ASIN:** B01KRLJX0E
 * **Author:** David Lin
-* **Release Date:** August 30, 2016 @ 06:32:54
+* **Release Date:** August 30, 2016 @ 07:32:54
 * **In-App Purchasing:** No

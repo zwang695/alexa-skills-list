@@ -20,5 +20,5 @@ Are you a casual or hard-core hearthstone player? Want to hear some edgy tips on
 * **ID:** amzn1.ask.skill.6991085b-1387-4d4e-80aa-aa3e9c19134e
 * **ASIN:** B01MR0E0AT
 * **Author:** 10sStars
-* **Release Date:** December 30, 2016 @ 06:19:37
+* **Release Date:** December 30, 2016 @ 07:19:37
 * **In-App Purchasing:** No

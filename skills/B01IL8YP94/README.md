@@ -20,5 +20,5 @@ Alexa will give you definitions of some terms and components of basic electronic
 * **ID:** amzn1.echo-sdk-ams.app.eb771ecb-e785-4ee9-ae54-7cabcb751213
 * **ASIN:** B01IL8YP94
 * **Author:** Kavinci Tech
-* **Release Date:** July 21, 2016 @ 07:57:40
+* **Release Date:** July 21, 2016 @ 08:57:40
 * **In-App Purchasing:** No

@@ -26,5 +26,5 @@ Go ahead to play and have fun!
 * **ID:** amzn1.echo-sdk-ams.app.9f7e9a99-b8ce-40d2-a994-57c47562e029
 * **ASIN:** B01IH3F4FC
 * **Author:** Yang Zhang
-* **Release Date:** July 19, 2016 @ 06:27:52
+* **Release Date:** July 19, 2016 @ 07:27:52
 * **In-App Purchasing:** No

@@ -26,5 +26,5 @@ InsultiBot may not be willing to be the bot you want, but it's designed to be th
 * **ID:** amzn1.echo-sdk-ams.app.2fb024ea-b485-4966-be4e-1a42f26ca9ef
 * **ASIN:** B01AVKAZ94
 * **Author:** 3PO Labs
-* **Release Date:** January 20, 2016 @ 16:45:01
+* **Release Date:** January 20, 2016 @ 17:45:01
 * **In-App Purchasing:** No

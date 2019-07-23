@@ -20,5 +20,5 @@ This app is designed to give useful information about a beer. It will give the n
 * **ID:** amzn1.ask.skill.44da0b47-2e22-42f2-b842-23265a62199d
 * **ASIN:** B01NACTWUH
 * **Author:** RunAwayDev
-* **Release Date:** December 1, 2016 @ 09:35:24
+* **Release Date:** December 1, 2016 @ 10:35:24
 * **In-App Purchasing:** No

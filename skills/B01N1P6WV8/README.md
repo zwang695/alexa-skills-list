@@ -25,5 +25,5 @@ Test your knowledge on such questions as...
 * **ID:** amzn1.ask.skill.a7fb3258-427b-41a5-aa39-909846980476
 * **ASIN:** B01N1P6WV8
 * **Author:** Joel Brisbin
-* **Release Date:** December 6, 2016 @ 06:49:30
+* **Release Date:** December 6, 2016 @ 07:49:30
 * **In-App Purchasing:** No

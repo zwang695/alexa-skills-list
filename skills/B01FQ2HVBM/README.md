@@ -20,5 +20,5 @@ ClashRoyaleHelper responds to user's query about the description to the card of 
 * **ID:** amzn1.echo-sdk-ams.app.4b2060eb-bd10-4931-a24c-2f50409fb47e
 * **ASIN:** B01FQ2HVBM
 * **Author:** Xinyang Zhang
-* **Release Date:** May 24, 2016 @ 09:39:25
+* **Release Date:** May 24, 2016 @ 10:39:25
 * **In-App Purchasing:** No

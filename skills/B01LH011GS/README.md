@@ -20,5 +20,5 @@ Random facts about whale sharks.
 * **ID:** amzn1.ask.skill.f69b9249-54da-4b9e-a7e6-a994feb20dc7
 * **ASIN:** B01LH011GS
 * **Author:** jarrensj
-* **Release Date:** September 8, 2016 @ 02:34:02
+* **Release Date:** September 8, 2016 @ 03:34:02
 * **In-App Purchasing:** No

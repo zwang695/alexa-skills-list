@@ -21,5 +21,5 @@ Start with the phrase Alexa, launch computer trivia then answer each question af
 * **ID:** amzn1.echo-sdk-ams.app.4c336d37-1a6b-4959-9330-eebc77eb3f6b
 * **ASIN:** B01EX7A1TA
 * **Author:** Michael Medis
-* **Release Date:** May 10, 2016 @ 02:42:56
+* **Release Date:** May 10, 2016 @ 03:42:56
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A trivia game in which the player will be asked five questions about cricket. Th
 * **ID:** amzn1.echo-sdk-ams.app.2fed3643-d835-4f4d-abcc-c492ff043e75
 * **ASIN:** B01JZXH2CQ
 * **Author:** Shivam
-* **Release Date:** August 9, 2016 @ 02:07:29
+* **Release Date:** August 9, 2016 @ 03:07:29
 * **In-App Purchasing:** No

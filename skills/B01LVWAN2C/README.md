@@ -20,5 +20,5 @@ This skill is not sponsored or endorsed by Microsoft.
 * **ID:** amzn1.ask.skill.cf1117e3-ffde-46e8-8224-e386b6fbd1bf
 * **ASIN:** B01LVWAN2C
 * **Author:** justjimmeh
-* **Release Date:** September 21, 2016 @ 08:42:07
+* **Release Date:** September 21, 2016 @ 09:42:07
 * **In-App Purchasing:** No

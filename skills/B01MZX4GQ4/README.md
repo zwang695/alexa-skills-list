@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.eab5f722-8d66-4bea-961d-bc33e1811bac
 * **ASIN:** B01MZX4GQ4
 * **Author:** Manor View Labs
-* **Release Date:** November 29, 2016 @ 08:40:55
+* **Release Date:** November 29, 2016 @ 09:40:55
 * **In-App Purchasing:** No

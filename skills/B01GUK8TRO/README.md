@@ -28,5 +28,5 @@ Alexa, ask Parks Explore what is the list for midwest (or south atlantic, west c
 * **ID:** amzn1.echo-sdk-ams.app.62e85240-720f-4dfc-af6b-fa0d03bfd2a5
 * **ASIN:** B01GUK8TRO
 * **Author:** Robert Hellestrae
-* **Release Date:** June 13, 2016 @ 04:09:46
+* **Release Date:** June 13, 2016 @ 05:09:46
 * **In-App Purchasing:** No

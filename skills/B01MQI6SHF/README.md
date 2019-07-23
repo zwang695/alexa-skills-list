@@ -22,5 +22,5 @@ The Unofficial Don't Starve Helper skill is not sponsored or endorsed by Klei En
 * **ID:** amzn1.ask.skill.13665707-94bf-4e58-8ff0-ee05ac2e4784
 * **ASIN:** B01MQI6SHF
 * **Author:** Reno McKenzie
-* **Release Date:** December 7, 2016 @ 05:49:11
+* **Release Date:** December 7, 2016 @ 06:49:11
 * **In-App Purchasing:** No

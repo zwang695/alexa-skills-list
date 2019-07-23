@@ -20,5 +20,5 @@ The Snow Ridge Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.59a4ba2a-cc4e-4e64-a3f4-af6c490d88f5
 * **ASIN:** B01M28P5A9
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:44:36
+* **Release Date:** October 26, 2016 @ 04:44:36
 * **In-App Purchasing:** No

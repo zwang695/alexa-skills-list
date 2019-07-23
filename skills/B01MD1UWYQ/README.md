@@ -22,5 +22,5 @@ each time you ask the skill it returns a random fact
 * **ID:** amzn1.ask.skill.984aa212-b969-4ee2-b2be-c2cdae31692a
 * **ASIN:** B01MD1UWYQ
 * **Author:** ramysoft
-* **Release Date:** November 9, 2016 @ 00:13:56
+* **Release Date:** November 9, 2016 @ 01:13:56
 * **In-App Purchasing:** No

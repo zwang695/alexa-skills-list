@@ -31,5 +31,5 @@ Note : No special hardware or account activation required for this interaction. 
 * **ID:** amzn1.echo-sdk-ams.app.b0baea55-16f1-4ec5-af82-6247d81e9066
 * **ASIN:** B01I15Y50G
 * **Author:** papillon88
-* **Release Date:** July 6, 2016 @ 07:57:37
+* **Release Date:** July 6, 2016 @ 08:57:37
 * **In-App Purchasing:** No

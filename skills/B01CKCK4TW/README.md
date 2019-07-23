@@ -25,5 +25,5 @@ Think you can answer...
 * **ID:** amzn1.echo-sdk-ams.app.df565000-c460-42df-87ec-046540860b41
 * **ASIN:** B01CKCK4TW
 * **Author:** LearnedH
-* **Release Date:** March 4, 2016 @ 12:20:57
+* **Release Date:** March 4, 2016 @ 13:20:57
 * **In-App Purchasing:** No

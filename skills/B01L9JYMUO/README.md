@@ -20,5 +20,5 @@ To get started with this skill, all you would have to say is something like "Ale
 * **ID:** amzn1.ask.skill.36267067-d40c-460c-b07b-cc603b97be1b
 * **ASIN:** B01L9JYMUO
 * **Author:** Samay Shamdasani
-* **Release Date:** September 1, 2016 @ 04:03:19
+* **Release Date:** September 1, 2016 @ 05:03:19
 * **In-App Purchasing:** No

@@ -21,5 +21,5 @@ This skill is not sponsored by or affiliated with Milton Bradley or Hasbro, it i
 * **ID:** amzn1.ask.skill.20268f73-09f9-4f45-afe4-53b9195f8bcf
 * **ASIN:** B01N94UXNQ
 * **Author:** Shoutware
-* **Release Date:** December 30, 2016 @ 01:49:08
+* **Release Date:** December 30, 2016 @ 02:49:08
 * **In-App Purchasing:** No

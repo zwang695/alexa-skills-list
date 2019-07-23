@@ -20,5 +20,5 @@ This Amazon Skill Set  mission is to educate people of internet who lust for inf
 * **ID:** amzn1.ask.skill.0436b074-cd67-4284-ab03-af4fb901aad0
 * **ASIN:** B01J09A9I4
 * **Author:** Vignesh
-* **Release Date:** July 28, 2016 @ 10:56:45
+* **Release Date:** July 28, 2016 @ 11:56:45
 * **In-App Purchasing:** No

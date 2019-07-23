@@ -22,5 +22,5 @@ Check out Chris' books "Random Thoughts From Boredom's..." and "A Myriad of Musi
 * **ID:** amzn1.ask.skill.be5f53ce-50bf-4a98-86bf-b2ad24ab8a06
 * **ASIN:** B01MT2Z5H0
 * **Author:** W & W Holdings, LLC
-* **Release Date:** January 3, 2017 @ 08:23:48
+* **Release Date:** January 3, 2017 @ 09:23:48
 * **In-App Purchasing:** No

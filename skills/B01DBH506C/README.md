@@ -20,5 +20,5 @@ A games to test the knowledge of potential and existing visitors to the island o
 * **ID:** amzn1.echo-sdk-ams.app.a7327066-e809-45fa-b01a-55f89d227762
 * **ASIN:** B01DBH506C
 * **Author:** Kelly Justice
-* **Release Date:** March 23, 2016 @ 01:16:15
+* **Release Date:** March 23, 2016 @ 02:16:15
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A challenging quiz about award winning movies. Guess the correct year they were 
 * **ID:** amzn1.echo-sdk-ams.app.a3c4f6b0-0591-4fc7-968f-6b8f45d04147
 * **ASIN:** B01IQLN2L8
 * **Author:** Lily Langdon
-* **Release Date:** July 21, 2016 @ 04:57:30
+* **Release Date:** July 21, 2016 @ 05:57:30
 * **In-App Purchasing:** No

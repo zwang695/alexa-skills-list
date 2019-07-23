@@ -20,5 +20,5 @@ This skill is for Mixpo executives and employees to learn more about Mixpo's bus
 * **ID:** amzn1.echo-sdk-ams.app.9234a905-e670-4304-b8ac-86557507cc87
 * **ASIN:** B01BH1QJL4
 * **Author:** Salim Hemdani
-* **Release Date:** February 4, 2016 @ 12:02:18
+* **Release Date:** February 4, 2016 @ 13:02:18
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Mount Holiday Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.c458e63a-7ef2-468c-bd67-7c2dfbe5f248
 * **ASIN:** B01M9DB6QF
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:14:04
+* **Release Date:** October 21, 2016 @ 16:14:04
 * **In-App Purchasing:** No

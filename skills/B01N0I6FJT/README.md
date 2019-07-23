@@ -22,5 +22,5 @@ Please note that some jokes are darker by nature of anti jokes.
 * **ID:** amzn1.ask.skill.51f0bcb8-6012-4494-9a0b-cc78432d8a17
 * **ASIN:** B01N0I6FJT
 * **Author:** Spraypaint
-* **Release Date:** November 25, 2016 @ 04:08:04
+* **Release Date:** November 25, 2016 @ 05:08:04
 * **In-App Purchasing:** No

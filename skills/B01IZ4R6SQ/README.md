@@ -20,5 +20,5 @@ Ask Alexa for some fun squirrel trivia and find out all about these furry little
 * **ID:** amzn1.ask.skill.fcd0851c-8d0a-4d07-8cf1-914412d07fc4
 * **ASIN:** B01IZ4R6SQ
 * **Author:** Lauren Milne
-* **Release Date:** July 25, 2016 @ 08:26:33
+* **Release Date:** July 25, 2016 @ 09:26:33
 * **In-App Purchasing:** No

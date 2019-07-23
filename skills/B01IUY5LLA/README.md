@@ -20,5 +20,5 @@ Tell You an Interesting Cat Facts
 * **ID:** amzn1.ask.skill.d70b855b-6d2d-47b5-af71-32e98bfa9173
 * **ASIN:** B01IUY5LLA
 * **Author:** Network Automation Nerds LLC.
-* **Release Date:** July 22, 2016 @ 07:26:41
+* **Release Date:** July 22, 2016 @ 08:26:41
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask Alexa to give you crazy law and she will tell you one.
 * **ID:** amzn1.ask.skill.5b246fe4-84e0-4554-a133-5839a57229f9
 * **ASIN:** B01N1W0GSM
 * **Author:** Jonathan R. Jackson
-* **Release Date:** December 28, 2016 @ 05:19:05
+* **Release Date:** December 28, 2016 @ 06:19:05
 * **In-App Purchasing:** No

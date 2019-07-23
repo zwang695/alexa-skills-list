@@ -20,5 +20,5 @@ Ludo Helper skill describes the rules of the game Ludo, board setup, strategy to
 * **ID:** amzn1.ask.skill.78069a48-6f51-4441-b20a-a757c7c6362d
 * **ASIN:** B01LR94BTS
 * **Author:** sandy1609
-* **Release Date:** September 11, 2016 @ 02:17:12
+* **Release Date:** September 11, 2016 @ 03:17:12
 * **In-App Purchasing:** No

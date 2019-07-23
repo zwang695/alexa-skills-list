@@ -20,5 +20,5 @@ Presents the user with a 5 question quiz about animals. Keeps score and reports 
 * **ID:** amzn1.ask.skill.c9637d92-b323-4718-b2e8-763dd2c00bb2
 * **ASIN:** B01JDMKPQY
 * **Author:** Erin Sullivan
-* **Release Date:** August 5, 2016 @ 04:07:31
+* **Release Date:** August 5, 2016 @ 05:07:31
 * **In-App Purchasing:** No

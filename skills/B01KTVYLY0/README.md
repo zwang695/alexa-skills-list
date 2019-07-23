@@ -20,7 +20,7 @@ Get the latest available, from NEW YORK DATA GOV,  SAT scores for New York City 
 * **ID:** amzn1.ask.skill.61f18d95-8ebd-4e39-a2fc-e6fd99d2c727
 * **ASIN:** B01KTVYLY0
 * **Author:** Digital Spring Apps
-* **Release Date:** October 8, 2016 @ 05:11:48
+* **Release Date:** October 8, 2016 @ 06:11:48
 * **Privacy Policy:** http://www.digitalspring.com/apps/mtprivacy
 * **Terms of Use:** http://www.digitalspring.com/apps/mtprivacy
 * **In-App Purchasing:** No

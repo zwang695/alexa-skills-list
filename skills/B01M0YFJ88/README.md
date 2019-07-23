@@ -20,5 +20,5 @@ The Red River Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.bf0519cb-7a18-4fce-a60d-0bb2609cddb5
 * **ASIN:** B01M0YFJ88
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:43:51
+* **Release Date:** October 19, 2016 @ 12:43:51
 * **In-App Purchasing:** No

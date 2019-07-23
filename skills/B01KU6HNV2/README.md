@@ -22,5 +22,5 @@ Disclaimer: This application is not suitable for all ages. You must be at least 
 * **ID:** amzn1.ask.skill.4ef96a9b-cef2-4c84-8154-dac9e22cc722
 * **ASIN:** B01KU6HNV2
 * **Author:** Mauro Restuccia
-* **Release Date:** September 2, 2016 @ 01:33:53
+* **Release Date:** September 2, 2016 @ 02:33:53
 * **In-App Purchasing:** No

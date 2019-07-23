@@ -20,5 +20,5 @@ This skill tells you facts about computers.
 * **ID:** amzn1.ask.skill.240138bb-fa50-4a7e-b92c-fd976f74a2e6
 * **ASIN:** B01N8W48DR
 * **Author:** Hop-A-Ride
-* **Release Date:** November 17, 2016 @ 07:35:20
+* **Release Date:** November 17, 2016 @ 08:35:20
 * **In-App Purchasing:** No

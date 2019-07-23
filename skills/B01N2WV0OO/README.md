@@ -32,6 +32,6 @@ http://www.cogobikeshare.com/.
 * **ID:** amzn1.ask.skill.29fdeaf7-6fbb-4d20-956b-1e88cb5d680d
 * **ASIN:** B01N2WV0OO
 * **Author:** Mark of Progress
-* **Release Date:** January 1, 2017 @ 22:49:41
+* **Release Date:** January 1, 2017 @ 23:49:41
 * **Privacy Policy:** https://github.com/stephen-hoover/alexa-chicago-bikeshare/blob/v1.1.0/PRIVACY_POLICY.md
 * **In-App Purchasing:** No

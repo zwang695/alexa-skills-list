@@ -20,5 +20,5 @@ Multiplication Flash Cards - lets you interactively test your basic multiplicati
 * **ID:** amzn1.echo-sdk-ams.app.30122c88-ec6f-41b2-9a55-8a4d193300b5
 * **ASIN:** B01HLMQSUK
 * **Author:** Carrington Enterprises
-* **Release Date:** July 12, 2016 @ 06:28:06
+* **Release Date:** July 12, 2016 @ 07:28:06
 * **In-App Purchasing:** No

@@ -21,5 +21,5 @@ Then you can get the different between the start time and now by using "ask my t
 * **ID:** amzn1.ask.skill.e87bb552-9b97-4741-b0f6-3b43df466c10
 * **ASIN:** B01MRR81DC
 * **Author:** 张展程
-* **Release Date:** December 6, 2016 @ 07:49:09
+* **Release Date:** December 6, 2016 @ 08:49:09
 * **In-App Purchasing:** No

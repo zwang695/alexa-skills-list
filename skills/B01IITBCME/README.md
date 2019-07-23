@@ -24,5 +24,5 @@ Icon made by Freepik from www.flaticon.com
 * **ID:** amzn1.echo-sdk-ams.app.589a55b5-b000-4057-b76b-3938db8902db
 * **ASIN:** B01IITBCME
 * **Author:** davefogo
-* **Release Date:** July 20, 2016 @ 02:27:42
+* **Release Date:** July 20, 2016 @ 03:27:42
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Get the daily Wikipedia featured article.
 * **ID:** amzn1.ask.skill.9f01fc4e-6330-4256-9195-9d74c655c57f
 * **ASIN:** B01N2MAHX5
 * **Author:** Jack Song
-* **Release Date:** November 28, 2016 @ 04:36:22
+* **Release Date:** November 28, 2016 @ 05:36:22
 * **In-App Purchasing:** No

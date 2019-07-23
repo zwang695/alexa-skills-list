@@ -20,5 +20,5 @@ This is just a fun trivia game that will ask you to choose the capital of each U
 * **ID:** amzn1.echo-sdk-ams.app.dbc4ba39-98e7-4af0-8ce2-867c8ab7a9cb
 * **ASIN:** B01DJLBPAA
 * **Author:** IfElse
-* **Release Date:** April 12, 2016 @ 03:02:31
+* **Release Date:** April 12, 2016 @ 04:02:31
 * **In-App Purchasing:** No

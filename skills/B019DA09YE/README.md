@@ -22,5 +22,5 @@ Math Mania provides a variety of game modes including addition only, subtraction
 * **ID:** amzn1.echo-sdk-ams.app.4be84d52-afe4-4c85-8c94-79cc322483a2
 * **ASIN:** B019DA09YE
 * **Author:** Falicon Programming Inc.
-* **Release Date:** December 14, 2015 @ 19:17:16
+* **Release Date:** December 14, 2015 @ 20:17:16
 * **In-App Purchasing:** No

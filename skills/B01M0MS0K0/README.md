@@ -24,5 +24,5 @@ This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.756ebed2-7b7d-4f32-a689-f12a97ff1b5b
 * **ASIN:** B01M0MS0K0
 * **Author:** Shawn Coffman
-* **Release Date:** October 7, 2016 @ 07:41:51
+* **Release Date:** October 7, 2016 @ 08:41:51
 * **In-App Purchasing:** No

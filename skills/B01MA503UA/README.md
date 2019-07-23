@@ -20,5 +20,5 @@ Are you bored? Just play with Neo Trivia, our technological game with questions 
 * **ID:** amzn1.ask.skill.e65dcfbf-53d4-47ab-973e-b12b37980d99
 * **ASIN:** B01MA503UA
 * **Author:** Javier Pita
-* **Release Date:** October 25, 2016 @ 01:48:09
+* **Release Date:** October 25, 2016 @ 02:48:09
 * **In-App Purchasing:** No

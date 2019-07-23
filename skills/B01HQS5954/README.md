@@ -21,5 +21,5 @@ Disclaimer: This application is not suitable for all ages. You must be at least 
 * **ID:** amzn1.echo-sdk-ams.app.38c110b0-94ba-44e9-9f58-f92d72315a7d
 * **ASIN:** B01HQS5954
 * **Author:** Cheryl Simmons
-* **Release Date:** October 19, 2016 @ 01:43:07
+* **Release Date:** October 19, 2016 @ 02:43:07
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ This skill is meant to be fun and random, some are very surprising, some are wid
 * **ID:** amzn1.echo-sdk-ams.app.cd780877-ad6f-438a-82ed-294021408045
 * **ASIN:** B01F4TRG9E
 * **Author:** Supernova
-* **Release Date:** May 4, 2016 @ 10:38:34
+* **Release Date:** May 4, 2016 @ 11:38:34
 * **In-App Purchasing:** No

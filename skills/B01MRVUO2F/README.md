@@ -26,7 +26,7 @@ Please Note: This is an unofficial skill and is not sponsored or endorsed by Rem
 * **ID:** amzn1.ask.skill.ac33f837-d45d-4ef4-a70d-e4223e9119a5
 * **ASIN:** B01MRVUO2F
 * **Author:** Nozza87
-* **Release Date:** December 18, 2016 @ 03:19:05
+* **Release Date:** December 18, 2016 @ 04:19:05
 * **Privacy Policy:** https://inoahguy.com.au/#Privacy
 * **Account Linking Domains:** inoahguy.com.au
 * **In-App Purchasing:** No

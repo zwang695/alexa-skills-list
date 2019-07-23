@@ -20,5 +20,5 @@ This is a test app that will tell you a few facts about sailboats
 * **ID:** amzn1.ask.skill.cba217b0-ade4-454f-b004-5c8abdd7cb09
 * **ASIN:** B01LYFNBZV
 * **Author:** L Buchholz Consulting
-* **Release Date:** October 14, 2016 @ 01:47:16
+* **Release Date:** October 14, 2016 @ 02:47:16
 * **In-App Purchasing:** No

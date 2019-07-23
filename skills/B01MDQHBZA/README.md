@@ -20,5 +20,5 @@ The Titus Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.66b1cb04-aa60-432d-bc33-be936fdd6e4f
 * **ASIN:** B01MDQHBZA
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:45:13
+* **Release Date:** October 26, 2016 @ 04:45:13
 * **In-App Purchasing:** No

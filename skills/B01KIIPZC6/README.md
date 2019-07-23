@@ -22,5 +22,5 @@ Test your knowledge on capital cities by countries.
 * **ID:** amzn1.ask.skill.c0ad611b-7ba2-45f0-aab8-3af3ddcf715b
 * **ASIN:** B01KIIPZC6
 * **Author:** Jam Factory
-* **Release Date:** August 18, 2016 @ 09:22:25
+* **Release Date:** August 18, 2016 @ 10:22:25
 * **In-App Purchasing:** No

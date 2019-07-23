@@ -22,5 +22,5 @@ Husky Pro is a great tool for any UConn student or fan to learn more about the i
 * **ID:** amzn1.echo-sdk-ams.app.3b4bc0bf-3a22-438c-9f47-646a0a450ae4
 * **ASIN:** B01IMNUPJM
 * **Author:** Tyler Lauretti
-* **Release Date:** July 25, 2016 @ 01:26:41
+* **Release Date:** July 25, 2016 @ 02:26:41
 * **In-App Purchasing:** No

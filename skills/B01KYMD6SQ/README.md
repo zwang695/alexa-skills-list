@@ -22,5 +22,5 @@ Disclaimer! May not be suitable for all ages! Contains insults, even if of a Sha
 * **ID:** amzn1.ask.skill.e87a3725-6d0c-4730-bac4-d5f42cd573df
 * **ASIN:** B01KYMD6SQ
 * **Author:** Upbeat Labs LLC
-* **Release Date:** September 16, 2016 @ 03:11:38
+* **Release Date:** September 16, 2016 @ 04:11:38
 * **In-App Purchasing:** No

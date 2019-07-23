@@ -22,5 +22,5 @@ Have Alexa serve you up a loud belch!
 * **ID:** amzn1.ask.skill.0a1c0dd3-cacd-4b5b-b3a4-b4b8d0eb4fcc
 * **ASIN:** B01JB1VBZ6
 * **Author:** Ryan Phillips
-* **Release Date:** August 4, 2016 @ 01:41:35
+* **Release Date:** August 4, 2016 @ 02:41:35
 * **In-App Purchasing:** No

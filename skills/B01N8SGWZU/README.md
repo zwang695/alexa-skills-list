@@ -18,5 +18,5 @@ Collection of quotes from famous authors, experts on success, life, and more!
 * **ID:** amzn1.ask.skill.bc69f37d-bbee-4732-8fba-72e07dc589ad
 * **ASIN:** B01N8SGWZU
 * **Author:** Wiliam X
-* **Release Date:** November 10, 2016 @ 00:43:01
+* **Release Date:** November 10, 2016 @ 01:43:01
 * **In-App Purchasing:** No

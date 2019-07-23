@@ -20,5 +20,5 @@ In most Chemistry courses knowing the names and corresponding symbols for the el
 * **ID:** amzn1.ask.skill.858e2298-eee4-4771-9414-f21e348a6e95
 * **ASIN:** B01M8IW3UK
 * **Author:** Elvis Wolcott
-* **Release Date:** October 21, 2016 @ 15:44:11
+* **Release Date:** October 21, 2016 @ 16:44:11
 * **In-App Purchasing:** No

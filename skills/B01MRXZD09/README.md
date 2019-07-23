@@ -18,5 +18,5 @@ Play a fun trivia game with lighthearted Christmas trivia.  Some are hard and so
 * **ID:** amzn1.ask.skill.a5b5fa2e-e268-46dd-8f4f-9e7e61ec298e
 * **ASIN:** B01MRXZD09
 * **Author:** Eric Watson
-* **Release Date:** December 16, 2016 @ 08:49:28
+* **Release Date:** December 16, 2016 @ 09:49:28
 * **In-App Purchasing:** No

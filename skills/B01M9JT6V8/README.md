@@ -20,5 +20,5 @@ The Beaver Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.ce02f15f-1306-4509-b0f3-1b2bd42cf8b8
 * **ASIN:** B01M9JT6V8
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:16:09
+* **Release Date:** November 4, 2016 @ 09:16:09
 * **In-App Purchasing:** No

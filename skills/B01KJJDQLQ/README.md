@@ -20,5 +20,5 @@ Color theory is a vast topic, but sometimes you just want to know how to make pu
 * **ID:** amzn1.ask.skill.eaf14c5b-472b-40ea-af58-6b31b32f57e8
 * **ASIN:** B01KJJDQLQ
 * **Author:** Apps by Allison via PH
-* **Release Date:** August 22, 2016 @ 09:18:42
+* **Release Date:** August 22, 2016 @ 10:18:42
 * **In-App Purchasing:** No

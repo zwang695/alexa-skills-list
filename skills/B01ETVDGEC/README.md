@@ -22,5 +22,5 @@ More facts will be added every few weeks. If you have a fact that you would like
 * **ID:** amzn1.echo-sdk-ams.app.3e11b0d7-d067-4e38-b340-e238bca2acc5
 * **ASIN:** B01ETVDGEC
 * **Author:** Ten10 Digital
-* **Release Date:** May 4, 2016 @ 08:38:31
+* **Release Date:** May 4, 2016 @ 09:38:31
 * **In-App Purchasing:** No

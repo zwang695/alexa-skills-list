@@ -20,5 +20,5 @@ Are you interested in learning a Famous Sonnet? Rely on Famous Sonnet for all of
 * **ID:** amzn1.ask.skill.6ae3e9ea-54bc-4ff9-9a85-5e6e9fbabf58
 * **ASIN:** B01LY4X3YU
 * **Author:** Appbly.com
-* **Release Date:** September 22, 2016 @ 04:42:22
+* **Release Date:** September 22, 2016 @ 05:42:22
 * **In-App Purchasing:** No

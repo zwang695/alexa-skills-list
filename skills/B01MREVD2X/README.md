@@ -20,5 +20,5 @@ The Snowbasin Resort Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.bb1c1350-c4a2-4262-ab6e-b2d61ff1dcdf
 * **ASIN:** B01MREVD2X
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:43:26
+* **Release Date:** November 4, 2016 @ 09:43:26
 * **In-App Purchasing:** No

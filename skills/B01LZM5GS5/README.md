@@ -20,5 +20,5 @@ The Apex Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.bad10048-7357-438c-bc02-46d9ad74ab4a
 * **ASIN:** B01LZM5GS5
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:17:33
+* **Release Date:** October 20, 2016 @ 04:17:33
 * **In-App Purchasing:** No

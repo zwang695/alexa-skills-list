@@ -20,5 +20,5 @@ Brand Trivia asks questions about famous brands we use and see often throughout 
 * **ID:** amzn1.ask.skill.b98e49d2-9b57-4e9f-8297-4a7264bd2d40
 * **ASIN:** B01JHLORME
 * **Author:** AntlerVision
-* **Release Date:** August 5, 2016 @ 01:37:50
+* **Release Date:** August 5, 2016 @ 02:37:50
 * **In-App Purchasing:** No

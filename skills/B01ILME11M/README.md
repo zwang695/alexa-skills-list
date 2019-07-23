@@ -20,5 +20,5 @@ Internet Flashcards is a database of the most commonly used internet acronyms, l
 * **ID:** amzn1.echo-sdk-ams.app.7b87ad65-2465-45b2-b865-5599f77750b5
 * **ASIN:** B01ILME11M
 * **Author:** Shyam Vadeyar
-* **Release Date:** July 25, 2016 @ 01:56:25
+* **Release Date:** July 25, 2016 @ 02:56:25
 * **In-App Purchasing:** No

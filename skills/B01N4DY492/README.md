@@ -31,6 +31,6 @@ Transit Tracker needs your help. Let us know if you would like to suggest any ne
 * **ID:** amzn1.ask.skill.3a1678a5-8773-453c-b6e6-f3b8e57f6489
 * **ASIN:** B01N4DY492
 * **Author:** Implied Karma
-* **Release Date:** December 15, 2016 @ 07:19:19
+* **Release Date:** December 15, 2016 @ 08:19:19
 * **Privacy Policy:** https://greenbus.impliedkarma.com/myCaptain/privacy.html
 * **In-App Purchasing:** No

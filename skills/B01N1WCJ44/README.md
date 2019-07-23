@@ -20,5 +20,5 @@ A humorous app to get Alexa to sound like the best meme of all time... Doge. Wow
 * **ID:** amzn1.ask.skill.c8281638-37f9-4958-9faa-7813b5d685a6
 * **ASIN:** B01N1WCJ44
 * **Author:** Tyler Leonhardt
-* **Release Date:** December 29, 2016 @ 02:20:05
+* **Release Date:** December 29, 2016 @ 03:20:05
 * **In-App Purchasing:** No

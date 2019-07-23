@@ -20,5 +20,5 @@ The Color Wheel Facts skill provides facts about color combinations.
 * **ID:** amzn1.ask.skill.e1487366-78f6-4c44-b549-21cb11d0d266
 * **ASIN:** B01LZOWGOP
 * **Author:** Kristan Elmer
-* **Release Date:** October 14, 2016 @ 01:15:58
+* **Release Date:** October 14, 2016 @ 02:15:58
 * **In-App Purchasing:** No

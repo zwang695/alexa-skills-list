@@ -21,5 +21,5 @@ Out  of  a collection of   weirdest, scariest, funniest guiness   world records.
 * **ID:** amzn1.ask.skill.9302c0a2-9c7e-4bbc-851f-2a1cdc49b4fc
 * **ASIN:** B01J0CBTWQ
 * **Author:** DCOM
-* **Release Date:** July 29, 2016 @ 05:56:36
+* **Release Date:** July 29, 2016 @ 06:56:36
 * **In-App Purchasing:** No

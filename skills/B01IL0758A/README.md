@@ -26,5 +26,5 @@ Icons made by Freepik from www.flaticon.com and licensed by CC 3.0 BY.
 * **ID:** amzn1.echo-sdk-ams.app.591a61f4-f87c-4cd9-bb73-d383ae22e704
 * **ASIN:** B01IL0758A
 * **Author:** David Luna
-* **Release Date:** July 20, 2016 @ 02:57:31
+* **Release Date:** July 20, 2016 @ 03:57:31
 * **In-App Purchasing:** No

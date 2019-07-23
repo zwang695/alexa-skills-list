@@ -24,7 +24,7 @@ Everything is secured with the passcode you have to set ; there’s no risk of y
 * **ID:** amzn1.echo-sdk-ams.app.1c2671d2-8b9f-4397-86e1-dbb45dc33b21
 * **ASIN:** B01KX83VJA
 * **Author:** Myfox
-* **Release Date:** September 28, 2016 @ 17:12:46
+* **Release Date:** September 28, 2016 @ 18:12:46
 * **Privacy Policy:** https://www.getmyfox.com/us_en/privacy-policy.html
 * **Terms of Use:** https://www.getmyfox.com/us_en/terms-of-use.html
 * **In-App Purchasing:** No

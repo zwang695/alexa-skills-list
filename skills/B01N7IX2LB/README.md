@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.f1adb2f7-bd0e-402e-bdef-4555e449dfef
 * **ASIN:** B01N7IX2LB
 * **Author:** Dieter
-* **Release Date:** December 20, 2016 @ 08:50:03
+* **Release Date:** December 20, 2016 @ 09:50:03
 * **In-App Purchasing:** No

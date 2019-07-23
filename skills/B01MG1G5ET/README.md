@@ -20,5 +20,5 @@ The Tamarack Resort Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.80c91d7f-c2db-483d-951e-5ca8e681cc75
 * **ASIN:** B01MG1G5ET
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:47:20
+* **Release Date:** October 21, 2016 @ 15:47:20
 * **In-App Purchasing:** No

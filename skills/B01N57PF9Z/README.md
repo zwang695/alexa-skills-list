@@ -20,5 +20,5 @@ Find the weekday for any date in the past and the future.
 * **ID:** amzn1.ask.skill.edae5cbe-042d-4e61-a582-0fe8d4685483
 * **ASIN:** B01N57PF9Z
 * **Author:** SpeedyMarks
-* **Release Date:** December 12, 2016 @ 05:19:11
+* **Release Date:** December 12, 2016 @ 06:19:11
 * **In-App Purchasing:** No

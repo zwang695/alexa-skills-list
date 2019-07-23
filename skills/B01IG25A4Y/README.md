@@ -22,5 +22,5 @@ The app is meant to be a tiny bit educational but try to have some fun as well!
 * **ID:** amzn1.echo-sdk-ams.app.f7c127b1-7f79-41b8-a17b-1c6eeb7c2960
 * **ASIN:** B01IG25A4Y
 * **Author:** S. M. Unlisted
-* **Release Date:** July 15, 2016 @ 05:27:36
+* **Release Date:** July 15, 2016 @ 06:27:36
 * **In-App Purchasing:** No

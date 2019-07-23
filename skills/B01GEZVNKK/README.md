@@ -26,5 +26,5 @@ Alexa, ask Golf Shot Live, what is the average score today?
 * **ID:** amzn1.echo-sdk-ams.app.378f90ad-65d6-4794-b7fa-ddbd5c2bf1e7
 * **ASIN:** B01GEZVNKK
 * **Author:** Mike Webb
-* **Release Date:** June 6, 2016 @ 03:08:36
+* **Release Date:** June 6, 2016 @ 04:08:36
 * **In-App Purchasing:** No

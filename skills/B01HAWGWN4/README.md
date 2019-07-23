@@ -20,5 +20,5 @@ This is the squad helper for Portugal fans in EURO 2016 this summer. It provides
 * **ID:** amzn1.echo-sdk-ams.app.40a7b1af-1a32-42c7-83f4-f0f387970b16
 * **ASIN:** B01HAWGWN4
 * **Author:** Xinyang Zhang
-* **Release Date:** June 22, 2016 @ 08:16:06
+* **Release Date:** June 22, 2016 @ 09:16:06
 * **In-App Purchasing:** No

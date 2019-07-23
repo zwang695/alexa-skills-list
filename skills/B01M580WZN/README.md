@@ -25,5 +25,5 @@ May not be suitable for all ages due to alcohol references. Drink responsibly.
 * **ID:** amzn1.ask.skill.25c2ffe7-9994-4324-95fd-47c5b617a3ab
 * **ASIN:** B01M580WZN
 * **Author:** Self
-* **Release Date:** October 25, 2016 @ 01:48:20
+* **Release Date:** October 25, 2016 @ 02:48:20
 * **In-App Purchasing:** No

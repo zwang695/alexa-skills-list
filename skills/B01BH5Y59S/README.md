@@ -34,5 +34,5 @@ During the time that Alexa is reading back the movies and showtimes, the user ca
 * **ID:** amzn1.echo-sdk-ams.app.bdfed8d0-1018-4d3b-83f7-5b8bc208f9fb
 * **ASIN:** B01BH5Y59S
 * **Author:** SMD Solutions
-* **Release Date:** February 4, 2016 @ 13:48:59
+* **Release Date:** February 4, 2016 @ 14:48:59
 * **In-App Purchasing:** No

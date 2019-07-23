@@ -20,5 +20,5 @@ Book events tells you about upcoming book, signing and author events for a given
 * **ID:** amzn1.ask.skill.281adaac-3ddd-41c2-a4fd-e820ab833c11
 * **ASIN:** B01M8KVRY0
 * **Author:** Ellis Weiner
-* **Release Date:** November 2, 2016 @ 01:43:32
+* **Release Date:** November 2, 2016 @ 02:43:32
 * **In-App Purchasing:** No

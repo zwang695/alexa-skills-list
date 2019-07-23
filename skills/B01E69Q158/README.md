@@ -20,5 +20,5 @@ A fun game to learn more about the Book of Mormon and The Church of Jesus Christ
 * **ID:** amzn1.echo-sdk-ams.app.ef820f93-c9ad-4b94-907f-7bd7ff837015
 * **ASIN:** B01E69Q158
 * **Author:** Spriton Systems LLC
-* **Release Date:** April 14, 2016 @ 06:32:39
+* **Release Date:** April 14, 2016 @ 07:32:39
 * **In-App Purchasing:** No

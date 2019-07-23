@@ -20,5 +20,5 @@ The Crystal Mountain Michigan Snow Report brought to you by SnoCountry brings y
 * **ID:** amzn1.ask.skill.0c2f96f9-e240-408a-a300-088ef9cbde62
 * **ASIN:** B01M3S8H32
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:14:10
+* **Release Date:** October 21, 2016 @ 16:14:10
 * **In-App Purchasing:** No

@@ -24,6 +24,6 @@ Disclaimer: this skill might be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.6d73eeca-a38a-470c-bc6e-40b1d89c10f3
 * **ASIN:** B01H6ZKQDM
 * **Author:** Moblor Inc.
-* **Release Date:** August 5, 2016 @ 07:37:23
+* **Release Date:** August 5, 2016 @ 08:37:23
 * **Privacy Policy:** https://www.moblor.com/amazon-echo/privacy-policy
 * **In-App Purchasing:** No

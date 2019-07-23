@@ -20,5 +20,5 @@ This is a trivia game about theater and movie musicals.  Questions refer to acto
 * **ID:** amzn1.echo-sdk-ams.app.10f42215-9971-483a-9f5b-916a50842b1c
 * **ASIN:** B01F39KL06
 * **Author:** Christopher Hopkins
-* **Release Date:** May 6, 2016 @ 07:08:30
+* **Release Date:** May 6, 2016 @ 08:08:30
 * **In-App Purchasing:** No

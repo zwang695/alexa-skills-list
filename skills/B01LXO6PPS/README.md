@@ -57,6 +57,6 @@ Visit Support.SmartThings.com for more information on the SmartThings skills for
 * **ID:** amzn1.ask.skill.ef172d0e-8408-4120-b0f9-deab2d0572c1
 * **ASIN:** B01LXO6PPS
 * **Author:** SmartThings
-* **Release Date:** September 27, 2016 @ 19:42:09
+* **Release Date:** September 27, 2016 @ 20:42:09
 * **Privacy Policy:** https://www.smartthings.com/privacy
 * **In-App Purchasing:** No

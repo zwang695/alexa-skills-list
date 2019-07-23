@@ -20,5 +20,5 @@ Gives facts about previous held soccer world cups
 * **ID:** amzn1.echo-sdk-ams.app.4f5b8ddc-1880-4f0b-829b-e779a5eb51e9
 * **ASIN:** B01HUY2KQK
 * **Author:** Milan Tonse
-* **Release Date:** July 4, 2016 @ 06:27:32
+* **Release Date:** July 4, 2016 @ 07:27:32
 * **In-App Purchasing:** No

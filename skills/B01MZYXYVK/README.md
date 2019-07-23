@@ -20,5 +20,5 @@ The Beer Style skill gives the user information about the different beer styles 
 * **ID:** amzn1.ask.skill.2925bfee-1269-479c-90b3-4d101efb5ba8
 * **ASIN:** B01MZYXYVK
 * **Author:** HumanJoe Labs
-* **Release Date:** December 1, 2016 @ 05:05:03
+* **Release Date:** December 1, 2016 @ 06:05:03
 * **In-App Purchasing:** No

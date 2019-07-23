@@ -20,5 +20,5 @@ Facts about Andrii Shchavisnkyi
 * **ID:** amzn1.ask.skill.20818c8a-c735-4762-af84-bfc671a97cf5
 * **ASIN:** B01N9I3QOI
 * **Author:** Andrii Shchavinskyi
-* **Release Date:** December 18, 2016 @ 05:19:20
+* **Release Date:** December 18, 2016 @ 06:19:20
 * **In-App Purchasing:** No

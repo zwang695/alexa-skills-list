@@ -20,5 +20,5 @@ To use the 21 Dayz skill, try saying...
 * **ID:** amzn1.echo-sdk-ams.app.a4055920-713d-4665-bb6b-ac6a90cc0f71
 * **ASIN:** B01B79Q5KQ
 * **Author:** Agile Planners
-* **Release Date:** January 28, 2016 @ 23:17:36
+* **Release Date:** January 29, 2016 @ 00:17:36
 * **In-App Purchasing:** No

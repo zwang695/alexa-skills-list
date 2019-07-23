@@ -20,5 +20,5 @@ This quiz is intended for users familiar with Google Analytics, a tool for measu
 * **ID:** amzn1.ask.skill.1a20b072-07a0-4126-992b-df96b375baee
 * **ASIN:** B01N2W3D1G
 * **Author:** Rachelle Maisner
-* **Release Date:** December 24, 2016 @ 08:49:34
+* **Release Date:** December 24, 2016 @ 09:49:34
 * **In-App Purchasing:** No

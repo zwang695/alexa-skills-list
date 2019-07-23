@@ -16,5 +16,5 @@ Here is a fun list of facts about airplanes.  The facts range from early flight 
 * **ID:** amzn1.ask.skill.66119dad-2e54-4107-9d61-50354c50df70
 * **ASIN:** B01LY0J0QB
 * **Author:** JustinCadburyWong
-* **Release Date:** October 4, 2016 @ 02:13:45
+* **Release Date:** October 4, 2016 @ 03:13:45
 * **In-App Purchasing:** No

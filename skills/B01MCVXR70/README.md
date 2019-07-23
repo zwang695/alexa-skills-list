@@ -20,5 +20,5 @@ The Showdown Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.09604bc6-9f18-47c4-af14-7afc69cbff6d
 * **ASIN:** B01MCVXR70
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:46:07
+* **Release Date:** October 21, 2016 @ 15:46:07
 * **In-App Purchasing:** No

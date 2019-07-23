@@ -20,5 +20,5 @@ The Breckenridge Resort Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.d5d77975-07b6-4a74-8b62-0c12ce837d5b
 * **ASIN:** B01M0CYIE6
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:14:28
+* **Release Date:** October 19, 2016 @ 12:14:28
 * **In-App Purchasing:** No

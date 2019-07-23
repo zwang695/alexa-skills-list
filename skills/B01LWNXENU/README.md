@@ -20,5 +20,5 @@ This skill gives some facts about cockatiels both as pets and in the wild.Fun ap
 * **ID:** amzn1.ask.skill.401a06e3-7290-4238-ae26-811ae74bf0dc
 * **ASIN:** B01LWNXENU
 * **Author:** Vinayak Mankal
-* **Release Date:** October 3, 2016 @ 01:42:45
+* **Release Date:** October 3, 2016 @ 02:42:45
 * **In-App Purchasing:** No

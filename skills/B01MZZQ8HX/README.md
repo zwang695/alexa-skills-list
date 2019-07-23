@@ -20,5 +20,5 @@ Recites famous/notable speeches and speech snippets.
 * **ID:** amzn1.ask.skill.4f1019d1-e063-475b-a66c-9dbc34e90456
 * **ASIN:** B01MZZQ8HX
 * **Author:** Foose Industries
-* **Release Date:** January 3, 2017 @ 09:21:08
+* **Release Date:** January 3, 2017 @ 10:21:08
 * **In-App Purchasing:** No

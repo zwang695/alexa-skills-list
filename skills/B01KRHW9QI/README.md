@@ -20,5 +20,5 @@ A simple app that tells you if a character like "Batman" is a Good Guy or Bad Gu
 * **ID:** amzn1.ask.skill.ef9dc47e-e28d-48ef-9546-66c5bc7dfdb5
 * **ASIN:** B01KRHW9QI
 * **Author:** David Lin
-* **Release Date:** August 29, 2016 @ 04:02:37
+* **Release Date:** August 29, 2016 @ 05:02:37
 * **In-App Purchasing:** No

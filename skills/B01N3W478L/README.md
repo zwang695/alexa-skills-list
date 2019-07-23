@@ -20,5 +20,5 @@ The Sir Sam's Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.58ee05fb-5f5a-4781-985d-ed4b76ee272e
 * **ASIN:** B01N3W478L
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:13:47
+* **Release Date:** November 5, 2016 @ 12:13:47
 * **In-App Purchasing:** No

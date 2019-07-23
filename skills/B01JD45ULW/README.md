@@ -21,5 +21,5 @@ Out  of  a collection of   weirdest, scariest, funniest world records.
 * **ID:** amzn1.ask.skill.51fa7e6a-2537-4256-9cde-8dfc55b6a9ce
 * **ASIN:** B01JD45ULW
 * **Author:** DCOM
-* **Release Date:** August 2, 2016 @ 03:26:40
+* **Release Date:** August 2, 2016 @ 04:26:40
 * **In-App Purchasing:** No

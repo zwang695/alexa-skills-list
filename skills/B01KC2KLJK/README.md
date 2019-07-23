@@ -21,5 +21,5 @@ The skill starts with Alexa​ giving you clues on guessing correct astronomical
 * **ID:** amzn1.ask.skill.25271f3d-0327-438d-90f3-c8e023138db3
 * **ASIN:** B01KC2KLJK
 * **Author:** FindGoose
-* **Release Date:** August 16, 2016 @ 01:38:31
+* **Release Date:** August 16, 2016 @ 02:38:31
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Countries Flashcard asks five question per game.
 * **ID:** amzn1.ask.skill.2569e9e4-c342-4956-9a29-d2403ed1dbcd
 * **ASIN:** B01IWQ1QGU
 * **Author:** suvarna
-* **Release Date:** July 27, 2016 @ 01:26:41
+* **Release Date:** July 27, 2016 @ 02:26:41
 * **In-App Purchasing:** No

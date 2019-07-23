@@ -20,5 +20,5 @@ this  skill  tells  facts  about  cats.
 * **ID:** amzn1.ask.skill.0ef04226-9025-405a-b2f8-1ee4b2afbcf6
 * **ASIN:** B01LLP9YZO
 * **Author:** DCOM
-* **Release Date:** September 6, 2016 @ 01:33:47
+* **Release Date:** September 6, 2016 @ 02:33:47
 * **In-App Purchasing:** No

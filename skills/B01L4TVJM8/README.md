@@ -22,5 +22,5 @@ Will be updated with more quotes regularly!
 * **ID:** amzn1.ask.skill.ceb13b16-188f-40d1-b20e-654cb1d8f600
 * **ASIN:** B01L4TVJM8
 * **Author:** anjalikan
-* **Release Date:** August 30, 2016 @ 01:33:10
+* **Release Date:** August 30, 2016 @ 02:33:10
 * **In-App Purchasing:** No

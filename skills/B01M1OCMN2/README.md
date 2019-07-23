@@ -18,5 +18,5 @@ This skill will give you information about the celebrities who were on show rece
 * **ID:** amzn1.ask.skill.585b814d-833c-41f4-bf68-9330c599e994
 * **ASIN:** B01M1OCMN2
 * **Author:** FreshDigitalGroup
-* **Release Date:** October 15, 2016 @ 01:46:16
+* **Release Date:** October 15, 2016 @ 02:46:16
 * **In-App Purchasing:** No

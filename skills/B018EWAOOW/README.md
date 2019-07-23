@@ -28,7 +28,7 @@ Show episode data provided by the awesome http://tvmaze.com.
 * **ID:** amzn1.echo-sdk-ams.app.86c9a430-8e8d-4a8e-a407-314b863a1796
 * **ASIN:** B018EWAOOW
 * **Author:** Gobby Apps
-* **Release Date:** November 23, 2015 @ 12:36:08
+* **Release Date:** November 23, 2015 @ 13:36:08
 * **Privacy Policy:** http://gobbyapps.com/privacy
 * **Terms of Use:** http://gobbyapps.com/tos
 * **In-App Purchasing:** No

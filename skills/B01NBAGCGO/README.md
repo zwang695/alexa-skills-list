@@ -20,5 +20,5 @@ Play Jewish Radio Network (JewishRadioNetwork.com), the best Jewish content onli
 * **ID:** amzn1.ask.skill.fece18b9-13ac-497c-a1fe-c5efd0d054d2
 * **ASIN:** B01NBAGCGO
 * **Author:** LevTec
-* **Release Date:** November 25, 2016 @ 03:39:52
+* **Release Date:** November 25, 2016 @ 04:39:52
 * **In-App Purchasing:** No

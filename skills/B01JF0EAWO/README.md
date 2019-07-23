@@ -20,5 +20,5 @@ Favorite quotes from Tao Te Ching translated by Ching Gia-Fu Feng and Jane Engli
 * **ID:** amzn1.ask.skill.eff3973f-c005-4fee-9b9f-89fd1ee892e1
 * **ASIN:** B01JF0EAWO
 * **Author:** StoneTomato
-* **Release Date:** August 10, 2016 @ 03:37:34
+* **Release Date:** August 10, 2016 @ 04:37:34
 * **In-App Purchasing:** No

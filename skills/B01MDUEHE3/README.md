@@ -20,5 +20,5 @@ For upcoming american elections, it is helpful to provide citizens (us residents
 * **ID:** amzn1.ask.skill.4b0d2e1a-bb1e-4f95-9eec-9be70ab6e53f
 * **ASIN:** B01MDUEHE3
 * **Author:** Adrien Chan
-* **Release Date:** November 9, 2016 @ 03:13:19
+* **Release Date:** November 9, 2016 @ 04:13:19
 * **In-App Purchasing:** No

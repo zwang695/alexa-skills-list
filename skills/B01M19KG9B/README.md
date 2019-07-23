@@ -20,5 +20,5 @@ Aussie Facts gives you some really interesting facts about Alexa. You can say g'
 * **ID:** amzn1.ask.skill.cfb35d2f-1c59-42f9-94a2-61489db39afb
 * **ASIN:** B01M19KG9B
 * **Author:** Jadenator
-* **Release Date:** October 4, 2016 @ 02:43:53
+* **Release Date:** October 4, 2016 @ 03:43:53
 * **In-App Purchasing:** No

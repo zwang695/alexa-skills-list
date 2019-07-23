@@ -20,5 +20,5 @@ Kick this skill off every day to keep up to date with the latest news. You will 
 * **ID:** amzn1.echo-sdk-ams.app.c1189ab1-a6e1-492a-9959-25eceb5dba3c
 * **ASIN:** B01FVB3ASG
 * **Author:** TsaTsaTzu
-* **Release Date:** May 25, 2016 @ 15:08:33
+* **Release Date:** May 25, 2016 @ 16:08:33
 * **In-App Purchasing:** No

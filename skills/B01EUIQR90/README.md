@@ -20,5 +20,5 @@ This is a skill that tells you interesting horror movie trivia. It will tell you
 * **ID:** amzn1.echo-sdk-ams.app.54250ca1-05c7-4bcf-9374-08c4203a1585
 * **ASIN:** B01EUIQR90
 * **Author:** Civilizr
-* **Release Date:** April 28, 2016 @ 19:08:27
+* **Release Date:** April 28, 2016 @ 20:08:27
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A fun, little game to help introduce people to the amazing state of Oklahoma.
 * **ID:** amzn1.ask.skill.f121ca13-7887-464e-9a6a-26e0ea9e2435
 * **ASIN:** B01MQF0HW4
 * **Author:** Timothy Aaron
-* **Release Date:** November 9, 2016 @ 00:46:23
+* **Release Date:** November 9, 2016 @ 01:46:23
 * **In-App Purchasing:** No

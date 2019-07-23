@@ -20,5 +20,5 @@ This is an unofficial University of South Florida Bulls Trivia challenge. It is 
 * **ID:** amzn1.ask.skill.0e40cfab-e26f-4cb1-8abd-781c298663ba
 * **ASIN:** B01MG93KE9
 * **Author:** DHarper
-* **Release Date:** November 9, 2016 @ 03:12:55
+* **Release Date:** November 9, 2016 @ 04:12:55
 * **In-App Purchasing:** No

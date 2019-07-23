@@ -20,5 +20,5 @@ Stay up to date on the latest egg-related trivia with egg facts. Whether you're 
 * **ID:** amzn1.ask.skill.ee135261-a19a-4f45-8a83-876079831b04
 * **ASIN:** B01L4RQKWO
 * **Author:** Albert Brown
-* **Release Date:** August 29, 2016 @ 03:02:44
+* **Release Date:** August 29, 2016 @ 04:02:44
 * **In-App Purchasing:** No

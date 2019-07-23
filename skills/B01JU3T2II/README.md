@@ -16,5 +16,5 @@ Curious about Laura? Here are some fun facts about Laura for you to enjoy.
 * **ID:** amzn1.ask.skill.bbd3cc9d-206d-44d9-9b81-15c7e55d46dc
 * **ASIN:** B01JU3T2II
 * **Author:** PollySentrick
-* **Release Date:** August 10, 2016 @ 02:37:47
+* **Release Date:** August 10, 2016 @ 03:37:47
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Sometimes you want to know and sometimes you ask but wish you didn't. Get the la
 * **ID:** amzn1.echo-sdk-ams.app.34cf3c0e-ce22-4bda-ad9f-6f5b3fc44914
 * **ASIN:** B01FS0DPEY
 * **Author:** Ray Strods
-* **Release Date:** May 23, 2016 @ 05:08:40
+* **Release Date:** May 23, 2016 @ 06:08:40
 * **In-App Purchasing:** No

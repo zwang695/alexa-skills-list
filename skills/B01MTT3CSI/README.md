@@ -22,5 +22,5 @@ Who needs a text book when you've got Alexa to teach you about photosynthesis!
 * **ID:** amzn1.ask.skill.2cde225c-9f69-4636-bc62-e157608f6833
 * **ASIN:** B01MTT3CSI
 * **Author:** Jas
-* **Release Date:** November 27, 2016 @ 04:35:05
+* **Release Date:** November 27, 2016 @ 05:35:05
 * **In-App Purchasing:** No

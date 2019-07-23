@@ -20,5 +20,5 @@ This skill lets the user know about the Ebola virus, how it spreads from person 
 * **ID:** amzn1.echo-sdk-ams.app.a89d0ae9-1640-46f4-ac9c-789cce4a4b14
 * **ASIN:** B01GOCXJDM
 * **Author:** None
-* **Release Date:** June 9, 2016 @ 08:39:34
+* **Release Date:** June 9, 2016 @ 09:39:34
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The purpose of this skill is to educate citizens of the United States of its his
 * **ID:** amzn1.ask.skill.317c5a87-deda-464b-8a2b-0beaab49f586
 * **ASIN:** B01LWO57SI
 * **Author:** RUI
-* **Release Date:** October 7, 2016 @ 01:42:24
+* **Release Date:** October 7, 2016 @ 02:42:24
 * **In-App Purchasing:** No

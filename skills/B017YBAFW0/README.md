@@ -45,7 +45,7 @@ To learn more about what you can do with QuickEvents, go to: http://sarkonovich-
 * **ID:** amzn1.echo-sdk-ams.app.e43b96d5-e13b-40ac-9ee2-0c2c94813e40
 * **ASIN:** B017YBAFW0
 * **Author:** Philosophical Creations
-* **Release Date:** December 1, 2015 @ 13:01:11
+* **Release Date:** December 1, 2015 @ 14:01:11
 * **Privacy Policy:** http://sarkonovich-2.elasticbeanstalk.com/privacy
 * **Terms of Use:** http://sarkonovich-2.elasticbeanstalk.com/terms-of-service
 * **In-App Purchasing:** Yes

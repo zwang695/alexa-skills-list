@@ -20,5 +20,5 @@ Trivia about a musical named for the country's first treasurer, Alexander Hamilt
 * **ID:** amzn1.echo-sdk-ams.app.b370e24a-7f3a-441a-b58c-8aebfd60f795
 * **ASIN:** B01IQB0252
 * **Author:** Lily Langdon
-* **Release Date:** July 20, 2016 @ 07:57:35
+* **Release Date:** July 20, 2016 @ 08:57:35
 * **In-App Purchasing:** No

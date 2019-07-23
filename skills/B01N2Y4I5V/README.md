@@ -18,5 +18,5 @@ Explore the world of whales with facts, query away!
 * **ID:** amzn1.ask.skill.a274470f-212c-41a2-88fb-653eb72afc27
 * **ASIN:** B01N2Y4I5V
 * **Author:** willchiu
-* **Release Date:** December 28, 2016 @ 04:49:20
+* **Release Date:** December 28, 2016 @ 05:49:20
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ sometimes we would like to test ourselves about what we know. so here is a rando
 * **ID:** amzn1.ask.skill.2097b300-8090-4fdc-87ab-752e0e19decd
 * **ASIN:** B01JDR41Z0
 * **Author:** Rami
-* **Release Date:** August 9, 2016 @ 01:37:32
+* **Release Date:** August 9, 2016 @ 02:37:32
 * **In-App Purchasing:** No

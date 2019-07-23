@@ -17,5 +17,5 @@ Disclaimer: Powerball Numbers may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.00d82d67-d197-4d63-8a33-00b2f51b0860
 * **ASIN:** B01C7URPZS
 * **Author:** Jim Drewes
-* **Release Date:** February 25, 2016 @ 16:33:43
+* **Release Date:** February 25, 2016 @ 17:33:43
 * **In-App Purchasing:** No

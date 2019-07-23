@@ -22,6 +22,6 @@ You have to unfortunately set the addresses on a web page. Currently only the be
 * **ID:** amzn1.echo-sdk-ams.app.0791646b-3913-4923-9372-91167c02db1e
 * **ASIN:** B01M4NG0LE
 * **Author:** Personal
-* **Release Date:** January 3, 2017 @ 04:18:56
+* **Release Date:** January 3, 2017 @ 05:18:56
 * **Privacy Policy:** https://s3.amazonaws.com/nexttransit/privacypolicy.htm
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This quiz asks the user five questions about baseball history.  Each question gi
 * **ID:** amzn1.echo-sdk-ams.app.f6aee670-f19e-456f-bce1-31760df0d666
 * **ASIN:** B01GUQ8IKQ
 * **Author:** pbailen
-* **Release Date:** June 10, 2016 @ 05:39:48
+* **Release Date:** June 10, 2016 @ 06:39:48
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ The Fodmap diet skill is not medical advice. Reactions to foods may differ from 
 * **ID:** amzn1.ask.skill.f620d27c-a164-42f8-b931-ad78ca3bf1d5
 * **ASIN:** B01N5JVN8F
 * **Author:** hopet
-* **Release Date:** December 31, 2016 @ 03:48:46
+* **Release Date:** December 31, 2016 @ 04:48:46
 * **In-App Purchasing:** No

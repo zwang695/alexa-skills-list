@@ -16,5 +16,5 @@ Have Alexa give you a random exercise to build a workout or just to get your blo
 * **ID:** amzn1.ask.skill.beafefb8-42a9-4504-99ab-0ac9d735eac0
 * **ASIN:** B01KKZDL8C
 * **Author:** Zak Strassberg
-* **Release Date:** August 23, 2016 @ 07:48:38
+* **Release Date:** August 23, 2016 @ 08:48:38
 * **In-App Purchasing:** No

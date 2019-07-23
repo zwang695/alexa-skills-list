@@ -22,5 +22,5 @@ This skill is fun and challenging for everyone!
 * **ID:** amzn1.ask.skill.769d4a36-8715-4e32-9428-0e51a0cee89c
 * **ASIN:** B01JDLSRGK
 * **Author:** Chris Smolen
-* **Release Date:** August 8, 2016 @ 02:37:51
+* **Release Date:** August 8, 2016 @ 03:37:51
 * **In-App Purchasing:** No

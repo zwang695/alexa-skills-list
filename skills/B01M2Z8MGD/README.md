@@ -18,5 +18,5 @@ Some fun facts about kombucha, that will amuse & inform you :)
 * **ID:** amzn1.ask.skill.bd683c9f-b2ed-4ca8-b22e-351d13da866a
 * **ASIN:** B01M2Z8MGD
 * **Author:** Ed Mechem
-* **Release Date:** October 21, 2016 @ 15:15:35
+* **Release Date:** October 21, 2016 @ 16:15:35
 * **In-App Purchasing:** No

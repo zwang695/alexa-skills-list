@@ -20,5 +20,5 @@ Is your internet down?  It's time to find out!  Use this skill to quickly identi
 * **ID:** amzn1.ask.skill.2b212b39-f3ae-40c9-b5ec-b603ff2c8348
 * **ASIN:** B01MY2ZFXN
 * **Author:** Brian Quock
-* **Release Date:** January 3, 2017 @ 01:19:29
+* **Release Date:** January 3, 2017 @ 02:19:29
 * **In-App Purchasing:** No

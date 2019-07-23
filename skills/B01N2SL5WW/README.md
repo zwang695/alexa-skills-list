@@ -20,5 +20,5 @@ This skill will read a random Haiku poem to you.
 * **ID:** amzn1.ask.skill.f785b599-3185-4719-a55e-bb231e6e8dfe
 * **ASIN:** B01N2SL5WW
 * **Author:** Ewen Chou
-* **Release Date:** December 11, 2016 @ 03:19:32
+* **Release Date:** December 11, 2016 @ 04:19:32
 * **In-App Purchasing:** No

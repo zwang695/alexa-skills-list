@@ -20,5 +20,5 @@ When the user asks Alexa for praise, Alexa will randomly pick a compliment to sa
 * **ID:** amzn1.ask.skill.b7bd5eae-c3ab-4d5f-800d-cdd9990e773d
 * **ASIN:** B01N01GBY4
 * **Author:** Lyanna
-* **Release Date:** November 9, 2016 @ 00:45:29
+* **Release Date:** November 9, 2016 @ 01:45:29
 * **In-App Purchasing:** No

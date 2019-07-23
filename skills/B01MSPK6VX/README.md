@@ -20,5 +20,5 @@ Foody provides you interesting information about your everyday foods. You can ju
 * **ID:** amzn1.ask.skill.975ff193-c467-476a-8e20-87613692de5a
 * **ASIN:** B01MSPK6VX
 * **Author:** Sam
-* **Release Date:** November 26, 2016 @ 02:05:12
+* **Release Date:** November 26, 2016 @ 03:05:12
 * **In-App Purchasing:** No

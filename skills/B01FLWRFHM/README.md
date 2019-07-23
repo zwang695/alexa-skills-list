@@ -22,5 +22,5 @@ This skill and it's maker are in no way affiliated with Chucklefish Games.
 * **ID:** amzn1.echo-sdk-ams.app.b0a7ebc9-5ed9-4a88-b252-a841c43ff21c
 * **ASIN:** B01FLWRFHM
 * **Author:** BadBinary LTD
-* **Release Date:** May 25, 2016 @ 05:38:34
+* **Release Date:** May 25, 2016 @ 06:38:34
 * **In-App Purchasing:** No

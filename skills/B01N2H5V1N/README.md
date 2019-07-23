@@ -20,5 +20,5 @@ Ask Alexa what is the capital of a country.
 * **ID:** amzn1.ask.skill.d9288c58-a062-4981-a8a4-8c0d78c5c50f
 * **ASIN:** B01N2H5V1N
 * **Author:** Enouvo
-* **Release Date:** November 20, 2016 @ 23:07:59
+* **Release Date:** November 21, 2016 @ 00:07:59
 * **In-App Purchasing:** No

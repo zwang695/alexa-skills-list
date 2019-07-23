@@ -20,7 +20,7 @@ Motivation quote that encourage you to start working out. More than 200 hand pic
 * **ID:** amzn1.ask.skill.4f78bcbb-be0a-4cc0-9e4b-7d2d36fa3ed9
 * **ASIN:** B01KJPISEK
 * **Author:** Vimo Labs
-* **Release Date:** August 23, 2016 @ 07:19:24
+* **Release Date:** August 23, 2016 @ 08:19:24
 * **Privacy Policy:** https://coolioxlr.github.io/vimoalexa/privacy.htm
 * **Terms of Use:** https://coolioxlr.github.io/vimoalexa/terms.htm
 * **In-App Purchasing:** No

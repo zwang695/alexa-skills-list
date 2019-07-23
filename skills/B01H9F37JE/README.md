@@ -20,5 +20,5 @@ Heater Duct is a Hot Air delivery system.  It fetches the RSS new feed of hotair
 * **ID:** amzn1.echo-sdk-ams.app.1b852a82-6870-4882-a43c-c53aed2cc54b
 * **ASIN:** B01H9F37JE
 * **Author:** Steiert Solutions
-* **Release Date:** July 13, 2016 @ 02:57:30
+* **Release Date:** July 13, 2016 @ 03:57:30
 * **In-App Purchasing:** No

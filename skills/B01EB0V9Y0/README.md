@@ -20,5 +20,5 @@ Lets see how many correct answers you get out of 5 questions about Bollywood.
 * **ID:** amzn1.echo-sdk-ams.app.315517f0-f31f-406d-8dc4-97a766f7aff9
 * **ASIN:** B01EB0V9Y0
 * **Author:** Chetan Rathod
-* **Release Date:** April 18, 2016 @ 18:32:27
+* **Release Date:** April 18, 2016 @ 19:32:27
 * **In-App Purchasing:** No

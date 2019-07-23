@@ -20,5 +20,5 @@ The Whitefish Mountain Resort Snow Report brought to you by SnoCountry brings yo
 * **ID:** amzn1.ask.skill.f9ef0126-0696-46bb-8b06-473ff69b4803
 * **ASIN:** B01M9DAOKC
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:44:49
+* **Release Date:** October 21, 2016 @ 15:44:49
 * **In-App Purchasing:** No

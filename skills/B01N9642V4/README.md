@@ -21,5 +21,5 @@ Note that the developer name 'TooTechy' is unofficial and the skill is not spons
 * **ID:** amzn1.ask.skill.69b6feec-6286-4339-87b7-48b7b1f9f2c2
 * **ASIN:** B01N9642V4
 * **Author:** TooTechy
-* **Release Date:** November 22, 2016 @ 02:05:41
+* **Release Date:** November 22, 2016 @ 03:05:41
 * **In-App Purchasing:** No

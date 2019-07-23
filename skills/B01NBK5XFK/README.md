@@ -20,5 +20,5 @@ Alexa will give you different office supplies and you have to memorize them in t
 * **ID:** amzn1.ask.skill.914f53c2-aebd-4aea-b1c9-6e4e9e7b95f9
 * **ASIN:** B01NBK5XFK
 * **Author:** SebBecks
-* **Release Date:** December 14, 2016 @ 06:49:41
+* **Release Date:** December 14, 2016 @ 07:49:41
 * **In-App Purchasing:** No

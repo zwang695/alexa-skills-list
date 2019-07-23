@@ -20,5 +20,5 @@ Brief Leonardo da Vinci Facts
 * **ID:** amzn1.ask.skill.4c2a18cb-e4b6-4196-b622-bccdb60d072b
 * **ASIN:** B01KBOSGOQ
 * **Author:** Han Wang
-* **Release Date:** August 16, 2016 @ 01:38:24
+* **Release Date:** August 16, 2016 @ 02:38:24
 * **In-App Purchasing:** No

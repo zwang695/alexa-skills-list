@@ -20,5 +20,5 @@ Request either a random entry or a search phrase from the Encyclopedia of Philos
 * **ID:** amzn1.ask.skill.b73dddb0-1092-421d-bfdd-04f9e61eff9a
 * **ASIN:** B01MXFDYSN
 * **Author:** Self
-* **Release Date:** November 20, 2016 @ 23:36:09
+* **Release Date:** November 21, 2016 @ 00:36:09
 * **In-App Purchasing:** No

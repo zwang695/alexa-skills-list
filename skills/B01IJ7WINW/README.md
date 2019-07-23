@@ -20,5 +20,5 @@ A skill that gives you facts about Connecticut, a state in New England.
 * **ID:** amzn1.echo-sdk-ams.app.963d16c6-8e84-4a95-8bfe-25c1b35eb61b
 * **ASIN:** B01IJ7WINW
 * **Author:** Aaron Johnson
-* **Release Date:** July 18, 2016 @ 05:27:32
+* **Release Date:** July 18, 2016 @ 06:27:32
 * **In-App Purchasing:** No

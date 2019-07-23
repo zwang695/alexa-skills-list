@@ -20,5 +20,5 @@ NagARam allows users to ask Alexa for an anagram of any single word from a list 
 * **ID:** amzn1.ask.skill.fd7b11ac-1328-4f39-af1a-5d26db090d54
 * **ASIN:** B01LYZIRDE
 * **Author:** timcmiller
-* **Release Date:** October 25, 2016 @ 01:47:35
+* **Release Date:** October 25, 2016 @ 02:47:35
 * **In-App Purchasing:** No

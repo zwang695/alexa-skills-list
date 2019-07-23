@@ -20,5 +20,5 @@ The E.P.L Match Day skill will keep you up to date on scheduled fixtures, result
 * **ID:** amzn1.ask.skill.9a55b166-13ab-40fa-8347-fb8d4fd44e7f
 * **ASIN:** B01J26ONNC
 * **Author:** Nima Limited
-* **Release Date:** August 2, 2016 @ 07:36:46
+* **Release Date:** August 2, 2016 @ 08:36:46
 * **In-App Purchasing:** No

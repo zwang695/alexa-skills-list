@@ -20,5 +20,5 @@ This trivia game asks the user questions regarding the game of basketball. It al
 * **ID:** amzn1.echo-sdk-ams.app.3ee7e5d3-9dc5-4f1c-9714-283167f133ae
 * **ASIN:** B01FNW6OSG
 * **Author:** Tia Briggs
-* **Release Date:** May 18, 2016 @ 17:38:33
+* **Release Date:** May 18, 2016 @ 18:38:33
 * **In-App Purchasing:** No

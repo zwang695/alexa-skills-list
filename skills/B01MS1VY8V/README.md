@@ -20,5 +20,5 @@ You can ask Alexa for a joke, and this will randomly choose from 25 different on
 * **ID:** amzn1.ask.skill.5617d275-a30c-4a1b-a4ef-54037881c5ad
 * **ASIN:** B01MS1VY8V
 * **Author:** Libby Aiello
-* **Release Date:** December 29, 2016 @ 22:49:04
+* **Release Date:** December 29, 2016 @ 23:49:04
 * **In-App Purchasing:** No

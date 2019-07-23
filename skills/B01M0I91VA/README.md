@@ -20,5 +20,5 @@ Spelling Quest is a super fun, level based spelling game for Alexa. Challenge yo
 * **ID:** amzn1.echo-sdk-ams.app.0f3d6dd0-872e-4646-8ac5-d37f56f13621
 * **ASIN:** B01M0I91VA
 * **Author:** hashcube, inc
-* **Release Date:** November 2, 2016 @ 01:43:38
+* **Release Date:** November 2, 2016 @ 02:43:38
 * **In-App Purchasing:** No

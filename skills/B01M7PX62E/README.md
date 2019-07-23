@@ -20,5 +20,5 @@ The Baker Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.03fb372f-5be2-4a1f-8400-da30f42ee4fa
 * **ASIN:** B01M7PX62E
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:16:02
+* **Release Date:** October 21, 2016 @ 15:16:02
 * **In-App Purchasing:** No

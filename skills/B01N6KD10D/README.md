@@ -20,5 +20,5 @@ Science Guru is a fun science trivia game. It allows the user to prompt Alexa fo
 * **ID:** amzn1.ask.skill.f2d27f53-0d0b-4f73-9d75-a929a8313ce0
 * **ASIN:** B01N6KD10D
 * **Author:** Worldwide Web Programmers, LLC
-* **Release Date:** December 28, 2016 @ 03:49:20
+* **Release Date:** December 28, 2016 @ 04:49:20
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ GodEats services supposed to help adults and minors to find out if particular fo
 * **ID:** amzn1.ask.skill.e95b7c1b-a357-4ae2-aea5-e1daf680c8ac
 * **ASIN:** B01N9KMJRY
 * **Author:** Enke Systems, Inc
-* **Release Date:** December 28, 2016 @ 02:19:15
+* **Release Date:** December 28, 2016 @ 03:19:15
 * **In-App Purchasing:** No

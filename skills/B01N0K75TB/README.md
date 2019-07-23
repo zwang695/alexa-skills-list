@@ -26,5 +26,5 @@ Theoretical scales are not yet supported, so stick with your circle of fifths.
 * **ID:** amzn1.ask.skill.3dadf9a2-ce7e-4ca5-a8ca-5ab7809a3967
 * **ASIN:** B01N0K75TB
 * **Author:** Ryan Zaki
-* **Release Date:** December 2, 2016 @ 04:04:58
+* **Release Date:** December 2, 2016 @ 05:04:58
 * **In-App Purchasing:** No

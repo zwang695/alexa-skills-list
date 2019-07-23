@@ -20,5 +20,5 @@ Get your mind on food, culture, and history then ask Alexa to start Foodie Trivi
 * **ID:** amzn1.echo-sdk-ams.app.376940f4-dc35-4ca4-8d14-117ab828afe7
 * **ASIN:** B01DTGEX7C
 * **Author:** Kal M.
-* **Release Date:** April 6, 2016 @ 06:32:26
+* **Release Date:** April 6, 2016 @ 07:32:26
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is the number guessing game of “higher or lower.” You choose a number b
 * **ID:** amzn1.echo-sdk-ams.app.457edd43-7f0b-48f4-b325-3a3959922431
 * **ASIN:** B017OBNE6O
 * **Author:** JWP Software
-* **Release Date:** November 6, 2015 @ 14:12:24
+* **Release Date:** November 6, 2015 @ 15:12:24
 * **In-App Purchasing:** No

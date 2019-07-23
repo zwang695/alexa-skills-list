@@ -22,5 +22,5 @@ We currently offer recipes such as kimchi, bulgogi, gimbab, sundae, samgyetang, 
 * **ID:** amzn1.ask.skill.6ddcd89e-382e-45b8-8b0b-01a029a2b102
 * **ASIN:** B01N9EEF19
 * **Author:** jivvp
-* **Release Date:** December 20, 2016 @ 06:49:20
+* **Release Date:** December 20, 2016 @ 07:49:20
 * **In-App Purchasing:** No

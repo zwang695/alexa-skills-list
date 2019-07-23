@@ -20,5 +20,5 @@ The Elk Mountain Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.005cb970-fcdc-41b0-ada5-1640c0970a92
 * **ASIN:** B01MFGK8QJ
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:14:15
+* **Release Date:** November 4, 2016 @ 09:14:15
 * **In-App Purchasing:** No

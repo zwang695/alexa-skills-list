@@ -20,5 +20,5 @@ This skill tells users a random world capital from a selection of capitals.
 * **ID:** amzn1.ask.skill.3df88cf7-4046-4076-8f77-9267c7eecf4c
 * **ASIN:** B01L4RFQBA
 * **Author:** Winston Wright
-* **Release Date:** August 29, 2016 @ 03:02:53
+* **Release Date:** August 29, 2016 @ 04:02:53
 * **In-App Purchasing:** No

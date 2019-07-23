@@ -20,5 +20,5 @@ The Magic Mountain Vermont Snow Report brought to you by SnoCountry brings you t
 * **ID:** amzn1.ask.skill.e59a7429-954b-4b91-8573-7d2dfed75d2b
 * **ASIN:** B01MD2FXKG
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:14:09
+* **Release Date:** November 4, 2016 @ 09:14:09
 * **In-App Purchasing:** No

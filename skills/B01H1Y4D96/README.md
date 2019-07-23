@@ -21,7 +21,7 @@ DISCLAIMER: Due to its irreverent nature, this skill is not suitable for all age
 * **ID:** amzn1.echo-sdk-ams.app.a7b6b5d4-342e-4b95-9fb5-5e0a7c32f1ba
 * **ASIN:** B01H1Y4D96
 * **Author:** Wishlessness
-* **Release Date:** July 11, 2016 @ 01:27:51
+* **Release Date:** July 11, 2016 @ 02:27:51
 * **Privacy Policy:** http://wishlessness.com/goodadvice/privacypolicy.htm
 * **Terms of Use:** http://wishlessness.com/goodadvice/termsofuse.htm
 * **In-App Purchasing:** No

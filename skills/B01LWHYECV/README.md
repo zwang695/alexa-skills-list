@@ -21,5 +21,5 @@ Quotes from portal 2's fact sphere. Ask for a fact and it will be given.
 * **ID:** amzn1.ask.skill.019e03ec-4535-40fa-82cf-bd56f8c12c53
 * **ASIN:** B01LWHYECV
 * **Author:** Quince Fennell
-* **Release Date:** September 17, 2016 @ 22:11:58
+* **Release Date:** September 17, 2016 @ 23:11:58
 * **In-App Purchasing:** No

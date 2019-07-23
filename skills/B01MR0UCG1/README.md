@@ -18,5 +18,5 @@ Ask Alexa to describe Adam Kempa; she will comply. Handy!
 * **ID:** amzn1.ask.skill.879f1574-1f9d-484c-a139-d521931a6567
 * **ASIN:** B01MR0UCG1
 * **Author:** Adam Kempa
-* **Release Date:** January 2, 2017 @ 23:20:08
+* **Release Date:** January 3, 2017 @ 00:20:08
 * **In-App Purchasing:** No

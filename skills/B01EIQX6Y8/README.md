@@ -30,6 +30,6 @@ If you have any questions, please visit the TP-LINK Kasa Alexa FAQ at http://bit
 * **ID:** amzn1.ask.skill.b4bf2b4d-5f4e-458b-a3b4-5e900cea5fd9
 * **ASIN:** B01EIQX6Y8
 * **Author:** TP-LINK
-* **Release Date:** April 19, 2016 @ 17:45:08
+* **Release Date:** April 19, 2016 @ 18:45:08
 * **Privacy Policy:** https://www.tplinkcloud.com/PrivacyPolicy.php
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ This is a simple ControlLogix and CompactLogix Trivia skill with a multiple choi
 * **ID:** amzn1.ask.skill.a56d8514-3e0e-4091-ad25-af0b19d4fd16
 * **ASIN:** B01N5GXMHU
 * **Author:** Ahmik Hindman
-* **Release Date:** December 19, 2016 @ 07:19:34
+* **Release Date:** December 19, 2016 @ 08:19:34
 * **In-App Purchasing:** No

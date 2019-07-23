@@ -20,5 +20,5 @@ The skill reads the script for The Resistance. It is configurable by adding what
 * **ID:** amzn1.ask.skill.cfb294d3-ff53-427d-82cb-8b3062f20828
 * **ASIN:** B01M61M2W6
 * **Author:** LostPhoenix
-* **Release Date:** October 18, 2016 @ 02:42:28
+* **Release Date:** October 18, 2016 @ 03:42:28
 * **In-App Purchasing:** No

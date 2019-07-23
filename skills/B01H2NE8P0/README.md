@@ -26,5 +26,5 @@ See if you can beat your friends! Have fun!
 * **ID:** amzn1.echo-sdk-ams.app.bc54ad5c-9dac-436c-94e1-dd0f54805c4a
 * **ASIN:** B01H2NE8P0
 * **Author:** Tomasz Swider
-* **Release Date:** June 20, 2016 @ 05:45:35
+* **Release Date:** June 20, 2016 @ 06:45:35
 * **In-App Purchasing:** No

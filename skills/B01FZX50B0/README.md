@@ -20,5 +20,5 @@ Ask Alexa to open the "Rugby World Cup Quiz" and see if you have what it takes t
 * **ID:** amzn1.echo-sdk-ams.app.2f21e3be-7e59-4c81-9b57-330d6dd7dd25
 * **ASIN:** B01FZX50B0
 * **Author:** S.C. Summers
-* **Release Date:** May 24, 2016 @ 10:39:39
+* **Release Date:** May 24, 2016 @ 11:39:39
 * **In-App Purchasing:** No

@@ -30,6 +30,6 @@ Online Dispute Resolution is available
 * **ID:** amzn1.ask.skill.82004726-7cd0-45d6-9179-7e49132430b0
 * **ASIN:** B01N2UC5ZA
 * **Author:** Jim W Hildreth
-* **Release Date:** December 24, 2016 @ 08:49:41
+* **Release Date:** December 24, 2016 @ 09:49:41
 * **Privacy Policy:** http://www.realestatemediation.org/
 * **In-App Purchasing:** No

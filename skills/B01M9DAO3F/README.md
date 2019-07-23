@@ -20,5 +20,5 @@ The Turner Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.612bb217-f981-44d7-9f81-f3a4f5085039
 * **ASIN:** B01M9DAO3F
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:45:03
+* **Release Date:** October 21, 2016 @ 15:45:03
 * **In-App Purchasing:** No

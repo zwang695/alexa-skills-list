@@ -20,5 +20,5 @@ Queen is one of the most successful and beloved bands of all time. You know thei
 * **ID:** amzn1.ask.skill.276f8a69-b9ce-48b0-8578-414438818d56
 * **ASIN:** B01M7TNTUT
 * **Author:** Lucin Digital LLC
-* **Release Date:** October 27, 2016 @ 03:45:08
+* **Release Date:** October 27, 2016 @ 04:45:08
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Curious to learn more about Sharukh Khan? Or Amitabh Bachchan? Here is a list of
 * **ID:** amzn1.ask.skill.3ee7b12f-b11c-42bf-a104-8b14635508d0
 * **ASIN:** B01LZQ40PV
 * **Author:** UmarFBajwa
-* **Release Date:** October 7, 2016 @ 03:12:39
+* **Release Date:** October 7, 2016 @ 04:12:39
 * **In-App Purchasing:** No

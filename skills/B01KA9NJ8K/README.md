@@ -12,6 +12,6 @@ Control your Houm connected lights via Alexa. You can activate scenes and switch
 * **ID:** amzn1.ask.skill.7ca18cb6-d1ff-415f-b0fd-5286d862d52f
 * **ASIN:** B01KA9NJ8K
 * **Author:** Houmio Oy
-* **Release Date:** December 1, 2016 @ 13:36:03
+* **Release Date:** December 1, 2016 @ 14:36:03
 * **Privacy Policy:** https://alexa.houm.io/privacy
 * **In-App Purchasing:** No

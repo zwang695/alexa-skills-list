@@ -20,5 +20,5 @@ This skill tells you the decimal and binary codes for a random letter in the alp
 * **ID:** amzn1.ask.skill.00809b97-f5dd-437e-bc41-1b38453b7433
 * **ASIN:** B01L7V1U36
 * **Author:** Digivine
-* **Release Date:** August 30, 2016 @ 06:33:09
+* **Release Date:** August 30, 2016 @ 07:33:09
 * **In-App Purchasing:** No

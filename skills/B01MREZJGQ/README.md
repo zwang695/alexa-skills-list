@@ -20,5 +20,5 @@ The Terry Peak Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.0e7714bb-d14a-4ad4-b132-57f7f46006f3
 * **ASIN:** B01MREZJGQ
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:17:27
+* **Release Date:** November 4, 2016 @ 09:17:27
 * **In-App Purchasing:** No

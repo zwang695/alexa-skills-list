@@ -16,5 +16,5 @@ List 10 driving facts. It may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.8e475f8e-3adf-421d-a7c2-157a40cb2406
 * **ASIN:** B01L4MNDGA
 * **Author:** Xinlei Zhou
-* **Release Date:** August 30, 2016 @ 03:02:49
+* **Release Date:** August 30, 2016 @ 04:02:49
 * **In-App Purchasing:** No

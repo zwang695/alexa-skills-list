@@ -20,5 +20,5 @@ Huntsville Facts is a skill designed to give you interesting facts on Huntsville
 * **ID:** amzn1.ask.skill.dd288e54-4b3b-428e-8386-6b5e2b19358e
 * **ASIN:** B01N1EZ00M
 * **Author:** Tyler Hughes
-* **Release Date:** November 16, 2016 @ 02:05:41
+* **Release Date:** November 16, 2016 @ 03:05:41
 * **In-App Purchasing:** No

@@ -27,5 +27,5 @@ Thanks for trying the skill.
 * **ID:** amzn1.echo-sdk-ams.app.d9914b13-4e04-4272-86bf-3cb1b2151d77
 * **ASIN:** B01ABABWF0
 * **Author:** IzzoWorks
-* **Release Date:** January 7, 2016 @ 20:15:40
+* **Release Date:** January 7, 2016 @ 21:15:40
 * **In-App Purchasing:** No

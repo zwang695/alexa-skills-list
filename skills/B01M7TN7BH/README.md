@@ -20,5 +20,5 @@ Alexa knows the secret do you? To find out, ask Alexa "What's the difference bet
 * **ID:** amzn1.ask.skill.2aa2c95c-9665-4169-8c5b-acbc6990872b
 * **ASIN:** B01M7TN7BH
 * **Author:** AJ Beckner
-* **Release Date:** October 27, 2016 @ 04:46:07
+* **Release Date:** October 27, 2016 @ 05:46:07
 * **In-App Purchasing:** No

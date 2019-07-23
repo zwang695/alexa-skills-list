@@ -20,5 +20,5 @@ The Greek Peak Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.7f8c0b2e-21ad-47b4-ac2f-bda3029e5184
 * **ASIN:** B01M8MDQWJ
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:43:31
+* **Release Date:** October 26, 2016 @ 04:43:31
 * **In-App Purchasing:** No

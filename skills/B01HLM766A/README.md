@@ -27,5 +27,5 @@ Icon glyph made by Freepik from www.flaticon.com
 * **ID:** amzn1.echo-sdk-ams.app.bff3e994-4e37-4636-a166-12208a4e1d6a
 * **ASIN:** B01HLM766A
 * **Author:** Ehsan Asdar
-* **Release Date:** June 29, 2016 @ 09:27:42
+* **Release Date:** June 29, 2016 @ 10:27:42
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Fire up Watchcounter before a match or play session, and you can simply ask Alex
 * **ID:** amzn1.ask.skill.873a070c-95f1-44f6-8314-8459cdf9ebc4
 * **ASIN:** B01KSXS5YQ
 * **Author:** Joseph Fraley
-* **Release Date:** August 25, 2016 @ 03:02:22
+* **Release Date:** August 25, 2016 @ 04:02:22
 * **In-App Purchasing:** No

@@ -40,5 +40,5 @@ https://github.com/jcchurch/HuntTheYetiAlexa
 * **ID:** amzn1.ask.skill.cd76cca4-65d0-4df4-994e-49430b7ed7ed
 * **ASIN:** B01JRE35FG
 * **Author:** James Church
-* **Release Date:** August 10, 2016 @ 06:37:41
+* **Release Date:** August 10, 2016 @ 07:37:41
 * **In-App Purchasing:** No

@@ -26,7 +26,7 @@ Learn more about how Alexa works with Nest: https://nest.com/support/article/Lea
 * **ID:** amzn1.ask.skill.27ca478a-8959-409e-99a6-48f77ebe57f1
 * **ASIN:** B01LXYILGF
 * **Author:** Nest Labs, Inc.
-* **Release Date:** September 27, 2016 @ 16:12:13
+* **Release Date:** September 27, 2016 @ 17:12:13
 * **Privacy Policy:** https://nest.com/privacy
 * **Terms of Use:** https://nest.com/legal/terms-of-service
 * **In-App Purchasing:** No

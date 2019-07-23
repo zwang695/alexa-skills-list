@@ -18,5 +18,5 @@ This skill will give you a random U.S. state along with its capital. That's all 
 * **ID:** amzn1.ask.skill.ef87d24d-b894-46e0-9e96-7b26be2f025e
 * **ASIN:** B01LWVOU0H
 * **Author:** Yvonne Uwah
-* **Release Date:** November 11, 2016 @ 05:42:48
+* **Release Date:** November 11, 2016 @ 06:42:48
 * **In-App Purchasing:** No

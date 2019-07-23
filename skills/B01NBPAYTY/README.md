@@ -16,5 +16,5 @@ You can prompt Alexa, and it will give you a random left-handed fact. Say "Alexa
 * **ID:** amzn1.ask.skill.889bd000-9c93-417b-88a9-eecb15fb2275
 * **ASIN:** B01NBPAYTY
 * **Author:** David's Apps
-* **Release Date:** January 3, 2017 @ 03:49:20
+* **Release Date:** January 3, 2017 @ 04:49:20
 * **In-App Purchasing:** No

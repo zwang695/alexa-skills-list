@@ -20,5 +20,5 @@ Get inspired by a movie quote
 * **ID:** amzn1.ask.skill.2daa5e7d-a8f6-4fae-b037-0858efb07302
 * **ASIN:** B01N7COHNE
 * **Author:** Michael Reyes
-* **Release Date:** December 3, 2016 @ 02:05:22
+* **Release Date:** December 3, 2016 @ 03:05:22
 * **In-App Purchasing:** No

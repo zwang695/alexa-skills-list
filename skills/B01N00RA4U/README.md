@@ -20,5 +20,5 @@ The Ski Hidden Valley Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.f9efecd0-689d-499b-acef-b87393dc8328
 * **ASIN:** B01N00RA4U
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:14:13
+* **Release Date:** November 5, 2016 @ 12:14:13
 * **In-App Purchasing:** No

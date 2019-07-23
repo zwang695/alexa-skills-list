@@ -20,5 +20,5 @@ The purpose is to give facts about keyboards, something that people may not comm
 * **ID:** amzn1.ask.skill.a639b6cc-0ce0-4c24-bb40-45de71a028e1
 * **ASIN:** B01MU36EL9
 * **Author:** Loud Grunt
-* **Release Date:** December 28, 2016 @ 03:19:13
+* **Release Date:** December 28, 2016 @ 04:19:13
 * **In-App Purchasing:** No

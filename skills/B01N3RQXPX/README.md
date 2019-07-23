@@ -20,5 +20,5 @@ The Grand Targhee Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.2ca59cca-4692-456a-9802-072b3f072db1
 * **ASIN:** B01N3RQXPX
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:44:45
+* **Release Date:** November 5, 2016 @ 11:44:45
 * **In-App Purchasing:** No

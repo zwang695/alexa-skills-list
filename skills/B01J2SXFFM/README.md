@@ -20,5 +20,5 @@ Ask your Echo device for a Texas fact and learn something about Texas' rich hist
 * **ID:** amzn1.ask.skill.6b78ff5d-03a8-4a23-9c10-e39145b0eaf2
 * **ASIN:** B01J2SXFFM
 * **Author:** Clay Schroeder
-* **Release Date:** July 27, 2016 @ 03:56:37
+* **Release Date:** July 27, 2016 @ 04:56:37
 * **In-App Purchasing:** No

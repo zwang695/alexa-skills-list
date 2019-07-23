@@ -20,5 +20,5 @@ The skill is not sponsored or endorsed by Donald J. Trump.
 * **ID:** amzn1.ask.skill.c46af039-477a-4fb4-8cf1-9f3d6f9f3e8f
 * **ASIN:** B01MYTQVYG
 * **Author:** student
-* **Release Date:** December 1, 2016 @ 06:35:41
+* **Release Date:** December 1, 2016 @ 07:35:41
 * **In-App Purchasing:** No

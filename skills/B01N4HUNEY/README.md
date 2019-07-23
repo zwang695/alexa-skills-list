@@ -22,5 +22,5 @@ This Alexa skill randomly selects humorous phrases which are geared towards coll
 * **ID:** amzn1.ask.skill.c7d266ec-dd2e-4232-a06a-fceafabed0a4
 * **ASIN:** B01N4HUNEY
 * **Author:** John Marshall
-* **Release Date:** December 27, 2016 @ 02:49:13
+* **Release Date:** December 27, 2016 @ 03:49:13
 * **In-App Purchasing:** No

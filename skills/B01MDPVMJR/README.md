@@ -23,5 +23,5 @@ Education Stats is a demo module of a suite of products that has the following f
 * **ID:** amzn1.ask.skill.272dc88c-49fd-47b3-bcf0-699d1cde52db
 * **ASIN:** B01MDPVMJR
 * **Author:** VBI
-* **Release Date:** November 9, 2016 @ 03:12:45
+* **Release Date:** November 9, 2016 @ 04:12:45
 * **In-App Purchasing:** No

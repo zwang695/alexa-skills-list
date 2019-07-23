@@ -20,5 +20,5 @@ Find out more about the amazing Chuck Norris!  Ask Alexa to start Chuck Norris F
 * **ID:** amzn1.ask.skill.52d71bda-f9f9-4952-99a9-5f66fcbc2fd0
 * **ASIN:** B01KNAX58A
 * **Author:** Aaron DeGough
-* **Release Date:** August 22, 2016 @ 02:37:51
+* **Release Date:** August 22, 2016 @ 03:37:51
 * **In-App Purchasing:** No

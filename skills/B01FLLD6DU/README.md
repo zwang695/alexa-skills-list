@@ -20,5 +20,5 @@ Use Alexa to feed you imagination with words of wisdom in the form of quotes fro
 * **ID:** amzn1.echo-sdk-ams.app.b446c957-f438-4aa0-bc87-508b47c6472f
 * **ASIN:** B01FLLD6DU
 * **Author:** BLT Robotics
-* **Release Date:** May 20, 2016 @ 01:38:39
+* **Release Date:** May 20, 2016 @ 02:38:39
 * **In-App Purchasing:** No

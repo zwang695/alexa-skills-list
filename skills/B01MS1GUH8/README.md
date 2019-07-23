@@ -22,5 +22,5 @@ The University of Washington does not endorse or recommend this skill or its con
 * **ID:** amzn1.ask.skill.2a91e726-fb69-4904-b127-b1705c4232db
 * **ASIN:** B01MS1GUH8
 * **Author:** Kyle Wistrand
-* **Release Date:** December 29, 2016 @ 22:49:15
+* **Release Date:** December 29, 2016 @ 23:49:15
 * **In-App Purchasing:** No

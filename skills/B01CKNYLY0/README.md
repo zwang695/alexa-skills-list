@@ -22,5 +22,5 @@ Start your day with an insightful quote from general Sun Tzu's, The Art of War, 
 * **ID:** amzn1.echo-sdk-ams.app.054628f9-f004-4efa-8894-80b00f018718
 * **ASIN:** B01CKNYLY0
 * **Author:** zipIQ
-* **Release Date:** March 4, 2016 @ 18:24:10
+* **Release Date:** March 4, 2016 @ 19:24:10
 * **In-App Purchasing:** No

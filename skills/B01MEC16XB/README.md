@@ -22,5 +22,5 @@ Disclaimer: The content comes from the HotUKDeals site and as such may not be su
 * **ID:** amzn1.ask.skill.b8bea26a-fbb2-4fe3-982f-ebe47d473ec4
 * **ASIN:** B01MEC16XB
 * **Author:** Just Good Software
-* **Release Date:** October 21, 2016 @ 15:43:30
+* **Release Date:** October 21, 2016 @ 16:43:30
 * **In-App Purchasing:** No

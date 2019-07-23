@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.df8b69bc-ecec-4b24-a204-b74d013fd795
 * **ASIN:** B01M6767YU
 * **Author:** Ken Lim
-* **Release Date:** October 27, 2016 @ 01:46:31
+* **Release Date:** October 27, 2016 @ 02:46:31
 * **In-App Purchasing:** No

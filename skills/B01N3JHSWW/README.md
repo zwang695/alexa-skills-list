@@ -20,7 +20,7 @@ This app will allow control of a QRS Player Piano PNO3 system.  You must enter a
 * **ID:** amzn1.ask.skill.cb728564-8876-454f-a8bc-a8aa2ae0795a
 * **ASIN:** B01N3JHSWW
 * **Author:** QRS Music
-* **Release Date:** November 12, 2016 @ 00:14:21
+* **Release Date:** November 12, 2016 @ 01:14:21
 * **Privacy Policy:** https://www.qrsmusic.com/privacy.asp
 * **Account Linking Domains:** app.qrspno.com
 * **In-App Purchasing:** No

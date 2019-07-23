@@ -20,5 +20,5 @@ Ever find yourself in the kitchen with a few minutes on hand waiting for the foo
 * **ID:** amzn1.ask.skill.b1346f86-28db-4827-a1e2-49dbfde4f153
 * **ASIN:** B01M8HRRIC
 * **Author:** IDK UNO
-* **Release Date:** October 22, 2016 @ 02:12:19
+* **Release Date:** October 22, 2016 @ 03:12:19
 * **In-App Purchasing:** No

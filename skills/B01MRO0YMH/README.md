@@ -16,5 +16,5 @@ Ask Alexa to open the fast conversion "Kilometers to miles". You have the option
 * **ID:** amzn1.ask.skill.98c46c00-9f6b-4b47-b8e2-bb9768c9b56f
 * **ASIN:** B01MRO0YMH
 * **Author:** gdragoste
-* **Release Date:** November 25, 2016 @ 04:05:53
+* **Release Date:** November 25, 2016 @ 05:05:53
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ A list of questions about Football trivia. Questions about positions, titles and
 * **ID:** amzn1.echo-sdk-ams.app.33b38d39-509b-43c2-9964-d3c3be7e724e
 * **ASIN:** B01GDU6K36
 * **Author:** Ben Morris
-* **Release Date:** June 1, 2016 @ 10:38:51
+* **Release Date:** June 1, 2016 @ 11:38:51
 * **In-App Purchasing:** No

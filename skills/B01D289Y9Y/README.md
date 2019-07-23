@@ -20,5 +20,5 @@ Think you know all things Superman ? Take this challenge that tests your Superma
 * **ID:** amzn1.echo-sdk-ams.app.dd5f668b-0576-49b0-9d5c-d3ed764e5b02
 * **ASIN:** B01D289Y9Y
 * **Author:** James Co
-* **Release Date:** March 16, 2016 @ 18:12:46
+* **Release Date:** March 16, 2016 @ 19:12:46
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill lists historical facts and benefits high school students taking the A
 * **ID:** amzn1.echo-sdk-ams.app.c65fdd0b-7a27-47ea-8fb1-10df0bc37174
 * **ASIN:** B01FN56FSC
 * **Author:** Sarah Schoonmaker
-* **Release Date:** June 27, 2016 @ 09:45:42
+* **Release Date:** June 27, 2016 @ 10:45:42
 * **In-App Purchasing:** No

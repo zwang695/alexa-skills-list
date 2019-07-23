@@ -20,5 +20,5 @@ This application allows you to test your knowledge in your area of interest. The
 * **ID:** amzn1.ask.skill.cb325d85-8df5-4d71-af8f-d06be817919f
 * **ASIN:** B01N4CZL66
 * **Author:** Furonics
-* **Release Date:** December 16, 2016 @ 05:20:02
+* **Release Date:** December 16, 2016 @ 06:20:02
 * **In-App Purchasing:** No

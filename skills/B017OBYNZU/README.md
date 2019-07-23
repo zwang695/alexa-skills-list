@@ -16,5 +16,5 @@ Think of an animal and Alexa will play with you to guess it by asking questions.
 * **ID:** amzn1.echo-sdk-ams.app.3dcfc44d-faf0-4441-9a82-16911fd1fbb0
 * **ASIN:** B017OBYNZU
 * **Author:** Alex Rublinetsky
-* **Release Date:** November 6, 2015 @ 14:19:49
+* **Release Date:** November 6, 2015 @ 15:19:49
 * **In-App Purchasing:** No

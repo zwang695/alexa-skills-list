@@ -20,5 +20,5 @@ Alexa will pick a number between 1-100.  It is up to you to guess what the numbe
 * **ID:** amzn1.echo-sdk-ams.app.7dfa8626-b19c-4c6f-8045-6f1673654188
 * **ASIN:** B01DJ8GTS6
 * **Author:** Laynr
-* **Release Date:** March 28, 2016 @ 07:34:12
+* **Release Date:** March 28, 2016 @ 08:34:12
 * **In-App Purchasing:** No

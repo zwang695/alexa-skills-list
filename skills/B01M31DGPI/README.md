@@ -20,5 +20,5 @@ The Oak Mountain Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.a7fe69af-874f-4d78-a331-f7a38bd60fdc
 * **ASIN:** B01M31DGPI
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:44:54
+* **Release Date:** October 26, 2016 @ 04:44:54
 * **In-App Purchasing:** No

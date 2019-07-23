@@ -26,5 +26,5 @@ To begin the calculation, say "Alexa, launch Mortgage Calculator."
 * **ID:** amzn1.echo-sdk-ams.app.2d1b5bcb-28ed-460e-8fae-e5fb70457a80
 * **ASIN:** B01H5TW2YK
 * **Author:** worldengine
-* **Release Date:** June 17, 2016 @ 09:15:49
+* **Release Date:** June 17, 2016 @ 10:15:49
 * **In-App Purchasing:** No

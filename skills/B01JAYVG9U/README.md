@@ -20,5 +20,5 @@ This app will ask basic questions about quite a few of the major topics in macro
 * **ID:** amzn1.echo-sdk-ams.app.9a3db8bd-944f-467a-a7c9-6baa3f2a6584
 * **ASIN:** B01JAYVG9U
 * **Author:** Npatel 
-* **Release Date:** August 5, 2016 @ 06:07:34
+* **Release Date:** August 5, 2016 @ 07:07:34
 * **In-App Purchasing:** No

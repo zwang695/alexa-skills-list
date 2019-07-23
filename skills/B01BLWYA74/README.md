@@ -20,5 +20,5 @@ Athan provides the Islamic Prayer Times in a given city. You can ask Athan for t
 * **ID:** amzn1.echo-sdk-ams.app.55ff625b-1564-4735-86fc-116486a0b175
 * **ASIN:** B01BLWYA74
 * **Author:** Ahmed Eleryan
-* **Release Date:** February 9, 2016 @ 17:45:07
+* **Release Date:** February 9, 2016 @ 18:45:07
 * **In-App Purchasing:** No

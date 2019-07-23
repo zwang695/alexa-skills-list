@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.d6850582-cb51-4ff6-b644-3a9306914cf4
 * **ASIN:** B01N9D5L9N
 * **Author:** precompiled
-* **Release Date:** December 13, 2016 @ 07:19:30
+* **Release Date:** December 13, 2016 @ 08:19:30
 * **In-App Purchasing:** No

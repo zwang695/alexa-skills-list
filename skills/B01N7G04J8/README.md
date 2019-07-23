@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.f308e73d-10a6-41e5-a81c-8a99bb65d8ab
 * **ASIN:** B01N7G04J8
 * **Author:** Moritz Strube
-* **Release Date:** December 15, 2016 @ 01:49:49
+* **Release Date:** December 15, 2016 @ 02:49:49
 * **In-App Purchasing:** No

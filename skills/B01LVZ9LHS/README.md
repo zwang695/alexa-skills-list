@@ -20,5 +20,5 @@ Here you can ask about capital city of any country.
 * **ID:** amzn1.ask.skill.4485a801-dba8-41be-a16a-55aac2623aae
 * **ASIN:** B01LVZ9LHS
 * **Author:** nitin
-* **Release Date:** September 12, 2016 @ 03:42:14
+* **Release Date:** September 12, 2016 @ 04:42:14
 * **In-App Purchasing:** No

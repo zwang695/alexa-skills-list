@@ -20,5 +20,5 @@ Simple skill that gives you the weather based on a city name
 * **ID:** amzn1.ask.skill.5528e5ef-eba0-42a2-835a-641b771e8bb0
 * **ASIN:** B01MRUZ1EY
 * **Author:** ---
-* **Release Date:** December 13, 2016 @ 05:50:00
+* **Release Date:** December 13, 2016 @ 06:50:00
 * **In-App Purchasing:** No

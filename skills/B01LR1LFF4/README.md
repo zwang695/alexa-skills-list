@@ -22,5 +22,5 @@ Alexa, should tell you an interesting funny one liner.
 * **ID:** amzn1.ask.skill.a4026bad-2439-496f-94dd-268b0c08abb4
 * **ASIN:** B01LR1LFF4
 * **Author:** Gurpreet Singh
-* **Release Date:** September 11, 2016 @ 03:13:09
+* **Release Date:** September 11, 2016 @ 04:13:09
 * **In-App Purchasing:** No

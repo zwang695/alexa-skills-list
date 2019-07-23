@@ -20,5 +20,5 @@ This skill returns the upcoming shuttles (or specified shuttle) for Simmons Hall
 * **ID:** amzn1.ask.skill.066c65ca-3fd7-472b-afa9-5208bd634e94
 * **ASIN:** B01N2T308Q
 * **Author:** Simmons Hall Development
-* **Release Date:** December 27, 2016 @ 05:19:25
+* **Release Date:** December 27, 2016 @ 06:19:25
 * **In-App Purchasing:** No

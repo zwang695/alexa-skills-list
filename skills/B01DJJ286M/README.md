@@ -20,7 +20,7 @@ This skill finds the current GMT and tells it to user in terms of hours and minu
 * **ID:** amzn1.echo-sdk-ams.app.fe04d827-6f0b-4564-ae48-364cb53e2d34
 * **ASIN:** B01DJJ286M
 * **Author:** SameerK
-* **Release Date:** March 28, 2016 @ 13:39:31
+* **Release Date:** March 28, 2016 @ 14:39:31
 * **Privacy Policy:** http://coolapps8.weebly.com/gmt.html
 * **Terms of Use:** http://coolapps8.weebly.com/gmt.html
 * **In-App Purchasing:** No

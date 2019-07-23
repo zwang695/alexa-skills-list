@@ -22,5 +22,5 @@ There is no guarantee of the validity of the numbers generated.  Use of this ski
 * **ID:** amzn1.echo-sdk-ams.app.69250fc4-44f3-4ee6-b312-b72db9e8b381
 * **ASIN:** B01A69DP2Y
 * **Author:** No Flying Logos
-* **Release Date:** January 4, 2016 @ 18:42:27
+* **Release Date:** January 4, 2016 @ 19:42:27
 * **In-App Purchasing:** No

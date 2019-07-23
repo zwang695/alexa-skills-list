@@ -20,5 +20,5 @@ This skill tells the user a series of random weird science facts on a variety of
 * **ID:** amzn1.ask.skill.d528ee49-9d15-429d-85fd-1fee3a36b497
 * **ASIN:** B01LFPA3WS
 * **Author:** Leave It to 'Berta
-* **Release Date:** September 3, 2016 @ 03:03:35
+* **Release Date:** September 3, 2016 @ 04:03:35
 * **In-App Purchasing:** No

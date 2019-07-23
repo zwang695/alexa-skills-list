@@ -20,5 +20,5 @@ The Bousquet Ski Area Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.d9c99ee2-0ed0-4808-8d43-38c9eab9392c
 * **ASIN:** B01M9DB4PK
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:45:25
+* **Release Date:** October 21, 2016 @ 15:45:25
 * **In-App Purchasing:** No

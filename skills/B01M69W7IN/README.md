@@ -20,5 +20,5 @@ Takes any number less than 2 to the 16th (65,536)  and breaks it down into its p
 * **ID:** amzn1.ask.skill.6f5bae1f-8af6-475a-b269-abffe2279537
 * **ASIN:** B01M69W7IN
 * **Author:** Math Skillz
-* **Release Date:** November 2, 2016 @ 02:14:18
+* **Release Date:** November 2, 2016 @ 03:14:18
 * **In-App Purchasing:** No

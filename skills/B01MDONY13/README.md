@@ -20,5 +20,5 @@ The Schweitzer Mountain Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.89af60c2-7235-4af0-92ac-82d09390f280
 * **ASIN:** B01MDONY13
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:17:38
+* **Release Date:** October 21, 2016 @ 15:17:38
 * **In-App Purchasing:** No

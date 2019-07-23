@@ -20,5 +20,5 @@ Tell Number Fun any number and it will tell you a random fact pertaining to that
 * **ID:** amzn1.ask.skill.7bae590b-4be3-4b72-a60b-ebe61612d7ae
 * **ASIN:** B01KGI8KQQ
 * **Author:** Sharvil Parekh
-* **Release Date:** August 23, 2016 @ 05:18:39
+* **Release Date:** August 23, 2016 @ 06:18:39
 * **In-App Purchasing:** No

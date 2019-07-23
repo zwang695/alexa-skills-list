@@ -20,5 +20,5 @@ A skill that teaches knit and crochet stitches
 * **ID:** amzn1.echo-sdk-ams.app.7cc49e59-0b65-4cc6-8385-d7b39326a8f6
 * **ASIN:** B01EBDD8TG
 * **Author:** tina orooji
-* **Release Date:** May 23, 2016 @ 01:08:35
+* **Release Date:** May 23, 2016 @ 02:08:35
 * **In-App Purchasing:** No

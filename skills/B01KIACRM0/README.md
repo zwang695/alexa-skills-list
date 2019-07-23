@@ -28,7 +28,7 @@ Disclaimer: This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.318c539c-9486-4d46-a22d-5f174753684b
 * **ASIN:** B01KIACRM0
 * **Author:** ActualCalorie
-* **Release Date:** August 26, 2016 @ 03:03:06
+* **Release Date:** August 26, 2016 @ 04:03:06
 * **Privacy Policy:** http://actualcalorie.com/privacy.php
 * **Terms of Use:** http://actualcalorie.com/terms.php
 * **In-App Purchasing:** No

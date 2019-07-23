@@ -20,5 +20,5 @@ This tennis trivia game is a competition where the competitor is asked questions
 * **ID:** amzn1.ask.skill.b11bd671-3928-42d6-b44c-406b244817ea
 * **ASIN:** B01LXNTR5C
 * **Author:** Johnnyzoom
-* **Release Date:** October 6, 2016 @ 09:11:59
+* **Release Date:** October 6, 2016 @ 10:11:59
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ Status Check is an Alexa skill that makes it easy to check whether a website is 
 * **ID:** amzn1.ask.skill.7b5fba2a-3375-441d-bcfe-49ee338cbe56
 * **ASIN:** B01N1HWVIB
 * **Author:** Cuttarug
-* **Release Date:** November 25, 2016 @ 04:09:40
+* **Release Date:** November 25, 2016 @ 05:09:40
 * **In-App Purchasing:** No

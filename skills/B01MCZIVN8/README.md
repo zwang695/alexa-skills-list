@@ -16,5 +16,5 @@ Use this skill to test and improve your knowledge of the elements on the periodi
 * **ID:** amzn1.ask.skill.7891b6a6-3336-4207-957d-10ad437abe1a
 * **ASIN:** B01MCZIVN8
 * **Author:** Private Technology Group
-* **Release Date:** November 2, 2016 @ 02:14:06
+* **Release Date:** November 2, 2016 @ 03:14:06
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Learn facts about the whitetail deer of North America with your Amazon Alexa-ena
 * **ID:** amzn1.ask.skill.dfe1b364-7750-4d92-84a1-4d29bb5744d9
 * **ASIN:** B01MTPY7KV
 * **Author:** felipeowen
-* **Release Date:** November 25, 2016 @ 03:36:22
+* **Release Date:** November 25, 2016 @ 04:36:22
 * **In-App Purchasing:** No

@@ -23,5 +23,5 @@ Every day Alexa will respond with another pokemon.
 * **ID:** amzn1.ask.skill.590cf7d0-2bcf-479e-8f15-32e7b3c4c6df
 * **ASIN:** B01N41H1NI
 * **Author:** Daniel Pöllmann
-* **Release Date:** November 25, 2016 @ 03:39:16
+* **Release Date:** November 25, 2016 @ 04:39:16
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Looking for some advice or perspectives on life?  What Would Mr. West Say will t
 * **ID:** amzn1.ask.skill.3c980472-8098-468d-b014-877617efd0e1
 * **ASIN:** B01M30E8VU
 * **Author:** Cynthia Balusek
-* **Release Date:** November 2, 2016 @ 03:13:56
+* **Release Date:** November 2, 2016 @ 04:13:56
 * **In-App Purchasing:** No

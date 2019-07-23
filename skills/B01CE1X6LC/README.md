@@ -20,5 +20,5 @@ My first attempt at an Alexa skill, this simple trivia game will ask players fiv
 * **ID:** amzn1.echo-sdk-ams.app.5770b522-c411-44d8-95a0-4346bce7ddd3
 * **ASIN:** B01CE1X6LC
 * **Author:** dmlov3ly
-* **Release Date:** March 1, 2016 @ 00:38:59
+* **Release Date:** March 1, 2016 @ 01:38:59
 * **In-App Purchasing:** No

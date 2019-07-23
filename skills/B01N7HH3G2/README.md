@@ -20,5 +20,5 @@ Civics Questions for the Naturalization Test, or just test your knowledge. Will 
 * **ID:** amzn1.ask.skill.b75f95bb-47d1-429e-8497-1f7788838eb5
 * **ASIN:** B01N7HH3G2
 * **Author:** personal
-* **Release Date:** December 14, 2016 @ 03:50:40
+* **Release Date:** December 14, 2016 @ 04:50:40
 * **In-App Purchasing:** No

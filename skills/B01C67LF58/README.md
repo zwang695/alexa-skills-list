@@ -20,5 +20,5 @@ Want to know the current weather information or flight rules for a particular ai
 * **ID:** amzn1.echo-sdk-ams.app.454aee01-9a6d-41eb-9cea-61c633c59a9a
 * **ASIN:** B01C67LF58
 * **Author:** F2M2, Inc.
-* **Release Date:** February 24, 2016 @ 13:27:38
+* **Release Date:** February 24, 2016 @ 14:27:38
 * **In-App Purchasing:** No

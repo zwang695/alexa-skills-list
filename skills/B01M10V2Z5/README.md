@@ -21,5 +21,5 @@ Ask jim wyatt if your car is ready for a road trip.
 * **ID:** amzn1.ask.skill.7267cd57-7bf8-4faa-9b2a-e1838c70a34a
 * **ASIN:** B01M10V2Z5
 * **Author:** 4SITE Inc
-* **Release Date:** October 12, 2016 @ 01:42:39
+* **Release Date:** October 12, 2016 @ 02:42:39
 * **In-App Purchasing:** No

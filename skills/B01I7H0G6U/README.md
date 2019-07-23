@@ -20,5 +20,5 @@ Questions about .NET Framework release history.
 * **ID:** amzn1.echo-sdk-ams.app.6e4a0d4c-5ee1-471a-8181-083e49e0f260
 * **ASIN:** B01I7H0G6U
 * **Author:** homecenter.io
-* **Release Date:** July 19, 2016 @ 07:27:47
+* **Release Date:** July 19, 2016 @ 08:27:47
 * **In-App Purchasing:** No

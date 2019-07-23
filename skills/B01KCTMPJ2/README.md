@@ -20,5 +20,5 @@ Memory Lane connects users to the past using archival historic content. Asking f
 * **ID:** amzn1.echo-sdk-ams.app.0b3b6db6-ddb9-4a7d-a77a-8658f78bc031
 * **ASIN:** B01KCTMPJ2
 * **Author:** Haz Labs
-* **Release Date:** September 8, 2016 @ 02:33:45
+* **Release Date:** September 8, 2016 @ 03:33:45
 * **In-App Purchasing:** No

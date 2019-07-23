@@ -22,5 +22,5 @@ You can start by saying, "Alexa, Ask Gary Johnson facts to give me a fact"
 * **ID:** amzn1.ask.skill.a85316fc-52a1-4bfc-94df-2b9808a34f30
 * **ASIN:** B01J7FZK2Q
 * **Author:** Olivia Avenue Projects
-* **Release Date:** August 1, 2016 @ 04:26:29
+* **Release Date:** August 1, 2016 @ 05:26:29
 * **In-App Purchasing:** No

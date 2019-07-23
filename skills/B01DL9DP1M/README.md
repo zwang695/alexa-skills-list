@@ -20,7 +20,7 @@ Alexa can now help you stay informed about the location,  activity,  fuel status
 * **ID:** amzn1.echo-sdk-ams.app.ee8ad9c5-ae0a-4a94-8d14-570528d10f82
 * **ASIN:** B01DL9DP1M
 * **Author:** Zubie, Inc.
-* **Release Date:** April 8, 2016 @ 07:32:39
+* **Release Date:** April 8, 2016 @ 08:32:39
 * **Privacy Policy:** http://zubie.com/privacy/
 * **Terms of Use:** http://zubie.com/tou/
 * **Account Linking Domains:** zubiecar.com

@@ -18,5 +18,5 @@ This skill is a Trivia of questions about the names of capitals for countries ar
 * **ID:** amzn1.ask.skill.89cff387-54ef-4a5b-99b2-e1f96603fc2b
 * **ASIN:** B01MXY2063
 * **Author:** Prasad
-* **Release Date:** December 14, 2016 @ 04:49:46
+* **Release Date:** December 14, 2016 @ 05:49:46
 * **In-App Purchasing:** No

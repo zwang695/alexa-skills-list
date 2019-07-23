@@ -20,5 +20,5 @@ Want to know more about the tech world? Well here are some random facts about it
 * **ID:** amzn1.ask.skill.91d37181-07cd-42de-9371-84d5f37ca5f4
 * **ASIN:** B01KD9A5BQ
 * **Author:** Howard Yunghao Jiang
-* **Release Date:** August 22, 2016 @ 01:37:37
+* **Release Date:** August 22, 2016 @ 02:37:37
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A skill that has Alexa tell you random Internet Facts. Just ask, "Alexa, ask Int
 * **ID:** amzn1.ask.skill.c3153cbc-a438-4a13-a19f-7b73fd2fa39a
 * **ASIN:** B01JDIBXSM
 * **Author:** Chris Smolen
-* **Release Date:** August 5, 2016 @ 01:37:26
+* **Release Date:** August 5, 2016 @ 02:37:26
 * **In-App Purchasing:** No

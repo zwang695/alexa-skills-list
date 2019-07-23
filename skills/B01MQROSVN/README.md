@@ -24,6 +24,6 @@ It's as easy as "Alexa, Ask Revcontent for Today's RPM"
 * **ID:** amzn1.ask.skill.c14e9aa8-794c-4de3-88ff-74d8860ef005
 * **ASIN:** B01MQROSVN
 * **Author:** revcontent
-* **Release Date:** December 8, 2016 @ 02:49:36
+* **Release Date:** December 8, 2016 @ 03:49:36
 * **Privacy Policy:** http://faq.revcontent.com/support/solutions/articles/5000615200-revcontent-s-privacy-and-cookie-policy
 * **In-App Purchasing:** No

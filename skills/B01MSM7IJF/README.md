@@ -20,5 +20,5 @@ Chicken Nuggetry is the must have skill for all chicken nugget lovers.  With ton
 * **ID:** amzn1.echo-sdk-ams.app.a5433ba0-c604-421d-a686-ac0bfe959507
 * **ASIN:** B01MSM7IJF
 * **Author:** Matt Ayers
-* **Release Date:** November 25, 2016 @ 03:36:40
+* **Release Date:** November 25, 2016 @ 04:36:40
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Math Puzzles is a fun and easy way to challenge yourself and your friends. You'r
 * **ID:** amzn1.echo-sdk-ams.app.26331ba0-28ea-4266-ba3b-fe68d60cbe03
 * **ASIN:** B017OBEP6M
 * **Author:** Speech-Ninja
-* **Release Date:** December 14, 2015 @ 15:33:09
+* **Release Date:** December 14, 2015 @ 16:33:09
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This quiz will test your knowledge of World War 2. Test yourself and see how muc
 * **ID:** amzn1.echo-sdk-ams.app.b004a996-fe83-4293-9401-ced050715520
 * **ASIN:** B01HE5VGQU
 * **Author:** Mustang Designs
-* **Release Date:** June 23, 2016 @ 05:15:54
+* **Release Date:** June 23, 2016 @ 06:15:54
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask for the daily encouragement. You can use it with a specific day if you want 
 * **ID:** amzn1.ask.skill.678c3247-2aca-4a25-adcb-3c8495a5ba21
 * **ASIN:** B01N4CVWQ9
 * **Author:** Dirk Pueschel
-* **Release Date:** December 17, 2016 @ 04:49:39
+* **Release Date:** December 17, 2016 @ 05:49:39
 * **In-App Purchasing:** No

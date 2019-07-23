@@ -20,5 +20,5 @@ Practice your Philosophy knowledge, exercise your memory.
 * **ID:** amzn1.ask.skill.714b9b6d-89d1-48a6-bbc0-33f8d1e9b62c
 * **ASIN:** B01NCPA6O3
 * **Author:** Hyper IoT
-* **Release Date:** December 26, 2016 @ 01:48:54
+* **Release Date:** December 26, 2016 @ 02:48:54
 * **In-App Purchasing:** No

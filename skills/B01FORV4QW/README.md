@@ -20,5 +20,5 @@ This allows users to test themselves by finding how much they know about music
 * **ID:** amzn1.echo-sdk-ams.app.ed9a93d4-9664-4345-96d5-982e3ae4206d
 * **ASIN:** B01FORV4QW
 * **Author:** Chris DeJarlais
-* **Release Date:** May 18, 2016 @ 14:38:33
+* **Release Date:** May 18, 2016 @ 15:38:33
 * **In-App Purchasing:** No

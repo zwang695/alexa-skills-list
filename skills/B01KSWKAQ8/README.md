@@ -20,5 +20,5 @@ It will give you a fact about cars. The facts are general car facts and not spec
 * **ID:** amzn1.ask.skill.e9204d45-34a0-4463-8eb9-7644ec2b204a
 * **ASIN:** B01KSWKAQ8
 * **Author:** Vivi Huang
-* **Release Date:** September 10, 2016 @ 04:42:31
+* **Release Date:** September 10, 2016 @ 05:42:31
 * **In-App Purchasing:** No

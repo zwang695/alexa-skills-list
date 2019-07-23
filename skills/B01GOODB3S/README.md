@@ -20,5 +20,5 @@ A trivia quiz that will test you knowledge about Ancient Greek History - They wr
 * **ID:** amzn1.echo-sdk-ams.app.ce5dce50-7907-4560-8955-d37f0d83edc5
 * **ASIN:** B01GOODB3S
 * **Author:** Kids game area
-* **Release Date:** June 9, 2016 @ 04:09:32
+* **Release Date:** June 9, 2016 @ 05:09:32
 * **In-App Purchasing:** No

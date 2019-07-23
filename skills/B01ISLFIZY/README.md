@@ -20,5 +20,5 @@ It's a great skill to learn about our environment and some amazing and surprisin
 * **ID:** amzn1.ask.skill.a9237ceb-3b05-48f2-8e2b-de0381ed9808
 * **ASIN:** B01ISLFIZY
 * **Author:** Shivansh Singh
-* **Release Date:** July 22, 2016 @ 07:26:39
+* **Release Date:** July 22, 2016 @ 08:26:39
 * **In-App Purchasing:** No

@@ -24,7 +24,7 @@ If you have any questions on Samsung appliances, please contact Samsung Suppport
 * **ID:** amzn1.ask.skill.d6866c48-8c17-4eeb-ac71-49170e182625
 * **ASIN:** B01GZDOJOI
 * **Author:** Samsung Electronics
-* **Release Date:** October 7, 2016 @ 11:11:35
+* **Release Date:** October 7, 2016 @ 12:11:35
 * **Privacy Policy:** https://account.samsung.com/membership/pp
 * **Account Linking Domains:** scl.di.atlas.samsung.com, account.samsung.com
 * **In-App Purchasing:** No

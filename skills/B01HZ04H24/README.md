@@ -20,5 +20,5 @@ Incorrect Fact is a silly app that parodies Alexa's fact generating skill. Simpl
 * **ID:** amzn1.echo-sdk-ams.app.4777403f-1391-408f-9174-5beba4e8a20d
 * **ASIN:** B01HZ04H24
 * **Author:** Sophia Nguyen
-* **Release Date:** July 14, 2016 @ 09:27:33
+* **Release Date:** July 14, 2016 @ 10:27:33
 * **In-App Purchasing:** No

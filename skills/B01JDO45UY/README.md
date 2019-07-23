@@ -20,5 +20,5 @@ This trivia will ask you questions about the cloud and specific questions about 
 * **ID:** amzn1.ask.skill.21f49b12-b5eb-4243-8e7f-4504263aea46
 * **ASIN:** B01JDO45UY
 * **Author:** wavycloud
-* **Release Date:** August 1, 2016 @ 08:56:45
+* **Release Date:** August 1, 2016 @ 09:56:45
 * **In-App Purchasing:** No

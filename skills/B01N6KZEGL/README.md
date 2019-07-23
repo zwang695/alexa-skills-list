@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.790674f4-5243-4891-a232-3f2785275bc2
 * **ASIN:** B01N6KZEGL
 * **Author:** TMI-Webdesign
-* **Release Date:** January 2, 2017 @ 01:19:02
+* **Release Date:** January 2, 2017 @ 02:19:02
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Come along and learn about crows, some of the smartest birds on earth.
 * **ID:** amzn1.ask.skill.23ee0d69-0592-48c5-892b-1c2df336510c
 * **ASIN:** B01LYXWH0Y
 * **Author:** viridity
-* **Release Date:** October 4, 2016 @ 02:13:09
+* **Release Date:** October 4, 2016 @ 03:13:09
 * **In-App Purchasing:** No

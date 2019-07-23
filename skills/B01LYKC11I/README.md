@@ -20,5 +20,5 @@ Test your technology and computer knowledge in this fun trivia challenge! Answer
 * **ID:** amzn1.ask.skill.880a1bb3-8da4-42dd-b700-542fc755c1b7
 * **ASIN:** B01LYKC11I
 * **Author:** Brandon's Alexa
-* **Release Date:** September 28, 2016 @ 17:12:59
+* **Release Date:** September 28, 2016 @ 18:12:59
 * **In-App Purchasing:** No

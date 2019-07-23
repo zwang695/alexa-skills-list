@@ -20,5 +20,5 @@ This skill provides skill users with information about Alliant Credit Union like
 * **ID:** amzn1.echo-sdk-ams.app.cf4380f1-4f27-4045-9d0d-e4d906b69357
 * **ASIN:** B01N0SDX9L
 * **Author:** Alliant Credit Union
-* **Release Date:** December 30, 2016 @ 04:49:26
+* **Release Date:** December 30, 2016 @ 05:49:26
 * **In-App Purchasing:** No

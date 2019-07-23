@@ -20,5 +20,5 @@ Fun Bigfoot Facts
 * **ID:** amzn1.ask.skill.391ec750-7a2e-4948-b522-4e89f1685a9b
 * **ASIN:** B01J6PGMZQ
 * **Author:** letsgo
-* **Release Date:** August 1, 2016 @ 04:56:34
+* **Release Date:** August 1, 2016 @ 05:56:34
 * **In-App Purchasing:** No

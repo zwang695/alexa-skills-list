@@ -22,5 +22,5 @@ Contact us or suggest new facts: c_a_t@att.net
 * **ID:** amzn1.ask.skill.a623ffd3-8d18-49a6-bcde-8677f39a7b8f
 * **ASIN:** B01N0K3Z6E
 * **Author:** Celia Tate
-* **Release Date:** November 30, 2016 @ 01:05:24
+* **Release Date:** November 30, 2016 @ 02:05:24
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Oscar Wilde Quotes will keep your mind active with many of the perplexing, altru
 * **ID:** amzn1.ask.skill.9c21246b-1be0-40d5-9907-e8238c39069b
 * **ASIN:** B01M7TP9OV
 * **Author:** Boxshadow Studios
-* **Release Date:** October 27, 2016 @ 02:45:51
+* **Release Date:** October 27, 2016 @ 03:45:51
 * **In-App Purchasing:** No

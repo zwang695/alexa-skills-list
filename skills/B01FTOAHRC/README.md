@@ -28,5 +28,5 @@ Once you request a grade, it'll be saved until you remove it.
 * **ID:** amzn1.echo-sdk-ams.app.d2097abc-3f26-44dc-8f21-4e44bd588cdc
 * **ASIN:** B01FTOAHRC
 * **Author:** Kimberly Nicholls
-* **Release Date:** May 23, 2016 @ 07:38:31
+* **Release Date:** May 23, 2016 @ 08:38:31
 * **In-App Purchasing:** No

@@ -24,7 +24,7 @@ Celebrate over 30 seasons of America’s Favorite Quiz Show®—install the skil
 * **ID:** amzn1.echo-sdk-ams.app.6d474311-b5aa-4f47-a97b-1036bc3e1954
 * **ASIN:** B019G0M2WS
 * **Author:** Sony Pictures Television
-* **Release Date:** December 16, 2015 @ 13:56:21
+* **Release Date:** December 16, 2015 @ 14:56:21
 * **Privacy Policy:** http://www.sonypictures.com/corp/privacy.html
 * **Terms of Use:** http://www.sonypictures.com/corp/tos.html
 * **In-App Purchasing:** No

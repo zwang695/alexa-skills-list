@@ -22,5 +22,5 @@ Update: You can now extend your warmup by going back down, going higher than C5,
 * **ID:** amzn1.echo-sdk-ams.app.ed2f84b9-00a9-4a66-9809-90ac7bec491b
 * **ASIN:** B01DNNK25I
 * **Author:** Carlos Macasaet
-* **Release Date:** April 11, 2016 @ 16:02:27
+* **Release Date:** April 11, 2016 @ 17:02:27
 * **In-App Purchasing:** No

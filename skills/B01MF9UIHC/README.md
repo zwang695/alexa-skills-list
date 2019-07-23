@@ -20,5 +20,5 @@ The Sugarloaf Mountain Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.4ef27530-1a61-40cd-9859-3d237c39aa4e
 * **ASIN:** B01MF9UIHC
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:14:50
+* **Release Date:** October 21, 2016 @ 15:14:50
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ You can ask about characters from popular TV shows and movies. We currently supp
 * **ID:** amzn1.ask.skill.a7bc8cd1-3ebc-4fc4-9c9b-d963ede2c267
 * **ASIN:** B01MTXSAKZ
 * **Author:** Rai Integration Ltd
-* **Release Date:** December 10, 2016 @ 07:19:16
+* **Release Date:** December 10, 2016 @ 08:19:16
 * **Privacy Policy:** https://www.starfishmint.com/policy/privacy-peeps.html
 * **Terms of Use:** https://www.starfishmint.com/policy/terms-peeps.html
 * **In-App Purchasing:** No

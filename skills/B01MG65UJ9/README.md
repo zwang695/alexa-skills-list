@@ -18,5 +18,5 @@ League of Legends Trivia Game isn’t endorsed by Riot Games and doesn’t refle
 * **ID:** amzn1.ask.skill.afaec740-9a66-431a-a010-64e9fa9b1be7
 * **ASIN:** B01MG65UJ9
 * **Author:** Kevin Ceballos
-* **Release Date:** November 4, 2016 @ 02:43:33
+* **Release Date:** November 4, 2016 @ 03:43:33
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Not sure what kind of topping to put on your pizza. That's ok. Alexa will help y
 * **ID:** amzn1.ask.skill.a0f421be-37bd-4a14-9e85-a8e938ee8f1b
 * **ASIN:** B01KNGFBRC
 * **Author:** DJ Rosenbaum
-* **Release Date:** August 25, 2016 @ 09:00:40
+* **Release Date:** August 25, 2016 @ 10:00:40
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Think you know tomatoes? Check your knowledge with this collection of hand-picke
 * **ID:** amzn1.echo-sdk-ams.app.850a9d89-445e-4dcf-95ad-a9730feefe5f
 * **ASIN:** B01G2JXQ62
 * **Author:** DevTheory
-* **Release Date:** May 27, 2016 @ 06:08:50
+* **Release Date:** May 27, 2016 @ 07:08:50
 * **In-App Purchasing:** No

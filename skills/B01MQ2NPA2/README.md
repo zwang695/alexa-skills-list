@@ -21,6 +21,6 @@ Talk to your integrator to enable your Crestron 3-Series processor for Alexa con
 * **ID:** amzn1.ask.skill.29acc709-f283-49f6-8dc2-4b5b838826e7
 * **ASIN:** B01MQ2NPA2
 * **Author:** Crestron Electronics, Inc.
-* **Release Date:** November 23, 2016 @ 22:05:30
+* **Release Date:** November 23, 2016 @ 23:05:30
 * **Privacy Policy:** http://www.crestron.com/legal/privacy-policy
 * **In-App Purchasing:** No

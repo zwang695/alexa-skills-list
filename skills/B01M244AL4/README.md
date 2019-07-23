@@ -20,5 +20,5 @@ Ever need to flee the country? This app will give a new random identity instantl
 * **ID:** amzn1.ask.skill.e8e31b73-d54f-469e-b229-f030453a7a26
 * **ASIN:** B01M244AL4
 * **Author:** Andrew Garcia
-* **Release Date:** October 21, 2016 @ 15:43:15
+* **Release Date:** October 21, 2016 @ 16:43:15
 * **In-App Purchasing:** No

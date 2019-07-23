@@ -20,5 +20,5 @@ Facts about India
 * **ID:** amzn1.ask.skill.47e894cd-2798-4bea-85e8-d207ab5ebe30
 * **ASIN:** B01M0BH7O0
 * **Author:** Binita Mehta
-* **Release Date:** October 4, 2016 @ 02:42:54
+* **Release Date:** October 4, 2016 @ 03:42:54
 * **In-App Purchasing:** No

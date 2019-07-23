@@ -20,5 +20,5 @@ Chicago Bikes gives you real-time station information of all the Divvy bike shar
 * **ID:** amzn1.ask.skill.9af0ed34-5119-4af2-8954-106dc3690e9b
 * **ASIN:** B01J73Z69A
 * **Author:** Bernardi Bytes
-* **Release Date:** August 12, 2016 @ 09:37:32
+* **Release Date:** August 12, 2016 @ 10:37:32
 * **In-App Purchasing:** No

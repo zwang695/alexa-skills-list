@@ -24,7 +24,7 @@ This skill is unofficial and not sponsored or endorsed by Strava.com.
 * **ID:** amzn1.echo-sdk-ams.app.d215af2e-98fd-49ca-a42d-3fe8b5880174
 * **ASIN:** B01MQ09OUO
 * **Author:** Nick Coury
-* **Release Date:** November 28, 2016 @ 04:05:54
+* **Release Date:** November 28, 2016 @ 05:05:54
 * **Privacy Policy:** https://s3.amazonaws.com/mountaintop/privacy-policy.html
 * **Account Linking Domains:** strava.com
 * **In-App Purchasing:** No

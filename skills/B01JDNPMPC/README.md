@@ -20,5 +20,5 @@ This is a basketball flash card game on the 2015-16 NBA season. There are no har
 * **ID:** amzn1.ask.skill.30c871d2-5b9c-4112-8654-1a84a97be5ef
 * **ASIN:** B01JDNPMPC
 * **Author:** Esther Jun Kim
-* **Release Date:** August 9, 2016 @ 04:37:28
+* **Release Date:** August 9, 2016 @ 05:37:28
 * **In-App Purchasing:** No

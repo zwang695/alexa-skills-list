@@ -20,5 +20,5 @@ This skill allows the user to spell out a word or a list of words in either Mors
 * **ID:** amzn1.echo-sdk-ams.app.4ed1f11a-8e86-4581-b906-ba8546bfc19d
 * **ASIN:** B01CE8IJKS
 * **Author:** BassmanCorp
-* **Release Date:** March 1, 2016 @ 03:04:49
+* **Release Date:** March 1, 2016 @ 04:04:49
 * **In-App Purchasing:** No

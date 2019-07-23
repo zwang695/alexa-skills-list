@@ -23,6 +23,6 @@ Icon: USS Iowa - United States Navy/Wikimedia Commons
 * **ID:** amzn1.ask.skill.3e7ce8c3-fe25-4b28-b1e7-f4b7525644f2
 * **ASIN:** B01KJ91K5U
 * **Author:** Josep Valls-Vargas
-* **Release Date:** August 23, 2016 @ 07:19:23
+* **Release Date:** August 23, 2016 @ 08:19:23
 * **Terms of Use:** https://115iec5pk1.execute-api.us-east-1.amazonaws.com/prod/pub
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill tells you the facts about the credit card size computer called Raspbe
 * **ID:** amzn1.ask.skill.904887c3-7f84-4c06-9e76-5bc08244bd48
 * **ASIN:** B01KNMLH8S
 * **Author:** Liang Zhang
-* **Release Date:** August 25, 2016 @ 03:02:34
+* **Release Date:** August 25, 2016 @ 04:02:34
 * **In-App Purchasing:** No

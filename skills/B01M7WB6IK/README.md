@@ -20,5 +20,5 @@ If you got those Loteria or Mexican Bingo cards hanging around but you are missi
 * **ID:** amzn1.ask.skill.e9a4980c-61b7-450f-835e-11a648c5da9b
 * **ASIN:** B01M7WB6IK
 * **Author:** CyberCode Twins
-* **Release Date:** November 15, 2016 @ 02:35:40
+* **Release Date:** November 15, 2016 @ 03:35:40
 * **In-App Purchasing:** No

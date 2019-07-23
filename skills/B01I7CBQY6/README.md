@@ -20,5 +20,5 @@ Interesting quiz on my dog Caper. Hope you enjoy!
 * **ID:** amzn1.echo-sdk-ams.app.a0b765e3-57c3-4a9e-b2ab-f6ca436e3fa6
 * **ASIN:** B01I7CBQY6
 * **Author:** Ben Johnson
-* **Release Date:** July 26, 2016 @ 08:26:26
+* **Release Date:** July 26, 2016 @ 09:26:26
 * **In-App Purchasing:** No

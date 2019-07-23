@@ -24,5 +24,5 @@ Skill icon by tutsplus http://www.flaticon.com/authors/tutsplus
 * **ID:** amzn1.ask.skill.4262f44b-fa95-4971-b744-952196be1819
 * **ASIN:** B01MAVS06Y
 * **Author:** Paul McCabe
-* **Release Date:** October 18, 2016 @ 04:42:39
+* **Release Date:** October 18, 2016 @ 05:42:39
 * **In-App Purchasing:** No

@@ -30,7 +30,7 @@ Disclaimer: This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.bb156449-dcbf-4162-a208-c8063d9ffca7
 * **ASIN:** B01LXZ56BY
 * **Author:** BuildingLink.com
-* **Release Date:** November 27, 2016 @ 08:05:33
+* **Release Date:** November 27, 2016 @ 09:05:33
 * **Privacy Policy:** https://www.buildinglink.com/Public/PrivacyPolicy.aspx
 * **Terms of Use:** https://www.buildinglink.com/Public/Terms.aspx
 * **Account Linking Domains:** buildinglink.com

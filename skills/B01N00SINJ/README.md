@@ -20,5 +20,5 @@ The Camp 10 Snow Report brought to you by SnoCountry brings you the latest snow 
 * **ID:** amzn1.ask.skill.5cfe098b-58eb-481c-a13c-686dd81c090a
 * **ASIN:** B01N00SINJ
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:44:02
+* **Release Date:** November 5, 2016 @ 11:44:02
 * **In-App Purchasing:** No

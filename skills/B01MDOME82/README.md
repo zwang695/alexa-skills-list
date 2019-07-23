@@ -20,5 +20,5 @@ The Cannonsburg Ski Area Snow Report brought to you by SnoCountry brings you the
 * **ID:** amzn1.ask.skill.903aca97-8826-4836-afef-784aab786be8
 * **ASIN:** B01MDOME82
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:14:22
+* **Release Date:** October 21, 2016 @ 16:14:22
 * **In-App Purchasing:** No

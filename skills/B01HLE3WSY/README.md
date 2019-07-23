@@ -20,5 +20,5 @@ This app entertains users by giving them a football fun fact. This main purpose 
 * **ID:** amzn1.echo-sdk-ams.app.c39ff706-4b0e-48d8-a05a-f88b9e7a5c99
 * **ASIN:** B01HLE3WSY
 * **Author:** Myles Blodnick
-* **Release Date:** June 28, 2016 @ 06:15:48
+* **Release Date:** June 28, 2016 @ 07:15:48
 * **In-App Purchasing:** No

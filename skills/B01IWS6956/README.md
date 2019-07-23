@@ -25,5 +25,5 @@ Knowledge is power, so give it a try and enjoy!
 * **ID:** amzn1.ask.skill.17543e1f-c88a-4ade-9ff5-a6cc37fb629f
 * **ASIN:** B01IWS6956
 * **Author:** Belgarion Apps
-* **Release Date:** July 25, 2016 @ 06:26:26
+* **Release Date:** July 25, 2016 @ 07:26:26
 * **In-App Purchasing:** No

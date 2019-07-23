@@ -24,6 +24,6 @@ If you have any questions, please visit the Amazon Echo page at http://homeseer.
 * **ID:** amzn1.ask.skill.4823145a-607e-4fd9-8435-0cd20e928c82
 * **ASIN:** B01EK6NYN4
 * **Author:** HomeSeer Technologies LLC
-* **Release Date:** July 26, 2016 @ 13:56:07
+* **Release Date:** July 26, 2016 @ 14:56:07
 * **Privacy Policy:** http://homeseer.com/privacy-policy.html
 * **In-App Purchasing:** No

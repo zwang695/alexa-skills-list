@@ -24,5 +24,5 @@ Don't know the name of a park? Name a state to get a list of parks in that state
 * **ID:** amzn1.ask.skill.105f73de-0a1b-45ed-8595-906190cefa02
 * **ASIN:** B01N6ERAWU
 * **Author:** Chirpy Cali
-* **Release Date:** December 10, 2016 @ 00:19:22
+* **Release Date:** December 10, 2016 @ 01:19:22
 * **In-App Purchasing:** No

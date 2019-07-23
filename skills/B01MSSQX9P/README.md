@@ -20,7 +20,7 @@ If you need something done in and around your house, just ask Handee.  Even if y
 * **ID:** amzn1.ask.skill.0867efda-f6a2-4bb7-8259-7a9024d93f53
 * **ASIN:** B01MSSQX9P
 * **Author:** Handee LLC
-* **Release Date:** December 14, 2016 @ 02:50:04
+* **Release Date:** December 14, 2016 @ 03:50:04
 * **Privacy Policy:** https://www.askhandee.com/privacy/
 * **Account Linking Domains:** handeeweb.azurewebsites.net, microsoftonline.com, onmicrosoft.com, gethandeeapi.azurewebsites.net
 * **In-App Purchasing:** No

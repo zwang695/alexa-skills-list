@@ -20,5 +20,5 @@ The Theories Exam skill provides a review of the major theories used in psychoth
 * **ID:** amzn1.echo-sdk-ams.app.34563e20-d860-4cd6-8def-330479a645e0
 * **ASIN:** B01I22CS1Q
 * **Author:** Licensure Exams, Inc.
-* **Release Date:** July 12, 2016 @ 07:27:39
+* **Release Date:** July 12, 2016 @ 08:27:39
 * **In-App Purchasing:** No

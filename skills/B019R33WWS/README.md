@@ -18,5 +18,5 @@ Ask Alexa to Load Today's Astronomy Picture and hear all about the wonders of sp
 * **ID:** amzn1.echo-sdk-ams.app.5c3d466c-1b41-46be-933b-bca418c85989
 * **ASIN:** B019R33WWS
 * **Author:** Rasmi
-* **Release Date:** December 23, 2015 @ 17:52:47
+* **Release Date:** December 23, 2015 @ 18:52:47
 * **In-App Purchasing:** No

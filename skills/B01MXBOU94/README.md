@@ -20,5 +20,5 @@ The Centennial Park Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.3cf55eb4-7fc9-47d7-8305-60fbe604f262
 * **ASIN:** B01MXBOU94
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:15:19
+* **Release Date:** November 5, 2016 @ 12:15:19
 * **In-App Purchasing:** No

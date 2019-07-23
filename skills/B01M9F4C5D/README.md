@@ -20,5 +20,5 @@ The Wildcat Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.6e9effd2-86cd-4994-a17d-bee4ddb1f92b
 * **ASIN:** B01M9F4C5D
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:44:44
+* **Release Date:** October 26, 2016 @ 03:44:44
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Supplies Computer Network Fun Facts
 * **ID:** amzn1.ask.skill.c870687f-2258-4f2b-8165-f6108be85837
 * **ASIN:** B01IUWXNB2
 * **Author:** Network Automation Nerds LLC.
-* **Release Date:** July 25, 2016 @ 08:26:38
+* **Release Date:** July 25, 2016 @ 09:26:38
 * **In-App Purchasing:** No

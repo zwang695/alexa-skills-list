@@ -16,5 +16,5 @@ A skill geared towards educating users to more in depth knowledge about the ocea
 * **ID:** amzn1.ask.skill.dc633d54-77b6-42df-a429-88c9c80f9960
 * **ASIN:** B01KBL88RE
 * **Author:** KyleTsuyemura
-* **Release Date:** August 13, 2016 @ 04:07:29
+* **Release Date:** August 13, 2016 @ 05:07:29
 * **In-App Purchasing:** No

@@ -24,7 +24,7 @@ Easily find out which of your friends are on steam by asking 'whos on line'. You
 * **ID:** amzn1.ask.skill.ad3bd7d7-ca6e-4b66-8d38-33859ea5b06c
 * **ASIN:** B01MQXAZTL
 * **Author:** Lee Dyche
-* **Release Date:** December 22, 2016 @ 05:19:00
+* **Release Date:** December 22, 2016 @ 06:19:00
 * **Privacy Policy:** https://whosonsteam.com/Home/DataPrivacy
 * **Account Linking Domains:** whosonsteam.com
 * **In-App Purchasing:** No

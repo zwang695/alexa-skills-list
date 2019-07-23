@@ -20,5 +20,5 @@ The Vorlage Ski Area Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.dc787e25-ec86-41ef-a81b-f0f30cc5c2a9
 * **ASIN:** B01MXGMU2J
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:12:50
+* **Release Date:** November 5, 2016 @ 12:12:50
 * **In-App Purchasing:** No

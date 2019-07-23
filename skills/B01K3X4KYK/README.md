@@ -20,5 +20,5 @@ Your mission is to answer Alexa's prompt and guess the correct option. Each game
 * **ID:** amzn1.ask.skill.01c35950-a0bf-4acc-8cd1-c55fbc17950c
 * **ASIN:** B01K3X4KYK
 * **Author:** Drian Hillman
-* **Release Date:** August 11, 2016 @ 07:07:33
+* **Release Date:** August 11, 2016 @ 08:07:33
 * **In-App Purchasing:** No

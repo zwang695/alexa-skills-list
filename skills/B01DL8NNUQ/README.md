@@ -20,5 +20,5 @@ Are you a Seinfeld fan?  Test your knowledge with the Seinfeld Fan Trivia skill!
 * **ID:** amzn1.echo-sdk-ams.app.b2b864b5-b489-4f63-b848-839e7b3d65b3
 * **ASIN:** B01DL8NNUQ
 * **Author:** Ken Westphal
-* **Release Date:** March 31, 2016 @ 08:02:32
+* **Release Date:** March 31, 2016 @ 09:02:32
 * **In-App Purchasing:** No

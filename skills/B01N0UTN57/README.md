@@ -20,5 +20,5 @@ It is common for Chemistry courses to require the memorization of the polyatomic
 * **ID:** amzn1.ask.skill.a35baa43-e460-43e2-9732-f0bca02d4e0b
 * **ASIN:** B01N0UTN57
 * **Author:** Elvis Wolcott
-* **Release Date:** January 1, 2017 @ 22:49:11
+* **Release Date:** January 1, 2017 @ 23:49:11
 * **In-App Purchasing:** No

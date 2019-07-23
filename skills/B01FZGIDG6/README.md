@@ -22,5 +22,5 @@ Please note this skill is not created by or endorsed by anyone involved with MAS
 * **ID:** amzn1.echo-sdk-ams.app.24a6f2e7-9642-46c1-bc3d-4ef4a3ed5954
 * **ASIN:** B01FZGIDG6
 * **Author:** Trex3000
-* **Release Date:** June 9, 2016 @ 05:39:49
+* **Release Date:** June 9, 2016 @ 06:39:49
 * **In-App Purchasing:** No

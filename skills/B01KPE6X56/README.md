@@ -16,5 +16,5 @@ Ask for facts about cats and this skill set will give you one.
 * **ID:** amzn1.ask.skill.dd2be1b2-5d0b-4636-8a9a-3b9515a14c64
 * **ASIN:** B01KPE6X56
 * **Author:** akkamal
-* **Release Date:** August 22, 2016 @ 07:45:03
+* **Release Date:** August 22, 2016 @ 08:45:03
 * **In-App Purchasing:** No

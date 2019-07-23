@@ -28,5 +28,5 @@ Can You Feel It
 * **ID:** amzn1.echo-sdk-ams.app.9f9c2f2a-0dd2-459a-9555-d17ea30c7888
 * **ASIN:** B01DVOLVFY
 * **Author:** CHH
-* **Release Date:** April 8, 2016 @ 07:02:36
+* **Release Date:** April 8, 2016 @ 08:02:36
 * **In-App Purchasing:** No

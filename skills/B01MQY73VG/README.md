@@ -20,5 +20,5 @@ This is skill is used to hear random motorcycle facts.
 * **ID:** amzn1.ask.skill.72888a9d-500c-4d8d-ba62-5dc6b7ed74b5
 * **ASIN:** B01MQY73VG
 * **Author:** Al Pal Studios
-* **Release Date:** December 22, 2016 @ 04:19:20
+* **Release Date:** December 22, 2016 @ 05:19:20
 * **In-App Purchasing:** No

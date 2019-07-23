@@ -20,5 +20,5 @@ This app is pretty easy to use. All you do is ask Alexa to open Trump the Chump,
 * **ID:** amzn1.ask.skill.cb012d37-e8b1-4b21-bb31-954e8ada926c
 * **ASIN:** B01K3NI5FU
 * **Author:** Leave It to 'Berta
-* **Release Date:** August 17, 2016 @ 05:52:55
+* **Release Date:** August 17, 2016 @ 06:52:55
 * **In-App Purchasing:** No

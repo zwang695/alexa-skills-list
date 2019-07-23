@@ -20,7 +20,7 @@ Insure Academy provides advice about common planning problems, such as planning 
 * **ID:** amzn1.ask.skill.3b36a7ab-6658-485f-8f7a-1e028d279a13
 * **ASIN:** B01M13BAT7
 * **Author:** Paul Tyler
-* **Release Date:** September 29, 2016 @ 07:12:52
+* **Release Date:** September 29, 2016 @ 08:12:52
 * **Privacy Policy:** http://www.insure.academy/privacy.html
 * **Terms of Use:** http://www.insure.academy/privacy.html
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Image credit: Creative Commons
 * **ID:** amzn1.ask.skill.b2dbd3b7-563e-4988-a349-14b4e01d40a4
 * **ASIN:** B01N5GV6S5
 * **Author:** Ryan Pfister
-* **Release Date:** December 22, 2016 @ 03:19:05
+* **Release Date:** December 22, 2016 @ 04:19:05
 * **In-App Purchasing:** No

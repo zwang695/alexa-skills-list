@@ -24,6 +24,6 @@ To use the SmartEngine skill, try saying...
 * **ID:** amzn1.ask.skill.016b7188-391a-4011-a803-0998a77a41ce
 * **ASIN:** B01MFXAP9O
 * **Author:** W-tec AG
-* **Release Date:** November 2, 2016 @ 02:42:57
+* **Release Date:** November 2, 2016 @ 03:42:57
 * **Privacy Policy:** https://smartcloud.wtec.ag/alexa/policy.php
 * **In-App Purchasing:** No

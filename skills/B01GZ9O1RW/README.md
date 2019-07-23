@@ -20,5 +20,5 @@ This skill shares interesting information about Gismo Lab at Stanford University
 * **ID:** amzn1.echo-sdk-ams.app.71e620aa-2df6-4754-b7e6-9d6aec9aad10
 * **ASIN:** B01GZ9O1RW
 * **Author:** Qubz, LLC
-* **Release Date:** June 23, 2016 @ 01:15:39
+* **Release Date:** June 23, 2016 @ 02:15:39
 * **In-App Purchasing:** No

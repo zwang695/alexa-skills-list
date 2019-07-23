@@ -20,5 +20,5 @@ This skill will give you a useful travel tip.
 * **ID:** amzn1.echo-sdk-ams.app.d3a54fc8-fdc0-4830-acf7-bddd417357f7
 * **ASIN:** B01G09UMIY
 * **Author:** Dickson Tse
-* **Release Date:** May 24, 2016 @ 10:08:35
+* **Release Date:** May 24, 2016 @ 11:08:35
 * **In-App Purchasing:** No

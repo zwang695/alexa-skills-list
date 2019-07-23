@@ -24,7 +24,7 @@ We're happy to have you on board!
 * **ID:** amzn1.ask.skill.3630b6a9-28d3-4744-8f72-c0ad9ac7e1c7
 * **ASIN:** B01N2T9X06
 * **Author:** 60db
-* **Release Date:** December 28, 2016 @ 00:19:31
+* **Release Date:** December 28, 2016 @ 01:19:31
 * **Privacy Policy:** https://60db.co/privacy/
 * **Account Linking Domains:** userservice.tinygaragelabs.com, staging.60db.co, 60db.auth0.com, api.twitter.com, www.facebook.com
 * **In-App Purchasing:** No

@@ -32,5 +32,5 @@ League Status isn’t endorsed by Riot Games and doesn’t reflect the views or 
 * **ID:** amzn1.ask.skill.6aa9f70d-13c8-412a-96a4-4dfa203c1996
 * **ASIN:** B01LZ39PLU
 * **Author:** long potato
-* **Release Date:** October 21, 2016 @ 15:15:16
+* **Release Date:** October 21, 2016 @ 16:15:16
 * **In-App Purchasing:** No

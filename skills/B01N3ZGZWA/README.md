@@ -20,5 +20,5 @@ A zythophile is a beer nerd. The goal of this game is to learn more about the hi
 * **ID:** amzn1.ask.skill.7bf71689-a5ee-4522-9a97-4bbb3d664fb3
 * **ASIN:** B01N3ZGZWA
 * **Author:** Corey Brown
-* **Release Date:** November 16, 2016 @ 02:06:34
+* **Release Date:** November 16, 2016 @ 03:06:34
 * **In-App Purchasing:** No

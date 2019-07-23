@@ -16,5 +16,5 @@ A skill that tells you some amazing facts about wolf! Just ask Alexa to tell you
 * **ID:** amzn1.ask.skill.667f5f3e-0281-4845-925a-cda7c65482d6
 * **ASIN:** B01MFF481X
 * **Author:** ssvictorlin
-* **Release Date:** November 11, 2016 @ 01:14:19
+* **Release Date:** November 11, 2016 @ 02:14:19
 * **In-App Purchasing:** No

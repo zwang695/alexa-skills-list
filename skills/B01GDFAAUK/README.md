@@ -22,5 +22,5 @@ Airport Info will not give you information about specific flights.
 * **ID:** amzn1.echo-sdk-ams.app.5aeb288b-49fc-4d47-8650-37884831ef85
 * **ASIN:** B01GDFAAUK
 * **Author:** Leo Gau
-* **Release Date:** June 15, 2016 @ 02:45:55
+* **Release Date:** June 15, 2016 @ 03:45:55
 * **In-App Purchasing:** No

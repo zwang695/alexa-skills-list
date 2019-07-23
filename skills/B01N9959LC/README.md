@@ -48,7 +48,7 @@ Scientific evidence shows that you can develop kindness and compassion by focusi
 * **ID:** amzn1.ask.skill.c745fc26-4051-449c-96fa-f9322a8888b1
 * **ASIN:** B01N9959LC
 * **Author:** Stop, Breathe & Think
-* **Release Date:** November 25, 2016 @ 10:05:41
+* **Release Date:** November 25, 2016 @ 11:05:41
 * **Privacy Policy:** http://www.stopbreathethink.org/privacy.html
 * **Terms of Use:** http://www.stopbreathethink.org/terms.html
 * **In-App Purchasing:** No

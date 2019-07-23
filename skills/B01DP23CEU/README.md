@@ -26,5 +26,5 @@ Currently Supported Cities are
 * **ID:** amzn1.echo-sdk-ams.app.a768ab0c-3612-412d-80a4-473bb8da19e9
 * **ASIN:** B01DP23CEU
 * **Author:** Chansung
-* **Release Date:** May 4, 2016 @ 08:08:28
+* **Release Date:** May 4, 2016 @ 09:08:28
 * **In-App Purchasing:** No

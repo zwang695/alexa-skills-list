@@ -27,5 +27,5 @@ Be prepared for the high impact factor journal!
 * **ID:** amzn1.ask.skill.6033df51-721b-4bd9-a813-a4db10aa01ad
 * **ASIN:** B01N7ML92J
 * **Author:** wanomex
-* **Release Date:** December 31, 2016 @ 01:49:09
+* **Release Date:** December 31, 2016 @ 02:49:09
 * **In-App Purchasing:** No

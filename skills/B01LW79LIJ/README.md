@@ -16,5 +16,5 @@ Unofficial fan Simpsons facts
 * **ID:** amzn1.ask.skill.50772719-02bb-4357-9425-ead4b04bbd7a
 * **ASIN:** B01LW79LIJ
 * **Author:** MikGan
-* **Release Date:** September 15, 2016 @ 18:41:29
+* **Release Date:** September 15, 2016 @ 19:41:29
 * **In-App Purchasing:** No

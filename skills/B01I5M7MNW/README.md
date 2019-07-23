@@ -21,5 +21,5 @@ SKILL MIGHT NOT BE SUITABLE FOR ALL AGES!
 * **ID:** amzn1.echo-sdk-ams.app.70f02254-2acc-4e82-bca6-072f47968e63
 * **ASIN:** B01I5M7MNW
 * **Author:** B and o Technologies
-* **Release Date:** July 12, 2016 @ 05:27:37
+* **Release Date:** July 12, 2016 @ 06:27:37
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Boreal Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.bd77fbd3-41b8-4ec2-8462-b00140ae62d5
 * **ASIN:** B01LXR6P69
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:15:10
+* **Release Date:** October 20, 2016 @ 04:15:10
 * **In-App Purchasing:** No

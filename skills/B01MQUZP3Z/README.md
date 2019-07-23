@@ -21,5 +21,5 @@ If you would like Alexa to repeat the question, simply say "repeat".  If you don
 * **ID:** amzn1.ask.skill.3c68567d-0243-4e6f-b444-9fc68454f9a5
 * **ASIN:** B01MQUZP3Z
 * **Author:** obreit
-* **Release Date:** December 13, 2016 @ 05:19:28
+* **Release Date:** December 13, 2016 @ 06:19:28
 * **In-App Purchasing:** No

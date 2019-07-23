@@ -20,5 +20,5 @@ Random facts about the globally-loved noodle dish: ramen.
 * **ID:** amzn1.ask.skill.7102c605-45d0-470f-8b9d-4bd208844331
 * **ASIN:** B01N2YZY9X
 * **Author:** Andreas Santoso
-* **Release Date:** December 31, 2016 @ 04:19:04
+* **Release Date:** December 31, 2016 @ 05:19:04
 * **In-App Purchasing:** No

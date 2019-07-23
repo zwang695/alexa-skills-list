@@ -20,5 +20,5 @@ A quick and easy way to hear some of the corniest jokes in existence.
 * **ID:** amzn1.echo-sdk-ams.app.440526a5-4703-4886-87eb-d09a6e9eaf13
 * **ASIN:** B01BUB8OSM
 * **Author:** WBPhoto
-* **Release Date:** February 16, 2016 @ 13:09:55
+* **Release Date:** February 16, 2016 @ 14:09:55
 * **In-App Purchasing:** No

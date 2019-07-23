@@ -24,5 +24,5 @@ Alexa, ask space facts tell me a fact
 * **ID:** amzn1.ask.skill.d3d17a71-2f0f-4bc8-9929-31dfade16107
 * **ASIN:** B01M4HFOR7
 * **Author:** Ravindra Patel
-* **Release Date:** October 18, 2016 @ 05:12:20
+* **Release Date:** October 18, 2016 @ 06:12:20
 * **In-App Purchasing:** No

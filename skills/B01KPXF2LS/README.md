@@ -26,7 +26,7 @@ More details on FireBoard can be found at http://fireboard.io
 * **ID:** amzn1.ask.skill.1ebaadc2-93e0-4f0f-9ea0-522aa9e5787c
 * **ASIN:** B01KPXF2LS
 * **Author:** FireBoard Labs
-* **Release Date:** August 24, 2016 @ 02:31:36
+* **Release Date:** August 24, 2016 @ 03:31:36
 * **Privacy Policy:** https://fireboard.io/privacy
 * **Account Linking Domains:** fireboard.io, connect.facebook.net, fonts.googleapis.com, maxcdn.bootstrapcdn.com, facebook.com, google-analytics.com
 * **In-App Purchasing:** No

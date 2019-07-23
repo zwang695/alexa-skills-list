@@ -22,7 +22,7 @@ The National Rail skill also supports journeys to or from London Underground sta
 * **ID:** amzn1.ask.skill.f0bc2319-6fa3-4c6c-ad82-722b6c734fd4
 * **ASIN:** B01LXL4G34
 * **Author:** National Rail Enquiries
-* **Release Date:** September 27, 2016 @ 15:12:17
+* **Release Date:** September 27, 2016 @ 16:12:17
 * **Privacy Policy:** http://www.nationalrail.co.uk/46389.aspx
 * **Terms of Use:** http://www.nationalrail.co.uk/46385.aspx
 * **In-App Purchasing:** No

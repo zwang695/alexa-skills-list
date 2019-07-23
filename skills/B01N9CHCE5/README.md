@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.512a50ca-e759-4642-bc84-bfe4498d0918
 * **ASIN:** B01N9CHCE5
 * **Author:** jgontrum
-* **Release Date:** December 7, 2016 @ 00:19:10
+* **Release Date:** December 7, 2016 @ 01:19:10
 * **In-App Purchasing:** No

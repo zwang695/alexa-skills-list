@@ -20,5 +20,5 @@ The Mountain Creek Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.2a1dac1c-bd2e-4d01-b8d8-1a9720efac58
 * **ASIN:** B01MG4L2KF
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:45:10
+* **Release Date:** October 26, 2016 @ 03:45:10
 * **In-App Purchasing:** No

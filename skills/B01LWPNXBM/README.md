@@ -22,5 +22,5 @@ Challenge your knowledge of the worlds' most famous paintings by identifying the
 * **ID:** amzn1.ask.skill.c606cbf3-cbd4-4818-9495-0eb415802d79
 * **ASIN:** B01LWPNXBM
 * **Author:** Mathew George Corp
-* **Release Date:** October 4, 2016 @ 02:43:22
+* **Release Date:** October 4, 2016 @ 03:43:22
 * **In-App Purchasing:** No

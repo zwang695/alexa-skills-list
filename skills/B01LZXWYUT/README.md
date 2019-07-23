@@ -20,5 +20,5 @@ The Mt Timothy Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.7ea715b5-67e1-4efb-89da-158ff15ad179
 * **ASIN:** B01LZXWYUT
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:56:47
+* **Release Date:** October 20, 2016 @ 03:56:47
 * **In-App Purchasing:** No

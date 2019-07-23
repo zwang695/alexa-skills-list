@@ -20,5 +20,5 @@ This is Linux fact sheet... All you want to know about Linux can be learnt with 
 * **ID:** amzn1.ask.skill.50499616-7b18-47b8-8fac-b13412c5ca98
 * **ASIN:** B01N4726YQ
 * **Author:** sdhrtht
-* **Release Date:** November 29, 2016 @ 03:07:17
+* **Release Date:** November 29, 2016 @ 04:07:17
 * **In-App Purchasing:** No

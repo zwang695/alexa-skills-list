@@ -20,5 +20,5 @@ This is a simple game where Alexa will state a random comment and you determine 
 * **ID:** amzn1.ask.skill.a66f93ea-6fab-4782-8687-b07fb98c1ccf
 * **ASIN:** B01J2YHCAA
 * **Author:** Eduardo Depaz
-* **Release Date:** July 27, 2016 @ 08:56:49
+* **Release Date:** July 27, 2016 @ 09:56:49
 * **In-App Purchasing:** No

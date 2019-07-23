@@ -20,5 +20,5 @@ Learn famous quotes from people such as Abraham Lincoln and Albert Einstein thro
 * **ID:** amzn1.ask.skill.160f0590-295f-4377-a3cc-56182782c675
 * **ASIN:** B01N6311R8
 * **Author:** Mogul
-* **Release Date:** November 18, 2016 @ 00:35:33
+* **Release Date:** November 18, 2016 @ 01:35:33
 * **In-App Purchasing:** No

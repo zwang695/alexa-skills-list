@@ -20,5 +20,5 @@ Determines whether cats are better than dogs or not.
 * **ID:** amzn1.ask.skill.3ec5e74f-c74c-4bbc-868e-673e467b70a0
 * **ASIN:** B01N2KCN1H
 * **Author:** Anuj
-* **Release Date:** November 25, 2016 @ 07:35:33
+* **Release Date:** November 25, 2016 @ 08:35:33
 * **In-App Purchasing:** No

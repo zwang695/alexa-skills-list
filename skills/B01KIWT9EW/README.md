@@ -20,5 +20,5 @@ This skill responds with facts about Abraham Lincoln
 * **ID:** amzn1.ask.skill.33f2f50a-8e5a-438e-b293-d74c87ad68e8
 * **ASIN:** B01KIWT9EW
 * **Author:** buxur
-* **Release Date:** August 22, 2016 @ 02:07:43
+* **Release Date:** August 22, 2016 @ 03:07:43
 * **In-App Purchasing:** No

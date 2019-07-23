@@ -22,5 +22,5 @@ Located in room 012 of the Atrium in the Mary Idema Pew Library Learning and Inf
 * **ID:** amzn1.echo-sdk-ams.app.a318ff37-7332-4a87-acfa-acba00f87d09
 * **ASIN:** B01F23S8HG
 * **Author:** smprof
-* **Release Date:** May 12, 2016 @ 16:08:40
+* **Release Date:** May 12, 2016 @ 17:08:40
 * **In-App Purchasing:** No

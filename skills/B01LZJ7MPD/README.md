@@ -20,5 +20,5 @@ Check this skill out for facts about snakes
 * **ID:** amzn1.ask.skill.9da8f502-46d9-46dd-be4e-29c4644904c8
 * **ASIN:** B01LZJ7MPD
 * **Author:** skaylynn
-* **Release Date:** September 22, 2016 @ 06:42:19
+* **Release Date:** September 22, 2016 @ 07:42:19
 * **In-App Purchasing:** No

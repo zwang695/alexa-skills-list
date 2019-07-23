@@ -20,5 +20,5 @@ The Mont Tremblant Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.1c4f5455-9014-46f2-936c-479b0bc146fb
 * **ASIN:** B01MFHBWBB
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:12:54
+* **Release Date:** November 5, 2016 @ 12:12:54
 * **In-App Purchasing:** No

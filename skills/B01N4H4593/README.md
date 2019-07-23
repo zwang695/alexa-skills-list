@@ -22,5 +22,5 @@ The same fingerings also apply for mellophones, B♭ cornets, and flugelhorns.
 * **ID:** amzn1.ask.skill.a0fab5a0-6fce-4e45-9a63-a4b68b54fef0
 * **ASIN:** B01N4H4593
 * **Author:** Mark Sandell
-* **Release Date:** December 27, 2016 @ 04:19:15
+* **Release Date:** December 27, 2016 @ 05:19:15
 * **In-App Purchasing:** No

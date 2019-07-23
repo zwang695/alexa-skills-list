@@ -20,5 +20,5 @@ This is a great way to practice the U.S. state capitals with short, five-questio
 * **ID:** amzn1.ask.skill.6bd3d68c-1d13-46d1-a972-b7e81da3a12f
 * **ASIN:** B01JO4NZFY
 * **Author:** Eric Gauvin
-* **Release Date:** August 8, 2016 @ 01:38:11
+* **Release Date:** August 8, 2016 @ 02:38:11
 * **In-App Purchasing:** No

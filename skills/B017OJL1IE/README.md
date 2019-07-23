@@ -20,7 +20,7 @@ Alexa can finally talk to your car with the Amazon Echo skill from Automatic.Lin
 * **ID:** amzn1.echo-sdk-ams.app.ece04417-303a-425d-9a6d-e126d604281e
 * **ASIN:** B017OJL1IE
 * **Author:** Automatic
-* **Release Date:** November 17, 2015 @ 15:46:19
+* **Release Date:** November 17, 2015 @ 16:46:19
 * **Privacy Policy:** https://www.automatic.com/legal/
 * **Account Linking Domains:** alexa-oauth.herokuapp.com
 * **In-App Purchasing:** No

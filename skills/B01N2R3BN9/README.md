@@ -36,5 +36,5 @@ GE Podcast Theater
 * **ID:** amzn1.ask.skill.c4e89c9a-cf37-43c8-869a-9def006b9cc4
 * **ASIN:** B01N2R3BN9
 * **Author:** General Electric
-* **Release Date:** December 16, 2016 @ 19:49:26
+* **Release Date:** December 16, 2016 @ 20:49:26
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Test your geek knowledge of animation technology from the earliest techniques an
 * **ID:** amzn1.ask.skill.05c09656-e9af-4f62-bcb1-322bde4b6aa0
 * **ASIN:** B01J77CQ9Y
 * **Author:** ETicket
-* **Release Date:** November 9, 2016 @ 00:43:47
+* **Release Date:** November 9, 2016 @ 01:43:47
 * **In-App Purchasing:** No

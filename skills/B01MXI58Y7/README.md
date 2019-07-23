@@ -34,7 +34,7 @@ For more information about how Botvac Connected works with Alexa, go to NeatoRob
 * **ID:** amzn1.ask.skill.f757f2c7-614f-4eb9-9494-a01b29bb8c41
 * **ASIN:** B01MXI58Y7
 * **Author:** Neato Robotics
-* **Release Date:** November 22, 2016 @ 10:35:29
+* **Release Date:** November 22, 2016 @ 11:35:29
 * **Privacy Policy:** https://www.neatorobotics.com/privacy-policy/
 * **Terms of Use:** https://neatorobotics.com/terms-and-conditions/
 * **In-App Purchasing:** No

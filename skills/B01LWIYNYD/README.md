@@ -20,5 +20,5 @@ Learn some facts about bowling using the Bowling Facts skill.
 * **ID:** amzn1.ask.skill.29b500ec-b219-4b77-b05a-802c117ca891
 * **ASIN:** B01LWIYNYD
 * **Author:** EPage
-* **Release Date:** September 20, 2016 @ 02:43:00
+* **Release Date:** September 20, 2016 @ 03:43:00
 * **In-App Purchasing:** No

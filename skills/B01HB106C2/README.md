@@ -20,5 +20,5 @@ Simply ask the Wacky Factory to tell you a fact from a hand-picked selection of 
 * **ID:** amzn1.echo-sdk-ams.app.f21efff3-05df-4027-aea4-8225fa806c07
 * **ASIN:** B01HB106C2
 * **Author:** Greg Stromire
-* **Release Date:** June 28, 2016 @ 06:15:39
+* **Release Date:** June 28, 2016 @ 07:15:39
 * **In-App Purchasing:** No

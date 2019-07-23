@@ -20,5 +20,5 @@ Ask Alexa for the latest powerball numbers and have them instantly returned alon
 * **ID:** amzn1.echo-sdk-ams.app.57d95e0e-6c00-4dc8-b1c9-f7c55aede570
 * **ASIN:** B01B1VD98G
 * **Author:** Jay Wallace
-* **Release Date:** January 25, 2016 @ 11:25:58
+* **Release Date:** January 25, 2016 @ 12:25:58
 * **In-App Purchasing:** No

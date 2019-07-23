@@ -20,5 +20,5 @@ The Holiday Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.fef51fe8-72fd-4a63-9a6a-f6231ed378de
 * **ASIN:** B01M4NAL4X
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:43:43
+* **Release Date:** October 26, 2016 @ 04:43:43
 * **In-App Purchasing:** No

@@ -21,5 +21,5 @@ This skill will be invaluable to you for the rest of your life because it will p
 * **ID:** amzn1.echo-sdk-ams.app.29d5604f-4bbd-40e7-8555-79df0d285f19
 * **ASIN:** B01FZAICPY
 * **Author:** David Yu
-* **Release Date:** May 27, 2016 @ 18:38:28
+* **Release Date:** May 27, 2016 @ 19:38:28
 * **In-App Purchasing:** No

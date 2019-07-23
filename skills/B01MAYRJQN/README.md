@@ -20,5 +20,5 @@ A range of different interesting facts about coffee. Give it a go by asking Alex
 * **ID:** amzn1.ask.skill.1bd395ae-0902-4e88-9f36-12ede4159ab2
 * **ASIN:** B01MAYRJQN
 * **Author:** Appidemic Studios
-* **Release Date:** October 21, 2016 @ 02:12:45
+* **Release Date:** October 21, 2016 @ 03:12:45
 * **In-App Purchasing:** No

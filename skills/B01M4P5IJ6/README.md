@@ -20,5 +20,5 @@ This skill will give you a report on the current or forecast air quality for Lon
 * **ID:** amzn1.ask.skill.2282934b-96f9-4af1-bd30-583a3530729f
 * **ASIN:** B01M4P5IJ6
 * **Author:** OOMap
-* **Release Date:** November 2, 2016 @ 01:12:57
+* **Release Date:** November 2, 2016 @ 02:12:57
 * **In-App Purchasing:** No

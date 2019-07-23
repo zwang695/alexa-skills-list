@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.88ae3337-abd4-45c5-b3c2-225bf415c56c
 * **ASIN:** B01N4AXRNR
 * **Author:** socialised.de
-* **Release Date:** December 15, 2016 @ 01:50:11
+* **Release Date:** December 15, 2016 @ 02:50:11
 * **In-App Purchasing:** No

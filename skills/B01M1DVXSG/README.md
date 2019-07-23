@@ -20,5 +20,5 @@ Our team has unrivalled breadth and depth of knowledge. Most of us have worked i
 * **ID:** amzn1.ask.skill.6b7a02df-bcf6-4515-8595-450e196c74c7
 * **ASIN:** B01M1DVXSG
 * **Author:** Refresh Mobile Ltd
-* **Release Date:** October 19, 2016 @ 03:42:07
+* **Release Date:** October 19, 2016 @ 04:42:07
 * **In-App Purchasing:** No

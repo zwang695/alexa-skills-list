@@ -20,5 +20,5 @@ Unofficial facts about the Die Hard movies. This Alexa app allows you to ask Ale
 * **ID:** amzn1.ask.skill.efbdae70-d3b3-4f28-9d7b-de8660479953
 * **ASIN:** B01LX80PPB
 * **Author:** Marty McLaughlin
-* **Release Date:** September 22, 2016 @ 05:42:11
+* **Release Date:** September 22, 2016 @ 06:42:11
 * **In-App Purchasing:** No

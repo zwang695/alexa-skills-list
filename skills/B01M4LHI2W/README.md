@@ -20,5 +20,5 @@ The Lookout Pass Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.e6598d10-00d1-493d-83a9-2c8bc7644fec
 * **ASIN:** B01M4LHI2W
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:47:43
+* **Release Date:** October 21, 2016 @ 15:47:43
 * **In-App Purchasing:** No

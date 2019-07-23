@@ -20,5 +20,5 @@ Ketosis is a normal metabolic process, something your body does to keep working.
 * **ID:** amzn1.echo-sdk-ams.app.04c6b99f-aa88-4990-95b8-83ed22c7d043
 * **ASIN:** B01I8UUCPQ
 * **Author:** iamsanch
-* **Release Date:** July 13, 2016 @ 06:57:48
+* **Release Date:** July 13, 2016 @ 07:57:48
 * **In-App Purchasing:** No

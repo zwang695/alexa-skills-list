@@ -20,5 +20,5 @@ A skill that tells facts about the Minnesota Wild, an NHL team from St. Paul, Mi
 * **ID:** amzn1.ask.skill.954c487a-fb7b-4332-8432-d6c9acc25d1b
 * **ASIN:** B01MRSHRG7
 * **Author:** Nicolas Oman
-* **Release Date:** December 17, 2016 @ 06:19:10
+* **Release Date:** December 17, 2016 @ 07:19:10
 * **In-App Purchasing:** No

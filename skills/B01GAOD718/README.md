@@ -20,5 +20,5 @@ Cashback for Credit Cards which has quaterly rewards like Discover and Chase. Th
 * **ID:** amzn1.echo-sdk-ams.app.99ddb0f4-bbe6-40b1-8ab3-9b7756ba6b74
 * **ASIN:** B01GAOD718
 * **Author:** Isha Technologies
-* **Release Date:** May 31, 2016 @ 08:38:33
+* **Release Date:** May 31, 2016 @ 09:38:33
 * **In-App Purchasing:** No

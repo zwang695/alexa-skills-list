@@ -20,5 +20,5 @@ This skill will let you ask for small bits of video game trivia. It will also pr
 * **ID:** amzn1.ask.skill.fa849008-541e-4a1f-b847-93134eee3ba7
 * **ASIN:** B01M4HEVQ3
 * **Author:** AnalogFolk
-* **Release Date:** October 18, 2016 @ 02:42:17
+* **Release Date:** October 18, 2016 @ 03:42:17
 * **In-App Purchasing:** No

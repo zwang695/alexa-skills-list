@@ -22,5 +22,5 @@ Feel free to ask Alexa for "help" or to "exit" anytime.  Enjoy!
 * **ID:** amzn1.ask.skill.a24fe11a-2ce2-4cf0-bc58-ff5bc3c1e930
 * **ASIN:** B01M4IIOHH
 * **Author:** Andrew Corum
-* **Release Date:** October 27, 2016 @ 04:45:49
+* **Release Date:** October 27, 2016 @ 05:45:49
 * **In-App Purchasing:** No

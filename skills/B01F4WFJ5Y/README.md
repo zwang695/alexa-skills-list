@@ -25,6 +25,6 @@ If you have any questions, please visit the mydlink Home with Alexa at http://us
 * **ID:** amzn1.ask.skill.80e34e23-0a3a-4631-985f-24974b844ff9
 * **ASIN:** B01F4WFJ5Y
 * **Author:** Dlink
-* **Release Date:** July 6, 2016 @ 16:57:14
+* **Release Date:** July 6, 2016 @ 17:57:14
 * **Privacy Policy:** https://www.mydlink.com/privacyPolicy
 * **In-App Purchasing:** No

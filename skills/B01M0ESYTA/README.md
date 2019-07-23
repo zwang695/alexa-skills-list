@@ -20,5 +20,5 @@ Ask currency of any country on the go.
 * **ID:** amzn1.ask.skill.31a2c3da-209f-493e-8085-de315ac72c4e
 * **ASIN:** B01M0ESYTA
 * **Author:** nitin
-* **Release Date:** September 28, 2016 @ 18:12:39
+* **Release Date:** September 28, 2016 @ 19:12:39
 * **In-App Purchasing:** No

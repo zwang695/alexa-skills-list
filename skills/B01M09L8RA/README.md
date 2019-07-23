@@ -20,5 +20,5 @@ The Manning Park Resort Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.a07b8ad2-655b-4356-b9c5-91f6a6822abc
 * **ASIN:** B01M09L8RA
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:56:22
+* **Release Date:** October 20, 2016 @ 03:56:22
 * **In-App Purchasing:** No

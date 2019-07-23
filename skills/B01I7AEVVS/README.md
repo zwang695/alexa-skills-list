@@ -20,5 +20,5 @@ Bowling Facts from the past and present time
 * **ID:** amzn1.echo-sdk-ams.app.df361222-5b9d-4ae4-b2ab-14d9c933bbcb
 * **ASIN:** B01I7AEVVS
 * **Author:** Brian Hager
-* **Release Date:** July 20, 2016 @ 09:27:27
+* **Release Date:** July 20, 2016 @ 10:27:27
 * **In-App Purchasing:** No

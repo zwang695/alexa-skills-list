@@ -20,5 +20,5 @@ The Willamette Pass Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.62e16395-da49-423d-89d6-1df2f261bd2b
 * **ASIN:** B01M4NBM4P
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:47:36
+* **Release Date:** October 26, 2016 @ 04:47:36
 * **In-App Purchasing:** No

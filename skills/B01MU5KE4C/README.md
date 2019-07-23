@@ -20,5 +20,5 @@ The skill gives facts about pinball machines - historical, about the game, about
 * **ID:** amzn1.ask.skill.4f770631-9b50-404b-89a9-66d4c923efc6
 * **ASIN:** B01MU5KE4C
 * **Author:** Anders Bjorkman
-* **Release Date:** January 2, 2017 @ 22:49:14
+* **Release Date:** January 2, 2017 @ 23:49:14
 * **In-App Purchasing:** No

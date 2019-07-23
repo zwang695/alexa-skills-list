@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.b63af603-40e2-4cbb-b9bc-234f8892e19f
 * **ASIN:** B01N1KV6AY
 * **Author:** VUI Apps
-* **Release Date:** December 9, 2016 @ 06:49:16
+* **Release Date:** December 9, 2016 @ 07:49:16
 * **In-App Purchasing:** No

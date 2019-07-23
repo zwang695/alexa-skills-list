@@ -16,5 +16,5 @@ A list of eleven interesting facts
 * **ID:** amzn1.ask.skill.9435fa56-1d18-4c7e-89ed-89ca98d7519d
 * **ASIN:** B01N6CM04F
 * **Author:** theEMM
-* **Release Date:** December 4, 2016 @ 23:05:24
+* **Release Date:** December 5, 2016 @ 00:05:24
 * **In-App Purchasing:** No

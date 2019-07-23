@@ -30,5 +30,5 @@ To know more about Fresh Digital Group, you can start by asking.
 * **ID:** amzn1.ask.skill.d2ef5747-554a-4039-b497-fc631ae3f523
 * **ASIN:** B01M9E7NNQ
 * **Author:** FreshDigitalGroup
-* **Release Date:** November 2, 2016 @ 02:43:15
+* **Release Date:** November 2, 2016 @ 03:43:15
 * **In-App Purchasing:** No

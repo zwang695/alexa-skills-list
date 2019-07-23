@@ -20,5 +20,5 @@ Recite poetry by staRpauSe, who has been crystalizing his consciousness in haiku
 * **ID:** amzn1.ask.skill.cb400299-8646-4fa3-8ff9-9b328f4e7833
 * **ASIN:** B01NBDFBBG
 * **Author:** STARPAUSE.COM
-* **Release Date:** November 28, 2016 @ 05:05:25
+* **Release Date:** November 28, 2016 @ 06:05:25
 * **In-App Purchasing:** No

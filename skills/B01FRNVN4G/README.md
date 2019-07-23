@@ -20,5 +20,5 @@ Boost your indie credibility with interesting facts about your favorite bands. A
 * **ID:** amzn1.echo-sdk-ams.app.8f616f2b-3330-443e-b20b-511fd981609e
 * **ASIN:** B01FRNVN4G
 * **Author:** Scott Auth
-* **Release Date:** May 24, 2016 @ 09:08:53
+* **Release Date:** May 24, 2016 @ 10:08:53
 * **In-App Purchasing:** No

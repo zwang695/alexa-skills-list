@@ -24,5 +24,5 @@ Think you can answer?
 * **ID:** amzn1.echo-sdk-ams.app.2f84d974-a15b-4b6c-8697-d47a6a27165d
 * **ASIN:** B01BFV8EIM
 * **Author:** Jovial
-* **Release Date:** February 3, 2016 @ 15:54:24
+* **Release Date:** February 3, 2016 @ 16:54:24
 * **In-App Purchasing:** No

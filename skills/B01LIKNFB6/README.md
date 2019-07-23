@@ -20,5 +20,5 @@ this  skill  tells  uranus  jokes
 * **ID:** amzn1.ask.skill.bec9077d-c756-401f-a377-38a2ecb2ed98
 * **ASIN:** B01LIKNFB6
 * **Author:** DCOM
-* **Release Date:** September 5, 2016 @ 03:03:17
+* **Release Date:** September 5, 2016 @ 04:03:17
 * **In-App Purchasing:** No

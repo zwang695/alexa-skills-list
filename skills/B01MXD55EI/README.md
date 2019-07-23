@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.7f2c533a-3d86-44ba-b74e-a53598e7a077
 * **ASIN:** B01MXD55EI
 * **Author:** feedme
-* **Release Date:** November 15, 2016 @ 02:05:42
+* **Release Date:** November 15, 2016 @ 03:05:42
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.11801e42-ae09-4753-9d42-d57333aaec04
 * **ASIN:** B01N2PL8AZ
 * **Author:** emats
-* **Release Date:** December 6, 2016 @ 02:35:33
+* **Release Date:** December 6, 2016 @ 03:35:33
 * **In-App Purchasing:** No

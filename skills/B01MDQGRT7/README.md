@@ -20,5 +20,5 @@ The Gore Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.1dd8167e-a429-47a7-b6ab-eea27343e61a
 * **ASIN:** B01MDQGRT7
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:45:50
+* **Release Date:** October 26, 2016 @ 03:45:50
 * **In-App Purchasing:** No

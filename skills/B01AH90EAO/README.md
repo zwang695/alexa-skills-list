@@ -22,5 +22,5 @@ Please note: Abra can guess ANY character, and some questions may not be suitabl
 * **ID:** amzn1.echo-sdk-ams.app.7fe0688e-93d6-4de3-9525-88dcfa4f439b
 * **ASIN:** B01AH90EAO
 * **Author:** Recursive Records
-* **Release Date:** January 11, 2016 @ 18:17:10
+* **Release Date:** January 11, 2016 @ 19:17:10
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill allows users to ask Stone Ridge School for the menu for a given day. 
 * **ID:** amzn1.echo-sdk-ams.app.f6f4f385-5119-4bbe-847e-b17cb98122eb
 * **ASIN:** B01AS5F902
 * **Author:** Joe McMahon
-* **Release Date:** January 18, 2016 @ 12:43:31
+* **Release Date:** January 18, 2016 @ 13:43:31
 * **In-App Purchasing:** No

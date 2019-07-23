@@ -20,5 +20,5 @@ This is a cricket fact skill added to Alexa. When you ask Alexa about some inter
 * **ID:** amzn1.ask.skill.95e17d27-2c1c-48ef-93f4-5357776b26c1
 * **ASIN:** B01KPZZH4I
 * **Author:** Yogiraj Awati
-* **Release Date:** August 31, 2016 @ 05:02:49
+* **Release Date:** August 31, 2016 @ 06:02:49
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Vashon Island is a small island in Puget Sound. Use this skill to learn random f
 * **ID:** amzn1.ask.skill.e8076410-2417-4fad-803a-fa6c7842f489
 * **ASIN:** B01LZ9J0RE
 * **Author:** Wellerwerks
-* **Release Date:** October 5, 2016 @ 00:12:29
+* **Release Date:** October 5, 2016 @ 01:12:29
 * **In-App Purchasing:** No

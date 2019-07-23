@@ -20,5 +20,5 @@ The Waterville Valley Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.c39cf831-dcdb-432b-8eb9-ca24843943eb
 * **ASIN:** B01M8MFZNU
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:45:04
+* **Release Date:** October 26, 2016 @ 03:45:04
 * **In-App Purchasing:** No

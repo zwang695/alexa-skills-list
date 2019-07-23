@@ -20,5 +20,5 @@ This skill allows you to quickly and easily learn about Woot's daily deals on an
 * **ID:** amzn1.echo-sdk-ams.app.fdf85eaa-bfb1-4cd3-98c5-6860e92d5439
 * **ASIN:** B01949MQ4U
 * **Author:** Sam Harris
-* **Release Date:** December 8, 2015 @ 19:00:25
+* **Release Date:** December 8, 2015 @ 20:00:25
 * **In-App Purchasing:** No

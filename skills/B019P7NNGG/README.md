@@ -24,5 +24,5 @@ This skill is fun to play alone, or compete with your family and friends to see 
 * **ID:** amzn1.echo-sdk-ams.app.930650cc-2fe8-4b38-a536-7a5d09832fe2
 * **ASIN:** B019P7NNGG
 * **Author:** Matt Case
-* **Release Date:** December 22, 2015 @ 12:45:34
+* **Release Date:** December 22, 2015 @ 13:45:34
 * **In-App Purchasing:** No

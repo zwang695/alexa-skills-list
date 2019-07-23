@@ -18,5 +18,5 @@ Generate random numbers directly in Alexa. In the future more options will be ad
 * **ID:** amzn1.ask.skill.7da93716-df16-4cbf-9b92-32a35246e4e8
 * **ASIN:** B01NBKP13Y
 * **Author:** Adrian Tello
-* **Release Date:** December 26, 2016 @ 00:19:34
+* **Release Date:** December 26, 2016 @ 01:19:34
 * **In-App Purchasing:** No

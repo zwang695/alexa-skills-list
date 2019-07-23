@@ -21,5 +21,5 @@ Try this today and you will not be dissapointed!
 * **ID:** amzn1.ask.skill.e4d5abba-0a53-451e-9d86-ec45102a94b0
 * **ASIN:** B01MT0O3ZL
 * **Author:** CARE WORLD
-* **Release Date:** December 21, 2016 @ 05:19:36
+* **Release Date:** December 21, 2016 @ 06:19:36
 * **In-App Purchasing:** No

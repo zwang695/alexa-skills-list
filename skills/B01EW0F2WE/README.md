@@ -20,5 +20,5 @@ This is regular "purple one" trivia game. The user will simply launch the skill 
 * **ID:** amzn1.echo-sdk-ams.app.9173d4f0-c9a6-42ab-b67e-1ec6b4cd4184
 * **ASIN:** B01EW0F2WE
 * **Author:** Javier Forero
-* **Release Date:** May 12, 2016 @ 04:38:35
+* **Release Date:** May 12, 2016 @ 05:38:35
 * **In-App Purchasing:** No

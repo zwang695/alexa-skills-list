@@ -26,5 +26,5 @@ There will many more interesting facts you will get to know while using the skil
 * **ID:** amzn1.ask.skill.fdd255f6-e5ca-4e29-9b21-287f7a1bdb41
 * **ASIN:** B01MSSQ1GV
 * **Author:** apjneeraj
-* **Release Date:** November 30, 2016 @ 08:35:44
+* **Release Date:** November 30, 2016 @ 09:35:44
 * **In-App Purchasing:** No

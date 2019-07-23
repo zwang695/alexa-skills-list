@@ -20,5 +20,5 @@ This skill will let you ask for small bits of comic book trivia. It will also pr
 * **ID:** amzn1.ask.skill.17b0f61a-6ff0-495a-847f-ebf3fd7bc24f
 * **ASIN:** B01MAUYNGQ
 * **Author:** AnalogFolk
-* **Release Date:** October 14, 2016 @ 02:46:06
+* **Release Date:** October 14, 2016 @ 03:46:06
 * **In-App Purchasing:** No

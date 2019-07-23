@@ -30,7 +30,7 @@ To get started, enable the CNN skill and then try saying things like:
 * **ID:** amzn1.ask.skill.c9f682ae-2626-446f-82b1-c6641af24240
 * **ASIN:** B01LX24O05
 * **Author:** CNN Interactive Group, Inc.
-* **Release Date:** October 31, 2016 @ 12:12:30
+* **Release Date:** October 31, 2016 @ 13:12:30
 * **Privacy Policy:** http://www.cnn.com/privacy
 * **Terms of Use:** http://www.cnn.com/terms
 * **In-App Purchasing:** No

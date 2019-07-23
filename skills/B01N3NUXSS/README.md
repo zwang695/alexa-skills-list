@@ -20,5 +20,5 @@ The Mount LaCrosse Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.53920c1b-8eec-43d2-8248-d12e0356fb35
 * **ASIN:** B01N3NUXSS
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:44:20
+* **Release Date:** November 5, 2016 @ 11:44:20
 * **In-App Purchasing:** No

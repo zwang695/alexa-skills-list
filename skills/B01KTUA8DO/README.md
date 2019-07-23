@@ -18,5 +18,5 @@ Ever wanted to know about Cerebral Palsy, a condition that effects millions of c
 * **ID:** amzn1.ask.skill.292e34d2-9deb-46aa-b7cd-72d6c26e4f25
 * **ASIN:** B01KTUA8DO
 * **Author:** Connecting People Software Co.
-* **Release Date:** August 24, 2016 @ 01:31:20
+* **Release Date:** August 24, 2016 @ 02:31:20
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ When you need motivation, you can ask Alexa to recite one of many motivational q
 * **ID:** amzn1.ask.skill.fbc7e677-4cc3-4a0f-a9f8-df82e3fbe68d
 * **ASIN:** B01M4NFNLG
 * **Author:** Becky Andersen
-* **Release Date:** October 27, 2016 @ 04:45:42
+* **Release Date:** October 27, 2016 @ 05:45:42
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask for baby names. You can be specific and say "tell me a girl name", or just "
 * **ID:** amzn1.ask.skill.0e7105d2-71e3-40e7-8fb2-f13852b45bf4
 * **ASIN:** B01KLERR9Q
 * **Author:** Ivan Munteanu
-* **Release Date:** August 24, 2016 @ 02:01:26
+* **Release Date:** August 24, 2016 @ 03:01:26
 * **In-App Purchasing:** No

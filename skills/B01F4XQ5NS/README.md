@@ -26,7 +26,7 @@ You may choose to guess a 2,3,4 or 5 digit secret number. Alexa then chooses the
 * **ID:** amzn1.echo-sdk-ams.app.f16d46cc-afc6-496c-b3d3-4229349af0ed
 * **ASIN:** B01F4XQ5NS
 * **Author:** Skillsai
-* **Release Date:** May 9, 2016 @ 07:08:29
+* **Release Date:** May 9, 2016 @ 08:08:29
 * **Privacy Policy:** http://www.skillsai.com/privacy
 * **Terms of Use:** http://www.skillsai.com/terms
 * **In-App Purchasing:** No

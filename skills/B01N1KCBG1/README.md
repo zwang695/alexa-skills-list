@@ -20,5 +20,5 @@ Take a quiz to find out which type of dog breed you'd be!
 * **ID:** amzn1.ask.skill.057c9154-5ae3-40cb-8856-c0176144a7ef
 * **ASIN:** B01N1KCBG1
 * **Author:** Lydia O'Donnell
-* **Release Date:** November 25, 2016 @ 09:05:13
+* **Release Date:** November 25, 2016 @ 10:05:13
 * **In-App Purchasing:** No

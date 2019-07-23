@@ -16,5 +16,5 @@ This skill allows you to hear some interesting facts about hurricanes
 * **ID:** amzn1.ask.skill.34842265-6510-4fdf-b5eb-a1a393988663
 * **ASIN:** B01LY95AKM
 * **Author:** ED
-* **Release Date:** September 28, 2016 @ 18:13:10
+* **Release Date:** September 28, 2016 @ 19:13:10
 * **In-App Purchasing:** No

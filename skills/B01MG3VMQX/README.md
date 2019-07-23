@@ -16,5 +16,5 @@ Ask Alexa for a fact about the famous London's famous Tube network. Discover how
 * **ID:** amzn1.ask.skill.4797ce4b-ad8d-4191-9b42-8a40695beb06
 * **ASIN:** B01MG3VMQX
 * **Author:** OOMap
-* **Release Date:** October 26, 2016 @ 01:14:51
+* **Release Date:** October 26, 2016 @ 02:14:51
 * **In-App Purchasing:** No

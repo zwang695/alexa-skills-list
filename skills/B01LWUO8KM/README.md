@@ -20,5 +20,5 @@ The Smart Phone Facts skill allows you to get interesting and helpful tips about
 * **ID:** amzn1.ask.skill.ae19d834-3421-4b9c-9be6-4a5483313360
 * **ASIN:** B01LWUO8KM
 * **Author:** BlogAndCode
-* **Release Date:** September 20, 2016 @ 04:42:43
+* **Release Date:** September 20, 2016 @ 05:42:43
 * **In-App Purchasing:** No

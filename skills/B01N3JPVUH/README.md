@@ -20,5 +20,5 @@ The Mount Pakenham Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.35ba6c29-436a-47f3-98e4-e1a32eee6bcf
 * **ASIN:** B01N3JPVUH
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:14:30
+* **Release Date:** November 5, 2016 @ 12:14:30
 * **In-App Purchasing:** No

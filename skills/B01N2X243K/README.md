@@ -16,5 +16,5 @@ Alexa skill to check real time flight status and announce the estimated arrival 
 * **ID:** amzn1.ask.skill.d7b520cc-5f45-4eae-bec6-efc216c9401d
 * **ASIN:** B01N2X243K
 * **Author:** Ashwin Swaroop
-* **Release Date:** December 29, 2016 @ 02:49:46
+* **Release Date:** December 29, 2016 @ 03:49:46
 * **In-App Purchasing:** No

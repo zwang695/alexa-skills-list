@@ -22,5 +22,5 @@ Make sure to follow the example phrases provided, otherwise Runtime Helper won't
 * **ID:** amzn1.echo-sdk-ams.app.e097b64c-2cc6-442b-9782-e45a8e64e8a9
 * **ASIN:** B01DL1OKSM
 * **Author:** Jason Cromer
-* **Release Date:** April 1, 2016 @ 17:02:23
+* **Release Date:** April 1, 2016 @ 18:02:23
 * **In-App Purchasing:** No

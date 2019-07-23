@@ -20,5 +20,5 @@ The Ornamental Plant Fact Skill gives information about particular plants such a
 * **ID:** amzn1.ask.skill.e1dd99df-df21-46b0-88fc-382ba5488392
 * **ASIN:** B01N53ZX6E
 * **Author:** Daniel McGlinchey
-* **Release Date:** November 21, 2016 @ 00:05:32
+* **Release Date:** November 21, 2016 @ 01:05:32
 * **In-App Purchasing:** No

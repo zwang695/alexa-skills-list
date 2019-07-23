@@ -20,5 +20,5 @@ The Hoodoo Ski Area Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.3d670b73-a473-4a83-b9a9-3b0595c0fab8
 * **ASIN:** B01M31E2XX
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:46:48
+* **Release Date:** October 26, 2016 @ 04:46:48
 * **In-App Purchasing:** No

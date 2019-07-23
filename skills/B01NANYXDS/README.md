@@ -18,5 +18,5 @@ Icon made by Freepik from http://www.flaticon.com.
 * **ID:** amzn1.ask.skill.3f9f3baf-e084-4677-8d68-51abc6e50a4b
 * **ASIN:** B01NANYXDS
 * **Author:** Scott Bouloutian
-* **Release Date:** December 30, 2016 @ 03:49:08
+* **Release Date:** December 30, 2016 @ 04:49:08
 * **In-App Purchasing:** No

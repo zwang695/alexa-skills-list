@@ -20,5 +20,5 @@ Mirror Mirror would praise your beauty. This is an idea taken from the magical m
 * **ID:** amzn1.ask.skill.63bc9ca1-0d40-4b5e-9d42-a1b96905f069
 * **ASIN:** B01KX0XTEA
 * **Author:** Khoa Nguyen
-* **Release Date:** August 25, 2016 @ 02:02:57
+* **Release Date:** August 25, 2016 @ 03:02:57
 * **In-App Purchasing:** No

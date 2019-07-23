@@ -20,5 +20,5 @@ The Eagle Rock Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.b3640013-096e-4046-894e-afb79a2c7b87
 * **ASIN:** B01MDV5NNQ
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:14:46
+* **Release Date:** November 4, 2016 @ 09:14:46
 * **In-App Purchasing:** No

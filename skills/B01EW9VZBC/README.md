@@ -20,5 +20,5 @@ Richmond, Virginia is historically important in United State's history.  It was 
 * **ID:** amzn1.echo-sdk-ams.app.3192747d-c299-4fde-948c-b592baedc629
 * **ASIN:** B01EW9VZBC
 * **Author:** Tom Hubbard
-* **Release Date:** April 29, 2016 @ 18:08:30
+* **Release Date:** April 29, 2016 @ 19:08:30
 * **In-App Purchasing:** No

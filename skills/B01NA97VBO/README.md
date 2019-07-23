@@ -21,7 +21,7 @@ For more information and to receive the Devotionals Daily email version, visit D
 * **ID:** amzn1.ask.skill.846fa0aa-8a59-4b29-b0c4-e3ffb00bfc3c
 * **ASIN:** B01NA97VBO
 * **Author:** HarperCollins Christian Publishing
-* **Release Date:** December 6, 2016 @ 18:19:07
+* **Release Date:** December 6, 2016 @ 19:19:07
 * **Privacy Policy:** http://www.harpercollinschristian.com/privacy
 * **Terms of Use:** http://www.harpercollinschristian.com/terms
 * **In-App Purchasing:** No

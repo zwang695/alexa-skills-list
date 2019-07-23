@@ -20,5 +20,5 @@ This is a skill I made so I can learn the fundamental's of the Amazon Alexa Skil
 * **ID:** amzn1.ask.skill.b8c4924e-970f-48d8-bae8-b60e17596275
 * **ASIN:** B01K19EBCM
 * **Author:** Samay Shamdasani
-* **Release Date:** August 10, 2016 @ 04:37:27
+* **Release Date:** August 10, 2016 @ 05:37:27
 * **In-App Purchasing:** No

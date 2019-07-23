@@ -20,5 +20,5 @@ Wake up and start your day with a Motivation/Inspirational  Quotes, or end your 
 * **ID:** amzn1.ask.skill.fdb11219-8074-4f95-be4a-d901c8fa22a8
 * **ASIN:** B01MYZSP93
 * **Author:** personal
-* **Release Date:** December 15, 2016 @ 04:49:54
+* **Release Date:** December 15, 2016 @ 05:49:54
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ Free API Source: https://www.nea.gov.sg/api/
 * **ID:** amzn1.ask.skill.7d319510-8316-4179-93be-7bf9c18cb416
 * **ASIN:** B01N0UZI4P
 * **Author:** Shyne Song Chuang
-* **Release Date:** January 3, 2017 @ 05:18:53
+* **Release Date:** January 3, 2017 @ 06:18:53
 * **In-App Purchasing:** No

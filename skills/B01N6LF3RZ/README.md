@@ -20,5 +20,5 @@ Alexa skill that provides users with random riddles.
 * **ID:** amzn1.ask.skill.2ea82a55-9a66-4abb-bcdb-667ce8273929
 * **ASIN:** B01N6LF3RZ
 * **Author:** Victor Mao
-* **Release Date:** January 2, 2017 @ 22:49:20
+* **Release Date:** January 2, 2017 @ 23:49:20
 * **In-App Purchasing:** No

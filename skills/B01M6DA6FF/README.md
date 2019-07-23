@@ -20,5 +20,5 @@ The Canaan Valley Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.78ee0b68-c3c6-4d14-9738-b837a913aa56
 * **ASIN:** B01M6DA6FF
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:43:46
+* **Release Date:** November 5, 2016 @ 11:43:46
 * **In-App Purchasing:** No

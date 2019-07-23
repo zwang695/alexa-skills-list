@@ -20,5 +20,5 @@ How much do you know about US National Parks? Test your knowledge of history, ge
 * **ID:** amzn1.ask.skill.60142486-0959-49cc-be29-219c67517d75
 * **ASIN:** B01LYUZ3TY
 * **Author:** Amanda S
-* **Release Date:** September 20, 2016 @ 04:42:48
+* **Release Date:** September 20, 2016 @ 05:42:48
 * **In-App Purchasing:** No

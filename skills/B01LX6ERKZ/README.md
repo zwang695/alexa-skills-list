@@ -20,5 +20,5 @@ Learn about United States History from the civil war to facts about Martin Luthe
 * **ID:** amzn1.ask.skill.2722230d-937e-451b-b376-47449d054749
 * **ASIN:** B01LX6ERKZ
 * **Author:** Emily Lam
-* **Release Date:** September 17, 2016 @ 04:11:45
+* **Release Date:** September 17, 2016 @ 05:11:45
 * **In-App Purchasing:** No

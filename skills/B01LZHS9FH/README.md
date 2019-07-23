@@ -16,5 +16,5 @@ This handy dandy skill allows Alexa to suggest any one of a whopping eight movie
 * **ID:** amzn1.ask.skill.c4219d69-fffe-4fb9-b4ee-c24754e26c1a
 * **ASIN:** B01LZHS9FH
 * **Author:** Yvonne Uwah
-* **Release Date:** September 22, 2016 @ 02:12:29
+* **Release Date:** September 22, 2016 @ 03:12:29
 * **In-App Purchasing:** No

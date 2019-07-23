@@ -20,5 +20,5 @@ The Marmot Basin Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.ac2c0d1e-7f42-4f2c-84db-ae4037e2129c
 * **ASIN:** B01M09L3CK
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:46:39
+* **Release Date:** October 20, 2016 @ 04:46:39
 * **In-App Purchasing:** No

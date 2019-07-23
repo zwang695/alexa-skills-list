@@ -20,7 +20,7 @@ This game asks questions to test your knowledge of the different types of electr
 * **ID:** amzn1.ask.skill.274d86a1-3954-465a-b631-d5b42edcd359
 * **ASIN:** B01JDN4DNY
 * **Author:** Singular Software Inc.
-* **Release Date:** August 4, 2016 @ 06:11:26
+* **Release Date:** August 4, 2016 @ 07:11:26
 * **Privacy Policy:** http://singsoftnext.com/policies/
 * **Terms of Use:** http://singsoftnext.com/policies/
 * **In-App Purchasing:** No

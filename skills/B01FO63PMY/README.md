@@ -22,5 +22,5 @@ There is no guarantee you will learn anything from this.
 * **ID:** amzn1.echo-sdk-ams.app.ab49be64-99f3-45cd-ad47-b820695fa6fe
 * **ASIN:** B01FO63PMY
 * **Author:** Chinh
-* **Release Date:** May 21, 2016 @ 01:38:36
+* **Release Date:** May 21, 2016 @ 02:38:36
 * **In-App Purchasing:** No

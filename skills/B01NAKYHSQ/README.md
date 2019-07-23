@@ -21,5 +21,5 @@ Hey, it doesn't get any better than this, right?!
 * **ID:** amzn1.ask.skill.d919d9d5-3752-409c-8e39-10ed616e9dae
 * **ASIN:** B01NAKYHSQ
 * **Author:** The Magic Couple
-* **Release Date:** December 28, 2016 @ 00:19:41
+* **Release Date:** December 28, 2016 @ 01:19:41
 * **In-App Purchasing:** No

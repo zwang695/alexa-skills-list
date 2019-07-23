@@ -20,5 +20,5 @@ Gives a knowledge, usage and information about an item
 * **ID:** amzn1.echo-sdk-ams.app.2b203f18-08ce-44df-9df2-7dbd1398fe49
 * **ASIN:** B01GQOOQAS
 * **Author:** Sandeep
-* **Release Date:** June 9, 2016 @ 02:39:31
+* **Release Date:** June 9, 2016 @ 03:39:31
 * **In-App Purchasing:** No

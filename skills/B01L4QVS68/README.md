@@ -18,5 +18,5 @@ This app will generate a random number between 1 and 100.
 * **ID:** amzn1.ask.skill.9443ef1e-47cd-4b0a-9dbb-4fb0078d411e
 * **ASIN:** B01L4QVS68
 * **Author:** Alex Shortt
-* **Release Date:** August 30, 2016 @ 05:32:53
+* **Release Date:** August 30, 2016 @ 06:32:53
 * **In-App Purchasing:** No

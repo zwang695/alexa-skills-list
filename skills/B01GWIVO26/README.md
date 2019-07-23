@@ -27,5 +27,5 @@ Have fun and enjoy!
 * **ID:** amzn1.echo-sdk-ams.app.e52a4556-f545-4791-a7de-b8a8f9f70f79
 * **ASIN:** B01GWIVO26
 * **Author:** marq
-* **Release Date:** June 23, 2016 @ 05:45:41
+* **Release Date:** June 23, 2016 @ 06:45:41
 * **In-App Purchasing:** No

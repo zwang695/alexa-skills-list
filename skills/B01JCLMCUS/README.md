@@ -20,5 +20,5 @@ Alexa will ask the player with an acronym and four multiple choice answers.  The
 * **ID:** amzn1.ask.skill.022f576f-8db1-43d5-a90d-f3f1abd4d2f0
 * **ASIN:** B01JCLMCUS
 * **Author:** Brian Hager
-* **Release Date:** August 1, 2016 @ 06:56:35
+* **Release Date:** August 1, 2016 @ 07:56:35
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill tells the user facts about space. It comes with 50 facts, ranging fro
 * **ID:** amzn1.ask.skill.337a6721-42a4-411c-b8dd-3bbc3d6f23bc
 * **ASIN:** B01N5KKXWU
 * **Author:** mbankole
-* **Release Date:** January 3, 2017 @ 01:49:12
+* **Release Date:** January 3, 2017 @ 02:49:12
 * **In-App Purchasing:** No

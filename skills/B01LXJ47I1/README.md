@@ -20,5 +20,5 @@ If you haven't had enough facts about chickens in your life, this is the skill f
 * **ID:** amzn1.ask.skill.bf3ced9b-dfc1-410e-828e-9fcbb7fe6741
 * **ASIN:** B01LXJ47I1
 * **Author:** danielstallworth
-* **Release Date:** September 17, 2016 @ 03:11:41
+* **Release Date:** September 17, 2016 @ 04:11:41
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Four Lakes Village Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.e8f16a83-3b84-4414-ab3b-8132dbf9db07
 * **ASIN:** B01M3S937L
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:17:44
+* **Release Date:** October 21, 2016 @ 15:17:44
 * **In-App Purchasing:** No

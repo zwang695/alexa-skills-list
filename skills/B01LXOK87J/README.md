@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.06527f37-d3bd-45eb-9392-7db8e31c0f58
 * **ASIN:** B01LXOK87J
 * **Author:** mKeRix
-* **Release Date:** October 25, 2016 @ 01:46:09
+* **Release Date:** October 25, 2016 @ 02:46:09
 * **In-App Purchasing:** No

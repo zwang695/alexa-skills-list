@@ -20,5 +20,5 @@ Crystal Ball is a fortune teller skill. Alexa prompts you to first focus on a ye
 * **ID:** amzn1.echo-sdk-ams.app.713be741-ed23-4bd0-8090-4b5931b9f05f
 * **ASIN:** B017OBKT2Q
 * **Author:** LME Skills
-* **Release Date:** November 6, 2015 @ 14:10:11
+* **Release Date:** November 6, 2015 @ 15:10:11
 * **In-App Purchasing:** No

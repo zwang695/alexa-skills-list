@@ -20,5 +20,5 @@ Test your knowledge of Halloween trivia with five spooky questions.
 * **ID:** amzn1.ask.skill.27df62fb-9b23-46aa-9c7a-3220edef20cf
 * **ASIN:** B01N3P2Z4H
 * **Author:** DPT2
-* **Release Date:** November 10, 2016 @ 00:12:50
+* **Release Date:** November 10, 2016 @ 01:12:50
 * **In-App Purchasing:** No

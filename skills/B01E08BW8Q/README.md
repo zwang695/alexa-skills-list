@@ -20,5 +20,5 @@ Improve your knowledge of physics with this free helpful trivia game. Alexa will
 * **ID:** amzn1.echo-sdk-ams.app.03c49457-aaca-4174-842f-b2154c62e36d
 * **ASIN:** B01E08BW8Q
 * **Author:** Obligatory
-* **Release Date:** April 11, 2016 @ 05:32:31
+* **Release Date:** April 11, 2016 @ 06:32:31
 * **In-App Purchasing:** No

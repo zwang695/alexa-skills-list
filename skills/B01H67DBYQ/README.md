@@ -20,5 +20,5 @@ This is a list of fish facts.
 * **ID:** amzn1.echo-sdk-ams.app.ffe3b988-5a2f-464b-8e69-6930d2b61657
 * **ASIN:** B01H67DBYQ
 * **Author:** Sean
-* **Release Date:** June 20, 2016 @ 04:45:31
+* **Release Date:** June 20, 2016 @ 05:45:31
 * **In-App Purchasing:** No

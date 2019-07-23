@@ -26,5 +26,5 @@ https://www.amazon.com/gp/help/customer/display.html?nodeId=201602060
 * **ID:** amzn1.ask.skill.f6dead19-2919-4826-a9e2-3a26372ba70a
 * **ASIN:** B01MFAX8EU
 * **Author:** Daniel Benjamin
-* **Release Date:** October 31, 2016 @ 12:42:44
+* **Release Date:** October 31, 2016 @ 13:42:44
 * **In-App Purchasing:** No

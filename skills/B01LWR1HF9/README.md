@@ -20,5 +20,5 @@ This Alexa skill is loaded with over 75 date amazing ideas. Just ask Alexa for a
 * **ID:** amzn1.ask.skill.6f2af0f0-b860-4313-9f54-35d3b986808e
 * **ASIN:** B01LWR1HF9
 * **Author:** Evan Callia
-* **Release Date:** October 7, 2016 @ 06:11:52
+* **Release Date:** October 7, 2016 @ 07:11:52
 * **In-App Purchasing:** No

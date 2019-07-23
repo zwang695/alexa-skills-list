@@ -20,5 +20,5 @@ Geometry is a branch of mathematics that is thousands of years old and still vit
 * **ID:** amzn1.ask.skill.71353064-d7bc-42d9-b3be-25cf4d6d83d9
 * **ASIN:** B01LZS8SY4
 * **Author:** Danny Kobayashi
-* **Release Date:** September 22, 2016 @ 03:42:11
+* **Release Date:** September 22, 2016 @ 04:42:11
 * **In-App Purchasing:** No

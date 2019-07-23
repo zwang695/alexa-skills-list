@@ -24,5 +24,5 @@ Over 100 crazy facts! New facts added weekly!
 * **ID:** amzn1.echo-sdk-ams.app.4413a57d-2eed-4ef8-a417-408ecf2e3923
 * **ASIN:** B01IJMIGWO
 * **Author:** Troogle
-* **Release Date:** July 20, 2016 @ 03:27:33
+* **Release Date:** July 20, 2016 @ 04:27:33
 * **In-App Purchasing:** No

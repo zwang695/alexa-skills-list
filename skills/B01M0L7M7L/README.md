@@ -20,5 +20,5 @@ The Grouse Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.6e9759f6-28a0-45a9-a1c9-4a58fc82c862
 * **ASIN:** B01M0L7M7L
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:14:33
+* **Release Date:** October 20, 2016 @ 04:14:33
 * **In-App Purchasing:** No

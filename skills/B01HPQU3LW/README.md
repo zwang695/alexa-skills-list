@@ -20,5 +20,5 @@ Get inspired by a collection of profound and insightful quotes from once of the 
 * **ID:** amzn1.echo-sdk-ams.app.157a59bf-3e0a-4798-b1fc-a9a40b2344b8
 * **ASIN:** B01HPQU3LW
 * **Author:** Dana Benson
-* **Release Date:** June 30, 2016 @ 05:27:36
+* **Release Date:** June 30, 2016 @ 06:27:36
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Play JewishMusic Stream (JewishMusicStream.com),  the best Jewish music online.
 * **ID:** amzn1.ask.skill.2fe8f28e-9ffa-4757-8f6d-f508713e4f06
 * **ASIN:** B01M8QKQEY
 * **Author:** LevTec
-* **Release Date:** November 9, 2016 @ 03:43:14
+* **Release Date:** November 9, 2016 @ 04:43:14
 * **In-App Purchasing:** No

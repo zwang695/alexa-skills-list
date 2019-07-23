@@ -20,5 +20,5 @@ The Wilmot Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.6cdbbde8-4899-44fd-b35e-d74f10b658f6
 * **ASIN:** B01MXCJXPY
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:44:32
+* **Release Date:** November 5, 2016 @ 11:44:32
 * **In-App Purchasing:** No

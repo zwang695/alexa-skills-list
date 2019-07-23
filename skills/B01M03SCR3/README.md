@@ -20,5 +20,5 @@ With this skill, Alexa with give you some fun facts about France. Have fun disco
 * **ID:** amzn1.ask.skill.a04cd06d-b459-4f7f-b874-69fc6711d1d2
 * **ASIN:** B01M03SCR3
 * **Author:** jjeannin
-* **Release Date:** September 17, 2016 @ 06:41:34
+* **Release Date:** September 17, 2016 @ 07:41:34
 * **In-App Purchasing:** No

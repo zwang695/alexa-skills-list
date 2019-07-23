@@ -26,5 +26,5 @@ The game can be played alone or with your family and friends. Play it to see who
 * **ID:** amzn1.echo-sdk-ams.app.23577ae0-6768-41bb-af4c-b7e880a00cb9
 * **ASIN:** B01H0XABEO
 * **Author:** Naichao Zhang
-* **Release Date:** June 15, 2016 @ 02:15:51
+* **Release Date:** June 15, 2016 @ 03:15:51
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill requires no special hardware account requirements beyond the echo. Th
 * **ID:** amzn1.ask.skill.ed434a93-3977-4a44-b2bb-85eceda2c454
 * **ASIN:** B01M4PKRAI
 * **Author:** Stolen Tarts Studio
-* **Release Date:** November 2, 2016 @ 03:14:25
+* **Release Date:** November 2, 2016 @ 04:14:25
 * **In-App Purchasing:** No

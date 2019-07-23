@@ -20,6 +20,6 @@ Meet our new intern! He's so excited to be working at imperson that he can't sto
 * **ID:** amzn1.echo-sdk-ams.app.ea738b17-dbf0-4eb8-b04f-b35046bb50a7
 * **ASIN:** B01E2DTXVC
 * **Author:** imperson
-* **Release Date:** April 19, 2016 @ 09:32:34
+* **Release Date:** April 19, 2016 @ 10:32:34
 * **Privacy Policy:** http://imperson.com
 * **In-App Purchasing:** No

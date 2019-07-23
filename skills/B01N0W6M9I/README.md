@@ -20,5 +20,5 @@ Orlando Facts provides a random fact about the city of Orlando, Florida. Invocat
 * **ID:** amzn1.ask.skill.e57b2c65-ca7e-4f21-9944-2d206175a93c
 * **ASIN:** B01N0W6M9I
 * **Author:** IOT
-* **Release Date:** January 2, 2017 @ 02:49:07
+* **Release Date:** January 2, 2017 @ 03:49:07
 * **In-App Purchasing:** No

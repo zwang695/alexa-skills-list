@@ -23,5 +23,5 @@ This skill may not be suitable for all ages. This skill provides instructions fo
 * **ID:** amzn1.echo-sdk-ams.app.0b5f3350-db8a-4754-a8dc-0ca8bbfd5d29
 * **ASIN:** B019D6LR8U
 * **Author:** Midnight Signal
-* **Release Date:** December 14, 2015 @ 17:24:54
+* **Release Date:** December 14, 2015 @ 18:24:54
 * **In-App Purchasing:** No

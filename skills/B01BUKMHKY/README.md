@@ -20,5 +20,5 @@ Ask Donald Trump a question, about his policies, or how he will make america gre
 * **ID:** amzn1.echo-sdk-ams.app.4c357994-13f3-42bb-8ef3-215199918139
 * **ASIN:** B01BUKMHKY
 * **Author:** Chris Moyer
-* **Release Date:** February 16, 2016 @ 17:20:45
+* **Release Date:** February 16, 2016 @ 18:20:45
 * **In-App Purchasing:** No

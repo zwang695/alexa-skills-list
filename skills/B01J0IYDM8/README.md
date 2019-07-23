@@ -20,5 +20,5 @@ This skill tells you some interesting facts about US National Parks.
 * **ID:** amzn1.ask.skill.9f984022-a5a6-46fd-84f4-3f05d78b9eac
 * **ASIN:** B01J0IYDM8
 * **Author:** Arpita
-* **Release Date:** July 27, 2016 @ 02:57:03
+* **Release Date:** July 27, 2016 @ 03:57:03
 * **In-App Purchasing:** No

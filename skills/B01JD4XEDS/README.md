@@ -16,5 +16,5 @@ The skill provides an inspirational prayer particularly suitable for use in morn
 * **ID:** amzn1.ask.skill.f3cb48f9-5e4d-4543-8c87-ec8ef2c1f7dd
 * **ASIN:** B01JD4XEDS
 * **Author:** Britton 2k
-* **Release Date:** August 2, 2016 @ 07:36:03
+* **Release Date:** August 2, 2016 @ 08:36:03
 * **In-App Purchasing:** No

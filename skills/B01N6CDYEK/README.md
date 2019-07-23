@@ -22,5 +22,5 @@ Use this skill to let Alexa decide your faith or help you when you cannot decide
 * **ID:** amzn1.ask.skill.132bc69f-93a6-4525-b71b-df786de02400
 * **ASIN:** B01N6CDYEK
 * **Author:** Jan Zawadzki
-* **Release Date:** December 3, 2016 @ 04:05:33
+* **Release Date:** December 3, 2016 @ 05:05:33
 * **In-App Purchasing:** No

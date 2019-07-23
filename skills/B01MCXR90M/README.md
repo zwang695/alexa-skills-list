@@ -20,5 +20,5 @@ The Mount Sunapee Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.bd817099-cdab-4823-a0cf-76014aa95c82
 * **ASIN:** B01MCXR90M
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:13:39
+* **Release Date:** October 26, 2016 @ 03:13:39
 * **In-App Purchasing:** No

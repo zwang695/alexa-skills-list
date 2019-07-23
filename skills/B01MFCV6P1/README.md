@@ -23,5 +23,5 @@ You can ask Alexa for the recipe for a Destroyer and she will tell you so you ca
 * **ID:** amzn1.ask.skill.d113ffdb-75a1-4b3d-9d60-8b1fe27e40f1
 * **ASIN:** B01MFCV6P1
 * **Author:** jordanjohnston
-* **Release Date:** November 9, 2016 @ 00:43:05
+* **Release Date:** November 9, 2016 @ 01:43:05
 * **In-App Purchasing:** No

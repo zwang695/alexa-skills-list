@@ -20,5 +20,5 @@ Ask this skill for facts on Vikings
 * **ID:** amzn1.ask.skill.61d916c1-0118-47d1-9f32-6dd43413c3ab
 * **ASIN:** B01M32SEEB
 * **Author:** Don Mills
-* **Release Date:** November 2, 2016 @ 02:14:00
+* **Release Date:** November 2, 2016 @ 03:14:00
 * **In-App Purchasing:** No

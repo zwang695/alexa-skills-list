@@ -20,5 +20,5 @@ The recommendations are based on a six-card deck with rules found in most Americ
 * **ID:** amzn1.ask.skill.b5bf5e2b-8452-4a1a-b6d7-09bec1d2396b
 * **ASIN:** B01M8NUVJ2
 * **Author:** Garrett Vargas
-* **Release Date:** November 2, 2016 @ 09:13:42
+* **Release Date:** November 2, 2016 @ 10:13:42
 * **In-App Purchasing:** No

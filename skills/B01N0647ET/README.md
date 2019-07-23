@@ -20,5 +20,5 @@ This skill will tell you random facts about whales. Need an Amazon Echo and inte
 * **ID:** amzn1.ask.skill.4d44981a-1abc-4a0a-bfee-59bc5a73db3c
 * **ASIN:** B01N0647ET
 * **Author:** FlackBack.io
-* **Release Date:** November 10, 2016 @ 00:12:38
+* **Release Date:** November 10, 2016 @ 01:12:38
 * **In-App Purchasing:** No

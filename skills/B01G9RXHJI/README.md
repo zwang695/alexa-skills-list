@@ -20,7 +20,7 @@ To become a naturalized U.S. citizen, one must pass the naturalization test. At 
 * **ID:** amzn1.echo-sdk-ams.app.453e9b50-26f3-44af-b986-150ed75eb52e
 * **ASIN:** B01G9RXHJI
 * **Author:** Sri
-* **Release Date:** May 30, 2016 @ 07:38:37
+* **Release Date:** May 30, 2016 @ 08:38:37
 * **Privacy Policy:** https://sites.google.com/site/alexanaturalizationtest/privacy-policy
 * **Terms of Use:** https://sites.google.com/site/alexanaturalizationtest/terms-of-use
 * **In-App Purchasing:** No

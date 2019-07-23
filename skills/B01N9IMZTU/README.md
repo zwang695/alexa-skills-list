@@ -22,5 +22,5 @@ Each game will result in a chore or a treat. Try your luck!
 * **ID:** amzn1.ask.skill.d37388cc-ed3f-44a1-b4fe-8ffbdabf69da
 * **ASIN:** B01N9IMZTU
 * **Author:** Jack Ng
-* **Release Date:** December 20, 2016 @ 09:50:57
+* **Release Date:** December 20, 2016 @ 10:50:57
 * **In-App Purchasing:** No

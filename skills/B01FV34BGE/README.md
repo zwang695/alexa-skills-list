@@ -31,7 +31,7 @@ New to Lyft? Download Lyft here! - https://www.lyft.com/invited/alexalyft
 * **ID:** amzn1.echo-sdk-ams.app.02338118-f3c6-4d37-b19e-c446be915df6
 * **ASIN:** B01FV34BGE
 * **Author:** Lyft
-* **Release Date:** June 8, 2016 @ 18:13:46
+* **Release Date:** June 8, 2016 @ 19:13:46
 * **Privacy Policy:** https://www.lyft.com/privacy
 * **Terms of Use:** https://www.lyft.com/terms
 * **In-App Purchasing:** Yes

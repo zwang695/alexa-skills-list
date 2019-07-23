@@ -20,5 +20,5 @@ This skill will recite facts about whiskey. Topics include history and statistic
 * **ID:** amzn1.ask.skill.5282cffd-b447-4e9e-b07a-be4b010b3ec2
 * **ASIN:** B01LWSACEC
 * **Author:** Michelle Wiginton
-* **Release Date:** October 8, 2016 @ 05:11:36
+* **Release Date:** October 8, 2016 @ 06:11:36
 * **In-App Purchasing:** No

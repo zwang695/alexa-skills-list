@@ -20,5 +20,5 @@ Welcome to Zork Dungeon, an unofficial fan version of the great adventure game k
 * **ID:** amzn1.echo-sdk-ams.app.c69944bd-c7f0-4f88-9eca-9abf14cbd5db
 * **ASIN:** B01LXZDXUV
 * **Author:** Arbel Industries
-* **Release Date:** November 2, 2016 @ 02:13:07
+* **Release Date:** November 2, 2016 @ 03:13:07
 * **In-App Purchasing:** No

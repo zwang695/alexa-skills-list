@@ -20,5 +20,5 @@ The Buck Hill Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.57229373-7777-4471-9d05-d7ca0ea02388
 * **ASIN:** B01M5DNRUV
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:18:25
+* **Release Date:** October 21, 2016 @ 15:18:25
 * **In-App Purchasing:** No

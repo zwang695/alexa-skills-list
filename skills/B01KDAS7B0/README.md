@@ -18,5 +18,5 @@ New questions and answers are added on a regular basis, so keep coming back to g
 * **ID:** amzn1.ask.skill.d952b856-e53b-4d3f-94c2-930623fd7c0d
 * **ASIN:** B01KDAS7B0
 * **Author:** Myers Design
-* **Release Date:** August 17, 2016 @ 06:52:51
+* **Release Date:** August 17, 2016 @ 07:52:51
 * **In-App Purchasing:** No

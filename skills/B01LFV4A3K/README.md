@@ -16,5 +16,5 @@ Open the skill and saying yes or no to continue the skill. Once finished, the sk
 * **ID:** amzn1.ask.skill.f06d7d59-2321-4bf0-83b7-49c3c956d288
 * **ASIN:** B01LFV4A3K
 * **Author:** Zealinz
-* **Release Date:** September 3, 2016 @ 03:33:31
+* **Release Date:** September 3, 2016 @ 04:33:31
 * **In-App Purchasing:** No

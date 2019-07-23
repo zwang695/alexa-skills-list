@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.9ee1311e-bcba-442f-ba0b-03724b6b16c2
 * **ASIN:** B01M18CEFH
 * **Author:** Rachel Mitchell
-* **Release Date:** October 15, 2016 @ 01:46:20
+* **Release Date:** October 15, 2016 @ 02:46:20
 * **In-App Purchasing:** No

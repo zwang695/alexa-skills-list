@@ -20,5 +20,5 @@ With Meal Ideas, Alexa will help you figure out what to make for your next meal.
 * **ID:** amzn1.ask.skill.e0441565-6374-4732-9c6d-80a3b41349ba
 * **ASIN:** B01J79ZD1K
 * **Author:** Ink Blots by TRD
-* **Release Date:** August 3, 2016 @ 01:41:45
+* **Release Date:** August 3, 2016 @ 02:41:45
 * **In-App Purchasing:** No

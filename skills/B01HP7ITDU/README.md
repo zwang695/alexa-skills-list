@@ -22,5 +22,5 @@ This quiz game was inspired by Dennis Bartel (@dennisbartel on Twitter) from KUS
 * **ID:** amzn1.echo-sdk-ams.app.a147d962-8d6b-4f8b-a251-12448225d90a
 * **ASIN:** B01HP7ITDU
 * **Author:** Scott Lawrence Lawson
-* **Release Date:** June 29, 2016 @ 07:57:47
+* **Release Date:** June 29, 2016 @ 08:57:47
 * **In-App Purchasing:** No

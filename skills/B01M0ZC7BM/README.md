@@ -20,5 +20,5 @@ Learn interesting facts about East Grand Rapids, Michigan.
 * **ID:** amzn1.ask.skill.da7c9101-d6e2-481b-bff6-d5093eeb366c
 * **ASIN:** B01M0ZC7BM
 * **Author:** Brandon Zylstra
-* **Release Date:** October 5, 2016 @ 06:41:40
+* **Release Date:** October 5, 2016 @ 07:41:40
 * **In-App Purchasing:** No

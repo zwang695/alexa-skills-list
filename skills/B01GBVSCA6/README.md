@@ -33,5 +33,5 @@ If the user needs additional time to think about the answer or if they want to h
 * **ID:** amzn1.echo-sdk-ams.app.14f87551-e771-406c-9668-cf8e9f694320
 * **ASIN:** B01GBVSCA6
 * **Author:** Aravind Raghunathan
-* **Release Date:** June 1, 2016 @ 08:08:38
+* **Release Date:** June 1, 2016 @ 09:08:38
 * **In-App Purchasing:** No

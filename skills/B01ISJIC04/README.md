@@ -21,5 +21,5 @@ When you start the game, it will tell you a statement related to computer scienc
 * **ID:** amzn1.ask.skill.3f2aabd3-2786-41a3-a177-d1333c07de40
 * **ASIN:** B01ISJIC04
 * **Author:** Shivansh Singh
-* **Release Date:** July 22, 2016 @ 06:57:00
+* **Release Date:** July 22, 2016 @ 07:57:00
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Selects from a random list of groan worthy bad dad jokes!
 * **ID:** amzn1.ask.skill.46c5fbe3-25b1-48fc-af47-e5dfad2a91bf
 * **ASIN:** B01LYOCV4M
 * **Author:** Darren Lucas
-* **Release Date:** October 5, 2016 @ 00:42:14
+* **Release Date:** October 5, 2016 @ 01:42:14
 * **In-App Purchasing:** No

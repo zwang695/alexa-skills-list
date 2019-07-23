@@ -20,5 +20,5 @@ Gyropedia.com is an Association of people who fly, build or regulate Gyroplanes,
 * **ID:** amzn1.echo-sdk-ams.app.1a066cd8-5fac-44c1-aac9-fdda79c80fca
 * **ASIN:** B01GZSMKIA
 * **Author:** Infinnissy
-* **Release Date:** October 5, 2016 @ 07:42:03
+* **Release Date:** October 5, 2016 @ 08:42:03
 * **In-App Purchasing:** No

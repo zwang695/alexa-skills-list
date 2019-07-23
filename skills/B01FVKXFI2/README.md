@@ -22,5 +22,5 @@ It uses a multiple-answer format to quiz users of various questions.
 * **ID:** amzn1.echo-sdk-ams.app.b4091cb6-7ef8-45d2-b5d5-2b90927cc8f8
 * **ASIN:** B01FVKXFI2
 * **Author:** Sinead Cheung
-* **Release Date:** June 7, 2016 @ 07:08:37
+* **Release Date:** June 7, 2016 @ 08:08:37
 * **In-App Purchasing:** No

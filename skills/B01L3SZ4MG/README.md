@@ -18,5 +18,5 @@ This skill gives a list of National Parks in the USA by State
 * **ID:** amzn1.ask.skill.324f8037-2986-4d12-9d79-84da39816229
 * **ASIN:** B01L3SZ4MG
 * **Author:** Sucheta Gangwal
-* **Release Date:** September 2, 2016 @ 01:04:03
+* **Release Date:** September 2, 2016 @ 02:04:03
 * **In-App Purchasing:** No

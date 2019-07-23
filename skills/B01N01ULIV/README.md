@@ -20,7 +20,7 @@ Winning 4D numbers skill brought to you by AsiaOne, Singapore Press Holdings. Gi
 * **ID:** amzn1.ask.skill.704e376c-eab5-4087-ba19-ec2baecfb87c
 * **ASIN:** B01N01ULIV
 * **Author:** SPH
-* **Release Date:** December 10, 2016 @ 08:19:29
+* **Release Date:** December 10, 2016 @ 09:19:29
 * **Privacy Policy:** http://sph.com.sg/legal/sph_privacy.html
 * **Terms of Use:** http://sph.com.sg/legal/website_tnc.html
 * **In-App Purchasing:** No

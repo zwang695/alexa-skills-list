@@ -22,5 +22,5 @@ Have fun and learn at your convenience!
 * **ID:** amzn1.ask.skill.66aadae3-8559-4c34-afdc-3053e3001cfe
 * **ASIN:** B01J06CGM4
 * **Author:** Network Automation Nerds LLC.
-* **Release Date:** August 19, 2016 @ 08:21:08
+* **Release Date:** August 19, 2016 @ 09:21:08
 * **In-App Purchasing:** No

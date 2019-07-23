@@ -36,5 +36,5 @@ All of the information provided comes from the Star Wars API (https://swapi.co/)
 * **ID:** amzn1.echo-sdk-ams.app.ac619ff9-1e85-45fe-84c5-9b8c39843680
 * **ASIN:** B01H2JVA96
 * **Author:** Mission Data LLC
-* **Release Date:** June 20, 2016 @ 04:15:30
+* **Release Date:** June 20, 2016 @ 05:15:30
 * **In-App Purchasing:** No

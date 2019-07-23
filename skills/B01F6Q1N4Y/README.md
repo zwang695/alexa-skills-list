@@ -21,5 +21,5 @@ With that knowledge, she can add up your score.
 * **ID:** amzn1.echo-sdk-ams.app.27f510a2-87cd-4c4e-a42a-ec006a4e5ea3
 * **ASIN:** B01F6Q1N4Y
 * **Author:** Bachelor Pad Development
-* **Release Date:** May 10, 2016 @ 08:38:33
+* **Release Date:** May 10, 2016 @ 09:38:33
 * **In-App Purchasing:** No

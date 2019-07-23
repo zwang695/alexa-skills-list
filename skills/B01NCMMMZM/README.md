@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.e0a306d5-9a29-4556-b249-fd06a091c7da
 * **ASIN:** B01NCMMMZM
 * **Author:** chasd-one
-* **Release Date:** December 24, 2016 @ 06:18:59
+* **Release Date:** December 24, 2016 @ 07:18:59
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ You can ask at any time, and the sandman will always tell them it's bedtime.
 * **ID:** amzn1.echo-sdk-ams.app.ad768966-b06c-4155-89dd-83abe61179c7
 * **ASIN:** B01GM73LI2
 * **Author:** Jer Warren
-* **Release Date:** June 22, 2016 @ 06:15:38
+* **Release Date:** June 22, 2016 @ 07:15:38
 * **In-App Purchasing:** No

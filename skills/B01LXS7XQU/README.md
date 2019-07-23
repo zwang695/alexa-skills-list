@@ -20,5 +20,5 @@ Sends the user a random fact
 * **ID:** amzn1.ask.skill.5bd6de6a-45cf-4a1f-babd-5685a9e012c5
 * **ASIN:** B01LXS7XQU
 * **Author:** Travis M Smith
-* **Release Date:** October 19, 2016 @ 02:12:21
+* **Release Date:** October 19, 2016 @ 03:12:21
 * **In-App Purchasing:** No

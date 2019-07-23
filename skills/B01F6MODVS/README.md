@@ -20,5 +20,5 @@ Airport Delay Info will give you a delay status and weather report for any airpo
 * **ID:** amzn1.echo-sdk-ams.app.505e8338-330b-4093-935a-f1abaf56a612
 * **ASIN:** B01F6MODVS
 * **Author:** Ramon Davila
-* **Release Date:** August 11, 2016 @ 02:37:48
+* **Release Date:** August 11, 2016 @ 03:37:48
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Do you have all of the items needed to make your breakfast, lunch, or dinner? In
 * **ID:** amzn1.ask.skill.ab71048d-2bd6-43d4-94d8-303e916399e7
 * **ASIN:** B01KLH1RLM
 * **Author:** EmptyLaughter
-* **Release Date:** August 22, 2016 @ 07:45:10
+* **Release Date:** August 22, 2016 @ 08:45:10
 * **In-App Purchasing:** No

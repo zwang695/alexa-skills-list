@@ -20,5 +20,5 @@ Get a fact about Plano
 * **ID:** amzn1.echo-sdk-ams.app.e6acf209-eada-4aaa-bd2e-154d9961dfaa
 * **ASIN:** B01I763DSY
 * **Author:** secretsquirrel123
-* **Release Date:** July 11, 2016 @ 07:27:36
+* **Release Date:** July 11, 2016 @ 08:27:36
 * **In-App Purchasing:** No

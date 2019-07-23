@@ -16,5 +16,5 @@ Alexa leads you in the iconic 'We Are' cheer. She says 'We Are' and you say 'Pen
 * **ID:** amzn1.ask.skill.f9d7be5a-a2c2-4eb6-bdf3-3f98526d9c2d
 * **ASIN:** B01LMQ3BPG
 * **Author:** Eric Papamarcos
-* **Release Date:** September 8, 2016 @ 02:03:41
+* **Release Date:** September 8, 2016 @ 03:03:41
 * **In-App Purchasing:** No

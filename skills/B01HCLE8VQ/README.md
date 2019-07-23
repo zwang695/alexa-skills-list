@@ -20,5 +20,5 @@ How often have you sat down to a great meal only to be disappointed in your choi
 * **ID:** amzn1.echo-sdk-ams.app.37bdc492-64b8-4272-94f6-28cdba52cff7
 * **ASIN:** B01HCLE8VQ
 * **Author:** Nick Stumpos
-* **Release Date:** June 27, 2016 @ 05:15:46
+* **Release Date:** June 27, 2016 @ 06:15:46
 * **In-App Purchasing:** No

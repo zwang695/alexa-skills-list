@@ -24,5 +24,5 @@ draw/get/find/give/deal  -  (number between 1 and 10)  -  cards
 * **ID:** amzn1.ask.skill.cbb5e8c0-1335-461d-bc23-98d83b97f547
 * **ASIN:** B01M1CRSV5
 * **Author:** Daniel Engle
-* **Release Date:** October 14, 2016 @ 01:16:13
+* **Release Date:** October 14, 2016 @ 02:16:13
 * **In-App Purchasing:** No

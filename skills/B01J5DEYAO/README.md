@@ -60,6 +60,6 @@ Meet us on https://sayjab.com and please give us your feedback at quentin@sayjab
 * **ID:** amzn1.echo-sdk-ams.app.a51d8fc8-9283-4d67-9a2b-a3790b5bc51e
 * **ASIN:** B01J5DEYAO
 * **Author:** Molly
-* **Release Date:** August 18, 2016 @ 18:52:27
+* **Release Date:** August 18, 2016 @ 19:52:27
 * **Privacy Policy:** https://sayjab.com/privacy
 * **In-App Purchasing:** No

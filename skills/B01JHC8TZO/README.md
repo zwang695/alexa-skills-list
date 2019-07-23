@@ -20,5 +20,5 @@ Enjoy some Puffin facts.
 * **ID:** amzn1.ask.skill.e6e06ff3-0027-483a-b9c4-dfaa7e269078
 * **ASIN:** B01JHC8TZO
 * **Author:** letsgo
-* **Release Date:** August 3, 2016 @ 01:11:36
+* **Release Date:** August 3, 2016 @ 02:11:36
 * **In-App Purchasing:** No

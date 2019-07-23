@@ -20,5 +20,5 @@ City Gripe allows users to complain to Alexa about various things in there life 
 * **ID:** amzn1.ask.skill.52d20bcf-7364-44c7-ab61-dd95c93bbc62
 * **ASIN:** B01M2VON7E
 * **Author:** timcmiller
-* **Release Date:** October 19, 2016 @ 05:42:13
+* **Release Date:** October 19, 2016 @ 06:42:13
 * **In-App Purchasing:** No

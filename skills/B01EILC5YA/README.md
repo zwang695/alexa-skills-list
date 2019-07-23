@@ -22,6 +22,6 @@ Learn more at http://www.celebrationbarreview.com
 * **ID:** amzn1.echo-sdk-ams.app.332e31cb-2dda-4af5-9a15-fc1b941db870
 * **ASIN:** B01EILC5YA
 * **Author:** Origin Technologies Inc
-* **Release Date:** April 25, 2016 @ 07:40:33
+* **Release Date:** April 25, 2016 @ 08:40:33
 * **Privacy Policy:** http://www.celebrationbarreview.com/privacy-policy/
 * **In-App Purchasing:** No

@@ -20,6 +20,6 @@ This skill allows for control of the dwelo smart-apartment ecosystem. It require
 * **ID:** amzn1.echo-sdk-ams.app.2b3bd9e2-8b28-4ef5-8ddc-4f7af6c83f4f
 * **ASIN:** B01JH7V082
 * **Author:** Dwelo
-* **Release Date:** September 17, 2016 @ 01:41:49
+* **Release Date:** September 17, 2016 @ 02:41:49
 * **Privacy Policy:** http://dwelo.com/privacy-policy
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill enables you to control a Raspberry Pi and Arduino UNO powered vehicle
 * **ID:** amzn1.echo-sdk-ams.app.6e1ee6be-a692-407e-8373-f978b7314f18
 * **ASIN:** B01IX4RGLK
 * **Author:** Austin Wilson
-* **Release Date:** August 26, 2016 @ 05:32:43
+* **Release Date:** August 26, 2016 @ 06:32:43
 * **In-App Purchasing:** No

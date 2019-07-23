@@ -21,5 +21,5 @@ This service will give you information about NYC transit (so far only subway/LIR
 * **ID:** amzn1.echo-sdk-ams.app.5bf0893d-81e3-4477-9941-f5901359e740
 * **ASIN:** B01C9KTH5M
 * **Author:** Gotham Web Artisans
-* **Release Date:** February 26, 2016 @ 18:31:02
+* **Release Date:** February 26, 2016 @ 19:31:02
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Sugarbush Resort Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.5053f305-9f00-46f8-bc5e-70bf9364715a
 * **ASIN:** B01N5CJ4SX
 * **Author:** SnoCountry
-* **Release Date:** December 6, 2016 @ 19:20:14
+* **Release Date:** December 6, 2016 @ 20:20:14
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Lee Canyon Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.b72a4c39-7c7c-421e-a1f1-bd30e04cdcd4
 * **ASIN:** B01M7TS0OJ
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:45:16
+* **Release Date:** October 26, 2016 @ 03:45:16
 * **In-App Purchasing:** No

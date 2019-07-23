@@ -22,5 +22,5 @@ Two Days Later is an interactive audio adventure story. At any point in the expe
 * **ID:** amzn1.echo-sdk-ams.app.7ae2858c-6430-4aee-990a-40a7ac6cb9de
 * **ASIN:** B01L7SG7QE
 * **Author:** Schell Games
-* **Release Date:** September 8, 2016 @ 04:33:25
+* **Release Date:** September 8, 2016 @ 05:33:25
 * **In-App Purchasing:** No

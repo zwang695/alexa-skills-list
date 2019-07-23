@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.79055682-56df-4e44-9e6e-dbd183a8888c
 * **ASIN:** B01NCHKDWT
 * **Author:** Ezzy Elliott
-* **Release Date:** December 5, 2016 @ 06:05:56
+* **Release Date:** December 5, 2016 @ 07:05:56
 * **In-App Purchasing:** No

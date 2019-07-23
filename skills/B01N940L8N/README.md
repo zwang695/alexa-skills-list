@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.bbf50b12-5034-498b-a169-b1ca92e7584b
 * **ASIN:** B01N940L8N
 * **Author:** Sergej Müller
-* **Release Date:** December 5, 2016 @ 03:05:44
+* **Release Date:** December 5, 2016 @ 04:05:44
 * **In-App Purchasing:** No

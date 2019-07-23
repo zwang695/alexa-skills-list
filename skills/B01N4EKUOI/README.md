@@ -18,5 +18,5 @@ If you are looking for something to do, let this skill give you some ideas.
 * **ID:** amzn1.ask.skill.a5d69e15-1f86-4cff-aa07-d147ef333e9c
 * **ASIN:** B01N4EKUOI
 * **Author:** greenspagetti
-* **Release Date:** December 17, 2016 @ 01:49:49
+* **Release Date:** December 17, 2016 @ 02:49:49
 * **In-App Purchasing:** No

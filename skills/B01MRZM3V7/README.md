@@ -24,7 +24,7 @@ The word Buddha means "awakened one" or "the enlightened one". "Buddha" is also 
 * **ID:** amzn1.ask.skill.ee9f6ea4-b850-466a-99ca-137692c146aa
 * **ASIN:** B01MRZM3V7
 * **Author:** Rachit Technology Pvt  Ltd
-* **Release Date:** December 24, 2016 @ 07:19:12
+* **Release Date:** December 24, 2016 @ 08:19:12
 * **Privacy Policy:** http://www.rachittechnology.com/privacypolicy.htm
 * **Terms of Use:** http://www.rachittechnology.com/privacypolicy.htm
 * **In-App Purchasing:** No

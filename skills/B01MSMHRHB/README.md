@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.56016f67-c21a-4fef-8217-c310c13298f5
 * **ASIN:** B01MSMHRHB
 * **Author:** LETO
-* **Release Date:** December 11, 2016 @ 05:19:18
+* **Release Date:** December 11, 2016 @ 06:19:18
 * **In-App Purchasing:** No

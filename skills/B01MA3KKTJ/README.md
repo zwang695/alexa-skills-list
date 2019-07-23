@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.9a4651f5-7010-4d6d-b7c6-ea4832900f84
 * **ASIN:** B01MA3KKTJ
 * **Author:** Gelbe Seiten Marketing Gesellschaft mbH
-* **Release Date:** December 21, 2016 @ 13:19:09
+* **Release Date:** December 21, 2016 @ 14:19:09
 * **In-App Purchasing:** No

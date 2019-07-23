@@ -21,5 +21,5 @@ It's a great way to learn some amazing things about the California state.
 * **ID:** amzn1.echo-sdk-ams.app.7beac02a-f154-402b-81b0-3246458c56be
 * **ASIN:** B01FLJYG5E
 * **Author:** Aradhana Duppala
-* **Release Date:** May 19, 2016 @ 03:38:36
+* **Release Date:** May 19, 2016 @ 04:38:36
 * **In-App Purchasing:** No

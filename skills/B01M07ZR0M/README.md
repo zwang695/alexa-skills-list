@@ -20,5 +20,5 @@ Icon created by Freepic from www.flaticon.com
 * **ID:** amzn1.ask.skill.49bcbf12-7a2f-4bfb-9834-f374b6a8440c
 * **ASIN:** B01M07ZR0M
 * **Author:** Spacecraft Digital
-* **Release Date:** September 28, 2016 @ 18:12:41
+* **Release Date:** September 28, 2016 @ 19:12:41
 * **In-App Purchasing:** No

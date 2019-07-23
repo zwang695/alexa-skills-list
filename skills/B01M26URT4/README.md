@@ -23,7 +23,7 @@ If you see something that's not working or you have a suggestion on the features
 * **ID:** amzn1.ask.skill.5837cfe5-1998-4f44-b2f9-f74e06bc462d
 * **ASIN:** B01M26URT4
 * **Author:** The Motley Fool
-* **Release Date:** November 22, 2016 @ 14:06:28
+* **Release Date:** November 22, 2016 @ 15:06:28
 * **Privacy Policy:** http://www.fool.com/legal/privacy-statement.aspx
 * **Terms of Use:** http://www.fool.com/legal/the-motley-fools-rules.aspx
 * **In-App Purchasing:** No

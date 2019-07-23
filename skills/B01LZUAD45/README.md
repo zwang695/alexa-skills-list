@@ -16,5 +16,5 @@ Feel good about yourself! Listen to positive affirmations to improve your self e
 * **ID:** amzn1.ask.skill.a2ada415-7dee-4e51-97cb-04562f7493ed
 * **ASIN:** B01LZUAD45
 * **Author:** diazelena
-* **Release Date:** September 22, 2016 @ 01:42:15
+* **Release Date:** September 22, 2016 @ 02:42:15
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ This skill is not sponsored or endorsed by NBCUniversal Media, LLC.
 * **ID:** amzn1.ask.skill.3c53ab9b-3503-42b3-aaaf-3d7bf137fa62
 * **ASIN:** B01LXKQKQI
 * **Author:** Patrick Mollohan
-* **Release Date:** September 28, 2016 @ 17:12:40
+* **Release Date:** September 28, 2016 @ 18:12:40
 * **In-App Purchasing:** No

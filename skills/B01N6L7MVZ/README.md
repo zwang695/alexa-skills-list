@@ -20,5 +20,5 @@ This skill is excellent for people looking for fun facts about the state of Hawa
 * **ID:** amzn1.ask.skill.0885cd31-cad7-4cf0-94fd-e40b3482cbec
 * **ASIN:** B01N6L7MVZ
 * **Author:** Diyalo
-* **Release Date:** December 29, 2016 @ 23:49:29
+* **Release Date:** December 30, 2016 @ 00:49:29
 * **In-App Purchasing:** No

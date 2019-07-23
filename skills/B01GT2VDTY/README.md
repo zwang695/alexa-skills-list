@@ -22,7 +22,7 @@ Data provided by Marvel Comics. No account required. This skill was not created 
 * **ID:** amzn1.echo-sdk-ams.app.85ed9e83-60dc-433f-95fd-8f324e4e2e55
 * **ASIN:** B01GT2VDTY
 * **Author:** Eric Goebelbecker
-* **Release Date:** August 3, 2016 @ 07:41:30
+* **Release Date:** August 3, 2016 @ 08:41:30
 * **Privacy Policy:** https://s3.amazonaws.com/jocasta-smallimage-cache/privacy.html
 * **Terms of Use:** https://s3.amazonaws.com/jocasta-smallimage-cache/terms.html
 * **In-App Purchasing:** No

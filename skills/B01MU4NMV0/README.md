@@ -20,5 +20,5 @@ This produces randomly generated facts at the behest of the user.
 * **ID:** amzn1.ask.skill.daca4389-61c1-44c4-88c8-30ae6533dfa7
 * **ASIN:** B01MU4NMV0
 * **Author:** JamesG
-* **Release Date:** December 27, 2016 @ 05:48:45
+* **Release Date:** December 27, 2016 @ 06:48:45
 * **In-App Purchasing:** No

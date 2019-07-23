@@ -22,7 +22,7 @@ Just install the app on your phone, enter your email address in the "List sharin
 * **ID:** amzn1.echo-sdk-ams.app.6f432311-2f1d-4722-b692-2a9f75108e96
 * **ASIN:** B01D4F1J0M
 * **Author:** HeadCode
-* **Release Date:** March 18, 2016 @ 01:48:11
+* **Release Date:** March 18, 2016 @ 02:48:11
 * **Privacy Policy:** https://www.ourgroceries.com/privacy
 * **Account Linking Domains:** ourgroceries.com
 * **In-App Purchasing:** No

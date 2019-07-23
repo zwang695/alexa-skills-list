@@ -20,5 +20,5 @@ Learn more about the animals that you treat like a family member with Dog Facts!
 * **ID:** amzn1.ask.skill.9c11d2d0-d29e-4783-8bb3-bf0e8a604314
 * **ASIN:** B01MRPQG6K
 * **Author:** NishiyamaApps
-* **Release Date:** November 26, 2016 @ 05:34:54
+* **Release Date:** November 26, 2016 @ 06:34:54
 * **In-App Purchasing:** No

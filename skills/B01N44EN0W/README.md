@@ -20,5 +20,5 @@ When you know you want a drink, but can not make a choice among all the wonderfu
 * **ID:** amzn1.ask.skill.180950b4-ebb3-4eb2-ab17-f05cea745148
 * **ASIN:** B01N44EN0W
 * **Author:** Gary Ditsch
-* **Release Date:** November 25, 2016 @ 04:07:28
+* **Release Date:** November 25, 2016 @ 05:07:28
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Many people know the Dutch for their tulips, canals, cheese, and wooden shoes. T
 * **ID:** amzn1.ask.skill.fb5fe0a9-daf0-4fbd-9870-125a1a531088
 * **ASIN:** B01MQNLBWL
 * **Author:** Milo Oostergo
-* **Release Date:** November 25, 2016 @ 04:35:47
+* **Release Date:** November 25, 2016 @ 05:35:47
 * **In-App Purchasing:** No

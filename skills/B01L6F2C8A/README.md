@@ -20,7 +20,7 @@ Shares a random Pokemon Fact for Pokemon Go Fans and all others who are still le
 * **ID:** amzn1.ask.skill.2045957c-5625-4de1-97ab-ba726ed048ff
 * **ASIN:** B01L6F2C8A
 * **Author:** Jarvis
-* **Release Date:** September 6, 2016 @ 08:33:20
+* **Release Date:** September 6, 2016 @ 09:33:20
 * **Privacy Policy:** https://github.com/vasujain/pokemon-fact-alexa-skill/blob/master/Privacy%20Policy.md
 * **Terms of Use:** https://github.com/vasujain/pokemon-fact-alexa-skill/blob/master/Terms%20of%20Use.md
 * **In-App Purchasing:** No

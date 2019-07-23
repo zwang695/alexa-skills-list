@@ -26,5 +26,5 @@ I hope you enjoy using Navigation Ninja. If you have any issues, ideas on how to
 * **ID:** amzn1.echo-sdk-ams.app.d441dcc6-ff2b-4e0d-bb6c-f5c1a0a7bccc
 * **ASIN:** B01HOQ5PBQ
 * **Author:** HHJ Engineering
-* **Release Date:** October 29, 2016 @ 12:12:19
+* **Release Date:** October 29, 2016 @ 13:12:19
 * **In-App Purchasing:** No

@@ -25,5 +25,5 @@ Pitching information is only available before the game starts
 * **ID:** amzn1.ask.skill.b9aedbea-92d3-4a3d-9ef4-99b44da7e449
 * **ASIN:** B01J4FPGHI
 * **Author:** Chris Schlitt
-* **Release Date:** August 5, 2016 @ 03:37:43
+* **Release Date:** August 5, 2016 @ 04:37:43
 * **In-App Purchasing:** No

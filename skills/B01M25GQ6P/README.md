@@ -20,5 +20,5 @@ Never be without inspiration again. The Crazy Carrot will fill you with confiden
 * **ID:** amzn1.ask.skill.551be0a8-328f-4e2f-9fba-8fbb78a8a077
 * **ASIN:** B01M25GQ6P
 * **Author:** jebbarker
-* **Release Date:** October 22, 2016 @ 02:43:03
+* **Release Date:** October 22, 2016 @ 03:43:03
 * **In-App Purchasing:** No

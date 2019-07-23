@@ -20,5 +20,5 @@ Ever wanted to be able to tell your own jokes to Alexa instead of just listening
 * **ID:** amzn1.ask.skill.dcfb4af5-045c-4779-95a0-e6b315420cf7
 * **ASIN:** B01MU3YL0G
 * **Author:** thewbman
-* **Release Date:** December 27, 2016 @ 00:48:58
+* **Release Date:** December 27, 2016 @ 01:48:58
 * **In-App Purchasing:** No

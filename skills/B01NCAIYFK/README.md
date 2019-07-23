@@ -20,5 +20,5 @@ Note: This skill is in no way related or affiliated to internetslang.com or its 
 * **ID:** amzn1.ask.skill.45b2c9be-46ff-49fa-a417-8b042ed4d747
 * **ASIN:** B01NCAIYFK
 * **Author:**  Kousik Kumar
-* **Release Date:** November 25, 2016 @ 04:05:50
+* **Release Date:** November 25, 2016 @ 05:05:50
 * **In-App Purchasing:** No

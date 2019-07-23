@@ -20,5 +20,5 @@ Say "Alexa, Open Random Thoughts" and she will speak one of approximately 60 ran
 * **ID:** amzn1.echo-sdk-ams.app.a2ba5081-cdf8-457b-9cfe-977a58c8d03a
 * **ASIN:** B01ENL5T20
 * **Author:** RM Development
-* **Release Date:** April 25, 2016 @ 09:38:30
+* **Release Date:** April 25, 2016 @ 10:38:30
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Willard Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.80359d17-a3db-489b-8306-e1620a804a80
 * **ASIN:** B01MCXSQBW
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:45:43
+* **Release Date:** October 26, 2016 @ 04:45:43
 * **In-App Purchasing:** No

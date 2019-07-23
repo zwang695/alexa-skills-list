@@ -34,7 +34,7 @@ This skill can directly control electrical appliances via our product such as po
 * **ID:** amzn1.ask.skill.10c1f093-391b-4aa0-b7bd-820955151b5e
 * **ASIN:** B01KX8NLR2
 * **Author:** Dexatek
-* **Release Date:** October 6, 2016 @ 08:41:54
+* **Release Date:** October 6, 2016 @ 09:41:54
 * **Privacy Policy:** https://verify.sigmacasa.com/DEXATEKPrivacyPolicy-20150716.html
 * **Terms of Use:** https://verify.sigmacasa.com/Terms_ConditionsforDEXATEKServices-20150716.html
 * **In-App Purchasing:** No

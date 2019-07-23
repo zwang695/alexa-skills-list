@@ -18,5 +18,5 @@ Connecticut Facts was designed to provide you with a random facts about the Stat
 * **ID:** amzn1.echo-sdk-ams.app.a668e54b-f84e-413b-ba77-c97f97607588
 * **ASIN:** B01I7A18SM
 * **Author:** Joe Mirmina
-* **Release Date:** July 11, 2016 @ 06:57:40
+* **Release Date:** July 11, 2016 @ 07:57:40
 * **In-App Purchasing:** No

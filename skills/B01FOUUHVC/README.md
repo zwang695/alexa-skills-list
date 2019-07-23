@@ -20,5 +20,5 @@ If you have trouble remembering when to plant your garden, just ask!  When do I 
 * **ID:** amzn1.echo-sdk-ams.app.f1220941-407b-4cc9-9221-4b30de04a4a3
 * **ASIN:** B01FOUUHVC
 * **Author:** London Technology Services 
-* **Release Date:** May 23, 2016 @ 07:38:36
+* **Release Date:** May 23, 2016 @ 08:38:36
 * **In-App Purchasing:** No

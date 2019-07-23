@@ -20,5 +20,5 @@ Who can't get enough interesting facts about Cardboard Boxes. Just ask for the f
 * **ID:** amzn1.ask.skill.d72f5e2f-a1f2-4f28-b2ad-cd2540832813
 * **ASIN:** B01LZ484CZ
 * **Author:** Garys Gray
-* **Release Date:** September 28, 2016 @ 17:12:34
+* **Release Date:** September 28, 2016 @ 18:12:34
 * **In-App Purchasing:** No

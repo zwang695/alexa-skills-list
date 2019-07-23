@@ -20,5 +20,5 @@ It allows a user to hear the top ten titles of reddit
 * **ID:** amzn1.ask.skill.5d394cb4-6f59-4389-a9e9-9f85714d0a2f
 * **ASIN:** B01MTJRCY2
 * **Author:** Graphite
-* **Release Date:** December 22, 2016 @ 01:49:28
+* **Release Date:** December 22, 2016 @ 02:49:28
 * **In-App Purchasing:** No

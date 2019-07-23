@@ -20,7 +20,7 @@ Learn more about Minnesota with Minnesota trivia facts.  Even the governor will 
 * **ID:** amzn1.echo-sdk-ams.app.2e28c46a-08e0-4192-9d14-cabf6e614cbd
 * **ASIN:** B01DF6X1YW
 * **Author:** Luppes Consulting, Inc.
-* **Release Date:** March 25, 2016 @ 06:43:04
+* **Release Date:** March 25, 2016 @ 07:43:04
 * **Privacy Policy:** http://www.luppes.com/Alexa/Privacy
 * **Terms of Use:** http://www.luppes.com/Alexa/TermsOfUse
 * **In-App Purchasing:** No

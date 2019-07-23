@@ -20,5 +20,5 @@ My Biggest Fan allows you to ask for compliments. You'll definitely feel better 
 * **ID:** amzn1.echo-sdk-ams.app.44ec188b-5519-4694-9630-7ba3a09383ea
 * **ASIN:** B01EQKULFI
 * **Author:** Emerson
-* **Release Date:** April 27, 2016 @ 07:38:46
+* **Release Date:** April 27, 2016 @ 08:38:46
 * **In-App Purchasing:** No

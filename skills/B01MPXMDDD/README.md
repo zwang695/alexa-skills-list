@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.db875ff3-57e1-4495-8417-e88509a3f002
 * **ASIN:** B01MPXMDDD
 * **Author:** Neolotto 
-* **Release Date:** October 29, 2016 @ 12:12:38
+* **Release Date:** October 29, 2016 @ 13:12:38
 * **In-App Purchasing:** No

@@ -30,5 +30,5 @@ My answer is {Answer}
 * **ID:** amzn1.echo-sdk-ams.app.3e8c4a6a-31ee-49da-96d1-2f3071ebc99b
 * **ASIN:** B01G043JR0
 * **Author:** kevinvle
-* **Release Date:** May 24, 2016 @ 07:38:39
+* **Release Date:** May 24, 2016 @ 08:38:39
 * **In-App Purchasing:** No

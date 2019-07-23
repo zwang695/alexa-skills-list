@@ -20,5 +20,5 @@ This skill is fun to play alone, or compete with your family and friends to see 
 * **ID:** amzn1.echo-sdk-ams.app.d5e7614c-a0e7-48a5-9e82-f422fe2c232d
 * **ASIN:** B01DZW9HPI
 * **Author:** Tugba Yanikoglu
-* **Release Date:** April 11, 2016 @ 08:32:31
+* **Release Date:** April 11, 2016 @ 09:32:31
 * **In-App Purchasing:** No

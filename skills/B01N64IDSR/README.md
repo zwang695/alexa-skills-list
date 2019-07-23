@@ -22,5 +22,5 @@ This skill asks trivia questions about United States of America and presents int
 * **ID:** amzn1.ask.skill.c44e96fb-aae8-416d-bfb3-ba68489476d6
 * **ASIN:** B01N64IDSR
 * **Author:** TankBell Technologies LLC
-* **Release Date:** November 20, 2016 @ 23:06:28
+* **Release Date:** November 21, 2016 @ 00:06:28
 * **In-App Purchasing:** No

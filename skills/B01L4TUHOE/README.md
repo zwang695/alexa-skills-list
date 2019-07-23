@@ -20,5 +20,5 @@ A fun skill that lists out what a person named Sharon typically says that's comi
 * **ID:** amzn1.ask.skill.66fe4d5d-2e2c-4e07-aa19-2abeec2729b5
 * **ASIN:** B01L4TUHOE
 * **Author:** connies0nguyen
-* **Release Date:** August 29, 2016 @ 03:32:46
+* **Release Date:** August 29, 2016 @ 04:32:46
 * **In-App Purchasing:** No

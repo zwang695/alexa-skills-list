@@ -12,7 +12,7 @@ Control Insteon lighting, appliances, and thermostats
 * **ID:** amzn1.ask.skill.dcf48e47-5e5f-4325-a755-b3f6d67eb8b4
 * **ASIN:** B01EIQOOUS
 * **Author:** INSTEON
-* **Release Date:** April 28, 2016 @ 17:55:12
+* **Release Date:** April 28, 2016 @ 18:55:12
 * **Privacy Policy:** http://insteon.com/support
 * **Terms of Use:** http://insteon.com/support
 * **In-App Purchasing:** No

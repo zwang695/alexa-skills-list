@@ -20,5 +20,5 @@ Ask Alexa how many sleeps are left until Christmas Day!
 * **ID:** amzn1.ask.skill.7e109304-2455-40de-b1f3-4df6a9543626
 * **ASIN:** B01N9APXL7
 * **Author:** jebbarker
-* **Release Date:** November 28, 2016 @ 07:05:21
+* **Release Date:** November 28, 2016 @ 08:05:21
 * **In-App Purchasing:** No

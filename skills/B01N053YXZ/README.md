@@ -20,5 +20,5 @@ The Ski Martock Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.0e177590-be56-452c-8d67-407583d8ddc8
 * **ASIN:** B01N053YXZ
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:12:42
+* **Release Date:** November 5, 2016 @ 12:12:42
 * **In-App Purchasing:** No

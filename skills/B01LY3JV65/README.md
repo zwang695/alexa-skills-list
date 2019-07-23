@@ -16,5 +16,5 @@ Interesting and fun facts about bicycles.
 * **ID:** amzn1.ask.skill.a9f5668c-529f-48df-aea8-8a8959011366
 * **ASIN:** B01LY3JV65
 * **Author:** chris_wong_1
-* **Release Date:** October 8, 2016 @ 04:41:45
+* **Release Date:** October 8, 2016 @ 05:41:45
 * **In-App Purchasing:** No

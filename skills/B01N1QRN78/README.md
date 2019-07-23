@@ -63,5 +63,5 @@ Available under the Creative Commons Attribution-ShareAlike License. All quotes 
 * **ID:** amzn1.ask.skill.41069185-c35a-43ae-b438-e16e379e03e3
 * **ASIN:** B01N1QRN78
 * **Author:** WritingCards
-* **Release Date:** December 11, 2016 @ 05:49:12
+* **Release Date:** December 11, 2016 @ 06:49:12
 * **In-App Purchasing:** No

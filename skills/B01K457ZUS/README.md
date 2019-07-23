@@ -94,5 +94,5 @@ email: dragula[at]lastridehearse[dot]net
 * **ID:** amzn1.echo-sdk-ams.app.83c405e9-0b21-45e7-a10e-5905632e5d24
 * **ASIN:** B01K457ZUS
 * **Author:** Fangtastico
-* **Release Date:** August 12, 2016 @ 02:37:44
+* **Release Date:** August 12, 2016 @ 03:37:44
 * **In-App Purchasing:** No

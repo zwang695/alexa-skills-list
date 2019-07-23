@@ -20,5 +20,5 @@ The Batawa Ski Hill Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.4faece81-2d1a-44ff-b3e3-36b3f7c839a6
 * **ASIN:** B01N094DMK
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:14:47
+* **Release Date:** November 5, 2016 @ 12:14:47
 * **In-App Purchasing:** No

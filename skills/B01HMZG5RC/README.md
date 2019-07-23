@@ -20,5 +20,5 @@ Invention Facts is a skill of the top inventions that have changed our way of li
 * **ID:** amzn1.echo-sdk-ams.app.cf87cc59-24b6-4f21-9d9d-ef8ae09442ba
 * **ASIN:** B01HMZG5RC
 * **Author:** Cheryl Troup
-* **Release Date:** June 28, 2016 @ 06:16:19
+* **Release Date:** June 28, 2016 @ 07:16:19
 * **In-App Purchasing:** No

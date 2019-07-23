@@ -20,5 +20,5 @@ Useless facts about James Blankenship.
 * **ID:** amzn1.ask.skill.2eb4dcb5-f9fd-4e27-aeb6-8a439eef7d0f
 * **ASIN:** B01N7K467K
 * **Author:** James Blankenship
-* **Release Date:** December 24, 2016 @ 01:49:28
+* **Release Date:** December 24, 2016 @ 02:49:28
 * **In-App Purchasing:** No

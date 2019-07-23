@@ -20,5 +20,5 @@ Gives a tide information in different state and cities
 * **ID:** amzn1.echo-sdk-ams.app.c6f6c589-4a39-4a3f-b019-2b2189ac82d2
 * **ASIN:** B01H2D4WMY
 * **Author:** Sandeep
-* **Release Date:** June 17, 2016 @ 09:15:38
+* **Release Date:** June 17, 2016 @ 10:15:38
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Fortune cookies
 * **ID:** amzn1.ask.skill.d00f3f5f-0c48-4180-9c53-a1258cb8be3f
 * **ASIN:** B01NACTV3Q
 * **Author:** EME
-* **Release Date:** November 29, 2016 @ 05:35:48
+* **Release Date:** November 29, 2016 @ 06:35:48
 * **In-App Purchasing:** No

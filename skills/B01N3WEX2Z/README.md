@@ -20,5 +20,5 @@ This is my first go around with Alexa so give it a shot to learn some interestin
 * **ID:** amzn1.ask.skill.b379ebb8-333c-4216-aefb-e2e74861bfff
 * **ASIN:** B01N3WEX2Z
 * **Author:** MattyG
-* **Release Date:** November 11, 2016 @ 01:13:30
+* **Release Date:** November 11, 2016 @ 02:13:30
 * **In-App Purchasing:** No

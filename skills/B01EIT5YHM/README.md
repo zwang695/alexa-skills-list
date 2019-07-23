@@ -22,7 +22,7 @@ We compare and rank all local service professionals based on reviews, call analy
 * **ID:** amzn1.echo-sdk-ams.app.f3413a23-9bcd-466b-b6d2-7c95371fc66b
 * **ASIN:** B01EIT5YHM
 * **Author:** Talk Local
-* **Release Date:** May 12, 2016 @ 18:41:47
+* **Release Date:** May 12, 2016 @ 19:41:47
 * **Privacy Policy:** http://www.talklocal.com/legal/privacy_policy.php
 * **Terms of Use:** http://www.talklocal.com/legal/terms_of_use.php
 * **In-App Purchasing:** No

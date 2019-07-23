@@ -24,5 +24,5 @@ So go ahead... start cooking that lasagna, folding laundry or cleaning your bath
 * **ID:** amzn1.echo-sdk-ams.app.ff1bc677-ddff-4174-af0f-d8b10edc293d
 * **ASIN:** B01DF3DT8I
 * **Author:** KRSD Communication Tools
-* **Release Date:** March 25, 2016 @ 05:12:21
+* **Release Date:** March 25, 2016 @ 06:12:21
 * **In-App Purchasing:** No

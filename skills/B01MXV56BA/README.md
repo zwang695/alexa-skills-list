@@ -20,5 +20,5 @@ Name Generator automates the process of finding a new name for a project or obje
 * **ID:** amzn1.ask.skill.de419879-2022-4e83-9d6d-7955f48a1969
 * **ASIN:** B01MXV56BA
 * **Author:** JesseW
-* **Release Date:** December 6, 2016 @ 07:19:06
+* **Release Date:** December 6, 2016 @ 08:19:06
 * **In-App Purchasing:** No

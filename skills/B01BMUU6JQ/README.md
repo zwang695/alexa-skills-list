@@ -16,6 +16,6 @@ The Magic Door is an Alexa-powered interactive adventure with original stories. 
 * **ID:** amzn1.echo-sdk-ams.app.58ebc8c0-2d8a-43e2-a820-dac67db1d3f0
 * **ASIN:** B01BMUU6JQ
 * **Author:** Huntwork.net, Inc.
-* **Release Date:** February 10, 2016 @ 13:11:10
+* **Release Date:** February 10, 2016 @ 14:11:10
 * **Privacy Policy:** https://www.themagicdoor.org/privacy/
 * **In-App Purchasing:** No

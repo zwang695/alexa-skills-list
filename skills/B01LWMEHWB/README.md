@@ -20,5 +20,5 @@ A multitude of various trivia about redheads.
 * **ID:** amzn1.ask.skill.21aca22d-5c63-42dd-b82d-ce8e01b34a74
 * **ASIN:** B01LWMEHWB
 * **Author:** WarEagler
-* **Release Date:** September 28, 2016 @ 18:12:36
+* **Release Date:** September 28, 2016 @ 19:12:36
 * **In-App Purchasing:** No

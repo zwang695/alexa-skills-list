@@ -24,5 +24,5 @@ Enjoy!
 * **ID:** amzn1.ask.skill.b1e8c1f4-2e8b-4beb-8422-c0522828ea96
 * **ASIN:** B01N05R9WZ
 * **Author:** Peter Osbourne
-* **Release Date:** November 9, 2016 @ 02:42:57
+* **Release Date:** November 9, 2016 @ 03:42:57
 * **In-App Purchasing:** No

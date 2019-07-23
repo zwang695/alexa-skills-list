@@ -20,5 +20,5 @@ This skill provides facts and definitions of terms related to tennis.  You can b
 * **ID:** amzn1.ask.skill.d53d30d0-e4ab-49d3-bccf-f1f624ed9036
 * **ASIN:** B01JPTV6HW
 * **Author:** Doug Roy
-* **Release Date:** August 8, 2016 @ 03:07:42
+* **Release Date:** August 8, 2016 @ 04:07:42
 * **In-App Purchasing:** No

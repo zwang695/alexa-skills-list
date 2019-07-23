@@ -20,5 +20,5 @@ The Berkshire East Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.52266430-8928-47e0-aa66-bd27637c5f6e
 * **ASIN:** B01M8KNGU5
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:16:26
+* **Release Date:** October 21, 2016 @ 15:16:26
 * **In-App Purchasing:** No

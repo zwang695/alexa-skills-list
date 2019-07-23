@@ -20,5 +20,5 @@ This skill gives Alexa the ability to find out the latest video game deals onlin
 * **ID:** amzn1.ask.skill.eab9a8d1-601a-4afe-b1c2-8b736a23cdca
 * **ASIN:** B01N45QVWH
 * **Author:** Morgan Moon
-* **Release Date:** November 26, 2016 @ 02:05:29
+* **Release Date:** November 26, 2016 @ 03:05:29
 * **In-App Purchasing:** No

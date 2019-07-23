@@ -20,5 +20,5 @@ Turn Master is a fun way of randomly selecting one or more people from the group
 * **ID:** amzn1.ask.skill.7b4b6c86-f0ba-41a9-a761-6c01b3bd8e42
 * **ASIN:** B01M9ASYAZ
 * **Author:** eltiscloud
-* **Release Date:** October 21, 2016 @ 15:15:48
+* **Release Date:** October 21, 2016 @ 16:15:48
 * **In-App Purchasing:** No

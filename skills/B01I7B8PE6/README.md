@@ -20,5 +20,5 @@ Trivia for the LDS church
 * **ID:** amzn1.echo-sdk-ams.app.262f4fe5-3044-4b2e-9c10-15a1183ddd01
 * **ASIN:** B01I7B8PE6
 * **Author:** Jeff Carlson
-* **Release Date:** July 25, 2016 @ 07:26:37
+* **Release Date:** July 25, 2016 @ 08:26:37
 * **In-App Purchasing:** No

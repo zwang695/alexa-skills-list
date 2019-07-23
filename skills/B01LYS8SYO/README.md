@@ -28,5 +28,5 @@ You can say "Alexa ask hypno therapist for help" to get a list of commands.
 * **ID:** amzn1.ask.skill.4cab083c-b80a-4752-be44-7cf5a365ed86
 * **ASIN:** B01LYS8SYO
 * **Author:** Innomore LLC
-* **Release Date:** October 5, 2016 @ 00:42:51
+* **Release Date:** October 5, 2016 @ 01:42:51
 * **In-App Purchasing:** No

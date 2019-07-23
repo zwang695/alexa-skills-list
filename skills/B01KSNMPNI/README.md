@@ -20,5 +20,5 @@ This simple app will tell you baby boy and girl names that begin with the letter
 * **ID:** amzn1.ask.skill.331840f1-0894-49b7-9393-6ee32e1e3f4b
 * **ASIN:** B01KSNMPNI
 * **Author:** David Lin
-* **Release Date:** September 3, 2016 @ 05:03:17
+* **Release Date:** September 3, 2016 @ 06:03:17
 * **In-App Purchasing:** No

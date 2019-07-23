@@ -26,5 +26,5 @@ Tell Alexa who she reminds you of, and play through the whole quote with her.
 * **ID:** amzn1.ask.skill.130f67fc-6da4-493b-b93a-4d2c594e29c2
 * **ASIN:** B01M1BJJNZ
 * **Author:** Ben Pearson
-* **Release Date:** October 12, 2016 @ 01:42:31
+* **Release Date:** October 12, 2016 @ 02:42:31
 * **In-App Purchasing:** No

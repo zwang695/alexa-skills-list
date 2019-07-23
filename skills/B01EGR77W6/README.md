@@ -20,5 +20,5 @@ Every day is a food-related holiday! Help us Celebrate Deliciousness with the Al
 * **ID:** amzn1.echo-sdk-ams.app.23323256-f45f-4420-9df7-556010be5973
 * **ASIN:** B01EGR77W6
 * **Author:** seejasoncook.com
-* **Release Date:** April 26, 2016 @ 09:08:36
+* **Release Date:** April 26, 2016 @ 10:08:36
 * **In-App Purchasing:** No

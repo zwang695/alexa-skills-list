@@ -20,5 +20,5 @@ This skill provides facts and definitions of terms related to Guinea pigs.  You 
 * **ID:** amzn1.ask.skill.4431d77b-c7ba-445b-94fd-1e9225bac816
 * **ASIN:** B01JSNZ4PU
 * **Author:** Nate Roy
-* **Release Date:** August 8, 2016 @ 02:07:38
+* **Release Date:** August 8, 2016 @ 03:07:38
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.41a09524-3e56-4fcc-8d77-f17eb92e731b
 * **ASIN:** B01M9EIMEH
 * **Author:** brian54
-* **Release Date:** October 27, 2016 @ 02:45:16
+* **Release Date:** October 27, 2016 @ 03:45:16
 * **In-App Purchasing:** No

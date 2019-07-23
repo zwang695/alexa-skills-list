@@ -22,7 +22,7 @@ This skill is not created by, affiliated with, or supported by Slack Technologie
 * **ID:** amzn1.echo-sdk-ams.app.4afd4127-c43a-4729-9dd4-1a159cfffe92
 * **ASIN:** B01FEVJDFM
 * **Author:** PromptWorks
-* **Release Date:** June 16, 2016 @ 03:15:30
+* **Release Date:** June 16, 2016 @ 04:15:30
 * **Privacy Policy:** https://alexa-slack.herokuapp.com/privacy
 * **Account Linking Domains:** slack.com, promptworks.com, herokuapp.com
 * **In-App Purchasing:** No

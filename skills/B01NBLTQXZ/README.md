@@ -20,5 +20,5 @@ The developers have no relationship with Disney or any of its affiliate companie
 * **ID:** amzn1.ask.skill.aadf9d55-5491-4de6-9823-4f04faf5348c
 * **ASIN:** B01NBLTQXZ
 * **Author:** De Pijp Tech
-* **Release Date:** December 25, 2016 @ 00:49:18
+* **Release Date:** December 25, 2016 @ 01:49:18
 * **In-App Purchasing:** No

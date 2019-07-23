@@ -20,5 +20,5 @@ To use the What's My Sign skill, try saying...
 * **ID:** amzn1.echo-sdk-ams.app.c56c3d73-7aae-4ecf-9fe6-565d6dc408fd
 * **ASIN:** B01E372OSQ
 * **Author:** Underground Engineering
-* **Release Date:** May 10, 2016 @ 07:08:47
+* **Release Date:** May 10, 2016 @ 08:08:47
 * **In-App Purchasing:** No

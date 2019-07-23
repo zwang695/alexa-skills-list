@@ -20,7 +20,7 @@ You must have a Logitech Harmony Hub to use this skill. When you activate the sk
 * **ID:** amzn1.echo-sdk-ams.app.a348d7dd-7f84-4d1d-9d51-b9c5896b66c0
 * **ASIN:** B01EUK3G10
 * **Author:** Eric Schneider
-* **Release Date:** June 25, 2016 @ 05:46:05
+* **Release Date:** June 25, 2016 @ 06:46:05
 * **Privacy Policy:** https://alexitech-b.mrsonicblue.com/Help/Privacy
 * **Account Linking Domains:** accounts.logi.com, accounts.youtube.com, www.google.com, m.facebook.com, graph.facebook.com, facebook.com, www.facebook.com, static.xx.fbcdn.net, fonts.gstatic.com, accounts.google.com, accounts.google.ca, accounts.google.co.in, home.myharmony.com
 * **In-App Purchasing:** No

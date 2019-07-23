@@ -20,5 +20,5 @@ This skill allows users to search for Klingon words by English, to fetch random 
 * **ID:** amzn1.ask.skill.1459204f-a45a-4f4c-b761-1c8077d7bcb9
 * **ASIN:** B01NCQOLNS
 * **Author:** KAG
-* **Release Date:** January 3, 2017 @ 00:19:02
+* **Release Date:** January 3, 2017 @ 01:19:02
 * **In-App Purchasing:** No

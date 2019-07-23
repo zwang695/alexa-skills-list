@@ -24,5 +24,5 @@ Nonetheless, I hope you enjoy learning these fun new facts.
 * **ID:** amzn1.ask.skill.9d9477bf-85b8-4dfa-9018-5a4accb99583
 * **ASIN:** B01KYP1R52
 * **Author:** Umesh T
-* **Release Date:** August 26, 2016 @ 03:32:58
+* **Release Date:** August 26, 2016 @ 04:32:58
 * **In-App Purchasing:** No

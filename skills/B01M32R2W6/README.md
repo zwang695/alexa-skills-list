@@ -20,5 +20,5 @@ Serverless is cloud 2.0, the next major abstraction.  We need to define terms so
 * **ID:** amzn1.ask.skill.07cec693-f49d-4526-95a8-b836886941f8
 * **ASIN:** B01M32R2W6
 * **Author:** SGA Business Systems, Inc.
-* **Release Date:** November 2, 2016 @ 02:43:57
+* **Release Date:** November 2, 2016 @ 03:43:57
 * **In-App Purchasing:** No

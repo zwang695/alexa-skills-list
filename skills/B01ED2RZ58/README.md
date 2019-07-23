@@ -23,5 +23,5 @@ This skill is not written by Merriam-Webster so errors or omissions are probably
 * **ID:** amzn1.echo-sdk-ams.app.6e717589-1014-4337-89bd-9b9265400396
 * **ASIN:** B01ED2RZ58
 * **Author:** IrishClanger
-* **Release Date:** April 26, 2016 @ 14:08:34
+* **Release Date:** April 26, 2016 @ 15:08:34
 * **In-App Purchasing:** No

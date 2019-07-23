@@ -21,5 +21,5 @@ To start, please say 'Open Item Manager' and follow the instructments!
 * **ID:** amzn1.ask.skill.d3a1b96f-cedb-47ab-b4fa-01129c379e2f
 * **ASIN:** B01IS6KW9Q
 * **Author:** Xiangning Xie
-* **Release Date:** August 5, 2016 @ 03:07:40
+* **Release Date:** August 5, 2016 @ 04:07:40
 * **In-App Purchasing:** No

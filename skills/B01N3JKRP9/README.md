@@ -20,5 +20,5 @@ The Snowshoe Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.d1681d15-5bcc-4815-91c0-f050b7d4b8b2
 * **ASIN:** B01N3JKRP9
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:43:39
+* **Release Date:** November 5, 2016 @ 11:43:39
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Learn about various photography terms by just asking Alexa about it.
 * **ID:** amzn1.echo-sdk-ams.app.0b30fdc9-8a2a-49a6-a20c-c32c0a90b79a
 * **ASIN:** B01I4KGJR0
 * **Author:** Shivansh Singh
-* **Release Date:** July 29, 2016 @ 08:26:55
+* **Release Date:** July 29, 2016 @ 09:26:55
 * **In-App Purchasing:** No

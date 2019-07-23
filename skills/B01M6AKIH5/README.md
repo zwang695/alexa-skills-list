@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.5821f875-1c7f-46c7-8cfe-7c8825408c49
 * **ASIN:** B01M6AKIH5
 * **Author:** Courtney Shek
-* **Release Date:** November 11, 2016 @ 00:43:54
+* **Release Date:** November 11, 2016 @ 01:43:54
 * **In-App Purchasing:** No

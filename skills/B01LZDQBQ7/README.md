@@ -20,5 +20,5 @@ The Soda Springs Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.da28b0fc-25e7-40fc-82b1-ac289e3c45e6
 * **ASIN:** B01LZDQBQ7
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:45:15
+* **Release Date:** October 20, 2016 @ 04:45:15
 * **In-App Purchasing:** No

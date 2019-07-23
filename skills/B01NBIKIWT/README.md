@@ -16,7 +16,7 @@ Learn pearls of information about how to stay healthy. Living Healthy coaches pe
 * **ID:** amzn1.ask.skill.60093060-73d6-48c1-be9d-8b6329339a3b
 * **ASIN:** B01NBIKIWT
 * **Author:** Logisome Inc
-* **Release Date:** December 13, 2016 @ 07:49:54
+* **Release Date:** December 13, 2016 @ 08:49:54
 * **Privacy Policy:** http://www.logisome.com/living-healthy-tos
 * **Terms of Use:** http://www.logisome.com/living-healthy-tos
 * **In-App Purchasing:** No

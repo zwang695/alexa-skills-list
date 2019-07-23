@@ -20,5 +20,5 @@ This will give you some fun facts about roller coasters.
 * **ID:** amzn1.ask.skill.fedae83f-f269-4f72-9ee0-0ec2631d3b95
 * **ASIN:** B01LYQHD3S
 * **Author:** Kevin Remhof
-* **Release Date:** October 8, 2016 @ 03:11:56
+* **Release Date:** October 8, 2016 @ 04:11:56
 * **In-App Purchasing:** No

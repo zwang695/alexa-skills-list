@@ -20,5 +20,5 @@ The Taos Ski Valley Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.36ddc3af-dc34-4ed5-a24f-37f8be17ec55
 * **ASIN:** B01LZZAGSB
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:43:38
+* **Release Date:** October 19, 2016 @ 11:43:38
 * **In-App Purchasing:** No

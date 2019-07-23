@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.67608061-6cbf-4740-8d11-2081bc7e69e4
 * **ASIN:** B01LZ8XNP4
 * **Author:** Coolsurfer
-* **Release Date:** December 3, 2016 @ 02:05:27
+* **Release Date:** December 3, 2016 @ 03:05:27
 * **In-App Purchasing:** No

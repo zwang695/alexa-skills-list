@@ -23,5 +23,5 @@ Compete with your friends and family!
 * **ID:** amzn1.echo-sdk-ams.app.cdf96da6-f567-41a6-8744-a2c8d4597316
 * **ASIN:** B01EXOD1X6
 * **Author:** DevBros
-* **Release Date:** May 3, 2016 @ 16:38:31
+* **Release Date:** May 3, 2016 @ 17:38:31
 * **In-App Purchasing:** No

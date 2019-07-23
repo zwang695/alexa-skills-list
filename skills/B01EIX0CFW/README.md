@@ -21,5 +21,5 @@ As you start the game, it will ask you multiple-choice questions related to Boll
 * **ID:** amzn1.echo-sdk-ams.app.3a1bb77d-d340-46e6-af5a-3b01f1e0c60e
 * **ASIN:** B01EIX0CFW
 * **Author:** Shivansh Singh
-* **Release Date:** April 25, 2016 @ 04:39:12
+* **Release Date:** April 25, 2016 @ 05:39:12
 * **In-App Purchasing:** No

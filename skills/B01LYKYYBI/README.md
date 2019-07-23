@@ -20,5 +20,5 @@ This skill tells you giraffe facts
 * **ID:** amzn1.ask.skill.82640e6e-5b3d-4ee2-8ac6-ea46243e14dc
 * **ASIN:** B01LYKYYBI
 * **Author:** Ruggedmug
-* **Release Date:** October 4, 2016 @ 02:13:15
+* **Release Date:** October 4, 2016 @ 03:13:15
 * **In-App Purchasing:** No

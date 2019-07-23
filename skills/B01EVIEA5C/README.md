@@ -22,5 +22,5 @@ Special thanks to Josh Skeen for his assistance on this project. Icon made by Fr
 * **ID:** amzn1.echo-sdk-ams.app.2e9956ae-be93-4975-9210-0c3482154fee
 * **ASIN:** B01EVIEA5C
 * **Author:** Adrian Bolinger
-* **Release Date:** May 6, 2016 @ 04:08:37
+* **Release Date:** May 6, 2016 @ 05:08:37
 * **In-App Purchasing:** No

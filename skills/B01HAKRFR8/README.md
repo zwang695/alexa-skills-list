@@ -34,5 +34,5 @@ Frequent/Intense Alcohol References
 * **ID:** amzn1.echo-sdk-ams.app.a666972e-6d9d-41b5-8e2a-90e0cae93658
 * **ASIN:** B01HAKRFR8
 * **Author:** ricardohdz
-* **Release Date:** June 23, 2016 @ 02:47:20
+* **Release Date:** June 23, 2016 @ 03:47:20
 * **In-App Purchasing:** No

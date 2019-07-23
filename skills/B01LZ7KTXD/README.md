@@ -35,7 +35,7 @@ To learn more about Joule, visit https://www.chefsteps.com/joule.
 * **ID:** amzn1.ask.skill.2b5fe3c7-618e-48b0-a67c-98a689eedb5b
 * **ASIN:** B01LZ7KTXD
 * **Author:** ChefSteps
-* **Release Date:** October 4, 2016 @ 18:41:56
+* **Release Date:** October 4, 2016 @ 19:41:56
 * **Privacy Policy:** https://www.chefsteps.com/privacy
 * **Terms of Use:** https://www.chefsteps.com/terms
 * **In-App Purchasing:** No

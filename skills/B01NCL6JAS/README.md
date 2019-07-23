@@ -20,5 +20,5 @@ Travel Echo function, it will tell you a diferents destinations
 * **ID:** amzn1.ask.skill.89e86bf8-30d0-4542-b987-2457c589a047
 * **ASIN:** B01NCL6JAS
 * **Author:** Jordi
-* **Release Date:** December 24, 2016 @ 02:49:06
+* **Release Date:** December 24, 2016 @ 03:49:06
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ You can interact with Alexa to know courses offered, holidays and events happeni
 * **ID:** amzn1.echo-sdk-ams.app.17b45288-2a41-4f3b-83bb-a4fc1136fc26
 * **ASIN:** B01E3USJ1O
 * **Author:** Developer
-* **Release Date:** April 13, 2016 @ 06:02:38
+* **Release Date:** April 13, 2016 @ 07:02:38
 * **In-App Purchasing:** No

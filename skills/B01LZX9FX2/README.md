@@ -20,5 +20,5 @@ Don't want to work today? Ask Alexa for an excuse!
 * **ID:** amzn1.ask.skill.97217855-d08c-497f-b85a-ea0363bd79c6
 * **ASIN:** B01LZX9FX2
 * **Author:** Jonas
-* **Release Date:** October 4, 2016 @ 02:12:28
+* **Release Date:** October 4, 2016 @ 03:12:28
 * **In-App Purchasing:** No

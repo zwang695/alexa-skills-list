@@ -24,7 +24,7 @@ Send suggested trivia questions to James Foster.
 * **ID:** amzn1.echo-sdk-ams.app.d7da65c8-f02e-47a8-82c0-984aa54e7c25
 * **ASIN:** B01AOEPC0O
 * **Author:** Covisint
-* **Release Date:** January 15, 2016 @ 15:40:42
+* **Release Date:** January 15, 2016 @ 16:40:42
 * **Privacy Policy:** http://www.covisint.com/enable/privacy
 * **Terms of Use:** http://www.covisint.com/enable/privacy
 * **In-App Purchasing:** No

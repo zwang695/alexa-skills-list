@@ -20,5 +20,5 @@ Funny quotes from the REAL reason we all watched Seinfeld, George Costanza! No e
 * **ID:** amzn1.ask.skill.1d6c3a35-dad6-44e2-a7a9-6dd16dfdd6c4
 * **ASIN:** B01N9FWK70
 * **Author:** Stanivision Inc.
-* **Release Date:** December 14, 2016 @ 05:19:40
+* **Release Date:** December 14, 2016 @ 06:19:40
 * **In-App Purchasing:** No

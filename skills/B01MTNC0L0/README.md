@@ -20,5 +20,5 @@ The best drinking game for Echo! Get the party started! Say "Alexa, ask the drin
 * **ID:** amzn1.ask.skill.f35458fa-794c-4532-a85a-167ac49a07a7
 * **ASIN:** B01MTNC0L0
 * **Author:** iSubedi
-* **Release Date:** November 20, 2016 @ 23:05:45
+* **Release Date:** November 21, 2016 @ 00:05:45
 * **In-App Purchasing:** No

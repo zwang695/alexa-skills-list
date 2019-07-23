@@ -20,5 +20,5 @@ Have Alexa join you at the piano and have her coach you about the keys.  Just as
 * **ID:** amzn1.ask.skill.cd73117a-5028-4173-9355-2b3cd577a3e6
 * **ASIN:** B01M2USCYX
 * **Author:** Josh Isaak
-* **Release Date:** October 18, 2016 @ 04:43:09
+* **Release Date:** October 18, 2016 @ 05:43:09
 * **In-App Purchasing:** No

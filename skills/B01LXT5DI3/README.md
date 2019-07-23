@@ -20,5 +20,5 @@ this skill provide facts about international space station
 * **ID:** amzn1.ask.skill.2c2acdd1-0a9f-4ae1-9e89-0a3e32de3cbe
 * **ASIN:** B01LXT5DI3
 * **Author:** Jay Rao
-* **Release Date:** September 17, 2016 @ 04:12:03
+* **Release Date:** September 17, 2016 @ 05:12:03
 * **In-App Purchasing:** No

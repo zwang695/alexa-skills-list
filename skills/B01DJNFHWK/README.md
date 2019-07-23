@@ -22,5 +22,5 @@ This skill will teach you all you need to know about Medusa, so that you can bec
 * **ID:** amzn1.echo-sdk-ams.app.e6cab0b4-cbe2-495e-a3b2-222da1350c49
 * **ASIN:** B01DJNFHWK
 * **Author:** Drassiner
-* **Release Date:** March 28, 2016 @ 15:59:52
+* **Release Date:** March 28, 2016 @ 16:59:52
 * **In-App Purchasing:** No

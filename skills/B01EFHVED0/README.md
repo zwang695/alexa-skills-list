@@ -22,5 +22,5 @@ Good luck!
 * **ID:** amzn1.echo-sdk-ams.app.af79ae2f-1bd5-433b-ab6c-0f048d9c9fcc
 * **ASIN:** B01EFHVED0
 * **Author:** Major Version
-* **Release Date:** April 26, 2016 @ 08:38:38
+* **Release Date:** April 26, 2016 @ 09:38:38
 * **In-App Purchasing:** No

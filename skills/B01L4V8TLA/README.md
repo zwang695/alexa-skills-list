@@ -20,5 +20,5 @@ Shares some interesting facts about Singapore that you may not know and randomiz
 * **ID:** amzn1.ask.skill.76278084-773d-4fb2-8ce1-5e6d9a498c98
 * **ASIN:** B01L4V8TLA
 * **Author:** KahWee Teng
-* **Release Date:** August 29, 2016 @ 07:02:39
+* **Release Date:** August 29, 2016 @ 08:02:39
 * **In-App Purchasing:** No

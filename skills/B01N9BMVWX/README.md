@@ -18,5 +18,5 @@ The app gives some random facts about germany.
 * **ID:** amzn1.ask.skill.bd24009d-b7f7-4a67-bc01-6055eeb24ce1
 * **ASIN:** B01N9BMVWX
 * **Author:** student
-* **Release Date:** November 30, 2016 @ 00:35:44
+* **Release Date:** November 30, 2016 @ 01:35:44
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Open up this skill to hear one of the top 50 baby names. Maybe one of them will 
 * **ID:** amzn1.ask.skill.f02a1d1c-84fc-40d2-af44-e014985c6dc6
 * **ASIN:** B01KGRBNDY
 * **Author:** Sly Software
-* **Release Date:** August 17, 2016 @ 02:22:36
+* **Release Date:** August 17, 2016 @ 03:22:36
 * **In-App Purchasing:** No

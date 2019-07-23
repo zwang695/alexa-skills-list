@@ -24,5 +24,5 @@ Uses the NASA NEO API for source data.
 * **ID:** amzn1.ask.skill.5a5180ae-bc99-4108-8de7-194c316e2a11
 * **ASIN:** B01N0TW4V0
 * **Author:** Steve Perkins
-* **Release Date:** December 30, 2016 @ 06:19:17
+* **Release Date:** December 30, 2016 @ 07:19:17
 * **In-App Purchasing:** No

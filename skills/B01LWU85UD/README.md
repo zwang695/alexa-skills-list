@@ -18,5 +18,5 @@ This skill plays white noises of wind, fan, ocean and blender.
 * **ID:** amzn1.ask.skill.10f92bb7-1647-4cfb-925a-66d18e1d9752
 * **ASIN:** B01LWU85UD
 * **Author:** 王超
-* **Release Date:** September 21, 2016 @ 02:13:09
+* **Release Date:** September 21, 2016 @ 03:13:09
 * **In-App Purchasing:** No

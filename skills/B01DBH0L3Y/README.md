@@ -20,5 +20,5 @@ Cat Genius will tell you so many interesting bits of information about your fami
 * **ID:** amzn1.echo-sdk-ams.app.2b5a7dd7-fd8c-4623-a076-456b6d1c5b0b
 * **ASIN:** B01DBH0L3Y
 * **Author:** BrownDog Tech
-* **Release Date:** March 23, 2016 @ 01:14:11
+* **Release Date:** March 23, 2016 @ 02:14:11
 * **In-App Purchasing:** No

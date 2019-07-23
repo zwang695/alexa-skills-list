@@ -26,5 +26,5 @@ Stay fit! Stay healthy!
 * **ID:** amzn1.ask.skill.62723f36-e123-4ba6-b470-99d846371b97
 * **ASIN:** B01IU5T8AE
 * **Author:** Sanjay Krishna Katragadda
-* **Release Date:** July 29, 2016 @ 06:26:24
+* **Release Date:** July 29, 2016 @ 07:26:24
 * **In-App Purchasing:** No

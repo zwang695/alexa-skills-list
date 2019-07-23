@@ -24,5 +24,5 @@ Have fun and please feedback to us!
 * **ID:** amzn1.ask.skill.9371fc4e-4c6d-4e29-b02a-43c5d826a243
 * **ASIN:** B01M7PS6ZT
 * **Author:** Jeff Antram
-* **Release Date:** October 29, 2016 @ 11:42:26
+* **Release Date:** October 29, 2016 @ 12:42:26
 * **In-App Purchasing:** No

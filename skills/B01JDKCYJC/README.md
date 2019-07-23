@@ -22,5 +22,5 @@ No pre-reqs or account required.
 * **ID:** amzn1.ask.skill.7fff23f7-884c-4d17-8da4-16ea998866ab
 * **ASIN:** B01JDKCYJC
 * **Author:** Joseph Fraley
-* **Release Date:** August 3, 2016 @ 05:11:32
+* **Release Date:** August 3, 2016 @ 06:11:32
 * **In-App Purchasing:** No

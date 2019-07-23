@@ -22,5 +22,5 @@ Currently this app is a beta version.
 * **ID:** amzn1.ask.skill.76d2c8ec-96e6-4410-8cc7-7175dbc5795e
 * **ASIN:** B01JDPFNCW
 * **Author:** as
-* **Release Date:** August 8, 2016 @ 01:38:23
+* **Release Date:** August 8, 2016 @ 02:38:23
 * **In-App Purchasing:** No

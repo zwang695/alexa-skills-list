@@ -20,5 +20,5 @@ You think you know NC? See if you can answer a few trivia questions about the Ta
 * **ID:** amzn1.echo-sdk-ams.app.0316bb8f-4741-4e72-921d-055090241674
 * **ASIN:** B01CQ255T0
 * **Author:** Kate Cox
-* **Release Date:** March 8, 2016 @ 17:52:47
+* **Release Date:** March 8, 2016 @ 18:52:47
 * **In-App Purchasing:** No

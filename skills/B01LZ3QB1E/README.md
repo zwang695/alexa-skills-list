@@ -20,5 +20,5 @@ If you're looking for a random fact all you need do is ask and Alexa will return
 * **ID:** amzn1.ask.skill.49b7db02-e619-4f94-abf7-ff36e1df7b93
 * **ASIN:** B01LZ3QB1E
 * **Author:** Rachelle Rathbone
-* **Release Date:** October 6, 2016 @ 02:11:44
+* **Release Date:** October 6, 2016 @ 03:11:44
 * **In-App Purchasing:** No

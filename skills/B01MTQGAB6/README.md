@@ -22,5 +22,5 @@ Logo credit, Aline Dassel from pixabay.com
 * **ID:** amzn1.ask.skill.f3bde22c-6297-4669-9abd-538d5d62c56c
 * **ASIN:** B01MTQGAB6
 * **Author:** Derek Afriyie
-* **Release Date:** December 8, 2016 @ 04:18:57
+* **Release Date:** December 8, 2016 @ 05:18:57
 * **In-App Purchasing:** No

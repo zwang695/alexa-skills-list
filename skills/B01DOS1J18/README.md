@@ -20,5 +20,5 @@ Ear Trainer helps you to improve your interval recognition by letting you play a
 * **ID:** amzn1.echo-sdk-ams.app.48e185d8-78f2-4abe-8d3c-2aff2606d40f
 * **ASIN:** B01DOS1J18
 * **Author:** Eric Fung
-* **Release Date:** April 22, 2016 @ 06:08:28
+* **Release Date:** April 22, 2016 @ 07:08:28
 * **In-App Purchasing:** No

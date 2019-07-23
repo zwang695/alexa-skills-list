@@ -22,5 +22,5 @@ Disclaimer: responses not guaranteed to be accurate
 * **ID:** amzn1.echo-sdk-ams.app.ac1d094f-8b6c-494a-aaa9-14e0e6a1f215
 * **ASIN:** B01ILCQDBI
 * **Author:** brysonl
-* **Release Date:** July 28, 2016 @ 07:26:33
+* **Release Date:** July 28, 2016 @ 08:26:33
 * **In-App Purchasing:** No

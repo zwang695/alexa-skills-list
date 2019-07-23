@@ -20,5 +20,5 @@ This skill provides information about the Sit Family under Sil Jon descendants f
 * **ID:** amzn1.ask.skill.88c1ad55-4f65-4cd1-8d02-af1fe55c29e3
 * **ASIN:** B01K6LIBEO
 * **Author:** Don Sit
-* **Release Date:** August 13, 2016 @ 05:07:32
+* **Release Date:** August 13, 2016 @ 06:07:32
 * **In-App Purchasing:** No

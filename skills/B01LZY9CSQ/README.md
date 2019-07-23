@@ -36,6 +36,6 @@ After you complete the tutorial, you will play in a cave of 4x4 with randomly po
 * **ID:** amzn1.ask.skill.d17a8228-0018-408e-b31f-5ed20bcededf
 * **ASIN:** B01LZY9CSQ
 * **Author:** Josep Valls-Vargas
-* **Release Date:** October 31, 2016 @ 12:42:36
+* **Release Date:** October 31, 2016 @ 13:42:36
 * **Terms of Use:** https://115iec5pk1.execute-api.us-east-1.amazonaws.com/prod/pub
 * **In-App Purchasing:** No

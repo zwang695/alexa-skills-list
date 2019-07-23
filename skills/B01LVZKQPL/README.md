@@ -20,5 +20,5 @@ Ask Alexa about countries and she will tell you random fun and interesting facts
 * **ID:** amzn1.ask.skill.12d0d9dc-5ec1-462a-a7c6-199582ec6d37
 * **ASIN:** B01LVZKQPL
 * **Author:** Sai Pc
-* **Release Date:** October 4, 2016 @ 03:12:10
+* **Release Date:** October 4, 2016 @ 04:12:10
 * **In-App Purchasing:** No

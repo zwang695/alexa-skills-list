@@ -23,6 +23,6 @@ Complete album courtesy of the OpenGoldbergVariations.org project and performed 
 * **ID:** amzn1.ask.skill.a2fda1b7-6212-40b8-bc7f-420655e2570f
 * **ASIN:** B01LM4SYHI
 * **Author:** Drian Hillman
-* **Release Date:** September 14, 2016 @ 21:43:08
+* **Release Date:** September 14, 2016 @ 22:43:08
 * **Privacy Policy:** https://github.com/DrianHillman/alexa-classical-study-music
 * **In-App Purchasing:** No

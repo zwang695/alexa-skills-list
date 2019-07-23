@@ -20,5 +20,5 @@ Basic trivia game asking about bananas. You'll go bananas for this trivia game, 
 * **ID:** amzn1.ask.skill.c3058f05-77fe-4579-b45e-8ff0a56ddc53
 * **ASIN:** B01LXPTRE1
 * **Author:** Bernard Chen
-* **Release Date:** October 5, 2016 @ 02:12:05
+* **Release Date:** October 5, 2016 @ 03:12:05
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ This app is not affiliated with The University of Oklahoma
 * **ID:** amzn1.ask.skill.66ea091f-5d66-432b-95b0-ed319c9bf2ef
 * **ASIN:** B01N994INS
 * **Author:** Mike Bockus
-* **Release Date:** November 25, 2016 @ 08:35:07
+* **Release Date:** November 25, 2016 @ 09:35:07
 * **In-App Purchasing:** No

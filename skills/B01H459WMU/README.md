@@ -20,5 +20,5 @@ A fun mulitple-choice trivia game testing your knowledge of the ruling houses in
 * **ID:** amzn1.echo-sdk-ams.app.bc62db68-6bd6-4878-83bb-67da59fe8bc9
 * **ASIN:** B01H459WMU
 * **Author:** Michael C. Renne
-* **Release Date:** June 20, 2016 @ 02:45:43
+* **Release Date:** June 20, 2016 @ 03:45:43
 * **In-App Purchasing:** No

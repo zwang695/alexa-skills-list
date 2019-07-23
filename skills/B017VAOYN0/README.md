@@ -19,5 +19,5 @@ Now spelling out your daily word.
 * **ID:** amzn1.echo-sdk-ams.app.d853b85f-1a7d-4f1d-bb7f-d10b29429090
 * **ASIN:** B017VAOYN0
 * **Author:** Matchbox mobile
-* **Release Date:** November 11, 2015 @ 19:12:14
+* **Release Date:** November 11, 2015 @ 20:12:14
 * **In-App Purchasing:** No

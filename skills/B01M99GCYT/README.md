@@ -25,5 +25,5 @@ Learn facts from India
 * **ID:** amzn1.ask.skill.98dd4946-d027-4ffb-ba5e-f079f1a2489e
 * **ASIN:** B01M99GCYT
 * **Author:** AbhiHan
-* **Release Date:** October 18, 2016 @ 03:12:11
+* **Release Date:** October 18, 2016 @ 04:12:11
 * **In-App Purchasing:** No

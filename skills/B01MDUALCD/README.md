@@ -18,5 +18,5 @@ Reads the current severe weather conditions for Omaha Douglas County Nebraska.
 * **ID:** amzn1.ask.skill.0a4895fc-7397-4835-ae9a-5abe51d5c2b8
 * **ASIN:** B01MDUALCD
 * **Author:** Umpy
-* **Release Date:** November 6, 2016 @ 02:12:09
+* **Release Date:** November 6, 2016 @ 03:12:09
 * **In-App Purchasing:** No

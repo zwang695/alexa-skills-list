@@ -20,5 +20,5 @@ This skill reads of random facts about the State of Vermont.
 * **ID:** amzn1.ask.skill.dd5c1493-4025-4f69-849c-a3d1b65c564c
 * **ASIN:** B01N1S4U1Q
 * **Author:** Rick Ross
-* **Release Date:** December 17, 2016 @ 01:19:24
+* **Release Date:** December 17, 2016 @ 02:19:24
 * **In-App Purchasing:** No

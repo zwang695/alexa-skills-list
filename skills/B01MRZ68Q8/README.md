@@ -20,5 +20,5 @@ Trivia questions about San Francisco
 * **ID:** amzn1.ask.skill.edff686c-9c21-4259-a9cb-4513ad9cd73b
 * **ASIN:** B01MRZ68Q8
 * **Author:** Bjorn
-* **Release Date:** December 20, 2016 @ 07:19:07
+* **Release Date:** December 20, 2016 @ 08:19:07
 * **In-App Purchasing:** No

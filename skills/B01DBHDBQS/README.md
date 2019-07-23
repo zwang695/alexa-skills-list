@@ -21,5 +21,5 @@ Have fun with this simple Alexa skill and suggest new facts in the reviews.
 * **ID:** amzn1.echo-sdk-ams.app.008bc190-0917-4f70-89cd-b1281afb233c
 * **ASIN:** B01DBHDBQS
 * **Author:** Macaron Apps
-* **Release Date:** March 23, 2016 @ 01:20:56
+* **Release Date:** March 23, 2016 @ 02:20:56
 * **In-App Purchasing:** No

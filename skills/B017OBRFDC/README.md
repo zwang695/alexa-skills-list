@@ -20,7 +20,7 @@ The latest technology news and information on startups.
 * **ID:** amzn1.echo-sdk-ams.app.10b9a3c7-aec3-40b9-87e5-4fe445849799
 * **ASIN:** B017OBRFDC
 * **Author:** AOL Inc.
-* **Release Date:** November 6, 2015 @ 14:15:34
+* **Release Date:** November 6, 2015 @ 15:15:34
 * **Privacy Policy:** http://legal.aol.com/TOS/
 * **Terms of Use:** http://privacy.aol.com/
 * **In-App Purchasing:** No

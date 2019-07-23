@@ -20,5 +20,5 @@ facts about NBA
 * **ID:** amzn1.echo-sdk-ams.app.00a1e2b0-dc5b-43f7-bf62-70afc1676775
 * **ASIN:** B01I76E2JI
 * **Author:** John Wu
-* **Release Date:** July 19, 2016 @ 01:57:30
+* **Release Date:** July 19, 2016 @ 02:57:30
 * **In-App Purchasing:** No

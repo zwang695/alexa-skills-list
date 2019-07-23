@@ -20,5 +20,5 @@ Learn how to talk like Yoda. Ask Alexa to translate, and find out just how Yoda 
 * **ID:** amzn1.ask.skill.bdbbc785-e5de-4297-9232-f5a0df1aea31
 * **ASIN:** B01N1WXKGK
 * **Author:** Subhadra Vetrivel
-* **Release Date:** January 2, 2017 @ 23:19:43
+* **Release Date:** January 3, 2017 @ 00:19:43
 * **In-App Purchasing:** No

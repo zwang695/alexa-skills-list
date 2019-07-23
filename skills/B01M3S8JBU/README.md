@@ -20,5 +20,5 @@ The Snowhaven Ski Area Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.d4d01b72-9bcd-4445-8a94-fe91fbda4369
 * **ASIN:** B01M3S8JBU
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:49:03
+* **Release Date:** October 21, 2016 @ 15:49:03
 * **In-App Purchasing:** No

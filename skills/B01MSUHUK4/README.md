@@ -35,7 +35,7 @@ We’re currently active in 19 cities and counting: San Francisco (Bay Area), Ne
 * **ID:** amzn1.ask.skill.c155b09d-e0e1-4723-80df-b6923c2dff56
 * **ASIN:** B01MSUHUK4
 * **Author:** TaskRabbit
-* **Release Date:** December 6, 2016 @ 05:19:44
+* **Release Date:** December 6, 2016 @ 06:19:44
 * **Privacy Policy:** https://www.taskrabbit.com/privacy
 * **Terms of Use:** https://www.taskrabbit.com/terms
 * **In-App Purchasing:** Yes

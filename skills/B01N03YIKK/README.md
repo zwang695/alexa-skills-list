@@ -20,5 +20,5 @@ CoWorking Night Facts is a skill designed to give you interesting facts on the C
 * **ID:** amzn1.ask.skill.8a107b5e-3611-403c-830f-db15647be45a
 * **ASIN:** B01N03YIKK
 * **Author:** Tyler Hughes
-* **Release Date:** November 14, 2016 @ 01:13:14
+* **Release Date:** November 14, 2016 @ 02:13:14
 * **In-App Purchasing:** No

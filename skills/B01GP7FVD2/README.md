@@ -22,7 +22,7 @@ May not be appropriate for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.e5cffef4-0ce6-45be-a58b-2f83d3c6c72c
 * **ASIN:** B01GP7FVD2
 * **Author:** Tylopoda
-* **Release Date:** October 18, 2016 @ 02:12:21
+* **Release Date:** October 18, 2016 @ 03:12:21
 * **Privacy Policy:** http://s3.amazonaws.com/smooth_test/privacy.txt
 * **Account Linking Domains:** amazon.com, runkeeper.com, tlund-audible.com, jquery.com, amazonaws.com
 * **In-App Purchasing:** No

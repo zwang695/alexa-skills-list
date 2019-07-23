@@ -20,5 +20,5 @@ The famously ridiculous impossible quiz, made real for alexa and amazon echo.
 * **ID:** amzn1.echo-sdk-ams.app.33eb0d57-412f-48e6-b0cf-c3f322f9436c
 * **ASIN:** B01FONCOHO
 * **Author:** Matt Takemoto
-* **Release Date:** May 19, 2016 @ 02:38:37
+* **Release Date:** May 19, 2016 @ 03:38:37
 * **In-App Purchasing:** No

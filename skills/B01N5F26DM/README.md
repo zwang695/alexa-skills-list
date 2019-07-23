@@ -20,7 +20,7 @@ Have a question? Ask it on Quora! We'll respond with answers we have. If your qu
 * **ID:** amzn1.ask.skill.04b3494a-6bde-4f42-949b-9c17890c7758
 * **ASIN:** B01N5F26DM
 * **Author:** Quora Inc.
-* **Release Date:** December 21, 2016 @ 22:49:32
+* **Release Date:** December 21, 2016 @ 23:49:32
 * **Privacy Policy:** https://www.quora.com/about/privacy
 * **Terms of Use:** https://www.quora.com/about/tos
 * **In-App Purchasing:** No

@@ -26,5 +26,5 @@ Happy Writing!
 * **ID:** amzn1.echo-sdk-ams.app.38cfdb77-9187-49cc-9308-1d28cecde005
 * **ASIN:** B01FOLSBH8
 * **Author:** Unity
-* **Release Date:** May 20, 2016 @ 02:38:41
+* **Release Date:** May 20, 2016 @ 03:38:41
 * **In-App Purchasing:** No

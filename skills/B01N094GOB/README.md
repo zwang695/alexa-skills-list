@@ -20,5 +20,5 @@ The Mount St Louis Moonstone Snow Report brought to you by SnoCountry brings you
 * **ID:** amzn1.ask.skill.7ab5839c-3a7c-4241-9b95-73ed8fd56103
 * **ASIN:** B01N094GOB
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:14:00
+* **Release Date:** November 5, 2016 @ 12:14:00
 * **In-App Purchasing:** No

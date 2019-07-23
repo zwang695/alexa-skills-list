@@ -27,5 +27,5 @@ Ans: 1
 * **ID:** amzn1.echo-sdk-ams.app.94b7f79f-8776-4329-88a1-9ad871ae3f1a
 * **ASIN:** B01DM6BDCC
 * **Author:** Ganaraja
-* **Release Date:** April 7, 2016 @ 06:33:26
+* **Release Date:** April 7, 2016 @ 07:33:26
 * **In-App Purchasing:** No

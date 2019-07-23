@@ -20,5 +20,5 @@ The Big Boulder Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.81636967-3c41-4a2d-a512-c458dfbcec0e
 * **ASIN:** B01M3YQE6B
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:16:22
+* **Release Date:** November 4, 2016 @ 09:16:22
 * **In-App Purchasing:** No

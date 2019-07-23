@@ -20,5 +20,5 @@ The Powder Ridge Park Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.6af8c23d-3aeb-463f-802b-29e01a31ca99
 * **ASIN:** B01N43WLW0
 * **Author:** SnoCountry
-* **Release Date:** November 22, 2016 @ 08:36:12
+* **Release Date:** November 22, 2016 @ 09:36:12
 * **In-App Purchasing:** No

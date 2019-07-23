@@ -20,5 +20,5 @@ The Raspberry Pi GPIO Challenge is a multiple choice quiz about the General Purp
 * **ID:** amzn1.ask.skill.1953c952-847d-43a4-9296-7e1433aa17e1
 * **ASIN:** B01KVPQL9M
 * **Author:** Upcycled Retro Technology
-* **Release Date:** August 26, 2016 @ 01:33:10
+* **Release Date:** August 26, 2016 @ 02:33:10
 * **In-App Purchasing:** No

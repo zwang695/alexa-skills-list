@@ -21,5 +21,5 @@ Asking for the total time, it will give you the sum of all tracked work units.
 * **ID:** amzn1.ask.skill.c0e5ed73-2b79-47c2-871f-532b3091b2ee
 * **ASIN:** B01M9C8V18
 * **Author:** Alex
-* **Release Date:** October 29, 2016 @ 11:42:32
+* **Release Date:** October 29, 2016 @ 12:42:32
 * **In-App Purchasing:** No

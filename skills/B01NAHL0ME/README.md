@@ -20,5 +20,5 @@ Trivia game with questions on general awareness.
 * **ID:** amzn1.ask.skill.3480c5ae-1cfe-415a-9f6b-a40a72247731
 * **ASIN:** B01NAHL0ME
 * **Author:** Spencer Inc.
-* **Release Date:** December 11, 2016 @ 05:19:30
+* **Release Date:** December 11, 2016 @ 06:19:30
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Runes derive from sounds believed to be associated with power. These sounds were
 * **ID:** amzn1.echo-sdk-ams.app.561b9374-0cb6-4f61-bce3-3b2d1da8ba69
 * **ASIN:** B01FZE0WYE
 * **Author:** Clwydian
-* **Release Date:** May 27, 2016 @ 00:38:40
+* **Release Date:** May 27, 2016 @ 01:38:40
 * **In-App Purchasing:** No

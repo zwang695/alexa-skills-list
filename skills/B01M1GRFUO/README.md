@@ -16,5 +16,5 @@ Learn more about Japan with Alexa!
 * **ID:** amzn1.ask.skill.6bf9c3a2-a3bc-4151-94a3-b8535108b979
 * **ASIN:** B01M1GRFUO
 * **Author:** R+E
-* **Release Date:** September 22, 2016 @ 02:42:04
+* **Release Date:** September 22, 2016 @ 03:42:04
 * **In-App Purchasing:** No

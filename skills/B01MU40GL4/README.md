@@ -20,5 +20,5 @@ Use the code name generator to randomly generate a 2-word code name for your pro
 * **ID:** amzn1.ask.skill.009adbd9-a735-42b4-8b00-67caabd58107
 * **ASIN:** B01MU40GL4
 * **Author:** Echelon Kinetic Art and Multimedia
-* **Release Date:** December 29, 2016 @ 04:19:56
+* **Release Date:** December 29, 2016 @ 05:19:56
 * **In-App Purchasing:** No

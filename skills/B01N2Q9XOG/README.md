@@ -20,5 +20,5 @@ A simple game that allows you to check how good you know capitals of world count
 * **ID:** amzn1.ask.skill.38899241-ff42-425b-984e-9f5993270e76
 * **ASIN:** B01N2Q9XOG
 * **Author:** Softmil
-* **Release Date:** December 6, 2016 @ 05:19:27
+* **Release Date:** December 6, 2016 @ 06:19:27
 * **In-App Purchasing:** No

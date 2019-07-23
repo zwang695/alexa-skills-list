@@ -20,5 +20,5 @@ This is a simple trivia game where Alexa will ask 5 questions and provide 4 poss
 * **ID:** amzn1.ask.skill.830d9ba3-800b-4350-b6da-b2484be76213
 * **ASIN:** B01M746MUF
 * **Author:** G&M
-* **Release Date:** November 9, 2016 @ 00:44:17
+* **Release Date:** November 9, 2016 @ 01:44:17
 * **In-App Purchasing:** No

@@ -24,7 +24,7 @@ New in 1.4 - Now you need to link your account with Starfish where you can updat
 * **ID:** amzn1.echo-sdk-ams.app.24aac441-d9c7-41a9-bbe8-31d2b327d863
 * **ASIN:** B01CZYUPCQ
 * **Author:** Rai Integration Ltd
-* **Release Date:** March 15, 2016 @ 06:42:09
+* **Release Date:** March 15, 2016 @ 07:42:09
 * **Privacy Policy:** http://www.starfishmint.com/policy/privacy-starfish.html
 * **Terms of Use:** http://www.starfishmint.com/policy/terms-starfish.html
 * **In-App Purchasing:** No

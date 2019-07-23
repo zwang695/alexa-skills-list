@@ -20,5 +20,5 @@ Use this game to test your knowledge on topics relating to election day. All the
 * **ID:** amzn1.ask.skill.0b78b0fc-a7ff-4d67-8a64-e090a6dec677
 * **ASIN:** B01IUJZLC4
 * **Author:** Antic2
-* **Release Date:** July 26, 2016 @ 04:26:24
+* **Release Date:** July 26, 2016 @ 05:26:24
 * **In-App Purchasing:** No

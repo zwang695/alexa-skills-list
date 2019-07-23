@@ -22,5 +22,5 @@ Please drink responsibly!
 * **ID:** amzn1.ask.skill.a7bd464c-7143-4511-8b36-ac74f80c5924
 * **ASIN:** B01NA87JOE
 * **Author:** livecat
-* **Release Date:** December 13, 2016 @ 08:19:49
+* **Release Date:** December 13, 2016 @ 09:19:49
 * **In-App Purchasing:** No

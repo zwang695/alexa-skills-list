@@ -21,5 +21,5 @@ We are here to make your day just a bit better.
 * **ID:** amzn1.ask.skill.b51db3c0-b534-47de-97b6-e57d7022426f
 * **ASIN:** B01KPT98P8
 * **Author:** George Kortsaridis
-* **Release Date:** August 25, 2016 @ 01:35:21
+* **Release Date:** August 25, 2016 @ 02:35:21
 * **In-App Purchasing:** No

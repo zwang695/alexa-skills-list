@@ -20,5 +20,5 @@ Inspirational quotes from leading figures in the startup and technology world.
 * **ID:** amzn1.ask.skill.b5ea2f7d-fea5-435a-8231-f00522ac8dae
 * **ASIN:** B01M1VC8AZ
 * **Author:** Bugtar Press
-* **Release Date:** October 4, 2016 @ 05:12:18
+* **Release Date:** October 4, 2016 @ 06:12:18
 * **In-App Purchasing:** No

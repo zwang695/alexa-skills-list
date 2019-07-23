@@ -22,5 +22,5 @@ This application's goal is to teach you a bit more about the confidential hobby 
 * **ID:** amzn1.ask.skill.95bcf7dd-a82a-42c6-bcab-6fc2fc1ae32b
 * **ASIN:** B01M0WRFM3
 * **Author:** Nerus
-* **Release Date:** October 6, 2016 @ 04:42:08
+* **Release Date:** October 6, 2016 @ 05:42:08
 * **In-App Purchasing:** No

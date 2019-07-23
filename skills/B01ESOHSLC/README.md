@@ -71,6 +71,6 @@ You can always say “stop”, “cancel” or “exit”.
 * **ID:** amzn1.echo-sdk-ams.app.8cbbec55-1a6a-4eaf-b2f8-c898f8a6be37
 * **ASIN:** B01ESOHSLC
 * **Author:** Dana Young
-* **Release Date:** July 1, 2016 @ 05:57:53
+* **Release Date:** July 1, 2016 @ 06:57:53
 * **Privacy Policy:** http://pingpong-showdown.appspot.com/privacy.html
 * **In-App Purchasing:** No

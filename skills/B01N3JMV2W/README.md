@@ -20,5 +20,5 @@ The Mont Habitant Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.52517f6c-e485-4203-a11a-61768554addf
 * **ASIN:** B01N3JMV2W
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:13:20
+* **Release Date:** November 5, 2016 @ 12:13:20
 * **In-App Purchasing:** No

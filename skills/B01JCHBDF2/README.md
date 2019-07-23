@@ -29,5 +29,5 @@ She will be constantly adding Valley Talk phrases to her vocabulary to give you 
 * **ID:** amzn1.ask.skill.465ea80e-fce4-4ae1-beff-b3429df7fe30
 * **ASIN:** B01JCHBDF2
 * **Author:** Piyush Hari
-* **Release Date:** August 5, 2016 @ 06:07:26
+* **Release Date:** August 5, 2016 @ 07:07:26
 * **In-App Purchasing:** No

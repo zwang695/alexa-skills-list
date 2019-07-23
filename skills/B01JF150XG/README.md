@@ -20,5 +20,5 @@ Provides facts about Coventry Connecticut which is a small town in eastern  part
 * **ID:** amzn1.ask.skill.1b585e24-6acf-4af6-a318-66241dca2686
 * **ASIN:** B01JF150XG
 * **Author:** Travelers
-* **Release Date:** August 3, 2016 @ 06:11:28
+* **Release Date:** August 3, 2016 @ 07:11:28
 * **In-App Purchasing:** No

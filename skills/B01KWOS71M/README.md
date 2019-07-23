@@ -20,5 +20,5 @@ Logan Square Facts shares interesting tidbits about the Logan Square neighborhoo
 * **ID:** amzn1.ask.skill.1ee66bf6-9577-47f8-80eb-e9e6e1509491
 * **ASIN:** B01KWOS71M
 * **Author:** Sit \ Speak / Play
-* **Release Date:** August 24, 2016 @ 07:02:38
+* **Release Date:** August 24, 2016 @ 08:02:38
 * **In-App Purchasing:** No

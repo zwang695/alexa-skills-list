@@ -20,5 +20,5 @@ The Perfect North Slopes Snow Report brought to you by SnoCountry brings you the
 * **ID:** amzn1.ask.skill.154916bf-2db5-4901-9a23-70bf34fe515d
 * **ASIN:** B01M8KNKXQ
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:16:44
+* **Release Date:** October 21, 2016 @ 15:16:44
 * **In-App Purchasing:** No

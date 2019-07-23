@@ -18,5 +18,5 @@ This is a calorie checker for different kinds of food. It tells you about how ma
 * **ID:** amzn1.ask.skill.f837a722-810f-4c7a-8f0e-01b30fdd99b1
 * **ASIN:** B01N2SYIKS
 * **Author:** Attic-Studio
-* **Release Date:** December 14, 2016 @ 02:20:23
+* **Release Date:** December 14, 2016 @ 03:20:23
 * **In-App Purchasing:** No

@@ -30,5 +30,5 @@ You can answer the questions with phrases like:
 * **ID:** amzn1.echo-sdk-ams.app.9ce57a8a-b22b-4340-a489-9b42b6d0c9c1
 * **ASIN:** B01DRPR82M
 * **Author:** OCAELS
-* **Release Date:** April 7, 2016 @ 03:02:30
+* **Release Date:** April 7, 2016 @ 04:02:30
 * **In-App Purchasing:** No

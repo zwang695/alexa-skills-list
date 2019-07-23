@@ -26,7 +26,7 @@ Find out more at https://fishwise.com
 * **ID:** amzn1.ask.skill.2f2f9e85-cdca-485e-b2b5-a3593d44de9c
 * **ASIN:** B01NCHWH6U
 * **Author:** Sportsman Tracker
-* **Release Date:** December 9, 2016 @ 03:19:25
+* **Release Date:** December 9, 2016 @ 04:19:25
 * **Privacy Policy:** https://sportsmantracker.com/privacy-policy
 * **Terms of Use:** https://sportsmantracker.com/terms-of-use
 * **In-App Purchasing:** No

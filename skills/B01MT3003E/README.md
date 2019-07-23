@@ -20,5 +20,5 @@ Random facts about koi fish
 * **ID:** amzn1.ask.skill.c6387379-5c09-4ae0-8b0a-3db961342b6b
 * **ASIN:** B01MT3003E
 * **Author:** jarrensj
-* **Release Date:** December 27, 2016 @ 04:19:09
+* **Release Date:** December 27, 2016 @ 05:19:09
 * **In-App Purchasing:** No

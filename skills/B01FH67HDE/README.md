@@ -36,7 +36,7 @@ https://www.rememberthemilk.com/
 * **ID:** amzn1.echo-sdk-ams.app.cd197c8f-316d-45e0-b51a-243e00f01588
 * **ASIN:** B01FH67HDE
 * **Author:** Remember The Milk
-* **Release Date:** June 8, 2016 @ 07:41:13
+* **Release Date:** June 8, 2016 @ 08:41:13
 * **Privacy Policy:** https://www.rememberthemilk.com/help/privacy.rtm
 * **Terms of Use:** https://www.rememberthemilk.com/help/terms.rtm
 * **Account Linking Domains:** www.rememberthemilk.com

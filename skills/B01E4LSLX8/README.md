@@ -20,5 +20,5 @@ This skill gives you a random funny word with the definition. Learn new words! I
 * **ID:** amzn1.echo-sdk-ams.app.c16bc166-5f73-4d2a-92ad-b0baf901aa96
 * **ASIN:** B01E4LSLX8
 * **Author:** Tom Hudson
-* **Release Date:** April 28, 2016 @ 06:38:34
+* **Release Date:** April 28, 2016 @ 07:38:34
 * **In-App Purchasing:** No

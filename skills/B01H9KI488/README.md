@@ -22,5 +22,5 @@ Please note: This skill may not be suitable for all ages.  Drink responsibly.
 * **ID:** amzn1.echo-sdk-ams.app.bb328f17-5f33-46ce-a758-af0b774bcc48
 * **ASIN:** B01H9KI488
 * **Author:** Cramer Technologies LLC
-* **Release Date:** July 4, 2016 @ 06:27:40
+* **Release Date:** July 4, 2016 @ 07:27:40
 * **In-App Purchasing:** No

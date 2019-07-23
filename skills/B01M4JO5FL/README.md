@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.dfded9fc-293c-4bd1-861b-2700df929d46
 * **ASIN:** B01M4JO5FL
 * **Author:** jacobsHack
-* **Release Date:** October 26, 2016 @ 01:14:39
+* **Release Date:** October 26, 2016 @ 02:14:39
 * **In-App Purchasing:** No

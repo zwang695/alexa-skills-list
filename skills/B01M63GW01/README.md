@@ -20,5 +20,5 @@ Who doesn't love a great cat fact? This free Alexa skill allows you to get a ran
 * **ID:** amzn1.ask.skill.95767c7b-7857-42b1-9ea7-a0aa1e60d4d1
 * **ASIN:** B01M63GW01
 * **Author:** Andrew Garcia
-* **Release Date:** October 18, 2016 @ 06:11:51
+* **Release Date:** October 18, 2016 @ 07:11:51
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Predictions for the geysers Old Faithful, Beehive, Oblong, Great Fountain, Daisy
 * **ID:** amzn1.ask.skill.4446ca6e-bada-45fc-ab00-49af24441062
 * **ASIN:** B01J9YOHWY
 * **Author:** Smiling Unicorn
-* **Release Date:** August 29, 2016 @ 02:32:54
+* **Release Date:** August 29, 2016 @ 03:32:54
 * **In-App Purchasing:** No

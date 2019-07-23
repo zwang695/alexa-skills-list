@@ -26,5 +26,5 @@ Game Features:
 * **ID:** amzn1.echo-sdk-ams.app.b693dcd4-2013-45ca-bb35-c1b007270b2d
 * **ASIN:** B01DJSDT6Q
 * **Author:** Spider Key Games
-* **Release Date:** March 30, 2016 @ 06:02:25
+* **Release Date:** March 30, 2016 @ 07:02:25
 * **In-App Purchasing:** No

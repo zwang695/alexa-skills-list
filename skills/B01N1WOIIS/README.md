@@ -20,7 +20,7 @@ Get the location of your car equipped with an Accutracking GPS tracker. This ski
 * **ID:** amzn1.ask.skill.0266dc78-6d73-4b5f-b35a-5a3c3a414984
 * **ASIN:** B01N1WOIIS
 * **Author:** AccuTracking Inc.
-* **Release Date:** December 29, 2016 @ 05:20:01
+* **Release Date:** December 29, 2016 @ 06:20:01
 * **Privacy Policy:** https://secure.accutracking.com/privacypolicy.php
 * **Terms of Use:** https://secure.accutracking.com/terms.php
 * **In-App Purchasing:** Yes

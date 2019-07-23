@@ -24,5 +24,5 @@ Battery Boot Base for Amazon Echo
 * **ID:** amzn1.echo-sdk-ams.app.ecbcdf2c-c4b3-47eb-bdc4-4c6d7c02f826
 * **ASIN:** B01BKYR0WK
 * **Author:** Koozie LLC
-* **Release Date:** February 8, 2016 @ 16:58:41
+* **Release Date:** February 8, 2016 @ 17:58:41
 * **In-App Purchasing:** No

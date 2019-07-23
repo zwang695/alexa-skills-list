@@ -20,5 +20,5 @@ All the secrets of who you think you might like!
 * **ID:** amzn1.echo-sdk-ams.app.4cf76655-79e4-432f-b42c-95658c09bbb9
 * **ASIN:** B01HLE3NDS
 * **Author:** Vincent Liu
-* **Release Date:** June 28, 2016 @ 08:45:39
+* **Release Date:** June 28, 2016 @ 09:45:39
 * **In-App Purchasing:** No

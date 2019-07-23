@@ -23,5 +23,5 @@ This skill by no means an alternative to medicines or any prescription. This ski
 * **ID:** amzn1.echo-sdk-ams.app.5417ad06-6656-48d6-876d-78981203995e
 * **ASIN:** B01FQEPKFY
 * **Author:** Aradhana Duppala
-* **Release Date:** August 8, 2016 @ 06:07:43
+* **Release Date:** August 8, 2016 @ 07:07:43
 * **In-App Purchasing:** No

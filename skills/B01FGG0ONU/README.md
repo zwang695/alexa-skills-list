@@ -20,5 +20,5 @@ Learn more about the American Civil War with Alexa!  You can learn something new
 * **ID:** amzn1.echo-sdk-ams.app.2b806af6-a74e-4740-9485-0791952e78ec
 * **ASIN:** B01FGG0ONU
 * **Author:** Roaming Hill
-* **Release Date:** May 12, 2016 @ 03:08:30
+* **Release Date:** May 12, 2016 @ 04:08:30
 * **In-App Purchasing:** No

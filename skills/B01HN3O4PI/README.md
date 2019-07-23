@@ -20,5 +20,5 @@ Play Soul Music Trivia.  Soul Music Trivia. Questions from the 60's, 70's and 80
 * **ID:** amzn1.echo-sdk-ams.app.652951b2-3ac4-43a1-9b10-81f7f71643a6
 * **ASIN:** B01HN3O4PI
 * **Author:** Cheryl Troup
-* **Release Date:** June 30, 2016 @ 05:57:26
+* **Release Date:** June 30, 2016 @ 06:57:26
 * **In-App Purchasing:** No

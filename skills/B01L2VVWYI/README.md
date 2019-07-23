@@ -26,7 +26,7 @@ My Pregnancy is for information purposes only and is not a substitute for regula
 * **ID:** amzn1.ask.skill.d15ad666-789b-428b-9581-dd76757cf6ce
 * **ASIN:** B01L2VVWYI
 * **Author:** BabyCenter LLC
-* **Release Date:** August 30, 2016 @ 07:34:41
+* **Release Date:** August 30, 2016 @ 08:34:41
 * **Privacy Policy:** http://www.babycenter.com/help-privacy
 * **Terms of Use:** http://www.babycenter.com/help-privacy
 * **In-App Purchasing:** No

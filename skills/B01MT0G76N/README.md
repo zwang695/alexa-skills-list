@@ -26,5 +26,5 @@ When you first invoke History Today, you will query event history.  To change qu
 * **ID:** amzn1.ask.skill.14bc9fae-b95b-451a-ba80-be54ae96e6f6
 * **ASIN:** B01MT0G76N
 * **Author:** vc.wong
-* **Release Date:** December 22, 2016 @ 04:19:44
+* **Release Date:** December 22, 2016 @ 05:19:44
 * **In-App Purchasing:** No

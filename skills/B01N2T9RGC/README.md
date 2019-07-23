@@ -18,5 +18,5 @@ Wondering if it's a good day for your motorcycle? Just ask Motorcycle forecast! 
 * **ID:** amzn1.ask.skill.f0229be2-9d15-4388-a549-c97f3e69ccc2
 * **ASIN:** B01N2T9RGC
 * **Author:** Chris Weber
-* **Release Date:** December 14, 2016 @ 04:49:36
+* **Release Date:** December 14, 2016 @ 05:49:36
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ To play the game, say, "Alexa launch Guess My Number".
 * **ID:** amzn1.echo-sdk-ams.app.6b8544a7-486c-475a-ae3a-062c0d7bb56f
 * **ASIN:** B01H0T2FY2
 * **Author:** worldengine
-* **Release Date:** June 14, 2016 @ 08:15:34
+* **Release Date:** June 14, 2016 @ 09:15:34
 * **In-App Purchasing:** No

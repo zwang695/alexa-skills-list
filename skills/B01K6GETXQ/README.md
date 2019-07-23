@@ -27,5 +27,5 @@ Office Friends Trivia is a 5 question trivia game that tests your knowledge of N
 * **ID:** amzn1.ask.skill.0a3f722c-b550-47d0-88b9-34516e5ebf56
 * **ASIN:** B01K6GETXQ
 * **Author:** Impekable
-* **Release Date:** August 12, 2016 @ 03:07:50
+* **Release Date:** August 12, 2016 @ 04:07:50
 * **In-App Purchasing:** No

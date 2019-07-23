@@ -20,5 +20,5 @@ The Wolf Ridge Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.09bca950-5ddb-4dac-b51b-180c60ddc032
 * **ASIN:** B01MCXJX6L
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:45:09
+* **Release Date:** October 26, 2016 @ 02:45:09
 * **In-App Purchasing:** No

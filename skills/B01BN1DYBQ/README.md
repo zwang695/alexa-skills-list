@@ -37,6 +37,6 @@ Here are some examples of what you can say:
 * **ID:** amzn1.echo-sdk-ams.app.d5cd74c4-4884-41fe-a8af-d9330a2fd53e
 * **ASIN:** B01BN1DYBQ
 * **Author:** GeekGirl Marketing and App Development
-* **Release Date:** February 10, 2016 @ 17:37:51
+* **Release Date:** February 10, 2016 @ 18:37:51
 * **Privacy Policy:** https://www.iubenda.com/privacy-policy/7758923
 * **In-App Purchasing:** No

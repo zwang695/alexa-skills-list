@@ -24,5 +24,5 @@ Once you've enabled the skill, ask Travel Warning:
 * **ID:** amzn1.ask.skill.08606cd7-d00e-48ec-aa54-e8d50e9cb359
 * **ASIN:** B01N7JFSOP
 * **Author:** Jess Lampe
-* **Release Date:** December 28, 2016 @ 04:49:13
+* **Release Date:** December 28, 2016 @ 05:49:13
 * **In-App Purchasing:** No

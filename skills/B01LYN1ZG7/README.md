@@ -20,5 +20,5 @@ The Mission Ridge Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.000e9443-8a8b-4f8a-8770-a6284f8d834a
 * **ASIN:** B01LYN1ZG7
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:12:47
+* **Release Date:** October 19, 2016 @ 12:12:47
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill will give the user a set of 5 randomized questions about camping and 
 * **ID:** amzn1.echo-sdk-ams.app.f403eff7-27d6-4ce5-a1cc-c569a18840ce
 * **ASIN:** B01HU8QGK2
 * **Author:** Stephen Ecsedy
-* **Release Date:** July 6, 2016 @ 01:57:46
+* **Release Date:** July 6, 2016 @ 02:57:46
 * **In-App Purchasing:** No

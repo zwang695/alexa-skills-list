@@ -16,5 +16,5 @@ Get help deciding what style of BCD (buoyancy compensator) you should purchase f
 * **ID:** amzn1.ask.skill.e9afa849-6839-49da-be04-3739ab334309
 * **ASIN:** B01K8GHV1Q
 * **Author:** ChesEnt
-* **Release Date:** August 24, 2016 @ 02:01:33
+* **Release Date:** August 24, 2016 @ 03:01:33
 * **In-App Purchasing:** No

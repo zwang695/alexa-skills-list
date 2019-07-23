@@ -23,7 +23,7 @@ Thank you and Enjoy.  Digital Spring Apps.
 * **ID:** amzn1.ask.skill.465d2a8d-4efc-4a73-b3dd-a5b3d34c3d2b
 * **ASIN:** B01N8X5ABN
 * **Author:** Digital Spring Apps
-* **Release Date:** November 12, 2016 @ 00:42:56
+* **Release Date:** November 12, 2016 @ 01:42:56
 * **Privacy Policy:** http://www.digitalspringapps.com/apps/mtprivacy
 * **Terms of Use:** http://www.digitalspringapps.com/apps/mtprivacy
 * **In-App Purchasing:** No

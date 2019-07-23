@@ -20,6 +20,6 @@ Cat Facts provides a series of fun facts about cats, with topics ranging from hi
 * **ID:** amzn1.ask.skill.355eb477-8c9a-4aaa-bf73-5ba189c71e6b
 * **ASIN:** B01K5JZC2Q
 * **Author:** Red Safi LLC
-* **Release Date:** August 12, 2016 @ 01:07:29
+* **Release Date:** August 12, 2016 @ 02:07:29
 * **Privacy Policy:** http://www.objectivasoftware.com/privacy/
 * **In-App Purchasing:** No

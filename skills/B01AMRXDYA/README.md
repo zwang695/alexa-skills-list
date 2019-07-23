@@ -20,5 +20,5 @@ Use HawkBus to get the next time until the next bus arrives at a specified stop 
 * **ID:** amzn1.echo-sdk-ams.app.48cb5619-37ef-4b29-ac19-b4356c57a460
 * **ASIN:** B01AMRXDYA
 * **Author:** K Farrell
-* **Release Date:** January 14, 2016 @ 17:18:35
+* **Release Date:** January 14, 2016 @ 18:18:35
 * **In-App Purchasing:** No

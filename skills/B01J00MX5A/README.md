@@ -22,5 +22,5 @@ Begin by enabling the skill and saying "Alexa, open design pattern flash cards."
 * **ID:** amzn1.ask.skill.4fade8c7-17e7-470b-a6b9-29c1af26d73f
 * **ASIN:** B01J00MX5A
 * **Author:** mastash3ff
-* **Release Date:** August 4, 2016 @ 06:11:46
+* **Release Date:** August 4, 2016 @ 07:11:46
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a skill full of facts of one of earth's most interesting mammals, the gi
 * **ID:** amzn1.ask.skill.4eb90661-a436-46a0-b14c-b370d8d41ec5
 * **ASIN:** B01M3RWGKW
 * **Author:** Mark Byers
-* **Release Date:** October 25, 2016 @ 01:45:57
+* **Release Date:** October 25, 2016 @ 02:45:57
 * **In-App Purchasing:** No

@@ -25,5 +25,5 @@ Alexa, open Interesting Space Facts.
 * **ID:** amzn1.echo-sdk-ams.app.ce2ed65a-3349-4276-9f7b-f833118d45ff
 * **ASIN:** B01FZVZQV6
 * **Author:** kevinvle
-* **Release Date:** May 27, 2016 @ 13:09:10
+* **Release Date:** May 27, 2016 @ 14:09:10
 * **In-App Purchasing:** No

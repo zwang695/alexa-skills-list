@@ -20,5 +20,5 @@ This is a tool/ skill that will help the user find the minecraft block id quick 
 * **ID:** amzn1.echo-sdk-ams.app.715a7a3a-edd1-4410-b634-4702e40e1ac0
 * **ASIN:** B01I7DEG4C
 * **Author:** AjitM
-* **Release Date:** July 27, 2016 @ 09:26:59
+* **Release Date:** July 27, 2016 @ 10:26:59
 * **In-App Purchasing:** No

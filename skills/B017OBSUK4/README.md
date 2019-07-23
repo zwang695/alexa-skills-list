@@ -16,7 +16,7 @@ With Superpower, you can get an interesting conversation topic to start an engag
 * **ID:** amzn1.echo-sdk-ams.app.44b7b9da-ae74-42ae-8a4f-0acdc834c737
 * **ASIN:** B017OBSUK4
 * **Author:** Superpower Lab, LLC
-* **Release Date:** November 6, 2015 @ 14:16:29
+* **Release Date:** November 6, 2015 @ 15:16:29
 * **Privacy Policy:** http://superpower.me/privacy-policy
 * **Terms of Use:** http://superpower.me/terms-of-service
 * **In-App Purchasing:** No

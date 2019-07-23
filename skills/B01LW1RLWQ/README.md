@@ -31,6 +31,6 @@ EZLynx® develops industry-leading cloud-based software for the insurance indust
 * **ID:** amzn1.ask.skill.0716410b-5752-4988-9ba2-21dee91e5a11
 * **ASIN:** B01LW1RLWQ
 * **Author:** Ezlynx
-* **Release Date:** October 13, 2016 @ 16:16:13
+* **Release Date:** October 13, 2016 @ 17:16:13
 * **Privacy Policy:** https://www.ezlynx.com/support/privacy-policy/
 * **In-App Purchasing:** No

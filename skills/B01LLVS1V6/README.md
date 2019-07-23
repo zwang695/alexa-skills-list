@@ -20,5 +20,5 @@ A skill to help you find the current flavor of the day at Michael's Frozen Custa
 * **ID:** amzn1.echo-sdk-ams.app.681413a8-bddd-4731-9af8-a8eb8f728280
 * **ASIN:** B01LLVS1V6
 * **Author:** Matthew Soucoup
-* **Release Date:** September 7, 2016 @ 04:33:30
+* **Release Date:** September 7, 2016 @ 05:33:30
 * **In-App Purchasing:** No

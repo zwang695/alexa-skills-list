@@ -16,5 +16,5 @@ Learn some interesting and little known facts about space. From the Earth to the
 * **ID:** amzn1.ask.skill.8d962717-997a-4f5c-b39a-d46e36755d1f
 * **ASIN:** B01NAOI007
 * **Author:** WolffeApps
-* **Release Date:** January 1, 2017 @ 23:18:46
+* **Release Date:** January 2, 2017 @ 00:18:46
 * **In-App Purchasing:** No

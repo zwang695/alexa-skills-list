@@ -26,7 +26,7 @@ Learn more about the Fandango skill at www.fandango.com/alexa.
 * **ID:** amzn1.ask.skill.65665004-7009-412b-85dc-4b559fd37196
 * **ASIN:** B01N5FH66U
 * **Author:** Fandango, Inc
-* **Release Date:** December 15, 2016 @ 15:20:43
+* **Release Date:** December 15, 2016 @ 16:20:43
 * **Privacy Policy:** https://www.fandango.com/policies/privacy-policy
 * **Account Linking Domains:** identityadapter.services.fandango.com, mobile.fandango.com, www.fandango.com, www.google.com, fonts.fandango.com, images.fandango.com
 * **In-App Purchasing:** Yes

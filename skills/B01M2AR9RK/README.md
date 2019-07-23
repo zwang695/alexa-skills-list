@@ -27,5 +27,5 @@ Game content: Copyright NHL Enterprises, L.P. All Rights Reserved.
 * **ID:** amzn1.ask.skill.c5bcc69c-99cc-4f55-b3d8-0360069ca8a3
 * **ASIN:** B01M2AR9RK
 * **Author:** Scott Wasserman
-* **Release Date:** November 4, 2016 @ 02:43:58
+* **Release Date:** November 4, 2016 @ 03:43:58
 * **In-App Purchasing:** No

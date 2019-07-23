@@ -20,5 +20,5 @@ Ask Alexa for information about Stockholm, it will announce a random fact about 
 * **ID:** amzn1.ask.skill.519bd6c3-9a9d-4aa7-b4d5-56ddd6fa5ce1
 * **ASIN:** B01M31NC7B
 * **Author:** Adam McClenaghan
-* **Release Date:** November 2, 2016 @ 02:13:23
+* **Release Date:** November 2, 2016 @ 03:13:23
 * **In-App Purchasing:** No

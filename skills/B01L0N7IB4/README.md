@@ -20,5 +20,5 @@ All you need is an Alexa to learn some of the fascinating history surrounding co
 * **ID:** amzn1.ask.skill.cd24b83f-dc86-4b84-99c2-8fe1b2c5cf0f
 * **ASIN:** B01L0N7IB4
 * **Author:** Joseph Fraley
-* **Release Date:** August 29, 2016 @ 01:32:49
+* **Release Date:** August 29, 2016 @ 02:32:49
 * **In-App Purchasing:** No

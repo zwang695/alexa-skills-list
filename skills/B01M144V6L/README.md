@@ -22,5 +22,5 @@ This is a work in progress, and I plan to add more things you can ask her, as we
 * **ID:** amzn1.ask.skill.ff7e863e-348e-4213-bd91-1c9f0fcfbac5
 * **ASIN:** B01M144V6L
 * **Author:** Yanofsky Group LLC
-* **Release Date:** September 22, 2016 @ 07:11:58
+* **Release Date:** September 22, 2016 @ 08:11:58
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Think you can conquer the Iron Throne throughout the Seven Kingdoms in all of We
 * **ID:** amzn1.echo-sdk-ams.app.62243547-0e42-4255-92b6-211ba40262f5
 * **ASIN:** B01GGKYJQ8
 * **Author:** mehtaculous
-* **Release Date:** June 8, 2016 @ 07:41:36
+* **Release Date:** June 8, 2016 @ 08:41:36
 * **In-App Purchasing:** No

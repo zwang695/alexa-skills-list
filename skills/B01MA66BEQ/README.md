@@ -20,5 +20,5 @@ The Lost Valley Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.2ff80495-2675-493b-a10f-9f8623d9bf6b
 * **ASIN:** B01MA66BEQ
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:15:58
+* **Release Date:** October 21, 2016 @ 15:15:58
 * **In-App Purchasing:** No

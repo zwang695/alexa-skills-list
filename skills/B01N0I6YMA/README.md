@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.042f8f66-c216-4c07-a844-bd0095caf16c
 * **ASIN:** B01N0I6YMA
 * **Author:** neulandherzer
-* **Release Date:** December 22, 2016 @ 07:19:05
+* **Release Date:** December 22, 2016 @ 08:19:05
 * **In-App Purchasing:** No

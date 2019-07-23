@@ -20,5 +20,5 @@ This skill is a quiz game where you will be asked to select the true definitions
 * **ID:** amzn1.echo-sdk-ams.app.c4dc3e9a-1566-4659-9c88-d780aab9c8cb
 * **ASIN:** B01H9G9AU8
 * **Author:** Chloé Kiddon
-* **Release Date:** June 21, 2016 @ 01:45:33
+* **Release Date:** June 21, 2016 @ 02:45:33
 * **In-App Purchasing:** No

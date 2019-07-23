@@ -23,5 +23,5 @@ For assistance, visit: http://www.utah.gov/support
 * **ID:** amzn1.echo-sdk-ams.app.cd5eb78c-05b9-4b37-952a-00d9e18040ac
 * **ASIN:** B01DWXGIR0
 * **Author:** Utah Interactive
-* **Release Date:** April 22, 2016 @ 10:08:25
+* **Release Date:** April 22, 2016 @ 11:08:25
 * **In-App Purchasing:** No

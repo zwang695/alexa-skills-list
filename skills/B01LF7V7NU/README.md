@@ -20,5 +20,5 @@ this skill helps you to get information about the movies and tv series.  it will
 * **ID:** amzn1.ask.skill.6e1c20bc-d5fe-46b9-bce6-d5ce7d0904a5
 * **ASIN:** B01LF7V7NU
 * **Author:** Helios
-* **Release Date:** September 7, 2016 @ 05:03:23
+* **Release Date:** September 7, 2016 @ 06:03:23
 * **In-App Purchasing:** No

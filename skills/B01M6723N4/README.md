@@ -20,5 +20,5 @@ You can learn some Korean words by playing quiz game. The words in this quiz are
 * **ID:** amzn1.ask.skill.829defe8-aa2c-41a2-adf4-d3a359aca2b1
 * **ASIN:** B01M6723N4
 * **Author:** hjPark
-* **Release Date:** October 25, 2016 @ 01:13:44
+* **Release Date:** October 25, 2016 @ 02:13:44
 * **In-App Purchasing:** No

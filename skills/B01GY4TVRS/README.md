@@ -20,5 +20,5 @@ Everything you'd every want to know about beards, whether it be totally useless,
 * **ID:** amzn1.echo-sdk-ams.app.8b71af47-e4c2-4565-ac1e-7d1c58254d26
 * **ASIN:** B01GY4TVRS
 * **Author:** Cramer Technologies LLC
-* **Release Date:** June 13, 2016 @ 08:09:48
+* **Release Date:** June 13, 2016 @ 09:09:48
 * **In-App Purchasing:** No

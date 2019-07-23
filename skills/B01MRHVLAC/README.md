@@ -21,7 +21,7 @@ Reviewer, date review was published, ISBN and with Alexa app, A link that can be
 * **ID:** amzn1.ask.skill.17eb3ae7-701d-4da9-b803-f62004205509
 * **ASIN:** B01MRHVLAC
 * **Author:** Digital Spring Apps
-* **Release Date:** December 5, 2016 @ 01:06:23
+* **Release Date:** December 5, 2016 @ 02:06:23
 * **Privacy Policy:** http://www.digitalspring.com/apps/mtprivacy
 * **Terms of Use:** http://www.digitalspring.com/apps/mtprivacy
 * **In-App Purchasing:** No

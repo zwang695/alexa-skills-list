@@ -16,5 +16,5 @@ Trivia game based on clocks and facts about time
 * **ID:** amzn1.ask.skill.71d33fa9-5b5e-4f5f-a71d-93478843487e
 * **ASIN:** B01LBR3M6E
 * **Author:** Arin
-* **Release Date:** September 1, 2016 @ 07:03:11
+* **Release Date:** September 1, 2016 @ 08:03:11
 * **In-App Purchasing:** No

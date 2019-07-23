@@ -20,5 +20,5 @@ Looking for a restaurant near you? This skill will help you find some good resta
 * **ID:** amzn1.ask.skill.ea3cdad2-2e98-4b0e-a12d-fddeb044b1b7
 * **ASIN:** B01MG1T4JM
 * **Author:** FreshDigitalGroup
-* **Release Date:** November 2, 2016 @ 09:13:48
+* **Release Date:** November 2, 2016 @ 10:13:48
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Mount Seymour Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.227a5f6c-4f26-4234-9f00-06c8cced93c8
 * **ASIN:** B01LWOOEMY
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:56:29
+* **Release Date:** October 20, 2016 @ 03:56:29
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ To play, just say "Alexa, play According to Bob"
 * **ID:** amzn1.echo-sdk-ams.app.4b5c58dc-369c-4302-b180-8a6ca1fe1610
 * **ASIN:** B01EWIJNHQ
 * **Author:** AHA!
-* **Release Date:** May 6, 2016 @ 07:38:35
+* **Release Date:** May 6, 2016 @ 08:38:35
 * **In-App Purchasing:** No

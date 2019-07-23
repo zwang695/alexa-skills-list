@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.bf0b2cab-eb77-42d4-914f-cc2dd3036311
 * **ASIN:** B01N5HRUIX
 * **Author:** Stefan Doering
-* **Release Date:** December 24, 2016 @ 06:18:52
+* **Release Date:** December 24, 2016 @ 07:18:52
 * **In-App Purchasing:** No

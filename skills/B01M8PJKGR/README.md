@@ -20,5 +20,5 @@ S. Watch is your all-purpose stopwatch.  Just start it and it will track how lon
 * **ID:** amzn1.ask.skill.1925fb17-06d3-4803-b3a9-a73f7f251d7f
 * **ASIN:** B01M8PJKGR
 * **Author:** Paul Eden
-* **Release Date:** November 9, 2016 @ 00:46:40
+* **Release Date:** November 9, 2016 @ 01:46:40
 * **In-App Purchasing:** No

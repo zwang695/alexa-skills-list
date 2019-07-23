@@ -22,5 +22,5 @@ Contribute: https://github.com/Shwheelz/dex_trivia
 * **ID:** amzn1.echo-sdk-ams.app.34b4784b-1abc-4011-bf8d-6bdddb056671
 * **ASIN:** B01EGB0FNU
 * **Author:** Shwheelz
-* **Release Date:** May 6, 2016 @ 07:38:31
+* **Release Date:** May 6, 2016 @ 08:38:31
 * **In-App Purchasing:** No

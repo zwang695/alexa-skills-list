@@ -26,5 +26,5 @@ if you need to play another chapter, say "ask holy quraan to play number one" or
 * **ID:** amzn1.ask.skill.e179d511-d2ef-403a-a8b4-30af3bd9c371
 * **ASIN:** B01NA9OQPA
 * **Author:** GO-APP
-* **Release Date:** December 29, 2016 @ 04:50:04
+* **Release Date:** December 29, 2016 @ 05:50:04
 * **In-App Purchasing:** No

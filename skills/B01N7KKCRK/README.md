@@ -21,5 +21,5 @@ Simply say- "Alexa, ask Word Gen to give me a five letter word" and it will gene
 * **ID:** amzn1.ask.skill.493dec55-7b42-40d5-9899-105e689dc8cf
 * **ASIN:** B01N7KKCRK
 * **Author:** Ucf
-* **Release Date:** December 24, 2016 @ 06:19:04
+* **Release Date:** December 24, 2016 @ 07:19:04
 * **In-App Purchasing:** No

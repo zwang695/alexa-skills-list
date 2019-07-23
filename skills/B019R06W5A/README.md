@@ -22,5 +22,5 @@ Simply start by saying "Alexa, launch Domain Name Info" and Alexa will guide you
 * **ID:** amzn1.echo-sdk-ams.app.286182e3-a8f3-4af9-b98a-f7b4cae8c6de
 * **ASIN:** B019R06W5A
 * **Author:** Joel Fries
-* **Release Date:** December 23, 2015 @ 16:04:32
+* **Release Date:** December 23, 2015 @ 17:04:32
 * **In-App Purchasing:** No

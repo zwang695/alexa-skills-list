@@ -24,5 +24,5 @@ Get ready. Get set. Go!
 * **ID:** amzn1.echo-sdk-ams.app.d483e0fb-bdcd-493d-8bb5-815ed4115d1f
 * **ASIN:** B01DL1S65A
 * **Author:** AdamPreston.me
-* **Release Date:** March 29, 2016 @ 13:30:00
+* **Release Date:** March 29, 2016 @ 14:30:00
 * **In-App Purchasing:** No

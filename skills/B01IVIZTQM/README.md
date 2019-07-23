@@ -20,5 +20,5 @@ This is a fun Fact Skill for hummingbird watchers and enthusiasts. Credits: Icon
 * **ID:** amzn1.ask.skill.f042ef0d-69bf-4d7a-8c9c-2a41e97a829c
 * **ASIN:** B01IVIZTQM
 * **Author:** Jeepney Labs
-* **Release Date:** July 22, 2016 @ 07:56:35
+* **Release Date:** July 22, 2016 @ 08:56:35
 * **In-App Purchasing:** No

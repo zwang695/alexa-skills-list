@@ -16,5 +16,5 @@ Ask Alexa about facts about whales!
 * **ID:** amzn1.ask.skill.94135b42-0e34-49b4-849e-16d599b5d4e9
 * **ASIN:** B01LWCYLEY
 * **Author:** Samir
-* **Release Date:** September 11, 2016 @ 03:46:11
+* **Release Date:** September 11, 2016 @ 04:46:11
 * **In-App Purchasing:** No

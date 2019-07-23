@@ -22,5 +22,5 @@ This skill is 100% fan-made and is not sponsored or endorsed by Psyonix, Inc.
 * **ID:** amzn1.ask.skill.7ff5a4f7-e451-468f-9897-3544c9fa35f2
 * **ASIN:** B01N6L3J72
 * **Author:** SD
-* **Release Date:** January 3, 2017 @ 00:49:13
+* **Release Date:** January 3, 2017 @ 01:49:13
 * **In-App Purchasing:** No

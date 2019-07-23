@@ -20,5 +20,5 @@ Get up-to-data MTA subway information! Gets data on all delayed trains, your pre
 * **ID:** amzn1.ask.skill.adb52ac0-605b-4f48-801c-8fa4984162f5
 * **ASIN:** B01MSMFZLF
 * **Author:** Noah Feder
-* **Release Date:** December 1, 2016 @ 09:05:29
+* **Release Date:** December 1, 2016 @ 10:05:29
 * **In-App Purchasing:** No

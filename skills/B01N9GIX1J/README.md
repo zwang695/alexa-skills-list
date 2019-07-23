@@ -26,5 +26,5 @@ Go ahead and try it now!
 * **ID:** amzn1.ask.skill.ed108ca5-b703-4b4c-9d89-ace3517c2fa9
 * **ASIN:** B01N9GIX1J
 * **Author:** Drawrz.com
-* **Release Date:** December 14, 2016 @ 02:20:06
+* **Release Date:** December 14, 2016 @ 03:20:06
 * **In-App Purchasing:** No

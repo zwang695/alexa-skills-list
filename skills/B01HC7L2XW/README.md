@@ -24,5 +24,5 @@ Start challenging yourself!
 * **ID:** amzn1.echo-sdk-ams.app.cc8662c7-7914-4cf4-a3ae-44b2c662be81
 * **ASIN:** B01HC7L2XW
 * **Author:** ricardohdz
-* **Release Date:** July 4, 2016 @ 05:57:57
+* **Release Date:** July 4, 2016 @ 06:57:57
 * **In-App Purchasing:** No

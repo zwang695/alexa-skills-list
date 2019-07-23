@@ -20,5 +20,5 @@ This skill forecasts near earth objects for today or seven days and will list an
 * **ID:** amzn1.ask.skill.b42b3a51-3972-4fea-af86-b9ca85690ff1
 * **ASIN:** B01MSYWFNW
 * **Author:** Todd Erickson
-* **Release Date:** December 19, 2016 @ 02:49:46
+* **Release Date:** December 19, 2016 @ 03:49:46
 * **In-App Purchasing:** No

@@ -36,5 +36,5 @@ Once you’ve enabled the skill, say “Alexa, ask re:Invent…”
 * **ID:** amzn1.ask.skill.083bbcb1-9fa6-4276-b21a-a5ec7817e959
 * **ASIN:** B01MQK6PNC
 * **Author:** Amazon
-* **Release Date:** November 23, 2016 @ 18:35:51
+* **Release Date:** November 23, 2016 @ 19:35:51
 * **In-App Purchasing:** No

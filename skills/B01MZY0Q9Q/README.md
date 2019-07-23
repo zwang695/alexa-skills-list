@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.53894cfd-706d-4bd5-a81d-1032dff57590
 * **ASIN:** B01MZY0Q9Q
 * **Author:** Klaus Breuer
-* **Release Date:** November 29, 2016 @ 02:05:42
+* **Release Date:** November 29, 2016 @ 03:05:42
 * **In-App Purchasing:** No

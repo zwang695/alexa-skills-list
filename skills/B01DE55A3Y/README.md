@@ -20,5 +20,5 @@ Test your knowledge of the US National Parks. Answer questions about  the locati
 * **ID:** amzn1.echo-sdk-ams.app.0d1811fe-2e57-4dc8-a500-144af30b19d6
 * **ASIN:** B01DE55A3Y
 * **Author:** Ron Lisle
-* **Release Date:** March 24, 2016 @ 13:37:30
+* **Release Date:** March 24, 2016 @ 14:37:30
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a Phish trivia game, made by phans for phans - we will be adding new que
 * **ID:** amzn1.echo-sdk-ams.app.dacfc86a-8f33-4421-85b4-95a7eb07e4ad
 * **ASIN:** B01C7X6SQW
 * **Author:** EP
-* **Release Date:** February 25, 2016 @ 18:02:33
+* **Release Date:** February 25, 2016 @ 19:02:33
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ This skill is not endorsed by Public Transport Victoria however data is provided
 * **ID:** amzn1.ask.skill.58cc55c5-5c0b-4241-9cc6-c33b71812ac7
 * **ASIN:** B01NAGYEKG
 * **Author:** Michael Wheeler
-* **Release Date:** December 15, 2016 @ 01:49:55
+* **Release Date:** December 15, 2016 @ 02:49:55
 * **In-App Purchasing:** No

@@ -28,5 +28,5 @@ Feedback: cloudstatus@stormyriver.com
 * **ID:** amzn1.echo-sdk-ams.app.7df152ec-4599-4aaf-be89-75f1caa87c56
 * **ASIN:** B01HRMOGE4
 * **Author:** Alestic, LLC
-* **Release Date:** July 6, 2016 @ 07:57:26
+* **Release Date:** July 6, 2016 @ 08:57:26
 * **In-App Purchasing:** No

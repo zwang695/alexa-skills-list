@@ -20,5 +20,5 @@ The Crabbe Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.c0af9490-ff6f-4c6e-9dc5-7c2b213a1e65
 * **ASIN:** B01N099QG8
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:15:00
+* **Release Date:** November 5, 2016 @ 12:15:00
 * **In-App Purchasing:** No

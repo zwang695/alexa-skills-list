@@ -20,5 +20,5 @@ This is an app that allows you to subscribe to random cat facts. All you really 
 * **ID:** amzn1.ask.skill.d0786a00-6092-4d1a-9625-733683e4ca9a
 * **ASIN:** B01MR023R6
 * **Author:** Sherry
-* **Release Date:** December 29, 2016 @ 05:19:56
+* **Release Date:** December 29, 2016 @ 06:19:56
 * **In-App Purchasing:** No

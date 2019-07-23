@@ -20,5 +20,5 @@ The finest jokes from Reddit, courtesy of r/jokes. Only the best jokes. Choose f
 * **ID:** amzn1.ask.skill.f9aa6897-6746-46f6-bfad-a6fad3f18109
 * **ASIN:** B01MTKPG8V
 * **Author:** Arvinth Sethuraman
-* **Release Date:** November 25, 2016 @ 04:06:46
+* **Release Date:** November 25, 2016 @ 05:06:46
 * **In-App Purchasing:** No

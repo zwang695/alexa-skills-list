@@ -20,5 +20,5 @@ You can use Pick Someone to create a list of names and have it choose one from y
 * **ID:** amzn1.echo-sdk-ams.app.f4bfe2fa-ca00-464a-8744-d64afcf631cb
 * **ASIN:** B01FCMY3DU
 * **Author:** Einran 
-* **Release Date:** May 25, 2016 @ 06:08:28
+* **Release Date:** May 25, 2016 @ 07:08:28
 * **In-App Purchasing:** No

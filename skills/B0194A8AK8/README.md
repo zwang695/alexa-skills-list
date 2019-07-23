@@ -31,5 +31,5 @@ For help just say, Alexa, ask my ghost for help
 * **ID:** amzn1.echo-sdk-ams.app.ec33d82c-05e9-4965-9351-52b31ec28ab5
 * **ASIN:** B0194A8AK8
 * **Author:** Puzzles Interactive.
-* **Release Date:** December 8, 2015 @ 19:24:10
+* **Release Date:** December 8, 2015 @ 20:24:10
 * **In-App Purchasing:** No

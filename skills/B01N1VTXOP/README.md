@@ -20,5 +20,5 @@ Planning to visit Union City, California? or living there? This skill would give
 * **ID:** amzn1.ask.skill.c09f8e4b-fcc8-455f-9d8c-51f61a98dec7
 * **ASIN:** B01N1VTXOP
 * **Author:** BarunRoy
-* **Release Date:** December 29, 2016 @ 05:49:58
+* **Release Date:** December 29, 2016 @ 06:49:58
 * **In-App Purchasing:** No

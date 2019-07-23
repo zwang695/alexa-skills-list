@@ -28,5 +28,5 @@ This skill is not sponsored or endorsed by Minecraft.
 * **ID:** amzn1.ask.skill.6adaef4b-28a7-44bd-9203-69fe89cef418
 * **ASIN:** B01MQMJGKS
 * **Author:** Matthew E Development
-* **Release Date:** November 27, 2016 @ 07:05:08
+* **Release Date:** November 27, 2016 @ 08:05:08
 * **In-App Purchasing:** No

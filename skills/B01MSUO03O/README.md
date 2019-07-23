@@ -24,5 +24,5 @@ You already plan your day to make the most of the sunshine - now you can make th
 * **ID:** amzn1.ask.skill.1b919c04-244b-4b83-8ed9-1c8e1a2c169f
 * **ASIN:** B01MSUO03O
 * **Author:** Plume Labs
-* **Release Date:** December 6, 2016 @ 03:35:53
+* **Release Date:** December 6, 2016 @ 04:35:53
 * **In-App Purchasing:** No

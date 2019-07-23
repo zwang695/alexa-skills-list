@@ -20,5 +20,5 @@ Find out whether or not DMX is in jail whenever you like.
 * **ID:** amzn1.echo-sdk-ams.app.d0b1bf1d-3cd1-4677-bd7e-78e9b62d93e1
 * **ASIN:** B01DSB0RGE
 * **Author:** Tommy McLeroy
-* **Release Date:** April 13, 2016 @ 03:02:29
+* **Release Date:** April 13, 2016 @ 04:02:29
 * **In-App Purchasing:** No

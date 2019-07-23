@@ -20,5 +20,5 @@ Tests you on your knowledge of US State capitals for all 50 states including Dis
 * **ID:** amzn1.ask.skill.34400ea0-0027-436e-9859-84ce324c2dd4
 * **ASIN:** B01JE55V1O
 * **Author:** Travelers
-* **Release Date:** August 12, 2016 @ 09:37:22
+* **Release Date:** August 12, 2016 @ 10:37:22
 * **In-App Purchasing:** No

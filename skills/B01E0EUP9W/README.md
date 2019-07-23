@@ -20,5 +20,5 @@ Find out what your spirit animal is at that time. This will help guide decisions
 * **ID:** amzn1.echo-sdk-ams.app.d664886b-c4a5-4014-bf3c-cf5814370120
 * **ASIN:** B01E0EUP9W
 * **Author:** Tom Hudson
-* **Release Date:** April 13, 2016 @ 06:32:28
+* **Release Date:** April 13, 2016 @ 07:32:28
 * **In-App Purchasing:** No

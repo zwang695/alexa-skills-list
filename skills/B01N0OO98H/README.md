@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.bfd94004-d598-471a-abe6-69ea9e330790
 * **ASIN:** B01N0OO98H
 * **Author:** peter.schrott
-* **Release Date:** December 21, 2016 @ 05:19:01
+* **Release Date:** December 21, 2016 @ 06:19:01
 * **In-App Purchasing:** No

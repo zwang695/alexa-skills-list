@@ -24,5 +24,5 @@ Icons made by Nikita Golubev from www.flaticon.com is licensed by CC 3.0 BY.
 * **ID:** amzn1.ask.skill.2b29f4a1-4167-4fcb-8f9a-493d11336169
 * **ASIN:** B01MTZHHV8
 * **Author:** David Luna
-* **Release Date:** December 11, 2016 @ 03:49:09
+* **Release Date:** December 11, 2016 @ 04:49:09
 * **In-App Purchasing:** No

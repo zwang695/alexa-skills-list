@@ -22,5 +22,5 @@ Have Alexa read you the Sand Creek Elementary (Coon Rapids, MN) school lunch men
 * **ID:** amzn1.ask.skill.2c60854e-cb02-4a7d-95a1-39ba7719bf4f
 * **ASIN:** B01M11UV63
 * **Author:** Nate Greene
-* **Release Date:** October 6, 2016 @ 01:41:36
+* **Release Date:** October 6, 2016 @ 02:41:36
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Shanty Creek Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.2be96352-ecfb-42e7-8d14-6e52d29c953b
 * **ASIN:** B01M26UXYU
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:45:12
+* **Release Date:** October 21, 2016 @ 15:45:12
 * **In-App Purchasing:** No

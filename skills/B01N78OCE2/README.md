@@ -30,5 +30,5 @@ Coming soon: Malai Kofta
 * **ID:** amzn1.ask.skill.265c0e3d-3b47-4e37-8dc6-c42f7d86799e
 * **ASIN:** B01N78OCE2
 * **Author:** Zendizmo
-* **Release Date:** November 26, 2016 @ 04:34:49
+* **Release Date:** November 26, 2016 @ 05:34:49
 * **In-App Purchasing:** No

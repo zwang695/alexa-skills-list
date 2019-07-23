@@ -20,5 +20,5 @@ Unauthorized. This skill provides basic information about SingleStone Consulting
 * **ID:** amzn1.ask.skill.79564e41-4b1a-46a9-9a38-b6935bb53d07
 * **ASIN:** B01N9IIEJ4
 * **Author:** Pepper Industries
-* **Release Date:** December 20, 2016 @ 08:20:03
+* **Release Date:** December 20, 2016 @ 09:20:03
 * **In-App Purchasing:** No

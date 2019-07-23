@@ -20,5 +20,5 @@ Hello, this game presents five unique questions each time about the world. Every
 * **ID:** amzn1.echo-sdk-ams.app.f1907f17-4489-4413-a5ac-db8f79cab794
 * **ASIN:** B01GN6SV2S
 * **Author:** Shravani
-* **Release Date:** June 8, 2016 @ 08:09:51
+* **Release Date:** June 8, 2016 @ 09:09:51
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ The Scriptures app will read Christian scripture passages from the Bible, Book o
 * **ID:** amzn1.echo-sdk-ams.app.03b1eb95-827a-4bed-9f49-587340d13512
 * **ASIN:** B01A637FE4
 * **Author:** Spriton Systems LLC
-* **Release Date:** January 4, 2016 @ 16:04:46
+* **Release Date:** January 4, 2016 @ 17:04:46
 * **Privacy Policy:** http://spriton.com/w/privacy/
 * **Terms of Use:** http://spriton.com/w/terms/
 * **In-App Purchasing:** No

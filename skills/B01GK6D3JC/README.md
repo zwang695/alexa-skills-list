@@ -27,7 +27,7 @@ Feel free to send us feedback, bugs or feature request to twitter@futureofvoice.
 * **ID:** amzn1.echo-sdk-ams.app.c851063b-b5cf-4639-bf5e-0a5e02a432a3
 * **ASIN:** B01GK6D3JC
 * **Author:** FutureOfVoice
-* **Release Date:** June 15, 2016 @ 04:45:42
+* **Release Date:** June 15, 2016 @ 05:45:42
 * **Privacy Policy:** http://www.futureofvoice.com/privacy-policy/
 * **Account Linking Domains:** twitter.com, twitterlogin.futureofvoice.com
 * **In-App Purchasing:** No

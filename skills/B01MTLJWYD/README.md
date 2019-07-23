@@ -16,5 +16,5 @@ Tells the user a fact about glass.
 * **ID:** amzn1.ask.skill.0069dd5a-8cbb-4cc1-8d3a-c944c191d5b9
 * **ASIN:** B01MTLJWYD
 * **Author:** Lukas Joswiak
-* **Release Date:** November 15, 2016 @ 03:05:16
+* **Release Date:** November 15, 2016 @ 04:05:16
 * **In-App Purchasing:** No

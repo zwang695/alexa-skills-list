@@ -20,5 +20,5 @@ This skill allows Alexa to give you a randomly-generated quote from a U.S. Presi
 * **ID:** amzn1.echo-sdk-ams.app.324a2132-d3c1-42c4-88db-4cfd6d27aa64
 * **ASIN:** B01H9ELKZ8
 * **Author:** Jake Bell
-* **Release Date:** July 5, 2016 @ 05:27:54
+* **Release Date:** July 5, 2016 @ 06:27:54
 * **In-App Purchasing:** No

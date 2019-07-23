@@ -20,5 +20,5 @@ The Park City Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.350c2332-4813-4063-8756-79efe43d7279
 * **ASIN:** B01MRE8HGX
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:16:27
+* **Release Date:** November 4, 2016 @ 09:16:27
 * **In-App Purchasing:** No

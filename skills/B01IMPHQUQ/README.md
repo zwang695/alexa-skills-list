@@ -22,5 +22,5 @@ The easiest way to get a joke you say, "Alexa, open aggie jokes"
 * **ID:** amzn1.echo-sdk-ams.app.9cbf657c-28f4-4715-a7df-b490d3e10963
 * **ASIN:** B01IMPHQUQ
 * **Author:** Lindenstream LLC
-* **Release Date:** July 28, 2016 @ 04:56:37
+* **Release Date:** July 28, 2016 @ 05:56:37
 * **In-App Purchasing:** No

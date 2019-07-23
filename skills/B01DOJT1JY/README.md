@@ -45,7 +45,7 @@ You can reach us at m21lab@macadamian.com
 * **ID:** amzn1.echo-sdk-ams.app.a8b3cafd-c7a1-4320-98a8-ac0164cccdde
 * **ASIN:** B01DOJT1JY
 * **Author:** Macadamian
-* **Release Date:** April 25, 2016 @ 17:08:33
+* **Release Date:** April 25, 2016 @ 18:08:33
 * **Privacy Policy:** http://www.macadamian.com/privacy-policy/
 * **Terms of Use:** http://www.macadamian.com/terms-use/
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.15083546-981e-4cb2-bbc4-b4ba2b7e63ba
 * **ASIN:** B01N4B3E3P
 * **Author:** Carsten Krebs
-* **Release Date:** December 13, 2016 @ 23:49:25
+* **Release Date:** December 14, 2016 @ 00:49:25
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill allows you to look up drill bit sizes for imperial threads from "0" t
 * **ID:** amzn1.ask.skill.67d25989-46c4-45a4-97a0-e8650ee7428c
 * **ASIN:** B01MTNNXAC
 * **Author:** Made by Matt
-* **Release Date:** November 25, 2016 @ 03:38:52
+* **Release Date:** November 25, 2016 @ 04:38:52
 * **In-App Purchasing:** No

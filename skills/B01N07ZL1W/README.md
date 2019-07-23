@@ -20,5 +20,5 @@ Ask for a fact and listen to fun trivia.
 * **ID:** amzn1.ask.skill.2d483865-4f9d-4762-ac3f-f101368d893e
 * **ASIN:** B01N07ZL1W
 * **Author:** NonNone
-* **Release Date:** November 17, 2016 @ 00:05:39
+* **Release Date:** November 17, 2016 @ 01:05:39
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ It talks about aircrafts and facts related to airplanes.
 * **ID:** amzn1.ask.skill.f75f2190-c462-48b0-b569-e14e622c6c9a
 * **ASIN:** B01KRLG6MC
 * **Author:** jnishtha
-* **Release Date:** August 23, 2016 @ 07:48:42
+* **Release Date:** August 23, 2016 @ 08:48:42
 * **In-App Purchasing:** No

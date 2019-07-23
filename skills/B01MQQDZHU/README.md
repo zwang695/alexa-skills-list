@@ -20,5 +20,5 @@ Real Buddha Quotes. Get inspirational quotes from Gautam Buddha.
 * **ID:** amzn1.ask.skill.1ae2e39b-e8de-4250-a47e-67b50e09519b
 * **ASIN:** B01MQQDZHU
 * **Author:** Gecko
-* **Release Date:** December 4, 2016 @ 23:35:09
+* **Release Date:** December 5, 2016 @ 00:35:09
 * **In-App Purchasing:** No

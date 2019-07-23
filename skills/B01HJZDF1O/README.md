@@ -32,6 +32,6 @@ At any time you can ask "What's up with the Bakerloo line" or use a different li
 * **ID:** amzn1.echo-sdk-ams.app.21b3f1c4-2eaf-4e3e-af30-dc98c483043c
 * **ASIN:** B01HJZDF1O
 * **Author:** Alibro Ltd
-* **Release Date:** August 5, 2016 @ 01:38:04
+* **Release Date:** August 5, 2016 @ 02:38:04
 * **Privacy Policy:** https://makeapps.today/mb/echoprivacy.jsp
 * **In-App Purchasing:** No

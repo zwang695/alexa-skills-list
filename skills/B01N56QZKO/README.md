@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.794260a6-8aea-44ca-8346-8a394b7c6c00
 * **ASIN:** B01N56QZKO
 * **Author:** podcast.de
-* **Release Date:** November 25, 2016 @ 04:35:52
+* **Release Date:** November 25, 2016 @ 05:35:52
 * **In-App Purchasing:** No

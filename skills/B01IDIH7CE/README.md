@@ -23,5 +23,5 @@ She will respond with a somthing yummy.
 * **ID:** amzn1.echo-sdk-ams.app.7c59a329-25f8-4f84-b246-140dc73e3587
 * **ASIN:** B01IDIH7CE
 * **Author:** EMKlaus
-* **Release Date:** July 14, 2016 @ 08:27:35
+* **Release Date:** July 14, 2016 @ 09:27:35
 * **In-App Purchasing:** No

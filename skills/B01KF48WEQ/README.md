@@ -20,5 +20,5 @@ This skill responds with facts about Benjamin Franklin
 * **ID:** amzn1.ask.skill.e31316b3-3b68-41a8-9086-48adceed7d48
 * **ASIN:** B01KF48WEQ
 * **Author:** buxur
-* **Release Date:** August 19, 2016 @ 02:52:18
+* **Release Date:** August 19, 2016 @ 03:52:18
 * **In-App Purchasing:** No

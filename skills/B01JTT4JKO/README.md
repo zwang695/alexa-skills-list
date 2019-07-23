@@ -16,5 +16,5 @@ Are you thinking about getting a pet? Answer a few short questions and let Pick 
 * **ID:** amzn1.ask.skill.15ae35d0-ebe3-4e08-85b0-aa9d1dee10c6
 * **ASIN:** B01JTT4JKO
 * **Author:** PollySentrick
-* **Release Date:** August 9, 2016 @ 06:07:25
+* **Release Date:** August 9, 2016 @ 07:07:25
 * **In-App Purchasing:** No

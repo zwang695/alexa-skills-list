@@ -23,5 +23,5 @@ No external hardware necessary
 * **ID:** amzn1.echo-sdk-ams.app.7ad8a2ee-4975-4fd0-a978-31c1aa6e9672
 * **ASIN:** B01GZ8W1W0
 * **Author:** Eshwara
-* **Release Date:** June 22, 2016 @ 00:45:31
+* **Release Date:** June 22, 2016 @ 01:45:31
 * **In-App Purchasing:** No

@@ -44,5 +44,5 @@ Go ahead and try it now!
 * **ID:** amzn1.ask.skill.9c6beaaf-1f7a-42ad-8ad1-508cebe92bfe
 * **ASIN:** B01MZ19IQE
 * **Author:** Drawrz.com
-* **Release Date:** December 21, 2016 @ 01:50:16
+* **Release Date:** December 21, 2016 @ 02:50:16
 * **In-App Purchasing:** No

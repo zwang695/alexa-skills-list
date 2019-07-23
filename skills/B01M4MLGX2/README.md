@@ -22,5 +22,5 @@ See the example phrases that show how to interact with the skill. After hearing 
 * **ID:** amzn1.ask.skill.1aa07637-349f-4206-b116-9abc546448f1
 * **ASIN:** B01M4MLGX2
 * **Author:** Rachelle Rathbone
-* **Release Date:** October 27, 2016 @ 02:45:28
+* **Release Date:** October 27, 2016 @ 03:45:28
 * **In-App Purchasing:** No

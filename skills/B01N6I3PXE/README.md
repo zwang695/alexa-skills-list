@@ -20,5 +20,5 @@ Holiday destination finder helps you to spot out best destinations for your holi
 * **ID:** amzn1.ask.skill.885cf82c-241e-4529-ae65-4c8a6b9be173
 * **ASIN:** B01N6I3PXE
 * **Author:** Anuj Odaniyil
-* **Release Date:** December 21, 2016 @ 05:22:03
+* **Release Date:** December 21, 2016 @ 06:22:03
 * **In-App Purchasing:** No

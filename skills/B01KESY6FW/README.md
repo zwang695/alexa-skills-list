@@ -20,5 +20,5 @@ Alexa's bible quiz tests the user's knowledge on few of the biblical characters 
 * **ID:** amzn1.ask.skill.9abd441a-baf7-486a-a91c-eda3ca54fa7e
 * **ASIN:** B01KESY6FW
 * **Author:** Doniv
-* **Release Date:** August 18, 2016 @ 01:22:48
+* **Release Date:** August 18, 2016 @ 02:22:48
 * **In-App Purchasing:** No

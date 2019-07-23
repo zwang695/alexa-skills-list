@@ -34,7 +34,7 @@ While her Scottish needs work, Alexa offers an entertaining and insightful exper
 * **ID:** amzn1.ask.skill.7ae95f07-50a5-4232-821e-f000b0409960
 * **ASIN:** B01LZSIYV5
 * **Author:** Johnnie Walker
-* **Release Date:** September 26, 2016 @ 11:42:03
+* **Release Date:** September 26, 2016 @ 12:42:03
 * **Privacy Policy:** https://s3.amazonaws.com/jw-bots/legal/privacy-policy.htm
 * **Terms of Use:** https://s3.amazonaws.com/jw-bots/legal/terms-of-use.htm
 * **In-App Purchasing:** No

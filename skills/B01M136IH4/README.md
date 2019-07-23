@@ -28,5 +28,5 @@ This skill is not written by Merriam-Webster so errors or omissions are probably
 * **ID:** amzn1.ask.skill.12aae8df-818a-4557-9182-7b86b96dded1
 * **ASIN:** B01M136IH4
 * **Author:** Gajender19955
-* **Release Date:** October 14, 2016 @ 01:46:13
+* **Release Date:** October 14, 2016 @ 02:46:13
 * **In-App Purchasing:** No

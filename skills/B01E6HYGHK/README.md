@@ -20,7 +20,7 @@ CivicMinding helps you get informed on, vote on, and discuss everything politica
 * **ID:** amzn1.echo-sdk-ams.app.674a6a9b-a06a-40d0-8dbf-d14fbf281958
 * **ASIN:** B01E6HYGHK
 * **Author:** Healey Engineering
-* **Release Date:** April 18, 2016 @ 05:03:14
+* **Release Date:** April 18, 2016 @ 06:03:14
 * **Privacy Policy:** https://www.civicminding.com/privacy/
 * **Terms of Use:** https://www.civicminding.com/terms/
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Mont Saint-Sauveur Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.fa528ea2-ea57-483c-8cb4-0e999586dc2a
 * **ASIN:** B01M6DL9Y6
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:43:40
+* **Release Date:** November 5, 2016 @ 12:43:40
 * **In-App Purchasing:** No

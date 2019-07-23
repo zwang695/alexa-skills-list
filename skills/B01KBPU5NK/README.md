@@ -21,5 +21,5 @@ You can hear other fun facts here. Laughing is guarantee.
 * **ID:** amzn1.ask.skill.42663778-756c-44e6-89fc-526386a38e31
 * **ASIN:** B01KBPU5NK
 * **Author:** Adi Surya
-* **Release Date:** August 13, 2016 @ 05:07:23
+* **Release Date:** August 13, 2016 @ 06:07:23
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Alexa will respond with the number or names of the astronauts floating around in
 * **ID:** amzn1.ask.skill.169b2be4-12fa-4521-a1cd-a4cbdefdb86a
 * **ASIN:** B01M985535
 * **Author:** Just Good Software
-* **Release Date:** October 14, 2016 @ 01:46:04
+* **Release Date:** October 14, 2016 @ 02:46:04
 * **In-App Purchasing:** No

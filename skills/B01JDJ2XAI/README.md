@@ -20,5 +20,5 @@ Have you ever wanted to know facts about cats?? Contains 50 cat facts to be spok
 * **ID:** amzn1.ask.skill.72e4562d-3a4d-44a2-a866-5ea8d2b0aabf
 * **ASIN:** B01JDJ2XAI
 * **Author:** Erin Sullivan
-* **Release Date:** August 5, 2016 @ 01:38:05
+* **Release Date:** August 5, 2016 @ 02:38:05
 * **In-App Purchasing:** No

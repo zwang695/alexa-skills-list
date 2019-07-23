@@ -20,5 +20,5 @@ In this skill, you'll be able to hear some facts about pie. Say "start game" to 
 * **ID:** amzn1.ask.skill.40ceba5d-21bc-48bd-acf5-c01ef1389342
 * **ASIN:** B01MXHCU70
 * **Author:** GinaChu
-* **Release Date:** November 10, 2016 @ 00:42:45
+* **Release Date:** November 10, 2016 @ 01:42:45
 * **In-App Purchasing:** No

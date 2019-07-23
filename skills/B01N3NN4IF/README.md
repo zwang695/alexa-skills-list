@@ -20,5 +20,5 @@ The Owl's Head Ski Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.0fad590e-d3c0-4253-974c-541ed5fddf3b
 * **ASIN:** B01N3NN4IF
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:43:58
+* **Release Date:** November 5, 2016 @ 12:43:58
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Caberfae Peaks Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.a254305f-92df-475e-af40-bbc6b70fa20a
 * **ASIN:** B01MDOMZ1Q
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:14:28
+* **Release Date:** October 21, 2016 @ 16:14:28
 * **In-App Purchasing:** No

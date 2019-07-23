@@ -20,5 +20,5 @@ Before contacting a friend you should find out wether it is a normal time to cal
 * **ID:** amzn1.ask.skill.7ec3e5bf-57d7-4bb1-85d2-661c1cfb9e14
 * **ASIN:** B01M4S1QLA
 * **Author:** flobbie
-* **Release Date:** November 20, 2016 @ 23:35:25
+* **Release Date:** November 21, 2016 @ 00:35:25
 * **In-App Purchasing:** No

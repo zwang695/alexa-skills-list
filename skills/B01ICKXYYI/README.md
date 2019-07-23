@@ -20,5 +20,5 @@ The pineapple is a tropical plant with edible multiple fruit consisting of coale
 * **ID:** amzn1.echo-sdk-ams.app.b1349eda-cca6-4aa2-a253-c9a4c901479e
 * **ASIN:** B01ICKXYYI
 * **Author:** iamsanch
-* **Release Date:** July 13, 2016 @ 07:57:32
+* **Release Date:** July 13, 2016 @ 08:57:32
 * **In-App Purchasing:** No

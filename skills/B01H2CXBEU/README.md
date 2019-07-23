@@ -20,5 +20,5 @@ VietGuy contains knowledge on how to make vietnamese food. This is great for tho
 * **ID:** amzn1.echo-sdk-ams.app.6b2f83dc-e507-48ce-b44d-0bd478242eec
 * **ASIN:** B01H2CXBEU
 * **Author:** RedCoke
-* **Release Date:** June 23, 2016 @ 05:16:02
+* **Release Date:** June 23, 2016 @ 06:16:02
 * **In-App Purchasing:** No

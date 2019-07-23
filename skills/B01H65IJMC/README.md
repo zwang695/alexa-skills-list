@@ -14,6 +14,6 @@ To link the skill, you will need to provide the username and password to your Ne
 * **ID:** amzn1.ask.skill.a7121797-b502-462e-bfe5-86e78ca42413
 * **ASIN:** B01H65IJMC
 * **Author:** Nexia Home Intelligence
-* **Release Date:** June 20, 2016 @ 17:15:07
+* **Release Date:** June 20, 2016 @ 18:15:07
 * **Privacy Policy:** https://www.mynexia.com/privacy_policy.html
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Multiple choice quiz related to advertising technology terms
 * **ID:** amzn1.echo-sdk-ams.app.7527a968-7f24-4b8b-badc-1bfb7401f86b
 * **ASIN:** B01ILFF3WA
 * **Author:** Steve Ziring
-* **Release Date:** July 25, 2016 @ 07:56:31
+* **Release Date:** July 25, 2016 @ 08:56:31
 * **In-App Purchasing:** No

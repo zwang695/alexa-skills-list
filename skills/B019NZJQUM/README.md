@@ -20,5 +20,5 @@ Elf Trivia is a light-hearted game that offers 4 multiple choice answers to each
 * **ID:** amzn1.echo-sdk-ams.app.edfd9281-08a1-44ab-a2e6-698cbd38e8ba
 * **ASIN:** B019NZJQUM
 * **Author:** TMCJ Manor
-* **Release Date:** December 21, 2015 @ 20:34:46
+* **Release Date:** December 21, 2015 @ 21:34:46
 * **In-App Purchasing:** No

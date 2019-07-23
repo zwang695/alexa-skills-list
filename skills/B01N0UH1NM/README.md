@@ -20,5 +20,5 @@ This skill is to provide information about the restaurant near the city.
 * **ID:** amzn1.ask.skill.00cbd38a-04af-43d5-b235-483b276b010f
 * **ASIN:** B01N0UH1NM
 * **Author:** kuldeep
-* **Release Date:** December 28, 2016 @ 05:49:08
+* **Release Date:** December 28, 2016 @ 06:49:08
 * **In-App Purchasing:** No

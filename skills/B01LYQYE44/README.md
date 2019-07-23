@@ -16,5 +16,5 @@ Unofficial hamster for your favorite board games!
 * **ID:** amzn1.ask.skill.401b5bb7-4673-4a92-b51d-f62b7eb69bf8
 * **ASIN:** B01LYQYE44
 * **Author:** Michael Furlong
-* **Release Date:** October 7, 2016 @ 03:42:08
+* **Release Date:** October 7, 2016 @ 04:42:08
 * **In-App Purchasing:** No

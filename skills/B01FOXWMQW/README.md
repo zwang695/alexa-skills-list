@@ -18,5 +18,5 @@ Trivia is all around us. This set of facts will give you the key facts behind th
 * **ID:** amzn1.echo-sdk-ams.app.75cb7803-9d8c-4295-81f7-023fb19d5e38
 * **ASIN:** B01FOXWMQW
 * **Author:** Robert Schlaff
-* **Release Date:** May 18, 2016 @ 01:08:35
+* **Release Date:** May 18, 2016 @ 02:08:35
 * **In-App Purchasing:** No

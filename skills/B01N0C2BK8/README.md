@@ -30,5 +30,5 @@ For more info on what Magic History can do or to provide suggestions see http://
 * **ID:** amzn1.ask.skill.b2ed93de-81bd-462a-90a7-8240c8146077
 * **ASIN:** B01N0C2BK8
 * **Author:** Joseph Pecore
-* **Release Date:** November 25, 2016 @ 04:08:00
+* **Release Date:** November 25, 2016 @ 05:08:00
 * **In-App Purchasing:** No

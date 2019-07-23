@@ -20,5 +20,5 @@ Currently, you can find out the alert status on subway or commuter rail lines, a
 * **ID:** amzn1.echo-sdk-ams.app.5719344a-ba7b-4d60-9026-213b4a9aa581
 * **ASIN:** B01CDLJ3CO
 * **Author:** David Levine
-* **Release Date:** February 29, 2016 @ 17:14:52
+* **Release Date:** February 29, 2016 @ 18:14:52
 * **In-App Purchasing:** No

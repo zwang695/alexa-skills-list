@@ -20,5 +20,5 @@ Gives a Mars facts when asked
 * **ID:** amzn1.echo-sdk-ams.app.9aa6e4df-f709-422c-b6bb-fa24b462f0c4
 * **ASIN:** B01I791D8S
 * **Author:** OverlordChewy
-* **Release Date:** July 18, 2016 @ 05:27:28
+* **Release Date:** July 18, 2016 @ 06:27:28
 * **In-App Purchasing:** No

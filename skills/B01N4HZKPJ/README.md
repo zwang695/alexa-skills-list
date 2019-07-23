@@ -20,5 +20,5 @@ Easydatamanager is introduced on Alexa as the first step to develope a fully fun
 * **ID:** amzn1.ask.skill.0ec79f12-9265-41fb-9da3-0d5566f8524b
 * **ASIN:** B01N4HZKPJ
 * **Author:** Ben Wang
-* **Release Date:** December 28, 2016 @ 03:19:01
+* **Release Date:** December 28, 2016 @ 04:19:01
 * **In-App Purchasing:** No

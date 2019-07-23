@@ -20,5 +20,5 @@ The Whitetail Mounatin Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.217d873a-aa5d-4344-ad8a-0ae6cf40d7bf
 * **ASIN:** B01M6CTZVN
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:15:34
+* **Release Date:** November 4, 2016 @ 09:15:34
 * **In-App Purchasing:** No

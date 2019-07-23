@@ -24,5 +24,5 @@ https://www.dcrainmaker.com/
 * **ID:** amzn1.ask.skill.4760689d-ec88-4e65-bb97-f6abc7d24204
 * **ASIN:** B01MQY3WIF
 * **Author:** Tobywankenobe
-* **Release Date:** December 22, 2016 @ 08:49:41
+* **Release Date:** December 22, 2016 @ 09:49:41
 * **In-App Purchasing:** No

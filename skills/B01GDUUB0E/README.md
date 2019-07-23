@@ -20,5 +20,5 @@ The Sorg Opera House in Middletown, Ohio is MUCH more than a beautiful building;
 * **ID:** amzn1.echo-sdk-ams.app.e2ba2c93-3cd9-4530-823b-7483eed45f0b
 * **ASIN:** B01GDUUB0E
 * **Author:** Saltzmann Media Limited
-* **Release Date:** June 1, 2016 @ 08:38:37
+* **Release Date:** June 1, 2016 @ 09:38:37
 * **In-App Purchasing:** No

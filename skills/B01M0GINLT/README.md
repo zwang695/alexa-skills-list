@@ -20,5 +20,5 @@ A fact skill about Germany that is updated frequently. You can say the following
 * **ID:** amzn1.ask.skill.e657da64-7827-42d4-a663-c0a8a1512ac3
 * **ASIN:** B01M0GINLT
 * **Author:** Emily Lam
-* **Release Date:** September 28, 2016 @ 15:39:26
+* **Release Date:** September 28, 2016 @ 16:39:26
 * **In-App Purchasing:** No

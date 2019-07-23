@@ -20,5 +20,5 @@ The Devil's Elbow Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.e567b0b2-fbc3-45a3-97d2-98bbe60f60e9
 * **ASIN:** B01MXGNHF0
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:14:18
+* **Release Date:** November 5, 2016 @ 12:14:18
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ Currently, it only support plus, minus, times and divided operations, advanced f
 * **ID:** amzn1.echo-sdk-ams.app.afacd926-a874-4881-a31c-b34741c3e640
 * **ASIN:** B01ASDX8QG
 * **Author:** Hank
-* **Release Date:** January 18, 2016 @ 18:00:36
+* **Release Date:** January 18, 2016 @ 19:00:36
 * **Privacy Policy:** http://hankjohn.net/calculator/policy
 * **Terms of Use:** http://hankjohn.net/calculator/terms
 * **In-App Purchasing:** No

@@ -34,7 +34,7 @@ This skill may not be suitable for all ages. The skill requires a Net10 phone an
 * **ID:** amzn1.echo-sdk-ams.app.2b6675a8-a04f-4ec4-ac4e-f536ec501984
 * **ASIN:** B01KOYJ6WY
 * **Author:** TracFone Wireless Inc
-* **Release Date:** September 20, 2016 @ 05:13:29
+* **Release Date:** September 20, 2016 @ 06:13:29
 * **Privacy Policy:** http://www.net10.com/privacy_policy.jsp
 * **Terms of Use:** http://www.net10.com/privacy_policy.jsp
 * **Account Linking Domains:** tfecho.devops.3cinteractive.com, 3cinteractive.com, devops.3cinteractive.com, tfecho.devops.3cinteractive.com, echo.stage.3cinteractive.com, echo.3cinteractive.com

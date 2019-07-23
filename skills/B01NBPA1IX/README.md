@@ -20,5 +20,5 @@ Gives a random fact or trivia about the movies
 * **ID:** amzn1.ask.skill.ec0051a3-16f7-4bbf-9a91-b092df0bf73c
 * **ASIN:** B01NBPA1IX
 * **Author:** Zillow Group
-* **Release Date:** December 30, 2016 @ 03:19:02
+* **Release Date:** December 30, 2016 @ 04:19:02
 * **In-App Purchasing:** No

@@ -30,7 +30,7 @@ Next, we just need to collect your zip code and phone number. We will have a pre
 * **ID:** amzn1.echo-sdk-ams.app.9f139432-da2c-4433-8823-be1d21c17287
 * **ASIN:** B01DEC893A
 * **Author:** HomeAdvisor Inc
-* **Release Date:** March 24, 2016 @ 17:15:36
+* **Release Date:** March 24, 2016 @ 18:15:36
 * **Privacy Policy:** http://www.homeadvisor.com/mobile/legal/consumerMobilePrivacyPolicy.jsp
 * **Terms of Use:** http://www.homeadvisor.com/mobile/legal/consumerMobileTandC.jsp
 * **In-App Purchasing:** No

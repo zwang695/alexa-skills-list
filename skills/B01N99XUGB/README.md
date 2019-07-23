@@ -20,7 +20,7 @@ My Allergy Assistant reports the current pollen level in the area in terms of gr
 * **ID:** amzn1.ask.skill.29e91458-14ee-4e40-a4d4-23e0298467e2
 * **ASIN:** B01N99XUGB
 * **Author:** Carlos Macasaet
-* **Release Date:** November 30, 2016 @ 05:35:21
+* **Release Date:** November 30, 2016 @ 06:35:21
 * **Privacy Policy:** https://l0s.github.io/my-allergy-assistant/privacy-policy.txt
 * **Terms of Use:** https://l0s.github.io/my-allergy-assistant/terms-of-use.txt
 * **In-App Purchasing:** No

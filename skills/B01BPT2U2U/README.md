@@ -30,7 +30,7 @@ Denver
 * **ID:** amzn1.echo-sdk-ams.app.a54413d0-0f60-43ff-8274-d9ca923c48c2
 * **ASIN:** B01BPT2U2U
 * **Author:** Mass Clarity, Inc.
-* **Release Date:** February 12, 2016 @ 19:04:04
+* **Release Date:** February 12, 2016 @ 20:04:04
 * **Privacy Policy:** http://stockup.co/terms-and-conditions/
 * **Terms of Use:** http://stockup.co/terms-and-conditions/
 * **In-App Purchasing:** No

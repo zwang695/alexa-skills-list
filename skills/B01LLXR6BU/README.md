@@ -20,5 +20,5 @@ This skill tells you the upcoming tournament events for the game Hearthstone.
 * **ID:** amzn1.ask.skill.8bfd4e2f-a2c6-4b88-a29a-333e7a969d2e
 * **ASIN:** B01LLXR6BU
 * **Author:** Ewen Chou
-* **Release Date:** September 6, 2016 @ 08:33:17
+* **Release Date:** September 6, 2016 @ 09:33:17
 * **In-App Purchasing:** No

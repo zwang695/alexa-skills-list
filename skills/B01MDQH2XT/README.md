@@ -20,5 +20,5 @@ The Maple Ski Ridge Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.85de66d2-7a6b-4cc8-b826-28524602ec8d
 * **ASIN:** B01MDQH2XT
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:44:13
+* **Release Date:** October 26, 2016 @ 04:44:13
 * **In-App Purchasing:** No

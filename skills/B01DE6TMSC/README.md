@@ -22,5 +22,5 @@ Thanks to the Korean Wiki Project for the logo!  Visit them at koreanwikiproject
 * **ID:** amzn1.echo-sdk-ams.app.24aa372a-77a2-40e4-8286-4d555b747a9b
 * **ASIN:** B01DE6TMSC
 * **Author:** Strum Studios
-* **Release Date:** March 24, 2016 @ 14:29:42
+* **Release Date:** March 24, 2016 @ 15:29:42
 * **In-App Purchasing:** No

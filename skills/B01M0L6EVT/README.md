@@ -42,7 +42,7 @@ So whether you’re entertaining friends, or having a quiet night in, let Alexa 
 * **ID:** amzn1.ask.skill.6d49aab1-b2c9-4575-8dbd-f683321eaf97
 * **ASIN:** B01M0L6EVT
 * **Author:** Jamie Oliver
-* **Release Date:** September 28, 2016 @ 01:42:42
+* **Release Date:** September 28, 2016 @ 02:42:42
 * **Privacy Policy:** http://www.jamieoliver.com/privacy/
 * **Account Linking Domains:** jamieoliver.com, echo.jamieoliver.com, aws.amazon.com, amazon.com, amazonaws.com, cdn.jamieoliver.com
 * **In-App Purchasing:** No

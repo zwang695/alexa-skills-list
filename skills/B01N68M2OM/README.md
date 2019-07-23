@@ -19,5 +19,5 @@ Learn about the Art and the Artists from the Renaissance with this fun trivia ga
 * **ID:** amzn1.ask.skill.b13717c2-80d8-4488-b799-5b15d77d32a3
 * **ASIN:** B01N68M2OM
 * **Author:** Marathon Technology Inc
-* **Release Date:** November 25, 2016 @ 08:35:35
+* **Release Date:** November 25, 2016 @ 09:35:35
 * **In-App Purchasing:** No

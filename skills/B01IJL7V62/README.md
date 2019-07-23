@@ -72,5 +72,5 @@ Vatican City - Vatican City
 * **ID:** amzn1.echo-sdk-ams.app.32c740cc-ab47-4224-a55e-0ed9c964aa89
 * **ASIN:** B01IJL7V62
 * **Author:** Logzer0
-* **Release Date:** July 20, 2016 @ 07:57:30
+* **Release Date:** July 20, 2016 @ 08:57:30
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ We know the Laugh Machine will have you cracking up.
 * **ID:** amzn1.ask.skill.1a5e660c-4f73-4ee4-9c09-235e07d46081
 * **ASIN:** B01N1NAJFH
 * **Author:** Ciocca Apps
-* **Release Date:** December 24, 2016 @ 06:18:48
+* **Release Date:** December 24, 2016 @ 07:18:48
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A guide for the early access game, ARK: Survival Evolved.  Ask the guide what's 
 * **ID:** amzn1.echo-sdk-ams.app.7c278a2d-dd4b-49af-977e-1d56eabff3e3
 * **ASIN:** B018F2YPL4
 * **Author:** Eamun Rahimi Consulting
-* **Release Date:** November 23, 2015 @ 15:30:06
+* **Release Date:** November 23, 2015 @ 16:30:06
 * **In-App Purchasing:** No

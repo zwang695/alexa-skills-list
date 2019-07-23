@@ -20,5 +20,5 @@ Ask for a health check of the PC6 API.
 * **ID:** amzn1.echo-sdk-ams.app.b6948949-fbfc-4e2e-9b27-e7e977662847
 * **ASIN:** B01FOLG814
 * **Author:** Anthony Atkinson
-* **Release Date:** May 23, 2016 @ 08:38:39
+* **Release Date:** May 23, 2016 @ 09:38:39
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Random trivia questions regarding Portland's geography, historical context, and 
 * **ID:** amzn1.echo-sdk-ams.app.c9f6da5e-55e4-413f-9ba9-2e4b92da9208
 * **ASIN:** B01H5TUVDE
 * **Author:** David-made
-* **Release Date:** June 22, 2016 @ 06:15:34
+* **Release Date:** June 22, 2016 @ 07:15:34
 * **In-App Purchasing:** No

@@ -29,5 +29,5 @@ Alexa consults a wide range of possible drinks and tries to return an eclectic v
 * **ID:** amzn1.ask.skill.f822fdaf-8252-4975-ace7-d327452d2df3
 * **ASIN:** B01N4HLJ9U
 * **Author:** OneToTheIO
-* **Release Date:** December 28, 2016 @ 23:19:11
+* **Release Date:** December 29, 2016 @ 00:19:11
 * **In-App Purchasing:** No

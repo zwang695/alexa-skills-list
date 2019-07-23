@@ -20,5 +20,5 @@ The Broadway Trivia Game tests your knowledge of Broadway history. It contains a
 * **ID:** amzn1.echo-sdk-ams.app.6a1f45d5-6504-496f-9eb4-1d6da5a8e23f
 * **ASIN:** B01HCD9SV4
 * **Author:** Crisafulli
-* **Release Date:** June 22, 2016 @ 02:15:43
+* **Release Date:** June 22, 2016 @ 03:15:43
 * **In-App Purchasing:** No

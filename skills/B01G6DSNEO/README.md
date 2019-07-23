@@ -26,5 +26,5 @@ This skill recites Shakespeare quotes and various famous proverbs, spoken by a p
 * **ID:** amzn1.echo-sdk-ams.app.2628c7d2-d5f8-4464-9c5b-dc623e63ae98
 * **ASIN:** B01G6DSNEO
 * **Author:** Witlingo
-* **Release Date:** June 2, 2016 @ 02:38:32
+* **Release Date:** June 2, 2016 @ 03:38:32
 * **In-App Purchasing:** No

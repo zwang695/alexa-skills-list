@@ -16,5 +16,5 @@ These are fun facts about the blue marble we all live on, Earth!  The facts rang
 * **ID:** amzn1.ask.skill.c5f1954c-9655-4943-9d16-0f19239863e4
 * **ASIN:** B01LYF7T2L
 * **Author:** JustinCadburyWong
-* **Release Date:** October 7, 2016 @ 08:11:58
+* **Release Date:** October 7, 2016 @ 09:11:58
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.ed18a3f7-57ce-4610-85c4-b182eb268693
 * **ASIN:** B01MXCUIT0
 * **Author:** Rock Profile
-* **Release Date:** November 11, 2016 @ 01:14:09
+* **Release Date:** November 11, 2016 @ 02:14:09
 * **In-App Purchasing:** No

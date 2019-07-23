@@ -20,5 +20,5 @@ Quickly convert numbers into hexadecimal. Hex converter will take any positive i
 * **ID:** amzn1.echo-sdk-ams.app.151a2602-15c4-4ea2-bbca-e51a9597a00e
 * **ASIN:** B01GOHVY66
 * **Author:** worldengine
-* **Release Date:** June 7, 2016 @ 05:08:32
+* **Release Date:** June 7, 2016 @ 06:08:32
 * **In-App Purchasing:** No

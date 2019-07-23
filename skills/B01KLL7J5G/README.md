@@ -20,5 +20,5 @@ The ocean is a vast and mysterious place, but it takes up the majority of the pl
 * **ID:** amzn1.ask.skill.67ede0ce-d70e-4bc8-9d17-ec21e583f452
 * **ASIN:** B01KLL7J5G
 * **Author:** EmptyLaughter
-* **Release Date:** August 18, 2016 @ 09:22:19
+* **Release Date:** August 18, 2016 @ 10:22:19
 * **In-App Purchasing:** No

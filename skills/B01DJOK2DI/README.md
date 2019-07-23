@@ -30,5 +30,5 @@ The Mixologist provides directions for making alcoholic drinks and is intended f
 * **ID:** amzn1.echo-sdk-ams.app.1d480b4b-02ad-4438-9dfe-fca922830817
 * **ASIN:** B01DJOK2DI
 * **Author:** Luis Sala
-* **Release Date:** March 31, 2016 @ 16:32:36
+* **Release Date:** March 31, 2016 @ 17:32:36
 * **In-App Purchasing:** No

@@ -25,7 +25,7 @@ The full list of commands includes:
 * **ID:** amzn1.ask.skill.c4c85c7d-f4f9-480b-b66c-03f7f8c1960e
 * **ASIN:** B01JP8EOCW
 * **Author:** Honeywell
-* **Release Date:** August 8, 2016 @ 12:07:10
+* **Release Date:** August 8, 2016 @ 13:07:10
 * **Privacy Policy:** http://yourhome.honeywell.com/privacy-statement
 * **Terms of Use:** http://yourhome.honeywell.com/terms-and-conditions
 * **In-App Purchasing:** No

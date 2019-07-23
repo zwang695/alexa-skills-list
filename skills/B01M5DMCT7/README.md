@@ -20,5 +20,5 @@ The Alpine Valley Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.3ea747db-dfd5-4119-af8a-7f1a4b171686
 * **ASIN:** B01M5DMCT7
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:14:45
+* **Release Date:** October 21, 2016 @ 15:14:45
 * **In-App Purchasing:** No

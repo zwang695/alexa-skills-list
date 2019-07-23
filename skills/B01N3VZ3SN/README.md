@@ -20,5 +20,5 @@ The Glen Eden Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.a923e850-a110-4257-a9d4-3c376bb32f58
 * **ASIN:** B01N3VZ3SN
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:12:21
+* **Release Date:** November 5, 2016 @ 12:12:21
 * **In-App Purchasing:** No

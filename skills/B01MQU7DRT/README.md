@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.59816f1c-ebcb-420b-9871-4c23ecce5463
 * **ASIN:** B01MQU7DRT
 * **Author:** Anthony Sibley
-* **Release Date:** December 12, 2016 @ 01:49:50
+* **Release Date:** December 12, 2016 @ 02:49:50
 * **In-App Purchasing:** No

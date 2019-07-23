@@ -21,5 +21,5 @@ The skill starts with asking you the Hindi equivalent word or sentence for an En
 * **ID:** amzn1.ask.skill.3f7e09ce-3d2b-4f92-ab68-febfd235df9c
 * **ASIN:** B01K74M736
 * **Author:** FindGoose
-* **Release Date:** August 16, 2016 @ 01:38:48
+* **Release Date:** August 16, 2016 @ 02:38:48
 * **In-App Purchasing:** No

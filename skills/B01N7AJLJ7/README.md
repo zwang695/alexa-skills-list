@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.95801187-dfbd-4865-a5a2-db6062e4ca29
 * **ASIN:** B01N7AJLJ7
 * **Author:** SpeedyMarks
-* **Release Date:** December 14, 2016 @ 05:19:53
+* **Release Date:** December 14, 2016 @ 06:19:53
 * **In-App Purchasing:** No

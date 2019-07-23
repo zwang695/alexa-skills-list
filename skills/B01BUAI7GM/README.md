@@ -55,5 +55,5 @@ Within the skill you can say "help" at any time for more information on how to u
 * **ID:** amzn1.echo-sdk-ams.app.5e0c4582-b163-4a9a-a2cb-53dc9a6ea5a9
 * **ASIN:** B01BUAI7GM
 * **Author:** Caleb
-* **Release Date:** February 16, 2016 @ 12:43:41
+* **Release Date:** February 16, 2016 @ 13:43:41
 * **In-App Purchasing:** No

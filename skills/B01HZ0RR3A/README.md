@@ -27,5 +27,5 @@ For example, instead of hearing news about a robber caught by police, you may he
 * **ID:** amzn1.echo-sdk-ams.app.cba83044-0e2d-4d0e-b842-60e81f75b8c2
 * **ASIN:** B01HZ0RR3A
 * **Author:** Nick Schwab
-* **Release Date:** July 7, 2016 @ 01:27:36
+* **Release Date:** July 7, 2016 @ 02:27:36
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ From now on you will never be surprised and can start organising your day-off in
 * **ID:** amzn1.ask.skill.d9073608-3e5d-4fcc-8004-100b26b7f460
 * **ASIN:** B01MYV7DST
 * **Author:** Softmil
-* **Release Date:** December 9, 2016 @ 09:19:41
+* **Release Date:** December 9, 2016 @ 10:19:41
 * **In-App Purchasing:** No

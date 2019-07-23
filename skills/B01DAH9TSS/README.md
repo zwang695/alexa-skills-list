@@ -24,6 +24,6 @@ Once you're ready, start out by saying "Alexa, tell brain of things to start par
 * **ID:** amzn1.echo-sdk-ams.app.9ddd02be-76e7-43e1-8480-6ad0c683897c
 * **ASIN:** B01DAH9TSS
 * **Author:** BrainofT
-* **Release Date:** March 22, 2016 @ 11:06:47
+* **Release Date:** March 22, 2016 @ 12:06:47
 * **Privacy Policy:** https://cloud.brainoft.net/privacypolicy.htm
 * **In-App Purchasing:** No

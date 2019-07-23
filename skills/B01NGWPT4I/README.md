@@ -22,5 +22,5 @@ It’s a great way to learn more about your friends. Maybe more than you ever wa
 * **ID:** amzn1.ask.skill.e56cb7c0-3839-4a1a-b57a-5e5e5c1bc691
 * **ASIN:** B01NGWPT4I
 * **Author:** Alec Chan
-* **Release Date:** December 19, 2016 @ 04:49:30
+* **Release Date:** December 19, 2016 @ 05:49:30
 * **In-App Purchasing:** No

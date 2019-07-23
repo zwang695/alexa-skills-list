@@ -37,7 +37,7 @@ Disclaimer: This skill is for informational and educational purposes only, and i
 * **ID:** amzn1.ask.skill.fd029217-ccaf-42b3-8ea5-96a769d709cf
 * **ASIN:** B01MFDQ3JD
 * **Author:** XAPPmedia
-* **Release Date:** November 20, 2016 @ 23:07:16
+* **Release Date:** November 21, 2016 @ 00:07:16
 * **Privacy Policy:** https://s3.amazonaws.com/xapp-files/Alexa_Skills/Zika+Facts/Privacy_Policy.html
 * **Terms of Use:** https://s3.amazonaws.com/xapp-files/Alexa_Skills/Zika+Facts/Terms_Of_Use.html
 * **In-App Purchasing:** No

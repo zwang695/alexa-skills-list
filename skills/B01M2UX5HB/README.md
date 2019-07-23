@@ -32,5 +32,5 @@ Warning: This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.11f05e8d-5752-4eed-b9d3-a6bfcd61f5b2
 * **ASIN:** B01M2UX5HB
 * **Author:** Nafis Zaman
-* **Release Date:** October 25, 2016 @ 01:48:45
+* **Release Date:** October 25, 2016 @ 02:48:45
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ Simply say "Alexa, ask cat facts to tell me a fact" and Alexa will respond with 
 * **ID:** amzn1.ask.skill.f8580abe-0121-4425-b76d-8db6e0100e3d
 * **ASIN:** B01LYV09UX
 * **Author:** fofx
-* **Release Date:** September 22, 2016 @ 03:12:03
+* **Release Date:** September 22, 2016 @ 04:12:03
 * **In-App Purchasing:** No

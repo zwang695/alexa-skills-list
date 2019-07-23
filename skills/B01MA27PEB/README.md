@@ -20,5 +20,5 @@ Washington State Facts is a fun way to learn facts and trivia about this great s
 * **ID:** amzn1.ask.skill.457357b6-002b-429e-be4e-15c46f1fafce
 * **ASIN:** B01MA27PEB
 * **Author:** NoSleep Software, LLC
-* **Release Date:** October 15, 2016 @ 02:46:18
+* **Release Date:** October 15, 2016 @ 03:46:18
 * **In-App Purchasing:** No

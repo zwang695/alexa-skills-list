@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.48dddb56-6921-4a89-8106-42e10d54e7fb
 * **ASIN:** B01N578P0U
 * **Author:** Friedrich Lasnia
-* **Release Date:** November 28, 2016 @ 04:06:07
+* **Release Date:** November 28, 2016 @ 05:06:07
 * **In-App Purchasing:** No

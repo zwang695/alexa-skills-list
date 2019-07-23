@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.66c272ee-83bf-4f46-a639-dec2b903a837
 * **ASIN:** B01M5GICSP
 * **Author:** Qambar Raza
-* **Release Date:** November 20, 2016 @ 23:06:23
+* **Release Date:** November 21, 2016 @ 00:06:23
 * **In-App Purchasing:** No

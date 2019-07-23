@@ -20,5 +20,5 @@ The Jay Peak Snow Report brought to you by SnoCountry brings you the latest snow
 * **ID:** amzn1.ask.skill.25bc52ae-7126-41f8-bf0b-2a299bf66448
 * **ASIN:** B01MD2FYUR
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:14:21
+* **Release Date:** November 4, 2016 @ 09:14:21
 * **In-App Purchasing:** No

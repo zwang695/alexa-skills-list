@@ -20,5 +20,5 @@ The Edelweiss Valley Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.a80ab2c5-3bcf-4f96-b61c-b80c9ecbb2bd
 * **ASIN:** B01N04YO6W
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:13:31
+* **Release Date:** November 5, 2016 @ 12:13:31
 * **In-App Purchasing:** No

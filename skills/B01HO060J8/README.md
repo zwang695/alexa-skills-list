@@ -22,7 +22,7 @@ Ask Crime Tracker a question related to a specific incident type count and Crime
 * **ID:** amzn1.echo-sdk-ams.app.286f6c18-e92e-4b49-89a3-8951d5f98ffd
 * **ASIN:** B01HO060J8
 * **Author:** thenumberpi
-* **Release Date:** June 30, 2016 @ 09:27:39
+* **Release Date:** June 30, 2016 @ 10:27:39
 * **Privacy Policy:** https://thenumberpi.com/privacy.txt
 * **Terms of Use:** https://thenumberpi.com/privacy.txt
 * **In-App Purchasing:** No

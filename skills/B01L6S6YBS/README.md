@@ -31,6 +31,6 @@ Such as
 * **ID:** amzn1.ask.skill.60c5740d-349c-439e-b013-248947af49e2
 * **ASIN:** B01L6S6YBS
 * **Author:** 叶冰蕾
-* **Release Date:** November 17, 2016 @ 06:16:26
+* **Release Date:** November 17, 2016 @ 07:16:26
 * **Privacy Policy:** https://www.ssg360.com/Policy
 * **In-App Purchasing:** No

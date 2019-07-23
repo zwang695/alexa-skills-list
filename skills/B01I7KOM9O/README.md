@@ -20,5 +20,5 @@ Having conflicts with your friends and need a strong unbiased mediator to solve 
 * **ID:** amzn1.echo-sdk-ams.app.63ffddd0-5902-44c3-889e-91517fae76be
 * **ASIN:** B01I7KOM9O
 * **Author:** ElectronHacks
-* **Release Date:** July 18, 2016 @ 09:57:29
+* **Release Date:** July 18, 2016 @ 10:57:29
 * **In-App Purchasing:** No

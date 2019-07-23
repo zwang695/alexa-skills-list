@@ -20,5 +20,5 @@ Uses a decision tree to help you select something to eat
 * **ID:** amzn1.ask.skill.a947d07b-a6ff-49d5-bc23-f74f2f772a71
 * **ASIN:** B01KPEW31O
 * **Author:** Bagels
-* **Release Date:** September 3, 2016 @ 06:03:14
+* **Release Date:** September 3, 2016 @ 07:03:14
 * **In-App Purchasing:** No

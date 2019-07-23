@@ -20,5 +20,5 @@ Mount Olympus Helper will assist you in learning about the Olympus Mountain in S
 * **ID:** amzn1.ask.skill.d77479c2-b40e-45f3-8c3e-1433276a6ea8
 * **ASIN:** B01IZ5NERC
 * **Author:** Bobcat
-* **Release Date:** August 17, 2016 @ 04:52:49
+* **Release Date:** August 17, 2016 @ 05:52:49
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ To begin, say “new game” and choose your difficulty level. The difficulty af
 * **ID:** amzn1.ask.skill.6eb381ef-f2c2-474e-85f3-6e37ae4bc8e7
 * **ASIN:** B01MTR0Q57
 * **Author:** Kevin Adams
-* **Release Date:** December 3, 2016 @ 02:05:39
+* **Release Date:** December 3, 2016 @ 03:05:39
 * **In-App Purchasing:** No

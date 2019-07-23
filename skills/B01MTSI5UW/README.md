@@ -20,5 +20,5 @@ Want to learn more about Studyspo or Study Inspiration?
 * **ID:** amzn1.ask.skill.50affcfb-114c-47e0-aa3c-4e1139b61d7b
 * **ASIN:** B01MTSI5UW
 * **Author:** Script Kitty
-* **Release Date:** December 4, 2016 @ 01:35:37
+* **Release Date:** December 4, 2016 @ 02:35:37
 * **In-App Purchasing:** No

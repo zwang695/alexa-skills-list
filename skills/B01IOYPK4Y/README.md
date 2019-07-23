@@ -20,5 +20,5 @@ PDX Bus Tracker tells you arrivals for all buses for a given Stop ID. Invoke by 
 * **ID:** amzn1.ask.skill.ec8d058d-0c81-4645-88be-f5a5b51c9b31
 * **ASIN:** B01IOYPK4Y
 * **Author:** Afrilogic
-* **Release Date:** August 1, 2016 @ 01:26:28
+* **Release Date:** August 1, 2016 @ 02:26:28
 * **In-App Purchasing:** No

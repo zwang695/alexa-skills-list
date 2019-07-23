@@ -22,5 +22,5 @@ Also, you could ask the score of the ongoing match.
 * **ID:** amzn1.ask.skill.77cb1065-7b42-46a7-8e1b-e3d2547702f4
 * **ASIN:** B01M4NUU61
 * **Author:** Drumil Jaswani
-* **Release Date:** October 29, 2016 @ 12:12:25
+* **Release Date:** October 29, 2016 @ 13:12:25
 * **In-App Purchasing:** No

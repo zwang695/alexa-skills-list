@@ -20,5 +20,5 @@ There are seven indoor archery tournaments through out the Colorado Junior Olymp
 * **ID:** amzn1.ask.skill.a6ae2da3-fe98-405a-bd66-dc967277fdcc
 * **ASIN:** B01NGZ8C3N
 * **Author:** Brian Nelson
-* **Release Date:** December 30, 2016 @ 05:19:00
+* **Release Date:** December 30, 2016 @ 06:19:00
 * **In-App Purchasing:** No

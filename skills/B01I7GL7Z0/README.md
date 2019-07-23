@@ -20,5 +20,5 @@ Moon Facts skill for Alexa. Begin by prompting Alexa for facts, Moon facts.
 * **ID:** amzn1.echo-sdk-ams.app.ed98cbc8-0826-4354-a958-7abd222abd25
 * **ASIN:** B01I7GL7Z0
 * **Author:** UTC
-* **Release Date:** July 20, 2016 @ 08:27:35
+* **Release Date:** July 20, 2016 @ 09:27:35
 * **In-App Purchasing:** No

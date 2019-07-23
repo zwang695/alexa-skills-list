@@ -22,5 +22,5 @@ i.e. mainly Cats and Dogs.
 * **ID:** amzn1.ask.skill.184ed4f8-bfb4-4627-80d6-b3696f466170
 * **ASIN:** B01NBJ5K1M
 * **Author:** dbstek
-* **Release Date:** December 14, 2016 @ 04:19:38
+* **Release Date:** December 14, 2016 @ 05:19:38
 * **In-App Purchasing:** No

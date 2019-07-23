@@ -20,5 +20,5 @@ This skill gives you fun facts about boats. You may not want to take all of thes
 * **ID:** amzn1.echo-sdk-ams.app.4e90ddc9-5a33-4d2c-bcb7-a2c13f4c8eba
 * **ASIN:** B01H9GB0VU
 * **Author:** @setfloat
-* **Release Date:** June 27, 2016 @ 08:15:31
+* **Release Date:** June 27, 2016 @ 09:15:31
 * **In-App Purchasing:** No

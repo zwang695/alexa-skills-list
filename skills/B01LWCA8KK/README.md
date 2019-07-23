@@ -20,5 +20,5 @@ Unofficial facts for the Netflix show "Narcos". This Alexa skill is not affiliat
 * **ID:** amzn1.ask.skill.c8fe6e18-cdea-45af-85cf-c00a93990833
 * **ASIN:** B01LWCA8KK
 * **Author:** Cloudy Labs
-* **Release Date:** September 11, 2016 @ 02:45:35
+* **Release Date:** September 11, 2016 @ 03:45:35
 * **In-App Purchasing:** No

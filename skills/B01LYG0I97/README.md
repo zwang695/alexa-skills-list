@@ -20,5 +20,5 @@ It will give you a random fact about people, animals, words, almost anything.
 * **ID:** amzn1.ask.skill.d97355d9-91bd-42c1-a4ba-6f22cfafdd8e
 * **ASIN:** B01LYG0I97
 * **Author:** Vivi Huang
-* **Release Date:** September 11, 2016 @ 04:42:02
+* **Release Date:** September 11, 2016 @ 05:42:02
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ It's about time!  Here is a collection of fun facts that will leave you bewilder
 * **ID:** amzn1.ask.skill.daf55eba-6260-49c8-acbf-0a6d7ea865fc
 * **ASIN:** B01MTNKVNX
 * **Author:** JustinCadburyWong
-* **Release Date:** November 17, 2016 @ 00:35:41
+* **Release Date:** November 17, 2016 @ 01:35:41
 * **In-App Purchasing:** No

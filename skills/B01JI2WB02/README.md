@@ -26,5 +26,5 @@ Your goal is to get the right answer.
 * **ID:** amzn1.ask.skill.8cd65e82-fa31-437b-89ae-8271ae9e03e7
 * **ASIN:** B01JI2WB02
 * **Author:** deepthiRao
-* **Release Date:** August 9, 2016 @ 02:37:45
+* **Release Date:** August 9, 2016 @ 03:37:45
 * **In-App Purchasing:** No

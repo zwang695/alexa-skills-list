@@ -20,5 +20,5 @@ Ask Alexa for some awesome cat facts!
 * **ID:** amzn1.ask.skill.d9385f18-2572-4be3-a351-0c0bf8159597
 * **ASIN:** B01N1JSTWW
 * **Author:** Cinnamint
-* **Release Date:** December 1, 2016 @ 05:35:28
+* **Release Date:** December 1, 2016 @ 06:35:28
 * **In-App Purchasing:** No

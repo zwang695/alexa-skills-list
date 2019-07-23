@@ -20,5 +20,5 @@ Bitcoin+Blockchain Facts is a brief introduction to the history of digital curre
 * **ID:** amzn1.ask.skill.e2e4d1e5-4cd8-4958-abd9-35459e7aeae8
 * **ASIN:** B01LW1SGY7
 * **Author:** Shekinah systems
-* **Release Date:** September 11, 2016 @ 03:16:20
+* **Release Date:** September 11, 2016 @ 04:16:20
 * **In-App Purchasing:** No

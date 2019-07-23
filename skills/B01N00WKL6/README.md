@@ -20,5 +20,5 @@ The Winterplace Ski Resort Snow Report brought to you by SnoCountry brings you t
 * **ID:** amzn1.ask.skill.767ffae7-4c36-4cde-9833-5b8d60bb04ef
 * **ASIN:** B01N00WKL6
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:42:30
+* **Release Date:** November 5, 2016 @ 11:42:30
 * **In-App Purchasing:** No

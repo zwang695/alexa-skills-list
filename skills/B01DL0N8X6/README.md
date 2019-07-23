@@ -20,7 +20,7 @@ CueFit allows you to easily access your Google Fit data via Alexa. Simply ask Cu
 * **ID:** amzn1.echo-sdk-ams.app.72c46dfe-c398-418a-95f9-7ed4d0b8633b
 * **ASIN:** B01DL0N8X6
 * **Author:** kix
-* **Release Date:** March 29, 2016 @ 12:49:50
+* **Release Date:** March 29, 2016 @ 13:49:50
 * **Privacy Policy:** https://proness.kix.in/alexa/cuefit/privacy.html
 * **Account Linking Domains:** google.com, accounts.google.com
 * **In-App Purchasing:** No

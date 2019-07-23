@@ -20,5 +20,5 @@ Spare the air. Improve the quality of air by using these simple tips.
 * **ID:** amzn1.ask.skill.55e26c64-5eec-4e9f-b4e3-7d18a99d907c
 * **ASIN:** B01JG73CJI
 * **Author:** juke
-* **Release Date:** August 3, 2016 @ 07:11:40
+* **Release Date:** August 3, 2016 @ 08:11:40
 * **In-App Purchasing:** No

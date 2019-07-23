@@ -16,5 +16,5 @@ Say Alexa, Never have I Ever. Alexa will respond with a random scenario.
 * **ID:** amzn1.ask.skill.052afe5d-6417-4e89-b6aa-b4ee3c0bb75a
 * **ASIN:** B01NBHDQX5
 * **Author:** TerribleDev
-* **Release Date:** December 6, 2016 @ 05:19:20
+* **Release Date:** December 6, 2016 @ 06:19:20
 * **In-App Purchasing:** No

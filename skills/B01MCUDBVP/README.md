@@ -28,6 +28,6 @@ Turn Alexa into a nightlight! Simply tell Nightlight to turn on, and Alexa will 
 * **ID:** amzn1.ask.skill.bab52b56-fb98-4380-9453-362b6b3a47dd
 * **ASIN:** B01MCUDBVP
 * **Author:** ActualCalorie
-* **Release Date:** October 22, 2016 @ 02:42:33
+* **Release Date:** October 22, 2016 @ 03:42:33
 * **Privacy Policy:** https://actualcalorie.com/privacy.php
 * **In-App Purchasing:** No

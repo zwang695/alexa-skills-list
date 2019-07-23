@@ -20,5 +20,5 @@ A quick quiz on the Extra Class Ham License Exam. Questions are current as of Ju
 * **ID:** amzn1.echo-sdk-ams.app.2d02e258-978d-46c7-a52c-ba35249dd50b
 * **ASIN:** B01LFZ31GI
 * **Author:** Ovc
-* **Release Date:** September 3, 2016 @ 03:33:26
+* **Release Date:** September 3, 2016 @ 04:33:26
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Tells trivia and facts about bees when you say "Alexa, tell me about bees", amon
 * **ID:** amzn1.ask.skill.8ba3c9b9-c40f-4210-8a38-6ac7bcd2243d
 * **ASIN:** B01N4IL1FL
 * **Author:** Shana Zhao
-* **Release Date:** December 31, 2016 @ 05:18:51
+* **Release Date:** December 31, 2016 @ 06:18:51
 * **In-App Purchasing:** No

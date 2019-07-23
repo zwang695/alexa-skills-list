@@ -24,5 +24,5 @@ This is an open-source project. To contribute, visit:  https://github.com/ken107
 * **ID:** amzn1.ask.skill.085c9caa-3eee-4cb2-bf8f-9e2d08a300aa
 * **ASIN:** B01MG3TYN6
 * **Author:** Hai Phan
-* **Release Date:** November 9, 2016 @ 03:43:00
+* **Release Date:** November 9, 2016 @ 04:43:00
 * **In-App Purchasing:** No

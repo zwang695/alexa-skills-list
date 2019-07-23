@@ -20,5 +20,5 @@ Is it dinner time again in North Beach, San Francisco and you're sitting with yo
 * **ID:** amzn1.ask.skill.f7945d32-b5c0-44ee-9c88-b4c0da78dec1
 * **ASIN:** B01LDGDBYG
 * **Author:** Ralph
-* **Release Date:** September 2, 2016 @ 02:33:42
+* **Release Date:** September 2, 2016 @ 03:33:42
 * **In-App Purchasing:** No

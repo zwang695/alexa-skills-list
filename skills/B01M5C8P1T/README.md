@@ -20,5 +20,5 @@ This skill gives user interesting honeybee facts.
 * **ID:** amzn1.ask.skill.1b4c9afe-3bcf-4b87-82d9-454bfb4f13be
 * **ASIN:** B01M5C8P1T
 * **Author:** PetesPeak
-* **Release Date:** October 19, 2016 @ 01:44:32
+* **Release Date:** October 19, 2016 @ 02:44:32
 * **In-App Purchasing:** No

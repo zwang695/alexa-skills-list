@@ -22,5 +22,5 @@ Examples include healthy snacks such as 25 grapes and 1 oz. string cheese, but y
 * **ID:** amzn1.ask.skill.2c33331f-944f-41f4-a5df-34f7090e47f2
 * **ASIN:** B01MYNGHTK
 * **Author:** Chirpy Cali
-* **Release Date:** November 20, 2016 @ 23:36:50
+* **Release Date:** November 21, 2016 @ 00:36:50
 * **In-App Purchasing:** No

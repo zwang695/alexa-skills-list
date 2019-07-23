@@ -20,5 +20,5 @@ This Drivers Education Trivia game is designed to test your knowledge on the Dri
 * **ID:** amzn1.ask.skill.d628b287-696d-453c-aaee-7c15826bace1
 * **ASIN:** B01N2YJKHJ
 * **Author:** Kristin Agcaoili
-* **Release Date:** January 1, 2017 @ 23:18:40
+* **Release Date:** January 2, 2017 @ 00:18:40
 * **In-App Purchasing:** No

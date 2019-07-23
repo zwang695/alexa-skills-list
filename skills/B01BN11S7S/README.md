@@ -20,5 +20,5 @@ Test your Star Wars knowledge with this fun trivia game.
 * **ID:** amzn1.echo-sdk-ams.app.2c6f452f-1584-4241-b944-b0744252a3af
 * **ASIN:** B01BN11S7S
 * **Author:** Echoz
-* **Release Date:** February 10, 2016 @ 17:21:54
+* **Release Date:** February 10, 2016 @ 18:21:54
 * **In-App Purchasing:** No

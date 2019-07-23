@@ -20,5 +20,5 @@ Have you ever found yourself wondering, "What are some interesting facts about t
 * **ID:** amzn1.echo-sdk-ams.app.9bae96ec-ec7c-4dc5-b0c1-ce3e0a8a02d0
 * **ASIN:** B01GM0Z96Q
 * **Author:** Photon Solutions
-* **Release Date:** June 7, 2016 @ 05:38:36
+* **Release Date:** June 7, 2016 @ 06:38:36
 * **In-App Purchasing:** No

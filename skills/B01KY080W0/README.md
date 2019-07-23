@@ -20,5 +20,5 @@ Learn about some maths trivia facts.
 * **ID:** amzn1.ask.skill.f7bcf793-8da1-4f3e-8da0-b3cf47793fc5
 * **ASIN:** B01KY080W0
 * **Author:** atang
-* **Release Date:** August 25, 2016 @ 02:03:24
+* **Release Date:** August 25, 2016 @ 03:03:24
 * **In-App Purchasing:** No

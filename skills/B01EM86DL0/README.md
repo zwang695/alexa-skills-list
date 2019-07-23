@@ -20,5 +20,5 @@ This skill allows you to ask Alexa for arrivals scheduled for a provided bus sto
 * **ID:** amzn1.echo-sdk-ams.app.d9ad7478-d8b3-4d06-bbe5-06e72c3037b3
 * **ASIN:** B01EM86DL0
 * **Author:** RGPS
-* **Release Date:** April 26, 2016 @ 14:38:34
+* **Release Date:** April 26, 2016 @ 15:38:34
 * **In-App Purchasing:** No

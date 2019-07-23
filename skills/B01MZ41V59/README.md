@@ -20,5 +20,5 @@ This New York City guide skill provides helpful travel information to NYC visito
 * **ID:** amzn1.ask.skill.0f084278-aff0-42b0-a154-558974ecce2e
 * **ASIN:** B01MZ41V59
 * **Author:** Joachim Do
-* **Release Date:** December 30, 2016 @ 04:19:10
+* **Release Date:** December 30, 2016 @ 05:19:10
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ A small set of statements designed to measure your Narcissistic Personality char
 * **ID:** amzn1.ask.skill.da667e34-a53b-4eea-8e52-c318bbf15270
 * **ASIN:** B01KCXTY7Y
 * **Author:** Apex Business Computing
-* **Release Date:** September 4, 2016 @ 06:33:14
+* **Release Date:** September 4, 2016 @ 07:33:14
 * **Privacy Policy:** http://www.apexbusinesscomputing.com/Privacy.htm
 * **Terms of Use:** http://www.apexbusinesscomputing.com
 * **In-App Purchasing:** No

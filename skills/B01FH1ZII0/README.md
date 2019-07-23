@@ -20,5 +20,5 @@ Ask Alexa for the current poll results from the Huffington Post's daily poll 201
 * **ID:** amzn1.echo-sdk-ams.app.f8296419-b8ac-4f52-8197-945663f39f35
 * **ASIN:** B01FH1ZII0
 * **Author:** Brian Cook
-* **Release Date:** May 13, 2016 @ 06:08:39
+* **Release Date:** May 13, 2016 @ 07:08:39
 * **In-App Purchasing:** No

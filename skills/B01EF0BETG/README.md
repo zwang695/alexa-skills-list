@@ -43,5 +43,5 @@ Improved recognition of boss names should help things too.<br>
 * **ID:** amzn1.echo-sdk-ams.app.b5c231e6-fbf0-4d89-9c3f-a4e872fa6562
 * **ASIN:** B01EF0BETG
 * **Author:** Don Hoellein
-* **Release Date:** August 9, 2016 @ 06:37:24
+* **Release Date:** August 9, 2016 @ 07:37:24
 * **In-App Purchasing:** No

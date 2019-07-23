@@ -24,7 +24,7 @@ Can't decide what to make? Ask Alexa what you should eat and she will suggest re
 * **ID:** amzn1.ask.skill.1f095233-5c82-4d8c-af33-50a828e12f8f
 * **ASIN:** B01N482KOY
 * **Author:** Jeff Delaney
-* **Release Date:** December 17, 2016 @ 06:19:03
+* **Release Date:** December 17, 2016 @ 07:19:03
 * **Privacy Policy:** https://cloudcookbook.jeffdelaney.com/legal/privacy
 * **Account Linking Domains:** cloudcookbook.jeffdelaney.com
 * **In-App Purchasing:** No

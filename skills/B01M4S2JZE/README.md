@@ -20,5 +20,5 @@ The Snowbird Resort Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.67e1838d-23d4-467b-823f-3c8d06676ed6
 * **ASIN:** B01M4S2JZE
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:43:32
+* **Release Date:** November 4, 2016 @ 09:43:32
 * **In-App Purchasing:** No

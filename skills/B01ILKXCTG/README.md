@@ -20,5 +20,5 @@ Kitchen Tips will provide you with a plethora of kitchen tips, including safety 
 * **ID:** amzn1.echo-sdk-ams.app.56bc7c86-a6c2-46e9-9db4-06c3405a29c1
 * **ASIN:** B01ILKXCTG
 * **Author:** Shyam Vadeyar
-* **Release Date:** July 19, 2016 @ 06:57:39
+* **Release Date:** July 19, 2016 @ 07:57:39
 * **In-App Purchasing:** No

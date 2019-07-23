@@ -20,5 +20,5 @@ Find the names of famous people born on any given date. It looks up wikipedia fo
 * **ID:** amzn1.echo-sdk-ams.app.3d7bd0b3-5c36-4dc9-9a88-cda319e096c2
 * **ASIN:** B01FZY5K7I
 * **Author:** suresh
-* **Release Date:** May 27, 2016 @ 07:08:27
+* **Release Date:** May 27, 2016 @ 08:08:27
 * **In-App Purchasing:** No

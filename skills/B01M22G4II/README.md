@@ -16,5 +16,5 @@ this will give some facts about the country india
 * **ID:** amzn1.ask.skill.b2d38b96-6e53-4187-8317-fa128aa5779f
 * **ASIN:** B01M22G4II
 * **Author:** Malar 
-* **Release Date:** October 11, 2016 @ 09:41:49
+* **Release Date:** October 11, 2016 @ 10:41:49
 * **In-App Purchasing:** No

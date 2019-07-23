@@ -20,5 +20,5 @@ The Math History Trivia skill is the most fun you'll ever have with math! This s
 * **ID:** amzn1.echo-sdk-ams.app.77f482f1-1da5-4ad1-8e35-989d5faf5cc4
 * **ASIN:** B01FNR507W
 * **Author:** KurtPrice
-* **Release Date:** May 19, 2016 @ 07:08:34
+* **Release Date:** May 19, 2016 @ 08:08:34
 * **In-App Purchasing:** No

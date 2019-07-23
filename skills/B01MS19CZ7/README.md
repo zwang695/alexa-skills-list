@@ -20,5 +20,5 @@ This skill will teach you a little about our fair city located in Southwest Virg
 * **ID:** amzn1.ask.skill.ce1330ec-5eb2-4bee-a694-12a40f41ad6e
 * **ASIN:** B01MS19CZ7
 * **Author:** The Vaping Ant
-* **Release Date:** December 29, 2016 @ 06:49:34
+* **Release Date:** December 29, 2016 @ 07:49:34
 * **In-App Purchasing:** No

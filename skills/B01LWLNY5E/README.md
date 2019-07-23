@@ -18,5 +18,5 @@ Updated daily, Who is Ahead will give the latest poll information from various p
 * **ID:** amzn1.ask.skill.76e9466f-f8d5-49d7-908e-7a64849ebb39
 * **ASIN:** B01LWLNY5E
 * **Author:** GeezerNetwork
-* **Release Date:** September 28, 2016 @ 17:42:02
+* **Release Date:** September 28, 2016 @ 18:42:02
 * **In-App Purchasing:** No

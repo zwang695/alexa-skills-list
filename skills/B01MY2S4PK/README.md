@@ -20,5 +20,5 @@ This game is not sponsored or endorsed by Ashton-Tate. In fact, the company hasn
 * **ID:** amzn1.ask.skill.0821a3c2-1b13-4c55-9315-8dc1f3bd24d0
 * **ASIN:** B01MY2S4PK
 * **Author:** Hb design
-* **Release Date:** January 2, 2017 @ 02:49:01
+* **Release Date:** January 2, 2017 @ 03:49:01
 * **In-App Purchasing:** No

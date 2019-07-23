@@ -20,5 +20,5 @@ Daily inspiration at the tip of your tongue!
 * **ID:** amzn1.echo-sdk-ams.app.81005327-e2d0-44e9-9fdf-f493716841cb
 * **ASIN:** B01IJ9XUQE
 * **Author:** Phrasing!
-* **Release Date:** August 5, 2016 @ 02:37:48
+* **Release Date:** August 5, 2016 @ 03:37:48
 * **In-App Purchasing:** No

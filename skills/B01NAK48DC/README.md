@@ -20,5 +20,5 @@ Daily inspiration delivers the best selection of inspiring quotes on demand to h
 * **ID:** amzn1.ask.skill.7d2c433c-117b-4060-93b4-a9e0920a3aea
 * **ASIN:** B01NAK48DC
 * **Author:** The Mindful Tech Lab
-* **Release Date:** December 19, 2016 @ 07:49:58
+* **Release Date:** December 19, 2016 @ 08:49:58
 * **In-App Purchasing:** No

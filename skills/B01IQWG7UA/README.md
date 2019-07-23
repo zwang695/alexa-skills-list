@@ -20,5 +20,5 @@ Muslim Guide Skill app tells you prayer times, open (azan/athan). It allow you t
 * **ID:** amzn1.ask.skill.73653f4f-1fd3-4701-9763-b2dcc3ca4774
 * **ASIN:** B01IQWG7UA
 * **Author:** Al-Somat
-* **Release Date:** August 8, 2016 @ 05:37:31
+* **Release Date:** August 8, 2016 @ 06:37:31
 * **In-App Purchasing:** No

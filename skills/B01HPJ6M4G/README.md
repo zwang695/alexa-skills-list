@@ -20,5 +20,5 @@ Never have to judge if it's your recycling week by looking down the street.  Con
 * **ID:** amzn1.echo-sdk-ams.app.d1ed2ebe-4bc5-4df2-bf57-5b0a741b91c8
 * **ASIN:** B01HPJ6M4G
 * **Author:** Casey Loren Billman
-* **Release Date:** July 29, 2016 @ 07:26:30
+* **Release Date:** July 29, 2016 @ 08:26:30
 * **In-App Purchasing:** No

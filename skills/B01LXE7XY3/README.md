@@ -20,5 +20,5 @@ Provides the Daily Bible Verse from Bible.org.  When this skill is instantiated,
 * **ID:** amzn1.ask.skill.e832d921-5b89-4531-9662-16496416ed2b
 * **ASIN:** B01LXE7XY3
 * **Author:** marty markley
-* **Release Date:** October 6, 2016 @ 04:42:02
+* **Release Date:** October 6, 2016 @ 05:42:02
 * **In-App Purchasing:** No

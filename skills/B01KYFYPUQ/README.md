@@ -30,5 +30,5 @@ To ask for twitter, mailing, or phone contact information:
 * **ID:** amzn1.echo-sdk-ams.app.d11f6308-3c0f-4848-9919-23b422d64868
 * **ASIN:** B01KYFYPUQ
 * **Author:** Brian P Cox
-* **Release Date:** August 30, 2016 @ 01:33:18
+* **Release Date:** August 30, 2016 @ 02:33:18
 * **In-App Purchasing:** No

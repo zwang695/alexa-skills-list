@@ -20,5 +20,5 @@ World Language Trivia is a fun trivia game asking multiple choice questions abou
 * **ID:** amzn1.ask.skill.7ab3c9ff-5898-4112-bcf4-7b0536963a8c
 * **ASIN:** B01J6U64TA
 * **Author:** valoriedodge
-* **Release Date:** August 1, 2016 @ 09:26:42
+* **Release Date:** August 1, 2016 @ 10:26:42
 * **In-App Purchasing:** No

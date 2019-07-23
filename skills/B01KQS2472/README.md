@@ -25,5 +25,5 @@ We have a team of highly trained monkeys, working on bringing your natural numbe
 * **ID:** amzn1.ask.skill.599689a2-1648-42a0-8404-17006761c24c
 * **ASIN:** B01KQS2472
 * **Author:** George Kortsaridis
-* **Release Date:** August 25, 2016 @ 02:03:13
+* **Release Date:** August 25, 2016 @ 03:03:13
 * **In-App Purchasing:** No

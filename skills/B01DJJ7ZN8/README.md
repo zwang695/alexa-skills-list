@@ -20,5 +20,5 @@ This is a quiz application for use by angular developers or those looking to imp
 * **ID:** amzn1.echo-sdk-ams.app.913faff0-7bb4-426a-860d-6b0f78784410
 * **ASIN:** B01DJJ7ZN8
 * **Author:** Pedro Urbina
-* **Release Date:** March 30, 2016 @ 03:02:36
+* **Release Date:** March 30, 2016 @ 04:02:36
 * **In-App Purchasing:** No

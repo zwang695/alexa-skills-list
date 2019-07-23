@@ -32,5 +32,5 @@ This app contains user generated content, and may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.5787cdfe-2892-42a9-8f8a-ed6b520b3e45
 * **ASIN:** B01F5EP4AQ
 * **Author:** Sterian Associates
-* **Release Date:** May 13, 2016 @ 06:38:33
+* **Release Date:** May 13, 2016 @ 07:38:33
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Future Plan: User can ask Alexa for the weather, time of day, Tanzania Shilling 
 * **ID:** amzn1.ask.skill.c6faad82-1af2-46f3-9492-6fcc3802cb15
 * **ASIN:** B01MRRZSI2
 * **Author:** Andrew de Silva
-* **Release Date:** December 6, 2016 @ 04:20:04
+* **Release Date:** December 6, 2016 @ 05:20:04
 * **In-App Purchasing:** No

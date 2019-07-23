@@ -28,5 +28,5 @@ More trivia questions to come soon, feel free to share yours in the reviews!
 * **ID:** amzn1.echo-sdk-ams.app.019398c1-539c-42fd-98a3-33a63b4dbd44
 * **ASIN:** B01DAJXBGM
 * **Author:** Macaron Apps
-* **Release Date:** March 22, 2016 @ 12:06:34
+* **Release Date:** March 22, 2016 @ 13:06:34
 * **In-App Purchasing:** No

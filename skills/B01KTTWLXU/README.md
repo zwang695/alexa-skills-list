@@ -16,5 +16,5 @@ Facts about Water
 * **ID:** amzn1.ask.skill.80e31335-4122-4d65-85d2-e75dd0187428
 * **ASIN:** B01KTTWLXU
 * **Author:** Suzanne Durocher
-* **Release Date:** August 23, 2016 @ 01:48:42
+* **Release Date:** August 23, 2016 @ 02:48:42
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Chickens are silly and funny. Have some fun by asking silly chicken for chicken 
 * **ID:** amzn1.ask.skill.88001b9b-84d3-47bd-b01b-586d9479e2e4
 * **ASIN:** B01JKUR5YY
 * **Author:** Silly Chicken
-* **Release Date:** August 5, 2016 @ 03:08:01
+* **Release Date:** August 5, 2016 @ 04:08:01
 * **In-App Purchasing:** No

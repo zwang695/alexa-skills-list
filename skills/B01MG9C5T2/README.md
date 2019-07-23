@@ -21,5 +21,5 @@ To enable, just say "Alexa, enable Deadlier Than Sharks," or click "Enable." The
 * **ID:** amzn1.ask.skill.c46f2c16-1f95-47b8-b680-828f7e68bf14
 * **ASIN:** B01MG9C5T2
 * **Author:** Ethan Kenneth Technologies
-* **Release Date:** November 9, 2016 @ 22:13:18
+* **Release Date:** November 9, 2016 @ 23:13:18
 * **In-App Purchasing:** No

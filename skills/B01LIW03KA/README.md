@@ -20,5 +20,5 @@ This skill expands on the functionality of the Nim Skill. It adds the ability to
 * **ID:** amzn1.ask.skill.8aa5defe-18b9-4d76-822c-f6b24c2c8287
 * **ASIN:** B01LIW03KA
 * **Author:** Elvis Wolcott
-* **Release Date:** November 2, 2016 @ 01:43:19
+* **Release Date:** November 2, 2016 @ 02:43:19
 * **In-App Purchasing:** No

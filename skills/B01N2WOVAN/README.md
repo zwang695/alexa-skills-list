@@ -18,6 +18,6 @@ This skill's purpose is to utilize Quizlet's 2.0 API with Alexa in order to retr
 * **ID:** amzn1.ask.skill.ebc791c6-9d78-4735-8141-abf20788396a
 * **ASIN:** B01N2WOVAN
 * **Author:** Matthew Horger
-* **Release Date:** January 3, 2017 @ 00:19:20
+* **Release Date:** January 3, 2017 @ 01:19:20
 * **Privacy Policy:** https://docs.google.com/document/d/1KPr9LvTSr2WsERQ47E3FTjWj0u-vZPxywcrfX2ECGNc/edit?usp=sharing
 * **In-App Purchasing:** No

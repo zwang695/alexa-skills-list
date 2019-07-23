@@ -17,7 +17,7 @@ Simply link your Alexa and your Netatmo accounts and start experiencing a new wa
 * **ID:** amzn1.ask.skill.f6c9bbce-6c7c-4d22-b110-530c463659b6
 * **ASIN:** B01LZJ8S4R
 * **Author:** Netatmo
-* **Release Date:** September 23, 2016 @ 17:42:20
+* **Release Date:** September 23, 2016 @ 18:42:20
 * **Privacy Policy:** https://www.netatmo.net/site/terms#div_privacy
 * **Terms of Use:** https://www.netatmo.com/site/terms
 * **Account Linking Domains:** api.netatmo.com, api.netatmo.net, auth.netatmo.com

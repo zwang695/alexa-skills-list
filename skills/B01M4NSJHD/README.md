@@ -34,5 +34,5 @@ If you're using the skill and know what you want to hear before getting to the p
 * **ID:** amzn1.ask.skill.5ad5172f-7fde-4753-9c28-df370691952c
 * **ASIN:** B01M4NSJHD
 * **Author:** XAPPmedia
-* **Release Date:** November 20, 2016 @ 23:35:56
+* **Release Date:** November 21, 2016 @ 00:35:56
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Based on a series of questions, helps suggests an activity based on weather, cos
 * **ID:** amzn1.ask.skill.af6b5151-90e7-49aa-a068-b0dd3f0b53e5
 * **ASIN:** B01MAUL1MB
 * **Author:** Darren Lucas
-* **Release Date:** October 12, 2016 @ 02:12:56
+* **Release Date:** October 12, 2016 @ 03:12:56
 * **In-App Purchasing:** No

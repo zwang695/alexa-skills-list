@@ -22,5 +22,5 @@ Token price is provided by the courtesy of wowtoken.info and is updated every 10
 * **ID:** amzn1.echo-sdk-ams.app.06ec083e-9b79-4a2c-b917-9cd29b6d8834
 * **ASIN:** B01EETC1J0
 * **Author:** kix
-* **Release Date:** April 22, 2016 @ 07:08:28
+* **Release Date:** April 22, 2016 @ 08:08:28
 * **In-App Purchasing:** No

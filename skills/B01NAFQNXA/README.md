@@ -32,5 +32,5 @@ Code is open source and contributors are welcome: https://github.com/ericisaiah/
 * **ID:** amzn1.ask.skill.8c207920-8332-49b4-b30c-d7cf743fef1d
 * **ASIN:** B01NAFQNXA
 * **Author:** Eric Lukoff
-* **Release Date:** December 19, 2016 @ 07:49:52
+* **Release Date:** December 19, 2016 @ 08:49:52
 * **In-App Purchasing:** No

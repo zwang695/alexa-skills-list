@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.7f5c0b6d-2db4-4f5b-86c3-c82950585b80
 * **ASIN:** B01N4GY9LY
 * **Author:** Thomas Tursics
-* **Release Date:** December 26, 2016 @ 01:49:04
+* **Release Date:** December 26, 2016 @ 02:49:04
 * **In-App Purchasing:** No

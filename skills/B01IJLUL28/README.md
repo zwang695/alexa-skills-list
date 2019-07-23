@@ -20,5 +20,5 @@ Bollywood is one of the largest film industries in the world in terms of the num
 * **ID:** amzn1.echo-sdk-ams.app.75e48fc0-411b-4949-9c62-5eed3f98e2e2
 * **ASIN:** B01IJLUL28
 * **Author:** Radhika Gathwala
-* **Release Date:** July 18, 2016 @ 06:57:30
+* **Release Date:** July 18, 2016 @ 07:57:30
 * **In-App Purchasing:** No

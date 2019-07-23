@@ -20,5 +20,5 @@ This is a tiny app that tells you whether there is a holiday affecting trash pic
 * **ID:** amzn1.echo-sdk-ams.app.07a60904-1bbe-4da0-b02f-fc19f7921447
 * **ASIN:** B01DCRJVQG
 * **Author:** Peter Roca
-* **Release Date:** March 23, 2016 @ 18:27:18
+* **Release Date:** March 23, 2016 @ 19:27:18
 * **In-App Purchasing:** No

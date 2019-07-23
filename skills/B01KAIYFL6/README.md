@@ -20,5 +20,5 @@ This is a fun simple geography game where you try to guess how far you are from 
 * **ID:** amzn1.ask.skill.87519431-49c0-4ea9-99e1-4168d3446642
 * **ASIN:** B01KAIYFL6
 * **Author:** Shah
-* **Release Date:** August 16, 2016 @ 07:53:33
+* **Release Date:** August 16, 2016 @ 08:53:33
 * **In-App Purchasing:** No

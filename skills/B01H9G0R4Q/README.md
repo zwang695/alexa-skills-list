@@ -20,5 +20,5 @@ With this skill, Alexa will ask you a randomly-generated trivia question about U
 * **ID:** amzn1.echo-sdk-ams.app.e27b1fa6-348c-49ce-94d4-49ac7ab4f674
 * **ASIN:** B01H9G0R4Q
 * **Author:** Jake Bell
-* **Release Date:** July 5, 2016 @ 04:27:36
+* **Release Date:** July 5, 2016 @ 05:27:36
 * **In-App Purchasing:** No

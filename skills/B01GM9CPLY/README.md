@@ -20,5 +20,5 @@ Enjoy silly jokes and get some laugh. It's good for your health too. Just ask Al
 * **ID:** amzn1.echo-sdk-ams.app.47337702-04a4-4df0-b23b-f68a94ab1e7d
 * **ASIN:** B01GM9CPLY
 * **Author:** SGKim
-* **Release Date:** June 8, 2016 @ 08:09:55
+* **Release Date:** June 8, 2016 @ 09:09:55
 * **In-App Purchasing:** No

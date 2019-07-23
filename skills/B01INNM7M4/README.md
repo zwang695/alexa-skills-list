@@ -25,5 +25,5 @@ This skill is good for playing with your family and friend, or even alone!
 * **ID:** amzn1.echo-sdk-ams.app.1ca0679c-d1cb-44f7-b25f-6a04830f8799
 * **ASIN:** B01INNM7M4
 * **Author:** TheCodeBooth
-* **Release Date:** July 19, 2016 @ 03:57:26
+* **Release Date:** July 19, 2016 @ 04:57:26
 * **In-App Purchasing:** No

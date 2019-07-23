@@ -20,5 +20,5 @@ The Sugar Bowl Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.adb295fe-0d7d-42da-b5d6-e250380af37a
 * **ASIN:** B01LY308T8
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:16:51
+* **Release Date:** October 20, 2016 @ 04:16:51
 * **In-App Purchasing:** No

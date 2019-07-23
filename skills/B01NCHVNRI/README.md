@@ -18,5 +18,5 @@ If you have attended any race of DG Racing's, this is your all informative race 
 * **ID:** amzn1.ask.skill.12f54495-3920-4f52-badb-95a54014a757
 * **ASIN:** B01NCHVNRI
 * **Author:** DG Racing, LLC
-* **Release Date:** December 21, 2016 @ 06:20:59
+* **Release Date:** December 21, 2016 @ 07:20:59
 * **In-App Purchasing:** No

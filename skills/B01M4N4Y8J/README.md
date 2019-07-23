@@ -24,5 +24,5 @@ Barack Obama is assigned president number 44
 * **ID:** amzn1.ask.skill.1b15d844-1ce6-4b45-bb40-bd4ba1b37862
 * **ASIN:** B01M4N4Y8J
 * **Author:** Adrien Chan
-* **Release Date:** November 2, 2016 @ 02:43:08
+* **Release Date:** November 2, 2016 @ 03:43:08
 * **In-App Purchasing:** No

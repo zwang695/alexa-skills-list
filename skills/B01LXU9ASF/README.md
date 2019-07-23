@@ -18,5 +18,5 @@ Science Trivia tests your knowledge. You are given a question and 4 answers. Sel
 * **ID:** amzn1.ask.skill.fd09ed2e-f9f4-4d46-971e-1c7602d98dda
 * **ASIN:** B01LXU9ASF
 * **Author:** Designer
-* **Release Date:** October 4, 2016 @ 02:12:45
+* **Release Date:** October 4, 2016 @ 03:12:45
 * **In-App Purchasing:** No

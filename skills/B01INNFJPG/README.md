@@ -20,7 +20,7 @@ Search New York State provided data for Farmer's Markets.  Search by County, Cit
 * **ID:** amzn1.echo-sdk-ams.app.975b7f51-e0d4-42f5-aa32-6df0388860e7
 * **ASIN:** B01INNFJPG
 * **Author:** Digital Spring Apps
-* **Release Date:** August 5, 2016 @ 06:37:31
+* **Release Date:** August 5, 2016 @ 07:37:31
 * **Privacy Policy:** http://www.digitalspring.com/mtprivacy
 * **Terms of Use:** http://www.digitalspring.com/mtprivacy
 * **In-App Purchasing:** No

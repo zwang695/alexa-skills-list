@@ -18,5 +18,5 @@ Random Facts gives out a random fact when the user prompts the skill for one.  E
 * **ID:** amzn1.ask.skill.ca44c58d-c4e2-467b-b047-76388cc70885
 * **ASIN:** B01M0J61HH
 * **Author:** Dogbeast
-* **Release Date:** October 5, 2016 @ 01:12:24
+* **Release Date:** October 5, 2016 @ 02:12:24
 * **In-App Purchasing:** No

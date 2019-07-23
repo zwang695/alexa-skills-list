@@ -20,5 +20,5 @@ Flips a coin and says either heads or tails, both options with equal probability
 * **ID:** amzn1.ask.skill.482c2d10-52fa-4c28-901b-03264078a771
 * **ASIN:** B01MS186NT
 * **Author:** Virginia Tech
-* **Release Date:** December 26, 2016 @ 23:49:18
+* **Release Date:** December 27, 2016 @ 00:49:18
 * **In-App Purchasing:** No

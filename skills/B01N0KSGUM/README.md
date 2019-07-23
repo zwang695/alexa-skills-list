@@ -23,5 +23,5 @@ Take this quiz and find out!
 * **ID:** amzn1.ask.skill.89dcf885-ad7a-4a17-8884-9617ad4a9055
 * **ASIN:** B01N0KSGUM
 * **Author:** Steal Enterprise
-* **Release Date:** November 30, 2016 @ 06:05:00
+* **Release Date:** November 30, 2016 @ 07:05:00
 * **In-App Purchasing:** No

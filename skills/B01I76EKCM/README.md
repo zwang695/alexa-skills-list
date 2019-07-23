@@ -24,5 +24,5 @@ How do you get a baby astronaut to sleep? You rocket!
 * **ID:** amzn1.echo-sdk-ams.app.3cc0663d-d797-4b07-86ac-818e02268cea
 * **ASIN:** B01I76EKCM
 * **Author:** Songting Wu
-* **Release Date:** July 12, 2016 @ 06:57:41
+* **Release Date:** July 12, 2016 @ 07:57:41
 * **In-App Purchasing:** No

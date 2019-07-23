@@ -20,5 +20,5 @@ Need to spell a word clearly? Don't know words for each letter you need to spell
 * **ID:** amzn1.echo-sdk-ams.app.3b56af3d-b274-46e7-b017-1e558ffd2401
 * **ASIN:** B01GU73TQS
 * **Author:** Samuel Dowd
-* **Release Date:** June 28, 2016 @ 06:16:04
+* **Release Date:** June 28, 2016 @ 07:16:04
 * **In-App Purchasing:** No

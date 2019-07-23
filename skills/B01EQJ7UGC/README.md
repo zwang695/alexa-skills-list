@@ -22,5 +22,5 @@ Retrieves the current air quality index (AQI) of pm 2.5 from www.airnowapi.org.
 * **ID:** amzn1.echo-sdk-ams.app.cf3fe37a-7ba8-4c68-a091-832b8dec0f58
 * **ASIN:** B01EQJ7UGC
 * **Author:** JabberJaw
-* **Release Date:** April 27, 2016 @ 08:38:37
+* **Release Date:** April 27, 2016 @ 09:38:37
 * **In-App Purchasing:** No

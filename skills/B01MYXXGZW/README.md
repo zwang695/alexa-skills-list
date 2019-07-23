@@ -20,5 +20,5 @@ Palindrome deck entertains you with funny phrases which reads the same backward 
 * **ID:** amzn1.ask.skill.666a090a-6546-47b0-885f-b70b20b6b6b8
 * **ASIN:** B01MYXXGZW
 * **Author:** pverkhovskyi
-* **Release Date:** December 11, 2016 @ 01:19:39
+* **Release Date:** December 11, 2016 @ 02:19:39
 * **In-App Purchasing:** No

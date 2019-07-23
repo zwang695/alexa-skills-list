@@ -20,5 +20,5 @@ The skill references the world news to give you the latest stories of the day! T
 * **ID:** amzn1.ask.skill.2ac3515a-250a-4cec-bc0c-82888e433c34
 * **ASIN:** B01MU4N9EU
 * **Author:** SandChow
-* **Release Date:** December 28, 2016 @ 05:49:20
+* **Release Date:** December 28, 2016 @ 06:49:20
 * **In-App Purchasing:** No

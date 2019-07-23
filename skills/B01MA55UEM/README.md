@@ -20,5 +20,5 @@ Philosophy enchants and educates us, broaden your horizons and take a second to 
 * **ID:** amzn1.ask.skill.85352d8a-d80f-4514-b080-7d56d177ffed
 * **ASIN:** B01MA55UEM
 * **Author:** AdzVentures
-* **Release Date:** October 25, 2016 @ 01:46:28
+* **Release Date:** October 25, 2016 @ 02:46:28
 * **In-App Purchasing:** No

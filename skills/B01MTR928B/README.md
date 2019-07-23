@@ -20,5 +20,5 @@ This skill takes in a large file of insults and compiles them and provides a ran
 * **ID:** amzn1.ask.skill.aafe4794-945c-46e7-8ce2-6732a9466f33
 * **ASIN:** B01MTR928B
 * **Author:** hackerjacks
-* **Release Date:** November 27, 2016 @ 01:35:48
+* **Release Date:** November 27, 2016 @ 02:35:48
 * **In-App Purchasing:** No

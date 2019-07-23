@@ -20,5 +20,5 @@ This skill tests your knowledge by asking you four questions, what artist sang a
 * **ID:** amzn1.echo-sdk-ams.app.b7a1c018-0b6b-46f7-9bcd-08a4f8c2b7f5
 * **ASIN:** B01IL402HM
 * **Author:** Mark Wolkon
-* **Release Date:** July 18, 2016 @ 08:57:32
+* **Release Date:** July 18, 2016 @ 09:57:32
 * **In-App Purchasing:** No

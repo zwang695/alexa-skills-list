@@ -20,5 +20,5 @@ Should I ride will ask you for your zipcode and tell you if today is a good day 
 * **ID:** amzn1.ask.skill.388673d3-63e6-4f69-b230-916e45490353
 * **ASIN:** B01JN7JKIS
 * **Author:** Adam Housman
-* **Release Date:** August 24, 2016 @ 03:31:39
+* **Release Date:** August 24, 2016 @ 04:31:39
 * **In-App Purchasing:** No

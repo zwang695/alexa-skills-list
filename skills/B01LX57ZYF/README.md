@@ -25,5 +25,5 @@ Looking to learn more about our Founding Fathers and the era that they lived in?
 * **ID:** amzn1.echo-sdk-ams.app.011e0655-2f0a-4696-b9ee-6c45549bc4cf
 * **ASIN:** B01LX57ZYF
 * **Author:** Drawrz.com
-* **Release Date:** October 5, 2016 @ 01:12:38
+* **Release Date:** October 5, 2016 @ 02:12:38
 * **In-App Purchasing:** No

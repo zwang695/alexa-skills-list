@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.9c4e34f3-01ac-4173-98fe-58b6ac5abe82
 * **ASIN:** B01N47CIV0
 * **Author:** Aykut Çevik
-* **Release Date:** December 6, 2016 @ 03:05:21
+* **Release Date:** December 6, 2016 @ 04:05:21
 * **In-App Purchasing:** No

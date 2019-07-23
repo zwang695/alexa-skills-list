@@ -20,5 +20,5 @@ Dice Roller is an application to allow you to ask Alexa to roll a dice for you !
 * **ID:** amzn1.ask.skill.cf49c20b-96c9-4229-9ac1-723362eb6693
 * **ASIN:** B01LYKA12Q
 * **Author:** SupHerman
-* **Release Date:** September 22, 2016 @ 05:12:04
+* **Release Date:** September 22, 2016 @ 06:12:04
 * **In-App Purchasing:** No

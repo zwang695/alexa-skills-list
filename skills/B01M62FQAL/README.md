@@ -20,5 +20,5 @@ Provides the definition for a small set of basic mathematical functions/equation
 * **ID:** amzn1.ask.skill.f55bab89-6529-4d87-ac79-a047a5b3c658
 * **ASIN:** B01M62FQAL
 * **Author:** Darren Lucas
-* **Release Date:** October 25, 2016 @ 01:14:32
+* **Release Date:** October 25, 2016 @ 02:14:32
 * **In-App Purchasing:** No

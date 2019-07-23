@@ -20,5 +20,5 @@ This is a small, fun Posh trivia game with questions on syntax, history and more
 * **ID:** amzn1.echo-sdk-ams.app.ec1bff9d-15a5-4c65-b5b5-bd50221c700d
 * **ASIN:** B01GAXLPJ0
 * **Author:** Matthew Kerfoot
-* **Release Date:** June 8, 2016 @ 07:41:01
+* **Release Date:** June 8, 2016 @ 08:41:01
 * **In-App Purchasing:** No

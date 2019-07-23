@@ -20,5 +20,5 @@ The Snow King Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.9cb2f6e0-40a2-42fd-b92b-7151ca559b78
 * **ASIN:** B01N3VZFQ1
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:42:52
+* **Release Date:** November 5, 2016 @ 11:42:52
 * **In-App Purchasing:** No

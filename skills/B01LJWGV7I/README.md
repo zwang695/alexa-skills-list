@@ -20,5 +20,5 @@ Facts about Hungary
 * **ID:** amzn1.ask.skill.be3d0404-0761-4613-84ea-9d66f0c7cc74
 * **ASIN:** B01LJWGV7I
 * **Author:** Adam Balazs
-* **Release Date:** October 5, 2016 @ 00:42:21
+* **Release Date:** October 5, 2016 @ 01:42:21
 * **In-App Purchasing:** No

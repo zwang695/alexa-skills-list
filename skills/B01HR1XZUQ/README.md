@@ -22,5 +22,5 @@ Alexa will enlighten with you with a adage written by thiruvalluvar (Tamil Poet)
 * **ID:** amzn1.echo-sdk-ams.app.6eb8661d-0d33-4e25-b151-860253fae993
 * **ASIN:** B01HR1XZUQ
 * **Author:** Balaji
-* **Release Date:** July 7, 2016 @ 08:57:29
+* **Release Date:** July 7, 2016 @ 09:57:29
 * **In-App Purchasing:** No

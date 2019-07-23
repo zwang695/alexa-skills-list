@@ -53,5 +53,5 @@ Thank you!
 * **ID:** amzn1.echo-sdk-ams.app.05759c0d-1740-43ec-bcf9-78a6e4292b50
 * **ASIN:** B01AOC5FIA
 * **Author:** Speedy Llama, LLC
-* **Release Date:** January 15, 2016 @ 14:55:21
+* **Release Date:** January 15, 2016 @ 15:55:21
 * **In-App Purchasing:** No

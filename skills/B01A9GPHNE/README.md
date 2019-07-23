@@ -22,5 +22,5 @@ Some content may not be suitable for all ages or audiences.
 * **ID:** amzn1.echo-sdk-ams.app.516141a7-e164-4747-a6df-6f1b32dd0a6f
 * **ASIN:** B01A9GPHNE
 * **Author:** Bonafide
-* **Release Date:** January 6, 2016 @ 17:03:21
+* **Release Date:** January 6, 2016 @ 18:03:21
 * **In-App Purchasing:** No

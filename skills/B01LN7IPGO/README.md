@@ -28,5 +28,5 @@ More CrossFit Acronyms and Abbreviations on www.wikiwod.com
 * **ID:** amzn1.ask.skill.b9fb5be3-3c2e-464a-b70c-dd3e2780fc0e
 * **ASIN:** B01LN7IPGO
 * **Author:** Aliaksei Zhurankou
-* **Release Date:** September 14, 2016 @ 21:42:37
+* **Release Date:** September 14, 2016 @ 22:42:37
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a simple skill to allow you to ask Alexa to tell you some interesting fi
 * **ID:** amzn1.echo-sdk-ams.app.385d2d97-5d82-44a0-b75f-3adb1d02655e
 * **ASIN:** B01DV7E6XA
 * **Author:** Matthew Tracy
-* **Release Date:** April 13, 2016 @ 07:32:34
+* **Release Date:** April 13, 2016 @ 08:32:34
 * **In-App Purchasing:** No

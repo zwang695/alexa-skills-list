@@ -20,5 +20,5 @@ The Granite Peak Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.26e335e3-2dcd-499f-8315-5acb429c59b8
 * **ASIN:** B01MRFZ8R3
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:44:16
+* **Release Date:** November 5, 2016 @ 11:44:16
 * **In-App Purchasing:** No

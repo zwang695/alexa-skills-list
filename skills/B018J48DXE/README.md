@@ -20,5 +20,5 @@ Get information about the upcoming long weekend. Useful for planning ahead your 
 * **ID:** amzn1.echo-sdk-ams.app.5c54487b-0481-4e61-bbf9-391c349139b9
 * **ASIN:** B018J48DXE
 * **Author:** TapsUnlimited
-* **Release Date:** November 25, 2015 @ 17:17:56
+* **Release Date:** November 25, 2015 @ 18:17:56
 * **In-App Purchasing:** No

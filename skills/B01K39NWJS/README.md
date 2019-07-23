@@ -20,5 +20,5 @@ This skill is created by an insurance agent to help people understand the basics
 * **ID:** amzn1.ask.skill.d9c6d3bc-5099-4c35-992f-7b5b53ddd11d
 * **ASIN:** B01K39NWJS
 * **Author:** ianj001
-* **Release Date:** August 10, 2016 @ 02:37:37
+* **Release Date:** August 10, 2016 @ 03:37:37
 * **In-App Purchasing:** No

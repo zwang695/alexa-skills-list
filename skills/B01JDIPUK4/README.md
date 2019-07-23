@@ -20,5 +20,5 @@ Never worry about missing your bus to class or work again! Use Alexa to find you
 * **ID:** amzn1.ask.skill.df93f715-d752-4527-9719-5f8f82ad6b7c
 * **ASIN:** B01JDIPUK4
 * **Author:** tmguar
-* **Release Date:** August 16, 2016 @ 07:53:31
+* **Release Date:** August 16, 2016 @ 08:53:31
 * **In-App Purchasing:** No

@@ -20,6 +20,6 @@ Globetrotter Trivia is a fun trivia game about the cities of USA.
 * **ID:** amzn1.echo-sdk-ams.app.ad26fcbd-7f01-4833-b31e-282a79c02127
 * **ASIN:** B01D4PVFXS
 * **Author:** Udaan Technologies
-* **Release Date:** March 18, 2016 @ 05:27:02
+* **Release Date:** March 18, 2016 @ 06:27:02
 * **Privacy Policy:** http://udaantech.com/privacy/
 * **In-App Purchasing:** No

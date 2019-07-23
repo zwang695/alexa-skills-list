@@ -22,5 +22,5 @@ Sources: history.com, tesla universe.com, and pubs.rsna.org
 * **ID:** amzn1.ask.skill.c9ca8f77-55ac-4989-984a-d4716e2c825a
 * **ASIN:** B01N53XND4
 * **Author:** Derek Afriyie
-* **Release Date:** December 3, 2016 @ 00:05:38
+* **Release Date:** December 3, 2016 @ 01:05:38
 * **In-App Purchasing:** No

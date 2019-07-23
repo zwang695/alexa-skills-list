@@ -20,5 +20,5 @@ Which came first, the chicken or the egg? We don't know, but we know more about 
 * **ID:** amzn1.ask.skill.6e6e1cc4-2504-4243-b26a-d130ee46d5f0
 * **ASIN:** B01L4VMIJY
 * **Author:** Albert Brown
-* **Release Date:** August 29, 2016 @ 08:02:32
+* **Release Date:** August 29, 2016 @ 09:02:32
 * **In-App Purchasing:** No

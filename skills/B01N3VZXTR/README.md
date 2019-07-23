@@ -20,5 +20,5 @@ The Sunburst Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.e1588724-0cf7-475c-ac75-373b74ddfdc0
 * **ASIN:** B01N3VZXTR
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:44:28
+* **Release Date:** November 5, 2016 @ 11:44:28
 * **In-App Purchasing:** No

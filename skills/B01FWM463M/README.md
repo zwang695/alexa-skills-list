@@ -20,5 +20,5 @@ Guys, what if you could win a million dollars by providing some useless trivia f
 * **ID:** amzn1.echo-sdk-ams.app.c9f553df-3dd3-4877-b042-b63198b09376
 * **ASIN:** B01FWM463M
 * **Author:** Tiny Starship
-* **Release Date:** May 21, 2016 @ 01:38:30
+* **Release Date:** May 21, 2016 @ 02:38:30
 * **In-App Purchasing:** No

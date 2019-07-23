@@ -20,5 +20,5 @@ This skill says yes when you start it. Sometimes you just need to hear yes.
 * **ID:** amzn1.ask.skill.4ebc31aa-b9ed-41cf-a815-930d8994cf31
 * **ASIN:** B01M2D3AUK
 * **Author:** Alex W
-* **Release Date:** November 9, 2016 @ 00:45:41
+* **Release Date:** November 9, 2016 @ 01:45:41
 * **In-App Purchasing:** No

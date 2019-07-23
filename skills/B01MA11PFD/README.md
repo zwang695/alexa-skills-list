@@ -24,5 +24,5 @@ reweather is the reverse of the typical weather app. you say the desired tempera
 * **ID:** amzn1.ask.skill.0d1a3143-8ed5-43ba-9fbe-f387f7a9d10d
 * **ASIN:** B01MA11PFD
 * **Author:** Telesherpa
-* **Release Date:** October 27, 2016 @ 02:46:04
+* **Release Date:** October 27, 2016 @ 03:46:04
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill helps you learn some bird facts. Intended for all general audiences t
 * **ID:** amzn1.ask.skill.d62815ec-2fa8-42b4-9ac4-a3ec3a81ec28
 * **ASIN:** B01L9UK4NM
 * **Author:** Philip Tran Ba Vo
-* **Release Date:** September 1, 2016 @ 02:03:32
+* **Release Date:** September 1, 2016 @ 03:03:32
 * **In-App Purchasing:** No

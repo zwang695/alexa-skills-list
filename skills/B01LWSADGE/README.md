@@ -45,5 +45,5 @@ For more information visit us at http://beastmodeonline.com
 * **ID:** amzn1.echo-sdk-ams.app.c7566f23-cba1-49e8-b423-fac8c7bb2665
 * **ASIN:** B01LWSADGE
 * **Author:** Amazon
-* **Release Date:** November 28, 2016 @ 11:10:27
+* **Release Date:** November 28, 2016 @ 12:10:27
 * **In-App Purchasing:** No

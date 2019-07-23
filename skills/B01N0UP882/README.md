@@ -20,5 +20,5 @@ Countdown until Trump is out of office, not endorsed by or affiliated with Donal
 * **ID:** amzn1.ask.skill.683c24d1-1792-42a3-8703-2c200fb4e8f1
 * **ASIN:** B01N0UP882
 * **Author:** Andrew Schmid
-* **Release Date:** December 29, 2016 @ 01:19:00
+* **Release Date:** December 29, 2016 @ 02:19:00
 * **In-App Purchasing:** No

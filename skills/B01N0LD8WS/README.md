@@ -20,5 +20,5 @@ Help care for Dazzle, Alexa's pet dog! Keep her happy by feeding her, talking he
 * **ID:** amzn1.ask.skill.1bac5117-87cd-464b-870d-43e12754990b
 * **ASIN:** B01N0LD8WS
 * **Author:** Ryan Pfister
-* **Release Date:** December 17, 2016 @ 05:49:24
+* **Release Date:** December 17, 2016 @ 06:49:24
 * **In-App Purchasing:** No

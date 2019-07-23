@@ -20,5 +20,5 @@ This skill allow users to get latest tweets and blog posts from reekoh. It also 
 * **ID:** amzn1.ask.skill.8e1b0cfe-6a2b-413a-b60a-e30d3acf4214
 * **ASIN:** B01LZNMS66
 * **Author:** Reekoh Inc.
-* **Release Date:** November 21, 2016 @ 23:36:41
+* **Release Date:** November 22, 2016 @ 00:36:41
 * **In-App Purchasing:** No

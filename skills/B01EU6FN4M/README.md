@@ -20,5 +20,5 @@ We all want to work out, and we all want it to be fast. This simple skill will m
 * **ID:** amzn1.echo-sdk-ams.app.01b4f980-d02a-499d-a907-6596c7c76921
 * **ASIN:** B01EU6FN4M
 * **Author:** bryant schuck
-* **Release Date:** May 4, 2016 @ 10:38:30
+* **Release Date:** May 4, 2016 @ 11:38:30
 * **In-App Purchasing:** No

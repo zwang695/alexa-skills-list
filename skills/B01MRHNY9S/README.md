@@ -20,5 +20,5 @@ This skill gives a random fact about turtles.
 * **ID:** amzn1.ask.skill.ade60f42-b661-499c-83ff-316eedbceda7
 * **ASIN:** B01MRHNY9S
 * **Author:** Kevin Lim
-* **Release Date:** November 10, 2016 @ 01:12:38
+* **Release Date:** November 10, 2016 @ 02:12:38
 * **In-App Purchasing:** No

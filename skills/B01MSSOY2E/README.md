@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.baa57fe8-6914-44fd-8064-a902dd9dcfdd
 * **ASIN:** B01MSSOY2E
 * **Author:** Franz Heinfling
-* **Release Date:** December 2, 2016 @ 07:05:41
+* **Release Date:** December 2, 2016 @ 08:05:41
 * **In-App Purchasing:** No

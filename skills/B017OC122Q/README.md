@@ -24,5 +24,5 @@ Play a game now, and see if you can beat the dealer.
 * **ID:** amzn1.echo-sdk-ams.app.0a5ac48c-a7ff-4e30-a63f-f6392dba7abc
 * **ASIN:** B017OC122Q
 * **Author:** Vurble
-* **Release Date:** November 6, 2015 @ 14:20:59
+* **Release Date:** November 6, 2015 @ 15:20:59
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ This skill has ubiquitous 400 words to help you learn them in more fun way a qui
 * **ID:** amzn1.ask.skill.f9136de4-87d4-419b-a047-473b9559e982
 * **ASIN:** B01M0N2MYO
 * **Author:** rpslive
-* **Release Date:** October 5, 2016 @ 00:42:40
+* **Release Date:** October 5, 2016 @ 01:42:40
 * **In-App Purchasing:** No

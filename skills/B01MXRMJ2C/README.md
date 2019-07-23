@@ -16,5 +16,5 @@ Harness the power of science with this fart detective skill. No longer will anon
 * **ID:** amzn1.ask.skill.ed8732cc-2d1f-4cd8-b04d-c5a98af8384c
 * **ASIN:** B01MXRMJ2C
 * **Author:** Chris Rebel
-* **Release Date:** November 30, 2016 @ 06:05:05
+* **Release Date:** November 30, 2016 @ 07:05:05
 * **In-App Purchasing:** No

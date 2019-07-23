@@ -18,5 +18,5 @@ Icon made by Roundicons from www.flaticon.com
 * **ID:** amzn1.ask.skill.5f8559aa-9af7-45be-8283-6d4a2589228f
 * **ASIN:** B01N8S6F2I
 * **Author:** Adam Socik
-* **Release Date:** November 17, 2016 @ 00:35:55
+* **Release Date:** November 17, 2016 @ 01:35:55
 * **In-App Purchasing:** No

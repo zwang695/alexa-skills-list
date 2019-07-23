@@ -25,5 +25,5 @@ Alex, Start Confucius quotes
 * **ID:** amzn1.ask.skill.694303b1-4cad-4ac6-a65f-fa732dd024f5
 * **ASIN:** B01L2SVU6Q
 * **Author:** d.clin.design
-* **Release Date:** August 29, 2016 @ 02:03:02
+* **Release Date:** August 29, 2016 @ 03:03:02
 * **In-App Purchasing:** No

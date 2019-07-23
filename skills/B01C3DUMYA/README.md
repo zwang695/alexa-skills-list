@@ -30,5 +30,5 @@ Note: that being said, we're not perfect! If Alexa starts her response with "A q
 * **ID:** amzn1.echo-sdk-ams.app.634fa4bb-d862-4f55-8667-42c098c7239f
 * **ASIN:** B01C3DUMYA
 * **Author:** Majel Tech
-* **Release Date:** February 22, 2016 @ 15:13:33
+* **Release Date:** February 22, 2016 @ 16:13:33
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Once you enable the skill, say "Alexa, ask the TDLG for legal advice" to hear a 
 * **ID:** amzn1.ask.skill.1c489dd1-5a4c-4ce3-a354-cb5b8cfa4e0e
 * **ASIN:** B01MZZUETN
 * **Author:** Rothmania
-* **Release Date:** December 1, 2016 @ 09:35:34
+* **Release Date:** December 1, 2016 @ 10:35:34
 * **In-App Purchasing:** No

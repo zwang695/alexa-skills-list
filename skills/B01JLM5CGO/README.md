@@ -20,5 +20,5 @@ Daily tips to eat smart. Healthy ways to eat smart. Stay healthy and fit by foll
 * **ID:** amzn1.ask.skill.7aaa9cca-302c-4392-a474-de9f521baac5
 * **ASIN:** B01JLM5CGO
 * **Author:** juke
-* **Release Date:** August 4, 2016 @ 04:41:37
+* **Release Date:** August 4, 2016 @ 05:41:37
 * **In-App Purchasing:** No

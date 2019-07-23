@@ -22,5 +22,5 @@ On your way to your local hackerspace? Check if it's open by using this skill. D
 * **ID:** amzn1.ask.skill.f1ec4878-8e2f-4b7b-a9fb-3303467470f0
 * **ASIN:** B01LZJXY09
 * **Author:** o9k
-* **Release Date:** October 3, 2016 @ 05:11:53
+* **Release Date:** October 3, 2016 @ 06:11:53
 * **In-App Purchasing:** No

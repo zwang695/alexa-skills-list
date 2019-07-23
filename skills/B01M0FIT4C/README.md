@@ -36,5 +36,5 @@ Get your unique ID for to help us debug by asking Word Juggler "Who Am I"
 * **ID:** amzn1.ask.skill.0fcabd62-b4b3-479c-a9a7-561d098999fc
 * **ASIN:** B01M0FIT4C
 * **Author:** deegles.co
-* **Release Date:** October 25, 2016 @ 01:49:05
+* **Release Date:** October 25, 2016 @ 02:49:05
 * **In-App Purchasing:** No

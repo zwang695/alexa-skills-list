@@ -23,5 +23,5 @@ How to use:
 * **ID:** amzn1.ask.skill.f6018917-8131-466c-bb4e-a5caa3818715
 * **ASIN:** B01M0IF8BZ
 * **Author:** Plug and Play
-* **Release Date:** September 22, 2016 @ 06:42:27
+* **Release Date:** September 22, 2016 @ 07:42:27
 * **In-App Purchasing:** No

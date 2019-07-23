@@ -24,5 +24,5 @@ You can add or remove ingredients.  Say 'no' to get the next recipe and say 'yes
 * **ID:** amzn1.ask.skill.d8a7eb83-32df-4f4f-b33e-f2eaf70ef9f8
 * **ASIN:** B01N1TVIMU
 * **Author:** vc.wong
-* **Release Date:** January 2, 2017 @ 23:19:32
+* **Release Date:** January 3, 2017 @ 00:19:32
 * **In-App Purchasing:** No

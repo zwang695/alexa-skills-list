@@ -20,5 +20,5 @@ Coffee Local is a guide to the 50 best coffee shops in America; regions are midw
 * **ID:** amzn1.echo-sdk-ams.app.10a24379-1ad4-40dd-812b-71c55f19fafa
 * **ASIN:** B01FY6MQDI
 * **Author:** Robert Hellestrae
-* **Release Date:** May 27, 2016 @ 02:38:36
+* **Release Date:** May 27, 2016 @ 03:38:36
 * **In-App Purchasing:** No

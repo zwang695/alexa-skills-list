@@ -20,5 +20,5 @@ Ever wanted to know what your state sales tax is? Well, you have come to the rig
 * **ID:** amzn1.echo-sdk-ams.app.915f4744-1ca4-4599-8385-d91b8c29103e
 * **ASIN:** B01F2TPJQI
 * **Author:** Drassiner
-* **Release Date:** May 5, 2016 @ 08:08:30
+* **Release Date:** May 5, 2016 @ 09:08:30
 * **In-App Purchasing:** No

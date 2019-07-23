@@ -22,6 +22,6 @@ DISCLAIMER: This tool is meant to educate users on how to improve their overall 
 * **ID:** amzn1.echo-sdk-ams.app.5f2edd06-6969-483d-9f7d-fdb04ef14ddd
 * **ASIN:** B01FYRBTTY
 * **Author:** Makarand Pande
-* **Release Date:** June 9, 2016 @ 05:39:37
+* **Release Date:** June 9, 2016 @ 06:39:37
 * **Privacy Policy:** http://makpande.github.io/privacypolicy/
 * **In-App Purchasing:** No

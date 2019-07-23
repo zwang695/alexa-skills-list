@@ -20,5 +20,5 @@ The Cranmore Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.01a4bcd2-5186-45c4-a2cf-79a4bb2dea35
 * **ASIN:** B01MFBUQZP
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:47:17
+* **Release Date:** October 26, 2016 @ 02:47:17
 * **In-App Purchasing:** No

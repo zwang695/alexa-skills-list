@@ -20,5 +20,5 @@ The Montana Snowbowl Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.9f65b8c3-6f38-4c4c-a15b-cf15cbfb0116
 * **ASIN:** B01M26UP9J
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:45:34
+* **Release Date:** October 21, 2016 @ 15:45:34
 * **In-App Purchasing:** No

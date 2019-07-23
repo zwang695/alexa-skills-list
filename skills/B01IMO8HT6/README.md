@@ -52,5 +52,5 @@ Some calculations can have many decimal places, you can always say 'repeat' if y
 * **ID:** amzn1.echo-sdk-ams.app.af8ef7ad-6126-4312-b078-b968952086af
 * **ASIN:** B01IMO8HT6
 * **Author:** Don Holmberg
-* **Release Date:** August 3, 2016 @ 04:41:40
+* **Release Date:** August 3, 2016 @ 05:41:40
 * **In-App Purchasing:** No

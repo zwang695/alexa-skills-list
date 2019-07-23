@@ -20,5 +20,5 @@ Are you interested in Emily Dickinson poems? Rely on Go Emily for all of Emily D
 * **ID:** amzn1.ask.skill.a9ec82e9-10f7-49ee-944f-7ce1a08e8e1e
 * **ASIN:** B01LX3SF9I
 * **Author:** Appbly.com
-* **Release Date:** October 8, 2016 @ 03:11:33
+* **Release Date:** October 8, 2016 @ 04:11:33
 * **In-App Purchasing:** No

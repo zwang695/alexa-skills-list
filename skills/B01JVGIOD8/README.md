@@ -24,5 +24,5 @@ Imagination at Work. - General Electric
 * **ID:** amzn1.ask.skill.fd7d113c-8159-41b3-b1d1-c2af7797ce14
 * **ASIN:** B01JVGIOD8
 * **Author:** Impekable
-* **Release Date:** August 11, 2016 @ 02:07:30
+* **Release Date:** August 11, 2016 @ 03:07:30
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ Ophthalmologists looking for a little help will find that the Ophthalmic Assista
 * **ID:** amzn1.ask.skill.6c876287-31ce-4d07-99a5-77793203184c
 * **ASIN:** B01MQSJQED
 * **Author:** Simnova
-* **Release Date:** December 6, 2016 @ 01:36:13
+* **Release Date:** December 6, 2016 @ 02:36:13
 * **In-App Purchasing:** No

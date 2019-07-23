@@ -26,5 +26,5 @@ Cancel: cancels the game
 * **ID:** amzn1.ask.skill.c99fd69f-40db-4d88-ad96-46c5f8fed085
 * **ASIN:** B01M69DLPA
 * **Author:** Rajesh Agrawal
-* **Release Date:** October 29, 2016 @ 12:12:50
+* **Release Date:** October 29, 2016 @ 13:12:50
 * **In-App Purchasing:** No

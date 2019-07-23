@@ -20,5 +20,5 @@ Provides gift ideas for entertainment
 * **ID:** amzn1.ask.skill.e0e591e9-a820-4d3d-a26e-9dbc926853cb
 * **ASIN:** B01N1WW4TN
 * **Author:** Brian Traub
-* **Release Date:** December 31, 2016 @ 04:18:52
+* **Release Date:** December 31, 2016 @ 05:18:52
 * **In-App Purchasing:** No

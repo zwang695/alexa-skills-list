@@ -28,5 +28,5 @@ All content has been vetted, but this skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.532173dc-9846-49fd-965a-bc082b68cc22
 * **ASIN:** B01N6D7N6L
 * **Author:** Noah's Arc Development
-* **Release Date:** December 14, 2016 @ 02:20:00
+* **Release Date:** December 14, 2016 @ 03:20:00
 * **In-App Purchasing:** No

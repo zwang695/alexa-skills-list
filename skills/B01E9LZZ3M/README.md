@@ -20,5 +20,5 @@ Wine Facts contains countless fun, obscure, informative and intriguing facts abo
 * **ID:** amzn1.echo-sdk-ams.app.987a6912-e8c3-4f94-8a29-0daa76397a53
 * **ASIN:** B01E9LZZ3M
 * **Author:** Glenn Kline
-* **Release Date:** April 19, 2016 @ 09:32:35
+* **Release Date:** April 19, 2016 @ 10:32:35
 * **In-App Purchasing:** No

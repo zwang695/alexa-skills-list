@@ -20,5 +20,5 @@ This app provides basic facts about web development. With it, you can learn some
 * **ID:** amzn1.ask.skill.b4b4d733-f14c-4b2c-9b6c-6ae1cd7965da
 * **ASIN:** B01N2S5RSZ
 * **Author:** Sean Cogan
-* **Release Date:** December 13, 2016 @ 01:19:43
+* **Release Date:** December 13, 2016 @ 02:19:43
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Share the Facts allows you, the citizen, to ask the top fact checking journalist
 * **ID:** amzn1.ask.skill.2a48f922-0f76-44da-b04a-861475fcdecd
 * **ASIN:** B01M0WO624
 * **Author:** Share the Facts
-* **Release Date:** October 19, 2016 @ 01:44:07
+* **Release Date:** October 19, 2016 @ 02:44:07
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask Alexa what the 2016 Swimming Trial Standards are for individual events, such
 * **ID:** amzn1.echo-sdk-ams.app.c5144150-3ec6-462a-928a-cd3cd36dd25f
 * **ASIN:** B01HH0G8I8
 * **Author:** Ted Bradley
-* **Release Date:** June 27, 2016 @ 05:15:56
+* **Release Date:** June 27, 2016 @ 06:15:56
 * **In-App Purchasing:** No

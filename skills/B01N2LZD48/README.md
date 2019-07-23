@@ -20,5 +20,5 @@ The closer the Clock is set to midnight, the closer scientists believe the world
 * **ID:** amzn1.ask.skill.8d460142-372b-4b3d-8d9c-f68a95cde00f
 * **ASIN:** B01N2LZD48
 * **Author:** Sids92
-* **Release Date:** November 25, 2016 @ 08:35:43
+* **Release Date:** November 25, 2016 @ 09:35:43
 * **In-App Purchasing:** No

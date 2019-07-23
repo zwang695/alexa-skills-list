@@ -20,5 +20,5 @@ Provides facts about the state of Connecticut which is a small state in the east
 * **ID:** amzn1.ask.skill.d9f28376-99a8-42e5-bf9b-262e55b60c16
 * **ASIN:** B01JKX1F9C
 * **Author:** Travelers
-* **Release Date:** August 4, 2016 @ 05:41:42
+* **Release Date:** August 4, 2016 @ 06:41:42
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Computer quiz generates 5 question quiz based on computer science knowledge. At 
 * **ID:** amzn1.ask.skill.e14cb657-e129-407b-b224-20fe5c33e34c
 * **ASIN:** B01LC0U5CO
 * **Author:** Andrey Gubenko
-* **Release Date:** September 3, 2016 @ 03:03:43
+* **Release Date:** September 3, 2016 @ 04:03:43
 * **In-App Purchasing:** No

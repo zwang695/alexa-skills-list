@@ -20,5 +20,5 @@ Get a random workout.  Ask Alexa what workout to try next and get surprised by t
 * **ID:** amzn1.ask.skill.6fd22d86-fd6a-4e13-b5c4-8c96066a5335
 * **ASIN:** B01MSJJDYT
 * **Author:** Joby Joseph
-* **Release Date:** November 13, 2016 @ 07:43:11
+* **Release Date:** November 13, 2016 @ 08:43:11
 * **In-App Purchasing:** No

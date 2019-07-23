@@ -20,5 +20,5 @@ Sick of reading the Avalon script yourself? Let Alexa do it for you. Simply star
 * **ID:** amzn1.ask.skill.5659f276-d9f9-4600-a1a5-29ff0d001c36
 * **ASIN:** B01N7DLCEK
 * **Author:** LostPhoenix
-* **Release Date:** December 5, 2016 @ 05:05:30
+* **Release Date:** December 5, 2016 @ 06:05:30
 * **In-App Purchasing:** No

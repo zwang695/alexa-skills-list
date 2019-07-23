@@ -20,7 +20,7 @@ Whether you didn't make it to Mass this week, or you just want time for some spi
 * **ID:** amzn1.echo-sdk-ams.app.aad1bce8-39fe-44b9-a86b-6e8266c7703b
 * **ASIN:** B01IOV0C0E
 * **Author:** Lucin Digital LLC
-* **Release Date:** July 22, 2016 @ 09:56:41
+* **Release Date:** July 22, 2016 @ 10:56:41
 * **Privacy Policy:** http://lucindigital.com/privacy-policy.html
 * **Terms of Use:** http://lucindigital.com/terms-of-service.html
 * **In-App Purchasing:** No

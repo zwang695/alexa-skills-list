@@ -20,5 +20,5 @@ Learn facts about Sherlock Holmes
 * **ID:** amzn1.ask.skill.20b6fea3-de46-4e91-91b8-8227259346cc
 * **ASIN:** B01LZU84EV
 * **Author:** THE SABLES
-* **Release Date:** September 19, 2016 @ 03:44:07
+* **Release Date:** September 19, 2016 @ 04:44:07
 * **In-App Purchasing:** No

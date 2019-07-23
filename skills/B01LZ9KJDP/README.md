@@ -20,5 +20,5 @@ Unofficial DnD 5th edition decision tree to help choose the race for your charac
 * **ID:** amzn1.ask.skill.cc66ceb6-990e-492c-94b3-2c3b017a28c1
 * **ASIN:** B01LZ9KJDP
 * **Author:** vsmalladi
-* **Release Date:** October 7, 2016 @ 07:11:50
+* **Release Date:** October 7, 2016 @ 08:11:50
 * **In-App Purchasing:** No

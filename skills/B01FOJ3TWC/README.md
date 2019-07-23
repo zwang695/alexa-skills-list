@@ -20,5 +20,5 @@ Test your Bible knowledge! Ask Alexa to play Bible Trivia and you will get 5 que
 * **ID:** amzn1.echo-sdk-ams.app.abb37de1-b612-42dd-8ae2-719474d0d375
 * **ASIN:** B01FOJ3TWC
 * **Author:** London Technology Services 
-* **Release Date:** May 21, 2016 @ 03:08:42
+* **Release Date:** May 21, 2016 @ 04:08:42
 * **In-App Purchasing:** No

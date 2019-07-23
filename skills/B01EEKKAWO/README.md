@@ -20,5 +20,5 @@ Have chickens in your yard or on your dinner plate? If you've ever wanted to kno
 * **ID:** amzn1.echo-sdk-ams.app.cd514819-e235-40de-bd04-a28f45d6fcb4
 * **ASIN:** B01EEKKAWO
 * **Author:** Bryan
-* **Release Date:** April 22, 2016 @ 10:08:28
+* **Release Date:** April 22, 2016 @ 11:08:28
 * **In-App Purchasing:** No

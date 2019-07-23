@@ -20,5 +20,5 @@ Facts about the actor Brad Pitt. Included in this skill are facts about Brad Pit
 * **ID:** amzn1.ask.skill.0888ec41-4e2e-482f-a365-694d6d79f0b3
 * **ASIN:** B01LVW904I
 * **Author:** ericCStephens
-* **Release Date:** September 11, 2016 @ 03:43:05
+* **Release Date:** September 11, 2016 @ 04:43:05
 * **In-App Purchasing:** No

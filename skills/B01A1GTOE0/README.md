@@ -18,7 +18,7 @@ This is a simple skill which allows the user to query the status of the New York
 * **ID:** amzn1.echo-sdk-ams.app.feb967ee-1f82-43fb-9b17-0e49f15c80fe
 * **ASIN:** B01A1GTOE0
 * **Author:** James Vautin
-* **Release Date:** December 31, 2015 @ 15:57:00
+* **Release Date:** December 31, 2015 @ 16:57:00
 * **Privacy Policy:** https://raw.githubusercontent.com/maxx/alexa-nyc-mta/master/privacy_policy.md
 * **Terms of Use:** https://raw.githubusercontent.com/maxx/alexa-nyc-mta/master/terms_of_service.txt
 * **In-App Purchasing:** No

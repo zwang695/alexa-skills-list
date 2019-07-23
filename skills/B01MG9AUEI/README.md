@@ -20,5 +20,5 @@ The Montage Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.c117d65e-b56c-4653-8781-67d13ac64c78
 * **ASIN:** B01MG9AUEI
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:16:46
+* **Release Date:** November 4, 2016 @ 09:16:46
 * **In-App Purchasing:** No

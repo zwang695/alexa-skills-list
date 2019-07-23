@@ -20,5 +20,5 @@ Be insulted in the Shakespearean style. Ask the Bard for an insult, and a random
 * **ID:** amzn1.ask.skill.1fb65385-a28f-4947-9a64-6dfc5e00f556
 * **ASIN:** B01NBQH4MM
 * **Author:** seidel
-* **Release Date:** January 3, 2017 @ 08:23:54
+* **Release Date:** January 3, 2017 @ 09:23:54
 * **In-App Purchasing:** No

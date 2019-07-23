@@ -20,5 +20,5 @@ A flash card game of the US capitals. There are no hardware or account prerequis
 * **ID:** amzn1.ask.skill.8568e54c-3bab-479e-b751-d5289f99828c
 * **ASIN:** B01JDQ5FUQ
 * **Author:** Esther Jun Kim
-* **Release Date:** August 3, 2016 @ 04:11:32
+* **Release Date:** August 3, 2016 @ 05:11:32
 * **In-App Purchasing:** No

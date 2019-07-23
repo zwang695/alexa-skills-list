@@ -28,5 +28,5 @@ This skill offers the following features:
 * **ID:** amzn1.ask.skill.a37c0dee-8d07-423e-9ee1-85d954e1d0ac
 * **ASIN:** B01LXW91OP
 * **Author:** LMV
-* **Release Date:** September 22, 2016 @ 06:12:15
+* **Release Date:** September 22, 2016 @ 07:12:15
 * **In-App Purchasing:** No

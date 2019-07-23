@@ -20,5 +20,5 @@ Let your knowledge flourish with a trivia skill that is focused on increasing kn
 * **ID:** amzn1.ask.skill.11094c80-c32c-44a9-a313-a6039a1b70ae
 * **ASIN:** B01LXI6DSZ
 * **Author:** CyberCode Twins
-* **Release Date:** September 17, 2016 @ 01:12:06
+* **Release Date:** September 17, 2016 @ 02:12:06
 * **In-App Purchasing:** No

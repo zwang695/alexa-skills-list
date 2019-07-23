@@ -20,5 +20,5 @@ Trivia facts for Deadheads, fans of the greatest rock group of all time, The Gra
 * **ID:** amzn1.echo-sdk-ams.app.23ea40eb-00cd-498c-a993-9f05b6a39719
 * **ASIN:** B01FZWQLEG
 * **Author:** TLE Creations
-* **Release Date:** May 24, 2016 @ 03:38:34
+* **Release Date:** May 24, 2016 @ 04:38:34
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.c8a4ebd1-d095-4dfc-ac9a-4bc6607cc6ab
 * **ASIN:** B01MQNF7MI
 * **Author:** StephanGlaß
-* **Release Date:** November 25, 2016 @ 05:05:09
+* **Release Date:** November 25, 2016 @ 06:05:09
 * **In-App Purchasing:** No

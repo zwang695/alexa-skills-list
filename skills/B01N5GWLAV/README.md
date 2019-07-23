@@ -20,5 +20,5 @@ This is a basic quiz of the Walking Dead: TV Show on AMC. It contains 15 questio
 * **ID:** amzn1.ask.skill.69506b6a-563c-496a-8bc5-c5ad7438f455
 * **ASIN:** B01N5GWLAV
 * **Author:** RedTec Media Inc.
-* **Release Date:** December 21, 2016 @ 08:19:32
+* **Release Date:** December 21, 2016 @ 09:19:32
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ You can learn morse code!  Simply start the skill and you will be quizzed on fiv
 * **ID:** amzn1.ask.skill.fc3a4b53-0673-4302-9567-70106b0c7a17
 * **ASIN:** B01IZ1HWOM
 * **Author:** Lauren Milne
-* **Release Date:** July 29, 2016 @ 01:26:54
+* **Release Date:** July 29, 2016 @ 02:26:54
 * **In-App Purchasing:** No

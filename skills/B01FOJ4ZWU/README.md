@@ -20,5 +20,5 @@ Game Geek is a fun little skill based off the Space Geek template. It will build
 * **ID:** amzn1.echo-sdk-ams.app.89580cc5-b617-4db9-b180-0d141100eec4
 * **ASIN:** B01FOJ4ZWU
 * **Author:** Ethan Falck
-* **Release Date:** May 21, 2016 @ 02:38:34
+* **Release Date:** May 21, 2016 @ 03:38:34
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This app will tell you a bunch of random potato facts.  If you and you are bored
 * **ID:** amzn1.ask.skill.13278060-c9fc-4724-b81b-af865ac5eccc
 * **ASIN:** B01N7MDLND
 * **Author:** Tim C
-* **Release Date:** December 29, 2016 @ 03:49:16
+* **Release Date:** December 29, 2016 @ 04:49:16
 * **In-App Purchasing:** No

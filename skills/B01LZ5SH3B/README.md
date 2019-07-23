@@ -24,5 +24,5 @@ DISCLAIMER: This skill is inspired by classic fortune-telling toys and games and
 * **ID:** amzn1.ask.skill.0656cdbf-3f48-4fa6-8f25-49907a25220c
 * **ASIN:** B01LZ5SH3B
 * **Author:** Bugtar Press
-* **Release Date:** October 8, 2016 @ 01:41:55
+* **Release Date:** October 8, 2016 @ 02:41:55
 * **In-App Purchasing:** No

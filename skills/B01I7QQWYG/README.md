@@ -20,5 +20,5 @@ Lucky Number chooses your lucky number for you whenever you need it. Use it for 
 * **ID:** amzn1.echo-sdk-ams.app.3b4c78e2-2c18-4084-a016-742bd04c73e6
 * **ASIN:** B01I7QQWYG
 * **Author:** Orion Magneto
-* **Release Date:** July 12, 2016 @ 06:57:32
+* **Release Date:** July 12, 2016 @ 07:57:32
 * **In-App Purchasing:** No

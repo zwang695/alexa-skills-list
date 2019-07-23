@@ -20,5 +20,5 @@ This skill tells random facts about Portland, Oregon
 * **ID:** amzn1.ask.skill.b7e4f43c-2e66-46fa-b6a8-a587e211a8a6
 * **ASIN:** B01JDJE1XU
 * **Author:** NWOps
-* **Release Date:** August 3, 2016 @ 01:41:38
+* **Release Date:** August 3, 2016 @ 02:41:38
 * **In-App Purchasing:** No

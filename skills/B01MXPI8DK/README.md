@@ -20,5 +20,5 @@ To use the Merry Christmas skill, try saying...
 * **ID:** amzn1.ask.skill.cc3661a5-551d-4bb2-bd57-bab799856a51
 * **ASIN:** B01MXPI8DK
 * **Author:** Drew Firment
-* **Release Date:** December 6, 2016 @ 06:49:20
+* **Release Date:** December 6, 2016 @ 07:49:20
 * **In-App Purchasing:** No

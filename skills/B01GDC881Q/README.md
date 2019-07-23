@@ -24,5 +24,5 @@ Alexa, ask workout helper what workout is suitable when I am happy
 * **ID:** amzn1.echo-sdk-ams.app.36ad6f0b-7dea-4d11-a7bc-06ab833ce0b6
 * **ASIN:** B01GDC881Q
 * **Author:** Sofia Tania
-* **Release Date:** June 6, 2016 @ 02:38:36
+* **Release Date:** June 6, 2016 @ 03:38:36
 * **In-App Purchasing:** No

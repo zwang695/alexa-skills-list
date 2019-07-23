@@ -18,5 +18,5 @@ Simply say "Alexa, ask mars facts to tell me a fact" and Alexa will respond with
 * **ID:** amzn1.ask.skill.cbec0ae0-66e4-4ea0-9996-bfa5fdb12d30
 * **ASIN:** B01MREPXI6
 * **Author:** fofx
-* **Release Date:** November 5, 2016 @ 02:13:13
+* **Release Date:** November 5, 2016 @ 03:13:13
 * **In-App Purchasing:** No

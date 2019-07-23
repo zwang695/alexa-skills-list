@@ -20,5 +20,5 @@ Get tips for using promo products to create brand love for your organization or 
 * **ID:** amzn1.ask.skill.692f8f70-3000-4311-bea5-4b1d88892f58
 * **ASIN:** B01NH0HZVT
 * **Author:** ROBYN
-* **Release Date:** January 2, 2017 @ 23:20:02
+* **Release Date:** January 3, 2017 @ 00:20:02
 * **In-App Purchasing:** No

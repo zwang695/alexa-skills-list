@@ -20,5 +20,5 @@ Tirukkural is a classic Tamil sangam literature authored by Tiruvalluvar, dealin
 * **ID:** amzn1.ask.skill.13431a5b-85e7-49be-9267-086ee5c1d702
 * **ASIN:** B01M7NAFDW
 * **Author:** ERBABU
-* **Release Date:** October 26, 2016 @ 01:46:53
+* **Release Date:** October 26, 2016 @ 02:46:53
 * **In-App Purchasing:** No

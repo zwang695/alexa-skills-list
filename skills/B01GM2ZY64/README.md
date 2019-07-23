@@ -20,5 +20,5 @@ Provides a random fact about the Portland Timbers football club.
 * **ID:** amzn1.echo-sdk-ams.app.fc9bdddd-4335-4b13-a55a-c7c6e56f65f3
 * **ASIN:** B01GM2ZY64
 * **Author:** Brian's Brain, LLC
-* **Release Date:** June 7, 2016 @ 11:08:30
+* **Release Date:** June 7, 2016 @ 12:08:30
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A listing of triva about knitting
 * **ID:** amzn1.ask.skill.73b1aaf4-8553-45a6-8cae-90f905f435ac
 * **ASIN:** B01LYNKWUD
 * **Author:** Danco
-* **Release Date:** October 10, 2016 @ 05:41:51
+* **Release Date:** October 10, 2016 @ 06:41:51
 * **In-App Purchasing:** No

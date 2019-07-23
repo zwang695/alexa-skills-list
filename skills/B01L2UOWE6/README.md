@@ -20,7 +20,7 @@ If you are performing a card trick where you force the Three of Spades, then Ale
 * **ID:** amzn1.ask.skill.2c5dcd19-1b3a-4bd6-8a53-8a045259a3ed
 * **ASIN:** B01L2UOWE6
 * **Author:** Matt Billings
-* **Release Date:** October 3, 2016 @ 06:42:31
+* **Release Date:** October 3, 2016 @ 07:42:31
 * **Privacy Policy:** https://github.com/easement/GuessACard/blob/master/PRIVACY.txt
 * **Terms of Use:** https://github.com/easement/GuessACard/blob/master/TOS.md
 * **In-App Purchasing:** No

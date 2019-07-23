@@ -38,5 +38,5 @@ Can I publish Flash Cards?
 * **ID:** amzn1.ask.skill.507262f8-f9f8-4ae2-915e-6e3febce4b99
 * **ASIN:** B01LMPHG62
 * **Author:** Myers Design
-* **Release Date:** September 10, 2016 @ 09:12:25
+* **Release Date:** September 10, 2016 @ 10:12:25
 * **In-App Purchasing:** No

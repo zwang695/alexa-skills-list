@@ -22,5 +22,5 @@ Will be updated with more regularly.
 * **ID:** amzn1.ask.skill.9d777260-2d3e-4946-add9-268e577cd20c
 * **ASIN:** B01LM1HSCS
 * **Author:** kb
-* **Release Date:** September 6, 2016 @ 01:33:35
+* **Release Date:** September 6, 2016 @ 02:33:35
 * **In-App Purchasing:** No

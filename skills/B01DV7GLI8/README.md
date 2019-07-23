@@ -20,5 +20,5 @@ Use this skill to test your knowledge of basic chess knowledge, use "open chess 
 * **ID:** amzn1.echo-sdk-ams.app.edf2c999-421b-49a4-8787-58e6706a5c8c
 * **ASIN:** B01DV7GLI8
 * **Author:** antblessing
-* **Release Date:** April 18, 2016 @ 08:04:00
+* **Release Date:** April 18, 2016 @ 09:04:00
 * **In-App Purchasing:** No

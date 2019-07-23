@@ -22,5 +22,5 @@ United States Highest Points gives you information about the highest elevation p
 * **ID:** amzn1.ask.skill.2bc19080-62d5-4fe4-b3fc-cdafb61d9009
 * **ASIN:** B01M1JKUJ5
 * **Author:** Aishwarya Venkatesh
-* **Release Date:** October 14, 2016 @ 01:46:13
+* **Release Date:** October 14, 2016 @ 02:46:13
 * **In-App Purchasing:** No

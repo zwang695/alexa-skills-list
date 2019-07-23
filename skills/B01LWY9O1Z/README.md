@@ -18,5 +18,5 @@ The purpose of the skill is to teach general facts to the user about guitar.
 * **ID:** amzn1.ask.skill.f0a0a04a-4a9e-4436-ac9c-a0e8e5e79d21
 * **ASIN:** B01LWY9O1Z
 * **Author:** ckrona
-* **Release Date:** September 30, 2016 @ 02:12:49
+* **Release Date:** September 30, 2016 @ 03:12:49
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Test how well you know the art behind a culinary masterpiece; the burrito
 * **ID:** amzn1.ask.skill.04b4a322-006d-4460-ba89-13bd847899d4
 * **ASIN:** B01L9V92Q6
 * **Author:** Sonny Tosco
-* **Release Date:** September 6, 2016 @ 01:33:41
+* **Release Date:** September 6, 2016 @ 02:33:41
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Automobile Geek. tells the user random facts about automobiles on request. Facts
 * **ID:** amzn1.ask.skill.1e55bcf8-98b9-4695-8827-f35bda96cbac
 * **ASIN:** B01N4I4W4K
 * **Author:** Rishi Masand
-* **Release Date:** January 2, 2017 @ 03:19:01
+* **Release Date:** January 2, 2017 @ 04:19:01
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Are you interested in hearing a fun fact about beer? Ask beer geek to tell you a
 * **ID:** amzn1.echo-sdk-ams.app.f972372b-8525-450a-908b-6505cc391468
 * **ASIN:** B01DJI0RY8
 * **Author:** Allen Kramer
-* **Release Date:** April 5, 2016 @ 14:02:38
+* **Release Date:** April 5, 2016 @ 15:02:38
 * **In-App Purchasing:** No

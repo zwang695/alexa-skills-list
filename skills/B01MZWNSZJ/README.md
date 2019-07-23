@@ -40,7 +40,7 @@ For clearing the guest and host lists:
 * **ID:** amzn1.ask.skill.187be03d-6395-449d-bce7-bc20d8a646d1
 * **ASIN:** B01MZWNSZJ
 * **Author:** Jeffrey Sham
-* **Release Date:** November 25, 2016 @ 08:35:19
+* **Release Date:** November 25, 2016 @ 09:35:19
 * **Privacy Policy:** https://github.com/jeffreysham/alexa-bouncer-skill
 * **Terms of Use:** https://github.com/jeffreysham/alexa-bouncer-skill
 * **In-App Purchasing:** No

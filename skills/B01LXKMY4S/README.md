@@ -16,5 +16,5 @@ These facts about California will make you want to visit the state!  These are f
 * **ID:** amzn1.ask.skill.064614bd-a85d-4375-9491-0e9bb88b0fcc
 * **ASIN:** B01LXKMY4S
 * **Author:** Lynda Creighton
-* **Release Date:** September 21, 2016 @ 00:43:36
+* **Release Date:** September 21, 2016 @ 01:43:36
 * **In-App Purchasing:** No

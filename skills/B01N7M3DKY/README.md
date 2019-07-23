@@ -16,5 +16,5 @@ We will help you to find the perfect pet for you based on a few questions.
 * **ID:** amzn1.ask.skill.faa5195f-dbdc-46bc-b846-dabaaf28542f
 * **ASIN:** B01N7M3DKY
 * **Author:** Monika Wiest
-* **Release Date:** December 29, 2016 @ 23:49:36
+* **Release Date:** December 30, 2016 @ 00:49:36
 * **In-App Purchasing:** No

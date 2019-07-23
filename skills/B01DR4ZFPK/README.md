@@ -24,5 +24,5 @@ Content of CIS150 course, Introduction to Computing, Grand Valley State Universi
 * **ID:** amzn1.echo-sdk-ams.app.6c0a7537-cf83-452d-9261-680138995511
 * **ASIN:** B01DR4ZFPK
 * **Author:** smprof
-* **Release Date:** April 8, 2016 @ 16:32:32
+* **Release Date:** April 8, 2016 @ 17:32:32
 * **In-App Purchasing:** No

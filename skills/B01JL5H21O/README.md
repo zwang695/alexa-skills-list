@@ -20,5 +20,5 @@ This skill provides a fact related to African American history.
 * **ID:** amzn1.ask.skill.b01e7b23-64da-4343-9dd8-9115ea8e0a8e
 * **ASIN:** B01JL5H21O
 * **Author:** Darian Johnson
-* **Release Date:** August 5, 2016 @ 01:07:32
+* **Release Date:** August 5, 2016 @ 02:07:32
 * **In-App Purchasing:** No

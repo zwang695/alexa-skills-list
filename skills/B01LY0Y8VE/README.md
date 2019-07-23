@@ -20,5 +20,5 @@ The Ski Santa Fe Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.79deabb9-64ed-41c5-8b4a-9e05bebefd9a
 * **ASIN:** B01LY0Y8VE
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:43:06
+* **Release Date:** October 19, 2016 @ 11:43:06
 * **In-App Purchasing:** No

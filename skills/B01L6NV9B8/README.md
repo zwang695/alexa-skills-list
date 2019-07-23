@@ -27,7 +27,7 @@ Application Icon made by http://www.flaticon.com/authors/vectors-market
 * **ID:** amzn1.ask.skill.83c483e2-7fee-419a-b0ca-d78d9a53cd19
 * **ASIN:** B01L6NV9B8
 * **Author:** Asish Soudhamma
-* **Release Date:** September 3, 2016 @ 04:03:37
+* **Release Date:** September 3, 2016 @ 05:03:37
 * **Privacy Policy:** https://terms-612db.firebaseapp.com/babyshot/privacypolicy.html
 * **Terms of Use:** https://terms-612db.firebaseapp.com/babyshot/termsofuse.html
 * **In-App Purchasing:** No

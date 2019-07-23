@@ -20,5 +20,5 @@ A fan made trivia game for other Disney fans. This is a fun game to play with Al
 * **ID:** amzn1.echo-sdk-ams.app.8db2253d-be58-49d1-b761-d48baa5f5184
 * **ASIN:** B01HW0OO0C
 * **Author:** Tyler Lauretti
-* **Release Date:** July 7, 2016 @ 01:57:33
+* **Release Date:** July 7, 2016 @ 02:57:33
 * **In-App Purchasing:** No

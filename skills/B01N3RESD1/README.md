@@ -18,5 +18,5 @@ This skills responds with a random comic fact about super heroes or villians.
 * **ID:** amzn1.ask.skill.e1b808e2-ace4-4d2d-b717-4889183e6242
 * **ASIN:** B01N3RESD1
 * **Author:** zhaobe
-* **Release Date:** November 25, 2016 @ 04:08:54
+* **Release Date:** November 25, 2016 @ 05:08:54
 * **In-App Purchasing:** No

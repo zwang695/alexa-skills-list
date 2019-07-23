@@ -22,5 +22,5 @@ This skill surfaces a statement, strategy, truism or concept to help you overcom
 * **ID:** amzn1.echo-sdk-ams.app.87c65a4f-0435-4bee-95e1-de66efd11f5a
 * **ASIN:** B01I61U96Y
 * **Author:** HackerAgency Labs
-* **Release Date:** July 28, 2016 @ 10:56:50
+* **Release Date:** July 28, 2016 @ 11:56:50
 * **In-App Purchasing:** No

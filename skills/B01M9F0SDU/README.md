@@ -21,5 +21,5 @@ If you need a quickly char, just tell Alexa to use Random Letter to give you a r
 * **ID:** amzn1.ask.skill.766efc08-a21c-4209-8b42-883396e7017a
 * **ASIN:** B01M9F0SDU
 * **Author:** Javier Pita
-* **Release Date:** October 27, 2016 @ 02:45:21
+* **Release Date:** October 27, 2016 @ 03:45:21
 * **In-App Purchasing:** No

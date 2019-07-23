@@ -40,7 +40,7 @@ If you are pregnant you can ask:
 * **ID:** amzn1.echo-sdk-ams.app.80a73d88-c2ac-4e6a-9eaa-c7c480d211fd
 * **ASIN:** B01JK91WBW
 * **Author:** Everyday Health Inc
-* **Release Date:** September 30, 2016 @ 16:42:37
+* **Release Date:** September 30, 2016 @ 17:42:37
 * **Privacy Policy:** http://www.whattoexpect.com/privacy-policy
 * **Terms of Use:** http://www.whattoexpect.com/terms-of-use
 * **In-App Purchasing:** No

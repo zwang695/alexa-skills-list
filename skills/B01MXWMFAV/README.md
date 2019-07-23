@@ -18,5 +18,5 @@ Alexa will give out a random Swami Vivekananda Quote. More about Swami Vivekanan
 * **ID:** amzn1.ask.skill.7cc5121a-e28e-46d0-90bf-a6360943e2d3
 * **ASIN:** B01MXWMFAV
 * **Author:** Ankur
-* **Release Date:** December 10, 2016 @ 08:19:22
+* **Release Date:** December 10, 2016 @ 09:19:22
 * **In-App Purchasing:** No

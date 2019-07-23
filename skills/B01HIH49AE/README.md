@@ -27,5 +27,5 @@ I have fun learning interesting facts with Alexa about our government and it's h
 * **ID:** amzn1.echo-sdk-ams.app.ec7c178b-b1b7-43a4-b488-1c9cb3db2c46
 * **ASIN:** B01HIH49AE
 * **Author:** builditdan
-* **Release Date:** June 29, 2016 @ 09:27:44
+* **Release Date:** June 29, 2016 @ 10:27:44
 * **In-App Purchasing:** No

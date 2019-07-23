@@ -22,5 +22,5 @@ Download and Play Passover Trivia today.
 * **ID:** amzn1.ask.skill.4f218b69-12a9-4acb-a25f-2ef148a72b4e
 * **ASIN:** B01MT2R8JD
 * **Author:** DWILSYS
-* **Release Date:** December 26, 2016 @ 22:49:00
+* **Release Date:** December 26, 2016 @ 23:49:00
 * **In-App Purchasing:** No

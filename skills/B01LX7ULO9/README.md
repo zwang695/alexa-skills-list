@@ -20,5 +20,5 @@ This skill tells you ant jokes!
 * **ID:** amzn1.ask.skill.1d9665e6-cfa9-46ff-8c24-96ec00e238a8
 * **ASIN:** B01LX7ULO9
 * **Author:** jarrensj
-* **Release Date:** September 18, 2016 @ 03:11:35
+* **Release Date:** September 18, 2016 @ 04:11:35
 * **In-App Purchasing:** No

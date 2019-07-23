@@ -24,5 +24,5 @@ Fun and educational for all the family.
 * **ID:** amzn1.ask.skill.5bb6c047-90e2-45dd-b4ba-7f5ae1dd5d65
 * **ASIN:** B01MFFXUC3
 * **Author:** Ian Fletcher
-* **Release Date:** November 9, 2016 @ 03:13:02
+* **Release Date:** November 9, 2016 @ 04:13:02
 * **In-App Purchasing:** No

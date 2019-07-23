@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.85de7ea1-8084-40a7-9788-4d31e5f95b70
 * **ASIN:** B01MXNZD3D
 * **Author:** Michael Kleinhenz
-* **Release Date:** November 29, 2016 @ 03:36:31
+* **Release Date:** November 29, 2016 @ 04:36:31
 * **In-App Purchasing:** No

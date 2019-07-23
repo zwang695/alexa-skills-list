@@ -24,5 +24,5 @@ Also useful ahead of supermarket trips, Glad Leftovers can help you avoid buying
 * **ID:** amzn1.ask.skill.58f9543c-285f-47c7-b0b4-db4051e3b716
 * **ASIN:** B01MSK0GFN
 * **Author:** Glad AlexaApps
-* **Release Date:** December 1, 2016 @ 18:05:33
+* **Release Date:** December 1, 2016 @ 19:05:33
 * **In-App Purchasing:** No

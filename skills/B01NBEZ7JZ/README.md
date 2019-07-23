@@ -18,5 +18,5 @@ Gives some random facts about Albert Einstein
 * **ID:** amzn1.ask.skill.cca1aad3-56cf-4db0-bbbc-8b13455a9f91
 * **ASIN:** B01NBEZ7JZ
 * **Author:** Anonym
-* **Release Date:** December 1, 2016 @ 02:35:39
+* **Release Date:** December 1, 2016 @ 03:35:39
 * **In-App Purchasing:** No

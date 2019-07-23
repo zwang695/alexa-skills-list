@@ -20,5 +20,5 @@ This is a challenging trivia game that asks questions about different college ba
 * **ID:** amzn1.echo-sdk-ams.app.9be8bed4-7e49-455b-b3cc-f711cc89c781
 * **ASIN:** B01DJKKVLA
 * **Author:** Drawrz.com
-* **Release Date:** March 28, 2016 @ 14:34:34
+* **Release Date:** March 28, 2016 @ 15:34:34
 * **In-App Purchasing:** No

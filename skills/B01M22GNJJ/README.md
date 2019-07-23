@@ -20,7 +20,7 @@ Find bank institution atm's in New York State.  By County, City or Zip Code.  fo
 * **ID:** amzn1.ask.skill.452aca7c-f8d3-4ca0-a45e-37781caf0740
 * **ASIN:** B01M22GNJJ
 * **Author:** Digital Spring Apps
-* **Release Date:** October 22, 2016 @ 02:12:47
+* **Release Date:** October 22, 2016 @ 03:12:47
 * **Privacy Policy:** http://www.digitalspringapps.com/apps/mtprivacy
 * **Terms of Use:** http://www.digitalspringapps.com/apps/mtprivacy
 * **In-App Purchasing:** No

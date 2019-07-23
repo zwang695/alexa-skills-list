@@ -20,5 +20,5 @@ If you're reading this, congrats! You've ended up with the long description. Wai
 * **ID:** amzn1.ask.skill.b8f456a5-6e7a-4500-ad83-b5298c651456
 * **ASIN:** B01NA7LHTS
 * **Author:** unwired solutions
-* **Release Date:** November 21, 2016 @ 09:05:23
+* **Release Date:** November 21, 2016 @ 10:05:23
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill gives you some interesting health or nutrition info. It could be abou
 * **ID:** amzn1.ask.skill.ecb9e18a-8d8f-4313-b2e5-79ad1f24ddc0
 * **ASIN:** B01MRY1CT7
 * **Author:** FruitMobile
-* **Release Date:** December 17, 2016 @ 00:19:13
+* **Release Date:** December 17, 2016 @ 01:19:13
 * **In-App Purchasing:** No

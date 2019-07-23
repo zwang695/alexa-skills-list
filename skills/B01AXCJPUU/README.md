@@ -22,5 +22,5 @@ To learn more about DogeCoin, please visit http://dogecoin.com/
 * **ID:** amzn1.echo-sdk-ams.app.ab0a3bf4-22bb-45d3-9b4a-731ef98c9b63
 * **ASIN:** B01AXCJPUU
 * **Author:** Sterian Associates
-* **Release Date:** January 21, 2016 @ 19:35:39
+* **Release Date:** January 21, 2016 @ 20:35:39
 * **In-App Purchasing:** No

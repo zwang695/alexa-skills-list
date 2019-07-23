@@ -20,5 +20,5 @@ The message wall allows echo users to write anonymous messages to each other. It
 * **ID:** amzn1.ask.skill.d4795490-92ac-49c8-9c36-614d6e4ae441
 * **ASIN:** B01KSNZKUI
 * **Author:** Mandy Chan
-* **Release Date:** October 18, 2016 @ 05:12:08
+* **Release Date:** October 18, 2016 @ 06:12:08
 * **In-App Purchasing:** No

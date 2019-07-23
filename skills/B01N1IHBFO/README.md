@@ -22,5 +22,5 @@ Note: this skill is not sponsored or endorsed by Bellarmine College Preparatory.
 * **ID:** amzn1.ask.skill.b1da7508-f82c-448f-ba6a-ce150bf990a6
 * **ASIN:** B01N1IHBFO
 * **Author:** Fausto Ibarra
-* **Release Date:** December 16, 2016 @ 05:50:55
+* **Release Date:** December 16, 2016 @ 06:50:55
 * **In-App Purchasing:** No

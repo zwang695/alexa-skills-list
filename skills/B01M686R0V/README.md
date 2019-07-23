@@ -16,5 +16,5 @@ Answer several yes or no questions to hear a suggestion of what to eat for lunch
 * **ID:** amzn1.ask.skill.bcb75b99-0468-4cff-acb5-01f68acc3b35
 * **ASIN:** B01M686R0V
 * **Author:** Becky Andersen
-* **Release Date:** October 29, 2016 @ 09:42:26
+* **Release Date:** October 29, 2016 @ 10:42:26
 * **In-App Purchasing:** No

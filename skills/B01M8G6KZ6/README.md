@@ -37,5 +37,5 @@ This skill is not sponsored or endorsed by Pure Barre, LLC
 * **ID:** amzn1.ask.skill.0ccdce82-8bdf-470a-b3ab-8f9a8978175f
 * **ASIN:** B01M8G6KZ6
 * **Author:** Jacob Herrera
-* **Release Date:** October 19, 2016 @ 01:44:19
+* **Release Date:** October 19, 2016 @ 02:44:19
 * **In-App Purchasing:** No

@@ -26,5 +26,5 @@ Note, when giving rgb or hsl values, any values over one hundred need to be pron
 * **ID:** amzn1.echo-sdk-ams.app.e138b4ed-5171-414d-95a1-ca567ec7f2f1
 * **ASIN:** B01EUNCS52
 * **Author:** Chris Tieman
-* **Release Date:** July 7, 2016 @ 06:57:43
+* **Release Date:** July 7, 2016 @ 07:57:43
 * **In-App Purchasing:** No

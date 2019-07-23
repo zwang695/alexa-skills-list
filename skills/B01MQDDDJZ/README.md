@@ -20,5 +20,5 @@ The Bear Creek Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.a4ce74fb-a699-4bcb-af21-4e59fb4ce752
 * **ASIN:** B01MQDDDJZ
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:15:57
+* **Release Date:** November 4, 2016 @ 09:15:57
 * **In-App Purchasing:** No

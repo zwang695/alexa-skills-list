@@ -20,5 +20,5 @@ Expand your wood working knowledge.
 * **ID:** amzn1.ask.skill.4937d1f0-1ea5-41bf-8508-30af59e61744
 * **ASIN:** B01JDF1QQY
 * **Author:** StoneTomato
-* **Release Date:** August 8, 2016 @ 08:37:27
+* **Release Date:** August 8, 2016 @ 09:37:27
 * **In-App Purchasing:** No

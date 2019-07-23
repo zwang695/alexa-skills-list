@@ -21,5 +21,5 @@ Just ask for a tip and it will tell you a way how you can better with money mana
 * **ID:** amzn1.ask.skill.414324d8-e1f6-4390-a76a-d5765f7931ff
 * **ASIN:** B01ISQFNIQ
 * **Author:** Shivansh Singh
-* **Release Date:** July 25, 2016 @ 04:56:45
+* **Release Date:** July 25, 2016 @ 05:56:45
 * **In-App Purchasing:** No

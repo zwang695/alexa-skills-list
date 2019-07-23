@@ -22,5 +22,5 @@ Llama icon made by freepik (http://freepik.com) from http://flaticon.com, CC BY 
 * **ID:** amzn1.echo-sdk-ams.app.a8357239-e30c-4950-8b49-ef8e6ffe00a6
 * **ASIN:** B01GBSWHG4
 * **Author:** Alex Kuang
-* **Release Date:** May 31, 2016 @ 05:08:49
+* **Release Date:** May 31, 2016 @ 06:08:49
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Test your knowledge of the Masters tournament. See if you can recall past champi
 * **ID:** amzn1.echo-sdk-ams.app.fffe5f45-4424-4c01-851c-420159ac305e
 * **ASIN:** B01DOVQID4
 * **Author:** Jack Middlebrook
-* **Release Date:** April 4, 2016 @ 07:06:31
+* **Release Date:** April 4, 2016 @ 08:06:31
 * **In-App Purchasing:** No

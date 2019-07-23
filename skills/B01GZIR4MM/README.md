@@ -20,5 +20,5 @@ A historical tour guide to Silicon Valley by city. Tells you many historical fac
 * **ID:** amzn1.echo-sdk-ams.app.7a4464cc-5ab3-4927-8973-444ad116c4fc
 * **ASIN:** B01GZIR4MM
 * **Author:** Leo Development
-* **Release Date:** June 17, 2016 @ 02:15:39
+* **Release Date:** June 17, 2016 @ 03:15:39
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ My first Alexa Skill with a selection of geography facts.
 * **ID:** amzn1.ask.skill.10c02710-2ec2-450f-90fb-9eef78c26085
 * **ASIN:** B01N1WX5WN
 * **Author:** yuhaw-su
-* **Release Date:** December 29, 2016 @ 00:49:37
+* **Release Date:** December 29, 2016 @ 01:49:37
 * **In-App Purchasing:** No

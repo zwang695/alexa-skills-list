@@ -23,5 +23,5 @@ Alexa ask why quit for a cigarette
 * **ID:** amzn1.ask.skill.d0a57c5f-3f31-49b5-8e40-e27757d9867b
 * **ASIN:** B01M58YZDQ
 * **Author:** DDALEY Development
-* **Release Date:** October 19, 2016 @ 01:43:33
+* **Release Date:** October 19, 2016 @ 02:43:33
 * **In-App Purchasing:** No

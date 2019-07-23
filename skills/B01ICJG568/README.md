@@ -20,5 +20,5 @@ Alexa tells you health facts about Zika. Ideal for using before you travel to Br
 * **ID:** amzn1.echo-sdk-ams.app.648bb549-cd9d-41ab-9563-dc21d43be5b4
 * **ASIN:** B01ICJG568
 * **Author:** Office Grooves
-* **Release Date:** August 13, 2016 @ 04:07:25
+* **Release Date:** August 13, 2016 @ 05:07:25
 * **In-App Purchasing:** No

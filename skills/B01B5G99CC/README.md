@@ -27,7 +27,7 @@ Learn more about Echo ordering and all the newest ways to order Domino’s at ht
 * **ID:** amzn1.echo-sdk-ams.app.d9b83ae6-a16d-472d-a925-83c91fad878a
 * **ASIN:** B01B5G99CC
 * **Author:** Domino's Pizza, LLC
-* **Release Date:** January 27, 2016 @ 20:07:24
+* **Release Date:** January 27, 2016 @ 21:07:24
 * **Privacy Policy:** https://www.dominos.com/en/#/content/privacy/
 * **Terms of Use:** https://www.dominos.com/en/#/content/terms/
 * **Account Linking Domains:** dominos.com, cache.dominos.com, order.dominos.com

@@ -24,5 +24,5 @@ Disclaimer: There is no breath analyzer in your device, this is a joke skill.  P
 * **ID:** amzn1.ask.skill.d858d64d-1a68-4cb1-9b4d-7b3d2dd0c173
 * **ASIN:** B01MXDJ56F
 * **Author:** BrendanClement
-* **Release Date:** November 10, 2016 @ 01:12:56
+* **Release Date:** November 10, 2016 @ 02:12:56
 * **In-App Purchasing:** No

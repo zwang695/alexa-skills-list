@@ -24,5 +24,5 @@ A Raspberry Pi is required for this skill to be used. You can find a how-to tuto
 * **ID:** amzn1.echo-sdk-ams.app.f9b92bbd-5006-46f6-bb9a-0bff8d89480c
 * **ASIN:** B01IRA6R2E
 * **Author:** Mobilist
-* **Release Date:** September 11, 2016 @ 03:46:22
+* **Release Date:** September 11, 2016 @ 04:46:22
 * **In-App Purchasing:** No

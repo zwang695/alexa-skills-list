@@ -16,6 +16,6 @@ Skills that are “Optimized for Smart Home” allow you to control your smart d
 * **ID:** amzn1.ask.skill.f6d6c5e1-65db-4d08-ab8c-25c1fb38ca0e
 * **ASIN:** B01FGS66D0
 * **Author:** Universal Devices, Inc.
-* **Release Date:** June 27, 2016 @ 14:45:15
+* **Release Date:** June 27, 2016 @ 15:45:15
 * **Privacy Policy:** http://www.universal-devices.com/privacy/
 * **In-App Purchasing:** No

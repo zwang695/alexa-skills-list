@@ -16,5 +16,5 @@ This is an unofficial fan-made skill that returns a random quote from the hit Ne
 * **ID:** amzn1.ask.skill.3933363d-4e34-4f1c-9a38-6551a4cbb3a1
 * **ASIN:** B01N08E3KK
 * **Author:** Andre
-* **Release Date:** November 26, 2016 @ 08:05:14
+* **Release Date:** November 26, 2016 @ 09:05:14
 * **In-App Purchasing:** No

@@ -72,5 +72,5 @@ If you are switching between the features your score persists and doesn't get lo
 * **ID:** amzn1.echo-sdk-ams.app.c26b1c82-967e-4807-b1c2-e983e820edf1
 * **ASIN:** B01G4F0B4O
 * **Author:** Kay Lerch
-* **Release Date:** May 26, 2016 @ 06:08:35
+* **Release Date:** May 26, 2016 @ 07:08:35
 * **In-App Purchasing:** No

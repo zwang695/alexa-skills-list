@@ -23,5 +23,5 @@ This skill will repeat anything you say to Alexa.
 * **ID:** amzn1.echo-sdk-ams.app.8d344e62-4de5-4b8d-94f5-ec7737bc901d
 * **ASIN:** B01DJJ9STM
 * **Author:** Spraypaint
-* **Release Date:** March 31, 2016 @ 01:02:27
+* **Release Date:** March 31, 2016 @ 02:02:27
 * **In-App Purchasing:** No

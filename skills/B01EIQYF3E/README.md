@@ -37,7 +37,7 @@ Note: as with lighting products, in order to use Amazon Alexa with Wink-enabled 
 * **ID:** amzn1.ask.skill.013efdab-897c-4dff-9728-ac679242d818
 * **ASIN:** B01EIQYF3E
 * **Author:** Wink
-* **Release Date:** April 19, 2016 @ 17:46:31
+* **Release Date:** April 19, 2016 @ 18:46:31
 * **Privacy Policy:** http://www.wink.com/legal/
 * **Terms of Use:** http://www.wink.com/legal/
 * **Account Linking Domains:** api.wink.com

@@ -43,7 +43,7 @@ Alexa, ask Patrón What cocktail can I make with Patrón Silver?
 * **ID:** amzn1.echo-sdk-ams.app.bd8d923f-547f-4dba-b0aa-2404062553f8
 * **ASIN:** B01IMNBJ0Q
 * **Author:** Patrón
-* **Release Date:** July 18, 2016 @ 21:27:28
+* **Release Date:** July 18, 2016 @ 22:27:28
 * **Privacy Policy:** https://www.patrontequila.com/privacy-policy.html
 * **Terms of Use:** http://www.patrontequila.com/terms.html
 * **Account Linking Domains:** patrontequila.com

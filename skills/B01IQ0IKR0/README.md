@@ -20,5 +20,5 @@ Midas facts save your money
 * **ID:** amzn1.ask.skill.35f149ee-0215-4740-8da0-43e4e372727f
 * **ASIN:** B01IQ0IKR0
 * **Author:** William Hoover
-* **Release Date:** July 27, 2016 @ 08:56:41
+* **Release Date:** July 27, 2016 @ 09:56:41
 * **In-App Purchasing:** No

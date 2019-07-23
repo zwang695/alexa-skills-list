@@ -20,5 +20,5 @@ Science quiz, play quiz game with friends and family, answer questions and learn
 * **ID:** amzn1.ask.skill.86a02501-065a-4346-8c8f-89bdd7b6fccc
 * **ASIN:** B01MF610UR
 * **Author:** AbhiHan
-* **Release Date:** October 21, 2016 @ 02:13:14
+* **Release Date:** October 21, 2016 @ 03:13:14
 * **In-App Purchasing:** No

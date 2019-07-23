@@ -20,5 +20,5 @@ Interactive game to improve math skills by executing a kata to become a math jed
 * **ID:** amzn1.echo-sdk-ams.app.52d79118-779f-4144-806f-84dd6421b332
 * **ASIN:** B018UWJO10
 * **Author:** Rick Wargo
-* **Release Date:** December 2, 2015 @ 16:43:48
+* **Release Date:** December 2, 2015 @ 17:43:48
 * **In-App Purchasing:** No

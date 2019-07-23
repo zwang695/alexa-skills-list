@@ -20,5 +20,5 @@ My fact skills with generated code (made using the SpaceGeek template). Gives ra
 * **ID:** amzn1.ask.skill.dbe67f4a-eee6-44af-a703-5dd400709fcb
 * **ASIN:** B01N6LC4NE
 * **Author:** wangdawei
-* **Release Date:** December 29, 2016 @ 00:49:44
+* **Release Date:** December 29, 2016 @ 01:49:44
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ rolling a six-sided die
 * **ID:** amzn1.ask.skill.59179ab4-b4c9-4f41-bc58-59f87ae56aee
 * **ASIN:** B01MEFY3WU
 * **Author:** Christopher Tran
-* **Release Date:** October 25, 2016 @ 01:47:46
+* **Release Date:** October 25, 2016 @ 02:47:46
 * **In-App Purchasing:** No

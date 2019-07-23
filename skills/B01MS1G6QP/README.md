@@ -20,5 +20,5 @@ A small collection of facts about director Christopher Nolan.
 * **ID:** amzn1.ask.skill.faf0a4e7-06a5-4c4d-a5e1-377a88fc573c
 * **ASIN:** B01MS1G6QP
 * **Author:** Self-Employed
-* **Release Date:** December 28, 2016 @ 23:19:07
+* **Release Date:** December 29, 2016 @ 00:19:07
 * **In-App Purchasing:** No

@@ -30,5 +30,5 @@ Comments and suggestions are welcome. Please address email to info@weathersky.co
 * **ID:** amzn1.ask.skill.d3f5ae05-0dd6-46d8-bc5c-81f1477c42ae
 * **ASIN:** B01N0UQJ9Z
 * **Author:** zeronil
-* **Release Date:** December 27, 2016 @ 22:49:23
+* **Release Date:** December 27, 2016 @ 23:49:23
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ This is a customization of alexa123decision that lists different types of swimme
 * **ID:** amzn1.ask.skill.defb0db5-d110-417c-97ad-56519f3102f5
 * **ASIN:** B01LYYUZDI
 * **Author:** caowenhong
-* **Release Date:** October 4, 2016 @ 05:12:05
+* **Release Date:** October 4, 2016 @ 06:12:05
 * **In-App Purchasing:** No

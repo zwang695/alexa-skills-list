@@ -22,7 +22,7 @@ Each meditation begins and ends with three bell chimes to prepare you for the me
 * **ID:** amzn1.ask.skill.abd92245-b5be-4dab-8e19-7ed2ce06d0d2
 * **ASIN:** B01LZRKU19
 * **Author:** TOPBOTS
-* **Release Date:** September 22, 2016 @ 02:12:23
+* **Release Date:** September 22, 2016 @ 03:12:23
 * **Privacy Policy:** http://www.topbotagency.com/privacy
 * **Terms of Use:** http://www.topbotagency.com/tos
 * **In-App Purchasing:** No

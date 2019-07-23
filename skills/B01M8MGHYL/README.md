@@ -20,5 +20,5 @@ The Buffalo Ski Club Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.cb7a02b7-3ebf-43d5-a615-200650ecd372
 * **ASIN:** B01M8MGHYL
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:45:38
+* **Release Date:** October 26, 2016 @ 03:45:38
 * **In-App Purchasing:** No

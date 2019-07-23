@@ -20,5 +20,5 @@ Times for MARTA will tell you how soon the next train will arrive at different s
 * **ID:** amzn1.echo-sdk-ams.app.655fae42-075f-4425-827b-8999daeb188a
 * **ASIN:** B01DTV4QKQ
 * **Author:** Kirksey
-* **Release Date:** April 12, 2016 @ 06:33:15
+* **Release Date:** April 12, 2016 @ 07:33:15
 * **In-App Purchasing:** No

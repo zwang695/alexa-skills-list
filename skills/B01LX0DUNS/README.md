@@ -20,5 +20,5 @@ The White Pass Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.d7f75eff-a07b-45f1-a5dd-952540cd621e
 * **ASIN:** B01LX0DUNS
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:16:56
+* **Release Date:** October 20, 2016 @ 04:16:56
 * **In-App Purchasing:** No

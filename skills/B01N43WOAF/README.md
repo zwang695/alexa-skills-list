@@ -20,5 +20,5 @@ The Mohawk Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.1cde3ac5-2e6b-4f1c-ade7-9d9d4febfe98
 * **ASIN:** B01N43WOAF
 * **Author:** SnoCountry
-* **Release Date:** November 22, 2016 @ 08:35:47
+* **Release Date:** November 22, 2016 @ 09:35:47
 * **In-App Purchasing:** No

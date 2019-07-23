@@ -20,5 +20,5 @@ A random recommendation for an ice cream flavor for you to make with your Zoku i
 * **ID:** amzn1.ask.skill.fb7c82a1-aebf-4f06-874e-2ff6ee835c38
 * **ASIN:** B01K94FARY
 * **Author:** Debra Monesmith
-* **Release Date:** August 16, 2016 @ 07:26:16
+* **Release Date:** August 16, 2016 @ 08:26:16
 * **In-App Purchasing:** No

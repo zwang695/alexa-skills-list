@@ -20,5 +20,5 @@ The Sandia Peak Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.7a380390-64c2-4d34-a199-cfb047662b33
 * **ASIN:** B01LYCKUMZ
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:42:55
+* **Release Date:** October 19, 2016 @ 11:42:55
 * **In-App Purchasing:** No

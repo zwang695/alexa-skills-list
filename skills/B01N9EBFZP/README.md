@@ -20,5 +20,5 @@ The unofficial finest news from Reddit, courtesy of r/nottheonion. Only the best
 * **ID:** amzn1.ask.skill.4cbbfba9-5aea-4954-ac52-0f98325ae5d7
 * **ASIN:** B01N9EBFZP
 * **Author:** Arvinth Sethuraman
-* **Release Date:** December 6, 2016 @ 06:19:08
+* **Release Date:** December 6, 2016 @ 07:19:08
 * **In-App Purchasing:** No

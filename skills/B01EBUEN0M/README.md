@@ -22,5 +22,5 @@ This skill may not be suitable for all ages as it deals with alcohol. Please use
 * **ID:** amzn1.echo-sdk-ams.app.e68c2c6a-014f-4685-8583-02dbed62fb45
 * **ASIN:** B01EBUEN0M
 * **Author:** Leggett Builds
-* **Release Date:** May 10, 2016 @ 09:08:28
+* **Release Date:** May 10, 2016 @ 10:08:28
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Haunted House lets you experience a stormy Halloween night. Enjoy the unique sto
 * **ID:** amzn1.ask.skill.3e9b888d-2090-456f-b7d3-ff5afb77c7f3
 * **ASIN:** B01LW9TQ1Y
 * **Author:** Game Energy, LLC
-* **Release Date:** October 22, 2016 @ 02:12:37
+* **Release Date:** October 22, 2016 @ 03:12:37
 * **In-App Purchasing:** No

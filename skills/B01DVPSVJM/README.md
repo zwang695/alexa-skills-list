@@ -20,5 +20,5 @@ How good are you at Echoing a simple message? How good is Alexa? Errors typicall
 * **ID:** amzn1.echo-sdk-ams.app.60e098e0-ce21-4e64-a707-48dff1126eee
 * **ASIN:** B01DVPSVJM
 * **Author:** NeuralFirings
-* **Release Date:** April 7, 2016 @ 20:02:26
+* **Release Date:** April 7, 2016 @ 21:02:26
 * **In-App Purchasing:** No

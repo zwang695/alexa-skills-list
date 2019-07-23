@@ -20,5 +20,5 @@ Welcome to Today in History. Just ask Alexa for today in history and she will re
 * **ID:** amzn1.echo-sdk-ams.app.877602b7-46d9-4add-94d5-fe215dfd73a7
 * **ASIN:** B01DJJ7C0O
 * **Author:** MemCheck
-* **Release Date:** March 28, 2016 @ 13:43:30
+* **Release Date:** March 28, 2016 @ 14:43:30
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ The Good Housekeeping skill offers steps to remove common stains. With expert ad
 * **ID:** amzn1.echo-sdk-ams.app.bc6eb6cb-4182-4b83-9f15-363f682192b2
 * **ASIN:** B01M0MKCZX
 * **Author:** Hearst
-* **Release Date:** October 6, 2016 @ 02:11:55
+* **Release Date:** October 6, 2016 @ 03:11:55
 * **Privacy Policy:** http://www.goodhousekeeping.com/about/privacy-policy
 * **Terms of Use:** http://www.goodhousekeeping.com/about/a27272/terms-of-use/
 * **In-App Purchasing:** No

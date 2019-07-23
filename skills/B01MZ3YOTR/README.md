@@ -20,5 +20,5 @@ A fun Good Morning response based response where users can say good morning and 
 * **ID:** amzn1.ask.skill.0dec7043-80a2-44c2-ab15-c670bf1f5450
 * **ASIN:** B01MZ3YOTR
 * **Author:** morcoteg
-* **Release Date:** December 28, 2016 @ 04:19:07
+* **Release Date:** December 28, 2016 @ 05:19:07
 * **In-App Purchasing:** No

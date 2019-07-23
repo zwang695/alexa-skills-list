@@ -20,5 +20,5 @@ The world of health care can be so confusing. It's hard to figure out what's goi
 * **ID:** amzn1.echo-sdk-ams.app.9b86c70f-f582-444a-a3f6-510b93c210dd
 * **ASIN:** B01GPHQS9S
 * **Author:** AWzone
-* **Release Date:** June 23, 2016 @ 03:15:47
+* **Release Date:** June 23, 2016 @ 04:15:47
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Need help finding a good book? Use Book Finder to discover the latest best-selle
 * **ID:** amzn1.ask.skill.4f39d21a-93b6-4f34-9d62-0d96c6914a96
 * **ASIN:** B01MQEH0J2
 * **Author:** Min Co.
-* **Release Date:** November 25, 2016 @ 03:38:39
+* **Release Date:** November 25, 2016 @ 04:38:39
 * **In-App Purchasing:** No

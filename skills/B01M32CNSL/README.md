@@ -34,7 +34,7 @@ We’re excited to help you find the ideal dog breed for you and your loved ones
 * **ID:** amzn1.ask.skill.72fc72ea-fac6-42bc-83d2-355b4c256af3
 * **ASIN:** B01M32CNSL
 * **Author:** Nestlé Purina PetCare
-* **Release Date:** November 3, 2016 @ 14:13:17
+* **Release Date:** November 3, 2016 @ 15:13:17
 * **Privacy Policy:** https://www.purina.com/privacy-policy
 * **Terms of Use:** https://www.purina.com/terms-and-conditions
 * **In-App Purchasing:** No

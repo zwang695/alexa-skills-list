@@ -20,5 +20,5 @@ This is a game that will test you knowledge of interesting facts of the soccer g
 * **ID:** amzn1.ask.skill.68aede59-0091-4b37-9036-0e6ae12856be
 * **ASIN:** B01IV6SH68
 * **Author:** Iryarte
-* **Release Date:** July 28, 2016 @ 09:56:38
+* **Release Date:** July 28, 2016 @ 10:56:38
 * **In-App Purchasing:** No

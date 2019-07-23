@@ -19,7 +19,7 @@ DISCLAIMER: This tool does not provide medical advice, and is for informational 
 * **ID:** amzn1.ask.skill.23206320-08e9-462b-8d3a-ce4d0570f9bb
 * **ASIN:** B01JBJNCA0
 * **Author:** Personal
-* **Release Date:** August 12, 2016 @ 01:37:37
+* **Release Date:** August 12, 2016 @ 02:37:37
 * **Privacy Policy:** http://www.homeopathy.com.s3-website-us-east-1.amazonaws.com/privacypolicy.html
 * **Terms of Use:** http://www.homeopathy.com.s3-website-us-east-1.amazonaws.com/termsconditions.html
 * **In-App Purchasing:** No

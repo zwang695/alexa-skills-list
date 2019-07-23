@@ -20,5 +20,5 @@ The Boston Mills Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.0259cc40-b190-458a-8618-5607a5019f74
 * **ASIN:** B01M7TT79G
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:46:30
+* **Release Date:** October 26, 2016 @ 04:46:30
 * **In-App Purchasing:** No

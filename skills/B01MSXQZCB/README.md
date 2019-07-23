@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.b7319486-6a48-4104-8e2c-08ed8f5314dc
 * **ASIN:** B01MSXQZCB
 * **Author:** obreit
-* **Release Date:** December 14, 2016 @ 00:49:29
+* **Release Date:** December 14, 2016 @ 01:49:29
 * **In-App Purchasing:** No

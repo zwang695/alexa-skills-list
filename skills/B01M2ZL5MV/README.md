@@ -20,5 +20,5 @@ The Pomerelle Mountain Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.e0fa23d9-2de0-4010-9a3e-5bb8f5ca6428
 * **ASIN:** B01M2ZL5MV
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:13:24
+* **Release Date:** October 21, 2016 @ 16:13:24
 * **In-App Purchasing:** No

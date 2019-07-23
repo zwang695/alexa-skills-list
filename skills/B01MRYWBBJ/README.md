@@ -22,5 +22,5 @@ Icon made by Madebyoliver from flaticon.com
 * **ID:** amzn1.ask.skill.05955075-9cdf-4bd1-9e2f-1098833cb1ba
 * **ASIN:** B01MRYWBBJ
 * **Author:** mcgnly
-* **Release Date:** December 22, 2016 @ 05:19:14
+* **Release Date:** December 22, 2016 @ 06:19:14
 * **In-App Purchasing:** No

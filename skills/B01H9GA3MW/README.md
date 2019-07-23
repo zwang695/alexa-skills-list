@@ -20,5 +20,5 @@ This skill returns a funny pun. Just ask "Funny Pun Now" for something funny and
 * **ID:** amzn1.echo-sdk-ams.app.a9283287-feab-4ceb-8b60-647db5ca4e6d
 * **ASIN:** B01H9GA3MW
 * **Author:** Chloé Kiddon
-* **Release Date:** June 21, 2016 @ 06:45:34
+* **Release Date:** June 21, 2016 @ 07:45:34
 * **In-App Purchasing:** No

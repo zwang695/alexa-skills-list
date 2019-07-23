@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.f7766dee-9935-489f-ae3b-a78a75e07cd7
 * **ASIN:** B01MSTMXSG
 * **Author:** hennroja
-* **Release Date:** December 13, 2016 @ 05:51:22
+* **Release Date:** December 13, 2016 @ 06:51:22
 * **In-App Purchasing:** No

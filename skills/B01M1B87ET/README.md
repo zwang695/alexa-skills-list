@@ -20,5 +20,5 @@ You can ask history wizard what happened on any  date of the year you tell Alexa
 * **ID:** amzn1.ask.skill.344ded4c-ab69-449c-826c-607ecd78bfa5
 * **ASIN:** B01M1B87ET
 * **Author:** Tony Holdroyd
-* **Release Date:** October 8, 2016 @ 04:42:10
+* **Release Date:** October 8, 2016 @ 05:42:10
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Richard's One Piece Trivia Game.  So you think you are a One Piece fan, let see 
 * **ID:** amzn1.echo-sdk-ams.app.7edb8177-cc3a-49fc-927f-0a8137a2b0a4
 * **ASIN:** B01DOLY4LC
 * **Author:** The Delivery Guru
-* **Release Date:** May 10, 2016 @ 06:38:37
+* **Release Date:** May 10, 2016 @ 07:38:37
 * **In-App Purchasing:** No

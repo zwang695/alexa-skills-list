@@ -25,5 +25,5 @@ The Raspberry Pi will do the interaction with the Coffee Machine to read the sta
 * **ID:** amzn1.ask.skill.655a954d-862b-4699-8b38-28fe473f83aa
 * **ASIN:** B01L7O6TWA
 * **Author:** Bastiaan Slee
-* **Release Date:** September 4, 2016 @ 06:03:16
+* **Release Date:** September 4, 2016 @ 07:03:16
 * **In-App Purchasing:** No

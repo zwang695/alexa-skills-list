@@ -20,5 +20,5 @@ These actual quotes from "the Donald" can provide very real life advice for anyo
 * **ID:** amzn1.echo-sdk-ams.app.aaf53f67-10f4-4cb1-b909-a88e33c90f7f
 * **ASIN:** B01DJQ1UXW
 * **Author:** xgess
-* **Release Date:** March 29, 2016 @ 18:07:04
+* **Release Date:** March 29, 2016 @ 19:07:04
 * **In-App Purchasing:** No

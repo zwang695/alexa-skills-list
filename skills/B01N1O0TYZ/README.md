@@ -20,5 +20,5 @@ alexa will read off common excuses developers give
 * **ID:** amzn1.ask.skill.77ffa04a-699d-452d-b8d5-4c128079a1b2
 * **ASIN:** B01N1O0TYZ
 * **Author:** TerribleDev
-* **Release Date:** December 6, 2016 @ 02:05:50
+* **Release Date:** December 6, 2016 @ 03:05:50
 * **In-App Purchasing:** No

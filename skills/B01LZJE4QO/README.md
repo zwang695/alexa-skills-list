@@ -22,5 +22,5 @@ As a simple reference when planning the trip or geting rough idea how much thing
 * **ID:** amzn1.ask.skill.65ed45c7-4646-479e-9764-37a7fe36d21f
 * **ASIN:** B01LZJE4QO
 * **Author:** imirai
-* **Release Date:** September 22, 2016 @ 05:41:59
+* **Release Date:** September 22, 2016 @ 06:41:59
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A few facts about the cartoon band members of Gorillaz. Skill created by a fan. 
 * **ID:** amzn1.ask.skill.cb8318ce-4306-404e-9300-8ab1061cf370
 * **ASIN:** B01N3TTZLO
 * **Author:** Jose Borunda III
-* **Release Date:** November 29, 2016 @ 02:06:01
+* **Release Date:** November 29, 2016 @ 03:06:01
 * **In-App Purchasing:** No

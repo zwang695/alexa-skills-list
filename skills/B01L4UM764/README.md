@@ -20,5 +20,5 @@ Fun facts about flowers
 * **ID:** amzn1.ask.skill.ff154b84-7fee-4c9c-bb9e-64163ba4acf8
 * **ASIN:** B01L4UM764
 * **Author:** Sharon Gong
-* **Release Date:** August 29, 2016 @ 06:02:35
+* **Release Date:** August 29, 2016 @ 07:02:35
 * **In-App Purchasing:** No

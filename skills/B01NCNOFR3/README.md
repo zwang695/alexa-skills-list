@@ -20,7 +20,7 @@ This short guide to London features five London attractions. You can also get th
 * **ID:** amzn1.ask.skill.94d826c7-a63b-4105-8211-c5ca45bf2b1f
 * **ASIN:** B01NCNOFR3
 * **Author:** Grace Mountain Architects
-* **Release Date:** December 29, 2016 @ 02:49:15
+* **Release Date:** December 29, 2016 @ 03:49:15
 * **Privacy Policy:** http://londonguide.info/privacy.html
 * **Terms of Use:** http://londonguide.info/terms.html
 * **In-App Purchasing:** No

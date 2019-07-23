@@ -20,5 +20,5 @@ With a collection of startup and motivation quotes "Startup Quotes" will keep yo
 * **ID:** amzn1.ask.skill.bcf71cbd-3f68-4150-b358-94052db7919b
 * **ASIN:** B01MTLNLMZ
 * **Author:** Abe Diaz
-* **Release Date:** December 15, 2016 @ 06:49:40
+* **Release Date:** December 15, 2016 @ 07:49:40
 * **In-App Purchasing:** No

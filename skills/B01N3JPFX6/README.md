@@ -20,5 +20,5 @@ The Le Massif Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.207b8849-d3ef-47da-a555-85dc7c4ffb5a
 * **ASIN:** B01N3JPFX6
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:43:03
+* **Release Date:** November 5, 2016 @ 12:43:03
 * **In-App Purchasing:** No

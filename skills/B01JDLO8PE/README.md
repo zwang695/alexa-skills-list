@@ -35,5 +35,5 @@ Alexa, ask Dr. Fibonacci for help
 * **ID:** amzn1.ask.skill.357f7093-c7b1-4e17-9573-cd2e54ac9ed7
 * **ASIN:** B01JDLO8PE
 * **Author:** Don Holmberg
-* **Release Date:** August 3, 2016 @ 02:41:56
+* **Release Date:** August 3, 2016 @ 03:41:56
 * **In-App Purchasing:** No

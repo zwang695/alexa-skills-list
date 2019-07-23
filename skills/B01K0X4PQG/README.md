@@ -48,5 +48,5 @@ when you get brief information about some Pokemon. After you can have more detai
 * **ID:** amzn1.ask.skill.485a34e7-57c5-4edb-92c8-eff4e154d6e0
 * **ASIN:** B01K0X4PQG
 * **Author:** Adrien Chan
-* **Release Date:** August 11, 2016 @ 02:37:31
+* **Release Date:** August 11, 2016 @ 03:37:31
 * **In-App Purchasing:** No

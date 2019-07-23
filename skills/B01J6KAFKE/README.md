@@ -25,5 +25,5 @@ You can ask Paddock Reporter the following:
 * **ID:** amzn1.echo-sdk-ams.app.cd7e422d-9df4-4309-a7b9-7d1017f6de2b
 * **ASIN:** B01J6KAFKE
 * **Author:** Kevin Epstein
-* **Release Date:** August 8, 2016 @ 08:07:34
+* **Release Date:** August 8, 2016 @ 09:07:34
 * **In-App Purchasing:** No

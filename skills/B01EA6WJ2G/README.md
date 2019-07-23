@@ -16,5 +16,5 @@ This skill count the likes on Hackster Facebook Fanpage
 * **ID:** amzn1.echo-sdk-ams.app.b0987711-0f9c-4c08-aca0-f996ec4f0eab
 * **ASIN:** B01EA6WJ2G
 * **Author:** Jaguar Soft
-* **Release Date:** April 28, 2016 @ 04:51:41
+* **Release Date:** April 28, 2016 @ 05:51:41
 * **In-App Purchasing:** No

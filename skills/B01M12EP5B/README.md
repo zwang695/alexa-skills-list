@@ -55,5 +55,5 @@ Enjoy the game!!!
 * **ID:** amzn1.ask.skill.6de5f7d3-c737-48f8-9172-65430deeacd9
 * **ASIN:** B01M12EP5B
 * **Author:** EMKlaus
-* **Release Date:** September 18, 2016 @ 02:12:07
+* **Release Date:** September 18, 2016 @ 03:12:07
 * **In-App Purchasing:** No

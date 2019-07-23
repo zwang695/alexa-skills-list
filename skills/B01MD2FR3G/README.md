@@ -20,5 +20,5 @@ Ask Alexa if the world has been destroyed by the Hadron Collider
 * **ID:** amzn1.ask.skill.29ce2232-2939-4aab-8af2-ffe8d4020446
 * **ASIN:** B01MD2FR3G
 * **Author:** Reply GmbH
-* **Release Date:** November 9, 2016 @ 22:13:29
+* **Release Date:** November 9, 2016 @ 23:13:29
 * **In-App Purchasing:** No

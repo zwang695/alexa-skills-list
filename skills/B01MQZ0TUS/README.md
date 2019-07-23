@@ -18,5 +18,5 @@ Ever wanted to know a bit of random trivia, just ask me.
 * **ID:** amzn1.ask.skill.7491a59a-5848-4b88-a729-9290d4ba28ac
 * **ASIN:** B01MQZ0TUS
 * **Author:** LagunaGeek
-* **Release Date:** December 27, 2016 @ 03:48:57
+* **Release Date:** December 27, 2016 @ 04:48:57
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Time to push your limits. Brain Teaser hits your head with concussion level ques
 * **ID:** amzn1.ask.skill.179d471e-fc0c-46be-a4fe-fc0707d4e1a7
 * **ASIN:** B01LWXO215
 * **Author:** Designer
-* **Release Date:** September 28, 2016 @ 18:13:03
+* **Release Date:** September 28, 2016 @ 19:13:03
 * **In-App Purchasing:** No

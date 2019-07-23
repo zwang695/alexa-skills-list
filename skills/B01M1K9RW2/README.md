@@ -20,5 +20,5 @@ The Eaglecrest Mountain Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.b9d0573d-f4f9-43e7-8fdb-165e6c8b56d0
 * **ASIN:** B01M1K9RW2
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:57:04
+* **Release Date:** October 20, 2016 @ 03:57:04
 * **In-App Purchasing:** No

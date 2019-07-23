@@ -16,5 +16,5 @@ Trivia Questions on explorers to the Wester Hemisphere
 * **ID:** amzn1.ask.skill.95e87bc7-797f-4275-88b7-46c92c5041fd
 * **ASIN:** B01NBFLWM6
 * **Author:** Arun Vadlamani
-* **Release Date:** December 4, 2016 @ 05:35:01
+* **Release Date:** December 4, 2016 @ 06:35:01
 * **In-App Purchasing:** No

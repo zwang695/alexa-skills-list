@@ -22,5 +22,5 @@ The quiz has 15 changing questions. You will be given 4 multiple choice answers 
 * **ID:** amzn1.ask.skill.d4179008-a6a6-4f1e-bab8-b102f5fcee6e
 * **ASIN:** B01N6EXZD7
 * **Author:** ArtsInteractive.net
-* **Release Date:** December 11, 2016 @ 05:19:23
+* **Release Date:** December 11, 2016 @ 06:19:23
 * **In-App Purchasing:** No

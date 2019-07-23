@@ -65,7 +65,7 @@ If you still have trouble, contact support@muzzley.com and we can work with you 
 * **ID:** amzn1.echo-sdk-ams.app.fe8f3ba4-1675-4a47-8fc0-b9b265c061cd
 * **ASIN:** B01CKGPA06
 * **Author:** Muzzley
-* **Release Date:** March 4, 2016 @ 14:18:52
+* **Release Date:** March 4, 2016 @ 15:18:52
 * **Privacy Policy:** https://www.muzzley.com/privacy
 * **Terms of Use:** https://www.muzzley.com/terms
 * **In-App Purchasing:** No

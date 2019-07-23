@@ -16,5 +16,5 @@ Game facts tells interesting video game facts to the user
 * **ID:** amzn1.ask.skill.1aa856f1-d64d-4e8f-965b-8770a3d7b467
 * **ASIN:** B01KPCU8WM
 * **Author:** Nick Erickson
-* **Release Date:** August 22, 2016 @ 03:37:48
+* **Release Date:** August 22, 2016 @ 04:37:48
 * **In-App Purchasing:** No

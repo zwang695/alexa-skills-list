@@ -31,5 +31,5 @@ Enjoy!
 * **ID:** amzn1.echo-sdk-ams.app.0803a91a-3125-4c6a-8815-7ccb9300ecf1
 * **ASIN:** B01H96IZ3Q
 * **Author:** Eugene Francis Burke
-* **Release Date:** June 23, 2016 @ 05:15:42
+* **Release Date:** June 23, 2016 @ 06:15:42
 * **In-App Purchasing:** No

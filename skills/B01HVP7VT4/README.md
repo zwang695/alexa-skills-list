@@ -20,5 +20,5 @@ Trying to become a U.S. Citizen? Well then test your knowledge by taking this fu
 * **ID:** amzn1.echo-sdk-ams.app.6a62f1c7-c3b4-4685-be1e-c7971047e971
 * **ASIN:** B01HVP7VT4
 * **Author:** MrTechnolgyNerd
-* **Release Date:** July 5, 2016 @ 06:27:26
+* **Release Date:** July 5, 2016 @ 07:27:26
 * **In-App Purchasing:** No

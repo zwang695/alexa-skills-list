@@ -23,5 +23,5 @@ Questions will be updated from time to time, so be sure to come back and check i
 * **ID:** amzn1.ask.skill.f9063221-c1bd-4b8d-8a4c-08c4dfc26bdf
 * **ASIN:** B01KTXPKPW
 * **Author:** N/A
-* **Release Date:** August 24, 2016 @ 02:01:47
+* **Release Date:** August 24, 2016 @ 03:01:47
 * **In-App Purchasing:** No

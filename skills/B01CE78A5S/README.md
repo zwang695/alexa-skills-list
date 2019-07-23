@@ -26,5 +26,5 @@ You can play multiple times to see how well you know the Giants.
 * **ID:** amzn1.echo-sdk-ams.app.d70a5d71-729a-41c9-bacf-ce62fa520c79
 * **ASIN:** B01CE78A5S
 * **Author:** mine
-* **Release Date:** March 1, 2016 @ 02:33:59
+* **Release Date:** March 1, 2016 @ 03:33:59
 * **In-App Purchasing:** No

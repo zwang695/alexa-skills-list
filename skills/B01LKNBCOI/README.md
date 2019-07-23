@@ -21,5 +21,5 @@ Note: information is current as of the start of the season, if you find numbers 
 * **ID:** amzn1.ask.skill.65714087-414f-4558-9bab-ff11a0c1fd70
 * **ASIN:** B01LKNBCOI
 * **Author:** Lee
-* **Release Date:** September 6, 2016 @ 09:04:15
+* **Release Date:** September 6, 2016 @ 10:04:15
 * **In-App Purchasing:** No

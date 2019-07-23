@@ -29,6 +29,6 @@ Disclaimer: The skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.c640caa0-d753-4ed6-8065-78c41b8047ff
 * **ASIN:** B01KT9EX54
 * **Author:** FutureOfVoice
-* **Release Date:** August 26, 2016 @ 04:32:53
+* **Release Date:** August 26, 2016 @ 05:32:53
 * **Privacy Policy:** http://www.futureofvoice.com/privacy-policy/
 * **In-App Purchasing:** No

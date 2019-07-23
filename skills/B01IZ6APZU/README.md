@@ -20,5 +20,5 @@ Ask Alexa fun art facts and she will tell you art facts you might not know about
 * **ID:** amzn1.ask.skill.90ce58ad-83fb-4787-9bd4-e93f8ff8d44e
 * **ASIN:** B01IZ6APZU
 * **Author:** Federica Incerti
-* **Release Date:** July 27, 2016 @ 02:56:36
+* **Release Date:** July 27, 2016 @ 03:56:36
 * **In-App Purchasing:** No

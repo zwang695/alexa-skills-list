@@ -26,5 +26,5 @@ Data provided by The OpenSky Network, https://opensky-network.org/
 * **ID:** amzn1.ask.skill.d6f99fe1-708e-46a1-b88d-c965145e5d76
 * **ASIN:** B01N2W6OFO
 * **Author:** Ryan Petschek
-* **Release Date:** December 26, 2016 @ 00:19:29
+* **Release Date:** December 26, 2016 @ 01:19:29
 * **In-App Purchasing:** No

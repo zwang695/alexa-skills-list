@@ -20,5 +20,5 @@ Sometimes finding the right word for the text you are writing is hard, with this
 * **ID:** amzn1.ask.skill.73e38d11-926f-463e-ad67-45db9d5edf38
 * **ASIN:** B01N2OUAJL
 * **Author:** Eduardo Urso
-* **Release Date:** December 6, 2016 @ 23:49:34
+* **Release Date:** December 7, 2016 @ 00:49:34
 * **In-App Purchasing:** No

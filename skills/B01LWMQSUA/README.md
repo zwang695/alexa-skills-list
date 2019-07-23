@@ -20,5 +20,5 @@ Listen to some interesting facts about Germany's capital Berlin.
 * **ID:** amzn1.ask.skill.0bad21cd-9f82-4786-80e3-0e9c2b3ad12c
 * **ASIN:** B01LWMQSUA
 * **Author:** Mathias Nestler
-* **Release Date:** September 29, 2016 @ 07:12:58
+* **Release Date:** September 29, 2016 @ 08:12:58
 * **In-App Purchasing:** No

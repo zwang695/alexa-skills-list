@@ -20,5 +20,5 @@ You'll need to know your baseball stats to do well on this quiz! It focuses on b
 * **ID:** amzn1.echo-sdk-ams.app.be28e6e0-7ae2-4736-97aa-8ba955605a02
 * **ASIN:** B01I6CHT1G
 * **Author:** Christopher Roemer
-* **Release Date:** July 11, 2016 @ 04:57:35
+* **Release Date:** July 11, 2016 @ 05:57:35
 * **In-App Purchasing:** No

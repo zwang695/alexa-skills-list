@@ -20,5 +20,5 @@ Come here to find out some facts about Sam's football pick 'em league.
 * **ID:** amzn1.ask.skill.90f7fd23-1048-4332-9e96-b4922a9a1d6c
 * **ASIN:** B01NBBVWZN
 * **Author:** Shaty
-* **Release Date:** December 8, 2016 @ 01:49:06
+* **Release Date:** December 8, 2016 @ 02:49:06
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ At the end of a long week, it can often be so difficult to decide where to go fo
 * **ID:** amzn1.echo-sdk-ams.app.3f454bab-9969-40e4-ac0d-50112cc55132
 * **ASIN:** B01DLAUR3K
 * **Author:** sphanley
-* **Release Date:** April 5, 2016 @ 02:32:35
+* **Release Date:** April 5, 2016 @ 03:32:35
 * **In-App Purchasing:** No

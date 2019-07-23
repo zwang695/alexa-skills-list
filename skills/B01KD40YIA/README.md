@@ -18,5 +18,5 @@ This is intended for users age 21+ and up
 * **ID:** amzn1.ask.skill.365ce43a-2beb-440a-9e72-c7ff20712191
 * **ASIN:** B01KD40YIA
 * **Author:** Colton White
-* **Release Date:** August 17, 2016 @ 07:53:17
+* **Release Date:** August 17, 2016 @ 08:53:17
 * **In-App Purchasing:** No

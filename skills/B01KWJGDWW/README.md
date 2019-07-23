@@ -20,5 +20,5 @@ River Runner will tell you if your favorite whitewater river is running. Current
 * **ID:** amzn1.ask.skill.b8441ca7-8615-4123-9027-5042975f014d
 * **ASIN:** B01KWJGDWW
 * **Author:** Chris Amelung
-* **Release Date:** August 25, 2016 @ 08:01:11
+* **Release Date:** August 25, 2016 @ 09:01:11
 * **In-App Purchasing:** No

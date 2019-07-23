@@ -20,5 +20,5 @@ Curious about a year in history? Ask Alexa for a fact about a year in the past!
 * **ID:** amzn1.ask.skill.000aa17b-cab3-4f1e-9c8f-c0d54df65f32
 * **ASIN:** B01N7L13I2
 * **Author:** Visulo
-* **Release Date:** December 25, 2016 @ 03:18:44
+* **Release Date:** December 25, 2016 @ 04:18:44
 * **In-App Purchasing:** No

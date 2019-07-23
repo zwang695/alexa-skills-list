@@ -22,5 +22,5 @@ Sportcasts is a skill to find TV broadcast information for games in the 3 major 
 * **ID:** amzn1.ask.skill.128c0cb9-66de-4f7a-a45f-6eabb60ad3fe
 * **ASIN:** B01M5I7313
 * **Author:** Braden Polly
-* **Release Date:** November 11, 2016 @ 01:21:44
+* **Release Date:** November 11, 2016 @ 02:21:44
 * **In-App Purchasing:** No

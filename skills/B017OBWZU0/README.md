@@ -22,5 +22,5 @@ Test your knowledge of Hollywood's great movies by matching five famous movies q
 * **ID:** amzn1.echo-sdk-ams.app.e51ccb8d-59bd-478f-a58a-4cfb511fb167
 * **ASIN:** B017OBWZU0
 * **Author:** Michael E Strupp
-* **Release Date:** November 25, 2015 @ 17:09:06
+* **Release Date:** November 25, 2015 @ 18:09:06
 * **In-App Purchasing:** No

@@ -19,5 +19,5 @@ Gives some random facts about Nelson Mandela
 * **ID:** amzn1.ask.skill.33b10daa-d3bb-4a4f-809a-01c80abf08bc
 * **ASIN:** B01N9BZ9SH
 * **Author:** Anonym
-* **Release Date:** December 3, 2016 @ 02:35:30
+* **Release Date:** December 3, 2016 @ 03:35:30
 * **In-App Purchasing:** No

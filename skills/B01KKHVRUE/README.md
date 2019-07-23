@@ -21,5 +21,5 @@ Topics are very broad.
 * **ID:** amzn1.ask.skill.3fe696cb-f8b7-4129-aee6-d5402abda0f0
 * **ASIN:** B01KKHVRUE
 * **Author:** zippeurfou
-* **Release Date:** August 18, 2016 @ 04:22:16
+* **Release Date:** August 18, 2016 @ 05:22:16
 * **In-App Purchasing:** No

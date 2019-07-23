@@ -20,5 +20,5 @@ In this skill one can get the no. of districts present in indian states
 * **ID:** amzn1.ask.skill.1c3f8a83-e4c9-4d8c-9c73-8dfc69b658e6
 * **ASIN:** B01IR7S2J8
 * **Author:** Bimba T S
-* **Release Date:** July 22, 2016 @ 01:27:52
+* **Release Date:** July 22, 2016 @ 02:27:52
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Did you know that Shahid Afridi has played the most T20 International matches? O
 * **ID:** amzn1.echo-sdk-ams.app.72c8352b-43f9-463f-992b-42cb9b06d792
 * **ASIN:** B01DLC6YLM
 * **Author:** Banyan Solutions Inc.
-* **Release Date:** April 5, 2016 @ 01:32:29
+* **Release Date:** April 5, 2016 @ 02:32:29
 * **In-App Purchasing:** No

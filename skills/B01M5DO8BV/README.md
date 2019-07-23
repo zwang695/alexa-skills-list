@@ -12,6 +12,6 @@ null
 * **ID:** amzn1.ask.skill.378f141d-aae2-42c2-8b20-88ac63a125e4
 * **ASIN:** B01M5DO8BV
 * **Author:** BMW Technology Group
-* **Release Date:** October 28, 2016 @ 14:42:02
+* **Release Date:** October 28, 2016 @ 15:42:02
 * **Account Linking Domains:** btccontentserver.bmwgroup.com, myc-profile.bmwgroup.com
 * **In-App Purchasing:** No

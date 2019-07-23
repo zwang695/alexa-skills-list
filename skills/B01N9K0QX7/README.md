@@ -22,5 +22,5 @@ You can say, “Alexa, ask Ms. Maven to define a maven phase.", for example.
 * **ID:** amzn1.ask.skill.34102b69-14ff-4f5c-93cc-b8e225480bab
 * **ASIN:** B01N9K0QX7
 * **Author:** David Ross Drake
-* **Release Date:** December 29, 2016 @ 02:19:47
+* **Release Date:** December 29, 2016 @ 03:19:47
 * **In-App Purchasing:** No

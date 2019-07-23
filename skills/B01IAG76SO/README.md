@@ -20,5 +20,5 @@ Provdes Daily Quote randomly
 * **ID:** amzn1.echo-sdk-ams.app.8ec35099-2706-4645-8106-db934cfd3be9
 * **ASIN:** B01IAG76SO
 * **Author:** JJ
-* **Release Date:** July 12, 2016 @ 06:27:37
+* **Release Date:** July 12, 2016 @ 07:27:37
 * **In-App Purchasing:** No

@@ -34,5 +34,5 @@ Legal note (required by Amazon): this skill is not sponsored or endorsed by IFDB
 * **ID:** amzn1.echo-sdk-ams.app.75f0f37e-aa18-4db0-9976-23798670c600
 * **ASIN:** B01IVEANGM
 * **Author:** Vitaly Lishchenko
-* **Release Date:** November 4, 2016 @ 19:13:17
+* **Release Date:** November 4, 2016 @ 20:13:17
 * **In-App Purchasing:** No

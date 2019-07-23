@@ -20,7 +20,7 @@ The Audio Chef allows you to load your favorite recipes from supported websites 
 * **ID:** amzn1.echo-sdk-ams.app.a612aa54-429e-40f4-8df8-06b2a2105c70
 * **ASIN:** B01FROPJ4K
 * **Author:** Emerson
-* **Release Date:** May 25, 2016 @ 06:38:32
+* **Release Date:** May 25, 2016 @ 07:38:32
 * **Privacy Policy:** https://theaudiochef.com/privacy
 * **Account Linking Domains:** www.amazon.com, api.amazon.com, pitangui.amazon.com, na.account.amazon.com
 * **In-App Purchasing:** No

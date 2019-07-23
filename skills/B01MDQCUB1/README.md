@@ -20,5 +20,5 @@ The Sugar Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.77616a92-f9da-4a96-a182-009e34027092
 * **ASIN:** B01MDQCUB1
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:44:53
+* **Release Date:** October 26, 2016 @ 02:44:53
 * **In-App Purchasing:** No

@@ -17,5 +17,5 @@ Launch this skill by saying "Alexa, Begin Site Information". When prompted, just
 * **ID:** amzn1.echo-sdk-ams.app.331ba341-1121-4dbe-84d0-c48f3f74ac86
 * **ASIN:** B01F2L0IBM
 * **Author:** Jeffrey Miller
-* **Release Date:** May 10, 2016 @ 00:12:48
+* **Release Date:** May 10, 2016 @ 01:12:48
 * **In-App Purchasing:** No

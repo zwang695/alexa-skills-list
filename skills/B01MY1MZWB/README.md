@@ -21,5 +21,5 @@ This skill is not sponsored or endorsed by Multi-State Lottery Association.
 * **ID:** amzn1.ask.skill.9dfa32a3-ab3c-4dfd-9baa-e23e96ecc71a
 * **ASIN:** B01MY1MZWB
 * **Author:** chpressler
-* **Release Date:** December 27, 2016 @ 00:49:05
+* **Release Date:** December 27, 2016 @ 01:49:05
 * **In-App Purchasing:** No

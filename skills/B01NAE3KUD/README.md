@@ -20,5 +20,5 @@ This skill is intended to provide facts about the proposed Brooklyn Queens Conne
 * **ID:** amzn1.ask.skill.1d8858e0-1e3a-4702-b11a-ba886efe9db0
 * **ASIN:** B01NAE3KUD
 * **Author:** Instant Analytics
-* **Release Date:** December 11, 2016 @ 02:49:28
+* **Release Date:** December 11, 2016 @ 03:49:28
 * **In-App Purchasing:** No

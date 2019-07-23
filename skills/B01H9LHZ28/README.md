@@ -20,5 +20,5 @@ Have you ever wanted to know how the electrons are arranged in an atom of a give
 * **ID:** amzn1.echo-sdk-ams.app.48fc39d4-3cb1-4221-b15c-5fc8b0018bad
 * **ASIN:** B01H9LHZ28
 * **Author:** Orbital Dynamics
-* **Release Date:** June 22, 2016 @ 06:45:41
+* **Release Date:** June 22, 2016 @ 07:45:41
 * **In-App Purchasing:** No

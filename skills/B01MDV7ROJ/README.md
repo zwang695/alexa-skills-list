@@ -20,5 +20,5 @@ The Solitude Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.97d14ece-7ba1-43d6-9e79-06f2abfa085d
 * **ASIN:** B01MDV7ROJ
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:42:59
+* **Release Date:** November 4, 2016 @ 09:42:59
 * **In-App Purchasing:** No

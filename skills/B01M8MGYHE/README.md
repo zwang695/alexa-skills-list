@@ -20,5 +20,5 @@ The Song Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.14d68f5a-45c3-4976-8c0d-6000a58a8f7a
 * **ASIN:** B01M8MGYHE
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:44:48
+* **Release Date:** October 26, 2016 @ 04:44:48
 * **In-App Purchasing:** No

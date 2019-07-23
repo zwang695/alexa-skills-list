@@ -24,7 +24,7 @@ Disclaimer: This skill may not be suitable for all ages. This skill should not b
 * **ID:** amzn1.ask.skill.acd03824-29eb-4cca-9597-fcf23b1675a6
 * **ASIN:** B01LBYHZAG
 * **Author:** ActualCalorie
-* **Release Date:** September 10, 2016 @ 03:41:31
+* **Release Date:** September 10, 2016 @ 04:41:31
 * **Privacy Policy:** http://actualcalorie.com/privacy_weight_loss.php
 * **Terms of Use:** http://actualcalorie.com/terms_weight_loss.php
 * **In-App Purchasing:** No

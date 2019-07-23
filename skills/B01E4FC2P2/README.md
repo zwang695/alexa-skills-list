@@ -28,7 +28,7 @@ This skill allows you to hear what is happening around the Butterfleye Demo came
 * **ID:** amzn1.echo-sdk-ams.app.7d593f1e-8d6e-4e29-9ee5-2f0be429acda
 * **ASIN:** B01E4FC2P2
 * **Author:** Butterfleye
-* **Release Date:** May 11, 2016 @ 09:08:43
+* **Release Date:** May 11, 2016 @ 10:08:43
 * **Privacy Policy:** http://www.getbutterfleye.com/privacy
 * **Terms of Use:** http://www.getbutterfleye.com/terms
 * **In-App Purchasing:** No

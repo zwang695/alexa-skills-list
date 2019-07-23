@@ -24,5 +24,5 @@ This skill is in no way official, sponsored, endorsed by or affiliated with Dona
 * **ID:** amzn1.ask.skill.55ccb641-df6b-416c-a166-6b6f1fae56f9
 * **ASIN:** B01N1RYE51
 * **Author:** Daniel Doubrovkine
-* **Release Date:** December 17, 2016 @ 02:19:32
+* **Release Date:** December 17, 2016 @ 03:19:32
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ International Space Station Skill is used to get the current location of the Int
 * **ID:** amzn1.ask.skill.ec773f56-abdb-4065-8dbd-e5867b777382
 * **ASIN:** B01LPMN5NU
 * **Author:** Ilamparithi
-* **Release Date:** September 10, 2016 @ 04:12:42
+* **Release Date:** September 10, 2016 @ 05:12:42
 * **In-App Purchasing:** No

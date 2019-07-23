@@ -20,5 +20,5 @@ The Mount Hood Skibowl Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.ad2f0d8c-44bc-4408-8069-c46a06623a45
 * **ASIN:** B01M3U36NK
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:47:18
+* **Release Date:** October 26, 2016 @ 04:47:18
 * **In-App Purchasing:** No

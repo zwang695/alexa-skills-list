@@ -26,6 +26,6 @@ See www.housebot.com/alexa for more information.
 * **ID:** amzn1.ask.skill.8d0a74d3-efe7-4f7b-9155-00dd029b4fa2
 * **ASIN:** B01I0U0VWS
 * **Author:** CeBotics LLC
-* **Release Date:** August 11, 2016 @ 16:36:59
+* **Release Date:** August 11, 2016 @ 17:36:59
 * **Privacy Policy:** http://www.housebot.com/privacy
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Learn some interesting, fun, and new facts about dogs.
 * **ID:** amzn1.ask.skill.16f42433-24d9-4a56-918a-889162d4bd28
 * **ASIN:** B01LZLD65Z
 * **Author:** jetleigh
-* **Release Date:** October 8, 2016 @ 02:12:02
+* **Release Date:** October 8, 2016 @ 03:12:02
 * **In-App Purchasing:** No

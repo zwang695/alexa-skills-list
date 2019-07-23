@@ -20,5 +20,5 @@ These are some of my favorite quotes from our 10+ years together. He may not be 
 * **ID:** amzn1.ask.skill.fc53a7f5-ca1b-450e-bb1b-93f6966e6d4f
 * **ASIN:** B01KLAK2B0
 * **Author:** Amy Rose Karr
-* **Release Date:** August 22, 2016 @ 07:48:48
+* **Release Date:** August 22, 2016 @ 08:48:48
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.4065c711-aa1d-46cd-9c1c-0ea7b90909ab
 * **ASIN:** B01M9A9INL
 * **Author:** Gruner + Jahr Digital Products GmbH
-* **Release Date:** October 25, 2016 @ 07:43:42
+* **Release Date:** October 25, 2016 @ 08:43:42
 * **In-App Purchasing:** No

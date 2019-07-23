@@ -20,5 +20,5 @@ This skill will tell you all kinds of nice things about yourself.
 * **ID:** amzn1.echo-sdk-ams.app.63bdfff8-548c-4565-904c-bd7e44f0e87f
 * **ASIN:** B01I8SNI68
 * **Author:** Lee Johnson
-* **Release Date:** July 15, 2016 @ 01:57:39
+* **Release Date:** July 15, 2016 @ 02:57:39
 * **In-App Purchasing:** No

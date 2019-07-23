@@ -20,5 +20,5 @@ This skill will tell you your daily horoscope for your sign. You can enable this
 * **ID:** amzn1.echo-sdk-ams.app.b1ec243c-5d33-43bc-84f0-deb0e4c565a7
 * **ASIN:** B01I5RF4BE
 * **Author:** fig systems
-* **Release Date:** July 14, 2016 @ 08:27:34
+* **Release Date:** July 14, 2016 @ 09:27:34
 * **In-App Purchasing:** No

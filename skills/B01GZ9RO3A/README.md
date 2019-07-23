@@ -20,5 +20,5 @@ The skill provides health tips or facts. It works with the invocation call "Alex
 * **ID:** amzn1.echo-sdk-ams.app.0b3c4d9e-d94a-43d9-9508-55e35b225931
 * **ASIN:** B01GZ9RO3A
 * **Author:** Prinika
-* **Release Date:** June 16, 2016 @ 03:15:44
+* **Release Date:** June 16, 2016 @ 04:15:44
 * **In-App Purchasing:** No

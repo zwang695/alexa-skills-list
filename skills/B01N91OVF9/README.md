@@ -20,5 +20,5 @@ The skill's purpose is to educate people on how cars came about and some cool an
 * **ID:** amzn1.ask.skill.ca18ce11-971e-4d52-b29d-0bc8152aaee6
 * **ASIN:** B01N91OVF9
 * **Author:** SandChow
-* **Release Date:** December 1, 2016 @ 08:05:20
+* **Release Date:** December 1, 2016 @ 09:05:20
 * **In-App Purchasing:** No

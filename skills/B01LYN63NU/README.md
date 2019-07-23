@@ -18,5 +18,5 @@ This skill is not sponsored in any way by Major League Baseball, but provides sc
 * **ID:** amzn1.ask.skill.c834be32-d518-46cb-b5cc-7a08fc2039c8
 * **ASIN:** B01LYN63NU
 * **Author:** Hoegen Developments
-* **Release Date:** October 10, 2016 @ 09:41:45
+* **Release Date:** October 10, 2016 @ 10:41:45
 * **In-App Purchasing:** No

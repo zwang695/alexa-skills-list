@@ -20,5 +20,5 @@ The Dagmar Ski Resort Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.ec83947d-f902-4300-a5bd-ec09d17f1e41
 * **ASIN:** B01MXBOFNQ
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:12:30
+* **Release Date:** November 5, 2016 @ 12:12:30
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Are you tired of waiting 30 minutes to choose what to eat with your friends? No 
 * **ID:** amzn1.ask.skill.40d7fa0d-2966-4632-9983-7fc506bd1d74
 * **ASIN:** B01LI63TDO
 * **Author:** jlrojas
-* **Release Date:** September 5, 2016 @ 05:03:20
+* **Release Date:** September 5, 2016 @ 06:03:20
 * **In-App Purchasing:** No

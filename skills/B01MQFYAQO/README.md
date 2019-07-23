@@ -16,5 +16,5 @@ Get your daily piece of advice...
 * **ID:** amzn1.ask.skill.f4da5aee-ab9d-4554-ba03-fbccfe7563b0
 * **ASIN:** B01MQFYAQO
 * **Author:** MrE
-* **Release Date:** November 13, 2016 @ 02:12:49
+* **Release Date:** November 13, 2016 @ 03:12:49
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Grove Trivia Quiz
 * **ID:** amzn1.ask.skill.56763413-8881-4325-ae59-214f07973f9c
 * **ASIN:** B01MRRIY6X
 * **Author:** ServIT Systems
-* **Release Date:** December 2, 2016 @ 05:35:11
+* **Release Date:** December 2, 2016 @ 06:35:11
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ Say "stop" or "cancel" to exit.
 * **ID:** amzn1.echo-sdk-ams.app.a7cd8c09-3ea3-4d5a-ae6c-1e9fa99c056b
 * **ASIN:** B01E31EICW
 * **Author:** Andres
-* **Release Date:** April 18, 2016 @ 05:03:19
+* **Release Date:** April 18, 2016 @ 06:03:19
 * **In-App Purchasing:** No

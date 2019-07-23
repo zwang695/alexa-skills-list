@@ -20,7 +20,7 @@ Need to know the weather forecast up to 15 days from now? Just ask AccuWeather â
 * **ID:** amzn1.echo-sdk-ams.app.e7e5a4db-2ac1-4e78-a24c-0b8caa49f1f5
 * **ASIN:** B01A06BU8E
 * **Author:** AccuWeather
-* **Release Date:** December 30, 2015 @ 18:19:54
+* **Release Date:** December 30, 2015 @ 19:19:54
 * **Privacy Policy:** http://www.accuweather.com/en/privacy
 * **Terms of Use:** http://www.accuweather.com/en/legal
 * **In-App Purchasing:** No

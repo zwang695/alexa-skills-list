@@ -20,5 +20,5 @@ Space Quotes app based on Amazon's SpaceGeek tutorial
 * **ID:** amzn1.ask.skill.14afd260-8d0d-4fee-a7eb-2993a65ad8a1
 * **ASIN:** B01LWHNJ9Q
 * **Author:** Anarmyofnone
-* **Release Date:** September 11, 2016 @ 04:11:05
+* **Release Date:** September 11, 2016 @ 05:11:05
 * **In-App Purchasing:** No

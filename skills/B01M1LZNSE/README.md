@@ -20,5 +20,5 @@ This skill tells the number of near earth objects or close approach objects. The
 * **ID:** amzn1.ask.skill.bd8618d9-67c0-4fc1-a812-e3a5060c2e79
 * **ASIN:** B01M1LZNSE
 * **Author:** Muhyun
-* **Release Date:** October 6, 2016 @ 09:11:54
+* **Release Date:** October 6, 2016 @ 10:11:54
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.a31c30a0-c2bd-4114-9edf-dd7ffdf2ecea
 * **ASIN:** B01MRGDI76
 * **Author:** eko_se7en
-* **Release Date:** November 21, 2016 @ 01:35:40
+* **Release Date:** November 21, 2016 @ 02:35:40
 * **In-App Purchasing:** No

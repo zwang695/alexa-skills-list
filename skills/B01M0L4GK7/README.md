@@ -20,5 +20,5 @@ Luna Guru can give you the date and time for full or new moon. You can ask for e
 * **ID:** amzn1.ask.skill.24ea043d-8d43-471c-8fd0-668fdf818508
 * **ASIN:** B01M0L4GK7
 * **Author:** ArunM
-* **Release Date:** October 8, 2016 @ 02:41:57
+* **Release Date:** October 8, 2016 @ 03:41:57
 * **In-App Purchasing:** No

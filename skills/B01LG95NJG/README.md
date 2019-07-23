@@ -26,5 +26,5 @@ Another winning skill from www.thomptronics.com
 * **ID:** amzn1.ask.skill.3c9d0c2d-b6fe-483c-8d4f-e34de4f3015b
 * **ASIN:** B01LG95NJG
 * **Author:** Thomptronics
-* **Release Date:** September 11, 2016 @ 03:46:16
+* **Release Date:** September 11, 2016 @ 04:46:16
 * **In-App Purchasing:** No

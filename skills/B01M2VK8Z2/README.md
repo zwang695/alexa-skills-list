@@ -20,5 +20,5 @@ Racing Helmet icon by Oliviu Stoian from the Noun Project.
 * **ID:** amzn1.ask.skill.5e5de903-8253-4741-a671-115a599c6ce4
 * **ASIN:** B01M2VK8Z2
 * **Author:** Distiller Ltd
-* **Release Date:** October 18, 2016 @ 05:12:14
+* **Release Date:** October 18, 2016 @ 06:12:14
 * **In-App Purchasing:** No

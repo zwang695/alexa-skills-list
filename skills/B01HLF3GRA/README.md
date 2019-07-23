@@ -20,5 +20,5 @@ Interesting 2016 NBA statistics that everyone should know!
 * **ID:** amzn1.echo-sdk-ams.app.f5e49989-f1d1-4e04-8802-e42c3b50cb73
 * **ASIN:** B01HLF3GRA
 * **Author:** Neil Danait
-* **Release Date:** June 27, 2016 @ 10:45:38
+* **Release Date:** June 27, 2016 @ 11:45:38
 * **In-App Purchasing:** No

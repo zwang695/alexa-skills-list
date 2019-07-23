@@ -46,5 +46,5 @@ Enjoy!
 * **ID:** amzn1.echo-sdk-ams.app.05b967b6-36f4-4870-af6b-ff4df257805e
 * **ASIN:** B01FOC3LCM
 * **Author:** MerryOscar
-* **Release Date:** May 24, 2016 @ 04:08:39
+* **Release Date:** May 24, 2016 @ 05:08:39
 * **In-App Purchasing:** No

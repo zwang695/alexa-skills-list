@@ -26,7 +26,7 @@ More informations about the WatchAid app go to http://www.watchaid.tv
 * **ID:** amzn1.echo-sdk-ams.app.69392382-f42c-4d5e-8a60-5b51019a35f8
 * **ASIN:** B01HH6R4BW
 * **Author:** ReVeNG System
-* **Release Date:** June 28, 2016 @ 06:45:46
+* **Release Date:** June 28, 2016 @ 07:45:46
 * **Privacy Policy:** https://watchaid.freshdesk.com/support/solutions/articles/14000025756-privacy-policy
 * **Terms of Use:** https://watchaid.freshdesk.com/support/solutions/articles/14000025776-terms-and-conditions
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Alexa skill that serves up interesting chess facts and trivia.
 * **ID:** amzn1.ask.skill.21a2b841-7904-40a0-8ce1-10d9e2a93895
 * **ASIN:** B01LXJG04V
 * **Author:** Prakash Mavuduru
-* **Release Date:** September 23, 2016 @ 05:12:10
+* **Release Date:** September 23, 2016 @ 06:12:10
 * **In-App Purchasing:** No

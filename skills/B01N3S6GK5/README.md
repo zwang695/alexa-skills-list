@@ -20,5 +20,5 @@ In the United States, we are standing on the precipice of electing our first fem
 * **ID:** amzn1.ask.skill.80f9edc6-df58-4b47-91d6-b92862d7482e
 * **ASIN:** B01N3S6GK5
 * **Author:** Margaret Kurdziolek LLC
-* **Release Date:** November 11, 2016 @ 01:15:57
+* **Release Date:** November 11, 2016 @ 02:15:57
 * **In-App Purchasing:** No

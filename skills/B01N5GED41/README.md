@@ -20,5 +20,5 @@ This skill tells you some random but interesting facts about such an incredible 
 * **ID:** amzn1.ask.skill.fa585f1b-d153-430d-b8cc-9add3cde992f
 * **ASIN:** B01N5GED41
 * **Author:** Saksham Bhardwaj
-* **Release Date:** December 18, 2016 @ 01:49:39
+* **Release Date:** December 18, 2016 @ 02:49:39
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ Disclaimer: None of these facts are actually true at all.
 * **ID:** amzn1.ask.skill.a1127ddb-e1b5-4038-bcf6-18435d8e6eb9
 * **ASIN:** B01LW6UPKM
 * **Author:** Nate Kurt
-* **Release Date:** September 22, 2016 @ 05:42:22
+* **Release Date:** September 22, 2016 @ 06:42:22
 * **In-App Purchasing:** No

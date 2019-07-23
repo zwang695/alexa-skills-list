@@ -20,5 +20,5 @@ For interesting facts about Los Angeles, California, ask LA Facts - you'll hear 
 * **ID:** amzn1.ask.skill.f7beccd2-3961-47e1-8928-2c5c226a47cc
 * **ASIN:** B01LOCRNNE
 * **Author:** John Moon
-* **Release Date:** September 7, 2016 @ 01:33:44
+* **Release Date:** September 7, 2016 @ 02:33:44
 * **In-App Purchasing:** No

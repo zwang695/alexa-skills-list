@@ -23,7 +23,7 @@ If you have any questions, please visit the iDevices FAQ at http://idevicesinc.c
 * **ID:** amzn1.ask.skill.cbeef66c-d356-474e-b8f6-ccfb22cc72b0
 * **ASIN:** B01G98LFFA
 * **Author:** iDevices, LLC
-* **Release Date:** July 6, 2016 @ 16:57:10
+* **Release Date:** July 6, 2016 @ 17:57:10
 * **Privacy Policy:** http://idevicesinc.com/privacy/
 * **Account Linking Domains:** amazon.com
 * **In-App Purchasing:** No

@@ -21,5 +21,5 @@ You can say tell me a boy's name, or tell me a girls's name to get a new name ea
 * **ID:** amzn1.ask.skill.f32cc60b-d439-47d0-b385-eee744ef79e3
 * **ASIN:** B01N94A1A6
 * **Author:** andrew smith
-* **Release Date:** December 1, 2016 @ 06:35:37
+* **Release Date:** December 1, 2016 @ 07:35:37
 * **In-App Purchasing:** No

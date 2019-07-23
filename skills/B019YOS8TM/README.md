@@ -24,5 +24,5 @@ For updates sign up for the email list at http://agog.com/email/AgogReader
 * **ID:** amzn1.echo-sdk-ams.app.eb68c703-af77-43c6-b1d1-9e7cb979c15a
 * **ASIN:** B019YOS8TM
 * **Author:** Agog Inc.
-* **Release Date:** December 29, 2015 @ 17:48:57
+* **Release Date:** December 29, 2015 @ 18:48:57
 * **In-App Purchasing:** No

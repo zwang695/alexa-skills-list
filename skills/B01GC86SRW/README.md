@@ -20,5 +20,5 @@ Skill is able to control custom application to facilitate order display. Skill n
 * **ID:** amzn1.echo-sdk-ams.app.d7b4a564-d54c-4e33-ace7-d5e82f11f93c
 * **ASIN:** B01GC86SRW
 * **Author:** shengjia
-* **Release Date:** June 3, 2016 @ 05:38:41
+* **Release Date:** June 3, 2016 @ 06:38:41
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Malaysia Facts
 * **ID:** amzn1.ask.skill.ec2f3f59-2586-473c-aa64-2245ed41524a
 * **ASIN:** B01KAWHVHM
 * **Author:** MSG Associates 
-* **Release Date:** August 23, 2016 @ 07:48:51
+* **Release Date:** August 23, 2016 @ 08:48:51
 * **In-App Purchasing:** No

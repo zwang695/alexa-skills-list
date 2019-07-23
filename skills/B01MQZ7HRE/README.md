@@ -32,5 +32,5 @@ Stop the game: "Quit Playing", "Exit"
 * **ID:** amzn1.ask.skill.ba798c4e-5f5e-48eb-bccd-edee66b1a9fa
 * **ASIN:** B01MQZ7HRE
 * **Author:** Tree Frog Labs
-* **Release Date:** December 25, 2016 @ 06:18:52
+* **Release Date:** December 25, 2016 @ 07:18:52
 * **In-App Purchasing:** No

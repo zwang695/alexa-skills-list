@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.4224c533-5a25-40dd-9590-6569fb7404fd
 * **ASIN:** B01N2S7VH3
 * **Author:** Eric Schumann
-* **Release Date:** December 12, 2016 @ 06:49:37
+* **Release Date:** December 12, 2016 @ 07:49:37
 * **In-App Purchasing:** No

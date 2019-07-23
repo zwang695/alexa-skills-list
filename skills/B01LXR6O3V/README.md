@@ -20,5 +20,5 @@ The Bear Valley Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.836db8e9-9d59-4ca0-aae8-4dcd972449d4
 * **ASIN:** B01LXR6O3V
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:16:14
+* **Release Date:** October 20, 2016 @ 04:16:14
 * **In-App Purchasing:** No

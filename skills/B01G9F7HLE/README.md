@@ -27,6 +27,6 @@ How to use Alexa to control your Luma Surround WiFi:
 * **ID:** amzn1.echo-sdk-ams.app.90394f39-52ec-4816-9bd5-781a6ef8d38c
 * **ASIN:** B01G9F7HLE
 * **Author:** Luma
-* **Release Date:** August 25, 2016 @ 18:32:54
+* **Release Date:** August 25, 2016 @ 19:32:54
 * **Privacy Policy:** https://getluma.com/privacy-policy/
 * **In-App Purchasing:** No

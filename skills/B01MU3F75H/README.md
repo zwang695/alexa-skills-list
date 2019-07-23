@@ -20,5 +20,5 @@ Get a random cat name out of 100 popular cat names
 * **ID:** amzn1.ask.skill.37400fb7-0552-4013-b46a-1d14dd36926d
 * **ASIN:** B01MU3F75H
 * **Author:** Bryan Bess
-* **Release Date:** December 25, 2016 @ 04:48:59
+* **Release Date:** December 25, 2016 @ 05:48:59
 * **In-App Purchasing:** No

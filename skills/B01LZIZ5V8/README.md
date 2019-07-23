@@ -20,5 +20,5 @@ Coffee Facts provides you with random facts related to coffee. Here are a few th
 * **ID:** amzn1.ask.skill.53a345cc-16db-4ca8-8ed6-2cad136e384b
 * **ASIN:** B01LZIZ5V8
 * **Author:** heysusgarcia
-* **Release Date:** September 22, 2016 @ 02:12:13
+* **Release Date:** September 22, 2016 @ 03:12:13
 * **In-App Purchasing:** No

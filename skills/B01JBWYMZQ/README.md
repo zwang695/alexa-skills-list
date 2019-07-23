@@ -20,5 +20,5 @@ Quiz yourself on YC companies (active as of Summer 2016).
 * **ID:** amzn1.ask.skill.8f3875d8-6ada-4ee8-9564-d94608209676
 * **ASIN:** B01JBWYMZQ
 * **Author:** Don J. Kahn
-* **Release Date:** August 4, 2016 @ 04:11:33
+* **Release Date:** August 4, 2016 @ 05:11:33
 * **In-App Purchasing:** No

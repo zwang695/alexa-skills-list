@@ -20,5 +20,5 @@ Chess opening helper gives you the defining moves of the chess opening you want 
 * **ID:** amzn1.echo-sdk-ams.app.ddb141aa-5c06-4f84-a685-24dc2cd998d9
 * **ASIN:** B01EO2Y05A
 * **Author:** antblessing
-* **Release Date:** May 12, 2016 @ 07:08:33
+* **Release Date:** May 12, 2016 @ 08:08:33
 * **In-App Purchasing:** No

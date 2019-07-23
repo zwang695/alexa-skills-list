@@ -33,7 +33,7 @@ HOW TO GET CONNECTED
 * **ID:** amzn1.ask.skill.aba7feac-6231-4e5c-95ce-e05195803691
 * **ASIN:** B01EIQSPOY
 * **Author:** LiFi Labs Inc.
-* **Release Date:** April 19, 2016 @ 17:40:55
+* **Release Date:** April 19, 2016 @ 18:40:55
 * **Privacy Policy:** http://www.lifx.com/pages/legals#privacy
 * **Terms of Use:** http://www.lifx.com/pages/legals
 * **Account Linking Domains:** lifx.com

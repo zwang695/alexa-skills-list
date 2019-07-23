@@ -20,5 +20,5 @@ Tell Alexa to ask Three Eyed Raven about the words of a House in the Seven Kingd
 * **ID:** amzn1.echo-sdk-ams.app.1d30b0c5-c10d-4eab-aca8-856cd817f24b
 * **ASIN:** B01G37FVRU
 * **Author:** Jonathan Luo
-* **Release Date:** May 27, 2016 @ 00:08:34
+* **Release Date:** May 27, 2016 @ 01:08:34
 * **In-App Purchasing:** No

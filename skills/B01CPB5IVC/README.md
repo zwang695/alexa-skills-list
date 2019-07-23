@@ -20,5 +20,5 @@ Trivia questions about our solar system
 * **ID:** amzn1.echo-sdk-ams.app.98e3e3c1-2903-4ece-ad64-d2b52e3de803
 * **ASIN:** B01CPB5IVC
 * **Author:** none
-* **Release Date:** March 8, 2016 @ 07:00:41
+* **Release Date:** March 8, 2016 @ 08:00:41
 * **In-App Purchasing:** No

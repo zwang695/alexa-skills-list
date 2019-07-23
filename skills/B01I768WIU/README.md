@@ -20,5 +20,5 @@ A few quick facts about Texas A&M University. Check it out and you might just le
 * **ID:** amzn1.echo-sdk-ams.app.52327af0-901d-46f8-8605-1afd4990cb28
 * **ASIN:** B01I768WIU
 * **Author:** Lindenstream LLC
-* **Release Date:** July 19, 2016 @ 02:27:26
+* **Release Date:** July 19, 2016 @ 03:27:26
 * **In-App Purchasing:** No

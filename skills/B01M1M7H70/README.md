@@ -24,5 +24,5 @@ For example, say one, two, three, or four.
 * **ID:** amzn1.ask.skill.20c36fcb-b140-40b8-aecc-35f7d6e55613
 * **ASIN:** B01M1M7H70
 * **Author:** student
-* **Release Date:** October 27, 2016 @ 02:45:46
+* **Release Date:** October 27, 2016 @ 03:45:46
 * **In-App Purchasing:** No

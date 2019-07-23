@@ -20,5 +20,5 @@ Randomly chooses a combination of a state and its capital. For example, Alexa ma
 * **ID:** amzn1.ask.skill.ecaf3320-4d78-4e43-8948-7ebc3c9ca95a
 * **ASIN:** B01N9M8Z2G
 * **Author:** Rahul Syal
-* **Release Date:** January 3, 2017 @ 08:51:22
+* **Release Date:** January 3, 2017 @ 09:51:22
 * **In-App Purchasing:** No

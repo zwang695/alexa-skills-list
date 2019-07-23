@@ -41,7 +41,7 @@ Happy cooking!
 * **ID:** amzn1.echo-sdk-ams.app.d8846fea-2b08-4863-9d95-0fd83d7713c8
 * **ASIN:** B01HOQV7AY
 * **Author:** Scripps Networks, LLC
-* **Release Date:** September 12, 2016 @ 17:41:06
+* **Release Date:** September 12, 2016 @ 18:41:06
 * **Privacy Policy:** http://www.scrippsnetworksinteractive.com/privacy-policy/
 * **Account Linking Domains:** www.scrippsnetworksinteractive.com, scrippsnetworksinteractive.com
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Quotes from the American Founding Fathers. Words of wisdom that will inspire, ed
 * **ID:** amzn1.ask.skill.a1456288-c0df-4f85-a4ac-8cf79c8a1603
 * **ASIN:** B01N64EUFI
 * **Author:** eRose Web & Business Services, LLC
-* **Release Date:** November 20, 2016 @ 23:35:33
+* **Release Date:** November 21, 2016 @ 00:35:33
 * **In-App Purchasing:** No

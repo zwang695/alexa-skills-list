@@ -20,5 +20,5 @@ The Hanson Hills Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.f455f89d-df01-4677-b11e-b7df79c0af5b
 * **ASIN:** B01MA65KUS
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:48:12
+* **Release Date:** October 21, 2016 @ 15:48:12
 * **In-App Purchasing:** No

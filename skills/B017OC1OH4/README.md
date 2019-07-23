@@ -18,5 +18,5 @@ The only thing you have to say is "Alexa, open Bitcoin Price Checker."
 * **ID:** amzn1.echo-sdk-ams.app.11eee174-e7ab-4ca8-98f0-6931bae5db0b
 * **ASIN:** B017OC1OH4
 * **Author:** Andrew Austin
-* **Release Date:** November 6, 2015 @ 14:21:16
+* **Release Date:** November 6, 2015 @ 15:21:16
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ some interesting animal facts that help you with the animal quiz and to gain kno
 * **ID:** amzn1.ask.skill.3e26f44b-538d-4125-b3c7-7858d1d2b8f7
 * **ASIN:** B01J083SZQ
 * **Author:** earlwackerly
-* **Release Date:** July 26, 2016 @ 01:26:34
+* **Release Date:** July 26, 2016 @ 02:26:34
 * **In-App Purchasing:** No

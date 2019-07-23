@@ -20,7 +20,7 @@ You can use the skill to play all your health statistics from google fit account
 * **ID:** amzn1.echo-sdk-ams.app.c6b7b457-58bd-4a8c-9a5f-45e966f97717
 * **ASIN:** B01DKP0BT6
 * **Author:** Rai Integration Ltd
-* **Release Date:** April 1, 2016 @ 15:32:26
+* **Release Date:** April 1, 2016 @ 16:32:26
 * **Privacy Policy:** http://starfishmint.com/policy/privacy-echo.html
 * **Terms of Use:** http://starfishmint.com/policy/terms-echo.html
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ an app that lists some facts about the mongols
 * **ID:** amzn1.ask.skill.ed9f861d-fa6c-4c1e-8dff-8a0bfa3d23d9
 * **ASIN:** B01LX5YTAP
 * **Author:** nicholasluimy
-* **Release Date:** November 21, 2016 @ 23:36:29
+* **Release Date:** November 22, 2016 @ 00:36:29
 * **In-App Purchasing:** No

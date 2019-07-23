@@ -20,5 +20,5 @@ The Giants Ridge Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.29051a96-3a7f-4e82-9fc0-9f4eecfdbee1
 * **ASIN:** B01M7RYW9H
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:18:44
+* **Release Date:** October 21, 2016 @ 15:18:44
 * **In-App Purchasing:** No

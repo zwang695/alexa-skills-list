@@ -20,5 +20,5 @@ Are you interested in oceans? Just use Ocean Facts to know about the oceans.
 * **ID:** amzn1.ask.skill.2c5d23f3-9b7f-4e93-a815-335b702eaae7
 * **ASIN:** B01MQ044Q4
 * **Author:** Javier Pita
-* **Release Date:** October 27, 2016 @ 01:46:55
+* **Release Date:** October 27, 2016 @ 02:46:55
 * **In-App Purchasing:** No

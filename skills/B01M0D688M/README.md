@@ -20,5 +20,5 @@ Ten facts about Jim Wyatt
 * **ID:** amzn1.ask.skill.8244303b-67bc-4980-be7d-e9f39d4d5373
 * **ASIN:** B01M0D688M
 * **Author:** 4SITE Inc
-* **Release Date:** October 14, 2016 @ 01:44:13
+* **Release Date:** October 14, 2016 @ 02:44:13
 * **In-App Purchasing:** No

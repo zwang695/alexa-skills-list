@@ -20,7 +20,7 @@ This Bitdog Voice skill enables you to use voice commands to control and monitor
 * **ID:** amzn1.echo-sdk-ams.app.c4a3dbaf-d550-47a5-8311-733210aefdb1
 * **ASIN:** B01KAFU9JG
 * **Author:** Bitdog
-* **Release Date:** August 22, 2016 @ 04:07:39
+* **Release Date:** August 22, 2016 @ 05:07:39
 * **Privacy Policy:** https://www.bitdog.io/home/privacy
 * **Terms of Use:** https://www.bitdog.io/home/terms
 * **Account Linking Domains:** www.bitdog.io, fonts.googleapis.com, fonts.gstatic.com

@@ -21,5 +21,5 @@ Did you know 'underground' is the only word that begins and ends with the letter
 * **ID:** amzn1.ask.skill.fd176b67-d023-492b-b08c-074d0d50f0c9
 * **ASIN:** B01M0YTDRA
 * **Author:** Mickael
-* **Release Date:** October 4, 2016 @ 07:12:19
+* **Release Date:** October 4, 2016 @ 08:12:19
 * **In-App Purchasing:** No

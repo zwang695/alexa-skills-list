@@ -22,5 +22,5 @@ This little game will enable you to play with Alexa roulette. Bet on numbers fro
 * **ID:** amzn1.ask.skill.6fd379f7-fb16-4e9f-85d1-6dbab2c43a6d
 * **ASIN:** B01N1G1W78
 * **Author:** TFP/GIMO
-* **Release Date:** November 25, 2016 @ 03:36:53
+* **Release Date:** November 25, 2016 @ 04:36:53
 * **In-App Purchasing:** No

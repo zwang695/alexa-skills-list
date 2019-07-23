@@ -20,5 +20,5 @@ The Mount Bohemia Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.fcbb4f65-582b-471c-8d8d-9ebe446935bd
 * **ASIN:** B01M7RZ5JQ
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:13:52
+* **Release Date:** October 21, 2016 @ 16:13:52
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a skill that lists a variety of tips for vacationers to know regarding v
 * **ID:** amzn1.ask.skill.ee7f74bb-9af3-4d29-9b1b-e03f3f8daa58
 * **ASIN:** B01M0P9TKJ
 * **Author:** Marcus Horner
-* **Release Date:** October 14, 2016 @ 01:47:40
+* **Release Date:** October 14, 2016 @ 02:47:40
 * **In-App Purchasing:** No

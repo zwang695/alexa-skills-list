@@ -20,5 +20,5 @@ Math Quiz will ask five arithmetic questions. Try to get all of them correct.
 * **ID:** amzn1.echo-sdk-ams.app.24436a15-33e2-4cef-89cd-fcde7a5ade00
 * **ASIN:** B01MT0AQUB
 * **Author:** Remedy Focus
-* **Release Date:** December 21, 2016 @ 07:19:52
+* **Release Date:** December 21, 2016 @ 08:19:52
 * **In-App Purchasing:** No

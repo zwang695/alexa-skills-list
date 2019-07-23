@@ -20,5 +20,5 @@ Jack Handey's Deep Thoughts is beloved by many as a hilarious collection of one-
 * **ID:** amzn1.ask.skill.1640db4b-7893-41bd-830f-01f673ee7dfa
 * **ASIN:** B01IXGKVEM
 * **Author:** Michael Stoops
-* **Release Date:** July 25, 2016 @ 05:56:37
+* **Release Date:** July 25, 2016 @ 06:56:37
 * **In-App Purchasing:** No

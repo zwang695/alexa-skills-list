@@ -22,5 +22,5 @@ After reading three events, Alexa prompts the user to ask if she should continue
 * **ID:** amzn1.echo-sdk-ams.app.aa9bfe9c-1b8f-4287-b03d-6f21436f7c35
 * **ASIN:** B01I2IWRHA
 * **Author:** Lou Person
-* **Release Date:** July 8, 2016 @ 18:57:25
+* **Release Date:** July 8, 2016 @ 19:57:25
 * **In-App Purchasing:** No

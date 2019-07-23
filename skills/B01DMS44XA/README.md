@@ -20,5 +20,5 @@ This skill allows users to ask Sage for Gonzaga High School for the menu for a g
 * **ID:** amzn1.echo-sdk-ams.app.03f09916-eff9-4bd6-9c0e-17451e169526
 * **ASIN:** B01DMS44XA
 * **Author:** Joe McMahon
-* **Release Date:** April 1, 2016 @ 08:02:31
+* **Release Date:** April 1, 2016 @ 09:02:31
 * **In-App Purchasing:** No

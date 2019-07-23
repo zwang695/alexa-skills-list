@@ -24,5 +24,5 @@ To pause an episode, you can say "Alexa, pause." When you're ready to start agai
 * **ID:** amzn1.ask.skill.0334da08-b81a-4bca-8db5-b565e74a9079
 * **ASIN:** B01N3U0P11
 * **Author:** Night Vale Presents
-* **Release Date:** December 1, 2016 @ 19:36:19
+* **Release Date:** December 1, 2016 @ 20:36:19
 * **In-App Purchasing:** No

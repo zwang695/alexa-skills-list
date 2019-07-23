@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.8569ef63-5b22-4a6f-9d00-388afab4cd85
 * **ASIN:** B01N2XTC6C
 * **Author:** Matthias
-* **Release Date:** December 27, 2016 @ 23:19:15
+* **Release Date:** December 28, 2016 @ 00:19:15
 * **In-App Purchasing:** No

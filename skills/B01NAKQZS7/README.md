@@ -20,5 +20,5 @@ Fan application for reading TechCrunch online
 * **ID:** amzn1.ask.skill.0b1aec60-b8a0-49a0-bf2f-7327f7fd28ad
 * **ASIN:** B01NAKQZS7
 * **Author:** Alex Dementsov
-* **Release Date:** January 3, 2017 @ 08:50:54
+* **Release Date:** January 3, 2017 @ 09:50:54
 * **In-App Purchasing:** No

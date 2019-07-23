@@ -16,5 +16,5 @@ Smart Mirror Project. This mirror tells you, who's the fairest one of all?
 * **ID:** amzn1.ask.skill.3c1f7ffe-4a17-4a6c-91d1-5fba21e924ed
 * **ASIN:** B01M0MYZJ4
 * **Author:** mpango
-* **Release Date:** December 20, 2016 @ 01:49:46
+* **Release Date:** December 20, 2016 @ 02:49:46
 * **In-App Purchasing:** No

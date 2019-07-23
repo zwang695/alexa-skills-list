@@ -22,5 +22,5 @@ Then when you say something, it will (annoyingly ?:) ) repeat.
 * **ID:** amzn1.echo-sdk-ams.app.d373f712-0b9f-4685-b9ac-e7e5cb11e54c
 * **ASIN:** B01JTK5JRK
 * **Author:** Rajendra
-* **Release Date:** August 13, 2016 @ 04:07:44
+* **Release Date:** August 13, 2016 @ 05:07:44
 * **In-App Purchasing:** No

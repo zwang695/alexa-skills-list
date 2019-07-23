@@ -27,5 +27,5 @@ Listen to funny one liners from Joker. You can 'Ask England trivia'
 * **ID:** amzn1.ask.skill.bc0579ef-0edb-4fb1-974f-1062d6902028
 * **ASIN:** B01IYNBBKW
 * **Author:** Logzer0
-* **Release Date:** July 29, 2016 @ 02:56:37
+* **Release Date:** July 29, 2016 @ 03:56:37
 * **In-App Purchasing:** No

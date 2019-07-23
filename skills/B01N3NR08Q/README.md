@@ -42,7 +42,7 @@ Please feel free to contact us at smartika.com for any further questions.
 * **ID:** amzn1.ask.skill.d620eef4-35f8-4250-a57b-5d41731065a5
 * **ASIN:** B01N3NR08Q
 * **Author:** Smartika
-* **Release Date:** November 29, 2016 @ 12:05:54
+* **Release Date:** November 29, 2016 @ 13:05:54
 * **Privacy Policy:** http://www.smartika.com/en/application-privacy-statement
 * **Terms of Use:** http://www.smartika.com/en/application-terms-of-use
 * **In-App Purchasing:** No

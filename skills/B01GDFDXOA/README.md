@@ -22,5 +22,5 @@ Note that this skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.4310d2aa-7525-405c-ac87-82c64e5d9985
 * **ASIN:** B01GDFDXOA
 * **Author:** ringthis.com
-* **Release Date:** July 4, 2016 @ 05:57:39
+* **Release Date:** July 4, 2016 @ 06:57:39
 * **In-App Purchasing:** No

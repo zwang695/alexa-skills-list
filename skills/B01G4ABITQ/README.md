@@ -20,5 +20,5 @@ Debby Onsite is an assistant to Alexa to help remember where you might have left
 * **ID:** amzn1.echo-sdk-ams.app.c2abc186-90f1-4b5d-ad6f-534fd01eb940
 * **ASIN:** B01G4ABITQ
 * **Author:** PTmobile
-* **Release Date:** June 1, 2016 @ 07:38:43
+* **Release Date:** June 1, 2016 @ 08:38:43
 * **In-App Purchasing:** No

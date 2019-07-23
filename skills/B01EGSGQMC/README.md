@@ -20,5 +20,5 @@ This Alexa Skill is loaded with interesting facts based on the Elder Scrolls ser
 * **ID:** amzn1.echo-sdk-ams.app.d66d4b0b-8ab2-488f-8287-81dd444de254
 * **ASIN:** B01EGSGQMC
 * **Author:** mastash3ff
-* **Release Date:** April 20, 2016 @ 09:02:26
+* **Release Date:** April 20, 2016 @ 10:02:26
 * **In-App Purchasing:** No

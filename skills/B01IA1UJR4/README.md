@@ -20,5 +20,5 @@ Are you among the many thousands of Steely Dan fans that know all the songs by h
 * **ID:** amzn1.echo-sdk-ams.app.e2f3aca4-81cf-462c-83e6-8eac4843134e
 * **ASIN:** B01IA1UJR4
 * **Author:** BLT Robotics
-* **Release Date:** July 15, 2016 @ 08:57:25
+* **Release Date:** July 15, 2016 @ 09:57:25
 * **In-App Purchasing:** No

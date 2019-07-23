@@ -26,5 +26,5 @@ Play now and see if you can beat Alexa!
 * **ID:** amzn1.echo-sdk-ams.app.1b7713b0-bfd0-4831-8506-447384607766
 * **ASIN:** B01BW5JI0O
 * **Author:** Matt DuLeone
-* **Release Date:** February 17, 2016 @ 17:59:53
+* **Release Date:** February 17, 2016 @ 18:59:53
 * **In-App Purchasing:** No

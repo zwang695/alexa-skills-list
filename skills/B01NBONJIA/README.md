@@ -34,5 +34,5 @@ To advance to the next challenge you may say one of the following:
 * **ID:** amzn1.ask.skill.fc841627-ab77-46a4-bca3-79422948d0fe
 * **ASIN:** B01NBONJIA
 * **Author:** NA
-* **Release Date:** December 30, 2016 @ 04:49:20
+* **Release Date:** December 30, 2016 @ 05:49:20
 * **In-App Purchasing:** No

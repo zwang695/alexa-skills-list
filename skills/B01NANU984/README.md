@@ -20,5 +20,5 @@ When called upon, Celebrity Deaths will read a random celebrity death fact from 
 * **ID:** amzn1.ask.skill.39518b86-731d-4b4a-a40d-e1128f738215
 * **ASIN:** B01NANU984
 * **Author:** Lauren Siegel
-* **Release Date:** December 31, 2016 @ 04:18:47
+* **Release Date:** December 31, 2016 @ 05:18:47
 * **In-App Purchasing:** No

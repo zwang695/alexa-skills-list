@@ -34,7 +34,7 @@ Email us at support@youversion.com.
 * **ID:** amzn1.echo-sdk-ams.app.352b3321-ec68-4e88-be0e-94b6bb6d5b5c
 * **ASIN:** B017RXFNKY
 * **Author:** Life.Church
-* **Release Date:** November 9, 2015 @ 14:59:26
+* **Release Date:** November 9, 2015 @ 15:59:26
 * **Privacy Policy:** https://bible.com/privacy
 * **Terms of Use:** https://bible.com/terms
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.4513e637-355b-4623-97a3-c04c7dce9927
 * **ASIN:** B01MFBSS1C
 * **Author:** Bremer Tageszeitungen AG
-* **Release Date:** November 23, 2016 @ 16:05:19
+* **Release Date:** November 23, 2016 @ 17:05:19
 * **In-App Purchasing:** No

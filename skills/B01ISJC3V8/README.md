@@ -20,5 +20,5 @@ These are flash cards for teaching the capital cities of the United States. Desi
 * **ID:** amzn1.ask.skill.49ef75e4-e3bb-44f9-8eeb-f8850e1db323
 * **ASIN:** B01ISJC3V8
 * **Author:** Jeepney Labs
-* **Release Date:** July 26, 2016 @ 03:26:35
+* **Release Date:** July 26, 2016 @ 04:26:35
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This  skills gives delicious facts  about  tea
 * **ID:** amzn1.ask.skill.8e9bf02e-be5b-41c1-b73d-feb61b6622f1
 * **ASIN:** B01LJVO4BO
 * **Author:** DCOM
-* **Release Date:** September 5, 2016 @ 03:03:29
+* **Release Date:** September 5, 2016 @ 04:03:29
 * **In-App Purchasing:** No

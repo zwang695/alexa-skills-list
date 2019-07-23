@@ -20,5 +20,5 @@ The MakingASweetPotatoPie skill tells you how to make a sweet potato pie when yo
 * **ID:** amzn1.ask.skill.a4c4c595-4b0a-43e2-8638-415b7a1d9e51
 * **ASIN:** B01N7FQXB1
 * **Author:** Hop-A-Ride
-* **Release Date:** December 25, 2016 @ 00:48:55
+* **Release Date:** December 25, 2016 @ 01:48:55
 * **In-App Purchasing:** No

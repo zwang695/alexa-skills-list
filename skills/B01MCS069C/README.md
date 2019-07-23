@@ -16,5 +16,5 @@ Play a trivia game and learn more about the locations of the world landmarks.
 * **ID:** amzn1.ask.skill.f69f0edc-9d97-45f9-aed3-712c6278b602
 * **ASIN:** B01MCS069C
 * **Author:** Paulo Goncalves
-* **Release Date:** October 25, 2016 @ 01:49:16
+* **Release Date:** October 25, 2016 @ 02:49:16
 * **In-App Purchasing:** No

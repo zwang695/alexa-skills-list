@@ -22,5 +22,5 @@ Note: This skill is not affiliated with any car manufacturer in any way. It simp
 * **ID:** amzn1.ask.skill.f36c7733-77d8-46a4-b62c-40b85e4ea617
 * **ASIN:** B01N7J3YC2
 * **Author:** OctaBytes
-* **Release Date:** December 20, 2016 @ 08:20:26
+* **Release Date:** December 20, 2016 @ 09:20:26
 * **In-App Purchasing:** No

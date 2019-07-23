@@ -32,5 +32,5 @@ How do I remember seven two?
 * **ID:** amzn1.ask.skill.1c3ea361-6aee-4adb-9838-25efcfcfe150
 * **ASIN:** B01MAVV5HS
 * **Author:** NoSleep Software, LLC
-* **Release Date:** October 21, 2016 @ 15:43:46
+* **Release Date:** October 21, 2016 @ 16:43:46
 * **In-App Purchasing:** No

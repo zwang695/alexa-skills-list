@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.921dc3c7-75f2-4dce-86cf-c76eeda6c85f
 * **ASIN:** B01N2L6YQ9
 * **Author:** Juwelo TV Deutschland GmbH
-* **Release Date:** November 29, 2016 @ 04:36:01
+* **Release Date:** November 29, 2016 @ 05:36:01
 * **In-App Purchasing:** No

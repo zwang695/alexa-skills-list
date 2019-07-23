@@ -16,5 +16,5 @@ Use Alexa to hear helpful life hacks! New life hacks are being added each week!
 * **ID:** amzn1.echo-sdk-ams.app.db1c9476-3cf9-4f17-883b-7d499dce4dae
 * **ASIN:** B01JTT3TRI
 * **Author:** Troogle
-* **Release Date:** August 8, 2016 @ 08:37:31
+* **Release Date:** August 8, 2016 @ 09:37:31
 * **In-App Purchasing:** No

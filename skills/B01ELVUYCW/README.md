@@ -24,7 +24,7 @@ You can find your stop number on the placard in the bus zone, in your OneBusAway
 * **ID:** amzn1.echo-sdk-ams.app.616ea445-24b3-41bd-98e0-d2e732638056
 * **ASIN:** B01ELVUYCW
 * **Author:** OneBusAway
-* **Release Date:** April 27, 2016 @ 18:47:05
+* **Release Date:** April 27, 2016 @ 19:47:05
 * **Privacy Policy:** http://onebusaway.org/privacy/
 * **Terms of Use:** https://github.com/OneBusAway/onebusaway-alexa/blob/master/LICENSE
 * **In-App Purchasing:** No

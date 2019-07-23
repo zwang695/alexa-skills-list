@@ -20,5 +20,5 @@ Can't remember who the person behind the mask is? The Superheroes skill will rev
 * **ID:** amzn1.echo-sdk-ams.app.59b2b446-e3ef-4b72-9827-32ccb6bc2836
 * **ASIN:** B01DSDXNNQ
 * **Author:** Major Version
-* **Release Date:** April 7, 2016 @ 05:04:46
+* **Release Date:** April 7, 2016 @ 06:04:46
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Just ask Winston to give you one of this famous quotes or tell you something sma
 * **ID:** amzn1.echo-sdk-ams.app.510d6534-40db-4083-a35d-3de090a3c715
 * **ASIN:** B01IE34RC6
 * **Author:** FINIK LABS LLC
-* **Release Date:** July 21, 2016 @ 08:27:33
+* **Release Date:** July 21, 2016 @ 09:27:33
 * **In-App Purchasing:** No

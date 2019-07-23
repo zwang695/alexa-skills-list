@@ -22,5 +22,5 @@ Quotes obtained from publicly available resources. This skill/application is not
 * **ID:** amzn1.ask.skill.3b484fc0-af26-4617-baca-4288546b488f
 * **ASIN:** B01KAX78C4
 * **Author:** Blue Box Automation
-* **Release Date:** August 17, 2016 @ 05:52:24
+* **Release Date:** August 17, 2016 @ 06:52:24
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Swiss Valley Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.4fe16b64-5846-404c-bf23-6834f4b367f7
 * **ASIN:** B01M26UZ95
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:18:32
+* **Release Date:** October 21, 2016 @ 15:18:32
 * **In-App Purchasing:** No

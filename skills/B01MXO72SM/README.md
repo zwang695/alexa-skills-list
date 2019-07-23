@@ -20,5 +20,5 @@ This skill has been designed to educate users about patient engagement in the he
 * **ID:** amzn1.ask.skill.0fa98303-5633-4be1-8d18-94d2754412a0
 * **ASIN:** B01MXO72SM
 * **Author:** LifeLink Inc.
-* **Release Date:** November 25, 2016 @ 03:36:46
+* **Release Date:** November 25, 2016 @ 04:36:46
 * **In-App Purchasing:** No

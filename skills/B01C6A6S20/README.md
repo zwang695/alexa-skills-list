@@ -24,5 +24,5 @@ I'm open to feature requests! If you think alternative patterns like "<color> <a
 * **ID:** amzn1.echo-sdk-ams.app.c00ae347-78bf-4165-a1b1-6f302b5c6180
 * **ASIN:** B01C6A6S20
 * **Author:** Asim Ihsan
-* **Release Date:** February 24, 2016 @ 14:49:17
+* **Release Date:** February 24, 2016 @ 15:49:17
 * **In-App Purchasing:** No

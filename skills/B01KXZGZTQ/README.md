@@ -20,5 +20,5 @@ Learn about unofficial World Records facts.
 * **ID:** amzn1.ask.skill.2bc6facd-e600-443a-8674-ed80f73da8d2
 * **ASIN:** B01KXZGZTQ
 * **Author:** atang
-* **Release Date:** August 25, 2016 @ 02:31:46
+* **Release Date:** August 25, 2016 @ 03:31:46
 * **In-App Purchasing:** No

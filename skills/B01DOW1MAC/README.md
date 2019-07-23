@@ -20,5 +20,5 @@ The Langone Retreat Information Alexa Skill provides you with information about 
 * **ID:** amzn1.echo-sdk-ams.app.f3169acc-8bfa-4ddb-bb4c-4d127a5d74e9
 * **ASIN:** B01DOW1MAC
 * **Author:** Longboard 8
-* **Release Date:** April 19, 2016 @ 09:32:43
+* **Release Date:** April 19, 2016 @ 10:32:43
 * **In-App Purchasing:** No

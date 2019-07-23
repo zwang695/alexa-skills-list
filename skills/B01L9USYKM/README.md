@@ -20,5 +20,5 @@ Learn some facts about the history of computers. Learn the science of computers 
 * **ID:** amzn1.ask.skill.7234ebd1-30c8-485a-8de8-b399594afc2e
 * **ASIN:** B01L9USYKM
 * **Author:** Philip Tran Ba Vo
-* **Release Date:** October 3, 2016 @ 08:42:20
+* **Release Date:** October 3, 2016 @ 09:42:20
 * **In-App Purchasing:** No

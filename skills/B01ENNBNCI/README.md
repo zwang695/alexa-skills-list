@@ -20,7 +20,7 @@ ColorHex is allows you to convert between color names and their corresponding he
 * **ID:** amzn1.echo-sdk-ams.app.8de11fe7-d47f-4d40-af4d-8a5864ac3ca3
 * **ASIN:** B01ENNBNCI
 * **Author:** Noah
-* **Release Date:** April 28, 2016 @ 09:38:42
+* **Release Date:** April 28, 2016 @ 10:38:42
 * **Privacy Policy:** http://freetexthost.com/2m4dlw0eyr
 * **Terms of Use:** http://freetexthost.com/dhp0khue3g
 * **In-App Purchasing:** No

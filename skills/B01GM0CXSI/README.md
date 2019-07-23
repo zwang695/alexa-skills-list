@@ -35,5 +35,5 @@ Disclaimer: Meat temperatures for meats cooked to their optimal temperatures wer
 * **ID:** amzn1.echo-sdk-ams.app.f6faa47a-e9d1-4e8f-9d27-10518bd95fce
 * **ASIN:** B01GM0CXSI
 * **Author:** KWG
-* **Release Date:** June 14, 2016 @ 05:15:57
+* **Release Date:** June 14, 2016 @ 06:15:57
 * **In-App Purchasing:** No

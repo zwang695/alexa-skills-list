@@ -20,5 +20,5 @@ This gives you a some interesting language facts about Persian and Arabic and th
 * **ID:** amzn1.ask.skill.b08d07d8-58a9-412a-bf7c-94cacd228a01
 * **ASIN:** B01JDK9IFA
 * **Author:** Ben Duncan
-* **Release Date:** August 3, 2016 @ 08:11:34
+* **Release Date:** August 3, 2016 @ 09:11:34
 * **In-App Purchasing:** No

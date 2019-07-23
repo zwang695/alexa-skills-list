@@ -20,5 +20,5 @@ This skill chooses a fact at random from a list of cool facts, of varied genre, 
 * **ID:** amzn1.ask.skill.9426aced-cdfd-4b08-ac3c-aec0faca8952
 * **ASIN:** B01NCOB802
 * **Author:** Vritant Bhardwaj
-* **Release Date:** December 25, 2016 @ 04:48:42
+* **Release Date:** December 25, 2016 @ 05:48:42
 * **In-App Purchasing:** No

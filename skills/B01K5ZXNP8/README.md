@@ -20,5 +20,5 @@ Alexa will prompt you with a command line command (sometimes spelled out), like,
 * **ID:** amzn1.ask.skill.9747db2e-29b8-4739-a2e9-7fc9d4dcf9be
 * **ASIN:** B01K5ZXNP8
 * **Author:** JasonL
-* **Release Date:** August 12, 2016 @ 05:07:25
+* **Release Date:** August 12, 2016 @ 06:07:25
 * **In-App Purchasing:** No

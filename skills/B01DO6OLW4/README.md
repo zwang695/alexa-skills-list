@@ -34,6 +34,6 @@ We want you to do more with your Alexa-enabled device. Meet us on https://smswit
 * **ID:** amzn1.echo-sdk-ams.app.f7afb5b1-26f3-48d4-b62b-66e7cbba7a47
 * **ASIN:** B01DO6OLW4
 * **Author:** Molly
-* **Release Date:** April 1, 2016 @ 15:32:29
+* **Release Date:** April 1, 2016 @ 16:32:29
 * **Privacy Policy:** https://smswithmolly.com/privacy
 * **In-App Purchasing:** No

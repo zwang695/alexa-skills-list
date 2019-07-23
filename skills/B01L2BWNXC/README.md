@@ -20,5 +20,5 @@ Get a joke from Alexa to start your day on a happy note!
 * **ID:** amzn1.ask.skill.73616480-b446-457d-a9fd-d8597f7dc4d0
 * **ASIN:** B01L2BWNXC
 * **Author:** Househelp
-* **Release Date:** August 29, 2016 @ 01:33:20
+* **Release Date:** August 29, 2016 @ 02:33:20
 * **In-App Purchasing:** No

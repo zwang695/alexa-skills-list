@@ -19,5 +19,5 @@ Note: This skill is not sponsored or endorsed by Lucasfilm Ltd or CBS Studios In
 * **ID:** amzn1.ask.skill.f3214fdf-a8f4-4612-8f30-0ed78f8f29e7
 * **ASIN:** B01N7CSEPJ
 * **Author:** Andrew Lazar
-* **Release Date:** December 6, 2016 @ 05:49:09
+* **Release Date:** December 6, 2016 @ 06:49:09
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask Alexa to tell you facts about Huntington Beach, California.
 * **ID:** amzn1.ask.skill.1950ec0b-7e40-453d-8522-6e14e4741fc4
 * **ASIN:** B01N6GNS5I
 * **Author:** Andrew Khoury
-* **Release Date:** December 19, 2016 @ 03:49:42
+* **Release Date:** December 19, 2016 @ 04:49:42
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill tells an interesting fact about Chicago city.
 * **ID:** amzn1.echo-sdk-ams.app.c18b2eba-213e-4230-893b-436d138eac68
 * **ASIN:** B01HCGH7FU
 * **Author:** Brahmansh Singh
-* **Release Date:** June 22, 2016 @ 06:15:44
+* **Release Date:** June 22, 2016 @ 07:15:44
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Contact me at tinystarship.com if you have any questions / comments.
 * **ID:** amzn1.echo-sdk-ams.app.a62131ee-2859-4ce8-9b25-14b5a496b3fd
 * **ASIN:** B01E6072QE
 * **Author:** Tiny Starship
-* **Release Date:** April 14, 2016 @ 17:32:54
+* **Release Date:** April 14, 2016 @ 18:32:54
 * **In-App Purchasing:** No

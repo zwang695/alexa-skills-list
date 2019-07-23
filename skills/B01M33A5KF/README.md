@@ -20,5 +20,5 @@ this alexa skill will calculate the tithing, 10% of a wage amount given.
 * **ID:** amzn1.ask.skill.d8374e73-7e2e-486f-a340-dc80419337ff
 * **ASIN:** B01M33A5KF
 * **Author:** Lehi Alcantara
-* **Release Date:** November 16, 2016 @ 02:06:27
+* **Release Date:** November 16, 2016 @ 03:06:27
 * **In-App Purchasing:** No

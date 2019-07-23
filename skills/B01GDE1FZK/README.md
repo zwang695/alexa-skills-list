@@ -26,5 +26,5 @@ my answer is one (or two, three, four)
 * **ID:** amzn1.echo-sdk-ams.app.ac9ccf56-5be2-4923-867c-e25d31413f01
 * **ASIN:** B01GDE1FZK
 * **Author:** Sofia Tania
-* **Release Date:** June 1, 2016 @ 05:38:32
+* **Release Date:** June 1, 2016 @ 06:38:32
 * **In-App Purchasing:** No

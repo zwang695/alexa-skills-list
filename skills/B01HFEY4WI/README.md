@@ -20,5 +20,5 @@ Math Stream goes beyond basic addition and subtraction of just two numbers by al
 * **ID:** amzn1.echo-sdk-ams.app.12714fb0-74a2-4fd0-8921-6954adc533bb
 * **ASIN:** B01HFEY4WI
 * **Author:** Kevin Crowe
-* **Release Date:** June 27, 2016 @ 08:15:39
+* **Release Date:** June 27, 2016 @ 09:15:39
 * **In-App Purchasing:** No

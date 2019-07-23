@@ -20,5 +20,5 @@ This skill can get you the last result of you favorite team in LA LIGA and Permi
 * **ID:** amzn1.ask.skill.9287c90f-6732-435a-a871-bc647c202aa1
 * **ASIN:** B01LXKRFVU
 * **Author:** Majeed Alibrahim
-* **Release Date:** October 3, 2016 @ 06:42:21
+* **Release Date:** October 3, 2016 @ 07:42:21
 * **In-App Purchasing:** No

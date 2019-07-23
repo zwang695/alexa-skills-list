@@ -20,5 +20,5 @@ The Ski Sawmill Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.52ff1c3c-1ce9-46bc-a9f4-a582c6c2ff11
 * **ASIN:** B01MRF012Z
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:17:52
+* **Release Date:** November 4, 2016 @ 09:17:52
 * **In-App Purchasing:** No

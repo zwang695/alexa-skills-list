@@ -20,5 +20,5 @@ Learn something new every morning with Alexa
 * **ID:** amzn1.ask.skill.8d425812-0efe-4487-99fc-4e7c70adcfd8
 * **ASIN:** B01NAJ9GNS
 * **Author:** Catie Cook
-* **Release Date:** December 15, 2016 @ 02:19:32
+* **Release Date:** December 15, 2016 @ 03:19:32
 * **In-App Purchasing:** No

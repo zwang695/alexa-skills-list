@@ -20,5 +20,5 @@ My long board geek provides random facts about longboarding!
 * **ID:** amzn1.ask.skill.cf0f5484-8d84-42aa-9384-013ec6a443bc
 * **ASIN:** B01N1OD3EH
 * **Author:** KBroton
-* **Release Date:** December 7, 2016 @ 02:49:19
+* **Release Date:** December 7, 2016 @ 03:49:19
 * **In-App Purchasing:** No

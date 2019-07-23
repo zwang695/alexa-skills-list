@@ -24,5 +24,5 @@ Alexa, Ask Albert Einstein Facts to tell me a fact.
 * **ID:** amzn1.echo-sdk-ams.app.40775819-ac5b-41af-901c-f287258942ff
 * **ASIN:** B01FJV7BO2
 * **Author:** wesee
-* **Release Date:** May 16, 2016 @ 06:08:41
+* **Release Date:** May 16, 2016 @ 07:08:41
 * **In-App Purchasing:** No

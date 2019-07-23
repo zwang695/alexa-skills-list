@@ -20,5 +20,5 @@ Trivia game about various Caribbean destinations. Alexa will provide five questi
 * **ID:** amzn1.ask.skill.7aa2346e-8997-4169-9aa0-fb7c483f31c2
 * **ASIN:** B01IW3F2PO
 * **Author:** House Smart Technologies
-* **Release Date:** July 25, 2016 @ 01:56:36
+* **Release Date:** July 25, 2016 @ 02:56:36
 * **In-App Purchasing:** No

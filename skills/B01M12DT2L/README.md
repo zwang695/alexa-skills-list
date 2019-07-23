@@ -20,5 +20,5 @@ The purpose of this skill is to provide interesting company facts that the users
 * **ID:** amzn1.ask.skill.66c0fbbd-cc85-4e5f-b516-7d9cc5222fbd
 * **ASIN:** B01M12DT2L
 * **Author:** Plug and Play
-* **Release Date:** September 20, 2016 @ 01:43:01
+* **Release Date:** September 20, 2016 @ 02:43:01
 * **In-App Purchasing:** No

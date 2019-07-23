@@ -20,5 +20,5 @@ This Simple skill will let you know which recycling products are being picked up
 * **ID:** amzn1.ask.skill.a0ed6df0-4517-4445-91b8-cf6ea79650f3
 * **ASIN:** B01MZXKW6K
 * **Author:** Tomorow's Computing Solutions
-* **Release Date:** November 26, 2016 @ 05:05:04
+* **Release Date:** November 26, 2016 @ 06:05:04
 * **In-App Purchasing:** No

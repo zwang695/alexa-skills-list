@@ -20,5 +20,5 @@ To use the Movie Trivia skill, try saying...
 * **ID:** amzn1.ask.skill.e90069e2-0164-4e4d-bccb-0327a2e012f1
 * **ASIN:** B01M0D56CR
 * **Author:** Hughes
-* **Release Date:** October 6, 2016 @ 08:42:04
+* **Release Date:** October 6, 2016 @ 09:42:04
 * **In-App Purchasing:** No

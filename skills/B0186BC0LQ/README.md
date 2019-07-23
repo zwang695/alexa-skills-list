@@ -31,7 +31,7 @@ For extended help and examples of using this skill, please visit http://gobbyapp
 * **ID:** amzn1.echo-sdk-ams.app.e34957a2-abd8-4d5e-a2ab-fca4c4a9562b
 * **ASIN:** B0186BC0LQ
 * **Author:** Gobby Apps
-* **Release Date:** November 23, 2015 @ 13:18:29
+* **Release Date:** November 23, 2015 @ 14:18:29
 * **Privacy Policy:** http://gobbyapps.com/privacy
 * **Terms of Use:** http://gobbyapps.com/tos
 * **In-App Purchasing:** No

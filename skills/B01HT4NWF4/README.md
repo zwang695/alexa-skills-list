@@ -73,5 +73,5 @@ Wyoming
 * **ID:** amzn1.echo-sdk-ams.app.77eb3611-3810-4b2c-b348-a5960e34ee14
 * **ASIN:** B01HT4NWF4
 * **Author:** Sary Brave
-* **Release Date:** July 4, 2016 @ 03:27:40
+* **Release Date:** July 4, 2016 @ 04:27:40
 * **In-App Purchasing:** No

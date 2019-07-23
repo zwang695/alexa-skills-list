@@ -20,5 +20,5 @@ Learn more about the professional football team from Seattle with Seahawks facts
 * **ID:** amzn1.ask.skill.5a5fc902-cf78-4201-bd12-71e1a05cfec3
 * **ASIN:** B01LYNW26V
 * **Author:** evanyfc
-* **Release Date:** October 4, 2016 @ 05:42:23
+* **Release Date:** October 4, 2016 @ 06:42:23
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Going vegan is quite simply the most important decision anyone can make. The imp
 * **ID:** amzn1.ask.skill.156e8fa5-f7c5-43e3-95d7-280983cccbb2
 * **ASIN:** B01LX2WRV9
 * **Author:** Ethan Kenneth Technologies
-* **Release Date:** October 4, 2016 @ 03:12:45
+* **Release Date:** October 4, 2016 @ 04:12:45
 * **In-App Purchasing:** No

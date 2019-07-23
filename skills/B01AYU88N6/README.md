@@ -21,5 +21,5 @@ Try completing the game in less than 45 seconds.
 * **ID:** amzn1.echo-sdk-ams.app.eab87f32-c2dc-499b-83c5-ff63c3ddb255
 * **ASIN:** B01AYU88N6
 * **Author:** VIVEK YADAV
-* **Release Date:** January 22, 2016 @ 20:48:32
+* **Release Date:** January 22, 2016 @ 21:48:32
 * **In-App Purchasing:** No

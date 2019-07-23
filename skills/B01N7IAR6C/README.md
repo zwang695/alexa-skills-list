@@ -18,5 +18,5 @@ Generate random passwords with Alexa. At the next version it will allow more per
 * **ID:** amzn1.ask.skill.98222334-5d07-4411-85c8-9ebd71309be6
 * **ASIN:** B01N7IAR6C
 * **Author:** Adrian Tello
-* **Release Date:** December 19, 2016 @ 01:49:49
+* **Release Date:** December 19, 2016 @ 02:49:49
 * **In-App Purchasing:** No

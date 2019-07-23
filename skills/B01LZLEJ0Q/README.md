@@ -20,5 +20,5 @@ Looking for a way to challenge your knowledge of history?  This brief quiz cover
 * **ID:** amzn1.ask.skill.c425d705-863e-4761-8951-e867067f4677
 * **ASIN:** B01LZLEJ0Q
 * **Author:** Drawrz.com
-* **Release Date:** October 3, 2016 @ 02:42:22
+* **Release Date:** October 3, 2016 @ 03:42:22
 * **In-App Purchasing:** No

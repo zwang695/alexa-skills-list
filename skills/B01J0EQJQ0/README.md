@@ -20,5 +20,5 @@ If your friends have ever questioned just how cool of a state Connecticut really
 * **ID:** amzn1.ask.skill.d9fd1895-5b85-45d6-82ba-7701cc9a4098
 * **ASIN:** B01J0EQJQ0
 * **Author:** chadioo
-* **Release Date:** July 25, 2016 @ 19:26:24
+* **Release Date:** July 25, 2016 @ 20:26:24
 * **In-App Purchasing:** No

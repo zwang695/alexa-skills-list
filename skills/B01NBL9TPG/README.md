@@ -18,5 +18,5 @@ This skill tells facts about mommy
 * **ID:** amzn1.ask.skill.d421760c-2be4-408a-8d1d-7a8d43668439
 * **ASIN:** B01NBL9TPG
 * **Author:** theduds
-* **Release Date:** December 19, 2016 @ 03:49:35
+* **Release Date:** December 19, 2016 @ 04:49:35
 * **In-App Purchasing:** No

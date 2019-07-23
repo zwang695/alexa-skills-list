@@ -20,5 +20,5 @@ The Mount Jefferson Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.2878349a-536f-4ce3-ab0d-1ad7ffd82ac2
 * **ASIN:** B01M26VN96
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:15:32
+* **Release Date:** October 21, 2016 @ 15:15:32
 * **In-App Purchasing:** No

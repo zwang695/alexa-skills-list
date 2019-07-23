@@ -20,5 +20,5 @@ Programmer Jokes is a skill that gives you a random pun that is related to progr
 * **ID:** amzn1.ask.skill.638d408d-3732-47d7-b2e7-ae0b33896c6f
 * **ASIN:** B01LWOJPCU
 * **Author:** Takkun
-* **Release Date:** October 4, 2016 @ 02:12:41
+* **Release Date:** October 4, 2016 @ 03:12:41
 * **In-App Purchasing:** No

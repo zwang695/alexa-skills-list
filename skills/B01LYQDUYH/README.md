@@ -20,5 +20,5 @@ The Sierra at Tahoe Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.87133f57-50f7-460c-8c00-d90e1f0c2b12
 * **ASIN:** B01LYQDUYH
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:16:27
+* **Release Date:** October 20, 2016 @ 04:16:27
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ The purpose of this skill is to learn more about hip hop albums, artists, and ly
 * **ID:** amzn1.ask.skill.099ee318-45ec-478d-9270-8ef2e530f413
 * **ASIN:** B01IQQ5KHC
 * **Author:** TeachSpaces
-* **Release Date:** July 25, 2016 @ 07:56:47
+* **Release Date:** July 25, 2016 @ 08:56:47
 * **Privacy Policy:** https://larrykubin.github.io/privacy.html
 * **Terms of Use:** https://larrykubin.github.io/tos.html
 * **In-App Purchasing:** No

@@ -73,5 +73,5 @@ Alexa, ask Chef Basil how long will the recipe take
 * **ID:** amzn1.echo-sdk-ams.app.2f945ecc-1e08-4df9-a33e-f309e2991aaa
 * **ASIN:** B01FPZD966
 * **Author:** Chef Prep
-* **Release Date:** May 26, 2016 @ 10:38:53
+* **Release Date:** May 26, 2016 @ 11:38:53
 * **In-App Purchasing:** No

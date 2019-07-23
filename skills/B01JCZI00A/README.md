@@ -20,5 +20,5 @@ Ask hazmat will satisfy your curiosity when you or your children see a commercia
 * **ID:** amzn1.ask.skill.263ddb23-fa47-4c8b-894d-f7c17353e48a
 * **ASIN:** B01JCZI00A
 * **Author:** Espark
-* **Release Date:** August 5, 2016 @ 05:07:30
+* **Release Date:** August 5, 2016 @ 06:07:30
 * **In-App Purchasing:** No

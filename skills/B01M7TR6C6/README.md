@@ -20,5 +20,5 @@ The Cannon Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.74d75497-4558-4527-81cb-1aa40f660049
 * **ASIN:** B01M7TR6C6
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:47:10
+* **Release Date:** October 26, 2016 @ 02:47:10
 * **In-App Purchasing:** No

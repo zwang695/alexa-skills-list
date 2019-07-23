@@ -24,5 +24,5 @@ Bollywood Quiz with more questions added frequently, have questions of your own 
 * **ID:** amzn1.ask.skill.4f13e902-0bae-44a7-94a4-74930493db30
 * **ASIN:** B01LXZSNKO
 * **Author:** Kwilp
-* **Release Date:** October 4, 2016 @ 02:43:36
+* **Release Date:** October 4, 2016 @ 03:43:36
 * **In-App Purchasing:** No

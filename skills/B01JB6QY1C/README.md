@@ -20,5 +20,5 @@ Parents of teenagers can learn how prevalent teenage prescription drug abuse is 
 * **ID:** amzn1.echo-sdk-ams.app.10a0f089-3261-4828-9d96-238b33d1c6e3
 * **ASIN:** B01JB6QY1C
 * **Author:** MTM Research
-* **Release Date:** August 8, 2016 @ 05:07:54
+* **Release Date:** August 8, 2016 @ 06:07:54
 * **In-App Purchasing:** No

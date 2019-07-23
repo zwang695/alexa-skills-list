@@ -26,5 +26,5 @@ It provides the following details :
 * **ID:** amzn1.ask.skill.3fc9bde9-8774-4d8c-94f0-3ae1b4e9b6aa
 * **ASIN:** B01J5K6UPE
 * **Author:** Piyush Hari
-* **Release Date:** July 29, 2016 @ 08:26:51
+* **Release Date:** July 29, 2016 @ 09:26:51
 * **In-App Purchasing:** No

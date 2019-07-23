@@ -20,5 +20,5 @@ Study the U.S. state capitals with this multiple choice trivia skill. You will b
 * **ID:** amzn1.echo-sdk-ams.app.e008ccd5-05cd-4079-a8a4-f025ca48bba6
 * **ASIN:** B01ICMVUA6
 * **Author:** 8-bit Orchestra
-* **Release Date:** July 13, 2016 @ 03:57:53
+* **Release Date:** July 13, 2016 @ 04:57:53
 * **In-App Purchasing:** No

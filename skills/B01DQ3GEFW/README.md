@@ -20,5 +20,5 @@ Ask Dino Facts for cool information about dinosaurs that you never knew. Learn s
 * **ID:** amzn1.echo-sdk-ams.app.552b00cc-b450-4565-b290-6a76b7569f8f
 * **ASIN:** B01DQ3GEFW
 * **Author:** Happy Monkey Heavy Industries
-* **Release Date:** May 3, 2016 @ 17:38:26
+* **Release Date:** May 3, 2016 @ 18:38:26
 * **In-App Purchasing:** No

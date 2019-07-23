@@ -20,5 +20,5 @@ The Nakiska Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.e90695ba-0050-4453-8194-4a3eec98e98f
 * **ASIN:** B01M18M2FF
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:46:45
+* **Release Date:** October 20, 2016 @ 04:46:45
 * **In-App Purchasing:** No

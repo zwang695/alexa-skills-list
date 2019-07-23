@@ -20,5 +20,5 @@ Teaches people facts about neural nets, or also known as artificial neural netwo
 * **ID:** amzn1.ask.skill.152a67fb-f9da-4eaa-a581-07196d1d14c6
 * **ASIN:** B01KVTYXHU
 * **Author:** atang
-* **Release Date:** August 25, 2016 @ 02:03:16
+* **Release Date:** August 25, 2016 @ 03:03:16
 * **In-App Purchasing:** No

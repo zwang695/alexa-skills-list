@@ -21,7 +21,7 @@ you need to deal with minor emergencies such as cuts, scrapes, nosebleeds, and m
 * **ID:** amzn1.echo-sdk-ams.app.5122fc05-ce5f-4d6a-9f17-094da9867381
 * **ASIN:** B01COSUL7C
 * **Author:** Wayne Brooks
-* **Release Date:** March 8, 2016 @ 01:00:35
+* **Release Date:** March 8, 2016 @ 02:00:35
 * **Privacy Policy:** http://myEggheads.com
 * **Terms of Use:** http://myEggheads.com
 * **In-App Purchasing:** No

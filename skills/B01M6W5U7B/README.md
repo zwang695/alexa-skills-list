@@ -55,5 +55,5 @@ Add a half hour of data entry
 * **ID:** amzn1.ask.skill.c282cd99-d4fa-40e4-ad14-84018f0c1099
 * **ASIN:** B01M6W5U7B
 * **Author:** NoSleep Software, LLC
-* **Release Date:** October 21, 2016 @ 15:43:40
+* **Release Date:** October 21, 2016 @ 16:43:40
 * **In-App Purchasing:** No

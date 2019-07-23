@@ -20,5 +20,5 @@ Are you a scholar, educator, or someone who just plain loves learning new words?
 * **ID:** amzn1.echo-sdk-ams.app.ba54358d-ea2f-4bb8-b40f-320aa2d5a108
 * **ASIN:** B01DPVVCLG
 * **Author:** CaptainQuirk
-* **Release Date:** April 5, 2016 @ 17:02:31
+* **Release Date:** April 5, 2016 @ 18:02:31
 * **In-App Purchasing:** No

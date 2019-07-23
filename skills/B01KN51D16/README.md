@@ -30,7 +30,7 @@ Alexa, ask Bloomberg to give me Tesla's latest price.
 * **ID:** amzn1.echo-sdk-ams.app.3fd6ae6c-5219-41c4-a916-3876c5e79083
 * **ASIN:** B01KN51D16
 * **Author:** Bloomberg
-* **Release Date:** October 12, 2016 @ 20:18:33
+* **Release Date:** October 12, 2016 @ 21:18:33
 * **Privacy Policy:** http://www.bloomberg.com/notices/privacy/
 * **Terms of Use:** http://www.bloomberg.com/notices/tos/
 * **In-App Purchasing:** No

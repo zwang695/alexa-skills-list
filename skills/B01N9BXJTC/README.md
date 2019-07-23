@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.c6c9e271-d57e-4547-b1d2-5d76ead5e92c
 * **ASIN:** B01N9BXJTC
 * **Author:** Simon Müller
-* **Release Date:** December 6, 2016 @ 01:36:26
+* **Release Date:** December 6, 2016 @ 02:36:26
 * **In-App Purchasing:** No

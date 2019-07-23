@@ -20,5 +20,5 @@ The Thunder Ridge Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.445b0c00-6c81-4e77-b3e0-e5f97073256b
 * **ASIN:** B01M4NB8CO
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:45:00
+* **Release Date:** October 26, 2016 @ 04:45:00
 * **In-App Purchasing:** No

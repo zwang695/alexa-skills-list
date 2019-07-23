@@ -20,5 +20,5 @@ The Sundance Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.1b8cbb0d-304c-4949-9a56-ab64eb05e757
 * **ASIN:** B01MQDV9OD
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:43:38
+* **Release Date:** November 4, 2016 @ 09:43:38
 * **In-App Purchasing:** No

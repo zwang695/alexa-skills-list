@@ -20,5 +20,5 @@ This skill gives you a random, crowdsourced suggestion for an idea for a local a
 * **ID:** amzn1.echo-sdk-ams.app.24d90ad8-0518-4495-b96d-2a77833245b1
 * **ASIN:** B01H7ICBEA
 * **Author:** Josh Campbell
-* **Release Date:** June 25, 2016 @ 02:15:55
+* **Release Date:** June 25, 2016 @ 03:15:55
 * **In-App Purchasing:** No

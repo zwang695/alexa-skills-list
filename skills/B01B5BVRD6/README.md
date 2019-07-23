@@ -22,5 +22,5 @@ This game is fun to play individually or compete with  family and friends to be 
 * **ID:** amzn1.echo-sdk-ams.app.ebbd4638-66e7-4e56-9daf-7c49c685eb5e
 * **ASIN:** B01B5BVRD6
 * **Author:** Priya
-* **Release Date:** January 27, 2016 @ 16:55:57
+* **Release Date:** January 27, 2016 @ 17:55:57
 * **In-App Purchasing:** No

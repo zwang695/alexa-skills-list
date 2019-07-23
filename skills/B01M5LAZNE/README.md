@@ -20,5 +20,5 @@ Alexa will compliment you, if you ask.
 * **ID:** amzn1.ask.skill.585506b1-d0d0-46be-958b-000075f443ad
 * **ASIN:** B01M5LAZNE
 * **Author:** Kristine Nguyen
-* **Release Date:** November 16, 2016 @ 02:06:05
+* **Release Date:** November 16, 2016 @ 03:06:05
 * **In-App Purchasing:** No

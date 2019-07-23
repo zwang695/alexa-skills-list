@@ -20,5 +20,5 @@ Are you interested in wolves? Just tell Alexa to use Wolf Facts to give some inf
 * **ID:** amzn1.ask.skill.83035ffc-18cc-4057-8e8f-a6dca6759372
 * **ASIN:** B01M319RHO
 * **Author:** Javier Pita
-* **Release Date:** October 27, 2016 @ 07:15:18
+* **Release Date:** October 27, 2016 @ 08:15:18
 * **In-App Purchasing:** No

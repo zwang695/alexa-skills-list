@@ -21,5 +21,5 @@ or "what the latest news is" or "give me the news" or "the news" or "latest news
 * **ID:** amzn1.echo-sdk-ams.app.60378b74-5ab5-424e-98a4-e8fe71faf8e6
 * **ASIN:** B01DBF7SJG
 * **Author:** Skyiwave Pvt. Ltd.
-* **Release Date:** March 23, 2016 @ 00:41:31
+* **Release Date:** March 23, 2016 @ 01:41:31
 * **In-App Purchasing:** No

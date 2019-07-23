@@ -20,5 +20,5 @@ The Alpine Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.a9457c2f-3689-4ba0-adda-edda951c6bcd
 * **ASIN:** B01M3YQ564
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:14:33
+* **Release Date:** November 4, 2016 @ 09:14:33
 * **In-App Purchasing:** No

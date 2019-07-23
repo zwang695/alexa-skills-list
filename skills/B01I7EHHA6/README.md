@@ -20,5 +20,5 @@ Hear inspirational quotes by famous people
 * **ID:** amzn1.echo-sdk-ams.app.f9a90b84-7b2f-4036-a8e6-4f96562dd215
 * **ASIN:** B01I7EHHA6
 * **Author:** Zenseio
-* **Release Date:** July 13, 2016 @ 06:27:38
+* **Release Date:** July 13, 2016 @ 07:27:38
 * **In-App Purchasing:** No

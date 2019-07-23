@@ -20,7 +20,7 @@ You are the Commander of your own naval attack class submarine. You are tasked w
 * **ID:** amzn1.echo-sdk-ams.app.0b6700db-7632-4b84-9c3e-d6d9b9e87aeb
 * **ASIN:** B01FGDUM30
 * **Author:** TsaTsaTzu
-* **Release Date:** May 17, 2016 @ 07:08:41
+* **Release Date:** May 17, 2016 @ 08:08:41
 * **Privacy Policy:** http://ocean-of-storms.com/tsatsatzu/legal/sl_privacy.htm
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/sl_terms.htm
 * **In-App Purchasing:** No

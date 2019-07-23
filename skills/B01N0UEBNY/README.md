@@ -20,5 +20,5 @@ How much do you know about the Jewish holiday of Hanukkah? What does it commemor
 * **ID:** amzn1.ask.skill.0399e864-597e-4b5f-932c-e500881002bc
 * **ASIN:** B01N0UEBNY
 * **Author:** Sono Sanus
-* **Release Date:** December 26, 2016 @ 02:19:16
+* **Release Date:** December 26, 2016 @ 03:19:16
 * **In-App Purchasing:** No

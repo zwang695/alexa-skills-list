@@ -20,5 +20,5 @@ This skill enables you to say what type of mama joke you want back. The joke cat
 * **ID:** amzn1.echo-sdk-ams.app.68968c30-b3b0-43a9-86a3-10fdc7b7f169
 * **ASIN:** B01HN7Y0IU
 * **Author:** Pariece McKinney
-* **Release Date:** July 19, 2016 @ 06:57:53
+* **Release Date:** July 19, 2016 @ 07:57:53
 * **In-App Purchasing:** No

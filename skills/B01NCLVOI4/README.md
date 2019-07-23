@@ -18,5 +18,5 @@ The purpose of this skill is to be a quick and easy way to be reminded how to sp
 * **ID:** amzn1.ask.skill.0b8a3c51-3168-4684-9552-5d79126af7cb
 * **ASIN:** B01NCLVOI4
 * **Author:** Codifying Solutions
-* **Release Date:** December 18, 2016 @ 05:49:18
+* **Release Date:** December 18, 2016 @ 06:49:18
 * **In-App Purchasing:** No

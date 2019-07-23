@@ -22,5 +22,5 @@ Just say 'Alex play Chapman Trivia' and enjoy!
 * **ID:** amzn1.echo-sdk-ams.app.a3f81bd4-c7d0-47da-a6c9-2fb41bafe796
 * **ASIN:** B01HLFFABA
 * **Author:** Brown Dog Productions
-* **Release Date:** June 27, 2016 @ 04:45:35
+* **Release Date:** June 27, 2016 @ 05:45:35
 * **In-App Purchasing:** No

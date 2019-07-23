@@ -20,5 +20,5 @@ this  skill  gives  you  facts  about  telescopes
 * **ID:** amzn1.ask.skill.91cd74c2-677e-4196-9631-7d82ea1f528b
 * **ASIN:** B01LIFW7FQ
 * **Author:** DCOM
-* **Release Date:** September 5, 2016 @ 03:03:24
+* **Release Date:** September 5, 2016 @ 04:03:24
 * **In-App Purchasing:** No

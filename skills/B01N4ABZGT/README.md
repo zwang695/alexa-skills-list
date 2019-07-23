@@ -20,5 +20,5 @@ This app spreads Christmas cheer with a song. Please enjoy!
 * **ID:** amzn1.ask.skill.19e3955c-295b-4bc9-9e80-18464837b793
 * **ASIN:** B01N4ABZGT
 * **Author:** Alex W
-* **Release Date:** December 4, 2016 @ 23:35:27
+* **Release Date:** December 5, 2016 @ 00:35:27
 * **In-App Purchasing:** No

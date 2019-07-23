@@ -23,5 +23,5 @@ You simply ask Nocturnal Ninja who is going to be on the weeknight talk show usi
 * **ID:** amzn1.echo-sdk-ams.app.f3c3b651-1a73-4c64-bafe-1f7dd9a9ae28
 * **ASIN:** B01GGINX3U
 * **Author:** Aaron Koz
-* **Release Date:** June 10, 2016 @ 08:10:15
+* **Release Date:** June 10, 2016 @ 09:10:15
 * **In-App Purchasing:** No

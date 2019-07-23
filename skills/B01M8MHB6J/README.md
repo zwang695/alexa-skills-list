@@ -20,5 +20,5 @@ The Woods Valley Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.6de1dda6-a962-45df-bf3e-2c224db112b8
 * **ASIN:** B01M8MHB6J
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:46:02
+* **Release Date:** October 26, 2016 @ 04:46:02
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Start Tennessee Trivia and you'll be greeted with a number of questions about th
 * **ID:** amzn1.echo-sdk-ams.app.e64f71ef-5f57-4946-8987-be100fe3e09a
 * **ASIN:** B01HP1050G
 * **Author:** Andy Roberts
-* **Release Date:** July 4, 2016 @ 02:57:34
+* **Release Date:** July 4, 2016 @ 03:57:34
 * **In-App Purchasing:** No

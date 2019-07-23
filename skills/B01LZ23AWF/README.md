@@ -20,5 +20,5 @@ The Vail Resort Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.61c142ed-1220-4ca8-abfe-d3d3c8f574b0
 * **ASIN:** B01LZ23AWF
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:13:06
+* **Release Date:** October 19, 2016 @ 12:13:06
 * **In-App Purchasing:** No

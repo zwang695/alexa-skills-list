@@ -29,5 +29,5 @@ For more details about the Husseini Islamic Center, visit our website at http://
 * **ID:** amzn1.ask.skill.ddc924f4-dfaf-4863-ae2c-886f932080cf
 * **ASIN:** B01NBJP14J
 * **Author:** Munsifali Rashid
-* **Release Date:** December 22, 2016 @ 09:19:17
+* **Release Date:** December 22, 2016 @ 10:19:17
 * **In-App Purchasing:** No

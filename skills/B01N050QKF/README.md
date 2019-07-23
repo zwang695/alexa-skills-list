@@ -20,5 +20,5 @@ The Mont Orford Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.0470664c-672f-45e8-9047-be7c27783aa4
 * **ASIN:** B01N050QKF
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:13:06
+* **Release Date:** November 5, 2016 @ 12:13:06
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ This is a skill that returns random quotes.
 * **ID:** amzn1.ask.skill.c416b208-081b-448f-ab4a-13a2158cec73
 * **ASIN:** B01MSK3BMC
 * **Author:** Tim Stuart
-* **Release Date:** November 25, 2016 @ 03:39:59
+* **Release Date:** November 25, 2016 @ 04:39:59
 * **In-App Purchasing:** No

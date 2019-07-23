@@ -20,7 +20,7 @@ Word of the Day will give the Macmillian Dictionary's word of the day.   Just sa
 * **ID:** amzn1.ask.skill.4fa379c0-8776-4e2e-a01f-d38a7f4422f4
 * **ASIN:** B01J8ID35I
 * **Author:** Digital Spring Apps
-* **Release Date:** July 29, 2016 @ 07:56:42
+* **Release Date:** July 29, 2016 @ 08:56:42
 * **Privacy Policy:** http://www.digitalspring.com/mtprivacy
 * **Terms of Use:** http://www.digitalspring.com/mtprivacy
 * **In-App Purchasing:** No

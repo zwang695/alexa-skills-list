@@ -27,5 +27,5 @@ Optionally "and let's beat the {mascot}" or "and let's beat {college}"  can be i
 * **ID:** amzn1.echo-sdk-ams.app.a6146902-585f-43ee-bc01-06aadaeca282
 * **ASIN:** B01DEA97CE
 * **Author:** hogfanboy
-* **Release Date:** March 24, 2016 @ 16:08:12
+* **Release Date:** March 24, 2016 @ 17:08:12
 * **In-App Purchasing:** No

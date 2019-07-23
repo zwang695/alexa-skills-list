@@ -24,5 +24,5 @@ Alexa, ask Isobar where is New York?
 * **ID:** amzn1.echo-sdk-ams.app.8476383c-89cf-4381-aeda-5e01ef207fb9
 * **ASIN:** B01HN5OP6Y
 * **Author:** Chad Vavra
-* **Release Date:** June 30, 2016 @ 03:57:41
+* **Release Date:** June 30, 2016 @ 04:57:41
 * **In-App Purchasing:** No

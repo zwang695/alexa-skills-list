@@ -28,5 +28,5 @@ Points will be awarded for accuracy and speed with additional random points for 
 * **ID:** amzn1.ask.skill.441aabd7-9289-4efb-a45c-8a0e47a4d063
 * **ASIN:** B01JWO3A38
 * **Author:** InlineStyles Ltd
-* **Release Date:** August 12, 2016 @ 03:07:54
+* **Release Date:** August 12, 2016 @ 04:07:54
 * **In-App Purchasing:** No

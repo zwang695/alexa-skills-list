@@ -20,5 +20,5 @@ This is a short quiz for members of the solar car team at Appalachian State Univ
 * **ID:** amzn1.ask.skill.f81d14c6-8096-49c6-b4f5-ae7e414530ec
 * **ASIN:** B01M6E8IPF
 * **Author:** Gidoa
-* **Release Date:** November 9, 2016 @ 22:13:25
+* **Release Date:** November 9, 2016 @ 23:13:25
 * **In-App Purchasing:** No

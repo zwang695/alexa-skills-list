@@ -23,5 +23,5 @@ Note: If you've turned on the 'start of request' tone in the settings for your A
 * **ID:** amzn1.ask.skill.a224d45d-3af6-42ab-a6d5-6f6d029d7932
 * **ASIN:** B01M4QAKGS
 * **Author:** Mark M Smith
-* **Release Date:** November 9, 2016 @ 00:43:42
+* **Release Date:** November 9, 2016 @ 01:43:42
 * **In-App Purchasing:** No

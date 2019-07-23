@@ -22,5 +22,5 @@ I am in no way affiliated with Regents of University of California, and in no wa
 * **ID:** amzn1.ask.skill.652383a3-dfbe-4ebb-8da6-04d38c4c4324
 * **ASIN:** B01NGU74S2
 * **Author:** Shane Duffy
-* **Release Date:** December 27, 2016 @ 04:18:58
+* **Release Date:** December 27, 2016 @ 05:18:58
 * **In-App Purchasing:** No

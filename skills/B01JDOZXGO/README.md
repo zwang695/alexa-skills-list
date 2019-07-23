@@ -20,5 +20,5 @@ short and quick facts about 3d printing. some facts are historical and others de
 * **ID:** amzn1.ask.skill.1f0df877-901e-4c83-84ee-b080996f880d
 * **ASIN:** B01JDOZXGO
 * **Author:** Rami
-* **Release Date:** August 12, 2016 @ 02:37:44
+* **Release Date:** August 12, 2016 @ 03:37:44
 * **In-App Purchasing:** No

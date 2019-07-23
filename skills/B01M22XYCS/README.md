@@ -22,5 +22,5 @@ This skill is not sponsored or endorsed by Arsenal Football Club is developed by
 * **ID:** amzn1.ask.skill.6831f39f-6a23-4161-9623-28dceb210392
 * **ASIN:** B01M22XYCS
 * **Author:** David Levente Dozsa
-* **Release Date:** October 21, 2016 @ 01:42:26
+* **Release Date:** October 21, 2016 @ 02:42:26
 * **In-App Purchasing:** No

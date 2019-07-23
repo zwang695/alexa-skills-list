@@ -20,5 +20,5 @@ This skill is to provide the user with a hero to play. An utterance to use this 
 * **ID:** amzn1.ask.skill.aa60d7b8-ad38-4a67-a3bd-0aeaaaeb59a6
 * **ASIN:** B01NCQ56CZ
 * **Author:** Jeffrey Kong
-* **Release Date:** December 30, 2016 @ 05:49:17
+* **Release Date:** December 30, 2016 @ 06:49:17
 * **In-App Purchasing:** No

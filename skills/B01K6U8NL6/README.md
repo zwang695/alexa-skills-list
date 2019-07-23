@@ -20,5 +20,5 @@ PokemonFan Character Quiz provides the list of Pokemons with unique type combina
 * **ID:** amzn1.ask.skill.2e51f668-c53a-4a3e-b0ac-b4758f826224
 * **ASIN:** B01K6U8NL6
 * **Author:** Doniv
-* **Release Date:** August 17, 2016 @ 04:52:24
+* **Release Date:** August 17, 2016 @ 05:52:24
 * **In-App Purchasing:** No

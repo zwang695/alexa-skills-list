@@ -20,5 +20,5 @@ The dirty dozen refers to the fruits and vegetables that are the most contaminat
 * **ID:** amzn1.ask.skill.2445b1ba-5395-4f7f-8a00-2c9423cfb832
 * **ASIN:** B01NCKI474
 * **Author:** Abe Diaz
-* **Release Date:** December 15, 2016 @ 06:19:35
+* **Release Date:** December 15, 2016 @ 07:19:35
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Sometimes you just don't know. Ask Alexa where the good men have gone
 * **ID:** amzn1.echo-sdk-ams.app.3a11c98c-3d2c-448d-985c-8be848e6d4d9
 * **ASIN:** B01HBZWDPG
 * **Author:** Leaflet
-* **Release Date:** June 23, 2016 @ 05:46:16
+* **Release Date:** June 23, 2016 @ 06:46:16
 * **In-App Purchasing:** No

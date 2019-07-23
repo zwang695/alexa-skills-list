@@ -20,5 +20,5 @@ Abide by the Rules of Acquisition and untold wealth may be yours.  You may ask f
 * **ID:** amzn1.ask.skill.5ffd7643-803d-4a2f-854d-0931a2859f15
 * **ASIN:** B01JBTLUCW
 * **Author:** Straphanger
-* **Release Date:** August 9, 2016 @ 03:07:33
+* **Release Date:** August 9, 2016 @ 04:07:33
 * **In-App Purchasing:** No

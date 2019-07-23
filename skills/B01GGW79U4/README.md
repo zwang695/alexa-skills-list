@@ -43,5 +43,5 @@ You can also get more information about a particular skill. After listening to a
 * **ID:** amzn1.echo-sdk-ams.app.1cd73001-e0fb-4e3d-bd09-38d70f3bd6aa
 * **ASIN:** B01GGW79U4
 * **Author:** Amazon
-* **Release Date:** June 3, 2016 @ 02:08:45
+* **Release Date:** June 3, 2016 @ 03:08:45
 * **In-App Purchasing:** No

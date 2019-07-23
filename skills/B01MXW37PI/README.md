@@ -40,5 +40,5 @@ Visit www.viacharacter.org to learn more about character strengths.
 * **ID:** amzn1.ask.skill.bd83c97b-243b-42d7-bc0b-3491f0c879e2
 * **ASIN:** B01MXW37PI
 * **Author:** Hoogalit
-* **Release Date:** December 16, 2016 @ 01:19:28
+* **Release Date:** December 16, 2016 @ 02:19:28
 * **In-App Purchasing:** No

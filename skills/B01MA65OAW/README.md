@@ -24,5 +24,5 @@ Made with love by TrinixCreative [trinixcreative.com]
 * **ID:** amzn1.ask.skill.b81e608a-7233-4db5-a8f5-2c1228a06adf
 * **ASIN:** B01MA65OAW
 * **Author:** Trinix Creative
-* **Release Date:** November 9, 2016 @ 00:43:11
+* **Release Date:** November 9, 2016 @ 01:43:11
 * **In-App Purchasing:** No

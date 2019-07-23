@@ -16,5 +16,5 @@ Just gives you a seven wonders of the world fact. This only has the classical se
 * **ID:** amzn1.ask.skill.1d3afcda-190e-4db9-a7aa-272fddc15aa9
 * **ASIN:** B01KYP96SC
 * **Author:** Jetcode
-* **Release Date:** August 25, 2016 @ 03:02:05
+* **Release Date:** August 25, 2016 @ 04:02:05
 * **In-App Purchasing:** No

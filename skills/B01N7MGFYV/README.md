@@ -16,5 +16,5 @@ The app gives you the news related to Trump. This skill is not sponsored or endo
 * **ID:** amzn1.ask.skill.c2d96dc8-d8ed-4edd-99c6-107413041dc3
 * **ASIN:** B01N7MGFYV
 * **Author:** Huyen Nguyen
-* **Release Date:** January 1, 2017 @ 22:49:18
+* **Release Date:** January 1, 2017 @ 23:49:18
 * **In-App Purchasing:** No

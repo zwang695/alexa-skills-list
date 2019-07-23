@@ -20,5 +20,5 @@ My mom wrote a cookbook of recipes from my youth, and gave each of us kids a cop
 * **ID:** amzn1.ask.skill.a39bfaf1-5184-4d77-9fda-aa8dda2880bf
 * **ASIN:** B01KEN7IIE
 * **Author:** Michael Stoops
-* **Release Date:** August 23, 2016 @ 06:48:47
+* **Release Date:** August 23, 2016 @ 07:48:47
 * **In-App Purchasing:** No

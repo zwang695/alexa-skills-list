@@ -20,5 +20,5 @@ The Hunter Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.274a4e92-3cff-4376-bc29-c3c1592d1436
 * **ASIN:** B01M9F4XXN
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:43:55
+* **Release Date:** October 26, 2016 @ 04:43:55
 * **In-App Purchasing:** No

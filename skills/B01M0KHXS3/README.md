@@ -20,5 +20,5 @@ This fun skill tests the Alexa to name foods that start with any letter of the a
 * **ID:** amzn1.echo-sdk-ams.app.8c7f3c54-5bdb-4186-8cec-df7319209065
 * **ASIN:** B01M0KHXS3
 * **Author:** CraftyC
-* **Release Date:** October 19, 2016 @ 01:43:56
+* **Release Date:** October 19, 2016 @ 02:43:56
 * **In-App Purchasing:** No

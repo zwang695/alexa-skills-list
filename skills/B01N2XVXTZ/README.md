@@ -20,5 +20,5 @@ Replies with puns..
 * **ID:** amzn1.ask.skill.09ff8448-f7d2-4301-b67a-a4094910f430
 * **ASIN:** B01N2XVXTZ
 * **Author:** Doublepwn
-* **Release Date:** January 2, 2017 @ 01:48:53
+* **Release Date:** January 2, 2017 @ 02:48:53
 * **In-App Purchasing:** No

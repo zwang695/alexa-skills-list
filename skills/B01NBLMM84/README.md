@@ -20,5 +20,5 @@ To use the Simon Says skill, try saying...
 * **ID:** amzn1.ask.skill.b9ef6dcb-5d1a-4fc3-afc6-cfd3892831e8
 * **ASIN:** B01NBLMM84
 * **Author:** Drew Firment
-* **Release Date:** December 20, 2016 @ 03:19:33
+* **Release Date:** December 20, 2016 @ 04:19:33
 * **In-App Purchasing:** No

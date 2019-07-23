@@ -20,5 +20,5 @@ The Elm Creek Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.db45a352-1d7c-4aee-be4e-64190b67bb64
 * **ASIN:** B01MA657MJ
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:18:08
+* **Release Date:** October 21, 2016 @ 15:18:08
 * **In-App Purchasing:** No

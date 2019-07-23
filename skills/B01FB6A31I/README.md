@@ -28,7 +28,7 @@ Please accept this version in the spirit of which it was built.
 * **ID:** amzn1.echo-sdk-ams.app.6e280a28-a384-46a0-aa00-d7c3e1649183
 * **ASIN:** B01FB6A31I
 * **Author:** Synapse Research Systems
-* **Release Date:** May 23, 2016 @ 19:08:35
+* **Release Date:** May 23, 2016 @ 20:08:35
 * **Privacy Policy:** https://www.jwdailytext.com/PrivacyPolicy.txt
 * **Terms of Use:** https://www.jwdailytext.com/TermsConditions.txt
 * **In-App Purchasing:** No

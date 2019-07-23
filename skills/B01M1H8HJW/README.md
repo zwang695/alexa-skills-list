@@ -16,5 +16,5 @@ These fun filled facts about chemistry will leave you wanting to go out and cond
 * **ID:** amzn1.ask.skill.03689e15-d8fc-4670-a010-f720ece31bf5
 * **ASIN:** B01M1H8HJW
 * **Author:** Lynda Creighton
-* **Release Date:** September 22, 2016 @ 03:12:13
+* **Release Date:** September 22, 2016 @ 04:12:13
 * **In-App Purchasing:** No

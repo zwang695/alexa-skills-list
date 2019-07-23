@@ -25,5 +25,5 @@ B and O trivia is a game which provide endless fun. It ask random questions in e
 * **ID:** amzn1.echo-sdk-ams.app.80e8c057-7e46-4d95-a9fd-ae5686463ee7
 * **ASIN:** B01I51JMAY
 * **Author:** B and o Technologies
-* **Release Date:** July 13, 2016 @ 03:58:00
+* **Release Date:** July 13, 2016 @ 04:58:00
 * **In-App Purchasing:** No

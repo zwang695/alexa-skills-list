@@ -20,5 +20,5 @@ This skill makes Alexa give some funny comebacks from Al bundy. The source is tw
 * **ID:** amzn1.ask.skill.458c355e-da3d-419b-8bb3-0ee716522d18
 * **ASIN:** B01M2A2IAU
 * **Author:** Marian Condurache
-* **Release Date:** November 11, 2016 @ 01:15:35
+* **Release Date:** November 11, 2016 @ 02:15:35
 * **In-App Purchasing:** No

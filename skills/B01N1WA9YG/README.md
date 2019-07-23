@@ -25,7 +25,7 @@ This tool does not provide medical advice, and is for informational and educatio
 * **ID:** amzn1.ask.skill.038e57bc-2d55-43b8-9661-69c0068fd828
 * **ASIN:** B01N1WA9YG
 * **Author:** DiagnosisAI
-* **Release Date:** December 31, 2016 @ 04:18:57
+* **Release Date:** December 31, 2016 @ 05:18:57
 * **Privacy Policy:** https://www.diagnosisai.org/legal/privacy.pdf
 * **Terms of Use:** https://www.diagnosisai.org/legal/terms.pdf
 * **In-App Purchasing:** No

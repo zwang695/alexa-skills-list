@@ -20,5 +20,5 @@ Marriage is difficult! It is even more difficult when you haven't discussed some
 * **ID:** amzn1.echo-sdk-ams.app.515732fb-5305-42c1-91e9-d41366d79cba
 * **ASIN:** B01HQTHHCQ
 * **Author:** LC
-* **Release Date:** July 1, 2016 @ 05:27:32
+* **Release Date:** July 1, 2016 @ 06:27:32
 * **In-App Purchasing:** No

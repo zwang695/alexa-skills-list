@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.6e698795-d172-4052-af04-9db5fc0ff07d
 * **ASIN:** B01MXPLDD2
 * **Author:** MetaViewSoft
-* **Release Date:** November 25, 2016 @ 10:05:27
+* **Release Date:** November 25, 2016 @ 11:05:27
 * **In-App Purchasing:** No

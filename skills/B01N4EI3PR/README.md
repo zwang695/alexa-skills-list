@@ -20,5 +20,5 @@ A short quiz on the history of Alan Turing. Questions include dates, the type of
 * **ID:** amzn1.ask.skill.4c1f84c4-f3cc-422a-888e-c4efd35df532
 * **ASIN:** B01N4EI3PR
 * **Author:** Michelle Wiginton
-* **Release Date:** December 18, 2016 @ 01:49:45
+* **Release Date:** December 18, 2016 @ 02:49:45
 * **In-App Purchasing:** No

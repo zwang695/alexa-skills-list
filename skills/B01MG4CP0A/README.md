@@ -20,5 +20,5 @@ This skill can collect many kinds of social information from the citizens. We ca
 * **ID:** amzn1.ask.skill.858a8ffd-b3c4-4c59-a0e3-17d249754ee7
 * **ASIN:** B01MG4CP0A
 * **Author:** 王浩
-* **Release Date:** November 29, 2016 @ 08:06:27
+* **Release Date:** November 29, 2016 @ 09:06:27
 * **In-App Purchasing:** No

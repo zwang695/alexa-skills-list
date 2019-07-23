@@ -20,5 +20,5 @@ In the Middle Ages, schools divided their studies into the trivium (grammar, log
 * **ID:** amzn1.echo-sdk-ams.app.7fe80e3b-6e69-47cf-8c98-44cf810a161a
 * **ASIN:** B01ELPK6OY
 * **Author:** Reed Law
-* **Release Date:** April 22, 2016 @ 15:38:28
+* **Release Date:** April 22, 2016 @ 16:38:28
 * **In-App Purchasing:** No

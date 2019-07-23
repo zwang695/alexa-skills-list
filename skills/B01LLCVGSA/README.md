@@ -20,5 +20,5 @@ There are many communication styles. By understanding our best qualities and tra
 * **ID:** amzn1.ask.skill.45f6f712-e644-490c-bc9e-29a5acfd4895
 * **ASIN:** B01LLCVGSA
 * **Author:** aparravera
-* **Release Date:** September 14, 2016 @ 21:43:02
+* **Release Date:** September 14, 2016 @ 22:43:02
 * **In-App Purchasing:** No

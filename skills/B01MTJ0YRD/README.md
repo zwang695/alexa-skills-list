@@ -20,5 +20,5 @@ The Snowy Range Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.19cbf29d-59b9-4ae8-9c63-1f5d523e9886
 * **ASIN:** B01MTJ0YRD
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:44:51
+* **Release Date:** November 5, 2016 @ 11:44:51
 * **In-App Purchasing:** No

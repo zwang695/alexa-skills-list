@@ -20,5 +20,5 @@ The Hickory Hills Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.71aa75fd-35ca-487f-acb4-fd1a8f91c0b1
 * **ASIN:** B01MCVY4F4
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:13:58
+* **Release Date:** October 21, 2016 @ 16:13:58
 * **In-App Purchasing:** No

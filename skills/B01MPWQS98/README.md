@@ -20,5 +20,5 @@ The Anthony Lakes Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.f8857337-df7e-48a0-977e-f1009a5fe2ff
 * **ASIN:** B01MPWQS98
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:46:37
+* **Release Date:** October 26, 2016 @ 04:46:37
 * **In-App Purchasing:** No

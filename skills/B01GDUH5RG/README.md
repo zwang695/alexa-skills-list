@@ -20,5 +20,5 @@ Explore Washington State history every day with Alexa.  She will read you a list
 * **ID:** amzn1.echo-sdk-ams.app.11910572-f9d6-45d6-a338-e82dbaf0d9e1
 * **ASIN:** B01GDUH5RG
 * **Author:** WireMonkey
-* **Release Date:** June 20, 2016 @ 02:45:46
+* **Release Date:** June 20, 2016 @ 03:45:46
 * **In-App Purchasing:** No

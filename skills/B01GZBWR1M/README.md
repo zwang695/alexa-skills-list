@@ -16,5 +16,5 @@ Football Trivia for Texas A&M is a game where you are asked 5 multiple choice qu
 * **ID:** amzn1.echo-sdk-ams.app.305ee248-08a6-42f2-aa99-dbdedf12e967
 * **ASIN:** B01GZBWR1M
 * **Author:** Clay Schroeder
-* **Release Date:** June 15, 2016 @ 07:45:37
+* **Release Date:** June 15, 2016 @ 08:45:37
 * **In-App Purchasing:** No

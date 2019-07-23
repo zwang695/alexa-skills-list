@@ -24,5 +24,5 @@ Just say "Ask Santa's Deer Master for a fact".
 * **ID:** amzn1.ask.skill.8b2bf883-a30f-4dd0-8ffa-2b74b10df474
 * **ASIN:** B01NAD6B5M
 * **Author:** Wolfgeek software
-* **Release Date:** December 8, 2016 @ 02:49:48
+* **Release Date:** December 8, 2016 @ 03:49:48
 * **In-App Purchasing:** No

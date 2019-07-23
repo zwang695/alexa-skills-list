@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.67e337d5-f539-4191-988a-396a8f16d000
 * **ASIN:** B01MXQ69VI
 * **Author:** Markus Stein
-* **Release Date:** November 30, 2016 @ 02:35:31
+* **Release Date:** November 30, 2016 @ 03:35:31
 * **In-App Purchasing:** No

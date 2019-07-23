@@ -20,5 +20,5 @@ This skill will help people learn some fun new facts about Japan. Just say "Alex
 * **ID:** amzn1.echo-sdk-ams.app.746bf685-8991-4872-954d-4c2561d87925
 * **ASIN:** B01D3LZVIS
 * **Author:** Kyle Crombie
-* **Release Date:** March 17, 2016 @ 13:06:18
+* **Release Date:** March 17, 2016 @ 14:06:18
 * **In-App Purchasing:** No

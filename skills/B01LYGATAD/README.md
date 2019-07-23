@@ -37,5 +37,5 @@ Note on Background Noise
 * **ID:** amzn1.ask.skill.fc2dee4a-187b-43d1-b5c9-fd723ec2b329
 * **ASIN:** B01LYGATAD
 * **Author:** Jim Keese
-* **Release Date:** September 22, 2016 @ 06:12:11
+* **Release Date:** September 22, 2016 @ 07:12:11
 * **In-App Purchasing:** No

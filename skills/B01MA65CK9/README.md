@@ -20,5 +20,5 @@ The Welch Village Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.316c0b5f-6a91-4a9d-815e-bdf9955bcb57
 * **ASIN:** B01MA65CK9
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:47:06
+* **Release Date:** October 21, 2016 @ 15:47:06
 * **In-App Purchasing:** No

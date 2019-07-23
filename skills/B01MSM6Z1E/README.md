@@ -20,5 +20,5 @@ Chef Bridgette is the beloved school chef at the Berkeley Carroll school in Broo
 * **ID:** amzn1.ask.skill.31043c28-184b-4583-9e7f-9985a53932ae
 * **ASIN:** B01MSM6Z1E
 * **Author:** Kidite LLC 
-* **Release Date:** November 29, 2016 @ 06:05:08
+* **Release Date:** November 29, 2016 @ 07:05:08
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Cloudmont Mountain Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.7fea08c6-d5ad-42e5-bf93-af8ee31ba43e
 * **ASIN:** B01LWOO4X9
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:57:10
+* **Release Date:** October 20, 2016 @ 03:57:10
 * **In-App Purchasing:** No

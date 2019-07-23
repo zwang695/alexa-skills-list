@@ -20,5 +20,5 @@ An app that tells you that hipchat is probably down, regardless of it's status. 
 * **ID:** amzn1.ask.skill.4dc0a3f6-c72d-41ee-99c9-dd295a7f98f3
 * **ASIN:** B01JUE1CVW
 * **Author:** Thunkpool
-* **Release Date:** August 10, 2016 @ 02:07:46
+* **Release Date:** August 10, 2016 @ 03:07:46
 * **In-App Purchasing:** No

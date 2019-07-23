@@ -20,5 +20,5 @@ A group of clean, but politically incorrect 'Yo Mama' Jokes.  This skill may not
 * **ID:** amzn1.echo-sdk-ams.app.2abbf8ec-05e3-49d1-b097-144663b180f7
 * **ASIN:** B01BO41DLU
 * **Author:** Per4mnce Software
-* **Release Date:** February 11, 2016 @ 14:35:08
+* **Release Date:** February 11, 2016 @ 15:35:08
 * **In-App Purchasing:** No

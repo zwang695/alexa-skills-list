@@ -20,5 +20,5 @@ List of Restaurants around International Technological University for your quick
 * **ID:** amzn1.ask.skill.07ebb504-d8c2-4bd8-a59d-b5de502b00ba
 * **ASIN:** B01LXSZABM
 * **Author:** ITU
-* **Release Date:** September 28, 2016 @ 17:13:23
+* **Release Date:** September 28, 2016 @ 18:13:23
 * **In-App Purchasing:** No

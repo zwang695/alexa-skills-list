@@ -20,5 +20,5 @@ This skill helps you recall any physics formula right when you need it. Whether 
 * **ID:** amzn1.ask.skill.27a7d66e-8d2b-4ec6-a4ae-f183459f5bfc
 * **ASIN:** B01N7MFXXO
 * **Author:** Alan Liu
-* **Release Date:** December 30, 2016 @ 23:19:07
+* **Release Date:** December 31, 2016 @ 00:19:07
 * **In-App Purchasing:** No

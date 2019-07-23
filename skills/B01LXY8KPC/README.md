@@ -20,5 +20,5 @@ Critical Fumble is a skill to generate Critical Fumble Effects for Tabletop RPG 
 * **ID:** amzn1.ask.skill.11849a6f-4c4f-4ac3-b8cc-7b8d331894df
 * **ASIN:** B01LXY8KPC
 * **Author:** BadBinary LTD
-* **Release Date:** October 3, 2016 @ 06:12:08
+* **Release Date:** October 3, 2016 @ 07:12:08
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask Cat Facts "tell me a fact" to get a random fact about cats
 * **ID:** amzn1.ask.skill.35bf8402-28a5-4b25-b83b-d440238fa345
 * **ASIN:** B01N991668
 * **Author:** AQUA Apps
-* **Release Date:** November 25, 2016 @ 04:08:46
+* **Release Date:** November 25, 2016 @ 05:08:46
 * **In-App Purchasing:** No

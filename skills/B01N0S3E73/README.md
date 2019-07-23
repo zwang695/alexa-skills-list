@@ -18,5 +18,5 @@ Don't ever feel down again
 * **ID:** amzn1.ask.skill.60f22f23-ea8e-4674-b9d1-3f25f5f8346f
 * **ASIN:** B01N0S3E73
 * **Author:** Loic Talhouarne
-* **Release Date:** December 20, 2016 @ 07:49:35
+* **Release Date:** December 20, 2016 @ 08:49:35
 * **In-App Purchasing:** No

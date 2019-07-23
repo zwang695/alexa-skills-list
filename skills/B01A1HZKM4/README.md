@@ -33,7 +33,7 @@ For reporting bugs or suggestions, please email m@moogs.io
 * **ID:** amzn1.echo-sdk-ams.app.4bd5c867-3d98-4afd-924b-b756d0eb9440
 * **ASIN:** B01A1HZKM4
 * **Author:** Moogs
-* **Release Date:** December 31, 2015 @ 16:54:13
+* **Release Date:** December 31, 2015 @ 17:54:13
 * **Privacy Policy:** https://github.com/miguelmota/ASK-fortune/wiki/Privacy-Policy
 * **Terms of Use:** https://github.com/miguelmota/ASK-fortune/wiki/Terms-of-Use
 * **In-App Purchasing:** No

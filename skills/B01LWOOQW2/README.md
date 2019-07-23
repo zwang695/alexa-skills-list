@@ -20,5 +20,5 @@ Fun facts related to innovation and the future of technology.
 * **ID:** amzn1.ask.skill.95277465-5dce-4620-bb56-d0f9048733b0
 * **ASIN:** B01LWOOQW2
 * **Author:** Angela Deng
-* **Release Date:** October 3, 2016 @ 01:42:40
+* **Release Date:** October 3, 2016 @ 02:42:40
 * **In-App Purchasing:** No

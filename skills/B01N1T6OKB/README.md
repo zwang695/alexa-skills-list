@@ -20,5 +20,5 @@ trivia skill, presents 5 questions each with 4 possible answers, keep tally of s
 * **ID:** amzn1.ask.skill.1af3f590-87f0-4f56-850a-ee23cffcc2b0
 * **ASIN:** B01N1T6OKB
 * **Author:** Andy Cao
-* **Release Date:** December 17, 2016 @ 06:19:33
+* **Release Date:** December 17, 2016 @ 07:19:33
 * **In-App Purchasing:** No

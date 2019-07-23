@@ -20,5 +20,5 @@ Alexa well read the first thousand digits of pi.You start by saying "Alexa, open
 * **ID:** amzn1.echo-sdk-ams.app.71a193da-99a6-4b60-9b0c-75b361471657
 * **ASIN:** B01DPWUOAK
 * **Author:** Laynr
-* **Release Date:** April 5, 2016 @ 18:02:20
+* **Release Date:** April 5, 2016 @ 19:02:20
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ You can also ask for the following correspondences: colors, foods, herbs, stones
 * **ID:** amzn1.echo-sdk-ams.app.61d9b9e0-b154-4e8b-b41c-acb6ee046346
 * **ASIN:** B01EJ1IL5Q
 * **Author:** Patrick Mollohan
-* **Release Date:** April 27, 2016 @ 07:38:53
+* **Release Date:** April 27, 2016 @ 08:38:53
 * **In-App Purchasing:** No

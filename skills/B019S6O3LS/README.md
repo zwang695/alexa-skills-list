@@ -20,7 +20,7 @@ The Bible app will read Bible passages of your choosing, or else select a random
 * **ID:** amzn1.echo-sdk-ams.app.f23d180f-6f53-4f5f-86ea-0e400992e7a2
 * **ASIN:** B019S6O3LS
 * **Author:** Spriton Systems LLC
-* **Release Date:** December 24, 2015 @ 12:41:42
+* **Release Date:** December 24, 2015 @ 13:41:42
 * **Privacy Policy:** http://spriton.com/w/privacy/
 * **Terms of Use:** http://spriton.com/w/terms/
 * **In-App Purchasing:** No

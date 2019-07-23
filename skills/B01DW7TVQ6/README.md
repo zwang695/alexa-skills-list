@@ -24,7 +24,7 @@ To get started, say "Alexa, ask InControl to link my account." You'll be given a
 * **ID:** amzn1.echo-sdk-ams.app.84e55b57-2c47-438d-a4de-9b0a033f7164
 * **ASIN:** B01DW7TVQ6
 * **Author:** InControl Home Automation
-* **Release Date:** April 8, 2016 @ 08:02:40
+* **Release Date:** April 8, 2016 @ 09:02:40
 * **Privacy Policy:** http://www.incontrolha.com/Home/Privacy
 * **Terms of Use:** http://www.incontrolha.com/Home/terms
 * **In-App Purchasing:** No

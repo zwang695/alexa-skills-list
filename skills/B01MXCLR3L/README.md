@@ -20,5 +20,5 @@ The Ski Morin Heights Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.8518ab2a-1531-43e9-b73d-35d12acac214
 * **ASIN:** B01MXCLR3L
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:44:12
+* **Release Date:** November 5, 2016 @ 12:44:12
 * **In-App Purchasing:** No

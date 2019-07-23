@@ -28,5 +28,5 @@ Another noisy skill from www.thomptronics.com
 * **ID:** amzn1.echo-sdk-ams.app.f7cc0ab6-6496-4e31-be2b-93b4926db937
 * **ASIN:** B01GQGW6P8
 * **Author:** Thomptronics
-* **Release Date:** June 8, 2016 @ 07:42:09
+* **Release Date:** June 8, 2016 @ 08:42:09
 * **In-App Purchasing:** No

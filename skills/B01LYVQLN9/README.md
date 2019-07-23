@@ -20,5 +20,5 @@ If you ever wanted to know about mums, you're in the right place.
 * **ID:** amzn1.ask.skill.4bb38908-9f34-4a01-bfa1-a39c3f57433d
 * **ASIN:** B01LYVQLN9
 * **Author:** Bits of Knits
-* **Release Date:** September 28, 2016 @ 16:12:31
+* **Release Date:** September 28, 2016 @ 17:12:31
 * **In-App Purchasing:** No

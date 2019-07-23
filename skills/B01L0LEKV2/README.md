@@ -20,5 +20,5 @@ This app will generate a random quote. The quotes are from every time period. Th
 * **ID:** amzn1.ask.skill.5e5d7894-8a5f-48f0-adba-e3d31db4c871
 * **ASIN:** B01L0LEKV2
 * **Author:** engineering consultant
-* **Release Date:** September 5, 2016 @ 01:33:40
+* **Release Date:** September 5, 2016 @ 02:33:40
 * **In-App Purchasing:** No

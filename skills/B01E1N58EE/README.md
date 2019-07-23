@@ -28,5 +28,5 @@ You can can like my app.
 * **ID:** amzn1.echo-sdk-ams.app.1b067b45-92bd-42ad-979b-3a17571777fe
 * **ASIN:** B01E1N58EE
 * **Author:** mudfam.org
-* **Release Date:** April 28, 2016 @ 02:38:39
+* **Release Date:** April 28, 2016 @ 03:38:39
 * **In-App Purchasing:** No

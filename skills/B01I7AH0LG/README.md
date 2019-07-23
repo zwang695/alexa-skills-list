@@ -22,5 +22,5 @@ Get started by saying "Alexa, ask Guitar Facts to give me a fact."
 * **ID:** amzn1.echo-sdk-ams.app.0efbb8ae-9b1d-4fb3-bf6e-bfcee9a126b7
 * **ASIN:** B01I7AH0LG
 * **Author:** Mike Commendatore
-* **Release Date:** July 15, 2016 @ 04:57:33
+* **Release Date:** July 15, 2016 @ 05:57:33
 * **In-App Purchasing:** No

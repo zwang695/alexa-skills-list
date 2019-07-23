@@ -20,5 +20,5 @@ Fun quiz that asks you important civic questions about the United States.  Can b
 * **ID:** amzn1.ask.skill.2c54df57-cac3-431c-a7b8-0ab9a77529e3
 * **ASIN:** B01L9521VA
 * **Author:** aceperry
-* **Release Date:** September 3, 2016 @ 06:33:09
+* **Release Date:** September 3, 2016 @ 07:33:09
 * **In-App Purchasing:** No

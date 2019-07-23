@@ -26,7 +26,7 @@ Find out more just-eat.co.uk/alexa
 * **ID:** amzn1.echo-sdk-ams.app.4feae63f-1c65-4939-81bd-6315d12cac4c
 * **ASIN:** B01LXLEL3R
 * **Author:** Just Eat
-* **Release Date:** September 28, 2016 @ 06:12:07
+* **Release Date:** September 28, 2016 @ 07:12:07
 * **Privacy Policy:** https://www.just-eat.co.uk/privacy-policy
 * **Account Linking Domains:** www.facebook.com, m.facebook.com, static.fbccdn.net, www.google.com, public.je-apis.com
 * **In-App Purchasing:** Yes

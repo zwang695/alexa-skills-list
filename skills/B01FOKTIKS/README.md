@@ -20,5 +20,5 @@ EDM Trivia is a fun way to test your knowledge of Electronic Dance Music. You'll
 * **ID:** amzn1.echo-sdk-ams.app.428db24a-f599-4ebe-a8f0-8d6d60739767
 * **ASIN:** B01FOKTIKS
 * **Author:** MileVision
-* **Release Date:** August 25, 2016 @ 07:30:58
+* **Release Date:** August 25, 2016 @ 08:30:58
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill lists the basic steps necessary to fully detail your car.
 * **ID:** amzn1.ask.skill.1d334ac5-2bb4-45e5-a1ab-1fa1331ecad5
 * **ASIN:** B01M114ORM
 * **Author:** Marcus Horner
-* **Release Date:** October 14, 2016 @ 01:46:20
+* **Release Date:** October 14, 2016 @ 02:46:20
 * **In-App Purchasing:** No

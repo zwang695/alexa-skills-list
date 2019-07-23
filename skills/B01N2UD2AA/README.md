@@ -20,5 +20,5 @@ Trivia game about Zimbabwe
 * **ID:** amzn1.ask.skill.d0a8bc3b-149d-43f3-ab10-29a6cd82b0da
 * **ASIN:** B01N2UD2AA
 * **Author:** oleh
-* **Release Date:** December 17, 2016 @ 00:19:22
+* **Release Date:** December 17, 2016 @ 01:19:22
 * **In-App Purchasing:** No

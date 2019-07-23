@@ -23,5 +23,5 @@ Then you can say: "Give me a da Vinci fact" and she will continue to give you ra
 * **ID:** amzn1.echo-sdk-ams.app.837123d4-69bc-489e-82f9-1754fa54ea1c
 * **ASIN:** B01IJQQVZO
 * **Author:** Olivia Avenue Projects
-* **Release Date:** August 1, 2016 @ 02:26:32
+* **Release Date:** August 1, 2016 @ 03:26:32
 * **In-App Purchasing:** No

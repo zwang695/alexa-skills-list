@@ -20,7 +20,7 @@ Elderly people and others with difficulty using computers and tablets may prefer
 * **ID:** amzn1.ask.skill.bed051c4-26ec-4a31-9656-20d282ab4d95
 * **ASIN:** B01NAK87B2
 * **Author:** R Onuschak
-* **Release Date:** December 31, 2016 @ 00:19:53
+* **Release Date:** December 31, 2016 @ 01:19:53
 * **Privacy Policy:** http://email-skill.blogspot.com/p/privacy-policy.html
 * **Account Linking Domains:** google.com, googleapis.com
 * **In-App Purchasing:** No

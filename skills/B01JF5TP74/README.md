@@ -20,5 +20,5 @@ http://www.greensprout.co is a site to list summer camp and after school program
 * **ID:** amzn1.ask.skill.7cc4ac18-cba5-4850-a401-4475be954384
 * **ASIN:** B01JF5TP74
 * **Author:** shuyuan
-* **Release Date:** August 8, 2016 @ 02:07:45
+* **Release Date:** August 8, 2016 @ 03:07:45
 * **In-App Purchasing:** No

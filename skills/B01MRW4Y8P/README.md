@@ -20,5 +20,5 @@ Ask your Echo for some Classic TV Catchphrases to bring back those timeless word
 * **ID:** amzn1.ask.skill.98e641b8-ceb4-4805-808f-1923f8ca79da
 * **ASIN:** B01MRW4Y8P
 * **Author:** WiesmanApps
-* **Release Date:** December 11, 2016 @ 00:49:08
+* **Release Date:** December 11, 2016 @ 01:49:08
 * **In-App Purchasing:** No

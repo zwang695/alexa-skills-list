@@ -20,5 +20,5 @@ The Mansfield Ski Club Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.ef8ba13e-5da1-4a93-a48a-da212a3701ab
 * **ASIN:** B01N00XX8V
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:15:42
+* **Release Date:** November 5, 2016 @ 12:15:42
 * **In-App Purchasing:** No

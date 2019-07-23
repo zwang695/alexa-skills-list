@@ -20,5 +20,5 @@ Triads provided by Kuno Meyers.
 * **ID:** amzn1.echo-sdk-ams.app.bc505268-5035-46a0-bd92-9b82ff5d8a09
 * **ASIN:** B01GM0L1T0
 * **Author:** Arghwebworks
-* **Release Date:** June 8, 2016 @ 07:41:32
+* **Release Date:** June 8, 2016 @ 08:41:32
 * **In-App Purchasing:** No

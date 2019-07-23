@@ -16,5 +16,5 @@ Advice on what color to wear based on the season
 * **ID:** amzn1.ask.skill.c2c89ccd-3a67-4b87-866b-bcd5553e1ef7
 * **ASIN:** B01KABU986
 * **Author:** kable industries
-* **Release Date:** August 19, 2016 @ 08:20:53
+* **Release Date:** August 19, 2016 @ 09:20:53
 * **In-App Purchasing:** No

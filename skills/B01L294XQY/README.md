@@ -22,5 +22,5 @@ Disclaimer: this app skill may not be suitable for all ages.  It is recommended 
 * **ID:** amzn1.ask.skill.38adb754-d24d-4f7b-bd63-00665937aab6
 * **ASIN:** B01L294XQY
 * **Author:** tow
-* **Release Date:** September 1, 2016 @ 03:33:19
+* **Release Date:** September 1, 2016 @ 04:33:19
 * **In-App Purchasing:** No

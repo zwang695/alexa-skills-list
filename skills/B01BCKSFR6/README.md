@@ -27,7 +27,7 @@ https://www.ttc.ca/Routes/index.jsp
 * **ID:** amzn1.echo-sdk-ams.app.95b1c9dc-6638-4144-9ffe-41a70bdce249
 * **ASIN:** B01BCKSFR6
 * **Author:** Handlebar Creative
-* **Release Date:** February 1, 2016 @ 12:02:04
+* **Release Date:** February 1, 2016 @ 13:02:04
 * **Privacy Policy:** http://crhuber.github.io/ttc/
 * **Terms of Use:** http://crhuber.github.io/ttc/
 * **In-App Purchasing:** No

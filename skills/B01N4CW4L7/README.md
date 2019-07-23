@@ -20,5 +20,5 @@ Kite flying is a famous sport in many parts of the world. With this skill, you c
 * **ID:** amzn1.ask.skill.6b321dc2-d0f2-41fd-aa76-704678e62fc2
 * **ASIN:** B01N4CW4L7
 * **Author:** abhi
-* **Release Date:** December 16, 2016 @ 00:50:13
+* **Release Date:** December 16, 2016 @ 01:50:13
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ever had one of those days where you feel like a terrible person and you just ne
 * **ID:** amzn1.echo-sdk-ams.app.52bbd3ed-9533-4eda-ab19-3d5ad8840e6d
 * **ASIN:** B01CSJ4FTM
 * **Author:** Adam Housman
-* **Release Date:** March 10, 2016 @ 05:40:42
+* **Release Date:** March 10, 2016 @ 06:40:42
 * **In-App Purchasing:** No

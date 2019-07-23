@@ -24,5 +24,5 @@ You can find many such amazing quotes by playing this simple and fun trivia game
 * **ID:** amzn1.ask.skill.b7c7907b-ded3-4b4f-b3d3-f5ddab86b533
 * **ASIN:** B01IT0TVE8
 * **Author:** Sanjay Krishna Katragadda
-* **Release Date:** July 28, 2016 @ 07:26:53
+* **Release Date:** July 28, 2016 @ 08:26:53
 * **In-App Purchasing:** No

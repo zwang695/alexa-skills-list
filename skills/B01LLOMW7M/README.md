@@ -20,5 +20,5 @@ This  skill  tells  facts  about  tea  for  tea  lovers.
 * **ID:** amzn1.ask.skill.cced01e6-c8db-4634-a563-b69a9755852e
 * **ASIN:** B01LLOMW7M
 * **Author:** DCOM
-* **Release Date:** September 6, 2016 @ 01:33:31
+* **Release Date:** September 6, 2016 @ 02:33:31
 * **In-App Purchasing:** No

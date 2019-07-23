@@ -20,5 +20,5 @@ The West Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.5e7d94df-067b-48eb-aa61-a9e2e0c6603a
 * **ASIN:** B01M4NBBHR
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:45:53
+* **Release Date:** October 26, 2016 @ 04:45:53
 * **In-App Purchasing:** No

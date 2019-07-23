@@ -25,5 +25,5 @@ DISCLAIMER: THE SKILL MAY NOT BE SUITABLE FOR ALL AGES.
 * **ID:** amzn1.echo-sdk-ams.app.cce37bbd-59dc-44a5-989e-815c2a40ad18
 * **ASIN:** B01G9VKCCY
 * **Author:** Bastien Reboulet
-* **Release Date:** June 13, 2016 @ 05:39:31
+* **Release Date:** June 13, 2016 @ 06:39:31
 * **In-App Purchasing:** No

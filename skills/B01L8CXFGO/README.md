@@ -16,5 +16,5 @@ Ever wanted to test your knowledge of lasers? Look no further! Laser trivia prov
 * **ID:** amzn1.ask.skill.f84f0f02-f966-4cd1-a96c-47823ffd3086
 * **ASIN:** B01L8CXFGO
 * **Author:** SodaAnt Enterprises
-* **Release Date:** August 30, 2016 @ 07:03:08
+* **Release Date:** August 30, 2016 @ 08:03:08
 * **In-App Purchasing:** No

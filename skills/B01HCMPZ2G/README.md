@@ -20,5 +20,5 @@ A skill that lets you learn more about giant pandas. Users can start by saying l
 * **ID:** amzn1.echo-sdk-ams.app.eb9e4906-045f-4d5c-b60a-e95ff2e33049
 * **ASIN:** B01HCMPZ2G
 * **Author:** Mandy Chan
-* **Release Date:** June 23, 2016 @ 06:15:36
+* **Release Date:** June 23, 2016 @ 07:15:36
 * **In-App Purchasing:** No

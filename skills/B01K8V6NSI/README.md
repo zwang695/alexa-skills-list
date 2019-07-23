@@ -37,7 +37,7 @@ Email us at support@ear-play.com if you have any difficulties.
 * **ID:** amzn1.echo-sdk-ams.app.1a4606a7-20cc-406b-be84-e98ee4b871c9
 * **ASIN:** B01K8V6NSI
 * **Author:** Earplay
-* **Release Date:** August 25, 2016 @ 23:02:58
+* **Release Date:** August 26, 2016 @ 00:02:58
 * **Privacy Policy:** https://www.ear-play.com/privacy/
 * **Terms of Use:** https://www.ear-play.com/tos/
 * **Account Linking Domains:** ear-play.com, access.ear-play.com

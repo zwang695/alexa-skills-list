@@ -26,5 +26,5 @@ Alexa, ask U. K. Top 40 what song is top this week
 * **ID:** amzn1.ask.skill.c362cf9c-4e12-4a97-8a73-1f673f187cb8
 * **ASIN:** B01N1KQZN0
 * **Author:** Dean Meehan
-* **Release Date:** December 2, 2016 @ 04:05:09
+* **Release Date:** December 2, 2016 @ 05:05:09
 * **In-App Purchasing:** No

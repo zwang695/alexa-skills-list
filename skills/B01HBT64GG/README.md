@@ -38,7 +38,7 @@ Note: When using the skill, you need to specify the name of thermostat or light 
 * **ID:** amzn1.ask.skill.2a148af2-0f96-4e33-8242-1375e4382b92
 * **ASIN:** B01HBT64GG
 * **Author:** Vivint Inc.
-* **Release Date:** July 15, 2016 @ 17:57:09
+* **Release Date:** July 15, 2016 @ 18:57:09
 * **Privacy Policy:** http://www.vivint.com/company/policies/privacy
 * **Terms of Use:** http://www.vivint.com/company/policies/terms-of-use
 * **In-App Purchasing:** No

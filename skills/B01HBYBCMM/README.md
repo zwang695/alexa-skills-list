@@ -20,5 +20,5 @@ Our Father will pray the Our Father prayer with you
 * **ID:** amzn1.echo-sdk-ams.app.f24335b7-a536-4e42-9df8-de0427ee2063
 * **ASIN:** B01HBYBCMM
 * **Author:** Leaflet
-* **Release Date:** June 21, 2016 @ 05:46:00
+* **Release Date:** June 21, 2016 @ 06:46:00
 * **In-App Purchasing:** No

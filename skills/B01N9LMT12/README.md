@@ -20,5 +20,5 @@ Learn all kinds of great things about Dennis that you probably never knew.
 * **ID:** amzn1.ask.skill.ad3ddfc3-db2f-4449-b059-2bb4e8b04130
 * **ASIN:** B01N9LMT12
 * **Author:** Dennis Beatty
-* **Release Date:** December 30, 2016 @ 05:49:23
+* **Release Date:** December 30, 2016 @ 06:49:23
 * **In-App Purchasing:** No

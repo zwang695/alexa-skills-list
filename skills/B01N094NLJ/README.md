@@ -21,5 +21,5 @@ Facts were supplied by Will Gellman.
 * **ID:** amzn1.ask.skill.407c4af4-176f-43dc-b488-d00fa45000f8
 * **ASIN:** B01N094NLJ
 * **Author:** Mark and T Software
-* **Release Date:** November 13, 2016 @ 00:43:39
+* **Release Date:** November 13, 2016 @ 01:43:39
 * **In-App Purchasing:** No

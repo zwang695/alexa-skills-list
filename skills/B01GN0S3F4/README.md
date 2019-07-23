@@ -20,5 +20,5 @@ This Alexa skill takes in any word or sentence and returns the reverse of it. Fo
 * **ID:** amzn1.echo-sdk-ams.app.23ed8a00-90ef-4ba5-b418-a1d4d8ec5e32
 * **ASIN:** B01GN0S3F4
 * **Author:** Javier Forero
-* **Release Date:** June 17, 2016 @ 08:45:32
+* **Release Date:** June 17, 2016 @ 09:45:32
 * **In-App Purchasing:** No

@@ -32,6 +32,6 @@ http://www.divvybikes.com/.
 * **ID:** amzn1.ask.skill.6548d115-58b5-4359-bfc0-ba91de7e6ad7
 * **ASIN:** B01LZROIFI
 * **Author:** Mark of Progress
-* **Release Date:** October 4, 2016 @ 03:12:25
+* **Release Date:** October 4, 2016 @ 04:12:25
 * **Privacy Policy:** https://github.com/stephen-hoover/alexa-chicago-bikeshare/blob/v1.0.0/PRIVACY_POLICY.md
 * **In-App Purchasing:** No

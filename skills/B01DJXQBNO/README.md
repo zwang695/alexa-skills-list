@@ -20,5 +20,5 @@ The Elements quiz contains 25 of the most common elements. It is a multiple choi
 * **ID:** amzn1.echo-sdk-ams.app.73fd00b5-7e6c-4e3a-8484-edd3b06448a3
 * **ASIN:** B01DJXQBNO
 * **Author:** Luis Gaytan
-* **Release Date:** March 30, 2016 @ 02:02:30
+* **Release Date:** March 30, 2016 @ 03:02:30
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Want to know more about Taiwan? Come ask me!
 * **ID:** amzn1.ask.skill.c0c04e46-c7f5-47f2-842d-806bbcd024f8
 * **ASIN:** B01MXLJUP1
 * **Author:** ssvictorlin
-* **Release Date:** November 17, 2016 @ 23:05:19
+* **Release Date:** November 18, 2016 @ 00:05:19
 * **In-App Purchasing:** No

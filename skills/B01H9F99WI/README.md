@@ -20,5 +20,5 @@ This skill provides fun and interesting facts about America's old amusement park
 * **ID:** amzn1.echo-sdk-ams.app.54e20612-f58e-48dd-95dd-653353657490
 * **ASIN:** B01H9F99WI
 * **Author:** Erin
-* **Release Date:** June 28, 2016 @ 05:45:54
+* **Release Date:** June 28, 2016 @ 06:45:54
 * **In-App Purchasing:** No

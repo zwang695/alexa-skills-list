@@ -32,7 +32,7 @@ See our full list of supported devices here: https://www.yonomi.co/supported-dev
 * **ID:** amzn1.ask.skill.496d7007-1a5e-4dad-b83b-dd990c984fcb
 * **ASIN:** B01E7TYGFO
 * **Author:** Yonomi
-* **Release Date:** April 19, 2016 @ 17:47:22
+* **Release Date:** April 19, 2016 @ 18:47:22
 * **Privacy Policy:** https://www.yonomi.co/privacy.html
 * **Terms of Use:** https://www.yonomi.co/tos.html
 * **Account Linking Domains:** yonomi.co, api.yonomi.co, auth.yonomi.co

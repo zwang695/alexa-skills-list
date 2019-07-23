@@ -18,5 +18,5 @@ How well do you know your car models? Use this fun quiz to test your knowledge o
 * **ID:** amzn1.ask.skill.22056467-eefa-4a64-a56f-88fb2ab1afed
 * **ASIN:** B01M0WAJND
 * **Author:** John Stepan
-* **Release Date:** October 3, 2016 @ 01:42:34
+* **Release Date:** October 3, 2016 @ 02:42:34
 * **In-App Purchasing:** No

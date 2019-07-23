@@ -22,5 +22,5 @@ In the mood for more than one quote?  Ask Alexa to "open Poor Richard" and Alexa
 * **ID:** amzn1.ask.skill.e1e79ecf-c85e-43cf-b897-dfc5731f5ba1
 * **ASIN:** B01J0BMJWG
 * **Author:** David Anderson
-* **Release Date:** July 29, 2016 @ 05:56:49
+* **Release Date:** July 29, 2016 @ 06:56:49
 * **In-App Purchasing:** No

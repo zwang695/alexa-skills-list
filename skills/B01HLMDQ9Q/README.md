@@ -20,5 +20,5 @@ This app helps users study the hormones and glands in the endocrine system.  Ale
 * **ID:** amzn1.echo-sdk-ams.app.dad1baa1-df37-4462-b0f7-4d46edc2d4ba
 * **ASIN:** B01HLMDQ9Q
 * **Author:** BeeSprout
-* **Release Date:** July 18, 2016 @ 09:57:34
+* **Release Date:** July 18, 2016 @ 10:57:34
 * **In-App Purchasing:** No

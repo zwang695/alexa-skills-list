@@ -20,5 +20,5 @@ Ask Alexa to count a sentence. She will respond with the number of words in this
 * **ID:** amzn1.ask.skill.8e0bf82b-e075-4bfa-86b5-d1325e36862f
 * **ASIN:** B01LXMICC6
 * **Author:** FOOBAR
-* **Release Date:** October 7, 2016 @ 08:42:35
+* **Release Date:** October 7, 2016 @ 09:42:35
 * **In-App Purchasing:** No

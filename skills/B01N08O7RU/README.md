@@ -18,5 +18,5 @@ This skill will inform you of facts related to the baseball. It informs you of p
 * **ID:** amzn1.ask.skill.b4a651d0-60d7-4b29-afce-81ac660d7f0b
 * **ASIN:** B01N08O7RU
 * **Author:** Alex Hoekstra
-* **Release Date:** November 21, 2016 @ 23:35:12
+* **Release Date:** November 22, 2016 @ 00:35:12
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Test your knowledge of rap music from the 1980s with Retro Rap Trivia!  Do you r
 * **ID:** amzn1.ask.skill.541f685f-faa4-4a4e-a07b-f47709291045
 * **ASIN:** B01N69UZA7
 * **Author:** Reductive Media
-* **Release Date:** November 28, 2016 @ 04:05:37
+* **Release Date:** November 28, 2016 @ 05:05:37
 * **In-App Purchasing:** No

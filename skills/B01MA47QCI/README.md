@@ -20,5 +20,5 @@ A skill that gives you some facts and trivia about the Boston city.
 * **ID:** amzn1.ask.skill.98a8d47d-e3db-43bc-b6f2-491674842fc7
 * **ASIN:** B01MA47QCI
 * **Author:** Safina K
-* **Release Date:** October 19, 2016 @ 02:12:33
+* **Release Date:** October 19, 2016 @ 03:12:33
 * **In-App Purchasing:** No

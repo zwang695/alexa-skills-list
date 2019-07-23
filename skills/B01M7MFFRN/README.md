@@ -20,5 +20,5 @@ Hear some random facts about Microsoft, some funny, some serious, some might sur
 * **ID:** amzn1.ask.skill.dc90588f-cbe6-4262-ac08-04597e5707dc
 * **ASIN:** B01M7MFFRN
 * **Author:** Bruno Lewin
-* **Release Date:** October 22, 2016 @ 02:12:24
+* **Release Date:** October 22, 2016 @ 03:12:24
 * **In-App Purchasing:** No

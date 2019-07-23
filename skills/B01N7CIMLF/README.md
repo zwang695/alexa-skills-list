@@ -18,5 +18,5 @@ This skill is meant to be fun and will give random trivia about kids (from a par
 * **ID:** amzn1.ask.skill.8039f9ff-30dc-413c-9ad3-b4c020fe5aa5
 * **ASIN:** B01N7CIMLF
 * **Author:** vWorksTech
-* **Release Date:** December 3, 2016 @ 04:35:23
+* **Release Date:** December 3, 2016 @ 05:35:23
 * **In-App Purchasing:** No

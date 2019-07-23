@@ -26,5 +26,5 @@ Enjoy Bites & Snacks. Stay healthy!
 * **ID:** amzn1.echo-sdk-ams.app.22b1578f-fcb5-4b37-9199-53118e68f70f
 * **ASIN:** B01FCNAMSE
 * **Author:** ricardohdz
-* **Release Date:** May 10, 2016 @ 06:38:41
+* **Release Date:** May 10, 2016 @ 07:38:41
 * **In-App Purchasing:** No

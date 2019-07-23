@@ -24,5 +24,5 @@ This skill is not sponsored by Toronto Public Library, and uses the available pu
 * **ID:** amzn1.ask.skill.d5ea7716-74ff-46e3-9673-b80179371668
 * **ASIN:** B01M3N6GFX
 * **Author:** Pavol Zibrita
-* **Release Date:** October 15, 2016 @ 01:46:10
+* **Release Date:** October 15, 2016 @ 02:46:10
 * **In-App Purchasing:** No

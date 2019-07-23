@@ -20,7 +20,7 @@ This skill will say 5 random songs from the 80s, name the band for each song. So
 * **ID:** amzn1.ask.skill.35154b7f-8020-40ed-b096-08d562745d03
 * **ASIN:** B01JDNSRFO
 * **Author:** Creative Arts and Technology
-* **Release Date:** August 10, 2016 @ 02:08:25
+* **Release Date:** August 10, 2016 @ 03:08:25
 * **Privacy Policy:** http://ledpixelart.com/privacy-policy/
 * **Terms of Use:** http://ledpixelart.com/terms-of-use/
 * **In-App Purchasing:** No

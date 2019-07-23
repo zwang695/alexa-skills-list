@@ -20,5 +20,5 @@ Most of the world uses the very logical metric system and thus for them the Engl
 * **ID:** amzn1.ask.skill.18ae1961-5de6-4ff2-aaa1-a0b3ac3b15d9
 * **ASIN:** B01IRZBNRS
 * **Author:** Jake Mendelssohn
-* **Release Date:** July 28, 2016 @ 02:26:49
+* **Release Date:** July 28, 2016 @ 03:26:49
 * **In-App Purchasing:** No

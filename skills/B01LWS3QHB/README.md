@@ -20,5 +20,5 @@ The Telluride Resort Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.754bd9c3-aed9-4845-b921-5821f3fe8a40
 * **ASIN:** B01LWS3QHB
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:13:59
+* **Release Date:** October 19, 2016 @ 12:13:59
 * **In-App Purchasing:** No

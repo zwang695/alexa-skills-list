@@ -21,6 +21,6 @@ To get started:
 * **ID:** amzn1.ask.skill.6c61fd5a-c11c-46ae-acf1-2f2aba40dcf4
 * **ASIN:** B01IVFOIAI
 * **Author:** WiZN Systems Private Limited
-* **Release Date:** August 19, 2016 @ 16:37:54
+* **Release Date:** August 19, 2016 @ 17:37:54
 * **Privacy Policy:** https://www.myeglu.com/privacy-policy/
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Priority Board helps you get things done. Research shows that focusing on one ta
 * **ID:** amzn1.ask.skill.8b134d77-d2a5-4f4c-95dd-50c0b80b1558
 * **ASIN:** B01N2OLHS4
 * **Author:** smashing garlic
-* **Release Date:** December 7, 2016 @ 07:49:24
+* **Release Date:** December 7, 2016 @ 08:49:24
 * **In-App Purchasing:** No

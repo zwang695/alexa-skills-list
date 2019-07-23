@@ -20,5 +20,5 @@ This skill has very interesting and amusing facts about the history of Farmingto
 * **ID:** amzn1.echo-sdk-ams.app.a88ce90e-c18f-498a-ab0f-b0e0b9ba7dfa
 * **ASIN:** B01I8PM4A2
 * **Author:** Sanmati Choudhary
-* **Release Date:** July 14, 2016 @ 07:27:27
+* **Release Date:** July 14, 2016 @ 08:27:27
 * **In-App Purchasing:** No

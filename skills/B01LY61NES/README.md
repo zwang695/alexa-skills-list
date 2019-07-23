@@ -20,5 +20,5 @@ This Alexa Skill will teach you all about different types of Pizza. Just ask Ale
 * **ID:** amzn1.ask.skill.d43b4941-ab97-45e8-89b4-1a5496e5ce75
 * **ASIN:** B01LY61NES
 * **Author:** Yanofsky Group LLC
-* **Release Date:** September 19, 2016 @ 02:12:55
+* **Release Date:** September 19, 2016 @ 03:12:55
 * **In-App Purchasing:** No

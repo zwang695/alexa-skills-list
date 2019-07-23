@@ -47,7 +47,7 @@ Disclaimer: This skill may not be suitable for all ages so parental discretion i
 * **ID:** amzn1.echo-sdk-ams.app.1afde774-2db3-45f7-acf7-f5d541ecc037
 * **ASIN:** B01L0ALM50
 * **Author:** YNAB
-* **Release Date:** September 4, 2016 @ 04:33:13
+* **Release Date:** September 4, 2016 @ 05:33:13
 * **Privacy Policy:** https://www.youneedabudget.com/privacy-policy
 * **Terms of Use:** https://www.youneedabudget.com/terms
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill tells about religious composition of different countries of the world
 * **ID:** amzn1.ask.skill.68938dda-cf78-427b-a3bb-7a3585aeac6e
 * **ASIN:** B01LY4SNDN
 * **Author:** nitin
-* **Release Date:** September 17, 2016 @ 06:11:31
+* **Release Date:** September 17, 2016 @ 07:11:31
 * **In-App Purchasing:** No

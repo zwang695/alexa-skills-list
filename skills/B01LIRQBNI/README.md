@@ -16,5 +16,5 @@ A good educational skill to learn facts about human body.
 * **ID:** amzn1.ask.skill.98ecfd41-68b0-43b6-b410-92b39e769e3e
 * **ASIN:** B01LIRQBNI
 * **Author:** Shanthan Kesharaju
-* **Release Date:** September 5, 2016 @ 03:33:11
+* **Release Date:** September 5, 2016 @ 04:33:11
 * **In-App Purchasing:** No

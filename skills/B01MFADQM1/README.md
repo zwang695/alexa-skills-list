@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.7c29ce90-1441-4fd5-9f5d-adaf7886f168
 * **ASIN:** B01MFADQM1
 * **Author:** Markus Ulsass
-* **Release Date:** October 27, 2016 @ 02:45:40
+* **Release Date:** October 27, 2016 @ 03:45:40
 * **In-App Purchasing:** No

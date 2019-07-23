@@ -20,5 +20,5 @@ This still will share facts about Georgia Tech traditions. Information included 
 * **ID:** amzn1.ask.skill.2cb940a2-f835-4513-91d2-d873d3dda378
 * **ASIN:** B01MTTS6F3
 * **Author:** CraftyC
-* **Release Date:** December 1, 2016 @ 02:05:51
+* **Release Date:** December 1, 2016 @ 03:05:51
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ To start playing Swamp Trivia just say “Alexa, play Swamp Trivia.” Alexa wil
 * **ID:** amzn1.echo-sdk-ams.app.447f6065-b171-4e66-9279-c0c186c728ed
 * **ASIN:** B01DJCMFPI
 * **Author:** Kelly Wills
-* **Release Date:** March 31, 2016 @ 18:02:22
+* **Release Date:** March 31, 2016 @ 19:02:22
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ The list of words to look up is currently at 7,949. Look for the number of words
 * **ID:** amzn1.echo-sdk-ams.app.9d12620e-b77d-4574-875a-1d4216238838
 * **ASIN:** B01GTA4WMQ
 * **Author:** Loom
-* **Release Date:** July 12, 2016 @ 07:27:42
+* **Release Date:** July 12, 2016 @ 08:27:42
 * **In-App Purchasing:** No

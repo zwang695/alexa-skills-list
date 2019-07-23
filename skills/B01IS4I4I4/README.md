@@ -20,5 +20,5 @@ Ask Alexa to start the game and you will hear a quote from The Office. Then give
 * **ID:** amzn1.ask.skill.a74be314-1eb0-4520-aedf-b306b387aa5b
 * **ASIN:** B01IS4I4I4
 * **Author:** Madison Russo
-* **Release Date:** July 27, 2016 @ 08:57:04
+* **Release Date:** July 27, 2016 @ 09:57:04
 * **In-App Purchasing:** No

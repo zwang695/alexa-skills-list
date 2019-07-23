@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.2fa218b7-f073-492c-b7c9-13b149edeff0
 * **ASIN:** B01MSRPLCR
 * **Author:** Max Schönberger
-* **Release Date:** December 6, 2016 @ 01:05:45
+* **Release Date:** December 6, 2016 @ 02:05:45
 * **In-App Purchasing:** No

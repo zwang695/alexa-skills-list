@@ -20,5 +20,5 @@ This amazon skill helps people by giving them a useful pickup line when they nee
 * **ID:** amzn1.echo-sdk-ams.app.23b99e6f-f559-4422-9ca3-6bac178e6eba
 * **ASIN:** B01E1EDICM
 * **Author:** James & Shawn
-* **Release Date:** April 11, 2016 @ 16:32:26
+* **Release Date:** April 11, 2016 @ 17:32:26
 * **In-App Purchasing:** No

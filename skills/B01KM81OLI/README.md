@@ -20,5 +20,5 @@ Use Terrapin Nav to figure out how many minutes it takes to walk from one buildi
 * **ID:** amzn1.ask.skill.87888735-7c21-432c-8db0-fc18b027f2a4
 * **ASIN:** B01KM81OLI
 * **Author:** Sharvil Parekh
-* **Release Date:** August 24, 2016 @ 06:32:54
+* **Release Date:** August 24, 2016 @ 07:32:54
 * **In-App Purchasing:** No

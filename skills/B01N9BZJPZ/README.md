@@ -20,5 +20,5 @@ The Translated skill gives Alexa the skill to translate sentences from English t
 * **ID:** amzn1.ask.skill.c2cce544-ff0f-4cd1-a103-6035cdfee35f
 * **ASIN:** B01N9BZJPZ
 * **Author:** Translated
-* **Release Date:** January 2, 2017 @ 07:48:59
+* **Release Date:** January 2, 2017 @ 08:48:59
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ You know how, sometimes, a nice word in the morning is all it takes to set your 
 * **ID:** amzn1.echo-sdk-ams.app.cb3e2030-f6a7-43f3-83da-164cccd07896
 * **ASIN:** B01AVKM8NU
 * **Author:** 3PO Labs
-* **Release Date:** January 20, 2016 @ 16:50:46
+* **Release Date:** January 20, 2016 @ 17:50:46
 * **In-App Purchasing:** No

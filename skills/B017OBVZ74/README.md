@@ -20,5 +20,5 @@ Satoshi's Bitcoin Quote is the first, fastest, and funnest way to keep up to dat
 * **ID:** amzn1.echo-sdk-ams.app.d1c6d11c-f58d-4370-b0da-4bccda2a3470
 * **ASIN:** B017OBVZ74
 * **Author:** Majel Tech
-* **Release Date:** November 6, 2015 @ 14:18:24
+* **Release Date:** November 6, 2015 @ 15:18:24
 * **In-App Purchasing:** No

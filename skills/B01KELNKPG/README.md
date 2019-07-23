@@ -21,5 +21,5 @@ Simply just say Alexa, ask fortune teller (whatever you want!)
 * **ID:** amzn1.ask.skill.62be73d7-a8aa-4826-bdb3-9ab58985e944
 * **ASIN:** B01KELNKPG
 * **Author:** Samay Shamdasani
-* **Release Date:** August 22, 2016 @ 07:44:52
+* **Release Date:** August 22, 2016 @ 08:44:52
 * **In-App Purchasing:** No

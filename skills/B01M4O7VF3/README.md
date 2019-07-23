@@ -20,7 +20,7 @@ The Treycent Wine Advisor answers your wine pairing questions like "ask the wine
 * **ID:** amzn1.ask.skill.a853e193-b9ef-4734-ac52-371bdc9e0e81
 * **ASIN:** B01M4O7VF3
 * **Author:** Treycent
-* **Release Date:** October 31, 2016 @ 12:43:41
+* **Release Date:** October 31, 2016 @ 13:43:41
 * **Privacy Policy:** https://treycent.com/app/privacy.html
 * **Terms of Use:** https://treycent.com/app/terms.html
 * **In-App Purchasing:** No

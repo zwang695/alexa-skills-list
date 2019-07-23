@@ -20,5 +20,5 @@ I love keanu as an actor but I enjoy the silly and creative memes that people ha
 * **ID:** amzn1.ask.skill.39ff07fb-b007-41e3-8e00-f1cf0920ed00
 * **ASIN:** B01N0EJ7ET
 * **Author:** Derek Afriyie
-* **Release Date:** December 5, 2016 @ 04:05:24
+* **Release Date:** December 5, 2016 @ 05:05:24
 * **In-App Purchasing:** No

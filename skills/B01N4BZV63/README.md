@@ -20,5 +20,5 @@ Simply say "Alexa, open bar trivia" and the game should start. Five basic questi
 * **ID:** amzn1.ask.skill.50e154ad-4471-4471-ace0-a26b4961b190
 * **ASIN:** B01N4BZV63
 * **Author:** Kess2311
-* **Release Date:** December 11, 2016 @ 02:49:23
+* **Release Date:** December 11, 2016 @ 03:49:23
 * **In-App Purchasing:** No

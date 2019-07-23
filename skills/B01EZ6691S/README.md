@@ -20,5 +20,5 @@ Have Alexa read you the Austin ISD elementary school lunch menu for today, tomor
 * **ID:** amzn1.echo-sdk-ams.app.2072e620-df86-49b5-ae23-c7e0581f431b
 * **ASIN:** B01EZ6691S
 * **Author:** Mark Schulze
-* **Release Date:** May 5, 2016 @ 06:38:36
+* **Release Date:** May 5, 2016 @ 07:38:36
 * **In-App Purchasing:** No

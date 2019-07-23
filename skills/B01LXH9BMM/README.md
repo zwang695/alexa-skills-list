@@ -20,5 +20,5 @@ Have fun with Alexa as she tells you unofficial facts about the company that cre
 * **ID:** amzn1.ask.skill.fab23b12-4b34-48d1-9028-8ddfb6f03416
 * **ASIN:** B01LXH9BMM
 * **Author:** Sai Pc
-* **Release Date:** September 22, 2016 @ 04:42:34
+* **Release Date:** September 22, 2016 @ 05:42:34
 * **In-App Purchasing:** No

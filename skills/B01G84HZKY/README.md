@@ -20,5 +20,5 @@ Recipe Buddy helps you out in the kitchen!  Search thousands of recipes and have
 * **ID:** amzn1.echo-sdk-ams.app.da7da8aa-ecd6-4158-a5dd-8251eeecd873
 * **ASIN:** B01G84HZKY
 * **Author:** APPX
-* **Release Date:** May 30, 2016 @ 09:08:32
+* **Release Date:** May 30, 2016 @ 10:08:32
 * **In-App Purchasing:** No

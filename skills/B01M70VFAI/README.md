@@ -20,5 +20,5 @@ Candice Facts
 * **ID:** amzn1.ask.skill.cac49b8c-dcda-495b-9560-f1b1284e3f9b
 * **ASIN:** B01M70VFAI
 * **Author:** ClickHappy
-* **Release Date:** October 27, 2016 @ 01:46:37
+* **Release Date:** October 27, 2016 @ 02:46:37
 * **In-App Purchasing:** No

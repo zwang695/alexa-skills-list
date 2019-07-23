@@ -20,5 +20,5 @@ Ask Alexa which movie you should watch tonight and let her select a good movie f
 * **ID:** amzn1.ask.skill.00a6830d-db5b-4365-9c7d-0b497167d27a
 * **ASIN:** B01JDPT8DC
 * **Author:** Ritika Borkar
-* **Release Date:** August 5, 2016 @ 06:07:20
+* **Release Date:** August 5, 2016 @ 07:07:20
 * **In-App Purchasing:** No

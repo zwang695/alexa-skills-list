@@ -22,6 +22,6 @@ Weed Buddy does not promote the use, cultivation, or sale of cannabis or any of 
 * **ID:** amzn1.ask.skill.b079b986-0a78-4edd-a285-2832b155c612
 * **ASIN:** B01MU1GYOX
 * **Author:** Carepackage Club
-* **Release Date:** December 30, 2016 @ 23:18:57
+* **Release Date:** December 31, 2016 @ 00:18:57
 * **Privacy Policy:** http://www.echobuddy.us/privacy
 * **In-App Purchasing:** Yes

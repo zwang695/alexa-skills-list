@@ -24,5 +24,5 @@ Alexa Ask math fact to ask me a fact  --- Will ask you a math fact question and 
 * **ID:** amzn1.ask.skill.ba515a8d-f61e-421a-a975-7c03e82061bd
 * **ASIN:** B01N1SGL81
 * **Author:** Joseph Samuel
-* **Release Date:** December 16, 2016 @ 07:19:47
+* **Release Date:** December 16, 2016 @ 08:19:47
 * **In-App Purchasing:** No

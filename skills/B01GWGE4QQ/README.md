@@ -22,5 +22,5 @@ Currently you can ask for the game schedule for a particular country, group or d
 * **ID:** amzn1.echo-sdk-ams.app.8673d599-e3a8-44d1-a43b-dcbcb5b04898
 * **ASIN:** B01GWGE4QQ
 * **Author:** laps
-* **Release Date:** June 16, 2016 @ 07:45:51
+* **Release Date:** June 16, 2016 @ 08:45:51
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Bugle Notes, also known as the "plebe bible," is the manual of plebe knowledge. 
 * **ID:** amzn1.ask.skill.92dc0131-f7d5-4504-9d92-1cfca0afc58e
 * **ASIN:** B01M3V0IMK
 * **Author:** Nathan Huber
-* **Release Date:** November 5, 2016 @ 00:12:37
+* **Release Date:** November 5, 2016 @ 01:12:37
 * **In-App Purchasing:** No

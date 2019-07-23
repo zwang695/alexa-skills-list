@@ -26,7 +26,7 @@ For extended help and examples of using this skill, please visit http://gobbyapp
 * **ID:** amzn1.echo-sdk-ams.app.9a9278b3-2956-42c0-9273-e851442cda76
 * **ASIN:** B017O9O8OS
 * **Author:** Gobby Apps
-* **Release Date:** November 6, 2015 @ 13:13:12
+* **Release Date:** November 6, 2015 @ 14:13:12
 * **Privacy Policy:** http://gobbyapps.com/privacy
 * **Terms of Use:** http://gobbyapps.com/tos
 * **In-App Purchasing:** No

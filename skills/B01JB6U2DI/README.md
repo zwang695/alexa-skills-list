@@ -24,5 +24,5 @@ This skill will diss you. (insult you)
 * **ID:** amzn1.ask.skill.2eafd66b-c40b-4ac7-956e-87b6ec30028b
 * **ASIN:** B01JB6U2DI
 * **Author:** Ryan Phillips
-* **Release Date:** August 1, 2016 @ 09:56:53
+* **Release Date:** August 1, 2016 @ 10:56:53
 * **In-App Purchasing:** No

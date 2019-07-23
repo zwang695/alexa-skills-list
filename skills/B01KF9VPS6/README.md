@@ -22,5 +22,5 @@ User can ask "What should I eat for lunch", or "give me a lunch suggestion", or 
 * **ID:** amzn1.ask.skill.717e189e-c499-4bd8-bd8a-a073c1bd7c92
 * **ASIN:** B01KF9VPS6
 * **Author:** Carlos Chen
-* **Release Date:** August 17, 2016 @ 01:52:40
+* **Release Date:** August 17, 2016 @ 02:52:40
 * **In-App Purchasing:** No

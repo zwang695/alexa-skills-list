@@ -57,7 +57,7 @@ Alexa is compatible with Hive1 and Hive2 thermostats.  Not compatible with Briti
 * **ID:** amzn1.ask.skill.f7e88bbf-bcdf-4727-a7f8-57f572677a37
 * **ASIN:** B01LWK38QD
 * **Author:** British Gas
-* **Release Date:** September 28, 2016 @ 02:42:30
+* **Release Date:** September 28, 2016 @ 03:42:30
 * **Privacy Policy:** https://www.hivehome.com/privacy
 * **Terms of Use:** https://www.hivehome.com/terms
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.7c050d88-ccd3-43f1-8913-80bc19364796
 * **ASIN:** B01MQQEZDP
 * **Author:** Dierk
-* **Release Date:** December 1, 2016 @ 07:05:08
+* **Release Date:** December 1, 2016 @ 08:05:08
 * **In-App Purchasing:** No

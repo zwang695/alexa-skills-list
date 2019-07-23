@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.ca1fcb52-1a1d-419e-afb9-d8e27dfb55e2
 * **ASIN:** B01NADOE7X
 * **Author:** Benjamin Kleine
-* **Release Date:** December 2, 2016 @ 23:35:24
+* **Release Date:** December 3, 2016 @ 00:35:24
 * **In-App Purchasing:** No

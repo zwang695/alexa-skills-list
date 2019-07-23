@@ -20,5 +20,5 @@ This is a list of holidays celebrated at International Technological University 
 * **ID:** amzn1.ask.skill.649bf859-1114-49d4-9f61-c1627b2622e8
 * **ASIN:** B01M02XN90
 * **Author:** ITU
-* **Release Date:** September 28, 2016 @ 17:13:04
+* **Release Date:** September 28, 2016 @ 18:13:04
 * **In-App Purchasing:** No

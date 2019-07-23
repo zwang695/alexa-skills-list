@@ -18,5 +18,5 @@ The casual compliment machine gives you that compliment that you really need to 
 * **ID:** amzn1.ask.skill.08b8052f-9970-49be-a046-13531a043d13
 * **ASIN:** B01MT164Z8
 * **Author:** Emelie
-* **Release Date:** December 22, 2016 @ 04:49:05
+* **Release Date:** December 22, 2016 @ 05:49:05
 * **In-App Purchasing:** No

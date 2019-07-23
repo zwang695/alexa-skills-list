@@ -20,5 +20,5 @@ The Mont Gleason Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.f0ad29c2-e105-4125-8b27-723bfb644488
 * **ASIN:** B01M7Z5NB3
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:12:38
+* **Release Date:** November 5, 2016 @ 12:12:38
 * **In-App Purchasing:** No

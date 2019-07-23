@@ -25,5 +25,5 @@ Note:  This skill was not developed by and has no affiliation with Disney.
 * **ID:** amzn1.ask.skill.c2bdfa81-ee13-4b2a-9d43-527da490fbe7
 * **ASIN:** B01M2BBZ3Z
 * **Author:** Ricky Hervey
-* **Release Date:** November 4, 2016 @ 02:13:17
+* **Release Date:** November 4, 2016 @ 03:13:17
 * **In-App Purchasing:** No

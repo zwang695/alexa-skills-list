@@ -18,5 +18,5 @@ This skill will give you a random fact every time you ask. You can ask for examp
 * **ID:** amzn1.ask.skill.721854bb-2ff9-45d2-a087-8eb7e48c825e
 * **ASIN:** B01NCJOVRA
 * **Author:** Emelie
-* **Release Date:** December 9, 2016 @ 05:49:36
+* **Release Date:** December 9, 2016 @ 06:49:36
 * **In-App Purchasing:** No

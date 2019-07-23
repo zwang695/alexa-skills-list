@@ -28,5 +28,5 @@ This skill is fun to play alone, or compete against your friends and family. You
 * **ID:** amzn1.echo-sdk-ams.app.ec00bcfa-beef-4166-b1a5-66f6e7ec89ca
 * **ASIN:** B01CEA1VHO
 * **Author:** KevinTMay.com
-* **Release Date:** March 1, 2016 @ 03:27:48
+* **Release Date:** March 1, 2016 @ 04:27:48
 * **In-App Purchasing:** No

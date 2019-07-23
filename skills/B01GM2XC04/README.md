@@ -20,5 +20,5 @@ Chuck Norris facts are satirical factoids about martial artist and actor Chuck N
 * **ID:** amzn1.echo-sdk-ams.app.7cf24ea7-221e-4cb4-b364-b2e733695b5e
 * **ASIN:** B01GM2XC04
 * **Author:** Jer Warren
-* **Release Date:** June 7, 2016 @ 04:38:29
+* **Release Date:** June 7, 2016 @ 05:38:29
 * **In-App Purchasing:** No

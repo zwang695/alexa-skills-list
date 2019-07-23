@@ -20,5 +20,5 @@ The Hemlock Resort Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.b8aa9476-4644-404d-9a10-e73fd0ca3746
 * **ASIN:** B01LZXWY4S
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:55:58
+* **Release Date:** October 20, 2016 @ 03:55:58
 * **In-App Purchasing:** No

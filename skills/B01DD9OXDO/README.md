@@ -20,5 +20,5 @@ Biking Wizard checks the weather for you and tells you if the conditions are rig
 * **ID:** amzn1.echo-sdk-ams.app.375fa265-94fa-4201-8621-d67cc548dd9d
 * **ASIN:** B01DD9OXDO
 * **Author:** ncave
-* **Release Date:** March 24, 2016 @ 01:22:31
+* **Release Date:** March 24, 2016 @ 02:22:31
 * **In-App Purchasing:** No

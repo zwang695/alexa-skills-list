@@ -20,5 +20,5 @@ This skill will return facts about handguns and the ammunition they use.  The to
 * **ID:** amzn1.ask.skill.460ba1a4-93fd-4fd1-883f-6fe1df41efe0
 * **ASIN:** B01J0QGUKI
 * **Author:** Belgarion Apps
-* **Release Date:** July 26, 2016 @ 02:56:26
+* **Release Date:** July 26, 2016 @ 03:56:26
 * **In-App Purchasing:** No

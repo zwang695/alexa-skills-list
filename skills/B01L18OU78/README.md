@@ -20,5 +20,5 @@ President Ronald Reagan was credited with saying many famous quotes.  This fun f
 * **ID:** amzn1.ask.skill.b1a514bc-e1b3-4fa8-b2d9-a9df8bf082b5
 * **ASIN:** B01L18OU78
 * **Author:** aventir
-* **Release Date:** August 26, 2016 @ 04:32:41
+* **Release Date:** August 26, 2016 @ 05:32:41
 * **In-App Purchasing:** No

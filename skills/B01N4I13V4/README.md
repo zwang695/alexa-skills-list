@@ -20,5 +20,5 @@ This skill is a trivia game that asks various questions regarding Seattle, WA. F
 * **ID:** amzn1.ask.skill.db5eafa6-d7e0-42b1-aeb0-5d6874cf6ccc
 * **ASIN:** B01N4I13V4
 * **Author:** nobetw
-* **Release Date:** December 28, 2016 @ 05:19:24
+* **Release Date:** December 28, 2016 @ 06:19:24
 * **In-App Purchasing:** No

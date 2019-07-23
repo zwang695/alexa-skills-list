@@ -16,5 +16,5 @@ This skill can be used to learn about the basic information about the game of cr
 * **ID:** amzn1.ask.skill.73d646a9-b95b-4680-923c-8f6b36a69fc2
 * **ASIN:** B01KPE0IKM
 * **Author:** Rahil Shah
-* **Release Date:** August 22, 2016 @ 02:07:50
+* **Release Date:** August 22, 2016 @ 03:07:50
 * **In-App Purchasing:** No

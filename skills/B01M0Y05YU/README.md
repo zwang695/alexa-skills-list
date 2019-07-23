@@ -16,5 +16,5 @@ These fun facts about the sun will make you want to throw on a pair of shades an
 * **ID:** amzn1.ask.skill.8b745c78-6931-4327-b64a-5553e94ee050
 * **ASIN:** B01M0Y05YU
 * **Author:** JustinCadburyWong
-* **Release Date:** October 4, 2016 @ 02:42:48
+* **Release Date:** October 4, 2016 @ 03:42:48
 * **In-App Purchasing:** No

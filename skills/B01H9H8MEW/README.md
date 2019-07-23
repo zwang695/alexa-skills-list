@@ -27,5 +27,5 @@ Start exploring!
 * **ID:** amzn1.echo-sdk-ams.app.52d175e7-79b1-48fd-b28f-091dd9ca16a5
 * **ASIN:** B01H9H8MEW
 * **Author:** ricardohdz
-* **Release Date:** June 21, 2016 @ 07:15:37
+* **Release Date:** June 21, 2016 @ 08:15:37
 * **In-App Purchasing:** No

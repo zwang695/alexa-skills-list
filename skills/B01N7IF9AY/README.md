@@ -20,5 +20,5 @@ Get random quotes from Benjamin Franklin
 * **ID:** amzn1.ask.skill.bb9887cb-7268-4681-908d-50b0288aa619
 * **ASIN:** B01N7IF9AY
 * **Author:** greenspagetti
-* **Release Date:** December 15, 2016 @ 06:19:24
+* **Release Date:** December 15, 2016 @ 07:19:24
 * **In-App Purchasing:** No

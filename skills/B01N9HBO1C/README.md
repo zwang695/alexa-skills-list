@@ -18,5 +18,5 @@ Listen to random Oscar Wilde quotes
 * **ID:** amzn1.ask.skill.599b677e-0c66-416a-afda-334bda57cb45
 * **ASIN:** B01N9HBO1C
 * **Author:** Karthik Kirupanithi
-* **Release Date:** January 3, 2017 @ 01:19:53
+* **Release Date:** January 3, 2017 @ 02:19:53
 * **In-App Purchasing:** No

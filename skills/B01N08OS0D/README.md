@@ -20,5 +20,5 @@ Quickly look up the recipes for several popular drinks just by asking fancy bart
 * **ID:** amzn1.ask.skill.1e8ce96a-9fdb-44a6-8290-81bcfafc3df7
 * **ASIN:** B01N08OS0D
 * **Author:** Mogul
-* **Release Date:** November 17, 2016 @ 23:05:33
+* **Release Date:** November 18, 2016 @ 00:05:33
 * **In-App Purchasing:** No

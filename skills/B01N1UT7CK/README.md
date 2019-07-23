@@ -20,5 +20,5 @@ This skill provides facts about the regular cast of characters on the five Star 
 * **ID:** amzn1.ask.skill.4bb2ddb2-8899-465a-a976-14f5003feeff
 * **ASIN:** B01N1UT7CK
 * **Author:** Worth a Shot
-* **Release Date:** December 29, 2016 @ 22:49:21
+* **Release Date:** December 29, 2016 @ 23:49:21
 * **In-App Purchasing:** No

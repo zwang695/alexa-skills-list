@@ -20,5 +20,5 @@ This skills identifies Marvin's favorites skills. Once enabled it provides a bri
 * **ID:** amzn1.ask.skill.3f274f9e-838f-428d-b03c-acbba2cfcd86
 * **ASIN:** B01NBKQVVS
 * **Author:** Long Hair Guru Inc.
-* **Release Date:** December 18, 2016 @ 01:49:50
+* **Release Date:** December 18, 2016 @ 02:49:50
 * **In-App Purchasing:** No

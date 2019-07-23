@@ -20,7 +20,7 @@ Alexa will say a color for you to repeat, then two then three, all the way to te
 * **ID:** amzn1.echo-sdk-ams.app.f0af7698-962b-43b5-a333-7ec2be581cab
 * **ASIN:** B01DJKW7HQ
 * **Author:** William Brenza
-* **Release Date:** March 30, 2016 @ 18:02:23
+* **Release Date:** March 30, 2016 @ 19:02:23
 * **Privacy Policy:** http://william-brenza-zqse.squarespace.com/terms-and-conditions-of-use/
 * **Terms of Use:** http://william-brenza-zqse.squarespace.com/terms-and-conditions-of-use/
 * **In-App Purchasing:** No

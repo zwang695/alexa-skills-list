@@ -22,5 +22,5 @@ This skill is unofficial and is not sponsored or endorsed by Niantic the creator
 * **ID:** amzn1.ask.skill.a52a5583-3eb1-4283-afe6-d55aaf5731cf
 * **ASIN:** B01N2R6J69
 * **Author:** John Spaetzel
-* **Release Date:** January 3, 2017 @ 03:49:09
+* **Release Date:** January 3, 2017 @ 04:49:09
 * **In-App Purchasing:** No

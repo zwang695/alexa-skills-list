@@ -20,7 +20,7 @@ If your car could talk, what would it say? Mojio and Echo make it possible to co
 * **ID:** amzn1.echo-sdk-ams.app.10fc3740-6435-4f8b-9c1a-368fb2937d74
 * **ASIN:** B0192NS6VU
 * **Author:** Mojio Inc
-* **Release Date:** December 7, 2015 @ 21:20:13
+* **Release Date:** December 7, 2015 @ 22:20:13
 * **Privacy Policy:** http://moj.io/privacy
 * **Terms of Use:** http://moj.io/terms
 * **In-App Purchasing:** No

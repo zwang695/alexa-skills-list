@@ -16,5 +16,5 @@ Gets outfit recommendation from server
 * **ID:** amzn1.ask.skill.1cbc9d24-cb69-4af2-99b8-65180a3d4af2
 * **ASIN:** B01NBQL1TW
 * **Author:** Summer Wu
-* **Release Date:** January 3, 2017 @ 10:21:18
+* **Release Date:** January 3, 2017 @ 11:21:18
 * **In-App Purchasing:** No

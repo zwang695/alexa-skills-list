@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.aed711c0-b628-45aa-a4e4-ba34d464ac44
 * **ASIN:** B01N8ZFV08
 * **Author:** SG
-* **Release Date:** November 21, 2016 @ 23:36:47
+* **Release Date:** November 22, 2016 @ 00:36:47
 * **In-App Purchasing:** No

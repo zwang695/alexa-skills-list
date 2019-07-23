@@ -20,5 +20,5 @@ Ever wanted to know random facts about a developing baby in the womb? Go ahead a
 * **ID:** amzn1.echo-sdk-ams.app.42e52c1f-55fd-4a39-971f-287acccc97e5
 * **ASIN:** B01FOP3I0Y
 * **Author:** kthmorgan
-* **Release Date:** May 20, 2016 @ 03:08:45
+* **Release Date:** May 20, 2016 @ 04:08:45
 * **In-App Purchasing:** No

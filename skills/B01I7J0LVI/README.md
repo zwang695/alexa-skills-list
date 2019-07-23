@@ -21,5 +21,5 @@ Facts about reptiles. Prompt Alexa by saying:
 * **ID:** amzn1.echo-sdk-ams.app.9c288f11-844b-41ed-a430-c6d47ffd47a7
 * **ASIN:** B01I7J0LVI
 * **Author:** UTC
-* **Release Date:** July 26, 2016 @ 06:56:26
+* **Release Date:** July 26, 2016 @ 07:56:26
 * **In-App Purchasing:** No

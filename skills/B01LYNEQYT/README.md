@@ -20,5 +20,5 @@ This is a simple app that assists you with decoding the three color bands on res
 * **ID:** amzn1.ask.skill.b9dfb5cb-1a3a-42b8-90ac-78b16f165df2
 * **ASIN:** B01LYNEQYT
 * **Author:** Nicholas Fang
-* **Release Date:** October 6, 2016 @ 05:11:55
+* **Release Date:** October 6, 2016 @ 06:11:55
 * **In-App Purchasing:** No

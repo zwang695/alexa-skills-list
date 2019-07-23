@@ -22,5 +22,5 @@ Gift Genie will suggest a gift instantly! :)
 * **ID:** amzn1.ask.skill.f2679642-788f-4851-a345-6806e0637565
 * **ASIN:** B01N01I1I4
 * **Author:** Kristine Nguyen
-* **Release Date:** November 21, 2016 @ 00:35:22
+* **Release Date:** November 21, 2016 @ 01:35:22
 * **In-App Purchasing:** No

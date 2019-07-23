@@ -24,7 +24,7 @@ In this first version, intentions are selected at random.
 * **ID:** amzn1.ask.skill.9a017802-b362-4745-a2ca-3bca7256b38a
 * **ASIN:** B01N7EYODX
 * **Author:** Found Studios LLC
-* **Release Date:** December 21, 2016 @ 05:49:48
+* **Release Date:** December 21, 2016 @ 06:49:48
 * **Privacy Policy:** http://heartfelt.life/privacy
 * **Terms of Use:** http://heartfelt.life/terms-of-service
 * **In-App Purchasing:** No

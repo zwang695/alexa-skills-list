@@ -20,5 +20,5 @@ How much time have you spent in MitchMania Labs?  Show off your experience and k
 * **ID:** amzn1.echo-sdk-ams.app.33d07fad-5849-404d-b56a-1a43b12bc743
 * **ASIN:** B01JFVGZW6
 * **Author:** MitchMania Labs
-* **Release Date:** November 2, 2016 @ 03:43:29
+* **Release Date:** November 2, 2016 @ 04:43:29
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Facts and figures about the the fourth planet t from the Sun, the planet Mars.
 * **ID:** amzn1.echo-sdk-ams.app.d0eeeed7-1cfe-4baa-8e4c-736b9888a778
 * **ASIN:** B01H9RQOPQ
 * **Author:** ConnorsFour
-* **Release Date:** June 22, 2016 @ 08:16:03
+* **Release Date:** June 22, 2016 @ 09:16:03
 * **In-App Purchasing:** No

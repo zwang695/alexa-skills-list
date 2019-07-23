@@ -30,7 +30,7 @@ If you encounter any problems, please contact August at http://support.august.co
 * **ID:** amzn1.echo-sdk-ams.app.59c45b34-5311-4b23-bc46-e06f94363d67
 * **ASIN:** B01G5UWV64
 * **Author:** August Home
-* **Release Date:** July 27, 2016 @ 19:56:39
+* **Release Date:** July 27, 2016 @ 20:56:39
 * **Privacy Policy:** http://august.com/legal/privacy-policy/
 * **Terms of Use:** http://august.com/legal/terms-of-service/
 * **Account Linking Domains:** august.com, auth.august.com, partners.august.com, rackcdn.com, s3-us-west-2.amazonaws.com

@@ -20,5 +20,5 @@ This skill gives facts about Thanksgiving celebrations in United States and Cana
 * **ID:** amzn1.ask.skill.b3007983-0262-49c0-a5fe-55a5cfba8993
 * **ASIN:** B01MTRBN4R
 * **Author:** Rajesh Agrawal
-* **Release Date:** November 25, 2016 @ 09:05:18
+* **Release Date:** November 25, 2016 @ 10:05:18
 * **In-App Purchasing:** No

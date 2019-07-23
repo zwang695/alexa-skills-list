@@ -20,5 +20,5 @@ Num Rand will give you a random number within a given range. Ask it for a number
 * **ID:** amzn1.ask.skill.ad1d9289-2233-4bd7-a2aa-6a2c7629ea83
 * **ASIN:** B01NBENK2G
 * **Author:** John Carney
-* **Release Date:** December 29, 2016 @ 04:49:58
+* **Release Date:** December 29, 2016 @ 05:49:58
 * **In-App Purchasing:** No

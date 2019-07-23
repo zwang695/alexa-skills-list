@@ -20,5 +20,5 @@ Have fun getting to know more facts about Google, Inc. - the worlds largest sear
 * **ID:** amzn1.ask.skill.6ba6945d-f923-42d9-bdf4-f4691833149c
 * **ASIN:** B01M0QVNR1
 * **Author:** Sai Pc
-* **Release Date:** November 13, 2016 @ 00:43:34
+* **Release Date:** November 13, 2016 @ 01:43:34
 * **In-App Purchasing:** No

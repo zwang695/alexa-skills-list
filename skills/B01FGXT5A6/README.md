@@ -21,7 +21,7 @@ General casino rules are used. But if you want to know specifics, you can ask fo
 * **ID:** amzn1.echo-sdk-ams.app.42d63611-1265-4d49-b663-9a59bfcae2ad
 * **ASIN:** B01FGXT5A6
 * **Author:** TsaTsaTzu
-* **Release Date:** May 25, 2016 @ 16:38:28
+* **Release Date:** May 25, 2016 @ 17:38:28
 * **Privacy Policy:** http://ocean-of-storms.com/tsatsatzu/legal/bj_privacy.htm
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/bj_terms.htm
 * **In-App Purchasing:** No

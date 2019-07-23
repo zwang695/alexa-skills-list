@@ -22,5 +22,5 @@ Make your choice -- Rock, Paper, or Scissors.  Will you beat Alexa?
 * **ID:** amzn1.ask.skill.f48d2724-dd51-4b03-820b-48ac645d86e1
 * **ASIN:** B01MF9XCDL
 * **Author:** Andrew Bergstrom
-* **Release Date:** October 31, 2016 @ 12:12:35
+* **Release Date:** October 31, 2016 @ 13:12:35
 * **In-App Purchasing:** No

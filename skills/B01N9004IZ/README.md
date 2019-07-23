@@ -20,5 +20,5 @@ Unofficial wizarding facts about Harry Potter and Hogwarts.
 * **ID:** amzn1.ask.skill.98cd77bc-d184-4dd5-82b3-ac277617f63c
 * **ASIN:** B01N9004IZ
 * **Author:** Emily Lam
-* **Release Date:** December 4, 2016 @ 01:05:20
+* **Release Date:** December 4, 2016 @ 02:05:20
 * **In-App Purchasing:** No

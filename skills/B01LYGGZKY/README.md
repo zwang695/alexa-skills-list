@@ -20,5 +20,5 @@ Alexa asks you a series of questions and you answer with "yes" and "no". Based o
 * **ID:** amzn1.ask.skill.f51be784-c3fe-4199-9857-3cfed5a79e55
 * **ASIN:** B01LYGGZKY
 * **Author:** Sujogya
-* **Release Date:** September 14, 2016 @ 21:42:44
+* **Release Date:** September 14, 2016 @ 22:42:44
 * **In-App Purchasing:** No

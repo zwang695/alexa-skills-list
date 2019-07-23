@@ -22,5 +22,5 @@ It will ask you for a value either in Roman Numeral or a number to convert from.
 * **ID:** amzn1.echo-sdk-ams.app.0d41c932-aa1f-4fe9-be87-008e145cad5f
 * **ASIN:** B01GY8Z8VC
 * **Author:** Spraypaint
-* **Release Date:** June 20, 2016 @ 02:15:46
+* **Release Date:** June 20, 2016 @ 03:15:46
 * **In-App Purchasing:** No

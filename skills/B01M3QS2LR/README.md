@@ -23,5 +23,5 @@ This skill is fun to play with friends and family and it can also enhanced your 
 * **ID:** amzn1.ask.skill.d30b4a30-07fb-431d-9b01-fdc3f8fe9ef4
 * **ASIN:** B01M3QS2LR
 * **Author:** muyaszed
-* **Release Date:** October 21, 2016 @ 01:42:33
+* **Release Date:** October 21, 2016 @ 02:42:33
 * **In-App Purchasing:** No

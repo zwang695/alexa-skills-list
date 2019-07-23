@@ -20,5 +20,5 @@ Learn about the interesting country called Australia. Why are the koala's dying?
 * **ID:** amzn1.echo-sdk-ams.app.7f9f1b10-4482-42ed-b4f4-d3cb5163d675
 * **ASIN:** B01DSMSY7C
 * **Author:** Braiden Judd
-* **Release Date:** April 6, 2016 @ 05:32:46
+* **Release Date:** April 6, 2016 @ 06:32:46
 * **In-App Purchasing:** No

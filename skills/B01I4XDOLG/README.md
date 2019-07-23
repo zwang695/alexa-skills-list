@@ -20,5 +20,5 @@ Trivia game that will help test your knowledge on the history of professional ba
 * **ID:** amzn1.echo-sdk-ams.app.e3334e93-37a7-4978-b699-48a61d95d4ac
 * **ASIN:** B01I4XDOLG
 * **Author:** Anthony Cuevas
-* **Release Date:** July 8, 2016 @ 05:27:36
+* **Release Date:** July 8, 2016 @ 06:27:36
 * **In-App Purchasing:** No

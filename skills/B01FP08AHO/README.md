@@ -20,5 +20,5 @@ Provides key trivia about past and present US Presidents by name or number.
 * **ID:** amzn1.echo-sdk-ams.app.5a6a551a-550e-4a27-806e-f67e90b1c243
 * **ASIN:** B01FP08AHO
 * **Author:** lepus magnum
-* **Release Date:** May 23, 2016 @ 06:38:33
+* **Release Date:** May 23, 2016 @ 07:38:33
 * **In-App Purchasing:** No

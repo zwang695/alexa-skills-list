@@ -20,5 +20,5 @@ This skill allows you to generate a quick, good human name (male or female) for 
 * **ID:** amzn1.ask.skill.54ed7aa9-3b1b-4941-b0ed-2140f0ea5ffe
 * **ASIN:** B01MPXQUQC
 * **Author:** Brandon
-* **Release Date:** November 2, 2016 @ 09:14:11
+* **Release Date:** November 2, 2016 @ 10:14:11
 * **In-App Purchasing:** No

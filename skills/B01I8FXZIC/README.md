@@ -20,5 +20,5 @@ How much do you know about these US Treasures?  Take this quiz to see how well y
 * **ID:** amzn1.echo-sdk-ams.app.d1c69560-9e24-4269-bdaf-5ed1981d1562
 * **ASIN:** B01I8FXZIC
 * **Author:** Carl
-* **Release Date:** July 13, 2016 @ 06:57:56
+* **Release Date:** July 13, 2016 @ 07:57:56
 * **In-App Purchasing:** No

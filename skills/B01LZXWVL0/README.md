@@ -20,5 +20,5 @@ The Powder King Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.37996ce9-d9ce-4271-898e-3ddffc0259d7
 * **ASIN:** B01LZXWVL0
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:45:33
+* **Release Date:** October 20, 2016 @ 04:45:33
 * **In-App Purchasing:** No

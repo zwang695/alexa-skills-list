@@ -20,5 +20,5 @@ The Daily Content Exam provides you with daily review material that will be help
 * **ID:** amzn1.echo-sdk-ams.app.57dbcf83-8099-4f6d-855a-9628d52ea9a3
 * **ASIN:** B01I22BUN8
 * **Author:** Licensure Exams, Inc.
-* **Release Date:** July 12, 2016 @ 07:27:41
+* **Release Date:** July 12, 2016 @ 08:27:41
 * **In-App Purchasing:** No

@@ -23,5 +23,5 @@ Go to http://koncipi.com to keep up to date on this and other voice apps with th
 * **ID:** amzn1.echo-sdk-ams.app.1e7d9dc0-6037-4227-9e7a-fab00f9be9db
 * **ASIN:** B01CE30RSK
 * **Author:** Mitch Buchman
-* **Release Date:** March 1, 2016 @ 01:08:26
+* **Release Date:** March 1, 2016 @ 02:08:26
 * **In-App Purchasing:** No

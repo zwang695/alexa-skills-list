@@ -20,5 +20,5 @@ The Mount Peter Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.ef813dc1-0153-406d-83ec-a501903c0ed1
 * **ASIN:** B01MQ0W7QB
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:44:24
+* **Release Date:** October 26, 2016 @ 04:44:24
 * **In-App Purchasing:** No

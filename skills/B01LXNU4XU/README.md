@@ -20,5 +20,5 @@ The Big White Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.45290a37-0161-4c7d-a4a9-3e77fa96c21c
 * **ASIN:** B01LXNU4XU
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:17:11
+* **Release Date:** October 20, 2016 @ 04:17:11
 * **In-App Purchasing:** No

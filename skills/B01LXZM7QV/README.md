@@ -20,7 +20,7 @@ Provides current weather conditions, including weather alerts and lightning info
 * **ID:** amzn1.ask.skill.3e53e36b-c2e0-441f-a3b8-31fc6f90cef7
 * **ASIN:** B01LXZM7QV
 * **Author:** Earth Networks
-* **Release Date:** November 9, 2016 @ 00:46:48
+* **Release Date:** November 9, 2016 @ 01:46:48
 * **Privacy Policy:** http://weather.weatherbug.com/legal/privacy
 * **Terms of Use:** http://weather.weatherbug.com/legal/terms
 * **In-App Purchasing:** No

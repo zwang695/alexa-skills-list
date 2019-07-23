@@ -24,5 +24,5 @@ There are hundreds of possible ghosts, see if you can catch them all!
 * **ID:** amzn1.echo-sdk-ams.app.8cf655f7-821e-4e0f-827e-994f6626712b
 * **ASIN:** B01EYBJ19Q
 * **Author:** deegles.co
-* **Release Date:** May 2, 2016 @ 23:08:28
+* **Release Date:** May 3, 2016 @ 00:08:28
 * **In-App Purchasing:** No

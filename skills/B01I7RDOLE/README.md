@@ -20,5 +20,5 @@ A match the song to the album game for Steely Dan. The title of this skill conta
 * **ID:** amzn1.echo-sdk-ams.app.8e42ceb7-a74d-4eb6-a992-d2e66f6234ee
 * **ASIN:** B01I7RDOLE
 * **Author:** BLT Robotics
-* **Release Date:** July 14, 2016 @ 02:27:37
+* **Release Date:** July 14, 2016 @ 03:27:37
 * **In-App Purchasing:** No

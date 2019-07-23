@@ -16,5 +16,5 @@ Ask Alexa to tell you an amazing fact about the human body
 * **ID:** amzn1.ask.skill.4dca4e0e-a593-4e06-840e-1ac676b19dce
 * **ASIN:** B01N787STJ
 * **Author:** Reply GmbH
-* **Release Date:** November 25, 2016 @ 03:37:22
+* **Release Date:** November 25, 2016 @ 04:37:22
 * **In-App Purchasing:** No

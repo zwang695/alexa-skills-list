@@ -20,5 +20,5 @@ Dreaming of Travel? Stay inspired by getting a fun travel fact of the day. Each 
 * **ID:** amzn1.ask.skill.fec99e96-5d2b-4b79-9e35-6d8ebd2e4137
 * **ASIN:** B01LYIA4QM
 * **Author:** Tyler Predale
-* **Release Date:** September 19, 2016 @ 02:12:49
+* **Release Date:** September 19, 2016 @ 03:12:49
 * **In-App Purchasing:** No

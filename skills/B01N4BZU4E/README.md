@@ -24,5 +24,5 @@ Make sure you use the player's first and last name. If you have trouble with Ale
 * **ID:** amzn1.ask.skill.2b9967a2-0edd-4e7e-abdc-6c5a3e4c8d19
 * **ASIN:** B01N4BZU4E
 * **Author:** Dan Dorszynski
-* **Release Date:** December 20, 2016 @ 06:49:13
+* **Release Date:** December 20, 2016 @ 07:49:13
 * **In-App Purchasing:** No

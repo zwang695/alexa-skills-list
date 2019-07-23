@@ -20,5 +20,5 @@ Billy the Random Number Goat will provide you with a random number. If you ask B
 * **ID:** amzn1.echo-sdk-ams.app.d7e5e31d-7170-4528-b392-72d3531b66d2
 * **ASIN:** B01DYBRM0M
 * **Author:** Coding Werk
-* **Release Date:** April 13, 2016 @ 03:02:33
+* **Release Date:** April 13, 2016 @ 04:02:33
 * **In-App Purchasing:** No

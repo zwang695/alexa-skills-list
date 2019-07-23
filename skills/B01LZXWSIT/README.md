@@ -20,5 +20,5 @@ The Canada Olympic Park Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.a0b6cee0-1047-43c2-a058-a058a61af138
 * **ASIN:** B01LZXWSIT
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:46:09
+* **Release Date:** October 20, 2016 @ 04:46:09
 * **In-App Purchasing:** No

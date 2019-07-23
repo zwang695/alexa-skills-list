@@ -20,7 +20,7 @@ The following list of questions for New York Human Resources professionals and e
 * **ID:** amzn1.echo-sdk-ams.app.bde074d5-9907-430f-8a49-c6b330e13dfe
 * **ASIN:** B01GW6B004
 * **Author:** Justin M. Grant
-* **Release Date:** June 15, 2016 @ 06:15:39
+* **Release Date:** June 15, 2016 @ 07:15:39
 * **Privacy Policy:** https://hrsimple.com/privacy-policy
 * **Terms of Use:** https://hrsimple.com/terms
 * **In-App Purchasing:** No

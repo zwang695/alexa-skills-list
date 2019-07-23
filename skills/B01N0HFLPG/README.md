@@ -44,7 +44,7 @@ Mastermind currently works on the following platforms:
 * **ID:** amzn1.ask.skill.ef59402e-dfc6-42fd-8d34-600302f0f04a
 * **ASIN:** B01N0HFLPG
 * **Author:** Convessa, Inc.
-* **Release Date:** December 16, 2016 @ 01:22:06
+* **Release Date:** December 16, 2016 @ 02:22:06
 * **Privacy Policy:** http://mastermindbot.com/privacy/
 * **Terms of Use:** http://mastermindbot.com/tos/
 * **Account Linking Domains:** server.mastermindbot.com, mastermindbot.com, apis.google.com, accounts.google.com, ssl.gstatic.com

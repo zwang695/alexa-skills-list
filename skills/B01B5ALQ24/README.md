@@ -20,5 +20,5 @@ This skill tell you interesting facts about India which most people don't know.
 * **ID:** amzn1.echo-sdk-ams.app.381c7b1e-b98b-44cd-9cd0-6878ceb27a4e
 * **ASIN:** B01B5ALQ24
 * **Author:** Anand Kumar
-* **Release Date:** January 27, 2016 @ 14:50:47
+* **Release Date:** January 27, 2016 @ 15:50:47
 * **In-App Purchasing:** No

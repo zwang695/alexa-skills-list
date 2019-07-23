@@ -20,5 +20,5 @@ Have you ever just wanted a little compliment? The Admirer application does just
 * **ID:** amzn1.echo-sdk-ams.app.2e2892c7-7100-4c78-a454-b77c05c9fe8b
 * **ASIN:** B019HU8AMS
 * **Author:** Edmonds LLP
-* **Release Date:** December 17, 2015 @ 18:11:34
+* **Release Date:** December 17, 2015 @ 19:11:34
 * **In-App Purchasing:** No

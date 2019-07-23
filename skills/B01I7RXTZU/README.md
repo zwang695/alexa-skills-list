@@ -20,5 +20,5 @@ Queries the location of an IP address and returns the location of where that IP 
 * **ID:** amzn1.echo-sdk-ams.app.b0746cbc-88b4-46af-98aa-229e5c625002
 * **ASIN:** B01I7RXTZU
 * **Author:** dyim42
-* **Release Date:** July 19, 2016 @ 06:58:32
+* **Release Date:** July 19, 2016 @ 07:58:32
 * **In-App Purchasing:** No

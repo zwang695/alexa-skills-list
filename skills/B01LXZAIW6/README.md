@@ -22,5 +22,5 @@ This application's goal is to teach you a bit more about the history of the wond
 * **ID:** amzn1.ask.skill.56f22c24-ba7c-48c9-a2ce-efcd98a1c2a7
 * **ASIN:** B01LXZAIW6
 * **Author:** Nerus
-* **Release Date:** October 19, 2016 @ 01:13:18
+* **Release Date:** October 19, 2016 @ 02:13:18
 * **In-App Purchasing:** No

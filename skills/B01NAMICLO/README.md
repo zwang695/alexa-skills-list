@@ -16,5 +16,5 @@ Collection of quotes from Pacheco/Marquez/Otero family members.
 * **ID:** amzn1.ask.skill.5b274da2-3404-4f15-8676-a13402de5b74
 * **ASIN:** B01NAMICLO
 * **Author:** Roman Joel Pacheco
-* **Release Date:** December 26, 2016 @ 00:49:10
+* **Release Date:** December 26, 2016 @ 01:49:10
 * **In-App Purchasing:** No

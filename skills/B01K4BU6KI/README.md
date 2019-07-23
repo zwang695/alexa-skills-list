@@ -20,5 +20,5 @@ Quotes on good and healthy relationships. Users can tune in to this skill to hea
 * **ID:** amzn1.ask.skill.1e54491c-390d-4019-8a6a-b83366e2efc3
 * **ASIN:** B01K4BU6KI
 * **Author:** vince_v
-* **Release Date:** August 12, 2016 @ 02:37:40
+* **Release Date:** August 12, 2016 @ 03:37:40
 * **In-App Purchasing:** No

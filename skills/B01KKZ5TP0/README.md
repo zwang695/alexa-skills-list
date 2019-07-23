@@ -22,6 +22,6 @@ If you are having trouble spelling some letters, feel free to use the NATO or We
 * **ID:** amzn1.ask.skill.18a84c1b-a040-4d8e-8586-412d32de921c
 * **ASIN:** B01KKZ5TP0
 * **Author:** Josep Valls-Vargas
-* **Release Date:** August 22, 2016 @ 03:37:57
+* **Release Date:** August 22, 2016 @ 04:37:57
 * **Terms of Use:** http://115iec5pk1.execute-api.us-east-1.amazonaws.com/prod/pub
 * **In-App Purchasing:** No

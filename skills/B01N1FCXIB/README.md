@@ -16,5 +16,5 @@ Trivia quiz based on Harvard's CS50 class. Respond to 5 randomly-chosen question
 * **ID:** amzn1.ask.skill.7ddfdbff-8e44-425f-9108-4f927f95c5ef
 * **ASIN:** B01N1FCXIB
 * **Author:** Jay Barr
-* **Release Date:** November 17, 2016 @ 00:05:22
+* **Release Date:** November 17, 2016 @ 01:05:22
 * **In-App Purchasing:** No

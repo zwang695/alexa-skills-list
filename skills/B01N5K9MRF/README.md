@@ -20,5 +20,5 @@ Want to brush up on your music theory skills?  Can't remember the difference bet
 * **ID:** amzn1.ask.skill.1e34b283-4706-42ae-8b91-0f41eeda2376
 * **ASIN:** B01N5K9MRF
 * **Author:** musicman33321
-* **Release Date:** January 2, 2017 @ 21:49:30
+* **Release Date:** January 2, 2017 @ 22:49:30
 * **In-App Purchasing:** No

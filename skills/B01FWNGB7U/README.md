@@ -21,5 +21,5 @@ Please note that One Ferry Away only works in Washington State.
 * **ID:** amzn1.echo-sdk-ams.app.7c57ab49-3a24-473e-a1fc-359707e67864
 * **ASIN:** B01FWNGB7U
 * **Author:** Dragon
-* **Release Date:** May 25, 2016 @ 10:08:53
+* **Release Date:** May 25, 2016 @ 11:08:53
 * **In-App Purchasing:** No

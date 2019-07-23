@@ -20,5 +20,5 @@ To use the Citizen Pass skill, try saying...
 * **ID:** amzn1.echo-sdk-ams.app.61895dc1-5cea-4c73-9bc5-39620303af38
 * **ASIN:** B01F0M1KD8
 * **Author:** Mandy Chan
-* **Release Date:** May 25, 2016 @ 09:38:44
+* **Release Date:** May 25, 2016 @ 10:38:44
 * **In-App Purchasing:** No

@@ -21,5 +21,5 @@ Also has some travel tips.
 * **ID:** amzn1.ask.skill.467f4854-0728-438f-8b6f-5deb4979fbdf
 * **ASIN:** B01LZXVK05
 * **Author:** vasudha mulakaluri
-* **Release Date:** October 7, 2016 @ 05:12:10
+* **Release Date:** October 7, 2016 @ 06:12:10
 * **In-App Purchasing:** No

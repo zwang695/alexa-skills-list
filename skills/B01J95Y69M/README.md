@@ -20,5 +20,5 @@ This skill gives you some useful tips to take care of your lovely Pets. The new 
 * **ID:** amzn1.ask.skill.14ece15f-c106-457c-98b8-420fc7789a4f
 * **ASIN:** B01J95Y69M
 * **Author:** Arpita
-* **Release Date:** August 4, 2016 @ 02:11:32
+* **Release Date:** August 4, 2016 @ 03:11:32
 * **In-App Purchasing:** No

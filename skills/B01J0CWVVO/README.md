@@ -20,5 +20,5 @@ There are quite a few games related to the bible, and Atheist Trivia contains lo
 * **ID:** amzn1.echo-sdk-ams.app.f9c05ffb-f1ff-4430-9141-5196d7677b74
 * **ASIN:** B01J0CWVVO
 * **Author:** Logtown
-* **Release Date:** July 26, 2016 @ 00:26:32
+* **Release Date:** July 26, 2016 @ 01:26:32
 * **In-App Purchasing:** No

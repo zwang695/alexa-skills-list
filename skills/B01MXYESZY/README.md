@@ -26,7 +26,7 @@ This is a beta version which only holds holiday events for now. Use it to find i
 * **ID:** amzn1.ask.skill.e8a22344-481c-437c-87c8-03b5a03d09f8
 * **ASIN:** B01MXYESZY
 * **Author:** City of Los Angeles
-* **Release Date:** December 15, 2016 @ 06:49:34
+* **Release Date:** December 15, 2016 @ 07:49:34
 * **Privacy Policy:** http://disclaimer.lacity.org/privacy.htm
 * **Terms of Use:** http://disclaimer.lacity.org/disclaimer.htm
 * **In-App Purchasing:** No

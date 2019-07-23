@@ -24,5 +24,5 @@ Uses They Said Do API.
 * **ID:** amzn1.ask.skill.9d697132-a103-4354-977d-612c47e6659b
 * **ASIN:** B01N1QMH2R
 * **Author:** Leandro Ardissone
-* **Release Date:** December 11, 2016 @ 03:49:17
+* **Release Date:** December 11, 2016 @ 04:49:17
 * **In-App Purchasing:** No

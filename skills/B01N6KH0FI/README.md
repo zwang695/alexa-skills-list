@@ -18,5 +18,5 @@ Simulation of how to book a cruise. The system will ask a few questions to deter
 * **ID:** amzn1.ask.skill.65ef3926-aad0-4917-8dc2-3a22eb8d30b9
 * **ASIN:** B01N6KH0FI
 * **Author:** Zona9
-* **Release Date:** December 31, 2016 @ 05:19:19
+* **Release Date:** December 31, 2016 @ 06:19:19
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Plattekill Mountain Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.a9997ef6-7040-4c43-87c2-d9f379daa346
 * **ASIN:** B01M3U2NOO
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:44:31
+* **Release Date:** October 26, 2016 @ 04:44:31
 * **In-App Purchasing:** No

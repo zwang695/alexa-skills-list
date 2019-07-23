@@ -23,5 +23,5 @@ Based on the Fact Skill provided by Amazon.
 * **ID:** amzn1.ask.skill.4ea3052f-f4dc-4beb-8b56-254cb6a04524
 * **ASIN:** B01N3RNBQX
 * **Author:** MDR_SHACK
-* **Release Date:** November 21, 2016 @ 02:05:22
+* **Release Date:** November 21, 2016 @ 03:05:22
 * **In-App Purchasing:** No

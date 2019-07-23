@@ -20,5 +20,5 @@ trainingTips are workout recommendations that have been proven to work for many 
 * **ID:** amzn1.echo-sdk-ams.app.adf3afff-f6a9-495a-a849-a8d784a82539
 * **ASIN:** B01HKIGBCA
 * **Author:** Lifeguard
-* **Release Date:** June 28, 2016 @ 06:15:57
+* **Release Date:** June 28, 2016 @ 07:15:57
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ You will be asked 5 trivia questions about programming languages.  The answers a
 * **ID:** amzn1.ask.skill.e7dea340-5f98-441e-9ec4-97b36265274a
 * **ASIN:** B01M4I7UZZ
 * **Author:** EPage
-* **Release Date:** October 13, 2016 @ 23:46:59
+* **Release Date:** October 14, 2016 @ 00:46:59
 * **In-App Purchasing:** No

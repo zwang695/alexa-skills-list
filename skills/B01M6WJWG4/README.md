@@ -30,7 +30,7 @@ News Feed is an Alexa skill developed by AudioBurst
 * **ID:** amzn1.ask.skill.26052e1b-6021-44a4-9d19-0cf18dd1fd8c
 * **ASIN:** B01M6WJWG4
 * **Author:** AudioBurst
-* **Release Date:** October 26, 2016 @ 01:14:58
+* **Release Date:** October 26, 2016 @ 02:14:58
 * **Privacy Policy:** https://www.audioburst.com/pages/privacy
 * **Terms of Use:** https://www.audioburst.com/pages/terms
 * **In-App Purchasing:** No

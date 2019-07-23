@@ -20,5 +20,5 @@ C# Quiz is designed to help teach students, or anyone interested in C#, .Net, an
 * **ID:** amzn1.ask.skill.1b8a271c-481d-4d87-850f-ec7d6b59b30e
 * **ASIN:** B01N4ATE0H
 * **Author:** Josh Franey
-* **Release Date:** December 7, 2016 @ 02:19:33
+* **Release Date:** December 7, 2016 @ 03:19:33
 * **In-App Purchasing:** No

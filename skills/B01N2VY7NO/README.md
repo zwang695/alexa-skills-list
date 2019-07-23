@@ -20,5 +20,5 @@ The Whitetail Deer is North America's most prolific game animal. This skill pres
 * **ID:** amzn1.ask.skill.9c8f5158-2333-4037-b905-c81ab4716417
 * **ASIN:** B01N2VY7NO
 * **Author:** Rob Seibert
-* **Release Date:** December 22, 2016 @ 00:49:04
+* **Release Date:** December 22, 2016 @ 01:49:04
 * **In-App Purchasing:** No

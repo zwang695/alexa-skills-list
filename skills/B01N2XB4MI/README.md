@@ -20,5 +20,5 @@ Are you looking for something to do?  Want to convince your family that Bingo is
 * **ID:** amzn1.ask.skill.cfd56001-a858-47a3-a7de-23c926799b58
 * **ASIN:** B01N2XB4MI
 * **Author:** Hitesh Lad
-* **Release Date:** December 25, 2016 @ 22:18:57
+* **Release Date:** December 25, 2016 @ 23:18:57
 * **In-App Purchasing:** No

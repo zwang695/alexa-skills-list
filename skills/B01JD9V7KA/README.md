@@ -20,5 +20,5 @@ Alexa will give you information about artists's work and will ask you the name o
 * **ID:** amzn1.ask.skill.8e78ac87-0012-4767-b71f-0b30d1aa7de4
 * **ASIN:** B01JD9V7KA
 * **Author:** Federica Incerti
-* **Release Date:** August 8, 2016 @ 01:37:47
+* **Release Date:** August 8, 2016 @ 02:37:47
 * **In-App Purchasing:** No

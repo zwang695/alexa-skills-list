@@ -16,5 +16,5 @@ Not for the feint of heart, this trivia game will leave you stumped! Over a thou
 * **ID:** amzn1.ask.skill.70121019-44fc-48cc-8e15-b2433730d4b9
 * **ASIN:** B01LX837SY
 * **Author:** Kouron Consulting
-* **Release Date:** September 22, 2016 @ 03:41:49
+* **Release Date:** September 22, 2016 @ 04:41:49
 * **In-App Purchasing:** No

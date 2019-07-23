@@ -20,5 +20,5 @@ The Buena Vista Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.71734930-ec2a-4ad0-a698-2dd689fd9d4e
 * **ASIN:** B01M5DNNWW
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:47:48
+* **Release Date:** October 21, 2016 @ 15:47:48
 * **In-App Purchasing:** No

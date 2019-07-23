@@ -20,5 +20,5 @@ The Teton Pass Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.20f4a534-b8fe-4aff-b0ba-46949f97525e
 * **ASIN:** B01MA651D9
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:46:00
+* **Release Date:** October 21, 2016 @ 15:46:00
 * **In-App Purchasing:** No

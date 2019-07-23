@@ -20,5 +20,5 @@ Lists all the recent earthquakes around the world.
 * **ID:** amzn1.ask.skill.7c5c7c36-b188-41d7-9a3f-45bcbcaffecb
 * **ASIN:** B01NBNZ1HT
 * **Author:** Dileep
-* **Release Date:** December 26, 2016 @ 22:49:30
+* **Release Date:** December 26, 2016 @ 23:49:30
 * **In-App Purchasing:** No

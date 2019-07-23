@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.dc415968-4066-4310-afe5-8a2f7aa10a4b
 * **ASIN:** B01MEE8UJU
 * **Author:** Chefkoch GmbH
-* **Release Date:** October 24, 2016 @ 15:11:49
+* **Release Date:** October 24, 2016 @ 16:11:49
 * **In-App Purchasing:** No

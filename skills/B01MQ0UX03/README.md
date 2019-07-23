@@ -20,5 +20,5 @@ The Granite Gorge Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.aa176610-4c36-4f39-bbc0-9610dc21bd8d
 * **ASIN:** B01MQ0UX03
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:47:33
+* **Release Date:** October 26, 2016 @ 02:47:33
 * **In-App Purchasing:** No

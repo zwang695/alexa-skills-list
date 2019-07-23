@@ -24,5 +24,5 @@ This skill is not provided by the City of Pittsburgh.
 * **ID:** amzn1.ask.skill.e160209f-59e1-4935-b9b9-5b2dbaf12809
 * **ASIN:** B01N472S9N
 * **Author:** jwr
-* **Release Date:** December 5, 2016 @ 06:06:14
+* **Release Date:** December 5, 2016 @ 07:06:14
 * **In-App Purchasing:** No

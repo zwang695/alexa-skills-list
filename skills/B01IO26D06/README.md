@@ -20,5 +20,5 @@ Random facts that happen to be true.
 * **ID:** amzn1.ask.skill.673bc07c-2516-4791-bcae-4310596f2ccd
 * **ASIN:** B01IO26D06
 * **Author:** Steve Ziring
-* **Release Date:** July 27, 2016 @ 03:56:27
+* **Release Date:** July 27, 2016 @ 04:56:27
 * **In-App Purchasing:** No

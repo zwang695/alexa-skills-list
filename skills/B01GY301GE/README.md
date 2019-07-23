@@ -55,7 +55,7 @@ This is *NOT* an official app from the BLS and is not any way officially affilia
 * **ID:** amzn1.echo-sdk-ams.app.ba02229e-dc97-4781-abbd-8748b7b0a8fe
 * **ASIN:** B01GY301GE
 * **Author:** C-T LLC.
-* **Release Date:** June 17, 2016 @ 08:15:33
+* **Release Date:** June 17, 2016 @ 09:15:33
 * **Privacy Policy:** https://github.com/Coding4Liberty/ASK-Reporter-for-US-Unemployment-Data/wiki/Privacy-Policy
 * **Terms of Use:** https://github.com/Coding4Liberty/ASK-Reporter-for-US-Unemployment-Data/wiki/Terms-of-Use
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Have some fun learning new quotes and earn bragging rights for knowing so many q
 * **ID:** amzn1.ask.skill.dc1a4a89-ddad-45de-b1e5-2accc0546420
 * **ASIN:** B01MRUWM3L
 * **Author:** Lehi Alcantara
-* **Release Date:** December 8, 2016 @ 06:20:35
+* **Release Date:** December 8, 2016 @ 07:20:35
 * **In-App Purchasing:** No

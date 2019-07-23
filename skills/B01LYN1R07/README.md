@@ -20,5 +20,5 @@ The Red Mountain Resort Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.6caee15b-9f8b-4b8f-9d2c-3b094eaea7ea
 * **ASIN:** B01LYN1R07
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:56:10
+* **Release Date:** October 20, 2016 @ 03:56:10
 * **In-App Purchasing:** No

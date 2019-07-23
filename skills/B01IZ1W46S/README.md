@@ -20,5 +20,5 @@ Random Trivia will give you a bit of random trivia. Impress your friends with yo
 * **ID:** amzn1.ask.skill.a022a1d5-0d07-4114-8861-472a54b9dd60
 * **ASIN:** B01IZ1W46S
 * **Author:** AntlerVision
-* **Release Date:** July 26, 2016 @ 05:05:34
+* **Release Date:** July 26, 2016 @ 06:05:34
 * **In-App Purchasing:** No

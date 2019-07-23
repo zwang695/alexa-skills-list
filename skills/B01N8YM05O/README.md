@@ -35,6 +35,6 @@ Do you have suggestions or requests for integrations? Contact me: josep@valls.na
 * **ID:** amzn1.ask.skill.ed472769-193c-464a-ab06-15aadc2fded6
 * **ASIN:** B01N8YM05O
 * **Author:** Josep Valls-Vargas
-* **Release Date:** November 25, 2016 @ 03:36:59
+* **Release Date:** November 25, 2016 @ 04:36:59
 * **Terms of Use:** https://115iec5pk1.execute-api.us-east-1.amazonaws.com/prod/pub
 * **In-App Purchasing:** No

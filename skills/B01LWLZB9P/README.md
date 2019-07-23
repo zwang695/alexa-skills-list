@@ -20,5 +20,5 @@ This is a funny application that announces the typical excuses people use at wor
 * **ID:** amzn1.ask.skill.2e16a366-418d-4877-b5f9-81bc38fdbb5b
 * **ASIN:** B01LWLZB9P
 * **Author:** Vinayak Mankal
-* **Release Date:** September 28, 2016 @ 18:12:22
+* **Release Date:** September 28, 2016 @ 19:12:22
 * **In-App Purchasing:** No

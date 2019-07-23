@@ -20,5 +20,5 @@ Dover, MA has miles and miles of hiking and walking trails within town or in nei
 * **ID:** amzn1.echo-sdk-ams.app.cb3ea952-9223-4874-801a-857c2c1c9797
 * **ASIN:** B01HSX1N5C
 * **Author:** Lindsay Nie
-* **Release Date:** July 12, 2016 @ 06:27:58
+* **Release Date:** July 12, 2016 @ 07:27:58
 * **In-App Purchasing:** No

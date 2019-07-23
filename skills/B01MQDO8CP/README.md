@@ -20,5 +20,5 @@ The Seven Springs Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.2a418c16-9d05-445f-8cec-b86f8f6be1d8
 * **ASIN:** B01MQDO8CP
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:17:03
+* **Release Date:** November 4, 2016 @ 09:17:03
 * **In-App Purchasing:** No

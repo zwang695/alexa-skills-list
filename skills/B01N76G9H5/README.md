@@ -20,5 +20,5 @@ Find restaurants in a location based on the type of cuisine, or you can filter t
 * **ID:** amzn1.ask.skill.4c848d38-347c-4e03-b908-42c6af6c207d
 * **ASIN:** B01N76G9H5
 * **Author:** Garrett Vargas
-* **Release Date:** November 21, 2016 @ 23:36:25
+* **Release Date:** November 22, 2016 @ 00:36:25
 * **In-App Purchasing:** No

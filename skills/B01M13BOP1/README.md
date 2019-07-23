@@ -20,7 +20,7 @@ Listen to more than 460 UK radio stations from Radioplayer on your Alexa-enabled
 * **ID:** amzn1.echo-sdk-ams.app.4bd1368c-02a3-4611-9b0c-06595752d951
 * **ASIN:** B01M13BOP1
 * **Author:** UK Radioplayer Ltd
-* **Release Date:** September 27, 2016 @ 16:41:50
+* **Release Date:** September 27, 2016 @ 17:41:50
 * **Privacy Policy:** http://radioplayer.co.uk/privacy
 * **Terms of Use:** http://radioplayer.co.uk/privacy
 * **In-App Purchasing:** No

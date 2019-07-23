@@ -24,5 +24,5 @@ This skill is a fun game the tests your knowledge of the many aspects the Pipe o
 * **ID:** amzn1.echo-sdk-ams.app.39c8773b-2051-46b3-93d8-df982bdd70dd
 * **ASIN:** B01C6BGOHS
 * **Author:** Don Holmberg
-* **Release Date:** February 24, 2016 @ 15:26:00
+* **Release Date:** February 24, 2016 @ 16:26:00
 * **In-App Purchasing:** No

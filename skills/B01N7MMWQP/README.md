@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.56d103ff-a852-48cf-895c-99d70b23fbd5
 * **ASIN:** B01N7MMWQP
 * **Author:** Robert Giffin
-* **Release Date:** January 3, 2017 @ 05:48:56
+* **Release Date:** January 3, 2017 @ 06:48:56
 * **In-App Purchasing:** No

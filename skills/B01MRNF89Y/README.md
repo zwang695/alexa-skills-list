@@ -20,5 +20,5 @@ Ask Inspire Me for an inspiring quote or to lift your spirits.
 * **ID:** amzn1.ask.skill.54eec76b-9f8e-43ca-b916-2ad1d39294a5
 * **ASIN:** B01MRNF89Y
 * **Author:** Brian Wyka
-* **Release Date:** November 25, 2016 @ 03:37:15
+* **Release Date:** November 25, 2016 @ 04:37:15
 * **In-App Purchasing:** No

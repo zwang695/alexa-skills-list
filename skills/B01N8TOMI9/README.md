@@ -22,5 +22,5 @@ To pause an episode, you can say "Alexa, pause." When you're ready to start agai
 * **ID:** amzn1.ask.skill.12e05578-d808-4c0a-bf1e-e6716ab5ffb1
 * **ASIN:** B01N8TOMI9
 * **Author:** dancarlin.com
-* **Release Date:** December 1, 2016 @ 19:36:09
+* **Release Date:** December 1, 2016 @ 20:36:09
 * **In-App Purchasing:** No

@@ -22,7 +22,7 @@ All you need to do to get started is to ask Alexa to "Open Laugh Box." When it s
 * **ID:** amzn1.echo-sdk-ams.app.119e6e72-2935-4f25-9a2d-95c087537126
 * **ASIN:** B01A04863S
 * **Author:** Markley Enterprises LLC
-* **Release Date:** December 30, 2015 @ 17:10:40
+* **Release Date:** December 30, 2015 @ 18:10:40
 * **Privacy Policy:** http://www.joiney.com/privacy.html
 * **Terms of Use:** http://www.joiney.com/terms.html
 * **In-App Purchasing:** No

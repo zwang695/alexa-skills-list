@@ -28,5 +28,5 @@ etc
 * **ID:** amzn1.echo-sdk-ams.app.2c33e7d5-71b6-4d5c-9fc4-c936b1e75e1c
 * **ASIN:** B01BZ7TO5S
 * **Author:** MavenCode LLC
-* **Release Date:** February 19, 2016 @ 14:39:53
+* **Release Date:** February 19, 2016 @ 15:39:53
 * **In-App Purchasing:** No

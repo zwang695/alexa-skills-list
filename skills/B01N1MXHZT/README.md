@@ -46,5 +46,5 @@ Image credit: Footage Island.
 * **ID:** amzn1.ask.skill.3cba8bb6-2ac0-409c-8ab2-0da640f73dd0
 * **ASIN:** B01N1MXHZT
 * **Author:** VudaGecko
-* **Release Date:** December 9, 2016 @ 09:49:36
+* **Release Date:** December 9, 2016 @ 10:49:36
 * **In-App Purchasing:** No

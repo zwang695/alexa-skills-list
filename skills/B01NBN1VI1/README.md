@@ -20,5 +20,5 @@ The Pest Experts skill will the top tips on the prevention of common household p
 * **ID:** amzn1.ask.skill.69967fbf-1d0a-4018-b32e-8eb47a370725
 * **ASIN:** B01NBN1VI1
 * **Author:** Rentokil Steritech
-* **Release Date:** December 26, 2016 @ 04:19:22
+* **Release Date:** December 26, 2016 @ 05:19:22
 * **In-App Purchasing:** No

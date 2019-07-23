@@ -20,5 +20,5 @@ Vasundhara Fashions is Indian Clothing Store, located in Bellevue,WA in Seattle 
 * **ID:** amzn1.echo-sdk-ams.app.0906a5eb-793a-4bbb-9e74-d60783b2ac15
 * **ASIN:** B01GZ8Y2V8
 * **Author:** Ganesh
-* **Release Date:** July 4, 2016 @ 04:57:32
+* **Release Date:** July 4, 2016 @ 05:57:32
 * **In-App Purchasing:** No

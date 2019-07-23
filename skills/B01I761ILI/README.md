@@ -20,5 +20,5 @@ This skill teaches you different random and useful skills about Sweden.
 * **ID:** amzn1.echo-sdk-ams.app.57d5f81b-9ea2-43b2-814e-9d47a33db1bf
 * **ASIN:** B01I761ILI
 * **Author:** Magnus Lassi
-* **Release Date:** July 11, 2016 @ 05:57:37
+* **Release Date:** July 11, 2016 @ 06:57:37
 * **In-App Purchasing:** No

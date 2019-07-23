@@ -20,5 +20,5 @@ Body Geek is a collection of fun and unusual facts about the human body.
 * **ID:** amzn1.echo-sdk-ams.app.505a58bf-f9fc-4710-b15c-64a172af9f61
 * **ASIN:** B01GDD9W92
 * **Author:** Sofia Tania
-* **Release Date:** June 3, 2016 @ 09:38:34
+* **Release Date:** June 3, 2016 @ 10:38:34
 * **In-App Purchasing:** No

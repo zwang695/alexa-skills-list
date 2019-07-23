@@ -29,5 +29,5 @@ and others.
 * **ID:** amzn1.ask.skill.62ff5860-430f-41bf-b02b-1a199be3a8c7
 * **ASIN:** B01N0RWGJX
 * **Author:** Vifopex Corp
-* **Release Date:** December 19, 2016 @ 04:19:34
+* **Release Date:** December 19, 2016 @ 05:19:34
 * **In-App Purchasing:** Yes

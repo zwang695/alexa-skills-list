@@ -20,5 +20,5 @@ This skill provides compliments to brighten your day, make you feel beautiful, a
 * **ID:** amzn1.ask.skill.434b94a9-39f1-4a7a-ab4e-7dac61c58dd6
 * **ASIN:** B01IWX5U6A
 * **Author:** Alexi Stavang
-* **Release Date:** July 25, 2016 @ 18:26:26
+* **Release Date:** July 25, 2016 @ 19:26:26
 * **In-App Purchasing:** No

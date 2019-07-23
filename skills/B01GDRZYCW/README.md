@@ -20,5 +20,5 @@ Get a short 20-second summary of a given programming language.
 * **ID:** amzn1.echo-sdk-ams.app.b7955806-56cf-47d0-9dc5-b7f4cf15332f
 * **ASIN:** B01GDRZYCW
 * **Author:** Jackie Scholl
-* **Release Date:** June 3, 2016 @ 09:38:40
+* **Release Date:** June 3, 2016 @ 10:38:40
 * **In-App Purchasing:** No

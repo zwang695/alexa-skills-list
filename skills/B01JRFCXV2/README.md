@@ -20,5 +20,5 @@ Indian facts and history details. How this is unique country from rest of the wo
 * **ID:** amzn1.ask.skill.f463dff4-ed28-4416-a8d0-f9a0eee24438
 * **ASIN:** B01JRFCXV2
 * **Author:** SANTOSHVPATTEWAR
-* **Release Date:** August 5, 2016 @ 03:07:46
+* **Release Date:** August 5, 2016 @ 04:07:46
 * **In-App Purchasing:** No

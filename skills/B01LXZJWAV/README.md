@@ -20,5 +20,5 @@ Facts about the role of a receptionist.
 * **ID:** amzn1.ask.skill.8a52bf68-54e2-47ab-b3b0-31175ed331b2
 * **ASIN:** B01LXZJWAV
 * **Author:** Bits of Knits
-* **Release Date:** October 4, 2016 @ 02:13:50
+* **Release Date:** October 4, 2016 @ 03:13:50
 * **In-App Purchasing:** No

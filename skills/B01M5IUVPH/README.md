@@ -20,5 +20,5 @@ This skill is a simple insult generator. There are currently 90+ insults availab
 * **ID:** amzn1.ask.skill.6feb58c7-99d5-4edc-984a-8fdc0151e4f5
 * **ASIN:** B01M5IUVPH
 * **Author:** Above The Bar
-* **Release Date:** November 4, 2016 @ 02:43:38
+* **Release Date:** November 4, 2016 @ 03:43:38
 * **In-App Purchasing:** No

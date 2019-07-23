@@ -20,5 +20,5 @@ Explore the best of Indian cooking with these top-rated recipes like Soup, Curry
 * **ID:** amzn1.ask.skill.96971d83-6c00-43db-a4dc-7018d41f4f3a
 * **ASIN:** B01L1A6D2Q
 * **Author:** Developer
-* **Release Date:** August 31, 2016 @ 05:02:40
+* **Release Date:** August 31, 2016 @ 06:02:40
 * **In-App Purchasing:** No

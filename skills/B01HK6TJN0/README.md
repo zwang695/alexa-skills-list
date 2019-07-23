@@ -27,5 +27,5 @@ You can begin by enabling this skill and then saying "Alexa, open Planet Flash C
 * **ID:** amzn1.echo-sdk-ams.app.24640469-c4fc-432c-9cd8-32a89693247a
 * **ASIN:** B01HK6TJN0
 * **Author:** Allen
-* **Release Date:** June 28, 2016 @ 09:15:39
+* **Release Date:** June 28, 2016 @ 10:15:39
 * **In-App Purchasing:** No

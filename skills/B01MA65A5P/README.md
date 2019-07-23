@@ -20,5 +20,5 @@ The Spirit Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.13492fe4-e131-47bd-bdbc-c555821cb837
 * **ASIN:** B01MA65A5P
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:18:14
+* **Release Date:** October 21, 2016 @ 15:18:14
 * **In-App Purchasing:** No

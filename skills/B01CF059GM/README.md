@@ -20,6 +20,6 @@ This skill is designed to be used by students and TAs of the course "15-122: Pri
 * **ID:** amzn1.echo-sdk-ams.app.c1ebf7ae-be1e-45dc-878e-2d3fac18cffb
 * **ASIN:** B01CF059GM
 * **Author:** Jonathan Burns
-* **Release Date:** March 1, 2016 @ 13:13:30
+* **Release Date:** March 1, 2016 @ 14:13:30
 * **Terms of Use:** http://jbio.co/alexa-cmuq.html
 * **In-App Purchasing:** No

@@ -29,7 +29,7 @@ CAUTION:
 * **ID:** amzn1.ask.skill.0309a295-2b96-4d22-b38e-d80c4b5530ba
 * **ASIN:** B01JXP09PI
 * **Author:** Genesis Motors USA
-* **Release Date:** August 17, 2016 @ 17:52:34
+* **Release Date:** August 17, 2016 @ 18:52:34
 * **Privacy Policy:** https://www.genesismotorsusa.com/connectedservices-privacy-policy.html
 * **Terms of Use:** https://www.genesismotorsusa.com/connectedservices-terms-condition.html
 * **Account Linking Domains:** alexa.connectedservices.genesismotorsusa.com, www.genesismotorsusa.com

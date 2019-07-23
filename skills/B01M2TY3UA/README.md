@@ -16,5 +16,5 @@ Here is a fun list of surfing facts!  The facts range from historical to scienti
 * **ID:** amzn1.ask.skill.164a458b-43b2-42c4-9eba-0ed367e6ecdd
 * **ASIN:** B01M2TY3UA
 * **Author:** Shanee Ossa
-* **Release Date:** October 10, 2016 @ 01:42:06
+* **Release Date:** October 10, 2016 @ 02:42:06
 * **In-App Purchasing:** No

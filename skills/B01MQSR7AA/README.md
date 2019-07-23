@@ -20,5 +20,5 @@ Have fun with some Christmas Trivia!
 * **ID:** amzn1.ask.skill.342bd548-beea-4e8e-9fb3-8839f46f4f07
 * **ASIN:** B01MQSR7AA
 * **Author:** MrTechnolgyNerd
-* **Release Date:** December 8, 2016 @ 06:20:12
+* **Release Date:** December 8, 2016 @ 07:20:12
 * **In-App Purchasing:** No

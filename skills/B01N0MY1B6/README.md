@@ -36,5 +36,5 @@ Image created by Romain Liautaud at http://awebodyssey.com/
 * **ID:** amzn1.ask.skill.955c3949-692e-4cef-8e2d-2f121bd7e75c
 * **ASIN:** B01N0MY1B6
 * **Author:** shane
-* **Release Date:** December 6, 2016 @ 06:19:15
+* **Release Date:** December 6, 2016 @ 07:19:15
 * **In-App Purchasing:** No

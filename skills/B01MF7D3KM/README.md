@@ -20,5 +20,5 @@ Ask for a space fact and Alexa will give you an intersting one.
 * **ID:** amzn1.ask.skill.8635e336-bbe7-427f-a3c3-28192cee7b58
 * **ASIN:** B01MF7D3KM
 * **Author:** SWLim
-* **Release Date:** October 21, 2016 @ 02:12:28
+* **Release Date:** October 21, 2016 @ 03:12:28
 * **In-App Purchasing:** No

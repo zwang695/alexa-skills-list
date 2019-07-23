@@ -20,5 +20,5 @@ These are few interesting facts about mineral mica
 * **ID:** amzn1.ask.skill.83d47a03-a703-419f-8282-87457947c832
 * **ASIN:** B01ISM3J8Q
 * **Author:** Tanu 
-* **Release Date:** July 22, 2016 @ 07:56:58
+* **Release Date:** July 22, 2016 @ 08:56:58
 * **In-App Purchasing:** No

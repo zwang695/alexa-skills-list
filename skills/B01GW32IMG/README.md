@@ -20,5 +20,5 @@ The Astronomy Picture of the Day will send you the daily astronomy picture with 
 * **ID:** amzn1.echo-sdk-ams.app.2ede5210-83d7-4e57-a82c-f3f5132dab69
 * **ASIN:** B01GW32IMG
 * **Author:** Coding Werk
-* **Release Date:** June 15, 2016 @ 09:15:42
+* **Release Date:** June 15, 2016 @ 10:15:42
 * **In-App Purchasing:** No

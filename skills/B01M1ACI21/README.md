@@ -20,5 +20,5 @@ Information to help you decide and continue to volunteer.
 * **ID:** amzn1.ask.skill.acd815d8-63d8-4925-8fe7-ee7c7364ced0
 * **ASIN:** B01M1ACI21
 * **Author:** Bits of Knits
-* **Release Date:** October 13, 2016 @ 23:15:47
+* **Release Date:** October 14, 2016 @ 00:15:47
 * **In-App Purchasing:** No

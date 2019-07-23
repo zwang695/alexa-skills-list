@@ -20,5 +20,5 @@ Live in Baltimore? Running late and need to know when the next Circulator bus wi
 * **ID:** amzn1.echo-sdk-ams.app.83157cac-f56b-4c2e-ad16-cceb492454df
 * **ASIN:** B01EBEMOYK
 * **Author:** Quinnternet
-* **Release Date:** April 21, 2016 @ 08:38:32
+* **Release Date:** April 21, 2016 @ 09:38:32
 * **In-App Purchasing:** No

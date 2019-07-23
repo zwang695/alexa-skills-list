@@ -20,5 +20,5 @@ Ask Alexa for information about Sweden, it will announce a random fact about swe
 * **ID:** amzn1.ask.skill.49cd2565-9981-4b9b-ba7a-7d9871e0c59a
 * **ASIN:** B01MA566AA
 * **Author:** Adam McClenaghan
-* **Release Date:** October 21, 2016 @ 15:15:04
+* **Release Date:** October 21, 2016 @ 16:15:04
 * **In-App Purchasing:** No

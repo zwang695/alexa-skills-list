@@ -20,5 +20,5 @@ The Cascade Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.491a2481-62e6-4881-ab46-f87dbc4b9946
 * **ASIN:** B01MXFSSMG
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:42:56
+* **Release Date:** November 5, 2016 @ 11:42:56
 * **In-App Purchasing:** No

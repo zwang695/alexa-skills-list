@@ -20,5 +20,5 @@ MyST Helper provides the latest features introduced into the MyST toolset. With 
 * **ID:** amzn1.echo-sdk-ams.app.3b8a5b9b-0b2a-4f79-8750-4bacd42a7d0f
 * **ASIN:** B01H3ZT7JY
 * **Author:** Fabio Douek
-* **Release Date:** June 27, 2016 @ 10:15:44
+* **Release Date:** June 27, 2016 @ 11:15:44
 * **In-App Purchasing:** No

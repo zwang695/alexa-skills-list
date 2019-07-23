@@ -50,7 +50,7 @@ Are you worried who might walk up and ask Alexa about your email? Add a security
 * **ID:** amzn1.echo-sdk-ams.app.0e2cd7e2-6109-4e2d-8d84-dc066d50af3e
 * **ASIN:** B01LY6E9E3
 * **Author:** Notion
-* **Release Date:** November 25, 2016 @ 03:37:53
+* **Release Date:** November 25, 2016 @ 04:37:53
 * **Privacy Policy:** https://notion.ai/trust
 * **Account Linking Domains:** ngrok.io, google.com, googleapis.com, 02c2095a.ngrok.io, api-alexa.notion.co, api-alexa.notion.ai, notion.ai
 * **In-App Purchasing:** No

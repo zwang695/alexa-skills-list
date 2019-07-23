@@ -20,5 +20,5 @@ Interesting facts in random
 * **ID:** amzn1.echo-sdk-ams.app.7cd93acd-5d3a-4de9-bb61-48276d808f9f
 * **ASIN:** B01I766M0K
 * **Author:** JJ
-* **Release Date:** July 12, 2016 @ 06:27:30
+* **Release Date:** July 12, 2016 @ 07:27:30
 * **In-App Purchasing:** No

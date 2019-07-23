@@ -20,5 +20,5 @@ The Mont Gabriel Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.c690ef17-f035-49e1-a498-fa0a9a7d9006
 * **ASIN:** B01N3JL7EY
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:43:27
+* **Release Date:** November 5, 2016 @ 12:43:27
 * **In-App Purchasing:** No

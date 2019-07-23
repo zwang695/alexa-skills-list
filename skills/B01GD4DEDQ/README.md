@@ -20,5 +20,5 @@ Interesting facts about Prince the musician with information
 * **ID:** amzn1.echo-sdk-ams.app.dce2fea1-ffeb-441f-8e58-9b9c6d5f8f56
 * **ASIN:** B01GD4DEDQ
 * **Author:** Blue Crystal Web Design
-* **Release Date:** July 19, 2016 @ 08:27:34
+* **Release Date:** July 19, 2016 @ 09:27:34
 * **In-App Purchasing:** No

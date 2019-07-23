@@ -20,5 +20,5 @@ Purim Trivia is the perfect game to play during the celebration of Purim. Test y
 * **ID:** amzn1.ask.skill.91d27ec1-9b14-44f8-8df1-2aa33facdeb5
 * **ASIN:** B01N7M5PTS
 * **Author:** DWILSYS
-* **Release Date:** December 27, 2016 @ 03:48:51
+* **Release Date:** December 27, 2016 @ 04:48:51
 * **In-App Purchasing:** No

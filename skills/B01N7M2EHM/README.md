@@ -20,5 +20,5 @@ Do you have chaos within you? If not, let Nietzsche help you give birth to a dan
 * **ID:** amzn1.ask.skill.fae645b4-c4e6-49dd-b6d8-4b790f319e97
 * **ASIN:** B01N7M2EHM
 * **Author:** Jake McGuire
-* **Release Date:** December 28, 2016 @ 03:49:30
+* **Release Date:** December 28, 2016 @ 04:49:30
 * **In-App Purchasing:** No

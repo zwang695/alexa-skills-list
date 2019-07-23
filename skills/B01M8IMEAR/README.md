@@ -20,5 +20,5 @@ This picks up an amazing fact about Incrediible India  from the list compiled by
 * **ID:** amzn1.ask.skill.d9efe3e1-087f-406e-9ef1-56d51d5508d2
 * **ASIN:** B01M8IMEAR
 * **Author:** RajeevGM
-* **Release Date:** October 18, 2016 @ 05:12:02
+* **Release Date:** October 18, 2016 @ 06:12:02
 * **In-App Purchasing:** No

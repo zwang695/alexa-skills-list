@@ -20,5 +20,5 @@ The Lakeridge Ski Resort Snow Report brought to you by SnoCountry brings you the
 * **ID:** amzn1.ask.skill.143022c9-5bf0-44b3-a100-ecf5c1f451c1
 * **ASIN:** B01N3JQ5DM
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:12:24
+* **Release Date:** November 5, 2016 @ 12:12:24
 * **In-App Purchasing:** No

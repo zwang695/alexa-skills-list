@@ -16,5 +16,5 @@ Welcome to Olympus Mortal!  Take the quiz to learn which Greek God you most iden
 * **ID:** amzn1.ask.skill.9e39ca30-0a52-4c50-84ec-4a9004c24f79
 * **ASIN:** B01LXR7P2P
 * **Author:** Josh Isaak
-* **Release Date:** October 7, 2016 @ 02:42:14
+* **Release Date:** October 7, 2016 @ 03:42:14
 * **In-App Purchasing:** No

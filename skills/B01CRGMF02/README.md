@@ -20,5 +20,5 @@ A short Trivia Quiz on Donald Trump.  If you like Trump please rate this skill.
 * **ID:** amzn1.echo-sdk-ams.app.9caf9006-96b2-4367-87a7-f6343ab3deea
 * **ASIN:** B01CRGMF02
 * **Author:** Ron Yatteau
-* **Release Date:** March 9, 2016 @ 15:03:20
+* **Release Date:** March 9, 2016 @ 16:03:20
 * **In-App Purchasing:** No

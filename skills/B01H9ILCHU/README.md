@@ -20,5 +20,5 @@ We have many tools in web to generate random number from the user input. when us
 * **ID:** amzn1.echo-sdk-ams.app.46522f3e-370f-4467-bb3c-c9c747ed4b70
 * **ASIN:** B01H9ILCHU
 * **Author:** SUDHI
-* **Release Date:** July 1, 2016 @ 09:27:32
+* **Release Date:** July 1, 2016 @ 10:27:32
 * **In-App Purchasing:** No

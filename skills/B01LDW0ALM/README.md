@@ -20,5 +20,5 @@ A quick internet history quiz, with both the obvious and the obscure!  You'll kn
 * **ID:** amzn1.ask.skill.29d808f8-d11d-4984-bdd7-9a23cef3663e
 * **ASIN:** B01LDW0ALM
 * **Author:** Christopher Roemer
-* **Release Date:** September 2, 2016 @ 02:03:49
+* **Release Date:** September 2, 2016 @ 03:03:49
 * **In-App Purchasing:** No

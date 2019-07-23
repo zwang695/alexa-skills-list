@@ -20,7 +20,7 @@ This skill allows you to interact with your WigWag system with Alexa using voice
 * **ID:** amzn1.echo-sdk-ams.app.1e416271-36c5-46e2-b463-9644eed03421
 * **ASIN:** B01H7S7CYE
 * **Author:** WigWag
-* **Release Date:** October 3, 2016 @ 06:41:57
+* **Release Date:** October 3, 2016 @ 07:41:57
 * **Privacy Policy:** http://wigwag.com/wigwag_privacy.html
 * **Terms of Use:** http://wigwag.com/wigwag_terms.html
 * **In-App Purchasing:** No

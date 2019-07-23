@@ -20,5 +20,5 @@ The Mont Blanc Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.e662c07f-2917-481c-a6fe-4307f0d37bd7
 * **ASIN:** B01M5KUFIV
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:13:24
+* **Release Date:** November 5, 2016 @ 12:13:24
 * **In-App Purchasing:** No

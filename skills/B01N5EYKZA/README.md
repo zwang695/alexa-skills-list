@@ -24,5 +24,5 @@ User: "What is garlic"
 * **ID:** amzn1.ask.skill.583ddecd-fe48-49e4-88a6-7b5acd1509e9
 * **ASIN:** B01N5EYKZA
 * **Author:** Prinika
-* **Release Date:** December 26, 2016 @ 00:18:58
+* **Release Date:** December 26, 2016 @ 01:18:58
 * **In-App Purchasing:** No

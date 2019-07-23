@@ -16,5 +16,5 @@ Think you're an expert on the city of Chicago? Find out with this Alexa game! Pl
 * **ID:** amzn1.ask.skill.5fb5415d-272e-4b6e-b197-8ed423e3822c
 * **ASIN:** B01M4MUZ7K
 * **Author:** Wayne Phillips
-* **Release Date:** October 25, 2016 @ 02:15:07
+* **Release Date:** October 25, 2016 @ 03:15:07
 * **In-App Purchasing:** No

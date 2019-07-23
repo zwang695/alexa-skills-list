@@ -20,5 +20,5 @@ This skill is about Steam, the gaming engine and not what happens to really hot 
 * **ID:** amzn1.echo-sdk-ams.app.a219f909-312f-4635-9562-627e9f9bfca9
 * **ASIN:** B01IQ7NZXC
 * **Author:** Max Langdon
-* **Release Date:** July 21, 2016 @ 02:57:36
+* **Release Date:** July 21, 2016 @ 03:57:36
 * **In-App Purchasing:** No

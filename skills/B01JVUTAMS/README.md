@@ -20,5 +20,5 @@ This skill helps you learn some interesting facts about human body.
 * **ID:** amzn1.ask.skill.d2e6107f-1ac5-4bd6-abf2-9234aefa4a61
 * **ASIN:** B01JVUTAMS
 * **Author:** ST
-* **Release Date:** August 8, 2016 @ 04:37:35
+* **Release Date:** August 8, 2016 @ 05:37:35
 * **In-App Purchasing:** No

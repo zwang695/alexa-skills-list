@@ -20,5 +20,5 @@ Remembering the varied times and temperatures for steeping can be tricky when st
 * **ID:** amzn1.echo-sdk-ams.app.43de1112-c924-46eb-b053-b8a410268e36
 * **ASIN:** B01IP630FM
 * **Author:** Eric Anders
-* **Release Date:** July 21, 2016 @ 01:57:32
+* **Release Date:** July 21, 2016 @ 02:57:32
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Fun Corgi Facts is a trivia-based skill that allows Alexa to give you a random f
 * **ID:** amzn1.ask.skill.8235cbb4-8bcd-4818-a519-8d4639161136
 * **ASIN:** B01MDNH7SL
 * **Author:** Adriane Purdy
-* **Release Date:** October 21, 2016 @ 03:12:09
+* **Release Date:** October 21, 2016 @ 04:12:09
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill will provide the user with a count and the names of astronauts curren
 * **ID:** amzn1.ask.skill.64b02437-a376-4756-bef9-ab9a3e4bd937
 * **ASIN:** B01MTLUIJ3
 * **Author:** ryanjgill
-* **Release Date:** November 14, 2016 @ 01:13:08
+* **Release Date:** November 14, 2016 @ 02:13:08
 * **In-App Purchasing:** No

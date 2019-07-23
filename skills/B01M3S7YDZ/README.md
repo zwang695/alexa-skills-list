@@ -20,5 +20,5 @@ The Powder Ridge Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.6dfad044-092e-4f6a-a04f-4c37c2773384
 * **ASIN:** B01M3S7YDZ
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:46:50
+* **Release Date:** October 21, 2016 @ 15:46:50
 * **In-App Purchasing:** No

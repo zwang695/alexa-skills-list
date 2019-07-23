@@ -20,5 +20,5 @@ This skill will give you suggestions on how to be happy, calm, focussed, positiv
 * **ID:** amzn1.ask.skill.fbded2c6-fb9d-4595-bf14-2fa5ebb2bb0d
 * **ASIN:** B01L13422Q
 * **Author:** Househelp
-* **Release Date:** August 30, 2016 @ 02:02:52
+* **Release Date:** August 30, 2016 @ 03:02:52
 * **In-App Purchasing:** No

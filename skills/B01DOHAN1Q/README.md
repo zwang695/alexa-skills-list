@@ -28,5 +28,5 @@ Fairest one of all?
 * **ID:** amzn1.echo-sdk-ams.app.b298660b-76a0-4e98-9ab6-5f80fb51b495
 * **ASIN:** B01DOHAN1Q
 * **Author:** Laynr
-* **Release Date:** April 4, 2016 @ 03:32:20
+* **Release Date:** April 4, 2016 @ 04:32:20
 * **In-App Purchasing:** No

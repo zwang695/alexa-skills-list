@@ -20,5 +20,5 @@ The Soldier Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.257f35e3-0bf9-4dbc-a287-c33131a1bf8f
 * **ASIN:** B01M3S9B66
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:17:07
+* **Release Date:** October 21, 2016 @ 15:17:07
 * **In-App Purchasing:** No

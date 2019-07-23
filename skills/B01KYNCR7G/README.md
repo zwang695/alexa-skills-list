@@ -20,5 +20,5 @@ This skill teaches you how to greet someone in Mandarin.
 * **ID:** amzn1.ask.skill.4d5780c6-5214-404e-b3a8-08315a5ce057
 * **ASIN:** B01KYNCR7G
 * **Author:** Househelp
-* **Release Date:** August 25, 2016 @ 05:01:06
+* **Release Date:** August 25, 2016 @ 06:01:06
 * **In-App Purchasing:** No

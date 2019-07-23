@@ -21,5 +21,5 @@ Never Stop Learning.
 * **ID:** amzn1.ask.skill.db50bece-1ee4-490b-a4b8-06345937e943
 * **ASIN:** B01LZDP77C
 * **Author:** Tatiana Burgos
-* **Release Date:** October 6, 2016 @ 06:42:00
+* **Release Date:** October 6, 2016 @ 07:42:00
 * **In-App Purchasing:** No

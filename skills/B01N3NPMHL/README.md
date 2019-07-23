@@ -33,7 +33,7 @@ For more information, please visit us at https://att.com/SendMessageSkill
 * **ID:** amzn1.ask.skill.66f61fd6-b1bd-4bd0-b7c7-68d4426e91ed
 * **ASIN:** B01N3NPMHL
 * **Author:** AT&T Services, Inc.
-* **Release Date:** November 18, 2016 @ 00:05:51
+* **Release Date:** November 18, 2016 @ 01:05:51
 * **Privacy Policy:** http://about.att.com/sites/privacy_policy
 * **Terms of Use:** https://www.att.com/legal/terms.sendMessageEULA.html
 * **Account Linking Domains:** api.att.com, dfw3-auth-api.att.com, sql1-auth-api.att.com, ewr2-auth-api.att.com, san3-auth-api.att.com

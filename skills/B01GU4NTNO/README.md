@@ -26,5 +26,5 @@ For example, you can say "Alexa, ask Permutations Calculator to find 20 permute 
 * **ID:** amzn1.echo-sdk-ams.app.46fa19e2-156a-4c98-a86d-ed1f6a506738
 * **ASIN:** B01GU4NTNO
 * **Author:** worldengine
-* **Release Date:** June 10, 2016 @ 09:09:51
+* **Release Date:** June 10, 2016 @ 10:09:51
 * **In-App Purchasing:** No

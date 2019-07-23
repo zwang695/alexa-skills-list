@@ -22,5 +22,5 @@ Warning: This Skill contains some language not suitable for children under the a
 * **ID:** amzn1.ask.skill.eb5663f7-4a7d-448d-88b4-6e2bcb662808
 * **ASIN:** B01N1S24Z6
 * **Author:** Republic Royalties
-* **Release Date:** December 15, 2016 @ 02:49:38
+* **Release Date:** December 15, 2016 @ 03:49:38
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Have Alexa help you broaden your sailing vocabulary, test your friends, or teach
 * **ID:** amzn1.ask.skill.1258c49d-536c-4c1e-9dfb-ae542294e729
 * **ASIN:** B01JYPXSFU
 * **Author:** chadioo
-* **Release Date:** August 10, 2016 @ 07:39:45
+* **Release Date:** August 10, 2016 @ 08:39:45
 * **In-App Purchasing:** No

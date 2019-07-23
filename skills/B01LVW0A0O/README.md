@@ -22,5 +22,5 @@ Coming soon, ask Alexa to roll dice, pick a random number or flip a coin!
 * **ID:** amzn1.ask.skill.4dd1982c-e83f-42e4-a082-4ebdb76618b7
 * **ASIN:** B01LVW0A0O
 * **Author:** Matt Mitchell
-* **Release Date:** September 11, 2016 @ 02:44:47
+* **Release Date:** September 11, 2016 @ 03:44:47
 * **In-App Purchasing:** No

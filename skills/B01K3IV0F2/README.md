@@ -22,5 +22,5 @@ This skill does not store any of the generated passwords. The generated password
 * **ID:** amzn1.ask.skill.974e25f1-6942-4d9c-9a64-f25de680a42e
 * **ASIN:** B01K3IV0F2
 * **Author:** Aaron Turner
-* **Release Date:** August 11, 2016 @ 01:07:55
+* **Release Date:** August 11, 2016 @ 02:07:55
 * **In-App Purchasing:** No

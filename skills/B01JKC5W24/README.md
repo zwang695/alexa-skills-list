@@ -20,5 +20,5 @@ Classroom Management Facts are simple suggestions that can help you have a produ
 * **ID:** amzn1.ask.skill.8a6935d0-5c5b-44fd-bc00-f19d2fb9ac05
 * **ASIN:** B01JKC5W24
 * **Author:** letsgo
-* **Release Date:** August 4, 2016 @ 05:41:28
+* **Release Date:** August 4, 2016 @ 06:41:28
 * **In-App Purchasing:** No

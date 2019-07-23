@@ -20,5 +20,5 @@ A simple alexa skill to provide you with famous quotes. The data is pulled from 
 * **ID:** amzn1.ask.skill.c723bbcc-9a24-413f-b85d-93f772743bad
 * **ASIN:** B01N09AXI4
 * **Author:** Shah
-* **Release Date:** November 9, 2016 @ 02:42:51
+* **Release Date:** November 9, 2016 @ 03:42:51
 * **In-App Purchasing:** No

@@ -24,7 +24,7 @@ To discuss this skill, contact @VoiceGameDev on Twitter.
 * **ID:** amzn1.echo-sdk-ams.app.adbaf36b-2ad0-445f-88f9-d1fe1c0e019b
 * **ASIN:** B01AKFXFYC
 * **Author:** Markley Enterprises LLC
-* **Release Date:** January 13, 2016 @ 12:26:16
+* **Release Date:** January 13, 2016 @ 13:26:16
 * **Privacy Policy:** http://www.joiney.com/privacy.html
 * **Terms of Use:** http://www.joiney.com/terms.html
 * **In-App Purchasing:** No

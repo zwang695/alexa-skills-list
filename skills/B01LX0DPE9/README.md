@@ -20,5 +20,5 @@ The Canyon Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.16321dee-29ee-4e42-bed2-715da39b479e
 * **ASIN:** B01LX0DPE9
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:46:21
+* **Release Date:** October 20, 2016 @ 04:46:21
 * **In-App Purchasing:** No

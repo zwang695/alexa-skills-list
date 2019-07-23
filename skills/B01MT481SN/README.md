@@ -21,5 +21,5 @@ Skill is not sponsored or endorsed by Donald Trump's and is made for pure entert
 * **ID:** amzn1.ask.skill.6c5c5b60-93cf-40e3-9b71-ca9f2b4c7cf8
 * **ASIN:** B01MT481SN
 * **Author:** ryfeus
-* **Release Date:** January 3, 2017 @ 04:48:55
+* **Release Date:** January 3, 2017 @ 05:48:55
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Castle Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.e6afb4ae-b6cd-4db9-97f0-fb307b2c95fb
 * **ASIN:** B01LZAR321
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:46:14
+* **Release Date:** October 20, 2016 @ 04:46:14
 * **In-App Purchasing:** No

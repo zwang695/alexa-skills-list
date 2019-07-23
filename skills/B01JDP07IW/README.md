@@ -18,5 +18,5 @@ This will help customers notify wavycloud of any issue or service interruption w
 * **ID:** amzn1.ask.skill.d51eac4a-71e6-40e7-b369-3fdf4ac2ce91
 * **ASIN:** B01JDP07IW
 * **Author:** wavycloud
-* **Release Date:** December 12, 2016 @ 04:19:49
+* **Release Date:** December 12, 2016 @ 05:19:49
 * **In-App Purchasing:** No

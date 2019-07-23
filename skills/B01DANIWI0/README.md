@@ -40,6 +40,6 @@ http://support.blumoo.com/support/solutions/folders/11000001043
 * **ID:** amzn1.echo-sdk-ams.app.025a7013-264d-49af-a249-1239c904fcac
 * **ASIN:** B01DANIWI0
 * **Author:** Flyover Innovations
-* **Release Date:** March 22, 2016 @ 13:38:03
+* **Release Date:** March 22, 2016 @ 14:38:03
 * **Privacy Policy:** http://www.blumoo.com/statement-of-privacy/
 * **In-App Purchasing:** No

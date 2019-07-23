@@ -20,5 +20,5 @@ Dylan Punster will try to find the closest matching pun based on the words in th
 * **ID:** amzn1.echo-sdk-ams.app.2d8bcb2b-f77c-42e1-a4a8-696952825115
 * **ASIN:** B01FL2XV2A
 * **Author:** jmerrick
-* **Release Date:** May 23, 2016 @ 08:08:36
+* **Release Date:** May 23, 2016 @ 09:08:36
 * **In-App Purchasing:** No

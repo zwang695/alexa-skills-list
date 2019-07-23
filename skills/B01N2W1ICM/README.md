@@ -20,5 +20,5 @@ Learn more about Grange Insurance and the insurance products offered by Grange I
 * **ID:** amzn1.ask.skill.a15d2a64-ba9e-446c-b479-40532307387d
 * **ASIN:** B01N2W1ICM
 * **Author:** Grange Insurance
-* **Release Date:** December 29, 2016 @ 03:49:27
+* **Release Date:** December 29, 2016 @ 04:49:27
 * **In-App Purchasing:** No

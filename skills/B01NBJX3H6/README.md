@@ -37,5 +37,5 @@ Have fun and please let us know if you have any requests. We will work on adding
 * **ID:** amzn1.ask.skill.32a61e09-94c7-4fcb-8d62-7bd317f58a9a
 * **ASIN:** B01NBJX3H6
 * **Author:** FreshDigitalGroup
-* **Release Date:** December 14, 2016 @ 03:50:28
+* **Release Date:** December 14, 2016 @ 04:50:28
 * **In-App Purchasing:** No

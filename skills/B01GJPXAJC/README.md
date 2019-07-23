@@ -22,5 +22,5 @@ Please head over to www.StupidMusicianJokes.com and submit your very own Stupid 
 * **ID:** amzn1.echo-sdk-ams.app.e53194ce-d497-4b32-ad55-b71f064d5a92
 * **ASIN:** B01GJPXAJC
 * **Author:** www.drBlankenstein.com
-* **Release Date:** June 7, 2016 @ 07:38:30
+* **Release Date:** June 7, 2016 @ 08:38:30
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The 2016 Election is coming up! Get some facts about U.S. Elections!
 * **ID:** amzn1.ask.skill.59b375e8-1264-4e01-8863-10623227ebb1
 * **ASIN:** B01MXBQRD7
 * **Author:** MrTechnolgyNerd
-* **Release Date:** November 9, 2016 @ 00:45:59
+* **Release Date:** November 9, 2016 @ 01:45:59
 * **In-App Purchasing:** No

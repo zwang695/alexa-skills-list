@@ -22,5 +22,5 @@ This is an unofficial skill. This skill is not sponsored or endorsed by NFL Ente
 * **ID:** amzn1.ask.skill.c67cba3d-ffd6-466e-b570-b7480164078f
 * **ASIN:** B01N6CTKYH
 * **Author:** Mark Rassamni
-* **Release Date:** December 30, 2016 @ 06:49:00
+* **Release Date:** December 30, 2016 @ 07:49:00
 * **In-App Purchasing:** No

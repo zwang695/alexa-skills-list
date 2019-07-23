@@ -32,6 +32,6 @@ Your Alexa device will then send a push notification as well as the message to B
 * **ID:** amzn1.ask.skill.a854bfd3-c3df-488a-bb4c-b799c7d2a287
 * **ASIN:** B01NGTXE70
 * **Author:** boberdoo.com
-* **Release Date:** December 17, 2016 @ 02:50:36
+* **Release Date:** December 17, 2016 @ 03:50:36
 * **Privacy Policy:** https://www.pingring.com/privacy-policy/
 * **In-App Purchasing:** No

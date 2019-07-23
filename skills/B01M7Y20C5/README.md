@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.a7bda702-3603-4ddf-8b52-2a8c5c14f842
 * **ASIN:** B01M7Y20C5
 * **Author:** Appsherpas Limited
-* **Release Date:** November 9, 2016 @ 03:12:39
+* **Release Date:** November 9, 2016 @ 04:12:39
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ This app randomly picks a restaurant among 31 restaurants on Cornell campus and 
 * **ID:** amzn1.ask.skill.983a21e4-8205-4614-9971-090a607e6484
 * **ASIN:** B01KVSD6HO
 * **Author:** NineFu
-* **Release Date:** August 24, 2016 @ 06:32:46
+* **Release Date:** August 24, 2016 @ 07:32:46
 * **In-App Purchasing:** No

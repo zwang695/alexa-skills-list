@@ -20,5 +20,5 @@ A Japanese fact skill that will have Alexa provide a random fun fact about Japan
 * **ID:** amzn1.ask.skill.34e7a80e-0e62-4b3c-ba2a-d51c8b08081f
 * **ASIN:** B01MFFRFIL
 * **Author:** Xolti
-* **Release Date:** November 9, 2016 @ 00:13:27
+* **Release Date:** November 9, 2016 @ 01:13:27
 * **In-App Purchasing:** No

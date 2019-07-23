@@ -20,5 +20,5 @@ Ever want a quick tip to make your life better? Better Life provides exactly tha
 * **ID:** amzn1.ask.skill.d71b7423-28d9-4c2f-9b07-23358145d567
 * **ASIN:** B01MEF6JVS
 * **Author:** Andy Roberts
-* **Release Date:** October 17, 2016 @ 23:11:51
+* **Release Date:** October 18, 2016 @ 00:11:51
 * **In-App Purchasing:** No

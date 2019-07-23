@@ -20,5 +20,5 @@ This skill provides educational entertainment by providing fun facts about the h
 * **ID:** amzn1.echo-sdk-ams.app.0f19cefb-0eb6-42f8-b4f5-a83d62181d4b
 * **ASIN:** B01HNN29LO
 * **Author:** BeeSprout
-* **Release Date:** June 28, 2016 @ 09:15:31
+* **Release Date:** June 28, 2016 @ 10:15:31
 * **In-App Purchasing:** No

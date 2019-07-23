@@ -20,5 +20,5 @@ When you ask alexa about Hubble, she can tell you when you can spot it in the sk
 * **ID:** amzn1.ask.skill.cb6dcade-96cf-4605-83c3-c4f602f3d9ba
 * **ASIN:** B01LZX70Z8
 * **Author:** Jonas
-* **Release Date:** October 5, 2016 @ 01:12:40
+* **Release Date:** October 5, 2016 @ 02:12:40
 * **In-App Purchasing:** No

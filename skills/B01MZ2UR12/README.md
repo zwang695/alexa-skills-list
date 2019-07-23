@@ -20,5 +20,5 @@ Check to see if the website is down for just you or for everyone.
 * **ID:** amzn1.ask.skill.7d5d7499-c713-4530-92bc-27301dc66815
 * **ASIN:** B01MZ2UR12
 * **Author:** Tom Parker
-* **Release Date:** December 29, 2016 @ 05:20:15
+* **Release Date:** December 29, 2016 @ 06:20:15
 * **In-App Purchasing:** No

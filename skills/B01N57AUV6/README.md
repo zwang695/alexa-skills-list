@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.03132e25-1265-479b-b1c8-ed04f88bbbee
 * **ASIN:** B01N57AUV6
 * **Author:** Relativity
-* **Release Date:** November 28, 2016 @ 01:05:27
+* **Release Date:** November 28, 2016 @ 02:05:27
 * **In-App Purchasing:** No

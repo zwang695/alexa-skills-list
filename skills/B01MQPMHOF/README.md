@@ -20,5 +20,5 @@ This skill allows you to use your Amazon Alexa-enabled device to search, browse,
 * **ID:** amzn1.ask.skill.8e072c88-649b-4ed9-aefe-995541e863f9
 * **ASIN:** B01MQPMHOF
 * **Author:** Love and Lemons
-* **Release Date:** December 9, 2016 @ 01:49:33
+* **Release Date:** December 9, 2016 @ 02:49:33
 * **In-App Purchasing:** No

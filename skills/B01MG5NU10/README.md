@@ -22,5 +22,5 @@ In future, we can ask about a particular festival and the skill will respond. Ri
 * **ID:** amzn1.ask.skill.dadb6c48-cd4a-4644-bc92-4a451328e2ad
 * **ASIN:** B01MG5NU10
 * **Author:** Serendepity
-* **Release Date:** November 2, 2016 @ 02:44:15
+* **Release Date:** November 2, 2016 @ 03:44:15
 * **In-App Purchasing:** No

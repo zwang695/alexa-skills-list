@@ -18,5 +18,5 @@ Sports Facts was designed to provide you with a random sports facts from sports 
 * **ID:** amzn1.echo-sdk-ams.app.8e535f6e-5f1c-4dd8-a6d6-cef148c20923
 * **ASIN:** B01I77M7BC
 * **Author:** Joe Mirmina
-* **Release Date:** July 11, 2016 @ 05:57:32
+* **Release Date:** July 11, 2016 @ 06:57:32
 * **In-App Purchasing:** No

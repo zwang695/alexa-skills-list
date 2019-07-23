@@ -17,5 +17,5 @@ Alexa will give you a random inspirational quote from a list of 20. A perfect wa
 * **ID:** amzn1.ask.skill.fb486916-2a88-4592-81d9-7f758e36d3b8
 * **ASIN:** B01MRGWGIH
 * **Author:** Courtney Shek
-* **Release Date:** November 12, 2016 @ 00:14:33
+* **Release Date:** November 12, 2016 @ 01:14:33
 * **In-App Purchasing:** No

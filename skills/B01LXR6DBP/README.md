@@ -20,5 +20,5 @@ The Buttermilk Mountain Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.bed72f44-f8e5-4b66-b62e-c4df0b194e7f
 * **ASIN:** B01LXR6DBP
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:12:59
+* **Release Date:** October 19, 2016 @ 12:12:59
 * **In-App Purchasing:** No

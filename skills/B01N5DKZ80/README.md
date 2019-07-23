@@ -24,7 +24,7 @@ user can choose certain category depending on his pain. Then Alexa asks him some
 * **ID:** amzn1.ask.skill.8caf488e-eaa8-4351-93f1-ce3277f74b02
 * **ASIN:** B01N5DKZ80
 * **Author:** Ahmed Yehia Emam
-* **Release Date:** December 14, 2016 @ 08:22:23
+* **Release Date:** December 14, 2016 @ 09:22:23
 * **Privacy Policy:** http://taknya.com/privacypolicy.html
 * **Terms of Use:** http://taknya.com/termsofuse.html
 * **In-App Purchasing:** No

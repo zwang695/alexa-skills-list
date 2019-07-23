@@ -20,5 +20,5 @@ The Chicopee Ski Resort Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.33cb0036-08b5-4676-b4fb-06cfe51b6af4
 * **ASIN:** B01N051LLY
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:15:26
+* **Release Date:** November 5, 2016 @ 12:15:26
 * **In-App Purchasing:** No

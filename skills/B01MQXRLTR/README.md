@@ -20,5 +20,5 @@ Becca's Sloth Facts is the must have skill for all sloth lovers.  Think sloths a
 * **ID:** amzn1.ask.skill.4c812701-591c-49db-a95f-d0db9c410168
 * **ASIN:** B01MQXRLTR
 * **Author:** Matt Ayers
-* **Release Date:** December 22, 2016 @ 01:49:20
+* **Release Date:** December 22, 2016 @ 02:49:20
 * **In-App Purchasing:** No

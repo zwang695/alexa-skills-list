@@ -20,5 +20,5 @@ DiceTowerallows you to make all sorts of classic dice rolls.
 * **ID:** amzn1.ask.skill.dbc9d0ff-fda9-4e82-a0eb-1adcc87fe783
 * **ASIN:** B01M65S5SP
 * **Author:** Don Mills
-* **Release Date:** October 26, 2016 @ 01:15:39
+* **Release Date:** October 26, 2016 @ 02:15:39
 * **In-App Purchasing:** No

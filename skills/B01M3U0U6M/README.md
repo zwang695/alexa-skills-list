@@ -20,5 +20,5 @@ The Black Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.7e4112ec-66c0-465b-8e2d-2a4995ff753b
 * **ASIN:** B01M3U0U6M
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:46:47
+* **Release Date:** October 26, 2016 @ 02:46:47
 * **In-App Purchasing:** No

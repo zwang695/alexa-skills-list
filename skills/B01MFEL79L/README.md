@@ -24,5 +24,5 @@ This skill is fun to play alone or compete with your family and friends.
 * **ID:** amzn1.ask.skill.12c6c606-3c05-4867-a69d-5e34bb1ac674
 * **ASIN:** B01MFEL79L
 * **Author:** Mark and T Software
-* **Release Date:** November 4, 2016 @ 02:13:12
+* **Release Date:** November 4, 2016 @ 03:13:12
 * **In-App Purchasing:** No

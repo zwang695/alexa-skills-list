@@ -22,5 +22,5 @@ Just tell it two U.S. cities, it's as simple as that!
 * **ID:** amzn1.ask.skill.2044e42b-de5b-4195-99e5-12294a464665
 * **ASIN:** B01JKVGVIY
 * **Author:** OctaBytes
-* **Release Date:** August 29, 2016 @ 03:32:44
+* **Release Date:** August 29, 2016 @ 04:32:44
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ This application will give you some very fun dare ideas to play with your friend
 * **ID:** amzn1.ask.skill.aaf549d4-5e22-4232-b484-239dcb9449e7
 * **ASIN:** B01LWMJ3LV
 * **Author:** SandrineT
-* **Release Date:** October 3, 2016 @ 02:12:02
+* **Release Date:** October 3, 2016 @ 03:12:02
 * **In-App Purchasing:** No

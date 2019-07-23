@@ -23,5 +23,5 @@ Think you know all the answers? Play Trivial Trivia to find out and brag to your
 * **ID:** amzn1.echo-sdk-ams.app.0d0658f2-978a-4551-9cf5-0e62a59ed063
 * **ASIN:** B01EVRTUBW
 * **Author:** PromptWorks
-* **Release Date:** April 29, 2016 @ 02:38:34
+* **Release Date:** April 29, 2016 @ 03:38:34
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ What’s going on this weekend? Just set your home city, and then you can ask wh
 * **ID:** amzn1.echo-sdk-ams.app.69da691e-4802-437a-8265-16fa277d167b
 * **ASIN:** B017OBIKIG
 * **Author:** StubHub
-* **Release Date:** December 3, 2015 @ 17:35:19
+* **Release Date:** December 3, 2015 @ 18:35:19
 * **Privacy Policy:** http://www.stubhub.com/legal/?section=pp
 * **Terms of Use:** http://www.stubhub.com/legal/
 * **In-App Purchasing:** No

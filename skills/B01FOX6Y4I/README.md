@@ -20,5 +20,5 @@ Sometimes we need validation for the answers we already know the answers to. Ale
 * **ID:** amzn1.echo-sdk-ams.app.90983d51-f445-47ec-a196-ba6cba2b2c70
 * **ASIN:** B01FOX6Y4I
 * **Author:** BLT Robotics
-* **Release Date:** May 21, 2016 @ 05:08:32
+* **Release Date:** May 21, 2016 @ 06:08:32
 * **In-App Purchasing:** No

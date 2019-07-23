@@ -18,7 +18,7 @@ Are you tired of getting buried in search results? If so, you're not alone. It's
 * **ID:** amzn1.ask.skill.d28aff24-6157-4b23-ba65-21e8a29555fb
 * **ASIN:** B01M00WEAP
 * **Author:** ChannelAdvisor
-* **Release Date:** October 15, 2016 @ 03:47:25
+* **Release Date:** October 15, 2016 @ 04:47:25
 * **Privacy Policy:** http://www.channeladvisor.com/privacy-policy/
 * **Terms of Use:** http://www.channeladvisor.com/legal/
 * **In-App Purchasing:** No

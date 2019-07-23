@@ -20,5 +20,5 @@ This is just a starting of a full skill, based on space geek for showing a fact.
 * **ID:** amzn1.ask.skill.f5f4df75-57ea-4721-94e7-fe7b725fa174
 * **ASIN:** B01JBTM7MY
 * **Author:** Mike Hansen
-* **Release Date:** August 5, 2016 @ 04:37:44
+* **Release Date:** August 5, 2016 @ 05:37:44
 * **In-App Purchasing:** No

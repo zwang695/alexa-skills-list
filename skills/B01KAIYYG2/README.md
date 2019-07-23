@@ -22,5 +22,5 @@ Icons made by Roundicons.com from www.flaticon.com
 * **ID:** amzn1.ask.skill.b0ea96d6-dc76-4785-ba43-f04157e31b1f
 * **ASIN:** B01KAIYYG2
 * **Author:** swentling
-* **Release Date:** August 16, 2016 @ 07:26:09
+* **Release Date:** August 16, 2016 @ 08:26:09
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Simple science trivia game
 * **ID:** amzn1.echo-sdk-ams.app.54f01575-49ef-46cf-a996-be30c5772d69
 * **ASIN:** B01CDOOAD8
 * **Author:** JPV Consulting
-* **Release Date:** February 29, 2016 @ 19:02:42
+* **Release Date:** February 29, 2016 @ 20:02:42
 * **In-App Purchasing:** No

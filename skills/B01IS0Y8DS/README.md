@@ -66,5 +66,5 @@ world peace
 * **ID:** amzn1.echo-sdk-ams.app.c9cb7694-b9fb-4766-b91b-ac8ede5fea55
 * **ASIN:** B01IS0Y8DS
 * **Author:** Unity
-* **Release Date:** September 2, 2016 @ 06:03:27
+* **Release Date:** September 2, 2016 @ 07:03:27
 * **In-App Purchasing:** No

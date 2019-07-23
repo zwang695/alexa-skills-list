@@ -22,5 +22,5 @@ He has many romantic words to say to you.
 * **ID:** amzn1.ask.skill.9e325a96-1c7f-4e68-ad07-5ee8c79ec799
 * **ASIN:** B01M4FP8FM
 * **Author:** GregC
-* **Release Date:** October 13, 2016 @ 08:17:38
+* **Release Date:** October 13, 2016 @ 09:17:38
 * **In-App Purchasing:** No

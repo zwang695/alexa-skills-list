@@ -20,5 +20,5 @@ Have Alexa ask Madison Mountaineering for the current, up-to-the-minute status o
 * **ID:** amzn1.echo-sdk-ams.app.4b6072bf-18e1-4fd7-8df2-61f3385c7806
 * **ASIN:** B01I8UQN5E
 * **Author:** RainOn Inc.
-* **Release Date:** July 18, 2016 @ 03:27:32
+* **Release Date:** July 18, 2016 @ 04:27:32
 * **In-App Purchasing:** No

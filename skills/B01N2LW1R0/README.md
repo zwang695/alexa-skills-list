@@ -20,5 +20,5 @@ Sunrise and Sunset times for U.S. Cities
 * **ID:** amzn1.ask.skill.6cd076ca-b4fd-4ed5-a9bb-003d85aca5f0
 * **ASIN:** B01N2LW1R0
 * **Author:** Revel Software
-* **Release Date:** November 27, 2016 @ 04:05:13
+* **Release Date:** November 27, 2016 @ 05:05:13
 * **In-App Purchasing:** No

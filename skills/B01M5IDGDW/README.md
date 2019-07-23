@@ -20,5 +20,5 @@ This quiz tests your knowledge of country capitals.
 * **ID:** amzn1.ask.skill.e2151429-dc0e-4b67-a812-6cbf4b3e9d4b
 * **ASIN:** B01M5IDGDW
 * **Author:** Anton Weber
-* **Release Date:** November 9, 2016 @ 00:13:15
+* **Release Date:** November 9, 2016 @ 01:13:15
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Horseshoe Resort Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.764fccc3-19c4-4f50-80be-af05423589c3
 * **ASIN:** B01N00TZRU
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:14:07
+* **Release Date:** November 5, 2016 @ 12:14:07
 * **In-App Purchasing:** No

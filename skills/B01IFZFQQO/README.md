@@ -20,7 +20,7 @@ Searching for a job has never been easier! With the ZipRecruiter Job Search Alex
 * **ID:** amzn1.echo-sdk-ams.app.3d90efa4-0358-4b22-abac-57965f466035
 * **ASIN:** B01IFZFQQO
 * **Author:** ZipRecruiter
-* **Release Date:** August 5, 2016 @ 08:08:14
+* **Release Date:** August 5, 2016 @ 09:08:14
 * **Privacy Policy:** https://www.ziprecruiter.com/privacy
 * **Terms of Use:** https://www.ziprecruiter.com/terms
 * **Account Linking Domains:** ziprecruiter.com

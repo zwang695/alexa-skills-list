@@ -20,5 +20,5 @@ Some states have the weirdest laws, this skill will give some of them when you a
 * **ID:** amzn1.ask.skill.b410a1a5-2396-42af-8a71-edf5970311a0
 * **ASIN:** B01LXAL36N
 * **Author:** K_powell
-* **Release Date:** October 3, 2016 @ 04:42:06
+* **Release Date:** October 3, 2016 @ 05:42:06
 * **In-App Purchasing:** No

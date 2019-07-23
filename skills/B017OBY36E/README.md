@@ -22,5 +22,5 @@ We have over 75,000 quotes covering a range of over 100 different topics from ov
 * **ID:** amzn1.echo-sdk-ams.app.aeb3cd4e-e9df-48f5-8acd-9261c91b6cd8
 * **ASIN:** B017OBY36E
 * **Author:** Mike Waldrop
-* **Release Date:** November 6, 2015 @ 14:19:32
+* **Release Date:** November 6, 2015 @ 15:19:32
 * **In-App Purchasing:** No

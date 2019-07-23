@@ -22,5 +22,5 @@ Disclaimer: This skill is not associated with space.com. This skill can only be 
 * **ID:** amzn1.ask.skill.0d97b0a7-38cf-4228-add3-1c023fdfd6f9
 * **ASIN:** B01MAUSFPT
 * **Author:** Prajwal Y
-* **Release Date:** October 13, 2016 @ 23:21:11
+* **Release Date:** October 14, 2016 @ 00:21:11
 * **In-App Purchasing:** No

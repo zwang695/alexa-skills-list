@@ -20,5 +20,5 @@ This is a short trivia game that will ask 5 questions about the Philadelphia Fly
 * **ID:** amzn1.ask.skill.5f8f2ddc-98b6-43a2-bd2c-2a9e86c0d79e
 * **ASIN:** B01IRTFT8I
 * **Author:** Facet Digital, LLC
-* **Release Date:** July 22, 2016 @ 09:56:34
+* **Release Date:** July 22, 2016 @ 10:56:34
 * **In-App Purchasing:** No

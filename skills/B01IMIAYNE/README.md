@@ -24,5 +24,5 @@ Information is updated every 15 minutes.
 * **ID:** amzn1.echo-sdk-ams.app.b16f7b34-4077-4c1a-880d-115dff061ae6
 * **ASIN:** B01IMIAYNE
 * **Author:** Bishop
-* **Release Date:** July 22, 2016 @ 07:56:33
+* **Release Date:** July 22, 2016 @ 08:56:33
 * **In-App Purchasing:** No

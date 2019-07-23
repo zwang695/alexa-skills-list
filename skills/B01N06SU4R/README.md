@@ -20,5 +20,5 @@ Ask Alexa for a random fortune. This skill picks a random fortune or quote from 
 * **ID:** amzn1.ask.skill.b927c400-750f-441d-a96e-02da911ba4bd
 * **ASIN:** B01N06SU4R
 * **Author:** Dave House
-* **Release Date:** November 11, 2016 @ 01:15:36
+* **Release Date:** November 11, 2016 @ 02:15:36
 * **In-App Purchasing:** No

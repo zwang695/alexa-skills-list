@@ -20,5 +20,5 @@ This is a great skill to learn some interesting and fun facts about Food.
 * **ID:** amzn1.ask.skill.aaac01ca-1ba7-463c-b696-d7f7c28fbf98
 * **ASIN:** B01JVY3XGS
 * **Author:** ST
-* **Release Date:** August 8, 2016 @ 06:07:23
+* **Release Date:** August 8, 2016 @ 07:07:23
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a list of some fun indoor activities you can do at home on a day when it
 * **ID:** amzn1.echo-sdk-ams.app.b8e8b1f3-2e5f-4c41-a91a-b01db9724ae3
 * **ASIN:** B01I8RJFHK
 * **Author:** Erin
-* **Release Date:** July 12, 2016 @ 07:57:35
+* **Release Date:** July 12, 2016 @ 08:57:35
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This quiz will ask you what borders a given state, and give you a set of answers
 * **ID:** amzn1.ask.skill.57d82884-0926-4305-9429-5ff20eb51353
 * **ASIN:** B01JDQ55SS
 * **Author:** Ben Duncan
-* **Release Date:** August 1, 2016 @ 09:26:54
+* **Release Date:** August 1, 2016 @ 10:26:54
 * **In-App Purchasing:** No

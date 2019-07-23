@@ -24,5 +24,5 @@ You can ask for a sound by saying, "Alexa, ask Sound Machine for applause."
 * **ID:** amzn1.echo-sdk-ams.app.c1882fa9-b42f-4834-a37e-1cc2d97f8516
 * **ASIN:** B01H4AVIQS
 * **Author:** worldengine
-* **Release Date:** June 20, 2016 @ 00:45:30
+* **Release Date:** June 20, 2016 @ 01:45:30
 * **In-App Purchasing:** No

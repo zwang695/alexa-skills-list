@@ -20,5 +20,5 @@ A combination of pinball and bingo, this game is fun for the whole family.  You'
 * **ID:** amzn1.ask.skill.e55dc1b7-6a6e-499f-8ccd-ab845e16aac1
 * **ASIN:** B01N6JBB8L
 * **Author:** Milo
-* **Release Date:** December 27, 2016 @ 05:19:02
+* **Release Date:** December 27, 2016 @ 06:19:02
 * **In-App Purchasing:** No

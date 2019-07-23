@@ -21,5 +21,5 @@ You need to know the bus number and the bus stop number.
 * **ID:** amzn1.echo-sdk-ams.app.3c6489fc-3485-4b70-b5e4-b133c4870cab
 * **ASIN:** B01DLNW2AS
 * **Author:** junng
-* **Release Date:** August 3, 2016 @ 02:11:44
+* **Release Date:** August 3, 2016 @ 03:11:44
 * **In-App Purchasing:** No

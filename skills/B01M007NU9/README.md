@@ -22,5 +22,5 @@ There are no additional hardware requirements for the user.  Just ask for a wres
 * **ID:** amzn1.ask.skill.729a0317-60c0-4559-a371-5ecc49df230e
 * **ASIN:** B01M007NU9
 * **Author:** Andrew Corum
-* **Release Date:** October 5, 2016 @ 02:12:11
+* **Release Date:** October 5, 2016 @ 03:12:11
 * **In-App Purchasing:** No

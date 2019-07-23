@@ -56,6 +56,6 @@ Homeseer events can be triggered through the Echo as well:
 * **ID:** amzn1.echo-sdk-ams.app.9f7a4553-4530-4c26-904a-aeb7342ce833
 * **ASIN:** B018YLP9HK
 * **Author:** HomeSeer Technologies LLC
-* **Release Date:** December 4, 2015 @ 18:43:11
+* **Release Date:** December 4, 2015 @ 19:43:11
 * **Privacy Policy:** http://www.homeseer.com/privacy-policy.html
 * **In-App Purchasing:** No

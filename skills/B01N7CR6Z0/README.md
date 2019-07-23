@@ -20,5 +20,5 @@ This skill tells interesting facts about cats.
 * **ID:** amzn1.ask.skill.de8ec5ea-9bb7-4c57-9f66-d878e32600f8
 * **ASIN:** B01N7CR6Z0
 * **Author:** Keith Z.
-* **Release Date:** December 2, 2016 @ 08:05:06
+* **Release Date:** December 2, 2016 @ 09:05:06
 * **In-App Purchasing:** No

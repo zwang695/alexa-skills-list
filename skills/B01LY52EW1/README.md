@@ -22,5 +22,5 @@ If the service does not recognize your city or zipcode, let me know in the revie
 * **ID:** amzn1.ask.skill.af4b7ae1-0e57-475a-8d63-cf070e08b7ca
 * **ASIN:** B01LY52EW1
 * **Author:** Bachelor Pad Development
-* **Release Date:** October 4, 2016 @ 07:43:12
+* **Release Date:** October 4, 2016 @ 08:43:12
 * **In-App Purchasing:** No

@@ -27,5 +27,5 @@ New in Version 1.1:
 * **ID:** amzn1.ask.skill.c063dca3-50f3-480f-a6d9-cc9aa35a9857
 * **ASIN:** B01M5EKQ8D
 * **Author:** Nolan Flynn
-* **Release Date:** November 9, 2016 @ 02:43:14
+* **Release Date:** November 9, 2016 @ 03:43:14
 * **In-App Purchasing:** No

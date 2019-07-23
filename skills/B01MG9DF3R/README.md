@@ -20,5 +20,5 @@ The Stratton Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.15901eb6-5b33-48c4-9ef5-48be04963d6e
 * **ASIN:** B01MG9DF3R
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:13:16
+* **Release Date:** November 4, 2016 @ 09:13:16
 * **In-App Purchasing:** No

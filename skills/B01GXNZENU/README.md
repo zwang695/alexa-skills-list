@@ -20,5 +20,5 @@ This is a multiple choice quiz about the banjo.  The user begins by saying "Alex
 * **ID:** amzn1.echo-sdk-ams.app.a915ef8e-0c23-4a4d-8cd2-aef769ae2819
 * **ASIN:** B01GXNZENU
 * **Author:** Alan Zimmerman
-* **Release Date:** June 15, 2016 @ 10:45:55
+* **Release Date:** June 15, 2016 @ 11:45:55
 * **In-App Purchasing:** No

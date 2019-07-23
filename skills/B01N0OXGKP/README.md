@@ -75,7 +75,7 @@ Tipps<br/>
 * **ID:** amzn1.ask.skill.248453ca-4a6c-4237-bb9c-3a7bd35c5ef8
 * **ASIN:** B01N0OXGKP
 * **Author:** KELAG-Kärntner Elektrizitäts-Aktiengesellschaft
-* **Release Date:** December 14, 2016 @ 12:19:38
+* **Release Date:** December 14, 2016 @ 13:19:38
 * **Privacy Policy:** https://service.startsmarthome.de/de/index/legal/data-protection-and-security
 * **Terms of Use:** https://service.startsmarthome.de/de/index/legal/terms-of-use
 * **In-App Purchasing:** No

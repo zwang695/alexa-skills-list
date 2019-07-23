@@ -22,5 +22,5 @@ Ukulele Tuner uses "standard" tuning, otherwise known as "C" tuning. Starting wi
 * **ID:** amzn1.echo-sdk-ams.app.453c1f5b-6012-4537-87a1-ebf9d600c894
 * **ASIN:** B01ETLTP56
 * **Author:** XYWARE
-* **Release Date:** May 2, 2016 @ 06:38:29
+* **Release Date:** May 2, 2016 @ 07:38:29
 * **In-App Purchasing:** No

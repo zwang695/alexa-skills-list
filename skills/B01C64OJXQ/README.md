@@ -28,5 +28,5 @@ And look forward to your feedback.
 * **ID:** amzn1.echo-sdk-ams.app.ce7a976a-4f48-48f9-b3a6-e17c9547ab73
 * **ASIN:** B01C64OJXQ
 * **Author:** RS
-* **Release Date:** February 24, 2016 @ 11:32:33
+* **Release Date:** February 24, 2016 @ 12:32:33
 * **In-App Purchasing:** No

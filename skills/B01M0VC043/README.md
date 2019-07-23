@@ -20,5 +20,5 @@ Tell Alexa to mix a sentence. This is a great way to shock your friends with the
 * **ID:** amzn1.ask.skill.2af5deef-f28c-4365-a428-78c1e2f783d4
 * **ASIN:** B01M0VC043
 * **Author:** FOOBAR
-* **Release Date:** October 5, 2016 @ 00:42:45
+* **Release Date:** October 5, 2016 @ 01:42:45
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This picks up a quote/ saying from the motivational quotes compiled by @RajeevGM
 * **ID:** amzn1.ask.skill.33c4e06f-5f36-4b39-a5dc-56c7cea00dca
 * **ASIN:** B01M24VH2G
 * **Author:** RajeevGM
-* **Release Date:** October 17, 2016 @ 23:11:47
+* **Release Date:** October 18, 2016 @ 00:11:47
 * **In-App Purchasing:** No

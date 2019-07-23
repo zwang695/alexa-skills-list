@@ -20,5 +20,5 @@ Master the Art of Manliness by asking for Man Knowledge from The Art of Manlines
 * **ID:** amzn1.ask.skill.1767c9b4-6ded-4eed-a29c-4fec919a46af
 * **ASIN:** B01IPLQ7PW
 * **Author:** The Art of Manliness
-* **Release Date:** July 20, 2016 @ 06:57:38
+* **Release Date:** July 20, 2016 @ 07:57:38
 * **In-App Purchasing:** No

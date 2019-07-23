@@ -20,5 +20,5 @@ Use this game to test your knowledge on topics relating to the history of Americ
 * **ID:** amzn1.ask.skill.383bb406-a26d-418e-9979-6da060e08e2c
 * **ASIN:** B01KHEFGIO
 * **Author:** Antic2
-* **Release Date:** August 17, 2016 @ 02:22:49
+* **Release Date:** August 17, 2016 @ 03:22:49
 * **In-App Purchasing:** No

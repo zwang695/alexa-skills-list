@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.be8e8d89-150a-479d-9364-f04c043ee6e1
 * **ASIN:** B01N6EQRWW
 * **Author:** Attic-Studio
-* **Release Date:** December 13, 2016 @ 05:53:05
+* **Release Date:** December 13, 2016 @ 06:53:05
 * **In-App Purchasing:** No

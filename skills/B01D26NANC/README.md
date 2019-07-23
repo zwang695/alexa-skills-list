@@ -28,5 +28,5 @@ To use, just say, "Ask Jim Rockford's Answering Machine to read a message."
 * **ID:** amzn1.echo-sdk-ams.app.0b6e6187-82c6-4a0b-938c-17d25f4da64b
 * **ASIN:** B01D26NANC
 * **Author:** TexasGovernor.org
-* **Release Date:** March 16, 2016 @ 17:18:58
+* **Release Date:** March 16, 2016 @ 18:18:58
 * **In-App Purchasing:** No

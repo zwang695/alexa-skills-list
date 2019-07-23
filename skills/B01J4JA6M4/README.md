@@ -20,5 +20,5 @@ Here is a fun superhero trivia game you can play with Alexa. She'll ask a series
 * **ID:** amzn1.echo-sdk-ams.app.e470d015-3677-459f-b1a9-f388b175e864
 * **ASIN:** B01J4JA6M4
 * **Author:** Jonathan Langford
-* **Release Date:** July 29, 2016 @ 05:56:28
+* **Release Date:** July 29, 2016 @ 06:56:28
 * **In-App Purchasing:** No

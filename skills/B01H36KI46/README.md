@@ -24,5 +24,5 @@ Alexa may answer, "The last bitcoin price in USD is 682.33"
 * **ID:** amzn1.echo-sdk-ams.app.d115384a-564e-4345-86d0-f6ac5267a3c9
 * **ASIN:** B01H36KI46
 * **Author:** Leo Gau
-* **Release Date:** June 22, 2016 @ 02:15:51
+* **Release Date:** June 22, 2016 @ 03:15:51
 * **In-App Purchasing:** No

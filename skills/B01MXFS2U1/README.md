@@ -20,5 +20,5 @@ The Mont Ste-Marie Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.bf88cb2c-c78f-4156-8dee-b81e16a4dd50
 * **ASIN:** B01MXFS2U1
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:13:01
+* **Release Date:** November 5, 2016 @ 12:13:01
 * **In-App Purchasing:** No

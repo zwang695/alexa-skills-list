@@ -20,5 +20,5 @@ Do you think you are a dog and cat expert? Do you maybe wish to learn more about
 * **ID:** amzn1.echo-sdk-ams.app.77672adf-f506-45c8-901c-fcd182b9d85f
 * **ASIN:** B01DDL3Z04
 * **Author:** Drassiner
-* **Release Date:** March 24, 2016 @ 05:40:36
+* **Release Date:** March 24, 2016 @ 06:40:36
 * **In-App Purchasing:** No

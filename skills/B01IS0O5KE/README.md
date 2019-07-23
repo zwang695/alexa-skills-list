@@ -28,5 +28,5 @@ Alexa, ask cat facts to give me some cat information.
 * **ID:** amzn1.ask.skill.2cb7b54f-7394-44d6-9b9b-ed333a29f3c9
 * **ASIN:** B01IS0O5KE
 * **Author:** Mahika Gupta
-* **Release Date:** July 25, 2016 @ 07:26:40
+* **Release Date:** July 25, 2016 @ 08:26:40
 * **In-App Purchasing:** No

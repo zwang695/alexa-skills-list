@@ -22,5 +22,5 @@ Have some fun learning new words on a daily basis and earn bragging rights for k
 * **ID:** amzn1.ask.skill.a92d33f5-ef03-4b30-bddd-67dd065b4efa
 * **ASIN:** B01MSOFQFR
 * **Author:** Lehi Alcantara
-* **Release Date:** November 25, 2016 @ 04:05:06
+* **Release Date:** November 25, 2016 @ 05:05:06
 * **In-App Purchasing:** No

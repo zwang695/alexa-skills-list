@@ -20,5 +20,5 @@ Help you to decide what color dress to wear
 * **ID:** amzn1.ask.skill.9683ec57-f3ca-45c8-a67d-98d30b983ff7
 * **ASIN:** B01KBRLJMO
 * **Author:** Han Wang
-* **Release Date:** August 23, 2016 @ 07:19:14
+* **Release Date:** August 23, 2016 @ 08:19:14
 * **In-App Purchasing:** No

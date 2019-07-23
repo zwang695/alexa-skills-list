@@ -22,5 +22,5 @@ Planet Earth Icon made by Wissawa Khamsriwath from flaticon.com is licensed by C
 * **ID:** amzn1.ask.skill.ab50acce-b0ad-41ce-8523-4f09363844aa
 * **ASIN:** B01LAAVS1S
 * **Author:** Drian Hillman
-* **Release Date:** September 5, 2016 @ 02:03:39
+* **Release Date:** September 5, 2016 @ 03:03:39
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A collection of dog facts guaranteed to surprise and delight you. Maybe your poo
 * **ID:** amzn1.ask.skill.9789d168-1392-4905-99ec-ea801b567fdf
 * **ASIN:** B01MY02TNV
 * **Author:** Sly Software
-* **Release Date:** December 21, 2016 @ 10:49:15
+* **Release Date:** December 21, 2016 @ 11:49:15
 * **In-App Purchasing:** No

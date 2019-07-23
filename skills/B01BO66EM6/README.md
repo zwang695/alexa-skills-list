@@ -20,5 +20,5 @@ It's finally safe to talk about politics! This fun (non-partisan) game will teac
 * **ID:** amzn1.echo-sdk-ams.app.eaddcd26-5588-4a34-a435-ec9106a0b908
 * **ASIN:** B01BO66EM6
 * **Author:** onetwentyseven inc
-* **Release Date:** February 11, 2016 @ 16:05:59
+* **Release Date:** February 11, 2016 @ 17:05:59
 * **In-App Purchasing:** No

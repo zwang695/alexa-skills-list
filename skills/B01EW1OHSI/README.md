@@ -20,7 +20,7 @@ Roll any number and any type of dice, add or subtract modifiers, drop the lowest
 * **ID:** amzn1.echo-sdk-ams.app.8e7298b4-e3b1-4b26-b619-d78f72a10690
 * **ASIN:** B01EW1OHSI
 * **Author:** Floating Factory
-* **Release Date:** May 17, 2016 @ 01:08:34
+* **Release Date:** May 17, 2016 @ 02:08:34
 * **Privacy Policy:** https://adjudicator.co/home/privacy
 * **Terms of Use:** https://adjudicator.co/home/terms
 * **In-App Purchasing:** No

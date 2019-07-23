@@ -16,5 +16,5 @@ Facts about guitars.
 * **ID:** amzn1.ask.skill.4f5d775f-8976-4e3a-b6a1-98208a66753c
 * **ASIN:** B01LXYE7GE
 * **Author:** Barbara Bickham
-* **Release Date:** September 29, 2016 @ 07:12:39
+* **Release Date:** September 29, 2016 @ 08:12:39
 * **In-App Purchasing:** No

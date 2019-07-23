@@ -31,5 +31,5 @@ Please enjoy!
 * **ID:** amzn1.echo-sdk-ams.app.dd691a47-55c9-4f41-8592-b541a574db6f
 * **ASIN:** B01DRDVTNS
 * **Author:** Don Holmberg
-* **Release Date:** April 7, 2016 @ 05:04:47
+* **Release Date:** April 7, 2016 @ 06:04:47
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill quizzes you on trivia facts about the NY pro baseball teams. Get star
 * **ID:** amzn1.echo-sdk-ams.app.7d1fc95b-57a2-48c5-a537-4ba4fdf1d2f7
 * **ASIN:** B01HN8CKEU
 * **Author:** Christopher Roemer
-* **Release Date:** June 30, 2016 @ 07:27:32
+* **Release Date:** June 30, 2016 @ 08:27:32
 * **In-App Purchasing:** No

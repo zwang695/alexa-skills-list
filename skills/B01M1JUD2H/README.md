@@ -20,5 +20,5 @@ The Baldy Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.bd63d1c2-ff63-4655-930b-08019aa1387c
 * **ASIN:** B01M1JUD2H
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:17:27
+* **Release Date:** October 20, 2016 @ 04:17:27
 * **In-App Purchasing:** No

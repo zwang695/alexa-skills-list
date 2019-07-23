@@ -20,5 +20,5 @@ This skill is triggered by utterances such as "stand up facts" or "comedian fact
 * **ID:** amzn1.ask.skill.a27ade47-ebf5-4000-b607-12fa9e18bc6c
 * **ASIN:** B01MRS11MP
 * **Author:** SadBoy
-* **Release Date:** December 2, 2016 @ 06:05:17
+* **Release Date:** December 2, 2016 @ 07:05:17
 * **In-App Purchasing:** No

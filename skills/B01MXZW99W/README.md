@@ -20,5 +20,5 @@ This skill exists to inform the user about random facts about world war 1. To st
 * **ID:** amzn1.ask.skill.2e41f17c-de78-4e6d-9507-b7a2b828180c
 * **ASIN:** B01MXZW99W
 * **Author:** Wossum Studios
-* **Release Date:** December 24, 2016 @ 00:48:56
+* **Release Date:** December 24, 2016 @ 01:48:56
 * **In-App Purchasing:** No

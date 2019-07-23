@@ -20,6 +20,6 @@ This tool allows one to quickly test voice interaction with services and devices
 * **ID:** amzn1.echo-sdk-ams.app.c3dffce7-9211-4623-a7d0-5c94592af20f
 * **ASIN:** B01COYAUB8
 * **Author:** Unified Computer Intelligence Corporation
-* **Release Date:** March 8, 2016 @ 03:02:56
+* **Release Date:** March 8, 2016 @ 04:02:56
 * **Privacy Policy:** https://www.freeprivacypolicy.com/free-privacy-policy.html
 * **In-App Purchasing:** No

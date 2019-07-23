@@ -20,5 +20,5 @@ This skill is intended to make it easier to find out if school is closed, partic
 * **ID:** amzn1.ask.skill.feac6e9d-b8cd-49d3-acc8-0cac4f662fdd
 * **ASIN:** B01LX8527T
 * **Author:** Matt Ward
-* **Release Date:** October 6, 2016 @ 01:41:47
+* **Release Date:** October 6, 2016 @ 02:41:47
 * **In-App Purchasing:** No

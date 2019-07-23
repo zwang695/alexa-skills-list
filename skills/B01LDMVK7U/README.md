@@ -20,5 +20,5 @@ Want to learn amazing potato facts from your friend the potato dude?  Of course 
 * **ID:** amzn1.ask.skill.583a3da4-f56c-4de2-94c5-df751b32550a
 * **ASIN:** B01LDMVK7U
 * **Author:** Bonk Studios
-* **Release Date:** September 5, 2016 @ 05:03:15
+* **Release Date:** September 5, 2016 @ 06:03:15
 * **In-App Purchasing:** No

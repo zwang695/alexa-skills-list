@@ -20,5 +20,5 @@ The Shawnee Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.decc6ec5-415d-4d37-a382-f423a1dbb3d9
 * **ASIN:** B01M7YFAT9
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:17:16
+* **Release Date:** November 4, 2016 @ 09:17:16
 * **In-App Purchasing:** No

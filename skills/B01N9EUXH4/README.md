@@ -27,5 +27,5 @@ Plan on adding mp3's of all quotes and allow selection between source or Alexa. 
 * **ID:** amzn1.ask.skill.e95a37df-6ec6-4636-a190-22ec85349b8e
 * **ASIN:** B01N9EUXH4
 * **Author:** Stephen Robb
-* **Release Date:** December 10, 2016 @ 06:19:32
+* **Release Date:** December 10, 2016 @ 07:19:32
 * **In-App Purchasing:** No

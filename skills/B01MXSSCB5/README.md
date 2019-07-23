@@ -16,5 +16,5 @@ This skill provides fun facts about hoodies. To use this skill, just ask alexa t
 * **ID:** amzn1.ask.skill.e4e272c3-2b86-4228-abd7-83016a34f461
 * **ASIN:** B01MXSSCB5
 * **Author:** Tyler
-* **Release Date:** December 2, 2016 @ 07:05:53
+* **Release Date:** December 2, 2016 @ 08:05:53
 * **In-App Purchasing:** No

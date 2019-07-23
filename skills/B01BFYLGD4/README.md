@@ -24,6 +24,6 @@ Be sure to take try the quiz often as new questions will be added routinely!
 * **ID:** amzn1.echo-sdk-ams.app.2afe5e3d-f93d-4fc7-83f1-a48e5cbb029e
 * **ASIN:** B01BFYLGD4
 * **Author:** Tony Moreira
-* **Release Date:** February 3, 2016 @ 17:29:12
+* **Release Date:** February 3, 2016 @ 18:29:12
 * **Terms of Use:** http://tonymoreira.com/alexa-itil-foundation-quiz/
 * **In-App Purchasing:** No

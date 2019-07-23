@@ -20,5 +20,5 @@ Twenty four is a game to use four number from 1-13 to calculate the number 24. E
 * **ID:** amzn1.echo-sdk-ams.app.1265a11a-faad-4aec-8590-897f6f7452fb
 * **ASIN:** B01EFDFPDO
 * **Author:** NukePrice
-* **Release Date:** May 16, 2016 @ 06:08:32
+* **Release Date:** May 16, 2016 @ 07:08:32
 * **In-App Purchasing:** No

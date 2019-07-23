@@ -22,7 +22,7 @@ If you have any questions, please visit the Honeywell FAQ at https://www.mytotal
 * **ID:** amzn1.ask.skill.ddb5f0a7-5442-4564-b6f7-e2ecca895745
 * **ASIN:** B01HCB4Y5Q
 * **Author:** Honeywell
-* **Release Date:** June 27, 2016 @ 16:45:08
+* **Release Date:** June 27, 2016 @ 17:45:08
 * **Privacy Policy:** https://mytotalconnectcomfort.com/portal/Home/TermsAndConditions
 * **Terms of Use:** https://mytotalconnectcomfort.com/portal/Home/TermsAndConditions
 * **In-App Purchasing:** No

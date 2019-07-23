@@ -18,5 +18,5 @@ Facts about Kharkiv, city of Ukraine
 * **ID:** amzn1.ask.skill.ba5ed41a-26dd-4bee-a999-6dd3593f3708
 * **ASIN:** B01MXYQS2Y
 * **Author:** Andrii Shchavinskyi
-* **Release Date:** December 16, 2016 @ 05:50:48
+* **Release Date:** December 16, 2016 @ 06:50:48
 * **In-App Purchasing:** No

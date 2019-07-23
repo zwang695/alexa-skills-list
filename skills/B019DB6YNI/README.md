@@ -24,5 +24,5 @@ In addition to the explicit commands (start, status, reset, stop), launching the
 * **ID:** amzn1.echo-sdk-ams.app.05c675bd-7424-4d1f-b1f1-80d79c4bb154
 * **ASIN:** B019DB6YNI
 * **Author:** blandflakes
-* **Release Date:** December 14, 2015 @ 19:58:37
+* **Release Date:** December 14, 2015 @ 20:58:37
 * **In-App Purchasing:** No

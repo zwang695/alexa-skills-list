@@ -20,5 +20,5 @@ The I Ching, or Book Of Changes, is an ancient Chinese divination tool in use fo
 * **ID:** amzn1.echo-sdk-ams.app.7ec98afa-a006-491f-a64f-067b2c90323e
 * **ASIN:** B01GT6P7FQ
 * **Author:** Barnett Labs
-* **Release Date:** July 1, 2016 @ 06:57:28
+* **Release Date:** July 1, 2016 @ 07:57:28
 * **In-App Purchasing:** No

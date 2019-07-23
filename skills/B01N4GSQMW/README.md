@@ -20,5 +20,5 @@ Gives a high life expectation or makes a remark about life expectations.
 * **ID:** amzn1.ask.skill.33152461-5d0f-48c2-888c-4ecafbd10506
 * **ASIN:** B01N4GSQMW
 * **Author:** University of Washington
-* **Release Date:** December 24, 2016 @ 08:49:28
+* **Release Date:** December 24, 2016 @ 09:49:28
 * **In-App Purchasing:** No

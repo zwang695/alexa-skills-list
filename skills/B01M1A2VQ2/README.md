@@ -20,5 +20,5 @@ The Portillo Snow Report brought to you by SnoCountry brings you the latest snow
 * **ID:** amzn1.ask.skill.b2d923a2-faf3-4c70-a273-831c0318dd32
 * **ASIN:** B01M1A2VQ2
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:43:42
+* **Release Date:** October 19, 2016 @ 11:43:42
 * **In-App Purchasing:** No

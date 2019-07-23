@@ -20,5 +20,5 @@ The user can get facts about Nepal related to Nepal's languages, demography, geo
 * **ID:** amzn1.ask.skill.6c0ca104-9cbb-404d-9d56-e8352328def5
 * **ASIN:** B01LXLLUXG
 * **Author:** KhadkaL
-* **Release Date:** September 29, 2016 @ 07:12:44
+* **Release Date:** September 29, 2016 @ 08:12:44
 * **In-App Purchasing:** No

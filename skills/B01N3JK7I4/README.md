@@ -20,5 +20,5 @@ The Ski Snow Valley Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.0d49282d-dc3d-45da-94d1-c3a8e58d6e5b
 * **ASIN:** B01N3JK7I4
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:13:44
+* **Release Date:** November 5, 2016 @ 12:13:44
 * **In-App Purchasing:** No

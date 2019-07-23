@@ -24,5 +24,5 @@ This app doesn't require any special hardware and has no other requirement.
 * **ID:** amzn1.ask.skill.af1c0272-d1b9-4f0a-a862-74a286eb54f4
 * **ASIN:** B01M62FKFB
 * **Author:** Paul McCabe
-* **Release Date:** October 14, 2016 @ 01:46:13
+* **Release Date:** October 14, 2016 @ 02:46:13
 * **In-App Purchasing:** No

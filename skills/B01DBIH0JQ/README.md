@@ -20,5 +20,5 @@ Love to play Hearthstone? But don't have the time to browse your huge collection
 * **ID:** amzn1.echo-sdk-ams.app.a5c7d9bd-2ba2-47a5-a1b1-0d783e1367e5
 * **ASIN:** B01DBIH0JQ
 * **Author:** Ewen Chou
-* **Release Date:** March 23, 2016 @ 01:48:21
+* **Release Date:** March 23, 2016 @ 02:48:21
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Shawnee Peak Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.f39cfaca-c614-4451-8b22-f5b79f70626e
 * **ASIN:** B01M3S8Z5O
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:14:56
+* **Release Date:** October 21, 2016 @ 15:14:56
 * **In-App Purchasing:** No

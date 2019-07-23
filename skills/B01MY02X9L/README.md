@@ -20,5 +20,5 @@ Looking for, managing and getting insights on IT talent just got easier with Bee
 * **ID:** amzn1.ask.skill.396118e7-80ac-477f-b1c3-8ccac7f60b45
 * **ASIN:** B01MY02X9L
 * **Author:** Mya
-* **Release Date:** December 31, 2016 @ 00:19:37
+* **Release Date:** December 31, 2016 @ 01:19:37
 * **In-App Purchasing:** No

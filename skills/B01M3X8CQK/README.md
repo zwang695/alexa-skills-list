@@ -20,5 +20,5 @@ This skill help you get unofficial social likes for a page name.
 * **ID:** amzn1.ask.skill.c194892e-8e88-49b7-a635-294c5d18c85f
 * **ASIN:** B01M3X8CQK
 * **Author:** MediaDev
-* **Release Date:** December 1, 2016 @ 01:35:48
+* **Release Date:** December 1, 2016 @ 02:35:48
 * **In-App Purchasing:** No

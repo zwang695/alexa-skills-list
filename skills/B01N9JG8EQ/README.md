@@ -22,5 +22,5 @@ The words come from the Remote Associates Test, which is a test of creative pote
 * **ID:** amzn1.ask.skill.87b146c1-632d-49d4-bec0-4cc5a29e1721
 * **ASIN:** B01N9JG8EQ
 * **Author:** Lukasz Reszczynski
-* **Release Date:** December 31, 2016 @ 02:48:58
+* **Release Date:** December 31, 2016 @ 03:48:58
 * **In-App Purchasing:** No

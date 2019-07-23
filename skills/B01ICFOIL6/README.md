@@ -20,5 +20,5 @@ This skill helps you learn who authored popular programming languages.  The user
 * **ID:** amzn1.echo-sdk-ams.app.7d68a544-1094-4c30-b810-21d724c86754
 * **ASIN:** B01ICFOIL6
 * **Author:** Corey
-* **Release Date:** July 21, 2016 @ 05:57:36
+* **Release Date:** July 21, 2016 @ 06:57:36
 * **In-App Purchasing:** No

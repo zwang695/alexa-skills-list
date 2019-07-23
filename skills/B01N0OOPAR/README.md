@@ -46,5 +46,5 @@ This skill is created by Hoogalit LLC
 * **ID:** amzn1.ask.skill.027d2055-36e2-42f7-8f21-cf987466150d
 * **ASIN:** B01N0OOPAR
 * **Author:** Hoogalit
-* **Release Date:** December 22, 2016 @ 03:50:23
+* **Release Date:** December 22, 2016 @ 04:50:23
 * **In-App Purchasing:** No

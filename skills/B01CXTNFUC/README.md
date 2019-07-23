@@ -20,5 +20,5 @@ The Cloud Ninja skill is your guide to Amazon Web Services.  It will keep you up
 * **ID:** amzn1.echo-sdk-ams.app.8aecc41d-56c1-456c-9bbe-2f4cb13e110c
 * **ASIN:** B01CXTNFUC
 * **Author:** Franklin Lobb
-* **Release Date:** March 13, 2016 @ 23:48:34
+* **Release Date:** March 14, 2016 @ 00:48:34
 * **In-App Purchasing:** No

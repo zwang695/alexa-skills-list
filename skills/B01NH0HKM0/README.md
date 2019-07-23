@@ -23,5 +23,5 @@ Robo 2.0 is a fact skill built with the Amazon Alexa Skills nodejs skill develop
 * **ID:** amzn1.ask.skill.94b7cb49-f5ea-4c88-ab85-3f72f18ce13b
 * **ASIN:** B01NH0HKM0
 * **Author:** SasankDev
-* **Release Date:** January 3, 2017 @ 00:49:07
+* **Release Date:** January 3, 2017 @ 01:49:07
 * **In-App Purchasing:** No

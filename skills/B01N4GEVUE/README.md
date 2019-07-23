@@ -20,5 +20,5 @@ Tells short facts about tapirs.
 * **ID:** amzn1.ask.skill.b2c15d52-f0ce-495e-ab06-e3f41c7a7bcb
 * **ASIN:** B01N4GEVUE
 * **Author:** Anders Janmyr
-* **Release Date:** December 29, 2016 @ 05:20:37
+* **Release Date:** December 29, 2016 @ 06:20:37
 * **In-App Purchasing:** No

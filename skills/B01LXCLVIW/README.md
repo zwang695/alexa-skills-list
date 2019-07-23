@@ -20,5 +20,5 @@ A test fact skill about rabbits.
 * **ID:** amzn1.ask.skill.73becd04-5d03-421e-b7c5-50f84589ca50
 * **ASIN:** B01LXCLVIW
 * **Author:** Brandon Thimmesch
-* **Release Date:** October 4, 2016 @ 02:43:07
+* **Release Date:** October 4, 2016 @ 03:43:07
 * **In-App Purchasing:** No

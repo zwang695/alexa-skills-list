@@ -20,5 +20,5 @@ Ask alexa to open this skill to get 5 trivia questions related to Mars. There wi
 * **ID:** amzn1.ask.skill.fbc0c387-58ac-4a3d-8f8b-c68e54ec0318
 * **ASIN:** B01N58LTMP
 * **Author:** Ashim Gautam
-* **Release Date:** November 29, 2016 @ 05:05:18
+* **Release Date:** November 29, 2016 @ 06:05:18
 * **In-App Purchasing:** No

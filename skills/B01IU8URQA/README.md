@@ -32,7 +32,7 @@ Warning: This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.50b02dd3-ab6f-4c39-bd04-e65fab54ea77
 * **ASIN:** B01IU8URQA
 * **Author:** BigML
-* **Release Date:** August 24, 2016 @ 03:01:39
+* **Release Date:** August 24, 2016 @ 04:01:39
 * **Privacy Policy:** https://bigml.com/privacy
 * **Terms of Use:** https://bigml.com/tos
 * **Account Linking Domains:** bigml.com, static.bigml.com

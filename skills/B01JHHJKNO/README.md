@@ -22,5 +22,5 @@ Enjoy learning technology trivia that you may not have known before!
 * **ID:** amzn1.ask.skill.7374cece-cb25-48a2-a05a-dc5a9d476458
 * **ASIN:** B01JHHJKNO
 * **Author:** Sabrina Knott's Masie Center Project
-* **Release Date:** August 5, 2016 @ 04:37:53
+* **Release Date:** August 5, 2016 @ 05:37:53
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ NOTE: At this time, My Tarot can only draw one card at a time.  For a mini tarot
 * **ID:** amzn1.echo-sdk-ams.app.71d4681e-cbb5-4ba5-80c4-3a15392bf32d
 * **ASIN:** B01IC7ZS0O
 * **Author:** Tozaleann
-* **Release Date:** July 13, 2016 @ 06:57:44
+* **Release Date:** July 13, 2016 @ 07:57:44
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Did you forget the name of a movie title, do want to know more about a particula
 * **ID:** amzn1.echo-sdk-ams.app.e1710a18-fb71-4a40-b52c-67412a4a8b1f
 * **ASIN:** B01GVFCP46
 * **Author:** Valossa Labs
-* **Release Date:** June 20, 2016 @ 05:15:33
+* **Release Date:** June 20, 2016 @ 06:15:33
 * **In-App Purchasing:** No

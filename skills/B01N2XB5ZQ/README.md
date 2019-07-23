@@ -20,5 +20,5 @@ Convert the measured battery voltage of a standard 12 volt car battery into a pe
 * **ID:** amzn1.ask.skill.67e71dcc-0dc8-4c52-8c0f-89a57ae7d7dc
 * **ASIN:** B01N2XB5ZQ
 * **Author:** samson
-* **Release Date:** December 26, 2016 @ 00:49:23
+* **Release Date:** December 26, 2016 @ 01:49:23
 * **In-App Purchasing:** No

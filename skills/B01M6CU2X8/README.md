@@ -20,5 +20,5 @@ The Great Bear Park Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.a9f53c6b-1222-442d-bac5-79fc63699456
 * **ASIN:** B01M6CU2X8
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:15:26
+* **Release Date:** November 4, 2016 @ 09:15:26
 * **In-App Purchasing:** No

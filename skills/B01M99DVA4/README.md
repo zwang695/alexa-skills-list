@@ -20,5 +20,5 @@ Launch Wine Facts to receive a randomly selected fact about wine. This app may n
 * **ID:** amzn1.ask.skill.6ca2c5fc-15ee-416e-8fa1-b261749116c0
 * **ASIN:** B01M99DVA4
 * **Author:** Elliot Davies
-* **Release Date:** October 15, 2016 @ 01:47:05
+* **Release Date:** October 15, 2016 @ 02:47:05
 * **In-App Purchasing:** No

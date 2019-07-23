@@ -20,5 +20,5 @@ This is an app about the number twenty.
 * **ID:** amzn1.ask.skill.84470dcb-51ce-4ae1-a365-ae9347e3f2f9
 * **ASIN:** B01JBQOP4A
 * **Author:** letsgo
-* **Release Date:** August 3, 2016 @ 01:41:32
+* **Release Date:** August 3, 2016 @ 02:41:32
 * **In-App Purchasing:** No

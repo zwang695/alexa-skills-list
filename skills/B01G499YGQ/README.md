@@ -24,5 +24,5 @@ Uses 6th generation+ Pokemon type attributes.
 * **ID:** amzn1.echo-sdk-ams.app.d9e73c0b-2418-4b25-8789-599ab5fa5bfe
 * **ASIN:** B01G499YGQ
 * **Author:** Bobby
-* **Release Date:** May 26, 2016 @ 23:38:39
+* **Release Date:** May 27, 2016 @ 00:38:39
 * **In-App Purchasing:** No

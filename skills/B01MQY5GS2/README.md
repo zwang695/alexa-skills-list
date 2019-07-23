@@ -27,5 +27,5 @@ Current Metrics: games played, minutes played, field goal attempts, field goals 
 * **ID:** amzn1.ask.skill.8a6bd435-3ad5-44af-b448-60395647d02f
 * **ASIN:** B01MQY5GS2
 * **Author:** mehtaculous
-* **Release Date:** December 22, 2016 @ 07:49:39
+* **Release Date:** December 22, 2016 @ 08:49:39
 * **In-App Purchasing:** No

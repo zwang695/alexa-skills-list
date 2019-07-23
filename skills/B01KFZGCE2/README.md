@@ -20,5 +20,5 @@ Use Cryptocurrent to get the current prices for man popular cryptocurrencies suc
 * **ID:** amzn1.ask.skill.936c3512-5fdf-409b-819e-79a871ae927d
 * **ASIN:** B01KFZGCE2
 * **Author:** Sharvil Parekh
-* **Release Date:** August 19, 2016 @ 08:20:41
+* **Release Date:** August 19, 2016 @ 09:20:41
 * **In-App Purchasing:** No

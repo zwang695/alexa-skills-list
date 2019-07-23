@@ -23,5 +23,5 @@ This Alexa Skill tell you some of the best inspirational quotes to uplift your d
 * **ID:** amzn1.ask.skill.a18e74fd-356e-4b37-af74-b1169d01dd34
 * **ASIN:** B01N0AWW0Q
 * **Author:** Doctor Echo
-* **Release Date:** November 17, 2016 @ 01:35:22
+* **Release Date:** November 17, 2016 @ 02:35:22
 * **In-App Purchasing:** No

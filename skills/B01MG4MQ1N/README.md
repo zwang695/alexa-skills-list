@@ -18,5 +18,5 @@ fun question game for facts about cheese!
 * **ID:** amzn1.ask.skill.a41187a7-fc0a-4ff1-9797-4f43a538fc70
 * **ASIN:** B01MG4MQ1N
 * **Author:** Midori Williams
-* **Release Date:** October 27, 2016 @ 02:46:09
+* **Release Date:** October 27, 2016 @ 03:46:09
 * **In-App Purchasing:** No

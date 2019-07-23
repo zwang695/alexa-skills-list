@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.c7ea1803-751b-4272-ba9c-7c58c81bd5af
 * **ASIN:** B01MTU5GHX
 * **Author:** yumidev
-* **Release Date:** November 29, 2016 @ 07:35:59
+* **Release Date:** November 29, 2016 @ 08:35:59
 * **In-App Purchasing:** No

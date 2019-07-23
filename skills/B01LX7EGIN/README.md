@@ -24,5 +24,5 @@ Simply tell Alexa to talk to Glad Recycler, and then inquire away. You can ask a
 * **ID:** amzn1.ask.skill.bf261af5-02db-4723-ac4e-6641f2edc0cd
 * **ASIN:** B01LX7EGIN
 * **Author:** Glad AlexaApps
-* **Release Date:** October 5, 2016 @ 01:42:17
+* **Release Date:** October 5, 2016 @ 02:42:17
 * **In-App Purchasing:** No

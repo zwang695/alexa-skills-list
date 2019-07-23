@@ -21,5 +21,5 @@ Note this is in no way endorsed or sanctioned by HBO or any of it's affiliates.
 * **ID:** amzn1.echo-sdk-ams.app.c1225c01-57dc-41e3-8f04-1ba2e2740464
 * **ASIN:** B01ILSYD0U
 * **Author:** Jimmy Boyle
-* **Release Date:** July 22, 2016 @ 07:57:09
+* **Release Date:** July 22, 2016 @ 08:57:09
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Mama Schack is learning new recipes and new information all the time. You can he
 * **ID:** amzn1.ask.skill.025a22a0-9acb-4d6d-8e4f-cc38b12f5749
 * **ASIN:** B01N4ELOO9
 * **Author:** Marion
-* **Release Date:** December 20, 2016 @ 03:19:20
+* **Release Date:** December 20, 2016 @ 04:19:20
 * **In-App Purchasing:** No

@@ -395,7 +395,7 @@ The Way
 * **ID:** amzn1.echo-sdk-ams.app.2d649ba7-94ac-440c-904a-f129b175cffb
 * **ASIN:** B01IRQF9HW
 * **Author:** Synapse Research Systems
-* **Release Date:** August 4, 2016 @ 07:41:34
+* **Release Date:** August 4, 2016 @ 08:41:34
 * **Privacy Policy:** https://www.jwdailytext.com/PrivacyPolicy.txt
 * **Terms of Use:** https://www.jwdailytext.com/TermsConditions.txt
 * **In-App Purchasing:** No

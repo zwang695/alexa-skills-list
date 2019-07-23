@@ -20,5 +20,5 @@ A fun skill that tells you many known and unknown facts about New York City.
 * **ID:** amzn1.ask.skill.0a45b48c-314f-4aad-82a6-021f47d0bc66
 * **ASIN:** B01NBNC6RU
 * **Author:** Mandy Chan
-* **Release Date:** December 24, 2016 @ 03:18:45
+* **Release Date:** December 24, 2016 @ 04:18:45
 * **In-App Purchasing:** No

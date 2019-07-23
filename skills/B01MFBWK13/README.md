@@ -20,5 +20,5 @@ The Spout Springs Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.000386d7-086c-478b-87ee-4557039fc7e1
 * **ASIN:** B01MFBWK13
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:47:32
+* **Release Date:** October 26, 2016 @ 04:47:32
 * **In-App Purchasing:** No

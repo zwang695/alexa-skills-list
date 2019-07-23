@@ -26,5 +26,5 @@ Jam Buzz and Ultimate Deadhead Quiz love the Dead but is in no way affiliated wi
 * **ID:** amzn1.echo-sdk-ams.app.c8f25b57-fc22-4cc0-949d-8f1c9059aba7
 * **ASIN:** B01HWYFDGW
 * **Author:** Jam Buzz
-* **Release Date:** July 7, 2016 @ 03:57:30
+* **Release Date:** July 7, 2016 @ 04:57:30
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ This skill is not endorsed by Nintendo or the Pokemon Company.
 * **ID:** amzn1.ask.skill.97ea3a1b-6ae1-440f-a5ca-a69e8dd6b8ac
 * **ASIN:** B01JTPCFOA
 * **Author:** Troogle
-* **Release Date:** August 8, 2016 @ 03:07:31
+* **Release Date:** August 8, 2016 @ 04:07:31
 * **In-App Purchasing:** No

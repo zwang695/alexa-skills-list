@@ -22,6 +22,6 @@ We appreciate any feedback and suggestions you may have for improvements. Just c
 * **ID:** amzn1.ask.skill.059b4ade-615a-497e-b0eb-a80d382c0f08
 * **ASIN:** B01M02AHFA
 * **Author:** Arbonne International, LLC
-* **Release Date:** November 2, 2016 @ 03:43:07
+* **Release Date:** November 2, 2016 @ 04:43:07
 * **Privacy Policy:** https://www.arbonne.com/discover/legal/privacy.shtml
 * **In-App Purchasing:** No

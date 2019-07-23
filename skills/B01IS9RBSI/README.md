@@ -20,5 +20,5 @@ This is a simple multiple-choice quiz to test your knowledge of Greek mythology 
 * **ID:** amzn1.ask.skill.c0b36401-d831-4da2-ba61-434f5e7580d5
 * **ASIN:** B01IS9RBSI
 * **Author:** Facet Digital, LLC
-* **Release Date:** July 22, 2016 @ 01:57:40
+* **Release Date:** July 22, 2016 @ 02:57:40
 * **In-App Purchasing:** No

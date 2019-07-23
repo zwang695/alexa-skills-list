@@ -20,5 +20,5 @@ This skill allows Alexa to provide you with some fun and interesting facts about
 * **ID:** amzn1.ask.skill.3dca598a-2edb-426a-ba62-8a7bc51d9bf0
 * **ASIN:** B01M746R84
 * **Author:** Caseware Computer Systems, LLC
-* **Release Date:** November 6, 2016 @ 03:42:34
+* **Release Date:** November 6, 2016 @ 04:42:34
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ You can use the skill to play all your health statistics from microsoft health a
 * **ID:** amzn1.echo-sdk-ams.app.78b707a3-afb8-47bf-95b1-832eb6c59c60
 * **ASIN:** B01DKI6KAC
 * **Author:** Rai Integration Ltd
-* **Release Date:** April 12, 2016 @ 14:32:27
+* **Release Date:** April 12, 2016 @ 15:32:27
 * **Privacy Policy:** http://starfishmint.com/policy/privacy-band.html
 * **Terms of Use:** http://starfishmint.com/policy/terms-band.html
 * **In-App Purchasing:** No

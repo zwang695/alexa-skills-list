@@ -20,5 +20,5 @@ The 49 Degrees North Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.1623c212-3b7a-4184-bc6f-d88e573a97f3
 * **ASIN:** B01LXC5NVM
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:44:25
+* **Release Date:** October 19, 2016 @ 11:44:25
 * **In-App Purchasing:** No

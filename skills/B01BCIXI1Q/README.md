@@ -21,5 +21,5 @@ Current games supported are DOTA 2, League of Legends, StarCraft 2, Heroes of Ne
 * **ID:** amzn1.echo-sdk-ams.app.79ff594b-2115-4193-bd22-58cf38638605
 * **ASIN:** B01BCIXI1Q
 * **Author:** abiosgaming.com
-* **Release Date:** February 1, 2016 @ 11:38:07
+* **Release Date:** February 1, 2016 @ 12:38:07
 * **In-App Purchasing:** No

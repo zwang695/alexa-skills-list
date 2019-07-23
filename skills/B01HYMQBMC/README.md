@@ -20,5 +20,5 @@ Test your ophthalmology knowledge with multiple choice questions, including anat
 * **ID:** amzn1.echo-sdk-ams.app.10da6a5c-8f7a-4c98-911d-ca3da30a2322
 * **ASIN:** B01HYMQBMC
 * **Author:** Conor Malone
-* **Release Date:** July 6, 2016 @ 01:57:52
+* **Release Date:** July 6, 2016 @ 02:57:52
 * **In-App Purchasing:** No

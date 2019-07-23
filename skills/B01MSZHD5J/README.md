@@ -18,5 +18,5 @@ Fun facts about Oleh Pylypchak
 * **ID:** amzn1.ask.skill.ca82c79e-4dcc-4046-ad09-0644eebf42c6
 * **ASIN:** B01MSZHD5J
 * **Author:** oleh
-* **Release Date:** December 16, 2016 @ 04:50:16
+* **Release Date:** December 16, 2016 @ 05:50:16
 * **In-App Purchasing:** No

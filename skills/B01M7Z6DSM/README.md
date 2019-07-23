@@ -20,5 +20,5 @@ Based on weather in Seattle, WA this skill recommends what to wear for Men. It e
 * **ID:** amzn1.echo-sdk-ams.app.a4bd38dd-8dec-46ed-91c7-65e122245549
 * **ASIN:** B01M7Z6DSM
 * **Author:** srikar
-* **Release Date:** November 14, 2016 @ 01:13:21
+* **Release Date:** November 14, 2016 @ 02:13:21
 * **In-App Purchasing:** No

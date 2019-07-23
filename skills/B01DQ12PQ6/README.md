@@ -20,7 +20,7 @@ PCMag can recommend the best printer, scanner, camera, laptop, cell phone. Whate
 * **ID:** amzn1.echo-sdk-ams.app.f060d3ed-aab5-40dd-b730-b9d2fbd17b99
 * **ASIN:** B01DQ12PQ6
 * **Author:** Ziff Davis, LLC
-* **Release Date:** April 5, 2016 @ 14:32:29
+* **Release Date:** April 5, 2016 @ 15:32:29
 * **Privacy Policy:** http://www.ziffdavis.com/privacy-policy
 * **Terms of Use:** http://www.ziffdavis.com/terms-of-use
 * **In-App Purchasing:** No

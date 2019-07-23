@@ -20,5 +20,5 @@ The purpose of this skill is for the user to learn more about computer's.
 * **ID:** amzn1.ask.skill.eb7a2259-eff0-47a0-9374-cf0e061288f0
 * **ASIN:** B01MQ11WVW
 * **Author:** JeremyDuenas
-* **Release Date:** November 2, 2016 @ 03:12:38
+* **Release Date:** November 2, 2016 @ 04:12:38
 * **In-App Purchasing:** No

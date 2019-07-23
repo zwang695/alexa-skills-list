@@ -20,5 +20,5 @@ You tell Mini Chef what you want to cook, and he searches through a growing list
 * **ID:** amzn1.echo-sdk-ams.app.d697caf7-a152-47e6-ad58-73c7f7bc65e4
 * **ASIN:** B01GMYZY08
 * **Author:** Hack Since the 6th Grade
-* **Release Date:** July 14, 2016 @ 09:28:03
+* **Release Date:** July 14, 2016 @ 10:28:03
 * **In-App Purchasing:** No

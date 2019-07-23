@@ -16,5 +16,5 @@ A short history game from Greek to WW2.
 * **ID:** amzn1.ask.skill.6ae14b9b-a363-4840-a33a-a436beed16fb
 * **ASIN:** B01N0CKX9V
 * **Author:** Thanut (Art) Parkeenvincha
-* **Release Date:** November 15, 2016 @ 00:05:40
+* **Release Date:** November 15, 2016 @ 01:05:40
 * **In-App Purchasing:** No

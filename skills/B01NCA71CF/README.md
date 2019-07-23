@@ -20,6 +20,6 @@ For more information, please visit our FAQ at: help.getkuna.com.
 * **ID:** amzn1.ask.skill.7847d8fa-0073-4a40-b07f-34b8a475bcac
 * **ASIN:** B01NCA71CF
 * **Author:** Kuna
-* **Release Date:** November 22, 2016 @ 18:37:05
+* **Release Date:** November 22, 2016 @ 19:37:05
 * **Privacy Policy:** https://www.getkuna.com/privacy
 * **In-App Purchasing:** No

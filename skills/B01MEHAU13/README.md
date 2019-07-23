@@ -20,5 +20,5 @@ The Great Divide Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.ff269488-2311-4667-a28a-f450e855820f
 * **ASIN:** B01MEHAU13
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:45:43
+* **Release Date:** October 21, 2016 @ 15:45:43
 * **In-App Purchasing:** No

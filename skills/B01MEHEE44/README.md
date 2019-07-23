@@ -20,5 +20,5 @@ This is a trivia quiz on a random set of hockey knowledge that would be impressi
 * **ID:** amzn1.ask.skill.c69e5b87-8740-4ceb-9eac-08e75749d873
 * **ASIN:** B01MEHEE44
 * **Author:** Bryan
-* **Release Date:** October 25, 2016 @ 01:46:41
+* **Release Date:** October 25, 2016 @ 02:46:41
 * **In-App Purchasing:** No

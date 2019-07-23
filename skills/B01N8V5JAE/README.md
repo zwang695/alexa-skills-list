@@ -18,5 +18,5 @@ Unofficial Pokedex, Show pokemon's number, type and abilities. Initially support
 * **ID:** amzn1.ask.skill.d114e13c-ec9c-4373-abb2-d19ed8da521d
 * **ASIN:** B01N8V5JAE
 * **Author:** Jaguar Soft
-* **Release Date:** December 15, 2016 @ 02:19:39
+* **Release Date:** December 15, 2016 @ 03:19:39
 * **In-App Purchasing:** No

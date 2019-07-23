@@ -21,5 +21,5 @@ PS: Currently not all currencies are listed, more work to be done in the future,
 * **ID:** amzn1.echo-sdk-ams.app.2204f700-c5a6-4a8d-9781-492c60e907a9
 * **ASIN:** B01DO8TXSO
 * **Author:** xinen8721
-* **Release Date:** April 6, 2016 @ 09:33:00
+* **Release Date:** April 6, 2016 @ 10:33:00
 * **In-App Purchasing:** No

@@ -27,5 +27,5 @@ Features coming very soon:
 * **ID:** amzn1.echo-sdk-ams.app.10f09e5b-99f8-4812-9ebe-2b817f5ce01f
 * **ASIN:** B01HBWI4B6
 * **Author:** Jens
-* **Release Date:** June 25, 2016 @ 03:16:24
+* **Release Date:** June 25, 2016 @ 04:16:24
 * **In-App Purchasing:** No

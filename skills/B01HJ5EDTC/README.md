@@ -20,5 +20,5 @@ They're coming to get you! The Zombie Trivia skill tests your knowledge of zombi
 * **ID:** amzn1.echo-sdk-ams.app.c98c281a-1ca2-498f-a9a3-efa3c4606d51
 * **ASIN:** B01HJ5EDTC
 * **Author:** Brian Dailey
-* **Release Date:** June 25, 2016 @ 07:15:35
+* **Release Date:** June 25, 2016 @ 08:15:35
 * **In-App Purchasing:** No

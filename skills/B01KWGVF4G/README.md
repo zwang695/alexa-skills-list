@@ -40,7 +40,7 @@ Disclaimer: This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.7a391899-82a9-4f7a-afb7-cc5a60cc550f
 * **ASIN:** B01KWGVF4G
 * **Author:** chefling
-* **Release Date:** September 23, 2016 @ 05:41:55
+* **Release Date:** September 23, 2016 @ 06:41:55
 * **Privacy Policy:** http://www.chefling.net/privacy-policy/
 * **Terms of Use:** http://www.chefling.net/terms-conditions/
 * **In-App Purchasing:** No

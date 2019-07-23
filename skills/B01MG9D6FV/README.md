@@ -20,5 +20,5 @@ The Burke Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.76a22ef7-43ae-49ed-864a-32a0f373ddc8
 * **ASIN:** B01MG9D6FV
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:13:59
+* **Release Date:** November 4, 2016 @ 09:13:59
 * **In-App Purchasing:** No

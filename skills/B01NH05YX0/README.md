@@ -20,5 +20,5 @@ Everyone needs a sidekick (well maybe not Superman, but still).  With the Super 
 * **ID:** amzn1.ask.skill.e4a67710-3d2c-42d3-a2da-ad4ffb8d4801
 * **ASIN:** B01NH05YX0
 * **Author:** Trisome
-* **Release Date:** December 29, 2016 @ 04:49:46
+* **Release Date:** December 29, 2016 @ 05:49:46
 * **In-App Purchasing:** No

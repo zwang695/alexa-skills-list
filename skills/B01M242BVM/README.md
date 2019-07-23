@@ -20,5 +20,5 @@ Love is spread through food and the world needs to feel the love. This skill giv
 * **ID:** amzn1.ask.skill.b9bc935b-ebc2-48b6-b599-b5d657d24c11
 * **ASIN:** B01M242BVM
 * **Author:** IDK UNO
-* **Release Date:** October 21, 2016 @ 15:43:35
+* **Release Date:** October 21, 2016 @ 16:43:35
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Learn about the Pacific Crest Trail with the PCT Facts app! PCT Facts provides i
 * **ID:** amzn1.ask.skill.acf2b1e4-f810-4fba-81c5-be13d9d1f8ee
 * **ASIN:** B01LZU819F
 * **Author:** Amanda S
-* **Release Date:** September 22, 2016 @ 06:42:12
+* **Release Date:** September 22, 2016 @ 07:42:12
 * **In-App Purchasing:** No

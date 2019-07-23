@@ -18,5 +18,5 @@ Magic Podcast uses the podcast search engine Audiosear.ch to find and play your 
 * **ID:** amzn1.ask.skill.7ca22c2a-8ca9-4930-a833-76c7dae6f1de
 * **ASIN:** B01MXFEB95
 * **Author:** techdad24.com
-* **Release Date:** November 15, 2016 @ 00:35:09
+* **Release Date:** November 15, 2016 @ 01:35:09
 * **In-App Purchasing:** No

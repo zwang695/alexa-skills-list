@@ -20,5 +20,5 @@ For interesting facts about korean cuisine and its culture, ask Korean Food Fact
 * **ID:** amzn1.ask.skill.83b0842f-32f6-4789-8837-5b754fa5892d
 * **ASIN:** B01LI8HZNC
 * **Author:** John Moon
-* **Release Date:** September 5, 2016 @ 01:33:52
+* **Release Date:** September 5, 2016 @ 02:33:52
 * **In-App Purchasing:** No

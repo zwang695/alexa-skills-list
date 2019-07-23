@@ -20,5 +20,5 @@ Do you think you know a lot about American presidents?  Test you knowledge with 
 * **ID:** amzn1.echo-sdk-ams.app.1778c404-2886-4b5d-a92b-f1f93d0f4c64
 * **ASIN:** B01H9G58S6
 * **Author:** Keji Xu
-* **Release Date:** June 20, 2016 @ 05:15:50
+* **Release Date:** June 20, 2016 @ 06:15:50
 * **In-App Purchasing:** No

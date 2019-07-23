@@ -20,5 +20,5 @@ The Bluewood Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.d73440ea-8237-466d-90ab-7f1e52600c52
 * **ASIN:** B01M16X979
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:12:35
+* **Release Date:** October 19, 2016 @ 12:12:35
 * **In-App Purchasing:** No

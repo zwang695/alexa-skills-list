@@ -20,5 +20,5 @@ Have some fun with some of the world's favorite riddles.  Riddles are asked one 
 * **ID:** amzn1.echo-sdk-ams.app.d23bfc0a-00f3-4aeb-8ba1-355cd0723b18
 * **ASIN:** B01ISB25OG
 * **Author:** Visible Web Solutions
-* **Release Date:** July 28, 2016 @ 03:56:41
+* **Release Date:** July 28, 2016 @ 04:56:41
 * **In-App Purchasing:** No

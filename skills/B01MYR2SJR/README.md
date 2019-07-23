@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.c949b668-f277-4099-9a2c-190c88e6fdfd
 * **ASIN:** B01MYR2SJR
 * **Author:** Matthias Pfeil
-* **Release Date:** November 29, 2016 @ 08:05:50
+* **Release Date:** November 29, 2016 @ 09:05:50
 * **In-App Purchasing:** No

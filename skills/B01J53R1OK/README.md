@@ -22,5 +22,5 @@ You can use any Amazon Echo device to interact with this skill. To get started, 
 * **ID:** amzn1.ask.skill.1d386bf4-f5a7-4687-8d02-7f938b13501b
 * **ASIN:** B01J53R1OK
 * **Author:** Monkey Tech Studios
-* **Release Date:** August 17, 2016 @ 02:23:03
+* **Release Date:** August 17, 2016 @ 03:23:03
 * **In-App Purchasing:** No

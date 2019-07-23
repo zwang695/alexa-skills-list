@@ -20,5 +20,5 @@ The Bradford Ski Area Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.a3bbbc22-345f-4ba8-9f19-c016a4b49047
 * **ASIN:** B01MAYXFY8
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:47:04
+* **Release Date:** October 21, 2016 @ 15:47:04
 * **In-App Purchasing:** No

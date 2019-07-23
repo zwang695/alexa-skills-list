@@ -23,5 +23,5 @@ Just ask Alexa when is the next train and that’s all!
 * **ID:** amzn1.echo-sdk-ams.app.ec4aac28-45df-47a1-bfaa-d4f224b64fac
 * **ASIN:** B01DVRYVYE
 * **Author:** Genady Okrain
-* **Release Date:** April 8, 2016 @ 17:02:29
+* **Release Date:** April 8, 2016 @ 18:02:29
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Think you're a geography buff? I bet this skill has some world capitals that wou
 * **ID:** amzn1.ask.skill.0fdb7a03-48af-4deb-881c-c92184a8a4c5
 * **ASIN:** B01KGR5TFC
 * **Author:** Sly Software
-* **Release Date:** August 18, 2016 @ 02:22:19
+* **Release Date:** August 18, 2016 @ 03:22:19
 * **In-App Purchasing:** No

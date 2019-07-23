@@ -20,5 +20,5 @@ The Cooper Spur Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.e2cfd896-4878-4c1d-bf85-1c8517ebdf90
 * **ASIN:** B01M70YBJI
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:46:53
+* **Release Date:** October 26, 2016 @ 04:46:53
 * **In-App Purchasing:** No

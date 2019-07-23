@@ -20,5 +20,5 @@ When PBS aired the show, Bill Nye, the Science Guy, it was an instant hit. This 
 * **ID:** amzn1.ask.skill.9c2226a5-4e91-451b-aaed-25c1709fed7a
 * **ASIN:** B01M1ACXV5
 * **Author:** Elvis Wolcott
-* **Release Date:** November 9, 2016 @ 03:13:14
+* **Release Date:** November 9, 2016 @ 04:13:14
 * **In-App Purchasing:** No

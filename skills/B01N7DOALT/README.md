@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.9527c89a-8998-4597-b1fc-78d1480cd01e
 * **ASIN:** B01N7DOALT
 * **Author:** Tobias
-* **Release Date:** December 9, 2016 @ 06:19:21
+* **Release Date:** December 9, 2016 @ 07:19:21
 * **In-App Purchasing:** No

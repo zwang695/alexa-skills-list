@@ -16,5 +16,5 @@ Fun facts about the city of Seattle from the Seattle.gov website
 * **ID:** amzn1.ask.skill.e5b4e5d8-8917-4f62-9022-25333fd5f7c0
 * **ASIN:** B01LZGTZV3
 * **Author:** justjimmeh
-* **Release Date:** September 16, 2016 @ 03:41:37
+* **Release Date:** September 16, 2016 @ 04:41:37
 * **In-App Purchasing:** No

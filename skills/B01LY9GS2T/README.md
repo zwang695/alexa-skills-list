@@ -18,5 +18,5 @@ This skill will tell you panda facts when you ask it.
 * **ID:** amzn1.ask.skill.88ed5855-678d-498a-abe5-64f9e7504c3a
 * **ASIN:** B01LY9GS2T
 * **Author:** antcho92
-* **Release Date:** October 4, 2016 @ 02:12:33
+* **Release Date:** October 4, 2016 @ 03:12:33
 * **In-App Purchasing:** No

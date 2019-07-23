@@ -22,5 +22,5 @@ This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.42c328ee-e617-4138-a366-0eb5b5f3aab8
 * **ASIN:** B01BL1CAVI
 * **Author:** Sterian Associates
-* **Release Date:** February 8, 2016 @ 19:12:30
+* **Release Date:** February 8, 2016 @ 20:12:30
 * **In-App Purchasing:** No

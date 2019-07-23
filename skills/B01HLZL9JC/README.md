@@ -16,7 +16,7 @@ This is a trivia game meant to test your knowledge of various super heroes.
 * **ID:** amzn1.echo-sdk-ams.app.9955b0ce-501e-48e0-80b3-093ec393681b
 * **ASIN:** B01HLZL9JC
 * **Author:** VanderFox
-* **Release Date:** October 13, 2016 @ 01:20:09
+* **Release Date:** October 13, 2016 @ 02:20:09
 * **Privacy Policy:** http://www.vanderfox.com/privacy.html
 * **Terms of Use:** http://www.vanderfox.com/terms.html
 * **In-App Purchasing:** No

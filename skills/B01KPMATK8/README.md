@@ -20,5 +20,5 @@ Teen Driving Facts is an interactive way for your teen to become a more responsi
 * **ID:** amzn1.ask.skill.d4f7ea27-a3c1-4d0e-b15c-17d77838ebde
 * **ASIN:** B01KPMATK8
 * **Author:** Jagdeep Sidhu
-* **Release Date:** August 22, 2016 @ 03:07:42
+* **Release Date:** August 22, 2016 @ 04:07:42
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Alexa simply asks you to name ten things. Its purely to get your brain ticking a
 * **ID:** amzn1.ask.skill.f36163da-bc49-4d28-803f-4491d12fc733
 * **ASIN:** B01MA3HKC3
 * **Author:** C3 Custom Code Crafters
-* **Release Date:** October 21, 2016 @ 15:44:33
+* **Release Date:** October 21, 2016 @ 16:44:33
 * **In-App Purchasing:** No

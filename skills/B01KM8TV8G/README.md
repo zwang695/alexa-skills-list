@@ -20,5 +20,5 @@ A skill that will give you your fortune when you ask for it! Fortune cookies are
 * **ID:** amzn1.ask.skill.aafada53-c460-43da-b59b-1e6af7a5dda3
 * **ASIN:** B01KM8TV8G
 * **Author:** Shah
-* **Release Date:** August 19, 2016 @ 01:52:30
+* **Release Date:** August 19, 2016 @ 02:52:30
 * **In-App Purchasing:** No

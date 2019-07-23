@@ -20,5 +20,5 @@ The Duck Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.3950d2aa-cb95-47ff-ae8f-cb6eac40bf49
 * **ASIN:** B01MXO8UX5
 * **Author:** SnoCountry
-* **Release Date:** November 22, 2016 @ 08:35:42
+* **Release Date:** November 22, 2016 @ 09:35:42
 * **In-App Purchasing:** No

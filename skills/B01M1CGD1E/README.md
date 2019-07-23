@@ -16,5 +16,5 @@ This skill gives what are the top 5 trend keywords that are mostly asked by peop
 * **ID:** amzn1.ask.skill.b51a891e-e67c-40c8-a2d9-59a1eb105d24
 * **ASIN:** B01M1CGD1E
 * **Author:** Muhyun
-* **Release Date:** October 8, 2016 @ 04:12:10
+* **Release Date:** October 8, 2016 @ 05:12:10
 * **In-App Purchasing:** No

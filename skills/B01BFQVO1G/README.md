@@ -22,7 +22,7 @@ Powered by TfL Open Data
 * **ID:** amzn1.echo-sdk-ams.app.763d4b64-43ff-4959-915d-d850abce1fed
 * **ASIN:** B01BFQVO1G
 * **Author:** etsnet
-* **Release Date:** February 3, 2016 @ 14:40:29
+* **Release Date:** February 3, 2016 @ 15:40:29
 * **Privacy Policy:** https://tfl.gov.uk/corporate/privacy-and-cookies/
 * **Terms of Use:** https://tfl.gov.uk/corporate/terms-and-conditions/
 * **In-App Purchasing:** No

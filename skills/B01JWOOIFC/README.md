@@ -20,5 +20,5 @@ This skill provides a random fact about developer, Liz.
 * **ID:** amzn1.ask.skill.2d393804-7fd9-4a40-ac6d-34382d49782c
 * **ASIN:** B01JWOOIFC
 * **Author:** Liz Miller Fit
-* **Release Date:** August 9, 2016 @ 05:07:27
+* **Release Date:** August 9, 2016 @ 06:07:27
 * **In-App Purchasing:** No

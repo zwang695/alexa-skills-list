@@ -20,5 +20,5 @@ A simple trivia application
 * **ID:** amzn1.ask.skill.98d36fc8-c8b8-498a-83fb-bd326f7fbc58
 * **ASIN:** B01JZW8U82
 * **Author:** vijay venkatesh
-* **Release Date:** August 10, 2016 @ 01:37:32
+* **Release Date:** August 10, 2016 @ 02:37:32
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Bring the pub quiz home! Did you know Alexa can play trivia games? Take our shor
 * **ID:** amzn1.echo-sdk-ams.app.b19d1dc9-b17e-4a31-9ed5-67729c415864
 * **ASIN:** B01EIFGQEG
 * **Author:** Mouthy.com
-* **Release Date:** April 25, 2016 @ 07:11:23
+* **Release Date:** April 25, 2016 @ 08:11:23
 * **In-App Purchasing:** No

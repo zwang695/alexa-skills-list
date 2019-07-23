@@ -20,5 +20,5 @@ Every person's dream! A doorman with a sense of humor. Ask this doorman for a jo
 * **ID:** amzn1.ask.skill.546e84c9-95f8-405a-b6d4-c758e8135ad3
 * **ASIN:** B01JDLWDG0
 * **Author:** Stephen Cook
-* **Release Date:** August 16, 2016 @ 07:26:28
+* **Release Date:** August 16, 2016 @ 08:26:28
 * **In-App Purchasing:** No

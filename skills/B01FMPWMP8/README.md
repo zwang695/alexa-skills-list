@@ -21,5 +21,5 @@ Alexa can remember your base currency. You just need to tell it once. Everyday, 
 * **ID:** amzn1.echo-sdk-ams.app.828bb900-446b-4d3e-a56b-b6c3861418de
 * **ASIN:** B01FMPWMP8
 * **Author:** Preferred Plus Investments
-* **Release Date:** May 21, 2016 @ 02:38:59
+* **Release Date:** May 21, 2016 @ 03:38:59
 * **In-App Purchasing:** No

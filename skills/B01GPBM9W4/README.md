@@ -20,7 +20,7 @@ Alexa skill to control one or more Nest thermostats. Allows for account linking 
 * **ID:** amzn1.echo-sdk-ams.app.c176feea-934a-4fbd-81ce-99ba0bc32cb6
 * **ASIN:** B01GPBM9W4
 * **Author:** Tylopoda
-* **Release Date:** June 29, 2016 @ 08:27:43
+* **Release Date:** June 29, 2016 @ 09:27:43
 * **Privacy Policy:** https://s3.amazonaws.com/smooth_test/privacy.txt
 * **Account Linking Domains:** amazon.com, nest.com, tlund-audible.com, jquery.com, home.nest.com, google-analytics.com, amazonaws.com
 * **In-App Purchasing:** No

@@ -28,5 +28,5 @@ Icon by Ben at https://openclipart.org/detail/192626/brain
 * **ID:** amzn1.echo-sdk-ams.app.356924ce-dfd4-4e82-b1fd-8ec41b3b356f
 * **ASIN:** B01DMMQZ2O
 * **Author:** Mutant Soup Software
-* **Release Date:** March 30, 2016 @ 12:02:31
+* **Release Date:** March 30, 2016 @ 13:02:31
 * **In-App Purchasing:** No

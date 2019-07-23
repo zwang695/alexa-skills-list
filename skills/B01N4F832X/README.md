@@ -20,5 +20,5 @@ Have you ever wondered how many meters are in one swimming length or vice versa.
 * **ID:** amzn1.ask.skill.d1ae1a55-af39-4841-a090-184c6fa0dd6f
 * **ASIN:** B01N4F832X
 * **Author:** gdragoste
-* **Release Date:** December 24, 2016 @ 07:48:57
+* **Release Date:** December 24, 2016 @ 08:48:57
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Bruce Mound Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.ef5bd0a5-6f97-4a23-b0ef-d65250cd858b
 * **ASIN:** B01MXCJATZ
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:43:57
+* **Release Date:** November 5, 2016 @ 11:43:57
 * **In-App Purchasing:** No

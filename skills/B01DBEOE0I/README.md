@@ -20,5 +20,5 @@ Get your daily dose of spiritual inspiration right from Alexa. LDS Daily Message
 * **ID:** amzn1.echo-sdk-ams.app.2fc76924-38ad-4ca5-bc43-97354be25e46
 * **ASIN:** B01DBEOE0I
 * **Author:** sunkencity software
-* **Release Date:** March 23, 2016 @ 00:26:26
+* **Release Date:** March 23, 2016 @ 01:26:26
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Stuck for something to do today in NYC? Why don't you ask Alexa for a museum sug
 * **ID:** amzn1.ask.skill.afcc517b-35fa-431d-bb7b-ab1a56603639
 * **ASIN:** B01K9MZ8LY
 * **Author:** Cloud Labs Ltd. 
-* **Release Date:** August 13, 2016 @ 04:37:24
+* **Release Date:** August 13, 2016 @ 05:37:24
 * **In-App Purchasing:** No

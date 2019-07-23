@@ -22,5 +22,5 @@ A paradox is a statement that, despite apparently sound reasoning from true prem
 * **ID:** amzn1.ask.skill.444dc285-7bdc-4c93-b70c-57c9934e9c4c
 * **ASIN:** B01M0VKDC2
 * **Author:** Aishwarya Venkatesh
-* **Release Date:** October 10, 2016 @ 09:11:48
+* **Release Date:** October 10, 2016 @ 10:11:48
 * **In-App Purchasing:** No

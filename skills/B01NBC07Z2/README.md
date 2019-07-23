@@ -22,6 +22,6 @@ Try saying things like, “Alexa, ask The Wall Street Journal for a news summary
 * **ID:** amzn1.ask.skill.89af0502-1508-49f8-a066-1e3f55f3ef34
 * **ASIN:** B01NBC07Z2
 * **Author:** Dow Jones & Company, Inc.
-* **Release Date:** December 15, 2016 @ 19:49:50
+* **Release Date:** December 15, 2016 @ 20:49:50
 * **Privacy Policy:** http://www.dowjones.com/privacy-policy/
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.ea5193f5-d399-43de-84f4-9cec48cb1e48
 * **ASIN:** B01MQRPCBY
 * **Author:** Andy K.
-* **Release Date:** December 5, 2016 @ 06:05:50
+* **Release Date:** December 5, 2016 @ 07:05:50
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A fun app to learn more about Flagstaff by answering trivia questions.
 * **ID:** amzn1.ask.skill.1b2551df-80ce-46d7-bb23-5eb2a58ce6a8
 * **ASIN:** B01LWQ20D1
 * **Author:** Toucandoo Inc
-* **Release Date:** October 4, 2016 @ 02:44:02
+* **Release Date:** October 4, 2016 @ 03:44:02
 * **In-App Purchasing:** No

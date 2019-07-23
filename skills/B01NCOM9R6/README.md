@@ -20,5 +20,5 @@ Learn everything you ever wanted to know about cats with cat facts.
 * **ID:** amzn1.ask.skill.b503150e-bc81-468f-ac28-86f3729de49f
 * **ASIN:** B01NCOM9R6
 * **Author:** Daniel Helmick
-* **Release Date:** December 24, 2016 @ 09:18:49
+* **Release Date:** December 24, 2016 @ 10:18:49
 * **In-App Purchasing:** No

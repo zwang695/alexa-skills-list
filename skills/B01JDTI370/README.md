@@ -20,5 +20,5 @@ Outside India people might know very little about current India's prime minister
 * **ID:** amzn1.ask.skill.a8490bcc-e3b3-4ef9-ac9b-0469feaceb4c
 * **ASIN:** B01JDTI370
 * **Author:** SUDHI
-* **Release Date:** August 5, 2016 @ 02:37:26
+* **Release Date:** August 5, 2016 @ 03:37:26
 * **In-App Purchasing:** No

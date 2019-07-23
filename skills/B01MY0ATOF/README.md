@@ -20,5 +20,5 @@ This skill was created to entertain and educate people with random facts about m
 * **ID:** amzn1.ask.skill.83814450-7878-4800-97af-2b606edcfe71
 * **ASIN:** B01MY0ATOF
 * **Author:** MaddMatt
-* **Release Date:** December 22, 2016 @ 04:19:38
+* **Release Date:** December 22, 2016 @ 05:19:38
 * **In-App Purchasing:** No

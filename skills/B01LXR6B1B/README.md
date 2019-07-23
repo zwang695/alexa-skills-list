@@ -20,5 +20,5 @@ The Beaver Creek Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.7a6cf3fe-bd9c-46cb-8ee5-d79946be3239
 * **ASIN:** B01LXR6B1B
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:43:13
+* **Release Date:** October 19, 2016 @ 11:43:13
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Want to go on a holiday but can't decide where to go ? Holiday Destinations make
 * **ID:** amzn1.ask.skill.cf11ddd0-2c3b-4789-bdab-3c2512a318ba
 * **ASIN:** B01N9F2BHQ
 * **Author:** abhi
-* **Release Date:** December 13, 2016 @ 02:49:17
+* **Release Date:** December 13, 2016 @ 03:49:17
 * **In-App Purchasing:** No

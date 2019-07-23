@@ -28,5 +28,5 @@ You can play this game alone or with others. Just sit back, relax, and have fun 
 * **ID:** amzn1.echo-sdk-ams.app.124bfe2e-bcc7-469c-b3e3-5989ba5fcc3f
 * **ASIN:** B01GXGYK0K
 * **Author:** Didius5 Studios
-* **Release Date:** June 13, 2016 @ 05:39:45
+* **Release Date:** June 13, 2016 @ 06:39:45
 * **In-App Purchasing:** No

@@ -20,6 +20,6 @@ Note: The Sayspring Skill may not be appropriate for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.144c0311-b0d8-4528-87fa-536911ebb95a
 * **ASIN:** B01KU4B1EO
 * **Author:** Sayspring
-* **Release Date:** October 4, 2016 @ 02:42:59
+* **Release Date:** October 4, 2016 @ 03:42:59
 * **Privacy Policy:** http://www.sayspring.com/privacy
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.2c80706f-edc9-4976-83a7-a386e6128783
 * **ASIN:** B01MSR01PA
 * **Author:** Sven Westphal Consulting
-* **Release Date:** November 28, 2016 @ 08:35:28
+* **Release Date:** November 28, 2016 @ 09:35:28
 * **In-App Purchasing:** No

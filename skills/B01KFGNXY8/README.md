@@ -22,5 +22,5 @@ Get your best score and challenge a friend!
 * **ID:** amzn1.ask.skill.adbe76d9-de01-452f-a87f-f6fa1b5006f3
 * **ASIN:** B01KFGNXY8
 * **Author:** Ken Paulsen
-* **Release Date:** August 25, 2016 @ 02:03:03
+* **Release Date:** August 25, 2016 @ 03:03:03
 * **In-App Purchasing:** No

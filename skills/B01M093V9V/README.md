@@ -21,7 +21,7 @@ Disclaimer - This skill may not be suitable for all age group
 * **ID:** amzn1.echo-sdk-ams.app.f9f717f0-65e8-4cb9-9de6-902c74dd7b74
 * **ASIN:** B01M093V9V
 * **Author:** Rai Integration Ltd
-* **Release Date:** November 2, 2016 @ 01:43:03
+* **Release Date:** November 2, 2016 @ 02:43:03
 * **Privacy Policy:** http://www.starfishmint.com/policy/privacy-starfish-me.html
 * **Terms of Use:** http://www.starfishmint.com/policy/terms-starfish-me.html
 * **In-App Purchasing:** No

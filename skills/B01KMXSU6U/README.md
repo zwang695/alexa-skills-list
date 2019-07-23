@@ -20,5 +20,5 @@ The Alexa Simple Calculator can solve for addition, subtraction, multiplication,
 * **ID:** amzn1.ask.skill.b7ccbb1e-daba-407d-9673-72acf4d21c9b
 * **ASIN:** B01KMXSU6U
 * **Author:** DJ Rosenbaum
-* **Release Date:** August 23, 2016 @ 08:48:39
+* **Release Date:** August 23, 2016 @ 09:48:39
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Every Number has some facts or information associated to it. Number Facts, tells
 * **ID:** amzn1.ask.skill.10006046-ed4e-455d-a9ae-23023b39f2bb
 * **ASIN:** B01IVAMZ58
 * **Author:** Afrilogic
-* **Release Date:** August 2, 2016 @ 03:26:45
+* **Release Date:** August 2, 2016 @ 04:26:45
 * **In-App Purchasing:** No

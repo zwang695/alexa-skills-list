@@ -30,6 +30,6 @@ This Alexa skill might not be suitable for those under the age of owning a drivi
 * **ID:** amzn1.echo-sdk-ams.app.0296564c-0b79-4664-918f-ed78ddd8241d
 * **ASIN:** B01FH84X2K
 * **Author:** eMotorWerks
-* **Release Date:** July 25, 2016 @ 17:56:24
+* **Release Date:** July 25, 2016 @ 18:56:24
 * **Privacy Policy:** https://www.emotorwerks.com/index.php/privacy-policy
 * **In-App Purchasing:** No

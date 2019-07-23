@@ -24,7 +24,7 @@ Note - this skill is not sponsored by Fitbit; it is built using their publicly a
 * **ID:** amzn1.echo-sdk-ams.app.49ae8765-f94c-4bca-8dc3-1894a93b4f9c
 * **ASIN:** B01GB3U22U
 * **Author:** Darian Johnson
-* **Release Date:** June 23, 2016 @ 05:15:45
+* **Release Date:** June 23, 2016 @ 06:15:45
 * **Privacy Policy:** https://s3.amazonaws.com/darianbjohnson/Workout-Recommendation/privacy_policy.html
 * **Account Linking Domains:** fitbit.com, amazon.com, api.fitbit.com, darianbjohnson.com, www.fitbit.com, s3.amazonaws.com
 * **In-App Purchasing:** No

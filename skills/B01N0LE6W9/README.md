@@ -20,5 +20,5 @@ Simple multi-response app to assist you in deciding if you should go do somethin
 * **ID:** amzn1.ask.skill.cc19016c-1dc6-46ed-9a7c-4c534a8d4acb
 * **ASIN:** B01N0LE6W9
 * **Author:** Jacob L
-* **Release Date:** December 6, 2016 @ 03:35:36
+* **Release Date:** December 6, 2016 @ 04:35:36
 * **In-App Purchasing:** No

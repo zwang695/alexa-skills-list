@@ -20,5 +20,5 @@ Have you ever wondered what Bernie Sanders' father did for a living or how many 
 * **ID:** amzn1.echo-sdk-ams.app.d7278f18-8099-4539-8fce-07b8c27425dc
 * **ASIN:** B01EUH7XIK
 * **Author:** dkapps
-* **Release Date:** April 28, 2016 @ 18:38:30
+* **Release Date:** April 28, 2016 @ 19:38:30
 * **In-App Purchasing:** No

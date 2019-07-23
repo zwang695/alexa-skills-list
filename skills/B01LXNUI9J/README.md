@@ -20,5 +20,5 @@ The Badger Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.418cd29b-6c70-42ea-96ae-fb1cca182361
 * **ASIN:** B01LXNUI9J
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:44:36
+* **Release Date:** October 19, 2016 @ 11:44:36
 * **In-App Purchasing:** No

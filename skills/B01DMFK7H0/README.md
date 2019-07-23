@@ -26,5 +26,5 @@ Alexa will respond with "Here's your pepper fact: ", and then give you a pepper 
 * **ID:** amzn1.echo-sdk-ams.app.94a84b02-8501-4736-ad6a-6cdbe739e76a
 * **ASIN:** B01DMFK7H0
 * **Author:** mine
-* **Release Date:** March 31, 2016 @ 19:32:22
+* **Release Date:** March 31, 2016 @ 20:32:22
 * **In-App Purchasing:** No

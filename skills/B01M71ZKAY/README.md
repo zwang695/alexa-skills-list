@@ -20,5 +20,5 @@ Not that complicated --- Alexa tells you a random joke! Just tell Alexa to tell 
 * **ID:** amzn1.ask.skill.5f1c8941-7644-4ecc-b66e-f2e52bf85e37
 * **ASIN:** B01M71ZKAY
 * **Author:** Rachit Agarwal
-* **Release Date:** November 2, 2016 @ 03:13:02
+* **Release Date:** November 2, 2016 @ 04:13:02
 * **In-App Purchasing:** No

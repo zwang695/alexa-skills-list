@@ -20,5 +20,5 @@ This skill provides users with a variety of random facts for Sigma Lambda Beta I
 * **ID:** amzn1.ask.skill.bec26d69-2b40-4c8b-b44b-2737df73a5f6
 * **ASIN:** B01MU4NETR
 * **Author:** Michael Samper
-* **Release Date:** December 28, 2016 @ 05:19:11
+* **Release Date:** December 28, 2016 @ 06:19:11
 * **In-App Purchasing:** No

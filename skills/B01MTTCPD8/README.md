@@ -20,5 +20,5 @@ A skill that speaks great facts about Finland and the inhabitants! Prepare to be
 * **ID:** amzn1.ask.skill.b2193ff7-c9a6-4889-a77c-5cce0c835cdf
 * **ASIN:** B01MTTCPD8
 * **Author:** AHeinonen
-* **Release Date:** November 29, 2016 @ 03:07:05
+* **Release Date:** November 29, 2016 @ 04:07:05
 * **In-App Purchasing:** No

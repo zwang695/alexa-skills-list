@@ -28,5 +28,5 @@ This skill is fun to play alone, or compete with your family and friends to see 
 * **ID:** amzn1.ask.skill.62dc1e0c-d7a3-41f3-804a-43c707d1d1eb
 * **ASIN:** B01LG9X9DS
 * **Author:** GeekGirl Marketing and App Development
-* **Release Date:** September 8, 2016 @ 03:03:23
+* **Release Date:** September 8, 2016 @ 04:03:23
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ You can know about your "Lucky Kokeshi" from 11 kinds of "Japanese Traditional K
 * **ID:** amzn1.ask.skill.f564c4a2-d67a-49e2-95ed-81a77b76b4bc
 * **ASIN:** B01N9JTCXV
 * **Author:** Serverworks Co., Ltd.
-* **Release Date:** December 26, 2016 @ 22:49:06
+* **Release Date:** December 26, 2016 @ 23:49:06
 * **In-App Purchasing:** No

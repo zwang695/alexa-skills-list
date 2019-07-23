@@ -24,5 +24,5 @@ Find more at http://uniquedailyaffirmations.com
 * **ID:** amzn1.ask.skill.c3c22ff1-b0cb-488f-a373-a3ca37066fed
 * **ASIN:** B01NAN1NH1
 * **Author:** Gopher Apps LLC
-* **Release Date:** December 31, 2016 @ 00:19:14
+* **Release Date:** December 31, 2016 @ 01:19:14
 * **In-App Purchasing:** No

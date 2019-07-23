@@ -20,5 +20,5 @@ The Pajarito Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.e7aecb1d-2fd1-4994-9746-5feb681b3a5d
 * **ASIN:** B01LY0YF5Q
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:45:21
+* **Release Date:** October 19, 2016 @ 12:45:21
 * **In-App Purchasing:** No

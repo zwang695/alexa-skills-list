@@ -38,7 +38,7 @@ Note:the 'device name' is the name of the device in the device list of your Home
 * **ID:** amzn1.ask.skill.a26fcb9e-0e86-4c20-a507-5138d802926c
 * **ASIN:** B01N0H1YUH
 * **Author:** 深圳市欧瑞博电子有限公司
-* **Release Date:** December 4, 2016 @ 23:05:17
+* **Release Date:** December 5, 2016 @ 00:05:17
 * **Privacy Policy:** http://homemate.orvibo.com/agreement_en.html
 * **Account Linking Domains:** alexa.orvibo.com
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ My Dermatologist provides localized information including the current UV index, 
 * **ID:** amzn1.echo-sdk-ams.app.af88d11e-47fe-4da7-b125-ed85bbfaefb5
 * **ASIN:** B01AX1WQC0
 * **Author:** My Dermatologist
-* **Release Date:** January 21, 2016 @ 14:02:41
+* **Release Date:** January 21, 2016 @ 15:02:41
 * **In-App Purchasing:** No

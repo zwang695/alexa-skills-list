@@ -20,5 +20,5 @@ This skill will provide fun facts and information about LeBron James at  the use
 * **ID:** amzn1.ask.skill.fd9671c7-4451-4ea6-abab-14206e86abae
 * **ASIN:** B01M0J0D1B
 * **Author:** j9stuart
-* **Release Date:** October 18, 2016 @ 04:42:54
+* **Release Date:** October 18, 2016 @ 05:42:54
 * **In-App Purchasing:** No

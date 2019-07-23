@@ -20,5 +20,5 @@ Love predictor will give you are percentage score out of a hundred on two names 
 * **ID:** amzn1.echo-sdk-ams.app.4be2b173-581e-420b-8335-c7fe1a884e6a
 * **ASIN:** B01FZUBC42
 * **Author:** BLT Robotics
-* **Release Date:** May 27, 2016 @ 06:08:39
+* **Release Date:** May 27, 2016 @ 07:08:39
 * **In-App Purchasing:** No

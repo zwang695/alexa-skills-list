@@ -18,5 +18,5 @@ It gives cool facts about planet earth.
 * **ID:** amzn1.ask.skill.47b79ca2-3fa6-460e-b9f5-3e8ddfb06a59
 * **ASIN:** B01LXHFBUD
 * **Author:** Jay Rao
-* **Release Date:** September 16, 2016 @ 02:42:10
+* **Release Date:** September 16, 2016 @ 03:42:10
 * **In-App Purchasing:** No

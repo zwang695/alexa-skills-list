@@ -18,5 +18,5 @@ I will post cool stuff also about what i am doing, what i am building and tell m
 * **ID:** amzn1.ask.skill.4439160e-3f00-4bc6-9f7c-7adba93cdb13
 * **ASIN:** B01M8LQ5D6
 * **Author:** Phillip Pham
-* **Release Date:** October 25, 2016 @ 01:48:39
+* **Release Date:** October 25, 2016 @ 02:48:39
 * **In-App Purchasing:** No

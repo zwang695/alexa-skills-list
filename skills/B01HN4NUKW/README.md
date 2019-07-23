@@ -20,5 +20,5 @@ Give grilling guide a type of meat, fish, or vegetable, and Alexa will return th
 * **ID:** amzn1.echo-sdk-ams.app.68a89f59-85f8-4c39-ab8a-938560ff9683
 * **ASIN:** B01HN4NUKW
 * **Author:** pbailen
-* **Release Date:** June 29, 2016 @ 09:28:05
+* **Release Date:** June 29, 2016 @ 10:28:05
 * **In-App Purchasing:** No

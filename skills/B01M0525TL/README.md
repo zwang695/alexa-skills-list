@@ -20,5 +20,5 @@ Ask Alexa for facts about Human Psychology!
 * **ID:** amzn1.ask.skill.983784d1-5b4b-409e-8430-8441a4807f17
 * **ASIN:** B01M0525TL
 * **Author:** Balaji
-* **Release Date:** September 20, 2016 @ 01:43:13
+* **Release Date:** September 20, 2016 @ 02:43:13
 * **In-App Purchasing:** No

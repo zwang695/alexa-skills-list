@@ -18,5 +18,5 @@ Expand or test your knowledge of the Easter holiday with this Alexa Skill.
 * **ID:** amzn1.echo-sdk-ams.app.57bca020-bcb4-473f-83fb-c7713f61a9a7
 * **ASIN:** B01CFWWCEC
 * **Author:** Six Voices
-* **Release Date:** March 2, 2016 @ 01:10:14
+* **Release Date:** March 2, 2016 @ 02:10:14
 * **In-App Purchasing:** No

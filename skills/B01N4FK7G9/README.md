@@ -20,5 +20,5 @@ A great app which tells you amazing unknown facts about THE GREATEST MAN WHO EVE
 * **ID:** amzn1.ask.skill.038b1d21-a064-4492-b2a1-ffcbafed70d0
 * **ASIN:** B01N4FK7G9
 * **Author:** TRUTH
-* **Release Date:** January 3, 2017 @ 08:51:05
+* **Release Date:** January 3, 2017 @ 09:51:05
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill helps people (especially those who are learning English) practice spe
 * **ID:** amzn1.ask.skill.bf419425-1cb2-4828-915d-552479c583bc
 * **ASIN:** B01KD7CTE4
 * **Author:** as
-* **Release Date:** August 29, 2016 @ 12:02:20
+* **Release Date:** August 29, 2016 @ 13:02:20
 * **In-App Purchasing:** No

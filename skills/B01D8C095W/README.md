@@ -24,5 +24,5 @@ http://www.chayden.net/Index.shtml
 * **ID:** amzn1.echo-sdk-ams.app.4a9ece2b-1d76-45de-810a-821cc08c97c1
 * **ASIN:** B01D8C095W
 * **Author:** Jenigiri Inc.
-* **Release Date:** March 21, 2016 @ 02:14:54
+* **Release Date:** March 21, 2016 @ 03:14:54
 * **In-App Purchasing:** No

@@ -31,5 +31,5 @@ contact: jamie.mitev@yahoo.com
 * **ID:** amzn1.ask.skill.71887af6-ef56-43b2-bc45-fe93ba36dcb6
 * **ASIN:** B01NADZLT7
 * **Author:** JM
-* **Release Date:** December 7, 2016 @ 02:19:38
+* **Release Date:** December 7, 2016 @ 03:19:38
 * **In-App Purchasing:** No

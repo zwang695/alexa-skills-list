@@ -22,7 +22,7 @@ Use the skill to get: step-by-step voice instructions on how to remove a stain, 
 * **ID:** amzn1.ask.skill.8e6b3a96-c1c5-43c5-b6f7-4e6b83ec42a7
 * **ASIN:** B01M9B7ZTB
 * **Author:** Tide
-* **Release Date:** November 2, 2016 @ 13:42:32
+* **Release Date:** November 2, 2016 @ 14:42:32
 * **Privacy Policy:** http://www.pg.com/privacy/english/privacy_notice.shtml
 * **Terms of Use:** http://www.pg.com/en_US/terms_conditions/index.shtml
 * **Account Linking Domains:** stainremoverskill.com, www.pg.com, m.pgprivacy.com

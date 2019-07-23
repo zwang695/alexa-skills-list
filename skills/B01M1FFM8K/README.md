@@ -20,5 +20,5 @@ This skill will recite facts about corgis. Topics include history, stats, and pe
 * **ID:** amzn1.ask.skill.14328b2e-c761-4c65-951c-08da90698aec
 * **ASIN:** B01M1FFM8K
 * **Author:** Michelle Wiginton
-* **Release Date:** September 22, 2016 @ 02:12:40
+* **Release Date:** September 22, 2016 @ 03:12:40
 * **In-App Purchasing:** No

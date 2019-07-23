@@ -20,5 +20,5 @@ A skill that provides users with a series of historical hip-hop facts in order t
 * **ID:** amzn1.ask.skill.f9458e2b-5fd7-4547-98b7-7a1bb9749cb4
 * **ASIN:** B01KBJYPPK
 * **Author:** KyleTsuyemura
-* **Release Date:** August 13, 2016 @ 05:07:34
+* **Release Date:** August 13, 2016 @ 06:07:34
 * **In-App Purchasing:** No

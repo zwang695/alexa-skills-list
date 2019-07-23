@@ -20,5 +20,5 @@ This skill generates a random fact about "30 Rock" an NBC Universal show. The us
 * **ID:** amzn1.echo-sdk-ams.app.afa29a03-7d1b-4e43-850d-95c302e91a22
 * **ASIN:** B01F2JHAW4
 * **Author:** theruraljuror
-* **Release Date:** May 30, 2016 @ 05:12:08
+* **Release Date:** May 30, 2016 @ 06:12:08
 * **In-App Purchasing:** No

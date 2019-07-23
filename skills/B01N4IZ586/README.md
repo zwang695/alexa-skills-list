@@ -20,5 +20,5 @@ This skill gives you a good book to read when you are not sure what you what to 
 * **ID:** amzn1.ask.skill.c84db8cf-1513-4510-be17-ef0274e5bcff
 * **ASIN:** B01N4IZ586
 * **Author:** Kevin Huang
-* **Release Date:** January 1, 2017 @ 23:18:51
+* **Release Date:** January 2, 2017 @ 00:18:51
 * **In-App Purchasing:** No

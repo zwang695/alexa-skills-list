@@ -20,5 +20,5 @@ Need a quick pick-me-up? Alexa can provide you with compliments at a moment's no
 * **ID:** amzn1.ask.skill.9b9a692e-a747-4e9d-8d60-d60a8b152da2
 * **ASIN:** B01NAF6SOZ
 * **Author:** Drongo Labs
-* **Release Date:** December 17, 2016 @ 01:19:30
+* **Release Date:** December 17, 2016 @ 02:19:30
 * **In-App Purchasing:** No

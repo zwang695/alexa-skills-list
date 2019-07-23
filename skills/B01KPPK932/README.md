@@ -21,5 +21,5 @@ Think no more. This skill is just for you.
 * **ID:** amzn1.ask.skill.5a42bf7b-fa2c-4096-9d83-aaa2c498fd6a
 * **ASIN:** B01KPPK932
 * **Author:** George Kortsaridis
-* **Release Date:** August 30, 2016 @ 01:32:49
+* **Release Date:** August 30, 2016 @ 02:32:49
 * **In-App Purchasing:** No

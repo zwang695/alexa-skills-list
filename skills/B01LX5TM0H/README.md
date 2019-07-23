@@ -20,5 +20,5 @@ Fan project to learn Skills and use the pokeapi to retrieve Pokedex entries. Not
 * **ID:** amzn1.ask.skill.9e1d5eaf-c2c1-4912-86f2-69719245a967
 * **ASIN:** B01LX5TM0H
 * **Author:** Omar Saleem
-* **Release Date:** October 19, 2016 @ 02:43:15
+* **Release Date:** October 19, 2016 @ 03:43:15
 * **In-App Purchasing:** No

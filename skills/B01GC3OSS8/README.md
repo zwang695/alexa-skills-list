@@ -25,5 +25,5 @@ If you want to know more about the UK play this game by yourself or with your fr
 * **ID:** amzn1.echo-sdk-ams.app.d7394806-0e54-44af-be20-b44bfbf4936e
 * **ASIN:** B01GC3OSS8
 * **Author:** Wand IT
-* **Release Date:** June 2, 2016 @ 02:38:39
+* **Release Date:** June 2, 2016 @ 03:38:39
 * **In-App Purchasing:** No

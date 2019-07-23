@@ -20,5 +20,5 @@ Bike Safety Tips are common recommendations to follow if you are riding your bik
 * **ID:** amzn1.ask.skill.34035d63-fc33-4ed3-830e-a21035a6a1fe
 * **ASIN:** B01IS0HMOA
 * **Author:** Madison Russo
-* **Release Date:** July 22, 2016 @ 02:27:43
+* **Release Date:** July 22, 2016 @ 03:27:43
 * **In-App Purchasing:** No

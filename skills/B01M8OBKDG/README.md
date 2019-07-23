@@ -21,6 +21,6 @@ Professionals using the Handy platform are experienced, friendly, background-che
 * **ID:** amzn1.ask.skill.04b388e5-a363-44db-9604-04c403c1729f
 * **ASIN:** B01M8OBKDG
 * **Author:** Handy Technologies
-* **Release Date:** November 11, 2016 @ 01:15:53
+* **Release Date:** November 11, 2016 @ 02:15:53
 * **Privacy Policy:** https://www.handy.com/privacy
 * **In-App Purchasing:** Yes

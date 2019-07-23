@@ -20,5 +20,5 @@ Plays 1 of 4 Bort facts.
 * **ID:** amzn1.ask.skill.403fc234-d326-4deb-9f46-88cd3115da8f
 * **ASIN:** B01MAWDY33
 * **Author:** Neil Clark
-* **Release Date:** October 21, 2016 @ 15:44:16
+* **Release Date:** October 21, 2016 @ 16:44:16
 * **In-App Purchasing:** No

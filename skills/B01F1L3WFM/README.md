@@ -20,5 +20,5 @@ A quick way to learn interesting tidbits about the game and the history of socce
 * **ID:** amzn1.echo-sdk-ams.app.36ffba19-7c54-466e-a272-d1bd976bdc41
 * **ASIN:** B01F1L3WFM
 * **Author:** Aaron Koz
-* **Release Date:** May 5, 2016 @ 15:08:31
+* **Release Date:** May 5, 2016 @ 16:08:31
 * **In-App Purchasing:** No

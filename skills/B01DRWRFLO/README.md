@@ -23,5 +23,5 @@ Here's your cricket fact: Peter Siddle is the only bowler to take a hat-trick on
 * **ID:** amzn1.echo-sdk-ams.app.0fcbd76f-8054-491f-b56d-276a6e72c30e
 * **ASIN:** B01DRWRFLO
 * **Author:** Ganaraja
-* **Release Date:** April 5, 2016 @ 05:32:30
+* **Release Date:** April 5, 2016 @ 06:32:30
 * **In-App Purchasing:** No

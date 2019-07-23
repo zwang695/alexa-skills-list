@@ -28,5 +28,5 @@ After you finish, simply say 'stop'.
 * **ID:** amzn1.echo-sdk-ams.app.573597b9-22a7-44a2-ab0b-f07ca22803ea
 * **ASIN:** B01N64LK3O
 * **Author:** Mustang Designs
-* **Release Date:** November 20, 2016 @ 23:07:39
+* **Release Date:** November 21, 2016 @ 00:07:39
 * **In-App Purchasing:** No

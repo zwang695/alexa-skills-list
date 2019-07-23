@@ -31,5 +31,5 @@ I will say how long the bus will be, where its going and what time it will arriv
 * **ID:** amzn1.ask.skill.44ad6d4d-6b2b-4cc4-92e0-9986874618cc
 * **ASIN:** B01MA4MA1D
 * **Author:** GregC
-* **Release Date:** December 6, 2016 @ 01:06:16
+* **Release Date:** December 6, 2016 @ 02:06:16
 * **In-App Purchasing:** No

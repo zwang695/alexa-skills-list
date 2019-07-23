@@ -24,7 +24,7 @@ You may also ask Alexa to turn ON or OFF the lights on the Foobot device when go
 * **ID:** amzn1.echo-sdk-ams.app.dcfcc59e-a9f7-41ce-b01b-63be887723d1
 * **ASIN:** B01G5ZF0P8
 * **Author:** Airboxlab
-* **Release Date:** June 10, 2016 @ 05:10:05
+* **Release Date:** June 10, 2016 @ 06:10:05
 * **Privacy Policy:** http://foobot.io/2keep_legal_doc/Privacy_Policy.htm
 * **Terms of Use:** http://foobot.io/2keep_legal_doc/Terms_of_Service.htm
 * **In-App Purchasing:** No

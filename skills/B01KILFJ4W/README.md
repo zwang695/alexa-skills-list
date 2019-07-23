@@ -22,5 +22,5 @@ This skill asks 5 questions per game.
 * **ID:** amzn1.ask.skill.735d897c-592d-437f-b768-395c379b3a14
 * **ASIN:** B01KILFJ4W
 * **Author:** suvarna
-* **Release Date:** September 10, 2016 @ 04:12:36
+* **Release Date:** September 10, 2016 @ 05:12:36
 * **In-App Purchasing:** No

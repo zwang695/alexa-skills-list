@@ -20,5 +20,5 @@ Are you interested in war history? Rely on War History for notable events in war
 * **ID:** amzn1.ask.skill.1e1926f3-fbaf-470b-81e7-6addc839ab80
 * **ASIN:** B01LWIC7JK
 * **Author:** Appbly.com
-* **Release Date:** September 14, 2016 @ 21:43:49
+* **Release Date:** September 14, 2016 @ 22:43:49
 * **In-App Purchasing:** No

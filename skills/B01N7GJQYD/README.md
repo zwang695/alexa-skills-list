@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.064887dd-776d-4f21-9bd6-778322988d38
 * **ASIN:** B01N7GJQYD
 * **Author:** istavrak
-* **Release Date:** December 15, 2016 @ 04:19:22
+* **Release Date:** December 15, 2016 @ 05:19:22
 * **In-App Purchasing:** No

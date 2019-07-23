@@ -20,5 +20,5 @@ Conversation Topics will provide a topic for conversation such as "Your topic fo
 * **ID:** amzn1.ask.skill.09c23182-5486-4636-904f-72c6c3f6c795
 * **ASIN:** B01NBHAS4P
 * **Author:** Joshua T Kalis
-* **Release Date:** December 14, 2016 @ 06:19:36
+* **Release Date:** December 14, 2016 @ 07:19:36
 * **In-App Purchasing:** No

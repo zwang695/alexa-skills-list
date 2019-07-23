@@ -20,5 +20,5 @@ The Boler Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.65090324-7640-451f-bc9e-d7f66b4a2871
 * **ASIN:** B01N3W11YX
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:15:13
+* **Release Date:** November 5, 2016 @ 12:15:13
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ This recipe is for two Zoku ice cream maker bowls.  The recipe uses a vanilla ic
 * **ID:** amzn1.ask.skill.52fd9a41-afa8-4c1f-9e8a-87a038c4a635
 * **ASIN:** B01KERWC72
 * **Author:** Debra Monesmith
-* **Release Date:** August 22, 2016 @ 04:37:43
+* **Release Date:** August 22, 2016 @ 05:37:43
 * **In-App Purchasing:** No

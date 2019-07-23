@@ -22,5 +22,5 @@ These daily thoughts are taken from the writings of Myrtle Fillmore such as "How
 * **ID:** amzn1.echo-sdk-ams.app.5b0293ca-b051-4cb3-8c60-f41fc89d24bb
 * **ASIN:** B01FBHXPGM
 * **Author:** Unity
-* **Release Date:** May 16, 2016 @ 16:38:29
+* **Release Date:** May 16, 2016 @ 17:38:29
 * **In-App Purchasing:** No

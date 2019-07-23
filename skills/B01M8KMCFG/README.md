@@ -20,5 +20,5 @@ The Blacktail Mountain Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.69ef219c-e4c9-46a4-a7a9-49ac04858dcb
 * **ASIN:** B01M8KMCFG
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:45:55
+* **Release Date:** October 21, 2016 @ 15:45:55
 * **In-App Purchasing:** No

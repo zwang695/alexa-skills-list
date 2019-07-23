@@ -20,5 +20,5 @@ The Mad River Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.fe4f1bcc-f7cf-4652-97c7-1a20c083af97
 * **ASIN:** B01M687CU1
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:46:24
+* **Release Date:** October 26, 2016 @ 04:46:24
 * **In-App Purchasing:** No

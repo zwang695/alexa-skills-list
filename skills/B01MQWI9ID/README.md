@@ -20,5 +20,5 @@ Come test your Yuletide knowledge with our Christmas Trivia game. With 22 random
 * **ID:** amzn1.ask.skill.bd754c14-5bdd-4df8-bb1d-3d131cce7052
 * **ASIN:** B01MQWI9ID
 * **Author:** FreshDigitalGroup
-* **Release Date:** December 18, 2016 @ 03:49:28
+* **Release Date:** December 18, 2016 @ 04:49:28
 * **In-App Purchasing:** No

@@ -42,5 +42,5 @@ If you choose to use an advanced game with a grid of a size 5 of bigger (then fr
 * **ID:** amzn1.echo-sdk-ams.app.4bca183b-9938-4203-a19f-ce41c60b40f2
 * **ASIN:** B01D4O5CO2
 * **Author:** Corentin
-* **Release Date:** March 18, 2016 @ 04:50:39
+* **Release Date:** March 18, 2016 @ 05:50:39
 * **In-App Purchasing:** No

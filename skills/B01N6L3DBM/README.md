@@ -20,5 +20,5 @@ Simple fact engine that responds with a randomly chosen color.
 * **ID:** amzn1.ask.skill.5430fd1e-94cc-464a-b6b2-e867c739dc83
 * **ASIN:** B01N6L3DBM
 * **Author:** CorTek
-* **Release Date:** December 30, 2016 @ 00:49:17
+* **Release Date:** December 30, 2016 @ 01:49:17
 * **In-App Purchasing:** No

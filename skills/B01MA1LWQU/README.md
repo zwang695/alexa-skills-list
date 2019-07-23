@@ -20,5 +20,5 @@ Unofficial Hanselminutes, a weekly podcast with Scott Hanselman. Listen to the l
 * **ID:** amzn1.ask.skill.65dec879-9211-4b3c-9933-ee1be775fa9a
 * **ASIN:** B01MA1LWQU
 * **Author:** Jaroslav Markovec
-* **Release Date:** November 27, 2016 @ 02:35:49
+* **Release Date:** November 27, 2016 @ 03:35:49
 * **In-App Purchasing:** No

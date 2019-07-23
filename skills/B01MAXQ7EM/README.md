@@ -20,5 +20,5 @@ Info about some spanish dream places.
 * **ID:** amzn1.ask.skill.ddf25215-53df-4a2c-ad5b-48b209afd58e
 * **ASIN:** B01MAXQ7EM
 * **Author:** Javier Pita
-* **Release Date:** October 26, 2016 @ 01:46:16
+* **Release Date:** October 26, 2016 @ 02:46:16
 * **In-App Purchasing:** No

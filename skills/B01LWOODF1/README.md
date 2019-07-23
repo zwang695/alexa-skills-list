@@ -20,5 +20,5 @@ The Kicking Horse Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.d36080ef-d6c0-4ed1-a69f-89561271e54b
 * **ASIN:** B01LWOODF1
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:56:03
+* **Release Date:** October 20, 2016 @ 03:56:03
 * **In-App Purchasing:** No

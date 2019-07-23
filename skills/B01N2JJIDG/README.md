@@ -25,7 +25,7 @@ To use the BizTalk skill, try saying...
 * **ID:** amzn1.ask.skill.f102c877-893a-45ca-a1cd-2cd2d80cb597
 * **ASIN:** B01N2JJIDG
 * **Author:** AudioBurst
-* **Release Date:** November 25, 2016 @ 04:07:38
+* **Release Date:** November 25, 2016 @ 05:07:38
 * **Privacy Policy:** https://www.audioburst.com/pages/privacy
 * **Terms of Use:** https://www.audioburst.com/pages/terms
 * **In-App Purchasing:** No

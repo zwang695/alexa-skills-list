@@ -20,7 +20,7 @@ The 3-Dharma Inspirations skill allows you to hear 3 sayings of the Buddha with 
 * **ID:** amzn1.ask.skill.8c0bd170-1083-4b3e-93f7-0899e963f46f
 * **ASIN:** B01J059IBC
 * **Author:** Liquid Commotion
-* **Release Date:** August 2, 2016 @ 00:56:32
+* **Release Date:** August 2, 2016 @ 01:56:32
 * **Privacy Policy:** http://andrewdigenova.com/terms/terms.html
 * **Terms of Use:** http://andrewdigenova.com/terms/terms.html
 * **In-App Purchasing:** No

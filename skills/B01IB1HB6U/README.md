@@ -31,5 +31,5 @@ Alexa correct spelling is .....
 * **ID:** amzn1.echo-sdk-ams.app.e5b58930-5a52-4095-9ef1-b592451ecf45
 * **ASIN:** B01IB1HB6U
 * **Author:** Balaji
-* **Release Date:** August 5, 2016 @ 03:37:44
+* **Release Date:** August 5, 2016 @ 04:37:44
 * **In-App Purchasing:** No

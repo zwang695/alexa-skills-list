@@ -20,5 +20,5 @@ The Whiteface Mountain Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.bd298a52-10e9-46ca-b2c6-c6d631ea843c
 * **ASIN:** B01M70Y6LT
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:45:38
+* **Release Date:** October 26, 2016 @ 04:45:38
 * **In-App Purchasing:** No

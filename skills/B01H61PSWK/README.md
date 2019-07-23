@@ -20,7 +20,7 @@ Review and practice multiplication tables from table 1 to  you decide.  Select t
 * **ID:** amzn1.echo-sdk-ams.app.3b279f0b-58c1-4722-9235-25420d38efd6
 * **ASIN:** B01H61PSWK
 * **Author:** Digital Spring Apps
-* **Release Date:** July 13, 2016 @ 04:27:34
+* **Release Date:** July 13, 2016 @ 05:27:34
 * **Privacy Policy:** http://www.digitalspring.com/mtprivacy
 * **Terms of Use:** http://www.digitalspring.com/mtprivacy
 * **In-App Purchasing:** No

@@ -26,5 +26,5 @@ Questions by Mark. Jonathan Chan contributed a few questions.
 * **ID:** amzn1.ask.skill.547f7426-8682-4215-b693-494699702c93
 * **ASIN:** B01M5KQM5C
 * **Author:** Mark and T Software
-* **Release Date:** November 9, 2016 @ 00:44:06
+* **Release Date:** November 9, 2016 @ 01:44:06
 * **In-App Purchasing:** No

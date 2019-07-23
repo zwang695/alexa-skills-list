@@ -20,5 +20,5 @@ Mid Century Design Trivia poses multiple-choice questions about iconic designers
 * **ID:** amzn1.echo-sdk-ams.app.01250dac-6d98-4159-aae1-90b4880e793b
 * **ASIN:** B01D31TJ2C
 * **Author:** Civilizr
-* **Release Date:** March 17, 2016 @ 05:43:29
+* **Release Date:** March 17, 2016 @ 06:43:29
 * **In-App Purchasing:** No

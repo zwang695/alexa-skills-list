@@ -20,5 +20,5 @@ Get suggestions for summertime fun activities.  When you are at the beach or the
 * **ID:** amzn1.ask.skill.c72ca565-f459-44e0-b48e-b8bac4950f94
 * **ASIN:** B01MQFLXIO
 * **Author:** Daniel McGlinchey
-* **Release Date:** November 25, 2016 @ 03:38:27
+* **Release Date:** November 25, 2016 @ 04:38:27
 * **In-App Purchasing:** No

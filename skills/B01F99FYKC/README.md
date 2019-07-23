@@ -40,5 +40,5 @@ COMING SOON: Add your own trivia questions to the game!
 * **ID:** amzn1.echo-sdk-ams.app.0b117e5e-eae7-404d-9a44-716959a2557f
 * **ASIN:** B01F99FYKC
 * **Author:** Michael Hargiss
-* **Release Date:** May 19, 2016 @ 06:38:32
+* **Release Date:** May 19, 2016 @ 07:38:32
 * **In-App Purchasing:** No

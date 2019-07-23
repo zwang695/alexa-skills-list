@@ -20,5 +20,5 @@ This skill allows Alexa to tell you interesting facts about United States nation
 * **ID:** amzn1.echo-sdk-ams.app.fbf251b7-bd7e-4ec9-a300-741d2f2d436f
 * **ASIN:** B01HU7B2NO
 * **Author:** Stephen Ecsedy
-* **Release Date:** July 6, 2016 @ 02:27:40
+* **Release Date:** July 6, 2016 @ 03:27:40
 * **In-App Purchasing:** No

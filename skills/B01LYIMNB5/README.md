@@ -33,7 +33,7 @@ To start the setup process, you’ll sign in using your TripCase login credentia
 * **ID:** amzn1.ask.skill.5d812564-0b5c-44ad-82fa-dac3273d6816
 * **ASIN:** B01LYIMNB5
 * **Author:** TripCase
-* **Release Date:** December 1, 2016 @ 20:36:13
+* **Release Date:** December 1, 2016 @ 21:36:13
 * **Privacy Policy:** http://travel.tripcase.com/privacy/
 * **Terms of Use:** http://travel.tripcase.com/terms
 * **Account Linking Domains:** tripcase.com

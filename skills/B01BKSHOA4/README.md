@@ -46,6 +46,6 @@ Run/Stop/Status program.
 * **ID:** amzn1.echo-sdk-ams.app.45649c46-4cc4-4971-a8d9-c7e184e2ccda
 * **ASIN:** B01BKSHOA4
 * **Author:** Mobile Integrated Solutions, LLC
-* **Release Date:** February 8, 2016 @ 12:02:41
+* **Release Date:** February 8, 2016 @ 13:02:41
 * **Privacy Policy:** http://mobilinc.com/features/mobilincconnect/
 * **In-App Purchasing:** No

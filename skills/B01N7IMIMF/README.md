@@ -20,5 +20,5 @@ This is small skill that Alexa performs.  When you ask Alexa "Open Eyes On You",
 * **ID:** amzn1.ask.skill.25ce76c6-5157-42cc-aef5-12ebbc4f3a2f
 * **ASIN:** B01N7IMIMF
 * **Author:** Seven LLC
-* **Release Date:** December 24, 2016 @ 02:19:22
+* **Release Date:** December 24, 2016 @ 03:19:22
 * **In-App Purchasing:** No

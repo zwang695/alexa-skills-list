@@ -21,5 +21,5 @@ Have fun!
 * **ID:** amzn1.ask.skill.333ab539-1ca8-4bf1-b859-0708a677be5d
 * **ASIN:** B01N7FRHV1
 * **Author:** Softmil
-* **Release Date:** December 9, 2016 @ 01:19:48
+* **Release Date:** December 9, 2016 @ 02:19:48
 * **In-App Purchasing:** No

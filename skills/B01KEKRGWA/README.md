@@ -18,5 +18,5 @@ Pennsylvania, the second state to join the United States, has a rich history.  T
 * **ID:** amzn1.ask.skill.ebd0d856-3775-41ea-a3de-3b5df0fb2fa3
 * **ASIN:** B01KEKRGWA
 * **Author:** Castellan Technologies LLC
-* **Release Date:** August 16, 2016 @ 04:38:33
+* **Release Date:** August 16, 2016 @ 05:38:33
 * **In-App Purchasing:** No

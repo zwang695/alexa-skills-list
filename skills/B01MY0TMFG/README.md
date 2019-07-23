@@ -21,5 +21,5 @@ Ask "Laten Verses"
 * **ID:** amzn1.ask.skill.b53ad0bd-bc7e-4ef0-a0bf-cbe53912b6dc
 * **ASIN:** B01MY0TMFG
 * **Author:** pbdev
-* **Release Date:** December 25, 2016 @ 04:48:47
+* **Release Date:** December 25, 2016 @ 05:48:47
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Bananas are amazing and fun fruits. If you don't know about them, then you shoul
 * **ID:** amzn1.echo-sdk-ams.app.66620694-3824-44a2-9963-7133d9280d59
 * **ASIN:** B01GZSHZJ4
 * **Author:** hdavidzhu
-* **Release Date:** June 16, 2016 @ 06:15:31
+* **Release Date:** June 16, 2016 @ 07:15:31
 * **In-App Purchasing:** No

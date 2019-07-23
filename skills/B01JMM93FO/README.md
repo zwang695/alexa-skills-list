@@ -20,5 +20,5 @@ Impress your friends and family with these assortment of interesting cat facts. 
 * **ID:** amzn1.ask.skill.6763ec02-49f3-4233-b312-dee0db81dc01
 * **ASIN:** B01JMM93FO
 * **Author:** Tim
-* **Release Date:** August 8, 2016 @ 01:37:38
+* **Release Date:** August 8, 2016 @ 02:37:38
 * **In-App Purchasing:** No

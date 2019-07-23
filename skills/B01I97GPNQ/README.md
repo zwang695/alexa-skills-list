@@ -22,7 +22,7 @@ Note: This skill has been configured to work with a Raspberry Pi Mystic Mirror. 
 * **ID:** amzn1.echo-sdk-ams.app.3d64314a-4989-4bcf-a6a2-81f734c53084
 * **ASIN:** B01I97GPNQ
 * **Author:** Darian Johnson
-* **Release Date:** September 4, 2016 @ 09:03:18
+* **Release Date:** September 4, 2016 @ 10:03:18
 * **Privacy Policy:** https://s3.amazonaws.com/darianbjohnson/Magic-Mirror/mm-privacy_policy.html
 * **Account Linking Domains:** apis.google.com, google.com, darianbjohnson.com, s3.amazon.com, apps.googleusercontent.com, googleapis.com
 * **In-App Purchasing:** No

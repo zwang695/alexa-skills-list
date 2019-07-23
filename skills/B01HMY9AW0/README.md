@@ -20,5 +20,5 @@ This is a skill that allows the user to choose two numbers and then makes alexa 
 * **ID:** amzn1.echo-sdk-ams.app.9593c17c-e4a1-41b6-94f7-39ca0a155a90
 * **ASIN:** B01HMY9AW0
 * **Author:** Shashank Sharma
-* **Release Date:** June 28, 2016 @ 07:45:40
+* **Release Date:** June 28, 2016 @ 08:45:40
 * **In-App Purchasing:** No

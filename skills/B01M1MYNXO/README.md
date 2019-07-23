@@ -27,5 +27,5 @@ Recent updates:
 * **ID:** amzn1.ask.skill.d5e14757-b762-479f-b072-907db5f12819
 * **ASIN:** B01M1MYNXO
 * **Author:** MEGASUPERWEB LIMITED
-* **Release Date:** October 25, 2016 @ 01:48:51
+* **Release Date:** October 25, 2016 @ 02:48:51
 * **In-App Purchasing:** No

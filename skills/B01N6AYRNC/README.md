@@ -20,5 +20,5 @@ Data comes from Nomad List - https://nomadlist.com - but this skill is unofficia
 * **ID:** amzn1.ask.skill.6c13fa98-bfcc-4317-a730-7ce80d130d98
 * **ASIN:** B01N6AYRNC
 * **Author:** Ryan Pfister
-* **Release Date:** December 19, 2016 @ 03:49:48
+* **Release Date:** December 19, 2016 @ 04:49:48
 * **In-App Purchasing:** No

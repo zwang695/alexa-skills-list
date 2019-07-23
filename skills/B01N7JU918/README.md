@@ -18,7 +18,7 @@ To use the Cricket Facts skill, try saying...
 * **ID:** amzn1.ask.skill.c54e1664-cc74-4cb2-9531-3566393ac6be
 * **ASIN:** B01N7JU918
 * **Author:** Rachit Technology Pvt  Ltd
-* **Release Date:** December 21, 2016 @ 06:49:33
+* **Release Date:** December 21, 2016 @ 07:49:33
 * **Privacy Policy:** http://www.rachittechnology.com/privacypolicy.htm
 * **Terms of Use:** http://www.rachittechnology.com/privacypolicy.htm
 * **In-App Purchasing:** No

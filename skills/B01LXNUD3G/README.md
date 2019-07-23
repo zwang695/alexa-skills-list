@@ -20,5 +20,5 @@ The Mt Baker Snow Report brought to you by SnoCountry brings you the latest snow
 * **ID:** amzn1.ask.skill.39e630e3-c23a-419c-a54a-21f5b948ca39
 * **ASIN:** B01LXNUD3G
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:14:05
+* **Release Date:** October 19, 2016 @ 12:14:05
 * **In-App Purchasing:** No

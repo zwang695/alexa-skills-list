@@ -24,5 +24,5 @@ You'll be given a random Formula 1 fact. Facts cover champions, tracks, technica
 * **ID:** amzn1.echo-sdk-ams.app.abc49f37-df32-41df-95e4-6d8981a0d4f7
 * **ASIN:** B01HEO2Z9I
 * **Author:** Tomasz Swider
-* **Release Date:** June 25, 2016 @ 03:45:40
+* **Release Date:** June 25, 2016 @ 04:45:40
 * **In-App Purchasing:** No

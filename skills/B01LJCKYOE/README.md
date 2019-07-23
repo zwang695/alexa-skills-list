@@ -20,5 +20,5 @@ Checks whether the CollabLab is open. That's it. Just say "Alexa, open CollabLab
 * **ID:** amzn1.ask.skill.fd3393b0-b0c8-4b90-b31d-156a9501456f
 * **ASIN:** B01LJCKYOE
 * **Author:** Peter Mitrano
-* **Release Date:** September 10, 2016 @ 07:12:12
+* **Release Date:** September 10, 2016 @ 08:12:12
 * **In-App Purchasing:** No

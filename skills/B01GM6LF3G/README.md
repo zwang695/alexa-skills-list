@@ -20,5 +20,5 @@ Have you had a tech failure and need an excuse for a boss, coworker or loved one
 * **ID:** amzn1.echo-sdk-ams.app.e3af4e38-ea7d-4c6b-b651-f68c8e8cf5a0
 * **ASIN:** B01GM6LF3G
 * **Author:** Steven Klassen
-* **Release Date:** June 13, 2016 @ 02:39:40
+* **Release Date:** June 13, 2016 @ 03:39:40
 * **In-App Purchasing:** No

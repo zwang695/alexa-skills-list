@@ -17,5 +17,5 @@ Now Never again feel like you're not commendable, because with this app, you'll 
 * **ID:** amzn1.echo-sdk-ams.app.26ff7327-995a-47f8-8d09-3d3ccdf6a647
 * **ASIN:** B01DL44DZE
 * **Author:** Bryan Stump
-* **Release Date:** November 13, 2016 @ 00:43:46
+* **Release Date:** November 13, 2016 @ 01:43:46
 * **In-App Purchasing:** No

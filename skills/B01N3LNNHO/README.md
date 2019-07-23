@@ -18,5 +18,5 @@ This Skill tells you something about the history of Bremen
 * **ID:** amzn1.ask.skill.94be65f2-9d60-43f5-84d3-50d3ead69ce0
 * **ASIN:** B01N3LNNHO
 * **Author:** CKundel
-* **Release Date:** November 11, 2016 @ 01:15:46
+* **Release Date:** November 11, 2016 @ 02:15:46
 * **In-App Purchasing:** No

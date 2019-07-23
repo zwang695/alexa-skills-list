@@ -35,6 +35,6 @@ To learn more about Jukebox visit http://sayjukebox.com/
 * **ID:** amzn1.ask.skill.1b2b6251-80b8-471d-a4da-0d4a484bcc95
 * **ASIN:** B01LXCKTS7
 * **Author:** Molly
-* **Release Date:** December 1, 2016 @ 06:35:30
+* **Release Date:** December 1, 2016 @ 07:35:30
 * **Privacy Policy:** http://sayjukebox.com/privacy
 * **In-App Purchasing:** No

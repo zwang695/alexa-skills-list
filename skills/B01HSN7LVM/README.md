@@ -24,5 +24,5 @@ I will be improving this app based on user's experience..so let me know what you
 * **ID:** amzn1.echo-sdk-ams.app.e0220556-53d7-419a-80f4-7660372d790a
 * **ASIN:** B01HSN7LVM
 * **Author:** Allen
-* **Release Date:** September 8, 2016 @ 03:03:29
+* **Release Date:** September 8, 2016 @ 04:03:29
 * **In-App Purchasing:** No

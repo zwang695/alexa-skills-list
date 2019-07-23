@@ -133,7 +133,7 @@ Powered by spitcast.com
 * **ID:** amzn1.echo-sdk-ams.app.6022acc8-396c-4e40-b274-4f8db4613e99
 * **ASIN:** B01BO4QZCM
 * **Author:** Internet of Voice
-* **Release Date:** February 11, 2016 @ 15:07:15
+* **Release Date:** February 11, 2016 @ 16:07:15
 * **Privacy Policy:** http://www.surfable.surf/privacy.html
 * **Terms of Use:** http://www.surfable.surf/tos.html
 * **In-App Purchasing:** No

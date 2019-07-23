@@ -20,7 +20,7 @@ Acoustic Chord hosts a library of the most common guitar chords. Simply ask it t
 * **ID:** amzn1.echo-sdk-ams.app.b3b1653a-481c-4092-98a2-3dec18d7539a
 * **ASIN:** B01E3XNCKE
 * **Author:** TsaTsaTzu
-* **Release Date:** April 12, 2016 @ 18:02:32
+* **Release Date:** April 12, 2016 @ 19:02:32
 * **Privacy Policy:** http://ocean-of-storms.com/tsatsatzu/legal/at_policy.htm
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/at_terms.htm
 * **In-App Purchasing:** No

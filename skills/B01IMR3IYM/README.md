@@ -20,5 +20,5 @@ Too many HTTP response status codes to remember?  Simply ask Alexa!  With the HT
 * **ID:** amzn1.echo-sdk-ams.app.c06b6b5f-66fa-44a0-91c4-ecd4e3653f54
 * **ASIN:** B01IMR3IYM
 * **Author:** Jim Young
-* **Release Date:** July 25, 2016 @ 08:26:31
+* **Release Date:** July 25, 2016 @ 09:26:31
 * **In-App Purchasing:** No

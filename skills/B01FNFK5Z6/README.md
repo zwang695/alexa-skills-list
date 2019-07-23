@@ -20,5 +20,5 @@ Ask Alexa to tell you something interesting about a number and be amazed at the 
 * **ID:** amzn1.echo-sdk-ams.app.329b862f-4744-4b88-9691-264847f47162
 * **ASIN:** B01FNFK5Z6
 * **Author:** BLT Robotics
-* **Release Date:** May 20, 2016 @ 01:08:34
+* **Release Date:** May 20, 2016 @ 02:08:34
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ you can play a quiz for indian states capitals
 * **ID:** amzn1.ask.skill.ea62d0f0-ce1f-4941-97ce-1e8e0320cd4d
 * **ASIN:** B01IP07J2S
 * **Author:** Surendra Parihar
-* **Release Date:** July 20, 2016 @ 06:57:46
+* **Release Date:** July 20, 2016 @ 07:57:46
 * **In-App Purchasing:** No

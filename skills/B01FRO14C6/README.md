@@ -20,5 +20,5 @@ Boston Facts is to help everyone learn more about the city of Boston in Massachu
 * **ID:** amzn1.echo-sdk-ams.app.a22864d2-a78a-449e-9887-a3e5fac4d22a
 * **ASIN:** B01FRO14C6
 * **Author:** Michael Bonnell
-* **Release Date:** May 31, 2016 @ 15:38:31
+* **Release Date:** May 31, 2016 @ 16:38:31
 * **In-App Purchasing:** No

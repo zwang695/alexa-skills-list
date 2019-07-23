@@ -40,6 +40,6 @@ If you need assistance, please reach out to us by emailing help@diffuserblends.c
 * **ID:** amzn1.ask.skill.a6ea60b9-b0b3-41e4-82e4-67ae0d86aaef
 * **ASIN:** B01N9N308T
 * **Author:** Jay Nicholas
-* **Release Date:** January 3, 2017 @ 05:19:05
+* **Release Date:** January 3, 2017 @ 06:19:05
 * **Privacy Policy:** https://www.diffuserblends.com/privacy.php
 * **In-App Purchasing:** No

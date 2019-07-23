@@ -24,5 +24,5 @@ To answer, provide the number for your choice. Example: "Alexa, two."
 * **ID:** amzn1.echo-sdk-ams.app.7141ab61-002b-42c0-b278-0efdaf46c2ff
 * **ASIN:** B01C9E2H2I
 * **Author:** QECE Publishing
-* **Release Date:** February 26, 2016 @ 16:00:43
+* **Release Date:** February 26, 2016 @ 17:00:43
 * **In-App Purchasing:** No

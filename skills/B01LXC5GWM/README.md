@@ -20,5 +20,5 @@ The Stevens Pass Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.2a5e4f46-a29f-43bb-9917-3535d26d746c
 * **ASIN:** B01LXC5GWM
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:13:48
+* **Release Date:** October 19, 2016 @ 12:13:48
 * **In-App Purchasing:** No

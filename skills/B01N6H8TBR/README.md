@@ -22,5 +22,5 @@ If your number is a winner, it will let you know the prize(Grand, special, conso
 * **ID:** amzn1.ask.skill.40a9eb23-f552-4351-9a51-e62173ab1941
 * **ASIN:** B01N6H8TBR
 * **Author:** Southpaw Sdn Bhd
-* **Release Date:** December 29, 2016 @ 01:49:14
+* **Release Date:** December 29, 2016 @ 02:49:14
 * **In-App Purchasing:** No

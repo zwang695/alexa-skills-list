@@ -20,5 +20,5 @@ Ask for a "made up fact" and a humourous non-true reply is given. There is no pr
 * **ID:** amzn1.ask.skill.6bbdf8e9-3275-43d0-87bd-49b6fa981df7
 * **ASIN:** B01MPXAZTM
 * **Author:** Nexus Loudspeaker
-* **Release Date:** November 2, 2016 @ 03:42:53
+* **Release Date:** November 2, 2016 @ 04:42:53
 * **In-App Purchasing:** No

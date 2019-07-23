@@ -22,5 +22,5 @@ In future, this skill also shows rates provided by various remittance service pr
 * **ID:** amzn1.echo-sdk-ams.app.281626aa-aa66-45c7-96e2-f6694d66ede3
 * **ASIN:** B01DRLPHQK
 * **Author:** Ganesh
-* **Release Date:** April 28, 2016 @ 05:38:35
+* **Release Date:** April 28, 2016 @ 06:38:35
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ Here's your chance to test how much you know about the players and teams that ha
 * **ID:** amzn1.ask.skill.91c95cd9-1b95-4ceb-b268-aa97caf4f7e4
 * **ASIN:** B01MPYS01D
 * **Author:** Jeff Consing
-* **Release Date:** November 9, 2016 @ 00:14:09
+* **Release Date:** November 9, 2016 @ 01:14:09
 * **In-App Purchasing:** No

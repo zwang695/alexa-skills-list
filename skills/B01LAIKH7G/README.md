@@ -21,5 +21,5 @@ This skill is not sponsored or endorsed by Donald Trump in any way. The skill ma
 * **ID:** amzn1.ask.skill.8a2c9051-b94e-4972-9391-9fa17a3a8fad
 * **ASIN:** B01LAIKH7G
 * **Author:** Carson IP
-* **Release Date:** September 8, 2016 @ 02:03:37
+* **Release Date:** September 8, 2016 @ 03:03:37
 * **In-App Purchasing:** No

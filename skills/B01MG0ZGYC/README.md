@@ -20,5 +20,5 @@ The Saddleback Mountain Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.f23edb42-917e-4e12-9701-aa02ca6aca81
 * **ASIN:** B01MG0ZGYC
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:15:27
+* **Release Date:** October 21, 2016 @ 15:15:27
 * **In-App Purchasing:** No

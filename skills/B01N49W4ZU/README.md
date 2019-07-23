@@ -20,5 +20,5 @@ Alabama Facts will tell you cool and interesting facts you probably did not know
 * **ID:** amzn1.ask.skill.abe49ea9-6a3d-4d80-8140-666e4b0f3229
 * **ASIN:** B01N49W4ZU
 * **Author:** Devan Beitel
-* **Release Date:** December 8, 2016 @ 02:49:54
+* **Release Date:** December 8, 2016 @ 03:49:54
 * **In-App Purchasing:** No

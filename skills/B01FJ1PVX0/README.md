@@ -24,5 +24,5 @@ Quotes are spoken in the riders' own voices and then repeated by Alexa for clari
 * **ID:** amzn1.echo-sdk-ams.app.b1260974-0b6c-4c3e-ba94-528b7eadab81
 * **ASIN:** B01FJ1PVX0
 * **Author:** Thomptronics
-* **Release Date:** May 17, 2016 @ 09:38:34
+* **Release Date:** May 17, 2016 @ 10:38:34
 * **In-App Purchasing:** No

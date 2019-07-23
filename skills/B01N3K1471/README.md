@@ -16,5 +16,5 @@ This skill will give you a random fact that will not help in any reason whatsoev
 * **ID:** amzn1.ask.skill.8d646e60-a244-44db-8313-1f5733877e95
 * **ASIN:** B01N3K1471
 * **Author:** Thanut (Art) Parkeenvincha
-* **Release Date:** November 9, 2016 @ 02:42:45
+* **Release Date:** November 9, 2016 @ 03:42:45
 * **In-App Purchasing:** No

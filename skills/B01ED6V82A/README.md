@@ -20,5 +20,5 @@ Users ask for the "Thomas Fan Quiz" and then are presented with questions and 4 
 * **ID:** amzn1.echo-sdk-ams.app.21684b01-ac35-4c52-856a-ea6d838ed5f1
 * **ASIN:** B01ED6V82A
 * **Author:** Pamela Caird
-* **Release Date:** April 29, 2016 @ 06:08:37
+* **Release Date:** April 29, 2016 @ 07:08:37
 * **In-App Purchasing:** No

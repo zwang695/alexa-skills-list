@@ -18,6 +18,6 @@ More information is available in the Lutron Connect Alexa FAQ at http://tinyurl.
 * **ID:** amzn1.ask.skill.f0f54a97-8925-4365-bda3-8e1357c223ae
 * **ASIN:** B01M4QGP3C
 * **Author:** Lutron Electronics Co., Inc.
-* **Release Date:** November 8, 2016 @ 17:42:29
+* **Release Date:** November 8, 2016 @ 18:42:29
 * **Privacy Policy:** http://www.lutron.com/en-US/Pages/PrivacyPolicy.aspx
 * **In-App Purchasing:** No

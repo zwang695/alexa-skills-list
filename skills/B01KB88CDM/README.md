@@ -20,5 +20,5 @@ Facts for Arlington County of Virginia voters. Just ask "Alexa, ask arlington vo
 * **ID:** amzn1.ask.skill.2a684abd-7748-4d87-b6e2-62c74c5b15c0
 * **ASIN:** B01KB88CDM
 * **Author:** css
-* **Release Date:** August 17, 2016 @ 02:22:53
+* **Release Date:** August 17, 2016 @ 03:22:53
 * **In-App Purchasing:** No

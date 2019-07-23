@@ -37,5 +37,5 @@ Alexa will end the game because she has won.
 * **ID:** amzn1.ask.skill.79dc51e0-1800-4e29-9398-c6dec8ecf928
 * **ASIN:** B01N58UASK
 * **Author:** Drew Tenenbaum
-* **Release Date:** December 12, 2016 @ 08:23:10
+* **Release Date:** December 12, 2016 @ 09:23:10
 * **In-App Purchasing:** No

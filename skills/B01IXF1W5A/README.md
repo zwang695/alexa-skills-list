@@ -21,5 +21,5 @@ Note: This skill is NOT an official skill for the city of Irvine, nor does the d
 * **ID:** amzn1.ask.skill.516b1052-d004-424e-aae8-42d3a2fe0839
 * **ASIN:** B01IXF1W5A
 * **Author:** Munish Nayyar
-* **Release Date:** September 17, 2016 @ 03:41:39
+* **Release Date:** September 17, 2016 @ 04:41:39
 * **In-App Purchasing:** No

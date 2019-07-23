@@ -20,5 +20,5 @@ This is a trivia game for fans of the classic Eddie Murphy movie, coming to Amer
 * **ID:** amzn1.echo-sdk-ams.app.f2b15e10-5646-4950-8f66-b70af7acfc14
 * **ASIN:** B01IAYJEBS
 * **Author:** Dupe Labs, LLC.
-* **Release Date:** July 14, 2016 @ 04:57:48
+* **Release Date:** July 14, 2016 @ 05:57:48
 * **In-App Purchasing:** No

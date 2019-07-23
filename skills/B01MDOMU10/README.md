@@ -20,5 +20,5 @@ The Norway Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.df42080c-07be-45f6-bd4f-7fe4e2ce42dd
 * **ASIN:** B01MDOMU10
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:48:02
+* **Release Date:** October 21, 2016 @ 15:48:02
 * **In-App Purchasing:** No

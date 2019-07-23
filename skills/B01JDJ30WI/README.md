@@ -20,5 +20,5 @@ This skill has rock climbing facts such as the 3 different types of rock climbin
 * **ID:** amzn1.ask.skill.1889dd5f-ba12-4dbb-8984-76f2e2514f85
 * **ASIN:** B01JDJ30WI
 * **Author:** Mary Dang
-* **Release Date:** August 5, 2016 @ 02:37:32
+* **Release Date:** August 5, 2016 @ 03:37:32
 * **In-App Purchasing:** No

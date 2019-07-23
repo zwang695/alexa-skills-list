@@ -20,5 +20,5 @@ The Snowmass Resort Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.b34c7926-8568-40fc-92f7-a5d9ab620b94
 * **ASIN:** B01LXR6CIE
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:13:22
+* **Release Date:** October 19, 2016 @ 12:13:22
 * **In-App Purchasing:** No

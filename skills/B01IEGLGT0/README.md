@@ -20,5 +20,5 @@ Division Flash Cards - lets you interactively test your basic division skills wi
 * **ID:** amzn1.echo-sdk-ams.app.c85b30b8-940f-4bc9-85bb-37b122ebe8cc
 * **ASIN:** B01IEGLGT0
 * **Author:** Carrington Enterprises
-* **Release Date:** July 15, 2016 @ 05:27:29
+* **Release Date:** July 15, 2016 @ 06:27:29
 * **In-App Purchasing:** No

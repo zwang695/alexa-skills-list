@@ -20,5 +20,5 @@ Identify the manufacturer of a given car model. Can you name the manufacturer of
 * **ID:** amzn1.ask.skill.a0790c1e-cade-411e-ba5b-07a23168f582
 * **ASIN:** B01IQEH716
 * **Author:** Sibyl Enterprises
-* **Release Date:** July 25, 2016 @ 04:56:54
+* **Release Date:** July 25, 2016 @ 05:56:54
 * **In-App Purchasing:** No

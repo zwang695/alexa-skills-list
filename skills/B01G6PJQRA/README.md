@@ -22,5 +22,5 @@ Didn't hear your favorite Stupid Cat Joke? You would like to make an anonymous c
 * **ID:** amzn1.echo-sdk-ams.app.fc3f27be-7c9c-4236-be93-2ae92737b391
 * **ASIN:** B01G6PJQRA
 * **Author:** www.drBlankenstein.com
-* **Release Date:** May 27, 2016 @ 00:08:29
+* **Release Date:** May 27, 2016 @ 01:08:29
 * **In-App Purchasing:** No

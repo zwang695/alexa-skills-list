@@ -20,5 +20,5 @@ Answer a handful of Yes/No questions to help discover exotic destinations in Eur
 * **ID:** amzn1.echo-sdk-ams.app.7764aac6-6ee0-4ce7-9178-0d21d7546934
 * **ASIN:** B01HHC86Q8
 * **Author:** Matchbox mobile
-* **Release Date:** June 25, 2016 @ 06:46:26
+* **Release Date:** June 25, 2016 @ 07:46:26
 * **In-App Purchasing:** No

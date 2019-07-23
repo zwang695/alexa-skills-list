@@ -20,7 +20,7 @@ Locate APRS stations using the APSR Internet System, and reverse-geocode the loc
 * **ID:** amzn1.echo-sdk-ams.app.6c7d6dc1-03aa-4e86-ad34-3af707889bae
 * **ASIN:** B01AVCIIQY
 * **Author:** Nortius Systems
-* **Release Date:** January 20, 2016 @ 13:21:13
+* **Release Date:** January 20, 2016 @ 14:21:13
 * **Privacy Policy:** http://kv6m.org/alexa-aprs/#privacy
 * **Terms of Use:** http://kv6m.org/alexa-aprs/#terms
 * **In-App Purchasing:** No

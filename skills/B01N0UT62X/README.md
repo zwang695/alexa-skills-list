@@ -22,5 +22,5 @@ While sipping your morning Coffee/Tea, simply invoke this skill to understand th
 * **ID:** amzn1.ask.skill.639234c6-64df-4f01-b2e6-9bf68ff49b9c
 * **ASIN:** B01N0UT62X
 * **Author:** Ganesh
-* **Release Date:** December 29, 2016 @ 00:49:49
+* **Release Date:** December 29, 2016 @ 01:49:49
 * **In-App Purchasing:** No

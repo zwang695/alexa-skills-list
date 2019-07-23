@@ -16,5 +16,5 @@ This skill uses the numbersapi.com api to get trivia facts on random numbers.
 * **ID:** amzn1.echo-sdk-ams.app.8e813002-7122-4383-ab83-d1bfd6346f48
 * **ASIN:** B01HTXYHKE
 * **Author:** Casale Mainframe
-* **Release Date:** July 15, 2016 @ 03:27:28
+* **Release Date:** July 15, 2016 @ 04:27:28
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ Have fun :)
 * **ID:** amzn1.ask.skill.e39cb796-7523-4b81-9114-4f51fc4a22de
 * **ASIN:** B01IT7FIOI
 * **Author:** Sanjay Krishna Katragadda
-* **Release Date:** August 1, 2016 @ 09:26:46
+* **Release Date:** August 1, 2016 @ 10:26:46
 * **In-App Purchasing:** No

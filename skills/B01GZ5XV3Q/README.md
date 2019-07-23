@@ -20,6 +20,6 @@ Trivia Game in which Alexa asks you 5 multiple-choice questions on Basketball fa
 * **ID:** amzn1.echo-sdk-ams.app.da1e3779-2782-4459-95b3-84e6871944e1
 * **ASIN:** B01GZ5XV3Q
 * **Author:** areo
-* **Release Date:** June 15, 2016 @ 05:45:35
+* **Release Date:** June 15, 2016 @ 06:45:35
 * **Terms of Use:** http://sanzgiri.github.io/alexa_nba_trivia_game_tou.txt
 * **In-App Purchasing:** No

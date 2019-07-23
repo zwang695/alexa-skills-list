@@ -20,5 +20,5 @@ Improve Myself is a Alexa skill that will help you start your day on making your
 * **ID:** amzn1.ask.skill.5d476d87-2339-41d4-9fec-ceab374011a5
 * **ASIN:** B01KORJ3U6
 * **Author:** Jagdeep Sidhu
-* **Release Date:** August 22, 2016 @ 07:44:46
+* **Release Date:** August 22, 2016 @ 08:44:46
 * **In-App Purchasing:** No

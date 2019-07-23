@@ -20,5 +20,5 @@ Dan's US History Facts lets you ask Alexa for random facts about United States h
 * **ID:** amzn1.ask.skill.2eef26f0-21c8-4f13-b340-efa1e58a5d0e
 * **ASIN:** B01M0QHSP0
 * **Author:** Aspire Creations LLC
-* **Release Date:** September 18, 2016 @ 01:42:18
+* **Release Date:** September 18, 2016 @ 02:42:18
 * **In-App Purchasing:** No

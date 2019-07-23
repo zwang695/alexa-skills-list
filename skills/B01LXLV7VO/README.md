@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.7f6cb486-c248-47e4-a52e-7c1774823fd0
 * **ASIN:** B01LXLV7VO
 * **Author:** EDF Energy
-* **Release Date:** September 27, 2016 @ 15:12:05
+* **Release Date:** September 27, 2016 @ 16:12:05
 * **In-App Purchasing:** No

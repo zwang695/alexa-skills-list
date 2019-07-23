@@ -20,5 +20,5 @@ Learn about the olympic sport of fencing including rules, regulations, equipment
 * **ID:** amzn1.ask.skill.06fcf5a9-f365-4999-8a75-700dfdc9afaf
 * **ASIN:** B01L4SOBXI
 * **Author:** jlrojas
-* **Release Date:** August 29, 2016 @ 02:02:51
+* **Release Date:** August 29, 2016 @ 03:02:51
 * **In-App Purchasing:** No

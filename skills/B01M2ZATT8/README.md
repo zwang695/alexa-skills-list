@@ -19,7 +19,7 @@ Try saying...
 * **ID:** amzn1.ask.skill.7a1ff98a-149d-4ac1-8c53-a107d2796352
 * **ASIN:** B01M2ZATT8
 * **Author:** Steven
-* **Release Date:** December 1, 2016 @ 16:05:30
+* **Release Date:** December 1, 2016 @ 17:05:30
 * **Privacy Policy:** https://www.cameragw.com/pricacy/privacy.html
 * **Account Linking Domains:** www.cameragw.com, cameragw.com
 * **In-App Purchasing:** No

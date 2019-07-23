@@ -22,5 +22,5 @@ Random letter for your stop game. You can also specify if you want an easy or ha
 * **ID:** amzn1.ask.skill.49e8489a-2f5f-4950-8e5c-3e2de70f0a4a
 * **ASIN:** B01N0JMEWZ
 * **Author:** Guasacaca
-* **Release Date:** December 9, 2016 @ 10:19:08
+* **Release Date:** December 9, 2016 @ 11:19:08
 * **In-App Purchasing:** No

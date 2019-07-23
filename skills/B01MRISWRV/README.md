@@ -26,7 +26,7 @@ Enable the Best Recipes skill, brought to you by Hellmann's and Best Foods, and 
 * **ID:** amzn1.ask.skill.43d2d75f-523e-4136-9e5b-d48aa848de09
 * **ASIN:** B01MRISWRV
 * **Author:** Unilever
-* **Release Date:** December 6, 2016 @ 21:19:32
+* **Release Date:** December 6, 2016 @ 22:19:32
 * **Privacy Policy:** http://www.unileverprivacypolicy.com/en_us/policy.aspx
 * **Account Linking Domains:** bestrecipes.unileversolutions.com, unilever.com, unileverprivacypolicy.com, unilever.skill-account-linking.com
 * **In-App Purchasing:** No

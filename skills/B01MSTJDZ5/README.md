@@ -26,5 +26,5 @@ Currently available classes are: power flow, calm flow, barre, hot yoga lite, ho
 * **ID:** amzn1.ask.skill.0d26f17e-561f-458d-bb19-9d2ac5eded47
 * **ASIN:** B01MSTJDZ5
 * **Author:** cam cairns
-* **Release Date:** December 14, 2016 @ 01:49:54
+* **Release Date:** December 14, 2016 @ 02:49:54
 * **In-App Purchasing:** No

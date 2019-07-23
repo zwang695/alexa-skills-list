@@ -61,6 +61,6 @@ You can always say “stop”, “cancel” or “exit”.
 * **ID:** amzn1.echo-sdk-ams.app.4cd0a8f9-ba04-409f-8fd1-27b329e4e9e1
 * **ASIN:** B01BXCJA7C
 * **Author:** Dana Young
-* **Release Date:** February 18, 2016 @ 16:24:05
+* **Release Date:** February 18, 2016 @ 17:24:05
 * **Privacy Policy:** http://tennismatchmanager.com/privacy.html
 * **In-App Purchasing:** No

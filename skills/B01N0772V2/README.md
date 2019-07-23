@@ -16,5 +16,5 @@ The object of Which Sport is to find a sport that will suggest a sport to the us
 * **ID:** amzn1.ask.skill.4217ab9b-d4d7-44f9-83b8-a9e430c0e774
 * **ASIN:** B01N0772V2
 * **Author:** FlackBack.io
-* **Release Date:** November 17, 2016 @ 23:35:49
+* **Release Date:** November 18, 2016 @ 00:35:49
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask Alexa where you should I go to visit in Portland. Suggests the best tourist 
 * **ID:** amzn1.ask.skill.e338c5fd-ba96-4037-90c3-438cc22d6b14
 * **ASIN:** B01JDR29MC
 * **Author:** Samkit Jain
-* **Release Date:** August 8, 2016 @ 02:37:34
+* **Release Date:** August 8, 2016 @ 03:37:34
 * **In-App Purchasing:** No

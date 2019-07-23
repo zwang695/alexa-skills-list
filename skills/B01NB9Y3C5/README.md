@@ -16,5 +16,5 @@ This is an app with historical facts that are misconceptions from wikipedia.
 * **ID:** amzn1.ask.skill.883099e0-d305-48b4-968d-56ce9a6b762e
 * **ASIN:** B01NB9Y3C5
 * **Author:** A Cons Apart
-* **Release Date:** November 21, 2016 @ 23:06:05
+* **Release Date:** November 22, 2016 @ 00:06:05
 * **In-App Purchasing:** No

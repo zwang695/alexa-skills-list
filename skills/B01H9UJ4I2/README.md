@@ -20,5 +20,5 @@ A fun way to learn about greek mythology! It will ask a question and provide 4 p
 * **ID:** amzn1.echo-sdk-ams.app.bd831d89-8710-463d-af74-4494c5fde4a8
 * **ASIN:** B01H9UJ4I2
 * **Author:** Erin
-* **Release Date:** July 1, 2016 @ 05:27:40
+* **Release Date:** July 1, 2016 @ 06:27:40
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a short, quiz about corgis. If you have a corgi, you may enjoy this quiz
 * **ID:** amzn1.echo-sdk-ams.app.af3fa906-7ada-49bc-83ad-d232c8c347e6
 * **ASIN:** B01E54UK88
 * **Author:** Modern Major General
-* **Release Date:** April 20, 2016 @ 15:32:40
+* **Release Date:** April 20, 2016 @ 16:32:40
 * **In-App Purchasing:** No

@@ -27,5 +27,5 @@ Neil deGrasse Tyson website: http://www.haydenplanetarium.org/tyson/
 * **ID:** amzn1.ask.skill.be9ddb84-b630-43c6-b578-8c410e0c6fb1
 * **ASIN:** B01IZ1LQJO
 * **Author:** Tozaleann
-* **Release Date:** July 28, 2016 @ 02:26:38
+* **Release Date:** July 28, 2016 @ 03:26:38
 * **In-App Purchasing:** No

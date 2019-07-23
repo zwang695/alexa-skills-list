@@ -20,5 +20,5 @@ The Bolton Valley Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.03472b33-eaa9-4493-9e9e-7ce6bf50adf0
 * **ASIN:** B01M362M00
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:13:39
+* **Release Date:** November 4, 2016 @ 09:13:39
 * **In-App Purchasing:** No

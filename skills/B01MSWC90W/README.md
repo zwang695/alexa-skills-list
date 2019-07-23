@@ -20,5 +20,5 @@ spits out random (PG) insult
 * **ID:** amzn1.ask.skill.f3de47d7-141d-4e1a-bffd-d59a61df3bb5
 * **ASIN:** B01MSWC90W
 * **Author:** Matt Dalton
-* **Release Date:** December 8, 2016 @ 06:19:59
+* **Release Date:** December 8, 2016 @ 07:19:59
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a fact skill that gets various facts about fruit. Simply ask to open fru
 * **ID:** amzn1.ask.skill.21ac8384-f95b-4e5b-b180-033cbed402f3
 * **ASIN:** B01KPELQ1M
 * **Author:** Guy
-* **Release Date:** August 23, 2016 @ 07:18:57
+* **Release Date:** August 23, 2016 @ 08:18:57
 * **In-App Purchasing:** No

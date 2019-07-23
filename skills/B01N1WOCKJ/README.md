@@ -20,5 +20,5 @@ This skill allows you to ask Alexa to round the constant "pi" to a certain numbe
 * **ID:** amzn1.ask.skill.ec7bc024-ad01-42a1-9e01-0ab65114290d
 * **ASIN:** B01N1WOCKJ
 * **Author:** r3pwn
-* **Release Date:** January 3, 2017 @ 05:48:48
+* **Release Date:** January 3, 2017 @ 06:48:48
 * **In-App Purchasing:** No

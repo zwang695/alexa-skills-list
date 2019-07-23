@@ -20,5 +20,5 @@ This skill is a built in Hokie Ambassador designed to help answer questions from
 * **ID:** amzn1.ask.skill.b64f647e-ffe3-47c3-a854-8abd31ef1f06
 * **ASIN:** B01NBP6V8H
 * **Author:** ahowe
-* **Release Date:** January 2, 2017 @ 02:19:19
+* **Release Date:** January 2, 2017 @ 03:19:19
 * **In-App Purchasing:** No

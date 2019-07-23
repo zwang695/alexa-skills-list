@@ -24,5 +24,5 @@ To get started, you can ask the cyberpunk dictionary to give you a random cyberp
 * **ID:** amzn1.echo-sdk-ams.app.1a291230-7f25-48ed-b8b7-747205d072db
 * **ASIN:** B01DN2QRJY
 * **Author:** Brendan Butts
-* **Release Date:** April 22, 2016 @ 08:08:32
+* **Release Date:** April 22, 2016 @ 09:08:32
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ This game is for movie buffs, it's fun to test your movie knowledge.
 * **ID:** amzn1.echo-sdk-ams.app.50266ea6-81cf-43f2-9584-ceffb776626c
 * **ASIN:** B01HT46HTC
 * **Author:** FreeSpirit Development
-* **Release Date:** July 4, 2016 @ 04:57:28
+* **Release Date:** July 4, 2016 @ 05:57:28
 * **In-App Purchasing:** No

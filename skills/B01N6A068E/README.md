@@ -20,5 +20,5 @@ Get the surf report for over 4000 locations all over the world with descriptions
 * **ID:** amzn1.ask.skill.66b1c37d-0c8c-46d8-8281-e9ac637decab
 * **ASIN:** B01N6A068E
 * **Author:** gshenar
-* **Release Date:** December 2, 2016 @ 04:35:19
+* **Release Date:** December 2, 2016 @ 05:35:19
 * **In-App Purchasing:** No

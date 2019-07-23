@@ -24,5 +24,5 @@ Use your voice to navigate your way through the Cave!
 * **ID:** amzn1.ask.skill.a1991ae3-7761-42b7-973f-ec910e245967
 * **ASIN:** B01IR3CPT0
 * **Author:** Jimmy Dickinson
-* **Release Date:** September 2, 2016 @ 02:33:36
+* **Release Date:** September 2, 2016 @ 03:33:36
 * **In-App Purchasing:** No

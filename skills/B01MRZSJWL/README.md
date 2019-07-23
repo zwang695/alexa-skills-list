@@ -24,7 +24,7 @@ NeighborlyApp.com
 * **ID:** amzn1.ask.skill.27b3c8c6-aee5-4aa5-83ac-08e62d5ef8a8
 * **ASIN:** B01MRZSJWL
 * **Author:** Neighborly
-* **Release Date:** December 27, 2016 @ 23:49:35
+* **Release Date:** December 28, 2016 @ 00:49:35
 * **Privacy Policy:** http://neighborlyapp.com/neighborly-privacy-policy
 * **Terms of Use:** http://www.neighborlyapp.com/terms-of-service
 * **In-App Purchasing:** Yes

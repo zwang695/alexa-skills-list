@@ -20,5 +20,5 @@ Take this challenge that tests your lyric knowledge of popular pop songs from th
 * **ID:** amzn1.echo-sdk-ams.app.55436111-f886-4f48-aa7a-4fb8833edc57
 * **ASIN:** B01DBWB3HW
 * **Author:** James Co
-* **Release Date:** March 23, 2016 @ 05:56:06
+* **Release Date:** March 23, 2016 @ 06:56:06
 * **In-App Purchasing:** No

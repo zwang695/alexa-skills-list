@@ -20,5 +20,5 @@ The Ski Apache Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.e100b1cd-bd8f-465f-9f17-1322a4082b2d
 * **ASIN:** B01LXP761A
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:42:42
+* **Release Date:** October 19, 2016 @ 11:42:42
 * **In-App Purchasing:** No

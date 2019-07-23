@@ -20,5 +20,5 @@ Sun Kiss may not be suitable for all ages. Sun Kiss gives facts about kissing.  
 * **ID:** amzn1.echo-sdk-ams.app.0ee17b91-6fb1-4b1e-b2f7-ec0448a2af02
 * **ASIN:** B01F9KJ1E6
 * **Author:** Cheryl Troup
-* **Release Date:** May 19, 2016 @ 03:08:39
+* **Release Date:** May 19, 2016 @ 04:08:39
 * **In-App Purchasing:** No

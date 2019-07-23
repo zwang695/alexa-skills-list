@@ -20,5 +20,5 @@ The Camp Fortune Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.1c048be9-ac4b-4a42-be1d-96c1424f786a
 * **ASIN:** B01N00V1B2
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:42:57
+* **Release Date:** November 5, 2016 @ 12:42:57
 * **In-App Purchasing:** No

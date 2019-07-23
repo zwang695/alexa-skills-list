@@ -22,5 +22,5 @@ think of any question then ask the wizard for the answer whether it's yes or no
 * **ID:** amzn1.ask.skill.81f1e5cf-a199-475a-9637-c5fc5732cc96
 * **ASIN:** B01IPVWA3A
 * **Author:** noahGames
-* **Release Date:** August 4, 2016 @ 05:41:47
+* **Release Date:** August 4, 2016 @ 06:41:47
 * **In-App Purchasing:** No

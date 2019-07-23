@@ -20,5 +20,5 @@ You can learn the most commonly used phrases in French with Alexa. Simply ask Al
 * **ID:** amzn1.echo-sdk-ams.app.439403f6-77d0-4128-9d6d-f540e9f88b66
 * **ASIN:** B01HG5G8ES
 * **Author:** ALPHABETO
-* **Release Date:** June 30, 2016 @ 07:57:32
+* **Release Date:** June 30, 2016 @ 08:57:32
 * **In-App Purchasing:** No

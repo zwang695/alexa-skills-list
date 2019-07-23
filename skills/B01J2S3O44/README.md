@@ -22,5 +22,5 @@ Reference: https://www.hackster.io/cvs-home/secure-and-control-your-home-with-vo
 * **ID:** amzn1.echo-sdk-ams.app.29df0fdf-965f-4098-b9ad-193276397396
 * **ASIN:** B01J2S3O44
 * **Author:** Sandeep
-* **Release Date:** September 1, 2016 @ 12:03:18
+* **Release Date:** September 1, 2016 @ 13:03:18
 * **In-App Purchasing:** No

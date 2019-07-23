@@ -20,5 +20,5 @@ The We Are Social skill delivers the most important social story of the day. Itâ
 * **ID:** amzn1.ask.skill.60727f70-0aa5-4e9b-b7d1-46ec89c81d6d
 * **ASIN:** B01MQ6AGX7
 * **Author:** We Are Social
-* **Release Date:** November 9, 2016 @ 00:43:00
+* **Release Date:** November 9, 2016 @ 01:43:00
 * **In-App Purchasing:** No

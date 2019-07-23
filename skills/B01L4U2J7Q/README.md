@@ -20,5 +20,5 @@ Funny quotes from a friend.
 * **ID:** amzn1.ask.skill.cd01f05f-eea8-43b2-82d6-8c4f87ade203
 * **ASIN:** B01L4U2J7Q
 * **Author:** Sharon Gong
-* **Release Date:** August 29, 2016 @ 08:32:45
+* **Release Date:** August 29, 2016 @ 09:32:45
 * **In-App Purchasing:** No

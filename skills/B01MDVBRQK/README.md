@@ -22,5 +22,5 @@ Stay tuned for more facts about Armen!
 * **ID:** amzn1.ask.skill.cd145b3f-ea5f-436f-8dfb-03571f882ab4
 * **ASIN:** B01MDVBRQK
 * **Author:** EmptyLaughter
-* **Release Date:** November 9, 2016 @ 00:13:33
+* **Release Date:** November 9, 2016 @ 01:13:33
 * **In-App Purchasing:** No

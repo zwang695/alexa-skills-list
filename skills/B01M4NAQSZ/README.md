@@ -20,5 +20,5 @@ The HoliMont Ski Area Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.67da182b-824c-4b6a-b98b-6c9a2a12b02d
 * **ASIN:** B01M4NAQSZ
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:43:47
+* **Release Date:** October 26, 2016 @ 04:43:47
 * **In-App Purchasing:** No

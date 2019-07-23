@@ -22,5 +22,5 @@ To start learning fun facts, just open the skill.
 * **ID:** amzn1.echo-sdk-ams.app.5eb8a5aa-ff04-4d61-a382-068d3512b53b
 * **ASIN:** B01EX83SD0
 * **Author:** SMK Web Development
-* **Release Date:** May 5, 2016 @ 02:38:39
+* **Release Date:** May 5, 2016 @ 03:38:39
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Are you a new firefighter studying for the Fire 1 exam, a veteran who just wants
 * **ID:** amzn1.echo-sdk-ams.app.61410c21-6492-48ec-ae1d-edbd84870d5b
 * **ASIN:** B01FY5S8D6
 * **Author:** Karma
-* **Release Date:** May 21, 2016 @ 02:38:42
+* **Release Date:** May 21, 2016 @ 03:38:42
 * **In-App Purchasing:** No

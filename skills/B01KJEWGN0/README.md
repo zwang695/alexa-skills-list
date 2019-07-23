@@ -20,5 +20,5 @@ Some amazing facts on human liver
 * **ID:** amzn1.ask.skill.db222e08-57cd-463e-b6b0-9a364598814d
 * **ASIN:** B01KJEWGN0
 * **Author:** suvinks
-* **Release Date:** August 18, 2016 @ 01:22:38
+* **Release Date:** August 18, 2016 @ 02:22:38
 * **In-App Purchasing:** No

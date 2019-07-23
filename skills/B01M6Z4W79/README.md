@@ -20,5 +20,5 @@ The Hermon Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.e9fc5dea-14a5-477f-9057-6154626e45b6
 * **ASIN:** B01M6Z4W79
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:48:56
+* **Release Date:** October 21, 2016 @ 15:48:56
 * **In-App Purchasing:** No

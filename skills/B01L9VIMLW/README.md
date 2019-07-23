@@ -20,5 +20,5 @@ Way to test your knowledge of military history
 * **ID:** amzn1.ask.skill.0d2b88d9-a180-41f0-9e3c-560bc39c08de
 * **ASIN:** B01L9VIMLW
 * **Author:** Sonny Tosco
-* **Release Date:** September 8, 2016 @ 02:04:00
+* **Release Date:** September 8, 2016 @ 03:04:00
 * **In-App Purchasing:** No

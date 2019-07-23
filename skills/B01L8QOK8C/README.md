@@ -22,5 +22,5 @@ Invoke the skill by saying , "Alexa,open almanac info" . Then say a city , for e
 * **ID:** amzn1.ask.skill.27a1e8e3-0d23-414d-a8e6-1de3c99d7820
 * **ASIN:** B01L8QOK8C
 * **Author:** TankBell Technologies LLC
-* **Release Date:** September 3, 2016 @ 05:03:11
+* **Release Date:** September 3, 2016 @ 06:03:11
 * **In-App Purchasing:** No

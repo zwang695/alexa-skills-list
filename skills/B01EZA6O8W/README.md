@@ -20,5 +20,5 @@ MySomm turns Alexa into Wine Gal, your personal wine sommelier that can give you
 * **ID:** amzn1.echo-sdk-ams.app.d7df4a7c-3f91-43e5-bf41-2e3851875429
 * **ASIN:** B01EZA6O8W
 * **Author:** Asolana
-* **Release Date:** May 5, 2016 @ 16:08:36
+* **Release Date:** May 5, 2016 @ 17:08:36
 * **In-App Purchasing:** No

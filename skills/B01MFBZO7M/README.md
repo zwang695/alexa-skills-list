@@ -20,5 +20,5 @@ Simply ask Alexa to open Random Song Lyrics and sing a song. She'll respond with
 * **ID:** amzn1.ask.skill.1b89c07b-8362-4f36-8b6c-4c67c4b4fbe7
 * **ASIN:** B01MFBZO7M
 * **Author:** Adriane Purdy
-* **Release Date:** October 27, 2016 @ 03:15:11
+* **Release Date:** October 27, 2016 @ 04:15:11
 * **In-App Purchasing:** No

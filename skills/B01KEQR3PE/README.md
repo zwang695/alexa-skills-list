@@ -20,5 +20,5 @@ This is a fun trivia game on famous Michiganders, which are people from Michigan
 * **ID:** amzn1.ask.skill.ff3a92c0-f476-4385-9cdc-4ab00c05b88c
 * **ASIN:** B01KEQR3PE
 * **Author:** WorkSmart Database Masters, LLC
-* **Release Date:** August 29, 2016 @ 02:32:48
+* **Release Date:** August 29, 2016 @ 03:32:48
 * **In-App Purchasing:** No

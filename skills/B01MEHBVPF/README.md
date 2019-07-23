@@ -20,5 +20,5 @@ The Bittersweet Ski Resort Snow Report brought to you by SnoCountry brings you t
 * **ID:** amzn1.ask.skill.cd084caa-35cd-4542-9eb8-feab5262bf94
 * **ASIN:** B01MEHBVPF
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:16:32
+* **Release Date:** October 21, 2016 @ 15:16:32
 * **In-App Purchasing:** No

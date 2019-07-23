@@ -22,5 +22,5 @@ This app responds with the next bus that will be picking up at the designated pi
 * **ID:** amzn1.ask.skill.b92e82eb-0fed-4a5b-91a7-151778d32610
 * **ASIN:** B01NANDOSW
 * **Author:** bbz
-* **Release Date:** January 2, 2017 @ 03:48:56
+* **Release Date:** January 2, 2017 @ 04:48:56
 * **In-App Purchasing:** No

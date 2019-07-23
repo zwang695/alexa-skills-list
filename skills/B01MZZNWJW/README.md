@@ -25,5 +25,5 @@ A lot of new features are coming up to help the users in different way.
 * **ID:** amzn1.ask.skill.159c3adc-d6a6-44d4-9b1a-2dd1790d8a11
 * **ASIN:** B01MZZNWJW
 * **Author:** Spawing-AI
-* **Release Date:** December 13, 2016 @ 23:19:37
+* **Release Date:** December 14, 2016 @ 00:19:37
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill will provide a fact regarding the island of Milos, Greece.  The way i
 * **ID:** amzn1.echo-sdk-ams.app.d2cbbeaa-7864-4cd6-8b57-9f75d6dd515e
 * **ASIN:** B01I7P9BCW
 * **Author:** ctsif
-* **Release Date:** July 18, 2016 @ 10:57:31
+* **Release Date:** July 18, 2016 @ 11:57:31
 * **In-App Purchasing:** No

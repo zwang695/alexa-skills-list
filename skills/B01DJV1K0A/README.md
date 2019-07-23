@@ -28,7 +28,7 @@ This skill is offered by the ministry of FAST. For more information visit us at 
 * **ID:** amzn1.echo-sdk-ams.app.9f3534b6-09be-4e5a-99d4-4494b76a7e1c
 * **ASIN:** B01DJV1K0A
 * **Author:** FAST Missions
-* **Release Date:** April 21, 2016 @ 05:09:47
+* **Release Date:** April 21, 2016 @ 06:09:47
 * **Privacy Policy:** https://www.fast.st/fast/main/terms/alexa
 * **Terms of Use:** https://www.fast.st/fast/main/terms/alexa
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ To use the Temperature converter skill, try saying...
 * **ID:** amzn1.ask.skill.2c573983-acc9-44ec-bf3b-bf6cce7bf00a
 * **ASIN:** B01N78SUUM
 * **Author:** Jrom Mobile
-* **Release Date:** November 26, 2016 @ 07:05:09
+* **Release Date:** November 26, 2016 @ 08:05:09
 * **In-App Purchasing:** No

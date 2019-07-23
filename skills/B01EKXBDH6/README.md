@@ -20,5 +20,5 @@ This skill randomly chooses questions from the 100 possible questions posed by t
 * **ID:** amzn1.echo-sdk-ams.app.27796149-42b4-427d-8e02-040dfb10917d
 * **ASIN:** B01EKXBDH6
 * **Author:** Qapable Corp
-* **Release Date:** April 22, 2016 @ 09:08:23
+* **Release Date:** April 22, 2016 @ 10:08:23
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Apple Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.740f166b-abb4-47e3-9780-718aae62b31a
 * **ASIN:** B01M6Z5EEZ
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:14:38
+* **Release Date:** October 21, 2016 @ 15:14:38
 * **In-App Purchasing:** No

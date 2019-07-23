@@ -16,5 +16,5 @@ Ask Alexa some Japan Facts,
 * **ID:** amzn1.ask.skill.052783bc-a260-4daf-a319-e6bc2e6b35ff
 * **ASIN:** B01K9AHE2M
 * **Author:** NYU Stern
-* **Release Date:** August 12, 2016 @ 02:07:38
+* **Release Date:** August 12, 2016 @ 03:07:38
 * **In-App Purchasing:** No

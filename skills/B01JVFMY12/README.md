@@ -20,5 +20,5 @@ This is just a fun trivia quiz that you can use the wile away the time sharpenin
 * **ID:** amzn1.ask.skill.6710da9a-6fa3-4050-92da-5563477155d2
 * **ASIN:** B01JVFMY12
 * **Author:** Leave It to 'Berta
-* **Release Date:** August 10, 2016 @ 03:07:42
+* **Release Date:** August 10, 2016 @ 04:07:42
 * **In-App Purchasing:** No

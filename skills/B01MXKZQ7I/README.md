@@ -20,5 +20,5 @@ The street wizard skill will answer your question with a Yes or No equivalent re
 * **ID:** amzn1.ask.skill.ebc42a11-00c7-47ce-be8a-de5dff1d9f8f
 * **ASIN:** B01MXKZQ7I
 * **Author:** Gean Martinez
-* **Release Date:** November 17, 2016 @ 22:05:10
+* **Release Date:** November 17, 2016 @ 23:05:10
 * **In-App Purchasing:** No

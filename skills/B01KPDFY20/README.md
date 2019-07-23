@@ -20,5 +20,5 @@ Tells you facts about cats.
 * **ID:** amzn1.ask.skill.c9a0f8c9-228c-496d-9372-4d06d175400a
 * **ASIN:** B01KPDFY20
 * **Author:** Jogu
-* **Release Date:** August 26, 2016 @ 06:02:41
+* **Release Date:** August 26, 2016 @ 07:02:41
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ You can skip questions, but they will count as wrong, and Alexa will still sass 
 * **ID:** amzn1.echo-sdk-ams.app.0722a9d4-39c3-4b6f-bbae-bd4a9041e0f0
 * **ASIN:** B01DDA9PAE
 * **Author:** Veronica Guzzardi
-* **Release Date:** March 24, 2016 @ 01:38:56
+* **Release Date:** March 24, 2016 @ 02:38:56
 * **In-App Purchasing:** No

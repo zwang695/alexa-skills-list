@@ -20,5 +20,5 @@ Find out the latest price of gas by US state.  Data is retrieved from AAA in the
 * **ID:** amzn1.echo-sdk-ams.app.72fcd229-ff7a-444e-9445-5504b54575d7
 * **ASIN:** B01DCHI4KA
 * **Author:** Robert Jamison
-* **Release Date:** March 23, 2016 @ 13:52:46
+* **Release Date:** March 23, 2016 @ 14:52:46
 * **In-App Purchasing:** No

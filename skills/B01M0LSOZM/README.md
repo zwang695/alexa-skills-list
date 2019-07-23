@@ -20,5 +20,5 @@ Fun facts about all kinds of cats and interesting trivia to increase your knowle
 * **ID:** amzn1.ask.skill.c3098dcf-d6ce-424a-8c62-e41ac75a2e94
 * **ASIN:** B01M0LSOZM
 * **Author:** Scott sipe
-* **Release Date:** October 4, 2016 @ 01:42:18
+* **Release Date:** October 4, 2016 @ 02:42:18
 * **In-App Purchasing:** No

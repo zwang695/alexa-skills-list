@@ -20,5 +20,5 @@ This skill is a  game to test your knowledge of our U.S. state nicknames.  Alexa
 * **ID:** amzn1.echo-sdk-ams.app.8557b6b0-a1b9-46b1-a0c9-ecde22ea5910
 * **ASIN:** B01J4T0B8S
 * **Author:** ctsif
-* **Release Date:** July 28, 2016 @ 10:56:41
+* **Release Date:** July 28, 2016 @ 11:56:41
 * **In-App Purchasing:** No

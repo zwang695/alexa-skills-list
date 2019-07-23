@@ -20,5 +20,5 @@ Tells the date time of US West, East, London, India and Japan
 * **ID:** amzn1.ask.skill.aeb99915-9cf1-49a6-b850-3df5433ecb1a
 * **ASIN:** B01M58QEDQ
 * **Author:** ERBABU
-* **Release Date:** October 14, 2016 @ 02:16:44
+* **Release Date:** October 14, 2016 @ 03:16:44
 * **In-App Purchasing:** No

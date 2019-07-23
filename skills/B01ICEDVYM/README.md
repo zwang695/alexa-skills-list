@@ -20,5 +20,5 @@ This skill allows users to learn about vinyl records.  These facts are uncommon 
 * **ID:** amzn1.echo-sdk-ams.app.1d52dfee-6fde-4576-b913-1e4485822376
 * **ASIN:** B01ICEDVYM
 * **Author:** Corey
-* **Release Date:** July 18, 2016 @ 05:57:29
+* **Release Date:** July 18, 2016 @ 06:57:29
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ You can ask for details for each suggestion and get additional information.
 * **ID:** amzn1.ask.skill.97d45936-1c1a-46fb-9625-d0b671b35dc5
 * **ASIN:** B01NCPN27G
 * **Author:** Alejandro Panizza
-* **Release Date:** December 26, 2016 @ 02:19:09
+* **Release Date:** December 26, 2016 @ 03:19:09
 * **In-App Purchasing:** No

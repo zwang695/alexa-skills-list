@@ -20,7 +20,7 @@ With the Amazon Restaurants skill, reordering the food you crave from your favor
 * **ID:** amzn1.ask.skill.3185f0b0-f30a-4494-8643-c23fce38c597
 * **ASIN:** B01M2CXB4G
 * **Author:** Amazon
-* **Release Date:** December 30, 2016 @ 13:49:05
+* **Release Date:** December 30, 2016 @ 14:49:05
 * **Privacy Policy:** https://www.amazon.com/gp/help/customer/display.html/ref=pn_lp_ppol?ie=UTF8&nodeId=468496
 * **Terms of Use:** https://www.amazon.com/gp/help/customer/display.html/ref=pn_lp_cos?nodeId=508088
 * **In-App Purchasing:** Yes

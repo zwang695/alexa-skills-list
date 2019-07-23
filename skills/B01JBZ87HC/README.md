@@ -22,5 +22,5 @@ Note: This skill is not related to official Pokemon Go game owners and its devel
 * **ID:** amzn1.ask.skill.f6078d3c-bf06-4956-9f0b-630ae19cc154
 * **ASIN:** B01JBZ87HC
 * **Author:** Arpita
-* **Release Date:** August 9, 2016 @ 03:07:34
+* **Release Date:** August 9, 2016 @ 04:07:34
 * **In-App Purchasing:** No

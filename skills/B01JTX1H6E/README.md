@@ -20,5 +20,5 @@ Ask Alexa to provide a common boy name
 * **ID:** amzn1.ask.skill.8b3e901a-da34-4246-a61d-9eb369e34a23
 * **ASIN:** B01JTX1H6E
 * **Author:** Soccer Frisbee
-* **Release Date:** August 10, 2016 @ 02:08:08
+* **Release Date:** August 10, 2016 @ 03:08:08
 * **In-App Purchasing:** No

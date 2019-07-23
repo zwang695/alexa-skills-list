@@ -28,7 +28,7 @@ A list of example commands includes:
 * **ID:** amzn1.ask.skill.3be844fa-242a-404b-8c76-9094b875dcb1
 * **ASIN:** B01NBB0W8G
 * **Author:** Honeywell
-* **Release Date:** December 15, 2016 @ 21:49:54
+* **Release Date:** December 15, 2016 @ 22:49:54
 * **Privacy Policy:** http://yourhome.honeywell.com/privacy-statement
 * **Terms of Use:** http://yourhome.honeywell.com/terms-and-conditions
 * **In-App Purchasing:** No

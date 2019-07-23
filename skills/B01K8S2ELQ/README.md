@@ -26,5 +26,5 @@ Go Blue!
 * **ID:** amzn1.ask.skill.5e652484-9e52-4041-af6f-605478761f18
 * **ASIN:** B01K8S2ELQ
 * **Author:** Casey Bain
-* **Release Date:** August 26, 2016 @ 07:02:37
+* **Release Date:** August 26, 2016 @ 08:02:37
 * **In-App Purchasing:** No

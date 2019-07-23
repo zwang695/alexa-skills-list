@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.72fa6272-9a53-42a3-8cd4-f84b1f0bffb3
 * **ASIN:** B01N1L0UUN
 * **Author:** Daniel Wenzel
-* **Release Date:** November 28, 2016 @ 07:35:32
+* **Release Date:** November 28, 2016 @ 08:35:32
 * **In-App Purchasing:** No

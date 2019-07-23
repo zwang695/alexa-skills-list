@@ -20,5 +20,5 @@ With the help of Frontend Quiz you can test your HTML, CSS and Javascript knowle
 * **ID:** amzn1.echo-sdk-ams.app.e6e494b6-6a39-48e1-a10d-292430a1cc63
 * **ASIN:** B01COZ3HO4
 * **Author:** POSSIBLE
-* **Release Date:** March 8, 2016 @ 03:20:51
+* **Release Date:** March 8, 2016 @ 04:20:51
 * **In-App Purchasing:** No

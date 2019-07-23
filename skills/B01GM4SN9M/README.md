@@ -22,5 +22,5 @@ Icons made by Freepik(http://www.freepik.com)  from www.flaticon.com is licensed
 * **ID:** amzn1.echo-sdk-ams.app.c378e1ef-b8d4-41cc-a905-6c5a9af147a7
 * **ASIN:** B01GM4SN9M
 * **Author:** Nish
-* **Release Date:** June 17, 2016 @ 07:45:34
+* **Release Date:** June 17, 2016 @ 08:45:34
 * **In-App Purchasing:** No

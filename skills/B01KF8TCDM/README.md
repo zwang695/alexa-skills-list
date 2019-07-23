@@ -22,5 +22,5 @@ Icon made by Roundicons from www.flaticon.com.
 * **ID:** amzn1.ask.skill.bc548160-8bf3-4ee5-9436-593749d0b14c
 * **ASIN:** B01KF8TCDM
 * **Author:** valoriedodge
-* **Release Date:** September 4, 2016 @ 05:03:20
+* **Release Date:** September 4, 2016 @ 06:03:20
 * **In-App Purchasing:** No

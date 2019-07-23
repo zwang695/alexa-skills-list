@@ -20,5 +20,5 @@ Learn about the United States through data from the U.S. Census Bureau. This ski
 * **ID:** amzn1.ask.skill.63f59230-646f-498a-bbb2-9b9fd0374e5a
 * **ASIN:** B01LVXBNV0
 * **Author:** Russell Lyons
-* **Release Date:** September 18, 2016 @ 01:42:07
+* **Release Date:** September 18, 2016 @ 02:42:07
 * **In-App Purchasing:** No

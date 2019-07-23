@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.f9369d87-1456-4d20-b963-a726b139d061
 * **ASIN:** B01M22ZHY3
 * **Author:** David Levente Dozsa
-* **Release Date:** October 14, 2016 @ 01:45:59
+* **Release Date:** October 14, 2016 @ 02:45:59
 * **In-App Purchasing:** No

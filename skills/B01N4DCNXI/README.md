@@ -29,5 +29,5 @@ Note: sometimes the fact will say "and get rekt" at the end.
 * **ID:** amzn1.ask.skill.a972f17b-f85d-4ede-84c4-2cef086c1d97
 * **ASIN:** B01N4DCNXI
 * **Author:** Patrick Nako
-* **Release Date:** December 13, 2016 @ 06:20:25
+* **Release Date:** December 13, 2016 @ 07:20:25
 * **In-App Purchasing:** No

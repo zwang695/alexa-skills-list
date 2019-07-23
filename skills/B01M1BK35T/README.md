@@ -20,5 +20,5 @@ The Snow Summit Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.999d641e-f753-4511-bcce-993d65377b9c
 * **ASIN:** B01M1BK35T
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:16:40
+* **Release Date:** October 20, 2016 @ 04:16:40
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ever wanted to know more about the world you live in? Here's your chance with Ea
 * **ID:** amzn1.ask.skill.1a1113e8-34fc-417f-8c15-4c3b1cc7a807
 * **ASIN:** B01MSJ2BTC
 * **Author:** Wiliam X
-* **Release Date:** November 10, 2016 @ 00:43:19
+* **Release Date:** November 10, 2016 @ 01:43:19
 * **In-App Purchasing:** No

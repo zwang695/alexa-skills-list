@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.95332369-2420-43de-8d13-757b23437b84
 * **ASIN:** B01M4IHBH3
 * **Author:** Kwok
-* **Release Date:** October 21, 2016 @ 02:12:57
+* **Release Date:** October 21, 2016 @ 03:12:57
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ You can get a Dean Kamen quote by saying: "Alexa, ask Dean Kamen for a quote" or
 * **ID:** amzn1.ask.skill.944b8687-135c-4283-8bde-790046a9565e
 * **ASIN:** B01N3QN9HQ
 * **Author:** Blarry
-* **Release Date:** November 13, 2016 @ 08:12:59
+* **Release Date:** November 13, 2016 @ 09:12:59
 * **In-App Purchasing:** No

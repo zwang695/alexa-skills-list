@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.1f6f1f61-eded-4605-8c03-138abefd3a01
 * **ASIN:** B01N9CETY7
 * **Author:** bfour
-* **Release Date:** December 3, 2016 @ 01:05:28
+* **Release Date:** December 3, 2016 @ 02:05:28
 * **In-App Purchasing:** No

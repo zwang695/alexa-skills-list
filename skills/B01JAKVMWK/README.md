@@ -20,5 +20,5 @@ Want to learn more about our most hospitable neighboring planet? Give Martian fa
 * **ID:** amzn1.ask.skill.1de1d861-ef0f-44b8-9d7c-cda512d53fbe
 * **ASIN:** B01JAKVMWK
 * **Author:** Cornerstone Software Creations LLC
-* **Release Date:** August 1, 2016 @ 07:26:30
+* **Release Date:** August 1, 2016 @ 08:26:30
 * **In-App Purchasing:** No

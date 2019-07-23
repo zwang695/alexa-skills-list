@@ -28,5 +28,5 @@ Alexa will respond with the number possible ways to choose 3 unordered items fro
 * **ID:** amzn1.echo-sdk-ams.app.6cad36bc-7702-4e7f-ab5b-d9ad223f9ff4
 * **ASIN:** B01GSTMZ4U
 * **Author:** worldengine
-* **Release Date:** June 9, 2016 @ 09:09:36
+* **Release Date:** June 9, 2016 @ 10:09:36
 * **In-App Purchasing:** No

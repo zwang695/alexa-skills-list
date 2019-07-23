@@ -20,5 +20,5 @@ Are you interested in the deaths of famous people? Rely on Famous Deaths for the
 * **ID:** amzn1.echo-sdk-ams.app.1d75d6fb-7851-4fc2-86f7-6d6a9d83ea24
 * **ASIN:** B01DLEMOVE
 * **Author:** Appbly.com
-* **Release Date:** March 31, 2016 @ 06:32:22
+* **Release Date:** March 31, 2016 @ 07:32:22
 * **In-App Purchasing:** No

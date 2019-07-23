@@ -20,5 +20,5 @@ How Alexa pronounce Chinese. Give you some Chinese food name pronounced in Chine
 * **ID:** amzn1.ask.skill.4d32ac9f-65d4-49ca-9257-4a429d0e28a7
 * **ASIN:** B01L5VEZRG
 * **Author:** Bill Cheng
-* **Release Date:** September 28, 2016 @ 18:13:52
+* **Release Date:** September 28, 2016 @ 19:13:52
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Use this Alexa skill to learn something new about the hidden past of numbers.
 * **ID:** amzn1.echo-sdk-ams.app.43241783-26d0-44be-af4c-80067cd9b009
 * **ASIN:** B01FNHEJ8I
 * **Author:** BLT Robotics
-* **Release Date:** May 19, 2016 @ 09:08:45
+* **Release Date:** May 19, 2016 @ 10:08:45
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ New features are being added, so please stay tuned.
 * **ID:** amzn1.echo-sdk-ams.app.8431aa0b-1be9-40bc-b59f-49830d18d968
 * **ASIN:** B01BH1URE4
 * **Author:** 王超
-* **Release Date:** February 4, 2016 @ 12:06:43
+* **Release Date:** February 4, 2016 @ 13:06:43
 * **In-App Purchasing:** No

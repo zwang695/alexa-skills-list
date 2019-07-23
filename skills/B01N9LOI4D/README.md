@@ -16,5 +16,5 @@ Play with the space geek and learn interesting facts about space!
 * **ID:** amzn1.ask.skill.8a8f215a-1a57-4769-81d9-b390e6fa6dc1
 * **ASIN:** B01N9LOI4D
 * **Author:** Kerim Satirli
-* **Release Date:** December 29, 2016 @ 01:49:19
+* **Release Date:** December 29, 2016 @ 02:49:19
 * **In-App Purchasing:** No

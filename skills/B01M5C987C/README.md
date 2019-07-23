@@ -39,6 +39,6 @@ Find more information about connecting smart home devices at http://amzn.to/291l
 * **ID:** amzn1.ask.skill.1d1f39ed-d516-4f4e-8668-4488f1598bdd
 * **ASIN:** B01M5C987C
 * **Author:** Lightwave RF
-* **Release Date:** November 1, 2016 @ 17:12:14
+* **Release Date:** November 1, 2016 @ 18:12:14
 * **Privacy Policy:** http://lightwaverfhost.co.uk/privacy.html
 * **In-App Purchasing:** No

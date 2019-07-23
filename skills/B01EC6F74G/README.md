@@ -18,5 +18,5 @@ Learn fun and educational facts about the great state of West Virginia,
 * **ID:** amzn1.echo-sdk-ams.app.afaeb504-8859-472b-b818-0b432a352044
 * **ASIN:** B01EC6F74G
 * **Author:** Killa Bee Software
-* **Release Date:** April 20, 2016 @ 15:32:31
+* **Release Date:** April 20, 2016 @ 16:32:31
 * **In-App Purchasing:** No

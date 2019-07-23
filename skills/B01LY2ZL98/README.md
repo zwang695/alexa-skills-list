@@ -20,5 +20,5 @@ The Aspen Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.2263bb79-b178-4d5b-ae06-261193c1d7f3
 * **ASIN:** B01LY2ZL98
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:43:24
+* **Release Date:** October 19, 2016 @ 11:43:24
 * **In-App Purchasing:** No

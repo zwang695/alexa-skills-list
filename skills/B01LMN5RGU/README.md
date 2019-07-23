@@ -29,5 +29,5 @@ Alderton, D. The Complete Guide to Tropical Aquarium Fish Care Howell Books, New
 * **ID:** amzn1.ask.skill.898409e7-dc1d-4079-9c59-a10718fde437
 * **ASIN:** B01LMN5RGU
 * **Author:** Matt Mitchell
-* **Release Date:** September 8, 2016 @ 02:03:54
+* **Release Date:** September 8, 2016 @ 03:03:54
 * **In-App Purchasing:** No

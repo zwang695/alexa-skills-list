@@ -20,5 +20,5 @@ This skill provides key information about North Wales
 * **ID:** amzn1.ask.skill.528ee336-708f-4e27-9359-604a28d4c529
 * **ASIN:** B01K6MK3QW
 * **Author:** Don Sit
-* **Release Date:** August 11, 2016 @ 02:37:59
+* **Release Date:** August 11, 2016 @ 03:37:59
 * **In-App Purchasing:** No

@@ -36,7 +36,7 @@ Disclaimer: The ClearPass Info skill may not be suitable for all ages
 * **ID:** amzn1.echo-sdk-ams.app.3705ba47-dc56-4fd8-b294-ef0191718663
 * **ASIN:** B01HT9LH3S
 * **Author:** Aruba Networks
-* **Release Date:** August 29, 2016 @ 01:33:35
+* **Release Date:** August 29, 2016 @ 02:33:35
 * **Privacy Policy:** http://www.arubanetworks.com/en-au/privacy-policy/
 * **Terms of Use:** http://www.arubanetworks.com/en-au/terms-of-service/
 * **In-App Purchasing:** No

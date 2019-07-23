@@ -20,5 +20,5 @@ The Mont Ripley Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.a44b624b-f43c-48c4-813c-21ce3fe94431
 * **ASIN:** B01M7RZ0KG
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 13:44:48
+* **Release Date:** October 21, 2016 @ 14:44:48
 * **In-App Purchasing:** No

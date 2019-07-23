@@ -21,5 +21,5 @@ Simply enable this skill and then say "Alexa, open dad jokes and tell me a joke"
 * **ID:** amzn1.ask.skill.7782281f-c7a6-4075-8dfc-1f7f42f75d89
 * **ASIN:** B01L4SQXE8
 * **Author:** Joshua Morris
-* **Release Date:** August 30, 2016 @ 02:03:03
+* **Release Date:** August 30, 2016 @ 03:03:03
 * **In-App Purchasing:** No

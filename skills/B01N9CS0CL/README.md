@@ -43,6 +43,6 @@ Alexa skills get better faster with feedback from users.  Please visit vacu.org/
 * **ID:** amzn1.echo-sdk-ams.app.4ede6daa-cad8-4f80-a7e4-d3f7f616edba
 * **ASIN:** B01N9CS0CL
 * **Author:** Virginia Credit Union
-* **Release Date:** December 22, 2016 @ 06:49:07
+* **Release Date:** December 22, 2016 @ 07:49:07
 * **Privacy Policy:** https://www.vacu.org/Privacy.aspx
 * **In-App Purchasing:** No

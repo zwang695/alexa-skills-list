@@ -20,5 +20,5 @@ Hiking tips, gear hints
 * **ID:** amzn1.echo-sdk-ams.app.18c42dca-a0a8-4692-96c9-9351b523dc3c
 * **ASIN:** B01IS76JHO
 * **Author:** William Hoover
-* **Release Date:** July 28, 2016 @ 09:56:49
+* **Release Date:** July 28, 2016 @ 10:56:49
 * **In-App Purchasing:** No

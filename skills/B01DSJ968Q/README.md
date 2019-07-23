@@ -25,5 +25,5 @@ To answer, say "the answer is" followed by the answer
 * **ID:** amzn1.echo-sdk-ams.app.88ae8387-578c-491a-905b-50713d2271ff
 * **ASIN:** B01DSJ968Q
 * **Author:** Spraypaint
-* **Release Date:** April 13, 2016 @ 06:32:36
+* **Release Date:** April 13, 2016 @ 07:32:36
 * **In-App Purchasing:** No

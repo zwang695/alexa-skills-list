@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.62af18f5-565a-46c0-b319-b6c4b4e865cf
 * **ASIN:** B01MZ3XTS1
 * **Author:** Mike Croall
-* **Release Date:** December 29, 2016 @ 05:20:26
+* **Release Date:** December 29, 2016 @ 06:20:26
 * **In-App Purchasing:** No

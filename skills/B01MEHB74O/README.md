@@ -20,5 +20,5 @@ The Ski Brule Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.85294fd9-f328-46a9-bb64-a11af6ea267a
 * **ASIN:** B01MEHB74O
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:44:36
+* **Release Date:** October 21, 2016 @ 15:44:36
 * **In-App Purchasing:** No

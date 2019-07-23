@@ -21,5 +21,5 @@ It will give the city and state info for any U.S. city.
 * **ID:** amzn1.echo-sdk-ams.app.851cae27-975b-460e-9711-fbb4c1e6da89
 * **ASIN:** B01B1SGQFC
 * **Author:** Adnan Riaz
-* **Release Date:** January 25, 2016 @ 10:06:01
+* **Release Date:** January 25, 2016 @ 11:06:01
 * **In-App Purchasing:** No

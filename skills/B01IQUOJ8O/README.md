@@ -20,5 +20,5 @@ In this game, 5 questions will test your knowledge about Rio de Janeiro, where t
 * **ID:** amzn1.ask.skill.69d5713a-1e02-4613-8c94-52eda6f55ef6
 * **ASIN:** B01IQUOJ8O
 * **Author:** Creative Busy Bee
-* **Release Date:** July 25, 2016 @ 04:56:42
+* **Release Date:** July 25, 2016 @ 05:56:42
 * **In-App Purchasing:** No

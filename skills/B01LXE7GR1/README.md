@@ -20,5 +20,5 @@ Do you love dogs? Do you think you know all about dogs? There are some interesti
 * **ID:** amzn1.ask.skill.d940c0e3-42fd-464a-85df-db2ad2858992
 * **ASIN:** B01LXE7GR1
 * **Author:** student
-* **Release Date:** October 4, 2016 @ 02:12:19
+* **Release Date:** October 4, 2016 @ 03:12:19
 * **In-App Purchasing:** No

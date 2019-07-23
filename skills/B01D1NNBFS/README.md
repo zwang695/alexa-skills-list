@@ -20,7 +20,7 @@ Name Nerd is a quick lookup version of the ever popular namenerds.com site. You 
 * **ID:** amzn1.echo-sdk-ams.app.f89e2a23-35c3-4152-b246-7c4c5cf40b7f
 * **ASIN:** B01D1NNBFS
 * **Author:** TsaTsaTzu
-* **Release Date:** March 16, 2016 @ 08:24:24
+* **Release Date:** March 16, 2016 @ 09:24:24
 * **Privacy Policy:** http://ocean-of-storms.com/tsatsatzu/legal/nn_privacy.htm
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/nn_terms.htm
 * **In-App Purchasing:** No

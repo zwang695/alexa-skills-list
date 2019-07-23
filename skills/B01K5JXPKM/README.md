@@ -20,6 +20,6 @@ Dog Trivia presents a series of trivia questions about dogs, with topics ranging
 * **ID:** amzn1.ask.skill.5fa46ebe-2712-42d4-b9ea-cdbc81a57258
 * **ASIN:** B01K5JXPKM
 * **Author:** Red Safi LLC
-* **Release Date:** August 11, 2016 @ 02:07:32
+* **Release Date:** August 11, 2016 @ 03:07:32
 * **Privacy Policy:** http://www.objectivasoftware.com/privacy/
 * **In-App Purchasing:** No

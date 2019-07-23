@@ -21,5 +21,5 @@ get a new fact by saying "Alexa, ask Dry Heat for an Arizona Fact."
 * **ID:** amzn1.echo-sdk-ams.app.d105b391-4432-4882-aea6-1f7cd349f117
 * **ASIN:** B01G07HFZ4
 * **Author:** BadBinary LTD
-* **Release Date:** May 25, 2016 @ 09:08:36
+* **Release Date:** May 25, 2016 @ 10:08:36
 * **In-App Purchasing:** No

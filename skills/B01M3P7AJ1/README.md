@@ -27,5 +27,5 @@ Icon art: Facing The Demogorgon by saqman
 * **ID:** amzn1.ask.skill.9d9022d1-6ba9-4a85-a89c-b5cc51437b7c
 * **ASIN:** B01M3P7AJ1
 * **Author:** Kathryn L Webb
-* **Release Date:** November 9, 2016 @ 22:13:07
+* **Release Date:** November 9, 2016 @ 23:13:07
 * **In-App Purchasing:** No

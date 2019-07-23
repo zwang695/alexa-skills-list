@@ -20,5 +20,5 @@ Feeling bored ? How about letting Alexa educate you with random interesting fact
 * **ID:** amzn1.ask.skill.70794418-aa79-48b7-a0ad-b1ffec9ae33a
 * **ASIN:** B01NACBW2E
 * **Author:** VasanthRaj
-* **Release Date:** December 1, 2016 @ 08:35:18
+* **Release Date:** December 1, 2016 @ 09:35:18
 * **In-App Purchasing:** No

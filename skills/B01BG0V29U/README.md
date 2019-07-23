@@ -24,7 +24,7 @@ New adventures will be added over time. If you'd like to suggest stories or corr
 * **ID:** amzn1.echo-sdk-ams.app.55c3b569-814d-4af1-b25a-d0809130b2b7
 * **ASIN:** B01BG0V29U
 * **Author:** Markley Enterprises LLC
-* **Release Date:** February 3, 2016 @ 18:16:12
+* **Release Date:** February 3, 2016 @ 19:16:12
 * **Privacy Policy:** http://www.joiney.com/privacy.html
 * **Terms of Use:** http://www.joiney.com/terms.html
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Loch Lomond Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.22869f9b-0765-48e2-afa6-962ad8dec0e2
 * **ASIN:** B01N3JSH9U
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:13:38
+* **Release Date:** November 5, 2016 @ 12:13:38
 * **In-App Purchasing:** No

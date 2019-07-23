@@ -20,5 +20,5 @@ Learn about Vietnamese trivia from how many people live in the country to what V
 * **ID:** amzn1.ask.skill.334f340a-5345-4a4c-91f7-e79f0009bd0e
 * **ASIN:** B01M19827Z
 * **Author:** Emily Lam
-* **Release Date:** October 4, 2016 @ 02:13:19
+* **Release Date:** October 4, 2016 @ 03:13:19
 * **In-App Purchasing:** No

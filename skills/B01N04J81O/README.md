@@ -20,5 +20,5 @@ You can use World Countries to find which countries are located in which region 
 * **ID:** amzn1.ask.skill.d1e0280c-dc29-45ef-a6ff-61760b4cf99e
 * **ASIN:** B01N04J81O
 * **Author:** Brian Wyka
-* **Release Date:** November 17, 2016 @ 00:05:46
+* **Release Date:** November 17, 2016 @ 01:05:46
 * **In-App Purchasing:** No

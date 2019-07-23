@@ -20,5 +20,5 @@ This skill is intended for runners or non-runners interested in learning facts a
 * **ID:** amzn1.ask.skill.5559ed36-2492-43d4-964a-bd1c6f9ce598
 * **ASIN:** B01N1N8DK8
 * **Author:** Instant Analytics
-* **Release Date:** December 6, 2016 @ 01:36:19
+* **Release Date:** December 6, 2016 @ 02:36:19
 * **In-App Purchasing:** No

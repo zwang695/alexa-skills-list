@@ -16,5 +16,5 @@ Alexa will tell the user a random state and its capital in the United States.
 * **ID:** amzn1.ask.skill.8b5e301a-c298-4dfd-999b-138599e1e9cd
 * **ASIN:** B01LZD4SL6
 * **Author:** Charlotte Abrams
-* **Release Date:** October 19, 2016 @ 01:42:39
+* **Release Date:** October 19, 2016 @ 02:42:39
 * **In-App Purchasing:** No

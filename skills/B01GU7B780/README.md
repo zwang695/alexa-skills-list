@@ -29,5 +29,5 @@ During the game, you can:
 * **ID:** amzn1.echo-sdk-ams.app.04a689a8-5681-4e2a-92ec-4156b849661d
 * **ASIN:** B01GU7B780
 * **Author:** Amazon
-* **Release Date:** June 10, 2016 @ 09:39:51
+* **Release Date:** June 10, 2016 @ 10:39:51
 * **In-App Purchasing:** No

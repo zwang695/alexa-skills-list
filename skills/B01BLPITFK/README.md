@@ -41,7 +41,7 @@ SETUP: Enable the skill on Alexa and use your Almond account credentials to logi
 * **ID:** amzn1.echo-sdk-ams.app.0afff5d3-1615-4c87-af8d-f9e116998d33
 * **ASIN:** B01BLPITFK
 * **Author:** Securifi Inc.
-* **Release Date:** February 9, 2016 @ 11:06:04
+* **Release Date:** February 9, 2016 @ 12:06:04
 * **Privacy Policy:** https://connect.securifi.com/prpo
 * **Terms of Use:** https://connect.securifi.com/tou
 * **Account Linking Domains:** securifi.com, google-anaytics.com, wiki.securifi.com, connect.securifi.com

@@ -29,5 +29,5 @@ And then say "next" or "skip" until you've come across a cuisine that fits your 
 * **ID:** amzn1.ask.skill.330bad2b-1dcc-44e4-b5a2-517a219d8bf4
 * **ASIN:** B01MZ4GZW9
 * **Author:** Fahad
-* **Release Date:** January 3, 2017 @ 01:19:10
+* **Release Date:** January 3, 2017 @ 02:19:10
 * **In-App Purchasing:** No

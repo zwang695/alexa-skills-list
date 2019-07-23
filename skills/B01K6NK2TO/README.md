@@ -20,5 +20,5 @@ Skill provides Grand parents with practical low cost methods to engage grand chi
 * **ID:** amzn1.ask.skill.0bf2bd18-70d8-43d2-8712-c1714d0d9433
 * **ASIN:** B01K6NK2TO
 * **Author:** Don Sit
-* **Release Date:** August 13, 2016 @ 04:07:47
+* **Release Date:** August 13, 2016 @ 05:07:47
 * **In-App Purchasing:** No

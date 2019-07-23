@@ -20,5 +20,5 @@ Are you planning to visit Berlin for a daytrip? Or are you just interested in th
 * **ID:** amzn1.ask.skill.81e4899f-94e8-43f3-bce4-65bc1f03ef8c
 * **ASIN:** B01M1IO9CO
 * **Author:** FOOBAR
-* **Release Date:** September 28, 2016 @ 17:12:06
+* **Release Date:** September 28, 2016 @ 18:12:06
 * **In-App Purchasing:** No

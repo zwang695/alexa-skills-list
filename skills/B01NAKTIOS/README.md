@@ -21,5 +21,5 @@ This skill can provide you with endless quotes to help you get motivated wheneve
 * **ID:** amzn1.ask.skill.bd846ccf-84a7-4340-9249-5da185dfc1f7
 * **ASIN:** B01NAKTIOS
 * **Author:** Desmond Vehar
-* **Release Date:** December 21, 2016 @ 07:19:57
+* **Release Date:** December 21, 2016 @ 08:19:57
 * **In-App Purchasing:** No

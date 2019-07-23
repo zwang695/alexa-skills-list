@@ -40,7 +40,7 @@ The SexyHacker.com Team
 * **ID:** amzn1.echo-sdk-ams.app.3ecfceda-950d-4673-82f6-25d038344f68
 * **ASIN:** B01G6LOP9S
 * **Author:** More Than Rewards
-* **Release Date:** June 6, 2016 @ 08:38:32
+* **Release Date:** June 6, 2016 @ 09:38:32
 * **Privacy Policy:** http://www.morethanrewards.com/privacy.htm
 * **Terms of Use:** http://www.morethanrewards.com/terms-and-conditions.htm
 * **In-App Purchasing:** No

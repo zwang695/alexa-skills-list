@@ -20,5 +20,5 @@ The Ski Quechee Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.18b6626b-e829-4c33-8220-c88710f124ba
 * **ASIN:** B01MRF5BPQ
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:13:10
+* **Release Date:** November 4, 2016 @ 09:13:10
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Learn fun technology facts to share with you friends. For example did you know, 
 * **ID:** amzn1.ask.skill.8309eaef-c3c4-445f-9263-7d49c9cc00e6
 * **ASIN:** B01M5LA26Z
 * **Author:** Cranky Dad Studios
-* **Release Date:** November 9, 2016 @ 22:13:42
+* **Release Date:** November 9, 2016 @ 23:13:42
 * **In-App Purchasing:** No

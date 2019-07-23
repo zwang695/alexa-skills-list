@@ -20,5 +20,5 @@ This skill tells you a random famous quote every time you want to. Perfect when 
 * **ID:** amzn1.ask.skill.7c130fd8-4597-4c25-b431-6748e673cb95
 * **ASIN:** B01MTRY21F
 * **Author:** Imperium Apps GmbH
-* **Release Date:** December 3, 2016 @ 02:35:54
+* **Release Date:** December 3, 2016 @ 03:35:54
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Jiminy Peak Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.c42d44ed-b6cc-4eb3-8a55-4f9467651d34
 * **ASIN:** B01M8KNBMG
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:15:46
+* **Release Date:** October 21, 2016 @ 15:15:46
 * **In-App Purchasing:** No

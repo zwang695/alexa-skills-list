@@ -22,5 +22,5 @@ It is accurate up to 3 decimal places and offers an answer in both feet and mete
 * **ID:** amzn1.ask.skill.23cee79e-94dc-4f9a-b7ab-79b78d743d31
 * **ASIN:** B01N0JTJ5M
 * **Author:** OctaBytes
-* **Release Date:** November 28, 2016 @ 02:35:03
+* **Release Date:** November 28, 2016 @ 03:35:03
 * **In-App Purchasing:** No

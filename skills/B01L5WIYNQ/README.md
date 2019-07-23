@@ -20,5 +20,5 @@ Interesting facts about eating in China. This skill is not sponsored or endorsed
 * **ID:** amzn1.ask.skill.7dbfa969-6944-4761-b745-9316097d828d
 * **ASIN:** B01L5WIYNQ
 * **Author:** Bill Cheng
-* **Release Date:** October 3, 2016 @ 06:42:03
+* **Release Date:** October 3, 2016 @ 07:42:03
 * **In-App Purchasing:** No

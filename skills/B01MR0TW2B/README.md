@@ -20,5 +20,5 @@ This skill will generate a random presidential fact when the user says "Alexa Op
 * **ID:** amzn1.ask.skill.cd1289b2-7dd7-42eb-8f0b-18eb06545e8e
 * **ASIN:** B01MR0TW2B
 * **Author:** Sreeya Sai
-* **Release Date:** December 31, 2016 @ 00:19:56
+* **Release Date:** December 31, 2016 @ 01:19:56
 * **In-App Purchasing:** No

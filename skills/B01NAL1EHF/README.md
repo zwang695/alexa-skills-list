@@ -20,7 +20,7 @@ A Gamez Facts App for sharing facts for games. Shares facts for popular game fig
 * **ID:** amzn1.ask.skill.c6c86aa0-171b-46ed-8300-caf47d1149fc
 * **ASIN:** B01NAL1EHF
 * **Author:** VJ
-* **Release Date:** December 21, 2016 @ 06:49:26
+* **Release Date:** December 21, 2016 @ 07:49:26
 * **Privacy Policy:** https://github.com/vasujain/pokedesc-howto-alexa-skill/blob/master/Privacy%20Policy.md
 * **Terms of Use:** https://github.com/vasujain/pokedesc-howto-alexa-skill/blob/master/Terms%20of%20Use.md
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Gives interesting facts about aviation.
 * **ID:** amzn1.ask.skill.f287f1e7-cb7f-4f97-b5d4-68b6f85a635f
 * **ASIN:** B01N3OGI83
 * **Author:** Christopher Kuzma
-* **Release Date:** November 16, 2016 @ 02:06:59
+* **Release Date:** November 16, 2016 @ 03:06:59
 * **In-App Purchasing:** No

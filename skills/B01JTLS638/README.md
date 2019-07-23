@@ -20,5 +20,5 @@ Do you "dwell in Possibility?" Modern Bard wants to test your classical poetry s
 * **ID:** amzn1.ask.skill.541f2534-0d9c-4ce3-a5a9-1d0c9e449d49
 * **ASIN:** B01JTLS638
 * **Author:** Cadence
-* **Release Date:** August 10, 2016 @ 02:08:03
+* **Release Date:** August 10, 2016 @ 03:08:03
 * **In-App Purchasing:** No

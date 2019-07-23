@@ -20,5 +20,5 @@ Java tips
 * **ID:** amzn1.ask.skill.3ae67b61-3c1f-4243-92e2-f4d535bb4c58
 * **ASIN:** B01N2V6GGX
 * **Author:** Volodymyr Stefanyuk
-* **Release Date:** December 22, 2016 @ 04:49:17
+* **Release Date:** December 22, 2016 @ 05:49:17
 * **In-App Purchasing:** No

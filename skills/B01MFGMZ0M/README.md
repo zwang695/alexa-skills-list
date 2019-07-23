@@ -20,5 +20,5 @@ The Middlebury Snow Bowl Snow Report brought to you by SnoCountry brings you the
 * **ID:** amzn1.ask.skill.bc647f13-0e14-4baf-953b-4da19f922b7d
 * **ASIN:** B01MFGMZ0M
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:14:29
+* **Release Date:** November 4, 2016 @ 09:14:29
 * **In-App Purchasing:** No

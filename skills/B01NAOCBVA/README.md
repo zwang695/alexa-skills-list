@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.d5274525-739a-40e0-acb5-c66ede42e64d
 * **ASIN:** B01NAOCBVA
 * **Author:** Monika Wiest
-* **Release Date:** January 3, 2017 @ 08:23:13
+* **Release Date:** January 3, 2017 @ 09:23:13
 * **In-App Purchasing:** No

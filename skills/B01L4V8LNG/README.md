@@ -20,5 +20,5 @@ Asks the user what the capital of a selection countries is. The options are sele
 * **ID:** amzn1.ask.skill.cf78d4c1-f395-44d3-a58e-8078650f49de
 * **ASIN:** B01L4V8LNG
 * **Author:** Winston Wright
-* **Release Date:** August 30, 2016 @ 07:02:49
+* **Release Date:** August 30, 2016 @ 08:02:49
 * **In-App Purchasing:** No

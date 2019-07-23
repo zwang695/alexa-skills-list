@@ -20,5 +20,5 @@ Alan Perlis quotes to make you think and ponder the nature of computing.
 * **ID:** amzn1.ask.skill.79f4764a-e943-418c-9ac5-5c25a916aea9
 * **ASIN:** B01MD0ELRI
 * **Author:** Ilan Pillemer
-* **Release Date:** November 4, 2016 @ 02:43:27
+* **Release Date:** November 4, 2016 @ 03:43:27
 * **In-App Purchasing:** No

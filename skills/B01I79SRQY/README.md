@@ -20,5 +20,5 @@ Gives random facts about Harry Potter
 * **ID:** amzn1.echo-sdk-ams.app.61fad107-3666-4473-8f37-b7ec41618a8d
 * **ASIN:** B01I79SRQY
 * **Author:** Ben Johnson
-* **Release Date:** July 27, 2016 @ 03:26:30
+* **Release Date:** July 27, 2016 @ 04:26:30
 * **In-App Purchasing:** No

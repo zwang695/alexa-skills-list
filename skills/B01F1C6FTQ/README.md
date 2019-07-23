@@ -20,5 +20,5 @@ Gives you a chance to show how much you know about sci fi movies and tv shows.  
 * **ID:** amzn1.echo-sdk-ams.app.945a0ff6-0826-4565-83c8-914affb8536f
 * **ASIN:** B01F1C6FTQ
 * **Author:** self
-* **Release Date:** May 5, 2016 @ 16:08:38
+* **Release Date:** May 5, 2016 @ 17:08:38
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ To use the Conversation Starters skill, try saying...
 * **ID:** amzn1.ask.skill.6cc4b3b5-fbe3-43a3-a595-c73a933711c3
 * **ASIN:** B01N7AXE9W
 * **Author:** Joby Joseph
-* **Release Date:** November 29, 2016 @ 04:35:56
+* **Release Date:** November 29, 2016 @ 05:35:56
 * **In-App Purchasing:** No

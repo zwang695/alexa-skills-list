@@ -22,5 +22,5 @@ Who died today gives you information about famous people who died in the past on
 * **ID:** amzn1.ask.skill.602388f4-876b-44a3-b239-1e9a52df2eef
 * **ASIN:** B01LYOESR0
 * **Author:** Chris Koos
-* **Release Date:** October 3, 2016 @ 03:12:15
+* **Release Date:** October 3, 2016 @ 04:12:15
 * **In-App Purchasing:** No

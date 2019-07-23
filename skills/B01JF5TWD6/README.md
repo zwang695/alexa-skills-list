@@ -20,5 +20,5 @@ Go ahead and ask Alexa for a flat earth fact and she can now tell you or your do
 * **ID:** amzn1.echo-sdk-ams.app.98076742-0796-4a8a-9f8e-8f71635273b0
 * **ASIN:** B01JF5TWD6
 * **Author:** Cramer Technologies LLC
-* **Release Date:** August 1, 2016 @ 09:56:44
+* **Release Date:** August 1, 2016 @ 10:56:44
 * **In-App Purchasing:** No

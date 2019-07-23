@@ -38,7 +38,7 @@ This skill may not be suitable for all ages as it allows new user sign up and/or
 * **ID:** amzn1.ask.skill.422d2396-b446-4fd5-9c55-0a1fef52949d
 * **ASIN:** B01KSPJ7FA
 * **Author:** CAO Gadgets, LLC
-* **Release Date:** September 7, 2016 @ 14:33:32
+* **Release Date:** September 7, 2016 @ 15:33:32
 * **Privacy Policy:** https://www.mytaglist.com/about.html#privacy
 * **Account Linking Domains:** www.mytaglist.com, mytaglist.com, www.wirelesstag.net, wirelesstag.net
 * **In-App Purchasing:** No

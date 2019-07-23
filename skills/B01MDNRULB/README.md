@@ -21,5 +21,5 @@ Test your knowledge of the Overwatch lore and gameplay.
 * **ID:** amzn1.ask.skill.2f7c6569-fe07-4d0d-8eb5-392488300735
 * **ASIN:** B01MDNRULB
 * **Author:** No Company
-* **Release Date:** October 26, 2016 @ 01:47:04
+* **Release Date:** October 26, 2016 @ 02:47:04
 * **In-App Purchasing:** No

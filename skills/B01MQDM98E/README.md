@@ -20,5 +20,5 @@ The Powder Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.46e9d4bc-6c83-4103-8c23-164266f5fc82
 * **ASIN:** B01MQDM98E
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:43:21
+* **Release Date:** November 4, 2016 @ 09:43:21
 * **In-App Purchasing:** No

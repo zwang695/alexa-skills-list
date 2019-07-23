@@ -22,5 +22,5 @@ And if you're also a big movie fan then check out Titus' brother Milo.  The Milo
 * **ID:** amzn1.echo-sdk-ams.app.5ec69ff7-5f29-47b8-9ec9-f8a319164c4b
 * **ASIN:** B01DJT93IS
 * **Author:** techdad24.com
-* **Release Date:** March 30, 2016 @ 06:32:37
+* **Release Date:** March 30, 2016 @ 07:32:37
 * **In-App Purchasing:** No

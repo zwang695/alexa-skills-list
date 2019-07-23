@@ -24,7 +24,7 @@ To use the voice dial feature, you can either register as a new user or login wi
 * **ID:** amzn1.echo-sdk-ams.app.adf4e9b1-c844-4fed-9966-4e21d3a04e30
 * **ASIN:** B019YJAFPM
 * **Author:** Ooma
-* **Release Date:** December 29, 2015 @ 14:31:12
+* **Release Date:** December 29, 2015 @ 15:31:12
 * **Privacy Policy:** http://www.ooma.com/privacy-policy
 * **Terms of Use:** http://www.ooma.com/terms-and-conditions-alexa/
 * **In-App Purchasing:** No

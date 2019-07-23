@@ -38,6 +38,6 @@ For help with the Wiser Air Alexa skill, please visit www.wiserair.com/support o
 * **ID:** amzn1.echo-sdk-ams.app.3127b7f5-8b52-4fa8-8107-64ac08eea339
 * **ASIN:** B01KW8U8OC
 * **Author:** Schneider Electric
-* **Release Date:** September 15, 2016 @ 20:11:31
+* **Release Date:** September 15, 2016 @ 21:11:31
 * **Privacy Policy:** http://www2.schneider-electric.com/sites/corporate/en/general/legal-information/data-privacy.page
 * **In-App Purchasing:** No

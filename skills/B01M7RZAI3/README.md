@@ -20,5 +20,5 @@ The Villa Olivia Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.f717f70e-e2b6-4585-ba0c-79eeab0602d3
 * **ASIN:** B01M7RZAI3
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:13:28
+* **Release Date:** October 21, 2016 @ 16:13:28
 * **In-App Purchasing:** No

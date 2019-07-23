@@ -20,5 +20,5 @@ Learn one Javier fact a day, a single serving Alexa skill brought to you by http
 * **ID:** amzn1.ask.skill.7f8c7dd4-9d73-4e4d-b9da-052747201b12
 * **ASIN:** B01N4H6L0G
 * **Author:** RESPONSIVE DEVICES, INC
-* **Release Date:** December 26, 2016 @ 22:49:24
+* **Release Date:** December 26, 2016 @ 23:49:24
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Test your knowledge of the popular hit TV show Walking Dead with trivia from the
 * **ID:** amzn1.ask.skill.73538011-db2a-43ee-9a2f-cf640fe0f722
 * **ASIN:** B01MXWXRGU
 * **Author:** Visual Solutions, Inc.
-* **Release Date:** December 19, 2016 @ 03:19:34
+* **Release Date:** December 19, 2016 @ 04:19:34
 * **In-App Purchasing:** No

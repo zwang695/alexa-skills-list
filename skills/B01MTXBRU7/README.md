@@ -22,5 +22,5 @@ Event data courtesy the Rochester Convention and Visitors Bureau. Reviews by loc
 * **ID:** amzn1.ask.skill.8cf23a4e-9391-4f76-b931-49d50a29fa37
 * **ASIN:** B01MTXBRU7
 * **Author:** Snapptuit
-* **Release Date:** December 7, 2016 @ 02:49:12
+* **Release Date:** December 7, 2016 @ 03:49:12
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill helps you to decide if you should keep, donate or throw away things f
 * **ID:** amzn1.ask.skill.8f149fb7-2f2a-493e-b28a-0ef15e91f0ae
 * **ASIN:** B01M6CVCB3
 * **Author:** MMW
-* **Release Date:** November 25, 2016 @ 03:39:29
+* **Release Date:** November 25, 2016 @ 04:39:29
 * **In-App Purchasing:** No

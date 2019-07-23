@@ -20,5 +20,5 @@ Cat Geek gives interesting facts about cats.  This is a list of facts on dogs.  
 * **ID:** amzn1.echo-sdk-ams.app.a8d2a385-c32e-48c2-8831-11b6b32e8586
 * **ASIN:** B01HCJ83LY
 * **Author:** Calvin Settachatgul
-* **Release Date:** June 22, 2016 @ 02:15:30
+* **Release Date:** June 22, 2016 @ 03:15:30
 * **In-App Purchasing:** No

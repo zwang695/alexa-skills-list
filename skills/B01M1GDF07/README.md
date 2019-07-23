@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.9b55a1c3-0d3f-436e-a109-93c5f4dc2d28
 * **ASIN:** B01M1GDF07
 * **Author:** GreenTurtwig
-* **Release Date:** October 6, 2016 @ 04:11:31
+* **Release Date:** October 6, 2016 @ 05:11:31
 * **In-App Purchasing:** No

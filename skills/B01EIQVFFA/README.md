@@ -16,7 +16,7 @@ To add smart lighting control to your home, you’ll need a Smart Bridge and at 
 * **ID:** amzn1.ask.skill.9580dbe1-649a-4d30-bff6-9e790c26d4fe
 * **ASIN:** B01EIQVFFA
 * **Author:** Lutron Electronics Co., Inc.
-* **Release Date:** April 19, 2016 @ 17:42:43
+* **Release Date:** April 19, 2016 @ 18:42:43
 * **Privacy Policy:** http://www.lutron.com/en-US/Pages/PrivacyPolicy.aspx
 * **Terms of Use:** http://www.casetawireless.com/Pages/legal.aspx
 * **Account Linking Domains:** device-login.lutron.com

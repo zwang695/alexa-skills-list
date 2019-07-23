@@ -24,5 +24,5 @@ Alexa, Ask Extended Selenium Two for add cookie documentation
 * **ID:** amzn1.echo-sdk-ams.app.42837a3d-73b9-4122-ad67-d1b859817129
 * **ASIN:** B01GLTHX8U
 * **Author:** Richard Huang
-* **Release Date:** June 7, 2016 @ 08:38:48
+* **Release Date:** June 7, 2016 @ 09:38:48
 * **In-App Purchasing:** No

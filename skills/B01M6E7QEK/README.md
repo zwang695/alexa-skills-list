@@ -18,5 +18,5 @@ A quiz to test your knowledge of who is who in the Refson Family
 * **ID:** amzn1.ask.skill.cf6de743-6869-485e-b7f4-d5e96f41e32a
 * **ASIN:** B01M6E7QEK
 * **Author:** srefson
-* **Release Date:** November 16, 2016 @ 03:05:10
+* **Release Date:** November 16, 2016 @ 04:05:10
 * **In-App Purchasing:** No

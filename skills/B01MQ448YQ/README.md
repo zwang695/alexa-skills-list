@@ -20,5 +20,5 @@ The Labrador Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.f5085396-a211-4b77-9ddf-8aa14540414e
 * **ASIN:** B01MQ448YQ
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:44:18
+* **Release Date:** October 26, 2016 @ 04:44:18
 * **In-App Purchasing:** No

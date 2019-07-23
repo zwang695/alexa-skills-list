@@ -20,7 +20,7 @@ Buddha, was a sage on whose teachings Buddhism was founded. He is believed to ha
 * **ID:** amzn1.echo-sdk-ams.app.a155866b-810d-465f-9d0f-5f00dd3ce660
 * **ASIN:** B01DJHGK7W
 * **Author:** srikar
-* **Release Date:** April 1, 2016 @ 02:32:31
+* **Release Date:** April 1, 2016 @ 03:32:31
 * **Privacy Policy:** http://oag.ca.gov/sites/all/files/agweb/pdfs/privacy/privacy_on_the_go.pdf
 * **Terms of Use:** http://oag.ca.gov/sites/all/files/agweb/pdfs/privacy/privacy_on_the_go.pdf
 * **In-App Purchasing:** No

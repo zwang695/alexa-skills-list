@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.e76902cd-ac40-4ab5-94ae-c7671b40d696
 * **ASIN:** B01MTV2MNW
 * **Author:** Roman Berla
-* **Release Date:** December 10, 2016 @ 07:49:04
+* **Release Date:** December 10, 2016 @ 08:49:04
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This Alexa skill's purpose is to bring a fencing 101 course to the hands of anyo
 * **ID:** amzn1.ask.skill.c64929cb-67b3-42b9-80a0-3cfc19a5a71a
 * **ASIN:** B01LH7SZME
 * **Author:** jlrojas
-* **Release Date:** September 10, 2016 @ 03:41:35
+* **Release Date:** September 10, 2016 @ 04:41:35
 * **In-App Purchasing:** No

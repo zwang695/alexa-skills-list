@@ -14,7 +14,7 @@ You will then be able to control your air conditioners with simple commands such
 * **ID:** amzn1.ask.skill.3ffc4acd-a82d-4ee4-8d3c-6d12aaec33ac
 * **ASIN:** B01HA3HAH0
 * **Author:** Sensibo
-* **Release Date:** August 10, 2016 @ 19:37:11
+* **Release Date:** August 10, 2016 @ 20:37:11
 * **Privacy Policy:** https://www.sensibo.com/pages/privacy-policy
 * **Account Linking Domains:** home.sensibo.com
 * **In-App Purchasing:** No

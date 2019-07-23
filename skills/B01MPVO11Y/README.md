@@ -26,5 +26,5 @@ Stay tuned for more features.
 * **ID:** amzn1.ask.skill.df054977-bd58-49b7-8ba0-befb1c36ecbf
 * **ASIN:** B01MPVO11Y
 * **Author:** Hari Rajaraman
-* **Release Date:** November 9, 2016 @ 00:45:22
+* **Release Date:** November 9, 2016 @ 01:45:22
 * **In-App Purchasing:** No

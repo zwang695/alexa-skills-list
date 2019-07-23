@@ -20,5 +20,5 @@ Recipe Finder can help you find a good recipe based on what you have in your fri
 * **ID:** amzn1.ask.skill.17960970-5e25-49bb-8270-f2c441194e05
 * **ASIN:** B01MTM9MUZ
 * **Author:** gshenar
-* **Release Date:** November 18, 2016 @ 00:35:27
+* **Release Date:** November 18, 2016 @ 01:35:27
 * **In-App Purchasing:** No

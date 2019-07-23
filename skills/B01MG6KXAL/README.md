@@ -20,5 +20,5 @@ Bored? Undecided on what movie to pick? Use this skill. The skill picks top movi
 * **ID:** amzn1.ask.skill.c3272c73-2b63-40c0-ac46-48a486204bd7
 * **ASIN:** B01MG6KXAL
 * **Author:** Personal
-* **Release Date:** November 17, 2016 @ 23:35:39
+* **Release Date:** November 18, 2016 @ 00:35:39
 * **In-App Purchasing:** No

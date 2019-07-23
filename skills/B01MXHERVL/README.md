@@ -20,5 +20,5 @@ The Sassy Magic 8 Ball skill is a lot like interacting with your typical magic 8
 * **ID:** amzn1.ask.skill.6bcf15f9-c154-46e4-9860-1070c21a7e6c
 * **ASIN:** B01MXHERVL
 * **Author:** Edmary Rosado
-* **Release Date:** November 11, 2016 @ 04:13:25
+* **Release Date:** November 11, 2016 @ 05:13:25
 * **In-App Purchasing:** No

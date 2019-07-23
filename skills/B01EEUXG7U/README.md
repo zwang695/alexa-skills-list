@@ -20,5 +20,5 @@ Learn trivia about the Burning Man camp The Phage, as well as its associated cam
 * **ID:** amzn1.echo-sdk-ams.app.d09b67af-aa88-45fe-b310-619dfdf1c061
 * **ASIN:** B01EEUXG7U
 * **Author:** Jeanie Conner
-* **Release Date:** April 20, 2016 @ 02:02:30
+* **Release Date:** April 20, 2016 @ 03:02:30
 * **In-App Purchasing:** No

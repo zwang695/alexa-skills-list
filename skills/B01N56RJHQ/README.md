@@ -23,5 +23,5 @@ For fans of the classic film The Princess Bride, this skill is an unofficial tri
 * **ID:** amzn1.ask.skill.99835192-ffee-44e1-b1a9-c95939691471
 * **ASIN:** B01N56RJHQ
 * **Author:** Joe Davis
-* **Release Date:** December 3, 2016 @ 06:05:36
+* **Release Date:** December 3, 2016 @ 07:05:36
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a fun game trivia game about Max.  See how much you know about Max!  Cha
 * **ID:** amzn1.echo-sdk-ams.app.13e7cced-9bf9-4a4b-a576-68999c335a97
 * **ASIN:** B01FX9B2UY
 * **Author:** Orion Magneto
-* **Release Date:** May 21, 2016 @ 02:39:03
+* **Release Date:** May 21, 2016 @ 03:39:03
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Please note: This skill is not affiliated with a candidate or campaign.
 * **ID:** amzn1.ask.skill.7be7a3d0-ff38-4643-9e45-cd063c98eb28
 * **ASIN:** B01IOIEW4Y
 * **Author:** Sea Woods
-* **Release Date:** July 20, 2016 @ 06:57:48
+* **Release Date:** July 20, 2016 @ 07:57:48
 * **In-App Purchasing:** No

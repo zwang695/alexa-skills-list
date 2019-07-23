@@ -20,5 +20,5 @@ Curious about the history of photography? Ask photography history buff for facts
 * **ID:** amzn1.ask.skill.cb767b8e-6d96-44d7-a68c-aba3efea258e
 * **ASIN:** B01IUQRGXO
 * **Author:** htse
-* **Release Date:** July 25, 2016 @ 06:56:26
+* **Release Date:** July 25, 2016 @ 07:56:26
 * **In-App Purchasing:** No

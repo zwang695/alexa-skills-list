@@ -20,5 +20,5 @@ Ask Bit Trade for the current Bitcoin price. It will be updated every few minute
 * **ID:** amzn1.ask.skill.0e020889-ffea-4511-8530-a039eb8d8ee5
 * **ASIN:** B01N41FCIH
 * **Author:** bitTRA.DE
-* **Release Date:** December 6, 2016 @ 04:49:44
+* **Release Date:** December 6, 2016 @ 05:49:44
 * **In-App Purchasing:** No

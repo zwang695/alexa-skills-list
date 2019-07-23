@@ -27,5 +27,5 @@ This skill is not sponsored, endorsed by or otherwise affiliated with Hawk Warga
 * **ID:** amzn1.ask.skill.e616107d-fa8e-4bea-88d4-8d2d266d8f58
 * **ASIN:** B01N9ECI0I
 * **Author:** DPHCoders
-* **Release Date:** December 17, 2016 @ 06:19:28
+* **Release Date:** December 17, 2016 @ 07:19:28
 * **In-App Purchasing:** No

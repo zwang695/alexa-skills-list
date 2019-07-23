@@ -20,5 +20,5 @@ Now you can ask Alexa to give you the current price of a Bitcoin.
 * **ID:** amzn1.ask.skill.aee1222c-6cb6-4bb7-89b9-1070f021c06e
 * **ASIN:** B01K9PE2A4
 * **Author:** jcn
-* **Release Date:** August 16, 2016 @ 07:25:58
+* **Release Date:** August 16, 2016 @ 08:25:58
 * **In-App Purchasing:** No

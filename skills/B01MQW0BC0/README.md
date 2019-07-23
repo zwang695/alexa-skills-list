@@ -20,7 +20,7 @@ Raising awareness for lost and found pets is critical in reuniting them with the
 * **ID:** amzn1.ask.skill.67754477-becd-49ab-ba26-9816c75547f3
 * **ASIN:** B01MQW0BC0
 * **Author:** PawBoost
-* **Release Date:** December 15, 2016 @ 04:49:37
+* **Release Date:** December 15, 2016 @ 05:49:37
 * **Privacy Policy:** https://www.pawboost.com/site/privacy-policy
 * **Terms of Use:** https://www.pawboost.com/site/terms-of-service
 * **In-App Purchasing:** No

@@ -21,5 +21,5 @@ Invocation Name: license plate finder
 * **ID:** amzn1.echo-sdk-ams.app.f55847dc-c72d-4b2d-8721-a2d3254fc30f
 * **ASIN:** B01HQU4W46
 * **Author:** SAMS Consulting
-* **Release Date:** July 4, 2016 @ 08:57:33
+* **Release Date:** July 4, 2016 @ 09:57:33
 * **In-App Purchasing:** No

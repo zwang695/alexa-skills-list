@@ -20,5 +20,5 @@ If you're a weather geek, and you like learning new things, this is the skill fo
 * **ID:** amzn1.ask.skill.81aa2f8a-8397-4ec7-81bc-565395ac59df
 * **ASIN:** B01MTV0ZXZ
 * **Author:** Thunderstruck
-* **Release Date:** December 2, 2016 @ 06:35:26
+* **Release Date:** December 2, 2016 @ 07:35:26
 * **In-App Purchasing:** No

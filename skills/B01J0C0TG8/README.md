@@ -52,5 +52,5 @@ Here are possible conversations:
 * **ID:** amzn1.ask.skill.d9b07b70-3e0c-4a80-a94e-1b6f6dd5800b
 * **ASIN:** B01J0C0TG8
 * **Author:** Adrien Chan
-* **Release Date:** August 3, 2016 @ 04:11:38
+* **Release Date:** August 3, 2016 @ 05:11:38
 * **In-App Purchasing:** No

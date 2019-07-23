@@ -20,5 +20,5 @@ Alexa rolls a die or two dice for you. Just ask Alexa to roll a die for you.
 * **ID:** amzn1.ask.skill.0b5edcbf-34ba-4d58-83a7-15d7cacc42be
 * **ASIN:** B01MYYDWVI
 * **Author:** Eduardo Urso
-* **Release Date:** December 13, 2016 @ 22:49:39
+* **Release Date:** December 13, 2016 @ 23:49:39
 * **In-App Purchasing:** No

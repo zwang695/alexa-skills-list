@@ -24,5 +24,5 @@ Install this skill to let Alexa bring you back to the early days of artificial i
 * **ID:** amzn1.echo-sdk-ams.app.36f04b0e-589d-47c1-b50f-0489c9e7877a
 * **ASIN:** B0184NR4P8
 * **Author:** Asimov
-* **Release Date:** November 17, 2015 @ 15:51:47
+* **Release Date:** November 17, 2015 @ 16:51:47
 * **In-App Purchasing:** No

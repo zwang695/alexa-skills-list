@@ -20,5 +20,5 @@ You are trying to escape from the Dangerous Field.  You can navigate by going no
 * **ID:** amzn1.echo-sdk-ams.app.4f97d1a7-f019-43f9-9340-e5d13e06b90c
 * **ASIN:** B01GM2L8AU
 * **Author:** Nathan
-* **Release Date:** June 8, 2016 @ 07:42:13
+* **Release Date:** June 8, 2016 @ 08:42:13
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Now with the icanhazdadjoke Alexa skill, you can teach Alexa to tell you a rando
 * **ID:** amzn1.ask.skill.5e8e8297-a82d-4134-ae3b-7d8392d8f326
 * **ASIN:** B01N6CQ3NZ
 * **Author:** Brett Langdon
-* **Release Date:** December 11, 2016 @ 01:49:30
+* **Release Date:** December 11, 2016 @ 02:49:30
 * **In-App Purchasing:** No

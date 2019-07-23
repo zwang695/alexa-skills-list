@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.babef84a-b785-4dbc-9638-83ec35b84bd9
 * **ASIN:** B01MRXZHKJ
 * **Author:** ProjectCoaching
-* **Release Date:** December 16, 2016 @ 06:19:37
+* **Release Date:** December 16, 2016 @ 07:19:37
 * **In-App Purchasing:** No

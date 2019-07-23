@@ -20,5 +20,5 @@ Ask for a compliment and you shall receive a beautiful compliment as ordered
 * **ID:** amzn1.ask.skill.bedd2fa5-3c04-4c5a-bcf0-5583058391e5
 * **ASIN:** B01MSQGGBY
 * **Author:** Austen Novis
-* **Release Date:** December 15, 2016 @ 02:19:50
+* **Release Date:** December 15, 2016 @ 03:19:50
 * **In-App Purchasing:** No

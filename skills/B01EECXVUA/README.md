@@ -20,5 +20,5 @@ This is an initial version of a fortune cookie or quote generator. The invocatio
 * **ID:** amzn1.echo-sdk-ams.app.64875a0c-dca4-4987-8e20-0ba80b0176c8
 * **ASIN:** B01EECXVUA
 * **Author:** Subhajit Bhattacherjee
-* **Release Date:** April 29, 2016 @ 02:08:37
+* **Release Date:** April 29, 2016 @ 03:08:37
 * **In-App Purchasing:** No

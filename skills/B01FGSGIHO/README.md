@@ -20,7 +20,7 @@ NBC gives Alexa all the information she needs to connect you with your favorite 
 * **ID:** amzn1.echo-sdk-ams.app.7c62b30e-b89d-494b-8b9e-00613b5f0d98
 * **ASIN:** B01FGSGIHO
 * **Author:** NBC Digital Media
-* **Release Date:** May 13, 2016 @ 10:38:36
+* **Release Date:** May 13, 2016 @ 11:38:36
 * **Privacy Policy:** http://www.nbcuni.com/privacy/
 * **Terms of Use:** http://www.nbc.com/terms
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Note: OxWod is not sponsored or endorsed or affiliated with OxBox Gym.
 * **ID:** amzn1.ask.skill.ffee5d8e-c7df-47df-adca-ca8ea19cc1a5
 * **ASIN:** B01N9FCHU4
 * **Author:** Panda Bears
-* **Release Date:** December 13, 2016 @ 02:19:41
+* **Release Date:** December 13, 2016 @ 03:19:41
 * **In-App Purchasing:** No

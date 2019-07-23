@@ -34,5 +34,5 @@ Additionally, please note that you will need an Amazon Echo device to use this S
 * **ID:** amzn1.echo-sdk-ams.app.91efe6f8-b76b-42d1-a156-6fe94bf684f5
 * **ASIN:** B01H0EHZB0
 * **Author:** Original Ventures Ltd
-* **Release Date:** June 15, 2016 @ 04:45:54
+* **Release Date:** June 15, 2016 @ 05:45:54
 * **In-App Purchasing:** No

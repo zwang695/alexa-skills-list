@@ -18,5 +18,5 @@ Simply say "Alexa, ask inspirational quotes to tell me a quote" and Alexa will r
 * **ID:** amzn1.ask.skill.41003e3e-335c-414b-b228-5b9044e86764
 * **ASIN:** B01M6C8GRD
 * **Author:** fofx
-* **Release Date:** November 4, 2016 @ 02:44:04
+* **Release Date:** November 4, 2016 @ 03:44:04
 * **In-App Purchasing:** No

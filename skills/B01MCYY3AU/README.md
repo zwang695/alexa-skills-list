@@ -24,6 +24,6 @@ When you’re ready to place an order, say “Alexa, ask Wingstop to order wings
 * **ID:** amzn1.ask.skill.a0452301-9815-433e-a4c5-5c538ee7504e
 * **ASIN:** B01MCYY3AU
 * **Author:** Wingstop
-* **Release Date:** December 21, 2016 @ 22:49:39
+* **Release Date:** December 21, 2016 @ 23:49:39
 * **Privacy Policy:** https://wingstop.olo.com/user/agreement
 * **In-App Purchasing:** Yes

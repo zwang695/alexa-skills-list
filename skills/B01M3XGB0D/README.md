@@ -20,5 +20,5 @@ Donald J. Trump has many insights on trade deals, China, and world affairs.  Pic
 * **ID:** amzn1.ask.skill.8d0cc552-d2e8-4bf1-a040-88c0be24bafc
 * **ASIN:** B01M3XGB0D
 * **Author:** Hatton Dev.
-* **Release Date:** November 2, 2016 @ 09:42:54
+* **Release Date:** November 2, 2016 @ 10:42:54
 * **In-App Purchasing:** No

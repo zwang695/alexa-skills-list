@@ -24,5 +24,5 @@ Find out if you know any of these daily useful facts
 * **ID:** amzn1.ask.skill.0b117af6-f053-4d97-b6c6-e7920fc2d2e9
 * **ASIN:** B01LY9UI2X
 * **Author:** DibbleCode
-* **Release Date:** October 5, 2016 @ 00:12:58
+* **Release Date:** October 5, 2016 @ 01:12:58
 * **In-App Purchasing:** No

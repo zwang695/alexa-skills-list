@@ -20,5 +20,5 @@ Gravy Boat can read you a recipe or just the ingredients or method. You can also
 * **ID:** amzn1.ask.skill.77ea7810-16f7-46b8-b815-724dc1513f3b
 * **ASIN:** B01LWQM6V6
 * **Author:** wakegreen
-* **Release Date:** October 11, 2016 @ 03:11:39
+* **Release Date:** October 11, 2016 @ 04:11:39
 * **In-App Purchasing:** No

@@ -36,7 +36,7 @@ If you have any questions, please also visit the LIGHTIFY FAQ: http://www.osram.
 * **ID:** amzn1.ask.skill.2fad1853-1fc7-40dc-a99c-b8a5ccaa5657
 * **ASIN:** B01MQ4O95Q
 * **Author:** OSRAM LIGHTIFY
-* **Release Date:** December 14, 2016 @ 16:49:18
+* **Release Date:** December 14, 2016 @ 17:49:18
 * **Privacy Policy:** http://www.osram.com/osram_com/landingpage/osram-lightify-privacy-policy/index.jsp?mkturl=lightify-privacy-policy
 * **Terms of Use:** http://www.osram.com/osram_com/landingpage/osram-lightify-terms-of-use/index.jsp?mkturl=lightify-terms-of-use
 * **Account Linking Domains:** lightify-api.org, eu.lightify-api.org

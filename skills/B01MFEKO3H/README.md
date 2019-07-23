@@ -20,5 +20,5 @@ This skill tells the driving distance between two locations using the Google Map
 * **ID:** amzn1.ask.skill.d99a38b9-9269-4f94-8dca-d36e6833c7a6
 * **ASIN:** B01MFEKO3H
 * **Author:** Anton Weber
-* **Release Date:** November 12, 2016 @ 00:13:52
+* **Release Date:** November 12, 2016 @ 01:13:52
 * **In-App Purchasing:** No

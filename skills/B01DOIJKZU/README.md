@@ -27,7 +27,7 @@ Please find our End User License Agreement in this link: http://garage.vonage.co
 * **ID:** amzn1.echo-sdk-ams.app.5adf6763-708e-47ba-b9bd-f666f1d46b05
 * **ASIN:** B01DOIJKZU
 * **Author:** Vonage
-* **Release Date:** July 29, 2016 @ 18:56:27
+* **Release Date:** July 29, 2016 @ 19:56:27
 * **Privacy Policy:** https://garage.vonage.com/privacy
 * **Terms of Use:** https://garage.vonage.com/eula/
 * **Account Linking Domains:** garage.vonage.com, vonageawsbackend.com

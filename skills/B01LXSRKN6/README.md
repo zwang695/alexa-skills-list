@@ -16,5 +16,5 @@ Bruce Lee remains the greatest icon of martial arts cinema and a key figure of m
 * **ID:** amzn1.ask.skill.20f3ef33-b2ac-4d99-af44-5bd8a1e32629
 * **ASIN:** B01LXSRKN6
 * **Author:** Charlie
-* **Release Date:** September 17, 2016 @ 02:12:05
+* **Release Date:** September 17, 2016 @ 03:12:05
 * **In-App Purchasing:** No

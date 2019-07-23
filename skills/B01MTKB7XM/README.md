@@ -22,5 +22,5 @@ You can begin by enabling the skill and then saying, "Alexa, Open Country Abbrev
 * **ID:** amzn1.ask.skill.e047f73d-0801-48d1-ba53-3229339c1f49
 * **ASIN:** B01MTKB7XM
 * **Author:** LearnedH
-* **Release Date:** November 16, 2016 @ 01:35:45
+* **Release Date:** November 16, 2016 @ 02:35:45
 * **In-App Purchasing:** No

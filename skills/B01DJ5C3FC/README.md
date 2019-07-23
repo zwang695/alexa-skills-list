@@ -20,5 +20,5 @@ Test your knowledge of cyber security, while learning best security practices to
 * **ID:** amzn1.echo-sdk-ams.app.2e4d5e34-b1b3-4c0e-bb61-2a4367971107
 * **ASIN:** B01DJ5C3FC
 * **Author:** vamc
-* **Release Date:** March 28, 2016 @ 06:06:30
+* **Release Date:** March 28, 2016 @ 07:06:30
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a game for bible studies.
 * **ID:** amzn1.ask.skill.e1ad5cc3-eb57-4701-9f71-08024dcd789d
 * **ASIN:** B01KKRTU8A
 * **Author:** It Is Written
-* **Release Date:** August 29, 2016 @ 02:02:58
+* **Release Date:** August 29, 2016 @ 03:02:58
 * **In-App Purchasing:** No

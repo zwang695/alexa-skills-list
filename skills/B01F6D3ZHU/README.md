@@ -12,7 +12,7 @@ Control your Haiku fans and lights
 * **ID:** amzn1.ask.skill.a5572454-202a-4198-9231-4d2856e7cb08
 * **ASIN:** B01F6D3ZHU
 * **Author:** Haiku Home by Big Ass Solutions
-* **Release Date:** May 5, 2016 @ 11:59:52
+* **Release Date:** May 5, 2016 @ 12:59:52
 * **Privacy Policy:** https://www.haikuhome.com/privacy-policy
 * **Terms of Use:** https://www.haikuhome.com/terms-of-service
 * **Account Linking Domains:** bigassfans.com, sensemecloud.com

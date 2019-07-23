@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.6263e937-3fcf-498c-8ddd-300244506031
 * **ASIN:** B01M5IH5PI
 * **Author:** Bluetip Software
-* **Release Date:** November 20, 2016 @ 23:07:10
+* **Release Date:** November 21, 2016 @ 00:07:10
 * **In-App Purchasing:** No

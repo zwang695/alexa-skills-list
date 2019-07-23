@@ -20,5 +20,5 @@ Get facts about Tacoma, Washington.
 * **ID:** amzn1.ask.skill.db2a61b5-8b6b-4485-b2ed-ec5fca213848
 * **ASIN:** B01NABFE8D
 * **Author:** Ryan Mulligan
-* **Release Date:** November 26, 2016 @ 08:36:00
+* **Release Date:** November 26, 2016 @ 09:36:00
 * **In-App Purchasing:** No

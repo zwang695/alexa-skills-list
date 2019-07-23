@@ -20,5 +20,5 @@ The Titcomb Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.4e022954-42e7-450d-b882-b80ce693b365
 * **ASIN:** B01M4LGSRM
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:15:09
+* **Release Date:** October 21, 2016 @ 15:15:09
 * **In-App Purchasing:** No

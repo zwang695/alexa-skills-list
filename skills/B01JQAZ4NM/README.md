@@ -20,5 +20,5 @@ This application tells you stuff to do when you are bored!
 * **ID:** amzn1.ask.skill.05bcc281-7a1f-45a0-97bf-f2d51e0b0ba1
 * **ASIN:** B01JQAZ4NM
 * **Author:** Jeff Carlson
-* **Release Date:** August 17, 2016 @ 05:52:32
+* **Release Date:** August 17, 2016 @ 06:52:32
 * **In-App Purchasing:** No

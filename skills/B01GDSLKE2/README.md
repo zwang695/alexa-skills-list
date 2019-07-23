@@ -18,5 +18,5 @@ Youtube Count Subscribers from a Channel
 * **ID:** amzn1.echo-sdk-ams.app.f6d43991-d916-4c95-a2ab-f1ef4fba5206
 * **ASIN:** B01GDSLKE2
 * **Author:** Jaguar Soft
-* **Release Date:** July 11, 2016 @ 05:27:48
+* **Release Date:** July 11, 2016 @ 06:27:48
 * **In-App Purchasing:** No

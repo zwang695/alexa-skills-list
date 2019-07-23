@@ -20,5 +20,5 @@ All the facts related to oatmeal.
 * **ID:** amzn1.ask.skill.89fbbcec-ef4f-41cb-98bc-b2910311b854
 * **ASIN:** B01LXDZCA2
 * **Author:** Diyang
-* **Release Date:** October 4, 2016 @ 07:42:15
+* **Release Date:** October 4, 2016 @ 08:42:15
 * **In-App Purchasing:** No

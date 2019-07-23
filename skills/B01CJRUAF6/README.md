@@ -90,6 +90,6 @@ Happy baby stats tracking!
 * **ID:** amzn1.echo-sdk-ams.app.f24fc1b4-b5f2-4be7-afc7-c833d6c739d6
 * **ASIN:** B01CJRUAF6
 * **Author:** cWix
-* **Release Date:** March 4, 2016 @ 04:59:25
+* **Release Date:** March 4, 2016 @ 05:59:25
 * **Privacy Policy:** https://www.baby-stats.com/privacy.html
 * **In-App Purchasing:** No

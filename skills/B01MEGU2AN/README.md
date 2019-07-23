@@ -20,5 +20,5 @@ Better Rates skill enables Alexa users to get the latest mortgage interest rates
 * **ID:** amzn1.ask.skill.b0e7fb3f-a996-4600-b623-453c823e6003
 * **ASIN:** B01MEGU2AN
 * **Author:** Ramprasad Navaneethakrishnan
-* **Release Date:** October 25, 2016 @ 01:49:32
+* **Release Date:** October 25, 2016 @ 02:49:32
 * **In-App Purchasing:** No

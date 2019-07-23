@@ -20,5 +20,5 @@ The Brighton Resort Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.d34c4742-7be6-4462-8d7a-376868e360ce
 * **ASIN:** B01M7YGT5Q
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:17:46
+* **Release Date:** November 4, 2016 @ 09:17:46
 * **In-App Purchasing:** No

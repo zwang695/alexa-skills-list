@@ -20,5 +20,5 @@ Fact master gives you a random fascinating fact about a selected science field. 
 * **ID:** amzn1.ask.skill.800bb9ac-2fbe-4c86-a806-8885c183a183
 * **ASIN:** B01KVU2B8W
 * **Author:** Andrey Gubenko
-* **Release Date:** August 30, 2016 @ 04:32:57
+* **Release Date:** August 30, 2016 @ 05:32:57
 * **In-App Purchasing:** No

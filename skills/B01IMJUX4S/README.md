@@ -20,5 +20,5 @@ Do you need help studying for your PA certification exam? This skill provides pr
 * **ID:** amzn1.echo-sdk-ams.app.000f2627-411b-43af-aa14-fcdf927dfa1b
 * **ASIN:** B01IMJUX4S
 * **Author:** Blue Crystal Web Design
-* **Release Date:** July 19, 2016 @ 05:57:50
+* **Release Date:** July 19, 2016 @ 06:57:50
 * **In-App Purchasing:** No

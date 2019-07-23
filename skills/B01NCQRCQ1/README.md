@@ -20,5 +20,5 @@ Instructions for voting in United States elections
 * **ID:** amzn1.ask.skill.11a3523a-b44b-4e4f-9a65-930ea015dcdb
 * **ASIN:** B01NCQRCQ1
 * **Author:** Penguin
-* **Release Date:** January 2, 2017 @ 23:49:01
+* **Release Date:** January 3, 2017 @ 00:49:01
 * **In-App Purchasing:** No

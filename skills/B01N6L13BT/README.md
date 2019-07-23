@@ -20,5 +20,5 @@ Provides a quick way to check the DC Area Federal Government Operating Status pu
 * **ID:** amzn1.ask.skill.4e3aeb9e-9761-4534-9412-dc83143f404b
 * **ASIN:** B01N6L13BT
 * **Author:** R Onuschak
-* **Release Date:** January 3, 2017 @ 08:51:10
+* **Release Date:** January 3, 2017 @ 09:51:10
 * **In-App Purchasing:** No

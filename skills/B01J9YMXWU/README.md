@@ -53,6 +53,6 @@ it has expanded over the years to become the definitive reference on LEGO® sets
 * **ID:** amzn1.echo-sdk-ams.app.0b76fc99-4959-469a-89f8-ba815b7e3207
 * **ASIN:** B01J9YMXWU
 * **Author:** Extentia Information Technology
-* **Release Date:** August 17, 2016 @ 05:22:56
+* **Release Date:** August 17, 2016 @ 06:22:56
 * **Privacy Policy:** http://www.extentia.com/privacy-policy
 * **In-App Purchasing:** No

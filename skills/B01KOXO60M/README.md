@@ -20,5 +20,5 @@ Using Exact Measure, you can specify any distance measurement in either Imperial
 * **ID:** amzn1.ask.skill.8323c433-7db7-44b2-97c1-1126f5cfc5f5
 * **ASIN:** B01KOXO60M
 * **Author:** Alobria Systems
-* **Release Date:** November 12, 2016 @ 00:43:04
+* **Release Date:** November 12, 2016 @ 01:43:04
 * **In-App Purchasing:** No

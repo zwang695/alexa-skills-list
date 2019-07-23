@@ -20,5 +20,5 @@ Ask for a random strange fact!
 * **ID:** amzn1.ask.skill.edbbd00a-b982-4409-acda-c2f78a54e30d
 * **ASIN:** B01MS1KPFN
 * **Author:** Hima Tammineedi
-* **Release Date:** January 1, 2017 @ 22:49:36
+* **Release Date:** January 1, 2017 @ 23:49:36
 * **In-App Purchasing:** No

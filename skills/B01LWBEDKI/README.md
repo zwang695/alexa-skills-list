@@ -20,5 +20,5 @@ Facts about Radford Virginia
 * **ID:** amzn1.ask.skill.9282771a-e631-400b-91e7-ff03f39a0bae
 * **ASIN:** B01LWBEDKI
 * **Author:** DavidHorton
-* **Release Date:** October 12, 2016 @ 02:12:50
+* **Release Date:** October 12, 2016 @ 03:12:50
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Have Alexa help you figure out if you remembered to do everything you need to do
 * **ID:** amzn1.echo-sdk-ams.app.0f02daa1-7b3d-4a8b-a6a3-8f642c1fa25a
 * **ASIN:** B01DXS1JVE
 * **Author:** Wing L. Mui
-* **Release Date:** April 19, 2016 @ 06:32:32
+* **Release Date:** April 19, 2016 @ 07:32:32
 * **In-App Purchasing:** No

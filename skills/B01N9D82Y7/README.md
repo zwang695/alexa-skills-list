@@ -20,5 +20,5 @@ Your rusty high school chemistry class knowledge might not be enough to help you
 * **ID:** amzn1.ask.skill.bf87d502-1ebc-49b4-9adc-9adfae5ab384
 * **ASIN:** B01N9D82Y7
 * **Author:** Christopher Roemer
-* **Release Date:** December 6, 2016 @ 03:05:28
+* **Release Date:** December 6, 2016 @ 04:05:28
 * **In-App Purchasing:** No

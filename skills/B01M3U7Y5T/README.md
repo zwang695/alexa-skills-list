@@ -16,5 +16,5 @@ This skill will ask you 10 questions for each quiz to help you prep for the asso
 * **ID:** amzn1.ask.skill.ac92dd6e-9b24-4bb5-833c-51e67fdc95ac
 * **ASIN:** B01M3U7Y5T
 * **Author:** VanderFox
-* **Release Date:** November 9, 2016 @ 03:42:48
+* **Release Date:** November 9, 2016 @ 04:42:48
 * **In-App Purchasing:** No

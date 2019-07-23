@@ -20,5 +20,5 @@ provides information with details about Attractions, Top Five Things to do for t
 * **ID:** amzn1.ask.skill.d26a3fa2-371f-4822-bdd4-5e7f65297682
 * **ASIN:** B01MT2T4O6
 * **Author:** Adrien Chan
-* **Release Date:** December 29, 2016 @ 22:48:59
+* **Release Date:** December 29, 2016 @ 23:48:59
 * **In-App Purchasing:** No

@@ -26,7 +26,7 @@ For any additional support, please visit www.revogi.com for more information.
 * **ID:** amzn1.ask.skill.d4a9ee1d-df48-4294-9e04-746539d4c51f
 * **ASIN:** B01KLKM32Q
 * **Author:** Revogi, LLC
-* **Release Date:** August 22, 2016 @ 18:48:11
+* **Release Date:** August 22, 2016 @ 19:48:11
 * **Privacy Policy:** http://www.revogi.com
 * **Terms of Use:** http://www.revogi.com
 * **Account Linking Domains:** server.revogi.com

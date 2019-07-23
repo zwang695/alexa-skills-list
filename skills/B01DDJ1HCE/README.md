@@ -20,5 +20,5 @@ Whether reinforcing one's knowledge or to learn more about US history, use this 
 * **ID:** amzn1.echo-sdk-ams.app.4531e2d0-d49b-48e0-8748-05f817475945
 * **ASIN:** B01DDJ1HCE
 * **Author:** James Co
-* **Release Date:** March 24, 2016 @ 04:54:33
+* **Release Date:** March 24, 2016 @ 05:54:33
 * **In-App Purchasing:** No

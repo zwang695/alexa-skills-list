@@ -24,7 +24,7 @@ Note: Alexa and Amazon, Inc. do not store or retain your Fitbit data, but voice 
 * **ID:** amzn1.echo-sdk-ams.app.297bd7f9-6659-4e55-8535-b8e8efff8f64
 * **ASIN:** B01CH4BP28
 * **Author:** Fitbit, Inc. 
-* **Release Date:** March 2, 2016 @ 16:33:35
+* **Release Date:** March 2, 2016 @ 17:33:35
 * **Privacy Policy:** https://www.fitbit.com/legal/privacy
 * **Terms of Use:** https://www.fitbit.com/legal
 * **Account Linking Domains:** www.fitbit.com, api.fitbit.com, fitbit.com, google.com

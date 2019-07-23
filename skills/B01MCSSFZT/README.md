@@ -18,5 +18,5 @@ Venice is steeped in history and interest. Use this skill to learn more about th
 * **ID:** amzn1.ask.skill.bebd9187-621f-42a9-9056-5d194dd95c2b
 * **ASIN:** B01MCSSFZT
 * **Author:** AnalogFolk
-* **Release Date:** October 19, 2016 @ 01:44:26
+* **Release Date:** October 19, 2016 @ 02:44:26
 * **In-App Purchasing:** No

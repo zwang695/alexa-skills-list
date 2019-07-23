@@ -22,5 +22,5 @@ New Musician is a trivia skill that goes over the basics of reading notes on the
 * **ID:** amzn1.echo-sdk-ams.app.36aec085-720b-43f9-8eb7-b11bc0f4bda2
 * **ASIN:** B01F9RSW4O
 * **Author:** Andy Gross
-* **Release Date:** May 10, 2016 @ 07:08:36
+* **Release Date:** May 10, 2016 @ 08:08:36
 * **In-App Purchasing:** No

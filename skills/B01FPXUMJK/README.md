@@ -20,5 +20,5 @@ Have Alexa recite your house rules!  Simply set your rules and the next time the
 * **ID:** amzn1.echo-sdk-ams.app.a030169e-8615-4672-bef2-e40ac20de322
 * **ASIN:** B01FPXUMJK
 * **Author:** Suprovici Holdings, Inc.
-* **Release Date:** June 8, 2016 @ 07:41:02
+* **Release Date:** June 8, 2016 @ 08:41:02
 * **In-App Purchasing:** No

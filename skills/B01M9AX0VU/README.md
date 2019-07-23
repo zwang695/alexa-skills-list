@@ -20,5 +20,5 @@ Try this skill out. Ask for computer networking facts and Alexa will reply with 
 * **ID:** amzn1.ask.skill.a84f8aab-089c-403c-b47c-73f3c2ead205
 * **ASIN:** B01M9AX0VU
 * **Author:** alpagot
-* **Release Date:** October 18, 2016 @ 02:42:10
+* **Release Date:** October 18, 2016 @ 03:42:10
 * **In-App Purchasing:** No

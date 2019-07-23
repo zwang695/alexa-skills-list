@@ -22,5 +22,5 @@ This application is unofficial and it is unauthorized​ by Chelsea Football Clu
 * **ID:** amzn1.ask.skill.92191d4a-e099-490b-ae6a-687c561666b4
 * **ASIN:** B01N7HIYNA
 * **Author:** Mayank Saxena
-* **Release Date:** December 14, 2016 @ 01:19:22
+* **Release Date:** December 14, 2016 @ 02:19:22
 * **In-App Purchasing:** No

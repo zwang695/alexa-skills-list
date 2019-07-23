@@ -24,5 +24,5 @@ Disclaimer: This skill not suitable for all ages.  Beer Goggles is recommended f
 * **ID:** amzn1.ask.skill.3af234a4-0c61-49c6-a558-765ddf7f137a
 * **ASIN:** B01KDDQG6U
 * **Author:** Drew Firment
-* **Release Date:** August 22, 2016 @ 07:44:40
+* **Release Date:** August 22, 2016 @ 08:44:40
 * **In-App Purchasing:** No

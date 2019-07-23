@@ -20,5 +20,5 @@ This skill retrieves air quality report containing current levels for Ozone, Sma
 * **ID:** amzn1.echo-sdk-ams.app.ebcc5b62-6c66-4856-9601-ca3cef1aa2fb
 * **ASIN:** B01EOFCHMA
 * **Author:** ICM
-* **Release Date:** May 4, 2016 @ 08:38:32
+* **Release Date:** May 4, 2016 @ 09:38:32
 * **In-App Purchasing:** No

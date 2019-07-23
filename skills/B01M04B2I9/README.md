@@ -22,5 +22,5 @@ Surprise your friends at the next party with you vast knowledge of Banana facts!
 * **ID:** amzn1.ask.skill.edc49b35-aea9-459f-adcc-4f463dbc7f5a
 * **ASIN:** B01M04B2I9
 * **Author:** Jenn-isms
-* **Release Date:** October 5, 2016 @ 06:41:44
+* **Release Date:** October 5, 2016 @ 07:41:44
 * **In-App Purchasing:** No

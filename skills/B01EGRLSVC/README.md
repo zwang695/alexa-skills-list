@@ -24,5 +24,5 @@ You'll learn this and many more fun Colorado Facts with Colorado Geek.
 * **ID:** amzn1.echo-sdk-ams.app.d41f3925-7585-4d39-bb65-ba7263a835e1
 * **ASIN:** B01EGRLSVC
 * **Author:** Alex Takacs
-* **Release Date:** June 6, 2016 @ 05:08:32
+* **Release Date:** June 6, 2016 @ 06:08:32
 * **In-App Purchasing:** No

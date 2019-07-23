@@ -24,7 +24,7 @@ To use the Thought Of The Day skill, try saying...
 * **ID:** amzn1.ask.skill.f988d33f-e477-453e-a5ba-d2bb9970ff1c
 * **ASIN:** B01N1RGYBI
 * **Author:** Rachit Technology Pvt  Ltd
-* **Release Date:** December 16, 2016 @ 04:50:08
+* **Release Date:** December 16, 2016 @ 05:50:08
 * **Privacy Policy:** http://www.rachittechnology.com/privacypolicy.htm
 * **Terms of Use:** http://www.rachittechnology.com/privacypolicy.htm
 * **In-App Purchasing:** No

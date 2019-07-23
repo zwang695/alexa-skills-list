@@ -24,5 +24,5 @@ The skill is powered by the Nutrient Data Laboratory of the U.S. Department of A
 * **ID:** amzn1.ask.skill.291920cb-8063-42dc-80ed-b1f05669537f
 * **ASIN:** B01N3YMFAE
 * **Author:** Spince.com
-* **Release Date:** November 12, 2016 @ 00:14:16
+* **Release Date:** November 12, 2016 @ 01:14:16
 * **In-App Purchasing:** No

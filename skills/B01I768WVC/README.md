@@ -20,5 +20,5 @@ A skill to returns random facts.
 * **ID:** amzn1.echo-sdk-ams.app.8fdf99a5-1b2b-4da8-aae8-fe00acdadfd6
 * **ASIN:** B01I768WVC
 * **Author:** dyim42
-* **Release Date:** July 13, 2016 @ 09:27:33
+* **Release Date:** July 13, 2016 @ 10:27:33
 * **In-App Purchasing:** No

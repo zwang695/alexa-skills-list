@@ -20,5 +20,5 @@ This skill gives the user a random fact about coffee and caffeine.
 * **ID:** amzn1.ask.skill.db7ab745-47c6-4a5a-a128-be00d448636a
 * **ASIN:** B01JWP8KNM
 * **Author:** Liz Miller Fit
-* **Release Date:** August 9, 2016 @ 02:37:25
+* **Release Date:** August 9, 2016 @ 03:37:25
 * **In-App Purchasing:** No

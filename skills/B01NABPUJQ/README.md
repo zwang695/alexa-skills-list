@@ -20,5 +20,5 @@ This skill is simple, there are not requirements other than being able to speak,
 * **ID:** amzn1.ask.skill.f98ab6dc-ad35-4694-8ab2-83524dccf1b9
 * **ASIN:** B01NABPUJQ
 * **Author:** Charlton Smith
-* **Release Date:** November 28, 2016 @ 04:36:16
+* **Release Date:** November 28, 2016 @ 05:36:16
 * **In-App Purchasing:** No

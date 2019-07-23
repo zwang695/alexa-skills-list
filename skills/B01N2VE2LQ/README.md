@@ -20,5 +20,5 @@ This skill helps in finding journey time between 2 places within London.
 * **ID:** amzn1.ask.skill.70972dbb-1266-414f-832b-456123e3ebaf
 * **ASIN:** B01N2VE2LQ
 * **Author:** kuldeep
-* **Release Date:** December 24, 2016 @ 09:18:44
+* **Release Date:** December 24, 2016 @ 10:18:44
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Use artsy.net to get information about artists and current shows in your area. P
 * **ID:** amzn1.ask.skill.42004f60-1c66-4c61-8c5d-9006303e6ec4
 * **ASIN:** B01MYLJO1N
 * **Author:** Artsy Inc.
-* **Release Date:** November 30, 2016 @ 01:36:32
+* **Release Date:** November 30, 2016 @ 02:36:32
 * **In-App Purchasing:** No

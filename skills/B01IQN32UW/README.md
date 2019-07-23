@@ -22,5 +22,5 @@ Custom Logo adapted from By Theshibboleth - own work, based on Electoral map.svg
 * **ID:** amzn1.ask.skill.3a60f198-9495-4d12-9b6b-1071153ffaea
 * **ASIN:** B01IQN32UW
 * **Author:** Sea Woods
-* **Release Date:** July 29, 2016 @ 09:56:26
+* **Release Date:** July 29, 2016 @ 10:56:26
 * **In-App Purchasing:** No

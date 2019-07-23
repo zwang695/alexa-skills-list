@@ -20,5 +20,5 @@ Annoying family member or friend hogging the TV? Get them out of there by threat
 * **ID:** amzn1.ask.skill.3e9a2212-1883-4001-b735-36a884890cfd
 * **ASIN:** B01MZZS2E6
 * **Author:** The Kansas Street Company
-* **Release Date:** December 9, 2016 @ 01:49:22
+* **Release Date:** December 9, 2016 @ 02:49:22
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ This tool does not provide medical advice, and is for informational and educatio
 * **ID:** amzn1.ask.skill.8335f4b3-c428-40bc-9235-fe08088a408c
 * **ASIN:** B01MEF4WD8
 * **Author:** Safina K
-* **Release Date:** November 2, 2016 @ 01:42:51
+* **Release Date:** November 2, 2016 @ 02:42:51
 * **In-App Purchasing:** No

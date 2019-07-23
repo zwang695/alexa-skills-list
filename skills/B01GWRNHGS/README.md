@@ -20,5 +20,5 @@ This skill is a simple proof of concept that simulates an English Teacher for fo
 * **ID:** amzn1.echo-sdk-ams.app.f89b511f-5a18-4b65-bf6c-f25c4ed32b1d
 * **ASIN:** B01GWRNHGS
 * **Author:** Solanas
-* **Release Date:** June 23, 2016 @ 04:45:25
+* **Release Date:** June 23, 2016 @ 05:45:25
 * **In-App Purchasing:** No

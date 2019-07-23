@@ -22,5 +22,5 @@ Just ask Alexa "tell me a London fact" and she will teach you an interesting fac
 * **ID:** amzn1.ask.skill.8650fbc7-12ce-40fb-a641-077be5feb12d
 * **ASIN:** B01M62FOTR
 * **Author:** lewis.ai
-* **Release Date:** October 15, 2016 @ 02:46:55
+* **Release Date:** October 15, 2016 @ 03:46:55
 * **In-App Purchasing:** No

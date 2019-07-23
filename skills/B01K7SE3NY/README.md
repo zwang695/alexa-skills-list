@@ -38,7 +38,7 @@ Say "help" if you get stuck.
 * **ID:** amzn1.ask.skill.38f3ce4c-0948-4346-b464-16a8e3233836
 * **ASIN:** B01K7SE3NY
 * **Author:** mjcallaghan
-* **Release Date:** September 5, 2016 @ 02:03:35
+* **Release Date:** September 5, 2016 @ 03:03:35
 * **Privacy Policy:** http://www.circuitwarz.com/Support-Legal/privacy-2.html
 * **Terms of Use:** http://www.circuitwarz.com/Support-Legal/terms-2.html
 * **In-App Purchasing:** No

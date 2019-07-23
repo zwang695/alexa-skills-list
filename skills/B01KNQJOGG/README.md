@@ -32,5 +32,5 @@ Disclaimer : This skill maybe not suited to audiences of all ages.
 * **ID:** amzn1.echo-sdk-ams.app.5bb80222-c823-498f-b4cf-e80e0970ac42
 * **ASIN:** B01KNQJOGG
 * **Author:** Extentia Information Technology
-* **Release Date:** August 23, 2016 @ 06:48:46
+* **Release Date:** August 23, 2016 @ 07:48:46
 * **In-App Purchasing:** No

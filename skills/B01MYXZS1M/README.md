@@ -20,5 +20,5 @@ This skill is based on the Alexa example "Space fact" skill. It has been modifie
 * **ID:** amzn1.ask.skill.f41ca624-8b52-46b7-9fb7-bcb93d4d94d8
 * **ASIN:** B01MYXZS1M
 * **Author:** Murdock
-* **Release Date:** December 29, 2016 @ 05:20:07
+* **Release Date:** December 29, 2016 @ 06:20:07
 * **In-App Purchasing:** No

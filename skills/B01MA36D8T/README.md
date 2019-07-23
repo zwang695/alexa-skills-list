@@ -30,5 +30,5 @@ As our database of stain information grows, we will add more tips over time.
 * **ID:** amzn1.ask.skill.007b3ca4-7dd2-4f8f-8ccb-d8684c745409
 * **ASIN:** B01MA36D8T
 * **Author:** codecat.net
-* **Release Date:** October 25, 2016 @ 01:14:46
+* **Release Date:** October 25, 2016 @ 02:14:46
 * **In-App Purchasing:** No

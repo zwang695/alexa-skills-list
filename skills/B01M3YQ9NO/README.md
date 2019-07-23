@@ -20,5 +20,5 @@ The Blue Knob Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.464cc194-a07d-4348-add0-3b1c99dfcf2c
 * **ASIN:** B01M3YQ9NO
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:14:39
+* **Release Date:** November 4, 2016 @ 09:14:39
 * **In-App Purchasing:** No

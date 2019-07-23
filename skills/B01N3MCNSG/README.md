@@ -20,5 +20,5 @@ this skill will provide a simple list of goals, these are generic for any marrie
 * **ID:** amzn1.ask.skill.3badb082-2f39-4204-aa07-440f3bbf263d
 * **ASIN:** B01N3MCNSG
 * **Author:** Optum Services
-* **Release Date:** November 12, 2016 @ 00:42:49
+* **Release Date:** November 12, 2016 @ 01:42:49
 * **In-App Purchasing:** No

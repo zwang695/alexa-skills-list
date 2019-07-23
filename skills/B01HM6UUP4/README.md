@@ -20,5 +20,5 @@ tells user fun weather facts from the list of 30 national geographic weather fac
 * **ID:** amzn1.echo-sdk-ams.app.ab4aa7be-026a-48bb-93ac-950cb56d411c
 * **ASIN:** B01HM6UUP4
 * **Author:** redM0nk
-* **Release Date:** June 29, 2016 @ 09:28:10
+* **Release Date:** June 29, 2016 @ 10:28:10
 * **In-App Purchasing:** No

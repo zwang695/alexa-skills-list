@@ -31,5 +31,5 @@ This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.9dde36dd-4689-451f-8d80-5843e57d5dac
 * **ASIN:** B01BUIBT8M
 * **Author:** Sweet Technology
-* **Release Date:** February 16, 2016 @ 16:09:10
+* **Release Date:** February 16, 2016 @ 17:09:10
 * **In-App Purchasing:** No

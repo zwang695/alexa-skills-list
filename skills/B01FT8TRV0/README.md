@@ -20,5 +20,5 @@ Looking for something random to do in Austin? Have an Echo? Well now is your cha
 * **ID:** amzn1.echo-sdk-ams.app.8ffa05aa-53be-4889-8b68-372339fe285b
 * **ASIN:** B01FT8TRV0
 * **Author:** thirteen23
-* **Release Date:** May 24, 2016 @ 09:08:47
+* **Release Date:** May 24, 2016 @ 10:08:47
 * **In-App Purchasing:** No

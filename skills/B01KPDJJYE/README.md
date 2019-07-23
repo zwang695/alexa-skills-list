@@ -20,5 +20,5 @@ Pulls a fact from an existing list of insect facts and sends it to Alexa. No req
 * **ID:** amzn1.ask.skill.37c60bc7-267a-4786-96ad-923e4886261a
 * **ASIN:** B01KPDJJYE
 * **Author:** Bagels
-* **Release Date:** August 25, 2016 @ 03:31:55
+* **Release Date:** August 25, 2016 @ 04:31:55
 * **In-App Purchasing:** No

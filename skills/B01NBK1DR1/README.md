@@ -20,5 +20,5 @@ This skill will provide information on NCAA College Football Bowl Games in the 2
 * **ID:** amzn1.ask.skill.aa4742b2-9c06-4a7b-b600-b18fea641dad
 * **ASIN:** B01NBK1DR1
 * **Author:** Blue Tree IT
-* **Release Date:** December 16, 2016 @ 07:19:17
+* **Release Date:** December 16, 2016 @ 08:19:17
 * **In-App Purchasing:** No

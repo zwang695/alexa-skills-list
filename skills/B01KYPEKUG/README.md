@@ -20,5 +20,5 @@ This is an on going, every changing Javascript trivia. The point is to play triv
 * **ID:** amzn1.ask.skill.a6ac6128-6b6b-4d57-b613-ffb856fa66f9
 * **ASIN:** B01KYPEKUG
 * **Author:** Jetcode
-* **Release Date:** August 25, 2016 @ 07:01:05
+* **Release Date:** August 25, 2016 @ 08:01:05
 * **In-App Purchasing:** No

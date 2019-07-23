@@ -20,5 +20,5 @@ Spin the Wheel allows you to tell Alexa up to 10 names and Alexa will randomly s
 * **ID:** amzn1.ask.skill.d65480e6-6f6e-4c02-bc1f-78d0d30a42e5
 * **ASIN:** B01M04SCEQ
 * **Author:** Remon
-* **Release Date:** September 28, 2016 @ 18:12:52
+* **Release Date:** September 28, 2016 @ 19:12:52
 * **In-App Purchasing:** No

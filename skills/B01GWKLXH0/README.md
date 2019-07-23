@@ -20,5 +20,5 @@ This skill allows you to convert base 10 decimal numbers into different radixes 
 * **ID:** amzn1.echo-sdk-ams.app.d0e3d48b-cdd6-40cb-b6c1-b565f5e31386
 * **ASIN:** B01GWKLXH0
 * **Author:** Nick McMahon
-* **Release Date:** June 20, 2016 @ 08:15:41
+* **Release Date:** June 20, 2016 @ 09:15:41
 * **In-App Purchasing:** No

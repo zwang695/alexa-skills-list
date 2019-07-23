@@ -20,5 +20,5 @@ The Beech Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.0c683ecf-98a4-4044-8a10-e7d98918f6a0
 * **ASIN:** B01MFBU2H5
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:15:15
+* **Release Date:** October 26, 2016 @ 02:15:15
 * **In-App Purchasing:** No

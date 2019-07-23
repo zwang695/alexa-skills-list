@@ -20,5 +20,5 @@ This is a diverse list of facts about Venezuela, its past and its present. Some 
 * **ID:** amzn1.ask.skill.6368bafc-0135-4a92-965c-28610215fb0b
 * **ASIN:** B01L8E9OBW
 * **Author:** aparravera
-* **Release Date:** August 30, 2016 @ 07:03:05
+* **Release Date:** August 30, 2016 @ 08:03:05
 * **In-App Purchasing:** No

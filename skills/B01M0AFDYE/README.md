@@ -20,5 +20,5 @@ Get a random fact about Seattle with Seattle facts. Includes historical, cultura
 * **ID:** amzn1.ask.skill.03c518e4-20b8-4801-b141-80c0719167f8
 * **ASIN:** B01M0AFDYE
 * **Author:** evanyfc
-* **Release Date:** October 3, 2016 @ 01:42:58
+* **Release Date:** October 3, 2016 @ 02:42:58
 * **In-App Purchasing:** No

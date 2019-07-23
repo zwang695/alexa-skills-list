@@ -22,5 +22,5 @@ Note: May not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.fbdbe68c-7240-43f3-a5f7-b599daaa85eb
 * **ASIN:** B01F4D86US
 * **Author:** zerodesigns
-* **Release Date:** May 10, 2016 @ 02:42:54
+* **Release Date:** May 10, 2016 @ 03:42:54
 * **In-App Purchasing:** No

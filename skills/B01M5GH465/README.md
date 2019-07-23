@@ -12,7 +12,7 @@ Use this skill at your own risk.
 * **ID:** amzn1.ask.skill.cfe679c8-1a52-4e48-acad-0e417db672a3
 * **ASIN:** B01M5GH465
 * **Author:** Amazon Smart Home QA-1-Prod
-* **Release Date:** October 28, 2016 @ 02:47:04
+* **Release Date:** October 28, 2016 @ 03:47:04
 * **Privacy Policy:** https://example.com/privacy
 * **Terms of Use:** https://example.com/privacy
 * **In-App Purchasing:** No

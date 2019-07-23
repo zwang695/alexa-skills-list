@@ -20,5 +20,5 @@ Learn and explore various facts about Fish.
 * **ID:** amzn1.echo-sdk-ams.app.a7e4c5ea-50bd-45d7-bd29-3df8aaa55d2d
 * **ASIN:** B01I4P4DBY
 * **Author:** Shivansh Singh
-* **Release Date:** July 11, 2016 @ 02:27:31
+* **Release Date:** July 11, 2016 @ 03:27:31
 * **In-App Purchasing:** No

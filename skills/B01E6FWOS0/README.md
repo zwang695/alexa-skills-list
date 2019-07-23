@@ -22,5 +22,5 @@ Audio comprehension narratives come in the following categories: happy, sad, sil
 * **ID:** amzn1.echo-sdk-ams.app.a8f456c9-52a9-4819-a3d4-131823f18abe
 * **ASIN:** B01E6FWOS0
 * **Author:** Hutch
-* **Release Date:** June 3, 2016 @ 07:38:46
+* **Release Date:** June 3, 2016 @ 08:38:46
 * **In-App Purchasing:** No

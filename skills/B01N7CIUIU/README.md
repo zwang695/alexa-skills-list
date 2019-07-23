@@ -24,5 +24,5 @@ Icon made by Retinaicons www.flaticon.com. Icon is licensed by CC 3.0 BY
 * **ID:** amzn1.ask.skill.b0ebfcb9-9323-4470-914f-d3e001a3e0ba
 * **ASIN:** B01N7CIUIU
 * **Author:** Bruce Lee
-* **Release Date:** December 7, 2016 @ 01:19:24
+* **Release Date:** December 7, 2016 @ 02:19:24
 * **In-App Purchasing:** No

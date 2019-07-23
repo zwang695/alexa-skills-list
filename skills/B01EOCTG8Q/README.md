@@ -23,5 +23,5 @@ This game can test your knowledge of Taylor Swift while having so much fun. Play
 * **ID:** amzn1.echo-sdk-ams.app.e7a04f23-1eab-4526-ac2f-2f8767841d05
 * **ASIN:** B01EOCTG8Q
 * **Author:** Marco Pizarro-Silva
-* **Release Date:** April 27, 2016 @ 08:08:36
+* **Release Date:** April 27, 2016 @ 09:08:36
 * **In-App Purchasing:** No

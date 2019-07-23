@@ -44,5 +44,5 @@ We are continuously learning and developing this skill, and would love to incorp
 * **ID:** amzn1.ask.skill.3afd5448-c7ef-414c-bffc-201efb55524d
 * **ASIN:** B01MXY33MP
 * **Author:** Adi Singh
-* **Release Date:** December 17, 2016 @ 06:19:21
+* **Release Date:** December 17, 2016 @ 07:19:21
 * **In-App Purchasing:** No

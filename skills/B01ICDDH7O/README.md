@@ -26,5 +26,5 @@ There are 200 currently supported characters. Try with the full name of the char
 * **ID:** amzn1.echo-sdk-ams.app.2ca28ae4-09ac-457a-8037-9681e5d81db1
 * **ASIN:** B01ICDDH7O
 * **Author:** aarkir
-* **Release Date:** July 25, 2016 @ 03:56:30
+* **Release Date:** July 25, 2016 @ 04:56:30
 * **In-App Purchasing:** No

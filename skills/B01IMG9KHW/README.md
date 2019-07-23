@@ -20,5 +20,5 @@ Fun soccer facts and trivia.
 * **ID:** amzn1.echo-sdk-ams.app.bf9b05ff-2e0b-402c-9311-84b81a3e66ae
 * **ASIN:** B01IMG9KHW
 * **Author:** Ben Johnson
-* **Release Date:** July 19, 2016 @ 01:57:42
+* **Release Date:** July 19, 2016 @ 02:57:42
 * **In-App Purchasing:** No

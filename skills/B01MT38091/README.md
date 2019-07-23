@@ -20,5 +20,5 @@ This application works by saying one of the example phrases given below and rece
 * **ID:** amzn1.ask.skill.a3858825-2195-4e73-acfc-9c7631c70961
 * **ASIN:** B01MT38091
 * **Author:** Sean Crenshaw
-* **Release Date:** December 29, 2016 @ 02:19:34
+* **Release Date:** December 29, 2016 @ 03:19:34
 * **In-App Purchasing:** No

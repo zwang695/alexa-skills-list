@@ -20,5 +20,5 @@ Hamurabi is one of the first games made for terminal computers. In Hamurabi you 
 * **ID:** amzn1.echo-sdk-ams.app.63fdbdad-fc0a-48d5-bfaf-7cf400f180f2
 * **ASIN:** B01IDM6QFY
 * **Author:** Rain Labs
-* **Release Date:** August 18, 2016 @ 01:52:28
+* **Release Date:** August 18, 2016 @ 02:52:28
 * **In-App Purchasing:** No

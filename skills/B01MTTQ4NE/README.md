@@ -20,5 +20,5 @@ Tells funny (or not not funny) jokes and puns that can be amusing when feeling a
 * **ID:** amzn1.ask.skill.f71a57e9-5aae-4aec-aaf3-f735f92f96ba
 * **ASIN:** B01MTTQ4NE
 * **Author:** TNi
-* **Release Date:** December 2, 2016 @ 07:35:24
+* **Release Date:** December 2, 2016 @ 08:35:24
 * **In-App Purchasing:** No

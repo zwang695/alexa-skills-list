@@ -22,5 +22,5 @@ At any time, you can ask to "read the rules" or "repeat" to hear the current rul
 * **ID:** amzn1.ask.skill.8fb6e399-d431-4943-a797-7a6888e7c6ce
 * **ASIN:** B01MQGSQYQ
 * **Author:** Garrett Vargas
-* **Release Date:** November 13, 2016 @ 08:13:07
+* **Release Date:** November 13, 2016 @ 09:13:07
 * **In-App Purchasing:** No

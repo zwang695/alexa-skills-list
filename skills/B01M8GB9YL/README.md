@@ -20,5 +20,5 @@ This is a fact of the day about digital photography terminology.
 * **ID:** amzn1.ask.skill.5d23af29-e047-4845-9f15-a587e4034a56
 * **ASIN:** B01M8GB9YL
 * **Author:** letsgo
-* **Release Date:** October 15, 2016 @ 01:47:01
+* **Release Date:** October 15, 2016 @ 02:47:01
 * **In-App Purchasing:** No

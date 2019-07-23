@@ -22,5 +22,5 @@ You can ask for Beanie Boos' birthdays such as, when is Pippie's birthday?
 * **ID:** amzn1.echo-sdk-ams.app.c2d34127-15a8-4f3b-8810-0cad7b90c85b
 * **ASIN:** B01FPK32FY
 * **Author:** Arthur Lockrem
-* **Release Date:** May 21, 2016 @ 02:39:11
+* **Release Date:** May 21, 2016 @ 03:39:11
 * **In-App Purchasing:** No

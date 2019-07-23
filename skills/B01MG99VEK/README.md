@@ -20,5 +20,5 @@ The Ski Big Bear Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.1bdeffcf-556b-4b7c-8baf-4d2894ddec39
 * **ASIN:** B01MG99VEK
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:15:22
+* **Release Date:** November 4, 2016 @ 09:15:22
 * **In-App Purchasing:** No

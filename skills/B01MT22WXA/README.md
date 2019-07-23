@@ -20,5 +20,5 @@ In this travel guide, you can find out the top 5 attractions in San Francisco, a
 * **ID:** amzn1.ask.skill.b0aeb9c4-9302-4aa6-87c3-2313ac8d1b27
 * **ASIN:** B01MT22WXA
 * **Author:** Radhika Gathwala
-* **Release Date:** December 25, 2016 @ 06:18:56
+* **Release Date:** December 25, 2016 @ 07:18:56
 * **In-App Purchasing:** No

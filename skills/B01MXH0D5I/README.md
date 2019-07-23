@@ -21,5 +21,5 @@ A skill that quizzes you on different topics with flash cards.
 * **ID:** amzn1.ask.skill.c431d04c-e96d-450e-b12c-edbca97fb2fb
 * **ASIN:** B01MXH0D5I
 * **Author:** NextLevel
-* **Release Date:** November 18, 2016 @ 00:05:41
+* **Release Date:** November 18, 2016 @ 01:05:41
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Panorama Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.2064ca8b-4c65-4b72-8cd9-a4489853b452
 * **ASIN:** B01LXC5HPT
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:56:41
+* **Release Date:** October 20, 2016 @ 03:56:41
 * **In-App Purchasing:** No

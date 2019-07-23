@@ -24,7 +24,7 @@ When you are curious what the final score was from the public, check out the web
 * **ID:** amzn1.ask.skill.2ddc8844-f60b-4af9-9319-42e0ad2e08b3
 * **ASIN:** B01N8R11LZ
 * **Author:** Remon
-* **Release Date:** November 20, 2016 @ 23:07:48
+* **Release Date:** November 21, 2016 @ 00:07:48
 * **Privacy Policy:** http://ask-everybody.com/privacy.html
 * **Terms of Use:** http://ask-everybody.com/termsofuse.html
 * **In-App Purchasing:** No

@@ -23,7 +23,7 @@ If you have any questions, please visit the Stack Lighting support page at suppo
 * **ID:** amzn1.ask.skill.c5e64644-1a3f-4ee5-b0ee-525435d1e0de
 * **ASIN:** B01HU5WCSA
 * **Author:** Stack Labs, Inc.
-* **Release Date:** August 1, 2016 @ 17:26:04
+* **Release Date:** August 1, 2016 @ 18:26:04
 * **Privacy Policy:** https://stacklighting.com/privacy-policy
 * **Terms of Use:** https://stacklighting.com/terms-of-service
 * **In-App Purchasing:** No

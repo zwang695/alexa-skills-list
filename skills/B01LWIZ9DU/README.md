@@ -20,5 +20,5 @@ This app gives you random facts about hockey. Facts about record holders, team h
 * **ID:** amzn1.ask.skill.2d66e4a0-1def-4689-acdd-8c04f5284037
 * **ASIN:** B01LWIZ9DU
 * **Author:** Hamboning Films LLC
-* **Release Date:** September 16, 2016 @ 04:11:39
+* **Release Date:** September 16, 2016 @ 05:11:39
 * **In-App Purchasing:** No

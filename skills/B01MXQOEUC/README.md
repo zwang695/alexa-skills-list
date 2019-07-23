@@ -24,6 +24,6 @@ My Disney Visit is in no way affiliated with The Walt Disney Company, Disney Wor
 * **ID:** amzn1.ask.skill.05922eb0-73df-448d-a29c-1fa6863f372d
 * **ASIN:** B01MXQOEUC
 * **Author:** My Disney Visit
-* **Release Date:** December 24, 2016 @ 08:49:22
+* **Release Date:** December 24, 2016 @ 09:49:22
 * **Privacy Policy:** https://www.mydisneyvisit.com/Home/PrivacyPolicy
 * **In-App Purchasing:** No

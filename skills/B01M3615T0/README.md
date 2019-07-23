@@ -20,5 +20,5 @@ The Tussey Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.27c2b579-1f2d-447e-b428-5d8053563144
 * **ASIN:** B01M3615T0
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:17:22
+* **Release Date:** November 4, 2016 @ 09:17:22
 * **In-App Purchasing:** No

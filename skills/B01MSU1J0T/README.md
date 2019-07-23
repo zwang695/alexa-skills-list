@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.5519b910-23b8-4b3e-93e6-98de4f3640aa
 * **ASIN:** B01MSU1J0T
 * **Author:** LAGCOX
-* **Release Date:** December 13, 2016 @ 05:52:11
+* **Release Date:** December 13, 2016 @ 06:52:11
 * **In-App Purchasing:** No

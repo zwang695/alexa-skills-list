@@ -20,5 +20,5 @@ Spooky airhorns are everywhere. Don't be scared.
 * **ID:** amzn1.ask.skill.c24ca873-39da-4e52-9cfd-ec423b370ded
 * **ASIN:** B01LWRGG50
 * **Author:** Alex W
-* **Release Date:** October 19, 2016 @ 01:43:02
+* **Release Date:** October 19, 2016 @ 02:43:02
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill tells you the upcoming tournament events for the game Overwatch.
 * **ID:** amzn1.ask.skill.f0973bf2-118b-446d-9eed-7c02b3332479
 * **ASIN:** B01L1ARQ5E
 * **Author:** Ewen Chou
-* **Release Date:** August 30, 2016 @ 06:33:00
+* **Release Date:** August 30, 2016 @ 07:33:00
 * **In-App Purchasing:** No

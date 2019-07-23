@@ -20,6 +20,6 @@ Leveraging the SecureNet Platform, SmartLink is the most responsive Interactive 
 * **ID:** amzn1.echo-sdk-ams.app.db91e5a5-46a1-49b7-acce-def90268d006
 * **ASIN:** B01DWNIYTU
 * **Author:** SecureNet Technologies
-* **Release Date:** October 8, 2016 @ 03:12:03
+* **Release Date:** October 8, 2016 @ 04:12:03
 * **Privacy Policy:** https://cloud.securenettech.com/tools/alexa_privacy.php
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill allows followers of the Silverline CRM blog to hear and view Silverli
 * **ID:** amzn1.echo-sdk-ams.app.6670f935-9f54-4d8b-8fe7-9579123708bf
 * **ASIN:** B01HRBVE22
 * **Author:** Gean Martinez
-* **Release Date:** July 14, 2016 @ 04:27:24
+* **Release Date:** July 14, 2016 @ 05:27:24
 * **In-App Purchasing:** No

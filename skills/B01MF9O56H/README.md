@@ -20,7 +20,7 @@ New users, please contact us at support@pexlabs.com to receive an Express accoun
 * **ID:** amzn1.ask.skill.0db5747f-57dc-4263-8579-df9fded7d704
 * **ASIN:** B01MF9O56H
 * **Author:** Premnath
-* **Release Date:** December 15, 2016 @ 06:19:47
+* **Release Date:** December 15, 2016 @ 07:19:47
 * **Privacy Policy:** https://www.getastro.com/privacy
 * **Terms of Use:** https://www.getastro.com/privacy
 * **In-App Purchasing:** No

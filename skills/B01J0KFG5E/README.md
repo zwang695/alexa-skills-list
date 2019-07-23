@@ -20,5 +20,5 @@ This Skill was not created or endorsed by Amazon.
 * **ID:** amzn1.ask.skill.0faa0824-1276-4f4b-9778-0160a4909aa3
 * **ASIN:** B01J0KFG5E
 * **Author:** John Pignata
-* **Release Date:** August 8, 2016 @ 06:37:27
+* **Release Date:** August 8, 2016 @ 07:37:27
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Simple trivia game with American history questions.
 * **ID:** amzn1.ask.skill.82b4e2bf-95f2-451b-902a-574d9441381e
 * **ASIN:** B01LZN43MB
 * **Author:** Michael Stewart
-* **Release Date:** October 5, 2016 @ 00:42:56
+* **Release Date:** October 5, 2016 @ 01:42:56
 * **In-App Purchasing:** No

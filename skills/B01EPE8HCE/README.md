@@ -28,5 +28,5 @@ Pull requests welcome ;)
 * **ID:** amzn1.echo-sdk-ams.app.0df23397-4abf-434e-be14-4bfa0d6b36e4
 * **ASIN:** B01EPE8HCE
 * **Author:** Mariano Gonzalez
-* **Release Date:** May 12, 2016 @ 05:08:46
+* **Release Date:** May 12, 2016 @ 06:08:46
 * **In-App Purchasing:** No

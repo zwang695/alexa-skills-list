@@ -24,5 +24,5 @@ Data provided by blockchain.info.
 * **ID:** amzn1.ask.skill.77694303-8291-4830-8788-518a93aa9ad1
 * **ASIN:** B01MA4QUQN
 * **Author:** Andy K.
-* **Release Date:** October 27, 2016 @ 01:46:26
+* **Release Date:** October 27, 2016 @ 02:46:26
 * **In-App Purchasing:** No

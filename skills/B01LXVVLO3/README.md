@@ -20,5 +20,5 @@ This skill will provide you with the capital for any U.S. state. Great for study
 * **ID:** amzn1.ask.skill.24e190c8-7f0f-4a18-8327-20e69712252b
 * **ASIN:** B01LXVVLO3
 * **Author:** ProgrammingAce
-* **Release Date:** October 19, 2016 @ 01:12:48
+* **Release Date:** October 19, 2016 @ 02:12:48
 * **In-App Purchasing:** No

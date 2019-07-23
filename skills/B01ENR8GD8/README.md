@@ -29,5 +29,5 @@ Icon graphic © Dejan Jovanovic - Fotolia.com.
 * **ID:** amzn1.echo-sdk-ams.app.fa61106a-27c4-468e-aa3a-34b41e6232ff
 * **ASIN:** B01ENR8GD8
 * **Author:** SpryFeet.com
-* **Release Date:** April 25, 2016 @ 10:08:38
+* **Release Date:** April 25, 2016 @ 11:08:38
 * **In-App Purchasing:** No

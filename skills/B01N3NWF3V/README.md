@@ -20,5 +20,5 @@ The Searchmont Resort Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.f306923a-f48a-46a6-abb1-adca6ae6745e
 * **ASIN:** B01N3NWF3V
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:13:55
+* **Release Date:** November 5, 2016 @ 12:13:55
 * **In-App Purchasing:** No

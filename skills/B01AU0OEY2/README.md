@@ -20,5 +20,5 @@ Think you know about the history of computing, hacking, and programming? Add thi
 * **ID:** amzn1.echo-sdk-ams.app.3988e924-353f-47f4-b986-a84584a7bd6c
 * **ASIN:** B01AU0OEY2
 * **Author:** Chris Bryant
-* **Release Date:** January 19, 2016 @ 17:55:57
+* **Release Date:** January 19, 2016 @ 18:55:57
 * **In-App Purchasing:** No

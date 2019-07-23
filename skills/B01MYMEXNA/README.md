@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.7a0c2424-6caf-4341-8e9d-eab9f74c71b0
 * **ASIN:** B01MYMEXNA
 * **Author:** Zanamivir
-* **Release Date:** December 4, 2016 @ 03:35:29
+* **Release Date:** December 4, 2016 @ 04:35:29
 * **In-App Purchasing:** No

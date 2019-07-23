@@ -20,5 +20,5 @@ Learn new, interesting and random words.
 * **ID:** amzn1.ask.skill.033f4657-5e3f-4d48-92d3-e1ccbf564cdd
 * **ASIN:** B01MZ4U30Y
 * **Author:** Pandawan
-* **Release Date:** January 3, 2017 @ 03:48:56
+* **Release Date:** January 3, 2017 @ 04:48:56
 * **In-App Purchasing:** No

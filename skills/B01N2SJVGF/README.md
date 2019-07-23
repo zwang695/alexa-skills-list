@@ -16,5 +16,5 @@ Displays some unique and funny "Facts" about a good friend of mine names Adam Da
 * **ID:** amzn1.ask.skill.1d233935-dcb2-44b7-81fa-f174353baf4e
 * **ASIN:** B01N2SJVGF
 * **Author:** MaorSG
-* **Release Date:** December 26, 2016 @ 01:19:03
+* **Release Date:** December 26, 2016 @ 02:19:03
 * **In-App Purchasing:** No

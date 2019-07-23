@@ -20,5 +20,5 @@ Bored? Of course you are! You can only refresh your social media accounts page s
 * **ID:** amzn1.echo-sdk-ams.app.be0df69e-ec84-4025-a0cf-6c0af32444c4
 * **ASIN:** B01G7WVZCQ
 * **Author:** ver2point0
-* **Release Date:** May 27, 2016 @ 16:39:13
+* **Release Date:** May 27, 2016 @ 17:39:13
 * **In-App Purchasing:** No

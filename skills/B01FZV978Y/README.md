@@ -20,5 +20,5 @@ Not sure where to eat in NYC? This skill has all the best curated answers. Just 
 * **ID:** amzn1.echo-sdk-ams.app.b93c5aef-ea2f-4445-a038-18622a44f593
 * **ASIN:** B01FZV978Y
 * **Author:** mlucool
-* **Release Date:** May 31, 2016 @ 07:08:29
+* **Release Date:** May 31, 2016 @ 08:08:29
 * **In-App Purchasing:** No

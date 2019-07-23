@@ -20,5 +20,5 @@ The Stoneham Mountain Resort Snow Report brought to you by SnoCountry brings you
 * **ID:** amzn1.ask.skill.e324b42c-597b-4ef0-a900-ad5819968984
 * **ASIN:** B01MRG37QU
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:44:23
+* **Release Date:** November 5, 2016 @ 12:44:23
 * **In-App Purchasing:** No

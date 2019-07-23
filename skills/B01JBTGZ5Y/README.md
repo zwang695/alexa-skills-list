@@ -20,5 +20,5 @@ This application allows the game Marco Polo to be played with Alexa.   It used c
 * **ID:** amzn1.ask.skill.86c1b324-5722-4e80-a07a-3c4692984130
 * **ASIN:** B01JBTGZ5Y
 * **Author:** Straphanger
-* **Release Date:** August 4, 2016 @ 01:41:30
+* **Release Date:** August 4, 2016 @ 02:41:30
 * **In-App Purchasing:** No

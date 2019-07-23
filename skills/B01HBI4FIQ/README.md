@@ -14,7 +14,7 @@ nomos system and nomos cloud account is required.
 * **ID:** amzn1.ask.skill.251da3f9-4458-422c-accd-4442e5dcdbf2
 * **ASIN:** B01HBI4FIQ
 * **Author:** nomos system AG
-* **Release Date:** June 27, 2016 @ 18:15:13
+* **Release Date:** June 27, 2016 @ 19:15:13
 * **Privacy Policy:** http://nomos-system.com/page/products/privacy-policy/
 * **Account Linking Domains:** cloud.nomos-system.com, cloudapi.nomos-system.com
 * **In-App Purchasing:** No

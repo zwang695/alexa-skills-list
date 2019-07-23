@@ -33,6 +33,6 @@ The App currently does not support changing colors or modes via Alexa, we will c
 * **ID:** amzn1.ask.skill.8a66303c-275e-453c-b7eb-e129e116b6e8
 * **ASIN:** B01HFZI9AK
 * **Author:** Zengge Co., Limited
-* **Release Date:** June 27, 2016 @ 18:45:08
+* **Release Date:** June 27, 2016 @ 19:45:08
 * **Privacy Policy:** http://magichue.net/WebZJCloud/Privacy.html
 * **In-App Purchasing:** No

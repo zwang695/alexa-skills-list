@@ -46,5 +46,5 @@ Comic Book Guide uses information from the Comic Vine API (http://comicvine.game
 * **ID:** amzn1.echo-sdk-ams.app.5719c18c-9fec-4b83-bea8-03127ab2598b
 * **ASIN:** B01H2JVEQK
 * **Author:** Mission Data LLC
-* **Release Date:** June 20, 2016 @ 04:17:38
+* **Release Date:** June 20, 2016 @ 05:17:38
 * **In-App Purchasing:** No

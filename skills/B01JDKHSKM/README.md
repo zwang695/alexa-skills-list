@@ -20,5 +20,5 @@ Provided a list of knock knock jokes for Alexa to tell.
 * **ID:** amzn1.ask.skill.d3e5621e-807c-4050-be74-8702b9280ab9
 * **ASIN:** B01JDKHSKM
 * **Author:** Mary Dang
-* **Release Date:** August 4, 2016 @ 06:11:36
+* **Release Date:** August 4, 2016 @ 07:11:36
 * **In-App Purchasing:** No

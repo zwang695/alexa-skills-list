@@ -24,5 +24,5 @@ This skill provides random facts about the human body.
 * **ID:** amzn1.echo-sdk-ams.app.1c2be188-14d9-4dee-b45b-f596ade96dd6
 * **ASIN:** B01HHZV5WW
 * **Author:** Plinth
-* **Release Date:** June 27, 2016 @ 04:15:42
+* **Release Date:** June 27, 2016 @ 05:15:42
 * **In-App Purchasing:** No

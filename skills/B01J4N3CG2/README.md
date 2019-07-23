@@ -20,5 +20,5 @@ Interesting historical facts about Webster Ma.
 * **ID:** amzn1.ask.skill.990bc25d-cce5-4865-bc3d-b52d3bad501e
 * **ASIN:** B01J4N3CG2
 * **Author:** Curt Downing
-* **Release Date:** August 4, 2016 @ 07:11:32
+* **Release Date:** August 4, 2016 @ 08:11:32
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Lutsen Mountains Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.1b269d52-8c43-4dea-8535-e47d59d54827
 * **ASIN:** B01M5DNQJQ
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:18:01
+* **Release Date:** October 21, 2016 @ 15:18:01
 * **In-App Purchasing:** No

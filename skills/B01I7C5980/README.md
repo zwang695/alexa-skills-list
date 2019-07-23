@@ -20,5 +20,5 @@ Are you world knowledgable? Let's test how well you know the world capitals. The
 * **ID:** amzn1.echo-sdk-ams.app.342ef7eb-6608-4e94-bbfc-0eb4d954d9bc
 * **ASIN:** B01I7C5980
 * **Author:** Zenseio
-* **Release Date:** July 20, 2016 @ 01:27:37
+* **Release Date:** July 20, 2016 @ 02:27:37
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Gunstock Mountain Resort Snow Report brought to you by SnoCountry brings you
 * **ID:** amzn1.ask.skill.e0db22a9-4524-4d30-b71f-2134a8954780
 * **ASIN:** B01MXVCJVS
 * **Author:** SnoCountry
-* **Release Date:** December 6, 2016 @ 19:19:50
+* **Release Date:** December 6, 2016 @ 20:19:50
 * **In-App Purchasing:** No

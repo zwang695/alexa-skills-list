@@ -20,5 +20,5 @@ The Board Game Guide skill will help you choose a board game to play. Simply ans
 * **ID:** amzn1.ask.skill.2a56a332-8cef-433d-a9f7-853ed295bdd7
 * **ASIN:** B01L1L91Z6
 * **Author:** Dickson Tse
-* **Release Date:** September 10, 2016 @ 07:42:15
+* **Release Date:** September 10, 2016 @ 08:42:15
 * **In-App Purchasing:** No

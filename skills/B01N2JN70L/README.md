@@ -20,5 +20,5 @@ Alexa will be able to tell you some jokes gathered from twitter channels like 50
 * **ID:** amzn1.ask.skill.651db1a7-7e63-4922-88da-46fcec25d964
 * **ASIN:** B01N2JN70L
 * **Author:** Marian Condurache
-* **Release Date:** November 26, 2016 @ 01:05:26
+* **Release Date:** November 26, 2016 @ 02:05:26
 * **In-App Purchasing:** No

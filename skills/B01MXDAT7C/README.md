@@ -20,5 +20,5 @@ Pop open this app to learn a few new things about your favorite felines.
 * **ID:** amzn1.ask.skill.2490324f-ce9e-4093-b1f7-6d43a2c7391c
 * **ASIN:** B01MXDAT7C
 * **Author:** Sly Software
-* **Release Date:** November 22, 2016 @ 04:05:13
+* **Release Date:** November 22, 2016 @ 05:05:13
 * **In-App Purchasing:** No

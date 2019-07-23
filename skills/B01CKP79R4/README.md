@@ -20,5 +20,5 @@ Test your knowledge of the division one college basketball tournament with this 
 * **ID:** amzn1.echo-sdk-ams.app.d05c8a00-8862-4898-8734-b92beedc9523
 * **ASIN:** B01CKP79R4
 * **Author:** Six Voices
-* **Release Date:** March 4, 2016 @ 18:59:10
+* **Release Date:** March 4, 2016 @ 19:59:10
 * **In-App Purchasing:** No

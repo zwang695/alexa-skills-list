@@ -20,5 +20,5 @@ So you think you know American History? Well, give American History Master a try
 * **ID:** amzn1.ask.skill.478840e9-d043-45d6-9e0d-bafc55901b61
 * **ASIN:** B01J8RY93Y
 * **Author:** Cornerstone Software Creations LLC
-* **Release Date:** July 29, 2016 @ 07:56:52
+* **Release Date:** July 29, 2016 @ 08:56:52
 * **In-App Purchasing:** No

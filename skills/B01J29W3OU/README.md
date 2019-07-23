@@ -20,5 +20,5 @@ This Alexa App provides fun facts about Wales simply by asking, "Alexa, ask Wale
 * **ID:** amzn1.ask.skill.43e7da54-7852-44c1-b227-ae41a458dcbb
 * **ASIN:** B01J29W3OU
 * **Author:** Jason Sit
-* **Release Date:** July 26, 2016 @ 05:26:22
+* **Release Date:** July 26, 2016 @ 06:26:22
 * **In-App Purchasing:** No

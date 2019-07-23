@@ -20,5 +20,5 @@ Ask Alexa for a bucket list item and it will be up to get it done. Over 800 idea
 * **ID:** amzn1.echo-sdk-ams.app.67b7a257-4c95-4fb9-b29a-5aeba4b4dfab
 * **ASIN:** B01G06N9KK
 * **Author:** BLT Robotics
-* **Release Date:** May 24, 2016 @ 06:38:34
+* **Release Date:** May 24, 2016 @ 07:38:34
 * **In-App Purchasing:** No

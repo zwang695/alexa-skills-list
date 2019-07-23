@@ -22,7 +22,7 @@ To get started, you can add friends or family members to the Glympse skill by sa
 * **ID:** amzn1.echo-sdk-ams.app.ecadc151-7d18-40e0-b307-54b691622461
 * **ASIN:** B019X6M400
 * **Author:** Glympse
-* **Release Date:** December 28, 2015 @ 19:25:54
+* **Release Date:** December 28, 2015 @ 20:25:54
 * **Privacy Policy:** http://glympse.com/privacy
 * **Terms of Use:** http://glympse.com/terms
 * **In-App Purchasing:** No

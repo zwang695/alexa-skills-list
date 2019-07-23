@@ -20,5 +20,5 @@ Movie Tagline Quiz is a trivia quiz where Alexa gives a movie tagline and you tr
 * **ID:** amzn1.ask.skill.74bcb51e-a625-4edf-bddc-6ed16de31bd0
 * **ASIN:** B01JVGT2R0
 * **Author:** MelissaY
-* **Release Date:** August 23, 2016 @ 02:48:45
+* **Release Date:** August 23, 2016 @ 03:48:45
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Provides some simple facts about Norse mythology
 * **ID:** amzn1.ask.skill.6813f88c-4645-4e41-ac5e-70e365ffa242
 * **ASIN:** B01M7T4ENV
 * **Author:** sprites
-* **Release Date:** November 2, 2016 @ 02:13:18
+* **Release Date:** November 2, 2016 @ 03:13:18
 * **In-App Purchasing:** No

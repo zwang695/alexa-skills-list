@@ -20,5 +20,5 @@ Alexa will give you random facts about the first meal of the day. Simply ask Ale
 * **ID:** amzn1.ask.skill.5a131350-159b-44da-a424-72cd541fc061
 * **ASIN:** B01MDQLZMV
 * **Author:** Adriane Purdy
-* **Release Date:** October 27, 2016 @ 01:46:43
+* **Release Date:** October 27, 2016 @ 02:46:43
 * **In-App Purchasing:** No

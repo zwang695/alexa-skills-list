@@ -20,5 +20,5 @@ The Red Lodge Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.094cd799-6721-49e9-8461-cca1cbb80c21
 * **ASIN:** B01MDOMDJA
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:45:37
+* **Release Date:** October 21, 2016 @ 15:45:37
 * **In-App Purchasing:** No

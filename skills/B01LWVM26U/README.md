@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.1827d554-4880-4cd9-a0f6-fdb37cfd7f68
 * **ASIN:** B01LWVM26U
 * **Author:** Slice of Cheese
-* **Release Date:** September 28, 2016 @ 08:42:05
+* **Release Date:** September 28, 2016 @ 09:42:05
 * **In-App Purchasing:** No

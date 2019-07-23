@@ -22,5 +22,5 @@ Great for convincing your feline friend(s) that a ghost cat is roaming your home
 * **ID:** amzn1.echo-sdk-ams.app.9bdcd638-a3b3-4470-acf5-db8bba439d51
 * **ASIN:** B01GY2FTIK
 * **Author:** Sean Simpson
-* **Release Date:** June 15, 2016 @ 08:45:33
+* **Release Date:** June 15, 2016 @ 09:45:33
 * **In-App Purchasing:** No

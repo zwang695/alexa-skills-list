@@ -45,6 +45,6 @@ This product uses the TMDb API but is not endorsed or certified by TMDb.
 * **ID:** amzn1.echo-sdk-ams.app.46c90ce9-4635-4dc9-94a5-b002f36c7253
 * **ASIN:** B01KGCJASY
 * **Author:** John Chalet
-* **Release Date:** August 23, 2016 @ 07:20:17
+* **Release Date:** August 23, 2016 @ 08:20:17
 * **Terms of Use:** https://www.themoviedb.org/documentation/api/terms-of-use
 * **In-App Purchasing:** No

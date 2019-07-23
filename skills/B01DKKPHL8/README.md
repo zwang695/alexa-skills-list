@@ -31,5 +31,5 @@ We’d love to hear your thoughts and please add a comment in the review section
 * **ID:** amzn1.echo-sdk-ams.app.b7cd5d38-84be-4ca3-80bf-4d3459686657
 * **ASIN:** B01DKKPHL8
 * **Author:** Matchbox mobile
-* **Release Date:** March 31, 2016 @ 17:02:24
+* **Release Date:** March 31, 2016 @ 18:02:24
 * **In-App Purchasing:** No

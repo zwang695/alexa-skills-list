@@ -20,5 +20,5 @@ Therapy is your therapist for Alexa.  Tell therapist how you are feeling and she
 * **ID:** amzn1.echo-sdk-ams.app.9c619e27-5399-4fab-9e66-cb1ad14f99e8
 * **ASIN:** B01FX9ZOAI
 * **Author:** Fergie
-* **Release Date:** May 26, 2016 @ 07:38:33
+* **Release Date:** May 26, 2016 @ 08:38:33
 * **In-App Purchasing:** No

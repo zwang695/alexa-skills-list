@@ -22,5 +22,5 @@ To get started, just say “Alexa, open Speak Jamaican”. Alexa will help you t
 * **ID:** amzn1.echo-sdk-ams.app.e2941ff6-56b1-453d-9f4d-53792cf8f16a
 * **ASIN:** B01FCQXEV8
 * **Author:** S4 Technology, Inc.
-* **Release Date:** May 16, 2016 @ 08:08:36
+* **Release Date:** May 16, 2016 @ 09:08:36
 * **In-App Purchasing:** No

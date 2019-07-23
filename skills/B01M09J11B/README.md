@@ -24,5 +24,5 @@ Now you do!
 * **ID:** amzn1.ask.skill.82d0410b-8063-4455-84fa-85c21ba94b68
 * **ASIN:** B01M09J11B
 * **Author:** michael arbogast
-* **Release Date:** October 3, 2016 @ 07:42:00
+* **Release Date:** October 3, 2016 @ 08:42:00
 * **In-App Purchasing:** No

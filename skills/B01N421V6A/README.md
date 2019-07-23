@@ -18,5 +18,5 @@ As you pass each round, the questions will get harder.
 * **ID:** amzn1.ask.skill.a2eb6461-381b-4ac0-ae94-dcb67dab90f6
 * **ASIN:** B01N421V6A
 * **Author:** Expertif
-* **Release Date:** December 2, 2016 @ 04:05:03
+* **Release Date:** December 2, 2016 @ 05:05:03
 * **In-App Purchasing:** No

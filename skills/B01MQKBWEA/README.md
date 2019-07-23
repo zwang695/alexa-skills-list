@@ -20,5 +20,5 @@ A simple facts skill that tells you about the wonderful life of Young Bug!
 * **ID:** amzn1.ask.skill.0c057f42-5417-4952-8fa0-56615c165f74
 * **ASIN:** B01MQKBWEA
 * **Author:** Daniel Pagan
-* **Release Date:** November 21, 2016 @ 00:05:44
+* **Release Date:** November 21, 2016 @ 01:05:44
 * **In-App Purchasing:** No

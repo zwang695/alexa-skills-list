@@ -20,5 +20,5 @@ Test your knowledge with fun fruit facts. Say something like open fruit facts, a
 * **ID:** amzn1.echo-sdk-ams.app.396beab0-7831-4cca-b9a8-1fd9f48d4224
 * **ASIN:** B01FON5LUG
 * **Author:** AngelAsman
-* **Release Date:** May 21, 2016 @ 02:08:36
+* **Release Date:** May 21, 2016 @ 03:08:36
 * **In-App Purchasing:** No

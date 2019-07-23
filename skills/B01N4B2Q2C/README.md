@@ -20,5 +20,5 @@ The Ski Cooper Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.a707dc6a-a03a-4763-9e24-7bc363c4c208
 * **ASIN:** B01N4B2Q2C
 * **Author:** SnoCountry
-* **Release Date:** December 6, 2016 @ 19:20:02
+* **Release Date:** December 6, 2016 @ 20:20:02
 * **In-App Purchasing:** No

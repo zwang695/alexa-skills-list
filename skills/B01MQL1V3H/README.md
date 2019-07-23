@@ -16,5 +16,5 @@ Provides facts about Lily, an adorable Lemon Beagle
 * **ID:** amzn1.ask.skill.038664ce-8e93-4bc5-80e0-0f2a0d7f91a4
 * **ASIN:** B01MQL1V3H
 * **Author:** JASDJS_Concept
-* **Release Date:** November 25, 2016 @ 03:37:39
+* **Release Date:** November 25, 2016 @ 04:37:39
 * **In-App Purchasing:** No

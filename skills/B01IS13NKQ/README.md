@@ -20,5 +20,5 @@ This is a simple app to get random facts about the Philadelphia Flyers hockey te
 * **ID:** amzn1.ask.skill.6e018b6f-3fbd-4528-964b-7eea9ac1fb79
 * **ASIN:** B01IS13NKQ
 * **Author:** Facet Digital, LLC
-* **Release Date:** July 25, 2016 @ 01:56:28
+* **Release Date:** July 25, 2016 @ 02:56:28
 * **In-App Purchasing:** No

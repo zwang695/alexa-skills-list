@@ -20,5 +20,5 @@ This skill can suggest counterpicks for Overwatch heroes. Just ask the skill wha
 * **ID:** amzn1.echo-sdk-ams.app.70412ad5-c2fa-44b7-98ad-aff9b3eee51d
 * **ASIN:** B01I96GYYW
 * **Author:** Ewen Chou
-* **Release Date:** July 19, 2016 @ 01:57:37
+* **Release Date:** July 19, 2016 @ 02:57:37
 * **In-App Purchasing:** No

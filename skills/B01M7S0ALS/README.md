@@ -20,5 +20,5 @@ The Silver Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.fac51fbc-6ebc-48eb-9221-8360c530c07c
 * **ASIN:** B01M7S0ALS
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:48:24
+* **Release Date:** October 21, 2016 @ 15:48:24
 * **In-App Purchasing:** No

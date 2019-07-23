@@ -20,5 +20,5 @@ The Black Mountain of Maine Snow Report brought to you by SnoCountry brings you 
 * **ID:** amzn1.ask.skill.f16905f8-028c-4761-b1e6-4567b65137b2
 * **ASIN:** B01N3STQ0K
 * **Author:** SnoCountry
-* **Release Date:** November 8, 2016 @ 02:12:32
+* **Release Date:** November 8, 2016 @ 03:12:32
 * **In-App Purchasing:** No

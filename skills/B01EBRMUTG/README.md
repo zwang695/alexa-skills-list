@@ -20,5 +20,5 @@ Have you ever heard the truth is stranger than fiction? Well that was a lie, jus
 * **ID:** amzn1.echo-sdk-ams.app.2f9a0860-a0d7-4761-bafc-d50620c047e9
 * **ASIN:** B01EBRMUTG
 * **Author:** Ray Strods
-* **Release Date:** April 19, 2016 @ 04:02:34
+* **Release Date:** April 19, 2016 @ 05:02:34
 * **In-App Purchasing:** No

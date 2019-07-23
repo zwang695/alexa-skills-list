@@ -22,5 +22,5 @@ Facts sourced from : http://www.sciencekids.co.nz/sciencefacts/space/moon.html
 * **ID:** amzn1.ask.skill.a8417a77-64e3-445e-951e-25472b765281
 * **ASIN:** B01N9CMSR4
 * **Author:** Mathew George Corp
-* **Release Date:** December 5, 2016 @ 00:36:10
+* **Release Date:** December 5, 2016 @ 01:36:10
 * **In-App Purchasing:** No

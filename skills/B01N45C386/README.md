@@ -20,5 +20,5 @@ Opens a virtual advent calendar card, reading the scripture verse for the day. Y
 * **ID:** amzn1.ask.skill.0693e33f-6d16-4cd3-8090-91b4f3215ad7
 * **ASIN:** B01N45C386
 * **Author:** Matthew Edwards
-* **Release Date:** November 28, 2016 @ 01:35:59
+* **Release Date:** November 28, 2016 @ 02:35:59
 * **In-App Purchasing:** No

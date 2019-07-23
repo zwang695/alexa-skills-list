@@ -22,5 +22,5 @@ Start the skill by saying "Alexa, ask my galaxy" or "Alexa, play my galaxy"  or 
 * **ID:** amzn1.ask.skill.65cb2b74-a584-4ee8-980a-ea76db2bb64d
 * **ASIN:** B01N8ZGISZ
 * **Author:** Subodh Keskar
-* **Release Date:** November 25, 2016 @ 04:35:59
+* **Release Date:** November 25, 2016 @ 05:35:59
 * **In-App Purchasing:** No

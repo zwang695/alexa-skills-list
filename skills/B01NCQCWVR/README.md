@@ -20,5 +20,5 @@ Use this guide to get around New York on your trip here. It is useful for both f
 * **ID:** amzn1.ask.skill.fa0ddd1b-0d72-46b4-bb5e-30d728df2349
 * **ASIN:** B01NCQCWVR
 * **Author:** SandChow
-* **Release Date:** December 28, 2016 @ 05:19:17
+* **Release Date:** December 28, 2016 @ 06:19:17
 * **In-App Purchasing:** No

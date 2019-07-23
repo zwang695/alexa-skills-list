@@ -14,6 +14,6 @@ For example, in the Stringify App you can create a flow with trigger phrase - â€
 * **ID:** amzn1.ask.skill.d954402f-c5d9-4115-9238-d643e7dd613f
 * **ASIN:** B01LWZ8J56
 * **Author:** Stringify, Inc
-* **Release Date:** December 6, 2016 @ 17:49:10
+* **Release Date:** December 6, 2016 @ 18:49:10
 * **Privacy Policy:** https://www.stringify.com/privacy
 * **In-App Purchasing:** No

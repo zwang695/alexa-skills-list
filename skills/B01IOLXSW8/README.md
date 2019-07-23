@@ -28,5 +28,5 @@ Say pitch ball and Roxie will track that a pitch was thrown.  Let Roxie know wha
 * **ID:** amzn1.echo-sdk-ams.app.be12c091-892e-4c70-a548-73ba6e137ce9
 * **ASIN:** B01IOLXSW8
 * **Author:** Drawrz.com
-* **Release Date:** July 22, 2016 @ 06:57:05
+* **Release Date:** July 22, 2016 @ 07:57:05
 * **In-App Purchasing:** No

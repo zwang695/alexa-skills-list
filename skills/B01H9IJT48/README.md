@@ -22,5 +22,5 @@ Enjoy the game!
 * **ID:** amzn1.echo-sdk-ams.app.a38e36d4-5340-4597-872a-d831188bd3fb
 * **ASIN:** B01H9IJT48
 * **Author:** @setfloat
-* **Release Date:** June 29, 2016 @ 08:57:35
+* **Release Date:** June 29, 2016 @ 09:57:35
 * **In-App Purchasing:** No

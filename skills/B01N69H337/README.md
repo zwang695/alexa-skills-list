@@ -20,5 +20,5 @@ This skill will help broaden your knowledge with the amazing world we live in th
 * **ID:** amzn1.ask.skill.e747b220-2b95-422a-9dc0-20a133a870ef
 * **ASIN:** B01N69H337
 * **Author:** Conormatt
-* **Release Date:** November 27, 2016 @ 02:35:58
+* **Release Date:** November 27, 2016 @ 03:35:58
 * **In-App Purchasing:** No

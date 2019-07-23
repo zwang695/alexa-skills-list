@@ -85,7 +85,7 @@ The Musixmatch Skill team
 * **ID:** amzn1.echo-sdk-ams.app.5e2e008a-c9fa-431f-9c0e-7b999b23176a
 * **ASIN:** B01C8PIQH8
 * **Author:** musiXmatch
-* **Release Date:** February 26, 2016 @ 05:45:29
+* **Release Date:** February 26, 2016 @ 06:45:29
 * **Privacy Policy:** https://about.musixmatch.com/copyright
 * **Terms of Use:** https://about.musixmatch.com/eula
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Mulligans Hollow Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.693f3653-ae94-414e-af25-3b7a648be6be
 * **ASIN:** B01MCVY7MX
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:48:06
+* **Release Date:** October 21, 2016 @ 15:48:06
 * **In-App Purchasing:** No

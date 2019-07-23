@@ -20,5 +20,5 @@ Fun fitness guru to tell you what exercises to do!
 * **ID:** amzn1.ask.skill.faa05f50-5af2-49da-8cff-78af6507a262
 * **ASIN:** B01MY2KBL2
 * **Author:** Timothy Chen
-* **Release Date:** January 2, 2017 @ 23:19:56
+* **Release Date:** January 3, 2017 @ 00:19:56
 * **In-App Purchasing:** No

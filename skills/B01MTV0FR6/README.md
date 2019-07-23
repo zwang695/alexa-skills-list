@@ -19,5 +19,5 @@ Gives some random facts about Gandhi
 * **ID:** amzn1.ask.skill.ced3709e-67a6-41b1-b654-3b36437ceafc
 * **ASIN:** B01MTV0FR6
 * **Author:** Anonym
-* **Release Date:** December 3, 2016 @ 00:35:44
+* **Release Date:** December 3, 2016 @ 01:35:44
 * **In-App Purchasing:** No

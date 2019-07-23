@@ -20,6 +20,6 @@ Written by the City of Las Vegas, the Alexa My Vegas skill will provide informat
 * **ID:** amzn1.ask.skill.503b0ec0-59f9-4dba-9810-7f37fc91ed81
 * **ASIN:** B01MRE4T6I
 * **Author:** City of Las Vegas
-* **Release Date:** November 11, 2016 @ 08:12:39
+* **Release Date:** November 11, 2016 @ 09:12:39
 * **Privacy Policy:** https://opendata.lasvegasnevada.gov/privacy-policy
 * **In-App Purchasing:** No

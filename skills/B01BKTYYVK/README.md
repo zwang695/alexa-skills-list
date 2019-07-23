@@ -30,5 +30,5 @@ Try to get all five answers right!
 * **ID:** amzn1.echo-sdk-ams.app.f8786539-a406-406d-ad9f-5fcaab068138
 * **ASIN:** B01BKTYYVK
 * **Author:** Johnny Foxx
-* **Release Date:** February 8, 2016 @ 13:19:25
+* **Release Date:** February 8, 2016 @ 14:19:25
 * **In-App Purchasing:** No

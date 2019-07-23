@@ -20,5 +20,5 @@ The Alpine Valley Ohio Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.19ed1e44-6472-4511-9ab5-d3c84324b394
 * **ASIN:** B01M7TT4GN
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:46:06
+* **Release Date:** October 26, 2016 @ 04:46:06
 * **In-App Purchasing:** No

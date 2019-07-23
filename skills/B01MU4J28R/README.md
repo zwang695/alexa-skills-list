@@ -18,5 +18,5 @@ Crazy History Facts is a simple skill that will tell you all kinds of facts abou
 * **ID:** amzn1.ask.skill.fcc57ac4-33bd-4080-b7e9-f760f25b8d77
 * **ASIN:** B01MU4J28R
 * **Author:** Maniacus Studios
-* **Release Date:** December 27, 2016 @ 00:18:57
+* **Release Date:** December 27, 2016 @ 01:18:57
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ You can control you home electrical appliances by voice command. You can on or o
 * **ID:** amzn1.ask.skill.2b38790d-905a-4005-ad73-908f63e1622f
 * **ASIN:** B01KLHL8JS
 * **Author:** Md. Khairul Alam
-* **Release Date:** August 24, 2016 @ 02:31:31
+* **Release Date:** August 24, 2016 @ 03:31:31
 * **In-App Purchasing:** No

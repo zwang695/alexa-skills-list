@@ -20,5 +20,5 @@ A simple, fun trivia game designed to test your knowledge of some basic US measu
 * **ID:** amzn1.ask.skill.3618a0a3-abc1-4734-bfd0-fbd2c573ce4a
 * **ASIN:** B01N4BZ953
 * **Author:** Timothy Aaron
-* **Release Date:** December 10, 2016 @ 01:19:28
+* **Release Date:** December 10, 2016 @ 02:19:28
 * **In-App Purchasing:** No

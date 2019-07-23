@@ -26,5 +26,5 @@ Find out more at GlutenFreeLabels.com about how we prevent cross contact in your
 * **ID:** amzn1.ask.skill.d83138b0-8b4a-4fd1-a1c2-f27a23d4c15e
 * **ASIN:** B01MXNAU61
 * **Author:** CreativeMMS
-* **Release Date:** November 25, 2016 @ 04:05:59
+* **Release Date:** November 25, 2016 @ 05:05:59
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.6cfe604d-e744-4cc5-b385-b2f8b6ac6a96
 * **ASIN:** B01HQJ8B8U
 * **Author:** Emily Linde
-* **Release Date:** July 1, 2016 @ 05:27:47
+* **Release Date:** July 1, 2016 @ 06:27:47
 * **In-App Purchasing:** No

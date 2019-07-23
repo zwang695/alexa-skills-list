@@ -20,5 +20,5 @@ This tells some fun facts and trivia of football
 * **ID:** amzn1.echo-sdk-ams.app.4ecbe743-7690-42bd-a32c-7aeb07f62d42
 * **ASIN:** B01HAPH8DY
 * **Author:** HAAI
-* **Release Date:** June 30, 2016 @ 08:57:30
+* **Release Date:** June 30, 2016 @ 09:57:30
 * **In-App Purchasing:** No

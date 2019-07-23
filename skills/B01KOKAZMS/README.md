@@ -20,5 +20,5 @@ Let Alexa tell you some odd facts from the history of baseball that you have pro
 * **ID:** amzn1.ask.skill.80db19bb-3969-4bd0-a0b4-5108f6ff8d4a
 * **ASIN:** B01KOKAZMS
 * **Author:** Aaron DeGough
-* **Release Date:** August 22, 2016 @ 02:37:44
+* **Release Date:** August 22, 2016 @ 03:37:44
 * **In-App Purchasing:** No

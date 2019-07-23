@@ -21,5 +21,5 @@ Ask Fortune Cookie for a Fortune and listen.
 * **ID:** amzn1.ask.skill.a4165a36-1eb6-4ff9-9574-dd91606f3569
 * **ASIN:** B01N1L6BEB
 * **Author:** AntlerVision
-* **Release Date:** November 29, 2016 @ 04:36:08
+* **Release Date:** November 29, 2016 @ 05:36:08
 * **In-App Purchasing:** No

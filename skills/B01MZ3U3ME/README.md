@@ -18,5 +18,5 @@ Ask Really? True Facts to receive an random, interesting fact!
 * **ID:** amzn1.ask.skill.c08da4d2-bbc8-4a5d-af3f-1ea27854a77d
 * **ASIN:** B01MZ3U3ME
 * **Author:** nnsookwon
-* **Release Date:** December 28, 2016 @ 03:49:25
+* **Release Date:** December 28, 2016 @ 04:49:25
 * **In-App Purchasing:** No

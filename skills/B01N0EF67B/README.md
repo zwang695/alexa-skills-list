@@ -30,7 +30,7 @@ Turn on/off the eero light — At naptime or bedtime, if you like your room pitc
 * **ID:** amzn1.ask.skill.29d95957-af15-4071-a110-2a6b2e08bad0
 * **ASIN:** B01N0EF67B
 * **Author:** eero inc.
-* **Release Date:** November 22, 2016 @ 19:36:55
+* **Release Date:** November 22, 2016 @ 20:36:55
 * **Privacy Policy:** https://eero.com/legal/privacy
 * **Terms of Use:** https://eero.com/legal/tos
 * **Account Linking Domains:** support.eero.com, assets.eero.com, corp.trusourcelabs.com, eero.brightpattern.com, eero.zendesk.com, maxcdn.bootstrapcdn.com, p4.zdassets.com, www.google-analytics.com

@@ -20,5 +20,5 @@ The Ethics Exam skill provides you with a review of important ethical guidelines
 * **ID:** amzn1.echo-sdk-ams.app.a6467907-34df-45b0-a8b3-0ee638beabec
 * **ASIN:** B01I22CL1S
 * **Author:** Licensure Exams, Inc.
-* **Release Date:** July 13, 2016 @ 07:27:32
+* **Release Date:** July 13, 2016 @ 08:27:32
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Blue Hills Ski Area Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.7fb979b4-6aaf-429d-b553-7667bc1417d3
 * **ASIN:** B01M7RZS75
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:16:15
+* **Release Date:** October 21, 2016 @ 15:16:15
 * **In-App Purchasing:** No

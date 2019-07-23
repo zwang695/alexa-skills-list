@@ -20,5 +20,5 @@ The Crested Butte Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.d99c0a7b-5654-423c-b3e7-adc56cde9e45
 * **ASIN:** B01LXFK1NA
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:44:12
+* **Release Date:** October 19, 2016 @ 11:44:12
 * **In-App Purchasing:** No

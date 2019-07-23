@@ -20,5 +20,5 @@ To use the Crazy Fact skill, try saying...
 * **ID:** amzn1.ask.skill.117fb70f-124b-4814-aff3-c0b0dc5b00d4
 * **ASIN:** B01M13DIF1
 * **Author:** Designer
-* **Release Date:** September 17, 2016 @ 02:41:59
+* **Release Date:** September 17, 2016 @ 03:41:59
 * **In-App Purchasing:** No

@@ -36,5 +36,5 @@ Visit GreenMarketsBuddy.com for more info.
 * **ID:** amzn1.echo-sdk-ams.app.d3f1a497-aacc-4d5f-bd37-97a5eba7e917
 * **ASIN:** B01G9CLEXE
 * **Author:** Active Locations, LLC
-* **Release Date:** June 23, 2016 @ 08:15:55
+* **Release Date:** June 23, 2016 @ 09:15:55
 * **In-App Purchasing:** No

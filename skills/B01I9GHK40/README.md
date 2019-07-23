@@ -39,7 +39,7 @@ If you have any problem when you use this skill, you can contact us with email :
 * **ID:** amzn1.ask.skill.d879feaf-c8f1-4c3a-a15c-aaad7b5a776d
 * **ASIN:** B01I9GHK40
 * **Author:** tuya technology
-* **Release Date:** July 26, 2016 @ 16:26:17
+* **Release Date:** July 26, 2016 @ 17:26:17
 * **Privacy Policy:** https://call.echo.tuyaus.com/alexa/privacy.html
 * **Account Linking Domains:** call.echo.tuyaus.com
 * **In-App Purchasing:** No

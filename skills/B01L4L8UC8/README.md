@@ -18,5 +18,5 @@ Learn various facts about different kinds of lamps throughout history.
 * **ID:** amzn1.ask.skill.d3d85e17-a627-4032-935b-bef542ff5862
 * **ASIN:** B01L4L8UC8
 * **Author:** ProgrammingAce
-* **Release Date:** September 5, 2016 @ 06:33:15
+* **Release Date:** September 5, 2016 @ 07:33:15
 * **In-App Purchasing:** No

@@ -30,5 +30,5 @@ Current Metrics: games played, passing attempts, completions, passing yards, yar
 * **ID:** amzn1.echo-sdk-ams.app.c565f60c-9587-49f8-9131-abed9b952cc3
 * **ASIN:** B01L2VFZ5U
 * **Author:** mehtaculous
-* **Release Date:** September 8, 2016 @ 06:35:04
+* **Release Date:** September 8, 2016 @ 07:35:04
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ You may be surprised as to which occasion is being celebrated!
 * **ID:** amzn1.echo-sdk-ams.app.67db03a0-85b8-460f-8f95-5bdeec3ccf9c
 * **ASIN:** B01GLRZRLM
 * **Author:** Kyleap, LLC
-* **Release Date:** June 8, 2016 @ 07:41:25
+* **Release Date:** June 8, 2016 @ 08:41:25
 * **In-App Purchasing:** No

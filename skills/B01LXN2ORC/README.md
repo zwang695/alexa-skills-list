@@ -20,5 +20,5 @@ Have you ever wanted to learn about the city of Seattle? This Alexa skill will t
 * **ID:** amzn1.ask.skill.3a9b2a64-9cd9-4c40-a3e9-6f8e58430bed
 * **ASIN:** B01LXN2ORC
 * **Author:** cponeill
-* **Release Date:** October 3, 2016 @ 03:12:09
+* **Release Date:** October 3, 2016 @ 04:12:09
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill will give location Intive company offices.
 * **ID:** amzn1.ask.skill.119fd96b-5b7f-403b-a6b2-c349fdf01419
 * **ASIN:** B01M0QXJV1
 * **Author:** Boguslaw Tarnowski
-* **Release Date:** October 4, 2016 @ 02:13:39
+* **Release Date:** October 4, 2016 @ 03:13:39
 * **In-App Purchasing:** No

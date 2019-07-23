@@ -20,5 +20,5 @@ The Mystic Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.edc56ce4-6bee-4143-8bea-9e811d01f11a
 * **ASIN:** B01MREYA5E
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:16:03
+* **Release Date:** November 4, 2016 @ 09:16:03
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This will give you facts about wavycloud
 * **ID:** amzn1.ask.skill.954bb223-051a-493a-8ba9-0be979eb9a2f
 * **ASIN:** B01JDLQ9N8
 * **Author:** wavycloud
-* **Release Date:** August 24, 2016 @ 01:31:42
+* **Release Date:** August 24, 2016 @ 02:31:42
 * **In-App Purchasing:** No

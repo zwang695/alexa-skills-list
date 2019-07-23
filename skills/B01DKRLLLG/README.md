@@ -26,5 +26,5 @@ Wiki Brains knows many of the 5000 pages were the most accessed on the English W
 * **ID:** amzn1.echo-sdk-ams.app.0e11e151-a3c4-4cee-a54a-c4f0dc1ea0a5
 * **ASIN:** B01DKRLLLG
 * **Author:** Laynr
-* **Release Date:** March 31, 2016 @ 07:02:42
+* **Release Date:** March 31, 2016 @ 08:02:42
 * **In-App Purchasing:** No

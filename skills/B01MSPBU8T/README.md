@@ -20,5 +20,5 @@ Provide this skill with the name of a college, and it will tell you what their t
 * **ID:** amzn1.ask.skill.1cd24f26-f497-4978-b5cf-15098c5eee2d
 * **ASIN:** B01MSPBU8T
 * **Author:** TGIBriday
-* **Release Date:** December 2, 2016 @ 07:05:47
+* **Release Date:** December 2, 2016 @ 08:05:47
 * **In-App Purchasing:** No

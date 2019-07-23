@@ -20,5 +20,5 @@ The Unofficial Superhero Tabletop Assistant is a fan-made companion skill for th
 * **ID:** amzn1.ask.skill.0ac6d1f9-475b-4c3c-add0-a70582df9e9a
 * **ASIN:** B01NBA23UP
 * **Author:** Firebat.io
-* **Release Date:** December 11, 2016 @ 01:19:25
+* **Release Date:** December 11, 2016 @ 02:19:25
 * **In-App Purchasing:** No

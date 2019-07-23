@@ -20,5 +20,5 @@ I used a template to create this skill. When we ask Alexa for a specific snack r
 * **ID:** amzn1.ask.skill.590a3ffc-d181-44ec-9991-eecac13068a6
 * **ASIN:** B01N4824ZL
 * **Author:** Danny co
-* **Release Date:** December 3, 2016 @ 04:35:19
+* **Release Date:** December 3, 2016 @ 05:35:19
 * **In-App Purchasing:** No

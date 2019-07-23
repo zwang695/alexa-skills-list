@@ -20,5 +20,5 @@ This skill gives a user 10 synonym questions in English. If the user answer corr
 * **ID:** amzn1.ask.skill.b73eb726-93c4-4844-b798-46f633f6638f
 * **ASIN:** B01MCW21RK
 * **Author:** Meowth
-* **Release Date:** November 9, 2016 @ 02:13:05
+* **Release Date:** November 9, 2016 @ 03:13:05
 * **In-App Purchasing:** No

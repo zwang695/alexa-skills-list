@@ -20,5 +20,5 @@ Protein is the most expensive part of any meal, and you can save a lot of money 
 * **ID:** amzn1.echo-sdk-ams.app.d61bc2fe-a75a-4d84-aaf5-8a63549639e2
 * **ASIN:** B01HJ5L4Q2
 * **Author:** Chris Caruso
-* **Release Date:** July 1, 2016 @ 04:27:42
+* **Release Date:** July 1, 2016 @ 05:27:42
 * **In-App Purchasing:** No

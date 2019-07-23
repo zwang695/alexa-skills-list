@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.840daaff-5b01-435a-a462-ae953ecbe702
 * **ASIN:** B01N0LBWMF
 * **Author:** Michael Bazos
-* **Release Date:** December 2, 2016 @ 23:35:29
+* **Release Date:** December 3, 2016 @ 00:35:29
 * **In-App Purchasing:** No

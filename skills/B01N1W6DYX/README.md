@@ -20,5 +20,5 @@ Just ask New Year the time left in your city, saying: Alexa, ask New Year the ti
 * **ID:** amzn1.ask.skill.cd14a28e-e1a2-4f58-8437-2bfee4d10acb
 * **ASIN:** B01N1W6DYX
 * **Author:** TiagoGB
-* **Release Date:** January 2, 2017 @ 02:19:14
+* **Release Date:** January 2, 2017 @ 03:19:14
 * **In-App Purchasing:** No

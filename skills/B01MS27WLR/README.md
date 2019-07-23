@@ -20,5 +20,5 @@ Quickly and easily convert between two currencies. Over 150 currencies are suppo
 * **ID:** amzn1.ask.skill.9167f1cc-90a5-4a3e-9106-2acbe966472d
 * **ASIN:** B01MS27WLR
 * **Author:** Logical Enigma
-* **Release Date:** January 2, 2017 @ 07:48:53
+* **Release Date:** January 2, 2017 @ 08:48:53
 * **In-App Purchasing:** No

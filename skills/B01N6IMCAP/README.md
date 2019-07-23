@@ -20,5 +20,5 @@ Joke fairy is an unofficial joke search for reddit jokes. Ask joke fairy for a j
 * **ID:** amzn1.ask.skill.b914397d-62fd-4ac5-94a9-bce514efb82c
 * **ASIN:** B01N6IMCAP
 * **Author:** Dan Shorstein
-* **Release Date:** December 24, 2016 @ 06:19:17
+* **Release Date:** December 24, 2016 @ 07:19:17
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Nigeria Facts, tells you some basic facts about Nigeria
 * **ID:** amzn1.ask.skill.9d3ccad9-5dcd-4fcd-a24e-28466150c277
 * **ASIN:** B01JDN304W
 * **Author:** Afrilogic
-* **Release Date:** August 2, 2016 @ 08:41:35
+* **Release Date:** August 2, 2016 @ 09:41:35
 * **In-App Purchasing:** No

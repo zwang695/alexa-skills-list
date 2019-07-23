@@ -20,5 +20,5 @@ The Blandford Ski Area Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.5623c2f5-300b-453b-841c-ca6c4957c541
 * **ASIN:** B01M66DLD3
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:16:08
+* **Release Date:** October 21, 2016 @ 15:16:08
 * **In-App Purchasing:** No

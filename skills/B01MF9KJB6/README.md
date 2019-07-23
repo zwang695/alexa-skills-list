@@ -28,5 +28,5 @@ PLEASE NOTE:
 * **ID:** amzn1.ask.skill.4956d469-65cc-4993-9df0-b4246122cb02
 * **ASIN:** B01MF9KJB6
 * **Author:** Fluff Stuff Studios
-* **Release Date:** November 2, 2016 @ 02:13:42
+* **Release Date:** November 2, 2016 @ 03:13:42
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Fact skill to supply the user with fun music facts!
 * **ID:** amzn1.ask.skill.a0d3a9df-4640-48ee-95d8-d2f811ac37c6
 * **ASIN:** B01N2XUV2X
 * **Author:** Ryan Cole
-* **Release Date:** December 28, 2016 @ 03:49:14
+* **Release Date:** December 28, 2016 @ 04:49:14
 * **In-App Purchasing:** No

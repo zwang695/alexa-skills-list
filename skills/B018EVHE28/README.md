@@ -20,7 +20,7 @@ With Demotivate Me you can access your subconcious's deepest and darkest thought
 * **ID:** amzn1.echo-sdk-ams.app.4f43b51a-4251-4d85-8a78-f6f437937624
 * **ASIN:** B018EVHE28
 * **Author:** TsaTsaTzu
-* **Release Date:** November 23, 2015 @ 12:22:42
+* **Release Date:** November 23, 2015 @ 13:22:42
 * **Privacy Policy:** http://ocean-of-storms.com/tsatsatzu/legal/dm_privacy.htm
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/dm_terms.htm
 * **In-App Purchasing:** No

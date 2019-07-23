@@ -24,5 +24,5 @@ Note: If you have a real crocodile infestation, this skill will not help you avo
 * **ID:** amzn1.echo-sdk-ams.app.d1ce1330-22a2-45b8-920a-ff197b552f10
 * **ASIN:** B01CZWI6OM
 * **Author:** Mars Puppy
-* **Release Date:** March 15, 2016 @ 05:29:58
+* **Release Date:** March 15, 2016 @ 06:29:58
 * **In-App Purchasing:** No

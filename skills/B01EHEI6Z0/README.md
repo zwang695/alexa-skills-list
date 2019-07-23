@@ -20,5 +20,5 @@ Alexa asks 5 trivia questions and the user gets scored based on correct answers.
 * **ID:** amzn1.echo-sdk-ams.app.3bf939e2-bf91-41a2-a335-2153b8c3bd10
 * **ASIN:** B01EHEI6Z0
 * **Author:** Rafa
-* **Release Date:** April 25, 2016 @ 08:38:30
+* **Release Date:** April 25, 2016 @ 09:38:30
 * **In-App Purchasing:** No

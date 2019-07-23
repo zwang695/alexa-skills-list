@@ -20,5 +20,5 @@ Alexa can now tell you quotes from the second President of the United States of 
 * **ID:** amzn1.ask.skill.ceefa219-96db-4efa-8f6f-26cb95adb9b4
 * **ASIN:** B01LWR0RXV
 * **Author:** Elvis Wolcott
-* **Release Date:** October 8, 2016 @ 03:41:54
+* **Release Date:** October 8, 2016 @ 04:41:54
 * **In-App Purchasing:** No

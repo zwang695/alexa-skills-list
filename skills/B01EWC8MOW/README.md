@@ -20,5 +20,5 @@ This skill gives you a random exercise to do, similar to the "deck of cards" wor
 * **ID:** amzn1.echo-sdk-ams.app.9b57beff-7854-45ca-8825-8357ae18a762
 * **ASIN:** B01EWC8MOW
 * **Author:** mookiefdr
-* **Release Date:** May 5, 2016 @ 06:38:41
+* **Release Date:** May 5, 2016 @ 07:38:41
 * **In-App Purchasing:** No

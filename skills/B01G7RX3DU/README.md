@@ -55,7 +55,7 @@ This is *NOT* an official app from usgovernmentdebt.us and is not any way offici
 * **ID:** amzn1.echo-sdk-ams.app.2e240862-679e-457b-b510-d4e3fde45536
 * **ASIN:** B01G7RX3DU
 * **Author:** C-T LLC.
-* **Release Date:** May 27, 2016 @ 06:08:35
+* **Release Date:** May 27, 2016 @ 07:08:35
 * **Privacy Policy:** https://github.com/Coding4Liberty/ASK-Reporter-for-the-US-Federal-Government-Debt/wiki/Privacy-Policy
 * **Terms of Use:** https://github.com/Coding4Liberty/ASK-Reporter-for-the-US-Federal-Government-Debt/wiki/Terms-of-Use
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Game Devs will test your knowledge of video gaming history. To get started say "
 * **ID:** amzn1.echo-sdk-ams.app.9ca546b7-6e5a-4b3a-af41-f0f3b37f704e
 * **ASIN:** B01HR19366
 * **Author:** BadBinary LTD
-* **Release Date:** July 21, 2016 @ 08:27:39
+* **Release Date:** July 21, 2016 @ 09:27:39
 * **In-App Purchasing:** No

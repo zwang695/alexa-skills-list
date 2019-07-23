@@ -22,5 +22,5 @@ Simply ask San Diego Local for a fact, and you'll expand your local knowledge in
 * **ID:** amzn1.ask.skill.6abc43cf-aab5-4865-a2f4-53ce046c0685
 * **ASIN:** B01N483SAM
 * **Author:** Chris Chain
-* **Release Date:** December 15, 2016 @ 04:49:48
+* **Release Date:** December 15, 2016 @ 05:49:48
 * **In-App Purchasing:** No

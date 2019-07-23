@@ -24,5 +24,5 @@ For feedback, compliments, problems, compliments, concerns or just compliments -
 * **ID:** amzn1.echo-sdk-ams.app.eb200d1a-b905-4c72-ad9d-a8d5e9a022d1
 * **ASIN:** B01J0CQ8EA
 * **Author:** Streets Ahead
-* **Release Date:** July 29, 2016 @ 09:26:26
+* **Release Date:** July 29, 2016 @ 10:26:26
 * **In-App Purchasing:** No

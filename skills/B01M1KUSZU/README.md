@@ -16,5 +16,5 @@ A silly skill about deciding what pet to get.
 * **ID:** amzn1.ask.skill.f92689fd-0165-4b94-9411-9d1dc8d16f21
 * **ASIN:** B01M1KUSZU
 * **Author:** Kristan Elmer
-* **Release Date:** October 4, 2016 @ 02:42:24
+* **Release Date:** October 4, 2016 @ 03:42:24
 * **In-App Purchasing:** No

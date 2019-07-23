@@ -20,5 +20,5 @@ Sometimes it is hard to decide what to eat and where to eat. Why not have a lunc
 * **ID:** amzn1.ask.skill.4c7a8643-5433-4fe0-be38-e8194206cde1
 * **ASIN:** B01N65XQ5Y
 * **Author:** ReadingEveryday
-* **Release Date:** November 21, 2016 @ 23:35:31
+* **Release Date:** November 22, 2016 @ 00:35:31
 * **In-App Purchasing:** No

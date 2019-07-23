@@ -49,7 +49,7 @@ Why Big Sky?  Because it's better weather.
 * **ID:** amzn1.echo-sdk-ams.app.06a72621-54b9-4767-a2e9-db3837fe9aae
 * **ASIN:** B01GU4MBM4
 * **Author:** Philosophical Creations
-* **Release Date:** June 23, 2016 @ 05:46:01
+* **Release Date:** June 23, 2016 @ 06:46:01
 * **Privacy Policy:** http://sarkonovich-2.elasticbeanstalk.com/privacy
 * **Terms of Use:** http://sarkonovich-2.elasticbeanstalk.com/terms-of-service
 * **In-App Purchasing:** Yes

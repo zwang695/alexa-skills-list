@@ -22,5 +22,5 @@ FYI: Stopwatch was not specifically used because Alexa will not allow to you to 
 * **ID:** amzn1.ask.skill.2bc9e884-baa5-4e3b-b322-301cfc80db7a
 * **ASIN:** B01IQPDMSM
 * **Author:** steckdev
-* **Release Date:** August 1, 2016 @ 09:57:02
+* **Release Date:** August 1, 2016 @ 10:57:02
 * **In-App Purchasing:** No

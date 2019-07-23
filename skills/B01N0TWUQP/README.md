@@ -20,5 +20,5 @@ Motivation Quotes that will encourage and inspire you. All quotes are hand-picke
 * **ID:** amzn1.ask.skill.47fd8cd4-0457-4aab-a557-c219aef87162
 * **ASIN:** B01N0TWUQP
 * **Author:** 1981
-* **Release Date:** December 27, 2016 @ 06:19:06
+* **Release Date:** December 27, 2016 @ 07:19:06
 * **In-App Purchasing:** No

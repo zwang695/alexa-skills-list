@@ -22,5 +22,5 @@ Ask RickOrMorty (Fan-made) for a quote, then you tell Alexa your guess which Ric
 * **ID:** amzn1.ask.skill.71fca2a9-bfd7-4f40-a61e-d4bb2d90e72f
 * **ASIN:** B01MT1UTRX
 * **Author:** Blarry
-* **Release Date:** December 30, 2016 @ 04:19:16
+* **Release Date:** December 30, 2016 @ 05:19:16
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This summer, all eyes will be on Rio de Janeiro, Brazil, in anticipation of the 
 * **ID:** amzn1.ask.skill.d5e0355b-d2a6-4c89-93e9-be97a3aed89c
 * **ASIN:** B01J2R9MKK
 * **Author:** Andrew
-* **Release Date:** July 28, 2016 @ 03:56:35
+* **Release Date:** July 28, 2016 @ 04:56:35
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ With Mail Box skill, Alexa can help you read and send emails. After enabling thi
 * **ID:** amzn1.ask.skill.ad5553ad-27ac-4643-bf07-f7ff05053282
 * **ASIN:** B01LMLFNB6
 * **Author:** NeuralFirings
-* **Release Date:** December 25, 2016 @ 04:49:17
+* **Release Date:** December 25, 2016 @ 05:49:17
 * **Privacy Policy:** https://mailboxskill.xyz/policy
 * **Account Linking Domains:** mailboxskill.xyz
 * **In-App Purchasing:** No

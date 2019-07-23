@@ -20,5 +20,5 @@ This skill recites famous Gayatri Mantra used in daily life for positive energy 
 * **ID:** amzn1.ask.skill.ddca8055-a043-4424-b340-365c33969220
 * **ASIN:** B01J16I5NW
 * **Author:** neeti sharma
-* **Release Date:** July 27, 2016 @ 07:26:22
+* **Release Date:** July 27, 2016 @ 08:26:22
 * **In-App Purchasing:** No

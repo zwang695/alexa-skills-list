@@ -28,5 +28,5 @@ http://tripplanner.kingcounty.gov/hiwire?.a=iNextBus&.s=2t5d6l4cqrsm9&NextBus=ON
 * **ID:** amzn1.echo-sdk-ams.app.db5351ad-8bae-431b-ab2d-d20b256f0af2
 * **ASIN:** B01GOTHPQW
 * **Author:** CMM Tech
-* **Release Date:** June 13, 2016 @ 02:09:40
+* **Release Date:** June 13, 2016 @ 03:09:40
 * **In-App Purchasing:** No

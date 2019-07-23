@@ -24,5 +24,5 @@ Want to add an act of kindness to the list? Send us an email at info@geekgirlmar
 * **ID:** amzn1.ask.skill.351f7322-bdd6-4161-8867-fb1d138e7c05
 * **ASIN:** B01MSRTTES
 * **Author:** GeekGirl Marketing and App Development
-* **Release Date:** December 9, 2016 @ 10:19:02
+* **Release Date:** December 9, 2016 @ 11:19:02
 * **In-App Purchasing:** No

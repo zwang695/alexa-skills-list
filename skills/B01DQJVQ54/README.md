@@ -23,5 +23,5 @@ How many islands do you think there are in Indonesia?
 * **ID:** amzn1.echo-sdk-ams.app.687cd562-f85c-4123-8283-10f0a2a28df2
 * **ASIN:** B01DQJVQ54
 * **Author:** Kelvien
-* **Release Date:** April 18, 2016 @ 15:32:34
+* **Release Date:** April 18, 2016 @ 16:32:34
 * **In-App Purchasing:** No

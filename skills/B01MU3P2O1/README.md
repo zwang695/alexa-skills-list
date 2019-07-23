@@ -20,5 +20,5 @@ This is a simple skill to give you a stoic quote. Please let me know if I left y
 * **ID:** amzn1.ask.skill.77fe6c7f-3908-4d48-b3c0-9e47cb20db95
 * **ASIN:** B01MU3P2O1
 * **Author:** Cymor Tech
-* **Release Date:** December 24, 2016 @ 09:19:19
+* **Release Date:** December 24, 2016 @ 10:19:19
 * **In-App Purchasing:** No

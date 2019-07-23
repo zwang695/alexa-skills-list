@@ -20,5 +20,5 @@ The Maverick Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.5de1a6e5-3cfd-4623-9bfc-7a0033f474b9
 * **ASIN:** B01MF9RMTC
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:45:49
+* **Release Date:** October 21, 2016 @ 15:45:49
 * **In-App Purchasing:** No

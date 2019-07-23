@@ -22,5 +22,5 @@ Note: This skill is not created or endorsed by the USDA, all temperatures are ta
 * **ID:** amzn1.ask.skill.79173460-0452-4aa9-954e-fd34a7f1de77
 * **ASIN:** B01N2NWEZF
 * **Author:** arch3r
-* **Release Date:** December 11, 2016 @ 03:19:21
+* **Release Date:** December 11, 2016 @ 04:19:21
 * **In-App Purchasing:** No

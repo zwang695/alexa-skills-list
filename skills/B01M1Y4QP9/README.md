@@ -20,5 +20,5 @@ The Steamboat Springs Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.9bfce44c-b5cd-4759-b356-cc296e73f5fe
 * **ASIN:** B01M1Y4QP9
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:13:41
+* **Release Date:** October 19, 2016 @ 12:13:41
 * **In-App Purchasing:** No

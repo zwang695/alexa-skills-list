@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.35a909d5-b7fe-41d7-9534-d3210d2357d9
 * **ASIN:** B01N1TTUEM
 * **Author:** sbormueller
-* **Release Date:** December 24, 2016 @ 07:49:13
+* **Release Date:** December 24, 2016 @ 08:49:13
 * **In-App Purchasing:** No

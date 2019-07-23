@@ -20,5 +20,5 @@ Nutrition Facts
 * **ID:** amzn1.ask.skill.5b68dc7b-b440-4b0a-b688-76b6a6676533
 * **ASIN:** B01KBTFIYW
 * **Author:** Han Wang
-* **Release Date:** August 18, 2016 @ 04:52:18
+* **Release Date:** August 18, 2016 @ 05:52:18
 * **In-App Purchasing:** No

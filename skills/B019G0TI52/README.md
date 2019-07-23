@@ -20,7 +20,7 @@ Guests have the ability to answer trivia questions from the Star Wars universe b
 * **ID:** amzn1.echo-sdk-ams.app.794047e0-bb14-472c-b7d4-3256336230a3
 * **ASIN:** B019G0TI52
 * **Author:** Disney
-* **Release Date:** December 16, 2015 @ 14:04:20
+* **Release Date:** December 16, 2015 @ 15:04:20
 * **Privacy Policy:** https://disneyprivacycenter.com/
 * **Terms of Use:** https://disneytermsofuse.com/
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Do you know Morrissey? Ask MozFacts to tell you some facts about his life and ca
 * **ID:** amzn1.ask.skill.5b5e61cf-19bd-46c0-9243-6eee1888ad5c
 * **ASIN:** B01NCJVIFP
 * **Author:** Joel Elliston
-* **Release Date:** December 11, 2016 @ 01:19:13
+* **Release Date:** December 11, 2016 @ 02:19:13
 * **In-App Purchasing:** No

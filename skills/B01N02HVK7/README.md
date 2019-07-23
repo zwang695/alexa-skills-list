@@ -20,7 +20,7 @@ The QRS piano skill allows you to control your QRS Piano from any location once 
 * **ID:** amzn1.ask.skill.ebe2b8a3-0623-420c-b312-4512ead8743e
 * **ASIN:** B01N02HVK7
 * **Author:** QRS Music
-* **Release Date:** November 16, 2016 @ 02:36:02
+* **Release Date:** November 16, 2016 @ 03:36:02
 * **Privacy Policy:** https://www.qrsmusic.com/privacy.asp
 * **Account Linking Domains:** app.qrspno.com
 * **In-App Purchasing:** No

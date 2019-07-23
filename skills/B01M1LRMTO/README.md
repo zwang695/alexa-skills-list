@@ -22,5 +22,5 @@ What happened today gives you information about famous events from the past that
 * **ID:** amzn1.ask.skill.caeaf352-1b5b-4aca-9145-cfcb8092bb98
 * **ASIN:** B01M1LRMTO
 * **Author:** Chris Koos
-* **Release Date:** October 7, 2016 @ 07:41:56
+* **Release Date:** October 7, 2016 @ 08:41:56
 * **In-App Purchasing:** No

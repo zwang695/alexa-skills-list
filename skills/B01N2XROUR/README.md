@@ -20,5 +20,5 @@ This is a tool used to learn how to exercise
 * **ID:** amzn1.ask.skill.17beeec8-6a91-432e-871b-793ec27002d0
 * **ASIN:** B01N2XROUR
 * **Author:** ahowe
-* **Release Date:** December 28, 2016 @ 23:50:23
+* **Release Date:** December 29, 2016 @ 00:50:23
 * **In-App Purchasing:** No

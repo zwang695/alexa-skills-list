@@ -20,5 +20,5 @@ Test your knowledge of the Netherlands, its major attractions, cities, and histo
 * **ID:** amzn1.echo-sdk-ams.app.e5be97a0-edc3-42c9-b2be-0896bfc1d07a
 * **ASIN:** B01FOQYH62
 * **Author:** Ben Plantinga
-* **Release Date:** May 16, 2016 @ 14:08:34
+* **Release Date:** May 16, 2016 @ 15:08:34
 * **In-App Purchasing:** No

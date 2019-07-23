@@ -33,5 +33,5 @@ Have fun!
 * **ID:** amzn1.echo-sdk-ams.app.a79f3b26-707e-4bf2-bcd0-a5328dfc4195
 * **ASIN:** B01FOY5OJ8
 * **Author:** Webguild
-* **Release Date:** May 27, 2016 @ 04:38:32
+* **Release Date:** May 27, 2016 @ 05:38:32
 * **In-App Purchasing:** No

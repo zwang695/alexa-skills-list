@@ -21,5 +21,5 @@ It's a great skill when you are feeling tired and can't think of how to make som
 * **ID:** amzn1.echo-sdk-ams.app.713843d8-405c-465a-8607-bb8acf0b9ec0
 * **ASIN:** B01FLGTUNA
 * **Author:** Shivansh Singh
-* **Release Date:** May 19, 2016 @ 06:08:39
+* **Release Date:** May 19, 2016 @ 07:08:39
 * **In-App Purchasing:** No

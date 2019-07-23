@@ -20,5 +20,5 @@ Just learn how to squeak!
 * **ID:** amzn1.ask.skill.92c51e37-3980-43a7-b6db-8b6ceb3ecb18
 * **ASIN:** B01MS1KKKM
 * **Author:** Squeakeroo
-* **Release Date:** December 31, 2016 @ 00:19:45
+* **Release Date:** December 31, 2016 @ 01:19:45
 * **In-App Purchasing:** No

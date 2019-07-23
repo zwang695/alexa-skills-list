@@ -33,5 +33,5 @@ DISCLAIMER: One Line Joker may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.9dbdabe1-6d20-409f-b367-81964cc0d72d
 * **ASIN:** B01I769GNK
 * **Author:** Logzer0
-* **Release Date:** July 29, 2016 @ 07:56:42
+* **Release Date:** July 29, 2016 @ 08:56:42
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Some amazing facts about human brain
 * **ID:** amzn1.ask.skill.b822f635-2feb-43af-a0c0-a564bea3762d
 * **ASIN:** B01KJEWSD8
 * **Author:** suvinks
-* **Release Date:** August 18, 2016 @ 02:22:27
+* **Release Date:** August 18, 2016 @ 03:22:27
 * **In-App Purchasing:** No

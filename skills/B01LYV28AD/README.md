@@ -20,7 +20,7 @@ Shares a random Daily Quote for Alexa users.
 * **ID:** amzn1.ask.skill.2fad6963-5be4-45f8-9582-b4f74f2ecc28
 * **ASIN:** B01LYV28AD
 * **Author:** Independent Software Developer
-* **Release Date:** September 28, 2016 @ 18:12:11
+* **Release Date:** September 28, 2016 @ 19:12:11
 * **Privacy Policy:** https://github.com/ruchi-jain/daily-quotes-alexa/blob/master/Privacy%20Policy.md
 * **Terms of Use:** https://github.com/ruchi-jain/daily-quotes-alexa/blob/master/Terms%20of%20Use.md
 * **In-App Purchasing:** No

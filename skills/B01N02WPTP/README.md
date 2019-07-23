@@ -20,5 +20,5 @@ Facts and Trivia about the superbowl (American football championship game). Grea
 * **ID:** amzn1.ask.skill.cba46603-3b0f-4ccc-94be-44dec0ad57d4
 * **ASIN:** B01N02WPTP
 * **Author:** eRose Web & Business Services, LLC
-* **Release Date:** November 11, 2016 @ 01:14:38
+* **Release Date:** November 11, 2016 @ 02:14:38
 * **In-App Purchasing:** No

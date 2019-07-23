@@ -20,5 +20,5 @@ A skill that describes different facts known by a local Bay Area fan.
 * **ID:** amzn1.ask.skill.03100df4-04cd-40c9-a0a3-7d141d004210
 * **ASIN:** B01L4S3H7O
 * **Author:** connies0nguyen
-* **Release Date:** August 30, 2016 @ 01:32:44
+* **Release Date:** August 30, 2016 @ 02:32:44
 * **In-App Purchasing:** No

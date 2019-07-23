@@ -20,5 +20,5 @@ Test your knowledge of New England and prove that you are a real Yankee.
 * **ID:** amzn1.echo-sdk-ams.app.57ae98ce-375f-421e-909a-6e1875074951
 * **ASIN:** B01ISBW4VA
 * **Author:** Visible Web Solutions
-* **Release Date:** July 29, 2016 @ 08:56:36
+* **Release Date:** July 29, 2016 @ 09:56:36
 * **In-App Purchasing:** No

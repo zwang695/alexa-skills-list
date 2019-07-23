@@ -20,5 +20,5 @@ The Book of Psalms enables Echo to read any Psalm, simply by asking to recite a 
 * **ID:** amzn1.echo-sdk-ams.app.d2bed1bf-d125-4bde-870d-8508f2759afb
 * **ASIN:** B01GYEDYLW
 * **Author:** Malus Grimoire, Corp.
-* **Release Date:** June 16, 2016 @ 07:45:46
+* **Release Date:** June 16, 2016 @ 08:45:46
 * **In-App Purchasing:** No

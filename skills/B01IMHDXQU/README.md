@@ -20,5 +20,5 @@ Built by a business students for business students. Marketing Flash Cards helps 
 * **ID:** amzn1.echo-sdk-ams.app.55370d06-8b0b-4eae-88c1-87943f49e9a1
 * **ASIN:** B01IMHDXQU
 * **Author:** Tyler Lauretti
-* **Release Date:** July 19, 2016 @ 03:57:31
+* **Release Date:** July 19, 2016 @ 04:57:31
 * **In-App Purchasing:** Yes

@@ -20,5 +20,5 @@ This skill gives some interesting facts about the composer J.S. Bach.  The devel
 * **ID:** amzn1.ask.skill.3779d69a-2615-4f02-8d7c-f04b6bfddc38
 * **ASIN:** B01N5BOK7R
 * **Author:** shaloub
-* **Release Date:** December 8, 2016 @ 08:20:10
+* **Release Date:** December 8, 2016 @ 09:20:10
 * **In-App Purchasing:** No

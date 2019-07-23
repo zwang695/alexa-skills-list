@@ -20,5 +20,5 @@ It turns out a lot of pick up lines out there are just plain bad. Only the ones 
 * **ID:** amzn1.ask.skill.5714bf92-8902-41b3-be21-e29993599d65
 * **ASIN:** B01N4JLEDQ
 * **Author:** garymei
-* **Release Date:** January 3, 2017 @ 08:24:13
+* **Release Date:** January 3, 2017 @ 09:24:13
 * **In-App Purchasing:** No

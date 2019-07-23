@@ -20,5 +20,5 @@ This app will test your knowledge of the U.S. presidents' birthday. These are ra
 * **ID:** amzn1.ask.skill.9c09e764-ac2a-4b29-909b-fa47801aa7c9
 * **ASIN:** B01L0N9IFI
 * **Author:** engineering consultant
-* **Release Date:** August 26, 2016 @ 02:33:13
+* **Release Date:** August 26, 2016 @ 03:33:13
 * **In-App Purchasing:** No

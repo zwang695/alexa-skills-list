@@ -20,5 +20,5 @@ Reads the user a fortune-cookie fortune from a list when skill is invoked. Try "
 * **ID:** amzn1.ask.skill.18bc1672-d44d-451e-9bb7-475555568ec3
 * **ASIN:** B01JDO5IY6
 * **Author:** Erin Sullivan
-* **Release Date:** August 5, 2016 @ 04:07:34
+* **Release Date:** August 5, 2016 @ 05:07:34
 * **In-App Purchasing:** No

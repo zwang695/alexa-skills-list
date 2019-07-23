@@ -26,5 +26,5 @@ If you fail to respond in time, that's ok. Just re-open Relationary and it picks
 * **ID:** amzn1.echo-sdk-ams.app.3d130aa0-c3d9-4d03-aa35-05c9730af87b
 * **ASIN:** B01CKI96DG
 * **Author:** Mark Einhorn
-* **Release Date:** March 4, 2016 @ 15:04:35
+* **Release Date:** March 4, 2016 @ 16:04:35
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.3215b6fa-3abe-4c0f-987b-20548f0cf316
 * **ASIN:** B01N7C3767
 * **Author:** Sebastian Thiele
-* **Release Date:** December 1, 2016 @ 05:05:13
+* **Release Date:** December 1, 2016 @ 06:05:13
 * **In-App Purchasing:** No

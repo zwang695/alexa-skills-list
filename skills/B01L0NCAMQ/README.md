@@ -20,5 +20,5 @@ Fortune Cookie is a fun facts tool by randomly sharing fortune cookie sayings.  
 * **ID:** amzn1.ask.skill.1ce5e16b-6a39-4b5e-acba-124822f7052f
 * **ASIN:** B01L0NCAMQ
 * **Author:** aventir
-* **Release Date:** August 26, 2016 @ 01:33:13
+* **Release Date:** August 26, 2016 @ 02:33:13
 * **In-App Purchasing:** No

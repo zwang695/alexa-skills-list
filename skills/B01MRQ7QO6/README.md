@@ -20,5 +20,5 @@ learn ocean facts
 * **ID:** amzn1.ask.skill.84ac50f4-2f0f-43b2-83e9-c411ed6f98bc
 * **ASIN:** B01MRQ7QO6
 * **Author:** Rachel Weaver
-* **Release Date:** December 1, 2016 @ 03:05:40
+* **Release Date:** December 1, 2016 @ 04:05:40
 * **In-App Purchasing:** No

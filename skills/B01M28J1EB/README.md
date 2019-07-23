@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.60b80e75-5796-42f7-b6b4-b351b767fb7b
 * **ASIN:** B01M28J1EB
 * **Author:** HSV Fussball AG
-* **Release Date:** November 2, 2016 @ 02:13:53
+* **Release Date:** November 2, 2016 @ 03:13:53
 * **In-App Purchasing:** No

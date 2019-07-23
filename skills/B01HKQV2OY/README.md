@@ -16,7 +16,7 @@ This skill allows you to book tennis court at River Place Condo. Simply tell Ale
 * **ID:** amzn1.echo-sdk-ams.app.b0e505d4-7042-42fb-9c74-55d00d582129
 * **ASIN:** B01HKQV2OY
 * **Author:** Colin Harris
-* **Release Date:** October 4, 2016 @ 02:42:17
+* **Release Date:** October 4, 2016 @ 03:42:17
 * **Privacy Policy:** https://riverplace.colharris.com/privacy
 * **Terms of Use:** https://riverplace.colharris.com/terms
 * **Account Linking Domains:** www.colharris.com, riverplace.colharris.com

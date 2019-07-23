@@ -20,5 +20,5 @@ Useful information about the next or last Formula 1 races, the last race results
 * **ID:** amzn1.ask.skill.7b017552-4f25-4583-a488-04141245b52b
 * **ASIN:** B01JE4PUBQ
 * **Author:** Brombomb
-* **Release Date:** August 5, 2016 @ 03:37:49
+* **Release Date:** August 5, 2016 @ 04:37:49
 * **In-App Purchasing:** No

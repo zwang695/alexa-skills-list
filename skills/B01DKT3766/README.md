@@ -26,5 +26,5 @@ Pro tip, give it a good NY regional accent. Its just more fun that way.
 * **ID:** amzn1.echo-sdk-ams.app.e36f1e63-87b6-456c-bbe4-76d2f24b6c87
 * **ASIN:** B01DKT3766
 * **Author:** daniel ccharobnnet
-* **Release Date:** March 31, 2016 @ 17:02:25
+* **Release Date:** March 31, 2016 @ 18:02:25
 * **In-App Purchasing:** No

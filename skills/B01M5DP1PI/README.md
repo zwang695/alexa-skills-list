@@ -20,5 +20,5 @@ The Sundown Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.0fe952a6-8f8e-43a3-acfb-64394a5b8775
 * **ASIN:** B01M5DP1PI
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:47:26
+* **Release Date:** October 21, 2016 @ 15:47:26
 * **In-App Purchasing:** No

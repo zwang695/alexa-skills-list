@@ -20,5 +20,5 @@ Want to know some interesting United States facts? Ask Alexa!
 * **ID:** amzn1.ask.skill.fb02156b-4db2-4bc5-911b-f3830e107c3c
 * **ASIN:** B01M7SHGQ2
 * **Author:** MrTechnolgyNerd
-* **Release Date:** October 25, 2016 @ 01:49:39
+* **Release Date:** October 25, 2016 @ 02:49:39
 * **In-App Purchasing:** No

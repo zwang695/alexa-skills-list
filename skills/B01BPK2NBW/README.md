@@ -20,5 +20,5 @@ Ask Alexa to tell you the element name and its atomic number, symbol, atomic wei
 * **ID:** amzn1.echo-sdk-ams.app.87ab5ac7-9bc4-4d7a-bea3-1df75a178e31
 * **ASIN:** B01BPK2NBW
 * **Author:** Rain Labs
-* **Release Date:** February 12, 2016 @ 14:40:00
+* **Release Date:** February 12, 2016 @ 15:40:00
 * **In-App Purchasing:** No

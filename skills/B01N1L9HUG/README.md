@@ -20,5 +20,5 @@ Interesting facts about college you want to hear, at your fingertips!
 * **ID:** amzn1.ask.skill.5e2cb7b0-b4a6-4cba-a7e9-da8afdea8ce9
 * **ASIN:** B01N1L9HUG
 * **Author:** Neil Danait
-* **Release Date:** November 28, 2016 @ 03:35:16
+* **Release Date:** November 28, 2016 @ 04:35:16
 * **In-App Purchasing:** No

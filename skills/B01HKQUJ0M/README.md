@@ -20,5 +20,5 @@ Get one of more than 60 quotes from Confucious.
 * **ID:** amzn1.echo-sdk-ams.app.9546e807-a83e-440f-aa9a-f6db47627bc9
 * **ASIN:** B01HKQUJ0M
 * **Author:** Ohwah
-* **Release Date:** June 28, 2016 @ 08:45:34
+* **Release Date:** June 28, 2016 @ 09:45:34
 * **In-App Purchasing:** No

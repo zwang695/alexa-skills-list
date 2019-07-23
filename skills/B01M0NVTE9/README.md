@@ -28,5 +28,5 @@ Note: There might be some significant delays downloading the podcasts when start
 * **ID:** amzn1.ask.skill.3982f72e-7574-452e-b807-ff6f5e30a03c
 * **ASIN:** B01M0NVTE9
 * **Author:** Jeff Morgan
-* **Release Date:** October 25, 2016 @ 01:47:15
+* **Release Date:** October 25, 2016 @ 02:47:15
 * **In-App Purchasing:** No

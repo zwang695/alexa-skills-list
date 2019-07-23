@@ -20,5 +20,5 @@ Italians weren't always lucky, but they did have occasional luck! Lucky Italian 
 * **ID:** amzn1.ask.skill.ed7f7f0e-0945-49ce-837d-eceb3fff4ed0
 * **ASIN:** B01N6JWOI7
 * **Author:** Ruckus Game Studios
-* **Release Date:** December 27, 2016 @ 04:19:22
+* **Release Date:** December 27, 2016 @ 05:19:22
 * **In-App Purchasing:** No

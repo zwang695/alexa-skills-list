@@ -22,5 +22,5 @@ Can't get enough of jokes from your dad? Now you can ask Alexa for more dad joke
 * **ID:** amzn1.echo-sdk-ams.app.db589e23-eb65-45af-ac6b-f07613ddefa0
 * **ASIN:** B01GZRL9N8
 * **Author:** hdavidzhu
-* **Release Date:** June 21, 2016 @ 05:45:54
+* **Release Date:** June 21, 2016 @ 06:45:54
 * **In-App Purchasing:** No

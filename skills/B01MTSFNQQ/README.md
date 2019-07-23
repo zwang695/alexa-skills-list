@@ -20,5 +20,5 @@ Learn about a ton of facts about space and what it's like to be out in space. Be
 * **ID:** amzn1.ask.skill.2463dce3-4cf8-4342-a031-a1afa1900d01
 * **ASIN:** B01MTSFNQQ
 * **Author:** Broken Walls Studios LLC
-* **Release Date:** December 2, 2016 @ 07:35:18
+* **Release Date:** December 2, 2016 @ 08:35:18
 * **In-App Purchasing:** No

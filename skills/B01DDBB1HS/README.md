@@ -20,5 +20,5 @@ Tells you if Lake Travis is full yet.
 * **ID:** amzn1.echo-sdk-ams.app.1f8a0486-62b3-4388-af9f-917ef663196c
 * **ASIN:** B01DDBB1HS
 * **Author:** TOMCorp
-* **Release Date:** March 24, 2016 @ 02:07:03
+* **Release Date:** March 24, 2016 @ 03:07:03
 * **In-App Purchasing:** No

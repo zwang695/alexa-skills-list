@@ -24,5 +24,5 @@ Alexa, ask Vocab Helper what the definition of compile is.
 * **ID:** amzn1.echo-sdk-ams.app.a8b212cd-cf22-484a-8f52-43551f03a288
 * **ASIN:** B01GDUKRZI
 * **Author:** Winston Frick
-* **Release Date:** June 3, 2016 @ 07:38:51
+* **Release Date:** June 3, 2016 @ 08:38:51
 * **In-App Purchasing:** No

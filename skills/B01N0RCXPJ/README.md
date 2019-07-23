@@ -20,5 +20,5 @@ provides interesting set of facts on indian cricket history and the players
 * **ID:** amzn1.ask.skill.22e8c736-aee5-4543-8456-3d435a4eae1a
 * **ASIN:** B01N0RCXPJ
 * **Author:** ashok chinnappa
-* **Release Date:** December 18, 2016 @ 05:19:25
+* **Release Date:** December 18, 2016 @ 06:19:25
 * **In-App Purchasing:** No

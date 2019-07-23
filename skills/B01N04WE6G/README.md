@@ -20,5 +20,5 @@ The Meadowlark Ski Lodge Snow Report brought to you by SnoCountry brings you the
 * **ID:** amzn1.ask.skill.48c15f63-85f6-4a76-bc51-fccbf0fbeb21
 * **ASIN:** B01N04WE6G
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:42:44
+* **Release Date:** November 5, 2016 @ 11:42:44
 * **In-App Purchasing:** No

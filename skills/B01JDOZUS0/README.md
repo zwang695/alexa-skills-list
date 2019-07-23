@@ -20,5 +20,5 @@ Use this trivia game to help you hone your skills on random trivia questions.
 * **ID:** amzn1.ask.skill.e2d295b8-336b-48d1-a2cc-12296f70efd9
 * **ASIN:** B01JDOZUS0
 * **Author:** NWOps
-* **Release Date:** August 3, 2016 @ 03:41:34
+* **Release Date:** August 3, 2016 @ 04:41:34
 * **In-App Purchasing:** No

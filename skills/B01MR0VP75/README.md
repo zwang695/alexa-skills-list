@@ -20,5 +20,5 @@ TheProjectManagement.Guru LLC - PMP Quiz
 * **ID:** amzn1.ask.skill.85d211a0-66cb-45a2-b1b7-d1a32a38f717
 * **ASIN:** B01MR0VP75
 * **Author:** TheProjectManagement.Guru LLC
-* **Release Date:** January 2, 2017 @ 03:18:57
+* **Release Date:** January 2, 2017 @ 04:18:57
 * **In-App Purchasing:** Yes

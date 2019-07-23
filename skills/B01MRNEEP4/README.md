@@ -20,5 +20,5 @@ Interesting facts about sound and audio from the team at Polk audio. Ask Matt Po
 * **ID:** amzn1.ask.skill.b592c589-86dd-4952-8401-c9b17b8f138f
 * **ASIN:** B01MRNEEP4
 * **Author:** Sound United
-* **Release Date:** November 25, 2016 @ 03:39:11
+* **Release Date:** November 25, 2016 @ 04:39:11
 * **In-App Purchasing:** No

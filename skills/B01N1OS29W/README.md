@@ -20,5 +20,5 @@ This is a fan made challenging and fun trivia game.
 * **ID:** amzn1.ask.skill.0a158db5-d5e5-4d60-b09b-1a9b11c86692
 * **ASIN:** B01N1OS29W
 * **Author:** Derek Drummond
-* **Release Date:** December 11, 2016 @ 02:49:34
+* **Release Date:** December 11, 2016 @ 03:49:34
 * **In-App Purchasing:** No

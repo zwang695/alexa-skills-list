@@ -23,5 +23,5 @@ Find out more at Fun Facts. It will increase your knowledge in a fun way.
 * **ID:** amzn1.echo-sdk-ams.app.18d808f7-5566-411f-8c3c-bc691bc3d35f
 * **ASIN:** B01INNP244
 * **Author:** TheCodeBooth
-* **Release Date:** July 21, 2016 @ 05:27:35
+* **Release Date:** July 21, 2016 @ 06:27:35
 * **In-App Purchasing:** No

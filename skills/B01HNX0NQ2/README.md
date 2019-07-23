@@ -20,5 +20,5 @@ Learn fun new facts about Shakespeare.  This skill is loaded with little-known f
 * **ID:** amzn1.echo-sdk-ams.app.79be4ad0-a4ed-4961-bcb4-4a77dfefe5d5
 * **ASIN:** B01HNX0NQ2
 * **Author:** Tim North
-* **Release Date:** June 29, 2016 @ 05:58:38
+* **Release Date:** June 29, 2016 @ 06:58:38
 * **In-App Purchasing:** No

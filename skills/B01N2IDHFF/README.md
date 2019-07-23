@@ -22,5 +22,5 @@ Get the latest headlines, listen to a politics brief from The Fix's Chris Cilliz
 * **ID:** amzn1.ask.skill.5622afb5-0537-4ec5-bb13-95d3299708d4
 * **ASIN:** B01N2IDHFF
 * **Author:** Washington Post Company
-* **Release Date:** December 7, 2016 @ 16:19:13
+* **Release Date:** December 7, 2016 @ 17:19:13
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The DSM-5 Exam skill provides you with a review of all of the disorders in the D
 * **ID:** amzn1.echo-sdk-ams.app.cdfb12c2-9d97-4466-9f31-dcb03d48dc60
 * **ASIN:** B01I22E5VC
 * **Author:** Licensure Exams, Inc.
-* **Release Date:** July 12, 2016 @ 08:27:41
+* **Release Date:** July 12, 2016 @ 09:27:41
 * **In-App Purchasing:** No

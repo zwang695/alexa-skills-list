@@ -22,5 +22,5 @@ Dr. Pooch is constantly learning - so if he is unable to answer - he will learn 
 * **ID:** amzn1.ask.skill.4f7cfa48-1cc4-4a66-af6e-2c10317f4fd0
 * **ASIN:** B01J0DFHBE
 * **Author:** Piyush Hari
-* **Release Date:** July 29, 2016 @ 02:26:36
+* **Release Date:** July 29, 2016 @ 03:26:36
 * **In-App Purchasing:** No

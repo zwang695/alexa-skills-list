@@ -20,5 +20,5 @@ This skill will share facts about the Northeastern University's location, academ
 * **ID:** amzn1.echo-sdk-ams.app.85fa0459-6423-4cb3-9903-ac5d39597071
 * **ASIN:** B01FWYWS1M
 * **Author:** boitenoire
-* **Release Date:** May 30, 2016 @ 08:38:33
+* **Release Date:** May 30, 2016 @ 09:38:33
 * **In-App Purchasing:** No

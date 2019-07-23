@@ -22,5 +22,5 @@ If you tell Alexa's sassy persona to stick around, it will respond to several qu
 * **ID:** amzn1.echo-sdk-ams.app.683cf809-583c-4f4b-a2da-7703623d97f6
 * **ASIN:** B018MVOE4G
 * **Author:** Jason Wang
-* **Release Date:** November 27, 2015 @ 14:59:40
+* **Release Date:** November 27, 2015 @ 15:59:40
 * **In-App Purchasing:** No

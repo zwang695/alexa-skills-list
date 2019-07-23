@@ -20,6 +20,6 @@ Find exactly the right words for your poems, song lyrics, and other writing ende
 * **ID:** amzn1.echo-sdk-ams.app.5b3f6f4f-ae24-425f-9b51-d9021856bd3a
 * **ASIN:** B01BMV3BS8
 * **Author:** Datamuse
-* **Release Date:** February 10, 2016 @ 13:21:12
+* **Release Date:** February 10, 2016 @ 14:21:12
 * **Privacy Policy:** http://www.rhymezone.com/help#privacy
 * **In-App Purchasing:** No

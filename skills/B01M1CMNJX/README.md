@@ -16,5 +16,5 @@ Her are some fun facts about food that are geared towards providing random infor
 * **ID:** amzn1.ask.skill.9eaafdd0-e9c0-4917-ad41-80c36c3b7d64
 * **ASIN:** B01M1CMNJX
 * **Author:** Mikael Teklehaimanot
-* **Release Date:** October 7, 2016 @ 03:12:29
+* **Release Date:** October 7, 2016 @ 04:12:29
 * **In-App Purchasing:** No

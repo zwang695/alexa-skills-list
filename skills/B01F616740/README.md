@@ -21,6 +21,6 @@ The information is provided by whoismyrepresentative.com.
 * **ID:** amzn1.echo-sdk-ams.app.0e8472fb-2d51-4a19-abf9-78ddcb0e8958
 * **ASIN:** B01F616740
 * **Author:** Preferred Plus Investments
-* **Release Date:** May 16, 2016 @ 08:38:31
+* **Release Date:** May 16, 2016 @ 09:38:31
 * **Privacy Policy:** http://rondagdag.github.io/WhoRepresentsMe/
 * **In-App Purchasing:** No

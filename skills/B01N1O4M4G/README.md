@@ -26,7 +26,7 @@ Comment moderation has never been easier (or more vocal). "Alexa, ask Blog Helpe
 * **ID:** amzn1.ask.skill.1d6c582d-fa52-4a84-9334-cf9e2d7783f5
 * **ASIN:** B01N1O4M4G
 * **Author:** Christopher Finke
-* **Release Date:** December 10, 2016 @ 06:19:25
+* **Release Date:** December 10, 2016 @ 07:19:25
 * **Privacy Policy:** https://alexa.efinke.com/wordpress/privacy-policy.txt
 * **Account Linking Domains:** public-api.wordpress.com, 1.gravatar.com, i0.wp.com, s0.wp.com, s1.wp.com, s2.wp.com, i1.wp.com, i2.wp.com, wordpress.com, en.wordpress.com, automattic.com, signup.wordpress.com
 * **In-App Purchasing:** No

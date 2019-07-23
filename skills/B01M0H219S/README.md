@@ -20,5 +20,5 @@ A range of interesting facts about Belfast, Northern Ireland.
 * **ID:** amzn1.ask.skill.d7752344-2d46-4bd1-a913-050709fc94d7
 * **ASIN:** B01M0H219S
 * **Author:** IrishClanger
-* **Release Date:** September 23, 2016 @ 01:42:23
+* **Release Date:** September 23, 2016 @ 02:42:23
 * **In-App Purchasing:** No

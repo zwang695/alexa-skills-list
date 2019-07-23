@@ -22,5 +22,5 @@ Please note that the actual values of real world fruit may differ significantly 
 * **ID:** amzn1.ask.skill.76bde7d1-4ce6-4c4f-8687-15627f5450a2
 * **ASIN:** B01KJ3F3UO
 * **Author:** Aaron Inc.
-* **Release Date:** August 17, 2016 @ 05:22:52
+* **Release Date:** August 17, 2016 @ 06:22:52
 * **In-App Purchasing:** No

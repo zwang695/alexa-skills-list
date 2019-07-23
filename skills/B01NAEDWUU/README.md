@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.99870c76-514e-435d-a243-d46a7a0ab24b
 * **ASIN:** B01NAEDWUU
 * **Author:** Nadinika
-* **Release Date:** December 8, 2016 @ 06:20:22
+* **Release Date:** December 8, 2016 @ 07:20:22
 * **In-App Purchasing:** No

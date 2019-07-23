@@ -20,5 +20,5 @@ Ask Alexa to say Yes. Always answers Yes!.
 * **ID:** amzn1.ask.skill.bb4dc686-571d-44e4-baf7-d5acb2facf39
 * **ASIN:** B01N1KPYRK
 * **Author:** Vijay Shankar Rajanna
-* **Release Date:** November 29, 2016 @ 02:05:48
+* **Release Date:** November 29, 2016 @ 03:05:48
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ The Daily Show provides you with a highlight clip from the latest episode, a lis
 * **ID:** amzn1.echo-sdk-ams.app.d6cf831d-f6bf-48f9-955c-1f1acd57e8bb
 * **ASIN:** B01HHDCU2S
 * **Author:** Comedy Central
-* **Release Date:** July 13, 2016 @ 17:20:57
+* **Release Date:** July 13, 2016 @ 18:20:57
 * **Privacy Policy:** http://www.cc.com/legal/privacy-policy
 * **Terms of Use:** http://www.cc.com/legal/terms-of-use
 * **In-App Purchasing:** No

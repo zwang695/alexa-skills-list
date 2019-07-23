@@ -18,5 +18,5 @@ No dependencies or prerequisites necessary. A comedic take on the provided Space
 * **ID:** amzn1.ask.skill.693422d7-255c-4cf0-b999-6a4b77670d66
 * **ASIN:** B01MS1EELM
 * **Author:** Bennett Thompsopn
-* **Release Date:** January 2, 2017 @ 01:48:57
+* **Release Date:** January 2, 2017 @ 02:48:57
 * **In-App Purchasing:** No

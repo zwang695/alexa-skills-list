@@ -26,5 +26,5 @@ Fun way to learn about one of the most scenic landscapes in the US.
 * **ID:** amzn1.echo-sdk-ams.app.40d681e6-7d9a-40e1-a64a-5140f226b526
 * **ASIN:** B01EXOH8ZI
 * **Author:** PeytonAdell
-* **Release Date:** May 21, 2016 @ 03:08:34
+* **Release Date:** May 21, 2016 @ 04:08:34
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill lists out some interesting facts about comic books you might not have
 * **ID:** amzn1.ask.skill.74fd08e6-c64b-40d7-92f6-a1b7e3dcd168
 * **ASIN:** B01N6FL8JD
 * **Author:** VanderFox
-* **Release Date:** December 13, 2016 @ 05:19:21
+* **Release Date:** December 13, 2016 @ 06:19:21
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Yawgoo Valley Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.8d97834e-ea9e-4cad-9b64-4bb47a0d0bcb
 * **ASIN:** B01M3YQZ49
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:15:52
+* **Release Date:** November 4, 2016 @ 09:15:52
 * **In-App Purchasing:** No

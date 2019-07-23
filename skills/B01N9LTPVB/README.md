@@ -22,5 +22,5 @@ Questions or comments?  Contact nosynack@socalchallengers.com
 * **ID:** amzn1.ask.skill.5e2601a9-1e63-41f6-a76e-9b318e3aa275
 * **ASIN:** B01N9LTPVB
 * **Author:** NoSynAck
-* **Release Date:** January 1, 2017 @ 22:49:54
+* **Release Date:** January 1, 2017 @ 23:49:54
 * **In-App Purchasing:** No

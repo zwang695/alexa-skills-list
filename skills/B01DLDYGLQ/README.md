@@ -22,5 +22,5 @@ For a full list of example commands say "Alexa, ask Robot Scout what I can say"
 * **ID:** amzn1.echo-sdk-ams.app.5492e6f7-6082-4944-b5e0-ac57522466ea
 * **ASIN:** B01DLDYGLQ
 * **Author:** Vegetarian Baconite Software
-* **Release Date:** March 31, 2016 @ 15:02:23
+* **Release Date:** March 31, 2016 @ 16:02:23
 * **In-App Purchasing:** No

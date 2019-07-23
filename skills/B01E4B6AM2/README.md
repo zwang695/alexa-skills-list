@@ -20,5 +20,5 @@ MARA is a skill for interacting with the MARA Running Assistant app - a hands-fr
 * **ID:** amzn1.echo-sdk-ams.app.35f815dd-d117-4018-86b2-b8aaa263c927
 * **ASIN:** B01E4B6AM2
 * **Author:** MARA.ai, LLC
-* **Release Date:** April 12, 2016 @ 15:32:35
+* **Release Date:** April 12, 2016 @ 16:32:35
 * **In-App Purchasing:** No

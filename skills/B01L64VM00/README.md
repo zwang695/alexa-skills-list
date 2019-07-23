@@ -20,5 +20,5 @@ Test your knowledge of China! This skill is not sponsored or endorsed by Accentu
 * **ID:** amzn1.ask.skill.41aa6a35-66a6-48f4-8842-298ec57e30a3
 * **ASIN:** B01L64VM00
 * **Author:** Bill Cheng
-* **Release Date:** September 28, 2016 @ 18:13:36
+* **Release Date:** September 28, 2016 @ 19:13:36
 * **In-App Purchasing:** No

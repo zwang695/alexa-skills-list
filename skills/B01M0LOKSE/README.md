@@ -16,5 +16,5 @@ This is a fun collection of facts about toys.
 * **ID:** amzn1.ask.skill.e961d900-6047-4e9c-b7f6-0a1f317b7ed3
 * **ASIN:** B01M0LOKSE
 * **Author:** JustinCadburyWong
-* **Release Date:** December 4, 2016 @ 01:35:27
+* **Release Date:** December 4, 2016 @ 02:35:27
 * **In-App Purchasing:** No

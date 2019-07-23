@@ -20,5 +20,5 @@ Get Flight Status based on the flight number. For Example, in order to get the f
 * **ID:** amzn1.echo-sdk-ams.app.c19f241c-4cb0-4a89-9505-0393afd399e5
 * **ASIN:** B01HDDAGS2
 * **Author:** Seshadri R
-* **Release Date:** July 13, 2016 @ 04:27:47
+* **Release Date:** July 13, 2016 @ 05:27:47
 * **In-App Purchasing:** No

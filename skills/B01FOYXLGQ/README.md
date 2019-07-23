@@ -20,5 +20,5 @@ The Trending Searches skill is a great way to find out what people are talking a
 * **ID:** amzn1.echo-sdk-ams.app.289e0d4c-8605-4d14-9db1-5a8c4784fe1e
 * **ASIN:** B01FOYXLGQ
 * **Author:** MileVision
-* **Release Date:** August 25, 2016 @ 03:01:58
+* **Release Date:** August 25, 2016 @ 04:01:58
 * **In-App Purchasing:** No

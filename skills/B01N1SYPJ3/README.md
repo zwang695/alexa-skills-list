@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.61cfec8a-0f79-45ed-9af0-1dffc3269b1c
 * **ASIN:** B01N1SYPJ3
 * **Author:** ne0r
-* **Release Date:** December 21, 2016 @ 06:22:11
+* **Release Date:** December 21, 2016 @ 07:22:11
 * **In-App Purchasing:** No

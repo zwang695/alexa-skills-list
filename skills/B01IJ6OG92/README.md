@@ -20,5 +20,5 @@ A skill that gives you facts about Southington, a town in Hartford county, Conne
 * **ID:** amzn1.echo-sdk-ams.app.6cca0cad-c50d-415e-8210-6fc2ccabac41
 * **ASIN:** B01IJ6OG92
 * **Author:** Aaron Johnson
-* **Release Date:** July 18, 2016 @ 08:27:22
+* **Release Date:** July 18, 2016 @ 09:27:22
 * **In-App Purchasing:** No

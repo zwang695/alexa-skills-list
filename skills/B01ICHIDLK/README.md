@@ -34,6 +34,6 @@ To get started:
 * **ID:** amzn1.echo-sdk-ams.app.727f5a0a-7a6e-401b-8048-35f4850cc729
 * **ASIN:** B01ICHIDLK
 * **Author:** trackr
-* **Release Date:** August 15, 2016 @ 19:38:11
+* **Release Date:** August 15, 2016 @ 20:38:11
 * **Privacy Policy:** http://www.thetrackr.com/privacy
 * **In-App Purchasing:** No

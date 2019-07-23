@@ -26,5 +26,5 @@ Finish it all off by saying: "Alexa, tell the Art of War to close."
 * **ID:** amzn1.ask.skill.fa124f9e-af0e-46d4-b5c4-eb4ad40c52c3
 * **ASIN:** B01N6G87SX
 * **Author:** ople
-* **Release Date:** December 13, 2016 @ 06:49:25
+* **Release Date:** December 13, 2016 @ 07:49:25
 * **In-App Purchasing:** No

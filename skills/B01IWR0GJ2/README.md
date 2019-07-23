@@ -24,5 +24,5 @@ This skill is not sponsored or endorsed by Warner Bros. Entertainment Company in
 * **ID:** amzn1.ask.skill.933259be-eacf-46c6-af9b-e628168537d4
 * **ASIN:** B01IWR0GJ2
 * **Author:** Matthew Kerfoot
-* **Release Date:** November 21, 2016 @ 00:35:40
+* **Release Date:** November 21, 2016 @ 01:35:40
 * **In-App Purchasing:** No

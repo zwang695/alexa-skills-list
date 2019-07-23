@@ -24,5 +24,5 @@ Icon created by Jamie Carrion from the noun project.
 * **ID:** amzn1.ask.skill.a381e3fe-bf36-49a1-b476-eae9f5572a60
 * **ASIN:** B01KYFQ6U8
 * **Author:** Adam Mosam
-* **Release Date:** August 26, 2016 @ 02:33:30
+* **Release Date:** August 26, 2016 @ 03:33:30
 * **In-App Purchasing:** No

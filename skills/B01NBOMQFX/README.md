@@ -20,5 +20,5 @@ Smart Women provides brief descriptions on some of the most successful women in 
 * **ID:** amzn1.ask.skill.95241e21-1de6-4e64-a529-8511804fc47a
 * **ASIN:** B01NBOMQFX
 * **Author:** Olivia Brown
-* **Release Date:** December 27, 2016 @ 06:19:22
+* **Release Date:** December 27, 2016 @ 07:19:22
 * **In-App Purchasing:** No

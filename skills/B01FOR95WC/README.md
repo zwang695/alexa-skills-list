@@ -18,5 +18,5 @@ History allows you to receive history facts for each day of the year. Just ask A
 * **ID:** amzn1.echo-sdk-ams.app.31a363aa-6d34-48bc-bb56-1064a16a14c8
 * **ASIN:** B01FOR95WC
 * **Author:** Joe Rocca
-* **Release Date:** May 30, 2016 @ 08:08:35
+* **Release Date:** May 30, 2016 @ 09:08:35
 * **In-App Purchasing:** No

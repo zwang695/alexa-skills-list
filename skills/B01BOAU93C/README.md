@@ -26,5 +26,5 @@ After hearing the correct answer, you have the option to interrupt Alexa prior t
 * **ID:** amzn1.echo-sdk-ams.app.4c2dd0af-5526-42b2-87e4-31b8574809bd
 * **ASIN:** B01BOAU93C
 * **Author:** Sweet Technology
-* **Release Date:** February 11, 2016 @ 18:56:37
+* **Release Date:** February 11, 2016 @ 19:56:37
 * **In-App Purchasing:** No

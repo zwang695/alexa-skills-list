@@ -20,5 +20,5 @@ This skill has no prerequisites other than an echo device. It will tell you rand
 * **ID:** amzn1.ask.skill.834e3e55-beff-44e7-8998-d9abaab9e41b
 * **ASIN:** B01M7O0W1T
 * **Author:** AnalogFolk
-* **Release Date:** October 14, 2016 @ 01:46:00
+* **Release Date:** October 14, 2016 @ 02:46:00
 * **In-App Purchasing:** No

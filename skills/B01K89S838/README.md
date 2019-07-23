@@ -20,5 +20,5 @@ Are you interested in learning fun facts about your own species?  This Alexa ski
 * **ID:** amzn1.ask.skill.99289538-5d8f-41af-8daa-d67e9f88cf77
 * **ASIN:** B01K89S838
 * **Author:** Mathew Skaria
-* **Release Date:** August 16, 2016 @ 02:08:16
+* **Release Date:** August 16, 2016 @ 03:08:16
 * **In-App Purchasing:** No

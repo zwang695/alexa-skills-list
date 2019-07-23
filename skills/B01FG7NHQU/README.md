@@ -16,5 +16,5 @@ Finally, Alexa can tell you the time in binary! Times are currently only in Coor
 * **ID:** amzn1.echo-sdk-ams.app.66ee3340-6334-4ded-804f-23b41f97e4c5
 * **ASIN:** B01FG7NHQU
 * **Author:** Kevin Dietze
-* **Release Date:** May 16, 2016 @ 06:38:28
+* **Release Date:** May 16, 2016 @ 07:38:28
 * **In-App Purchasing:** No

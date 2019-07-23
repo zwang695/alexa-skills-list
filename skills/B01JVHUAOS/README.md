@@ -20,5 +20,5 @@ This skill gives some interesting facts about U.S.A.
 * **ID:** amzn1.ask.skill.2b68c4a2-2442-4e16-9168-0eaa495be0d8
 * **ASIN:** B01JVHUAOS
 * **Author:** NJ
-* **Release Date:** August 8, 2016 @ 04:07:26
+* **Release Date:** August 8, 2016 @ 05:07:26
 * **In-App Purchasing:** No

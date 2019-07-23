@@ -20,5 +20,5 @@ Get the knowledge of  basic laws of physics
 * **ID:** amzn1.ask.skill.758ea6c2-4261-43aa-9241-983118407dd7
 * **ASIN:** B01N0I7XN1
 * **Author:** Johnpaul
-* **Release Date:** December 13, 2016 @ 06:49:20
+* **Release Date:** December 13, 2016 @ 07:49:20
 * **In-App Purchasing:** No

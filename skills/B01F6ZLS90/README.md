@@ -20,5 +20,5 @@ A trivia game where the questions are about anything and everything! Do you thin
 * **ID:** amzn1.echo-sdk-ams.app.88e0e365-f566-4c47-b37a-4263ec75149f
 * **ASIN:** B01F6ZLS90
 * **Author:** Yamuda
-* **Release Date:** May 6, 2016 @ 05:08:40
+* **Release Date:** May 6, 2016 @ 06:08:40
 * **In-App Purchasing:** No

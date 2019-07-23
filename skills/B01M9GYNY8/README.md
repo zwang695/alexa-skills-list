@@ -22,7 +22,7 @@ This skill requires that the user has a valid MyEyedro user account with a suppo
 * **ID:** amzn1.echo-sdk-ams.app.22224fbb-f32a-40e7-85c2-faa4eb95b983
 * **ASIN:** B01M9GYNY8
 * **Author:** Eyedro.com
-* **Release Date:** November 17, 2016 @ 01:05:52
+* **Release Date:** November 17, 2016 @ 02:05:52
 * **Privacy Policy:** http://eyedro.com/privacy-policy/
 * **Terms of Use:** http://eyedro.com/terms-of-use/
 * **Account Linking Domains:** my.eyedro.com

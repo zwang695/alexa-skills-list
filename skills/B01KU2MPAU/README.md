@@ -20,5 +20,5 @@ Star Citizen facts is an app to get random, interesting facts about the Star Cit
 * **ID:** amzn1.ask.skill.2c6808c2-5907-46ab-bded-840713c84687
 * **ASIN:** B01KU2MPAU
 * **Author:** Rommel Rico
-* **Release Date:** August 23, 2016 @ 06:18:33
+* **Release Date:** August 23, 2016 @ 07:18:33
 * **In-App Purchasing:** No

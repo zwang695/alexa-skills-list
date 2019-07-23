@@ -35,6 +35,6 @@ RefNet is an outreach of Ligonier Ministries.
 * **ID:** amzn1.echo-sdk-ams.app.f4fab5df-27a3-44aa-bcc9-a5af000af9c4
 * **ASIN:** B01NBJRHV5
 * **Author:** Ligonier Ministries
-* **Release Date:** December 20, 2016 @ 03:21:59
+* **Release Date:** December 20, 2016 @ 04:21:59
 * **Privacy Policy:** http://www.ligonier.org/privacy-policy/
 * **In-App Purchasing:** No

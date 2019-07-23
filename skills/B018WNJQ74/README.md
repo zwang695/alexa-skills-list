@@ -20,7 +20,7 @@ The Huffington Post is a Pulitzer Prize-winning source of breaking news, feature
 * **ID:** amzn1.echo-sdk-ams.app.f7c73d4c-c3fd-40a7-93f0-16dbb46cf440
 * **ASIN:** B018WNJQ74
 * **Author:** Huffington Post
-* **Release Date:** December 3, 2015 @ 16:22:59
+* **Release Date:** December 3, 2015 @ 17:22:59
 * **Privacy Policy:** http://privacy.aol.com/
 * **Terms of Use:** http://www.huffingtonpost.com/terms.html
 * **In-App Purchasing:** No

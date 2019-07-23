@@ -20,5 +20,5 @@ This app doesn't really need any hardware beyond what you already have to tell y
 * **ID:** amzn1.ask.skill.ebab0c53-d870-47b2-a341-8fa08c3f5839
 * **ASIN:** B01N0KK5E1
 * **Author:** Fizzle Barke
-* **Release Date:** November 30, 2016 @ 07:35:32
+* **Release Date:** November 30, 2016 @ 08:35:32
 * **In-App Purchasing:** No

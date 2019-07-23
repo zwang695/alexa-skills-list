@@ -27,5 +27,5 @@ You should have received a copy of the license along with this work. If not, see
 * **ID:** amzn1.ask.skill.ffb7cce0-1800-4d9d-9225-44610479e8c7
 * **ASIN:** B01N7K1UA0
 * **Author:** Appbly.com
-* **Release Date:** December 21, 2016 @ 08:49:22
+* **Release Date:** December 21, 2016 @ 09:49:22
 * **In-App Purchasing:** No

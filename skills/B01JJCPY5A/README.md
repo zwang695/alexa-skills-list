@@ -20,7 +20,7 @@ Each time you run EV Curious you will be given a random fact about electric vehi
 * **ID:** amzn1.ask.skill.3cd07971-d350-49b3-8545-692dfd3748fd
 * **ASIN:** B01JJCPY5A
 * **Author:** Singular Software Inc.
-* **Release Date:** August 4, 2016 @ 02:41:32
+* **Release Date:** August 4, 2016 @ 03:41:32
 * **Privacy Policy:** http://singsoftnext.com/policies/
 * **Terms of Use:** http://singsoftnext.com/policies/
 * **In-App Purchasing:** No

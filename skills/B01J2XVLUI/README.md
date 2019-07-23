@@ -20,5 +20,5 @@ This is a simple game where Alexa will state a series of colors and you keep cou
 * **ID:** amzn1.ask.skill.26f5be83-6b1b-4ab4-a9ee-91b986a25e3e
 * **ASIN:** B01J2XVLUI
 * **Author:** Eduardo Depaz
-* **Release Date:** July 29, 2016 @ 01:26:48
+* **Release Date:** July 29, 2016 @ 02:26:48
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Impress your friends and family with your vast knowledge of obscure and interest
 * **ID:** amzn1.echo-sdk-ams.app.958c8d41-a73f-4630-a8ad-26017659eeea
 * **ASIN:** B01EMPJZE0
 * **Author:** Rob Moncur
-* **Release Date:** April 27, 2016 @ 07:38:39
+* **Release Date:** April 27, 2016 @ 08:38:39
 * **In-App Purchasing:** No

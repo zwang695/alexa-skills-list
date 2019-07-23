@@ -22,5 +22,5 @@ This skill is not sponsored or endorsed by Riot Games.
 * **ID:** amzn1.ask.skill.5ffd773d-99fd-46c1-8bb3-fcb7432eab26
 * **ASIN:** B01NCLR53R
 * **Author:** Quantum Developments
-* **Release Date:** December 16, 2016 @ 03:19:45
+* **Release Date:** December 16, 2016 @ 04:19:45
 * **In-App Purchasing:** No

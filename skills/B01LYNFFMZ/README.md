@@ -20,5 +20,5 @@ Puppy Master has many random facts about dog that you might not know!
 * **ID:** amzn1.ask.skill.3c498fed-e36b-4a2b-a292-b0b715e6b9ba
 * **ASIN:** B01LYNFFMZ
 * **Author:** Khoa Nguyen
-* **Release Date:** October 4, 2016 @ 02:42:41
+* **Release Date:** October 4, 2016 @ 03:42:41
 * **In-App Purchasing:** No

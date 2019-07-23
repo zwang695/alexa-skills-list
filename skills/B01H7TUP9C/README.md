@@ -20,5 +20,5 @@ This Skill will tell you the results of the current Match Day of UEFA Euro 2016,
 * **ID:** amzn1.echo-sdk-ams.app.0f7b5a6e-023a-4ef9-8190-e96192b35a29
 * **ASIN:** B01H7TUP9C
 * **Author:** Nima Limited
-* **Release Date:** June 25, 2016 @ 05:45:27
+* **Release Date:** June 25, 2016 @ 06:45:27
 * **In-App Purchasing:** No

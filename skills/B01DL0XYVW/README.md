@@ -22,5 +22,5 @@ Answer carefully and truthfully to find out which house's values you embody!
 * **ID:** amzn1.echo-sdk-ams.app.28af6ac7-8dc0-4482-8822-020e98c0d1c0
 * **ASIN:** B01DL0XYVW
 * **Author:** Ewen Chou
-* **Release Date:** April 6, 2016 @ 09:33:04
+* **Release Date:** April 6, 2016 @ 10:33:04
 * **In-App Purchasing:** No

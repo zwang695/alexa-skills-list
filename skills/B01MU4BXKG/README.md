@@ -20,5 +20,5 @@ Have you ever been interested in facts about the state of Montana? This skill al
 * **ID:** amzn1.ask.skill.14807b2c-92ad-45b5-9fd3-06bff4cb31f2
 * **ASIN:** B01MU4BXKG
 * **Author:** benjic.me
-* **Release Date:** December 28, 2016 @ 04:49:37
+* **Release Date:** December 28, 2016 @ 05:49:37
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Answer trivia questions about U.S. cities. The multiple choice questions in this
 * **ID:** amzn1.echo-sdk-ams.app.4e38843b-3996-47ab-9244-2a669e192d7d
 * **ASIN:** B01EKQ2G7O
 * **Author:** Neil McManus
-* **Release Date:** April 21, 2016 @ 19:08:37
+* **Release Date:** April 21, 2016 @ 20:08:37
 * **In-App Purchasing:** No

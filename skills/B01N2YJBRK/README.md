@@ -20,5 +20,5 @@ Let's be honest, we all don't know good old Buffalo, NY as much as we think we d
 * **ID:** amzn1.ask.skill.2a410bb3-aa29-4127-b89e-3c2bfe39035b
 * **ASIN:** B01N2YJBRK
 * **Author:** KevinTMay.com
-* **Release Date:** December 31, 2016 @ 00:19:09
+* **Release Date:** December 31, 2016 @ 01:19:09
 * **In-App Purchasing:** No

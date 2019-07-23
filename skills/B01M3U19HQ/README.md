@@ -20,5 +20,5 @@ The Ragged Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.f0f5d587-8330-4275-acc0-b1d47fdb06de
 * **ASIN:** B01M3U19HQ
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:44:39
+* **Release Date:** October 26, 2016 @ 03:44:39
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Backgammon Helper skill describes the rules of the game backgammon, board setup,
 * **ID:** amzn1.ask.skill.c2b9457c-4ef9-4bdd-b12a-b9f5c70a50e1
 * **ASIN:** B01LRCPQJY
 * **Author:** papillon88
-* **Release Date:** September 11, 2016 @ 02:43:11
+* **Release Date:** September 11, 2016 @ 03:43:11
 * **In-App Purchasing:** No

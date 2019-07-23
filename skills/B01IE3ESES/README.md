@@ -22,5 +22,5 @@ Just ask Albert to give you one of this famous quotes or tell you something smar
 * **ID:** amzn1.echo-sdk-ams.app.313d3728-16e0-446e-b5fc-eda6102d3f98
 * **ASIN:** B01IE3ESES
 * **Author:** FINIK LABS LLC
-* **Release Date:** July 20, 2016 @ 02:28:09
+* **Release Date:** July 20, 2016 @ 03:28:09
 * **In-App Purchasing:** No

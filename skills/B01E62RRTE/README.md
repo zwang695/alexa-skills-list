@@ -22,7 +22,7 @@ PS. See if you can find some Easter Eggs hidden within Alexa’s memory bank.
 * **ID:** amzn1.echo-sdk-ams.app.f2c1163c-7af7-4d3f-a5d7-deda3893f4d4
 * **ASIN:** B01E62RRTE
 * **Author:** NBCUniversal, Syfy
-* **Release Date:** April 14, 2016 @ 16:41:15
+* **Release Date:** April 14, 2016 @ 17:41:15
 * **Privacy Policy:** http://www.nbcuniversal.com/privacy
 * **Terms of Use:** http://www.syfy.com/nbcuniversal-terms-of-use
 * **In-App Purchasing:** No

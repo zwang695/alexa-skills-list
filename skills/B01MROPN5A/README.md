@@ -16,5 +16,5 @@ Ever wonder about the 12 Days of Christmas? Wonder no more!
 * **ID:** amzn1.ask.skill.f20f5db5-9cb4-4333-8540-883843d54713
 * **ASIN:** B01MROPN5A
 * **Author:** Glaring Importance
-* **Release Date:** November 25, 2016 @ 10:05:46
+* **Release Date:** November 25, 2016 @ 11:05:46
 * **In-App Purchasing:** No

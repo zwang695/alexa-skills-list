@@ -28,5 +28,5 @@ Alexa also provides a repeat option where you can also ask to repeat the reading
 * **ID:** amzn1.ask.skill.a4ca8f79-f514-4481-ad1d-b2cdac485545
 * **ASIN:** B01JASAFC0
 * **Author:** Gration
-* **Release Date:** August 4, 2016 @ 02:41:38
+* **Release Date:** August 4, 2016 @ 03:41:38
 * **In-App Purchasing:** No

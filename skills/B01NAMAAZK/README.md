@@ -20,7 +20,7 @@ This skill is for those interested in getting better at technology in their ever
 * **ID:** amzn1.ask.skill.21b3fd6f-9cab-4910-aa3d-76b0f62a9bdb
 * **ASIN:** B01NAMAAZK
 * **Author:** Comrade Technology
-* **Release Date:** December 29, 2016 @ 22:18:56
+* **Release Date:** December 29, 2016 @ 23:18:56
 * **Privacy Policy:** https://www.comradetech.com/policy
 * **Terms of Use:** https://www.comradetech.com/policy
 * **In-App Purchasing:** No

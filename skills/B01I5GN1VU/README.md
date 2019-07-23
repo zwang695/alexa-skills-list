@@ -20,5 +20,5 @@ Marc's Trivia embodies the intelligence of Alexa's supreme voice recognition wit
 * **ID:** amzn1.echo-sdk-ams.app.b9893468-3697-40e6-b9fa-8f13b57131b9
 * **ASIN:** B01I5GN1VU
 * **Author:** Marc Senatore
-* **Release Date:** July 18, 2016 @ 01:57:27
+* **Release Date:** July 18, 2016 @ 02:57:27
 * **In-App Purchasing:** No

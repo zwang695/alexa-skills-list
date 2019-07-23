@@ -20,5 +20,5 @@ Parenting tips for raising healthy kids
 * **ID:** amzn1.ask.skill.4ad3df50-bcd6-4cce-8291-1df7b5a2191a
 * **ASIN:** B01MSRSL4U
 * **Author:** Michael Gray
-* **Release Date:** December 1, 2016 @ 05:35:22
+* **Release Date:** December 1, 2016 @ 06:35:22
 * **In-App Purchasing:** No

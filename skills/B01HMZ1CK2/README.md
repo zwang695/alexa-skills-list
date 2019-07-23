@@ -22,5 +22,5 @@ For more information about the API, visit http://catfacts-api.appspot.com/.
 * **ID:** amzn1.echo-sdk-ams.app.b1af0f77-517c-4b77-919a-3bc73cf2657c
 * **ASIN:** B01HMZ1CK2
 * **Author:** Photon Solutions
-* **Release Date:** June 29, 2016 @ 09:57:37
+* **Release Date:** June 29, 2016 @ 10:57:37
 * **In-App Purchasing:** No

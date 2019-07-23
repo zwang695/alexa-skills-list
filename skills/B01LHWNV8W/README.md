@@ -18,5 +18,5 @@ Message for the users: All the amazing things that the skill says are true. If y
 * **ID:** amzn1.ask.skill.512b80ff-05da-4938-b73d-736c1d2d66fe
 * **ASIN:** B01LHWNV8W
 * **Author:** Charlie
-* **Release Date:** September 11, 2016 @ 02:43:41
+* **Release Date:** September 11, 2016 @ 03:43:41
 * **In-App Purchasing:** No

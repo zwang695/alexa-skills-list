@@ -20,5 +20,5 @@ Giraffes are a beautiful animal but are scarcely endangered. Learn more about th
 * **ID:** amzn1.ask.skill.412bc770-2bb8-4d3b-b485-36aa7246c1e9
 * **ASIN:** B01N9LZ94S
 * **Author:** Cedric Ith
-* **Release Date:** December 31, 2016 @ 05:19:14
+* **Release Date:** December 31, 2016 @ 06:19:14
 * **In-App Purchasing:** No

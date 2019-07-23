@@ -20,7 +20,7 @@ Take charge of your Simple Control automated home using nothing more than your v
 * **ID:** amzn1.echo-sdk-ams.app.0a6396ed-b380-4d46-8794-8036e3c5b589
 * **ASIN:** B019QRFDTA
 * **Author:** Roomie Remote, Inc.
-* **Release Date:** December 23, 2015 @ 11:40:06
+* **Release Date:** December 23, 2015 @ 12:40:06
 * **Privacy Policy:** http://www.simplecontrol.com/privacy-policy/
 * **Terms of Use:** http://www.simplecontrol.com/terms-conditions/
 * **Account Linking Domains:** simplecontrol.com, roomieremote.com, google.com, googleapis.com, bootstrapcdn.com

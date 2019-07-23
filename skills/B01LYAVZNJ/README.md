@@ -20,5 +20,5 @@ Zoo Trivia is a trivia game that allows users to test their knowledge of facts o
 * **ID:** amzn1.ask.skill.f6fe0d00-6469-4482-a30b-c1038656d7ca
 * **ASIN:** B01LYAVZNJ
 * **Author:** Nghia
-* **Release Date:** October 19, 2016 @ 01:43:25
+* **Release Date:** October 19, 2016 @ 02:43:25
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The June Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.6b7a4075-fccd-4f9b-9ef2-2fabe92e4e79
 * **ASIN:** B01M1MTR8G
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:15:14
+* **Release Date:** October 20, 2016 @ 04:15:14
 * **In-App Purchasing:** No

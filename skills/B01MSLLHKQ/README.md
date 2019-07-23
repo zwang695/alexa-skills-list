@@ -22,5 +22,5 @@ Simply ask Alexa for some tech facts and let your mind soak in the craziness of 
 * **ID:** amzn1.ask.skill.7c1d761b-948b-4994-9db6-ac2ef8dbcfe4
 * **ASIN:** B01MSLLHKQ
 * **Author:** Ciocca Apps
-* **Release Date:** November 17, 2016 @ 00:05:27
+* **Release Date:** November 17, 2016 @ 01:05:27
 * **In-App Purchasing:** No

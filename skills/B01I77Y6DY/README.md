@@ -20,5 +20,5 @@ Many things can fit, many things can not fit.  A puppy can fit, a dog can not.  
 * **ID:** amzn1.echo-sdk-ams.app.f357ab9f-8d7f-41ad-b9b2-5b3c2e99f59f
 * **ASIN:** B01I77Y6DY
 * **Author:** Carey Mays
-* **Release Date:** July 11, 2016 @ 05:57:46
+* **Release Date:** July 11, 2016 @ 06:57:46
 * **In-App Purchasing:** No

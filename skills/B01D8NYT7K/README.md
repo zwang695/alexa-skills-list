@@ -20,7 +20,7 @@ A quiz on the basics of computers. This skill asks a series of 5 questions each 
 * **ID:** amzn1.echo-sdk-ams.app.3e75e876-109d-4e8e-8fd2-d715c707bc1b
 * **ASIN:** B01D8NYT7K
 * **Author:** MLC Software
-* **Release Date:** March 21, 2016 @ 07:17:31
+* **Release Date:** March 21, 2016 @ 08:17:31
 * **Privacy Policy:** http://www.communisat.com/alexa/compquiz/privacy.htm
 * **Terms of Use:** http://www.communisat.com/alexa/compquiz/termsofuse.htm
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Since the election is nearing its end, It'll be great to look at the facts of th
 * **ID:** amzn1.ask.skill.786842f6-9acc-42fa-b9b7-8642cadb66e8
 * **ASIN:** B01MQF4NUG
 * **Author:** RUI
-* **Release Date:** November 11, 2016 @ 00:43:48
+* **Release Date:** November 11, 2016 @ 01:43:48
 * **In-App Purchasing:** No

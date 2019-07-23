@@ -39,5 +39,5 @@ Do you enjoy spending time on the water, and live in (or near) north Florida?  R
 * **ID:** amzn1.ask.skill.a3965626-6c18-456f-9dd9-3752743c5666
 * **ASIN:** B01L0I3Y3A
 * **Author:** Skyward
-* **Release Date:** August 29, 2016 @ 01:32:56
+* **Release Date:** August 29, 2016 @ 02:32:56
 * **In-App Purchasing:** No

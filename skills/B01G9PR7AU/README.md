@@ -23,5 +23,5 @@ Alexa - "Starting on your hands and knees, bring the left foot forward directly 
 * **ID:** amzn1.echo-sdk-ams.app.12493793-887a-4e65-9698-3eef444a6b9e
 * **ASIN:** B01G9PR7AU
 * **Author:** Aravind Ranganathan
-* **Release Date:** June 3, 2016 @ 05:08:52
+* **Release Date:** June 3, 2016 @ 06:08:52
 * **In-App Purchasing:** No

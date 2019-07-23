@@ -20,5 +20,5 @@ Edgar facts will teach you about Edgar the dog, even if you can't interact with 
 * **ID:** amzn1.echo-sdk-ams.app.0e44f846-df40-425c-807a-8957e3c5f089
 * **ASIN:** B017OB648E
 * **Author:** apechimp
-* **Release Date:** November 6, 2015 @ 14:02:16
+* **Release Date:** November 6, 2015 @ 15:02:16
 * **In-App Purchasing:** No

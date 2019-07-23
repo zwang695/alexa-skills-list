@@ -16,5 +16,5 @@ This skill will ask you random facts about Germany. It is supposed to be update 
 * **ID:** amzn1.ask.skill.f10c0ab1-3951-4bb7-b3e6-313818d6f193
 * **ASIN:** B01M5EEIZZ
 * **Author:** Vox909
-* **Release Date:** October 25, 2016 @ 01:46:57
+* **Release Date:** October 25, 2016 @ 02:46:57
 * **In-App Purchasing:** No

@@ -32,7 +32,7 @@ Say: "Open Daily Mail" and follow the instructions to get free access.
 * **ID:** amzn1.ask.skill.d20841ce-cc68-4185-9b70-5d70c57c46b7
 * **ASIN:** B01M1RA2GN
 * **Author:** Associated Newspapers Limited
-* **Release Date:** September 27, 2016 @ 14:12:29
+* **Release Date:** September 27, 2016 @ 15:12:29
 * **Privacy Policy:** https://www.mymailaccount.co.uk/pages/subs/privacyAndCookiesPolicy
 * **Account Linking Domains:** mma-prod-images-bucket.s3.amazonaws.com, web.localytics.com, www.google-analytics.com, services.postcodeanywhere.co.uk, webanalytics.localytics.com
 * **In-App Purchasing:** No

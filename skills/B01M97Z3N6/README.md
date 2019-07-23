@@ -20,5 +20,5 @@ Sun Salutation or Surya Namaskara steps
 * **ID:** amzn1.ask.skill.3dc04bfd-062c-4f46-91c7-702220a88c08
 * **ASIN:** B01M97Z3N6
 * **Author:** ERBABU
-* **Release Date:** October 21, 2016 @ 15:43:58
+* **Release Date:** October 21, 2016 @ 16:43:58
 * **In-App Purchasing:** No

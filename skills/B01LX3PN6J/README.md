@@ -20,5 +20,5 @@ The Loveland Ski Area Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.52a298f3-7032-4768-a0bd-34613e644692
 * **ASIN:** B01LX3PN6J
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:44:32
+* **Release Date:** October 19, 2016 @ 11:44:32
 * **In-App Purchasing:** No

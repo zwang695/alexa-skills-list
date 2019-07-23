@@ -20,5 +20,5 @@ The Aspen Highlands Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.296e9326-bf7a-4f86-a28c-a4cff93ca1dd
 * **ASIN:** B01N0GTZNY
 * **Author:** SnoCountry
-* **Release Date:** November 22, 2016 @ 08:35:54
+* **Release Date:** November 22, 2016 @ 09:35:54
 * **In-App Purchasing:** No

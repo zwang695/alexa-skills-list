@@ -22,5 +22,5 @@ All data comes from eBird.org. Many thanks to all of its members and contributor
 * **ID:** amzn1.ask.skill.a8960bfa-8f7b-4050-9630-b33f1ecf0e2c
 * **ASIN:** B01MXEYAGN
 * **Author:** Jeffrey Chan
-* **Release Date:** November 17, 2016 @ 02:08:21
+* **Release Date:** November 17, 2016 @ 03:08:21
 * **In-App Purchasing:** No

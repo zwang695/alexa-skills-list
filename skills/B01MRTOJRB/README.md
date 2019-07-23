@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.a85f96f7-3918-4eb8-aec3-e60039df4851
 * **ASIN:** B01MRTOJRB
 * **Author:** Ben
-* **Release Date:** December 12, 2016 @ 07:49:14
+* **Release Date:** December 12, 2016 @ 08:49:14
 * **In-App Purchasing:** No

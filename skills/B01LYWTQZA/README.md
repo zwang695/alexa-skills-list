@@ -20,7 +20,7 @@ Alexa works together with the Weight Gurus app to act as your personal fitness c
 * **ID:** amzn1.ask.skill.922a8aa4-46cd-48b8-9982-e558d25dba47
 * **ASIN:** B01LYWTQZA
 * **Author:** Greater Goods
-* **Release Date:** October 14, 2016 @ 01:46:18
+* **Release Date:** October 14, 2016 @ 02:46:18
 * **Privacy Policy:** https://greatergoods.com/privacy
 * **Terms of Use:** https://greatergoods.com/tos
 * **Account Linking Domains:** weightgurus.com, api.weightgurus.com, auth.alexa.weightgurus.com

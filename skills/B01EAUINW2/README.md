@@ -28,5 +28,5 @@ You can find other resources for studying here: https://www.uscis.gov/citizenshi
 * **ID:** amzn1.echo-sdk-ams.app.93b6ffbb-94da-4d49-9844-5a0287b9cfc5
 * **ASIN:** B01EAUINW2
 * **Author:** Alex Kerin
-* **Release Date:** April 18, 2016 @ 16:32:25
+* **Release Date:** April 18, 2016 @ 17:32:25
 * **In-App Purchasing:** No

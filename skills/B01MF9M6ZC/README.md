@@ -20,5 +20,5 @@ The Mount Kato Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.b876a908-2bd2-428f-8b82-e960f85adbc3
 * **ASIN:** B01MF9M6ZC
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:18:38
+* **Release Date:** October 21, 2016 @ 15:18:38
 * **In-App Purchasing:** No

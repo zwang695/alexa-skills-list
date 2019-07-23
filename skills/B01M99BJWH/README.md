@@ -28,5 +28,5 @@ This skill is not sponsored or endorsed by Microsoft. Microsoft, and Azure are e
 * **ID:** amzn1.ask.skill.48d63df8-59cd-4da9-85a5-bba11d9e5a61
 * **ASIN:** B01M99BJWH
 * **Author:** Andy Doyle
-* **Release Date:** November 16, 2016 @ 02:35:32
+* **Release Date:** November 16, 2016 @ 03:35:32
 * **In-App Purchasing:** No

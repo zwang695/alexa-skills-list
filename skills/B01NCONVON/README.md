@@ -20,5 +20,5 @@ This skill returns wind speed data from the Chesapeake Bay Interpretive Buoy Sys
 * **ID:** amzn1.ask.skill.cbf8ef6b-053f-47ef-9527-7e275532cef2
 * **ASIN:** B01NCONVON
 * **Author:** Sailing Forecast
-* **Release Date:** December 25, 2016 @ 01:48:58
+* **Release Date:** December 25, 2016 @ 02:48:58
 * **In-App Purchasing:** No

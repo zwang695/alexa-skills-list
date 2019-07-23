@@ -16,5 +16,5 @@ Alexa will randomly suggest an option for lunch on Charlottesville's downtown ma
 * **ID:** amzn1.ask.skill.6cb8a65f-153f-4b4d-8c04-9258598ff4f7
 * **ASIN:** B01LWI9M05
 * **Author:** WillowTree
-* **Release Date:** September 20, 2016 @ 01:43:19
+* **Release Date:** September 20, 2016 @ 02:43:19
 * **In-App Purchasing:** No

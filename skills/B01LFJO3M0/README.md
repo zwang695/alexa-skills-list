@@ -45,7 +45,7 @@ You can also get more information about a particular Tweet or Trend. After liste
 * **ID:** amzn1.ask.skill.92fcd5f0-04d1-4b18-8235-7120ce8f9feb
 * **ASIN:** B01LFJO3M0
 * **Author:** Twitter Inc.
-* **Release Date:** September 7, 2016 @ 15:33:25
+* **Release Date:** September 7, 2016 @ 16:33:25
 * **Privacy Policy:** https://twitter.com/privacy?lang=en
 * **Terms of Use:** https://twitter.com/tos?lang=en
 * **Account Linking Domains:** api.twitter.com, twitter.com, ub3fox8qf1.execute-api.us-east-1.amazonaws.com, mobile.twitter.com

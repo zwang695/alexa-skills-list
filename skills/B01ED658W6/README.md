@@ -26,7 +26,7 @@ Game Tip; Alexa struggles a bit hearing the letter "E." So when you want to gues
 * **ID:** amzn1.echo-sdk-ams.app.9fa9f794-7477-4f10-b1fa-f0fb62fa31bb
 * **ASIN:** B01ED658W6
 * **Author:** Skillsai
-* **Release Date:** April 29, 2016 @ 13:08:31
+* **Release Date:** April 29, 2016 @ 14:08:31
 * **Privacy Policy:** https://www.skillsai.com/privacy
 * **Terms of Use:** https://www.skillsai.com/terms
 * **In-App Purchasing:** No

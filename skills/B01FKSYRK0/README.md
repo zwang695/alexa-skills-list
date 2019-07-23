@@ -20,5 +20,5 @@ This skill allows web developers to ask Alexa about the support for HTML, CSS an
 * **ID:** amzn1.echo-sdk-ams.app.1e091677-5897-452d-9625-21f2bb5b9572
 * **ASIN:** B01FKSYRK0
 * **Author:** Remote Synthesis
-* **Release Date:** June 3, 2016 @ 07:38:38
+* **Release Date:** June 3, 2016 @ 08:38:38
 * **In-App Purchasing:** No

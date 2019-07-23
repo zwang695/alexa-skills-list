@@ -20,6 +20,6 @@ Ask Alexa about your children's sleep data or how is your home air quality, and 
 * **ID:** amzn1.echo-sdk-ams.app.062bd182-ccff-4189-9242-894a1da18581
 * **ASIN:** B01J8286GU
 * **Author:** Sevenhugs
-* **Release Date:** August 12, 2016 @ 02:07:34
+* **Release Date:** August 12, 2016 @ 03:07:34
 * **Privacy Policy:** http://remote.sevenhugs.com/privacy-policy/
 * **In-App Purchasing:** No

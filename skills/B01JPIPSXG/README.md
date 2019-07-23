@@ -20,5 +20,5 @@ This Alexa Skill can keep track of the days that you drive for your carpool and 
 * **ID:** amzn1.ask.skill.64717286-f019-44e9-b36e-79f65bc694ba
 * **ASIN:** B01JPIPSXG
 * **Author:** as
-* **Release Date:** August 10, 2016 @ 06:37:38
+* **Release Date:** August 10, 2016 @ 07:37:38
 * **In-App Purchasing:** No

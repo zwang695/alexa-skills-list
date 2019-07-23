@@ -35,6 +35,6 @@ Alexa: You have 0 important messages, 2 notifications, 3 other messages. Site is
 * **ID:** amzn1.ask.skill.6bf1e3be-c838-471b-b749-9b471624ea39
 * **ASIN:** B01JAGBEAY
 * **Author:** SoftServe
-* **Release Date:** September 20, 2016 @ 02:12:35
+* **Release Date:** September 20, 2016 @ 03:12:35
 * **Privacy Policy:** http://www.softserveinc.com/en-us/legal-privacy/
 * **In-App Purchasing:** No

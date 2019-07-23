@@ -18,5 +18,5 @@ This skill will ask you questions to help you pick a tapa that matches your pref
 * **ID:** amzn1.ask.skill.73f20929-63b9-462f-b80c-c1e94647b26b
 * **ASIN:** B01MTYQJ1K
 * **Author:** Emelie
-* **Release Date:** December 12, 2016 @ 04:23:54
+* **Release Date:** December 12, 2016 @ 05:23:54
 * **In-App Purchasing:** No

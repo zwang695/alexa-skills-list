@@ -16,5 +16,5 @@ This skill is mainly for electronic shoppers who wants to know the experts' opin
 * **ID:** amzn1.ask.skill.a4ca5824-0a4a-4420-9e38-a95c0cd1386c
 * **ASIN:** B01N1REAXI
 * **Author:** Yichao
-* **Release Date:** December 14, 2016 @ 05:19:47
+* **Release Date:** December 14, 2016 @ 06:19:47
 * **In-App Purchasing:** No

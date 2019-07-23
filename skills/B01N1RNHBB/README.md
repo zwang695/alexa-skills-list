@@ -26,5 +26,5 @@ Just ask Alexa: Tell me an Article of Faith   OR    Give me an Article of Faith.
 * **ID:** amzn1.ask.skill.c33e8f95-9a90-4999-b7ff-0ee8bd984b04
 * **ASIN:** B01N1RNHBB
 * **Author:** AdamsApps
-* **Release Date:** December 17, 2016 @ 02:19:43
+* **Release Date:** December 17, 2016 @ 03:19:43
 * **In-App Purchasing:** No

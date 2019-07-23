@@ -24,5 +24,5 @@ DISCLAIMER:  This trivia skill deals with knowledge of alcoholic beverages and m
 * **ID:** amzn1.echo-sdk-ams.app.9f3f9dfb-dc7d-46ab-926d-023990a0e8bf
 * **ASIN:** B01BZGJEOK
 * **Author:** Red Sun Software
-* **Release Date:** February 19, 2016 @ 17:52:54
+* **Release Date:** February 19, 2016 @ 18:52:54
 * **In-App Purchasing:** No

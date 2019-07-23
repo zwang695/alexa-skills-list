@@ -20,5 +20,5 @@ The Killington Resort Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.98a1ada3-1706-469c-aad7-f8faed472a1c
 * **ASIN:** B01N0NYNFC
 * **Author:** SnoCountry
-* **Release Date:** December 6, 2016 @ 19:19:44
+* **Release Date:** December 6, 2016 @ 20:19:44
 * **In-App Purchasing:** No

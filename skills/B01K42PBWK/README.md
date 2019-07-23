@@ -20,5 +20,5 @@ This skill will have Alexa ask you a cat themed knock knock joke!
 * **ID:** amzn1.ask.skill.8ec019d5-342d-48ed-a8e3-dc37e201ac7e
 * **ASIN:** B01K42PBWK
 * **Author:** Becca Blue Poetry
-* **Release Date:** August 10, 2016 @ 02:07:55
+* **Release Date:** August 10, 2016 @ 03:07:55
 * **In-App Purchasing:** No

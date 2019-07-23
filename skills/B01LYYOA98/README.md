@@ -20,5 +20,5 @@ The Mt Spokane Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.8e35bb39-5d5a-44bf-b360-3db3392b0905
 * **ASIN:** B01LYYOA98
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:14:17
+* **Release Date:** October 19, 2016 @ 12:14:17
 * **In-App Purchasing:** No

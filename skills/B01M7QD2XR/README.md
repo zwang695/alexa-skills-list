@@ -20,5 +20,5 @@ A growing collection of fun and education facts about food.
 * **ID:** amzn1.ask.skill.0b974d0e-7801-48a6-ab89-07aab512bece
 * **ASIN:** B01M7QD2XR
 * **Author:** Xenia H
-* **Release Date:** October 29, 2016 @ 12:42:21
+* **Release Date:** October 29, 2016 @ 13:42:21
 * **In-App Purchasing:** No

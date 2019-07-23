@@ -22,5 +22,5 @@ This skill uses data from the Valve Corporation but is not endorsed by Valve Cor
 * **ID:** amzn1.ask.skill.c32661c7-67c0-4a7b-8a93-020628a69682
 * **ASIN:** B01LYJD2K5
 * **Author:** Mary Grimes
-* **Release Date:** October 21, 2016 @ 15:43:00
+* **Release Date:** October 21, 2016 @ 16:43:00
 * **In-App Purchasing:** No

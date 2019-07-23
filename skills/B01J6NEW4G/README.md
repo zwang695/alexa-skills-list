@@ -20,5 +20,5 @@ Learn USA National Parks by State
 * **ID:** amzn1.ask.skill.90160017-354c-49a3-81e7-c349df12c78d
 * **ASIN:** B01J6NEW4G
 * **Author:** Ashish Singh
-* **Release Date:** August 3, 2016 @ 08:11:42
+* **Release Date:** August 3, 2016 @ 09:11:42
 * **In-App Purchasing:** No

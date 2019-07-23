@@ -24,5 +24,5 @@ To start, say "Alexa, it's bacon time".
 * **ID:** amzn1.echo-sdk-ams.app.49d23ddd-12ff-4715-bd32-bdae9e6409f5
 * **ASIN:** B01GSVGEAY
 * **Author:** BaconDonutMan
-* **Release Date:** June 9, 2016 @ 06:39:29
+* **Release Date:** June 9, 2016 @ 07:39:29
 * **In-App Purchasing:** No

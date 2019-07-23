@@ -20,5 +20,5 @@ Looking to be inspired? A collection of 31 inspiring quotes -- at least one for 
 * **ID:** amzn1.ask.skill.4dc7f7e5-3397-4b31-8292-a435a4b81793
 * **ASIN:** B01LYAGRKM
 * **Author:** Simple Works
-* **Release Date:** September 29, 2016 @ 06:43:08
+* **Release Date:** September 29, 2016 @ 07:43:08
 * **In-App Purchasing:** No

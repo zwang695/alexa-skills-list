@@ -20,5 +20,5 @@ When prompted, this skill will tell you a funny, stupid, and/or crazy state law 
 * **ID:** amzn1.ask.skill.3bcc3809-e574-4304-b169-a5affade5d19
 * **ASIN:** B01K6L903K
 * **Author:** valoriedodge
-* **Release Date:** August 11, 2016 @ 05:37:21
+* **Release Date:** August 11, 2016 @ 06:37:21
 * **In-App Purchasing:** No

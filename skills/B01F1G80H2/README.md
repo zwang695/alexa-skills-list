@@ -20,5 +20,5 @@ Distance Between will tell you the distance between two cities that can be trave
 * **ID:** amzn1.echo-sdk-ams.app.281ec301-da29-449a-bf83-fb27ab80e537
 * **ASIN:** B01F1G80H2
 * **Author:** Argusware
-* **Release Date:** June 3, 2016 @ 07:10:10
+* **Release Date:** June 3, 2016 @ 08:10:10
 * **In-App Purchasing:** No

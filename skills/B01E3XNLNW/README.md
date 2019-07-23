@@ -20,7 +20,7 @@ If you play a musical instrument (or sing) it is important to keep in pitch. Thi
 * **ID:** amzn1.echo-sdk-ams.app.b695ee6f-70c7-4179-a1c6-cf299d289bd1
 * **ASIN:** B01E3XNLNW
 * **Author:** TsaTsaTzu
-* **Release Date:** April 15, 2016 @ 16:02:28
+* **Release Date:** April 15, 2016 @ 17:02:28
 * **Privacy Policy:** http://ocean-of-storms.com/tsatsatzu/legal/at_policy.htm
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/at_terms.htm
 * **In-App Purchasing:** No

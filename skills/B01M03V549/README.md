@@ -20,5 +20,5 @@ Soccer fact skills gives you the top 20 facts about the sport that most of the f
 * **ID:** amzn1.ask.skill.c6da3424-8362-4c12-b919-a8c40d2a41a7
 * **ASIN:** B01M03V549
 * **Author:** Vikas CH
-* **Release Date:** September 17, 2016 @ 02:42:05
+* **Release Date:** September 17, 2016 @ 03:42:05
 * **In-App Purchasing:** No

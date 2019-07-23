@@ -22,5 +22,5 @@ Think you know everything about the Friends T.V. show? Try playing Trivia for Fr
 * **ID:** amzn1.echo-sdk-ams.app.f1fd6ecd-ff95-4b01-bfa8-d04e1d00d48b
 * **ASIN:** B01HUBFJDY
 * **Author:** SYF
-* **Release Date:** July 8, 2016 @ 01:57:34
+* **Release Date:** July 8, 2016 @ 02:57:34
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Do you accept the challenge of playing with Alexa? Alexa is the best player in t
 * **ID:** amzn1.echo-sdk-ams.app.1d5abc07-897a-4924-93f8-c8b21f4e18b0
 * **ASIN:** B01BI9JO1W
 * **Author:** Rain Labs
-* **Release Date:** February 5, 2016 @ 13:52:43
+* **Release Date:** February 5, 2016 @ 14:52:43
 * **In-App Purchasing:** No

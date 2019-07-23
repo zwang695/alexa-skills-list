@@ -22,5 +22,5 @@ Simply ask, "Alexa, tell comp sci facts to give me a fact" and she will respond 
 * **ID:** amzn1.ask.skill.9dde0318-dd46-4264-9607-50193f2942b5
 * **ASIN:** B01LZKQ69Q
 * **Author:** mastash3ff
-* **Release Date:** October 3, 2016 @ 03:12:03
+* **Release Date:** October 3, 2016 @ 04:12:03
 * **In-App Purchasing:** No

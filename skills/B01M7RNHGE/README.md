@@ -20,5 +20,5 @@ This skill provides random facts about butterflies. Hear the facts from echo, th
 * **ID:** amzn1.ask.skill.2d7f7851-2ce1-4e07-8eeb-b7afe3c656a2
 * **ASIN:** B01M7RNHGE
 * **Author:** Mark Byers
-* **Release Date:** October 25, 2016 @ 01:46:19
+* **Release Date:** October 25, 2016 @ 02:46:19
 * **In-App Purchasing:** No

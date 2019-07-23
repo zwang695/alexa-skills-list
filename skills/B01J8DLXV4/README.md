@@ -20,5 +20,5 @@ Ask Alexa if Pokémon GO is available in your country of region.
 * **ID:** amzn1.ask.skill.affcbbbb-00e1-471f-ba3a-81a3d58a00ef
 * **ASIN:** B01J8DLXV4
 * **Author:** Kenis Zhu
-* **Release Date:** August 5, 2016 @ 01:37:39
+* **Release Date:** August 5, 2016 @ 02:37:39
 * **In-App Purchasing:** No

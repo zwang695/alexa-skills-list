@@ -26,5 +26,5 @@ Opening Bell retrieves stock data from Markit On Demand and is not guaranteed to
 * **ID:** amzn1.echo-sdk-ams.app.e46fdef7-3ce7-4374-9135-05eac31a70cb
 * **ASIN:** B01E9Z3UVC
 * **Author:** Nick Schwab
-* **Release Date:** April 20, 2016 @ 17:32:50
+* **Release Date:** April 20, 2016 @ 18:32:50
 * **In-App Purchasing:** No

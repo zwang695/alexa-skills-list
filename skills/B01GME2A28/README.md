@@ -20,5 +20,5 @@ This is an informative skill that will offer some of the many reasons to join th
 * **ID:** amzn1.echo-sdk-ams.app.5374fdc0-1d0c-4e9c-a757-73a4d4c14638
 * **ASIN:** B01GME2A28
 * **Author:** Steiert Solutions
-* **Release Date:** June 14, 2016 @ 04:42:37
+* **Release Date:** June 14, 2016 @ 05:42:37
 * **In-App Purchasing:** No

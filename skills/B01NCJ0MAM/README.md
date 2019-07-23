@@ -48,6 +48,6 @@ Create an account by downloading our Catch Sports mobile app on iTunes or Google
 * **ID:** amzn1.ask.skill.c42a6005-5d95-4a36-a3a6-9240d34ebb02
 * **ASIN:** B01NCJ0MAM
 * **Author:** Catch Sports
-* **Release Date:** December 30, 2016 @ 12:19:05
+* **Release Date:** December 30, 2016 @ 13:19:05
 * **Privacy Policy:** http://www.catchsports.com/privacy
 * **In-App Purchasing:** No

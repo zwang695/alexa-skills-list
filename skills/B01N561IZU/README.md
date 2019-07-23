@@ -22,5 +22,5 @@ To get started, you simply need to say 'Alexa, ask Herky the Hawk to play' or 'A
 * **ID:** amzn1.ask.skill.a15734ff-478d-4274-9613-450719ba4877
 * **ASIN:** B01N561IZU
 * **Author:** Josh Gerdes
-* **Release Date:** November 29, 2016 @ 03:36:28
+* **Release Date:** November 29, 2016 @ 04:36:28
 * **In-App Purchasing:** No

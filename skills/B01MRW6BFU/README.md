@@ -16,5 +16,5 @@ Just a fun app to tell you some facts that you may or may not care about. Howeve
 * **ID:** amzn1.ask.skill.fe991105-f08c-4361-9db1-4fcc63516c42
 * **ASIN:** B01MRW6BFU
 * **Author:** Pebkac Services
-* **Release Date:** December 11, 2016 @ 05:49:06
+* **Release Date:** December 11, 2016 @ 06:49:06
 * **In-App Purchasing:** No

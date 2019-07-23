@@ -21,5 +21,5 @@ Just say "Alexa, Start Dweeno Quiz" and she will prompt you through the game.
 * **ID:** amzn1.echo-sdk-ams.app.f7911ea3-8643-498c-8203-66378b563121
 * **ASIN:** B01IGGVT9U
 * **Author:** EMKlaus
-* **Release Date:** July 18, 2016 @ 11:27:28
+* **Release Date:** July 18, 2016 @ 12:27:28
 * **In-App Purchasing:** No

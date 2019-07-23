@@ -20,5 +20,5 @@ Retrieves a random word from external api by asking for a word, or you can optio
 * **ID:** amzn1.ask.skill.a4057d1f-b7bb-442e-9a8a-066f3c5628ea
 * **ASIN:** B01N0P3KL9
 * **Author:** SkywalkerX86
-* **Release Date:** December 16, 2016 @ 06:20:04
+* **Release Date:** December 16, 2016 @ 07:20:04
 * **In-App Purchasing:** No

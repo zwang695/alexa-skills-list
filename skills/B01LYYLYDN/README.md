@@ -20,5 +20,5 @@ This skill gives a interesting fact about baseball when prompted to.
 * **ID:** amzn1.ask.skill.360eb701-70e8-41e6-9303-853db0e4dd32
 * **ASIN:** B01LYYLYDN
 * **Author:** Hoegen Developments
-* **Release Date:** October 5, 2016 @ 00:43:03
+* **Release Date:** October 5, 2016 @ 01:43:03
 * **In-App Purchasing:** No

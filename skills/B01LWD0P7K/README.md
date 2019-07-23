@@ -16,5 +16,5 @@ unofficial fan simpsons quotes
 * **ID:** amzn1.ask.skill.0fe5b452-136b-45a1-8e16-a76a8571350e
 * **ASIN:** B01LWD0P7K
 * **Author:** MikGan
-* **Release Date:** September 16, 2016 @ 02:12:03
+* **Release Date:** September 16, 2016 @ 03:12:03
 * **In-App Purchasing:** No

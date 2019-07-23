@@ -24,5 +24,5 @@ Enjoy!
 * **ID:** amzn1.ask.skill.8416be7d-1526-433e-824f-8ee30607b6c2
 * **ASIN:** B01N4G4P31
 * **Author:** Joe Martin
-* **Release Date:** December 27, 2016 @ 05:49:09
+* **Release Date:** December 27, 2016 @ 06:49:09
 * **In-App Purchasing:** No

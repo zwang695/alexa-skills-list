@@ -16,5 +16,5 @@ This skills contains some facts about India.
 * **ID:** amzn1.ask.skill.64dbeec5-8c79-40a4-9f76-aaf709b032a6
 * **ASIN:** B01L1BCCK2
 * **Author:** Sucheta Gangwal
-* **Release Date:** August 29, 2016 @ 07:02:33
+* **Release Date:** August 29, 2016 @ 08:02:33
 * **In-App Purchasing:** No

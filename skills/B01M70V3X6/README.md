@@ -22,5 +22,5 @@ To answer, you can simply say the correct answer number.
 * **ID:** amzn1.ask.skill.5d2a918b-2a1e-4fad-83df-54d9b45865ee
 * **ASIN:** B01M70V3X6
 * **Author:** David Greene
-* **Release Date:** November 2, 2016 @ 02:43:51
+* **Release Date:** November 2, 2016 @ 03:43:51
 * **In-App Purchasing:** No

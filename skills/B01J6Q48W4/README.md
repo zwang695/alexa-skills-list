@@ -20,7 +20,7 @@ Get the temperature of your smoker or the internal temperature of the meat being
 * **ID:** amzn1.echo-sdk-ams.app.a92ccede-60f8-4228-9168-fd030136607c
 * **ASIN:** B01J6Q48W4
 * **Author:** Collins Research Inc
-* **Release Date:** October 21, 2016 @ 15:43:11
+* **Release Date:** October 21, 2016 @ 16:43:11
 * **Privacy Policy:** https://myflameboss.com/terms
 * **Terms of Use:** https://myflameboss.com/terms
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Roman History is a very simple skill that provides random trivia about Ancient R
 * **ID:** amzn1.echo-sdk-ams.app.fa4c9328-7ab4-429e-b2be-4f421dc241a3
 * **ASIN:** B01EGPJCJ4
 * **Author:** MindlessZ
-* **Release Date:** April 20, 2016 @ 16:02:29
+* **Release Date:** April 20, 2016 @ 17:02:29
 * **In-App Purchasing:** No

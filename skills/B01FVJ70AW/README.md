@@ -26,5 +26,5 @@ You can 'bookmark' the current step by saying "save the step" so that you can co
 * **ID:** amzn1.echo-sdk-ams.app.393a50b7-aae7-4cc3-91c7-f82bd001c79c
 * **ASIN:** B01FVJ70AW
 * **Author:** wesee
-* **Release Date:** May 27, 2016 @ 06:08:40
+* **Release Date:** May 27, 2016 @ 07:08:40
 * **In-App Purchasing:** No

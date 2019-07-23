@@ -20,5 +20,5 @@ With just a prompt, Alexa will tell you one of many random quotes from some of C
 * **ID:** amzn1.ask.skill.0cbf120b-4f62-4e92-a4d4-b94427a6015a
 * **ASIN:** B01LW9TGDE
 * **Author:** thecraigmcleod
-* **Release Date:** September 28, 2016 @ 18:42:15
+* **Release Date:** September 28, 2016 @ 19:42:15
 * **In-App Purchasing:** No

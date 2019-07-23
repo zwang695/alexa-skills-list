@@ -20,5 +20,5 @@ Just ask Cat Facts to provide a fun random cat fact! All the cat facts you'll ev
 * **ID:** amzn1.ask.skill.1f2d030d-3ee3-4ec8-80ea-a58752683add
 * **ASIN:** B01J66DPH8
 * **Author:** Kouron Consulting
-* **Release Date:** July 29, 2016 @ 03:26:38
+* **Release Date:** July 29, 2016 @ 04:26:38
 * **In-App Purchasing:** No

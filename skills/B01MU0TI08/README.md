@@ -20,5 +20,5 @@ Rick Astley Trivia
 * **ID:** amzn1.ask.skill.4ebbab2f-27f2-4646-9bf2-a7a898dbd83d
 * **ASIN:** B01MU0TI08
 * **Author:** Daniel Helmick
-* **Release Date:** December 22, 2016 @ 08:49:06
+* **Release Date:** December 22, 2016 @ 09:49:06
 * **In-App Purchasing:** No

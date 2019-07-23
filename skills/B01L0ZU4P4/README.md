@@ -20,5 +20,5 @@ Cloud flashcards allows you to get quizzed on questions about using cloud servic
 * **ID:** amzn1.ask.skill.b34be065-b7f0-4dc5-87f2-14f98787f63c
 * **ASIN:** B01L0ZU4P4
 * **Author:** DRath
-* **Release Date:** August 30, 2016 @ 07:34:21
+* **Release Date:** August 30, 2016 @ 08:34:21
 * **In-App Purchasing:** No

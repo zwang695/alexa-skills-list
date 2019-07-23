@@ -25,5 +25,5 @@ Where you ought to be.
 * **ID:** amzn1.ask.skill.b5a23edf-c2bb-4b74-b949-f23e36f54723
 * **ASIN:** B01N2WOK43
 * **Author:** Drew Firment
-* **Release Date:** December 27, 2016 @ 05:49:03
+* **Release Date:** December 27, 2016 @ 06:49:03
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ To learn new facts about flowers, just demand the device, "Alexa, start flora fa
 * **ID:** amzn1.ask.skill.bd6aaf08-e490-4307-8e1c-d54a0d0cbb21
 * **ASIN:** B01L5ZE8N8
 * **Author:** Shruti More
-* **Release Date:** September 3, 2016 @ 05:03:29
+* **Release Date:** September 3, 2016 @ 06:03:29
 * **In-App Purchasing:** No

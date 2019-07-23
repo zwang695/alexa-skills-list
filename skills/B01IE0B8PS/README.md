@@ -28,5 +28,5 @@ Alexa, ask Farm Markets what is the library for Food and Community (or Food and 
 * **ID:** amzn1.echo-sdk-ams.app.045d23c7-7973-41c3-8284-29224691e33b
 * **ASIN:** B01IE0B8PS
 * **Author:** Robert Hellestrae
-* **Release Date:** July 14, 2016 @ 07:57:41
+* **Release Date:** July 14, 2016 @ 08:57:41
 * **In-App Purchasing:** No

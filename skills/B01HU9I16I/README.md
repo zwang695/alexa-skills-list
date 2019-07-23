@@ -24,6 +24,6 @@ With ADT Canopy, users are able to view live streaming HD video from their LG Sm
 * **ID:** amzn1.echo-sdk-ams.app.06812fda-4427-4d83-971e-40f0fcf70fd0
 * **ASIN:** B01HU9I16I
 * **Author:** ADT LLC
-* **Release Date:** September 14, 2016 @ 21:12:34
+* **Release Date:** September 14, 2016 @ 22:12:34
 * **Privacy Policy:** https://portal.adtcanopy.com/links/privacypolicy
 * **In-App Purchasing:** No

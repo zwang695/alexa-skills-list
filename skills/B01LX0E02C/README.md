@@ -20,5 +20,5 @@ The Loup Loup Ski Bowl Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.c1c851bb-5321-4711-99b9-9ca236e08a85
 * **ASIN:** B01LX0E02C
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:12:52
+* **Release Date:** October 19, 2016 @ 12:12:52
 * **In-App Purchasing:** No

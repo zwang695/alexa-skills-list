@@ -20,5 +20,5 @@ this skill gives general career options based on user input
 * **ID:** amzn1.ask.skill.d7e56335-365f-4595-984e-4c357e38fec5
 * **ASIN:** B01M0QKM4P
 * **Author:** Jay Rao
-* **Release Date:** September 20, 2016 @ 04:12:50
+* **Release Date:** September 20, 2016 @ 05:12:50
 * **In-App Purchasing:** No

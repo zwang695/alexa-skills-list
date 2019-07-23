@@ -20,5 +20,5 @@ Want to know some video game facts? Ask Alexa!
 * **ID:** amzn1.ask.skill.bc5827fd-1c37-4478-8972-1a62f94e0040
 * **ASIN:** B01KWAGVUA
 * **Author:** MrTechnolgyNerd
-* **Release Date:** August 25, 2016 @ 03:02:10
+* **Release Date:** August 25, 2016 @ 04:02:10
 * **In-App Purchasing:** No

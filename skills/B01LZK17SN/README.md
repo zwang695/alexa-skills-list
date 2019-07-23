@@ -21,5 +21,5 @@ Note that since this is discussing alcoholic content, please be aware that this 
 * **ID:** amzn1.ask.skill.a4adb0f1-0f3c-44ac-9316-aeaedfbb1bf7
 * **ASIN:** B01LZK17SN
 * **Author:** PingEric
-* **Release Date:** September 28, 2016 @ 18:13:57
+* **Release Date:** September 28, 2016 @ 19:13:57
 * **In-App Purchasing:** No

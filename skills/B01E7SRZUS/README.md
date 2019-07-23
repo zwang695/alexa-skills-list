@@ -22,5 +22,5 @@ No account necessary. Works on all Alexa-enabled devices.
 * **ID:** amzn1.echo-sdk-ams.app.8e9dae6e-4902-4503-ac32-2c148cce631d
 * **ASIN:** B01E7SRZUS
 * **Author:** Pomp Productions LLC
-* **Release Date:** April 25, 2016 @ 05:39:13
+* **Release Date:** April 25, 2016 @ 06:39:13
 * **In-App Purchasing:** No

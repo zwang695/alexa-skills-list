@@ -26,7 +26,7 @@ ask my EWC how many points do I have
 * **ID:** amzn1.ask.skill.20c577c2-6012-460c-998f-f6bcfd3a58ea
 * **ASIN:** B01N76MPVO
 * **Author:** European Wax Center
-* **Release Date:** December 11, 2016 @ 01:19:32
+* **Release Date:** December 11, 2016 @ 02:19:32
 * **Privacy Policy:** http://www.waxcenter.com/terms-conditions
 * **Terms of Use:** http://www.waxcenter.com/terms-conditions
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Alexa will provide interesting facts about various inventions
 * **ID:** amzn1.ask.skill.c85e5049-af47-4059-ac19-7f304aee72f3
 * **ASIN:** B01JJW8URO
 * **Author:** Anthony Montuori
-* **Release Date:** August 3, 2016 @ 03:41:36
+* **Release Date:** August 3, 2016 @ 04:41:36
 * **In-App Purchasing:** No

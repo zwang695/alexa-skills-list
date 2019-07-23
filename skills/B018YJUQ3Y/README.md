@@ -25,5 +25,5 @@ Mathematical consulting by Bonnie Peterson.
 * **ID:** amzn1.echo-sdk-ams.app.de9b26a6-2c96-448b-aa20-1c89efc92a78
 * **ASIN:** B018YJUQ3Y
 * **Author:** Pete Peterson
-* **Release Date:** December 4, 2015 @ 17:41:41
+* **Release Date:** December 4, 2015 @ 18:41:41
 * **In-App Purchasing:** No

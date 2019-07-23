@@ -18,5 +18,5 @@ The Lounging Dutchman is not a real brewery, but the beer is good.
 * **ID:** amzn1.ask.skill.08329059-0375-4707-b806-f4209efcbc9c
 * **ASIN:** B01N8VCO0Z
 * **Author:** Mirmillo
-* **Release Date:** November 21, 2016 @ 00:05:20
+* **Release Date:** November 21, 2016 @ 01:05:20
 * **In-App Purchasing:** No

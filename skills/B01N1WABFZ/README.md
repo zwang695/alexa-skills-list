@@ -20,5 +20,5 @@ A maze game which randomly generates the walls each new game.
 * **ID:** amzn1.ask.skill.301e40a4-96e1-468b-bf4b-9731ebc67bfa
 * **ASIN:** B01N1WABFZ
 * **Author:** Joseph Macaulay
-* **Release Date:** December 30, 2016 @ 06:19:06
+* **Release Date:** December 30, 2016 @ 07:19:06
 * **In-App Purchasing:** No

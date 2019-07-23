@@ -20,5 +20,5 @@ Curious about the history of computers? Ask computer history buff for facts and 
 * **ID:** amzn1.ask.skill.bac304fd-10e9-460b-8c58-b76f492a24d6
 * **ASIN:** B01IUS7BEQ
 * **Author:** htse
-* **Release Date:** July 25, 2016 @ 23:56:33
+* **Release Date:** July 26, 2016 @ 00:56:33
 * **In-App Purchasing:** No

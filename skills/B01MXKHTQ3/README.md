@@ -20,6 +20,6 @@ This skill plays the favorite music from predefined list
 * **ID:** amzn1.echo-sdk-ams.app.ba328ef1-0406-4dd1-a0d1-b49b4a924266
 * **ASIN:** B01MXKHTQ3
 * **Author:** amazon.com
-* **Release Date:** November 15, 2016 @ 14:35:10
+* **Release Date:** November 15, 2016 @ 15:35:10
 * **Privacy Policy:** https://privacy.com
 * **In-App Purchasing:** No

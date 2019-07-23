@@ -20,5 +20,5 @@ The A Cloud Guru Professional DevOps Quiz app will help you prepare for the Cert
 * **ID:** amzn1.echo-sdk-ams.app.ebc5b60c-af27-4747-aebd-6284972f7f52
 * **ASIN:** B01HCJSXKK
 * **Author:** Trisome
-* **Release Date:** July 6, 2016 @ 06:57:36
+* **Release Date:** July 6, 2016 @ 07:57:36
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Trivia for The George Washington University contains trivia questions about The 
 * **ID:** amzn1.echo-sdk-ams.app.d6882d38-5e5f-4b0c-88f0-3371b9286187
 * **ASIN:** B01E2MCUIG
 * **Author:** Adrian Bolinger
-* **Release Date:** April 20, 2016 @ 02:32:26
+* **Release Date:** April 20, 2016 @ 03:32:26
 * **In-App Purchasing:** No

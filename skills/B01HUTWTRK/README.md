@@ -20,5 +20,5 @@ These are some fart jokes and sounds. We hope you enjoy them!
 * **ID:** amzn1.echo-sdk-ams.app.0f739701-a653-4578-a531-a06ed649d173
 * **ASIN:** B01HUTWTRK
 * **Author:** ALPHABETO
-* **Release Date:** July 14, 2016 @ 10:27:33
+* **Release Date:** July 14, 2016 @ 11:27:33
 * **In-App Purchasing:** No

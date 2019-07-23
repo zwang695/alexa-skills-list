@@ -20,5 +20,5 @@ Turkey Planner answers two important questions for Thanksgiving - How many pound
 * **ID:** amzn1.ask.skill.a9b5d259-570d-4f85-ae25-7ce749d028c3
 * **ASIN:** B01NCB06P8
 * **Author:** kab00m
-* **Release Date:** November 25, 2016 @ 09:05:30
+* **Release Date:** November 25, 2016 @ 10:05:30
 * **In-App Purchasing:** No

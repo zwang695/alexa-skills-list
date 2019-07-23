@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.0430cbde-9463-4cdd-a60f-1942698e5a5c
 * **ASIN:** B01MYR2TM9
 * **Author:** jtolksdo
-* **Release Date:** November 25, 2016 @ 09:35:17
+* **Release Date:** November 25, 2016 @ 10:35:17
 * **In-App Purchasing:** No

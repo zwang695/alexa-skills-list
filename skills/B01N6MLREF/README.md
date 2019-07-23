@@ -20,5 +20,5 @@ This skill asks you a variety of questions about potatoes which you can answer. 
 * **ID:** amzn1.ask.skill.a7e6dd4d-8ace-41ae-bc92-f9a9a05fc376
 * **ASIN:** B01N6MLREF
 * **Author:** Venkatesh Kumar
-* **Release Date:** January 2, 2017 @ 05:49:15
+* **Release Date:** January 2, 2017 @ 06:49:15
 * **In-App Purchasing:** No

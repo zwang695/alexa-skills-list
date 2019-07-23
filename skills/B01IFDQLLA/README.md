@@ -22,7 +22,7 @@ If you have any questions, please visit the Carrier Côr thermostat FAQ at https
 * **ID:** amzn1.ask.skill.db755ebd-44a8-407c-8217-97513897f318
 * **ASIN:** B01IFDQLLA
 * **Author:** Carrier Corporation
-* **Release Date:** September 2, 2016 @ 19:33:23
+* **Release Date:** September 2, 2016 @ 20:33:23
 * **Privacy Policy:** http://www.myhome.carrier.com/legal.html
 * **Terms of Use:** http://www.myhome.carrier.com/legal.html
 * **Account Linking Domains:** www.ecobee.com, www.myhome.carrier.com, www.myhome.bryant.com

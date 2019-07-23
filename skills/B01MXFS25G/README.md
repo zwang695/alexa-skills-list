@@ -20,5 +20,5 @@ The Timberline Four Seasons Snow Report brought to you by SnoCountry brings you 
 * **ID:** amzn1.ask.skill.fdbff34e-495f-4f5c-acdf-a6853ae7f67b
 * **ASIN:** B01MXFS25G
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:42:22
+* **Release Date:** November 5, 2016 @ 11:42:22
 * **In-App Purchasing:** No

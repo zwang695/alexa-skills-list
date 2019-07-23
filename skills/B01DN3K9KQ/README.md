@@ -42,7 +42,7 @@ Alexa, ask Issac about <Cleaners>
 * **ID:** amzn1.echo-sdk-ams.app.033d18de-33cd-4478-ae35-98fddfda4510
 * **ASIN:** B01DN3K9KQ
 * **Author:** Kissell
-* **Release Date:** April 27, 2016 @ 08:08:39
+* **Release Date:** April 27, 2016 @ 09:08:39
 * **Privacy Policy:** http://apps.kissell.net/privacy-policy.html
 * **Terms of Use:** http://apps.kissell.net/terms-of-use.html
 * **In-App Purchasing:** No

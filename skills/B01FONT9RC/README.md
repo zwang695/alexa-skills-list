@@ -28,5 +28,5 @@ NOTE: This skill is in no way affiliated with or endorsed by the NFL.
 * **ID:** amzn1.echo-sdk-ams.app.4a97dc92-2470-4080-a7bb-2667f3eb84f2
 * **ASIN:** B01FONT9RC
 * **Author:** Honeycomb Creative Group, LLC
-* **Release Date:** May 23, 2016 @ 18:08:33
+* **Release Date:** May 23, 2016 @ 19:08:33
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Fernie Alpine Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.93cdac1d-19b5-4cf5-8372-890c3f68bd15
 * **ASIN:** B01LYB8418
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:55:52
+* **Release Date:** October 20, 2016 @ 03:55:52
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.aee1d212-3f91-44e9-9971-c77da158503d
 * **ASIN:** B01MY2SXMB
 * **Author:** Sam Stenner
-* **Release Date:** December 29, 2016 @ 05:19:44
+* **Release Date:** December 29, 2016 @ 06:19:44
 * **In-App Purchasing:** No

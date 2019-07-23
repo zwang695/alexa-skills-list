@@ -20,5 +20,5 @@ Gender Facts gives fun and interesting trivia facts about the differences betwee
 * **ID:** amzn1.ask.skill.ab07394f-6407-46bb-81ac-9ee7b9d9259a
 * **ASIN:** B01K3CBPNU
 * **Author:** WorkSmart Database Masters, LLC
-* **Release Date:** August 16, 2016 @ 04:38:21
+* **Release Date:** August 16, 2016 @ 05:38:21
 * **In-App Purchasing:** No

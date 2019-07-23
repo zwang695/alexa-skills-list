@@ -20,7 +20,7 @@ Trivia Talk is a multiple choice trivia game you can play by yourself or with yo
 * **ID:** amzn1.echo-sdk-ams.app.a5120771-d1d8-4d89-ae35-eec3b3f3410c
 * **ASIN:** B017OBVI7Q
 * **Author:** Zerovoid Software
-* **Release Date:** November 6, 2015 @ 14:18:08
+* **Release Date:** November 6, 2015 @ 15:18:08
 * **Privacy Policy:** https://s3.amazonaws.com/alexaskilltrivia/index.html
 * **Terms of Use:** https://s3.amazonaws.com/alexaskilltrivia/index.html
 * **In-App Purchasing:** No

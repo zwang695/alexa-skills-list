@@ -20,5 +20,5 @@ Facts about Lviv, city of Ukraine
 * **ID:** amzn1.ask.skill.1ae9afaa-f27b-45b3-8ea9-fc2c7df81eb6
 * **ASIN:** B01NCL8358
 * **Author:** Max Gladysh
-* **Release Date:** December 15, 2016 @ 00:19:39
+* **Release Date:** December 15, 2016 @ 01:19:39
 * **In-App Purchasing:** No

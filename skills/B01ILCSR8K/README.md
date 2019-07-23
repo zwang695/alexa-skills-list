@@ -22,5 +22,5 @@ Amino Acid Quiz is built using python based on the java script examples of the a
 * **ID:** amzn1.echo-sdk-ams.app.7a991b92-cff4-47f6-b930-23e8aa546a81
 * **ASIN:** B01ILCSR8K
 * **Author:** vsmalladi
-* **Release Date:** September 20, 2016 @ 02:12:29
+* **Release Date:** September 20, 2016 @ 03:12:29
 * **In-App Purchasing:** No

@@ -38,7 +38,7 @@ User experience notes:
 * **ID:** amzn1.ask.skill.98d6df0b-a2e0-4fd6-bc40-ba93ed0d632e
 * **ASIN:** B01LXC3V58
 * **Author:** Honeywell
-* **Release Date:** September 27, 2016 @ 19:42:03
+* **Release Date:** September 27, 2016 @ 20:42:03
 * **Privacy Policy:** https://international.mytotalconnectcomfort.com/Home/TermsAndConditions
 * **Terms of Use:** https://international.mytotalconnectcomfort.com/Home/TermsAndConditions
 * **In-App Purchasing:** No

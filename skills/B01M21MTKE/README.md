@@ -16,5 +16,5 @@ Looking to break the ice at parties?  Want to end an uncomfortable silence?  The
 * **ID:** amzn1.ask.skill.c1387439-d561-45e6-9989-6d0753b7bff8
 * **ASIN:** B01M21MTKE
 * **Author:** Jarrod LaRocco
-* **Release Date:** October 10, 2016 @ 02:11:43
+* **Release Date:** October 10, 2016 @ 03:11:43
 * **In-App Purchasing:** No

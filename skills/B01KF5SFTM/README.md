@@ -26,5 +26,5 @@ Maniac: You need to diffuse three wires. The remaining wire is the hot one and w
 * **ID:** amzn1.echo-sdk-ams.app.123b9260-d4e8-4daf-abe9-5b49d9764f8d
 * **ASIN:** B01KF5SFTM
 * **Author:** Bachelor Pad Development
-* **Release Date:** August 19, 2016 @ 08:20:39
+* **Release Date:** August 19, 2016 @ 09:20:39
 * **In-App Purchasing:** No

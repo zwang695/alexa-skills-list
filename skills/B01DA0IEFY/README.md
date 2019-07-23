@@ -24,7 +24,7 @@ When you are done playing, say "Goodbye".  If you accidentally disconnected, say
 * **ID:** amzn1.echo-sdk-ams.app.d6f2cc48-6018-4b62-82c8-79220013cfb7
 * **ASIN:** B01DA0IEFY
 * **Author:** Touch Technologies, Inc
-* **Release Date:** March 22, 2016 @ 04:37:26
+* **Release Date:** March 22, 2016 @ 05:37:26
 * **Privacy Policy:** http://echo.ttinet.com/ydf_privacy.html
 * **Terms of Use:** http://echo.ttinet.com/ydf_tandc.html
 * **In-App Purchasing:** No

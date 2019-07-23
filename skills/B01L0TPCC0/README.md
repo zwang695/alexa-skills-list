@@ -24,7 +24,7 @@ Please be advised, This product may not be suitable for all age groups
 * **ID:** amzn1.ask.skill.efbb952a-9779-49e4-a323-dfd51a26f666
 * **ASIN:** B01L0TPCC0
 * **Author:** Addteq
-* **Release Date:** September 2, 2016 @ 01:33:46
+* **Release Date:** September 2, 2016 @ 02:33:46
 * **Privacy Policy:** https://addteq.atlassian.net/wiki/display/GRAP/Data+Security+and+Privacy+Statement
 * **Terms of Use:** https://addteq.atlassian.net/wiki/display/GRAP/Data+Security+and+Privacy+Statement
 * **Account Linking Domains:** maxcdn.bootstrapcdn.com, ajax.googleapis.com, jnxydx7gvb.execute-api.us-west-2.amazonaws.com

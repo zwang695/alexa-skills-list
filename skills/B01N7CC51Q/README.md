@@ -22,5 +22,5 @@ Just ask any yes or no question and the oracle will tell you the answer!
 * **ID:** amzn1.ask.skill.5d467878-595e-4735-abf0-7a530409f131
 * **ASIN:** B01N7CC51Q
 * **Author:** tgs-apps
-* **Release Date:** December 1, 2016 @ 09:05:45
+* **Release Date:** December 1, 2016 @ 10:05:45
 * **In-App Purchasing:** No

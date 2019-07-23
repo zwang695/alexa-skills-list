@@ -76,6 +76,6 @@ Commands to check door lock’s status will prompt Echo to say the current statu
 * **ID:** amzn1.echo-sdk-ams.app.359d7c1f-3d8e-4b3d-909a-d6871a5afe09
 * **ASIN:** B01LWJWCR7
 * **Author:** MivaTek International Inc.
-* **Release Date:** November 5, 2016 @ 02:13:08
+* **Release Date:** November 5, 2016 @ 03:13:08
 * **Privacy Policy:** https://www.home8systems.com/privacy/
 * **In-App Purchasing:** No

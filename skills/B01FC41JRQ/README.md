@@ -20,5 +20,5 @@ If you want to know what's going on in the world of technology, you turn to http
 * **ID:** amzn1.echo-sdk-ams.app.74bcdf60-755c-417d-9b87-7084ec91475f
 * **ASIN:** B01FC41JRQ
 * **Author:** Aaron Bieber
-* **Release Date:** May 17, 2016 @ 04:38:28
+* **Release Date:** May 17, 2016 @ 05:38:28
 * **In-App Purchasing:** No

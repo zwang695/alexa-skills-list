@@ -22,5 +22,5 @@ Ask Alexa to open Hockey Geek to start. No perquisites or additional hardware re
 * **ID:** amzn1.echo-sdk-ams.app.f1bf962b-b980-4a90-8269-0c701d3e0a0c
 * **ASIN:** B01HNOFRIU
 * **Author:** Tyler Schmidt
-* **Release Date:** June 30, 2016 @ 01:57:38
+* **Release Date:** June 30, 2016 @ 02:57:38
 * **In-App Purchasing:** No

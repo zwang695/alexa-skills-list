@@ -26,5 +26,5 @@ The goal of Stoicism is to develop a peace within by overcoming adversity, pract
 * **ID:** amzn1.ask.skill.2aebb0ec-7fa0-4a93-9cc6-6bfb541025a6
 * **ASIN:** B01N1TN8FC
 * **Author:** The Mindful Tech Lab
-* **Release Date:** December 19, 2016 @ 01:49:37
+* **Release Date:** December 19, 2016 @ 02:49:37
 * **In-App Purchasing:** No

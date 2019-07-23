@@ -20,5 +20,5 @@ This skill is an unofficial fan project and not releated to, sponsored or endors
 * **ID:** amzn1.ask.skill.deb3e848-ca40-478b-b314-cffdc5ac1478
 * **ASIN:** B01MQQM0BL
 * **Author:** precompiled
-* **Release Date:** December 9, 2016 @ 09:19:57
+* **Release Date:** December 9, 2016 @ 10:19:57
 * **In-App Purchasing:** No

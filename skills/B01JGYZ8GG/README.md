@@ -20,5 +20,5 @@ Are you interested in daily quotes? Rely on Daily Quotes for notable daily quote
 * **ID:** amzn1.ask.skill.98d79a32-dea1-4147-a3b9-24129887d68e
 * **ASIN:** B01JGYZ8GG
 * **Author:** Appbly.com
-* **Release Date:** August 3, 2016 @ 04:41:28
+* **Release Date:** August 3, 2016 @ 05:41:28
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill allows Alexa to roll a 20 sided die for you in case you need one for 
 * **ID:** amzn1.ask.skill.c9146926-092f-4647-8d8b-bd8eb80e852b
 * **ASIN:** B01MT34420
 * **Author:** jskrtsth
-* **Release Date:** January 2, 2017 @ 21:49:23
+* **Release Date:** January 2, 2017 @ 22:49:23
 * **In-App Purchasing:** No

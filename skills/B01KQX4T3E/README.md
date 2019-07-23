@@ -22,5 +22,5 @@ To learn more just tell Alexa, "ask Ohio State what it can do"
 * **ID:** amzn1.echo-sdk-ams.app.09a2c85b-4d24-4463-9e2c-2ddc4fa9500b
 * **ASIN:** B01KQX4T3E
 * **Author:** The Ohio State University
-* **Release Date:** October 3, 2016 @ 06:42:14
+* **Release Date:** October 3, 2016 @ 07:42:14
 * **In-App Purchasing:** No

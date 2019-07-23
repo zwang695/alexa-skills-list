@@ -20,5 +20,5 @@ Quickly convert numbers into binary. Binary Converter will take any positive int
 * **ID:** amzn1.echo-sdk-ams.app.7df89789-e870-4792-951c-9bc1b98643bb
 * **ASIN:** B01GG9F6SE
 * **Author:** worldengine
-* **Release Date:** June 6, 2016 @ 05:08:38
+* **Release Date:** June 6, 2016 @ 06:08:38
 * **In-App Purchasing:** No

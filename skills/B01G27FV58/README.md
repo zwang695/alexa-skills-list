@@ -25,5 +25,5 @@ https://github.com/owntheweb/alexa-iss
 * **ID:** amzn1.echo-sdk-ams.app.72214e7e-4b1f-48c9-8c27-504315e4fca0
 * **ASIN:** B01G27FV58
 * **Author:** Christopher Stevens
-* **Release Date:** June 3, 2016 @ 08:08:46
+* **Release Date:** June 3, 2016 @ 09:08:46
 * **In-App Purchasing:** No

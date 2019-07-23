@@ -16,5 +16,5 @@ Throwback Facts gives you facts to throw you back! Most of the facts are about t
 * **ID:** amzn1.ask.skill.b940ad8b-9136-4e2f-bde7-7274b0582456
 * **ASIN:** B01N7BX103
 * **Author:** LiamPersonalDev
-* **Release Date:** December 1, 2016 @ 07:05:26
+* **Release Date:** December 1, 2016 @ 08:05:26
 * **In-App Purchasing:** No

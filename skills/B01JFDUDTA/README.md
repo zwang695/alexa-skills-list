@@ -20,5 +20,5 @@ If you are thinking it's about time to move away to Mars after going through the
 * **ID:** amzn1.ask.skill.eaa17ddd-d17e-4e79-8496-18e669566899
 * **ASIN:** B01JFDUDTA
 * **Author:** deepthiRao
-* **Release Date:** August 10, 2016 @ 02:08:12
+* **Release Date:** August 10, 2016 @ 03:08:12
 * **In-App Purchasing:** No

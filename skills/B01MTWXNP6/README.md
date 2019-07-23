@@ -20,5 +20,5 @@ Gives a randomly selected Georgia Tech Fact when asked for facts, trivia, or eve
 * **ID:** amzn1.ask.skill.48e4d314-da32-442a-a675-950e78d0a96f
 * **ASIN:** B01MTWXNP6
 * **Author:** Ben Templin
-* **Release Date:** December 6, 2016 @ 02:06:07
+* **Release Date:** December 6, 2016 @ 03:06:07
 * **In-App Purchasing:** No

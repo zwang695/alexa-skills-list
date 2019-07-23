@@ -20,5 +20,5 @@ With Guess The Number, you must successfully guess a number picked by Alexa.  Af
 * **ID:** amzn1.echo-sdk-ams.app.a594e399-45b3-4ee6-8297-330e41333dcc
 * **ASIN:** B017OBP6O2
 * **Author:** Matt Kruse
-* **Release Date:** November 6, 2015 @ 14:13:57
+* **Release Date:** November 6, 2015 @ 15:13:57
 * **In-App Purchasing:** No

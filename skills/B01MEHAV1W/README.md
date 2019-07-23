@@ -20,5 +20,5 @@ The Hyland Hills Ski Area Snow Report brought to you by SnoCountry brings you th
 * **ID:** amzn1.ask.skill.f14df5b2-f97f-48e9-81d2-45ba02377a9e
 * **ASIN:** B01MEHAV1W
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:17:58
+* **Release Date:** October 21, 2016 @ 15:17:58
 * **In-App Purchasing:** No

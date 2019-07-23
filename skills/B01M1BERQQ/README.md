@@ -24,5 +24,5 @@ By the end of the game, you'll have a deeper knowledge about and appreciation fo
 * **ID:** amzn1.ask.skill.df366aa7-11cd-4342-b360-0e797f02c10e
 * **ASIN:** B01M1BERQQ
 * **Author:** Blackstar
-* **Release Date:** October 5, 2016 @ 02:12:18
+* **Release Date:** October 5, 2016 @ 03:12:18
 * **In-App Purchasing:** No

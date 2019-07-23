@@ -28,7 +28,7 @@ Recent updates: Localized date calculation, fixed an error on wedding date setup
 * **ID:** amzn1.echo-sdk-ams.app.4c2c039e-2d1e-4790-9c0f-2f9f07e19f58
 * **ASIN:** B01DPM0ERI
 * **Author:** Tom Benton
-* **Release Date:** April 7, 2016 @ 17:02:22
+* **Release Date:** April 7, 2016 @ 18:02:22
 * **Privacy Policy:** http://weddingcountdownskill.com/privacy.html
 * **Terms of Use:** http://weddingcountdownskill.com/terms.html
 * **In-App Purchasing:** No

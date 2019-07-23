@@ -20,5 +20,5 @@ Hawaii is the 50th state in the union, and has it's own unique culture and histo
 * **ID:** amzn1.echo-sdk-ams.app.7aa9e972-1411-478e-ac9d-151a4b9a3d5f
 * **ASIN:** B01F6844R0
 * **Author:** ReferAloha
-* **Release Date:** May 6, 2016 @ 18:08:25
+* **Release Date:** May 6, 2016 @ 19:08:25
 * **In-App Purchasing:** No

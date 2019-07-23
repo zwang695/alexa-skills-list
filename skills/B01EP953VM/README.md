@@ -22,7 +22,7 @@ This app is based on the ideas of Brian Eno and Peter Schmidt, and can be used i
 * **ID:** amzn1.echo-sdk-ams.app.087ca523-0737-4ada-a083-89bb8b592cd0
 * **ASIN:** B01EP953VM
 * **Author:** Prolixity
-* **Release Date:** May 3, 2016 @ 17:08:28
+* **Release Date:** May 3, 2016 @ 18:08:28
 * **Privacy Policy:** https://github.com/nwokeo/creative_strategies_alexa/wiki/Privacy-Policy
 * **Terms of Use:** https://github.com/nwokeo/creative_strategies_alexa/wiki/Terms-of-Service
 * **In-App Purchasing:** No

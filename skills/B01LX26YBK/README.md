@@ -22,6 +22,6 @@ WRAL News provides coverage you can count on in Raleigh, Durham and Fayetteville
 * **ID:** amzn1.ask.skill.5e50b8d5-07b0-4480-90cc-5fc2a624a9a8
 * **ASIN:** B01LX26YBK
 * **Author:** Capitol Broadcasting Company
-* **Release Date:** December 1, 2016 @ 17:05:21
+* **Release Date:** December 1, 2016 @ 18:05:21
 * **Privacy Policy:** http://www.wral.com/rs/page/14295548/
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ Now, you can control all the gadgets connected to your Wemo switches without hav
 * **ID:** amzn1.ask.skill.e0c3be4f-6a06-4ffe-9344-7ea6979f62b7
 * **ASIN:** B01JTQCD3W
 * **Author:** Belkin International
-* **Release Date:** October 27, 2016 @ 13:16:11
+* **Release Date:** October 27, 2016 @ 14:16:11
 * **Privacy Policy:** http://www.wemo.com/privacy-policy.html
 * **Terms of Use:** http://www.belkin.com/us/terms-of-use/
 * **Account Linking Domains:** wta.xwemo.com, api.xbcs.net

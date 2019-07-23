@@ -20,5 +20,5 @@ The Wisp Ski Resort Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.7af52775-9bce-4b3a-969d-60ac6b7f569f
 * **ASIN:** B01MEHAGYL
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:45:07
+* **Release Date:** October 21, 2016 @ 15:45:07
 * **In-App Purchasing:** No

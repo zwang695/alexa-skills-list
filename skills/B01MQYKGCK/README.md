@@ -24,5 +24,5 @@ This skill is not sponsored, or endorsed, by either the Los Angeles City Fire De
 * **ID:** amzn1.ask.skill.fe3eeaaa-f9df-449e-9065-1bbe3d81dd45
 * **ASIN:** B01MQYKGCK
 * **Author:** NoSynAck
-* **Release Date:** December 29, 2016 @ 00:49:31
+* **Release Date:** December 29, 2016 @ 01:49:31
 * **In-App Purchasing:** No

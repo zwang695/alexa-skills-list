@@ -20,5 +20,5 @@ Ghana Facts, tells you some basic facts about Ghana
 * **ID:** amzn1.ask.skill.dbb4cb95-e0c8-4f47-a5c2-02b2576394a8
 * **ASIN:** B01JDMBD7Y
 * **Author:** Afrilogic
-* **Release Date:** August 3, 2016 @ 02:11:33
+* **Release Date:** August 3, 2016 @ 03:11:33
 * **In-App Purchasing:** No

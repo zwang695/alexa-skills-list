@@ -22,5 +22,5 @@ You may say "stop" to end the game at any time or "help" to hear the instruction
 * **ID:** amzn1.ask.skill.2242c7f5-e51e-4d60-8291-0c31ba350271
 * **ASIN:** B01N4BX8CC
 * **Author:** bkvaluemeal.net
-* **Release Date:** December 29, 2016 @ 05:49:53
+* **Release Date:** December 29, 2016 @ 06:49:53
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill gives you an inspirational quote. Just say "Alexa, ask inspirational 
 * **ID:** amzn1.echo-sdk-ams.app.1078048c-f684-4bdd-8ac6-c2a86d050a1e
 * **ASIN:** B01GZNOZX8
 * **Author:** Teamone
-* **Release Date:** June 14, 2016 @ 05:15:36
+* **Release Date:** June 14, 2016 @ 06:15:36
 * **In-App Purchasing:** No

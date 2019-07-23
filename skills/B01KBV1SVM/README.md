@@ -33,6 +33,6 @@ Disclaimer: This skill is meant for parents/child care centers/guardians to trac
 * **ID:** amzn1.ask.skill.89584c9a-32d0-4099-a674-d421e61afdb8
 * **ASIN:** B01KBV1SVM
 * **Author:** Sankar Puchala
-* **Release Date:** October 19, 2016 @ 01:42:57
+* **Release Date:** October 19, 2016 @ 02:42:57
 * **Privacy Policy:** https://gigglesware.com/privacy
 * **In-App Purchasing:** No

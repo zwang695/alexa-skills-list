@@ -22,5 +22,5 @@ This application will give you some very fun truth ideas to play with your frien
 * **ID:** amzn1.ask.skill.7d78eaff-e0d6-4abb-9a33-c1af7217b261
 * **ASIN:** B01M0J6920
 * **Author:** SandrineT
-* **Release Date:** October 5, 2016 @ 00:12:22
+* **Release Date:** October 5, 2016 @ 01:12:22
 * **In-App Purchasing:** No

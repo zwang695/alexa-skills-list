@@ -20,5 +20,5 @@ In this choose-your-own-adventure you take on the role of a young boy searching 
 * **ID:** amzn1.ask.skill.5db2c5a3-9ac3-44ee-b7ec-d417def7700d
 * **ASIN:** B01L32RYH0
 * **Author:** Elbert Lai
-* **Release Date:** September 2, 2016 @ 03:03:28
+* **Release Date:** September 2, 2016 @ 04:03:28
 * **In-App Purchasing:** No

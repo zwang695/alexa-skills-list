@@ -20,5 +20,5 @@ The Huff Hills Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.707cb124-4e02-4be6-965f-20d2ea839368
 * **ASIN:** B01MQ0UEGW
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:45:23
+* **Release Date:** October 26, 2016 @ 02:45:23
 * **In-App Purchasing:** No

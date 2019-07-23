@@ -26,7 +26,7 @@ After installing the skill, start by telling Alexa the type of service you're lo
 * **ID:** amzn1.ask.skill.28c683ff-1c78-4b48-82ab-34a50e57daf8
 * **ASIN:** B01MF8WMGW
 * **Author:** VOKL INTERFACES
-* **Release Date:** October 25, 2016 @ 02:15:14
+* **Release Date:** October 25, 2016 @ 03:15:14
 * **Privacy Policy:** http://www.vokl.com.au/privacy-policy.html
 * **Terms of Use:** http://www.vokl.com.au/terms-of-use.html
 * **In-App Purchasing:** No

@@ -23,5 +23,5 @@ If you have two Alexa devices, like an Echo and a Dot, then you can have them pe
 * **ID:** amzn1.echo-sdk-ams.app.a541d062-bdb1-4395-b1e2-5d1106ff4ff1
 * **ASIN:** B01E0GJQFO
 * **Author:** Ron Lisle
-* **Release Date:** April 13, 2016 @ 08:02:40
+* **Release Date:** April 13, 2016 @ 09:02:40
 * **In-App Purchasing:** No

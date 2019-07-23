@@ -20,5 +20,5 @@ The Tyrol Basin Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.1a6767a4-c17c-487f-9e66-68974e7408dd
 * **ASIN:** B01N00WKCO
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:43:32
+* **Release Date:** November 5, 2016 @ 11:43:32
 * **In-App Purchasing:** No

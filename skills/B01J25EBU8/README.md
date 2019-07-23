@@ -20,5 +20,5 @@ Cat Lady is a skill that gives you surprising and interesting facts about cats. 
 * **ID:** amzn1.ask.skill.114da8f2-a002-4640-b4ab-bececdd938d0
 * **ASIN:** B01J25EBU8
 * **Author:** Pariece McKinney
-* **Release Date:** July 26, 2016 @ 06:56:30
+* **Release Date:** July 26, 2016 @ 07:56:30
 * **In-App Purchasing:** No

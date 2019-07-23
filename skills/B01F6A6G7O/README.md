@@ -48,7 +48,7 @@ To hear about the persons child you cay say:
 * **ID:** amzn1.echo-sdk-ams.app.e907ef35-93e3-4a73-99ef-b3d89d09f20b
 * **ASIN:** B01F6A6G7O
 * **Author:** Laynr
-* **Release Date:** May 9, 2016 @ 09:08:37
+* **Release Date:** May 9, 2016 @ 10:08:37
 * **Privacy Policy:** https://familysearch.org/privacy
 * **Account Linking Domains:** familysearch.org, lds.org, fsglobal.net
 * **In-App Purchasing:** No

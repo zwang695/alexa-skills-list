@@ -20,5 +20,5 @@ Want to know more about Stella. Just ask.
 * **ID:** amzn1.ask.skill.dab5f045-7823-4567-8b8c-63bc342e505d
 * **ASIN:** B01N1VGZ73
 * **Author:** Gizzmo Gadget
-* **Release Date:** December 26, 2016 @ 06:48:53
+* **Release Date:** December 26, 2016 @ 07:48:53
 * **In-App Purchasing:** No

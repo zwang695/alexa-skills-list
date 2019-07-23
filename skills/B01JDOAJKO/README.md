@@ -20,5 +20,5 @@ Learn about Portland by asking for facts and trivia about Portland. Alexa will s
 * **ID:** amzn1.ask.skill.0f471c57-195e-4984-8772-8a55e5527781
 * **ASIN:** B01JDOAJKO
 * **Author:** aravindmaker
-* **Release Date:** August 1, 2016 @ 09:26:38
+* **Release Date:** August 1, 2016 @ 10:26:38
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ StoryTeller is a random story generator.  You can either ask for a specific genr
 * **ID:** amzn1.ask.skill.29e64839-ec4d-485a-b3d0-1cfab4e4ed55
 * **ASIN:** B01MY1M9MP
 * **Author:** Will Ashe
-* **Release Date:** December 25, 2016 @ 23:49:13
+* **Release Date:** December 26, 2016 @ 00:49:13
 * **In-App Purchasing:** No

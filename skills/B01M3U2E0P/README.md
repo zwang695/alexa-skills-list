@@ -20,5 +20,5 @@ The Holiday Valley Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.92c63886-6c12-4433-926f-3fcad2cc6a8c
 * **ASIN:** B01M3U2E0P
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:44:00
+* **Release Date:** October 26, 2016 @ 04:44:00
 * **In-App Purchasing:** No

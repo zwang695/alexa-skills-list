@@ -22,7 +22,7 @@ This tool does not provide medical advice, and is for informational and educatio
 * **ID:** amzn1.ask.skill.7b718820-9ed8-4988-8d54-13d80e76f12d
 * **ASIN:** B01N3Z7FCM
 * **Author:** A Little Spark
-* **Release Date:** November 16, 2016 @ 01:35:28
+* **Release Date:** November 16, 2016 @ 02:35:28
 * **Privacy Policy:** http://alittlesparklab.weebly.com/bmi-calculator---privacy-policy.html
 * **Terms of Use:** http://alittlesparklab.weebly.com/bmi-calculator---terms-of-use.html
 * **In-App Purchasing:** No

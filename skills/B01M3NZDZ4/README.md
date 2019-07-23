@@ -22,5 +22,5 @@ Ask Confucius for a mostly-clean humorous quote to bring a smile to your face.
 * **ID:** amzn1.ask.skill.d50ff092-ca0e-438e-b9b0-b4b6035312d5
 * **ASIN:** B01M3NZDZ4
 * **Author:** Litezen
-* **Release Date:** October 19, 2016 @ 01:44:14
+* **Release Date:** October 19, 2016 @ 02:44:14
 * **In-App Purchasing:** No

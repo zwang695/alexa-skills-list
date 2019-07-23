@@ -20,5 +20,5 @@ The Otis Ridge Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.94b80420-cd8c-4d27-8c5f-c796737d1912
 * **ASIN:** B01M7RZV8P
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:16:38
+* **Release Date:** October 21, 2016 @ 15:16:38
 * **In-App Purchasing:** No

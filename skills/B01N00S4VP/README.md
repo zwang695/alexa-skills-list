@@ -20,5 +20,5 @@ The Sleeping Giant Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.df532bcf-c8b1-41ff-82c2-7ee5f550ac4f
 * **ASIN:** B01N00S4VP
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:12:16
+* **Release Date:** November 5, 2016 @ 12:12:16
 * **In-App Purchasing:** No

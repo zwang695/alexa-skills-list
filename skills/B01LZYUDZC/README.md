@@ -30,5 +30,5 @@ If you do not accept these conditions of use in their entirety please leave the 
 * **ID:** amzn1.ask.skill.012b54ec-27eb-419c-a4a8-e71d1ba7aebf
 * **ASIN:** B01LZYUDZC
 * **Author:** Inside the Cask
-* **Release Date:** October 8, 2016 @ 03:11:49
+* **Release Date:** October 8, 2016 @ 04:11:49
 * **In-App Purchasing:** No

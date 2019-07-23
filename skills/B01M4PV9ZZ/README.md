@@ -22,5 +22,5 @@ Currently, supports Twitter, Digital Ocean, and GitHub but more services are to 
 * **ID:** amzn1.ask.skill.9dbf689d-aced-4951-b25e-4c6b203689f2
 * **ASIN:** B01M4PV9ZZ
 * **Author:** Work Betta Ltd
-* **Release Date:** November 12, 2016 @ 00:14:04
+* **Release Date:** November 12, 2016 @ 01:14:04
 * **In-App Purchasing:** No

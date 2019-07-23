@@ -20,5 +20,5 @@ Be quizzed on famous Broadway and film musical trivia, you'll be asked ten quest
 * **ID:** amzn1.ask.skill.1d905ba9-7990-4c05-8c88-70a77ce53f80
 * **ASIN:** B01L9XZTR0
 * **Author:** Jonathan157
-* **Release Date:** August 31, 2016 @ 06:32:41
+* **Release Date:** August 31, 2016 @ 07:32:41
 * **In-App Purchasing:** No

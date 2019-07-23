@@ -20,5 +20,5 @@ This skill will recite facts about bacon. Topics include history and statistics
 * **ID:** amzn1.ask.skill.3efd367d-4342-44d7-8121-62daa7e6e832
 * **ASIN:** B01M61MEX7
 * **Author:** Michelle Wiginton
-* **Release Date:** October 11, 2016 @ 02:12:05
+* **Release Date:** October 11, 2016 @ 03:12:05
 * **In-App Purchasing:** No

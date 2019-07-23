@@ -20,5 +20,5 @@ Clean Jokes that the whole family can enjoy! Please send feedback to cleanjokes@
 * **ID:** amzn1.ask.skill.ce4d6e59-6dfb-4c6c-87af-d4a92d913cfa
 * **ASIN:** B01MSJY2XX
 * **Author:** Sentieo
-* **Release Date:** December 2, 2016 @ 07:35:30
+* **Release Date:** December 2, 2016 @ 08:35:30
 * **In-App Purchasing:** No

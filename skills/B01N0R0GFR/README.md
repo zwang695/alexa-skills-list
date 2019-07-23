@@ -43,7 +43,7 @@ To  unlink your Google Account from the Web Analytics skill, or to learn more, v
 * **ID:** amzn1.ask.skill.5c0929b9-2827-4fdf-bc7d-ccc6668f55cf
 * **ASIN:** B01N0R0GFR
 * **Author:** Online Impact Group
-* **Release Date:** December 27, 2016 @ 05:19:20
+* **Release Date:** December 27, 2016 @ 06:19:20
 * **Privacy Policy:** https://webanalytics.onlineimpactgroup.com/privacy-policy.php
 * **Terms of Use:** https://webanalytics.onlineimpactgroup.com/terms.php
 * **In-App Purchasing:** No

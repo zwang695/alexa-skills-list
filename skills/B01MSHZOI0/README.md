@@ -20,5 +20,5 @@ This skill gives a random fact about Java.
 * **ID:** amzn1.ask.skill.8c75db2c-9478-4eaf-8c9c-3827d68c1141
 * **ASIN:** B01MSHZOI0
 * **Author:** Kevin Lim
-* **Release Date:** November 9, 2016 @ 00:43:35
+* **Release Date:** November 9, 2016 @ 01:43:35
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ No additional accounts are required to use this app.
 * **ID:** amzn1.echo-sdk-ams.app.ccb8c546-2029-4a79-970c-00115dbaaca1
 * **ASIN:** B01EXUZRSW
 * **Author:** Dillon Dixon
-* **Release Date:** May 6, 2016 @ 18:38:35
+* **Release Date:** May 6, 2016 @ 19:38:35
 * **In-App Purchasing:** No

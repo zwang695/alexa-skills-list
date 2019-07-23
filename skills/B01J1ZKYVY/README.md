@@ -20,5 +20,5 @@ this skill asks about the inventors in the various fields of science and technol
 * **ID:** amzn1.ask.skill.402ba039-2218-4eab-a99a-ed0af0c156f0
 * **ASIN:** B01J1ZKYVY
 * **Author:** neeti sharma
-* **Release Date:** July 29, 2016 @ 05:26:35
+* **Release Date:** July 29, 2016 @ 06:26:35
 * **In-App Purchasing:** No

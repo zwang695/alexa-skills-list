@@ -20,5 +20,5 @@ Great for parties or annoying people at your office :) Please use responsibly. D
 * **ID:** amzn1.ask.skill.397a53c1-ee8b-4b39-9eea-05d229a80dd6
 * **ASIN:** B01NCP8NAN
 * **Author:** bspeagle.com
-* **Release Date:** December 31, 2016 @ 02:18:57
+* **Release Date:** December 31, 2016 @ 03:18:57
 * **In-App Purchasing:** No

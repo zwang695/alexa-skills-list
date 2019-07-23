@@ -22,5 +22,5 @@ Facts will be updated every so often.
 * **ID:** amzn1.ask.skill.aecae40b-2037-4a29-badd-c8fbdc8bf308
 * **ASIN:** B01LMHMWL4
 * **Author:** kb
-* **Release Date:** September 6, 2016 @ 01:03:38
+* **Release Date:** September 6, 2016 @ 02:03:38
 * **In-App Purchasing:** No

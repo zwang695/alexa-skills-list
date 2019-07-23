@@ -20,5 +20,5 @@ Tide Pooler gives you the current tide information for a given city or state.
 * **ID:** amzn1.echo-sdk-ams.app.e2137686-9704-4ad8-a050-2060782f0783
 * **ASIN:** B01EKOWSV0
 * **Author:** Asolana
-* **Release Date:** April 27, 2016 @ 09:08:33
+* **Release Date:** April 27, 2016 @ 10:08:33
 * **In-App Purchasing:** No

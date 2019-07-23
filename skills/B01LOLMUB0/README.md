@@ -20,5 +20,5 @@ Want to know what lunar date is today? This skill can help by just saying "ask L
 * **ID:** amzn1.ask.skill.3d020a14-653a-48af-9388-f6b6f4f7dbd2
 * **ASIN:** B01LOLMUB0
 * **Author:** Kenis Zhu
-* **Release Date:** September 8, 2016 @ 03:33:18
+* **Release Date:** September 8, 2016 @ 04:33:18
 * **In-App Purchasing:** No

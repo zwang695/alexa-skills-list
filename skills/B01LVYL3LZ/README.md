@@ -20,5 +20,5 @@ Dan's Finance Game is a trivia game that tests user's knowledge on personal fina
 * **ID:** amzn1.ask.skill.7d7d9965-a977-4c68-b7a3-584d968e68b3
 * **ASIN:** B01LVYL3LZ
 * **Author:** Aspire Creations LLC
-* **Release Date:** September 12, 2016 @ 02:13:05
+* **Release Date:** September 12, 2016 @ 03:13:05
 * **In-App Purchasing:** No

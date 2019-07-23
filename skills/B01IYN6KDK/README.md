@@ -21,5 +21,5 @@ old and new
 * **ID:** amzn1.ask.skill.14ae7a48-fc41-469e-9dd4-0b86d1309d0e
 * **ASIN:** B01IYN6KDK
 * **Author:** earlwackerly
-* **Release Date:** July 27, 2016 @ 08:56:57
+* **Release Date:** July 27, 2016 @ 09:56:57
 * **In-App Purchasing:** No

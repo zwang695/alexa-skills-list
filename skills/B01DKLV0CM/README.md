@@ -20,5 +20,5 @@ Are you interested in the birthdays of famous people? Rely on Famous Births for 
 * **ID:** amzn1.echo-sdk-ams.app.0c3e9650-4ab5-44db-abda-f9ba316b5587
 * **ASIN:** B01DKLV0CM
 * **Author:** Appbly.com
-* **Release Date:** March 29, 2016 @ 06:28:51
+* **Release Date:** March 29, 2016 @ 07:28:51
 * **In-App Purchasing:** No

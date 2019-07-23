@@ -18,5 +18,5 @@ Stream Guide for Twitch can check the top games being streamed on Twitch.tv and 
 * **ID:** amzn1.echo-sdk-ams.app.714e8939-1d5e-442f-9c08-4ba697c12699
 * **ASIN:** B01FKNPL2I
 * **Author:** Ewen Chou
-* **Release Date:** June 7, 2016 @ 07:38:35
+* **Release Date:** June 7, 2016 @ 08:38:35
 * **In-App Purchasing:** No

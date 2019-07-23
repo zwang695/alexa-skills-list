@@ -20,7 +20,7 @@ Get inspired by an increasing number of poems about life, nature and earth from 
 * **ID:** amzn1.echo-sdk-ams.app.bd5aafa2-54cb-495c-9c98-fe48a618ff5f
 * **ASIN:** B01GZ3K5CI
 * **Author:** Matthias Koller
-* **Release Date:** June 22, 2016 @ 00:15:32
+* **Release Date:** June 22, 2016 @ 01:15:32
 * **Privacy Policy:** http://matthiaskoller.me/poetry_privacypolicy.htm
 * **Terms of Use:** http://matthiaskoller.me/poetry_termsofuse.htm
 * **In-App Purchasing:** No

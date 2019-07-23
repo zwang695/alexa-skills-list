@@ -20,5 +20,5 @@ The user asks their Amazon Echo to tell them their fortune and the skill replies
 * **ID:** amzn1.ask.skill.6f348f04-2e9d-4b95-8810-1d8b8df9e6db
 * **ASIN:** B01L60UDKE
 * **Author:** amerch92
-* **Release Date:** September 8, 2016 @ 08:42:13
+* **Release Date:** September 8, 2016 @ 09:42:13
 * **In-App Purchasing:** No

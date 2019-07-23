@@ -20,5 +20,5 @@ This is a short quiz that will tell you what you should eat based on your respon
 * **ID:** amzn1.ask.skill.c1ec2900-8131-4619-a600-d81e6b55c858
 * **ASIN:** B01LYKCRVR
 * **Author:** Michelle Wiginton
-* **Release Date:** September 22, 2016 @ 04:42:40
+* **Release Date:** September 22, 2016 @ 05:42:40
 * **In-App Purchasing:** No

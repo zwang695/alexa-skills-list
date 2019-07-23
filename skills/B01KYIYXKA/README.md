@@ -20,5 +20,5 @@ This skill holds a list of several shark facts. When prompted, the skill will ra
 * **ID:** amzn1.ask.skill.f1b0ebf6-7dc3-496e-87e2-234e97e59bd0
 * **ASIN:** B01KYIYXKA
 * **Author:** Bagels
-* **Release Date:** August 25, 2016 @ 05:00:55
+* **Release Date:** August 25, 2016 @ 06:00:55
 * **In-App Purchasing:** No

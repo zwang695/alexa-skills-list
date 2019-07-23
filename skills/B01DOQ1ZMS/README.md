@@ -20,5 +20,5 @@ This skill gives facts from the 77 year history of the Tennessee Walking Horse. 
 * **ID:** amzn1.echo-sdk-ams.app.67e96db6-7350-4c4d-b076-e078054c6606
 * **ASIN:** B01DOQ1ZMS
 * **Author:** IfElse
-* **Release Date:** April 5, 2016 @ 02:02:35
+* **Release Date:** April 5, 2016 @ 03:02:35
 * **In-App Purchasing:** No

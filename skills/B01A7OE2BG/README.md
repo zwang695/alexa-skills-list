@@ -20,5 +20,5 @@ Aurora skill will provide detailed information about the auroral activity over N
 * **ID:** amzn1.echo-sdk-ams.app.15177d50-1347-443a-88fc-359246d6e59a
 * **ASIN:** B01A7OE2BG
 * **Author:** BEL Coding
-* **Release Date:** January 5, 2016 @ 15:32:22
+* **Release Date:** January 5, 2016 @ 16:32:22
 * **In-App Purchasing:** No

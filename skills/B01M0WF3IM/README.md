@@ -20,5 +20,5 @@ Rocket Manifest will provide details of upcoming rocket launches. With a continu
 * **ID:** amzn1.ask.skill.e387cc51-e511-4e1a-8281-bc9b0eaadd30
 * **ASIN:** B01M0WF3IM
 * **Author:** Jason Willems
-* **Release Date:** October 3, 2016 @ 04:12:04
+* **Release Date:** October 3, 2016 @ 05:12:04
 * **In-App Purchasing:** No

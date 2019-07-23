@@ -22,6 +22,6 @@ If you have any questions, please visit the Ankuoo FAQ at http://www.ankuoo.com/
 * **ID:** amzn1.ask.skill.20dd4ecc-9b08-4e38-9c81-dedf76855c68
 * **ASIN:** B01MAYI8I4
 * **Author:** Ankuoo
-* **Release Date:** November 15, 2016 @ 13:35:12
+* **Release Date:** November 15, 2016 @ 14:35:12
 * **Privacy Policy:** http://www.ankuoo.com/Privacy
 * **In-App Purchasing:** No

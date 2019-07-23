@@ -22,5 +22,5 @@ Say a number, and Alexa will tell you whether its number is higher or lower unti
 * **ID:** amzn1.ask.skill.ee1d7602-a7b7-493b-a882-95985678570b
 * **ASIN:** B01MR0MIP1
 * **Author:** SD
-* **Release Date:** January 1, 2017 @ 23:48:51
+* **Release Date:** January 2, 2017 @ 00:48:51
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Spring Mountain Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.49db5294-7589-4a65-9512-80015ef67705
 * **ASIN:** B01MQDCKJG
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:16:57
+* **Release Date:** November 4, 2016 @ 09:16:57
 * **In-App Purchasing:** No

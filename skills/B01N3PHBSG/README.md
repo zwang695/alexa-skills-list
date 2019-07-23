@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.9ccb138d-01f3-450b-acd0-fa8223205c5a
 * **ASIN:** B01N3PHBSG
 * **Author:** Marco Spittka
-* **Release Date:** November 25, 2016 @ 03:39:04
+* **Release Date:** November 25, 2016 @ 04:39:04
 * **In-App Purchasing:** No

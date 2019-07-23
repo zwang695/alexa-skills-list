@@ -21,5 +21,5 @@ It will also retrieve gameplay information from the Vectrex Wikia web site and s
 * **ID:** amzn1.echo-sdk-ams.app.ed68573c-f7f1-467d-94f1-53254b0e0fce
 * **ASIN:** B01E3IK5LI
 * **Author:** KokosApps
-* **Release Date:** April 22, 2016 @ 06:08:38
+* **Release Date:** April 22, 2016 @ 07:08:38
 * **In-App Purchasing:** No

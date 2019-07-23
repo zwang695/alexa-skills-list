@@ -20,7 +20,7 @@ NBC’s The Voice gives Alexa all the information she needs to keep you up to da
 * **ID:** amzn1.ask.skill.f78788fb-3a53-458b-91df-9004a683ec30
 * **ASIN:** B01LXTAH1U
 * **Author:** NBC Digital Media
-* **Release Date:** September 16, 2016 @ 18:11:18
+* **Release Date:** September 16, 2016 @ 19:11:18
 * **Privacy Policy:** http://www.nbcuniversal.com/privacy/full-privacy-policy
 * **Terms of Use:** http://www.nbc.com/TheVoiceAlexaTerms
 * **In-App Purchasing:** No

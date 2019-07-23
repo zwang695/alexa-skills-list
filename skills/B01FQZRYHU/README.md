@@ -20,5 +20,5 @@ COBOL, or "COmmon Business Oriented Language", was the result of a collaboration
 * **ID:** amzn1.echo-sdk-ams.app.b73cd20f-fbfc-4ce2-9af4-7e17a0e41624
 * **ASIN:** B01FQZRYHU
 * **Author:** TorgCon
-* **Release Date:** May 19, 2016 @ 04:38:35
+* **Release Date:** May 19, 2016 @ 05:38:35
 * **In-App Purchasing:** No

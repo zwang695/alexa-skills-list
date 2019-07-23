@@ -20,5 +20,5 @@ What's cooking gives you ideas on what to make. In the future it will give recom
 * **ID:** amzn1.ask.skill.ab80d415-b91c-4307-8853-eebe987a77e6
 * **ASIN:** B01KDGJVDC
 * **Author:** ANovis
-* **Release Date:** August 23, 2016 @ 08:18:43
+* **Release Date:** August 23, 2016 @ 09:18:43
 * **In-App Purchasing:** No

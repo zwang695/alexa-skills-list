@@ -20,5 +20,5 @@ Gives a random cat fact when asked.
 * **ID:** amzn1.ask.skill.c4b01b90-f02c-4068-b29c-e48a9b4a8914
 * **ASIN:** B01M0WN070
 * **Author:** shmeeps
-* **Release Date:** October 8, 2016 @ 02:41:52
+* **Release Date:** October 8, 2016 @ 03:41:52
 * **In-App Purchasing:** No

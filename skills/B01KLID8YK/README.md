@@ -20,5 +20,5 @@ India Time skill is used to get the current local time of India
 * **ID:** amzn1.ask.skill.dbc11d0e-df06-467f-91ab-700566d8fdc7
 * **ASIN:** B01KLID8YK
 * **Author:** Ilamparithi
-* **Release Date:** August 19, 2016 @ 01:52:23
+* **Release Date:** August 19, 2016 @ 02:52:23
 * **In-App Purchasing:** No

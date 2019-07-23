@@ -20,5 +20,5 @@ Learn about all things Rusty! This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.ab088182-aa50-4265-815f-2c073e6a58ce
 * **ASIN:** B01JDM072G
 * **Author:** Russell Lyons
-* **Release Date:** August 25, 2016 @ 07:30:49
+* **Release Date:** August 25, 2016 @ 08:30:49
 * **In-App Purchasing:** No

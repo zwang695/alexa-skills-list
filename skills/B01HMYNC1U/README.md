@@ -22,5 +22,5 @@ For further Presidential testing, check the multiple choice quiz of 'Presidentia
 * **ID:** amzn1.echo-sdk-ams.app.28a85226-87e5-44bb-8ea5-8214a6ca24a4
 * **ASIN:** B01HMYNC1U
 * **Author:** TorgCon
-* **Release Date:** July 1, 2016 @ 04:57:33
+* **Release Date:** July 1, 2016 @ 05:57:33
 * **In-App Purchasing:** No

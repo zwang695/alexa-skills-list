@@ -42,5 +42,5 @@ Have fun and please let us know if you have any requests. We will work on adding
 * **ID:** amzn1.ask.skill.00141c08-0b1d-4090-8fc7-70f3b669dd9e
 * **ASIN:** B01MZ2SK1X
 * **Author:** FreshDigitalGroup
-* **Release Date:** December 24, 2016 @ 09:18:55
+* **Release Date:** December 24, 2016 @ 10:18:55
 * **In-App Purchasing:** No

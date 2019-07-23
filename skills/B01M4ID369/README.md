@@ -18,5 +18,5 @@ Discover interesting facts about Steam Engines. Ask Alexa to tell you a fact and
 * **ID:** amzn1.ask.skill.4d77ab37-448d-4535-b105-ea9ed226e37b
 * **ASIN:** B01M4ID369
 * **Author:** Jack Davis
-* **Release Date:** October 18, 2016 @ 04:42:23
+* **Release Date:** October 18, 2016 @ 05:42:23
 * **In-App Purchasing:** No

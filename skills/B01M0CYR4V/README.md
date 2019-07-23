@@ -20,5 +20,5 @@ The Purgatory Resort Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.8235a747-e696-4fb1-982b-9d2cbf0d74b8
 * **ASIN:** B01M0CYR4V
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:13:28
+* **Release Date:** October 19, 2016 @ 12:13:28
 * **In-App Purchasing:** No

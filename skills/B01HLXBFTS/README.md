@@ -22,5 +22,5 @@ You can begin by enabling the skill and then saying "Alexa, Open Computer Scienc
 * **ID:** amzn1.echo-sdk-ams.app.00b028bb-a9af-4e8a-bccb-8fe234a9ad15
 * **ASIN:** B01HLXBFTS
 * **Author:** Dickson Tse
-* **Release Date:** July 19, 2016 @ 05:27:53
+* **Release Date:** July 19, 2016 @ 06:27:53
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Presidents Trivia is a trivia game that tests how much you know about the highes
 * **ID:** amzn1.echo-sdk-ams.app.625c2b83-9604-495b-985a-13a75fda8b38
 * **ASIN:** B01DOX4U4Q
 * **Author:** William Dai
-* **Release Date:** April 4, 2016 @ 07:06:43
+* **Release Date:** April 4, 2016 @ 08:06:43
 * **In-App Purchasing:** No

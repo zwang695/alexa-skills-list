@@ -26,7 +26,7 @@ To add the abode Alexa skill, you must have your abode system set-up and a user 
 * **ID:** amzn1.echo-sdk-ams.app.c67f3916-0532-4346-bf77-6c5418ec4350
 * **ASIN:** B01DMKNHXG
 * **Author:** abode systems, inc.
-* **Release Date:** April 14, 2016 @ 08:02:42
+* **Release Date:** April 14, 2016 @ 09:02:42
 * **Privacy Policy:** http://support.goabode.com/customer/en/portal/articles/2232128-privacy-policy
 * **Terms of Use:** http://support.goabode.com/customer/en/portal/articles/2232125-terms-of-use
 * **In-App Purchasing:** No

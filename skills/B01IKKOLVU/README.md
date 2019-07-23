@@ -20,5 +20,5 @@ Have you ever wanted to hear a completely random number? Well, your wait is over
 * **ID:** amzn1.echo-sdk-ams.app.1117eba6-6401-4079-9945-bab6fd4d89d1
 * **ASIN:** B01IKKOLVU
 * **Author:** Extentia Information Technology
-* **Release Date:** July 21, 2016 @ 07:57:37
+* **Release Date:** July 21, 2016 @ 08:57:37
 * **In-App Purchasing:** No

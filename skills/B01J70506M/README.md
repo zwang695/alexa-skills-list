@@ -20,5 +20,5 @@ Given a date (today, Saturday, July 1st, etc...), the Daily Food skill will tell
 * **ID:** amzn1.ask.skill.53f1e2a8-820a-4c74-adfa-2e6253c6e9e8
 * **ASIN:** B01J70506M
 * **Author:** Greg Sicard
-* **Release Date:** July 29, 2016 @ 05:56:42
+* **Release Date:** July 29, 2016 @ 06:56:42
 * **In-App Purchasing:** No

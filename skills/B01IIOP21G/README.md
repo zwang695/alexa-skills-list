@@ -20,5 +20,5 @@ The Lansing River Trail is a gem within the capitol city of Michigan and has bee
 * **ID:** amzn1.echo-sdk-ams.app.cb2187c7-6d88-4605-bdfb-15b76eef7f01
 * **ASIN:** B01IIOP21G
 * **Author:** Scott Merryfield
-* **Release Date:** July 20, 2016 @ 01:57:32
+* **Release Date:** July 20, 2016 @ 02:57:32
 * **In-App Purchasing:** No

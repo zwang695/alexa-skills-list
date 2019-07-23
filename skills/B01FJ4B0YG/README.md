@@ -20,5 +20,5 @@ Use Alexa to give you quick access to antonyms when you need them. Grow your voc
 * **ID:** amzn1.echo-sdk-ams.app.62d14192-c431-4b7a-ac4e-6c5903d8f3b9
 * **ASIN:** B01FJ4B0YG
 * **Author:** BLT Robotics
-* **Release Date:** May 19, 2016 @ 08:38:36
+* **Release Date:** May 19, 2016 @ 09:38:36
 * **In-App Purchasing:** No

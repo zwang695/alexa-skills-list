@@ -20,5 +20,5 @@ Tons of quick, unique, and interesting art facts for everyone from the avid art 
 * **ID:** amzn1.ask.skill.8f2a3a7c-d564-4a8b-9970-b43c9bb03e68
 * **ASIN:** B01N7BRFCD
 * **Author:** PlesciaD Productions LLC
-* **Release Date:** November 29, 2016 @ 06:05:12
+* **Release Date:** November 29, 2016 @ 07:05:12
 * **In-App Purchasing:** No

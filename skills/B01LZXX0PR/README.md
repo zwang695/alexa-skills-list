@@ -20,5 +20,5 @@ The Patagonia Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.bcc5e7fe-697a-44ea-85ad-a9f7d6c3865f
 * **ASIN:** B01LZXX0PR
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:14:21
+* **Release Date:** October 19, 2016 @ 12:14:21
 * **In-App Purchasing:** No

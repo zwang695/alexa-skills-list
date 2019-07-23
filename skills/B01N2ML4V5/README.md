@@ -38,5 +38,5 @@ Enjoy!
 * **ID:** amzn1.ask.skill.5a1d46f3-8db9-467c-a36d-fbc48ef6d4b0
 * **ASIN:** B01N2ML4V5
 * **Author:** Drew Cosgrove
-* **Release Date:** December 6, 2016 @ 04:19:59
+* **Release Date:** December 6, 2016 @ 05:19:59
 * **In-App Purchasing:** No

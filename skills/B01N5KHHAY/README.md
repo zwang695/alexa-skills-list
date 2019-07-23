@@ -21,5 +21,5 @@ I'll be adding more random facts to Random Interesting Facts' knowledge base ove
 * **ID:** amzn1.ask.skill.e4bb9e1a-5dbe-460b-a359-874a3e90d909
 * **ASIN:** B01N5KHHAY
 * **Author:** Victor Paredes
-* **Release Date:** December 31, 2016 @ 01:49:06
+* **Release Date:** December 31, 2016 @ 02:49:06
 * **In-App Purchasing:** No

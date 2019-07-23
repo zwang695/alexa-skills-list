@@ -20,5 +20,5 @@ Do you find yourself wondering who invented what? Play this game and find out ho
 * **ID:** amzn1.ask.skill.7048d674-b5f8-42be-ae3b-4e58af8a5b32
 * **ASIN:** B01M3W0533
 * **Author:** AGupta
-* **Release Date:** November 2, 2016 @ 09:13:53
+* **Release Date:** November 2, 2016 @ 10:13:53
 * **In-App Purchasing:** No

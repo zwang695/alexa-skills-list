@@ -18,5 +18,5 @@ Disclaimer: This skill may not be suitable for all ages. Drink responsibly, etc.
 * **ID:** amzn1.ask.skill.146e81f3-f7e7-4ef1-beb3-77b275f59809
 * **ASIN:** B01LWMBJXG
 * **Author:** WillowTree
-* **Release Date:** October 6, 2016 @ 04:41:52
+* **Release Date:** October 6, 2016 @ 05:41:52
 * **In-App Purchasing:** No

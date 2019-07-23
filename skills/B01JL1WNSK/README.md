@@ -20,5 +20,5 @@ This is a fun and easy quiz that will help you master common Japanese words that
 * **ID:** amzn1.ask.skill.0f739d3e-7b4d-40a8-936d-322ee5ab2b95
 * **ASIN:** B01JL1WNSK
 * **Author:** Eric Gauvin
-* **Release Date:** August 8, 2016 @ 01:38:29
+* **Release Date:** August 8, 2016 @ 02:38:29
 * **In-App Purchasing:** No

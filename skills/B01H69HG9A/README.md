@@ -20,5 +20,5 @@ Test your skills with our Spanish lessons quiz. We focused on the most popular e
 * **ID:** amzn1.echo-sdk-ams.app.7ade4b41-fc2a-4b5b-9ad6-73eed28f3ded
 * **ASIN:** B01H69HG9A
 * **Author:** ALPHABETO
-* **Release Date:** June 27, 2016 @ 06:15:36
+* **Release Date:** June 27, 2016 @ 07:15:36
 * **In-App Purchasing:** No

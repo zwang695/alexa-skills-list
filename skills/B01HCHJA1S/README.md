@@ -20,5 +20,5 @@ This skill tells you a fun fact about Honey Bee.
 * **ID:** amzn1.echo-sdk-ams.app.89210b21-c630-4019-bdff-9eceaf3488d3
 * **ASIN:** B01HCHJA1S
 * **Author:** Brahmansh Singh
-* **Release Date:** June 25, 2016 @ 02:15:38
+* **Release Date:** June 25, 2016 @ 03:15:38
 * **In-App Purchasing:** No

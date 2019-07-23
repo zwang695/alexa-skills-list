@@ -20,5 +20,5 @@ Alabama Facts is a skill designed to give you interesting facts on the State of 
 * **ID:** amzn1.ask.skill.fc035689-e61b-42ce-a5d1-079dc2c0fba4
 * **ASIN:** B01M2Y3XQU
 * **Author:** Tyler Hughes
-* **Release Date:** October 22, 2016 @ 02:12:43
+* **Release Date:** October 22, 2016 @ 03:12:43
 * **In-App Purchasing:** No

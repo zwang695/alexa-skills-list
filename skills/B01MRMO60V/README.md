@@ -20,5 +20,5 @@ this Alexa skill will help someone to find a frugal activity and not break the b
 * **ID:** amzn1.ask.skill.b88dafb1-2d96-45eb-8b34-28ea1a00675a
 * **ASIN:** B01MRMO60V
 * **Author:** Lehi Alcantara
-* **Release Date:** November 25, 2016 @ 04:05:40
+* **Release Date:** November 25, 2016 @ 05:05:40
 * **In-App Purchasing:** No

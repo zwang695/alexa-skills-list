@@ -20,5 +20,5 @@ Mind Blowing Facts is a fun Alexa skill will proved you with a fun and interesti
 * **ID:** amzn1.ask.skill.e9722902-a594-4977-8448-8395489c1af4
 * **ASIN:** B01N6FHUB4
 * **Author:** Josh Fedo
-* **Release Date:** December 28, 2016 @ 05:49:02
+* **Release Date:** December 28, 2016 @ 06:49:02
 * **In-App Purchasing:** No

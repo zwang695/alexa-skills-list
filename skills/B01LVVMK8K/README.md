@@ -16,5 +16,5 @@ Yoga is a combination of physical, mental, and spiritual practices or discipline
 * **ID:** amzn1.ask.skill.874ba34c-72fa-4d3a-b446-fb4ce3086ece
 * **ASIN:** B01LVVMK8K
 * **Author:** Charlie
-* **Release Date:** September 11, 2016 @ 02:41:47
+* **Release Date:** September 11, 2016 @ 03:41:47
 * **In-App Purchasing:** No

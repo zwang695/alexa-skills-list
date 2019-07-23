@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.f2203a81-4d35-43a3-9ec2-d32f78f4eaad
 * **ASIN:** B01NAGMQAH
 * **Author:** cyconical
-* **Release Date:** December 10, 2016 @ 05:49:44
+* **Release Date:** December 10, 2016 @ 06:49:44
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Please Note: This skill is not sponsored by or endorsed by the National Football
 * **ID:** amzn1.ask.skill.a5fab325-b7b0-4632-bcdc-cdc04b9e14ab
 * **ASIN:** B01LXK32XG
 * **Author:** Danny Stoll
-* **Release Date:** September 28, 2016 @ 16:41:57
+* **Release Date:** September 28, 2016 @ 17:41:57
 * **In-App Purchasing:** No

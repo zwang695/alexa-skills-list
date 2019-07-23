@@ -20,5 +20,5 @@ The excellent GNU Octave contains a function fact. It is contributed by Jordi Gu
 * **ID:** amzn1.ask.skill.4c498981-8790-4c8c-8792-3807722e2fc8
 * **ASIN:** B01KGNAI3E
 * **Author:** zippeurfou
-* **Release Date:** August 17, 2016 @ 04:52:19
+* **Release Date:** August 17, 2016 @ 05:52:19
 * **In-App Purchasing:** No

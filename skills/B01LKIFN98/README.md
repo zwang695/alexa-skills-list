@@ -20,5 +20,5 @@ Conferences can be overwhelming! Whether you are a college freshman or a profess
 * **ID:** amzn1.ask.skill.e0538a69-c307-493c-b08f-fc15ccebdf66
 * **ASIN:** B01LKIFN98
 * **Author:** aparravera
-* **Release Date:** September 14, 2016 @ 21:43:20
+* **Release Date:** September 14, 2016 @ 22:43:20
 * **In-App Purchasing:** No

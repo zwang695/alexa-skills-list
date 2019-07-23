@@ -20,5 +20,5 @@ The Wild Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.e6803d20-a7cd-41d9-a71f-001619379828
 * **ASIN:** B01MAYX78F
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:46:57
+* **Release Date:** October 21, 2016 @ 15:46:57
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ enjoy an amazing fact each time you ask alexa more than 1000 facts
 * **ID:** amzn1.echo-sdk-ams.app.bb883388-2794-4479-a502-3e49f40e72d0
 * **ASIN:** B01I2FI7FY
 * **Author:** NextLevel
-* **Release Date:** July 8, 2016 @ 01:57:31
+* **Release Date:** July 8, 2016 @ 02:57:31
 * **In-App Purchasing:** No

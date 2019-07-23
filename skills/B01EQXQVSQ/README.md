@@ -20,5 +20,5 @@ With this skill, you can find locations and times for karaoke in the Tricities W
 * **ID:** amzn1.echo-sdk-ams.app.946cf7f2-dc74-400b-a101-9a71e9c83e95
 * **ASIN:** B01EQXQVSQ
 * **Author:** Innofuze
-* **Release Date:** May 9, 2016 @ 08:08:25
+* **Release Date:** May 9, 2016 @ 09:08:25
 * **In-App Purchasing:** No

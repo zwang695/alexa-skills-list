@@ -18,5 +18,5 @@ tells badminton facts
 * **ID:** amzn1.ask.skill.13b6e986-03e0-4542-a9c8-4a21774d7d7d
 * **ASIN:** B01NAD6MEK
 * **Author:** student
-* **Release Date:** November 30, 2016 @ 01:36:25
+* **Release Date:** November 30, 2016 @ 02:36:25
 * **In-App Purchasing:** No

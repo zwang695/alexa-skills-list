@@ -32,5 +32,5 @@ Download the cat facts Alexa Skill for more!
 * **ID:** amzn1.echo-sdk-ams.app.5d9da015-4b9e-4c04-8076-a847cd85f276
 * **ASIN:** B01DQ7ZNBY
 * **Author:** Tanner Little
-* **Release Date:** April 7, 2016 @ 06:04:34
+* **Release Date:** April 7, 2016 @ 07:04:34
 * **In-App Purchasing:** No

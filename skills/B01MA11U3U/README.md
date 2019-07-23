@@ -22,5 +22,5 @@ Submit your own quote at quotesonart.com!
 * **ID:** amzn1.ask.skill.b502689d-fe77-4c68-8c77-67ca3d3ced12
 * **ASIN:** B01MA11U3U
 * **Author:** Studio Issa, LLC
-* **Release Date:** October 10, 2016 @ 09:11:55
+* **Release Date:** October 10, 2016 @ 10:11:55
 * **In-App Purchasing:** No

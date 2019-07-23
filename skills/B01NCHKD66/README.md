@@ -28,5 +28,5 @@ Weather and ski condition data provided by MyWeather2.com.
 * **ID:** amzn1.ask.skill.24fc04c1-2502-4ba3-a504-3a37ace0a0f5
 * **ASIN:** B01NCHKD66
 * **Author:** WPO Imagineering
-* **Release Date:** December 5, 2016 @ 01:06:19
+* **Release Date:** December 5, 2016 @ 02:06:19
 * **In-App Purchasing:** No

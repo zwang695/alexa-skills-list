@@ -20,5 +20,5 @@ This Alexa skill allows Alexa to tell you a random quote.
 * **ID:** amzn1.ask.skill.964630f8-773d-4727-8b86-3806779c3b9f
 * **ASIN:** B01M0GLYV7
 * **Author:** Brandon's Alexa
-* **Release Date:** September 19, 2016 @ 04:12:17
+* **Release Date:** September 19, 2016 @ 05:12:17
 * **In-App Purchasing:** No

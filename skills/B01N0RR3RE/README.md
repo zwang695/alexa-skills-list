@@ -18,5 +18,5 @@ Humor test app designed as a "thank you" Easter Egg for the person who gifted me
 * **ID:** amzn1.ask.skill.7caa8cfd-780b-4041-825a-1916373399ce
 * **ASIN:** B01N0RR3RE
 * **Author:** Personal
-* **Release Date:** December 30, 2016 @ 05:48:54
+* **Release Date:** December 30, 2016 @ 06:48:54
 * **In-App Purchasing:** No

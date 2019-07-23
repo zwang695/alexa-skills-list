@@ -18,5 +18,5 @@ When Dad Jokes is prompted, Alexa(Echo) will tell a super funny dad joke.
 * **ID:** amzn1.ask.skill.e07b6ef4-9cf3-4dbe-bbc0-80c6615444b9
 * **ASIN:** B01LWYA6FX
 * **Author:** Dogbeast
-* **Release Date:** September 28, 2016 @ 18:13:20
+* **Release Date:** September 28, 2016 @ 19:13:20
 * **In-App Purchasing:** No

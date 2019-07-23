@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.205277a4-5c31-4d94-a869-d04045a8b493
 * **ASIN:** B01MT0L01D
 * **Author:** meinsen.net
-* **Release Date:** December 29, 2016 @ 04:19:50
+* **Release Date:** December 29, 2016 @ 05:19:50
 * **In-App Purchasing:** No

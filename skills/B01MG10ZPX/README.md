@@ -20,5 +20,5 @@ Learn more about one of our 4-stringed friends, the cello!
 * **ID:** amzn1.ask.skill.2946fd56-6569-4267-9bbb-83adb19f8e49
 * **ASIN:** B01MG10ZPX
 * **Author:** Naima
-* **Release Date:** October 26, 2016 @ 01:46:28
+* **Release Date:** October 26, 2016 @ 02:46:28
 * **In-App Purchasing:** No

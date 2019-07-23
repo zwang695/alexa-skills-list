@@ -24,5 +24,5 @@ You may also find that your interest in fencing grows. If your interest outgrows
 * **ID:** amzn1.echo-sdk-ams.app.2833edb9-d551-4976-a550-87d9fde21dcf
 * **ASIN:** B01E2UV19W
 * **Author:** wiljopedia
-* **Release Date:** April 13, 2016 @ 07:02:33
+* **Release Date:** April 13, 2016 @ 08:02:33
 * **In-App Purchasing:** No

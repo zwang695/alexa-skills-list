@@ -20,5 +20,5 @@ With Mood Journal you can track your mood on a daily basis. Each day when you op
 * **ID:** amzn1.ask.skill.7c0f21c4-731e-4e06-8e8a-63c9bde2820b
 * **ASIN:** B01KHA3H7A
 * **Author:** Mandy Chan
-* **Release Date:** August 17, 2016 @ 02:52:37
+* **Release Date:** August 17, 2016 @ 03:52:37
 * **In-App Purchasing:** No

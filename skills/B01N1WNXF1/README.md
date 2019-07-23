@@ -20,5 +20,5 @@ This skill tells simple facts about Korean culture and lifestyle of Korean peopl
 * **ID:** amzn1.ask.skill.cb43fdf3-a8b9-400f-8261-71fcb3ef4e48
 * **ASIN:** B01N1WNXF1
 * **Author:** Young Lee
-* **Release Date:** December 29, 2016 @ 05:49:47
+* **Release Date:** December 29, 2016 @ 06:49:47
 * **In-App Purchasing:** No

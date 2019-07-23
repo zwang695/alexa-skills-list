@@ -16,5 +16,5 @@ Someone told a bad joke? Let them know with the Alexa boo Skill.
 * **ID:** amzn1.echo-sdk-ams.app.cfd83644-000d-411e-b924-c5ab82900f6c
 * **ASIN:** B01CSCMSIE
 * **Author:** Matchbox mobile
-* **Release Date:** March 10, 2016 @ 03:27:10
+* **Release Date:** March 10, 2016 @ 04:27:10
 * **In-App Purchasing:** No

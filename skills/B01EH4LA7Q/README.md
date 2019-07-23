@@ -20,5 +20,5 @@ Something strange has moved into the caves under Thornhill.  Navigate a maze of 
 * **ID:** amzn1.echo-sdk-ams.app.08c6c908-e9d2-4ef6-b1e6-eadead638d04
 * **ASIN:** B01EH4LA7Q
 * **Author:** Dan Malec
-* **Release Date:** April 26, 2016 @ 06:08:31
+* **Release Date:** April 26, 2016 @ 07:08:31
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Hockley Valley Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.331214de-b561-4c7a-af8d-3f2785a0012f
 * **ASIN:** B01N3NST0L
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:15:36
+* **Release Date:** November 5, 2016 @ 12:15:36
 * **In-App Purchasing:** No

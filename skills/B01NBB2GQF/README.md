@@ -16,5 +16,5 @@ This is a trivia to test Alexa skill. It is based on the important events with m
 * **ID:** amzn1.ask.skill.b510b3a1-03a5-4502-9aab-adb6ca6fc7c4
 * **ASIN:** B01NBB2GQF
 * **Author:** Ruben Aguilar
-* **Release Date:** November 30, 2016 @ 01:05:31
+* **Release Date:** November 30, 2016 @ 02:05:31
 * **In-App Purchasing:** No

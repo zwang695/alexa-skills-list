@@ -20,5 +20,5 @@ Smrithi, is here to tell you an interesting fact about india that most of us are
 * **ID:** amzn1.ask.skill.a8e4e924-d64b-4ea1-985e-9cbf30000b06
 * **ASIN:** B01LWEYU20
 * **Author:** vikramr
-* **Release Date:** September 14, 2016 @ 21:42:50
+* **Release Date:** September 14, 2016 @ 22:42:50
 * **In-App Purchasing:** No

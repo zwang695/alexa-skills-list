@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.46e56983-1512-40de-b092-773b3e0f506e
 * **ASIN:** B01N0I6WZW
 * **Author:** jonaskeutel
-* **Release Date:** November 28, 2016 @ 04:05:48
+* **Release Date:** November 28, 2016 @ 05:05:48
 * **In-App Purchasing:** No

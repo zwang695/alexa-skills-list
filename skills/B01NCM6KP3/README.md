@@ -20,5 +20,5 @@ This skill publishes wikipedia information about historical and current US Presi
 * **ID:** amzn1.ask.skill.8e2d68f0-abf9-4571-89e6-0e4b1ba7296e
 * **ASIN:** B01NCM6KP3
 * **Author:** US Presidents
-* **Release Date:** December 17, 2016 @ 04:49:33
+* **Release Date:** December 17, 2016 @ 05:49:33
 * **In-App Purchasing:** No

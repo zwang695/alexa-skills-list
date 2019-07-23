@@ -20,5 +20,5 @@ Teaches Alexa some random facts that inspire reading. Mostly space and history t
 * **ID:** amzn1.ask.skill.25a8cf2b-f13d-470f-9a28-4680acf7c126
 * **ASIN:** B01N3VNCBS
 * **Author:** Jake
-* **Release Date:** November 25, 2016 @ 03:37:48
+* **Release Date:** November 25, 2016 @ 04:37:48
 * **In-App Purchasing:** No

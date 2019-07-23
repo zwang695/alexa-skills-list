@@ -16,5 +16,5 @@ Coffee is one of the most widely consumed beverages around the world and is a ce
 * **ID:** amzn1.ask.skill.f37e0d5a-0806-4225-ada3-580dbb092b15
 * **ASIN:** B01N4C6V57
 * **Author:** pverkhovskyi
-* **Release Date:** December 10, 2016 @ 06:19:07
+* **Release Date:** December 10, 2016 @ 07:19:07
 * **In-App Purchasing:** No

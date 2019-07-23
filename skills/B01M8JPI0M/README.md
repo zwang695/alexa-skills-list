@@ -20,5 +20,5 @@ By utilizing this tool, you can better understand how much exercise is required 
 * **ID:** amzn1.ask.skill.91d84586-21d7-44d9-b8c9-3682e9005e5a
 * **ASIN:** B01M8JPI0M
 * **Author:** Reno McKenzie
-* **Release Date:** November 2, 2016 @ 03:14:02
+* **Release Date:** November 2, 2016 @ 04:14:02
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Professor Oak allows you to get information on which Pokemon type your type move
 * **ID:** amzn1.echo-sdk-ams.app.3fadfc50-5b0e-463e-ba15-4ec17ade987c
 * **ASIN:** B01KU185UA
 * **Author:** Mobiquity Inc
-* **Release Date:** August 30, 2016 @ 05:32:51
+* **Release Date:** August 30, 2016 @ 06:32:51
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Curious Cat increases your knowledge and appreciation of cats by tell ing you a 
 * **ID:** amzn1.echo-sdk-ams.app.a9fd7f84-6ecb-4c16-91f7-7d438bf9fa28
 * **ASIN:** B01GNU5ZI2
 * **Author:** bobasoba LLC
-* **Release Date:** June 7, 2016 @ 09:08:33
+* **Release Date:** June 7, 2016 @ 10:08:33
 * **In-App Purchasing:** No

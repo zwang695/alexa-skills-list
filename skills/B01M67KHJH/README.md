@@ -20,5 +20,5 @@ Based on the SpaceGeek template. This skill returns 1 of the 20 random facts abo
 * **ID:** amzn1.ask.skill.796ffbc8-ee71-4de3-a9f1-24525ed4131a
 * **ASIN:** B01M67KHJH
 * **Author:** dev
-* **Release Date:** November 2, 2016 @ 03:12:34
+* **Release Date:** November 2, 2016 @ 04:12:34
 * **In-App Purchasing:** No

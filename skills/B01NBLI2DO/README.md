@@ -16,5 +16,5 @@ This unofficial WoW world event calendar will tell you if there are any current 
 * **ID:** amzn1.ask.skill.59a664ef-a8c3-4af7-a9d2-1f5b39fa329d
 * **ASIN:** B01NBLI2DO
 * **Author:** Nathan Long
-* **Release Date:** December 22, 2016 @ 04:19:08
+* **Release Date:** December 22, 2016 @ 05:19:08
 * **In-App Purchasing:** No

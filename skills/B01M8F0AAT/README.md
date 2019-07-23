@@ -20,5 +20,5 @@ My first skill built at a workshop. I just wanted Alexa to tell me random one li
 * **ID:** amzn1.ask.skill.ba4d83c1-66fc-4c21-8d92-40ad05395d37
 * **ASIN:** B01M8F0AAT
 * **Author:** Derek Robertson
-* **Release Date:** October 25, 2016 @ 01:48:03
+* **Release Date:** October 25, 2016 @ 02:48:03
 * **In-App Purchasing:** No

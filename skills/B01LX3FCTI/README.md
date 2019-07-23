@@ -20,5 +20,5 @@ Best Zlatan quotes.
 * **ID:** amzn1.ask.skill.480c1f25-d0f8-43d5-b362-2c76c37a585d
 * **ASIN:** B01LX3FCTI
 * **Author:** Eujern Lim
-* **Release Date:** October 6, 2016 @ 04:11:38
+* **Release Date:** October 6, 2016 @ 05:11:38
 * **In-App Purchasing:** No

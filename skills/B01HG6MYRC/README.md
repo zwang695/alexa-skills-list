@@ -20,5 +20,5 @@ You can learn the most commonly used phrases in Italian with Alexa. Simply ask A
 * **ID:** amzn1.echo-sdk-ams.app.f498d7fa-a486-4f14-9526-02afd196b3b6
 * **ASIN:** B01HG6MYRC
 * **Author:** ALPHABETO
-* **Release Date:** June 29, 2016 @ 05:58:34
+* **Release Date:** June 29, 2016 @ 06:58:34
 * **In-App Purchasing:** No

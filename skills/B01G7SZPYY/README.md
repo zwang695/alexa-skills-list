@@ -25,5 +25,5 @@ Alexa, Ask aromatherapy for a recipe for focus
 * **ID:** amzn1.echo-sdk-ams.app.0502fa03-e132-4ad5-966e-c3dfb4785ee3
 * **ASIN:** B01G7SZPYY
 * **Author:** Tutela Technologies
-* **Release Date:** May 30, 2016 @ 05:08:38
+* **Release Date:** May 30, 2016 @ 06:08:38
 * **In-App Purchasing:** No

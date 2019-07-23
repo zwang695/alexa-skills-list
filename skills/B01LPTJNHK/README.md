@@ -24,5 +24,5 @@ Current titans include Bill Gates, Steve Jobs and Warren Buffett!
 * **ID:** amzn1.ask.skill.d984e9d6-c885-4660-ac66-4548d588295c
 * **ASIN:** B01LPTJNHK
 * **Author:** ericCStephens
-* **Release Date:** September 11, 2016 @ 03:15:34
+* **Release Date:** September 11, 2016 @ 04:15:34
 * **In-App Purchasing:** No

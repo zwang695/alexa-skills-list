@@ -36,5 +36,5 @@ Ask My Pundit for help and it will suggest even more options!
 * **ID:** amzn1.ask.skill.d6f8f151-e8e4-404b-a1f8-0f072e61526a
 * **ASIN:** B01LOW6C4U
 * **Author:** Rhiza, Inc.
-* **Release Date:** September 17, 2016 @ 02:42:10
+* **Release Date:** September 17, 2016 @ 03:42:10
 * **In-App Purchasing:** No

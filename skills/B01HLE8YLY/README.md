@@ -20,5 +20,5 @@ Ask for any geography fact
 * **ID:** amzn1.echo-sdk-ams.app.92c0c78e-7584-4091-af69-e182a6ad3b76
 * **ASIN:** B01HLE8YLY
 * **Author:** Vincent Liu
-* **Release Date:** June 28, 2016 @ 04:45:51
+* **Release Date:** June 28, 2016 @ 05:45:51
 * **In-App Purchasing:** No

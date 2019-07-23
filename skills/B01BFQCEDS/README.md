@@ -22,5 +22,5 @@ Contact TorgCon@Aol.Com with any questions or issues.    Thank you.
 * **ID:** amzn1.echo-sdk-ams.app.44d20b47-57ba-4712-9736-b2d3b325f1fb
 * **ASIN:** B01BFQCEDS
 * **Author:** TorgCon
-* **Release Date:** February 3, 2016 @ 14:34:43
+* **Release Date:** February 3, 2016 @ 15:34:43
 * **In-App Purchasing:** No

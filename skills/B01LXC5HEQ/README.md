@@ -20,5 +20,5 @@ The Kimberley Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.e4ed2969-ddec-4def-9cf1-871cc0dcb9f8
 * **ASIN:** B01LXC5HEQ
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:56:33
+* **Release Date:** October 20, 2016 @ 03:56:33
 * **In-App Purchasing:** No

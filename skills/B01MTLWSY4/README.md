@@ -20,5 +20,5 @@ Sailmate's "Captain Jack" on Alexa helps you determine if today is a good day to
 * **ID:** amzn1.ask.skill.7b1325c0-df23-4b0e-83a9-478c15c96d77
 * **ASIN:** B01MTLWSY4
 * **Author:** MPH Inc.
-* **Release Date:** November 21, 2016 @ 00:05:16
+* **Release Date:** November 21, 2016 @ 01:05:16
 * **In-App Purchasing:** No

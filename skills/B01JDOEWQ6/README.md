@@ -20,5 +20,5 @@ Save time thinking of which Restaurants to try in Portland and ask Alexa instead
 * **ID:** amzn1.ask.skill.9a89b81c-7e39-414a-b6b5-5116153a4b86
 * **ASIN:** B01JDOEWQ6
 * **Author:** Ritika Borkar
-* **Release Date:** August 5, 2016 @ 04:37:32
+* **Release Date:** August 5, 2016 @ 05:37:32
 * **In-App Purchasing:** No

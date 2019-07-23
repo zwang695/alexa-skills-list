@@ -26,6 +26,6 @@ Disclaimer:  The skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.6d0e9a3c-8446-4b65-b72f-f0f98308e11f
 * **ASIN:** B01M61A153
 * **Author:** Telesherpa
-* **Release Date:** October 25, 2016 @ 02:15:00
+* **Release Date:** October 25, 2016 @ 03:15:00
 * **Privacy Policy:** https://medium.com/@alexander.degreiff/privacy-policy-2d3da0157d9a
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ My Airport Info provides you with status and delays at MAJOR US AIRPORTS. Tell i
 * **ID:** amzn1.ask.skill.f6dac246-8937-4e13-84a9-2fb2b676c0ef
 * **ASIN:** B01IUZPUZQ
 * **Author:** Afrilogic
-* **Release Date:** August 2, 2016 @ 07:36:45
+* **Release Date:** August 2, 2016 @ 08:36:45
 * **In-App Purchasing:** No

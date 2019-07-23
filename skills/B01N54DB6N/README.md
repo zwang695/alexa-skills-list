@@ -18,5 +18,5 @@ Listen to the weekly Sunday services for Sierra Bible Church in Sonora, Californ
 * **ID:** amzn1.ask.skill.1f4d4d3d-8dce-4e0a-aa4f-703ebe226cd1
 * **ASIN:** B01N54DB6N
 * **Author:** Derek Maxson
-* **Release Date:** November 30, 2016 @ 03:05:15
+* **Release Date:** November 30, 2016 @ 04:05:15
 * **In-App Purchasing:** No

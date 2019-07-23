@@ -25,5 +25,5 @@ To start a new game at any time, say, "start game".
 * **ID:** amzn1.ask.skill.c48dea61-957b-429d-99bc-e4fd8b3212a1
 * **ASIN:** B01JHKKE9U
 * **Author:** deepthiRao
-* **Release Date:** August 4, 2016 @ 07:11:41
+* **Release Date:** August 4, 2016 @ 08:11:41
 * **In-App Purchasing:** No

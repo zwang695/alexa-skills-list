@@ -24,5 +24,5 @@ Alexa, ask postcode finder to find the postcode of Barbican
 * **ID:** amzn1.ask.skill.85b0a1d8-ee1d-4541-add0-46b5c1f1a493
 * **ASIN:** B01MF64N60
 * **Author:** Ravindra Patel
-* **Release Date:** November 2, 2016 @ 09:43:17
+* **Release Date:** November 2, 2016 @ 10:43:17
 * **In-App Purchasing:** No

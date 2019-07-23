@@ -20,5 +20,5 @@ If you, or know of a Fire Fighter as a friend or family member, then you aught t
 * **ID:** amzn1.ask.skill.5e54ba63-9f49-4d65-9808-c7b946a8f606
 * **ASIN:** B01L88SCMU
 * **Author:** Connecting People Software Co.
-* **Release Date:** August 31, 2016 @ 06:32:35
+* **Release Date:** August 31, 2016 @ 07:32:35
 * **In-App Purchasing:** No

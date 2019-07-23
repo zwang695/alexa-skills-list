@@ -22,5 +22,5 @@ I will be adding more facts later.
 * **ID:** amzn1.ask.skill.3e559d76-3e88-4545-ad1b-2a2b6a4ed947
 * **ASIN:** B01LY9G70G
 * **Author:** Jeffrey Tackett
-* **Release Date:** September 24, 2016 @ 01:42:21
+* **Release Date:** September 24, 2016 @ 02:42:21
 * **In-App Purchasing:** No

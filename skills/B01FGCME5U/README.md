@@ -32,5 +32,5 @@ For more inspiration you can visit us at http://dailyword.com
 * **ID:** amzn1.echo-sdk-ams.app.b8915009-1e8c-4b9a-9716-f6d4499df8e1
 * **ASIN:** B01FGCME5U
 * **Author:** Unity
-* **Release Date:** August 29, 2016 @ 01:33:02
+* **Release Date:** August 29, 2016 @ 02:33:02
 * **In-App Purchasing:** No

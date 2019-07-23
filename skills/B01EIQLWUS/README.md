@@ -18,7 +18,7 @@ Now you can easily connect your Sensi™ Wi-Fi Programmable Thermostat to Amazon
 * **ID:** amzn1.ask.skill.e54b56d8-b02b-4e4f-83bc-5333450e3227
 * **ASIN:** B01EIQLWUS
 * **Author:** Sensi WiFi Thermostat
-* **Release Date:** April 19, 2016 @ 17:32:08
+* **Release Date:** April 19, 2016 @ 18:32:08
 * **Privacy Policy:** https://sensicomfort.com/privacy-policies/
 * **Terms of Use:** http://www.emerson.com/en-us/Pages/terms-of-use.aspx
 * **In-App Purchasing:** No

@@ -27,5 +27,5 @@ For example:
 * **ID:** amzn1.ask.skill.44b30863-0746-4397-b7f9-3dd9dc0853fa
 * **ASIN:** B01MQSE3QV
 * **Author:** RJ Duckburgh
-* **Release Date:** December 10, 2016 @ 00:49:39
+* **Release Date:** December 10, 2016 @ 01:49:39
 * **In-App Purchasing:** No

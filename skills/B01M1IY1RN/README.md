@@ -22,5 +22,5 @@ House Type Catalog gives you information about different types of houses
 * **ID:** amzn1.ask.skill.e89c33e4-71cb-4893-a0b2-0c1c1daeb234
 * **ASIN:** B01M1IY1RN
 * **Author:** Aishwarya Venkatesh
-* **Release Date:** October 10, 2016 @ 01:42:12
+* **Release Date:** October 10, 2016 @ 02:42:12
 * **In-App Purchasing:** No

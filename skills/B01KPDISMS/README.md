@@ -16,5 +16,5 @@ Alexa figures out what clock you're best suited to be
 * **ID:** amzn1.ask.skill.e87f0466-93e9-4e8d-b656-fddda21e747a
 * **ASIN:** B01KPDISMS
 * **Author:** Arin
-* **Release Date:** August 22, 2016 @ 02:37:57
+* **Release Date:** August 22, 2016 @ 03:37:57
 * **In-App Purchasing:** No

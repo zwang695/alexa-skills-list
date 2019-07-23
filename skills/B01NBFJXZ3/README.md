@@ -20,5 +20,5 @@ This skill provides a random historical facts about professional basketball in B
 * **ID:** amzn1.ask.skill.a4f71a7d-8ef2-4c07-9766-6d507e7c39bf
 * **ASIN:** B01NBFJXZ3
 * **Author:** Instant Analytics
-* **Release Date:** December 5, 2016 @ 05:35:26
+* **Release Date:** December 5, 2016 @ 06:35:26
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ It's simple, it's fun, and its great to get one or multiple facts a day to motiv
 * **ID:** amzn1.ask.skill.8999a5a3-1307-4a69-9980-cb75d11badcc
 * **ASIN:** B01LZ4JCCS
 * **Author:** JP Dev & Design
-* **Release Date:** September 17, 2016 @ 02:42:17
+* **Release Date:** September 17, 2016 @ 03:42:17
 * **In-App Purchasing:** No

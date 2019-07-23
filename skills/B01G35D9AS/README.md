@@ -20,5 +20,5 @@ Initially just answering questions about the family's ages, but will expand beyo
 * **ID:** amzn1.echo-sdk-ams.app.d2c61b55-f8e7-418d-9041-769227bd618e
 * **ASIN:** B01G35D9AS
 * **Author:** Scot-Irish Lads
-* **Release Date:** June 13, 2016 @ 08:09:59
+* **Release Date:** June 13, 2016 @ 09:09:59
 * **In-App Purchasing:** No

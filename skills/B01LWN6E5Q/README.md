@@ -20,5 +20,5 @@ Please note that this is in no way affiliated with Scrum.org
 * **ID:** amzn1.ask.skill.89f31692-285d-4ff0-8f9b-93f977941961
 * **ASIN:** B01LWN6E5Q
 * **Author:** PingEric
-* **Release Date:** October 6, 2016 @ 05:12:07
+* **Release Date:** October 6, 2016 @ 06:12:07
 * **In-App Purchasing:** No

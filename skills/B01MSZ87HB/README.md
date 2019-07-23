@@ -20,5 +20,5 @@ The application give you the inspiration you need to start the day or whenever y
 * **ID:** amzn1.ask.skill.4fb3965a-eb4c-4ddd-adcf-8805b7b39fe8
 * **ASIN:** B01MSZ87HB
 * **Author:** Tinker's Studio
-* **Release Date:** December 17, 2016 @ 01:49:42
+* **Release Date:** December 17, 2016 @ 02:49:42
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ It is a movie-quiz that involves individuals of all ages. An individual will be 
 * **ID:** amzn1.ask.skill.d76f9fae-adf0-4a06-a86d-ab8684b8b0fd
 * **ASIN:** B01NAHICVC
 * **Author:** sjsu
-* **Release Date:** December 10, 2016 @ 08:20:01
+* **Release Date:** December 10, 2016 @ 09:20:01
 * **In-App Purchasing:** No

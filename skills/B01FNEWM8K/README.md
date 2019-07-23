@@ -20,7 +20,7 @@ Yoga Trainer is your personal yoga teacher. This Alexa Skill guides you through 
 * **ID:** amzn1.echo-sdk-ams.app.971994ca-aac9-4ea0-9cd1-24f77dcddec4
 * **ASIN:** B01FNEWM8K
 * **Author:** Logisome Inc
-* **Release Date:** May 20, 2016 @ 02:08:34
+* **Release Date:** May 20, 2016 @ 03:08:34
 * **Privacy Policy:** http://www.logisome.com/yoga-tos
 * **Terms of Use:** http://www.logisome.com/yoga-tos
 * **In-App Purchasing:** No

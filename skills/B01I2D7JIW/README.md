@@ -20,5 +20,5 @@ Our complex and tricky mazes are challenging to solve. But once you get good at 
 * **ID:** amzn1.echo-sdk-ams.app.36a071f9-da20-4740-9285-f1704d70f349
 * **ASIN:** B01I2D7JIW
 * **Author:** TsaTsaTzu
-* **Release Date:** July 13, 2016 @ 01:57:32
+* **Release Date:** July 13, 2016 @ 02:57:32
 * **In-App Purchasing:** No

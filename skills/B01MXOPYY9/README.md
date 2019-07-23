@@ -20,5 +20,5 @@ High school band is fun. It's not easy and it's not for nerds. This fun facts wi
 * **ID:** amzn1.ask.skill.f499a294-1fa9-45d1-8232-e4094ce38c00
 * **ASIN:** B01MXOPYY9
 * **Author:** Bits of Knits
-* **Release Date:** December 16, 2016 @ 05:50:43
+* **Release Date:** December 16, 2016 @ 06:50:43
 * **In-App Purchasing:** No

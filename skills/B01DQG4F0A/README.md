@@ -20,5 +20,5 @@ Facts about the band Phish. Ask Alexa to open Phish Geek and then ask for a fact
 * **ID:** amzn1.echo-sdk-ams.app.cf89e079-ee2d-4984-82c9-a062544a0bbb
 * **ASIN:** B01DQG4F0A
 * **Author:** EP
-* **Release Date:** April 5, 2016 @ 06:32:28
+* **Release Date:** April 5, 2016 @ 07:32:28
 * **In-App Purchasing:** No

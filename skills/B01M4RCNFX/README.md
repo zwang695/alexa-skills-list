@@ -20,5 +20,5 @@ Alexa will help you learn to say no in multiple languages! Don't worry if you ge
 * **ID:** amzn1.ask.skill.7b91991d-d0fc-438e-a4e9-1a53fcd7d657
 * **ASIN:** B01M4RCNFX
 * **Author:** Chloe McMullan
-* **Release Date:** November 6, 2016 @ 01:42:31
+* **Release Date:** November 6, 2016 @ 02:42:31
 * **In-App Purchasing:** No

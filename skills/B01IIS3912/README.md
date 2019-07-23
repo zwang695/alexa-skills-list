@@ -20,5 +20,5 @@ This skill will test how well you know the state capitals.
 * **ID:** amzn1.echo-sdk-ams.app.407b0966-a1ac-4f79-b9ae-456f4414dcbd
 * **ASIN:** B01IIS3912
 * **Author:** Greg Szczygiel
-* **Release Date:** July 22, 2016 @ 02:27:36
+* **Release Date:** July 22, 2016 @ 03:27:36
 * **In-App Purchasing:** No

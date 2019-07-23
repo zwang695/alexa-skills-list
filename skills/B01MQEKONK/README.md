@@ -20,5 +20,5 @@ The Falcon Ridge Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.a49436dd-422f-48de-9caa-3f60f73c88d5
 * **ASIN:** B01MQEKONK
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:14:55
+* **Release Date:** November 5, 2016 @ 12:14:55
 * **In-App Purchasing:** No

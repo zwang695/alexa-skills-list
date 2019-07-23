@@ -20,5 +20,5 @@ Allows you to retrieve the next Melbourne Transport departures. Also provides th
 * **ID:** amzn1.echo-sdk-ams.app.66e99929-693a-49f5-b533-8d87a20d68c2
 * **ASIN:** B01IW0R8MM
 * **Author:** Fabio Douek
-* **Release Date:** July 28, 2016 @ 01:56:49
+* **Release Date:** July 28, 2016 @ 02:56:49
 * **In-App Purchasing:** No

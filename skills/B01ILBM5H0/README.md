@@ -20,5 +20,5 @@ This skill generates random quotes.
 * **ID:** amzn1.echo-sdk-ams.app.fe79d249-343c-44ea-900c-a5b2c9f37836
 * **ASIN:** B01ILBM5H0
 * **Author:** Sruthi
-* **Release Date:** July 25, 2016 @ 07:56:50
+* **Release Date:** July 25, 2016 @ 08:56:50
 * **In-App Purchasing:** No

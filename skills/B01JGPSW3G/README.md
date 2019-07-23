@@ -18,5 +18,5 @@ Did you know that sharks are older than dinosaurs?  Learn about sharks every day
 * **ID:** amzn1.ask.skill.6d3aace2-2382-45d5-b319-a580c65f0c0d
 * **ASIN:** B01JGPSW3G
 * **Author:** Jonathan Zazove
-* **Release Date:** August 11, 2016 @ 02:07:38
+* **Release Date:** August 11, 2016 @ 03:07:38
 * **In-App Purchasing:** No

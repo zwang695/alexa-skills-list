@@ -20,7 +20,7 @@ This skill allows existing Just Energy (TX only) customers to ask for their bill
 * **ID:** amzn1.echo-sdk-ams.app.3fc661bb-f9b8-435b-856d-e3bc97fc32db
 * **ASIN:** B01EGDRMWU
 * **Author:** Just Energy
-* **Release Date:** May 10, 2016 @ 01:12:56
+* **Release Date:** May 10, 2016 @ 02:12:56
 * **Privacy Policy:** https://www.justenergy.com/about-us/privacy-policy/
 * **Terms of Use:** https://www.justenergy.com/about-us/terms-of-use/
 * **In-App Purchasing:** No

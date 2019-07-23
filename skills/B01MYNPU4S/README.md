@@ -24,5 +24,5 @@ Note: This skill is not currently supported on FireTV.
 * **ID:** amzn1.ask.skill.fac6f901-9638-460a-9541-5a5ccd4ee4c8
 * **ASIN:** B01MYNPU4S
 * **Author:** Thrive Global
-* **Release Date:** November 29, 2016 @ 11:35:47
+* **Release Date:** November 29, 2016 @ 12:35:47
 * **In-App Purchasing:** No

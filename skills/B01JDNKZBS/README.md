@@ -20,5 +20,5 @@ Fun Bollywood movie trivia
 * **ID:** amzn1.ask.skill.28520b50-1e9a-4e20-a50c-3dcd62ddf7d3
 * **ASIN:** B01JDNKZBS
 * **Author:** Recode360
-* **Release Date:** August 3, 2016 @ 08:41:30
+* **Release Date:** August 3, 2016 @ 09:41:30
 * **In-App Purchasing:** No

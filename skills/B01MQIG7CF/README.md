@@ -25,7 +25,7 @@ Learn more at calliopewater.com
 * **ID:** amzn1.echo-sdk-ams.app.405b6df1-ba0f-4a55-8933-968175f7a482
 * **ASIN:** B01MQIG7CF
 * **Author:** Calliope Waterworks
-* **Release Date:** November 30, 2016 @ 01:05:12
+* **Release Date:** November 30, 2016 @ 02:05:12
 * **Privacy Policy:** http://calliopewater.com/privacy-policy/
 * **Terms of Use:** http://calliopewater.com/terms-conditions/
 * **Account Linking Domains:** buoy.calliopewater.com

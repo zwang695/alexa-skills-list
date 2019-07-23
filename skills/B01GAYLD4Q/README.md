@@ -22,5 +22,5 @@ Disclaimer: the skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.e22256b3-2fe6-45e2-a84b-037e4edfdf4c
 * **ASIN:** B01GAYLD4Q
 * **Author:** Drew Firment
-* **Release Date:** June 6, 2016 @ 06:38:27
+* **Release Date:** June 6, 2016 @ 07:38:27
 * **In-App Purchasing:** No

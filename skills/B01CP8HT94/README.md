@@ -30,5 +30,5 @@ Note: that being said, we're not perfect! Sometimes Tracker might not give you e
 * **ID:** amzn1.echo-sdk-ams.app.14b0b4b6-e827-40e9-8c30-f572bbf4f006
 * **ASIN:** B01CP8HT94
 * **Author:** Majel Tech
-* **Release Date:** March 8, 2016 @ 06:17:23
+* **Release Date:** March 8, 2016 @ 07:17:23
 * **In-App Purchasing:** No

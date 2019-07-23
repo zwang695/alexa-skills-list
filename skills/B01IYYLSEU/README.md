@@ -20,5 +20,5 @@ this is some strange and unknown facts that are not common              knowledg
 * **ID:** amzn1.ask.skill.b2539201-c290-491f-870f-1c845c7ab3e6
 * **ASIN:** B01IYYLSEU
 * **Author:** earlwackerly
-* **Release Date:** July 27, 2016 @ 09:56:51
+* **Release Date:** July 27, 2016 @ 10:56:51
 * **In-App Purchasing:** No

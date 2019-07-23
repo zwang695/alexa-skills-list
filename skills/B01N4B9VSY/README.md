@@ -20,5 +20,5 @@ A simple Alexa skill which will provide you with over 100+ Mitch Hedberg quotes 
 * **ID:** amzn1.ask.skill.1991f29f-ede6-4aed-8e00-9040e7f637d5
 * **ASIN:** B01N4B9VSY
 * **Author:** Brinsanity
-* **Release Date:** December 14, 2016 @ 03:49:58
+* **Release Date:** December 14, 2016 @ 04:49:58
 * **In-App Purchasing:** No

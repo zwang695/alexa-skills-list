@@ -20,5 +20,5 @@ Generate bad passwords
 * **ID:** amzn1.ask.skill.b5946d51-642f-4738-9e7e-b5f2a60f2d98
 * **ASIN:** B01NGZUBQ3
 * **Author:** pbdev
-* **Release Date:** December 29, 2016 @ 01:49:09
+* **Release Date:** December 29, 2016 @ 02:49:09
 * **In-App Purchasing:** No

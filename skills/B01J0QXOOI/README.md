@@ -20,5 +20,5 @@ This is a simple art multiple choice quiz. Alexa will ask you a question and giv
 * **ID:** amzn1.ask.skill.9bdc5361-3e71-4e7f-b066-50d38d66538f
 * **ASIN:** B01J0QXOOI
 * **Author:** Federica Incerti
-* **Release Date:** July 27, 2016 @ 09:27:05
+* **Release Date:** July 27, 2016 @ 10:27:05
 * **In-App Purchasing:** No

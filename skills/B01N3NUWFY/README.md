@@ -20,5 +20,5 @@ The Skyloft Ski Club Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.6a381426-c256-4e61-97e5-fdae33feb098
 * **ASIN:** B01N3NUWFY
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:15:49
+* **Release Date:** November 5, 2016 @ 12:15:49
 * **In-App Purchasing:** No

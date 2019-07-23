@@ -20,5 +20,5 @@ The Roundtop Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.6f707569-bde5-4cfc-9aac-2e3899a9de76
 * **ASIN:** B01M5K4GAQ
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 07:43:11
+* **Release Date:** November 4, 2016 @ 08:43:11
 * **In-App Purchasing:** No

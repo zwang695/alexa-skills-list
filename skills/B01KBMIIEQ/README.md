@@ -20,5 +20,5 @@ Fun facts about Oakland California.
 * **ID:** amzn1.ask.skill.96b46ffb-94ec-40ab-9f02-891885b3ac6b
 * **ASIN:** B01KBMIIEQ
 * **Author:** Adi Surya
-* **Release Date:** August 13, 2016 @ 04:07:54
+* **Release Date:** August 13, 2016 @ 05:07:54
 * **In-App Purchasing:** No

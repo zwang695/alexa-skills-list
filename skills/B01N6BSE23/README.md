@@ -20,5 +20,5 @@ Alexa will play a note your request (played on a simulated oboe) to help you tun
 * **ID:** amzn1.ask.skill.f30a448d-9b88-4fcb-a66d-c849c65866e9
 * **ASIN:** B01N6BSE23
 * **Author:** Don Sherwood
-* **Release Date:** December 24, 2016 @ 02:19:15
+* **Release Date:** December 24, 2016 @ 03:19:15
 * **In-App Purchasing:** No

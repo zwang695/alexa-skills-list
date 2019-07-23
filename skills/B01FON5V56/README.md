@@ -20,5 +20,5 @@ Allows for multiple coin flips.
 * **ID:** amzn1.echo-sdk-ams.app.06c32188-092c-4a06-9a10-46624a57f7d4
 * **ASIN:** B01FON5V56
 * **Author:** Jordan Pizza
-* **Release Date:** May 27, 2016 @ 18:08:27
+* **Release Date:** May 27, 2016 @ 19:08:27
 * **In-App Purchasing:** No

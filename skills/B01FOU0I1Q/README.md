@@ -20,5 +20,5 @@ State Population is a simple skill that gives the population data for any US Sta
 * **ID:** amzn1.echo-sdk-ams.app.84f0658c-8e6d-49ef-b95d-c64c54b1fb55
 * **ASIN:** B01FOU0I1Q
 * **Author:** MileVision
-* **Release Date:** August 25, 2016 @ 03:31:48
+* **Release Date:** August 25, 2016 @ 04:31:48
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a fun trivia game that asks the user multiple-choice questions about Don
 * **ID:** amzn1.echo-sdk-ams.app.8d4b9a98-2fe0-496d-acac-1927efbebbb5
 * **ASIN:** B01EVUKLBM
 * **Author:** Guggiemedia.com
-* **Release Date:** April 28, 2016 @ 18:38:44
+* **Release Date:** April 28, 2016 @ 19:38:44
 * **In-App Purchasing:** No

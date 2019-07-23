@@ -20,5 +20,5 @@ BUILTR Labs is the voice of innovation for the built environment. The BUILTR Dai
 * **ID:** amzn1.echo-sdk-ams.app.691ff4bd-d791-438d-9583-de6c4f2c1532
 * **ASIN:** B01FFW0BBK
 * **Author:** JSJ
-* **Release Date:** May 23, 2016 @ 05:08:45
+* **Release Date:** May 23, 2016 @ 06:08:45
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A trivia game centered around Hamilton: An American Musical. Questions are based
 * **ID:** amzn1.ask.skill.84bbee3d-4b14-41cb-99ec-38d76d799bbe
 * **ASIN:** B01LWOBLPR
 * **Author:** Briana Eng
-* **Release Date:** October 14, 2016 @ 01:15:24
+* **Release Date:** October 14, 2016 @ 02:15:24
 * **In-App Purchasing:** No

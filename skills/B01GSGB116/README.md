@@ -26,5 +26,5 @@ There are three categories that can be queried:
 * **ID:** amzn1.echo-sdk-ams.app.150d504d-a9bd-40b7-8631-b1c931c812d6
 * **ASIN:** B01GSGB116
 * **Author:** Jon Saginaw
-* **Release Date:** June 22, 2016 @ 08:16:16
+* **Release Date:** June 22, 2016 @ 09:16:16
 * **In-App Purchasing:** No

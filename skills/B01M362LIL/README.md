@@ -20,5 +20,5 @@ Listen to The Investors Podcast - We Study Billionaires on your Echo or other Al
 * **ID:** amzn1.ask.skill.4ccfe4ca-0fb8-4bd5-94c1-bc37db8c19c1
 * **ASIN:** B01M362LIL
 * **Author:** XAPPmedia
-* **Release Date:** November 26, 2016 @ 04:05:23
+* **Release Date:** November 26, 2016 @ 05:05:23
 * **In-App Purchasing:** No

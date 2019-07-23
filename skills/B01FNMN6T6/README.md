@@ -20,5 +20,5 @@ Football fans have their own language when they talk about the game. To keep up,
 * **ID:** amzn1.echo-sdk-ams.app.08fc8e35-010c-4028-b782-a16d85951b78
 * **ASIN:** B01FNMN6T6
 * **Author:** Aradhana Duppala
-* **Release Date:** May 19, 2016 @ 09:38:35
+* **Release Date:** May 19, 2016 @ 10:38:35
 * **In-App Purchasing:** No

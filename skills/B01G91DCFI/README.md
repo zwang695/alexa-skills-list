@@ -32,5 +32,5 @@ To stop the game, just say "stop"
 * **ID:** amzn1.echo-sdk-ams.app.ef7b18fa-64af-4f0d-b00c-15259a21e062
 * **ASIN:** B01G91DCFI
 * **Author:** builditdan
-* **Release Date:** June 9, 2016 @ 03:09:33
+* **Release Date:** June 9, 2016 @ 04:09:33
 * **In-App Purchasing:** No

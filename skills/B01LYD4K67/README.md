@@ -20,5 +20,5 @@ Have you heard about Serverless computing? Ask Alexa for facts about Serverless 
 * **ID:** amzn1.ask.skill.a754a6ff-ff10-4ae9-9342-c266c364454a
 * **ASIN:** B01LYD4K67
 * **Author:** SGA Business Systems, Inc.
-* **Release Date:** October 18, 2016 @ 05:42:18
+* **Release Date:** October 18, 2016 @ 06:42:18
 * **In-App Purchasing:** No

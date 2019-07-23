@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.8bb4f09c-8b07-4abc-b87c-f0bda11c88e2
 * **ASIN:** B01LWS0IQA
 * **Author:** Potassium Frog Ltd
-* **Release Date:** October 14, 2016 @ 02:17:07
+* **Release Date:** October 14, 2016 @ 03:17:07
 * **In-App Purchasing:** No

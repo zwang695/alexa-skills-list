@@ -22,5 +22,5 @@ Jagex and RuneScape are registered trademarks of Jagex Limited, the official sit
 * **ID:** amzn1.echo-sdk-ams.app.51ba8302-739b-4095-9913-efea9fcdd176
 * **ASIN:** B01ILMH3N0
 * **Author:** Sea Woods
-* **Release Date:** July 20, 2016 @ 02:27:46
+* **Release Date:** July 20, 2016 @ 03:27:46
 * **In-App Purchasing:** No

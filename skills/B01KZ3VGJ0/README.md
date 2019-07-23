@@ -20,5 +20,5 @@ Trivia is fun. This provides an amazing fact about space.
 * **ID:** amzn1.ask.skill.47ea5bf1-f4b7-4930-b435-932481edc104
 * **ASIN:** B01KZ3VGJ0
 * **Author:** Matt Conti
-* **Release Date:** August 29, 2016 @ 01:33:17
+* **Release Date:** August 29, 2016 @ 02:33:17
 * **In-App Purchasing:** No

@@ -26,6 +26,6 @@ Rest assured - this skill does not store any personally identifiable information
 * **ID:** amzn1.ask.skill.a9cb89c3-4782-452d-a741-590a4879cbf1
 * **ASIN:** B01MT1RYPU
 * **Author:** Alex Rublinetsky
-* **Release Date:** December 25, 2016 @ 23:49:02
+* **Release Date:** December 26, 2016 @ 00:49:02
 * **Privacy Policy:** http://fitness-tracker.rublinetsky.com/legal.html
 * **In-App Purchasing:** No

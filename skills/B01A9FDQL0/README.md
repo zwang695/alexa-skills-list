@@ -38,5 +38,5 @@ Special thanks to Eventful (www.eventful.com) for the wonderful event informatio
 * **ID:** amzn1.echo-sdk-ams.app.c9f0a6d8-08bc-4d30-8f03-33999d6b9257
 * **ASIN:** B01A9FDQL0
 * **Author:** Webframeworks, LLC.
-* **Release Date:** January 6, 2016 @ 16:08:20
+* **Release Date:** January 6, 2016 @ 17:08:20
 * **In-App Purchasing:** No

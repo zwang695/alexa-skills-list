@@ -20,5 +20,5 @@ This skill will return random facts on whiskey types and facts on origin. Discla
 * **ID:** amzn1.ask.skill.146af775-7671-43d7-911c-f5fa24ce7c37
 * **ASIN:** B01M7X1833
 * **Author:** Edmary Rosado
-* **Release Date:** November 3, 2016 @ 01:42:43
+* **Release Date:** November 3, 2016 @ 02:42:43
 * **In-App Purchasing:** No

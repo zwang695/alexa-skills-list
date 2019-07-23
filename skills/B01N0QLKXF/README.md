@@ -20,5 +20,5 @@ Trivia game asking questions about the TV show Land of the Lost.  The game is pl
 * **ID:** amzn1.ask.skill.8c3fdcec-ceff-4b8e-8df9-c7c14549c943
 * **ASIN:** B01N0QLKXF
 * **Author:** Craig Fullen
-* **Release Date:** December 15, 2016 @ 07:19:25
+* **Release Date:** December 15, 2016 @ 08:19:25
 * **In-App Purchasing:** No

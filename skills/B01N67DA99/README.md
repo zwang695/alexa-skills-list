@@ -20,5 +20,5 @@ This version of skill is to read latest tweet from Prime Minister of India - Nar
 * **ID:** amzn1.ask.skill.c6ce1dfb-ce17-4996-99f5-a81cb28fb7cc
 * **ASIN:** B01N67DA99
 * **Author:** AB
-* **Release Date:** November 25, 2016 @ 05:05:27
+* **Release Date:** November 25, 2016 @ 06:05:27
 * **In-App Purchasing:** No

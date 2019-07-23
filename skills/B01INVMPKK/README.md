@@ -20,5 +20,5 @@ Some interesting facts about the game of Rugby.
 * **ID:** amzn1.echo-sdk-ams.app.0af794bc-12f4-45fe-a015-a3d032f5e0b7
 * **ASIN:** B01INVMPKK
 * **Author:** Max Langdon
-* **Release Date:** July 19, 2016 @ 03:27:37
+* **Release Date:** July 19, 2016 @ 04:27:37
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A set of weird but fun facts about Canada!
 * **ID:** amzn1.ask.skill.caddc695-65e3-4268-9499-c80577005295
 * **ASIN:** B01N7CS97B
 * **Author:** Sameer Chitley
-* **Release Date:** December 2, 2016 @ 05:35:16
+* **Release Date:** December 2, 2016 @ 06:35:16
 * **In-App Purchasing:** No

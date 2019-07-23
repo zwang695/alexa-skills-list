@@ -20,5 +20,5 @@ Over 70 selected quotes from the Art of War, for inspiration and guidance from m
 * **ID:** amzn1.ask.skill.54532127-adc3-4675-b25a-192f4bb84a65
 * **ASIN:** B01JBTLKB8
 * **Author:** Don J. Kahn
-* **Release Date:** August 1, 2016 @ 08:56:36
+* **Release Date:** August 1, 2016 @ 09:56:36
 * **In-App Purchasing:** No

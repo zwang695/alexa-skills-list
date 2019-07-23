@@ -24,5 +24,5 @@ Facts are provided in random order in this first version. New facts will be adde
 * **ID:** amzn1.echo-sdk-ams.app.7e5be701-c0de-4c5d-ace9-a00b137d74d4
 * **ASIN:** B01ENXQVDE
 * **Author:** Bobby
-* **Release Date:** April 28, 2016 @ 17:38:30
+* **Release Date:** April 28, 2016 @ 18:38:30
 * **In-App Purchasing:** No

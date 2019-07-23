@@ -20,5 +20,5 @@ Test your knowledge of that little state between New York and Boston - CT! You m
 * **ID:** amzn1.ask.skill.af166555-e738-4b99-b805-9771fceac491
 * **ASIN:** B01LZ3QLHY
 * **Author:** Blizzysip Apps
-* **Release Date:** September 14, 2016 @ 21:43:42
+* **Release Date:** September 14, 2016 @ 22:43:42
 * **In-App Purchasing:** No

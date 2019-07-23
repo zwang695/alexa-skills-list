@@ -20,5 +20,5 @@ Have a chemistry quiz coming up? Do electrons make you negative? Well, look no f
 * **ID:** amzn1.echo-sdk-ams.app.b6854535-3fb8-49d3-98e1-d0dc67a7a6ab
 * **ASIN:** B01G4IURGI
 * **Author:** ver2point0
-* **Release Date:** May 25, 2016 @ 10:08:49
+* **Release Date:** May 25, 2016 @ 11:08:49
 * **In-App Purchasing:** No

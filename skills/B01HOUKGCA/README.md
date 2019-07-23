@@ -22,5 +22,5 @@ Say repeat and Rhyme Master will repeat it.
 * **ID:** amzn1.echo-sdk-ams.app.63b5aa4e-52e3-42bc-b321-95bb83bc6b40
 * **ASIN:** B01HOUKGCA
 * **Author:** masterchan
-* **Release Date:** June 29, 2016 @ 07:57:47
+* **Release Date:** June 29, 2016 @ 08:57:47
 * **In-App Purchasing:** No

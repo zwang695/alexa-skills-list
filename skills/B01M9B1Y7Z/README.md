@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.5580a6b9-080c-40a9-a26d-05eb6587ce4d
 * **ASIN:** B01M9B1Y7Z
 * **Author:** Cerebral Digital
-* **Release Date:** November 2, 2016 @ 03:13:46
+* **Release Date:** November 2, 2016 @ 04:13:46
 * **In-App Purchasing:** No

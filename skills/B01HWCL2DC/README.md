@@ -20,5 +20,5 @@ The Ramayana , is the first of two Sanskrit stories traditionally ascribed to th
 * **ID:** amzn1.echo-sdk-ams.app.810f7174-6542-4911-90ad-4b6e76e3d72f
 * **ASIN:** B01HWCL2DC
 * **Author:** Selvakumar
-* **Release Date:** July 4, 2016 @ 06:27:38
+* **Release Date:** July 4, 2016 @ 07:27:38
 * **In-App Purchasing:** No

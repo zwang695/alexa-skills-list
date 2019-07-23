@@ -22,5 +22,5 @@ Fake facts has correct sounding facts that are made up. Trick your friends into 
 * **ID:** amzn1.ask.skill.cfcf1d57-191c-43a6-a119-5081d895d2da
 * **ASIN:** B01LZLDK19
 * **Author:** Bryce Bortree
-* **Release Date:** October 6, 2016 @ 06:11:46
+* **Release Date:** October 6, 2016 @ 07:11:46
 * **In-App Purchasing:** No

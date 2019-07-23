@@ -20,7 +20,7 @@ Daily Laugh app shares or cracks a joke for every invocation. Start your day or 
 * **ID:** amzn1.ask.skill.d7a3dd2c-3fb6-4f63-a228-66b4f21e21d3
 * **ASIN:** B01LZKHYQV
 * **Author:** Independent Software Developer
-* **Release Date:** October 3, 2016 @ 02:42:31
+* **Release Date:** October 3, 2016 @ 03:42:31
 * **Privacy Policy:** https://github.com/ruchi-jain/daily-quotes-alexa/blob/master/Privacy%20Policy.md
 * **Terms of Use:** https://github.com/ruchi-jain/daily-quotes-alexa/blob/master/Terms%20of%20Use.md
 * **In-App Purchasing:** No

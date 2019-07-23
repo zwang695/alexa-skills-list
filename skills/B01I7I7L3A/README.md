@@ -21,5 +21,5 @@ Ask Alexa rabbit facts by saying:
 * **ID:** amzn1.echo-sdk-ams.app.d84bc82e-aecf-423d-ba35-9524be79ee50
 * **ASIN:** B01I7I7L3A
 * **Author:** UTC
-* **Release Date:** July 27, 2016 @ 04:26:35
+* **Release Date:** July 27, 2016 @ 05:26:35
 * **In-App Purchasing:** No

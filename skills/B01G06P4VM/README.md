@@ -22,5 +22,5 @@ Visit http://www.prontocycleshare.com for more information.
 * **ID:** amzn1.echo-sdk-ams.app.85889bc3-97ba-4200-8bc4-3706c6272974
 * **ASIN:** B01G06P4VM
 * **Author:** Asimov
-* **Release Date:** June 2, 2016 @ 06:38:31
+* **Release Date:** June 2, 2016 @ 07:38:31
 * **In-App Purchasing:** No

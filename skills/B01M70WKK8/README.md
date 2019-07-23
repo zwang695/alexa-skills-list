@@ -20,5 +20,5 @@ The King Pine Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.0b1a660f-7c89-4ed0-95b3-a447507f1fdd
 * **ASIN:** B01M70WKK8
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:47:47
+* **Release Date:** October 26, 2016 @ 02:47:47
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Network Subnet Trivia will help you learn how many available hosts are in a Clas
 * **ID:** amzn1.ask.skill.9bab7cf4-920d-4a9d-948a-d0cd994e095a
 * **ASIN:** B01KWI5OCS
 * **Author:** JustinHaef
-* **Release Date:** August 25, 2016 @ 03:01:47
+* **Release Date:** August 25, 2016 @ 04:01:47
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Black Friday calendar can tell you door buster hours and sale hours for major re
 * **ID:** amzn1.ask.skill.86cb545c-3ac6-4dde-8b83-761ec6630d99
 * **ASIN:** B01N66C9E0
 * **Author:** Kiran Bellala
-* **Release Date:** November 25, 2016 @ 04:05:18
+* **Release Date:** November 25, 2016 @ 05:05:18
 * **In-App Purchasing:** No

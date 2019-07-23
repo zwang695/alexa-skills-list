@@ -20,5 +20,5 @@ Did you know that Odense Boldklub was founded in 1887? That the club is a three 
 * **ID:** amzn1.ask.skill.a8ab5aef-3adc-4c77-bbc4-23444e189184
 * **ASIN:** B01N65HKCZ
 * **Author:** bengaard.com
-* **Release Date:** November 25, 2016 @ 03:37:10
+* **Release Date:** November 25, 2016 @ 04:37:10
 * **In-App Purchasing:** No

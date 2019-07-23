@@ -22,5 +22,5 @@ Cheers Me was designed and developed by Phase2.
 * **ID:** amzn1.ask.skill.380dc365-753a-4353-b7db-1bdc306c1a8d
 * **ASIN:** B01N6BBDLI
 * **Author:** Phase2
-* **Release Date:** December 6, 2016 @ 06:19:21
+* **Release Date:** December 6, 2016 @ 07:19:21
 * **In-App Purchasing:** No

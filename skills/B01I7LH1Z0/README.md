@@ -20,5 +20,5 @@ State capitals helps you learn the 50 state capitals.  This skills is great for 
 * **ID:** amzn1.echo-sdk-ams.app.8602d8de-dc2a-4075-8c44-72132fe3e453
 * **ASIN:** B01I7LH1Z0
 * **Author:** AndrewHickey
-* **Release Date:** July 13, 2016 @ 07:57:42
+* **Release Date:** July 13, 2016 @ 08:57:42
 * **In-App Purchasing:** No

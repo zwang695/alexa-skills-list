@@ -20,5 +20,5 @@ Alexa can now tell you quotes from the first President of the United States of A
 * **ID:** amzn1.ask.skill.0c088f60-3c6e-4e44-8692-eb131f9f8856
 * **ASIN:** B01LZZJ2I0
 * **Author:** Elvis Wolcott
-* **Release Date:** November 9, 2016 @ 22:13:12
+* **Release Date:** November 9, 2016 @ 23:13:12
 * **In-App Purchasing:** No

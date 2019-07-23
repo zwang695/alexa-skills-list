@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.8a086705-90d9-477b-9245-df820fd992a3
 * **ASIN:** B01NA8LA2E
 * **Author:** K42
-* **Release Date:** November 25, 2016 @ 04:05:35
+* **Release Date:** November 25, 2016 @ 05:05:35
 * **In-App Purchasing:** No

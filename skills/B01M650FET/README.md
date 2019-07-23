@@ -22,5 +22,5 @@ This skill supports resistors having from 3 to 5 bands.  If you read the bands i
 * **ID:** amzn1.ask.skill.778b2a01-912b-41cf-ba81-c7715e4f9996
 * **ASIN:** B01M650FET
 * **Author:** Andrew Bergstrom
-* **Release Date:** November 9, 2016 @ 00:46:31
+* **Release Date:** November 9, 2016 @ 01:46:31
 * **In-App Purchasing:** No

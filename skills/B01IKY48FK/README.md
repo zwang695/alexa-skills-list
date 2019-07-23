@@ -22,5 +22,5 @@ Simply ask book of proverbs for a verse!
 * **ID:** amzn1.echo-sdk-ams.app.55dd3eac-22cc-4e84-9e90-bf12e42d6006
 * **ASIN:** B01IKY48FK
 * **Author:** ElectronHacks
-* **Release Date:** July 21, 2016 @ 05:57:29
+* **Release Date:** July 21, 2016 @ 06:57:29
 * **In-App Purchasing:** No

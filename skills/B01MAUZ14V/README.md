@@ -20,5 +20,5 @@ Learn interesting facts about Picasso that will blow your mind
 * **ID:** amzn1.ask.skill.858d5408-0240-413d-9a48-fc3b6f9bc938
 * **ASIN:** B01MAUZ14V
 * **Author:** pdkn
-* **Release Date:** October 13, 2016 @ 01:47:08
+* **Release Date:** October 13, 2016 @ 02:47:08
 * **In-App Purchasing:** No

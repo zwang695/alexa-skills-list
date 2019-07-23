@@ -20,5 +20,5 @@ Cat facts provides fun, trivia facts about adorable and fluffy animal: Cat
 * **ID:** amzn1.ask.skill.365c1bde-e29d-48b2-a784-50e45adb3ec5
 * **ASIN:** B01KQRV7IA
 * **Author:** Jennifer Nguyen
-* **Release Date:** August 23, 2016 @ 05:18:50
+* **Release Date:** August 23, 2016 @ 06:18:50
 * **In-App Purchasing:** No

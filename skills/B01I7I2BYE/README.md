@@ -20,5 +20,5 @@ Gives users history or facts about volleyball.
 * **ID:** amzn1.echo-sdk-ams.app.942e32b9-c5a3-4d64-b61d-6445ed959592
 * **ASIN:** B01I7I2BYE
 * **Author:** Shao Chen
-* **Release Date:** July 26, 2016 @ 03:56:35
+* **Release Date:** July 26, 2016 @ 04:56:35
 * **In-App Purchasing:** No

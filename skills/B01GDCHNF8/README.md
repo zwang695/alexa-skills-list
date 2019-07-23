@@ -20,5 +20,5 @@ Asks you some multiple choice questions about the Ruby language and Rails web fr
 * **ID:** amzn1.echo-sdk-ams.app.ca99492a-233c-4f19-b988-37fedefef161
 * **ASIN:** B01GDCHNF8
 * **Author:** Calvin Settachatgul
-* **Release Date:** June 27, 2016 @ 09:45:39
+* **Release Date:** June 27, 2016 @ 10:45:39
 * **In-App Purchasing:** No

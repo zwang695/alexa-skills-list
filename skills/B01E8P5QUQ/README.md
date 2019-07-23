@@ -20,5 +20,5 @@ Costa Rica news will get you the latest news from Costa Rica in english, all the
 * **ID:** amzn1.echo-sdk-ams.app.2b198ff5-0024-40b7-9d43-3cd494a11a2e
 * **ASIN:** B01E8P5QUQ
 * **Author:** andresmeza.com
-* **Release Date:** April 22, 2016 @ 11:08:28
+* **Release Date:** April 22, 2016 @ 12:08:28
 * **In-App Purchasing:** No

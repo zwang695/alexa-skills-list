@@ -20,5 +20,5 @@ It will give you a fact about cheese. The facts are general cheese facts and not
 * **ID:** amzn1.ask.skill.b2e0f9ce-202f-4a2d-8a72-b45e5ce114fb
 * **ASIN:** B01LXUX81O
 * **Author:** Vivi Huang
-* **Release Date:** September 20, 2016 @ 02:42:48
+* **Release Date:** September 20, 2016 @ 03:42:48
 * **In-App Purchasing:** No

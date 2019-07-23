@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.872359cd-0dcf-4742-ac84-1f9be849e79a
 * **ASIN:** B01MZ1YD0T
 * **Author:** Ben Pearson
-* **Release Date:** January 3, 2017 @ 08:24:08
+* **Release Date:** January 3, 2017 @ 09:24:08
 * **In-App Purchasing:** No

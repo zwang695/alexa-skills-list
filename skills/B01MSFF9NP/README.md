@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.ed7ae381-69cd-493b-aaff-c9cc0dccbba1
 * **ASIN:** B01MSFF9NP
 * **Author:** Chloe McMullan
-* **Release Date:** November 16, 2016 @ 03:05:15
+* **Release Date:** November 16, 2016 @ 04:05:15
 * **In-App Purchasing:** No

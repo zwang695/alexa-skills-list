@@ -20,5 +20,5 @@ Interested in the latest music charts? Rely on Music Charts to get to know the m
 * **ID:** amzn1.ask.skill.58a2f6ef-8ade-431e-8b50-7af0fe9a42da
 * **ASIN:** B01NCO2TER
 * **Author:** Option-U
-* **Release Date:** December 25, 2016 @ 23:19:11
+* **Release Date:** December 26, 2016 @ 00:19:11
 * **In-App Purchasing:** No

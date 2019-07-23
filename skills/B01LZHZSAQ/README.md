@@ -20,5 +20,5 @@ Facts about cooking steak provides cooking steak facts as well as other random f
 * **ID:** amzn1.ask.skill.af83f359-ddbb-499e-a425-760a13cbe075
 * **ASIN:** B01LZHZSAQ
 * **Author:** Marty McLaughlin
-* **Release Date:** September 28, 2016 @ 17:12:23
+* **Release Date:** September 28, 2016 @ 18:12:23
 * **In-App Purchasing:** No

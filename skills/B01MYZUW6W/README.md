@@ -20,5 +20,5 @@ Have Alexa inform you about the latest and upcoming events at the University of 
 * **ID:** amzn1.ask.skill.c779f5ae-3aee-4d5f-9bac-033a7c68bc26
 * **ASIN:** B01MYZUW6W
 * **Author:** Benasoft
-* **Release Date:** December 26, 2016 @ 01:19:14
+* **Release Date:** December 26, 2016 @ 02:19:14
 * **In-App Purchasing:** No

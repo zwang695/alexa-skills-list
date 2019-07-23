@@ -20,5 +20,5 @@ Fun Cat Facts provides entertaining and interesting facts about cats.  For examp
 * **ID:** amzn1.ask.skill.12edb185-b0af-494a-a0f6-b2add0864509
 * **ASIN:** B01LZJUZY0
 * **Author:** thehuey
-* **Release Date:** September 22, 2016 @ 03:41:53
+* **Release Date:** September 22, 2016 @ 04:41:53
 * **In-App Purchasing:** No

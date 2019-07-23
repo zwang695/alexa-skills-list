@@ -22,5 +22,5 @@ Daily quotes is easy to use, just enable this skill and ask quotes to for your d
 * **ID:** amzn1.ask.skill.d9da2ad2-fd1e-408f-a85a-9c4998a806c3
 * **ASIN:** B01L9SQ4H4
 * **Author:** fig systems
-* **Release Date:** October 6, 2016 @ 04:41:46
+* **Release Date:** October 6, 2016 @ 05:41:46
 * **In-App Purchasing:** No

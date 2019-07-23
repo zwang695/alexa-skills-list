@@ -20,5 +20,5 @@ It is a simple fact skill that gives you a positive quote each time you ask.  Th
 * **ID:** amzn1.ask.skill.c6cd54c0-224c-4cee-b2c5-9e36c50e7a87
 * **ASIN:** B01M8F68YT
 * **Author:** Stacy Stonich
-* **Release Date:** October 21, 2016 @ 15:44:05
+* **Release Date:** October 21, 2016 @ 16:44:05
 * **In-App Purchasing:** No

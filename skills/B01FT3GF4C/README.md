@@ -20,5 +20,5 @@ Can't find the channel you are looking for in the Dish Network guide?  Have Alex
 * **ID:** amzn1.echo-sdk-ams.app.c0d8baf8-9003-46ba-a370-79d3b8875379
 * **ASIN:** B01FT3GF4C
 * **Author:** Matt Carter
-* **Release Date:** May 26, 2016 @ 05:38:30
+* **Release Date:** May 26, 2016 @ 06:38:30
 * **In-App Purchasing:** No

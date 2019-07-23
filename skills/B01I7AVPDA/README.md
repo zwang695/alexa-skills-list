@@ -20,5 +20,5 @@ Fun Animal Facts shares a wealth of information in bite sized facts. Learn new t
 * **ID:** amzn1.echo-sdk-ams.app.b439b7f4-ff55-4c89-a7ed-dc4d61401dd4
 * **ASIN:** B01I7AVPDA
 * **Author:** DeepTheory
-* **Release Date:** July 11, 2016 @ 08:57:36
+* **Release Date:** July 11, 2016 @ 09:57:36
 * **In-App Purchasing:** No

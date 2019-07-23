@@ -20,5 +20,5 @@ The Mt Buller Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.a75ae366-c52d-4b52-939d-bb25e26b0a66
 * **ASIN:** B01LYN1WKA
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:13:52
+* **Release Date:** October 19, 2016 @ 12:13:52
 * **In-App Purchasing:** No

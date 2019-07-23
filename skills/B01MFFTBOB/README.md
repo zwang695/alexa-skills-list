@@ -20,5 +20,5 @@ speaks motivational quotes
 * **ID:** amzn1.ask.skill.0faf1e9f-60af-4629-ac30-bedf02d3ae29
 * **ASIN:** B01MFFTBOB
 * **Author:** Mahendra Bairagi
-* **Release Date:** November 4, 2016 @ 02:13:24
+* **Release Date:** November 4, 2016 @ 03:13:24
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.c2d9cd00-c384-4e08-97a9-62b903484c9b
 * **ASIN:** B01NGTSCGH
 * **Author:** Stephan Giesen
-* **Release Date:** December 13, 2016 @ 00:19:26
+* **Release Date:** December 13, 2016 @ 01:19:26
 * **In-App Purchasing:** No

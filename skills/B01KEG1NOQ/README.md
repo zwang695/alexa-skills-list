@@ -20,5 +20,5 @@ This will provide a movie quotes from popular 2000s movies.
 * **ID:** amzn1.ask.skill.f89f0ac1-d51f-40b4-b128-4cf7db471f4b
 * **ASIN:** B01KEG1NOQ
 * **Author:** Alex Beggs
-* **Release Date:** August 17, 2016 @ 06:22:27
+* **Release Date:** August 17, 2016 @ 07:22:27
 * **In-App Purchasing:** No

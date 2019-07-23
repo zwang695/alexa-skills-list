@@ -32,5 +32,5 @@ More workouts on www.wikiwod.com
 * **ID:** amzn1.ask.skill.2596947d-165b-4922-be2b-dcb23d6766a3
 * **ASIN:** B01LKZ0FI0
 * **Author:** Aliaksei Zhurankou
-* **Release Date:** September 6, 2016 @ 02:33:49
+* **Release Date:** September 6, 2016 @ 03:33:49
 * **In-App Purchasing:** No

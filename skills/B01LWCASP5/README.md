@@ -20,5 +20,5 @@ It will start a quick quiz to tell you what is the best age for you to get marri
 * **ID:** amzn1.ask.skill.32d38159-cfdb-45fe-bcab-3adf408d41a3
 * **ASIN:** B01LWCASP5
 * **Author:** Vivi Huang
-* **Release Date:** September 16, 2016 @ 03:41:53
+* **Release Date:** September 16, 2016 @ 04:41:53
 * **In-App Purchasing:** No

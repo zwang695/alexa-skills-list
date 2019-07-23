@@ -22,5 +22,5 @@ Disclaimer: This application and it's developers are in no way associated with o
 * **ID:** amzn1.ask.skill.e976dca0-691a-4e90-bc32-9230951c1689
 * **ASIN:** B01N3WNFCM
 * **Author:** Craig Johnson
-* **Release Date:** November 11, 2016 @ 01:14:47
+* **Release Date:** November 11, 2016 @ 02:14:47
 * **In-App Purchasing:** No

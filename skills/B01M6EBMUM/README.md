@@ -16,5 +16,5 @@ This skill gives the current Mars weather including low and high temperature. Th
 * **ID:** amzn1.ask.skill.132168ef-6eb8-4d39-b422-b84bd437fbfe
 * **ASIN:** B01M6EBMUM
 * **Author:** Muhyun
-* **Release Date:** November 10, 2016 @ 00:12:42
+* **Release Date:** November 10, 2016 @ 01:12:42
 * **In-App Purchasing:** No

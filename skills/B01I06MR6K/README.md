@@ -24,7 +24,7 @@ DISCLAIMER:  Some of the questions may contain content not suitable for children
 * **ID:** amzn1.echo-sdk-ams.app.35efe55d-27e1-48be-8fa8-102fd918defa
 * **ASIN:** B01I06MR6K
 * **Author:** Jeff Blankenburg
-* **Release Date:** July 11, 2016 @ 06:27:38
+* **Release Date:** July 11, 2016 @ 07:27:38
 * **Privacy Policy:** https://jeffblankenburgdotcom.wordpress.com/privacy-policy/
 * **Terms of Use:** https://jeffblankenburgdotcom.wordpress.com/terms-of-use/
 * **In-App Purchasing:** No

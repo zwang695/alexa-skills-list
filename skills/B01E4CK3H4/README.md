@@ -48,7 +48,7 @@ CEIVA Homeview in home displays are currently available through select utilities
 * **ID:** amzn1.echo-sdk-ams.app.f893114c-1397-432f-a0d6-00723b3f3832
 * **ASIN:** B01E4CK3H4
 * **Author:** CEIVA Logic Inc
-* **Release Date:** July 6, 2016 @ 19:27:34
+* **Release Date:** July 6, 2016 @ 20:27:34
 * **Privacy Policy:** http://www.ceiva.com/home/hp/privacy.jsp
 * **Terms of Use:** http://www.ceiva.com/home/hp/terms_conditions.jsp
 * **Account Linking Domains:** www.ceiva.com, api.ceiva.com, energy.ceiva.com

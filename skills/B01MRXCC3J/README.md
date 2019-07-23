@@ -36,7 +36,7 @@ Was geht:
 * **ID:** amzn1.ask.skill.49445c43-0863-40de-8ea2-89b99a0618bb
 * **ASIN:** B01MRXCC3J
 * **Author:** ioBroker
-* **Release Date:** December 27, 2016 @ 13:49:16
+* **Release Date:** December 27, 2016 @ 14:49:16
 * **Privacy Policy:** https://iobroker.net/policy
 * **Account Linking Domains:** iobroker.net
 * **In-App Purchasing:** No

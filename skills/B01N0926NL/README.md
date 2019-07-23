@@ -20,5 +20,5 @@ The Mont Olympia Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.b8873c05-2e0e-4413-9817-ccfd0e6e30f3
 * **ASIN:** B01N0926NL
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:43:23
+* **Release Date:** November 5, 2016 @ 12:43:23
 * **In-App Purchasing:** No

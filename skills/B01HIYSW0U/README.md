@@ -20,5 +20,5 @@ A fun and interactive way to learn about florida facts. This skill returns inter
 * **ID:** amzn1.echo-sdk-ams.app.7042b05d-6c20-4d5a-a8ab-db5ec34c7d23
 * **ASIN:** B01HIYSW0U
 * **Author:** KishorAlampali
-* **Release Date:** June 28, 2016 @ 05:15:35
+* **Release Date:** June 28, 2016 @ 06:15:35
 * **In-App Purchasing:** No

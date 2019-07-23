@@ -18,7 +18,7 @@ NOTE: By agreeing to the terms indicates that you have listened to them and have
 * **ID:** amzn1.ask.skill.6b157d3e-9b9c-42d4-a9a6-4b997b1f6a99
 * **ASIN:** B01KJDZO1W
 * **Author:** Kroompli
-* **Release Date:** August 24, 2016 @ 01:31:35
+* **Release Date:** August 24, 2016 @ 02:31:35
 * **Privacy Policy:** http://www.kroompli.com/privacy-policy.html
 * **Terms of Use:** http://www.kroompli.com/terms-of-use.html
 * **In-App Purchasing:** No

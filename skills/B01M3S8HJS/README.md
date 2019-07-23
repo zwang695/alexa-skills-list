@@ -20,5 +20,5 @@ The Boyne Highlands Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.5b0ca723-d165-4680-9917-28cbb768d257
 * **ASIN:** B01M3S8HJS
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:13:16
+* **Release Date:** October 21, 2016 @ 16:13:16
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ This skill will give Alexa the ability to calculate the Love compatibility and c
 * **ID:** amzn1.echo-sdk-ams.app.132f2757-5ee8-4db1-adfd-14374c00668e
 * **ASIN:** B01ILN84L4
 * **Author:** Morgan Moon
-* **Release Date:** July 20, 2016 @ 04:27:43
+* **Release Date:** July 20, 2016 @ 05:27:43
 * **Privacy Policy:** http://www.moon-entertainment.com/LoveCalculatorPrivatePolicy.html
 * **Terms of Use:** http://www.moon-entertainment.com/LoveCalculatorPrivatePolicy.html
 * **In-App Purchasing:** No

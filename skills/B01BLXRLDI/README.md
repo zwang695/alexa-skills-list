@@ -22,5 +22,5 @@ Please note, this skill contains crude humor.  As such, the skill may not be sui
 * **ID:** amzn1.echo-sdk-ams.app.0ed51810-d3ed-4b51-aa77-4f7c6573703b
 * **ASIN:** B01BLXRLDI
 * **Author:** Mark-It, Inc.
-* **Release Date:** February 9, 2016 @ 18:24:27
+* **Release Date:** February 9, 2016 @ 19:24:27
 * **In-App Purchasing:** No

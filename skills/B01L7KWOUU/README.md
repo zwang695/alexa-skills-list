@@ -25,5 +25,5 @@ Ferry, Crystal, and Missy.
 * **ID:** amzn1.ask.skill.4e57d6a7-7add-4d25-a1ec-9f0ea7117247
 * **ASIN:** B01L7KWOUU
 * **Author:** Connecting People Software Co.
-* **Release Date:** August 30, 2016 @ 03:32:33
+* **Release Date:** August 30, 2016 @ 04:32:33
 * **In-App Purchasing:** No

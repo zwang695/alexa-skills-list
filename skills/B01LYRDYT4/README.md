@@ -18,5 +18,5 @@ More quotes will be added.
 * **ID:** amzn1.ask.skill.e5290313-4b1e-4441-bf08-36f80f2ec5b6
 * **ASIN:** B01LYRDYT4
 * **Author:** Jarrod LaRocco
-* **Release Date:** October 12, 2016 @ 02:12:36
+* **Release Date:** October 12, 2016 @ 03:12:36
 * **In-App Purchasing:** No

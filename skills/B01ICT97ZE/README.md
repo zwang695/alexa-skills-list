@@ -22,7 +22,7 @@ Also, you can ask Alexa to turn on the Ingrein Clock's alarm system before you l
 * **ID:** amzn1.echo-sdk-ams.app.7ba454bf-fc54-4140-ad10-3e429605ab95
 * **ASIN:** B01ICT97ZE
 * **Author:** Ingrein
-* **Release Date:** July 27, 2016 @ 00:56:33
+* **Release Date:** July 27, 2016 @ 01:56:33
 * **Privacy Policy:** https://www.particle.io/privacy
 * **Terms of Use:** https://www.particle.io/tos
 * **In-App Purchasing:** No

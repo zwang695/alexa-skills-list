@@ -20,5 +20,5 @@ Alexa asks Irish Trivia questions derived from Irish history, geography, literat
 * **ID:** amzn1.echo-sdk-ams.app.cd5fd882-54bd-4779-9b80-24dca366eca0
 * **ASIN:** B01K0DM8R4
 * **Author:** Daniel McGlinchey
-* **Release Date:** August 11, 2016 @ 01:07:37
+* **Release Date:** August 11, 2016 @ 02:07:37
 * **In-App Purchasing:** No

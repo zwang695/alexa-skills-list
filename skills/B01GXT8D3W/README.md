@@ -22,5 +22,5 @@ So why wait? Be a man! Do the right thing. Learn the bacon.
 * **ID:** amzn1.echo-sdk-ams.app.eabe74bd-9add-407a-8689-57151c731bae
 * **ASIN:** B01GXT8D3W
 * **Author:** BaconDonutMan
-* **Release Date:** June 17, 2016 @ 02:45:35
+* **Release Date:** June 17, 2016 @ 03:45:35
 * **In-App Purchasing:** No

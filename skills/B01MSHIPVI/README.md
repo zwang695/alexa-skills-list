@@ -20,5 +20,5 @@ The Christmas Mountain Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.8018cbb3-9536-4b9e-b131-dae69c4c39c5
 * **ASIN:** B01MSHIPVI
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:43:09
+* **Release Date:** November 5, 2016 @ 11:43:09
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Val D'Irene Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.06beb365-f4ba-49f5-ac61-47518c785dca
 * **ASIN:** B01N093HCX
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:44:16
+* **Release Date:** November 5, 2016 @ 12:44:16
 * **In-App Purchasing:** No

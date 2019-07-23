@@ -20,5 +20,5 @@ This skill will confirm what you already know, that you have the best dog in the
 * **ID:** amzn1.echo-sdk-ams.app.89b75976-0040-4def-996a-574fd68653fc
 * **ASIN:** B01L9C47MO
 * **Author:** Argusware
-* **Release Date:** September 10, 2016 @ 08:42:17
+* **Release Date:** September 10, 2016 @ 09:42:17
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.365ab805-93f5-4fb5-b243-7fd4ac90040a
 * **ASIN:** B01MYYAWUF
 * **Author:** Tino Nitze
-* **Release Date:** December 13, 2016 @ 01:49:28
+* **Release Date:** December 13, 2016 @ 02:49:28
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill is able to tell you the currently most popular songs and artists on L
 * **ID:** amzn1.ask.skill.0f1ba602-bc5e-4596-afe8-3cbce667b8ed
 * **ASIN:** B01M0BYEVO
 * **Author:** mKeRix
-* **Release Date:** October 21, 2016 @ 03:12:05
+* **Release Date:** October 21, 2016 @ 04:12:05
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Three Man is a drinking game intended to be played with multiple players.  Alexa
 * **ID:** amzn1.ask.skill.5d5ab49c-6ae6-4b72-91bb-fb615039826c
 * **ASIN:** B01LZJ4UTW
 * **Author:** Beau Rushton
-* **Release Date:** October 3, 2016 @ 01:12:35
+* **Release Date:** October 3, 2016 @ 02:12:35
 * **In-App Purchasing:** No

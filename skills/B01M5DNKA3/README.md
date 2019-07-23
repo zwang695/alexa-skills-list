@@ -20,5 +20,5 @@ The Lost Trail Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.a4cfd410-c0b8-4a04-b4c4-9f3d91b075ae
 * **ASIN:** B01M5DNKA3
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:46:18
+* **Release Date:** October 21, 2016 @ 15:46:18
 * **In-App Purchasing:** No

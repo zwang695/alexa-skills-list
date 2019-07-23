@@ -22,5 +22,5 @@ Icon made by Freepik from www.flaticon.com
 * **ID:** amzn1.ask.skill.c2092d72-4780-485d-bbab-aab91bfde939
 * **ASIN:** B01N4B074S
 * **Author:** Justin Boltz
-* **Release Date:** December 9, 2016 @ 00:49:11
+* **Release Date:** December 9, 2016 @ 01:49:11
 * **In-App Purchasing:** No

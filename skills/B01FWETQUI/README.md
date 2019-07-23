@@ -87,5 +87,5 @@ Alexa, ask BrickBot for support
 * **ID:** amzn1.echo-sdk-ams.app.5e5adab2-96d6-46ac-92d1-0b088c424951
 * **ASIN:** B01FWETQUI
 * **Author:** Extentia Information Technology
-* **Release Date:** May 30, 2016 @ 09:38:37
+* **Release Date:** May 30, 2016 @ 10:38:37
 * **In-App Purchasing:** No

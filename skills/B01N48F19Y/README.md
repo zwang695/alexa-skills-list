@@ -20,5 +20,5 @@ This is a skill which lets you ask for facts. You will get randomly a selected f
 * **ID:** amzn1.ask.skill.ce0721f0-d1a5-4ba7-9045-6c51301b9cd8
 * **ASIN:** B01N48F19Y
 * **Author:** Tauro Logic
-* **Release Date:** December 1, 2016 @ 05:35:15
+* **Release Date:** December 1, 2016 @ 06:35:15
 * **In-App Purchasing:** No

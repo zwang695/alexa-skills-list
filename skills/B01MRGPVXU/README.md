@@ -57,6 +57,6 @@ Enjoy!
 * **ID:** amzn1.ask.skill.1a23c826-cba5-4382-9621-7039ad45956a
 * **ASIN:** B01MRGPVXU
 * **Author:** WhitneyBond.com
-* **Release Date:** November 20, 2016 @ 23:06:10
+* **Release Date:** November 21, 2016 @ 00:06:10
 * **Privacy Policy:** http://whitneybond.com/privacy-policy/
 * **In-App Purchasing:** No

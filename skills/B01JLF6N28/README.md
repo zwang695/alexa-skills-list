@@ -21,5 +21,5 @@ The skill starts with asking you the chemical name of a random compound, earning
 * **ID:** amzn1.ask.skill.910beaec-6f73-469a-8510-fbfb3ab6cd4d
 * **ASIN:** B01JLF6N28
 * **Author:** FindGoose
-* **Release Date:** August 8, 2016 @ 01:37:31
+* **Release Date:** August 8, 2016 @ 02:37:31
 * **In-App Purchasing:** No

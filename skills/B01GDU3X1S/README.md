@@ -20,5 +20,5 @@ This Cruise Trivia Game is for cruising enthusiasts and also to people who are n
 * **ID:** amzn1.echo-sdk-ams.app.1f9ff930-107b-415b-89bc-9e8619359793
 * **ASIN:** B01GDU3X1S
 * **Author:** Cierra
-* **Release Date:** June 10, 2016 @ 05:39:43
+* **Release Date:** June 10, 2016 @ 06:39:43
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask Car Geek for some interesting car facts.
 * **ID:** amzn1.ask.skill.02cfd63f-af97-485a-898d-99fa20105deb
 * **ASIN:** B01M7O677G
 * **Author:** Kwok
-* **Release Date:** October 25, 2016 @ 01:48:28
+* **Release Date:** October 25, 2016 @ 02:48:28
 * **In-App Purchasing:** No

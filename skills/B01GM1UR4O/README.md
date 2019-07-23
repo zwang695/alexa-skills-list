@@ -20,5 +20,5 @@ Facts for life
 * **ID:** amzn1.echo-sdk-ams.app.6430cd6f-7715-4014-97f1-e030e81a5a56
 * **ASIN:** B01GM1UR4O
 * **Author:** Sandeep
-* **Release Date:** June 7, 2016 @ 08:38:35
+* **Release Date:** June 7, 2016 @ 09:38:35
 * **In-App Purchasing:** No

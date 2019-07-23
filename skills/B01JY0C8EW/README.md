@@ -20,5 +20,5 @@ This skill asks animal trivia questions.
 * **ID:** amzn1.ask.skill.413f9f36-a50f-47fc-a8b9-9affee8565f2
 * **ASIN:** B01JY0C8EW
 * **Author:** Sruthi
-* **Release Date:** August 9, 2016 @ 03:37:43
+* **Release Date:** August 9, 2016 @ 04:37:43
 * **In-App Purchasing:** No

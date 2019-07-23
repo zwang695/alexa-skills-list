@@ -22,6 +22,6 @@ Simply by asking "Alexa, ask nearby places for directions to Starbucks" you can 
 * **ID:** amzn1.ask.skill.8d08e46c-660c-4d50-a5a0-b2a1ab2cbe36
 * **ASIN:** B01M74ZQ0Z
 * **Author:** Christian Gomez
-* **Release Date:** November 11, 2016 @ 01:15:27
+* **Release Date:** November 11, 2016 @ 02:15:27
 * **Privacy Policy:** http://alexaplaces.com/policy.html
 * **In-App Purchasing:** No

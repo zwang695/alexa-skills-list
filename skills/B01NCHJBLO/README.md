@@ -20,5 +20,5 @@ Extend your dinosaur knowledge with these fun facts. Ask Alexa for a dinosaur fa
 * **ID:** amzn1.ask.skill.3465a252-186e-4d6d-8e95-eb52844c5148
 * **ASIN:** B01NCHJBLO
 * **Author:** nickviola
-* **Release Date:** December 6, 2016 @ 02:05:56
+* **Release Date:** December 6, 2016 @ 03:05:56
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Interactive Trivia Game
 * **ID:** amzn1.echo-sdk-ams.app.097aa7a1-d23a-4ef8-970e-b49fa17b9990
 * **ASIN:** B01H9IKOI8
 * **Author:** AndyKJ
-* **Release Date:** June 21, 2016 @ 07:45:34
+* **Release Date:** June 21, 2016 @ 08:45:34
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Keep track of life totals in Magic:  The Gathering(c) hands-free with this app. 
 * **ID:** amzn1.echo-sdk-ams.app.c92b8a78-da3c-4b70-84c3-afbc65333da7
 * **ASIN:** B01DA1T6TQ
 * **Author:** mastash3ff
-* **Release Date:** March 22, 2016 @ 05:08:47
+* **Release Date:** March 22, 2016 @ 06:08:47
 * **In-App Purchasing:** No

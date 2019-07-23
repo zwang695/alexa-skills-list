@@ -18,5 +18,5 @@ The Braille challenge is designed to educate  those who are interested in Braill
 * **ID:** amzn1.echo-sdk-ams.app.59ddc8ef-1825-43cb-a7f5-6802a92bc4cf
 * **ASIN:** B01IBXWG3G
 * **Author:** iAccessibility
-* **Release Date:** July 13, 2016 @ 04:27:45
+* **Release Date:** July 13, 2016 @ 05:27:45
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ You can start the skill by saying "Alexa, open Capital Flash Cards".
 * **ID:** amzn1.echo-sdk-ams.app.7f174f00-42d4-42a9-a11a-0325c97f6270
 * **ASIN:** B01I5LP4QU
 * **Author:** wesee
-* **Release Date:** July 18, 2016 @ 03:27:41
+* **Release Date:** July 18, 2016 @ 04:27:41
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ You arrive at Santa's home, can you find Santa's Workshop?
 * **ID:** amzn1.ask.skill.fab3622e-9d6b-4743-b352-5536f4bfdad2
 * **ASIN:** B01N58W641
 * **Author:** Becca Blue Poetry
-* **Release Date:** December 6, 2016 @ 03:35:41
+* **Release Date:** December 6, 2016 @ 04:35:41
 * **In-App Purchasing:** No

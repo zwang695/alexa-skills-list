@@ -26,5 +26,5 @@ You can also try other variations, including:
 * **ID:** amzn1.ask.skill.5310899c-c67d-483f-958b-314817607e7f
 * **ASIN:** B01N1LIOMC
 * **Author:** theGerb.com
-* **Release Date:** November 30, 2016 @ 08:35:40
+* **Release Date:** November 30, 2016 @ 09:35:40
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ No external requirements - just activate the skill and get ready to show off!
 * **ID:** amzn1.ask.skill.c022da6e-5ef0-4cfd-9596-b41ae0993574
 * **ASIN:** B01N0QLO1F
 * **Author:** akansel
-* **Release Date:** December 14, 2016 @ 05:20:00
+* **Release Date:** December 14, 2016 @ 06:20:00
 * **In-App Purchasing:** No

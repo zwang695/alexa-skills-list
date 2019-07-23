@@ -23,5 +23,5 @@ For example, to get your kids ready for bed say:
 * **ID:** amzn1.ask.skill.0ef283ef-25a1-43e7-862b-e597a0d1f2f1
 * **ASIN:** B01J0MSMNK
 * **Author:** To the Reader, Inc.
-* **Release Date:** September 6, 2016 @ 02:33:43
+* **Release Date:** September 6, 2016 @ 03:33:43
 * **In-App Purchasing:** No

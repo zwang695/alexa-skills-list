@@ -20,7 +20,7 @@ Unlock the wealth of automotive information from Edmunds using your voice. This 
 * **ID:** amzn1.echo-sdk-ams.app.b86be7ea-5f36-42b4-a47b-ccbe2094d322
 * **ASIN:** B01MT03HSZ
 * **Author:** Edmunds.com
-* **Release Date:** December 22, 2016 @ 06:19:01
+* **Release Date:** December 22, 2016 @ 07:19:01
 * **Privacy Policy:** https://www.edmunds.com/about/privacy.html
 * **Terms of Use:** https://www.edmunds.com/about/visitor-agreement.html
 * **In-App Purchasing:** No

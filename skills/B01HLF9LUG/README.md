@@ -20,5 +20,5 @@ If you're feeling bored and have no idea of what to do, get a suggestion for an 
 * **ID:** amzn1.echo-sdk-ams.app.b7435afc-ab72-4512-81ce-9979b757a39f
 * **ASIN:** B01HLF9LUG
 * **Author:** Neil Danait
-* **Release Date:** June 27, 2016 @ 10:15:49
+* **Release Date:** June 27, 2016 @ 11:15:49
 * **In-App Purchasing:** No

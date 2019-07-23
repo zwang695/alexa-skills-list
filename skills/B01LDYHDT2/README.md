@@ -20,5 +20,5 @@ Math constants provides users fast and easy access to some important math consta
 * **ID:** amzn1.ask.skill.da045648-afd1-40f9-9921-1c21f28b299b
 * **ASIN:** B01LDYHDT2
 * **Author:** Andrey Gubenko
-* **Release Date:** September 2, 2016 @ 07:33:41
+* **Release Date:** September 2, 2016 @ 08:33:41
 * **In-App Purchasing:** No

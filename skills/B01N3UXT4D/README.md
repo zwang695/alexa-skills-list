@@ -20,5 +20,5 @@ The skill works when provided two currencies (from and to) between which the exc
 * **ID:** amzn1.ask.skill.51de6423-881f-4698-a3c3-92ce34665d26
 * **ASIN:** B01N3UXT4D
 * **Author:** Hakan
-* **Release Date:** November 16, 2016 @ 01:35:39
+* **Release Date:** November 16, 2016 @ 02:35:39
 * **In-App Purchasing:** No

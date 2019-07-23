@@ -20,6 +20,6 @@ Sometimes you just want to test out a new API without the bother of creating a n
 * **ID:** amzn1.ask.skill.548bacb7-bca3-49e7-9b38-517b98f2237a
 * **ASIN:** B01LMJVEFC
 * **Author:** techdad24.com
-* **Release Date:** September 11, 2016 @ 03:15:52
+* **Release Date:** September 11, 2016 @ 04:15:52
 * **Privacy Policy:** http://techdad24.com/Privacy-Policy/
 * **In-App Purchasing:** No

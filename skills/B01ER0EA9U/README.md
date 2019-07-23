@@ -20,5 +20,5 @@ This skill provides facts about Texas A&M University.  You can simply ask Aggie 
 * **ID:** amzn1.echo-sdk-ams.app.781950e1-2e7d-4370-b923-eae0751996ac
 * **ASIN:** B01ER0EA9U
 * **Author:** Jennings Fairchild
-* **Release Date:** May 18, 2016 @ 09:08:40
+* **Release Date:** May 18, 2016 @ 10:08:40
 * **In-App Purchasing:** No

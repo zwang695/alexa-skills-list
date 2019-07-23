@@ -16,5 +16,5 @@ Not sure where to go for lunch on Charlottesville's downtown mall? Alexa will as
 * **ID:** amzn1.ask.skill.d8918b50-2301-4421-b093-d0b7f0426ace
 * **ASIN:** B01LWDCLWH
 * **Author:** WillowTree
-* **Release Date:** September 12, 2016 @ 02:12:41
+* **Release Date:** September 12, 2016 @ 03:12:41
 * **In-App Purchasing:** No

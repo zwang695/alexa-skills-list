@@ -38,5 +38,5 @@ Please report issues on the GitHub issue page
 * **ID:** amzn1.echo-sdk-ams.app.02f2063d-d5a1-4a3a-ae94-d27d41f5e953
 * **ASIN:** B01K72RH8S
 * **Author:** Skezo
-* **Release Date:** September 1, 2016 @ 04:04:28
+* **Release Date:** September 1, 2016 @ 05:04:28
 * **In-App Purchasing:** No

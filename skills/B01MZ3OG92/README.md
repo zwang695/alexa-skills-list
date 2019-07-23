@@ -20,5 +20,5 @@ This skill lets you listen to the Anglican morning or evening prayer as read by 
 * **ID:** amzn1.ask.skill.0c97cc19-05de-48b9-8e4b-d4bd2b48f7be
 * **ASIN:** B01MZ3OG92
 * **Author:** Wentworth Technologies
-* **Release Date:** December 29, 2016 @ 04:49:41
+* **Release Date:** December 29, 2016 @ 05:49:41
 * **In-App Purchasing:** No

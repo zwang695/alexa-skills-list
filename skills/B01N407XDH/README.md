@@ -20,5 +20,5 @@ An use-full Alexa Skill which uses Google Translate to translate list of spices 
 * **ID:** amzn1.ask.skill.7504fa5b-b08f-4a36-86f7-3fc7230e1378
 * **ASIN:** B01N407XDH
 * **Author:** Geetha
-* **Release Date:** November 21, 2016 @ 01:05:42
+* **Release Date:** November 21, 2016 @ 02:05:42
 * **In-App Purchasing:** No

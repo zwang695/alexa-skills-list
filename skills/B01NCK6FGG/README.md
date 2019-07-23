@@ -20,5 +20,5 @@ A simple Alexa skill that recites quotes from The Art of War. Over 130 quotes ar
 * **ID:** amzn1.ask.skill.31610382-e0d6-4295-8536-11d32114cb6e
 * **ASIN:** B01NCK6FGG
 * **Author:** Jason Collier
-* **Release Date:** December 12, 2016 @ 01:19:36
+* **Release Date:** December 12, 2016 @ 02:19:36
 * **In-App Purchasing:** No

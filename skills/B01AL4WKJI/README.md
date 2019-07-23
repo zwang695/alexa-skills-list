@@ -20,5 +20,5 @@ Baseball Archive provides information and statistics for any of the 18000+ playe
 * **ID:** amzn1.echo-sdk-ams.app.518bd63f-f0cc-484d-9a0f-bf458a30f61e
 * **ASIN:** B01AL4WKJI
 * **Author:** Zim44
-* **Release Date:** January 13, 2016 @ 21:28:47
+* **Release Date:** January 13, 2016 @ 22:28:47
 * **In-App Purchasing:** No

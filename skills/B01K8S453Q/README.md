@@ -22,7 +22,7 @@ This skill requires a Vinli adaptor and account.
 * **ID:** amzn1.echo-sdk-ams.app.0d3eefb5-012a-4e20-858c-8c4f936969d8
 * **ASIN:** B01K8S453Q
 * **Author:** Vinli
-* **Release Date:** August 23, 2016 @ 02:18:58
+* **Release Date:** August 23, 2016 @ 03:18:58
 * **Privacy Policy:** https://www.vin.li/privacy
 * **Terms of Use:** https://www.vin.li/terms-conditions
 * **Account Linking Domains:** vin.li

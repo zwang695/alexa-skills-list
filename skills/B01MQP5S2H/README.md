@@ -24,5 +24,5 @@ Moon app icon photograph provided courtesy of Justinas Vitkus at justv23.deviant
 * **ID:** amzn1.ask.skill.cd096204-7c09-4a26-9bd2-7dd99882a72e
 * **ASIN:** B01MQP5S2H
 * **Author:** Christopher Stevens
-* **Release Date:** November 28, 2016 @ 05:05:32
+* **Release Date:** November 28, 2016 @ 06:05:32
 * **In-App Purchasing:** No

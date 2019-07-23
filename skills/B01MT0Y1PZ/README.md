@@ -20,5 +20,5 @@ Ever wonder about the culture and history of space150? From history to subversiv
 * **ID:** amzn1.ask.skill.b7dff941-1efd-4627-bd47-3570e695ab10
 * **ASIN:** B01MT0Y1PZ
 * **Author:** space150
-* **Release Date:** December 22, 2016 @ 07:49:44
+* **Release Date:** December 22, 2016 @ 08:49:44
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This Skill is a Game to test the user's knowledge of pro football teams's nickna
 * **ID:** amzn1.echo-sdk-ams.app.7a36f665-6221-475e-9ce0-0f106809f09b
 * **ASIN:** B01IRM7USC
 * **Author:** ctsif
-* **Release Date:** July 21, 2016 @ 05:57:33
+* **Release Date:** July 21, 2016 @ 06:57:33
 * **In-App Purchasing:** No

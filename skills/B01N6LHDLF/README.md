@@ -21,5 +21,5 @@ You can check your messages by announcing your name to your device, or by asking
 * **ID:** amzn1.ask.skill.ae5d9d20-1c18-4ecd-84e6-002e5e6bf321
 * **ASIN:** B01N6LHDLF
 * **Author:** Blrdev
-* **Release Date:** January 3, 2017 @ 09:53:48
+* **Release Date:** January 3, 2017 @ 10:53:48
 * **In-App Purchasing:** No

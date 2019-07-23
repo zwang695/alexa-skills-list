@@ -20,5 +20,5 @@ The Trollhaugen Ski Resort Snow Report brought to you by SnoCountry brings you t
 * **ID:** amzn1.ask.skill.f0c5dab7-77b3-4dbe-a349-dd92c0562d4b
 * **ASIN:** B01N04YA91
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:43:26
+* **Release Date:** November 5, 2016 @ 11:43:26
 * **In-App Purchasing:** No

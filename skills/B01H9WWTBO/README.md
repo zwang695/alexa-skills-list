@@ -21,5 +21,5 @@ Talk flirty to the hot girl
 * **ID:** amzn1.echo-sdk-ams.app.4625c82f-3022-46da-9f61-d48160225c49
 * **ASIN:** B01H9WWTBO
 * **Author:** Mayuresh Raut
-* **Release Date:** June 27, 2016 @ 10:15:36
+* **Release Date:** June 27, 2016 @ 11:15:36
 * **In-App Purchasing:** No

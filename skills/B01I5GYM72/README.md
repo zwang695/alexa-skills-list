@@ -20,7 +20,7 @@ With the Prayer Book skill, Alexa can speak a mealtime prayer for you or your fa
 * **ID:** amzn1.echo-sdk-ams.app.c3e2ec93-ecf8-42f2-9b30-04025b912355
 * **ASIN:** B01I5GYM72
 * **Author:** Certus Knowledge
-* **Release Date:** July 11, 2016 @ 08:57:43
+* **Release Date:** July 11, 2016 @ 09:57:43
 * **Privacy Policy:** http://bethdemme.com/theprayerbook/Alexa/privacy/
 * **Terms of Use:** http://bethdemme.com/theprayerbook/Alexa/terms/
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Free Champs isn’t endorsed by Riot Games and doesn’t reflect the views or op
 * **ID:** amzn1.ask.skill.99614cfb-5bcb-49fd-aa3d-fd3dd2f8ac09
 * **ASIN:** B01LWHX1XW
 * **Author:** Fabian Reddig
-* **Release Date:** September 17, 2016 @ 06:11:37
+* **Release Date:** September 17, 2016 @ 07:11:37
 * **In-App Purchasing:** No

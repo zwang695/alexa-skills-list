@@ -44,5 +44,5 @@ Version 1.0.0
 * **ID:** amzn1.echo-sdk-ams.app.53cfca4d-5125-419f-aa5d-f1f493986167
 * **ASIN:** B01IQQJ26W
 * **Author:** Wobble Mouth
-* **Release Date:** July 20, 2016 @ 07:27:27
+* **Release Date:** July 20, 2016 @ 08:27:27
 * **In-App Purchasing:** No

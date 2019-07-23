@@ -20,5 +20,5 @@ This skill talks lightly with the user, providing certain prompts from the code.
 * **ID:** amzn1.ask.skill.d3db705c-4c19-4783-8650-96aad7742fd8
 * **ASIN:** B01N9C9177
 * **Author:** Emmett Kang
-* **Release Date:** December 2, 2016 @ 06:35:19
+* **Release Date:** December 2, 2016 @ 07:35:19
 * **In-App Purchasing:** No

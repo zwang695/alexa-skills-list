@@ -20,5 +20,5 @@ Some interesting facts about football
 * **ID:** amzn1.ask.skill.a04fbccb-79ed-4b4d-9fb1-a997b68c97e9
 * **ASIN:** B01LY0YTEB
 * **Author:** Diyang
-* **Release Date:** October 4, 2016 @ 06:42:04
+* **Release Date:** October 4, 2016 @ 07:42:04
 * **In-App Purchasing:** No

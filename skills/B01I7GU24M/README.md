@@ -20,5 +20,5 @@ This Alexa App provides fun facts about tacos simply by asking, "Alexa, ask taco
 * **ID:** amzn1.echo-sdk-ams.app.0a347787-81c0-4aa6-ad0d-4955c736dc4d
 * **ASIN:** B01I7GU24M
 * **Author:** Jason Sit
-* **Release Date:** July 13, 2016 @ 02:57:34
+* **Release Date:** July 13, 2016 @ 03:57:34
 * **In-App Purchasing:** No

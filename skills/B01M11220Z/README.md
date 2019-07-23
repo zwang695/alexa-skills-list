@@ -20,5 +20,5 @@ This ask a series of questions about identifying features of the vehicle to assi
 * **ID:** amzn1.ask.skill.df5d88b1-7cd2-4bd3-b522-00a3505c36b8
 * **ASIN:** B01M11220Z
 * **Author:** Danco
-* **Release Date:** October 17, 2016 @ 23:11:58
+* **Release Date:** October 18, 2016 @ 00:11:58
 * **In-App Purchasing:** No

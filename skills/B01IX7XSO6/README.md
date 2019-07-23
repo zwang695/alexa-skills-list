@@ -20,5 +20,5 @@ Tells random facts about technology
 * **ID:** amzn1.ask.skill.ae53a658-2825-47d6-955c-078bb2e87cb7
 * **ASIN:** B01IX7XSO6
 * **Author:** Kinshu
-* **Release Date:** July 27, 2016 @ 04:26:41
+* **Release Date:** July 27, 2016 @ 05:26:41
 * **In-App Purchasing:** No

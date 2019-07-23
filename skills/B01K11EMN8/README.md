@@ -22,7 +22,7 @@ You can also request a joke from these specific categories: Robots, Computers, P
 * **ID:** amzn1.ask.skill.6ca4e8e7-46b4-4077-ae3d-008391f62268
 * **ASIN:** B01K11EMN8
 * **Author:** TOPBOTS
-* **Release Date:** August 10, 2016 @ 06:38:14
+* **Release Date:** August 10, 2016 @ 07:38:14
 * **Privacy Policy:** http://topbotagency.com/privacy
 * **Terms of Use:** http://topbotagency.com/tos
 * **In-App Purchasing:** No

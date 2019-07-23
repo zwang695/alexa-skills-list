@@ -20,5 +20,5 @@ The Snow Snake Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.4a389cd5-e8d0-4bce-9de6-694226ac5bdb
 * **ASIN:** B01M3S8EEA
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:44:27
+* **Release Date:** October 21, 2016 @ 15:44:27
 * **In-App Purchasing:** No

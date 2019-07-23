@@ -20,5 +20,5 @@ This skill gives a list of the top 10 famous painters and their lifetime years, 
 * **ID:** amzn1.ask.skill.21edb03f-ba57-41a2-bf6e-7652ffef6085
 * **ASIN:** B01L0P0KS0
 * **Author:** Sucheta Gangwal
-* **Release Date:** August 29, 2016 @ 08:32:40
+* **Release Date:** August 29, 2016 @ 09:32:40
 * **In-App Purchasing:** No

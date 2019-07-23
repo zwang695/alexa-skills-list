@@ -20,5 +20,5 @@ You will be asked 5 trivia questions about bowling.  The answers are multiple ch
 * **ID:** amzn1.ask.skill.1fb7e624-b3fa-49e3-8ae0-c02d7c7efb1a
 * **ASIN:** B01M1EQYVM
 * **Author:** EPage
-* **Release Date:** September 17, 2016 @ 02:42:22
+* **Release Date:** September 17, 2016 @ 03:42:22
 * **In-App Purchasing:** No

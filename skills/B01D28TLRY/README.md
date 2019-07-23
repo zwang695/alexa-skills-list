@@ -22,7 +22,7 @@ Latest updates, comprehensive coverage and equal focus on Current Affairs, Polit
 * **ID:** amzn1.echo-sdk-ams.app.3aaaa53c-6fa5-497c-8e2d-bba4a502e69a
 * **ASIN:** B01D28TLRY
 * **Author:** Malayala Manorama Company 
-* **Release Date:** March 16, 2016 @ 18:30:23
+* **Release Date:** March 16, 2016 @ 19:30:23
 * **Privacy Policy:** http://www.manoramaonline.com/content/mm/ml/privacy.html
 * **Terms of Use:** http://www.manoramaonline.com/content/mm/ml/terms-of-use.html
 * **In-App Purchasing:** No

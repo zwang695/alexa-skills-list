@@ -20,5 +20,5 @@ Donut Fun Facts is a trivia-based skill that allows Alexa to give you a random f
 * **ID:** amzn1.ask.skill.7aba0354-f1f3-456b-9be1-79a82cc99ac2
 * **ASIN:** B01MYTENFZ
 * **Author:** Adriane Purdy
-* **Release Date:** November 30, 2016 @ 08:05:44
+* **Release Date:** November 30, 2016 @ 09:05:44
 * **In-App Purchasing:** No

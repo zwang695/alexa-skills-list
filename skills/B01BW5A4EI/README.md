@@ -26,7 +26,7 @@ SUPPORT: Please send us an email at support@easilydo.com if you have any questio
 * **ID:** amzn1.echo-sdk-ams.app.c0e346b1-6f84-4b54-9b12-b50a89be0d5d
 * **ASIN:** B01BW5A4EI
 * **Author:** EasilyDo
-* **Release Date:** February 17, 2016 @ 17:49:03
+* **Release Date:** February 17, 2016 @ 18:49:03
 * **Privacy Policy:** https://www.easilydo.com/privacypolicy?page=privacypolicy
 * **Terms of Use:** https://www.easilydo.com/termsofservice?page=termsofservice
 * **Account Linking Domains:** login.easilydo.com, www.facebook.com, m.facebook.com, accounts.google.com

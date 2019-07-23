@@ -20,5 +20,5 @@ trivia about india.test and build your general knowledge about india
 * **ID:** amzn1.echo-sdk-ams.app.b83813d5-4bbd-42f4-a958-1dc36411dbe1
 * **ASIN:** B01HLF94AI
 * **Author:** danmullaguru
-* **Release Date:** June 29, 2016 @ 08:27:47
+* **Release Date:** June 29, 2016 @ 09:27:47
 * **In-App Purchasing:** No

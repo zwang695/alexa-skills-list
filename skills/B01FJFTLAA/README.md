@@ -24,5 +24,5 @@ Alexa, Ask Yoga Guru how do I pose a cobra.
 * **ID:** amzn1.echo-sdk-ams.app.a067d926-7fcc-4866-a663-a16ba4d1ee6e
 * **ASIN:** B01FJFTLAA
 * **Author:** wesee
-* **Release Date:** May 13, 2016 @ 10:08:42
+* **Release Date:** May 13, 2016 @ 11:08:42
 * **In-App Purchasing:** No

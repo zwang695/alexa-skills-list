@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.b1fc64eb-dc0e-4ba9-b86c-5687bb49d81f
 * **ASIN:** B01MXZI74L
 * **Author:** Johannes
-* **Release Date:** December 19, 2016 @ 07:19:25
+* **Release Date:** December 19, 2016 @ 08:19:25
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Learn and explore various facts about Ants - one of the greatest species in the 
 * **ID:** amzn1.echo-sdk-ams.app.394b1d62-34cf-4098-acae-945126c41f9c
 * **ASIN:** B01I4MMGIY
 * **Author:** Shivansh Singh
-* **Release Date:** July 11, 2016 @ 04:27:41
+* **Release Date:** July 11, 2016 @ 05:27:41
 * **In-App Purchasing:** No

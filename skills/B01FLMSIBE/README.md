@@ -20,5 +20,5 @@ Use Alexa to pull back the layers of time to see what significant historical eve
 * **ID:** amzn1.echo-sdk-ams.app.3ea089e3-f862-4a45-a381-4d040cd21a13
 * **ASIN:** B01FLMSIBE
 * **Author:** BLT Robotics
-* **Release Date:** May 19, 2016 @ 10:08:41
+* **Release Date:** May 19, 2016 @ 11:08:41
 * **In-App Purchasing:** No

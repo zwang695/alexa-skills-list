@@ -25,5 +25,5 @@ http://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformatio
 * **ID:** amzn1.ask.skill.0ec2229b-821b-4693-a1f9-be02ca9f3eb8
 * **ASIN:** B01IYTCE84
 * **Author:** Eleni Marie
-* **Release Date:** August 16, 2016 @ 08:22:17
+* **Release Date:** August 16, 2016 @ 09:22:17
 * **In-App Purchasing:** No

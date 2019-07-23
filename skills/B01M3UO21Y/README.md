@@ -22,5 +22,5 @@ Good luck!
 * **ID:** amzn1.ask.skill.9c05031c-d437-4963-945a-7ad34713792c
 * **ASIN:** B01M3UO21Y
 * **Author:** IrishClanger
-* **Release Date:** November 9, 2016 @ 00:45:00
+* **Release Date:** November 9, 2016 @ 01:45:00
 * **In-App Purchasing:** No

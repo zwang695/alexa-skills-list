@@ -20,5 +20,5 @@ Interesting facts about the entertainment capital of the world.  Just say "Alexa
 * **ID:** amzn1.echo-sdk-ams.app.e847a3d6-a7e6-4b4e-8846-068ee033eb58
 * **ASIN:** B01GWAX8Z0
 * **Author:** pbailen
-* **Release Date:** June 28, 2016 @ 05:15:54
+* **Release Date:** June 28, 2016 @ 06:15:54
 * **In-App Purchasing:** No

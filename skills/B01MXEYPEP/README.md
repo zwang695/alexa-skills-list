@@ -20,5 +20,5 @@ The collection of bad jokes contains around 90 jokes that will definitely make y
 * **ID:** amzn1.ask.skill.49a6d487-7a41-4964-bca4-ec0d329915f4
 * **ASIN:** B01MXEYPEP
 * **Author:** Jozef Celuch
-* **Release Date:** November 20, 2016 @ 23:07:29
+* **Release Date:** November 21, 2016 @ 00:07:29
 * **In-App Purchasing:** No

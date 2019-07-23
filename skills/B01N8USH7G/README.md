@@ -34,6 +34,6 @@ Usage:
 * **ID:** amzn1.ask.skill.431182e9-4719-40e7-ab10-5972bd99bf62
 * **ASIN:** B01N8USH7G
 * **Author:** algolab
-* **Release Date:** December 6, 2016 @ 00:36:07
+* **Release Date:** December 6, 2016 @ 01:36:07
 * **Privacy Policy:** http://www.algolab.jp/privacy/en.html
 * **In-App Purchasing:** No

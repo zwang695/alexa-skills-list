@@ -20,5 +20,5 @@ Exotic car facts you want to hear, at your fingertips!
 * **ID:** amzn1.echo-sdk-ams.app.d9e4f89f-35c5-4389-99dc-55fdba55c88e
 * **ASIN:** B01HLEW92O
 * **Author:** Neil Danait
-* **Release Date:** June 28, 2016 @ 02:15:46
+* **Release Date:** June 28, 2016 @ 03:15:46
 * **In-App Purchasing:** No

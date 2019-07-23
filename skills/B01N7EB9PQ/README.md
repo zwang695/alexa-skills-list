@@ -20,5 +20,5 @@ This application provides information regarding the next Denver Broncos game. It
 * **ID:** amzn1.ask.skill.8e886906-e365-416c-bbb8-f3317f612c8b
 * **ASIN:** B01N7EB9PQ
 * **Author:** Furonics
-* **Release Date:** December 9, 2016 @ 10:49:08
+* **Release Date:** December 9, 2016 @ 11:49:08
 * **In-App Purchasing:** No

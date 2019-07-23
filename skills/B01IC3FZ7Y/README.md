@@ -22,5 +22,5 @@ To start playing just say, "Alexa, launch Stone Game."
 * **ID:** amzn1.echo-sdk-ams.app.43d7c8ba-cb32-42d7-bc5b-91b0e13b101e
 * **ASIN:** B01IC3FZ7Y
 * **Author:** worldengine
-* **Release Date:** July 14, 2016 @ 08:57:30
+* **Release Date:** July 14, 2016 @ 09:57:30
 * **In-App Purchasing:** No

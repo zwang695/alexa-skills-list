@@ -18,5 +18,5 @@ Holiday fun with Christmas Jokes for all. To activate the skill, simply ask "Ale
 * **ID:** amzn1.ask.skill.485a9bf2-330e-4c2e-93d3-d9fa0923ee1f
 * **ASIN:** B01N1PT5KN
 * **Author:** TG
-* **Release Date:** December 13, 2016 @ 03:49:31
+* **Release Date:** December 13, 2016 @ 04:49:31
 * **In-App Purchasing:** No

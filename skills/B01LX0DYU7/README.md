@@ -20,5 +20,5 @@ The Summit at Snoqualmie-Alpental Snow Report brought to you by SnoCountry bring
 * **ID:** amzn1.ask.skill.168aab2c-c662-432e-8f18-631f7df7c5b9
 * **ASIN:** B01LX0DYU7
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 04:42:09
+* **Release Date:** October 20, 2016 @ 05:42:09
 * **In-App Purchasing:** No

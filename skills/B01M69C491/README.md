@@ -20,5 +20,5 @@ Push the bounds of hipster-speak past the limits. Not enough? Ask to add in some
 * **ID:** amzn1.echo-sdk-ams.app.c5c80a10-b310-4430-8d53-396d6e5b5c66
 * **ASIN:** B01M69C491
 * **Author:** Justin Revelstoke
-* **Release Date:** November 17, 2016 @ 00:35:38
+* **Release Date:** November 17, 2016 @ 01:35:38
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ You can learn several interesting facts about marks house. Say hello or say "tel
 * **ID:** amzn1.echo-sdk-ams.app.4713858f-3959-49f2-b142-18e748296de0
 * **ASIN:** B01IA95OO4
 * **Author:** Mark Wolkon
-* **Release Date:** July 13, 2016 @ 03:57:37
+* **Release Date:** July 13, 2016 @ 04:57:37
 * **In-App Purchasing:** No

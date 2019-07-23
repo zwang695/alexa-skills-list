@@ -20,5 +20,5 @@ This is an assistant to help you remember your core agile values and principles 
 * **ID:** amzn1.ask.skill.a7614830-a672-4ed5-b275-865187d8002b
 * **ASIN:** B01N3SQARV
 * **Author:** VanderFox
-* **Release Date:** November 20, 2016 @ 23:05:58
+* **Release Date:** November 21, 2016 @ 00:05:58
 * **In-App Purchasing:** No

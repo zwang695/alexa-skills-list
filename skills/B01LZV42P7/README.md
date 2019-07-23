@@ -20,5 +20,5 @@ Task Penguin is a simple to use To-Do/Task list where you can store items for ac
 * **ID:** amzn1.ask.skill.f147e5fa-6e6c-4db3-8480-6baa76f1fb3d
 * **ASIN:** B01LZV42P7
 * **Author:** Intelligent Labs
-* **Release Date:** October 7, 2016 @ 02:41:57
+* **Release Date:** October 7, 2016 @ 03:41:57
 * **In-App Purchasing:** No

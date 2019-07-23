@@ -20,5 +20,5 @@ It is a very simple trivia contest based on the template provided by the Amazon 
 * **ID:** amzn1.echo-sdk-ams.app.a0d2c5e0-0478-4b4c-9b0b-76318f0eced6
 * **ASIN:** B01DJJWY9I
 * **Author:** Gregg Vesonder
-* **Release Date:** March 28, 2016 @ 14:09:49
+* **Release Date:** March 28, 2016 @ 15:09:49
 * **In-App Purchasing:** No

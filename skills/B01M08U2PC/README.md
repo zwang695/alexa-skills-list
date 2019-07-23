@@ -16,5 +16,5 @@ We drink coffee everyday. It wakes us up. We can't go without it. But what do we
 * **ID:** amzn1.ask.skill.7aca0a07-3d93-417f-9f5c-dd3a1ab5d224
 * **ASIN:** B01M08U2PC
 * **Author:** cponeill
-* **Release Date:** October 3, 2016 @ 01:42:51
+* **Release Date:** October 3, 2016 @ 02:42:51
 * **In-App Purchasing:** No

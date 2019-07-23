@@ -22,5 +22,5 @@ It doesn't need any input just start it!
 * **ID:** amzn1.echo-sdk-ams.app.bf143349-78bb-468c-b1d6-0ee72afad7d3
 * **ASIN:** B01FP45N4I
 * **Author:** Ovc
-* **Release Date:** June 3, 2016 @ 08:08:37
+* **Release Date:** June 3, 2016 @ 09:08:37
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ The Listeners is an experiment in language art that provides, if you simply keep
 * **ID:** amzn1.echo-sdk-ams.app.586aa4c5-12ca-496b-b7f1-3e93880f35de
 * **ASIN:** B019R2YB7Y
 * **Author:** Digital Language Arts
-* **Release Date:** December 23, 2015 @ 17:47:25
+* **Release Date:** December 23, 2015 @ 18:47:25
 * **In-App Purchasing:** No

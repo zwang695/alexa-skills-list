@@ -20,5 +20,5 @@ The quiz is started by an alexa launch utterance. You will be provided a 2 lette
 * **ID:** amzn1.ask.skill.6ffdde33-e23a-4c9c-907b-2196b7c6b63a
 * **ASIN:** B01JR5MJCU
 * **Author:** chameleon Wireless
-* **Release Date:** August 5, 2016 @ 06:37:26
+* **Release Date:** August 5, 2016 @ 07:37:26
 * **In-App Purchasing:** No

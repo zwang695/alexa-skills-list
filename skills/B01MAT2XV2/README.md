@@ -16,5 +16,5 @@ Here are a bunch of fun facts about biology and the world around you! Designed t
 * **ID:** amzn1.ask.skill.61e54580-4cc8-4dfa-a262-c20e4be8aa16
 * **ASIN:** B01MAT2XV2
 * **Author:** Kaitlyn McPartland
-* **Release Date:** October 10, 2016 @ 06:41:50
+* **Release Date:** October 10, 2016 @ 07:41:50
 * **In-App Purchasing:** No

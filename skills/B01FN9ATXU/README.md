@@ -22,5 +22,5 @@ Now you can access this information via Alexa.
 * **ID:** amzn1.echo-sdk-ams.app.0b2ee965-e486-4746-a170-68566b7e0223
 * **ASIN:** B01FN9ATXU
 * **Author:** Adzima Development
-* **Release Date:** June 29, 2016 @ 05:58:34
+* **Release Date:** June 29, 2016 @ 06:58:34
 * **In-App Purchasing:** No

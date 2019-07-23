@@ -22,5 +22,5 @@ To correctly use the skill invoke it using Hockey team and ask for the Team name
 * **ID:** amzn1.ask.skill.c5cc8131-88ad-40a2-a8b4-4be0ba2e8232
 * **ASIN:** B01NBK1G34
 * **Author:** Mr. CatNaps
-* **Release Date:** December 16, 2016 @ 02:49:41
+* **Release Date:** December 16, 2016 @ 03:49:41
 * **In-App Purchasing:** No

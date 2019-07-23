@@ -20,5 +20,5 @@ A simple trivia game that tests your knowledge of our 40th president
 * **ID:** amzn1.echo-sdk-ams.app.cd915007-b171-4edc-a72c-d4ab4ee5426f
 * **ASIN:** B01EQIE8KY
 * **Author:** TO Software
-* **Release Date:** April 29, 2016 @ 17:08:26
+* **Release Date:** April 29, 2016 @ 18:08:26
 * **In-App Purchasing:** No

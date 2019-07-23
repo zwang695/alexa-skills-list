@@ -40,5 +40,5 @@ Please rate this skill and give your thoughts on which of the following improvem
 * **ID:** amzn1.ask.skill.cc329efe-a846-488d-839e-8496750ff4fc
 * **ASIN:** B01JZNXEEG
 * **Author:** LC
-* **Release Date:** August 12, 2016 @ 01:37:29
+* **Release Date:** August 12, 2016 @ 02:37:29
 * **In-App Purchasing:** No

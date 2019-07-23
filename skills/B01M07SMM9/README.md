@@ -20,5 +20,5 @@ Asks simple yes no questions to help you decide how to work out
 * **ID:** amzn1.ask.skill.e4c761a7-37d2-423e-b328-5e3180472daf
 * **ASIN:** B01M07SMM9
 * **Author:** orthros
-* **Release Date:** September 29, 2016 @ 06:43:01
+* **Release Date:** September 29, 2016 @ 07:43:01
 * **In-App Purchasing:** No

@@ -26,5 +26,5 @@ The direction of travel is not needed when asking about a stop ID or number.
 * **ID:** amzn1.echo-sdk-ams.app.a6071d25-ab4d-498e-8fe0-5b5505e4c142
 * **ASIN:** B01E1JMRII
 * **Author:** Garden District Liveware
-* **Release Date:** April 15, 2016 @ 02:32:41
+* **Release Date:** April 15, 2016 @ 03:32:41
 * **In-App Purchasing:** No

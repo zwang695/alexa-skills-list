@@ -20,5 +20,5 @@ This skill queries the national weather service to figure out the air quality in
 * **ID:** amzn1.ask.skill.cf6d86b3-e34e-48ae-9dc4-8575aa8c3322
 * **ASIN:** B01LYK5J3Y
 * **Author:** Nathaniel Ostrer
-* **Release Date:** October 5, 2016 @ 00:12:47
+* **Release Date:** October 5, 2016 @ 01:12:47
 * **In-App Purchasing:** No

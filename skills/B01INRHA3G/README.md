@@ -22,5 +22,5 @@ Don't miss your favorite sports. Get all the details of the programmed events.
 * **ID:** amzn1.echo-sdk-ams.app.ecccac14-9697-4841-9bca-c29d69b37b26
 * **ASIN:** B01INRHA3G
 * **Author:** Marlin
-* **Release Date:** July 28, 2016 @ 02:26:42
+* **Release Date:** July 28, 2016 @ 03:26:42
 * **In-App Purchasing:** No

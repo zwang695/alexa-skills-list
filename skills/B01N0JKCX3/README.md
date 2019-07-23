@@ -20,5 +20,5 @@ When asked, this skill will return a fact about Davina. There are no prerequisit
 * **ID:** amzn1.ask.skill.2a86b252-2666-43b3-a76c-4e9767de11d6
 * **ASIN:** B01N0JKCX3
 * **Author:** fantworks
-* **Release Date:** November 28, 2016 @ 01:35:54
+* **Release Date:** November 28, 2016 @ 02:35:54
 * **In-App Purchasing:** No

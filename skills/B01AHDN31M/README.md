@@ -22,6 +22,6 @@ Stringify also works well with: SmartThings, Fitbit, Nest, Jawbone Up, Phillips 
 * **ID:** amzn1.echo-sdk-ams.app.d9bae870-d8dd-44ca-a628-d82953d5a20e
 * **ASIN:** B01AHDN31M
 * **Author:** Stringify, Inc
-* **Release Date:** January 11, 2016 @ 19:31:04
+* **Release Date:** January 11, 2016 @ 20:31:04
 * **Privacy Policy:** https://www.stringify.com/privacy
 * **In-App Purchasing:** No

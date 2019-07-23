@@ -30,6 +30,6 @@ If you need to start over just say, "Alexa, Ask My Weekend to Start Over"
 * **ID:** amzn1.ask.skill.f4837846-459b-48d9-87a9-ba239032eeae
 * **ASIN:** B01MYVCL0E
 * **Author:** Angry Cider LLC
-* **Release Date:** December 9, 2016 @ 09:19:48
+* **Release Date:** December 9, 2016 @ 10:19:48
 * **Privacy Policy:** http://app.angrycider.com/privacy.html
 * **In-App Purchasing:** No

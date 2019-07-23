@@ -20,5 +20,5 @@ This is an Alexa skill that reveals some of the official 9/11 Commission finding
 * **ID:** amzn1.ask.skill.e60a0d96-675f-49a8-aac7-757354742bd2
 * **ASIN:** B01M9H2EO8
 * **Author:** Troy Oz
-* **Release Date:** November 2, 2016 @ 09:42:59
+* **Release Date:** November 2, 2016 @ 10:42:59
 * **In-App Purchasing:** No

@@ -45,7 +45,7 @@ Please contact us at www.arrayent.com for more information.
 * **ID:** amzn1.ask.skill.25f3ed8d-f5ca-4a4c-9a32-d73777cd24a1
 * **ASIN:** B01N6E0G3R
 * **Author:** Arrayent
-* **Release Date:** December 30, 2016 @ 06:19:13
+* **Release Date:** December 30, 2016 @ 07:19:13
 * **Privacy Policy:** http://www.arrayent.com/privacy-policy/
 * **Account Linking Domains:** na-s01-oauth.arrayent.io, alexa-devkit-ws.arrayent.io, na-s01-api.arrayent.io
 * **In-App Purchasing:** No

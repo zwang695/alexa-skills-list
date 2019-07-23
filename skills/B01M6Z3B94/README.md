@@ -20,5 +20,5 @@ The Big Powderhorn Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.da52b5b8-38b2-4da7-8d81-7ca54b40c296
 * **ASIN:** B01M6Z3B94
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:14:26
+* **Release Date:** October 21, 2016 @ 15:14:26
 * **In-App Purchasing:** No

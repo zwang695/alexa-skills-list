@@ -20,5 +20,5 @@ If you're a fan of MLS soccer, use this skill to prove your knowledge.
 * **ID:** amzn1.ask.skill.fb421dde-45ee-43b9-94b2-47b9b5753f9f
 * **ASIN:** B01JR042BQ
 * **Author:** JJJ apps
-* **Release Date:** August 8, 2016 @ 07:07:26
+* **Release Date:** August 8, 2016 @ 08:07:26
 * **In-App Purchasing:** No

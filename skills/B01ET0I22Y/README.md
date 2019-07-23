@@ -20,5 +20,5 @@ Can you make it to level 20 and defeat the Dungeon Master? Test your Tabletop  t
 * **ID:** amzn1.echo-sdk-ams.app.9bfdf519-77a8-4e4c-a3a3-bed400a45fbd
 * **ASIN:** B01ET0I22Y
 * **Author:** BadBinary LTD
-* **Release Date:** May 16, 2016 @ 06:08:30
+* **Release Date:** May 16, 2016 @ 07:08:30
 * **In-App Purchasing:** No

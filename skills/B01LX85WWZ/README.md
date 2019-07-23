@@ -16,5 +16,5 @@ Watercolor Facts provides general facts about watercolor painting so new painter
 * **ID:** amzn1.ask.skill.86c806a3-e3e6-447f-8454-cfc6cd35d9e8
 * **ASIN:** B01LX85WWZ
 * **Author:** milliechan
-* **Release Date:** September 19, 2016 @ 03:44:12
+* **Release Date:** September 19, 2016 @ 04:44:12
 * **In-App Purchasing:** No

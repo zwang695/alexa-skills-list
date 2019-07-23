@@ -21,5 +21,5 @@ This skill is a short seven question comprehension quiz of Macbeth by Shakespear
 * **ID:** amzn1.echo-sdk-ams.app.742a7c10-236a-4e39-b8b3-04b7fde8fc8d
 * **ASIN:** B01EH8QK4U
 * **Author:** Cyrus Vachha
-* **Release Date:** April 25, 2016 @ 06:09:20
+* **Release Date:** April 25, 2016 @ 07:09:20
 * **In-App Purchasing:** No

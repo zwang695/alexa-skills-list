@@ -20,5 +20,5 @@ This Skill tells the probability having earthquake of 6 magnitude or higher at a
 * **ID:** amzn1.ask.skill.35ff0fa5-227f-4a2e-a1b8-9b2b5b328dea
 * **ASIN:** B01M04NGLA
 * **Author:** Muhyun
-* **Release Date:** September 29, 2016 @ 07:12:29
+* **Release Date:** September 29, 2016 @ 08:12:29
 * **In-App Purchasing:** No

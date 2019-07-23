@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.5fbfdafe-bdf1-4ea3-83c0-2d0a88f12e21
 * **ASIN:** B01N1MC2WB
 * **Author:** Lukas Masuch
-* **Release Date:** December 6, 2016 @ 01:06:03
+* **Release Date:** December 6, 2016 @ 02:06:03
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Can't decide to was to cook, ask macro meal what you should eat, and it will cho
 * **ID:** amzn1.ask.skill.e48adedc-96cd-4ab0-a58a-a0f0acf7b305
 * **ASIN:** B01MZ5Q7O4
 * **Author:** New South Technologies, LLC
-* **Release Date:** January 3, 2017 @ 09:51:06
+* **Release Date:** January 3, 2017 @ 10:51:06
 * **In-App Purchasing:** No

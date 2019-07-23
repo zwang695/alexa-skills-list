@@ -18,5 +18,5 @@ This is just a little skill that tells you how many days until the next Christma
 * **ID:** amzn1.ask.skill.28da40ab-721a-4f29-a96f-62d695f39fb8
 * **ASIN:** B01MYT8471
 * **Author:** Sean Wagner
-* **Release Date:** November 30, 2016 @ 07:05:06
+* **Release Date:** November 30, 2016 @ 08:05:06
 * **In-App Purchasing:** No

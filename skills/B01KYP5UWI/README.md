@@ -20,5 +20,5 @@ Donald Trump Fact lets you ask for a piece of trivia about Donald Trump.  The sk
 * **ID:** amzn1.ask.skill.7abc5fef-7885-4356-8fef-5cb676ddc84a
 * **ASIN:** B01KYP5UWI
 * **Author:** aceperry
-* **Release Date:** August 26, 2016 @ 03:33:07
+* **Release Date:** August 26, 2016 @ 04:33:07
 * **In-App Purchasing:** No

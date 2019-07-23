@@ -20,5 +20,5 @@ Save your home 'L' station and Alexa will help you leave home in time to catch t
 * **ID:** amzn1.echo-sdk-ams.app.d9c48e07-6b2f-4337-af5b-529847cf1dc6
 * **ASIN:** B01DDIK52I
 * **Author:** Jack Carter Industries
-* **Release Date:** March 24, 2016 @ 04:43:16
+* **Release Date:** March 24, 2016 @ 05:43:16
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Use This Day In History to ask what happened today in history to get a brief des
 * **ID:** amzn1.echo-sdk-ams.app.38915e1b-4881-480b-86e0-777dfac6ee1e
 * **ASIN:** B01DL5E2PE
 * **Author:** Allen Kramer
-* **Release Date:** April 7, 2016 @ 09:03:01
+* **Release Date:** April 7, 2016 @ 10:03:01
 * **In-App Purchasing:** No

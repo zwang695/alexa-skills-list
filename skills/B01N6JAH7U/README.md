@@ -20,5 +20,5 @@ Many words used today root back to ancient greek times. Ask Alexa for some greek
 * **ID:** amzn1.ask.skill.9fb26982-d5d6-43d2-9471-68ca8c10ccbc
 * **ASIN:** B01N6JAH7U
 * **Author:** ChristosZac
-* **Release Date:** December 28, 2016 @ 00:49:15
+* **Release Date:** December 28, 2016 @ 01:49:15
 * **In-App Purchasing:** No

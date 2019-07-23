@@ -20,5 +20,5 @@ The Crotched Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.f848896b-a9fe-40e1-9510-56e75d61025e
 * **ASIN:** B01M5FFY9E
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:47:23
+* **Release Date:** October 26, 2016 @ 02:47:23
 * **In-App Purchasing:** No

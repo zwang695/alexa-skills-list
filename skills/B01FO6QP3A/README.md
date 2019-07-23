@@ -24,5 +24,5 @@ Alexa, Ask Dinner Maker what is the recipe for meatball sub?
 * **ID:** amzn1.echo-sdk-ams.app.9eec0bab-6c2b-41aa-9457-816b3029c6d3
 * **ASIN:** B01FO6QP3A
 * **Author:** kevinvle
-* **Release Date:** May 26, 2016 @ 10:08:44
+* **Release Date:** May 26, 2016 @ 11:08:44
 * **In-App Purchasing:** No

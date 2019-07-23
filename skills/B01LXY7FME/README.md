@@ -20,5 +20,5 @@ Critical Hit is a skill to generate Critical Hit Effects for Tabletop RPG Games 
 * **ID:** amzn1.ask.skill.6724b2ec-54cc-443a-8435-782336faa24d
 * **ASIN:** B01LXY7FME
 * **Author:** BadBinary LTD
-* **Release Date:** September 29, 2016 @ 07:13:04
+* **Release Date:** September 29, 2016 @ 08:13:04
 * **In-App Purchasing:** No

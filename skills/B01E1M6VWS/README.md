@@ -20,5 +20,5 @@ This skill is very elementary and intuitive. Just open the skill and Alexa simpl
 * **ID:** amzn1.echo-sdk-ams.app.5cc7cbcc-0cf8-4b7d-901b-3364a770e9dc
 * **ASIN:** B01E1M6VWS
 * **Author:** Niccolò Avogaro
-* **Release Date:** April 18, 2016 @ 09:32:28
+* **Release Date:** April 18, 2016 @ 10:32:28
 * **In-App Purchasing:** No

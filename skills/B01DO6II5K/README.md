@@ -20,5 +20,5 @@ This app will quickly assess your front-end web development skills. Just for fun
 * **ID:** amzn1.echo-sdk-ams.app.db598a70-ed8d-4777-89f9-22b2511964dd
 * **ASIN:** B01DO6II5K
 * **Author:** Ink Squared, LLC
-* **Release Date:** April 20, 2016 @ 08:02:37
+* **Release Date:** April 20, 2016 @ 09:02:37
 * **In-App Purchasing:** No

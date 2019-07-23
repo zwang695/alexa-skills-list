@@ -18,5 +18,5 @@ This skill will recite facts about American prisons. Topics include history, cur
 * **ID:** amzn1.ask.skill.913bd8f0-f6d1-42b4-a06a-61831e4292ad
 * **ASIN:** B01N8S5BOE
 * **Author:** Michelle Wiginton
-* **Release Date:** November 17, 2016 @ 02:38:59
+* **Release Date:** November 17, 2016 @ 03:38:59
 * **In-App Purchasing:** No

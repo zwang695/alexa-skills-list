@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.d35524fc-7afa-4718-85bc-c54637f258be
 * **ASIN:** B01N4CYNXT
 * **Author:** Fapprik / Fapptory
-* **Release Date:** December 15, 2016 @ 00:49:42
+* **Release Date:** December 15, 2016 @ 01:49:42
 * **In-App Purchasing:** No

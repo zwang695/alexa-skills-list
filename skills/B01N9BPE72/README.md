@@ -20,5 +20,5 @@ Stream Watcher searches popular distribution platforms (using the fantastic cani
 * **ID:** amzn1.ask.skill.3143438e-b481-45eb-bb00-375dd445f133
 * **ASIN:** B01N9BPE72
 * **Author:** Josh Ziegler
-* **Release Date:** December 6, 2016 @ 01:36:02
+* **Release Date:** December 6, 2016 @ 02:36:02
 * **In-App Purchasing:** No

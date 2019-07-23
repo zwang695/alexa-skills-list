@@ -20,5 +20,5 @@ Futurama facts by a fan. Use this app to access random facts about this show. Un
 * **ID:** amzn1.ask.skill.ad294ed8-80d0-4d28-820e-764df0a8246a
 * **ASIN:** B01M05HPY1
 * **Author:** Marty McLaughlin
-* **Release Date:** September 24, 2016 @ 01:42:16
+* **Release Date:** September 24, 2016 @ 02:42:16
 * **In-App Purchasing:** No

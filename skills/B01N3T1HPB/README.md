@@ -20,5 +20,5 @@ These are a compilation of 122 facts from Motley Fool about the art of investing
 * **ID:** amzn1.ask.skill.b20a06d9-eae5-4ad5-8edc-76acb08d57d6
 * **ASIN:** B01N3T1HPB
 * **Author:** John Moon
-* **Release Date:** November 10, 2016 @ 00:12:55
+* **Release Date:** November 10, 2016 @ 01:12:55
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ Logo image courtesy NASA/JPL-Caltech.
 * **ID:** amzn1.ask.skill.3ef12585-21e5-4396-a55b-40f0fc900b84
 * **ASIN:** B01N002EZY
 * **Author:** KJH Software LLC
-* **Release Date:** December 15, 2016 @ 08:19:42
+* **Release Date:** December 15, 2016 @ 09:19:42
 * **In-App Purchasing:** No

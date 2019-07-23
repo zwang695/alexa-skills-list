@@ -20,7 +20,7 @@ Carly is a voice-activated coach for Amazon Echo that helps users understand the
 * **ID:** amzn1.echo-sdk-ams.app.7cedcafc-0757-49d2-a0b5-362d917b2eac
 * **ASIN:** B01DX5N37U
 * **Author:** Logisome Inc
-* **Release Date:** April 18, 2016 @ 10:02:27
+* **Release Date:** April 18, 2016 @ 11:02:27
 * **Privacy Policy:** http://www.logisome.com/terms-of-use
 * **Terms of Use:** http://www.logisome.com/terms-of-use
 * **In-App Purchasing:** No

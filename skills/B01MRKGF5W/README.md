@@ -20,5 +20,5 @@ MovieBot converses with you about new and forthcoming movies. To get the convers
 * **ID:** amzn1.ask.skill.2ca1d72f-7882-4f40-9fd6-8d2058a3cc38
 * **ASIN:** B01MRKGF5W
 * **Author:** Amazon.com
-* **Release Date:** November 18, 2016 @ 02:05:20
+* **Release Date:** November 18, 2016 @ 03:05:20
 * **In-App Purchasing:** No

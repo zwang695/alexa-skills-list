@@ -20,5 +20,5 @@ Learn interesting facts about the New England states such as the state flower, s
 * **ID:** amzn1.ask.skill.bdf0cd9b-f70e-4f58-b856-141bdae53cb1
 * **ASIN:** B01JO4XZ9K
 * **Author:** Eric Gauvin
-* **Release Date:** August 5, 2016 @ 01:07:27
+* **Release Date:** August 5, 2016 @ 02:07:27
 * **In-App Purchasing:** No

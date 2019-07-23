@@ -30,5 +30,5 @@ HINT: It is good to say 'and' between the numbers with a slight pause, this help
 * **ID:** amzn1.echo-sdk-ams.app.03d9d43e-a8b0-4eba-93ae-260960ae9a6b
 * **ASIN:** B01COTHDSG
 * **Author:** Don Holmberg
-* **Release Date:** March 8, 2016 @ 01:17:18
+* **Release Date:** March 8, 2016 @ 02:17:18
 * **In-App Purchasing:** No

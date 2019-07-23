@@ -20,5 +20,5 @@ TDD quiz asks five questions at a time regarding test driven development and kee
 * **ID:** amzn1.echo-sdk-ams.app.48a6184d-3e99-4c8f-9675-6d2559183036
 * **ASIN:** B01I7C11J6
 * **Author:** Magnus Lassi
-* **Release Date:** July 13, 2016 @ 06:27:36
+* **Release Date:** July 13, 2016 @ 07:27:36
 * **In-App Purchasing:** No

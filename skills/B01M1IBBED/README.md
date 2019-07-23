@@ -20,5 +20,5 @@ This skill gives you random informational bits about coffee and different aspect
 * **ID:** amzn1.ask.skill.f18d9e96-213c-41cc-b8e8-d7909149ab76
 * **ASIN:** B01M1IBBED
 * **Author:** Rose Dev
-* **Release Date:** September 29, 2016 @ 06:42:42
+* **Release Date:** September 29, 2016 @ 07:42:42
 * **In-App Purchasing:** No

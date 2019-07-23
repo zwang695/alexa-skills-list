@@ -20,7 +20,7 @@ History happens every day! Check in with Alexa to find out about the historical 
 * **ID:** amzn1.ask.skill.fb9ebcfa-7316-40d8-bde4-e27f125511f2
 * **ASIN:** B01N92PFXG
 * **Author:** A&E Television Networks Mobile
-* **Release Date:** December 19, 2016 @ 13:19:36
+* **Release Date:** December 19, 2016 @ 14:19:36
 * **Privacy Policy:** http://www.aenetworks.com/privacy
 * **Terms of Use:** http://www.aenetworks.com/terms
 * **In-App Purchasing:** No

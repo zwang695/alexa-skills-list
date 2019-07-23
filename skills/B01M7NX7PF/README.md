@@ -24,6 +24,6 @@ For support, contact pulse-eight direct at www.pulse-eight.com
 * **ID:** amzn1.ask.skill.1287aef7-422f-4ab3-bbd5-844b487e0924
 * **ASIN:** B01M7NX7PF
 * **Author:** Pulse-Eight Limited
-* **Release Date:** December 19, 2016 @ 16:19:27
+* **Release Date:** December 19, 2016 @ 17:19:27
 * **Privacy Policy:** http://www.pulse-eight.com/privacy
 * **In-App Purchasing:** No

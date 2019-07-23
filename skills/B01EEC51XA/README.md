@@ -20,5 +20,5 @@ Get the latest information from the premier healthy eating blog Eat, Pray, Get W
 * **ID:** amzn1.echo-sdk-ams.app.9e3ed426-c66b-47cf-bea5-3a0cca070a06
 * **ASIN:** B01EEC51XA
 * **Author:** GamerZinc
-* **Release Date:** May 27, 2016 @ 07:38:41
+* **Release Date:** May 27, 2016 @ 08:38:41
 * **In-App Purchasing:** No

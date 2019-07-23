@@ -20,7 +20,7 @@ Retrieves information from the NREL patent database in response to queries.
 * **ID:** amzn1.ask.skill.e7d9e6d4-0d82-4fa8-b33b-b0e736694fe2
 * **ASIN:** B01JIBY4E4
 * **Author:** Singular Software Inc.
-* **Release Date:** August 8, 2016 @ 06:07:46
+* **Release Date:** August 8, 2016 @ 07:07:46
 * **Privacy Policy:** http://singsoftnext.com/policies/
 * **Terms of Use:** http://singsoftnext.com/policies/
 * **In-App Purchasing:** No

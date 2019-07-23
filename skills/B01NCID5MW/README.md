@@ -20,5 +20,5 @@ Random facts about dogs
 * **ID:** amzn1.ask.skill.ab8223b3-a6f7-4e8c-b9c4-4b150320c404
 * **ASIN:** B01NCID5MW
 * **Author:** Zan Software
-* **Release Date:** December 30, 2016 @ 03:49:03
+* **Release Date:** December 30, 2016 @ 04:49:03
 * **In-App Purchasing:** No

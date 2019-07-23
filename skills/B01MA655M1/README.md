@@ -20,5 +20,5 @@ The Snow Creek Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.02f1ae94-1752-435a-80ab-938640398fee
 * **ASIN:** B01MA655M1
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:46:13
+* **Release Date:** October 21, 2016 @ 15:46:13
 * **In-App Purchasing:** No

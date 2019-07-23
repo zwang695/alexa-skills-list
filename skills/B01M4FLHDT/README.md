@@ -16,5 +16,5 @@ Here is a set of questions to 'stump' your knowledge on plants!
 * **ID:** amzn1.ask.skill.515339f1-d0f7-4350-9f62-589c5bdded94
 * **ASIN:** B01M4FLHDT
 * **Author:** JustinCadburyWong
-* **Release Date:** October 10, 2016 @ 06:42:02
+* **Release Date:** October 10, 2016 @ 07:42:02
 * **In-App Purchasing:** No

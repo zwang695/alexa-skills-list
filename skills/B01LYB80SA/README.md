@@ -20,5 +20,5 @@ The Whitewater Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.7bec6722-1813-4523-ae8c-1d7ff59686f6
 * **ASIN:** B01LYB80SA
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:45:45
+* **Release Date:** October 20, 2016 @ 04:45:45
 * **In-App Purchasing:** No

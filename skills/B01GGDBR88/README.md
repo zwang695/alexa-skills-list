@@ -22,5 +22,5 @@ Get started by configuring Alexa to remember the default bus stop near your home
 * **ID:** amzn1.echo-sdk-ams.app.2be9039e-7921-4836-8414-abf2a780f457
 * **ASIN:** B01GGDBR88
 * **Author:** honcheng
-* **Release Date:** June 13, 2016 @ 09:39:45
+* **Release Date:** June 13, 2016 @ 10:39:45
 * **In-App Purchasing:** No

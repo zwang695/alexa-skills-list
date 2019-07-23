@@ -20,5 +20,5 @@ Pool and Tennis court information for members of the Mill Ponds Homeowners Assoc
 * **ID:** amzn1.ask.skill.8705eb74-dd32-4ba4-b2ab-7935ad8c461e
 * **ASIN:** B01KAHBLQY
 * **Author:** kable industries
-* **Release Date:** August 19, 2016 @ 01:22:32
+* **Release Date:** August 19, 2016 @ 02:22:32
 * **In-App Purchasing:** No

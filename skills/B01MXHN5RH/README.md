@@ -20,5 +20,5 @@ The McCauley Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.ac7d59f3-f708-4ca2-bb7d-2df92ea4e1d7
 * **ASIN:** B01MXHN5RH
 * **Author:** SnoCountry
-* **Release Date:** November 8, 2016 @ 01:43:02
+* **Release Date:** November 8, 2016 @ 02:43:02
 * **In-App Purchasing:** No

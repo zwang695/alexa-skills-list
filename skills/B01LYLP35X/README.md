@@ -64,7 +64,7 @@ Help
 * **ID:** amzn1.ask.skill.d2893738-d6b2-4606-b47d-9d9c1e83d1b6
 * **ASIN:** B01LYLP35X
 * **Author:** Guardian News & Media
-* **Release Date:** September 27, 2016 @ 16:12:09
+* **Release Date:** September 27, 2016 @ 17:12:09
 * **Privacy Policy:** https://www.theguardian.com/help/privacy-policy
 * **Terms of Use:** https://www.theguardian.com/help/terms-of-service
 * **In-App Purchasing:** No

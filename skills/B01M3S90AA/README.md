@@ -20,5 +20,5 @@ The Big Squaw Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.c232891e-ed62-4652-9300-facd21e53697
 * **ASIN:** B01M3S90AA
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:15:02
+* **Release Date:** October 21, 2016 @ 15:15:02
 * **In-App Purchasing:** No

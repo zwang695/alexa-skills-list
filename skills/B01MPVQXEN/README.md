@@ -22,7 +22,7 @@ After downloading and installing a program (Windows, OSX or Linux), Alexa can al
 * **ID:** amzn1.ask.skill.9c13379e-8ae0-4923-8aef-460f8c9c3c53
 * **ASIN:** B01MPVQXEN
 * **Author:** DSLReports.com
-* **Release Date:** November 14, 2016 @ 00:12:45
+* **Release Date:** November 14, 2016 @ 01:12:45
 * **Privacy Policy:** https://www.dslreports.com/privacy
 * **Terms of Use:** https://www.dslreports.com/terms-of-use?alexa
 * **Account Linking Domains:** i.dslr.net

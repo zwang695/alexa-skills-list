@@ -22,5 +22,5 @@ Just ask Alexa "tell me a San Francisco fact" and she will teach you an interest
 * **ID:** amzn1.ask.skill.cab67191-ec7a-41a0-a618-fe6c4761e3e0
 * **ASIN:** B01MEHM2AI
 * **Author:** lewis.ai
-* **Release Date:** October 25, 2016 @ 01:46:34
+* **Release Date:** October 25, 2016 @ 02:46:34
 * **In-App Purchasing:** No

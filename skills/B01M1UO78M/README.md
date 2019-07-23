@@ -20,5 +20,5 @@ The Summit at Snoqualmie-East Snow Report brought to you by SnoCountry brings yo
 * **ID:** amzn1.ask.skill.d6b19ddb-cf23-4c9b-9aef-f54fc649785a
 * **ASIN:** B01M1UO78M
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:17:21
+* **Release Date:** October 20, 2016 @ 04:17:21
 * **In-App Purchasing:** No

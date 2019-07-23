@@ -22,5 +22,5 @@ If you have feature requests, just write us at info@imperiumapps.com
 * **ID:** amzn1.ask.skill.4789fa91-441d-4f60-b659-070e930bc7e5
 * **ASIN:** B01MT13RKU
 * **Author:** Imperium Apps GmbH
-* **Release Date:** December 28, 2016 @ 04:48:53
+* **Release Date:** December 28, 2016 @ 05:48:53
 * **In-App Purchasing:** No

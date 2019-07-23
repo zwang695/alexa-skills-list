@@ -16,5 +16,5 @@ Use Alexa to control your ship in Elite Dangerous. She can control ship function
 * **ID:** amzn1.ask.skill.09a99747-df49-4053-a002-0adcf4000611
 * **ASIN:** B01NA9AJES
 * **Author:** Austin Wilson
-* **Release Date:** December 13, 2016 @ 07:55:08
+* **Release Date:** December 13, 2016 @ 08:55:08
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Random Muse randomly combines ideas to generate prompts for writers, artists, an
 * **ID:** amzn1.echo-sdk-ams.app.446e94c5-4f5b-4301-bf53-578e80681820
 * **ASIN:** B01EKJ16HM
 * **Author:** Eric Gregory
-* **Release Date:** April 25, 2016 @ 10:08:37
+* **Release Date:** April 25, 2016 @ 11:08:37
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ This skill shows how Alexa skill can help a person prepare for this test.
 * **ID:** amzn1.echo-sdk-ams.app.e819cabd-a849-4d75-86b8-f50754174cfd
 * **ASIN:** B01IHCTDPA
 * **Author:** chameleon Wireless
-* **Release Date:** August 5, 2016 @ 08:07:31
+* **Release Date:** August 5, 2016 @ 09:07:31
 * **In-App Purchasing:** No

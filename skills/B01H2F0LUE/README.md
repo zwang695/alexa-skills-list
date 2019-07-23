@@ -22,5 +22,5 @@ More information about the API can be found here: http://marsweather.ingenology.
 * **ID:** amzn1.echo-sdk-ams.app.2f267562-cfc2-4ff4-a53e-54860d2dcc20
 * **ASIN:** B01H2F0LUE
 * **Author:** Photon Solutions
-* **Release Date:** June 25, 2016 @ 07:45:31
+* **Release Date:** June 25, 2016 @ 08:45:31
 * **In-App Purchasing:** No

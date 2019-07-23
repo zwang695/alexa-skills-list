@@ -20,5 +20,5 @@ This skill will tell you random board game facts.
 * **ID:** amzn1.ask.skill.d1fa6039-a383-4fb2-8602-470dcb00d41c
 * **ASIN:** B01M70Y4XB
 * **Author:** Bakka
-* **Release Date:** November 2, 2016 @ 01:42:45
+* **Release Date:** November 2, 2016 @ 02:42:45
 * **In-App Purchasing:** No

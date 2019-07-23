@@ -20,5 +20,5 @@ Alexa gives you GLaDOS's (pronounced GLA-dis) opinion of random things, Aperture
 * **ID:** amzn1.echo-sdk-ams.app.69e046e4-c2fe-4b03-ba25-debec9024a6e
 * **ASIN:** B018YKD1T4
 * **Author:** Mewsikat
-* **Release Date:** December 4, 2015 @ 17:58:29
+* **Release Date:** December 4, 2015 @ 18:58:29
 * **In-App Purchasing:** No

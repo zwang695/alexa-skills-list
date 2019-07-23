@@ -20,5 +20,5 @@ Want to know what's going on in the world but a little short on time? Alexa can 
 * **ID:** amzn1.echo-sdk-ams.app.cad10f38-2f37-4d9a-8fcc-1ab1791ce3e4
 * **ASIN:** B01F9VJXL6
 * **Author:** CaptainQuirk
-* **Release Date:** May 12, 2016 @ 05:38:44
+* **Release Date:** May 12, 2016 @ 06:38:44
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Usage is very simple, every time you ask Echo if you fed the dog it will tell yo
 * **ID:** amzn1.echo-sdk-ams.app.33453f04-3e10-4171-aea5-a05f00af73df
 * **ASIN:** B01AKT2H5G
 * **Author:** Underscore Research LLC
-* **Release Date:** January 13, 2016 @ 16:59:08
+* **Release Date:** January 13, 2016 @ 17:59:08
 * **In-App Purchasing:** No

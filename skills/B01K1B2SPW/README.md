@@ -20,5 +20,5 @@ In this skill you will learn facts about Tigers, such as what different types of
 * **ID:** amzn1.ask.skill.ba312f64-250d-4ec3-add8-d725ee4501ce
 * **ASIN:** B01K1B2SPW
 * **Author:** Personal
-* **Release Date:** August 11, 2016 @ 02:37:44
+* **Release Date:** August 11, 2016 @ 03:37:44
 * **In-App Purchasing:** No

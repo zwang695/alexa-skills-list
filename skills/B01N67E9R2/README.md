@@ -20,5 +20,5 @@ Test your knowledge of Kansas City!
 * **ID:** amzn1.ask.skill.fb2c92df-b72d-41d3-a586-ca89caea3d21
 * **ASIN:** B01N67E9R2
 * **Author:** Free State, LLC
-* **Release Date:** November 25, 2016 @ 04:08:40
+* **Release Date:** November 25, 2016 @ 05:08:40
 * **In-App Purchasing:** No

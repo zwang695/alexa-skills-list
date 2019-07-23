@@ -20,5 +20,5 @@ Curious about the field of aviation? Ask airplane fact genius for facts and triv
 * **ID:** amzn1.ask.skill.772b30db-8a6c-4a6c-9e2c-748230696a3b
 * **ASIN:** B01IUT35G8
 * **Author:** htse
-* **Release Date:** July 25, 2016 @ 05:56:55
+* **Release Date:** July 25, 2016 @ 06:56:55
 * **In-App Purchasing:** No

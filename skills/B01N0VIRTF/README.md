@@ -20,5 +20,5 @@ This is a simple skill which provides you with random facts about the history of
 * **ID:** amzn1.ask.skill.68a70031-ac7e-4897-991f-77d0b40e8783
 * **ASIN:** B01N0VIRTF
 * **Author:** Smoogiee
-* **Release Date:** December 30, 2016 @ 00:18:56
+* **Release Date:** December 30, 2016 @ 01:18:56
 * **In-App Purchasing:** No

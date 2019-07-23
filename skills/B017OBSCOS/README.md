@@ -22,5 +22,5 @@ The game continues until someone fails to respond to the next word or you say Ex
 * **ID:** amzn1.echo-sdk-ams.app.d6b53286-5fec-4e66-84c4-07ff80e7c58b
 * **ASIN:** B017OBSCOS
 * **Author:** Bhokaal Labs
-* **Release Date:** November 6, 2015 @ 14:16:09
+* **Release Date:** November 6, 2015 @ 15:16:09
 * **In-App Purchasing:** No

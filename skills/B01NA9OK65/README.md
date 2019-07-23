@@ -22,5 +22,5 @@ Want to find out how many and which lifts are open at a ski area, how the access
 * **ID:** amzn1.ask.skill.47a399b0-e485-47d6-a2d5-fd85610ab164
 * **ASIN:** B01NA9OK65
 * **Author:** Simon Hanmer
-* **Release Date:** December 9, 2016 @ 03:19:17
+* **Release Date:** December 9, 2016 @ 04:19:17
 * **In-App Purchasing:** No

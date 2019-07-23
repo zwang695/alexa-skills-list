@@ -20,5 +20,5 @@ There are 100+ quotations from thought leaders and visionaries.  Each quotation 
 * **ID:** amzn1.ask.skill.356d3567-dc20-46ba-b50a-d6c7a71d7297
 * **ASIN:** B01JVWTYZY
 * **Author:** JasonL
-* **Release Date:** August 8, 2016 @ 07:37:27
+* **Release Date:** August 8, 2016 @ 08:37:27
 * **In-App Purchasing:** No

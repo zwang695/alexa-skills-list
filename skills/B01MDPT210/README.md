@@ -20,5 +20,5 @@ This gives you facts about cats
 * **ID:** amzn1.ask.skill.2f38bafa-ac7e-431e-b2fd-2bb3433d695f
 * **ASIN:** B01MDPT210
 * **Author:** student
-* **Release Date:** October 29, 2016 @ 12:12:30
+* **Release Date:** October 29, 2016 @ 13:12:30
 * **In-App Purchasing:** No

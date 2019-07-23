@@ -20,7 +20,7 @@ The Echo Group provides a federally certified Behavioral Health Electronic Medic
 * **ID:** amzn1.echo-sdk-ams.app.40b02e37-e4a6-4115-aa76-9a340a8f45e4
 * **ASIN:** B01HJ6XAFE
 * **Author:** The Echo Group
-* **Release Date:** August 17, 2016 @ 03:52:17
+* **Release Date:** August 17, 2016 @ 04:52:17
 * **Privacy Policy:** http://www.echoman.com/privacy/
 * **Account Linking Domains:** echoapi.echoehr.com
 * **In-App Purchasing:** No

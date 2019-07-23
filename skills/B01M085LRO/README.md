@@ -21,5 +21,5 @@ Alexa.. laugh!
 * **ID:** amzn1.ask.skill.dfc4f843-2a55-4886-9be3-633ea7ee8b3b
 * **ASIN:** B01M085LRO
 * **Author:** Davide Mazzanti
-* **Release Date:** October 5, 2016 @ 00:42:34
+* **Release Date:** October 5, 2016 @ 01:42:34
 * **In-App Purchasing:** No

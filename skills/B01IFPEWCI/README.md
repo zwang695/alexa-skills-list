@@ -20,5 +20,5 @@ With this skill, Alexa learns a whole bunch of fun facts about sloths. Simply as
 * **ID:** amzn1.echo-sdk-ams.app.8b2ac570-4e24-42b0-acd1-0ef6bf57fab3
 * **ASIN:** B01IFPEWCI
 * **Author:** woodlandh
-* **Release Date:** July 18, 2016 @ 03:27:27
+* **Release Date:** July 18, 2016 @ 04:27:27
 * **In-App Purchasing:** No

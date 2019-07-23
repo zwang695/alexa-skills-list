@@ -22,5 +22,5 @@ Just ask Oscar to give you one of this famous quotes or tell you something smart
 * **ID:** amzn1.echo-sdk-ams.app.2fc6cec1-19af-44c9-a76d-9b634172395a
 * **ASIN:** B01IE38ER0
 * **Author:** FINIK LABS LLC
-* **Release Date:** July 20, 2016 @ 08:27:45
+* **Release Date:** July 20, 2016 @ 09:27:45
 * **In-App Purchasing:** No

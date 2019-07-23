@@ -20,5 +20,5 @@ First world problems are problems related to living a wealthy, industrialized na
 * **ID:** amzn1.ask.skill.a7f62829-f4b9-4092-8622-08d854aa1c25
 * **ASIN:** B01MAUXTP8
 * **Author:** Litezen
-* **Release Date:** October 14, 2016 @ 01:46:14
+* **Release Date:** October 14, 2016 @ 02:46:14
 * **In-App Purchasing:** No

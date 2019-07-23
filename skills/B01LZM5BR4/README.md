@@ -20,5 +20,5 @@ The Arizona Snowbowl Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.c2eff689-468a-4d63-bac3-ad36cafb60a6
 * **ASIN:** B01LZM5BR4
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:14:38
+* **Release Date:** October 20, 2016 @ 04:14:38
 * **In-App Purchasing:** No

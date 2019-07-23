@@ -20,5 +20,5 @@ When asked, Inspirational Quotes will tell the user a random quote that may lift
 * **ID:** amzn1.ask.skill.a9614a44-b69c-408a-bf29-f5138e929214
 * **ASIN:** B01M0UYQ35
 * **Author:** Dogbeast
-* **Release Date:** October 5, 2016 @ 00:42:28
+* **Release Date:** October 5, 2016 @ 01:42:28
 * **In-App Purchasing:** No

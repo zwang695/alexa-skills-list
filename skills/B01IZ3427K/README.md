@@ -21,5 +21,5 @@ Simply say "Alex, start Artie's World" to get started!
 * **ID:** amzn1.echo-sdk-ams.app.05d45434-250c-49fa-9f0c-ae7eb2b53827
 * **ASIN:** B01IZ3427K
 * **Author:** Arturo Ceballos
-* **Release Date:** July 28, 2016 @ 04:26:35
+* **Release Date:** July 28, 2016 @ 05:26:35
 * **In-App Purchasing:** No

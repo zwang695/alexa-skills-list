@@ -21,5 +21,5 @@ You can simply ask for the status of a species, for example: "What is the status
 * **ID:** amzn1.ask.skill.2f90a02e-ba3e-40e5-b00a-b7d713ecbd25
 * **ASIN:** B01N4DZ4LM
 * **Author:** obreit
-* **Release Date:** December 16, 2016 @ 02:49:32
+* **Release Date:** December 16, 2016 @ 03:49:32
 * **In-App Purchasing:** No

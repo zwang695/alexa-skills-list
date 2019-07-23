@@ -22,5 +22,5 @@ Has top schools for biology, computer science, computer engineering, business, c
 * **ID:** amzn1.ask.skill.940cafe0-0af3-430b-936a-f0eb8d70bc51
 * **ASIN:** B01MQEZZ84
 * **Author:** Wiliam X
-* **Release Date:** November 10, 2016 @ 00:43:15
+* **Release Date:** November 10, 2016 @ 01:43:15
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Learn about bats with bat facts!
 * **ID:** amzn1.ask.skill.86b89da3-abc7-472a-ad52-89ce9a7d0211
 * **ASIN:** B01KKZFCX4
 * **Author:** Zak Strassberg
-* **Release Date:** August 19, 2016 @ 01:22:38
+* **Release Date:** August 19, 2016 @ 02:22:38
 * **In-App Purchasing:** No

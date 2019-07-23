@@ -20,5 +20,5 @@ The Alpine Meadows Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.706873a2-e19e-4cf7-bd59-3142e704cd52
 * **ASIN:** B01M0OMUOV
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:14:50
+* **Release Date:** October 20, 2016 @ 04:14:50
 * **In-App Purchasing:** No

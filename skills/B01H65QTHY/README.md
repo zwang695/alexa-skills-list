@@ -20,5 +20,5 @@ The app returns facts about the greatest person in the world, Adam Pippert.  No 
 * **ID:** amzn1.echo-sdk-ams.app.5024c565-b6f9-4711-a1d9-fda80da53598
 * **ASIN:** B01H65QTHY
 * **Author:** Adam Pippert
-* **Release Date:** June 20, 2016 @ 01:15:34
+* **Release Date:** June 20, 2016 @ 02:15:34
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ This fact skill shares information and facts about german city hanover
 * **ID:** amzn1.ask.skill.530d3d0c-2926-4c32-871e-402247ce190c
 * **ASIN:** B01MZWKKUL
 * **Author:** Steffen Legler
-* **Release Date:** November 25, 2016 @ 08:35:47
+* **Release Date:** November 25, 2016 @ 09:35:47
 * **In-App Purchasing:** No

@@ -28,7 +28,7 @@ This skill may not be suitable for all ages as it allows new user signups and li
 * **ID:** amzn1.ask.skill.c0a08fa1-b6e5-4589-9cac-e8b518b867f1
 * **ASIN:** B01L63CWFU
 * **Author:** ZOMA LLC
-* **Release Date:** September 19, 2016 @ 20:11:30
+* **Release Date:** September 19, 2016 @ 21:11:30
 * **Privacy Policy:** http://www.zoma.io/Home/Privacy
 * **Terms of Use:** http://www.zoma.io/Home/Terms
 * **Account Linking Domains:** zoma.io

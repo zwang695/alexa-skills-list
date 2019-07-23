@@ -24,7 +24,7 @@ Once your Pizza Hut account is linked, just say, “Alexa, open Pizza Hut” or 
 * **ID:** amzn1.ask.skill.5531fe8f-6f47-489d-8116-2ab29cbaf19f
 * **ASIN:** B01MSXEBMC
 * **Author:** Pizza Hut
-* **Release Date:** December 16, 2016 @ 08:19:18
+* **Release Date:** December 16, 2016 @ 09:19:18
 * **Privacy Policy:** https://www.pizzahut.com/privacy-policy
 * **Account Linking Domains:** staging-m-deploy.pizzahut.com, pizzahut.com, mobile.pizzahut.com, www.google.com, www.googletagmanager.com, www.google-analytics.com, www.gstatic.com, sp.analytics.yahoo.com, s.amazon-adsystem.com, assets.secure.checkout.visa.com, ecn.dev.virtualearth.net, www.pizzahut.com, 10523621.collect.igodigital.com, mobile.staging-m-deploy.pizzahut.com, connect.facebook.net
 * **In-App Purchasing:** Yes

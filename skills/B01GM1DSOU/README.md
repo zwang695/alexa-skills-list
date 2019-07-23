@@ -20,5 +20,5 @@ This skill gives out a random machine learning approach, varying from decision t
 * **ID:** amzn1.echo-sdk-ams.app.5c3d4942-7ba0-4d19-a034-c8d384d36997
 * **ASIN:** B01GM1DSOU
 * **Author:** erictleung
-* **Release Date:** June 9, 2016 @ 04:39:29
+* **Release Date:** June 9, 2016 @ 05:39:29
 * **In-App Purchasing:** No

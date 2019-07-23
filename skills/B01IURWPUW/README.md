@@ -20,5 +20,5 @@ Interesting facts about dogs and information.
 * **ID:** amzn1.ask.skill.68de8e3d-a081-445a-a371-b5363c051648
 * **ASIN:** B01IURWPUW
 * **Author:** LJohnson
-* **Release Date:** July 26, 2016 @ 03:56:22
+* **Release Date:** July 26, 2016 @ 04:56:22
 * **In-App Purchasing:** No

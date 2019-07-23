@@ -28,5 +28,5 @@ Word of the Day API by Wordnik <3
 * **ID:** amzn1.ask.skill.c53a9b05-746d-4ed8-93dc-ecc7964d3349
 * **ASIN:** B01LY0335O
 * **Author:** Bugtar Press
-* **Release Date:** October 14, 2016 @ 02:17:45
+* **Release Date:** October 14, 2016 @ 03:17:45
 * **In-App Purchasing:** No

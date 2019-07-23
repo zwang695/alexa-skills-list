@@ -20,5 +20,5 @@ Curious about using a 13 month calendar, also known as the International Fixed C
 * **ID:** amzn1.echo-sdk-ams.app.0ad69485-a637-46a2-ac47-fac3a83d2d9f
 * **ASIN:** B01IGQ0U5Y
 * **Author:** woodlandh
-* **Release Date:** July 25, 2016 @ 05:56:40
+* **Release Date:** July 25, 2016 @ 06:56:40
 * **In-App Purchasing:** No

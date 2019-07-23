@@ -20,7 +20,7 @@ This skill is an acoustical metronome that plays a regular drumbeat. You can use
 * **ID:** amzn1.echo-sdk-ams.app.0d1f536e-568b-40f1-ab73-718bbbafc58f
 * **ASIN:** B01B6UGXXK
 * **Author:** TsaTsaTzu
-* **Release Date:** January 28, 2016 @ 21:12:01
+* **Release Date:** January 28, 2016 @ 22:12:01
 * **Privacy Policy:** http://ocean-of-storms.com/tsatsatzu/legal/am_privacy.htm
 * **Terms of Use:** http://ocean-of-storms.com/tsatsatzu/legal/am_terms.htm
 * **In-App Purchasing:** No

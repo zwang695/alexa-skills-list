@@ -20,5 +20,5 @@ Listen to bible verses that are selected with care. Enhance your spiritual life 
 * **ID:** amzn1.echo-sdk-ams.app.de21f67e-5eaf-43f4-b0a2-d3a0d713ad9d
 * **ASIN:** B01GMGJKV0
 * **Author:** SGKim
-* **Release Date:** June 8, 2016 @ 07:41:49
+* **Release Date:** June 8, 2016 @ 08:41:49
 * **In-App Purchasing:** No

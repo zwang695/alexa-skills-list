@@ -20,7 +20,7 @@ Ask Kit to recommend products for your hobbies, gifts, or for getting things don
 * **ID:** amzn1.ask.skill.f61050ea-e312-4cb7-aaa6-1d2ee8a64e01
 * **ASIN:** B01LZ4LLP3
 * **Author:** Kit
-* **Release Date:** November 4, 2016 @ 19:13:08
+* **Release Date:** November 4, 2016 @ 20:13:08
 * **Privacy Policy:** http://kit.com/terms#privacy
 * **Terms of Use:** http://kit.com/terms
 * **In-App Purchasing:** No

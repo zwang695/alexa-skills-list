@@ -20,5 +20,5 @@ This skill can be used to get region information associated with any telephone n
 * **ID:** amzn1.ask.skill.b8742b68-8fd8-49d5-9aa8-90743f792e83
 * **ASIN:** B01MRHYT4G
 * **Author:** SKS INC.
-* **Release Date:** November 17, 2016 @ 23:35:43
+* **Release Date:** November 18, 2016 @ 00:35:43
 * **In-App Purchasing:** No

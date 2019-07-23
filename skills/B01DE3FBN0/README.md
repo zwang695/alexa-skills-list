@@ -20,5 +20,5 @@ If you say "Alexa play 80's Movie Trivia" you will be presented with 5 questions
 * **ID:** amzn1.echo-sdk-ams.app.17a1a310-8f50-4133-99ed-8a1a2ff693df
 * **ASIN:** B01DE3FBN0
 * **Author:** DSApps
-* **Release Date:** March 24, 2016 @ 13:03:44
+* **Release Date:** March 24, 2016 @ 14:03:44
 * **In-App Purchasing:** No

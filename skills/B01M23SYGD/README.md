@@ -21,7 +21,7 @@ say, more help.   Thank you.  Digital Spring Apps.
 * **ID:** amzn1.ask.skill.f5515fa0-7473-461a-9338-bceef2e41de0
 * **ASIN:** B01M23SYGD
 * **Author:** Digital Spring Apps
-* **Release Date:** October 25, 2016 @ 01:47:10
+* **Release Date:** October 25, 2016 @ 02:47:10
 * **Privacy Policy:** http://www.digitalspringapps.com/apps/mtprivacy
 * **Terms of Use:** http://www.digitalspringapps.com/apps/mtprivacy
 * **In-App Purchasing:** No

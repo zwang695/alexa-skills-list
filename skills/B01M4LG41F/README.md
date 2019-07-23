@@ -20,5 +20,5 @@ The Mount Abram Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.b0027c28-cd9c-4699-95dd-c5e38517909f
 * **ASIN:** B01M4LG41F
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:47:12
+* **Release Date:** October 21, 2016 @ 15:47:12
 * **In-App Purchasing:** No

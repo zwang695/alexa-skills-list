@@ -20,5 +20,5 @@ Simply ask "Bitcoin Geek" for a tidbit of bitcoin trivia, and it will tell you o
 * **ID:** amzn1.ask.skill.7ab0b04e-a0ae-452e-98b6-e83125582d25
 * **ASIN:** B01N5JJT83
 * **Author:** Blurain
-* **Release Date:** December 28, 2016 @ 00:49:23
+* **Release Date:** December 28, 2016 @ 01:49:23
 * **In-App Purchasing:** No

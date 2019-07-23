@@ -20,5 +20,5 @@ The Wintergreen Resort Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.a4833b05-e237-4d4e-98e7-c586f035ced1
 * **ASIN:** B01M2DDVN0
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:16:16
+* **Release Date:** November 4, 2016 @ 09:16:16
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This fact skill teaches you about the origins of the Electoral College.
 * **ID:** amzn1.ask.skill.9c79d2ba-e6a1-45ad-b57a-df709821338d
 * **ASIN:** B01NALBNPB
 * **Author:** John Moon
-* **Release Date:** December 21, 2016 @ 07:19:22
+* **Release Date:** December 21, 2016 @ 08:19:22
 * **In-App Purchasing:** No

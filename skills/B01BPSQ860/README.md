@@ -24,7 +24,7 @@ It will also tell you how much the price has changed over the last 24 hours so y
 * **ID:** amzn1.echo-sdk-ams.app.81d581f1-cf3f-43e6-97b3-e8e47ce7cec8
 * **ASIN:** B01BPSQ860
 * **Author:** DynaSolve
-* **Release Date:** February 12, 2016 @ 18:53:19
+* **Release Date:** February 12, 2016 @ 19:53:19
 * **Privacy Policy:** http://www.dynasolve.com/cryptonow/privacy
 * **Terms of Use:** http://www.dynasolve.com/cryptonow/termsofuse
 * **In-App Purchasing:** No

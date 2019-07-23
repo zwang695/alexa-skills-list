@@ -24,5 +24,5 @@ Alexa, ask Cloud Helper what is the definition of cloud computing?
 * **ID:** amzn1.echo-sdk-ams.app.67f14a05-d628-4e8e-9788-51b7e5e7a12b
 * **ASIN:** B01GAW00J2
 * **Author:** Drew Firment
-* **Release Date:** June 3, 2016 @ 07:39:01
+* **Release Date:** June 3, 2016 @ 08:39:01
 * **In-App Purchasing:** No

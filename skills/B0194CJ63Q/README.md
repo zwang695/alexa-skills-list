@@ -22,5 +22,5 @@ Visit: http://bit.ly/alexaphonefinder to install the android app
 * **ID:** amzn1.echo-sdk-ams.app.206a0caf-4f91-44b4-bb42-96bde64c7214
 * **ASIN:** B0194CJ63Q
 * **Author:** Caricaturers
-* **Release Date:** December 8, 2015 @ 20:25:55
+* **Release Date:** December 8, 2015 @ 21:25:55
 * **In-App Purchasing:** No

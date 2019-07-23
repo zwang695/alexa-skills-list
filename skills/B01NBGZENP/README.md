@@ -44,6 +44,6 @@ Brought to you by ScripturesEveryDay.com
 * **ID:** amzn1.ask.skill.95980f3c-7c83-47dd-b85b-6d59ec92229c
 * **ASIN:** B01NBGZENP
 * **Author:** Seafish Productions
-* **Release Date:** December 11, 2016 @ 03:19:26
+* **Release Date:** December 11, 2016 @ 04:19:26
 * **Privacy Policy:** https://www.scriptureseveryday.com/#/privacy
 * **In-App Purchasing:** No

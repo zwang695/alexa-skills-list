@@ -53,5 +53,5 @@ Detailed instructions can be found at: https://github.com/TusharChugh/SmartCap
 * **ID:** amzn1.echo-sdk-ams.app.0c211eaf-e37d-411d-b975-8ed7dd51368a
 * **ASIN:** B01HZ9AETK
 * **Author:** Tushar
-* **Release Date:** August 26, 2016 @ 16:02:36
+* **Release Date:** August 26, 2016 @ 17:02:36
 * **In-App Purchasing:** No

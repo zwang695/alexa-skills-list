@@ -22,5 +22,5 @@ Hampshire is soaked in history. It was first mentioned in 755! Did you the capit
 * **ID:** amzn1.echo-sdk-ams.app.7a668d81-74d3-43d7-8138-426fc8416b15
 * **ASIN:** B01GC18MRI
 * **Author:** Wand IT
-* **Release Date:** May 31, 2016 @ 05:38:37
+* **Release Date:** May 31, 2016 @ 06:38:37
 * **In-App Purchasing:** No

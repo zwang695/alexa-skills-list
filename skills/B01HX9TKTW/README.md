@@ -20,5 +20,5 @@ This skill helps you to get Spanish translations for your English words or sente
 * **ID:** amzn1.echo-sdk-ams.app.2820e1fa-4a1c-49d1-8653-7696e9d385a3
 * **ASIN:** B01HX9TKTW
 * **Author:** Ganesh
-* **Release Date:** July 19, 2016 @ 03:27:32
+* **Release Date:** July 19, 2016 @ 04:27:32
 * **In-App Purchasing:** No

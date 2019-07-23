@@ -20,5 +20,5 @@ A word game where you take turns naming cities. First letter of your city must b
 * **ID:** amzn1.ask.skill.3b3bd046-b5e3-45c8-9a5b-85540d4b4c71
 * **ASIN:** B01MQTCKAL
 * **Author:** Vadim D
-* **Release Date:** December 17, 2016 @ 02:50:30
+* **Release Date:** December 17, 2016 @ 03:50:30
 * **In-App Purchasing:** No

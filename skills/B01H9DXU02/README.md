@@ -20,5 +20,5 @@ If you ever wanted to impress your friends on your knowledge about the state of 
 * **ID:** amzn1.echo-sdk-ams.app.56b001e6-70cd-4964-8b49-4bd25d4bc36d
 * **ASIN:** B01H9DXU02
 * **Author:** Keji Xu
-* **Release Date:** June 20, 2016 @ 05:45:47
+* **Release Date:** June 20, 2016 @ 06:45:47
 * **In-App Purchasing:** No

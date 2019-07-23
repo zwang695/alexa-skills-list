@@ -16,5 +16,5 @@ Facts on beer provides users with interesting and fun facts about beer, for all 
 * **ID:** amzn1.ask.skill.50cbc6cb-53cf-4d5a-8471-4f2c7c90a97f
 * **ASIN:** B01LZTSV05
 * **Author:** JustinCadburyWong
-* **Release Date:** September 28, 2016 @ 17:12:17
+* **Release Date:** September 28, 2016 @ 18:12:17
 * **In-App Purchasing:** No

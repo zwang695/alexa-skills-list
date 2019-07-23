@@ -20,5 +20,5 @@ This is a collection of, ever exanding, trivia questions about the holy grail in
 * **ID:** amzn1.ask.skill.39024707-d305-46bd-a925-3c1c46271a5a
 * **ASIN:** B01MTK0LAN
 * **Author:** Devon Henegar
-* **Release Date:** November 9, 2016 @ 00:46:12
+* **Release Date:** November 9, 2016 @ 01:46:12
 * **In-App Purchasing:** No

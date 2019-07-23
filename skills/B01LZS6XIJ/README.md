@@ -20,5 +20,5 @@ Get ready when robot will take over the world, and work your pick up to seduce t
 * **ID:** amzn1.ask.skill.c719d1e7-db98-4b13-8c16-6eb926609d2e
 * **ASIN:** B01LZS6XIJ
 * **Author:** jjeannin
-* **Release Date:** September 20, 2016 @ 05:13:37
+* **Release Date:** September 20, 2016 @ 06:13:37
 * **In-App Purchasing:** No

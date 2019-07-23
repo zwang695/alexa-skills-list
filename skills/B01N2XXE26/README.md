@@ -20,5 +20,5 @@ This is a fun, educational fact skill aimed to teach the user random scientific 
 * **ID:** amzn1.ask.skill.c0c24746-1f88-430f-a7d9-61838ed28c52
 * **ASIN:** B01N2XXE26
 * **Author:** ButtonPushApps
-* **Release Date:** December 29, 2016 @ 03:19:20
+* **Release Date:** December 29, 2016 @ 04:19:20
 * **In-App Purchasing:** No

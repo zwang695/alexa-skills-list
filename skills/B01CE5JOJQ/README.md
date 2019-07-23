@@ -24,5 +24,5 @@ But, I think we all know that Chris should be president and this skill will help
 * **ID:** amzn1.echo-sdk-ams.app.f0a119bc-1205-48ea-85f9-ff3bcac7e128
 * **ASIN:** B01CE5JOJQ
 * **Author:** casual5
-* **Release Date:** March 1, 2016 @ 01:58:52
+* **Release Date:** March 1, 2016 @ 02:58:52
 * **In-App Purchasing:** No

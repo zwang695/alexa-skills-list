@@ -16,5 +16,5 @@ Bodybuilding Facts
 * **ID:** amzn1.ask.skill.f2b742b7-e8fb-4c04-865e-8e6ada712cf6
 * **ASIN:** B01K8EN88I
 * **Author:** Merryweather Gaming
-* **Release Date:** August 13, 2016 @ 00:37:27
+* **Release Date:** August 13, 2016 @ 01:37:27
 * **In-App Purchasing:** No

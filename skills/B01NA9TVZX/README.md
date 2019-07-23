@@ -20,5 +20,5 @@ How are people feeling in Tokyo? What are happy people saying? We Feel Fine is a
 * **ID:** amzn1.ask.skill.f41ca782-bb65-409d-99d4-6b83bf714afa
 * **ASIN:** B01NA9TVZX
 * **Author:** Justin Revelstoke
-* **Release Date:** November 26, 2016 @ 02:05:21
+* **Release Date:** November 26, 2016 @ 03:05:21
 * **In-App Purchasing:** No

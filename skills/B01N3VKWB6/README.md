@@ -24,5 +24,5 @@ The rest of the code in this skill is derived from the alex skill-sample-nodejs-
 * **ID:** amzn1.ask.skill.43d7af6c-177d-46b1-b05c-21f9c868fffa
 * **ASIN:** B01N3VKWB6
 * **Author:** Jacob DePriest
-* **Release Date:** November 15, 2016 @ 02:05:25
+* **Release Date:** November 15, 2016 @ 03:05:25
 * **In-App Purchasing:** No

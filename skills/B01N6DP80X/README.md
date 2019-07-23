@@ -22,7 +22,7 @@ Alexa will ask you for the restaurant name, date and time, and size of your part
 * **ID:** amzn1.echo-sdk-ams.app.745d74fa-c3c8-46c4-befe-c9305b7de667
 * **ASIN:** B01N6DP80X
 * **Author:** OpenTable
-* **Release Date:** December 6, 2016 @ 02:15:26
+* **Release Date:** December 6, 2016 @ 03:15:26
 * **Privacy Policy:** Http://www.opentable.com/privacy
 * **Terms of Use:** Http://www.opentable.com/tou
 * **Account Linking Domains:** 2uajnh7axb.execute-api.us-east-1.amazonaws.com

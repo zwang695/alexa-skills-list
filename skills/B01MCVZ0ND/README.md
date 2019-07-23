@@ -30,5 +30,5 @@ Another opinionated skill from www.thomptronics.com
 * **ID:** amzn1.ask.skill.ee501ada-a147-4d26-8506-0f3579330833
 * **ASIN:** B01MCVZ0ND
 * **Author:** Thomptronics
-* **Release Date:** November 2, 2016 @ 02:13:35
+* **Release Date:** November 2, 2016 @ 03:13:35
 * **In-App Purchasing:** No

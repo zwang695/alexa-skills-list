@@ -20,5 +20,5 @@ The author of this skill, Marty Balash, has drawn on self-improvement sentiments
 * **ID:** amzn1.ask.skill.ea427949-8a47-443d-8daa-25d29e5d68d8
 * **ASIN:** B01N7LJQ8H
 * **Author:** Desktop Music, LLC
-* **Release Date:** December 26, 2016 @ 00:49:07
+* **Release Date:** December 26, 2016 @ 01:49:07
 * **In-App Purchasing:** No

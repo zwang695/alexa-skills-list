@@ -20,7 +20,7 @@ The longest-running cable television programming event in history, Discovery Cha
 * **ID:** amzn1.echo-sdk-ams.app.d92afb13-c427-4a20-9b31-6ec68fc940b1
 * **ASIN:** B01G5VHY2O
 * **Author:** Discovery Communications
-* **Release Date:** June 6, 2016 @ 15:38:30
+* **Release Date:** June 6, 2016 @ 16:38:30
 * **Privacy Policy:** https://corporate.discovery.com/privacy-policy/
 * **Terms of Use:** https://corporate.discovery.com/visitor-agreement/
 * **In-App Purchasing:** No

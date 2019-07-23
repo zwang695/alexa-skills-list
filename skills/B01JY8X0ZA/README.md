@@ -20,5 +20,5 @@ Ingredient Sub is a handy and simple tool to help with many common ingredient su
 * **ID:** amzn1.ask.skill.5354d2ae-a5d1-4024-add6-4f7dd12ace66
 * **ASIN:** B01JY8X0ZA
 * **Author:** MelissaY
-* **Release Date:** August 9, 2016 @ 03:07:42
+* **Release Date:** August 9, 2016 @ 04:07:42
 * **In-App Purchasing:** No

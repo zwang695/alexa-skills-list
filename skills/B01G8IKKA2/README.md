@@ -42,5 +42,5 @@ Healthy Snack Blast
 * **ID:** amzn1.echo-sdk-ams.app.87983a72-c63c-44a0-8a3b-a49934a41202
 * **ASIN:** B01G8IKKA2
 * **Author:** Sary Brave
-* **Release Date:** May 30, 2016 @ 03:08:32
+* **Release Date:** May 30, 2016 @ 04:08:32
 * **In-App Purchasing:** No

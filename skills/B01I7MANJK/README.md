@@ -21,5 +21,5 @@ respond with some wonderful nuggets of microprocessor information!
 * **ID:** amzn1.echo-sdk-ams.app.4ea78b05-ee0d-46e2-ac43-4386f7bf8014
 * **ASIN:** B01I7MANJK
 * **Author:** EMKlaus
-* **Release Date:** July 14, 2016 @ 04:27:30
+* **Release Date:** July 14, 2016 @ 05:27:30
 * **In-App Purchasing:** No

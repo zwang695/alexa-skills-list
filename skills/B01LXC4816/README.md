@@ -21,5 +21,5 @@ Well, lucky for us, here is a chance where answers to a few questions could give
 * **ID:** amzn1.ask.skill.260e297b-3047-40be-9090-fa3aa3161023
 * **ASIN:** B01LXC4816
 * **Author:** vasudha mulakaluri
-* **Release Date:** October 6, 2016 @ 01:41:40
+* **Release Date:** October 6, 2016 @ 02:41:40
 * **In-App Purchasing:** No

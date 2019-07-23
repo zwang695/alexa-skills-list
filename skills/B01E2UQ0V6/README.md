@@ -18,5 +18,5 @@ It is often difficult the remember all the foods and drinks you can consume on t
 * **ID:** amzn1.echo-sdk-ams.app.b4fe5139-32c9-4633-a736-4717720c8882
 * **ASIN:** B01E2UQ0V6
 * **Author:** Pat Khunachak
-* **Release Date:** April 18, 2016 @ 04:02:31
+* **Release Date:** April 18, 2016 @ 05:02:31
 * **In-App Purchasing:** No

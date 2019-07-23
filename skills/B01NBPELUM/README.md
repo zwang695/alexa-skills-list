@@ -20,5 +20,5 @@ Provides a random selection on current network security facts.
 * **ID:** amzn1.ask.skill.21f0e7dd-424c-4c8e-8eb4-f24e1e337c2c
 * **ASIN:** B01NBPELUM
 * **Author:** rwhalb
-* **Release Date:** December 30, 2016 @ 05:48:59
+* **Release Date:** December 30, 2016 @ 06:48:59
 * **In-App Purchasing:** No

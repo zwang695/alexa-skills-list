@@ -22,5 +22,5 @@ For support contact info@thrownup.com .
 * **ID:** amzn1.ask.skill.867cf1af-aaaf-4afd-92b5-bbc8dafdfe19
 * **ASIN:** B01N0T66XR
 * **Author:** Thrown Up Productions
-* **Release Date:** December 26, 2016 @ 04:19:06
+* **Release Date:** December 26, 2016 @ 05:19:06
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ever wanted to learn how to cook Thai food? Chef Thai can help you out! Chef Tha
 * **ID:** amzn1.ask.skill.764762cb-5683-4d67-8820-8839f2297dba
 * **ASIN:** B01JQUUNLA
 * **Author:** MasterBo
-* **Release Date:** August 8, 2016 @ 02:37:43
+* **Release Date:** August 8, 2016 @ 03:37:43
 * **In-App Purchasing:** No

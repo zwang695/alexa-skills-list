@@ -32,7 +32,7 @@ Account linking is not required for use, and only required if you want to post t
 * **ID:** amzn1.ask.skill.b74fca66-98b2-4bde-ac10-283d9e91a111
 * **ASIN:** B01M69NTJH
 * **Author:** Zya Inc.
-* **Release Date:** December 20, 2016 @ 17:19:31
+* **Release Date:** December 20, 2016 @ 18:19:31
 * **Privacy Policy:** http://zyamusic.com/ditty/legal/privacypolicy
 * **Account Linking Domains:** api.twitter.com, alexa-twitter.ditty.co, zyamusic.com, twitter.com, mobile.twitter.com
 * **In-App Purchasing:** No

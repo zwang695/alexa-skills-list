@@ -20,5 +20,5 @@ Nothing better than history and a cocktail mixed together! You can ask for a lis
 * **ID:** amzn1.ask.skill.4dd5c4ea-e258-405f-a42d-d5c7229d8b57
 * **ASIN:** B01N53NEQ1
 * **Author:** ArtsInteractive.net
-* **Release Date:** November 21, 2016 @ 23:36:18
+* **Release Date:** November 22, 2016 @ 00:36:18
 * **In-App Purchasing:** No

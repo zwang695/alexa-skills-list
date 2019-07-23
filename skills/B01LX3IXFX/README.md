@@ -20,5 +20,5 @@ Are you thinking of a wish?  Ask the wishing well to grant a wish for you.  Thin
 * **ID:** amzn1.ask.skill.1c333775-c5bb-4fc3-9027-4bd9debe3b42
 * **ASIN:** B01LX3IXFX
 * **Author:** Hamboning Films, LLC
-* **Release Date:** October 14, 2016 @ 02:17:04
+* **Release Date:** October 14, 2016 @ 03:17:04
 * **In-App Purchasing:** No

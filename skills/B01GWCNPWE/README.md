@@ -20,5 +20,5 @@ Tells the number of seconds until Christmas
 * **ID:** amzn1.echo-sdk-ams.app.83bcc223-d0eb-4020-a051-b90cc2b31f5b
 * **ASIN:** B01GWCNPWE
 * **Author:** Haicheng Charles Zhao
-* **Release Date:** June 16, 2016 @ 05:45:36
+* **Release Date:** June 16, 2016 @ 06:45:36
 * **In-App Purchasing:** No

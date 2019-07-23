@@ -20,7 +20,7 @@ Get flight status for any Korean Air flight by flight number or by route
 * **ID:** amzn1.ask.skill.03e2e77b-fe46-43b8-bf46-a8280b89d8fc
 * **ASIN:** B01N0HCUBJ
 * **Author:** Korean Air
-* **Release Date:** December 1, 2016 @ 06:05:35
+* **Release Date:** December 1, 2016 @ 07:05:35
 * **Privacy Policy:** https://www.koreanair.com/global/en/footers/Privacy-Policy.html
 * **Terms of Use:** https://www.koreanair.com/global/en/footers/Terms-of-Use.html
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Allows users to ask Alexa the current price of Bitcoin over the past 24 hours. C
 * **ID:** amzn1.echo-sdk-ams.app.200970e1-028c-46dc-828c-c627c9cb4509
 * **ASIN:** B01FTQV0M6
 * **Author:** Jordan Pizza
-* **Release Date:** June 2, 2016 @ 01:38:30
+* **Release Date:** June 2, 2016 @ 02:38:30
 * **In-App Purchasing:** No

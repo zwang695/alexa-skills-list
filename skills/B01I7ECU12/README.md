@@ -20,5 +20,5 @@ Stare Abbreviations Flash Cards
 * **ID:** amzn1.echo-sdk-ams.app.fdb118b8-2e03-4ff0-8dea-57570c05cd10
 * **ASIN:** B01I7ECU12
 * **Author:** JJ
-* **Release Date:** July 11, 2016 @ 07:27:44
+* **Release Date:** July 11, 2016 @ 08:27:44
 * **In-App Purchasing:** No

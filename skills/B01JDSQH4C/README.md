@@ -20,5 +20,5 @@ Ask Alexa for educational Science facts and amuse yourself
 * **ID:** amzn1.ask.skill.8d00bf66-f6c5-4aab-a300-248dfdcfe088
 * **ASIN:** B01JDSQH4C
 * **Author:** Samkit Jain
-* **Release Date:** August 8, 2016 @ 01:37:56
+* **Release Date:** August 8, 2016 @ 02:37:56
 * **In-App Purchasing:** No

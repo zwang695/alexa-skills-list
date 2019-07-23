@@ -20,5 +20,5 @@ You can ask this Skill what over 200 phobias mean, by phobia name. Additionally,
 * **ID:** amzn1.ask.skill.3226a138-0424-4ad0-a92d-320d74effb15
 * **ASIN:** B01MEG1799
 * **Author:** James Bunker
-* **Release Date:** November 9, 2016 @ 02:13:12
+* **Release Date:** November 9, 2016 @ 03:13:12
 * **In-App Purchasing:** No

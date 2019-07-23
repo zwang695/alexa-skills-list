@@ -22,5 +22,5 @@ Credit for the jokes goes to: http://www.chucknorrisjokes.linkpress.info/facts.p
 * **ID:** amzn1.ask.skill.ffeb980c-a81f-4e42-80b6-a7f406b5365a
 * **ASIN:** B01JBXPNV2
 * **Author:** steckdev
-* **Release Date:** August 11, 2016 @ 01:37:30
+* **Release Date:** August 11, 2016 @ 02:37:30
 * **In-App Purchasing:** No

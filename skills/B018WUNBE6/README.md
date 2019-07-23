@@ -39,5 +39,5 @@ Update 1.1:
 * **ID:** amzn1.echo-sdk-ams.app.0e4a4011-a854-4aea-b719-40472fc4a8c5
 * **ASIN:** B018WUNBE6
 * **Author:** Pargee
-* **Release Date:** December 3, 2015 @ 19:59:55
+* **Release Date:** December 3, 2015 @ 20:59:55
 * **In-App Purchasing:** No

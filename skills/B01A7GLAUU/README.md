@@ -38,5 +38,5 @@ To get basic instructions, say "Alexa, open Dice Bag."
 * **ID:** amzn1.echo-sdk-ams.app.61e700dd-f982-4b9c-bce6-5d4e9361fe80
 * **ASIN:** B01A7GLAUU
 * **Author:** Game Construct
-* **Release Date:** January 5, 2016 @ 12:41:25
+* **Release Date:** January 5, 2016 @ 13:41:25
 * **In-App Purchasing:** No

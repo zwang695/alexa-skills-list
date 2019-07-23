@@ -20,5 +20,5 @@ Tells you when the next Presidio Bus will arrive. Presidio Hills Route at Baker 
 * **ID:** amzn1.echo-sdk-ams.app.2e0271bc-0362-43cb-8e77-73f7daaef085
 * **ASIN:** B01I24QY14
 * **Author:** JACE LLC
-* **Release Date:** July 8, 2016 @ 05:57:32
+* **Release Date:** July 8, 2016 @ 06:57:32
 * **In-App Purchasing:** No

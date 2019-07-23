@@ -42,5 +42,5 @@ Please feel free to contact me with any questions or suggestions via my web site
 * **ID:** amzn1.ask.skill.6f0f22fb-c7c9-4163-9593-892f7df1f1f3
 * **ASIN:** B01LX47QXG
 * **Author:** ISS-Above
-* **Release Date:** October 21, 2016 @ 15:15:22
+* **Release Date:** October 21, 2016 @ 16:15:22
 * **In-App Purchasing:** No

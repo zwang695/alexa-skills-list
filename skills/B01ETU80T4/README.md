@@ -24,5 +24,5 @@ This quick trivia game of 5 questions is fun and will improve (or show off!) you
 * **ID:** amzn1.echo-sdk-ams.app.7e5bb15a-be9f-4d5a-95b5-d8440f6fcf5b
 * **ASIN:** B01ETU80T4
 * **Author:** SMK Web Development
-* **Release Date:** April 27, 2016 @ 17:38:38
+* **Release Date:** April 27, 2016 @ 18:38:38
 * **In-App Purchasing:** No

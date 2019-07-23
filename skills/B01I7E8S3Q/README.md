@@ -20,5 +20,5 @@ Ham Radio Q Codes are abbreviations which are often used in HAM Radio.  Use this
 * **ID:** amzn1.echo-sdk-ams.app.0f4ee558-e9b3-415b-878e-1f2cdb546206
 * **ASIN:** B01I7E8S3Q
 * **Author:** Carl
-* **Release Date:** July 13, 2016 @ 04:57:28
+* **Release Date:** July 13, 2016 @ 05:57:28
 * **In-App Purchasing:** No

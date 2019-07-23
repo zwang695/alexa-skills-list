@@ -21,5 +21,5 @@ Unfortunately most of the times passwords are insecure and easy to break. To hel
 * **ID:** amzn1.ask.skill.05fe321e-ccfa-4699-972c-a15256d1a173
 * **ASIN:** B01MREIMJ8
 * **Author:** feedme
-* **Release Date:** November 16, 2016 @ 02:05:53
+* **Release Date:** November 16, 2016 @ 03:05:53
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The following skill will ask you a set of trivia questions related to the field 
 * **ID:** amzn1.echo-sdk-ams.app.1aa0d024-9f5a-47fd-9279-633cf07763b2
 * **ASIN:** B01F6W1C8U
 * **Author:** Rubix
-* **Release Date:** May 6, 2016 @ 18:38:25
+* **Release Date:** May 6, 2016 @ 19:38:25
 * **In-App Purchasing:** No

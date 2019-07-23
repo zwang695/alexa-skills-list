@@ -20,5 +20,5 @@ This skill will give you interesting facts about high school, college and profes
 * **ID:** amzn1.ask.skill.63e65145-326e-408d-b99a-202596a6b5bb
 * **ASIN:** B01M054WGD
 * **Author:** Matt Millington
-* **Release Date:** September 22, 2016 @ 05:12:00
+* **Release Date:** September 22, 2016 @ 06:12:00
 * **In-App Purchasing:** No

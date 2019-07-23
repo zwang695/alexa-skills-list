@@ -16,5 +16,5 @@ Interested in anime but don't know where to begin? Ask Alexa for help in narrowi
 * **ID:** amzn1.ask.skill.76e2b81c-f18f-4f2e-946c-004a2d62a042
 * **ASIN:** B01LXVZ4YD
 * **Author:** R+E
-* **Release Date:** September 22, 2016 @ 05:42:16
+* **Release Date:** September 22, 2016 @ 06:42:16
 * **In-App Purchasing:** No

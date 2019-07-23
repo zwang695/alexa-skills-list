@@ -18,5 +18,5 @@ Slalom facts provides facts about the downhill ski racing slalom event.
 * **ID:** amzn1.ask.skill.f54f0543-c359-4844-839b-37c06f5cc00c
 * **ASIN:** B01LZMP2CF
 * **Author:** Nathan Friendly
-* **Release Date:** October 4, 2016 @ 02:13:03
+* **Release Date:** October 4, 2016 @ 03:13:03
 * **In-App Purchasing:** No

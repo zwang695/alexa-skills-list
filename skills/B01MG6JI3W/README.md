@@ -20,5 +20,5 @@ Test your knowledge about the history of Middle East, and the Persian empire.
 * **ID:** amzn1.ask.skill.cabc3941-939a-4705-b2c0-730b8a1c47b1
 * **ASIN:** B01MG6JI3W
 * **Author:** ScientiaTech
-* **Release Date:** November 2, 2016 @ 09:13:00
+* **Release Date:** November 2, 2016 @ 10:13:00
 * **In-App Purchasing:** No

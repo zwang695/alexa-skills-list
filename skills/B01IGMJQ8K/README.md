@@ -16,5 +16,5 @@ Before starting your quiz, Alexa asks you for a range of numbers you would like 
 * **ID:** amzn1.echo-sdk-ams.app.576da62c-7dac-47ac-aee2-74357eec2b3b
 * **ASIN:** B01IGMJQ8K
 * **Author:** Joe Mirmina
-* **Release Date:** July 18, 2016 @ 06:27:31
+* **Release Date:** July 18, 2016 @ 07:27:31
 * **In-App Purchasing:** No

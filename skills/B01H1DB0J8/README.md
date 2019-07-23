@@ -20,5 +20,5 @@ Goats are among the earliest animals domesticated by humans.  This is a list of 
 * **ID:** amzn1.echo-sdk-ams.app.db431df1-b7a8-4c96-94a3-6b0ddc02e79f
 * **ASIN:** B01H1DB0J8
 * **Author:** Sean
-* **Release Date:** June 21, 2016 @ 04:45:31
+* **Release Date:** June 21, 2016 @ 05:45:31
 * **In-App Purchasing:** No

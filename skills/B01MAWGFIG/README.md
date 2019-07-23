@@ -20,5 +20,5 @@ This skill provides educational facts about various fields of Linguistics. Field
 * **ID:** amzn1.ask.skill.bae5e2eb-ded2-46da-a514-0495c9baceba
 * **ASIN:** B01MAWGFIG
 * **Author:** Ryker Reed
-* **Release Date:** October 18, 2016 @ 00:42:03
+* **Release Date:** October 18, 2016 @ 01:42:03
 * **In-App Purchasing:** No

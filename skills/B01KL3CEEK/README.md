@@ -29,7 +29,7 @@ Insurance Advisor will make you an insurance whiz in no time at all! It’s yet 
 * **ID:** amzn1.ask.skill.cd5b60c8-4bdf-451b-be9f-9019be8d94ef
 * **ASIN:** B01KL3CEEK
 * **Author:** Safeco Insurance
-* **Release Date:** September 8, 2016 @ 15:12:27
+* **Release Date:** September 8, 2016 @ 16:12:27
 * **Privacy Policy:** http://www.safeco.com/privacy-policy
 * **Terms of Use:** http://www.safeco.com/terms-and-conditions
 * **In-App Purchasing:** No

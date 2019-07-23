@@ -26,5 +26,5 @@ Can you get to the end of the alphabet to beat the game?
 * **ID:** amzn1.echo-sdk-ams.app.e44a39ba-6609-4542-8ee0-39524faee764
 * **ASIN:** B01HBWUHVG
 * **Author:** worldengine
-* **Release Date:** June 23, 2016 @ 02:16:02
+* **Release Date:** June 23, 2016 @ 03:16:02
 * **In-App Purchasing:** No

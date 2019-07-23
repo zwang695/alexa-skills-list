@@ -20,5 +20,5 @@ The Paoli Peaks Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.7b240d6c-1184-450f-af75-6cc41c4965ce
 * **ASIN:** B01M5DOTHG
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:16:51
+* **Release Date:** October 21, 2016 @ 15:16:51
 * **In-App Purchasing:** No

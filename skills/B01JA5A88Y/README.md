@@ -20,6 +20,6 @@ Still On is a world wide tool to Find Store Hours and Business Information in yo
 * **ID:** amzn1.echo-sdk-ams.app.c8b01f2f-7cfd-4da8-8f1c-8c6f40f0b65e
 * **ASIN:** B01JA5A88Y
 * **Author:** andresmeza.com
-* **Release Date:** August 8, 2016 @ 01:37:53
+* **Release Date:** August 8, 2016 @ 02:37:53
 * **Privacy Policy:** https://s3.amazonaws.com/cdn.andresmeza.com/Alexa/StillOpen/privacy.html
 * **In-App Purchasing:** No

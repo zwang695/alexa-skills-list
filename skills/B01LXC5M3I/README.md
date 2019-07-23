@@ -20,5 +20,5 @@ The Summit at Snoqualmie-Central Snow Report brought to you by SnoCountry brings
 * **ID:** amzn1.ask.skill.a810f2dd-a8fb-4d23-88f2-b760082140eb
 * **ASIN:** B01LXC5M3I
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:13:34
+* **Release Date:** October 19, 2016 @ 12:13:34
 * **In-App Purchasing:** No

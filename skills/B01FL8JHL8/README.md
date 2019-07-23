@@ -22,5 +22,5 @@ Simply start playing by saying "Alexa, launch java trivia".
 * **ID:** amzn1.echo-sdk-ams.app.fb96883f-d2da-4a73-8946-24254ad88ab5
 * **ASIN:** B01FL8JHL8
 * **Author:** Supernova
-* **Release Date:** May 13, 2016 @ 07:38:31
+* **Release Date:** May 13, 2016 @ 08:38:31
 * **In-App Purchasing:** No

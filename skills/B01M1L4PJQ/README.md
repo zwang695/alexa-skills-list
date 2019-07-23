@@ -20,5 +20,5 @@ This is a trivia game on how well do you know your sharing economy. Also this is
 * **ID:** amzn1.ask.skill.5ed16dfd-faee-47c1-84b1-f2c124805cb0
 * **ASIN:** B01M1L4PJQ
 * **Author:** CyberCode Twins
-* **Release Date:** October 5, 2016 @ 01:11:54
+* **Release Date:** October 5, 2016 @ 02:11:54
 * **In-App Purchasing:** No

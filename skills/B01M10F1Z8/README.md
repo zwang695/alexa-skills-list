@@ -20,5 +20,5 @@ The Mountain High Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.b11d0461-a41c-4eb3-b63b-5b59d78775c3
 * **ASIN:** B01M10F1Z8
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:46:51
+* **Release Date:** October 20, 2016 @ 04:46:51
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.db1139b5-7351-435c-800c-84731cb1a900
 * **ASIN:** B01NCLBEZ9
 * **Author:** Daniela Sofrone
-* **Release Date:** December 19, 2016 @ 01:19:26
+* **Release Date:** December 19, 2016 @ 02:19:26
 * **In-App Purchasing:** No

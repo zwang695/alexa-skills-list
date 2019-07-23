@@ -20,5 +20,5 @@ The Fact Core contains information, but it's up to you to decide if it's true or
 * **ID:** amzn1.echo-sdk-ams.app.5d931280-41ee-4269-a29c-91889094e8b6
 * **ASIN:** B017OBRW5S
 * **Author:** Magical Jester Creations
-* **Release Date:** November 6, 2015 @ 14:15:51
+* **Release Date:** November 6, 2015 @ 15:15:51
 * **In-App Purchasing:** No

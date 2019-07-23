@@ -22,5 +22,5 @@ Disclaimer: This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.8280897f-5efd-4a2e-9aa8-7fc46a14508b
 * **ASIN:** B01IYT2BB4
 * **Author:** Robert
-* **Release Date:** August 1, 2016 @ 06:56:33
+* **Release Date:** August 1, 2016 @ 07:56:33
 * **In-App Purchasing:** No

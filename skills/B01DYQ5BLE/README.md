@@ -20,6 +20,6 @@ Daily Cutiemals will send cute animal pictures to your email. You will need to r
 * **ID:** amzn1.echo-sdk-ams.app.dd8f6e8e-0aed-4178-91ca-ab7bf4f75ccf
 * **ASIN:** B01DYQ5BLE
 * **Author:** Drassiner
-* **Release Date:** April 19, 2016 @ 07:32:38
+* **Release Date:** April 19, 2016 @ 08:32:38
 * **Privacy Policy:** https://github.com/toyhammered/DailyCutiemals/blob/master/PRIVACY_POLICY.md
 * **In-App Purchasing:** No

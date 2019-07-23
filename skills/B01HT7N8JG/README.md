@@ -23,5 +23,5 @@ To initialise just ask alexa recipes like "Alexa, ask quick bits to tell me reci
 * **ID:** amzn1.echo-sdk-ams.app.4d927d1f-d716-4956-b371-bcb9fcca5c2e
 * **ASIN:** B01HT7N8JG
 * **Author:** Kartik Bholla
-* **Release Date:** July 1, 2016 @ 08:57:35
+* **Release Date:** July 1, 2016 @ 09:57:35
 * **In-App Purchasing:** No

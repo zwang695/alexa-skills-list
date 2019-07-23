@@ -20,5 +20,5 @@ Are you interested in flight history? Rely on Flight History for hundreds of eve
 * **ID:** amzn1.ask.skill.cc2e7880-eabb-49b3-a19d-aba50b624a7e
 * **ASIN:** B01JHKG6S8
 * **Author:** Appbly.com
-* **Release Date:** August 4, 2016 @ 02:11:36
+* **Release Date:** August 4, 2016 @ 03:11:36
 * **In-App Purchasing:** No

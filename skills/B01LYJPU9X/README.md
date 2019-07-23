@@ -20,5 +20,5 @@ If you've ever wanted to know more about about Miniature Schnauzers, you're in t
 * **ID:** amzn1.ask.skill.ca3b8b39-18ad-45ef-b1eb-9793ddd1b52b
 * **ASIN:** B01LYJPU9X
 * **Author:** skaylynn
-* **Release Date:** September 22, 2016 @ 01:42:22
+* **Release Date:** September 22, 2016 @ 02:42:22
 * **In-App Purchasing:** No

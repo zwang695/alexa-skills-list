@@ -20,7 +20,7 @@ Get the, unofficial, status of the new driver application from the New York TLC.
 * **ID:** amzn1.ask.skill.81a35920-b4bd-46d0-823a-bcac247f07ed
 * **ASIN:** B01LXDGXXE
 * **Author:** Digital Spring Apps
-* **Release Date:** October 8, 2016 @ 03:42:03
+* **Release Date:** October 8, 2016 @ 04:42:03
 * **Privacy Policy:** http://www.digitalspringapps.com/mtprivacy
 * **Terms of Use:** http://www.digitalspringapps.com/mtprivacy
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Please note that it is an unofficial skill,  i am no way related to Harry Potter
 * **ID:** amzn1.ask.skill.5db4535c-e12c-4854-b519-2a63e8bab442
 * **ASIN:** B01N6KGHNG
 * **Author:** TiagoGB
-* **Release Date:** December 30, 2016 @ 05:49:11
+* **Release Date:** December 30, 2016 @ 06:49:11
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Fun facts about the Loch Ness Monster
 * **ID:** amzn1.ask.skill.4e20825a-ccad-421a-85cb-12ff1a377b48
 * **ASIN:** B01M8QLWTM
 * **Author:** Reply GmbH
-* **Release Date:** November 6, 2016 @ 05:42:17
+* **Release Date:** November 6, 2016 @ 06:42:17
 * **In-App Purchasing:** No

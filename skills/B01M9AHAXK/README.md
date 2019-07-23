@@ -44,6 +44,6 @@ Alexa, ask Scriptures Every Day to read the Doctrine and Covenants for December 
 * **ID:** amzn1.ask.skill.b0b1fa6c-4f34-457f-9632-00dfae4c84ce
 * **ASIN:** B01M9AHAXK
 * **Author:** Seafish Productions
-* **Release Date:** November 5, 2016 @ 02:43:17
+* **Release Date:** November 5, 2016 @ 03:43:17
 * **Privacy Policy:** https://www.scriptureseveryday.com/#/privacy
 * **In-App Purchasing:** No

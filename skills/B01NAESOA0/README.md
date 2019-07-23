@@ -16,5 +16,5 @@ This is a simple fact skill
 * **ID:** amzn1.ask.skill.8470a65c-f57b-4e73-a0a4-1e2ff93220ec
 * **ASIN:** B01NAESOA0
 * **Author:** cartooph
-* **Release Date:** December 5, 2016 @ 01:35:57
+* **Release Date:** December 5, 2016 @ 02:35:57
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Surprising trivia is always fun. Learn a new piece of unbelievable trivia and sh
 * **ID:** amzn1.ask.skill.d9c4f663-74b1-4486-8a47-925d3c8739c6
 * **ASIN:** B01KZ0TK50
 * **Author:** Matt Conti
-* **Release Date:** August 25, 2016 @ 08:30:44
+* **Release Date:** August 25, 2016 @ 09:30:44
 * **In-App Purchasing:** No

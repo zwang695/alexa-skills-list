@@ -20,5 +20,5 @@ test your holiday trivia knowledge with our quick five question game
 * **ID:** amzn1.ask.skill.d207c71b-0854-4c7b-8187-b6e1396f240a
 * **ASIN:** B01NCJ8VMJ
 * **Author:** 24G LLC
-* **Release Date:** December 14, 2016 @ 04:19:51
+* **Release Date:** December 14, 2016 @ 05:19:51
 * **In-App Purchasing:** No

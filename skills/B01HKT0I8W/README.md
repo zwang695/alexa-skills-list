@@ -20,5 +20,5 @@ Generate one of more than 50 different honey bee facts.
 * **ID:** amzn1.echo-sdk-ams.app.84281b6a-e1e6-47cf-9209-e46ddc9d250b
 * **ASIN:** B01HKT0I8W
 * **Author:** Ohwah
-* **Release Date:** June 28, 2016 @ 05:45:46
+* **Release Date:** June 28, 2016 @ 06:45:46
 * **In-App Purchasing:** No

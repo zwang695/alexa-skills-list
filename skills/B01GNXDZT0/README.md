@@ -20,5 +20,5 @@ This is just for fun to help quiz people to see how much they know about big ban
 * **ID:** amzn1.echo-sdk-ams.app.6db6b24f-cddb-4105-af0a-6757dd486c6a
 * **ASIN:** B01GNXDZT0
 * **Author:** Erik Lane
-* **Release Date:** June 7, 2016 @ 08:08:40
+* **Release Date:** June 7, 2016 @ 09:08:40
 * **In-App Purchasing:** No

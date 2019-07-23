@@ -20,5 +20,5 @@ The "New Parents" skill is designed to give tips and advice to expecting and new
 * **ID:** amzn1.ask.skill.41af0aab-c8e7-42ae-91da-616a4aff4687
 * **ASIN:** B01MY35801
 * **Author:** mountain.ai
-* **Release Date:** December 30, 2016 @ 06:48:54
+* **Release Date:** December 30, 2016 @ 07:48:54
 * **In-App Purchasing:** No

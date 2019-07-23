@@ -20,5 +20,5 @@ Randomly states a baseball team in the National League.
 * **ID:** amzn1.echo-sdk-ams.app.220b8f65-e51e-4aaa-a60b-840313a8cecc
 * **ASIN:** B01GZ86DV0
 * **Author:** BHE Co
-* **Release Date:** June 14, 2016 @ 02:09:45
+* **Release Date:** June 14, 2016 @ 03:09:45
 * **In-App Purchasing:** No

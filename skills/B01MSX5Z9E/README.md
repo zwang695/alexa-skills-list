@@ -25,5 +25,5 @@ Start the skill by saying,"Alexa, ask My World Capitals" OR "Alexa, launch My Wo
 * **ID:** amzn1.ask.skill.1d920921-ab6a-4c97-affc-81fb029e80ea
 * **ASIN:** B01MSX5Z9E
 * **Author:** Subodh Keskar
-* **Release Date:** December 10, 2016 @ 04:50:01
+* **Release Date:** December 10, 2016 @ 05:50:01
 * **In-App Purchasing:** No

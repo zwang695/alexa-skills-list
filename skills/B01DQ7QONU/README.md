@@ -20,5 +20,5 @@ some brief facts on ancient Chinese history, well, if you are interested to ask
 * **ID:** amzn1.echo-sdk-ams.app.623d49d5-658a-4501-80ac-f6737f373060
 * **ASIN:** B01DQ7QONU
 * **Author:** SC
-* **Release Date:** April 7, 2016 @ 09:32:31
+* **Release Date:** April 7, 2016 @ 10:32:31
 * **In-App Purchasing:** No

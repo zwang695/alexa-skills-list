@@ -22,5 +22,5 @@ The user can get started by asking "Alexa, Ask American History Quiz". There are
 * **ID:** amzn1.echo-sdk-ams.app.a8d3d135-d78c-40ff-bbcc-43c18a9a5bd5
 * **ASIN:** B01E4C70XO
 * **Author:** Joseph Caintic
-* **Release Date:** April 13, 2016 @ 07:32:29
+* **Release Date:** April 13, 2016 @ 08:32:29
 * **In-App Purchasing:** No

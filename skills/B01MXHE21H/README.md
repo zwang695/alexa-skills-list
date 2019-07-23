@@ -20,5 +20,5 @@ This skill generates addition problems where to user is asked to say the sum of 
 * **ID:** amzn1.ask.skill.1b108acf-1134-470e-8e08-919834c87fd1
 * **ASIN:** B01MXHE21H
 * **Author:** KP Apps
-* **Release Date:** November 30, 2016 @ 02:05:34
+* **Release Date:** November 30, 2016 @ 03:05:34
 * **In-App Purchasing:** No

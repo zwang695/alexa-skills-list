@@ -16,5 +16,5 @@ Educate yourself about Denmark.
 * **ID:** amzn1.ask.skill.daa1d5a4-7e0d-4dad-bea8-6660f7833809
 * **ASIN:** B01L4JKY4M
 * **Author:** Thrane
-* **Release Date:** August 29, 2016 @ 03:32:40
+* **Release Date:** August 29, 2016 @ 04:32:40
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Okemo Mountain Resort Snow Report brought to you by SnoCountry brings you th
 * **ID:** amzn1.ask.skill.da627d39-757a-4ade-9d89-d355d2325634
 * **ASIN:** B01MXVCIFT
 * **Author:** SnoCountry
-* **Release Date:** December 6, 2016 @ 18:49:42
+* **Release Date:** December 6, 2016 @ 19:49:42
 * **In-App Purchasing:** No

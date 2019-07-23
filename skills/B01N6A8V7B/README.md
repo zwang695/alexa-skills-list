@@ -22,5 +22,5 @@ Hope Alexa will help you win the lotto!
 * **ID:** amzn1.ask.skill.034ae3c0-e944-43a1-8c39-b9718c1849ae
 * **ASIN:** B01N6A8V7B
 * **Author:** Kenneth Kwok
-* **Release Date:** November 30, 2016 @ 06:05:17
+* **Release Date:** November 30, 2016 @ 07:05:17
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Counseling exam skills provide simulations that are in the format as the lic
 * **ID:** amzn1.echo-sdk-ams.app.b6188462-6ab9-4fb4-9dd3-1141fae83289
 * **ASIN:** B01IAEIB8K
 * **Author:** Licensure Exams, Inc.
-* **Release Date:** July 14, 2016 @ 07:57:35
+* **Release Date:** July 14, 2016 @ 08:57:35
 * **In-App Purchasing:** No

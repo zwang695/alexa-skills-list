@@ -20,5 +20,5 @@ This skill provides investing-related quotes from famous investors.  You can beg
 * **ID:** amzn1.ask.skill.87c4f18d-4568-4687-b63a-8a9b4ffc01ca
 * **ASIN:** B01JDI9DZW
 * **Author:** Doug Roy
-* **Release Date:** August 1, 2016 @ 10:26:30
+* **Release Date:** August 1, 2016 @ 11:26:30
 * **In-App Purchasing:** No

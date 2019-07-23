@@ -22,5 +22,5 @@ Install this skill and Alexa can tell you! Keep your puppy safe, healthy, and we
 * **ID:** amzn1.ask.skill.22226f11-ebc0-4b0d-afd7-02ac0b126ea7
 * **ASIN:** B01M0KV58T
 * **Author:** Genco Cocoa Corp.
-* **Release Date:** October 22, 2016 @ 02:13:12
+* **Release Date:** October 22, 2016 @ 03:13:12
 * **In-App Purchasing:** No

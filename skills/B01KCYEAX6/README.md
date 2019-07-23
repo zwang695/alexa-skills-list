@@ -20,5 +20,5 @@ What diet will ask you a few questions, and based upon your responses, recommend
 * **ID:** amzn1.ask.skill.8f4e84c8-22a9-4b6f-b048-7ea27da81ace
 * **ASIN:** B01KCYEAX6
 * **Author:** Logtown
-* **Release Date:** August 17, 2016 @ 04:52:40
+* **Release Date:** August 17, 2016 @ 05:52:40
 * **In-App Purchasing:** No

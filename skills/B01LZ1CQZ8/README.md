@@ -20,5 +20,5 @@ Unofficial characters quiz for the Netflix show "Narcos". This Alexa skill is no
 * **ID:** amzn1.ask.skill.60b8c2d2-af93-4a61-877a-125a5c4ea3cd
 * **ASIN:** B01LZ1CQZ8
 * **Author:** Cloudy Labs
-* **Release Date:** October 10, 2016 @ 04:41:50
+* **Release Date:** October 10, 2016 @ 05:41:50
 * **In-App Purchasing:** No

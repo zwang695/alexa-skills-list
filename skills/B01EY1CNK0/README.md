@@ -20,5 +20,5 @@ Think you know your movies? Take this fun quiz!
 * **ID:** amzn1.echo-sdk-ams.app.bf173e73-f18f-4c6f-b5d8-43629526fb62
 * **ASIN:** B01EY1CNK0
 * **Author:** MrTechnolgyNerd
-* **Release Date:** May 21, 2016 @ 06:08:29
+* **Release Date:** May 21, 2016 @ 07:08:29
 * **In-App Purchasing:** No

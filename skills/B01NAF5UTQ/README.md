@@ -20,5 +20,5 @@ Translates characters to morse code and vice versa.
 * **ID:** amzn1.ask.skill.f1de9621-406a-4fc5-978f-d669ecb98820
 * **ASIN:** B01NAF5UTQ
 * **Author:** Fränz Friederes
-* **Release Date:** December 22, 2016 @ 04:49:00
+* **Release Date:** December 22, 2016 @ 05:49:00
 * **In-App Purchasing:** No

@@ -35,7 +35,7 @@ You are ready to go!
 * **ID:** amzn1.echo-sdk-ams.app.4eb4a5bf-5c51-4cd0-ba6b-a95ac8e8a38b
 * **ASIN:** B01E8NGW60
 * **Author:** Samsung Strategy and Innovation Center
-* **Release Date:** April 22, 2016 @ 07:38:34
+* **Release Date:** April 22, 2016 @ 08:38:34
 * **Privacy Policy:** https://developer.samsungsami.io/about/terms-service.html
 * **Terms of Use:** https://developer.samsungsami.io/about/privacy.html
 * **In-App Purchasing:** No

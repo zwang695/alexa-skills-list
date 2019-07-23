@@ -20,5 +20,5 @@ The Mount Snow Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.9c1608b0-46c2-4216-85ef-d0a9ad40ba2a
 * **ASIN:** B01MQDO3SC
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:14:04
+* **Release Date:** November 4, 2016 @ 09:14:04
 * **In-App Purchasing:** No

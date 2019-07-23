@@ -18,5 +18,5 @@ No other hardware is required, simply say "Alexa, give me inspiration"
 * **ID:** amzn1.ask.skill.57c7c7fb-9561-4a7a-bd4d-ece87425e976
 * **ASIN:** B01JT8N8P2
 * **Author:** Adam Socik
-* **Release Date:** August 8, 2016 @ 07:37:32
+* **Release Date:** August 8, 2016 @ 08:37:32
 * **In-App Purchasing:** No

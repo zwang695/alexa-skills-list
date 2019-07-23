@@ -20,5 +20,5 @@ The Afton Alps Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.0398bd44-680f-4b9f-979d-dfa74388ccee
 * **ASIN:** B01M4LFL73
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:18:51
+* **Release Date:** October 21, 2016 @ 15:18:51
 * **In-App Purchasing:** No

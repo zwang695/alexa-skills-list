@@ -20,5 +20,5 @@ Entertaining facts that might be about you
 * **ID:** amzn1.echo-sdk-ams.app.fabde872-2133-4e3e-a1d8-ca2355463552
 * **ASIN:** B01I79HO90
 * **Author:** Shao Chen
-* **Release Date:** November 25, 2016 @ 07:05:37
+* **Release Date:** November 25, 2016 @ 08:05:37
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Hopefully your dog will react to one of Alexa's question and you can finally und
 * **ID:** amzn1.ask.skill.df872fc3-1958-4947-bfb2-60e1bb8cc7c7
 * **ASIN:** B01M13Z35T
 * **Author:** mkbuddy
-* **Release Date:** September 28, 2016 @ 18:12:46
+* **Release Date:** September 28, 2016 @ 19:12:46
 * **In-App Purchasing:** No

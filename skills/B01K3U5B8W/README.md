@@ -23,5 +23,5 @@ Icons made by Madebyoliver from www.flaticon.com
 * **ID:** amzn1.ask.skill.c032c0a8-2ba1-4eb5-bef2-2cd21b254a6a
 * **ASIN:** B01K3U5B8W
 * **Author:** swentling
-* **Release Date:** August 12, 2016 @ 02:07:41
+* **Release Date:** August 12, 2016 @ 03:07:41
 * **In-App Purchasing:** No

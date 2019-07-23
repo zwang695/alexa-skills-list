@@ -21,5 +21,5 @@ Alexa, start geography quiz
 * **ID:** amzn1.ask.skill.cf903f77-4b98-4cc3-b495-a10047c0c217
 * **ASIN:** B01J14QSUQ
 * **Author:** neeti sharma
-* **Release Date:** July 28, 2016 @ 09:56:43
+* **Release Date:** July 28, 2016 @ 10:56:43
 * **In-App Purchasing:** No

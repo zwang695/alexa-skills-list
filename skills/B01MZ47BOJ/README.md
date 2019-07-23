@@ -20,5 +20,5 @@ Generates random fun fact from 25 possible facts.
 * **ID:** amzn1.ask.skill.02ea6b39-6106-44c0-9894-b13b27641334
 * **ASIN:** B01MZ47BOJ
 * **Author:** Shane Ngai
-* **Release Date:** January 2, 2017 @ 22:49:26
+* **Release Date:** January 2, 2017 @ 23:49:26
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Tell me the year you were born and I will tell you your sign and the personality
 * **ID:** amzn1.ask.skill.1a7681da-833f-466d-ad19-c167134770d9
 * **ASIN:** B01KDG8QVK
 * **Author:** jcn
-* **Release Date:** August 17, 2016 @ 06:22:33
+* **Release Date:** August 17, 2016 @ 07:22:33
 * **In-App Purchasing:** No

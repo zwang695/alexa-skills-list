@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.df0a8602-f739-484b-9843-7fe86235aacf
 * **ASIN:** B01NAIPGCJ
 * **Author:** Stefan Jerichow
-* **Release Date:** December 15, 2016 @ 00:19:26
+* **Release Date:** December 15, 2016 @ 01:19:26
 * **In-App Purchasing:** No

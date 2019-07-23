@@ -26,5 +26,5 @@ Be informed and stay healthy!
 * **ID:** amzn1.ask.skill.a838d422-a084-40b7-a53c-212c28441487
 * **ASIN:** B01NGZYR7U
 * **Author:** Cameron Rye
-* **Release Date:** December 28, 2016 @ 04:49:33
+* **Release Date:** December 28, 2016 @ 05:49:33
 * **In-App Purchasing:** No

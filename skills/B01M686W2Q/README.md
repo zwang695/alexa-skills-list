@@ -20,5 +20,5 @@ The Royal Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.0e09e8e5-25ba-4c19-9cd3-0f3d1eddf88a
 * **ASIN:** B01M686W2Q
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:45:19
+* **Release Date:** October 26, 2016 @ 04:45:19
 * **In-App Purchasing:** No

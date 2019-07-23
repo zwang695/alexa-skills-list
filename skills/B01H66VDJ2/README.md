@@ -20,5 +20,5 @@ Ask the app for a new fact, it should provide you with a random interesting fact
 * **ID:** amzn1.echo-sdk-ams.app.e16a7bc9-f2dd-4a08-90dd-cd061507eab8
 * **ASIN:** B01H66VDJ2
 * **Author:** Americool
-* **Release Date:** June 25, 2016 @ 02:16:01
+* **Release Date:** June 25, 2016 @ 03:16:01
 * **In-App Purchasing:** No

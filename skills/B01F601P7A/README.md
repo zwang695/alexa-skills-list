@@ -20,5 +20,5 @@ Try you knowledge against Alexa in this History quiz
 * **ID:** amzn1.echo-sdk-ams.app.04dbcec5-fdd1-4441-91e8-5b962b2786a9
 * **ASIN:** B01F601P7A
 * **Author:** Kids game area
-* **Release Date:** May 10, 2016 @ 05:38:37
+* **Release Date:** May 10, 2016 @ 06:38:37
 * **In-App Purchasing:** No

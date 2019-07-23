@@ -20,5 +20,5 @@ Learn about the Salsa Music and Dance, facts and history.
 * **ID:** amzn1.echo-sdk-ams.app.db92c9bb-5fe9-43e5-9fc3-4e85543e3118
 * **ASIN:** B01I7CETZY
 * **Author:** vince_v
-* **Release Date:** August 11, 2016 @ 03:37:32
+* **Release Date:** August 11, 2016 @ 04:37:32
 * **In-App Purchasing:** No

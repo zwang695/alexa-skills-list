@@ -22,5 +22,5 @@ More facts will be added soon.
 * **ID:** amzn1.ask.skill.cbc91c24-8e1f-42b6-a42a-f51895603391
 * **ASIN:** B01MYWZ762
 * **Author:** Said Ibrihen
-* **Release Date:** December 8, 2016 @ 04:19:03
+* **Release Date:** December 8, 2016 @ 05:19:03
 * **In-App Purchasing:** No

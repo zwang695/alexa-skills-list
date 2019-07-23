@@ -18,5 +18,5 @@ This skill will randomly tell a quote from a famous person. It gives the author'
 * **ID:** amzn1.ask.skill.8d1845f1-7aa2-4379-aa86-2337a6edc77d
 * **ASIN:** B01LXXV8MZ
 * **Author:** antcho92
-* **Release Date:** October 7, 2016 @ 07:11:57
+* **Release Date:** October 7, 2016 @ 08:11:57
 * **In-App Purchasing:** No

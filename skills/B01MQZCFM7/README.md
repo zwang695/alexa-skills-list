@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.071aa7bb-8061-4870-9f53-b4427bf23e1f
 * **ASIN:** B01MQZCFM7
 * **Author:** Ansgar Schmidt
-* **Release Date:** December 28, 2016 @ 01:19:13
+* **Release Date:** December 28, 2016 @ 02:19:13
 * **In-App Purchasing:** No

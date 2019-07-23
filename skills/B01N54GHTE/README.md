@@ -22,5 +22,5 @@ Note: this skill is not sponsored or endorsed by Donald Trump or his campaign.
 * **ID:** amzn1.ask.skill.1eb45687-ed43-4e20-bc5c-bbc976ecd0ce
 * **ASIN:** B01N54GHTE
 * **Author:** Riley
-* **Release Date:** November 25, 2016 @ 04:05:22
+* **Release Date:** November 25, 2016 @ 05:05:22
 * **In-App Purchasing:** No

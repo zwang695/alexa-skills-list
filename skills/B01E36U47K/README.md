@@ -22,5 +22,5 @@ Although this skill is simply a calendar countdown, our monthly Puzzled Pint eve
 * **ID:** amzn1.echo-sdk-ams.app.4a9597f5-bd5d-4bba-889f-ec173661de28
 * **ASIN:** B01E36U47K
 * **Author:** Brian Enigma
-* **Release Date:** April 20, 2016 @ 19:02:26
+* **Release Date:** April 20, 2016 @ 20:02:26
 * **In-App Purchasing:** No

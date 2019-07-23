@@ -20,7 +20,7 @@ Would you rather eat a hundred chillies or never eat again? Who is faster, a wor
 * **ID:** amzn1.echo-sdk-ams.app.f0936c2c-cf40-478c-966b-e4b4c2bbbc33
 * **ASIN:** B01F21E4M6
 * **Author:** MillieSoft
-* **Release Date:** May 5, 2016 @ 02:08:35
+* **Release Date:** May 5, 2016 @ 03:08:35
 * **Privacy Policy:** https://www.milliesoft.co.uk/would_you_rather/privacy.html
 * **Terms of Use:** https://www.milliesoft.co.uk/would_you_rather/terms.html
 * **In-App Purchasing:** No

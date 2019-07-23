@@ -20,5 +20,5 @@ Students always need security going into the exam season. They always want to kn
 * **ID:** amzn1.ask.skill.5b00abe0-3b3c-48d1-9250-591198634594
 * **ASIN:** B01N3NR4HJ
 * **Author:** Codifying Solutions
-* **Release Date:** November 21, 2016 @ 02:05:34
+* **Release Date:** November 21, 2016 @ 03:05:34
 * **In-App Purchasing:** No

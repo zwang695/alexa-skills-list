@@ -22,5 +22,5 @@ Does not provide information on festivals.[This feature is coming]
 * **ID:** amzn1.ask.skill.31ede0d6-bed4-4500-861a-1edb26dd1d51
 * **ASIN:** B01MXNKSWC
 * **Author:** Student
-* **Release Date:** November 25, 2016 @ 09:05:38
+* **Release Date:** November 25, 2016 @ 10:05:38
 * **In-App Purchasing:** No

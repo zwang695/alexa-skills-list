@@ -20,5 +20,5 @@ Please note that this skill is not sponsored or endorsed by SEPTA Regional Rail.
 * **ID:** amzn1.echo-sdk-ams.app.b559919e-ae80-401b-a09a-ec5493e48c5f
 * **ASIN:** B01M2DF13G
 * **Author:** EJ Dougherty
-* **Release Date:** November 12, 2016 @ 00:13:39
+* **Release Date:** November 12, 2016 @ 01:13:39
 * **In-App Purchasing:** No

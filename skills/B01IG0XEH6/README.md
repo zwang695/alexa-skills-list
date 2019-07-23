@@ -20,5 +20,5 @@ This skill has very interesting and amusing facts about the country of India. On
 * **ID:** amzn1.echo-sdk-ams.app.dfdc6852-efa3-4c41-bbcd-cb40bb34cf14
 * **ASIN:** B01IG0XEH6
 * **Author:** Sanmati Choudhary
-* **Release Date:** July 15, 2016 @ 06:57:35
+* **Release Date:** July 15, 2016 @ 07:57:35
 * **In-App Purchasing:** No

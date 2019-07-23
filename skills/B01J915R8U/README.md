@@ -23,5 +23,5 @@ Use nutrient facts to attain information about the function of key nutrients in 
 * **ID:** amzn1.ask.skill.6a961256-7950-4472-bdb3-e7e45615ef0f
 * **ASIN:** B01J915R8U
 * **Author:** Eleni Marie
-* **Release Date:** August 10, 2016 @ 03:07:36
+* **Release Date:** August 10, 2016 @ 04:07:36
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Its filled fun and helpful facts I think all hamster fans should know.
 * **ID:** amzn1.ask.skill.1d7bb609-795a-4313-9975-8cf5fcd75fef
 * **ASIN:** B01M4HGRZQ
 * **Author:** Derek Afriyie
-* **Release Date:** October 14, 2016 @ 02:46:38
+* **Release Date:** October 14, 2016 @ 03:46:38
 * **In-App Purchasing:** No

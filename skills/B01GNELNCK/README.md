@@ -20,5 +20,5 @@ A network quiz to help you sharpen the basics! Don't leave home to go to your ne
 * **ID:** amzn1.echo-sdk-ams.app.51aef343-326b-455b-8f29-a5a4f91eb5bf
 * **ASIN:** B01GNELNCK
 * **Author:** Steven Klassen
-* **Release Date:** June 7, 2016 @ 10:38:32
+* **Release Date:** June 7, 2016 @ 11:38:32
 * **In-App Purchasing:** No

@@ -28,5 +28,5 @@ After asking your question, be sure to view the cards in the Alexa app for an im
 * **ID:** amzn1.echo-sdk-ams.app.d35ddede-0971-4501-99de-5b2dbc46b67d
 * **ASIN:** B01H0SY8LQ
 * **Author:** worldengine
-* **Release Date:** June 16, 2016 @ 04:45:28
+* **Release Date:** June 16, 2016 @ 05:45:28
 * **In-App Purchasing:** No

@@ -26,5 +26,5 @@ If you want to reset your preferences say "Alexa, ask daily wear to reset". This
 * **ID:** amzn1.ask.skill.467ab8f7-2580-4d64-a77a-fd3013b410a4
 * **ASIN:** B01MRS0Z78
 * **Author:** Nikhil Walvekar
-* **Release Date:** December 5, 2016 @ 02:05:33
+* **Release Date:** December 5, 2016 @ 03:05:33
 * **In-App Purchasing:** No

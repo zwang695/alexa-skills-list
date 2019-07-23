@@ -20,5 +20,5 @@ This app will provide facts about US Presidents. Facts that have occurred in the
 * **ID:** amzn1.ask.skill.8736b17a-595e-417a-9100-619ee497ca6f
 * **ASIN:** B01LX1EIOV
 * **Author:** Sogeti
-* **Release Date:** October 7, 2016 @ 07:42:08
+* **Release Date:** October 7, 2016 @ 08:42:08
 * **In-App Purchasing:** No

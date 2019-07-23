@@ -38,7 +38,7 @@ Thanks for your feedback! Please share your thoughts, and we'll do our best to p
 * **ID:** amzn1.echo-sdk-ams.app.b4f92e2d-0bb7-4eec-acaf-ce71268c4b02
 * **ASIN:** B01DCLSLHC
 * **Author:** Wcities Inc.
-* **Release Date:** March 23, 2016 @ 16:01:47
+* **Release Date:** March 23, 2016 @ 17:01:47
 * **Privacy Policy:** http://eventseeker.com/docs/wCities-Privacy_Policy_2015.doc
 * **Terms of Use:** http://eventseeker.com/docs/Eventseeker-Terms_of_Service_2015.docx
 * **In-App Purchasing:** No

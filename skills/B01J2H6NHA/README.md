@@ -22,5 +22,5 @@ Let's see if you are a Ukrainian Facts Master!
 * **ID:** amzn1.ask.skill.685ebe7f-8fe7-4603-bc21-730ac1eb0331
 * **ASIN:** B01J2H6NHA
 * **Author:** Dustin Wurtz
-* **Release Date:** July 29, 2016 @ 07:26:25
+* **Release Date:** July 29, 2016 @ 08:26:25
 * **In-App Purchasing:** No

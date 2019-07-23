@@ -20,5 +20,5 @@ Learn random and fun things about Mars.
 * **ID:** amzn1.ask.skill.b62ac636-1bd9-4ac1-989c-819466eac489
 * **ASIN:** B01L1LX9LS
 * **Author:** dilraj
-* **Release Date:** August 26, 2016 @ 07:02:39
+* **Release Date:** August 26, 2016 @ 08:02:39
 * **In-App Purchasing:** No

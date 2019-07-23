@@ -20,5 +20,5 @@ The aspiration of My Copilot is to answer any general aviation question as if yo
 * **ID:** amzn1.echo-sdk-ams.app.8f5b7989-cb58-4355-aec4-3003462073c8
 * **ASIN:** B01DKF311G
 * **Author:** Runaway Bamboo LLC
-* **Release Date:** March 29, 2016 @ 03:32:36
+* **Release Date:** March 29, 2016 @ 04:32:36
 * **In-App Purchasing:** No

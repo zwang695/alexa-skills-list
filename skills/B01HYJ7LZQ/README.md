@@ -20,5 +20,5 @@ Learn calls of Michigan Frogs by listen to their calls and guessing which frog i
 * **ID:** amzn1.echo-sdk-ams.app.6fc681bd-17da-45df-ac80-5c91a7706b36
 * **ASIN:** B01HYJ7LZQ
 * **Author:** FiveNets
-* **Release Date:** July 6, 2016 @ 01:58:03
+* **Release Date:** July 6, 2016 @ 02:58:03
 * **In-App Purchasing:** No

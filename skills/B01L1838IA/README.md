@@ -55,5 +55,5 @@ Helpful Hints:
 * **ID:** amzn1.ask.skill.8931cda5-06ef-4750-acfe-73ea994bd5bc
 * **ASIN:** B01L1838IA
 * **Author:** Greg Bronner
-* **Release Date:** September 14, 2016 @ 21:44:07
+* **Release Date:** September 14, 2016 @ 22:44:07
 * **In-App Purchasing:** No

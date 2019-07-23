@@ -22,5 +22,5 @@ Content may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.9b848dfa-bc42-4182-b3f7-86028be5dec3
 * **ASIN:** B01FTCHTHA
 * **Author:** FiveNets
-* **Release Date:** May 27, 2016 @ 16:08:34
+* **Release Date:** May 27, 2016 @ 17:08:34
 * **In-App Purchasing:** No

@@ -23,5 +23,5 @@ http://www.imxprs.com/free/erictaylorproductions/erictaylorproductions
 * **ID:** amzn1.ask.skill.c4f53ab4-2d8c-4b17-820a-ae33babccdcd
 * **ASIN:** B01M283C22
 * **Author:** dskrad
-* **Release Date:** November 16, 2016 @ 02:35:26
+* **Release Date:** November 16, 2016 @ 03:35:26
 * **In-App Purchasing:** No

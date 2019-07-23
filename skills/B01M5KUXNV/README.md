@@ -20,5 +20,5 @@ The Mont Farlagne Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.64dced64-2637-43f4-a786-972d3615cc11
 * **ASIN:** B01M5KUXNV
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:15:07
+* **Release Date:** November 5, 2016 @ 12:15:07
 * **In-App Purchasing:** No

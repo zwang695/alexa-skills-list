@@ -18,5 +18,5 @@ Human Body Facts provides you with random facts related to the human body. Here 
 * **ID:** amzn1.ask.skill.d9662118-1a58-417f-981c-bdaf54a5ce59
 * **ASIN:** B01LYBSVE2
 * **Author:** heysusgarcia
-* **Release Date:** October 5, 2016 @ 00:12:37
+* **Release Date:** October 5, 2016 @ 01:12:37
 * **In-App Purchasing:** No

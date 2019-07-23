@@ -20,5 +20,5 @@ The Mont Avila Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.b04e72f5-2366-4828-b781-37dabd957910
 * **ASIN:** B01N093K9F
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:43:10
+* **Release Date:** November 5, 2016 @ 12:43:10
 * **In-App Purchasing:** No

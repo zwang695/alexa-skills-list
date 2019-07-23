@@ -18,5 +18,5 @@ This skill is useful to understand various programming terms like algorithms, wh
 * **ID:** amzn1.ask.skill.7833da6b-5a6f-4ece-8af8-dcede61f2552
 * **ASIN:** B01LWJ13GA
 * **Author:** Yogiraj Awati
-* **Release Date:** October 4, 2016 @ 02:13:56
+* **Release Date:** October 4, 2016 @ 03:13:56
 * **In-App Purchasing:** No

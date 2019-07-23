@@ -20,5 +20,5 @@ Poker Pro helps you become a better No Limit Hold'Em player. It covers both Cash
 * **ID:** amzn1.ask.skill.f25d56ae-fd3c-4827-ae8c-b1f4d6c89c0a
 * **ASIN:** B01MU5MAOB
 * **Author:** Arbel Industries
-* **Release Date:** January 2, 2017 @ 22:18:59
+* **Release Date:** January 2, 2017 @ 23:18:59
 * **In-App Purchasing:** No

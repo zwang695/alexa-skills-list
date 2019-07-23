@@ -20,5 +20,5 @@ With the Arlen Bystander skill, Alexa knows all thirteen seasons of the televisi
 * **ID:** amzn1.echo-sdk-ams.app.df7d1fa7-b1ce-4c2e-87f8-09eba539ac9f
 * **ASIN:** B01HCNS4FU
 * **Author:** Lane Kelly
-* **Release Date:** July 1, 2016 @ 09:27:36
+* **Release Date:** July 1, 2016 @ 10:27:36
 * **In-App Purchasing:** No

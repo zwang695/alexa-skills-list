@@ -20,5 +20,5 @@ This Alexa skill grabs the latest bible classes, sermons, devos or articles foun
 * **ID:** amzn1.echo-sdk-ams.app.ef26c72b-5e34-4a69-b512-94cbb9c45935
 * **ASIN:** B01ELRN734
 * **Author:** Hal Gatewood
-* **Release Date:** August 17, 2016 @ 06:52:32
+* **Release Date:** August 17, 2016 @ 07:52:32
 * **In-App Purchasing:** No

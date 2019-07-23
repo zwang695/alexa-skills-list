@@ -26,5 +26,5 @@ Space exploration trivia for significant historical and future Star Dates is als
 * **ID:** amzn1.ask.skill.81ad79f2-0d54-454e-af3f-5d70e952c518
 * **ASIN:** B01MRJKX2C
 * **Author:** 1701 Society
-* **Release Date:** November 25, 2016 @ 03:35:52
+* **Release Date:** November 25, 2016 @ 04:35:52
 * **In-App Purchasing:** No

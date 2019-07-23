@@ -20,5 +20,5 @@ This features the the capitals of the 193 member states of the United Nations in
 * **ID:** amzn1.ask.skill.66ecad9d-99a3-409e-8034-c358b8167da6
 * **ASIN:** B01IUU7HWU
 * **Author:** Jeepney Labs
-* **Release Date:** August 17, 2016 @ 04:52:27
+* **Release Date:** August 17, 2016 @ 05:52:27
 * **In-App Purchasing:** No

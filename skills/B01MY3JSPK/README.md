@@ -20,5 +20,5 @@ Like sharks? Want to learn more? This skill will give you pseudo-random shark fa
 * **ID:** amzn1.ask.skill.0cb1a699-933f-4338-abf7-70cba4bcaae2
 * **ASIN:** B01MY3JSPK
 * **Author:** Jennifer Wei
-* **Release Date:** January 2, 2017 @ 22:49:09
+* **Release Date:** January 2, 2017 @ 23:49:09
 * **In-App Purchasing:** No

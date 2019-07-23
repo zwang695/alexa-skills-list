@@ -20,5 +20,5 @@ The happiest, most satisfying relationships rest on a foundation of implicit tru
 * **ID:** amzn1.ask.skill.f3b17167-400b-48ed-9f91-fe66215a382a
 * **ASIN:** B01M7XTZSF
 * **Author:** elev8
-* **Release Date:** November 14, 2016 @ 01:12:56
+* **Release Date:** November 14, 2016 @ 02:12:56
 * **In-App Purchasing:** No

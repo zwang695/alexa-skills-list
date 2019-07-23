@@ -20,5 +20,5 @@ Cinci Guide
 * **ID:** amzn1.ask.skill.787e4a65-ce2d-446a-873d-7afd14e35d48
 * **ASIN:** B01N6M58JJ
 * **Author:** Sunil
-* **Release Date:** January 2, 2017 @ 00:49:16
+* **Release Date:** January 2, 2017 @ 01:49:16
 * **In-App Purchasing:** No

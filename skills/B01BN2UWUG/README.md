@@ -22,5 +22,5 @@ You can ask Alexa for Hacker News stories from the following categories: top, sh
 * **ID:** amzn1.echo-sdk-ams.app.29180dec-94e8-4c21-8403-1eb1a9beace0
 * **ASIN:** B01BN2UWUG
 * **Author:** Same Difference Games
-* **Release Date:** February 10, 2016 @ 18:33:26
+* **Release Date:** February 10, 2016 @ 19:33:26
 * **In-App Purchasing:** No

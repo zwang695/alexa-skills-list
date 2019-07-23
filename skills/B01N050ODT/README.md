@@ -20,5 +20,5 @@ The Hogadon Ski Area Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.317fb6f0-4c58-4ff5-b543-98dbf64e03a6
 * **ASIN:** B01N050ODT
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:42:33
+* **Release Date:** November 5, 2016 @ 11:42:33
 * **In-App Purchasing:** No

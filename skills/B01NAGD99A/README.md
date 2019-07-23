@@ -21,5 +21,5 @@ This skill is not affiliated, sponsored or endorsed by Top Kick Productions.
 * **ID:** amzn1.ask.skill.ae6967fd-f7e6-4972-8bba-652a368b9617
 * **ASIN:** B01NAGD99A
 * **Author:** SkywalkerX86
-* **Release Date:** December 9, 2016 @ 01:49:27
+* **Release Date:** December 9, 2016 @ 02:49:27
 * **In-App Purchasing:** No

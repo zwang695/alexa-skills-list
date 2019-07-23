@@ -20,5 +20,5 @@ The Timber Ridge Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.1421a0bf-f2f1-4f17-88a3-fa320f2f2956
 * **ASIN:** B01M6Z4Q8L
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:44:21
+* **Release Date:** October 21, 2016 @ 15:44:21
 * **In-App Purchasing:** No

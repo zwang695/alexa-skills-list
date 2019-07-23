@@ -26,5 +26,5 @@ Google Maps Geocoding API, https://developers.google.com
 * **ID:** amzn1.ask.skill.6d30ba2f-9081-4d6c-9db8-3fd59f61eb49
 * **ASIN:** B01MQK7UZ8
 * **Author:** Christopher Kuzma
-* **Release Date:** November 25, 2016 @ 03:38:47
+* **Release Date:** November 25, 2016 @ 04:38:47
 * **In-App Purchasing:** No

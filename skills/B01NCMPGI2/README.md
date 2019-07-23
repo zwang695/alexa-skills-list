@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.ba6e6686-42a9-41f0-9a6f-21707a223af0
 * **ASIN:** B01NCMPGI2
 * **Author:** gaedicke
-* **Release Date:** December 21, 2016 @ 07:19:41
+* **Release Date:** December 21, 2016 @ 08:19:41
 * **In-App Purchasing:** No

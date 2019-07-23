@@ -24,5 +24,5 @@ then try Truckee Trivia
 * **ID:** amzn1.ask.skill.f79fa67a-6882-4f0d-9388-998c63ed296e
 * **ASIN:** B01M0FI2FH
 * **Author:** Dave Sick
-* **Release Date:** September 20, 2016 @ 01:43:07
+* **Release Date:** September 20, 2016 @ 02:43:07
 * **In-App Purchasing:** No

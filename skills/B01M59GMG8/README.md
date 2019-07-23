@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.3a91dc6e-2191-4d07-a297-8a33bd50ab56
 * **ASIN:** B01M59GMG8
 * **Author:** Mandy Chan
-* **Release Date:** October 21, 2016 @ 15:43:22
+* **Release Date:** October 21, 2016 @ 16:43:22
 * **In-App Purchasing:** No

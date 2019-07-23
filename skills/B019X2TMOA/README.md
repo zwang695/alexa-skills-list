@@ -26,5 +26,5 @@ This skill contains references to alcohol and may not be suitable to everyone.
 * **ID:** amzn1.echo-sdk-ams.app.dfce44e1-0dd5-4a5e-84be-2e5d2e3b9b1a
 * **ASIN:** B019X2TMOA
 * **Author:** Fun Loving Skills
-* **Release Date:** December 28, 2015 @ 17:35:22
+* **Release Date:** December 28, 2015 @ 18:35:22
 * **In-App Purchasing:** No

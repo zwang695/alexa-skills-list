@@ -44,7 +44,7 @@ Disclaimer:  This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.ef96f00e-1916-4e52-bbaa-83b1f261a62a
 * **ASIN:** B01KP6LIIQ
 * **Author:** Climate Automation Systems
-* **Release Date:** September 2, 2016 @ 05:03:26
+* **Release Date:** September 2, 2016 @ 06:03:26
 * **Privacy Policy:** https://www.askenv.net/envalexa/AlexaPrivacyPolicy.aspx
 * **Terms of Use:** https://www.askenv.net/envalexa/AlexaTermsofuse.aspx
 * **Account Linking Domains:** askenv.net, climateautomationsystems.net

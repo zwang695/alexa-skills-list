@@ -20,5 +20,5 @@ The Bristol Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.c409d83a-219a-4e42-b4b3-bc521764e89e
 * **ASIN:** B01M8MGD9O
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:45:33
+* **Release Date:** October 26, 2016 @ 03:45:33
 * **In-App Purchasing:** No

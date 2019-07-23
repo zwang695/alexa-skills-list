@@ -22,5 +22,5 @@ Richmond is the Southern capital of cool. Already well known for its rich histor
 * **ID:** amzn1.echo-sdk-ams.app.f95135b0-f6b3-455f-bece-a420496677f7
 * **ASIN:** B01GAJQKF8
 * **Author:** Drew Firment
-* **Release Date:** June 1, 2016 @ 01:08:39
+* **Release Date:** June 1, 2016 @ 02:08:39
 * **In-App Purchasing:** No

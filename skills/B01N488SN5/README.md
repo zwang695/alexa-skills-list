@@ -23,5 +23,5 @@ Ref: http://www.flaticon.com/authors/pixel-buddha. Flaticon is licensed by http:
 * **ID:** amzn1.ask.skill.d37c1248-aa5b-4e1e-86e7-fd45e72d4980
 * **ASIN:** B01N488SN5
 * **Author:** Jesus Rodriguez
-* **Release Date:** December 1, 2016 @ 09:05:24
+* **Release Date:** December 1, 2016 @ 10:05:24
 * **In-App Purchasing:** No

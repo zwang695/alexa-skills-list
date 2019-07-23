@@ -20,5 +20,5 @@ this skills give weekly ,Monthly and yearly horoscope/prediction for current tim
 * **ID:** amzn1.ask.skill.1764fb60-0637-4bd8-b7b6-f172f39bb29c
 * **ASIN:** B01NCDY876
 * **Author:** Amber
-* **Release Date:** December 7, 2016 @ 06:19:10
+* **Release Date:** December 7, 2016 @ 07:19:10
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Little Switzerland Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.2b2597f8-6844-4fc8-b1b7-3c4e8a207c3c
 * **ASIN:** B01MXCHH9Y
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:43:21
+* **Release Date:** November 5, 2016 @ 11:43:21
 * **In-App Purchasing:** No

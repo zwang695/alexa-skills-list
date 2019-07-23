@@ -18,5 +18,5 @@ Trivia game about Indonesia.
 * **ID:** amzn1.ask.skill.ebe4c0da-16b2-431d-8ad0-4edadd8243ad
 * **ASIN:** B01N2UB15W
 * **Author:** oleh
-* **Release Date:** December 17, 2016 @ 00:49:11
+* **Release Date:** December 17, 2016 @ 01:49:11
 * **In-App Purchasing:** No

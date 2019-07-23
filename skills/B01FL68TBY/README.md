@@ -28,5 +28,5 @@ DISCLAIMER : This is not a substitute for medical professional advice.
 * **ID:** amzn1.echo-sdk-ams.app.e6d2cd7c-e86d-468f-9ba6-ea9765551a77
 * **ASIN:** B01FL68TBY
 * **Author:** Doctor Echo
-* **Release Date:** May 20, 2016 @ 16:38:36
+* **Release Date:** May 20, 2016 @ 17:38:36
 * **In-App Purchasing:** No

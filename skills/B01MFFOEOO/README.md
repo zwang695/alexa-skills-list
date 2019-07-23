@@ -20,5 +20,5 @@ List of officers at International Technological University who are leading the d
 * **ID:** amzn1.ask.skill.f76d763f-f931-477e-b208-a8d080f949df
 * **ASIN:** B01MFFOEOO
 * **Author:** ITU
-* **Release Date:** November 4, 2016 @ 02:44:10
+* **Release Date:** November 4, 2016 @ 03:44:10
 * **In-App Purchasing:** No

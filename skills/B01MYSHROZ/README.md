@@ -16,5 +16,5 @@ Tells the number of days until Halloween. Just ask, "Alexa, open Halloween Count
 * **ID:** amzn1.ask.skill.b032289e-42c6-4a6a-9b25-1935c12aa1ef
 * **ASIN:** B01MYSHROZ
 * **Author:** Tapgods
-* **Release Date:** November 27, 2016 @ 05:04:53
+* **Release Date:** November 27, 2016 @ 06:04:53
 * **In-App Purchasing:** No

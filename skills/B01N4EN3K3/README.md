@@ -20,5 +20,5 @@ Get your donald trump facts.  The skill is not sponsored or endorsed by Donald T
 * **ID:** amzn1.ask.skill.de9939a4-cfbc-48df-baed-c87486eb1d79
 * **ASIN:** B01N4EN3K3
 * **Author:** greenspagetti
-* **Release Date:** December 19, 2016 @ 06:49:49
+* **Release Date:** December 19, 2016 @ 07:49:49
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Last Frontier Heli Ripley Creek Snow Report brought to you by SnoCountry bri
 * **ID:** amzn1.ask.skill.9324b474-9788-433b-8b59-9a22e5d52996
 * **ASIN:** B01LWONNDA
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:56:52
+* **Release Date:** October 20, 2016 @ 03:56:52
 * **In-App Purchasing:** No

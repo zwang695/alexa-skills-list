@@ -28,5 +28,5 @@ Test your knowledge of Major League Baseball with this educational flash card ga
 * **ID:** amzn1.ask.skill.24489b70-e490-42fd-b25f-ac0d836219a0
 * **ASIN:** B01JFDN25C
 * **Author:** NSojourner
-* **Release Date:** August 2, 2016 @ 07:36:56
+* **Release Date:** August 2, 2016 @ 08:36:56
 * **In-App Purchasing:** No

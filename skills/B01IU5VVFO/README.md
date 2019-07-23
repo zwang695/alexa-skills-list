@@ -20,5 +20,5 @@ This skill will tell you about Martin Luther King Junior.  It will tell you abou
 * **ID:** amzn1.ask.skill.10301835-be40-47b4-873e-90c74b2aea6c
 * **ASIN:** B01IU5VVFO
 * **Author:** Personal
-* **Release Date:** August 10, 2016 @ 06:37:56
+* **Release Date:** August 10, 2016 @ 07:37:56
 * **In-App Purchasing:** No

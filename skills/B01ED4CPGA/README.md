@@ -29,7 +29,7 @@ Max weight limit is set to 400 pounds to reduce errors that some reviewers have 
 * **ID:** amzn1.echo-sdk-ams.app.4e3c1be0-f7df-43f1-93d5-2cab2e09d0e4
 * **ASIN:** B01ED4CPGA
 * **Author:** Innomore LLC
-* **Release Date:** May 4, 2016 @ 23:08:31
+* **Release Date:** May 5, 2016 @ 00:08:31
 * **Privacy Policy:** https://s3.amazonaws.com/alexia-skills/privacy.txt
 * **Terms of Use:** https://s3.amazonaws.com/alexia-skills/terms_conditions.txt
 * **In-App Purchasing:** No

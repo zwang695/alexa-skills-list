@@ -20,5 +20,5 @@ Local Earthquakes returns the top five earthquakes (sorted by descending magnitu
 * **ID:** amzn1.echo-sdk-ams.app.da89205d-8df4-4e5e-a251-ca3f74a27f77
 * **ASIN:** B01MDNEBV1
 * **Author:** Jeanie Conner
-* **Release Date:** October 22, 2016 @ 02:42:08
+* **Release Date:** October 22, 2016 @ 03:42:08
 * **In-App Purchasing:** No

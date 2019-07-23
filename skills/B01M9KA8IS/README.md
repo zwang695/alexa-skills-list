@@ -20,5 +20,5 @@ The Mont Belu Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.f04a583f-89e6-4ed0-9b89-c1e99ac95f7d
 * **ASIN:** B01M9KA8IS
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:43:16
+* **Release Date:** November 5, 2016 @ 12:43:16
 * **In-App Purchasing:** No

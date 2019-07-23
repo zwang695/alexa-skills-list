@@ -20,5 +20,5 @@ Fun and interesting skill that responds with well known and not so well known tr
 * **ID:** amzn1.ask.skill.86bc6eec-8401-4c17-a888-4da219f177c5
 * **ASIN:** B01LZLRVM9
 * **Author:** Vinayak Mankal
-* **Release Date:** October 3, 2016 @ 02:42:26
+* **Release Date:** October 3, 2016 @ 03:42:26
 * **In-App Purchasing:** No

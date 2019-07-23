@@ -20,5 +20,5 @@ Opens up a short dialog to give a random golf fact that will impress your golf b
 * **ID:** amzn1.echo-sdk-ams.app.ac25924d-04a8-4d1d-9a7a-d512b6c4de10
 * **ASIN:** B01I76BLEM
 * **Author:** Shiny Roads 
-* **Release Date:** July 11, 2016 @ 06:57:31
+* **Release Date:** July 11, 2016 @ 07:57:31
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ And if you're also a big TV fan then check out Milo's brother Titus.  The Titus 
 * **ID:** amzn1.echo-sdk-ams.app.09f64a08-7ba3-42f0-9d22-476a9e9f9d19
 * **ASIN:** B01CP6PFLK
 * **Author:** techdad24.com
-* **Release Date:** March 8, 2016 @ 05:50:19
+* **Release Date:** March 8, 2016 @ 06:50:19
 * **In-App Purchasing:** No

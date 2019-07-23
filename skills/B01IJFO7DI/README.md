@@ -20,5 +20,5 @@ This is an interesting fact about a fruit, mango.
 * **ID:** amzn1.echo-sdk-ams.app.caca004d-ae8e-4c2a-934a-bce78cedffe5
 * **ASIN:** B01IJFO7DI
 * **Author:** Tanu 
-* **Release Date:** July 22, 2016 @ 06:57:07
+* **Release Date:** July 22, 2016 @ 07:57:07
 * **In-App Purchasing:** No

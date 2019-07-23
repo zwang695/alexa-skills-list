@@ -24,5 +24,5 @@ Contacts the developer via email if you have any special requests: njvijay@yahoo
 * **ID:** amzn1.ask.skill.8d375b23-84c3-4fda-bc11-24d5616de224
 * **ASIN:** B01NAN4YXM
 * **Author:** Vijayakumar Jawaharlal
-* **Release Date:** December 31, 2016 @ 05:19:07
+* **Release Date:** December 31, 2016 @ 06:19:07
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Trivia Facts about everyone's favorite band - Steely Dan. Obscure but public tri
 * **ID:** amzn1.echo-sdk-ams.app.ecdabca0-0eb5-4b44-aec4-29da9fc0692d
 * **ASIN:** B01I7O4ZDS
 * **Author:** BLT Robotics
-* **Release Date:** July 12, 2016 @ 04:27:31
+* **Release Date:** July 12, 2016 @ 05:27:31
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Party Time can tell you if a given date is a Holiday, what holiday is coming up 
 * **ID:** amzn1.ask.skill.b28e2ec9-734d-48b0-9818-0def59b259fb
 * **ASIN:** B01N2OCSXS
 * **Author:** Blackstrap Security
-* **Release Date:** December 4, 2016 @ 07:35:34
+* **Release Date:** December 4, 2016 @ 08:35:34
 * **In-App Purchasing:** No

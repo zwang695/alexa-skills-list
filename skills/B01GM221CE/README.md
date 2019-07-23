@@ -20,5 +20,5 @@ City geek skill has very interesting facts about Bangalore. Bangalore is capital
 * **ID:** amzn1.echo-sdk-ams.app.3d273cce-9601-46ab-a95c-0b2365ff31a4
 * **ASIN:** B01GM221CE
 * **Author:** Shravani
-* **Release Date:** June 8, 2016 @ 07:42:18
+* **Release Date:** June 8, 2016 @ 08:42:18
 * **In-App Purchasing:** No

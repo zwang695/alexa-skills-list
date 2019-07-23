@@ -22,5 +22,5 @@ Please note: "Alec" is the first name of the creator of this skill. This skill h
 * **ID:** amzn1.ask.skill.a601ac6f-8f29-445a-9462-7a01d08b8235
 * **ASIN:** B01N3MR0CU
 * **Author:** Continuum
-* **Release Date:** November 25, 2016 @ 04:06:35
+* **Release Date:** November 25, 2016 @ 05:06:35
 * **In-App Purchasing:** No

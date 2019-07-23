@@ -20,5 +20,5 @@ To know about India, India's History and amazing facts about India. We created a
 * **ID:** amzn1.echo-sdk-ams.app.4f4f0115-373a-4ab8-b5d0-897d518e96f2
 * **ASIN:** B01DOTXR1C
 * **Author:** SUDHI
-* **Release Date:** April 14, 2016 @ 04:32:36
+* **Release Date:** April 14, 2016 @ 05:32:36
 * **In-App Purchasing:** No

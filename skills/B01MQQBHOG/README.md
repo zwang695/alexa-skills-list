@@ -20,5 +20,5 @@ Haven't you always been intrigued by the majestic creature known as the seahorse
 * **ID:** amzn1.ask.skill.05042243-89ed-472f-a669-0b12bc19fcc8
 * **ASIN:** B01MQQBHOG
 * **Author:** Chris Kwan
-* **Release Date:** November 30, 2016 @ 08:05:37
+* **Release Date:** November 30, 2016 @ 09:05:37
 * **In-App Purchasing:** No

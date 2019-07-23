@@ -20,5 +20,5 @@ Provides fun facts on running including running tips, benefits and history
 * **ID:** amzn1.ask.skill.7e1f21e2-0b8d-48e1-8a12-48f8a058ae22
 * **ASIN:** B01M08TTAO
 * **Author:** Simple Works
-* **Release Date:** September 29, 2016 @ 06:42:50
+* **Release Date:** September 29, 2016 @ 07:42:50
 * **In-App Purchasing:** No

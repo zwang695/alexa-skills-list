@@ -20,5 +20,5 @@ Get a lively snack recommendation based on a choice of ayurvedic tastes from a c
 * **ID:** amzn1.ask.skill.795be2e8-78e8-4379-a7b9-44c7891cfcc3
 * **ASIN:** B01KN6PERY
 * **Author:** css
-* **Release Date:** August 22, 2016 @ 03:08:00
+* **Release Date:** August 22, 2016 @ 04:08:00
 * **In-App Purchasing:** No

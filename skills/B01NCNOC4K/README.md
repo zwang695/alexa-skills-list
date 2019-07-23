@@ -20,5 +20,5 @@ This app will allow Alexa to tell a few of the very funny jokes that millions or
 * **ID:** amzn1.ask.skill.1de623a1-a54c-4510-8391-766808a65bc2
 * **ASIN:** B01NCNOC4K
 * **Author:** sharingun
-* **Release Date:** December 24, 2016 @ 08:49:17
+* **Release Date:** December 24, 2016 @ 09:49:17
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Do you love the Rory, Lorelai, Luke, Sookie? Have you binge watched and continue
 * **ID:** amzn1.ask.skill.b51f2cdc-abdf-49c6-bec1-fda89b8b76cf
 * **ASIN:** B01MPX75G9
 * **Author:** CIC: Consistently Inconsistent
-* **Release Date:** November 2, 2016 @ 03:43:18
+* **Release Date:** November 2, 2016 @ 04:43:18
 * **In-App Purchasing:** No

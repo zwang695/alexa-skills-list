@@ -22,5 +22,5 @@ Just ask Alexa "tell me a London food fact" and she will teach you an interestin
 * **ID:** amzn1.ask.skill.5f49c9d3-a01f-4c5e-88e7-b1fa19c9ad19
 * **ASIN:** B01MA6GTNQ
 * **Author:** lewis.ai
-* **Release Date:** November 2, 2016 @ 01:42:55
+* **Release Date:** November 2, 2016 @ 02:42:55
 * **In-App Purchasing:** No

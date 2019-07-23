@@ -20,5 +20,5 @@ A simple but fun quiz about Norway and Norwegians! Both educational and fun!
 * **ID:** amzn1.echo-sdk-ams.app.097ac4b5-93d6-4efd-b745-79e4b0d3c539
 * **ASIN:** B01DR1A9I6
 * **Author:** Fugl
-* **Release Date:** April 6, 2016 @ 02:02:35
+* **Release Date:** April 6, 2016 @ 03:02:35
 * **In-App Purchasing:** No

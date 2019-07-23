@@ -20,5 +20,5 @@ This is a game for all ages. This will inform you about safety guidelines. Simpl
 * **ID:** amzn1.echo-sdk-ams.app.89fee87f-cce6-4f30-9718-da9950898a1a
 * **ASIN:** B01DKPAC5Y
 * **Author:** kingandqueenslabs
-* **Release Date:** March 29, 2016 @ 07:47:52
+* **Release Date:** March 29, 2016 @ 08:47:52
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ To learn some surprising facts about cats, just ask for it. You might say "Tell 
 * **ID:** amzn1.ask.skill.4204e1e2-aca1-4a60-9895-38c3f125c1d8
 * **ASIN:** B01MRITYYG
 * **Author:** Daniel Pöllmann
-* **Release Date:** November 13, 2016 @ 00:43:22
+* **Release Date:** November 13, 2016 @ 01:43:22
 * **In-App Purchasing:** No

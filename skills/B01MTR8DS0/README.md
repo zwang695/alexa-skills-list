@@ -16,5 +16,5 @@ Find the value of a resistor from its color code.
 * **ID:** amzn1.ask.skill.576f62f2-24f8-46b1-9d05-1947591e23e2
 * **ASIN:** B01MTR8DS0
 * **Author:** MrE
-* **Release Date:** November 25, 2016 @ 04:07:45
+* **Release Date:** November 25, 2016 @ 05:07:45
 * **In-App Purchasing:** No

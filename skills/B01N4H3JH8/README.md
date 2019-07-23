@@ -20,5 +20,5 @@ This Alexa skill will take a dollar and/or cent value and determine how much tha
 * **ID:** amzn1.ask.skill.e9cdbcec-83fa-42d3-b9b4-ca9f806d4a54
 * **ASIN:** B01N4H3JH8
 * **Author:** HumanGeo
-* **Release Date:** January 3, 2017 @ 00:19:12
+* **Release Date:** January 3, 2017 @ 01:19:12
 * **In-App Purchasing:** No

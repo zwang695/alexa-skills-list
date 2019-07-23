@@ -20,5 +20,5 @@ This skill includes various facts about the Mr Men. This is an unofficial applic
 * **ID:** amzn1.ask.skill.2b6392d7-bf69-4f45-b567-fcbc9db9fb50
 * **ASIN:** B01MFX8V6S
 * **Author:** Kwok
-* **Release Date:** October 26, 2016 @ 01:15:53
+* **Release Date:** October 26, 2016 @ 02:15:53
 * **In-App Purchasing:** No

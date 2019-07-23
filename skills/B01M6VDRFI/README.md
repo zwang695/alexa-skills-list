@@ -18,5 +18,5 @@ Simply tell Alexa, "potato," and she will tell you a potato!
 * **ID:** amzn1.ask.skill.dfde4217-80f7-4138-baac-d8fab3794c93
 * **ASIN:** B01M6VDRFI
 * **Author:** ylin.design
-* **Release Date:** October 19, 2016 @ 06:42:31
+* **Release Date:** October 19, 2016 @ 07:42:31
 * **In-App Purchasing:** No

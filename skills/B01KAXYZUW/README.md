@@ -20,5 +20,5 @@ Vietnam Fact
 * **ID:** amzn1.ask.skill.3dcc43fe-bd56-4148-ba65-ba0b2de7198b
 * **ASIN:** B01KAXYZUW
 * **Author:** MSG Associates 
-* **Release Date:** August 24, 2016 @ 06:32:40
+* **Release Date:** August 24, 2016 @ 07:32:40
 * **In-App Purchasing:** No

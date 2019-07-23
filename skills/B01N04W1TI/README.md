@@ -24,5 +24,5 @@ Let's get started- May the Force Be With you!
 * **ID:** amzn1.ask.skill.d12a4489-e66d-4ca9-8059-94f3153dde6b
 * **ASIN:** B01N04W1TI
 * **Author:** Karan Desai
-* **Release Date:** November 12, 2016 @ 00:42:44
+* **Release Date:** November 12, 2016 @ 01:42:44
 * **In-App Purchasing:** No

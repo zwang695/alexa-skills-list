@@ -20,5 +20,5 @@ Prove how much of a Super-fan you are with your Supernatural Trivia prowess. Ans
 * **ID:** amzn1.ask.skill.b46f3ddc-3339-466c-921b-f4e859ab442f
 * **ASIN:** B01MQS0RVZ
 * **Author:** Alicia Sedarski
-* **Release Date:** December 6, 2016 @ 06:49:09
+* **Release Date:** December 6, 2016 @ 07:49:09
 * **In-App Purchasing:** No

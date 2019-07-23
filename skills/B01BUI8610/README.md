@@ -20,5 +20,5 @@ Alexa shows off her beat-boxing skills. Get a list of available beats by saying,
 * **ID:** amzn1.echo-sdk-ams.app.d296f73d-2b51-492c-b381-9a5211c6c871
 * **ASIN:** B01BUI8610
 * **Author:** Pat Cousins
-* **Release Date:** February 16, 2016 @ 16:04:27
+* **Release Date:** February 16, 2016 @ 17:04:27
 * **In-App Purchasing:** No

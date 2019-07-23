@@ -20,5 +20,5 @@ This is a skill that allows people interested in Palo Alto to find out about the
 * **ID:** amzn1.ask.skill.59b98c4b-964c-4adf-8fc2-c674eb8bea0c
 * **ASIN:** B01J64JEH0
 * **Author:** shuyuan
-* **Release Date:** August 3, 2016 @ 07:11:32
+* **Release Date:** August 3, 2016 @ 08:11:32
 * **In-App Purchasing:** No

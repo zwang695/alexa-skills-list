@@ -20,5 +20,5 @@ You can learn the most commonly used phrases in Spanish with Alexa. Simply ask A
 * **ID:** amzn1.echo-sdk-ams.app.32020737-9cc0-4c2a-95eb-ba3de188a7e5
 * **ASIN:** B01H65GJHY
 * **Author:** ALPHABETO
-* **Release Date:** June 20, 2016 @ 02:45:34
+* **Release Date:** June 20, 2016 @ 03:45:34
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Random facts about DOS including 86-DOS, PC-DOS and MS-DOS.
 * **ID:** amzn1.ask.skill.b7ada05f-c169-46c6-a330-0c1168ac52b9
 * **ASIN:** B01LYFP5VJ
 * **Author:** Sisco
-* **Release Date:** October 10, 2016 @ 01:11:54
+* **Release Date:** October 10, 2016 @ 02:11:54
 * **In-App Purchasing:** No

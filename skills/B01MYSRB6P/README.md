@@ -20,5 +20,5 @@ Test you nerve with a game of 'Catch me out' with Alexa! See how long you can la
 * **ID:** amzn1.ask.skill.093dc4ee-70e4-4c88-9a8e-de2fa6ca5fc8
 * **ASIN:** B01MYSRB6P
 * **Author:** TheWord
-* **Release Date:** December 9, 2016 @ 02:19:34
+* **Release Date:** December 9, 2016 @ 03:19:34
 * **In-App Purchasing:** No

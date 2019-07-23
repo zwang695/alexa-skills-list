@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.81ee89da-9b33-4f00-9410-ef597af8cbd6
 * **ASIN:** B01N0LBIRQ
 * **Author:** NanavApps
-* **Release Date:** December 7, 2016 @ 02:19:30
+* **Release Date:** December 7, 2016 @ 03:19:30
 * **In-App Purchasing:** No

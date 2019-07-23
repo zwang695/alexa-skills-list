@@ -26,6 +26,6 @@ If you have any questions, please visit the Almond FAQ at https://www.securifi.c
 * **ID:** amzn1.ask.skill.97f1457f-4da7-45f9-ba40-bf5e2dc3a060
 * **ASIN:** B01G3FBGM6
 * **Author:** Securifi Inc.
-* **Release Date:** September 22, 2016 @ 15:12:04
+* **Release Date:** September 22, 2016 @ 16:12:04
 * **Privacy Policy:** https://connect.securifi.com/prpo
 * **In-App Purchasing:** No

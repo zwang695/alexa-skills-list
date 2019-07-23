@@ -24,5 +24,5 @@ Say stop to stop the conversation.
 * **ID:** amzn1.echo-sdk-ams.app.04f96d93-e4c2-4c81-8bdb-c631901b580b
 * **ASIN:** B01GOSN706
 * **Author:** Zhenhua
-* **Release Date:** June 8, 2016 @ 08:39:41
+* **Release Date:** June 8, 2016 @ 09:39:41
 * **In-App Purchasing:** No

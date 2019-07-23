@@ -20,5 +20,5 @@ Sometimes you just gotta know! This app is built for people with inquisitive min
 * **ID:** amzn1.ask.skill.62123842-9493-4f6c-8b19-fc73e695c55e
 * **ASIN:** B01M3RU888
 * **Author:** Abraham Maslow
-* **Release Date:** October 26, 2016 @ 01:46:22
+* **Release Date:** October 26, 2016 @ 02:46:22
 * **In-App Purchasing:** No

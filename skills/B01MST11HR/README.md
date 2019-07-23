@@ -58,7 +58,7 @@ To get started, sign in with your Infostretch Nest username and password & creat
 * **ID:** amzn1.ask.skill.880bfd6c-6294-406b-908b-1b2557d743e8
 * **ASIN:** B01MST11HR
 * **Author:** Infostretch Corporation
-* **Release Date:** December 10, 2016 @ 06:19:19
+* **Release Date:** December 10, 2016 @ 07:19:19
 * **Privacy Policy:** http://www.infostretch.com/privacy-policy/
 * **Terms of Use:** http://www.infostretch.com/terms-of-use/
 * **In-App Purchasing:** No

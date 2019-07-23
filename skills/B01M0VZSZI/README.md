@@ -26,5 +26,5 @@ If you need to hear the sequence again you can say "Repeat", and the skill will 
 * **ID:** amzn1.ask.skill.3a08d3ae-3ab8-4759-8be9-4042b8122db5
 * **ASIN:** B01M0VZSZI
 * **Author:** Fingertoe Labs
-* **Release Date:** October 4, 2016 @ 02:12:51
+* **Release Date:** October 4, 2016 @ 03:12:51
 * **In-App Purchasing:** No

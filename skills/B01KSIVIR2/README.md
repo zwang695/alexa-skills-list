@@ -20,5 +20,5 @@ Stardew Farmer is a useful helper for players of the game Stardew Valley. It pro
 * **ID:** amzn1.ask.skill.dc48ba5a-4d8a-495b-8c85-754383f4ac14
 * **ASIN:** B01KSIVIR2
 * **Author:** MelissaY
-* **Release Date:** August 26, 2016 @ 01:33:18
+* **Release Date:** August 26, 2016 @ 02:33:18
 * **In-App Purchasing:** No

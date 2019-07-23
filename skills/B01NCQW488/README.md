@@ -22,5 +22,5 @@ THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR IMPLIED WAR
 * **ID:** amzn1.ask.skill.267d0f4b-6df9-42bd-b091-955650a24798
 * **ASIN:** B01NCQW488
 * **Author:** Novalto Corp 
-* **Release Date:** December 30, 2016 @ 04:49:33
+* **Release Date:** December 30, 2016 @ 05:49:33
 * **In-App Purchasing:** No

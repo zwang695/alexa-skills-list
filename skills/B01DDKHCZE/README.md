@@ -38,5 +38,5 @@ Maybe you forget to keep your data up-to-date, so it's likely the averages and c
 * **ID:** amzn1.echo-sdk-ams.app.91c7c481-f58f-4d3a-b565-a58aa14b4306
 * **ASIN:** B01DDKHCZE
 * **Author:** Mariano Mendez
-* **Release Date:** March 24, 2016 @ 05:27:07
+* **Release Date:** March 24, 2016 @ 06:27:07
 * **In-App Purchasing:** No

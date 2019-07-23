@@ -33,7 +33,7 @@ New to Marvee? Visit http://www.askmarvee.com
 * **ID:** amzn1.echo-sdk-ams.app.a81ae255-5ca4-49ef-aceb-c14954fa39fa
 * **ASIN:** B01K055W2U
 * **Author:** Marvee LLC
-* **Release Date:** August 12, 2016 @ 06:07:47
+* **Release Date:** August 12, 2016 @ 07:07:47
 * **Privacy Policy:** http://static.marvee.io/privacy.html
 * **Terms of Use:** http://static.marvee.io/tos.html
 * **Account Linking Domains:** marvee.io

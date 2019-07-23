@@ -21,5 +21,5 @@ These are aimed to improve one's spiritual and mental well-being by providing an
 * **ID:** amzn1.echo-sdk-ams.app.dc52874f-0f48-4089-a3eb-1527f0f9eb71
 * **ASIN:** B01HPW3AGG
 * **Author:** Personal
-* **Release Date:** July 1, 2016 @ 02:57:37
+* **Release Date:** July 1, 2016 @ 03:57:37
 * **In-App Purchasing:** No

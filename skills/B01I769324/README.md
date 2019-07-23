@@ -20,5 +20,5 @@ A random fact finder that gives you facts about history, space and U.S state cap
 * **ID:** amzn1.echo-sdk-ams.app.0db608ae-87c2-4bf1-a1c2-3f4fd68211ae
 * **ASIN:** B01I769324
 * **Author:** AjitM
-* **Release Date:** July 11, 2016 @ 06:57:43
+* **Release Date:** July 11, 2016 @ 07:57:43
 * **In-App Purchasing:** No

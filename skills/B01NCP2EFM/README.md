@@ -20,5 +20,5 @@ Risky Rollers is a simple dice game in which you play against Alexa. The goal of
 * **ID:** amzn1.ask.skill.dfb892f3-0a98-4ff1-8e2e-4d0e36065bd8
 * **ASIN:** B01NCP2EFM
 * **Author:** LukeDickinson
-* **Release Date:** December 26, 2016 @ 00:49:28
+* **Release Date:** December 26, 2016 @ 01:49:28
 * **In-App Purchasing:** No

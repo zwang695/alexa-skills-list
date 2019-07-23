@@ -20,5 +20,5 @@ Fun TV Trivia
 * **ID:** amzn1.ask.skill.783b19d2-cfcc-4d66-8135-345a6d7fdf9c
 * **ASIN:** B01JDM918C
 * **Author:** Recode360
-* **Release Date:** August 5, 2016 @ 03:38:00
+* **Release Date:** August 5, 2016 @ 04:38:00
 * **In-App Purchasing:** No

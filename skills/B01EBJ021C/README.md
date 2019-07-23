@@ -20,5 +20,5 @@ Quote Machine will give you one of hundreds of inspirational quotes from famous 
 * **ID:** amzn1.echo-sdk-ams.app.8094b883-55e5-4ab5-ad9d-5364f81977b5
 * **ASIN:** B01EBJ021C
 * **Author:** Cornerstone Software Creations LLC
-* **Release Date:** April 19, 2016 @ 05:02:34
+* **Release Date:** April 19, 2016 @ 06:02:34
 * **In-App Purchasing:** No

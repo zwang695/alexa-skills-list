@@ -20,7 +20,7 @@ Bin Buddy helps newcomers to San Francisco figure out how to dispose of any item
 * **ID:** amzn1.ask.skill.6ea77090-ed50-4f4d-9b9a-9cf5f3cc74b9
 * **ASIN:** B01KNAPS5I
 * **Author:** Dane Powell
-* **Release Date:** August 23, 2016 @ 08:18:41
+* **Release Date:** August 23, 2016 @ 09:18:41
 * **Privacy Policy:** https://github.com/danepowell/binbuddy/blob/master/README.md#terms-of-use-and-privacy
 * **Terms of Use:** https://github.com/danepowell/binbuddy/blob/master/LICENSE
 * **In-App Purchasing:** No

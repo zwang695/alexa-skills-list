@@ -20,5 +20,5 @@ Space Race Trivia is a fun way to test your knowledge of the space race and beyo
 * **ID:** amzn1.ask.skill.3fdba814-8140-4c92-8504-7d86179b62ae
 * **ASIN:** B01MU40LG9
 * **Author:** Jonathan Rach
-* **Release Date:** December 26, 2016 @ 22:19:09
+* **Release Date:** December 26, 2016 @ 23:19:09
 * **In-App Purchasing:** No

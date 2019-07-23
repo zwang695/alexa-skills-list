@@ -20,5 +20,5 @@ Are you interested in what happened on this day? With On This Day you get the mo
 * **ID:** amzn1.ask.skill.666d4d05-c91b-4386-a629-3977a6e04feb
 * **ASIN:** B01JHGP1BK
 * **Author:** Appbly.com
-* **Release Date:** August 3, 2016 @ 05:41:30
+* **Release Date:** August 3, 2016 @ 06:41:30
 * **In-App Purchasing:** No

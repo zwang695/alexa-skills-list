@@ -34,7 +34,7 @@ Here are some examples of how to track your foods:
 * **ID:** amzn1.echo-sdk-ams.app.f7d92ae4-7514-475f-ba04-f58b2835e7f1
 * **ASIN:** B01F9467IK
 * **Author:** Nutritionix
-* **Release Date:** May 10, 2016 @ 18:37:35
+* **Release Date:** May 10, 2016 @ 19:37:35
 * **Privacy Policy:** http://www.nutritionix.com/privacy
 * **Account Linking Domains:** connect.facebook.net, fonts.googleapis.com, fonts.gstatic.com, www.nutritionix.com, maxcdn.bootstrapcdn.com, s3.amazonaws.com, storage.googleapis.com, pagead2.googlesyndication.com, staticxx.facebook.com, trackapi.nutritionix.com, www.facebook.com
 * **In-App Purchasing:** No

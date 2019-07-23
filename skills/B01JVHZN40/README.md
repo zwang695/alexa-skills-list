@@ -20,5 +20,5 @@ This skills gives some interesting facts about Olympic games.
 * **ID:** amzn1.ask.skill.29004f39-791d-4d73-9988-ce1ad5cb39a3
 * **ASIN:** B01JVHZN40
 * **Author:** NJ
-* **Release Date:** August 8, 2016 @ 06:07:34
+* **Release Date:** August 8, 2016 @ 07:07:34
 * **In-App Purchasing:** No

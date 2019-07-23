@@ -32,5 +32,5 @@ To stop the game, just say "stop"
 * **ID:** amzn1.ask.skill.29090da1-8e24-4ef8-9092-9de6990c36a9
 * **ASIN:** B01LZ8PC24
 * **Author:** Karthik
-* **Release Date:** October 19, 2016 @ 01:12:53
+* **Release Date:** October 19, 2016 @ 02:12:53
 * **In-App Purchasing:** No

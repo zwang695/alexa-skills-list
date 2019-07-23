@@ -24,7 +24,7 @@ This tool is for informational and educational purposes only and is not a substi
 * **ID:** amzn1.ask.skill.8ad99b21-60ea-4381-8d18-6275fde9ee52
 * **ASIN:** B01M3T0MEC
 * **Author:** Terrence Higgins Trust
-* **Release Date:** November 2, 2016 @ 03:13:44
+* **Release Date:** November 2, 2016 @ 04:13:44
 * **Privacy Policy:** https://www.startswithme.org.uk/alexa-skill-terms-privacy-policy/
 * **Terms of Use:** https://www.startswithme.org.uk/alexa-skill-terms-privacy-policy/
 * **In-App Purchasing:** No

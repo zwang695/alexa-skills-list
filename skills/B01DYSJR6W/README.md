@@ -22,5 +22,5 @@ It is not sponsored by or affiliated with the Estate of Marshall McLuhan.
 * **ID:** amzn1.echo-sdk-ams.app.2697c128-1883-4067-9e43-63e7cba98440
 * **ASIN:** B01DYSJR6W
 * **Author:** Daly-Apps.com
-* **Release Date:** June 25, 2016 @ 02:45:48
+* **Release Date:** June 25, 2016 @ 03:45:48
 * **In-App Purchasing:** No

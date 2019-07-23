@@ -22,5 +22,5 @@ Works with the Amazon Echo and all Amazon devices that run Alexa and Alexa Skill
 * **ID:** amzn1.ask.skill.7685a878-7b1b-4bfd-a177-7148cc3df481
 * **ASIN:** B01NADD55R
 * **Author:** Aubtin Samai
-* **Release Date:** December 1, 2016 @ 09:05:36
+* **Release Date:** December 1, 2016 @ 10:05:36
 * **In-App Purchasing:** No

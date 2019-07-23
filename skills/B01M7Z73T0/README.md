@@ -20,5 +20,5 @@ The Asessippi Ski Area Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.c55cebea-3040-4d5f-a8b2-2ee0e899cd0c
 * **ASIN:** B01M7Z73T0
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:14:42
+* **Release Date:** November 5, 2016 @ 12:14:42
 * **In-App Purchasing:** No

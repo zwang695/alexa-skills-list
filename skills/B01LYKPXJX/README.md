@@ -18,5 +18,5 @@ Fun facts about New York State.  A different fact, every time you ask Alexa.
 * **ID:** amzn1.ask.skill.85d3a00f-b8f3-4ca5-a7ee-1ce7a90d4ba9
 * **ASIN:** B01LYKPXJX
 * **Author:** GeezerNetwork
-* **Release Date:** October 4, 2016 @ 02:13:32
+* **Release Date:** October 4, 2016 @ 03:13:32
 * **In-App Purchasing:** No

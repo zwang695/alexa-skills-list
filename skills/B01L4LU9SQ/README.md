@@ -22,5 +22,5 @@ This skill is not intended for young children or liberal arts majors.
 * **ID:** amzn1.ask.skill.bef809de-5f87-4192-a079-1719e113b8f6
 * **ASIN:** B01L4LU9SQ
 * **Author:** James Church
-* **Release Date:** August 31, 2016 @ 02:32:55
+* **Release Date:** August 31, 2016 @ 03:32:55
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Inspire me is an app that quotes you 100 greatest inspirational quotes of our ti
 * **ID:** amzn1.ask.skill.6e739c5b-84e8-42f4-a31e-366bd590e16e
 * **ASIN:** B01L6P35BS
 * **Author:** -
-* **Release Date:** September 8, 2016 @ 01:33:33
+* **Release Date:** September 8, 2016 @ 02:33:33
 * **In-App Purchasing:** No

@@ -20,6 +20,6 @@ You will need bluplayer (http://bluplayer.net) to be launched on your PC to be a
 * **ID:** amzn1.echo-sdk-ams.app.5132f11a-e40f-41fd-adc1-e34d0bd9aa40
 * **ASIN:** B01EYVRFJY
 * **Author:** romikss
-* **Release Date:** May 31, 2016 @ 06:38:29
+* **Release Date:** May 31, 2016 @ 07:38:29
 * **Privacy Policy:** http://portal.bluplayer.net/static/privacy.html
 * **In-App Purchasing:** No

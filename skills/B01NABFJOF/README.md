@@ -20,5 +20,5 @@ This is a very simple skill to provide users with the ability to ask Alexa to ge
 * **ID:** amzn1.ask.skill.a5360d7c-c683-4d4a-9d40-b50b67b850f6
 * **ASIN:** B01NABFJOF
 * **Author:** Baron Bloomer
-* **Release Date:** November 26, 2016 @ 01:05:20
+* **Release Date:** November 26, 2016 @ 02:05:20
 * **In-App Purchasing:** No

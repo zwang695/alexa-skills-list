@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.4174aafe-6f13-4a68-98fd-b735beb0f393
 * **ASIN:** B01MRPNPA2
 * **Author:** kaybit
-* **Release Date:** November 29, 2016 @ 02:05:54
+* **Release Date:** November 29, 2016 @ 03:05:54
 * **In-App Purchasing:** No

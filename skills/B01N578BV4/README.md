@@ -34,6 +34,6 @@ S&P 500 and Russell 1000 stocks are supported for now and a wider selection of s
 * **ID:** amzn1.ask.skill.b01ec44e-c74b-407a-9d50-13ed51cedf08
 * **ASIN:** B01N578BV4
 * **Author:** delab
-* **Release Date:** December 7, 2016 @ 07:19:13
+* **Release Date:** December 7, 2016 @ 08:19:13
 * **Privacy Policy:** https://stocks.pricetrigger.com/#/tab/account/privacy
 * **In-App Purchasing:** No

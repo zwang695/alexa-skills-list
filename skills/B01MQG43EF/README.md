@@ -20,5 +20,5 @@ Apex, North Carolina random facts
 * **ID:** amzn1.ask.skill.25fd181f-3e52-4865-b8d5-a5f928c06d1a
 * **ASIN:** B01MQG43EF
 * **Author:** Adam Lancaster
-* **Release Date:** November 15, 2016 @ 02:05:35
+* **Release Date:** November 15, 2016 @ 03:05:35
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Test your working knowledge about "Man's best friend!" Are you looking to get a 
 * **ID:** amzn1.ask.skill.19ff7512-e46d-406c-bc00-5f677c5e94d4
 * **ASIN:** B01M5IIT8K
 * **Author:** CIC: Consistently Inconsistent
-* **Release Date:** November 2, 2016 @ 09:13:29
+* **Release Date:** November 2, 2016 @ 10:13:29
 * **In-App Purchasing:** No

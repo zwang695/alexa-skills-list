@@ -20,5 +20,5 @@ If you always wanted to know what computer programming is about, this skill can 
 * **ID:** amzn1.ask.skill.d48145a6-522f-4939-bb0e-5a3633ae4622
 * **ASIN:** B01M99DSR6
 * **Author:** Vinay
-* **Release Date:** October 14, 2016 @ 02:46:53
+* **Release Date:** October 14, 2016 @ 03:46:53
 * **In-App Purchasing:** No

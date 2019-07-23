@@ -20,5 +20,5 @@ This skill allows you to lookup spells from Dungeons and Dragons and have Alexa 
 * **ID:** amzn1.echo-sdk-ams.app.36e6deff-7ed7-40c3-9709-8ce978e57533
 * **ASIN:** B01ES1KWX6
 * **Author:** Nick McMahon
-* **Release Date:** April 29, 2016 @ 15:38:28
+* **Release Date:** April 29, 2016 @ 16:38:28
 * **In-App Purchasing:** No

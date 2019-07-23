@@ -20,5 +20,5 @@ This is a list of more than 450 amazing animal facts and trivia.
 * **ID:** amzn1.echo-sdk-ams.app.8a9f21b3-4b35-4b22-8f8d-539ae45da2f0
 * **ASIN:** B01GKFREVQ
 * **Author:** ALPHABETO
-* **Release Date:** June 20, 2016 @ 05:45:34
+* **Release Date:** June 20, 2016 @ 06:45:34
 * **In-App Purchasing:** No

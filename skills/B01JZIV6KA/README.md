@@ -21,5 +21,5 @@ Mother Nature knows best, are you a close second?
 * **ID:** amzn1.ask.skill.bdd88884-6ceb-4dbe-9fff-a6081b55d081
 * **ASIN:** B01JZIV6KA
 * **Author:** Pamela Molochko
-* **Release Date:** August 9, 2016 @ 03:37:50
+* **Release Date:** August 9, 2016 @ 04:37:50
 * **In-App Purchasing:** No

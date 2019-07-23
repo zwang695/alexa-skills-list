@@ -22,5 +22,5 @@ Disclaimer:  This skill may not be suitable for all ages.  It is suitable for ag
 * **ID:** amzn1.ask.skill.50efac8f-ddea-4c3d-bddc-c0e26692780f
 * **ASIN:** B01M3TKEW6
 * **Author:** Steve Sobotka
-* **Release Date:** December 5, 2016 @ 00:35:57
+* **Release Date:** December 5, 2016 @ 01:35:57
 * **In-App Purchasing:** No

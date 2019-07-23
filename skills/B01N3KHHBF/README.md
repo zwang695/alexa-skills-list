@@ -20,5 +20,5 @@ Bay Area Surf Bot reports wave, tide and wind conditions for top surf spots near
 * **ID:** amzn1.ask.skill.fec2d362-c80c-46d8-a6f2-74f699db10ad
 * **ASIN:** B01N3KHHBF
 * **Author:** Tim Peterson
-* **Release Date:** December 8, 2016 @ 02:19:49
+* **Release Date:** December 8, 2016 @ 03:19:49
 * **In-App Purchasing:** No

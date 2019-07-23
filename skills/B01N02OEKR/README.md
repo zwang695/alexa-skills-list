@@ -20,5 +20,5 @@ Plays Groovy Podcasts from the Groovy Podcast. Written in Groovy. Say 'Ask Groov
 * **ID:** amzn1.ask.skill.123b9058-542a-4875-9963-888f9beadff3
 * **ASIN:** B01N02OEKR
 * **Author:** VANDERFOX INC
-* **Release Date:** November 20, 2016 @ 23:05:34
+* **Release Date:** November 21, 2016 @ 00:05:34
 * **In-App Purchasing:** No

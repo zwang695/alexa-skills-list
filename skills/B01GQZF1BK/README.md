@@ -20,5 +20,5 @@ Banana Anna increases your knowledge and appreciation of bananas by telling you 
 * **ID:** amzn1.echo-sdk-ams.app.3b21dc53-359d-4587-92e2-c7ebc65e9c07
 * **ASIN:** B01GQZF1BK
 * **Author:** bobasoba LLC
-* **Release Date:** June 8, 2016 @ 07:41:55
+* **Release Date:** June 8, 2016 @ 08:41:55
 * **In-App Purchasing:** No

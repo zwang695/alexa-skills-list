@@ -52,5 +52,5 @@ List of recipe:
 * **ID:** amzn1.ask.skill.e942c001-9f54-43fd-834f-6cff6de381db
 * **ASIN:** B01MSQQ6XC
 * **Author:** Quyen
-* **Release Date:** December 4, 2016 @ 01:35:21
+* **Release Date:** December 4, 2016 @ 02:35:21
 * **In-App Purchasing:** No

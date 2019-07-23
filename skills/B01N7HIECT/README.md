@@ -28,5 +28,5 @@ Alexa: "Bessarabia votes to become part of Romania"
 * **ID:** amzn1.ask.skill.86a2eddf-af09-4eb9-992c-89eb96deb8e7
 * **ASIN:** B01N7HIECT
 * **Author:** Sasikumar
-* **Release Date:** December 18, 2016 @ 06:19:22
+* **Release Date:** December 18, 2016 @ 07:19:22
 * **In-App Purchasing:** No

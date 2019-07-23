@@ -20,5 +20,5 @@ Are you interested in bikes? Jus use Bikes Facts to Know about the bikes.
 * **ID:** amzn1.ask.skill.f276f6bb-f0f4-4557-97e9-90a23995fdf6
 * **ASIN:** B01MQ0QB49
 * **Author:** Javier Pita
-* **Release Date:** October 26, 2016 @ 01:14:45
+* **Release Date:** October 26, 2016 @ 02:14:45
 * **In-App Purchasing:** No

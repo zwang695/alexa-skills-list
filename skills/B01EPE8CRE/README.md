@@ -20,7 +20,7 @@ NewsCom® is a registered trademark currently owned by the Signode Industrial Gr
 * **ID:** amzn1.echo-sdk-ams.app.eb48b688-718e-4afd-ae45-74554aa920a6
 * **ASIN:** B01EPE8CRE
 * **Author:** SEG Labs
-* **Release Date:** May 17, 2016 @ 01:38:33
+* **Release Date:** May 17, 2016 @ 02:38:33
 * **Privacy Policy:** https://www.seglabs.com/NCIS/Privacy.html
 * **Account Linking Domains:** seglabs.com
 * **In-App Purchasing:** No

@@ -41,7 +41,7 @@ If you have questions or feedback related to the Allrecipes Skill for Amazon Ale
 * **ID:** amzn1.echo-sdk-ams.app.e2be3988-ffbe-4ef1-8586-715f40cf2de3
 * **ASIN:** B01N3MS7AV
 * **Author:** Amazon
-* **Release Date:** November 17, 2016 @ 11:36:36
+* **Release Date:** November 17, 2016 @ 12:36:36
 * **Privacy Policy:** https://aws.amazon.com/privacy/
 * **Account Linking Domains:** allrecipes.com, apis.google.com, connect.facebook.net, ajax.googleapis.com, js-agent.newrelic.com, plus.google.com, service.maxymiser.net, secureimages.allrecipes.com, facebook.com, staticxx.facebook.com, bam.nr-data.net, accounts.google.com, images.media-allrecipes.com
 * **In-App Purchasing:** No

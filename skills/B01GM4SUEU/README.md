@@ -21,5 +21,5 @@ The icon is designed by Freepik - freepik.com
 * **ID:** amzn1.echo-sdk-ams.app.08e2c8d7-0f01-4fa2-ae10-1d132f2fe361
 * **ASIN:** B01GM4SUEU
 * **Author:** SGKim
-* **Release Date:** June 10, 2016 @ 12:39:44
+* **Release Date:** June 10, 2016 @ 13:39:44
 * **In-App Purchasing:** No

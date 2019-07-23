@@ -20,5 +20,5 @@ To use the PickOne skill, try saying...
 * **ID:** amzn1.ask.skill.bbdf539d-30e5-4547-b3f1-a53f076d2d87
 * **ASIN:** B01M15IU1G
 * **Author:** Wei Ting Cheng
-* **Release Date:** September 28, 2016 @ 18:42:09
+* **Release Date:** September 28, 2016 @ 19:42:09
 * **In-App Purchasing:** No

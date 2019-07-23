@@ -20,7 +20,7 @@ Did you know that Outkast planned to sell dope to get money for studio time, but
 * **ID:** amzn1.ask.skill.3de24bb3-299f-4fa7-89c7-7da3b4c27084
 * **ASIN:** B01IRTY6E6
 * **Author:** TeachSpaces
-* **Release Date:** July 25, 2016 @ 06:56:31
+* **Release Date:** July 25, 2016 @ 07:56:31
 * **Privacy Policy:** https://larrykubin.github.io/privacy.html
 * **Terms of Use:** https://larrykubin.github.io/tos.html
 * **In-App Purchasing:** No

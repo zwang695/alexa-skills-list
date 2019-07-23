@@ -21,7 +21,7 @@ Disclaimer - this skill is for entertainment purposes only and may not be suitab
 * **ID:** amzn1.echo-sdk-ams.app.1d825868-1cbe-4ba0-a8e9-2fb9a5b196de
 * **ASIN:** B01AYEFTKM
 * **Author:** HDRider
-* **Release Date:** January 22, 2016 @ 12:15:47
+* **Release Date:** January 22, 2016 @ 13:15:47
 * **Privacy Policy:** http://www.hdrider.net/policy.html
 * **Terms of Use:** http://www.hdrider.net/terms.html
 * **In-App Purchasing:** No

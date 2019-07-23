@@ -20,7 +20,7 @@ Submit your favorite song request to FluffyRadio.com with the Fluffy Radio Skill
 * **ID:** amzn1.echo-sdk-ams.app.58c11aa1-e0e7-4389-b46d-95e9584aaac8
 * **ASIN:** B01HC82GAO
 * **Author:** Fluffy Radio
-* **Release Date:** July 5, 2016 @ 19:27:27
+* **Release Date:** July 5, 2016 @ 20:27:27
 * **Privacy Policy:** http://www.fluffyradio.com/#/legal
 * **Terms of Use:** http://www.fluffyradio.com/#/legal
 * **In-App Purchasing:** No

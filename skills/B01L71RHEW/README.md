@@ -20,5 +20,5 @@ Hillary Clinton Fact lets you ask for a piece of trivia about Hillary Clinton.  
 * **ID:** amzn1.ask.skill.6c038f37-850b-4132-b246-136079a1644d
 * **ASIN:** B01L71RHEW
 * **Author:** aceperry
-* **Release Date:** August 30, 2016 @ 02:02:58
+* **Release Date:** August 30, 2016 @ 03:02:58
 * **In-App Purchasing:** No

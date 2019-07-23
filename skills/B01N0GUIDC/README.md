@@ -20,5 +20,5 @@ The Arapahoe Basin Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.8765f7e8-583a-4b84-b2b0-e6004285088d
 * **ASIN:** B01N0GUIDC
 * **Author:** SnoCountry
-* **Release Date:** November 22, 2016 @ 08:36:03
+* **Release Date:** November 22, 2016 @ 09:36:03
 * **In-App Purchasing:** No

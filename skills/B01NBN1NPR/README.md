@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.e2008927-cafd-4b70-99d8-f5b6028dab10
 * **ASIN:** B01NBN1NPR
 * **Author:** ganddev
-* **Release Date:** January 3, 2017 @ 03:49:01
+* **Release Date:** January 3, 2017 @ 04:49:01
 * **In-App Purchasing:** No

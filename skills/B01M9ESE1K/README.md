@@ -24,5 +24,5 @@ Prove your knowledge, alone or with friends!
 * **ID:** amzn1.ask.skill.c48bb44f-2d7f-425b-915a-bdbeab67f134
 * **ASIN:** B01M9ESE1K
 * **Author:** fiveoak
-* **Release Date:** October 25, 2016 @ 01:13:51
+* **Release Date:** October 25, 2016 @ 02:13:51
 * **In-App Purchasing:** No

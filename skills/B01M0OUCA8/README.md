@@ -18,5 +18,5 @@ Use this app to learn fun facts about Squirrels!
 * **ID:** amzn1.ask.skill.e476663d-bc49-49d8-b650-74b670e761d8
 * **ASIN:** B01M0OUCA8
 * **Author:** Emily Lynam
-* **Release Date:** October 7, 2016 @ 03:12:23
+* **Release Date:** October 7, 2016 @ 04:12:23
 * **In-App Purchasing:** No

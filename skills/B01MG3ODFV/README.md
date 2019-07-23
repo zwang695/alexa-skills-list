@@ -20,5 +20,5 @@ The Appalachian Ski Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.6dd3d4e7-1c77-46bf-8661-8606ed13a1f1
 * **ASIN:** B01MG3ODFV
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:15:10
+* **Release Date:** October 26, 2016 @ 02:15:10
 * **In-App Purchasing:** No

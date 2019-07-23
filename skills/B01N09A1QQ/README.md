@@ -20,5 +20,5 @@ The Mont Sainte-Anne Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.7dd3e3f2-cead-4f54-920d-5c22e76dd781
 * **ASIN:** B01N09A1QQ
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:43:46
+* **Release Date:** November 5, 2016 @ 12:43:46
 * **In-App Purchasing:** No

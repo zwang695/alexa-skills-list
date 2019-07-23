@@ -20,5 +20,5 @@ Did you know? Zebras run in a zig-zag pattern when being chased by a predator to
 * **ID:** amzn1.ask.skill.7b50241e-f441-4aaf-86b0-d40ac8fce49a
 * **ASIN:** B01MCTIM45
 * **Author:** Tobias Domhan
-* **Release Date:** October 18, 2016 @ 05:42:06
+* **Release Date:** October 18, 2016 @ 06:42:06
 * **In-App Purchasing:** No

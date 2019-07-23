@@ -20,5 +20,5 @@ A random fact on the subject on California Native Plants will be played by Alexa
 * **ID:** amzn1.echo-sdk-ams.app.5a08e221-0bea-4b1c-8118-99e2dca36c66
 * **ASIN:** B01ILCG8WM
 * **Author:** Creative Busy Bee
-* **Release Date:** July 19, 2016 @ 02:57:33
+* **Release Date:** July 19, 2016 @ 03:57:33
 * **In-App Purchasing:** No

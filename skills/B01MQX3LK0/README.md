@@ -18,5 +18,5 @@ This visionary skill tells you how many days remain until Christmas, and whether
 * **ID:** amzn1.ask.skill.7c36e672-7704-476f-b790-bd53f13d8ca2
 * **ASIN:** B01MQX3LK0
 * **Author:** jm2721
-* **Release Date:** December 19, 2016 @ 05:19:04
+* **Release Date:** December 19, 2016 @ 06:19:04
 * **In-App Purchasing:** No

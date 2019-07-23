@@ -22,5 +22,5 @@ This game is fun to play alone or complete with your family and friends to see w
 * **ID:** amzn1.ask.skill.04ccdc9b-4aaa-40aa-a396-fc7d50f867b5
 * **ASIN:** B01LYPD5BA
 * **Author:** Galvanize
-* **Release Date:** October 6, 2016 @ 04:42:21
+* **Release Date:** October 6, 2016 @ 05:42:21
 * **In-App Purchasing:** No

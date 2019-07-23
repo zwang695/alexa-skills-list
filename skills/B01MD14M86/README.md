@@ -20,6 +20,6 @@ Get slightly delayed price quotes for precious metals (gold, silver, platinum an
 * **ID:** amzn1.ask.skill.8337a906-3689-4c69-a0ab-3d4db1d2a82c
 * **ASIN:** B01MD14M86
 * **Author:** Troy Oz
-* **Release Date:** November 9, 2016 @ 00:45:37
+* **Release Date:** November 9, 2016 @ 01:45:37
 * **Terms of Use:** http://troyozgold.com/application-disclaimer/
 * **In-App Purchasing:** No

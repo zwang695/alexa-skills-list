@@ -16,5 +16,5 @@ This skill is used to announce facts about capitals of countries.
 * **ID:** amzn1.ask.skill.0b4e9e1d-2a7e-41ee-90f2-d4f5524a179f
 * **ASIN:** B01M0Q4W8V
 * **Author:** ED
-* **Release Date:** October 4, 2016 @ 08:42:29
+* **Release Date:** October 4, 2016 @ 09:42:29
 * **In-App Purchasing:** No

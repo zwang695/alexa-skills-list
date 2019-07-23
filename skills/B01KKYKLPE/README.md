@@ -20,5 +20,5 @@ This unofficial app lists football teams
 * **ID:** amzn1.ask.skill.821dc1f9-169f-443e-a5f9-33d18775afc1
 * **ASIN:** B01KKYKLPE
 * **Author:** Alex W
-* **Release Date:** August 19, 2016 @ 01:22:26
+* **Release Date:** August 19, 2016 @ 02:22:26
 * **In-App Purchasing:** No

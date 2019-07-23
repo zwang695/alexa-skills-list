@@ -20,5 +20,5 @@ This quiz will test your Cricket knowledge by asking a few questions on the game
 * **ID:** amzn1.ask.skill.4c62742b-3653-402d-8545-ef8698ba2bce
 * **ASIN:** B01JDRDAWA
 * **Author:** aravindmaker
-* **Release Date:** August 4, 2016 @ 02:41:26
+* **Release Date:** August 4, 2016 @ 03:41:26
 * **In-App Purchasing:** No

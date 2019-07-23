@@ -32,7 +32,7 @@ Alexa, ask GreenIQ to report water consumption
 * **ID:** amzn1.echo-sdk-ams.app.bc0ff183-e6d2-4dd3-8247-677c5194e47e
 * **ASIN:** B01DWFB1DE
 * **Author:** GreenIQ
-* **Release Date:** April 13, 2016 @ 08:02:32
+* **Release Date:** April 13, 2016 @ 09:02:32
 * **Privacy Policy:** http://greeniq.co/docs/GreenIQ_Privacy_Policy.html
 * **Terms of Use:** http://greeniq.co/docs/GreenIQ_Terms_Of_Service.html
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill uses destinypublicevents.com to provide quick answers to the common q
 * **ID:** amzn1.ask.skill.ffcb291c-5d2a-4183-bf9f-94aae636f5a4
 * **ASIN:** B01M7X2WYY
 * **Author:** Bryan
-* **Release Date:** November 5, 2016 @ 02:13:02
+* **Release Date:** November 5, 2016 @ 03:13:02
 * **In-App Purchasing:** No

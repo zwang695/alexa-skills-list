@@ -20,5 +20,5 @@ The Pine Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.36f52eb6-e77a-4436-af77-254cc8857aad
 * **ASIN:** B01M6Z4P0I
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:44:31
+* **Release Date:** October 21, 2016 @ 15:44:31
 * **In-App Purchasing:** No

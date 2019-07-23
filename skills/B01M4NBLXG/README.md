@@ -20,5 +20,5 @@ The Mount Bachelor Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.3db2bd3c-7f69-46e1-99cc-d442889a0823
 * **ASIN:** B01M4NBLXG
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:47:00
+* **Release Date:** October 26, 2016 @ 04:47:00
 * **In-App Purchasing:** No

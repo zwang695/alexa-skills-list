@@ -20,5 +20,5 @@ This skill is a twist on The Most Interesting Man in the World quotes.  You tell
 * **ID:** amzn1.ask.skill.17f9faf8-da24-4a7b-93c2-dde6da29cdbf
 * **ASIN:** B01LY1ZT5S
 * **Author:** Hashmark Consulting
-* **Release Date:** October 11, 2016 @ 02:12:00
+* **Release Date:** October 11, 2016 @ 03:12:00
 * **In-App Purchasing:** No

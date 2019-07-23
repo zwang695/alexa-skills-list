@@ -20,5 +20,5 @@ A 5 question SAT vocabulary quiz to get you ready. No prerequisites are necessar
 * **ID:** amzn1.ask.skill.dcb7a29f-6a91-4dfe-a5fd-f0f119a8378b
 * **ASIN:** B01K19C32M
 * **Author:** Michelle Chan
-* **Release Date:** August 10, 2016 @ 02:39:33
+* **Release Date:** August 10, 2016 @ 03:39:33
 * **In-App Purchasing:** No

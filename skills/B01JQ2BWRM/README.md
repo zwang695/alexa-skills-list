@@ -20,6 +20,6 @@ Enables voice control of  a Physics Systems automation server via Amazon Alexa. 
 * **ID:** amzn1.echo-sdk-ams.app.3bf73c52-ac7b-47af-b5f6-3795ca3c9dc4
 * **ASIN:** B01JQ2BWRM
 * **Author:** Physics Systems LLC
-* **Release Date:** November 11, 2016 @ 00:44:06
+* **Release Date:** November 11, 2016 @ 01:44:06
 * **Privacy Policy:** https://physicssystems.net/psnet/privacy.jsp
 * **In-App Purchasing:** No

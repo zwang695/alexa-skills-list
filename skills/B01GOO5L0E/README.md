@@ -53,5 +53,5 @@ Reviews are appreciated, if possible, include troublesome entries you may experi
 * **ID:** amzn1.echo-sdk-ams.app.75205f7a-ac06-49bd-aeaa-a9a4b2cbc0c3
 * **ASIN:** B01GOO5L0E
 * **Author:** RodEllison
-* **Release Date:** June 16, 2016 @ 07:15:31
+* **Release Date:** June 16, 2016 @ 08:15:31
 * **In-App Purchasing:** No

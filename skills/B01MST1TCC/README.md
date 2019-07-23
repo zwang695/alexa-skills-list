@@ -20,5 +20,5 @@ Ask Alexa for the three freshest (or most rotten!) movies in the theaters! The e
 * **ID:** amzn1.ask.skill.427d6784-bfa0-4e1e-9384-f6ba84fea935
 * **ASIN:** B01MST1TCC
 * **Author:** zktk design
-* **Release Date:** December 1, 2016 @ 07:35:20
+* **Release Date:** December 1, 2016 @ 08:35:20
 * **In-App Purchasing:** No

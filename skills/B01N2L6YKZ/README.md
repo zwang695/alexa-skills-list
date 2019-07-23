@@ -20,5 +20,5 @@ The skill will speak random facts from a list of hundreds of stored facts.
 * **ID:** amzn1.ask.skill.6c38cdca-93eb-4ac5-bd19-1172eba289c4
 * **ASIN:** B01N2L6YKZ
 * **Author:** AHeinonen
-* **Release Date:** November 25, 2016 @ 04:07:40
+* **Release Date:** November 25, 2016 @ 05:07:40
 * **In-App Purchasing:** No

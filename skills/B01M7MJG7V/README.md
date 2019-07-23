@@ -16,5 +16,5 @@ The ocean occupies nearly 71% of our Earth's surface, but how much do you really
 * **ID:** amzn1.ask.skill.82e8322a-7efa-4d27-849d-c8d098470946
 * **ASIN:** B01M7MJG7V
 * **Author:** Kaitlyn McPartland
-* **Release Date:** October 10, 2016 @ 04:41:57
+* **Release Date:** October 10, 2016 @ 05:41:57
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill tells you how to make a random Armenian recipe.  For example, if you 
 * **ID:** amzn1.ask.skill.1358a990-5373-4d84-b78a-11cbddb600bd
 * **ASIN:** B01N5JGTZA
 * **Author:** sekizian
-* **Release Date:** January 3, 2017 @ 01:19:17
+* **Release Date:** January 3, 2017 @ 02:19:17
 * **In-App Purchasing:** No

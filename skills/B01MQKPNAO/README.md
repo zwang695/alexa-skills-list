@@ -16,5 +16,5 @@ This skill will tell you random fun facts about India. You can use this skill to
 * **ID:** amzn1.ask.skill.5b533390-7c3c-45b5-8429-6cb7cc340355
 * **ASIN:** B01MQKPNAO
 * **Author:** AGupta
-* **Release Date:** November 21, 2016 @ 00:06:16
+* **Release Date:** November 21, 2016 @ 01:06:16
 * **In-App Purchasing:** No

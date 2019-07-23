@@ -25,5 +25,5 @@ Say the number of answer you think is correct.
 * **ID:** amzn1.echo-sdk-ams.app.752b92c6-eeeb-49de-b6b6-a6e21979f53d
 * **ASIN:** B01D4EF2VU
 * **Author:** apjneeraj
-* **Release Date:** March 18, 2016 @ 01:30:28
+* **Release Date:** March 18, 2016 @ 02:30:28
 * **In-App Purchasing:** No

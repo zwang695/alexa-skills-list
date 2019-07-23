@@ -18,5 +18,5 @@ This skill provides the user with facts about the Coast Guard, our smallest and 
 * **ID:** amzn1.echo-sdk-ams.app.1f9965dd-f042-44b9-8508-7eab56122f93
 * **ASIN:** B01GPGN9HI
 * **Author:** GCNES Creations
-* **Release Date:** June 9, 2016 @ 05:39:37
+* **Release Date:** June 9, 2016 @ 06:39:37
 * **In-App Purchasing:** No

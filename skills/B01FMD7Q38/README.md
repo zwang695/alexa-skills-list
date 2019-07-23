@@ -26,5 +26,5 @@ Warning: Content may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.871249bf-e685-44a3-afcf-f6ce33d3669e
 * **ASIN:** B01FMD7Q38
 * **Author:** David Luna
-* **Release Date:** May 19, 2016 @ 10:08:32
+* **Release Date:** May 19, 2016 @ 11:08:32
 * **In-App Purchasing:** No

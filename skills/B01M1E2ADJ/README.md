@@ -20,5 +20,5 @@ Using this skill, Alexa is able to give you some fun and interesting facts about
 * **ID:** amzn1.ask.skill.f093a3e2-61b8-4ced-a761-83b4533f0417
 * **ASIN:** B01M1E2ADJ
 * **Author:** jjeannin
-* **Release Date:** September 20, 2016 @ 01:12:28
+* **Release Date:** September 20, 2016 @ 02:12:28
 * **In-App Purchasing:** No

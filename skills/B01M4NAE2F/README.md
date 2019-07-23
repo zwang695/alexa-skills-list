@@ -20,5 +20,5 @@ The Brantling Ski Slopes Snow Report brought to you by SnoCountry brings you the
 * **ID:** amzn1.ask.skill.d359e315-3b65-4c28-9984-8a6bfea53638
 * **ASIN:** B01M4NAE2F
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:45:26
+* **Release Date:** October 26, 2016 @ 03:45:26
 * **In-App Purchasing:** No

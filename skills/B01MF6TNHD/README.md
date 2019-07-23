@@ -20,5 +20,5 @@ Listen to some interesting facts about one of Germany's biggest cities Hamburg.
 * **ID:** amzn1.ask.skill.1d2a97b5-5e70-493e-b894-c8f5915a1af5
 * **ASIN:** B01MF6TNHD
 * **Author:** Mathias Nestler
-* **Release Date:** October 14, 2016 @ 02:46:36
+* **Release Date:** October 14, 2016 @ 03:46:36
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Are you interested in train history? Rely on Train History for notable events in
 * **ID:** amzn1.ask.skill.5bb5302b-623a-4631-91bb-bb3ca13a25ef
 * **ASIN:** B01LX5TCQ1
 * **Author:** Appbly.com
-* **Release Date:** September 19, 2016 @ 08:41:53
+* **Release Date:** September 19, 2016 @ 09:41:53
 * **In-App Purchasing:** No

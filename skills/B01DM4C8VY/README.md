@@ -99,5 +99,5 @@ quit
 * **ID:** amzn1.echo-sdk-ams.app.4d55fcec-fa5a-4f2f-b62a-4e549bbe03ac
 * **ASIN:** B01DM4C8VY
 * **Author:** Don Holmberg
-* **Release Date:** March 30, 2016 @ 05:32:56
+* **Release Date:** March 30, 2016 @ 06:32:56
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Let Alexa help you learn things new and unknown facts about computers! Simply as
 * **ID:** amzn1.ask.skill.d6ef71d9-d65d-4801-b592-74472b027da1
 * **ASIN:** B01K8ANKXU
 * **Author:** Mathew Skaria
-* **Release Date:** August 17, 2016 @ 03:22:34
+* **Release Date:** August 17, 2016 @ 04:22:34
 * **In-App Purchasing:** No

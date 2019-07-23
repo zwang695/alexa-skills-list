@@ -20,5 +20,5 @@ This skill will help you win at getting through the muscles of the body. This wi
 * **ID:** amzn1.ask.skill.039a0d3f-0a50-4f72-b88f-d7cf2ba310d4
 * **ASIN:** B01N0MWCMW
 * **Author:** CIC: Consistently Inconsistent
-* **Release Date:** December 8, 2016 @ 08:19:53
+* **Release Date:** December 8, 2016 @ 09:19:53
 * **In-App Purchasing:** No

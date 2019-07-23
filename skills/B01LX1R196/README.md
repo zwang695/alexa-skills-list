@@ -22,5 +22,5 @@ Who was born today gives you information about famous people who were born in th
 * **ID:** amzn1.ask.skill.042fc281-f5a2-4525-bd95-f28c48988e87
 * **ASIN:** B01LX1R196
 * **Author:** Chris Koos
-* **Release Date:** October 4, 2016 @ 02:42:29
+* **Release Date:** October 4, 2016 @ 03:42:29
 * **In-App Purchasing:** No

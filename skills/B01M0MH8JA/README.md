@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.326d32e1-80e5-4383-8f9a-c21ecd47d459
 * **ASIN:** B01M0MH8JA
 * **Author:** Deutsche Telekom AG
-* **Release Date:** October 25, 2016 @ 15:44:55
+* **Release Date:** October 25, 2016 @ 16:44:55
 * **In-App Purchasing:** No

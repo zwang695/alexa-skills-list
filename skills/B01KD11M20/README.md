@@ -20,5 +20,5 @@ Running through the facts tutorial with just a few lame paint facts.
 * **ID:** amzn1.ask.skill.0c102ce9-3a0c-40f0-8e09-e9e665c331bf
 * **ASIN:** B01KD11M20
 * **Author:** Montgoss
-* **Release Date:** August 22, 2016 @ 01:37:48
+* **Release Date:** August 22, 2016 @ 02:37:48
 * **In-App Purchasing:** No

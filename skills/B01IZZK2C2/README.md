@@ -20,5 +20,5 @@ What  better  to share a  joke than voice  even thought  lots  of  jokea re  ava
 * **ID:** amzn1.ask.skill.db8a781f-09bb-4b06-b74a-d2625b731d1e
 * **ASIN:** B01IZZK2C2
 * **Author:** DCOM
-* **Release Date:** July 28, 2016 @ 07:26:36
+* **Release Date:** July 28, 2016 @ 08:26:36
 * **In-App Purchasing:** No

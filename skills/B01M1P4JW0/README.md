@@ -22,5 +22,5 @@ As we add new trivia to this skill, please check back with us often.
 * **ID:** amzn1.ask.skill.68485101-e7fd-42a5-bde9-1308cf1c9194
 * **ASIN:** B01M1P4JW0
 * **Author:** codecat.net
-* **Release Date:** October 12, 2016 @ 02:12:43
+* **Release Date:** October 12, 2016 @ 03:12:43
 * **In-App Purchasing:** No

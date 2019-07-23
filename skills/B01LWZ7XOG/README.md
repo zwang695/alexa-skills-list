@@ -16,5 +16,5 @@ Ever have to wait for the right tide for hitting those west coast waves or just 
 * **ID:** amzn1.ask.skill.d3a173a7-a4f2-4eff-b12f-d2970111d237
 * **ASIN:** B01LWZ7XOG
 * **Author:** Designer
-* **Release Date:** October 3, 2016 @ 02:11:57
+* **Release Date:** October 3, 2016 @ 03:11:57
 * **In-App Purchasing:** No

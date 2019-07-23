@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.067c36e3-7e98-4a3f-ad42-ffe7065a3339
 * **ASIN:** B01M0YKN3Y
 * **Author:** Whizzy Labs
-* **Release Date:** October 8, 2016 @ 04:41:50
+* **Release Date:** October 8, 2016 @ 05:41:50
 * **In-App Purchasing:** No

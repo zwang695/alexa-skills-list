@@ -20,5 +20,5 @@ Toronto Attraction Information for tourists.  Attractions located in downtown To
 * **ID:** amzn1.ask.skill.d718ebd0-1332-423a-8244-829e36aa2109
 * **ASIN:** B01MY283GM
 * **Author:** Secunoid Systems
-* **Release Date:** December 31, 2016 @ 02:48:56
+* **Release Date:** December 31, 2016 @ 03:48:56
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ A few chemistry facts based off of the space facts template.
 * **ID:** amzn1.ask.skill.c9e39e90-86ee-4c89-a3ae-90c61a2f388a
 * **ASIN:** B01NA9OD0U
 * **Author:** Crimson Syndicate
-* **Release Date:** December 1, 2016 @ 05:35:10
+* **Release Date:** December 1, 2016 @ 06:35:10
 * **In-App Purchasing:** No

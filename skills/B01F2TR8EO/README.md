@@ -18,5 +18,5 @@ Finds out where the Lansing River Trail is flooded.
 * **ID:** amzn1.echo-sdk-ams.app.4a68936c-5bbb-4374-a104-04d8ec8dba6a
 * **ASIN:** B01F2TR8EO
 * **Author:** JRR
-* **Release Date:** May 17, 2016 @ 10:38:30
+* **Release Date:** May 17, 2016 @ 11:38:30
 * **In-App Purchasing:** No

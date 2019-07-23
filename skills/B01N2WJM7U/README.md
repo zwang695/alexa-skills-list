@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.6a708ce8-a1d6-4035-ad09-15b6cda9bdf4
 * **ASIN:** B01N2WJM7U
 * **Author:** cocoate.com
-* **Release Date:** January 2, 2017 @ 00:49:21
+* **Release Date:** January 2, 2017 @ 01:49:21
 * **In-App Purchasing:** No

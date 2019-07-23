@@ -22,5 +22,5 @@ If you have any questions or would like to see more features get in touch at soc
 * **ID:** amzn1.ask.skill.93ee8d18-80f9-4581-9cd4-20132aaeffe3
 * **ASIN:** B01MDN6G74
 * **Author:** Henrique Dantas
-* **Release Date:** November 13, 2016 @ 07:43:00
+* **Release Date:** November 13, 2016 @ 08:43:00
 * **In-App Purchasing:** No

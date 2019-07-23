@@ -27,7 +27,7 @@ keeps you informed 24/7 with the latest USA TODAY headlines. Staying informed ha
 * **ID:** amzn1.echo-sdk-ams.app.1ec023fd-0949-4184-b2a7-506812b21898
 * **ASIN:** B01BZBJ5B2
 * **Author:** Gannett, Inc
-* **Release Date:** February 19, 2016 @ 15:49:36
+* **Release Date:** February 19, 2016 @ 16:49:36
 * **Privacy Policy:** http://www.usatoday.com/legal/privacynotice.html
 * **Terms of Use:** http://www.usatoday.com/legal/tos.html
 * **In-App Purchasing:** No

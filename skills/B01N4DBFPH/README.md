@@ -16,5 +16,5 @@ This application shares some facts about Memes that are meant to be interesting.
 * **ID:** amzn1.ask.skill.c8da462a-a506-42fa-93d5-80457a7fb692
 * **ASIN:** B01N4DBFPH
 * **Author:** MaorSG
-* **Release Date:** December 20, 2016 @ 08:20:20
+* **Release Date:** December 20, 2016 @ 09:20:20
 * **In-App Purchasing:** No

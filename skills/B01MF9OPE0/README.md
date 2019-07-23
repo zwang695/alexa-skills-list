@@ -20,5 +20,5 @@ The Sunday River Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.ad8f9db9-e27f-4371-9ab0-5227dffb9e6a
 * **ASIN:** B01MF9OPE0
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:15:13
+* **Release Date:** October 21, 2016 @ 15:15:13
 * **In-App Purchasing:** No

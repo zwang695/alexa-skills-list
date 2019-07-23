@@ -20,5 +20,5 @@ The Mount Washington Alpine Resort Snow Report brought to you by SnoCountry brin
 * **ID:** amzn1.ask.skill.a22da692-c91b-40f6-ae30-bfde8fff84fa
 * **ASIN:** B01LYB83FW
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:56:16
+* **Release Date:** October 20, 2016 @ 03:56:16
 * **In-App Purchasing:** No

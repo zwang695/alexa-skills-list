@@ -16,5 +16,5 @@ Fr. Tom Soroka brings us the daily scripture readings and thoughtful commentary 
 * **ID:** amzn1.ask.skill.e553c4d0-8b09-4a3f-b58c-b9f707bdbe12
 * **ASIN:** B01M70K9FK
 * **Author:** onClick Consulting
-* **Release Date:** October 26, 2016 @ 01:45:40
+* **Release Date:** October 26, 2016 @ 02:45:40
 * **In-App Purchasing:** No

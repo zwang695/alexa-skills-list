@@ -22,7 +22,7 @@ To get started, simply say “Alexa, open food finder.” Alexa will connect you
 * **ID:** amzn1.ask.skill.a98c595f-cafa-4278-afe5-cf75ce792885
 * **ASIN:** B01KBEU4CS
 * **Author:** Madrona Labs II
-* **Release Date:** August 31, 2016 @ 16:09:35
+* **Release Date:** August 31, 2016 @ 17:09:35
 * **Privacy Policy:** http://alexa-resto.s3-website-us-east-1.amazonaws.com/privacy.html
 * **Terms of Use:** http://alexa-resto.s3-website-us-east-1.amazonaws.com/tos.html
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill tells you a random fact about basketball
 * **ID:** amzn1.ask.skill.85f9290e-51e7-441b-a3b1-a154168f22c6
 * **ASIN:** B01N1WDLPO
 * **Author:** Mylejs
-* **Release Date:** December 29, 2016 @ 00:50:00
+* **Release Date:** December 29, 2016 @ 01:50:00
 * **In-App Purchasing:** No

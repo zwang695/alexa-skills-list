@@ -20,5 +20,5 @@ The Bretton Woods Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.f7b61d59-feec-4141-b36f-4b7ab99c422a
 * **ASIN:** B01MPWODM5
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:46:58
+* **Release Date:** October 26, 2016 @ 02:46:58
 * **In-App Purchasing:** No

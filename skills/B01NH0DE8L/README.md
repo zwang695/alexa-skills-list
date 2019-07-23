@@ -20,5 +20,5 @@ The world could always use more heroes! This skill tests your knowledge of the p
 * **ID:** amzn1.ask.skill.88aa3a79-b6a6-4e30-bac4-f1850ec00c05
 * **ASIN:** B01NH0DE8L
 * **Author:** Littlefinger6226
-* **Release Date:** December 28, 2016 @ 03:19:26
+* **Release Date:** December 28, 2016 @ 04:19:26
 * **In-App Purchasing:** No

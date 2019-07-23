@@ -21,5 +21,5 @@ The verses are attributed to Odin; the implicit attribution to Odin facilitated 
 * **ID:** amzn1.echo-sdk-ams.app.514fd27f-796e-4a7f-ba06-e782d00f6af4
 * **ASIN:** B01HIXMAI6
 * **Author:** Arghwebworks
-* **Release Date:** July 7, 2016 @ 07:27:30
+* **Release Date:** July 7, 2016 @ 08:27:30
 * **In-App Purchasing:** No

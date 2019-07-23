@@ -24,5 +24,5 @@ Update June 28, 2016: Windcast now provides wind information for over 120 marina
 * **ID:** amzn1.echo-sdk-ams.app.dca717d0-f91d-4bb1-95cb-624d70eab112
 * **ASIN:** B01GZ1UIC2
 * **Author:** iPhingers
-* **Release Date:** June 16, 2016 @ 07:45:36
+* **Release Date:** June 16, 2016 @ 08:45:36
 * **In-App Purchasing:** No

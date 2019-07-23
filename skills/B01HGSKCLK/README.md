@@ -20,7 +20,7 @@ You can now put the words of Luther's Small Catechism into your Echo, Tap, or an
 * **ID:** amzn1.echo-sdk-ams.app.22ccc337-65dd-4c00-9851-9ae9198ff25d
 * **ASIN:** B01HGSKCLK
 * **Author:** Concordia Publishing House
-* **Release Date:** July 4, 2016 @ 01:57:34
+* **Release Date:** July 4, 2016 @ 02:57:34
 * **Privacy Policy:** http://www.cph.org/t-about-privacy.aspx
 * **Terms of Use:** http://catechism.cph.org/en/about.html
 * **In-App Purchasing:** No

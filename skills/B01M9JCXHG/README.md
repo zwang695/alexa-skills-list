@@ -26,7 +26,7 @@ You must have an Amazon Prime or Amazon Prime Video subscription to watch “The
 * **ID:** amzn1.ask.skill.7231f8f2-d9de-481d-a47e-da0dee7ce256
 * **ASIN:** B01M9JCXHG
 * **Author:** Amazon Prime Video
-* **Release Date:** November 14, 2016 @ 12:12:49
+* **Release Date:** November 14, 2016 @ 13:12:49
 * **Privacy Policy:** http://www.amazon.com/privacy
 * **Terms of Use:** http://www.amazon.com/conditionsofuse
 * **In-App Purchasing:** No

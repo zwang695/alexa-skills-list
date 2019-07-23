@@ -20,5 +20,5 @@ Reclaim your artistic and creative lifestyle with Artist Quote. This skill prese
 * **ID:** amzn1.echo-sdk-ams.app.af8615c0-07a4-4153-a325-7ef0f5e35d59
 * **ASIN:** B01F9QJ54G
 * **Author:** Andy Gross
-* **Release Date:** May 10, 2016 @ 17:38:33
+* **Release Date:** May 10, 2016 @ 18:38:33
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a joke skill designed to ether roast or compliment my friend Connor.
 * **ID:** amzn1.ask.skill.8481f7b8-4ff0-47ed-ad2d-1dc782bfb2dc
 * **ASIN:** B01MSTRU7V
 * **Author:** JustSomeDude
-* **Release Date:** December 3, 2016 @ 07:05:12
+* **Release Date:** December 3, 2016 @ 08:05:12
 * **In-App Purchasing:** No

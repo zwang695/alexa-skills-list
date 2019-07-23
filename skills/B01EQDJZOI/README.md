@@ -20,5 +20,5 @@ How much do you know about Connecticut? This game ask trivia questions about Con
 * **ID:** amzn1.echo-sdk-ams.app.88806385-6338-419b-b3db-fb1b563416a5
 * **ASIN:** B01EQDJZOI
 * **Author:** Charlisa
-* **Release Date:** April 26, 2016 @ 04:08:41
+* **Release Date:** April 26, 2016 @ 05:08:41
 * **In-App Purchasing:** No

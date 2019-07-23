@@ -20,5 +20,5 @@ Bollywood Trivia provides interesting and fun facts about Bollywood, the world's
 * **ID:** amzn1.ask.skill.4ade1f27-48ec-43dd-afe2-57f1d751a52b
 * **ASIN:** B01N79QMN3
 * **Author:** Anupam Chakravorty
-* **Release Date:** November 25, 2016 @ 04:09:04
+* **Release Date:** November 25, 2016 @ 05:09:04
 * **In-App Purchasing:** No

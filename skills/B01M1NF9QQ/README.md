@@ -20,5 +20,5 @@ The Mt Rose Snow Report brought to you by SnoCountry brings you the latest snow 
 * **ID:** amzn1.ask.skill.f040289e-e76d-4f73-98bd-c90a409e776e
 * **ASIN:** B01M1NF9QQ
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:16:09
+* **Release Date:** October 20, 2016 @ 04:16:09
 * **In-App Purchasing:** No

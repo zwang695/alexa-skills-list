@@ -20,5 +20,5 @@ Using Alexa Skill Kit and Lambda functions I created a simple converting between
 * **ID:** amzn1.ask.skill.ec0cb951-d82b-44e5-beb2-f77f63bf43c9
 * **ASIN:** B01LI4G2YE
 * **Author:** Codifying Solutions
-* **Release Date:** September 11, 2016 @ 08:12:08
+* **Release Date:** September 11, 2016 @ 09:12:08
 * **In-App Purchasing:** No

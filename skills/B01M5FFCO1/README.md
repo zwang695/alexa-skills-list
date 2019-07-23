@@ -20,5 +20,5 @@ The Sapphire Valley Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.c8832053-0ae4-4492-8b39-f4b4977bb786
 * **ASIN:** B01M5FFCO1
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:44:42
+* **Release Date:** October 26, 2016 @ 02:44:42
 * **In-App Purchasing:** No

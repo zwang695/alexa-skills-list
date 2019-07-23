@@ -20,5 +20,5 @@ TrashDay uses the TDS calendar (example here: http://www.texasdisposal.com/sites
 * **ID:** amzn1.ask.skill.42739781-b141-46c0-b2d9-96f21f1faa03
 * **ASIN:** B01M72SL8L
 * **Author:** Ianw
-* **Release Date:** November 17, 2016 @ 01:05:37
+* **Release Date:** November 17, 2016 @ 02:05:37
 * **In-App Purchasing:** No

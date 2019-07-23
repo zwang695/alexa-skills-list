@@ -20,5 +20,5 @@ Ten possible questions.  Alexa will ask who won in a particular year.  You'll he
 * **ID:** amzn1.ask.skill.ca8dc8ad-be51-40ed-baba-1fd6fdf4fdd9
 * **ASIN:** B01KLG2VDG
 * **Author:** JasonL
-* **Release Date:** August 18, 2016 @ 05:22:28
+* **Release Date:** August 18, 2016 @ 06:22:28
 * **In-App Purchasing:** No

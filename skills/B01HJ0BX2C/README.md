@@ -20,5 +20,5 @@ This is a simple skill to allow you to ask Alexa to tell the temperature inside 
 * **ID:** amzn1.echo-sdk-ams.app.ae4d371c-43f0-4a82-ae7b-622effae08aa
 * **ASIN:** B01HJ0BX2C
 * **Author:** GSGTech
-* **Release Date:** June 28, 2016 @ 06:45:41
+* **Release Date:** June 28, 2016 @ 07:45:41
 * **In-App Purchasing:** No

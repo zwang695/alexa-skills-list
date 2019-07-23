@@ -20,5 +20,5 @@ The Sunrise Park Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.af6644c3-407a-4115-bf78-803ad4ae560c
 * **ASIN:** B01LZXWRWH
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:14:44
+* **Release Date:** October 20, 2016 @ 04:14:44
 * **In-App Purchasing:** No

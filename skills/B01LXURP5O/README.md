@@ -20,5 +20,5 @@ What a Joke tells you funny and punny jokes. It'll make you laugh and groan at t
 * **ID:** amzn1.ask.skill.3464a604-32d5-4cd1-8c55-59c4e8f06c67
 * **ASIN:** B01LXURP5O
 * **Author:** BlogAndCode
-* **Release Date:** September 20, 2016 @ 01:42:49
+* **Release Date:** September 20, 2016 @ 02:42:49
 * **In-App Purchasing:** No

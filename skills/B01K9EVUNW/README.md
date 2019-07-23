@@ -20,5 +20,5 @@ This skills will respond with one of a predefined list of movie facts.
 * **ID:** amzn1.ask.skill.acf4e7ce-7fd9-4e29-b0ce-73481bcc98f2
 * **ASIN:** B01K9EVUNW
 * **Author:** Cloud Labs Ltd. 
-* **Release Date:** August 16, 2016 @ 04:38:41
+* **Release Date:** August 16, 2016 @ 05:38:41
 * **In-App Purchasing:** No

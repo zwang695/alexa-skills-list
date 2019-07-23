@@ -20,5 +20,5 @@ The Wachusett Ski Area Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.2b174211-ccdc-4d87-8f85-a5aea640cbef
 * **ASIN:** B01M2ZKCO9
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:14:14
+* **Release Date:** October 21, 2016 @ 15:14:14
 * **In-App Purchasing:** No

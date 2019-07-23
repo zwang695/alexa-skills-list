@@ -24,5 +24,5 @@ It is a great and informative facts skill about meditation and its importance re
 * **ID:** amzn1.echo-sdk-ams.app.2d942aef-a6e9-49a0-849b-ef88738da913
 * **ASIN:** B01ENLLKK0
 * **Author:** Makarand Pande
-* **Release Date:** May 6, 2016 @ 19:08:28
+* **Release Date:** May 6, 2016 @ 20:08:28
 * **In-App Purchasing:** No

@@ -30,7 +30,7 @@ We will be continually updating the UPS skill to provide new features so check b
 * **ID:** amzn1.ask.skill.efdb82c9-17e8-448f-a784-79021cdf99f9
 * **ASIN:** B01M7XE316
 * **Author:** United Parcel Service, Inc.
-* **Release Date:** November 9, 2016 @ 02:42:39
+* **Release Date:** November 9, 2016 @ 03:42:39
 * **Privacy Policy:** https://www.ups.com/bot/resources/us/en/botprivacy.html
 * **Terms of Use:** https://www.ups.com/bot/resources/us/en/botterms.html
 * **In-App Purchasing:** No

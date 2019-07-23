@@ -27,5 +27,5 @@ keeps you connected to Campus Resources and Activities. Get started by telling A
 * **ID:** amzn1.ask.skill.29083681-e02a-413a-b425-4940e0add941
 * **ASIN:** B01MSHH1KS
 * **Author:** USD Developer Account
-* **Release Date:** November 17, 2016 @ 23:05:15
+* **Release Date:** November 18, 2016 @ 00:05:15
 * **In-App Purchasing:** No

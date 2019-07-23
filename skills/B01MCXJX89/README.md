@@ -20,5 +20,5 @@ The Arrowhead Ski Area Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.e32b2ee7-a6f7-4e71-8edc-f5cf6b6e6fd5
 * **ASIN:** B01MCXJX89
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:45:59
+* **Release Date:** October 26, 2016 @ 02:45:59
 * **In-App Purchasing:** No

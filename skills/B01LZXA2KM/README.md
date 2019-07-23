@@ -20,5 +20,5 @@ Ask Alexa to give you the time of the day in any city in the world.
 * **ID:** amzn1.ask.skill.8f11a5e6-8c11-4dc2-a238-abf5d9345b77
 * **ASIN:** B01LZXA2KM
 * **Author:** Jonas
-* **Release Date:** October 7, 2016 @ 03:12:09
+* **Release Date:** October 7, 2016 @ 04:12:09
 * **In-App Purchasing:** No

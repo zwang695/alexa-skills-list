@@ -20,5 +20,5 @@ Fortune cookies can be full of surprises. Get Alexa to give you a fortune cookie
 * **ID:** amzn1.ask.skill.f3b23404-9677-4d34-9cb5-e7fe3ea76fb3
 * **ASIN:** B01LX8FPGU
 * **Author:** Litezen
-* **Release Date:** September 22, 2016 @ 05:42:04
+* **Release Date:** September 22, 2016 @ 06:42:04
 * **In-App Purchasing:** No

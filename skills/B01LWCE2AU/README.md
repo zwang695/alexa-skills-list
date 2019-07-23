@@ -16,5 +16,5 @@ This skill start by asking various questions about your interests and walks thro
 * **ID:** amzn1.ask.skill.1b26840b-256b-4f86-9e67-619440f7d49b
 * **ASIN:** B01LWCE2AU
 * **Author:** Yogiraj Awati
-* **Release Date:** September 28, 2016 @ 18:12:04
+* **Release Date:** September 28, 2016 @ 19:12:04
 * **In-App Purchasing:** No

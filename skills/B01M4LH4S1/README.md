@@ -20,5 +20,5 @@ The Sun Valley Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.0fa2d82e-e8e4-4cfb-b462-8358465c15ce
 * **ASIN:** B01M4LH4S1
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:47:55
+* **Release Date:** October 21, 2016 @ 15:47:55
 * **In-App Purchasing:** No

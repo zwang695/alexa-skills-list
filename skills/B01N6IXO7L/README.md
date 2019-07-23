@@ -20,5 +20,5 @@ A fun skill to ask for advice and get random advice from advice slip.  Note that
 * **ID:** amzn1.ask.skill.e6f72232-67d2-4c9d-8357-ac7abdaadf51
 * **ASIN:** B01N6IXO7L
 * **Author:** Jon Gaudette
-* **Release Date:** December 29, 2016 @ 02:49:10
+* **Release Date:** December 29, 2016 @ 03:49:10
 * **In-App Purchasing:** No

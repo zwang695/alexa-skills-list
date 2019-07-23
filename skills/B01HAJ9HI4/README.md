@@ -29,5 +29,5 @@ Data provided by http://www.brewerydb.com.  If you would like to have your favor
 * **ID:** amzn1.echo-sdk-ams.app.e14641d9-241d-4311-bc03-e897eb882328
 * **ASIN:** B01HAJ9HI4
 * **Author:** Drawrz.com
-* **Release Date:** June 22, 2016 @ 02:45:32
+* **Release Date:** June 22, 2016 @ 03:45:32
 * **In-App Purchasing:** No

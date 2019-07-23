@@ -20,5 +20,5 @@ This skill provides interesting facts related to dogs.  You can begin by enablin
 * **ID:** amzn1.ask.skill.8d5e6bbd-dcbc-4a98-a281-902e1963add4
 * **ASIN:** B01JSQRTQE
 * **Author:** Nate Roy
-* **Release Date:** August 8, 2016 @ 01:38:14
+* **Release Date:** August 8, 2016 @ 02:38:14
 * **In-App Purchasing:** No

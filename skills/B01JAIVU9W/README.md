@@ -20,5 +20,5 @@ Bird facts skill gives you interesting facts about our fine feathered friends. B
 * **ID:** amzn1.ask.skill.c44bd121-35a7-4ce3-bc08-959f014c483c
 * **ASIN:** B01JAIVU9W
 * **Author:** Pamela Molochko
-* **Release Date:** August 1, 2016 @ 02:26:28
+* **Release Date:** August 1, 2016 @ 03:26:28
 * **In-App Purchasing:** No

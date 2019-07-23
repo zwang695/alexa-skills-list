@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.7c323fdb-9527-461a-89aa-e8a266df60c6
 * **ASIN:** B01N0ODMY7
 * **Author:** Sebastian Kliem 
-* **Release Date:** December 13, 2016 @ 04:49:29
+* **Release Date:** December 13, 2016 @ 05:49:29
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.7391c98a-c932-4560-b21a-26e89f694dbc
 * **ASIN:** B01NBAJXZ8
 * **Author:** Appenheimer
-* **Release Date:** November 29, 2016 @ 03:36:38
+* **Release Date:** November 29, 2016 @ 04:36:38
 * **In-App Purchasing:** No

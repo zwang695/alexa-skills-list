@@ -16,5 +16,5 @@ A skill that generates a fact about plants, ranging from fun trivia to useful kn
 * **ID:** amzn1.ask.skill.44f27545-fbec-4729-b41a-99b4998d344e
 * **ASIN:** B01N9LPAC0
 * **Author:** Benjamin Chan
-* **Release Date:** January 2, 2017 @ 03:19:13
+* **Release Date:** January 2, 2017 @ 04:19:13
 * **In-App Purchasing:** No

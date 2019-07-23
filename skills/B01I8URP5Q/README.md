@@ -24,5 +24,5 @@ This skill is dedicated to the United States Armed Forces in appreciation of the
 * **ID:** amzn1.echo-sdk-ams.app.43f2ebf2-2cfe-416a-91b5-26bb90d78997
 * **ASIN:** B01I8URP5Q
 * **Author:** Drew Firment
-* **Release Date:** July 13, 2016 @ 07:57:45
+* **Release Date:** July 13, 2016 @ 08:57:45
 * **In-App Purchasing:** No

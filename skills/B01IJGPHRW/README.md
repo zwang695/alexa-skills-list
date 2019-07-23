@@ -20,5 +20,5 @@ A trivia skill based on the Cricket game.
 * **ID:** amzn1.echo-sdk-ams.app.431744f3-a3b1-4d5f-b3a2-1bcabcb5f1c7
 * **ASIN:** B01IJGPHRW
 * **Author:** Sam
-* **Release Date:** July 20, 2016 @ 04:27:45
+* **Release Date:** July 20, 2016 @ 05:27:45
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ I consider these passages to be seeds of the Bible, kernels of core ideas. I hav
 * **ID:** amzn1.echo-sdk-ams.app.d5098a09-ef02-4c85-96ee-fa5e2e72b20a
 * **ASIN:** B01DQ65KFY
 * **Author:** Ibgib LLC
-* **Release Date:** April 11, 2016 @ 06:02:26
+* **Release Date:** April 11, 2016 @ 07:02:26
 * **In-App Purchasing:** No

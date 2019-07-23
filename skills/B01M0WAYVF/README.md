@@ -20,5 +20,5 @@ Contains lists of foods, serving size, and how many grams are in those servings.
 * **ID:** amzn1.ask.skill.ecb85202-3406-46eb-be98-6a10c56ed518
 * **ASIN:** B01M0WAYVF
 * **Author:** Leo Salemann
-* **Release Date:** October 4, 2016 @ 03:12:33
+* **Release Date:** October 4, 2016 @ 04:12:33
 * **In-App Purchasing:** No

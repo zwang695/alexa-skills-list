@@ -22,7 +22,7 @@ FreeBusy works with all calendars (Google, Office 365, Outlook and corporate Exc
 * **ID:** amzn1.echo-sdk-ams.app.e6b772d2-1e86-4480-ba5c-dda436f66fe1
 * **ASIN:** B017OBE2NI
 * **Author:** BizLogr Inc.
-* **Release Date:** November 6, 2015 @ 14:05:44
+* **Release Date:** November 6, 2015 @ 15:05:44
 * **Privacy Policy:** https://freebusy.io/privacy
 * **Terms of Use:** https://freebusy.io/terms
 * **Account Linking Domains:** freebusy.io, az805145.vo.msecnd.net, login.live.com, account.live.com, auth.gfx.ms, login.windows.net, login.microsoftonline.com, secure.aadcdn.microsoftonline-p.com, freebusy.azureedge.net, www.facebook.com, graph.facebook.com

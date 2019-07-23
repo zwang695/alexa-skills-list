@@ -41,5 +41,5 @@ Source Code available @ https://github.com/goldsziggy/alexa_drinkmaster
 * **ID:** amzn1.echo-sdk-ams.app.1dbf1144-e80f-40c5-ac08-d81540319603
 * **ASIN:** B01DBYQM1C
 * **Author:** Ziggy
-* **Release Date:** March 23, 2016 @ 06:33:30
+* **Release Date:** March 23, 2016 @ 07:33:30
 * **In-App Purchasing:** No

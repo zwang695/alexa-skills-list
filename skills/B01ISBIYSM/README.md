@@ -20,5 +20,5 @@ This skill repeats unit of measure conversions.
 * **ID:** amzn1.echo-sdk-ams.app.7e722e83-b5ad-4827-b660-bd27a2b88e43
 * **ASIN:** B01ISBIYSM
 * **Author:** Visible Web Solutions
-* **Release Date:** July 26, 2016 @ 06:56:34
+* **Release Date:** July 26, 2016 @ 07:56:34
 * **In-App Purchasing:** No

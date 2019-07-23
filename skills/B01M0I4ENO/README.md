@@ -20,5 +20,5 @@ You can ask for a quote from one of the following philosophers: Albert Camus, Fr
 * **ID:** amzn1.ask.skill.ab5d8c88-55d8-45b2-85a2-52d0e0bcc3d3
 * **ASIN:** B01M0I4ENO
 * **Author:** AJapps
-* **Release Date:** October 5, 2016 @ 01:12:11
+* **Release Date:** October 5, 2016 @ 02:12:11
 * **In-App Purchasing:** No

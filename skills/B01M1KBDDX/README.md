@@ -20,5 +20,5 @@ The Lake Louise Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.2ca5c5f5-f3bb-4b0f-bd74-175fd3b6e193
 * **ASIN:** B01M1KBDDX
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:46:27
+* **Release Date:** October 20, 2016 @ 04:46:27
 * **In-App Purchasing:** No

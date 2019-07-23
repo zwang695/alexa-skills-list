@@ -20,5 +20,5 @@ User starts with "open movie info" after which Alexa prompts for a movie title. 
 * **ID:** amzn1.echo-sdk-ams.app.bf3a02c0-c1e6-493f-894b-94dfd6798694
 * **ASIN:** B01BKVNMM0
 * **Author:** David Flannery
-* **Release Date:** February 8, 2016 @ 14:41:18
+* **Release Date:** February 8, 2016 @ 15:41:18
 * **In-App Purchasing:** No

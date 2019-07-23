@@ -20,7 +20,7 @@ Shares a random San Francisco Fact. An unofficial San Francisco Fact App for Ale
 * **ID:** amzn1.ask.skill.1b825413-139f-474d-bd42-7cf2d0d809af
 * **ASIN:** B01LWKYY6V
 * **Author:** VJ
-* **Release Date:** September 22, 2016 @ 03:42:06
+* **Release Date:** September 22, 2016 @ 04:42:06
 * **Privacy Policy:** https://github.com/vasujain/sf-fact-alexa/blob/master/Privacy%20Policy.md
 * **Terms of Use:** https://github.com/vasujain/sf-fact-alexa/blob/master/Terms%20of%20Use.md
 * **In-App Purchasing:** No

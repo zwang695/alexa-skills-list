@@ -20,5 +20,5 @@ Learn about French trivia from how much cheese is produced in France a year to h
 * **ID:** amzn1.ask.skill.d42b93b2-669d-4063-801a-dd20c46aa7c4
 * **ASIN:** B01M0T17NC
 * **Author:** Emily Lam
-* **Release Date:** September 20, 2016 @ 05:13:44
+* **Release Date:** September 20, 2016 @ 06:13:44
 * **In-App Purchasing:** No

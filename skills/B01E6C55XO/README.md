@@ -20,5 +20,5 @@ Just say "Alexa, ask for today's facts"!
 * **ID:** amzn1.echo-sdk-ams.app.9239ff0a-524c-4c7b-be03-90b5b432e076
 * **ASIN:** B01E6C55XO
 * **Author:** pmvrmc
-* **Release Date:** April 14, 2016 @ 05:32:24
+* **Release Date:** April 14, 2016 @ 06:32:24
 * **In-App Purchasing:** No

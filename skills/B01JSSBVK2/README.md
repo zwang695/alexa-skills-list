@@ -20,5 +20,5 @@ This skill provides facts related to Arizona.  You can begin by enabling the ski
 * **ID:** amzn1.ask.skill.7cdcd14d-b080-4dbf-af84-787204f61a4c
 * **ASIN:** B01JSSBVK2
 * **Author:** Nate Roy
-* **Release Date:** August 8, 2016 @ 01:38:32
+* **Release Date:** August 8, 2016 @ 02:38:32
 * **In-App Purchasing:** No

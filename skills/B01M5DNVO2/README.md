@@ -20,5 +20,5 @@ The Otsego Ski Club Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.ec72c0c5-1faf-4e7d-be39-d03091dedbb4
 * **ASIN:** B01M5DNVO2
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:45:19
+* **Release Date:** October 21, 2016 @ 15:45:19
 * **In-App Purchasing:** No

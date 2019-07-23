@@ -20,5 +20,5 @@ Do you like cats? Want to know something more about them every day to tell your 
 * **ID:** amzn1.ask.skill.086604cd-91e7-4f88-8cfd-2ac4bb243719
 * **ASIN:** B01NAIJLDB
 * **Author:** mcgnly
-* **Release Date:** December 14, 2016 @ 03:50:20
+* **Release Date:** December 14, 2016 @ 04:50:20
 * **In-App Purchasing:** No

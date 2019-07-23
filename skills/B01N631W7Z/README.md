@@ -27,5 +27,5 @@ http://www.leagueofgraphs.com/rankings/blue-vs-red/all
 * **ID:** amzn1.ask.skill.6146514f-ec81-4da4-81c6-9ecf62fadbfb
 * **ASIN:** B01N631W7Z
 * **Author:** LMU Student Projects
-* **Release Date:** November 17, 2016 @ 22:05:27
+* **Release Date:** November 17, 2016 @ 23:05:27
 * **In-App Purchasing:** No

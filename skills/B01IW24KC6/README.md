@@ -20,5 +20,5 @@ Forms of Poetry trivia allows you to tests your knowledge and allows you to lear
 * **ID:** amzn1.ask.skill.bd766597-babb-4cfc-9a89-2272344f92c4
 * **ASIN:** B01IW24KC6
 * **Author:** ElanidKite
-* **Release Date:** July 26, 2016 @ 05:56:36
+* **Release Date:** July 26, 2016 @ 06:56:36
 * **In-App Purchasing:** No

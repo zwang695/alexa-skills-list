@@ -24,5 +24,5 @@ No additional requirements, accounts, or accessories needed to use the skill
 * **ID:** amzn1.echo-sdk-ams.app.ea329828-8000-45a9-a388-47105c60809b
 * **ASIN:** B01HC5A744
 * **Author:** Tyler Schmidt
-* **Release Date:** June 28, 2016 @ 05:45:35
+* **Release Date:** June 28, 2016 @ 06:45:35
 * **In-App Purchasing:** No

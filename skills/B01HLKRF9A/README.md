@@ -20,5 +20,5 @@ firstBuild is a guide to help an individual build their own desktop with all the
 * **ID:** amzn1.echo-sdk-ams.app.c5f688c4-f5a6-405e-9222-01e3eaa78ed7
 * **ASIN:** B01HLKRF9A
 * **Author:** Lifeguard
-* **Release Date:** July 4, 2016 @ 01:27:39
+* **Release Date:** July 4, 2016 @ 02:27:39
 * **In-App Purchasing:** No

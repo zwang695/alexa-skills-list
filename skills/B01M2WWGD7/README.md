@@ -20,5 +20,5 @@ A small skill with some fun facts about inspect: Ladybirds.
 * **ID:** amzn1.ask.skill.05aec6df-730a-48ba-a79d-3a8200e24179
 * **ASIN:** B01M2WWGD7
 * **Author:** alpagot
-* **Release Date:** October 25, 2016 @ 01:14:39
+* **Release Date:** October 25, 2016 @ 02:14:39
 * **In-App Purchasing:** No

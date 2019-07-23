@@ -20,5 +20,5 @@ Do you know all the states in America? This skill will help you learn them all.
 * **ID:** amzn1.ask.skill.c571cb99-ce30-4a47-9a57-bf90224a7497
 * **ASIN:** B01KKYHVXO
 * **Author:** Alex W
-* **Release Date:** August 18, 2016 @ 05:22:14
+* **Release Date:** August 18, 2016 @ 06:22:14
 * **In-App Purchasing:** No

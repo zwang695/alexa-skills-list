@@ -20,5 +20,5 @@ This skill tells the user about who was president of the United States of Americ
 * **ID:** amzn1.ask.skill.f3fb8eb1-7547-40ea-aa68-7976fd0a5eef
 * **ASIN:** B01IRHJ9BS
 * **Author:** Greg Szczygiel
-* **Release Date:** July 22, 2016 @ 04:57:28
+* **Release Date:** July 22, 2016 @ 05:57:28
 * **In-App Purchasing:** No

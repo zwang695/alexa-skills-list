@@ -22,5 +22,5 @@ Magic Rules contains over a dozen rules and explanations for MTG abilities.
 * **ID:** amzn1.echo-sdk-ams.app.08576efd-6ccc-47c2-bd21-1edbb8a0c4b3
 * **ASIN:** B01JXLRLE4
 * **Author:** pete.beegle
-* **Release Date:** September 11, 2016 @ 08:12:02
+* **Release Date:** September 11, 2016 @ 09:12:02
 * **In-App Purchasing:** No

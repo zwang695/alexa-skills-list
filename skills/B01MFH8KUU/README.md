@@ -20,5 +20,5 @@ The Alpine Valley Resort Snow Report brought to you by SnoCountry brings you the
 * **ID:** amzn1.ask.skill.c14a51b8-f68c-41da-af82-6b6441d47ae2
 * **ASIN:** B01MFH8KUU
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:43:50
+* **Release Date:** November 5, 2016 @ 11:43:50
 * **In-App Purchasing:** No

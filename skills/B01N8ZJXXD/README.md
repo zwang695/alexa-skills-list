@@ -20,5 +20,5 @@ Love getting your socks knocked off by spectacular pins and eye-rolling, "geez d
 * **ID:** amzn1.ask.skill.5a1163b0-38d0-4f74-be9c-429d93d1add0
 * **ASIN:** B01N8ZJXXD
 * **Author:** Mogul
-* **Release Date:** November 17, 2016 @ 01:05:32
+* **Release Date:** November 17, 2016 @ 02:05:32
 * **In-App Purchasing:** No

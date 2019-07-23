@@ -27,5 +27,5 @@ Or, for custom odds, tell Alexa to flip a coin with high odds, or to flip a coin
 * **ID:** amzn1.ask.skill.04ff9f9e-ac85-404f-ab7c-e2542ec15f90
 * **ASIN:** B01KKTMCHY
 * **Author:** Greg Bronner
-* **Release Date:** August 19, 2016 @ 08:21:28
+* **Release Date:** August 19, 2016 @ 09:21:28
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Sometimes they confused us and often they made us uncomfortable,  but everyone a
 * **ID:** amzn1.echo-sdk-ams.app.1366e140-7b1e-400b-b08c-6c8c01dec826
 * **ASIN:** B01FPW5CNM
 * **Author:** Wolf Dog
-* **Release Date:** May 21, 2016 @ 04:38:28
+* **Release Date:** May 21, 2016 @ 05:38:28
 * **In-App Purchasing:** No

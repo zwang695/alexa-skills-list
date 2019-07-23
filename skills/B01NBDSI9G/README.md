@@ -20,5 +20,5 @@ Now you can easily find out the operating status of the federal government in Wa
 * **ID:** amzn1.ask.skill.026eed6d-3436-486f-b1fe-58bdc9ab8a3e
 * **ASIN:** B01NBDSI9G
 * **Author:** Nat Burgwyn
-* **Release Date:** November 29, 2016 @ 08:06:21
+* **Release Date:** November 29, 2016 @ 09:06:21
 * **In-App Purchasing:** No

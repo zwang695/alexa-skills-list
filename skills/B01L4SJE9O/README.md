@@ -20,5 +20,5 @@ Fun motivational quotes to brighten up your day.
 * **ID:** amzn1.ask.skill.f183916a-de30-46a1-9749-fec9427af800
 * **ASIN:** B01L4SJE9O
 * **Author:** Sharon Gong
-* **Release Date:** August 31, 2016 @ 02:03:05
+* **Release Date:** August 31, 2016 @ 03:03:05
 * **In-App Purchasing:** No

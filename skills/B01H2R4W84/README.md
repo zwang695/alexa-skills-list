@@ -20,5 +20,5 @@ Trivia questions on various AWS cloud services and technologies.
 * **ID:** amzn1.echo-sdk-ams.app.bf0cee82-81c7-4c4e-995b-f916aff7f55d
 * **ASIN:** B01H2R4W84
 * **Author:** Elastrix
-* **Release Date:** July 15, 2016 @ 04:57:39
+* **Release Date:** July 15, 2016 @ 05:57:39
 * **In-App Purchasing:** No

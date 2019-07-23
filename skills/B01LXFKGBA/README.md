@@ -20,5 +20,5 @@ The China Peak Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.b8dff5d2-32d1-4bb7-b88b-dff4b27fa5ea
 * **ASIN:** B01LXFKGBA
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:15:02
+* **Release Date:** October 20, 2016 @ 04:15:02
 * **In-App Purchasing:** No

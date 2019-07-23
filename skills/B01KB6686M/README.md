@@ -20,5 +20,5 @@ Now you can enjoy the lyrics of 3 Minute Hero from Alexa! Say "Alexa open three 
 * **ID:** amzn1.ask.skill.e817682b-7806-473b-861b-f3567fd955b3
 * **ASIN:** B01KB6686M
 * **Author:** BlueMagma
-* **Release Date:** August 22, 2016 @ 03:07:56
+* **Release Date:** August 22, 2016 @ 04:07:56
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A skill that tells facts about Alexa
 * **ID:** amzn1.ask.skill.d2aeb986-fddf-4c70-a309-e488388d7011
 * **ASIN:** B01L4N08GM
 * **Author:** Mandy Chan
-* **Release Date:** September 28, 2016 @ 16:12:23
+* **Release Date:** September 28, 2016 @ 17:12:23
 * **In-App Purchasing:** No

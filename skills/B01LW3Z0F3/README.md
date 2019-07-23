@@ -20,5 +20,5 @@ Famous Quotes from Blessed Mother Teresa.
 * **ID:** amzn1.ask.skill.897352f2-df5c-4cc3-bb08-1c831c5e1376
 * **ASIN:** B01LW3Z0F3
 * **Author:** cebo
-* **Release Date:** September 12, 2016 @ 02:12:58
+* **Release Date:** September 12, 2016 @ 03:12:58
 * **In-App Purchasing:** No

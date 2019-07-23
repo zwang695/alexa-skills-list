@@ -35,5 +35,5 @@ give me something
 * **ID:** amzn1.ask.skill.c7a27987-881c-48cf-9741-bfb2368a49aa
 * **ASIN:** B01MU4O3O7
 * **Author:** Bhaskar
-* **Release Date:** December 29, 2016 @ 05:50:05
+* **Release Date:** December 29, 2016 @ 06:50:05
 * **In-App Purchasing:** No

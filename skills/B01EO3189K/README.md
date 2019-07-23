@@ -20,5 +20,5 @@ Quiz Bowl is a trivia game that tests the player's knowledge of varied subjects 
 * **ID:** amzn1.echo-sdk-ams.app.82cc95b3-3224-44a9-9f66-72e358894ab7
 * **ASIN:** B01EO3189K
 * **Author:** StrwbryJams
-* **Release Date:** April 25, 2016 @ 09:08:44
+* **Release Date:** April 25, 2016 @ 10:08:44
 * **In-App Purchasing:** No

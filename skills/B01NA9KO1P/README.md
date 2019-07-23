@@ -40,7 +40,7 @@ Having issues with the skill? Simply ask Alexa for details and assistance “Ale
 * **ID:** amzn1.ask.skill.67612260-c6ea-4ff1-991d-d149bf4999a4
 * **ASIN:** B01NA9KO1P
 * **Author:** Netatmo
-* **Release Date:** December 14, 2016 @ 20:52:23
+* **Release Date:** December 14, 2016 @ 21:52:23
 * **Privacy Policy:** https://www.netatmo.com/site/terms#div_privacy
 * **Terms of Use:** https://www.netatmo.com/site/terms
 * **Account Linking Domains:** api.netatmo.com, api.netatmo.net, auth.netatmo.com

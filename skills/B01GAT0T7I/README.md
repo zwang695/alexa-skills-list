@@ -20,7 +20,7 @@ Access your GitHub information including profile, contributions, stars, etc...
 * **ID:** amzn1.echo-sdk-ams.app.27eb40b7-28bc-4a49-8b19-729165e132f3
 * **ASIN:** B01GAT0T7I
 * **Author:** Leo Correa
-* **Release Date:** June 14, 2016 @ 06:15:34
+* **Release Date:** June 14, 2016 @ 07:15:34
 * **Privacy Policy:** https://alexa-gitty.herokuapp.com/privacy_policy
 * **Account Linking Domains:** github.com
 * **In-App Purchasing:** No

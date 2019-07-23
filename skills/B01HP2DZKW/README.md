@@ -20,5 +20,5 @@ Tell Alexa to ask baseball colorline questions and away you go! You will be quiz
 * **ID:** amzn1.echo-sdk-ams.app.7a626379-92c4-4d3f-b707-26dddb67b9a3
 * **ASIN:** B01HP2DZKW
 * **Author:** Squoval Research Group
-* **Release Date:** July 4, 2016 @ 04:27:31
+* **Release Date:** July 4, 2016 @ 05:27:31
 * **In-App Purchasing:** No

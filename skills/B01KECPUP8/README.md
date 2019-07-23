@@ -20,5 +20,5 @@ This will provide a movie quote from popular 1990s movies.
 * **ID:** amzn1.ask.skill.34a1fe62-c0de-400d-aa59-c8ecf18150af
 * **ASIN:** B01KECPUP8
 * **Author:** Alex Beggs
-* **Release Date:** August 18, 2016 @ 01:52:26
+* **Release Date:** August 18, 2016 @ 02:52:26
 * **In-App Purchasing:** No

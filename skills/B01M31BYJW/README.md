@@ -20,5 +20,5 @@ The Attitash Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.2c5b951e-4404-4e4a-93e9-3fc92a671018
 * **ASIN:** B01M31BYJW
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:46:41
+* **Release Date:** October 26, 2016 @ 02:46:41
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Beer Meister suggests beer from an eclectic list of brews based on the style
 * **ID:** amzn1.echo-sdk-ams.app.f7104739-0419-4009-a960-f4dd6db0250a
 * **ASIN:** B01GNHXOD8
 * **Author:** Steiert Solutions
-* **Release Date:** June 20, 2016 @ 06:45:30
+* **Release Date:** June 20, 2016 @ 07:45:30
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Alexa gives a random fact about turtles.
 * **ID:** amzn1.ask.skill.8917f9a3-e29e-4a8e-a78a-11b5325718b3
 * **ASIN:** B01N09GO4X
 * **Author:** Angela Wong
-* **Release Date:** November 10, 2016 @ 00:13:09
+* **Release Date:** November 10, 2016 @ 01:13:09
 * **In-App Purchasing:** No

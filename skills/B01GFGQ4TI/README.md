@@ -28,5 +28,5 @@ A note of warning: the game does not yet save, and so when you exit the app, the
 * **ID:** amzn1.echo-sdk-ams.app.d320795f-1e11-4c74-b13b-72f5c29c05fd
 * **ASIN:** B01GFGQ4TI
 * **Author:** George Aleksandrovich
-* **Release Date:** June 7, 2016 @ 07:08:33
+* **Release Date:** June 7, 2016 @ 08:08:33
 * **In-App Purchasing:** No

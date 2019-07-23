@@ -20,5 +20,5 @@ the skill gives tips and facts about fitness
 * **ID:** amzn1.ask.skill.5867d783-6d72-4db7-bd2b-de2225f3998c
 * **ASIN:** B01N00SQV4
 * **Author:** kylehader
-* **Release Date:** November 6, 2016 @ 01:42:43
+* **Release Date:** November 6, 2016 @ 02:42:43
 * **In-App Purchasing:** No

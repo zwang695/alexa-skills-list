@@ -22,5 +22,5 @@ This skill is unaffiliated with Blizzard Entertainment.
 * **ID:** amzn1.ask.skill.0d993171-7a28-4d7a-88d6-3c1ef3f57a14
 * **ASIN:** B01NBJRJ8I
 * **Author:** kix
-* **Release Date:** December 16, 2016 @ 06:49:32
+* **Release Date:** December 16, 2016 @ 07:49:32
 * **In-App Purchasing:** No

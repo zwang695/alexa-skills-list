@@ -20,5 +20,5 @@ The Blue Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.69555f27-6f1b-4edc-8065-127c915567a6
 * **ASIN:** B01MG90JHS
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:15:03
+* **Release Date:** November 4, 2016 @ 09:15:03
 * **In-App Purchasing:** No

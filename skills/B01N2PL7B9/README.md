@@ -40,7 +40,7 @@ Cause a citric eruption with the “Lemon Volcano.” (Takes approximately 15 mi
 * **ID:** amzn1.ask.skill.0b2cd430-13c5-4133-9c9a-4c24b3adcdaa
 * **ASIN:** B01N2PL7B9
 * **Author:** General Electric
-* **Release Date:** December 16, 2016 @ 19:49:20
+* **Release Date:** December 16, 2016 @ 20:49:20
 * **Privacy Policy:** https://www.ge.com/privacy
 * **Terms of Use:** http://www.ge.com/terms
 * **In-App Purchasing:** No

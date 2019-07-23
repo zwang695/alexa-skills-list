@@ -16,5 +16,5 @@ To use the Javascript Geek skill, try saying...
 * **ID:** amzn1.ask.skill.f3c2cd96-b2a1-4ba4-a1fb-7c0e2ee53707
 * **ASIN:** B01MS30JYF
 * **Author:** Andy
-* **Release Date:** January 2, 2017 @ 23:19:26
+* **Release Date:** January 3, 2017 @ 00:19:26
 * **In-App Purchasing:** No

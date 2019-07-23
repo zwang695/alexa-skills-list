@@ -20,5 +20,5 @@ This is just a goofy Alexa Skill that can either read back Donald Trump's latest
 * **ID:** amzn1.ask.skill.1217c084-ed9d-4926-a09a-08420dd9fa04
 * **ASIN:** B01N8OOFJ1
 * **Author:** Werdna
-* **Release Date:** December 27, 2016 @ 04:49:13
+* **Release Date:** December 27, 2016 @ 05:49:13
 * **In-App Purchasing:** No

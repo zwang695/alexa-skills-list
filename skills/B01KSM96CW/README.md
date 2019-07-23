@@ -29,5 +29,5 @@ Ever been mad at Alexa but all she does is say nice things to you? Well no more!
 * **ID:** amzn1.ask.skill.e488fb57-aac0-4cf4-9270-026ea899af18
 * **ASIN:** B01KSM96CW
 * **Author:** CMM Tech
-* **Release Date:** August 31, 2016 @ 02:02:44
+* **Release Date:** August 31, 2016 @ 03:02:44
 * **In-App Purchasing:** No

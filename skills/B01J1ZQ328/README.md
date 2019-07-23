@@ -20,5 +20,5 @@ This skill is an introductory module built on the Alexa Skill Kit. It tests the 
 * **ID:** amzn1.ask.skill.ce5f55f2-9366-4e60-a37f-b54086536122
 * **ASIN:** B01J1ZQ328
 * **Author:** Ashwin Bhatnagar
-* **Release Date:** July 29, 2016 @ 07:56:34
+* **Release Date:** July 29, 2016 @ 08:56:34
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ In this trivia adventure, come and learn about the great and miserable players, 
 * **ID:** amzn1.echo-sdk-ams.app.582abef0-2e8d-404b-99ea-9845f364a67d
 * **ASIN:** B01I5YYBYS
 * **Author:** C Money
-* **Release Date:** July 13, 2016 @ 03:58:05
+* **Release Date:** July 13, 2016 @ 04:58:05
 * **In-App Purchasing:** No

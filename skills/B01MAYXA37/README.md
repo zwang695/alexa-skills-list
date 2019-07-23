@@ -20,5 +20,5 @@ The Hidden Valley Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.ee49792d-3581-4b3f-b512-8502a1d6daab
 * **ASIN:** B01MAYXA37
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:46:31
+* **Release Date:** October 21, 2016 @ 15:46:31
 * **In-App Purchasing:** No

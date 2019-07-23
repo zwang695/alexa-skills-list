@@ -16,5 +16,5 @@ randomly returns few details about a Pokemon Go "Persona" between number 1 and 1
 * **ID:** amzn1.ask.skill.d01aa35a-3881-4c57-89d9-68e951236b9b
 * **ASIN:** B01N3KF7Q6
 * **Author:** Adrien Chan
-* **Release Date:** November 25, 2016 @ 04:08:18
+* **Release Date:** November 25, 2016 @ 05:08:18
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Four Seasons Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.ff92ac2c-aed6-459a-a0b0-8882c484d8ed
 * **ASIN:** B01M70VLSL
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:46:18
+* **Release Date:** October 26, 2016 @ 04:46:18
 * **In-App Purchasing:** No

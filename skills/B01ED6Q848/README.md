@@ -20,5 +20,5 @@ Get a random bible verse
 * **ID:** amzn1.echo-sdk-ams.app.67934dde-455c-48ee-b6e5-80b62c6455fa
 * **ASIN:** B01ED6Q848
 * **Author:** Revel Software
-* **Release Date:** April 22, 2016 @ 01:38:25
+* **Release Date:** April 22, 2016 @ 02:38:25
 * **In-App Purchasing:** No

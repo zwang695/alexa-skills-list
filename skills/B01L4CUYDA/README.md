@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.04a94f2e-aa57-48d4-82a4-9b4b3ee83d29
 * **ASIN:** B01L4CUYDA
 * **Author:** gernotg
-* **Release Date:** October 26, 2016 @ 04:27:38
+* **Release Date:** October 26, 2016 @ 05:27:38
 * **In-App Purchasing:** No

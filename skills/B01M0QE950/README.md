@@ -20,7 +20,7 @@ Ask ShopSavvy if a particular thing is on sale at a particular store.
 * **ID:** amzn1.ask.skill.a18430e3-48c1-4075-844e-18b12e1fd5fe
 * **ASIN:** B01M0QE950
 * **Author:** ShopSavvy, Inc.
-* **Release Date:** September 21, 2016 @ 12:42:22
+* **Release Date:** September 21, 2016 @ 13:42:22
 * **Privacy Policy:** http://shopsavvy.com/terms
 * **Terms of Use:** http://shopsavvy.com/terms
 * **In-App Purchasing:** No

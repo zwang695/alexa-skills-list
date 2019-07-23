@@ -20,5 +20,5 @@ Corgi Facts is a trivia skill that allows Alexa to tell you random facts about c
 * **ID:** amzn1.ask.skill.344c888a-31f6-4c76-8e7d-465ada2d4b10
 * **ASIN:** B01MT330N8
 * **Author:** Shwinn
-* **Release Date:** December 27, 2016 @ 05:48:52
+* **Release Date:** December 27, 2016 @ 06:48:52
 * **In-App Purchasing:** No

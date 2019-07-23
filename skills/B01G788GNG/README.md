@@ -20,5 +20,5 @@ Food bot gives you with the nutrient value of many common food items per 100 gra
 * **ID:** amzn1.echo-sdk-ams.app.94cacaa5-d0cc-4dcd-b141-e76c935fd370
 * **ASIN:** B01G788GNG
 * **Author:** Matej Marjanovic
-* **Release Date:** May 31, 2016 @ 07:38:41
+* **Release Date:** May 31, 2016 @ 08:38:41
 * **In-App Purchasing:** No

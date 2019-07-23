@@ -20,5 +20,5 @@ The Peek n Peak Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.a050887d-3ab4-48cb-9988-812c2b86f29e
 * **ASIN:** B01MCXS5J6
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:44:42
+* **Release Date:** October 26, 2016 @ 04:44:42
 * **In-App Purchasing:** No

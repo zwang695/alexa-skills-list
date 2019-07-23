@@ -20,5 +20,5 @@ The unofficial finest facts from Reddit, courtesy of r/todayilearned. Only the b
 * **ID:** amzn1.ask.skill.c9fece60-25b6-49ac-a252-172c331b9097
 * **ASIN:** B01NAFEDA6
 * **Author:** Arvinth Sethuraman
-* **Release Date:** December 6, 2016 @ 04:19:51
+* **Release Date:** December 6, 2016 @ 05:19:51
 * **In-App Purchasing:** No

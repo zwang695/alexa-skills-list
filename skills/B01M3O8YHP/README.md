@@ -22,5 +22,5 @@ This skill is not sponsored by or endorsed by the National Football League (NFL)
 * **ID:** amzn1.ask.skill.ede226e6-aca6-4469-a148-ff44b1eb3a0a
 * **ASIN:** B01M3O8YHP
 * **Author:** system zwei
-* **Release Date:** October 19, 2016 @ 01:44:02
+* **Release Date:** October 19, 2016 @ 02:44:02
 * **In-App Purchasing:** No

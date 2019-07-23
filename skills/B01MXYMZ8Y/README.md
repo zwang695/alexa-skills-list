@@ -20,5 +20,5 @@ Let the dinner decider app determine which dinner is right for tonight.
 * **ID:** amzn1.ask.skill.21a196f8-ba15-4445-9e9f-ffc70bb8c80f
 * **ASIN:** B01MXYMZ8Y
 * **Author:** Benasoft
-* **Release Date:** December 18, 2016 @ 06:19:15
+* **Release Date:** December 18, 2016 @ 07:19:15
 * **In-App Purchasing:** No

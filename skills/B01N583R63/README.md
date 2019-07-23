@@ -20,5 +20,5 @@ Fun facts about cannabis, Past, Present and future
 * **ID:** amzn1.ask.skill.1bcbd78f-6f2d-47fe-8259-8b78424dc9c9
 * **ASIN:** B01N583R63
 * **Author:** DDALEY Development
-* **Release Date:** November 28, 2016 @ 04:36:13
+* **Release Date:** November 28, 2016 @ 05:36:13
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Snow Day returns school cancellations, closings, and delays for public schools i
 * **ID:** amzn1.ask.skill.0cd2123b-0c9c-4431-9156-5a4e7e332413
 * **ASIN:** B01N0VEE7I
 * **Author:** matjoshea
-* **Release Date:** December 30, 2016 @ 04:19:26
+* **Release Date:** December 30, 2016 @ 05:19:26
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This app asks from one to eight questions to determine if what you are thinking 
 * **ID:** amzn1.ask.skill.eabb3f38-7cc0-4ed9-a7e5-1c9df7d58069
 * **ASIN:** B01LZED1LF
 * **Author:** 4SITE Inc
-* **Release Date:** October 10, 2016 @ 06:41:55
+* **Release Date:** October 10, 2016 @ 07:41:55
 * **In-App Purchasing:** No

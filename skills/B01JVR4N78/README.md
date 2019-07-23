@@ -21,5 +21,5 @@ To Use this skill use phrases like alexa ask Currency xchange from USD to INR or
 * **ID:** amzn1.ask.skill.1d3d148a-86b7-4019-a301-4b3d2d0bd949
 * **ASIN:** B01JVR4N78
 * **Author:** SUDHI
-* **Release Date:** August 8, 2016 @ 05:37:24
+* **Release Date:** August 8, 2016 @ 06:37:24
 * **In-App Purchasing:** No

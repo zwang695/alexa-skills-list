@@ -20,5 +20,5 @@ A demo built during the Alexa + Hackster.io bootcamp in Seattle that tells you d
 * **ID:** amzn1.echo-sdk-ams.app.42cc0cfe-8019-4c10-b4de-5f07fbd171cf
 * **ASIN:** B01H9FT3UG
 * **Author:** Anthony Ngu
-* **Release Date:** June 23, 2016 @ 06:45:36
+* **Release Date:** June 23, 2016 @ 07:45:36
 * **In-App Purchasing:** No

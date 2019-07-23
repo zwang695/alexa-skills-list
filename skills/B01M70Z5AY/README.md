@@ -20,5 +20,5 @@ The skill was built to provide Amazon Echo users with jokes that they might have
 * **ID:** amzn1.ask.skill.f1e6e697-e2a3-4965-9b99-7214b027aedc
 * **ASIN:** B01M70Z5AY
 * **Author:** Derek Afriyie
-* **Release Date:** October 27, 2016 @ 01:46:02
+* **Release Date:** October 27, 2016 @ 02:46:02
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A gentle introduction to the concepts of Alonzo Church's lambda calculus.
 * **ID:** amzn1.echo-sdk-ams.app.62cc5b99-53ec-48b4-ad23-1bc2e65610b2
 * **ASIN:** B01FZJCA6M
 * **Author:** Joe Ting
-* **Release Date:** May 24, 2016 @ 01:38:35
+* **Release Date:** May 24, 2016 @ 02:38:35
 * **In-App Purchasing:** No

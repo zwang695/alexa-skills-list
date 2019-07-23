@@ -21,5 +21,5 @@ DISCLAIMER: Beer Facts may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.7bc9496d-939b-4d1d-9447-0698c5b3051c
 * **ASIN:** B01FOSJ8PK
 * **Author:** Justin Revelstoke
-* **Release Date:** May 23, 2016 @ 05:08:37
+* **Release Date:** May 23, 2016 @ 06:08:37
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Liberty Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.136527f5-bc41-456f-8fc5-84cd28c8689d
 * **ASIN:** B01MD2DI4Z
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:15:46
+* **Release Date:** November 4, 2016 @ 09:15:46
 * **In-App Purchasing:** No

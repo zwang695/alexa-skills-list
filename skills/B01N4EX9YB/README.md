@@ -20,5 +20,5 @@ Adam knows a few things and forgets the rest. Ask Adam a question, but expect th
 * **ID:** amzn1.ask.skill.4a6480c7-956f-48cb-9c93-ee12914a5947
 * **ASIN:** B01N4EX9YB
 * **Author:** Adam Schmitz
-* **Release Date:** December 21, 2016 @ 06:49:38
+* **Release Date:** December 21, 2016 @ 07:49:38
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Having trouble creating a crock pot recipe on Don't Starve? Don't fret! Don't St
 * **ID:** amzn1.ask.skill.bc193ede-00e7-4a96-8002-dc32edc2d772
 * **ASIN:** B01MTNT2RN
 * **Author:** Kristine Nguyen
-* **Release Date:** November 21, 2016 @ 00:35:57
+* **Release Date:** November 21, 2016 @ 01:35:57
 * **In-App Purchasing:** No

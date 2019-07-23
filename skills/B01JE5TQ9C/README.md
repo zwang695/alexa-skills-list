@@ -20,5 +20,5 @@ Daily tips to walk more. Increase your step count by 2000 by following these sim
 * **ID:** amzn1.ask.skill.b5616175-8014-48af-bea3-94d10f634e30
 * **ASIN:** B01JE5TQ9C
 * **Author:** juke
-* **Release Date:** August 2, 2016 @ 08:41:40
+* **Release Date:** August 2, 2016 @ 09:41:40
 * **In-App Purchasing:** No

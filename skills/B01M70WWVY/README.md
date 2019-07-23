@@ -16,5 +16,5 @@ The skill allow you to hear one of several random interesting gardening and plan
 * **ID:** amzn1.ask.skill.58f4ccfb-515b-4496-a30d-bc868b6471a0
 * **ASIN:** B01M70WWVY
 * **Author:** Becky Andersen
-* **Release Date:** October 26, 2016 @ 01:15:22
+* **Release Date:** October 26, 2016 @ 02:15:22
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ Shares a Pokemon species description for Pokemon Go Fans and all others who are 
 * **ID:** amzn1.ask.skill.7473720e-ee14-4d3f-8db4-3b1f5e4a9bcb
 * **ASIN:** B01LWWQ1B9
 * **Author:** VJ
-* **Release Date:** October 19, 2016 @ 01:12:39
+* **Release Date:** October 19, 2016 @ 02:12:39
 * **Privacy Policy:** https://github.com/vasujain/pokedesc-howto-alexa-skill/blob/master/Privacy%20Policy.md
 * **Terms of Use:** https://github.com/vasujain/pokedesc-howto-alexa-skill/blob/master/Terms%20of%20Use.md
 * **In-App Purchasing:** No

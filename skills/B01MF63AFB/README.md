@@ -25,5 +25,5 @@ Enjoy listening to weird facts from around the world
 * **ID:** amzn1.ask.skill.827d92fc-1d30-40d6-b3b0-9c8e437c843f
 * **ASIN:** B01MF63AFB
 * **Author:** AbhiHan
-* **Release Date:** October 19, 2016 @ 01:42:50
+* **Release Date:** October 19, 2016 @ 02:42:50
 * **In-App Purchasing:** No

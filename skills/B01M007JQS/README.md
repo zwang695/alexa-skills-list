@@ -20,5 +20,5 @@ Get one of several random shark facts, just by asking Alexa for one!
 * **ID:** amzn1.ask.skill.14d98994-d222-4b93-b4d9-99746fb3dfad
 * **ASIN:** B01M007JQS
 * **Author:** Self
-* **Release Date:** October 5, 2016 @ 01:12:29
+* **Release Date:** October 5, 2016 @ 02:12:29
 * **In-App Purchasing:** No

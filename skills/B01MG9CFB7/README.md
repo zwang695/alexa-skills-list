@@ -20,5 +20,5 @@ The Bromley Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.0eeae157-03c6-4d91-90ae-6a1e5462d99e
 * **ASIN:** B01MG9CFB7
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:15:39
+* **Release Date:** November 4, 2016 @ 09:15:39
 * **In-App Purchasing:** No

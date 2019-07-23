@@ -20,5 +20,5 @@ The wizard will transform you into a totally new form after you ask him to. Over
 * **ID:** amzn1.echo-sdk-ams.app.460740ef-c86e-4f26-934b-77279f0c9594
 * **ASIN:** B018EX6O54
 * **Author:** BigManDotNet
-* **Release Date:** November 23, 2015 @ 12:46:12
+* **Release Date:** November 23, 2015 @ 13:46:12
 * **In-App Purchasing:** No

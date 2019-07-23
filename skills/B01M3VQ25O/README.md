@@ -21,5 +21,5 @@ This Alexa skills automate taking lunch orders from customers without need for a
 * **ID:** amzn1.ask.skill.47414839-76b8-4305-8cf4-9353290c68b5
 * **ASIN:** B01M3VQ25O
 * **Author:** Mohamed Hassan AbdulRahman
-* **Release Date:** November 5, 2016 @ 02:42:59
+* **Release Date:** November 5, 2016 @ 03:42:59
 * **In-App Purchasing:** No

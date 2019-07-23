@@ -20,5 +20,5 @@ Want to give the next guided tour at your local Dinosaur Museum?  Well we might 
 * **ID:** amzn1.echo-sdk-ams.app.5da63d41-e3c9-4ffd-8d33-cc069943f05c
 * **ASIN:** B01EXVZLAU
 * **Author:** KWG
-* **Release Date:** May 19, 2016 @ 04:08:31
+* **Release Date:** May 19, 2016 @ 05:08:31
 * **In-App Purchasing:** No

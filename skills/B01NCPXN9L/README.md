@@ -20,5 +20,5 @@ How much do you know about the Old Testament? Quiz yourself with these easy-leve
 * **ID:** amzn1.ask.skill.1daf9b3f-7576-4106-907a-2519826465b3
 * **ASIN:** B01NCPXN9L
 * **Author:** Sono Sanus
-* **Release Date:** December 28, 2016 @ 00:19:24
+* **Release Date:** December 28, 2016 @ 01:19:24
 * **In-App Purchasing:** No

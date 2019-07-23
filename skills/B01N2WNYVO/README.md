@@ -51,5 +51,5 @@ This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.857717b6-b0b2-475d-81cf-6e1dbb7e7974
 * **ASIN:** B01N2WNYVO
 * **Author:** Russell Lyons
-* **Release Date:** December 29, 2016 @ 00:51:13
+* **Release Date:** December 29, 2016 @ 01:51:13
 * **In-App Purchasing:** No

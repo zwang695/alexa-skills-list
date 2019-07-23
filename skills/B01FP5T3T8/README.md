@@ -20,7 +20,7 @@ Some simple trivia Questions about Pratt Institute's history.
 * **ID:** amzn1.echo-sdk-ams.app.14f8d130-df33-4575-a668-b0865c120c37
 * **ASIN:** B01FP5T3T8
 * **Author:** Ovc
-* **Release Date:** July 15, 2016 @ 05:27:39
+* **Release Date:** July 15, 2016 @ 06:27:39
 * **Privacy Policy:** https://es.pratt.edu/Alexa/privacy.html
 * **Terms of Use:** https://es.pratt.edu/Alexa/terms.html
 * **In-App Purchasing:** No

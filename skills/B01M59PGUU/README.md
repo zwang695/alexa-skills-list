@@ -22,5 +22,5 @@ This skill is not sponsored by or endorsed by Major League Baseball. Game inform
 * **ID:** amzn1.ask.skill.3b31d85a-f11e-4654-83d1-d7a04f920528
 * **ASIN:** B01M59PGUU
 * **Author:** system zwei
-* **Release Date:** October 19, 2016 @ 06:12:07
+* **Release Date:** October 19, 2016 @ 07:12:07
 * **In-App Purchasing:** No

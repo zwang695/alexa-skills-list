@@ -27,7 +27,7 @@ After enabling the skill you will be presented with a login screen. Choose your 
 * **ID:** amzn1.ask.skill.ed85125c-37e7-4656-9017-25ea7b4fe546
 * **ASIN:** B01LW6U38T
 * **Author:** digitalSTROM AG
-* **Release Date:** September 29, 2016 @ 05:42:26
+* **Release Date:** September 29, 2016 @ 06:42:26
 * **Privacy Policy:** http://www.digitalstrom.com/en/Privacy-Policy/
 * **Terms of Use:** http://www.digitalstrom.com/en/Terms-of-Use/
 * **In-App Purchasing:** No

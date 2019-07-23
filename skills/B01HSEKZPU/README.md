@@ -28,5 +28,5 @@ You answer by saying:   One
 * **ID:** amzn1.echo-sdk-ams.app.9631502c-29ca-437f-ba5d-a344f81b0274
 * **ASIN:** B01HSEKZPU
 * **Author:** Renaissance Technologies
-* **Release Date:** July 5, 2016 @ 04:57:34
+* **Release Date:** July 5, 2016 @ 05:57:34
 * **In-App Purchasing:** No

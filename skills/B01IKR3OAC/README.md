@@ -24,5 +24,5 @@ This game currently has 12 episodes. You can play them all at once or individual
 * **ID:** amzn1.echo-sdk-ams.app.3cb0c644-ccb8-4b22-9c1d-84824a808686
 * **ASIN:** B01IKR3OAC
 * **Author:** Hutch
-* **Release Date:** July 20, 2016 @ 07:57:42
+* **Release Date:** July 20, 2016 @ 08:57:42
 * **In-App Purchasing:** No

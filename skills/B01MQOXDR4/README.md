@@ -20,6 +20,6 @@ You can use this app to search for houses to buy or rent in your area. All you n
 * **ID:** amzn1.echo-sdk-ams.app.dd345034-e25f-45dd-8d39-c015a7f50870
 * **ASIN:** B01MQOXDR4
 * **Author:** Tech Valley Homes Real Estate LLC
-* **Release Date:** December 3, 2016 @ 01:05:37
+* **Release Date:** December 3, 2016 @ 02:05:37
 * **Privacy Policy:** https://voiceterpro.herokuapp.com/privacy
 * **In-App Purchasing:** No

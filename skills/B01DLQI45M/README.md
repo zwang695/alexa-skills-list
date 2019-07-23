@@ -20,5 +20,5 @@ This Alexa skill requires nothing but your brain and a few minutes of your time.
 * **ID:** amzn1.echo-sdk-ams.app.834fce13-3e45-4de3-8ebd-a3630089a723
 * **ASIN:** B01DLQI45M
 * **Author:** Gary Petro
-* **Release Date:** March 31, 2016 @ 15:32:25
+* **Release Date:** March 31, 2016 @ 16:32:25
 * **In-App Purchasing:** No

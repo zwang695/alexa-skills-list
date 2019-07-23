@@ -24,5 +24,5 @@ You'll get an insightful, often inspiring quote from icons such as Michael Jorda
 * **ID:** amzn1.echo-sdk-ams.app.6188a929-42eb-4c32-8405-25a4c82b023e
 * **ASIN:** B01AVSBJX2
 * **Author:** Sterian Associates
-* **Release Date:** January 20, 2016 @ 20:14:18
+* **Release Date:** January 20, 2016 @ 21:14:18
 * **In-App Purchasing:** No

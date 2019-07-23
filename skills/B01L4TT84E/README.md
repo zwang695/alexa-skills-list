@@ -16,5 +16,5 @@ Goes through all of the basic mechanics of juggling
 * **ID:** amzn1.ask.skill.381c9d85-2874-4313-9159-20b771191838
 * **ASIN:** B01L4TT84E
 * **Author:** Winston Wright
-* **Release Date:** September 12, 2016 @ 04:12:22
+* **Release Date:** September 12, 2016 @ 05:12:22
 * **In-App Purchasing:** No

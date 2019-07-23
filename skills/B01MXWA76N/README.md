@@ -24,5 +24,5 @@ Try to get a perfect score and ace the Materials Science Flash Card game!
 * **ID:** amzn1.ask.skill.fed32c9c-edd3-4217-94c6-56e220f68a5a
 * **ASIN:** B01MXWA76N
 * **Author:** mbdesign
-* **Release Date:** December 21, 2016 @ 01:50:22
+* **Release Date:** December 21, 2016 @ 02:50:22
 * **In-App Purchasing:** No

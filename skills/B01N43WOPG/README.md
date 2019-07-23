@@ -20,5 +20,5 @@ The Snow Valley Ontario Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.2f6e9ac8-bec8-40cb-981b-8d8f7877e6cc
 * **ASIN:** B01N43WOPG
 * **Author:** SnoCountry
-* **Release Date:** November 22, 2016 @ 08:36:18
+* **Release Date:** November 22, 2016 @ 09:36:18
 * **In-App Purchasing:** No

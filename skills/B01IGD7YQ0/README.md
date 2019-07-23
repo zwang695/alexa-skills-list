@@ -21,5 +21,5 @@ Who Wants To be the smartest guy ?
 * **ID:** amzn1.echo-sdk-ams.app.933c50c2-6648-4a7e-b10c-7c336025c6a7
 * **ASIN:** B01IGD7YQ0
 * **Author:** ramysoft
-* **Release Date:** July 29, 2016 @ 08:26:37
+* **Release Date:** July 29, 2016 @ 09:26:37
 * **In-App Purchasing:** No

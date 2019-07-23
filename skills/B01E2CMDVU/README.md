@@ -23,5 +23,5 @@ LeagueCounterisn't endorsed by Riot Games and doesn't reflect the views or opini
 * **ID:** amzn1.echo-sdk-ams.app.756974fd-f2e6-44ea-a07d-97517fbc8b50
 * **ASIN:** B01E2CMDVU
 * **Author:** MYSELF
-* **Release Date:** April 22, 2016 @ 18:38:27
+* **Release Date:** April 22, 2016 @ 19:38:27
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ The first step is enabling the skill. Then, this skill works by allowing you to 
 * **ID:** amzn1.echo-sdk-ams.app.a17bc005-a00c-422f-8858-9fed34da389f
 * **ASIN:** B019YOO6R0
 * **Author:** GeekGirl Marketing and App Development
-* **Release Date:** December 29, 2015 @ 17:43:30
+* **Release Date:** December 29, 2015 @ 18:43:30
 * **In-App Purchasing:** No

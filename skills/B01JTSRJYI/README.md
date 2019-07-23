@@ -18,5 +18,5 @@ A great skill if you want to find out more about burritos.
 * **ID:** amzn1.ask.skill.cf8e2faa-843b-4772-b115-44c2315b2afe
 * **ASIN:** B01JTSRJYI
 * **Author:** Awesome Shiz Industries
-* **Release Date:** August 26, 2016 @ 06:02:49
+* **Release Date:** August 26, 2016 @ 07:02:49
 * **In-App Purchasing:** No

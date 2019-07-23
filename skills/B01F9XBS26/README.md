@@ -63,7 +63,7 @@ This is *NOT* an official app from the Drudge Report and is not any way official
 * **ID:** amzn1.echo-sdk-ams.app.3d4b85fd-435e-4a49-a217-cbb92aef5cea
 * **ASIN:** B01F9XBS26
 * **Author:** C-T LLC.
-* **Release Date:** May 20, 2016 @ 17:38:31
+* **Release Date:** May 20, 2016 @ 18:38:31
 * **Privacy Policy:** https://github.com/Coding4Liberty/ASK-Reporter-for-The-Drudge-Report/wiki/Privacy-Policy
 * **Terms of Use:** https://github.com/Coding4Liberty/ASK-Reporter-for-The-Drudge-Report/wiki/Terms-of-Use
 * **In-App Purchasing:** No

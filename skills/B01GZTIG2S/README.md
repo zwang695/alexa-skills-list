@@ -20,5 +20,5 @@ By telling you if your number is too high or too low, you can eventually figure 
 * **ID:** amzn1.echo-sdk-ams.app.64226fcf-1e7b-4fcb-b2a8-165bafcc204f
 * **ASIN:** B01GZTIG2S
 * **Author:** hdavidzhu
-* **Release Date:** June 22, 2016 @ 06:15:52
+* **Release Date:** June 22, 2016 @ 07:15:52
 * **In-App Purchasing:** No

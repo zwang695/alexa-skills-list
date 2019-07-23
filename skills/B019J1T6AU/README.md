@@ -20,7 +20,7 @@ Get your daily horoscopes from ELLE + The Astro Twins. Dubbed "astrologists for 
 * **ID:** amzn1.echo-sdk-ams.app.34bc742c-a411-4bc3-99cd-3feb21ab783d
 * **ASIN:** B019J1T6AU
 * **Author:** Hearst
-* **Release Date:** December 18, 2015 @ 11:52:41
+* **Release Date:** December 18, 2015 @ 12:52:41
 * **Privacy Policy:** http://www.elle.com/about/privacy-policy
 * **Terms of Use:** http://www.elle.com/about/terms-of-use
 * **In-App Purchasing:** No

@@ -26,7 +26,7 @@ Use Talk Chineasy to:
 * **ID:** amzn1.ask.skill.4be0b747-0a08-4497-ab91-b4ade4b0193f
 * **ASIN:** B01N6AYBMU
 * **Author:** Chineasy
-* **Release Date:** January 1, 2017 @ 14:48:46
+* **Release Date:** January 1, 2017 @ 15:48:46
 * **Privacy Policy:** https://skill-account-linking.com/chineasy/privacy-policy
 * **Account Linking Domains:** skill-account-linking.com
 * **In-App Purchasing:** No

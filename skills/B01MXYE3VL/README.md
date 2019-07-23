@@ -20,5 +20,5 @@ Novelty snake fact skill learn things you didn't know about snakes
 * **ID:** amzn1.ask.skill.7403153b-a29a-427c-9544-96c0360eb674
 * **ASIN:** B01MXYE3VL
 * **Author:** Pebkac Services
-* **Release Date:** December 15, 2016 @ 02:19:45
+* **Release Date:** December 15, 2016 @ 03:19:45
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Snow Day Assistant uses WeatherBug's Pulse API to figure out the amount of snow 
 * **ID:** amzn1.ask.skill.da7fccb6-312c-402f-a05a-4a935d508270
 * **ASIN:** B01KGG1RD6
 * **Author:** Sharvil Parekh
-* **Release Date:** August 19, 2016 @ 02:22:27
+* **Release Date:** August 19, 2016 @ 03:22:27
 * **In-App Purchasing:** No

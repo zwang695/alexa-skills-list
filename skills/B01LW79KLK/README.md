@@ -16,5 +16,5 @@ Unofficial fan Simpsons character finder
 * **ID:** amzn1.ask.skill.67b5add8-2489-4128-95ca-9e3fc69ac60b
 * **ASIN:** B01LW79KLK
 * **Author:** MikGan
-* **Release Date:** September 15, 2016 @ 18:41:23
+* **Release Date:** September 15, 2016 @ 19:41:23
 * **In-App Purchasing:** No

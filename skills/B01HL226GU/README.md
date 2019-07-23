@@ -20,5 +20,5 @@ Enjoy an assortment of Sir Knocks A Lot's knock knock jokes! Get started asking 
 * **ID:** amzn1.echo-sdk-ams.app.48bd0e1d-7195-472a-a36c-364827570ffa
 * **ASIN:** B01HL226GU
 * **Author:** Mustang Designs
-* **Release Date:** June 30, 2016 @ 01:57:44
+* **Release Date:** June 30, 2016 @ 02:57:44
 * **In-App Purchasing:** No

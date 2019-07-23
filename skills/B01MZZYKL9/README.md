@@ -20,5 +20,5 @@ Gandhi Quotes. Get inspirational quotes from Mahatma Gandhi.
 * **ID:** amzn1.ask.skill.9845a15a-c4c2-48c4-9fbe-83ef30a08414
 * **ASIN:** B01MZZYKL9
 * **Author:** cebo
-* **Release Date:** December 1, 2016 @ 09:35:39
+* **Release Date:** December 1, 2016 @ 10:35:39
 * **In-App Purchasing:** No

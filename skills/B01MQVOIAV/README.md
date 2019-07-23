@@ -27,5 +27,5 @@ https://sites.google.com/site/homegrouphawthorne/
 * **ID:** amzn1.ask.skill.efdd1ada-9277-479f-bfcd-f59b64a7b672
 * **ASIN:** B01MQVOIAV
 * **Author:** Nicholas Williams
-* **Release Date:** December 15, 2016 @ 00:49:27
+* **Release Date:** December 15, 2016 @ 01:49:27
 * **In-App Purchasing:** No

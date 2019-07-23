@@ -20,5 +20,5 @@ How much do you know about the world's languages? These amazing facts will add t
 * **ID:** amzn1.echo-sdk-ams.app.d4f06560-82af-4a46-a45a-368598946131
 * **ASIN:** B01ED3B89G
 * **Author:** Sharmi55
-* **Release Date:** April 21, 2016 @ 19:08:29
+* **Release Date:** April 21, 2016 @ 20:08:29
 * **In-App Purchasing:** No

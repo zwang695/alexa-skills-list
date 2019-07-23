@@ -20,5 +20,5 @@ Interesting trivia about the Windy City of Chicago and the surrounding areas, co
 * **ID:** amzn1.ask.skill.e68b4202-2d29-42d3-855d-7e70f6167b26
 * **ASIN:** B01N6M7OUA
 * **Author:** UpDryTwist
-* **Release Date:** January 2, 2017 @ 03:19:20
+* **Release Date:** January 2, 2017 @ 04:19:20
 * **In-App Purchasing:** No

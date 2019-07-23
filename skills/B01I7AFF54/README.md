@@ -20,5 +20,5 @@ Give lots of facts about stuff
 * **ID:** amzn1.echo-sdk-ams.app.e650e936-cb2e-4e9c-b35e-53294d2f0639
 * **ASIN:** B01I7AFF54
 * **Author:** Lee Johnson
-* **Release Date:** July 12, 2016 @ 08:27:41
+* **Release Date:** July 12, 2016 @ 09:27:41
 * **In-App Purchasing:** No

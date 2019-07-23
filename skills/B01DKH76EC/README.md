@@ -20,7 +20,7 @@ Take Pilates classes with Alexa. All you need to get started is a Pilates mat an
 * **ID:** amzn1.echo-sdk-ams.app.ef7b5d42-f176-4806-9ea3-6ef6d041c2aa
 * **ASIN:** B01DKH76EC
 * **Author:** A Lot Of Pilates
-* **Release Date:** April 5, 2016 @ 06:02:28
+* **Release Date:** April 5, 2016 @ 07:02:28
 * **Privacy Policy:** https://www.alotofpilates.com/terms
 * **Account Linking Domains:** www.alotofpilates.com, alop.herokuapp.com
 * **In-App Purchasing:** No

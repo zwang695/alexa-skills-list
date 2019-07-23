@@ -69,7 +69,7 @@ ZONES:
 * **ID:** amzn1.echo-sdk-ams.app.746d3120-de6b-47ca-a132-746f5b57e609
 * **ASIN:** B01ATZM6N4
 * **Author:** Philosophical Creations
-* **Release Date:** January 19, 2016 @ 17:27:34
+* **Release Date:** January 19, 2016 @ 18:27:34
 * **Privacy Policy:** http://sarkonovich-2.elasticbeanstalk.com/privacy
 * **Terms of Use:** http://sarkonovich-2.elasticbeanstalk.com/terms-of-service
 * **In-App Purchasing:** No

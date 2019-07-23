@@ -28,5 +28,5 @@ Or you can have Alexa walk you through getting your information by saying:
 * **ID:** amzn1.ask.skill.524dcf48-8c3b-41dd-bb60-5c6df0b0d276
 * **ASIN:** B01M31P60O
 * **Author:** 1320 Technologies
-* **Release Date:** October 29, 2016 @ 10:42:34
+* **Release Date:** October 29, 2016 @ 11:42:34
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ A short fan made quiz of 5 questions from a catalog of 40 examining the star war
 * **ID:** amzn1.ask.skill.9ca0e958-5230-4343-9d11-6e53b8d8fc78
 * **ASIN:** B01N78R260
 * **Author:** Tapcom Ltd.
-* **Release Date:** November 25, 2016 @ 06:35:26
+* **Release Date:** November 25, 2016 @ 07:35:26
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ This trivia is designed for single player, share this with your friend and see w
 * **ID:** amzn1.echo-sdk-ams.app.74354e38-0298-4634-8d58-f01d92b033f2
 * **ASIN:** B01EIWXRXM
 * **Author:** Supernova
-* **Release Date:** April 28, 2016 @ 18:38:37
+* **Release Date:** April 28, 2016 @ 19:38:37
 * **In-App Purchasing:** No

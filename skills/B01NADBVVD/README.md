@@ -20,5 +20,5 @@ I used a template to create this skill. You can ask Alexa to help you decide wha
 * **ID:** amzn1.ask.skill.e8c8ca96-a636-440a-a765-b305a385b2ce
 * **ASIN:** B01NADBVVD
 * **Author:** Danny
-* **Release Date:** December 8, 2016 @ 01:19:34
+* **Release Date:** December 8, 2016 @ 02:19:34
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ What  better  to share a  joke through voice,  even thought  lots  of  jokes are
 * **ID:** amzn1.ask.skill.57e1e386-ace9-4be2-aa0b-adefd0b1c427
 * **ASIN:** B01JD3WM78
 * **Author:** DCOM
-* **Release Date:** August 3, 2016 @ 08:41:28
+* **Release Date:** August 3, 2016 @ 09:41:28
 * **In-App Purchasing:** No

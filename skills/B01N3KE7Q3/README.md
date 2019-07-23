@@ -20,5 +20,5 @@ Do you love kittens, cats, and adorable pets? The Amazon Echo can now "meow" lik
 * **ID:** amzn1.ask.skill.b90c9ac9-58c5-4323-81e2-0231ad494be6
 * **ASIN:** B01N3KE7Q3
 * **Author:** Bryan Stump
-* **Release Date:** November 20, 2016 @ 23:07:36
+* **Release Date:** November 21, 2016 @ 00:07:36
 * **In-App Purchasing:** No

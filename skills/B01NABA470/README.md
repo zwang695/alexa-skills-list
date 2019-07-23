@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.c3d00531-af3d-4640-a121-3ae9ed210767
 * **ASIN:** B01NABA470
 * **Author:** Ingo Larch
-* **Release Date:** November 28, 2016 @ 04:36:06
+* **Release Date:** November 28, 2016 @ 05:36:06
 * **In-App Purchasing:** No

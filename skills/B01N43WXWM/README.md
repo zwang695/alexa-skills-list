@@ -20,5 +20,5 @@ The Big Snow Resort Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.b404684c-06e6-4f4a-8f4b-dc3e49009576
 * **ASIN:** B01N43WXWM
 * **Author:** SnoCountry
-* **Release Date:** November 22, 2016 @ 08:36:22
+* **Release Date:** November 22, 2016 @ 09:36:22
 * **In-App Purchasing:** No

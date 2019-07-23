@@ -20,5 +20,5 @@ Test your knowledge of the men's college basketball tournament!  Think you are s
 * **ID:** amzn1.echo-sdk-ams.app.a2fd6694-5fb0-4258-8a22-c27333614aad
 * **ASIN:** B01CYEOI0C
 * **Author:** GYoungApps
-* **Release Date:** March 14, 2016 @ 06:55:15
+* **Release Date:** March 14, 2016 @ 07:55:15
 * **In-App Purchasing:** No

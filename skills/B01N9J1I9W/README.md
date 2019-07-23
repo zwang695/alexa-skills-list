@@ -28,5 +28,5 @@ So, let's try to remember, and play memory flow.
 * **ID:** amzn1.ask.skill.3338b127-1551-493b-b061-b46a96305f8c
 * **ASIN:** B01N9J1I9W
 * **Author:** Wobble Mouth
-* **Release Date:** December 20, 2016 @ 04:49:14
+* **Release Date:** December 20, 2016 @ 05:49:14
 * **In-App Purchasing:** No

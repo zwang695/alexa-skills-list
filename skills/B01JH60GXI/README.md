@@ -20,5 +20,5 @@ Gives a random fun fact.
 * **ID:** amzn1.ask.skill.349681d1-8cca-45d3-a4d9-287605e388d8
 * **ASIN:** B01JH60GXI
 * **Author:** AjitBonam
-* **Release Date:** August 5, 2016 @ 03:07:29
+* **Release Date:** August 5, 2016 @ 04:07:29
 * **In-App Purchasing:** No

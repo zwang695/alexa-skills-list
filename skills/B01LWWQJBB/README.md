@@ -16,5 +16,5 @@ Not sure what movie to watch? Ask Alexa to give you a recommendation to an inter
 * **ID:** amzn1.ask.skill.5097a311-9e07-43ce-9915-2157185acb86
 * **ASIN:** B01LWWQJBB
 * **Author:** diazelena
-* **Release Date:** September 22, 2016 @ 02:12:16
+* **Release Date:** September 22, 2016 @ 03:12:16
 * **In-App Purchasing:** No

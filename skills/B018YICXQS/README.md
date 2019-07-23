@@ -22,7 +22,7 @@ Once you’re all set up and have your remotes added in the Smart IR Remote - An
 * **ID:** amzn1.echo-sdk-ams.app.8490411f-89ee-4b91-bedc-44cf18e343ec
 * **ASIN:** B018YICXQS
 * **Author:** AB Mobile
-* **Release Date:** December 4, 2015 @ 16:32:23
+* **Release Date:** December 4, 2015 @ 17:32:23
 * **Privacy Policy:** http://colortiger.com/remote/terms/
 * **Terms of Use:** http://colortiger.com/remote/terms/
 * **In-App Purchasing:** No

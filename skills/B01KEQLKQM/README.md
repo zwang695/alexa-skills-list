@@ -16,5 +16,5 @@ This recipe is for one Zoku ice cream maker bowl.  The recipe uses a vanilla ice
 * **ID:** amzn1.ask.skill.64ed7b94-4e6a-4391-ab88-872d01a51702
 * **ASIN:** B01KEQLKQM
 * **Author:** Debra Monesmith
-* **Release Date:** August 22, 2016 @ 04:37:39
+* **Release Date:** August 22, 2016 @ 05:37:39
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ To use this skill, simply start the skill by saying, "Alexa, start Matrix Calcul
 * **ID:** amzn1.echo-sdk-ams.app.3c3bc28a-0e77-4a28-8dbc-a7e3f0c2f7fb
 * **ASIN:** B01DQ382TI
 * **Author:** Alex Worland Inc.
-* **Release Date:** April 18, 2016 @ 07:03:43
+* **Release Date:** April 18, 2016 @ 08:03:43
 * **In-App Purchasing:** No

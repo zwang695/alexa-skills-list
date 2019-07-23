@@ -20,5 +20,5 @@ The Camden Snow Bowl Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.7306dec2-e25c-4b82-a503-37dda0bccbce
 * **ASIN:** B01MCVYXTY
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:16:10
+* **Release Date:** October 21, 2016 @ 16:16:10
 * **In-App Purchasing:** No

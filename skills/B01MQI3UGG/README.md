@@ -22,5 +22,5 @@ MR. ROBOT is a trademark of NBCUniversal Media, LLC. This skill is not endorsed 
 * **ID:** amzn1.ask.skill.ad0d3f09-a9cf-4cf4-8ee0-0f2d06f0edd3
 * **ASIN:** B01MQI3UGG
 * **Author:** Saatvik Arya
-* **Release Date:** November 21, 2016 @ 02:05:28
+* **Release Date:** November 21, 2016 @ 03:05:28
 * **In-App Purchasing:** No

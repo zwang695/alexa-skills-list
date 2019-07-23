@@ -20,7 +20,7 @@ Revon patients can check in with Alexa to see if they need to use the web or mob
 * **ID:** amzn1.ask.skill.4b5d1af3-a5fd-4e0b-8780-14cb29722af3
 * **ASIN:** B01LZNZBFK
 * **Author:** Revon Systems, Inc.
-* **Release Date:** November 5, 2016 @ 01:42:42
+* **Release Date:** November 5, 2016 @ 02:42:42
 * **Privacy Policy:** http://revonsystems.com/privacy.html
 * **Terms of Use:** http://revonsystems.com/tos.html
 * **In-App Purchasing:** No

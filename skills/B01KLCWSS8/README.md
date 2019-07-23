@@ -16,5 +16,5 @@ You can ask Alexa for a great variety of random facts/jokes about the legendary 
 * **ID:** amzn1.ask.skill.5ab2abd9-5dc2-4f77-a732-1e05e1171f43
 * **ASIN:** B01KLCWSS8
 * **Author:** George Miranda
-* **Release Date:** August 22, 2016 @ 01:37:56
+* **Release Date:** August 22, 2016 @ 02:37:56
 * **In-App Purchasing:** No

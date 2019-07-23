@@ -20,5 +20,5 @@ This skill plays sankrit short mantras. At this point, it only plays mp3 files
 * **ID:** amzn1.echo-sdk-ams.app.23de4811-b638-4071-96c8-bae3cd11ff5e
 * **ASIN:** B01H9O9096
 * **Author:** Ganesh
-* **Release Date:** June 27, 2016 @ 04:45:31
+* **Release Date:** June 27, 2016 @ 05:45:31
 * **In-App Purchasing:** No

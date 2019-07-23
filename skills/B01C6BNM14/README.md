@@ -23,5 +23,5 @@ Icon made by Freepik from http://www.flaticon.com.  Flaticon is licensed under C
 * **ID:** amzn1.echo-sdk-ams.app.3118e68b-b233-4d0a-982c-bb18b2d018b6
 * **ASIN:** B01C6BNM14
 * **Author:** Rutavega LLC
-* **Release Date:** February 24, 2016 @ 15:31:47
+* **Release Date:** February 24, 2016 @ 16:31:47
 * **In-App Purchasing:** No

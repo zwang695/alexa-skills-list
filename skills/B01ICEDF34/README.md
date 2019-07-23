@@ -20,5 +20,5 @@ Nautical Terms quiz tests your knowledge of nautical terms by giving you a nauti
 * **ID:** amzn1.echo-sdk-ams.app.bbef7200-54a5-43da-9ad6-5c5fabb99f2f
 * **ASIN:** B01ICEDF34
 * **Author:** Curt Downing
-* **Release Date:** July 22, 2016 @ 06:57:22
+* **Release Date:** July 22, 2016 @ 07:57:22
 * **In-App Purchasing:** No

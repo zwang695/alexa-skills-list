@@ -20,5 +20,5 @@ Ask Alexa for facts about Bob Dylan and she will give you a fact.
 * **ID:** amzn1.echo-sdk-ams.app.6861fb18-a998-4cf5-b834-598ac6b1ece2
 * **ASIN:** B01IRZCIZO
 * **Author:** Madison Russo
-* **Release Date:** July 22, 2016 @ 06:57:13
+* **Release Date:** July 22, 2016 @ 07:57:13
 * **In-App Purchasing:** No

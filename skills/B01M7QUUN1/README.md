@@ -21,7 +21,7 @@ data.cityofnewyork.us please confirm, with official departments, for any informa
 * **ID:** amzn1.ask.skill.41b19db3-6b9d-413d-9fc2-db69c75fedd4
 * **ASIN:** B01M7QUUN1
 * **Author:** Digital Spring Apps
-* **Release Date:** October 25, 2016 @ 01:46:45
+* **Release Date:** October 25, 2016 @ 02:46:45
 * **Privacy Policy:** http://www.digitalspring.com/apps/mtprivacy
 * **Terms of Use:** http://www.digitalspring.com/apps/mtprivacy
 * **In-App Purchasing:** No

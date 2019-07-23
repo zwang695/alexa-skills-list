@@ -18,5 +18,5 @@ The Shower Thoughts Alexa Skill reads posts from the Reddit subreddit Shower Tho
 * **ID:** amzn1.ask.skill.32b0a43c-1007-4f30-bf1e-9e0cd44d8306
 * **ASIN:** B01MY28NBF
 * **Author:** Varun Shenoy
-* **Release Date:** December 30, 2016 @ 05:19:14
+* **Release Date:** December 30, 2016 @ 06:19:14
 * **In-App Purchasing:** No

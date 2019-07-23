@@ -20,5 +20,5 @@ Cat Facts
 * **ID:** amzn1.ask.skill.672d31b0-bceb-42f1-a2e9-760cab3e07a0
 * **ASIN:** B01K8HUCJI
 * **Author:** ChesEnt
-* **Release Date:** August 13, 2016 @ 00:37:35
+* **Release Date:** August 13, 2016 @ 01:37:35
 * **In-App Purchasing:** No

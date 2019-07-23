@@ -16,5 +16,5 @@ This skill will quiz users on various facts of main stream martial arts. The goa
 * **ID:** amzn1.echo-sdk-ams.app.14518985-6678-4fd3-8b8c-195b96482428
 * **ASIN:** B01DMZUFQS
 * **Author:** MGM Games
-* **Release Date:** March 31, 2016 @ 18:32:24
+* **Release Date:** March 31, 2016 @ 19:32:24
 * **In-App Purchasing:** No

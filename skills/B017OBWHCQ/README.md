@@ -22,7 +22,7 @@ Planning dinner has never been easier. Just ask Alexa to open Campbell’s Kitch
 * **ID:** amzn1.echo-sdk-ams.app.dc23fc93-d0bd-4a84-8d45-6d738048b296
 * **ASIN:** B017OBWHCQ
 * **Author:** Campbell's Kitchen
-* **Release Date:** December 1, 2015 @ 21:07:47
+* **Release Date:** December 1, 2015 @ 22:07:47
 * **Privacy Policy:** http://www.campbellsoupcompany.com/privacy-policy/
 * **Terms of Use:** http://www.campbellsoupcompany.com/terms-of-use/
 * **Account Linking Domains:** account.askcampbellskitchen.com, www.campbellsoupcompany.com

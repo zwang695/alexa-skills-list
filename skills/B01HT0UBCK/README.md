@@ -24,5 +24,5 @@ You can switch projects ("Alexa, tell Stitch Counter to switch to project scarf"
 * **ID:** amzn1.echo-sdk-ams.app.351cb2eb-a6b4-4716-9976-291e2e735aac
 * **ASIN:** B01HT0UBCK
 * **Author:** Peter Hesse
-* **Release Date:** July 5, 2016 @ 05:57:39
+* **Release Date:** July 5, 2016 @ 06:57:39
 * **In-App Purchasing:** No

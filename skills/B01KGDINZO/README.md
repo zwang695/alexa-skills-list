@@ -22,5 +22,5 @@ This is great for anyone who wants to learn more about Viet Nam or anyone that i
 * **ID:** amzn1.ask.skill.a5ac1237-9974-44a5-b824-b39a7e92fd56
 * **ASIN:** B01KGDINZO
 * **Author:** MasterBo
-* **Release Date:** August 16, 2016 @ 07:26:23
+* **Release Date:** August 16, 2016 @ 08:26:23
 * **In-App Purchasing:** No

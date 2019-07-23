@@ -20,5 +20,5 @@ Vacation Picker is an interactive travel destination picker. Answer a few simple
 * **ID:** amzn1.ask.skill.34762fcb-b21e-4ba5-beb8-17b6164fc8e6
 * **ASIN:** B01LXK2XH0
 * **Author:** Ethan Saadia
-* **Release Date:** September 21, 2016 @ 02:13:21
+* **Release Date:** September 21, 2016 @ 03:13:21
 * **In-App Purchasing:** No

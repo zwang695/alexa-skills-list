@@ -18,5 +18,5 @@ Here are some facts about Ryan.
 * **ID:** amzn1.ask.skill.831be85b-1a5e-4e3a-a332-71911b2653ff
 * **ASIN:** B01N0RO128
 * **Author:** theduds
-* **Release Date:** December 17, 2016 @ 04:49:25
+* **Release Date:** December 17, 2016 @ 05:49:25
 * **In-App Purchasing:** No

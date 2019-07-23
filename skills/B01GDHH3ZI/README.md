@@ -20,5 +20,5 @@ The skills provides users with un-paralleled inspiration and insights, directly 
 * **ID:** amzn1.echo-sdk-ams.app.f6d980c4-e4f0-496a-87ab-356df798b658
 * **ASIN:** B01GDHH3ZI
 * **Author:** Corey
-* **Release Date:** July 15, 2016 @ 06:27:26
+* **Release Date:** July 15, 2016 @ 07:27:26
 * **In-App Purchasing:** No

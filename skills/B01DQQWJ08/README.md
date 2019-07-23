@@ -20,5 +20,5 @@ Many People Do not know what is I.O.T , this app gives quick facts about I.O.T b
 * **ID:** amzn1.echo-sdk-ams.app.02d83897-d7a3-4799-837d-45c59d50a1af
 * **ASIN:** B01DQQWJ08
 * **Author:** Greenmind software solutions
-* **Release Date:** April 21, 2016 @ 11:38:32
+* **Release Date:** April 21, 2016 @ 12:38:32
 * **In-App Purchasing:** No

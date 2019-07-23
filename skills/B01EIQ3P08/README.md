@@ -12,7 +12,7 @@ Through Alexa, you can now control your ecobee thermostat using your voice. All 
 * **ID:** amzn1.ask.skill.5c94a669-85c5-4438-ad40-4737260703e5
 * **ASIN:** B01EIQ3P08
 * **Author:** ecobee Inc
-* **Release Date:** April 19, 2016 @ 17:10:43
+* **Release Date:** April 19, 2016 @ 18:10:43
 * **Privacy Policy:** https://www.ecobee.com/legal/use/
 * **Terms of Use:** https://www.ecobee.com/legal/use/
 * **Account Linking Domains:** www.ecobee.com, www.myhome.carrier.com, www.myhome.bryant.com

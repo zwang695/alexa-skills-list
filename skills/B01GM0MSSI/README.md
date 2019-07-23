@@ -20,5 +20,5 @@ more than you wanted to know about cats
 * **ID:** amzn1.echo-sdk-ams.app.05305e73-9299-4f3d-95ad-c1c55daeb5a6
 * **ASIN:** B01GM0MSSI
 * **Author:** laird
-* **Release Date:** June 6, 2016 @ 07:08:31
+* **Release Date:** June 6, 2016 @ 08:08:31
 * **In-App Purchasing:** No

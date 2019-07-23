@@ -20,5 +20,5 @@ This skill will ask user 5 questions on the basic knowledge regarding the storie
 * **ID:** amzn1.ask.skill.d67bc693-fbd3-416d-9c98-5bb09bfd0a3d
 * **ASIN:** B01KMOJ3UG
 * **Author:** Huayi
-* **Release Date:** August 25, 2016 @ 06:31:12
+* **Release Date:** August 25, 2016 @ 07:31:12
 * **In-App Purchasing:** No

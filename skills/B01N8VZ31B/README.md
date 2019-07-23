@@ -20,5 +20,5 @@ Are you interested in puns? Rely on Pun Fun for hundreds of common and peculiar 
 * **ID:** amzn1.ask.skill.db2e745e-823f-4964-a90b-5596828319ab
 * **ASIN:** B01N8VZ31B
 * **Author:** Appbly.com
-* **Release Date:** November 21, 2016 @ 01:35:52
+* **Release Date:** November 21, 2016 @ 02:35:52
 * **In-App Purchasing:** No

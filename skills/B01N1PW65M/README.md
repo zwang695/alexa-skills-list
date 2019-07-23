@@ -20,5 +20,5 @@ The Simpson's Quote Finder will take any quote you can kind-of/sort-of remember 
 * **ID:** amzn1.ask.skill.7922ad4d-fc06-4836-b600-575368e76727
 * **ASIN:** B01N1PW65M
 * **Author:** Jason Anton
-* **Release Date:** December 10, 2016 @ 06:49:30
+* **Release Date:** December 10, 2016 @ 07:49:30
 * **In-App Purchasing:** No

@@ -25,5 +25,5 @@ Useful for when you want to figure out if you can fly your drone, fly your kite,
 * **ID:** amzn1.echo-sdk-ams.app.dd6be300-d523-463b-aa10-ed62372ccc60
 * **ASIN:** B01E9EK3QS
 * **Author:** Anthony Ngu
-* **Release Date:** April 21, 2016 @ 16:38:29
+* **Release Date:** April 21, 2016 @ 17:38:29
 * **In-App Purchasing:** No

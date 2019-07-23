@@ -20,5 +20,5 @@ The Eldora Resort Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.b406dc9c-7f33-41e5-9fc3-a9e9f003fa3a
 * **ASIN:** B01LZ23L48
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:12:28
+* **Release Date:** October 19, 2016 @ 12:12:28
 * **In-App Purchasing:** No

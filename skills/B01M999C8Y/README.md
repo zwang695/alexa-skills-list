@@ -20,6 +20,6 @@ Enjoy it!
 * **ID:** amzn1.ask.skill.163d0180-b370-4dd4-9daa-76890e31d0d1
 * **ASIN:** B01M999C8Y
 * **Author:** 橙朴(上海)智能科技有限公司
-* **Release Date:** December 2, 2016 @ 15:35:03
+* **Release Date:** December 2, 2016 @ 16:35:03
 * **Privacy Policy:** https://coolcloud.chengputech.com/api/page/privacy_policy
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask Alexa to tell you a few facts about Riyadh, Saudi Arabia.
 * **ID:** amzn1.ask.skill.c7148a7e-e558-4658-93e9-03ae21a1249d
 * **ASIN:** B01KPCEIK0
 * **Author:** Omar Alhadlaq
-* **Release Date:** September 10, 2016 @ 06:12:27
+* **Release Date:** September 10, 2016 @ 07:12:27
 * **In-App Purchasing:** No

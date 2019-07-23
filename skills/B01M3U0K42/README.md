@@ -20,5 +20,5 @@ The Cataloochee Ski Area Snow Report brought to you by SnoCountry brings you the
 * **ID:** amzn1.ask.skill.4aa44f99-f36d-4db3-8d94-6c533c49c6f8
 * **ASIN:** B01M3U0K42
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:15:29
+* **Release Date:** October 26, 2016 @ 02:15:29
 * **In-App Purchasing:** No

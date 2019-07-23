@@ -20,5 +20,5 @@ This skill chooses a random fact from a list of fun opera facts. If you'd like t
 * **ID:** amzn1.ask.skill.d750334c-7fb7-4443-8356-9da24487e28e
 * **ASIN:** B01LWT6VPI
 * **Author:** Metta Crouse
-* **Release Date:** October 13, 2016 @ 01:47:29
+* **Release Date:** October 13, 2016 @ 02:47:29
 * **In-App Purchasing:** No

@@ -28,6 +28,6 @@ Note: Alexa and Amazon, Inc. do not store or retain your FitBark data, but voice
 * **ID:** amzn1.ask.skill.50a37bb7-6b6c-4a7a-8bbe-d38ddb9d43ef
 * **ASIN:** B01MXX19JL
 * **Author:** Mario Harper
-* **Release Date:** December 17, 2016 @ 05:19:07
+* **Release Date:** December 17, 2016 @ 06:19:07
 * **Privacy Policy:** http://www.marioharper.me/projects/dog-whisperer/privacy-policy/
 * **In-App Purchasing:** No

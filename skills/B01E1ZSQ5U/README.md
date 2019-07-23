@@ -20,7 +20,7 @@ Use Meal Idea to hear meal ideas that use basic, every day ingredients that you 
 * **ID:** amzn1.echo-sdk-ams.app.42fd3d15-9c6b-4d80-98ae-6622ab5481f9
 * **ASIN:** B01E1ZSQ5U
 * **Author:** Tocar Media
-* **Release Date:** April 14, 2016 @ 06:32:47
+* **Release Date:** April 14, 2016 @ 07:32:47
 * **Privacy Policy:** https://tocarmedia.squarespace.com/mealidea
 * **Terms of Use:** https://tocarmedia.squarespace.com/mealidea
 * **In-App Purchasing:** No

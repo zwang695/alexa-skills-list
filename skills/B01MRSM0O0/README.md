@@ -23,5 +23,5 @@ This skill is not endorsed by Nintendo or the Pokemon Company.
 * **ID:** amzn1.ask.skill.7a9fb377-f3e7-43ea-b0ab-a5c3041b8803
 * **ASIN:** B01MRSM0O0
 * **Author:** Eduardo Urso
-* **Release Date:** December 11, 2016 @ 03:49:24
+* **Release Date:** December 11, 2016 @ 04:49:24
 * **In-App Purchasing:** No

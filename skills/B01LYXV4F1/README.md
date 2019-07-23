@@ -20,5 +20,5 @@ This skill will give you the randomest of random facts.
 * **ID:** amzn1.ask.skill.911a677f-6f8b-49a5-822d-57cb5a95bcbe
 * **ASIN:** B01LYXV4F1
 * **Author:** Spraypaint
-* **Release Date:** October 6, 2016 @ 08:41:43
+* **Release Date:** October 6, 2016 @ 09:41:43
 * **In-App Purchasing:** No

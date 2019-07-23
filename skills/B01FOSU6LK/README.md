@@ -30,5 +30,5 @@ Ask Alexa about the developer by saying:
 * **ID:** amzn1.echo-sdk-ams.app.fcf7b546-1970-44ec-aab1-a32bcd94db7f
 * **ASIN:** B01FOSU6LK
 * **Author:** Sterian Associates
-* **Release Date:** June 27, 2016 @ 08:45:45
+* **Release Date:** June 27, 2016 @ 09:45:45
 * **In-App Purchasing:** No

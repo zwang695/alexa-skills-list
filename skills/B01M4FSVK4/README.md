@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.20e41fcd-3ed2-45ae-abc8-22778a1d6e1a
 * **ASIN:** B01M4FSVK4
 * **Author:** Jesús Espejo
-* **Release Date:** October 16, 2016 @ 06:47:52
+* **Release Date:** October 16, 2016 @ 07:47:52
 * **In-App Purchasing:** No

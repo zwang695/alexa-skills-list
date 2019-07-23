@@ -20,5 +20,5 @@ Facts about Max(Maksym) Gladysh.
 * **ID:** amzn1.ask.skill.d8b4a25d-3987-4871-a509-0c3bcf58358e
 * **ASIN:** B01NBJCC57
 * **Author:** Max Gladysh
-* **Release Date:** December 15, 2016 @ 03:19:44
+* **Release Date:** December 15, 2016 @ 04:19:44
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ you can play this game to learn the last names of people that you will interact 
 * **ID:** amzn1.ask.skill.b2ce6693-0031-4e9b-81ec-765ecece39a4
 * **ASIN:** B01IWOW4DQ
 * **Author:** RCPTFit
-* **Release Date:** August 3, 2016 @ 02:41:40
+* **Release Date:** August 3, 2016 @ 03:41:40
 * **In-App Purchasing:** No

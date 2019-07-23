@@ -39,7 +39,7 @@ For today’s games, say: “Alexa, ask Fantasy Scoreboard who is playing today�
 * **ID:** amzn1.echo-sdk-ams.app.1c56616c-2094-4d6c-a928-50a10c7e12f9
 * **ASIN:** B01DJKY2ZG
 * **Author:** Macadamian
-* **Release Date:** April 13, 2016 @ 09:02:51
+* **Release Date:** April 13, 2016 @ 10:02:51
 * **Privacy Policy:** http://www.macadamian.com/privacy-policy/
 * **Terms of Use:** http://www.macadamian.com/terms-use/
 * **In-App Purchasing:** No

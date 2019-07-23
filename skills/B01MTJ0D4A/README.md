@@ -20,5 +20,5 @@ The Christie Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.ace68e75-88f8-424b-b949-47364983aa6a
 * **ASIN:** B01MTJ0D4A
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:43:03
+* **Release Date:** November 5, 2016 @ 11:43:03
 * **In-App Purchasing:** No

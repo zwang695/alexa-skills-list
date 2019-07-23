@@ -23,5 +23,5 @@ Inspired by http://khaledbot.com/ and http://www.theydontwantyouto.win/. Major k
 * **ID:** amzn1.echo-sdk-ams.app.fd65d996-5ef9-41b6-96cd-33b9509071ed
 * **ASIN:** B01GKB9X6O
 * **Author:** Jesse Friedman
-* **Release Date:** June 17, 2016 @ 02:45:40
+* **Release Date:** June 17, 2016 @ 03:45:40
 * **In-App Purchasing:** No

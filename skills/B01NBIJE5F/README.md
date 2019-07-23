@@ -20,5 +20,5 @@ This is an unofficial facts skill about Chuck Norris. It is NOT sponsored or end
 * **ID:** amzn1.ask.skill.4dd4bd68-da91-40e7-a34c-7715a848d181
 * **ASIN:** B01NBIJE5F
 * **Author:** Attic-Studio
-* **Release Date:** December 16, 2016 @ 06:49:46
+* **Release Date:** December 16, 2016 @ 07:49:46
 * **In-App Purchasing:** No

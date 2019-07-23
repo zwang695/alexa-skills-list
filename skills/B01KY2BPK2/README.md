@@ -20,5 +20,5 @@ Doctor Types Flash Cards quizzes user on physician specialties such as a dentist
 * **ID:** amzn1.ask.skill.610a1e25-8a8c-4304-b052-45f959662204
 * **ASIN:** B01KY2BPK2
 * **Author:** WorkSmart Database Masters, LLC
-* **Release Date:** September 5, 2016 @ 02:33:23
+* **Release Date:** September 5, 2016 @ 03:33:23
 * **In-App Purchasing:** No

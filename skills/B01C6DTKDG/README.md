@@ -24,6 +24,6 @@ Be sure to take try the quiz often as new questions will be added routinely!
 * **ID:** amzn1.echo-sdk-ams.app.cb15f4ac-28e6-46da-bd92-a20dfee6e441
 * **ASIN:** B01C6DTKDG
 * **Author:** Tony Moreira
-* **Release Date:** February 24, 2016 @ 16:31:32
+* **Release Date:** February 24, 2016 @ 17:31:32
 * **Terms of Use:** http://tonymoreira.com/amazon-echo-project-quiz
 * **In-App Purchasing:** No

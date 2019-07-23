@@ -20,5 +20,5 @@ This skill tells you about a random Northern Ireland Invention. I hope you find 
 * **ID:** amzn1.ask.skill.edc79b66-436c-4f93-8132-b42df8ae2fb2
 * **ASIN:** B01M3RPKCI
 * **Author:** IrishClanger
-* **Release Date:** October 21, 2016 @ 02:12:38
+* **Release Date:** October 21, 2016 @ 03:12:38
 * **In-App Purchasing:** No

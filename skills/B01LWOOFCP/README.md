@@ -20,5 +20,5 @@ The Fairmont Hot Springs Snow Report brought to you by SnoCountry brings you the
 * **ID:** amzn1.ask.skill.ad979102-3189-4bc1-9f1f-8f54a37a5d75
 * **ASIN:** B01LWOOFCP
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:55:47
+* **Release Date:** October 20, 2016 @ 03:55:47
 * **In-App Purchasing:** No

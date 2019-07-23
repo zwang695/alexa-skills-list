@@ -41,5 +41,5 @@ This Alexa skill will recite 20 of the most common catholic prayers. Learn new p
 * **ID:** amzn1.echo-sdk-ams.app.a25c8d3a-12db-42cf-aa7b-ca5932dd695b
 * **ASIN:** B01GT4JYWA
 * **Author:** LC
-* **Release Date:** June 21, 2016 @ 09:45:37
+* **Release Date:** June 21, 2016 @ 10:45:37
 * **In-App Purchasing:** No

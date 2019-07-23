@@ -20,5 +20,5 @@ List stocks that hit fifty two week low on AMEX, NASDAQ, NYSE, lists the ticker 
 * **ID:** amzn1.ask.skill.cc79d141-0712-4421-b43e-f1bc688f0fd0
 * **ASIN:** B01JXEA99A
 * **Author:** shuyuan
-* **Release Date:** August 12, 2016 @ 06:07:25
+* **Release Date:** August 12, 2016 @ 07:07:25
 * **In-App Purchasing:** No

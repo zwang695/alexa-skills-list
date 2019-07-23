@@ -22,7 +22,7 @@ Disclaimer: This skill does not provide medical advice, and is for informational
 * **ID:** amzn1.ask.skill.8cd277ee-30de-4a98-a972-2bef8b3c7ddf
 * **ASIN:** B01LNCR3RQ
 * **Author:** cebo
-* **Release Date:** October 19, 2016 @ 01:44:39
+* **Release Date:** October 19, 2016 @ 02:44:39
 * **Privacy Policy:** https://s3.amazonaws.com/cebos.com/policy/privacy.html
 * **Terms of Use:** https://s3.amazonaws.com/cebos.com/policy/termsofuse.html
 * **In-App Purchasing:** No

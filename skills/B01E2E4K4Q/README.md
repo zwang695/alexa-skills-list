@@ -22,6 +22,6 @@ Just install the skill onto your Echo and say one of the example phrases to get 
 * **ID:** amzn1.echo-sdk-ams.app.4ce396d2-69b7-40d7-b029-2b1be747042e
 * **ASIN:** B01E2E4K4Q
 * **Author:** sh0rtfuse
-* **Release Date:** April 21, 2016 @ 16:08:29
+* **Release Date:** April 21, 2016 @ 17:08:29
 * **Terms of Use:** http://choosealicense.com/licenses/mit/
 * **In-App Purchasing:** No

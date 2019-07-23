@@ -20,7 +20,7 @@ Overnight Oats is the most fun and convenient breakfast for busy mornings, and t
 * **ID:** amzn1.echo-sdk-ams.app.36bf94fd-d3d9-4773-ba9b-de5f2a7f76d0
 * **ASIN:** B01ETY8FFE
 * **Author:** Organic
-* **Release Date:** June 13, 2016 @ 11:40:25
+* **Release Date:** June 13, 2016 @ 12:40:25
 * **Privacy Policy:** http://www.quakeroats.com/privacy-policy
 * **Terms of Use:** http://www.quakeroats.com/terms-of-use
 * **In-App Purchasing:** No

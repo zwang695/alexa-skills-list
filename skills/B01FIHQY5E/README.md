@@ -20,5 +20,5 @@ Are you a Ducks Football super fan?! Take the Ducks Football Trivia game and fin
 * **ID:** amzn1.echo-sdk-ams.app.0f6d1ccc-51a7-44b7-9336-246f70b9eba8
 * **ASIN:** B01FIHQY5E
 * **Author:** Andrew Vincent
-* **Release Date:** May 13, 2016 @ 09:38:40
+* **Release Date:** May 13, 2016 @ 10:38:40
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask Alexa to give you a fortune and she will read off a fortune cookie response.
 * **ID:** amzn1.ask.skill.24168259-a6c2-4cdf-bffc-764408c3ad08
 * **ASIN:** B01NACD0F0
 * **Author:** ghs9
-* **Release Date:** December 3, 2016 @ 02:35:47
+* **Release Date:** December 3, 2016 @ 03:35:47
 * **In-App Purchasing:** No

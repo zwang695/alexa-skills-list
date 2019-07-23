@@ -20,5 +20,5 @@ The Brimacombe Mountain Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.c788e193-d32e-401e-bd79-60ea94a46b79
 * **ASIN:** B01MRG16KF
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:45:02
+* **Release Date:** November 5, 2016 @ 11:45:02
 * **In-App Purchasing:** No

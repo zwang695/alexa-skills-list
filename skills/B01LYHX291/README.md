@@ -29,5 +29,5 @@ OpenNotify: http://open-notify.org/
 * **ID:** amzn1.ask.skill.64776143-842d-414d-b841-c4c7472bc358
 * **ASIN:** B01LYHX291
 * **Author:** 3PO Labs
-* **Release Date:** September 28, 2016 @ 12:42:18
+* **Release Date:** September 28, 2016 @ 13:42:18
 * **In-App Purchasing:** No

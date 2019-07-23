@@ -20,5 +20,5 @@ A short list of facts about Deaf culture and American Sign Language.
 * **ID:** amzn1.echo-sdk-ams.app.b48b0a5f-42ef-48c5-9fc9-cf0158bc18ed
 * **ASIN:** B01I7JKM2G
 * **Author:** LVarrell
-* **Release Date:** July 11, 2016 @ 08:57:47
+* **Release Date:** July 11, 2016 @ 09:57:47
 * **In-App Purchasing:** No

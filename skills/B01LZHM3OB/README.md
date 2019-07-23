@@ -27,5 +27,5 @@ https://twitter.com/Jessica__Pearl
 * **ID:** amzn1.ask.skill.5d9c2785-fdb8-4a8d-b558-6c18ff46a2a4
 * **ASIN:** B01LZHM3OB
 * **Author:** jess
-* **Release Date:** September 21, 2016 @ 01:43:55
+* **Release Date:** September 21, 2016 @ 02:43:55
 * **In-App Purchasing:** No

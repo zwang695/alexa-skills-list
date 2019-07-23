@@ -20,5 +20,5 @@ Gives 20 different random facts that I pulled from some trivia.
 * **ID:** amzn1.ask.skill.8589e04f-6d78-42e0-8128-ddefc96250a7
 * **ASIN:** B01N0V0DZR
 * **Author:** jchen43
-* **Release Date:** December 29, 2016 @ 02:49:04
+* **Release Date:** December 29, 2016 @ 03:49:04
 * **In-App Purchasing:** No

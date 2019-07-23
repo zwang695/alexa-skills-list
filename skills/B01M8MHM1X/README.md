@@ -20,5 +20,5 @@ The Timberline Ski Area Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.3a60cf41-74e7-422e-851b-c3367cd67610
 * **ASIN:** B01M8MHM1X
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:47:24
+* **Release Date:** October 26, 2016 @ 04:47:24
 * **In-App Purchasing:** No

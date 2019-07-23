@@ -21,5 +21,5 @@ Note: This is a fun skill. The developer does not claim or guarantee the truenes
 * **ID:** amzn1.ask.skill.f9e64cb7-fa2c-4d3d-b622-06542d259da2
 * **ASIN:** B01KR03EJQ
 * **Author:** Dharmil Chandarana
-* **Release Date:** September 8, 2016 @ 01:33:38
+* **Release Date:** September 8, 2016 @ 02:33:38
 * **In-App Purchasing:** No

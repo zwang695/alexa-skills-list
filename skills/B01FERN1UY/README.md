@@ -22,5 +22,5 @@ Motivate me provides your Motivations Quotes to keep you going.
 * **ID:** amzn1.echo-sdk-ams.app.4b699841-00f7-48cf-bbfc-6b2bfbf1458d
 * **ASIN:** B01FERN1UY
 * **Author:** Praveen Modi
-* **Release Date:** July 4, 2016 @ 02:57:25
+* **Release Date:** July 4, 2016 @ 03:57:25
 * **In-App Purchasing:** No

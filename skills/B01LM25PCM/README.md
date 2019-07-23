@@ -20,5 +20,5 @@ Ever wanted to learn the zodiac dates of the year? Now's your chance! Ask Alexa 
 * **ID:** amzn1.ask.skill.afa24a93-07c8-4f08-8cf1-754bc4921e72
 * **ASIN:** B01LM25PCM
 * **Author:** kb
-* **Release Date:** September 8, 2016 @ 02:03:47
+* **Release Date:** September 8, 2016 @ 03:03:47
 * **In-App Purchasing:** No

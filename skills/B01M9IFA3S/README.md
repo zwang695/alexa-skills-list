@@ -20,5 +20,5 @@ A good joke sounds better with some applause and Alexa is here to deliver.  Alex
 * **ID:** amzn1.ask.skill.7e8b21ac-a34a-44b9-aeb1-0cb482cc1988
 * **ASIN:** B01M9IFA3S
 * **Author:** Andrew Bergstrom
-* **Release Date:** November 5, 2016 @ 02:42:57
+* **Release Date:** November 5, 2016 @ 03:42:57
 * **In-App Purchasing:** No

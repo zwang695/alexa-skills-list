@@ -20,5 +20,5 @@ This looks up the location of a given ip4 address. Make sure to spell out the IP
 * **ID:** amzn1.echo-sdk-ams.app.40cd6d22-4dca-4ade-8c96-7b1047c9b377
 * **ASIN:** B01GU5GE8A
 * **Author:** Arghwebworks
-* **Release Date:** June 16, 2016 @ 09:16:00
+* **Release Date:** June 16, 2016 @ 10:16:00
 * **In-App Purchasing:** No

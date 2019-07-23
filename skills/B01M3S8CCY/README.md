@@ -28,6 +28,6 @@ Made with love by TrinixCreative [trinixcreative.com]
 * **ID:** amzn1.ask.skill.3a6d1906-68d1-47b1-b22a-29f963d52a70
 * **ASIN:** B01M3S8CCY
 * **Author:** Trinix Creative
-* **Release Date:** October 31, 2016 @ 12:43:24
+* **Release Date:** October 31, 2016 @ 13:43:24
 * **Privacy Policy:** https://trinixcreative.com/alexa/privacy.php
 * **In-App Purchasing:** No

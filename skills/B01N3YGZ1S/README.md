@@ -20,7 +20,7 @@ The Home Repair Advisor Skill answers questions on how to make simple home repai
 * **ID:** amzn1.ask.skill.dc23a3ba-306d-45f9-9f1a-005f66febcd4
 * **ASIN:** B01N3YGZ1S
 * **Author:** Treycent
-* **Release Date:** November 17, 2016 @ 22:05:16
+* **Release Date:** November 17, 2016 @ 23:05:16
 * **Privacy Policy:** https://treycent.com/app/privacy.html
 * **Terms of Use:** https://treycent.com/app/terms.html
 * **In-App Purchasing:** No

@@ -26,5 +26,5 @@ Ready for a break? It’s as easy as “Deep Breath”.
 * **ID:** amzn1.ask.skill.41916954-1fdd-4944-a024-f0be226a78af
 * **ASIN:** B01N1NFN44
 * **Author:** DrawnToDigital
-* **Release Date:** December 6, 2016 @ 02:05:44
+* **Release Date:** December 6, 2016 @ 03:05:44
 * **In-App Purchasing:** No

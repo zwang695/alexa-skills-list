@@ -20,5 +20,5 @@ The Mt Crescent Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.dfc5aadf-93c2-4a52-b65f-baad51e47a7a
 * **ASIN:** B01MEHCPEV
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:48:37
+* **Release Date:** October 21, 2016 @ 15:48:37
 * **In-App Purchasing:** No

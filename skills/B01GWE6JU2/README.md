@@ -20,5 +20,5 @@ Are you interested in basic calendar information? Rely on Every Day for basic ca
 * **ID:** amzn1.echo-sdk-ams.app.85fc4cc5-e354-4a6d-b390-5a9fdbcb7e57
 * **ASIN:** B01GWE6JU2
 * **Author:** Appbly.com
-* **Release Date:** June 14, 2016 @ 04:42:19
+* **Release Date:** June 14, 2016 @ 05:42:19
 * **In-App Purchasing:** No

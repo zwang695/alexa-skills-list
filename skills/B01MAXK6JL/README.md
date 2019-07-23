@@ -20,5 +20,5 @@ Resistor Buddy helps you calculate the value of a resistor based on its colour b
 * **ID:** amzn1.ask.skill.0e9659ae-8e17-4a00-82c3-672ce4fc64bb
 * **ASIN:** B01MAXK6JL
 * **Author:** Patrick Mollohan
-* **Release Date:** October 21, 2016 @ 15:44:22
+* **Release Date:** October 21, 2016 @ 16:44:22
 * **In-App Purchasing:** No

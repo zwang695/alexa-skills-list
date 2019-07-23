@@ -20,5 +20,5 @@ Sometimes you just gotta know! Get ready for the holidays with this spicy new sk
 * **ID:** amzn1.ask.skill.f08a6f54-eeb1-4a1e-a049-6073056b7794
 * **ASIN:** B01N03TF12
 * **Author:** Abraham Maslow
-* **Release Date:** November 15, 2016 @ 00:05:28
+* **Release Date:** November 15, 2016 @ 01:05:28
 * **In-App Purchasing:** No

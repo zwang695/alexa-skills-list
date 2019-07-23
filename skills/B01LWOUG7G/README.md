@@ -20,5 +20,5 @@ This is the customization of the howto template with the unofficial descriptions
 * **ID:** amzn1.ask.skill.76fbef53-0422-47c8-808e-17c4c42731f8
 * **ASIN:** B01LWOUG7G
 * **Author:** caowenhong
-* **Release Date:** October 10, 2016 @ 09:12:00
+* **Release Date:** October 10, 2016 @ 10:12:00
 * **In-App Purchasing:** No

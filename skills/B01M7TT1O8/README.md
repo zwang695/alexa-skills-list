@@ -26,7 +26,7 @@ Call us any time at 1-800-EXPEDIA.
 * **ID:** amzn1.ask.skill.d89dc976-8c69-45f7-9e69-032077a7e93b
 * **ASIN:** B01M7TT1O8
 * **Author:** Expedia Inc.
-* **Release Date:** November 29, 2016 @ 17:35:30
+* **Release Date:** November 29, 2016 @ 18:35:30
 * **Privacy Policy:** https://www.expedia.com/privacy
 * **Terms of Use:** https://www.expedia.com/terms
 * **Account Linking Domains:** dialog-web.us-west-2.prod.expedia.com

@@ -20,5 +20,5 @@ Where does Trump stand on the issues? On both sides of course! This hilarious ap
 * **ID:** amzn1.ask.skill.3de28ba0-01e2-4b1f-98b2-c71b8aa5f02d
 * **ASIN:** B01N1LZEEC
 * **Author:** Xleet, Inc
-* **Release Date:** December 1, 2016 @ 06:05:17
+* **Release Date:** December 1, 2016 @ 07:05:17
 * **In-App Purchasing:** No

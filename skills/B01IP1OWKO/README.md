@@ -20,5 +20,5 @@ quiz for indian state languages
 * **ID:** amzn1.ask.skill.b66c6ceb-edda-4393-b679-0aa2b97d9a73
 * **ASIN:** B01IP1OWKO
 * **Author:** Surendra Parihar
-* **Release Date:** July 20, 2016 @ 08:57:27
+* **Release Date:** July 20, 2016 @ 09:57:27
 * **In-App Purchasing:** No

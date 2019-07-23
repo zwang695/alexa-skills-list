@@ -20,7 +20,7 @@ Shares a random Game of Thrones Fact for GOT Fans . An unofficial GOT Fact App f
 * **ID:** amzn1.ask.skill.7c4bb79f-9932-4494-bf6f-ebb047eb2eab
 * **ASIN:** B01LZTZ6LJ
 * **Author:** VJ
-* **Release Date:** September 22, 2016 @ 03:11:57
+* **Release Date:** September 22, 2016 @ 04:11:57
 * **Privacy Policy:** https://github.com/vasujain/got-fact-alexa/blob/master/Privacy%20Policy.md
 * **Terms of Use:** https://github.com/vasujain/got-fact-alexa/blob/master/Terms%20of%20Use.md
 * **In-App Purchasing:** No

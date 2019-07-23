@@ -25,5 +25,5 @@ This Georgia Tech Buses skill neither sponsored nor endorsed by the Georgia Inst
 * **ID:** amzn1.ask.skill.77dd3b88-7567-495a-a983-7d9208daed1a
 * **ASIN:** B01N2SPQ8S
 * **Author:** Ryan Petschek
-* **Release Date:** December 27, 2016 @ 23:19:20
+* **Release Date:** December 28, 2016 @ 00:19:20
 * **In-App Purchasing:** No

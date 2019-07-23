@@ -22,7 +22,7 @@ Complete account linking to include your personalization settings.
 * **ID:** amzn1.ask.skill.3cfc328b-aa7b-48b3-8706-7eb77e9887bf
 * **ASIN:** B01N75RKCH
 * **Author:** Meep, LLC
-* **Release Date:** November 25, 2016 @ 04:08:29
+* **Release Date:** November 25, 2016 @ 05:08:29
 * **Privacy Policy:** http://www.meep.com/privacy/?source=alexa&topic=privacy
 * **Terms of Use:** http://www.meep.com/privacy/?source=alexa&topic=tos
 * **Account Linking Domains:** api.meep.com, www.facebook.com, www.meep.com

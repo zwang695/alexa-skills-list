@@ -21,5 +21,5 @@ This skill uses a quiz format to test your knowledge of our Presidents.
 * **ID:** amzn1.echo-sdk-ams.app.f07dcf98-7c16-426b-806e-a9e05c48591f
 * **ASIN:** B01I8HIW9C
 * **Author:** imagine that
-* **Release Date:** July 13, 2016 @ 06:27:38
+* **Release Date:** July 13, 2016 @ 07:27:38
 * **In-App Purchasing:** No

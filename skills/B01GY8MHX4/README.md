@@ -16,5 +16,5 @@ The user will use this skill to brighten up there day with a quick one liner fun
 * **ID:** amzn1.echo-sdk-ams.app.da95badf-c6c9-40cc-8af3-66cf449a5a47
 * **ASIN:** B01GY8MHX4
 * **Author:** GCNES Creations
-* **Release Date:** June 14, 2016 @ 04:42:26
+* **Release Date:** June 14, 2016 @ 05:42:26
 * **In-App Purchasing:** No

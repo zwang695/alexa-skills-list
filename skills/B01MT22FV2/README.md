@@ -20,5 +20,5 @@ You can use this skill to get the current donation total for Zeldathon, a charit
 * **ID:** amzn1.ask.skill.2d5ebc60-cbac-4a0c-818f-dda6cfec917f
 * **ASIN:** B01MT22FV2
 * **Author:** Tommy Sheedy
-* **Release Date:** December 25, 2016 @ 05:19:09
+* **Release Date:** December 25, 2016 @ 06:19:09
 * **In-App Purchasing:** No

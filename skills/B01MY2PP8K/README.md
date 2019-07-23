@@ -20,5 +20,5 @@ This skill has fun trivia for older students at Joyous Chinese Cultural Center a
 * **ID:** amzn1.ask.skill.5277d955-3e73-4c72-910f-e090cf081a81
 * **ASIN:** B01MY2PP8K
 * **Author:** CXP: Customer Experience Partners
-* **Release Date:** December 30, 2016 @ 00:49:34
+* **Release Date:** December 30, 2016 @ 01:49:34
 * **In-App Purchasing:** No

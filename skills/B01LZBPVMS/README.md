@@ -20,5 +20,5 @@ The Angel Fire Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.3065b2be-b8b4-457a-a0a1-2fe88ce3db0a
 * **ASIN:** B01LZBPVMS
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:42:51
+* **Release Date:** October 19, 2016 @ 11:42:51
 * **In-App Purchasing:** No

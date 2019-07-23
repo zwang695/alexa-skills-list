@@ -20,5 +20,5 @@ Annoying Acronyms asks questions of what does this acronym mean and user will an
 * **ID:** amzn1.echo-sdk-ams.app.330a846d-cd49-40bf-9a9e-5c77eb97e6e8
 * **ASIN:** B01IQWBFES
 * **Author:** Brian Hager
-* **Release Date:** August 1, 2016 @ 08:26:29
+* **Release Date:** August 1, 2016 @ 09:26:29
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Explain fuzzy language found in science and medicine. There are eighteen phrases
 * **ID:** amzn1.echo-sdk-ams.app.7c5926dd-5b5c-4565-af27-9aebf18b2318
 * **ASIN:** B01GMBUUEG
 * **Author:** erictleung
-* **Release Date:** June 9, 2016 @ 09:39:36
+* **Release Date:** June 9, 2016 @ 10:39:36
 * **In-App Purchasing:** No

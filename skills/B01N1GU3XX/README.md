@@ -20,5 +20,5 @@ Air Quality Alexa skill uses the location provided from the user to determine la
 * **ID:** amzn1.ask.skill.b3b64419-1bea-4de4-afbb-0f28b5871bf5
 * **ASIN:** B01N1GU3XX
 * **Author:** Hakan
-* **Release Date:** November 25, 2016 @ 03:36:17
+* **Release Date:** November 25, 2016 @ 04:36:17
 * **In-App Purchasing:** No

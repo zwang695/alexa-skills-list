@@ -22,5 +22,5 @@ First, begin the game. Next, try to guess the number Alexa chose. You'll be told
 * **ID:** amzn1.ask.skill.fef464fb-4176-4c87-b192-630e17dab1b5
 * **ASIN:** B01M68WS0V
 * **Author:** Jarred Higgs
-* **Release Date:** November 9, 2016 @ 22:13:36
+* **Release Date:** November 9, 2016 @ 23:13:36
 * **In-App Purchasing:** No

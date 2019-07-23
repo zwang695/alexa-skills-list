@@ -22,5 +22,5 @@ Icons made by http://www.freepik.com
 * **ID:** amzn1.echo-sdk-ams.app.d4d0da39-9101-4fc0-9c7f-ef612cdcb71e
 * **ASIN:** B01HALJAM0
 * **Author:** Jared Pirce
-* **Release Date:** June 21, 2016 @ 04:45:44
+* **Release Date:** June 21, 2016 @ 05:45:44
 * **In-App Purchasing:** No

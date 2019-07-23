@@ -22,5 +22,5 @@ NOTE: I do not claim to own the show JoJo's Bizarre Adventure, nor is this skill
 * **ID:** amzn1.ask.skill.aa4e2910-dcfd-45b6-8847-3e5144a434e5
 * **ASIN:** B01LWM1UV2
 * **Author:** Vincent
-* **Release Date:** October 19, 2016 @ 01:13:00
+* **Release Date:** October 19, 2016 @ 02:13:00
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Find out the current security wait times at US airports. Ask Alexa for your airp
 * **ID:** amzn1.echo-sdk-ams.app.ca0341cd-ab3d-44d1-aed8-164217e05ec3
 * **ASIN:** B01FS5OW64
 * **Author:** Vivek B
-* **Release Date:** May 25, 2016 @ 05:08:39
+* **Release Date:** May 25, 2016 @ 06:08:39
 * **In-App Purchasing:** No

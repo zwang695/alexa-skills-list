@@ -32,7 +32,7 @@ This skill requires a Revel Digital account and at least one registered player d
 * **ID:** amzn1.ask.skill.5ff2a40b-2531-4f6d-bc24-ecc4f5bc3d13
 * **ASIN:** B01M5DQAC3
 * **Author:** RevelDigital
-* **Release Date:** November 9, 2016 @ 00:13:12
+* **Release Date:** November 9, 2016 @ 01:13:12
 * **Privacy Policy:** https://www.reveldigital.com/privacy
 * **Terms of Use:** https://www.reveldigital.com/terms
 * **In-App Purchasing:** No

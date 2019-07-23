@@ -20,6 +20,6 @@ DineTime is now even more convenient with its Alexa integration. Use DineTime wi
 * **ID:** amzn1.ask.skill.bfc725f2-3a21-4418-8d1b-1f50b404d42a
 * **ASIN:** B01MXWIUQB
 * **Author:** QSR Automations, Inc.
-* **Release Date:** December 14, 2016 @ 00:19:51
+* **Release Date:** December 14, 2016 @ 01:19:51
 * **Privacy Policy:** http://www.dinetime.com/privacy.html
 * **In-App Purchasing:** No

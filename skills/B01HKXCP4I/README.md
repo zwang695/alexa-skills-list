@@ -20,7 +20,7 @@ Real investors need more than stock price quotes. Instantly get professional-gra
 * **ID:** amzn1.echo-sdk-ams.app.ab8fb10d-159d-48f4-b410-3061526b958c
 * **ASIN:** B01HKXCP4I
 * **Author:** Sentieo
-* **Release Date:** July 4, 2016 @ 02:27:32
+* **Release Date:** July 4, 2016 @ 03:27:32
 * **Privacy Policy:** https://sentieo.com/content/legal/privacy-policy.html
 * **Terms of Use:** https://sentieo.com/content/legal/terms-of-service.html
 * **In-App Purchasing:** No

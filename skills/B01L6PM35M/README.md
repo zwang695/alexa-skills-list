@@ -37,5 +37,5 @@ Configuration
 * **ID:** amzn1.ask.skill.76a9a2d3-3777-4f07-b46d-3231204df4e1
 * **ASIN:** B01L6PM35M
 * **Author:** pacosal
-* **Release Date:** November 16, 2016 @ 02:06:41
+* **Release Date:** November 16, 2016 @ 03:06:41
 * **In-App Purchasing:** No

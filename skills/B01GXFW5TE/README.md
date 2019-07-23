@@ -22,5 +22,5 @@ DISCLAIMER: May not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.bec0fef9-376b-4418-90e4-0d9b26a85933
 * **ASIN:** B01GXFW5TE
 * **Author:** Oleg Dulin
-* **Release Date:** June 15, 2016 @ 04:45:38
+* **Release Date:** June 15, 2016 @ 05:45:38
 * **In-App Purchasing:** No

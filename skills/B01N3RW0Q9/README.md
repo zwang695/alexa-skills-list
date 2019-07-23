@@ -20,5 +20,5 @@ The Ski Bromont Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.ad841a30-b02a-4183-8c1e-fdae2c8c5c7d
 * **ASIN:** B01N3RW0Q9
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:44:04
+* **Release Date:** November 5, 2016 @ 12:44:04
 * **In-App Purchasing:** No

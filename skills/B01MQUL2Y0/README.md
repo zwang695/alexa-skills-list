@@ -20,5 +20,5 @@ Roast Calculator will let you know how long to cook your meat for in minutes. Us
 * **ID:** amzn1.ask.skill.381c8f49-fd98-44aa-ba11-c2e06c9c2a62
 * **ASIN:** B01MQUL2Y0
 * **Author:** finebyte
-* **Release Date:** December 14, 2016 @ 02:49:55
+* **Release Date:** December 14, 2016 @ 03:49:55
 * **In-App Purchasing:** No

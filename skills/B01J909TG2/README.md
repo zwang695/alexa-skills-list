@@ -20,7 +20,7 @@ The Control4 Smart Home Skill requires an active Control4 4Sight subscription. F
 * **ID:** amzn1.ask.skill.12a68d70-f9b3-4c57-8156-c120d36ddef7
 * **ASIN:** B01J909TG2
 * **Author:** Control4
-* **Release Date:** September 14, 2016 @ 16:42:24
+* **Release Date:** September 14, 2016 @ 17:42:24
 * **Privacy Policy:** https://www.control4.com/legal/privacy-policy/text
 * **Terms of Use:** http://www.control4.com/legal/terms-of-use/text
 * **In-App Purchasing:** No

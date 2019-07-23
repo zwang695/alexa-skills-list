@@ -20,5 +20,5 @@ Learn how to insult a person like a boss using the Unofficial Trump Insult Gener
 * **ID:** amzn1.ask.skill.a27ab6b1-33a5-4aa7-98a5-73979717b0ed
 * **ASIN:** B01M7UC179
 * **Author:** mastash3ff
-* **Release Date:** November 2, 2016 @ 03:14:13
+* **Release Date:** November 2, 2016 @ 04:14:13
 * **In-App Purchasing:** No

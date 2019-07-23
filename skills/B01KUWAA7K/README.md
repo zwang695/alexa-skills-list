@@ -22,5 +22,5 @@ His Random quotes are provided as this alexa skill, that will serve as a motivat
 * **ID:** amzn1.ask.skill.ef57219c-9734-4868-bb72-991c99b16054
 * **ASIN:** B01KUWAA7K
 * **Author:** Veerash Ayyagari
-* **Release Date:** August 25, 2016 @ 03:01:52
+* **Release Date:** August 25, 2016 @ 04:01:52
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ Alexa, start shiv mantra
 * **ID:** amzn1.echo-sdk-ams.app.0c090dec-282e-41b4-a298-a12a3d038b37
 * **ASIN:** B01IMERWHE
 * **Author:** Sakshum
-* **Release Date:** July 22, 2016 @ 09:26:20
+* **Release Date:** July 22, 2016 @ 10:26:20
 * **In-App Purchasing:** No

@@ -20,6 +20,6 @@ You can ask Awair to tell you the current Awair score, recommendations about the
 * **ID:** amzn1.echo-sdk-ams.app.f0b5988b-e849-4357-8e7a-307d04d8f89e
 * **ASIN:** B01ER39MZY
 * **Author:** Bitfinder Inc.
-* **Release Date:** May 16, 2016 @ 02:38:34
+* **Release Date:** May 16, 2016 @ 03:38:34
 * **Privacy Policy:** https://getawair.com/terms.html
 * **In-App Purchasing:** No

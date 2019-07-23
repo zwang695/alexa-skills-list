@@ -22,7 +22,7 @@ If you have any questions, please visit the Bryant Housewise thermostat FAQ at h
 * **ID:** amzn1.ask.skill.d631520b-b94c-472d-aecc-c38d5107e22a
 * **ASIN:** B01IFDQ97Q
 * **Author:** Carrier Corporation
-* **Release Date:** September 2, 2016 @ 19:33:28
+* **Release Date:** September 2, 2016 @ 20:33:28
 * **Privacy Policy:** http://www.myhome.bryant.com/legal.html
 * **Account Linking Domains:** www.ecobee.com, www.myhome.carrier.com, www.myhome.bryant.com
 * **In-App Purchasing:** No

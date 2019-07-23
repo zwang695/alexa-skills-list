@@ -20,5 +20,5 @@ Test your knowledge as an ornithologist, answer as many bird questions correctly
 * **ID:** amzn1.ask.skill.bd1cb9a7-7367-4dc5-ad08-a16bea0b1d4f
 * **ASIN:** B01JANVWOA
 * **Author:** Pamela Molochko
-* **Release Date:** August 2, 2016 @ 07:36:22
+* **Release Date:** August 2, 2016 @ 08:36:22
 * **In-App Purchasing:** No

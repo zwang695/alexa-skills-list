@@ -23,7 +23,7 @@ To use this skill you must have an Strava account. To sign up for an account go 
 * **ID:** amzn1.ask.skill.f69eb30c-15d5-4746-ab40-680cec1e4963
 * **ASIN:** B01MTQ6RSA
 * **Author:** Milo Oostergo
-* **Release Date:** December 12, 2016 @ 01:19:29
+* **Release Date:** December 12, 2016 @ 02:19:29
 * **Privacy Policy:** https://s3.amazonaws.com/oostergo.net/privacy.txt
 * **Account Linking Domains:** strava.com, s3.amazonaws.com, www.strava.com
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Learn random and fun things about dogs.
 * **ID:** amzn1.ask.skill.2836277d-e9ff-4d4c-900d-d0fbc12820fc
 * **ASIN:** B01KZLGQ4W
 * **Author:** dilraj
-* **Release Date:** August 26, 2016 @ 02:33:18
+* **Release Date:** August 26, 2016 @ 03:33:18
 * **In-App Purchasing:** No

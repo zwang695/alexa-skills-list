@@ -18,5 +18,5 @@ Discover a new artist every day with Discover Artist, just ask Alexa and we'll t
 * **ID:** amzn1.echo-sdk-ams.app.384940e4-e436-42b6-9258-014377e5c870
 * **ASIN:** B01FCLLKNW
 * **Author:** callumj.com
-* **Release Date:** May 12, 2016 @ 16:38:26
+* **Release Date:** May 12, 2016 @ 17:38:26
 * **In-App Purchasing:** No

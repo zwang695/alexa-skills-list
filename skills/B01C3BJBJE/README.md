@@ -42,5 +42,5 @@ and many, many more.
 * **ID:** amzn1.echo-sdk-ams.app.3cb0b160-14dd-4659-bd8f-ba1a6d957665
 * **ASIN:** B01C3BJBJE
 * **Author:** Argusware
-* **Release Date:** February 22, 2016 @ 14:17:17
+* **Release Date:** February 22, 2016 @ 15:17:17
 * **In-App Purchasing:** No

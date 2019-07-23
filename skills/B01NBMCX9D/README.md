@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.8473bf6b-c26a-476c-8a8c-9ed31fe303ac
 * **ASIN:** B01NBMCX9D
 * **Author:** Radioplayer Deutschland GmbH
-* **Release Date:** December 28, 2016 @ 16:19:02
+* **Release Date:** December 28, 2016 @ 17:19:02
 * **In-App Purchasing:** No

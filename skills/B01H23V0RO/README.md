@@ -24,7 +24,7 @@ For any additional support, please visit www.ihome.com for more information.
 * **ID:** amzn1.ask.skill.ebb126c9-bc7c-4d6c-a8fe-8d514d032ae0
 * **ASIN:** B01H23V0RO
 * **Author:** iHome
-* **Release Date:** July 20, 2016 @ 15:57:11
+* **Release Date:** July 20, 2016 @ 16:57:11
 * **Privacy Policy:** http://www.ihomeaudio.com/privacy_policy/
 * **Account Linking Domains:** tags.mediaforge.com, www.google-analytics.com, app.yieldify.com, px.owneriq.com, configusa.veinteractive.com, ihomeaudio.com
 * **In-App Purchasing:** No

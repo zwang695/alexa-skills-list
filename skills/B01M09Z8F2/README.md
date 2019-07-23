@@ -26,7 +26,7 @@ If you are a subscriber, and are having trouble accessing audio, please contact 
 * **ID:** amzn1.echo-sdk-ams.app.1f027480-c2cc-480f-98d6-c9485d863ca9
 * **ASIN:** B01M09Z8F2
 * **Author:** MLB Advanced Media, L.P.
-* **Release Date:** October 13, 2016 @ 17:46:05
+* **Release Date:** October 13, 2016 @ 18:46:05
 * **Privacy Policy:** http://mlb.mlb.com/mlb/official_info/about_mlb_com/privacy_policy.jsp
 * **Terms of Use:** http://mlb.mlb.com/mlb/official_info/about_mlb_com/terms_of_use.jsp
 * **Account Linking Domains:** mlb.com, us-east-1.bamgrid.com, secure.mlb.com, securea.mlb.com, mastercard.com, m.mlb.com, web-secure.mlb.com, itunes.apple.com, masterpass.com, paypal.com, play.google.com, mlb.mlb.com, msecure.mlb.com, bit.ly, atmlb.com

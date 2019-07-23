@@ -22,5 +22,5 @@ It uses the hipsterjesus.com API (thanks!), the icon is in the public domain fro
 * **ID:** amzn1.ask.skill.32c63f67-ec33-4ff1-8df3-a1899d00aa07
 * **ASIN:** B01M0VPYG9
 * **Author:** Rene Schultz
-* **Release Date:** October 14, 2016 @ 02:46:52
+* **Release Date:** October 14, 2016 @ 03:46:52
 * **In-App Purchasing:** No

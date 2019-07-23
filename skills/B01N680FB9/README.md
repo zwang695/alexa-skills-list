@@ -16,5 +16,5 @@ Gives the price of the dollar in Argentina pesos.
 * **ID:** amzn1.ask.skill.9d9b7b6b-45f8-444a-a52b-3ae33c420a14
 * **ASIN:** B01N680FB9
 * **Author:** Juan Gesino
-* **Release Date:** November 25, 2016 @ 07:05:25
+* **Release Date:** November 25, 2016 @ 08:05:25
 * **In-App Purchasing:** No

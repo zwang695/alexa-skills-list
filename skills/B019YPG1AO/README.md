@@ -22,5 +22,5 @@ It's not meant to be beaten. It's meant to beat YOU down! I will constantly be a
 * **ID:** amzn1.echo-sdk-ams.app.9654cfab-9629-40d9-8abc-c481be64df0c
 * **ASIN:** B019YPG1AO
 * **Author:** RP
-* **Release Date:** December 29, 2015 @ 18:14:59
+* **Release Date:** December 29, 2015 @ 19:14:59
 * **In-App Purchasing:** No

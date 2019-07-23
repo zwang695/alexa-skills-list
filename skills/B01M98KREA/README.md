@@ -20,5 +20,5 @@ This is a listing of my favorite recipes
 * **ID:** amzn1.ask.skill.01b3d00b-0f50-4147-a7f2-c7ecfc7703c7
 * **ASIN:** B01M98KREA
 * **Author:** Danco
-* **Release Date:** November 9, 2016 @ 00:44:33
+* **Release Date:** November 9, 2016 @ 01:44:33
 * **In-App Purchasing:** No

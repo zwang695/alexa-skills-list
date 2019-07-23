@@ -20,5 +20,5 @@ Some interesting facts about rubik's cube, the most sold toy in the world!
 * **ID:** amzn1.ask.skill.e0633539-9c7e-4810-b398-fe140c08b0de
 * **ASIN:** B01J2SB40U
 * **Author:** John Wu
-* **Release Date:** July 29, 2016 @ 06:56:31
+* **Release Date:** July 29, 2016 @ 07:56:31
 * **In-App Purchasing:** No

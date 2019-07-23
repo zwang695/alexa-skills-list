@@ -26,5 +26,5 @@ Thank you to The Oracle of Bacon for providing the API endpoint and other data
 * **ID:** amzn1.ask.skill.d7502bec-b1bb-47d2-8c54-796efc9090a2
 * **ASIN:** B01NAC6YHQ
 * **Author:** CasperTech Ltd
-* **Release Date:** December 14, 2016 @ 02:21:13
+* **Release Date:** December 14, 2016 @ 03:21:13
 * **In-App Purchasing:** No

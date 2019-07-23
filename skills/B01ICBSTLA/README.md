@@ -32,7 +32,7 @@ Visit www.hatchbaby.com to learn more about the Smart Changing Pad and download 
 * **ID:** amzn1.echo-sdk-ams.app.ec064f77-4155-446a-9b1a-93b65a47ab1e
 * **ASIN:** B01ICBSTLA
 * **Author:** HatchBaby, Inc
-* **Release Date:** July 20, 2016 @ 01:27:49
+* **Release Date:** July 20, 2016 @ 02:27:49
 * **Privacy Policy:** http://www.hatchbaby.com/pages/privacy-policy
 * **Terms of Use:** http://www.hatchbaby.com/pages/privacy-policy
 * **Account Linking Domains:** maxcdn.bootstrapcdn.com, s3-us-west-2.amazonaws.com

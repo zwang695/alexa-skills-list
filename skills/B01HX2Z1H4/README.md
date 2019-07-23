@@ -28,5 +28,5 @@ Another entertaining skill from www.thomptronics.com
 * **ID:** amzn1.echo-sdk-ams.app.c4b42dc3-8a42-4136-b8c9-5d4874d9fbe2
 * **ASIN:** B01HX2Z1H4
 * **Author:** Thomptronics
-* **Release Date:** July 4, 2016 @ 07:57:40
+* **Release Date:** July 4, 2016 @ 08:57:40
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Explore the city with the Alexandria Guide.  Whether this is your first trip or 
 * **ID:** amzn1.ask.skill.6dead8a8-98bf-4b9c-af17-894f7255dfba
 * **ASIN:** B01N2YPG3N
 * **Author:** JS
-* **Release Date:** January 3, 2017 @ 01:19:40
+* **Release Date:** January 3, 2017 @ 02:19:40
 * **In-App Purchasing:** No

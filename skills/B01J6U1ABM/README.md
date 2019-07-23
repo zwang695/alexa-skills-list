@@ -24,7 +24,7 @@ This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.b306198b-761d-4f0a-9d80-39fe9b282fc0
 * **ASIN:** B01J6U1ABM
 * **Author:** Faithlife Corporation
-* **Release Date:** August 12, 2016 @ 04:07:25
+* **Release Date:** August 12, 2016 @ 05:07:25
 * **Privacy Policy:** http://faithlife.com/privacy
 * **Terms of Use:** http://faithlife.com/terms
 * **Account Linking Domains:** auth.faithlife.com, auth.logos.com

@@ -18,5 +18,5 @@ This skill will tell various facts about plants.
 * **ID:** amzn1.ask.skill.b692e507-b681-4412-90c8-f78dab8e13c4
 * **ASIN:** B01LZDI9D6
 * **Author:** Emily Lynam
-* **Release Date:** October 6, 2016 @ 03:41:34
+* **Release Date:** October 6, 2016 @ 04:41:34
 * **In-App Purchasing:** No

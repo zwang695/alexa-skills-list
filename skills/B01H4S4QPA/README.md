@@ -20,5 +20,5 @@ Think you know who wrote The Sound and the Fury, Ulysses, Wuthering Heights and 
 * **ID:** amzn1.echo-sdk-ams.app.ff5cb486-c63c-473c-bbfb-d7d0aeea3d95
 * **ASIN:** B01H4S4QPA
 * **Author:** FourEyedBookWorm
-* **Release Date:** June 22, 2016 @ 08:15:45
+* **Release Date:** June 22, 2016 @ 09:15:45
 * **In-App Purchasing:** No

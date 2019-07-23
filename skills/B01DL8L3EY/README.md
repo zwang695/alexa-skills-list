@@ -25,5 +25,5 @@ At the end of game it will give you the score .
 * **ID:** amzn1.echo-sdk-ams.app.deff8821-fb75-4acb-a79b-1c84d0de276c
 * **ASIN:** B01DL8L3EY
 * **Author:** anip mehta
-* **Release Date:** March 31, 2016 @ 14:02:27
+* **Release Date:** March 31, 2016 @ 15:02:27
 * **In-App Purchasing:** No

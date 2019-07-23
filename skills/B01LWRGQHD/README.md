@@ -21,5 +21,5 @@ Ask 5 questions with 4 options. You have to say the number of the answer.
 * **ID:** amzn1.ask.skill.e3a66b51-0a63-4af2-b947-380ec90762ea
 * **ASIN:** B01LWRGQHD
 * **Author:** Rajat
-* **Release Date:** October 15, 2016 @ 01:46:23
+* **Release Date:** October 15, 2016 @ 02:46:23
 * **In-App Purchasing:** No

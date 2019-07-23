@@ -24,5 +24,5 @@ Enjoy! and may the force be with you!
 * **ID:** amzn1.ask.skill.9a6c2162-bdae-4c2a-859c-2b1eeda91829
 * **ASIN:** B01M3YLF6N
 * **Author:** Eclipse
-* **Release Date:** November 9, 2016 @ 00:45:04
+* **Release Date:** November 9, 2016 @ 01:45:04
 * **In-App Purchasing:** No

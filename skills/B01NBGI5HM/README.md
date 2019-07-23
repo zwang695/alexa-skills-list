@@ -20,5 +20,5 @@ Retrieve the current location of the International Space Station or get the date
 * **ID:** amzn1.ask.skill.067e42d5-ec96-43da-af19-199751986785
 * **ASIN:** B01NBGI5HM
 * **Author:** MetaViewSoft
-* **Release Date:** December 22, 2016 @ 09:49:03
+* **Release Date:** December 22, 2016 @ 10:49:03
 * **In-App Purchasing:** No

@@ -21,5 +21,5 @@ Icon made by Freepik from flaticon
 * **ID:** amzn1.echo-sdk-ams.app.16b5dc1b-1d8b-4585-a67a-adaa73f60e0d
 * **ASIN:** B01IQPH2JM
 * **Author:** Andrew Cargill
-* **Release Date:** July 20, 2016 @ 06:57:28
+* **Release Date:** July 20, 2016 @ 07:57:28
 * **In-App Purchasing:** No

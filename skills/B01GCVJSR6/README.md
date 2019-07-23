@@ -22,5 +22,5 @@ Icon made by freepik (http://freepik.com) from http://flaticon.com, CC BY 3.0
 * **ID:** amzn1.echo-sdk-ams.app.5ca039a5-25db-40d5-a402-d08c62b73be9
 * **ASIN:** B01GCVJSR6
 * **Author:** Alex Kuang
-* **Release Date:** June 2, 2016 @ 02:38:44
+* **Release Date:** June 2, 2016 @ 03:38:44
 * **In-App Purchasing:** No

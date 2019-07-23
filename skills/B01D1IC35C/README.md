@@ -20,5 +20,5 @@ This is a trivia game that quizzes your knowledge about the Boston Baseball hist
 * **ID:** amzn1.echo-sdk-ams.app.173d1437-db75-4401-8c49-604155422e90
 * **ASIN:** B01D1IC35C
 * **Author:** martivic
-* **Release Date:** March 16, 2016 @ 06:04:28
+* **Release Date:** March 16, 2016 @ 07:04:28
 * **In-App Purchasing:** No

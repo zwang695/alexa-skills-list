@@ -24,5 +24,5 @@ This skill provides lottery results, and thus is not suitable for all ages.
 * **ID:** amzn1.ask.skill.d5c8dcad-02e9-4096-839b-79aff1efed5d
 * **ASIN:** B01KDF0GRS
 * **Author:** Alejandro Baldominos
-* **Release Date:** August 18, 2016 @ 08:22:19
+* **Release Date:** August 18, 2016 @ 09:22:19
 * **In-App Purchasing:** No

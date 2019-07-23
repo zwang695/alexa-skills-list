@@ -24,5 +24,5 @@ To begin, simple say "Alexa, launch Air Quality Meter". Then you can ask "What i
 * **ID:** amzn1.echo-sdk-ams.app.b319682d-7649-43dc-a7ba-582f0c74441f
 * **ASIN:** B01DOFHDWA
 * **Author:** James Co
-* **Release Date:** April 15, 2016 @ 19:03:03
+* **Release Date:** April 15, 2016 @ 20:03:03
 * **In-App Purchasing:** No

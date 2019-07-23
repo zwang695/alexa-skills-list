@@ -24,5 +24,5 @@ Try it with teams and play to see which team gets the most points!
 * **ID:** amzn1.echo-sdk-ams.app.b1e3f022-9c6a-42a6-bea1-57b0d4ba2122
 * **ASIN:** B01HK8V36Y
 * **Author:** Bryan Vogel
-* **Release Date:** November 4, 2016 @ 02:13:07
+* **Release Date:** November 4, 2016 @ 03:13:07
 * **In-App Purchasing:** No

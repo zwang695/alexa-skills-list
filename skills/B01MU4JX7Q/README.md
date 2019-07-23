@@ -22,5 +22,5 @@ To use, simply say "Alexa, open Christmas Movies," or "Alexa, ask Christmas Movi
 * **ID:** amzn1.ask.skill.61fe202f-2deb-4b4a-b6eb-89ac24750080
 * **ASIN:** B01MU4JX7Q
 * **Author:** Ethan Kenneth Technologies
-* **Release Date:** December 31, 2016 @ 00:19:32
+* **Release Date:** December 31, 2016 @ 01:19:32
 * **In-App Purchasing:** No

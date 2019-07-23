@@ -20,5 +20,5 @@ Select this skill for interesting Bible facts. Find out more about the best sell
 * **ID:** amzn1.echo-sdk-ams.app.50a86de3-c8d2-44c2-968f-a15ac3a3c12c
 * **ASIN:** B01DR9DH2S
 * **Author:** M Squared 
-* **Release Date:** April 6, 2016 @ 07:03:00
+* **Release Date:** April 6, 2016 @ 08:03:00
 * **In-App Purchasing:** No

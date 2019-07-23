@@ -20,5 +20,5 @@ You want a pet?  But which one is right for you?  Let Alexa help you with the de
 * **ID:** amzn1.ask.skill.51485a00-aa8c-4e7d-ba32-ba1cd14feef5
 * **ASIN:** B01N9JQ4JJ
 * **Author:** ELS
-* **Release Date:** December 22, 2016 @ 08:18:59
+* **Release Date:** December 22, 2016 @ 09:18:59
 * **In-App Purchasing:** No

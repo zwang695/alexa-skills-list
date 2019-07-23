@@ -20,5 +20,5 @@ The Kirkwood Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.35046057-fe3d-48c3-9541-f0867016db96
 * **ASIN:** B01M10F0XT
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:17:40
+* **Release Date:** October 20, 2016 @ 04:17:40
 * **In-App Purchasing:** No

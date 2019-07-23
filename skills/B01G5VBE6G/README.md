@@ -33,7 +33,7 @@ Disclaimer - You must be atleast 21 years old to use the Buttery skill. A valid 
 * **ID:** amzn1.echo-sdk-ams.app.08b4b620-6592-4d8d-b5c6-e2e8e4ad04be
 * **ASIN:** B01G5VBE6G
 * **Author:** Buttery
-* **Release Date:** June 7, 2016 @ 18:08:38
+* **Release Date:** June 7, 2016 @ 19:08:38
 * **Privacy Policy:** https://www.butteryapp.com/privacy
 * **Terms of Use:** https://www.butteryapp.com/terms/
 * **Account Linking Domains:** butteryapp.com

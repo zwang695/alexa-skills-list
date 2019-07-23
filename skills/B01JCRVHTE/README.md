@@ -30,5 +30,5 @@ This skill address questions from low level to intermediate level. we will raise
 * **ID:** amzn1.ask.skill.afd16932-db4e-42a4-a5f7-c8c1c5ba0679
 * **ASIN:** B01JCRVHTE
 * **Author:** HarshaDeep
-* **Release Date:** August 4, 2016 @ 07:11:31
+* **Release Date:** August 4, 2016 @ 08:11:31
 * **In-App Purchasing:** No

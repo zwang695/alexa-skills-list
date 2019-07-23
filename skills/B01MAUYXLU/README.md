@@ -20,5 +20,5 @@ Learn random facts about the Star Wars movies, characters and actors. This skill
 * **ID:** amzn1.ask.skill.f0063a71-4f9a-45e0-aa24-83aecf5f7cba
 * **ASIN:** B01MAUYXLU
 * **Author:** Gregory Roodt
-* **Release Date:** November 13, 2016 @ 08:12:50
+* **Release Date:** November 13, 2016 @ 09:12:50
 * **In-App Purchasing:** No

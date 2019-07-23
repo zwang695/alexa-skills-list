@@ -20,5 +20,5 @@ The Book of John tells you random, fun tidbits about the creator's semi-interest
 * **ID:** amzn1.ask.skill.e0c4dfd7-00dd-4033-95ba-efe74cd154dd
 * **ASIN:** B01LYXVEUK
 * **Author:** John Stepan
-* **Release Date:** October 10, 2016 @ 01:42:03
+* **Release Date:** October 10, 2016 @ 02:42:03
 * **In-App Purchasing:** No

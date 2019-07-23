@@ -27,5 +27,5 @@ alexa, open diagnose car
 * **ID:** amzn1.ask.skill.c19b49b5-4d92-4fae-9f13-4c0721092ebc
 * **ASIN:** B01LWHYINK
 * **Author:** Jim Keese
-* **Release Date:** September 12, 2016 @ 02:42:47
+* **Release Date:** September 12, 2016 @ 03:42:47
 * **In-App Purchasing:** No

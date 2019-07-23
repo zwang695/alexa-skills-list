@@ -21,7 +21,7 @@ If you have any questions, please visit the tado° Support page at https://suppo
 * **ID:** amzn1.ask.skill.72a98e74-431b-47a2-bc91-c0723f866d5e
 * **ASIN:** B01EJJFWV4
 * **Author:** tado° GmbH
-* **Release Date:** June 21, 2016 @ 20:15:10
+* **Release Date:** June 21, 2016 @ 21:15:10
 * **Privacy Policy:** https://www.tado.com/en/privacy-policies
 * **Terms of Use:** https://www.tado.com/en/terms-and-conditions
 * **Account Linking Domains:** my.tado.com

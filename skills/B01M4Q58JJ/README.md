@@ -20,5 +20,5 @@ Ask the U.S. Flag Status skill for the status of the State and National flags in
 * **ID:** amzn1.ask.skill.b23afce8-1ea5-4461-99b5-1dd9bfdc63d7
 * **ASIN:** B01M4Q58JJ
 * **Author:** Cat and Bear Apps
-* **Release Date:** November 9, 2016 @ 02:43:20
+* **Release Date:** November 9, 2016 @ 03:43:20
 * **In-App Purchasing:** No

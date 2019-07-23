@@ -34,5 +34,5 @@ There is no limit to the amount of players.
 * **ID:** amzn1.echo-sdk-ams.app.cacdc3ec-c2fc-4d06-8ce6-b8d16b7a434d
 * **ASIN:** B01A69PZI6
 * **Author:** Matthew Okamoto
-* **Release Date:** January 4, 2016 @ 18:55:38
+* **Release Date:** January 4, 2016 @ 19:55:38
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Test your knowledge with Dog Trivia!
 * **ID:** amzn1.echo-sdk-ams.app.2ea4dd88-b0c0-4db4-9dee-17140f44e5e5
 * **ASIN:** B01GM5LCEE
 * **Author:** rickypwnage
-* **Release Date:** June 6, 2016 @ 09:08:38
+* **Release Date:** June 6, 2016 @ 10:08:38
 * **In-App Purchasing:** No

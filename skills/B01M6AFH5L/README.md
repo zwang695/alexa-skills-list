@@ -22,6 +22,6 @@ Privacy notice: Where'sMyPhone collects your phone number and an anonymized iden
 * **ID:** amzn1.ask.skill.134d2d7a-4ed4-469e-bbcf-5776c3e699af
 * **ASIN:** B01M6AFH5L
 * **Author:** Jesse Friedman
-* **Release Date:** November 9, 2016 @ 00:45:17
+* **Release Date:** November 9, 2016 @ 01:45:17
 * **Privacy Policy:** http://wheresmyphone.jesse.ws/privacy/
 * **In-App Purchasing:** No

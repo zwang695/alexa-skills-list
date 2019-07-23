@@ -20,5 +20,5 @@ This trivia game reveals fun facts about U.S. States.
 * **ID:** amzn1.echo-sdk-ams.app.dea254be-1e64-402d-8af5-de9fd7717ad7
 * **ASIN:** B01FIGMN6O
 * **Author:** Sarah Schoonmaker
-* **Release Date:** May 21, 2016 @ 02:38:54
+* **Release Date:** May 21, 2016 @ 03:38:54
 * **In-App Purchasing:** No

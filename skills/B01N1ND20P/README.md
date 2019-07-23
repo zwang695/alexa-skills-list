@@ -23,5 +23,5 @@ wiki.wargaming.net
 * **ID:** amzn1.ask.skill.d72aa696-379d-4067-9e2f-e69d0bf7fecd
 * **ASIN:** B01N1ND20P
 * **Author:** Dierk
-* **Release Date:** December 20, 2016 @ 02:49:38
+* **Release Date:** December 20, 2016 @ 03:49:38
 * **In-App Purchasing:** No

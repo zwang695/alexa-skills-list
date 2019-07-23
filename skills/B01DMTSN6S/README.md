@@ -20,7 +20,7 @@ Littera Report is a platform for providing the best independent journalism in th
 * **ID:** amzn1.echo-sdk-ams.app.f21f8f3c-6aa0-416e-8f9a-5b4c63ce2bc9
 * **ASIN:** B01DMTSN6S
 * **Author:** Healey Engineering
-* **Release Date:** April 11, 2016 @ 07:32:30
+* **Release Date:** April 11, 2016 @ 08:32:30
 * **Privacy Policy:** https://www.litterareport.com/privacy/
 * **Terms of Use:** https://www.litterareport.com/terms/
 * **In-App Purchasing:** No

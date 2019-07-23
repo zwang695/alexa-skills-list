@@ -20,7 +20,7 @@ If you have any questions, please visit the Venstar Alexa FAQ at http://venstar.
 * **ID:** amzn1.ask.skill.cd97c00b-5248-4b0b-ade9-4cfda4143773
 * **ASIN:** B01FRIJRJY
 * **Author:** Venstar Inc.
-* **Release Date:** May 16, 2016 @ 18:08:06
+* **Release Date:** May 16, 2016 @ 19:08:06
 * **Privacy Policy:** https://venstar.skyportcloud.com/page/terms
 * **Terms of Use:** https://venstar.skyportcloud.com/page/terms
 * **Account Linking Domains:** skyportcloud.com, skyport.io

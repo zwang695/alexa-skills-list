@@ -20,5 +20,5 @@ Vocabulary Words provides flashcards for learning difficult English words.
 * **ID:** amzn1.ask.skill.694d32d3-bf87-4742-80f5-62a20706d9df
 * **ASIN:** B01M367KF8
 * **Author:** Sruthi
-* **Release Date:** December 1, 2016 @ 05:35:33
+* **Release Date:** December 1, 2016 @ 06:35:33
 * **In-App Purchasing:** No

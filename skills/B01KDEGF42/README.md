@@ -20,5 +20,5 @@ Parents of new babies often have many questions about developmental milestones. 
 * **ID:** amzn1.ask.skill.bf7cb2d9-6b76-4259-a779-f12fedf5bc8b
 * **ASIN:** B01KDEGF42
 * **Author:** Kim Conti
-* **Release Date:** August 17, 2016 @ 06:22:18
+* **Release Date:** August 17, 2016 @ 07:22:18
 * **In-App Purchasing:** No

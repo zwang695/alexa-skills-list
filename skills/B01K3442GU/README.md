@@ -30,5 +30,5 @@ PokEvolve for Pokemon GO is an unofficial skill and is not affiliated with or en
 * **ID:** amzn1.ask.skill.dbcb6ff5-f704-4caa-a4cc-c5ac041c2ec7
 * **ASIN:** B01K3442GU
 * **Author:** Majel Tech
-* **Release Date:** August 11, 2016 @ 01:07:45
+* **Release Date:** August 11, 2016 @ 02:07:45
 * **In-App Purchasing:** No

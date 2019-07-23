@@ -20,5 +20,5 @@ General facts about the country Korea. I am from Korea, and I've written some ge
 * **ID:** amzn1.ask.skill.654f2b4d-060f-4222-9fd7-b8df8ebc015e
 * **ASIN:** B01KPCIK04
 * **Author:** Simon
-* **Release Date:** August 23, 2016 @ 03:18:52
+* **Release Date:** August 23, 2016 @ 04:18:52
 * **In-App Purchasing:** No

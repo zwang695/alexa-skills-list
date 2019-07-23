@@ -20,7 +20,7 @@ Earthquakes will tell you all of the recent earthquakes around the world. Ask ea
 * **ID:** amzn1.echo-sdk-ams.app.fadc6792-08ac-4834-bc31-d178eb0cf4fa
 * **ASIN:** B01AX7PVIK
 * **Author:** HDRider
-* **Release Date:** January 21, 2016 @ 16:34:27
+* **Release Date:** January 21, 2016 @ 17:34:27
 * **Privacy Policy:** http://www.hrdirder.net/policy.html
 * **Terms of Use:** http://www.hdrider.net/terms.html
 * **In-App Purchasing:** No

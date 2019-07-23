@@ -22,5 +22,5 @@ This skill is easily entertaining for a party of one or more! Alexa asks you 5 q
 * **ID:** amzn1.echo-sdk-ams.app.256a4833-b228-4c6c-af29-29a820731463
 * **ASIN:** B01IIIJ10U
 * **Author:** Kita Richard
-* **Release Date:** July 18, 2016 @ 09:27:25
+* **Release Date:** July 18, 2016 @ 10:27:25
 * **In-App Purchasing:** No

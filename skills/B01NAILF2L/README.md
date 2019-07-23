@@ -29,5 +29,5 @@ Ho! Ho! Ho! Merry Christmas!
 * **ID:** amzn1.ask.skill.0d674a60-502d-4ce6-8c1f-d5a45e943fe1
 * **ASIN:** B01NAILF2L
 * **Author:** RedPlant
-* **Release Date:** December 14, 2016 @ 00:19:48
+* **Release Date:** December 14, 2016 @ 01:19:48
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Revelstoke Mountain Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.75a0e4a1-ad63-4390-8253-bd9a6d13c45c
 * **ASIN:** B01LX0DTA0
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:45:29
+* **Release Date:** October 20, 2016 @ 04:45:29
 * **In-App Purchasing:** No

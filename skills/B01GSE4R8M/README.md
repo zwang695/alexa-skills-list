@@ -20,5 +20,5 @@ This app is intended to help while tuning instruments, or any other situation wh
 * **ID:** amzn1.echo-sdk-ams.app.22ee8098-8c05-495c-bccf-8dff2fd7bb14
 * **ASIN:** B01GSE4R8M
 * **Author:** Erik Lane
-* **Release Date:** June 17, 2016 @ 06:45:34
+* **Release Date:** June 17, 2016 @ 07:45:34
 * **In-App Purchasing:** No

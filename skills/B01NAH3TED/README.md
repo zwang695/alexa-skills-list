@@ -20,5 +20,5 @@ learn more about MoneyGram and what it offers to it's beloved customers
 * **ID:** amzn1.ask.skill.81914692-a4eb-490d-9ec8-124b30b22094
 * **ASIN:** B01NAH3TED
 * **Author:** Mobizability
-* **Release Date:** December 15, 2016 @ 00:19:34
+* **Release Date:** December 15, 2016 @ 01:19:34
 * **In-App Purchasing:** No

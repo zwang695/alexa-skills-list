@@ -20,5 +20,5 @@ The Social Work Exam skill will provide you with daily content material that wil
 * **ID:** amzn1.echo-sdk-ams.app.fbc5e41e-2288-4baf-b34e-ae2166a0bc20
 * **ASIN:** B01I22DR2K
 * **Author:** Licensure Exams, Inc.
-* **Release Date:** July 13, 2016 @ 08:27:33
+* **Release Date:** July 13, 2016 @ 09:27:33
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Impress your friends and family with holiday trivia you learn while the turkey c
 * **ID:** amzn1.ask.skill.17dec890-4b50-4e6d-8957-3731eb8ee209
 * **ASIN:** B01N3OO5GZ
 * **Author:** Brian Cook
-* **Release Date:** November 9, 2016 @ 00:44:52
+* **Release Date:** November 9, 2016 @ 01:44:52
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ CoinWatch helps you convert the price of one coin into another. You can ask Coin
 * **ID:** amzn1.ask.skill.a00e01e5-45dc-49e6-9f8e-8d5a95a77705
 * **ASIN:** B01N3RAD6F
 * **Author:** Reno McKenzie
-* **Release Date:** November 16, 2016 @ 02:06:11
+* **Release Date:** November 16, 2016 @ 03:06:11
 * **In-App Purchasing:** No

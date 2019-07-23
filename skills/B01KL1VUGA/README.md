@@ -20,5 +20,5 @@ Sometimes we forget what is in our favorite dishes.  Alexa will help you remembe
 * **ID:** amzn1.ask.skill.4fc2a9a8-6903-4e72-b9bd-826b2dec3360
 * **ASIN:** B01KL1VUGA
 * **Author:** Apps by Allison via PH
-* **Release Date:** August 22, 2016 @ 08:48:46
+* **Release Date:** August 22, 2016 @ 09:48:46
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Use CryptoCoin to find out the current price that bitcoin is trading at in USD. 
 * **ID:** amzn1.ask.skill.96527380-ed19-43b9-bb08-ab5a3b8021c9
 * **ASIN:** B01N0UFK32
 * **Author:** Cerro San Luis
-* **Release Date:** December 26, 2016 @ 05:49:00
+* **Release Date:** December 26, 2016 @ 06:49:00
 * **In-App Purchasing:** No

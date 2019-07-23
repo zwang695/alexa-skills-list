@@ -20,5 +20,5 @@ Wondering what to do with those turnips? Are those tomatoes about to go bad? Jus
 * **ID:** amzn1.ask.skill.e9aac135-7e8c-44a0-a045-827c4f851543
 * **ASIN:** B01MD1IGWD
 * **Author:** Justin Revelstoke
-* **Release Date:** November 20, 2016 @ 23:06:17
+* **Release Date:** November 21, 2016 @ 00:06:17
 * **In-App Purchasing:** No

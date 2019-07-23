@@ -20,5 +20,5 @@ Act Professor Kay to give you information about different people, places, movies
 * **ID:** amzn1.ask.skill.38d803df-021d-437d-bedb-d14db7ab22f8
 * **ASIN:** B01M6XHE2X
 * **Author:** Corey Hanson
-* **Release Date:** October 27, 2016 @ 02:45:34
+* **Release Date:** October 27, 2016 @ 03:45:34
 * **In-App Purchasing:** No

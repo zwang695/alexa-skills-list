@@ -21,5 +21,5 @@ This skill is not sponsored by or endorsed by the Metropolitan Opera (Met Opera)
 * **ID:** amzn1.ask.skill.3dbe8a6d-870f-47d4-ba4b-369092244d6b
 * **ASIN:** B01N0OP53A
 * **Author:** Ivy Lee
-* **Release Date:** December 12, 2016 @ 04:49:33
+* **Release Date:** December 12, 2016 @ 05:49:33
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Now many of the smartest and most inspiring things Mark Twain ever said are avai
 * **ID:** amzn1.echo-sdk-ams.app.22061f61-62f5-4b47-afe0-a9091734bd3a
 * **ASIN:** B01HAHOGS2
 * **Author:** Jer Warren
-* **Release Date:** June 21, 2016 @ 05:45:34
+* **Release Date:** June 21, 2016 @ 06:45:34
 * **In-App Purchasing:** No

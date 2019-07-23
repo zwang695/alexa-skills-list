@@ -20,5 +20,5 @@ Alexa will give you different numbers of german Bundesliga clubs and you have to
 * **ID:** amzn1.ask.skill.b35861e3-5da3-42bc-bcc0-68e426a863c4
 * **ASIN:** B01N2RQAAR
 * **Author:** SebBecks
-* **Release Date:** December 14, 2016 @ 01:49:43
+* **Release Date:** December 14, 2016 @ 02:49:43
 * **In-App Purchasing:** No

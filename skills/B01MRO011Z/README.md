@@ -20,5 +20,5 @@ Noteboard helps you keep track of basic tasks, like feeding your pet, or running
 * **ID:** amzn1.ask.skill.60f3c7bf-757f-45e5-9572-cb1b52b4aad8
 * **ASIN:** B01MRO011Z
 * **Author:** Don Ferencz
-* **Release Date:** November 29, 2016 @ 01:35:19
+* **Release Date:** November 29, 2016 @ 02:35:19
 * **In-App Purchasing:** No

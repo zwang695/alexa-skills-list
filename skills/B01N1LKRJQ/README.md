@@ -23,5 +23,5 @@ Multiple suggestions are available for each search, and full descriptions & rati
 * **ID:** amzn1.ask.skill.5a0779c0-9150-441d-849e-61b482f37e3c
 * **ASIN:** B01N1LKRJQ
 * **Author:** WebDeely
-* **Release Date:** December 3, 2016 @ 05:05:28
+* **Release Date:** December 3, 2016 @ 06:05:28
 * **In-App Purchasing:** No

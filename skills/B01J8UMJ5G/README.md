@@ -20,5 +20,5 @@ Research shows planning allows us to eat nutritional meals. Meal planner allows 
 * **ID:** amzn1.echo-sdk-ams.app.4f335aed-a5e5-43b6-b2ca-d61275383a73
 * **ASIN:** B01J8UMJ5G
 * **Author:** Adharas
-* **Release Date:** August 8, 2016 @ 03:08:01
+* **Release Date:** August 8, 2016 @ 04:08:01
 * **In-App Purchasing:** No

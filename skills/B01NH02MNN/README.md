@@ -20,5 +20,5 @@ This skill is a quiz that will take you from a complete beer ignoramus to somewh
 * **ID:** amzn1.ask.skill.adc818ca-9395-4a53-89fa-3d911dbf535d
 * **ASIN:** B01NH02MNN
 * **Author:** Phil Lawrence
-* **Release Date:** December 29, 2016 @ 04:20:20
+* **Release Date:** December 29, 2016 @ 05:20:20
 * **In-App Purchasing:** No

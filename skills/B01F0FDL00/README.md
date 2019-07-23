@@ -22,5 +22,5 @@ The IoT Trivia Game will ask you 5 questions about the Internet of Things, try t
 * **ID:** amzn1.echo-sdk-ams.app.450f63fa-ee49-4090-a9ca-45354bb22eb3
 * **ASIN:** B01F0FDL00
 * **Author:** Ulanov Software
-* **Release Date:** May 4, 2016 @ 09:38:40
+* **Release Date:** May 4, 2016 @ 10:38:40
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Movies for redbox tells you the latest and popular movies you can rent from redb
 * **ID:** amzn1.echo-sdk-ams.app.e3300666-52f0-4e5f-969b-637d13c2a125
 * **ASIN:** B01EEK7QGC
 * **Author:** James
-* **Release Date:** April 25, 2016 @ 15:08:35
+* **Release Date:** April 25, 2016 @ 16:08:35
 * **In-App Purchasing:** No

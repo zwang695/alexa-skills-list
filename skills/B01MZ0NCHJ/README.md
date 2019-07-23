@@ -22,5 +22,5 @@ This skill contains some fun facts about the Philippine Islands.
 * **ID:** amzn1.ask.skill.e03b317e-545f-494c-806b-7be72288a9aa
 * **ASIN:** B01MZ0NCHJ
 * **Author:** FN
-* **Release Date:** December 20, 2016 @ 05:49:25
+* **Release Date:** December 20, 2016 @ 06:49:25
 * **In-App Purchasing:** No

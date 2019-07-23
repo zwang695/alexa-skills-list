@@ -20,5 +20,5 @@ This skill offers basic facts about the Kentucky Legislature, including how to c
 * **ID:** amzn1.ask.skill.db51fe27-081e-4343-89ae-245131aec171
 * **ASIN:** B01KH3L57G
 * **Author:** Amy Rose Karr
-* **Release Date:** August 18, 2016 @ 01:52:41
+* **Release Date:** August 18, 2016 @ 02:52:41
 * **In-App Purchasing:** No

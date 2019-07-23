@@ -16,5 +16,5 @@ Here is a list of fun solar power facts!  They range from scientific to historic
 * **ID:** amzn1.ask.skill.6b2ec9e8-2096-476c-ab24-4be4b204b538
 * **ASIN:** B01M60PZYT
 * **Author:** Shanee Ossa
-* **Release Date:** October 11, 2016 @ 09:42:09
+* **Release Date:** October 11, 2016 @ 10:42:09
 * **In-App Purchasing:** No

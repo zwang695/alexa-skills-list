@@ -20,5 +20,5 @@ Fun facts about Carl Friedrich Gauss, based on the collection curated by Mike Ca
 * **ID:** amzn1.ask.skill.f8e52c23-10d4-4c37-b142-0fdf62238c07
 * **ASIN:** B01KGPDBVS
 * **Author:** zippeurfou
-* **Release Date:** August 17, 2016 @ 01:52:27
+* **Release Date:** August 17, 2016 @ 02:52:27
 * **In-App Purchasing:** No

@@ -30,5 +30,5 @@ I do not take any liability for you actually following the advice.
 * **ID:** amzn1.ask.skill.c08a6415-3713-4c0e-bb7f-5c520e2a12b1
 * **ASIN:** B01M8I28IL
 * **Author:** Kathryn L Webb
-* **Release Date:** October 25, 2016 @ 01:14:02
+* **Release Date:** October 25, 2016 @ 02:14:02
 * **In-App Purchasing:** No

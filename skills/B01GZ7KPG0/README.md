@@ -20,5 +20,5 @@ This skills tells 'yo mama' jokes
 * **ID:** amzn1.echo-sdk-ams.app.bea3cf2d-d275-46d7-90ce-fc37941a6599
 * **ASIN:** B01GZ7KPG0
 * **Author:** Qubz, LLC
-* **Release Date:** June 13, 2016 @ 09:09:35
+* **Release Date:** June 13, 2016 @ 10:09:35
 * **In-App Purchasing:** No

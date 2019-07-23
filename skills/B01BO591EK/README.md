@@ -18,5 +18,5 @@ If you play America's Pub Quiz trivia in Madison, WI... you always want to get t
 * **ID:** amzn1.echo-sdk-ams.app.cbca4dd5-4743-4895-9283-d45c644702b9
 * **ASIN:** B01BO591EK
 * **Author:** Bachelor Pad Development
-* **Release Date:** February 11, 2016 @ 15:25:05
+* **Release Date:** February 11, 2016 @ 16:25:05
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Loon Mountain Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.21ff0ffb-a052-4286-b7a8-70aa15833baf
 * **ASIN:** B01M5FG4Z3
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 01:47:52
+* **Release Date:** October 26, 2016 @ 02:47:52
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Disclaimer: This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.5cc75c80-3453-47c4-ae2f-7cc7300c5c6c
 * **ASIN:** B01JGS47LY
 * **Author:** Digivine
-* **Release Date:** August 3, 2016 @ 02:41:48
+* **Release Date:** August 3, 2016 @ 03:41:48
 * **In-App Purchasing:** No

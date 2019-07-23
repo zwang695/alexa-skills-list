@@ -20,5 +20,5 @@ The Nordic Valley Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.a551545b-8ea1-4816-87b7-2fc3f7acb601
 * **ASIN:** B01MDV7OXL
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:43:14
+* **Release Date:** November 4, 2016 @ 09:43:14
 * **In-App Purchasing:** No

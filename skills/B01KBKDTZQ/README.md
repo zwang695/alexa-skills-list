@@ -20,5 +20,5 @@ This app gives small tidbits of information and phrases about motorcycles.  Ask 
 * **ID:** amzn1.ask.skill.b528485b-fe24-42a8-bba8-c94a104a6b11
 * **ASIN:** B01KBKDTZQ
 * **Author:** Freelance
-* **Release Date:** August 16, 2016 @ 05:09:38
+* **Release Date:** August 16, 2016 @ 06:09:38
 * **In-App Purchasing:** No

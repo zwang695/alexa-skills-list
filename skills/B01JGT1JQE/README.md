@@ -20,5 +20,5 @@ The Computer History Museum in Mountain View California is a wonderful place to 
 * **ID:** amzn1.ask.skill.1a9edfec-ee9d-474d-a25d-b20649f90c76
 * **ASIN:** B01JGT1JQE
 * **Author:** Logtown
-* **Release Date:** August 5, 2016 @ 02:37:45
+* **Release Date:** August 5, 2016 @ 03:37:45
 * **In-App Purchasing:** No

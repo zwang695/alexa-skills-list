@@ -20,5 +20,5 @@ Take a multiple choice quiz to learn state capitals. If you do this enough, you 
 * **ID:** amzn1.ask.skill.0235bb74-40c9-4353-8f1f-21b6a8ecd487
 * **ASIN:** B01K5XUCFE
 * **Author:** Ben Duncan
-* **Release Date:** August 12, 2016 @ 02:37:55
+* **Release Date:** August 12, 2016 @ 03:37:55
 * **In-App Purchasing:** No

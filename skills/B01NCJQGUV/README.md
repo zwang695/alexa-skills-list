@@ -33,6 +33,6 @@ This skill and the Honeydew Android application are not affiliated with Honeydew
 * **ID:** amzn1.echo-sdk-ams.app.51da25aa-fe17-4524-a792-4cccf801b50d
 * **ASIN:** B01NCJQGUV
 * **Author:** Dane Powell
-* **Release Date:** December 22, 2016 @ 04:19:26
+* **Release Date:** December 22, 2016 @ 05:19:26
 * **Privacy Policy:** https://www.docracy.com/0nppe6k5eox/honeydew-privacy-policy
 * **In-App Purchasing:** No

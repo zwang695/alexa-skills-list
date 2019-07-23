@@ -26,5 +26,5 @@ Then, say "Alexa, ask Vegan Facts for a fact."
 * **ID:** amzn1.ask.skill.aff200f1-6c63-4e43-a70f-aa3225801e4e
 * **ASIN:** B01LWDOBQO
 * **Author:** Ethan Kenneth Technologies
-* **Release Date:** September 12, 2016 @ 01:42:47
+* **Release Date:** September 12, 2016 @ 02:42:47
 * **In-App Purchasing:** No

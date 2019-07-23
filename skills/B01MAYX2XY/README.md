@@ -30,5 +30,5 @@ Can you achieve the perfect score?
 * **ID:** amzn1.ask.skill.16a07585-8905-4e51-a66d-cb091fa503d1
 * **ASIN:** B01MAYX2XY
 * **Author:** codecat.net
-* **Release Date:** October 25, 2016 @ 01:13:38
+* **Release Date:** October 25, 2016 @ 02:13:38
 * **In-App Purchasing:** No

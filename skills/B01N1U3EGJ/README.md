@@ -20,5 +20,5 @@ An exam-prep tool for your General-class Ham Radio license.  Each exam will pick
 * **ID:** amzn1.ask.skill.f6b9ab17-c82a-4645-969f-4810acced422
 * **ASIN:** B01N1U3EGJ
 * **Author:** nine70 labs
-* **Release Date:** December 25, 2016 @ 00:19:07
+* **Release Date:** December 25, 2016 @ 01:19:07
 * **In-App Purchasing:** No

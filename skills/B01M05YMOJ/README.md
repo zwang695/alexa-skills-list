@@ -17,5 +17,5 @@ Have a grand ole evening watching some great recommended Japanese movies.
 * **ID:** amzn1.ask.skill.e3d3c7af-01e4-4be2-af18-365ac14f2052
 * **ASIN:** B01M05YMOJ
 * **Author:** R+E
-* **Release Date:** September 22, 2016 @ 01:42:10
+* **Release Date:** September 22, 2016 @ 02:42:10
 * **In-App Purchasing:** No

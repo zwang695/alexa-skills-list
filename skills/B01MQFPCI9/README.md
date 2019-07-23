@@ -18,5 +18,5 @@ Find the frequency of your local radio stations in U.S. cities
 * **ID:** amzn1.ask.skill.d5f064c1-1878-4ad3-8c25-7319e1edf74f
 * **ASIN:** B01MQFPCI9
 * **Author:** MrE
-* **Release Date:** November 17, 2016 @ 02:06:16
+* **Release Date:** November 17, 2016 @ 03:06:16
 * **In-App Purchasing:** No

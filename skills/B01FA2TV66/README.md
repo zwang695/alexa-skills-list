@@ -20,7 +20,7 @@ You can ask Alexa to control several of the sensor mirror pro’s features such 
 * **ID:** amzn1.echo-sdk-ams.app.ae7ba57f-87ec-448f-834a-64fba306957f
 * **ASIN:** B01FA2TV66
 * **Author:** simplehuman
-* **Release Date:** May 26, 2016 @ 17:08:42
+* **Release Date:** May 26, 2016 @ 18:08:42
 * **Privacy Policy:** http://www.simplehuman.com/privacy-policy/
 * **Account Linking Domains:** dev-simpleplus.simplehuman.com, stage-simpleplus.simplehuman.com, simpleplus.simplehuman.com
 * **In-App Purchasing:** No

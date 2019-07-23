@@ -20,5 +20,5 @@ Do you ever wonder to travel to Nepal? Ask this skill to know more about Nepal a
 * **ID:** amzn1.ask.skill.91daa3d9-f007-4a14-a40c-c8813ef5f37a
 * **ASIN:** B01MSKE089
 * **Author:** Binaya Shrestha
-* **Release Date:** November 16, 2016 @ 01:35:51
+* **Release Date:** November 16, 2016 @ 02:35:51
 * **In-App Purchasing:** No

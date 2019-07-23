@@ -20,5 +20,5 @@ Star Trek Facts for Trekkies, find interesting facts about your favorite Star Tr
 * **ID:** amzn1.echo-sdk-ams.app.b78010c2-b714-493b-be53-2ab730811d3d
 * **ASIN:** B01FYBIN94
 * **Author:** TLE Creations
-* **Release Date:** May 23, 2016 @ 06:08:38
+* **Release Date:** May 23, 2016 @ 07:08:38
 * **In-App Purchasing:** No

@@ -26,5 +26,5 @@ Alexa, ask fun geek to give me some interesting information
 * **ID:** amzn1.ask.skill.a20b25c7-3a6e-4f80-b582-03f37a8d88a0
 * **ASIN:** B01IYHMWLU
 * **Author:** Jayakanthan
-* **Release Date:** July 27, 2016 @ 02:56:51
+* **Release Date:** July 27, 2016 @ 03:56:51
 * **In-App Purchasing:** No

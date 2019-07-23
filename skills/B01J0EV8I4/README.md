@@ -20,5 +20,5 @@ Egg Facts dispenses egg-related trivia upon request. If you had pressing questio
 * **ID:** amzn1.ask.skill.753606f5-bd67-416a-bc37-9aea029feca9
 * **ASIN:** B01J0EV8I4
 * **Author:** John Carney
-* **Release Date:** July 27, 2016 @ 04:26:26
+* **Release Date:** July 27, 2016 @ 05:26:26
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ This skill provides the latest storm information about tropical storms and hurri
 * **ID:** amzn1.echo-sdk-ams.app.709af9ef-d5eb-48dd-a90a-0dc48dc822d6
 * **ASIN:** B01EFCJ0OU
 * **Author:** Drawrz.com
-* **Release Date:** May 2, 2016 @ 02:08:30
+* **Release Date:** May 2, 2016 @ 03:08:30
 * **In-App Purchasing:** No

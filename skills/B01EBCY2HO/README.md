@@ -25,5 +25,5 @@ You can play alone or can play with your family members to know who has more kno
 * **ID:** amzn1.echo-sdk-ams.app.dfb77f08-3603-4708-a076-7eb44f346f35
 * **ASIN:** B01EBCY2HO
 * **Author:** Makarand Pande
-* **Release Date:** April 19, 2016 @ 04:32:33
+* **Release Date:** April 19, 2016 @ 05:32:33
 * **In-App Purchasing:** No

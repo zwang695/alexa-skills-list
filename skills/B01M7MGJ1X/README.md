@@ -20,5 +20,5 @@ This skill tells you one of a short list of random things about pigs.  The purpo
 * **ID:** amzn1.ask.skill.375a4f9a-6256-47c8-a825-2911796c5435
 * **ASIN:** B01M7MGJ1X
 * **Author:** Perilon
-* **Release Date:** October 11, 2016 @ 09:41:56
+* **Release Date:** October 11, 2016 @ 10:41:56
 * **In-App Purchasing:** No

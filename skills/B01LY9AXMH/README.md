@@ -20,5 +20,5 @@ Every startup and entrepreneur enthusiast needs to know these facts!
 * **ID:** amzn1.ask.skill.bb4657a9-5508-42d8-90ec-89f3b6c27116
 * **ASIN:** B01LY9AXMH
 * **Author:** Mathias Nestler
-* **Release Date:** September 28, 2016 @ 18:13:44
+* **Release Date:** September 28, 2016 @ 19:13:44
 * **In-App Purchasing:** No

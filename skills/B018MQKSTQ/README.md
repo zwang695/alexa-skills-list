@@ -25,7 +25,7 @@ You can ask for help at any time by simply saying “help me” and cancel your 
 * **ID:** amzn1.echo-sdk-ams.app.4f0914d6-c863-4388-8794-4a7cb000b134
 * **ASIN:** B018MQKSTQ
 * **Author:** AOL Inc.
-* **Release Date:** November 27, 2015 @ 12:58:14
+* **Release Date:** November 27, 2015 @ 13:58:14
 * **Privacy Policy:** http://privacy.aol.com/
 * **Terms of Use:** http://legal.aol.com/TOS/
 * **In-App Purchasing:** No

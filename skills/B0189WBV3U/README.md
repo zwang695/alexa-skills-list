@@ -20,5 +20,5 @@ The Age Calculator helps you calculate age between now and a given date, whether
 * **ID:** amzn1.echo-sdk-ams.app.ae05c636-fcc3-4895-a645-37d46c9adcb2
 * **ASIN:** B0189WBV3U
 * **Author:** Mike Christianson
-* **Release Date:** November 20, 2015 @ 17:26:36
+* **Release Date:** November 20, 2015 @ 18:26:36
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Some Hong Kong Facts
 * **ID:** amzn1.ask.skill.d8afb5e3-2fb1-437a-a76e-03361d53155d
 * **ASIN:** B01KDGK4AG
 * **Author:** NYU Stern
-* **Release Date:** August 16, 2016 @ 01:38:34
+* **Release Date:** August 16, 2016 @ 02:38:34
 * **In-App Purchasing:** No

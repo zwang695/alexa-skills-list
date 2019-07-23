@@ -20,5 +20,5 @@ This skill will tell you the current World of Warcraft token gold price. Current
 * **ID:** amzn1.ask.skill.563730b2-e2c4-492d-aa37-4081439a8e86
 * **ASIN:** B01M2WF37S
 * **Author:** Rick Schrader
-* **Release Date:** October 21, 2016 @ 16:11:56
+* **Release Date:** October 21, 2016 @ 17:11:56
 * **In-App Purchasing:** No

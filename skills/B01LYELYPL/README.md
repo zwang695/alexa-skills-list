@@ -20,5 +20,5 @@ The Squaw Valley Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.605fcba6-3dff-46f1-bf62-9852909cb16b
 * **ASIN:** B01LYELYPL
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:45:24
+* **Release Date:** October 20, 2016 @ 04:45:24
 * **In-App Purchasing:** No

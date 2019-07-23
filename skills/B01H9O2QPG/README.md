@@ -24,5 +24,5 @@ User: "Translate song one"
 * **ID:** amzn1.echo-sdk-ams.app.065f8e9c-d596-4e40-beea-f6935ea7e2b0
 * **ASIN:** B01H9O2QPG
 * **Author:** Prinika
-* **Release Date:** June 21, 2016 @ 05:45:42
+* **Release Date:** June 21, 2016 @ 06:45:42
 * **In-App Purchasing:** No

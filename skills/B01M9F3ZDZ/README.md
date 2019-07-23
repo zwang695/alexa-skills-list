@@ -20,5 +20,5 @@ The McIntyre Ski Area Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.2a2a35ec-9cc5-4db2-8d1a-ee3a80445511
 * **ASIN:** B01M9F3ZDZ
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 02:13:26
+* **Release Date:** October 26, 2016 @ 03:13:26
 * **In-App Purchasing:** No

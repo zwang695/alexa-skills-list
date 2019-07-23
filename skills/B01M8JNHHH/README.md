@@ -20,5 +20,5 @@ This is the unofficial fact skill for the video game Destiny, Rise of Iron.  Lea
 * **ID:** amzn1.ask.skill.13ca9c77-0bc4-4d06-b0ff-efcbcd2d530b
 * **ASIN:** B01M8JNHHH
 * **Author:** Stacy Stonich
-* **Release Date:** October 22, 2016 @ 02:43:09
+* **Release Date:** October 22, 2016 @ 03:43:09
 * **In-App Purchasing:** No

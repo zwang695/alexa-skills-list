@@ -24,5 +24,5 @@ When your done playing, just tell Blackjack Dealer "No" when asked about playing
 * **ID:** amzn1.ask.skill.4cd2e1ba-858c-4355-92df-67fe6a9e68a0
 * **ASIN:** B01LW0N8KL
 * **Author:** Tree Frog Labs
-* **Release Date:** September 12, 2016 @ 02:13:11
+* **Release Date:** September 12, 2016 @ 03:13:11
 * **In-App Purchasing:** No

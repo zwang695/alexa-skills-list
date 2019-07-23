@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.aeb81721-0c6d-4219-aa55-dfe3e32d68f0
 * **ASIN:** B01NBKYBCI
 * **Author:** acd_cli
-* **Release Date:** December 26, 2016 @ 01:48:58
+* **Release Date:** December 26, 2016 @ 02:48:58
 * **In-App Purchasing:** No

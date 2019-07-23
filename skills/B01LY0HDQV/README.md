@@ -24,7 +24,7 @@ Link with your Amazon account to upgrade your subscription!
 * **ID:** amzn1.ask.skill.f98a2092-3e43-4c5b-8703-13227cbfadf6
 * **ASIN:** B01LY0HDQV
 * **Author:** Big Bet Free, LLC
-* **Release Date:** November 21, 2016 @ 09:05:41
+* **Release Date:** November 21, 2016 @ 10:05:41
 * **Privacy Policy:** https://bigbetfree.com/privacypolicy
 * **Terms of Use:** https://bigbetfree.com/termsofuse
 * **Account Linking Domains:** d8jxsj9lnm7nx.cloudfront.net, cloudfront.net, amazon.com

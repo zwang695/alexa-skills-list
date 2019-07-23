@@ -20,7 +20,7 @@ Five trivia questions from the 80s
 * **ID:** amzn1.ask.skill.67ed1d74-04f9-4be0-bc17-636f8bcb32e7
 * **ASIN:** B01JVOUQJA
 * **Author:** Creative Arts and Technology
-* **Release Date:** August 11, 2016 @ 01:37:38
+* **Release Date:** August 11, 2016 @ 02:37:38
 * **Privacy Policy:** http://ledpixelart.com/privacy-policy/
 * **Terms of Use:** http://ledpixelart.com/terms-of-use/
 * **In-App Purchasing:** No

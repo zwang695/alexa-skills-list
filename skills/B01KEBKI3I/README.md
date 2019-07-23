@@ -20,5 +20,5 @@ This will provide a movie quotes from popular 1980s movies.
 * **ID:** amzn1.ask.skill.5f69ff7f-c493-4e26-821c-75f53cd6b8f7
 * **ASIN:** B01KEBKI3I
 * **Author:** Alex Beggs
-* **Release Date:** August 17, 2016 @ 05:52:42
+* **Release Date:** August 17, 2016 @ 06:52:42
 * **In-App Purchasing:** No

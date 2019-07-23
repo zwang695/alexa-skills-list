@@ -20,5 +20,5 @@ Going keto doesn't mean you can only eat eggs, bacon, and butter. Keto Pal can t
 * **ID:** amzn1.echo-sdk-ams.app.d8a64ff8-0913-4ff9-a01b-743e8741eb8a
 * **ASIN:** B01HGYLRC2
 * **Author:** Sami Jawhar
-* **Release Date:** June 27, 2016 @ 04:15:39
+* **Release Date:** June 27, 2016 @ 05:15:39
 * **In-App Purchasing:** No

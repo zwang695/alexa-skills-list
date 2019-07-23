@@ -20,5 +20,5 @@ Did you know? The Syrian Hamster is the most popular breed of hamster to have as
 * **ID:** amzn1.ask.skill.f9e63660-0ea1-404f-8fd3-a95801eac253
 * **ASIN:** B01M2X3ED6
 * **Author:** Tobias Domhan
-* **Release Date:** October 18, 2016 @ 04:43:05
+* **Release Date:** October 18, 2016 @ 05:43:05
 * **In-App Purchasing:** No

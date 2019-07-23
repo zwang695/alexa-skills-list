@@ -20,5 +20,5 @@ PoffinDex helps trainers keep track of which berries support growth in certain c
 * **ID:** amzn1.ask.skill.7120dd31-5d17-4e6f-821e-43e17783ea7e
 * **ASIN:** B01MXHS307
 * **Author:** Shwheelz
-* **Release Date:** November 25, 2016 @ 03:39:45
+* **Release Date:** November 25, 2016 @ 04:39:45
 * **In-App Purchasing:** No

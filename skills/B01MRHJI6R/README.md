@@ -20,5 +20,5 @@ Song Genius helps you find the meaning behind the lyrics to your favorite songs 
 * **ID:** amzn1.ask.skill.a1a7b839-1953-4e38-91f8-23012bbf9475
 * **ASIN:** B01MRHJI6R
 * **Author:** Aurnik
-* **Release Date:** November 25, 2016 @ 04:08:33
+* **Release Date:** November 25, 2016 @ 05:08:33
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Use this skill to know about Bangladesh which is home to 700 rivers; royal benga
 * **ID:** amzn1.ask.skill.88988a16-28fe-41c9-bc95-8db0871317fa
 * **ASIN:** B01MZ00FXV
 * **Author:** Obvious Design
-* **Release Date:** December 16, 2016 @ 05:50:19
+* **Release Date:** December 16, 2016 @ 06:50:19
 * **In-App Purchasing:** No

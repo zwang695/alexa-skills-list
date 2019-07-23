@@ -20,5 +20,5 @@ With CARVIS you can get the average taxi fare from an airport to your hotel, and
 * **ID:** amzn1.ask.skill.7ff009fa-df68-4cd4-b6fd-9500d4791b42
 * **ASIN:** B01KNE8Z9K
 * **Author:** Complex Joins
-* **Release Date:** August 25, 2016 @ 07:31:34
+* **Release Date:** August 25, 2016 @ 08:31:34
 * **In-App Purchasing:** No

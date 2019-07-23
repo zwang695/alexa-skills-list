@@ -20,5 +20,5 @@ Test your knowledge of musicians and bands of the San Francisco Bay Area.
 * **ID:** amzn1.ask.skill.da55e246-4226-4a89-a852-0051cf6b4220
 * **ASIN:** B01J95L7QW
 * **Author:** Jeepney Labs
-* **Release Date:** July 29, 2016 @ 05:56:34
+* **Release Date:** July 29, 2016 @ 06:56:34
 * **In-App Purchasing:** No

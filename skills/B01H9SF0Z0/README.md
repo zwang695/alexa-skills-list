@@ -20,5 +20,5 @@ The skill provides good hikes around Bay Area. It works with the invocation call
 * **ID:** amzn1.echo-sdk-ams.app.996477fa-31b3-4621-9d29-5d658d271c3c
 * **ASIN:** B01H9SF0Z0
 * **Author:** Prinika
-* **Release Date:** June 21, 2016 @ 04:15:32
+* **Release Date:** June 21, 2016 @ 05:15:32
 * **In-App Purchasing:** No

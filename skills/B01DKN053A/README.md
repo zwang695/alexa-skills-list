@@ -24,5 +24,5 @@ This skill is an entertaining way to test and enhance your geography knowledge. 
 * **ID:** amzn1.echo-sdk-ams.app.c571027f-7086-486f-8bee-04018010ec3c
 * **ASIN:** B01DKN053A
 * **Author:** umov
-* **Release Date:** March 29, 2016 @ 06:54:53
+* **Release Date:** March 29, 2016 @ 07:54:53
 * **In-App Purchasing:** No

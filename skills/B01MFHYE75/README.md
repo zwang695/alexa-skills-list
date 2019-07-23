@@ -20,5 +20,5 @@ This skill will provide random facts from Nicaragua which is a country on Centra
 * **ID:** amzn1.ask.skill.6bdb9ff7-e4ed-413e-8124-e01b9ae22f81
 * **ASIN:** B01MFHYE75
 * **Author:** Jose Matus
-* **Release Date:** November 10, 2016 @ 00:43:07
+* **Release Date:** November 10, 2016 @ 01:43:07
 * **In-App Purchasing:** No

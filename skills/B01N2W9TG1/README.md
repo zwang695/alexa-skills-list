@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.2e4e1441-4d4d-497e-8dea-81fbf2b2540a
 * **ASIN:** B01N2W9TG1
 * **Author:** Joao Duarte
-* **Release Date:** December 22, 2016 @ 09:48:56
+* **Release Date:** December 22, 2016 @ 10:48:56
 * **In-App Purchasing:** No

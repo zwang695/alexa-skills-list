@@ -20,5 +20,5 @@ Ask Alexa for a random misconception
 * **ID:** amzn1.ask.skill.dfb0160a-29a3-40cf-ac65-a1534284956e
 * **ASIN:** B01N56VYOU
 * **Author:** Nathan McCurley
-* **Release Date:** December 3, 2016 @ 02:35:36
+* **Release Date:** December 3, 2016 @ 03:35:36
 * **In-App Purchasing:** No

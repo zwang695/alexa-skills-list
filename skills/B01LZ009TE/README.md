@@ -20,5 +20,5 @@ Fun facts about the popular little state VERMONT.  Try this trivia game to find 
 * **ID:** amzn1.ask.skill.59d8a880-7b74-46c0-9668-7a816754e724
 * **ASIN:** B01LZ009TE
 * **Author:** ManganLabs.com
-* **Release Date:** October 4, 2016 @ 02:43:42
+* **Release Date:** October 4, 2016 @ 03:43:42
 * **In-App Purchasing:** No

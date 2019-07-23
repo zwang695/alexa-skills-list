@@ -20,5 +20,5 @@ This skill provides ideas for saving energy around the home and in your car. Jus
 * **ID:** amzn1.ask.skill.9c9489c1-d70c-43fc-ab69-299d2d02673b
 * **ASIN:** B01MFE4Q30
 * **Author:** Glove
-* **Release Date:** November 2, 2016 @ 01:12:49
+* **Release Date:** November 2, 2016 @ 02:12:49
 * **In-App Purchasing:** No

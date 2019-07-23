@@ -16,5 +16,5 @@ Sleeping alone tonight?  You are never alone when Alexa is beside you. Wish Alex
 * **ID:** amzn1.ask.skill.8efd2ea9-589f-41c2-bd44-d11bd6cdf0a0
 * **ASIN:** B01N03FUSI
 * **Author:** gshenar
-* **Release Date:** November 15, 2016 @ 00:05:34
+* **Release Date:** November 15, 2016 @ 01:05:34
 * **In-App Purchasing:** No

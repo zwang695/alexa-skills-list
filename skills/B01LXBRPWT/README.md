@@ -20,5 +20,5 @@ facts & trivia about software for web development
 * **ID:** amzn1.ask.skill.c76c30a9-c810-452d-bed5-9a3a1af858fc
 * **ASIN:** B01LXBRPWT
 * **Author:** alphine
-* **Release Date:** October 6, 2016 @ 02:12:02
+* **Release Date:** October 6, 2016 @ 03:12:02
 * **In-App Purchasing:** No

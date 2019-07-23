@@ -20,5 +20,5 @@ If you have a difficult decision to make then let Alexa decide for you.  Especia
 * **ID:** amzn1.ask.skill.b3861b41-996d-4391-9540-af9e0db5f975
 * **ASIN:** B01N9A4XIT
 * **Author:** George Miranda
-* **Release Date:** November 30, 2016 @ 02:05:30
+* **Release Date:** November 30, 2016 @ 03:05:30
 * **In-App Purchasing:** No

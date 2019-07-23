@@ -20,5 +20,5 @@ Do you want to be sad and cry a lot? Use this skill to get lots of sad facts abo
 * **ID:** amzn1.ask.skill.a4d1bdf3-6bd4-4c79-817e-3199583147b9
 * **ASIN:** B01LXZ49RA
 * **Author:** Marvin Epsilon
-* **Release Date:** October 11, 2016 @ 09:42:13
+* **Release Date:** October 11, 2016 @ 10:42:13
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Looking to include State polls in a future update.
 * **ID:** amzn1.ask.skill.960e4bc1-fb20-4d68-a22b-9f62fff15494
 * **ASIN:** B01KPVQN6I
 * **Author:** Luke Kim
-* **Release Date:** August 23, 2016 @ 03:18:44
+* **Release Date:** August 23, 2016 @ 04:18:44
 * **In-App Purchasing:** No

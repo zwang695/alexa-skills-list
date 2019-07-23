@@ -18,5 +18,5 @@ This skill gives you some interesting facts about planet Earth. Great way to lea
 * **ID:** amzn1.ask.skill.76d5ed32-59a5-457c-8320-c96159b6e315
 * **ASIN:** B01NCN41NK
 * **Author:** Aradhana Duppala
-* **Release Date:** December 19, 2016 @ 08:19:24
+* **Release Date:** December 19, 2016 @ 09:19:24
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Sipapu Resort Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.cfa705bd-9b3b-43b3-b379-000184a086d3
 * **ASIN:** B01LXDISOL
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:17:50
+* **Release Date:** October 21, 2016 @ 15:17:50
 * **In-App Purchasing:** No

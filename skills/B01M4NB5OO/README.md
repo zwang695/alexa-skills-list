@@ -20,5 +20,5 @@ The Toggenburg Mountain Snow Report brought to you by SnoCountry brings you the 
 * **ID:** amzn1.ask.skill.c3ef2c21-fb69-4321-ab79-3658a5207729
 * **ASIN:** B01M4NB5OO
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:45:31
+* **Release Date:** October 26, 2016 @ 04:45:31
 * **In-App Purchasing:** No

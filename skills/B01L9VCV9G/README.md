@@ -20,5 +20,5 @@ Test your knowledge on what happens when you go to the bathroom.
 * **ID:** amzn1.ask.skill.724bea7d-e893-45b7-8b9e-dbaab4b9dcf3
 * **ASIN:** B01L9VCV9G
 * **Author:** Sonny Tosco
-* **Release Date:** September 7, 2016 @ 02:03:52
+* **Release Date:** September 7, 2016 @ 03:03:52
 * **In-App Purchasing:** No

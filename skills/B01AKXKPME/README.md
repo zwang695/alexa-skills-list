@@ -20,7 +20,7 @@ Once you link the skill to a Bean Jar account, then you can start tracking rewar
 * **ID:** amzn1.echo-sdk-ams.app.cfca78e2-ba82-4c21-ae41-eec130423847
 * **ASIN:** B01AKXKPME
 * **Author:** Bookoo
-* **Release Date:** January 13, 2016 @ 19:25:52
+* **Release Date:** January 13, 2016 @ 20:25:52
 * **Privacy Policy:** https://historylines.com/privacy.jsp
 * **Terms of Use:** https://historylines.com/terms.jsp
 * **In-App Purchasing:** No

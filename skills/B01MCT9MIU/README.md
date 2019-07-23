@@ -20,5 +20,5 @@ Heavy metal bands provides trivia facts for legendary metal bands such as Tool, 
 * **ID:** amzn1.ask.skill.02d9fd96-26d1-45f5-8d10-80a880695c3b
 * **ASIN:** B01MCT9MIU
 * **Author:** Rene Schultz
-* **Release Date:** October 18, 2016 @ 03:12:04
+* **Release Date:** October 18, 2016 @ 04:12:04
 * **In-App Purchasing:** No

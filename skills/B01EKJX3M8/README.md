@@ -43,6 +43,6 @@ Download a no-cost 30 day evaluation from www.HCATech.com
 * **ID:** amzn1.ask.skill.ef3e0047-0258-44ad-a2c6-4b8792813b35
 * **ASIN:** B01EKJX3M8
 * **Author:** Advanced Quonset Technology, Inc
-* **Release Date:** May 10, 2016 @ 18:08:12
+* **Release Date:** May 10, 2016 @ 19:08:12
 * **Privacy Policy:** http://www.hcatech.com/privacy.php
 * **In-App Purchasing:** No

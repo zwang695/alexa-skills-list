@@ -42,7 +42,7 @@ You ask, NEO answers. As simple as that.
 * **ID:** amzn1.echo-sdk-ams.app.4f36b25b-f086-4a2c-840c-a39f23ca70b8
 * **ASIN:** B01J9R6FB2
 * **Author:** Radical Labs Inc
-* **Release Date:** September 11, 2016 @ 03:14:33
+* **Release Date:** September 11, 2016 @ 04:14:33
 * **Privacy Policy:** http://www.neochatbots.com/privacy-policy
 * **Terms of Use:** http://www.neochatbots.com/privacy-policy
 * **In-App Purchasing:** No

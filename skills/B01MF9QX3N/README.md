@@ -20,5 +20,5 @@ The Raging Buffalo Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.bc959d53-c8fd-445f-953b-fa6592346250
 * **ASIN:** B01MF9QX3N
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:16:56
+* **Release Date:** October 21, 2016 @ 15:16:56
 * **In-App Purchasing:** No

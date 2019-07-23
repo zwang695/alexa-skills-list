@@ -16,5 +16,5 @@ Alexa skill that asks multiple-choice questions about the Krueger family.
 * **ID:** amzn1.ask.skill.347af3a0-28f9-4749-923a-0e0b01f6bd51
 * **ASIN:** B01MT1GJ96
 * **Author:** ATKrueger
-* **Release Date:** December 22, 2016 @ 08:49:29
+* **Release Date:** December 22, 2016 @ 09:49:29
 * **In-App Purchasing:** No

@@ -65,7 +65,7 @@ Visit geappliances.com/connecthelp or call GE Appliances’ Connected Home Suppo
 * **ID:** amzn1.ask.skill.e88379e5-49e7-4d90-a537-161bc364982d
 * **ASIN:** B01JH04N74
 * **Author:** GE Appliances
-* **Release Date:** September 12, 2016 @ 11:11:59
+* **Release Date:** September 12, 2016 @ 12:11:59
 * **Privacy Policy:** http://www.geappliances.com/privacy/privacy_policy_connected.htm
 * **Terms of Use:** http://www.geappliances.com/home-energy-manager/end-user-license-agreement.htm
 * **Account Linking Domains:** accounts.brillion.geappliances.com, www.geappliances.com

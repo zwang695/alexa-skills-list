@@ -21,5 +21,5 @@ Don't forget to add a comment to your commit.
 * **ID:** amzn1.ask.skill.c2c11422-7944-4706-ac41-14c3390ed14f
 * **ASIN:** B01MYR44D8
 * **Author:** Sebastian Boddenberg
-* **Release Date:** November 25, 2016 @ 10:05:34
+* **Release Date:** November 25, 2016 @ 11:05:34
 * **In-App Purchasing:** No

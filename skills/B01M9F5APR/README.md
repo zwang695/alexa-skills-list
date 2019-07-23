@@ -20,5 +20,5 @@ The Swain Ski Center Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.6173f6db-4869-4170-9712-d2c03c11c609
 * **ASIN:** B01M9F5APR
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:45:06
+* **Release Date:** October 26, 2016 @ 04:45:06
 * **In-App Purchasing:** No

@@ -20,6 +20,6 @@ Wondering about recent earthquakes near you? Use Earthquake Info to report the m
 * **ID:** amzn1.echo-sdk-ams.app.4b1cf065-10cc-460b-808d-0f0dd8e5440e
 * **ASIN:** B01HNM0OW6
 * **Author:** Lucas Burson
-* **Release Date:** July 5, 2016 @ 05:28:07
+* **Release Date:** July 5, 2016 @ 06:28:07
 * **Terms of Use:** https://github.com/ljdelight/EarthquakeInfoSkill
 * **In-App Purchasing:** No

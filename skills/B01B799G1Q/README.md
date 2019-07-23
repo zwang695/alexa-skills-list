@@ -22,5 +22,5 @@ To get started, just say "Alexa, Play Manchester City Trivia". The game will ask
 * **ID:** amzn1.echo-sdk-ams.app.cf213818-16e1-4950-9b5c-df29d9295fc4
 * **ASIN:** B01B799G1Q
 * **Author:** DSM Apps and Games
-* **Release Date:** January 28, 2016 @ 23:03:21
+* **Release Date:** January 29, 2016 @ 00:03:21
 * **In-App Purchasing:** No

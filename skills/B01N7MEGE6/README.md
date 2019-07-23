@@ -20,5 +20,5 @@ A simple fact giving app about Gujarat based on the SpaceGeek template. The Guja
 * **ID:** amzn1.ask.skill.f7b6b136-e8b7-4cf8-8059-0998be01a265
 * **ASIN:** B01N7MEGE6
 * **Author:** Bucknell University
-* **Release Date:** December 29, 2016 @ 02:19:57
+* **Release Date:** December 29, 2016 @ 03:19:57
 * **In-App Purchasing:** No

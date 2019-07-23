@@ -20,5 +20,5 @@ The Silverton Mountain Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.815f8a8c-977d-402e-9a74-c325745283cb
 * **ASIN:** B01M01AXRJ
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:13:19
+* **Release Date:** October 19, 2016 @ 12:13:19
 * **In-App Purchasing:** No

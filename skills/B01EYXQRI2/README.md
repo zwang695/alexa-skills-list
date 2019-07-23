@@ -20,5 +20,5 @@ Baseball Facts provides you with baseball trivial. Most facts are interesting ma
 * **ID:** amzn1.echo-sdk-ams.app.93484467-1ce2-4ea4-8b8c-f552ef49239b
 * **ASIN:** B01EYXQRI2
 * **Author:** CodeBurners
-* **Release Date:** May 3, 2016 @ 16:38:32
+* **Release Date:** May 3, 2016 @ 17:38:32
 * **In-App Purchasing:** No

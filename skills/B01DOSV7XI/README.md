@@ -26,5 +26,5 @@ Once your home and default destination stations are set, ask for the train statu
 * **ID:** amzn1.echo-sdk-ams.app.f574223b-6c2d-446f-a5e0-1f52d900b50a
 * **ASIN:** B01DOSV7XI
 * **Author:** Optictheory
-* **Release Date:** May 4, 2016 @ 10:08:36
+* **Release Date:** May 4, 2016 @ 11:08:36
 * **In-App Purchasing:** No

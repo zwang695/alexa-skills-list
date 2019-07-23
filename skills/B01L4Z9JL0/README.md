@@ -20,5 +20,5 @@ Need a yes/no/maybe answer? Let the magic eight ball help with that! It will res
 * **ID:** amzn1.ask.skill.d061881f-fba4-4b71-834a-55d1b219c619
 * **ASIN:** B01L4Z9JL0
 * **Author:** Tech Digital
-* **Release Date:** August 31, 2016 @ 02:03:00
+* **Release Date:** August 31, 2016 @ 03:03:00
 * **In-App Purchasing:** No

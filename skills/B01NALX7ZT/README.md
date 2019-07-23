@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.9448fa01-3aa9-485d-bd1c-bebab299e85c
 * **ASIN:** B01NALX7ZT
 * **Author:** Oliver Buschjost
-* **Release Date:** December 28, 2016 @ 01:19:18
+* **Release Date:** December 28, 2016 @ 02:19:18
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Suicide Six Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.3c090474-8237-4f8c-a790-838f2ec6f6f6
 * **ASIN:** B01M6CWH36
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:12:58
+* **Release Date:** November 4, 2016 @ 09:12:58
 * **In-App Purchasing:** No

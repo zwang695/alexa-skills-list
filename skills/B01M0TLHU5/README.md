@@ -20,5 +20,5 @@ This skill will give a functionality to book conference rooms
 * **ID:** amzn1.ask.skill.6f78c7c8-5c1a-4322-8bdb-817165bd3f8a
 * **ASIN:** B01M0TLHU5
 * **Author:** Boguslaw Tarnowski
-* **Release Date:** November 9, 2016 @ 22:12:42
+* **Release Date:** November 9, 2016 @ 23:12:42
 * **In-App Purchasing:** No

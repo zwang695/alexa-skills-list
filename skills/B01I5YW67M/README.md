@@ -22,5 +22,5 @@ This app is not affiliated with The University of Oklahoma.
 * **ID:** amzn1.echo-sdk-ams.app.339d7582-318f-4db2-aeab-1147bd9c6272
 * **ASIN:** B01I5YW67M
 * **Author:** Jeff Sittler
-* **Release Date:** July 15, 2016 @ 07:57:34
+* **Release Date:** July 15, 2016 @ 08:57:34
 * **In-App Purchasing:** No

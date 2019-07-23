@@ -20,5 +20,5 @@ This is an simple app only responds to you with negative point of view. It helps
 * **ID:** amzn1.ask.skill.55568115-fe77-4371-8947-6dc568329973
 * **ASIN:** B01N3OGDHD
 * **Author:** Xiaochu Liu
-* **Release Date:** November 20, 2016 @ 23:08:04
+* **Release Date:** November 21, 2016 @ 00:08:04
 * **In-App Purchasing:** No

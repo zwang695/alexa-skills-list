@@ -22,5 +22,5 @@ Olympics countries asks five questions per game.
 * **ID:** amzn1.ask.skill.7d04c7f8-7aa0-4dc8-bbeb-763410fd0f3a
 * **ASIN:** B01K5RLY34
 * **Author:** suvarna
-* **Release Date:** August 17, 2016 @ 05:52:36
+* **Release Date:** August 17, 2016 @ 06:52:36
 * **In-App Purchasing:** No

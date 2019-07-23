@@ -20,5 +20,5 @@ To use the Event Master skill, try saying...
 * **ID:** amzn1.ask.skill.475f2523-6aa9-4afb-b5d6-7a0f60bbe9ad
 * **ASIN:** B01MQPH0ZM
 * **Author:** FluiBex
-* **Release Date:** December 3, 2016 @ 07:35:18
+* **Release Date:** December 3, 2016 @ 08:35:18
 * **In-App Purchasing:** No

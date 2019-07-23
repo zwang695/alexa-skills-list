@@ -20,5 +20,5 @@ Logo Designed by Freepik.com
 * **ID:** amzn1.echo-sdk-ams.app.1124cee5-49b0-47ae-8345-2d0f35810302
 * **ASIN:** B01J4JOVEI
 * **Author:** Chris Covell
-* **Release Date:** July 28, 2016 @ 10:56:59
+* **Release Date:** July 28, 2016 @ 11:56:59
 * **In-App Purchasing:** No

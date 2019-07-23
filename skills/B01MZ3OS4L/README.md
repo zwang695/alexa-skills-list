@@ -18,5 +18,5 @@ A Harry Potter Fan trivia game which can run on any Alexa capable device. The tr
 * **ID:** amzn1.ask.skill.c33fbf58-ef5d-4bf8-b959-b2e36bec5ee0
 * **ASIN:** B01MZ3OS4L
 * **Author:** asypereddi
-* **Release Date:** January 3, 2017 @ 08:24:25
+* **Release Date:** January 3, 2017 @ 09:24:25
 * **In-App Purchasing:** No

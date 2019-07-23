@@ -27,5 +27,5 @@ Game content: Copyright 2015 NBA Media Ventures, LLC. All Rights Reserved.
 * **ID:** amzn1.ask.skill.1ba9a8c0-95c2-4282-9fd6-056bf8349073
 * **ASIN:** B01M3VLO8V
 * **Author:** Scott Wasserman
-* **Release Date:** November 2, 2016 @ 06:42:32
+* **Release Date:** November 2, 2016 @ 07:42:32
 * **In-App Purchasing:** No

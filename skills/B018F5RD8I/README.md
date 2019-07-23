@@ -20,5 +20,5 @@ Ask Daddy provides nurturing responses to things asked of him. Due to request, A
 * **ID:** amzn1.echo-sdk-ams.app.b16f6e14-3e4f-4f70-8098-5fb1f666a0cd
 * **ASIN:** B018F5RD8I
 * **Author:** Rick Wargo
-* **Release Date:** November 23, 2015 @ 16:54:35
+* **Release Date:** November 23, 2015 @ 17:54:35
 * **In-App Purchasing:** No

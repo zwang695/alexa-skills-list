@@ -20,5 +20,5 @@ The Smugglers Notch Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.de9e50f1-6f4b-49e5-b4c1-9a60f00873b8
 * **ASIN:** B01MD2G437
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:13:29
+* **Release Date:** November 4, 2016 @ 09:13:29
 * **In-App Purchasing:** No

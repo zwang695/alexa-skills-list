@@ -16,5 +16,5 @@ Aggregation of random facts when you ask alexa to tell you a random fact.
 * **ID:** amzn1.ask.skill.07f3d31a-1edb-4b48-b337-628f6da90d3b
 * **ASIN:** B01KRGRJT6
 * **Author:** Alex
-* **Release Date:** August 22, 2016 @ 07:45:20
+* **Release Date:** August 22, 2016 @ 08:45:20
 * **In-App Purchasing:** No

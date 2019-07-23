@@ -20,5 +20,5 @@ Ask Alexa for writing prompts to create new short stories and poems. Some are mo
 * **ID:** amzn1.ask.skill.cea00c6d-b63d-4264-916d-4ec1082d91a9
 * **ASIN:** B01LZX4X90
 * **Author:** Bryce Bortree
-* **Release Date:** October 3, 2016 @ 01:42:27
+* **Release Date:** October 3, 2016 @ 02:42:27
 * **In-App Purchasing:** No

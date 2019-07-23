@@ -16,5 +16,5 @@ This skill provides facts about koalas, one of the coolest and cutest animals ev
 * **ID:** amzn1.ask.skill.25b7461e-4b10-4ec7-a977-c8e46ec6b34a
 * **ASIN:** B01LZAAZI2
 * **Author:** Lilypad
-* **Release Date:** October 3, 2016 @ 06:12:25
+* **Release Date:** October 3, 2016 @ 07:12:25
 * **In-App Purchasing:** No

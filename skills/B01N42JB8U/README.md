@@ -26,5 +26,5 @@ Please note ... this skill is not sponsored or endorsed by Brewers Association.
 * **ID:** amzn1.ask.skill.76ae6750-4ec4-4afd-8af0-f156807f4324
 * **ASIN:** B01N42JB8U
 * **Author:** SheppyBrew
-* **Release Date:** November 21, 2016 @ 23:35:48
+* **Release Date:** November 22, 2016 @ 00:35:48
 * **In-App Purchasing:** No

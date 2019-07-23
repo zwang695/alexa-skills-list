@@ -22,5 +22,5 @@ The Alexa app will track your questions and their answers, so if you ever need t
 * **ID:** amzn1.echo-sdk-ams.app.fb0731ae-b748-45c7-8577-0c57749a8c49
 * **ASIN:** B01D0JI7CA
 * **Author:** Kovacich Overengineering
-* **Release Date:** March 15, 2016 @ 14:47:03
+* **Release Date:** March 15, 2016 @ 15:47:03
 * **In-App Purchasing:** No

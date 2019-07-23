@@ -24,5 +24,5 @@ After a pause for each question, she'll ask you if you would like to continue, y
 * **ID:** amzn1.echo-sdk-ams.app.89cbc0eb-e210-4876-baf4-c540aedbea10
 * **ASIN:** B01F8J7LXG
 * **Author:** Brian Tsai
-* **Release Date:** May 6, 2016 @ 08:08:29
+* **Release Date:** May 6, 2016 @ 09:08:29
 * **In-App Purchasing:** No

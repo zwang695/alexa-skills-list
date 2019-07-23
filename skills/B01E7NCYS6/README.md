@@ -20,5 +20,5 @@ Do you call yourself a foodie? Test your knowledge in this trivia game that push
 * **ID:** amzn1.echo-sdk-ams.app.d1a03701-fc16-4236-a599-0ef4550ea86a
 * **ASIN:** B01E7NCYS6
 * **Author:** Sharmi55
-* **Release Date:** April 15, 2016 @ 04:32:24
+* **Release Date:** April 15, 2016 @ 05:32:24
 * **In-App Purchasing:** No

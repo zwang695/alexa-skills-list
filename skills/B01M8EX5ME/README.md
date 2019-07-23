@@ -20,5 +20,5 @@ Find a hiking trail for Seattle WA hikers
 * **ID:** amzn1.ask.skill.dbf47fd1-7ce2-4134-816f-213b5cfc6538
 * **ASIN:** B01M8EX5ME
 * **Author:** Meichun Lan
-* **Release Date:** October 11, 2016 @ 03:11:45
+* **Release Date:** October 11, 2016 @ 04:11:45
 * **In-App Purchasing:** No

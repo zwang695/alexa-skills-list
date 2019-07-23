@@ -20,5 +20,5 @@ The Winter Park Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.d5764289-d2b3-4f42-9061-7a509716de62
 * **ASIN:** B01M0OM6CZ
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:13:10
+* **Release Date:** October 19, 2016 @ 12:13:10
 * **In-App Purchasing:** No

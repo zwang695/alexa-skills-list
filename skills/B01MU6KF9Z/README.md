@@ -20,5 +20,5 @@ If you've ever wanted to learn more about species extinction, Extinction Facts i
 * **ID:** amzn1.ask.skill.50d4095a-d63e-4283-8b98-fd9e0b02b3df
 * **ASIN:** B01MU6KF9Z
 * **Author:** QE Automation
-* **Release Date:** January 3, 2017 @ 01:19:34
+* **Release Date:** January 3, 2017 @ 02:19:34
 * **In-App Purchasing:** No

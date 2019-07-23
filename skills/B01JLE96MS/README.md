@@ -23,5 +23,5 @@ http://bit.ly/2aMvjbh
 * **ID:** amzn1.echo-sdk-ams.app.11dec342-858f-4aec-a6b7-b6f082aa5ea7
 * **ASIN:** B01JLE96MS
 * **Author:** Zanyprise
-* **Release Date:** August 17, 2016 @ 05:52:50
+* **Release Date:** August 17, 2016 @ 06:52:50
 * **In-App Purchasing:** No

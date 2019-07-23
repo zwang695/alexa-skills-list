@@ -20,5 +20,5 @@ If you love cats or want to know more about catss this is ther perfect Alexa app
 * **ID:** amzn1.ask.skill.949eb55b-8877-48d0-88b7-b62a3732262d
 * **ASIN:** B01LC5PG3C
 * **Author:** -
-* **Release Date:** September 4, 2016 @ 08:33:26
+* **Release Date:** September 4, 2016 @ 09:33:26
 * **In-App Purchasing:** No

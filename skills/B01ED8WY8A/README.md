@@ -20,5 +20,5 @@ This is a learning skill which provides French translations for English words or
 * **ID:** amzn1.echo-sdk-ams.app.13f5c5bd-290a-4717-9de1-1ff25f997f7c
 * **ASIN:** B01ED8WY8A
 * **Author:** Ganesh
-* **Release Date:** July 5, 2016 @ 05:27:41
+* **Release Date:** July 5, 2016 @ 06:27:41
 * **In-App Purchasing:** No

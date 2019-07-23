@@ -24,5 +24,5 @@ Icon designed by Madebyolvier from Flaticon
 * **ID:** amzn1.ask.skill.5d300269-7990-4513-a661-5177aa396b19
 * **ASIN:** B01N9HQ6C6
 * **Author:** Private Developer
-* **Release Date:** December 27, 2016 @ 05:19:07
+* **Release Date:** December 27, 2016 @ 06:19:07
 * **In-App Purchasing:** No

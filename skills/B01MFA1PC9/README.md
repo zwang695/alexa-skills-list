@@ -20,5 +20,5 @@ The Boyne Mountain Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.94df5ba3-f087-4f64-b812-6a8d7fefb99c
 * **ASIN:** B01MFA1PC9
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:14:03
+* **Release Date:** October 21, 2016 @ 15:14:03
 * **In-App Purchasing:** No

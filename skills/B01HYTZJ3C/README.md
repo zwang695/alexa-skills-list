@@ -22,5 +22,5 @@ Data Disclaimer: These raw data have not been subjected to the National Ocean Se
 * **ID:** amzn1.echo-sdk-ams.app.5f05f3a2-c643-4314-a00e-0520f3d02a7e
 * **ASIN:** B01HYTZJ3C
 * **Author:** Appbly.com
-* **Release Date:** July 6, 2016 @ 01:58:09
+* **Release Date:** July 6, 2016 @ 02:58:09
 * **In-App Purchasing:** No

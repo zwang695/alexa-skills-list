@@ -20,5 +20,5 @@ Golden Ticket is a movie trivia game that tests your ability to name the common 
 * **ID:** amzn1.ask.skill.60b7491d-bbf9-4521-abd4-c4b7fe96d93b
 * **ASIN:** B01NAH58TZ
 * **Author:** Cainkade
-* **Release Date:** December 15, 2016 @ 02:49:49
+* **Release Date:** December 15, 2016 @ 03:49:49
 * **In-App Purchasing:** No

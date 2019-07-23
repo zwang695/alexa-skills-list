@@ -20,5 +20,5 @@ Ask Alexa to roll a dice and return the result to you.
 * **ID:** amzn1.ask.skill.f8737ee2-4c94-44a5-abc1-f52d67eab224
 * **ASIN:** B01N0LRJ62
 * **Author:** Jan Zawadzki
-* **Release Date:** December 2, 2016 @ 07:05:37
+* **Release Date:** December 2, 2016 @ 08:05:37
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ If you ask about a number that Number Facts doesn't know about, consider visitin
 * **ID:** amzn1.echo-sdk-ams.app.aff30754-9244-4387-a822-6e98ac398eb7
 * **ASIN:** B01FYGY5KA
 * **Author:** Sogono
-* **Release Date:** June 20, 2016 @ 04:15:36
+* **Release Date:** June 20, 2016 @ 05:15:36
 * **In-App Purchasing:** No

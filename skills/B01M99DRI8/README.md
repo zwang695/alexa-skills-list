@@ -20,5 +20,5 @@ Ideal if you just want to know a few interesting facts about Portugal. If you ar
 * **ID:** amzn1.ask.skill.cb4e5669-5702-4b01-9994-11675ed855a2
 * **ASIN:** B01M99DRI8
 * **Author:** Paulo Goncalves
-* **Release Date:** October 15, 2016 @ 02:46:02
+* **Release Date:** October 15, 2016 @ 03:46:02
 * **In-App Purchasing:** No

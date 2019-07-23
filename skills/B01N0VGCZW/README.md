@@ -20,5 +20,5 @@ Odd Laws gives you a random odd law from one of the 50 states. While laws are co
 * **ID:** amzn1.ask.skill.3781c484-2f18-49c7-abfa-e9afb4661c8e
 * **ASIN:** B01N0VGCZW
 * **Author:** iqlusion
-* **Release Date:** January 2, 2017 @ 03:19:08
+* **Release Date:** January 2, 2017 @ 04:19:08
 * **In-App Purchasing:** No

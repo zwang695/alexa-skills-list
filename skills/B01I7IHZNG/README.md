@@ -20,5 +20,5 @@ Gives users history or facts about soccer.
 * **ID:** amzn1.echo-sdk-ams.app.d6ed154a-ed87-416f-94f9-0aaccea8002b
 * **ASIN:** B01I7IHZNG
 * **Author:** Shao Chen
-* **Release Date:** July 25, 2016 @ 07:56:42
+* **Release Date:** July 25, 2016 @ 08:56:42
 * **In-App Purchasing:** No

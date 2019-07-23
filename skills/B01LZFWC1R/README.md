@@ -20,5 +20,5 @@ Do you think you know your biology facts? Want to test it out? Answer the questi
 * **ID:** amzn1.ask.skill.6647e4e6-e1f0-49eb-af28-cefc41abc974
 * **ASIN:** B01LZFWC1R
 * **Author:** bryyeh
-* **Release Date:** September 17, 2016 @ 04:11:50
+* **Release Date:** September 17, 2016 @ 05:11:50
 * **In-App Purchasing:** No

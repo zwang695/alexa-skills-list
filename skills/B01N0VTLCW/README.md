@@ -22,5 +22,5 @@ Want to know more about beer? 99 Bottles will give you a random fact about beer 
 * **ID:** amzn1.ask.skill.e4cb6118-5cb2-4d6b-86b7-4e38c747f6e6
 * **ASIN:** B01N0VTLCW
 * **Author:** Corey Brown
-* **Release Date:** December 30, 2016 @ 05:49:04
+* **Release Date:** December 30, 2016 @ 06:49:04
 * **In-App Purchasing:** No

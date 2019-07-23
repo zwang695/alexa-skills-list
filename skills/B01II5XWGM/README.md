@@ -49,5 +49,5 @@ Thai Shrimp Soup
 * **ID:** amzn1.echo-sdk-ams.app.172da3ac-e3f2-4ca7-a5fe-13e90d6d1925
 * **ASIN:** B01II5XWGM
 * **Author:** andrew smith
-* **Release Date:** July 20, 2016 @ 02:28:00
+* **Release Date:** July 20, 2016 @ 03:28:00
 * **In-App Purchasing:** No

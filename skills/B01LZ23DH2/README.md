@@ -20,5 +20,5 @@ The Sunlight Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.accda7a6-0bec-4565-b05a-133683ceace9
 * **ASIN:** B01LZ23DH2
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:43:54
+* **Release Date:** October 19, 2016 @ 11:43:54
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Chuck facts are satirical factoids about martial artist and actor Chuck Norris t
 * **ID:** amzn1.ask.skill.9fa4885a-fbd7-4269-98df-73a93f356f3f
 * **ASIN:** B01LXA63UU
 * **Author:** Mathias Nestler
-* **Release Date:** November 15, 2016 @ 08:05:10
+* **Release Date:** November 15, 2016 @ 09:05:10
 * **In-App Purchasing:** No

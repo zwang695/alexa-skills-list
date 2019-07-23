@@ -30,5 +30,5 @@ You can start over your scoring by saying "reset score" and you'll have a fresh 
 * **ID:** amzn1.echo-sdk-ams.app.636a33b3-d9eb-4076-ac51-2769dac46135
 * **ASIN:** B01EMAVSP4
 * **Author:** Shawn Strickland
-* **Release Date:** April 28, 2016 @ 01:38:32
+* **Release Date:** April 28, 2016 @ 02:38:32
 * **In-App Purchasing:** No

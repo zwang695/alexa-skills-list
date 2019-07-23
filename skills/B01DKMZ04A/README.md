@@ -22,6 +22,6 @@ There are no external dependencies for Watch Dog users, so simply download the S
 * **ID:** amzn1.echo-sdk-ams.app.c1bb0a28-f820-47fb-b02d-822e5fa27af0
 * **ASIN:** B01DKMZ04A
 * **Author:** Spencer Carver
-* **Release Date:** August 18, 2016 @ 04:22:14
+* **Release Date:** August 18, 2016 @ 05:22:14
 * **Privacy Policy:** https://github.com/spencer-carver/alexa/tree/master/watch-dog
 * **In-App Purchasing:** No

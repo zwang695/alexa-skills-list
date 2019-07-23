@@ -26,5 +26,5 @@ Sens Trivia is not sponsored or endorsed by NHL.
 * **ID:** amzn1.ask.skill.583d4e96-9a21-4a73-80f9-efc3389c8ad4
 * **ASIN:** B01LY3DE7Q
 * **Author:** Mike Osmond
-* **Release Date:** October 8, 2016 @ 04:42:03
+* **Release Date:** October 8, 2016 @ 05:42:03
 * **In-App Purchasing:** No

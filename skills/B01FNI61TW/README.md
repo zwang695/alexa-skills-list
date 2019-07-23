@@ -20,5 +20,5 @@ Ask Alexa a year in history and out comes in interesting fact. If only it could 
 * **ID:** amzn1.echo-sdk-ams.app.a6a24ced-bbd4-48c6-a369-011efb05e821
 * **ASIN:** B01FNI61TW
 * **Author:** BLT Robotics
-* **Release Date:** May 20, 2016 @ 01:38:34
+* **Release Date:** May 20, 2016 @ 02:38:34
 * **In-App Purchasing:** No

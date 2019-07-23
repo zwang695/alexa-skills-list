@@ -18,5 +18,5 @@ Did you know these super interesting facts about rats?
 * **ID:** amzn1.ask.skill.a83e0f62-9985-4902-ad8e-72ca5c2085e8
 * **ASIN:** B01MSTOX15
 * **Author:** o9k
-* **Release Date:** December 1, 2016 @ 08:05:27
+* **Release Date:** December 1, 2016 @ 09:05:27
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Thirukkural is translated into about 82 languages and is the most widely transla
 * **ID:** amzn1.ask.skill.d9796da9-9636-4992-b79a-420628b83bff
 * **ASIN:** B01MQS5NNI
 * **Author:** Ram Muthiah
-* **Release Date:** December 5, 2016 @ 05:35:21
+* **Release Date:** December 5, 2016 @ 06:35:21
 * **In-App Purchasing:** No

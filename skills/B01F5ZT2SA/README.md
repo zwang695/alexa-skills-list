@@ -24,7 +24,7 @@ News Anchor is aggregating news from hundreds of sites around the web to read fo
 * **ID:** amzn1.echo-sdk-ams.app.57142556-b72c-4d90-b6a2-ce2380d5b21e
 * **ASIN:** B01F5ZT2SA
 * **Author:** Yuval
-* **Release Date:** May 25, 2016 @ 03:08:34
+* **Release Date:** May 25, 2016 @ 04:08:34
 * **Privacy Policy:** http://www.outbrain.com/legal/privacy
 * **Terms of Use:** http://www.outbrain.com/legal/tos
 * **In-App Purchasing:** No

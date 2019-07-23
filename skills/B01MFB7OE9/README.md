@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.64ca4aed-148d-4fbe-8300-9016165516fe
 * **ASIN:** B01MFB7OE9
 * **Author:** DT Apps
-* **Release Date:** November 25, 2016 @ 04:08:10
+* **Release Date:** November 25, 2016 @ 05:08:10
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask the Food Truck Finder to tell you what food trucks are on the streets (of Ch
 * **ID:** amzn1.ask.skill.462a1db5-97b8-4b1f-8a40-ce75bfde4a74
 * **ASIN:** B01LBSEQ4U
 * **Author:** Andrew Violette
-* **Release Date:** October 11, 2016 @ 02:12:12
+* **Release Date:** October 11, 2016 @ 03:12:12
 * **In-App Purchasing:** No

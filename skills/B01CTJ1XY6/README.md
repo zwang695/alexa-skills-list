@@ -48,6 +48,6 @@ We're always learning and building new features, but we can't do that well witho
 * **ID:** amzn1.echo-sdk-ams.app.fd04f4dc-8d62-4840-b61c-9ea40a160426
 * **ASIN:** B01CTJ1XY6
 * **Author:** Capital One Services, LLC
-* **Release Date:** March 10, 2016 @ 19:19:16
+* **Release Date:** March 10, 2016 @ 20:19:16
 * **Privacy Policy:** https://www.capitalone.com/identity-protection/privacy
 * **In-App Purchasing:** No

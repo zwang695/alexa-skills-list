@@ -22,5 +22,5 @@ Have fun!
 * **ID:** amzn1.ask.skill.ca8c93a3-a4df-4221-81b4-4241332d9f1a
 * **ASIN:** B01LWWBUIX
 * **Author:** Federica Incerti
-* **Release Date:** September 20, 2016 @ 01:42:44
+* **Release Date:** September 20, 2016 @ 02:42:44
 * **In-App Purchasing:** No

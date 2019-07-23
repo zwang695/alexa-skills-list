@@ -26,5 +26,5 @@ Feedback and reviews welcome! Thank you for playing.
 * **ID:** amzn1.echo-sdk-ams.app.7e960cba-05be-416e-9495-ff626c767092
 * **ASIN:** B01CY9TW9Y
 * **Author:** Bobby
-* **Release Date:** March 14, 2016 @ 05:10:57
+* **Release Date:** March 14, 2016 @ 06:10:57
 * **In-App Purchasing:** No

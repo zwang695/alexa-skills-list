@@ -20,5 +20,5 @@ The Mount Ashland Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.62079664-de28-41f2-af92-53c44b2dfb1d
 * **ASIN:** B01M8MHIWI
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:47:06
+* **Release Date:** October 26, 2016 @ 04:47:06
 * **In-App Purchasing:** No

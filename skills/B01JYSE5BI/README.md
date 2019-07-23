@@ -20,5 +20,5 @@ Do you really like bananas? Do you know someone who isn't a huge fan? Use this A
 * **ID:** amzn1.ask.skill.5f5e1c9a-4847-4816-be39-0305bde60059
 * **ASIN:** B01JYSE5BI
 * **Author:** chadioo
-* **Release Date:** August 9, 2016 @ 02:07:24
+* **Release Date:** August 9, 2016 @ 03:07:24
 * **In-App Purchasing:** No

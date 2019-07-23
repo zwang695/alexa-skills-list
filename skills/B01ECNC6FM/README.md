@@ -24,5 +24,5 @@ Chef will improve over time with cooking tips, new ingredients, and so on.
 * **ID:** amzn1.echo-sdk-ams.app.0885a9ef-bf62-4d57-be09-ebe66718fd43
 * **ASIN:** B01ECNC6FM
 * **Author:** David Levine
-* **Release Date:** April 19, 2016 @ 08:02:34
+* **Release Date:** April 19, 2016 @ 09:02:34
 * **In-App Purchasing:** No

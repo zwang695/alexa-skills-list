@@ -43,5 +43,5 @@ The Wind in the Willows by Kenneth Grahame,The House at Pooh Corner (Winnie-the-
 * **ID:** amzn1.ask.skill.62909560-d96f-4b90-8320-f65e5bc1a882
 * **ASIN:** B01NAC6V8A
 * **Author:** Kory Becker
-* **Release Date:** November 29, 2016 @ 07:38:16
+* **Release Date:** November 29, 2016 @ 08:38:16
 * **In-App Purchasing:** No

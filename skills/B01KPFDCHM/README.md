@@ -20,5 +20,5 @@ This is an app detailing general cooking terms and definitions. It can also give
 * **ID:** amzn1.ask.skill.41d2be1b-0b29-4b54-8ea0-bc17e0f549d1
 * **ASIN:** B01KPFDCHM
 * **Author:** TempDevAcc
-* **Release Date:** August 26, 2016 @ 03:03:12
+* **Release Date:** August 26, 2016 @ 04:03:12
 * **In-App Purchasing:** No

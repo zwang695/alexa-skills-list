@@ -18,5 +18,5 @@ Are you bored and looking for a show to watch? Just ask this app for a suggestio
 * **ID:** amzn1.ask.skill.e03431c6-399c-4c87-9661-6c15856721cb
 * **ASIN:** B01N4DO6E2
 * **Author:** Zach Byerly
-* **Release Date:** December 26, 2016 @ 02:19:04
+* **Release Date:** December 26, 2016 @ 03:19:04
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The New York Running Calendar helps you find the next organized running race in 
 * **ID:** amzn1.echo-sdk-ams.app.ae8d30f8-96ad-4cf3-8bb6-c3ca94facf67
 * **ASIN:** B01EVI7LWQ
 * **Author:** rulez new media
-* **Release Date:** April 29, 2016 @ 17:38:24
+* **Release Date:** April 29, 2016 @ 18:38:24
 * **In-App Purchasing:** No

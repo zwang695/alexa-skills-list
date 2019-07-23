@@ -20,5 +20,5 @@ Play Rock Paper Scissor with Alexa!
 * **ID:** amzn1.ask.skill.9d17611d-f30e-49eb-b633-4b5aafdc6fb7
 * **ASIN:** B01KN48F5E
 * **Author:** DJ Rosenbaum
-* **Release Date:** August 26, 2016 @ 02:33:34
+* **Release Date:** August 26, 2016 @ 03:33:34
 * **In-App Purchasing:** No

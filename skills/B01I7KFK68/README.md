@@ -78,5 +78,5 @@ wait -- pause to keep session open
 * **ID:** amzn1.echo-sdk-ams.app.933bc225-337e-497c-be04-36d50994242b
 * **ASIN:** B01I7KFK68
 * **Author:** Don Holmberg
-* **Release Date:** July 13, 2016 @ 07:57:34
+* **Release Date:** July 13, 2016 @ 08:57:34
 * **In-App Purchasing:** No

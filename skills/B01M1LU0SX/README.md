@@ -20,5 +20,5 @@ This skill lists some random facts about Maine, the Marginal Way, Bar Harbor and
 * **ID:** amzn1.ask.skill.687a090a-42e4-4581-89d6-268538dfbceb
 * **ASIN:** B01M1LU0SX
 * **Author:** Marcus Horner
-* **Release Date:** October 8, 2016 @ 04:11:54
+* **Release Date:** October 8, 2016 @ 05:11:54
 * **In-App Purchasing:** No

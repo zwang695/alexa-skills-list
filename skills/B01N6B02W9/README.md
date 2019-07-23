@@ -20,5 +20,5 @@ Light the World provides inspirational examples of Jesus Christ's attributes and
 * **ID:** amzn1.ask.skill.5b070014-f33b-4304-8d61-c39635534271
 * **ASIN:** B01N6B02W9
 * **Author:** Tim Heuer
-* **Release Date:** December 2, 2016 @ 07:05:23
+* **Release Date:** December 2, 2016 @ 08:05:23
 * **In-App Purchasing:** No

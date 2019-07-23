@@ -20,5 +20,5 @@ Refer to UMich Facts on Alexa to learn new things about the University of Michig
 * **ID:** amzn1.ask.skill.7384e296-72f9-43c3-8a66-c2dd3d7a3c6c
 * **ASIN:** B01LI01WF2
 * **Author:** John Moon
-* **Release Date:** September 5, 2016 @ 03:03:13
+* **Release Date:** September 5, 2016 @ 04:03:13
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Seymour Papert was a mathematician, computer scientist, and educator. He was als
 * **ID:** amzn1.ask.skill.bb889f49-4580-45eb-b25c-c2dfaa253c11
 * **ASIN:** B01JPI8IQU
 * **Author:** Cornerstone Software Creations LLC
-* **Release Date:** August 5, 2016 @ 03:07:52
+* **Release Date:** August 5, 2016 @ 04:07:52
 * **In-App Purchasing:** No

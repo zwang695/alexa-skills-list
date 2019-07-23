@@ -20,5 +20,5 @@ The Brian Head Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.59c2fb53-d868-413d-baa8-d6fbd61a7fad
 * **ASIN:** B01M5K5S6W
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:17:34
+* **Release Date:** November 4, 2016 @ 09:17:34
 * **In-App Purchasing:** No

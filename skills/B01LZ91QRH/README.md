@@ -18,5 +18,5 @@ A skill to tell a random Chuck Norris joke!
 * **ID:** amzn1.ask.skill.66ff61f9-f17d-46e6-818f-3be7721d57e1
 * **ASIN:** B01LZ91QRH
 * **Author:** Andrew Garcia
-* **Release Date:** November 15, 2016 @ 01:05:12
+* **Release Date:** November 15, 2016 @ 02:05:12
 * **In-App Purchasing:** No

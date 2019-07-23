@@ -20,5 +20,5 @@ This tea guide provides benefits of 25 different types of tea. When the user pro
 * **ID:** amzn1.echo-sdk-ams.app.e204ef11-6614-473f-8aa3-02f11e4b3270
 * **ASIN:** B01GNFPNW0
 * **Author:** Shravani
-* **Release Date:** June 10, 2016 @ 04:39:40
+* **Release Date:** June 10, 2016 @ 05:39:40
 * **In-App Purchasing:** No

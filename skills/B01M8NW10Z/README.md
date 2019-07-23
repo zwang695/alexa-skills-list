@@ -22,5 +22,5 @@ ex: Alexa, ask diwali teller about festival of lights
 * **ID:** amzn1.ask.skill.1024ac06-fab8-4f5d-85be-bf0a4281b834
 * **ASIN:** B01M8NW10Z
 * **Author:** Prasanna
-* **Release Date:** November 9, 2016 @ 02:42:35
+* **Release Date:** November 9, 2016 @ 03:42:35
 * **In-App Purchasing:** No

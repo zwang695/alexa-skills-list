@@ -20,5 +20,5 @@ Silence is golden. If you need more silence in your life, all you need is this s
 * **ID:** amzn1.echo-sdk-ams.app.969ff171-14e5-4618-99a4-32eea363385d
 * **ASIN:** B01HQYMSM0
 * **Author:** SodaAnt Enterprises
-* **Release Date:** July 15, 2016 @ 04:57:30
+* **Release Date:** July 15, 2016 @ 05:57:30
 * **In-App Purchasing:** No

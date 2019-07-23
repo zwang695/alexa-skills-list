@@ -18,5 +18,5 @@ Test how much you know about sneaker culture ranging from the most iconic shoes 
 * **ID:** amzn1.ask.skill.fa5f3871-54b6-4722-a664-cf98e678e253
 * **ASIN:** B01MRIR0O4
 * **Author:** Jeff Consing
-* **Release Date:** November 16, 2016 @ 02:35:45
+* **Release Date:** November 16, 2016 @ 03:35:45
 * **In-App Purchasing:** No

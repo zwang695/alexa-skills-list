@@ -36,6 +36,6 @@ For support, please visit the help section of the Flux Wifi app.
 * **ID:** amzn1.ask.skill.5ab1caeb-95ad-4eec-8035-16414f5c5006
 * **ASIN:** B01LPOEHW6
 * **Author:** FluxSmart Lighting
-* **Release Date:** November 22, 2016 @ 16:35:02
+* **Release Date:** November 22, 2016 @ 17:35:02
 * **Privacy Policy:** https://echo.magichue.net/PrivacyFlux.html
 * **In-App Purchasing:** No

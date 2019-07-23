@@ -57,5 +57,5 @@ NOTES:
 * **ID:** amzn1.echo-sdk-ams.app.48d300b5-e643-4150-aaff-f8d1b92ed568
 * **ASIN:** B01EYZBO38
 * **Author:** Sean Simpson
-* **Release Date:** May 6, 2016 @ 18:08:36
+* **Release Date:** May 6, 2016 @ 19:08:36
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ Link to the blog to be added soon.
 * **ID:** amzn1.ask.skill.ab8cafd3-593f-4fe3-8333-88c734cd92d0
 * **ASIN:** B01N2T2PUS
 * **Author:** D
-* **Release Date:** December 13, 2016 @ 03:19:17
+* **Release Date:** December 13, 2016 @ 04:19:17
 * **In-App Purchasing:** No

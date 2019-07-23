@@ -16,5 +16,5 @@ Feeling bored? Have Alexa give you something to do!
 * **ID:** amzn1.ask.skill.4d99be75-2e83-41b4-b889-3cdf8ce5b426
 * **ASIN:** B01KKZGRNS
 * **Author:** Zak Strassberg
-* **Release Date:** August 19, 2016 @ 08:20:30
+* **Release Date:** August 19, 2016 @ 09:20:30
 * **In-App Purchasing:** No

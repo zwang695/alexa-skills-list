@@ -76,6 +76,6 @@ If you have any feedback, please contact us at alexabikefinder@gmail.com!
 * **ID:** amzn1.echo-sdk-ams.app.e6d63a06-1a4a-4a7e-b05c-715c169967a9
 * **ASIN:** B01J309ZB2
 * **Author:** rsbaskin
-* **Release Date:** August 17, 2016 @ 01:52:51
+* **Release Date:** August 17, 2016 @ 02:52:51
 * **Privacy Policy:** https://www.rsbaskin.com/bikefinder/privacy.html
 * **In-App Purchasing:** No

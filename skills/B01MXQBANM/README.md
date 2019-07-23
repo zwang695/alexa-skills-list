@@ -20,5 +20,5 @@ Interested in someone romantically? Want to approach in a Catholic-friendly mann
 * **ID:** amzn1.ask.skill.41c41cf9-9dc7-479a-b73c-be0d31fa65b0
 * **ASIN:** B01MXQBANM
 * **Author:** mtfalls
-* **Release Date:** November 25, 2016 @ 10:05:17
+* **Release Date:** November 25, 2016 @ 11:05:17
 * **In-App Purchasing:** No

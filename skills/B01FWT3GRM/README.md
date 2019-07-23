@@ -31,5 +31,5 @@ If the skill has any trouble recognizing your requested location, try these tips
 * **ID:** amzn1.echo-sdk-ams.app.ec44a2ab-6a51-48e4-ad8f-963eb9546da0
 * **ASIN:** B01FWT3GRM
 * **Author:** SMK Web Development
-* **Release Date:** May 25, 2016 @ 08:38:38
+* **Release Date:** May 25, 2016 @ 09:38:38
 * **In-App Purchasing:** No

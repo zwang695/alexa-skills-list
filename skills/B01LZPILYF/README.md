@@ -20,5 +20,5 @@ The Monarch Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.cd1331ff-c4b4-45bf-a471-2a58660e7cab
 * **ASIN:** B01LZPILYF
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 10:44:06
+* **Release Date:** October 19, 2016 @ 11:44:06
 * **In-App Purchasing:** No

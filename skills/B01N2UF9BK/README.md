@@ -12,6 +12,6 @@ null
 * **ID:** amzn1.ask.skill.231f9a10-1c8d-4362-8a22-9aec01960eab
 * **ASIN:** B01N2UF9BK
 * **Author:** Alexandre Nicol
-* **Release Date:** December 22, 2016 @ 08:49:47
+* **Release Date:** December 22, 2016 @ 09:49:47
 * **Account Linking Domains:** amazonaws.com, unpkg.com, openstreetmap.org
 * **In-App Purchasing:** No

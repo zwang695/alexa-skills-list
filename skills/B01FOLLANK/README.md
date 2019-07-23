@@ -16,5 +16,5 @@ You say a step and it will tell you what to do for that step. If you follow the 
 * **ID:** amzn1.echo-sdk-ams.app.1497d4da-7e2a-47d3-9dd6-e6e9fcd660bc
 * **ASIN:** B01FOLLANK
 * **Author:** Josiah Cole Hopkins
-* **Release Date:** May 17, 2016 @ 11:08:32
+* **Release Date:** May 17, 2016 @ 12:08:32
 * **In-App Purchasing:** No

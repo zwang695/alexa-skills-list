@@ -20,5 +20,5 @@ This skill's purpose is to bring Sai Baba's hymns to Alexa. Shri Sai Baba is rev
 * **ID:** amzn1.ask.skill.8df63337-e220-48f7-9800-099bfafb1ec2
 * **ASIN:** B01MXZSHZH
 * **Author:** spk
-* **Release Date:** December 24, 2016 @ 09:48:53
+* **Release Date:** December 24, 2016 @ 10:48:53
 * **In-App Purchasing:** No

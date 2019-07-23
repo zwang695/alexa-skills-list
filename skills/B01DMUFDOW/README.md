@@ -30,7 +30,7 @@ Alexa: “The next bus 69 bus towards Harvard, will arrive in 5 minutes".
 * **ID:** amzn1.echo-sdk-ams.app.1cdead98-2f3a-4133-ab56-2b22245894b8
 * **ASIN:** B01DMUFDOW
 * **Author:** Mycrobonics
-* **Release Date:** May 12, 2016 @ 14:38:43
+* **Release Date:** May 12, 2016 @ 15:38:43
 * **Privacy Policy:** http://sajingeo.github.io/askMBTA/
 * **Terms of Use:** http://sajingeo.github.io/askMBTA/
 * **In-App Purchasing:** No

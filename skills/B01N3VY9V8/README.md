@@ -20,5 +20,5 @@ A nutty world filled with Squirrels, don't you want to know more about our furry
 * **ID:** amzn1.ask.skill.69090c02-2c0f-4f07-af9a-e5336f08fab5
 * **ASIN:** B01N3VY9V8
 * **Author:** WiesmanApps
-* **Release Date:** November 11, 2016 @ 01:13:06
+* **Release Date:** November 11, 2016 @ 02:13:06
 * **In-App Purchasing:** No

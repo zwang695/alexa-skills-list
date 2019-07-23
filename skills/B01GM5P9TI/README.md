@@ -20,5 +20,5 @@ Returns basic statistics terms. There are a total of ten random basic terms this
 * **ID:** amzn1.echo-sdk-ams.app.7517fbd6-de74-4d0c-8aa1-bc3c1af215a8
 * **ASIN:** B01GM5P9TI
 * **Author:** erictleung
-* **Release Date:** June 15, 2016 @ 07:45:40
+* **Release Date:** June 15, 2016 @ 08:45:40
 * **In-App Purchasing:** No

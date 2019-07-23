@@ -20,5 +20,5 @@ A quick and simple fact skill that provides users with random unofficial facts o
 * **ID:** amzn1.ask.skill.158a90a6-81fe-4edf-add6-a171aafdd37d
 * **ASIN:** B01LZX6XPE
 * **Author:** Nghia
-* **Release Date:** October 18, 2016 @ 02:12:15
+* **Release Date:** October 18, 2016 @ 03:12:15
 * **In-App Purchasing:** No

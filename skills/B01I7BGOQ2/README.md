@@ -20,5 +20,5 @@ Have Alexa help managed family members.  No special hardware or account prerequi
 * **ID:** amzn1.echo-sdk-ams.app.21de583a-2e53-4af8-8410-179d4846dec8
 * **ASIN:** B01I7BGOQ2
 * **Author:** Dan Nugent
-* **Release Date:** September 1, 2016 @ 05:33:14
+* **Release Date:** September 1, 2016 @ 06:33:14
 * **In-App Purchasing:** No

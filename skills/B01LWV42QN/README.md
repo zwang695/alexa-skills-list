@@ -18,5 +18,5 @@ Scroll icon was created by Rena Rohrbacher from Noun Project
 * **ID:** amzn1.ask.skill.a195aaad-8673-4e29-b573-3ba86e22298d
 * **ASIN:** B01LWV42QN
 * **Author:** justjimmeh
-* **Release Date:** September 19, 2016 @ 02:12:37
+* **Release Date:** September 19, 2016 @ 03:12:37
 * **In-App Purchasing:** No

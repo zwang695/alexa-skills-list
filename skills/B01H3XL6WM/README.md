@@ -20,5 +20,5 @@ This skill provides users with a variety of stretches to do before they begin th
 * **ID:** amzn1.echo-sdk-ams.app.7448f2c2-b46e-4b88-9271-5c23549e081d
 * **ASIN:** B01H3XL6WM
 * **Author:** Shah
-* **Release Date:** June 20, 2016 @ 04:45:37
+* **Release Date:** June 20, 2016 @ 05:45:37
 * **In-App Purchasing:** No

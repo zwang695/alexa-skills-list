@@ -20,5 +20,5 @@ From the famous to the infamous, this quiz will test your knowledge of some of t
 * **ID:** amzn1.ask.skill.4cd22bef-0b4a-478b-942b-46736919a5c6
 * **ASIN:** B01LZ31Q8K
 * **Author:** Christopher Roemer
-* **Release Date:** October 11, 2016 @ 03:11:51
+* **Release Date:** October 11, 2016 @ 04:11:51
 * **In-App Purchasing:** No

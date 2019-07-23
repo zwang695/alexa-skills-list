@@ -50,5 +50,5 @@ And More...
 * **ID:** amzn1.ask.skill.7d942caa-da0f-45e5-81c8-08479081e33a
 * **ASIN:** B01NGTTOPK
 * **Author:** FatmaN Development
-* **Release Date:** December 13, 2016 @ 07:19:35
+* **Release Date:** December 13, 2016 @ 08:19:35
 * **In-App Purchasing:** No

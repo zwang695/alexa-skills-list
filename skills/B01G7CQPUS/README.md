@@ -22,5 +22,5 @@ Say, "Alexa, ask Tech Hunt for top products" and discover your next favorite thi
 * **ID:** amzn1.echo-sdk-ams.app.d012cc18-478b-44e3-9f9d-992c47282e55
 * **ASIN:** B01G7CQPUS
 * **Author:** Abhishek Warokar
-* **Release Date:** May 27, 2016 @ 17:38:28
+* **Release Date:** May 27, 2016 @ 18:38:28
 * **In-App Purchasing:** No

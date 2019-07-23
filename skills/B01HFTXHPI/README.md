@@ -20,5 +20,5 @@ Various sections of the Washington DC Metro rail system will be under constructi
 * **ID:** amzn1.echo-sdk-ams.app.804fe8f3-eaa8-477e-8654-1ebf3fd4634a
 * **ASIN:** B01HFTXHPI
 * **Author:** Eddie Rush
-* **Release Date:** June 28, 2016 @ 08:15:36
+* **Release Date:** June 28, 2016 @ 09:15:36
 * **In-App Purchasing:** No

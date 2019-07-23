@@ -20,5 +20,5 @@ Inclusive teaching means teaching in ways that do not exclude students, accident
 * **ID:** amzn1.echo-sdk-ams.app.e574aea5-e891-4f69-8b94-cfbcd1e92d60
 * **ASIN:** B01I68NNDS
 * **Author:** smprof
-* **Release Date:** July 19, 2016 @ 02:57:26
+* **Release Date:** July 19, 2016 @ 03:57:26
 * **In-App Purchasing:** No

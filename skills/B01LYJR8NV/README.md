@@ -20,5 +20,5 @@ This is a fan made skill for Amazon's Echo. Once installed, you will be able to 
 * **ID:** amzn1.ask.skill.218af940-1965-457b-a7bf-cc6a589407e2
 * **ASIN:** B01LYJR8NV
 * **Author:** choad industries
-* **Release Date:** November 15, 2016 @ 01:35:23
+* **Release Date:** November 15, 2016 @ 02:35:23
 * **In-App Purchasing:** No

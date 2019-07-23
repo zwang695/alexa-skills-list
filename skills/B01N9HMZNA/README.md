@@ -20,5 +20,5 @@ Enable this skill to answer 5 short questions about Jamaica to see how much you 
 * **ID:** amzn1.ask.skill.0f6b16f2-3154-4ed8-bffa-adb604426b77
 * **ASIN:** B01N9HMZNA
 * **Author:** CiroStratus Technology Solutions
-* **Release Date:** December 15, 2016 @ 08:19:34
+* **Release Date:** December 15, 2016 @ 09:19:34
 * **In-App Purchasing:** No

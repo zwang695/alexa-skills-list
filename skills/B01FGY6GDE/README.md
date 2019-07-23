@@ -26,5 +26,5 @@ For every guess, Alexa will tell you how many nodes you guessed correctly (corre
 * **ID:** amzn1.echo-sdk-ams.app.0a451042-8329-4c1d-b61b-3d79964a969e
 * **ASIN:** B01FGY6GDE
 * **Author:** Abraham Maslow
-* **Release Date:** May 19, 2016 @ 05:08:40
+* **Release Date:** May 19, 2016 @ 06:08:40
 * **In-App Purchasing:** No

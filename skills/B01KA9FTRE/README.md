@@ -20,5 +20,5 @@ ShakesPartner allows you to practice any part from any Shakespeare play even whe
 * **ID:** amzn1.echo-sdk-ams.app.b2ae6c71-2df8-496b-b62f-f18fc4f05c0b
 * **ASIN:** B01KA9FTRE
 * **Author:** Rick Rothenberg
-* **Release Date:** August 19, 2016 @ 08:21:13
+* **Release Date:** August 19, 2016 @ 09:21:13
 * **In-App Purchasing:** No

@@ -32,5 +32,5 @@ Good luck with the challenges! The best way to a high score is to listen to more
 * **ID:** amzn1.ask.skill.c0ebffad-71e6-4517-b11e-ec0846624b60
 * **ASIN:** B01M04L5IG
 * **Author:** codedwire
-* **Release Date:** September 22, 2016 @ 03:42:00
+* **Release Date:** September 22, 2016 @ 04:42:00
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ This skill just allows you to try and begin world domination with your friendly 
 * **ID:** amzn1.ask.skill.d69b5116-2246-4f1e-805a-dd642739f8c9
 * **ASIN:** B01N0PWLX0
 * **Author:** Cody Rucks
-* **Release Date:** December 13, 2016 @ 07:49:36
+* **Release Date:** December 13, 2016 @ 08:49:36
 * **In-App Purchasing:** No

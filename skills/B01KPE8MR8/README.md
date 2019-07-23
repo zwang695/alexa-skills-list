@@ -22,5 +22,5 @@ Please note that I am a Harry Potter fan and am publishing this skill as an indi
 * **ID:** amzn1.ask.skill.636b4041-22d2-4546-a47d-63cc4c217cab
 * **ASIN:** B01KPE8MR8
 * **Author:** Dharmil Chandarana
-* **Release Date:** September 8, 2016 @ 02:33:39
+* **Release Date:** September 8, 2016 @ 03:33:39
 * **In-App Purchasing:** No

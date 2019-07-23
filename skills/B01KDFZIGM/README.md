@@ -20,5 +20,5 @@ This skill provides Alexa the knowledge of how to do your laundry. You can even 
 * **ID:** amzn1.ask.skill.c1a35c4d-7af2-4597-836c-4a5ff3c64998
 * **ASIN:** B01KDFZIGM
 * **Author:** Michelle Chan
-* **Release Date:** August 19, 2016 @ 08:21:16
+* **Release Date:** August 19, 2016 @ 09:21:16
 * **In-App Purchasing:** No

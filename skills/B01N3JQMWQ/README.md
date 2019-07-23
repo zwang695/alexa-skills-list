@@ -20,5 +20,5 @@ The Mont Sutton Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.90b7b25d-e09e-4431-886a-bbf97b71912a
 * **ASIN:** B01N3JQMWQ
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:43:51
+* **Release Date:** November 5, 2016 @ 12:43:51
 * **In-App Purchasing:** No

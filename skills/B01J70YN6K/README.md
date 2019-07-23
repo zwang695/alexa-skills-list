@@ -21,5 +21,5 @@ Answer with a number 1 through 4 to select the correct answer.
 * **ID:** amzn1.echo-sdk-ams.app.2c4d7b5f-2b5e-4a81-b495-91e3e6e12655
 * **ASIN:** B01J70YN6K
 * **Author:** Thomas Minnich
-* **Release Date:** July 29, 2016 @ 06:26:31
+* **Release Date:** July 29, 2016 @ 07:26:31
 * **In-App Purchasing:** No

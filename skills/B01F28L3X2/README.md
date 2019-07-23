@@ -22,7 +22,7 @@ Note: This is a fan-made game and not affiliated with Konami or Kojima Productio
 * **ID:** amzn1.echo-sdk-ams.app.3a5fc51b-2622-4deb-a4a5-3eed9247c89d
 * **ASIN:** B01F28L3X2
 * **Author:** Matt Urtnowski
-* **Release Date:** May 9, 2016 @ 03:08:29
+* **Release Date:** May 9, 2016 @ 04:08:29
 * **Privacy Policy:** https://github.com/Murtnowski/MetalGearSolidQuiz/blob/master/PrivacyPolicy.md
 * **Terms of Use:** https://github.com/Murtnowski/MetalGearSolidQuiz/blob/master/TermsOfUse.md
 * **In-App Purchasing:** No

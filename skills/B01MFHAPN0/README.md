@@ -20,5 +20,5 @@ The White Pine Snow Report brought to you by SnoCountry brings you the latest sn
 * **ID:** amzn1.ask.skill.b90f3d3a-d3d6-4e48-915b-8563f08bfe8b
 * **ASIN:** B01MFHAPN0
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:44:58
+* **Release Date:** November 5, 2016 @ 11:44:58
 * **In-App Purchasing:** No

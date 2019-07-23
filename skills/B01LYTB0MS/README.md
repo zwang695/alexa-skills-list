@@ -20,5 +20,5 @@ Ever wonder what the rovers on Mars are doing?  Here’s your chance to ask NASA
 * **ID:** amzn1.echo-sdk-ams.app.633f338f-83c8-4d9c-a4a9-2f0b03f4420e
 * **ASIN:** B01LYTB0MS
 * **Author:** Jet Propulsion Laboratory
-* **Release Date:** November 29, 2016 @ 19:05:25
+* **Release Date:** November 29, 2016 @ 20:05:25
 * **In-App Purchasing:** No

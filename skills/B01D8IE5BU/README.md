@@ -20,5 +20,5 @@ Quickly learn the capital cities of South America by letting Alexa quiz you in m
 * **ID:** amzn1.echo-sdk-ams.app.72854b18-ff61-4bd5-b911-2ed8f7fb6e7b
 * **ASIN:** B01D8IE5BU
 * **Author:** Four-Story Limit 
-* **Release Date:** March 21, 2016 @ 04:46:01
+* **Release Date:** March 21, 2016 @ 05:46:01
 * **In-App Purchasing:** No

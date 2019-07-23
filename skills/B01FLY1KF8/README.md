@@ -75,5 +75,5 @@ Sample food items can be found at:
 * **ID:** amzn1.echo-sdk-ams.app.5acba9b5-6d09-4444-aaa8-618c56eb0335
 * **ASIN:** B01FLY1KF8
 * **Author:** VENU PARIPELLY
-* **Release Date:** May 27, 2016 @ 03:08:44
+* **Release Date:** May 27, 2016 @ 04:08:44
 * **In-App Purchasing:** No

@@ -46,7 +46,7 @@ To use the BMW Connected skill, try saying...
 * **ID:** amzn1.ask.skill.8954f42f-361a-4598-924d-27064f02c20d
 * **ASIN:** B01LWLCMGF
 * **Author:** BMW Technology Group
-* **Release Date:** September 29, 2016 @ 20:12:05
+* **Release Date:** September 29, 2016 @ 21:12:05
 * **Privacy Policy:** https://myc-profile.bmwusa.com/api/gateway/contentserver/staticcontent/amazonAlexa/privacyPolicy/en-us/privacyPolicy.html
 * **Terms of Use:** https://myc-profile.bmwusa.com/api/gateway/contentserver/staticcontent/amazonAlexa/tandc/en-us/termsAndConditions.html
 * **Account Linking Domains:** btcalexaskillservwebapp.azurewebsites.net, myc-profile.bmwusa.com, btccontentserver.bmwgroup.com

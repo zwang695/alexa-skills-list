@@ -20,5 +20,5 @@ The Bryce Resort Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.e693a085-67c8-4da2-91c2-5ba343b7b358
 * **ASIN:** B01M5K682N
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:43:03
+* **Release Date:** November 4, 2016 @ 09:43:03
 * **In-App Purchasing:** No

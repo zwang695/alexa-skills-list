@@ -71,7 +71,7 @@ Sous Chef
 * **ID:** amzn1.ask.skill.39d8c2eb-b161-4249-80fa-c8a8c3960035
 * **ASIN:** B01LYK4FI5
 * **Author:** backwardsE LLC
-* **Release Date:** October 10, 2016 @ 07:11:44
+* **Release Date:** October 10, 2016 @ 08:11:44
 * **Privacy Policy:** http://souschef.recipes/privacy.html
 * **Terms of Use:** http://souschef.recipes/tos.html
 * **Account Linking Domains:** backwardse.com

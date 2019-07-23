@@ -20,5 +20,5 @@ This app give you a daily dose of Stoicism with a selection of the most popular 
 * **ID:** amzn1.ask.skill.dcf9b325-ad5c-4d17-8bf1-2f86460d2e9a
 * **ASIN:** B01N1VDN0R
 * **Author:** IWS Design
-* **Release Date:** December 29, 2016 @ 05:20:32
+* **Release Date:** December 29, 2016 @ 06:20:32
 * **In-App Purchasing:** No

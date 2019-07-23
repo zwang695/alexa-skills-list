@@ -20,5 +20,5 @@ Reads the WOD for CrossFit 1 Nation
 * **ID:** amzn1.echo-sdk-ams.app.0e7af247-78fa-4993-bff6-6e092f51c00f
 * **ASIN:** B01GW5JHNC
 * **Author:** Chris McCartin
-* **Release Date:** June 21, 2016 @ 06:45:44
+* **Release Date:** June 21, 2016 @ 07:45:44
 * **In-App Purchasing:** No

@@ -68,7 +68,7 @@ If you experience troubles with the skill recognizing your device try using a mo
 * **ID:** amzn1.echo-sdk-ams.app.60786130-18f6-476f-b716-d0a109fe6b1c
 * **ASIN:** B01A6ACVD2
 * **Author:** Vivint Inc.
-* **Release Date:** January 4, 2016 @ 19:31:42
+* **Release Date:** January 4, 2016 @ 20:31:42
 * **Privacy Policy:** http://www.vivint.com/company/policies/privacy
 * **Terms of Use:** http://www.vivint.com/company/policies/terms-of-use
 * **In-App Purchasing:** No

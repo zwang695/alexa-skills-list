@@ -26,5 +26,5 @@ How many state trees do you know?
 * **ID:** amzn1.echo-sdk-ams.app.71db75ed-0fa0-474e-a4ee-8e9438e39aae
 * **ASIN:** B01EJVXUAW
 * **Author:** Ten10 Digital
-* **Release Date:** April 21, 2016 @ 18:08:31
+* **Release Date:** April 21, 2016 @ 19:08:31
 * **In-App Purchasing:** No

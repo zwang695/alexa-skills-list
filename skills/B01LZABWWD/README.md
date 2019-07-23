@@ -20,5 +20,5 @@ The Banff Norquay Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.3654afbd-aabb-4cb4-890f-c621c122381c
 * **ASIN:** B01LZABWWD
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:46:03
+* **Release Date:** October 20, 2016 @ 04:46:03
 * **In-App Purchasing:** No

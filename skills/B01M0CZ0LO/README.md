@@ -20,5 +20,5 @@ The Mt Baldy Snow Report brought to you by SnoCountry brings you the latest snow
 * **ID:** amzn1.ask.skill.3c5934af-158c-47ee-a39d-4448d95b7af0
 * **ASIN:** B01M0CZ0LO
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:45:12
+* **Release Date:** October 20, 2016 @ 04:45:12
 * **In-App Purchasing:** No

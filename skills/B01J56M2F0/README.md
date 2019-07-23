@@ -20,5 +20,5 @@ Heart health trivia - Ask five questions with three answers each to rate the hea
 * **ID:** amzn1.ask.skill.f0a1b3a0-b7dd-40f9-9cf5-9fe47d1a062d
 * **ASIN:** B01J56M2F0
 * **Author:** JJ
-* **Release Date:** July 29, 2016 @ 05:26:43
+* **Release Date:** July 29, 2016 @ 06:26:43
 * **In-App Purchasing:** No

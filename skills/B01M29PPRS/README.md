@@ -20,5 +20,5 @@ This skill searches the Cultural District website for events.  You can search by
 * **ID:** amzn1.ask.skill.4be50414-b0d0-4cb0-81ec-18d145d911f3
 * **ASIN:** B01M29PPRS
 * **Author:** Pittsburgh Cultural Trust
-* **Release Date:** December 6, 2016 @ 07:49:03
+* **Release Date:** December 6, 2016 @ 08:49:03
 * **In-App Purchasing:** No

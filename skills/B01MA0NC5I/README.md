@@ -16,5 +16,5 @@ This app has many interesting facts about human anatomy. Did you know that when 
 * **ID:** amzn1.ask.skill.cbc90295-8a50-4ad4-8f2b-4432283a1838
 * **ASIN:** B01MA0NC5I
 * **Author:** Kaitlyn McPartland
-* **Release Date:** October 11, 2016 @ 04:41:39
+* **Release Date:** October 11, 2016 @ 05:41:39
 * **In-App Purchasing:** No

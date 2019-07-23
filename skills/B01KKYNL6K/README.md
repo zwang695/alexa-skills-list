@@ -20,5 +20,5 @@ This lists north and south american countries. Do you know them all?
 * **ID:** amzn1.ask.skill.8afb04b7-3f30-456a-87da-a9353a562462
 * **ASIN:** B01KKYNL6K
 * **Author:** Alex W
-* **Release Date:** August 18, 2016 @ 07:52:12
+* **Release Date:** August 18, 2016 @ 08:52:12
 * **In-App Purchasing:** No

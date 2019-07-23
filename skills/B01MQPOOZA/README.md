@@ -22,5 +22,5 @@ Discover Kaladesh provides information about random creatures from the Kaladesh 
 * **ID:** amzn1.ask.skill.705b84b5-d65d-4ed1-8d3c-fc9868ff3ebb
 * **ASIN:** B01MQPOOZA
 * **Author:** Mike Dunton
-* **Release Date:** December 3, 2016 @ 02:35:42
+* **Release Date:** December 3, 2016 @ 03:35:42
 * **In-App Purchasing:** No

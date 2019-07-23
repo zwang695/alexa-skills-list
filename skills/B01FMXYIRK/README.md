@@ -20,5 +20,5 @@ Test your knowledge of SciFi Trivia with this skill.
 * **ID:** amzn1.echo-sdk-ams.app.dba7a0db-017d-4bce-9b6e-69c449c19381
 * **ASIN:** B01FMXYIRK
 * **Author:** Robert Evans
-* **Release Date:** May 19, 2016 @ 08:38:37
+* **Release Date:** May 19, 2016 @ 09:38:37
 * **In-App Purchasing:** No

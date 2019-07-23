@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.3eb0c709-493f-46da-9d42-7b06dfbc0981
 * **ASIN:** B01MZWMP7O
 * **Author:** Altiros
-* **Release Date:** November 28, 2016 @ 04:06:00
+* **Release Date:** November 28, 2016 @ 05:06:00
 * **In-App Purchasing:** No

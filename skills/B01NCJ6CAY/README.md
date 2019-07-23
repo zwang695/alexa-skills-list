@@ -20,5 +20,5 @@ Whether you are looking for predictions or just seeking inspiration, ask Alexa t
 * **ID:** amzn1.ask.skill.d53f4a89-c94f-428f-b840-ece101dcd10e
 * **ASIN:** B01NCJ6CAY
 * **Author:** Ernestoyaquello
-* **Release Date:** December 10, 2016 @ 00:19:27
+* **Release Date:** December 10, 2016 @ 01:19:27
 * **In-App Purchasing:** No

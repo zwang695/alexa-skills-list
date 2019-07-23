@@ -20,5 +20,5 @@ Find out about fun holidays and when to celebrate them.  When are holidays celeb
 * **ID:** amzn1.ask.skill.648bae95-b7fa-4b39-8bda-afe4ad561a13
 * **ASIN:** B01MDQ1EJL
 * **Author:** w3check.com, LLC
-* **Release Date:** November 22, 2016 @ 08:36:05
+* **Release Date:** November 22, 2016 @ 09:36:05
 * **In-App Purchasing:** No

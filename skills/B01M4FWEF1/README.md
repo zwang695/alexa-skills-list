@@ -20,5 +20,5 @@ Magic Jukebox is Powered by SoundCloud.  SoundCloud is an audio platform that le
 * **ID:** amzn1.echo-sdk-ams.app.1e5104b8-1397-4cab-accd-f890b2e018ec
 * **ASIN:** B01M4FWEF1
 * **Author:** techdad24.com
-* **Release Date:** October 13, 2016 @ 01:47:30
+* **Release Date:** October 13, 2016 @ 02:47:30
 * **In-App Purchasing:** No

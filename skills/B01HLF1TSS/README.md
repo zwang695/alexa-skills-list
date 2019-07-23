@@ -20,5 +20,5 @@ All the truth statements you'll ever need
 * **ID:** amzn1.echo-sdk-ams.app.7f29ae9f-8d4d-4890-b1f7-0abb16caba5f
 * **ASIN:** B01HLF1TSS
 * **Author:** Vincent Liu
-* **Release Date:** June 28, 2016 @ 06:15:51
+* **Release Date:** June 28, 2016 @ 07:15:51
 * **In-App Purchasing:** No

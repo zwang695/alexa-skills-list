@@ -20,5 +20,5 @@ Amaze your friends! Astound your family! Annoy your pets with Jack's Trivia! Sha
 * **ID:** amzn1.echo-sdk-ams.app.4e7d74b1-5808-4f00-9c36-61f2c484943f
 * **ASIN:** B01DJC8RZA
 * **Author:** CentralScience
-* **Release Date:** March 28, 2016 @ 09:47:22
+* **Release Date:** March 28, 2016 @ 10:47:22
 * **In-App Purchasing:** No

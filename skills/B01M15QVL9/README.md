@@ -20,5 +20,5 @@ Ask Alexa for a French Bulldog fact.  You can ask Alexa to "Open the French Bull
 * **ID:** amzn1.ask.skill.28cd39d5-1632-4832-8f81-ae79ba54bca7
 * **ASIN:** B01M15QVL9
 * **Author:** Wow Made Simple
-* **Release Date:** October 8, 2016 @ 05:11:54
+* **Release Date:** October 8, 2016 @ 06:11:54
 * **In-App Purchasing:** No

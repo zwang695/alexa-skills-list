@@ -20,5 +20,5 @@ obtains random world war two facts and repeats them in morse code
 * **ID:** amzn1.ask.skill.5f210e6d-2017-47ff-ad17-77d3b99ba7a8
 * **ASIN:** B01N6LHQS0
 * **Author:** David Wisnowski
-* **Release Date:** January 3, 2017 @ 05:19:11
+* **Release Date:** January 3, 2017 @ 06:19:11
 * **In-App Purchasing:** No

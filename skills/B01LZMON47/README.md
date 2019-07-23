@@ -20,5 +20,5 @@ Find interesting facts and tidbits about the Beagle dog and its origins.
 * **ID:** amzn1.ask.skill.0ac354e3-a31d-41ee-94bd-057b0f49daf5
 * **ASIN:** B01LZMON47
 * **Author:** Brian L. Beagle
-* **Release Date:** October 4, 2016 @ 01:42:28
+* **Release Date:** October 4, 2016 @ 02:42:28
 * **In-App Purchasing:** No

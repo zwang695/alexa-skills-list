@@ -20,5 +20,5 @@ It's the classic rock, paper, scissors game, but it will keep a record of your p
 * **ID:** amzn1.ask.skill.8f38c661-faea-4ce6-a9ef-3d0084c30f01
 * **ASIN:** B01M69BK64
 * **Author:** Tree Frog Labs
-* **Release Date:** November 2, 2016 @ 03:42:43
+* **Release Date:** November 2, 2016 @ 04:42:43
 * **In-App Purchasing:** No

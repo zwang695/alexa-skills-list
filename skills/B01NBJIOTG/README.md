@@ -20,5 +20,5 @@ This will tell you the last 5 plays that has happened in the most recent Kings h
 * **ID:** amzn1.ask.skill.e03b9b19-bb5a-48e2-a4cf-550a1e5994b5
 * **ASIN:** B01NBJIOTG
 * **Author:** Mr. CatNaps
-* **Release Date:** December 13, 2016 @ 08:19:31
+* **Release Date:** December 13, 2016 @ 09:19:31
 * **In-App Purchasing:** No

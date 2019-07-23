@@ -22,5 +22,5 @@ Now you can take your time learning a few capitals a day, because the latest ver
 * **ID:** amzn1.echo-sdk-ams.app.00edb759-d8b1-46a2-b3a6-576c13c29117
 * **ASIN:** B019YP4I9U
 * **Author:** Futurose LLC
-* **Release Date:** December 29, 2015 @ 18:02:24
+* **Release Date:** December 29, 2015 @ 19:02:24
 * **In-App Purchasing:** No

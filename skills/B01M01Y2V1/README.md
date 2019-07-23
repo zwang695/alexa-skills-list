@@ -20,5 +20,5 @@ This app will say a New International Version (NIV) Bible verse that is related 
 * **ID:** amzn1.ask.skill.66340e18-edda-4499-982b-e58d2698c5e0
 * **ASIN:** B01M01Y2V1
 * **Author:** 4SITE Inc
-* **Release Date:** October 10, 2016 @ 06:11:44
+* **Release Date:** October 10, 2016 @ 07:11:44
 * **In-App Purchasing:** No

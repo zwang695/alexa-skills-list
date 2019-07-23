@@ -20,5 +20,5 @@ Essential Trivia provides the opportunity to enjoy all the fun of trivia, withou
 * **ID:** amzn1.echo-sdk-ams.app.d099af1c-ad73-43e2-a32c-3f604b6839c0
 * **ASIN:** B01B1U8ZLS
 * **Author:** Robert Hellestrae
-* **Release Date:** January 25, 2016 @ 10:56:44
+* **Release Date:** January 25, 2016 @ 11:56:44
 * **In-App Purchasing:** No

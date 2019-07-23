@@ -20,5 +20,5 @@ With Whiteboard, you can use your Echo as a companion in your technical intervie
 * **ID:** amzn1.echo-sdk-ams.app.3556ea76-1e08-42af-a83b-6005dd3139f8
 * **ASIN:** B01HEKBWW8
 * **Author:** wesleywillis
-* **Release Date:** June 23, 2016 @ 07:45:41
+* **Release Date:** June 23, 2016 @ 08:45:41
 * **In-App Purchasing:** No

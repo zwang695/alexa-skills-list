@@ -22,7 +22,7 @@ Try saying things like, "Alexa, ask CNBC for the latest news" to hear the headli
 * **ID:** amzn1.ask.skill.ca2330f5-29cd-44d5-baa2-5d48e401e00a
 * **ASIN:** B01KUGK3QE
 * **Author:** NBCUniversal
-* **Release Date:** November 4, 2016 @ 08:47:21
+* **Release Date:** November 4, 2016 @ 09:47:21
 * **Privacy Policy:** http://www.nbcuniversal.com/privacy/full-privacy-policy
 * **Terms of Use:** http://www.cnbc.com/cnbc-amazon-alexa-skills-terms-of-use
 * **In-App Purchasing:** No

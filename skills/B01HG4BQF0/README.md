@@ -21,5 +21,5 @@ The player begins by saying "Alexa, play hangman game."  They can say "repeat" t
 * **ID:** amzn1.echo-sdk-ams.app.747a537c-cdf8-449c-8ae8-111bedfe42b4
 * **ASIN:** B01HG4BQF0
 * **Author:** Alan Zimmerman
-* **Release Date:** June 27, 2016 @ 02:45:41
+* **Release Date:** June 27, 2016 @ 03:45:41
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Morning Haikus is a non-conversational skill that will give one haiku per invoca
 * **ID:** amzn1.ask.skill.3b3212a6-7c3b-4c2d-8f17-3a06f40d563e
 * **ASIN:** B01N2Y8BGK
 * **Author:** DanteDG
-* **Release Date:** December 29, 2016 @ 03:19:25
+* **Release Date:** December 29, 2016 @ 04:19:25
 * **In-App Purchasing:** No

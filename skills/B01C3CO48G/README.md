@@ -30,5 +30,5 @@ Be sure to rate the game if you enjoy it!
 * **ID:** amzn1.echo-sdk-ams.app.981b5af5-089f-4112-9913-4588bc5beb2a
 * **ASIN:** B01C3CO48G
 * **Author:** Amazon
-* **Release Date:** February 22, 2016 @ 14:39:55
+* **Release Date:** February 22, 2016 @ 15:39:55
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ All of the facts about Jack.
 * **ID:** amzn1.ask.skill.ca535426-f83f-4c90-980d-1705e85a087d
 * **ASIN:** B01MXWHPZZ
 * **Author:** theduds
-* **Release Date:** December 16, 2016 @ 06:19:31
+* **Release Date:** December 16, 2016 @ 07:19:31
 * **In-App Purchasing:** No

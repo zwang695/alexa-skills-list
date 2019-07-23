@@ -22,5 +22,5 @@ Note that because this skill includes Elizabethan-era strong language, it may no
 * **ID:** amzn1.echo-sdk-ams.app.f30f1c78-71d6-4a85-bb92-6cb1dfc36c78
 * **ASIN:** B017OBNX7Y
 * **Author:** LME Skills
-* **Release Date:** November 6, 2015 @ 14:12:49
+* **Release Date:** November 6, 2015 @ 15:12:49
 * **In-App Purchasing:** No

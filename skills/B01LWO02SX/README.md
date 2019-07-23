@@ -16,5 +16,5 @@ Beatles Facts is a fun way to learn about The Beatles featuring many fun facts a
 * **ID:** amzn1.ask.skill.50e5d000-3c06-4095-88ae-b64cb35f4038
 * **ASIN:** B01LWO02SX
 * **Author:** Charlotte Abrams
-* **Release Date:** October 3, 2016 @ 02:42:04
+* **Release Date:** October 3, 2016 @ 03:42:04
 * **In-App Purchasing:** No

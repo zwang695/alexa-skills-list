@@ -20,5 +20,5 @@ The Ski La Reserve Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.86d38d5d-a3c7-4a6e-8252-15c08f7705a9
 * **ASIN:** B01N097GT9
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:13:13
+* **Release Date:** November 5, 2016 @ 12:13:13
 * **In-App Purchasing:** No

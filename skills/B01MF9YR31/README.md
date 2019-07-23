@@ -20,5 +20,5 @@ The Nashoba Valley Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.56101e2b-c016-4c99-868c-421827cedf55
 * **ASIN:** B01MF9YR31
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:15:19
+* **Release Date:** October 21, 2016 @ 15:15:19
 * **In-App Purchasing:** No

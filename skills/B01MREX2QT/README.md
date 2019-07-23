@@ -20,5 +20,5 @@ The Deer Valley Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.f25d92ca-d117-4e94-81ad-9d1306d4ea4e
 * **ASIN:** B01MREX2QT
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:43:10
+* **Release Date:** November 4, 2016 @ 09:43:10
 * **In-App Purchasing:** No

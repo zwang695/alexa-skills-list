@@ -31,5 +31,5 @@ Disclaimer:  Refrigeration guidelines were collected from FoodSafety.gov. In no 
 * **ID:** amzn1.echo-sdk-ams.app.20c87d4c-f522-4d0d-81e2-39aef0c3a7ad
 * **ASIN:** B01HQW7016
 * **Author:** builditdan
-* **Release Date:** June 30, 2016 @ 09:27:37
+* **Release Date:** June 30, 2016 @ 10:27:37
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This is a small reference skill that finds the latitude and longitude of almost 
 * **ID:** amzn1.echo-sdk-ams.app.608aa413-ba97-41e2-8ffb-13a716fba91c
 * **ASIN:** B01DKT5O7G
 * **Author:** Developer
-* **Release Date:** April 14, 2016 @ 08:02:51
+* **Release Date:** April 14, 2016 @ 09:02:51
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Enjoy!
 * **ID:** amzn1.echo-sdk-ams.app.052b92cd-025f-4b4e-92cf-fef35214b7de
 * **ASIN:** B01DEYA56M
 * **Author:** JGDev!
-* **Release Date:** March 25, 2016 @ 03:07:49
+* **Release Date:** March 25, 2016 @ 04:07:49
 * **In-App Purchasing:** No

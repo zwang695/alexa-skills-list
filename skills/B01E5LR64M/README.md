@@ -20,5 +20,5 @@ White House Facts contains a bank of facts about the White House.
 * **ID:** amzn1.echo-sdk-ams.app.0ed8413a-5b85-4bf9-bd0d-85507061476c
 * **ASIN:** B01E5LR64M
 * **Author:** Adrian Bolinger
-* **Release Date:** April 20, 2016 @ 16:02:31
+* **Release Date:** April 20, 2016 @ 17:02:31
 * **In-App Purchasing:** No

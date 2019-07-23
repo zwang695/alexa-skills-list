@@ -21,5 +21,5 @@ It helps to enunciate the letters clearly (for example, it is easy for Alexa to 
 * **ID:** amzn1.echo-sdk-ams.app.22799827-aae1-4115-9b48-e2b74e33ee03
 * **ASIN:** B0197E9NX4
 * **Author:** Mahesh
-* **Release Date:** December 10, 2015 @ 18:06:31
+* **Release Date:** December 10, 2015 @ 19:06:31
 * **In-App Purchasing:** No

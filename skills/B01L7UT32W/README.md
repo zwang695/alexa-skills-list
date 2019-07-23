@@ -20,5 +20,5 @@ To hear interesting Spock's quotes from Star Trek, just demand the Amazon device
 * **ID:** amzn1.ask.skill.552c97b1-ea96-4598-9fe4-fb6a838917e1
 * **ASIN:** B01L7UT32W
 * **Author:** Shruti More
-* **Release Date:** September 3, 2016 @ 04:03:31
+* **Release Date:** September 3, 2016 @ 05:03:31
 * **In-App Purchasing:** No

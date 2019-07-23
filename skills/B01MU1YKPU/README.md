@@ -22,5 +22,5 @@ Seance is a fun and enjoyable narrative game. Any resemblance to any persons liv
 * **ID:** amzn1.ask.skill.85539531-6923-4341-9b8d-f83ef31526a2
 * **ASIN:** B01MU1YKPU
 * **Author:** Volta Software LLC
-* **Release Date:** January 3, 2017 @ 08:23:33
+* **Release Date:** January 3, 2017 @ 09:23:33
 * **In-App Purchasing:** No

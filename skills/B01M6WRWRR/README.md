@@ -20,5 +20,5 @@ Fun facts aboot friendly Canada that you m-eh or m-eh not know.
 * **ID:** amzn1.ask.skill.60de8620-cb66-43fe-9b36-5ca1fb3de0ec
 * **ASIN:** B01M6WRWRR
 * **Author:** John Stepan
-* **Release Date:** October 21, 2016 @ 15:15:11
+* **Release Date:** October 21, 2016 @ 16:15:11
 * **In-App Purchasing:** No

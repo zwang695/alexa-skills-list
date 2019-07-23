@@ -20,5 +20,5 @@ This is skill allows an end user to get some basic facts about a game of corn ho
 * **ID:** amzn1.ask.skill.b50a3b6f-f075-4430-a000-3ec657889205
 * **ASIN:** B01LY8C898
 * **Author:** Wow Made Simple
-* **Release Date:** September 22, 2016 @ 06:42:37
+* **Release Date:** September 22, 2016 @ 07:42:37
 * **In-App Purchasing:** No

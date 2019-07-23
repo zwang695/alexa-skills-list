@@ -20,5 +20,5 @@ Ask Aexa about kite facts and Alexa will tell you a random fact about kite from 
 * **ID:** amzn1.ask.skill.382bd856-55e3-4b4f-9c06-9d256872d572
 * **ASIN:** B01LZ7FFCT
 * **Author:** Sujogya
-* **Release Date:** September 22, 2016 @ 06:12:04
+* **Release Date:** September 22, 2016 @ 07:12:04
 * **In-App Purchasing:** No

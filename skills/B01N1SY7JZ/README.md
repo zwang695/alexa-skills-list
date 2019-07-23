@@ -20,5 +20,5 @@ This action enables you to find out basic statistics about every website and eve
 * **ID:** amzn1.ask.skill.60ef0925-d780-488b-bec1-3949831e7239
 * **ASIN:** B01N1SY7JZ
 * **Author:** SimilarWeb
-* **Release Date:** December 20, 2016 @ 03:49:33
+* **Release Date:** December 20, 2016 @ 04:49:33
 * **In-App Purchasing:** No

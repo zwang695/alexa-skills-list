@@ -20,5 +20,5 @@ With the World Cup Facts skill, Alexa will tell you facts about the World Cup.
 * **ID:** amzn1.echo-sdk-ams.app.8ca58bc1-ca70-48e0-9d1b-7ff8e00aa9cb
 * **ASIN:** B01I2G7U9W
 * **Author:** Keppy
-* **Release Date:** July 7, 2016 @ 07:57:29
+* **Release Date:** July 7, 2016 @ 08:57:29
 * **In-App Purchasing:** No

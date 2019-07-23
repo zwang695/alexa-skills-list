@@ -20,5 +20,5 @@ Facts about scuba diving
 * **ID:** amzn1.ask.skill.610a86c1-f269-4e67-8920-73878caeae35
 * **ASIN:** B01K8BDUAC
 * **Author:** ChesEnt
-* **Release Date:** August 13, 2016 @ 07:08:02
+* **Release Date:** August 13, 2016 @ 08:08:02
 * **In-App Purchasing:** No

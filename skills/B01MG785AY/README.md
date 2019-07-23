@@ -20,5 +20,5 @@ River Gauge will tell you the current water level of many popular paddling river
 * **ID:** amzn1.ask.skill.d7ad931d-6966-44e6-bafc-5de1cf48ab7c
 * **ASIN:** B01MG785AY
 * **Author:** Andrew Bergstrom
-* **Release Date:** November 2, 2016 @ 09:13:16
+* **Release Date:** November 2, 2016 @ 10:13:16
 * **In-App Purchasing:** No

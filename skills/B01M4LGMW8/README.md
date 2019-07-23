@@ -20,5 +20,5 @@ The Bay Mountain Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.e9520f58-9dfb-4aa8-a9e2-5f87d70f37ec
 * **ASIN:** B01M4LGMW8
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:14:32
+* **Release Date:** October 21, 2016 @ 15:14:32
 * **In-App Purchasing:** No

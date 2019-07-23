@@ -23,5 +23,5 @@ This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.3076d8ab-c84b-4391-9045-23908727e314
 * **ASIN:** B01EXOGWSM
 * **Author:** Aaron Koz
-* **Release Date:** May 4, 2016 @ 08:08:40
+* **Release Date:** May 4, 2016 @ 09:08:40
 * **In-App Purchasing:** No

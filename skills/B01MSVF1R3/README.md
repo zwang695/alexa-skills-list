@@ -20,5 +20,5 @@ This skill expresses your displeasure with a clean cuss word
 * **ID:** amzn1.ask.skill.29a2a5bf-7daf-445b-aa3e-53f6ddf24eca
 * **ASIN:** B01MSVF1R3
 * **Author:** ESOV App
-* **Release Date:** December 8, 2016 @ 06:49:37
+* **Release Date:** December 8, 2016 @ 07:49:37
 * **In-App Purchasing:** No

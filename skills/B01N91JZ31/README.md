@@ -26,5 +26,5 @@ Our skill is not sponsored by Game of Thrones. It is a fan developed project.
 * **ID:** amzn1.ask.skill.4d2837de-c42c-49f7-a98d-689265fad6f0
 * **ASIN:** B01N91JZ31
 * **Author:** Sushmit Dharurkar
-* **Release Date:** November 16, 2016 @ 02:06:47
+* **Release Date:** November 16, 2016 @ 03:06:47
 * **In-App Purchasing:** No

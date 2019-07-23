@@ -36,5 +36,5 @@ You can also get more information about a particular movie. After listening to a
 * **ID:** amzn1.echo-sdk-ams.app.5e5e90f5-506b-4d83-a46b-d640b6652ea8
 * **ASIN:** B01HM3KGPG
 * **Author:** Krish Furia
-* **Release Date:** November 4, 2016 @ 02:44:26
+* **Release Date:** November 4, 2016 @ 03:44:26
 * **In-App Purchasing:** No

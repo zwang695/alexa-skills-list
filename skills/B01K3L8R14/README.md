@@ -20,5 +20,5 @@ Are you interested in daily words? Rely on Daily Words for notable daily words f
 * **ID:** amzn1.ask.skill.2e41a703-cf14-4553-a084-34096ad895a2
 * **ASIN:** B01K3L8R14
 * **Author:** Appbly.com
-* **Release Date:** August 11, 2016 @ 05:37:29
+* **Release Date:** August 11, 2016 @ 06:37:29
 * **In-App Purchasing:** No

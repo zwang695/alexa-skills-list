@@ -20,5 +20,5 @@ Think you got what it takes to answer some US History. Take this fun and short q
 * **ID:** amzn1.echo-sdk-ams.app.ade884dc-ae85-4702-8202-1fcaf8e87fa1
 * **ASIN:** B01H4I76J8
 * **Author:** MrTechnolgyNerd
-* **Release Date:** June 17, 2016 @ 06:45:34
+* **Release Date:** June 17, 2016 @ 07:45:34
 * **In-App Purchasing:** No

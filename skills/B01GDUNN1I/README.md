@@ -26,7 +26,7 @@ More bird songs will be added over time.
 * **ID:** amzn1.echo-sdk-ams.app.e2bc5cf0-485b-4da9-8d10-16f4f380a901
 * **ASIN:** B01GDUNN1I
 * **Author:** Amalgamated Clyde Inc.
-* **Release Date:** June 8, 2016 @ 07:41:42
+* **Release Date:** June 8, 2016 @ 08:41:42
 * **Privacy Policy:** https://s3.amazonaws.com/birdsongs/privacy+policy.html
 * **Terms of Use:** https://s3.amazonaws.com/birdsongs/ToS.html
 * **In-App Purchasing:** No

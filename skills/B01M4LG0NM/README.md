@@ -20,5 +20,5 @@ The Mount Brighton Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.c59ff444-b56e-4ebf-872e-7b6dbce0b711
 * **ASIN:** B01M4LG0NM
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:14:16
+* **Release Date:** October 21, 2016 @ 16:14:16
 * **In-App Purchasing:** No

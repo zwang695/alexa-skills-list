@@ -18,5 +18,5 @@ Are you ready to test your knowledge? Trivia crack is a fascinating game where y
 * **ID:** amzn1.ask.skill.93562f51-9f7c-4831-ad3d-8156bf87e2e3
 * **ASIN:** B01MFHDMYP
 * **Author:** Avanza Ventures
-* **Release Date:** November 9, 2016 @ 00:44:47
+* **Release Date:** November 9, 2016 @ 01:44:47
 * **In-App Purchasing:** No

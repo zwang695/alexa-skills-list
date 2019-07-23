@@ -21,5 +21,5 @@ This skill should strengthen husband and wife's relationship.   Use as often as 
 * **ID:** amzn1.echo-sdk-ams.app.203e874b-58c8-4c7f-a610-17bde1c87983
 * **ASIN:** B01HQUXSQ4
 * **Author:** Takekuni
-* **Release Date:** July 13, 2016 @ 06:57:38
+* **Release Date:** July 13, 2016 @ 07:57:38
 * **In-App Purchasing:** No

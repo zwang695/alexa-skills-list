@@ -20,5 +20,5 @@ Simply ask Alexa for an idea from Giant Spoon and then sit back and get ready to
 * **ID:** amzn1.echo-sdk-ams.app.2723be85-364e-442d-ad18-14932a4c0681
 * **ASIN:** B01CY5R5LA
 * **Author:** Giant Spoon
-* **Release Date:** March 14, 2016 @ 03:41:29
+* **Release Date:** March 14, 2016 @ 04:41:29
 * **In-App Purchasing:** No

@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.80847f09-4db3-4672-84dd-12618f2f707e
 * **ASIN:** B01NBHJZII
 * **Author:** Bin4ry
-* **Release Date:** December 12, 2016 @ 06:49:19
+* **Release Date:** December 12, 2016 @ 07:49:19
 * **In-App Purchasing:** No

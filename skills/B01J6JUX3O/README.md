@@ -20,5 +20,5 @@ Quiz on state capitals of USA
 * **ID:** amzn1.ask.skill.e27d4687-f72d-474c-9e46-bf73c2126425
 * **ASIN:** B01J6JUX3O
 * **Author:** invotive
-* **Release Date:** August 2, 2016 @ 07:36:25
+* **Release Date:** August 2, 2016 @ 08:36:25
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Cloud related trivia for newbies
 * **ID:** amzn1.ask.skill.c35a6b0c-f9f4-4041-b5ce-651176d5dad4
 * **ASIN:** B01KC6CRWU
 * **Author:** DRath
-* **Release Date:** August 17, 2016 @ 06:52:32
+* **Release Date:** August 17, 2016 @ 07:52:32
 * **In-App Purchasing:** No

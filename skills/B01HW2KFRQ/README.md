@@ -20,5 +20,5 @@ In honor of Discovery's shark week, I put together several facts about sharks.  
 * **ID:** amzn1.echo-sdk-ams.app.4f964c24-8157-4a1d-953f-714ea630deba
 * **ASIN:** B01HW2KFRQ
 * **Author:** Personal
-* **Release Date:** July 6, 2016 @ 01:58:19
+* **Release Date:** July 6, 2016 @ 02:58:19
 * **In-App Purchasing:** No

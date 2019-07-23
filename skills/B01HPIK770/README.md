@@ -20,5 +20,5 @@ LA Surf Bot can check the current surf conditions, including wind and tide, at f
 * **ID:** amzn1.echo-sdk-ams.app.488364df-cb6b-4fdf-9d0d-70624d463c4a
 * **ASIN:** B01HPIK770
 * **Author:** Tim Peterson
-* **Release Date:** July 7, 2016 @ 01:57:28
+* **Release Date:** July 7, 2016 @ 02:57:28
 * **In-App Purchasing:** No

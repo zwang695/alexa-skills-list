@@ -22,5 +22,5 @@ Much thanks to Wikipedia for awesome information and the Spurs for awesome chara
 * **ID:** amzn1.echo-sdk-ams.app.19903226-a572-4dc8-b785-4cc181292713
 * **ASIN:** B01DJ4ARKG
 * **Author:** Ibgib LLC
-* **Release Date:** March 28, 2016 @ 05:34:19
+* **Release Date:** March 28, 2016 @ 06:34:19
 * **In-App Purchasing:** No

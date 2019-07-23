@@ -20,5 +20,5 @@ The Marquette Ski Resort Snow Report brought to you by SnoCountry brings you the
 * **ID:** amzn1.ask.skill.d734dcc0-90bd-402b-ac51-f191470e99f3
 * **ASIN:** B01M9DB70W
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:48:20
+* **Release Date:** October 21, 2016 @ 15:48:20
 * **In-App Purchasing:** No

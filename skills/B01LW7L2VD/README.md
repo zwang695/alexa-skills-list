@@ -20,5 +20,5 @@ Interview Prep is your best way to prepare yourself for interviewing for all kin
 * **ID:** amzn1.ask.skill.c9ab158b-cffe-4466-8936-d590e08a45de
 * **ASIN:** B01LW7L2VD
 * **Author:** Alexander King
-* **Release Date:** September 16, 2016 @ 03:41:48
+* **Release Date:** September 16, 2016 @ 04:41:48
 * **In-App Purchasing:** No

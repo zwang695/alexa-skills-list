@@ -20,5 +20,5 @@ A simple app. Just say "Alexa, When is the next full moon?"
 * **ID:** amzn1.ask.skill.1845d6b9-e22b-4011-9183-b73edf817cdf
 * **ASIN:** B01M13ZFAU
 * **Author:** Brandon Bielicki
-* **Release Date:** October 3, 2016 @ 01:12:30
+* **Release Date:** October 3, 2016 @ 02:12:30
 * **In-App Purchasing:** No

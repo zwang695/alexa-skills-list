@@ -21,5 +21,5 @@ NOTE: as "Amazon" is a protected word, so be sure to say "the answer is..." befo
 * **ID:** amzn1.echo-sdk-ams.app.b16ec8dc-e9aa-4909-8786-2c87cc3542db
 * **ASIN:** B01IGF9YHU
 * **Author:** woodlandh
-* **Release Date:** July 18, 2016 @ 05:57:29
+* **Release Date:** July 18, 2016 @ 06:57:29
 * **In-App Purchasing:** No

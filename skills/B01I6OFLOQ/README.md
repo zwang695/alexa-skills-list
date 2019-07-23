@@ -20,5 +20,5 @@ Secret Keeper allows you to share your deepest secrets anonymously with other Al
 * **ID:** amzn1.echo-sdk-ams.app.87315626-57ae-48a7-a402-a5f54ff170ac
 * **ASIN:** B01I6OFLOQ
 * **Author:** andresmeza.com
-* **Release Date:** July 12, 2016 @ 08:29:37
+* **Release Date:** July 12, 2016 @ 09:29:37
 * **In-App Purchasing:** No

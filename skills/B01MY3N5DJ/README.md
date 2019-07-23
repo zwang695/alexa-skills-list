@@ -20,5 +20,5 @@ This is an Amazon Alexa skill for all of those UEFA Champions League lovers that
 * **ID:** amzn1.ask.skill.2ec76b51-4ed7-4bd1-ac9a-9c0f48cac839
 * **ASIN:** B01MY3N5DJ
 * **Author:** Shiv Sharma
-* **Release Date:** January 3, 2017 @ 00:49:03
+* **Release Date:** January 3, 2017 @ 01:49:03
 * **In-App Purchasing:** No

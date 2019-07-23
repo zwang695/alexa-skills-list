@@ -21,5 +21,5 @@ You may start the game by saying, for example,  'Alexa, launch jazz trivia game'
 * **ID:** amzn1.ask.skill.abc988a8-7e23-4915-8296-646346516954
 * **ASIN:** B01LXJQUO6
 * **Author:** Tony Holdroyd
-* **Release Date:** September 20, 2016 @ 01:42:55
+* **Release Date:** September 20, 2016 @ 02:42:55
 * **In-App Purchasing:** No

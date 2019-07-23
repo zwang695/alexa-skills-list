@@ -20,5 +20,5 @@ The first time the skill is run, Alexa asks the user for the names of his or her
 * **ID:** amzn1.echo-sdk-ams.app.b7ba16b5-835d-48a4-8eef-b6c465a3e012
 * **ASIN:** B01EW3KUXC
 * **Author:** Cooper 
-* **Release Date:** May 31, 2016 @ 01:38:34
+* **Release Date:** May 31, 2016 @ 02:38:34
 * **In-App Purchasing:** No

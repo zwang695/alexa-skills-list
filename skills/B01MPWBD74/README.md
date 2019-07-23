@@ -20,5 +20,5 @@ This skill allows you to generate a quick, good elf name (male or female) for an
 * **ID:** amzn1.ask.skill.a7a4cec8-79ad-407c-bd63-406639180824
 * **ASIN:** B01MPWBD74
 * **Author:** Brandon
-* **Release Date:** October 27, 2016 @ 05:42:55
+* **Release Date:** October 27, 2016 @ 06:42:55
 * **In-App Purchasing:** No

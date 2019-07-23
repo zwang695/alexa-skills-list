@@ -20,5 +20,5 @@ Headlines provides you with the top stories from the New York Times from a varie
 * **ID:** amzn1.echo-sdk-ams.app.ebe81acc-b22c-43a1-8f49-4d6677c75f60
 * **ASIN:** B01GW9E3SC
 * **Author:** Kyle Dent
-* **Release Date:** June 17, 2016 @ 08:45:39
+* **Release Date:** June 17, 2016 @ 09:45:39
 * **In-App Purchasing:** No

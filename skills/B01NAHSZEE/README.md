@@ -22,5 +22,5 @@ http://cheerlights.com/apps/
 * **ID:** amzn1.ask.skill.e451cf31-9850-4f67-9156-243b4ac95bda
 * **ASIN:** B01NAHSZEE
 * **Author:** Barnaby Gray
-* **Release Date:** December 16, 2016 @ 07:19:54
+* **Release Date:** December 16, 2016 @ 08:19:54
 * **In-App Purchasing:** No

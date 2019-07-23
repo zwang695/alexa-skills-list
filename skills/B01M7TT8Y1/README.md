@@ -20,5 +20,5 @@ The Mount Hood Meadows Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.24043c10-cded-4caf-abc0-216d69276c33
 * **ASIN:** B01M7TT8Y1
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:47:12
+* **Release Date:** October 26, 2016 @ 04:47:12
 * **In-App Purchasing:** No

@@ -21,5 +21,5 @@ This app tells interesting facts about Pugs. This app tells you interesting fact
 * **ID:** amzn1.echo-sdk-ams.app.f607cae6-6350-4a89-a507-e3f9c64cf3b2
 * **ASIN:** B01GZ8U4OW
 * **Author:** Kartik Bholla
-* **Release Date:** June 20, 2016 @ 05:45:42
+* **Release Date:** June 20, 2016 @ 06:45:42
 * **In-App Purchasing:** No

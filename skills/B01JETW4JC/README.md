@@ -20,5 +20,5 @@ Know more about Bangalore or Bangalored
 * **ID:** amzn1.ask.skill.e0443612-8026-40b7-acc7-74467a689ab9
 * **ASIN:** B01JETW4JC
 * **Author:** SUDHI
-* **Release Date:** August 2, 2016 @ 07:36:34
+* **Release Date:** August 2, 2016 @ 08:36:34
 * **In-App Purchasing:** No

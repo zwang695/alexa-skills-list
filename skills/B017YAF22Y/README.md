@@ -75,7 +75,7 @@ Look for the monthly newsletter to learn about new names to alert - to help you 
 * **ID:** amzn1.echo-sdk-ams.app.6cc3bc17-3a82-4353-b6e4-011774974ad0
 * **ASIN:** B017YAF22Y
 * **Author:** Beach.Dev
-* **Release Date:** November 13, 2015 @ 17:22:45
+* **Release Date:** November 13, 2015 @ 18:22:45
 * **Privacy Policy:** http://www.askmybuddy.net/privacy.html
 * **Terms of Use:** http://www.askmybuddy.net/tos.html
 * **Account Linking Domains:** askmybuddy.net

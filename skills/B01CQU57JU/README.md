@@ -26,5 +26,5 @@ Play alone or together with your family. The more the merrier.
 * **ID:** amzn1.echo-sdk-ams.app.7ef44934-d5d7-409d-a64c-fa6a4f1eac1c
 * **ASIN:** B01CQU57JU
 * **Author:** Zan Ozbot
-* **Release Date:** March 9, 2016 @ 04:47:09
+* **Release Date:** March 9, 2016 @ 05:47:09
 * **In-App Purchasing:** No

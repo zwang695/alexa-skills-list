@@ -20,5 +20,5 @@ Machine Learning facts and quotes
 * **ID:** amzn1.ask.skill.2c06c70c-f6b4-407e-98e6-8729d4d90076
 * **ASIN:** B01MYOOXEF
 * **Author:** rpasumar
-* **Release Date:** November 21, 2016 @ 00:06:08
+* **Release Date:** November 21, 2016 @ 01:06:08
 * **In-App Purchasing:** No

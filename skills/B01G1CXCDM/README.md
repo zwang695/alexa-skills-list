@@ -22,5 +22,5 @@ The skill will then read back the prime or normal form of the pitch class set th
 * **ID:** amzn1.echo-sdk-ams.app.99f3bebb-dea2-4857-93cf-8df789497dc2
 * **ASIN:** B01G1CXCDM
 * **Author:** Alex Worland Inc.
-* **Release Date:** May 26, 2016 @ 23:39:25
+* **Release Date:** May 27, 2016 @ 00:39:25
 * **In-App Purchasing:** No

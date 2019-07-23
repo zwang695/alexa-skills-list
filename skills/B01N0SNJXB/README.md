@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.877580a3-bd47-4458-a5cb-fee1e5fcce93
 * **ASIN:** B01N0SNJXB
 * **Author:** Christoph
-* **Release Date:** December 21, 2016 @ 06:20:17
+* **Release Date:** December 21, 2016 @ 07:20:17
 * **In-App Purchasing:** No

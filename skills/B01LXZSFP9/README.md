@@ -20,5 +20,5 @@ This is a customization of alexa123fact with some fun facts about swimming.
 * **ID:** amzn1.ask.skill.2ca5b944-82fb-4099-8533-20fc3bb2e791
 * **ASIN:** B01LXZSFP9
 * **Author:** caowenhong
-* **Release Date:** October 4, 2016 @ 02:43:29
+* **Release Date:** October 4, 2016 @ 03:43:29
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Have a technical interview coming up? Need to quickly brush up on the space and 
 * **ID:** amzn1.echo-sdk-ams.app.b1482967-a3f5-4945-bb74-ada0a516ef22
 * **ASIN:** B01GH9PHKU
 * **Author:** DevTheory
-* **Release Date:** June 6, 2016 @ 05:38:31
+* **Release Date:** June 6, 2016 @ 06:38:31
 * **In-App Purchasing:** No

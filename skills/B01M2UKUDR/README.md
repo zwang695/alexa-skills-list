@@ -21,5 +21,5 @@ Note: This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.bb609761-9521-453c-b60c-3c48978192bc
 * **ASIN:** B01M2UKUDR
 * **Author:** Carson IP
-* **Release Date:** October 15, 2016 @ 02:46:03
+* **Release Date:** October 15, 2016 @ 03:46:03
 * **In-App Purchasing:** No

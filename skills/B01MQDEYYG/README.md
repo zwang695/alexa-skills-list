@@ -20,5 +20,5 @@ The Ober Gatlinburg Snow Report brought to you by SnoCountry brings you the late
 * **ID:** amzn1.ask.skill.01736f27-d082-4172-bbb3-8ea70bea82e2
 * **ASIN:** B01MQDEYYG
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:17:40
+* **Release Date:** November 4, 2016 @ 09:17:40
 * **In-App Purchasing:** No

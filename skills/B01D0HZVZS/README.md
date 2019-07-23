@@ -16,5 +16,5 @@ Test your math skills, answer questions about prime numbers.
 * **ID:** amzn1.echo-sdk-ams.app.a861b138-560e-48ae-8d79-167e9e6d45cf
 * **ASIN:** B01D0HZVZS
 * **Author:** TeaTime
-* **Release Date:** March 15, 2016 @ 13:58:26
+* **Release Date:** March 15, 2016 @ 14:58:26
 * **In-App Purchasing:** No

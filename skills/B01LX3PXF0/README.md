@@ -20,5 +20,5 @@ The Homewood Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.ee83404f-91f6-4be6-bf77-1fbf16e56c42
 * **ASIN:** B01LX3PXF0
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:15:57
+* **Release Date:** October 20, 2016 @ 04:15:57
 * **In-App Purchasing:** No

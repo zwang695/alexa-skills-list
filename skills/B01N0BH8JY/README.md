@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.a278692f-1859-4322-8506-c294b61d6c08
 * **ASIN:** B01N0BH8JY
 * **Author:** TwoThree Media
-* **Release Date:** November 12, 2016 @ 00:13:44
+* **Release Date:** November 12, 2016 @ 01:13:44
 * **In-App Purchasing:** No

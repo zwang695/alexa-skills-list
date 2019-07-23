@@ -20,5 +20,5 @@ Try to see how much you know about chicago sports with this trivia game. Five qu
 * **ID:** amzn1.ask.skill.9f6b0eb3-3889-46e9-98fa-a3c0e2838d5b
 * **ASIN:** B01J2YOJC4
 * **Author:** Eduardo Depaz
-* **Release Date:** July 26, 2016 @ 07:26:27
+* **Release Date:** July 26, 2016 @ 08:26:27
 * **In-App Purchasing:** No

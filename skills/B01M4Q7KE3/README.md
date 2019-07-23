@@ -20,5 +20,5 @@ This skill is a quiz based on Sint Maarten facts. While being quizzed you get to
 * **ID:** amzn1.ask.skill.9ff38b7a-acd2-43d3-b63f-ea173f990be2
 * **ASIN:** B01M4Q7KE3
 * **Author:** wan kim mok
-* **Release Date:** November 2, 2016 @ 09:13:06
+* **Release Date:** November 2, 2016 @ 10:13:06
 * **In-App Purchasing:** No

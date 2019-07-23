@@ -20,5 +20,5 @@ Some cool facts about painting :)
 * **ID:** amzn1.ask.skill.8d12ed7e-950f-4046-b131-6251ff813d6b
 * **ASIN:** B01M7WHKYG
 * **Author:** Lanki
-* **Release Date:** November 2, 2016 @ 09:13:35
+* **Release Date:** November 2, 2016 @ 10:13:35
 * **In-App Purchasing:** No

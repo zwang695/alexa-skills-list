@@ -21,5 +21,5 @@ Since this skill contains information regarding alcoholic beverages, it may not 
 * **ID:** amzn1.echo-sdk-ams.app.5ac2c65d-dbbd-4867-a5ff-e0ba24b84311
 * **ASIN:** B01JJFJENK
 * **Author:** Anthony Montuori
-* **Release Date:** August 4, 2016 @ 02:11:45
+* **Release Date:** August 4, 2016 @ 03:11:45
 * **In-App Purchasing:** No

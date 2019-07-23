@@ -20,5 +20,5 @@ Some interesting facts about paint and colors
 * **ID:** amzn1.ask.skill.48df019f-4663-4b46-bf70-12c38b575009
 * **ASIN:** B01KCYF8ZA
 * **Author:** suvinks
-* **Release Date:** August 17, 2016 @ 06:22:23
+* **Release Date:** August 17, 2016 @ 07:22:23
 * **In-App Purchasing:** No

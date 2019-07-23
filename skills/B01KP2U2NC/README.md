@@ -28,7 +28,7 @@ Disclaimer: This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.def4743d-5f40-404b-814d-b3c39a17f193
 * **ASIN:** B01KP2U2NC
 * **Author:** Cambridge Sound
-* **Release Date:** December 6, 2016 @ 04:49:39
+* **Release Date:** December 6, 2016 @ 05:49:39
 * **Privacy Policy:** https://controlnightingale.com/privacy.html
 * **Terms of Use:** https://controlnightingale.com/terms.html
 * **Account Linking Domains:** controlnightingale.com

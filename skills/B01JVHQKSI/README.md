@@ -20,5 +20,5 @@ This skill tells some interesting facts about Boston, MA.
 * **ID:** amzn1.ask.skill.a8cebd7c-eb0e-4a4a-8b6d-494a3b49964d
 * **ASIN:** B01JVHQKSI
 * **Author:** NJ
-* **Release Date:** August 8, 2016 @ 02:37:29
+* **Release Date:** August 8, 2016 @ 03:37:29
 * **In-App Purchasing:** No

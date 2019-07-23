@@ -20,5 +20,5 @@ The Alta Ski Area Snow Report brought to you by SnoCountry brings you the latest
 * **ID:** amzn1.ask.skill.09d93631-1808-40e3-9b69-214e400a4598
 * **ASIN:** B01MRUL0EH
 * **Author:** SnoCountry
-* **Release Date:** December 6, 2016 @ 19:19:28
+* **Release Date:** December 6, 2016 @ 20:19:28
 * **In-App Purchasing:** No

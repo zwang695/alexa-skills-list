@@ -20,5 +20,5 @@ This is a simple skill to tell you the current Polls-plus forecast from http://p
 * **ID:** amzn1.ask.skill.36fe45c2-b5bb-4976-aedd-2593eb752e17
 * **ASIN:** B01M6XHXO8
 * **Author:** Conor Laver
-* **Release Date:** October 21, 2016 @ 15:14:57
+* **Release Date:** October 21, 2016 @ 16:14:57
 * **In-App Purchasing:** No

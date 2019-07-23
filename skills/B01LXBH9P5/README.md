@@ -20,5 +20,5 @@ To use the application: When asked a question, simply respond with the number of
 * **ID:** amzn1.ask.skill.14f15854-8533-4118-b3ec-66f674c64cc4
 * **ASIN:** B01LXBH9P5
 * **Author:** PingEric
-* **Release Date:** October 5, 2016 @ 01:41:59
+* **Release Date:** October 5, 2016 @ 02:41:59
 * **In-App Purchasing:** No

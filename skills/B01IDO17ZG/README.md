@@ -25,5 +25,5 @@ Please contact us with your favorite authors and we'll include their works in su
 * **ID:** amzn1.echo-sdk-ams.app.94e0af46-034b-4c16-aac3-4399d003c1b1
 * **ASIN:** B01IDO17ZG
 * **Author:** lavigilanta.info
-* **Release Date:** November 21, 2016 @ 23:36:11
+* **Release Date:** November 22, 2016 @ 00:36:11
 * **In-App Purchasing:** No

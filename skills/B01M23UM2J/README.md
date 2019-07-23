@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.56ffed28-307b-431d-aeed-59c0bc06cffe
 * **ASIN:** B01M23UM2J
 * **Author:** AJNS New Media GMBH
-* **Release Date:** October 24, 2016 @ 15:11:45
+* **Release Date:** October 24, 2016 @ 16:11:45
 * **In-App Purchasing:** No

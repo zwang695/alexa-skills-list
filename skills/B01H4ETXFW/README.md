@@ -20,7 +20,7 @@ Learn more about OpenX with Alexa. You can ask Alexa to tell you about us, what 
 * **ID:** amzn1.echo-sdk-ams.app.57a87c6d-edb3-4523-ab56-a97e6be53327
 * **ASIN:** B01H4ETXFW
 * **Author:** OpenX
-* **Release Date:** August 8, 2016 @ 03:07:55
+* **Release Date:** August 8, 2016 @ 04:07:55
 * **Privacy Policy:** http://openx.com/legal/privacypolicy/
 * **Terms of Use:** http://openx.com/legal/terms-and-conditions/
 * **In-App Purchasing:** No

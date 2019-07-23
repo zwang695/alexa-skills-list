@@ -30,6 +30,6 @@ To get started, please sign in with your Rhino Fleet Tracking email and password
 * **ID:** amzn1.ask.skill.2cdaaee2-4b88-4229-ab13-2effa7df7bb9
 * **ASIN:** B01NCP616R
 * **Author:** Rhino Fleet Tracking
-* **Release Date:** January 3, 2017 @ 03:50:32
+* **Release Date:** January 3, 2017 @ 04:50:32
 * **Privacy Policy:** http://www.rhinofleettracking.com/warranty-terms-privacy/#privacy-policy
 * **In-App Purchasing:** No

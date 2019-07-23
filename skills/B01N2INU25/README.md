@@ -20,5 +20,5 @@ In this skill you'll be given four states to select form for each NBA team you'r
 * **ID:** amzn1.ask.skill.a0a7e482-0ab3-4994-8eb8-489cd11bfde1
 * **ASIN:** B01N2INU25
 * **Author:** Derek Afriyie
-* **Release Date:** December 2, 2016 @ 06:05:24
+* **Release Date:** December 2, 2016 @ 07:05:24
 * **In-App Purchasing:** No

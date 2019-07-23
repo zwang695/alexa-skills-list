@@ -20,5 +20,5 @@ This skill uses the cat facts api to get random cat facts.
 * **ID:** amzn1.echo-sdk-ams.app.61341fd2-2463-45b1-accc-28442def5529
 * **ASIN:** B01HTYFK54
 * **Author:** Casale Mainframe
-* **Release Date:** July 11, 2016 @ 00:57:36
+* **Release Date:** July 11, 2016 @ 01:57:36
 * **In-App Purchasing:** No

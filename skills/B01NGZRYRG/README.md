@@ -22,5 +22,5 @@ Of course this skill cannot replace a healthy and balanced diet.
 * **ID:** amzn1.ask.skill.7decd73a-dae9-471a-8ed0-2af2d9046364
 * **ASIN:** B01NGZRYRG
 * **Author:** ChristosZac
-* **Release Date:** December 29, 2016 @ 04:19:44
+* **Release Date:** December 29, 2016 @ 05:19:44
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ When you give it the 2 stations you are travelling between, it tells you what ti
 * **ID:** amzn1.echo-sdk-ams.app.962346b4-ee55-4739-bb3d-cb75644ba144
 * **ASIN:** B01EML7BA4
 * **Author:** The Burgess Shale
-* **Release Date:** May 5, 2016 @ 09:38:33
+* **Release Date:** May 5, 2016 @ 10:38:33
 * **In-App Purchasing:** No

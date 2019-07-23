@@ -20,5 +20,5 @@ Famous and inspirational quotes by Albert Einstein
 * **ID:** amzn1.echo-sdk-ams.app.02d8a13a-564b-4df7-b226-2c96101fc3b2
 * **ASIN:** B01I7CYQ2U
 * **Author:** Zenseio
-* **Release Date:** July 12, 2016 @ 05:27:31
+* **Release Date:** July 12, 2016 @ 06:27:31
 * **In-App Purchasing:** No

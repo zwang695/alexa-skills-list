@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.b16d290c-736c-4380-94fa-6b965af424c2
 * **ASIN:** B01MQQIM6J
 * **Author:** gmkaizen designs
-* **Release Date:** December 8, 2016 @ 06:49:41
+* **Release Date:** December 8, 2016 @ 07:49:41
 * **In-App Purchasing:** No

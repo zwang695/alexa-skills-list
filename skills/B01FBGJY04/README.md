@@ -22,5 +22,5 @@ Have more egg-straordinary recipes to share? I'm bEGGing you to tell us in the r
 * **ID:** amzn1.echo-sdk-ams.app.94436fc3-1391-4f7c-8112-ce4e4ea2251b
 * **ASIN:** B01FBGJY04
 * **Author:** Macaron Apps
-* **Release Date:** May 13, 2016 @ 02:08:40
+* **Release Date:** May 13, 2016 @ 03:08:40
 * **In-App Purchasing:** No

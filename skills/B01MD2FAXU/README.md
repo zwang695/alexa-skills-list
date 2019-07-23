@@ -20,5 +20,5 @@ The Homestead Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.0cb82347-ba0f-4ab7-b28d-d02c4cd6d4b9
 * **ASIN:** B01MD2FAXU
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:16:38
+* **Release Date:** November 4, 2016 @ 09:16:38
 * **In-App Purchasing:** No

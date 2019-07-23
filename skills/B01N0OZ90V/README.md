@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.45500131-c52e-45e4-9c4e-2a92a6fc8fc4
 * **ASIN:** B01N0OZ90V
 * **Author:** Lawnetix
-* **Release Date:** December 15, 2016 @ 04:19:29
+* **Release Date:** December 15, 2016 @ 05:19:29
 * **In-App Purchasing:** No

@@ -24,7 +24,7 @@ By registering at https://daysfly.com, you gain the ability to have multiple cha
 * **ID:** amzn1.ask.skill.1b30a473-a0bc-40dc-b3c1-f619afb14a33
 * **ASIN:** B01N01YZGF
 * **Author:** DaysFly
-* **Release Date:** November 28, 2016 @ 06:05:24
+* **Release Date:** November 28, 2016 @ 07:05:24
 * **Privacy Policy:** http://daysfly.com/About/Privacy-Policy
 * **Account Linking Domains:** daysfly.com, fonts.googleapis.com, code.jquery.com
 * **In-App Purchasing:** No

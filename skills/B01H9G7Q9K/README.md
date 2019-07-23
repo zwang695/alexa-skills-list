@@ -20,5 +20,5 @@ This skill has tips for how to get your best and healthiest hair possible. The u
 * **ID:** amzn1.echo-sdk-ams.app.b57e4126-efca-4712-8910-eda123501ec8
 * **ASIN:** B01H9G7Q9K
 * **Author:** Girlz
-* **Release Date:** July 15, 2016 @ 02:57:29
+* **Release Date:** July 15, 2016 @ 03:57:29
 * **In-App Purchasing:** No

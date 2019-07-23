@@ -29,5 +29,5 @@ www.drBlankenstein.com
 * **ID:** amzn1.ask.skill.36c44213-4e5d-4433-aa0d-e338682da7a8
 * **ASIN:** B01MYNRRRV
 * **Author:** www.drBlankenstein.com
-* **Release Date:** November 20, 2016 @ 23:05:22
+* **Release Date:** November 21, 2016 @ 00:05:22
 * **In-App Purchasing:** No

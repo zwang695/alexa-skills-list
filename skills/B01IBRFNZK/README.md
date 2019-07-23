@@ -72,5 +72,5 @@ shift ↓ or shift j	Scrolls all the way down
 * **ID:** amzn1.echo-sdk-ams.app.2794a93a-0284-4e88-96ab-e108005dcea8
 * **ASIN:** B01IBRFNZK
 * **Author:** Logzer0
-* **Release Date:** July 25, 2016 @ 07:26:31
+* **Release Date:** July 25, 2016 @ 08:26:31
 * **In-App Purchasing:** No

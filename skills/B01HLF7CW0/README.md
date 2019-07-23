@@ -20,5 +20,5 @@ JokeyJokerson is a list of sly and cool pick-up line style knock knock jokes.
 * **ID:** amzn1.echo-sdk-ams.app.02088cf3-f679-41d8-9096-1c046aee2995
 * **ASIN:** B01HLF7CW0
 * **Author:** Lifeguard
-* **Release Date:** June 30, 2016 @ 06:27:27
+* **Release Date:** June 30, 2016 @ 07:27:27
 * **In-App Purchasing:** No

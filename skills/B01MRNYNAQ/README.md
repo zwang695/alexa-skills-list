@@ -20,5 +20,5 @@ Today's word is simple and easy to use. All you have to do is ask for today's wo
 * **ID:** amzn1.ask.skill.1f65a4f0-0539-4cf6-8581-0837b18ba2d0
 * **ASIN:** B01MRNYNAQ
 * **Author:** fig systems
-* **Release Date:** November 25, 2016 @ 04:12:54
+* **Release Date:** November 25, 2016 @ 05:12:54
 * **In-App Purchasing:** No

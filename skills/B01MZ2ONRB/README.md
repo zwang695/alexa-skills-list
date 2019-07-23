@@ -22,5 +22,5 @@ Icons made by Madebyoliver from www.flaticon.com is licensed by Creative Commons
 * **ID:** amzn1.ask.skill.f71ea016-5f47-4acc-886b-57bc991db639
 * **ASIN:** B01MZ2ONRB
 * **Author:** mcgnly
-* **Release Date:** December 26, 2016 @ 04:19:16
+* **Release Date:** December 26, 2016 @ 05:19:16
 * **In-App Purchasing:** No

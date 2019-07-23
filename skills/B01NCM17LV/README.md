@@ -24,5 +24,5 @@ We hope you enjoy asking Alexa questions about SITO Mobile. Please let us know i
 * **ID:** amzn1.ask.skill.75607cdc-33d7-4d6b-8e21-cb3cd30120e7
 * **ASIN:** B01NCM17LV
 * **Author:** FreshDigitalGroup
-* **Release Date:** December 22, 2016 @ 04:19:32
+* **Release Date:** December 22, 2016 @ 05:19:32
 * **In-App Purchasing:** No

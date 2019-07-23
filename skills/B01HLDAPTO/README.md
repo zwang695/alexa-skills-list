@@ -20,5 +20,5 @@ The benefit of the skill is that is gives interesting basketball facts. It's rea
 * **ID:** amzn1.echo-sdk-ams.app.21e4c42a-cfa3-4c41-bb77-b52e5030727b
 * **ASIN:** B01HLDAPTO
 * **Author:** Myles Blodnick
-* **Release Date:** June 28, 2016 @ 02:45:53
+* **Release Date:** June 28, 2016 @ 03:45:53
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Disclaimer: Any resemblance to actual persons, living or dead, or actual events 
 * **ID:** amzn1.echo-sdk-ams.app.2e2e3a80-0f48-4c2f-a712-0eb879584131
 * **ASIN:** B01F083MGA
 * **Author:** Keep It simple
-* **Release Date:** July 7, 2016 @ 07:57:35
+* **Release Date:** July 7, 2016 @ 08:57:35
 * **In-App Purchasing:** No

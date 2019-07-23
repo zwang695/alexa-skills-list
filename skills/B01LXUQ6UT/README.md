@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.79aaa3e3-f453-40a6-83e4-0800de6abc81
 * **ASIN:** B01LXUQ6UT
 * **Author:** G+J Parenting Media GmbH
-* **Release Date:** December 6, 2016 @ 15:49:06
+* **Release Date:** December 6, 2016 @ 16:49:06
 * **In-App Purchasing:** No

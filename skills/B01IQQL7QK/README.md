@@ -20,5 +20,5 @@ This trivia is a way for user to both test their knowledge and learn new facts a
 * **ID:** amzn1.ask.skill.0f7bc949-701c-46e6-a86b-93130b44ee88
 * **ASIN:** B01IQQL7QK
 * **Author:** Radhika Gathwala
-* **Release Date:** July 25, 2016 @ 05:26:27
+* **Release Date:** July 25, 2016 @ 06:26:27
 * **In-App Purchasing:** No

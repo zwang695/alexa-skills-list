@@ -49,5 +49,5 @@ support@stylechecked.com
 * **ID:** amzn1.echo-sdk-ams.app.65c5b1e5-64ea-4559-ad59-a68e6721b8d3
 * **ASIN:** B01LPS96B4
 * **Author:** Washii
-* **Release Date:** October 5, 2016 @ 01:11:59
+* **Release Date:** October 5, 2016 @ 02:11:59
 * **In-App Purchasing:** No

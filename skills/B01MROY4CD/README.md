@@ -22,5 +22,5 @@ Contact us or suggest new facts: quyent22@uw.edu
 * **ID:** amzn1.ask.skill.1254c2d7-aec2-4703-a2eb-cce6228b0b9d
 * **ASIN:** B01MROY4CD
 * **Author:** Quyen
-* **Release Date:** December 5, 2016 @ 00:05:42
+* **Release Date:** December 5, 2016 @ 01:05:42
 * **In-App Purchasing:** No

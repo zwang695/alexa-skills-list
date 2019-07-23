@@ -20,5 +20,5 @@ This application will give you everyday a daily tip to be happy of fit or health
 * **ID:** amzn1.ask.skill.0645e14d-24b6-4f3b-b7c7-363054166868
 * **ASIN:** B01LZKYE3C
 * **Author:** SandrineT
-* **Release Date:** September 28, 2016 @ 08:42:00
+* **Release Date:** September 28, 2016 @ 09:42:00
 * **In-App Purchasing:** No

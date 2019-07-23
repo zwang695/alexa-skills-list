@@ -24,5 +24,5 @@ Test your knowledge of the Dark Knight or just have fun.
 * **ID:** amzn1.echo-sdk-ams.app.8a1cd5f5-9ee9-4ccd-8a6e-cb9672d16420
 * **ASIN:** B01E81WBHG
 * **Author:** Alex Takacs
-* **Release Date:** April 15, 2016 @ 10:32:29
+* **Release Date:** April 15, 2016 @ 11:32:29
 * **In-App Purchasing:** No

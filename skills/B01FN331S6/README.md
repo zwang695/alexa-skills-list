@@ -26,5 +26,5 @@ These will be random renown phrases by the most outstanding and inspirational th
 * **ID:** amzn1.echo-sdk-ams.app.63d30f55-7dde-44a4-bb49-86057515f708
 * **ASIN:** B01FN331S6
 * **Author:** Cilbe
-* **Release Date:** May 27, 2016 @ 00:08:47
+* **Release Date:** May 27, 2016 @ 01:08:47
 * **In-App Purchasing:** No

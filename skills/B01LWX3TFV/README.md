@@ -16,5 +16,5 @@ This is a fun and fascinating look into the world of fashion
 * **ID:** amzn1.ask.skill.1ad724c0-bf81-4bdd-801a-1a34c40e4867
 * **ASIN:** B01LWX3TFV
 * **Author:** Lynda Creighton
-* **Release Date:** September 21, 2016 @ 00:43:41
+* **Release Date:** September 21, 2016 @ 01:43:41
 * **In-App Purchasing:** No

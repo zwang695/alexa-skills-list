@@ -24,5 +24,5 @@ If you ever feel like you need a little pick me up then you need your own magic 
 * **ID:** amzn1.echo-sdk-ams.app.ec71c2fe-23c0-43c5-a8f5-ef0264cc91f7
 * **ASIN:** B017OBQBIC
 * **Author:** Possibility Outpost
-* **Release Date:** November 6, 2015 @ 14:14:50
+* **Release Date:** November 6, 2015 @ 15:14:50
 * **In-App Purchasing:** No

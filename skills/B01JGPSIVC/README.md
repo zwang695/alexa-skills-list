@@ -20,5 +20,5 @@ A quick quiz on the Technician Class Ham License Exam. Questions are current as 
 * **ID:** amzn1.echo-sdk-ams.app.d6342223-e640-4b42-a77e-681e538cf386
 * **ASIN:** B01JGPSIVC
 * **Author:** Ovc
-* **Release Date:** August 3, 2016 @ 05:11:46
+* **Release Date:** August 3, 2016 @ 06:11:46
 * **In-App Purchasing:** No

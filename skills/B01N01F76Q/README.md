@@ -20,5 +20,5 @@ The is an unofficial trivia game for Halo.
 * **ID:** amzn1.ask.skill.ee39d63f-d4c1-44a6-9388-7f816d9ce066
 * **ASIN:** B01N01F76Q
 * **Author:** Ethan Rivett
-* **Release Date:** November 11, 2016 @ 01:13:42
+* **Release Date:** November 11, 2016 @ 02:13:42
 * **In-App Purchasing:** No

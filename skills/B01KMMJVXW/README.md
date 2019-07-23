@@ -20,5 +20,5 @@ Skill teaches you Indian cooking recipes.
 * **ID:** amzn1.ask.skill.9cc59909-c260-4ea9-9fe6-09cab0614da8
 * **ASIN:** B01KMMJVXW
 * **Author:** Rootsinfotech
-* **Release Date:** September 14, 2016 @ 21:43:38
+* **Release Date:** September 14, 2016 @ 22:43:38
 * **In-App Purchasing:** No

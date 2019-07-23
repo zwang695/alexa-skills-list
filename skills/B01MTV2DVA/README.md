@@ -22,5 +22,5 @@ Icon by roundicons.com
 * **ID:** amzn1.ask.skill.b6cf7e49-3387-45fc-a6c1-784e92da29ff
 * **ASIN:** B01MTV2DVA
 * **Author:** Said Ibrihen
-* **Release Date:** December 3, 2016 @ 00:35:51
+* **Release Date:** December 3, 2016 @ 01:35:51
 * **In-App Purchasing:** No

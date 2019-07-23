@@ -20,5 +20,5 @@ The benefit of this app is that it will tell you some baseball facts that the us
 * **ID:** amzn1.echo-sdk-ams.app.28a88026-8b40-4a4b-9bb5-e91595297d77
 * **ASIN:** B01HLDJB44
 * **Author:** Myles Blodnick
-* **Release Date:** June 28, 2016 @ 05:15:51
+* **Release Date:** June 28, 2016 @ 06:15:51
 * **In-App Purchasing:** No

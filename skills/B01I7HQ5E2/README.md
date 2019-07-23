@@ -20,5 +20,5 @@ Gives users some history or facts of basketball.
 * **ID:** amzn1.echo-sdk-ams.app.1135364d-0c44-40cc-8d22-f7be6af85dc1
 * **ASIN:** B01I7HQ5E2
 * **Author:** Shao Chen
-* **Release Date:** July 25, 2016 @ 05:56:23
+* **Release Date:** July 25, 2016 @ 06:56:23
 * **In-App Purchasing:** No

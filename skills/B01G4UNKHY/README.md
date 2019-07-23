@@ -22,5 +22,5 @@ You can now set a home station. Then you'll be able to ask "Alexa, ask Capital T
 * **ID:** amzn1.echo-sdk-ams.app.fb5e684b-6c64-4804-ac4f-8891749a7d89
 * **ASIN:** B01G4UNKHY
 * **Author:** Phil's Apps
-* **Release Date:** June 8, 2016 @ 07:41:10
+* **Release Date:** June 8, 2016 @ 08:41:10
 * **In-App Purchasing:** No

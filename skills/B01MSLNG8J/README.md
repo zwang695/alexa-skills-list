@@ -24,5 +24,5 @@ If you find any issues with the skill please email the owner at benjamindring@ho
 * **ID:** amzn1.ask.skill.499ef157-c8f7-455f-b547-257916c78946
 * **ASIN:** B01MSLNG8J
 * **Author:** Dringy
-* **Release Date:** November 22, 2016 @ 01:35:48
+* **Release Date:** November 22, 2016 @ 02:35:48
 * **In-App Purchasing:** No

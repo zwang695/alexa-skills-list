@@ -24,5 +24,5 @@ You'll be given a random NASCAR fact. Facts cover champions, tracks, technical d
 * **ID:** amzn1.echo-sdk-ams.app.ce145d86-3f9e-4b1b-b93a-60015b6f50df
 * **ASIN:** B01HNLGRH8
 * **Author:** Tomasz Swider
-* **Release Date:** July 1, 2016 @ 02:57:37
+* **Release Date:** July 1, 2016 @ 03:57:37
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Info about Doug
 * **ID:** amzn1.ask.skill.9e554ff6-f02c-47c5-a0fd-ea28845f25e3
 * **ASIN:** B01K8VXBYW
 * **Author:** DRath
-* **Release Date:** August 16, 2016 @ 01:08:16
+* **Release Date:** August 16, 2016 @ 02:08:16
 * **In-App Purchasing:** No

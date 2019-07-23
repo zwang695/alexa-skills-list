@@ -30,6 +30,6 @@ Would you like us to build other ways to search and find your favourite shows on
 * **ID:** amzn1.ask.skill.a8fc1e1c-7c35-414e-b18b-5bc357731903
 * **ASIN:** B01MRND2M3
 * **Author:** DeCirc
-* **Release Date:** December 5, 2016 @ 03:36:49
+* **Release Date:** December 5, 2016 @ 04:36:49
 * **Privacy Policy:** http://decirc.com/privacy.php
 * **In-App Purchasing:** No

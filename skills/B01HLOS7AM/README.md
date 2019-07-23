@@ -20,5 +20,5 @@ This skill suggests a baby name for a girl or boy. Usage is fairly straightforwa
 * **ID:** amzn1.echo-sdk-ams.app.066eb345-f64b-4ecd-9970-9a7847fed2e0
 * **ASIN:** B01HLOS7AM
 * **Author:** jmaglio
-* **Release Date:** June 28, 2016 @ 05:45:40
+* **Release Date:** June 28, 2016 @ 06:45:40
 * **In-App Purchasing:** No

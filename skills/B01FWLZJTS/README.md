@@ -22,5 +22,5 @@ Skill developed from the reindeer games template provided by amazon.
 * **ID:** amzn1.echo-sdk-ams.app.ea8434d2-121e-40b4-9023-e2932814bbf9
 * **ASIN:** B01FWLZJTS
 * **Author:** Tyler Schmidt
-* **Release Date:** June 22, 2016 @ 01:15:38
+* **Release Date:** June 22, 2016 @ 02:15:38
 * **In-App Purchasing:** No

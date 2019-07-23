@@ -20,5 +20,5 @@ Want to brighten up someone's day? Here's a collection of messages that you can 
 * **ID:** amzn1.ask.skill.3d2c47e6-b294-4016-8bfe-186cf80928af
 * **ASIN:** B01LZLFT9Y
 * **Author:** Simple Works
-* **Release Date:** October 12, 2016 @ 02:41:58
+* **Release Date:** October 12, 2016 @ 03:41:58
 * **In-App Purchasing:** No

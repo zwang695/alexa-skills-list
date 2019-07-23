@@ -22,5 +22,5 @@ Other phrases you can ask include what beers are on cask, what wines or meads ar
 * **ID:** amzn1.ask.skill.da59bafe-376b-4251-90a7-3cda8d322aab
 * **ASIN:** B01NA9BUQY
 * **Author:** James Hagemann
-* **Release Date:** December 8, 2016 @ 02:49:42
+* **Release Date:** December 8, 2016 @ 03:49:42
 * **In-App Purchasing:** No

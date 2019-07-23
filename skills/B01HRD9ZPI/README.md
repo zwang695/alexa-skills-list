@@ -24,5 +24,5 @@ Zombie Survival Tip 0: Dark humor is needed in all situations.
 * **ID:** amzn1.echo-sdk-ams.app.43f8f78e-5423-4556-903c-cd29cb09b77d
 * **ASIN:** B01HRD9ZPI
 * **Author:** Plinth
-* **Release Date:** July 18, 2016 @ 06:27:24
+* **Release Date:** July 18, 2016 @ 07:27:24
 * **In-App Purchasing:** No

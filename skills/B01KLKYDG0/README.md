@@ -21,5 +21,5 @@ For a list of all currently supported words, go to https://s3.amazonaws.com/patr
 * **ID:** amzn1.ask.skill.07efac2f-093b-4c38-84ed-5ff60295577c
 * **ASIN:** B01KLKYDG0
 * **Author:** Patrick Mollohan
-* **Release Date:** August 22, 2016 @ 04:07:42
+* **Release Date:** August 22, 2016 @ 05:07:42
 * **In-App Purchasing:** No

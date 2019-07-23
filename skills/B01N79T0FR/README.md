@@ -25,5 +25,5 @@ To hear description say:
 * **ID:** amzn1.ask.skill.fdc8e54b-46f0-428a-aa51-e895be1373d1
 * **ASIN:** B01N79T0FR
 * **Author:** Quyen
-* **Release Date:** December 4, 2016 @ 07:05:13
+* **Release Date:** December 4, 2016 @ 08:05:13
 * **In-App Purchasing:** No

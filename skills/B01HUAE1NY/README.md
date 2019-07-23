@@ -20,5 +20,5 @@ Stains Be Gone will help you get quick answers when life's spill happen. Ask Ale
 * **ID:** amzn1.echo-sdk-ams.app.10f2107b-5fbf-4a8f-8132-4442bb1eb832
 * **ASIN:** B01HUAE1NY
 * **Author:** SYF
-* **Release Date:** July 5, 2016 @ 04:27:40
+* **Release Date:** July 5, 2016 @ 05:27:40
 * **In-App Purchasing:** No

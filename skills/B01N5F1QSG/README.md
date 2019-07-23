@@ -20,5 +20,5 @@ Fun trivia game about Ukraine
 * **ID:** amzn1.ask.skill.637ecc27-335f-42c6-89c2-9524c0eddade
 * **ASIN:** B01N5F1QSG
 * **Author:** Max Gladysh
-* **Release Date:** December 14, 2016 @ 03:50:17
+* **Release Date:** December 14, 2016 @ 04:50:17
 * **In-App Purchasing:** No

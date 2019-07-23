@@ -24,5 +24,5 @@ Image courtesy of NBC, fair use.
 * **ID:** amzn1.ask.skill.7afdd904-c816-4496-a949-84559a15d77d
 * **ASIN:** B01MG5QJAG
 * **Author:** Major Version
-* **Release Date:** November 4, 2016 @ 02:43:44
+* **Release Date:** November 4, 2016 @ 03:43:44
 * **In-App Purchasing:** No

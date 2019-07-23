@@ -73,5 +73,5 @@ Note: This skill is not intended for use by anyone not legally old enough to enj
 * **ID:** amzn1.echo-sdk-ams.app.63c00ef6-cb22-4033-9fda-41626cae2646
 * **ASIN:** B01GQSHD18
 * **Author:** Peacock Cove, LLC
-* **Release Date:** June 16, 2016 @ 02:45:35
+* **Release Date:** June 16, 2016 @ 03:45:35
 * **In-App Purchasing:** No

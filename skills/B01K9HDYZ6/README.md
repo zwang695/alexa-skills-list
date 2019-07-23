@@ -20,5 +20,5 @@ Are you unsure whether to do something? Need fate to decide for you? Then simply
 * **ID:** amzn1.ask.skill.7ee793af-32d9-4b4a-a60e-4f92adfea2fb
 * **ASIN:** B01K9HDYZ6
 * **Author:** Cloud Labs Ltd. 
-* **Release Date:** August 16, 2016 @ 08:22:20
+* **Release Date:** August 16, 2016 @ 09:22:20
 * **In-App Purchasing:** No

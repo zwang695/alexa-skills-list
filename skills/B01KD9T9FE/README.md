@@ -18,5 +18,5 @@ Simply ask Alexa for an otter fact and she will dispense one of many otter facts
 * **ID:** amzn1.ask.skill.6d0828eb-ae52-41cb-8339-4c9f85654722
 * **ASIN:** B01KD9T9FE
 * **Author:** Howard Yunghao Jiang
-* **Release Date:** August 17, 2016 @ 02:22:40
+* **Release Date:** August 17, 2016 @ 03:22:40
 * **In-App Purchasing:** No

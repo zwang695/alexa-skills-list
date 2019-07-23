@@ -29,5 +29,5 @@ Special thanks to Sibish Basheer for making this possible.
 * **ID:** amzn1.ask.skill.b283cd90-bac0-462e-8a03-7e4ab8ac7b72
 * **ASIN:** B01LWQM7BN
 * **Author:** Christian Baker
-* **Release Date:** October 8, 2016 @ 04:12:05
+* **Release Date:** October 8, 2016 @ 05:12:05
 * **In-App Purchasing:** No

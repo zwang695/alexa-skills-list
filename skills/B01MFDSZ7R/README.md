@@ -23,5 +23,5 @@ http://github.com/scottwasserman
 * **ID:** amzn1.ask.skill.7a645bd7-f7ce-4676-90fe-f551e5d3fc1d
 * **ASIN:** B01MFDSZ7R
 * **Author:** Scott Wasserman
-* **Release Date:** November 4, 2016 @ 02:13:02
+* **Release Date:** November 4, 2016 @ 03:13:02
 * **In-App Purchasing:** No

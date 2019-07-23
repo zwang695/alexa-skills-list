@@ -16,5 +16,5 @@ This game let us know what is the zodiac symbol for a specific date
 * **ID:** amzn1.echo-sdk-ams.app.fbaf4eee-b839-44f7-bbe8-fd4e8c6cd2bd
 * **ASIN:** B01FRBTO6M
 * **Author:** Alberto Vidana
-* **Release Date:** May 25, 2016 @ 09:38:50
+* **Release Date:** May 25, 2016 @ 10:38:50
 * **In-App Purchasing:** No

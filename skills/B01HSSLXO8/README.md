@@ -26,5 +26,5 @@ Supported Currencies:
 * **ID:** amzn1.echo-sdk-ams.app.b470d7ec-14e8-49d2-b3b9-f730e8fd5a98
 * **ASIN:** B01HSSLXO8
 * **Author:** Stoyan Dimitrov
-* **Release Date:** July 6, 2016 @ 01:57:35
+* **Release Date:** July 6, 2016 @ 02:57:35
 * **In-App Purchasing:** No

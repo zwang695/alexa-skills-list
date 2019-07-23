@@ -20,5 +20,5 @@ Earth's facts tell you facts that regular people would not know. it will be upda
 * **ID:** amzn1.ask.skill.767c0394-ca5c-4550-ad15-b7d5c9476b90
 * **ASIN:** B01LZ50DYT
 * **Author:** RUI
-* **Release Date:** September 22, 2016 @ 03:12:20
+* **Release Date:** September 22, 2016 @ 04:12:20
 * **In-App Purchasing:** No

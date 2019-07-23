@@ -20,5 +20,5 @@ The Space Weather skill will tell you the current conditions in space, including
 * **ID:** amzn1.echo-sdk-ams.app.6f831d81-32a7-49cd-a784-a6d5e81abf33
 * **ASIN:** B018YJ6TIK
 * **Author:** SodaAnt Enterprises
-* **Release Date:** December 4, 2015 @ 17:15:17
+* **Release Date:** December 4, 2015 @ 18:15:17
 * **In-App Purchasing:** No

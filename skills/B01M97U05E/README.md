@@ -20,5 +20,5 @@ Filmmaking Trivia digs deep and tests your knowledge of concepts, theories, term
 * **ID:** amzn1.ask.skill.f2597ee3-9561-450c-9fc2-e78c5c6bb900
 * **ASIN:** B01M97U05E
 * **Author:** Hamboning Films, LLC
-* **Release Date:** October 11, 2016 @ 09:42:01
+* **Release Date:** October 11, 2016 @ 10:42:01
 * **In-App Purchasing:** No

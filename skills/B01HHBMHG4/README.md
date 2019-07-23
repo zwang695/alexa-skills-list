@@ -26,5 +26,5 @@ This skill has both easy and hard questions on anything and everything related t
 * **ID:** amzn1.echo-sdk-ams.app.715230d4-28f8-4540-9cde-b6ce454da7a7
 * **ASIN:** B01HHBMHG4
 * **Author:** Plinth
-* **Release Date:** June 28, 2016 @ 05:45:50
+* **Release Date:** June 28, 2016 @ 06:45:50
 * **In-App Purchasing:** No

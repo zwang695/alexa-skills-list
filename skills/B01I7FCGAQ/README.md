@@ -20,5 +20,5 @@ You can learn some interesting facts about USA from this cool app!
 * **ID:** amzn1.echo-sdk-ams.app.dd0bdeb4-b1ea-4a91-b6f8-e9d673026d43
 * **ASIN:** B01I7FCGAQ
 * **Author:** John Wu
-* **Release Date:** July 12, 2016 @ 06:27:52
+* **Release Date:** July 12, 2016 @ 07:27:52
 * **In-App Purchasing:** No

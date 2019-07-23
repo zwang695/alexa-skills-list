@@ -20,5 +20,5 @@ Can't get enough of PewDiePie and always want to know what his latest video is? 
 * **ID:** amzn1.ask.skill.5ceb639a-b820-48b8-968a-1efa3f37e749
 * **ASIN:** B01LX2MW9S
 * **Author:** mKeRix
-* **Release Date:** October 18, 2016 @ 02:42:05
+* **Release Date:** October 18, 2016 @ 03:42:05
 * **In-App Purchasing:** No

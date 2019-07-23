@@ -16,5 +16,5 @@ This skill is a quiz, where it asks users questions, helping them pick a dog bre
 * **ID:** amzn1.ask.skill.d3ccdf1e-631f-4328-9317-f48829362ad0
 * **ASIN:** B01LWP3TUU
 * **Author:** Hoegen Developments
-* **Release Date:** October 4, 2016 @ 03:12:15
+* **Release Date:** October 4, 2016 @ 04:12:15
 * **In-App Purchasing:** No

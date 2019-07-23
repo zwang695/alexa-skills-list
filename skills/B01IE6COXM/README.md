@@ -20,5 +20,5 @@ Movies are magical.  Learn more about the movies by asking for a "Movie Fact".
 * **ID:** amzn1.echo-sdk-ams.app.4de935b2-0e60-4428-9499-e056da2d9d55
 * **ASIN:** B01IE6COXM
 * **Author:** Mike Hansen
-* **Release Date:** July 18, 2016 @ 01:57:28
+* **Release Date:** July 18, 2016 @ 02:57:28
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ I'm using the reindeer games quiz template to create a refresher quiz when my hi
 * **ID:** amzn1.echo-sdk-ams.app.c52c7e96-6d7d-4f9f-8134-8b37286a3a26
 * **ASIN:** B01AOB3J2U
 * **Author:** ChargED
-* **Release Date:** January 15, 2016 @ 14:36:44
+* **Release Date:** January 15, 2016 @ 15:36:44
 * **In-App Purchasing:** No

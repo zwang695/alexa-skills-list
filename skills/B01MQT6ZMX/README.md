@@ -20,5 +20,5 @@ The Belleayre Mountain Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.a1549c99-2325-44e7-8bf8-ab75570db713
 * **ASIN:** B01MQT6ZMX
 * **Author:** SnoCountry
-* **Release Date:** December 6, 2016 @ 19:20:10
+* **Release Date:** December 6, 2016 @ 20:20:10
 * **In-App Purchasing:** No

@@ -28,5 +28,5 @@ Or maybe the 250th game? Try:
 * **ID:** amzn1.echo-sdk-ams.app.276680d7-0e99-4b63-a8ea-07f40be031e3
 * **ASIN:** B01HSD5JFC
 * **Author:** Hari Sivaramakrishnan
-* **Release Date:** July 14, 2016 @ 04:57:56
+* **Release Date:** July 14, 2016 @ 05:57:56
 * **In-App Purchasing:** No

@@ -21,5 +21,5 @@ check back often as new facts will be added periodically.  If there is enough de
 * **ID:** amzn1.ask.skill.15f824e6-1d9d-41a8-b3bd-876faf712e22
 * **ASIN:** B01KZ4MXMI
 * **Author:** thehuey
-* **Release Date:** August 25, 2016 @ 06:00:52
+* **Release Date:** August 25, 2016 @ 07:00:52
 * **In-App Purchasing:** No

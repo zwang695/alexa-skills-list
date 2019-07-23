@@ -20,5 +20,5 @@ This is a list of facts on the sponge bob cartoon character.  It will allow the 
 * **ID:** amzn1.echo-sdk-ams.app.8823de73-7a3b-473e-a0a2-5d5909beab36
 * **ASIN:** B01GZ8DM00
 * **Author:** Calvin Settachatgul
-* **Release Date:** June 22, 2016 @ 02:45:34
+* **Release Date:** June 22, 2016 @ 03:45:34
 * **In-App Purchasing:** No

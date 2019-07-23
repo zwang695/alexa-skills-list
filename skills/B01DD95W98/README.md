@@ -21,5 +21,5 @@ No prerequisites to set up, just ask about the distance from one word to another
 * **ID:** amzn1.echo-sdk-ams.app.85dede7b-62f5-4f60-bb39-58ad5715ce3c
 * **ASIN:** B01DD95W98
 * **Author:** ziembla
-* **Release Date:** March 24, 2016 @ 01:07:36
+* **Release Date:** March 24, 2016 @ 02:07:36
 * **In-App Purchasing:** No

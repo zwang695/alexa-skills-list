@@ -20,5 +20,5 @@ The Crystal Mountain Resort Snow Report brought to you by SnoCountry brings you 
 * **ID:** amzn1.ask.skill.067ba248-708e-4e0f-b9fe-db27c53937d8
 * **ASIN:** B01M09LGGP
 * **Author:** SnoCountry
-* **Release Date:** October 19, 2016 @ 11:12:41
+* **Release Date:** October 19, 2016 @ 12:12:41
 * **In-App Purchasing:** No

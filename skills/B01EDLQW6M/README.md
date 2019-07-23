@@ -20,5 +20,5 @@ This skill will allow you to test your knowledge about Hollywood movies, awards 
 * **ID:** amzn1.echo-sdk-ams.app.84bfced9-a1ef-4a6b-92d4-b7bff09660ca
 * **ASIN:** B01EDLQW6M
 * **Author:** eddyed911
-* **Release Date:** April 26, 2016 @ 08:38:47
+* **Release Date:** April 26, 2016 @ 09:38:47
 * **In-App Purchasing:** No

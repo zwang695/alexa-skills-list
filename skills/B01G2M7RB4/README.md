@@ -20,5 +20,5 @@ Dice Roller helps you to make a decision. It can be used to decide who to do was
 * **ID:** amzn1.echo-sdk-ams.app.96178f19-126a-4239-8b06-790266c385fe
 * **ASIN:** B01G2M7RB4
 * **Author:** Xu Zhang
-* **Release Date:** May 24, 2016 @ 09:08:42
+* **Release Date:** May 24, 2016 @ 10:08:42
 * **In-App Purchasing:** No

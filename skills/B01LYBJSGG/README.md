@@ -36,5 +36,5 @@ Disclaimer: This skill may not be suitable for all ages. This skill is for enter
 * **ID:** amzn1.ask.skill.42292a2a-8a1f-435e-ab49-9fb12e307201
 * **ASIN:** B01LYBJSGG
 * **Author:** ActualCalorie
-* **Release Date:** October 4, 2016 @ 01:42:24
+* **Release Date:** October 4, 2016 @ 02:42:24
 * **In-App Purchasing:** No

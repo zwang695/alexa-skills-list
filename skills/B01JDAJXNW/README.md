@@ -20,5 +20,5 @@ Celebrate plays a short horn to celebrate whatever you want. Just say "Alexa, op
 * **ID:** amzn1.ask.skill.b6734e8a-ea44-43ac-937e-a95fda4a1017
 * **ASIN:** B01JDAJXNW
 * **Author:** AntlerVision
-* **Release Date:** August 8, 2016 @ 01:37:33
+* **Release Date:** August 8, 2016 @ 02:37:33
 * **In-App Purchasing:** No

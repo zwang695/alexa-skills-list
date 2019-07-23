@@ -22,7 +22,7 @@ DISCLAIMER: This tool is meant to educate users on how to improve their overall 
 * **ID:** amzn1.echo-sdk-ams.app.b84dd64a-8fcf-46b1-b8f5-4786a5f314db
 * **ASIN:** B01F2QDKC6
 * **Author:** Sutter Health
-* **Release Date:** May 9, 2016 @ 01:38:29
+* **Release Date:** May 9, 2016 @ 02:38:29
 * **Privacy Policy:** http://www.sutterhealth.org/policy/
 * **Terms of Use:** http://www.sutterhealth.org/policy/
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Mountain Top Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.16ddec82-7663-4386-a181-6c34f2bab749
 * **ASIN:** B01N3VZXLG
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:43:15
+* **Release Date:** November 5, 2016 @ 11:43:15
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ When you have Alexa ask Christopher for an airplane fact Alexa will randomly cho
 * **ID:** amzn1.echo-sdk-ams.app.bcea004c-8715-48f6-a531-80cfa38dec7c
 * **ASIN:** B01CE4JDSE
 * **Author:** Steve Wagner
-* **Release Date:** March 1, 2016 @ 01:34:24
+* **Release Date:** March 1, 2016 @ 02:34:24
 * **In-App Purchasing:** No

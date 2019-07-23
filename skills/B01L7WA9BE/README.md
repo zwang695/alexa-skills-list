@@ -20,5 +20,5 @@ Fun phrases that Alexa can tell you to say when you're in love.
 * **ID:** amzn1.ask.skill.15b33621-f41a-4f7e-8b35-b43f6ee8aae0
 * **ASIN:** B01L7WA9BE
 * **Author:** connies0nguyen
-* **Release Date:** September 1, 2016 @ 04:03:33
+* **Release Date:** September 1, 2016 @ 05:03:33
 * **In-App Purchasing:** No

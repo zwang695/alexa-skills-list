@@ -16,5 +16,5 @@ Movie Trivia tests your film knowledge. You are given a question and 4 answers. 
 * **ID:** amzn1.ask.skill.91f64d51-b7d8-4b76-902e-4f4bd844c1e4
 * **ASIN:** B01LYWYHJ3
 * **Author:** Designer
-* **Release Date:** September 29, 2016 @ 06:42:38
+* **Release Date:** September 29, 2016 @ 07:42:38
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ If you play Fun Fair Positive Soccer, this skill will look up your next game tim
 * **ID:** amzn1.ask.skill.f8e51b8d-4587-486d-9232-4572a9f71d9c
 * **ASIN:** B01JZOK9X4
 * **Author:** Fun Fair Positive Soccer
-* **Release Date:** August 22, 2016 @ 07:45:01
+* **Release Date:** August 22, 2016 @ 08:45:01
 * **Privacy Policy:** http://www.ffps.org/Terms.aspx
 * **Terms of Use:** http://www.ffps.org/Terms.aspx
 * **In-App Purchasing:** No

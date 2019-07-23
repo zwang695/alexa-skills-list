@@ -20,5 +20,5 @@ This app uses general overall criteria to help users decide what swim events the
 * **ID:** amzn1.ask.skill.f56aa5b9-69e0-4277-b4ef-2968c5b3c015
 * **ASIN:** B01KR6VP6O
 * **Author:** TempDevAcc
-* **Release Date:** August 30, 2016 @ 04:33:02
+* **Release Date:** August 30, 2016 @ 05:33:02
 * **In-App Purchasing:** No

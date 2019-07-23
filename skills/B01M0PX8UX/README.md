@@ -20,5 +20,5 @@ This is an Alexa skill that asks the user trivia questions about Maine.
 * **ID:** amzn1.ask.skill.b84760ce-1b4b-44fd-8ef1-8d65d0288ec4
 * **ASIN:** B01M0PX8UX
 * **Author:** Marcus Horner
-* **Release Date:** October 11, 2016 @ 01:41:50
+* **Release Date:** October 11, 2016 @ 02:41:50
 * **In-App Purchasing:** No

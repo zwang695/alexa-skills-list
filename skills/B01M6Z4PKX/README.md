@@ -20,5 +20,5 @@ The Andes Tower Hills Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.b274e2f4-e6dd-4ac1-87ef-caa7d2319586
 * **ASIN:** B01M6Z4PKX
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:18:20
+* **Release Date:** October 21, 2016 @ 15:18:20
 * **In-App Purchasing:** No

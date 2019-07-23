@@ -20,5 +20,5 @@ Start your day inspired with a collection of over 200 freedom-themed quotes from
 * **ID:** amzn1.echo-sdk-ams.app.e3164c71-2e4d-47d4-9672-0246c1bad289
 * **ASIN:** B019PLYQ1S
 * **Author:** Liberty Crate
-* **Release Date:** December 22, 2015 @ 19:16:40
+* **Release Date:** December 22, 2015 @ 20:16:40
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Ask Alexa for a common misconception and she'll tell you one of over 150, rangin
 * **ID:** amzn1.ask.skill.002b0735-7055-4367-b849-72ce51140e3d
 * **ASIN:** B01MY2B691
 * **Author:** jellywoo
-* **Release Date:** December 28, 2016 @ 02:19:20
+* **Release Date:** December 28, 2016 @ 03:19:20
 * **In-App Purchasing:** No

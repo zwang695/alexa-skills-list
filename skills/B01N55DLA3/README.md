@@ -20,5 +20,5 @@ The Ski Sundown Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.f357c8f1-864f-46ea-9e57-3914e3dbf5dd
 * **ASIN:** B01N55DLA3
 * **Author:** SnoCountry
-* **Release Date:** November 22, 2016 @ 08:36:29
+* **Release Date:** November 22, 2016 @ 09:36:29
 * **In-App Purchasing:** No

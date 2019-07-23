@@ -22,5 +22,5 @@ This skill is fan created and not sponsored by the Pokemon Company. The image sp
 * **ID:** amzn1.ask.skill.851bd8ad-fdc6-483d-9871-39ec4cb3b40f
 * **ASIN:** B01LZDF4HF
 * **Author:** Spraypaint
-* **Release Date:** October 18, 2016 @ 04:42:34
+* **Release Date:** October 18, 2016 @ 05:42:34
 * **In-App Purchasing:** No

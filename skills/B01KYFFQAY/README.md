@@ -20,5 +20,5 @@ Selected excerpts from The Book of Wisdom (Kitab Al-Hikam) by Ibn Ata-Allah al-I
 * **ID:** amzn1.ask.skill.b4cfa703-9db0-45c9-9b2d-2b715f873104
 * **ASIN:** B01KYFFQAY
 * **Author:** Adam Mosam
-* **Release Date:** August 25, 2016 @ 07:01:11
+* **Release Date:** August 25, 2016 @ 08:01:11
 * **In-App Purchasing:** No

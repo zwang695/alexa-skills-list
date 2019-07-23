@@ -20,5 +20,5 @@ This skill enables your Alexa to tell you about special daily sales from CorkOrn
 * **ID:** amzn1.echo-sdk-ams.app.b5a5f9f4-0c84-4105-a7a5-fc46ef0488dc
 * **ASIN:** B01FPOF91U
 * **Author:** CraftyC
-* **Release Date:** May 24, 2016 @ 05:38:28
+* **Release Date:** May 24, 2016 @ 06:38:28
 * **In-App Purchasing:** No

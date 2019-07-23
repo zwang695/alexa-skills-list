@@ -22,5 +22,5 @@ Just tell tips calculator how much you paid for you meal and how much percent ti
 * **ID:** amzn1.ask.skill.322dbaf3-4b95-4053-8772-a2d8e897133f
 * **ASIN:** B01KZECJXQ
 * **Author:** Zero Tech
-* **Release Date:** September 1, 2016 @ 04:03:15
+* **Release Date:** September 1, 2016 @ 05:03:15
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill will tell you about facts about dogs.
 * **ID:** amzn1.ask.skill.84a1786c-64bf-46d7-a744-43a72f8db39e
 * **ASIN:** B01N9BRH9S
 * **Author:** yopaFunTime
-* **Release Date:** December 1, 2016 @ 07:05:32
+* **Release Date:** December 1, 2016 @ 08:05:32
 * **In-App Purchasing:** No

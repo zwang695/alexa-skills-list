@@ -20,5 +20,5 @@ This Alexa App provides fun facts about Connecticut simply by asking, "Alexa, as
 * **ID:** amzn1.ask.skill.3fc913f2-1d79-4824-904f-03f9898fd897
 * **ASIN:** B01J28QP18
 * **Author:** Jason Sit
-* **Release Date:** July 27, 2016 @ 06:26:32
+* **Release Date:** July 27, 2016 @ 07:26:32
 * **In-App Purchasing:** No

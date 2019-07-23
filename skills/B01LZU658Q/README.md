@@ -20,5 +20,5 @@ The skill speaks out one of the Harvey Specter quotes from Suits.
 * **ID:** amzn1.ask.skill.589b2698-be19-44ec-87d7-ab2e5964b22e
 * **ASIN:** B01LZU658Q
 * **Author:** Chirag Narendra Kular
-* **Release Date:** October 3, 2016 @ 05:12:01
+* **Release Date:** October 3, 2016 @ 06:12:01
 * **In-App Purchasing:** No

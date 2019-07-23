@@ -26,5 +26,5 @@ Play by yourself, or compete against friends to see who really knows all things 
 * **ID:** amzn1.echo-sdk-ams.app.037e6548-2ee3-45ef-b5c3-452acb0c5f7d
 * **ASIN:** B01DONMT6W
 * **Author:** NoSleepNick
-* **Release Date:** April 4, 2016 @ 07:06:38
+* **Release Date:** April 4, 2016 @ 08:06:38
 * **In-App Purchasing:** No

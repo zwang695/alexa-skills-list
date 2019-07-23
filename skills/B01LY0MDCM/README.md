@@ -16,5 +16,5 @@ Demonstrate if you are a true Texan by answering correctly trivia questions abou
 * **ID:** amzn1.ask.skill.167485ac-36c8-4afd-90f5-ff7052248a19
 * **ASIN:** B01LY0MDCM
 * **Author:** David Garcia
-* **Release Date:** October 6, 2016 @ 08:41:46
+* **Release Date:** October 6, 2016 @ 09:41:46
 * **In-App Purchasing:** No

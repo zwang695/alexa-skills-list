@@ -20,5 +20,5 @@ The Hickory Ski Center Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.06427727-15e6-4a21-8917-ddbe95fd2331
 * **ASIN:** B01M5FGQ5Y
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:43:36
+* **Release Date:** October 26, 2016 @ 04:43:36
 * **In-App Purchasing:** No

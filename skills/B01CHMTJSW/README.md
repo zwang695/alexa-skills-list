@@ -32,5 +32,5 @@ Have fun and do leave a feedback!
 * **ID:** amzn1.echo-sdk-ams.app.a606fd3d-294d-4c8f-9d5c-d77081dee2e1
 * **ASIN:** B01CHMTJSW
 * **Author:** TC Leu
-* **Release Date:** March 3, 2016 @ 00:06:15
+* **Release Date:** March 3, 2016 @ 01:06:15
 * **In-App Purchasing:** No

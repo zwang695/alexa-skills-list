@@ -20,5 +20,5 @@ The Whistler Blackcomb Snow Report brought to you by SnoCountry brings you the l
 * **ID:** amzn1.ask.skill.5da6bc5f-4f09-4315-8809-085792aaf2f1
 * **ASIN:** B01LR79Z3M
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:45:51
+* **Release Date:** October 20, 2016 @ 04:45:51
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ Skill will be updated with more countries and currencies!
 * **ID:** amzn1.ask.skill.352b5715-b817-4832-918f-cc4810ccf414
 * **ASIN:** B01L4UC4E4
 * **Author:** anjalikan
-* **Release Date:** August 31, 2016 @ 02:32:43
+* **Release Date:** August 31, 2016 @ 03:32:43
 * **In-App Purchasing:** No

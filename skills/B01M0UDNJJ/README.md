@@ -20,5 +20,5 @@ Asking Trump Quotes for a random Donald Trump funny saying!
 * **ID:** amzn1.ask.skill.6771005d-de4e-496d-92a4-96d305eb4fb0
 * **ASIN:** B01M0UDNJJ
 * **Author:** Andrew Garcia
-* **Release Date:** October 7, 2016 @ 02:12:10
+* **Release Date:** October 7, 2016 @ 03:12:10
 * **In-App Purchasing:** No

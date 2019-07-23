@@ -20,5 +20,5 @@ Chess facts that include historical and mathematical information to blow your mi
 * **ID:** amzn1.echo-sdk-ams.app.ef76fa47-c9c9-4e43-b50e-d42d499be820
 * **ASIN:** B01E27CWVQ
 * **Author:** antblessing
-* **Release Date:** April 12, 2016 @ 04:32:30
+* **Release Date:** April 12, 2016 @ 05:32:30
 * **In-App Purchasing:** No

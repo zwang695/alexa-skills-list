@@ -22,5 +22,5 @@ Disclaimer - This skill involves some knowledge of alcoholic beverages and hence
 * **ID:** amzn1.ask.skill.75ddb758-45e5-4462-81eb-f5d8dd68b50f
 * **ASIN:** B01M8IP8Y1
 * **Author:** Safina K
-* **Release Date:** October 21, 2016 @ 15:14:46
+* **Release Date:** October 21, 2016 @ 16:14:46
 * **In-App Purchasing:** No

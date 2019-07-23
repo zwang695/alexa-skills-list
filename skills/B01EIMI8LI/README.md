@@ -20,5 +20,5 @@ Omaha Trivia will test your knowledge of Warren Buffett, the Huskers and all thi
 * **ID:** amzn1.echo-sdk-ams.app.d712bf1e-fe69-4cf8-8c2b-c5ef70da54a5
 * **ASIN:** B01EIMI8LI
 * **Author:** Red Oak Analytics
-* **Release Date:** April 20, 2016 @ 15:32:30
+* **Release Date:** April 20, 2016 @ 16:32:30
 * **In-App Purchasing:** No

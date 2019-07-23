@@ -22,5 +22,5 @@ To search for an tuition, say, ""Ask College Knowledge for the tuition at..." fo
 * **ID:** amzn1.echo-sdk-ams.app.17d8f0e4-6f3f-4dfb-9ca5-69b1f25b90ef
 * **ASIN:** B01EPG5CCU
 * **Author:** Trusterity
-* **Release Date:** December 22, 2016 @ 03:49:19
+* **Release Date:** December 22, 2016 @ 04:49:19
 * **In-App Purchasing:** No

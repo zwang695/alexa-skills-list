@@ -22,5 +22,5 @@ This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.b27616cc-5cdf-40c5-a8cb-c9297e273d07
 * **ASIN:** B01HR2WQIW
 * **Author:** Wolf Dog
-* **Release Date:** July 6, 2016 @ 01:57:31
+* **Release Date:** July 6, 2016 @ 02:57:31
 * **In-App Purchasing:** No

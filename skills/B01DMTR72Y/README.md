@@ -22,5 +22,5 @@ Alexa will respond with "Here's your Sweden fact: ..."
 * **ID:** amzn1.echo-sdk-ams.app.72182b68-0f68-44d5-bf62-99c994094960
 * **ASIN:** B01DMTR72Y
 * **Author:** AnnTG
-* **Release Date:** April 6, 2016 @ 10:02:40
+* **Release Date:** April 6, 2016 @ 11:02:40
 * **In-App Purchasing:** No

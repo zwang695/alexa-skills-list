@@ -22,5 +22,5 @@ Play a trivia game to see how smart you are!
 * **ID:** amzn1.ask.skill.a13f784c-3789-49f7-ad51-926feca294d3
 * **ASIN:** B01IWPFBJE
 * **Author:** RCPTFit
-* **Release Date:** July 28, 2016 @ 11:56:35
+* **Release Date:** July 28, 2016 @ 12:56:35
 * **In-App Purchasing:** No

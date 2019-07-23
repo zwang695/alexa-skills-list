@@ -20,5 +20,5 @@ This Alexa skill helps you learn interesting facts about paint.  Let Alexa help 
 * **ID:** amzn1.ask.skill.d104f477-6b7d-4ed8-9e6d-4b8bc45bec53
 * **ASIN:** B01K881XV8
 * **Author:** Mathew Skaria
-* **Release Date:** August 17, 2016 @ 06:22:37
+* **Release Date:** August 17, 2016 @ 07:22:37
 * **In-App Purchasing:** No

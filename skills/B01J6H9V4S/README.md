@@ -20,5 +20,5 @@ This skill reads a random Bible verse whenever it is called. The skill calls an 
 * **ID:** amzn1.ask.skill.104f1e89-0c12-4dea-9057-832e88b3b60e
 * **ASIN:** B01J6H9V4S
 * **Author:** Jonny Forney
-* **Release Date:** August 3, 2016 @ 01:41:55
+* **Release Date:** August 3, 2016 @ 02:41:55
 * **In-App Purchasing:** No

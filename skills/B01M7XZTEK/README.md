@@ -20,5 +20,5 @@ NBA Player Points gives the number of points any NBA player has scored in their 
 * **ID:** amzn1.ask.skill.12d0f121-0a2b-4af4-bed2-25b1a52c5183
 * **ASIN:** B01M7XZTEK
 * **Author:** Raj Bhanushali
-* **Release Date:** November 20, 2016 @ 23:36:25
+* **Release Date:** November 21, 2016 @ 00:36:25
 * **In-App Purchasing:** No

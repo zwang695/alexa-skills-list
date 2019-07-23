@@ -20,5 +20,5 @@ Quiz your Harry Potter knowledge and find out for yourself if you're a muggle or
 * **ID:** amzn1.echo-sdk-ams.app.8b4fed57-7a60-4e05-9821-124b1529eaed
 * **ASIN:** B01H88SIVO
 * **Author:** Drew Firment
-* **Release Date:** June 21, 2016 @ 04:45:35
+* **Release Date:** June 21, 2016 @ 05:45:35
 * **In-App Purchasing:** No

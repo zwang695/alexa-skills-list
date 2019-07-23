@@ -22,5 +22,5 @@ This skill is NOT endorsed by FC Barcelona and it's totally unofficial, created 
 * **ID:** amzn1.ask.skill.c5b612a5-8d9d-4396-87c0-f62c1bb2d4d4
 * **ASIN:** B01MRSUPD2
 * **Author:** lavigilanta.info
-* **Release Date:** December 8, 2016 @ 08:19:46
+* **Release Date:** December 8, 2016 @ 09:19:46
 * **In-App Purchasing:** No

@@ -27,5 +27,5 @@ This skill is primarily intended for programmers needing a quick learning sessio
 * **ID:** amzn1.ask.skill.c0fa034b-5029-4412-81d5-bf03a6d6c2ca
 * **ASIN:** B01MQXAZAA
 * **Author:** Amanda Rice
-* **Release Date:** December 21, 2016 @ 07:19:28
+* **Release Date:** December 21, 2016 @ 08:19:28
 * **In-App Purchasing:** No

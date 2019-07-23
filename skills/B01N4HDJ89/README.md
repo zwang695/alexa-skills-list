@@ -20,5 +20,5 @@ This skill provide "did you know" facts.
 * **ID:** amzn1.ask.skill.c56c2794-235e-4bd8-be80-9c8b0d1a36c6
 * **ASIN:** B01N4HDJ89
 * **Author:** Jay Rao
-* **Release Date:** December 25, 2016 @ 05:18:58
+* **Release Date:** December 25, 2016 @ 06:18:58
 * **In-App Purchasing:** No

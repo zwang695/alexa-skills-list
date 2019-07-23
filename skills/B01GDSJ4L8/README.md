@@ -20,5 +20,5 @@ Ask this skill for a fact, and it will return a trigonometric identity from an i
 * **ID:** amzn1.echo-sdk-ams.app.5944410f-7e71-495c-8147-417df3ead251
 * **ASIN:** B01GDSJ4L8
 * **Author:** Jackie Scholl
-* **Release Date:** June 2, 2016 @ 02:08:33
+* **Release Date:** June 2, 2016 @ 03:08:33
 * **In-App Purchasing:** No

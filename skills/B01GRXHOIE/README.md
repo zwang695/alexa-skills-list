@@ -20,5 +20,5 @@ A test based on the Mobile Robotics domain. For a person who has assembled a mob
 * **ID:** amzn1.echo-sdk-ams.app.5ce4b07b-3ac4-4aa6-bf66-b67aabe2cd1b
 * **ASIN:** B01GRXHOIE
 * **Author:** Pankak
-* **Release Date:** June 9, 2016 @ 08:09:37
+* **Release Date:** June 9, 2016 @ 09:09:37
 * **In-App Purchasing:** No

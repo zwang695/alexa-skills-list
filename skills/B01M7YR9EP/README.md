@@ -20,5 +20,5 @@ With this skill, you can ask Alexa to give you a random move to play the Twister
 * **ID:** amzn1.ask.skill.31717e01-40a0-4bdd-ae94-f7f5aa0a4575
 * **ASIN:** B01M7YR9EP
 * **Author:** NukePrice
-* **Release Date:** November 10, 2016 @ 00:42:55
+* **Release Date:** November 10, 2016 @ 01:42:55
 * **In-App Purchasing:** No

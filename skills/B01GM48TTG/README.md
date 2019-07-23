@@ -20,5 +20,5 @@ This app is really just a fun little app designed to teach interesting facts to 
 * **ID:** amzn1.echo-sdk-ams.app.985da967-17e4-4026-b45c-7711e66b67be
 * **ASIN:** B01GM48TTG
 * **Author:** Erik Lane
-* **Release Date:** June 9, 2016 @ 04:09:42
+* **Release Date:** June 9, 2016 @ 05:09:42
 * **In-App Purchasing:** No

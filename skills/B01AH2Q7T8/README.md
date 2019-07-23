@@ -39,5 +39,5 @@ Your moves and the corresponding results will be also shown in the Echo companio
 * **ID:** amzn1.echo-sdk-ams.app.7d693144-d24f-4e4e-9416-9d853fb5c4d6
 * **ASIN:** B01AH2Q7T8
 * **Author:** Weikatec GmbH
-* **Release Date:** January 11, 2016 @ 18:19:18
+* **Release Date:** January 11, 2016 @ 19:19:18
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ Never be without a deck of cards again. Draw a random card from a standard deck 
 * **ID:** amzn1.echo-sdk-ams.app.d111d1fe-fd21-498c-8a67-9a23019dc4cd
 * **ASIN:** B01DTWAPPA
 * **Author:** Cyborkt
-* **Release Date:** April 28, 2016 @ 08:08:32
+* **Release Date:** April 28, 2016 @ 09:08:32
 * **In-App Purchasing:** No

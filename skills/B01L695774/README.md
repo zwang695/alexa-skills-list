@@ -20,5 +20,5 @@ All you needs is a Rubik's cube and the ability to solve the first layer of the 
 * **ID:** amzn1.ask.skill.bfe50318-bd21-4d11-8d87-c41ee323c29a
 * **ASIN:** B01L695774
 * **Author:** NBE
-* **Release Date:** September 12, 2016 @ 02:42:51
+* **Release Date:** September 12, 2016 @ 03:42:51
 * **In-App Purchasing:** No

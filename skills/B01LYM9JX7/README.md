@@ -22,5 +22,5 @@ Ask Alexa for a quick yes or no answer, making your decision making process fast
 * **ID:** amzn1.ask.skill.a33c888d-ce17-4aef-b794-e61865479dd3
 * **ASIN:** B01LYM9JX7
 * **Author:** Bryce Bortree
-* **Release Date:** October 5, 2016 @ 00:13:06
+* **Release Date:** October 5, 2016 @ 01:13:06
 * **In-App Purchasing:** No

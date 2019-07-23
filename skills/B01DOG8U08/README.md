@@ -29,5 +29,5 @@ Enjoy!
 * **ID:** amzn1.echo-sdk-ams.app.c7d2e50e-1ad7-4c0f-b50d-5724d9919caa
 * **ASIN:** B01DOG8U08
 * **Author:** Dan Lee
-* **Release Date:** April 29, 2016 @ 01:38:41
+* **Release Date:** April 29, 2016 @ 02:38:41
 * **In-App Purchasing:** No

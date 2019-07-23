@@ -45,6 +45,6 @@ Get program status
 * **ID:** amzn1.echo-sdk-ams.app.0c691557-2597-4018-ba9b-4abe6821e7ca
 * **ASIN:** B019719XOQ
 * **Author:** Universal Devices, Inc.
-* **Release Date:** December 10, 2015 @ 13:16:47
+* **Release Date:** December 10, 2015 @ 14:16:47
 * **Privacy Policy:** http://www.universal-devices.com/privacy/
 * **In-App Purchasing:** No

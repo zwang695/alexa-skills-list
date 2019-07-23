@@ -20,5 +20,5 @@ Let Alexa tell you some interesting facts about the great state of Kentucky that
 * **ID:** amzn1.ask.skill.2f7441e1-1cf9-4840-bc4a-27f9af8363a7
 * **ASIN:** B01KOLC3JU
 * **Author:** Aaron DeGough
-* **Release Date:** August 23, 2016 @ 07:19:05
+* **Release Date:** August 23, 2016 @ 08:19:05
 * **In-App Purchasing:** No

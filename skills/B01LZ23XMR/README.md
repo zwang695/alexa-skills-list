@@ -20,5 +20,5 @@ The Diamond Peak Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.650a1ea5-58e5-41b5-80b5-ab19f095badc
 * **ASIN:** B01LZ23XMR
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:15:27
+* **Release Date:** October 20, 2016 @ 04:15:27
 * **In-App Purchasing:** No

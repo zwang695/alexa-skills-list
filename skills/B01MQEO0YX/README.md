@@ -16,5 +16,5 @@ Don't know what country to go to for your next vacation? Come open what country 
 * **ID:** amzn1.ask.skill.8dc32603-2ee4-4341-b239-eef6332f636e
 * **ASIN:** B01MQEO0YX
 * **Author:** ssvictorlin
-* **Release Date:** November 9, 2016 @ 02:43:29
+* **Release Date:** November 9, 2016 @ 03:43:29
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ You've heard about Anchorage in books, movies, magazines, and on the radio, but 
 * **ID:** amzn1.ask.skill.c5e7655c-2f8f-4bfd-8896-ff14912c6a98
 * **ASIN:** B01N0U8H56
 * **Author:** ver2point0
-* **Release Date:** December 25, 2016 @ 22:48:56
+* **Release Date:** December 25, 2016 @ 23:48:56
 * **In-App Purchasing:** No

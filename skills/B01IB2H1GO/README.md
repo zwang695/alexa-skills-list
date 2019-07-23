@@ -141,5 +141,5 @@ Gilroy
 * **ID:** amzn1.echo-sdk-ams.app.eb4c69c2-5e93-4034-a40a-66b736fa575c
 * **ASIN:** B01IB2H1GO
 * **Author:** Pretty Good Apps
-* **Release Date:** July 15, 2016 @ 07:27:37
+* **Release Date:** July 15, 2016 @ 08:27:37
 * **In-App Purchasing:** No

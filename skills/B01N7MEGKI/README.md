@@ -20,5 +20,5 @@ The lit motivator gives you lit phrases to keep you going through your day. Havi
 * **ID:** amzn1.ask.skill.d99c6d21-b895-4605-9bed-dad8dd455d84
 * **ASIN:** B01N7MEGKI
 * **Author:** nesh170
-* **Release Date:** December 29, 2016 @ 04:49:52
+* **Release Date:** December 29, 2016 @ 05:49:52
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ An unofficial skill with facts about Halo. Not sponsored by Microsoft.
 * **ID:** amzn1.ask.skill.86fcb269-f77c-4b46-9e68-0565514fa5aa
 * **ASIN:** B01N3SOCWR
 * **Author:** Ethan Rivett
-* **Release Date:** December 3, 2016 @ 04:05:16
+* **Release Date:** December 3, 2016 @ 05:05:16
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Fun facts about Iran and its history, culture, and geography.
 * **ID:** amzn1.ask.skill.6af156e2-f525-4ca6-b216-ac5192a344db
 * **ASIN:** B01LZ7OWE4
 * **Author:** FarbodMehr
-* **Release Date:** September 28, 2016 @ 17:13:16
+* **Release Date:** September 28, 2016 @ 18:13:16
 * **In-App Purchasing:** No

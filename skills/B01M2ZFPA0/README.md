@@ -24,5 +24,5 @@ If you have any issues or suggestions, please contact us at basketballschedule@s
 * **ID:** amzn1.ask.skill.91316df9-67be-4643-b7fe-94896753b0e0
 * **ASIN:** B01M2ZFPA0
 * **Author:** system zwei
-* **Release Date:** October 27, 2016 @ 01:46:21
+* **Release Date:** October 27, 2016 @ 02:46:21
 * **In-App Purchasing:** No

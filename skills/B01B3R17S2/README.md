@@ -20,5 +20,5 @@ All you have to do is say mirror mirror and Alexa will give you a compliment. No
 * **ID:** amzn1.echo-sdk-ams.app.b4702c6a-b566-4bb9-8aac-18612e8678e2
 * **ASIN:** B01B3R17S2
 * **Author:** bryant schuck
-* **Release Date:** January 26, 2016 @ 17:58:10
+* **Release Date:** January 26, 2016 @ 18:58:10
 * **In-App Purchasing:** No

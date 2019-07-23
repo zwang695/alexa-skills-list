@@ -20,5 +20,5 @@ If you open the application, it will provide an Inspirational Quote. If you need
 * **ID:** amzn1.ask.skill.8d5d2b70-72fd-4cf0-b66f-ec41bd99af83
 * **ASIN:** B01N1IWZ2J
 * **Author:** Furonics
-* **Release Date:** December 10, 2016 @ 00:49:20
+* **Release Date:** December 10, 2016 @ 01:49:20
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Facts about Singapore
 * **ID:** amzn1.ask.skill.f2b13438-5442-4468-a6e5-5f0ffe256bcc
 * **ASIN:** B01KATE4JI
 * **Author:** MSG Associates 
-* **Release Date:** August 24, 2016 @ 06:02:09
+* **Release Date:** August 24, 2016 @ 07:02:09
 * **In-App Purchasing:** No

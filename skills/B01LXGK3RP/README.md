@@ -28,7 +28,7 @@ Disclaimer: Some movies and television may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.4ff45287-44ea-47b6-aecf-03a4cdbd2fcc
 * **ASIN:** B01LXGK3RP
 * **Author:** trakt inc
-* **Release Date:** November 20, 2016 @ 23:06:58
+* **Release Date:** November 21, 2016 @ 00:06:58
 * **Privacy Policy:** http://trakt.tv/privacy
 * **Terms of Use:** http://trakt.tv/terms
 * **Account Linking Domains:** api.trakt.tv

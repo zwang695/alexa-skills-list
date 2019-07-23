@@ -16,5 +16,5 @@ Always wondering about why mathematics is so important in our daily lives? These
 * **ID:** amzn1.ask.skill.81ef84ea-dbc4-4fd6-9731-1d110eb677e5
 * **ASIN:** B01LXBD5A5
 * **Author:** cponeill
-* **Release Date:** October 8, 2016 @ 03:11:43
+* **Release Date:** October 8, 2016 @ 04:11:43
 * **In-App Purchasing:** No

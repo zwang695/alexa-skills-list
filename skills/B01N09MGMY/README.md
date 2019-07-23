@@ -20,5 +20,5 @@ This skill is simple as it tells you an interesting history fact that you probab
 * **ID:** amzn1.ask.skill.dbcabf94-8efa-4523-9f82-a80e78b37733
 * **ASIN:** B01N09MGMY
 * **Author:** Chommy
-* **Release Date:** November 11, 2016 @ 01:14:52
+* **Release Date:** November 11, 2016 @ 02:14:52
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Hear one of many quotes from Charles Bukowski and his writings.
 * **ID:** amzn1.ask.skill.b0326637-2fd6-4d5f-8f47-a3ed58b6d76f
 * **ASIN:** B01M4NS4J9
 * **Author:** Naima
-* **Release Date:** October 31, 2016 @ 12:43:05
+* **Release Date:** October 31, 2016 @ 13:43:05
 * **In-App Purchasing:** No

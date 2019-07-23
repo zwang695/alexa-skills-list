@@ -20,5 +20,5 @@ This skill will have Alexa read to you the top 5 news articles (up-voted or newe
 * **ID:** amzn1.ask.skill.c46cf73e-1e11-4c17-b2c9-b41748255436
 * **ASIN:** B01MFDZFFT
 * **Author:** Imprecision
-* **Release Date:** November 2, 2016 @ 02:44:03
+* **Release Date:** November 2, 2016 @ 03:44:03
 * **In-App Purchasing:** No

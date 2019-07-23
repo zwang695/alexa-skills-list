@@ -22,5 +22,5 @@ No additional hardware or software required. Just your beautiful voice.
 * **ID:** amzn1.ask.skill.f8132026-a707-4bf9-b04b-1df1c1096e85
 * **ASIN:** B01M3P8BA7
 * **Author:** ANovis
-* **Release Date:** October 15, 2016 @ 01:46:11
+* **Release Date:** October 15, 2016 @ 02:46:11
 * **In-App Purchasing:** No

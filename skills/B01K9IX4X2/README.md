@@ -20,5 +20,5 @@ Learn a random fact about our friend the wombat. For example, did you know that 
 * **ID:** amzn1.ask.skill.4e5b196b-29e8-415e-a1a3-075c9095e4e4
 * **ASIN:** B01K9IX4X2
 * **Author:** jcn
-* **Release Date:** August 12, 2016 @ 07:07:23
+* **Release Date:** August 12, 2016 @ 08:07:23
 * **In-App Purchasing:** No

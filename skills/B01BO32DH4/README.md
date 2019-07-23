@@ -20,5 +20,5 @@ This skill will return a description of the area represented by an area code.
 * **ID:** amzn1.echo-sdk-ams.app.582bb4be-a571-4c73-bda7-ae2cfe19d47c
 * **ASIN:** B01BO32DH4
 * **Author:** Per4mnce Software
-* **Release Date:** February 11, 2016 @ 14:04:44
+* **Release Date:** February 11, 2016 @ 15:04:44
 * **In-App Purchasing:** No

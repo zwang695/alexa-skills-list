@@ -24,7 +24,7 @@ DISCLAIMER: THE SKILL MAY NOT BE SUITABLE FOR ALL AGES.
 * **ID:** amzn1.echo-sdk-ams.app.a1983875-d959-4f17-aece-13d9cfabcc73
 * **ASIN:** B01K0KC7PU
 * **Author:** Blink for Home by Immedia
-* **Release Date:** August 31, 2016 @ 05:32:36
+* **Release Date:** August 31, 2016 @ 06:32:36
 * **Privacy Policy:** https://blinkforhome.com/privacy-policy
 * **Account Linking Domains:** rest.prod.immedia-semi.com
 * **In-App Purchasing:** No

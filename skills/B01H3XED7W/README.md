@@ -28,5 +28,5 @@ The Skill has over 600 practice exam questions and each quiz consists of a maxim
 * **ID:** amzn1.echo-sdk-ams.app.b4396cec-f196-49f4-a489-5add768b4535
 * **ASIN:** B01H3XED7W
 * **Author:** A Cloud Guru
-* **Release Date:** June 17, 2016 @ 07:15:33
+* **Release Date:** June 17, 2016 @ 08:15:33
 * **In-App Purchasing:** No

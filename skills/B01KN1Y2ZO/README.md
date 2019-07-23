@@ -33,7 +33,7 @@ For additional questions and for a full list of supported commands, visit suppor
 * **ID:** amzn1.ask.skill.1f85bc42-34d5-482a-afe8-6dc345913d4f
 * **ASIN:** B01KN1Y2ZO
 * **Author:** Iris by Lowe's
-* **Release Date:** August 24, 2016 @ 17:03:11
+* **Release Date:** August 24, 2016 @ 18:03:11
 * **Privacy Policy:** https://www.irisbylowes.com/privacy-statement/
 * **Terms of Use:** https://www.irisbylowes.com/terms-of-service/
 * **Account Linking Domains:** googleapis.com

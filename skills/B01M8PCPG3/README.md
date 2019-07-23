@@ -20,5 +20,5 @@ Feeling down for the day? Ask Alexa to give you an inspiring quote!
 * **ID:** amzn1.ask.skill.62097450-b0fe-4672-967d-977cef8e88f4
 * **ASIN:** B01M8PCPG3
 * **Author:** Michael Chen
-* **Release Date:** November 5, 2016 @ 02:43:11
+* **Release Date:** November 5, 2016 @ 03:43:11
 * **In-App Purchasing:** No

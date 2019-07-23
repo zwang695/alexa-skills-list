@@ -20,5 +20,5 @@ This is a simple quiz game that will ask 5 questions about cloud services such a
 * **ID:** amzn1.ask.skill.69c4e008-ab31-48c7-abf4-8c0da898534c
 * **ASIN:** B01ISAXHYE
 * **Author:** Facet Digital, LLC
-* **Release Date:** July 25, 2016 @ 03:56:32
+* **Release Date:** July 25, 2016 @ 04:56:32
 * **In-App Purchasing:** No

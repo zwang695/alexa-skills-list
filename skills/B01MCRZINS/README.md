@@ -27,5 +27,5 @@ Alexa, ask distance finder to get the distance between London and Dartford
 * **ID:** amzn1.ask.skill.6b18e35a-8fd1-4b20-9beb-3f0b6278ddf4
 * **ASIN:** B01MCRZINS
 * **Author:** Ravindra Patel
-* **Release Date:** November 9, 2016 @ 00:46:36
+* **Release Date:** November 9, 2016 @ 01:46:36
 * **In-App Purchasing:** No

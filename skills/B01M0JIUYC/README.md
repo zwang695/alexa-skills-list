@@ -18,5 +18,5 @@ This skill will tell you facts about Sammamish, WA, USA. It is mostly referenced
 * **ID:** amzn1.ask.skill.9e366b42-f5e4-43de-9e1e-57a2d8b4d7f7
 * **ASIN:** B01M0JIUYC
 * **Author:** antcho92
-* **Release Date:** September 29, 2016 @ 06:42:25
+* **Release Date:** September 29, 2016 @ 07:42:25
 * **In-App Purchasing:** No

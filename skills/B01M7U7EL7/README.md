@@ -32,7 +32,7 @@ Questions, comments, or inquiries? Email hello@binaryforge.co. We'd love to hear
 * **ID:** amzn1.ask.skill.cc20ad56-766d-4e5d-bf4b-55dc877d0eb6
 * **ASIN:** B01M7U7EL7
 * **Author:** Binary Forge
-* **Release Date:** December 1, 2016 @ 18:05:24
+* **Release Date:** December 1, 2016 @ 19:05:24
 * **Privacy Policy:** https://www.emberlight.co/pages/privacy-policy
 * **Account Linking Domains:** api.emberlight.co
 * **In-App Purchasing:** No

@@ -66,5 +66,5 @@ x² = 0.
 * **ID:** amzn1.ask.skill.6cdd2ab9-2f84-4c36-9c6f-20100a7d5c9c
 * **ASIN:** B01IZTKIKE
 * **Author:** Don Holmberg
-* **Release Date:** August 2, 2016 @ 08:11:50
+* **Release Date:** August 2, 2016 @ 09:11:50
 * **In-App Purchasing:** No

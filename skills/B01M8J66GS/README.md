@@ -20,5 +20,5 @@ Launch St Andrews Facts to receive a randomly selected fact about the town of St
 * **ID:** amzn1.ask.skill.a1c9b463-e978-4887-ba1a-b6c840ceb0a0
 * **ASIN:** B01M8J66GS
 * **Author:** Elliot Davies
-* **Release Date:** October 22, 2016 @ 02:42:28
+* **Release Date:** October 22, 2016 @ 03:42:28
 * **In-App Purchasing:** No

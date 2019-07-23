@@ -20,5 +20,5 @@ This is a template based poker fun fact skill that provide random poker facts to
 * **ID:** amzn1.ask.skill.25598f6a-66f0-4024-b9fd-1ce9dd17f535
 * **ASIN:** B01LYB6LV7
 * **Author:** Ajmani
-* **Release Date:** November 12, 2016 @ 00:13:34
+* **Release Date:** November 12, 2016 @ 01:13:34
 * **In-App Purchasing:** No

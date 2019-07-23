@@ -22,7 +22,7 @@ We are always working on building new features, so please provide your feedback 
 * **ID:** amzn1.ask.skill.e583295a-bc54-404a-8e71-32b4fb3b933b
 * **ASIN:** B01N2VS4IC
 * **Author:** Waste Management
-* **Release Date:** December 24, 2016 @ 08:19:09
+* **Release Date:** December 24, 2016 @ 09:19:09
 * **Privacy Policy:** http://www.wm.com/privacy-policy.jsp
 * **Terms of Use:** http://www.wm.com/terms-of-service.jsp
 * **In-App Purchasing:** No

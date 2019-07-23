@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.70edaab8-72a9-4eb0-a336-308e6db303ad
 * **ASIN:** B01NAEUUZV
 * **Author:** HerodotThukydides
-* **Release Date:** December 9, 2016 @ 08:49:12
+* **Release Date:** December 9, 2016 @ 09:49:12
 * **In-App Purchasing:** No

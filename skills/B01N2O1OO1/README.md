@@ -20,5 +20,5 @@ The Net Flicks Browser by Amogh Consultants skill lets you browse through the Ne
 * **ID:** amzn1.ask.skill.9008ab73-c853-40e8-81bf-2e0de5f24865
 * **ASIN:** B01N2O1OO1
 * **Author:** Amogh Consultants Inc
-* **Release Date:** December 9, 2016 @ 10:19:13
+* **Release Date:** December 9, 2016 @ 11:19:13
 * **In-App Purchasing:** No

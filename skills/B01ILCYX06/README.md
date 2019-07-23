@@ -26,5 +26,5 @@ Alexa, Ask Coin Flip to flip again.
 * **ID:** amzn1.echo-sdk-ams.app.b2d44de2-a0c3-4caf-b974-84bec8ef9ade
 * **ASIN:** B01ILCYX06
 * **Author:** Kconnix
-* **Release Date:** July 20, 2016 @ 04:27:33
+* **Release Date:** July 20, 2016 @ 05:27:33
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill provides you with facts about robots. Ask Alexa, and she will tell yo
 * **ID:** amzn1.ask.skill.fe569c7c-0ca4-46bc-a6bf-570b8300305e
 * **ASIN:** B01M131DPC
 * **Author:** Yanofsky Group LLC
-* **Release Date:** September 19, 2016 @ 02:12:42
+* **Release Date:** September 19, 2016 @ 03:12:42
 * **In-App Purchasing:** No

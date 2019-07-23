@@ -23,6 +23,6 @@ All credits for Have I been pwned? go to Troy Hunt.
 * **ID:** amzn1.echo-sdk-ams.app.180188c8-23ad-4f79-9ca9-a59d0890484b
 * **ASIN:** B01FVMIY2C
 * **Author:** Patrick Mollohan
-* **Release Date:** June 2, 2016 @ 05:38:37
+* **Release Date:** June 2, 2016 @ 06:38:37
 * **Privacy Policy:** https://s3.amazonaws.com/patrickmollohan/Privacy+Policies/Have+I+been+pwned+for+Alexa+Privacy+Policy.txt
 * **In-App Purchasing:** No

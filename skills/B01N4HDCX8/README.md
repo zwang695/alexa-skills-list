@@ -20,5 +20,5 @@ Free PMP Question Bank Game
 * **ID:** amzn1.ask.skill.1d1c92f4-3ed8-4f56-9995-9620cb5cd6a4
 * **ASIN:** B01N4HDCX8
 * **Author:** TheProjectManagement.Guru LLC
-* **Release Date:** December 27, 2016 @ 06:19:18
+* **Release Date:** December 27, 2016 @ 07:19:18
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Alexa gives a random fact about Cleveland.
 * **ID:** amzn1.ask.skill.1232e5bd-32fb-4928-a224-0bf551b477d6
 * **ASIN:** B01NCMOTM1
 * **Author:** Angela Wong
-* **Release Date:** December 21, 2016 @ 01:19:15
+* **Release Date:** December 21, 2016 @ 02:19:15
 * **In-App Purchasing:** No

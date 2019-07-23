@@ -20,5 +20,5 @@ The Bogus Basin Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.d8936c5e-84a5-43af-8b56-8a26a02ffcf4
 * **ASIN:** B01M3S9K8G
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:48:49
+* **Release Date:** October 21, 2016 @ 15:48:49
 * **In-App Purchasing:** No

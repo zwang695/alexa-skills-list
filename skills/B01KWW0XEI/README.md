@@ -22,6 +22,6 @@ Icon: CC0 www.pexels.com/unsplash.com
 * **ID:** amzn1.ask.skill.2ea509a1-0ac7-4ce3-b964-1556e69e0c4a
 * **ASIN:** B01KWW0XEI
 * **Author:** Josep Valls-Vargas
-* **Release Date:** August 26, 2016 @ 02:02:56
+* **Release Date:** August 26, 2016 @ 03:02:56
 * **Terms of Use:** https://115iec5pk1.execute-api.us-east-1.amazonaws.com/prod/pub
 * **In-App Purchasing:** No

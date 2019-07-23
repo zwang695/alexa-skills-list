@@ -24,5 +24,5 @@ http://cheerlights.com/
 * **ID:** amzn1.echo-sdk-ams.app.3cb285d8-d166-4c14-8e7a-878acc298bf5
 * **ASIN:** B01BFXE0RO
 * **Author:** hans
-* **Release Date:** February 3, 2016 @ 17:08:23
+* **Release Date:** February 3, 2016 @ 18:08:23
 * **In-App Purchasing:** No

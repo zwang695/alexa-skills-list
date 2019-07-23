@@ -26,5 +26,5 @@ Planned updates:  I will constantly be updating this skill with more motivationa
 * **ID:** amzn1.ask.skill.78b8a20f-9929-4e7c-b58c-04d2eefd2cb1
 * **ASIN:** B01J0CU23S
 * **Author:** Tozaleann
-* **Release Date:** July 26, 2016 @ 05:56:32
+* **Release Date:** July 26, 2016 @ 06:56:32
 * **In-App Purchasing:** No

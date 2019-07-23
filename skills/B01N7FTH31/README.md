@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.66d0c683-05f7-48e3-acb1-2c305f0d4214
 * **ASIN:** B01N7FTH31
 * **Author:** Nicole Simon
-* **Release Date:** December 19, 2016 @ 02:49:25
+* **Release Date:** December 19, 2016 @ 03:49:25
 * **In-App Purchasing:** No

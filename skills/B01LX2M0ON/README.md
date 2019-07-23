@@ -20,5 +20,5 @@ Have Alexa give you a fun fact about the hardy Rat Terrier dog breed.
 * **ID:** amzn1.ask.skill.4f200c5f-68e0-4626-92cd-f4075f9bf9a7
 * **ASIN:** B01LX2M0ON
 * **Author:** Josh Isaak
-* **Release Date:** October 7, 2016 @ 02:42:18
+* **Release Date:** October 7, 2016 @ 03:42:18
 * **In-App Purchasing:** No

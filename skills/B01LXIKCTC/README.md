@@ -20,5 +20,5 @@ This skill would give out an interesting fact related to Switzerland.
 * **ID:** amzn1.ask.skill.3e2d45e3-0880-4e5a-a632-0232b9716054
 * **ASIN:** B01LXIKCTC
 * **Author:** Manish Dwibedy
-* **Release Date:** October 4, 2016 @ 05:12:11
+* **Release Date:** October 4, 2016 @ 06:12:11
 * **In-App Purchasing:** No

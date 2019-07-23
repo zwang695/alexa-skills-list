@@ -20,5 +20,5 @@ In the style of Look Around You (https://en.wikipedia.org/wiki/Look_Around_You),
 * **ID:** amzn1.ask.skill.6adecb15-40ea-42f0-9ff0-705123145c8d
 * **ASIN:** B01MTS2MN6
 * **Author:** bkahle
-* **Release Date:** November 29, 2016 @ 08:06:03
+* **Release Date:** November 29, 2016 @ 09:06:03
 * **In-App Purchasing:** No

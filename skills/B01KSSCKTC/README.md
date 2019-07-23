@@ -20,5 +20,5 @@ Guess the Animal is a fun and educational game that your family will have fun pl
 * **ID:** amzn1.ask.skill.2855c88b-f4af-4010-acdf-f80a00c7f604
 * **ASIN:** B01KSSCKTC
 * **Author:** Spitfire Game Studios LLC
-* **Release Date:** August 29, 2016 @ 02:02:48
+* **Release Date:** August 29, 2016 @ 03:02:48
 * **In-App Purchasing:** No

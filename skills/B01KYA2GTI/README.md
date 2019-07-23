@@ -28,5 +28,5 @@ Remember to fully spell out each zip code, and, unfortunately, zip code finder d
 * **ID:** amzn1.ask.skill.c406302d-5a30-4bd3-8cf8-152b96d486de
 * **ASIN:** B01KYA2GTI
 * **Author:** Greg Bronner
-* **Release Date:** August 29, 2016 @ 01:33:30
+* **Release Date:** August 29, 2016 @ 02:33:30
 * **In-App Purchasing:** No

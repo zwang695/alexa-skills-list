@@ -16,5 +16,5 @@ No specific description needed. Just tell users some facts about hiking, climbin
 * **ID:** amzn1.ask.skill.0e5d3578-4b6a-4649-b606-56c5ee989728
 * **ASIN:** B01KPE0SMA
 * **Author:** Zealinz
-* **Release Date:** August 23, 2016 @ 05:18:43
+* **Release Date:** August 23, 2016 @ 06:18:43
 * **In-App Purchasing:** No

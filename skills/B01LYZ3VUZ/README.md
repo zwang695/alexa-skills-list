@@ -20,5 +20,5 @@ Try and answer all of these Internet Trivia answers correctly. See if your frien
 * **ID:** amzn1.ask.skill.873f4156-6972-40ed-9a6e-2e73cc9bf251
 * **ASIN:** B01LYZ3VUZ
 * **Author:** Nerelas
-* **Release Date:** October 5, 2016 @ 00:12:42
+* **Release Date:** October 5, 2016 @ 01:12:42
 * **In-App Purchasing:** No

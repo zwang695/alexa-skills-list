@@ -22,5 +22,5 @@ The game will last for a total of 5 questions.
 * **ID:** amzn1.echo-sdk-ams.app.4a4131d1-ea4b-43ab-b905-9b4eb14cff92
 * **ASIN:** B01DKL42S6
 * **Author:** jkepps
-* **Release Date:** March 29, 2016 @ 06:07:53
+* **Release Date:** March 29, 2016 @ 07:07:53
 * **In-App Purchasing:** No

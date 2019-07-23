@@ -20,5 +20,5 @@ To activate, user must say, "Alexa, start canine facts." She will then tell you 
 * **ID:** amzn1.ask.skill.e276cfeb-62f3-4715-802f-b348c3e08836
 * **ASIN:** B01L5YAQSA
 * **Author:** Shruti More
-* **Release Date:** September 3, 2016 @ 05:03:22
+* **Release Date:** September 3, 2016 @ 06:03:22
 * **In-App Purchasing:** No

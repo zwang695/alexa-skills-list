@@ -16,5 +16,5 @@ Learn what you color you resonate with. We'll ask a series of questions to help 
 * **ID:** amzn1.ask.skill.4d1da9f0-febb-478f-a3e2-02c0e4d3fd89
 * **ASIN:** B01L4MWMDA
 * **Author:** casual5
-* **Release Date:** August 29, 2016 @ 02:32:55
+* **Release Date:** August 29, 2016 @ 03:32:55
 * **In-App Purchasing:** No

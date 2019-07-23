@@ -20,5 +20,5 @@ Northbridge MA history facts describing the early settlement and industrial deve
 * **ID:** amzn1.echo-sdk-ams.app.e44ac4e5-b602-4356-92c3-969cd732e3af
 * **ASIN:** B01I8E8SUS
 * **Author:** Curt Downing
-* **Release Date:** July 13, 2016 @ 03:27:38
+* **Release Date:** July 13, 2016 @ 04:27:38
 * **In-App Purchasing:** No

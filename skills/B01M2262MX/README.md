@@ -20,5 +20,5 @@ There are 21 responses to this interactive game.  Responses are random. This is 
 * **ID:** amzn1.ask.skill.e089d0b2-6697-4d8d-925a-f18d2eaf7656
 * **ASIN:** B01M2262MX
 * **Author:** Sanncha Kiss
-* **Release Date:** October 14, 2016 @ 01:47:16
+* **Release Date:** October 14, 2016 @ 02:47:16
 * **In-App Purchasing:** No

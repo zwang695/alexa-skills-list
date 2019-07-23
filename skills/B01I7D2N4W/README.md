@@ -20,5 +20,5 @@ Test your knowledge of the capitals of the countries of the world. You will rece
 * **ID:** amzn1.echo-sdk-ams.app.442ff45a-acbf-40db-90e4-0ec82a2e7b48
 * **ASIN:** B01I7D2N4W
 * **Author:** secretsquirrel123
-* **Release Date:** July 12, 2016 @ 05:57:33
+* **Release Date:** July 12, 2016 @ 06:57:33
 * **In-App Purchasing:** No

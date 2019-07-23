@@ -18,5 +18,5 @@ A fun quiz to help you choose your next pet... with a sense of humor.
 * **ID:** amzn1.ask.skill.7f7a1687-3d9a-4a5c-8ce1-687ded92af9b
 * **ASIN:** B01LYEE6RX
 * **Author:** FarbodMehr
-* **Release Date:** October 21, 2016 @ 15:14:43
+* **Release Date:** October 21, 2016 @ 16:14:43
 * **In-App Purchasing:** No

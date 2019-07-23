@@ -20,5 +20,5 @@ The Cypress Mountain Snow Report brought to you by SnoCountry brings you the lat
 * **ID:** amzn1.ask.skill.1cdcf389-4c10-48b9-b984-53fea3329914
 * **ASIN:** B01LXZMAYY
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 02:55:40
+* **Release Date:** October 20, 2016 @ 03:55:40
 * **In-App Purchasing:** No

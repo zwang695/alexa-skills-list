@@ -20,5 +20,5 @@ You might know that Blitzcrank's ultimate does AOE damage and silences foes, but
 * **ID:** amzn1.echo-sdk-ams.app.d923812e-8c0f-49dc-8a36-a1fc2b44ddb5
 * **ASIN:** B01EDBJSC2
 * **Author:** Sly Software
-* **Release Date:** April 21, 2016 @ 19:08:27
+* **Release Date:** April 21, 2016 @ 20:08:27
 * **In-App Purchasing:** No

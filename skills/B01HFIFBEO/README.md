@@ -20,5 +20,5 @@ A quick way to get an LDS daily scripture.  Simply say "Open Daily Scripture".
 * **ID:** amzn1.echo-sdk-ams.app.4a3a8838-b261-4b7a-9f44-cbbe652ae2d1
 * **ASIN:** B01HFIFBEO
 * **Author:** Aaron
-* **Release Date:** June 28, 2016 @ 07:45:51
+* **Release Date:** June 28, 2016 @ 08:45:51
 * **In-App Purchasing:** No

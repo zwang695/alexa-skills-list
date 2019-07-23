@@ -20,5 +20,5 @@ People Facts tells the user facts about random people. Currently, there are only
 * **ID:** amzn1.ask.skill.4d58fdb5-ead0-4452-90c7-16bef3382c90
 * **ASIN:** B01KPCHKD2
 * **Author:** TempDevAcc
-* **Release Date:** August 23, 2016 @ 07:19:02
+* **Release Date:** August 23, 2016 @ 08:19:02
 * **In-App Purchasing:** No

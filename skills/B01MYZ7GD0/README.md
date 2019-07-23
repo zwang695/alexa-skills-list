@@ -20,5 +20,5 @@ Argentina facts will tell you some basic facts and interesting things you don't 
 * **ID:** amzn1.ask.skill.d297e5b7-a559-4d35-a0f5-deb5c6d2903b
 * **ASIN:** B01MYZ7GD0
 * **Author:** Fernando Barrancos
-* **Release Date:** December 13, 2016 @ 04:49:35
+* **Release Date:** December 13, 2016 @ 05:49:35
 * **In-App Purchasing:** No

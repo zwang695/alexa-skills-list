@@ -26,6 +26,6 @@ Please remember to reuse paper that has only been printed on a single side
 * **ID:** amzn1.ask.skill.0df5239e-d5a4-474d-86b1-20d8f27b47dd
 * **ASIN:** B01N9HTKVG
 * **Author:** blackjid
-* **Release Date:** December 16, 2016 @ 02:50:00
+* **Release Date:** December 16, 2016 @ 03:50:00
 * **Privacy Policy:** https://github.com/blackjid/coloring-pages-skill/blob/master/PRIVACY.md
 * **In-App Purchasing:** No

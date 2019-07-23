@@ -22,5 +22,5 @@ You can use this skill to find out timings for trains between stations on the PA
 * **ID:** amzn1.ask.skill.94b6f6d6-4ef8-4b8d-b600-953d56cf0dbd
 * **ASIN:** B01LX6V802
 * **Author:** NikhilBhardwaj.in
-* **Release Date:** September 22, 2016 @ 06:11:58
+* **Release Date:** September 22, 2016 @ 07:11:58
 * **In-App Purchasing:** No

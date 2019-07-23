@@ -20,5 +20,5 @@ With California Facts, you can learn about the state of California. Simply ask A
 * **ID:** amzn1.ask.skill.21dde6f3-7fc8-4a22-80e1-2c78adc86abe
 * **ASIN:** B01J77OJXA
 * **Author:** Ink Blots by TRD
-* **Release Date:** August 1, 2016 @ 01:56:26
+* **Release Date:** August 1, 2016 @ 02:56:26
 * **In-App Purchasing:** No

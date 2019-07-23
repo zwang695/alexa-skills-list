@@ -20,5 +20,5 @@ Use this skill to learn random biology facts.
 * **ID:** amzn1.ask.skill.1d94f018-fda0-4696-89e6-45495c5dc0e4
 * **ASIN:** B01KPDLHU8
 * **Author:** bryyeh
-* **Release Date:** September 14, 2016 @ 21:44:19
+* **Release Date:** September 14, 2016 @ 22:44:19
 * **In-App Purchasing:** No

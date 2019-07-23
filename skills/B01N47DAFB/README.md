@@ -48,5 +48,5 @@ At this moment Recruiter can work with 3 types of questions, such as:
 * **ID:** amzn1.ask.skill.c6a42742-e204-47bc-83a9-cf3d6f5653d6
 * **ASIN:** B01N47DAFB
 * **Author:** Podlesny
-* **Release Date:** December 1, 2016 @ 07:35:15
+* **Release Date:** December 1, 2016 @ 08:35:15
 * **In-App Purchasing:** No

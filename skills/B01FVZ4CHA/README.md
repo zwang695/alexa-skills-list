@@ -24,7 +24,7 @@ We want to help you stay healthy and hydrated =)
 * **ID:** amzn1.echo-sdk-ams.app.b396276a-779f-4f3b-b4d7-4a739a630860
 * **ASIN:** B01FVZ4CHA
 * **Author:** Out of Galaxy, Inc.
-* **Release Date:** June 9, 2016 @ 07:39:35
+* **Release Date:** June 9, 2016 @ 08:39:35
 * **Privacy Policy:** https://www.h2opal.com/pages/tos
 * **Terms of Use:** https://www.h2opal.com/pages/tos
 * **Account Linking Domains:** h2odev2.parseapp.com, www.h2opal.com, api.twitter.com, www.facebook.com, graph.facebook.com, m.facebook.com, static.xx.fbcdn.net, h2opal.parseapp.com, api.h2opal.com

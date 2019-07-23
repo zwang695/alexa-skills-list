@@ -27,5 +27,5 @@ Dated 12 / 15 / 1985.
 * **ID:** amzn1.echo-sdk-ams.app.6d6d69d2-1d76-46a5-9180-3ae3c6d0eb59
 * **ASIN:** B01IKZQAIM
 * **Author:** AO-27 
-* **Release Date:** July 20, 2016 @ 02:27:55
+* **Release Date:** July 20, 2016 @ 03:27:55
 * **In-App Purchasing:** No

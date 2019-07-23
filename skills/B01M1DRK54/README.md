@@ -37,6 +37,6 @@ For information about all Crestron products, including Home Automation products,
 * **ID:** amzn1.echo-sdk-ams.app.a675266c-7074-42d4-b50c-1ee1d8ca1dc1
 * **ASIN:** B01M1DRK54
 * **Author:** Crestron Electronics, Inc.
-* **Release Date:** December 2, 2016 @ 17:05:13
+* **Release Date:** December 2, 2016 @ 18:05:13
 * **Privacy Policy:** http://www.crestron.com/legal/privacy-policy
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Recipe for cocktails. The skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.7bf657b0-f648-4e1d-a510-257d747d9fc8
 * **ASIN:** B01HEKN8W0
 * **Author:** HAAI
-* **Release Date:** June 25, 2016 @ 02:15:52
+* **Release Date:** June 25, 2016 @ 03:15:52
 * **In-App Purchasing:** No

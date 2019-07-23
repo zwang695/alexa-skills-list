@@ -20,5 +20,5 @@ This skill is not endorsed or sponsored by the National Aeronautics and Space Ad
 * **ID:** amzn1.ask.skill.be8c71cb-921c-49a9-a1b9-6ac1538283eb
 * **ASIN:** B01MTXTG20
 * **Author:** JustWrite Apps
-* **Release Date:** December 16, 2016 @ 06:19:49
+* **Release Date:** December 16, 2016 @ 07:19:49
 * **In-App Purchasing:** No

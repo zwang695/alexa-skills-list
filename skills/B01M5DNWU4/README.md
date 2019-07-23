@@ -20,5 +20,5 @@ The Pine Knob Snow Report brought to you by SnoCountry brings you the latest sno
 * **ID:** amzn1.ask.skill.c54c42af-cbaa-423b-ae22-a7ab775e0d64
 * **ASIN:** B01M5DNWU4
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:44:43
+* **Release Date:** October 21, 2016 @ 15:44:43
 * **In-App Purchasing:** No

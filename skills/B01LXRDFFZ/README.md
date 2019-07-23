@@ -20,5 +20,5 @@ Fun and interesting psychology facts
 * **ID:** amzn1.ask.skill.9f3ae604-fe79-4f04-9a7e-cf20db347710
 * **ASIN:** B01LXRDFFZ
 * **Author:** Angela Deng
-* **Release Date:** October 7, 2016 @ 02:42:08
+* **Release Date:** October 7, 2016 @ 03:42:08
 * **In-App Purchasing:** No

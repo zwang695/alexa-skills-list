@@ -20,5 +20,5 @@ Use Advent Calendar to hear the verse of the day each day of the advent season. 
 * **ID:** amzn1.ask.skill.a12228a0-4d76-43a7-9b9a-4bbb951b36fe
 * **ASIN:** B01N00XKGK
 * **Author:** Andy Roberts
-* **Release Date:** November 9, 2016 @ 04:42:37
+* **Release Date:** November 9, 2016 @ 05:42:37
 * **In-App Purchasing:** No

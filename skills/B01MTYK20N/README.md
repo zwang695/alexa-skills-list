@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.8c8a8fd7-685b-4677-baf5-5ed0453adc18
 * **ASIN:** B01MTYK20N
 * **Author:** KS-Research
-* **Release Date:** December 12, 2016 @ 03:49:41
+* **Release Date:** December 12, 2016 @ 04:49:41
 * **In-App Purchasing:** No

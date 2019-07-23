@@ -22,7 +22,7 @@ Help improve the wife manual by adding your how to keep your wife happy suggesti
 * **ID:** amzn1.ask.skill.cf5ae619-6edb-4301-90e6-157495a160ea
 * **ASIN:** B01JYRKS9C
 * **Author:** Creative Arts and Technology
-* **Release Date:** August 10, 2016 @ 02:07:40
+* **Release Date:** August 10, 2016 @ 03:07:40
 * **Privacy Policy:** http://ledpixelart.com/privacy-policy/
 * **Terms of Use:** http://ledpixelart.com/terms-of-use/
 * **In-App Purchasing:** No

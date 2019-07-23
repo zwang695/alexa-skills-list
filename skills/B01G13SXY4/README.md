@@ -24,5 +24,5 @@ Note: Currently this skill only supports St. Augustine grass.
 * **ID:** amzn1.echo-sdk-ams.app.db5d9b5d-4c82-4806-975e-29e3f2ab06e1
 * **ASIN:** B01G13SXY4
 * **Author:** Joey Surls
-* **Release Date:** May 25, 2016 @ 02:38:37
+* **Release Date:** May 25, 2016 @ 03:38:37
 * **In-App Purchasing:** No

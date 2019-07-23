@@ -16,5 +16,5 @@ Board Game Trivia for your favorite board games!
 * **ID:** amzn1.ask.skill.75dfa92b-93ca-4a53-a689-d49f158c82d8
 * **ASIN:** B01M10YP1G
 * **Author:** Michael Furlong
-* **Release Date:** October 10, 2016 @ 06:11:50
+* **Release Date:** October 10, 2016 @ 07:11:50
 * **In-App Purchasing:** No

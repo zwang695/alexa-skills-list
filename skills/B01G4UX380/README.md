@@ -20,5 +20,5 @@ If you want to see how well you know California, play the California Trivia Game
 * **ID:** amzn1.echo-sdk-ams.app.7a773f78-fff8-4070-b3de-d5c0e8106db5
 * **ASIN:** B01G4UX380
 * **Author:** Russell Schmidt
-* **Release Date:** May 25, 2016 @ 09:38:40
+* **Release Date:** May 25, 2016 @ 10:38:40
 * **In-App Purchasing:** No

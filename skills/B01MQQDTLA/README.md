@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.a15ae37d-16a1-4944-8d9f-0e03f9f41f19
 * **ASIN:** B01MQQDTLA
 * **Author:** Sebastian Werner
-* **Release Date:** December 6, 2016 @ 06:49:25
+* **Release Date:** December 6, 2016 @ 07:49:25
 * **In-App Purchasing:** No

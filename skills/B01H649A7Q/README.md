@@ -22,7 +22,7 @@ If you have any questions, please visit the First Alert OneLink FAQ at http://ww
 * **ID:** amzn1.ask.skill.608c76d2-fa6a-4d79-b17f-62717125504b
 * **ASIN:** B01H649A7Q
 * **Author:** Venstar Inc.
-* **Release Date:** July 12, 2016 @ 18:27:09
+* **Release Date:** July 12, 2016 @ 19:27:09
 * **Privacy Policy:** http://www.firstalert.com/legal-privacy
 * **Account Linking Domains:** skyportcloud.com, skyport.io
 * **In-App Purchasing:** No

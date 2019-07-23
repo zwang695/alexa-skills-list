@@ -20,5 +20,5 @@ Questions about the Solar System based on information provided by the scientific
 * **ID:** amzn1.echo-sdk-ams.app.12530c26-284b-46f1-90fa-8c6ad0e20dbe
 * **ASIN:** B01I893UA6
 * **Author:** Jose Andrade
-* **Release Date:** July 14, 2016 @ 04:58:01
+* **Release Date:** July 14, 2016 @ 05:58:01
 * **In-App Purchasing:** No

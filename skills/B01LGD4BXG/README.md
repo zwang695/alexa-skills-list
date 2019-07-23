@@ -16,5 +16,5 @@ Calendar Week delivers the week number upon launch. It's a simple utility that s
 * **ID:** amzn1.ask.skill.36598fcb-4973-4aee-aa43-e7ca5651ee75
 * **ASIN:** B01LGD4BXG
 * **Author:** Myers Design
-* **Release Date:** September 4, 2016 @ 06:33:18
+* **Release Date:** September 4, 2016 @ 07:33:18
 * **In-App Purchasing:** No

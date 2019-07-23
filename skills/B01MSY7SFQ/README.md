@@ -34,5 +34,5 @@ On Echo boxes, you can ask Alexa to repeat the quote or the verse, or ask for th
 * **ID:** amzn1.ask.skill.dabd3229-1222-48d1-8227-f4b8a8c604d9
 * **ASIN:** B01MSY7SFQ
 * **Author:** Chad Lou
-* **Release Date:** December 15, 2016 @ 06:49:23
+* **Release Date:** December 15, 2016 @ 07:49:23
 * **In-App Purchasing:** No

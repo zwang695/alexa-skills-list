@@ -20,5 +20,5 @@ Hear about today's local events, the upcoming auctions, latest MLS real estate l
 * **ID:** amzn1.ask.skill.8ea51f2f-2af1-4f89-aefc-eebeec5b48d1
 * **ASIN:** B01LX2FASN
 * **Author:** Software Kinetics
-* **Release Date:** October 8, 2016 @ 04:11:56
+* **Release Date:** October 8, 2016 @ 05:11:56
 * **In-App Purchasing:** No

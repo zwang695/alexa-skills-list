@@ -20,5 +20,5 @@ A quiz to determine what you need in life. Made for entertainment purposes.
 * **ID:** amzn1.ask.skill.b413d1fe-67fb-4348-8828-05dd0f566734
 * **ASIN:** B01LWOPU0Q
 * **Author:** Angela Deng
-* **Release Date:** October 4, 2016 @ 02:12:58
+* **Release Date:** October 4, 2016 @ 03:12:58
 * **In-App Purchasing:** No

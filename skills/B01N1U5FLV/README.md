@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.9c58fad3-2a55-484c-bb09-051fbbae6a33
 * **ASIN:** B01N1U5FLV
 * **Author:** MappleStore
-* **Release Date:** December 29, 2016 @ 05:19:26
+* **Release Date:** December 29, 2016 @ 06:19:26
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ RecipeBox allows you to query our database for a recipe. Once you have a recipe 
 * **ID:** amzn1.ask.skill.5d40303d-8731-4ca8-bad4-911554b27edd
 * **ASIN:** B01MYQDK47
 * **Author:** Michael Luker
-* **Release Date:** January 2, 2017 @ 22:19:11
+* **Release Date:** January 2, 2017 @ 23:19:11
 * **In-App Purchasing:** No

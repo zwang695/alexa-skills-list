@@ -20,5 +20,5 @@ The Mad River Glen Snow Report brought to you by SnoCountry brings you the lates
 * **ID:** amzn1.ask.skill.cd5aa817-b456-4e63-9c5f-87371b39eeea
 * **ASIN:** B01M9JUFXJ
 * **Author:** SnoCountry
-* **Release Date:** November 4, 2016 @ 08:13:51
+* **Release Date:** November 4, 2016 @ 09:13:51
 * **In-App Purchasing:** No

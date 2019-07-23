@@ -22,5 +22,5 @@ This skill lets you quickly get popular jokes from Reddit's popular subreddit r/
 * **ID:** amzn1.ask.skill.033c7c93-4adb-4da1-b129-6e026ff7ca04
 * **ASIN:** B01NAMU7TH
 * **Author:** Jlync
-* **Release Date:** December 29, 2016 @ 05:49:40
+* **Release Date:** December 29, 2016 @ 06:49:40
 * **In-App Purchasing:** No

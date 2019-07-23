@@ -20,5 +20,5 @@ Awesome facts about the Internet.
 * **ID:** amzn1.ask.skill.81f47aee-1e5f-4fde-bfc2-ae429691e06f
 * **ASIN:** B01MXD7W9I
 * **Author:** Jay Rao
-* **Release Date:** November 9, 2016 @ 02:43:09
+* **Release Date:** November 9, 2016 @ 03:43:09
 * **In-App Purchasing:** No

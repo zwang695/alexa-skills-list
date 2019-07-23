@@ -20,5 +20,5 @@ Here are some cool facts about me!
 * **ID:** amzn1.ask.skill.20aad634-9bc0-4ac2-a20a-de410be2c891
 * **ASIN:** B01MRQ1UDR
 * **Author:** Guasacaca
-* **Release Date:** November 30, 2016 @ 08:05:28
+* **Release Date:** November 30, 2016 @ 09:05:28
 * **In-App Purchasing:** No

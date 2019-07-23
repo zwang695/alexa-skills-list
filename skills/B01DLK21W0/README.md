@@ -30,5 +30,5 @@ Baltimore County schools
 * **ID:** amzn1.echo-sdk-ams.app.0a69c441-3249-41b3-9bd5-37575ccde54d
 * **ASIN:** B01DLK21W0
 * **Author:** Small Data Solutions, Inc.
-* **Release Date:** March 31, 2016 @ 18:02:24
+* **Release Date:** March 31, 2016 @ 19:02:24
 * **In-App Purchasing:** No

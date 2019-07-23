@@ -20,5 +20,5 @@ Funny jokes about and for engineers.
 * **ID:** amzn1.ask.skill.12affe65-14af-4598-82c7-ec407b9a5a62
 * **ASIN:** B01JDPDVQ2
 * **Author:** Stephen Cook
-* **Release Date:** August 1, 2016 @ 09:56:39
+* **Release Date:** August 1, 2016 @ 10:56:39
 * **In-App Purchasing:** No

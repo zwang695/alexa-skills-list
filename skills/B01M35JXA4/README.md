@@ -34,6 +34,6 @@ To get started, enable 'My Horoscope'.
 * **ID:** amzn1.ask.skill.03e15d54-f607-4272-8936-3a45fc246918
 * **ASIN:** B01M35JXA4
 * **Author:** Zendizmo
-* **Release Date:** November 9, 2016 @ 02:43:03
+* **Release Date:** November 9, 2016 @ 03:43:03
 * **Privacy Policy:** http://basiccrm.online/Astrolexa/PrivacyPolicy/
 * **In-App Purchasing:** No

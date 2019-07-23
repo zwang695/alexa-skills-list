@@ -20,5 +20,5 @@ You can ask Next President about what Clinton or Trump thinks about an issue. If
 * **ID:** amzn1.echo-sdk-ams.app.59a22aa4-95a6-4a4d-8cb0-0f4c4812d348
 * **ASIN:** B01JTRAHCK
 * **Author:** Private developer
-* **Release Date:** August 31, 2016 @ 06:02:35
+* **Release Date:** August 31, 2016 @ 07:02:35
 * **In-App Purchasing:** No

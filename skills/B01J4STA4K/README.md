@@ -20,5 +20,5 @@ Practice acing your interview with handy top interview questions and useful tips
 * **ID:** amzn1.ask.skill.a56e641d-6563-44f9-9aaa-a7508fec3f11
 * **ASIN:** B01J4STA4K
 * **Author:** Shiny Roads 
-* **Release Date:** August 11, 2016 @ 02:37:39
+* **Release Date:** August 11, 2016 @ 03:37:39
 * **In-App Purchasing:** No

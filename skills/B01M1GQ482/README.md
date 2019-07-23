@@ -57,7 +57,7 @@ Whiteboard Technologies, LLC provides solutions to help manage and track all of 
 * **ID:** amzn1.ask.skill.6a507f8c-5ce5-4f11-ba37-4fc7e7f80022
 * **ASIN:** B01M1GQ482
 * **Author:** Beach.Dev
-* **Release Date:** November 17, 2016 @ 13:05:18
+* **Release Date:** November 17, 2016 @ 14:05:18
 * **Privacy Policy:** https://GPSOnIt.com/GPSOnItNewPrivacy.html
 * **Terms of Use:** https://GPSOnIt.com/GPSOnItNewTos.html
 * **In-App Purchasing:** No

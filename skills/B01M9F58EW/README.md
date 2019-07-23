@@ -20,5 +20,5 @@ The Snow Trails Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.2aacfa24-2c30-4e42-813e-ba8661f8d1b0
 * **ASIN:** B01M9F58EW
 * **Author:** SnoCountry
-* **Release Date:** October 26, 2016 @ 03:46:41
+* **Release Date:** October 26, 2016 @ 04:46:41
 * **In-App Purchasing:** No

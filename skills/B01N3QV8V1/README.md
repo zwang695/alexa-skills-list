@@ -20,5 +20,5 @@ A lightning math training tool. In each session, you will be asked a mixed set o
 * **ID:** amzn1.ask.skill.1b61fce4-e69b-47be-a235-a94888c29d08
 * **ASIN:** B01N3QV8V1
 * **Author:** ReadingEveryday
-* **Release Date:** December 10, 2016 @ 05:19:21
+* **Release Date:** December 10, 2016 @ 06:19:21
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Mont Rigaud Snow Report brought to you by SnoCountry brings you the latest s
 * **ID:** amzn1.ask.skill.9156b0ac-8d28-4d46-8561-203b97c3ce27
 * **ASIN:** B01N3NTDSB
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 11:43:35
+* **Release Date:** November 5, 2016 @ 12:43:35
 * **In-App Purchasing:** No

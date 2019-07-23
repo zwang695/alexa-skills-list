@@ -21,5 +21,5 @@ Disclaimer:  This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.51103532-e136-41ee-b6a9-46ed0584bfcf
 * **ASIN:** B01H9WGXXY
 * **Author:** Mayuresh Raut
-* **Release Date:** June 28, 2016 @ 07:15:42
+* **Release Date:** June 28, 2016 @ 08:15:42
 * **In-App Purchasing:** No

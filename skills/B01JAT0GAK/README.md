@@ -20,5 +20,5 @@ This is a game that will test your knowledge of interesting facts of animals
 * **ID:** amzn1.ask.skill.f4359678-96b6-46cb-a24c-f77cefcf4688
 * **ASIN:** B01JAT0GAK
 * **Author:** Iryarte
-* **Release Date:** August 1, 2016 @ 05:56:34
+* **Release Date:** August 1, 2016 @ 06:56:34
 * **In-App Purchasing:** No

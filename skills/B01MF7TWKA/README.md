@@ -20,5 +20,5 @@ The Ski Snowstar Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.bceb17cb-0d6f-4424-9f6f-7f0fc0e830a6
 * **ASIN:** B01MF7TWKA
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 14:16:20
+* **Release Date:** October 21, 2016 @ 15:16:20
 * **In-App Purchasing:** No

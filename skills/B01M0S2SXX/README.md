@@ -16,5 +16,5 @@ The skill tells people funny and witty pickup lines. There are over 150 pickup l
 * **ID:** amzn1.ask.skill.f411795b-cde9-438e-aa79-f43d3cacada7
 * **ASIN:** B01M0S2SXX
 * **Author:** Gaurav Bathija
-* **Release Date:** September 20, 2016 @ 02:12:22
+* **Release Date:** September 20, 2016 @ 03:12:22
 * **In-App Purchasing:** No

@@ -22,5 +22,5 @@ This skill may not be suitable for all ages.
 * **ID:** amzn1.echo-sdk-ams.app.078c5432-63e5-48fe-8b27-b46e6473f976
 * **ASIN:** B01GP0YLBC
 * **Author:** Eugene Francis Burke
-* **Release Date:** June 9, 2016 @ 04:09:37
+* **Release Date:** June 9, 2016 @ 05:09:37
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Ask Alexa for a random word and she will say it to you.
 * **ID:** amzn1.ask.skill.875800f7-abe7-4947-bc11-8b0a60102334
 * **ASIN:** B01MEDJ5OW
 * **Author:** ylin.design
-* **Release Date:** October 18, 2016 @ 05:11:58
+* **Release Date:** October 18, 2016 @ 06:11:58
 * **In-App Purchasing:** No

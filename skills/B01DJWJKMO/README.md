@@ -20,5 +20,5 @@ It's a free world capital trivia game. It's a fun way to learn geography. It's s
 * **ID:** amzn1.echo-sdk-ams.app.4d7a0f0e-5f9b-40a1-a346-7464ec33e4f4
 * **ASIN:** B01DJWJKMO
 * **Author:** Europa Team
-* **Release Date:** March 30, 2016 @ 13:32:44
+* **Release Date:** March 30, 2016 @ 14:32:44
 * **In-App Purchasing:** No

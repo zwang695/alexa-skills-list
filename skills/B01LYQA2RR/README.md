@@ -30,7 +30,7 @@ In case you still have some questions, see the FAQ: http://www2.meethue.com/en-G
 * **ID:** amzn1.ask.skill.82121f01-1b13-4fe5-bbf7-dab54ddb2a86
 * **ASIN:** B01LYQA2RR
 * **Author:** Philips Hue
-* **Release Date:** October 13, 2016 @ 19:16:18
+* **Release Date:** October 13, 2016 @ 20:16:18
 * **Privacy Policy:** http://www2.meethue.com/en-GB/privacy-policy
 * **Terms of Use:** http://www2.meethue.com/en-GB/productterms
 * **Account Linking Domains:** api.meethue.com, www.meethue.com, www.google.com, plus.google.com, accounts.google.com, appengine.google.com, my.meethue.com, security.google.com, client.meethue.com, meethue.com, google.com

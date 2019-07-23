@@ -20,5 +20,5 @@ Given a set of greek and roman mythological characters, can you tell which ones 
 * **ID:** amzn1.ask.skill.817e5d11-b4bd-49ae-8ac9-b24ff5acefc5
 * **ASIN:** B01JF7FLLQ
 * **Author:** Sibyl Enterprises
-* **Release Date:** August 4, 2016 @ 04:41:32
+* **Release Date:** August 4, 2016 @ 05:41:32
 * **In-App Purchasing:** No

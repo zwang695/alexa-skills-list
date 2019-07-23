@@ -20,5 +20,5 @@ Just ask Hunter Helper where a monster goes to sleep in any location!
 * **ID:** amzn1.echo-sdk-ams.app.29f19b4b-f73e-4bd0-9874-12bad6c6f404
 * **ASIN:** B01G4IIL7U
 * **Author:** aaron maus
-* **Release Date:** May 26, 2016 @ 07:08:34
+* **Release Date:** May 26, 2016 @ 08:08:34
 * **In-App Purchasing:** No

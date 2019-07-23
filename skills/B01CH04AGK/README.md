@@ -28,5 +28,5 @@ BMI is applicable for adults only and its just a indicative number and does not 
 * **ID:** amzn1.echo-sdk-ams.app.cc5eb607-a75a-4b8f-96f5-ce9166bdccb4
 * **ASIN:** B01CH04AGK
 * **Author:** Wiliams Solutions
-* **Release Date:** March 2, 2016 @ 14:48:37
+* **Release Date:** March 2, 2016 @ 15:48:37
 * **In-App Purchasing:** No

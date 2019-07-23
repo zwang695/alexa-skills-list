@@ -20,5 +20,5 @@ Ready to find your zen? Listen to a koan and practice meditating upon this quest
 * **ID:** amzn1.echo-sdk-ams.app.d6c2b985-5945-43f9-aec2-f441d7f6365a
 * **ASIN:** B01EXKMP7I
 * **Author:** Sharmi55
-* **Release Date:** May 4, 2016 @ 08:08:36
+* **Release Date:** May 4, 2016 @ 09:08:36
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ Speak a Chinese food menu item, Alexa will tell you the ingredients, preparing, 
 * **ID:** amzn1.ask.skill.8d25596a-d0f4-4a94-ab8f-f43a31e755a6
 * **ASIN:** B01N7BTP7U
 * **Author:** Web Solutions
-* **Release Date:** December 14, 2016 @ 03:49:52
+* **Release Date:** December 14, 2016 @ 04:49:52
 * **In-App Purchasing:** No

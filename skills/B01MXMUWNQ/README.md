@@ -20,5 +20,5 @@ This skill will allow you to check how many players are on a MineCraft server. F
 * **ID:** amzn1.ask.skill.bb190407-49b6-4984-93df-04177628c016
 * **ASIN:** B01MXMUWNQ
 * **Author:** Ryan Hickey
-* **Release Date:** December 5, 2016 @ 03:05:48
+* **Release Date:** December 5, 2016 @ 04:05:48
 * **In-App Purchasing:** No

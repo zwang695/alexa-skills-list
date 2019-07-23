@@ -20,5 +20,5 @@ Alexa skill that, when prompted, will read off a cat fact randomly chosen from a
 * **ID:** amzn1.ask.skill.7a20d09b-e4f7-42ad-9ea6-09016dca2d38
 * **ASIN:** B01MT32L86
 * **Author:** L4zbinden
-* **Release Date:** December 29, 2016 @ 02:19:52
+* **Release Date:** December 29, 2016 @ 03:19:52
 * **In-App Purchasing:** No

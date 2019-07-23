@@ -36,6 +36,6 @@ If you need to change your address, just tell Bike Share: "change my address". A
 * **ID:** amzn1.echo-sdk-ams.app.09907f8d-f282-427d-8832-2f33fc631908
 * **ASIN:** B01DOI0PKE
 * **Author:** Ken Peltzer
-* **Release Date:** May 25, 2016 @ 10:38:48
+* **Release Date:** May 25, 2016 @ 11:38:48
 * **Privacy Policy:** http://www.kenpeltzer.com/bikeshare/bike-share-privacy-policy.html
 * **In-App Purchasing:** No

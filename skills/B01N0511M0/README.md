@@ -30,6 +30,6 @@ Products not available in all states. Limitations and exclusions may apply, clic
 * **ID:** amzn1.ask.skill.a71c6739-054d-4a92-b51c-f9a784bc8e98
 * **ASIN:** B01N0511M0
 * **Author:** brightpeak financial
-* **Release Date:** November 30, 2016 @ 02:05:41
+* **Release Date:** November 30, 2016 @ 03:05:41
 * **Privacy Policy:** https://www.brightpeakfinancial.com/privacy/
 * **In-App Purchasing:** No

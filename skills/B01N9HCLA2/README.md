@@ -20,5 +20,5 @@ It will generate a random facts about technology. There is over 50+ facts to be 
 * **ID:** amzn1.ask.skill.86d4e0b6-a013-413e-93c8-a38572904131
 * **ASIN:** B01N9HCLA2
 * **Author:** RepeaterCreeper
-* **Release Date:** December 15, 2016 @ 03:19:39
+* **Release Date:** December 15, 2016 @ 04:19:39
 * **In-App Purchasing:** No

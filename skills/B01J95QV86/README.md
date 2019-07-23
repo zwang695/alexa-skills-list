@@ -55,7 +55,7 @@ Amazon would like us to inform you that this skill may not be suitable for all a
 * **ID:** amzn1.ask.skill.285a800e-6fbb-4cc5-815d-61697900b529
 * **ASIN:** B01J95QV86
 * **Author:** Pentair
-* **Release Date:** September 6, 2016 @ 06:33:15
+* **Release Date:** September 6, 2016 @ 07:33:15
 * **Privacy Policy:** http://pentair.com/en/site-navigation/global-footer/privacy-policy
 * **Terms of Use:** https://pentair.com/en/site-navigation/global-footer/terms-of-use
 * **In-App Purchasing:** No

@@ -24,5 +24,5 @@ Or watch the rap music video here: https://www.youtube.com/watch?v=0k-QFXkGzVA
 * **ID:** amzn1.echo-sdk-ams.app.0f21e587-42bd-4875-a6c3-ab69b38824d2
 * **ASIN:** B01DS71H8A
 * **Author:** Nicole Holm
-* **Release Date:** April 20, 2016 @ 16:02:41
+* **Release Date:** April 20, 2016 @ 17:02:41
 * **In-App Purchasing:** No

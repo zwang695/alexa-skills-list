@@ -29,5 +29,5 @@ Ca9
 * **ID:** amzn1.ask.skill.a1fa8917-dad7-4081-96b1-36a573953e91
 * **ASIN:** B01LWMDN1W
 * **Author:** ActualCalorie
-* **Release Date:** October 3, 2016 @ 06:12:20
+* **Release Date:** October 3, 2016 @ 07:12:20
 * **In-App Purchasing:** No

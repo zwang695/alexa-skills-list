@@ -24,5 +24,5 @@ Updating with new beers all the time!
 * **ID:** amzn1.ask.skill.2fe614c2-1247-420b-adde-57908f687657
 * **ASIN:** B01J73B1T4
 * **Author:** S Stapley
-* **Release Date:** August 2, 2016 @ 07:43:50
+* **Release Date:** August 2, 2016 @ 08:43:50
 * **In-App Purchasing:** No

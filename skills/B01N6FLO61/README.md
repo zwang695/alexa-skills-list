@@ -20,5 +20,5 @@ Random fun facts about Counter Strike.
 * **ID:** amzn1.ask.skill.434e5a9e-dc27-44a5-bbe7-be282ba84023
 * **ASIN:** B01N6FLO61
 * **Author:** D
-* **Release Date:** December 12, 2016 @ 00:50:21
+* **Release Date:** December 12, 2016 @ 01:50:21
 * **In-App Purchasing:** No

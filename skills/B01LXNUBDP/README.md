@@ -20,5 +20,5 @@ The Last Frontier Heli Bell Snow Report brought to you by SnoCountry brings you 
 * **ID:** amzn1.ask.skill.f71eeca4-8bfa-4998-91ae-34d21b7ef8e1
 * **ASIN:** B01LXNUBDP
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:17:03
+* **Release Date:** October 20, 2016 @ 04:17:03
 * **In-App Purchasing:** No

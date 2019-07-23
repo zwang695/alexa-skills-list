@@ -16,5 +16,5 @@ To use the World Facts skill, try saying...
 * **ID:** amzn1.ask.skill.4ac79578-c9ba-4e9b-81d3-6d1384ce332d
 * **ASIN:** B01KPGW2KO
 * **Author:** NineFu
-* **Release Date:** August 22, 2016 @ 03:37:43
+* **Release Date:** August 22, 2016 @ 04:37:43
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ Hydro Trivia
 * **ID:** amzn1.ask.skill.9c579f75-86df-4ed4-83d9-00297d28ddbc
 * **ASIN:** B01N9490YU
 * **Author:** Home
-* **Release Date:** November 21, 2016 @ 00:36:02
+* **Release Date:** November 21, 2016 @ 01:36:02
 * **In-App Purchasing:** No

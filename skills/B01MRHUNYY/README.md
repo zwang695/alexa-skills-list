@@ -24,5 +24,5 @@ This skill may contain podcasts with adult content.
 * **ID:** amzn1.ask.skill.19b1d1c5-8971-49b7-8cb2-822ca802d4f4
 * **ASIN:** B01MRHUNYY
 * **Author:** Tim Ferriss Enterprises
-* **Release Date:** December 7, 2016 @ 15:49:45
+* **Release Date:** December 7, 2016 @ 16:49:45
 * **In-App Purchasing:** No

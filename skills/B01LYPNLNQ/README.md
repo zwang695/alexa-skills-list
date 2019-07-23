@@ -22,5 +22,5 @@ Alexa will ask you a series of multiple choice questions in regards to the .NET 
 * **ID:** amzn1.ask.skill.fa59b810-b050-4c6f-a50b-f98dac0fdae5
 * **ASIN:** B01LYPNLNQ
 * **Author:** Michelle Wiginton
-* **Release Date:** October 6, 2016 @ 05:12:01
+* **Release Date:** October 6, 2016 @ 06:12:01
 * **In-App Purchasing:** No

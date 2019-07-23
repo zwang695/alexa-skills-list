@@ -20,5 +20,5 @@ Square Dance is an easy place to randomly here a fact or a Mainstream, Plus or A
 * **ID:** amzn1.ask.skill.c8ecfb7e-8775-4c7e-93e3-1b21af98ef8c
 * **ASIN:** B01J8VARNG
 * **Author:** Drake
-* **Release Date:** August 30, 2016 @ 03:02:32
+* **Release Date:** August 30, 2016 @ 04:02:32
 * **In-App Purchasing:** No

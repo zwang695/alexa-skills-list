@@ -12,5 +12,5 @@ null
 * **ID:** amzn1.ask.skill.b6fd5785-b1d0-480e-824c-1ce8ead7bae3
 * **ASIN:** B01MTWIIEX
 * **Author:** Monstakind
-* **Release Date:** December 10, 2016 @ 04:49:56
+* **Release Date:** December 10, 2016 @ 05:49:56
 * **In-App Purchasing:** No

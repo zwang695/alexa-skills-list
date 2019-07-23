@@ -69,5 +69,5 @@ https://github.com/djacobow/alexa_metar
 * **ID:** amzn1.echo-sdk-ams.app.74a477b4-fe89-452d-8aa2-9cb6d89391ff
 * **ASIN:** B01F9KW5G2
 * **Author:** Dave Jacobowitz
-* **Release Date:** May 19, 2016 @ 19:38:37
+* **Release Date:** May 19, 2016 @ 20:38:37
 * **In-App Purchasing:** No

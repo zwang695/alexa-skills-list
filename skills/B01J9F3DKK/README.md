@@ -35,5 +35,5 @@ Bedtime counts sleep cycles to help time when you should go to bed or wake up. W
 * **ID:** amzn1.ask.skill.1c15e6e3-c18a-46ce-bc07-9a3e7e898f8e
 * **ASIN:** B01J9F3DKK
 * **Author:** Travis Frenzel
-* **Release Date:** August 5, 2016 @ 03:38:02
+* **Release Date:** August 5, 2016 @ 04:38:02
 * **In-App Purchasing:** No

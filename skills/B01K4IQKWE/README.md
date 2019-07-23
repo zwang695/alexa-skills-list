@@ -26,5 +26,5 @@ Cancel: cancels the game
 * **ID:** amzn1.echo-sdk-ams.app.929d2057-1068-4096-a9e4-708d1d05276d
 * **ASIN:** B01K4IQKWE
 * **Author:** Rajesh Agrawal
-* **Release Date:** August 30, 2016 @ 07:34:55
+* **Release Date:** August 30, 2016 @ 08:34:55
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ This skill may not be suitable for all ages.
 * **ID:** amzn1.ask.skill.26437cd5-ffa6-4782-88ab-00a1dc8e55e8
 * **ASIN:** B01M8KI59Q
 * **Author:** Codeface
-* **Release Date:** October 26, 2016 @ 01:47:57
+* **Release Date:** October 26, 2016 @ 02:47:57
 * **In-App Purchasing:** No

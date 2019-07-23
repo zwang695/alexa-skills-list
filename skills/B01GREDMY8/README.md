@@ -20,5 +20,5 @@ This is a simple fun trivia game to test the user's knowledge of celebrities, ra
 * **ID:** amzn1.echo-sdk-ams.app.cbde124b-3d3d-4e1f-b2d1-e149e9c26857
 * **ASIN:** B01GREDMY8
 * **Author:** Gidoa
-* **Release Date:** June 9, 2016 @ 06:39:37
+* **Release Date:** June 9, 2016 @ 07:39:37
 * **In-App Purchasing:** No

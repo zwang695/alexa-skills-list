@@ -20,5 +20,5 @@ The Jackson Hole Snow Report brought to you by SnoCountry brings you the latest 
 * **ID:** amzn1.ask.skill.a85ba2cd-60c6-4634-bfea-af46cc240de6
 * **ASIN:** B01N00UG9R
 * **Author:** SnoCountry
-* **Release Date:** November 5, 2016 @ 10:42:41
+* **Release Date:** November 5, 2016 @ 11:42:41
 * **In-App Purchasing:** No

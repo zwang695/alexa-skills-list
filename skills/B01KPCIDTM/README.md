@@ -20,5 +20,5 @@ This skill includes various facts about the Warcraft Universe of video games. Th
 * **ID:** amzn1.ask.skill.a1408ef7-ed98-44d6-9949-d8827e76caf8
 * **ASIN:** B01KPCIDTM
 * **Author:** eanderss
-* **Release Date:** August 22, 2016 @ 03:37:40
+* **Release Date:** August 22, 2016 @ 04:37:40
 * **In-App Purchasing:** No

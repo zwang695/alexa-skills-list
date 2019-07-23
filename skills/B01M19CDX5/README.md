@@ -20,5 +20,5 @@ Roll a dice using Alexa! This simple skill will give you a number between 1-6! P
 * **ID:** amzn1.ask.skill.0395e9f6-f004-45c9-acbd-9ec8c12a48c7
 * **ASIN:** B01M19CDX5
 * **Author:** Tech Digital
-* **Release Date:** October 15, 2016 @ 01:16:47
+* **Release Date:** October 15, 2016 @ 02:16:47
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This Amazon Alexa Drizzle  Skill Set  mission is to determine if it will rain in
 * **ID:** amzn1.ask.skill.02fa7b5c-368c-4d7c-83e7-4a1c8723ee43
 * **ASIN:** B01MG84QFZ
 * **Author:** Vignesh
-* **Release Date:** November 9, 2016 @ 03:42:53
+* **Release Date:** November 9, 2016 @ 04:42:53
 * **In-App Purchasing:** No

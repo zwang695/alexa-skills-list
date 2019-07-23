@@ -20,5 +20,5 @@ BBN info Skill will tell you about some main Christian doctrines. BBN is the Bib
 * **ID:** amzn1.echo-sdk-ams.app.881c2d8b-baa2-4f26-80f1-a476a8287fce
 * **ASIN:** B01F47C2WM
 * **Author:** Bible Broadcasting Network
-* **Release Date:** May 9, 2016 @ 01:38:30
+* **Release Date:** May 9, 2016 @ 02:38:30
 * **In-App Purchasing:** No

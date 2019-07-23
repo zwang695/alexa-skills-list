@@ -20,5 +20,5 @@ This skill will help you study the state abbreviations for the U. S.  Start it u
 * **ID:** amzn1.ask.skill.7c9185b9-b72d-46a6-bf15-e2b3da72cfe5
 * **ASIN:** B01KJE6370
 * **Author:** Amanda Horn
-* **Release Date:** August 25, 2016 @ 08:00:59
+* **Release Date:** August 25, 2016 @ 09:00:59
 * **In-App Purchasing:** No

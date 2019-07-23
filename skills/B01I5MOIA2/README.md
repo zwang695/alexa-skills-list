@@ -20,5 +20,5 @@ The town of Gloucester Massachusetts is famous for fishing and maritime history,
 * **ID:** amzn1.echo-sdk-ams.app.ef9fd5f2-b7c9-43bf-9880-17b08cf91161
 * **ASIN:** B01I5MOIA2
 * **Author:** Robert McCauley
-* **Release Date:** July 12, 2016 @ 06:57:36
+* **Release Date:** July 12, 2016 @ 07:57:36
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ This skill will allow your Amazon Echo to read you inspirational Bible verses.  
 * **ID:** amzn1.ask.skill.4249698a-569f-4ee4-879e-ab41f380530c
 * **ASIN:** B01MRT24EY
 * **Author:** MikeTC
-* **Release Date:** December 15, 2016 @ 00:49:30
+* **Release Date:** December 15, 2016 @ 01:49:30
 * **In-App Purchasing:** No

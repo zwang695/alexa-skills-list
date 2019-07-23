@@ -18,7 +18,7 @@ Use voice commands to control various Korner Home Security settings such as armi
 * **ID:** amzn1.ask.skill.a3004bdf-2c23-4ec9-acb7-cbf7435a2c89
 * **ASIN:** B01LZ5X5B8
 * **Author:** Korner Safe LLC
-* **Release Date:** November 12, 2016 @ 00:14:46
+* **Release Date:** November 12, 2016 @ 01:14:46
 * **Privacy Policy:** http://www.kornersafe.com/privacy
 * **Terms of Use:** https://www.kornersafe.com/terms
 * **Account Linking Domains:** myhome.kornersafe.com, korner-prod.herokuapp.com, prod.kornersafe.com, kanagawa-6049.herokussl.com, fonts.googleapis.com, code.getmdl.io, myhome.kornersafe.com

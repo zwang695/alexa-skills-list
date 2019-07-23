@@ -20,6 +20,6 @@ Mount Sinai Health Partners is committed to helping our providers and patients c
 * **ID:** amzn1.ask.skill.78af4154-883c-49c9-bd0e-66e5967bed62
 * **ASIN:** B01N7CQ69K
 * **Author:** Mount Sinai Health System
-* **Release Date:** December 3, 2016 @ 05:35:18
+* **Release Date:** December 3, 2016 @ 06:35:18
 * **Privacy Policy:** https://mshp.mountsinai.org/privacy-policy/
 * **In-App Purchasing:** No

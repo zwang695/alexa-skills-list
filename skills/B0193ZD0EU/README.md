@@ -16,5 +16,5 @@ This skill tells you a dog fact
 * **ID:** amzn1.echo-sdk-ams.app.81666731-192f-4f23-9efb-4e2644991027
 * **ASIN:** B0193ZD0EU
 * **Author:** Randomvoids
-* **Release Date:** December 8, 2015 @ 13:57:13
+* **Release Date:** December 8, 2015 @ 14:57:13
 * **In-App Purchasing:** No

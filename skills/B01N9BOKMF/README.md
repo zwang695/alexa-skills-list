@@ -18,5 +18,5 @@ Says one of hundred funny quotes.
 * **ID:** amzn1.ask.skill.74e41536-6a1a-4148-bdf3-ecae3c926fb5
 * **ASIN:** B01N9BOKMF
 * **Author:** Jakub Horák
-* **Release Date:** December 3, 2016 @ 04:35:42
+* **Release Date:** December 3, 2016 @ 05:35:42
 * **In-App Purchasing:** No

@@ -20,6 +20,6 @@ Football Team Flash Cards presents players with a series of five NFL football te
 * **ID:** amzn1.ask.skill.2cb4081e-9efc-4de8-bac4-9f1acefeaa99
 * **ASIN:** B01K5JW34Q
 * **Author:** Red Safi LLC
-* **Release Date:** August 12, 2016 @ 06:07:38
+* **Release Date:** August 12, 2016 @ 07:07:38
 * **Privacy Policy:** http://www.objectivasoftware.com/privacy/
 * **In-App Purchasing:** No

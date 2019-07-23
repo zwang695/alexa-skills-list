@@ -24,5 +24,5 @@ Currently it supports Math and Science and we are adding more subjects in coming
 * **ID:** amzn1.ask.skill.a012d9cb-cb5a-4058-bccf-463533a80c8f
 * **ASIN:** B01NCKK79B
 * **Author:** Praveen Modi
-* **Release Date:** January 3, 2017 @ 10:22:08
+* **Release Date:** January 3, 2017 @ 11:22:08
 * **In-App Purchasing:** No

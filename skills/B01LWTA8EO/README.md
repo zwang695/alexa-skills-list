@@ -20,5 +20,5 @@ Ask from a list of key words and this app will say a New International Version (
 * **ID:** amzn1.ask.skill.215958a1-8c4d-4b19-8bb3-36572bb8d196
 * **ASIN:** B01LWTA8EO
 * **Author:** 4SITE Inc
-* **Release Date:** October 13, 2016 @ 23:47:00
+* **Release Date:** October 14, 2016 @ 00:47:00
 * **In-App Purchasing:** No

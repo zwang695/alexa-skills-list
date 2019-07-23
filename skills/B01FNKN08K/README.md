@@ -20,5 +20,5 @@ The Course Catalog for Miami Dade College skill will allow the user to ask Alexa
 * **ID:** amzn1.echo-sdk-ams.app.dd04e3cf-997a-468c-9381-879269da2653
 * **ASIN:** B01FNKN08K
 * **Author:** Orange Research
-* **Release Date:** May 25, 2016 @ 18:08:51
+* **Release Date:** May 25, 2016 @ 19:08:51
 * **In-App Purchasing:** No

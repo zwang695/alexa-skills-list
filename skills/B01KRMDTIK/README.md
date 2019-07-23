@@ -18,5 +18,5 @@ Some fun facts about Seattle
 * **ID:** amzn1.ask.skill.722326f5-70a9-43d5-9c71-678513f55de9
 * **ASIN:** B01KRMDTIK
 * **Author:** jnishtha
-* **Release Date:** August 24, 2016 @ 02:01:35
+* **Release Date:** August 24, 2016 @ 03:01:35
 * **In-App Purchasing:** No

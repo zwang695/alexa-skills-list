@@ -20,5 +20,5 @@ The Whitecap Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.2ff92c61-dfd4-438f-9a74-514d7f9a98c3
 * **ASIN:** B01N3JN6X4
 * **Author:** SnoCountry
-* **Release Date:** November 8, 2016 @ 05:12:59
+* **Release Date:** November 8, 2016 @ 06:12:59
 * **In-App Purchasing:** No

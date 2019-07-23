@@ -25,5 +25,5 @@ This skill will be updated with the latest counters as the game evolves and the 
 * **ID:** amzn1.ask.skill.5b8e2697-2e68-42f5-9608-ab660726081a
 * **ASIN:** B01MS144C4
 * **Author:** Yuriy Isparyan
-* **Release Date:** December 27, 2016 @ 05:19:14
+* **Release Date:** December 27, 2016 @ 06:19:14
 * **In-App Purchasing:** No

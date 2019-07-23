@@ -20,5 +20,5 @@ From a list of over 100 space facts, Alexa will choose one at random and read it
 * **ID:** amzn1.ask.skill.944019b6-fc6a-47ad-a1dd-8a550ad67ffd
 * **ASIN:** B01M0S6NQY
 * **Author:** bjmaynard01
-* **Release Date:** September 24, 2016 @ 02:12:23
+* **Release Date:** September 24, 2016 @ 03:12:23
 * **In-App Purchasing:** No

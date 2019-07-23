@@ -20,5 +20,5 @@ This skills checks whether that number you were thinking of is a prime number.
 * **ID:** amzn1.ask.skill.d0513b90-e0b7-49cc-8580-1353cdf20a29
 * **ASIN:** B01IYS7M96
 * **Author:** Odysseus
-* **Release Date:** July 29, 2016 @ 05:26:39
+* **Release Date:** July 29, 2016 @ 06:26:39
 * **In-App Purchasing:** No

@@ -20,7 +20,7 @@ Keep up to date on the latest scores from every PGA TOUR event throughout the se
 * **ID:** amzn1.echo-sdk-ams.app.5b902dbe-ef94-4a47-83be-5b6b1c470fa5
 * **ASIN:** B01FT3SKD6
 * **Author:** PGA TOUR
-* **Release Date:** May 18, 2016 @ 19:08:39
+* **Release Date:** May 18, 2016 @ 20:08:39
 * **Privacy Policy:** http://www.pgatour.com/company/privacy-policy.html
 * **Terms of Use:** http://www.pgatour.com/company/tos.html
 * **In-App Purchasing:** No

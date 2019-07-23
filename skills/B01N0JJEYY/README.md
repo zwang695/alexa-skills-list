@@ -24,5 +24,5 @@ Icon by www.freepik.com
 * **ID:** amzn1.ask.skill.317506d4-0e5e-48a8-9492-63762e237c5c
 * **ASIN:** B01N0JJEYY
 * **Author:** Said Ibrihen
-* **Release Date:** November 29, 2016 @ 07:35:48
+* **Release Date:** November 29, 2016 @ 08:35:48
 * **In-App Purchasing:** No

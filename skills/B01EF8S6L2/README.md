@@ -22,5 +22,5 @@ Alexa can give you a tagline from a horror movie and you can try to guess which 
 * **ID:** amzn1.echo-sdk-ams.app.36632c42-6063-45a2-9a4d-6da93220c04a
 * **ASIN:** B01EF8S6L2
 * **Author:** Fangtastico
-* **Release Date:** April 25, 2016 @ 15:08:38
+* **Release Date:** April 25, 2016 @ 16:08:38
 * **In-App Purchasing:** No

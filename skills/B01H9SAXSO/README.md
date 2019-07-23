@@ -28,5 +28,5 @@ This special collection of advice is curated from personal experience, with lots
 * **ID:** amzn1.echo-sdk-ams.app.0562f095-c652-482d-a998-c1d2ba08d662
 * **ASIN:** B01H9SAXSO
 * **Author:** Drew Firment
-* **Release Date:** June 21, 2016 @ 02:15:42
+* **Release Date:** June 21, 2016 @ 03:15:42
 * **In-App Purchasing:** No

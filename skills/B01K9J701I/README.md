@@ -22,5 +22,5 @@ This is in no way affiliated with Drum Corps International or any of its partici
 * **ID:** amzn1.ask.skill.7486cd88-a276-4286-b0ae-f169dee67b70
 * **ASIN:** B01K9J701I
 * **Author:** Colton White
-* **Release Date:** August 16, 2016 @ 02:38:08
+* **Release Date:** August 16, 2016 @ 03:38:08
 * **In-App Purchasing:** No

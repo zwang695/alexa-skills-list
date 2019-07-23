@@ -20,5 +20,5 @@ Tells you some facts about dance just by launching the skill
 * **ID:** amzn1.ask.skill.1cfbbcb6-b50a-4cd9-982b-e020d7f1ec01
 * **ASIN:** B01N9CWT63
 * **Author:** Angie Chiraz
-* **Release Date:** December 4, 2016 @ 01:35:32
+* **Release Date:** December 4, 2016 @ 02:35:32
 * **In-App Purchasing:** No

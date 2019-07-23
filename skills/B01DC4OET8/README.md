@@ -20,5 +20,5 @@ Access the On-Line Encyclopedia of Integer Sequences (OEIS at http://oeis.org). 
 * **ID:** amzn1.echo-sdk-ams.app.7b636bb6-9c90-435e-932f-a6d1d12c2e58
 * **ASIN:** B01DC4OET8
 * **Author:** Fibonacci Products
-* **Release Date:** March 23, 2016 @ 08:37:54
+* **Release Date:** March 23, 2016 @ 09:37:54
 * **In-App Purchasing:** No

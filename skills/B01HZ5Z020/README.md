@@ -18,7 +18,7 @@ Telehems account and switch required.
 * **ID:** amzn1.ask.skill.9b10b3ed-d1c0-4949-bb2f-8006cdd1919b
 * **ASIN:** B01HZ5Z020
 * **Author:** Telehems Labs Corporation
-* **Release Date:** July 28, 2016 @ 13:26:12
+* **Release Date:** July 28, 2016 @ 14:26:12
 * **Privacy Policy:** https://www.telehems.com/privacy.jsp
 * **Account Linking Domains:** www.telehems.com, pitangui.amazon.com, usa.telehems.com
 * **In-App Purchasing:** No

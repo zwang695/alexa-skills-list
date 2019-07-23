@@ -20,5 +20,5 @@ Fun facts about US Presidents including presidential firsts, quirky trivia, and 
 * **ID:** amzn1.ask.skill.8dc49a45-e19f-46d5-8392-d8480e252be0
 * **ASIN:** B01MDUKHE4
 * **Author:** eRose Web & Business Services, LLC
-* **Release Date:** November 9, 2016 @ 00:13:39
+* **Release Date:** November 9, 2016 @ 01:13:39
 * **In-App Purchasing:** No

@@ -20,5 +20,5 @@ The Nubs Nob Snow Report brought to you by SnoCountry brings you the latest snow
 * **ID:** amzn1.ask.skill.611a3316-983f-4623-a673-f646e652fe35
 * **ASIN:** B01M9DB68E
 * **Author:** SnoCountry
-* **Release Date:** October 21, 2016 @ 15:13:40
+* **Release Date:** October 21, 2016 @ 16:13:40
 * **In-App Purchasing:** No

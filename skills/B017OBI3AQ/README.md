@@ -20,7 +20,7 @@ Garageio is the simple and secure way to control and monitor your garage door fr
 * **ID:** amzn1.echo-sdk-ams.app.de7ac478-8b20-40db-83fe-ea16a7755c1c
 * **ASIN:** B017OBI3AQ
 * **Author:** Alottazs Labs, LLC
-* **Release Date:** November 6, 2015 @ 14:07:58
+* **Release Date:** November 6, 2015 @ 15:07:58
 * **Privacy Policy:** https://garageio.com/privacy
 * **Terms of Use:** https://garageio.com/terms
 * **Account Linking Domains:** dev.garageio.com, www.garageio.com, garageio.com

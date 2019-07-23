@@ -24,5 +24,5 @@ Alexa may struggle with some of the Maori pronunciations but thats half the fun.
 * **ID:** amzn1.ask.skill.c3a7eacd-65fc-4beb-b3d0-8e45798d1140
 * **ASIN:** B01KRFQ290
 * **Author:** Hereapp
-* **Release Date:** August 26, 2016 @ 01:33:05
+* **Release Date:** August 26, 2016 @ 02:33:05
 * **In-App Purchasing:** No

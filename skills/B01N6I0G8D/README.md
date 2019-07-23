@@ -22,5 +22,5 @@ This application is not sponsored or endorsed by 20Q.net Inc. in any way.
 * **ID:** amzn1.ask.skill.ba0305e7-cde8-4816-bfe2-947d0add27aa
 * **ASIN:** B01N6I0G8D
 * **Author:** Daryl Jewkes
-* **Release Date:** December 21, 2016 @ 08:49:17
+* **Release Date:** December 21, 2016 @ 09:49:17
 * **In-App Purchasing:** No

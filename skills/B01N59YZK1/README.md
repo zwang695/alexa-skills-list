@@ -24,5 +24,5 @@ Due to the way Alexa works, only approved habits can be added. Contact the dev i
 * **ID:** amzn1.ask.skill.e0a28738-d799-440c-9227-ce835764ee18
 * **ASIN:** B01N59YZK1
 * **Author:** Pro Efficience
-* **Release Date:** December 7, 2016 @ 03:19:10
+* **Release Date:** December 7, 2016 @ 04:19:10
 * **In-App Purchasing:** No

@@ -18,5 +18,5 @@ Simply ask for a programming quote and you shall receive.
 * **ID:** amzn1.ask.skill.333f9e92-b806-4843-9e85-5d984e8680e0
 * **ASIN:** B01N9N9CSV
 * **Author:** Jeremy De La Cruz
-* **Release Date:** January 2, 2017 @ 07:18:42
+* **Release Date:** January 2, 2017 @ 08:18:42
 * **In-App Purchasing:** No

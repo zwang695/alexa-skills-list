@@ -20,5 +20,5 @@ What's on tap at SheppyBrew Home Brewery and other information. There are no spe
 * **ID:** amzn1.ask.skill.1e73da98-4ffa-4cfa-b9c8-2a9e55ce4e4a
 * **ASIN:** B01M3TBS1U
 * **Author:** SheppyBrew
-* **Release Date:** November 2, 2016 @ 03:14:32
+* **Release Date:** November 2, 2016 @ 04:14:32
 * **In-App Purchasing:** No

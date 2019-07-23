@@ -16,5 +16,5 @@ You can know the moon age by asking to Echo.
 * **ID:** amzn1.echo-sdk-ams.app.92df80e5-0ad8-406d-9057-b996c8f0b6f3
 * **ASIN:** B01GBD1AUI
 * **Author:** sparkgene
-* **Release Date:** May 31, 2016 @ 08:08:31
+* **Release Date:** May 31, 2016 @ 09:08:31
 * **In-App Purchasing:** No

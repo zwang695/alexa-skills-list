@@ -20,5 +20,5 @@ Tech Trivia is a trivia game that will test your knowledge on tech subjects! Jus
 * **ID:** amzn1.ask.skill.5e366f07-2553-4804-86a3-080d54479a4a
 * **ASIN:** B01M4PNXGE
 * **Author:** Andrew Allen
-* **Release Date:** November 13, 2016 @ 00:43:57
+* **Release Date:** November 13, 2016 @ 01:43:57
 * **In-App Purchasing:** No

@@ -16,5 +16,5 @@ This is a knowledge test designed to help you learn the average atomic weights o
 * **ID:** amzn1.ask.skill.adcb1d8d-b252-4ce9-aacc-7e6dded18652
 * **ASIN:** B01M8O8VXP
 * **Author:** Private Technology Group
-* **Release Date:** November 2, 2016 @ 03:13:37
+* **Release Date:** November 2, 2016 @ 04:13:37
 * **In-App Purchasing:** No

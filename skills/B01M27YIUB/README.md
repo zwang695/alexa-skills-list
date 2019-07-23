@@ -16,5 +16,5 @@ Reads the current Deals of the Day from Amazon.com
 * **ID:** amzn1.ask.skill.3827c04e-6747-43fe-aaec-c51af74b0780
 * **ASIN:** B01M27YIUB
 * **Author:** Umpy
-* **Release Date:** October 26, 2016 @ 01:45:34
+* **Release Date:** October 26, 2016 @ 02:45:34
 * **In-App Purchasing:** No

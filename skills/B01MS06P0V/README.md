@@ -20,5 +20,5 @@ NetHack Fortune Cookies (Unofficial) provides random fortune cookies from the cl
 * **ID:** amzn1.ask.skill.7dfcb1d1-24c6-450f-9dad-b53fb8f50bda
 * **ASIN:** B01MS06P0V
 * **Author:** Joel D.
-* **Release Date:** December 27, 2016 @ 02:49:07
+* **Release Date:** December 27, 2016 @ 03:49:07
 * **In-App Purchasing:** No

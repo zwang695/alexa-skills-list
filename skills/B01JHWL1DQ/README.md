@@ -20,5 +20,5 @@ Set of trivia about Apple co-founder Steve Jobs. When prompted, Steve Jobs Trivi
 * **ID:** amzn1.ask.skill.66b45847-5c39-4464-9b2e-6d805e681a9b
 * **ASIN:** B01JHWL1DQ
 * **Author:** Hannah  Smith
-* **Release Date:** August 22, 2016 @ 07:45:27
+* **Release Date:** August 22, 2016 @ 08:45:27
 * **In-App Purchasing:** No

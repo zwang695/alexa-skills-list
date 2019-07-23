@@ -22,5 +22,5 @@ The retrieved posts are a subset of what's available on the site, specifically f
 * **ID:** amzn1.ask.skill.03f76c69-9c9d-4364-ad9d-8a4dbcddc65d
 * **ASIN:** B01N3K2EIK
 * **Author:** Jason Willems
-* **Release Date:** November 12, 2016 @ 00:14:40
+* **Release Date:** November 12, 2016 @ 01:14:40
 * **In-App Purchasing:** No

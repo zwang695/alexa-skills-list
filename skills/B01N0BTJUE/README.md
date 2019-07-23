@@ -20,5 +20,5 @@ common unit conversion details like how much is 0 degree Celsius equal to Fahren
 * **ID:** amzn1.ask.skill.2d0b1058-cd64-4cb2-b682-0d0129714f33
 * **ASIN:** B01N0BTJUE
 * **Author:** ERBABU
-* **Release Date:** November 20, 2016 @ 23:07:52
+* **Release Date:** November 21, 2016 @ 00:07:52
 * **In-App Purchasing:** No

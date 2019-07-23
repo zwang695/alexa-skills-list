@@ -20,5 +20,5 @@ The Heavenly Mountain Snow Report brought to you by SnoCountry brings you the la
 * **ID:** amzn1.ask.skill.b8d50bb0-d6a3-4c66-880f-dfcbd4279699
 * **ASIN:** B01LXFKDEP
 * **Author:** SnoCountry
-* **Release Date:** October 20, 2016 @ 03:15:44
+* **Release Date:** October 20, 2016 @ 04:15:44
 * **In-App Purchasing:** No

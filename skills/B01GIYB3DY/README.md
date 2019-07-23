@@ -26,5 +26,5 @@ Alexa knows tons about sports trivia, and is just dying to prove that she's bett
 * **ID:** amzn1.echo-sdk-ams.app.a69e942d-aba2-418d-80a0-b36c528a70ec
 * **ASIN:** B01GIYB3DY
 * **Author:** The Cadrol Group, Ltd.
-* **Release Date:** June 7, 2016 @ 08:08:32
+* **Release Date:** June 7, 2016 @ 09:08:32
 * **In-App Purchasing:** No

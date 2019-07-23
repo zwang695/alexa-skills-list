@@ -33,5 +33,5 @@ Thanks and keep on tracking!
 * **ID:** amzn1.echo-sdk-ams.app.15cd6446-c64f-48c7-a8ff-d030df342380
 * **ASIN:** B01FOVT6VS
 * **Author:** SG Technologies
-* **Release Date:** June 10, 2016 @ 06:10:07
+* **Release Date:** June 10, 2016 @ 07:10:07
 * **In-App Purchasing:** No

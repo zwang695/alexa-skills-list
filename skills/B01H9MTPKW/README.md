@@ -22,5 +22,5 @@ Disclaimer: This skill may not be suitable for all ages
 * **ID:** amzn1.echo-sdk-ams.app.79314a3b-dae1-49db-8189-d793e772f30b
 * **ASIN:** B01H9MTPKW
 * **Author:** dkapps
-* **Release Date:** June 23, 2016 @ 06:15:43
+* **Release Date:** June 23, 2016 @ 07:15:43
 * **In-App Purchasing:** No
